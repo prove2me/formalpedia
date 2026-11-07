@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_ExtremePoint_system7_solution
 -- name    : HordijkKallenbergLP.ExtremePoint.system7_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:57:37.049164+00:00
 -- url     : https://prove2.me/theorems/362b197b-b42c-43a4-9a5b-2a2caa238c7d

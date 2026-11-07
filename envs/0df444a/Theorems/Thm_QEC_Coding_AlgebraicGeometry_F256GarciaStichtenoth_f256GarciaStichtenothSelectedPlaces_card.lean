@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_f256GarciaStichtenothSelectedPlaces_card
 -- name    : QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256GarciaStichtenothSelectedPlaces_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:51:14.081418+00:00
 -- url     : https://prove2.me/theorems/49a671e7-e926-4e61-beed-0a65374a3dae

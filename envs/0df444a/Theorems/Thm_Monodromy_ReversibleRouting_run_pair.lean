@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleRouting_run_pair
 -- name    : Monodromy.ReversibleRouting.run_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:38:21.44332+00:00
 -- url     : https://prove2.me/theorems/11f1935f-0ac5-447c-a97e-f8222c7bef59

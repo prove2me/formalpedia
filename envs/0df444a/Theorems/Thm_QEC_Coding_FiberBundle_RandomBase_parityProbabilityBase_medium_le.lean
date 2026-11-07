@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_parityProbabilityBase_medium_le
 -- name    : QEC.Coding.FiberBundle.RandomBase.parityProbabilityBase_medium_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:43:00.828756+00:00
 -- url     : https://prove2.me/theorems/e1187847-54a6-4e95-9b3d-c9c730af02cc

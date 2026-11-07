@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCMu_HeavyTraffic_sec_4_1_unique_continuous
 -- name    : GenCMu.HeavyTraffic.sec_4_1_unique_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:45:42.449302+00:00
 -- url     : https://prove2.me/theorems/3c975538-e48b-4cb1-9314-1268e5021d8c

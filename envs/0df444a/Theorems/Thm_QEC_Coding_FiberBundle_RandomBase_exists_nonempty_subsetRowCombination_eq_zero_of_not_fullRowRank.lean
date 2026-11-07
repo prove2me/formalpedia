@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_exists_nonempty_subsetRowCombination_eq_zero_of_not_fullRowRank
 -- name    : QEC.Coding.FiberBundle.RandomBase.exists_nonempty_subsetRowCombination_eq_zero_of_not_fullRowRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:30:29.430207+00:00
 -- url     : https://prove2.me/theorems/f9cec68b-4456-4759-9d76-d92d116da813

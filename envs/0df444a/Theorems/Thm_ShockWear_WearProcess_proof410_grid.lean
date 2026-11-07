@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_WearProcess_proof410_grid
 -- name    : ShockWear.WearProcess.proof410_grid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:55:46.639041+00:00
 -- url     : https://prove2.me/theorems/9b50de8f-68d8-44c3-9d18-db2b3a762cb6

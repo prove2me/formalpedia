@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_defectplus_lt_one_e
 -- name    : OAI.SharpPlanar.Numerical.defectplus_lt_one_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T23:17:34.891947+00:00
 -- url     : https://prove2.me/theorems/52b22f77-d963-4337-a561-1688d31a0b75

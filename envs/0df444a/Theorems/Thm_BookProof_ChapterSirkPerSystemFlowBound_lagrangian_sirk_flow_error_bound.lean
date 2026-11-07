@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSirkPerSystemFlowBound_lagrangian_sirk_flow_error_bound
 -- name    : BookProof.ChapterSirkPerSystemFlowBound.lagrangian_sirk_flow_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-05T19:43:28.931655+00:00
 -- url     : https://prove2.me/theorems/1d6d9024-0758-4389-a523-7609b7b72e54

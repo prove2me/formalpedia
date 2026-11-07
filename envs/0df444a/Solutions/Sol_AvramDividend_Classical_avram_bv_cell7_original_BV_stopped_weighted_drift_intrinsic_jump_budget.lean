@@ -1,0 +1,107 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_bv_cell7_original_BV_stopped_weighted_drift_intrinsic_jump_budget
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-06T12:35:43.796257+00:00
+-- url     : https://prove2.me/submissions/7ba78420-2794-4833-b3a7-a4b6d556fc6d
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_avram_bv_cell7_original_stopped_weighted_raw_jump_grid_budget
+import Theorems.Thm_AvramDividend_Classical_avram_bv_cell7_original_BV_raw_negative_jump_halfopen_marked_real
+import Theorems.Thm_AvramDividend_Classical_avram_p3_a_bvdrift_original_raw_jump_cumulative_disjoint_interval_additivity
+import Theorems.Thm_AvramDividend_Classical_avram_p3_grid3_original_ruin_stopped_uniform_physical_clock
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set AvramDividend.Classical
+open scoped NNReal ENNReal BigOperators
+noncomputable section
+
+/-- Exact original BV physical-grid raw-source upper bound with the
+    actual intrinsic marked jump measure in every stopped cell. -/
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (hBV : X.BoundedVariation)
+    (x : ℝ) (D : ℝ≥0 → Ω → ℝ) (T : ℝ≥0) (m : ℕ)
+    (W : ℕ → Ω → ℝ) (hW : ∀ ω i, 0 ≤ W i ω) :
+    ∀ᵐ ω ∂P,
+      let τ : ℝ≥0 :=
+        (min (ruinTime X x D ω) (T : ℝ≥0∞)).toNNReal
+      let s : ℕ → ℝ≥0 := fun i =>
+        min (((min i (m + 1) : ℕ) : ℝ≥0) * (T / (m + 1))) τ
+      let Δ : ℝ≥0 → ℝ := fun v =>
+        X.X v ω - Function.leftLim (fun z : ℝ≥0 => X.X z ω) v
+      let N : ℕ → Measure (ℝ≥0 × ℝ) := fun i =>
+        ((Measure.count.restrict
+          ({v : ℝ≥0 | 0 < v ∧ Δ v ≠ 0} ∩ Ioc (s i) (s (i + 1)))).map
+            (fun v : ℝ≥0 => (v, Δ v)))
+      (∑ i ∈ Finset.range (m + 1),
+        W i ω * (X.X (s (i + 1)) ω - X.X (s i) ω)) ≤
+      ∑ i ∈ Finset.range (m + 1),
+        W i ω *
+          ((((s (i + 1) : ℝ) - (s i : ℝ)) * X.drift) -
+            (∫⁻ p, ENNReal.ofReal (-p.2) ∂N i).toReal) := by
+  have hRaw :=
+    AvramDividend.Classical.avram_bv_cell7_original_stopped_weighted_raw_jump_grid_budget
+      X hBV x D T m W hW
+  have hCell :=
+    AvramDividend.Classical.avram_bv_cell7_original_BV_raw_negative_jump_halfopen_marked_real
+      X hBV
+  have hAdd :=
+    AvramDividend.Classical.avram_p3_a_bvdrift_original_raw_jump_cumulative_disjoint_interval_additivity
+      X hBV
+  filter_upwards [hRaw, hCell, hAdd] with ω hraw hcell hadd
+  let τ : ℝ≥0 := (min (ruinTime X x D ω) (T : ℝ≥0∞)).toNNReal
+  let s : ℕ → ℝ≥0 := fun i =>
+    min (((min i (m + 1) : ℕ) : ℝ≥0) * (T / (m + 1))) τ
+  let Δ : ℝ≥0 → ℝ := fun v =>
+    X.X v ω - Function.leftLim (fun z : ℝ≥0 => X.X z ω) v
+  let N : ℕ → Measure (ℝ≥0 × ℝ) := fun i =>
+    ((Measure.count.restrict
+      ({v : ℝ≥0 | 0 < v ∧ Δ v ≠ 0} ∩ Ioc (s i) (s (i + 1)))).map
+        (fun v : ℝ≥0 => (v, Δ v)))
+  let J : ℝ≥0 → ℝ := fun t =>
+    ∑' v : ℝ≥0, if 0 < v ∧ v ≤ t then
+      Function.leftLim (fun z : ℝ≥0 => X.X z ω) v - X.X v ω else 0
+  have hsmon : Monotone s := by
+    simpa only [s, τ] using
+      (AvramDividend.Classical.avram_p3_grid3_original_ruin_stopped_uniform_physical_clock
+        X x D T m ω).2.2
+  have hJ (i : ℕ) : J (s (i + 1)) - J (s i) =
+      (∫⁻ p, ENNReal.ofReal (-p.2) ∂N i).toReal := by
+    have ha : J (s (i + 1)) = J (s i) +
+        (∑' v : ℝ≥0, if s i < v ∧ v ≤ s (i + 1) then
+          Function.leftLim (fun z : ℝ≥0 => X.X z ω) v - X.X v ω
+          else 0) := by
+      simpa only [J] using hadd (s i) (s (i + 1))
+        (hsmon (Nat.le_succ i))
+    have hb : (∫⁻ p, ENNReal.ofReal (-p.2) ∂N i).toReal =
+        (∑' v : ℝ≥0, if s i < v ∧ v ≤ s (i + 1) then
+          Function.leftLim (fun z : ℝ≥0 => X.X z ω) v - X.X v ω
+          else 0) := by
+      simpa only [N, Δ] using hcell (s i) (s (i + 1))
+        (hsmon (Nat.le_succ i))
+    linarith only [ha, hb]
+  have hRaw' :
+      (∑ i ∈ Finset.range (m + 1),
+        W i ω * (X.X (s (i + 1)) ω - X.X (s i) ω)) ≤
+      ∑ i ∈ Finset.range (m + 1),
+        W i ω * ((((s (i + 1) : ℝ) - (s i : ℝ)) * X.drift) -
+          (J (s (i + 1)) - J (s i))) := by
+    simpa only [s, τ, J] using hraw
+  calc
+    (∑ i ∈ Finset.range (m + 1),
+      W i ω * (X.X (s (i + 1)) ω - X.X (s i) ω)) ≤
+        ∑ i ∈ Finset.range (m + 1),
+          W i ω * ((((s (i + 1) : ℝ) - (s i : ℝ)) * X.drift) -
+            (J (s (i + 1)) - J (s i))) := hRaw'
+    _ = ∑ i ∈ Finset.range (m + 1),
+          W i ω * ((((s (i + 1) : ℝ) - (s i : ℝ)) * X.drift) -
+            (∫⁻ p, ENNReal.ofReal (-p.2) ∂N i).toReal) := by
+              apply Finset.sum_congr rfl
+              intro i hi
+              rw [hJ i]

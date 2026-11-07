@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_revenue_eq_stackRevenue_priceOfAssortment
 -- name    : RevenueOrdered.Stackelberg.revenue_eq_stackRevenue_priceOfAssortment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:31:40.474562+00:00
 -- url     : https://prove2.me/theorems/6c5f1810-3652-4b44-98d9-744260700dcd

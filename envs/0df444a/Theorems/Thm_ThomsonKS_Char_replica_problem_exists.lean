@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThomsonKS_Char_replica_problem_exists
 -- name    : ThomsonKS.Char.replica_problem_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:47:50.745374+00:00
 -- url     : https://prove2.me/theorems/ca39916b-9e8e-4ef1-8da6-74f68a06f420

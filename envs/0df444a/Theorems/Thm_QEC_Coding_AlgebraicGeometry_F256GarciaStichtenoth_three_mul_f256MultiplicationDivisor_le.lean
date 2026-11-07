@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_three_mul_f256MultiplicationDivisor_le
 -- name    : QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.three_mul_f256MultiplicationDivisor_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:44:10.766797+00:00
 -- url     : https://prove2.me/theorems/95de88ed-3fab-4f59-b605-dfe5f5af7799

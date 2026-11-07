@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_s_div_t_tendsto_zero
 -- name    : HeymanStidham.HLG.s_div_t_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:35:32.668315+00:00
 -- url     : https://prove2.me/theorems/520b3922-6f48-47b1-9a8b-51871b50c59b

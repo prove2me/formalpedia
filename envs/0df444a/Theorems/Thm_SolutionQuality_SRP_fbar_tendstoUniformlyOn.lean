@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolutionQuality_SRP_fbar_tendstoUniformlyOn
 -- name    : SolutionQuality.SRP.fbar_tendstoUniformlyOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:48:05.610329+00:00
 -- url     : https://prove2.me/theorems/d8302458-b8f8-4543-a622-cb5de0f59b37

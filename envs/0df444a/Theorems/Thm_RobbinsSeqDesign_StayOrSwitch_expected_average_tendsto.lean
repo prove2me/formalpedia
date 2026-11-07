@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_StayOrSwitch_expected_average_tendsto
 -- name    : RobbinsSeqDesign.StayOrSwitch.expected_average_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:42:15.710407+00:00
 -- url     : https://prove2.me/theorems/84a392e4-38c8-4312-9970-a66b46c72c7a

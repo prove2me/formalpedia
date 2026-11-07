@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_fourFactorTransport_conj_boundaryLocalUnitaryToRegister
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.fourFactorTransport_conj_boundaryLocalUnitaryToRegister
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:24:22.120532+00:00
 -- url     : https://prove2.me/theorems/0bf0486a-d638-4a86-ad43-f6d0b97b597f

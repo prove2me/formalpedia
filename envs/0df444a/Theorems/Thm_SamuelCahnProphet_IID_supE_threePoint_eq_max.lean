@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_supE_threePoint_eq_max
 -- name    : SamuelCahnProphet.IID.supE_threePoint_eq_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:50.502719+00:00
 -- url     : https://prove2.me/theorems/0641366b-e5b7-4077-9ce1-ce0db6d00687

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SchedComplexity.Tardiness.theorem_4d_knapsack_reducible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T12:17:15.775784+00:00
 -- url     : https://prove2.me/submissions/bf5e425b-3f47-4aa7-9db6-2233857fb058
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_CookPvsNP_defs

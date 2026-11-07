@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ICOTheory_Signaling_proposition_6_signaling_advantage_intervals
 -- name    : ICOTheory.Signaling.proposition_6_signaling_advantage_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:08:03.761059+00:00
 -- url     : https://prove2.me/theorems/27a6d0fc-786b-41bb-a841-c3200ee6aba9

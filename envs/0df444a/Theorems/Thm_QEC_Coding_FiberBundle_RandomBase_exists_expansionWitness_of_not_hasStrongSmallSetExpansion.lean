@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_exists_expansionWitness_of_not_hasStrongSmallSetExpansion
 -- name    : QEC.Coding.FiberBundle.RandomBase.exists_expansionWitness_of_not_hasStrongSmallSetExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:47:43.027621+00:00
 -- url     : https://prove2.me/theorems/43349d17-3bfc-4107-b105-5874e9a19db5

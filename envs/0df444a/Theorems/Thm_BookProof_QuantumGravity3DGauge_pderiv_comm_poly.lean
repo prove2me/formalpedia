@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_pderiv_comm_poly
 -- name    : BookProof.QuantumGravity3DGauge.pderiv_comm_poly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T04:36:49.353059+00:00
 -- url     : https://prove2.me/theorems/ddca4c59-0a4a-4a4e-ad86-cb0e602778fa

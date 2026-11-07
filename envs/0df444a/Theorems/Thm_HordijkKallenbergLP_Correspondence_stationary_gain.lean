@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_Correspondence_stationary_gain
 -- name    : HordijkKallenbergLP.Correspondence.stationary_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:13:19.735056+00:00
 -- url     : https://prove2.me/theorems/90c4d873-2cd6-4ae5-b92c-8399b38d00e6

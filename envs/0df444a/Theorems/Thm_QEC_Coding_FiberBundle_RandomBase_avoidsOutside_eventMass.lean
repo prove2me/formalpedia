@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_avoidsOutside_eventMass
 -- name    : QEC.Coding.FiberBundle.RandomBase.avoidsOutside_eventMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:57.935199+00:00
 -- url     : https://prove2.me/theorems/ba2f1eed-d435-49f6-943f-e7796c86d832

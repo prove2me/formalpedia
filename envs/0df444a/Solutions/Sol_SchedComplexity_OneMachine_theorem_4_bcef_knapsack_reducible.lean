@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SchedComplexity.OneMachine.theorem_4_bcef_knapsack_reducible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T12:37:03.816792+00:00
 -- url     : https://prove2.me/submissions/46303011-95dd-46ec-8284-3ea9b1fb12a7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SchedComplexity_OneMachine_Knapsack

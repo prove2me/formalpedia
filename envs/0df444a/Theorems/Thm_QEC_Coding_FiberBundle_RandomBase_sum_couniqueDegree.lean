@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_sum_couniqueDegree
 -- name    : QEC.Coding.FiberBundle.RandomBase.sum_couniqueDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:00.030717+00:00
 -- url     : https://prove2.me/theorems/cb78e2a0-5290-4bd6-b5c2-c233ef91d58a

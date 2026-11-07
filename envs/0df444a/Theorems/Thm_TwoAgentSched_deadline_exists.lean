@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_deadline_exists
 -- name    : TwoAgentSched.deadline_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:51:41.490681+00:00
 -- url     : https://prove2.me/theorems/c172c07e-bd7c-4886-854b-38d37c62b736

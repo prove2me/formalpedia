@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_overlap_commute
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_overlap_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:17:02.6381+00:00
 -- url     : https://prove2.me/theorems/678a4f6b-431b-4602-8195-41dca0de5119

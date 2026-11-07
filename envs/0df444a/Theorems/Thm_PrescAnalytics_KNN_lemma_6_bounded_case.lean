@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrescAnalytics_KNN_lemma_6_bounded_case
 -- name    : PrescAnalytics.KNN.lemma_6_bounded_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:42:04.357338+00:00
 -- url     : https://prove2.me/theorems/d8928788-d927-4865-aa36-e8ff946cf512

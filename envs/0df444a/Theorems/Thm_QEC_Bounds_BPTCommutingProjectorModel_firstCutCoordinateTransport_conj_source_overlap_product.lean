@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_firstCutCoordinateTransport_conj_source_overlap_product
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.firstCutCoordinateTransport_conj_source_overlap_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:18:08.917613+00:00
 -- url     : https://prove2.me/theorems/ed208108-450c-4f8e-9374-6c541b58911b

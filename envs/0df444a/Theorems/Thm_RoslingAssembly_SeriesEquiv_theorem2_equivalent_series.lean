@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_SeriesEquiv_theorem2_equivalent_series
 -- name    : RoslingAssembly.SeriesEquiv.theorem2_equivalent_series
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:38.595247+00:00
 -- url     : https://prove2.me/theorems/7f25a4e9-a47d-4771-b845-041e6b26212f

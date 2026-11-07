@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_two_le_hammingWeight_verticalFiber_coboundary_of_mem_shadow_of_normalized
 -- name    : QEC.Coding.FiberBundle.two_le_hammingWeight_verticalFiber_coboundary_of_mem_shadow_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:46.946693+00:00
 -- url     : https://prove2.me/theorems/4494384d-41ba-4fe4-a2b3-0a2d5e97ffab

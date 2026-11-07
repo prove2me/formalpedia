@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Reentrant_example1_clearing_unstable
 -- name    : KumarSeidman.Reentrant.example1_clearing_unstable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:35:26.372989+00:00
 -- url     : https://prove2.me/theorems/b5601d92-3f95-4571-aa86-95046f2fadb2

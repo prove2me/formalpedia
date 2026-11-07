@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_Correspondence_theorem_8
 -- name    : HordijkKallenbergLP.Correspondence.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:13:33.168234+00:00
 -- url     : https://prove2.me/theorems/9a345117-51e1-4637-832a-6a6bb3e3609a

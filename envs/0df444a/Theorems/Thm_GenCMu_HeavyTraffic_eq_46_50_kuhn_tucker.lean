@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCMu_HeavyTraffic_eq_46_50_kuhn_tucker
 -- name    : GenCMu.HeavyTraffic.eq_46_50_kuhn_tucker
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:45:51.835348+00:00
 -- url     : https://prove2.me/theorems/0eea6bba-09c8-431f-9b21-4bb6d7f154a4

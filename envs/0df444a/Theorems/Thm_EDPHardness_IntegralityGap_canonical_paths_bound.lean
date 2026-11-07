@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_canonical_paths_bound
 -- name    : EDPHardness.IntegralityGap.canonical_paths_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:46.361032+00:00
 -- url     : https://prove2.me/theorems/ad8888fa-75fb-4d3b-9f1c-5951a5437a72

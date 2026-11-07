@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_sum_cycleFiberCoboundary_eq_zero
 -- name    : QEC.Coding.FiberBundle.sum_cycleFiberCoboundary_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:41.951353+00:00
 -- url     : https://prove2.me/theorems/dfda32c6-f15d-458b-b3e7-6076186d2df8

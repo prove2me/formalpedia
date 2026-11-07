@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleCompilation_counter_departure
 -- name    : Monodromy.ReversibleCompilation.counter_departure
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:48:17.706073+00:00
 -- url     : https://prove2.me/theorems/43e42f7e-7013-411f-a7b6-a771b462178c

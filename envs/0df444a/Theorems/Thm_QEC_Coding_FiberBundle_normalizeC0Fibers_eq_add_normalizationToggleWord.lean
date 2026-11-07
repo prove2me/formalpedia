@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_normalizeC0Fibers_eq_add_normalizationToggleWord
 -- name    : QEC.Coding.FiberBundle.normalizeC0Fibers_eq_add_normalizationToggleWord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:55:53.595927+00:00
 -- url     : https://prove2.me/theorems/7d50b327-a4fa-469a-9cd3-352330cc0aad

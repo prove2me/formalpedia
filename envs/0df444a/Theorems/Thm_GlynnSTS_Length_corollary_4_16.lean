@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_Length_corollary_4_16
 -- name    : GlynnSTS.Length.corollary_4_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:05.007977+00:00
 -- url     : https://prove2.me/theorems/c550e836-b1e4-4f91-895f-d871d99ebdd5

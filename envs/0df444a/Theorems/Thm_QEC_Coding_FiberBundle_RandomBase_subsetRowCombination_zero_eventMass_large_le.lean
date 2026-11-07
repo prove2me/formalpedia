@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_subsetRowCombination_zero_eventMass_large_le
 -- name    : QEC.Coding.FiberBundle.RandomBase.subsetRowCombination_zero_eventMass_large_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:29:56.056292+00:00
 -- url     : https://prove2.me/theorems/0692dbda-7eb0-4d4f-9438-6d942c191e8a

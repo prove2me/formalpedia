@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_avoidsOutside_iff_neighborhood_subset
 -- name    : QEC.Coding.FiberBundle.RandomBase.avoidsOutside_iff_neighborhood_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:14.593814+00:00
 -- url     : https://prove2.me/theorems/a83a9cb6-7292-418c-b0da-71274bb48d36

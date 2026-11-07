@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_doubleInteractionCoefficient_sector_dichotomy
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_doubleInteractionCoefficient_sector_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:28:40.830203+00:00
 -- url     : https://prove2.me/theorems/c5def22e-941a-4c4d-812f-39b774dfb701

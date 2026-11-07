@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Counter_TuringCompiler_step_firstReturn
 -- name    : Monodromy.Counter.TuringCompiler.step_firstReturn
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:47:26.298267+00:00
 -- url     : https://prove2.me/theorems/cc98de95-8e76-4847-b2b7-74483dbee9e9

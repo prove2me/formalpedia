@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_stackelberg_matroid_is_assortment
 -- name    : RevenueOrdered.Stackelberg.stackelberg_matroid_is_assortment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:32:07.535839+00:00
 -- url     : https://prove2.me/theorems/89caa1a7-763c-4b41-8362-8c757251387f

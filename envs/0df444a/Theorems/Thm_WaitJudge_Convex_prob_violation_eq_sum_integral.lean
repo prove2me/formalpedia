@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_prob_violation_eq_sum_integral
 -- name    : WaitJudge.Convex.prob_violation_eq_sum_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:59:24.053318+00:00
 -- url     : https://prove2.me/theorems/5b10157d-5c7b-4cba-93d8-a47b1f3a3cc8

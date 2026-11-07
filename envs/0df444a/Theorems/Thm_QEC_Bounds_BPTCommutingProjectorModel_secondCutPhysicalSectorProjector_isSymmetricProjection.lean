@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCutPhysicalSectorProjector_isSymmetricProjection
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCutPhysicalSectorProjector_isSymmetricProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:28:20.700078+00:00
 -- url     : https://prove2.me/theorems/2e77561a-8869-4639-baa8-f7a790f1e16c

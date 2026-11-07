@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_paritySign_row_sum
 -- name    : QEC.Coding.FiberBundle.RandomBase.paritySign_row_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:35:45.747973+00:00
 -- url     : https://prove2.me/theorems/fa9c6bcf-a22d-4653-99a0-303820255ae8

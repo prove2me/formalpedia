@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_eq4_lambda_G
 -- name    : HeymanStidham.HLG.eq4_lambda_G
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:35:12.755626+00:00
 -- url     : https://prove2.me/theorems/df952258-5e06-4577-b52c-bc63b0f0d6f2

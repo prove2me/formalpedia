@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleMechDesign_theorem_3_8
 -- name    : SampleMechDesign.theorem_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:11:40.762026+00:00
 -- url     : https://prove2.me/theorems/ea296091-71fc-4456-b85e-09c71d13bfee

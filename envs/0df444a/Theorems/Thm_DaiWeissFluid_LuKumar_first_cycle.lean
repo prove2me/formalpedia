@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_first_cycle
 -- name    : DaiWeissFluid.LuKumar.first_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:21:33.138376+00:00
 -- url     : https://prove2.me/theorems/c256f446-70e2-407c-99a7-b8d946fbeee9

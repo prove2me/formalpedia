@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Generic_theorem_3
 -- name    : WaitJudge.Generic.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:11:38.839978+00:00
 -- url     : https://prove2.me/theorems/abfcd4dd-2dc8-470c-a40a-e57e947a56e5

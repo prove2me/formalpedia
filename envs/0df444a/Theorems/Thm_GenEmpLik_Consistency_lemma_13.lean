@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Consistency_lemma_13
 -- name    : GenEmpLik.Consistency.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:53:23.582082+00:00
 -- url     : https://prove2.me/theorems/7c4cec7b-893d-42cf-b052-970f08f754f7

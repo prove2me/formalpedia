@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_rowParityZeroIndicator_eq
 -- name    : QEC.Coding.FiberBundle.RandomBase.rowParityZeroIndicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:36:01.870418+00:00
 -- url     : https://prove2.me/theorems/a94b527d-8042-4d88-8fd8-8d91723b23ee

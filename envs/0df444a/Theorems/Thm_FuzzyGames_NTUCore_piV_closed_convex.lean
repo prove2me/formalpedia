@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_NTUCore_piV_closed_convex
 -- name    : FuzzyGames.NTUCore.piV_closed_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:04:18.716371+00:00
 -- url     : https://prove2.me/theorems/243be049-795a-49a0-8d5f-7b3847b0368a

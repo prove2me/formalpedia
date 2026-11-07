@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_f256GarciaStichtenothBeta_mul_degree_divisorB
 -- name    : QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256GarciaStichtenothBeta_mul_degree_divisorB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:39:17.570731+00:00
 -- url     : https://prove2.me/theorems/50e35ffc-5665-4c75-a37f-8363dd881dfb

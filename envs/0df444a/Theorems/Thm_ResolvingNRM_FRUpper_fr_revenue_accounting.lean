@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRUpper_fr_revenue_accounting
 -- name    : ResolvingNRM.FRUpper.fr_revenue_accounting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:44:06.900971+00:00
 -- url     : https://prove2.me/theorems/38b8bfb4-e824-4594-87d0-c490f8666984

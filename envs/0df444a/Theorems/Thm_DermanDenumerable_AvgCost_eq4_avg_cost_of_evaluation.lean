@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanDenumerable_AvgCost_eq4_avg_cost_of_evaluation
 -- name    : DermanDenumerable.AvgCost.eq4_avg_cost_of_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:19:35.646869+00:00
 -- url     : https://prove2.me/theorems/1a3d695e-723b-4f3c-ad71-41d23dddd494

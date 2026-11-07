@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolylogKServer_Main_polylog_competitive
 -- name    : PolylogKServer.Main.polylog_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:28:59.312225+00:00
 -- url     : https://prove2.me/theorems/b5077a04-24fd-4ae4-9b63-c566c21712d7

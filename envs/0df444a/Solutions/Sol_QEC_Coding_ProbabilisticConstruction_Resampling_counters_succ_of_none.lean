@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for QEC.Coding.ProbabilisticConstruction.Resampling.counters_succ_of_none
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T10:18:51.27398+00:00
+-- url     : https://prove2.me/submissions/c839488b-4e82-4c3c-a09e-b5f27aa725f0
+
+import Definitions.Def_QEC_Coding_ProbabilisticConstruction_LocalLemma
+import Mathlib.Probability.ProductMeasure
+import Mathlib.Data.Finset.Sort
+import Definitions.Def_QEC_Coding_ProbabilisticConstruction_Resampling_Execution
+import Theorems.Thm_QEC_Coding_ProbabilisticConstruction_Resampling_advance_of_mem
+import Theorems.Thm_QEC_Coding_ProbabilisticConstruction_Resampling_advance_of_notMem
+import Theorems.Thm_QEC_Coding_ProbabilisticConstruction_avoid_empty
+import Theorems.Thm_QEC_Coding_ProbabilisticConstruction_avoid_insert
+attribute [local simp] QEC.Coding.ProbabilisticConstruction.avoid_empty
+attribute [local simp] QEC.Coding.ProbabilisticConstruction.avoid_insert
+
+
+attribute [local simp] QEC.Coding.ProbabilisticConstruction.Resampling.advance_of_mem
+attribute [local simp] QEC.Coding.ProbabilisticConstruction.Resampling.advance_of_notMem
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.ProbabilisticConstruction QEC.Coding.ProbabilisticConstruction.Resampling
+open MeasureTheory ProbabilityTheory
+variable {V I : Type*} [Fintype V] [DecidableEq V] [Fintype I] [LinearOrder I]
+variable {X : V → Type*}
+variable (vars : I → Finset V) (bad : ∀ i, Set (∀ v : vars i, X v))
+variable [∀ i, DecidablePred (· ∈ bad i)]
+namespace QEC.Coding.ProbabilisticConstruction.Resampling
+theorem _root_.solution (R : Table (X := X)) (n : ℕ)
+    (h : selected vars bad R n = none) :
+    counters vars bad R (n + 1) = counters vars bad R n := by
+  unfold selected at h
+  simp only [counters, step, h]
+end QEC.Coding.ProbabilisticConstruction.Resampling

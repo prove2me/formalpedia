@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_WeakDuality_hull_conjugate_identity
 -- name    : DualityStability.WeakDuality.hull_conjugate_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:26.859473+00:00
 -- url     : https://prove2.me/theorems/92c1eb28-aec6-4bca-8b1f-cc111f06f7a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSDConstraint_Optimality_U1_eq_uOfMeasure_unique
 -- name    : SSDConstraint.Optimality.U1_eq_uOfMeasure_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:32:14.674823+00:00
 -- url     : https://prove2.me/theorems/81aaca79-dab3-489e-87ee-0fe99efecdbe

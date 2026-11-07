@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_failureMass_decidable_irrel
 -- name    : QEC.Coding.FiberBundle.RandomBase.failureMass_decidable_irrel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:45:03.474206+00:00
 -- url     : https://prove2.me/theorems/3c394ff0-37b7-443e-957f-694e8aa447e1

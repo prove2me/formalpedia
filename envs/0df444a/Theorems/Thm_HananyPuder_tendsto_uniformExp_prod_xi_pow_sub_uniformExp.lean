@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HananyPuder_tendsto_uniformExp_prod_xi_pow_sub_uniformExp
 -- name    : HananyPuder.tendsto_uniformExp_prod_xi_pow_sub_uniformExp
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:12:42.699649+00:00
 -- url     : https://prove2.me/theorems/4c2eec6b-681c-4dc4-b920-aef8831011ac

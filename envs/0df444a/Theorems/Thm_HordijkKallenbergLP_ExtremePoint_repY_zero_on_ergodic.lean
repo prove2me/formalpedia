@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_ExtremePoint_repY_zero_on_ergodic
 -- name    : HordijkKallenbergLP.ExtremePoint.repY_zero_on_ergodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:57:37.480491+00:00
 -- url     : https://prove2.me/theorems/771541cc-88c5-42f6-a7ba-f89ccf63edca

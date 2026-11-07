@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_distribution_apply_eq_rows
 -- name    : QEC.Coding.FiberBundle.RandomBase.distribution_apply_eq_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:34:34.552372+00:00
 -- url     : https://prove2.me/theorems/f28630e4-0068-4329-9753-41b284114c41

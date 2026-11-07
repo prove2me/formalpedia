@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_twice_card_c0Shadow_le_hammingWeight_verticalComponent_add_lift_of_normalized
 -- name    : QEC.Coding.FiberBundle.twice_card_c0Shadow_le_hammingWeight_verticalComponent_add_lift_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:57:44.198302+00:00
 -- url     : https://prove2.me/theorems/28d4550d-055a-4c78-bf97-157ea75c92bd

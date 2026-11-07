@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QEC.Bounds.BPTCommutingProjectorModel.secondCutPhysicalSectorProjector_isSymmetricProjection
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T23:16:13.336794+00:00
 -- url     : https://prove2.me/submissions/a0e48108-af0e-45c9-99ca-9412bd702e1a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QEC_Bounds_BPTDisentangling_FourFactor
 import Definitions.Def_QEC_Bounds_BPTDisentangling_Sectors_Selection

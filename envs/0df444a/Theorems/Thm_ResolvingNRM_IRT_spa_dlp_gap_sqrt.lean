@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_spa_dlp_gap_sqrt
 -- name    : ResolvingNRM.IRT.spa_dlp_gap_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:20:58.409323+00:00
 -- url     : https://prove2.me/theorems/4bf9ec79-5c84-496f-b732-836da6909503

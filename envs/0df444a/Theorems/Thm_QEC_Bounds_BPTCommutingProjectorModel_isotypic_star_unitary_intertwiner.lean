@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_isotypic_star_unitary_intertwiner
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.isotypic_star_unitary_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T13:25:29.539475+00:00
 -- url     : https://prove2.me/theorems/32d4c3f4-e234-436c-8fcd-03fc78196d88

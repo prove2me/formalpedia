@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_isotypic_copy_tensor_unitary_intertwiner
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.isotypic_copy_tensor_unitary_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T13:26:08.707207+00:00
 -- url     : https://prove2.me/theorems/3f965388-64b6-442e-9c54-0d711aa20707

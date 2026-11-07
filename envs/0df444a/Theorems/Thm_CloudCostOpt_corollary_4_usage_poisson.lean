@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudCostOpt_corollary_4_usage_poisson
 -- name    : CloudCostOpt.corollary_4_usage_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:10:26.122405+00:00
 -- url     : https://prove2.me/theorems/cdeb0e97-983b-4095-a214-d51e66a461d7

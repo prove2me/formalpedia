@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_TwoType_case1_periodic
 -- name    : KumarSeidman.TwoType.case1_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:02.942033+00:00
 -- url     : https://prove2.me/theorems/4b6b190c-6d97-44cd-8792-33aa0a75335b

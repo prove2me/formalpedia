@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for QEC.Coding.TannerLiftedProduct.coeff_qExpansion_lpsQuadraticE2DilateModularForm
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T22:27:18.212508+00:00
+-- url     : https://prove2.me/submissions/3336f033-2b37-44f2-9810-24654452a341
+
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSIteratedEisenstein
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSEisensteinDifference
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSModularDilation
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_qExpansion_lpsModularForm_dilate
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiFourSquareSeries_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_lpsTraceThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_qExpansion_lpsQuadraticE2TwistModularForm
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuadraticE2TwistModularForm_apply
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsResiduePrimeAt_q
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiFourSquareSeries_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_lpsTraceThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsQuadraticE2TwistModularForm_apply
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsResiduePrimeAt_q
+
+
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.TannerLiftedProduct
+open Complex Filter Topology
+open scoped UpperHalfPlane ModularForm MatrixGroups Manifold
+namespace QEC.Coding.TannerLiftedProduct
+theorem _root_.solution (q : ℕ) [Fact q.Prime] (hq2 : q≠2)
+    (m : ℕ) (hm : 0 < m) (n : ℕ) :
+    PowerSeries.coeff n (UpperHalfPlane.qExpansion 1 (lpsQuadraticE2DilateModularForm q hq2 m hm))=
+      if m∣n then -24*(ArithmeticFunction.sigma 1 (n/m):ℂ)*lpsQuadraticE2Character q ((n/m:ℕ):ZMod q) else 0 := by
+  rw [lpsQuadraticE2DilateModularForm,coeff_qExpansion_lpsModularForm_dilate]
+  unfold lpsModularDilationCoefficient
+  simp only [coeff_qExpansion_lpsQuadraticE2TwistModularForm]
+end QEC.Coding.TannerLiftedProduct

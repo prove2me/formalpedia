@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisonReimanRBM_Orthant_lipschitz_bound
 -- name    : HarrisonReimanRBM.Orthant.lipschitz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:22:19.451298+00:00
 -- url     : https://prove2.me/theorems/4a7940f3-bd5c-43a6-abae-b859c81cf111

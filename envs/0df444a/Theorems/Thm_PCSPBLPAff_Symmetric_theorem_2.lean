@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Symmetric_theorem_2
 -- name    : PCSPBLPAff.Symmetric.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:17.023669+00:00
 -- url     : https://prove2.me/theorems/a5d2f507-205c-4fec-969e-138e8bc7ff53

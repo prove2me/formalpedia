@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_lowWeightSupport_card_cast_le
 -- name    : QEC.Coding.FiberBundle.RandomBase.lowWeightSupport_card_cast_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:43:51.571485+00:00
 -- url     : https://prove2.me/theorems/be22e3f3-dc61-49b1-9bb2-3b17c2e31d4e

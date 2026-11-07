@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LBFS_prop4_2
 -- name    : DaiWeissFluid.LBFS.prop4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:42:57.327863+00:00
 -- url     : https://prove2.me/theorems/0df73dc7-d69c-425d-9e26-b18bac69a7fe

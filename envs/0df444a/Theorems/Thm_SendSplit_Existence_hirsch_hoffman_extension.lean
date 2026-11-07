@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_hirsch_hoffman_extension
 -- name    : SendSplit.Existence.hirsch_hoffman_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:12:37.778087+00:00
 -- url     : https://prove2.me/theorems/f254b014-5b8c-4347-b789-a6a7df972c6c

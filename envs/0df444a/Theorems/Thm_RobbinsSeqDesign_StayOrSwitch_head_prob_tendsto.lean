@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_StayOrSwitch_head_prob_tendsto
 -- name    : RobbinsSeqDesign.StayOrSwitch.head_prob_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:42:02.352991+00:00
 -- url     : https://prove2.me/theorems/d637d6cb-297d-4a23-adfa-d88e789401ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_positivePartition_polyReducible_evenOdd
 -- name    : GTWSched.NPC.positivePartition_polyReducible_evenOdd
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:40:12.716387+00:00
 -- url     : https://prove2.me/theorems/bd2ba2b0-94ce-4407-8665-600570628b02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_rowDistribution_coordinate_hasLaw
 -- name    : QEC.Coding.FiberBundle.RandomBase.rowDistribution_coordinate_hasLaw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:35:36.479264+00:00
 -- url     : https://prove2.me/theorems/47f7ca02-0e5b-4e2e-b44d-688448d77def

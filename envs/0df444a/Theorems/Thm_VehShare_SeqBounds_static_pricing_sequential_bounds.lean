@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehShare_SeqBounds_static_pricing_sequential_bounds
 -- name    : VehShare.SeqBounds.static_pricing_sequential_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:54:43.570278+00:00
 -- url     : https://prove2.me/theorems/8f80eeba-b516-49b5-9ce3-dc28f33a7613

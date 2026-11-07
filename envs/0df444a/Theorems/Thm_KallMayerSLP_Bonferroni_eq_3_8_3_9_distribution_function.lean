@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Bonferroni_eq_3_8_3_9_distribution_function
 -- name    : KallMayerSLP.Bonferroni.eq_3_8_3_9_distribution_function
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:14:40.53003+00:00
 -- url     : https://prove2.me/theorems/4e72e6bf-5760-47c9-ab51-9e76468a8983

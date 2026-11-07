@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_cm25_1_0_1_contains_e
 -- name    : OAI.SharpPlanar.CachedData.cm25_1_0_1.contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:06:17.6569+00:00
 -- url     : https://prove2.me/theorems/0ced3862-edd9-40a5-9a6a-e1fc833929d0

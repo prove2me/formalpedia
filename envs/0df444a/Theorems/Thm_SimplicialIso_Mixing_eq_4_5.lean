@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Mixing_eq_4_5
 -- name    : SimplicialIso.Mixing.eq_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:23:50.673208+00:00
 -- url     : https://prove2.me/theorems/c2c1191f-4dcd-41df-8852-d0a1e4a03970

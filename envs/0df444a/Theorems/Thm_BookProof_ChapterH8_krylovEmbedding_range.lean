@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_krylovEmbedding_range
 -- name    : BookProof.ChapterH8.krylovEmbedding_range
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T21:50:28.900418+00:00
 -- url     : https://prove2.me/theorems/1cd99fc8-bf81-46f2-b858-f3a16b13b60c

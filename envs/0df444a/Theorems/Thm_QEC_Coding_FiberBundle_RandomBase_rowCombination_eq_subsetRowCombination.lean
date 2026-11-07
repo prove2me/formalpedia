@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_rowCombination_eq_subsetRowCombination
 -- name    : QEC.Coding.FiberBundle.RandomBase.rowCombination_eq_subsetRowCombination
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:29:06.543444+00:00
 -- url     : https://prove2.me/theorems/962d9952-a790-48a3-9fc9-95d553df5f1a

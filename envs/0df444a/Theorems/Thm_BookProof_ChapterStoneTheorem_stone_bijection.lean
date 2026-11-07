@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneTheorem_stone_bijection
 -- name    : BookProof.ChapterStoneTheorem.stone_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-02T13:16:35.254486+00:00
 -- url     : https://prove2.me/theorems/7b07bd91-a0a9-4cf9-90ec-7c7d872d09c4

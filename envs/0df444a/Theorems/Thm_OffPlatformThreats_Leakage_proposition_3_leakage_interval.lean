@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffPlatformThreats_Leakage_proposition_3_leakage_interval
 -- name    : OffPlatformThreats.Leakage.proposition_3_leakage_interval
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:44:22.531372+00:00
 -- url     : https://prove2.me/theorems/a8a11f8b-7a3e-490b-9c26-fc143d924554

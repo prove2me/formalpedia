@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_OneMachine_theorem_4_bcef_knapsack_reducible
 -- name    : SchedComplexity.OneMachine.theorem_4_bcef_knapsack_reducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:50:57.547045+00:00
 -- url     : https://prove2.me/theorems/a0d8a6eb-d22f-4b3b-8fa1-8049d33e16cb

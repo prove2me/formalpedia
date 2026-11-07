@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_nonCouniqueNeighbors_bound
 -- name    : QEC.Coding.FiberBundle.RandomBase.nonCouniqueNeighbors_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:45:43.253232+00:00
 -- url     : https://prove2.me/theorems/07f17985-3455-43da-b68c-887c1c73c8a9

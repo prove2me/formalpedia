@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_exp_neg_six_le_one_over_343
 -- name    : QEC.Coding.FiberBundle.RandomBase.exp_neg_six_le_one_over_343
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:43:12.036837+00:00
 -- url     : https://prove2.me/theorems/56c3ea92-f199-41e5-98fe-e9005b089fcb

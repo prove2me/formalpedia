@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceSwitch_UpOrDown_theorem3_markup_or_markdown_thresholds
 -- name    : PriceSwitch.UpOrDown.theorem3_markup_or_markdown_thresholds
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:07.173743+00:00
 -- url     : https://prove2.me/theorems/b9c86dde-6f1a-4f47-a66d-0f9bd560cc97

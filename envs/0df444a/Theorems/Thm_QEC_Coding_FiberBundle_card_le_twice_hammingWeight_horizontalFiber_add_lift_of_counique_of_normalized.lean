@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_card_le_twice_hammingWeight_horizontalFiber_add_lift_of_counique_of_normalized
 -- name    : QEC.Coding.FiberBundle.card_le_twice_hammingWeight_horizontalFiber_add_lift_of_counique_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:56:17.159106+00:00
 -- url     : https://prove2.me/theorems/1fd82b34-bd38-4cfa-9e02-5c88efff4e44

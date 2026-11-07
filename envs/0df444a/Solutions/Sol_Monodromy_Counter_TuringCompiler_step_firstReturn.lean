@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Monodromy.Counter.TuringCompiler.step_firstReturn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T22:05:35.716915+00:00
 -- url     : https://prove2.me/submissions/6aaf623a-43ee-47a7-a53f-09f39fc9b826
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 module
 public import Definitions.Def_Monodromy_Counter

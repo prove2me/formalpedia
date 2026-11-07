@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_ExtremePoint_representative_feasible
 -- name    : HordijkKallenbergLP.ExtremePoint.representative_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:56:56.194268+00:00
 -- url     : https://prove2.me/theorems/38da0bf1-d6ef-4fd5-8eb8-38a8c1b7fd5c

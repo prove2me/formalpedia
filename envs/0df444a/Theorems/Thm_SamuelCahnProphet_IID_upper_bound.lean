@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_upper_bound
 -- name    : SamuelCahnProphet.IID.upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:28.097731+00:00
 -- url     : https://prove2.me/theorems/9929f18d-f037-4b58-9e4a-46af0d5bfc31

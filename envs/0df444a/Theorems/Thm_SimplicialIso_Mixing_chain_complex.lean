@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Mixing_chain_complex
 -- name    : SimplicialIso.Mixing.chain_complex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:13.250001+00:00
 -- url     : https://prove2.me/theorems/31994485-3025-4853-99fc-5ad0079c0888

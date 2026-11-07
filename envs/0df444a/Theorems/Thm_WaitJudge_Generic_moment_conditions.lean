@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Generic_moment_conditions
 -- name    : WaitJudge.Generic.moment_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:11:10.157769+00:00
 -- url     : https://prove2.me/theorems/959db3c1-c9f8-4f71-971c-11d55e1c681b

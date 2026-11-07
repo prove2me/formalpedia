@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRegenerative_CLT_theorem_B_vector
 -- name    : SmithRegenerative.CLT.theorem_B_vector
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:29.026932+00:00
 -- url     : https://prove2.me/theorems/b25722fe-fb6f-46f9-ba54-2f429d64d87a

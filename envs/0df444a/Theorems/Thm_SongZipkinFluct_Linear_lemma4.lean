@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_Linear_lemma4
 -- name    : SongZipkinFluct.Linear.lemma4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:36:29.957455+00:00
 -- url     : https://prove2.me/theorems/5f77ac98-900c-4f37-9b1f-9259d8af21eb

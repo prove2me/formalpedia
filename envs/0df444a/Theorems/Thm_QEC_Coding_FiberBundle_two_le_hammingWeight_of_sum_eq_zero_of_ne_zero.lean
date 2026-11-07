@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_two_le_hammingWeight_of_sum_eq_zero_of_ne_zero
 -- name    : QEC.Coding.FiberBundle.two_le_hammingWeight_of_sum_eq_zero_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:57.705335+00:00
 -- url     : https://prove2.me/theorems/90c533fe-c780-47ce-b0de-e550f472722f

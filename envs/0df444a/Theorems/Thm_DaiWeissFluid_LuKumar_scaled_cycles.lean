@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_scaled_cycles
 -- name    : DaiWeissFluid.LuKumar.scaled_cycles
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:23:05.149979+00:00
 -- url     : https://prove2.me/theorems/344d242d-b0a1-4cfe-968f-1354daa5dc1b

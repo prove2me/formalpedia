@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_twice_hammingWeight_normalizeC0Fibers_le_card
 -- name    : QEC.Coding.FiberBundle.twice_hammingWeight_normalizeC0Fibers_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:55:43.314892+00:00
 -- url     : https://prove2.me/theorems/c9f9da7b-4e59-409a-bbbc-be580b3a3dfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_horizontalBaseLift_add_bundleCoboundary_baseShift
 -- name    : QEC.Coding.FiberBundle.horizontalBaseLift_add_bundleCoboundary_baseShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:48.210904+00:00
 -- url     : https://prove2.me/theorems/0ae010cb-b872-439d-ad62-d41a5cce023c

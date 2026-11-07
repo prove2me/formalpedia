@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveBaseStock_Regret_position_tail
 -- name    : AdaptiveBaseStock.Regret.position_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:14.465935+00:00
 -- url     : https://prove2.me/theorems/ddb1856a-e36c-48f1-b9b9-8855a73e2ca7

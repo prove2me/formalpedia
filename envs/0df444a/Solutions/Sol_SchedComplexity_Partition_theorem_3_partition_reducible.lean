@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SchedComplexity.Partition.theorem_3_partition_reducible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T12:08:39.803476+00:00
 -- url     : https://prove2.me/submissions/b0eed27d-2a96-453d-8184-3125ad233e26
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_CookPvsNP_defs

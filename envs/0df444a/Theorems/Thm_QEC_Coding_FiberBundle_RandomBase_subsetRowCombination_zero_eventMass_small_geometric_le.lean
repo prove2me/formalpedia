@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_subsetRowCombination_zero_eventMass_small_geometric_le
 -- name    : QEC.Coding.FiberBundle.RandomBase.subsetRowCombination_zero_eventMass_small_geometric_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:30:06.215203+00:00
 -- url     : https://prove2.me/theorems/caf10c05-06e2-4070-a82c-aebadd0d0b09

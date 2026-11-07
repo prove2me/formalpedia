@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_NativeTuring_macroStep_iota
 -- name    : Monodromy.NativeTuring.macroStep_iota
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:49:34.828338+00:00
 -- url     : https://prove2.me/theorems/b6a11931-ed40-4628-9491-2355dd457f7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_Partition_partition_twoMachine_encoding_reduction
 -- name    : SchedComplexity.Partition.partition_twoMachine_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:41:01.625993+00:00
 -- url     : https://prove2.me/theorems/5284804a-178f-4ff4-b4a0-497268af572d

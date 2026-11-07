@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_exists_horizontalFiber_bundleCoboundary_eq_of_counique
 -- name    : QEC.Coding.FiberBundle.exists_horizontalFiber_bundleCoboundary_eq_of_counique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:37.274174+00:00
 -- url     : https://prove2.me/theorems/4fd94e68-6e92-46fb-bee5-111bc6b8aef4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Choice_kernel_refinement_iff
 -- name    : Monodromy.Choice.kernel_refinement_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:27:12.626068+00:00
 -- url     : https://prove2.me/theorems/baa2678b-1431-4a06-a1b6-3c6d9c570463

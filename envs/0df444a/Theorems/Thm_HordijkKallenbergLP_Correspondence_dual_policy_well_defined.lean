@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_Correspondence_dual_policy_well_defined
 -- name    : HordijkKallenbergLP.Correspondence.dual_policy_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:36.238122+00:00
 -- url     : https://prove2.me/theorems/67be23e9-1edc-4c5c-9306-5821c23a0139

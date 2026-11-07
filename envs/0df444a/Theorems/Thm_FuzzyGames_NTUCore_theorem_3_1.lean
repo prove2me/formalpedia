@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_NTUCore_theorem_3_1
 -- name    : FuzzyGames.NTUCore.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:03:46.946497+00:00
 -- url     : https://prove2.me/theorems/3cdefc58-d505-459a-97e6-79e114a06c39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Counter_TuringCompiler_divide_reaches
 -- name    : Monodromy.Counter.TuringCompiler.divide_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:41:17.721703+00:00
 -- url     : https://prove2.me/theorems/7d2aa8dd-2b43-4682-a7af-f7b7548ec9d3

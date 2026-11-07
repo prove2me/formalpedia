@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_FBFS_theorem4_3
 -- name    : DaiWeissFluid.FBFS.theorem4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:39:31.956377+00:00
 -- url     : https://prove2.me/theorems/46dc0636-b465-4672-956b-7888346f218a

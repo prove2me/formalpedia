@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for GTWSched.NPC.lemma_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-28T08:18:43.086283+00:00
 -- url     : https://prove2.me/submissions/eb754ad5-ce65-459a-8d0b-363641b9c707
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CookPvsNP_defs
 import Definitions.Def_ProjSchedTW_Complexity_Encoding

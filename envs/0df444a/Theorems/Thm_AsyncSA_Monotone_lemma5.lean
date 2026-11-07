@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsyncSA_Monotone_lemma5
 -- name    : AsyncSA.Monotone.lemma5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:57.976762+00:00
 -- url     : https://prove2.me/theorems/204b82a7-348d-420d-9683-6e25c93e005f

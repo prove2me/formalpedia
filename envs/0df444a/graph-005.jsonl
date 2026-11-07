@@ -13330,7 +13330,7 @@
 {"parent": "PM.star4_85", "child": "PM_core_statement_formulas", "via": ["solution", "statement"]}
 {"parent": "PM.star4_85", "child": "PM_core_star1_system", "via": ["solution", "statement"]}
 {"parent": "PM.star4_85", "child": "PM_core_hypothetical_derivations", "via": ["solution", "statement"]}
-{"parent": "Komlos.banaszczyk_cube_bound", "child": "Komlos_model", "via": ["statement"]}
+{"parent": "Komlos.banaszczyk_cube_bound", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "ContinuumHypothesis.gch_aleph_pow_of_cof_le", "child": "CH_CardinalArithmetic", "via": ["solution", "statement"]}
 {"parent": "CondPortOT.SingDual.proposition_2_5", "child": "CondPortOT_SingDual_Setting", "via": ["solution", "statement"]}
 {"parent": "BookProof.YangMillsAbelianEsa.pgLp_ymAbelianPoly", "child": "ChapterHermiteRelativeBound", "via": ["solution", "statement"]}

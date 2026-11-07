@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_WeakDuality_hull_lsc_convex
 -- name    : DualityStability.WeakDuality.hull_lsc_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:18.8182+00:00
 -- url     : https://prove2.me/theorems/daa8b509-79bc-4bf6-aa6c-24100cf371ac

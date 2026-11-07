@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_firstCut_Pleft_isSymmetricProjection
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.firstCut_Pleft_isSymmetricProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T16:35:58.518937+00:00
 -- url     : https://prove2.me/theorems/33920a00-70a4-4466-93c6-4e0b1bed38e8

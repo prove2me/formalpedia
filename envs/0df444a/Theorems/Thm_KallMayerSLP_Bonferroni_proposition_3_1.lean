@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Bonferroni_proposition_3_1
 -- name    : KallMayerSLP.Bonferroni.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:13:59.56543+00:00
 -- url     : https://prove2.me/theorems/3b149533-3f73-453d-85a4-b37d29f613dd

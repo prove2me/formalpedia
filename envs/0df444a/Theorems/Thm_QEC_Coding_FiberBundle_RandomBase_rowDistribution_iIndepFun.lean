@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_rowDistribution_iIndepFun
 -- name    : QEC.Coding.FiberBundle.RandomBase.rowDistribution_iIndepFun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:34:53.173204+00:00
 -- url     : https://prove2.me/theorems/fc8ac914-2c1c-40a5-889e-d79c478a1f2e

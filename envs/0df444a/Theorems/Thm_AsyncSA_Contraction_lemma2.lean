@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsyncSA_Contraction_lemma2
 -- name    : AsyncSA.Contraction.lemma2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:47.963692+00:00
 -- url     : https://prove2.me/theorems/abafdb98-3b9c-4c2d-bdf1-cb58c13f4369

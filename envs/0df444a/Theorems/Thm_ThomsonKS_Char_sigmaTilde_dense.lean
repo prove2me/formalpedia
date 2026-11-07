@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThomsonKS_Char_sigmaTilde_dense
 -- name    : ThomsonKS.Char.sigmaTilde_dense
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:47:55.164978+00:00
 -- url     : https://prove2.me/theorems/5562a289-00fb-49e6-aa01-a60f601e4d5b

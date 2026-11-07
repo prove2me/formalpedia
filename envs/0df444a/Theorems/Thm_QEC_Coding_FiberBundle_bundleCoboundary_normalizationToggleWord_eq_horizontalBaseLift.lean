@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_bundleCoboundary_normalizationToggleWord_eq_horizontalBaseLift
 -- name    : QEC.Coding.FiberBundle.bundleCoboundary_normalizationToggleWord_eq_horizontalBaseLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:03.936042+00:00
 -- url     : https://prove2.me/theorems/43dec253-1329-43b9-a28d-ed0092db77bd

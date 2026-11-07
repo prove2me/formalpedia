@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_couniqueNeighbors_lower
 -- name    : QEC.Coding.FiberBundle.RandomBase.couniqueNeighbors_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:47:02.770503+00:00
 -- url     : https://prove2.me/theorems/ad1e68d9-db9c-4126-b1e5-25bfbdb9526d

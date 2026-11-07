@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_SeriesEquiv_theorem1_realization_LRB
 -- name    : RoslingAssembly.SeriesEquiv.theorem1_realization_LRB
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:34.314239+00:00
 -- url     : https://prove2.me/theorems/6fe7d0d6-22c0-46b7-8410-0501efbb549b

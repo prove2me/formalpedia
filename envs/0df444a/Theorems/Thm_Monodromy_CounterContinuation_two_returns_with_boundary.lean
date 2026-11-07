@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_CounterContinuation_two_returns_with_boundary
 -- name    : Monodromy.CounterContinuation.two_returns_with_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:46:26.580357+00:00
 -- url     : https://prove2.me/theorems/ff1a35fd-b6f2-46e2-8f80-d32ccbecadde

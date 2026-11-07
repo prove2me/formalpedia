@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_inf_poly_eq_gammaStar
 -- name    : WaitJudge.Convex.inf_poly_eq_gammaStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:07:03.631558+00:00
 -- url     : https://prove2.me/theorems/f5c9022c-0aa8-4346-8e86-d040af99fefb

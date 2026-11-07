@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_CFixing_lemma_4_10
 -- name    : SymBoolPCSP.CFixing.lemma_4_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:04.255555+00:00
 -- url     : https://prove2.me/theorems/affd63a4-1c56-4e20-bb8f-e76c4992de22

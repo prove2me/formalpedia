@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottNoDiscount_Improve_proof_theorem_6d
 -- name    : VeinottNoDiscount.Improve.proof_theorem_6d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:47.646726+00:00
 -- url     : https://prove2.me/theorems/a1d4e0c8-1a90-4e49-a2c1-06ed6a00e173

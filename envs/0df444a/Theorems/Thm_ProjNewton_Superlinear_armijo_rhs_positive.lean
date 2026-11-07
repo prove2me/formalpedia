@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjNewton_Superlinear_armijo_rhs_positive
 -- name    : ProjNewton.Superlinear.armijo_rhs_positive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:30:36.369726+00:00
 -- url     : https://prove2.me/theorems/ae5e228a-9a06-42d5-bcc6-e2771a9a3ae0

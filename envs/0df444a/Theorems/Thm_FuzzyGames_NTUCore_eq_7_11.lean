@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_NTUCore_eq_7_11
 -- name    : FuzzyGames.NTUCore.eq_7_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:04:21.377873+00:00
 -- url     : https://prove2.me/theorems/953aa725-d1bb-4786-abb1-da3d5b349328

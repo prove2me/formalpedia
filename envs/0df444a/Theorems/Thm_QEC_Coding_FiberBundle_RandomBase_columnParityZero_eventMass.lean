@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_columnParityZero_eventMass
 -- name    : QEC.Coding.FiberBundle.RandomBase.columnParityZero_eventMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:29:43.566597+00:00
 -- url     : https://prove2.me/theorems/e9c9f1c9-0070-4364-85e2-b6cbb910acad

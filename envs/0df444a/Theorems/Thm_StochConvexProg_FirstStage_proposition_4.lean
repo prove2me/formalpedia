@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochConvexProg_FirstStage_proposition_4
 -- name    : StochConvexProg.FirstStage.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:41:37.252323+00:00
 -- url     : https://prove2.me/theorems/e6558861-f0ef-4945-bc03-fa3029bb276f

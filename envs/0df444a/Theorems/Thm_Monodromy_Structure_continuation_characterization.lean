@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Structure_continuation_characterization
 -- name    : Monodromy.Structure.continuation_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:50:39.015306+00:00
 -- url     : https://prove2.me/theorems/3e7e86f2-5aeb-4b79-8683-af79a9c668cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReentrantScheduling_FBFS_eventual_delay_bound
 -- name    : ReentrantScheduling.FBFS.eventual_delay_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:31:44.899757+00:00
 -- url     : https://prove2.me/theorems/52caecbb-3539-42a8-a424-48ac5f000c7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_NTUCore_cce_eq_piV_cce
 -- name    : FuzzyGames.NTUCore.cce_eq_piV_cce
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:04:25.159058+00:00
 -- url     : https://prove2.me/theorems/d68b744a-84c5-465a-8aa2-1d6b78642f74

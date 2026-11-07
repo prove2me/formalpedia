@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveBaseStock_Regret_biased_projected_sgd
 -- name    : AdaptiveBaseStock.Regret.biased_projected_sgd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:25:11.217329+00:00
 -- url     : https://prove2.me/theorems/17b8fb2b-8d18-40f3-bd7b-8d41e0ce9b7d

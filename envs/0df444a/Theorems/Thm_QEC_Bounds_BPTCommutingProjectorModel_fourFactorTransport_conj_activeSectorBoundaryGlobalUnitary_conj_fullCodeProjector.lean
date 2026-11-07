@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_fourFactorTransport_conj_activeSectorBoundaryGlobalUnitary_conj_fullCodeProjector
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.fourFactorTransport_conj_activeSectorBoundaryGlobalUnitary_conj_fullCodeProjector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T16:27:10.463288+00:00
 -- url     : https://prove2.me/theorems/a5b440c5-6292-4670-b358-e33bf3577280

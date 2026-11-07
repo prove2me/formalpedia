@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThomsonKS_Char_theorem_3
 -- name    : ThomsonKS.Char.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:47:58.346708+00:00
 -- url     : https://prove2.me/theorems/c04ff62a-faf8-4860-b7b2-560e13c7e475

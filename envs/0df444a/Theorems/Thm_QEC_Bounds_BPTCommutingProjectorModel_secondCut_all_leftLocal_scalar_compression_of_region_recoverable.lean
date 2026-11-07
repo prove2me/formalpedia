@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_all_leftLocal_scalar_compression_of_region_recoverable
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_all_leftLocal_scalar_compression_of_region_recoverable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:29:26.039174+00:00
 -- url     : https://prove2.me/theorems/a8265db3-5ad8-4eb2-90ec-028f88dff58f

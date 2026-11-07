@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_supportWord_mem_code_eventMass
 -- name    : QEC.Coding.FiberBundle.RandomBase.supportWord_mem_code_eventMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:33:38.097762+00:00
 -- url     : https://prove2.me/theorems/f5850b41-c75e-4c0c-91a3-7f0e54ad0d36

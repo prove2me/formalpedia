@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_RossRecurrence_eq_5_8
 -- name    : ArapostathisAC.RossRecurrence.eq_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:26:22.350304+00:00
 -- url     : https://prove2.me/theorems/8f6a7e0a-28b4-4381-b42a-8eac61af91b1

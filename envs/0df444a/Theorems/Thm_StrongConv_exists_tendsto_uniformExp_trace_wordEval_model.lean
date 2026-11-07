@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_exists_tendsto_uniformExp_trace_wordEval_model
 -- name    : StrongConv.exists_tendsto_uniformExp_trace_wordEval_model
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:12:52.626877+00:00
 -- url     : https://prove2.me/theorems/1c7f6ed2-b2f4-4caa-85cd-3257b1f053ad

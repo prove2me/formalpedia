@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WolffPASTA_Main_eq_3
 -- name    : WolffPASTA.Main.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:54.11851+00:00
 -- url     : https://prove2.me/theorems/fe2c5e0c-e63f-41c5-ab82-35f2282d135b

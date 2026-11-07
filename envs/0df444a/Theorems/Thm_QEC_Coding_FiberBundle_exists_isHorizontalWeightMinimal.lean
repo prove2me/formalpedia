@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_exists_isHorizontalWeightMinimal
 -- name    : QEC.Coding.FiberBundle.exists_isHorizontalWeightMinimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:57:56.93892+00:00
 -- url     : https://prove2.me/theorems/286273a0-e985-4e04-a5a2-0a5d3621da7e

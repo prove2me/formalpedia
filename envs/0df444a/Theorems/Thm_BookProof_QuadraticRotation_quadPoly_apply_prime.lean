@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_quadPoly_apply_prime
 -- name    : BookProof.QuadraticRotation.quadPoly_apply_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T02:00:09.847069+00:00
 -- url     : https://prove2.me/theorems/4dd64c03-c85a-42d7-9b2a-9ac811080e06

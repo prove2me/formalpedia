@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_SeriesEquiv_lemma1_no_excess_production
 -- name    : RoslingAssembly.SeriesEquiv.lemma1_no_excess_production
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:45.227991+00:00
 -- url     : https://prove2.me/theorems/29843c31-4b5c-4d8e-86e8-cfbebe06b6e2

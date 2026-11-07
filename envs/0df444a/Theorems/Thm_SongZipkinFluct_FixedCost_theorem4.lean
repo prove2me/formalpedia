@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_FixedCost_theorem4
 -- name    : SongZipkinFluct.FixedCost.theorem4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:11.25613+00:00
 -- url     : https://prove2.me/theorems/78880dc2-f3a7-4825-9f63-1c2b03f35b9a

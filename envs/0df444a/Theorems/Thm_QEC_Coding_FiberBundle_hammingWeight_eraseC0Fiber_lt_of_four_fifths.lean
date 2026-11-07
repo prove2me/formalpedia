@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_hammingWeight_eraseC0Fiber_lt_of_four_fifths
 -- name    : QEC.Coding.FiberBundle.hammingWeight_eraseC0Fiber_lt_of_four_fifths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:57:23.833943+00:00
 -- url     : https://prove2.me/theorems/755b0ee7-55d5-4c43-91da-7e96ed5cff0a

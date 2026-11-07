@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_defectplus_norm_e
 -- name    : OAI.SharpPlanar.Numerical.defectplus_norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T23:17:16.149411+00:00
 -- url     : https://prove2.me/theorems/932746cf-ec94-4a20-922e-56973f0bedd2

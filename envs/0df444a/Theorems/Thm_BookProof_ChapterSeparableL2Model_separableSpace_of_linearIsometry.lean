@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSeparableL2Model_separableSpace_of_linearIsometry
 -- name    : BookProof.ChapterSeparableL2Model.separableSpace_of_linearIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-02T20:42:49.315245+00:00
 -- url     : https://prove2.me/theorems/9ccfe98a-bbbf-486c-96b8-2c59efee75fc

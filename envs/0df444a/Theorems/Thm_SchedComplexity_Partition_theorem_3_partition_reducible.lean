@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_Partition_theorem_3_partition_reducible
 -- name    : SchedComplexity.Partition.theorem_3_partition_reducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:40:14.172977+00:00
 -- url     : https://prove2.me/theorems/e812bb2d-b18b-4b88-bfb5-639acc865cc8

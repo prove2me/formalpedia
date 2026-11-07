@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SchedComplexity.Shops.theorem_4_ghij_knapsack_reducible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T12:37:04.461027+00:00
 -- url     : https://prove2.me/submissions/dc987b53-5aa8-424d-bb23-224375500910
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SchedComplexity_OneMachine_Knapsack

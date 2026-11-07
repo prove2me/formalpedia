@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_c0Shadow_eraseC0Fiber
 -- name    : QEC.Coding.FiberBundle.c0Shadow_eraseC0Fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:55:44.270116+00:00
 -- url     : https://prove2.me/theorems/b34a43b4-ebfb-4c19-affc-7a27e1f3aef7

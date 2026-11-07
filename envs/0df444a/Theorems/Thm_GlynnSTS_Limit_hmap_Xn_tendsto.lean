@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_Limit_hmap_Xn_tendsto
 -- name    : GlynnSTS.Limit.hmap_Xn_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:16:32.66982+00:00
 -- url     : https://prove2.me/theorems/0d4dc2dc-b82b-4f98-874d-7bb672884f41

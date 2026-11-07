@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_NTUCore_support_concave
 -- name    : FuzzyGames.NTUCore.support_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:03:34.424531+00:00
 -- url     : https://prove2.me/theorems/449e317d-f081-48cd-9100-0e4c280f0a2b

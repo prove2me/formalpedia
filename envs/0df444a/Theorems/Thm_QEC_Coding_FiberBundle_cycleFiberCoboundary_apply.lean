@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_cycleFiberCoboundary_apply
 -- name    : QEC.Coding.FiberBundle.cycleFiberCoboundary_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:52:33.348634+00:00
 -- url     : https://prove2.me/theorems/2875b371-5282-447c-9e92-d499fd82299f

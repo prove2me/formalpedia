@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_PrecChain_theorem_1l_cmax_reducible_sumC
 -- name    : SchedComplexity.PrecChain.theorem_1l_cmax_reducible_sumC
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:18:02.117927+00:00
 -- url     : https://prove2.me/theorems/36b67b60-fa37-4652-bb65-d6f006b749f7

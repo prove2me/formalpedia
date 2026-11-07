@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThomsonKS_Char_ks_characterization
 -- name    : ThomsonKS.Char.ks_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:59.507951+00:00
 -- url     : https://prove2.me/theorems/706f011c-fed8-4b78-be59-73af0617b5e3

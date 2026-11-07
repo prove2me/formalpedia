@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_FixedCost_lemma5
 -- name    : SongZipkinFluct.FixedCost.lemma5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:12.765834+00:00
 -- url     : https://prove2.me/theorems/d792ffff-0417-4ce4-b926-2ad87e8770af

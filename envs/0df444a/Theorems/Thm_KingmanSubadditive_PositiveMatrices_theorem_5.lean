@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingmanSubadditive_PositiveMatrices_theorem_5
 -- name    : KingmanSubadditive.PositiveMatrices.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:16:59.21515+00:00
 -- url     : https://prove2.me/theorems/cd20016d-9402-4a77-875f-7593f586296e

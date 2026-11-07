@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Purification_polar_decomposition
 -- name    : WildeQIT.Purification.polar_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:19:41.654414+00:00
 -- url     : https://prove2.me/theorems/e395bc85-eaec-4701-95ce-93574a5ed661

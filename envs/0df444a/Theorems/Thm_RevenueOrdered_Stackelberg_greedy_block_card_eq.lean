@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_greedy_block_card_eq
 -- name    : RevenueOrdered.Stackelberg.greedy_block_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:06:08.599389+00:00
 -- url     : https://prove2.me/theorems/fd9d50ac-3c87-4518-b494-cdf5aaa8aa6d

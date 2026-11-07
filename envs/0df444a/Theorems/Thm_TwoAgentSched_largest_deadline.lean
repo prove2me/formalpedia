@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_largest_deadline
 -- name    : TwoAgentSched.largest_deadline
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:52:16.144442+00:00
 -- url     : https://prove2.me/theorems/6ad50392-15b6-4a27-8dce-08ed26eb9ea9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllipsoidGLS_Rounded_inv_Astar
 -- name    : EllipsoidGLS.Rounded.inv_Astar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:23:07.530728+00:00
 -- url     : https://prove2.me/theorems/4218072f-4790-45e5-ac6e-26696fe9b016

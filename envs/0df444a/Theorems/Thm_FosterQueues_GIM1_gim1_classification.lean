@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_GIM1_gim1_classification
 -- name    : FosterQueues.GIM1.gim1_classification
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T04:58:52.656679+00:00
 -- url     : https://prove2.me/theorems/930f9d64-b24c-4321-a08d-1575ec90438b

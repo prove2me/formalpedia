@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_FBFS_inductive_step
 -- name    : DaiWeissFluid.FBFS.inductive_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:38:37.143634+00:00
 -- url     : https://prove2.me/theorems/f93f7ca0-9408-42fa-8214-de6370e5f00e

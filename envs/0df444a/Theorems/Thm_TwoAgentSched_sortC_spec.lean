@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_sortC_spec
 -- name    : TwoAgentSched.sortC_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:52:36.726057+00:00
 -- url     : https://prove2.me/theorems/0b166220-2123-41e0-a376-54ea4bbd4b6f

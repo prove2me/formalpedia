@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjNewton_Superlinear_proposition1
 -- name    : ProjNewton.Superlinear.proposition1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:30:18.609883+00:00
 -- url     : https://prove2.me/theorems/bed4ceb1-cdb1-43c5-9615-e181a223047f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Sensitivity_proposition_5_1_ii_corrected
 -- name    : RoboAdvising.Sensitivity.proposition_5_1_ii_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:40:54.783965+00:00
 -- url     : https://prove2.me/theorems/0f554f77-b906-4fe3-a8cf-19b602fa9585

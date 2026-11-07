@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgHedging_Convex_theorem_5_1
 -- name    : ProgHedging.Convex.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:26:39.942001+00:00
 -- url     : https://prove2.me/theorems/3d1e24a1-4b41-4049-a6c7-672d00b33a4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_firstCut_externalBoundary_sector_dichotomy
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.firstCut_externalBoundary_sector_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:26:33.562001+00:00
 -- url     : https://prove2.me/theorems/b157146b-6527-4074-87e6-47922f655165

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_Linear_theorem2_ab
 -- name    : SongZipkinFluct.Linear.theorem2_ab
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:36:44.569875+00:00
 -- url     : https://prove2.me/theorems/e0e2b00c-e8ce-4ea7-9418-132584ae58aa

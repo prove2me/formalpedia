@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_fullRowRank_failureMass_le_split
 -- name    : QEC.Coding.FiberBundle.RandomBase.fullRowRank_failureMass_le_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:30:59.992814+00:00
 -- url     : https://prove2.me/theorems/97e95daf-7c73-4647-b012-ac2a6ee3eb81

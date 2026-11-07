@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingRockAsymp_Distribution_corollary_A2
 -- name    : KingRockAsymp.Distribution.corollary_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:06:58.933491+00:00
 -- url     : https://prove2.me/theorems/4e8fbcb1-bb0d-45bc-9416-4c5ef7b00677

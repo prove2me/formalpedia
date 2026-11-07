@@ -11,7 +11,7 @@
 --
 --   $$t(H,G)\ \ge\ t(K_2,G)^{\,e(H)}.$$
 --
---   This rung is open: it contains $K_{5,5}$ minus a $10$-cycle.
+--   This rung is open; it contains $K_{5,5}$ minus a $10$-cycle.
 -- source:
 --   Open; the smallest open case $K_{5,5}\setminus C_{10}$ is discussed in D. Conlon, J. Lee, Sidorenko's conjecture for blow-ups, Discrete Analysis 2021:2, https://doi.org/10.19086/da.21472
 

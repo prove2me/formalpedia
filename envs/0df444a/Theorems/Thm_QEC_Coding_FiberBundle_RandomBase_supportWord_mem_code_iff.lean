@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_supportWord_mem_code_iff
 -- name    : QEC.Coding.FiberBundle.RandomBase.supportWord_mem_code_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:39:46.319219+00:00
 -- url     : https://prove2.me/theorems/be1c397c-5879-46e5-9e47-a69101e4e27a

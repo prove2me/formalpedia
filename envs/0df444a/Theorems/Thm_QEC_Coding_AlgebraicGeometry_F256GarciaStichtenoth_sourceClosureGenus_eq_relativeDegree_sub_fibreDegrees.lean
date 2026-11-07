@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_sourceClosureGenus_eq_relativeDegree_sub_fibreDegrees
 -- name    : QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceClosureGenus_eq_relativeDegree_sub_fibreDegrees
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:35:15.200227+00:00
 -- url     : https://prove2.me/theorems/e802cf7a-e8d2-4dc3-a925-eff651f8f23d

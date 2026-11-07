@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_eq_zero_of_c0Shadow_eq_empty
 -- name    : QEC.Coding.FiberBundle.eq_zero_of_c0Shadow_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:43.617494+00:00
 -- url     : https://prove2.me/theorems/9e1859ba-7590-4333-a6db-c50b0034af3c

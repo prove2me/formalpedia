@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EPRPharma_proposition_4_welfare_maximizing_model
 -- name    : EPRPharma.proposition_4_welfare_maximizing_model
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:27:25.282805+00:00
 -- url     : https://prove2.me/theorems/7076388c-ddd4-45d4-b8ca-fdb125044440

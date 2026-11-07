@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_theorem_2
 -- name    : ForecastAggLearn.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:28:36.088133+00:00
 -- url     : https://prove2.me/theorems/77180864-a12a-466c-a75b-dc1e1765c0d7

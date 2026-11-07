@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochConvexProg_FirstStage_argmin_selection
 -- name    : StochConvexProg.FirstStage.argmin_selection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:41:16.341974+00:00
 -- url     : https://prove2.me/theorems/e62c1078-de5d-4591-8d73-71c65413f506

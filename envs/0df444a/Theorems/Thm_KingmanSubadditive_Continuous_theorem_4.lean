@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingmanSubadditive_Continuous_theorem_4
 -- name    : KingmanSubadditive.Continuous.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:44:46.690985+00:00
 -- url     : https://prove2.me/theorems/891d13c4-5b53-4f4c-9b49-47c321e4739f

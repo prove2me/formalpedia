@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_hammingWeight_eq_horizontal_add_vertical
 -- name    : QEC.Coding.FiberBundle.hammingWeight_eq_horizontal_add_vertical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:35.901224+00:00
 -- url     : https://prove2.me/theorems/3f967f20-489a-45a3-a47a-34d4003c3875

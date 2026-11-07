@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Consistency_corollary_1
 -- name    : GenEmpLik.Consistency.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:14:10.199007+00:00
 -- url     : https://prove2.me/theorems/7fc718a2-c7d1-41c9-a6a3-913ba9081574

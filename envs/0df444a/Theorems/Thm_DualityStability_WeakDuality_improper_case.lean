@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_WeakDuality_improper_case
 -- name    : DualityStability.WeakDuality.improper_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:32.92963+00:00
 -- url     : https://prove2.me/theorems/49fc5a1d-446e-4b4d-adc5-f99264611759

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_RossRecurrence_jensen_step
 -- name    : ArapostathisAC.RossRecurrence.jensen_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:26:43.297024+00:00
 -- url     : https://prove2.me/theorems/10330d4a-b703-4dc7-94f5-5c0ac2b54792

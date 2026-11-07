@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_linearDistance_failureMass_le_exact_sum
 -- name    : QEC.Coding.FiberBundle.RandomBase.linearDistance_failureMass_le_exact_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:44:38.944236+00:00
 -- url     : https://prove2.me/theorems/a0778668-88cf-43ab-b883-0f9783fdb9c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_ymAbelian_hashimoto_selects
 -- name    : BookProof.YangMillsAbelianEsa.ymAbelian_hashimoto_selects
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-05T19:46:55.564406+00:00
 -- url     : https://prove2.me/theorems/c74c94a5-ca21-4cd8-a6a8-781b27196c3f

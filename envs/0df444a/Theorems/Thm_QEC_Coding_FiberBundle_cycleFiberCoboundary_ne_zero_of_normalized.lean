@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_cycleFiberCoboundary_ne_zero_of_normalized
 -- name    : QEC.Coding.FiberBundle.cycleFiberCoboundary_ne_zero_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:55:33.689277+00:00
 -- url     : https://prove2.me/theorems/ccdd5d9d-4160-472c-8596-0225e6ab3c50

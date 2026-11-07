@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisonReimanRBM_Orthant_picard_convergence
 -- name    : HarrisonReimanRBM.Orthant.picard_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:22:10.506985+00:00
 -- url     : https://prove2.me/theorems/261208c0-64bf-4618-8e13-1598fa6e1beb

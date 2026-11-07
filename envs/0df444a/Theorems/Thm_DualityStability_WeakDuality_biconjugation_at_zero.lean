@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_WeakDuality_biconjugation_at_zero
 -- name    : DualityStability.WeakDuality.biconjugation_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:44.927613+00:00
 -- url     : https://prove2.me/theorems/e116e85d-1350-4429-92c6-dec1e3bf1642

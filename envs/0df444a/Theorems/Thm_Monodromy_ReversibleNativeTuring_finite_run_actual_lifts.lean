@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleNativeTuring_finite_run_actual_lifts
 -- name    : Monodromy.ReversibleNativeTuring.finite_run_actual_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:53:30.510647+00:00
 -- url     : https://prove2.me/theorems/cc243aac-c8fb-488b-8ac1-48f160e7403d

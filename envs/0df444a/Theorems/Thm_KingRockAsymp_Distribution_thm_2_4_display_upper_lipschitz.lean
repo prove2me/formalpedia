@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingRockAsymp_Distribution_thm_2_4_display_upper_lipschitz
 -- name    : KingRockAsymp.Distribution.thm_2_4_display_upper_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:58:10.575153+00:00
 -- url     : https://prove2.me/theorems/cb174ab6-5586-48a5-8ab5-8b6d882c8110

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_sum_lowWeightSupport_pow_card_le_nonempty
 -- name    : QEC.Coding.FiberBundle.RandomBase.sum_lowWeightSupport_pow_card_le_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:43:53.6452+00:00
 -- url     : https://prove2.me/theorems/d726f141-81e7-4313-bdef-57b457314f23

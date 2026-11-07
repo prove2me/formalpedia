@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_horizontalBaseLift_add_bundleCoboundary_eraseC0Fiber
 -- name    : QEC.Coding.FiberBundle.horizontalBaseLift_add_bundleCoboundary_eraseC0Fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:52:50.487251+00:00
 -- url     : https://prove2.me/theorems/6c5d10ff-9ad2-473c-9de8-a37c37de1864

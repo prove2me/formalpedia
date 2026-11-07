@@ -14,6 +14,7 @@
 --   **Formalization note.**
 --   - **Standing assumptions.** The paper states no range for $N$ in this proposition. §4 opens the proof of Proposition 3.1 (p. 10), whose statement has $T = N^{6/5}$ (p. 9). The proof of Proposition 12.1 applies the same bounds, through (12.1), for $T^{5/6} \le N \le T$ (p. 47). Proposition 11.1 states $T^{3/4} \le N \le T$ (p. 38), and Proposition 11.2 states $N \ge T^{3/4}$ (p. 39). The statement assumes $T^{3/4} \le N \le T$, which contains the ranges of Propositions 3.1, 11.1 and 12.1; this is a choice of the formalization. It also assumes that $W$ lies in an interval of length $T$, as the paper uses on p. 15 (before (5.4)); the proposition itself states only that $W$ is $T^\epsilon$-separated.
 --   - **The cube root.** The paper treats $\sum_{m\ne0}I_m$ as a real number. The statement takes the real part $s$ of the sum and its real cube root, written $\operatorname{sign}(s)\,|s|^{1/3}$, as printed.
+--   **Disproved.** The bound as printed fails at $T = N = 2$. The corrected form, with $\max(s, 0)^{1/3}$ in place of the real cube root, is [`GuthMaynard.card_le_of_large_smoothedPoly_Iterm_pos`](https://prove2.me/theorems/3f8fc492-282c-49c9-841b-4929c86f004b), which the mission's Proposition 4.6 milestone links.
 -- source:
 --   Guth, L. and Maynard, J., New large value estimates for Dirichlet polynomials, Ann. of Math. (2) 203 (2026) 623–675, https://doi.org/10.4007/annals.2026.203.2.6 (arXiv:2405.20552v2, whose page numbers are used), p. 15, Proposition 4.6
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_CoupledContinuation_zeroTest_native_dom
 -- name    : Monodromy.CoupledContinuation.zeroTest_native_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:42:42.167094+00:00
 -- url     : https://prove2.me/theorems/e9d07c65-b2cf-4881-a0b4-b5d83e0a98f9

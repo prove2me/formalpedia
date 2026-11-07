@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_NoWait_dhp_noWait_encoding_reduction
 -- name    : SchedComplexity.NoWait.dhp_noWait_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:41:01.567217+00:00
 -- url     : https://prove2.me/theorems/16cc9186-9f1a-4a5e-8e3d-933abb90e1f9

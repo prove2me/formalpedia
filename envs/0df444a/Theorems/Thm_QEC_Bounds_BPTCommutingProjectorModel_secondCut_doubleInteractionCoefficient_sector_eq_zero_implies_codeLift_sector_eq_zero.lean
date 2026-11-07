@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_doubleInteractionCoefficient_sector_eq_zero_implies_codeLift_sector_eq_zero
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_doubleInteractionCoefficient_sector_eq_zero_implies_codeLift_sector_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:28:42.03521+00:00
 -- url     : https://prove2.me/theorems/6a152c4c-25cc-4f7a-aa58-4add075c6771

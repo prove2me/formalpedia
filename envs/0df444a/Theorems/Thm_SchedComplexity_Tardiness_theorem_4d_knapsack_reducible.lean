@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_Tardiness_theorem_4d_knapsack_reducible
 -- name    : SchedComplexity.Tardiness.theorem_4d_knapsack_reducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:07:13.696107+00:00
 -- url     : https://prove2.me/theorems/f48ade2d-1edc-4901-9ac0-f681f2a83a2a

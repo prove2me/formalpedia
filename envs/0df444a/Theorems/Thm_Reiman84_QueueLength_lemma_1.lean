@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reiman84_QueueLength_lemma_1
 -- name    : Reiman84.QueueLength.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T12:48:50.880557+00:00
 -- url     : https://prove2.me/theorems/69b04f5e-216c-463b-a4cd-148717cb0d3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_large_shadow_vertical_weight_of_normalized
 -- name    : QEC.Coding.FiberBundle.large_shadow_vertical_weight_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:16.821955+00:00
 -- url     : https://prove2.me/theorems/3d04285b-3f9d-4b21-ba65-f9f929791085

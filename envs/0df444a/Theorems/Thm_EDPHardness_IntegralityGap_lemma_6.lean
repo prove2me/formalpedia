@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_lemma_6
 -- name    : EDPHardness.IntegralityGap.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:36.638713+00:00
 -- url     : https://prove2.me/theorems/f19960f1-029e-452e-9996-c4073aba59b3

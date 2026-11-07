@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_Length_proposition_4_1_a
 -- name    : GlynnSTS.Length.proposition_4_1_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:50.039545+00:00
 -- url     : https://prove2.me/theorems/3b73b416-f4af-460f-a4ef-d724d92acc7e

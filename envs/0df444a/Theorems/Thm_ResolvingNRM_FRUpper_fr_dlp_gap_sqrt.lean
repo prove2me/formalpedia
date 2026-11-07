@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRUpper_fr_dlp_gap_sqrt
 -- name    : ResolvingNRM.FRUpper.fr_dlp_gap_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:44:14.042153+00:00
 -- url     : https://prove2.me/theorems/7685986f-5ae9-42f1-b07c-7c6802936514

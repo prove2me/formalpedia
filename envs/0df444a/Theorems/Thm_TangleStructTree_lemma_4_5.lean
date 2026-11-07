@@ -1,0 +1,52 @@
+-- Prove2me | Theorems.Thm_TangleStructTree_lemma_4_5
+-- name    : TangleStructTree.lemma_4_5
+-- status  : Open
+-- author  : @iris
+-- created : 2026-11-06T16:55:49.44087+00:00
+-- url     : https://prove2.me/theorems/98f1e4ad-9b0c-4d47-b81b-6d3f7b1cb546
+-- title:
+--   Lemma 4.5 — if $\lfloor\beta_v\rfloor$ orients all of $S$, it is an $\mathcal F$-tangle
+-- statement:
+--   Let $\vec S$ be an ordered separation system and let $\mathcal F$ be rich and standard for $\vec S$. Let $T$ be a thoroughly ordered separation tree on $\vec S$ and $v$ a node of $T$. Assume that $\beta_v$ is consistent and avoids $\mathcal F$, and that $\lfloor\beta_v\rfloor$ orients all of $S$. Then $\lfloor\beta_v\rfloor$ is an $\mathcal F$-tangle of $S$.
+--
+--   This is the step of the existence proof that turns a leaf whose closure decides every separation into a tangle leaf.
+--
+--   Differences from the source:
+--   - encoding: a separation tree is a finite rooted tree with an edge labelling β → a SepTree: the finite prefix-closed set of root-path label lists; reason: the child labels of a node are distinct, so the label-list set determines the rooted labelled tree up to root- and label-preserving isomorphism and every finite separation tree arises
+--   - encoding: an order function S → ℝ extended to S⃗ by |s⃗| = |s⃖| = |s| → ord : E → ℝ with ord (x∗) = ord x (IsOrderFunction); reason: such maps are exactly the extensions of maps S → ℝ; same instances
+-- source:
+--   von Bergen, Diestel, Tangle structure trees, arXiv:2601.15870 (STOC 2027 submission build of 2026-10-31, sha256 7670745285d0070c890a0203dfe9e72ef24717b9e9d824274becd54ce276803b), journal version (Part I), Lemma 4.5, p.10 (PDF 21)
+
+import Mathlib
+import Definitions.Def_TangleStructTree_SepSystem
+import Definitions.Def_TangleStructTree_IsOrientation
+import Definitions.Def_TangleStructTree_IsConsistent
+import Definitions.Def_TangleStructTree_sepClosure
+import Definitions.Def_TangleStructTree_IsTrivial
+import Definitions.Def_TangleStructTree_IsTangle
+import Definitions.Def_TangleStructTree_IsStandard
+import Definitions.Def_TangleStructTree_IsOrderFunction
+import Definitions.Def_TangleStructTree_OrderInjective
+import Definitions.Def_TangleStructTree_StronglyEfficient
+import Definitions.Def_TangleStructTree_IsRich
+import Definitions.Def_TangleStructTree_SepTree
+import Definitions.Def_TangleStructTree_SepTree_Consistent
+import Definitions.Def_TangleStructTree_SepTree_IsTST
+import Definitions.Def_TangleStructTree_SepTree_ThoroughlyOrdered
+
+namespace TangleStructTree
+
+open SepSystem
+
+variable {E : Type*} [PartialOrder E] [SepSystem E]
+
+/-- **Lemma 4.5** (von Bergen, Diestel, *Tangle structure trees*, arXiv:2601.15870 (STOC 2027 submission build, sha256 7670745…), journal version, p.10 (PDF 21)). Let `ℱ` be rich and
+standard for `S⃗`. Let `T` be a thoroughly ordered separation tree on `S⃗`, and let `v ∈ V(T)`.
+Assume that `β_v` is consistent and avoids `ℱ`, and that `⌊β_v⌋` orients all of `S`. Then `⌊β_v⌋`
+is a tangle of `S` (an `ℱ`-tangle). -/
+theorem lemma_4_5 (ord : E → ℝ) (hord : IsOrderFunction ord) (ℱ : Set (Set E))
+    (hrich : IsRich ord ℱ) (hstd : IsStandard ℱ) (T : SepTree E) (hT : T.ThoroughlyOrdered ord)
+    (v : List E) (hv : v ∈ T.nodes) (hcons : IsConsistent (labels v))
+    (havoid : Avoids ℱ (labels v)) (horient : ∀ x : E, Orients (sepClosure (labels v)) x) :
+    IsTangle ℱ (sepClosure (labels v)) := by sorry
+end TangleStructTree

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgHedging_Convex_proposition_3_2
 -- name    : ProgHedging.Convex.proposition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:17:29.170217+00:00
 -- url     : https://prove2.me/theorems/37fb0d71-9fb9-4154-a9a9-c09ff57cfba5

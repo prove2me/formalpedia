@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReentrantScheduling_FBFS_buffer_delay_bound
 -- name    : ReentrantScheduling.FBFS.buffer_delay_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:06.702979+00:00
 -- url     : https://prove2.me/theorems/261d09e6-ca15-4584-a62d-16d66033a5a4

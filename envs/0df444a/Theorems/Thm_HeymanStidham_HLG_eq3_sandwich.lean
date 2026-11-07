@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_eq3_sandwich
 -- name    : HeymanStidham.HLG.eq3_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:35:00.387256+00:00
 -- url     : https://prove2.me/theorems/ea7872fd-5fd9-454c-85a6-abf47d19c2b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolutionQuality_SRP_prop1_i
 -- name    : SolutionQuality.SRP.prop1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:48:18.833178+00:00
 -- url     : https://prove2.me/theorems/2fd2355b-92aa-4423-b2db-6cfc35c98d4e

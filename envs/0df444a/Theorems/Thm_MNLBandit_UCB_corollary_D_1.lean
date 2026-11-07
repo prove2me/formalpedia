@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_UCB_corollary_D_1
 -- name    : MNLBandit.UCB.corollary_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:09:26.508983+00:00
 -- url     : https://prove2.me/theorems/24c92bd4-7446-45f0-a562-be4d63594e5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkmanSecant_secant_plane_gives_polarized_weil_type
 -- name    : MarkmanSecant.secant_plane_gives_polarized_weil_type
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T15:28:00.970906+00:00
 -- url     : https://prove2.me/theorems/b8042591-a888-44fd-98a5-ffb0a850ce21

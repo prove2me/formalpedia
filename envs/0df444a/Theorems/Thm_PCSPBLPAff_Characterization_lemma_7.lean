@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Characterization_lemma_7
 -- name    : PCSPBLPAff.Characterization.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:47.330977+00:00
 -- url     : https://prove2.me/theorems/5a6697b2-febb-4ab7-8964-669407abbd4b

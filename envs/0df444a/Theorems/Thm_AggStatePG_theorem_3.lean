@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggStatePG_theorem_3
 -- name    : AggStatePG.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:45:14.359651+00:00
 -- url     : https://prove2.me/theorems/34916046-a6af-45e5-910d-e3c36a14d4d2

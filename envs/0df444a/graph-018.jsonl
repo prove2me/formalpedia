@@ -28262,8 +28262,8 @@
 {"parent": "GaussianTensorExecution.inverse_piIter", "child": "GaussianLattice", "via": ["solution", "statement"]}
 {"parent": "GaussianTensorExecution.inverse_piIter", "child": "DyadicCertificates", "via": ["solution", "statement"]}
 {"parent": "GaussianTensorExecution.inverse_piIter", "child": "GaussianTensorExecution", "via": ["solution", "statement"]}
-{"parent": "RepGQML.mem_commutant_groupAlgebra_iff", "child": "RepGQML_commutant", "via": ["statement"]}
-{"parent": "RepGQML.mem_commutant_groupAlgebra_iff", "child": "RepGQML_groupAlgebra", "via": ["statement"]}
+{"parent": "RepGQML.mem_commutant_groupAlgebra_iff", "child": "RepGQML_commutant", "via": ["solution", "statement"]}
+{"parent": "RepGQML.mem_commutant_groupAlgebra_iff", "child": "RepGQML_groupAlgebra", "via": ["solution", "statement"]}
 {"parent": "LiquidWelfareFPA_gamma0", "child": "LiquidWelfareFPA_hfun", "via": ["statement"]}
 {"parent": "CircuitLowerBound.Oracle.run_cp", "child": "Groundwork.TM.Run.one", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Oracle.run_cp", "child": "CircuitLowerBound_Oracle_Machine", "via": ["solution", "statement"]}
@@ -29059,7 +29059,7 @@
 {"parent": "PaddedDescent_F_MarkLayers", "child": "Groundwork.TM.st4_t2", "via": ["statement"]}
 {"parent": "PaddedDescent_F_MarkLayers", "child": "Groundwork.TM.upd_main", "via": ["statement"]}
 {"parent": "PaddedDescent_F_MarkLayers", "child": "Groundwork.TM.st_b", "via": ["statement"]}
-{"parent": "BookProof.ChapterMackeyGeneralBase.mackey_imprimitivity_general", "child": "ChapterMackeyGeneralBase", "via": ["statement"]}
+{"parent": "BookProof.ChapterMackeyGeneralBase.mackey_imprimitivity_general", "child": "ChapterMackeyGeneralBase", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterMackeyGeneralBase.mackey_imprimitivity_general", "child": "ChapterOrthogonalSums", "via": ["statement"]}
 {"parent": "BookProof.ChapterMackeyGeneralBase.mackey_imprimitivity_general", "child": "ChapterMackeyImprimitivity", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2168_e", "child": "MUBSix", "via": ["statement"]}
@@ -59795,21 +59795,21 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryNativePairAccess", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCanonicalNativeCompleteness", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryNativePairAccess", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryNativePairAccess", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCompactPairedSupport", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterScalaronOuterFockFL", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterScalaronFiberFL", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterDirectSumEsa", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterQgTruncationResolvent", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterQgContinuumModeInstance", "via": ["statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterScalaronOuterFockFL", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterScalaronFiberFL", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterQgTruncationResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterQgContinuumModeInstance", "via": ["solution", "statement"]}
 {"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterQgTimeIndependentFlow", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterQgOuterFockCoreFL", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterStoneUnitary", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterQgOuterFockCoreFL", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterStoneUnitary", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
 {"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterShiftedQuadraticEsa", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterScalaronCoreEsa", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterStoneBridge", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterEsaClosureCore", "via": ["statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterScalaronCoreEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterStoneBridge", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence", "child": "ChapterEsaClosureCore", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.pderiv_xi_outer", "child": "GeneralPieces_GenF_NormalL", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.pderiv_xi_outer", "child": "GeneralPieces_GenF_Borel", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.pderiv_xi_outer", "child": "GeneralPieces_GenF_Y", "via": ["solution", "statement"]}
@@ -73857,15 +73857,15 @@
 {"parent": "VariableBound.Net.Basic.kind_lt", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.Basic.kind_lt", "child": "VariableBound_Net_Basic", "via": ["solution", "statement"]}
 {"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterPermutationSectorEsa", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterTensorGraphCore", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterEsaPairDGamma", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterDirectSumEsa", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterFarisLavine", "via": ["statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterTensorGraphCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterEsaPairDGamma", "via": ["solution", "statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
 {"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterBddBelowFiberSumEsa", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterSecondQuantizationCoreEsa", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterFarisLavineCore", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterGraphCoreTransfer", "via": ["statement"]}
-{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterSirkTrotterKatoGalerkin", "via": ["statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterSecondQuantizationCoreEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterFarisLavineCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterGraphCoreTransfer", "via": ["solution", "statement"]}
+{"parent": "BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded", "child": "ChapterSirkTrotterKatoGalerkin", "via": ["solution", "statement"]}
 {"parent": "WidthK.Step.nextA_zero", "child": "SparsifyWidthK_Interfaces", "via": ["solution", "statement"]}
 {"parent": "WidthK.Step.nextA_zero", "child": "StepMachines_Math_Sparsify", "via": ["solution", "statement"]}
 {"parent": "WidthK.Step.nextA_zero", "child": "SparsifyWidthK_Step", "via": ["solution", "statement"]}

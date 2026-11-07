@@ -1,0 +1,44 @@
+-- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_U9_entry2_1_contains_e
+-- name    : OAI.SharpPlanar.Numerical.U9.entry2_1_contains_e
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-06T22:14:40.70663+00:00
+-- url     : https://prove2.me/theorems/043a67f4-d2d2-440b-865d-b1da3632f37e
+-- title:
+--   OAI.SharpPlanar.Numerical.U9.entry2_1_contains_e: intermediate lemma from OpenAI, A sharp Fourier certificate for planar circle packing (result family 090)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.sharp_fourier_certificate`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *A sharp Fourier certificate for planar circle packing (result family 090)*, OpenAI Math Release, September 23, 2026, result family 90, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.SharpPlanar.Numerical.U9.entry2_1_contains` of [lean/OAI/Analysis/PlanarPacking/Certificate/WUCert9.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/PlanarPacking/Certificate/WUCert9.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.SharpPlanar.Numerical.U9`, with `open IntegerIntervals IntegerBasis IntegerGrid CachedData`):
+--
+--   ```lean
+--   lemma entry2_1_contains_e : entry2_1.Contains (umat 2 1)
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.SharpPlanar.IntegerIntervals.RBox.Contains` (definitions bundle `OAIQ098E028` of this split); `OAI.SharpPlanar.Numerical.U9.entry2_1` (definitions bundle `OAIQ098E125` of this split); `OAI.SharpPlanar.Numerical.U9.umat` (definitions bundle `OAIQ098E126` of this split).
+--
+--   **Used by.** The proofs of `OAI.SharpPlanar.Numerical.U9.wuminus_column_e` and `OAI.SharpPlanar.Numerical.U9.wuplus_column_e` of this split import it.
+-- source:
+--   OpenAI, A sharp Fourier certificate for planar circle packing (result family 090), OpenAI Math Release, September 23, 2026, https://github.com/openai/math (result family 90; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/A-sharp-Fourier-certificate-for-planar-circle-packing-September-23-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/PlanarPacking/Certificate/WUCert9.lean (declaration OAI.SharpPlanar.Numerical.U9.entry2_1_contains)
+
+import Mathlib
+import Definitions.Def_OAIQ098E126
+
+section
+
+attribute [-instance] _root_.OAI.SharpPlanar.IntegerIntervals.instDecidableSqNormCheck
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace SharpPlanar.Numerical.U9
+open IntegerIntervals IntegerBasis IntegerGrid CachedData
+lemma entry2_1_contains_e : entry2_1.Contains (umat 2 1) := by
+  sorry
+end SharpPlanar.Numerical.U9
+
+end OAI
+end

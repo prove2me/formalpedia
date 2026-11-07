@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudCostOpt_eq_8_9_piHat_optimal
 -- name    : CloudCostOpt.eq_8_9_piHat_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:11:30.10326+00:00
 -- url     : https://prove2.me/theorems/03f200c6-2613-4fa9-ac39-78f38119b1ca

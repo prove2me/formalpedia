@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Mixing_prop_3_2_3
 -- name    : SimplicialIso.Mixing.prop_3_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:18.728985+00:00
 -- url     : https://prove2.me/theorems/bd5ac5bd-37da-4c0a-beee-648ba08110cb

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SchedComplexity.NoWait.theorem_5_hamilton_path_reducible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T12:08:40.394985+00:00
 -- url     : https://prove2.me/submissions/54ed3052-e103-48e9-b769-0af3a87c5356
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_CookPvsNP_defs

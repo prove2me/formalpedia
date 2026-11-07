@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_tendsto_ratio_Q
 -- name    : SamuelCahnProphet.IID.tendsto_ratio_Q
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:54.344984+00:00
 -- url     : https://prove2.me/theorems/c4a91ea3-e688-470b-a716-a81e71a04993

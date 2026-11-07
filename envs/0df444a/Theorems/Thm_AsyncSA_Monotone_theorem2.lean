@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsyncSA_Monotone_theorem2
 -- name    : AsyncSA.Monotone.theorem2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:56:01.210844+00:00
 -- url     : https://prove2.me/theorems/f60b3943-920c-4e51-bfaf-5ac3d97f2384

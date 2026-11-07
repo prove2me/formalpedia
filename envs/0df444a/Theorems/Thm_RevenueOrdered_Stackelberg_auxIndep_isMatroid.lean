@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_auxIndep_isMatroid
 -- name    : RevenueOrdered.Stackelberg.auxIndep_isMatroid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:31:43.30389+00:00
 -- url     : https://prove2.me/theorems/10668041-43cb-40df-b2ed-230d7760f4ef

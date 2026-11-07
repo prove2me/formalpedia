@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_exists_check_four_fifths_counique
 -- name    : QEC.Coding.FiberBundle.RandomBase.exists_check_four_fifths_counique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:03.082529+00:00
 -- url     : https://prove2.me/theorems/791833b2-7de3-44af-922c-fced3b9913cb

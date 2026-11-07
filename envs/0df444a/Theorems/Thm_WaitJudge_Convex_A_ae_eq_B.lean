@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_A_ae_eq_B
 -- name    : WaitJudge.Convex.A_ae_eq_B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:58:49.45005+00:00
 -- url     : https://prove2.me/theorems/8f387e84-7860-48e8-a6b9-7bd55a76f658

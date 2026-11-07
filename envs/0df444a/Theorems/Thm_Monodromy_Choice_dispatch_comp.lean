@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Choice_dispatch_comp
 -- name    : Monodromy.Choice.dispatch_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:26:45.715199+00:00
 -- url     : https://prove2.me/theorems/52aca998-a26e-4dc8-aa92-7997c3751bae

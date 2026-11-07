@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_selectedIncidenceCount_eq_sum_selectedCheckCount
 -- name    : QEC.Coding.FiberBundle.RandomBase.selectedIncidenceCount_eq_sum_selectedCheckCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:51.593691+00:00
 -- url     : https://prove2.me/theorems/20bb124c-0f53-4a60-b32c-f201dc3ea6f8

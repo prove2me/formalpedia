@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_card_le_twice_hammingWeight_horizontalComponent_add_lift_of_shadow_empty
 -- name    : QEC.Coding.FiberBundle.card_le_twice_hammingWeight_horizontalComponent_add_lift_of_shadow_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:22.157439+00:00
 -- url     : https://prove2.me/theorems/a226f0f9-fe81-411f-a61a-9805935b36ad

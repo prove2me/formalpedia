@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_counterstrategy
 -- name    : FriedmannCunningham.counterstrategy
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:11:10.843852+00:00
 -- url     : https://prove2.me/theorems/71f189e1-028c-4407-9f5b-e52ac65bc8cc

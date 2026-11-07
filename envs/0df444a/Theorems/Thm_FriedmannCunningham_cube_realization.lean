@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_cube_realization
 -- name    : FriedmannCunningham.cube_realization
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:12:40.318593+00:00
 -- url     : https://prove2.me/theorems/befaa311-d055-4c85-bb4f-ee1735b3d856

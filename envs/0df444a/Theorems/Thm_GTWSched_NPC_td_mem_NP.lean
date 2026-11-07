@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_td_mem_NP
 -- name    : GTWSched.NPC.td_mem_NP
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:50:51.020523+00:00
 -- url     : https://prove2.me/theorems/39e5935f-65f8-4218-88a8-5bb0a3259663

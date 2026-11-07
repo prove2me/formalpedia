@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudCostOpt_corollary_6_asymptotic_optimality
 -- name    : CloudCostOpt.corollary_6_asymptotic_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:12:44.796411+00:00
 -- url     : https://prove2.me/theorems/ad0aeda3-4c89-417a-8ab7-c4cd4f522088

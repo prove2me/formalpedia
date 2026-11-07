@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_power21_contains_e
 -- name    : OAI.SharpPlanar.CachedData.power21_contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:16:06.723087+00:00
 -- url     : https://prove2.me/theorems/5641e4c2-7eb5-4145-849e-796f2828f29a

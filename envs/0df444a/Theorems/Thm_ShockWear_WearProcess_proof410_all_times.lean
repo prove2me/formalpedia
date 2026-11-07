@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_WearProcess_proof410_all_times
 -- name    : ShockWear.WearProcess.proof410_all_times
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:55:54.617851+00:00
 -- url     : https://prove2.me/theorems/93d54bc1-f619-4f16-af00-59a57d5d5d37

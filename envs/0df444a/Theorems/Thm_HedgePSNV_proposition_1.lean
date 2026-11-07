@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgePSNV_proposition_1
 -- name    : HedgePSNV.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:01:30.857377+00:00
 -- url     : https://prove2.me/theorems/f931358d-1168-43a8-8961-581c9875577e

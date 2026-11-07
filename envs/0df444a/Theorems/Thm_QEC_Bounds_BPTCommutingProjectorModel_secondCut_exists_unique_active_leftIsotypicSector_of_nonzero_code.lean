@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_exists_unique_active_leftIsotypicSector_of_nonzero_code
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_exists_unique_active_leftIsotypicSector_of_nonzero_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:18:24.040054+00:00
 -- url     : https://prove2.me/theorems/0bba36a5-cbb6-4f2a-ad62-2423ac420cdf

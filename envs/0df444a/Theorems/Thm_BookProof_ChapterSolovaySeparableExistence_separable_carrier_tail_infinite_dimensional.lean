@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolovaySeparableExistence_separable_carrier_tail_infinite_dimensional
 -- name    : BookProof.ChapterSolovaySeparableExistence.separable_carrier_tail_infinite_dimensional
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-30T22:46:11.338612+00:00
 -- url     : https://prove2.me/theorems/4c34f748-de2d-422f-903e-1d0e4c6919d2

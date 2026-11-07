@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_priority_unstable
 -- name    : DaiWeissFluid.LuKumar.priority_unstable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:23:33.18098+00:00
 -- url     : https://prove2.me/theorems/1232dbc4-6bcb-4a7c-a4ff-7d826a6d601a

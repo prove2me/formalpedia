@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Consistency_example_5
 -- name    : GenEmpLik.Consistency.example_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:14:36.191017+00:00
 -- url     : https://prove2.me/theorems/81d47cad-a774-4d73-930c-a168ef61562d

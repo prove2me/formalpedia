@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRegenerative_Moments_theorem_8_i
 -- name    : SmithRegenerative.Moments.theorem_8_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:35:23.677787+00:00
 -- url     : https://prove2.me/theorems/4432fd77-40d3-40df-8a60-9975e5ae88c3

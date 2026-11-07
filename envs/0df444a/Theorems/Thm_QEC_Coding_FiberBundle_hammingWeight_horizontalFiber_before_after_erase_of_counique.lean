@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_hammingWeight_horizontalFiber_before_after_erase_of_counique
 -- name    : QEC.Coding.FiberBundle.hammingWeight_horizontalFiber_before_after_erase_of_counique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:56:34.596663+00:00
 -- url     : https://prove2.me/theorems/efbc0c85-d4a4-42ae-8cc9-a048ecd8ee35

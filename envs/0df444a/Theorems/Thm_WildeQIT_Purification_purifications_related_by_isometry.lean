@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Purification_purifications_related_by_isometry
 -- name    : WildeQIT.Purification.purifications_related_by_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:42.913232+00:00
 -- url     : https://prove2.me/theorems/b404b5a7-5435-4e4c-ab76-e95eb64d4331

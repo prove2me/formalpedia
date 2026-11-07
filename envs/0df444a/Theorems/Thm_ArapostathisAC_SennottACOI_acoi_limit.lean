@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_SennottACOI_acoi_limit
 -- name    : ArapostathisAC.SennottACOI.acoi_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:44:33.127254+00:00
 -- url     : https://prove2.me/theorems/f09f11be-c439-48b6-b44a-5a4581fbba21

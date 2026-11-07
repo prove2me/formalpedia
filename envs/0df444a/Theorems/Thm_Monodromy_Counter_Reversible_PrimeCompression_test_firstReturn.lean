@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Counter_Reversible_PrimeCompression_test_firstReturn
 -- name    : Monodromy.Counter.Reversible.PrimeCompression.test_firstReturn
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:48:49.053266+00:00
 -- url     : https://prove2.me/theorems/1800a54e-febd-4721-ba8d-4183abc4d04b

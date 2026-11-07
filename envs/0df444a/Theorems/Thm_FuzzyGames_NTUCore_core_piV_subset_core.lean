@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_NTUCore_core_piV_subset_core
 -- name    : FuzzyGames.NTUCore.core_piV_subset_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:04:13.44524+00:00
 -- url     : https://prove2.me/theorems/a1642d35-00c3-4a65-9193-5284ce6a4618

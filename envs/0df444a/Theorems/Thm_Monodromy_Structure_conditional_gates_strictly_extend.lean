@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Structure_conditional_gates_strictly_extend
 -- name    : Monodromy.Structure.conditional_gates_strictly_extend
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:49:55.649576+00:00
 -- url     : https://prove2.me/theorems/042d5d0a-1341-43b0-a47e-df2989615a40

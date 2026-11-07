@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Mixing_exact_eq_orthogonal_cycles
 -- name    : SimplicialIso.Mixing.exact_eq_orthogonal_cycles
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:24:07.070001+00:00
 -- url     : https://prove2.me/theorems/87662094-5279-4a30-8a69-19971dfc5694

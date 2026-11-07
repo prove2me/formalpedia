@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_TwoType_case2_stage8
 -- name    : KumarSeidman.TwoType.case2_stage8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:29:09.068899+00:00
 -- url     : https://prove2.me/theorems/ea050125-09c5-4a81-af76-7bc980eec2b0

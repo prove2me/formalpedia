@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_Correspondence_representative_feasible
 -- name    : HordijkKallenbergLP.Correspondence.representative_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:15:18.391536+00:00
 -- url     : https://prove2.me/theorems/74626729-08e8-418e-81a8-b1510477138f

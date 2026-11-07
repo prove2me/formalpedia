@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_linearDistance_failureMass_le_split
 -- name    : QEC.Coding.FiberBundle.RandomBase.linearDistance_failureMass_le_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:44:19.576852+00:00
 -- url     : https://prove2.me/theorems/fbc96a69-f71e-4a62-a742-416fc83a1c8c

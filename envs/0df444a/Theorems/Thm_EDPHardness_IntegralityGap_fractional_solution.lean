@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_fractional_solution
 -- name    : EDPHardness.IntegralityGap.fractional_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:50.964235+00:00
 -- url     : https://prove2.me/theorems/bab63162-8002-4c2d-b1cf-9c4e32d5d0d9

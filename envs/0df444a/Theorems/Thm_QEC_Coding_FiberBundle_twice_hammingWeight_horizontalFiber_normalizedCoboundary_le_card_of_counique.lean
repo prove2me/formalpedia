@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_twice_hammingWeight_horizontalFiber_normalizedCoboundary_le_card_of_counique
 -- name    : QEC.Coding.FiberBundle.twice_hammingWeight_horizontalFiber_normalizedCoboundary_le_card_of_counique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:56:42.040144+00:00
 -- url     : https://prove2.me/theorems/d4543aba-eb51-40b1-8a6b-55ad7a7a6bd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_horizontalFiber_bundleCoboundary_eraseC0FiberCorrection
 -- name    : QEC.Coding.FiberBundle.horizontalFiber_bundleCoboundary_eraseC0FiberCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:31.104966+00:00
 -- url     : https://prove2.me/theorems/1d0b51b1-fdf4-43e0-877a-6872f1e549e3

@@ -17250,10 +17250,10 @@
 {"parent": "CountingMatroid.Analysis.RestartStageAttemptMean.nat_layer", "child": "CountingMatroid_Analysis_TransversalClassPartition", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.RestartStageAttemptMean.nat_layer", "child": "CountingMatroid_Model_Operations", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.RestartStageAttemptMean.nat_layer", "child": "CountingMatroid_Analysis_FinishPhaseEmpiricalUpdate", "via": ["solution", "statement"]}
-{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "SchedComplexity_Partition_Languages", "via": ["statement"]}
-{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "SchedComplexity_Partition_PartitionProblem", "via": ["statement"]}
-{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "SchedComplexity_Partition_Constructions", "via": ["statement"]}
+{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "SchedComplexity_Partition_Languages", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "SchedComplexity_Partition_PartitionProblem", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.Partition.partition_twoMachine_encoding_reduction", "child": "SchedComplexity_Partition_Constructions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.ordered_chart_weaken_parameters", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_98108dba_1927_4e81_b6e3_ce95ad278038", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Bridge.mainTheorem_of_explicit_machine_realization", "child": "CountingMatroid_Bridge_MachineRealization", "via": ["solution", "statement"]}
@@ -18840,9 +18840,9 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared14.right_parallel_002_part05_checked", "child": "D1Bound5_SmallPairLightData14RightCached_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared14.right_parallel_002_part05_checked", "child": "D1Bound5_SmallPairLightData14RightRows_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared14.right_parallel_002_part05_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
-{"parent": "SchedComplexity.Shops.knapsack_ghij_encoding_reduction", "child": "SchedComplexity_Shops_Problems", "via": ["statement"]}
-{"parent": "SchedComplexity.Shops.knapsack_ghij_encoding_reduction", "child": "SchedComplexity_Shops_Constructions", "via": ["statement"]}
-{"parent": "SchedComplexity.Shops.knapsack_ghij_encoding_reduction", "child": "SchedComplexity_OneMachine_Knapsack", "via": ["statement"]}
+{"parent": "SchedComplexity.Shops.knapsack_ghij_encoding_reduction", "child": "SchedComplexity_Shops_Problems", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.Shops.knapsack_ghij_encoding_reduction", "child": "SchedComplexity_Shops_Constructions", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.Shops.knapsack_ghij_encoding_reduction", "child": "SchedComplexity_OneMachine_Knapsack", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.sign_e003_c00_s0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1307", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1307", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
@@ -33735,8 +33735,8 @@
 {"parent": "D1Bound5_PellLightPrefixData58_Definitions_002", "child": "D1Bound5_PellLightPrefixData58_Definitions_001", "via": ["statement"]}
 {"parent": "H65K.Edge.piece28", "child": "ArdaRH65K_Edge65000Data", "via": ["solution", "statement"]}
 {"parent": "SchedComplexity.NoWait.dhp_noWait_encoding_reduction", "child": "SchedComplexity_NoWait_NoWaitFlowShop", "via": ["statement"]}
-{"parent": "SchedComplexity.NoWait.dhp_noWait_encoding_reduction", "child": "SchedComplexity_NoWait_Construction", "via": ["statement"]}
-{"parent": "SchedComplexity.NoWait.dhp_noWait_encoding_reduction", "child": "CookPvsNP_defs", "via": ["statement"]}
+{"parent": "SchedComplexity.NoWait.dhp_noWait_encoding_reduction", "child": "SchedComplexity_NoWait_Construction", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.NoWait.dhp_noWait_encoding_reduction", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
 {"parent": "SchedComplexity.NoWait.dhp_noWait_encoding_reduction", "child": "SchedComplexity_NoWait_DirectedGraphs", "via": ["statement"]}
 {"parent": "KLSModular_LevyStochCalc_Brownian_VectorItoProcessVersion", "child": "KLSModular_LevyStochCalc_Brownian_VectorItoProcess", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.finite_maximal_simplegraph_extension", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -53971,9 +53971,9 @@
 {"parent": "D1Bound5.PairGraphPrepared26.indexed_checked", "child": "D1Bound5_SmallPairGraphInputs26_Definitions_002", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared26.indexed_checked", "child": "D1Bound5_SmallPairGraphWitnessData26_Definitions_003", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared26.indexed_checked", "child": "D1Bound5_PairClosureIndexedWitness_Definitions", "via": ["solution", "statement"]}
-{"parent": "SchedComplexity.Tardiness.knapsack_wt_encoding_reduction", "child": "SchedComplexity_Tardiness_Construction", "via": ["statement"]}
-{"parent": "SchedComplexity.Tardiness.knapsack_wt_encoding_reduction", "child": "SchedComplexity_Tardiness_Knapsack", "via": ["statement"]}
-{"parent": "SchedComplexity.Tardiness.knapsack_wt_encoding_reduction", "child": "SchedComplexity_Tardiness_MultLang", "via": ["statement"]}
+{"parent": "SchedComplexity.Tardiness.knapsack_wt_encoding_reduction", "child": "SchedComplexity_Tardiness_Construction", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.Tardiness.knapsack_wt_encoding_reduction", "child": "SchedComplexity_Tardiness_Knapsack", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.Tardiness.knapsack_wt_encoding_reduction", "child": "SchedComplexity_Tardiness_MultLang", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.productFive_compressed_entry", "child": "D1Bound5_ProductFiveRankTwo_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_0_5_1_valid", "child": "D1Bound5_FastSquareTest_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_0_5_1_valid", "child": "D1Bound5_SmallPairSieve_0_5_Definitions", "via": ["solution", "statement"]}
@@ -68023,10 +68023,10 @@
 {"parent": "D1Bound5.smallPairSeeds_25_checked", "child": "D1Bound5_PairSeedDisks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairSeeds_25_checked", "child": "D1Bound5_PairExtensionCore_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairSeeds_25_checked", "child": "D1Bound5_SmallPairGraphInputs25_Definitions_002", "via": ["solution", "statement"]}
-{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "GTWSched_NPC_Schedules", "via": ["statement"]}
-{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "GTWSched_NPC_Problems", "via": ["statement"]}
-{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
-{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "CookPvsNP_defs", "via": ["statement"]}
+{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "GTWSched_NPC_Schedules", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "GTWSched_NPC_Problems", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.evenOdd_polyReducible_td", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess_FiniteTime_Kernel", "child": "MarkovProcess_Time_FiniteOrderedTimes", "via": ["statement"]}
 {"parent": "MarkovProcess_FiniteTime_Kernel", "child": "MarkovProcess_Kernel_Basic_SourceClosedV3", "via": ["statement"]}
 {"parent": "MarkovProcess_FiniteTime_Kernel", "child": "MarkovProcess_Kernel_KernelSemigroup_SourceClosedV3", "via": ["statement"]}
@@ -97388,9 +97388,9 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.chr_on_2_0_4", "child": "Atlas_Core_Certificate", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.chr_on_2_0_4", "child": "Atlas_EinsteinMaxwell_D_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.chr_on_2_0_4", "child": "Atlas_EinsteinMaxwell_ES5_Defs", "via": ["solution", "statement"]}
-{"parent": "SchedComplexity.PrecChain.chainExtend_encoding_reduction", "child": "SchedComplexity_PrecChain_Languages", "via": ["statement"]}
-{"parent": "SchedComplexity.PrecChain.chainExtend_encoding_reduction", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "SchedComplexity.PrecChain.chainExtend_encoding_reduction", "child": "SchedComplexity_PrecChain_Construction", "via": ["statement"]}
+{"parent": "SchedComplexity.PrecChain.chainExtend_encoding_reduction", "child": "SchedComplexity_PrecChain_Languages", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.PrecChain.chainExtend_encoding_reduction", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.PrecChain.chainExtend_encoding_reduction", "child": "SchedComplexity_PrecChain_Construction", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteA3_fixed_height_of_norm_sq", "child": "D1Bound5_FiniteA3FixedHeight_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteA3_fixed_height_of_norm_sq", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteA3_fixed_height_of_norm_sq", "child": "D1Bound5_FiniteA3Matrix_Definitions", "via": ["solution", "statement"]}

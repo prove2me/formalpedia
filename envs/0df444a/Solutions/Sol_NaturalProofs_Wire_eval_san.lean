@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for NaturalProofs.Wire.eval_san
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T08:34:45.246267+00:00
+-- url     : https://prove2.me/submissions/b6c2b2f5-3729-45ac-9eff-86a2a3adc8f3
+
+module
+public import Definitions.Def_NaturalProofs_Defs
+public import Definitions.Def_NaturalProofs_Circuits
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open NaturalProofs
+variable {α β γ δ : Type}
+namespace NaturalProofs
+namespace Wire
+theorem _root_.solution (x : β → Bool) (acc : List Bool) (w : Wire β) :
+    (w.san acc.length).eval x acc = w.eval x acc := by
+  cases w with
+  | gate j =>
+    by_cases h : j < acc.length
+    · simp [Wire.san, h]
+    · simp [Wire.san, h, Wire.eval]
+  | _ => simp [Wire.san]
+end Wire
+end NaturalProofs

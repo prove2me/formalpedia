@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Choice_commute_of_transitive_commuting
 -- name    : Monodromy.Choice.commute_of_transitive_commuting
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:26:35.985289+00:00
 -- url     : https://prove2.me/theorems/cb44e4bd-c6cc-464b-b5e7-75e26c520e9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WolffPASTA_Main_arrival_rate_limit
 -- name    : WolffPASTA.Main.arrival_rate_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:56:56.827073+00:00
 -- url     : https://prove2.me/theorems/43cb87aa-a374-48db-bba3-a4cbfafd8fe5

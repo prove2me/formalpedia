@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LBFS_drift_bound
 -- name    : DaiWeissFluid.LBFS.drift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:43:21.904734+00:00
 -- url     : https://prove2.me/theorems/dfd449ed-b085-4808-9022-d62f7443665a

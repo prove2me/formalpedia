@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sennott1989_AvgCost_lemma_limit_point
 -- name    : Sennott1989.AvgCost.lemma_limit_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:42:32.14457+00:00
 -- url     : https://prove2.me/theorems/a99990d9-e670-4c40-bf68-8699d98c2544

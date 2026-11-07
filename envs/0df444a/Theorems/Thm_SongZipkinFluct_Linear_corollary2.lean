@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_Linear_corollary2
 -- name    : SongZipkinFluct.Linear.corollary2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:36:16.920797+00:00
 -- url     : https://prove2.me/theorems/42064b44-69db-41bb-80e2-e3a2d127f37f

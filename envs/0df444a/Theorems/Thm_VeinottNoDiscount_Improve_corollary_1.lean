@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottNoDiscount_Improve_corollary_1
 -- name    : VeinottNoDiscount.Improve.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:48.358996+00:00
 -- url     : https://prove2.me/theorems/c17b2db9-db67-4076-8aee-38d7ac9a0c4c

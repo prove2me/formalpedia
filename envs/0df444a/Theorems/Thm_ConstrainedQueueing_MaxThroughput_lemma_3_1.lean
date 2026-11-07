@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrainedQueueing_MaxThroughput_lemma_3_1
 -- name    : ConstrainedQueueing.MaxThroughput.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:48:36.584218+00:00
 -- url     : https://prove2.me/theorems/c2dacc87-ff88-44ae-b220-cd5f97b3708d

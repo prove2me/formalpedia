@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_tendsto_W_a
 -- name    : SamuelCahnProphet.IID.tendsto_W_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:42.014232+00:00
 -- url     : https://prove2.me/theorems/c5f088c6-fb3e-469c-91e2-f75c2a5ef3a5

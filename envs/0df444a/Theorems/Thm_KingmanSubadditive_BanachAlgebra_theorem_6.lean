@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingmanSubadditive_BanachAlgebra_theorem_6
 -- name    : KingmanSubadditive.BanachAlgebra.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:20:04.798023+00:00
 -- url     : https://prove2.me/theorems/a8b2a6c8-39ba-400c-8f9d-4e703e665b3c

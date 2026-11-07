@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRUpper_lemma8_bound_on_b
 -- name    : ResolvingNRM.FRUpper.lemma8_bound_on_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:43:50.069816+00:00
 -- url     : https://prove2.me/theorems/d506cfa9-35e7-4aba-8795-52f1f960fccd

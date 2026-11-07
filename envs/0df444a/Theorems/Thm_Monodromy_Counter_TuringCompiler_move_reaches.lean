@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Counter_TuringCompiler_move_reaches
 -- name    : Monodromy.Counter.TuringCompiler.move_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:45:54.968463+00:00
 -- url     : https://prove2.me/theorems/2db85882-247b-4877-90a1-843ff14cbbc2

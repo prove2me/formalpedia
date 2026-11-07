@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_schedule_sum_bounded
 -- name    : ResolvingNRM.IRT.schedule_sum_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:21:38.013829+00:00
 -- url     : https://prove2.me/theorems/37c73513-775c-440c-bab7-47f975318d14

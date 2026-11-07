@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_two_le_hammingWeight_cycleFiberCoboundary
 -- name    : QEC.Coding.FiberBundle.two_le_hammingWeight_cycleFiberCoboundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:55:04.516379+00:00
 -- url     : https://prove2.me/theorems/0b587123-4ea2-43a6-bb8f-bfa9a32e6c12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_failureMass_and_le
 -- name    : QEC.Coding.FiberBundle.RandomBase.failureMass_and_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:44:52.119492+00:00
 -- url     : https://prove2.me/theorems/8c952cc2-2498-4acb-b5a0-cf9872531e93

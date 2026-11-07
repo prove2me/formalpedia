@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_Decomposition_theorem_3_1
 -- name    : HarmonicGames.Decomposition.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:52:20.85915+00:00
 -- url     : https://prove2.me/theorems/9e204ee9-5aba-4fc8-85c6-ecd1efae9627

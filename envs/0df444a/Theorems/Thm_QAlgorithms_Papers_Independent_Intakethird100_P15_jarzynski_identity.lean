@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P15_jarzynski_identity
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P15.jarzynski_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:06:04.320289+00:00
 -- url     : https://prove2.me/theorems/5b5d9e4a-90e3-48b5-955c-33b70cdda162

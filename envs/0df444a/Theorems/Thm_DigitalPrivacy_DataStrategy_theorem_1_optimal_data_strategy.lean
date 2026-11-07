@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DigitalPrivacy_DataStrategy_theorem_1_optimal_data_strategy
 -- name    : DigitalPrivacy.DataStrategy.theorem_1_optimal_data_strategy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:15:21.957141+00:00
 -- url     : https://prove2.me/theorems/41643a50-5731-4f9a-8673-5e3ef20681e2

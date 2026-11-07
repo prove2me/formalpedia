@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Consistency_theorem_7
 -- name    : GenEmpLik.Consistency.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:14:29.118985+00:00
 -- url     : https://prove2.me/theorems/470f13de-9d41-44c0-91c9-97f0b400deca

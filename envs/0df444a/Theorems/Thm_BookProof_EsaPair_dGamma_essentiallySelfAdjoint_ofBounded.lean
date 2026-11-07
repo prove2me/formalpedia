@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EsaPair_dGamma_essentiallySelfAdjoint_ofBounded
 -- name    : BookProof.EsaPair.dGamma_essentiallySelfAdjoint_ofBounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:52:47.541914+00:00
 -- url     : https://prove2.me/theorems/eeea1bbb-6f1d-4c1e-8e31-e334a2f0cfac

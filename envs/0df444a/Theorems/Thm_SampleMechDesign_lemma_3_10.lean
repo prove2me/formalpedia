@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleMechDesign_lemma_3_10
 -- name    : SampleMechDesign.lemma_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:12:11.094682+00:00
 -- url     : https://prove2.me/theorems/19edd12c-d1f7-41cb-bcf6-a56c9ef1993c

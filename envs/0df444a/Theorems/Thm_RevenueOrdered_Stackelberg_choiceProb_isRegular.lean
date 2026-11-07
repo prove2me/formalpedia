@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_choiceProb_isRegular
 -- name    : RevenueOrdered.Stackelberg.choiceProb_isRegular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:31:43.012101+00:00
 -- url     : https://prove2.me/theorems/ca779cc5-b480-4d96-9b1a-9bdb30ad6362

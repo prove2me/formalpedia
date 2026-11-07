@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_IsWeightMinimal_normalized
 -- name    : QEC.Coding.FiberBundle.IsWeightMinimal.normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:05.745193+00:00
 -- url     : https://prove2.me/theorems/75188ce8-9610-42c9-909f-79193ba0bf40

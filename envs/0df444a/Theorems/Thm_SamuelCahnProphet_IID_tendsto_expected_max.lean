@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_tendsto_expected_max
 -- name    : SamuelCahnProphet.IID.tendsto_expected_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:35.151769+00:00
 -- url     : https://prove2.me/theorems/09665f72-149a-41ed-bc4a-5f5eb04cb70c

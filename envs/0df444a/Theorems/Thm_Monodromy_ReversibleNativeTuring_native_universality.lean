@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleNativeTuring_native_universality
 -- name    : Monodromy.ReversibleNativeTuring.native_universality
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:54:34.742498+00:00
 -- url     : https://prove2.me/theorems/153a536d-9e86-4912-afd9-0225a7a1135a

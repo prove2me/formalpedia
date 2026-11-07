@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Structure_analytic_computes_iff
 -- name    : Monodromy.Structure.analytic_computes_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:44:28.001241+00:00
 -- url     : https://prove2.me/theorems/095e2c2c-7dbc-40d9-82db-e9f46bb50658

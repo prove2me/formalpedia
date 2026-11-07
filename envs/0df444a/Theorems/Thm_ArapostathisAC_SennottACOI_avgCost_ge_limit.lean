@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_SennottACOI_avgCost_ge_limit
 -- name    : ArapostathisAC.SennottACOI.avgCost_ge_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:44:53.282547+00:00
 -- url     : https://prove2.me/theorems/6e625fc0-e87f-4d66-b1d5-59efbe2c7a16

@@ -1,0 +1,35 @@
+-- Prove2me | Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Certificate
+-- name    : QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Certificate
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-07T00:34:51.281668+00:00
+-- url     : https://prove2.me/theorems/da654360-886a-496f-923d-3c1844e0e561
+-- title:
+--   Certificate
+-- statement:
+--   Definitions and structural lemmas for Certificate, from The Lean-QECert contributors's pinned Lean-QECert development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/QuditQubitConversion/AppendixANF/Cubic/Certificate.lean
+
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part00
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part01
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part02
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part03
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part04
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part05
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part06
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part07
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part08
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part09
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part10
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part11
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part12
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part13
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part14
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part15
+set_option autoImplicit false
+noncomputable section
+namespace QEC.Coding.Why24AppendixANF
+end QEC.Coding.Why24AppendixANF
+
+

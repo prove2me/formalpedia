@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_DBar_dbar_triangle
 -- name    : StochIneqPO.DBar.dbar_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:49.498922+00:00
 -- url     : https://prove2.me/theorems/d1229e92-3b55-44d1-acb7-a9984edbebd5

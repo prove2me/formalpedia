@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QEC.Bounds.BPTCommutingProjectorModel.secondCutCoordinateTransport_conj_source_overlap_product
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T22:15:31.513926+00:00
 -- url     : https://prove2.me/submissions/191dc5f8-d706-44e9-9d5d-7228843ac912
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QEC_Bounds_BPTDisentangling_FourFactor
 import Definitions.Def_QEC_Bounds_BPTDisentangling_Sectors_Selection

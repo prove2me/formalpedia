@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Generic_prob_violation_eq_sum_integral
 -- name    : WaitJudge.Generic.prob_violation_eq_sum_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:11:06.589629+00:00
 -- url     : https://prove2.me/theorems/af0a77df-37d6-4fbe-814b-75aed99eda29

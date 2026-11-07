@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_PrecChain_chainExtend_encoding_reduction
 -- name    : SchedComplexity.PrecChain.chainExtend_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:41:17.41886+00:00
 -- url     : https://prove2.me/theorems/b6a50394-c334-478d-9367-dfec05e6c17e

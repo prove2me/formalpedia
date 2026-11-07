@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReentrantScheduling_FBFS_theorem1_fbfs_stable
 -- name    : ReentrantScheduling.FBFS.theorem1_fbfs_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:51.662529+00:00
 -- url     : https://prove2.me/theorems/857d444a-e7e2-4b1c-a4db-c438f3af49bb

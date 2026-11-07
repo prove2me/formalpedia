@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_exists_lowWeightSupport_mem_code_of_not_hasLinearDistance
 -- name    : QEC.Coding.FiberBundle.RandomBase.exists_lowWeightSupport_mem_code_of_not_hasLinearDistance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:44:28.996073+00:00
 -- url     : https://prove2.me/theorems/1cbc180f-db41-4051-b231-29046e436462

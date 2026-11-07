@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochConvexProg_Duality_summable_of_bounded
 -- name    : StochConvexProg.Duality.summable_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:10:08.547743+00:00
 -- url     : https://prove2.me/theorems/c6bed49b-b32f-4e90-ba41-13c18f7a53f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_exists_check_many_couniqueNeighbors
 -- name    : QEC.Coding.FiberBundle.RandomBase.exists_check_many_couniqueNeighbors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:22.143449+00:00
 -- url     : https://prove2.me/theorems/c6911572-39d7-4700-8fdf-d3fb01fc4918

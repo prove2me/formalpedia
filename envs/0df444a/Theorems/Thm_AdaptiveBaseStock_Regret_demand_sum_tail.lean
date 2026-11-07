@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveBaseStock_Regret_demand_sum_tail
 -- name    : AdaptiveBaseStock.Regret.demand_sum_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:10.732369+00:00
 -- url     : https://prove2.me/theorems/2b6ce60a-0383-4875-96a5-a6fc6554c2e3

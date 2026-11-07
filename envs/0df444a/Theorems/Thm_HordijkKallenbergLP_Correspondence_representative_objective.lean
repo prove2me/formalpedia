@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_Correspondence_representative_objective
 -- name    : HordijkKallenbergLP.Correspondence.representative_objective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:14:09.167988+00:00
 -- url     : https://prove2.me/theorems/8636efea-5baf-4c53-9455-86a20ba86ae9

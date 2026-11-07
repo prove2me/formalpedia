@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_fourFactor_codeProjector_eq_source_products
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.fourFactor_codeProjector_eq_source_products
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:20:47.917773+00:00
 -- url     : https://prove2.me/theorems/2757fc4e-3670-4a49-8861-df10f04024f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Recourse_corollary_2_1
 -- name    : KallMayerSLP.Recourse.corollary_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:12:36.985002+00:00
 -- url     : https://prove2.me/theorems/ed2431d3-bd3a-4dd2-ad1c-f32d9057b8e9

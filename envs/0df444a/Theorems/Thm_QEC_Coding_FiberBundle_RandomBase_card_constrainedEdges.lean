@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_card_constrainedEdges
 -- name    : QEC.Coding.FiberBundle.RandomBase.card_constrainedEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:27.576371+00:00
 -- url     : https://prove2.me/theorems/ce6c7912-a7c6-42ba-949f-11bb3bfba5a9

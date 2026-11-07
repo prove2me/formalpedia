@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgHedging_Nonconvex_local_opt_tilde
 -- name    : ProgHedging.Nonconvex.local_opt_tilde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:08.082987+00:00
 -- url     : https://prove2.me/theorems/4550a30b-8edd-4a33-978b-15daeda3dd20

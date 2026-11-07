@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCA_summation_theorem
 -- name    : MCA.summation_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @chenyu
 -- created : 2026-10-30T11:35:54.797413+00:00
 -- url     : https://prove2.me/theorems/10d2dad6-e860-43dd-b912-a44886f2a565

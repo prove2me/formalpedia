@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_policy_pivot
 -- name    : FriedmannCunningham.policy_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:12:13.12656+00:00
 -- url     : https://prove2.me/theorems/d536c42c-5bec-493c-82fe-cd1d2d19769e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_bernoulli_true_eventMass
 -- name    : QEC.Coding.FiberBundle.RandomBase.bernoulli_true_eventMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:50.550209+00:00
 -- url     : https://prove2.me/theorems/2a0ee8b8-c8d2-4c08-af44-7bdb32b5493c

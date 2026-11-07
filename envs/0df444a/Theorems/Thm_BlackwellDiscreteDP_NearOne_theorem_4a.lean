@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackwellDiscreteDP_NearOne_theorem_4a
 -- name    : BlackwellDiscreteDP.NearOne.theorem_4a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:23:40.667985+00:00
 -- url     : https://prove2.me/theorems/ee86d5a5-dfd5-4aa0-97da-ff0e87b3d765

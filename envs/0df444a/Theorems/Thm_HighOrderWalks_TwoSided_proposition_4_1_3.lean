@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighOrderWalks_TwoSided_proposition_4_1_3
 -- name    : HighOrderWalks.TwoSided.proposition_4_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:36:16.202923+00:00
 -- url     : https://prove2.me/theorems/8f0dd3dd-9ff3-4848-a8ae-d04cd4e32fd1

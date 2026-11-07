@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_sstar_le_dim
 -- name    : WaitJudge.Convex.sstar_le_dim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:57:48.978608+00:00
 -- url     : https://prove2.me/theorems/868f86c6-afd1-4922-828b-60be6409409f

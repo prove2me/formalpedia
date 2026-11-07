@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HomogBiLimit_OutputFeedback_lemma_2_13
 -- name    : HomogBiLimit.OutputFeedback.lemma_2_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:10:24.113973+00:00
 -- url     : https://prove2.me/theorems/64e0db32-53c0-40ae-aa59-1b7689d6b5d5

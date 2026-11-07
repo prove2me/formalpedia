@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSirkPerSystemFlowBound_nsDiff_sirk_flow_error_bound
 -- name    : BookProof.ChapterSirkPerSystemFlowBound.nsDiff_sirk_flow_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-05T19:43:19.772641+00:00
 -- url     : https://prove2.me/theorems/d14f4d26-794d-4da5-8820-573771cc4744

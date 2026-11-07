@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Characterization_observation_15
 -- name    : PCSPBLPAff.Characterization.observation_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:39.95398+00:00
 -- url     : https://prove2.me/theorems/2806d9f4-d0b9-480e-af77-38703120360e

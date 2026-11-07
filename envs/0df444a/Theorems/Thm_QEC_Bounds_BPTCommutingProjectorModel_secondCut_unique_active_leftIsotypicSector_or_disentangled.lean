@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_unique_active_leftIsotypicSector_or_disentangled
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_unique_active_leftIsotypicSector_or_disentangled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T15:03:18.305421+00:00
 -- url     : https://prove2.me/theorems/50155432-6d41-4a03-bcee-b3aa0ff44ea2

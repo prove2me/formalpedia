@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SchedComplexity.PrecChain.theorem_1l_cmax_reducible_sumC
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T12:08:40.95119+00:00
 -- url     : https://prove2.me/submissions/9dd907dd-37bf-481a-a0c9-72ad1e0d1764
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_CookPvsNP_defs

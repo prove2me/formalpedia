@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingmanSubadditive_Continuous_skeleton_limit
 -- name    : KingmanSubadditive.Continuous.skeleton_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:44:10.732957+00:00
 -- url     : https://prove2.me/theorems/0b562115-273d-4c4c-8b66-b3f5d57211ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_wc_stable
 -- name    : DaiWeissFluid.LuKumar.wc_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:24:41.438916+00:00
 -- url     : https://prove2.me/theorems/54ae0d57-9bcc-4b17-a96c-59953518f7d5

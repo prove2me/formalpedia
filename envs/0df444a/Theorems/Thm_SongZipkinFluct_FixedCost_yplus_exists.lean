@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_FixedCost_yplus_exists
 -- name    : SongZipkinFluct.FixedCost.yplus_exists
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-06T05:51:05.717364+00:00
 -- url     : https://prove2.me/theorems/59fb2bf2-0b48-44f1-a83b-67f1c9711f8e

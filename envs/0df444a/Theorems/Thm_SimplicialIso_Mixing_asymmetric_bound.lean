@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Mixing_asymmetric_bound
 -- name    : SimplicialIso.Mixing.asymmetric_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:29.600517+00:00
 -- url     : https://prove2.me/theorems/c5208eaa-bf85-43c6-80f2-3157be02535e

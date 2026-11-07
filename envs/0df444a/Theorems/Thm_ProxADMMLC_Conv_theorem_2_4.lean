@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxADMMLC_Conv_theorem_2_4
 -- name    : ProxADMMLC.Conv.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:48.1432+00:00
 -- url     : https://prove2.me/theorems/5fcba70d-6ab6-4243-9fd7-3896c1f1b528

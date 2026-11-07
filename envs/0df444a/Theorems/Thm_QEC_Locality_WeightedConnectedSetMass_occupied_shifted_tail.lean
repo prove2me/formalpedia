@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_QEC_Locality_WeightedConnectedSetMass_occupied_shifted_tail
+-- name    : QEC.Locality.WeightedConnectedSetMass.occupied_shifted_tail
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-06T11:48:28.77204+00:00
+-- url     : https://prove2.me/theorems/6a946ac9-b85d-457a-9aa3-6fe2557ad49c
+-- title:
+--   Weighted Connected Set Mass: occupied shifted tail
+-- statement:
+--   A complete above-prefix tail; no division by b or q.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Locality/Graph/WeightedConnectedSetMass.lean#L551-L565
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Locality/Graph/WeightedConnectedSetMass.lean#L551-L565
+
+import Definitions.Def_QEC_Locality_Graph_ConnectedSetCounting
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Definitions.Def_QEC_Locality_Graph_WeightedConnectedSetMass
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Locality QEC.Locality.WeightedConnectedSetMass
+open Classical ConnectedSetCounting
+open scoped BigOperators Classical
+universe u
+variable {V : Type u} [Fintype V] [DecidableEq V]
+
+theorem QEC.Locality.WeightedConnectedSetMass.occupied_shifted_tail (G : SimpleGraph V) (Delta : ℕ)
+    (hd : ∀ v, Nat.card {w : V // G.Adj v w} ≤ Delta) (R B : Finset V)
+    (hRB : Disjoint R B) (a : V → ℝ) (b : ℝ) (hb : 0≤b)
+    (ha : ∀ v, 0≤a v) (hab : ∀ v, a v≤b) (hq : alpha Delta*b<1)
+    (L U : ℕ) (hL : B.card<L) (hp : 1≤L) :
+    interval (fun m => occupiedMass G R B m a) L U ≤
+      (R.card : ℝ)*alpha Delta^B.card*(alpha Delta*b)^(L-B.card)/(1-alpha Delta*b) := by sorry

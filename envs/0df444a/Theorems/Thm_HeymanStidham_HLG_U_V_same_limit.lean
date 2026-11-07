@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_U_V_same_limit
 -- name    : HeymanStidham.HLG.U_V_same_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:39:20.134986+00:00
 -- url     : https://prove2.me/theorems/fb3c4371-f7ca-41bc-80cd-9000cfbcc9f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingmanSubadditive_PositiveMatrices_limit_11
 -- name    : KingmanSubadditive.PositiveMatrices.limit_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:17:42.047692+00:00
 -- url     : https://prove2.me/theorems/282d3869-e19c-435b-bd7e-8dce16061967

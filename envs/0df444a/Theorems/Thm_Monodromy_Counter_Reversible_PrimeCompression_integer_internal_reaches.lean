@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Counter_Reversible_PrimeCompression_integer_internal_reaches
 -- name    : Monodromy.Counter.Reversible.PrimeCompression.integer_internal_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:51:20.483658+00:00
 -- url     : https://prove2.me/theorems/76e592b0-ccd3-402f-b2ad-244cc87807a9

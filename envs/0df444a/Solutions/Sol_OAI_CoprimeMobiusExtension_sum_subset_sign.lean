@@ -1,0 +1,108 @@
+-- Prove2me | solution 1 for OAI.CoprimeMobiusExtension.sum_subset_sign
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T09:12:39.849482+00:00
+-- url     : https://prove2.me/submissions/9706be44-2832-49ea-b6b8-f069cff28549
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_GaussSum_SquarePhaseFactorization
+import Definitions.Def_OAI_NumberTheory_DirichletL_GaussSum_MixedConversion
+import Definitions.Def_OAI_NumberTheory_DirichletL_QuadraticSieve_CrossSeparation
+import Theorems.Thm_OAI_ActualEisensteinCubic_principalSexticRow_mk
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_halfEulerIterateCLM_apply
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_paperFourierRayCLM_apply
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_paperRealRayCLM_apply
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_verticalSlice_apply
+import Theorems.Thm_OAI_FiniteGaussPhase_productElementCRT_mk
+import Theorems.Thm_OAI_IdealGaussCRT_quotientProdEquivPi_mk
+import Theorems.Thm_OAI_IdealGaussCRT_traceProdChar_mk
+import Theorems.Thm_OAI_LocalLogFourier_positiveLogProfile_apply
+import Theorems.Thm_OAI_QuadraticGaussRay_residueQuotientFour_mk
+attribute [local simp] OAI.ActualEisensteinCubic.principalSexticRow_mk
+attribute [local simp] OAI.EisensteinSchwartzPoisson.halfEulerIterateCLM_apply
+attribute [local simp] OAI.EisensteinSchwartzPoisson.paperFourierRayCLM_apply
+attribute [local simp] OAI.EisensteinSchwartzPoisson.paperRealRayCLM_apply
+attribute [local simp] OAI.EisensteinSchwartzPoisson.verticalSlice_apply
+attribute [local simp] OAI.FiniteGaussPhase.productElementCRT_mk
+attribute [local simp] OAI.IdealGaussCRT.quotientProdEquivPi_mk
+attribute [local simp] OAI.IdealGaussCRT.traceProdChar_mk
+attribute [local simp] OAI.LocalLogFourier.positiveLogProfile_apply
+attribute [local simp] OAI.QuadraticGaussRay.residueQuotientFour_mk
+
+
+
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open OAI.CoprimeMobiusExtension
+namespace OAI.CoprimeMobiusExtension
+theorem _root_.solution {ι : Type*} [DecidableEq ι] (S : Finset ι) :
+    (∑ D ∈ S.powerset, (-1 : ℂ) ^ D.card) = if S = ∅ then 1 else 0 := by
+  have hp := Finset.prod_sub (fun _ : ι => (1 : ℂ)) (fun _ => 1) S
+  by_cases hS : S = ∅
+  · simp [hS]
+  · have hc : S.card ≠ 0 := Finset.card_ne_zero.mpr (Finset.nonempty_iff_ne_empty.mpr hS)
+    simpa [hS, hc] using hp.symm
+end OAI.CoprimeMobiusExtension

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_poisson_tail_bound
 -- name    : ResolvingNRM.IRT.poisson_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:20:55.202423+00:00
 -- url     : https://prove2.me/theorems/52e75797-1cee-4d1f-a539-5f974578b87f

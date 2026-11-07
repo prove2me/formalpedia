@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_RossRecurrence_eq_5_10
 -- name    : ArapostathisAC.RossRecurrence.eq_5_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:26:52.480692+00:00
 -- url     : https://prove2.me/theorems/d7104840-7358-4733-a29b-05700054ca56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_Limit_theorem_2_4
 -- name    : GlynnSTS.Limit.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:16:54.863182+00:00
 -- url     : https://prove2.me/theorems/3261993b-2c8b-45da-86fb-ab59ba26fe40

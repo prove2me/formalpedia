@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_horizontal_half_or_exists_descent_check_of_normalized
 -- name    : QEC.Coding.FiberBundle.horizontal_half_or_exists_descent_check_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:21.676322+00:00
 -- url     : https://prove2.me/theorems/ea2b456d-9ba6-40ae-91bd-46db841af4e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_krylovOrthonormal_span
 -- name    : BookProof.ChapterH8.krylovOrthonormal_span
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T21:47:44.201563+00:00
 -- url     : https://prove2.me/theorems/fa2f2c23-1013-4d83-8fa8-f5e64c0630f7

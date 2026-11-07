@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RubinsteinBargaining_PEP_pep_characterization
 -- name    : RubinsteinBargaining.PEP.pep_characterization
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:55:19.340394+00:00
 -- url     : https://prove2.me/theorems/64ebf723-6493-4e36-90a3-d845fceaf76b

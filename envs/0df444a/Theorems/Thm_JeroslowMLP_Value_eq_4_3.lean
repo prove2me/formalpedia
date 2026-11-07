@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JeroslowMLP_Value_eq_4_3
 -- name    : JeroslowMLP.Value.eq_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:16:10.207249+00:00
 -- url     : https://prove2.me/theorems/6033bc9f-cd07-4d79-a4c2-38c7af36679a

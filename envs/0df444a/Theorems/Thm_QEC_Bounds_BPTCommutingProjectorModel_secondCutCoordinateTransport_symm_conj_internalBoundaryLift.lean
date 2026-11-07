@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCutCoordinateTransport_symm_conj_internalBoundaryLift
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCutCoordinateTransport_symm_conj_internalBoundaryLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:17:25.369339+00:00
 -- url     : https://prove2.me/theorems/78d2558b-4683-45be-b408-9bab8fa6712b

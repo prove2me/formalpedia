@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PenaltyLag_Asymptotic_theorem_4_1
 -- name    : PenaltyLag.Asymptotic.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:44.024807+00:00
 -- url     : https://prove2.me/theorems/bf19caa3-cb09-448a-89d4-afce34e672b6

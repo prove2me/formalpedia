@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_integral_row_signedBit_product
 -- name    : QEC.Coding.FiberBundle.RandomBase.integral_row_signedBit_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:35:53.666201+00:00
 -- url     : https://prove2.me/theorems/aa138e48-f3f4-4616-a212-e9dd8eaf3ff7

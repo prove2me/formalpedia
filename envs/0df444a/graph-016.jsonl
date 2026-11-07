@@ -1918,7 +1918,7 @@
 {"parent": "ThreeSum.WeightedGlobalPrefixSeedHeader.result_header", "child": "Submission_Weighted_Global_TernaryPrefixSeedHeader", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalPrefixSeedHeader.result_header", "child": "Submission_Weighted_Global_LightTernaryPrefixStep", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_66dd70707634c020", "child": "ThreeSum.LightSupportMark.meets_w3sum_ac885d1", "via": ["statement"]}
-{"parent": "FiniteEnergyPlane.exists_fastPlane_family", "child": "FiniteEnergyPlane_Fredholm", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_fastPlane_family", "child": "FiniteEnergyPlane_Fredholm", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.HashFamily.tripleEvent_card", "child": "Submission_ThreeSum_HashFamily", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_LightReportingCatalogLookup", "child": "Light.Ends.call", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightReportingCatalogLookup", "child": "Submission_ThreeSum_LightBandLookup", "via": ["statement"]}
@@ -14489,7 +14489,7 @@
 {"parent": "ThreeSum.BandEnumeration.total_lookupComparisons_le", "child": "Submission_ThreeSum_BinarySearch", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_b5aa5d62f09c4909", "child": "ThreeSum.LightRawAKeys.meets_w3sum_ac885d1", "via": ["statement"]}
 {"parent": "BookProof.ChapterH8.krylovOrthonormal_span", "child": "ChapterH5", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.krylovOrthonormal_span", "child": "ChapterH8Bases", "via": ["statement"]}
+{"parent": "BookProof.ChapterH8.krylovOrthonormal_span", "child": "ChapterH8Bases", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterH8.krylovOrthonormal_span", "child": "ChapterShiftedQuadraticEsa", "via": ["statement"]}
 {"parent": "BookProof.ChapterH8.krylovOrthonormal_span", "child": "ChapterH4", "via": ["statement"]}
 {"parent": "BookProof.ChapterH8.krylovOrthonormal_span", "child": "ChapterH8", "via": ["statement"]}

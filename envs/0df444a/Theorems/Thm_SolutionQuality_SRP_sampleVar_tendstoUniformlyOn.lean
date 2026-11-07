@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolutionQuality_SRP_sampleVar_tendstoUniformlyOn
 -- name    : SolutionQuality.SRP.sampleVar_tendstoUniformlyOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:48:25.636551+00:00
 -- url     : https://prove2.me/theorems/68d9c73a-64f5-41ac-97aa-e90a9e2a67c8

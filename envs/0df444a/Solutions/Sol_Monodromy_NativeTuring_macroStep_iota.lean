@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Monodromy.NativeTuring.macroStep_iota
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T19:38:47.302329+00:00
 -- url     : https://prove2.me/submissions/c87f6e85-ce4c-4f63-9f13-b0b442af5c35
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 module
 public import Definitions.Def_Monodromy_FormalCompilation

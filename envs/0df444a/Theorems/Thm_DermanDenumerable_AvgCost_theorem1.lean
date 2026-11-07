@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanDenumerable_AvgCost_theorem1
 -- name    : DermanDenumerable.AvgCost.theorem1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:19:55.649534+00:00
 -- url     : https://prove2.me/theorems/d4905747-6fe9-47bc-9111-1ab24e3fb885

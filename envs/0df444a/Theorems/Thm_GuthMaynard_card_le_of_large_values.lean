@@ -13,6 +13,8 @@
 --   $$R \le T^{\varepsilon}\Big(\frac{N^2}{V^2} + \frac{N^{18/5}}{V^4} + \frac{T N^{12/5}}{V^4}\Big).$$
 --
 --   **Formalization note.** The factor $T^{o(1)}$ is read with §1.2's convention ("Asymptotic quantities such as $o(1)$ are interpreted as $T \to \infty$", p. 5), uniformly in $N$, $V$, $(b_n)$ and $(t_r)$: for each $\varepsilon > 0$ the bound with $T^{\varepsilon}$ holds once $T$ is large. "1-separated" is read as distance at least $1$. The paper leaves implicit that $N \ge 1$ is an integer and $V > 0$, and both are assumed here. The sum runs over $N \le n \le 2N$, exactly as printed.
+--
+--   The form with the weaker $\ell^2$ constraint $\sum_{N \le n \le 2N}|b_n|^2 \le KN$ in place of $|b_n| \le 1$, which the paper says it does not know how to obtain (p. 5), is the separate Open statement [`GuthMaynard.card_le_of_large_values_of_sum_sq_le`](https://prove2.me/theorems/be58ac81-b4f9-45c2-bb2f-7865f3b20b33).
 -- source:
 --   Guth, L. and Maynard, J., New large value estimates for Dirichlet polynomials, Ann. of Math. (2) 203 (2026) 623–675, https://doi.org/10.4007/annals.2026.203.2.6 (arXiv:2405.20552v2, whose page numbers are used), p. 1, Theorem 1.1 (Large values estimate)
 

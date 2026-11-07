@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrescAnalytics_KNN_lemma_5_uniform_on_compacts
 -- name    : PrescAnalytics.KNN.lemma_5_uniform_on_compacts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:41:54.00592+00:00
 -- url     : https://prove2.me/theorems/00106b53-bc29-41bf-954b-4685a1f240d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_all_externalLocal_scalar_compression_of_externalBoundary_recoverable
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_all_externalLocal_scalar_compression_of_externalBoundary_recoverable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T15:01:34.117561+00:00
 -- url     : https://prove2.me/theorems/879765e7-685d-4265-85c6-1177ba5aae35

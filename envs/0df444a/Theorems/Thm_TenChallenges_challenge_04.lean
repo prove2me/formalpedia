@@ -11,7 +11,7 @@
 --
 --   $$t(H,G)\ \ge\ t(K_2,G)^{\,e(H)}.$$
 --
---   Here $H$ is bipartite in the sense that its vertex set is the union of two disjoint sets $X$ and $Y$ with every edge joining $X$ to $Y$. The conjecture is equivalent to the statement $\mathrm{Sid}(r)$ for all $r$ of the scaled Challenge 4, since every finite bipartite graph has sides bounded by some $r$. It is known for all $H$ with at most four vertices on one side and open in general; the smallest open case is $K_{5,5}$ minus a $10$-cycle.
+--   Here $H$ is bipartite in the sense that its vertex set is the union of two disjoint sets $X$ and $Y$ with every edge joining $X$ to $Y$. The conjecture is equivalent to the statement $\mathrm{Sid}(r)$ for all $r$ of the scaled Challenge 4, since every finite bipartite graph has sides bounded by some $r$. It is known for all $H$ with at most four vertices on one side. In 2026 OpenAI announced a counterexample, with a Lean proof, for a bipartite $H$ on $35$ vertices with sides of size $13$ and $22$; if it stands, this statement is false and the mission closes by a disproof.
 --
 --   **Formalization Note.** Vertex types are finite types in the lowest universe, $G$ is nonempty, and bipartiteness is Mathlib's `IsBipartiteWith X Y` together with $X\cup Y=$ `Set.univ`, the same notion as in `BipartiteBoundedBy` without the size bounds.
 -- source:

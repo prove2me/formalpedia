@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_Length_display_2_9
 -- name    : GlynnSTS.Length.display_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:57.24719+00:00
 -- url     : https://prove2.me/theorems/630b0abb-7406-4b67-ace7-1e352850d26e

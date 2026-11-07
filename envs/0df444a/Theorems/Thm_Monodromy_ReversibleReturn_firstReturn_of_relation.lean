@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleReturn_firstReturn_of_relation
 -- name    : Monodromy.ReversibleReturn.firstReturn_of_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:37:50.555406+00:00
 -- url     : https://prove2.me/theorems/fd22ecd3-a61b-4148-9f04-2a331119f56c

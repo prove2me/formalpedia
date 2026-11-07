@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_ExtremePoint_invariant_vanishes_on_ergodic
 -- name    : HordijkKallenbergLP.ExtremePoint.invariant_vanishes_on_ergodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:58:02.827542+00:00
 -- url     : https://prove2.me/theorems/24a67642-76b0-481d-bd40-39572a3d757e

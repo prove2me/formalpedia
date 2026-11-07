@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Reentrant_case2_magnification
 -- name    : KumarSeidman.Reentrant.case2_magnification
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:35:18.187072+00:00
 -- url     : https://prove2.me/theorems/ef1b297a-1140-49ca-9e80-060536ab88ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinSSD_Optimality_eq_25_measure_utility
 -- name    : NonlinSSD.Optimality.eq_25_measure_utility
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:00:32.562721+00:00
 -- url     : https://prove2.me/theorems/bb5432b9-ebcc-4afd-91df-26a183e90f6f

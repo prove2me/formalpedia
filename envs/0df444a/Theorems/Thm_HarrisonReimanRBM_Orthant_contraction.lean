@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisonReimanRBM_Orthant_contraction
 -- name    : HarrisonReimanRBM.Orthant.contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:22:15.943552+00:00
 -- url     : https://prove2.me/theorems/d06fbeeb-f5c3-46bd-92ee-a51e6e5b9c29

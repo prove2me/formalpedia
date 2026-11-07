@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_firstCutCoordinateTransport_conj_firstCutProjectorMC_eq_sourceMC
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.firstCutCoordinateTransport_conj_firstCutProjectorMC_eq_sourceMC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:18:10.372834+00:00
 -- url     : https://prove2.me/theorems/244b0b73-01ea-4fcc-800c-eea95c53e4af

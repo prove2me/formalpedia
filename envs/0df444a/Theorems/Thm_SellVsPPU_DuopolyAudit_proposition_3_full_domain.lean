@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellVsPPU_DuopolyAudit_proposition_3_full_domain
 -- name    : SellVsPPU.DuopolyAudit.proposition_3_full_domain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T13:50:35.989709+00:00
 -- url     : https://prove2.me/theorems/65badc27-f087-4799-9bee-bb2727496419

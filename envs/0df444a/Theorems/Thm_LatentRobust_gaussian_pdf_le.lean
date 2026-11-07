@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatentRobust_gaussian_pdf_le
 -- name    : LatentRobust.gaussian_pdf_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:18:33.676981+00:00
 -- url     : https://prove2.me/theorems/1fb4cb9e-7930-4123-a2b5-d30ac594b6b1

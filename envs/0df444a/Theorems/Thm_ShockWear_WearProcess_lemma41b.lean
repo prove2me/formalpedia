@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_WearProcess_lemma41b
 -- name    : ShockWear.WearProcess.lemma41b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:49:45.674455+00:00
 -- url     : https://prove2.me/theorems/f1945620-1666-41f0-ae58-ab381f8d23a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_boundaryGlobalToFourFactorTransport_apply_basis_eq_fourFactorTransport
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.boundaryGlobalToFourFactorTransport_apply_basis_eq_fourFactorTransport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:23:52.186571+00:00
 -- url     : https://prove2.me/theorems/fefaf139-dbf8-4db1-ba87-e6b2f78b886b

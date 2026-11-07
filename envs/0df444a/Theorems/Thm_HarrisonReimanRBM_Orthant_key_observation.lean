@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisonReimanRBM_Orthant_key_observation
 -- name    : HarrisonReimanRBM.Orthant.key_observation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:21:59.821676+00:00
 -- url     : https://prove2.me/theorems/e4e4500b-9572-42aa-a4fd-5821a8ce9dad

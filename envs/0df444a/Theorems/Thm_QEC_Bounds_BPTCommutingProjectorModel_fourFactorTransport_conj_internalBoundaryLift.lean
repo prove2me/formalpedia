@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_fourFactorTransport_conj_internalBoundaryLift
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.fourFactorTransport_conj_internalBoundaryLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:20:52.232207+00:00
 -- url     : https://prove2.me/theorems/c40f7d27-2256-4c5a-b1a3-3f6b569a7635

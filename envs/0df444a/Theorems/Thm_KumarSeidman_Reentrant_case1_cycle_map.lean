@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Reentrant_case1_cycle_map
 -- name    : KumarSeidman.Reentrant.case1_cycle_map
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:31:48.911995+00:00
 -- url     : https://prove2.me/theorems/2e4904e4-de91-4da2-8b43-66c964be5a71

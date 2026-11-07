@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolylogKServer_Fractional_kserver_from_allocation
 -- name    : PolylogKServer.Fractional.kserver_from_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:07:15.563755+00:00
 -- url     : https://prove2.me/theorems/17428d40-0d86-4f33-813e-045dd3c1465c

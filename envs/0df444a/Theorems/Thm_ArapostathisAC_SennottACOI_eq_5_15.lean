@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_SennottACOI_eq_5_15
 -- name    : ArapostathisAC.SennottACOI.eq_5_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:44:18.955315+00:00
 -- url     : https://prove2.me/theorems/a193e5a7-fdb4-4792-9834-04056efb507f

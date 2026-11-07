@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_zmod_ne_add_one
 -- name    : QEC.Coding.FiberBundle.zmod_ne_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:54:38.961544+00:00
 -- url     : https://prove2.me/theorems/5cf1dae0-04f8-4777-add0-3ed5f638a74c

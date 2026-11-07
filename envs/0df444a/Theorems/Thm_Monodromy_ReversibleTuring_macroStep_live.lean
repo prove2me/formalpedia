@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleTuring_macroStep_live
 -- name    : Monodromy.ReversibleTuring.macroStep_live
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:52:28.359196+00:00
 -- url     : https://prove2.me/theorems/6ca612e6-1af6-4d79-813a-d9048d93256d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudCostOpt_eq_11_piStar_cost
 -- name    : CloudCostOpt.eq_11_piStar_cost
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:11:39.298567+00:00
 -- url     : https://prove2.me/theorems/62212c25-b068-4f1b-bd1d-100d7ed31e89

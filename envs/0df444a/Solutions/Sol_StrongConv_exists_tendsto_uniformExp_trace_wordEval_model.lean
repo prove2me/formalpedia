@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StrongConv.exists_tendsto_uniformExp_trace_wordEval_model
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:58:15.431141+00:00
 -- url     : https://prove2.me/submissions/f14bab07-9bfd-469c-bc1f-d11cada38427
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

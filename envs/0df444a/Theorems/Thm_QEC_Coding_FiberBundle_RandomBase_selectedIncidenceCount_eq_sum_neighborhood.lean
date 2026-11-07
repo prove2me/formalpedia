@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_selectedIncidenceCount_eq_sum_neighborhood
 -- name    : QEC.Coding.FiberBundle.RandomBase.selectedIncidenceCount_eq_sum_neighborhood
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:45:27.250521+00:00
 -- url     : https://prove2.me/theorems/b2555e4a-4216-48a3-ad5e-615106338cc5

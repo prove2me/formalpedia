@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_CounterContinuation_advance_live_phase
 -- name    : Monodromy.CounterContinuation.advance_live_phase
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:41:49.156211+00:00
 -- url     : https://prove2.me/theorems/b49feb6e-83c6-42ab-8bd9-4d9fc45508c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_theorem_2
 -- name    : SamuelCahnProphet.IID.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:22:13.368163+00:00
 -- url     : https://prove2.me/theorems/9e3c98c4-1de2-4a1b-8a1f-333af6d617f3

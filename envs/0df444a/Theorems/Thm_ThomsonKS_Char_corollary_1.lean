@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThomsonKS_Char_corollary_1
 -- name    : ThomsonKS.Char.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:47:47.776002+00:00
 -- url     : https://prove2.me/theorems/0ae5515b-2da6-400b-918f-a7df62c319ca

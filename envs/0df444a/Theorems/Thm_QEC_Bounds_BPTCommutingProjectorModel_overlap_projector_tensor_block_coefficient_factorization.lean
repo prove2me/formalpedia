@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_overlap_projector_tensor_block_coefficient_factorization
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.overlap_projector_tensor_block_coefficient_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T13:09:33.090308+00:00
 -- url     : https://prove2.me/theorems/17824ec0-4329-4abf-b426-177adc9aa417

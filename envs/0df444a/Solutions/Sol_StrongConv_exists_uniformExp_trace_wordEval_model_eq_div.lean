@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StrongConv.exists_uniformExp_trace_wordEval_model_eq_div
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T23:07:54.284215+00:00
 -- url     : https://prove2.me/submissions/3167e790-ff09-4f43-b613-3666f334fe0d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinSSD_Optimality_weak_duality
 -- name    : NonlinSSD.Optimality.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:00:41.505135+00:00
 -- url     : https://prove2.me/theorems/a9d0bb7f-59d6-4a2e-9a2b-4b07374c12f5

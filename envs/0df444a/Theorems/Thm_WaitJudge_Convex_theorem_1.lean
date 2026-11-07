@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_theorem_1
 -- name    : WaitJudge.Convex.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:07:35.11104+00:00
 -- url     : https://prove2.me/theorems/82151b4f-bd3f-486c-bf1b-db76bedaac20

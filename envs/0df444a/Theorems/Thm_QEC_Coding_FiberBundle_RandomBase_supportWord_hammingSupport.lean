@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_supportWord_hammingSupport
 -- name    : QEC.Coding.FiberBundle.RandomBase.supportWord_hammingSupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:39:29.083373+00:00
 -- url     : https://prove2.me/theorems/9770a952-301d-4a97-bad5-a1a9301b0abb

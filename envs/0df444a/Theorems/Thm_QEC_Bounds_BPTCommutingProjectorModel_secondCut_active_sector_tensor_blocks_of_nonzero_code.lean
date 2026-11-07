@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCut_active_sector_tensor_blocks_of_nonzero_code
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCut_active_sector_tensor_blocks_of_nonzero_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T15:03:15.859911+00:00
 -- url     : https://prove2.me/theorems/3449fcd5-933a-436b-9863-fecd7753b41a

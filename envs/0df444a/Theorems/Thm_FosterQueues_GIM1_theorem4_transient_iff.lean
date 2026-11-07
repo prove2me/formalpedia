@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_GIM1_theorem4_transient_iff
 -- name    : FosterQueues.GIM1.theorem4_transient_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T04:58:35.902748+00:00
 -- url     : https://prove2.me/theorems/44666eee-7de2-49f9-98fd-91451c477c1a

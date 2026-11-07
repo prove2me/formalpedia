@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_card_neighborhood_add_nonCounique_le_selectedIncidenceCount
 -- name    : QEC.Coding.FiberBundle.RandomBase.card_neighborhood_add_nonCounique_le_selectedIncidenceCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:45:32.990853+00:00
 -- url     : https://prove2.me/theorems/750fcdd6-bd7e-4618-a772-b4bbee5600b4

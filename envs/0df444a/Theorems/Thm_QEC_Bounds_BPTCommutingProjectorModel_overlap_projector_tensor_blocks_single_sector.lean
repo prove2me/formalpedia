@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_overlap_projector_tensor_blocks_single_sector
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.overlap_projector_tensor_blocks_single_sector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T13:26:54.097613+00:00
 -- url     : https://prove2.me/theorems/00e656a7-74e8-456e-b652-ffbbde3d2c6f

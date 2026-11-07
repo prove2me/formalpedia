@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Mixing_eq_4_7
 -- name    : SimplicialIso.Mixing.eq_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:20.98101+00:00
 -- url     : https://prove2.me/theorems/432df7ab-4858-4252-9763-7a40bc491ea0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_theorem1_existence_reduction
 -- name    : SendSplit.Existence.theorem1_existence_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:24:43.214562+00:00
 -- url     : https://prove2.me/theorems/d4801d07-7a7b-4eda-a8e8-4d491c0bdef3

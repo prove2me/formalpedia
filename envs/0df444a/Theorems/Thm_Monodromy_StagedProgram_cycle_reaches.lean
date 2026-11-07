@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_StagedProgram_cycle_reaches
 -- name    : Monodromy.StagedProgram.cycle_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:43:53.72518+00:00
 -- url     : https://prove2.me/theorems/d1371604-7524-481e-a2ba-28c1896872ad

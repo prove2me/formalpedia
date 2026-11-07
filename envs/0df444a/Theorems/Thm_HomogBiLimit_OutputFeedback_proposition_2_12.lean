@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HomogBiLimit_OutputFeedback_proposition_2_12
 -- name    : HomogBiLimit.OutputFeedback.proposition_2_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:10:45.033323+00:00
 -- url     : https://prove2.me/theorems/f7deb325-c53d-4c75-b23c-846073dbf5b9

@@ -1,0 +1,22 @@
+-- Prove2me | solution 1 for QEC.Coding.HighDimensionalExpander.CartwrightSteger.residueYMinpoly_irreducible
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T15:01:29.695495+00:00
+-- url     : https://prove2.me/submissions/a612fa11-2fad-498e-9b25-18e83d363a02
+
+import Definitions.Def_QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_Arithmetic
+import Mathlib.Algebra.Order.Ring.GeomSum
+import Mathlib.Data.Set.Card.Arithmetic
+import Mathlib.FieldTheory.PrimitiveElement
+import Mathlib.RingTheory.IsAdjoinRoot
+import Definitions.Def_QEC_Coding_HighDimensionalExpander_CartwrightSteger_Congruence_ResidueSelection
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.HighDimensionalExpander QEC.Coding.HighDimensionalExpander.CartwrightSteger
+open Polynomial IntermediateField
+open ResidueSelection
+namespace QEC.Coding.HighDimensionalExpander.CartwrightSteger
+theorem _root_.solution (P : BasePrime) (r : Rank) (level : Nat) :
+    Irreducible (residueYMinpoly P r level) :=
+  minpoly.irreducible (Algebra.IsIntegral.isIntegral _)
+end QEC.Coding.HighDimensionalExpander.CartwrightSteger

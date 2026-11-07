@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_eventMass_congr
 -- name    : QEC.Coding.FiberBundle.RandomBase.eventMass_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:46:46.198204+00:00
 -- url     : https://prove2.me/theorems/78f6c370-93cb-46ec-b4b4-e40f2a26d9d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_dentry1_2_contains_e
 -- name    : OAI.SharpPlanar.Numerical.dentry1_2_contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:00:44.14042+00:00
 -- url     : https://prove2.me/theorems/a6a09bf7-94e3-4293-854f-7f23fef13567

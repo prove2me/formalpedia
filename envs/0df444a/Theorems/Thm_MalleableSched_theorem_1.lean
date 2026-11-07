@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MalleableSched_theorem_1
 -- name    : MalleableSched.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:34:53.524751+00:00
 -- url     : https://prove2.me/theorems/3d89163d-9085-41c1-8634-56a9a3a83692

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_hindsight_le_dlp
 -- name    : ResolvingNRM.IRT.hindsight_le_dlp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:20:46.493655+00:00
 -- url     : https://prove2.me/theorems/be92f966-67a4-4107-9583-98a6910d3564

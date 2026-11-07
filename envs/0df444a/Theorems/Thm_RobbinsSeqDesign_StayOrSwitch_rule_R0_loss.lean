@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_StayOrSwitch_rule_R0_loss
 -- name    : RobbinsSeqDesign.StayOrSwitch.rule_R0_loss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:42:13.264975+00:00
 -- url     : https://prove2.me/theorems/f63424eb-513f-476b-bb7a-771d967db498

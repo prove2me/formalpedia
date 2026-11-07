@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRLower_q1_probability
 -- name    : ResolvingNRM.FRLower.q1_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:18:09.864346+00:00
 -- url     : https://prove2.me/theorems/04d1791a-1a01-41d7-b6c6-e016ac154da2

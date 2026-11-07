@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgTruncationResolvent_starobinsky_qgContinuum_momentumCutoff_flow_convergence
 -- name    : BookProof.QgTruncationResolvent.starobinsky_qgContinuum_momentumCutoff_flow_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T22:57:24.851598+00:00
 -- url     : https://prove2.me/theorems/f1f2c35e-b842-4eea-b842-07d907199701

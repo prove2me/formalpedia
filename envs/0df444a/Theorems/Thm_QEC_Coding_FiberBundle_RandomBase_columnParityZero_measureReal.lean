@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_columnParityZero_measureReal
 -- name    : QEC.Coding.FiberBundle.RandomBase.columnParityZero_measureReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:29:38.626064+00:00
 -- url     : https://prove2.me/theorems/f90afc72-d76c-4cb8-8d9c-881925bef917

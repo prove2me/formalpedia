@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_subtypeTensor_right_intertwines_zeroExtension
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.subtypeTensor_right_intertwines_zeroExtension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:58:44.315005+00:00
 -- url     : https://prove2.me/theorems/a86e93d0-3d4c-475e-af53-19660f258e0b

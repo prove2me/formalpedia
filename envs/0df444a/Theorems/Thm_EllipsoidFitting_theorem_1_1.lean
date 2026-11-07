@@ -1,0 +1,52 @@
+-- Prove2me | Theorems.Thm_EllipsoidFitting_theorem_1_1
+-- name    : EllipsoidFitting.theorem_1_1
+-- status  : Open
+-- author  : @iris
+-- created : 2026-11-06T10:42:25.308575+00:00
+-- url     : https://prove2.me/theorems/0fe16eab-51f1-4604-861e-a9e5b583e951
+-- title:
+--   Theorem 1.1 — a fitting ellipsoid exists w.h.p. below $(1-o(1))d^2/4$
+-- statement:
+--   There is a sequence $\varepsilon_d\to0$ such that for every sequence $m=m(d)$ with $m(d)\le(1-\varepsilon_d)\,d^2/4$ for all large $d$, independent $v_1,\dots,v_{m(d)}\sim N(0,I_d/d)$ in $\mathbb R^d$ satisfy
+--   $$
+--   \mathbb P\bigl[\nexists\,\Lambda\succeq0:\ v_i^\top\Lambda v_i=1\ \ \forall i\bigr]\longrightarrow0\qquad(d\to\infty).
+--   $$
+--
+--   This is the feasibility half of the main result; degenerate (singular PSD) ellipsoids count as fits.
+--
+--   **Formalization Note** The sequence $\varepsilon$ is chosen before $m(d)$; the probability is the outer measure of the bad event.
+--
+--   Differences from the source:
+--   - reading: m ≤ (1 − o_d(1))·d²/4 … with probability 1 − o_d(1) → ∃ ε : ℕ → ℝ with ε_d → 0, chosen before m, such that for every m : ℕ → ℕ with the bound for all large d the probability of the bad event tends to 0; reason: the strong reading of o_d(1): one vanishing sequence for every m(d); an ε chosen after m would be weaker
+--   - encoding: probability of an event → the measure of the complementary (bad) set under the product law, tending to 0; reason: outer measure needs no measurability proof; for measurable events it is the same statement
+--   - encoding: an ellipsoid passes through the points → Fits v: a PSD Λ with v_iᵀΛv_i = 1 for all i; reason: the problem statement on p.2 defines it so (origin-centered, possibly degenerate)
+-- source:
+--   de la Cerda, Potechin, Tulsiani, Xu, Sharp Phase Transition for Ellipsoid Fitting, arXiv:2608.12415 (version of Nov 3, 2026, sha256 e4268312ca36b47de9467896061e7747d1efb1efe9677b7f14bd1b0647e093bc), Theorem 1.1, p.3 (PDF p.5)
+
+import Mathlib
+import Definitions.Def_EllipsoidFitting_Fits
+import Definitions.Def_EllipsoidFitting_pointLaw
+
+set_option autoImplicit false
+
+namespace EllipsoidFitting
+
+open MeasureTheory Filter Topology
+
+/-- **Theorem 1.1 (positive side).** de la Cerda, Potechin, Tulsiani, Xu, *Sharp Phase Transition
+for Ellipsoid Fitting*, arXiv:2608.12415 (version of Nov 3, 2026), Theorem 1.1, p.3: "Let m ≤
+(1 − od(1)) · d2/4 and let v1, . . . , vm ∼ N (0, Id/d) be independent d-dimensional Gaussian
+vectors. Then, with probability 1 − od(1), there exists an ellipsoid passing through all m
+points."
+
+There is a sequence `ε_d → 0` such that for every `m : ℕ → ℕ` with `m(d) ≤ (1 − ε_d) d²/4` for
+all large `d`, the probability that the `m(d)` points admit no fitting ellipsoid tends to `0`.
+
+**Formalization Note** As in `theorem_1_1_1_2`: `ε` is chosen before `m`, the probability is the
+outer measure of the bad event under `pointLaw`, and an ellipsoid is a PSD `Λ` (`Fits`). -/
+theorem theorem_1_1 :
+    ∃ ε : ℕ → ℝ, Tendsto ε atTop (𝓝 0) ∧ ∀ m : ℕ → ℕ,
+      (∀ᶠ d in atTop, (m d : ℝ) ≤ (1 - ε d) * (d : ℝ) ^ 2 / 4) →
+        Tendsto (fun d => pointLaw d (m d) {v | ¬ Fits v}) atTop (𝓝 0) := by sorry
+
+end EllipsoidFitting

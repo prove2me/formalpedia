@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_no_idle
 -- name    : TwoAgentSched.no_idle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:49:25.072516+00:00
 -- url     : https://prove2.me/theorems/680c488d-b32a-48f4-b1b3-fe71db251a87

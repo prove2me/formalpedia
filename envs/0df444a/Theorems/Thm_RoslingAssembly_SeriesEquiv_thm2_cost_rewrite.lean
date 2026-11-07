@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_SeriesEquiv_thm2_cost_rewrite
 -- name    : RoslingAssembly.SeriesEquiv.thm2_cost_rewrite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:48.138802+00:00
 -- url     : https://prove2.me/theorems/9377af51-374b-4306-9c7e-653a68bf3e14

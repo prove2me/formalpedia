@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjNewton_Superlinear_unit_step
 -- name    : ProjNewton.Superlinear.unit_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:31:17.860905+00:00
 -- url     : https://prove2.me/theorems/f6b449ad-0339-419a-b238-6c6ed79bc251

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_lp_valid
 -- name    : FriedmannCunningham.lp_valid
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:11:55.999619+00:00
 -- url     : https://prove2.me/theorems/80c32de8-1102-45fc-8fe0-8f26f82bbf1a

@@ -1,0 +1,90 @@
+-- Prove2me | solution 1 for QEC.Coding.TannerLiftedProduct.JacobiCubeProduct.summable_signedEuler_jtpPositiveShift
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T22:48:47.596787+00:00
+-- url     : https://prove2.me/submissions/fe83a434-6459-4b39-bcd1-217e1331cf48
+
+import Definitions.Def_QEC_Coding_ExpanderCodes_JacobiCubeReindex
+import Definitions.Def_QEC_Coding_ExpanderCodes_JacobiGeneralCore_FPSAlgebra
+import Mathlib
+import Definitions.Def_QEC_Coding_ExpanderCodes_JacobiCubeProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiCubeProduct_signedEuler_jtpPositiveTerm
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_FormalPowerSeries_qPochhammer_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_Nat_lt_choose_two_of_add_two_le
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_succ_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_right
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_succ
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qPochhammer_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiFourSquareSeries_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiSignedCubeSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiSignedCubeSeriesRaw
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiWeightedSquareSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiWeightedTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalBilateralTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalIntegerThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalTriangularThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiEulerSixProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiEulerSquareProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiThetaProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiTriangularProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalBilateralTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalIntegerThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalTriangularThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_integerTriangularRoots_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiParityReindex_inl
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiParityReindex_inr
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsResiduePrimeAt_q
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.FormalPowerSeries.qPochhammer_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_succ_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_right
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_succ
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qPochhammer_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiFourSquareSeries_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiSignedCubeSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiSignedCubeSeriesRaw
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedSquareSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalBilateralTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalIntegerThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalTriangularThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiEulerSixProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiEulerSquareProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiThetaProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiTriangularProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalBilateralTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalIntegerThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalTriangularThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.integerTriangularRoots_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiParityReindex_inl
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiParityReindex_inr
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsResiduePrimeAt_q
+
+
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiCubeProduct.signedEuler_jtpPositiveTerm
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.TannerLiftedProduct
+open Filter PowerSeries
+open scoped PowerSeries.WithPiTopology Topology
+open QEC.Coding.TannerLiftedProduct.JacobiCubeProduct
+open JacobiGeneralCore.FormalPowerSeries
+set_option linter.style.haveILetI false
+namespace QEC.Coding.TannerLiftedProduct.JacobiCubeProduct
+theorem _root_.solution :
+    Summable (fun t : ℕ => signedEuler (jtpPositiveTerm (t + 1))) := by
+  rw [PowerSeries.WithPiTopology.summable_iff_summable_coeff]
+  intro d
+  apply summable_of_hasFiniteSupport
+  refine (Finset.range (d + 2)).finite_toSet.subset ?_
+  intro t ht
+  simp only [Function.mem_support, signedEuler_jtpPositiveTerm,
+    PowerSeries.coeff_C_mul, PowerSeries.coeff_X_pow] at ht
+  by_contra hmem
+  have hlarge : d + 2 ≤ t := by
+    simpa only [Finset.mem_coe, Finset.mem_range, not_lt] using hmem
+  rw [if_neg (ne_of_lt
+    (JacobiGeneralCore.Nat.lt_choose_two_of_add_two_le (by omega)))] at ht
+  simp at ht
+end QEC.Coding.TannerLiftedProduct.JacobiCubeProduct

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgHedging_Convex_fixedPoint_iff_optimal
 -- name    : ProgHedging.Convex.fixedPoint_iff_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:26:41.162985+00:00
 -- url     : https://prove2.me/theorems/82145e8a-372d-43de-ab8f-161b3f47bbbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_supportWord_mem_code_eventMass_medium_geometric_le
 -- name    : QEC.Coding.FiberBundle.RandomBase.supportWord_mem_code_eventMass_medium_geometric_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:43:37.955808+00:00
 -- url     : https://prove2.me/theorems/6cb4556f-e6c6-4d9e-be7c-0ca862b94116

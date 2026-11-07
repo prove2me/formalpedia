@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_column21_1_contains_e
 -- name    : OAI.SharpPlanar.CachedData.column21_1_contains_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:07:59.378033+00:00
 -- url     : https://prove2.me/theorems/eba57c72-78e1-46ab-b574-a7240a110c84

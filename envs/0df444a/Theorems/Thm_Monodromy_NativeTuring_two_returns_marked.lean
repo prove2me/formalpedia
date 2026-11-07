@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_NativeTuring_two_returns_marked
 -- name    : Monodromy.NativeTuring.two_returns_marked
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:46:41.909316+00:00
 -- url     : https://prove2.me/theorems/3e12ee62-9316-43dc-831b-5dcf892c98b3

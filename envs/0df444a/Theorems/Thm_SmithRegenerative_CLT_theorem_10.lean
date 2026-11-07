@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRegenerative_CLT_theorem_10
 -- name    : SmithRegenerative.CLT.theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:52.781775+00:00
 -- url     : https://prove2.me/theorems/6f722366-5ea7-4330-94c1-669752a4939d

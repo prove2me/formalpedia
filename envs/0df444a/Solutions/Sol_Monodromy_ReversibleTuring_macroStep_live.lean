@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Monodromy.ReversibleTuring.macroStep_live
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T23:14:58.243386+00:00
 -- url     : https://prove2.me/submissions/16d4eff0-4116-434e-9967-33935fdb7ea8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Monodromy_FormalCompilation
 import Theorems.Thm_Monodromy_ReversibleTuring_step_firstReturn

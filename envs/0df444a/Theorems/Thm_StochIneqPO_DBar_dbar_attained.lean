@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_DBar_dbar_attained
 -- name    : StochIneqPO.DBar.dbar_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:29.411989+00:00
 -- url     : https://prove2.me/theorems/b35c47fc-2009-4c2f-9c94-7593d0dd9f59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_lemma_1
 -- name    : GTWSched.NPC.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:47:50.291781+00:00
 -- url     : https://prove2.me/theorems/59f8eac7-c0e8-43c7-9fdd-f7faf1a5efd3

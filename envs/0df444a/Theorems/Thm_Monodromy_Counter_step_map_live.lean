@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Counter_step_map_live
 -- name    : Monodromy.Counter.step_map_live
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:33:42.168339+00:00
 -- url     : https://prove2.me/theorems/f3169f61-98a9-46ac-8d3b-090197d433d1

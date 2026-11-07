@@ -4923,13 +4923,13 @@
 {"parent": "AdamDyn_ODEConv_LyapunovW", "child": "AdamDyn_ODEConv_AdamField", "via": ["statement"]}
 {"parent": "AdamDyn_WellPosed_lyapunov", "child": "AdamDyn_ODEConv_AdamField", "via": ["statement"]}
 {"parent": "AdamDyn_WellPosed_lyapunov", "child": "AdamDyn_WellPosed_adamField", "via": ["statement"]}
-{"parent": "AdaptiveBaseStock.Regret.adaptive_regret_bound", "child": "AdaptiveBaseStock_Regret_Algorithm", "via": ["statement"]}
+{"parent": "AdaptiveBaseStock.Regret.adaptive_regret_bound", "child": "AdaptiveBaseStock_Regret_Algorithm", "via": ["solution", "statement"]}
 {"parent": "AdaptiveBaseStock.Regret.cycle_count_bounds", "child": "AdaptiveBaseStock_Regret_Algorithm", "via": ["solution", "statement"]}
-{"parent": "AdaptiveBaseStock.Regret.demand_sum_tail", "child": "AdaptiveBaseStock_Regret_Model", "via": ["statement"]}
+{"parent": "AdaptiveBaseStock.Regret.demand_sum_tail", "child": "AdaptiveBaseStock_Regret_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveBaseStock.Regret.geometric_ceil_sum", "child": "AdaptiveBaseStock_Regret_Algorithm", "via": ["solution", "statement"]}
 {"parent": "AdaptiveBaseStock.Regret.level_regret_bound", "child": "AdaptiveBaseStock_Regret_Algorithm", "via": ["statement"]}
 {"parent": "AdaptiveBaseStock.Regret.long_run_cost", "child": "AdaptiveBaseStock_Regret_Model", "via": ["statement"]}
-{"parent": "AdaptiveBaseStock.Regret.position_tail", "child": "AdaptiveBaseStock_Regret_Model", "via": ["statement"]}
+{"parent": "AdaptiveBaseStock.Regret.position_tail", "child": "AdaptiveBaseStock_Regret_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveBaseStock.Regret.transient_regret_bound", "child": "AdaptiveBaseStock_Regret_Algorithm", "via": ["statement"]}
 {"parent": "AdaptiveBaseStock_Regret_Algorithm", "child": "AdaptiveBaseStock_Regret_Model", "via": ["statement"]}
 {"parent": "AdaptiveBaseStock_Regret_Model", "child": "TotalVariationDist", "via": ["statement"]}
@@ -41444,37 +41444,37 @@
 {"parent": "ArapostathisAC.CanonicalTriplet.sufficiency_lower", "child": "ArapostathisAC_CanonicalTriplet_CMP", "via": ["statement"]}
 {"parent": "ArapostathisAC.CanonicalTriplet.sufficiency_upper", "child": "ArapostathisAC_CanonicalTriplet_CMP", "via": ["statement"]}
 {"parent": "ArapostathisAC.CanonicalTriplet.theorem_6_2", "child": "ArapostathisAC_CanonicalTriplet_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.eq_5_10", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.eq_5_10", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.eq_5_8", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.eq_5_8", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.eq_5_9", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.eq_5_9", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.jensen_step", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.jensen_step", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.theorem_2_1_iii", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3_explicit", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3_explicit", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.eq_5_10", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.eq_5_10", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.eq_5_8", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.eq_5_8", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.eq_5_9", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.eq_5_9", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.jensen_step", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.jensen_step", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.theorem_2_1_iii", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3_explicit", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.RossRecurrence.theorem_5_3_explicit", "child": "ArapostathisAC_RossRecurrence_ReturnTime", "via": ["solution", "statement"]}
 {"parent": "ArapostathisAC.RossReduction.modified_exists", "child": "ArapostathisAC_RossReduction_CMP", "via": ["solution", "statement"]}
 {"parent": "ArapostathisAC.RossReduction.rewritten_acoe", "child": "ArapostathisAC_RossReduction_CMP", "via": ["solution", "statement"]}
 {"parent": "ArapostathisAC.RossReduction.theorem_2_1_iii", "child": "ArapostathisAC_RossReduction_CMP", "via": ["statement"]}
 {"parent": "ArapostathisAC.RossReduction.theorem_5_1", "child": "ArapostathisAC_RossReduction_CMP", "via": ["solution", "statement"]}
 {"parent": "ArapostathisAC.RossReduction.theorem_5_6", "child": "ArapostathisAC_RossReduction_CMP", "via": ["solution", "statement"]}
-{"parent": "ArapostathisAC.SennottACOI.acoi_avgCost_le", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.acoi_avgCost_le", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.acoi_limit", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.acoi_limit", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.avgCost_ge_limit", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.avgCost_ge_limit", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.eq_5_15", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.eq_5_15", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.limit_function", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.limit_function", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.theorem_2_1", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.theorem_5_9", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["statement"]}
-{"parent": "ArapostathisAC.SennottACOI.theorem_5_9", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["statement"]}
+{"parent": "ArapostathisAC.SennottACOI.acoi_avgCost_le", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.acoi_avgCost_le", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.acoi_limit", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.acoi_limit", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.avgCost_ge_limit", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.avgCost_ge_limit", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.eq_5_15", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.eq_5_15", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.limit_function", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.limit_function", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.theorem_2_1", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.theorem_5_9", "child": "ArapostathisAC_SennottACOI_Assumptions", "via": ["solution", "statement"]}
+{"parent": "ArapostathisAC.SennottACOI.theorem_5_9", "child": "ArapostathisAC_SennottACOI_CMP", "via": ["solution", "statement"]}
 {"parent": "ArapostathisAC.VanishingDiscount.eq_5_6", "child": "ArapostathisAC_VanishingDiscount_CMP", "via": ["statement"]}
 {"parent": "ArapostathisAC.VanishingDiscount.lemma_2_1", "child": "ArapostathisAC_VanishingDiscount_CMP", "via": ["solution", "statement"]}
 {"parent": "ArapostathisAC.VanishingDiscount.lemma_2_1", "child": "ArapostathisAC_VanishingDiscount_DPMaps", "via": ["solution", "statement"]}
@@ -42696,18 +42696,18 @@
 {"parent": "AsymptoticOperator.spectrum_unbounded", "child": "AsymptoticOperator_Setting", "via": ["statement"]}
 {"parent": "AsymptoticOperator.symbol_eigen", "child": "AsymptoticOperator_Setting", "via": ["solution", "statement"]}
 {"parent": "AsymptoticOperator_Setting", "child": "ConleyZehnder_Setting", "via": ["statement"]}
-{"parent": "AsyncSA.Contraction.lemma1", "child": "AsyncSA_Contraction_Model", "via": ["statement"]}
-{"parent": "AsyncSA.Contraction.lemma2", "child": "AsyncSA_Contraction_Model", "via": ["statement"]}
+{"parent": "AsyncSA.Contraction.lemma1", "child": "AsyncSA_Contraction_Model", "via": ["solution", "statement"]}
+{"parent": "AsyncSA.Contraction.lemma2", "child": "AsyncSA_Contraction_Model", "via": ["solution", "statement"]}
 {"parent": "AsyncSA.Contraction.lemma3", "child": "AsyncSA_Contraction_Model", "via": ["solution", "statement"]}
 {"parent": "AsyncSA.Contraction.lemma8", "child": "AsyncSA_Contraction_Model", "via": ["solution", "statement"]}
-{"parent": "AsyncSA.Contraction.theorem1", "child": "AsyncSA_Contraction_Model", "via": ["statement"]}
-{"parent": "AsyncSA.Contraction.theorem3", "child": "AsyncSA_Contraction_Model", "via": ["statement"]}
-{"parent": "AsyncSA.Monotone.lemma1", "child": "AsyncSA_Monotone_Model", "via": ["statement"]}
+{"parent": "AsyncSA.Contraction.theorem1", "child": "AsyncSA_Contraction_Model", "via": ["solution", "statement"]}
+{"parent": "AsyncSA.Contraction.theorem3", "child": "AsyncSA_Contraction_Model", "via": ["solution", "statement"]}
+{"parent": "AsyncSA.Monotone.lemma1", "child": "AsyncSA_Monotone_Model", "via": ["solution", "statement"]}
 {"parent": "AsyncSA.Monotone.lemma4", "child": "AsyncSA_Monotone_Model", "via": ["solution", "statement"]}
-{"parent": "AsyncSA.Monotone.lemma5", "child": "AsyncSA_Monotone_Model", "via": ["statement"]}
+{"parent": "AsyncSA.Monotone.lemma5", "child": "AsyncSA_Monotone_Model", "via": ["solution", "statement"]}
 {"parent": "AsyncSA.Monotone.lemma6", "child": "AsyncSA_Monotone_Model", "via": ["solution", "statement"]}
 {"parent": "AsyncSA.Monotone.lemma7", "child": "AsyncSA_Monotone_Model", "via": ["solution", "statement"]}
-{"parent": "AsyncSA.Monotone.theorem2", "child": "AsyncSA_Monotone_Model", "via": ["statement"]}
+{"parent": "AsyncSA.Monotone.theorem2", "child": "AsyncSA_Monotone_Model", "via": ["solution", "statement"]}
 {"parent": "AugLagLLC.Feas.bounded_penalty_feasible", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
 {"parent": "AugLagLLC.Feas.bounded_penalty_tendsto", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
 {"parent": "AugLagLLC.Feas.eq_4_2", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
@@ -75429,7 +75429,7 @@
 {"parent": "BalancedPrices_Extension_Mechanism", "child": "BalancedPrices_Extension_Model", "via": ["statement"]}
 {"parent": "BalancedPrices_WeakExtension_Model", "child": "BalancedPrices_Extension_Model", "via": ["statement"]}
 {"parent": "BalasAdditive.Convergence.abandoned_no_better_completion", "child": "BalasAdditive_Convergence_Algorithm", "via": ["statement"]}
-{"parent": "BalasAdditive.Convergence.additive_algorithm_convergence", "child": "BalasAdditive_Convergence_Algorithm", "via": ["statement"]}
+{"parent": "BalasAdditive.Convergence.additive_algorithm_convergence", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BalasAdditive.Convergence.feasible_solution_no_improving", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BalasAdditive.Convergence.finite_steps_per_iteration", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BalasAdditive.Convergence.lemma_1", "child": "BalasAdditive_Convergence_Algorithm", "via": ["statement"]}
@@ -77222,8 +77222,8 @@
 {"parent": "BertsekasShreve.AnalyticSelection.lower_semianalytic_selection", "child": "BertsekasShreve_AnalyticSelection_BorelSpace", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.AnalyticSelection.lower_semianalytic_selection", "child": "BertsekasShreve_AnalyticSelection_LowerSemianalytic", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.AnalyticSelection.lower_semianalytic_selection", "child": "BertsekasShreve_AnalyticSelection_Measurability", "via": ["solution", "statement"]}
-{"parent": "BertsekasShreve.BorelFinite.cor8_1_1_markov_inf", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelFinite.cor8_1_1_markov_inf", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}
+{"parent": "BertsekasShreve.BorelFinite.cor8_1_1_markov_inf", "child": "BertsekasShreve_BorelFinite_Model", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelFinite.cor8_1_1_markov_inf", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.BorelFinite.cor8_2_1_Jstar_lsa", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.cor8_2_1_Jstar_lsa", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.lemma8_1_markov_cost_eq_comp", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
@@ -77240,9 +77240,9 @@
 {"parent": "BertsekasShreve.BorelFinite.lemma8_4_Tmu_limits", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.BorelFinite.prop8_1_markov_equivalent", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.prop8_1_markov_equivalent", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelFinite.prop8_2_dp_algorithm", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelFinite.prop8_2_dp_algorithm", "child": "BertsekasShreve_BorelFinite_Operators", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelFinite.prop8_2_dp_algorithm", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}
+{"parent": "BertsekasShreve.BorelFinite.prop8_2_dp_algorithm", "child": "BertsekasShreve_BorelFinite_Model", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelFinite.prop8_2_dp_algorithm", "child": "BertsekasShreve_BorelFinite_Operators", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelFinite.prop8_2_dp_algorithm", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.BorelFinite.prop8_3_eps_optimal_policies", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.prop8_3_eps_optimal_policies", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelInfinite.Jstar_lowerSemianalytic", "child": "BertsekasShreve_BorelInfinite_Analytic", "via": ["statement"]}
@@ -77253,10 +77253,10 @@
 {"parent": "BertsekasShreve.BorelInfinite.dp_converges", "child": "BertsekasShreve_BorelInfinite_ExtArith", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelInfinite.dp_converges", "child": "BertsekasShreve_BorelInfinite_Model", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelInfinite.dp_converges", "child": "BertsekasShreve_BorelInfinite_Policy", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_Analytic", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_ExtArith", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_Model", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_Policy", "via": ["statement"]}
+{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_Analytic", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_ExtArith", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_Model", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelInfinite.optimality_equation", "child": "BertsekasShreve_BorelInfinite_Policy", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.BorelInfinite.stationary_cost_fixed_point", "child": "BertsekasShreve_BorelInfinite_Analytic", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelInfinite.stationary_cost_fixed_point", "child": "BertsekasShreve_BorelInfinite_ExtArith", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelInfinite.stationary_cost_fixed_point", "child": "BertsekasShreve_BorelInfinite_Model", "via": ["statement"]}
@@ -77314,7 +77314,7 @@
 {"parent": "BertsekasShreve.ImperfectInfo.lemma_10_1", "child": "BertsekasShreve_ImperfectInfo_SufficientStatistic", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.ImperfectInfo.lemma_10_2", "child": "BertsekasShreve_ImperfectInfo_SufficientStatistic", "via": ["statement"]}
 {"parent": "BertsekasShreve.ImperfectInfo.prop_10_2", "child": "BertsekasShreve_ImperfectInfo_SufficientStatistic", "via": ["statement"]}
-{"parent": "BertsekasShreve.ImperfectInfo.prop_10_3", "child": "BertsekasShreve_ImperfectInfo_SufficientStatistic", "via": ["statement"]}
+{"parent": "BertsekasShreve.ImperfectInfo.prop_10_3", "child": "BertsekasShreve_ImperfectInfo_SufficientStatistic", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.ImperfectInfo.prop_10_4", "child": "BertsekasShreve_ImperfectInfo_SufficientStatistic", "via": ["statement"]}
 {"parent": "BertsekasShreve.ImperfectInfo.prop_10_6", "child": "BertsekasShreve_ImperfectInfo_SufficientStatistic", "via": ["statement"]}
 {"parent": "BertsekasShreve.Monotone.cor5_3_1_finite_state_bellman", "child": "MonotoneDP_Decrease_Assumptions", "via": ["solution", "statement"]}
@@ -77842,9 +77842,9 @@
 {"parent": "BlackwellDiscreteDP.NearOne.lemma_2", "child": "BlackwellDiscreteDP_NearOne_GainBias", "via": ["solution", "statement"]}
 {"parent": "BlackwellDiscreteDP.NearOne.lemma_2", "child": "BlackwellDiscreteDP_NearOne_LimitMatrix", "via": ["solution", "statement"]}
 {"parent": "BlackwellDiscreteDP.NearOne.lemma_2", "child": "BlackwellDiscreteDP_NearOne_Model", "via": ["solution", "statement"]}
-{"parent": "BlackwellDiscreteDP.NearOne.theorem_4a", "child": "BlackwellDiscreteDP_NearOne_GainBias", "via": ["statement"]}
-{"parent": "BlackwellDiscreteDP.NearOne.theorem_4a", "child": "BlackwellDiscreteDP_NearOne_LimitMatrix", "via": ["statement"]}
-{"parent": "BlackwellDiscreteDP.NearOne.theorem_4a", "child": "BlackwellDiscreteDP_NearOne_Model", "via": ["statement"]}
+{"parent": "BlackwellDiscreteDP.NearOne.theorem_4a", "child": "BlackwellDiscreteDP_NearOne_GainBias", "via": ["solution", "statement"]}
+{"parent": "BlackwellDiscreteDP.NearOne.theorem_4a", "child": "BlackwellDiscreteDP_NearOne_LimitMatrix", "via": ["solution", "statement"]}
+{"parent": "BlackwellDiscreteDP.NearOne.theorem_4a", "child": "BlackwellDiscreteDP_NearOne_Model", "via": ["solution", "statement"]}
 {"parent": "BlackwellDiscreteDP.NearOne.theorem_4b", "child": "BlackwellDiscreteDP_NearOne_GainBias", "via": ["solution", "statement"]}
 {"parent": "BlackwellDiscreteDP.NearOne.theorem_4b", "child": "BlackwellDiscreteDP_NearOne_LimitMatrix", "via": ["solution", "statement"]}
 {"parent": "BlackwellDiscreteDP.NearOne.theorem_4b", "child": "BlackwellDiscreteDP_NearOne_Model", "via": ["solution", "statement"]}

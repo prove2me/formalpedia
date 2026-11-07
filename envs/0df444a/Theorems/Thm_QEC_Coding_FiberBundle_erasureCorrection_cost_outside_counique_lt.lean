@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_erasureCorrection_cost_outside_counique_lt
 -- name    : QEC.Coding.FiberBundle.erasureCorrection_cost_outside_counique_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:56:47.429406+00:00
 -- url     : https://prove2.me/theorems/12a21875-d7e8-49dc-bf99-dfbf546651f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProgHedging_Nonconvex_theorem_6_1
 -- name    : ProgHedging.Nonconvex.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:31.826338+00:00
 -- url     : https://prove2.me/theorems/10b06d6d-a267-4f5e-8ac8-bdaa22ca55e2

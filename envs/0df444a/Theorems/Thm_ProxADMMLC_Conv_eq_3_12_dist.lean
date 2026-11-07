@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxADMMLC_Conv_eq_3_12_dist
 -- name    : ProxADMMLC.Conv.eq_3_12_dist
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-05T18:48:52.899201+00:00
 -- url     : https://prove2.me/theorems/551961c0-a3a9-46ff-871d-22aa68bfdfff

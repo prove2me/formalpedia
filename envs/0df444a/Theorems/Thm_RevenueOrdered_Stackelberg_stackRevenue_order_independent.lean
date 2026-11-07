@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_stackRevenue_order_independent
 -- name    : RevenueOrdered.Stackelberg.stackRevenue_order_independent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:18:47.65466+00:00
 -- url     : https://prove2.me/theorems/5e95c867-77ec-4a9c-8e5e-0db99bf0331c

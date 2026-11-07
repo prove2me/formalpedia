@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_prob_Sk_eq_choose_mul
 -- name    : WaitJudge.Convex.prob_Sk_eq_choose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:57:50.463051+00:00
 -- url     : https://prove2.me/theorems/bcb7c23d-954a-42c2-a79d-bc3614a0f4a3

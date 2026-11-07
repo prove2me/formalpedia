@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyGeneralBase_mackey_imprimitivity_general
 -- name    : BookProof.ChapterMackeyGeneralBase.mackey_imprimitivity_general
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T19:57:19.01129+00:00
 -- url     : https://prove2.me/theorems/2d2f710a-95ed-48d3-acf8-48beedee0ad7

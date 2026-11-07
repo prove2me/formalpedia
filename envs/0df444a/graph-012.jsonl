@@ -21369,10 +21369,10 @@
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared44", "child": "Sensitivity213981Formal_Endpoint22StrictPacked", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared44", "child": "Sensitivity213981Formal_Namespaces", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.BinaryRankWeightSignature.binary_form_nonpositive_hyperplane", "child": "CountingMatroid_Analysis_QuadraticNonpositiveHyperplane", "via": ["solution", "statement"]}
-{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "GTWSched_NPC_Schedules", "via": ["statement"]}
-{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "GTWSched_NPC_Problems", "via": ["statement"]}
-{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
-{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "CookPvsNP_defs", "via": ["statement"]}
+{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "GTWSched_NPC_Schedules", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "GTWSched_NPC_Problems", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
+{"parent": "GTWSched.NPC.positivePartition_polyReducible_evenOdd", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
 {"parent": "OAI.SKGapCutoff.Recipe.literal_local_weak_comparison_targets", "child": "OAIQ072A002", "via": ["solution", "statement"]}
 {"parent": "OAI.RVM.Admissible.direct_source_small_all_radii", "child": "VlasovMaxwell", "via": ["solution", "statement"]}
 {"parent": "OAI.RVM.Admissible.direct_source_small_all_radii", "child": "OAIQ073V000", "via": ["solution", "statement"]}
@@ -23960,7 +23960,7 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared4.right_prefix_000_part03_checked", "child": "D1Bound5_PairLightArithmeticChunks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared4.right_prefix_000_part03_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10072_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.ae_positive_near_zero_of_unbounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.ae_positive_near_zero_of_unbounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10026_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.existsUnique_continuousProcess_of_hasKolmogorovMoments_SourceExactV3", "child": "MarkovProcess_FiniteTime_FiniteProductCoordinateNormalForm", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.existsUnique_continuousProcess_of_hasKolmogorovMoments_SourceExactV3", "child": "MarkovProcess_Kernel_C0_SourceClosedV3", "via": ["solution", "statement"]}
@@ -38622,9 +38622,9 @@
 {"parent": "WilliamsonShmoys.planar_simple_edge_bound_maximal_supergraph", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Analysis_Cutoff_SmoothBall", "child": "KLSModular_FunctionalInequalities_Analysis_Lipschitz_Gradient", "via": ["statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Analysis_Cutoff_SmoothBall", "child": "KLSModular_FunctionalInequalities_Analysis_Cutoff_Profile", "via": ["statement"]}
-{"parent": "SchedComplexity.OneMachine.knapsack_bcef_encoding_reduction", "child": "SchedComplexity_OneMachine_Constructions", "via": ["statement"]}
-{"parent": "SchedComplexity.OneMachine.knapsack_bcef_encoding_reduction", "child": "SchedComplexity_OneMachine_Problems", "via": ["statement"]}
-{"parent": "SchedComplexity.OneMachine.knapsack_bcef_encoding_reduction", "child": "SchedComplexity_OneMachine_Knapsack", "via": ["statement"]}
+{"parent": "SchedComplexity.OneMachine.knapsack_bcef_encoding_reduction", "child": "SchedComplexity_OneMachine_Constructions", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.OneMachine.knapsack_bcef_encoding_reduction", "child": "SchedComplexity_OneMachine_Problems", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.OneMachine.knapsack_bcef_encoding_reduction", "child": "SchedComplexity_OneMachine_Knapsack", "via": ["solution", "statement"]}
 {"parent": "OAI.YauCounterexamples.three_wave_residual_support", "child": "OAIQ070A010", "via": ["solution", "statement"]}
 {"parent": "OAI.YauCounterexamples.three_wave_residual_support", "child": "SmoothYau", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_b_strict_grid_path_probability_of_vector_reversal", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -57102,10 +57102,10 @@
 {"parent": "D1Bound5.PairLightPrepared46.right_signatures_checked", "child": "D1Bound5_SmallPairLightData46Right_Definitions_002", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared46.right_signatures_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1148_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "SchedComplexity_TotalCompletion_Knapsack", "via": ["statement"]}
-{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "SchedComplexity_TotalCompletion_Construction", "via": ["statement"]}
-{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "SchedComplexity_TotalCompletion_SingleMachine", "via": ["statement"]}
+{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "SchedComplexity_TotalCompletion_Knapsack", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "SchedComplexity_TotalCompletion_Construction", "via": ["solution", "statement"]}
+{"parent": "SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction", "child": "SchedComplexity_TotalCompletion_SingleMachine", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_monotone_of_unbounded_zero_cstar", "child": "AvramDividend.Classical.unbounded_variation_zero_barrier_candidate_monotone", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_monotone_of_unbounded_zero_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_unbounded_halfline_scale_resolvent_kernel_action", "child": "AvramDividend.Classical.chat04_killed_resolvent_convolution_support_restrict", "via": ["solution", "statement"]}

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.CachedData.column13_1_contains_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-06T04:37:57.468381+00:00
 -- url     : https://prove2.me/submissions/d5a5d04c-b67b-45be-9832-e15469f90fc7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098E037

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_ExtremePoint_theorem_10
 -- name    : HordijkKallenbergLP.ExtremePoint.theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:58:12.823582+00:00
 -- url     : https://prove2.me/theorems/b8448d20-9e0a-49f5-bc10-83397871d86c

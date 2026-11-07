@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_fullCodeProjector_commute_secondCutPhysicalSectorProjector
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.fullCodeProjector_commute_secondCutPhysicalSectorProjector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:28:16.303196+00:00
 -- url     : https://prove2.me/theorems/b2763ddd-00a5-41d4-bb31-32b039ec3241

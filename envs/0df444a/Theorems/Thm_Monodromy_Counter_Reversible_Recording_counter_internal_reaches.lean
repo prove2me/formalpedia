@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_Counter_Reversible_Recording_counter_internal_reaches
 -- name    : Monodromy.Counter.Reversible.Recording.counter_internal_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:51:33.969021+00:00
 -- url     : https://prove2.me/theorems/287c49dd-5152-4a1e-972b-1bd46ebbba40

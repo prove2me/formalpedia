@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_isGood_failureMass_le_components
 -- name    : QEC.Coding.FiberBundle.RandomBase.isGood_failureMass_le_components
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:44:50.915919+00:00
 -- url     : https://prove2.me/theorems/ee002301-7cd4-43f1-8956-a6191d08cab5

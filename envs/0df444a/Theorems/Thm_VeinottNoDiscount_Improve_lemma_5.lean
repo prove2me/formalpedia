@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottNoDiscount_Improve_lemma_5
 -- name    : VeinottNoDiscount.Improve.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:00.089288+00:00
 -- url     : https://prove2.me/theorems/beea6b89-0fde-4b03-96c4-f2080a6d9108

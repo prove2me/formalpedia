@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_SennottACOI_acoi_avgCost_le
 -- name    : ArapostathisAC.SennottACOI.acoi_avgCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:44:41.62154+00:00
 -- url     : https://prove2.me/theorems/2dd476d6-1dc4-475f-a7e3-7ab41ccd4eb1

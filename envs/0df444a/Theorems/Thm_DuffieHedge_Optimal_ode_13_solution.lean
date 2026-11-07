@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DuffieHedge_Optimal_ode_13_solution
 -- name    : DuffieHedge.Optimal.ode_13_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:17:42.350978+00:00
 -- url     : https://prove2.me/theorems/de0272cb-0f20-4478-be98-cc3179979b04

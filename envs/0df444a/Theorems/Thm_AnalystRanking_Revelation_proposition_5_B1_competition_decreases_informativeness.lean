@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnalystRanking_Revelation_proposition_5_B1_competition_decreases_informativeness
 -- name    : AnalystRanking.Revelation.proposition_5_B1_competition_decreases_informativeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:56:18.725991+00:00
 -- url     : https://prove2.me/theorems/654a46ac-f744-4767-b0af-be2ce9214266

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Purification_convex_decompositions_related_by_isometry
 -- name    : WildeQIT.Purification.convex_decompositions_related_by_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:03.343151+00:00
 -- url     : https://prove2.me/theorems/6ff9f224-efac-496a-951d-95b9e108bb9c

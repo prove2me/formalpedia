@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_NoWait_theorem_5_hamilton_path_reducible
 -- name    : SchedComplexity.NoWait.theorem_5_hamilton_path_reducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:02:40.680862+00:00
 -- url     : https://prove2.me/theorems/901b17c7-fd1f-4472-a961-368e4c814f55

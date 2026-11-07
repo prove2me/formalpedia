@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Recourse_theorem_2_1
 -- name    : KallMayerSLP.Recourse.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:12:25.916891+00:00
 -- url     : https://prove2.me/theorems/2bb19c34-f9ec-47f3-9408-357aefcc1d7f

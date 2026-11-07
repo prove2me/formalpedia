@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleTuring_Compression_step_firstReturn
 -- name    : Monodromy.ReversibleTuring.Compression.step_firstReturn
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:52:13.510212+00:00
 -- url     : https://prove2.me/theorems/8fe27681-a2aa-4a8a-9db6-ec3f58bce911

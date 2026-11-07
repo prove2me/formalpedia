@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_SeriesEquiv_corollary1_series_bound_keeps_LRB
 -- name    : RoslingAssembly.SeriesEquiv.corollary1_series_bound_keeps_LRB
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:41.385372+00:00
 -- url     : https://prove2.me/theorems/c84bf2a2-0367-4be0-b54a-03c016e4d448

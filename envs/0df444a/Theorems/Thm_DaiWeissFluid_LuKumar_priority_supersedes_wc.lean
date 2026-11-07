@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_priority_supersedes_wc
 -- name    : DaiWeissFluid.LuKumar.priority_supersedes_wc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:20:46.825921+00:00
 -- url     : https://prove2.me/theorems/70ea76c3-c17e-41ff-8048-a231ff5864d2

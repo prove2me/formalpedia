@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_fourFactorTransport_conj_activeSectorBoundaryGlobalUnitary_eq_fourFactorBCUnitaryTransport
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.fourFactorTransport_conj_activeSectorBoundaryGlobalUnitary_eq_fourFactorBCUnitaryTransport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T16:25:53.130177+00:00
 -- url     : https://prove2.me/theorems/74be487f-fc32-44e5-9cd0-881d81d052c8

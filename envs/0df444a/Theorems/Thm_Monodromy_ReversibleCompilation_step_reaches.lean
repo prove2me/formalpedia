@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleCompilation_step_reaches
 -- name    : Monodromy.ReversibleCompilation.step_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:46:55.964438+00:00
 -- url     : https://prove2.me/theorems/8de3e315-aabe-4855-9b2e-19139c08b552

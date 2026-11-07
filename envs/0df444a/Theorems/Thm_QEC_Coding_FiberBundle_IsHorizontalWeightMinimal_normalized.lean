@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_IsHorizontalWeightMinimal_normalized
 -- name    : QEC.Coding.FiberBundle.IsHorizontalWeightMinimal.normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:11.774197+00:00
 -- url     : https://prove2.me/theorems/cac1ff56-a926-4d2e-8498-c67131f9c9bc

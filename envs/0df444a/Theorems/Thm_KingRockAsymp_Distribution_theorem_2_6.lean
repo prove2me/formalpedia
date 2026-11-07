@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingRockAsymp_Distribution_theorem_2_6
 -- name    : KingRockAsymp.Distribution.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:06:31.742979+00:00
 -- url     : https://prove2.me/theorems/c9223209-c2df-4440-b75f-3232645bf8fd

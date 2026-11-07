@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RubinsteinBargaining_PEP_proposition_3
 -- name    : RubinsteinBargaining.PEP.proposition_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:28:47.114366+00:00
 -- url     : https://prove2.me/theorems/c16044a2-e42a-4691-a9d7-6075768c67d3

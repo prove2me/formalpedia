@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian.btExcessEnergy_eq_two_mul_unitDefectEnergy
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-06T14:55:23.017799+00:00
+-- url     : https://prove2.me/submissions/9c66712b-2093-46ec-874d-9b9d2ea54a4d
+
+import Definitions.Def_QEC_Coding_Stabilizer_ErrorPath
+import Definitions.Def_QEC_Coding_Stabilizer_Energy
+
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Coding
+open QEC.Coding.StabilizerCode
+open QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian
+open PauliSymplectic
+open scoped Classical
+universe u v
+variable {ι : Type u} [Fintype ι] [DecidableEq ι]
+variable {κ : Type v} [Fintype κ]
+namespace QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian
+theorem _root_.solution
+    (H : LocalStabilizerHamiltonian (ι := ι) (κ := κ))
+    (E : Binary ι) :
+    H.btExcessEnergy E = 2 * H.unitDefectEnergy E :=
+  rfl
+end QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian

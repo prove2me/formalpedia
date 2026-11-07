@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_evenOdd_polyReducible_td
 -- name    : GTWSched.NPC.evenOdd_polyReducible_td
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:40:07.570244+00:00
 -- url     : https://prove2.me/theorems/80c6abd2-84a0-4f8b-a7ab-a31774395831

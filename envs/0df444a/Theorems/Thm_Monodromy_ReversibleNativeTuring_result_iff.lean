@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleNativeTuring_result_iff
 -- name    : Monodromy.ReversibleNativeTuring.result_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:53:46.766206+00:00
 -- url     : https://prove2.me/theorems/bf2fcba1-08f3-4c66-9ef1-5d0c40180413

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_ExtremePoint_system7_transient
 -- name    : HordijkKallenbergLP.ExtremePoint.system7_transient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:57:17.038826+00:00
 -- url     : https://prove2.me/theorems/bfc273bf-f57b-4254-a898-aaeb010a5c59

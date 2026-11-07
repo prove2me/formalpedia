@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_WearProcess_theorem410
 -- name    : ShockWear.WearProcess.theorem410
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:56:08.287582+00:00
 -- url     : https://prove2.me/theorems/791b1f37-546c-4f14-b4f6-cf626b9f8323

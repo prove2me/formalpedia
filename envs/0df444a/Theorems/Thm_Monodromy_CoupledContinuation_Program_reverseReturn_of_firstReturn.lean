@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_CoupledContinuation_Program_reverseReturn_of_firstReturn
 -- name    : Monodromy.CoupledContinuation.Program.reverseReturn_of_firstReturn
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:35:33.170134+00:00
 -- url     : https://prove2.me/theorems/3b511fad-7f9a-4d6d-9267-ad8cd2b48652

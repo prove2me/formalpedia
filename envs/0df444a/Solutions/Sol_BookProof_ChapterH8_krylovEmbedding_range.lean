@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterH8.krylovEmbedding_range
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-03T21:58:30.537204+00:00
 -- url     : https://prove2.me/submissions/e0007a2e-69b1-45cf-b4f0-bd8809536510
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterH8Bases.lean — solution of BookProof.ChapterH8.krylovEmbedding_range
 import Mathlib

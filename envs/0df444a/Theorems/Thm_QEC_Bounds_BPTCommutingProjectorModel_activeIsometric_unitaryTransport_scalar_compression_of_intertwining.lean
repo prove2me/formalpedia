@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_activeIsometric_unitaryTransport_scalar_compression_of_intertwining
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.activeIsometric_unitaryTransport_scalar_compression_of_intertwining
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:58:01.606019+00:00
 -- url     : https://prove2.me/theorems/3ab495ee-31a4-4b4c-a8c3-e42ec4643a93

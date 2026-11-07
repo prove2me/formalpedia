@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolovayTailDimension_tail_infinite_dimensional
 -- name    : BookProof.ChapterSolovayTailDimension.tail_infinite_dimensional
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-02T13:16:31.104779+00:00
 -- url     : https://prove2.me/theorems/af12195f-baff-4b45-ad0f-2d960a6cf88d

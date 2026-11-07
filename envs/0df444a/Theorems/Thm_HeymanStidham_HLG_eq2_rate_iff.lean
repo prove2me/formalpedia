@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_eq2_rate_iff
 -- name    : HeymanStidham.HLG.eq2_rate_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:33:36.934185+00:00
 -- url     : https://prove2.me/theorems/57793e19-2d39-4635-950f-9353ef109dcb

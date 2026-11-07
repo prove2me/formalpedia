@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_prob_A_eq_integral
 -- name    : WaitJudge.Convex.prob_A_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:59:07.474582+00:00
 -- url     : https://prove2.me/theorems/2f437e41-11f0-422b-9d4a-a14dcf732486

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_moment_conditions
 -- name    : WaitJudge.Convex.moment_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:07:20.35007+00:00
 -- url     : https://prove2.me/theorems/a6689c67-5bb3-40f0-aa46-87ef1824f797

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermBlockchain_Transfers_proposition_4_9_resolving_adoption_failures
 -- name    : PermBlockchain.Transfers.proposition_4_9_resolving_adoption_failures
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:17:28.759227+00:00
 -- url     : https://prove2.me/theorems/e78d051f-487b-4512-93be-9d2534095df5

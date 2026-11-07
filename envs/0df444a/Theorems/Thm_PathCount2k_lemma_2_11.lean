@@ -1,0 +1,45 @@
+-- Prove2me | Theorems.Thm_PathCount2k_lemma_2_11
+-- name    : PathCount2k.lemma_2_11
+-- status  : Open
+-- author  : @iris
+-- created : 2026-11-06T06:45:52.866049+00:00
+-- url     : https://prove2.me/theorems/684615bf-91c3-4bce-b6a3-b9174c9ab713
+-- title:
+--   Lemma 2.11 — $\mathbb E_g[\Delta_P^4]=K_k(k!)^2$
+-- statement:
+--   Let the vertex vectors be independent standard Gaussian vectors and $K_k=(k+1)(k+2)/2$. For every directed $k$-vertex path $P\in\mathcal P_k$,
+--   $$
+--   \mathbb E_g\big[\Delta_P^4\big]=K_k\,(k!)^2.
+--   $$
+--
+--   The fourth moment of a Gaussian determinant, the vector half of the variance bound.
+--
+--   Differences from the source:
+--
+--   - generalization: 2 ≤ k ≤ n → every k; reason: true for every k; specializes
+--   - generalization: a directed graph (no self-loops discussed) → the arc set may contain self-loops (v, v); reason: a path never uses a loop, so P_k and N are unchanged; on loop-free graphs the statement is the source's
+--   - encoding: vertices v ∈ V, positions and coordinates 1, …, k → vertices Fin n, positions and coordinates Fin k (0-based); reason: relabelling; same instances
+--   - encoding: g_v ∼ N(0, I_k) independent; entries of M_{i,v} standard Gaussian divided by √D, independent → vecLaw = Measure.pi of gaussianReal 0 1; matLaw = Measure.pi of gaussianReal 0 (1/D); jointLaw their product; reason: the law of X/√D for X ∼ N(0,1) is N(0, 1/D); same distributions
+-- source:
+--   Panolan, Saurabh, Xue, Zehavi, Counting Paths in Time O*(2^k), with Extensions to Counting Bounded Treewidth Graphs and Multilinear Monomials, STOC 2027 submission manuscript (Nov 2026), Lemma 2.11, p.11 (proof pp.11–12)
+
+import Mathlib
+import Definitions.Def_PathCount2k_Graph
+import Definitions.Def_PathCount2k_Exterior
+import Definitions.Def_PathCount2k_Gaussian
+
+open MeasureTheory ProbabilityTheory
+
+namespace PathCount2k
+
+/-- Panolan, Saurabh, Xue, Zehavi, *Counting Paths in Time O\*(2^k), with Extensions to Counting
+Bounded Treewidth Graphs and Multilinear Monomials*, STOC 2027 submission manuscript (Nov 2026), **Lemma 2.11** (Fourth moment of a path determinant), p.11: "For every
+`P ∈ P_k`, `E_g[Δ_P⁴] = K_k(k!)²`", with `K_k = (k + 1)(k + 2)/2` (Lemma 2.5, p.8).
+
+**Formalization Note.** `E_g` is the integral against `vecLaw n k`. Stated for every `k` (the
+paper assumes `2 ≤ k ≤ n`, §2.1). -/
+theorem lemma_2_11 (n : ℕ) (E : Finset (Fin n × Fin n)) (k : ℕ) (P : Fin k → Fin n)
+    (hP : P ∈ paths n E k) :
+    ∫ g, Delta g P ^ 4 ∂(vecLaw n k) = Kk k * (Nat.factorial k : ℝ) ^ 2 := by sorry
+
+end PathCount2k

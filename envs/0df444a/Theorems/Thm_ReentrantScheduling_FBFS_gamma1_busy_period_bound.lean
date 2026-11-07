@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReentrantScheduling_FBFS_gamma1_busy_period_bound
 -- name    : ReentrantScheduling.FBFS.gamma1_busy_period_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:31:50.884981+00:00
 -- url     : https://prove2.me/theorems/a2913ceb-3a85-49e9-9938-f36ca47b6c9d

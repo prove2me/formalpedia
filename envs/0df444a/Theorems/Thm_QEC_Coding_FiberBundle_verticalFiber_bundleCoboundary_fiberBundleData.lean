@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_verticalFiber_bundleCoboundary_fiberBundleData
 -- name    : QEC.Coding.FiberBundle.verticalFiber_bundleCoboundary_fiberBundleData
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:52:48.019892+00:00
 -- url     : https://prove2.me/theorems/df06f663-c4e4-4cc4-8555-5fbcb3ae6f4b

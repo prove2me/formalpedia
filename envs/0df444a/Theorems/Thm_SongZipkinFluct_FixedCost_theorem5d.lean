@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_FixedCost_theorem5d
 -- name    : SongZipkinFluct.FixedCost.theorem5d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:39.01834+00:00
 -- url     : https://prove2.me/theorems/7d26063f-c5be-4a98-863b-e0d00e860691

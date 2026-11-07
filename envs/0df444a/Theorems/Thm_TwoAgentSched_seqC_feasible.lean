@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_seqC_feasible
 -- name    : TwoAgentSched.seqC_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:48:48.860985+00:00
 -- url     : https://prove2.me/theorems/082b386a-9b28-4028-a0ef-41b4b1515620

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudCostOpt_eq_12_14_gap_bound
 -- name    : CloudCostOpt.eq_12_14_gap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:12:35.862285+00:00
 -- url     : https://prove2.me/theorems/87d1e33a-cc62-44c6-a718-097d01c77a09

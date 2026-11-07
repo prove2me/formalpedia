@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_WeakDuality_theorem_6
 -- name    : DualityStability.WeakDuality.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:38.481984+00:00
 -- url     : https://prove2.me/theorems/775aa156-e8fa-4a20-9766-b845f1e31456

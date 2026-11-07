@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_rowParityZero_eventMass
 -- name    : QEC.Coding.FiberBundle.RandomBase.rowParityZero_eventMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:39:24.287392+00:00
 -- url     : https://prove2.me/theorems/d1582fb3-3c4d-4b02-9906-75a2b808ec46

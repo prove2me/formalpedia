@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_TwoType_case2_full_cycle
 -- name    : KumarSeidman.TwoType.case2_full_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:55.014142+00:00
 -- url     : https://prove2.me/theorems/c7423d9a-4c40-4a07-a4d1-6b8e4ed0bb31

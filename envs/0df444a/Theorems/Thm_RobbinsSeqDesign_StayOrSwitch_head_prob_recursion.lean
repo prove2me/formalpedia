@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_StayOrSwitch_head_prob_recursion
 -- name    : RobbinsSeqDesign.StayOrSwitch.head_prob_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:41:53.308686+00:00
 -- url     : https://prove2.me/theorems/c7e8b16e-d416-461e-ba74-1c6ad81cb199

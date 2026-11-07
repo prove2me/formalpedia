@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_logLoss_proper
 -- name    : ForecastAggLearn.logLoss_proper
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:11.704519+00:00
 -- url     : https://prove2.me/theorems/27175da9-f016-4f1b-a2a0-17457719a88b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_exp_neg_two_mul_le_inv_one_add_two_mul
 -- name    : QEC.Coding.FiberBundle.RandomBase.exp_neg_two_mul_le_inv_one_add_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:42:33.357192+00:00
 -- url     : https://prove2.me/theorems/03e0c319-75c4-4ee5-a025-01b1c1e7e818

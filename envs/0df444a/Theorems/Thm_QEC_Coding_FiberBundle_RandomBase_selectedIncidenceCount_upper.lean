@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_selectedIncidenceCount_upper
 -- name    : QEC.Coding.FiberBundle.RandomBase.selectedIncidenceCount_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:45:36.594564+00:00
 -- url     : https://prove2.me/theorems/15c83190-6c53-4d4e-892a-dec1ad3e6ca1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_KellyType_condition_b
 -- name    : DaiWeissFluid.KellyType.condition_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:21:57.470706+00:00
 -- url     : https://prove2.me/theorems/108a4698-441c-466c-a6cc-20031ec1820c

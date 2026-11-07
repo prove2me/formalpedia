@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_roundUp_revenue_le
 -- name    : RevenueOrdered.Stackelberg.roundUp_revenue_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:31:53.30498+00:00
 -- url     : https://prove2.me/theorems/49e7cd1b-808f-4ac1-95ba-a4c43d38a26a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeymanStidham_HLG_theorem_2
 -- name    : HeymanStidham.HLG.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:39:52.893562+00:00
 -- url     : https://prove2.me/theorems/c99c8a4f-897b-4a93-beea-10912796d585

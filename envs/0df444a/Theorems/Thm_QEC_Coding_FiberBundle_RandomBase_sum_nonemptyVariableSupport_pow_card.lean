@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_sum_nonemptyVariableSupport_pow_card
 -- name    : QEC.Coding.FiberBundle.RandomBase.sum_nonemptyVariableSupport_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:44:14.464181+00:00
 -- url     : https://prove2.me/theorems/3a14287c-af43-49e4-98ff-72c622c3faaa

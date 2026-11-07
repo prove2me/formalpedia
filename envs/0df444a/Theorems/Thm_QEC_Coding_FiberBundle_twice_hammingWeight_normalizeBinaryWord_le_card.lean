@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_twice_hammingWeight_normalizeBinaryWord_le_card
 -- name    : QEC.Coding.FiberBundle.twice_hammingWeight_normalizeBinaryWord_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:55:31.430432+00:00
 -- url     : https://prove2.me/theorems/a9edbd82-749b-4c8a-9132-d71466b27e0b

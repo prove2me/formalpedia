@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCutCodeLift_sector_dichotomy
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCutCodeLift_sector_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T14:19:06.017433+00:00
 -- url     : https://prove2.me/theorems/9ba2817d-a99e-42ab-939b-ee4c71d9e008

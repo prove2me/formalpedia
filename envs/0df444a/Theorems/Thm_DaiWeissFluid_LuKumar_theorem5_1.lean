@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_theorem5_1
 -- name    : DaiWeissFluid.LuKumar.theorem5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:25:05.094988+00:00
 -- url     : https://prove2.me/theorems/10593429-f088-4a31-8d40-f3003ce14ad8

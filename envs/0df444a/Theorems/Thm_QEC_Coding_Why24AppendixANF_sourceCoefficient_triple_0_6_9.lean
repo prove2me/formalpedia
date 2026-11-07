@@ -1,0 +1,24 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_Why24AppendixANF_sourceCoefficient_triple_0_6_9
+-- name    : QEC.Coding.Why24AppendixANF.sourceCoefficient_triple_0_6_9
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-06T11:43:30.903506+00:00
+-- url     : https://prove2.me/theorems/c55a110d-4c55-43fa-9fb3-4df36154fce5
+-- title:
+--   Why24 Appendix ANF: source Coefficient triple 0 6 9
+-- statement:
+--   The Why24 Appendix ANF construction uses the source Coefficient triple 0 6 9 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/QuditQubitConversion/AppendixANF/Cubic/Part04.lean#L20-L22
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/QuditQubitConversion/AppendixANF/Cubic/Part04.lean#L20-L22
+
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Data
+import Definitions.Def_QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part04
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Coding QEC.Coding.Why24AppendixANF
+set_option maxRecDepth 2048
+
+theorem QEC.Coding.Why24AppendixANF.sourceCoefficient_triple_0_6_9 :
+    sourceTripleCoefficient 0 6 9 = cubicGateCoefficient 0 6 9 := by sorry

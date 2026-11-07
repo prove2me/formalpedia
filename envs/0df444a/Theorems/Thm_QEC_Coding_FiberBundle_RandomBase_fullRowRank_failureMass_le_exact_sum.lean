@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_fullRowRank_failureMass_le_exact_sum
 -- name    : QEC.Coding.FiberBundle.RandomBase.fullRowRank_failureMass_le_exact_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:30:34.292581+00:00
 -- url     : https://prove2.me/theorems/7c23a346-2c3e-4285-aafb-f7bed91269a6

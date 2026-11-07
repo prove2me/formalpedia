@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SongZipkinFluct_FixedCost_ystar_exists
 -- name    : SongZipkinFluct.FixedCost.ystar_exists
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-06T05:51:07.789453+00:00
 -- url     : https://prove2.me/theorems/8acad341-ddfa-4db2-9fc8-60191b4eeb5d

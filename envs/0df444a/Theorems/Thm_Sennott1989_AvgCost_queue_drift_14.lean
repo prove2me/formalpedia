@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sennott1989_AvgCost_queue_drift_14
 -- name    : Sennott1989.AvgCost.queue_drift_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:03.924+00:00
 -- url     : https://prove2.me/theorems/f3d783ec-141c-4bca-a5bc-a555766fc598

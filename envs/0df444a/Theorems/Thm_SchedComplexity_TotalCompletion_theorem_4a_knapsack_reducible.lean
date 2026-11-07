@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_TotalCompletion_theorem_4a_knapsack_reducible
 -- name    : SchedComplexity.TotalCompletion.theorem_4a_knapsack_reducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:09:46.582995+00:00
 -- url     : https://prove2.me/theorems/67dca3cb-8082-4959-986a-e991d576c292

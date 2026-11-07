@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRegenerative_Moments_lemma_5_variance
 -- name    : SmithRegenerative.Moments.lemma_5_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:34:59.379514+00:00
 -- url     : https://prove2.me/theorems/63a80143-f0b8-4465-bcba-4dfcd4cf4cad

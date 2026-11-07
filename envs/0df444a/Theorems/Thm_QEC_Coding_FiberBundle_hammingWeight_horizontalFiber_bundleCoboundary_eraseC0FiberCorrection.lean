@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_hammingWeight_horizontalFiber_bundleCoboundary_eraseC0FiberCorrection
 -- name    : QEC.Coding.FiberBundle.hammingWeight_horizontalFiber_bundleCoboundary_eraseC0FiberCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:53:32.548195+00:00
 -- url     : https://prove2.me/theorems/0b0d8c42-c418-43c8-a36c-8b8d6ecd7b0a

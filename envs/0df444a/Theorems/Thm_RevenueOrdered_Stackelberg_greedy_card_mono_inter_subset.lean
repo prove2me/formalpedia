@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Stackelberg_greedy_card_mono_inter_subset
 -- name    : RevenueOrdered.Stackelberg.greedy_card_mono_inter_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:05:49.070055+00:00
 -- url     : https://prove2.me/theorems/eefbbe38-66d2-43d4-84d3-71029ba46a59

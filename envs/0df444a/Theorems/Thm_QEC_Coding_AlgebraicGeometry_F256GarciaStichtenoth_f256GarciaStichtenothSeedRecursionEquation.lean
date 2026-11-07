@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_F256GarciaStichtenoth_f256GarciaStichtenothSeedRecursionEquation
 -- name    : QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256GarciaStichtenothSeedRecursionEquation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:49:34.466488+00:00
 -- url     : https://prove2.me/theorems/4c81cf1e-a89f-4395-b1d5-6e5bdf845f5f

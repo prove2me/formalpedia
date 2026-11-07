@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_SennottACOI_limit_function
 -- name    : ArapostathisAC.SennottACOI.limit_function
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:44:36.871135+00:00
 -- url     : https://prove2.me/theorems/e9dac2f6-c36a-44df-ac2d-36ec3c723b2b

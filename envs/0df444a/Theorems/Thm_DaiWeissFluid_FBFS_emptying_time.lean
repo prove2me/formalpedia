@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_FBFS_emptying_time
 -- name    : DaiWeissFluid.FBFS.emptying_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:39:03.121987+00:00
 -- url     : https://prove2.me/theorems/71377330-07f1-4744-809f-27e79f8e4038

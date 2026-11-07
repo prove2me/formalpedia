@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QEC.Bounds.BPTCommutingProjectorModel.firstCutProjectorMC_isSymmetric
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T22:12:54.124588+00:00
 -- url     : https://prove2.me/submissions/992dc615-a77f-4e80-9e80-9d86cc1732a6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QEC_Bounds_BPTDisentangling_InteractionAlgebra
 import Definitions.Def_QEC_Bounds_BPTDisentangling_FourFactor

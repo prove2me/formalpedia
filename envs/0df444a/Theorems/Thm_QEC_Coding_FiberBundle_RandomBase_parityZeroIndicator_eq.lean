@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_RandomBase_parityZeroIndicator_eq
 -- name    : QEC.Coding.FiberBundle.RandomBase.parityZeroIndicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:29:17.312046+00:00
 -- url     : https://prove2.me/theorems/27ddc8d6-d0f7-4f47-9516-e828336e663b

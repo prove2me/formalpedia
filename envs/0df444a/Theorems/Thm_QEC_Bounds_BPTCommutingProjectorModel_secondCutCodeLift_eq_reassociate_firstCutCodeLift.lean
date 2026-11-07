@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_secondCutCodeLift_eq_reassociate_firstCutCodeLift
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.secondCutCodeLift_eq_reassociate_firstCutCodeLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T16:26:13.713955+00:00
 -- url     : https://prove2.me/theorems/c96c47c4-4960-4054-999d-d5e7648209eb

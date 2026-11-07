@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRUpper_lp_rhs_sensitivity
 -- name    : ResolvingNRM.FRUpper.lp_rhs_sensitivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:43:41.312095+00:00
 -- url     : https://prove2.me/theorems/fd4a284c-ef1f-40b9-a9d2-7570c3321f71

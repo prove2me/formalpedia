@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_StayOrSwitch_stay_or_switch_asymptotic_loss_le
 -- name    : RobbinsSeqDesign.StayOrSwitch.stay_or_switch_asymptotic_loss_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:42:26.471983+00:00
 -- url     : https://prove2.me/theorems/3af10f2f-8a38-4d29-b3a1-4a99f5b07fb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepGQML_mem_commutant_groupAlgebra_iff
 -- name    : RepGQML.mem_commutant_groupAlgebra_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:44:31.163195+00:00
 -- url     : https://prove2.me/theorems/2c221f96-47ff-45e4-8770-181e69701dc1

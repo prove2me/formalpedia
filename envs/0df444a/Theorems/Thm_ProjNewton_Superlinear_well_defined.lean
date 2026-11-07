@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjNewton_Superlinear_well_defined
 -- name    : ProjNewton.Superlinear.well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:30:39.621726+00:00
 -- url     : https://prove2.me/theorems/437b9702-268e-41b1-bd05-757258094c0d

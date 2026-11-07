@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MvPolynomial_CrossingQuotient_exists_integral_projective_cartier_modification
 -- name    : MvPolynomial.CrossingQuotient.exists_integral_projective_cartier_modification
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-06T05:13:49.104983+00:00
 -- url     : https://prove2.me/theorems/b80fa5e2-fea4-46a1-97d1-ce2b2bce0040

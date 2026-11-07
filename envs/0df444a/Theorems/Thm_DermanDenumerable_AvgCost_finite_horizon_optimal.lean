@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanDenumerable_AvgCost_finite_horizon_optimal
 -- name    : DermanDenumerable.AvgCost.finite_horizon_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:20:13.673791+00:00
 -- url     : https://prove2.me/theorems/d83358c1-d214-4726-aae8-b5f64c412623

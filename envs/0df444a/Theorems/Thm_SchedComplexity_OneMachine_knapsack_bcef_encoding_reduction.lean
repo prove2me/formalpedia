@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_OneMachine_knapsack_bcef_encoding_reduction
 -- name    : SchedComplexity.OneMachine.knapsack_bcef_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:41:07.111322+00:00
 -- url     : https://prove2.me/theorems/e57a4895-08b8-4ef9-90c1-1db8bda37372

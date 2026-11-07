@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_Shops_knapsack_ghij_encoding_reduction
 -- name    : SchedComplexity.Shops.knapsack_ghij_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:41:10.778118+00:00
 -- url     : https://prove2.me/theorems/0265a395-687b-4df7-90d8-e515d7b7fe0d

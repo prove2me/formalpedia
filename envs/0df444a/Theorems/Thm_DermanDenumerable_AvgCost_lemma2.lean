@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanDenumerable_AvgCost_lemma2
 -- name    : DermanDenumerable.AvgCost.lemma2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:21:12.037065+00:00
 -- url     : https://prove2.me/theorems/f04ec11a-18b9-4f8c-84e4-1d412fe62125

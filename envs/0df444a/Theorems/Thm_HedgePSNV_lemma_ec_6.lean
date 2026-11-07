@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgePSNV_lemma_ec_6
 -- name    : HedgePSNV.lemma_ec_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:01:46.742876+00:00
 -- url     : https://prove2.me/theorems/dca78545-d3d9-4bbe-89b3-86cefb2377a3

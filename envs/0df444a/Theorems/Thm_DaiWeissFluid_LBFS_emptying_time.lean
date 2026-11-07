@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LBFS_emptying_time
 -- name    : DaiWeissFluid.LBFS.emptying_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:43:45.800144+00:00
 -- url     : https://prove2.me/theorems/6702d2ab-2108-4557-9fcf-f740a13ba793

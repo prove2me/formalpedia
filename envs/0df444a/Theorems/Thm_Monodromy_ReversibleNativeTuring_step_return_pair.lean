@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Monodromy_ReversibleNativeTuring_step_return_pair
 -- name    : Monodromy.ReversibleNativeTuring.step_return_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Xiaoyang Liu
 -- created : 2026-11-05T18:54:00.944459+00:00
 -- url     : https://prove2.me/theorems/a696f100-3c94-48c0-af85-ad113ad80fe4

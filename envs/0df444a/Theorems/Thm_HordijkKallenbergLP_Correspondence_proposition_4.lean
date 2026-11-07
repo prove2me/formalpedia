@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_Correspondence_proposition_4
 -- name    : HordijkKallenbergLP.Correspondence.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:31.393976+00:00
 -- url     : https://prove2.me/theorems/69d97afa-6099-444c-9d92-04bb523f26e1

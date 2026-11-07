@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiberBundle_cycleFiberCoboundary_eq_zero_implies_constant
 -- name    : QEC.Coding.FiberBundle.cycleFiberCoboundary_eq_zero_implies_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T05:55:27.616414+00:00
 -- url     : https://prove2.me/theorems/dbeebfca-5eb2-41b3-b493-6eef6cd4c6dc

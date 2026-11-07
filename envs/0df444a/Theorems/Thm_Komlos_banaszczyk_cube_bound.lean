@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Komlos_banaszczyk_cube_bound
 -- name    : Komlos.banaszczyk_cube_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T09:23:59.985722+00:00
 -- url     : https://prove2.me/theorems/9f5dd85d-203c-41f2-9245-abad0170f733

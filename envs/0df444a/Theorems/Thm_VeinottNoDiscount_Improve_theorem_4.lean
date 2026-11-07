@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottNoDiscount_Improve_theorem_4
 -- name    : VeinottNoDiscount.Improve.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:43.00139+00:00
 -- url     : https://prove2.me/theorems/9c757b31-fb1f-4205-a05b-6f9543d15c88

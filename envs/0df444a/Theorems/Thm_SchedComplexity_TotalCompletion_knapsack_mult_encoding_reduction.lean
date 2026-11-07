@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedComplexity_TotalCompletion_knapsack_mult_encoding_reduction
 -- name    : SchedComplexity.TotalCompletion.knapsack_mult_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:40:58.452027+00:00
 -- url     : https://prove2.me/theorems/fb79e27b-c76c-4ee6-be0e-c59cc3a6aa1b

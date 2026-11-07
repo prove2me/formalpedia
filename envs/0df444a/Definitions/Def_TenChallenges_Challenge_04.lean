@@ -11,7 +11,7 @@
 --
 --   $$t(H,G)\ \ge\ t(K_2,G)^{\,e(H)}.$$
 --
---   Here $t$ is the homomorphism density and $e(H)$ the number of edges of $H$. The rungs $r\le 4$ follow from Sidorenko's theorem for bipartite graphs with at most four vertices on one side; $r=5$ is open.
+--   Here $t$ is the homomorphism density and $e(H)$ the number of edges of $H$. The rungs $r\le 4$ follow from Sidorenko's theorem for bipartite graphs with at most four vertices on one side; the rung $r=22$ is refuted by OpenAI's 2026 counterexample ($H$ with sides $13$ and $22$); the rungs $5\le r\le 21$ are open.
 --
 --   **Formalization Note.** Vertex types of $H$ and $G$ range over finite types in the lowest universe; the host graph is required to be nonempty.
 -- source:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_RossRecurrence_theorem_5_3
 -- name    : ArapostathisAC.RossRecurrence.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:27:10.850715+00:00
 -- url     : https://prove2.me/theorems/4c84d455-fe71-4c7c-88f2-b295950f22f5

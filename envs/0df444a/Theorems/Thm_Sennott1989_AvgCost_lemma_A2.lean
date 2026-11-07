@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sennott1989_AvgCost_lemma_A2
 -- name    : Sennott1989.AvgCost.lemma_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:42:28.890957+00:00
 -- url     : https://prove2.me/theorems/ecb2a7c3-c2a8-4163-b2a8-edef8686a84d

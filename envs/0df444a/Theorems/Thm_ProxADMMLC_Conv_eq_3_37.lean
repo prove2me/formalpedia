@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxADMMLC_Conv_eq_3_37
 -- name    : ProxADMMLC.Conv.eq_3_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:42.032709+00:00
 -- url     : https://prove2.me/theorems/30e39a08-1c2d-4aa2-b96d-e91d7715a245
