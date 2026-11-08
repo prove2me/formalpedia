@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SQMeanEstimation_lemma_3_12_part2
 -- name    : SQMeanEstimation.lemma_3_12_part2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:16:43.952624+00:00
 -- url     : https://prove2.me/theorems/99c2417c-56d3-4750-b25f-39018a1eabfc

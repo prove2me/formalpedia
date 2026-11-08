@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NondualOpt_lemma_2
 -- name    : NondualOpt.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T23:58:31.980414+00:00
 -- url     : https://prove2.me/theorems/481ee076-0fa5-4616-9806-bcd24927021f

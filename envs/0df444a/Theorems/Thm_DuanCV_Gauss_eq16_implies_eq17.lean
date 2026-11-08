@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DuanCV_Gauss_eq16_implies_eq17
 -- name    : DuanCV.Gauss.eq16_implies_eq17
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:55:43.409252+00:00
 -- url     : https://prove2.me/theorems/ff2a8e09-0d63-44a8-a97f-8b4a9e1251d3

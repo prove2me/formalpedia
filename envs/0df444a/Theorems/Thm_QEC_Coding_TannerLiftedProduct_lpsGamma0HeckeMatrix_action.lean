@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsGamma0HeckeMatrix_action
 -- name    : QEC.Coding.TannerLiftedProduct.lpsGamma0HeckeMatrix_action
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:52:10.790011+00:00
 -- url     : https://prove2.me/theorems/6caeb798-835f-47bd-88a0-f24d20e3484b

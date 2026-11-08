@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_lowerHull_secant_of_lt
 -- name    : Sherbrooke.lowerHull_secant_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:26:39.158259+00:00
 -- url     : https://prove2.me/theorems/bce102c2-c37d-4520-9203-3d3ae174b5e1

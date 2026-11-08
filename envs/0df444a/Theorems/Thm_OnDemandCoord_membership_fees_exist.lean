@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandCoord_membership_fees_exist
 -- name    : OnDemandCoord.membership_fees_exist
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:39.551999+00:00
 -- url     : https://prove2.me/theorems/a2197516-42d7-4a1d-b3ec-8f6f19c1f6ce

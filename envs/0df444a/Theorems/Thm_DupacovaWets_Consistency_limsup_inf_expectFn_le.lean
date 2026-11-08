@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_limsup_inf_expectFn_le
 -- name    : DupacovaWets.Consistency.limsup_inf_expectFn_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:07:07.131766+00:00
 -- url     : https://prove2.me/theorems/7f48d600-17b9-40fc-adb5-88dec1318bf6

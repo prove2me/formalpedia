@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundEntPPT_exists_inseparable_summand
 -- name    : BoundEntPPT.exists_inseparable_summand
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:24:51.443828+00:00
 -- url     : https://prove2.me/theorems/b19a296e-0764-4da7-b156-e4df89dfef2d

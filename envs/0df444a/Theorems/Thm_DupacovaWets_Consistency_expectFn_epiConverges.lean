@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_expectFn_epiConverges
 -- name    : DupacovaWets.Consistency.expectFn_epiConverges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:06:49.285603+00:00
 -- url     : https://prove2.me/theorems/05019e53-96bb-4c61-949a-12a894556def

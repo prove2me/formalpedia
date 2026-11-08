@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_isSmooth_of_half
 -- name    : RelaxRoundPoA.isSmooth_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:40.615995+00:00
 -- url     : https://prove2.me/theorems/038747f8-624f-4547-873a-0a3432033b90

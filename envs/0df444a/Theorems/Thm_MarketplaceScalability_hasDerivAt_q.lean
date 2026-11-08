@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceScalability_hasDerivAt_q
 -- name    : MarketplaceScalability.hasDerivAt_q
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:50:46.726184+00:00
 -- url     : https://prove2.me/theorems/04a88157-c028-43b9-b0b5-2793b1b3852c

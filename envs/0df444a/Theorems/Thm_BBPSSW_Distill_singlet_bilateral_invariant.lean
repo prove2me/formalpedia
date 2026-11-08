@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBPSSW_Distill_singlet_bilateral_invariant
 -- name    : BBPSSW.Distill.singlet_bilateral_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:45:57.170867+00:00
 -- url     : https://prove2.me/theorems/a4c4f177-b507-4841-8d5e-e21b0c4d7cb4

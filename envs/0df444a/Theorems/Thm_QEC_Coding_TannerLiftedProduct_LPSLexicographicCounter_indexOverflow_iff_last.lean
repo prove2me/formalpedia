@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSLexicographicCounter_indexOverflow_iff_last
 -- name    : QEC.Coding.TannerLiftedProduct.LPSLexicographicCounter.indexOverflow_iff_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:55:57.906761+00:00
 -- url     : https://prove2.me/theorems/ffda152a-77cb-4dae-a60b-dd0a8843037d

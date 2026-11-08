@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Supercoherence_single_qubit_anticommute
 -- name    : BaconThesis.Supercoherence.single_qubit_anticommute
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:17:45.864393+00:00
 -- url     : https://prove2.me/theorems/65a514e8-a4a5-4ad0-a3a4-c8b0c0668cdb

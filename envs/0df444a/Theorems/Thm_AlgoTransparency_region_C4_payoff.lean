@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoTransparency_region_C4_payoff
 -- name    : AlgoTransparency.region_C4_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:51:24.889075+00:00
 -- url     : https://prove2.me/theorems/b39f3360-a282-48b8-a3ba-e4cdbc6a50ef

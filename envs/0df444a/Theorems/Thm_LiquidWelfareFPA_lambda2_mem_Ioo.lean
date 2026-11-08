@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidWelfareFPA_lambda2_mem_Ioo
 -- name    : LiquidWelfareFPA.lambda2_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:25.407646+00:00
 -- url     : https://prove2.me/theorems/1775d34d-cc9a-460d-a252-d1fd3a303d43

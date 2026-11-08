@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CharPSComp_eq_10
 -- name    : CharPSComp.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T13:08:44.435804+00:00
 -- url     : https://prove2.me/theorems/d2e467d0-773e-424c-a766-71ad33779db4

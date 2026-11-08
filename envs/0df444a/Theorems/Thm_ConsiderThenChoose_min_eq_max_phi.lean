@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsiderThenChoose_min_eq_max_phi
 -- name    : ConsiderThenChoose.min_eq_max_phi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:35:00.022278+00:00
 -- url     : https://prove2.me/theorems/60b176f1-04ae-4a36-9fff-516b8cf63c60

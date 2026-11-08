@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCAEndToEndMission_concentration_summation
 -- name    : MCAEndToEndMission.concentration_summation
--- status  : Open
+-- status  : Proved
 -- author  : @chenyu
 -- created : 2026-10-30T16:13:50.525268+00:00
 -- url     : https://prove2.me/theorems/408fb1db-2df4-406e-ac51-3605cdadd007

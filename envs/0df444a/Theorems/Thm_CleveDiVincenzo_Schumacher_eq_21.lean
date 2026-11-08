@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CleveDiVincenzo_Schumacher_eq_21
 -- name    : CleveDiVincenzo.Schumacher.eq_21
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:21:21.338991+00:00
 -- url     : https://prove2.me/theorems/7516288c-3d0b-4c8d-a031-0242b7e4b8cb

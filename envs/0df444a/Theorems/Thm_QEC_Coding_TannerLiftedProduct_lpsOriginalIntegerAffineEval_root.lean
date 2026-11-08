@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerAffineEval_root
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerAffineEval_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:35:45.421873+00:00
 -- url     : https://prove2.me/theorems/6cfbdd0b-d4a9-4a21-a4b3-cf202eca976f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreedmanTail_corollary_3_2_exp_bound
 -- name    : FreedmanTail.corollary_3_2_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:09:44.498246+00:00
 -- url     : https://prove2.me/theorems/871f6774-7225-4434-b351-20b72009f164

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerNormalAffine_finiteOverOrder
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalAffine_finiteOverOrder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:36:50.182194+00:00
 -- url     : https://prove2.me/theorems/d2f2a3f6-3179-43b0-b408-b9878d25dbb0

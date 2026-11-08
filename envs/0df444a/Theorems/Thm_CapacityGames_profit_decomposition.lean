@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapacityGames_profit_decomposition
 -- name    : CapacityGames.profit_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:44.368027+00:00
 -- url     : https://prove2.me/theorems/63670eb1-2c69-42d9-a683-d36698f79bc1

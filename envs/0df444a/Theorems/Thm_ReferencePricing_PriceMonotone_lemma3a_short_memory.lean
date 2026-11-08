@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_PriceMonotone_lemma3a_short_memory
 -- name    : ReferencePricing.PriceMonotone.lemma3a_short_memory
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:57:11.405373+00:00
 -- url     : https://prove2.me/theorems/e70fb1f6-da97-435a-818f-aed7aea90c21

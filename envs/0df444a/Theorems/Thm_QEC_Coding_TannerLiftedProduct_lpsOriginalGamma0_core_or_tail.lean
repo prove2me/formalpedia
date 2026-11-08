@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGamma0_core_or_tail
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGamma0_core_or_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:45:35.035141+00:00
 -- url     : https://prove2.me/theorems/b2ae7958-2e23-4ba6-892f-e84d889b73a9

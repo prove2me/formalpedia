@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_GelbrichFiniteSample_true_risk_le_gelbrich_risk
 -- name    : WassersteinDRO.GelbrichFiniteSample.true_risk_le_gelbrich_risk
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:01:45.584988+00:00
 -- url     : https://prove2.me/theorems/8d24d657-c0ee-423f-8069-b07561a06b4d

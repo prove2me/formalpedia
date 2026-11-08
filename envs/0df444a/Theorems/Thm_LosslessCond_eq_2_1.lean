@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LosslessCond_eq_2_1
 -- name    : LosslessCond.eq_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:33:36.72193+00:00
 -- url     : https://prove2.me/theorems/8acb9772-f9f4-4b1d-8b50-449ce4560700

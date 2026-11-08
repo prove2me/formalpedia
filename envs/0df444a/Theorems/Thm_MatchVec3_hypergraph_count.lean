@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchVec3_hypergraph_count
 -- name    : MatchVec3.hypergraph_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:41:27.985701+00:00
 -- url     : https://prove2.me/theorems/7e1bbbf9-df82-48e9-97fd-8535f793d8bc

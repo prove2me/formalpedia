@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllipsoidFitting_proposition_3_2
 -- name    : EllipsoidFitting.proposition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:44:29.067223+00:00
 -- url     : https://prove2.me/theorems/6520574b-7118-431e-8e24-d36c3bd83080

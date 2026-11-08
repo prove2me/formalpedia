@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsChi4PrimeE2Twist_tendsto_zero
 -- name    : QEC.Coding.TannerLiftedProduct.lpsChi4PrimeE2Twist_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:18:00.912723+00:00
 -- url     : https://prove2.me/theorems/d6ec0dac-7e6a-4516-a842-856f6e1d35aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDMFull_Disagreement_averaged_regret_identity
 -- name    : StatComplexityDMFull.Disagreement.averaged_regret_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:54:55.615968+00:00
 -- url     : https://prove2.me/theorems/b3e8a1d8-1068-426b-9baf-5fa17e47d5f5

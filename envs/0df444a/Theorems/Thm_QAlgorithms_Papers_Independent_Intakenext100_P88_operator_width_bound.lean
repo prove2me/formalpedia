@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P88_operator_width_bound
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P88.operator_width_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:31:27.177275+00:00
 -- url     : https://prove2.me/theorems/0ecd56e2-921f-414a-84c2-15a58059bd83

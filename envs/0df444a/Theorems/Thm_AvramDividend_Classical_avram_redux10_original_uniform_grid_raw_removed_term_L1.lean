@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux10_original_uniform_grid_raw_removed_term_L1
 -- name    : AvramDividend.Classical.avram_redux10_original_uniform_grid_raw_removed_term_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T09:29:05.932086+00:00
 -- url     : https://prove2.me/theorems/d001f11f-88af-43c4-ba0c-9164d285fa81

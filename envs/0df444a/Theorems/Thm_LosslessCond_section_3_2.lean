@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LosslessCond_section_3_2
 -- name    : LosslessCond.section_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:35:12.129194+00:00
 -- url     : https://prove2.me/theorems/1805360e-3b75-4e29-80b8-fea59c88cccc

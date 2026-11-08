@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CanadaCTP_eq_5
 -- name    : CanadaCTP.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:18:07.217173+00:00
 -- url     : https://prove2.me/theorems/f44c0d7e-c92e-49a4-93e4-227112f807d7

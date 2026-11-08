@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoIncExtrap_lemma_1
 -- name    : MonoIncExtrap.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:29:14.321323+00:00
 -- url     : https://prove2.me/theorems/1aa234f3-4f47-4139-a262-1e121ae76dd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AndOrSched_section_1_redundant_or_arcs
 -- name    : AndOrSched.section_1_redundant_or_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:29:37.828972+00:00
 -- url     : https://prove2.me/theorems/0db51859-ed9d-4ef3-a845-342ebbd1b96b

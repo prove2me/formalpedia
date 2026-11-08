@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRSP_trace_mul_partialTraceRight
 -- name    : ObliviousRSP.trace_mul_partialTraceRight
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:09.717989+00:00
 -- url     : https://prove2.me/theorems/63791213-8edf-405a-a197-c8743606c4d7

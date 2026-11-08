@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Holevo_eq_3_155
 -- name    : FuchsThesis.Holevo.eq_3_155
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:58:15.006548+00:00
 -- url     : https://prove2.me/theorems/acd15b60-d7ed-4333-8a0a-73eef3dd68c2

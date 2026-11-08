@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatefulPricing_thm_3_6_proof_I
 -- name    : StatefulPricing.thm_3_6_proof_I
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T08:26:03.31586+00:00
 -- url     : https://prove2.me/theorems/69aae2db-fa9f-4951-a609-af55b31efc43

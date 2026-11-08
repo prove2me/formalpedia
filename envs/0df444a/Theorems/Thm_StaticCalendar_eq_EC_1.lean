@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticCalendar_eq_EC_1
 -- name    : StaticCalendar.eq_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:57.32941+00:00
 -- url     : https://prove2.me/theorems/8afed90c-aa0c-4ad7-acc5-1edad6fa9c51

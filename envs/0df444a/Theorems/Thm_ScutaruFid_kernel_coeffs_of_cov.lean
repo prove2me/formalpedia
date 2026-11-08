@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScutaruFid_kernel_coeffs_of_cov
 -- name    : ScutaruFid.kernel_coeffs_of_cov
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:04.988608+00:00
 -- url     : https://prove2.me/theorems/e397b9e0-09bf-4b59-90c6-95eb8d33bb35

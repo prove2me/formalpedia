@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceCDLP_Efficient_cdlp_positive_time_efficient
 -- name    : ChoiceCDLP.Efficient.cdlp_positive_time_efficient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T07:28:04.530908+00:00
 -- url     : https://prove2.me/theorems/acea399a-b92a-42fd-8c59-f513857f9390

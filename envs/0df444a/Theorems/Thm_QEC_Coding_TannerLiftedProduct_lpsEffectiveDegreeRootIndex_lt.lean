@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsEffectiveDegreeRootIndex_lt
 -- name    : QEC.Coding.TannerLiftedProduct.lpsEffectiveDegreeRootIndex_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:54:37.557189+00:00
 -- url     : https://prove2.me/theorems/e4644b38-b58d-489c-ae30-cbf8f62ebf02

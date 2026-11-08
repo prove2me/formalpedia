@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeliefDominance_theorem_3
 -- name    : BeliefDominance.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:00.652138+00:00
 -- url     : https://prove2.me/theorems/68ace0b6-fe0e-4882-b03b-ba6ac3258299

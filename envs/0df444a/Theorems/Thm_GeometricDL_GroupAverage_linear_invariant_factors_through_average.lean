@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometricDL_GroupAverage_linear_invariant_factors_through_average
 -- name    : GeometricDL.GroupAverage.linear_invariant_factors_through_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:12:12.15835+00:00
 -- url     : https://prove2.me/theorems/6b2cb9a8-d491-4057-81b5-29c22fbfe04b

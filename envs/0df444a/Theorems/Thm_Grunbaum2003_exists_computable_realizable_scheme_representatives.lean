@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_exists_computable_realizable_scheme_representatives
 -- name    : Grunbaum2003.exists_computable_realizable_scheme_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:21:38.268256+00:00
 -- url     : https://prove2.me/theorems/db06a42c-a9dc-43e4-a3df-c9b600318756

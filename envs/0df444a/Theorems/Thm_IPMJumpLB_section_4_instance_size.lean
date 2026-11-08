@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPMJumpLB_section_4_instance_size
 -- name    : IPMJumpLB.section_4_instance_size
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:29:20.466194+00:00
 -- url     : https://prove2.me/theorems/ce119bd2-0ae9-4eff-9477-9bb340adc7e4

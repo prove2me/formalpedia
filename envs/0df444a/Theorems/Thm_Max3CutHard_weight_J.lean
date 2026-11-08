@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Max3CutHard_weight_J
 -- name    : Max3CutHard.weight_J
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:49:29.035649+00:00
 -- url     : https://prove2.me/theorems/ad20d490-34e4-496b-871c-aee98bae798c

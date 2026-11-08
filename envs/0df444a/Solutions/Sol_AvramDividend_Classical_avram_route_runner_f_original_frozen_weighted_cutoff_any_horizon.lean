@@ -1,0 +1,89 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_route_runner_f_original_frozen_weighted_cutoff_any_horizon
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-07T17:43:13.420547+00:00
+-- url     : https://prove2.me/submissions/c12f0774-840e-400c-8251-1383e1cfbb47
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_weighted_mark_lintegral_of_rectangle_equality
+import Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_strict_negative_cutoff_mark_weight_measurable
+import Theorems.Thm_AvramDividend_Classical_avram_wave7_06_original_frozen_prefix_leftLim_before_stop
+import Theorems.Thm_AvramDividend_Classical_avram_route_runner_f_original_frozen_mark_maps_any_horizon
+import Theorems.Thm_AvramDividend_Classical_avram_route_runner_f_generic_marked_window_count_any_horizon
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set Filter Topology AvramDividend.Classical
+open scoped NNReal ENNReal
+noncomputable section
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (ω : Ω) (T : ℝ≥0) (k : ℕ) :
+    (∫⁻ p : ℝ≥0 × ℝ,
+      if 0 < p.1 ∧ p.1 ≤ T ∧
+        p.2 < -(1 / ((k : ℝ) + 1)) then ENNReal.ofReal (-p.2) else 0 ∂
+      ((Measure.count.restrict {u : ℝ≥0 |
+        0 < u ∧ X.X u ω - Function.leftLim (fun v : ℝ≥0 => X.X v ω) u ≠ 0}).map
+        (fun u : ℝ≥0 => (u, X.X u ω -
+          Function.leftLim (fun v : ℝ≥0 => X.X v ω) u)))) =
+    (∫⁻ p : ℝ≥0 × ℝ,
+      if 0 < p.1 ∧ p.1 ≤ T ∧
+        p.2 < -(1 / ((k : ℝ) + 1)) then ENNReal.ofReal (-p.2) else 0 ∂
+      ((Measure.count.restrict {u : ℝ≥0 |
+        0 < u ∧ X.X (min u T) ω -
+          Function.leftLim (fun v : ℝ≥0 => X.X (min v T) ω) u ≠ 0}).map
+        (fun u : ℝ≥0 => (u, X.X (min u T) ω -
+          Function.leftLim (fun v : ℝ≥0 => X.X (min v T) ω) u)))) := by
+  let μ : Measure (ℝ≥0 × ℝ) :=
+    (Measure.count.restrict {u : ℝ≥0 |
+      0 < u ∧ X.X u ω - Function.leftLim (fun v : ℝ≥0 => X.X v ω) u ≠ 0}).map
+      (fun u : ℝ≥0 => (u, X.X u ω -
+        Function.leftLim (fun v : ℝ≥0 => X.X v ω) u))
+  let ν : Measure (ℝ≥0 × ℝ) :=
+    (Measure.count.restrict {u : ℝ≥0 |
+      0 < u ∧ X.X (min u T) ω -
+        Function.leftLim (fun v : ℝ≥0 => X.X (min v T) ω) u ≠ 0}).map
+      (fun u : ℝ≥0 => (u, X.X (min u T) ω -
+        Function.leftLim (fun v : ℝ≥0 => X.X (min v T) ω) u))
+  let g : ℝ → ℝ≥0∞ := fun z => if z < -(1 / ((k : ℝ) + 1)) then ENNReal.ofReal (-z) else 0
+  have hg : Measurable g := avram_bv_jump8_strict_negative_cutoff_mark_weight_measurable k
+  have hrect : ∀ B : Set ℝ, MeasurableSet B →
+      μ (Ioc 0 T ×ˢ B) = ν (Ioc 0 T ×ˢ B) := by
+    intro B hB
+    let f : ℝ≥0 → ℝ≥0 × ℝ := fun u =>
+      (u, X.X u ω - Function.leftLim (fun v : ℝ≥0 => X.X v ω) u)
+    let h : ℝ≥0 → ℝ≥0 × ℝ := fun u =>
+      (u, X.X (min u T) ω -
+        Function.leftLim (fun v : ℝ≥0 => X.X (min v T) ω) u)
+    let S : Set ℝ≥0 := {u | 0 < u ∧ (f u).2 ≠ 0}
+    let U : Set ℝ≥0 := {u | 0 < u ∧ (h u).2 ≠ 0}
+    have hMaps := avram_route_runner_f_original_frozen_mark_maps_any_horizon X ω T
+    have hmark (u : ℝ≥0) (hu : 0 < u) (huT : u ≤ T) :
+        (f u).2 = (h u).2 := by
+      change X.X u ω - Function.leftLim (fun v : ℝ≥0 => X.X v ω) u =
+        X.X (min u T) ω -
+          Function.leftLim (fun v : ℝ≥0 => X.X (min v T) ω) u
+      rw [min_eq_left huT,
+        avram_wave7_06_original_frozen_prefix_leftLim_before_stop X ω T u hu huT]
+    have hc := avram_route_runner_f_generic_marked_window_count_any_horizon
+      S U f h hMaps.1 hMaps.2 T B hB
+      (fun _ => rfl) (fun _ => rfl)
+      (by
+        intro u hu huT
+        have hd := hmark u hu huT
+        change (0 < u ∧ (f u).2 ≠ 0) ↔ (0 < u ∧ (h u).2 ≠ 0)
+        constructor
+        · rintro ⟨_, hs⟩
+          exact ⟨hu, by rw [← hd]; exact hs⟩
+        · rintro ⟨_, hs⟩
+          exact ⟨hu, by rw [hd]; exact hs⟩)
+      (by
+        intro u hu huT
+        exact congrArg (fun z : ℝ => (u, z)) (hmark u hu huT))
+    simpa only [S, U, f, h, μ, ν] using hc
+  have hw := avram_bv_jump8_weighted_mark_lintegral_of_rectangle_equality
+    μ ν 0 T g hg (by intro B hB; simpa only [zero_add] using hrect B hB)
+  simpa [μ, ν, g, and_assoc, ite_and] using hw

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsCuspTranslateQDifferentialCoefficient_analyticAt_zero
 -- name    : QEC.Coding.TannerLiftedProduct.lpsCuspTranslateQDifferentialCoefficient_analyticAt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:29:29.922541+00:00
 -- url     : https://prove2.me/theorems/45fc148f-10be-4a90-831d-76dc0a43490f

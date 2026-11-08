@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllsbergLearning_indifference_exists_unique
 -- name    : EllsbergLearning.indifference_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:20:59.288847+00:00
 -- url     : https://prove2.me/theorems/5448279c-298b-413a-b2d4-a2d2c78bd6f3

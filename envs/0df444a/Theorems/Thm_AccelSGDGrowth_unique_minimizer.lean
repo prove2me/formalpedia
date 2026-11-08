@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelSGDGrowth_unique_minimizer
 -- name    : AccelSGDGrowth.unique_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:30:26.008948+00:00
 -- url     : https://prove2.me/theorems/5b3f6048-f8b4-479a-8cea-c5ff9c314fe7

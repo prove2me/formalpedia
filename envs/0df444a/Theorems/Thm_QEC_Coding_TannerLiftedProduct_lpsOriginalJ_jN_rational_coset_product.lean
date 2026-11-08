@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJ_jN_rational_coset_product
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJ_jN_rational_coset_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:22:51.001923+00:00
 -- url     : https://prove2.me/theorems/62c27a63-95c7-40d8-b140-f71898e2fe9e

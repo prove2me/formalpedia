@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_norm_summand_strip
 -- name    : OAI.CubicEisenstein.norm_summand_strip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:53:54.887255+00:00
 -- url     : https://prove2.me/theorems/a3b7fb96-3d72-4707-98ae-9e75de48b6d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_virtual_run_coin_free
 -- name    : WindowedMatching.virtual_run_coin_free
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:26.827+00:00
 -- url     : https://prove2.me/theorems/205516f3-eb12-4490-b520-b60f2acab3c7

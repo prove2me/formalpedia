@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_ArithmeticGeometry_leftIndex_card
 -- name    : QEC.Coding.QuantumTanner.ArithmeticGeometry.leftIndex_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:20:29.924013+00:00
 -- url     : https://prove2.me/theorems/45a2a284-008f-4962-bcb5-c4fd76da7904

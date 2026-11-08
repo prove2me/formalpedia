@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewInfoShare_eq_6_first_stage_prices
 -- name    : ReviewInfoShare.eq_6_first_stage_prices
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:40:52.160531+00:00
 -- url     : https://prove2.me/theorems/dbaf76fe-9427-46f0-8a4d-3b350f49bf13

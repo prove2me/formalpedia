@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuangYin_proposition_1
 -- name    : HuangYin.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:50:07.235178+00:00
 -- url     : https://prove2.me/theorems/e6ce5966-d4bf-4575-9803-73635acfb0a9

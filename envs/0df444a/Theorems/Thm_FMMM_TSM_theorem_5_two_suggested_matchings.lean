@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FMMM_TSM_theorem_5_two_suggested_matchings
 -- name    : FMMM.TSM.theorem_5_two_suggested_matchings
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:32:43.228363+00:00
 -- url     : https://prove2.me/theorems/fb24d391-9e2c-4948-810f-041589104250

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_Myopic_myopic_steady_state_unique
 -- name    : ReferencePricing.Myopic.myopic_steady_state_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T09:37:25.349874+00:00
 -- url     : https://prove2.me/theorems/75f32969-8ffb-467e-b75e-1a0ba7ab1fc4

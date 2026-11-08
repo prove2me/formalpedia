@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustToDynamics_step3_shrinkage_factor
 -- name    : RobustToDynamics.step3_shrinkage_factor
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:36.531768+00:00
 -- url     : https://prove2.me/theorems/5f61d5ba-63e1-42fe-8a0c-f9ab0a8cdf3b

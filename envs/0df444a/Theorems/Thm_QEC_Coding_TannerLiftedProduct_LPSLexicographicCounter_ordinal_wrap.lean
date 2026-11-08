@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSLexicographicCounter_ordinal_wrap
 -- name    : QEC.Coding.TannerLiftedProduct.LPSLexicographicCounter.ordinal_wrap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:55:46.834876+00:00
 -- url     : https://prove2.me/theorems/940e7d3a-5d23-4a64-8ab5-f7269019b0d4

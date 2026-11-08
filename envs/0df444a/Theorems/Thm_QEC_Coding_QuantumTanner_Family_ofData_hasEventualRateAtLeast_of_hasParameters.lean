@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_Family_ofData_hasEventualRateAtLeast_of_hasParameters
 -- name    : QEC.Coding.QuantumTanner.Family.ofData_hasEventualRateAtLeast_of_hasParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:50:16.776497+00:00
 -- url     : https://prove2.me/theorems/ba6190a2-7b9a-44ee-9f24-f885a523e874

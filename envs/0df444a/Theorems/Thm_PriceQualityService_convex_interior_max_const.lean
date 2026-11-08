@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_convex_interior_max_const
 -- name    : PriceQualityService.convex_interior_max_const
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:42:14.642259+00:00
 -- url     : https://prove2.me/theorems/7666ee3f-fd2b-4de2-877a-5dd47fecde62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalComplexReciprocalNormalizationTensorAlgEquiv_tmulValue
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalComplexReciprocalNormalizationTensorAlgEquiv_tmulValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:59:12.376584+00:00
 -- url     : https://prove2.me/theorems/147d6109-be2e-4605-93bd-0dedba51df6c

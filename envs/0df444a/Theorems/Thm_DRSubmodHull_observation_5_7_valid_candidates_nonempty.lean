@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRSubmodHull_observation_5_7_valid_candidates_nonempty
 -- name    : DRSubmodHull.observation_5_7_valid_candidates_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:27:46.057965+00:00
 -- url     : https://prove2.me/theorems/e7be6271-9c80-449e-b790-c40d4af7589b

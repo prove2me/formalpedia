@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskSharingProjects_TimeDependent_theorem_6_asymmetry_shortens_duration_iff
 -- name    : RiskSharingProjects.TimeDependent.theorem_6_asymmetry_shortens_duration_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:30:49.240851+00:00
 -- url     : https://prove2.me/theorems/50323f70-fd03-4bbe-9f8c-b1b4a6976f51

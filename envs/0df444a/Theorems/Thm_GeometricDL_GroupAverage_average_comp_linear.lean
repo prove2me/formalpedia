@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometricDL_GroupAverage_average_comp_linear
 -- name    : GeometricDL.GroupAverage.average_comp_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:11:32.569445+00:00
 -- url     : https://prove2.me/theorems/92c3f2f0-b8d7-4951-903c-5b25835b8376

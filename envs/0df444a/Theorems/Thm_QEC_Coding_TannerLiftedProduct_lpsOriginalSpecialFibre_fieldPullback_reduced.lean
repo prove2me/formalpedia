@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalSpecialFibre_fieldPullback_reduced
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibre_fieldPullback_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:35:17.529353+00:00
 -- url     : https://prove2.me/theorems/ecd72eb2-433b-4f63-bd11-24ff582d4d61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TransitoryQueue_lemma_6_2
 -- name    : TransitoryQueue.lemma_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:01:25.186137+00:00
 -- url     : https://prove2.me/theorems/575538cc-ed66-42c6-bce6-8fa93f22ad0e

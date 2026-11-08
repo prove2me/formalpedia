@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxGrad_theorem_5_prox_grad_linear_rate
 -- name    : KarimiPL.ProxGrad.theorem_5_prox_grad_linear_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:58:20.036414+00:00
 -- url     : https://prove2.me/theorems/f018d803-75f6-46c8-b0c8-4b724c9bdc6a

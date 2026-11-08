@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P89_naive_source_count
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P89.naive_source_count
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:27:42.043065+00:00
 -- url     : https://prove2.me/theorems/5bd4e218-2e72-436c-b176-2500683a44e1

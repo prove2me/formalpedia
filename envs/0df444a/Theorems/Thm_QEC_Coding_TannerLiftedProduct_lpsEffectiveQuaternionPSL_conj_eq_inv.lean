@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsEffectiveQuaternionPSL_conj_eq_inv
 -- name    : QEC.Coding.TannerLiftedProduct.lpsEffectiveQuaternionPSL_conj_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:54:53.52148+00:00
 -- url     : https://prove2.me/theorems/fb0992e9-4961-4033-a906-43595d063fcb

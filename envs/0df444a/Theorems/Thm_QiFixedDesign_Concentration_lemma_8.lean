@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiFixedDesign_Concentration_lemma_8
 -- name    : QiFixedDesign.Concentration.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:59:17.478644+00:00
 -- url     : https://prove2.me/theorems/553c3cfb-6a0e-4205-93ed-770584008ff4

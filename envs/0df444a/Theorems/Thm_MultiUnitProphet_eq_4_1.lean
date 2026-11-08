@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiUnitProphet_eq_4_1
 -- name    : MultiUnitProphet.eq_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:13:21.447992+00:00
 -- url     : https://prove2.me/theorems/38a663c6-1e0f-4138-8dec-d108d7af3be0

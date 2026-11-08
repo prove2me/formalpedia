@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledDifferentialLinearEquiv_inverse_value
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledDifferentialLinearEquiv_inverse_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:06:58.122606+00:00
 -- url     : https://prove2.me/theorems/e88e03f9-e52a-4b3e-b009-0fd5b4b03939

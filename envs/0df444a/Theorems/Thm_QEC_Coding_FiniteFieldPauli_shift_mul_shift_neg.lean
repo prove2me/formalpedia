@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_shift_mul_shift_neg
 -- name    : QEC.Coding.FiniteFieldPauli.shift_mul_shift_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:51:40.683697+00:00
 -- url     : https://prove2.me/theorems/06838a7e-d9a5-41f8-8a81-e2a81c240cb6

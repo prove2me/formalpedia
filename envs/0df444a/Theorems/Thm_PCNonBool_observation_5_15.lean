@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCNonBool_observation_5_15
 -- name    : PCNonBool.observation_5_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:30:56.589982+00:00
 -- url     : https://prove2.me/theorems/9845d2e7-02e6-4ab8-adfb-b89282a88926

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneSCO_eq_24
 -- name    : ZeroOneSCO.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:52:25.238246+00:00
 -- url     : https://prove2.me/theorems/93f2706c-69a9-4705-8641-1d8fa05fa41d

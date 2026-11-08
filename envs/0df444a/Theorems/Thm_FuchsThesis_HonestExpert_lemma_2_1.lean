@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_HonestExpert_lemma_2_1
 -- name    : FuchsThesis.HonestExpert.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:20:56.031879+00:00
 -- url     : https://prove2.me/theorems/f2afecda-04b7-4c29-8ac8-c18d815e225c

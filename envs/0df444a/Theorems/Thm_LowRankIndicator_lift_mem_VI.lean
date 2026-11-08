@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankIndicator_lift_mem_VI
 -- name    : LowRankIndicator.lift_mem_VI
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:18:48.444459+00:00
 -- url     : https://prove2.me/theorems/b63c7bf3-33da-4bdf-ba26-d2af84435edb

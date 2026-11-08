@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_baire_of_locally_compact_or_complete
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.baire_of_locally_compact_or_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:56:22.76221+00:00
 -- url     : https://prove2.me/theorems/661ba211-bba6-4d18-be1f-dd029e6f2e3e

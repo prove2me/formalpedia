@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonTutorial_Regret_ts_regret_pessimism_width_decomposition
 -- name    : ThompsonTutorial.Regret.ts_regret_pessimism_width_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:14:45.863716+00:00
 -- url     : https://prove2.me/theorems/dd2f32c1-05fb-4101-99c5-bbb62f2f81aa

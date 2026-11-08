@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BasketMVMNL_eq_7
 -- name    : BasketMVMNL.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T10:31:40.51661+00:00
 -- url     : https://prove2.me/theorems/f59ccbe7-c62e-47c4-befd-b73f91201783

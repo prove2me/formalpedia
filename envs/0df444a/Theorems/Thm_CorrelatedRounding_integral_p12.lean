@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedRounding_integral_p12
 -- name    : CorrelatedRounding.integral_p12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:34:38.784898+00:00
 -- url     : https://prove2.me/theorems/56126e81-58c5-4521-90a7-229a07279f14

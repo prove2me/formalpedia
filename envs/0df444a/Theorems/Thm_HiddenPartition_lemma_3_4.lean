@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiddenPartition_lemma_3_4
 -- name    : HiddenPartition.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:28:30.002976+00:00
 -- url     : https://prove2.me/theorems/933466b5-1080-4b32-916a-564b3ec1125b

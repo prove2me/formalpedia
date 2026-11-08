@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfCorrect3D_Memory_peierls_contains_coboundary
 -- name    : SelfCorrect3D.Memory.peierls_contains_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:30:50.884736+00:00
 -- url     : https://prove2.me/theorems/af6255d5-04dc-4416-8020-a1cae8f2a068

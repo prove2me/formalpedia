@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonadaptiveSFT_claim_11
 -- name    : NonadaptiveSFT.claim_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:21:58.907507+00:00
 -- url     : https://prove2.me/theorems/45dfbc38-3405-4d48-8fe0-1d6e9ca8b40d

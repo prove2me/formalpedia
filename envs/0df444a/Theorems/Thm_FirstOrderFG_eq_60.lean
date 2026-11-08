@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderFG_eq_60
 -- name    : FirstOrderFG.eq_60
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:44:58.438029+00:00
 -- url     : https://prove2.me/theorems/642eb89f-4f12-4142-870d-300fcdd1ef38

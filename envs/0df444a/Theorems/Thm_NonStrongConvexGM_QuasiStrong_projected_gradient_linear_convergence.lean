@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonStrongConvexGM_QuasiStrong_projected_gradient_linear_convergence
 -- name    : NonStrongConvexGM.QuasiStrong.projected_gradient_linear_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:40:38.119371+00:00
 -- url     : https://prove2.me/theorems/f7d347fd-051f-4b40-b41e-dc2c9931aac3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsPSLList_length
 -- name    : QEC.Coding.TannerLiftedProduct.lpsPSLList_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:55:09.319475+00:00
 -- url     : https://prove2.me/theorems/c67e4b89-2e23-4580-acdc-e30bbc60c164

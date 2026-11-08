@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MISInducedMinor_grid5_threeSeparatedCycles
 -- name    : MISInducedMinor.grid5_threeSeparatedCycles
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:20:16.079814+00:00
 -- url     : https://prove2.me/theorems/58853210-e9b6-408c-81bf-ecd5702ca8a7

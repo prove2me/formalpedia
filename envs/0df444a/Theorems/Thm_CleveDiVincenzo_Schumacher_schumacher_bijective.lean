@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CleveDiVincenzo_Schumacher_schumacher_bijective
 -- name    : CleveDiVincenzo.Schumacher.schumacher_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:21:37.664114+00:00
 -- url     : https://prove2.me/theorems/839e61d9-c66d-4a0d-b5f9-ce4baee07b79

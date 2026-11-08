@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_FiniteHorizon_theorem_2_1_3
 -- name    : BauerleRiederMDP.FiniteHorizon.theorem_2_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:25:53.737188+00:00
 -- url     : https://prove2.me/theorems/8cc5de2f-cd1a-4552-a83f-6d932abce7ba

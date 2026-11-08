@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_detectable_pauli_iff
 -- name    : QEC.Coding.FiniteFieldPauli.detectable_pauli_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:48:55.535191+00:00
 -- url     : https://prove2.me/theorems/49e5d873-a84c-400d-a717-12611cc07f81

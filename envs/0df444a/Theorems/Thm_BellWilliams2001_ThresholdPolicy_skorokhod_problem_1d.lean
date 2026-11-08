@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_skorokhod_problem_1d
 -- name    : BellWilliams2001.ThresholdPolicy.skorokhod_problem_1d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:57:36.231981+00:00
 -- url     : https://prove2.me/theorems/d552ce88-b345-401d-b5c1-a91edffb4515

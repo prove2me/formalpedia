@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Unbiased_gradient_iff_unique_dual
 -- name    : RLPBidPrice.Unbiased.gradient_iff_unique_dual
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:47:39.476984+00:00
 -- url     : https://prove2.me/theorems/c3162cc2-d99a-4933-8ac7-8e5e8b4eabe7

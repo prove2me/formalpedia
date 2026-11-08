@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NieYangPareto_supporting_normal_nonneg
 -- name    : NieYangPareto.supporting_normal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:03:29.946276+00:00
 -- url     : https://prove2.me/theorems/a24de01b-5f53-4503-87e3-c91edb880b28

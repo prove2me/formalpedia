@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Tatamibari_NPC_terminator_parity
 -- name    : Tatamibari.NPC.terminator_parity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T15:34:44.636067+00:00
 -- url     : https://prove2.me/theorems/2316d329-6f83-459e-ab4c-095095ad0cf1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalNormalizedFilledFunction_cusp_eventuallyEq
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalNormalizedFilledFunction_cusp_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:19:35.785039+00:00
 -- url     : https://prove2.me/theorems/4e075401-7039-41b0-af50-97ed8bbdf15c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllipsoidFitting_claim_4_11
 -- name    : EllipsoidFitting.claim_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:43:45.228629+00:00
 -- url     : https://prove2.me/theorems/76a18361-ec13-41ec-8277-8bc7051f80c5

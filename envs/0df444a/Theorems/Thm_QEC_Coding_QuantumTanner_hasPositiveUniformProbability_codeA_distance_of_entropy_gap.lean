@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_hasPositiveUniformProbability_codeA_distance_of_entropy_gap
 -- name    : QEC.Coding.QuantumTanner.hasPositiveUniformProbability_codeA_distance_of_entropy_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:03:24.736556+00:00
 -- url     : https://prove2.me/theorems/75d30078-bafc-4be1-b152-6e5d6a54ff01

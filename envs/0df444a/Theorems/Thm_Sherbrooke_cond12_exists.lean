@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_cond12_exists
 -- name    : Sherbrooke.cond12_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:25:33.11678+00:00
 -- url     : https://prove2.me/theorems/d2eae8ec-d980-4e8d-863f-343e6437d015

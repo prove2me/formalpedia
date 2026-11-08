@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPUA_theorem_7_tightening
 -- name    : RobustSPUA.theorem_7_tightening
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:44:10.806645+00:00
 -- url     : https://prove2.me/theorems/99464737-6489-4695-aec3-cd7f66c39490

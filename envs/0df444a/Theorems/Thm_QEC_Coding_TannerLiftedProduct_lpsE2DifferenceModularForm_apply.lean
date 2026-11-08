@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsE2DifferenceModularForm_apply
 -- name    : QEC.Coding.TannerLiftedProduct.lpsE2DifferenceModularForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:26:24.952197+00:00
 -- url     : https://prove2.me/theorems/53018f97-3b2e-4cf8-ae70-8cd669c0ee46

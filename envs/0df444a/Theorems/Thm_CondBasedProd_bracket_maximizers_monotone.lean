@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondBasedProd_bracket_maximizers_monotone
 -- name    : CondBasedProd.bracket_maximizers_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:43.909947+00:00
 -- url     : https://prove2.me/theorems/2adde2fa-aee6-485e-b9e2-b5902b2f990f

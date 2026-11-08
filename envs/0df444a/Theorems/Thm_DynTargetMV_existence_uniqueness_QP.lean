@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynTargetMV_existence_uniqueness_QP
 -- name    : DynTargetMV.existence_uniqueness_QP
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:40:56.863727+00:00
 -- url     : https://prove2.me/theorems/72059d0f-0913-4deb-b6ce-5db945d08ff5

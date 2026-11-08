@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneIALM_isCoercive_isBoundedBelow
 -- name    : ZeroOneIALM.isCoercive_isBoundedBelow
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:28:39.67197+00:00
 -- url     : https://prove2.me/theorems/77254b13-6d79-4c80-b42a-c4b5647d8ccd

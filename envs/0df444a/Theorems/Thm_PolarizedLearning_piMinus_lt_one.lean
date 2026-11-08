@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolarizedLearning_piMinus_lt_one
 -- name    : PolarizedLearning.piMinus_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:18:56.434327+00:00
 -- url     : https://prove2.me/theorems/9dda77f7-f1ae-4f85-838e-d8ac23af93f1

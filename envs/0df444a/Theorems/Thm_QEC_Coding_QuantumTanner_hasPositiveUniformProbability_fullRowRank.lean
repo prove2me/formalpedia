@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_hasPositiveUniformProbability_fullRowRank
 -- name    : QEC.Coding.QuantumTanner.hasPositiveUniformProbability_fullRowRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:03:49.088948+00:00
 -- url     : https://prove2.me/theorems/b09bcc08-7d27-4b28-9fcc-e9d55ec8944a

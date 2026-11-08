@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeisenbergRep_Knill_anticommute_conj_neg
 -- name    : HeisenbergRep.Knill.anticommute_conj_neg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:45.364371+00:00
 -- url     : https://prove2.me/theorems/ad404ee6-a367-47ce-999e-3530622a956f

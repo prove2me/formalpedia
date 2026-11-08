@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_StableSchedules_stable_classes_extreme_points
 -- name    : ProjSchedTW.StableSchedules.stable_classes_extreme_points
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T01:15:23.046268+00:00
 -- url     : https://prove2.me/theorems/f9ba7999-6f08-468d-9557-c18e6af9a132

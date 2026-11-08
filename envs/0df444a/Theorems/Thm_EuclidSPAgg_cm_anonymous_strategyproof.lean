@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EuclidSPAgg_cm_anonymous_strategyproof
 -- name    : EuclidSPAgg.cm_anonymous_strategyproof
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:43:25.266203+00:00
 -- url     : https://prove2.me/theorems/96d0b3f8-bf4b-46cb-bc06-520db4a899ea

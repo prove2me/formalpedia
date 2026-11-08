@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShares_lemma_15
 -- name    : FairShares.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:14:00.808357+00:00
 -- url     : https://prove2.me/theorems/435e619f-d2e6-4fae-9207-d7621b04234f

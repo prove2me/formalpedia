@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehShare_MultiNet_jensen_reward_le
 -- name    : VehShare.MultiNet.jensen_reward_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:50:19.76874+00:00
 -- url     : https://prove2.me/theorems/5e45b7c7-effd-4ff5-8f8f-bd69d7db952f

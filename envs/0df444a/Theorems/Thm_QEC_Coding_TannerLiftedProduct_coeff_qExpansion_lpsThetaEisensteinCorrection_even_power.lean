@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_qExpansion_lpsThetaEisensteinCorrection_even_power
 -- name    : QEC.Coding.TannerLiftedProduct.coeff_qExpansion_lpsThetaEisensteinCorrection_even_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:35:58.786816+00:00
 -- url     : https://prove2.me/theorems/7ac314d1-1ec4-4eca-870d-4d3f21262172

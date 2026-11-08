@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatNV_lemma_1
 -- name    : NonstatNV.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:04:25.519488+00:00
 -- url     : https://prove2.me/theorems/74e8ab2b-49d9-4939-8a60-e5b735763138

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherComm_additivity
 -- name    : HigherComm.additivity
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-06T16:26:38.299548+00:00
 -- url     : https://prove2.me/theorems/a95c3ee8-a985-4a5d-8498-c7c34119964f

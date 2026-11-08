@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalNormalZero_verticalRamificationIndex_one
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalNormalZero_verticalRamificationIndex_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:34:11.865696+00:00
 -- url     : https://prove2.me/theorems/978bbfcf-1c26-4784-bffa-823b9e8f4611

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGaussAffineOrder_originalEval_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGaussAffineOrder_originalEval_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:16:01.996218+00:00
 -- url     : https://prove2.me/theorems/3144c555-1285-4e37-8458-5b3155b8f3a8

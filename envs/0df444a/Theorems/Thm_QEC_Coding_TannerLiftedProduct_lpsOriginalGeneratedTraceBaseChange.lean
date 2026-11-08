@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGeneratedTraceBaseChange
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGeneratedTraceBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:35:23.997903+00:00
 -- url     : https://prove2.me/theorems/2e644869-694a-4fe5-a2d1-4aa84ea9ea06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_CostMonotonicity_xi_unique_zero
 -- name    : ImpulseGames.CostMonotonicity.xi_unique_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:39:26.263197+00:00
 -- url     : https://prove2.me/theorems/f945dfa4-dd0d-4e66-8432-2ad3047cedb7

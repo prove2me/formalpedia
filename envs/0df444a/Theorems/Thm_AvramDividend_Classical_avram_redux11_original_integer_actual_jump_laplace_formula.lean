@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux11_original_integer_actual_jump_laplace_formula
 -- name    : AvramDividend.Classical.avram_redux11_original_integer_actual_jump_laplace_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:14:10.725869+00:00
 -- url     : https://prove2.me/theorems/75bc3f76-b88e-427e-a0f5-c3c38e444175

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Directional_averaged_duals_supergradient
 -- name    : RLPBidPrice.Directional.averaged_duals_supergradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T13:12:34.394358+00:00
 -- url     : https://prove2.me/theorems/6691d77f-258f-4a5f-aa45-18fc25b0f408

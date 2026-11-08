@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSLexicographicCounter_indexNext_decode
 -- name    : QEC.Coding.TannerLiftedProduct.LPSLexicographicCounter.indexNext_decode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:56:21.314101+00:00
 -- url     : https://prove2.me/theorems/63900d99-2904-40b4-aa01-1fd3c388d7db

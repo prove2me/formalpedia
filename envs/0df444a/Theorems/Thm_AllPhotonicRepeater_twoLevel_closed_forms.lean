@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllPhotonicRepeater_twoLevel_closed_forms
 -- name    : AllPhotonicRepeater.twoLevel_closed_forms
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:22:11.173987+00:00
 -- url     : https://prove2.me/theorems/66eb882a-9fdd-4084-93db-0a061534048d

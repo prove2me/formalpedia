@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_GenConcave_proposition_2_2
 -- name    : KallMayerSLP.GenConcave.proposition_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:11:40.434019+00:00
 -- url     : https://prove2.me/theorems/ca329ac1-288a-4599-a9f7-e1d48f21c37e

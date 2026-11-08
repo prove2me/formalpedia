@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairwiseRealize_sec_A_2_total_trade
 -- name    : PairwiseRealize.sec_A_2_total_trade
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:55:42.422198+00:00
 -- url     : https://prove2.me/theorems/1cbbbb87-85bb-49dc-9a1f-2c49ec63dab1

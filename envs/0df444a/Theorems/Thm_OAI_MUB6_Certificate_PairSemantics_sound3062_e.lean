@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_PairSemantics_sound3062_e
 -- name    : OAI.MUB6.Certificate.PairSemantics.sound3062_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T01:22:30.311981+00:00
 -- url     : https://prove2.me/theorems/d392a602-fa87-49f9-8707-6fcfbacfae5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Relax_VB_eq_min_H
 -- name    : L0BnB.Relax.VB_eq_min_H
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:50:18.908513+00:00
 -- url     : https://prove2.me/theorems/e8965903-6457-4f7c-8b95-1813066f3de6

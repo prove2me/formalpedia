@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseHistComm_decoder_normalization
 -- name    : SparseHistComm.decoder_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:38:26.588858+00:00
 -- url     : https://prove2.me/theorems/59e7689a-bd9e-4108-b671-645a1c6495e1

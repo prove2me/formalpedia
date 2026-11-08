@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuangYin_transparent_benchmark
 -- name    : HuangYin.transparent_benchmark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:48:48.24484+00:00
 -- url     : https://prove2.me/theorems/7d1ece6f-729f-4eb2-a509-7f4c46f16b7e

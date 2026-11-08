@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgePSNV_lemma_ec_7
 -- name    : HedgePSNV.lemma_ec_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:03:41.94818+00:00
 -- url     : https://prove2.me/theorems/f1b3a42f-bac2-4474-80d8-75b7d645caea

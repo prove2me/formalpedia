@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnknownBudgetAdwords_lemma_1
 -- name    : UnknownBudgetAdwords.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:20:11.466558+00:00
 -- url     : https://prove2.me/theorems/7ead524a-8f8f-4c59-b196-b03905fbd1a7

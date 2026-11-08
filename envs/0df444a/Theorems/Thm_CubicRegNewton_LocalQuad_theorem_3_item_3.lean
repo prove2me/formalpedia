@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicRegNewton_LocalQuad_theorem_3_item_3
 -- name    : CubicRegNewton.LocalQuad.theorem_3_item_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:32:56.117033+00:00
 -- url     : https://prove2.me/theorems/89965727-a698-493e-a4a3-d77cb8d02f2a

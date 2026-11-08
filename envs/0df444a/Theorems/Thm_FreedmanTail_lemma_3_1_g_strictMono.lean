@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreedmanTail_lemma_3_1_g_strictMono
 -- name    : FreedmanTail.lemma_3_1_g_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:09:10.471637+00:00
 -- url     : https://prove2.me/theorems/34b5de73-02bb-414c-afac-afb04643d9ed

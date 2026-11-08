@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleportGates_Ck_teleportOutput_gateResource
 -- name    : TeleportGates.Ck.teleportOutput_gateResource
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:16.000381+00:00
 -- url     : https://prove2.me/theorems/37c1b257-309b-4cb0-83d5-644e522befb5

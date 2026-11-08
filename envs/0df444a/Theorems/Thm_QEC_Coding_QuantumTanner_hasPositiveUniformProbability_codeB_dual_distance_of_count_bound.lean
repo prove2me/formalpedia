@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_hasPositiveUniformProbability_codeB_dual_distance_of_count_bound
 -- name    : QEC.Coding.QuantumTanner.hasPositiveUniformProbability_codeB_dual_distance_of_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:03:55.177356+00:00
 -- url     : https://prove2.me/theorems/c8df4934-d627-49b1-b2e2-3887b997dd03

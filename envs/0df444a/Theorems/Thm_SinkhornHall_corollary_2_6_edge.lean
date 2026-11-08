@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_corollary_2_6_edge
 -- name    : SinkhornHall.corollary_2_6_edge
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:24.203995+00:00
 -- url     : https://prove2.me/theorems/c1ac3b85-ad78-4017-b57e-88a41bab941c

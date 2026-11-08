@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_unit_time_intrinsic_marked_laplace
 -- name    : AvramDividend.Classical.avram_bv_jump8_unit_time_intrinsic_marked_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T13:11:30.172858+00:00
 -- url     : https://prove2.me/theorems/7908f13f-3295-4a5d-8b0e-43fa863ac4ee

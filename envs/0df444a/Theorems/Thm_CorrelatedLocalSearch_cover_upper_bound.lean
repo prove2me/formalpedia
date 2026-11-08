@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedLocalSearch_cover_upper_bound
 -- name    : CorrelatedLocalSearch.cover_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:38:23.833689+00:00
 -- url     : https://prove2.me/theorems/f943a558-b6d1-47ab-a86b-599612d86dfb

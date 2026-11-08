@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerNormalLaurentLevelPullback_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalLaurentLevelPullback_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:00:33.462538+00:00
 -- url     : https://prove2.me/theorems/cfb285c8-e990-4ca8-9baa-1147552deb29

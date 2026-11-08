@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketInterference_FluidLimit_janson_poisson_tail
 -- name    : MarketInterference.FluidLimit.janson_poisson_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:06:53.442992+00:00
 -- url     : https://prove2.me/theorems/9a6ed663-7ee6-4156-8461-5aaea9a8051f

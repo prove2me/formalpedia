@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpatientMatching_lemma_4_5
 -- name    : ImpatientMatching.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:48:40.100128+00:00
 -- url     : https://prove2.me/theorems/36b2f0a8-64e7-4b81-940e-ace63d792c19

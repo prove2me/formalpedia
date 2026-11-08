@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhachiyanRound_BCD_exists_maximizer
 -- name    : KhachiyanRound.BCD.exists_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:15:15.053386+00:00
 -- url     : https://prove2.me/theorems/db0684c8-a56a-4b51-a93f-9db5c2f950d1

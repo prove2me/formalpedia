@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Directional_dualOpt_supergradient
 -- name    : RLPBidPrice.Directional.dualOpt_supergradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T13:11:56.357698+00:00
 -- url     : https://prove2.me/theorems/93b893ba-7051-4d0b-8aa2-5163263413d4

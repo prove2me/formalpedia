@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_HypergraphProduct_tillichZemorHypergraphProductParameters
 -- name    : QEC.Coding.HypergraphProduct.tillichZemorHypergraphProductParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:42:46.736203+00:00
 -- url     : https://prove2.me/theorems/319459ca-031a-483b-b5bd-56ca85714b60

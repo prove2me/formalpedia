@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DivQuotient_remark_EC_2
 -- name    : DivQuotient.remark_EC_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:52:18.481987+00:00
 -- url     : https://prove2.me/theorems/3d0c3086-633e-48be-9e00-c5b804d285fb

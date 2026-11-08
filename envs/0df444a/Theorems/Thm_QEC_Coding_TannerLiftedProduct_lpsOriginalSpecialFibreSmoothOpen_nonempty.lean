@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalSpecialFibreSmoothOpen_nonempty
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreSmoothOpen_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:34:23.457197+00:00
 -- url     : https://prove2.me/theorems/7d9186ec-4fb5-451e-a44a-a2e846a646b1

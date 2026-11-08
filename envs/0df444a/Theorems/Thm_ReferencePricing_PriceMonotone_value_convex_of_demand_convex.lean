@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_PriceMonotone_value_convex_of_demand_convex
 -- name    : ReferencePricing.PriceMonotone.value_convex_of_demand_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:57:26.063457+00:00
 -- url     : https://prove2.me/theorems/803127d9-b9fa-4726-bc82-752e29ed625a

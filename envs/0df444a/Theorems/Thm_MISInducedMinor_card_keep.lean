@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MISInducedMinor_card_keep
 -- name    : MISInducedMinor.card_keep
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:21:02.745174+00:00
 -- url     : https://prove2.me/theorems/4e5cc044-0205-4c2f-810f-61fecba0f1db

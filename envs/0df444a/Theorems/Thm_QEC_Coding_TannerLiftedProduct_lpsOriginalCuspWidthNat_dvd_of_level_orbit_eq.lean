@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCuspWidthNat_dvd_of_level_orbit_eq
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCuspWidthNat_dvd_of_level_orbit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:30:46.819677+00:00
 -- url     : https://prove2.me/theorems/5261f797-eab7-42fa-9742-308af1b11576

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_SimpleRecourse_lemma_2_10
 -- name    : KallMayerSLP.SimpleRecourse.lemma_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:13:11.949157+00:00
 -- url     : https://prove2.me/theorems/dbe1e3fb-dff5-4380-ab25-2bb2ee476a02

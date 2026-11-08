@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_Data_boundaryStabilizerFamily_isLDPC_degreeSquared
 -- name    : QEC.Coding.QuantumTanner.Data.boundaryStabilizerFamily_isLDPC_degreeSquared
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:48:04.559487+00:00
 -- url     : https://prove2.me/theorems/717d7600-ffb0-49c2-b983-16d80d1cb753

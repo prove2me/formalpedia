@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_seats_mean_variance
 -- name    : BidPriceControl.Asymptotic.seats_mean_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:39:24.997134+00:00
 -- url     : https://prove2.me/theorems/1ad6b191-ced8-4a65-906e-c743f446bd1f

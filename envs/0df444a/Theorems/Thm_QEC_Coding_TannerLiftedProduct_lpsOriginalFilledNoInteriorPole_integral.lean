@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledNoInteriorPole_integral
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledNoInteriorPole_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:17:04.934187+00:00
 -- url     : https://prove2.me/theorems/b8a4d4a6-c592-4b0f-939b-98e49a6857f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiServerAppt_waiting_time_hitting_time
 -- name    : MultiServerAppt.waiting_time_hitting_time
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:00:09.120528+00:00
 -- url     : https://prove2.me/theorems/6d63de28-6ee8-4e1e-8855-6d278bc30ccb

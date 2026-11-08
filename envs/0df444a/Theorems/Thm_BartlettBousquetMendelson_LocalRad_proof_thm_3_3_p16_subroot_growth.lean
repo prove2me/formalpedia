@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettBousquetMendelson_LocalRad_proof_thm_3_3_p16_subroot_growth
 -- name    : BartlettBousquetMendelson.LocalRad.proof_thm_3_3_p16_subroot_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:01:25.518085+00:00
 -- url     : https://prove2.me/theorems/2c27e0c3-1c2a-40a3-8e75-bd24cdae8f49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_rounded_optimum_approx
 -- name    : NisanRonen.Rounding.rounded_optimum_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:25:40.533772+00:00
 -- url     : https://prove2.me/theorems/ff884415-4e64-4a32-bc60-41640d13e8f8

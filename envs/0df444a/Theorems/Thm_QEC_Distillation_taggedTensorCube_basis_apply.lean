@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_taggedTensorCube_basis_apply
 -- name    : QEC.Distillation.taggedTensorCube_basis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:42:18.423829+00:00
 -- url     : https://prove2.me/theorems/f66f4092-d4b9-4528-8732-15dfb851bc35

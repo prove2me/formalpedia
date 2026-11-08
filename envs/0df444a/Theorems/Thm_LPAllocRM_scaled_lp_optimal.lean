@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPAllocRM_scaled_lp_optimal
 -- name    : LPAllocRM.scaled_lp_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:53.329977+00:00
 -- url     : https://prove2.me/theorems/e25b1f9c-2c80-42ff-b77a-928cac28c18a

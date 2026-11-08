@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedLocalSearch_harmonic_Hm
 -- name    : CorrelatedLocalSearch.harmonic_Hm
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:39:06.109666+00:00
 -- url     : https://prove2.me/theorems/09be0f5f-e12e-48aa-9b0b-7a48f5ce9079

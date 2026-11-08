@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPBSelect_theorem_3_zero_ratio
 -- name    : MPBSelect.theorem_3_zero_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:29:52.636384+00:00
 -- url     : https://prove2.me/theorems/35f64edb-e679-4e07-ad79-37bcbaf9243f

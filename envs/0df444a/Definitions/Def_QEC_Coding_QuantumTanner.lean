@@ -1,0 +1,49 @@
+-- Prove2me | Definitions.Def_QEC_Coding_QuantumTanner
+-- name    : QEC_Coding_QuantumTanner
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-07T06:45:47.392565+00:00
+-- url     : https://prove2.me/theorems/a09d696d-99f0-4add-b41e-40c2e07e8ea3
+-- title:
+--   Quantum Tanner
+-- statement:
+--   Definitions and structural lemmas for Quantum Tanner, from The Lean-QECert contributors's pinned Lean-QECert development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/QuantumTanner.lean
+
+import Definitions.Def_QEC_Coding_QuantumTanner_Core
+import Definitions.Def_QEC_Coding_QuantumTanner_CayleyLink
+import Definitions.Def_QEC_Coding_QuantumTanner_CayleySquareGraph
+import Definitions.Def_QEC_Coding_QuantumTanner_Distance
+import Definitions.Def_QEC_Coding_QuantumTanner_DistanceBudgets
+import Definitions.Def_QEC_Coding_QuantumTanner_ExceptionalVertices
+import Definitions.Def_QEC_Coding_QuantumTanner_ExpandingDistance
+import Definitions.Def_QEC_Coding_QuantumTanner_Goodness
+import Definitions.Def_QEC_Coding_QuantumTanner_RobustnessTransport
+import Definitions.Def_QEC_Coding_QuantumTanner_Parameters
+import Definitions.Def_QEC_Coding_QuantumTanner_SampleParameters
+import Definitions.Def_QEC_Coding_QuantumTanner_SpectralFamily
+import Definitions.Def_QEC_Coding_QuantumTanner_ArithmeticGeometry
+import Definitions.Def_QEC_Coding_QuantumTanner_ArithmeticPSLGeometry
+import Definitions.Def_QEC_Coding_QuantumTanner_ArithmeticPSLFamily
+import Definitions.Def_QEC_Coding_QuantumTanner_ArithmeticPSLGoodness
+import Definitions.Def_QEC_Coding_QuantumTanner_HeavyEdges
+import Definitions.Def_QEC_Coding_QuantumTanner_HeavySelection
+import Definitions.Def_QEC_Coding_QuantumTanner_LocalReduction
+import Definitions.Def_QEC_Coding_QuantumTanner_LocalDescent
+import Definitions.Def_QEC_Coding_QuantumTanner_LiftedProductRestriction
+import Definitions.Def_QEC_Coding_QuantumTanner_LiftedProductActionBridge
+import Definitions.Def_QEC_Coding_QuantumTanner_LiftedProductTensorBridge
+import Definitions.Def_QEC_Coding_QuantumTanner_LiftedProductTannerBridge
+import Definitions.Def_QEC_Coding_QuantumTanner_LiftedProductTannerCode
+import Definitions.Def_QEC_Coding_QuantumTanner_NormalViews
+import Definitions.Def_QEC_Coding_QuantumTanner_NeighborViews
+import Definitions.Def_QEC_Coding_QuantumTanner_ViewAssembly
+import Definitions.Def_QEC_Coding_QuantumTanner_SquareGraph
+import Definitions.Def_QEC_Coding_QuantumTanner_TensorApproximation
+import Definitions.Def_QEC_Coding_QuantumTanner_TensorPuncture
+import Definitions.Def_QEC_Coding_QuantumTanner_TensorDuality
+import Definitions.Def_QEC_Coding_QuantumTanner_TensorDistance
+set_option autoImplicit false
+
+

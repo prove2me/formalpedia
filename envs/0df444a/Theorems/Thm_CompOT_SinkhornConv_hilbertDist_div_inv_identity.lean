@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_SinkhornConv_hilbertDist_div_inv_identity
 -- name    : CompOT.SinkhornConv.hilbertDist_div_inv_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:22:27.859166+00:00
 -- url     : https://prove2.me/theorems/74fcda72-a1d9-4951-bc8f-5fb860423b7e

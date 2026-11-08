@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Stability_eq_6_19
 -- name    : BaconThesis.Stability.eq_6_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:17.367435+00:00
 -- url     : https://prove2.me/theorems/82e2fcb0-ce57-4515-bfd6-966b47c00cc4

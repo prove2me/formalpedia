@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_profit_fixed_point
 -- name    : PriceQualityService.profit_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:39:04.756681+00:00
 -- url     : https://prove2.me/theorems/dfa698dd-d30a-4b27-a301-9ccf53534cdc

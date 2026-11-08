@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_Data_boundaryIncidence_boundedLocality_degreeSquared_of_goodLocalCodeEvent
 -- name    : QEC.Coding.QuantumTanner.Data.boundaryIncidence_boundedLocality_degreeSquared_of_goodLocalCodeEvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:48:05.25098+00:00
 -- url     : https://prove2.me/theorems/3192d045-e5f2-4174-8f71-156c9fc518a1

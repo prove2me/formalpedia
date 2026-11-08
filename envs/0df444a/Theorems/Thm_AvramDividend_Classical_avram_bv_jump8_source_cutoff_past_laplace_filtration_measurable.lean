@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_source_cutoff_past_laplace_filtration_measurable
 -- name    : AvramDividend.Classical.avram_bv_jump8_source_cutoff_past_laplace_filtration_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T18:02:28.876228+00:00
 -- url     : https://prove2.me/theorems/154a6ab1-7fb7-4e1d-a223-ceaf5d0e8451

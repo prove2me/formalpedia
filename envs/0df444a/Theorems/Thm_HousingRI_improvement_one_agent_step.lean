@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HousingRI_improvement_one_agent_step
 -- name    : HousingRI.improvement_one_agent_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:12:20.45698+00:00
 -- url     : https://prove2.me/theorems/5fd84b4b-d0f6-42cb-8b19-231156cb9738

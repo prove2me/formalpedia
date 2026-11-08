@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicObfuscation_proposition_1
 -- name    : StrategicObfuscation.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:52:06.727422+00:00
 -- url     : https://prove2.me/theorems/8398bdce-bf00-4498-af11-9a3b65974d19

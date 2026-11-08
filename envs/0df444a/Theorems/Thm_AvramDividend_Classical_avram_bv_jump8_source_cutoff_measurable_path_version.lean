@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_source_cutoff_measurable_path_version
 -- name    : AvramDividend.Classical.avram_bv_jump8_source_cutoff_measurable_path_version
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T17:57:52.211325+00:00
 -- url     : https://prove2.me/theorems/b879a7b0-546f-47c3-89b6-41d84d04f8bc

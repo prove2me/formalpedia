@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSLexicographicCounter_input_injective
 -- name    : QEC.Coding.TannerLiftedProduct.LPSLexicographicCounter.input_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:56:15.670207+00:00
 -- url     : https://prove2.me/theorems/780c53fd-a77c-49e5-9c7e-bb8afb09faf4

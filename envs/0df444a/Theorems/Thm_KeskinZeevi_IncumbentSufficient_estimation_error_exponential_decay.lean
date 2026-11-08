@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentSufficient_estimation_error_exponential_decay
 -- name    : KeskinZeevi.IncumbentSufficient.estimation_error_exponential_decay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:45:27.983579+00:00
 -- url     : https://prove2.me/theorems/f9e832e2-f503-4298-99ac-a55fa396bb7f

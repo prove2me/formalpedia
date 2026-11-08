@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Cheeger_testForm_mem_cycles
 -- name    : SimplicialIso.Cheeger.testForm_mem_cycles
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:24:09.236811+00:00
 -- url     : https://prove2.me/theorems/6d815fcc-f126-4f7f-a653-cbf95ce91d92

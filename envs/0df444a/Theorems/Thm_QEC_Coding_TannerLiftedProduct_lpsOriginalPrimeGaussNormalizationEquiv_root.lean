@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalPrimeGaussNormalizationEquiv_root
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalPrimeGaussNormalizationEquiv_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:48:19.692384+00:00
 -- url     : https://prove2.me/theorems/28b6fda9-0010-48f5-89e4-369e986a8c8a

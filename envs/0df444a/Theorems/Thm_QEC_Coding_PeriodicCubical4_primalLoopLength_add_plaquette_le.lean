@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalLoopLength_add_plaquette_le
 -- name    : QEC.Coding.PeriodicCubical4.primalLoopLength_add_plaquette_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:49:41.342955+00:00
 -- url     : https://prove2.me/theorems/d91898f7-22fb-47a2-91dc-58de4907d555

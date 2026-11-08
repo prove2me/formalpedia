@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_Myopic_myopicPrice_le_optPrice
 -- name    : ReferencePricing.Myopic.myopicPrice_le_optPrice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T09:47:15.671109+00:00
 -- url     : https://prove2.me/theorems/33238de3-e01a-45c5-8d50-b46e7ad3ce05

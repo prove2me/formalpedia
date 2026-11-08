@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCAEndToEndMission_flux_summation
 -- name    : MCAEndToEndMission.flux_summation
--- status  : Open
+-- status  : Proved
 -- author  : @chenyu
 -- created : 2026-10-30T16:14:28.703058+00:00
 -- url     : https://prove2.me/theorems/154773e2-e0fa-49cf-a20b-ac5faffb1f84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_env3_turn58_original_truncated_negative_moment_exp_bound
 -- name    : AvramDividend.Classical.avram_bv_env3_turn58_original_truncated_negative_moment_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:34:07.750965+00:00
 -- url     : https://prove2.me/theorems/539b2913-fae0-4467-b9bd-3fd7c9c54bdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxCD_eq_2_descent_lemma
 -- name    : KarimiPL.ProxCD.eq_2_descent_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:55:11.926139+00:00
 -- url     : https://prove2.me/theorems/208c2f4a-50c0-4267-9ab1-d4ab9e17101e

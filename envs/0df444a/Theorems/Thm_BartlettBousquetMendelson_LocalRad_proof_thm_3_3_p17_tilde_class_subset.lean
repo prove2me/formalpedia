@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettBousquetMendelson_LocalRad_proof_thm_3_3_p17_tilde_class_subset
 -- name    : BartlettBousquetMendelson.LocalRad.proof_thm_3_3_p17_tilde_class_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:01:55.963467+00:00
 -- url     : https://prove2.me/theorems/bf254458-2cae-4cc5-9a72-bfee28726472

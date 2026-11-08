@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RouzeFranca_LearnGibbs_abs_trace_le_lip_mul_W1
 -- name    : RouzeFranca.LearnGibbs.abs_trace_le_lip_mul_W1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:47:59.123955+00:00
 -- url     : https://prove2.me/theorems/b46ef98b-350f-47b9-9bfc-80df2cda5dca

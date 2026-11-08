@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreedmanTail_theorem_4_1_freedman_inequality
 -- name    : FreedmanTail.theorem_4_1_freedman_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:13:33.677989+00:00
 -- url     : https://prove2.me/theorems/1653a750-550a-4bdb-9921-acdd370ec5e0

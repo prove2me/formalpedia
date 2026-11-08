@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_reachable_step_polytime
 -- name    : ConsensusHalvingItems.Additive.reachable_step_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:37:53.184219+00:00
 -- url     : https://prove2.me/theorems/bf4b12e9-61c0-4707-91f1-59a29c432429

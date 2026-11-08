@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcNetStab_theorem_3
 -- name    : ProcNetStab.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:43:35.794221+00:00
 -- url     : https://prove2.me/theorems/6d4e44d1-d863-4282-80a7-a6a862f96fa0

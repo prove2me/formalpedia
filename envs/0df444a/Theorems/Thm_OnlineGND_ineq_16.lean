@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineGND_ineq_16
 -- name    : OnlineGND.ineq_16
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:21:01.336247+00:00
 -- url     : https://prove2.me/theorems/c6f9a6a2-cf1c-4e47-801a-3480a6172181

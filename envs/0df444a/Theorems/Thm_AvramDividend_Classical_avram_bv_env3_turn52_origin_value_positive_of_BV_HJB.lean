@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_env3_turn52_origin_value_positive_of_BV_HJB
 -- name    : AvramDividend.Classical.avram_bv_env3_turn52_origin_value_positive_of_BV_HJB
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:06:32.76995+00:00
 -- url     : https://prove2.me/theorems/92e61d41-6f62-41fd-9b57-494e7a768c2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExitSpirals_lemma_2
 -- name    : ExitSpirals.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:02:25.813049+00:00
 -- url     : https://prove2.me/theorems/4362dce0-42bc-4a60-a277-0bb264144811

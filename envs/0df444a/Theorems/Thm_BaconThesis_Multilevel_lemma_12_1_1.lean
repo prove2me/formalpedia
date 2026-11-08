@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Multilevel_lemma_12_1_1
 -- name    : BaconThesis.Multilevel.lemma_12_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:38:28.954496+00:00
 -- url     : https://prove2.me/theorems/2fd46f8c-cac7-4718-af39-9764c837cd69

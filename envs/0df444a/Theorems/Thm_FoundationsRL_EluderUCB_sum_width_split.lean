@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_EluderUCB_sum_width_split
 -- name    : FoundationsRL.EluderUCB.sum_width_split
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:20:33.609244+00:00
 -- url     : https://prove2.me/theorems/3594b3cf-cbdd-43da-aaea-0ee3a2e1faad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCore_epsTight_mono
 -- name    : FastCore.epsTight_mono
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:32:02.237267+00:00
 -- url     : https://prove2.me/theorems/43b20565-888b-4ef9-bfe3-283af13932fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImbalPricing_eq_3
 -- name    : ImbalPricing.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:36:26.629744+00:00
 -- url     : https://prove2.me/theorems/378da3c7-f751-4cea-bf05-6dd2392c0706

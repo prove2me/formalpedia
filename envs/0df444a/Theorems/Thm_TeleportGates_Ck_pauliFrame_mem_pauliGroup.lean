@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleportGates_Ck_pauliFrame_mem_pauliGroup
 -- name    : TeleportGates.Ck.pauliFrame_mem_pauliGroup
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:40.443963+00:00
 -- url     : https://prove2.me/theorems/58a1554c-1108-4e27-80b4-1863a79bc1e5

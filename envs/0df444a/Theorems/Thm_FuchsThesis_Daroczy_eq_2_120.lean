@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Daroczy_eq_2_120
 -- name    : FuchsThesis.Daroczy.eq_2_120
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:22:20.150641+00:00
 -- url     : https://prove2.me/theorems/f954be0b-fe55-48fe-807f-72bdd4984f78

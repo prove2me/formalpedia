@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundEntPPT_partialTransposeRect_kronecker_sandwich
 -- name    : BoundEntPPT.partialTransposeRect_kronecker_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:00:52.436982+00:00
 -- url     : https://prove2.me/theorems/cbc73f0f-2dbc-4cae-84c5-7e935338feb4

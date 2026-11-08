@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_source_cutoff_laplace_past_future_factor
 -- name    : AvramDividend.Classical.avram_bv_jump8_source_cutoff_laplace_past_future_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T17:30:31.313137+00:00
 -- url     : https://prove2.me/theorems/6e170aea-3c05-47bb-91d6-c54970050b9e

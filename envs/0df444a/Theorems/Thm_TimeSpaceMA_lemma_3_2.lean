@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeSpaceMA_lemma_3_2
 -- name    : TimeSpaceMA.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:56:47.867077+00:00
 -- url     : https://prove2.me/theorems/1555695d-9672-44e1-93d3-4b0e7a1ac10e

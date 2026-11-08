@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiSignedCubeSeries_sq_eq_theta_wronskian
 -- name    : QEC.Coding.TannerLiftedProduct.jacobiSignedCubeSeries_sq_eq_theta_wronskian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:32:23.883081+00:00
 -- url     : https://prove2.me/theorems/a08827d9-1dc0-4354-bd9f-8452a113409e

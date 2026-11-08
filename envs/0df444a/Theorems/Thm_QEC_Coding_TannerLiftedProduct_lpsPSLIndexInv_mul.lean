@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsPSLIndexInv_mul
 -- name    : QEC.Coding.TannerLiftedProduct.lpsPSLIndexInv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:55:12.481848+00:00
 -- url     : https://prove2.me/theorems/a114e6c8-615c-4c1c-ae44-c7ba19c31263

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionApproxPNE_param_choice_admissible
 -- name    : CongestionApproxPNE.param_choice_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:18:27.423062+00:00
 -- url     : https://prove2.me/theorems/a0832894-07c3-4c5c-97dd-3c67e24388de

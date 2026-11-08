@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledCuspChart_toFun
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledCuspChart_toFun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:58:12.291167+00:00
 -- url     : https://prove2.me/theorems/5523ec39-fed2-44cb-8b68-8750d4f6d279

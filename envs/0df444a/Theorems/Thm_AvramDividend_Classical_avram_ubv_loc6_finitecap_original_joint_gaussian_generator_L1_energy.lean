@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ubv_loc6_finitecap_original_joint_gaussian_generator_L1_energy
 -- name    : AvramDividend.Classical.avram_ubv_loc6_finitecap_original_joint_gaussian_generator_L1_energy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-07T00:20:17.200612+00:00
 -- url     : https://prove2.me/theorems/c6c22198-93b8-4f50-b534-d1e6b7cbb90f

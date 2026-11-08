@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_cond12_optimal
 -- name    : Sherbrooke.cond12_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:27:48.039988+00:00
 -- url     : https://prove2.me/theorems/9ec41d77-f76d-49ea-93ce-bd1c0f2a7dff

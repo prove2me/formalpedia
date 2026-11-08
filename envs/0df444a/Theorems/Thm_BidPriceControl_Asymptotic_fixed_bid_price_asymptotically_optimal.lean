@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_fixed_bid_price_asymptotically_optimal
 -- name    : BidPriceControl.Asymptotic.fixed_bid_price_asymptotically_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:39:47.78998+00:00
 -- url     : https://prove2.me/theorems/0f119bb7-9daf-4b07-bed5-6132a81dba6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_lowerHull_eq_of_cond12
 -- name    : Sherbrooke.lowerHull_eq_of_cond12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:27:18.370484+00:00
 -- url     : https://prove2.me/theorems/359e896e-6494-467c-8c2c-3c6505db2945

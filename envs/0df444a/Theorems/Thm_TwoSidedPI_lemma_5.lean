@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPI_lemma_5
 -- name    : TwoSidedPI.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:12:27.795729+00:00
 -- url     : https://prove2.me/theorems/92174442-cecc-471b-87b0-c8cc37abc168

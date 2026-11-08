@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrechetPrefs_psi_strictMono
 -- name    : FrechetPrefs.psi_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:04:05.73911+00:00
 -- url     : https://prove2.me/theorems/e92aff0f-c4af-426b-b939-fbe4d04e3446

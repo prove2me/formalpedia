@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FamilyGenTest_rdelta_nonneg
 -- name    : FamilyGenTest.rdelta_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:12:52.707537+00:00
 -- url     : https://prove2.me/theorems/af9fa6f0-923b-49df-b5bc-990a38493d38

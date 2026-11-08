@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJQCoefficient_rational
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJQCoefficient_rational
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:48:18.717358+00:00
 -- url     : https://prove2.me/theorems/778dcbe2-417d-4aa9-85bd-5260f62b74d4

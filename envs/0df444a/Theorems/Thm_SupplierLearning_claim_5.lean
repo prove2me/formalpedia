@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierLearning_claim_5
 -- name    : SupplierLearning.claim_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:48:12.886801+00:00
 -- url     : https://prove2.me/theorems/5e5b9f7d-efb3-4b90-995f-3595f18b941c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P67_klm_threefoldPorts
 -- name    : QAlgorithms.Papers.Independent.Intake100.P67.klm_threefoldPorts
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:33:03.661656+00:00
 -- url     : https://prove2.me/theorems/8411c877-1891-4142-9db6-640d033e55d2

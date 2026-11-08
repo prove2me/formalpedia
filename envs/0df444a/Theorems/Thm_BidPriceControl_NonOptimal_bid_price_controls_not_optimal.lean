@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_NonOptimal_bid_price_controls_not_optimal
 -- name    : BidPriceControl.NonOptimal.bid_price_controls_not_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:27:01.241717+00:00
 -- url     : https://prove2.me/theorems/bc375958-0611-4837-9e41-a72799611e1e

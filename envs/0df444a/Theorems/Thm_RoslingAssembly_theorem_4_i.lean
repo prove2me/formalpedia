@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_theorem_4_i
 -- name    : RoslingAssembly.theorem_4_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T04:01:56.487014+00:00
 -- url     : https://prove2.me/theorems/5f57e143-04c4-4f87-a670-aff45edb82e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughgardenPOA_theorem_3_2_fixed_pair
 -- name    : RoughgardenPOA.theorem_3_2_fixed_pair
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:38:32.923217+00:00
 -- url     : https://prove2.me/theorems/536fbeb8-6cea-4810-ad7c-c879b5a571fb

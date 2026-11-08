@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsHeckePrimePowerLinearMap_eq_polynomial
 -- name    : QEC.Coding.TannerLiftedProduct.lpsHeckePrimePowerLinearMap_eq_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:28:52.71575+00:00
 -- url     : https://prove2.me/theorems/ce1bf833-21a6-4c42-9a99-ccc242182bfc

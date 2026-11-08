@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_vcgPay_le_bid
 -- name    : RelaxRoundPoA.vcgPay_le_bid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:50:44.480203+00:00
 -- url     : https://prove2.me/theorems/dc8f8b2a-744b-4d39-a311-dee67100f2f5

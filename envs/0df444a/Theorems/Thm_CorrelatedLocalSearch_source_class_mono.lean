@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedLocalSearch_source_class_mono
 -- name    : CorrelatedLocalSearch.source_class_mono
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:40:12.730193+00:00
 -- url     : https://prove2.me/theorems/09c56b66-ab0e-4fcf-b0e5-900fb4c15134

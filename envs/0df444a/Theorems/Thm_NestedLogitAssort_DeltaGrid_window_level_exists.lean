@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_window_level_exists
 -- name    : NestedLogitAssort.DeltaGrid.window_level_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:10:04.989573+00:00
 -- url     : https://prove2.me/theorems/c39cc733-4e76-49f5-9ff1-b80208608cdb

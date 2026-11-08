@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_HypergraphProduct_tillichZemorHypergraphProductDiagonalFullRank
 -- name    : QEC.Coding.HypergraphProduct.tillichZemorHypergraphProductDiagonalFullRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:42:55.042585+00:00
 -- url     : https://prove2.me/theorems/efc8e2e4-6dca-442e-9af2-82dabf282a92

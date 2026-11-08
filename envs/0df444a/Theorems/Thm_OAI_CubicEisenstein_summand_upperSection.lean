@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_summand_upperSection
 -- name    : OAI.CubicEisenstein.summand_upperSection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:52:10.847358+00:00
 -- url     : https://prove2.me/theorems/1babc72c-a400-4c39-87b1-13f22742950a

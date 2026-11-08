@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtrlVolMFG_lemma_3_8
 -- name    : CtrlVolMFG.lemma_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:24:13.298526+00:00
 -- url     : https://prove2.me/theorems/ab07c595-42df-4c5e-b960-02922e0610ab

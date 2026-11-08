@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCuspGroup_width_eq
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCuspGroup_width_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:28:58.597939+00:00
 -- url     : https://prove2.me/theorems/14a4a4dc-03ee-49cc-bc43-d472d0bacef7

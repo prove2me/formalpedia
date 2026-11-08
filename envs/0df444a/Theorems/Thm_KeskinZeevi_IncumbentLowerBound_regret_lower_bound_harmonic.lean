@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentLowerBound_regret_lower_bound_harmonic
 -- name    : KeskinZeevi.IncumbentLowerBound.regret_lower_bound_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:03:44.656461+00:00
 -- url     : https://prove2.me/theorems/6e332777-3839-41b3-a1e3-eed365805c0a

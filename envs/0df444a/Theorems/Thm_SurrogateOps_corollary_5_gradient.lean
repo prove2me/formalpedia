@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurrogateOps_corollary_5_gradient
 -- name    : SurrogateOps.corollary_5_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:51:09.28376+00:00
 -- url     : https://prove2.me/theorems/483c6216-acbc-4b5a-bf02-d1fc2a6782ae

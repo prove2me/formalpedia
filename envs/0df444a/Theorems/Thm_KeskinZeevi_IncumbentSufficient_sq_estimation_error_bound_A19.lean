@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentSufficient_sq_estimation_error_bound_A19
 -- name    : KeskinZeevi.IncumbentSufficient.sq_estimation_error_bound_A19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:46:05.111459+00:00
 -- url     : https://prove2.me/theorems/7a6a9ea1-b638-434f-b840-b3f52e30a92d

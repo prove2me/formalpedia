@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LightningNetwork_RateBounds_eq_19_cosh_bound
 -- name    : LightningNetwork.RateBounds.eq_19_cosh_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:50:59.425551+00:00
 -- url     : https://prove2.me/theorems/f9ef28dd-5a92-4fc6-8f00-12e41a0e764d

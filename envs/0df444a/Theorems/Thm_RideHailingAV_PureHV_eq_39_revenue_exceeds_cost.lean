@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RideHailingAV_PureHV_eq_39_revenue_exceeds_cost
 -- name    : RideHailingAV.PureHV.eq_39_revenue_exceeds_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:27:26.38914+00:00
 -- url     : https://prove2.me/theorems/b8ee161b-1e3b-46c8-99f1-5b827f79917c

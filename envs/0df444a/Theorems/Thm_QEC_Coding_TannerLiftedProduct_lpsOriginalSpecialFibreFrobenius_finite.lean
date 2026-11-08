@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalSpecialFibreFrobenius_finite
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreFrobenius_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:00:34.388474+00:00
 -- url     : https://prove2.me/theorems/67249b51-1ef1-4941-ac5f-44ca3bbe73a0

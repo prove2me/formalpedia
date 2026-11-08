@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_detectableOn_cssQuditCode_extendLocal_of_card_lt
 -- name    : QEC.Coding.FiniteFieldPauli.detectableOn_cssQuditCode_extendLocal_of_card_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:50:05.32921+00:00
 -- url     : https://prove2.me/theorems/59bac83b-d623-4d8f-a164-f02ff2d3c953

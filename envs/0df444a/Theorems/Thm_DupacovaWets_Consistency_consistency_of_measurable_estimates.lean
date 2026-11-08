@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_consistency_of_measurable_estimates
 -- name    : DupacovaWets.Consistency.consistency_of_measurable_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:07:31.984437+00:00
 -- url     : https://prove2.me/theorems/b1603c16-30bf-4f84-99f4-2ffcb8c8235c

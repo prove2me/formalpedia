@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughgardenPOA_theorem_3_2_extension_static
 -- name    : RoughgardenPOA.theorem_3_2_extension_static
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:39:26.085755+00:00
 -- url     : https://prove2.me/theorems/0b9f1b00-df0c-4901-899c-adea71ad15d1

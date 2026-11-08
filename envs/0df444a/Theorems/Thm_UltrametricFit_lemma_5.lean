@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UltrametricFit_lemma_5
 -- name    : UltrametricFit.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:45:06.975664+00:00
 -- url     : https://prove2.me/theorems/e91999ff-d16a-478a-8f68-a31811877828

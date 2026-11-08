@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MinCut_lemma_3_37
 -- name    : CombOpt.MinCut.lemma_3_37
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:02:44.74843+00:00
 -- url     : https://prove2.me/theorems/849624ca-8f53-4f65-b477-ba40118e5044

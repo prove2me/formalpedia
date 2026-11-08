@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineZeroSumMG_eq_B_3
 -- name    : OfflineZeroSumMG.eq_B_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:28:46.284637+00:00
 -- url     : https://prove2.me/theorems/423400e0-cb68-4b43-8bf4-e5faf094a5c5

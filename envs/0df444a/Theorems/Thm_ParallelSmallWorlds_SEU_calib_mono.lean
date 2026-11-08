@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelSmallWorlds_SEU_calib_mono
 -- name    : ParallelSmallWorlds.SEU.calib_mono
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:53:29.051399+00:00
 -- url     : https://prove2.me/theorems/40afd4fd-8f59-49a0-b215-90118a732e51

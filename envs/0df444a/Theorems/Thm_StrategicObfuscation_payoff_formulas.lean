@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicObfuscation_payoff_formulas
 -- name    : StrategicObfuscation.payoff_formulas
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:52:27.893491+00:00
 -- url     : https://prove2.me/theorems/02fa1e20-304d-4f39-b118-528707cddb96

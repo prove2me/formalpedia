@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidWelfareFPA_lambda2_equation
 -- name    : LiquidWelfareFPA.lambda2_equation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:33.646197+00:00
 -- url     : https://prove2.me/theorems/2dbaada8-7bdf-4340-a836-5c6917cb6d93

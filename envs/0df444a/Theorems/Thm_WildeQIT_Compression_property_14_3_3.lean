@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Compression_property_14_3_3
 -- name    : WildeQIT.Compression.property_14_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:25.528878+00:00
 -- url     : https://prove2.me/theorems/ff978ac0-88d2-4538-b933-7ad489a28fa1

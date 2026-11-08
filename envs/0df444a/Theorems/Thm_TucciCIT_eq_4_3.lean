@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TucciCIT_eq_4_3
 -- name    : TucciCIT.eq_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:30:20.213194+00:00
 -- url     : https://prove2.me/theorems/37b37d4f-5bc0-45d0-ba40-83e3292d6b10

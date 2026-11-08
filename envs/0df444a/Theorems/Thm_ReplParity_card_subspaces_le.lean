@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReplParity_card_subspaces_le
 -- name    : ReplParity.card_subspaces_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:37:41.900225+00:00
 -- url     : https://prove2.me/theorems/c21efb16-5955-4030-897c-5bdb98e7cfb9

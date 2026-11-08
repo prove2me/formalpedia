@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolySampIso_lemma_2
 -- name    : PolySampIso.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:28:07.60829+00:00
 -- url     : https://prove2.me/theorems/cadc760d-7ff3-400a-bb0e-85fdb978c00e

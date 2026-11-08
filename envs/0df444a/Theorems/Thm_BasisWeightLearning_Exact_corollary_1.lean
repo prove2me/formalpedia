@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BasisWeightLearning_Exact_corollary_1
 -- name    : BasisWeightLearning.Exact.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:22:23.207483+00:00
 -- url     : https://prove2.me/theorems/34f2bee2-7e03-4376-b61a-cc758cf7d816

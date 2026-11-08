@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P19_fullSubcategory_adjunction
 -- name    : QAlgorithms.Papers.Independent.Intake100.P19.fullSubcategory_adjunction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:24:13.489845+00:00
 -- url     : https://prove2.me/theorems/b0d09b2c-b383-4656-955c-381b33e744cc

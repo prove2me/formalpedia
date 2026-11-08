@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Chi2QEC_corrupted_finrank_le
 -- name    : Chi2QEC.corrupted_finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:45:22.936674+00:00
 -- url     : https://prove2.me/theorems/bdd9311d-14e5-4c5e-ba58-63fbcf99b17c

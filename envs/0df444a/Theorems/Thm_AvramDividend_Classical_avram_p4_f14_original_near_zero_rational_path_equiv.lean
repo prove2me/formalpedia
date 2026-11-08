@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f14_original_near_zero_rational_path_equiv
 -- name    : AvramDividend.Classical.avram_p4_f14_original_near_zero_rational_path_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T19:34:54.833037+00:00
 -- url     : https://prove2.me/theorems/516bf573-0839-424e-ba30-fd61ed132bb8

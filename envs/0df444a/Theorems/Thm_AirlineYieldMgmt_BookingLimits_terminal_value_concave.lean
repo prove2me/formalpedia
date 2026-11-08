@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AirlineYieldMgmt_BookingLimits_terminal_value_concave
 -- name    : AirlineYieldMgmt.BookingLimits.terminal_value_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:12:37.334986+00:00
 -- url     : https://prove2.me/theorems/d6cddb7d-728a-403e-ad9b-c2e163570c77

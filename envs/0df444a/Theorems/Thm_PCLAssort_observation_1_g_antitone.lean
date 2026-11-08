@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCLAssort_observation_1_g_antitone
 -- name    : PCLAssort.observation_1_g_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:22:05.666918+00:00
 -- url     : https://prove2.me/theorems/4faec6f9-b033-4f3d-b772-9bccb5f0067d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P06_normalSubgroupCrossedModule
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P06.normalSubgroupCrossedModule
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T22:51:47.887993+00:00
 -- url     : https://prove2.me/theorems/5ce57c8c-d4b8-42e0-a556-662f7b4f95b3

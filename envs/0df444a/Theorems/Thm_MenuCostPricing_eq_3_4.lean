@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MenuCostPricing_eq_3_4
 -- name    : MenuCostPricing.eq_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:36:01.549264+00:00
 -- url     : https://prove2.me/theorems/53611cda-5dcb-4bf0-b6be-5ab8df83b58e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f6_renewal_cdf_exponential_tonelli
 -- name    : AvramDividend.Classical.avram_p4_f6_renewal_cdf_exponential_tonelli
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:21:50.859544+00:00
 -- url     : https://prove2.me/theorems/847548b4-661a-414b-994f-5b5a7b87dbf0

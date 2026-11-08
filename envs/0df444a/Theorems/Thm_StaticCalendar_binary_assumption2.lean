@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticCalendar_binary_assumption2
 -- name    : StaticCalendar.binary_assumption2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:26:48.528502+00:00
 -- url     : https://prove2.me/theorems/d9fd4457-6c2a-4d64-af1a-5f064fcb2340

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiCubeProduct_signedEuler_map_C
 -- name    : QEC.Coding.TannerLiftedProduct.JacobiCubeProduct.signedEuler_map_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:36:35.344784+00:00
 -- url     : https://prove2.me/theorems/feff9391-e322-4932-99bf-f8ae85f16a5d

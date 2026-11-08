@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_bonus_max_minimal_execution
 -- name    : NisanRonen.Rounding.bonus_max_minimal_execution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:27:12.009477+00:00
 -- url     : https://prove2.me/theorems/56e31ec5-0bf9-4a16-8992-86f0335b446b

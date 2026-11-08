@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaDiscRL_lemma_J_1_sum_weights
 -- name    : AdaDiscRL.lemma_J_1_sum_weights
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:26:09.674241+00:00
 -- url     : https://prove2.me/theorems/977bd082-1575-4577-b115-7cf9fb375178

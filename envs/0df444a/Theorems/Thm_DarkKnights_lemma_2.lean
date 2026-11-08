@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkKnights_lemma_2
 -- name    : DarkKnights.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:42:29.523262+00:00
 -- url     : https://prove2.me/theorems/41667716-5cfa-44e8-a5a3-221914b3d4e0

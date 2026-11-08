@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_LeftRightCayleySquareComplex_exists_local_reduction_of_punctured_line_approximations
 -- name    : QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.exists_local_reduction_of_punctured_line_approximations
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:12:51.332376+00:00
 -- url     : https://prove2.me/theorems/b5625930-678b-4dc8-a1d1-29e20ee1909d

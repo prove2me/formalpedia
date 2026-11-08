@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCLAssort_lemma_2_edge_sign
 -- name    : PCLAssort.lemma_2_edge_sign
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:59.493183+00:00
 -- url     : https://prove2.me/theorems/32854e1d-b1a8-4f55-a688-271c566a53f9

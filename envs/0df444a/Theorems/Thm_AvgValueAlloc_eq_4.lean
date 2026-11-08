@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgValueAlloc_eq_4
 -- name    : AvgValueAlloc.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:39:07.511598+00:00
 -- url     : https://prove2.me/theorems/83c306d6-e466-4c43-885d-44cbeff6e982

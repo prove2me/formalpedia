@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllPhotonicRepeater_indirectZSuccess_mem_Icc
 -- name    : AllPhotonicRepeater.indirectZSuccess_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:22:00.898177+00:00
 -- url     : https://prove2.me/theorems/7ce9f8ed-27d3-4695-88a6-5bd7df8300dc

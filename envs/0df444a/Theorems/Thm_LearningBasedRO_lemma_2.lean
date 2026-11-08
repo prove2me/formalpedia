@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearningBasedRO_lemma_2
 -- name    : LearningBasedRO.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:55.511585+00:00
 -- url     : https://prove2.me/theorems/3cf2cf57-dc51-43ef-b9bc-5f66243eb1cd

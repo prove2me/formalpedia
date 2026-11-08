@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling_StableHalf_stable_nset_iff_transversal
 -- name    : Timetabling.StableHalf.stable_nset_iff_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:41:23.369785+00:00
 -- url     : https://prove2.me/theorems/b8e0e800-332d-4f74-a568-f918ddb8f9aa

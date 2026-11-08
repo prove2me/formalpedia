@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighOrderWalks_OneSided_corollary_5_3
 -- name    : HighOrderWalks.OneSided.corollary_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:06.421864+00:00
 -- url     : https://prove2.me/theorems/fe2fce54-01ab-48b8-895f-43917c5f1c02

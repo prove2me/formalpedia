@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_line8_well_defined
 -- name    : SepCostShare.line8_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:42.562623+00:00
 -- url     : https://prove2.me/theorems/b1a8182e-de70-40b2-931b-104fb336d38a

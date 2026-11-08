@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFCLiquidation_eq_4_8_relations
 -- name    : MFCLiquidation.eq_4_8_relations
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:25:25.723713+00:00
 -- url     : https://prove2.me/theorems/232887c8-8b71-4a4d-930e-10989c66409f

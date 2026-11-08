@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalModularNorm_polynomial_nonzero
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalModularNorm_polynomial_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:14:32.301666+00:00
 -- url     : https://prove2.me/theorems/a044aef3-94fd-45cf-a3ee-454e21ebe637

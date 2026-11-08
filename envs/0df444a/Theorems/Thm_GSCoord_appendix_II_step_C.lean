@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GSCoord_appendix_II_step_C
 -- name    : GSCoord.appendix_II_step_C
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:23:55.993698+00:00
 -- url     : https://prove2.me/theorems/2ccb02a0-bafa-4c48-a6c5-6c84a679069b

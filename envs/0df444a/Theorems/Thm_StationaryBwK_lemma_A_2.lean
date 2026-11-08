@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StationaryBwK_lemma_A_2
 -- name    : StationaryBwK.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:51:24.665395+00:00
 -- url     : https://prove2.me/theorems/7c5ec3c1-1b8d-423c-888c-9beb10d1f500

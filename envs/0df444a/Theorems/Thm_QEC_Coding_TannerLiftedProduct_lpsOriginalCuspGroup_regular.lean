@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCuspGroup_regular
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCuspGroup_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:29:01.912506+00:00
 -- url     : https://prove2.me/theorems/5e078dc7-529e-4990-8bc0-5ca3de93ca6c

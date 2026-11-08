@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMarkovAssort_Duality_proposition_1
 -- name    : RobustMarkovAssort.Duality.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T23:18:41.880894+00:00
 -- url     : https://prove2.me/theorems/10c56f19-71e4-4789-bb12-b1cbaaed16c2

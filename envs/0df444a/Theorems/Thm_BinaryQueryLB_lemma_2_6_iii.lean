@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinaryQueryLB_lemma_2_6_iii
 -- name    : BinaryQueryLB.lemma_2_6_iii
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:48:15.645245+00:00
 -- url     : https://prove2.me/theorems/99465002-73d2-4333-b6d7-940a388964a5

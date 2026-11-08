@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Linear_osmd_zero_potential
 -- name    : RegretBandits.Linear.osmd_zero_potential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:33:50.22538+00:00
 -- url     : https://prove2.me/theorems/22e7826c-295c-4763-863e-0741bdcf8373

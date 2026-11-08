@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerCutDominants_lemma_1
 -- name    : SteinerCutDominants.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:16:20.444469+00:00
 -- url     : https://prove2.me/theorems/59f37885-9f7f-4424-9e8d-a923f657125e

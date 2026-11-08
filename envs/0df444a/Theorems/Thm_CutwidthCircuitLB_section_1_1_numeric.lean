@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CutwidthCircuitLB_section_1_1_numeric
 -- name    : CutwidthCircuitLB.section_1_1_numeric
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:25:37.382322+00:00
 -- url     : https://prove2.me/theorems/e062e3eb-9b37-4b2e-86b5-e2d92c441147

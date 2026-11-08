@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WHMultiplicativity_isChannel_wernerHolevo
 -- name    : WHMultiplicativity.isChannel_wernerHolevo
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:23:12.513573+00:00
 -- url     : https://prove2.me/theorems/e02e5046-6622-4b79-a737-9630d45070c1

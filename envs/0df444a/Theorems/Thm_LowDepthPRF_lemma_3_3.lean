@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowDepthPRF_lemma_3_3
 -- name    : LowDepthPRF.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:35:24.034892+00:00
 -- url     : https://prove2.me/theorems/dcc30478-26a7-443c-8013-b9b1edbb7502

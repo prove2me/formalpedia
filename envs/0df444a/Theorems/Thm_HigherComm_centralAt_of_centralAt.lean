@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherComm_centralAt_of_centralAt
 -- name    : HigherComm.centralAt_of_centralAt
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-06T16:26:02.421112+00:00
 -- url     : https://prove2.me/theorems/ea04dd55-86e2-430d-895d-a169db1a1a18

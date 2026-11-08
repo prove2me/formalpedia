@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_cadlag_intrinsic_weighted_cutoff_borel
 -- name    : AvramDividend.Classical.avram_bv_jump8_cadlag_intrinsic_weighted_cutoff_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T18:50:21.778828+00:00
 -- url     : https://prove2.me/theorems/dbbe3fca-38c2-430c-bfa8-3eb481394d59

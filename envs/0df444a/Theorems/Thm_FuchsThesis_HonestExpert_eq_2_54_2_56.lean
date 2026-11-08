@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_HonestExpert_eq_2_54_2_56
 -- name    : FuchsThesis.HonestExpert.eq_2_54_2_56
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:22:36.548664+00:00
 -- url     : https://prove2.me/theorems/e3532232-f448-427e-adfc-72c737478381

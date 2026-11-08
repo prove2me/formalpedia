@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueSignal_separating_CR
 -- name    : QueueSignal.separating_CR
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:39.139248+00:00
 -- url     : https://prove2.me/theorems/6dfb36c3-d59c-43e1-9610-cb3791ee8bd9

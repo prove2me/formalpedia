@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p3_2_original_strict_cash_grid_discounted_upper
 -- name    : AvramDividend.Classical.avram_p3_2_original_strict_cash_grid_discounted_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T00:37:42.435931+00:00
 -- url     : https://prove2.me/theorems/61b7e0a6-2b57-4365-bfdd-0f526725abf7

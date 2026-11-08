@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KempeCloning_sector_invariant
 -- name    : KempeCloning.sector_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:25:22.536921+00:00
 -- url     : https://prove2.me/theorems/08ceb676-e2bb-45d5-8431-9e55d54fbab2

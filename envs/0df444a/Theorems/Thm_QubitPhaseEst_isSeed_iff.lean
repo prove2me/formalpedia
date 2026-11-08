@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QubitPhaseEst_isSeed_iff
 -- name    : QubitPhaseEst.isSeed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:19:25.613989+00:00
 -- url     : https://prove2.me/theorems/0149f822-54cb-442f-8a28-03f8e7f76942

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPUA_theorem_7_routine_calculation
 -- name    : RobustSPUA.theorem_7_routine_calculation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:44:21.130703+00:00
 -- url     : https://prove2.me/theorems/7f4562d3-8b01-4bb1-aa7f-b28a8dde1264

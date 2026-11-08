@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HMBinPacking_lemma_1
 -- name    : HMBinPacking.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:00:25.637846+00:00
 -- url     : https://prove2.me/theorems/b73a7b70-f59a-43c7-a4c9-d78629a3db80

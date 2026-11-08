@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapacityGames_support_eq_contributors
 -- name    : CapacityGames.support_eq_contributors
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:33.640055+00:00
 -- url     : https://prove2.me/theorems/a663d77f-2b29-4b7c-9e42-6ab37b35532a

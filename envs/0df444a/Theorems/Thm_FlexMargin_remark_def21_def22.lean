@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexMargin_remark_def21_def22
 -- name    : FlexMargin.remark_def21_def22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:45:27.241471+00:00
 -- url     : https://prove2.me/theorems/cabbc94d-4db3-4289-8faa-fc8c9955d33f

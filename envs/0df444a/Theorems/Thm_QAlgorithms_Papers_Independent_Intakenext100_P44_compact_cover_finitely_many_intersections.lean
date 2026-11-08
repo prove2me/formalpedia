@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P44_compact_cover_finitely_many_intersections
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P44.compact_cover_finitely_many_intersections
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:53:01.172075+00:00
 -- url     : https://prove2.me/theorems/df33096d-c823-4624-861b-7293a36f2da1

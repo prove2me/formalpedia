@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointNonManip_sne_extreme_points
 -- name    : JointNonManip.sne_extreme_points
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:11:08.429627+00:00
 -- url     : https://prove2.me/theorems/713a57c5-f613-451b-93b3-a953e1b152d8

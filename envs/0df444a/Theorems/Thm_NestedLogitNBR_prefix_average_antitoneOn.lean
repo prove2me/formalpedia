@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitNBR_prefix_average_antitoneOn
 -- name    : NestedLogitNBR.prefix_average_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:44:07.998617+00:00
 -- url     : https://prove2.me/theorems/693ed86b-9050-42ca-ab2f-69868e744cd6

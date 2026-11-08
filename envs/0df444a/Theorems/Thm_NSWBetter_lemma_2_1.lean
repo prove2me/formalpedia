@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NSWBetter_lemma_2_1
 -- name    : NSWBetter.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:51:46.531782+00:00
 -- url     : https://prove2.me/theorems/c7ca5085-fb2b-4c36-a902-55d96105bef7

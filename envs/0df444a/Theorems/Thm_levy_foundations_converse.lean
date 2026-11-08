@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_converse
 -- name    : levy_foundations_converse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:36:38.083782+00:00
 -- url     : https://prove2.me/theorems/b8bde996-8a61-434f-83bd-3b8df4a9265d

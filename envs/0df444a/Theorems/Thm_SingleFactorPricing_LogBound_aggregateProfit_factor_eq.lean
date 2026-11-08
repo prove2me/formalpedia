@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleFactorPricing_LogBound_aggregateProfit_factor_eq
 -- name    : SingleFactorPricing.LogBound.aggregateProfit_factor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:16:57.899088+00:00
 -- url     : https://prove2.me/theorems/9527b3ed-7d53-4af2-8a33-90728ffe73fc

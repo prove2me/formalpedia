@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCore_epsBidderOptimal_of_certificate
 -- name    : FastCore.epsBidderOptimal_of_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:32:02.816861+00:00
 -- url     : https://prove2.me/theorems/5bf758e4-24b7-417a-a5e6-932d38d7368a

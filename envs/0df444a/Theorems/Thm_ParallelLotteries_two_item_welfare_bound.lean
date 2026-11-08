@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelLotteries_two_item_welfare_bound
 -- name    : ParallelLotteries.two_item_welfare_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:36:56.178104+00:00
 -- url     : https://prove2.me/theorems/da216b1d-4c0f-4ecb-9a45-b8b1e3fcffc5

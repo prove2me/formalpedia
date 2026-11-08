@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerReciprocalNormalAffine_fractionField
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerReciprocalNormalAffine_fractionField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:36:55.465202+00:00
 -- url     : https://prove2.me/theorems/e3e7f93b-6214-4b09-8cc1-d8993f0d29b9

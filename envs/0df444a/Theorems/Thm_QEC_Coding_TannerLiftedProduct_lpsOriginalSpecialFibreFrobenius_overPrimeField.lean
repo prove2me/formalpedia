@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalSpecialFibreFrobenius_overPrimeField
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreFrobenius_overPrimeField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:00:31.489262+00:00
 -- url     : https://prove2.me/theorems/ca0080ae-8a99-4017-a0ac-fd891ed66203

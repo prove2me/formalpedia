@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_route_runner_nat_prefix_masks_measurable
 -- name    : AvramDividend.Classical.avram_route_runner_nat_prefix_masks_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:45:55.34174+00:00
 -- url     : https://prove2.me/theorems/fcc7287c-2aa5-411a-9eb7-3b7f70ead3c2

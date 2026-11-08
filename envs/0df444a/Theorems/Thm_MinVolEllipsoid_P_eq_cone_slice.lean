@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinVolEllipsoid_P_eq_cone_slice
 -- name    : MinVolEllipsoid.P_eq_cone_slice
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:45:34.129643+00:00
 -- url     : https://prove2.me/theorems/62554b64-89fd-4d5f-a7d4-67758ca21876

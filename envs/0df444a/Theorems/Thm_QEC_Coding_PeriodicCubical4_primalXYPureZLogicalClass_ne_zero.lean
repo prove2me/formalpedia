@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalXYPureZLogicalClass_ne_zero
 -- name    : QEC.Coding.PeriodicCubical4.primalXYPureZLogicalClass_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:44:04.384195+00:00
 -- url     : https://prove2.me/theorems/bdf35828-3e9c-472c-8c7e-736201c4a5bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpatientQPTAS_lemma_2_5
 -- name    : ImpatientQPTAS.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T21:01:45.410493+00:00
 -- url     : https://prove2.me/theorems/8f0dac18-db8e-435c-8215-78ad44e8bbc7

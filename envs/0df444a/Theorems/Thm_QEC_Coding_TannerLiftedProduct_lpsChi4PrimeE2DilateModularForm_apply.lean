@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsChi4PrimeE2DilateModularForm_apply
 -- name    : QEC.Coding.TannerLiftedProduct.lpsChi4PrimeE2DilateModularForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:27:38.979907+00:00
 -- url     : https://prove2.me/theorems/4e5925d3-3b72-4dc7-9fda-7474eb7af071

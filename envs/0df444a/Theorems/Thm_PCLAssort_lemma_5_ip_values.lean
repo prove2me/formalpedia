@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCLAssort_lemma_5_ip_values
 -- name    : PCLAssort.lemma_5_ip_values
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:23:10.517687+00:00
 -- url     : https://prove2.me/theorems/2d86b1de-049d-42fb-b6fa-4a4197327338

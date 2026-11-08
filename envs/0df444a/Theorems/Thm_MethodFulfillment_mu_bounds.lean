@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MethodFulfillment_mu_bounds
 -- name    : MethodFulfillment.mu_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:13:01.381264+00:00
 -- url     : https://prove2.me/theorems/acc902a5-344f-4302-8c85-74449092ab81

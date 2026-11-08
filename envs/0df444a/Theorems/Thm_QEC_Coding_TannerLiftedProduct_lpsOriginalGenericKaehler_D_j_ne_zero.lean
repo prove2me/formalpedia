@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGenericKaehler_D_j_ne_zero
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGenericKaehler_D_j_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:18:17.287061+00:00
 -- url     : https://prove2.me/theorems/17fbc72d-c338-49f4-b3fb-3ab28a7f4f6a

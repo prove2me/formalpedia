@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGenericJDerivation_j
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGenericJDerivation_j
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:19:10.193106+00:00
 -- url     : https://prove2.me/theorems/81d4518d-33d1-45e7-87e7-53d73cfa30b0

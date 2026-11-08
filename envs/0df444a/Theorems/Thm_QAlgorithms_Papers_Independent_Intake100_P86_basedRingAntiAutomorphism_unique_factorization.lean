@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P86_basedRingAntiAutomorphism_unique_factorization
 -- name    : QAlgorithms.Papers.Independent.Intake100.P86.basedRingAntiAutomorphism_unique_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:28:16.464323+00:00
 -- url     : https://prove2.me/theorems/76c31ea0-df82-4af9-8536-35ade48bc7ad

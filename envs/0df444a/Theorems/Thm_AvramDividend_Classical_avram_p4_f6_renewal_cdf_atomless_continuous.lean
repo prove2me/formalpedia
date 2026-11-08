@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f6_renewal_cdf_atomless_continuous
 -- name    : AvramDividend.Classical.avram_p4_f6_renewal_cdf_atomless_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:21:46.889659+00:00
 -- url     : https://prove2.me/theorems/109f9c15-0c2c-464f-8039-67a33134e1b1

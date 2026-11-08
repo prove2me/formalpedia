@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AirlineYieldMgmt_BookingLimits_lemma1_binomial_convex
 -- name    : AirlineYieldMgmt.BookingLimits.lemma1_binomial_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:12:27.870453+00:00
 -- url     : https://prove2.me/theorems/e0dc6e73-422e-438d-8763-fbcdd0e851e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalNormalization_gaussRamificationIndex_one
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalNormalization_gaussRamificationIndex_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:33:17.019273+00:00
 -- url     : https://prove2.me/theorems/f5520dd9-372f-41cb-9a82-6e4bde3b782e

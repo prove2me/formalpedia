@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_radius_two_grid_card
 -- name    : QEC.Coding.BDL26RandomPerturbation.radius_two_grid_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:56:48.596193+00:00
 -- url     : https://prove2.me/theorems/3f4c5d4e-c948-488e-a18b-b2756ff32cee

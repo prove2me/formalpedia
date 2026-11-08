@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankOneBTF_proposition_2
 -- name    : RankOneBTF.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:24:03.854893+00:00
 -- url     : https://prove2.me/theorems/a53a9b86-f406-4246-88f3-76d282cc3bce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Packing_lemma_A_0_1
 -- name    : WildeQIT.Packing.lemma_A_0_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:07.135625+00:00
 -- url     : https://prove2.me/theorems/584d7293-0d88-49aa-a3b6-e340c0a61bd8

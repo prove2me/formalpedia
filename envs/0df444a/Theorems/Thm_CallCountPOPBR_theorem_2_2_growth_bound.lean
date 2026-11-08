@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallCountPOPBR_theorem_2_2_growth_bound
 -- name    : CallCountPOPBR.theorem_2_2_growth_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T08:06:51.729829+00:00
 -- url     : https://prove2.me/theorems/8894cde1-6f3e-4ce1-aef0-6d273ab80210

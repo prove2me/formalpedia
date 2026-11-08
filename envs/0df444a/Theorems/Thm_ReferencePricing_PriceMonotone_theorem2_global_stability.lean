@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_PriceMonotone_theorem2_global_stability
 -- name    : ReferencePricing.PriceMonotone.theorem2_global_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:56:59.640049+00:00
 -- url     : https://prove2.me/theorems/97990260-fc41-451d-bc03-8689d2f135c2

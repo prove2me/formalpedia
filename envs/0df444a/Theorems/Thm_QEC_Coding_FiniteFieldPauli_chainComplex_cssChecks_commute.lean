@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_chainComplex_cssChecks_commute
 -- name    : QEC.Coding.FiniteFieldPauli.chainComplex_cssChecks_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:51:57.801691+00:00
 -- url     : https://prove2.me/theorems/07181b25-b6d2-4094-b24c-cd5aa388de90

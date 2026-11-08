@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_argmin_measurable
 -- name    : DupacovaWets.Consistency.argmin_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:07:40.389075+00:00
 -- url     : https://prove2.me/theorems/3b9a4fcc-bf40-4227-97e1-72c5be60e353

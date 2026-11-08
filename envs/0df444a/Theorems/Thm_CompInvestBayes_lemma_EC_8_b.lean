@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompInvestBayes_lemma_EC_8_b
 -- name    : CompInvestBayes.lemma_EC_8_b
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:04:39.533993+00:00
 -- url     : https://prove2.me/theorems/1b85a81e-0458-45e8-b2b4-42059e85a113

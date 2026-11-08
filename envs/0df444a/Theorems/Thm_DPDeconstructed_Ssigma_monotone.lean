@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DPDeconstructed_Ssigma_monotone
 -- name    : DPDeconstructed.Ssigma_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:49:38.413243+00:00
 -- url     : https://prove2.me/theorems/23ee6259-5043-423e-ac3e-686e0a0c67db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughgardenPOA_eq_19_21_smooth_expectation
 -- name    : RoughgardenPOA.eq_19_21_smooth_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:37:50.461613+00:00
 -- url     : https://prove2.me/theorems/919ab4de-9e72-45bd-8667-e754039c4284

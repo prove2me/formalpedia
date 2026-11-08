@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevelSetScores_lintegral_weightedMass
 -- name    : LevelSetScores.lintegral_weightedMass
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:37:29.396307+00:00
 -- url     : https://prove2.me/theorems/b77c02c0-86ea-43f7-9123-43c79823dc13

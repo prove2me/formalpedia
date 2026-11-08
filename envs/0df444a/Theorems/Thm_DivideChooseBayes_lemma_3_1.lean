@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DivideChooseBayes_lemma_3_1
 -- name    : DivideChooseBayes.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:32:23.584985+00:00
 -- url     : https://prove2.me/theorems/4b8cb2af-7657-4883-9198-57cb6765a0d6

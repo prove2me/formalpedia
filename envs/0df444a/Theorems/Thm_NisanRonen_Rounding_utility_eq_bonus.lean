@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_utility_eq_bonus
 -- name    : NisanRonen.Rounding.utility_eq_bonus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:26:33.216519+00:00
 -- url     : https://prove2.me/theorems/310b1c86-abf0-44f8-ba8d-e755ca3dd979

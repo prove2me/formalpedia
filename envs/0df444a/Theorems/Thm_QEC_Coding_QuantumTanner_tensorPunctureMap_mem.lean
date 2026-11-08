@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_tensorPunctureMap_mem
 -- name    : QEC.Coding.QuantumTanner.tensorPunctureMap_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:51:25.742834+00:00
 -- url     : https://prove2.me/theorems/14ddd838-3863-44e5-baa0-c3be7bb084a1

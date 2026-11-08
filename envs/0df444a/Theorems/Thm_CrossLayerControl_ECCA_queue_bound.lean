@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_queue_bound
 -- name    : CrossLayerControl.ECCA.queue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:35:02.792967+00:00
 -- url     : https://prove2.me/theorems/7b2abcf1-93c2-4a3a-b9f8-9b158164132e

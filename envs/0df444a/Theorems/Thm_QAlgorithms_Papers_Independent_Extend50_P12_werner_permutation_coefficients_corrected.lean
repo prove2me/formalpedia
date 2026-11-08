@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P12_werner_permutation_coefficients_corrected
 -- name    : QAlgorithms.Papers.Independent.Extend50.P12.werner_permutation_coefficients_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T19:54:22.713147+00:00
 -- url     : https://prove2.me/theorems/13f59785-fa06-4289-b800-3667b2682aa3

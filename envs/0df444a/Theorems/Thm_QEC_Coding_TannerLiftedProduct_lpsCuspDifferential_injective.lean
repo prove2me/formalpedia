@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsCuspDifferential_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsCuspDifferential_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:29:06.898263+00:00
 -- url     : https://prove2.me/theorems/f6c40de8-3b29-45d0-a93a-c6530b73fcd0

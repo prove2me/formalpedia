@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilatableEntropy_sum_parent_le_MQ
 -- name    : DilatableEntropy.sum_parent_le_MQ
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:52:23.979397+00:00
 -- url     : https://prove2.me/theorems/4686446c-434d-42e1-ae8d-1b5ade62c9c6

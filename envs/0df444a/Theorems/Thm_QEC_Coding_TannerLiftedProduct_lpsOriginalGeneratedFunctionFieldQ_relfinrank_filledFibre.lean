@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGeneratedFunctionFieldQ_relfinrank_filledFibre
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGeneratedFunctionFieldQ_relfinrank_filledFibre
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:34:40.949182+00:00
 -- url     : https://prove2.me/theorems/d8428536-8649-4fc8-809d-f85e1b18c8dc

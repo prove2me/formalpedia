@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsIntegralCuspHecke_polynomial_coe
 -- name    : QEC.Coding.TannerLiftedProduct.lpsIntegralCuspHecke_polynomial_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:36:39.987629+00:00
 -- url     : https://prove2.me/theorems/4031bbdb-78b6-472c-9761-a9ab4bd400c6

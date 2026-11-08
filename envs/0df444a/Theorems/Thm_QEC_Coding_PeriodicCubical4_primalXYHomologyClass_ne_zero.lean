@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalXYHomologyClass_ne_zero
 -- name    : QEC.Coding.PeriodicCubical4.primalXYHomologyClass_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:44:14.04025+00:00
 -- url     : https://prove2.me/theorems/2d87d3b3-0e83-490e-8d99-7bb9d1afbc11

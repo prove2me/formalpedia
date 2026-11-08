@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_taggedBasis_apply_eq_product
 -- name    : QEC.Distillation.taggedBasis_apply_eq_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:41:33.927585+00:00
 -- url     : https://prove2.me/theorems/6af16f00-08b0-4f8a-afcc-7bb5a4ca0135

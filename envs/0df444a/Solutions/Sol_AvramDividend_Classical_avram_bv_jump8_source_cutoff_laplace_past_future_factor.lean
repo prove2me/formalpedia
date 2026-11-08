@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_bv_jump8_source_cutoff_laplace_past_future_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-06T18:06:58.088997+00:00
 -- url     : https://prove2.me/submissions/08c0ec56-5f01-473d-a9ce-cc2424fd99e4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Independence.Basic
 import Mathlib.Probability.Process.Filtration

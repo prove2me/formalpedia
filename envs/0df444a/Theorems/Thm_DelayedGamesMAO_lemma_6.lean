@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedGamesMAO_lemma_6
 -- name    : DelayedGamesMAO.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:29:12.569259+00:00
 -- url     : https://prove2.me/theorems/68c2553d-9f96-4b4b-9968-152855eba599

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroDelayAMDP_lemma_D_3
 -- name    : IntroDelayAMDP.lemma_D_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:44:16.820567+00:00
 -- url     : https://prove2.me/theorems/bebd0c7f-ff60-47c5-a01b-c725ec86abb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJNHolomorphic_integralQ
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJNHolomorphic_integralQ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:18:53.340186+00:00
 -- url     : https://prove2.me/theorems/81d5009e-ed9b-4a96-a09f-50db1635db36

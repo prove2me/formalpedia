@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_cond12_optimal_lowerHull
 -- name    : Sherbrooke.cond12_optimal_lowerHull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:24:18.082879+00:00
 -- url     : https://prove2.me/theorems/f093a51a-52a3-4775-8305-331eec57d51d

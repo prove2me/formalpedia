@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledForgetLevel_contMDiff
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledForgetLevel_contMDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:40:18.663024+00:00
 -- url     : https://prove2.me/theorems/cae34f70-fbb6-4e27-ab47-a68a1cdf7b7f

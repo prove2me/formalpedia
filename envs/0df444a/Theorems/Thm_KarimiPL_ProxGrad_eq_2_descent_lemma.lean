@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxGrad_eq_2_descent_lemma
 -- name    : KarimiPL.ProxGrad.eq_2_descent_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:56:34.16512+00:00
 -- url     : https://prove2.me/theorems/0df5916a-67cf-4afc-a94d-dad1eb63bc33

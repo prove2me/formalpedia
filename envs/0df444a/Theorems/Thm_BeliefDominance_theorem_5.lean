@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeliefDominance_theorem_5
 -- name    : BeliefDominance.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:26:01.55908+00:00
 -- url     : https://prove2.me/theorems/5c31d1a2-471d-457c-bfbd-5e28425ff744

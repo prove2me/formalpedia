@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogRegretOCO_ONS_theorem_2_ons_regret
 -- name    : LogRegretOCO.ONS.theorem_2_ons_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:05:25.860312+00:00
 -- url     : https://prove2.me/theorems/43a6f618-907a-4ff0-a651-8494bd2d7a7f

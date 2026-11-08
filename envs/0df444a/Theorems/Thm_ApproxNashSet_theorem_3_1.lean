@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxNashSet_theorem_3_1
 -- name    : ApproxNashSet.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:17:54.15807+00:00
 -- url     : https://prove2.me/theorems/aaf07d9b-2e46-431d-b875-96a5307d14b6

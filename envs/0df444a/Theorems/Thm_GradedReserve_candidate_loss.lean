@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradedReserve_candidate_loss
 -- name    : GradedReserve.candidate_loss
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:35:55.901084+00:00
 -- url     : https://prove2.me/theorems/ef49fe39-ed6e-4aaa-8056-c619818663b7

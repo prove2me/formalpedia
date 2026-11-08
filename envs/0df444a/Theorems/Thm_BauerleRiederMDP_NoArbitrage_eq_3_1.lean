@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_NoArbitrage_eq_3_1
 -- name    : BauerleRiederMDP.NoArbitrage.eq_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:26:38.957183+00:00
 -- url     : https://prove2.me/theorems/826400bb-9975-4a2e-a555-931a16f0229b

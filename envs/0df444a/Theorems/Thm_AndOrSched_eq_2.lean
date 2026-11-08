@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AndOrSched_eq_2
 -- name    : AndOrSched.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:30:28.26787+00:00
 -- url     : https://prove2.me/theorems/49156186-50c8-493c-9d3d-55a4157e1f74

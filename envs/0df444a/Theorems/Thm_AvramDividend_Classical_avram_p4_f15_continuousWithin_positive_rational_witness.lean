@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f15_continuousWithin_positive_rational_witness
 -- name    : AvramDividend.Classical.avram_p4_f15_continuousWithin_positive_rational_witness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T23:11:05.770694+00:00
 -- url     : https://prove2.me/theorems/b76147cf-966e-4936-8c9d-26eedb455b64

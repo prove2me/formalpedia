@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonStrongConvexGM_QuasiStrong_quasi_strong_implies_gradient_growth
 -- name    : NonStrongConvexGM.QuasiStrong.quasi_strong_implies_gradient_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:38:48.485894+00:00
 -- url     : https://prove2.me/theorems/5b1a69e9-0a3d-4b57-aa9f-219201f6a29b

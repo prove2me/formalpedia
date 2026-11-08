@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_quadratic_min
 -- name    : TwoStageMatch.quadratic_min
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:29:54.829574+00:00
 -- url     : https://prove2.me/theorems/2998c397-d291-4e21-bd97-2bd6af519155

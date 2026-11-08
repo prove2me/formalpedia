@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FowlerLSQC_GateDistance_gateDist_triangle
 -- name    : FowlerLSQC.GateDistance.gateDist_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:37:04.725003+00:00
 -- url     : https://prove2.me/theorems/51f75886-c5ff-410e-a546-f8e2bf2568ed

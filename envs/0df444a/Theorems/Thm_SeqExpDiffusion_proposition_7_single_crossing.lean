@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqExpDiffusion_proposition_7_single_crossing
 -- name    : SeqExpDiffusion.proposition_7_single_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:10:23.623229+00:00
 -- url     : https://prove2.me/theorems/2c1bd28e-f899-47a9-85ff-54073c88e69e

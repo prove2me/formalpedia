@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeedbackSwitching_proposition_1
 -- name    : FeedbackSwitching.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:40:28.311194+00:00
 -- url     : https://prove2.me/theorems/e181b126-e4c2-4eb9-a73f-459a32426e84

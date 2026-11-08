@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NieYangPareto_epigraph_eq_add_orthant
 -- name    : NieYangPareto.epigraph_eq_add_orthant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:03:30.979451+00:00
 -- url     : https://prove2.me/theorems/dce3c39b-65c6-425f-b26a-0162037e9221

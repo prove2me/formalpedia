@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_LiftedProductTannerBridge_chartExtension_at_chart
 -- name    : QEC.Coding.QuantumTanner.LiftedProductTannerBridge.chartExtension_at_chart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:23:04.158955+00:00
 -- url     : https://prove2.me/theorems/da6be4f9-a424-44e1-8702-cbc61b7bb0fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WinLoseMinimax_example_1_3
 -- name    : WinLoseMinimax.example_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:24:54.989293+00:00
 -- url     : https://prove2.me/theorems/c5687a5a-138d-4698-b50c-2fa13c33485d

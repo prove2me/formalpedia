@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_LeftRightCayleySquareComplex_oppositeHeavySet_card_bound_source
 -- name    : QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.oppositeHeavySet_card_bound_source
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:08:56.90831+00:00
 -- url     : https://prove2.me/theorems/6c9a4459-03eb-4585-b7cf-56391d5d85ce

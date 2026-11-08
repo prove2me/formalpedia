@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DPDeconstructed_display_19
 -- name    : DPDeconstructed.display_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:49:14.002741+00:00
 -- url     : https://prove2.me/theorems/bc7789c3-942b-4e1e-b01f-4ce23e555d30

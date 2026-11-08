@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_explicit_lower_bound
 -- name    : BidPriceControl.Asymptotic.explicit_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:39:38.759762+00:00
 -- url     : https://prove2.me/theorems/bfc4ed2a-59e7-4c16-89c0-38a2eb7e9522

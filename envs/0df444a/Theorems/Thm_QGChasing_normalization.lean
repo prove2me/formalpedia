@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGChasing_normalization
 -- name    : QGChasing.normalization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:25:51.254097+00:00
 -- url     : https://prove2.me/theorems/3da5cfe8-a4a2-4a68-9a40-262766d42663

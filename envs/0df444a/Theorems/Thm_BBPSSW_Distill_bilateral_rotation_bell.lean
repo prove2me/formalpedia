@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBPSSW_Distill_bilateral_rotation_bell
 -- name    : BBPSSW.Distill.bilateral_rotation_bell
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:46:04.425837+00:00
 -- url     : https://prove2.me/theorems/bb424e07-c1e0-41cd-adb8-51bc057ea5ce

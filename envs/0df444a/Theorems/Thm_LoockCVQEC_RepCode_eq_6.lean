@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LoockCVQEC_RepCode_eq_6
 -- name    : LoockCVQEC.RepCode.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:07.556022+00:00
 -- url     : https://prove2.me/theorems/7dda2b0a-b825-4873-91aa-af9fada36e37

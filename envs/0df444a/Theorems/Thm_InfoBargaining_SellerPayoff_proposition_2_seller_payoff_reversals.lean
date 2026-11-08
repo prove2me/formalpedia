@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_SellerPayoff_proposition_2_seller_payoff_reversals
 -- name    : InfoBargaining.SellerPayoff.proposition_2_seller_payoff_reversals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:24:26.538052+00:00
 -- url     : https://prove2.me/theorems/d6a5b9c9-587e-4b8c-b02a-d9eeddcd1b04

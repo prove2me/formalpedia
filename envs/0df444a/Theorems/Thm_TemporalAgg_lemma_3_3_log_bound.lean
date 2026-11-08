@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TemporalAgg_lemma_3_3_log_bound
 -- name    : TemporalAgg.lemma_3_3_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:37:21.133025+00:00
 -- url     : https://prove2.me/theorems/3cc70093-2857-4100-99cc-18b36eca58ef

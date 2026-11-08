@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsChi4E2ThetaBasis_apply
 -- name    : QEC.Coding.TannerLiftedProduct.lpsChi4E2ThetaBasis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:27:50.892499+00:00
 -- url     : https://prove2.me/theorems/7609a38a-8ee3-4471-8eac-6680f5c4391e

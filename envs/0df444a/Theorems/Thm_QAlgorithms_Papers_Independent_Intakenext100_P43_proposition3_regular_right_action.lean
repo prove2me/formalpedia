@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P43_proposition3_regular_right_action
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P43.proposition3_regular_right_action
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:48:59.022819+00:00
 -- url     : https://prove2.me/theorems/6715dfad-578a-4a46-b377-f7980815ca9b

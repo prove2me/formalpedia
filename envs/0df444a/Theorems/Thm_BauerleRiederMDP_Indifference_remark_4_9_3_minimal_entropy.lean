@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_Indifference_remark_4_9_3_minimal_entropy
 -- name    : BauerleRiederMDP.Indifference.remark_4_9_3_minimal_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:28:46.933693+00:00
 -- url     : https://prove2.me/theorems/db31d32c-cd80-4eaf-b5da-9ba7995ecf88

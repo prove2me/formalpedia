@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeSOS_ConvexConsistency_nested_compact
 -- name    : ShapeSOS.ConvexConsistency.nested_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T23:21:59.923241+00:00
 -- url     : https://prove2.me/theorems/4f9ea216-a05a-477e-bd46-cad554124e84

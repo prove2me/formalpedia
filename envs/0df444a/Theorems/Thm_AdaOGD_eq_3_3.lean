@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaOGD_eq_3_3
 -- name    : AdaOGD.eq_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:36.133991+00:00
 -- url     : https://prove2.me/theorems/922448b8-e8ae-44b0-87be-6098948a3f9d

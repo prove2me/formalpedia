@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBPSSW_Distill_recurrenceMap_iterate
 -- name    : BBPSSW.Distill.recurrenceMap_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:16:15.647555+00:00
 -- url     : https://prove2.me/theorems/ab02a2bf-ac0f-4330-b975-1ab78228bcde

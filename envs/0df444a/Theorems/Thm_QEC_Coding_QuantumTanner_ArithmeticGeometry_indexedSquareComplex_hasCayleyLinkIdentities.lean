@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_ArithmeticGeometry_indexedSquareComplex_hasCayleyLinkIdentities
 -- name    : QEC.Coding.QuantumTanner.ArithmeticGeometry.indexedSquareComplex_hasCayleyLinkIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:21:35.799138+00:00
 -- url     : https://prove2.me/theorems/6e97dc6d-28d9-4440-8f2f-2d3046464ca0

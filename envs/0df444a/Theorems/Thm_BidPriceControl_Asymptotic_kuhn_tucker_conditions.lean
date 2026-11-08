@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_kuhn_tucker_conditions
 -- name    : BidPriceControl.Asymptotic.kuhn_tucker_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:38:43.661809+00:00
 -- url     : https://prove2.me/theorems/dbb39753-6275-48be-9403-dc42f3f4d08f

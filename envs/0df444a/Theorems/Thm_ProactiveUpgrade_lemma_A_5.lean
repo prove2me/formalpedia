@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProactiveUpgrade_lemma_A_5
 -- name    : ProactiveUpgrade.lemma_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:31.387989+00:00
 -- url     : https://prove2.me/theorems/4ce532ad-217f-4508-8813-2e42a1feede2

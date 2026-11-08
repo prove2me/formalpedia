@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehShare_MultiNet_chu_vandermonde_real
 -- name    : VehShare.MultiNet.chu_vandermonde_real
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T04:06:10.103469+00:00
 -- url     : https://prove2.me/theorems/1b868fd6-cfcb-4213-8264-0ed144c74ece

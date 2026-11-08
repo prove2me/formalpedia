@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_approx_weight_bounds
 -- name    : NestedLogitAssort.DeltaGrid.approx_weight_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:10:21.252999+00:00
 -- url     : https://prove2.me/theorems/f562df36-86a3-48be-95a8-94349fbfb4d9

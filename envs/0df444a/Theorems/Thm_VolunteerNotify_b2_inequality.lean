@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerNotify_b2_inequality
 -- name    : VolunteerNotify.b2_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:38:50.886262+00:00
 -- url     : https://prove2.me/theorems/7d366747-a015-4f6c-b0ca-dc1ff7adaac2

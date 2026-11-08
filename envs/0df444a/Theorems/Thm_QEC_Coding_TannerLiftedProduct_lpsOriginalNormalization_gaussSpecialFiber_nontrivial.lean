@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalNormalization_gaussSpecialFiber_nontrivial
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalNormalization_gaussSpecialFiber_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:33:13.296185+00:00
 -- url     : https://prove2.me/theorems/be49ab38-7bc6-41b8-b38f-b9ff61bc6513

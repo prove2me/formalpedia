@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_PriceMonotone_lemma2_optRef_monotone
 -- name    : ReferencePricing.PriceMonotone.lemma2_optRef_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:56:49.018752+00:00
 -- url     : https://prove2.me/theorems/ed0faab2-8b8f-4b43-a3d7-ab0e7f08dcbc

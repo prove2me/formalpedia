@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_cssQuditCode_bptMeasurementDistance_of_algebraicCSSMinimumDistance
 -- name    : QEC.Coding.FiniteFieldPauli.cssQuditCode_bptMeasurementDistance_of_algebraicCSSMinimumDistance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:50:09.702757+00:00
 -- url     : https://prove2.me/theorems/a80a9cad-8fe1-4919-a6b9-425c0a8de76a

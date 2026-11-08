@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrustIPM_lemma_2
 -- name    : TrustIPM.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:16:45.471316+00:00
 -- url     : https://prove2.me/theorems/2d752f89-d6e9-4d51-ab43-07d5b700819c

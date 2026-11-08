@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeatingGV42_sec_4_5_identities
 -- name    : BeatingGV42.sec_4_5_identities
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:33:41.6702+00:00
 -- url     : https://prove2.me/theorems/487b1a24-3425-4d17-ba4b-d1c67efceef0

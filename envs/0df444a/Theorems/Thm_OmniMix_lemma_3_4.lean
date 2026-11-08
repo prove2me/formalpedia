@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniMix_lemma_3_4
 -- name    : OmniMix.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:40:01.327491+00:00
 -- url     : https://prove2.me/theorems/88f6899f-c63f-4369-b801-6ad84ef1b332

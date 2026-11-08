@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HellingerSubadd_final_numeric_step
 -- name    : HellingerSubadd.final_numeric_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:55:30.481161+00:00
 -- url     : https://prove2.me/theorems/4d45c648-d758-4b78-af3f-af463c65e7c0

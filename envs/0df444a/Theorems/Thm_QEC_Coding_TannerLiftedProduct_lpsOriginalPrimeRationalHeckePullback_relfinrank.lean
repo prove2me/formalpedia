@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalPrimeRationalHeckePullback_relfinrank
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalPrimeRationalHeckePullback_relfinrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:54:00.514862+00:00
 -- url     : https://prove2.me/theorems/3a18c8ba-b90c-4513-8f7a-f51e2ae54d0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PADMPriv_feasibility_A16
 -- name    : PADMPriv.feasibility_A16
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:08:26.949519+00:00
 -- url     : https://prove2.me/theorems/cdefd492-29b1-4495-973a-ff4e3e7f6435

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_PosteriorSampling_decoupling_posterior_means
 -- name    : FoundationsRL.PosteriorSampling.decoupling_posterior_means
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:21:20.937989+00:00
 -- url     : https://prove2.me/theorems/ddc3aa71-23fa-4046-a8be-555ed22d027d

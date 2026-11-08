@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Cheeger_eq_4_2
 -- name    : SimplicialIso.Cheeger.eq_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:12.181739+00:00
 -- url     : https://prove2.me/theorems/da5f1076-cf25-4159-b7ad-4376c67d6d81

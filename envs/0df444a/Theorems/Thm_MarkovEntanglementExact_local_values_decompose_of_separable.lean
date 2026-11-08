@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_local_values_decompose_of_separable
 -- name    : MarkovEntanglementExact.local_values_decompose_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:23:23.715435+00:00
 -- url     : https://prove2.me/theorems/8a703e7d-f9e4-4e0d-b787-29b0c73482c6

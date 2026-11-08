@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearningBasedRO_iStar_valid_iff
 -- name    : LearningBasedRO.iStar_valid_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:56.734986+00:00
 -- url     : https://prove2.me/theorems/1912ce69-f7bc-4ed9-ab6a-60312668c1fa

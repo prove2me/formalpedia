@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RideHailingAV_PureHV_eq_14_price_util_wage
 -- name    : RideHailingAV.PureHV.eq_14_price_util_wage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:28:57.408772+00:00
 -- url     : https://prove2.me/theorems/404a80b9-c2a4-48bd-875c-f94aa30876c0

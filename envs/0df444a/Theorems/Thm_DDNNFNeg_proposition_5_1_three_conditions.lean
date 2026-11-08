@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DDNNFNeg_proposition_5_1_three_conditions
 -- name    : DDNNFNeg.proposition_5_1_three_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:22:38.258033+00:00
 -- url     : https://prove2.me/theorems/91bc108a-ebc8-4ee2-8fc8-b07f9876a76e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_upperEisenstein_eq_source_series
 -- name    : OAI.CubicEisenstein.upperEisenstein_eq_source_series
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:55:43.420225+00:00
 -- url     : https://prove2.me/theorems/3e28c48a-8840-465a-83eb-741a0187ef17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P48_abelianTotalDimension
 -- name    : QAlgorithms.Papers.Independent.Intake100.P48.abelianTotalDimension
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T13:27:02.190664+00:00
 -- url     : https://prove2.me/theorems/6bd58ede-e042-47ab-8383-2883c1374bb9

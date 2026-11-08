@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PandoraComb_lemma_3_4
 -- name    : PandoraComb.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:09:31.128113+00:00
 -- url     : https://prove2.me/theorems/4e3a4a0a-fe89-4cdb-81ae-a270577cf1f6

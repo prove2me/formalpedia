@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GamblersFallacy_eq_EC_1
 -- name    : GamblersFallacy.eq_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:13.598024+00:00
 -- url     : https://prove2.me/theorems/3d169f19-3c2a-4860-924a-1d418a9a58a4

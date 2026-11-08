@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmolenskyAC_lemma_5
 -- name    : SmolenskyAC.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:46:33.647581+00:00
 -- url     : https://prove2.me/theorems/d51f2706-0483-4cfd-a998-c762ce7e2b20

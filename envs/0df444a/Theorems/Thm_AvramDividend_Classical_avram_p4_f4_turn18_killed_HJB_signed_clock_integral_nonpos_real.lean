@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f4_turn18_killed_HJB_signed_clock_integral_nonpos_real
 -- name    : AvramDividend.Classical.avram_p4_f4_turn18_killed_HJB_signed_clock_integral_nonpos_real
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T14:25:45.369208+00:00
 -- url     : https://prove2.me/theorems/bc6f30da-8136-438a-956f-bc9ecce53011

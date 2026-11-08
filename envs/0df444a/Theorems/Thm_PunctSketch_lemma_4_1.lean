@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PunctSketch_lemma_4_1
 -- name    : PunctSketch.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:44:43.754203+00:00
 -- url     : https://prove2.me/theorems/d6291756-92ec-4292-a07c-9944fc78b85d

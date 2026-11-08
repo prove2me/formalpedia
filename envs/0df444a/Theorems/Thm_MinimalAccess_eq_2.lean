@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimalAccess_eq_2
 -- name    : MinimalAccess.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:42:48.912987+00:00
 -- url     : https://prove2.me/theorems/33ed9b17-73cb-4902-bddb-413e4c062a85

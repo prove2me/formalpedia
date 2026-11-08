@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_price_optimized_profit
 -- name    : PriceQualityService.price_optimized_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:40:38.594629+00:00
 -- url     : https://prove2.me/theorems/26c30be2-c4bc-41e7-b1b9-22b49510abb9

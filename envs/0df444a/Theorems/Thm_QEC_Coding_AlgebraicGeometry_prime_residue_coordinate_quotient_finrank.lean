@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_prime_residue_coordinate_quotient_finrank
 -- name    : QEC.Coding.AlgebraicGeometry.prime_residue_coordinate_quotient_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:47:20.054748+00:00
 -- url     : https://prove2.me/theorems/6f5b9d0b-ca26-4a79-99af-ad6acb4c13e0

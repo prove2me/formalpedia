@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_Verification_remark3_6_player_two
 -- name    : ImpulseGames.Verification.remark3_6_player_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:25:51.759665+00:00
 -- url     : https://prove2.me/theorems/1282e3d7-6b49-42bf-b534-31fe253a2f8f

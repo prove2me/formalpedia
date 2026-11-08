@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsiderThenChoose_card_le_mul_two_pow_K
 -- name    : ConsiderThenChoose.card_le_mul_two_pow_K
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:36:44.059207+00:00
 -- url     : https://prove2.me/theorems/87d39ce3-e909-4d1c-84e2-ebcc925377e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelSGDGrowth_lemma_2_1
 -- name    : AccelSGDGrowth.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:30:23.218567+00:00
 -- url     : https://prove2.me/theorems/b587e80f-8e1a-42d4-8677-679481d9d722

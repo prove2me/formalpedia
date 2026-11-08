@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBalancingMNL_markup_share_inverse
 -- name    : RiskBalancingMNL.markup_share_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:44:22.950991+00:00
 -- url     : https://prove2.me/theorems/ee8e6df4-7ff4-4e87-b8c9-42d38ddc66d5

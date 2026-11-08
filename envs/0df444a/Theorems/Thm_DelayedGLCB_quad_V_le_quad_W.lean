@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedGLCB_quad_V_le_quad_W
 -- name    : DelayedGLCB.quad_V_le_quad_W
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T08:26:55.99853+00:00
 -- url     : https://prove2.me/theorems/44f04606-10cf-4fdd-9306-72e288f1d076

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WasteNotWant_stage2_rule_optimal
 -- name    : WasteNotWant.stage2_rule_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:43:48.330773+00:00
 -- url     : https://prove2.me/theorems/f8723215-ed0f-4b7d-b2df-833ad686d60c

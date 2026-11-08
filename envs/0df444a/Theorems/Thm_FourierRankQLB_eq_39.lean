@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierRankQLB_eq_39
 -- name    : FourierRankQLB.eq_39
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:45:40.673466+00:00
 -- url     : https://prove2.me/theorems/7f52f467-a7fa-449a-af0c-3e6de8d51c98

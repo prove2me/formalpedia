@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGradDHS_Diag_theorem_5_diagonal_adagrad_regret
 -- name    : AdaGradDHS.Diag.theorem_5_diagonal_adagrad_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:24:48.65889+00:00
 -- url     : https://prove2.me/theorems/b73b3ad0-f824-4390-a877-33a25826ca17

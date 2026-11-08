@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_ArithmeticPSLFamily_eventually_positiveProbability_good_arithmetic_code_family_of_complex_spectral_bounds
 -- name    : QEC.Coding.QuantumTanner.ArithmeticPSLFamily.eventually_positiveProbability_good_arithmetic_code_family_of_complex_spectral_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:44:06.060977+00:00
 -- url     : https://prove2.me/theorems/7285c8df-6e49-4576-bff7-1daef07815ab

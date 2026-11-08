@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_dualXLogical_not_generated
 -- name    : QEC.Coding.PeriodicCubical4.dualXLogical_not_generated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:48:19.79036+00:00
 -- url     : https://prove2.me/theorems/8a3c81f3-140c-4f82-b5f8-fbc3aa16227a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OverbookBL_claim_4
 -- name    : OverbookBL.claim_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:53:34.178587+00:00
 -- url     : https://prove2.me/theorems/9e851d31-87f9-4288-a5b5-a81ea49d8264

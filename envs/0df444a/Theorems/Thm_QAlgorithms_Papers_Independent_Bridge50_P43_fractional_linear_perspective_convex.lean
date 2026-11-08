@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Bridge50_P43_fractional_linear_perspective_convex
 -- name    : QAlgorithms.Papers.Independent.Bridge50.P43.fractional_linear_perspective_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T16:28:00.425325+00:00
 -- url     : https://prove2.me/theorems/188d2396-2865-4dec-9300-5c18c1105738

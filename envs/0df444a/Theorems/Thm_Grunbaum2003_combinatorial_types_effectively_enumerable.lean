@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_combinatorial_types_effectively_enumerable
 -- name    : Grunbaum2003.combinatorial_types_effectively_enumerable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T05:39:45.379801+00:00
 -- url     : https://prove2.me/theorems/5572322a-bb1c-4c10-afb4-a57ade4996f5

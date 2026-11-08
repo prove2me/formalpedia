@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuadeFly_lemma_3
 -- name    : PersuadeFly.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:31:49.830903+00:00
 -- url     : https://prove2.me/theorems/ccbcadd8-509e-4c1b-be9b-6932da2b1cdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LockingAccInfo_lemma1_last_bit_measurement
 -- name    : LockingAccInfo.lemma1_last_bit_measurement
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:41:50.502654+00:00
 -- url     : https://prove2.me/theorems/35fd8795-dd4f-4510-a3ed-d75d7f7ab7f5

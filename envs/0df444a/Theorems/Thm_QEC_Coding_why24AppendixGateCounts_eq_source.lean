@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_why24AppendixGateCounts_eq_source
 -- name    : QEC.Coding.why24AppendixGateCounts_eq_source
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:40:36.528627+00:00
 -- url     : https://prove2.me/theorems/1f85f261-cafc-4740-b0c4-04a26159abaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PickAnObject_reachable_consistent
 -- name    : PickAnObject.reachable_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:14:35.793982+00:00
 -- url     : https://prove2.me/theorems/d1b7d0ba-0e11-4fc5-acf8-0e1d7b89dc17

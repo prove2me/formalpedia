@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoCoNet_Lmat_diag_dominant_isUnit
 -- name    : CoCoNet.Lmat_diag_dominant_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:34.282537+00:00
 -- url     : https://prove2.me/theorems/8f121ca3-609c-440a-9f8a-0927ef39373f

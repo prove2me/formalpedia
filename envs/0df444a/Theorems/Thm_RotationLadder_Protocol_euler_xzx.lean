@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationLadder_Protocol_euler_xzx
 -- name    : RotationLadder.Protocol.euler_xzx
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:35:40.970115+00:00
 -- url     : https://prove2.me/theorems/a74d54a0-9527-44b1-b907-c10a77410b71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinVolEllipsoid_lemma_3
 -- name    : MinVolEllipsoid.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:43:46.475979+00:00
 -- url     : https://prove2.me/theorems/0a9f6cbb-4101-48ff-bd87-200fa89dd06b

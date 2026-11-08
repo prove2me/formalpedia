@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointNonManip_display_1
 -- name    : JointNonManip.display_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:12:17.540201+00:00
 -- url     : https://prove2.me/theorems/8815bc11-a9ce-4dd5-846a-bf3c0147d545

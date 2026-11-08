@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsE2Difference_tendsto_im_infty
 -- name    : QEC.Coding.TannerLiftedProduct.lpsE2Difference_tendsto_im_infty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:27:22.199187+00:00
 -- url     : https://prove2.me/theorems/68754187-45df-4b51-80c2-1408f14fa016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsamplingSM_Offline_theorem1_sampleGreedy
 -- name    : SubsamplingSM.Offline.theorem1_sampleGreedy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:02:15.71713+00:00
 -- url     : https://prove2.me/theorems/7c5caaba-5841-46a8-a8f7-aaf789d30948

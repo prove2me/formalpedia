@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpactCopula_lemma_1
 -- name    : ImpactCopula.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:53:45.557881+00:00
 -- url     : https://prove2.me/theorems/acd9b0d7-3645-4349-9514-8152d75f98cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_bid_price_revenue_identity
 -- name    : BidPriceControl.Asymptotic.bid_price_revenue_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:39:31.781325+00:00
 -- url     : https://prove2.me/theorems/29778f3d-0646-4fc1-8ef1-257e97fd7bba

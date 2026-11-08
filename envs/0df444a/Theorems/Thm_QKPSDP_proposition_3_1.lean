@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QKPSDP_proposition_3_1
 -- name    : QKPSDP.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:50:30.848509+00:00
 -- url     : https://prove2.me/theorems/6b485b0b-6d50-49e8-a580-388548834a2d

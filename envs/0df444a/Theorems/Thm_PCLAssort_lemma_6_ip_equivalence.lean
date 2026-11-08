@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCLAssort_lemma_6_ip_equivalence
 -- name    : PCLAssort.lemma_6_ip_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:22:01.649272+00:00
 -- url     : https://prove2.me/theorems/b98fcea3-6c41-4e47-bb55-fe4d25d8ed74

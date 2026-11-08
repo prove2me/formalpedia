@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SplitPMSGame_observation_1
 -- name    : SplitPMSGame.observation_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:12:14.735789+00:00
 -- url     : https://prove2.me/theorems/08261e9c-8276-4379-a37f-7204a9c7ac87

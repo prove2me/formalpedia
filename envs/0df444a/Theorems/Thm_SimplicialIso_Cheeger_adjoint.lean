@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Cheeger_adjoint
 -- name    : SimplicialIso.Cheeger.adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:15.958183+00:00
 -- url     : https://prove2.me/theorems/4afd2cbc-dab8-457c-9bea-61fef8195e53

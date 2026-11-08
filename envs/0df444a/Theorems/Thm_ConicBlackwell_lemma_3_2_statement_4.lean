@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicBlackwell_lemma_3_2_statement_4
 -- name    : ConicBlackwell.lemma_3_2_statement_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:42:29.315992+00:00
 -- url     : https://prove2.me/theorems/25e47273-eeab-48ea-8e23-58f12fd456ee

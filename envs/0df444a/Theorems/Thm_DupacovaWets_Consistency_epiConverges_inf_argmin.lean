@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_epiConverges_inf_argmin
 -- name    : DupacovaWets.Consistency.epiConverges_inf_argmin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:47:42.366725+00:00
 -- url     : https://prove2.me/theorems/08d09aa9-e9bd-460b-b58d-51432612a281

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCore_core_le_marginal
 -- name    : FastCore.core_le_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:31:04.579457+00:00
 -- url     : https://prove2.me/theorems/0e2457f2-4096-4c07-bd41-fb9a4251afb9

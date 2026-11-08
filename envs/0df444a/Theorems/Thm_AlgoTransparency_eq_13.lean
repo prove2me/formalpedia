@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoTransparency_eq_13
 -- name    : AlgoTransparency.eq_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:50:50.314486+00:00
 -- url     : https://prove2.me/theorems/9e9b631a-f753-4ca0-8ae6-94aa82460b3c

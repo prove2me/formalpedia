@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeVaryingGames_lemma_A_2
 -- name    : TimeVaryingGames.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:18.877295+00:00
 -- url     : https://prove2.me/theorems/b14620ad-c1ce-4f41-885f-faf8b3cbe1a6

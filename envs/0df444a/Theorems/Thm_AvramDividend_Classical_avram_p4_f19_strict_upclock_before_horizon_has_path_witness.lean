@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f19_strict_upclock_before_horizon_has_path_witness
 -- name    : AvramDividend.Classical.avram_p4_f19_strict_upclock_before_horizon_has_path_witness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T23:20:57.574206+00:00
 -- url     : https://prove2.me/theorems/1d26205e-1f04-45e4-84bf-c91b45aa0955

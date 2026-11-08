@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrechetPrefs_sharper_estimate
 -- name    : FrechetPrefs.sharper_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:03:59.400542+00:00
 -- url     : https://prove2.me/theorems/128aeaf7-05b1-41ef-bc1e-798bce76dd5f

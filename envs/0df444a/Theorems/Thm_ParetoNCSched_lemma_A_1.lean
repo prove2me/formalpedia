@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParetoNCSched_lemma_A_1
 -- name    : ParetoNCSched.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:07:51.699459+00:00
 -- url     : https://prove2.me/theorems/18332810-60b9-48f3-8c9e-12169de82377

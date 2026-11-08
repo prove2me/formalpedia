@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Unbiased_lemma1_glasserman
 -- name    : RLPBidPrice.Unbiased.lemma1_glasserman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:46:05.566874+00:00
 -- url     : https://prove2.me/theorems/05b03186-5113-42c0-9a51-0bd0cc00dcfb

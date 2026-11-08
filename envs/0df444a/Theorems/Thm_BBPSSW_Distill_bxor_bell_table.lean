@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBPSSW_Distill_bxor_bell_table
 -- name    : BBPSSW.Distill.bxor_bell_table
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:46:20.929144+00:00
 -- url     : https://prove2.me/theorems/af09dbfa-a739-4fc5-9103-8a9276dcc868

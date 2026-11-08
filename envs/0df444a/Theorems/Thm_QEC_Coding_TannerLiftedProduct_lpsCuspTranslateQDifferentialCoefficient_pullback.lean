@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsCuspTranslateQDifferentialCoefficient_pullback
 -- name    : QEC.Coding.TannerLiftedProduct.lpsCuspTranslateQDifferentialCoefficient_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:29:48.272356+00:00
 -- url     : https://prove2.me/theorems/62ac9925-7a91-4646-9c6a-f88ebdecaad7

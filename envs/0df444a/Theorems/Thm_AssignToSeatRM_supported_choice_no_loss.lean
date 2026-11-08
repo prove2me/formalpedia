@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignToSeatRM_supported_choice_no_loss
 -- name    : AssignToSeatRM.supported_choice_no_loss
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:27:57.772902+00:00
 -- url     : https://prove2.me/theorems/0fb7684b-83cf-44da-a4ce-6d1e4ffebcce

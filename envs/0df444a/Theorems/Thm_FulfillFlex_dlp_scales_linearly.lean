@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FulfillFlex_dlp_scales_linearly
 -- name    : FulfillFlex.dlp_scales_linearly
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:26:16.940189+00:00
 -- url     : https://prove2.me/theorems/c667bd5a-9de7-4a6b-a67c-2f7ddd46249d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellianRelax_tilt_epiConverges
 -- name    : RockafellianRelax.tilt_epiConverges
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:36:00.001544+00:00
 -- url     : https://prove2.me/theorems/0bfc070f-25a4-4224-ad3f-c8a2146ead98

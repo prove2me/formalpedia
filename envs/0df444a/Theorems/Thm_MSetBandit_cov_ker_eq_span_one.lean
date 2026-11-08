@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MSetBandit_cov_ker_eq_span_one
 -- name    : MSetBandit.cov_ker_eq_span_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:41:40.361666+00:00
 -- url     : https://prove2.me/theorems/7531333a-9502-4ba0-8978-d3cf376ebd2a

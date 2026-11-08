@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_loopStep_preserves
 -- name    : ConsensusHalvingItems.Additive.loopStep_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:38:32.519107+00:00
 -- url     : https://prove2.me/theorems/8d29a662-f399-4be7-ace2-c3389e7a6f53

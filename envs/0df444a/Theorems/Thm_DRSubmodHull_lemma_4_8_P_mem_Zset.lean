@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRSubmodHull_lemma_4_8_P_mem_Zset
 -- name    : DRSubmodHull.lemma_4_8_P_mem_Zset
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:25:51.70674+00:00
 -- url     : https://prove2.me/theorems/eee3aed8-3e6f-49b8-a193-774a62ae5429

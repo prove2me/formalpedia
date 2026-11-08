@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HousingImprove_new_augmenting_arcs
 -- name    : HousingImprove.new_augmenting_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:50.17116+00:00
 -- url     : https://prove2.me/theorems/5da30abe-7420-42f6-9cb2-69baafa2f6a2

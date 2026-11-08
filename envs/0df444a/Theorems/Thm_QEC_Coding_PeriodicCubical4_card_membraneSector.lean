@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_card_membraneSector
 -- name    : QEC.Coding.PeriodicCubical4.card_membraneSector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:04:09.509736+00:00
 -- url     : https://prove2.me/theorems/1acd56c9-957b-4fdd-98f5-c993836c880e

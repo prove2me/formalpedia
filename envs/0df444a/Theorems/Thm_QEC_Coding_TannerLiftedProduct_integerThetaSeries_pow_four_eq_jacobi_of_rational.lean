@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_integerThetaSeries_pow_four_eq_jacobi_of_rational
 -- name    : QEC.Coding.TannerLiftedProduct.integerThetaSeries_pow_four_eq_jacobi_of_rational
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:54:36.437148+00:00
 -- url     : https://prove2.me/theorems/7116af51-8608-410d-8fd7-555fdba64b92

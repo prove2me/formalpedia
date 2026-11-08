@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfoProvision_proposition_2_optimal_information_provision
 -- name    : FarmerInfoProvision.proposition_2_optimal_information_provision
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:50:41.67287+00:00
 -- url     : https://prove2.me/theorems/b6e64543-d622-4dbb-b551-4dcd33363830

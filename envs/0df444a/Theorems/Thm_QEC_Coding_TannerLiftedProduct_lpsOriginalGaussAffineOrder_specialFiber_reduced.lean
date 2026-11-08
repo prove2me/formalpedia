@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGaussAffineOrder_specialFiber_reduced
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGaussAffineOrder_specialFiber_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:34:04.672841+00:00
 -- url     : https://prove2.me/theorems/a74e7d4b-85ea-45c2-88b3-e65972b610dc

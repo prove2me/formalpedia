@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenignDegen_lemma_C_6
 -- name    : BenignDegen.lemma_C_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:56:57.572395+00:00
 -- url     : https://prove2.me/theorems/906f3db7-0ba7-44a1-afe1-1af7b8b688d3

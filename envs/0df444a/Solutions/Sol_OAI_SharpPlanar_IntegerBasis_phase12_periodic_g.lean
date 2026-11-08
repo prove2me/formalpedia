@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for OAI.SharpPlanar.IntegerBasis.phase12_periodic_g
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-07T23:04:16.042545+00:00
+-- url     : https://prove2.me/submissions/96dbbfda-e87b-4221-8d6d-8cc6d1791687
+
+import Mathlib
+import Definitions.Def_OAIQ098G072
+
+section
+-- module Solutions.OAIQ098_PP.PlanarPacking_BasisIntervals
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace SharpPlanar.IntegerBasis
+open IntegerIntervals
+
+lemma phase12_periodic_g_oai (n : ℕ) : phase12 (n+12) = phase12 n := by
+  unfold phase12
+  have he : Complex.I*Real.pi*(((n+12:ℕ):ℂ)/6) =
+      Complex.I*Real.pi*((n:ℂ)/6)+2*Real.pi*Complex.I := by push_cast <;> ring
+  rw [he,Complex.exp_add,Complex.exp_two_pi_mul_I,mul_one]
+
+end SharpPlanar.IntegerBasis
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.SharpPlanar.IntegerBasis.phase12_periodic_g_oai := @OAI.SharpPlanar.IntegerBasis.phase12_periodic_g_oai

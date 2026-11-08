@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaylorInv_eq_18
 -- name    : TaylorInv.eq_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:32:29.622829+00:00
 -- url     : https://prove2.me/theorems/98182d48-016f-43c5-854a-3aa7639cf1b6

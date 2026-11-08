@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AubinLipschitz_clarkeDeriv_invMap
 -- name    : AubinLipschitz.clarkeDeriv_invMap
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:52:17.714453+00:00
 -- url     : https://prove2.me/theorems/78a270bd-4df3-44b6-b220-df091eba472a

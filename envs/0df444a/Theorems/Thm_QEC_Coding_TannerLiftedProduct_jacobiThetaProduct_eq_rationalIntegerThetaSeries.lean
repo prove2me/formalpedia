@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiThetaProduct_eq_rationalIntegerThetaSeries
 -- name    : QEC.Coding.TannerLiftedProduct.jacobiThetaProduct_eq_rationalIntegerThetaSeries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:57:12.431209+00:00
 -- url     : https://prove2.me/theorems/f13f474a-f137-4f90-a549-a65a17c8e4d9

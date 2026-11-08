@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchVec3_beta_count_ne
 -- name    : MatchVec3.beta_count_ne
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:41:30.320777+00:00
 -- url     : https://prove2.me/theorems/72fc84ec-35bb-4d6a-b469-74eb869f038e

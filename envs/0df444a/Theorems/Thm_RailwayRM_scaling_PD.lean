@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RailwayRM_scaling_PD
 -- name    : RailwayRM.scaling_PD
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:35:26.339359+00:00
 -- url     : https://prove2.me/theorems/94abe140-fab1-4efb-92d7-d6e99972abab

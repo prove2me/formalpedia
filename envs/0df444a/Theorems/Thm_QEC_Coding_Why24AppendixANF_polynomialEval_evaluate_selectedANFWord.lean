@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_Why24AppendixANF_polynomialEval_evaluate_selectedANFWord
 -- name    : QEC.Coding.Why24AppendixANF.polynomialEval_evaluate_selectedANFWord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:36:48.236801+00:00
 -- url     : https://prove2.me/theorems/b5d322b5-68d9-45f4-84bc-9572f64adac7

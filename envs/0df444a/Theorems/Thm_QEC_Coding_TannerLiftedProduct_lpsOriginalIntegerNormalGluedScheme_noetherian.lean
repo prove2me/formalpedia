@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerNormalGluedScheme_noetherian
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalGluedScheme_noetherian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:54:07.614858+00:00
 -- url     : https://prove2.me/theorems/f99bed96-eec5-47f3-87c8-cae3782f418d

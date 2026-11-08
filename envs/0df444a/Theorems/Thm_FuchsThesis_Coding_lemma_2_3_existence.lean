@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Coding_lemma_2_3_existence
 -- name    : FuchsThesis.Coding.lemma_2_3_existence
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:40.775636+00:00
 -- url     : https://prove2.me/theorems/6350bb60-9275-4c9e-bd7d-bfd3ee51ce94

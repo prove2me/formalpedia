@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OLPRegret_lemma_9
 -- name    : OLPRegret.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:04:16.683562+00:00
 -- url     : https://prove2.me/theorems/48273dbc-b143-4bfb-ba1e-f43b9abb64c7

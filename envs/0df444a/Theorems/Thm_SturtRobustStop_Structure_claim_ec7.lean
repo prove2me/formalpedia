@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SturtRobustStop_Structure_claim_ec7
 -- name    : SturtRobustStop.Structure.claim_ec7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:12:48.577554+00:00
 -- url     : https://prove2.me/theorems/22e3dc5e-c7ad-40d2-b0de-b2eccd8d2479

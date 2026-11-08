@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Activation_property_13_6_1
 -- name    : WildeQIT.Activation.property_13_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T19:13:57.460985+00:00
 -- url     : https://prove2.me/theorems/7dbc8b46-4fd9-414b-ae66-fa9b591a7931

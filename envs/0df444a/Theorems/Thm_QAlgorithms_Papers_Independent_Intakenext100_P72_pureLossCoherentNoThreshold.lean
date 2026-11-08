@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P72_pureLossCoherentNoThreshold
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P72.pureLossCoherentNoThreshold
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:45:04.892859+00:00
 -- url     : https://prove2.me/theorems/0ea0ff18-9678-4f96-9280-16edcbdcbee4

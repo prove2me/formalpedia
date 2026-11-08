@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhachiyanRounding_BCD_theorem2
 -- name    : KhachiyanRounding.BCD.theorem2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:46:15.864159+00:00
 -- url     : https://prove2.me/theorems/671ed666-4f34-47e7-aef0-5a0894eea82c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_boundary1_primalDefectLoop
 -- name    : QEC.Coding.PeriodicCubical4.boundary1_primalDefectLoop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:48:30.465198+00:00
 -- url     : https://prove2.me/theorems/90e5bee6-b962-4681-8d9a-d2bcf44f6900

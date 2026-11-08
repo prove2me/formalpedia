@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchaseMNL_removal_monotone
 -- name    : MultiPurchaseMNL.removal_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:13:12.34508+00:00
 -- url     : https://prove2.me/theorems/8f28541c-f812-47c8-99a4-de51ff96e676

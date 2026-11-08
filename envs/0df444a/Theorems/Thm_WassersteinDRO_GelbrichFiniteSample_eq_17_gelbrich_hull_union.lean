@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_GelbrichFiniteSample_eq_17_gelbrich_hull_union
 -- name    : WassersteinDRO.GelbrichFiniteSample.eq_17_gelbrich_hull_union
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:00:39.038997+00:00
 -- url     : https://prove2.me/theorems/2a679e06-98fc-4c84-987f-1fb4f3cf5686

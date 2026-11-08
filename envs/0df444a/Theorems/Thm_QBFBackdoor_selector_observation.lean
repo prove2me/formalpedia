@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QBFBackdoor_selector_observation
 -- name    : QBFBackdoor.selector_observation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:31:29.852766+00:00
 -- url     : https://prove2.me/theorems/6408d826-843b-4661-a0ed-4fe444c642b8

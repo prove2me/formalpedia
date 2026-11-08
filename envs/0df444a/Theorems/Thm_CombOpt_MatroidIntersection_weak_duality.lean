@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MatroidIntersection_weak_duality
 -- name    : CombOpt.MatroidIntersection.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:15.430846+00:00
 -- url     : https://prove2.me/theorems/e4072efa-fd56-4793-9a01-f2013cd1b61d

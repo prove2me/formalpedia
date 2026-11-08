@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_exists_measurable_selection
 -- name    : DupacovaWets.Consistency.exists_measurable_selection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:47:46.381408+00:00
 -- url     : https://prove2.me/theorems/362ece8a-0fc7-4fbb-95be-d1f396b37b93

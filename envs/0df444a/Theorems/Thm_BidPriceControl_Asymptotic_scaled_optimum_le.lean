@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_scaled_optimum_le
 -- name    : BidPriceControl.Asymptotic.scaled_optimum_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:39:02.469603+00:00
 -- url     : https://prove2.me/theorems/e7ae8932-9c17-4c31-90c9-eb3bddf6d362

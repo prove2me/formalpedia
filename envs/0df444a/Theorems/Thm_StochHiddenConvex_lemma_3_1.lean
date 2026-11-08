@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochHiddenConvex_lemma_3_1
 -- name    : StochHiddenConvex.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:51:47.893295+00:00
 -- url     : https://prove2.me/theorems/a9aa5034-83e1-40c9-bc21-0b86025c4e33

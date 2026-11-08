@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentSufficient_Jhat_linear_growth_on_goodEvent
 -- name    : KeskinZeevi.IncumbentSufficient.Jhat_linear_growth_on_goodEvent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:45:57.15848+00:00
 -- url     : https://prove2.me/theorems/22b68407-61a0-4d08-841a-4c08393ebc21

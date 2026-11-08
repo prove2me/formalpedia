@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoRegretLastIterate_eq_3_22
 -- name    : NoRegretLastIterate.eq_3_22
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:31:17.381623+00:00
 -- url     : https://prove2.me/theorems/be540c5d-1bb8-4f07-82a7-d9cd09a33496

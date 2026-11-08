@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_cond12_unique
 -- name    : Sherbrooke.cond12_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:26:07.574879+00:00
 -- url     : https://prove2.me/theorems/3ba46808-5827-42ec-be1a-2828ff4b0f14

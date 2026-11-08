@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SerialBatchTardy_normal_jobs_totals
 -- name    : SerialBatchTardy.normal_jobs_totals
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:53:52.506506+00:00
 -- url     : https://prove2.me/theorems/d18bef90-01d3-447d-bfba-68cd9aba8b62

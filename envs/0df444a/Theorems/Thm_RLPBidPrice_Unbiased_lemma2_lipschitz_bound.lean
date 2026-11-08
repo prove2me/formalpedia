@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Unbiased_lemma2_lipschitz_bound
 -- name    : RLPBidPrice.Unbiased.lemma2_lipschitz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:46:46.915946+00:00
 -- url     : https://prove2.me/theorems/6399d83d-decd-43e9-912c-0e5ec769b6e7

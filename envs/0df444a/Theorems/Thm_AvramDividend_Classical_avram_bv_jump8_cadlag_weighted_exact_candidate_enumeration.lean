@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_cadlag_weighted_exact_candidate_enumeration
 -- name    : AvramDividend.Classical.avram_bv_jump8_cadlag_weighted_exact_candidate_enumeration
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-07T00:23:19.644294+00:00
 -- url     : https://prove2.me/theorems/e2bed90b-591b-4274-ac67-2df0882b298f

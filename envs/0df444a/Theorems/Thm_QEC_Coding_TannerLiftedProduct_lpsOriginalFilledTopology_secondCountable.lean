@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledTopology_secondCountable
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledTopology_secondCountable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:47:37.455282+00:00
 -- url     : https://prove2.me/theorems/efb94d67-111b-4e1a-b2ff-b081efe9ed09

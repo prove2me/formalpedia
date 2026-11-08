@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosDensity_perturbation
 -- name    : CosDensity.perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:38:30.559551+00:00
 -- url     : https://prove2.me/theorems/eee1afc9-e6d6-4d9b-aef6-e7f8c1466887

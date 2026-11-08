@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledCuspPartialEquiv_zero_iff
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledCuspPartialEquiv_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:45:48.528305+00:00
 -- url     : https://prove2.me/theorems/d65a5aa6-75b0-4728-aac1-76c3ef1af000

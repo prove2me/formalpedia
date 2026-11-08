@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Underdogs_posterior_FS_eq
 -- name    : Underdogs.posterior_FS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:53:25.037319+00:00
 -- url     : https://prove2.me/theorems/a849927e-89e2-4624-8e10-c1c62ef75984

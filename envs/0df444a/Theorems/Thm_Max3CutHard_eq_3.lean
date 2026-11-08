@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Max3CutHard_eq_3
 -- name    : Max3CutHard.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:48:49.851933+00:00
 -- url     : https://prove2.me/theorems/96cd02a9-4145-4f99-ac46-626e8cbc83e7

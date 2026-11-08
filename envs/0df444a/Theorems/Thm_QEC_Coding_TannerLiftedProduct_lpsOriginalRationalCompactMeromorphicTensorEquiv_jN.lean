@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalRationalCompactMeromorphicTensorEquiv_jN
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalRationalCompactMeromorphicTensorEquiv_jN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:59:13.24385+00:00
 -- url     : https://prove2.me/theorems/1561d357-d663-47e8-9a7c-db155f2055b8

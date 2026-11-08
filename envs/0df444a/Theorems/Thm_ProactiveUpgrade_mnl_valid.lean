@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProactiveUpgrade_mnl_valid
 -- name    : ProactiveUpgrade.mnl_valid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:26.07358+00:00
 -- url     : https://prove2.me/theorems/bebd78c9-a16b-4e05-965f-1e3c3dd08d08

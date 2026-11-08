@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsModularForm_raiseLevel_apply
 -- name    : QEC.Coding.TannerLiftedProduct.lpsModularForm_raiseLevel_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:27:46.819998+00:00
 -- url     : https://prove2.me/theorems/c93bfee8-4a81-413c-8bf2-05e708f1e8b7

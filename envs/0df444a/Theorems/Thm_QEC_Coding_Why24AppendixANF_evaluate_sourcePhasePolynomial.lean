@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_Why24AppendixANF_evaluate_sourcePhasePolynomial
 -- name    : QEC.Coding.Why24AppendixANF.evaluate_sourcePhasePolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:51:53.655202+00:00
 -- url     : https://prove2.me/theorems/818de13f-e91d-4503-ac01-57f5dc2c58ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_sum_quotientCosetKet_of_shift_fixed
 -- name    : QEC.Coding.FiniteFieldPauli.sum_quotientCosetKet_of_shift_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:55:02.051573+00:00
 -- url     : https://prove2.me/theorems/d55921db-05f8-43b8-a56f-b2bf14d041c2

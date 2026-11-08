@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapacityGames_lemma_2
 -- name    : CapacityGames.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:36:49.240378+00:00
 -- url     : https://prove2.me/theorems/cf6237be-b69e-4f1e-ad7e-5c3e17c568e6

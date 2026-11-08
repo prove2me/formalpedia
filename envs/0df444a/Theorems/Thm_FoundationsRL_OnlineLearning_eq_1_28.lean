@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_OnlineLearning_eq_1_28
 -- name    : FoundationsRL.OnlineLearning.eq_1_28
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:19:57.492998+00:00
 -- url     : https://prove2.me/theorems/a8683dbe-39c3-40d4-96dc-db2300fbb5cd

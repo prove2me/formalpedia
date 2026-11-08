@@ -1,0 +1,334 @@
+-- Prove2me | Definitions.Def_QEC_Coding_ExpanderCodes_LPSGeneratorMatrixListMachine
+-- name    : QEC_Coding_ExpanderCodes_LPSGeneratorMatrixListMachine
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-07T10:18:46.350062+00:00
+-- url     : https://prove2.me/theorems/a3f521d0-2dfe-4529-b220-b415c4da3656
+-- title:
+--   LPSGenerator Matrix List Machine
+-- statement:
+--   Definitions and structural lemmas for LPSGenerator Matrix List Machine, from The Lean-QECert contributors's pinned Lean-QECert development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/ExpanderCodes/LPSGeneratorMatrixListMachine.lean
+
+import Definitions.Def_QEC_Coding_BitTuring_UnaryMatrixListQuery
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSQuaternionMatrixMachine
+import Definitions.Def_QEC_Coding_ExpanderCodes_JacobiFourSquareCount
+import Mathlib.Data.List.OfFn
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_MatrixListQuery_selectPrefix
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_unary_length
+import Theorems.Thm_QEC_Coding_ChainComplexData_pureZLogicalQuotientEquivMiddleHomology_mk
+import Theorems.Thm_QEC_Coding_LiftedProduct_firstRestriction_firstZeroExtension
+import Theorems.Thm_QEC_Coding_LiftedProduct_firstRestriction_secondZeroExtension
+import Theorems.Thm_QEC_Coding_LiftedProduct_secondRestriction_firstZeroExtension
+import Theorems.Thm_QEC_Coding_LiftedProduct_secondRestriction_secondZeroExtension
+import Theorems.Thm_QEC_Coding_ProductExpansion_HammingWeight_neg
+import Theorems.Thm_QEC_Coding_ProductExpansion_column_transpose
+import Theorems.Thm_QEC_Coding_ProductExpansion_row_transpose
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiCubeProduct_signedEuler_jtpPositiveTerm
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_FormalPowerSeries_qPochhammer_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_succ_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_right
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_succ
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qPochhammer_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSResiduePrime_q_le_two_mul_card_psl
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_card_lpsQuaternionShell_eq_prime_add_one
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiFourSquareSeries_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiGeometricSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiLambertTerm
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiSignedCubeSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiSignedCubeSeriesRaw
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiWeightedSquareSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiWeightedTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalBilateralTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalIntegerThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalTriangularThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiEulerSixProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiEulerSquareProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiThetaProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiTriangularProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalBilateralTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalIntegerThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalTriangularThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_horizontalNeighbor_horizontalNeighbor
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_integerTriangularRoots_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiLaurentEvalOne_T
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiParityReindex_inl
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiParityReindex_inr
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiPowerSeriesEvalOne_C_T
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiPowerSeriesEvalOne_X
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsEffectiveResiduePrimeAt_q
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuaternionLabel_conj
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsResiduePrimeAt_q
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_rightDoubleCoverNeighbor_rightDoubleCoverNeighbor
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_sideInverseEquiv_apply
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_sideInverseEquiv_symm_apply
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_checkSupport
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_variableSupport
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheckPresentation_blockLength_eq_card
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheckPresentation_incidence_iff_mem_region
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheckPresentation_mem_variableSupport_iff_mem_region
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheck_globalOperator_eq_extendLocalToRegister
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_eq_checkSupport
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inr
+import Theorems.Thm_QEC_QLDPC_mem_chainComplexCSSRowChecks
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_OperatorMatrix_matrixUnit_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_comp_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_id_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_additionalRetainedFactorSwap_apply_tmul
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_replacementFactorizedKraus_operator
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_cptp_toLinearMap
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_mapDensity_toOperator
+attribute [local simp] QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk
+attribute [local simp] QEC.Coding.LiftedProduct.firstRestriction_firstZeroExtension
+attribute [local simp] QEC.Coding.LiftedProduct.firstRestriction_secondZeroExtension
+attribute [local simp] QEC.Coding.LiftedProduct.secondRestriction_firstZeroExtension
+attribute [local simp] QEC.Coding.LiftedProduct.secondRestriction_secondZeroExtension
+attribute [local simp] QEC.Coding.ProductExpansion.HammingWeight_neg
+attribute [local simp] QEC.Coding.ProductExpansion.column_transpose
+attribute [local simp] QEC.Coding.ProductExpansion.row_transpose
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiCubeProduct.signedEuler_jtpPositiveTerm
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.FormalPowerSeries.qPochhammer_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_succ_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_right
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_succ
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qPochhammer_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiFourSquareSeries_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiGeometricSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiLambertTerm
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiSignedCubeSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiSignedCubeSeriesRaw
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedSquareSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalBilateralTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalIntegerThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalTriangularThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiEulerSixProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiEulerSquareProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiThetaProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiTriangularProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalBilateralTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalIntegerThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalTriangularThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.horizontalNeighbor_horizontalNeighbor
+attribute [local simp] QEC.Coding.TannerLiftedProduct.integerTriangularRoots_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiLaurentEvalOne_T
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiParityReindex_inl
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiParityReindex_inr
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiPowerSeriesEvalOne_C_T
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiPowerSeriesEvalOne_X
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsEffectiveResiduePrimeAt_q
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsQuaternionLabel_conj
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsResiduePrimeAt_q
+attribute [local simp] QEC.Coding.TannerLiftedProduct.rightDoubleCoverNeighbor_rightDoubleCoverNeighbor
+attribute [local simp] QEC.Coding.TannerLiftedProduct.sideInverseEquiv_apply
+attribute [local simp] QEC.Coding.TannerLiftedProduct.sideInverseEquiv_symm_apply
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_checkSupport
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_variableSupport
+attribute [local simp] QEC.QLDPC.FiniteQuditCheck.globalOperator_eq_extendLocalToRegister
+attribute [local simp] QEC.QLDPC.FiniteQuditCheckPresentation.blockLength_eq_card
+attribute [local simp] QEC.QLDPC.FiniteQuditCheckPresentation.incidence_iff_mem_region
+attribute [local simp] QEC.QLDPC.FiniteQuditCheckPresentation.mem_variableSupport_iff_mem_region
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inr
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_eq_checkSupport
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inr
+attribute [local simp] QEC.QLDPC.mem_chainComplexCSSRowChecks
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.OperatorMatrix.matrixUnit_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.comp_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.id_apply
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.QuditSubsystem.additionalRetainedFactorSwap_apply_tmul
+attribute [local simp] QEC.Semantics.QuditSubsystem.replacementFactorizedKraus_operator
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_cptp_toLinearMap
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_mapDensity_toOperator
+
+
+set_option autoImplicit false
+namespace QEC.Coding.TannerLiftedProduct.LPSGeneratorMatrixListMachine
+open QEC.Coding.BitTuring QEC.Coding.BitTuring.UnaryArithmetic
+open QEC.Coding.TannerLiftedProduct Turing StateTransition FieldProjection MatrixListQuery
+def matrixFields {p:ℕ} (a:LPSResiduePrime p) (t:LPSGeneratorIndex p):List ℕ :=
+   LPSMatrixProductMachine.fields a.q
+     (lpsEffectiveQuaternionSL a t.val (norm_eq_of_mem_lpsQuaternionShell a.degreePrime.pos t.property)).val
+theorem matrixFields_length {p:ℕ} (a:LPSResiduePrime p) (t:LPSGeneratorIndex p) :
+    (matrixFields a t).length=4 :=by simp [matrixFields,LPSMatrixProductMachine.fields]
+theorem matrixFields_bound {p:ℕ} (a:LPSResiduePrime p) (t:LPSGeneratorIndex p) :
+    ∀x∈matrixFields a t,x<a.q :=by
+  let : NeZero a.q:=⟨a.prime.ne_zero⟩
+  simp only [matrixFields,LPSMatrixProductMachine.fields,List.mem_cons,List.not_mem_nil,or_false]
+  intro x hx
+  rcases hx with h|h|h|h <;> subst x <;> exact ZMod.val_lt _
+def listFields {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :=
+   ts.flatMap (matrixFields a)
+theorem listFields_length {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    (listFields a ts).length=4*ts.length :=by
+  induction ts with
+  | nil=>simp [listFields]
+  | cons t ts ih=>
+    change (matrixFields a t++listFields a ts).length=_
+    rw [List.length_append,matrixFields_length,ih,List.length_cons]
+    omega
+theorem listFields_bound {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    ∀x∈listFields a ts,x<a.q :=by
+  intro x hx
+  simp only [listFields,List.mem_flatMap] at hx
+  rcases hx with ⟨t,ht,hx⟩
+  exact matrixFields_bound a t x hx
+theorem record_length {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    (stream (listFields a ts++[a.q])).length≤(4*ts.length+1)*(a.q+1) :=by
+  have h:=stream_length_bound a.q (listFields a ts) (listFields_bound a ts)
+  rw [stream_append]
+  simp only [List.length_append,stream,unary_length,List.length_cons,
+    List.length_nil,listFields_length] at h ⊢
+  nlinarith
+def collector {p:ℕ} : List (LPSGeneratorIndex p)→Machine
+  | []=>identityMachine
+  | t::ts=>Composition.machine (collector ts)
+      (queryMachine (4*ts.length) (LPSQuaternionMatrixMachine.machine p t.val))
+noncomputable def collectorTime {p:ℕ} : List (LPSGeneratorIndex p)→Polynomial ℕ
+  | []=>Polynomial.C 8*(Polynomial.X+1)
+  | t::ts=>collectorTime ts+LPSQuaternionMatrixMachine.time p t.val+
+      Polynomial.C 52*(Polynomial.C (4*ts.length+1)*(Polynomial.X+1)+1)
+noncomputable def collectorExec {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    EvalsToInTime (TM2.step (collector ts).program) ((collector ts).init (stream [a.q]))
+      (some ((collector ts).halt (stream (listFields a ts++[a.q]))))
+      ((collectorTime ts).eval a.q) :=by
+  induction ts with
+  | nil=>
+    have h:=identityExec (stream [a.q])
+    refine {h with steps_le_m:=h.steps_le_m.trans ?_}
+    simp only [collectorTime,Polynomial.eval_mul,Polynomial.eval_C,Polynomial.eval_add,
+      Polynomial.eval_X,Polynomial.eval_one,stream,List.length_append,
+      List.length_cons,List.length_nil,unary_length]
+    omega
+  | cons t ts ih=>
+    have hm:=LPSQuaternionMatrixMachine.polyExec a t.val
+      (norm_eq_of_mem_lpsQuaternionShell a.degreePrime.pos t.property)
+    rw [unary_length] at hm
+    change EvalsToInTime (TM2.step (LPSQuaternionMatrixMachine.machine p t.val).program)
+      ((LPSQuaternionMatrixMachine.machine p t.val).init (unary a.q))
+      (some ((LPSQuaternionMatrixMachine.machine p t.val).halt (raw (matrixFields a t))))
+      ((LPSQuaternionMatrixMachine.time p t.val).eval a.q) at hm
+    have hq:=queryExec (4*ts.length) (LPSQuaternionMatrixMachine.machine p t.val)
+      (LPSQuaternionMatrixMachine.time p t.val) (listFields a ts) (matrixFields a t) a.q
+      (listFields_length a ts) (matrixFields_length a t) (matrixFields_bound a t) hm
+    have h:=Composition.executes (collector ts)
+      (queryMachine (4*ts.length) (LPSQuaternionMatrixMachine.machine p t.val))
+      _ _ _ _ _ ih hq
+    refine {h with steps_le_m:=h.steps_le_m.trans ?_}
+    have hL:=record_length a ts
+    simp only [collectorTime,Polynomial.eval_add,Polynomial.eval_mul,Polynomial.eval_C,
+      Polynomial.eval_X,Polynomial.eval_one]
+    omega
+def machine {p:ℕ} (ts:List (LPSGeneratorIndex p)) := Composition.machine BitDelimiter.machine
+   (Composition.machine (collector ts) (FieldProjection.machine (4*ts.length) (prefixMask (4*ts.length))))
+def output {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) := raw (listFields a ts)
+noncomputable def time {p:ℕ} (ts:List (LPSGeneratorIndex p)) : Polynomial ℕ :=
+   collectorTime ts+Polynomial.C 10*(Polynomial.C (4*ts.length+1)*(Polynomial.X+1)+1)
+noncomputable def polyExec {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    EvalsToInTime (TM2.step (machine ts).program) ((machine ts).init (unary a.q))
+      (some ((machine ts).halt (output a ts))) ((time ts).eval a.q) :=by
+  have hd:=BitDelimiter.exec (unary a.q)
+  rw [show unary a.q++[false]=stream [a.q] by simp [stream]] at hd
+  have hc:=collectorExec a ts
+  have hp:=FieldProjection.polyExec (4*ts.length) (prefixMask (4*ts.length))
+    (listFields a ts++[a.q]) (by simp [listFields_length])
+  rw [selectPrefix (4*ts.length) 0 (listFields a ts) a.q (by simp [listFields_length])] at hp
+  have ht:=Composition.executes (collector ts)
+    (FieldProjection.machine (4*ts.length) (prefixMask (4*ts.length))) _ _ _ _ _ hc hp
+  have h:=Composition.executes BitDelimiter.machine
+    (Composition.machine (collector ts) (FieldProjection.machine (4*ts.length) (prefixMask (4*ts.length))))
+    _ _ _ _ _ hd ht
+  refine {h with steps_le_m:=h.steps_le_m.trans ?_}
+  have hL:=record_length a ts
+  simp only [time,FieldProjection.time,Polynomial.eval_add,Polynomial.eval_mul,Polynomial.eval_C,
+    Polynomial.eval_X,Polynomial.eval_one,stream,List.length_append,List.length_cons,List.length_nil,
+    unary_length]
+  nlinarith
+noncomputable def outputsInTime {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    TM2OutputsInTime (machine ts).toFinTM2 (unary a.q) (some (output a ts)) ((time ts).eval a.q) :=
+   Machine.outputsInTime (machine ts) _ _ _ (polyExec a ts)
+noncomputable def computableInPolyTime {p:ℕ} (ts:List (LPSGeneratorIndex p)) :
+    TM2ComputableInPolyTime (fun a:LPSResiduePrime p=>unary a.q) id (fun a=>output a ts) where
+  tm:=(machine ts).toFinTM2
+  inputAlphabet:=Equiv.refl Bool
+  outputAlphabet:=Equiv.refl Bool
+  time:=time ts
+  outputsFun:=fun a=>by
+    change TM2OutputsInTime (machine ts).toFinTM2 (List.map id (unary a.q))
+      (some (List.map id (output a ts))) ((time ts).eval (unary a.q).length)
+    have h:=outputsInTime a ts
+    dsimp only [Machine.toFinTM2] at h ⊢
+    simpa only [List.map_id,unary_length] using h
+open scoped MatrixGroups
+noncomputable def blockExec {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    EvalsToInTime (TM2.step (machine ts).program) ((machine ts).init (unary a.q))
+      (some ((machine ts).halt (output a ts))) ((time ts).eval (2*Fintype.card PSL(2,ZMod a.q))) :=by
+  have h:=polyExec a ts
+  exact {h with steps_le_m:=h.steps_le_m.trans (Composition.polynomial_eval_monotone
+    (time ts) a.q_le_two_mul_card_psl)}
+noncomputable def blockOutputsInTime {p:ℕ} (a:LPSResiduePrime p) (ts:List (LPSGeneratorIndex p)) :
+    TM2OutputsInTime (machine ts).toFinTM2 (unary a.q) (some (output a ts))
+      ((time ts).eval (2*Fintype.card PSL(2,ZMod a.q))) :=
+   Machine.outputsInTime (machine ts) _ _ _ (blockExec a ts)
+theorem orderedFields {p D:ℕ} (a:LPSResiduePrime p) (g:Fin D→LPSGeneratorIndex p) :
+    listFields a (List.ofFn g)=(List.ofFn (fun j=>matrixFields a (g j))).flatten :=by
+  simp [listFields,List.flatMap_def,List.map_ofFn,Function.comp_def]
+def generatorSL {p:ℕ} (a:LPSResiduePrime p) (t:LPSGeneratorIndex p) : SL(2,ZMod a.q) :=
+   lpsEffectiveQuaternionSL a t.val (norm_eq_of_mem_lpsQuaternionShell a.degreePrime.pos t.property)
+noncomputable def sourceDirections {p:ℕ} (hp:p.Prime) (hp4:p%4=1) : List (LPSGeneratorIndex p) :=
+   List.ofFn (lpsFinGeneratorEquiv (card_lpsQuaternionShell_eq_prime_add_one hp hp4))
+noncomputable def sourceOutput {p:ℕ} (a:LPSResiduePrime p) : List Bool :=
+   raw ((List.ofFn (fun j=>LPSMatrixProductMachine.fields a.q
+     (generatorSL a (lpsFinGeneratorEquiv
+       (card_lpsQuaternionShell_eq_prime_add_one a.degreePrime a.degreeModFour) j)).val)).flatten)
+theorem output_eq_source {p:ℕ} (a:LPSResiduePrime p) :
+    output a (sourceDirections a.degreePrime a.degreeModFour)=sourceOutput a :=by
+  simp only [output,sourceOutput,sourceDirections,orderedFields,generatorSL,matrixFields]
+noncomputable def sourceExec {p:ℕ} (a:LPSResiduePrime p) :
+    EvalsToInTime (TM2.step (machine (sourceDirections a.degreePrime a.degreeModFour)).program)
+      ((machine (sourceDirections a.degreePrime a.degreeModFour)).init (unary a.q))
+      (some ((machine (sourceDirections a.degreePrime a.degreeModFour)).halt (sourceOutput a)))
+      ((time (sourceDirections a.degreePrime a.degreeModFour)).eval a.q) :=by
+  have h:=polyExec a (sourceDirections a.degreePrime a.degreeModFour)
+  rw [output_eq_source] at h
+  exact h
+noncomputable def sourceComputableInPolyTime {p:ℕ} (hp:p.Prime) (hp4:p%4=1) :=
+   computableInPolyTime (sourceDirections hp hp4)
+noncomputable def sourceBlockExec {p:ℕ} (a:LPSResiduePrime p) :
+    EvalsToInTime (TM2.step (machine (sourceDirections a.degreePrime a.degreeModFour)).program)
+      ((machine (sourceDirections a.degreePrime a.degreeModFour)).init (unary a.q))
+      (some ((machine (sourceDirections a.degreePrime a.degreeModFour)).halt (sourceOutput a)))
+      ((time (sourceDirections a.degreePrime a.degreeModFour)).eval (2*Fintype.card PSL(2,ZMod a.q))) :=by
+  have h:=blockExec a (sourceDirections a.degreePrime a.degreeModFour)
+  rw [output_eq_source] at h
+  exact h
+end QEC.Coding.TannerLiftedProduct.LPSGeneratorMatrixListMachine
+
+

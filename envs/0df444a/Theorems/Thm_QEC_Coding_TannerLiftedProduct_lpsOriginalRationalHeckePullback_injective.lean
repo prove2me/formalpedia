@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalRationalHeckePullback_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalRationalHeckePullback_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:52:58.303845+00:00
 -- url     : https://prove2.me/theorems/275198d0-6f3b-4127-95be-6f905804af81

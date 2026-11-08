@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FullPathSCC_ln_monotone_certainty_equivalent
 -- name    : FullPathSCC.ln_monotone_certainty_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:21:36.618487+00:00
 -- url     : https://prove2.me/theorems/a5579196-d36f-4894-97c0-d56659dd9f20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UCalibDirichlet_lemma_D_3
 -- name    : UCalibDirichlet.lemma_D_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:24:11.560131+00:00
 -- url     : https://prove2.me/theorems/04951174-41b6-4597-84e9-d92d93e8fb0c

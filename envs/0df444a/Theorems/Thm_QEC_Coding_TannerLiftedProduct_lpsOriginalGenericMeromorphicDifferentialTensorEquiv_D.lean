@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGenericMeromorphicDifferentialTensorEquiv_D
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGenericMeromorphicDifferentialTensorEquiv_D
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:19:33.407496+00:00
 -- url     : https://prove2.me/theorems/6c9e9dd3-edc6-4852-8b8f-7261f2a118ca

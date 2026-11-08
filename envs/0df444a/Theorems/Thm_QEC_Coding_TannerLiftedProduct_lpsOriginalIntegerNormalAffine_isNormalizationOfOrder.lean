@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerNormalAffine_isNormalizationOfOrder
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalAffine_isNormalizationOfOrder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:36:37.476359+00:00
 -- url     : https://prove2.me/theorems/faa9eb38-b0c7-4069-87dd-30340b271787

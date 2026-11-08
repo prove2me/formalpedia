@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockchainMarketPower_effort_b
 -- name    : BlockchainMarketPower.effort_b
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:26:58.480491+00:00
 -- url     : https://prove2.me/theorems/2fdc83fe-913f-47f0-afa3-e82a243c3c93

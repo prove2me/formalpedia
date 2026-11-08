@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_env3_turn53_origin_integrated_BV_HJB_budget
 -- name    : AvramDividend.Classical.avram_bv_env3_turn53_origin_integrated_BV_HJB_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:14:56.142668+00:00
 -- url     : https://prove2.me/theorems/c1ab97e2-d8bb-413d-bfa5-481826595a16

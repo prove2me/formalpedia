@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_rounding_error_bound
 -- name    : NisanRonen.Rounding.rounding_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:24:50.513409+00:00
 -- url     : https://prove2.me/theorems/b5db0915-4e35-49a0-b1cf-d6e8c059555a

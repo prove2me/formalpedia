@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PertComp_lemma_2_8_ii
 -- name    : PertComp.lemma_2_8_ii
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:12:42.211502+00:00
 -- url     : https://prove2.me/theorems/14a04e4f-4092-434e-abe5-f6856d0461ff

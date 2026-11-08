@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnbiasedTimeAvg_proposition_C_1
 -- name    : UnbiasedTimeAvg.proposition_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:19:42.860161+00:00
 -- url     : https://prove2.me/theorems/4d2921b1-27b2-415a-9644-67e5b76cf71f

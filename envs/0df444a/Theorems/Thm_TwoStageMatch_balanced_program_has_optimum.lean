@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_balanced_program_has_optimum
 -- name    : TwoStageMatch.balanced_program_has_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:42.394191+00:00
 -- url     : https://prove2.me/theorems/66e33635-4e70-4bfa-ae52-90ca37ea0eca

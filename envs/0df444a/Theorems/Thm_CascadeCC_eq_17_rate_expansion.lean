@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CascadeCC_eq_17_rate_expansion
 -- name    : CascadeCC.eq_17_rate_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:34:33.370637+00:00
 -- url     : https://prove2.me/theorems/8f2a3106-ee23-4764-a510-c2d73a84a007

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f6_gaussian_ladder_renewal_cdf_laplace
 -- name    : AvramDividend.Classical.avram_p4_f6_gaussian_ladder_renewal_cdf_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:14:20.608203+00:00
 -- url     : https://prove2.me/theorems/e94805da-daf4-4721-b414-db7b6f5bc503

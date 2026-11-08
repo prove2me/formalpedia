@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJDilatedQuotient_nonconstant
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJDilatedQuotient_nonconstant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:27:51.324221+00:00
 -- url     : https://prove2.me/theorems/e05bd706-b7ce-4855-a644-075aa6a5a368

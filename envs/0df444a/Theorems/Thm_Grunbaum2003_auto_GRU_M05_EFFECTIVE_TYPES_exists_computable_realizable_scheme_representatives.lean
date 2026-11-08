@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_auto_GRU_M05_EFFECTIVE_TYPES_exists_computable_realizable_scheme_representatives
 -- name    : Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_exists_computable_realizable_scheme_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:21:37.871798+00:00
 -- url     : https://prove2.me/theorems/97afb87a-c1c4-48db-a4fa-1a449818610a

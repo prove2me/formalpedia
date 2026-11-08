@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ironclad_relPerf_one_gt_one
 -- name    : Ironclad.relPerf_one_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:26:44.916567+00:00
 -- url     : https://prove2.me/theorems/7445c920-058b-488b-882f-44234ddf75a6

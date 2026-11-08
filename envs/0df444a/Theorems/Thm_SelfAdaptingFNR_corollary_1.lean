@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfAdaptingFNR_corollary_1
 -- name    : SelfAdaptingFNR.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:39:49.483439+00:00
 -- url     : https://prove2.me/theorems/db4de2c2-27bd-4e45-8e59-8d43f4bd060b

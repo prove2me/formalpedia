@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OverbookBL_exists_admissible
 -- name    : OverbookBL.exists_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:53:32.960648+00:00
 -- url     : https://prove2.me/theorems/731784a7-c178-46e2-be3c-9907ccdb5920

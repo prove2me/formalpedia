@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_SmallSetExpansion_hasMeanZeroComplexOperatorBound_of_abs_meanZeroEigenvalues_le
 -- name    : QEC.Coding.SmallSetExpansion.hasMeanZeroComplexOperatorBound_of_abs_meanZeroEigenvalues_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:46:52.9003+00:00
 -- url     : https://prove2.me/theorems/951f9a18-80b7-4f29-9acc-14755fb7a4f9

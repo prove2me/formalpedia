@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitNBR_lemma14_terms
 -- name    : NestedLogitNBR.lemma14_terms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:47:03.666243+00:00
 -- url     : https://prove2.me/theorems/37106f14-47c4-4915-bd2b-9f6fb0f4a384

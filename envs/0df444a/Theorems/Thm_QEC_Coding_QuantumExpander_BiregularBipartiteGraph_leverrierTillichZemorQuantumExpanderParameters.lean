@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumExpander_BiregularBipartiteGraph_leverrierTillichZemorQuantumExpanderParameters
 -- name    : QEC.Coding.QuantumExpander.BiregularBipartiteGraph.leverrierTillichZemorQuantumExpanderParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:43:09.882971+00:00
 -- url     : https://prove2.me/theorems/84764176-08fc-46a0-953a-86d31557acf6

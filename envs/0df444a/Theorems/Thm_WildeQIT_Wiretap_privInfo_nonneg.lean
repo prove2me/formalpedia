@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Wiretap_privInfo_nonneg
 -- name    : WildeQIT.Wiretap.privInfo_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:28:38.645195+00:00
 -- url     : https://prove2.me/theorems/ef27793d-3f04-4cd2-90e2-f3d6447c0fc0

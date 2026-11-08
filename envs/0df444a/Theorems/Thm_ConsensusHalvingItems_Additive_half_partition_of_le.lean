@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_half_partition_of_le
 -- name    : ConsensusHalvingItems.Additive.half_partition_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:36:14.190637+00:00
 -- url     : https://prove2.me/theorems/0c552748-2bcf-4782-b9cf-3c514415af36

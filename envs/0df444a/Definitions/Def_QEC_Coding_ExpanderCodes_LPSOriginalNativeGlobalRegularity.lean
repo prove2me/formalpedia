@@ -1,0 +1,200 @@
+-- Prove2me | Definitions.Def_QEC_Coding_ExpanderCodes_LPSOriginalNativeGlobalRegularity
+-- name    : QEC_Coding_ExpanderCodes_LPSOriginalNativeGlobalRegularity
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-07T11:57:13.863778+00:00
+-- url     : https://prove2.me/theorems/cd1d3df9-e100-42f5-8085-a455c9de99aa
+-- title:
+--   LPSOriginal Native Global Regularity
+-- statement:
+--   Definitions and structural lemmas for LPSOriginal Native Global Regularity, from The Lean-QECert contributors's pinned Lean-QECert development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/ExpanderCodes/LPSOriginalNativeGlobalRegularity.lean
+
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSOriginalNativeGlobalDifferentials
+set_option autoImplicit false
+namespace QEC.Coding.TannerLiftedProduct
+open CategoryTheory _root_.AlgebraicGeometry Opposite QEC.Coding.AlgebraicGeometry
+open QEC.Coding.AlgebraicGeometry.MeromorphicGerms
+open scoped _root_.AlgebraicGeometry MatrixGroups UpperHalfPlane ModularForm Manifold ContDiff Modular
+noncomputable section
+variable (N : ℕ) [NeZero N] (hpos : 0 < N) (hN : 4 ∣ N)
+local notation "R" => lpsOriginalComplexNormalZeroChart N hpos
+local notation "I" => lpsOriginalComplexNormalInfinityChart N hpos
+local notation "K" => lpsOriginalGeneratedFunctionField N hpos
+local notation "Omega" => lpsOriginalComplexNormalDifferentialSheaf N hpos
+attribute [local instance] lpsOriginalZeroChartDifferentialAlgebra
+  lpsOriginalInfinityChartDifferentialAlgebra lpsOriginalZeroChartDifferentialSMul
+  lpsOriginalZeroChartDifferentialModule lpsOriginalZeroChartDifferentialSMulComm
+  lpsOriginalZeroChartOmegaSMul lpsOriginalZeroChartOmegaModule
+  lpsOriginalInfinityChartDifferentialSMul lpsOriginalInfinityChartDifferentialModule
+  lpsOriginalInfinityChartDifferentialSMulComm lpsOriginalInfinityChartOmegaSMul
+  lpsOriginalInfinityChartOmegaModule
+  LPSOriginalAffineKaehlerCompatibilityDictionary028
+  LPSOriginalAffineKaehlerCompatibilityDictionary029
+  LPSOriginalAffineKaehlerCompatibilityDictionary030
+  LPSOriginalAffineKaehlerCompatibilityDictionary031
+  LPSOriginalAffineKaehlerCompatibilityDictionary032
+  LPSOriginalAffineKaehlerCompatibilityDictionary033
+  LPSOriginalAffineKaehlerCompatibilityDictionary038
+  LPSOriginalAffineKaehlerCompatibilityDictionary039
+  LPSOriginalAffineKaehlerCompatibilityDictionary040
+  LPSOriginalAffineKaehlerCompatibilityDictionary042
+  LPSOriginalAffineKaehlerCompatibilityDictionary043
+  LPSOriginalAffineKaehlerCompatibilityDictionary044
+  LPSOriginalAffineKaehlerCompatibilityDictionary045
+  LPSOriginalAffineKaehlerCompatibilityDictionary047
+  LPSOriginalAffineKaehlerCompatibilityDictionary048
+  LPSOriginalAffineKaehlerCompatibilityDictionary049
+  LPSOriginalAffineKaehlerCompatibilityDictionary051
+  LPSOriginalAffineKaehlerCompatibilityDictionary052
+  LPSOriginalAffineKaehlerCompatibilityDictionary053
+  LPSOriginalAffineKaehlerCompatibilityDictionary054
+attribute [local instance] originalNativeGlobalZeroOpen originalNativeGlobalInfinityOpen
+attribute [local instance]
+  LPSOriginalAffineKaehlerCompatibilityDictionary001
+  LPSOriginalAffineKaehlerCompatibilityDictionary002
+  LPSOriginalAffineKaehlerCompatibilityDictionary003
+  LPSOriginalAffineKaehlerCompatibilityDictionary004
+  LPSOriginalAffineKaehlerCompatibilityDictionary011
+  LPSOriginalAffineKaehlerCompatibilityDictionary012
+  LPSOriginalAffineKaehlerCompatibilityDictionary013
+  LPSOriginalAffineKaehlerCompatibilityDictionary014
+  LPSOriginalAffineKaehlerCompatibilityDictionary023
+  LPSOriginalAffineKaehlerCompatibilityDictionary024
+  LPSOriginalAffineKaehlerCompatibilityDictionary025
+  LPSOriginalAffineKaehlerCompatibilityDictionary026
+end
+end QEC.Coding.TannerLiftedProduct
+namespace QEC.Coding.TannerLiftedProduct
+open CategoryTheory _root_.AlgebraicGeometry Opposite QEC.Coding.AlgebraicGeometry
+open QEC.Coding.AlgebraicGeometry.MeromorphicGerms
+open scoped _root_.AlgebraicGeometry MatrixGroups UpperHalfPlane ModularForm Manifold ContDiff Modular
+noncomputable section
+variable (N : ℕ) [NeZero N] (hpos : 0 < N) (hN : 4 ∣ N)
+local notation "R" => lpsOriginalComplexNormalZeroChart N hpos
+local notation "I" => lpsOriginalComplexNormalInfinityChart N hpos
+local notation "T" => lpsOriginalComplexNormalLaurentChart N hpos
+local notation "K" => lpsOriginalGeneratedFunctionField N hpos
+local notation "Omega" => lpsOriginalComplexNormalDifferentialSheaf N hpos
+local notation "X" => lpsOriginalComplexNormalGluedScheme N hpos
+local notation "c" => lpsOriginalComplexNormalGlobalConstantMap N hpos
+local notation "f0" => lpsOriginalComplexNormalGluedChartMap N hpos false
+local notation "f1" => lpsOriginalComplexNormalGluedChartMap N hpos true
+local notation "q0" => CommRingCat.ofHom (lpsOriginalComplexNormalZeroToLaurent N hpos)
+local notation "q1" => CommRingCat.ofHom (lpsOriginalComplexNormalInfinityToLaurent N hpos)
+attribute [local instance] lpsOriginalZeroChartDifferentialAlgebra
+  lpsOriginalInfinityChartDifferentialAlgebra lpsOriginalZeroChartDifferentialSMul
+  lpsOriginalZeroChartDifferentialModule lpsOriginalZeroChartDifferentialSMulComm
+  lpsOriginalZeroChartOmegaSMul lpsOriginalZeroChartOmegaModule
+  lpsOriginalInfinityChartDifferentialSMul lpsOriginalInfinityChartDifferentialModule
+  lpsOriginalInfinityChartDifferentialSMulComm lpsOriginalInfinityChartOmegaSMul
+  lpsOriginalInfinityChartOmegaModule
+  LPSOriginalAffineKaehlerCompatibilityDictionary028
+  LPSOriginalAffineKaehlerCompatibilityDictionary029
+  LPSOriginalAffineKaehlerCompatibilityDictionary030
+  LPSOriginalAffineKaehlerCompatibilityDictionary031
+  LPSOriginalAffineKaehlerCompatibilityDictionary032
+  LPSOriginalAffineKaehlerCompatibilityDictionary033
+  LPSOriginalAffineKaehlerCompatibilityDictionary038
+  LPSOriginalAffineKaehlerCompatibilityDictionary039
+  LPSOriginalAffineKaehlerCompatibilityDictionary040
+  LPSOriginalAffineKaehlerCompatibilityDictionary042
+  LPSOriginalAffineKaehlerCompatibilityDictionary043
+  LPSOriginalAffineKaehlerCompatibilityDictionary044
+  LPSOriginalAffineKaehlerCompatibilityDictionary045
+  LPSOriginalAffineKaehlerCompatibilityDictionary047
+  LPSOriginalAffineKaehlerCompatibilityDictionary048
+  LPSOriginalAffineKaehlerCompatibilityDictionary049
+  LPSOriginalAffineKaehlerCompatibilityDictionary051
+  LPSOriginalAffineKaehlerCompatibilityDictionary052
+  LPSOriginalAffineKaehlerCompatibilityDictionary053
+  LPSOriginalAffineKaehlerCompatibilityDictionary054
+attribute [local instance] originalNativeGlobalZeroOpen originalNativeGlobalInfinityOpen
+attribute [local instance]
+  LPSOriginalAffineKaehlerCompatibilityDictionary001
+  LPSOriginalAffineKaehlerCompatibilityDictionary002
+  LPSOriginalAffineKaehlerCompatibilityDictionary003
+  LPSOriginalAffineKaehlerCompatibilityDictionary004
+  LPSOriginalAffineKaehlerCompatibilityDictionary011
+  LPSOriginalAffineKaehlerCompatibilityDictionary012
+  LPSOriginalAffineKaehlerCompatibilityDictionary013
+  LPSOriginalAffineKaehlerCompatibilityDictionary014
+  LPSOriginalAffineKaehlerCompatibilityDictionary023
+  LPSOriginalAffineKaehlerCompatibilityDictionary024
+  LPSOriginalAffineKaehlerCompatibilityDictionary025
+  LPSOriginalAffineKaehlerCompatibilityDictionary026
+attribute [local instance] LPSOriginalAffineKaehlerCompatibilityDictionary027
+  LPSOriginalAffineKaehlerCompatibilityDictionary034
+  LPSOriginalAffineKaehlerCompatibilityDictionary035
+  LPSOriginalAffineKaehlerCompatibilityDictionary036
+  LPSOriginalAffineKaehlerCompatibilityDictionary037
+  LPSOriginalAffineKaehlerCompatibilityDictionary041
+  LPSOriginalAffineKaehlerCompatibilityDictionary050
+def lpsOriginalNativeGlobalGenericDifferential (z : Γ(Omega, ⊤)) : KaehlerDifferential ℂ K :=
+  KaehlerDifferential.map ℂ ℂ R K (lpsOriginalNativeGlobalAffinePair N hpos z).1
+end
+end QEC.Coding.TannerLiftedProduct
+namespace QEC.Coding.TannerLiftedProduct
+open CategoryTheory _root_.AlgebraicGeometry Opposite QEC.Coding.AlgebraicGeometry
+open QEC.Coding.AlgebraicGeometry.MeromorphicGerms
+open scoped _root_.AlgebraicGeometry MatrixGroups UpperHalfPlane ModularForm Manifold ContDiff Modular
+noncomputable section
+variable (N : ℕ) [NeZero N] (hpos : 0 < N) (hN : 4 ∣ N)
+local notation "R" => lpsOriginalComplexNormalZeroChart N hpos
+local notation "I" => lpsOriginalComplexNormalInfinityChart N hpos
+local notation "T" => lpsOriginalComplexNormalLaurentChart N hpos
+local notation "K" => lpsOriginalGeneratedFunctionField N hpos
+local notation "Omega" => lpsOriginalComplexNormalDifferentialSheaf N hpos
+attribute [local instance] lpsOriginalZeroChartDifferentialAlgebra
+  lpsOriginalInfinityChartDifferentialAlgebra lpsOriginalZeroChartDifferentialSMul
+  lpsOriginalZeroChartDifferentialModule lpsOriginalZeroChartDifferentialSMulComm
+  lpsOriginalZeroChartOmegaSMul lpsOriginalZeroChartOmegaModule
+  lpsOriginalInfinityChartDifferentialSMul lpsOriginalInfinityChartDifferentialModule
+  lpsOriginalInfinityChartDifferentialSMulComm lpsOriginalInfinityChartOmegaSMul
+  lpsOriginalInfinityChartOmegaModule
+  LPSOriginalAffineKaehlerCompatibilityDictionary028
+  LPSOriginalAffineKaehlerCompatibilityDictionary029
+  LPSOriginalAffineKaehlerCompatibilityDictionary030
+  LPSOriginalAffineKaehlerCompatibilityDictionary031
+  LPSOriginalAffineKaehlerCompatibilityDictionary032
+  LPSOriginalAffineKaehlerCompatibilityDictionary033
+  LPSOriginalAffineKaehlerCompatibilityDictionary038
+  LPSOriginalAffineKaehlerCompatibilityDictionary039
+  LPSOriginalAffineKaehlerCompatibilityDictionary040
+  LPSOriginalAffineKaehlerCompatibilityDictionary042
+  LPSOriginalAffineKaehlerCompatibilityDictionary043
+  LPSOriginalAffineKaehlerCompatibilityDictionary044
+  LPSOriginalAffineKaehlerCompatibilityDictionary045
+  LPSOriginalAffineKaehlerCompatibilityDictionary047
+  LPSOriginalAffineKaehlerCompatibilityDictionary048
+  LPSOriginalAffineKaehlerCompatibilityDictionary049
+  LPSOriginalAffineKaehlerCompatibilityDictionary051
+  LPSOriginalAffineKaehlerCompatibilityDictionary052
+  LPSOriginalAffineKaehlerCompatibilityDictionary053
+  LPSOriginalAffineKaehlerCompatibilityDictionary054
+attribute [local instance] originalNativeGlobalZeroOpen originalNativeGlobalInfinityOpen
+attribute [local instance]
+  LPSOriginalAffineKaehlerCompatibilityDictionary001
+  LPSOriginalAffineKaehlerCompatibilityDictionary002
+  LPSOriginalAffineKaehlerCompatibilityDictionary003
+  LPSOriginalAffineKaehlerCompatibilityDictionary004
+  LPSOriginalAffineKaehlerCompatibilityDictionary011
+  LPSOriginalAffineKaehlerCompatibilityDictionary012
+  LPSOriginalAffineKaehlerCompatibilityDictionary013
+  LPSOriginalAffineKaehlerCompatibilityDictionary014
+  LPSOriginalAffineKaehlerCompatibilityDictionary023
+  LPSOriginalAffineKaehlerCompatibilityDictionary024
+  LPSOriginalAffineKaehlerCompatibilityDictionary025
+  LPSOriginalAffineKaehlerCompatibilityDictionary026
+attribute [local instance] LPSOriginalAffineKaehlerCompatibilityDictionary027
+  LPSOriginalAffineKaehlerCompatibilityDictionary034
+  LPSOriginalAffineKaehlerCompatibilityDictionary035
+  LPSOriginalAffineKaehlerCompatibilityDictionary036
+  LPSOriginalAffineKaehlerCompatibilityDictionary037
+  LPSOriginalAffineKaehlerCompatibilityDictionary041
+  LPSOriginalAffineKaehlerCompatibilityDictionary050
+end
+end QEC.Coding.TannerLiftedProduct
+
+

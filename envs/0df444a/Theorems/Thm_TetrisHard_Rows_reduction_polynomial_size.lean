@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TetrisHard_Rows_reduction_polynomial_size
 -- name    : TetrisHard.Rows.reduction_polynomial_size
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T22:56:19.650278+00:00
 -- url     : https://prove2.me/theorems/326e04e8-55b8-4bd8-b563-a1a46a8a5c58

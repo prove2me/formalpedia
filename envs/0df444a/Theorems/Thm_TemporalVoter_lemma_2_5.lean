@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TemporalVoter_lemma_2_5
 -- name    : TemporalVoter.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:10:06.638903+00:00
 -- url     : https://prove2.me/theorems/3bbdae25-2ebe-4217-a967-b2ef60ffda6a

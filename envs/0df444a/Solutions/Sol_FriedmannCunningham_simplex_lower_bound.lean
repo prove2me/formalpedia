@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FriedmannCunningham.simplex_lower_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-07T04:29:45.992072+00:00
 -- url     : https://prove2.me/submissions/aaf4bca5-cc39-401c-9791-f9ecb71b1769
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_friedmann_cunningham
 import Theorems.Thm_FriedmannCunningham_mdp_lower_bound

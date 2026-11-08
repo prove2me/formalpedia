@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_binaryEntropy_lt_iff_binEntropy_lt
 -- name    : QEC.Coding.QuantumTanner.binaryEntropy_lt_iff_binEntropy_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:01:07.875845+00:00
 -- url     : https://prove2.me/theorems/ff0ee7aa-87df-4b12-8e2f-80a5fc4db312

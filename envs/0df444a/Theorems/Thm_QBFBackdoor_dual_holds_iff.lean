@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QBFBackdoor_dual_holds_iff
 -- name    : QBFBackdoor.dual_holds_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:34:08.587564+00:00
 -- url     : https://prove2.me/theorems/0cc9453a-ceb5-4fbe-98e6-8ac06b241854

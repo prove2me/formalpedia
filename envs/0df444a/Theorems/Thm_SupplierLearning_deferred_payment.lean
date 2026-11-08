@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierLearning_deferred_payment
 -- name    : SupplierLearning.deferred_payment
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:50:41.433402+00:00
 -- url     : https://prove2.me/theorems/d2bdb9e5-6990-424c-9cd6-bd74a99e9c83

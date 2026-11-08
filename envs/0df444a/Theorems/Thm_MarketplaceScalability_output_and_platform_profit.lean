@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceScalability_output_and_platform_profit
 -- name    : MarketplaceScalability.output_and_platform_profit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:51:17.898992+00:00
 -- url     : https://prove2.me/theorems/59de6869-938a-4dea-b5d8-ce02c8c0b8ce

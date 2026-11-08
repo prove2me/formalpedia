@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSLexicographicCounter_rawTuples_filterMap
 -- name    : QEC.Coding.TannerLiftedProduct.LPSLexicographicCounter.rawTuples_filterMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:55:45.505461+00:00
 -- url     : https://prove2.me/theorems/e23da304-d7b5-4785-82f6-55acdfeef147

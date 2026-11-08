@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherComm_centralAt_iff_twoTerm
 -- name    : HigherComm.centralAt_iff_twoTerm
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-06T16:27:03.176208+00:00
 -- url     : https://prove2.me/theorems/527266d3-cebb-4c01-8a7c-d626770e660d

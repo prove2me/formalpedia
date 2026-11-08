@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_vcgPay_nonneg
 -- name    : RelaxRoundPoA.vcgPay_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:50:45.367876+00:00
 -- url     : https://prove2.me/theorems/8b7bab3c-affd-4847-91a9-c81fff24c4a3

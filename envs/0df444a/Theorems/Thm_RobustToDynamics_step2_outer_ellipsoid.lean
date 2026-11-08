@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustToDynamics_step2_outer_ellipsoid
 -- name    : RobustToDynamics.step2_outer_ellipsoid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:38.124164+00:00
 -- url     : https://prove2.me/theorems/02edafc9-570a-44d8-b2fd-b845ad67f3bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GhadimiLanAudit_TwoPhase_two_phase_oracle_complexity
 -- name    : GhadimiLanAudit.TwoPhase.two_phase_oracle_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:52:13.551797+00:00
 -- url     : https://prove2.me/theorems/7f8ba115-e218-4da6-9e20-a101dd304a35

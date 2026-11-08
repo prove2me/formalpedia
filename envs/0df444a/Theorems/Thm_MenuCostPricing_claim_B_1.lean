@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MenuCostPricing_claim_B_1
 -- name    : MenuCostPricing.claim_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:36:18.23623+00:00
 -- url     : https://prove2.me/theorems/f5941aea-cc07-412f-8e40-25231c4aad22

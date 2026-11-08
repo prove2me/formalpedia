@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiLambertTerm_eq_geometric
 -- name    : QEC.Coding.TannerLiftedProduct.jacobiLambertTerm_eq_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:53:32.941696+00:00
 -- url     : https://prove2.me/theorems/2eed43e6-b0a8-455b-ad4d-8ff95cd22ff8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothNestedSim_eq_EC_6_2
 -- name    : SmoothNestedSim.eq_EC_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:39:13.655338+00:00
 -- url     : https://prove2.me/theorems/aab149c8-47cf-4315-bf75-7c3913cfa3c2

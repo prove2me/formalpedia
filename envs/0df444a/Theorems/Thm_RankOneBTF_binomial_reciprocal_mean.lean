@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankOneBTF_binomial_reciprocal_mean
 -- name    : RankOneBTF.binomial_reciprocal_mean
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:40.892346+00:00
 -- url     : https://prove2.me/theorems/ac9226f4-cebd-4912-93f5-e7584ca14e27

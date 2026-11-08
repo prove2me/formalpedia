@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P23_zero_exponent_sum
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P23.zero_exponent_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:36:54.311495+00:00
 -- url     : https://prove2.me/theorems/c4ce8796-4262-46a9-991a-8bbf308b6cb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniMix_M_delta_eq
 -- name    : OmniMix.M_delta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:39:03.479858+00:00
 -- url     : https://prove2.me/theorems/ebc7aae9-cb6c-4bec-8001-889cf50c9f65

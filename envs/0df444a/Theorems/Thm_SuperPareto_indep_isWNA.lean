@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperPareto_indep_isWNA
 -- name    : SuperPareto.indep_isWNA
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:16:13.325239+00:00
 -- url     : https://prove2.me/theorems/1fb4db87-b43c-4878-a2f8-fb0eb5bc87c4

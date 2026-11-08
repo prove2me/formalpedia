@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlantedIQP_lemma_16
 -- name    : PlantedIQP.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:20:27.1625+00:00
 -- url     : https://prove2.me/theorems/001f00b7-1e8b-4a56-b292-efa25fdb8381

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QBFBackdoor_toCNF_spec
 -- name    : QBFBackdoor.toCNF_spec
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:34:04.404194+00:00
 -- url     : https://prove2.me/theorems/1187dec7-f69e-4918-bbde-406953d86cd7

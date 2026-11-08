@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P84_optical_cut_factor_two
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P84.optical_cut_factor_two
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:13:05.379919+00:00
 -- url     : https://prove2.me/theorems/861dc3f4-0279-4a34-b513-f5c44e0ca394

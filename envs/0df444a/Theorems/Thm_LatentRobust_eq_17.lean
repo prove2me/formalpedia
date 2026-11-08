@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatentRobust_eq_17
 -- name    : LatentRobust.eq_17
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:19:10.353754+00:00
 -- url     : https://prove2.me/theorems/67117e97-2840-4b01-b531-f9d0a4768c75

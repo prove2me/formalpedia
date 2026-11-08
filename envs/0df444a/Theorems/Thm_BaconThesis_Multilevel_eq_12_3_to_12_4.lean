@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Multilevel_eq_12_3_to_12_4
 -- name    : BaconThesis.Multilevel.eq_12_3_to_12_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:37:21.296047+00:00
 -- url     : https://prove2.me/theorems/d8d7eb2b-be77-402b-876f-154293617ec6

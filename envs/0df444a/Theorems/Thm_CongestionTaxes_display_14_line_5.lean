@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionTaxes_display_14_line_5
 -- name    : CongestionTaxes.display_14_line_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:34:17.364335+00:00
 -- url     : https://prove2.me/theorems/e9ce349f-ab73-44de-afdb-57b0b5ec54b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagerFairDiv_theorem_3_sideBetPO_of_pareto
 -- name    : WagerFairDiv.theorem_3_sideBetPO_of_pareto
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:57.195859+00:00
 -- url     : https://prove2.me/theorems/9562de97-c582-48ad-885c-c177e759333f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionTaxes_c_convex
 -- name    : CongestionTaxes.c_convex
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:32:42.643239+00:00
 -- url     : https://prove2.me/theorems/57547efc-2246-4ba3-929f-83458f4d2e8b

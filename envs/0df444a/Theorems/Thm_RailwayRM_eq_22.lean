@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RailwayRM_eq_22
 -- name    : RailwayRM.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:34:37.970835+00:00
 -- url     : https://prove2.me/theorems/aa2f8ace-9f79-4b15-948c-3c19c848dee8

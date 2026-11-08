@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitNBR_nestRevenue_succ_le
 -- name    : NestedLogitNBR.nestRevenue_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:46:37.160681+00:00
 -- url     : https://prove2.me/theorems/207b5581-be85-4c59-bc01-78e49514a2d3

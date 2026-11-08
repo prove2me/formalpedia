@@ -14738,10 +14738,10 @@
 {"parent": "BitcoinSig.derEncode_valid", "child": "BitcoinSig", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_21_13_9", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c303083_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "ShadowTomography_UpperBound_POVM", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["statement"]}
+{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "ShadowTomography_UpperBound_POVM", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.theorem_2", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.sum_ite_mul_sum_ite_readable", "child": "KLSModular_LevyStochCalc_Brownian_ItoAlgebraProduct", "via": ["solution", "statement"]}
 {"parent": "OAI.Kadison.Decomposable.homomorphisms_ae_of_countable_relations", "child": "OAIQ039C023", "via": ["solution", "statement"]}
 {"parent": "KWSpectrum.Estimator.eq_21", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
@@ -38380,9 +38380,9 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared28.right_parallel_002_part08_checked", "child": "D1Bound5_SmallPairLightData28RightCached_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared28.right_parallel_002_part08_checked", "child": "D1Bound5_SmallPairLightData28Sieve_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared28.right_parallel_002_part08_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_12", "child": "ShadowTomography_UpperBound_seqAccept", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_12", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_12", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_12", "child": "ShadowTomography_UpperBound_seqAccept", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_12", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_12", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["solution", "statement"]}
 {"parent": "BS2_b3ba934b_Endpoint40RawOther2Chunk08", "child": "BS2_b3ba934b_Endpoint40NumericData", "via": ["statement"]}
 {"parent": "BS2_b3ba934b_Endpoint40RawOther2Chunk08", "child": "BS2_b3ba934b_RawCoreBounds", "via": ["statement"]}
 {"parent": "OAI.LogConcaveSampling.OracleCompiler.exists_source_numerical_ready", "child": "OAIQ048L002", "via": ["statement"]}

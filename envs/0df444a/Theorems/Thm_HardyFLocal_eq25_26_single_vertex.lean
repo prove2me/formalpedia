@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyFLocal_eq25_26_single_vertex
 -- name    : HardyFLocal.eq25_26_single_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:39:06.31688+00:00
 -- url     : https://prove2.me/theorems/a7915bd2-8888-48e1-93c1-752e4bd7a5f4

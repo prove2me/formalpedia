@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Underdogs_eq12_resource_criterion
 -- name    : Underdogs.eq12_resource_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:53:40.013991+00:00
 -- url     : https://prove2.me/theorems/a64cd639-2ecb-4f73-9064-dc7679aaa24c

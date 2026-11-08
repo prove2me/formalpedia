@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCore_lemma_2_i
 -- name    : FastCore.lemma_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:31:22.583984+00:00
 -- url     : https://prove2.me/theorems/fd713b9c-2919-4fe3-b0c4-390aed3bdc9d

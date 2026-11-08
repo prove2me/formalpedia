@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NontruthfulPA_gsp_image_le
 -- name    : NontruthfulPA.gsp_image_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:18:07.258951+00:00
 -- url     : https://prove2.me/theorems/ab12c8ea-95d4-4de3-b750-d5f0d77fcab5

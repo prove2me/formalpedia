@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyFLocal_eq21_pair_expansion
 -- name    : HardyFLocal.eq21_pair_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:39:15.747564+00:00
 -- url     : https://prove2.me/theorems/c928c053-417d-4fc6-baba-13fcc393501f

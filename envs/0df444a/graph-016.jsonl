@@ -245,8 +245,8 @@
 {"parent": "Submission_ThreeSumApsp_Lang_RowMajor", "child": "Submission_ThreeSumApsp_Lang_Lib_Seg", "via": ["statement"]}
 {"parent": "ThreeSum.BinomialEntropy.weight_mode", "child": "Submission_ThreeSum_Parameters", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.BinomialEntropy.weight_mode", "child": "Submission_ThreeSum_BinomialEntropy", "via": ["solution", "statement"]}
-{"parent": "StochHiddenConvex.lemma_3_1", "child": "StochHiddenConvex_Model_G", "via": ["statement"]}
-{"parent": "StochHiddenConvex.lemma_3_1", "child": "StochHiddenConvex_Model_GlobalModel", "via": ["statement"]}
+{"parent": "StochHiddenConvex.lemma_3_1", "child": "StochHiddenConvex_Model_G", "via": ["solution", "statement"]}
+{"parent": "StochHiddenConvex.lemma_3_1", "child": "StochHiddenConvex_Model_GlobalModel", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCoverActualMoment.cast_taggedLeft", "child": "Submission_ThreeSum_TernaryCoverHighMoment", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCoverActualMoment.cast_taggedLeft", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCoverActualMoment.cast_taggedLeft", "child": "Submission_Weighted_GlobalLocalParameters", "via": ["solution", "statement"]}
@@ -4300,9 +4300,9 @@
 {"parent": "ThreeSum.WeightedGlobalEntropyRates.typeCount_pos", "child": "Submission_ThreeSum_TernaryTypeCardinality", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalEntropyRates.typeCount_pos", "child": "Submission_Weighted_Global_TernaryCoverScale", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalEntropyRates.typeCount_pos", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
-{"parent": "ImpactCopula.lemma_1", "child": "ImpactCopula_diniRightUpper", "via": ["statement"]}
-{"parent": "ImpactCopula.lemma_1", "child": "actuarial_coIsCopula", "via": ["statement"]}
-{"parent": "ImpactCopula.lemma_1", "child": "ImpactCopula_diniLeftUpper", "via": ["statement"]}
+{"parent": "ImpactCopula.lemma_1", "child": "ImpactCopula_diniRightUpper", "via": ["solution", "statement"]}
+{"parent": "ImpactCopula.lemma_1", "child": "actuarial_coIsCopula", "via": ["solution", "statement"]}
+{"parent": "ImpactCopula.lemma_1", "child": "ImpactCopula_diniLeftUpper", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalCoverBounds.localPrime_odd", "child": "Submission_ThreeSum_LayerCounts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LocalCoverBounds.localPrime_odd", "child": "Submission_ThreeSum_LocalCoverBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SparseBoxes.queryFree_eq_filter_min", "child": "Submission_ThreeSum_SparseBoxes", "via": ["solution", "statement"]}
@@ -5271,7 +5271,7 @@
 {"parent": "ThreeSum.SharedReportingBankResourceBounds.band_le_magnitude", "child": "Submission_ThreeSum_SharedReportingBankResourceBoundsScales", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SharedReportingBankResourceBounds.band_le_magnitude", "child": "Submission_ThreeSum_SharedReportingBankResourceBounds", "via": ["solution", "statement"]}
 {"parent": "ChurnServiceMode.proposition_2", "child": "ChurnServiceMode_Prop2Conditions", "via": ["statement"]}
-{"parent": "OverbookBL.claim_4", "child": "OverbookBL_IsAdmissible", "via": ["statement"]}
+{"parent": "OverbookBL.claim_4", "child": "OverbookBL_IsAdmissible", "via": ["solution", "statement"]}
 {"parent": "OAIQ098E180", "child": "OAIQ098E017", "via": ["statement"]}
 {"parent": "ThreeSum.TernaryBankStageModel.forwardStage_full", "child": "Submission_ThreeSum_LightTernaryInversePass", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryBankStageModel.forwardStage_full", "child": "Submission_ThreeSum_TernaryBankStageModel", "via": ["solution", "statement"]}

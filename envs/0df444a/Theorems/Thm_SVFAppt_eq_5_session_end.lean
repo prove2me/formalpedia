@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVFAppt_eq_5_session_end
 -- name    : SVFAppt.eq_5_session_end
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:21:57.993242+00:00
 -- url     : https://prove2.me/theorems/5a9c8254-2c83-4540-ad5a-ad2db591bcab

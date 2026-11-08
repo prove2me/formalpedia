@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFull_PrimalGrad_theorem_3_1_full
 -- name    : RelSmoothFull.PrimalGrad.theorem_3_1_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:42:02.151769+00:00
 -- url     : https://prove2.me/theorems/cf7fb1fc-edf3-4088-8477-3743a132752c

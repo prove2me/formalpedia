@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoWayCVQKD_g_asymptotic
 -- name    : TwoWayCVQKD.g_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:44:09.896938+00:00
 -- url     : https://prove2.me/theorems/cde0ebfb-e696-44a9-93d4-71da9dd0a9e9

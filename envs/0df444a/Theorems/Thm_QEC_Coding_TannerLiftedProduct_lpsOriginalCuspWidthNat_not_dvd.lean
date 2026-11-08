@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCuspWidthNat_not_dvd
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCuspWidthNat_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:29:22.117142+00:00
 -- url     : https://prove2.me/theorems/7a588047-1410-4d94-98dd-864b5e87637c

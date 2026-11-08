@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_LeftRightCayleySquareComplex_exceptionalVertices_card_bound_source
 -- name    : QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.exceptionalVertices_card_bound_source
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:12:07.561982+00:00
 -- url     : https://prove2.me/theorems/24025ee1-b7fe-4428-8daa-36f3cabcc191

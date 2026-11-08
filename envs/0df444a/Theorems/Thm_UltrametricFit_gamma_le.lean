@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UltrametricFit_gamma_le
 -- name    : UltrametricFit.gamma_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:46:22.311985+00:00
 -- url     : https://prove2.me/theorems/2f5e1020-db0f-4de3-881c-4bf289c1bfd2

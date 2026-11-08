@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CutwidthCircuitLB_claim_2_1
 -- name    : CutwidthCircuitLB.claim_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:29:32.063208+00:00
 -- url     : https://prove2.me/theorems/93124e71-5c0d-4318-bb02-d30fd99a46d5

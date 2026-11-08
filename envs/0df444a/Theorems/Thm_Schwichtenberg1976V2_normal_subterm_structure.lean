@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Schwichtenberg1976V2_normal_subterm_structure
 -- name    : Schwichtenberg1976V2.normal_subterm_structure
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T06:12:12.837696+00:00
 -- url     : https://prove2.me/theorems/f555d24c-a4a9-469c-9df4-1bce60a7f62b

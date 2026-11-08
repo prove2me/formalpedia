@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_summand_differentiable
 -- name    : OAI.CubicEisenstein.summand_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:53:05.008659+00:00
 -- url     : https://prove2.me/theorems/fcf90265-f51d-4af9-a556-3223147ff236

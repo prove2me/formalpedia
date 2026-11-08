@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AirlineYieldMgmt_BookingLimits_booking_limit_policy_optimal
 -- name    : AirlineYieldMgmt.BookingLimits.booking_limit_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:13:03.315544+00:00
 -- url     : https://prove2.me/theorems/2e18c2c2-635b-44c9-8281-db4635e6ca74

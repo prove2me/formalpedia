@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_window_weight_bounds
 -- name    : NestedLogitAssort.DeltaGrid.window_weight_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:11:25.385557+00:00
 -- url     : https://prove2.me/theorems/7c7d8053-fb77-403b-8fb6-99486b982fe7

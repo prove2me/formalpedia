@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsE2DifferenceThetaBasis_apply
 -- name    : QEC.Coding.TannerLiftedProduct.lpsE2DifferenceThetaBasis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:27:47.00792+00:00
 -- url     : https://prove2.me/theorems/91343266-2f60-4dbe-a793-50afb1760559

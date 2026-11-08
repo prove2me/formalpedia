@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalSpecialFibreSmoothOpenToPrimeField_smooth
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreSmoothOpenToPrimeField_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:35:04.570763+00:00
 -- url     : https://prove2.me/theorems/96a468a6-e8bb-49c4-825e-93577274095c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustKellyTV_lemma_A_2
 -- name    : RobustKellyTV.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:35:09.727104+00:00
 -- url     : https://prove2.me/theorems/b6acb047-cadf-496d-8861-6e30b4559986

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingDiagonal_nonzero_spectrum
 -- name    : KingDiagonal.nonzero_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:14:19.524816+00:00
 -- url     : https://prove2.me/theorems/d5cb05cd-e76f-4df8-813b-68737a53c0b7

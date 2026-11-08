@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScholtesStab_multipliers_unique
 -- name    : ScholtesStab.multipliers_unique
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:22:00.107504+00:00
 -- url     : https://prove2.me/theorems/2818a5ed-7b3f-4180-9c96-f2ddd54829cf

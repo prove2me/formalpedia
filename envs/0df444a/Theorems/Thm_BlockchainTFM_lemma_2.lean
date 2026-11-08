@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockchainTFM_lemma_2
 -- name    : BlockchainTFM.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:04:16.996304+00:00
 -- url     : https://prove2.me/theorems/2201f0d9-0791-44b1-8fd2-7a15a4b8a3e3

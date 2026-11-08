@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuaternionAwayPGL_eq_one_iff
 -- name    : QEC.Coding.TannerLiftedProduct.lpsQuaternionAwayPGL_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:48:21.991072+00:00
 -- url     : https://prove2.me/theorems/547db4d9-1ba6-495a-928b-314cea8c315a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherComm_shift_rotation
 -- name    : HigherComm.shift_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-06T16:25:49.586815+00:00
 -- url     : https://prove2.me/theorems/3329fb01-810f-45f1-997f-57423ce85cf0

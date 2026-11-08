@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsHeckeConjugateIntersection_index
 -- name    : QEC.Coding.TannerLiftedProduct.lpsHeckeConjugateIntersection_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:48:32.473411+00:00
 -- url     : https://prove2.me/theorems/e70fee70-2ddb-4b08-ba3f-fe27315bf0f5

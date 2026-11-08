@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentLowerBound_regret_eq_neg_beta_sum_sqErr
 -- name    : KeskinZeevi.IncumbentLowerBound.regret_eq_neg_beta_sum_sqErr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:03:51.910128+00:00
 -- url     : https://prove2.me/theorems/633136c1-dba2-44cc-93e9-6e987317a931

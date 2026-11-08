@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P34_schur_excess_height_zero
 -- name    : QAlgorithms.Papers.Independent.Extend50.P34.schur_excess_height_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T16:47:33.980512+00:00
 -- url     : https://prove2.me/theorems/6be06c46-aa89-4f07-9420-8230eb10da4b

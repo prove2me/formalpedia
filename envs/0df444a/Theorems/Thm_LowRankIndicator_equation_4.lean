@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankIndicator_equation_4
 -- name    : LowRankIndicator.equation_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:18:45.049295+00:00
 -- url     : https://prove2.me/theorems/9959cee7-8393-4650-a3d6-34c870a284be

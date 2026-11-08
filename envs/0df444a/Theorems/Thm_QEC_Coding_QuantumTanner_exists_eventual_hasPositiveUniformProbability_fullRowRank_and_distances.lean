@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_exists_eventual_hasPositiveUniformProbability_fullRowRank_and_distances
 -- name    : QEC.Coding.QuantumTanner.exists_eventual_hasPositiveUniformProbability_fullRowRank_and_distances
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:03:08.871206+00:00
 -- url     : https://prove2.me/theorems/d31bd8b3-9a86-45ad-acff-5f747883d7c8

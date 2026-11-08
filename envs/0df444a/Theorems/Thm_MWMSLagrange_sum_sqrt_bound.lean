@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MWMSLagrange_sum_sqrt_bound
 -- name    : MWMSLagrange.sum_sqrt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:03:45.697146+00:00
 -- url     : https://prove2.me/theorems/0ea5ea31-dd50-45d0-a1fa-4c91e54f1e3d

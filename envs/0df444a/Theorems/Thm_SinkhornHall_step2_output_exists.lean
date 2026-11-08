@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_step2_output_exists
 -- name    : SinkhornHall.step2_output_exists
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:40.578874+00:00
 -- url     : https://prove2.me/theorems/d192ca75-014b-4f00-8a0d-3cb2e5b12c98

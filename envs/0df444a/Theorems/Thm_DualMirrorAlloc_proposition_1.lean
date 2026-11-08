@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualMirrorAlloc_proposition_1
 -- name    : DualMirrorAlloc.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:03:22.424568+00:00
 -- url     : https://prove2.me/theorems/380a57c3-88d5-4668-b483-5d144b9e2644

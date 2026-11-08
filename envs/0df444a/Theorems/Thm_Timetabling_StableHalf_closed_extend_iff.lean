@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling_StableHalf_closed_extend_iff
 -- name    : Timetabling.StableHalf.closed_extend_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:42:37.803729+00:00
 -- url     : https://prove2.me/theorems/7c37f82b-96d6-4f85-b4d4-38ca4ad727df

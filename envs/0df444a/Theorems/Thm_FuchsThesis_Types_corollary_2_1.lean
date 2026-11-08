@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Types_corollary_2_1
 -- name    : FuchsThesis.Types.corollary_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:34.807953+00:00
 -- url     : https://prove2.me/theorems/0a6c45bb-6e09-47d0-a1e4-f88d53228e4c

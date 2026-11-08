@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyNV_lemma_1_i
 -- name    : ShapleyNV.lemma_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:53:39.439995+00:00
 -- url     : https://prove2.me/theorems/06b87df9-71cb-470a-8a56-c28d7a14297d

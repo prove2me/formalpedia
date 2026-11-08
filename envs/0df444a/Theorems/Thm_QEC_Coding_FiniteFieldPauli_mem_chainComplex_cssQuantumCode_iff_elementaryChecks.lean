@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_mem_chainComplex_cssQuantumCode_iff_elementaryChecks
 -- name    : QEC.Coding.FiniteFieldPauli.mem_chainComplex_cssQuantumCode_iff_elementaryChecks
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:52:22.835104+00:00
 -- url     : https://prove2.me/theorems/3a88c290-20b3-47f6-b48a-c0546144c5bd

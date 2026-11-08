@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CascadeCC_lemma_5_rate_below_u
 -- name    : CascadeCC.lemma_5_rate_below_u
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:34:49.373823+00:00
 -- url     : https://prove2.me/theorems/4dbc2073-28f0-4928-9150-8de200122cf1

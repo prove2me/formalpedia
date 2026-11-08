@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P59_ordinaryEquivalence_iff_quasiInverse
 -- name    : QAlgorithms.Papers.Independent.Intake100.P59.ordinaryEquivalence_iff_quasiInverse
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:03:24.826421+00:00
 -- url     : https://prove2.me/theorems/3d7f0acd-a7fe-4c3e-a724-7617f0f95f3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerInfinityNormalizationRationalTensorAlgEquiv_tmulValue
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerInfinityNormalizationRationalTensorAlgEquiv_tmulValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:59:43.097195+00:00
 -- url     : https://prove2.me/theorems/ef52a75f-af83-4903-aa5b-b39218b99d47

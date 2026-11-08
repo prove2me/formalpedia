@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Directional_superdiff_eq_dualOpt
 -- name    : RLPBidPrice.Directional.superdiff_eq_dualOpt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T13:12:21.131507+00:00
 -- url     : https://prove2.me/theorems/61e7e72d-0e3a-4b48-b41b-d5a49ed8e002

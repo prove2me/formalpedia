@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_EntropyIneq_lemma_B_16
 -- name    : ProcessingNetworks.EntropyIneq.lemma_B_16
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:28:06.806049+00:00
 -- url     : https://prove2.me/theorems/8ae2b683-4812-4d62-ab09-7f8e97bf2a96

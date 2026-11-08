@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_source_series_summable
 -- name    : OAI.CubicEisenstein.source_series_summable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:55:58.775899+00:00
 -- url     : https://prove2.me/theorems/0ed76f8d-3459-49a1-903c-5c9c5edf09d9

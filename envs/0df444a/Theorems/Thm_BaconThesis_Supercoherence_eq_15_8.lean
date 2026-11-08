@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Supercoherence_eq_15_8
 -- name    : BaconThesis.Supercoherence.eq_15_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:18:12.840402+00:00
 -- url     : https://prove2.me/theorems/560f448c-c2f2-4921-a9de-35d9f586a116

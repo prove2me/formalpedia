@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_exponent_bounds
 -- name    : NestedLogitAssort.DeltaGrid.exponent_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:11:41.824966+00:00
 -- url     : https://prove2.me/theorems/3d1b6f49-5736-4026-8193-74ba503ca546

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometricDL_WL_attn_conv_eq_mp
 -- name    : GeometricDL.WL.attn_conv_eq_mp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:22:48.286227+00:00
 -- url     : https://prove2.me/theorems/366921e1-ac81-467e-80d1-2eb2d9a7c5b8

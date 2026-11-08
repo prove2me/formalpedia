@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyReusableNet_threshold_average
 -- name    : GreedyReusableNet.threshold_average
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:33:47.263187+00:00
 -- url     : https://prove2.me/theorems/33638363-6491-4c11-9d47-b4a4828ff14b

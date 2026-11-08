@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QBFBackdoor_round_equivalence
 -- name    : QBFBackdoor.round_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:31:32.10831+00:00
 -- url     : https://prove2.me/theorems/826d11fa-c6ec-4cc5-81b0-38ecc75b8439

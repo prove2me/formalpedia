@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CopycatSI_h1_pos_and_strictAntiOn
 -- name    : CopycatSI.h1_pos_and_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:47:10.363992+00:00
 -- url     : https://prove2.me/theorems/cc78e77d-92cc-43cb-9a5f-d852ccc73ca1

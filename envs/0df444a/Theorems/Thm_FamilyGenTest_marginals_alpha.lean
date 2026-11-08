@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FamilyGenTest_marginals_alpha
 -- name    : FamilyGenTest.marginals_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:12:15.78445+00:00
 -- url     : https://prove2.me/theorems/3d757742-c9e9-44b5-8d89-27e47c22c80b

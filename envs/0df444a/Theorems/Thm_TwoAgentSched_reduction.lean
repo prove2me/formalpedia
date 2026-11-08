@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_reduction
 -- name    : TwoAgentSched.reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:49:54.734721+00:00
 -- url     : https://prove2.me/theorems/8838398d-896f-4a82-b746-42935a1d25a7

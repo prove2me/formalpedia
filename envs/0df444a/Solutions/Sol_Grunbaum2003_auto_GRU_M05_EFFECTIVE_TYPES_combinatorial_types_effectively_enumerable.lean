@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:28:41.566528+00:00
 -- url     : https://prove2.me/submissions/324e995e-0878-49b7-83f9-bfc01ade4d38
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_auto_GRU_M05_EFFECTIVE_TYPES_IsDPolytope
 import Definitions.Def_auto_GRU_M05_EFFECTIVE_TYPES_faceCount

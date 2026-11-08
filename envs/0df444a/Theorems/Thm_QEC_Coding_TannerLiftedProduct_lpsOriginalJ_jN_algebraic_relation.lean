@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJ_jN_algebraic_relation
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJ_jN_algebraic_relation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:14:12.569072+00:00
 -- url     : https://prove2.me/theorems/2a76e7f6-28cc-455d-b1e2-932927ba9a97

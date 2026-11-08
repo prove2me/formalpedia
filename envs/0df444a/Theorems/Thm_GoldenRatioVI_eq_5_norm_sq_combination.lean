@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldenRatioVI_eq_5_norm_sq_combination
 -- name    : GoldenRatioVI.eq_5_norm_sq_combination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:23:55.885522+00:00
 -- url     : https://prove2.me/theorems/225105ac-a0c6-4ce9-ad22-418d5556518e

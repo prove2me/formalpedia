@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShares_pickShare_is_bundle_value
 -- name    : FairShares.pickShare_is_bundle_value
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:14:04.336384+00:00
 -- url     : https://prove2.me/theorems/501592e8-72d4-431b-a95a-1b8db523054a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_intrinsic_one_step_transform_factor
 -- name    : AvramDividend.Classical.avram_bv_jump8_intrinsic_one_step_transform_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T13:51:29.829551+00:00
 -- url     : https://prove2.me/theorems/d73fbe4f-0dc8-4daf-801a-0c2a79be376d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllipsoidFitting_eq_2_5
 -- name    : EllipsoidFitting.eq_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:44:29.803308+00:00
 -- url     : https://prove2.me/theorems/00dafe4b-e440-40b3-bdba-03d7477efbc7

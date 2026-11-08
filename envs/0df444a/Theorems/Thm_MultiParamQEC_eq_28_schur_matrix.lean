@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiParamQEC_eq_28_schur_matrix
 -- name    : MultiParamQEC.eq_28_schur_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:37:02.216532+00:00
 -- url     : https://prove2.me/theorems/10ee34f6-178c-4065-8872-258a390ff841

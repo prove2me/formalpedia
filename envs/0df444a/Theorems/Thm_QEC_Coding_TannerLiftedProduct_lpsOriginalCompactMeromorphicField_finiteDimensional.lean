@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCompactMeromorphicField_finiteDimensional
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCompactMeromorphicField_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:09:09.361425+00:00
 -- url     : https://prove2.me/theorems/54403154-b45d-41c7-9ab1-d00167129414

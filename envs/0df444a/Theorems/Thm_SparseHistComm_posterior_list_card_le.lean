@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseHistComm_posterior_list_card_le
 -- name    : SparseHistComm.posterior_list_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:40:23.235184+00:00
 -- url     : https://prove2.me/theorems/15d43c8a-b00e-478d-8d92-5f8cc5db7b46

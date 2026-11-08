@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingAgents_lemma_34_corrected
 -- name    : CompetingAgents.lemma_34_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:26:56.556998+00:00
 -- url     : https://prove2.me/theorems/f0812dbe-906b-4329-baab-2fb4eb07b5e0

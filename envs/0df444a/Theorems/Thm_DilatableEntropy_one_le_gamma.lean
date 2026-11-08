@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilatableEntropy_one_le_gamma
 -- name    : DilatableEntropy.one_le_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:45.0956+00:00
 -- url     : https://prove2.me/theorems/9cd23bcc-51cb-45d9-97b7-db59b573a395

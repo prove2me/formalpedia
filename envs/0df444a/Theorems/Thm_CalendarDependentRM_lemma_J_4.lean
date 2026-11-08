@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalendarDependentRM_lemma_J_4
 -- name    : CalendarDependentRM.lemma_J_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:34:30.784586+00:00
 -- url     : https://prove2.me/theorems/ddb86308-6aaf-42b9-96e6-2280e8b3d24a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpatientQPTAS_rRound_band
 -- name    : ImpatientQPTAS.rRound_band
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T21:01:43.66383+00:00
 -- url     : https://prove2.me/theorems/33de1739-c37b-4864-8ccc-91aa27439543

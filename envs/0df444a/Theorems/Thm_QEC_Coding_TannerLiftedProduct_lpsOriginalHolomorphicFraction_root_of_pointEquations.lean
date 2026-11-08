@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalHolomorphicFraction_root_of_pointEquations
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalHolomorphicFraction_root_of_pointEquations
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:51:31.548733+00:00
 -- url     : https://prove2.me/theorems/9ba56110-4f8c-43c1-873c-e7e77474f098

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_intrinsic_integer_horizon_transform_power
 -- name    : AvramDividend.Classical.avram_bv_jump8_intrinsic_integer_horizon_transform_power
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T13:11:39.417795+00:00
 -- url     : https://prove2.me/theorems/7c658e04-bd68-4ced-bc8a-670f8077473b

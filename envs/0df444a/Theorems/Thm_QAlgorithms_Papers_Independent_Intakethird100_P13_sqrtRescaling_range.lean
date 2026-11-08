@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P13_sqrtRescaling_range
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P13.sqrtRescaling_range
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:58:54.679171+00:00
 -- url     : https://prove2.me/theorems/9a6a5381-6bc9-4071-ab3f-dfa1bafe2396

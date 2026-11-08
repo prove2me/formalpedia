@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BasisWeightLearning_Exact_lemma_1
 -- name    : BasisWeightLearning.Exact.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:21:13.390635+00:00
 -- url     : https://prove2.me/theorems/74dca634-af3a-412f-8ae4-31c3badba4a5

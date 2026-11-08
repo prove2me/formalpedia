@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Adversarial_biased_gain_estimate_bound
 -- name    : RegretBandits.Adversarial.biased_gain_estimate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:32:12.851917+00:00
 -- url     : https://prove2.me/theorems/2ca2662c-03f0-4273-a2e1-4bb9d692f45c

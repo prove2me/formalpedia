@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_exists_robustnessExponent
 -- name    : QEC.Coding.QuantumTanner.exists_robustnessExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:01:10.317269+00:00
 -- url     : https://prove2.me/theorems/222d286c-7e5a-4247-8ca0-2460e104c55a

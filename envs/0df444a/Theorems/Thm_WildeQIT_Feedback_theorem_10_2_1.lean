@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Feedback_theorem_10_2_1
 -- name    : WildeQIT.Feedback.theorem_10_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:35:56.894894+00:00
 -- url     : https://prove2.me/theorems/13fb8980-5f58-4fa5-9500-f0ab7fea3201

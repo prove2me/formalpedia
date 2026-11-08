@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondDRO_condRM_inducedSets_eq_condDRF
 -- name    : CondDRO.condRM_inducedSets_eq_condDRF
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:25:59.821984+00:00
 -- url     : https://prove2.me/theorems/1d53af94-f270-413e-8572-f7706616955c

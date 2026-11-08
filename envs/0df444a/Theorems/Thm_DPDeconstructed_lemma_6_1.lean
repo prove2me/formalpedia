@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DPDeconstructed_lemma_6_1
 -- name    : DPDeconstructed.lemma_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:46:37.19898+00:00
 -- url     : https://prove2.me/theorems/7ab9280c-594e-4f57-b97e-9ba4d40ac077

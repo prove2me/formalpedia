@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SturtRobustStop_Structure_lemma_4
 -- name    : SturtRobustStop.Structure.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:12:48.167419+00:00
 -- url     : https://prove2.me/theorems/fa5b8349-22bf-4465-a79c-07fd16fe488c

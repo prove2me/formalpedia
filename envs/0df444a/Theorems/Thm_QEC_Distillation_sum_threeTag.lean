@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_sum_threeTag
 -- name    : QEC.Distillation.sum_threeTag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:41:30.577336+00:00
 -- url     : https://prove2.me/theorems/f0cb13b0-7429-4a47-acc6-247b10728362

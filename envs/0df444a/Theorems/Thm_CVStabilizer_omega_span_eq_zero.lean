@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVStabilizer_omega_span_eq_zero
 -- name    : CVStabilizer.omega_span_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:21:04.657792+00:00
 -- url     : https://prove2.me/theorems/e39f0ed2-f86f-48ed-9ba3-8aca831e9e42

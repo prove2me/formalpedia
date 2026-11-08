@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistortedCondExp_q_mem_Ioo
 -- name    : DistortedCondExp.q_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:59:39.29799+00:00
 -- url     : https://prove2.me/theorems/4ff0fbb3-946c-49c8-9cf9-d23c0384c211

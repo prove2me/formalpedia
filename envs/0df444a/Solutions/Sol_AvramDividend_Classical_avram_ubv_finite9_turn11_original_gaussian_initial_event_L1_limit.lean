@@ -1,0 +1,86 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_ubv_finite9_turn11_original_gaussian_initial_event_L1_limit
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-08T00:47:46.743904+00:00
+-- url     : https://prove2.me/submissions/2804b506-c8cc-44f9-8917-beb125700dd2
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Theorems.Thm_AvramDividend_Classical_isStoppingTime_withTop_of_le_events
+import Theorems.Thm_AvramDividend_Classical_avram_gaussian12_original_zero_jump_stopped_gaussian_cells
+import Theorems.Thm_AvramDividend_Classical_avram_gaussian12_restricted_L1_limit_preserves_zero_mean
+import Theorems.Thm_AvramDividend_Classical_avram_ubv_finite9_turn11_original_gaussian_grid_initial_event_zero
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory ProbabilityTheory Filter Topology Set AvramDividend.Classical
+open scoped NNReal ENNReal Topology
+noncomputable section
+
+/-- The actual stopped Gaussian source has zero initial-event integral after
+L1 convergence of its finite physical meshes. -/
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    [IsProbabilityMeasure P]
+    {𝓕 : Filtration ℝ≥0 mΩ} {ι : Type*}
+    (X : SpectrallyNegativeLevy P 𝓕) (hν : X.ν = 0)
+    (A : Set Ω) (hA : MeasurableSet[𝓕.rightCont 0] A)
+    (S : ℕ → Finset ι) (τ : ℕ → ι → Ω → ℝ≥0)
+    (hτ : ∀ n, ∀ i ∈ S n, ∀ s : ℝ≥0,
+      MeasurableSet[𝓕.rightCont s] {ω : Ω | τ n i ω ≤ s})
+    (B : ℕ → ι → ℝ≥0)
+    (hbounded : ∀ n, ∀ i ∈ S n, ∀ ω, τ n i ω ≤ B n i)
+    (h : ℕ → ι → ℝ≥0) (G H : ℕ → ι → Ω → ℝ)
+    (hG : ∀ n i (hi : i ∈ S n),
+      Measurable[(isStoppingTime_withTop_of_le_events (τ n i)
+        (hτ n i hi)).measurableSpace] (G n i))
+    (hH : ∀ n i (hi : i ∈ S n),
+      Measurable[(isStoppingTime_withTop_of_le_events (τ n i)
+        (hτ n i hi)).measurableSpace] (H n i))
+    (M : ℕ → ι → Ω → ℝ)
+    (hM : ∀ n, M n = (fun i ω =>
+      (X.X (τ n i ω + h n i) ω -
+        ((τ n i ω + h n i) : ℝ) * X.c) -
+      (X.X (τ n i ω) ω - (τ n i ω : ℝ) * X.c)))
+    (hGI : ∀ n, ∀ i ∈ S n,
+      Integrable (fun ω => G n i ω * M n i ω) P)
+    (hHI : ∀ n, ∀ i ∈ S n, Integrable (H n i) P)
+    (hH2I : ∀ n, ∀ i ∈ S n,
+      Integrable (fun ω => H n i ω * (M n i ω) ^ 2) P)
+    (Z : Ω → ℝ) (hZI : Integrable Z P) :
+    let F : ℕ → ι → Ω → ℝ := fun n i ω =>
+      G n i ω * M n i ω +
+        (H n i ω * M n i ω ^ 2 -
+          ((h n i : ℝ) * X.σ ^ 2) * H n i ω)
+    let Q : ℕ → Ω → ℝ := fun n ω => ∑ i ∈ S n, F n i ω
+    Tendsto (fun n => ∫⁻ ω in A, ‖Q n ω - Z ω‖ₑ ∂P)
+      atTop (nhds (0 : ℝ≥0∞)) →
+      (∫ ω in A, Z ω ∂P) = 0 := by
+  dsimp only
+  intro hL1
+  let F : ℕ → ι → Ω → ℝ := fun n i ω =>
+    G n i ω * M n i ω +
+      (H n i ω * M n i ω ^ 2 -
+        ((h n i : ℝ) * X.σ ^ 2) * H n i ω)
+  let Q : ℕ → Ω → ℝ := fun n ω => ∑ i ∈ S n, F n i ω
+  have hFI : ∀ n, ∀ i ∈ S n, Integrable (F n i) P := by
+    intro n i hi
+    have hc :=
+      avram_gaussian12_original_zero_jump_stopped_gaussian_cells
+        X hν (S n) (τ n) (hτ n) (B n) (hbounded n)
+        (h n) (G n) (H n) (hG n) (hH n) (M n) (hM n)
+        (hGI n) (hHI n) (hH2I n)
+    exact (hc i hi).1
+  have hQI : ∀ n, Integrable (Q n) P := by
+    intro n
+    exact integrable_finset_sum (S n) (hFI n)
+  have hZero : ∀ n, (∫ ω in A, Q n ω ∂P) = 0 := by
+    intro n
+    exact avram_ubv_finite9_turn11_original_gaussian_grid_initial_event_zero
+      X hν A hA (S n) (τ n) (hτ n) (B n) (hbounded n)
+      (h n) (G n) (H n) (hG n) (hH n) (M n) (hM n)
+      (hGI n) (hHI n) (hH2I n)
+  exact avram_gaussian12_restricted_L1_limit_preserves_zero_mean
+    A ((𝓕.rightCont).le 0 A hA) Q hQI Z hZI hZero hL1

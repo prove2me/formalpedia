@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecoveringBandits_claim_3
 -- name    : RecoveringBandits.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:55:40.692276+00:00
 -- url     : https://prove2.me/theorems/1a1adfd7-d9da-4594-a87c-9541360b5551

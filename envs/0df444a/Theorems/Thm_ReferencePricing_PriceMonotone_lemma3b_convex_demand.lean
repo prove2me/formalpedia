@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_PriceMonotone_lemma3b_convex_demand
 -- name    : ReferencePricing.PriceMonotone.lemma3b_convex_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:57:39.356187+00:00
 -- url     : https://prove2.me/theorems/f36d0352-9020-440e-87b3-f510e7bd350d

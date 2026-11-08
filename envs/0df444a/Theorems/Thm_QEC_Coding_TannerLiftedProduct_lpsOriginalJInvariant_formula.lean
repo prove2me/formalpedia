@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJInvariant_formula
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJInvariant_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:24:14.705895+00:00
 -- url     : https://prove2.me/theorems/78079958-1c0e-4ad9-9d8f-d6c0c8cd5143

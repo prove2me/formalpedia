@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherComm_higherComm_perm
 -- name    : HigherComm.higherComm_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-06T16:26:13.415673+00:00
 -- url     : https://prove2.me/theorems/ba6cfffa-8729-40cf-835d-2ba44048596e

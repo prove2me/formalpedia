@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f18_discounted_finite_clock_split_le
 -- name    : AvramDividend.Classical.avram_p4_f18_discounted_finite_clock_split_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T23:23:46.171397+00:00
 -- url     : https://prove2.me/theorems/7d747dc1-a783-4ff1-8f27-97be632966d2

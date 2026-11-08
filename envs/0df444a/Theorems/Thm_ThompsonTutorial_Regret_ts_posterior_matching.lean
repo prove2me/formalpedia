@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonTutorial_Regret_ts_posterior_matching
 -- name    : ThompsonTutorial.Regret.ts_posterior_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:13:06.581194+00:00
 -- url     : https://prove2.me/theorems/a7f3b943-d9ca-4960-919d-c1418f5020b3

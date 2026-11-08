@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexRMDP_feasible_set_convex
 -- name    : ConvexRMDP.feasible_set_convex
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:17:57.307516+00:00
 -- url     : https://prove2.me/theorems/1afcb22a-7faf-41f9-a523-a1421c3daee0

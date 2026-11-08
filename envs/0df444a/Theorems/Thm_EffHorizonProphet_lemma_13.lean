@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EffHorizonProphet_lemma_13
 -- name    : EffHorizonProphet.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:42:50.588651+00:00
 -- url     : https://prove2.me/theorems/b19b82b9-ce32-4950-981a-e238dfa24be4

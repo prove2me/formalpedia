@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerAffineToNormal_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerAffineToNormal_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:36:45.145202+00:00
 -- url     : https://prove2.me/theorems/259e2cf0-9519-4da6-addc-83f4bca3bd9f

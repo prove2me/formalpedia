@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable
 -- name    : Grunbaum2003.auto_GRU_M05_EFFECTIVE_TYPES_combinatorial_types_effectively_enumerable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T19:11:55.314267+00:00
 -- url     : https://prove2.me/theorems/65ef874a-5185-4a6c-80f4-e1836ee8f5d3

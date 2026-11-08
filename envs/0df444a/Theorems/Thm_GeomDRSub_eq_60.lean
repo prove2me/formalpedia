@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomDRSub_eq_60
 -- name    : GeomDRSub.eq_60
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:10:36.596423+00:00
 -- url     : https://prove2.me/theorems/859cdff1-4c97-42cf-9ba1-b34882693645

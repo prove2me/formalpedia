@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerZeroChartComplexNormalizationAlgEquiv_tmulValue
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerZeroChartComplexNormalizationAlgEquiv_tmulValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:35:33.801199+00:00
 -- url     : https://prove2.me/theorems/9e7598c0-bea1-4d1f-b880-a207c1ea1cf5

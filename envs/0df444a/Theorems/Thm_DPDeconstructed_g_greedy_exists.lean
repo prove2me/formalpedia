@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DPDeconstructed_g_greedy_exists
 -- name    : DPDeconstructed.g_greedy_exists
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:49:15.547216+00:00
 -- url     : https://prove2.me/theorems/6acca12f-4fa2-49a5-8b15-c7a81d2e33e4

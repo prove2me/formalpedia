@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockchainMarketPower_f_strictMonoOn_price
 -- name    : BlockchainMarketPower.f_strictMonoOn_price
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:27:12.181101+00:00
 -- url     : https://prove2.me/theorems/5899a831-0aee-441a-bf71-ff3e58469989

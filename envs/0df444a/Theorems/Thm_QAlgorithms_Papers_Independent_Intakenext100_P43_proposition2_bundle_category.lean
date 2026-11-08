@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P43_proposition2_bundle_category
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P43.proposition2_bundle_category
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:48:29.236877+00:00
 -- url     : https://prove2.me/theorems/b5165d3b-3f73-4657-a2db-4ff82bca655c

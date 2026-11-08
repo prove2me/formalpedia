@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P71_upperImages_commute
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P71.upperImages_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:41:32.759908+00:00
 -- url     : https://prove2.me/theorems/236e7655-3c0c-4782-8b47-59245f8b8336

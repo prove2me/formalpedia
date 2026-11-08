@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenMaxEnt_discontinuous_of_seq
 -- name    : ChenMaxEnt.discontinuous_of_seq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:23:30.536471+00:00
 -- url     : https://prove2.me/theorems/53858016-3ef3-475f-a084-718aae93ee05

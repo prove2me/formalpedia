@@ -1,0 +1,414 @@
+-- Prove2me | solution 1 for QEC.Coding.BDL26RZMap1CoordinateBridge.rzMap1QEdge_delta0_canonicalBasis
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-07T15:25:12.196203+00:00
+-- url     : https://prove2.me/submissions/8e85a00b-42ed-42f5-bae4-24605014aebe
+
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RZLocalReplacement
+import Definitions.Def_QEC_Coding_CodeReduction_Classical_Core
+import Definitions.Def_QEC_Coding_FourDimensionalToricCode_Decoder_Multiscale
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RZCoordinateBridge
+import Theorems.Thm_QEC_Coding_BDL26RZMap1CoordinateBridge_tannerCoboundary0_canonicalBasis_apply
+import Theorems.Thm_QEC_Coding_BDL26RZMap1CoordinateBridge_tannerCoboundary1_canonicalBasis_apply
+import Theorems.Thm_QEC_Coding_BDL26FiniteAlternatingCore_alternatingCarrier_zero
+import Theorems.Thm_QEC_Coding_BDL26FiniteAlternatingCore_finiteRx_source_val
+import Theorems.Thm_QEC_Coding_BDL26FiniteAlternatingCore_finiteRx_target_val
+import Theorems.Thm_QEC_Coding_BDL26FiniteAlternatingCore_finiteRz_source_val
+import Theorems.Thm_QEC_Coding_BDL26FiniteAlternatingCore_finiteRz_target_val
+import Theorems.Thm_QEC_Coding_BDL26FiniteTannerSquare_doubleCylinderEndInclusion_apply
+import Theorems.Thm_QEC_Coding_BDL26RZLocalReplacement_baseScaleFive_rzFace_card
+import Theorems.Thm_QEC_Coding_BDL26RZLocalReplacement_baseScaleFive_rzQ_card
+import Theorems.Thm_QEC_Coding_BDL26RZLocalReplacement_baseScaleFive_rzX_card
+import Theorems.Thm_QEC_Coding_BDL26RZLocalReplacement_baseScaleFive_rzZ_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ0DoubleCylinderEdge_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ0DoubleCylinderVertex_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ0StarEdge_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ0StarVertex_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ0SubdivisionEdge_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ0SubdivisionVertex_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ4DoubleCylinderEdge_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ4DoubleCylinderVertex_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ4StarEdge_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ4StarVertex_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ4SubdivisionEdge_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_baseQ4SubdivisionVertex_card
+import Theorems.Thm_QEC_Coding_BDL26TannerLocalRegularity_qDoubleCylinderEndRestriction_apply
+import Theorems.Thm_QEC_Coding_ChainComplexData_pureZLogicalQuotientEquivMiddleHomology_mk
+import Theorems.Thm_QEC_Coding_ClassicalWeightReduction_boundary_single
+import Theorems.Thm_QEC_Coding_ClassicalWeightReduction_linearMapOfBasisImages_single
+import Theorems.Thm_QEC_Coding_ClassicalWeightReduction_originalBoundary_single
+import Theorems.Thm_QEC_Coding_FiniteSymplectic_form_apply
+import Theorems.Thm_QEC_Coding_MultiscaleDecoder_historicalZeroSyndromeInput_supportFitsRadiusTwo
+import Theorems.Thm_QEC_Coding_PauliSymplectic_binaryPauliKrausFamily_operator
+import Theorems.Thm_QEC_Coding_StabilizerCode_BinaryStabilizerPresentation_interactionLength_sym2_mk
+import Theorems.Thm_QEC_Coding_StabilizerCode_BinaryStabilizerPresentation_mem_interactionsAtLengthAtLeast_iff
+import Theorems.Thm_QEC_Coding_StabilizerCode_BinaryStabilizerPresentation_sym2_diag_not_mem_fixedGeneratorInteractions
+import Theorems.Thm_QEC_Coding_StabilizerCode_BinaryStabilizerPresentation_sym2_mk_mem_fixedGeneratorInteractions_iff_actual_support
+import Theorems.Thm_QEC_Coding_StabilizerCode_BinaryStabilizerPresentation_sym2_mk_mem_interactionsAtLengthAtLeast_iff
+import Theorems.Thm_QEC_Coding_StabilizerCode_LocalStabilizerHamiltonian_generatorOperator_adjoint_eq_self
+import Theorems.Thm_QEC_Coding_StabilizerCode_LocalStabilizerHamiltonian_generatorSupport_eq_support
+import Theorems.Thm_QEC_Coding_StabilizerCode_LocalStabilizerHamiltonian_term_adjoint_eq_self
+import Theorems.Thm_QEC_Coding_dualChainComplex_boundary1
+import Theorems.Thm_QEC_Coding_dualChainComplex_boundary2
+import Theorems.Thm_QEC_Locality_MarkedSeparatorSpine_exposedSide_stop
+import Theorems.Thm_QEC_Locality_NoEdgeBetween_symm
+import Theorems.Thm_QEC_Locality_UnitSeparatedEmbedding2D_mem_gridCellQubits_iff
+import Theorems.Thm_QEC_Locality_UnitSeparatedEmbedding2D_mem_gridOccupiedCells_iff
+import Theorems.Thm_QEC_Locality_UnitSeparatedEmbedding2D_mem_qubitsInRectangle_iff
+import Theorems.Thm_QEC_Locality_centeredRectangleClippedGrowthRadius_zero
+import Theorems.Thm_QEC_Locality_mem_centeredRectangleQubits_iff
+import Theorems.Thm_QEC_Locality_mem_longInteractionEndpointQubits_iff
+import Theorems.Thm_QEC_Locality_mem_longNeighborsOf_iff
+import Theorems.Thm_QEC_Locality_mem_squareQubits_iff
+import Theorems.Thm_QEC_Locality_squareGrowthRadius_succ_sub
+import Theorems.Thm_QEC_Locality_squareGrowthRadius_zero
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_checkSupport
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_variableSupport
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_eq_checkSupport
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inr
+import Theorems.Thm_QEC_QLDPC_mem_chainComplexCSSRowChecks
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_card_complementCoordinates
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_card_selectedCoordinates
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_extendLocal_apply_localEmbedding
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_localEmbedding_apply
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_selectedPartialTrace_toLinearMap
+import Theorems.Thm_QEC_Semantics_OperatorMatrix_matrixUnit_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_comp_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_id_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_additionalRetainedFactorSwap_apply_tmul
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_replacementFactorizedKraus_operator
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_cptp_toLinearMap
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_mapDensity_toOperator
+attribute [local simp] QEC.Coding.BDL26FiniteAlternatingCore.alternatingCarrier_zero
+attribute [local simp] QEC.Coding.BDL26FiniteAlternatingCore.finiteRx_source_val
+attribute [local simp] QEC.Coding.BDL26FiniteAlternatingCore.finiteRx_target_val
+attribute [local simp] QEC.Coding.BDL26FiniteAlternatingCore.finiteRz_source_val
+attribute [local simp] QEC.Coding.BDL26FiniteAlternatingCore.finiteRz_target_val
+attribute [local simp] QEC.Coding.BDL26FiniteTannerSquare.doubleCylinderEndInclusion_apply
+attribute [local simp] QEC.Coding.BDL26RZLocalReplacement.baseScaleFive_rzFace_card
+attribute [local simp] QEC.Coding.BDL26RZLocalReplacement.baseScaleFive_rzQ_card
+attribute [local simp] QEC.Coding.BDL26RZLocalReplacement.baseScaleFive_rzX_card
+attribute [local simp] QEC.Coding.BDL26RZLocalReplacement.baseScaleFive_rzZ_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ0DoubleCylinderEdge_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ0DoubleCylinderVertex_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ0StarEdge_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ0StarVertex_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ0SubdivisionEdge_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ0SubdivisionVertex_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ4DoubleCylinderEdge_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ4DoubleCylinderVertex_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ4StarEdge_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ4StarVertex_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ4SubdivisionEdge_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.baseQ4SubdivisionVertex_card
+attribute [local simp] QEC.Coding.BDL26TannerLocalRegularity.qDoubleCylinderEndRestriction_apply
+attribute [local simp] QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk
+attribute [local simp] QEC.Coding.ClassicalWeightReduction.boundary_single
+attribute [local simp] QEC.Coding.ClassicalWeightReduction.linearMapOfBasisImages_single
+attribute [local simp] QEC.Coding.ClassicalWeightReduction.originalBoundary_single
+attribute [local simp] QEC.Coding.FiniteSymplectic.form_apply
+attribute [local simp] QEC.Coding.MultiscaleDecoder.historicalZeroSyndromeInput_supportFitsRadiusTwo
+attribute [local simp] QEC.Coding.PauliSymplectic.binaryPauliKrausFamily_operator
+attribute [local simp] QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.interactionLength_sym2_mk
+attribute [local simp] QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.mem_interactionsAtLengthAtLeast_iff
+attribute [local simp] QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.sym2_diag_not_mem_fixedGeneratorInteractions
+attribute [local simp] QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.sym2_mk_mem_fixedGeneratorInteractions_iff_actual_support
+attribute [local simp] QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.sym2_mk_mem_interactionsAtLengthAtLeast_iff
+attribute [local simp] QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian.generatorOperator_adjoint_eq_self
+attribute [local simp] QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian.generatorSupport_eq_support
+attribute [local simp] QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian.term_adjoint_eq_self
+attribute [local simp] QEC.Coding.dualChainComplex_boundary1
+attribute [local simp] QEC.Coding.dualChainComplex_boundary2
+attribute [local simp] QEC.Locality.MarkedSeparatorSpine.exposedSide_stop
+attribute [local simp] QEC.Locality.UnitSeparatedEmbedding2D.mem_gridCellQubits_iff
+attribute [local simp] QEC.Locality.UnitSeparatedEmbedding2D.mem_gridOccupiedCells_iff
+attribute [local simp] QEC.Locality.UnitSeparatedEmbedding2D.mem_qubitsInRectangle_iff
+attribute [local simp] QEC.Locality.centeredRectangleClippedGrowthRadius_zero
+attribute [local simp] QEC.Locality.mem_centeredRectangleQubits_iff
+attribute [local simp] QEC.Locality.mem_longInteractionEndpointQubits_iff
+attribute [local simp] QEC.Locality.mem_longNeighborsOf_iff
+attribute [local simp] QEC.Locality.mem_squareQubits_iff
+attribute [local simp] QEC.Locality.squareGrowthRadius_succ_sub
+attribute [local simp] QEC.Locality.squareGrowthRadius_zero
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_checkSupport
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_variableSupport
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inr
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_eq_checkSupport
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inr
+attribute [local simp] QEC.QLDPC.mem_chainComplexCSSRowChecks
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.FiniteSubsystem.card_complementCoordinates
+attribute [local simp] QEC.Semantics.FiniteSubsystem.card_selectedCoordinates
+attribute [local simp] QEC.Semantics.FiniteSubsystem.extendLocal_apply_localEmbedding
+attribute [local simp] QEC.Semantics.FiniteSubsystem.localEmbedding_apply
+attribute [local simp] QEC.Semantics.FiniteSubsystem.selectedPartialTrace_toLinearMap
+attribute [local simp] QEC.Semantics.OperatorMatrix.matrixUnit_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.comp_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.id_apply
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.QuditSubsystem.additionalRetainedFactorSwap_apply_tmul
+attribute [local simp] QEC.Semantics.QuditSubsystem.replacementFactorizedKraus_operator
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_cptp_toLinearMap
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_mapDensity_toOperator
+
+
+attribute [local simp] QEC.Coding.BDL26RZMap1CoordinateBridge.tannerCoboundary0_canonicalBasis_apply
+attribute [local simp] QEC.Coding.BDL26RZMap1CoordinateBridge.tannerCoboundary1_canonicalBasis_apply
+section
+namespace QEC
+namespace Coding
+namespace BDL26RZMap1CoordinateBridge
+open scoped BigOperators
+open BDL26FiniteTannerSquare
+open BDL26TannerLocalRegularity
+open BDL26RZLocalReplacement
+open MultiscaleDecoder
+attribute [local instance] rzQFintype
+attribute [local instance] subdivisionEdgeDecidableEq
+universe u
+private theorem rzMap1QEdgeDelta0BasisImage_apply_local
+    (P : TannerSquarePresentation) (A4 : TannerSquareAdmissibleV4 P)
+    (S : OddScale) (q : P.Q)
+    (edge : QDoubleCylinderEdge (transposePresentation P) q S)
+    (z : P.Z) (targetEdge : ZDoubleCylinderEdge P z S) :
+    rzMap1QEdgeDelta0BasisImage P A4 S q edge (Sum.inl ⟨z, targetEdge⟩) =
+      if hqz : P.qz q z = true then
+        vertexIndicator
+          (qToZDoubleCylinderEdge P A4.toTannerSquareAdmissible
+            q z hqz S edge) targetEdge
+      else 0 := by
+  classical
+  unfold rzMap1QEdgeDelta0BasisImage
+  simp only [Pi.add_apply, Finset.sum_apply]
+  have hqzero : canonicalBasisWord (F := Field)
+      (Sum.inr ⟨q,
+        qDoubleCylinderEdgeStart (transposePresentation P) q S edge⟩ :
+          RZQ P S) (Sum.inl ⟨z, targetEdge⟩) = 0 := by
+    simp [canonicalBasisWord]
+  have hqone : canonicalBasisWord (F := Field)
+      (Sum.inr ⟨q,
+        qDoubleCylinderEdgeEnd (transposePresentation P) q S edge⟩ :
+          RZQ P S) (Sum.inl ⟨z, targetEdge⟩) = 0 := by
+    simp [canonicalBasisWord]
+  rw [hqzero, hqone, zero_add, zero_add]
+  rw [Finset.sum_eq_single z]
+  · by_cases hqz : P.qz q z = true
+    · rw [dif_pos hqz, dif_pos hqz]
+      by_cases hedge : qToZDoubleCylinderEdge P
+          A4.toTannerSquareAdmissible q z hqz S edge = targetEdge
+      · subst targetEdge
+        simp [canonicalBasisWord, vertexIndicator]
+      · have hreverse : targetEdge ≠ qToZDoubleCylinderEdge P
+            A4.toTannerSquareAdmissible q z hqz S edge := Ne.symm hedge
+        simp [canonicalBasisWord, vertexIndicator, hedge, hreverse]
+    · rw [dif_neg hqz, dif_neg hqz]
+      rfl
+  · intro other _ hother
+    by_cases hqz : P.qz q other = true
+    · rw [dif_pos hqz]
+      have hneq : (Sum.inl ⟨z, targetEdge⟩ : RZQ P S) ≠
+          Sum.inl ⟨other, qToZDoubleCylinderEdge P
+            A4.toTannerSquareAdmissible q other hqz S edge⟩ := by
+        intro heq
+        exact hother (congrArg (fun value : RZQ P S => match value with
+          | Sum.inl localEdge => localEdge.1
+          | Sum.inr _ => z) heq).symm
+      simp [canonicalBasisWord, hneq]
+    · rw [dif_neg hqz]
+      rfl
+  · intro hnot
+    exact (hnot (Finset.mem_univ z)).elim
+private theorem rzMap1QEdgeDelta0BasisImage_apply_q
+    (P : TannerSquarePresentation) (A4 : TannerSquareAdmissibleV4 P)
+    (S : OddScale) (q : P.Q)
+    (edge : QDoubleCylinderEdge (transposePresentation P) q S)
+    (qVertex : Σ q : P.Q,
+      QDoubleCylinderVertex (transposePresentation P) q S) :
+    rzMap1QEdgeDelta0BasisImage P A4 S q edge (Sum.inr qVertex) =
+      canonicalBasisWord (F := Field)
+          (Sum.inr ⟨q, qDoubleCylinderEdgeStart
+            (transposePresentation P) q S edge⟩ : RZQ P S)
+          (Sum.inr qVertex) +
+        canonicalBasisWord (F := Field)
+          (Sum.inr ⟨q, qDoubleCylinderEdgeEnd
+            (transposePresentation P) q S edge⟩ : RZQ P S)
+          (Sum.inr qVertex) := by
+  classical
+  unfold rzMap1QEdgeDelta0BasisImage
+  simp only [Pi.add_apply, Finset.sum_apply]
+  have hlocal : (∑ z : P.Z, (if hqz : P.qz q z = true then
+      canonicalBasisWord (F := Field)
+        (Sum.inl ⟨z, qToZDoubleCylinderEdge P
+          A4.toTannerSquareAdmissible q z hqz S edge⟩ : RZQ P S)
+    else 0) (Sum.inr qVertex)) = 0 := by
+    apply Finset.sum_eq_zero
+    intro z _
+    by_cases hqz : P.qz q z = true
+    · rw [dif_pos hqz]
+      simp [canonicalBasisWord]
+    · rw [dif_neg hqz]
+      rfl
+  rw [hlocal, add_zero]
+private theorem rzMap1QEdgeStart_ne_end
+    (P : TannerSquarePresentation) (q : P.Q) (S : OddScale)
+    (edge : QDoubleCylinderEdge (transposePresentation P) q S) :
+    qDoubleCylinderEdgeStart (transposePresentation P) q S edge ≠
+      qDoubleCylinderEdgeEnd (transposePresentation P) q S edge := by
+  rcases edge with ⟨copy, edge, segment⟩ | endpoint
+  · simp [qDoubleCylinderEdgeStart, qDoubleCylinderEdgeEnd,
+      qSubdivisionEdgeStart, qSubdivisionEdgeEnd]
+    by_cases hstart : segment.1 = 0
+    · by_cases hend : segment.1 + 1 = S.half
+      · have hhalf : S.half = 1 := by omega
+        have hsegment : segment = ⟨0, S.half_pos⟩ := Fin.ext (by simpa using hstart)
+        subst segment
+        simp [hhalf, qStarEdgeStart, qStarEdgeEnd]
+      · have hhalf : S.half ≠ 1 := by omega
+        have hone : (1 : Nat) ≠ S.half := Ne.symm hhalf
+        simp [hstart, hone, qStarEdgeStart]
+    · by_cases hend : segment.1 + 1 = S.half
+      · simp [hstart, hend]
+      · simp [hstart, hend, Fin.ext_iff]
+        omega
+  · simp [qDoubleCylinderEdgeStart, qDoubleCylinderEdgeEnd]
+private theorem rzXQIncidence_qEdge_q_iff
+    (P : TannerSquarePresentation) (A4 : TannerSquareAdmissibleV4 P)
+    (S : OddScale) (q targetQ : P.Q)
+    (edge : QDoubleCylinderEdge (transposePresentation P) q S)
+    (vertex : QDoubleCylinderVertex (transposePresentation P) targetQ S) :
+    rzXQIncidence P A4.toTannerSquareAdmissible S
+        (rzMap1QEdgeX P S q edge) (Sum.inr ⟨targetQ, vertex⟩) = true ↔
+      Exists fun hq : targetQ = q =>
+        hq ▸ vertex =
+            qDoubleCylinderEdgeStart (transposePresentation P) q S edge ∨
+          hq ▸ vertex =
+            qDoubleCylinderEdgeEnd (transposePresentation P) q S edge := by
+  simp only [rzMap1QEdgeX, rzXQIncidence, decide_eq_true_eq]
+private theorem rzXQIncidence_qEdge_q_coefficient
+    (P : TannerSquarePresentation) (A4 : TannerSquareAdmissibleV4 P)
+    (S : OddScale) (q targetQ : P.Q)
+    (edge : QDoubleCylinderEdge (transposePresentation P) q S)
+    (vertex : QDoubleCylinderVertex (transposePresentation P) targetQ S) :
+    (if rzXQIncidence P A4.toTannerSquareAdmissible S
+          (rzMap1QEdgeX P S q edge) (Sum.inr ⟨targetQ, vertex⟩) = true
+      then 1 else 0) =
+      canonicalBasisWord (F := Field)
+          (Sum.inr ⟨q, qDoubleCylinderEdgeStart
+            (transposePresentation P) q S edge⟩ : RZQ P S)
+          (Sum.inr ⟨targetQ, vertex⟩) +
+        canonicalBasisWord (F := Field)
+          (Sum.inr ⟨q, qDoubleCylinderEdgeEnd
+            (transposePresentation P) q S edge⟩ : RZQ P S)
+          (Sum.inr ⟨targetQ, vertex⟩) := by
+  classical
+  by_cases hq : targetQ = q
+  · subst targetQ
+    by_cases hstart : vertex = qDoubleCylinderEdgeStart
+        (transposePresentation P) q S edge
+    · subst vertex
+      have hinc : rzXQIncidence P A4.toTannerSquareAdmissible S
+          (rzMap1QEdgeX P S q edge)
+          (Sum.inr ⟨q, qDoubleCylinderEdgeStart
+            (transposePresentation P) q S edge⟩) = true :=
+        (rzXQIncidence_qEdge_q_iff P A4 S q q edge _).2
+          ⟨rfl, Or.inl rfl⟩
+      rw [if_pos hinc]
+      simp [canonicalBasisWord, rzMap1QEdgeStart_ne_end P q S edge]
+    · by_cases hend : vertex = qDoubleCylinderEdgeEnd
+          (transposePresentation P) q S edge
+      · subst vertex
+        have hinc : rzXQIncidence P A4.toTannerSquareAdmissible S
+            (rzMap1QEdgeX P S q edge)
+            (Sum.inr ⟨q, qDoubleCylinderEdgeEnd
+              (transposePresentation P) q S edge⟩) = true :=
+          (rzXQIncidence_qEdge_q_iff P A4 S q q edge _).2
+            ⟨rfl, Or.inr rfl⟩
+        rw [if_pos hinc]
+        simp [canonicalBasisWord, hstart]
+      · have hinc : rzXQIncidence P A4.toTannerSquareAdmissible S
+            (rzMap1QEdgeX P S q edge) (Sum.inr ⟨q, vertex⟩) ≠ true := by
+          intro h
+          obtain ⟨_, hvertex⟩ :=
+            (rzXQIncidence_qEdge_q_iff P A4 S q q edge vertex).1 h
+          exact hvertex.elim hstart hend
+        rw [if_neg hinc]
+        simp [canonicalBasisWord, hstart, hend]
+  · have hinc : rzXQIncidence P A4.toTannerSquareAdmissible S
+        (rzMap1QEdgeX P S q edge) (Sum.inr ⟨targetQ, vertex⟩) ≠ true := by
+      intro h
+      obtain ⟨heq, _⟩ :=
+        (rzXQIncidence_qEdge_q_iff P A4 S q targetQ edge vertex).1 h
+      exact hq heq
+    rw [if_neg hinc]
+    simp [canonicalBasisWord, hq]
+end BDL26RZMap1CoordinateBridge
+end Coding
+end QEC
+end
+
+set_option autoImplicit false
+open QEC
+open QEC.Coding
+open QEC.Coding.BDL26RZMap1CoordinateBridge
+open scoped BigOperators
+open BDL26FiniteTannerSquare
+open BDL26TannerLocalRegularity
+open BDL26RZLocalReplacement
+open MultiscaleDecoder
+attribute [local instance] QEC.Coding.BDL26RZMap1CoordinateBridge.rzQDecidableEq
+attribute [local instance] rzQFintype
+attribute [local instance] QEC.Coding.BDL26RZMap1CoordinateBridge.subdivisionEdgeDecidableEq
+attribute [local instance] subdivisionEdgeDecidableEq
+universe u
+namespace QEC.Coding.BDL26RZMap1CoordinateBridge
+theorem _root_.solution
+    (P : TannerSquarePresentation) (A4 : TannerSquareAdmissibleV4 P)
+    (S : OddScale) (q : P.Q)
+    (edge : QDoubleCylinderEdge (transposePresentation P) q S) :
+    tannerCoboundary0
+        (rzReplacementPresentation P A4.toTannerSquareAdmissible S)
+        (canonicalBasisWord (rzMap1QEdgeX P S q edge)) =
+      rzMap1QEdgeDelta0BasisImage P A4 S q edge := by
+  classical
+  ext target
+  erw [tannerCoboundary0_canonicalBasis_apply]
+  change (if rzXQIncidence P A4.toTannerSquareAdmissible S
+      (rzMap1QEdgeX P S q edge) target = true then 1 else 0) = _
+  rcases target with localEdge | qVertex
+  · rcases localEdge with ⟨z, targetEdge⟩
+    rw [rzMap1QEdgeDelta0BasisImage_apply_local]
+    by_cases hqz : P.qz q z = true
+    · rw [dif_pos hqz]
+      by_cases hedge : qToZDoubleCylinderEdge P
+          A4.toTannerSquareAdmissible q z hqz S edge = targetEdge
+      · simp [vertexIndicator, hedge, rzMap1QEdgeX, rzXQIncidence, hqz]
+      · simp [vertexIndicator, hedge, rzMap1QEdgeX, rzXQIncidence, hqz]
+    · rw [dif_neg hqz]
+      simp [rzMap1QEdgeX, rzXQIncidence, hqz]
+  · rw [rzMap1QEdgeDelta0BasisImage_apply_q]
+    rcases qVertex with ⟨targetQ, vertex⟩
+    exact rzXQIncidence_qEdge_q_coefficient P A4 S q targetQ edge vertex
+end QEC.Coding.BDL26RZMap1CoordinateBridge

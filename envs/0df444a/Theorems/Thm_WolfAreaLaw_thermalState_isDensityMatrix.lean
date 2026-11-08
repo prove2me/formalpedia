@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WolfAreaLaw_thermalState_isDensityMatrix
 -- name    : WolfAreaLaw.thermalState_isDensityMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:50:48.372811+00:00
 -- url     : https://prove2.me/theorems/6de99b31-b04c-42c6-9edb-d627d01e6c44

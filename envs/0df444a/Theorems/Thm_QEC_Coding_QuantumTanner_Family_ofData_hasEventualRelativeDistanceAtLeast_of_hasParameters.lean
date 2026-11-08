@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_Family_ofData_hasEventualRelativeDistanceAtLeast_of_hasParameters
 -- name    : QEC.Coding.QuantumTanner.Family.ofData_hasEventualRelativeDistanceAtLeast_of_hasParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:49:53.211107+00:00
 -- url     : https://prove2.me/theorems/79c2c0b7-3342-4173-b1f7-8595f8f66d3e

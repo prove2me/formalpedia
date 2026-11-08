@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P47_accepted_settings_agree
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P47.accepted_settings_agree
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:32:41.589461+00:00
 -- url     : https://prove2.me/theorems/fc8c759f-6ed0-4f00-aaee-6c34e5ccc185

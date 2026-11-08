@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledForgetLevel_isProperMap
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledForgetLevel_isProperMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:40:13.890782+00:00
 -- url     : https://prove2.me/theorems/0283e077-7d6d-44a5-8d2f-0f2d5aec11d6

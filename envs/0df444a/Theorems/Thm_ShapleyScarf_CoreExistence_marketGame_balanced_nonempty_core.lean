@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyScarf_CoreExistence_marketGame_balanced_nonempty_core
 -- name    : ShapleyScarf.CoreExistence.marketGame_balanced_nonempty_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:39:45.259147+00:00
 -- url     : https://prove2.me/theorems/2c5c96ef-7bed-4bd3-99fa-e3afa8b263c4

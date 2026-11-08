@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsVdGraaf_proposition_2
 -- name    : FuchsVdGraaf.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:28.162737+00:00
 -- url     : https://prove2.me/theorems/f822384b-828d-428a-8fe4-1be61ec38221

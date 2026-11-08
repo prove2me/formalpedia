@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiParamQEC_eq_27_schur
 -- name    : MultiParamQEC.eq_27_schur
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:36:59.681654+00:00
 -- url     : https://prove2.me/theorems/90aa6158-d23b-4756-acb4-63177e4149c3

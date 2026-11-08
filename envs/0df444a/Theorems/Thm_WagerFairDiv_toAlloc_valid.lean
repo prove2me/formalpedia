@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagerFairDiv_toAlloc_valid
 -- name    : WagerFairDiv.toAlloc_valid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:37.639224+00:00
 -- url     : https://prove2.me/theorems/0dcee409-fb1d-4804-85c8-cc0584b5772e

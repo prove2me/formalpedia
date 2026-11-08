@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalMeromorphicDeltaQCoefficient_zero
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalMeromorphicDeltaQCoefficient_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:32:54.343115+00:00
 -- url     : https://prove2.me/theorems/626c790e-5afa-4878-b51f-1391587ae3c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGeneratedCompactMeromorphicComplexAlgEquiv_j
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGeneratedCompactMeromorphicComplexAlgEquiv_j
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:51:21.742279+00:00
 -- url     : https://prove2.me/theorems/f946e98b-0994-4031-9bf2-f1e6d4ab021d

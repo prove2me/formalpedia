@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_detectableOn_localOperator_of_card_lt_algebraicCSSMinimumDistance
 -- name    : QEC.Coding.FiniteFieldPauli.detectableOn_localOperator_of_card_lt_algebraicCSSMinimumDistance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:49:28.590337+00:00
 -- url     : https://prove2.me/theorems/90f5635e-e9ed-48c2-bda2-2d429d7a511c

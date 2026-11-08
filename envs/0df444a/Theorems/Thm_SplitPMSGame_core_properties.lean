@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SplitPMSGame_core_properties
 -- name    : SplitPMSGame.core_properties
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:12:13.125677+00:00
 -- url     : https://prove2.me/theorems/46010c3f-0b3c-4e89-84ac-77c9ecd0aed8

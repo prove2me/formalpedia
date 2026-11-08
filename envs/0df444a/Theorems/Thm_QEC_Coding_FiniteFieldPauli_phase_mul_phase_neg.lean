@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_phase_mul_phase_neg
 -- name    : QEC.Coding.FiniteFieldPauli.phase_mul_phase_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:52:03.668164+00:00
 -- url     : https://prove2.me/theorems/714f96e4-ef6e-487a-aca4-99c20d1b0200

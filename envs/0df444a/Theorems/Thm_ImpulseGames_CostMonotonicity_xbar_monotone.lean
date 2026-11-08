@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_CostMonotonicity_xbar_monotone
 -- name    : ImpulseGames.CostMonotonicity.xbar_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:40:27.646985+00:00
 -- url     : https://prove2.me/theorems/e5ad0717-f336-4bdd-a15f-e4dea24b6c17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJPolynomialEvalHom_nonzero
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJPolynomialEvalHom_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:42:19.33511+00:00
 -- url     : https://prove2.me/theorems/642b80a6-904f-4509-b10d-258512a2ff42

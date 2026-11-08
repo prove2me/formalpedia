@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SponsoredAssort_lemma_2_3
 -- name    : SponsoredAssort.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:53:00.769047+00:00
 -- url     : https://prove2.me/theorems/0fd5ea3c-3e67-439a-9bbd-3bb1f14a60b8

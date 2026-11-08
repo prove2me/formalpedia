@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGradDHS_Diag_psi_T_bound
 -- name    : AdaGradDHS.Diag.psi_T_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:21:45.971667+00:00
 -- url     : https://prove2.me/theorems/57f4c894-66c3-4f59-aeba-f528cc05fece

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynPricingCov_lemma_3
 -- name    : DynPricingCov.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:03:35.413442+00:00
 -- url     : https://prove2.me/theorems/66a44124-61a0-4608-8774-4d4f9f8fc73d

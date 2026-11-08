@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QubitFreqSensing_lemma_5_6
 -- name    : QubitFreqSensing.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:21:55.657806+00:00
 -- url     : https://prove2.me/theorems/064ef65c-c59f-4372-9eeb-278cd9be67ff

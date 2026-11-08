@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsChi4E2Twist_not_cuspForm
 -- name    : QEC.Coding.TannerLiftedProduct.lpsChi4E2Twist_not_cuspForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:16:47.893682+00:00
 -- url     : https://prove2.me/theorems/5cd4b832-7da5-4e69-9c1f-ebf1fcd606d1

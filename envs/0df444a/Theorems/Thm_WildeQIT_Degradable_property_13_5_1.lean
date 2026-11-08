@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Degradable_property_13_5_1
 -- name    : WildeQIT.Degradable.property_13_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:58:45.588348+00:00
 -- url     : https://prove2.me/theorems/e51c127b-4c2a-4c3c-a722-c45da53733f4

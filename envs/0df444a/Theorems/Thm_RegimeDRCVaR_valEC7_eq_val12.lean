@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegimeDRCVaR_valEC7_eq_val12
 -- name    : RegimeDRCVaR.valEC7_eq_val12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:25:52.063006+00:00
 -- url     : https://prove2.me/theorems/c39b1e06-d010-4e0b-b88b-e845824e7fd3

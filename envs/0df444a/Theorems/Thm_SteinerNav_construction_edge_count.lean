@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_construction_edge_count
 -- name    : SteinerNav.construction_edge_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:47:35.004199+00:00
 -- url     : https://prove2.me/theorems/b1ab471b-9861-412c-92c0-12ae66487f6d

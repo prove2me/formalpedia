@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCaseTI_lemma_3_2
 -- name    : AvgCaseTI.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:42:22.75891+00:00
 -- url     : https://prove2.me/theorems/ea6067ee-b0ee-4f0f-8046-72132c65aa3d

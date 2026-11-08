@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexibleNRM_vfa_zero
 -- name    : FlexibleNRM.vfa_zero
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:26:59.212992+00:00
 -- url     : https://prove2.me/theorems/54fc242e-94a6-4fc9-8c58-0d345e13f8fc

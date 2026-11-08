@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyNV_two_by_two_no_saddle
 -- name    : ShapleyNV.two_by_two_no_saddle
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:51:08.716605+00:00
 -- url     : https://prove2.me/theorems/1ccc85fd-b704-4fca-882d-dc8ecb7012ef

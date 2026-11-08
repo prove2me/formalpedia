@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_ratFunc_kronecker_quotient_finrank
 -- name    : QEC.Coding.AlgebraicGeometry.ratFunc_kronecker_quotient_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:47:11.168691+00:00
 -- url     : https://prove2.me/theorems/5a7227a4-f67e-49a0-af5b-58a40f113393

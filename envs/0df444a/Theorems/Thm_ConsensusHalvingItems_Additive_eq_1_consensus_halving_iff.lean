@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_eq_1_consensus_halving_iff
 -- name    : ConsensusHalvingItems.Additive.eq_1_consensus_halving_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:35:42.635724+00:00
 -- url     : https://prove2.me/theorems/eeb2d239-a69a-4682-aaed-2073a6761962

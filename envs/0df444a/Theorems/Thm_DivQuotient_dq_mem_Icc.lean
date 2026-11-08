@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DivQuotient_dq_mem_Icc
 -- name    : DivQuotient.dq_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:54:19.677542+00:00
 -- url     : https://prove2.me/theorems/b84c10da-848a-4c1b-b097-9925926623d4

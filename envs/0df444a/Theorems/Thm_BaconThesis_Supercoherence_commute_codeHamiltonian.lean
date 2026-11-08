@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Supercoherence_commute_codeHamiltonian
 -- name    : BaconThesis.Supercoherence.commute_codeHamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:18:01.303627+00:00
 -- url     : https://prove2.me/theorems/f3edbd66-d1a4-4a7b-8f60-e866ee45de34

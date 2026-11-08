@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_unitBall_subset_radiusTwo
 -- name    : QEC.Coding.BDL26RandomPerturbation.unitBall_subset_radiusTwo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:57:28.992977+00:00
 -- url     : https://prove2.me/theorems/25795e00-07eb-4ace-8c61-3cba0945d9fa

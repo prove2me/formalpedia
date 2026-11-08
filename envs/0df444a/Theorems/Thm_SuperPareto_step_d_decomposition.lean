@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperPareto_step_d_decomposition
 -- name    : SuperPareto.step_d_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:43.699289+00:00
 -- url     : https://prove2.me/theorems/839c23d9-b974-4fe5-be55-dbf2d2fa4175

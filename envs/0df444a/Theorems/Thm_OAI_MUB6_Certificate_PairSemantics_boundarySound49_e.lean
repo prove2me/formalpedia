@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_PairSemantics_boundarySound49_e
 -- name    : OAI.MUB6.Certificate.PairSemantics.boundarySound49_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T03:34:56.012633+00:00
 -- url     : https://prove2.me/theorems/58773525-ce06-4f99-b35e-63309dfb2b62

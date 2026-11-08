@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighOrderWalks_TwoSided_corollary_5_8
 -- name    : HighOrderWalks.TwoSided.corollary_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:41:00.500984+00:00
 -- url     : https://prove2.me/theorems/84319c74-f989-4f46-b483-2b36017b8850

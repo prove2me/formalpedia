@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCNonBool_theorem_5_1_ppHigh_le_size_sq
 -- name    : PCNonBool.theorem_5_1_ppHigh_le_size_sq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:33:40.179188+00:00
 -- url     : https://prove2.me/theorems/6a5b6f0e-f613-494b-a276-6e46bbb10864

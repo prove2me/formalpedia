@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecDepSO_lemma_A_1
 -- name    : DecDepSO.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:15:45.567608+00:00
 -- url     : https://prove2.me/theorems/12bcdbc4-664b-4ff2-96c6-7d546e7d8ab9

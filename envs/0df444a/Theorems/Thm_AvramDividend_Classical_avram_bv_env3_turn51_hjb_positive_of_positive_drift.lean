@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_env3_turn51_hjb_positive_of_positive_drift
 -- name    : AvramDividend.Classical.avram_bv_env3_turn51_hjb_positive_of_positive_drift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:01:20.215038+00:00
 -- url     : https://prove2.me/theorems/59f64444-d6c7-4dbc-93ac-c859f69f9b80

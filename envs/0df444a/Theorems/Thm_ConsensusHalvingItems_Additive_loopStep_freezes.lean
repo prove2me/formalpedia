@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_loopStep_freezes
 -- name    : ConsensusHalvingItems.Additive.loopStep_freezes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:38:57.662847+00:00
 -- url     : https://prove2.me/theorems/14cd992e-168a-48ef-bd8b-dfc43d234d56

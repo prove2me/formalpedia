@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelServerStab_overflow_iff
 -- name    : ParallelServerStab.overflow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:25:14.852212+00:00
 -- url     : https://prove2.me/theorems/5830ce28-5b8a-4c93-81c3-c7eb87cb0662

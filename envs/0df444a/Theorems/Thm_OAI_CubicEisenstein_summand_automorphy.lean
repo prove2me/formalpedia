@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_summand_automorphy
 -- name    : OAI.CubicEisenstein.summand_automorphy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:53:08.649703+00:00
 -- url     : https://prove2.me/theorems/4a41b419-ed95-4a47-b4e7-4613b52bd643

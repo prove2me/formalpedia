@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_CondExp_eq_4_27
 -- name    : KallMayerSLP.CondExp.eq_4_27
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:11:24.411546+00:00
 -- url     : https://prove2.me/theorems/3686cb95-e070-42c7-8210-7b1dc8b940b9

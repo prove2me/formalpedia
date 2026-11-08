@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalPrimeGeneratedFunctionField_relfinrank
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalPrimeGeneratedFunctionField_relfinrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:10:28.584418+00:00
 -- url     : https://prove2.me/theorems/a6e1df4d-5a28-4067-815c-2ac271da46d6

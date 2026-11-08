@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSDPolyApprox_noise_qy
 -- name    : PSDPolyApprox.noise_qy
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:52:55.900607+00:00
 -- url     : https://prove2.me/theorems/fb6460d2-a21a-4bb1-9e42-c3b07668713b

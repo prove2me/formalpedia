@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpatientQPTAS_rounded_bounds
 -- name    : ImpatientQPTAS.rounded_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T21:01:49.555538+00:00
 -- url     : https://prove2.me/theorems/0c1da105-381d-4b31-b727-e7f2c57f33b8

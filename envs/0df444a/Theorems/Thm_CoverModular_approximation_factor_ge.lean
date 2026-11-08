@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoverModular_approximation_factor_ge
 -- name    : CoverModular.approximation_factor_ge
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:13:32.884974+00:00
 -- url     : https://prove2.me/theorems/f65a7923-a51b-4ba4-ba3a-795589133d74

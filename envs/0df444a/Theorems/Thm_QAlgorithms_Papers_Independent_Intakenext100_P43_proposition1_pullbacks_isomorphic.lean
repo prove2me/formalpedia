@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P43_proposition1_pullbacks_isomorphic
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P43.proposition1_pullbacks_isomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:47:57.813695+00:00
 -- url     : https://prove2.me/theorems/a4c55025-b752-4951-bac1-d1ab3b3ebe3e

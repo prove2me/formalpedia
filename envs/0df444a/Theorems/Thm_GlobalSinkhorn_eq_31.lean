@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalSinkhorn_eq_31
 -- name    : GlobalSinkhorn.eq_31
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T04:22:06.072966+00:00
 -- url     : https://prove2.me/theorems/b56e0f32-8994-4ff0-9911-45e7be01141e

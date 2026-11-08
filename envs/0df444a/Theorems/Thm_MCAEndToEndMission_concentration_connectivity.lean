@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCAEndToEndMission_concentration_connectivity
 -- name    : MCAEndToEndMission.concentration_connectivity
--- status  : Open
+-- status  : Proved
 -- author  : @chenyu
 -- created : 2026-10-30T16:15:49.90405+00:00
 -- url     : https://prove2.me/theorems/0eda09a3-49ed-4f02-b91f-0cd2ee160050

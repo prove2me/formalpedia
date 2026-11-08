@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagerFairDiv_theorem_1_wager_of_alloc
 -- name    : WagerFairDiv.theorem_1_wager_of_alloc
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:52.187808+00:00
 -- url     : https://prove2.me/theorems/dead737a-f5ca-457f-bcd3-6037e45bc33c

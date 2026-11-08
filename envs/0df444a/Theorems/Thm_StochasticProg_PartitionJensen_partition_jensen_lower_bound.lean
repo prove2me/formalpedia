@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_PartitionJensen_partition_jensen_lower_bound
 -- name    : StochasticProg.PartitionJensen.partition_jensen_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:44:22.493613+00:00
 -- url     : https://prove2.me/theorems/06d853ea-7dd1-4742-b073-a4c7eb4d3092

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleFactorPricing_LogBound_typeProfit_eq_integral
 -- name    : SingleFactorPricing.LogBound.typeProfit_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:17:00.40413+00:00
 -- url     : https://prove2.me/theorems/0fa96f0e-e065-41b0-8d80-5a080c2d4685

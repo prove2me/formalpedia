@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeltaSLearning_lemma_1
 -- name    : DeltaSLearning.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:07:45.057+00:00
 -- url     : https://prove2.me/theorems/422ec185-3eb2-4f15-935e-115ae5224b52

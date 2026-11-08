@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingDiagonal_eq_12
 -- name    : KingDiagonal.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:16:24.856495+00:00
 -- url     : https://prove2.me/theorems/4392e6da-2729-487b-a50c-456125b65467

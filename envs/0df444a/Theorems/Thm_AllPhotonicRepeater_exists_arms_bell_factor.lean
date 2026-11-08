@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllPhotonicRepeater_exists_arms_bell_factor
 -- name    : AllPhotonicRepeater.exists_arms_bell_factor
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:21:17.361756+00:00
 -- url     : https://prove2.me/theorems/9e6b0b3d-0495-4d5d-8d2f-92e4cdd29641

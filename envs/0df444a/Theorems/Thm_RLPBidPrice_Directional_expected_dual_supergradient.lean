@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Directional_expected_dual_supergradient
 -- name    : RLPBidPrice.Directional.expected_dual_supergradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T13:12:09.935268+00:00
 -- url     : https://prove2.me/theorems/81775879-1a94-40a3-8980-7df727c9d48d

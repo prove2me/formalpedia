@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehShare_MultiNet_static_pricing_multi_network_bound
 -- name    : VehShare.MultiNet.static_pricing_multi_network_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T04:08:47.232564+00:00
 -- url     : https://prove2.me/theorems/25d8984a-43f8-4b92-9d7c-a67764d0f7fb

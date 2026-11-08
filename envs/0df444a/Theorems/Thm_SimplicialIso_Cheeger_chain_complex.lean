@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Cheeger_chain_complex
 -- name    : SimplicialIso.Cheeger.chain_complex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:37.150837+00:00
 -- url     : https://prove2.me/theorems/f0b13d1f-cd84-4280-b7b7-647851146ef2

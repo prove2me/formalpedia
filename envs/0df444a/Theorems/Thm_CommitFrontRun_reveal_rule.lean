@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommitFrontRun_reveal_rule
 -- name    : CommitFrontRun.reveal_rule
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:45:32.212607+00:00
 -- url     : https://prove2.me/theorems/3d1be2be-df3e-45ca-88c1-0b5b217a63c1

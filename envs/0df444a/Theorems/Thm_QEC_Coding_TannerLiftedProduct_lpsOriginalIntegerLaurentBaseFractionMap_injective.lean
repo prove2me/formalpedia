@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerLaurentBaseFractionMap_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerLaurentBaseFractionMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:37:49.513988+00:00
 -- url     : https://prove2.me/theorems/380626ec-2c30-452f-92cf-d0e433469289

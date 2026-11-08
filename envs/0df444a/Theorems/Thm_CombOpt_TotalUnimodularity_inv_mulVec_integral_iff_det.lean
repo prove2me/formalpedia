@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_TotalUnimodularity_inv_mulVec_integral_iff_det
 -- name    : CombOpt.TotalUnimodularity.inv_mulVec_integral_iff_det
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:04:18.472173+00:00
 -- url     : https://prove2.me/theorems/2b0302f5-5cda-4995-9f11-3d69e1c43677

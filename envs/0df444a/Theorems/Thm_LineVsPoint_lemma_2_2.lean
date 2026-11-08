@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LineVsPoint_lemma_2_2
 -- name    : LineVsPoint.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T08:03:51.265554+00:00
 -- url     : https://prove2.me/theorems/de1902d4-6f0f-48a8-87da-f80224b59849

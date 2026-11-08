@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_zero_power_rule
 -- name    : CrossLayerControl.ECCA.zero_power_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:35:52.553718+00:00
 -- url     : https://prove2.me/theorems/f50daa72-573a-4323-8f55-47489b60c957

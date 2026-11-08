@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToricMemory_eq_61
 -- name    : ToricMemory.eq_61
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:21:44.66739+00:00
 -- url     : https://prove2.me/theorems/69a79469-84c9-4650-9c15-e06e2887b510

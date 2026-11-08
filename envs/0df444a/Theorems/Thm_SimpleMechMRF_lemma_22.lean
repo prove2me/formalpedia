@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleMechMRF_lemma_22
 -- name    : SimpleMechMRF.lemma_22
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:14:02.568597+00:00
 -- url     : https://prove2.me/theorems/450c6129-5029-47ea-89a5-ed0377d67527

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_eisenstein_differentiableAt
 -- name    : OAI.CubicEisenstein.eisenstein_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:53:14.259694+00:00
 -- url     : https://prove2.me/theorems/78e2ce9c-8bf2-4165-89f9-02f9ab5187ed

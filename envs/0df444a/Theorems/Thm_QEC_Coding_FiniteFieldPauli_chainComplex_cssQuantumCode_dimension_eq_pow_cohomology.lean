@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_chainComplex_cssQuantumCode_dimension_eq_pow_cohomology
 -- name    : QEC.Coding.FiniteFieldPauli.chainComplex_cssQuantumCode_dimension_eq_pow_cohomology
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:49:27.119687+00:00
 -- url     : https://prove2.me/theorems/0e3cf1e3-6daf-4f36-a4db-6c3d393cf8df

@@ -1,0 +1,89 @@
+-- Prove2me | solution 1 for OAI.CubicEisenstein.residueSeries_finite
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-07T09:29:57.253284+00:00
+-- url     : https://prove2.me/submissions/eeb2c35d-ed51-4a38-a947-36b6b5466d56
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_CubicSieve_IntegratedTransfer
+import Definitions.Def_OAI_NumberTheory_DirichletL_CubicSieve_RowMajorants
+
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open OAI.CubicEisenstein
+open scoped BigOperators Classical MatrixGroups Matrix
+open ActualEisensteinCubic CubicKubota ConcreteTraceCRT CubicJacobiGlobal
+namespace OAI.CubicEisenstein
+theorem _root_.solution (z : ℂ) (v : ℝ) (s : ℂ) (c : O) (hc : c ≠ 0) :
+    letI : Fintype (AdmissibleResidue c) := @Fintype.ofFinite _ (finite_admissibleResidue c hc)
+    residueSeries z v s c = ∑ r : AdmissibleResidue c, ∑' n : O,
+      primitiveTerm (z+3*eisEmbedding n) v s c (denominatorRep c r.1) := by
+  let : Fintype (AdmissibleResidue c) := @Fintype.ofFinite _ (finite_admissibleResidue c hc)
+  exact tsum_fintype _
+end OAI.CubicEisenstein

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_LiftedProductTannerCode_quantumTanner_from_liftedProduct
 -- name    : QEC.Coding.QuantumTanner.LiftedProductTannerCode.quantumTanner_from_liftedProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:37:47.397796+00:00
 -- url     : https://prove2.me/theorems/6114bc67-89c9-44be-940b-82ece6a465d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsotropicSpin_entropy_at_plus_one
 -- name    : IsotropicSpin.entropy_at_plus_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:46.289192+00:00
 -- url     : https://prove2.me/theorems/4c7d7444-819f-4d43-ad72-76434186a2db

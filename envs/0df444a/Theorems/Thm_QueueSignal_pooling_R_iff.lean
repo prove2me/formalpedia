@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueSignal_pooling_R_iff
 -- name    : QueueSignal.pooling_R_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:39.871775+00:00
 -- url     : https://prove2.me/theorems/b4bedc52-572f-4642-987d-3962f341fc10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_appendix_theorem
 -- name    : Sherbrooke.appendix_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:28:21.416517+00:00
 -- url     : https://prove2.me/theorems/930fe6f0-9bfa-46fe-ba12-ec57b1be91b0

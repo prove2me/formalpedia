@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Unbiased_theorem1_unbiased_gradient
 -- name    : RLPBidPrice.Unbiased.theorem1_unbiased_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:48:58.741759+00:00
 -- url     : https://prove2.me/theorems/9b8c4d44-6745-4e1b-80a3-839906089695

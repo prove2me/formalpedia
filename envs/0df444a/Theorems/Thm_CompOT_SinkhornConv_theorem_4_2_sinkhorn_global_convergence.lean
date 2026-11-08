@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_SinkhornConv_theorem_4_2_sinkhorn_global_convergence
 -- name    : CompOT.SinkhornConv.theorem_4_2_sinkhorn_global_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:24:20.328855+00:00
 -- url     : https://prove2.me/theorems/e1b57723-0d12-4f06-b2a9-6b98049e5761

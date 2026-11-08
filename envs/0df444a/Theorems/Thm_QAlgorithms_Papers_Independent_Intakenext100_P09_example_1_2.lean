@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P09_example_1_2
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P09.example_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:09:57.957969+00:00
 -- url     : https://prove2.me/theorems/6d459211-57fb-47a8-bb0a-62282c3cc08d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJQCoefficient_integer
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJQCoefficient_integer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:21:52.876745+00:00
 -- url     : https://prove2.me/theorems/42076e9e-b625-4e19-8137-dcc942162acc

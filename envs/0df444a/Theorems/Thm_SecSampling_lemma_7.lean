@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecSampling_lemma_7
 -- name    : SecSampling.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:31:52.609205+00:00
 -- url     : https://prove2.me/theorems/47c13d47-2d38-48e6-aa2e-72d9b95447cd

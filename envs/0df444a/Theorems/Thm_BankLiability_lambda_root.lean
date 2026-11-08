@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BankLiability_lambda_root
 -- name    : BankLiability.lambda_root
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:49:21.395752+00:00
 -- url     : https://prove2.me/theorems/935ce9fe-84f3-49bb-bdaa-f2159ba4c038

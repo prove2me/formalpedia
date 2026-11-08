@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for QEC.Coding.TannerLiftedProduct.replicatedSchedule_rateRatio
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-07T11:34:48.681985+00:00
+-- url     : https://prove2.me/submissions/db94de3a-2f59-4f7b-aee0-e11cbe84f6a2
+
+import Definitions.Def_QEC_Coding_ExpanderCodes_TannerSemanticDistance
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Definitions.Def_QEC_Coding_ExpanderCodes_TannerScheduleBounds
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.TannerLiftedProduct
+universe u
+variable {F G W R R' : Type u}
+variable [Field F] [Fintype F]
+variable [Group G] [Fintype G] [DecidableEq G]
+variable [Fintype W] [DecidableEq W]
+variable [Fintype R] [DecidableEq R]
+variable [Fintype R'] [DecidableEq R']
+attribute [local instance] QEC.Coding.TannerLiftedProduct._p2m_local_instance_5f18e3d3db_23
+attribute [local instance] QEC.Coding.TannerLiftedProduct._p2m_local_instance_5f18e3d3db_24
+namespace QEC.Coding.TannerLiftedProduct
+theorem _root_.solution
+    (A B B' N : Nat) (rate : ℝ)
+    (hCoefficient :
+      2 * ((B : ℝ) + B') * A ≤
+        (1 - rate) * ((A : ℝ) ^ 2 + 4 * B * B')) :
+    2 * (((B * N : Nat) : ℝ) + (B' * N : Nat)) *
+        ((A * N : Nat) : ℝ) ≤
+      (1 - rate) *
+        (((A * N : Nat) : ℝ) ^ 2 +
+          4 * ((B * N : Nat) : ℝ) * (B' * N : Nat)) := by
+  have hScale : 0 ≤ (((N : Nat) : ℝ) ^ 2) := sq_nonneg _
+  have hScaled := mul_le_mul_of_nonneg_right hCoefficient hScale
+  norm_num only [Nat.cast_mul] at ⊢ hScaled
+  nlinarith
+end QEC.Coding.TannerLiftedProduct

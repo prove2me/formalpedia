@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProactiveUpgrade_proposition_2
 -- name    : ProactiveUpgrade.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:35.785549+00:00
 -- url     : https://prove2.me/theorems/c3b8b618-5f36-431d-aa08-5fcae1d4109e

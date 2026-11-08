@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_cssQuantumCode_carrier_ne_bot
 -- name    : QEC.Coding.FiniteFieldPauli.cssQuantumCode_carrier_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:55:31.370488+00:00
 -- url     : https://prove2.me/theorems/dc4b784b-20ec-4cf8-b035-9f6417805740

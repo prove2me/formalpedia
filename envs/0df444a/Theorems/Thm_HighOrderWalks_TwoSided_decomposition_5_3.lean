@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighOrderWalks_TwoSided_decomposition_5_3
 -- name    : HighOrderWalks.TwoSided.decomposition_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:41:05.929179+00:00
 -- url     : https://prove2.me/theorems/c9232f7f-39c5-4ab2-8784-fc753f1eb659

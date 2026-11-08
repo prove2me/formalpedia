@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p3_grid4_original_zero_benchmark_strict_payoff_ae_zero
 -- name    : AvramDividend.Classical.avram_p3_grid4_original_zero_benchmark_strict_payoff_ae_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:00:09.947698+00:00
 -- url     : https://prove2.me/theorems/be711acd-1075-4af9-b8c2-163907a98300

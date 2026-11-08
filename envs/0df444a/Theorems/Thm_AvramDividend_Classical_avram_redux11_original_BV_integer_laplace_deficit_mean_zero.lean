@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux11_original_BV_integer_laplace_deficit_mean_zero
 -- name    : AvramDividend.Classical.avram_redux11_original_BV_integer_laplace_deficit_mean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:05:55.578547+00:00
 -- url     : https://prove2.me/theorems/4b7c61b0-6eee-4933-8ead-243fd196123c

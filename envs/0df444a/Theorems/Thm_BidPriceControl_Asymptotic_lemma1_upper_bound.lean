@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_lemma1_upper_bound
 -- name    : BidPriceControl.Asymptotic.lemma1_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:38:38.604989+00:00
 -- url     : https://prove2.me/theorems/4213620c-b14d-4a4e-9858-444befa17781

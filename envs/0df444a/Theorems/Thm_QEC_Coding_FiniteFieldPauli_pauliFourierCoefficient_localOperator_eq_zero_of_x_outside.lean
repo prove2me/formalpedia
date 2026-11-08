@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_pauliFourierCoefficient_localOperator_eq_zero_of_x_outside
 -- name    : QEC.Coding.FiniteFieldPauli.pauliFourierCoefficient_localOperator_eq_zero_of_x_outside
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:48:38.258375+00:00
 -- url     : https://prove2.me/theorems/fd1c70de-643e-42e8-b67a-1b7267d8f86a

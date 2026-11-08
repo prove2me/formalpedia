@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_first_constraint
 -- name    : NestedLogitAssort.DeltaGrid.first_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:13:28.38082+00:00
 -- url     : https://prove2.me/theorems/09820015-be58-416c-b831-a8df3c7b390f

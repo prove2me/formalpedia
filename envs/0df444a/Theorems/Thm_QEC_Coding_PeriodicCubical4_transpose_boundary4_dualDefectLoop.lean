@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_transpose_boundary4_dualDefectLoop
 -- name    : QEC.Coding.PeriodicCubical4.transpose_boundary4_dualDefectLoop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:49:25.43387+00:00
 -- url     : https://prove2.me/theorems/a05e8f7e-ed4c-4e81-92b5-686c3492aa8f

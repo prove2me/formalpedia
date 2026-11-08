@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_uniform_duration_boundary
 -- name    : PriceQualityService.uniform_duration_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:42:42.300551+00:00
 -- url     : https://prove2.me/theorems/e44256cb-6804-4871-bed2-eae87afd77f1

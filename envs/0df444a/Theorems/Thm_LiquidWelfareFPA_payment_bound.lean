@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidWelfareFPA_payment_bound
 -- name    : LiquidWelfareFPA.payment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:36:09.58631+00:00
 -- url     : https://prove2.me/theorems/4c2169bc-e353-481a-a523-533f70c94aa1

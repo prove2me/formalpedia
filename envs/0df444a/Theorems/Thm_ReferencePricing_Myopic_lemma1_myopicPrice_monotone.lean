@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_Myopic_lemma1_myopicPrice_monotone
 -- name    : ReferencePricing.Myopic.lemma1_myopicPrice_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T09:37:21.511396+00:00
 -- url     : https://prove2.me/theorems/1ebb04d2-6432-4d49-8d60-343df78f51be

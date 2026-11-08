@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RainsSep_Distill_kraus_choi_partial_trace
 -- name    : RainsSep.Distill.kraus_choi_partial_trace
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:58:23.901402+00:00
 -- url     : https://prove2.me/theorems/6e63ddf2-1ddc-4a96-9112-e93936172b80

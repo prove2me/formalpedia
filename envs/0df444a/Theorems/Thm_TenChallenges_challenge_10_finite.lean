@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TenChallenges_challenge_10_finite
 -- name    : TenChallenges.challenge_10_finite
--- status  : Open
+-- status  : Proved
 -- author  : @utkuokur
 -- created : 2026-11-04T20:45:25.416798+00:00
 -- url     : https://prove2.me/theorems/bd5c6220-4612-4ad0-af7a-4927133dcd62

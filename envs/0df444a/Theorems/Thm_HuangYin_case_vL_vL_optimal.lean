@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuangYin_case_vL_vL_optimal
 -- name    : HuangYin.case_vL_vL_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:48:14.999603+00:00
 -- url     : https://prove2.me/theorems/0ad88ec2-0b1f-4230-a64a-d9b72d42a48c

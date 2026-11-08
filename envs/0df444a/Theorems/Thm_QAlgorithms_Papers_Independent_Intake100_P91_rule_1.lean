@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P91_rule_1
 -- name    : QAlgorithms.Papers.Independent.Intake100.P91.rule_1
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:10:24.600404+00:00
 -- url     : https://prove2.me/theorems/72917f02-1e4a-4a47-80a5-895182c6a908

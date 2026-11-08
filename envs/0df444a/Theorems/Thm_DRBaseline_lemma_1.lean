@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRBaseline_lemma_1
 -- name    : DRBaseline.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:42:26.372262+00:00
 -- url     : https://prove2.me/theorems/88aa7213-582d-448e-a9e2-90af21f2ffb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AirlineYieldMgmt_BookingLimits_value_concave_nonincreasing
 -- name    : AirlineYieldMgmt.BookingLimits.value_concave_nonincreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:12:48.559853+00:00
 -- url     : https://prove2.me/theorems/605adbea-34cf-4dcd-a322-be1f1eb0f527

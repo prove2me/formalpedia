@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_grid_scaled_feasible
 -- name    : NestedLogitAssort.DeltaGrid.grid_scaled_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:14:22.690311+00:00
 -- url     : https://prove2.me/theorems/e2598426-5a96-4fce-9e35-2a17c8e81ac0

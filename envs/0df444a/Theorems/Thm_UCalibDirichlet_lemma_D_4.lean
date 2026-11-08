@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UCalibDirichlet_lemma_D_4
 -- name    : UCalibDirichlet.lemma_D_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:24:27.953554+00:00
 -- url     : https://prove2.me/theorems/ebb58091-555d-42d4-9936-7aa12a0620a1

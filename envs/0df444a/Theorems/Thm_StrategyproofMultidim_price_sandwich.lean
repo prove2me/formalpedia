@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyproofMultidim_price_sandwich
 -- name    : StrategyproofMultidim.price_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:14:17.085528+00:00
 -- url     : https://prove2.me/theorems/1fe13fea-0c6f-42cc-884b-c53d0ff3d6a5

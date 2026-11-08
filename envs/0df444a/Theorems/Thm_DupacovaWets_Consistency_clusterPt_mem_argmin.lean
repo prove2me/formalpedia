@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_clusterPt_mem_argmin
 -- name    : DupacovaWets.Consistency.clusterPt_mem_argmin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:07:10.561717+00:00
 -- url     : https://prove2.me/theorems/f3232290-43eb-417e-9415-84047f079cd1

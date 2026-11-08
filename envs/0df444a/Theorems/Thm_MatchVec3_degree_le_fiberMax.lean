@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchVec3_degree_le_fiberMax
 -- name    : MatchVec3.degree_le_fiberMax
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:42:48.208039+00:00
 -- url     : https://prove2.me/theorems/d79d3c80-601f-4526-adda-20dc7bd8415a

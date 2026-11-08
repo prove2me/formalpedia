@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_why24AppendixWordPhaseList_eq_trace
 -- name    : QEC.Coding.why24AppendixWordPhaseList_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:52:44.790809+00:00
 -- url     : https://prove2.me/theorems/963e884f-ef07-4971-9ee9-aaa36ca6aa7c

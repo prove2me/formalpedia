@@ -77030,16 +77030,16 @@
 {"parent": "BellWilliams2001.ThresholdPolicy.fluid_allocation_limit", "child": "BellWilliams2001_ThresholdPolicy_Threshold", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.fluid_limit_of_finite_cost", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.fluid_limit_of_finite_cost", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
-{"parent": "BellWilliams2001.ThresholdPolicy.renewal_lower_deviation", "child": "BellWilliams2001_ThresholdPolicy_LargeDeviation", "via": ["statement"]}
-{"parent": "BellWilliams2001.ThresholdPolicy.renewal_lower_deviation", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
-{"parent": "BellWilliams2001.ThresholdPolicy.renewal_upper_deviation", "child": "BellWilliams2001_ThresholdPolicy_LargeDeviation", "via": ["statement"]}
-{"parent": "BellWilliams2001.ThresholdPolicy.renewal_upper_deviation", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.renewal_lower_deviation", "child": "BellWilliams2001_ThresholdPolicy_LargeDeviation", "via": ["solution", "statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.renewal_lower_deviation", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.renewal_upper_deviation", "child": "BellWilliams2001_ThresholdPolicy_LargeDeviation", "via": ["solution", "statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.renewal_upper_deviation", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.residual_collapse", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.residual_collapse", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.residual_collapse", "child": "BellWilliams2001_ThresholdPolicy_Threshold", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.residual_process_bounds", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.residual_process_bounds", "child": "BellWilliams2001_ThresholdPolicy_Threshold", "via": ["statement"]}
-{"parent": "BellWilliams2001.ThresholdPolicy.skorokhod_problem_1d", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
+{"parent": "BellWilliams2001.ThresholdPolicy.skorokhod_problem_1d", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["solution", "statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.state_space_collapse", "child": "BellWilliams2001_ThresholdPolicy_BrownianControl", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.state_space_collapse", "child": "BellWilliams2001_ThresholdPolicy_Model", "via": ["statement"]}
 {"parent": "BellWilliams2001.ThresholdPolicy.state_space_collapse", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
@@ -77229,9 +77229,9 @@
 {"parent": "BertsekasShreve.BorelFinite.lemma8_1_markov_cost_eq_comp", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.lemma8_1_markov_cost_eq_comp", "child": "BertsekasShreve_BorelFinite_Operators", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.lemma8_1_markov_cost_eq_comp", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelFinite.lemma8_2_eps_selector", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelFinite.lemma8_2_eps_selector", "child": "BertsekasShreve_BorelFinite_Operators", "via": ["statement"]}
-{"parent": "BertsekasShreve.BorelFinite.lemma8_2_eps_selector", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}
+{"parent": "BertsekasShreve.BorelFinite.lemma8_2_eps_selector", "child": "BertsekasShreve_BorelFinite_Model", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelFinite.lemma8_2_eps_selector", "child": "BertsekasShreve_BorelFinite_Operators", "via": ["solution", "statement"]}
+{"parent": "BertsekasShreve.BorelFinite.lemma8_2_eps_selector", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["solution", "statement"]}
 {"parent": "BertsekasShreve.BorelFinite.lemma8_3_iterate_gt_bot", "child": "BertsekasShreve_BorelFinite_Model", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.lemma8_3_iterate_gt_bot", "child": "BertsekasShreve_BorelFinite_Operators", "via": ["statement"]}
 {"parent": "BertsekasShreve.BorelFinite.lemma8_3_iterate_gt_bot", "child": "BertsekasShreve_BorelFinite_Policy", "via": ["statement"]}

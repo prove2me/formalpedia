@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Locality_exists_daiLi_optimal_locality_tradeoff
 -- name    : QEC.Locality.exists_daiLi_optimal_locality_tradeoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:42:39.685641+00:00
 -- url     : https://prove2.me/theorems/90977aef-5069-422d-b3be-7a12e5548ff6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_sla_cap_comparison
 -- name    : CloudAlloc.MWU.sla_cap_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:46:48.940106+00:00
 -- url     : https://prove2.me/theorems/5cbe3894-53a7-48b1-9f1e-03d044c21d7b

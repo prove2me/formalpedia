@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_Verification_lemma2_3_controlled_process
 -- name    : ImpulseGames.Verification.lemma2_3_controlled_process
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:04:11.500677+00:00
 -- url     : https://prove2.me/theorems/5b74b3ee-d0db-4bcf-8676-ff536725084f

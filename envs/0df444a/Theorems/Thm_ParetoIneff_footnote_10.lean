@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParetoIneff_footnote_10
 -- name    : ParetoIneff.footnote_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:26:51.062168+00:00
 -- url     : https://prove2.me/theorems/7af49ee5-d537-481b-af1c-f3e74aa6af4e

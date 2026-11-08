@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditEvasion_eq_12_unique_root
 -- name    : AuditEvasion.eq_12_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:28:44.575674+00:00
 -- url     : https://prove2.me/theorems/d0d00a0b-4b8e-40b0-97a7-7322ede62c70

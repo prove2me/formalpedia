@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusableMatching_theorem_1_min_f
 -- name    : ReusableMatching.theorem_1_min_f
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:19.696843+00:00
 -- url     : https://prove2.me/theorems/2df3a785-05b3-4614-afe9-5a68598519ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_root_le_iff
 -- name    : PriceQualityService.root_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:40:53.28832+00:00
 -- url     : https://prove2.me/theorems/0f216725-1d28-41a7-94e7-7b9bc594c633

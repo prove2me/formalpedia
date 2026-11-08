@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WHMultiplicativity_eq_8
 -- name    : WHMultiplicativity.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:23:12.633808+00:00
 -- url     : https://prove2.me/theorems/68d5f669-3086-468d-b29d-95b18d57c056

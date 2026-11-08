@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatefulPricing_section_3_1_induced
 -- name    : StatefulPricing.section_3_1_induced
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T08:26:23.94628+00:00
 -- url     : https://prove2.me/theorems/2a119050-965a-4615-a757-e97a6bba8a8a

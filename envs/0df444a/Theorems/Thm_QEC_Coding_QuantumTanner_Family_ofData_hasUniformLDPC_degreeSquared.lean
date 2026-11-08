@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_Family_ofData_hasUniformLDPC_degreeSquared
 -- name    : QEC.Coding.QuantumTanner.Family.ofData_hasUniformLDPC_degreeSquared
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:50:10.023494+00:00
 -- url     : https://prove2.me/theorems/8733f423-6ecb-450b-b220-e88cbe1aedf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_auso_lower_bound
 -- name    : FriedmannCunningham.auso_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:12:50.681673+00:00
 -- url     : https://prove2.me/theorems/879e6a3b-f0ee-4b0b-9ee2-a4f37a615ed2

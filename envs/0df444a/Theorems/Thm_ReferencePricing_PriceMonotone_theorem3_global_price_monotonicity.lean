@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReferencePricing_PriceMonotone_theorem3_global_price_monotonicity
 -- name    : ReferencePricing.PriceMonotone.theorem3_global_price_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T15:08:53.472038+00:00
 -- url     : https://prove2.me/theorems/d1154cf3-e9c6-42d7-9433-6c025f01ecb9

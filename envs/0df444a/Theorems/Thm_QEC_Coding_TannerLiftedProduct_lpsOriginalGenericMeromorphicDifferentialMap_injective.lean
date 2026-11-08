@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGenericMeromorphicDifferentialMap_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGenericMeromorphicDifferentialMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:19:18.959027+00:00
 -- url     : https://prove2.me/theorems/3f3cde1d-9256-4463-a683-2a1349a56212

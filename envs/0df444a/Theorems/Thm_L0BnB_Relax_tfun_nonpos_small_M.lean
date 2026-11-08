@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Relax_tfun_nonpos_small_M
 -- name    : L0BnB.Relax.tfun_nonpos_small_M
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:50:56.928465+00:00
 -- url     : https://prove2.me/theorems/2067fa58-ac52-4591-a5b6-825b56f37a8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Unbiased_lemma3_direction_eq_zero
 -- name    : RLPBidPrice.Unbiased.lemma3_direction_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:48:26.43499+00:00
 -- url     : https://prove2.me/theorems/37585f35-10c8-4a59-a2c5-b311a4039a84

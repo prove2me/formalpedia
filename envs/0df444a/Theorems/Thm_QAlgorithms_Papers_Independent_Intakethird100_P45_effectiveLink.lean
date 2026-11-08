@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P45_effectiveLink
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P45.effectiveLink
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:23:20.859373+00:00
 -- url     : https://prove2.me/theorems/62ebd536-11bf-45b9-b15d-52663260b899

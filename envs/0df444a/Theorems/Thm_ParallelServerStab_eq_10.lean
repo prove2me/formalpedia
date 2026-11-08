@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelServerStab_eq_10
 -- name    : ParallelServerStab.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:23:55.56527+00:00
 -- url     : https://prove2.me/theorems/4f89cb63-b435-4cce-a9b1-e1f29e800f1d

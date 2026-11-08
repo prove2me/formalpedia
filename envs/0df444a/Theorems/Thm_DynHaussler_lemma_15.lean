@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynHaussler_lemma_15
 -- name    : DynHaussler.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:35:55.045208+00:00
 -- url     : https://prove2.me/theorems/0e557e98-d3a8-41b3-870b-e11f7d41e6ec

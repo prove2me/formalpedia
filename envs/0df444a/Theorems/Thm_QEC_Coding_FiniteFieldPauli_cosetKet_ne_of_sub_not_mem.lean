@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_cosetKet_ne_of_sub_not_mem
 -- name    : QEC.Coding.FiniteFieldPauli.cosetKet_ne_of_sub_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:54:42.547191+00:00
 -- url     : https://prove2.me/theorems/eb98dcd8-351d-4ffc-8d3b-a98e978150f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankIndicator_R_subset_Q
 -- name    : LowRankIndicator.R_subset_Q
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:18:43.403447+00:00
 -- url     : https://prove2.me/theorems/7539c33c-fe40-49db-9df8-28b3c1a4d93c

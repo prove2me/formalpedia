@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_scaled_allocation_work
 -- name    : CloudAlloc.MWU.scaled_allocation_work
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:43:33.766659+00:00
 -- url     : https://prove2.me/theorems/f47fe6d0-6e51-4afc-8c31-ac4102d4ee65

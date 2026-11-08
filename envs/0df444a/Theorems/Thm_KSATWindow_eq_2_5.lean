@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KSATWindow_eq_2_5
 -- name    : KSATWindow.eq_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:32:28.346204+00:00
 -- url     : https://prove2.me/theorems/e2da4e47-779f-4fbf-9a13-3404d23fc6c3

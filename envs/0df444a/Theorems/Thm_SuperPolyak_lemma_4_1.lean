@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperPolyak_lemma_4_1
 -- name    : SuperPolyak.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:12:47.983284+00:00
 -- url     : https://prove2.me/theorems/b41a4e82-ebc7-4880-8309-16d04c97e889

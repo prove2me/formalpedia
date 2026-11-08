@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactModKL_lemma_3_1_ii
 -- name    : ExactModKL.lemma_3_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:56:47.410324+00:00
 -- url     : https://prove2.me/theorems/90f07aa9-c1a7-4593-bad1-b293b82a1285

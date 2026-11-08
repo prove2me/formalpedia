@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Coding_eq_2_140
 -- name    : FuchsThesis.Coding.eq_2_140
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:41.251827+00:00
 -- url     : https://prove2.me/theorems/282611a0-c3d7-4bb2-90b9-0111aae0fb7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PandoraComb_lemma_F_1
 -- name    : PandoraComb.lemma_F_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:08:55.177006+00:00
 -- url     : https://prove2.me/theorems/791947c1-6e82-4d60-b67e-79eca94b4f6a

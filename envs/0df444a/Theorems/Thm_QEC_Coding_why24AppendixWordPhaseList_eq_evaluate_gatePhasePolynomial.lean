@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_why24AppendixWordPhaseList_eq_evaluate_gatePhasePolynomial
 -- name    : QEC.Coding.why24AppendixWordPhaseList_eq_evaluate_gatePhasePolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:52:59.674115+00:00
 -- url     : https://prove2.me/theorems/3c2d2c7f-1ddf-4dee-ba04-21f1aad21516

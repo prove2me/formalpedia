@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevelSetScores_theorem_2_consistency
 -- name    : LevelSetScores.theorem_2_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:40:14.438808+00:00
 -- url     : https://prove2.me/theorems/a1e7709f-94e0-4fe8-983c-5659676729ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseMatchingDesign_ring_density_eq_min
 -- name    : SparseMatchingDesign.ring_density_eq_min
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:16:30.757288+00:00
 -- url     : https://prove2.me/theorems/5d4bd5ae-31d1-4dab-a04c-7bf7a3bcba96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaOGD_individual_convexity
 -- name    : AdaOGD.individual_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:09.747737+00:00
 -- url     : https://prove2.me/theorems/b6023bed-5fa3-4f20-8413-cfb43a5b964e

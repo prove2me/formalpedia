@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P41_projectedCoefficientProduct
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P41.projectedCoefficientProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:35:31.135221+00:00
 -- url     : https://prove2.me/theorems/2141bae6-fd26-416d-b36f-81df0ded5c98

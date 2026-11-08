@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Hashing_property_14_3_3
 -- name    : WildeQIT.Hashing.property_14_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:36.767334+00:00
 -- url     : https://prove2.me/theorems/50f11891-6b20-4177-960b-ed413312ce85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeVaryingGames_bregman_lower_bound
 -- name    : TimeVaryingGames.bregman_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:26.384605+00:00
 -- url     : https://prove2.me/theorems/26496888-2080-46f0-8b39-135bc4086d13

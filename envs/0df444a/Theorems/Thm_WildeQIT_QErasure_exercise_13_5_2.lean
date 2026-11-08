@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_QErasure_exercise_13_5_2
 -- name    : WildeQIT.QErasure.exercise_13_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:37:50.214668+00:00
 -- url     : https://prove2.me/theorems/495f55d6-a2f0-44b1-a8c1-5758efe96a3b

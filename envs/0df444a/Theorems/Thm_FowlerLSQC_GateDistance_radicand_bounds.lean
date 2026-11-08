@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FowlerLSQC_GateDistance_radicand_bounds
 -- name    : FowlerLSQC.GateDistance.radicand_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:36:27.649736+00:00
 -- url     : https://prove2.me/theorems/916ffd07-2bad-4306-892b-162bf753550f

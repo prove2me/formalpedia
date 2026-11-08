@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitionComplexity_claim_1
 -- name    : CompetitionComplexity.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:28:23.756887+00:00
 -- url     : https://prove2.me/theorems/f2351986-3522-4e17-b3c7-db46d85393e0

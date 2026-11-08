@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowAllocationGames_UnitRanking_eq_8_flow_eq_sum_utility
 -- name    : FlowAllocationGames.UnitRanking.eq_8_flow_eq_sum_utility
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:35:26.543425+00:00
 -- url     : https://prove2.me/theorems/27c8d1d8-10fa-4aa4-aff2-4e5b41a3dfba

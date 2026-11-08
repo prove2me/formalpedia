@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TestScoreSubmod_lemma_1
 -- name    : TestScoreSubmod.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:48:48.615544+00:00
 -- url     : https://prove2.me/theorems/65019f3b-72b4-412f-85bb-d668d6e83345

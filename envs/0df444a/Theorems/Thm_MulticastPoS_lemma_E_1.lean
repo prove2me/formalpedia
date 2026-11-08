@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticastPoS_lemma_E_1
 -- name    : MulticastPoS.lemma_E_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:38:53.926529+00:00
 -- url     : https://prove2.me/theorems/8854c2aa-0f57-4274-9248-b7c315744326

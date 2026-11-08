@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_bellman_unique_solution
 -- name    : MarkovEntanglementExact.bellman_unique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:20:33.233983+00:00
 -- url     : https://prove2.me/theorems/6120c32c-deda-4bb9-9afb-053ee59f10d3

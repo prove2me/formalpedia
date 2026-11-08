@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagerFairDiv_toWager_valid
 -- name    : WagerFairDiv.toWager_valid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:35.622991+00:00
 -- url     : https://prove2.me/theorems/84821d2a-1c37-41e8-b283-460307f6d031

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonVRP_theorem_1
 -- name    : TwoEchelonVRP.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:32:53.024487+00:00
 -- url     : https://prove2.me/theorems/bbaf6e3a-17f6-4538-90c8-6b64317b9bfe

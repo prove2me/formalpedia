@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxNashSet_minimal_mem_convexHull
 -- name    : ApproxNashSet.minimal_mem_convexHull
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:17:49.678057+00:00
 -- url     : https://prove2.me/theorems/a57dfbdb-dedd-4bda-9afc-fdab4b2eedfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_dualMembraneError_add_plaquette
 -- name    : QEC.Coding.PeriodicCubical4.dualMembraneError_add_plaquette
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:49:40.324764+00:00
 -- url     : https://prove2.me/theorems/eae1af2f-19dd-4ffd-8167-58636880a5f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_expectFn_proper_lsc
 -- name    : DupacovaWets.Consistency.expectFn_proper_lsc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:06:22.018528+00:00
 -- url     : https://prove2.me/theorems/d7e4a083-f472-4eb0-b8d4-0e40a6b0133a

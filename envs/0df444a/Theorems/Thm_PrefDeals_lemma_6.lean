@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefDeals_lemma_6
 -- name    : PrefDeals.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:18:00.980449+00:00
 -- url     : https://prove2.me/theorems/993e7301-eb61-4b79-a9c3-128b191ce062

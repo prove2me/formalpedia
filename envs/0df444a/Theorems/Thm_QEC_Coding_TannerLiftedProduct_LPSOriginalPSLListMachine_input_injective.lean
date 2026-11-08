@@ -1,0 +1,49 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSOriginalPSLListMachine_input_injective
+-- name    : QEC.Coding.TannerLiftedProduct.LPSOriginalPSLListMachine.input_injective
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-07T10:34:21.021982+00:00
+-- url     : https://prove2.me/theorems/c138b6f0-0c3f-43da-b236-bff3e5948fa7
+-- title:
+--   LPSOriginal PSLList Machine: input injective
+-- statement:
+--   Actual complete PSL-row execution, original source identity, q-only initialization or whole runtime certificate.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/ExpanderCodes/LPSOriginalPSLListMachine.lean#L330-L334
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/ExpanderCodes/LPSOriginalPSLListMachine.lean#L330-L334
+
+import Definitions.Def_QEC_Coding_BitTuring_UnaryFourFieldRowsFilter
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSPSLSearchMachine
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSOriginalSLListMachine
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSOriginalPSLListMachine
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_DeterminantPredicate_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_FieldProjection_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ModularAdjugate_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ModularDot_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ModularInverse_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ModularMatrixProduct_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ModularNegation_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ModularProduct_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ModularSum_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_PSLComparison_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_PrefixProjection_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_ProductSearch_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_QuaternionAssembly_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_Remainder_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_RippleCounter_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryArithmetic_SquareRoot_input_injective
+import Theorems.Thm_QEC_Coding_BitTuring_UnaryOutputEquality_input_injective
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSLexicographicCounter_input_injective
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSOriginalSLListMachine_input_injective
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSPSLEqualityMachine_input_injective
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSPSLSearchMachine_input_injective
+
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.TannerLiftedProduct QEC.Coding.TannerLiftedProduct.LPSOriginalPSLListMachine
+open QEC.Coding.BitTuring QEC.Coding.BitTuring.UnaryArithmetic Turing StateTransition FieldProjection
+open QEC.Coding.TannerLiftedProduct
+open scoped MatrixGroups
+attribute [local instance] QEC.Coding.TannerLiftedProduct.LPSOriginalPSLListMachine._p2m_local_instance_e75c5360c0_308
+
+theorem QEC.Coding.TannerLiftedProduct.LPSOriginalPSLListMachine.input_injective:Function.Injective input:= by sorry

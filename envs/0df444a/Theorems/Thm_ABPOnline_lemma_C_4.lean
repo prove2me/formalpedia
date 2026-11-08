@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ABPOnline_lemma_C_4
 -- name    : ABPOnline.lemma_C_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:53:42.74719+00:00
 -- url     : https://prove2.me/theorems/79308971-7cdd-4eb9-ae51-e1b45edf827e

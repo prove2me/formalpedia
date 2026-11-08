@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCosetClearedCusp_pullback
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCosetClearedCusp_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:43:03.02507+00:00
 -- url     : https://prove2.me/theorems/0649ba41-30fa-4161-91ac-4ae9afae55e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsHeckeIntersectionCosetEquiv_mk
 -- name    : QEC.Coding.TannerLiftedProduct.lpsHeckeIntersectionCosetEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:47:59.585218+00:00
 -- url     : https://prove2.me/theorems/7e5b767d-3220-4f33-962b-fda693644804

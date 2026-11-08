@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CascadeCC_claim_EC2_permutation
 -- name    : CascadeCC.claim_EC2_permutation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:34:30.38299+00:00
 -- url     : https://prove2.me/theorems/ffbf944e-9135-4b13-b18d-e73881d19c85

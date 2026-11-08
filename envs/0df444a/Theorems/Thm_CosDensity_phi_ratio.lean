@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosDensity_phi_ratio
 -- name    : CosDensity.phi_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:37:46.773374+00:00
 -- url     : https://prove2.me/theorems/9d9028bb-9f58-4624-819c-d295b9d74b4c

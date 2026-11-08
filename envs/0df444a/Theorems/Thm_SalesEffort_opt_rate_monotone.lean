@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesEffort_opt_rate_monotone
 -- name    : SalesEffort.opt_rate_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:15:34.41453+00:00
 -- url     : https://prove2.me/theorems/f97c3c2b-b10e-4d46-a375-2fa0ebf37957

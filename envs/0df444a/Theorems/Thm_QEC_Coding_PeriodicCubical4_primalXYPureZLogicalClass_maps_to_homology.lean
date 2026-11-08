@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalXYPureZLogicalClass_maps_to_homology
 -- name    : QEC.Coding.PeriodicCubical4.primalXYPureZLogicalClass_maps_to_homology
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:46:31.660437+00:00
 -- url     : https://prove2.me/theorems/ba7823cc-ffcf-4f93-858e-40592d1c11e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitNBR_optimal_nonneg
 -- name    : NestedLogitNBR.optimal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:41:57.947981+00:00
 -- url     : https://prove2.me/theorems/dc83b315-3e96-4fcd-b426-d0f4b56e146d

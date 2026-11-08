@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_pauliSupport_card_ge_of_not_detectable
 -- name    : QEC.Coding.FiniteFieldPauli.pauliSupport_card_ge_of_not_detectable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:49:23.339726+00:00
 -- url     : https://prove2.me/theorems/ff7706e0-cd00-4f38-ad40-b3b4b29a3549

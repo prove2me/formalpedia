@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnapsackFacets_lemma_2
 -- name    : KnapsackFacets.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:13:30.95833+00:00
 -- url     : https://prove2.me/theorems/2bbb6783-af93-4b5a-bc89-c4841f60896e

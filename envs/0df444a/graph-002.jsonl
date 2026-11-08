@@ -38197,34 +38197,34 @@
 {"parent": "HarmonicGames.Decomposition.lemma_4_1", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_1", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_1", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_2", "child": "HarmonicGames_Decomposition_Flows", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_2", "child": "HarmonicGames_Decomposition_Games", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_2", "child": "HarmonicGames_Decomposition_Pinv", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_i", "child": "HarmonicGames_Decomposition_Flows", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_i", "child": "HarmonicGames_Decomposition_Games", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_i", "child": "HarmonicGames_Decomposition_Pinv", "via": ["statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_2", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_2", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_2", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_i", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_i", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_i", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_4_ii", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_4_ii", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_4_ii", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_4_iii", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_4_iii", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.lemma_4_4_iii", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_iv", "child": "HarmonicGames_Decomposition_Flows", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_iv", "child": "HarmonicGames_Decomposition_Games", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_iv", "child": "HarmonicGames_Decomposition_Pinv", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_v", "child": "HarmonicGames_Decomposition_Flows", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_v", "child": "HarmonicGames_Decomposition_Games", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_4_v", "child": "HarmonicGames_Decomposition_Pinv", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_5", "child": "HarmonicGames_Decomposition_Flows", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_5", "child": "HarmonicGames_Decomposition_Games", "via": ["statement"]}
-{"parent": "HarmonicGames.Decomposition.lemma_4_5", "child": "HarmonicGames_Decomposition_Pinv", "via": ["statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_iv", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_iv", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_iv", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_v", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_v", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_4_v", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_5", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_5", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Decomposition.lemma_4_5", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.theorem_3_1", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.theorem_4_1", "child": "HarmonicGames_Decomposition_Flows", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.theorem_4_1", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Decomposition.theorem_4_1", "child": "HarmonicGames_Decomposition_Pinv", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.GenericPure.lemma_5_1", "child": "HarmonicGames_GenericPure_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.GenericPure.lemma_5_1", "child": "agt_games", "via": ["solution", "statement"]}
-{"parent": "HarmonicGames.GenericPure.proposition_4_1", "child": "HarmonicGames_GenericPure_Games", "via": ["statement"]}
+{"parent": "HarmonicGames.GenericPure.proposition_4_1", "child": "HarmonicGames_GenericPure_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.GenericPure.proposition_5_1", "child": "HarmonicGames_GenericPure_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.GenericPure.proposition_5_1", "child": "agt_games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Pareto.lemma_5_4", "child": "HarmonicGames_Pareto_Games", "via": ["solution", "statement"]}
@@ -41151,31 +41151,31 @@
 {"parent": "HighDimStat_SparseLinear_RestrictedNullspaceProperty", "child": "HighDimStat_SparseLinear_ConeSet", "via": ["statement"]}
 {"parent": "HighDimStat_UniformLaws_rademacherComplexity", "child": "HighDimStat_UniformLaws_symmetrizedProcess", "via": ["statement"]}
 {"parent": "HighOrderWalks.OneSided.corollary_3_7", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
-{"parent": "HighOrderWalks.OneSided.corollary_5_3", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
-{"parent": "HighOrderWalks.OneSided.corollary_5_3_one_sided", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
+{"parent": "HighOrderWalks.OneSided.corollary_5_3", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
+{"parent": "HighOrderWalks.OneSided.corollary_5_3_one_sided", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.OneSided.lemma_3_6", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
-{"parent": "HighOrderWalks.OneSided.lemma_4_3", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
+{"parent": "HighOrderWalks.OneSided.lemma_4_3", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.OneSided.lemma_5_1", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
 {"parent": "HighOrderWalks.OneSided.proposition_4_1_1", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.OneSided.proposition_4_1_2", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.OneSided.proposition_4_1_3", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
-{"parent": "HighOrderWalks.OneSided.proposition_4_2", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
-{"parent": "HighOrderWalks.OneSided.theorem_5_2", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
+{"parent": "HighOrderWalks.OneSided.proposition_4_2", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
+{"parent": "HighOrderWalks.OneSided.theorem_5_2", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.OneSided.theorem_5_4", "child": "HighOrderWalks_OneSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.TwoSided.corollary_3_7", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
-{"parent": "HighOrderWalks.TwoSided.corollary_5_8", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
-{"parent": "HighOrderWalks.TwoSided.corollary_5_8", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["statement"]}
-{"parent": "HighOrderWalks.TwoSided.decomposition_5_3", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
-{"parent": "HighOrderWalks.TwoSided.decomposition_5_3", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["statement"]}
+{"parent": "HighOrderWalks.TwoSided.corollary_5_8", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
+{"parent": "HighOrderWalks.TwoSided.corollary_5_8", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["solution", "statement"]}
+{"parent": "HighOrderWalks.TwoSided.decomposition_5_3", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
+{"parent": "HighOrderWalks.TwoSided.decomposition_5_3", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.TwoSided.lemma_3_6", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
-{"parent": "HighOrderWalks.TwoSided.lemma_4_3", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
+{"parent": "HighOrderWalks.TwoSided.lemma_4_3", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.TwoSided.lemma_5_1", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.TwoSided.proposition_4_1_1", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
 {"parent": "HighOrderWalks.TwoSided.proposition_4_1_2", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
 {"parent": "HighOrderWalks.TwoSided.proposition_4_1_3", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
 {"parent": "HighOrderWalks.TwoSided.proposition_4_2", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
-{"parent": "HighOrderWalks.TwoSided.theorem_5_6", "child": "HighOrderWalks_TwoSided_Setting", "via": ["statement"]}
-{"parent": "HighOrderWalks.TwoSided.theorem_5_6", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["statement"]}
+{"parent": "HighOrderWalks.TwoSided.theorem_5_6", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
+{"parent": "HighOrderWalks.TwoSided.theorem_5_6", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.TwoSided.theorem_5_9", "child": "HighOrderWalks_TwoSided_Setting", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks.TwoSided.theorem_5_9", "child": "HighOrderWalks_TwoSided_Subspaces", "via": ["solution", "statement"]}
 {"parent": "HighOrderWalks_TwoSided_Setting", "child": "HighOrderWalks_OneSided_Setting", "via": ["statement"]}
@@ -45333,25 +45333,25 @@
 {"parent": "ImprovedLinBandits_OFUL_confidenceSet", "child": "SelfNormalizedProcess", "via": ["statement"]}
 {"parent": "ImprovedLinBandits_UCBDelta_IsUCBDeltaRun", "child": "ImprovedLinBandits_UCBDelta_armModel", "via": ["statement"]}
 {"parent": "ImpulseGames.CostMonotonicity.limits_at_top", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
-{"parent": "ImpulseGames.CostMonotonicity.xbar_monotone", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
+{"parent": "ImpulseGames.CostMonotonicity.xbar_monotone", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.CostMonotonicity.xi_derivatives", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
 {"parent": "ImpulseGames.CostMonotonicity.xi_limits", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
-{"parent": "ImpulseGames.CostMonotonicity.xi_unique_zero", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
+{"parent": "ImpulseGames.CostMonotonicity.xi_unique_zero", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.CostMonotonicity.xstar_monotone", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
 {"parent": "ImpulseGames.LinearGame.condition_v_admissible", "child": "ImpulseGames_LinearGame_Equilibrium", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.LinearGame.eq_4_17_unique_zero", "child": "ImpulseGames_LinearGame_Candidates", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.LinearGame.lemma_4_6", "child": "ImpulseGames_LinearGame_Candidates", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.LinearGame.prop_4_2_explicit_solution", "child": "ImpulseGames_LinearGame_Candidates", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.LinearGame.prop_4_7_nash_equilibrium", "child": "ImpulseGames_LinearGame_Equilibrium", "via": ["solution", "statement"]}
-{"parent": "ImpulseGames.Verification.lemma2_3_controlled_process", "child": "ImpulseGames_Verification_Game", "via": ["statement"]}
-{"parent": "ImpulseGames.Verification.remark3_6_player_two", "child": "ImpulseGames_Verification_Game", "via": ["statement"]}
-{"parent": "ImpulseGames.Verification.remark3_6_player_two", "child": "ImpulseGames_Verification_QVI", "via": ["statement"]}
+{"parent": "ImpulseGames.Verification.lemma2_3_controlled_process", "child": "ImpulseGames_Verification_Game", "via": ["solution", "statement"]}
+{"parent": "ImpulseGames.Verification.remark3_6_player_two", "child": "ImpulseGames_Verification_Game", "via": ["solution", "statement"]}
+{"parent": "ImpulseGames.Verification.remark3_6_player_two", "child": "ImpulseGames_Verification_QVI", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.Verification.step1_deviation_bound", "child": "ImpulseGames_Verification_Game", "via": ["statement"]}
 {"parent": "ImpulseGames.Verification.step1_deviation_bound", "child": "ImpulseGames_Verification_QVI", "via": ["statement"]}
 {"parent": "ImpulseGames.Verification.step2_equilibrium_payoff", "child": "ImpulseGames_Verification_Game", "via": ["statement"]}
 {"parent": "ImpulseGames.Verification.step2_equilibrium_payoff", "child": "ImpulseGames_Verification_QVI", "via": ["statement"]}
-{"parent": "ImpulseGames.Verification.verification_theorem", "child": "ImpulseGames_Verification_Game", "via": ["statement"]}
-{"parent": "ImpulseGames.Verification.verification_theorem", "child": "ImpulseGames_Verification_QVI", "via": ["statement"]}
+{"parent": "ImpulseGames.Verification.verification_theorem", "child": "ImpulseGames_Verification_Game", "via": ["solution", "statement"]}
+{"parent": "ImpulseGames.Verification.verification_theorem", "child": "ImpulseGames_Verification_QVI", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames_LinearGame_Candidates", "child": "ImpulseGames_LinearGame_Model", "via": ["statement"]}
 {"parent": "ImpulseGames_LinearGame_Equilibrium", "child": "ImpulseGames_LinearGame_Candidates", "via": ["statement"]}
 {"parent": "ImpulseGames_LinearGame_Equilibrium", "child": "ImpulseGames_LinearGame_Game", "via": ["statement"]}
@@ -50930,8 +50930,8 @@
 {"parent": "Kesten.isAmenableAction_iff_limsup_stepProb_rpow_eq_one", "child": "IntervalExchange", "via": ["solution", "statement"]}
 {"parent": "KhachiyanRound.BCD.delta_geometric_decay", "child": "KhachiyanRound_BCD_Setting", "via": ["statement"]}
 {"parent": "KhachiyanRound.BCD.delta_geometric_decay", "child": "LinearOptimization_Ellipsoid", "via": ["statement"]}
-{"parent": "KhachiyanRound.BCD.exists_maximizer", "child": "KhachiyanRound_BCD_Setting", "via": ["statement"]}
-{"parent": "KhachiyanRound.BCD.exists_maximizer", "child": "LinearOptimization_Ellipsoid", "via": ["statement"]}
+{"parent": "KhachiyanRound.BCD.exists_maximizer", "child": "KhachiyanRound_BCD_Setting", "via": ["solution", "statement"]}
+{"parent": "KhachiyanRound.BCD.exists_maximizer", "child": "LinearOptimization_Ellipsoid", "via": ["solution", "statement"]}
 {"parent": "KhachiyanRound.BCD.halving_bound", "child": "KhachiyanRound_BCD_Setting", "via": ["statement"]}
 {"parent": "KhachiyanRound.BCD.halving_bound", "child": "LinearOptimization_Ellipsoid", "via": ["statement"]}
 {"parent": "KhachiyanRound.BCD.kiefer_wolfowitz", "child": "KhachiyanRound_BCD_Setting", "via": ["statement"]}
@@ -84075,7 +84075,7 @@
 {"parent": "MarkmanSecant.gP_eq_of_decomposition", "child": "MarkmanSecant", "via": ["solution", "statement"]}
 {"parent": "MarkmanSecant.secant_plane_gives_polarized_weil_type", "child": "MarkmanSecant", "via": ["solution", "statement"]}
 {"parent": "MarkmanSecant.similarity_commutes_with_complex_structure", "child": "MarkmanSecant", "via": ["solution", "statement"]}
-{"parent": "MarkmanSecant.weil_condition_of_secant_in_hodge_ring", "child": "MarkmanSecant", "via": ["statement"]}
+{"parent": "MarkmanSecant.weil_condition_of_secant_in_hodge_ring", "child": "MarkmanSecant", "via": ["solution", "statement"]}
 {"parent": "MarkovAsymptoticVariance", "child": "MarkovIterKernel", "via": ["statement"]}
 {"parent": "MarkovChain.abs_sub_le_two_mul_tvDist", "child": "MarkovChain", "via": ["solution", "statement"]}
 {"parent": "MarkovChain.doeblin_le_one", "child": "MarkovChain", "via": ["solution", "statement"]}

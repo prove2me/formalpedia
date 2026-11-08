@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairwiseRealize_walsh_orthogonality
 -- name    : PairwiseRealize.walsh_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:55:42.373622+00:00
 -- url     : https://prove2.me/theorems/cc67f5b7-b871-4e2f-a685-2bcbe6175c11

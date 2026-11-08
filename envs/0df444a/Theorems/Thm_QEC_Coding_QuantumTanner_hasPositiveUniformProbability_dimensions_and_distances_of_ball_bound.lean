@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_hasPositiveUniformProbability_dimensions_and_distances_of_ball_bound
 -- name    : QEC.Coding.QuantumTanner.hasPositiveUniformProbability_dimensions_and_distances_of_ball_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:04:15.544338+00:00
 -- url     : https://prove2.me/theorems/36415dd3-7c05-46d9-bd7f-2dd23deb8a64

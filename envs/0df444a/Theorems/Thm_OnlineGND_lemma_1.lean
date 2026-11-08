@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineGND_lemma_1
 -- name    : OnlineGND.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:21:37.671531+00:00
 -- url     : https://prove2.me/theorems/a0e2f398-939d-46f0-88b7-944aa593d16e

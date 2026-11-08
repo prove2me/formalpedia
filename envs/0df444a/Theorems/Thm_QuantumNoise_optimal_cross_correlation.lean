@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumNoise_optimal_cross_correlation
 -- name    : QuantumNoise.optimal_cross_correlation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:24:29.287191+00:00
 -- url     : https://prove2.me/theorems/bc9469b8-c0f8-47e5-8b8b-92d8679b474f

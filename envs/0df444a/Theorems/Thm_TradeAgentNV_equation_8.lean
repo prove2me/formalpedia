@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradeAgentNV_equation_8
 -- name    : TradeAgentNV.equation_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T10:31:02.208906+00:00
 -- url     : https://prove2.me/theorems/be4710d5-5bde-445b-9057-fce0041ebc9b

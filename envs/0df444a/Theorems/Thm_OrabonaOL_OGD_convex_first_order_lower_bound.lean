@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrabonaOL_OGD_convex_first_order_lower_bound
 -- name    : OrabonaOL.OGD.convex_first_order_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:02:37.232785+00:00
 -- url     : https://prove2.me/theorems/e3017c73-c8ed-40f6-bd16-1212709e7f4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpinGirth5_proposition_29_psi_formula
 -- name    : SpinGirth5.proposition_29_psi_formula
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:12:53.039384+00:00
 -- url     : https://prove2.me/theorems/28bc61af-f7f5-44d3-b121-f4882d01edbb

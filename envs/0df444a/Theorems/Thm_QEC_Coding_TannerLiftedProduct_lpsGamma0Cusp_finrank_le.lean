@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsGamma0Cusp_finrank_le
 -- name    : QEC.Coding.TannerLiftedProduct.lpsGamma0Cusp_finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:52:00.294312+00:00
 -- url     : https://prove2.me/theorems/5d4ecc17-5e3a-44b8-b4a8-05b3275bd6cb

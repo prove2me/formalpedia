@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_dualMembraneSweepPath_hasDualMembraneEndpoint
 -- name    : QEC.Coding.PeriodicCubical4.dualMembraneSweepPath_hasDualMembraneEndpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:04:28.117094+00:00
 -- url     : https://prove2.me/theorems/57cfe466-f412-4d95-a903-3a6aed9fb8d1

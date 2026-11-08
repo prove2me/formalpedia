@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_norm_summand
 -- name    : OAI.CubicEisenstein.norm_summand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:51:31.031+00:00
 -- url     : https://prove2.me/theorems/8294e455-eaaf-4705-8e1e-0d5ed545a6e3

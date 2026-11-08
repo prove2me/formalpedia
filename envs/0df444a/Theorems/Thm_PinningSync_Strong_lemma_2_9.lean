@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PinningSync_Strong_lemma_2_9
 -- name    : PinningSync.Strong.lemma_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:24:14.701953+00:00
 -- url     : https://prove2.me/theorems/b0af42c8-17bb-4d89-8aaa-e2c62db7dfec

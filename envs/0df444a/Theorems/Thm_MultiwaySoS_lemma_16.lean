@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwaySoS_lemma_16
 -- name    : MultiwaySoS.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:17:10.224366+00:00
 -- url     : https://prove2.me/theorems/6c8dc007-eeb6-4a31-b8f2-aa7ee5fab4b9

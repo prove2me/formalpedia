@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Unbiased_lemma4_ae_gradient_exists
 -- name    : RLPBidPrice.Unbiased.lemma4_ae_gradient_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:48:44.113218+00:00
 -- url     : https://prove2.me/theorems/a1bf86af-ccb3-40b9-969b-e00d2ee32405

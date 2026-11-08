@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_dualSectorMembrane_ne_transpose_boundary2
 -- name    : QEC.Coding.PeriodicCubical4.dualSectorMembrane_ne_transpose_boundary2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:03:59.192678+00:00
 -- url     : https://prove2.me/theorems/1d405cb2-5efe-417c-b631-01bb1b559bf1

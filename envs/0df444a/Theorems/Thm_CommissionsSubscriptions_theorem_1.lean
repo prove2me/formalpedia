@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommissionsSubscriptions_theorem_1
 -- name    : CommissionsSubscriptions.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:42:38.69799+00:00
 -- url     : https://prove2.me/theorems/5f52b1a1-21ce-497e-a1e8-2b03ad21a6cc

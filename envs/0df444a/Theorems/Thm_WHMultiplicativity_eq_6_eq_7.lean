@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WHMultiplicativity_eq_6_eq_7
 -- name    : WHMultiplicativity.eq_6_eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:23:11.149643+00:00
 -- url     : https://prove2.me/theorems/5b157734-cc2c-4bf3-86fe-d2c2506452b0

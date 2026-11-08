@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxEntSampling_lemma_2
 -- name    : MaxEntSampling.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:57:39.082703+00:00
 -- url     : https://prove2.me/theorems/2a2f55a7-f9e2-413b-80eb-2463fd8dcd67

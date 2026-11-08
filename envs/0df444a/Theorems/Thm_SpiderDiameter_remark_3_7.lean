@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpiderDiameter_remark_3_7
 -- name    : SpiderDiameter.remark_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:36:53.135402+00:00
 -- url     : https://prove2.me/theorems/ea610bd8-5bcb-4aac-a512-806abfa54186

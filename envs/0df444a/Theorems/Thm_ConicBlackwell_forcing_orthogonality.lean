@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicBlackwell_forcing_orthogonality
 -- name    : ConicBlackwell.forcing_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:43:52.235635+00:00
 -- url     : https://prove2.me/theorems/98dd7486-b2cf-493d-9c66-4d4f4aee0fe9

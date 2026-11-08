@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TestScoreSubmod_corollary_1
 -- name    : TestScoreSubmod.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:48:11.350614+00:00
 -- url     : https://prove2.me/theorems/adb5bc82-c35f-4724-a252-5c05cd17552d

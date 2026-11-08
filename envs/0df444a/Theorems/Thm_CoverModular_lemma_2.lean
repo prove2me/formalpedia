@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoverModular_lemma_2
 -- name    : CoverModular.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:15:38.234071+00:00
 -- url     : https://prove2.me/theorems/26181f5d-6b28-468a-adad-0d2b5b0f1e3c

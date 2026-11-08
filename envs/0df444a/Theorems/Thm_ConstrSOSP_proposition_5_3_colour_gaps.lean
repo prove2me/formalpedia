@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrSOSP_proposition_5_3_colour_gaps
 -- name    : ConstrSOSP.proposition_5_3_colour_gaps
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:59:58.619713+00:00
 -- url     : https://prove2.me/theorems/eedc07ee-baf1-475f-9bfe-8803fdef1d1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_eisenstein_differentiableOn_strip
 -- name    : OAI.CubicEisenstein.eisenstein_differentiableOn_strip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:53:10.207962+00:00
 -- url     : https://prove2.me/theorems/84361003-2eb9-4462-b888-e5dfe7269126

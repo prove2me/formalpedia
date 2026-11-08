@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrabonaOL_OGD_ogd_regret_bound
 -- name    : OrabonaOL.OGD.ogd_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:03:15.146993+00:00
 -- url     : https://prove2.me/theorems/f3e448ee-f267-48b6-ac6f-1bcde7c1e56e

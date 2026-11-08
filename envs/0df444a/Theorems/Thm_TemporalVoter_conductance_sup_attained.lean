@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TemporalVoter_conductance_sup_attained
 -- name    : TemporalVoter.conductance_sup_attained
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:11:52.308233+00:00
 -- url     : https://prove2.me/theorems/31815204-a8d5-475e-8bb8-b17afa61f6e3

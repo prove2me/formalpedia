@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccountsAudit_DefensivePurchase_range_equivalence
 -- name    : FakeAccountsAudit.DefensivePurchase.range_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T13:44:45.840128+00:00
 -- url     : https://prove2.me/theorems/e3782d53-6a7f-4a14-ad94-07784d963fec

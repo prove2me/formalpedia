@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueSignal_credible_belief_cases
 -- name    : QueueSignal.credible_belief_cases
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:49.461495+00:00
 -- url     : https://prove2.me/theorems/1635d338-ad9c-47cd-897b-bb61b71002cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Max3CutHard_lemma_3_1
 -- name    : Max3CutHard.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:48:08.428486+00:00
 -- url     : https://prove2.me/theorems/8b651bb8-ce5f-49a1-a07c-ea45913bbcfe

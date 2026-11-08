@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PancakeHard_property_5
 -- name    : PancakeHard.property_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T07:02:04.27718+00:00
 -- url     : https://prove2.me/theorems/2956dde6-cb9a-4627-bfd0-048cc0c348e8

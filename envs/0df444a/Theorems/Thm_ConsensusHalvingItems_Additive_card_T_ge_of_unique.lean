@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_card_T_ge_of_unique
 -- name    : ConsensusHalvingItems.Additive.card_T_ge_of_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:40:40.629418+00:00
 -- url     : https://prove2.me/theorems/f025e5a8-af0d-43ea-b5ad-40591b3a42c6

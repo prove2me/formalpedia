@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_ArithmeticPSLFamily_squareComplex_hasCayleyLinkIdentities
 -- name    : QEC.Coding.QuantumTanner.ArithmeticPSLFamily.squareComplex_hasCayleyLinkIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:26:07.131968+00:00
 -- url     : https://prove2.me/theorems/5415fa7a-ad83-4e06-834f-b2e0faa769ed

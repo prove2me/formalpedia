@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LegalAssign_lemma_A_1
 -- name    : LegalAssign.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:22:13.247754+00:00
 -- url     : https://prove2.me/theorems/0f5d963e-2755-4317-a6eb-7dcfcc4bcfb5

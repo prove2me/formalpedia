@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiqPremiaEq_lemma_7_4
 -- name    : LiqPremiaEq.lemma_7_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:02:01.400979+00:00
 -- url     : https://prove2.me/theorems/62027aff-61a1-4b71-b298-9aaa1609b169

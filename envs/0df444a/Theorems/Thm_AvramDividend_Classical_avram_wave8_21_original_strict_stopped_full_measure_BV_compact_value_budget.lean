@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave8_21_original_strict_stopped_full_measure_BV_compact_value_budget
 -- name    : AvramDividend.Classical.avram_wave8_21_original_strict_stopped_full_measure_BV_compact_value_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T23:54:58.039381+00:00
 -- url     : https://prove2.me/theorems/0b16a789-af37-4edf-a89d-d15dc2088d34

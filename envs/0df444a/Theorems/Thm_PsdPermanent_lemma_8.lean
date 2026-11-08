@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PsdPermanent_lemma_8
 -- name    : PsdPermanent.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:31:31.931306+00:00
 -- url     : https://prove2.me/theorems/acb362ec-3080-4efd-898b-d6b2bdffbdf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_LPCompare_lf_optimal_y
 -- name    : TwoEchelonCVRP.LPCompare.lf_optimal_y
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:08:46.213859+00:00
 -- url     : https://prove2.me/theorems/21e784fa-fcfa-4a06-b125-f9e306dd672f

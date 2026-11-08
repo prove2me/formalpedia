@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Directional_piValue_lipschitz
 -- name    : RLPBidPrice.Directional.piValue_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T13:11:43.952112+00:00
 -- url     : https://prove2.me/theorems/b0104d1a-c45c-4fe2-817a-7873d16187fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGradDHS_Diag_eq_24_root_sum_bound
 -- name    : AdaGradDHS.Diag.eq_24_root_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:18:22.708061+00:00
 -- url     : https://prove2.me/theorems/e3f452e6-0f01-4846-802c-3036f5da1e21

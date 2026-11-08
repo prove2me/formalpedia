@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaDiscRL_lemma_E_2
 -- name    : AdaDiscRL.lemma_E_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:26:48.570982+00:00
 -- url     : https://prove2.me/theorems/298098be-0d15-4d8e-bee1-c646e25ec5f2

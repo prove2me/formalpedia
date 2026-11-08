@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Directional_piValue_directional_derivative
 -- name    : RLPBidPrice.Directional.piValue_directional_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T13:12:24.253364+00:00
 -- url     : https://prove2.me/theorems/901a8f59-d459-44ec-b02a-58807431ed5c

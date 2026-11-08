@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockchainNV_compound_demand_law
 -- name    : BlockchainNV.compound_demand_law
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:42:09.520201+00:00
 -- url     : https://prove2.me/theorems/d22acb39-3838-4979-800b-26cdd38f1519

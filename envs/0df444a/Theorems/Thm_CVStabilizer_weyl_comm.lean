@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVStabilizer_weyl_comm
 -- name    : CVStabilizer.weyl_comm
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:20:59.111545+00:00
 -- url     : https://prove2.me/theorems/301a9941-a495-40d4-bd7a-8036fc934233

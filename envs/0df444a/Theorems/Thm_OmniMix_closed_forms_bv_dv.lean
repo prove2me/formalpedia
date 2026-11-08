@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniMix_closed_forms_bv_dv
 -- name    : OmniMix.closed_forms_bv_dv
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:40:47.563205+00:00
 -- url     : https://prove2.me/theorems/583e6284-707a-4e9e-8e32-42271e3a0717

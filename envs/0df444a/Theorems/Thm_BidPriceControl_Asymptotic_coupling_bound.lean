@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_coupling_bound
 -- name    : BidPriceControl.Asymptotic.coupling_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:39:14.699762+00:00
 -- url     : https://prove2.me/theorems/01b35b4c-f9e0-4902-aae4-3a18e46fecf5

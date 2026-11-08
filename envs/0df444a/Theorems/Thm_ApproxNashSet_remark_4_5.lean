@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxNashSet_remark_4_5
 -- name    : ApproxNashSet.remark_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:17:56.565545+00:00
 -- url     : https://prove2.me/theorems/45616909-a3a1-4504-b500-eea108b274c2

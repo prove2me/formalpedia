@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitNBR_feasible7_feasibleFull
 -- name    : NestedLogitNBR.feasible7_feasibleFull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:42:53.993751+00:00
 -- url     : https://prove2.me/theorems/03293a56-46fb-4f0b-ba34-3927020cbcb4

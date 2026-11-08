@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Schwichtenberg1976V2_subterm_polynomial_lemma
 -- name    : Schwichtenberg1976V2.subterm_polynomial_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T06:12:21.408239+00:00
 -- url     : https://prove2.me/theorems/23e596a5-fa5a-4435-b87f-4c00089660ee

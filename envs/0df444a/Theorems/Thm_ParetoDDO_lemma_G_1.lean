@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParetoDDO_lemma_G_1
 -- name    : ParetoDDO.lemma_G_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:34:16.940318+00:00
 -- url     : https://prove2.me/theorems/cc70a381-3b7e-4664-981e-c30ea2125813

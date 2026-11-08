@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_theorem_2_2_polytime_consensus_halving
 -- name    : ConsensusHalvingItems.Additive.theorem_2_2_polytime_consensus_halving
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:42:04.75507+00:00
 -- url     : https://prove2.me/theorems/a74e6564-8e16-4e8e-9edc-b38464126ca3

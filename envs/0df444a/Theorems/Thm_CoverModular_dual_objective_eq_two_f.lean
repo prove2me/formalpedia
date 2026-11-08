@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoverModular_dual_objective_eq_two_f
 -- name    : CoverModular.dual_objective_eq_two_f
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:15:55.852083+00:00
 -- url     : https://prove2.me/theorems/7f3b51a2-7239-4719-a55b-5c5a8832ef97

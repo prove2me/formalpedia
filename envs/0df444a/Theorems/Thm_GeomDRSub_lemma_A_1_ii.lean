@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomDRSub_lemma_A_1_ii
 -- name    : GeomDRSub.lemma_A_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:10:15.351885+00:00
 -- url     : https://prove2.me/theorems/b5882cd2-d614-4eb7-bece-537c7946a40d

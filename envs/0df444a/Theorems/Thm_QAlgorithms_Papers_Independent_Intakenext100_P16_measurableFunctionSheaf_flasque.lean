@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P16_measurableFunctionSheaf_flasque
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P16.measurableFunctionSheaf_flasque
--- status  : Open
+-- status  : Disproved
 -- author  : @Gohan
 -- created : 2026-10-31T04:09:50.720735+00:00
 -- url     : https://prove2.me/theorems/01fcf778-dd64-4ebd-af12-105f0e216eab

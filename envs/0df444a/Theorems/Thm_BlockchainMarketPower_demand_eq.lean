@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockchainMarketPower_demand_eq
 -- name    : BlockchainMarketPower.demand_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:26:46.349228+00:00
 -- url     : https://prove2.me/theorems/2bfafdea-60d1-4c50-8f88-0c1a1994b2ad

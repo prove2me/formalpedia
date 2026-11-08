@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockchainMarketPower_f_antitone_param
 -- name    : BlockchainMarketPower.f_antitone_param
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:27:21.008081+00:00
 -- url     : https://prove2.me/theorems/865fdb0d-ecb5-4299-b520-2d373fc7112e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Types_card_types_le
 -- name    : FuchsThesis.Types.card_types_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:03.612668+00:00
 -- url     : https://prove2.me/theorems/991b03ae-4505-4131-ab5d-abba172a237b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlotkinShmoysTardos_halving
 -- name    : PlotkinShmoysTardos.halving
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:55:23.613726+00:00
 -- url     : https://prove2.me/theorems/2377b57d-48ca-404f-b0ff-7c300ccde38e

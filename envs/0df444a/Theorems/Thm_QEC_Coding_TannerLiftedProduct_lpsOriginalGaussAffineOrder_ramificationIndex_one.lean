@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGaussAffineOrder_ramificationIndex_one
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGaussAffineOrder_ramificationIndex_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:32:12.978261+00:00
 -- url     : https://prove2.me/theorems/f1f2518a-404c-41f9-962c-bf40cbfe6e4a

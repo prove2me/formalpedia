@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalMembraneError_add_plaquette
 -- name    : QEC.Coding.PeriodicCubical4.primalMembraneError_add_plaquette
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:49:37.805603+00:00
 -- url     : https://prove2.me/theorems/ee6ebb7e-3c1c-4754-9398-7bd46e13959b

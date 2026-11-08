@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymNormLoad_lemma_2_3
 -- name    : SymNormLoad.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:31:42.356725+00:00
 -- url     : https://prove2.me/theorems/55b5d60e-370b-4c6c-8ae5-90ff2d3a80f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_exists_grid_cover
 -- name    : QEC.Coding.BDL26RandomPerturbation.exists_grid_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:56:49.484876+00:00
 -- url     : https://prove2.me/theorems/c8019e18-4f5c-4a01-89c9-2ed097e88318

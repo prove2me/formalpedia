@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_SmallSetExpansion_IsSmallSetEdgeExpanding_square_of_symmetric_regular
 -- name    : QEC.Coding.SmallSetExpansion.IsSmallSetEdgeExpanding.square_of_symmetric_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:46:37.204801+00:00
 -- url     : https://prove2.me/theorems/52f613ab-dd53-4a15-aa4d-7f953fba8564

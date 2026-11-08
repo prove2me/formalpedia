@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnionVolEst_claim_11
 -- name    : UnionVolEst.claim_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T08:05:55.243608+00:00
 -- url     : https://prove2.me/theorems/f77601f1-295d-40eb-b72b-2477ed1e483b

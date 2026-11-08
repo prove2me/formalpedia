@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerNormalGenericCompactTensorEquiv_tmul
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalGenericCompactTensorEquiv_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:59:51.838881+00:00
 -- url     : https://prove2.me/theorems/daf5bd6e-a8b1-44b9-9b98-3e2e2205f985

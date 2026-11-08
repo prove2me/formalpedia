@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuangYin_lemma_3
 -- name    : HuangYin.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:46:12.213738+00:00
 -- url     : https://prove2.me/theorems/f7549170-9687-42be-b3bc-dfdde21e33a7

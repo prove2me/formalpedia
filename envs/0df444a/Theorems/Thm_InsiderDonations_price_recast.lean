@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InsiderDonations_price_recast
 -- name    : InsiderDonations.price_recast
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:20:57.733989+00:00
 -- url     : https://prove2.me/theorems/6f7dce87-64fd-41e3-89fe-10985097e615

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalSpecialFibreFrobenius_stalk
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreFrobenius_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:00:12.518062+00:00
 -- url     : https://prove2.me/theorems/8212492d-b72c-4ed5-9f20-36bb4fa6993d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondDRO_mixture_isProbability_and_cell
 -- name    : CondDRO.mixture_isProbability_and_cell
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:25:15.823982+00:00
 -- url     : https://prove2.me/theorems/77ef5348-a825-4c86-b48d-823cc5fcb267

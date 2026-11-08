@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagerFairDiv_theorem_2_proportional_of_ir
 -- name    : WagerFairDiv.theorem_2_proportional_of_ir
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:59.462985+00:00
 -- url     : https://prove2.me/theorems/f174c6a3-1b41-41e7-862b-2f10b222974e

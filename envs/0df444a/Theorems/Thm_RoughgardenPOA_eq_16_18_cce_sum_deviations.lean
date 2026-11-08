@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughgardenPOA_eq_16_18_cce_sum_deviations
 -- name    : RoughgardenPOA.eq_16_18_cce_sum_deviations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:37:13.244432+00:00
 -- url     : https://prove2.me/theorems/57829d9a-4e44-479f-b455-6a69a69a790b

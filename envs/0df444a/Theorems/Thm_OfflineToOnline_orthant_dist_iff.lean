@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineToOnline_orthant_dist_iff
 -- name    : OfflineToOnline.orthant_dist_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:33:56.561821+00:00
 -- url     : https://prove2.me/theorems/a253fb29-c02f-43f2-9954-fc37300e1040

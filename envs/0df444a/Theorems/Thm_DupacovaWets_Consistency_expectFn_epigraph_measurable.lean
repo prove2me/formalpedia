@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DupacovaWets_Consistency_expectFn_epigraph_measurable
 -- name    : DupacovaWets.Consistency.expectFn_epigraph_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:06:58.271987+00:00
 -- url     : https://prove2.me/theorems/915f7cca-1dea-4b20-b06c-9f53a636990a

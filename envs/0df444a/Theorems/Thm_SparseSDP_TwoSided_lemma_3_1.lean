@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseSDP_TwoSided_lemma_3_1
 -- name    : SparseSDP.TwoSided.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:53:10.007863+00:00
 -- url     : https://prove2.me/theorems/b76dc80f-c7c5-4f85-bc3b-b181bfdf3f44

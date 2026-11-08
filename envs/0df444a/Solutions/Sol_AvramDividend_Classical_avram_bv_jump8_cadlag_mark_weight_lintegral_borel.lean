@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_bv_jump8_cadlag_mark_weight_lintegral_borel
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-07T00:33:13.498193+00:00
 -- url     : https://prove2.me/submissions/0ca2bbbf-0328-419e-9d04-cba99d79b9a7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Lebesgue.Basic
 import Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_measurable_deduplicated_weighted_mark_series

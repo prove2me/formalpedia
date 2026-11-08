@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagerFairDiv_theorem_3
 -- name    : WagerFairDiv.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:49.711081+00:00
 -- url     : https://prove2.me/theorems/91762e0f-03a0-43f8-b07b-290c8278d5c2

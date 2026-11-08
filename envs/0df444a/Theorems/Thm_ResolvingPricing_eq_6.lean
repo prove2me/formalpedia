@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingPricing_eq_6
 -- name    : ResolvingPricing.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:26:50.308173+00:00
 -- url     : https://prove2.me/theorems/ab48e585-e487-492c-9392-f660708d7781

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsGamma0HeckePrimePowerMatrix_add_two
 -- name    : QEC.Coding.TannerLiftedProduct.lpsGamma0HeckePrimePowerMatrix_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:52:36.140606+00:00
 -- url     : https://prove2.me/theorems/5f47fce1-f4ff-4a07-8e85-bd978d087c5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindenReversibility_eq_8
 -- name    : LindenReversibility.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:17:29.720715+00:00
 -- url     : https://prove2.me/theorems/8d3b4cee-d2b4-4d8e-9e53-540d6c5bb8a7

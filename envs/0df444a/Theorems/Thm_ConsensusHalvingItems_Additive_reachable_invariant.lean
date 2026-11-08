@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_reachable_invariant
 -- name    : ConsensusHalvingItems.Additive.reachable_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:39:44.770675+00:00
 -- url     : https://prove2.me/theorems/3cf4a8cc-03e5-499e-a77c-2f75a08f46ec

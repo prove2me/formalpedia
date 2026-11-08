@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FermionModewise_fcm_real_antisymm
 -- name    : FermionModewise.fcm_real_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:32:12.931218+00:00
 -- url     : https://prove2.me/theorems/d3a7381b-bd15-4750-bc00-2f632012df0d

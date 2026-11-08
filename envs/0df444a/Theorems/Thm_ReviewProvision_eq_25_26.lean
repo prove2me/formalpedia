@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewProvision_eq_25_26
 -- name    : ReviewProvision.eq_25_26
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:57:34.741084+00:00
 -- url     : https://prove2.me/theorems/e254d2ec-bdc6-4837-b714-e7f790904c58

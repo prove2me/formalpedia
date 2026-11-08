@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPSDPGap_lemma_4_9
 -- name    : TSPSDPGap.lemma_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:37:43.088511+00:00
 -- url     : https://prove2.me/theorems/ff6870af-6128-4126-8eea-afd39a30bf99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierLearning_deviation_payoff
 -- name    : SupplierLearning.deviation_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:53:01.129286+00:00
 -- url     : https://prove2.me/theorems/bbdb5f8a-e71f-4c72-8c9b-d442b3e779d2

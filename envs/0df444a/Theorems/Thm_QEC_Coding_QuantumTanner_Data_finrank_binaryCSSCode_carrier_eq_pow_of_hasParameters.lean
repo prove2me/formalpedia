@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_Data_finrank_binaryCSSCode_carrier_eq_pow_of_hasParameters
 -- name    : QEC.Coding.QuantumTanner.Data.finrank_binaryCSSCode_carrier_eq_pow_of_hasParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:48:52.622444+00:00
 -- url     : https://prove2.me/theorems/ec3dc985-d4fc-4a52-b2ed-ccec9ab50c46

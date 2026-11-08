@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalSectorMembrane_add_ne_boundary3
 -- name    : QEC.Coding.PeriodicCubical4.primalSectorMembrane_add_ne_boundary3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:03:41.949202+00:00
 -- url     : https://prove2.me/theorems/380d7524-47ae-4b01-acc2-0854acf58271

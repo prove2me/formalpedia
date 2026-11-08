@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconOQEC_decodeZ
 -- name    : BaconOQEC.decodeZ
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:25:55.068199+00:00
 -- url     : https://prove2.me/theorems/bd2df933-5832-4354-9989-76640642a056

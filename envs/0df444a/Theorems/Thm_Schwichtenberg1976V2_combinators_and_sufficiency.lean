@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Schwichtenberg1976V2_combinators_and_sufficiency
 -- name    : Schwichtenberg1976V2.combinators_and_sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T06:12:03.141809+00:00
 -- url     : https://prove2.me/theorems/55478b5d-5bc6-494b-b71e-5ee5eb57cb71

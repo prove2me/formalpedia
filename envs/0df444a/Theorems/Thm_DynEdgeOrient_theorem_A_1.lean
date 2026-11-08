@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynEdgeOrient_theorem_A_1
 -- name    : DynEdgeOrient.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:35:17.583936+00:00
 -- url     : https://prove2.me/theorems/537c5265-7624-4a68-8cee-464c60c88882

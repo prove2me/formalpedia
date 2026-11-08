@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxGrad_one_step_decrease
 -- name    : KarimiPL.ProxGrad.one_step_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:57:09.965896+00:00
 -- url     : https://prove2.me/theorems/155de307-3b86-4a5a-965f-6c200a0511fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_corollary_8
 -- name    : IntConeFPT.corollary_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:39:17.075335+00:00
 -- url     : https://prove2.me/theorems/eebaeed3-484a-4bfa-8149-082f82d7208e

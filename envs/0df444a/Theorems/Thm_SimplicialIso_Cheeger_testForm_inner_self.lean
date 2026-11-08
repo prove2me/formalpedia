@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Cheeger_testForm_inner_self
 -- name    : SimplicialIso.Cheeger.testForm_inner_self
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:00.842206+00:00
 -- url     : https://prove2.me/theorems/6016db95-1a3e-439d-887f-a50c77121527

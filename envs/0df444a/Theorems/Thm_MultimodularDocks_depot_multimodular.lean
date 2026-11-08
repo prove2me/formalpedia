@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultimodularDocks_depot_multimodular
 -- name    : MultimodularDocks.depot_multimodular
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:35:48.338005+00:00
 -- url     : https://prove2.me/theorems/72ff2737-4396-4ca6-ad07-878e309b5756

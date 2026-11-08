@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllsbergLearning_gs_closed_form
 -- name    : EllsbergLearning.gs_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:20:50.679176+00:00
 -- url     : https://prove2.me/theorems/019156f6-3341-4306-952c-d302f342e619

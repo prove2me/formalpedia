@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalHolomorphicCovectorPullback_filled
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalHolomorphicCovectorPullback_filled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:06:51.259369+00:00
 -- url     : https://prove2.me/theorems/ba1ec014-6396-46f8-a781-ec95dbb38568

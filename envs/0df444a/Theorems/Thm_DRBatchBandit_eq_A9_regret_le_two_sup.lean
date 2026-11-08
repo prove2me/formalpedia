@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRBatchBandit_eq_A9_regret_le_two_sup
 -- name    : DRBatchBandit.eq_A9_regret_le_two_sup
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:24:06.433433+00:00
 -- url     : https://prove2.me/theorems/b886cac3-78f0-4b76-b781-0cec664cbb57

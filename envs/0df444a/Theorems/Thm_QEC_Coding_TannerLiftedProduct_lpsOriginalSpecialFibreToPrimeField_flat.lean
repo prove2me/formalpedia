@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalSpecialFibreToPrimeField_flat
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreToPrimeField_flat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:05:19.668686+00:00
 -- url     : https://prove2.me/theorems/a7efb30f-7936-408d-b6a9-3110f8013bee

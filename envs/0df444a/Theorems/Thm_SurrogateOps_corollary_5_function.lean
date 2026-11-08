@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurrogateOps_corollary_5_function
 -- name    : SurrogateOps.corollary_5_function
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:50:59.058935+00:00
 -- url     : https://prove2.me/theorems/f4d443ba-af07-4d03-ba36-09190bb8da4d

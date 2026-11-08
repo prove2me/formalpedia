@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShippingContracts_expected_sales_gt
 -- name    : ShippingContracts.expected_sales_gt
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:54:26.099605+00:00
 -- url     : https://prove2.me/theorems/ba0a95e7-3dd0-4939-86ee-5c009d3d46fe

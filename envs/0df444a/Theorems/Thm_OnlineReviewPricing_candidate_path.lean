@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineReviewPricing_candidate_path
 -- name    : OnlineReviewPricing.candidate_path
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:28:23.739184+00:00
 -- url     : https://prove2.me/theorems/6558131b-d2ae-4d65-b414-8770e49bafb1

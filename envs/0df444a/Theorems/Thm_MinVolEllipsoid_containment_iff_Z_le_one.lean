@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinVolEllipsoid_containment_iff_Z_le_one
 -- name    : MinVolEllipsoid.containment_iff_Z_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:44:39.025261+00:00
 -- url     : https://prove2.me/theorems/c9e28257-dfb4-4005-a2ec-cc50a282a1c7

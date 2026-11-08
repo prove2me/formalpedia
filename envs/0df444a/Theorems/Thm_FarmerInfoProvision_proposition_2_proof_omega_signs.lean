@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfoProvision_proposition_2_proof_omega_signs
 -- name    : FarmerInfoProvision.proposition_2_proof_omega_signs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:46:30.579749+00:00
 -- url     : https://prove2.me/theorems/964c0770-4c29-43f3-9e80-912be0281403

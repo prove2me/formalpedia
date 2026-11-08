@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P43_coefficient_rank_identification
 -- name    : QAlgorithms.Papers.Independent.Intake100.P43.coefficient_rank_identification
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:26:47.499471+00:00
 -- url     : https://prove2.me/theorems/a8709ab9-67b4-4b32-a041-b5f70ab9827f

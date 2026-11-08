@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Relax_VB_le_vstar
 -- name    : L0BnB.Relax.VB_le_vstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:52:31.328126+00:00
 -- url     : https://prove2.me/theorems/48dee849-a801-428b-9502-33111f5328ca

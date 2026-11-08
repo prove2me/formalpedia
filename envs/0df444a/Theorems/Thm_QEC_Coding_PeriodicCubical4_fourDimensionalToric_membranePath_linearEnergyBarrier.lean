@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_fourDimensionalToric_membranePath_linearEnergyBarrier
 -- name    : QEC.Coding.PeriodicCubical4.fourDimensionalToric_membranePath_linearEnergyBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:53:01.826259+00:00
 -- url     : https://prove2.me/theorems/31db2f29-63ed-4a4e-9a49-195a3c3568d4

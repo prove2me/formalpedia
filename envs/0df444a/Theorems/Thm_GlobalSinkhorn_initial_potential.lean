@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalSinkhorn_initial_potential
 -- name    : GlobalSinkhorn.initial_potential
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T04:23:01.69773+00:00
 -- url     : https://prove2.me/theorems/1ecd0a5c-3c73-4b5f-9351-a2183bb93d8a

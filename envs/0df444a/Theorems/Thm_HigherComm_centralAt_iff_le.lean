@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherComm_centralAt_iff_le
 -- name    : HigherComm.centralAt_iff_le
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-06T16:26:26.725183+00:00
 -- url     : https://prove2.me/theorems/c11e5f87-d40d-4f38-931f-3827fbe77534

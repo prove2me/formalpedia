@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfoProvision_proposition_2_proof_one_minus_zero
 -- name    : FarmerInfoProvision.proposition_2_proof_one_minus_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:49:01.964751+00:00
 -- url     : https://prove2.me/theorems/074fd52a-15d2-4c93-aee8-a42d694f0b49

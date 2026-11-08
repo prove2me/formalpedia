@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EThetaPoula_Risk_lemma_A_1
 -- name    : EThetaPoula.Risk.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:22:32.092998+00:00
 -- url     : https://prove2.me/theorems/bd7095f0-986d-481c-a04b-157f5a3a3cc8

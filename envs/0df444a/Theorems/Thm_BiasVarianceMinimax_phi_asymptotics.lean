@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiasVarianceMinimax_phi_asymptotics
 -- name    : BiasVarianceMinimax.phi_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:31:42.618185+00:00
 -- url     : https://prove2.me/theorems/55642194-8a72-4126-bf05-5544bd853836

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledForgetLevel_prime_fibre_card
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledForgetLevel_prime_fibre_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:40:48.415972+00:00
 -- url     : https://prove2.me/theorems/097e2e06-669a-4ddb-b258-b1b3e5e9dd19

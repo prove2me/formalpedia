@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_simplex_lower_bound
 -- name    : FriedmannCunningham.simplex_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:13:12.969336+00:00
 -- url     : https://prove2.me/theorems/5ab9a8e2-e11c-4a30-a521-01a4143ffc5b

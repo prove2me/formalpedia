@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeVaryingGames_nash_svi
 -- name    : TimeVaryingGames.nash_svi
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:20.65831+00:00
 -- url     : https://prove2.me/theorems/1a06fcc4-bf42-447c-ba0e-5ac7e1c8aefc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallLossGraph_claim_3_2
 -- name    : SmallLossGraph.claim_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:54:24.47199+00:00
 -- url     : https://prove2.me/theorems/e1b42d97-2450-42cb-8ca4-ac841b41389b

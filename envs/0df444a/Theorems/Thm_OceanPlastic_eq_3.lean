@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanPlastic_eq_3
 -- name    : OceanPlastic.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:51:16.999191+00:00
 -- url     : https://prove2.me/theorems/f22a4667-4f19-4390-aa43-a6efc0708a21

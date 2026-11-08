@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPAllocRM_g_tendstoUniformlyOn
 -- name    : LPAllocRM.g_tendstoUniformlyOn
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:05:09.601987+00:00
 -- url     : https://prove2.me/theorems/6076f82c-8d5d-499a-b8e5-53d6ff68e274

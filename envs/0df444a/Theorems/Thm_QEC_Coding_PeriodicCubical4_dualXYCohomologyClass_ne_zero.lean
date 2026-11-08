@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_dualXYCohomologyClass_ne_zero
 -- name    : QEC.Coding.PeriodicCubical4.dualXYCohomologyClass_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:44:22.709786+00:00
 -- url     : https://prove2.me/theorems/7262dd51-9523-4ee2-bb9f-90b579f048e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerNormalGluedScheme_stalkIntegrallyClosed
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalGluedScheme_stalkIntegrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:57:32.190787+00:00
 -- url     : https://prove2.me/theorems/37dc573a-0881-4995-ae91-06d4f7ce9660

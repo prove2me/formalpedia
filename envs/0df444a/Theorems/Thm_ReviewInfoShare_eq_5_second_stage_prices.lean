@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewInfoShare_eq_5_second_stage_prices
 -- name    : ReviewInfoShare.eq_5_second_stage_prices
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:40:42.368227+00:00
 -- url     : https://prove2.me/theorems/acd475d3-77b3-4f1d-8f2b-3581d22efd27

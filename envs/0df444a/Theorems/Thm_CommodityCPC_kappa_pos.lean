@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommodityCPC_kappa_pos
 -- name    : CommodityCPC.kappa_pos
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:51:40.528872+00:00
 -- url     : https://prove2.me/theorems/332513b6-ca03-4142-bc92-64eb64360d95

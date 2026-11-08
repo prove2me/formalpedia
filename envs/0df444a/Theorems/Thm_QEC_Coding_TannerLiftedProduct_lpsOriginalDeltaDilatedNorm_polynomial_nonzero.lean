@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalDeltaDilatedNorm_polynomial_nonzero
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalDeltaDilatedNorm_polynomial_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:43:37.895322+00:00
 -- url     : https://prove2.me/theorems/c8fb6427-b723-49e3-95e5-a4ab7501f068

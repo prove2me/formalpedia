@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothedMIS_lemma_4_11
 -- name    : SmoothedMIS.lemma_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:51:04.48483+00:00
 -- url     : https://prove2.me/theorems/137bf266-01b7-45f3-8645-146b8e0e6058

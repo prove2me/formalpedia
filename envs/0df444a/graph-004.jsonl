@@ -29570,7 +29570,7 @@
 {"parent": "PinningSync.Strong.lemma_2_11", "child": "PinningSync_Strong_Setting", "via": ["statement"]}
 {"parent": "PinningSync.Strong.lemma_2_12", "child": "PinningSync_Strong_Setting", "via": ["statement"]}
 {"parent": "PinningSync.Strong.lemma_2_5", "child": "PinningSync_Strong_Setting", "via": ["statement"]}
-{"parent": "PinningSync.Strong.lemma_2_9", "child": "PinningSync_Strong_Setting", "via": ["statement"]}
+{"parent": "PinningSync.Strong.lemma_2_9", "child": "PinningSync_Strong_Setting", "via": ["solution", "statement"]}
 {"parent": "PinningSync.Tree.display_4_10", "child": "PinningSync_Tree_Setting", "via": ["statement"]}
 {"parent": "PinningSync.Tree.lemma_4_4", "child": "PinningSync_Tree_Setting", "via": ["statement"]}
 {"parent": "PinningSync.Tree.theorem_4_5", "child": "PinningSync_Tree_Setting", "via": ["statement"]}
@@ -32238,8 +32238,8 @@
 {"parent": "ProjSchedTW.StableSchedules.quasistable_sets_finite", "child": "ProjSchedTW_StableSchedules_Shifts", "via": ["statement"]}
 {"parent": "ProjSchedTW.StableSchedules.quasistable_tight_neighbor", "child": "ProjSchedTW_StableSchedules_Project", "via": ["statement"]}
 {"parent": "ProjSchedTW.StableSchedules.quasistable_tight_neighbor", "child": "ProjSchedTW_StableSchedules_Shifts", "via": ["statement"]}
-{"parent": "ProjSchedTW.StableSchedules.stable_classes_extreme_points", "child": "ProjSchedTW_StableSchedules_Project", "via": ["statement"]}
-{"parent": "ProjSchedTW.StableSchedules.stable_classes_extreme_points", "child": "ProjSchedTW_StableSchedules_Shifts", "via": ["statement"]}
+{"parent": "ProjSchedTW.StableSchedules.stable_classes_extreme_points", "child": "ProjSchedTW_StableSchedules_Project", "via": ["solution", "statement"]}
+{"parent": "ProjSchedTW.StableSchedules.stable_classes_extreme_points", "child": "ProjSchedTW_StableSchedules_Shifts", "via": ["solution", "statement"]}
 {"parent": "ProjSchedTW.StableSchedules.uniform_shifts_suffice", "child": "ProjSchedTW_StableSchedules_Project", "via": ["statement"]}
 {"parent": "ProjSchedTW.StableSchedules.uniform_shifts_suffice", "child": "ProjSchedTW_StableSchedules_Shifts", "via": ["statement"]}
 {"parent": "ProjSchedTW.StableSchedules.vertex_spanning_tree", "child": "ProjSchedTW_StableSchedules_Project", "via": ["statement"]}
@@ -44222,15 +44222,15 @@
 {"parent": "RegevLWE_SmoothingLB_Lattice", "child": "RegevLWE_GaussConv_Gaussian", "via": ["statement"]}
 {"parent": "RegevLWE_SmoothingLB_Lattice", "child": "RegevLWE_GaussConv_Lattice", "via": ["statement"]}
 {"parent": "RegretBandits.Adversarial.bernoulli_lower_bound_lemma", "child": "RegretBandits_Adversarial_BernoulliModel", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.biased_gain_estimate_bound", "child": "RegretBandits_Adversarial_Protocol", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_expected_regret", "child": "RegretBandits_Adversarial_Exp3P", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_expected_regret", "child": "RegretBandits_Adversarial_Protocol", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret", "child": "RegretBandits_Adversarial_Exp3P", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret", "child": "RegretBandits_Adversarial_Protocol", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret_any_conf", "child": "RegretBandits_Adversarial_Exp3P", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret_any_conf", "child": "RegretBandits_Adversarial_Protocol", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_regret_general", "child": "RegretBandits_Adversarial_Exp3P", "via": ["statement"]}
-{"parent": "RegretBandits.Adversarial.exp3P_regret_general", "child": "RegretBandits_Adversarial_Protocol", "via": ["statement"]}
+{"parent": "RegretBandits.Adversarial.biased_gain_estimate_bound", "child": "RegretBandits_Adversarial_Protocol", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_expected_regret", "child": "RegretBandits_Adversarial_Exp3P", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_expected_regret", "child": "RegretBandits_Adversarial_Protocol", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret", "child": "RegretBandits_Adversarial_Exp3P", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret", "child": "RegretBandits_Adversarial_Protocol", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret_any_conf", "child": "RegretBandits_Adversarial_Exp3P", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_high_prob_regret_any_conf", "child": "RegretBandits_Adversarial_Protocol", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_regret_general", "child": "RegretBandits_Adversarial_Exp3P", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Adversarial.exp3P_regret_general", "child": "RegretBandits_Adversarial_Protocol", "via": ["solution", "statement"]}
 {"parent": "RegretBandits.Adversarial.exp3_pseudo_regret_anytime", "child": "RegretBandits_Adversarial_Exp3", "via": ["statement"]}
 {"parent": "RegretBandits.Adversarial.exp3_pseudo_regret_anytime", "child": "RegretBandits_Adversarial_Protocol", "via": ["statement"]}
 {"parent": "RegretBandits.Adversarial.exp3_pseudo_regret_fixed_eta", "child": "RegretBandits_Adversarial_Exp3", "via": ["statement"]}
@@ -44258,10 +44258,10 @@
 {"parent": "RegretBandits.Linear.osmd_pseudo_regret", "child": "RegretBandits_Linear_OMD", "via": ["statement"]}
 {"parent": "RegretBandits.Linear.osmd_pseudo_regret_linear", "child": "RegretBandits_Linear_ConvexBasics", "via": ["statement"]}
 {"parent": "RegretBandits.Linear.osmd_pseudo_regret_linear", "child": "RegretBandits_Linear_OMD", "via": ["statement"]}
-{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_ConvexBasics", "via": ["statement"]}
-{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_OMD", "via": ["statement"]}
-{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_Potential", "via": ["statement"]}
-{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_SemiBandit", "via": ["statement"]}
+{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_ConvexBasics", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_OMD", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_Potential", "via": ["solution", "statement"]}
+{"parent": "RegretBandits.Linear.osmd_zero_potential", "child": "RegretBandits_Linear_SemiBandit", "via": ["solution", "statement"]}
 {"parent": "RegretBandits.Linear.potential_legendre", "child": "RegretBandits_Linear_ConvexBasics", "via": ["statement"]}
 {"parent": "RegretBandits.Linear.potential_legendre", "child": "RegretBandits_Linear_Potential", "via": ["statement"]}
 {"parent": "RegretBandits.Nonlinear.ball_integral_gradient", "child": "RegretBandits_Nonlinear_Smoothing", "via": ["statement"]}
@@ -55092,17 +55092,17 @@
 {"parent": "Sieve_Selberg_defs", "child": "Sieve_Basic_defs", "via": ["statement"]}
 {"parent": "SimpleGraph.exists_walkConnected_transversal_of_preconnected", "child": "P2M_Util", "via": ["solution"]}
 {"parent": "SimpleGraphComponentEdgeSumBound", "child": "OrdinaryPolygonalDrawing", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.adjoint", "child": "SimplicialIso_Cheeger_Setting", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.chain_complex", "child": "SimplicialIso_Cheeger_Setting", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.cobd_testForm_inner_self", "child": "SimplicialIso_Cheeger_Setting", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.cobd_testForm_inner_self", "child": "SimplicialIso_Cheeger_TestForm", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.eq_4_2", "child": "SimplicialIso_Cheeger_Setting", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.eq_4_3", "child": "SimplicialIso_Cheeger_Setting", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.eq_4_3", "child": "SimplicialIso_Cheeger_TestForm", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.testForm_inner_self", "child": "SimplicialIso_Cheeger_Setting", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.testForm_inner_self", "child": "SimplicialIso_Cheeger_TestForm", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.testForm_mem_cycles", "child": "SimplicialIso_Cheeger_Setting", "via": ["statement"]}
-{"parent": "SimplicialIso.Cheeger.testForm_mem_cycles", "child": "SimplicialIso_Cheeger_TestForm", "via": ["statement"]}
+{"parent": "SimplicialIso.Cheeger.adjoint", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.chain_complex", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.cobd_testForm_inner_self", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.cobd_testForm_inner_self", "child": "SimplicialIso_Cheeger_TestForm", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.eq_4_2", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.eq_4_3", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.eq_4_3", "child": "SimplicialIso_Cheeger_TestForm", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.testForm_inner_self", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.testForm_inner_self", "child": "SimplicialIso_Cheeger_TestForm", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.testForm_mem_cycles", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
+{"parent": "SimplicialIso.Cheeger.testForm_mem_cycles", "child": "SimplicialIso_Cheeger_TestForm", "via": ["solution", "statement"]}
 {"parent": "SimplicialIso.Cheeger.theorem_1_2", "child": "SimplicialIso_Cheeger_Setting", "via": ["solution", "statement"]}
 {"parent": "SimplicialIso.Mixing.asymmetric_bound", "child": "SimplicialIso_Mixing_Setting", "via": ["solution", "statement"]}
 {"parent": "SimplicialIso.Mixing.chain_complex", "child": "SimplicialIso_Mixing_Setting", "via": ["solution", "statement"]}
@@ -66910,7 +66910,7 @@
 {"parent": "TwoEchelonCVRP.Config.lbr_lower_bound", "child": "TwoEchelonCVRP_Config_Bounds", "via": ["solution", "statement"]}
 {"parent": "TwoEchelonCVRP.Config.lbw_lower_bound", "child": "TwoEchelonCVRP_Config_Bounds", "via": ["solution", "statement"]}
 {"parent": "TwoEchelonCVRP.Config.proposition_2", "child": "TwoEchelonCVRP_Config_Configuration", "via": ["solution", "statement"]}
-{"parent": "TwoEchelonCVRP.LPCompare.lf_optimal_y", "child": "TwoEchelonCVRP_LPCompare_Relaxations", "via": ["statement"]}
+{"parent": "TwoEchelonCVRP.LPCompare.lf_optimal_y", "child": "TwoEchelonCVRP_LPCompare_Relaxations", "via": ["solution", "statement"]}
 {"parent": "TwoEchelonCVRP.LPCompare.theorem_2_bound", "child": "TwoEchelonCVRP_LPCompare_Relaxations", "via": ["statement"]}
 {"parent": "TwoEchelonCVRP.LPCompare.theorem_2_strict", "child": "TwoEchelonCVRP_LPCompare_Relaxations", "via": ["statement"]}
 {"parent": "TwoEchelonCVRP.LowerBound.corollary_1", "child": "TwoEchelonCVRP_LowerBound_Model", "via": ["statement"]}

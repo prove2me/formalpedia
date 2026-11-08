@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalThetaLevel_filled_isManifold
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalThetaLevel_filled_isManifold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:24:14.217827+00:00
 -- url     : https://prove2.me/theorems/58f29eeb-83c3-4644-80ca-3821eeb33ffe

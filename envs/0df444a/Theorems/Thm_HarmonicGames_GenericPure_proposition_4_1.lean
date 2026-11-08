@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_GenericPure_proposition_4_1
 -- name    : HarmonicGames.GenericPure.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:56.086982+00:00
 -- url     : https://prove2.me/theorems/13bc2275-6ae3-4568-8439-2976cbdd6186

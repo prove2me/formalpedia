@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P39_fitted_interior_minimizer
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P39.fitted_interior_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T09:46:55.788883+00:00
 -- url     : https://prove2.me/theorems/a492bf3b-7e31-4d71-a5c4-60a5ca817807

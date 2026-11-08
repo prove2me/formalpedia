@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_exchange_pi_decrease
 -- name    : SepCostShare.exchange_pi_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:51.273981+00:00
 -- url     : https://prove2.me/theorems/d71f1001-6310-42d6-9161-9b88f3d9d29f

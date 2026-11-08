@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerReciprocalNormalChartToOverlap_injective
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerReciprocalNormalChartToOverlap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:39:27.436849+00:00
 -- url     : https://prove2.me/theorems/bad3a6db-6298-4cad-8f93-c007f28e74a4

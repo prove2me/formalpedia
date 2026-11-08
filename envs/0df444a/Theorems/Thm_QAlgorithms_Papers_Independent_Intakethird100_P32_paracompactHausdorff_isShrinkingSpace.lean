@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P32_paracompactHausdorff_isShrinkingSpace
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P32.paracompactHausdorff_isShrinkingSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:43:45.074197+00:00
 -- url     : https://prove2.me/theorems/794c9d6d-da96-490e-a8b5-457b04a46719

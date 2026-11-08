@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P30_powerInequality
 -- name    : QAlgorithms.Papers.Independent.Extend50.P30.powerInequality
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T16:27:38.808992+00:00
 -- url     : https://prove2.me/theorems/694aff37-cb30-4abf-a34a-dfa49a3e6560

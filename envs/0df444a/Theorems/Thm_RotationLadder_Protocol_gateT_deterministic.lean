@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationLadder_Protocol_gateT_deterministic
 -- name    : RotationLadder.Protocol.gateT_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:34:46.728081+00:00
 -- url     : https://prove2.me/theorems/44bae49d-0c8f-4271-b7c0-c64dccd220bd

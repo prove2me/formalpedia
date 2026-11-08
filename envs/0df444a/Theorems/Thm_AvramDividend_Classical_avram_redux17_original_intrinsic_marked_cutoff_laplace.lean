@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux17_original_intrinsic_marked_cutoff_laplace
 -- name    : AvramDividend.Classical.avram_redux17_original_intrinsic_marked_cutoff_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T11:54:39.575053+00:00
 -- url     : https://prove2.me/theorems/81b0ea8d-1831-42c2-b84d-2a211d2e4a39

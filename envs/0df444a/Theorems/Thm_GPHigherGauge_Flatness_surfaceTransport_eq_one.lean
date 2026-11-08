@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GPHigherGauge_Flatness_surfaceTransport_eq_one
 -- name    : GPHigherGauge.Flatness.surfaceTransport_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:55:43.637401+00:00
 -- url     : https://prove2.me/theorems/a7b2320e-1198-427b-abeb-48eb88d774f2

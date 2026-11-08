@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux11_original_BV_raw_removed_residual_zero_ae
 -- name    : AvramDividend.Classical.avram_redux11_original_BV_raw_removed_residual_zero_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:02:37.563019+00:00
 -- url     : https://prove2.me/theorems/79a63ca0-322e-49b7-bd9b-2fcd3db555c5

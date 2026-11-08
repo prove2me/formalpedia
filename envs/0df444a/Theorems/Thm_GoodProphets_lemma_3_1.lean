@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodProphets_lemma_3_1
 -- name    : GoodProphets.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:24:20.220242+00:00
 -- url     : https://prove2.me/theorems/c6e128cc-0d3a-4cde-a263-31126f2d699d

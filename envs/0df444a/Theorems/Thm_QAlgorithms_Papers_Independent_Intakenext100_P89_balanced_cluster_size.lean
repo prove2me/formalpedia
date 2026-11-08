@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P89_balanced_cluster_size
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P89.balanced_cluster_size
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:26:41.950303+00:00
 -- url     : https://prove2.me/theorems/2e2eeb5d-4880-4372-8e4e-d0fe7743cb77

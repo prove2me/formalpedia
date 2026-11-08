@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_E2DStructured_ucb_certifies_dec
 -- name    : FoundationsRL.E2DStructured.ucb_certifies_dec
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:25:26.992093+00:00
 -- url     : https://prove2.me/theorems/1fa5fad0-e89c-4711-9f51-5e09ee6cce01

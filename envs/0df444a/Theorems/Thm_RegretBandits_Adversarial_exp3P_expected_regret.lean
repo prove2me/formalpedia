@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Adversarial_exp3P_expected_regret
 -- name    : RegretBandits.Adversarial.exp3P_expected_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:02:12.445284+00:00
 -- url     : https://prove2.me/theorems/c51e71ae-fcf0-4655-ad94-38654ea59c52

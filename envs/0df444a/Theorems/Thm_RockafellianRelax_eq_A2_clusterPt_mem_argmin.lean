@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellianRelax_eq_A2_clusterPt_mem_argmin
 -- name    : RockafellianRelax.eq_A2_clusterPt_mem_argmin
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:37:20.076869+00:00
 -- url     : https://prove2.me/theorems/45ff8bfc-8bb1-4d2f-87d5-86310004a409

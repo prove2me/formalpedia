@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_meas7_original_marked_fullmask_indicator_eventually_interior
 -- name    : AvramDividend.Classical.avram_bv_meas7_original_marked_fullmask_indicator_eventually_interior
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T23:36:45.704138+00:00
 -- url     : https://prove2.me/theorems/0bfb79cc-7e49-4b3b-96b0-c5269f38667b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometricDL_GroupAverage_invariant_eq_average_of_orbit
 -- name    : GeometricDL.GroupAverage.invariant_eq_average_of_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:11:12.550619+00:00
 -- url     : https://prove2.me/theorems/1b3e17a1-0a8e-475b-a0ac-0f92dea91420

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_parity_lower_bound
 -- name    : FriedmannCunningham.parity_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:11:28.662095+00:00
 -- url     : https://prove2.me/theorems/a6b402d1-47d5-47f4-a2ac-8c5a09ad8c2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Schwichtenberg1976V2_definable_iff_extended_polynomial
 -- name    : Schwichtenberg1976V2.definable_iff_extended_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T06:12:30.071994+00:00
 -- url     : https://prove2.me/theorems/4e1cedd9-9d1f-4edf-a9bb-00a0da4beef0

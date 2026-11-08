@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJQuotient_projection
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJQuotient_projection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:24:27.109795+00:00
 -- url     : https://prove2.me/theorems/6c30cfa2-73a7-4805-b900-90f5970bd726

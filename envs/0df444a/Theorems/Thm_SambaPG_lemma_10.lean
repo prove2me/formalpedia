@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SambaPG_lemma_10
 -- name    : SambaPG.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:37:47.865474+00:00
 -- url     : https://prove2.me/theorems/3578abf2-c954-4317-a208-0fcbbf9ed06d

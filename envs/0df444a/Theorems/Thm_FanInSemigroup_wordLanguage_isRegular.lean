@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FanInSemigroup_wordLanguage_isRegular
 -- name    : FanInSemigroup.wordLanguage_isRegular
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:33:28.42669+00:00
 -- url     : https://prove2.me/theorems/494ea155-2d21-4ecd-bbb5-cf9b937ea73c

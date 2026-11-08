@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapacityGames_consistent_iff
 -- name    : CapacityGames.consistent_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:52.565844+00:00
 -- url     : https://prove2.me/theorems/cac11b47-ef18-413f-a811-08e03160e60c

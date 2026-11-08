@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoLocalBroadcast_Broadcast_theorem_3
 -- name    : NoLocalBroadcast.Broadcast.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:35:28.380324+00:00
 -- url     : https://prove2.me/theorems/412c52db-1dd9-4b81-a999-793bb895fd9e

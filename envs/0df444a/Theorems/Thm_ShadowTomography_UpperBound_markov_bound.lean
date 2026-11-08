@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShadowTomography_UpperBound_markov_bound
 -- name    : ShadowTomography.UpperBound.markov_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:05:37.237373+00:00
 -- url     : https://prove2.me/theorems/3466dd92-e90a-428c-9e45-3ac982414da2

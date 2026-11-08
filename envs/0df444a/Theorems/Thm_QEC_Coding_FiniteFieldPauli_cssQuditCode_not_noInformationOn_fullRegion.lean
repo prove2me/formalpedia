@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_cssQuditCode_not_noInformationOn_fullRegion
 -- name    : QEC.Coding.FiniteFieldPauli.cssQuditCode_not_noInformationOn_fullRegion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:50:45.942701+00:00
 -- url     : https://prove2.me/theorems/4477995e-ba48-4b35-a3e5-30cb1ece7bf7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Unbiased_strong_duality_subgradient
 -- name    : RLPBidPrice.Unbiased.strong_duality_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T12:48:02.754992+00:00
 -- url     : https://prove2.me/theorems/d508c4fb-d21b-4bf2-9ea0-b6b1e967787d

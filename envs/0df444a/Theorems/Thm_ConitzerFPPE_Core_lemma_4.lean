@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConitzerFPPE_Core_lemma_4
 -- name    : ConitzerFPPE.Core.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T19:01:29.643329+00:00
 -- url     : https://prove2.me/theorems/132c1558-9077-42f5-b6d8-947bdd77bdb2

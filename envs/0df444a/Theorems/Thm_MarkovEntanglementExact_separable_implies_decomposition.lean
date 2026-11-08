@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovEntanglementExact_separable_implies_decomposition
 -- name    : MarkovEntanglementExact.separable_implies_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:22:37.208982+00:00
 -- url     : https://prove2.me/theorems/bc519441-6fc3-4c06-97d6-c00fce5b037a

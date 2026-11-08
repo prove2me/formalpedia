@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosDensity_distinguish
 -- name    : CosDensity.distinguish
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:38:26.320239+00:00
 -- url     : https://prove2.me/theorems/f2d2c9ed-d1cb-494c-a123-b97b5be023f3

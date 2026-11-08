@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleFactorPricing_LogBound_pointwise_bound
 -- name    : SingleFactorPricing.LogBound.pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:18:45.255042+00:00
 -- url     : https://prove2.me/theorems/e4bb6b9d-b134-461d-b34e-6d7a46361531

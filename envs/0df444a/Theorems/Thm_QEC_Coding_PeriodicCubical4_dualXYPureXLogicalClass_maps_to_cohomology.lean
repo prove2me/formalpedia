@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_dualXYPureXLogicalClass_maps_to_cohomology
 -- name    : QEC.Coding.PeriodicCubical4.dualXYPureXLogicalClass_maps_to_cohomology
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:45:42.716966+00:00
 -- url     : https://prove2.me/theorems/d4fffb82-6d5d-4ae1-8f60-378e8ccd32c0

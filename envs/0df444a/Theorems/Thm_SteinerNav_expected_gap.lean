@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerNav_expected_gap
 -- name    : SteinerNav.expected_gap
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:46:16.862266+00:00
 -- url     : https://prove2.me/theorems/9b97174e-e32f-402d-9db0-3ebe9a5e7ce4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentLowerBound_regret_lower_bound_log
 -- name    : KeskinZeevi.IncumbentLowerBound.regret_lower_bound_log
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:04:29.43865+00:00
 -- url     : https://prove2.me/theorems/459f5fc3-31c0-4ce4-813e-25f904254bc4

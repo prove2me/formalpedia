@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_cadlag_mark_weight_lintegral_borel
 -- name    : AvramDividend.Classical.avram_bv_jump8_cadlag_mark_weight_lintegral_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T18:41:58.36721+00:00
 -- url     : https://prove2.me/theorems/b50e56f2-0dcb-4abc-8122-4101ca1c9ec0

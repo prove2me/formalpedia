@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShallowSym_factorial_ratio
 -- name    : ShallowSym.factorial_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:58:37.717084+00:00
 -- url     : https://prove2.me/theorems/ae68d0b4-0245-458f-b772-aa5393d63600

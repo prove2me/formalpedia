@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseBatchBandit_lemma_11
 -- name    : SparseBatchBandit.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:24:05.660444+00:00
 -- url     : https://prove2.me/theorems/ff46c8a0-169f-4c56-bdcd-849615791b57

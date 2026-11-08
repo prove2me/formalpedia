@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_ratFunc_prime_coordinate_irreducible_in_separable_extension
 -- name    : QEC.Coding.AlgebraicGeometry.ratFunc_prime_coordinate_irreducible_in_separable_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:47:23.569547+00:00
 -- url     : https://prove2.me/theorems/6550485c-bb53-4826-81c2-0a64bed2e2b1

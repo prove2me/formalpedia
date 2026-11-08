@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_norm_summand_bound
 -- name    : OAI.CubicEisenstein.norm_summand_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:53:35.925703+00:00
 -- url     : https://prove2.me/theorems/15af57ac-0e09-4815-b8f9-93ede3bd25a5

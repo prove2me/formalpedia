@@ -13222,7 +13222,7 @@
 {"parent": "D1Bound5.PairGraphPrepared25.indexed_chunk02_checked", "child": "D1Bound5_SmallPairGraphInputs25_Definitions_002", "via": ["solution", "statement"]}
 {"parent": "fd03_europeanValue", "child": "fd03_oneStepValue", "via": ["statement"]}
 {"parent": "fd03_europeanValue", "child": "fd03_PayoffTree", "via": ["statement"]}
-{"parent": "NoLocalBroadcast.Broadcast.theorem_3", "child": "NoLocalBroadcast_Broadcast_Model", "via": ["statement"]}
+{"parent": "NoLocalBroadcast.Broadcast.theorem_3", "child": "NoLocalBroadcast_Broadcast_Model", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawingOn_add_edge_geometry", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "D1Bound5.smallPairRepresentative_27_graph_property", "child": "D1Bound5_SmallPairGraphInputs27_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairRepresentative_27_graph_property", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
@@ -25130,10 +25130,10 @@
 {"parent": "AvramDividend.Classical.esscher_negative_levy_tail_real_tendsto_top", "child": "AvramDividend.Classical.esscher_weighted_negative_tail_real_tendsto_top_of_small_band", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.esscher_negative_levy_tail_real_tendsto_top", "child": "AvramDividend.Classical.esscher_weighted_negative_tail_le_unweighted", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.esscher_negative_levy_tail_real_tendsto_top", "child": "AvramDividend.Classical.negative_jump_real_tail_tendsto_top", "via": ["solution", "statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "ShadowTomography_UpperBound_POVM", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "ShadowTomography_UpperBound_POVM", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_15", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared46.right_prefix_000_part05_checked", "child": "D1Bound5_SmallPairLightAdaptiveData46_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared46.right_prefix_000_part05_checked", "child": "D1Bound5_SmallPairLightData46Left_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared46.right_prefix_000_part05_checked", "child": "D1Bound5_PairLightArithmeticChunks_Definitions", "via": ["solution", "statement"]}
@@ -28227,10 +28227,10 @@
 {"parent": "TaoFivePrimes.rh_moment_330_331_rounding", "child": "TaoFivePrimes_RHExtendedMomentCachedNumerator", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh119_translation_precision12_0_9", "child": "TaoFivePrimes_RH304TranslationArithmetic", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh119_translation_precision12_0_9", "child": "TaoFivePrimes_RH119RoundedCoefficients12", "via": ["solution", "statement"]}
-{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "ShadowTomography_UpperBound_ampMeasurements", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "ShadowTomography_UpperBound_avgMarginal", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "ShadowTomography_UpperBound_ampMeasurements", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "ShadowTomography_UpperBound_avgMarginal", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.markov_bound", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff6.sign_e005_c01_s0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.bind_F_1_1", "child": "Atlas_EinsteinMaxwell_ES5_Cand_ST03_Defs", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.ST03.bind_F_1_1", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}
@@ -32773,7 +32773,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1056", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1056", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "FunctionalInequalities.Energy.CovarianceGradient.relaxation_mapContinuousLinearEquiv_readable", "child": "KLSModular_FunctionalInequalities_Energy_CovarianceGradient_LinearEquiv", "via": ["solution", "statement"]}
-{"parent": "AlgebraicGeometry.exists_alteration_with_regular_projective_compactification", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.exists_alteration_with_regular_projective_compactification", "child": "AlgebraicGeometry_ProjSpace", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.exists_maximal_planar_supergraph_same_vertices_fddd844c", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c307", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared44.right_signatures_checked", "child": "D1Bound5_SmallPairLightData44_Definitions_004", "via": ["solution", "statement"]}

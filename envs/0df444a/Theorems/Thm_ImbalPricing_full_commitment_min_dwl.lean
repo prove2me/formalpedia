@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImbalPricing_full_commitment_min_dwl
 -- name    : ImbalPricing.full_commitment_min_dwl
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:37:17.994382+00:00
 -- url     : https://prove2.me/theorems/4ccceae2-624a-448c-82ca-2d730e6ba60d

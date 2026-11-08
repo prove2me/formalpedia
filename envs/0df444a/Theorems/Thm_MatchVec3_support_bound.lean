@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchVec3_support_bound
 -- name    : MatchVec3.support_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:42:09.173366+00:00
 -- url     : https://prove2.me/theorems/d212aedf-c809-4bab-a79b-205d11f58bf6

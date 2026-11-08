@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_why24AppendixRetainedSites_eq_source
 -- name    : QEC.Coding.why24AppendixRetainedSites_eq_source
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:42:07.87463+00:00
 -- url     : https://prove2.me/theorems/52ea0b17-5819-4f60-9b97-08511c71ef6f

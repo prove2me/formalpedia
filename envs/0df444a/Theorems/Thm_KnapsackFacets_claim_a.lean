@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnapsackFacets_claim_a
 -- name    : KnapsackFacets.claim_a
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:14:58.099129+00:00
 -- url     : https://prove2.me/theorems/b40dcd8f-a1df-4e9f-8171-38516c9f5f9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Sherbrooke_objective_separable
 -- name    : Sherbrooke.objective_separable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:23:32.786991+00:00
 -- url     : https://prove2.me/theorems/e7811fb1-e74e-4ccb-949c-9fec4307600e

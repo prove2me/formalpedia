@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_extendLocalToRegister_selectedShift
 -- name    : QEC.Coding.FiniteFieldPauli.extendLocalToRegister_selectedShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:56:18.515192+00:00
 -- url     : https://prove2.me/theorems/68800554-a931-4a82-846a-844512e651a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QBFBackdoor_round_count
 -- name    : QBFBackdoor.round_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:32:25.014479+00:00
 -- url     : https://prove2.me/theorems/1d09bbda-2b70-47b3-b21c-dd12a270946c

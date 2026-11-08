@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNPTreedepth_observation_15
 -- name    : SNPTreedepth.observation_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:27:02.486595+00:00
 -- url     : https://prove2.me/theorems/57d8ea1f-0de8-4f7b-97c5-1e6b1a2dbd1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxCD_theorem_6_prox_cd_linear_rate
 -- name    : KarimiPL.ProxCD.theorem_6_prox_cd_linear_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:58:30.455023+00:00
 -- url     : https://prove2.me/theorems/32c895fb-4a8b-4d79-b505-057c541021af

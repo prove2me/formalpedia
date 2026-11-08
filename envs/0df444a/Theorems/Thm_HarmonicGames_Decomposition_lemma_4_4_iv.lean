@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_Decomposition_lemma_4_4_iv
 -- name    : HarmonicGames.Decomposition.lemma_4_4_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:52:57.637679+00:00
 -- url     : https://prove2.me/theorems/7d543c22-c285-4a24-948b-7580e5d578ed

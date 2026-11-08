@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolarizedLearning_expectedPosterior_informative
 -- name    : PolarizedLearning.expectedPosterior_informative
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:18:45.212938+00:00
 -- url     : https://prove2.me/theorems/74210a4b-9bf9-4141-8480-d836c7f19de4

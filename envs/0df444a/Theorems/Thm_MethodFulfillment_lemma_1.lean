@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MethodFulfillment_lemma_1
 -- name    : MethodFulfillment.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:13:00.166918+00:00
 -- url     : https://prove2.me/theorems/8c96ebbb-e77c-460c-8364-3dbf129b2e74

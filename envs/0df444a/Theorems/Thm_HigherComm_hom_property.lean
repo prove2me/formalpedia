@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherComm_hom_property
 -- name    : HigherComm.hom_property
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-06T16:26:50.456945+00:00
 -- url     : https://prove2.me/theorems/ddab8953-c694-4944-8858-7cb340cc22a2

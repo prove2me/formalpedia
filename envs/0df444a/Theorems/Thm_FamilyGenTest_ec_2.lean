@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FamilyGenTest_ec_2
 -- name    : FamilyGenTest.ec_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:14:42.619063+00:00
 -- url     : https://prove2.me/theorems/9acb4bb1-e3c8-41c2-8502-226cb761604b

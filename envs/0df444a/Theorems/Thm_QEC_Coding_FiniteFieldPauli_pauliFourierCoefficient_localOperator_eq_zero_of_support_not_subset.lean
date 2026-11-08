@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_pauliFourierCoefficient_localOperator_eq_zero_of_support_not_subset
 -- name    : QEC.Coding.FiniteFieldPauli.pauliFourierCoefficient_localOperator_eq_zero_of_support_not_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:49:52.262655+00:00
 -- url     : https://prove2.me/theorems/1a953430-6ede-4489-868c-075a71dade2f

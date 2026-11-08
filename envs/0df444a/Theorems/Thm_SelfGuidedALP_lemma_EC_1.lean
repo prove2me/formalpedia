@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfGuidedALP_lemma_EC_1
 -- name    : SelfGuidedALP.lemma_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:24:12.765423+00:00
 -- url     : https://prove2.me/theorems/879f8853-9d9f-40b4-9451-56ac78698133

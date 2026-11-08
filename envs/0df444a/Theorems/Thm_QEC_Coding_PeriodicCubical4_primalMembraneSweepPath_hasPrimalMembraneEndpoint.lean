@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalMembraneSweepPath_hasPrimalMembraneEndpoint
 -- name    : QEC.Coding.PeriodicCubical4.primalMembraneSweepPath_hasPrimalMembraneEndpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:05:11.190202+00:00
 -- url     : https://prove2.me/theorems/c6e4ce29-7edf-434f-808d-d2f0ed57f196

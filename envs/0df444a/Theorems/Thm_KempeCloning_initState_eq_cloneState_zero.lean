@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KempeCloning_initState_eq_cloneState_zero
 -- name    : KempeCloning.initState_eq_cloneState_zero
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:24:11.20907+00:00
 -- url     : https://prove2.me/theorems/d3f14f37-769c-417c-b87a-637ccc157aa3

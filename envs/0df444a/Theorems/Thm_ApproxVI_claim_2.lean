@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxVI_claim_2
 -- name    : ApproxVI.claim_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:14:13.545244+00:00
 -- url     : https://prove2.me/theorems/c0cf58c8-a668-480b-8afe-3fea63f870cd

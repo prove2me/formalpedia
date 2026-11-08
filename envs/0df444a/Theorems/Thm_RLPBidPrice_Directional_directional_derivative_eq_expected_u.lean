@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLPBidPrice_Directional_directional_derivative_eq_expected_u
 -- name    : RLPBidPrice.Directional.directional_derivative_eq_expected_u
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T13:12:48.865776+00:00
 -- url     : https://prove2.me/theorems/fdc5856e-615f-4787-bb74-cdebf4c29c11

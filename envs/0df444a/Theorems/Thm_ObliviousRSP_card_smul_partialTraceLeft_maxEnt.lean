@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRSP_card_smul_partialTraceLeft_maxEnt
 -- name    : ObliviousRSP.card_smul_partialTraceLeft_maxEnt
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:50.241444+00:00
 -- url     : https://prove2.me/theorems/2bcd7855-edc5-4a6d-bf70-8705a5b4b25b

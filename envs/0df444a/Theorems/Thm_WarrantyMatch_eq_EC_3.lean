@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WarrantyMatch_eq_EC_3
 -- name    : WarrantyMatch.eq_EC_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:38:07.725205+00:00
 -- url     : https://prove2.me/theorems/8aba3faa-b168-4327-9bd3-16ef4742e7fe

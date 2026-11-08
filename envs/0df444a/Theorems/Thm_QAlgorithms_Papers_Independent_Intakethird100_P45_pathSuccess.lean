@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P45_pathSuccess
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P45.pathSuccess
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:24:01.090017+00:00
 -- url     : https://prove2.me/theorems/92f5bf64-6002-407a-95b9-9151790f1258

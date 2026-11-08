@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_algebraicCSSMinimumDistance_le_semanticQuditDistance
 -- name    : QEC.Coding.FiniteFieldPauli.algebraicCSSMinimumDistance_le_semanticQuditDistance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:57:17.734416+00:00
 -- url     : https://prove2.me/theorems/0f36bfe9-dabb-4e33-b0ce-98861df0fa03

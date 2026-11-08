@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuadraticE2DilateModularForm_apply
 -- name    : QEC.Coding.TannerLiftedProduct.lpsQuadraticE2DilateModularForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:27:35.497561+00:00
 -- url     : https://prove2.me/theorems/ec2a2d6a-9506-428f-8980-1e9b1c56c517

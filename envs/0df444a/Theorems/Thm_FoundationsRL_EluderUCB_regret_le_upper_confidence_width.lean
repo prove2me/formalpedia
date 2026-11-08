@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_EluderUCB_regret_le_upper_confidence_width
 -- name    : FoundationsRL.EluderUCB.regret_le_upper_confidence_width
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:22:39.246141+00:00
 -- url     : https://prove2.me/theorems/0f214aea-e0d4-4cab-be0b-011cab72fa2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionApproxPNE_display_5
 -- name    : CongestionApproxPNE.display_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:18:22.643626+00:00
 -- url     : https://prove2.me/theorems/16ceeae1-ae4f-48ec-8ebf-fbc223ede477

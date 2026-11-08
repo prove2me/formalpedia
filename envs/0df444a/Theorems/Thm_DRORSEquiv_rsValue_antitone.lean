@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRORSEquiv_rsValue_antitone
 -- name    : DRORSEquiv.rsValue_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:37:57.711328+00:00
 -- url     : https://prove2.me/theorems/ea8f61b1-749e-4ca7-ab0e-2626e07a7bb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FloatPointSynth_Gearbox_P_monotone
 -- name    : FloatPointSynth.Gearbox.P_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T04:00:39.799012+00:00
 -- url     : https://prove2.me/theorems/bd62d5b9-7c31-4292-9d27-3c436db5d8b9

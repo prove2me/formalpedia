@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_logit_space_loss
 -- name    : ForecastAggLearn.logit_space_loss
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:25.143441+00:00
 -- url     : https://prove2.me/theorems/2224e15d-b40f-4e88-b565-0cc8aacbc480

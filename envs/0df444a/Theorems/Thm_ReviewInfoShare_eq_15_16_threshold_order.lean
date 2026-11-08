@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewInfoShare_eq_15_16_threshold_order
 -- name    : ReviewInfoShare.eq_15_16_threshold_order
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:39:24.386698+00:00
 -- url     : https://prove2.me/theorems/d1ad6948-3344-42be-b0c0-40c1c0223be3

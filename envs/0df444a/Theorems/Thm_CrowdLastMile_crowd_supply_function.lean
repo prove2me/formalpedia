@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdLastMile_crowd_supply_function
 -- name    : CrowdLastMile.crowd_supply_function
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:24:25.945998+00:00
 -- url     : https://prove2.me/theorems/b9f0e709-0f20-4cca-8dce-e8a5af3e02b6

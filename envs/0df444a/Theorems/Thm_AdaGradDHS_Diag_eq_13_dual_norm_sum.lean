@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGradDHS_Diag_eq_13_dual_norm_sum
 -- name    : AdaGradDHS.Diag.eq_13_dual_norm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:18:58.838172+00:00
 -- url     : https://prove2.me/theorems/dd7df41b-8a42-41ca-9033-2c45525cd966

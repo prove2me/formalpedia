@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxMinFracSched_eq_11_12
 -- name    : MaxMinFracSched.eq_11_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:22:29.694536+00:00
 -- url     : https://prove2.me/theorems/38889666-32bd-4dfa-877e-931519adae85

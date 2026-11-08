@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_cpLoop_cost
 -- name    : TwoAgentSched.cpLoop_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:53:04.564764+00:00
 -- url     : https://prove2.me/theorems/c2df4d98-73c8-4797-9ae5-272c4ac18286

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f12_original_positive_near_zero_germ_measurable
 -- name    : AvramDividend.Classical.avram_p4_f12_original_positive_near_zero_germ_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T19:14:13.865922+00:00
 -- url     : https://prove2.me/theorems/f1e93061-4a7a-487a-97db-a8d1b2aa6b41

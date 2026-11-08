@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometricDL_WL_conv_eq_attn_of_lookup
 -- name    : GeometricDL.WL.conv_eq_attn_of_lookup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:22:11.418832+00:00
 -- url     : https://prove2.me/theorems/357aad9f-e39a-44f5-8b88-90a78c8905f7

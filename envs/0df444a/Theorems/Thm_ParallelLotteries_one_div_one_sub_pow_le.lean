@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelLotteries_one_div_one_sub_pow_le
 -- name    : ParallelLotteries.one_div_one_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:36:06.856607+00:00
 -- url     : https://prove2.me/theorems/f3524390-5473-49cf-a3cc-d8d47d5006b0

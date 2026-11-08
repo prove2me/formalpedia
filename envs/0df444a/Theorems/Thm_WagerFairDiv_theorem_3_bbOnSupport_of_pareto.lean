@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagerFairDiv_theorem_3_bbOnSupport_of_pareto
 -- name    : WagerFairDiv.theorem_3_bbOnSupport_of_pareto
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:15:57.207997+00:00
 -- url     : https://prove2.me/theorems/b79d06b2-6878-4060-aaa6-23840daa212f

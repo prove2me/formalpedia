@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalJInvariant_no_holomorphic_extension
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalJInvariant_no_holomorphic_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:25:00.452738+00:00
 -- url     : https://prove2.me/theorems/64102f2d-0813-4340-9d31-b0e1e29b187d

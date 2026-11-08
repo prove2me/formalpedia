@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitFPTAS_lemma_2_1
 -- name    : NestedLogitFPTAS.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:27:27.094995+00:00
 -- url     : https://prove2.me/theorems/056f5c7f-e70f-4d6e-acb6-34420f146af9

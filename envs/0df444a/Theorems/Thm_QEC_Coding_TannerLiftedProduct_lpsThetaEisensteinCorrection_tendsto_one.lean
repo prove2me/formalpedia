@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsThetaEisensteinCorrection_tendsto_one
 -- name    : QEC.Coding.TannerLiftedProduct.lpsThetaEisensteinCorrection_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:36:20.750485+00:00
 -- url     : https://prove2.me/theorems/0c61a082-c16a-4833-9297-91277f206764

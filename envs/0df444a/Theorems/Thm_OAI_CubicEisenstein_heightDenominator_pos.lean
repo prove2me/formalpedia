@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_heightDenominator_pos
 -- name    : OAI.CubicEisenstein.heightDenominator_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:53:44.015561+00:00
 -- url     : https://prove2.me/theorems/886a6474-f514-400d-b97d-19023e1ed3d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f17_uniform_rational_early_mass_to_germ_mass
 -- name    : AvramDividend.Classical.avram_p4_f17_uniform_rational_early_mass_to_germ_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T23:18:20.414747+00:00
 -- url     : https://prove2.me/theorems/1b53e352-c84b-42c0-972b-b6520349b733

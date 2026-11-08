@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RedundancyHT_equations_1_2
 -- name    : RedundancyHT.equations_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:42.65697+00:00
 -- url     : https://prove2.me/theorems/10ca7f5b-ca57-40ce-bfc8-79445c198fa7

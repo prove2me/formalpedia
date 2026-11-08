@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuaternionVertexIndex_decode
 -- name    : QEC.Coding.TannerLiftedProduct.lpsQuaternionVertexIndex_decode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:55:23.502105+00:00
 -- url     : https://prove2.me/theorems/10aad105-665e-4f86-b74e-bd4105020fc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_findSolution_spec
 -- name    : ConsensusHalvingItems.Additive.findSolution_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:37:00.610587+00:00
 -- url     : https://prove2.me/theorems/ec59e0f2-425b-42af-8cf0-b5b2f41a62f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_extendLocalToRegister_selectedPhase
 -- name    : QEC.Coding.FiniteFieldPauli.extendLocalToRegister_selectedPhase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:56:34.883469+00:00
 -- url     : https://prove2.me/theorems/01bd7bd3-de46-4092-b135-9aafd0e624e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCuspLevelDegree_not_dvd
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCuspLevelDegree_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:28:29.265675+00:00
 -- url     : https://prove2.me/theorems/6ba4e72b-f058-42e2-b26b-e4bfb58b7fc4

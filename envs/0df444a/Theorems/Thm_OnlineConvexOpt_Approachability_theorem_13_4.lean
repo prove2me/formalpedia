@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_Approachability_theorem_13_4
 -- name    : OnlineConvexOpt.Approachability.theorem_13_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:45:14.720992+00:00
 -- url     : https://prove2.me/theorems/7087ef81-eb7c-4e8c-bde0-40d61be7d547

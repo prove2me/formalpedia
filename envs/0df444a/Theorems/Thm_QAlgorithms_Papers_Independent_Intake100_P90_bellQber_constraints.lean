@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P90_bellQber_constraints
 -- name    : QAlgorithms.Papers.Independent.Intake100.P90.bellQber_constraints
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:10:28.480821+00:00
 -- url     : https://prove2.me/theorems/ebdcfca6-29e7-4515-b8c7-8c66cfdb49d8

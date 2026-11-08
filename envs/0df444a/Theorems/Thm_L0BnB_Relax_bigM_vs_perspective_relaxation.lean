@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Relax_bigM_vs_perspective_relaxation
 -- name    : L0BnB.Relax.bigM_vs_perspective_relaxation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:54:08.029844+00:00
 -- url     : https://prove2.me/theorems/a5709a6c-a098-4977-92dd-b4296a164d83

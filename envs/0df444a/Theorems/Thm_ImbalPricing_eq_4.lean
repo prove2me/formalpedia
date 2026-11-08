@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImbalPricing_eq_4
 -- name    : ImbalPricing.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:36:31.908225+00:00
 -- url     : https://prove2.me/theorems/5344cb21-a9a0-4c1c-9eeb-0f97eefaa38c

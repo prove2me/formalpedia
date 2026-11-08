@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleportGates_Ck_teleport_one_qubit
 -- name    : TeleportGates.Ck.teleport_one_qubit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:13.906637+00:00
 -- url     : https://prove2.me/theorems/2ec74730-977f-4af2-957c-e83a4d473b47

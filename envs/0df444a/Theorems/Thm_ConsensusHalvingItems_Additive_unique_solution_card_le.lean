@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsensusHalvingItems_Additive_unique_solution_card_le
 -- name    : ConsensusHalvingItems.Additive.unique_solution_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:40:00.564624+00:00
 -- url     : https://prove2.me/theorems/a701782e-db3e-4682-bf8f-5c156abeff3b

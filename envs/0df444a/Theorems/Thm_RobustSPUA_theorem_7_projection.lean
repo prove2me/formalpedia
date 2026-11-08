@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPUA_theorem_7_projection
 -- name    : RobustSPUA.theorem_7_projection
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:44:13.99704+00:00
 -- url     : https://prove2.me/theorems/f75cf29d-6a98-41df-b5e3-b7c36ae7c578

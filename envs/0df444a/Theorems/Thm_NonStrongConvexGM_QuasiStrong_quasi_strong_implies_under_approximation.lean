@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonStrongConvexGM_QuasiStrong_quasi_strong_implies_under_approximation
 -- name    : NonStrongConvexGM.QuasiStrong.quasi_strong_implies_under_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:38:10.011384+00:00
 -- url     : https://prove2.me/theorems/359dc9ad-babd-4d68-8d1c-f5bc60f9319d

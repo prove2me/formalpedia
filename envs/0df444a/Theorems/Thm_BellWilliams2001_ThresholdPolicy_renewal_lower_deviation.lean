@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellWilliams2001_ThresholdPolicy_renewal_lower_deviation
 -- name    : BellWilliams2001.ThresholdPolicy.renewal_lower_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:58:05.804345+00:00
 -- url     : https://prove2.me/theorems/f5a8c8d7-012c-4821-be2a-a1edf3c96028

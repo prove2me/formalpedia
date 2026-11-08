@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_fourDimensionalToric_linearEnergyBarrier_theta
 -- name    : QEC.Coding.PeriodicCubical4.fourDimensionalToric_linearEnergyBarrier_theta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:45:15.717551+00:00
 -- url     : https://prove2.me/theorems/4f8bb14e-1439-4b5b-bd96-3cf8a2166d86

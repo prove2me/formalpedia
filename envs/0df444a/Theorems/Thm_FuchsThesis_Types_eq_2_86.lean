@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Types_eq_2_86
 -- name    : FuchsThesis.Types.eq_2_86
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:20:59.575524+00:00
 -- url     : https://prove2.me/theorems/5dd03acc-2ed5-404d-8759-19a85555c6d8

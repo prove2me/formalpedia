@@ -1,0 +1,266 @@
+-- Prove2me | solution 1 for QEC.Coding.TannerLiftedProduct.sum_lpsReducedWord_tail_add_two
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-07T10:45:59.512216+00:00
+-- url     : https://prove2.me/submissions/efb262b6-035d-408d-bccc-5f0b52ed1bb4
+
+import Definitions.Def_QEC_Coding_ExpanderCodes_CayleyWordTrace
+import Definitions.Def_QEC_Coding_ExpanderCodes_JacobiFourSquareCount
+import Definitions.Def_QEC_Coding_ExpanderCodes_LPSReducedWords
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_card_lpsReducedSuccessors
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsReducedWordConsEquiv_symm_tail
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_card_lpsReducedWords_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_card_lpsReducedWords_one
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsReducedWordElement_eq_sum
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_cayleyVectorWordProduct_lpsReducedWordPrefixEquiv
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_cayleyVectorWordProduct_lps_backtrack
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsBacktrackingPrefixEquiv_symm_product
+import Theorems.Thm_QEC_Coding_ChainComplexData_pureZLogicalQuotientEquivMiddleHomology_mk
+import Theorems.Thm_QEC_Coding_LiftedProduct_firstRestriction_firstZeroExtension
+import Theorems.Thm_QEC_Coding_LiftedProduct_firstRestriction_secondZeroExtension
+import Theorems.Thm_QEC_Coding_LiftedProduct_secondRestriction_firstZeroExtension
+import Theorems.Thm_QEC_Coding_LiftedProduct_secondRestriction_secondZeroExtension
+import Theorems.Thm_QEC_Coding_ProductExpansion_HammingWeight_neg
+import Theorems.Thm_QEC_Coding_ProductExpansion_column_transpose
+import Theorems.Thm_QEC_Coding_ProductExpansion_row_transpose
+import Theorems.Thm_QEC_Coding_SmallSetExpansion_meanZeroAdjacency_apply_coe
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiCubeProduct_signedEuler_jtpPositiveTerm
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_FormalPowerSeries_qPochhammer_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_succ_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_right
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_succ
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qBinom_zero_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiGeneralCore_qPochhammer_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_cayleyConstantProjection_apply
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_cayleyRightRegularRepresentation_apply
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coe_lpsQuaternionAwayWordProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiFourSquareSeries_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiGeometricSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiLambertTerm
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiSignedCubeSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiSignedCubeSeriesRaw
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiWeightedSquareSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_jacobiWeightedTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_lpsTraceThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalBilateralTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalIntegerThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_coeff_rationalTriangularThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiEulerSixProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiEulerSquareProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiThetaProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_jacobiTriangularProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalBilateralTriangularSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalIntegerThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_constantCoeff_rationalTriangularThetaSeries
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_horizontalNeighbor_horizontalNeighbor
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_integerTriangularRoots_zero
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiLaurentEvalOne_T
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiParityReindex_inl
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiParityReindex_inr
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiPowerSeriesEvalOne_C_T
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_jacobiPowerSeriesEvalOne_X
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsPGLHeckeLabel_eq_toPGL
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuaternionLabel_conj
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuaternionWordProduct_cons
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsQuaternionWordProduct_nil
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsResiduePrimeAt_q
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_norm_lpsQuaternionWordProduct
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_rightDoubleCoverNeighbor_rightDoubleCoverNeighbor
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_sideInverseEquiv_apply
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_sideInverseEquiv_symm_apply
+import Theorems.Thm_QEC_Coding_TannerLiftedProduct_trace_cayleyConstantProjection
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_checkSupport
+import Theorems.Thm_QEC_QLDPC_CheckIncidence_mem_variableSupport
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheckPresentation_blockLength_eq_card
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheckPresentation_incidence_iff_mem_region
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheckPresentation_mem_variableSupport_iff_mem_region
+import Theorems.Thm_QEC_QLDPC_FiniteQuditCheck_globalOperator_eq_extendLocalToRegister
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_checkSupport_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexBoundaryIncidence_incident_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_eq_checkSupport
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_support_inr
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inl
+import Theorems.Thm_QEC_QLDPC_chainComplexCSSRowCheck_weight_inr
+import Theorems.Thm_QEC_QLDPC_mem_chainComplexCSSRowChecks
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_OperatorMatrix_matrixUnit_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_comp_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_id_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_additionalRetainedFactorSwap_apply_tmul
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_replacementFactorizedKraus_operator
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_cptp_toLinearMap
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_mapDensity_toOperator
+attribute [local simp] QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk
+attribute [local simp] QEC.Coding.LiftedProduct.firstRestriction_firstZeroExtension
+attribute [local simp] QEC.Coding.LiftedProduct.firstRestriction_secondZeroExtension
+attribute [local simp] QEC.Coding.LiftedProduct.secondRestriction_firstZeroExtension
+attribute [local simp] QEC.Coding.LiftedProduct.secondRestriction_secondZeroExtension
+attribute [local simp] QEC.Coding.ProductExpansion.HammingWeight_neg
+attribute [local simp] QEC.Coding.ProductExpansion.column_transpose
+attribute [local simp] QEC.Coding.ProductExpansion.row_transpose
+attribute [local simp] QEC.Coding.SmallSetExpansion.meanZeroAdjacency_apply_coe
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiCubeProduct.signedEuler_jtpPositiveTerm
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.FormalPowerSeries.qPochhammer_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_succ_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_right
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_succ
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qBinom_zero_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.JacobiGeneralCore.qPochhammer_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.cayleyConstantProjection_apply
+attribute [local simp] QEC.Coding.TannerLiftedProduct.cayleyRightRegularRepresentation_apply
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coe_lpsQuaternionAwayWordProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiFourSquareSeries_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiGeometricSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiLambertTerm
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiSignedCubeSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiSignedCubeSeriesRaw
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedSquareSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_lpsTraceThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalBilateralTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalIntegerThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.coeff_rationalTriangularThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiEulerSixProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiEulerSquareProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiThetaProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_jacobiTriangularProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalBilateralTriangularSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalIntegerThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.constantCoeff_rationalTriangularThetaSeries
+attribute [local simp] QEC.Coding.TannerLiftedProduct.horizontalNeighbor_horizontalNeighbor
+attribute [local simp] QEC.Coding.TannerLiftedProduct.integerTriangularRoots_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiLaurentEvalOne_T
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiParityReindex_inl
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiParityReindex_inr
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiPowerSeriesEvalOne_C_T
+attribute [local simp] QEC.Coding.TannerLiftedProduct.jacobiPowerSeriesEvalOne_X
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsPGLHeckeLabel_eq_toPGL
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsQuaternionLabel_conj
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsQuaternionWordProduct_cons
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsQuaternionWordProduct_nil
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsResiduePrimeAt_q
+attribute [local simp] QEC.Coding.TannerLiftedProduct.norm_lpsQuaternionWordProduct
+attribute [local simp] QEC.Coding.TannerLiftedProduct.rightDoubleCoverNeighbor_rightDoubleCoverNeighbor
+attribute [local simp] QEC.Coding.TannerLiftedProduct.sideInverseEquiv_apply
+attribute [local simp] QEC.Coding.TannerLiftedProduct.sideInverseEquiv_symm_apply
+attribute [local simp] QEC.Coding.TannerLiftedProduct.trace_cayleyConstantProjection
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_checkSupport
+attribute [local simp] QEC.QLDPC.CheckIncidence.mem_variableSupport
+attribute [local simp] QEC.QLDPC.FiniteQuditCheck.globalOperator_eq_extendLocalToRegister
+attribute [local simp] QEC.QLDPC.FiniteQuditCheckPresentation.blockLength_eq_card
+attribute [local simp] QEC.QLDPC.FiniteQuditCheckPresentation.incidence_iff_mem_region
+attribute [local simp] QEC.QLDPC.FiniteQuditCheckPresentation.mem_variableSupport_iff_mem_region
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_checkSupport_inr
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inl
+attribute [local simp] QEC.QLDPC.chainComplexBoundaryIncidence_incident_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_eq_checkSupport
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_support_inr
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inl
+attribute [local simp] QEC.QLDPC.chainComplexCSSRowCheck_weight_inr
+attribute [local simp] QEC.QLDPC.mem_chainComplexCSSRowChecks
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.OperatorMatrix.matrixUnit_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.comp_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.id_apply
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.QuditSubsystem.additionalRetainedFactorSwap_apply_tmul
+attribute [local simp] QEC.Semantics.QuditSubsystem.replacementFactorizedKraus_operator
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_cptp_toLinearMap
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_mapDensity_toOperator
+
+
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsReducedWordConsEquiv_symm_tail
+attribute [local simp] QEC.Coding.TannerLiftedProduct.card_lpsReducedWords_zero
+attribute [local simp] QEC.Coding.TannerLiftedProduct.card_lpsReducedWords_one
+attribute [local simp] QEC.Coding.TannerLiftedProduct.cayleyVectorWordProduct_lpsReducedWordPrefixEquiv
+attribute [local simp] QEC.Coding.TannerLiftedProduct.cayleyVectorWordProduct_lps_backtrack
+attribute [local simp] QEC.Coding.TannerLiftedProduct.lpsBacktrackingPrefixEquiv_symm_product
+
+set_option autoImplicit false
+open scoped MatrixGroups
+open QEC QEC.Coding QEC.Coding.TannerLiftedProduct
+variable {p : ℕ}
+namespace QEC.Coding.TannerLiftedProduct
+theorem _root_.solution
+    (a : LPSResiduePrime p) (n : ℕ) :
+    (∑ word : LPSReducedWord a.degreePrime.pos (n + 2),
+      MonoidAlgebra.single
+        (cayleyVectorWordProduct (lpsQuaternionLabel a) word.1.tail) (1 : ℂ)) =
+      p • lpsReducedWordElement a (n + 1) := by
+  classical
+  rw [lpsReducedWordElement_eq_sum]
+  let e := lpsReducedWordConsEquiv a.degreePrime n
+  let sigmaEquiv := Equiv.subtypeProdEquivSigmaSubtype fun
+    (tail : LPSReducedWord a.degreePrime.pos (n + 1))
+    (t : LPSGeneratorIndex p) =>
+      t ∈ lpsReducedSuccessors a.degreePrime.pos tail.1.head
+  calc
+    (∑ word : LPSReducedWord a.degreePrime.pos (n + 2),
+        MonoidAlgebra.single
+          (cayleyVectorWordProduct (lpsQuaternionLabel a) word.1.tail) (1 : ℂ)) =
+        ∑ pair,
+          MonoidAlgebra.single
+            (cayleyVectorWordProduct (lpsQuaternionLabel a)
+              ((e.symm pair).1.tail)) (1 : ℂ) := by
+                exact (Equiv.sum_comp e.symm _).symm
+    _ = ∑ pair : {pair :
+          LPSReducedWord a.degreePrime.pos (n + 1) × LPSGeneratorIndex p //
+          pair.2 ∈ lpsReducedSuccessors
+            a.degreePrime.pos pair.1.1.head},
+          MonoidAlgebra.single
+            (cayleyVectorWordProduct (lpsQuaternionLabel a) pair.1.1.1) (1 : ℂ) := by
+              apply Finset.sum_congr rfl
+              intro pair _hpair
+              rw [show e = lpsReducedWordConsEquiv a.degreePrime n by rfl,
+                lpsReducedWordConsEquiv_symm_tail]
+    _ = ∑ pair : Σ tail : LPSReducedWord a.degreePrime.pos (n + 1),
+          {t // t ∈ lpsReducedSuccessors
+            a.degreePrime.pos tail.1.head},
+          MonoidAlgebra.single
+            (cayleyVectorWordProduct (lpsQuaternionLabel a) pair.1.1) (1 : ℂ) := by
+              change (∑ x, MonoidAlgebra.single
+                  (cayleyVectorWordProduct (lpsQuaternionLabel a)
+                    (sigmaEquiv x).1.1) (1 : ℂ)) = _
+              exact Equiv.sum_comp sigmaEquiv
+                (fun pair : Σ tail : LPSReducedWord
+                    a.degreePrime.pos (n + 1),
+                    {t // t ∈ lpsReducedSuccessors
+                      a.degreePrime.pos tail.1.head} =>
+                  MonoidAlgebra.single
+                    (cayleyVectorWordProduct
+                      (lpsQuaternionLabel a) pair.1.1) (1 : ℂ))
+    _ = ∑ tail : LPSReducedWord a.degreePrime.pos (n + 1),
+          ∑ _t : {t // t ∈ lpsReducedSuccessors
+            a.degreePrime.pos tail.1.head},
+            MonoidAlgebra.single
+              (cayleyVectorWordProduct (lpsQuaternionLabel a) tail.1) (1 : ℂ) := by
+                rw [Fintype.sum_sigma]
+    _ = p • ∑ tail : LPSReducedWord a.degreePrime.pos (n + 1),
+          MonoidAlgebra.single
+            (cayleyVectorWordProduct (lpsQuaternionLabel a) tail.1) (1 : ℂ) := by
+              have hcard (tail : LPSReducedWord
+                  a.degreePrime.pos (n + 1)) :
+                  Fintype.card {t // t ∈ lpsReducedSuccessors
+                    a.degreePrime.pos tail.1.head} = p := by
+                simpa only [Fintype.card_coe] using
+                  card_lpsReducedSuccessors
+                    a.degreePrime a.degreeModFour tail.1.head
+              rw [Finset.smul_sum]
+              apply Finset.sum_congr rfl
+              intro tail _htail
+              rw [Finset.sum_const, Finset.card_univ, hcard tail]
+end QEC.Coding.TannerLiftedProduct

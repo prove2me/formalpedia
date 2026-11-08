@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_backlog_nonneg_antitone
 -- name    : RoslingAssembly.backlog_nonneg_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T04:00:30.800969+00:00
 -- url     : https://prove2.me/theorems/4b79affe-bd52-4513-b131-ed9494e0e8e5

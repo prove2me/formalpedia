@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P13_rescaling_range
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P13.rescaling_range
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:58:21.50235+00:00
 -- url     : https://prove2.me/theorems/bf1a8ade-0303-4c86-90ef-a33d9d4f7d7b

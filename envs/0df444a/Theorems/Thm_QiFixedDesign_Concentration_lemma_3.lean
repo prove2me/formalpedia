@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiFixedDesign_Concentration_lemma_3
 -- name    : QiFixedDesign.Concentration.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:59:49.426891+00:00
 -- url     : https://prove2.me/theorems/1d72612c-dee6-429a-9434-566e045f8e17

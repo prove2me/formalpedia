@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_CTMCFoster_lemma_D_9
 -- name    : ProcessingNetworks.CTMCFoster.lemma_D_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:27:25.154717+00:00
 -- url     : https://prove2.me/theorems/b7d7b8af-1563-4d4f-bde9-b0a5521ff9ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxVI_lemma_1
 -- name    : ApproxVI.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:15:10.15899+00:00
 -- url     : https://prove2.me/theorems/5e370337-2f4f-4089-bbf7-6ae73eb17dd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharedControl_approval_prob_eq_one_iff
 -- name    : SharedControl.approval_prob_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:07:32.011697+00:00
 -- url     : https://prove2.me/theorems/b461a710-6fad-4d12-be6b-ad7e00b8913f

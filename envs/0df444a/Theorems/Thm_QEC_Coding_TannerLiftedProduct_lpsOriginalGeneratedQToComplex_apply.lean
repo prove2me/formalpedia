@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGeneratedQToComplex_apply
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGeneratedQToComplex_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T03:59:40.921483+00:00
 -- url     : https://prove2.me/theorems/673b5a8a-aad5-4e05-9e48-86277623b5bf

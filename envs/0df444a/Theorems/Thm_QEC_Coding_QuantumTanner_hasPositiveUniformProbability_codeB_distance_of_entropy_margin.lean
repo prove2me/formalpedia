@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_hasPositiveUniformProbability_codeB_distance_of_entropy_margin
 -- name    : QEC.Coding.QuantumTanner.hasPositiveUniformProbability_codeB_distance_of_entropy_margin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:02:16.971986+00:00
 -- url     : https://prove2.me/theorems/ff43a6a3-a032-4965-ba10-48be34aa19e9

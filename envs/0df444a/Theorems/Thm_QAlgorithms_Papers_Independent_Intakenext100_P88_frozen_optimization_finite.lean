@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P88_frozen_optimization_finite
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P88.frozen_optimization_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:26:16.374137+00:00
 -- url     : https://prove2.me/theorems/dccdf5ed-530d-4c45-bfd8-2f18d0f4a3c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_price_mono
 -- name    : WindowedMatching.price_mono
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:44.406804+00:00
 -- url     : https://prove2.me/theorems/c443304e-bfa5-4478-9da4-8d44186928f4

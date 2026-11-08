@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GibbsCongestion_gibbs_inv_le
 -- name    : GibbsCongestion.gibbs_inv_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:03:15.66098+00:00
 -- url     : https://prove2.me/theorems/cf2aca23-b842-4a09-b30c-cb7be237eff9

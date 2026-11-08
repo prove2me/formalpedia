@@ -80039,8 +80039,8 @@
 {"parent": "CookPvsNP_StackRepresentation", "child": "CookPvsNP_StackCompiler", "via": ["statement"]}
 {"parent": "CookPvsNP_StackSpecification", "child": "CookPvsNP_StackProgram", "via": ["statement"]}
 {"parent": "CookPvsNP_comp_machine", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "CookSensitivity.ChvatalRank.chvatalIter_eq_empty_of_no_integer_point", "child": "CookSensitivity_ChvatalRank_ChvatalClosure", "via": ["statement"]}
-{"parent": "CookSensitivity.ChvatalRank.chvatalIter_eq_empty_of_no_integer_point", "child": "CookSensitivity_ChvatalRank_IntegerProgram", "via": ["statement"]}
+{"parent": "CookSensitivity.ChvatalRank.chvatalIter_eq_empty_of_no_integer_point", "child": "CookSensitivity_ChvatalRank_ChvatalClosure", "via": ["solution", "statement"]}
+{"parent": "CookSensitivity.ChvatalRank.chvatalIter_eq_empty_of_no_integer_point", "child": "CookSensitivity_ChvatalRank_IntegerProgram", "via": ["solution", "statement"]}
 {"parent": "CookSensitivity.ChvatalRank.chvatalIter_subset_halfspace", "child": "CookSensitivity_ChvatalRank_ChvatalClosure", "via": ["solution", "statement"]}
 {"parent": "CookSensitivity.ChvatalRank.chvatalIter_subset_halfspace", "child": "CookSensitivity_ChvatalRank_IntegerProgram", "via": ["solution", "statement"]}
 {"parent": "CookSensitivity.ChvatalRank.chvatalRank_matrix_le", "child": "CookSensitivity_ChvatalRank_ChvatalClosure", "via": ["solution", "statement"]}
@@ -91633,10 +91633,10 @@
 {"parent": "DeltaSpikeSupport_aux", "child": "MellinCalculus_defs", "via": ["solution", "statement"]}
 {"parent": "DeltaSpikeSupport_prime", "child": "DeltaSpikeSupport_aux", "via": ["solution"]}
 {"parent": "DeltaSpikeSupport_prime", "child": "MellinCalculus_defs", "via": ["solution", "statement"]}
-{"parent": "DemandResponse.FirstBest.eqA5_reduction", "child": "DemandResponse_FirstBest_Model", "via": ["statement"]}
+{"parent": "DemandResponse.FirstBest.eqA5_reduction", "child": "DemandResponse_FirstBest_Model", "via": ["solution", "statement"]}
 {"parent": "DemandResponse.FirstBest.prop2_1_best_response", "child": "DemandResponse_FirstBest_Hamiltonian", "via": ["solution", "statement"]}
-{"parent": "DemandResponse.FirstBest.prop3_1_firstBest_value", "child": "DemandResponse_FirstBest_ClosedForm", "via": ["statement"]}
-{"parent": "DemandResponse.FirstBest.prop3_1_firstBest_value", "child": "DemandResponse_FirstBest_Model", "via": ["statement"]}
+{"parent": "DemandResponse.FirstBest.prop3_1_firstBest_value", "child": "DemandResponse_FirstBest_ClosedForm", "via": ["solution", "statement"]}
+{"parent": "DemandResponse.FirstBest.prop3_1_firstBest_value", "child": "DemandResponse_FirstBest_Model", "via": ["solution", "statement"]}
 {"parent": "DemandResponse.FirstBest.propA3_Vbar_closed_form", "child": "DemandResponse_FirstBest_ClosedForm", "via": ["statement"]}
 {"parent": "DemandResponse.FirstBest.propA3_Vbar_closed_form", "child": "DemandResponse_FirstBest_Model", "via": ["statement"]}
 {"parent": "DemandResponse.SecondBest.lemmaA1_F0", "child": "DemandResponse_SecondBest_Hamiltonian", "via": ["solution", "statement"]}
@@ -95947,31 +95947,31 @@
 {"parent": "DuffieHedge.Optimal.ode_13_solution", "child": "DuffieHedge_Optimal_Basic", "via": ["statement"]}
 {"parent": "DuffieHedge.Optimal.proposition_1", "child": "DuffieHedge_Optimal_Basic", "via": ["solution", "statement"]}
 {"parent": "DuffieHedge_Optimal_Basic", "child": "Peng1990_SMP_Stochastic", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_Assumptions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_Multifunction", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.clusterPt_mem_argmin", "child": "DupacovaWets_Consistency_Assumptions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.clusterPt_mem_argmin", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.clusterPt_mem_argmin", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.consistency_of_measurable_estimates", "child": "DupacovaWets_Consistency_Assumptions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.consistency_of_measurable_estimates", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.consistency_of_measurable_estimates", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.epiConverges_inf_argmin", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.exists_measurable_selection", "child": "DupacovaWets_Consistency_Multifunction", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_epiConverges", "child": "DupacovaWets_Consistency_Assumptions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_epiConverges", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_epiConverges", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_Assumptions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_Multifunction", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_proper_lsc", "child": "DupacovaWets_Consistency_Assumptions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_proper_lsc", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.expectFn_proper_lsc", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.limsup_inf_expectFn_le", "child": "DupacovaWets_Consistency_Assumptions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.limsup_inf_expectFn_le", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["statement"]}
-{"parent": "DupacovaWets.Consistency.limsup_inf_expectFn_le", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
+{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_Assumptions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_Multifunction", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.argmin_measurable", "child": "DupacovaWets_Consistency_expect", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.clusterPt_mem_argmin", "child": "DupacovaWets_Consistency_Assumptions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.clusterPt_mem_argmin", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.clusterPt_mem_argmin", "child": "DupacovaWets_Consistency_expect", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.consistency_of_measurable_estimates", "child": "DupacovaWets_Consistency_Assumptions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.consistency_of_measurable_estimates", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.consistency_of_measurable_estimates", "child": "DupacovaWets_Consistency_expect", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.epiConverges_inf_argmin", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.exists_measurable_selection", "child": "DupacovaWets_Consistency_Multifunction", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_epiConverges", "child": "DupacovaWets_Consistency_Assumptions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_epiConverges", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_epiConverges", "child": "DupacovaWets_Consistency_expect", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_Assumptions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_Multifunction", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_epigraph_measurable", "child": "DupacovaWets_Consistency_expect", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_proper_lsc", "child": "DupacovaWets_Consistency_Assumptions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_proper_lsc", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.expectFn_proper_lsc", "child": "DupacovaWets_Consistency_expect", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.limsup_inf_expectFn_le", "child": "DupacovaWets_Consistency_Assumptions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.limsup_inf_expectFn_le", "child": "DupacovaWets_Consistency_ExtendedFunctions", "via": ["solution", "statement"]}
+{"parent": "DupacovaWets.Consistency.limsup_inf_expectFn_le", "child": "DupacovaWets_Consistency_expect", "via": ["solution", "statement"]}
 {"parent": "DupacovaWets_Consistency_Assumptions", "child": "DupacovaWets_Consistency_expect", "via": ["statement"]}
 {"parent": "DurmusULA.StrongLC.eq_56", "child": "DurmusULA_StrongLC_Model", "via": ["statement"]}
 {"parent": "DurmusULA.StrongLC.lemma_1", "child": "DurmusULA_StrongLC_Model", "via": ["statement"]}

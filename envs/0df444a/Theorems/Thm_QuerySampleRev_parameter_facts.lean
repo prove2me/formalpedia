@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuerySampleRev_parameter_facts
 -- name    : QuerySampleRev.parameter_facts
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:36:14.119198+00:00
 -- url     : https://prove2.me/theorems/4d8e518a-7a3a-4ba8-9482-12567d8a0284

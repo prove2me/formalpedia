@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvMarketMaking_LOB_proposition_6_7
 -- name    : InvMarketMaking.LOB.proposition_6_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:21:12.086171+00:00
 -- url     : https://prove2.me/theorems/bc14d916-55a1-4cf7-ac56-72d4b9ec3ea8

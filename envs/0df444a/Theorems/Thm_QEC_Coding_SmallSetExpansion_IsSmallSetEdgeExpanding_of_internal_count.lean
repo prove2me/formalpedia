@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_SmallSetExpansion_IsSmallSetEdgeExpanding_of_internal_count
 -- name    : QEC.Coding.SmallSetExpansion.IsSmallSetEdgeExpanding.of_internal_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:45:38.338206+00:00
 -- url     : https://prove2.me/theorems/23dd22bc-1097-44bf-8813-dd4951d45ec2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsGamma0_product_le
 -- name    : QEC.Coding.TannerLiftedProduct.lpsGamma0_product_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:30:08.516633+00:00
 -- url     : https://prove2.me/theorems/525834ac-2f81-497d-bdff-15ae059cc6e5

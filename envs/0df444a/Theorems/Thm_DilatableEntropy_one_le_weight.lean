@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilatableEntropy_one_le_weight
 -- name    : DilatableEntropy.one_le_weight
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:54:04.320221+00:00
 -- url     : https://prove2.me/theorems/e271c2a9-6579-4cb6-b220-c0a32fa41bbc

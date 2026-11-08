@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P39_quality_advantage
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P39.quality_advantage
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T09:45:45.275221+00:00
 -- url     : https://prove2.me/theorems/fbb01ad0-9127-460e-9435-ef21453b2d75

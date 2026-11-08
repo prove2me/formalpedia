@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_JacobiCubeProduct_jacobiSignedCubeSeries_sq_eq_jacobiEulerSixProduct
 -- name    : QEC.Coding.TannerLiftedProduct.JacobiCubeProduct.jacobiSignedCubeSeries_sq_eq_jacobiEulerSixProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T22:36:15.168028+00:00
 -- url     : https://prove2.me/theorems/a0c3180c-3be5-4522-9be3-baf409dc8ec1

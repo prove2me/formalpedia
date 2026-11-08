@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PathCompact_lemma_A_10_pointwise
 -- name    : ProcessingNetworks.PathCompact.lemma_A_10_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:00.127331+00:00
 -- url     : https://prove2.me/theorems/d140332b-8a7e-4080-95c5-2023cbda3db1

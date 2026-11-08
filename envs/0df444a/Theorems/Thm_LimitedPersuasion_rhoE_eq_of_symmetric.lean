@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedPersuasion_rhoE_eq_of_symmetric
 -- name    : LimitedPersuasion.rhoE_eq_of_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:24:55.519877+00:00
 -- url     : https://prove2.me/theorems/063dd4e0-2c4e-43f3-9129-e6c683b3c801

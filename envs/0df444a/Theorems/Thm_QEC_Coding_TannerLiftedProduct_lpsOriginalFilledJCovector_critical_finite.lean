@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledJCovector_critical_finite
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledJCovector_critical_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:10:34.984739+00:00
 -- url     : https://prove2.me/theorems/d94db8a0-cc38-483d-a1de-48d254865094

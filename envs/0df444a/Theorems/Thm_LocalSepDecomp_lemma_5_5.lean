@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSepDecomp_lemma_5_5
 -- name    : LocalSepDecomp.lemma_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:44:00.355914+00:00
 -- url     : https://prove2.me/theorems/83a509f9-4505-4929-a24a-54ef0aeade47

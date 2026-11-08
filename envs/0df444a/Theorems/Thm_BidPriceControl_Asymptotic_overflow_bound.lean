@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BidPriceControl_Asymptotic_overflow_bound
 -- name    : BidPriceControl.Asymptotic.overflow_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T11:39:22.549735+00:00
 -- url     : https://prove2.me/theorems/19137bfa-183e-444e-a8e1-01cf3b09d6e5

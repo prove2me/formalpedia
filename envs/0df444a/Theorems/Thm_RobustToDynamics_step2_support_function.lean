@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustToDynamics_step2_support_function
 -- name    : RobustToDynamics.step2_support_function
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:37:13.756337+00:00
 -- url     : https://prove2.me/theorems/663fe182-54bb-4009-92a3-a9a34f82ce08

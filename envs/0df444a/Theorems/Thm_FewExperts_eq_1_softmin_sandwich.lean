@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FewExperts_eq_1_softmin_sandwich
 -- name    : FewExperts.eq_1_softmin_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:53:06.916491+00:00
 -- url     : https://prove2.me/theorems/fffcdd46-d90a-4c55-9ee7-b7f894d1421f

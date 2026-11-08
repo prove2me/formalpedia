@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannCunningham_mdp_lower_bound
 -- name    : FriedmannCunningham.mdp_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T05:12:29.099347+00:00
 -- url     : https://prove2.me/theorems/d514b4de-fa8b-407f-b865-8cbd4211383b

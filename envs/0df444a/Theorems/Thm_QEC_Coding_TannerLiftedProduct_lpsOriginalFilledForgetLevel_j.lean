@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalFilledForgetLevel_j
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalFilledForgetLevel_j
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:30:33.704987+00:00
 -- url     : https://prove2.me/theorems/c433d9d1-755c-4fb6-98f0-66a58a0b2468

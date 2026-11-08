@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetMatchingEFGT_xopt_mem_FM
 -- name    : ProphetMatchingEFGT.xopt_mem_FM
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:51:32.58722+00:00
 -- url     : https://prove2.me/theorems/98c1212c-8764-4cd9-af92-290792c5120e

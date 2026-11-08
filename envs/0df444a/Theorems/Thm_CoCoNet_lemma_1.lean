@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoCoNet_lemma_1
 -- name    : CoCoNet.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:28:05.258276+00:00
 -- url     : https://prove2.me/theorems/a5aa3e7c-f410-4b7a-977b-02a1960786eb

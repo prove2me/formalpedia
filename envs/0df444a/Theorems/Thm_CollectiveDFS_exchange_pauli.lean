@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollectiveDFS_exchange_pauli
 -- name    : CollectiveDFS.exchange_pauli
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:02:17.718751+00:00
 -- url     : https://prove2.me/theorems/c07f33fb-830f-422f-9446-67918380c16d

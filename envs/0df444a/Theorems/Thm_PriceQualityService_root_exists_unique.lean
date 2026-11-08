@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_root_exists_unique
 -- name    : PriceQualityService.root_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:39:51.085824+00:00
 -- url     : https://prove2.me/theorems/86ccc7cc-6af6-418b-aa38-6f9c7b3bca2a

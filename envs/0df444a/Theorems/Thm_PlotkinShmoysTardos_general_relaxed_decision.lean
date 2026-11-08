@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlotkinShmoysTardos_general_relaxed_decision
 -- name    : PlotkinShmoysTardos.general_relaxed_decision
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:56:06.232426+00:00
 -- url     : https://prove2.me/theorems/e732ad0a-d4e5-4b57-8a21-44e5f8e9d5b6

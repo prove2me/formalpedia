@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P43_right_g_spaces_form_category
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P43.right_g_spaces_form_category
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:50:08.113998+00:00
 -- url     : https://prove2.me/theorems/897b5e34-af43-40af-9864-af2ecf02ad95

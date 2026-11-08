@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_total_lead_pred_ge
 -- name    : RoslingAssembly.total_lead_pred_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:44:30.752388+00:00
 -- url     : https://prove2.me/theorems/6a0b876d-e30d-4885-b656-fcf0b5314636

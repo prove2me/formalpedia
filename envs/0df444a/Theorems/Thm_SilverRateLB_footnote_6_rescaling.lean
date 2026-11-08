@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SilverRateLB_footnote_6_rescaling
 -- name    : SilverRateLB.footnote_6_rescaling
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:21:53.452034+00:00
 -- url     : https://prove2.me/theorems/c5289a4a-e61e-4967-a13d-7edd7cb77d5c

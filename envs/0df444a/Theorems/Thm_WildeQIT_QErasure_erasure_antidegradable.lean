@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_QErasure_erasure_antidegradable
 -- name    : WildeQIT.QErasure.erasure_antidegradable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:38:13.583999+00:00
 -- url     : https://prove2.me/theorems/82bb73b5-5e75-495c-a0bc-84eadc5da3b8

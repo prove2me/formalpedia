@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsIntegralCuspHecke_exists_monic_annihilator
 -- name    : QEC.Coding.TannerLiftedProduct.lpsIntegralCuspHecke_exists_monic_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:36:25.550799+00:00
 -- url     : https://prove2.me/theorems/3b4a5ff4-d857-4337-9ad8-dc15d01d7439

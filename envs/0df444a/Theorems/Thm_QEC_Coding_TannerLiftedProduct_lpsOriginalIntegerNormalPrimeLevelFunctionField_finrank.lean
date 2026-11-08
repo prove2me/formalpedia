@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerNormalPrimeLevelFunctionField_finrank
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalPrimeLevelFunctionField_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:16:03.311711+00:00
 -- url     : https://prove2.me/theorems/1624fdee-6a98-41e3-9106-c5e95690df7f

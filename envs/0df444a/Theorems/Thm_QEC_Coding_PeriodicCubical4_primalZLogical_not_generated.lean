@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalZLogical_not_generated
 -- name    : QEC.Coding.PeriodicCubical4.primalZLogical_not_generated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:45:52.260207+00:00
 -- url     : https://prove2.me/theorems/56bd2975-04b4-4621-8a25-fb32a9ebcd1d

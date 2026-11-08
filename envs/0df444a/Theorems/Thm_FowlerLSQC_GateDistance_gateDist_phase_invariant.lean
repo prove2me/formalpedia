@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FowlerLSQC_GateDistance_gateDist_phase_invariant
 -- name    : FowlerLSQC.GateDistance.gateDist_phase_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:37:07.658568+00:00
 -- url     : https://prove2.me/theorems/3b596828-b15c-4e2c-b163-b3b148eda277

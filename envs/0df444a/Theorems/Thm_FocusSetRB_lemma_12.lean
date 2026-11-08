@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FocusSetRB_lemma_12
 -- name    : FocusSetRB.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:17:02.114562+00:00
 -- url     : https://prove2.me/theorems/730d66b7-edff-43e6-9906-f339b415f43c

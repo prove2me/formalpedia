@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BasketMVMNL_eq_EC_5
 -- name    : BasketMVMNL.eq_EC_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T10:31:43.222544+00:00
 -- url     : https://prove2.me/theorems/43cb7a17-aae0-4a9e-88a7-fd6f8b7ba955

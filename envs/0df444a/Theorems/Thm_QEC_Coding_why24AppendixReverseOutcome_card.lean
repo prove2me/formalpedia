@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_why24AppendixReverseOutcome_card
 -- name    : QEC.Coding.why24AppendixReverseOutcome_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:41:35.721405+00:00
 -- url     : https://prove2.me/theorems/16686558-141b-44a0-bf28-e6ba8aee38af

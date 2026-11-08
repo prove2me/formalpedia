@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicBlackwell_lemma_3_2_statement_5
 -- name    : ConicBlackwell.lemma_3_2_statement_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:42:34.620264+00:00
 -- url     : https://prove2.me/theorems/93e0951b-05e8-41bf-89e3-0bc9efecd787

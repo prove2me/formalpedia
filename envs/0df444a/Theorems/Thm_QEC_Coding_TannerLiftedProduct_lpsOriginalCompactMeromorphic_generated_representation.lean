@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCompactMeromorphic_generated_representation
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCompactMeromorphic_generated_representation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:11:52.598198+00:00
 -- url     : https://prove2.me/theorems/e6617aa4-0da5-41ab-81fd-5487f02d73d5

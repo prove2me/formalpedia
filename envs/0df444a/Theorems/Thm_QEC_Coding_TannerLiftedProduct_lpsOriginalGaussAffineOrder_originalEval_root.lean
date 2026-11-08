@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGaussAffineOrder_originalEval_root
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGaussAffineOrder_originalEval_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:15:56.5999+00:00
 -- url     : https://prove2.me/theorems/8e9dffe1-31ec-4c75-b36a-231b745dfcdd

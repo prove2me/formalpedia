@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_prime_residue_coordinate_polynomial_irreducible
 -- name    : QEC.Coding.AlgebraicGeometry.prime_residue_coordinate_polynomial_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:47:08.279093+00:00
 -- url     : https://prove2.me/theorems/7aabeb57-a986-4c75-b91b-7ab5c80f6879

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnillLaflammeQEC_isKrausFamily_of_projections
 -- name    : KnillLaflammeQEC.isKrausFamily_of_projections
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:18.058177+00:00
 -- url     : https://prove2.me/theorems/dfe66062-25ac-4467-a95b-9c9221406c6c

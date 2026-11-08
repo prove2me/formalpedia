@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentSufficient_regret_log_upper_bound
 -- name    : KeskinZeevi.IncumbentSufficient.regret_log_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:46:19.713868+00:00
 -- url     : https://prove2.me/theorems/b3e98738-dc1f-4eb5-9ea4-c43841573884

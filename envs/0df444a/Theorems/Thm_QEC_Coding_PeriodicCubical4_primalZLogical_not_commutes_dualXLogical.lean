@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_PeriodicCubical4_primalZLogical_not_commutes_dualXLogical
 -- name    : QEC.Coding.PeriodicCubical4.primalZLogical_not_commutes_dualXLogical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:49:20.852507+00:00
 -- url     : https://prove2.me/theorems/cf91b03d-dc38-498a-81ac-eaddf935aac2

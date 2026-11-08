@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FDivToolkit_display_11
 -- name    : FDivToolkit.display_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:22:11.367509+00:00
 -- url     : https://prove2.me/theorems/061f9c84-b221-46a6-95e7-f6a85162d1fe

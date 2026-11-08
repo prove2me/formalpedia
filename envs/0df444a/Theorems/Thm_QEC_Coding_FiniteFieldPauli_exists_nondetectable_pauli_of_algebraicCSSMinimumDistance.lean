@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FiniteFieldPauli_exists_nondetectable_pauli_of_algebraicCSSMinimumDistance
 -- name    : QEC.Coding.FiniteFieldPauli.exists_nondetectable_pauli_of_algebraicCSSMinimumDistance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T05:49:39.251807+00:00
 -- url     : https://prove2.me/theorems/f8b62c6b-3cb6-43a8-96a0-2e3efde9e2f1

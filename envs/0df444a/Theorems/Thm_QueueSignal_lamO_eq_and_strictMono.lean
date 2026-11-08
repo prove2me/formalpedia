@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueSignal_lamO_eq_and_strictMono
 -- name    : QueueSignal.lamO_eq_and_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:41.849709+00:00
 -- url     : https://prove2.me/theorems/459b5132-9a7a-4b59-8790-ce937986066e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataValidation_claim_7
 -- name    : DataValidation.claim_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:46:54.486195+00:00
 -- url     : https://prove2.me/theorems/151f9fb8-81da-4e95-8505-ffaff569d054

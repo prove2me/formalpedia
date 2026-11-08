@@ -1,0 +1,48 @@
+-- Prove2me | Definitions.Def_QEC_Coding_FiberBundle
+-- name    : QEC_Coding_FiberBundle
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-07T14:38:42.833687+00:00
+-- url     : https://prove2.me/theorems/7044dafe-5a19-4031-ae0b-ba514de0194a
+-- title:
+--   Fiber Bundle
+-- statement:
+--   Definitions and structural lemmas for Fiber Bundle, from The Lean-QECert contributors's pinned Lean-QECert development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/FiberBundle.lean
+
+import Definitions.Def_QEC_Coding_FiberBundle_ClassicalLDPCBalance
+import Definitions.Def_QEC_Coding_FiberBundle_CohomologyDistance
+import Definitions.Def_QEC_Coding_FiberBundle_CohomologyRepresentatives
+import Definitions.Def_QEC_Coding_FiberBundle_Core
+import Definitions.Def_QEC_Coding_FiberBundle_Distance
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_Asymptotics
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_CohomologyDimension
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_DistanceBalancing
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_DistanceBalancingLocality
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_HomologyDimension
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_InitialCode
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_InitialLocality
+import Definitions.Def_QEC_Coding_FiberBundle_ExplicitFamily_Parameters
+import Definitions.Def_QEC_Coding_FiberBundle_HomologyRepresentatives
+import Definitions.Def_QEC_Coding_FiberBundle_PartitionedChecksProbability
+import Definitions.Def_QEC_Coding_FiberBundle_RandomBase
+import Definitions.Def_QEC_Coding_FiberBundle_RandomBase_Distance
+import Definitions.Def_QEC_Coding_FiberBundle_RandomBase_Expansion
+import Definitions.Def_QEC_Coding_FiberBundle_RandomBase_ExpansionProbability
+import Definitions.Def_QEC_Coding_FiberBundle_RandomBase_Rank
+import Definitions.Def_QEC_Coding_FiberBundle_RandomTwist
+import Definitions.Def_QEC_Coding_FiberBundle_TwistGraph
+import Definitions.Def_QEC_Coding_FiberBundle_TwistGraphFourier
+import Definitions.Def_QEC_Coding_FiberBundle_TwistGraphLTC
+import Definitions.Def_QEC_Coding_FiberBundle_TwistGraphMixing
+import Definitions.Def_QEC_Coding_FiberBundle_TwistGraphOperator
+import Definitions.Def_QEC_Coding_FiberBundle_TwistGraphSpectral
+import Definitions.Def_QEC_Coding_FiberBundle_TwistGraphSpectrumProbability
+import Definitions.Def_QEC_Coding_FiberBundle_WeightReduction
+import Definitions.Def_QEC_Coding_FiberBundle_WeightReductionDistance
+import Definitions.Def_QEC_Coding_FiberBundle_WeightReductionParameters
+set_option autoImplicit false
+
+

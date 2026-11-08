@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedLocalSearch_eq_8_threshold
 -- name    : CorrelatedLocalSearch.eq_8_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:38:19.636959+00:00
 -- url     : https://prove2.me/theorems/2a6843df-d0c8-4538-ab56-5e1af2f3a35f

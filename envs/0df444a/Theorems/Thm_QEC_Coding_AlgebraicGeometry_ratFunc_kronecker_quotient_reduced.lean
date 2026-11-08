@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_AlgebraicGeometry_ratFunc_kronecker_quotient_reduced
 -- name    : QEC.Coding.AlgebraicGeometry.ratFunc_kronecker_quotient_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:47:09.302425+00:00
 -- url     : https://prove2.me/theorems/2f979ffc-5399-4aba-8872-d3aef4221756

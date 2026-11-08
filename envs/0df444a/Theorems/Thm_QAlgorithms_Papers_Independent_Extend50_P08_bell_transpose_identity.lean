@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P08_bell_transpose_identity
 -- name    : QAlgorithms.Papers.Independent.Extend50.P08.bell_transpose_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T19:31:42.567147+00:00
 -- url     : https://prove2.me/theorems/f8d9ee59-1b55-4a44-a3c8-442d815d3c67

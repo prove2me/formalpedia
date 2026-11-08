@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_LPSQuaternion_conj_mul
 -- name    : QEC.Coding.TannerLiftedProduct.LPSQuaternion.conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:47:45.194253+00:00
 -- url     : https://prove2.me/theorems/02aed095-c0df-4c8e-be5e-58103b400aa5

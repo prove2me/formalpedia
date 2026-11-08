@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IndefPOMFG_lemma_4_8
 -- name    : IndefPOMFG.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:13:59.264354+00:00
 -- url     : https://prove2.me/theorems/5c059c03-856b-479e-8b13-a519275c889f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bv_jump8_source_cutoff_laplace_future_stationary
 -- name    : AvramDividend.Classical.avram_bv_jump8_source_cutoff_laplace_future_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T17:30:36.503062+00:00
 -- url     : https://prove2.me/theorems/b64275e2-302f-43a1-921b-fee8f79ee4ed

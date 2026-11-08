@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_lz22AdmissibleDegree_two_le
 -- name    : QEC.Coding.QuantumTanner.lz22AdmissibleDegree_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:00:55.275752+00:00
 -- url     : https://prove2.me/theorems/6bbe94f0-acf3-4e1f-bc20-3adb65d211e5

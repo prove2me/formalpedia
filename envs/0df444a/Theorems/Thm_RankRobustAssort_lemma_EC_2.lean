@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankRobustAssort_lemma_EC_2
 -- name    : RankRobustAssort.lemma_EC_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:28:36.666292+00:00
 -- url     : https://prove2.me/theorems/4875ba78-89b6-4c2c-bf28-719a7576ad9c

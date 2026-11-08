@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalGaussAffineOrder_specialFiber_nontrivial
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalGaussAffineOrder_specialFiber_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T04:33:20.091673+00:00
 -- url     : https://prove2.me/theorems/8c595c9d-62c6-4de5-a8ef-9190fb47a559

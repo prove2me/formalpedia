@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P95_unrestrictedTwoSidedInversion
 -- name    : QAlgorithms.Papers.Independent.Intake100.P95.unrestrictedTwoSidedInversion
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:59:36.668111+00:00
 -- url     : https://prove2.me/theorems/eae0786a-bcf1-4ef9-832f-ce8d40abdc2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelLotteries_gamma_eq_f
 -- name    : ParallelLotteries.gamma_eq_f
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:36:59.94857+00:00
 -- url     : https://prove2.me/theorems/65c62deb-60ba-4cff-9a6a-16261a384d94

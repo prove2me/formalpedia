@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceScalability_hasDerivAt_pi
 -- name    : MarketplaceScalability.hasDerivAt_pi
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:51:26.784357+00:00
 -- url     : https://prove2.me/theorems/e345babc-eea3-40f9-836f-bbfeede29a73

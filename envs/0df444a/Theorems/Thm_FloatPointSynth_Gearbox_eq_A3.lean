@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FloatPointSynth_Gearbox_eq_A3
 -- name    : FloatPointSynth.Gearbox.eq_A3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T04:00:24.376026+00:00
 -- url     : https://prove2.me/theorems/907c34a4-d005-41a3-b5d0-7c085bfa0a79

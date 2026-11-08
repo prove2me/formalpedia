@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCosetCuspNumerator_taylor
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCosetCuspNumerator_taylor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:42:48.382197+00:00
 -- url     : https://prove2.me/theorems/114f3d2f-535d-4023-93a9-af90b093b409

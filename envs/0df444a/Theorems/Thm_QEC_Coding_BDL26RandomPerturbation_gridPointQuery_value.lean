@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_gridPointQuery_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.gridPointQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:57:25.986142+00:00
 -- url     : https://prove2.me/theorems/5238b914-90fa-4518-9fab-5c3247a19192

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMultiStop_c5_c6
 -- name    : RobustMultiStop.c5_c6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:30:24.135487+00:00
 -- url     : https://prove2.me/theorems/d7839902-05b9-4a95-a5f8-8184917b8312

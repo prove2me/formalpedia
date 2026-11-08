@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Relax_omega_value_M_infty
 -- name    : L0BnB.Relax.omega_value_M_infty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:48:03.313927+00:00
 -- url     : https://prove2.me/theorems/6448323b-c614-4fca-bcc8-d8078c15b70a

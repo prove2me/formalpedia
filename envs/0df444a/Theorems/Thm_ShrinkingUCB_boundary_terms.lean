@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShrinkingUCB_boundary_terms
 -- name    : ShrinkingUCB.boundary_terms
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:20:25.880894+00:00
 -- url     : https://prove2.me/theorems/85e4f3dc-2fe2-4099-829a-d71b13dd15b7

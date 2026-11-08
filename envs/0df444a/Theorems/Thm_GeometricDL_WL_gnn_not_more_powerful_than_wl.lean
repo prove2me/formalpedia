@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometricDL_WL_gnn_not_more_powerful_than_wl
 -- name    : GeometricDL.WL.gnn_not_more_powerful_than_wl
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:24:46.270388+00:00
 -- url     : https://prove2.me/theorems/60ad3455-49aa-4d1a-a693-71e0c03c9ae6

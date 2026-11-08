@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinZeevi_IncumbentLowerBound_cumulative_pricing_error_lower_bound_linear
 -- name    : KeskinZeevi.IncumbentLowerBound.cumulative_pricing_error_lower_bound_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T14:03:42.861344+00:00
 -- url     : https://prove2.me/theorems/5b741ed1-6378-4d53-8a01-cb37b7ee1c99

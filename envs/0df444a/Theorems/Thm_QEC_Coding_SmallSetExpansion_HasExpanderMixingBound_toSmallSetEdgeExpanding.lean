@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_SmallSetExpansion_HasExpanderMixingBound_toSmallSetEdgeExpanding
 -- name    : QEC.Coding.SmallSetExpansion.HasExpanderMixingBound.toSmallSetEdgeExpanding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T01:45:04.793232+00:00
 -- url     : https://prove2.me/theorems/3e1bd3a4-4dbe-49b3-9a92-1fe60582a50b

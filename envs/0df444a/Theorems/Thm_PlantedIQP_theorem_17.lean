@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlantedIQP_theorem_17
 -- name    : PlantedIQP.theorem_17
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:20:56.167707+00:00
 -- url     : https://prove2.me/theorems/a5ad9bcf-f5bd-44f7-96bc-4118416cd762

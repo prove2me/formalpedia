@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerAffineRing_rank
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerAffineRing_rank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:34:38.252479+00:00
 -- url     : https://prove2.me/theorems/9e1aa84b-e5dd-40d2-9b34-3f7e4ce5f755

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsOriginalCompactMeromorphicField_finrank_eq
 -- name    : QEC.Coding.TannerLiftedProduct.lpsOriginalCompactMeromorphicField_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:09:53.785414+00:00
 -- url     : https://prove2.me/theorems/cab6338e-17aa-4906-9279-a913c95f555a

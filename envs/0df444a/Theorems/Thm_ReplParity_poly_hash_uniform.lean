@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReplParity_poly_hash_uniform
 -- name    : ReplParity.poly_hash_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:42:13.608974+00:00
 -- url     : https://prove2.me/theorems/72bc6fbf-6b8e-4755-a956-fd93dd059823

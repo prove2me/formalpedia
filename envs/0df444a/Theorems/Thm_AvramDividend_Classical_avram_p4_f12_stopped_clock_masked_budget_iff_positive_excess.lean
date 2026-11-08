@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f12_stopped_clock_masked_budget_iff_positive_excess
 -- name    : AvramDividend.Classical.avram_p4_f12_stopped_clock_masked_budget_iff_positive_excess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-07T00:42:44.254903+00:00
 -- url     : https://prove2.me/theorems/d0e86a61-c898-4007-8819-cd4de1b7fa05

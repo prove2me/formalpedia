@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_QuantumTanner_exists_goodLocalCodeSample_of_positive
 -- name    : QEC.Coding.QuantumTanner.exists_goodLocalCodeSample_of_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T02:06:19.884351+00:00
 -- url     : https://prove2.me/theorems/7168df06-7b2a-45f4-9d8c-820e07fdf928

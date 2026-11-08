@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntQuotHNP_lattice_6_basis
 -- name    : IntQuotHNP.lattice_6_basis
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:54:03.865489+00:00
 -- url     : https://prove2.me/theorems/62cb7e64-2f0b-4fa3-9dda-c761f2e74d77

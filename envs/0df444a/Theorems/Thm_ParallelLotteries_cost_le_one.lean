@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelLotteries_cost_le_one
 -- name    : ParallelLotteries.cost_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:36:50.734072+00:00
 -- url     : https://prove2.me/theorems/68bca09e-0372-4a9b-8e5f-2c837127638e
