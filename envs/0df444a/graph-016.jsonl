@@ -11717,10 +11717,10 @@
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_postrightpayment_reserve_closed_cap", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_postrightpayment_reserve_closed_cap", "child": "AvramDividend.Classical.dividendStrategy_le_rightLimit", "via": ["solution", "statement"]}
 {"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterQgTimeIndependentFlow", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterComplexShiftCore", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterSirkSingleTimeShift", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
+{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterComplexShiftCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterSirkSingleTimeShift", "via": ["solution", "statement"]}
+{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.SirkSingleTime.norm_res_neg", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_a_gaussian_original_centred_increment_identdistrib", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_LightMaskErase", "child": "Light.Ends.set", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_LightMaskErase", "child": "Light.Ends.call", "via": ["statement"]}
@@ -16347,10 +16347,10 @@
 {"parent": "ThreeSum.SharedReportingBankCosts.budget_endStatementBigO", "child": "Submission_ThreeSum_LightSwitchCosts", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SharedReportingBankCosts.budget_endStatementBigO", "child": "Submission_ThreeSum_SharedReportingBankCosts", "via": ["solution", "statement"]}
 {"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterQgTimeIndependentFlow", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterComplexShiftCore", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterSirkSingleTimeShift", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
+{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterComplexShiftCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterSirkSingleTimeShift", "via": ["solution", "statement"]}
+{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_b_rate_negative_weighted_exponential_image_support_Icc", "child": "AvramDividend.Classical.avram_p2_b_rate_withDensity_restrict_negative_ae", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_a17d8b98f28df35e", "child": "ThreeSumApsp.WordRam.SolvedInTime.endStatement_w3sum_ac885d1", "via": ["statement"]}
 {"parent": "ThreeSumApsp.flag_mem", "child": "Submission_ThreeSumApsp_Util_Flag", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllPhotonicRepeater_repeaterSuccess_ge_and_expectedPhotons_le
 -- name    : AllPhotonicRepeater.repeaterSuccess_ge_and_expectedPhotons_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:23:59.062572+00:00
 -- url     : https://prove2.me/theorems/bff6246f-80e5-4ae3-be3f-7dc0599cd109

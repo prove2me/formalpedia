@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_phaseBase_contains_g
 -- name    : OAI.SharpPlanar.IntegerBasis.phaseBase_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:31:27.895478+00:00
 -- url     : https://prove2.me/theorems/89ac0f95-2d93-470d-acc7-96653b99e659

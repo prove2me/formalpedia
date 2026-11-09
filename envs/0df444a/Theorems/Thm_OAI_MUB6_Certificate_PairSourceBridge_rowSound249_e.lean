@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_PairSourceBridge_rowSound249_e
 -- name    : OAI.MUB6.Certificate.PairSourceBridge.rowSound249_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T07:39:18.838427+00:00
 -- url     : https://prove2.me/theorems/5438b6c2-8fd3-49da-ac14-3f2a233c48c1

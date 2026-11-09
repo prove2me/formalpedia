@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_extension_of_pairwise_bridge_closure__p2m_596e37ff_bf61_48b7_90c3_a4814329de9c_a1
 -- name    : WilliamsonShmoys.connected_extension_of_pairwise_bridge_closure__p2m_596e37ff_bf61_48b7_90c3_a4814329de9c_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:03:28.562895+00:00
 -- url     : https://prove2.me/theorems/51934198-d634-4c07-af8d-bda44ea7fae9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFiberFL_norm_xCc_sq
 -- name    : BookProof.ScalaronFiberFL.norm_xCc_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:30:21.394092+00:00
 -- url     : https://prove2.me/theorems/42bf48aa-1741-47e1-80f1-f3ae60986b48

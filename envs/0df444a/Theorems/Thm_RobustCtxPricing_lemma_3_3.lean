@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustCtxPricing_lemma_3_3
 -- name    : RobustCtxPricing.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T23:58:11.101059+00:00
 -- url     : https://prove2.me/theorems/6e0b5594-107b-4c93-a7bb-c9be512baaa4

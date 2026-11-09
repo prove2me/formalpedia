@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoRegretLastIterate_claim_3_5
 -- name    : NoRegretLastIterate.claim_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:31:15.669871+00:00
 -- url     : https://prove2.me/theorems/06d5549f-a8a5-49ee-8a29-0c3f1947d9d8

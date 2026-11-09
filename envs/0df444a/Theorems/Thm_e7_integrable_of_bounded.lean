@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_integrable_of_bounded
 -- name    : e7_integrable_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:49.462149+00:00
 -- url     : https://prove2.me/theorems/e0956d27-b072-4853-8603-89aed00c5b4c

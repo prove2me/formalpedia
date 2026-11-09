@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_joint_rectangle_factorization
 -- name    : e7_joint_rectangle_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:05.845407+00:00
 -- url     : https://prove2.me/theorems/ae8f6610-5a7b-4ba5-bc5c-846e00d0447d

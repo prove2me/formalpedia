@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KWSpectrum_Estimator_eq_20
 -- name    : KWSpectrum.Estimator.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:32:55.360687+00:00
 -- url     : https://prove2.me/theorems/d3f1d5f2-5096-44ef-bad1-c435a6daceb8

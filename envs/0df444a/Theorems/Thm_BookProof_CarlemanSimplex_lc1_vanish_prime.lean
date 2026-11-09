@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_lc1_vanish_prime
 -- name    : BookProof.CarlemanSimplex.lc1_vanish_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:48:10.254605+00:00
 -- url     : https://prove2.me/theorems/65b49c71-aade-40dd-b207-b668455b64e3

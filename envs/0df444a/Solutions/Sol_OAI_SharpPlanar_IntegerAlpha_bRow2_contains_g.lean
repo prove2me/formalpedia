@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.IntegerAlpha.bRow2_contains_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:00:17.149118+00:00
 -- url     : https://prove2.me/submissions/425afd42-2b52-4641-8c5e-d41b1c2cd5ec
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G072

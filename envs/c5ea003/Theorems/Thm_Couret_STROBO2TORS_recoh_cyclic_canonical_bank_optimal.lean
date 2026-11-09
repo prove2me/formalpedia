@@ -1,0 +1,94 @@
+-- Prove2me | Theorems.Thm_Couret_STROBO2TORS_recoh_cyclic_canonical_bank_optimal
+-- name    : Couret.STROBO2TORS.recoh_cyclic_canonical_bank_optimal
+-- status  : Proved
+-- author  : @alexcour
+-- created : 2026-11-08T20:53:25.363857+00:00
+-- url     : https://prove2.me/theorems/821419fb-5ebb-4267-90c5-d852a121a917
+-- title:
+--   The canonical cyclic bank has optimal size
+-- statement:
+--   Let $d\ge0$, let $q_i$ be nonzero natural numbers for $i<d$, and set $A=\prod_{i<d}\mathbb Z/q_i$. A primary coordinate for a prime $p$ is an index with $p\mid q_i$. For supports in $A$, write $Q_S$ for ordered-sum counts, $P_\chi(S)=\sum_{x\in S}\chi(x)$, and $\mathcal O_B(S)=(Q_S,(P_{\chi_i}(S))_i)$ for a character bank $B$. Suppose at least one $q_i$ is even and $|A|\ge3$. Put $r=|\{i:2\mid q_i\}|$ and $s=|\{i:3\mid q_i\}|$. The bank combining the canonical two-primary and three-primary banks gives injective observations on three-element supports, and $$k<r+s\Longrightarrow\text{no bank of }k\text{ complex additive characters gives injective observations}.$$
+--
+--   The observations include the full ordered square.
+-- source:
+--   Alexandre Couret, Couret — Additive reconstruction: STROBO-4, singleton collisions and RECOH formal proof artifacts, https://zenodo.org/records/23980513; archive COURET_MATHEMATIQUES_20261105.zip, SHA-256 19a3b59aee930df74cab79c27b29e014843bd17179a26fef1261ed6b5a651ab7; file RECOH/lean/RecohCyclicPrimaryBank.lean, lines 316–342; source file SHA-256 430ca92ba25f4e25a54832978a347c9b3d98aef6735383f4f28b9a4fdaae66a1; theorem Couret.STROBO2TORS.recoh_cyclic_canonical_bank_optimal
+
+import Aesop
+import Definitions.Def_Couret_RecohCyclicPrimaryBank_92b8732c410a
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Module.ZMod
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Multiset.Sort
+import Mathlib.Data.Nat.Factorization.Basic
+import Mathlib.Data.ZMod.Basic
+import Mathlib.FieldTheory.Finiteness
+import Mathlib.GroupTheory.FiniteAbelian.Duality
+import Mathlib.GroupTheory.SpecificGroups.Cyclic
+import Mathlib.LinearAlgebra.Dimension.Constructions
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Dual.Lemmas
+import Mathlib.LinearAlgebra.LinearIndependent.Lemmas
+import Mathlib.RingTheory.RootsOfUnity.Complex
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Choose
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Tauto
+import Theorems.Thm_Couret_STROBO2TORS_recoh_cyclic_primary_observation_injective
+import Theorems.Thm_Couret_STROBO2TORS_recoh_cyclic_product_torsion_card
+import Theorems.Thm_Couret_STROBO2TORS_recoh_no_short_reconstructing_bank
+import Definitions.Def_Couret_RecohOptimalBank_e8b60aaa0883
+import Definitions.Def_Couret_RecohSignRecovery_71a8a4a1ce8a
+import Definitions.Def_Couret_RecohCyclicCoordinates_d669b2caaf1a
+import Mathlib.Data.Multiset.Sort
+import Mathlib.GroupTheory.SpecificGroups.Cyclic
+import Mathlib.RingTheory.RootsOfUnity.Complex
+
+set_option autoImplicit false
+
+/-!
+Coordinate primary characters and executable exponent encodings for finite
+products of cyclic groups. The encoding sorts the multiset of coordinate
+values, so multiplicities are retained and no enumeration of the ambient
+group is used. Complex roots and characters are semantic objects; exponent
+lists and primary-factor data are the inputs used by the exact backend.
+-/
+
+namespace Couret.STROBO2TORS
+
+
+
+
+
+variable {d : ℕ} (q : Fin d → ℕ) [∀ i, NeZero (q i)]
+
+theorem recoh_cyclic_canonical_bank_optimal
+    (heven : ∃ i : Fin d, 2 ∣ q i)
+    (hG3 : 3 ≤ Fintype.card ((i : Fin d) → ZMod (q i))) :
+    Function.Injective
+      (fun S : {S : Finset ((j : Fin d) → ZMod (q j)) // S.card = 3} =>
+        recohObservation (Sum.elim
+          (recohCyclicPrimaryBank q 2 (recohCanonicalPrimaryData q 2))
+          (recohCyclicPrimaryBank q 3 (recohCanonicalPrimaryData q 3))) S.1) ∧
+    (∀ k : ℕ,
+      k < Fintype.card (RecohPrimaryCoordinate q 2) +
+        Fintype.card (RecohPrimaryCoordinate q 3) →
+      ∀ bank : Fin k → AddChar ((j : Fin d) → ZMod (q j)) ℂ,
+        ¬ Function.Injective
+          (fun S : {S : Finset ((j : Fin d) → ZMod (q j)) // S.card = 3} =>
+            recohObservation bank S.1)) := by sorry
+
+
+
+
+end Couret.STROBO2TORS

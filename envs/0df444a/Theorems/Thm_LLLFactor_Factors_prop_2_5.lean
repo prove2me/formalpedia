@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Factors_prop_2_5
 -- name    : LLLFactor.Factors.prop_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:20:21.276337+00:00
 -- url     : https://prove2.me/theorems/291f6f45-a39e-49fa-b550-9cde49311d8a

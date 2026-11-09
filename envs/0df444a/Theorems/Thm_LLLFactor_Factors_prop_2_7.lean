@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Factors_prop_2_7
 -- name    : LLLFactor.Factors.prop_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:21:14.417988+00:00
 -- url     : https://prove2.me/theorems/334435d4-d9d5-4027-b88c-a1b3941aae3f

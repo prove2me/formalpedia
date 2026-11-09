@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Factors_subset_2_19
 -- name    : LLLFactor.Factors.subset_2_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:25:29.625862+00:00
 -- url     : https://prove2.me/theorems/4d902773-17d2-4e92-9715-e3ff192e81dd

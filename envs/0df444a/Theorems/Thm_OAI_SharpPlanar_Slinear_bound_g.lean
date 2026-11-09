@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Slinear_bound_g
 -- name    : OAI.SharpPlanar.Slinear_bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:37:03.035101+00:00
 -- url     : https://prove2.me/theorems/325d3823-295d-4241-a37e-0abd24230870

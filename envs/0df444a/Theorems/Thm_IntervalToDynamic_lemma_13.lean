@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntervalToDynamic_lemma_13
 -- name    : IntervalToDynamic.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:21:14.535023+00:00
 -- url     : https://prove2.me/theorems/5404fc16-54d7-462d-a42e-1758e1f50954

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGChasing_eq_4_first_case
 -- name    : QGChasing.eq_4_first_case
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:26:39.789204+00:00
 -- url     : https://prove2.me/theorems/8ad2d167-d9af-413e-bdd2-9fec1588619c

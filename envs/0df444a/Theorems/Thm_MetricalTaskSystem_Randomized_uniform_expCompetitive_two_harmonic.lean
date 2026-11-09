@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Randomized_uniform_expCompetitive_two_harmonic
 -- name    : MetricalTaskSystem.Randomized.uniform_expCompetitive_two_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:18:21.464532+00:00
 -- url     : https://prove2.me/theorems/938fa9f0-4137-4cef-9fd8-e74c43cc3625

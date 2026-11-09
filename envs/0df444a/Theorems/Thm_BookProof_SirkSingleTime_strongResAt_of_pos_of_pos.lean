@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_strongResAt_of_pos_of_pos
 -- name    : BookProof.SirkSingleTime.strongResAt_of_pos_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T02:00:34.306343+00:00
 -- url     : https://prove2.me/theorems/0e375cd3-9583-4ae6-ba19-76836242fd1c

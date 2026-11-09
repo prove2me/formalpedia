@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedTargetSemantics_allKeyMoments_e
 -- name    : OAI.MUB6.Certificate.MixedTargetSemantics.allKeyMoments_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T03:15:10.93802+00:00
 -- url     : https://prove2.me/theorems/dbcd995a-c397-4f30-984c-36e39927dcb6

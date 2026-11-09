@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxEntCont_lemma_5_5_1
 -- name    : MaxEntCont.lemma_5_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:17:34.33121+00:00
 -- url     : https://prove2.me/theorems/587fee88-573a-4d34-8b05-51f24bef49c1

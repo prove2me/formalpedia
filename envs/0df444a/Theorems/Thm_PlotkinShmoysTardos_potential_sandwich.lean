@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlotkinShmoysTardos_potential_sandwich
 -- name    : PlotkinShmoysTardos.potential_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:54:16.909478+00:00
 -- url     : https://prove2.me/theorems/6cec4450-e133-4c7d-9521-afaa7908879f

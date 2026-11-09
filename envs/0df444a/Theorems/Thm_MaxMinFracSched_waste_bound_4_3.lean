@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxMinFracSched_waste_bound_4_3
 -- name    : MaxMinFracSched.waste_bound_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:18:12.48265+00:00
 -- url     : https://prove2.me/theorems/feac6d34-9e45-425e-a55a-3bb50e860304

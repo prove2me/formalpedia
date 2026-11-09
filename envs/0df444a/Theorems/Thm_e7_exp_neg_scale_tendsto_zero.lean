@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_exp_neg_scale_tendsto_zero
 -- name    : e7_exp_neg_scale_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:16.305479+00:00
 -- url     : https://prove2.me/theorems/8b9e1cac-a688-4686-a224-99550282c40a

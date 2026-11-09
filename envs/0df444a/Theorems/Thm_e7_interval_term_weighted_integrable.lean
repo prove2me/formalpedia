@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_interval_term_weighted_integrable
 -- name    : e7_interval_term_weighted_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:55.31927+00:00
 -- url     : https://prove2.me/theorems/a9d78a4e-a4ab-469c-ae71-a64c73b0068a

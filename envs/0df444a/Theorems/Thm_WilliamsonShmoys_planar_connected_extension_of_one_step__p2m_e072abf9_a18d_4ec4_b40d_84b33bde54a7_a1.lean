@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connected_extension_of_one_step__p2m_e072abf9_a18d_4ec4_b40d_84b33bde54a7_a1
 -- name    : WilliamsonShmoys.planar_connected_extension_of_one_step__p2m_e072abf9_a18d_4ec4_b40d_84b33bde54a7_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:01:26.0762+00:00
 -- url     : https://prove2.me/theorems/1f4c177d-eb20-4750-9a13-0c928226c3d6

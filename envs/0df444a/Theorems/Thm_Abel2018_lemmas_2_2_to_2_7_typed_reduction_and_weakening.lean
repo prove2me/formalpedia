@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Abel2018_lemmas_2_2_to_2_7_typed_reduction_and_weakening
 -- name    : Abel2018.lemmas_2_2_to_2_7_typed_reduction_and_weakening
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T13:33:03.559774+00:00
 -- url     : https://prove2.me/theorems/196a2584-3d6a-473f-8d60-dd95727d26f1

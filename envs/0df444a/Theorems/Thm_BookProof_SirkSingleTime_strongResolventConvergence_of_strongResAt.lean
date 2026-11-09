@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_strongResolventConvergence_of_strongResAt
 -- name    : BookProof.SirkSingleTime.strongResolventConvergence_of_strongResAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T01:59:56.40388+00:00
 -- url     : https://prove2.me/theorems/0904f53b-ad98-410b-a673-aea3207094ed

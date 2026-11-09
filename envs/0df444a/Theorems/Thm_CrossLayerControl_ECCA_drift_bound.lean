@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_drift_bound
 -- name    : CrossLayerControl.ECCA.drift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:38:26.190017+00:00
 -- url     : https://prove2.me/theorems/08f6155b-bf89-4f27-b43b-866caf50e90b

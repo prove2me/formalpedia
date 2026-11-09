@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_shiftm_shiftm
 -- name    : BookProof.CarlemanSimplex.shiftm_shiftm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:47:12.327867+00:00
 -- url     : https://prove2.me/theorems/999720c7-3711-4506-a52e-2683250c3616

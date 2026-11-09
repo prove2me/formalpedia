@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurrogateOps_corollary_5_hessian
 -- name    : SurrogateOps.corollary_5_hessian
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:51:26.429717+00:00
 -- url     : https://prove2.me/theorems/503ddb52-421f-47e7-8fd3-ab7fe9efd8a6

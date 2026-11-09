@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeScaleAvg_eq_32_33
 -- name    : TimeScaleAvg.eq_32_33
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:10:42.333599+00:00
 -- url     : https://prove2.me/theorems/038abf57-dd77-479d-9a31-a9a0629be9ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_continuous_densY
 -- name    : BookProof.QuantumGravityDensitized.continuous_densY
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:25:34.854192+00:00
 -- url     : https://prove2.me/theorems/a9092c3a-af99-4785-9345-5785768515a6

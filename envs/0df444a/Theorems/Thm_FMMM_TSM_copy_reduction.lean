@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FMMM_TSM_copy_reduction
 -- name    : FMMM.TSM.copy_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:30:34.35688+00:00
 -- url     : https://prove2.me/theorems/ed11c7fe-b5b7-4c79-831d-ba022fd73211

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P88_expectation_kernel_psd
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P88.expectation_kernel_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:24:30.012811+00:00
 -- url     : https://prove2.me/theorems/e69bf2b6-9244-4526-bcae-860255c5620d

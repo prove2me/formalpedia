@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerGrid_row0_9_contains_g
 -- name    : OAI.SharpPlanar.IntegerGrid.row0_9_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:42:48.576255+00:00
 -- url     : https://prove2.me/theorems/3d816f11-f2fa-485c-841d-93a7fbe2c66f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_directEnvelope_le_rat_g
 -- name    : OAI.SharpPlanar.directEnvelope_le_rat_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:35:39.137252+00:00
 -- url     : https://prove2.me/theorems/b2212677-e0f3-4a27-bce5-dfa47a855ac9

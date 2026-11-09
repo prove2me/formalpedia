@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_finite_map_restrict_of_finite_source
 -- name    : e7_finite_map_restrict_of_finite_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:48.934048+00:00
 -- url     : https://prove2.me/theorems/faa5ce68-190a-4322-8f69-2354ae4b7f7d

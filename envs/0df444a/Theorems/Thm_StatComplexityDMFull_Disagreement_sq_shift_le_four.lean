@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDMFull_Disagreement_sq_shift_le_four
 -- name    : StatComplexityDMFull.Disagreement.sq_shift_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:54:23.329186+00:00
 -- url     : https://prove2.me/theorems/4d54e916-12d6-461b-a859-e2c5e6b32c11

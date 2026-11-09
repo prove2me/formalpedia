@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortBroadcastDom_proposition_5_1_rounding_with_slack
 -- name    : ShortBroadcastDom.proposition_5_1_rounding_with_slack
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:26:35.217601+00:00
 -- url     : https://prove2.me/theorems/4cfde3a5-4f9a-45ef-9261-555187097d46

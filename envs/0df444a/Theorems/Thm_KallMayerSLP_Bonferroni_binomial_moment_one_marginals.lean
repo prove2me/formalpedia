@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Bonferroni_binomial_moment_one_marginals
 -- name    : KallMayerSLP.Bonferroni.binomial_moment_one_marginals
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:14:19.978597+00:00
 -- url     : https://prove2.me/theorems/fadcfbc5-93ff-458e-9f7e-26bc7fa5e848

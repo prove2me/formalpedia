@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SirkSingleTime.qgOuterFock_singleTime_shiftInvert_convergence
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-02T14:02:26.815934+00:00
 -- url     : https://prove2.me/submissions/ec3faf9a-6580-4edc-8fdf-2fed138b4749
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSirkSingleTimeShift.lean — solution of BookProof.SirkSingleTime.qgOuterFock_singleTime_shiftInvert_convergence
 import Mathlib

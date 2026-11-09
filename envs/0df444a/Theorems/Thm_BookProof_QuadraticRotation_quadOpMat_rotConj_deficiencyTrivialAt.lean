@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_quadOpMat_rotConj_deficiencyTrivialAt
 -- name    : BookProof.QuadraticRotation.quadOpMat_rotConj_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:30:26.330199+00:00
 -- url     : https://prove2.me/theorems/f36e1650-fb41-4161-9b2c-870a17469b71

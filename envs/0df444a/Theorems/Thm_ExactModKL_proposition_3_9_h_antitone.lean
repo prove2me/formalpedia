@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactModKL_proposition_3_9_h_antitone
 -- name    : ExactModKL.proposition_3_9_h_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:57:29.344454+00:00
 -- url     : https://prove2.me/theorems/a66dfa5f-70e9-49a2-8190-9e9d4d9c3461

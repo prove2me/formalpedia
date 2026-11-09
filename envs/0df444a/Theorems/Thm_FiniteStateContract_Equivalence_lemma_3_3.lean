@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteStateContract_Equivalence_lemma_3_3
 -- name    : FiniteStateContract.Equivalence.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:14:45.064661+00:00
 -- url     : https://prove2.me/theorems/d72fbe64-1fe4-4829-940b-dc1b8f1412af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_small_endpoint_moment_tendsto_zero
 -- name    : e7_small_endpoint_moment_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:05.621643+00:00
 -- url     : https://prove2.me/theorems/b85354b5-2d53-4059-9d2f-62778cddde15

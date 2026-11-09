@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_waveAmplitudeBox_contains_g
 -- name    : OAI.SharpPlanar.IntegerBasis.waveAmplitudeBox_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:42:02.674982+00:00
 -- url     : https://prove2.me/theorems/aefbb5fa-a152-457e-8e80-f645cc03415b

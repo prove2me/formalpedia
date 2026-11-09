@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_GramNonnegative_quadratic1_nonneg_e
 -- name    : OAI.MUB6.Certificate.GramNonnegative.quadratic1_nonneg_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T19:36:05.367839+00:00
 -- url     : https://prove2.me/theorems/c132ace9-48b4-46df-a74f-45156a54afd6

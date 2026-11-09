@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_iterate_planar_bridge_extensions__p2m_99abee49_2ea5_4bc8_a1e0_a73df24e0ce4_a1
 -- name    : WilliamsonShmoys.iterate_planar_bridge_extensions__p2m_99abee49_2ea5_4bc8_a1e0_a73df24e0ce4_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:56:24.146434+00:00
 -- url     : https://prove2.me/theorems/596e37ff-bf61-48b7-90c3-a4814329de9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_densityCap_nonneg_g
 -- name    : OAI.SharpPlanar.densityCap_nonneg_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:34:24.69585+00:00
 -- url     : https://prove2.me/theorems/92b63438-344a-4bc4-a718-ce8b43d41942

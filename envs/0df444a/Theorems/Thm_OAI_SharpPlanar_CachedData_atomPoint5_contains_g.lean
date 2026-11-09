@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_atomPoint5_contains_g
 -- name    : OAI.SharpPlanar.CachedData.atomPoint5_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:28:02.230191+00:00
 -- url     : https://prove2.me/theorems/c598fa9b-2b75-4a6b-a0b3-a455ffe06c66

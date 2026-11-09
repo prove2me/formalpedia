@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_kinetic_absorption
 -- name    : BookProof.QuantumGravityDensitized.kinetic_absorption
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:29:18.300202+00:00
 -- url     : https://prove2.me/theorems/2ad5ca1e-b59a-451c-98ff-5e9a56c33b83

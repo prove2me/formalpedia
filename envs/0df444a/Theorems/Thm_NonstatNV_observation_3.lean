@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatNV_observation_3
 -- name    : NonstatNV.observation_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:05:29.400796+00:00
 -- url     : https://prove2.me/theorems/a2358839-ec4a-4df2-b0e2-d31d8c4b7ddd

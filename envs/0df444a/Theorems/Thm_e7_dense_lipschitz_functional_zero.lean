@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_dense_lipschitz_functional_zero
 -- name    : e7_dense_lipschitz_functional_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:21.008204+00:00
 -- url     : https://prove2.me/theorems/c311839e-fa92-45e5-b533-3f39ab7c0625

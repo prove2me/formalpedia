@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_res_sub_res
 -- name    : BookProof.SirkSingleTime.res_sub_res
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T01:59:59.017307+00:00
 -- url     : https://prove2.me/theorems/63525e8a-9fb4-441c-a9a1-a98641fbf20e

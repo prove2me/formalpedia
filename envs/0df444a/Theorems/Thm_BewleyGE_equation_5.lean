@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BewleyGE_equation_5
 -- name    : BewleyGE.equation_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:29:16.060998+00:00
 -- url     : https://prove2.me/theorems/ab2f1947-ec88-4ceb-97c6-e231811dafc4

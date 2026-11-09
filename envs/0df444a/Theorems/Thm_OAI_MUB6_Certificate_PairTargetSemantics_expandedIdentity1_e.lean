@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_PairTargetSemantics_expandedIdentity1_e
 -- name    : OAI.MUB6.Certificate.PairTargetSemantics.expandedIdentity1_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T19:11:54.729211+00:00
 -- url     : https://prove2.me/theorems/45800eb7-1298-4a86-97df-8c34952165d8

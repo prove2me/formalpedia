@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_GramAssembly_Block1_row_eval_2_e
 -- name    : OAI.MUB6.Certificate.GramAssembly.Block1.row_eval_2_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T05:59:54.924732+00:00
 -- url     : https://prove2.me/theorems/bb6117cc-af51-4608-8220-fdec8b3124e3

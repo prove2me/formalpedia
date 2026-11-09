@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxCD_eq_62_coord_upper_bound
 -- name    : KarimiPL.ProxCD.eq_62_coord_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:55:52.390473+00:00
 -- url     : https://prove2.me/theorems/05de4a6e-cb37-474a-86bd-f566158ca1ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Randomized_uniform_randomizedRatio_bounds
 -- name    : MetricalTaskSystem.Randomized.uniform_randomizedRatio_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:21:39.154984+00:00
 -- url     : https://prove2.me/theorems/7b5d983a-8153-4021-be68-f593d8b25d64

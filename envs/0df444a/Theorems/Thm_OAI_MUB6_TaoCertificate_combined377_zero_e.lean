@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_TaoCertificate_combined377_zero_e
 -- name    : OAI.MUB6.TaoCertificate.combined377_zero_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T08:35:32.596193+00:00
 -- url     : https://prove2.me/theorems/4c00dbce-9df3-4224-a03c-ed620932b4f5

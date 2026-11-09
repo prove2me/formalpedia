@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SponsoredAssort_equation_1
 -- name    : SponsoredAssort.equation_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:53:10.237019+00:00
 -- url     : https://prove2.me/theorems/476ced57-f020-4ef4-ab5f-3eeaa9b51914

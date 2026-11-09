@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_weighted_interval_fubini
 -- name    : e7_weighted_interval_fubini
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:45.652694+00:00
 -- url     : https://prove2.me/theorems/27a40ed8-0378-46d2-9037-7215e4d5446a

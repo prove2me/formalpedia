@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P43_column_combination_few_zeros
 -- name    : QAlgorithms.Papers.Independent.Intake100.P43.column_combination_few_zeros
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:28:48.409995+00:00
 -- url     : https://prove2.me/theorems/02c3bf22-d969-4452-a6b1-a6effa6fa8b7

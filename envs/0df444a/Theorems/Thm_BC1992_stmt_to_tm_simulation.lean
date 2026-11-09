@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BC1992_stmt_to_tm_simulation
 -- name    : BC1992.stmt_to_tm_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T00:36:46.09578+00:00
 -- url     : https://prove2.me/theorems/006b92ff-7e04-48d3-a204-6dff1d05a6fa

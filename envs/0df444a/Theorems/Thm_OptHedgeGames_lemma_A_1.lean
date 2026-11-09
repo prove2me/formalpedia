@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptHedgeGames_lemma_A_1
 -- name    : OptHedgeGames.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:39:27.019618+00:00
 -- url     : https://prove2.me/theorems/53c41b86-1c74-4a3d-886d-ce37c1cc5ab6

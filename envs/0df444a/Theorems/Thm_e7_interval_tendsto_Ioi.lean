@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_interval_tendsto_Ioi
 -- name    : e7_interval_tendsto_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:59.930187+00:00
 -- url     : https://prove2.me/theorems/c7b2048e-4bf7-4e05-9b6e-dfaca2cb65b6

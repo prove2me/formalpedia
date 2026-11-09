@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JobShopLTAS_Core_lemma1_interval_lp_feasible
 -- name    : JobShopLTAS.Core.lemma1_interval_lp_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:49:29.917985+00:00
 -- url     : https://prove2.me/theorems/6de801ef-1071-4885-a287-c33f025f3742

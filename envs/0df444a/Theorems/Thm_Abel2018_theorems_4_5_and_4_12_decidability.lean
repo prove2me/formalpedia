@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Abel2018_theorems_4_5_and_4_12_decidability
 -- name    : Abel2018.theorems_4_5_and_4_12_decidability
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T13:34:06.564261+00:00
 -- url     : https://prove2.me/theorems/3ba3e0f5-af7c-4e00-89f2-dc827c764517

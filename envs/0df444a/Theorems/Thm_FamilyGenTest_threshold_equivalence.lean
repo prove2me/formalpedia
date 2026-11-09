@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FamilyGenTest_threshold_equivalence
 -- name    : FamilyGenTest.threshold_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:14:59.385777+00:00
 -- url     : https://prove2.me/theorems/07e1f8e5-8e53-42c6-b509-a7b0cd8d5cec

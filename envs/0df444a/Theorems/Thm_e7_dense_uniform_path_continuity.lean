@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_dense_uniform_path_continuity
 -- name    : e7_dense_uniform_path_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:47.173865+00:00
 -- url     : https://prove2.me/theorems/8dfb3ce3-639f-4376-a43d-2523f2233e83

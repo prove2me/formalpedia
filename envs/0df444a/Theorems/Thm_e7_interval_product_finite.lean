@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_interval_product_finite
 -- name    : e7_interval_product_finite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:10.320032+00:00
 -- url     : https://prove2.me/theorems/d39398ec-e6f3-4002-89f8-7a3828663d95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_christoffel_eq_zero_of_const
 -- name    : BookProof.QuantumGravityDensitized.christoffel_eq_zero_of_const
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:25:37.962072+00:00
 -- url     : https://prove2.me/theorems/e2ae1ef8-4094-4cc1-9816-7ce0e69cfcc5

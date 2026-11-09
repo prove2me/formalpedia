@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_map_coord_permutation_cancel
 -- name    : e7_map_coord_permutation_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:27.807863+00:00
 -- url     : https://prove2.me/theorems/15f465c5-053c-4b17-94c8-131782e22e1e

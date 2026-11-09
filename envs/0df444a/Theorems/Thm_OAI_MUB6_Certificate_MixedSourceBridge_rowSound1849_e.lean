@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedSourceBridge_rowSound1849_e
 -- name    : OAI.MUB6.Certificate.MixedSourceBridge.rowSound1849_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T22:36:10.480678+00:00
 -- url     : https://prove2.me/theorems/c82e9fbf-f728-47df-869e-01927e5819c7

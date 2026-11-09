@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RideHailingAV_PureHV_proposition_1_pure_hv_equilibrium
 -- name    : RideHailingAV.PureHV.proposition_1_pure_hv_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:29:43.185995+00:00
 -- url     : https://prove2.me/theorems/f1aea28d-f756-461c-9178-52b92648059b

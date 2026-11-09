@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BC1992_lemma_3_1_tm_simulation_in_bc
 -- name    : BC1992.lemma_3_1_tm_simulation_in_bc
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T00:37:10.499854+00:00
 -- url     : https://prove2.me/theorems/94f000cd-30c1-4b91-bd0e-bb017ed430cf

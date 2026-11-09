@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P47_signed_bias_equal_weights
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P47.signed_bias_equal_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:34:14.902072+00:00
 -- url     : https://prove2.me/theorems/52351c7c-542c-4260-abcd-709e2be81c14

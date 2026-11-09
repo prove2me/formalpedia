@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_sum_range_of_multiplicity
 -- name    : BookProof.CarlemanTwoStep.sum_range_of_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:51:45.043439+00:00
 -- url     : https://prove2.me/theorems/f7ea594f-bb19-4aec-9221-28422bf2d64e

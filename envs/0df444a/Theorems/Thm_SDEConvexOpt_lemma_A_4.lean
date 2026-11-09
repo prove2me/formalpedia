@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDEConvexOpt_lemma_A_4
 -- name    : SDEConvexOpt.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:25:11.346783+00:00
 -- url     : https://prove2.me/theorems/1250092c-49be-4dc9-a4ef-d7b0737086bd

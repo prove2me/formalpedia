@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_strongResAt_of_ne_zero
 -- name    : BookProof.SirkSingleTime.strongResAt_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-31T12:36:34.668696+00:00
 -- url     : https://prove2.me/theorems/b18afa74-d382-496c-aa38-4648b3e03d9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldenRatioVI_step_le_rho_and_theta_le
 -- name    : GoldenRatioVI.step_le_rho_and_theta_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:24:32.620449+00:00
 -- url     : https://prove2.me/theorems/92252dc3-b3cc-42b2-90f0-d949d8701958

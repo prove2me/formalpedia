@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_tableMomentK_eq_g
 -- name    : OAI.SharpPlanar.tableMomentK_eq_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:37:34.143269+00:00
 -- url     : https://prove2.me/theorems/ad6dce81-d790-4e8e-97f3-7aba214a1f0f

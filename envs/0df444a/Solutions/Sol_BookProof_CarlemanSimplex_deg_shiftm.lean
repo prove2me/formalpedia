@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanSimplex.deg_shiftm
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-07T23:07:14.258902+00:00
 -- url     : https://prove2.me/submissions/7d7699ff-3d61-4a03-98a9-538f4e94c6c1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanSimplex.lean — solution of BookProof.CarlemanSimplex.deg_shiftm
 import Mathlib

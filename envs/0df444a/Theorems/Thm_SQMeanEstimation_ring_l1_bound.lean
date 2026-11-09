@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SQMeanEstimation_ring_l1_bound
 -- name    : SQMeanEstimation.ring_l1_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:16:56.155981+00:00
 -- url     : https://prove2.me/theorems/c734ccf1-cf34-439f-8a8f-93f52208f184

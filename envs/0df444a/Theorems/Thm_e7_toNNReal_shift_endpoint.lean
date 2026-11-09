@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_toNNReal_shift_endpoint
 -- name    : e7_toNNReal_shift_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:47.609046+00:00
 -- url     : https://prove2.me/theorems/b57ce512-53af-48de-9d09-efbbd9084140

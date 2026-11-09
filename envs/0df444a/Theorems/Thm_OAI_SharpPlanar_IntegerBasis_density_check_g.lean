@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_density_check_g
 -- name    : OAI.SharpPlanar.IntegerBasis.density_check_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:33:36.887172+00:00
 -- url     : https://prove2.me/theorems/9f7fcfa5-946a-4bf7-9ddb-d1b5ccb3d14d

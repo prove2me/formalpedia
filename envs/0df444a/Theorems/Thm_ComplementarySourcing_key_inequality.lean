@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComplementarySourcing_key_inequality
 -- name    : ComplementarySourcing.key_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:07:48.477+00:00
 -- url     : https://prove2.me/theorems/61e9f1a8-763b-4421-bedc-2e10f9b9de5c

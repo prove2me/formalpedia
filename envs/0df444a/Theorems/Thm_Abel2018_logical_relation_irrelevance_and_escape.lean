@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Abel2018_logical_relation_irrelevance_and_escape
 -- name    : Abel2018.logical_relation_irrelevance_and_escape
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T13:33:15.407208+00:00
 -- url     : https://prove2.me/theorems/6823e9ee-4bb8-4107-96ba-1644007ca2af

@@ -1,0 +1,168 @@
+-- Prove2me | Theorems.Thm_Couret_Certificate_separating_words_checked
+-- name    : Couret.Certificate.separating_words_checked
+-- status  : Proved
+-- author  : @alexcour
+-- created : 2026-11-08T20:49:08.985833+00:00
+-- url     : https://prove2.me/theorems/03623f89-f6d1-4936-b0d7-928462bad77b
+-- title:
+--   Stored words distinguish different quotient classes
+-- statement:
+--   Let $c,d\in\{0,\ldots,100\}$ be distinct quotient classes, and let $w_{c,d}$ be their stored separating word. Then
+--
+--   $$O_Q(\operatorname{run}_Q(c,w_{c,d}))\ne O_Q(\operatorname{run}_Q(d,w_{c,d})).$$
+--
+--   This supplies an explicit future-output witness separating any two classes.
+-- source:
+--   Alexandre Couret, Certified minimal memory for a divisor-residue presence observable modulo 30, https://zenodo.org/records/23989640; archive Couret_BC_MOD30_Companion_20261105.zip, SHA-256 9bb2678164c63a9e47c192093f5ce9deb1b7b74a1f1c8fecc77f305a408266a2; file source/S4/CertificateChecks.lean, lines 62–62; source file SHA-256 7827c7c85415837538b5d3ef268185473023d77abb060aa92157032529f79bed; theorem Couret.Certificate.separating_words_checked
+
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Std
+import Theorems.Thm_Couret_Certificate_class_row_0
+import Theorems.Thm_Couret_Certificate_class_row_1
+import Theorems.Thm_Couret_Certificate_class_row_10
+import Theorems.Thm_Couret_Certificate_class_row_100
+import Theorems.Thm_Couret_Certificate_class_row_11
+import Theorems.Thm_Couret_Certificate_class_row_12
+import Theorems.Thm_Couret_Certificate_class_row_13
+import Theorems.Thm_Couret_Certificate_class_row_14
+import Theorems.Thm_Couret_Certificate_class_row_15
+import Theorems.Thm_Couret_Certificate_class_row_16
+import Theorems.Thm_Couret_Certificate_class_row_17
+import Theorems.Thm_Couret_Certificate_class_row_18
+import Theorems.Thm_Couret_Certificate_class_row_19
+import Theorems.Thm_Couret_Certificate_class_row_2
+import Theorems.Thm_Couret_Certificate_class_row_20
+import Theorems.Thm_Couret_Certificate_class_row_21
+import Theorems.Thm_Couret_Certificate_class_row_22
+import Theorems.Thm_Couret_Certificate_class_row_23
+import Theorems.Thm_Couret_Certificate_class_row_24
+import Theorems.Thm_Couret_Certificate_class_row_25
+import Theorems.Thm_Couret_Certificate_class_row_26
+import Theorems.Thm_Couret_Certificate_class_row_27
+import Theorems.Thm_Couret_Certificate_class_row_28
+import Theorems.Thm_Couret_Certificate_class_row_29
+import Theorems.Thm_Couret_Certificate_class_row_3
+import Theorems.Thm_Couret_Certificate_class_row_30
+import Theorems.Thm_Couret_Certificate_class_row_31
+import Theorems.Thm_Couret_Certificate_class_row_32
+import Theorems.Thm_Couret_Certificate_class_row_33
+import Theorems.Thm_Couret_Certificate_class_row_34
+import Theorems.Thm_Couret_Certificate_class_row_35
+import Theorems.Thm_Couret_Certificate_class_row_36
+import Theorems.Thm_Couret_Certificate_class_row_37
+import Theorems.Thm_Couret_Certificate_class_row_38
+import Theorems.Thm_Couret_Certificate_class_row_39
+import Theorems.Thm_Couret_Certificate_class_row_4
+import Theorems.Thm_Couret_Certificate_class_row_40
+import Theorems.Thm_Couret_Certificate_class_row_41
+import Theorems.Thm_Couret_Certificate_class_row_42
+import Theorems.Thm_Couret_Certificate_class_row_43
+import Theorems.Thm_Couret_Certificate_class_row_44
+import Theorems.Thm_Couret_Certificate_class_row_45
+import Theorems.Thm_Couret_Certificate_class_row_46
+import Theorems.Thm_Couret_Certificate_class_row_47
+import Theorems.Thm_Couret_Certificate_class_row_48
+import Theorems.Thm_Couret_Certificate_class_row_49
+import Theorems.Thm_Couret_Certificate_class_row_5
+import Theorems.Thm_Couret_Certificate_class_row_50
+import Theorems.Thm_Couret_Certificate_class_row_51
+import Theorems.Thm_Couret_Certificate_class_row_52
+import Theorems.Thm_Couret_Certificate_class_row_53
+import Theorems.Thm_Couret_Certificate_class_row_54
+import Theorems.Thm_Couret_Certificate_class_row_55
+import Theorems.Thm_Couret_Certificate_class_row_56
+import Theorems.Thm_Couret_Certificate_class_row_57
+import Theorems.Thm_Couret_Certificate_class_row_58
+import Theorems.Thm_Couret_Certificate_class_row_59
+import Theorems.Thm_Couret_Certificate_class_row_6
+import Theorems.Thm_Couret_Certificate_class_row_60
+import Theorems.Thm_Couret_Certificate_class_row_61
+import Theorems.Thm_Couret_Certificate_class_row_62
+import Theorems.Thm_Couret_Certificate_class_row_63
+import Theorems.Thm_Couret_Certificate_class_row_64
+import Theorems.Thm_Couret_Certificate_class_row_65
+import Theorems.Thm_Couret_Certificate_class_row_66
+import Theorems.Thm_Couret_Certificate_class_row_67
+import Theorems.Thm_Couret_Certificate_class_row_68
+import Theorems.Thm_Couret_Certificate_class_row_69
+import Theorems.Thm_Couret_Certificate_class_row_7
+import Theorems.Thm_Couret_Certificate_class_row_70
+import Theorems.Thm_Couret_Certificate_class_row_71
+import Theorems.Thm_Couret_Certificate_class_row_72
+import Theorems.Thm_Couret_Certificate_class_row_73
+import Theorems.Thm_Couret_Certificate_class_row_74
+import Theorems.Thm_Couret_Certificate_class_row_75
+import Theorems.Thm_Couret_Certificate_class_row_76
+import Theorems.Thm_Couret_Certificate_class_row_77
+import Theorems.Thm_Couret_Certificate_class_row_78
+import Theorems.Thm_Couret_Certificate_class_row_79
+import Theorems.Thm_Couret_Certificate_class_row_8
+import Theorems.Thm_Couret_Certificate_class_row_80
+import Theorems.Thm_Couret_Certificate_class_row_81
+import Theorems.Thm_Couret_Certificate_class_row_82
+import Theorems.Thm_Couret_Certificate_class_row_83
+import Theorems.Thm_Couret_Certificate_class_row_84
+import Theorems.Thm_Couret_Certificate_class_row_85
+import Theorems.Thm_Couret_Certificate_class_row_86
+import Theorems.Thm_Couret_Certificate_class_row_87
+import Theorems.Thm_Couret_Certificate_class_row_88
+import Theorems.Thm_Couret_Certificate_class_row_89
+import Theorems.Thm_Couret_Certificate_class_row_9
+import Theorems.Thm_Couret_Certificate_class_row_90
+import Theorems.Thm_Couret_Certificate_class_row_91
+import Theorems.Thm_Couret_Certificate_class_row_92
+import Theorems.Thm_Couret_Certificate_class_row_93
+import Theorems.Thm_Couret_Certificate_class_row_94
+import Theorems.Thm_Couret_Certificate_class_row_95
+import Theorems.Thm_Couret_Certificate_class_row_96
+import Theorems.Thm_Couret_Certificate_class_row_97
+import Theorems.Thm_Couret_Certificate_class_row_98
+import Theorems.Thm_Couret_Certificate_class_row_99
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+set_option maxRecDepth 32768
+set_option maxHeartbeats 16000000
+namespace Couret
+namespace Certificate
+
+theorem separating_words_checked (c d : ClassId) (h : c ≠ d) : quotientOutput (quotientRun c (separatingWord c d)) ≠ quotientOutput (quotientRun d (separatingWord c d)) := by sorry
+
+
+
+
+end Certificate
+end Couret

@@ -13706,7 +13706,7 @@
 {"parent": "FunctionalInequalities.KLS.LogConcave.PoissonIterate.taylorTensor_center_readable", "child": "KLSModular_FunctionalInequalities_KLS_BKL_PoissonIterate_Taylor", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeRow_12_7_11_5", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "BitcoinScript.castToBool_iff", "child": "BitcoinScript", "via": ["solution", "statement"]}
-{"parent": "KWSpectrum.Estimator.dim_bound", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
+{"parent": "KWSpectrum.Estimator.dim_bound", "child": "KWSpectrum_Estimator_Model", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundEndpoint22Reachable.covered6_160", "child": "Sensitivity213981Formal_Endpoint22ReachChecks151", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundEndpoint22Reachable.covered6_160", "child": "Sensitivity213981Formal_Endpoint22ReachChecks133", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundEndpoint22Reachable.covered6_160", "child": "Sensitivity213981Formal_Endpoint22ReachChecks100", "via": ["solution", "statement"]}
@@ -58723,10 +58723,10 @@
 {"parent": "MarkovProcessModule_MarkovProcess_DenseTime_PrefixRecursion", "child": "MarkovProcessModule_MarkovProcess_DenseTime_ConditionalKernel", "via": ["statement"]}
 {"parent": "OAI.RVM.Admissible.central_regular_uniform", "child": "VlasovMaxwell", "via": ["solution", "statement"]}
 {"parent": "OAI.RVM.Admissible.central_regular_uniform", "child": "OAIQ073V000", "via": ["solution", "statement"]}
-{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_Manifold", "via": ["statement"]}
-{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_Forms", "via": ["statement"]}
-{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_CE", "via": ["statement"]}
-{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_Integ", "via": ["statement"]}
+{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_Manifold", "via": ["solution", "statement"]}
+{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_Forms", "via": ["solution", "statement"]}
+{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_CE", "via": ["solution", "statement"]}
+{"parent": "IntLInfty.Kan.lemma_5_9", "child": "IntLInfty_Kan_Integ", "via": ["solution", "statement"]}
 {"parent": "OAI.BinaryCoordinateSweeps.dense_induction_step_eventually", "child": "BinarySweep", "via": ["solution", "statement"]}
 {"parent": "OAI.BinaryCoordinateSweeps.dense_induction_step_eventually", "child": "OAIB3Bs000", "via": ["solution", "statement"]}
 {"parent": "H65K.Platform.HighGroup002.zeros", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
@@ -82297,7 +82297,7 @@
 {"parent": "D1Bound5_FirstPairGeometryFixedRows_Definitions", "child": "D1Bound5_OneSmallCutoffArithmetic_Definitions_001", "via": ["statement"]}
 {"parent": "D1Bound5_FirstPairGeometryFixedRows_Definitions", "child": "D1Bound5_OneSmallRows_Definitions", "via": ["statement"]}
 {"parent": "FunctionalInequalities.Analysis.Semigroup.Generated.eq_of_adjointComp_eq_readable", "child": "KLSModular_FunctionalInequalities_Analysis_Semigroup_Generated_Inverse", "via": ["solution", "statement"]}
-{"parent": "KWSpectrum.Estimator.eq_17", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
+{"parent": "KWSpectrum.Estimator.eq_17", "child": "KWSpectrum_Estimator_Model", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1221_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.box_nonnegative_w1051", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "D1Bound5_PellLightMatchingData14_Definitions_001", "child": "D1Bound5_PellLightMatching_Definitions", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Abel2018_lemma_4_3_and_theorem_4_11_soundness_and_completeness
 -- name    : Abel2018.lemma_4_3_and_theorem_4_11_soundness_and_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T13:33:52.26183+00:00
 -- url     : https://prove2.me/theorems/15d07ddf-4ec0-472e-87dc-ac71626b5347

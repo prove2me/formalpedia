@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_PartitionJensen_lintegral_eq_sum_cells
 -- name    : StochasticProg.PartitionJensen.lintegral_eq_sum_cells
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:43:18.764318+00:00
 -- url     : https://prove2.me/theorems/1f1f9ae5-0def-4d93-ae5f-033ed309003e

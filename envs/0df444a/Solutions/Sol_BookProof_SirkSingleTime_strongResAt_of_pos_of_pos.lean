@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SirkSingleTime.strongResAt_of_pos_of_pos
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-04T02:07:49.082511+00:00
 -- url     : https://prove2.me/submissions/08f85998-783c-4461-b870-62dfdf957a93
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSirkSingleTimeShift.lean — solution of BookProof.SirkSingleTime.strongResAt_of_pos_of_pos
 import Mathlib

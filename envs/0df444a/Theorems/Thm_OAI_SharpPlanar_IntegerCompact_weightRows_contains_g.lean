@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerCompact_weightRows_contains_g
 -- name    : OAI.SharpPlanar.IntegerCompact.weightRows_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:06:50.051042+00:00
 -- url     : https://prove2.me/theorems/dc010b5f-66b4-4215-9a7f-81373406c705

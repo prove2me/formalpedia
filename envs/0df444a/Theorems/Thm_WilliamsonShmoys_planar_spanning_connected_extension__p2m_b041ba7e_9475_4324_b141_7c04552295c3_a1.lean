@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_spanning_connected_extension__p2m_b041ba7e_9475_4324_b141_7c04552295c3_a1
 -- name    : WilliamsonShmoys.planar_spanning_connected_extension__p2m_b041ba7e_9475_4324_b141_7c04552295c3_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T06:13:45.616332+00:00
 -- url     : https://prove2.me/theorems/8f444d1d-7358-42ec-8ec7-a42681e017e2

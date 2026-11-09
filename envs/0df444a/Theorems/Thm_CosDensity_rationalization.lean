@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosDensity_rationalization
 -- name    : CosDensity.rationalization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:38:41.163698+00:00
 -- url     : https://prove2.me/theorems/6bc05407-b8d6-4a22-b6d8-f8a1bcaeedb9

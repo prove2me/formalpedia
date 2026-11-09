@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_interval_integral_clamp_toNNReal
 -- name    : e7_interval_integral_clamp_toNNReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:12.234295+00:00
 -- url     : https://prove2.me/theorems/21dfe2ee-16c1-4947-be32-62d269081936

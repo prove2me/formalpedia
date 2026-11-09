@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P88_amplitude_kernel_psd
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P88.amplitude_kernel_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:25:04.957222+00:00
 -- url     : https://prove2.me/theorems/e1df25ae-70f7-4920-addb-1d31ac5c19df

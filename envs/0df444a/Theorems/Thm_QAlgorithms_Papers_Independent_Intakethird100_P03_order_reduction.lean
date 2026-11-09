@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P03_order_reduction
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P03.order_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T03:49:45.038684+00:00
 -- url     : https://prove2.me/theorems/44bcda97-70f0-4361-8bcf-89bdf5fc2856

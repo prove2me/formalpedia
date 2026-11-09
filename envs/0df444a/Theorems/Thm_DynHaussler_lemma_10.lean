@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynHaussler_lemma_10
 -- name    : DynHaussler.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:35:18.471192+00:00
 -- url     : https://prove2.me/theorems/930dfc52-a626-436d-b3d1-e6aaa3edda59

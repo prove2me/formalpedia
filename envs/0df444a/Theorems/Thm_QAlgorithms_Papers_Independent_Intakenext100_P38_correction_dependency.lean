@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P38_correction_dependency
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P38.correction_dependency
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:46:48.656205+00:00
 -- url     : https://prove2.me/theorems/570770b1-fbf8-4b9b-acb6-b328badb0bfd

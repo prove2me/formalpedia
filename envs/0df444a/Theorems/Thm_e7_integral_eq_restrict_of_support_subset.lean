@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_integral_eq_restrict_of_support_subset
 -- name    : e7_integral_eq_restrict_of_support_subset
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:27.466526+00:00
 -- url     : https://prove2.me/theorems/65700ed9-ce64-4423-ba72-8d5a688e025e

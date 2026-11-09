@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearZeroSumMG_lemma_4
 -- name    : LinearZeroSumMG.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:54:03.668892+00:00
 -- url     : https://prove2.me/theorems/d57458d1-9b39-40c4-8350-7b1481083714

@@ -18299,7 +18299,7 @@
 {"parent": "RennerKoenig.lemma_2_2", "child": "RennerKoenig_avg", "via": ["statement"]}
 {"parent": "RennerKoenig.lemma_2_2", "child": "RennerKoenig_chosenBasis", "via": ["statement"]}
 {"parent": "RennerKoenig.lemma_2_2", "child": "RennerKoenig_withReg", "via": ["statement"]}
-{"parent": "TenChallenges.challenge_10_locallyFinite", "child": "TenChallenges_Challenge_10", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_10_locallyFinite", "child": "TenChallenges_Challenge_10", "via": ["solution", "statement"]}
 {"parent": "Eight_SecProof_Proof", "child": "CountKSat_Value", "via": ["statement"]}
 {"parent": "Eight_SecProof_Proof", "child": "StepMachines_Prog_Count", "via": ["statement"]}
 {"parent": "Eight_SecProof_Proof", "child": "Groundwork.PolyT.all", "via": ["statement"]}
@@ -25698,7 +25698,7 @@
 {"parent": "ClauseBound.ParityChecks.Count.getD2", "child": "ClauseBound_ParityChecks_Count", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Count.getD2", "child": "ClauseBound_ParityChecks_Run", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Count.getD2", "child": "ClauseBound_ParityChecks_RunF", "via": ["solution", "statement"]}
-{"parent": "OAI.MUB6.complete_family_square_not_hadamard_e", "child": "MUBSix", "via": ["statement"]}
+{"parent": "OAI.MUB6.complete_family_square_not_hadamard_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.complete_family_square_not_hadamard_e", "child": "OAIQ106E000", "via": ["statement"]}
 {"parent": "TenChallenges.challenge_04_r2", "child": "TenChallenges_Challenge_04", "via": ["statement"]}
 {"parent": "ClauseBound.Inst.Half.Cert.partT_eq", "child": "ClauseBound_Inst_CertHalfSmall", "via": ["solution", "statement"]}
@@ -33851,10 +33851,10 @@
 {"parent": "CircuitLowerBound.Alg.cntN_eq_zero_iff", "child": "CircuitLowerBound_Alg_Parse", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Alg.cntN_eq_zero_iff", "child": "CircuitLowerBound_Alg_Machine", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Alg.cntN_eq_zero_iff", "child": "PaddedDescent_Host", "via": ["solution", "statement"]}
-{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "FowlerLSQC_Steane_bitString", "via": ["statement"]}
-{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "QAlgorithms_Defs_Stabilizer", "via": ["statement"]}
-{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "FowlerLSQC_Steane_logicalZ", "via": ["statement"]}
-{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "FowlerLSQC_Steane_stabilizer", "via": ["statement"]}
+{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "FowlerLSQC_Steane_bitString", "via": ["solution", "statement"]}
+{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "QAlgorithms_Defs_Stabilizer", "via": ["solution", "statement"]}
+{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "FowlerLSQC_Steane_logicalZ", "via": ["solution", "statement"]}
+{"parent": "FowlerLSQC.Steane.zero_ket_stabilized", "child": "FowlerLSQC_Steane_stabilizer", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalColoredSolver.prepArena_length", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryColoredSolver", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalColoredSolver.prepArena_length", "child": "Submission_ThreeSum_LightTernaryInitialBudgets", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalColoredSolver.prepArena_length", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryArenaTemplate", "via": ["solution", "statement"]}
@@ -37293,7 +37293,7 @@
 {"parent": "GeneralPieces.Consts.cap_le", "child": "GeneralPieces_Ring_ThmHalfPieces", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Consts.cap_le", "child": "ClauseBound_Inst_HalfIfc", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Consts.cap_le", "child": "GeneralPieces_Half_Consts", "via": ["solution", "statement"]}
-{"parent": "FermionModewise.kappa_zero_decouple", "child": "FermionModewise_williamson", "via": ["statement"]}
+{"parent": "FermionModewise.kappa_zero_decouple", "child": "FermionModewise_williamson", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound1379_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound1379_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound1379_e", "child": "OAIQ106E084", "via": ["solution", "statement"]}
@@ -54663,9 +54663,9 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaSelectedTerminal.native_zero", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSelectedTerminal", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaSelectedTerminal.native_zero", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaCompactSupport", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaSelectedTerminal.native_zero", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
-{"parent": "BoundEntGauss.S_equivalence", "child": "BoundEntGauss_sigmaTilde", "via": ["statement"]}
-{"parent": "BoundEntGauss.S_equivalence", "child": "BoundEntGauss_opS", "via": ["statement"]}
-{"parent": "BoundEntGauss.S_equivalence", "child": "BoundEntGauss_totalSigma", "via": ["statement"]}
+{"parent": "BoundEntGauss.S_equivalence", "child": "BoundEntGauss_sigmaTilde", "via": ["solution", "statement"]}
+{"parent": "BoundEntGauss.S_equivalence", "child": "BoundEntGauss_opS", "via": ["solution", "statement"]}
+{"parent": "BoundEntGauss.S_equivalence", "child": "BoundEntGauss_totalSigma", "via": ["solution", "statement"]}
 {"parent": "BookProof.TensorSumChain.positionChain_esa", "child": "ChapterPermutationSectorEsa", "via": ["statement"]}
 {"parent": "BookProof.TensorSumChain.positionChain_esa", "child": "ChapterTensorGraphCore", "via": ["solution", "statement"]}
 {"parent": "BookProof.TensorSumChain.positionChain_esa", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
@@ -58886,7 +58886,7 @@
 {"parent": "P2M_GeneralPieces_LemQ_Tri_sum__d29a426cc3fb", "child": "GeneralPieces_Ring_LemmaQ", "via": ["solution", "statement"]}
 {"parent": "P2M_GeneralPieces_LemQ_Tri_sum__d29a426cc3fb", "child": "GeneralPieces_Ring_Basic", "via": ["solution", "statement"]}
 {"parent": "MultiParamQEC.eq_26_pre_sdp", "child": "MultiParamQEC_SDP", "via": ["statement"]}
-{"parent": "PancakeHard.property_6", "child": "PancakeHard_Hook", "via": ["statement"]}
+{"parent": "PancakeHard.property_6", "child": "PancakeHard_Hook", "via": ["solution", "statement"]}
 {"parent": "PairsToBound.two_rpow_mono", "child": "PairsToBound_Arith", "via": ["solution", "statement"]}
 {"parent": "PairsToBound.two_rpow_mono", "child": "PairsToBound_Defs", "via": ["solution", "statement"]}
 {"parent": "PairsToBound.two_rpow_mono", "child": "VariableBound_Printed_VariablesA_StepSparsify", "via": ["solution", "statement"]}
@@ -59103,7 +59103,7 @@
 {"parent": "ClauseBound.ParityChecks.Count.beta1_le", "child": "ClauseBound_ParityChecks_Run", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Count.beta1_le", "child": "ClauseBound_ParityChecks_RunF", "via": ["solution", "statement"]}
 {"parent": "MatrixMatchingDual.unused_sum_zero", "child": "MatchingDual", "via": ["solution", "statement"]}
-{"parent": "PancakeHard.property_7", "child": "PancakeHard_Fork", "via": ["statement"]}
+{"parent": "PancakeHard.property_7", "child": "PancakeHard_Fork", "via": ["solution", "statement"]}
 {"parent": "ShallowShadows_ShadowNorm_coeff", "child": "ShallowShadows_ShadowNorm_pauli", "via": ["statement"]}
 {"parent": "CircuitLowerBound.TabF.kb_clipE_unary", "child": "CircuitLowerBound_Cert_TabF", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.TabF.kb_clipE_unary", "child": "CircuitLowerBound_Cert_Sched", "via": ["solution", "statement"]}
@@ -73188,7 +73188,7 @@
 {"parent": "PaddedDescent.F.Arith.top_rounds", "child": "PaddedDescent_F_ArithWalk", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Arith.top_rounds", "child": "PaddedDescent_F_ArithGlob", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Arith.top_rounds", "child": "PaddedDescent_F_ArithTop", "via": ["solution", "statement"]}
-{"parent": "TenChallenges.challenge_08_r2", "child": "TenChallenges_Challenge_08", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_08_r2", "child": "TenChallenges_Challenge_08", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.PartA.logK_formula", "child": "ClauseBound_Gen_PartA", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.PartA.logK_formula", "child": "GeneralPieces_Num_PartA", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.PartA.logK_formula", "child": "LevelsStatement", "via": ["solution", "statement"]}

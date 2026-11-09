@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_flux_boundG
 -- name    : BookProof.CarlemanTwoStep.flux_boundG
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:51:46.90463+00:00
 -- url     : https://prove2.me/theorems/e7175d6d-aa16-4a40-a215-88f8cdaa496d

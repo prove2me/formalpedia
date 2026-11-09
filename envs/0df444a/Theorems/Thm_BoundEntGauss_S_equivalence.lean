@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundEntGauss_S_equivalence
 -- name    : BoundEntGauss.S_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:49:34.887776+00:00
 -- url     : https://prove2.me/theorems/ad8597c5-c15e-4e33-8a9d-4c9b0553fb3d

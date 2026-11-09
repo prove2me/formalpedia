@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovariateSAA_lemma_3
 -- name    : CovariateSAA.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:28:58.080967+00:00
 -- url     : https://prove2.me/theorems/e57e1634-a132-4781-b9a7-b552e7e47796

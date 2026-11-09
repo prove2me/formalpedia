@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P13_matrix_elements_full_trace
 -- name    : QAlgorithms.Papers.Independent.Extend50.P13.matrix_elements_full_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T16:36:34.189694+00:00
 -- url     : https://prove2.me/theorems/fabd1a92-3e2c-47eb-a6dc-cf5f064a202a

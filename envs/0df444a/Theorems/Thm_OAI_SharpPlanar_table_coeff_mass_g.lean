@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_table_coeff_mass_g
 -- name    : OAI.SharpPlanar.table_coeff_mass_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:41:56.73784+00:00
 -- url     : https://prove2.me/theorems/6ec87723-8b1d-4824-8805-06f9d61d4ffc

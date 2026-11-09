@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_qgMetric_christoffel_zero
 -- name    : BookProof.QuantumGravityDensitized.qgMetric_christoffel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:29:59.874142+00:00
 -- url     : https://prove2.me/theorems/e9f0d867-b2a4-4dab-9379-2276b5867e51

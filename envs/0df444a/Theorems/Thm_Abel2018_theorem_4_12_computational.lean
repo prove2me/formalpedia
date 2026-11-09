@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Abel2018_theorem_4_12_computational
 -- name    : Abel2018.theorem_4_12_computational
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T13:34:20.175756+00:00
 -- url     : https://prove2.me/theorems/298b9507-be9c-44f2-a0c4-2ad426e16b96

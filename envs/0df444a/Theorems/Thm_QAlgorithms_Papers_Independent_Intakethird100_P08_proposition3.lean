@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P08_proposition3
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P08.proposition3
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:26:09.257165+00:00
 -- url     : https://prove2.me/theorems/1403461f-7f3c-4362-8306-9e313f34efcf

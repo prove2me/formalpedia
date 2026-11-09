@@ -1,0 +1,48 @@
+-- Prove2me | Definitions.Def_OAIQ098G080
+-- name    : OAIQ098G080
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-11-08T09:04:54.706814+00:00
+-- url     : https://prove2.me/theorems/83e1d294-18cc-49a8-8551-8aa5a88da256
+-- title:
+--   Definitions bundle OAIQ098G080 of the split of OpenAI, A sharp Fourier certificate for planar circle packing (result family 090)
+-- statement:
+--   A definitions bundle of the split of OpenAI's proof of `OAI.sharp_fourier_certificate`, carved from OpenAI's openai/math development (OpenAI, *A sharp Fourier certificate for planar circle packing (result family 090)*, OpenAI Math Release, September 23, 2026, result family 90, [github.com/openai/math](https://github.com/openai/math) at commit 7ef5c0c, Apache License 2.0) and ported to Lean 4.33.1 and Mathlib 0df444a. The declarations and their proofs are OpenAI's.
+--
+--   **Contents.** It holds 2 declarations of OpenAI's Lean: 2 definitions. The definitions and types are `OAI.SharpPlanar.IntegerBasis.alphaBox`, `OAI.SharpPlanar.IntegerBasis.betaBox`.
+--
+--   **Sources.** They come from these modules of lean/OAI/Analysis, in whole or in part: [`PlanarPacking_BasisIntervals`](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/PlanarPacking/BasisIntervals.lean).
+--
+--   **Imports.** It imports the bundles `OAIQ098G078` and `OAIQ098G079` of this split.
+--
+--   **Imported by** (directly, in this split): the statement `OAI.SharpPlanar.IntegerBasis.betaBox_contains_g`; the proofs of `OAI.SharpPlanar.IntegerAlpha.a0_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a0_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a0_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a0_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a0_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a0_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a10_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a10_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a10_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a10_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a10_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a10_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a11_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a11_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a11_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a11_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a11_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a11_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a1_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a1_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a1_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a1_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a1_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a1_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a2_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a2_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a2_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a2_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a2_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a2_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a3_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a3_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a3_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a3_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a3_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a3_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a4_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a4_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a4_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a4_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a4_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a4_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a5_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a5_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a5_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a5_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a5_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a5_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a6_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a6_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a6_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a6_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a6_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a6_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a7_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a7_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a7_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a7_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a7_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a7_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a8_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a8_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a8_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a8_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a8_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a8_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a9_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a9_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a9_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a9_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a9_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.a9_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b0_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b0_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b0_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b0_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b0_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b0_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b10_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b10_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b10_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b10_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b10_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b10_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b11_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b11_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b11_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b11_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b11_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b11_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b1_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b1_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b1_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b1_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b1_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b1_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b2_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b2_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b2_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b2_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b2_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b2_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b3_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b3_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b3_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b3_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b3_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b3_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b4_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b4_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b4_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b4_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b4_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b4_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b5_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b5_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b5_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b5_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b5_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b5_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b6_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b6_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b6_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b6_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b6_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b6_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b7_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b7_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b7_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b7_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b7_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b7_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b8_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b8_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b8_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b8_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b8_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b8_5_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b9_0_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b9_1_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b9_2_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b9_3_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b9_4_contains_g`, `OAI.SharpPlanar.IntegerAlpha.b9_5_contains_g` and `OAI.SharpPlanar.IntegerBasis.betaBox_contains_g`.
+-- source:
+--   OpenAI, A sharp Fourier certificate for planar circle packing (result family 090), OpenAI Math Release, September 23, 2026, https://github.com/openai/math (result family 90; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/A-sharp-Fourier-certificate-for-planar-circle-packing-September-23-2026/paper.pdf; Apache License 2.0); definitions carved from lean/OAI/Analysis at commit 7ef5c0c
+
+import Mathlib
+import Definitions.Def_OAIQ098G078
+import Definitions.Def_OAIQ098G079
+
+section
+-- module Solutions.OAIQ098_PP.PlanarPacking_BasisIntervals
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace SharpPlanar.IntegerBasis
+open IntegerIntervals
+
+def alphaBox (n j : ℕ) : CBox := boxSum
+  (fun l => if j<l then spectralCoefficientBox n l else zeroBox) 7
+def betaBox (n j : ℕ) : CBox := boxSum
+  (fun l => if j<l then (spectralCoefficientBox n l).scale l 6 else zeroBox) 7
+
+end SharpPlanar.IntegerBasis
+
+end OAI
+end
+
+

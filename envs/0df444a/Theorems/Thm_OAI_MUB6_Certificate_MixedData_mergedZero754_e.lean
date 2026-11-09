@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedData_mergedZero754_e
 -- name    : OAI.MUB6.Certificate.MixedData.mergedZero754_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T21:50:26.598624+00:00
 -- url     : https://prove2.me/theorems/6f2df62b-b0be-4f18-b8cf-fe449b2fe4e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_qgMetric_det_ne_zero
 -- name    : BookProof.QuantumGravityDensitized.qgMetric_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:29:47.472125+00:00
 -- url     : https://prove2.me/theorems/559b39ca-7c30-4240-a8d8-730108f43131

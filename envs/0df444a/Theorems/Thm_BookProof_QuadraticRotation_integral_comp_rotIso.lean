@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_integral_comp_rotIso
 -- name    : BookProof.QuadraticRotation.integral_comp_rotIso
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:24:47.835444+00:00
 -- url     : https://prove2.me/theorems/36e91c3a-f653-4433-be16-0f75eed9fe11

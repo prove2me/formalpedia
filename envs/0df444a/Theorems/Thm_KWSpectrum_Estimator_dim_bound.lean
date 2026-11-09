@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KWSpectrum_Estimator_dim_bound
 -- name    : KWSpectrum.Estimator.dim_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:33:23.65118+00:00
 -- url     : https://prove2.me/theorems/222f1d29-2955-4219-9383-c3372caa538c

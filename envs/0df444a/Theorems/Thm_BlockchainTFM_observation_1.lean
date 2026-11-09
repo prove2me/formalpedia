@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockchainTFM_observation_1
 -- name    : BlockchainTFM.observation_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:03:47.521782+00:00
 -- url     : https://prove2.me/theorems/da94cd73-4233-4056-9715-7abf63c7ea64

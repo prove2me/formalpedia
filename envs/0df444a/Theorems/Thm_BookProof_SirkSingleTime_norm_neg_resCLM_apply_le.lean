@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_norm_neg_resCLM_apply_le
 -- name    : BookProof.SirkSingleTime.norm_neg_resCLM_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T01:59:55.813072+00:00
 -- url     : https://prove2.me/theorems/693f14b2-34a8-4fa1-86c3-a460f13f7b7e

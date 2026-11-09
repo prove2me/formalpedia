@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBargaining_sum_eq_z
 -- name    : RiskBargaining.sum_eq_z
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:31:08.790015+00:00
 -- url     : https://prove2.me/theorems/987f1751-16e0-47fe-ad73-9246907367c2

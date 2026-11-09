@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCLeafB_exists_slack_engine
 -- name    : QMCLeafB_exists_slack_engine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T16:09:25.141625+00:00
 -- url     : https://prove2.me/theorems/e06e99ad-0954-46d1-a954-5f202e1d00c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoInclCLC_lemma_3_4
 -- name    : MonoInclCLC.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:20:09.24126+00:00
 -- url     : https://prove2.me/theorems/b0dbe5c0-f4b6-4b23-8897-1e3cbe6905fd

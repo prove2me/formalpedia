@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_finite_map_restrict_mass
 -- name    : e7_finite_map_restrict_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:00.475217+00:00
 -- url     : https://prove2.me/theorems/ab2759fb-26ca-4b02-9704-79a32d3afccc

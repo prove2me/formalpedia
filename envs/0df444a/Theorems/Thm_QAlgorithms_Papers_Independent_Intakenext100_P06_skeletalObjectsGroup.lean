@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P06_skeletalObjectsGroup
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P06.skeletalObjectsGroup
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T22:49:42.695239+00:00
 -- url     : https://prove2.me/theorems/c38d393c-1c26-4a51-a489-53891b774da4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_PairSourceBridge_targetZero0_e
 -- name    : OAI.MUB6.Certificate.PairSourceBridge.targetZero0_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T08:31:59.436208+00:00
 -- url     : https://prove2.me/theorems/de81cbcf-6835-4945-beea-cf041a5be6ef

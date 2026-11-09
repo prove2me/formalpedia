@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P12_identical_unitary_switch
 -- name    : QAlgorithms.Papers.Independent.Intake100.P12.identical_unitary_switch
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T13:11:19.484293+00:00
 -- url     : https://prove2.me/theorems/6681a265-e7cf-4d7d-9785-b866781d2ce7

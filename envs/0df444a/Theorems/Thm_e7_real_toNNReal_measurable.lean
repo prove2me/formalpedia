@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_real_toNNReal_measurable
 -- name    : e7_real_toNNReal_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:46.310932+00:00
 -- url     : https://prove2.me/theorems/a90bb57a-b1f3-4ff4-bf6a-b697cef988dd

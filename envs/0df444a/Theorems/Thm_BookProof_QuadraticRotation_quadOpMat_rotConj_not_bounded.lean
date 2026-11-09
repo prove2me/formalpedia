@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_quadOpMat_rotConj_not_bounded
 -- name    : BookProof.QuadraticRotation.quadOpMat_rotConj_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:28:14.493563+00:00
 -- url     : https://prove2.me/theorems/c92597bf-46af-4091-9e96-34a52f71178b

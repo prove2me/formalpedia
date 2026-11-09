@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeliefDominance_le_isPreorder
 -- name    : BeliefDominance.le_isPreorder
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:38.227298+00:00
 -- url     : https://prove2.me/theorems/a3394db7-0a3d-4984-bceb-b898c3e154de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P18_contraction_sandwich
 -- name    : QAlgorithms.Papers.Independent.Extend50.P18.contraction_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T19:56:54.934995+00:00
 -- url     : https://prove2.me/theorems/70358077-548c-4d26-b647-2142689f5067

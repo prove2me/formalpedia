@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsiderThenChoose_theorem_1
 -- name    : ConsiderThenChoose.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:37:51.784612+00:00
 -- url     : https://prove2.me/theorems/330490ec-5fe5-40a2-b292-3c6391438885

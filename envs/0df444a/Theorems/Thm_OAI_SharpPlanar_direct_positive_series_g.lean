@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_direct_positive_series_g
 -- name    : OAI.SharpPlanar.direct_positive_series_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:33:54.563676+00:00
 -- url     : https://prove2.me/theorems/b88f515e-fa3c-426e-bac1-05f0196bc76b

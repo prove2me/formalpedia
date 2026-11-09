@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFiberFL_norm_derivL2_sq
 -- name    : BookProof.ScalaronFiberFL.norm_derivL2_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:29:49.500924+00:00
 -- url     : https://prove2.me/theorems/bd5cfd25-b42c-4208-a0e3-3e8be9cf98f2

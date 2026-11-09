@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_CBox_contains_add_g
 -- name    : OAI.SharpPlanar.IntegerIntervals.CBox.contains_add_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T16:51:31.357445+00:00
 -- url     : https://prove2.me/theorems/d8b9d74d-1c82-459c-8940-3cee4ff148ab

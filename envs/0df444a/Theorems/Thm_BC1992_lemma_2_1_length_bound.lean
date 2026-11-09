@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BC1992_lemma_2_1_length_bound
 -- name    : BC1992.lemma_2_1_length_bound
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T00:36:33.580543+00:00
 -- url     : https://prove2.me/theorems/c4159d87-6398-4832-a778-db34d2e08579

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P72_excessNoiseSufficiency
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P72.excessNoiseSufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:46:27.395171+00:00
 -- url     : https://prove2.me/theorems/06c2f251-ead1-49bf-8853-b31e2bb5e92a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedSemantics_sound3206_e
 -- name    : OAI.MUB6.Certificate.MixedSemantics.sound3206_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T15:49:35.868212+00:00
 -- url     : https://prove2.me/theorems/e80164ef-0926-44cb-afa8-0811d698da01

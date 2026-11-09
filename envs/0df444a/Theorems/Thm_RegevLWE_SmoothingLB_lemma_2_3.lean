@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_SmoothingLB_lemma_2_3
 -- name    : RegevLWE.SmoothingLB.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:12:58.780518+00:00
 -- url     : https://prove2.me/theorems/fff6dd2e-1785-4a1d-993c-1987939add63

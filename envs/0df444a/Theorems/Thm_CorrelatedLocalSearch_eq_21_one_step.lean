@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedLocalSearch_eq_21_one_step
 -- name    : CorrelatedLocalSearch.eq_21_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:39:19.507535+00:00
 -- url     : https://prove2.me/theorems/691cb902-3895-454d-a5bc-6047933f7693

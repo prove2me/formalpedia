@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_gaussInt_rotPoly
 -- name    : BookProof.QuadraticRotation.gaussInt_rotPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:30:34.237817+00:00
 -- url     : https://prove2.me/theorems/96a9b7d7-362b-40c1-b55d-4985e138b5fa

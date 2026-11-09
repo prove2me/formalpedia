@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Abel2018_theorems_3_24_to_3_35_consequences
 -- name    : Abel2018.theorems_3_24_to_3_35_consequences
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T13:33:39.991212+00:00
 -- url     : https://prove2.me/theorems/21c19099-7b10-48ad-a66a-5a42885316aa

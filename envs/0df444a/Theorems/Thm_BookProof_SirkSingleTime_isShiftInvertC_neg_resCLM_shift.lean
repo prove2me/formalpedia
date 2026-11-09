@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_isShiftInvertC_neg_resCLM_shift
 -- name    : BookProof.SirkSingleTime.isShiftInvertC_neg_resCLM_shift
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-31T12:36:45.348001+00:00
 -- url     : https://prove2.me/theorems/485ed112-a96a-47ef-b498-87c3222f3b94

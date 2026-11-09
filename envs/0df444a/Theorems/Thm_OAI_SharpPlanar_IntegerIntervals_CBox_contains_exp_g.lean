@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_CBox_contains_exp_g
 -- name    : OAI.SharpPlanar.IntegerIntervals.CBox.contains_exp_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:34:32.560046+00:00
 -- url     : https://prove2.me/theorems/e13597d0-4722-4d1c-9f81-1eb08bc33a88

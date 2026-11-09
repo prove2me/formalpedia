@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P72_highModulationThreshold
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P72.highModulationThreshold
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:44:26.082604+00:00
 -- url     : https://prove2.me/theorems/59d1c255-d7fe-4a03-9993-e2c6e9586b67

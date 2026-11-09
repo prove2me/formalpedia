@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerAlpha_b9_1_contains_g
 -- name    : OAI.SharpPlanar.IntegerAlpha.b9_1_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T22:59:28.918084+00:00
 -- url     : https://prove2.me/theorems/4ffaff15-6700-4eee-b0ee-cb72a6bbdd00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P59_strictLocalization_unique
 -- name    : QAlgorithms.Papers.Independent.Intake100.P59.strictLocalization_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:03:55.533486+00:00
 -- url     : https://prove2.me/theorems/a08628d1-2f58-4bb0-8370-82a1d0a584a5

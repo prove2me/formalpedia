@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_tendsto_inv_det_atTop
 -- name    : BookProof.QuantumGravityDensitized.tendsto_inv_det_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:27:09.084208+00:00
 -- url     : https://prove2.me/theorems/4de0d33d-0310-4d6e-a2da-7050e448efb8

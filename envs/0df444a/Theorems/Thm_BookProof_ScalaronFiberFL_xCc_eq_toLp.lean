@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFiberFL_xCc_eq_toLp
 -- name    : BookProof.ScalaronFiberFL.xCc_eq_toLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:28:29.650195+00:00
 -- url     : https://prove2.me/theorems/7310ebbf-f858-4bce-90aa-c342d18f5bee

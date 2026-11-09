@@ -13971,7 +13971,7 @@
 {"parent": "D1Bound5_SmallPairPureClosureData15_Definitions", "child": "D1Bound5_SmallPairPureClosureData15Vertices_Definitions", "via": ["statement"]}
 {"parent": "D1Bound5_SmallPairPureClosureData15_Definitions", "child": "D1Bound5_SmallPairPureClosureData15RootPairs_Definitions", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.pointwise_summable_monotone_tsum", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planarDrawingOn_connected_augmentation__p2m_7f5185ee_24ca_4414_b90e_b6691f6b37ff_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planarDrawingOn_connected_augmentation__p2m_7f5185ee_24ca_4414_b90e_b6691f6b37ff_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.TuringRigidity.RelativeConstructible.prescribed_real_hull_extension", "child": "DegreeRigidity", "via": ["solution", "statement"]}
 {"parent": "OAI.TuringRigidity.RelativeConstructible.prescribed_real_hull_extension", "child": "OAIQ064A008", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1114_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
@@ -14744,7 +14744,7 @@
 {"parent": "ShadowTomography.UpperBound.theorem_2", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.sum_ite_mul_sum_ite_readable", "child": "KLSModular_LevyStochCalc_Brownian_ItoAlgebraProduct", "via": ["solution", "statement"]}
 {"parent": "OAI.Kadison.Decomposable.homomorphisms_ae_of_countable_relations", "child": "OAIQ039C023", "via": ["solution", "statement"]}
-{"parent": "KWSpectrum.Estimator.eq_21", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
+{"parent": "KWSpectrum.Estimator.eq_21", "child": "KWSpectrum_Estimator_Model", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p001_b003", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1253", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1253", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
@@ -37329,7 +37329,7 @@
 {"parent": "FinancialDerivatives.FD03.finiteBinomial_pricing_and_optimal_exercise", "child": "fd03_hedgeWealth", "via": ["solution", "statement"]}
 {"parent": "FinancialDerivatives.FD03.finiteBinomial_pricing_and_optimal_exercise", "child": "fd03_hedgeTerminalPays", "via": ["solution", "statement"]}
 {"parent": "FinancialDerivatives.FD03.finiteBinomial_pricing_and_optimal_exercise", "child": "fd03_terminalStockTree", "via": ["solution", "statement"]}
-{"parent": "KWSpectrum.Estimator.eq_20", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
+{"parent": "KWSpectrum.Estimator.eq_20", "child": "KWSpectrum_Estimator_Model", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10082_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_strict_edge_augmentation", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10057_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}

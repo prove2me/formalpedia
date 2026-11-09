@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_fullMoment_direct_g
 -- name    : OAI.SharpPlanar.fullMoment_direct_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:39:58.818798+00:00
 -- url     : https://prove2.me/theorems/46ac4d7c-5a50-46fc-abfd-2d9d1d04e777

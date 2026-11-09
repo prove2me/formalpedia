@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgTimeIndependent_qgOuterFock_timeIndependent_singleTime
 -- name    : BookProof.QgTimeIndependent.qgOuterFock_timeIndependent_singleTime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T23:28:20.583804+00:00
 -- url     : https://prove2.me/theorems/46b26540-6590-446f-bf02-ed878fba312e

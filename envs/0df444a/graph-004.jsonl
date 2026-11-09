@@ -18401,7 +18401,7 @@
 {"parent": "OAI.LogBrunnMinkowski.main", "child": "LogBrunnMinkowski", "via": ["solution", "statement"]}
 {"parent": "OAI.LogConcaveSampling.exact_source_main", "child": "LogConcaveQuery", "via": ["solution", "statement"]}
 {"parent": "OAI.LoopMatching.fullEndpoint", "child": "SingletonLoopMatching", "via": ["solution", "statement"]}
-{"parent": "OAI.MUB6.fourier_and_family_bound", "child": "MUBSix", "via": ["statement"]}
+{"parent": "OAI.MUB6.fourier_and_family_bound", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MainGap.Manuscript.individual_to_strong_main", "child": "IndividualStrongInfiniteness", "via": ["solution", "statement"]}
 {"parent": "OAI.MarkovSuperreflexivity.hasNontrivialMarkovType_iff_hasEquivalentUCNorm", "child": "MarkovType", "via": ["solution", "statement"]}
 {"parent": "OAI.MatchingEntropy.entropy_main", "child": "MatchingEntropy", "via": ["solution", "statement"]}
@@ -44207,8 +44207,8 @@
 {"parent": "RegevLWE.PeriodicGauss.normal_bound", "child": "RegevLWE_PeriodicGauss_Gaussian", "via": ["solution", "statement"]}
 {"parent": "RegevLWE.PeriodicGauss.periodization_le", "child": "RegevLWE_PeriodicGauss_Gaussian", "via": ["solution", "statement"]}
 {"parent": "RegevLWE.PeriodicGauss.pointwise_bound", "child": "RegevLWE_PeriodicGauss_Gaussian", "via": ["solution", "statement"]}
-{"parent": "RegevLWE.SmoothingLB.claim_2_13", "child": "RegevLWE_SmoothingLB_Lattice", "via": ["statement"]}
-{"parent": "RegevLWE.SmoothingLB.lemma_2_3", "child": "RegevLWE_SmoothingLB_Lattice", "via": ["statement"]}
+{"parent": "RegevLWE.SmoothingLB.claim_2_13", "child": "RegevLWE_SmoothingLB_Lattice", "via": ["solution", "statement"]}
+{"parent": "RegevLWE.SmoothingLB.lemma_2_3", "child": "RegevLWE_SmoothingLB_Lattice", "via": ["solution", "statement"]}
 {"parent": "RegevLWE.SmoothingLB.proof_display", "child": "RegevLWE_SmoothingLB_Lattice", "via": ["solution", "statement"]}
 {"parent": "RegevLWE.SmoothingLB.smoothing_remark", "child": "RegevLWE_SmoothingLB_Lattice", "via": ["solution", "statement"]}
 {"parent": "RegevLWE.SubsetSum.cauchy_schwarz_l2", "child": "RegevLWE_SubsetSum_Basic", "via": ["solution", "statement"]}

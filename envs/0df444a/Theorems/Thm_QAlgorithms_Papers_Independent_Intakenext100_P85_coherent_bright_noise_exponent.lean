@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P85_coherent_bright_noise_exponent
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P85.coherent_bright_noise_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:19:55.954395+00:00
 -- url     : https://prove2.me/theorems/b04738a1-2403-4f5e-ae4e-2ef25d9386ed

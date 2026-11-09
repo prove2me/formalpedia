@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_polynomial_approx_on_Icc
 -- name    : e7_polynomial_approx_on_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:23.11223+00:00
 -- url     : https://prove2.me/theorems/ebe0e12e-1c86-478d-8a8d-dda5ead66742

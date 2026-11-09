@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRAllocCV_favored_agent_feasible
 -- name    : DRAllocCV.favored_agent_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:15:08.269041+00:00
 -- url     : https://prove2.me/theorems/8211fb1e-06d9-4c92-97ad-e9804e5210bd

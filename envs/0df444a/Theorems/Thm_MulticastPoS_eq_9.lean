@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticastPoS_eq_9
 -- name    : MulticastPoS.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:40:49.176291+00:00
 -- url     : https://prove2.me/theorems/d18a4661-70e6-4a6d-8d8a-30b621fa931d

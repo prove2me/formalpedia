@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Couret.S5.rank_row_140
+-- status  : ACCEPTED   (prove)
+-- author  : @alexcour
+-- created : 2026-11-08T20:10:12.583729+00:00
+-- url     : https://prove2.me/submissions/4cb3d965-5e5c-4653-acb2-a8e74149fe52
+
+import Definitions.Def_Couret_RankBlock00_bd2f9788729f
+import Std
+import Definitions.Def_Couret_RankBlock00_bd2f9788729f
+set_option maxRecDepth 100000
+set_option maxHeartbeats 4000000
+namespace Couret
+namespace S5
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem p2m_local_rank_row_140 : RankFacts 140 := by unfold RankFacts; decide +kernel
+
+
+
+end S5
+end Couret
+
+theorem solution : Couret.S5.RankFacts (@OfNat.ofNat.{0} Nat (nat_lit 140) (instOfNatNat (nat_lit 140))) := @_root_.Couret.S5.p2m_local_rank_row_140
+

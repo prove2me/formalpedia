@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCLAssort_theorem_2_framework
 -- name    : PCLAssort.theorem_2_framework
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:22:54.243246+00:00
 -- url     : https://prove2.me/theorems/17dc6ee0-8ffb-43d9-b9b9-d8caf1122ae8

@@ -90630,7 +90630,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c317061_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c319061_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.supportfree_repeated_b079", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_connected_augmentation__p2m_1292968f_ac05_4a25_979d_3851b390bd91_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connected_augmentation__p2m_1292968f_ac05_4a25_979d_3851b390bd91_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c313056_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankLandMonoDim2", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankLandMonoDim2", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["statement"]}

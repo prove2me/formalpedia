@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_PairTargetSemantics_weightedTerm23_e
 -- name    : OAI.MUB6.Certificate.PairTargetSemantics.weightedTerm23_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T05:52:59.306419+00:00
 -- url     : https://prove2.me/theorems/8f5e1be9-dd3d-410e-94e1-ab4b69c25726

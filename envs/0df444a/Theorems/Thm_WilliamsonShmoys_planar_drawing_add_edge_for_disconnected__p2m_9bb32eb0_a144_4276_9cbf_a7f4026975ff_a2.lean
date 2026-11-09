@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_add_edge_for_disconnected__p2m_9bb32eb0_a144_4276_9cbf_a7f4026975ff_a2
 -- name    : WilliamsonShmoys.planar_drawing_add_edge_for_disconnected__p2m_9bb32eb0_a144_4276_9cbf_a7f4026975ff_a2
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-28T21:56:45.70266+00:00
 -- url     : https://prove2.me/theorems/ef70fa5c-2eee-4385-baf2-d66abdb9f5c8

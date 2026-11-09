@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_ShortPaths_short_path_duality
 -- name    : LeightonRao.ShortPaths.short_path_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:26:11.83798+00:00
 -- url     : https://prove2.me/theorems/6ddc84a5-7bf3-44f9-86f1-9ff7cf681c4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_ltermG_shift
 -- name    : BookProof.CarlemanTwoStep.ltermG_shift
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:50:24.497448+00:00
 -- url     : https://prove2.me/theorems/45c02a92-a182-44f8-bdc0-eda28787d601

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_pair_cross_certificate_e
 -- name    : OAI.MUB6.pair_cross_certificate_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T08:36:19.394196+00:00
 -- url     : https://prove2.me/theorems/3d2b18ad-f92b-40af-8438-dfd13046a3e0

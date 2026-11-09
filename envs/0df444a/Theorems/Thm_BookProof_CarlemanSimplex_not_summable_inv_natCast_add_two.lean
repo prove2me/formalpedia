@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_not_summable_inv_natCast_add_two
 -- name    : BookProof.CarlemanSimplex.not_summable_inv_natCast_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:49:41.781639+00:00
 -- url     : https://prove2.me/theorems/5a2fb522-f6dd-4011-9d47-8b9c2c958124

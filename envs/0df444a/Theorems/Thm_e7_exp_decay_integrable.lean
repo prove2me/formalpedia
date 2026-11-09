@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_exp_decay_integrable
 -- name    : e7_exp_decay_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:10.839401+00:00
 -- url     : https://prove2.me/theorems/de64d7db-e2a3-4585-b748-6a69ad3b147f

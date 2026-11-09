@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxCD_appH_expected_improvement_identity
 -- name    : KarimiPL.ProxCD.appH_expected_improvement_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:56:30.58982+00:00
 -- url     : https://prove2.me/theorems/8df91dd8-8516-4fb6-b9ce-77d3136437d1

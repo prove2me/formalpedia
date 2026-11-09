@@ -1,0 +1,56 @@
+-- Prove2me | Theorems.Thm_Couret_STROBO2TORS_nontranslationDeltaGraph_six_twice_edges_numeric
+-- name    : Couret.STROBO2TORS.nontranslationDeltaGraph_six_twice_edges_numeric
+-- status  : Proved
+-- author  : @alexcour
+-- created : 2026-11-08T20:39:12.216873+00:00
+-- url     : https://prove2.me/theorems/e365941d-7d3c-47e1-8196-deb50a5bd887
+-- title:
+--   Number of nontranslation delta-six edges
+-- statement:
+--   Let $G$ be a finite abelian group. Write $H=G[2]=\{u:2u=0\}$, $K=G[3]=\{v:3v=0\}$, $h=|H|$, $t=|K|$, $n=|G|$, and $q=|2G|$. For a triple support $S$, let $\mathcal F(S)$ be all three-element supports having the same ordered pair-sum counts, and $\mathcal O(S)=\{S+u:u\in H\}$. An ordinary fibre has size $h$; an exceptional fibre has size $2h$. For any fibre $F$, put $F^\circ=\{S\in F:0\notin S\}$. Let $E^{\rm nt}_6$ be the unordered pairs of nontranslated square-equivalent triples with symmetric-difference size six. Then
+--
+--   $$2|E^{\rm nt}_6|=n(h-1)^2(t-1).$$
+--
+--   This describes the finite triple-support square fibres.
+-- source:
+--   Alexandre Couret, Couret — Additive reconstruction: STROBO-4, singleton collisions and RECOH formal proof artifacts, https://zenodo.org/records/23980513; archive COURET_MATHEMATIQUES_20261105.zip, SHA-256 19a3b59aee930df74cab79c27b29e014843bd17179a26fef1261ed6b5a651ab7; file RECOH/lean/Strobo2TorsDeltaExceptionalCount.lean, lines 310–317; source file SHA-256 f29a05e63c72c6391cb5af4eda72214b169f1bd248608234ab836d615b0d4ef0; theorem Couret.STROBO2TORS.nontranslationDeltaGraph_six_twice_edges_numeric
+
+import Aesop
+import Definitions.Def_Couret_Strobo2TorsDeltaExceptionalCount_9f9783d90924
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Combinatorics.SimpleGraph.DegreeSum
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.SymmDiff
+import Mathlib.Data.Fintype.Card
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Tauto
+import Theorems.Thm_Couret_STROBO2TORS_exceptionalSupports_card
+import Theorems.Thm_Couret_STROBO2TORS_nontranslationDeltaGraph_degree_six
+import Definitions.Def_Couret_Strobo2TorsCore_3589e2e5b464
+import Definitions.Def_Couret_Strobo2TorsNontranslationUnordered_7692bff20374
+
+set_option autoImplicit false
+
+/-!
+Unordered nontranslation collisions, split by symmetric-difference size.
+The ambient group is finite abelian, supports have cardinality three, and
+zero is permitted. An exceptional source has one delta-four neighbour and
+`|G[2]| - 1` delta-six neighbours. Graph degree sums count unordered pairs
+twice, so the final statements require no division in natural numbers.
+-/
+
+open scoped BigOperators symmDiff
+
+namespace Couret.STROBO2TORS
+
+variable {G : Type*} [AddCommGroup G] [DecidableEq G] [Fintype G]
+
+theorem nontranslationDeltaGraph_six_twice_edges_numeric :
+    2 * (nontranslationDeltaGraph (G := G) 6).edgeFinset.card =
+      Fintype.card G * ((twoTorsion : Finset G).card - 1) ^ 2 *
+        ((threeTorsion : Finset G).card - 1) := by sorry
+
+
+
+end Couret.STROBO2TORS

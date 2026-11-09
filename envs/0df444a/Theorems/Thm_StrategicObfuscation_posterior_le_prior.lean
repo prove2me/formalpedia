@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicObfuscation_posterior_le_prior
 -- name    : StrategicObfuscation.posterior_le_prior
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:52:10.447048+00:00
 -- url     : https://prove2.me/theorems/1168d627-f777-4186-a0ab-6ffc07749120

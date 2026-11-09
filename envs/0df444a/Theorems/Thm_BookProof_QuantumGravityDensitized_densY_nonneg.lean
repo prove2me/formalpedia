@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_densY_nonneg
 -- name    : BookProof.QuantumGravityDensitized.densY_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:26:38.684292+00:00
 -- url     : https://prove2.me/theorems/fd2b9263-7fd7-4040-b7a2-c4e896eb216c

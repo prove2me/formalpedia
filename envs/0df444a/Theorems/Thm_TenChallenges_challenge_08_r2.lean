@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TenChallenges_challenge_08_r2
 -- name    : TenChallenges.challenge_08_r2
--- status  : Open
+-- status  : Proved
 -- author  : @utkuokur
 -- created : 2026-11-04T21:16:27.612188+00:00
 -- url     : https://prove2.me/theorems/edad5fdf-87bc-4df7-bfee-c65826a47d90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_deg_tsub_of_le
 -- name    : BookProof.CarlemanSimplex.deg_tsub_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:45:54.106195+00:00
 -- url     : https://prove2.me/theorems/5e076266-20b3-40b5-9c99-2ddeb6631f29

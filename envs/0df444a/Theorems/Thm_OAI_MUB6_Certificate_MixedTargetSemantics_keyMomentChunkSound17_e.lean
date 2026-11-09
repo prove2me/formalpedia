@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedTargetSemantics_keyMomentChunkSound17_e
 -- name    : OAI.MUB6.Certificate.MixedTargetSemantics.keyMomentChunkSound17_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T03:44:49.797116+00:00
 -- url     : https://prove2.me/theorems/ec8caf49-f9cd-40be-a278-41f471c4020f

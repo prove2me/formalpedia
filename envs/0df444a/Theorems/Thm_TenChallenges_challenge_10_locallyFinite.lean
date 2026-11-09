@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TenChallenges_challenge_10_locallyFinite
 -- name    : TenChallenges.challenge_10_locallyFinite
--- status  : Open
+-- status  : Proved
 -- author  : @utkuokur
 -- created : 2026-11-04T20:45:41.560199+00:00
 -- url     : https://prove2.me/theorems/36ae2569-22f1-435b-a74b-558ccd5bca49

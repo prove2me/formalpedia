@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_continuous_test_zero_of_polynomial_approx
 -- name    : e7_continuous_test_zero_of_polynomial_approx
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:06.443321+00:00
 -- url     : https://prove2.me/theorems/7fe572f1-5dd4-4f63-bec1-06e35e5922a4

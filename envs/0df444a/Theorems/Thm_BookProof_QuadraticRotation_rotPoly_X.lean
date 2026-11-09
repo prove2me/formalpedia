@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_rotPoly_X
 -- name    : BookProof.QuadraticRotation.rotPoly_X
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:25:45.352234+00:00
 -- url     : https://prove2.me/theorems/6145775b-e5b9-4e0e-95e8-4450b97f6241

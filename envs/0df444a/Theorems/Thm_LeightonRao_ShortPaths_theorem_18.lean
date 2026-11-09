@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_ShortPaths_theorem_18
 -- name    : LeightonRao.ShortPaths.theorem_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:26:39.216978+00:00
 -- url     : https://prove2.me/theorems/45884dac-7549-4f73-87fa-a2a83730a3e5

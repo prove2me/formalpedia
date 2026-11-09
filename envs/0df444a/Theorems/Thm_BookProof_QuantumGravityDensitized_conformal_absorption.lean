@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_conformal_absorption
 -- name    : BookProof.QuantumGravityDensitized.conformal_absorption
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:31:31.299188+00:00
 -- url     : https://prove2.me/theorems/ab85c7a8-b287-485e-9d88-187677fff008

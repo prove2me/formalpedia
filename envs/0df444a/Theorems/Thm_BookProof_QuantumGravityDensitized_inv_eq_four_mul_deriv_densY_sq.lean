@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_inv_eq_four_mul_deriv_densY_sq
 -- name    : BookProof.QuantumGravityDensitized.inv_eq_four_mul_deriv_densY_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:30:45.978284+00:00
 -- url     : https://prove2.me/theorems/0b082f43-3cda-4848-bdac-f449d60609db

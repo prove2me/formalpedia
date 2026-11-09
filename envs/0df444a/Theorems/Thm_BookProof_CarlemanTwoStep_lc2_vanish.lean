@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_lc2_vanish
 -- name    : BookProof.CarlemanTwoStep.lc2_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:51:02.295279+00:00
 -- url     : https://prove2.me/theorems/5d91c9d5-f581-44e0-be61-72115a122875

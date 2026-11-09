@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_small_endpoint_moment_bound
 -- name    : e7_small_endpoint_moment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:53.177934+00:00
 -- url     : https://prove2.me/theorems/b8ec4305-d97f-4b5d-86f4-1bb4568e84c8

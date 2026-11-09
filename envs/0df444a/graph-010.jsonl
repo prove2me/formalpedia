@@ -53567,9 +53567,9 @@
 {"parent": "QAlgorithms_Papers_Independent_Gap48_P13", "child": "QAlgorithms_Papers_Independent_Claimed50_P39", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Gap48_P13", "child": "QAlgorithms_Papers_Independent_Dependency50_P39", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Gap48_P13", "child": "QAlgorithms_Papers_Independent_Renew46_P19", "via": ["statement"]}
-{"parent": "JobShopLTAS.Core.lemma1_interval_lp_feasible", "child": "JobShopLTAS_Core_IntervalLP", "via": ["statement"]}
-{"parent": "JobShopLTAS.Core.lemma1_interval_lp_feasible", "child": "JobShopLTAS_Core_Instance", "via": ["statement"]}
-{"parent": "JobShopLTAS.Core.lemma1_interval_lp_feasible", "child": "JobShopLTAS_Core_RestrictedProblem", "via": ["statement"]}
+{"parent": "JobShopLTAS.Core.lemma1_interval_lp_feasible", "child": "JobShopLTAS_Core_IntervalLP", "via": ["solution", "statement"]}
+{"parent": "JobShopLTAS.Core.lemma1_interval_lp_feasible", "child": "JobShopLTAS_Core_Instance", "via": ["solution", "statement"]}
+{"parent": "JobShopLTAS.Core.lemma1_interval_lp_feasible", "child": "JobShopLTAS_Core_RestrictedProblem", "via": ["solution", "statement"]}
 {"parent": "FullFormalization.GD.out_eq", "child": "FunctionClass", "via": ["solution", "statement"]}
 {"parent": "FullFormalization.GD.out_eq", "child": "GradientStrategies", "via": ["solution", "statement"]}
 {"parent": "FullFormalization.GD.out_eq", "child": "Coefficients", "via": ["solution", "statement"]}

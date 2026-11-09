@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperPareto_lemma_2
 -- name    : SuperPareto.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:27.039254+00:00
 -- url     : https://prove2.me/theorems/dc17afca-8a0f-4e7d-bc60-3886098bfb2c

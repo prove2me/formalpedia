@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_qgSymbol_indefinite
 -- name    : BookProof.QuantumGravityDensitized.qgSymbol_indefinite
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:29:34.2332+00:00
 -- url     : https://prove2.me/theorems/53b5dd6c-02cb-4182-8857-93f5f34209a4

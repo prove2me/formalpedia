@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_finite_measure_eq_zero_of_mass_eq_zero
 -- name    : e7_finite_measure_eq_zero_of_mass_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:16.391743+00:00
 -- url     : https://prove2.me/theorems/0e6b8e55-b6e5-405a-ac08-32891cbed9b3

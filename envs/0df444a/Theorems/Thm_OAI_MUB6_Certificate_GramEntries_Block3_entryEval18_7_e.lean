@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_GramEntries_Block3_entryEval18_7_e
 -- name    : OAI.MUB6.Certificate.GramEntries.Block3.entryEval18_7_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T10:08:23.261206+00:00
 -- url     : https://prove2.me/theorems/b247c6d7-f1ab-4f6c-b981-a557b4407c56

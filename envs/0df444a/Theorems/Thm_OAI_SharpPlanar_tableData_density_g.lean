@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_tableData_density_g
 -- name    : OAI.SharpPlanar.tableData_density_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:43:20.480915+00:00
 -- url     : https://prove2.me/theorems/5ac75252-5318-4bf7-af70-19fce4f9b8da

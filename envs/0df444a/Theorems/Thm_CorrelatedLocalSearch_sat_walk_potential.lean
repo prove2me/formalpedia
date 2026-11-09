@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedLocalSearch_sat_walk_potential
 -- name    : CorrelatedLocalSearch.sat_walk_potential
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:40:14.9443+00:00
 -- url     : https://prove2.me/theorems/8e419190-caf6-4d04-8391-9c90492e4282

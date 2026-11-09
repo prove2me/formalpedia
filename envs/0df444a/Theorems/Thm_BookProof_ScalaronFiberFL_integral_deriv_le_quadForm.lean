@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFiberFL_integral_deriv_le_quadForm
 -- name    : BookProof.ScalaronFiberFL.integral_deriv_le_quadForm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:27:34.182873+00:00
 -- url     : https://prove2.me/theorems/4a3a88aa-2913-47b3-a30d-793ff0335d32

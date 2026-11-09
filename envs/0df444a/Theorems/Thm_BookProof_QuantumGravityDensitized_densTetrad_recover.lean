@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_densTetrad_recover
 -- name    : BookProof.QuantumGravityDensitized.densTetrad_recover
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:26:10.317201+00:00
 -- url     : https://prove2.me/theorems/78962978-3f4c-4ac3-97b3-27981258ac67

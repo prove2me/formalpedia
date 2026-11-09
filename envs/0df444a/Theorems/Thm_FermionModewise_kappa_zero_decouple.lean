@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FermionModewise_kappa_zero_decouple
 -- name    : FermionModewise.kappa_zero_decouple
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:33:14.503871+00:00
 -- url     : https://prove2.me/theorems/a0d1551e-222c-4666-aca3-67ec7b197ef5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitNBR_nbr_scaled_feasible
 -- name    : NestedLogitNBR.nbr_scaled_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:49:31.508111+00:00
 -- url     : https://prove2.me/theorems/1d58c7ee-de1c-4c8b-8c02-8ab24b1c432c

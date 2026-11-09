@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_quadOpMat_diagonal
 -- name    : BookProof.QuadraticRotation.quadOpMat_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:28:00.712893+00:00
 -- url     : https://prove2.me/theorems/c7555958-51f0-4d05-904c-b49d947ce06b

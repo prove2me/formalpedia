@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_singleTime_flow_tendsto_of_strongResAt
 -- name    : BookProof.SirkSingleTime.singleTime_flow_tendsto_of_strongResAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-31T12:36:34.553854+00:00
 -- url     : https://prove2.me/theorems/5d457c42-c115-4888-bdd9-19881b7266c9

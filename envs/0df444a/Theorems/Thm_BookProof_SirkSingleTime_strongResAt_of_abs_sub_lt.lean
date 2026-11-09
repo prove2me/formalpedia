@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_strongResAt_of_abs_sub_lt
 -- name    : BookProof.SirkSingleTime.strongResAt_of_abs_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-04T02:00:11.891453+00:00
 -- url     : https://prove2.me/theorems/ec860585-6450-4b21-bcec-72ef102e2030

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommitFrontRun_unthreatened_reply
 -- name    : CommitFrontRun.unthreatened_reply
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:44:55.124439+00:00
 -- url     : https://prove2.me/theorems/5fb930e2-9ce0-4ebd-a72a-85c9adb41836

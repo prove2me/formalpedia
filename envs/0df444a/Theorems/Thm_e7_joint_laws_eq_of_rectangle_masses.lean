@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_joint_laws_eq_of_rectangle_masses
 -- name    : e7_joint_laws_eq_of_rectangle_masses
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:02.131597+00:00
 -- url     : https://prove2.me/theorems/0320f751-4364-4b77-a454-79f09f8951cc

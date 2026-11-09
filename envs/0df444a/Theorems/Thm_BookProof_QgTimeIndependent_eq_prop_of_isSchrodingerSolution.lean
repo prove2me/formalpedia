@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgTimeIndependent_eq_prop_of_isSchrodingerSolution
 -- name    : BookProof.QgTimeIndependent.eq_prop_of_isSchrodingerSolution
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T23:28:40.405393+00:00
 -- url     : https://prove2.me/theorems/60589075-6fa0-4da2-a088-6578bc86f4ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_cachedMomentRuleBox_contains_g
 -- name    : OAI.SharpPlanar.IntegerBasis.cachedMomentRuleBox_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:02:45.822715+00:00
 -- url     : https://prove2.me/theorems/9468dfbe-f2e8-4f7c-8307-918ad161047b

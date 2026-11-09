@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogStarBinPacking_claim_2_1
 -- name    : LogStarBinPacking.claim_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:31:25.263039+00:00
 -- url     : https://prove2.me/theorems/c6ca64b5-1ed3-4373-a4fe-2528c6c064fb

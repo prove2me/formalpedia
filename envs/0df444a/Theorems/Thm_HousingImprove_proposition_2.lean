@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HousingImprove_proposition_2
 -- name    : HousingImprove.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:28:46.644578+00:00
 -- url     : https://prove2.me/theorems/915f7de6-648e-4ae5-aef4-7ba7946e558b

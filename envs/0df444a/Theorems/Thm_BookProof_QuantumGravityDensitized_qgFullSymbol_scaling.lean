@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_qgFullSymbol_scaling
 -- name    : BookProof.QuantumGravityDensitized.qgFullSymbol_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:29:22.38324+00:00
 -- url     : https://prove2.me/theorems/95bb0aac-30ca-4546-a3e7-80fe31d0b2b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Abel2018_theorems_3_21_and_3_23_fundamental
 -- name    : Abel2018.theorems_3_21_and_3_23_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T13:33:26.555206+00:00
 -- url     : https://prove2.me/theorems/6954c33e-d347-45a2-9f26-c79deb466ddb

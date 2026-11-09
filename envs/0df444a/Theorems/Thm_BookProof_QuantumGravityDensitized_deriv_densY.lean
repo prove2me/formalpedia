@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_deriv_densY
 -- name    : BookProof.QuantumGravityDensitized.deriv_densY
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:29:15.857063+00:00
 -- url     : https://prove2.me/theorems/cd7bb4c4-bf10-492c-83ed-eeb28bc487b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntLInfty_Kan_lemma_5_9
 -- name    : IntLInfty.Kan.lemma_5_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:32:51.690979+00:00
 -- url     : https://prove2.me/theorems/4effe2c4-5be5-4092-8915-2eed3144b00c

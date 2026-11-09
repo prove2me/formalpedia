@@ -1,0 +1,127 @@
+-- Prove2me | Definitions.Def_ZLIPPadding_Padding_Algorithms
+-- name    : ZLIPPadding_Padding_Algorithms
+-- status  : Definition
+-- author  : @mikedeng1
+-- created : 2026-11-08T11:00:19.486875+00:00
+-- url     : https://prove2.me/theorems/83f353f6-f0e3-4655-8635-2225bf319351
+-- title:
+--   Padding trials, exact screening, basis collection and bounded unit sampling
+-- statement:
+--   A padding trial forms $K=\operatorname{diag}(G,I_{N-n})$, randomizes at precision $1/(8N)$, queries only $H$, maps $q$ back by $U$, projects the first $n$ coordinates and applies the exact primitive screen. Independent trials stop at the first success.
+--
+--   For dyadic request $\beta=u/2^b$, the repetition count is found by exact rational comparisons against $(1-5n/(8N))^t\leq\beta/2$, with a polynomial search limit. Basis recovery uses same-dimensional outer randomization, exact-vector subcalls with allocated error, and collection of mutually orthogonal unit axes. It checks both determinant magnitude one and $A^TGA=I$.
+--
+--   For a recovered $A$, each of at most $r=b-3$ independent draws uses $\lceil\log_2(2n)\rceil$ bits, rejects $R\geq2n$, and otherwise outputs
+--   $$(-1)^{R\bmod2}Ae_{\lfloor R/2\rfloor}.$$
+--   Zero-based indexing explains the index. The goal sets $b=r+3$ with the source value $r=\lceil\log_2(2/\delta)\rceil$. All PMF expressions describe explicit finite operations; separate machine-realization conclusions establish executable cost bounds.
+-- source:
+--   Shengmao Jiang, STOC 2027 submission #496 (October 2026), printed pp. 28–32 (PDF pp. 29–33), §§7.2–7.7, (7.6), (7.8), (7.15)–(7.17), (7.22)
+
+import Definitions.Def_ZLIPPadding_Padding_FiniteRandomizer
+
+namespace ZLIPPadding.Padding
+open scoped BigOperators ENNReal
+
+/-- The upper left block is G and all remaining coordinates are the identity. -/
+def padGram {n : ℕ} (G : ZMat n) (N : ℕ) : ZMat N := fun i j =>
+  if hi : i.val < n then
+    if hj : j.val < n then G ⟨i.val, hi⟩ ⟨j.val, hj⟩ else 0
+  else if i = j then 1 else 0
+
+def project {n N : ℕ} (c : ZVec N) : ZVec n :=
+  fun i => if h : i.val < N then c ⟨i.val, h⟩ else 0
+
+/-- Dyadic error request: the integer exponent, rather than a real logarithm, is input. -/
+def errorBudget (b u : ℕ) : ℚ := (u : ℚ) / 2^b
+
+/-- Exact rational comparison, §7.5. The search has a polynomial value bound.
+No logarithm or hidden coordinate is evaluated by the finite program. -/
+def rationalTrials (n N : ℕ) (β : ℚ) (limit : ℕ) : ℕ :=
+  ((List.range (limit+1)).find? fun t => (1 - (5*n : ℚ)/(8*N))^t ≤ β/2).getD limit
+
+def vectorTrials (n N b u : ℕ) : ℕ :=
+  rationalTrials n N (errorBudget b u) (8*N*(b+u+10))
+
+def basisRounds (n b u : ℕ) : ℕ := 8*n*(b+u+n+10)
+
+def basisTrials (n N b u : ℕ) : ℕ :=
+  rationalTrials n N (errorBudget b u / (64*n*basisRounds n b u))
+    (8*N*(b+u+64*n+basisRounds n b u+10))
+
+def innerProduct {n : ℕ} (G : ZMat n) (a c : ZVec n) : ℤ :=
+  ∑ i, a i * (G.mulVec c) i
+
+/-- Keep one representative from each orthogonal axis; failures contribute no vector. -/
+def collectAxes {n : ℕ} (G : ZMat n) : List (Option (ZVec n)) → List (ZVec n)
+  | [] => []
+  | none :: xs => collectAxes G xs
+  | some a :: xs =>
+      let ys := collectAxes G xs
+      if qnorm G a = 1 ∧ ∀ c ∈ ys, innerProduct G a c = 0 then a :: ys else ys
+
+def finishBasis {n : ℕ} (G : ZMat n) (xs : List (Option (ZVec n))) : Option (ZMat n) :=
+  let vs := collectAxes G xs
+  let A : ZMat n := fun i j => ((vs[j.val]?).getD 0) i
+  if vs.length = n ∧ A.det.natAbs = 1 ∧ A.transpose * G * A = 1 then some A else none
+
+noncomputable section
+
+def paddingTrial (R : RandomizerCode) (A : Oracle) {n : ℕ} (G : ZMat n) (N : ℕ) :
+    PMF (Option (ZVec n)) :=
+  (finiteLaw R (padGram G N) (8*N)).bind fun hu =>
+    match hu with
+    | none => PMF.pure none
+    | some (H,U) => (A N H).map fun q => screen G (project (U.mulVec q))
+
+def firstSuccess {α : Type} (μ : PMF (Option α)) : ℕ → PMF (Option α)
+  | 0 => PMF.pure none
+  | t+1 => μ.bind fun x => match x with
+      | some a => PMF.pure (some a)
+      | none => firstSuccess μ t
+
+def exactVectorLaw (R : RandomizerCode) (A : Oracle) {n : ℕ}
+    (G : ZMat n) (N b u : ℕ) : PMF (Option (ZVec n)) :=
+  firstSuccess (paddingTrial R A G N) (vectorTrials n N b u)
+
+/-- Same-dimensional outer randomization followed by exact-vector subcalls.
+The subroutine's error is allocated across the fixed coupon-collection schedule. -/
+def axisLaw (R : RandomizerCode) (A : Oracle) {n : ℕ}
+    (G : ZMat n) (N b u : ℕ) : PMF (Option (ZVec n)) :=
+  (finiteLaw R G (32*n)).bind fun hu =>
+    match hu with
+    | none => PMF.pure none
+    | some (H,U) =>
+        (firstSuccess (paddingTrial R A H N) (basisTrials n N b u)).map
+          (Option.map U.mulVec)
+
+def basisLaw (R : RandomizerCode) (A : Oracle) {n : ℕ}
+    (G : ZMat n) (N b u : ℕ) : PMF (Option (ZMat n)) :=
+  (iid (axisLaw R A G N b u) (basisRounds n b u)).map (finishBasis G)
+
+/-- Uniform b-bit integer, generated by precisely b independent fair coin flips. -/
+def uniformBits : ℕ → PMF ℕ
+  | 0 => PMF.pure 0
+  | b+1 => (PMF.bernoulli (1/2) (by norm_num)).bind fun bit =>
+      (uniformBits b).map fun t => 2*t + if bit then 1 else 0
+
+def indexLaw (n r : ℕ) : PMF (Option ℕ) :=
+  firstSuccess ((uniformBits ((2*n-1).log2+1)).map
+    fun j => if j < 2*n then some j else none) r
+
+def basisUnit {n : ℕ} (A : ZMat n) (j : ℕ) : ZVec n :=
+  fun i => (if j % 2 = 0 then 1 else -1) *
+    if h : j/2 < n then A i ⟨j/2, h⟩ else 0
+
+def sampleGivenBasis {n : ℕ} (A : ZMat n) (b : ℕ) : PMF (Option (ZVec n)) :=
+  (indexLaw n (b-3)).map (Option.map (basisUnit A))
+
+def samplerLaw (R : RandomizerCode) (A : Oracle) {n : ℕ}
+    (G : ZMat n) (N b u : ℕ) : PMF (Option (ZVec n)) :=
+  (basisLaw R A G N b u).bind fun answer => match answer with
+    | none => PMF.pure none
+    | some V => sampleGivenBasis V b
+
+end
+end ZLIPPadding.Padding
+
+

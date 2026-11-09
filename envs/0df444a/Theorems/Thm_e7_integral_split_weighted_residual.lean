@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_integral_split_weighted_residual
 -- name    : e7_integral_split_weighted_residual
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:56.681384+00:00
 -- url     : https://prove2.me/theorems/068689c3-1e6f-4e84-ada9-ebdc7bddddac

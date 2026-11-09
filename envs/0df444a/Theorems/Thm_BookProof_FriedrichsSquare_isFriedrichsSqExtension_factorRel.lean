@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsSquare_isFriedrichsSqExtension_factorRel
 -- name    : BookProof.FriedrichsSquare.isFriedrichsSqExtension_factorRel
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-02T20:33:09.39613+00:00
 -- url     : https://prove2.me/theorems/500223e5-fafe-4a38-bf79-4780df3679f4

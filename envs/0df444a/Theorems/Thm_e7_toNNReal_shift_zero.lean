@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_toNNReal_shift_zero
 -- name    : e7_toNNReal_shift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:48.735062+00:00
 -- url     : https://prove2.me/theorems/4d4ff5cb-d6c9-4637-a20d-d64125c24eb0

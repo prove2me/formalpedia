@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Factors_mignotte_step
 -- name    : LLLFactor.Factors.mignotte_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:22:28.871147+00:00
 -- url     : https://prove2.me/theorems/dbcd2080-ea65-4568-8195-843299dd7632

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRAllocCV_lemma_1
 -- name    : DRAllocCV.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:14:18.985228+00:00
 -- url     : https://prove2.me/theorems/02c68fb9-226a-4034-a338-17c23da29d56

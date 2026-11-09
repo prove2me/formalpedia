@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqPostedPricing_PartitionSPM_display_3_correlation_gap
 -- name    : SeqPostedPricing.PartitionSPM.display_3_correlation_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:14:34.702033+00:00
 -- url     : https://prove2.me/theorems/f26b7941-d3c1-488b-923c-10450c403963

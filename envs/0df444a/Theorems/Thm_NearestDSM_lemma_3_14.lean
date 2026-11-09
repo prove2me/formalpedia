@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearestDSM_lemma_3_14
 -- name    : NearestDSM.lemma_3_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:20:21.306176+00:00
 -- url     : https://prove2.me/theorems/72e09913-d5a5-4b4f-9684-d084177c568e

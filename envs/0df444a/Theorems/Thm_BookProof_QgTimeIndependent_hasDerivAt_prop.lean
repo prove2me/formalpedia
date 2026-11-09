@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgTimeIndependent_hasDerivAt_prop
 -- name    : BookProof.QgTimeIndependent.hasDerivAt_prop
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T23:28:53.478524+00:00
 -- url     : https://prove2.me/theorems/e4c0bffd-5ec6-4223-b687-010ef9e0540e

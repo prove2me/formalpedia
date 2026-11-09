@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Randomized_uniform_expOfflineCost_limsup
 -- name    : MetricalTaskSystem.Randomized.uniform_expOfflineCost_limsup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:21:03.917987+00:00
 -- url     : https://prove2.me/theorems/98b0413a-4692-46a5-93c8-fe0129506226

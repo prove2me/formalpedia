@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BC1992_theorem_bellantoni_cook_characterization
 -- name    : BC1992.theorem_bellantoni_cook_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T00:37:22.510211+00:00
 -- url     : https://prove2.me/theorems/1279955d-34c6-4c09-ad96-3b8ff8abe0c0

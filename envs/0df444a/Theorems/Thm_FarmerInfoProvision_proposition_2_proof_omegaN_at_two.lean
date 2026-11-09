@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfoProvision_proposition_2_proof_omegaN_at_two
 -- name    : FarmerInfoProvision.proposition_2_proof_omegaN_at_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:47:08.737278+00:00
 -- url     : https://prove2.me/theorems/6dfbc092-6a0a-4995-8834-f5cd72702355

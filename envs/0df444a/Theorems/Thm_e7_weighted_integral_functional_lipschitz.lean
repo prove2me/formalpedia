@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_weighted_integral_functional_lipschitz
 -- name    : e7_weighted_integral_functional_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:06.319097+00:00
 -- url     : https://prove2.me/theorems/f1227a42-4e88-4cad-b1a8-dc38ddda40b2

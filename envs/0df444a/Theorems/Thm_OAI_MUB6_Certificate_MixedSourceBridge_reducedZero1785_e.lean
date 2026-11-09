@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedSourceBridge_reducedZero1785_e
 -- name    : OAI.MUB6.Certificate.MixedSourceBridge.reducedZero1785_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T17:38:10.572253+00:00
 -- url     : https://prove2.me/theorems/ec04c2d1-f8aa-455b-a0c5-9637ada916cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FowlerLSQC_Steane_zero_ket_stabilized
 -- name    : FowlerLSQC.Steane.zero_ket_stabilized
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:37:05.418048+00:00
 -- url     : https://prove2.me/theorems/2fd4f0c0-6112-4b0c-a2ab-424fd0e3be07

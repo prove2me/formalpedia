@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_normalizedH_table_g
 -- name    : OAI.SharpPlanar.normalizedH_table_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:38:11.617819+00:00
 -- url     : https://prove2.me/theorems/8be5345d-cff9-4990-b57b-b065ac133044

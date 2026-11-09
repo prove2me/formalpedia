@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedSourceBridge_chunkSound31_e
 -- name    : OAI.MUB6.Certificate.MixedSourceBridge.chunkSound31_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:54:39.544263+00:00
 -- url     : https://prove2.me/theorems/61112314-0145-434e-a3b0-76eba92156fc

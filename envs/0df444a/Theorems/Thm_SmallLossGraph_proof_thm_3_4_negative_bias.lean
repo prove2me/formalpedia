@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmallLossGraph_proof_thm_3_4_negative_bias
 -- name    : SmallLossGraph.proof_thm_3_4_negative_bias
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:55:04.128705+00:00
 -- url     : https://prove2.me/theorems/974027d6-eff4-4bcf-8889-bcf0a45d04c8

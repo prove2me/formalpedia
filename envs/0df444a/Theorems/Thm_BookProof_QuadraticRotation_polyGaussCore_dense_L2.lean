@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_polyGaussCore_dense_L2
 -- name    : BookProof.QuadraticRotation.polyGaussCore_dense_L2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:25:53.997221+00:00
 -- url     : https://prove2.me/theorems/b8a2a895-5945-4c6b-b14d-668344a357d7

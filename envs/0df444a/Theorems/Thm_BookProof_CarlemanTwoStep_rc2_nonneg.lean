@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_rc2_nonneg
 -- name    : BookProof.CarlemanTwoStep.rc2_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:51:26.097112+00:00
 -- url     : https://prove2.me/theorems/a7ff793f-97f3-4926-be40-99602f05afa0

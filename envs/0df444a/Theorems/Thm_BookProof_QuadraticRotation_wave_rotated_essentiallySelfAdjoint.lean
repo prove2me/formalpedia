@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_wave_rotated_essentiallySelfAdjoint
 -- name    : BookProof.QuadraticRotation.wave_rotated_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:31:55.364269+00:00
 -- url     : https://prove2.me/theorems/2ad1014d-d8ae-43f4-89b6-5b96bfae6949

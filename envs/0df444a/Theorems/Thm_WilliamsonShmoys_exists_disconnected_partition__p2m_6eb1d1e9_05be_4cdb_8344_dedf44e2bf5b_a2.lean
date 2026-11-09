@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_disconnected_partition__p2m_6eb1d1e9_05be_4cdb_8344_dedf44e2bf5b_a2
 -- name    : WilliamsonShmoys.exists_disconnected_partition__p2m_6eb1d1e9_05be_4cdb_8344_dedf44e2bf5b_a2
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:10:21.039916+00:00
 -- url     : https://prove2.me/theorems/47aa33f0-d05a-4e2e-8902-ab2363ad3928

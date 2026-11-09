@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFiberFL_inner_toLp_toLp
 -- name    : BookProof.ScalaronFiberFL.inner_toLp_toLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:27:33.163235+00:00
 -- url     : https://prove2.me/theorems/08a0ae43-2203-4f02-9be8-1153925fec1c

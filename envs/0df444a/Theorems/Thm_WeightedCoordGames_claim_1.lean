@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedCoordGames_claim_1
 -- name    : WeightedCoordGames.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:29.059517+00:00
 -- url     : https://prove2.me/theorems/e4c940b4-6106-4389-9ead-418441b34380

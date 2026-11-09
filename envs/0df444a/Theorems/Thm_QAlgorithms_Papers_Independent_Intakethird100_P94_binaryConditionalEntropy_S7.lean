@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P94_binaryConditionalEntropy_S7
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P94.binaryConditionalEntropy_S7
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:34:03.740211+00:00
 -- url     : https://prove2.me/theorems/01046812-f6b1-4b0c-8795-e0af95d75380

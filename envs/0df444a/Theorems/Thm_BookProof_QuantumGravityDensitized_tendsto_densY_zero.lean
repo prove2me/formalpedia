@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_tendsto_densY_zero
 -- name    : BookProof.QuantumGravityDensitized.tendsto_densY_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:28:44.103365+00:00
 -- url     : https://prove2.me/theorems/9fc60d2b-e654-46ce-a158-8750b233a600

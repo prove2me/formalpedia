@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpConMinimax_lemma_19
 -- name    : ExpConMinimax.lemma_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:50:41.606085+00:00
 -- url     : https://prove2.me/theorems/0cfcecc3-6fe9-4ec3-80c7-a1b5a71ca851

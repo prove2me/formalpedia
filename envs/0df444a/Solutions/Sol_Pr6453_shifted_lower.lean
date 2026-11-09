@@ -1,0 +1,615 @@
+-- Prove2me | solution 1 for Pr6453.shifted_lower
+-- status  : ACCEPTED   (prove)
+-- author  : @gustasmickus
+-- created : 2026-11-08T17:45:03.050918+00:00
+-- url     : https://prove2.me/submissions/4e7ad045-1d2a-40ed-9558-2e511363e02b
+
+/-
+PR #6453: the shifted moments — the three tail ratios `α`, `γ`, `δ`.
+
+`α`, `γ` and `δ` are ratios of the two rank moments at the exponents `1-t` and `1-t+1/7`
+(`t = 3287019/10⁹`, the tested saving).  Each power is written `r^(1+c) = r · exp (c log r)` with
+`|c log r| ≤ 0.7`, so the same exponential enclosure as in `Pr6453.Moment` applies, reusing the
+logarithm bounds proved there.
+-/
+import Definitions.Def_Pr6453_RankMoments
+import Definitions.Def_Pr6453_Strictification
+import Definitions.Def_IntMul_MultitapeModel
+
+set_option autoImplicit false
+set_option exponentiation.threshold 5000
+set_option maxRecDepth 100000
+
+namespace Pr6453
+
+noncomputable section
+
+open Finset
+
+theorem log_2_bounds : (0.693147180300 : ℝ) ≤ Real.log 2 ∧ Real.log 2 ≤ (0.693147180800 : ℝ) := by
+  have h2 := Real.log_two_gt_d9
+  have h2' := Real.log_two_lt_d9
+  have e : Real.log (2:ℝ) = 1 * Real.log 2 := by
+    rw [show (2:ℝ) = 2^1 by norm_num, Real.log_pow]; norm_num
+  rw [e]
+  constructor <;> linarith
+
+/-- `log 3` to eleven decimal places. -/
+theorem log_3_bounds : (1.098612288143 : ℝ) ≤ Real.log 3 ∧ Real.log 3 ≤ (1.098612289154 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (1/4 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (3:ℝ) = Real.log (3/4) + 2 * Real.log 2 := by
+    have h1 : Real.log ((3:ℝ)/4) = Real.log 3 - Real.log 4 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (4:ℝ) = 2 * Real.log 2 := by
+      rw [show (4:ℝ) = 2^2 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 4 = 2 log 2`. -/
+theorem log_4_bounds : (1.386294360600 : ℝ) ≤ Real.log 4 ∧ Real.log 4 ≤ (1.386294361600 : ℝ) := by
+  have h2 := Real.log_two_gt_d9
+  have h2' := Real.log_two_lt_d9
+  have e : Real.log (4:ℝ) = 2 * Real.log 2 := by
+    rw [show (4:ℝ) = 2^2 by norm_num, Real.log_pow]; norm_num
+  rw [e]
+  constructor <;> linarith
+
+/-- `log 5` to eleven decimal places. -/
+theorem log_5_bounds : (1.609437911909 : ℝ) ≤ Real.log 5 ∧ Real.log 5 ≤ (1.609437912919 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (-1/4 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (5:ℝ) = Real.log (5/4) + 2 * Real.log 2 := by
+    have h1 : Real.log ((5:ℝ)/4) = Real.log 5 - Real.log 4 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (4:ℝ) = 2 * Real.log 2 := by
+      rw [show (4:ℝ) = 2^2 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 6` to eleven decimal places. -/
+theorem log_6_bounds : (1.791759468443 : ℝ) ≤ Real.log 6 ∧ Real.log 6 ≤ (1.791759469954 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (1/4 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (6:ℝ) = Real.log (6/8) + 3 * Real.log 2 := by
+    have h1 : Real.log ((6:ℝ)/8) = Real.log 6 - Real.log 8 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (8:ℝ) = 3 * Real.log 2 := by
+      rw [show (8:ℝ) = 2^3 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 7` to eleven decimal places. -/
+theorem log_7_bounds : (1.945910148275 : ℝ) ≤ Real.log 7 ∧ Real.log 7 ≤ (1.945910149776 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (1/8 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (7:ℝ) = Real.log (7/8) + 3 * Real.log 2 := by
+    have h1 : Real.log ((7:ℝ)/8) = Real.log 7 - Real.log 8 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (8:ℝ) = 3 * Real.log 2 := by
+      rw [show (8:ℝ) = 2^3 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 8 = 3 log 2`. -/
+theorem log_8_bounds : (2.079441540900 : ℝ) ≤ Real.log 8 ∧ Real.log 8 ≤ (2.079441542400 : ℝ) := by
+  have h2 := Real.log_two_gt_d9
+  have h2' := Real.log_two_lt_d9
+  have e : Real.log (8:ℝ) = 3 * Real.log 2 := by
+    rw [show (8:ℝ) = 2^3 by norm_num, Real.log_pow]; norm_num
+  rw [e]
+  constructor <;> linarith
+
+/-- `log 9` to eleven decimal places. -/
+theorem log_9_bounds : (2.197224576556 : ℝ) ≤ Real.log 9 ∧ Real.log 9 ≤ (2.197224578057 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (-1/8 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (9:ℝ) = Real.log (9/8) + 3 * Real.log 2 := by
+    have h1 : Real.log ((9:ℝ)/8) = Real.log 9 - Real.log 8 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (8:ℝ) = 3 * Real.log 2 := by
+      rw [show (8:ℝ) = 2^3 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 16 = 4 log 2`. -/
+theorem log_16_bounds : (2.772588721200 : ℝ) ≤ Real.log 16 ∧ Real.log 16 ≤ (2.772588723200 : ℝ) := by
+  have h2 := Real.log_two_gt_d9
+  have h2' := Real.log_two_lt_d9
+  have e : Real.log (16:ℝ) = 4 * Real.log 2 := by
+    rw [show (16:ℝ) = 2^4 by norm_num, Real.log_pow]; norm_num
+  rw [e]
+  constructor <;> linarith
+
+/-- `log 17` to eleven decimal places. -/
+theorem log_17_bounds : (2.833213343016 : ℝ) ≤ Real.log 17 ∧ Real.log 17 ≤ (2.833213345017 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (-1/16 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (17:ℝ) = Real.log (17/16) + 4 * Real.log 2 := by
+    have h1 : Real.log ((17:ℝ)/16) = Real.log 17 - Real.log 16 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (16:ℝ) = 4 * Real.log 2 := by
+      rw [show (16:ℝ) = 2^4 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 24` to eleven decimal places. -/
+theorem log_24_bounds : (3.178053829043 : ℝ) ≤ Real.log 24 ∧ Real.log 24 ≤ (3.178053831554 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (1/4 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (24:ℝ) = Real.log (24/32) + 5 * Real.log 2 := by
+    have h1 : Real.log ((24:ℝ)/32) = Real.log 24 - Real.log 32 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (32:ℝ) = 5 * Real.log 2 := by
+      rw [show (32:ℝ) = 2^5 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 25` to eleven decimal places. -/
+theorem log_25_bounds : (3.218875823568 : ℝ) ≤ Real.log 25 ∧ Real.log 25 ≤ (3.218875826069 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (7/32 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (25:ℝ) = Real.log (25/32) + 5 * Real.log 2 := by
+    have h1 : Real.log ((25:ℝ)/32) = Real.log 25 - Real.log 32 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (32:ℝ) = 5 * Real.log 2 := by
+      rw [show (32:ℝ) = 2^5 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 32 = 5 log 2`. -/
+theorem log_32_bounds : (3.465735901500 : ℝ) ≤ Real.log 32 ∧ Real.log 32 ≤ (3.465735904000 : ℝ) := by
+  have h2 := Real.log_two_gt_d9
+  have h2' := Real.log_two_lt_d9
+  have e : Real.log (32:ℝ) = 5 * Real.log 2 := by
+    rw [show (32:ℝ) = 2^5 by norm_num, Real.log_pow]; norm_num
+  rw [e]
+  constructor <;> linarith
+
+/-- `log 33` to eleven decimal places. -/
+theorem log_33_bounds : (3.496507560166 : ℝ) ≤ Real.log 33 ∧ Real.log 33 ≤ (3.496507562667 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (-1/32 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (33:ℝ) = Real.log (33/32) + 5 * Real.log 2 := by
+    have h1 : Real.log ((33:ℝ)/32) = Real.log 33 - Real.log 32 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (32:ℝ) = 5 * Real.log 2 := by
+      rw [show (32:ℝ) = 2^5 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 56` to eleven decimal places. -/
+theorem log_56_bounds : (4.025351689175 : ℝ) ≤ Real.log 56 ∧ Real.log 56 ≤ (4.025351692176 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (1/8 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (56:ℝ) = Real.log (56/64) + 6 * Real.log 2 := by
+    have h1 : Real.log ((56:ℝ)/64) = Real.log 56 - Real.log 64 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (64:ℝ) = 6 * Real.log 2 := by
+      rw [show (64:ℝ) = 2^6 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 57` to eleven decimal places. -/
+theorem log_57_bounds : (4.043051266274 : ℝ) ≤ Real.log 57 ∧ Real.log 57 ≤ (4.043051269275 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (7/64 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (57:ℝ) = Real.log (57/64) + 6 * Real.log 2 := by
+    have h1 : Real.log ((57:ℝ)/64) = Real.log 57 - Real.log 64 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (64:ℝ) = 6 * Real.log 2 := by
+      rw [show (64:ℝ) = 2^6 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 73` to eleven decimal places. -/
+theorem log_73_bounds : (4.290459439588 : ℝ) ≤ Real.log 73 ∧ Real.log 73 ≤ (4.290459442589 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (-9/64 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (73:ℝ) = Real.log (73/64) + 6 * Real.log 2 := by
+    have h1 : Real.log ((73:ℝ)/64) = Real.log 73 - Real.log 64 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (64:ℝ) = 6 * Real.log 2 := by
+      rw [show (64:ℝ) = 2^6 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `log 145` to eleven decimal places. -/
+theorem log_145_bounds : (4.976733740600 : ℝ) ≤ Real.log 145 ∧ Real.log 145 ≤ (4.976733744101 : ℝ) := by
+  have h := Real.abs_log_sub_add_sum_range_le (x := (-17/128 : ℝ)) (by norm_num) 18
+  norm_num at h
+  have hle := abs_le.mp h
+  have e : Real.log (145:ℝ) = Real.log (145/128) + 7 * Real.log 2 := by
+    have h1 : Real.log ((145:ℝ)/128) = Real.log 145 - Real.log 128 :=
+      Real.log_div (by norm_num) (by norm_num)
+    have h2 : Real.log (128:ℝ) = 7 * Real.log 2 := by
+      rw [show (128:ℝ) = 2^7 by norm_num, Real.log_pow]; norm_num
+    linarith
+  rw [e]
+  constructor <;> linarith [hle.1, hle.2, Real.log_two_gt_d9, Real.log_two_lt_d9]
+
+/-- `x^(1-c) = x * exp (-(c log x))`: the shape every power bound is taken in. -/
+theorem rpow_one_sub_eq (x : ℝ) (hx : 0 < x) (c : ℝ) :
+    x ^ (1 - c) = x * Real.exp (-(c * Real.log x)) := by
+  rw [Real.rpow_def_of_pos hx]
+  rw [show Real.log x * (1 - c) = Real.log x + -(c * Real.log x) by ring]
+  rw [Real.exp_add, Real.exp_log hx]
+
+
+
+/-- `x^c = x · exp ((c-1) log x)` — the shape every shifted power is taken in. -/
+theorem rpow_eq_mul_exp (x : ℝ) (hx : 0 < x) (c : ℝ) :
+    x ^ c = x * Real.exp ((c - 1) * Real.log x) := by
+  rw [Real.rpow_def_of_pos hx]
+  rw [show Real.log x * c = Real.log x + (c - 1) * Real.log x by ring]
+  rw [Real.exp_add, Real.exp_log hx]
+
+/-- `log 12 = 2 log 2 + log 3`. -/
+theorem log_12_bounds : (2.484906648 : ℝ) ≤ Real.log 12 ∧ Real.log 12 ≤ (2.484906652 : ℝ) := by
+  obtain ⟨h3, h3'⟩ := log_3_bounds
+  have e : Real.log (12:ℝ) = 2 * Real.log 2 + Real.log 3 := by
+    rw [show (12:ℝ) = 2^2 * 3 by norm_num, Real.log_mul (by norm_num) (by norm_num), Real.log_pow]
+    norm_num
+  rw [e]
+  constructor <;> linarith [Real.log_two_gt_d9, Real.log_two_lt_d9, h3, h3']
+
+theorem loT0_1 : (0.999999999000 : ℝ) ≤ (1:ℝ)^(1 - (tested:ℝ)) := by
+  rw [Real.one_rpow]; norm_num
+
+theorem loT0_2 : (1.995448411000 : ℝ) ≤ (2:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_2_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (2:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (0.693147180800 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (0.693147180800 : ℝ))) ^ m / (m.factorial : ℝ)) = ((845950379692998328446144887073372353430104115777632243390971762542967693673838679256136917759007441098503654452479162098035486743986499473298669572984403956416061550404210448289808502191068700976270912790837276534599840974199066849 : ℝ) / 847879980201554639407390823180321604013442993164062500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (0.693147180800 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((845950379692998328446144887073372353430104115777632243390971762542967693673838679256136917759007441098503654452479162098035486743986499473298669572984403956416061550404210448289808502191068700976270912790837276534599840974199066849 : ℝ) / 847879980201554639407390823180321604013442993164062500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (0.693147180800 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 2) ≥ Real.exp (-(tested:ℝ) * (0.693147180800 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (1.995448411000 : ℝ) ≤ (2:ℝ) * (((845950379692998328446144887073372353430104115777632243390971762542967693673838679256136917759007441098503654452479162098035486743986499473298669572984403956416061550404210448289808502191068700976270912790837276534599840974199066849 : ℝ) / 847879980201554639407390823180321604013442993164062500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_3 : (2.989186058000 : ℝ) ≤ (3:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_3_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (3:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.098612289154 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.098612289154 : ℝ))) ^ m / (m.factorial : ℝ)) = ((3116849213374183756829853081118639456888346631958476902616384001369185678978395121375025176429618433641520915624555210360878039933437693682183380625042446578876464904163041353851757604585647950057437480461374864093933160692979448290707908335026439171467772750694220122410857479 : ℝ) / 3128125000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.098612289154 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((3116849213374183756829853081118639456888346631958476902616384001369185678978395121375025176429618433641520915624555210360878039933437693682183380625042446578876464904163041353851757604585647950057437480461374864093933160692979448290707908335026439171467772750694220122410857479 : ℝ) / 3128125000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (1.098612289154 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 3) ≥ Real.exp (-(tested:ℝ) * (1.098612289154 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (2.989186058000 : ℝ) ≤ (3:ℝ) * (((3116849213374183756829853081118639456888346631958476902616384001369185678978395121375025176429618433641520915624555210360878039933437693682183380625042446578876464904163041353851757604585647950057437480461374864093933160692979448290707908335026439171467772750694220122410857479 : ℝ) / 3128125000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_4 : (3.981814361000 : ℝ) ≤ (4:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_4_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (4:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.386294361600 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.386294361600 : ℝ))) ^ m / (m.factorial : ℝ)) = ((103030416327938047755428352648446666963713499558290612279179533712566842727481716448229023841446722429774929848065783496667972661959273947858989313410141555897715919360781574059473430018482710711450738352548613427965974199066849 : ℝ) / 103500974145697587818285012595254102052422240376472473144531250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.386294361600 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((103030416327938047755428352648446666963713499558290612279179533712566842727481716448229023841446722429774929848065783496667972661959273947858989313410141555897715919360781574059473430018482710711450738352548613427965974199066849 : ℝ) / 103500974145697587818285012595254102052422240376472473144531250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (1.386294361600 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 4) ≥ Real.exp (-(tested:ℝ) * (1.386294361600 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (3.981814361000 : ℝ) ≤ (4:ℝ) * (((103030416327938047755428352648446666963713499558290612279179533712566842727481716448229023841446722429774929848065783496667972661959273947858989313410141555897715919360781574059473430018482710711450738352548613427965974199066849 : ℝ) / 103500974145697587818285012595254102052422240376472473144531250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_5 : (4.973618578000 : ℝ) ≤ (5:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_5_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (5:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.609437912919 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.609437912919 : ℝ))) ^ m / (m.factorial : ℝ)) = ((25490392050213652457253789667664894837152576857480829984096243903417327233246363601276599040977816885344884561519207988190461408086256283315888569198617165314663512193942815740242784243740019961273765474807021005444814988193397254771879643591729483990971210579197263562681883138433 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.609437912919 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((25490392050213652457253789667664894837152576857480829984096243903417327233246363601276599040977816885344884561519207988190461408086256283315888569198617165314663512193942815740242784243740019961273765474807021005444814988193397254771879643591729483990971210579197263562681883138433 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (1.609437912919 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 5) ≥ Real.exp (-(tested:ℝ) * (1.609437912919 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (4.973618578000 : ℝ) ≤ (5:ℝ) * (((25490392050213652457253789667664894837152576857480829984096243903417327233246363601276599040977816885344884561519207988190461408086256283315888569198617165314663512193942815740242784243740019961273765474807021005444814988193397254771879643591729483990971210579197263562681883138433 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_6 : (5.964766571000 : ℝ) ≤ (6:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_6_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (6:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.791759469954 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.791759469954 : ℝ))) ^ m / (m.factorial : ℝ)) = ((3109755905397044735783882352172878361934052297334307001405951461901349012420169033292652409256029869942131490156323836665348243119546353332835802479630764657998350609425422164748824102374533444546806830187609281585557084341064405363691172832487348616333677085105800862170207879 : ℝ) / 3128125000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.791759469954 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((3109755905397044735783882352172878361934052297334307001405951461901349012420169033292652409256029869942131490156323836665348243119546353332835802479630764657998350609425422164748824102374533444546806830187609281585557084341064405363691172832487348616333677085105800862170207879 : ℝ) / 3128125000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (1.791759469954 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 6) ≥ Real.exp (-(tested:ℝ) * (1.791759469954 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (5.964766571000 : ℝ) ≤ (6:ℝ) * (((3109755905397044735783882352172878361934052297334307001405951461901349012420169033292652409256029869942131490156323836665348243119546353332835802479630764657998350609425422164748824102374533444546806830187609281585557084341064405363691172832487348616333677085105800862170207879 : ℝ) / 3128125000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_7 : (6.955369181000 : ℝ) ≤ (7:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_7_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (7:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.945910149776 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.945910149776 : ℝ))) ^ m / (m.factorial : ℝ)) = ((807678225877589421959755382220635911134286787742403854522709394241490045618285811719198229351970767382105900064873421724609676226974214079371604565383867651665430158952777849656164644348464377902211138561177132897421975447871891830722087757267326383507489163118921 : ℝ) / 812860889709554612636566162109375000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.945910149776 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((807678225877589421959755382220635911134286787742403854522709394241490045618285811719198229351970767382105900064873421724609676226974214079371604565383867651665430158952777849656164644348464377902211138561177132897421975447871891830722087757267326383507489163118921 : ℝ) / 812860889709554612636566162109375000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (1.945910149776 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 7) ≥ Real.exp (-(tested:ℝ) * (1.945910149776 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (6.955369181000 : ℝ) ≤ (7:ℝ) * (((807678225877589421959755382220635911134286787742403854522709394241490045618285811719198229351970767382105900064873421724609676226974214079371604565383867651665430158952777849656164644348464377902211138561177132897421975447871891830722087757267326383507489163118921 : ℝ) / 812860889709554612636566162109375000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_8 : (7.945505141000 : ℝ) ≤ (8:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_8_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (8:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (2.079441542400 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (2.079441542400 : ℝ))) ^ m / (m.factorial : ℝ)) = ((120300620400585815665486980427499689186303550841874749885209979322593319055764647740833448757959875654390413628267751642838268040120613251418369105960126498343622880716410447661340187553597920655375524166295978687510572568407985461 : ℝ) / 121125711457364948486770117597188800573348999023437500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (2.079441542400 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((120300620400585815665486980427499689186303550841874749885209979322593319055764647740833448757959875654390413628267751642838268040120613251418369105960126498343622880716410447661340187553597920655375524166295978687510572568407985461 : ℝ) / 121125711457364948486770117597188800573348999023437500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (2.079441542400 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 8) ≥ Real.exp (-(tested:ℝ) * (2.079441542400 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (7.945505141000 : ℝ) ≤ (8:ℝ) * (((120300620400585815665486980427499689186303550841874749885209979322593319055764647740833448757959875654390413628267751642838268040120613251418369105960126498343622880716410447661340187553597920655375524166295978687510572568407985461 : ℝ) / 121125711457364948486770117597188800573348999023437500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_9 : (8.935233294000 : ℝ) ≤ (9:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_9_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (9:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (2.197224578057 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (2.197224578057 : ℝ))) ^ m / (m.factorial : ℝ)) = ((3634455782525441071997050199396284150710836868645102346073819964877229267662639459504172571187377241877748156737378898391692528436252443586550639125234455344962478473913718253484700279421114077533031375966460862733746209680246712397708264173743663370606261677470390956785617997737 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (2.197224578057 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((3634455782525441071997050199396284150710836868645102346073819964877229267662639459504172571187377241877748156737378898391692528436252443586550639125234455344962478473913718253484700279421114077533031375966460862733746209680246712397708264173743663370606261677470390956785617997737 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (2.197224578057 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 9) ≥ Real.exp (-(tested:ℝ) * (2.197224578057 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (8.935233294000 : ℝ) ≤ (9:ℝ) * (((3634455782525441071997050199396284150710836868645102346073819964877229267662639459504172571187377241877748156737378898391692528436252443586550639125234455344962478473913718253484700279421114077533031375966460862733746209680246712397708264173743663370606261677470390956785617997737 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_17 : (16.842416867000 : ℝ) ≤ (17:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_17_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (17:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (2.833213345017 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (2.833213345017 : ℝ))) ^ m / (m.factorial : ℝ)) = ((2308005549080876883348470327458614871904679087870609821609174899840723138198439151594004063685346297846561588737597083235657790108852183379161661366792948554065595822919745143151568557328572207970449811872044303699178348395922374306150847419381636598276275967962850568546354544429 : ℝ) / 2329600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (2.833213345017 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((2308005549080876883348470327458614871904679087870609821609174899840723138198439151594004063685346297846561588737597083235657790108852183379161661366792948554065595822919745143151568557328572207970449811872044303699178348395922374306150847419381636598276275967962850568546354544429 : ℝ) / 2329600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (2.833213345017 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 17) ≥ Real.exp (-(tested:ℝ) * (2.833213345017 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (16.842416867000 : ℝ) ≤ (17:ℝ) * (((2308005549080876883348470327458614871904679087870609821609174899840723138198439151594004063685346297846561588737597083235657790108852183379161661366792948554065595822919745143151568557328572207970449811872044303699178348395922374306150847419381636598276275967962850568546354544429 : ℝ) / 2329600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_25 : (24.736881766000 : ℝ) ≤ (25:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_25_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (25:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (3.218875826069 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (3.218875826069 : ℝ))) ^ m / (m.factorial : ℝ)) = ((25355897495984562646699233695944774318400405017346982975403765891767331283005773969478818125490190746099111874526832157760196030858008067300390862924321522682002217506620349044280137122543351760849827884598225604870753783696468403192746691812187440251702843108612733655765398750083 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (3.218875826069 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((25355897495984562646699233695944774318400405017346982975403765891767331283005773969478818125490190746099111874526832157760196030858008067300390862924321522682002217506620349044280137122543351760849827884598225604870753783696468403192746691812187440251702843108612733655765398750083 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (3.218875826069 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 25) ≥ Real.exp (-(tested:ℝ) * (3.218875826069 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (24.736881766000 : ℝ) ≤ (25:ℝ) * (((25355897495984562646699233695944774318400405017346982975403765891767331283005773969478818125490190746099111874526832157760196030858008067300390862924321522682002217506620349044280137122543351760849827884598225604870753783696468403192746691812187440251702843108612733655765398750083 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_33 : (32.622899312000 : ℝ) ≤ (33:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_33_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (33:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (3.496507562667 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (3.496507562667 : ℝ))) ^ m / (m.factorial : ℝ)) = ((3618966963709574877976964813469132472892462737985599154100238272834305898499497116976608314423990698195205241242797732183306683470066092234874597855489298197947487653818318240949885914949768314739497575118006204690298623504925905096131606103012643276659074729285084225523287994267 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (3.496507562667 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((3618966963709574877976964813469132472892462737985599154100238272834305898499497116976608314423990698195205241242797732183306683470066092234874597855489298197947487653818318240949885914949768314739497575118006204690298623504925905096131606103012643276659074729285084225523287994267 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (3.496507562667 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 33) ≥ Real.exp (-(tested:ℝ) * (3.496507562667 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (32.622899312000 : ℝ) ≤ (33:ℝ) * (((3618966963709574877976964813469132472892462737985599154100238272834305898499497116976608314423990698195205241242797732183306683470066092234874597855489298197947487653818318240949885914949768314739497575118006204690298623504925905096131606103012643276659074729285084225523287994267 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_57 : (56.247504828000 : ℝ) ≤ (57:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_57_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (57:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (4.043051269275 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (4.043051269275 : ℝ))) ^ m / (m.factorial : ℝ)) = ((16970019292161955574805019971061068700543541323834701825125740369133507087393610680337749129490217626162056281088004833958941540936233702638801423486440944622430333696638392373426545612128985696290166021834286223802003706750990453838579792886307947588182162467957 : ℝ) / 17197049053184000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (4.043051269275 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((16970019292161955574805019971061068700543541323834701825125740369133507087393610680337749129490217626162056281088004833958941540936233702638801423486440944622430333696638392373426545612128985696290166021834286223802003706750990453838579792886307947588182162467957 : ℝ) / 17197049053184000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (4.043051269275 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 57) ≥ Real.exp (-(tested:ℝ) * (4.043051269275 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (56.247504828000 : ℝ) ≤ (57:ℝ) * (((16970019292161955574805019971061068700543541323834701825125740369133507087393610680337749129490217626162056281088004833958941540936233702638801423486440944622430333696638392373426545612128985696290166021834286223802003706750990453838579792886307947588182162467957 : ℝ) / 17197049053184000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_73 : (71.977719478000 : ℝ) ≤ (73:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_73_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (73:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (4.290459442589 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (4.290459442589 : ℝ))) ^ m / (m.factorial : ℝ)) = ((3609534732435352598809528969447046382586123140920968427038287792415947336258864947560486478605086675509883619795910867368456494790193045669009269910438928615210077171006297628569850934762500164666065391842095988479610990288235419941412567935908110074140528002695280969195330172429 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (4.290459442589 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((3609534732435352598809528969447046382586123140920968427038287792415947336258864947560486478605086675509883619795910867368456494790193045669009269910438928615210077171006297628569850934762500164666065391842095988479610990288235419941412567935908110074140528002695280969195330172429 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (4.290459442589 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 73) ≥ Real.exp (-(tested:ℝ) * (4.290459442589 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (71.977719478000 : ℝ) ≤ (73:ℝ) * (((3609534732435352598809528969447046382586123140920968427038287792415947336258864947560486478605086675509883619795910867368456494790193045669009269910438928615210077171006297628569850934762500164666065391842095988479610990288235419941412567935908110074140528002695280969195330172429 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem loT0_145 : (142.647296292000 : ℝ) ≤ (145:ℝ)^(1 - (tested:ℝ)) := by
+  obtain ⟨hlo, hhi⟩ := log_145_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (145:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (4.976733744101 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (4.976733744101 : ℝ))) ^ m / (m.factorial : ℝ)) = ((3601401532882999875012219206766318895187294322546958020295394666675900400583205165902831432044996619900085555234262332177882497115881634323467968988852995141786765281203145316014453875079294066924970923646931918695474329976779890066474405786473800241969193681985451129722665487541 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (4.976733744101 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : ((3601401532882999875012219206766318895187294322546958020295394666675900400583205165902831432044996619900085555234262332177882497115881634323467968988852995141786765281203145316014453875079294066924970923646931918695474329976779890066474405786473800241969193681985451129722665487541 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12 ≤ Real.exp (-(tested:ℝ) * (4.976733744101 : ℝ)) := by
+    have hstep := (abs_le.mp hb).1; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 145) ≥ Real.exp (-(tested:ℝ) * (4.976733744101 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hhi, hk, hc]
+  have hnum : (142.647296292000 : ℝ) ≤ (145:ℝ) * (((3601401532882999875012219206766318895187294322546958020295394666675900400583205165902831432044996619900085555234262332177882497115881634323467968988852995141786765281203145316014453875079294066924970923646931918695474329976779890066474405786473800241969193681985451129722665487541 : ℝ) / 3660800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) - 1e-12) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem hiP0_1 : (1:ℝ)^(1 - (tested:ℝ)) ≤ (1.000000001000 : ℝ) := by
+  rw [Real.one_rpow]; norm_num
+
+theorem hiP0_2 : (2:ℝ)^(1 - (tested:ℝ)) ≤ (1.995448412000 : ℝ) := by
+  obtain ⟨hlo, hhi⟩ := log_2_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (2:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (0.693147180300 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (0.693147180300 : ℝ))) ^ m / (m.factorial : ℝ)) = ((255672814031336389822619513483488202825929397898325035363790770632740685493559240262186679843274717118231601798555977249293874961657209969112341872052911090195590567242832839543161909378049325174220295866796449147049767423767620930957123863960936566462701 : ℝ) / 256256000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (0.693147180300 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : Real.exp (-(tested:ℝ) * (0.693147180300 : ℝ)) ≤ ((255672814031336389822619513483488202825929397898325035363790770632740685493559240262186679843274717118231601798555977249293874961657209969112341872052911090195590567242832839543161909378049325174220295866796449147049767423767620930957123863960936566462701 : ℝ) / 256256000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12 := by
+    have hstep := (abs_le.mp hb).2; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 2) ≤ Real.exp (-(tested:ℝ) * (0.693147180300 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hlo, hk, hc]
+  have hnum : (2:ℝ) * (((255672814031336389822619513483488202825929397898325035363790770632740685493559240262186679843274717118231601798555977249293874961657209969112341872052911090195590567242832839543161909378049325174220295866796449147049767423767620930957123863960936566462701 : ℝ) / 256256000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12) ≤ (1.995448412000 : ℝ) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem hiP0_3 : (3:ℝ)^(1 - (tested:ℝ)) ≤ (2.989186059000 : ℝ) := by
+  obtain ⟨hlo, hhi⟩ := log_3_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (3:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.098612288143 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.098612288143 : ℝ))) ^ m / (m.factorial : ℝ)) = ((25533228756046164754291062732033683540053980588738202395528442350940205124056281172890966611326967427495079929591471684994265004218465744041605867460114353374029285266450032942578899168328728428330964746775826967188041732505502203351038793838060076090717199714226546794627683128041 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.098612288143 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : Real.exp (-(tested:ℝ) * (1.098612288143 : ℝ)) ≤ ((25533228756046164754291062732033683540053980588738202395528442350940205124056281172890966611326967427495079929591471684994265004218465744041605867460114353374029285266450032942578899168328728428330964746775826967188041732505502203351038793838060076090717199714226546794627683128041 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12 := by
+    have hstep := (abs_le.mp hb).2; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 3) ≤ Real.exp (-(tested:ℝ) * (1.098612288143 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hlo, hk, hc]
+  have hnum : (3:ℝ) * (((25533228756046164754291062732033683540053980588738202395528442350940205124056281172890966611326967427495079929591471684994265004218465744041605867460114353374029285266450032942578899168328728428330964746775826967188041732505502203351038793838060076090717199714226546794627683128041 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12) ≤ (2.989186059000 : ℝ) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem hiP0_4 : (4:ℝ)^(1 - (tested:ℝ)) ≤ (3.981814362000 : ℝ) := by
+  obtain ⟨hlo, hhi⟩ := log_4_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (4:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.386294360600 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.386294360600 : ℝ))) ^ m / (m.factorial : ℝ)) = ((31139032626224598772200505837995886697082142331663426286658566547397641154693516708254161513758161519602295323235799557747103084107832839525806266681658499329962101225925079823781466589319681790632263058360744806405642073530207984168863960936566462701 : ℝ) / 31281250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.386294360600 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : Real.exp (-(tested:ℝ) * (1.386294360600 : ℝ)) ≤ ((31139032626224598772200505837995886697082142331663426286658566547397641154693516708254161513758161519602295323235799557747103084107832839525806266681658499329962101225925079823781466589319681790632263058360744806405642073530207984168863960936566462701 : ℝ) / 31281250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12 := by
+    have hstep := (abs_le.mp hb).2; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 4) ≤ Real.exp (-(tested:ℝ) * (1.386294360600 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hlo, hk, hc]
+  have hnum : (4:ℝ) * (((31139032626224598772200505837995886697082142331663426286658566547397641154693516708254161513758161519602295323235799557747103084107832839525806266681658499329962101225925079823781466589319681790632263058360744806405642073530207984168863960936566462701 : ℝ) / 31281250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12) ≤ (3.981814362000 : ℝ) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+theorem hiP0_5 : (5:ℝ)^(1 - (tested:ℝ)) ≤ (4.973618579000 : ℝ) := by
+  obtain ⟨hlo, hhi⟩ := log_5_bounds
+  have hk : (0:ℝ) < (tested:ℝ) := by norm_num [tested]
+  have hc : (0:ℝ) < 1/7 - (tested:ℝ) := by norm_num [tested]
+  rw [rpow_eq_mul_exp (5:ℝ) (by norm_num) (1 - (tested:ℝ))]
+  rw [show (((1 - (tested:ℝ)) : ℝ) - 1) = -(tested:ℝ) by ring]
+  have hb := Real.exp_bound (x := (-(tested:ℝ) * (1.609437911909 : ℝ))) (by norm_num [tested]) (n := 14) (by norm_num)
+  have hp : (∑ m ∈ Finset.range 14, ((-(tested:ℝ) * (1.609437911909 : ℝ))) ^ m / (m.factorial : ℝ)) = ((25490392050298277734270296382919332480878609960966144008840764601906977596039576578649767578533257120216092502899592533564542518964112321880357755634956304921991963921967329200032656060417430378203649262480426598618240034444376810474747884587044265135785312370704181627539406807923 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by norm_num [tested]
+  rw [hp] at hb
+  have herr : |((-(tested:ℝ) * (1.609437911909 : ℝ)))| ^ 14 * ((Nat.succ 14 : ℝ) / ((Nat.factorial 14 : ℝ) * 14)) ≤ (1e-12 : ℝ) := by norm_num [tested]
+  have b1 : Real.exp (-(tested:ℝ) * (1.609437911909 : ℝ)) ≤ ((25490392050298277734270296382919332480878609960966144008840764601906977596039576578649767578533257120216092502899592533564542518964112321880357755634956304921991963921967329200032656060417430378203649262480426598618240034444376810474747884587044265135785312370704181627539406807923 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12 := by
+    have hstep := (abs_le.mp hb).2; linarith only [hstep, herr]
+  have m1 : Real.exp (-(tested:ℝ) * Real.log 5) ≤ Real.exp (-(tested:ℝ) * (1.609437911909 : ℝ)) := by
+    apply Real.exp_le_exp.mpr; nlinarith [hlo, hk, hc]
+  have hnum : (5:ℝ) * (((25490392050298277734270296382919332480878609960966144008840764601906977596039576578649767578533257120216092502899592533564542518964112321880357755634956304921991963921967329200032656060417430378203649262480426598618240034444376810474747884587044265135785312370704181627539406807923 : ℝ) / 25625600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) + 1e-12) ≤ (4.973618579000 : ℝ) := by norm_num
+  nlinarith only [b1, m1, hnum]
+
+end
+end Pr6453
+
+theorem solution :
+    (1.995448411000 : ℝ) ≤ (2:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (2.989186058000 : ℝ) ≤ (3:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (3.981814361000 : ℝ) ≤ (4:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (4.973618578000 : ℝ) ≤ (5:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (5.964766571000 : ℝ) ≤ (6:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (6.955369181000 : ℝ) ≤ (7:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (7.945505141000 : ℝ) ≤ (8:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (8.935233294000 : ℝ) ≤ (9:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (16.842416867000 : ℝ) ≤ (17:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (24.736881766000 : ℝ) ≤ (25:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (32.622899312000 : ℝ) ≤ (33:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (56.247504828000 : ℝ) ≤ (57:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (71.977719478000 : ℝ) ≤ (73:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (142.647296292000 : ℝ) ≤ (145:ℝ)^(1 - (Pr6453.tested:ℝ)) ∧
+      (1:ℝ)^(1 - (Pr6453.tested:ℝ)) ≤ (1.000000001000 : ℝ) ∧
+      (2:ℝ)^(1 - (Pr6453.tested:ℝ)) ≤ (1.995448412000 : ℝ) ∧
+      (3:ℝ)^(1 - (Pr6453.tested:ℝ)) ≤ (2.989186059000 : ℝ) ∧
+      (4:ℝ)^(1 - (Pr6453.tested:ℝ)) ≤ (3.981814362000 : ℝ) ∧
+      (5:ℝ)^(1 - (Pr6453.tested:ℝ)) ≤ (4.973618579000 : ℝ) :=
+  ⟨Pr6453.loT0_2, Pr6453.loT0_3, Pr6453.loT0_4, Pr6453.loT0_5, Pr6453.loT0_6, Pr6453.loT0_7, Pr6453.loT0_8, Pr6453.loT0_9, Pr6453.loT0_17, Pr6453.loT0_25, Pr6453.loT0_33, Pr6453.loT0_57, Pr6453.loT0_73, Pr6453.loT0_145, Pr6453.hiP0_1, Pr6453.hiP0_2, Pr6453.hiP0_3, Pr6453.hiP0_4, Pr6453.hiP0_5⟩

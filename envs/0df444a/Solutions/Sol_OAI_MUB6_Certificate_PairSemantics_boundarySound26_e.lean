@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MUB6.Certificate.PairSemantics.boundarySound26_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-07T21:45:53.751279+00:00
 -- url     : https://prove2.me/submissions/73a4b811-aa7e-463f-8b47-8ab5e75f7586
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MUBSix

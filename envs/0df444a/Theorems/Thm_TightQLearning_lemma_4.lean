@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightQLearning_lemma_4
 -- name    : TightQLearning.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:31:27.594464+00:00
 -- url     : https://prove2.me/theorems/10627a48-9cf0-4b56-a2fc-63383d69d395

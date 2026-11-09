@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityFock_superBracket_bosOp_ghostOp
 -- name    : BookProof.QuantumGravityFock.superBracket_bosOp_ghostOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-03T04:02:13.530046+00:00
 -- url     : https://prove2.me/theorems/a6366631-df40-42fc-8433-2293094493cf

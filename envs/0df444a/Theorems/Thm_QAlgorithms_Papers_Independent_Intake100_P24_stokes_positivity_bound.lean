@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P24_stokes_positivity_bound
 -- name    : QAlgorithms.Papers.Independent.Intake100.P24.stokes_positivity_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:12:45.682664+00:00
 -- url     : https://prove2.me/theorems/eb9eb0f6-e195-452c-b732-34e584f15ae8

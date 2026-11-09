@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxGKR_error_propagation_C_2
 -- name    : ApproxGKR.error_propagation_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:28:00.542539+00:00
 -- url     : https://prove2.me/theorems/ca9ee56d-5a13-48e2-8120-9ce48c1ebb8f

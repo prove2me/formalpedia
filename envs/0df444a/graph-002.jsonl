@@ -51417,13 +51417,13 @@
 {"parent": "L0BnB_Strength_Relaxations", "child": "L0BnB_Reduced_Setup", "via": ["statement"]}
 {"parent": "L0BnB_Strength_Relaxations", "child": "L0BnB_Strength_Penalties", "via": ["statement"]}
 {"parent": "LLLFactor.Factors.card_le_2_18", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
-{"parent": "LLLFactor.Factors.claim_2_11", "child": "LLLFactor_Factors_Setting", "via": ["statement"]}
-{"parent": "LLLFactor.Factors.mignotte_step", "child": "LLLFactor_Factors_Setting", "via": ["statement"]}
-{"parent": "LLLFactor.Factors.prop_2_13", "child": "LLLFactor_Factors_Setting", "via": ["statement"]}
-{"parent": "LLLFactor.Factors.prop_2_16", "child": "LLLFactor_Factors_Setting", "via": ["statement"]}
-{"parent": "LLLFactor.Factors.prop_2_5", "child": "LLLFactor_Factors_Setting", "via": ["statement"]}
-{"parent": "LLLFactor.Factors.prop_2_7", "child": "LLLFactor_Factors_Setting", "via": ["statement"]}
-{"parent": "LLLFactor.Factors.subset_2_19", "child": "LLLFactor_Factors_Setting", "via": ["statement"]}
+{"parent": "LLLFactor.Factors.claim_2_11", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
+{"parent": "LLLFactor.Factors.mignotte_step", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
+{"parent": "LLLFactor.Factors.prop_2_13", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
+{"parent": "LLLFactor.Factors.prop_2_16", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
+{"parent": "LLLFactor.Factors.prop_2_5", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
+{"parent": "LLLFactor.Factors.prop_2_7", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
+{"parent": "LLLFactor.Factors.subset_2_19", "child": "LLLFactor_Factors_Setting", "via": ["solution", "statement"]}
 {"parent": "LLLFactor.RedBasis.gs_sq_ge_half_prev", "child": "LLLFactor_RedBasis_Setting", "via": ["solution", "statement"]}
 {"parent": "LLLFactor.RedBasis.gs_sq_le_pow_mul", "child": "LLLFactor_RedBasis_Setting", "via": ["solution", "statement"]}
 {"parent": "LLLFactor.RedBasis.ineq_1_7", "child": "LLLFactor_RedBasis_Setting", "via": ["solution", "statement"]}
@@ -72159,8 +72159,8 @@
 {"parent": "LeightonRao.ShortPaths.corollary_20", "child": "LeightonRao_ShortPaths_Setting", "via": ["solution", "statement"]}
 {"parent": "LeightonRao.ShortPaths.lemma_19", "child": "LeightonRao_ShortPaths_Setting", "via": ["solution", "statement"]}
 {"parent": "LeightonRao.ShortPaths.lemma_21", "child": "LeightonRao_ShortPaths_Setting", "via": ["solution", "statement"]}
-{"parent": "LeightonRao.ShortPaths.short_path_duality", "child": "LeightonRao_ShortPaths_Setting", "via": ["statement"]}
-{"parent": "LeightonRao.ShortPaths.theorem_18", "child": "LeightonRao_ShortPaths_Setting", "via": ["statement"]}
+{"parent": "LeightonRao.ShortPaths.short_path_duality", "child": "LeightonRao_ShortPaths_Setting", "via": ["solution", "statement"]}
+{"parent": "LeightonRao.ShortPaths.theorem_18", "child": "LeightonRao_ShortPaths_Setting", "via": ["solution", "statement"]}
 {"parent": "LeightonRao.Uniform.corollary_4", "child": "LeightonRao_Uniform_Dual", "via": ["solution", "statement"]}
 {"parent": "LeightonRao.Uniform.lemma_3", "child": "LeightonRao_Uniform_Dual", "via": ["solution", "statement"]}
 {"parent": "LeightonRao.Uniform.lemma_5", "child": "LeightonRao_Uniform_Dual", "via": ["solution", "statement"]}
@@ -99082,10 +99082,10 @@
 {"parent": "MetricalTaskSystem.Randomized.randomizedRatio_ge_limsup", "child": "MetricalTaskSystem_Randomized_Model", "via": ["solution", "statement"]}
 {"parent": "MetricalTaskSystem.Randomized.randomizedRatio_ge_limsup", "child": "MetricalTaskSystem_Randomized_RandomizedAlgorithm", "via": ["solution", "statement"]}
 {"parent": "MetricalTaskSystem.Randomized.randomizedRatio_ge_limsup", "child": "MetricalTaskSystem_Randomized_TaskDistribution", "via": ["solution", "statement"]}
-{"parent": "MetricalTaskSystem.Randomized.uniform_expCompetitive_two_harmonic", "child": "MetricalTaskSystem_Randomized_Model", "via": ["statement"]}
-{"parent": "MetricalTaskSystem.Randomized.uniform_expCompetitive_two_harmonic", "child": "MetricalTaskSystem_Randomized_RandomizedAlgorithm", "via": ["statement"]}
-{"parent": "MetricalTaskSystem.Randomized.uniform_expOfflineCost_limsup", "child": "MetricalTaskSystem_Randomized_Model", "via": ["statement"]}
-{"parent": "MetricalTaskSystem.Randomized.uniform_expOfflineCost_limsup", "child": "MetricalTaskSystem_Randomized_TaskDistribution", "via": ["statement"]}
+{"parent": "MetricalTaskSystem.Randomized.uniform_expCompetitive_two_harmonic", "child": "MetricalTaskSystem_Randomized_Model", "via": ["solution", "statement"]}
+{"parent": "MetricalTaskSystem.Randomized.uniform_expCompetitive_two_harmonic", "child": "MetricalTaskSystem_Randomized_RandomizedAlgorithm", "via": ["solution", "statement"]}
+{"parent": "MetricalTaskSystem.Randomized.uniform_expOfflineCost_limsup", "child": "MetricalTaskSystem_Randomized_Model", "via": ["solution", "statement"]}
+{"parent": "MetricalTaskSystem.Randomized.uniform_expOfflineCost_limsup", "child": "MetricalTaskSystem_Randomized_TaskDistribution", "via": ["solution", "statement"]}
 {"parent": "MetricalTaskSystem.Randomized.uniform_minDetExpCost_ge", "child": "MetricalTaskSystem_Randomized_Model", "via": ["solution", "statement"]}
 {"parent": "MetricalTaskSystem.Randomized.uniform_minDetExpCost_ge", "child": "MetricalTaskSystem_Randomized_TaskDistribution", "via": ["solution", "statement"]}
 {"parent": "MetricalTaskSystem.Randomized.uniform_randomizedRatio_bounds", "child": "MetricalTaskSystem_Randomized_Model", "via": ["solution", "statement"]}

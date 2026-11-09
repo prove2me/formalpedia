@@ -1,0 +1,4230 @@
+-- Prove2me | solution 1 for OAI.MUB6.Certificate.MixedSourceBridge.rowSound1941_e
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-08T22:21:08.84521+00:00
+-- url     : https://prove2.me/submissions/fd81b6d2-ef51-4af9-a6a6-8720c4ff6a98
+
+import Mathlib
+import Lean.Elab.Tactic.Omega
+import Definitions.Def_MUBSix
+import Definitions.Def_OAIQ106E070
+import Definitions.Def_OAIQ106E086
+import Definitions.Def_OAIQ106E090
+import Definitions.Def_OAIQ106E097
+import Definitions.Def_OAIQ106E188
+import Definitions.Def_OAIQ106E189
+import Definitions.Def_OAIQ106E191
+import Definitions.Def_OAIQ106E099
+import Definitions.Def_OAIQ106E100
+import Definitions.Def_OAIQ106E194
+import Definitions.Def_OAIQ106E195
+import Definitions.Def_OAIQ106E106
+import Definitions.Def_OAIQ106E119
+import Definitions.Def_OAIQ106E120
+import Definitions.Def_OAIQ106E125
+import Definitions.Def_OAIQ106E140
+import Definitions.Def_OAIQ106E147
+import Definitions.Def_OAIQ106E170
+
+section
+-- module Solutions.OAIQ106_MUB.Compat
+namespace OAI
+
+/-! Compatibility with the newer Lean core OpenAI's code was written against: lemmas it uses by
+names this environment (Lean 4.33.1, Mathlib 0df444a) does not have yet. Each is the
+corresponding `if_pos` / `if_neg` / `dif_pos` / `dif_neg`. The `dite` forms are stated as
+`dite p a b`, not with the `if hp : p then …` notation: its eta-expanded lambdas form is a higher-order pattern
+that `rw` cannot find (DepthThree, PeriodicTiling 2026-10-25). -/
+section OAICompat434
+theorem ite_eq_right {α : Sort _} {c : Prop} {_ : Decidable c} {a b : α} (h : ¬c) :
+    (if c then a else b) = b := if_neg h
+end OAICompat434
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Matrix_Definitions
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Mathematical definitions for the exact Fourier companion.
+
+The character normalization is exactly 1/6, not an unnormalized sum.
+-/
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem unit_ne_zero {z : ℂ} (hz : Complex.normSq z = 1) : z ≠ 0 := by
+  intro h
+  simp [h] at hz
+
+theorem character_add (x : Coord → ℂ) (hx : ∀ i, x i ≠ 0) (a b : Charge) :
+    character x (a + b) = character x a * character x b := by
+  simp only [character, Pi.add_apply, zpow_add₀ (hx _), Finset.prod_mul_distrib]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Completion_Superoperator
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Realignment of a self-adjoint projection
+
+The complement operator in Weiner's argument is an orthogonal projection whose
+matrix is invariant under realignment. Its columns therefore form a finite
+Kraus family; choosing an orthonormal basis of its range is unnecessary.
+-/
+
+namespace MUB6.Weiner
+
+open Matrix
+open scoped BigOperators ComplexOrder
+
+variable {n : Type*} [Fintype n] [DecidableEq n]
+
+lemma applySuper_one_entry (C : Matrix (n × n) (n × n) ℂ) (i j : n) :
+    applySuper C 1 i j = ∑ k, C (i, j) (k, k) := by
+  simp [applySuper, Fintype.sum_prod_type, Matrix.one_apply]
+
+/-- A Hermitian idempotent with zero trace is zero. -/
+theorem hermitian_idempotent_eq_zero_of_trace_zero {I : Type*} [Fintype I]
+    (C : Matrix I I ℂ) (hherm : Cᴴ = C) (hidem : C * C = C)
+    (htrace : C.trace = 0) : C = 0 := by
+  apply Matrix.trace_conjTranspose_mul_self_eq_zero_iff.mp
+  rwa [hherm, hidem]
+
+end MUB6.Weiner
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Completion_Complement
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# The concrete complement supermatrix
+
+The Hermitian and realignment symmetries are algebraic identities for arbitrary
+complex vectors. Orthonormality and mutual unbiasedness are needed for the
+separate unitality and idempotence identities.
+-/
+
+namespace MUB6.Weiner
+
+open Matrix
+open scoped BigOperators
+
+variable {n ι κ : Type*} [Fintype n] [DecidableEq n] [Fintype ι] [Fintype κ]
+
+omit [Fintype n] in
+lemma traceMatrix_hermitian : (traceMatrix : Matrix (n × n) (n × n) ℂ)ᴴ = traceMatrix := by
+  ext p q
+  simp [traceMatrix, Matrix.conjTranspose_apply, and_comm]
+
+omit [Fintype n] [DecidableEq n] in
+lemma pinchingMatrix_hermitian (v : κ → n → ℂ) : (pinchingMatrix v)ᴴ = pinchingMatrix v := by
+  ext p q
+  simp only [Matrix.conjTranspose_apply, pinchingMatrix, star_sum, star_mul, star_star]
+  apply Finset.sum_congr rfl
+  intro a _
+  ring
+
+omit [Fintype n] in
+lemma complementMatrix_hermitian (v : ι → κ → n → ℂ) :
+    (complementMatrix v)ᴴ = complementMatrix v := by
+  simp [complementMatrix, Matrix.conjTranspose_add, Matrix.conjTranspose_sub,
+    Matrix.conjTranspose_sum, traceMatrix_hermitian, pinchingMatrix_hermitian]
+
+lemma traceMatrix_trace : (traceMatrix : Matrix (n × n) (n × n) ℂ).trace = Fintype.card n := by
+  simp only [Matrix.trace, Matrix.diag, traceMatrix, and_self]
+  rw [Fintype.sum_prod_type]
+  simp
+
+lemma traceMatrix_square : (traceMatrix : Matrix (n × n) (n × n) ℂ) * traceMatrix =
+    (Fintype.card n : ℂ) • traceMatrix := by
+  ext p q
+  by_cases hp : p.1 = p.2 <;> by_cases hq : q.1 = q.2 <;>
+    simp [Matrix.mul_apply, traceMatrix, Fintype.sum_prod_type, hp, hq]
+
+/-- Composing a unital map with the trace map leaves the trace map unchanged. -/
+lemma mul_traceMatrix_of_unital (C : Matrix (n × n) (n × n) ℂ)
+    (hC : applySuper C 1 = 1) : C * traceMatrix = traceMatrix := by
+  ext ⟨i, j⟩ ⟨k, l⟩
+  by_cases hkl : k = l
+  · subst l
+    have h := congrArg (fun X : Matrix n n ℂ => X i j) hC
+    rw [applySuper_one_entry] at h
+    simpa [Matrix.mul_apply, traceMatrix, Fintype.sum_prod_type, Matrix.one_apply] using h
+  · simp [Matrix.mul_apply, traceMatrix, hkl]
+
+/-- Self-adjoint unital maps also leave the trace map unchanged on the other side. -/
+lemma traceMatrix_mul_of_hermitian_unital (C : Matrix (n × n) (n × n) ℂ)
+    (hherm : Cᴴ = C) (hC : applySuper C 1 = 1) : traceMatrix * C = traceMatrix := by
+  have h := congrArg Matrix.conjTranspose (mul_traceMatrix_of_unital C hC)
+  simpa only [Matrix.conjTranspose_mul, traceMatrix_hermitian, hherm] using h
+
+/-- A pinching supermatrix is unital when its vectors are unit and complete. -/
+lemma pinchingMatrix_unital (v : κ → n → ℂ)
+    (hnorm : ∀ a, ∑ i, star (v a i) * v a i = 1)
+    (hcomplete : ∀ i j, ∑ a, v a i * star (v a j) = if i = j then 1 else 0) :
+    applySuper (pinchingMatrix v) 1 = 1 := by
+  ext i j
+  rw [applySuper_one_entry]
+  change (∑ k, ∑ a, v a i * star (v a j) * star (v a k) * v a k) = _
+  rw [Finset.sum_comm]
+  have hinner (a : κ) :
+      (∑ k, v a i * star (v a j) * star (v a k) * v a k) = v a i * star (v a j) := by
+    simp_rw [mul_assoc]
+    rw [← Finset.mul_sum, ← Finset.mul_sum, hnorm]
+    simp
+  simp only [hinner]
+  simpa [Matrix.one_apply] using hcomplete i j
+
+omit [DecidableEq n] in
+/-- Unit input vectors give the exact trace of a pinching supermatrix. -/
+lemma pinchingMatrix_trace (v : κ → n → ℂ)
+    (hnorm : ∀ a, ∑ i, star (v a i) * v a i = 1) :
+    (pinchingMatrix v).trace = Fintype.card κ := by
+  have hexpand : (pinchingMatrix v).trace =
+      ∑ a, (∑ i, star (v a i) * v a i) * (∑ j, star (v a j) * v a j) := by
+    simp only [Matrix.trace, Matrix.diag, pinchingMatrix]
+    rw [Finset.sum_comm]
+    simp only [Fintype.sum_prod_type, Finset.sum_mul, Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro a _
+    apply Finset.sum_congr rfl
+    intro i _
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  rw [hexpand]
+  simp only [hnorm, one_mul]
+  simp
+
+end MUB6.Weiner
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Completion_Frame
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Rank-one frame identities used to calculate the complement projection. -/
+
+namespace MUB6.Weiner
+
+open Matrix
+open scoped BigOperators
+
+variable {I κ η n : Type*} [Fintype I] [Fintype κ] [Fintype η] [Fintype n]
+
+lemma frameOperator_idempotent [DecidableEq κ] (v : κ → I → ℂ)
+    (hv : ∀ a b, star (v a) ⬝ᵥ v b = if a = b then 1 else 0) :
+    frameOperator v * frameOperator v = frameOperator v := by
+  classical
+  simp only [frameOperator, Matrix.sum_mul, Matrix.mul_sum,
+    Matrix.vecMulVec_mul_vecMulVec, hv]
+  simp [apply_ite]
+
+lemma frameOperator_mul (v : κ → I → ℂ) (w : η → I → ℂ) (c : ℂ)
+    (hvw : ∀ a b, star (v a) ⬝ᵥ w b = c) :
+    frameOperator v * frameOperator w = c • Matrix.vecMulVec (∑ a, v a) (star (∑ b, w b)) := by
+  classical
+  simp only [frameOperator, Matrix.sum_mul, Matrix.mul_sum,
+    Matrix.vecMulVec_mul_vecMulVec, hvw, Matrix.vecMulVec_smul]
+  ext i j
+  simp [Matrix.sum_apply, Matrix.smul_apply, Matrix.vecMulVec_apply, Finset.sum_mul, Finset.mul_sum]
+
+lemma projectorVector_inner (v w : n → ℂ) :
+    star (projectorVector v) ⬝ᵥ projectorVector w =
+      (star v ⬝ᵥ w) * star (star v ⬝ᵥ w) := by
+  simp only [dotProduct, projectorVector, Pi.star_apply, star_sum, star_mul, star_star,
+    Fintype.sum_prod_type, Finset.sum_mul, Finset.mul_sum]
+  rw [Finset.sum_comm]
+  apply Finset.sum_congr rfl
+  intro i _
+  apply Finset.sum_congr rfl
+  intro j _
+  ring
+
+omit [Fintype n] in
+lemma pinchingMatrix_eq_frameOperator [DecidableEq n] (v : κ → n → ℂ) :
+    pinchingMatrix v = frameOperator (fun a => projectorVector (v a)) := by
+  ext p q
+  simp only [pinchingMatrix, frameOperator, Matrix.sum_apply, Matrix.vecMulVec_apply,
+    projectorVector, Pi.star_apply, star_mul, star_star]
+  apply Finset.sum_congr rfl
+  intro a _
+  ring
+
+end MUB6.Weiner
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Completion_ComplementAlgebra
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Algebra of the missing-basis projection
+
+The six diagonal expectation operators and the trace operator satisfy a small
+multiplication table. The proof shows that the resulting complement operator
+is idempotent, using ring algebra rather than numerical approximation.
+-/
+
+namespace MUB6.Weiner
+
+variable {R : Type*} [Ring R]
+
+open scoped BigOperators
+
+/-- A finite family of idempotents whose off-diagonal products are one common
+operator has an explicit square for its sum. -/
+theorem sum_pairwise_projection_square {ι : Type*} [Fintype ι] [DecidableEq ι]
+    (D : ι → R) (P : R)
+    (h : ∀ i j, D i * D j = if i = j then D i else P) :
+    (∑ i, D i) * (∑ i, D i) = (∑ i, D i) +
+      ((Fintype.card ι : R) ^ 2 - (Fintype.card ι : R)) * P := by
+  have h' (i j : ι) : D i * D j = (if i = j then D i - P else 0) + P := by
+    rw [h]
+    split_ifs <;> simp
+  simp_rw [Finset.sum_mul, Finset.mul_sum, h', Finset.sum_add_distrib]
+  simp [Finset.sum_sub_distrib, nsmul_eq_mul]
+  noncomm_ring
+
+/-- The analogous complement for seven expectations in dimension six is also
+idempotent. Together with its zero trace this yields the complete-family moment
+identity. -/
+theorem complete_complement_idempotent (S W : R)
+    (hSS : S * S = S + 7 * W)
+    (hSW : S * W = 7 * W) (hWS : W * S = 7 * W)
+    (hWW : W * W = 6 * W) :
+    (1 + W - S) * (1 + W - S) = 1 + W - S := by
+  noncomm_ring [hSS, hSW, hWS, hWW]
+
+end MUB6.Weiner
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Completion_OrthogonalPinching
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Exact multiplication tables for six and seven unbiased pinching operators. -/
+
+namespace MUB6.Weiner
+
+open Matrix
+open scoped BigOperators
+
+lemma seven_projection_sum_square (D : Fin 7 → SuperSix)
+    (hpair : ∀ r s, D r * D s = if r = s then D r else (1 / 6 : ℂ) • traceMatrix) :
+    (∑ r, D r) * (∑ r, D r) = (∑ r, D r) + 7 * traceMatrix := by
+  have h := sum_pairwise_projection_square D ((1 / 6 : ℂ) • traceMatrix) hpair
+  norm_num at h
+  have hcoeff : (1 / 6 : ℂ) • ((42 : SuperSix) * traceMatrix) = 7 * traceMatrix := by
+    ext p q
+    norm_num [Matrix.mul_apply, Matrix.ofNat_apply, ite_mul]
+    ring
+  rwa [hcoeff] at h
+
+lemma projection_sum_mul_traceMatrix {m : ℕ} (D : Fin m → SuperSix)
+    (hunital : ∀ r, applySuper (D r) 1 = 1) :
+    (∑ r, D r) * traceMatrix = (m : SuperSix) * traceMatrix := by
+  simp only [Matrix.sum_mul, mul_traceMatrix_of_unital _ (hunital _), Finset.sum_const,
+    Finset.card_univ, Fintype.card_fin, nsmul_eq_mul]
+
+lemma traceMatrix_mul_projection_sum {m : ℕ} (D : Fin m → SuperSix)
+    (hherm : ∀ r, (D r)ᴴ = D r) (hunital : ∀ r, applySuper (D r) 1 = 1) :
+    traceMatrix * (∑ r, D r) = (m : SuperSix) * traceMatrix := by
+  simp only [Matrix.mul_sum, traceMatrix_mul_of_hermitian_unital _ (hherm _) (hunital _),
+    Finset.sum_const, Finset.card_univ, Fintype.card_fin, nsmul_eq_mul]
+
+lemma traceMatrix_six_square : (traceMatrix : SuperSix) * traceMatrix = 6 * traceMatrix := by
+  calc
+    (traceMatrix : SuperSix) * traceMatrix = (6 : ℂ) • traceMatrix := by
+      simpa only [Fintype.card_fin, Nat.cast_ofNat] using (traceMatrix_square (n := Fin 6))
+    _ = 6 * traceMatrix := by
+      ext p q
+      norm_num [Matrix.mul_apply, Matrix.ofNat_apply, ite_mul]
+
+/-- The complete seven-basis complement is idempotent as well. -/
+theorem seven_complement_idempotent (D : Fin 7 → SuperSix)
+    (hpair : ∀ r s, D r * D s = if r = s then D r else (1 / 6 : ℂ) • traceMatrix)
+    (hherm : ∀ r, (D r)ᴴ = D r) (hunital : ∀ r, applySuper (D r) 1 = 1) :
+    (1 + traceMatrix - ∑ r, D r) * (1 + traceMatrix - ∑ r, D r) =
+      1 + traceMatrix - ∑ r, D r :=
+  complete_complement_idempotent _ _ (seven_projection_sum_square D hpair)
+    (projection_sum_mul_traceMatrix D hunital)
+    (traceMatrix_mul_projection_sum D hherm hunital) traceMatrix_six_square
+
+end MUB6.Weiner
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Completion_BasisFrame
+attribute [-simp] _root_.OAI.MUB6.embedCharge_apply _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero _root_.OAI.MUB6.offDiagSum_zero _root_.OAI.MUB6.rowFourier_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! The rank-one frames associated with actual orthonormal and unbiased bases. -/
+
+namespace MUB6.Weiner
+
+open Matrix
+open scoped BigOperators
+
+lemma basisCoordinates_unit (b : MUB6.Basis) (a : Coord) :
+    ∑ i, star (basisCoordinates b a i) * basisCoordinates b a i = 1 := by
+  simpa only [basisCoordinates, EuclideanSpace.inner_eq_star_dotProduct, dotProduct, Pi.star_apply, mul_comm]
+    using b.inner_eq_one a
+
+lemma basisCoordinates_complete (b : MUB6.Basis) (i j : Coord) :
+    ∑ a, basisCoordinates b a i * star (basisCoordinates b a j) =
+      if i = j then 1 else 0 := by
+  have h := (EuclideanSpace.basisFun Coord ℂ).toMatrix_orthonormalBasis_self_mul_conjTranspose b
+  have hij := congrArg (fun A : CMatrix => A i j) h
+  simpa [basisCoordinates, Matrix.mul_apply, Matrix.conjTranspose_apply,
+    Module.Basis.toMatrix_apply, Matrix.one_apply] using hij
+
+lemma basis_projectorVector_sum (b : MUB6.Basis) :
+    (∑ a, projectorVector (basisCoordinates b a)) = traceVector := by
+  funext p
+  simpa only [Finset.sum_apply, projectorVector, traceVector] using
+    basisCoordinates_complete b p.1 p.2
+
+lemma traceVector_outer : Matrix.vecMulVec traceVector (star traceVector) =
+    (traceMatrix : Matrix (Coord × Coord) (Coord × Coord) ℂ) := by
+  ext p q
+  by_cases hp : p.1 = p.2 <;> by_cases hq : q.1 = q.2 <;>
+    simp [Matrix.vecMulVec_apply, traceVector, traceMatrix, hp, hq]
+
+lemma basis_projector_inner (b c : MUB6.Basis) (a d : Coord) :
+    star (projectorVector (basisCoordinates b a)) ⬝ᵥ
+      projectorVector (basisCoordinates c d) =
+        inner ℂ (b a) (c d) * star (inner ℂ (b a) (c d)) := by
+  rw [projectorVector_inner]
+  have h : star (basisCoordinates b a) ⬝ᵥ basisCoordinates c d = inner ℂ (b a) (c d) := by
+    change star (b a).ofLp ⬝ᵥ (c d).ofLp = inner ℂ (b a) (c d)
+    rw [dotProduct_comm]
+    exact (EuclideanSpace.inner_eq_star_dotProduct (b a) (c d)).symm
+  rw [h]
+
+lemma basis_pinching_idempotent (b : MUB6.Basis) :
+    pinchingMatrix (basisCoordinates b) * pinchingMatrix (basisCoordinates b) =
+      pinchingMatrix (basisCoordinates b) := by
+  simp only [pinchingMatrix_eq_frameOperator]
+  apply frameOperator_idempotent
+  intro a c
+  rw [basis_projector_inner]
+  rw [b.inner_eq_ite]
+  split_ifs <;> simp
+
+lemma mub_pinching_mul {m : ℕ} (B : Fin m → MUB6.Basis) (hB : IsMUBFamily B)
+    (r s : Fin m) (hrs : r ≠ s) :
+    pinchingMatrix (basisCoordinates (B r)) * pinchingMatrix (basisCoordinates (B s)) =
+      (1 / 6 : ℂ) • (traceMatrix : Matrix (Coord × Coord) (Coord × Coord) ℂ) := by
+  rw [pinchingMatrix_eq_frameOperator, pinchingMatrix_eq_frameOperator]
+  have hov : ∀ a b, star (projectorVector (basisCoordinates (B r) a)) ⬝ᵥ
+      projectorVector (basisCoordinates (B s) b) = (1 / 6 : ℂ) := by
+    intro a b
+    rw [basis_projector_inner]
+    rw [Complex.star_def, Complex.mul_conj, hB r s hrs a b]
+    norm_num
+  have h := frameOperator_mul
+    (fun a => projectorVector (basisCoordinates (B r) a))
+    (fun b => projectorVector (basisCoordinates (B s) b)) (1 / 6 : ℂ) hov
+  rwa [basis_projectorVector_sum, basis_projectorVector_sum, traceVector_outer] at h
+
+lemma basis_pinching_unital (b : MUB6.Basis) :
+    applySuper (pinchingMatrix (basisCoordinates b)) 1 = 1 :=
+  pinchingMatrix_unital (basisCoordinates b) (basisCoordinates_unit b) (basisCoordinates_complete b)
+
+lemma basis_pinching_trace (b : MUB6.Basis) :
+    (pinchingMatrix (basisCoordinates b)).trace = 6 := by
+  simpa using pinchingMatrix_trace (basisCoordinates b) (basisCoordinates_unit b)
+
+lemma basis_pinching_pair {m : ℕ} (B : Fin m → MUB6.Basis) (hB : IsMUBFamily B)
+    (r s : Fin m) :
+    pinchingMatrix (basisCoordinates (B r)) * pinchingMatrix (basisCoordinates (B s)) =
+      if r = s then pinchingMatrix (basisCoordinates (B r))
+      else (1 / 6 : ℂ) • traceMatrix := by
+  split_ifs with h
+  · subst s
+    exact basis_pinching_idempotent (B r)
+  · exact mub_pinching_mul B hB r s h
+
+/-- The Hilbert--Schmidt complement vanishes for seven unbiased bases. -/
+theorem complete_basis_complement_eq_zero (B : Fin 7 → MUB6.Basis) (hB : IsMUBFamily B) :
+    complementMatrix (fun r => basisCoordinates (B r)) = 0 := by
+  apply hermitian_idempotent_eq_zero_of_trace_zero
+  · exact complementMatrix_hermitian _
+  · exact seven_complement_idempotent _ (basis_pinching_pair B hB)
+      (fun r => pinchingMatrix_hermitian (basisCoordinates (B r)))
+      (fun r => basis_pinching_unital (B r))
+  · norm_num [complementMatrix, Matrix.trace_sub, Matrix.trace_add, Matrix.trace_sum,
+      traceMatrix_trace, basis_pinching_trace]
+
+/-- Entrywise fourth moment of a complete family of seven orthonormal bases. -/
+theorem complete_basis_fourth_moment (B : Fin 7 → MUB6.Basis) (hB : IsMUBFamily B)
+    (i j k l : Coord) :
+    (∑ r, ∑ a, B r a i * star (B r a j) * star (B r a k) * B r a l) =
+      (if i = k ∧ j = l then 1 else 0) + (if i = j ∧ k = l then 1 else 0) := by
+  have h := congrArg (fun C : SuperSix => C (i, j) (k, l))
+    (complete_basis_complement_eq_zero B hB)
+  simp only [complementMatrix, Matrix.sub_apply, Matrix.add_apply, Matrix.sum_apply,
+    Matrix.zero_apply] at h
+  simpa only [pinchingMatrix, basisCoordinates, Matrix.one_apply, Prod.mk.injEq,
+    traceMatrix] using (sub_eq_zero.mp h).symm
+
+/-- A common unitary change of coordinates preserves mutual unbiasedness. -/
+lemma isMUBFamily_map {m : ℕ} (B : Fin m → MUB6.Basis) (hB : IsMUBFamily B)
+    (U : Space ≃ₗᵢ[ℂ] Space) : IsMUBFamily (fun r => (B r).map U) := by
+  intro r s hrs i j
+  simpa only [OrthonormalBasis.map_apply, LinearIsometryEquiv.inner_map_map] using hB r s hrs i j
+
+/-- The complete-family fourth moment in coordinates of any reference basis. -/
+theorem complete_basis_fourth_moment_relative (B : Fin 7 → MUB6.Basis) (hB : IsMUBFamily B)
+    (ref : MUB6.Basis) (i j k l : Coord) :
+    (∑ r, ∑ a, inner ℂ (ref i) (B r a) * star (inner ℂ (ref j) (B r a)) *
+      star (inner ℂ (ref k) (B r a)) * inner ℂ (ref l) (B r a)) =
+      (if i = k ∧ j = l then 1 else 0) + (if i = j ∧ k = l then 1 else 0) := by
+  have h := complete_basis_fourth_moment (fun r => (B r).map ref.repr)
+    (isMUBFamily_map B hB ref.repr) i j k l
+  simpa only [OrthonormalBasis.map_apply, OrthonormalBasis.repr_apply_apply] using h
+
+end MUB6.Weiner
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Fourier_Characters
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem unit_inv_eq_conj {z : ℂ} (hz : Complex.normSq z = 1) : z⁻¹ = conj z := by
+  simp [Complex.inv_def, hz]
+
+theorem character_neg (x : Coord → ℂ) (hx : ∀ i, Complex.normSq (x i) = 1)
+    (a : Charge) : character x (-a) = conj (character x a) := by
+  simp only [character, Pi.neg_apply, zpow_neg, map_prod, map_zpow₀]
+  apply Finset.prod_congr rfl
+  intro i _
+  rw [← unit_inv_eq_conj (hx i), inv_zpow]
+
+theorem g_neg {H : CMatrix} (hH : IsHadamard H) (a : Charge) :
+    g H (-a) = conj (g H a) := by
+  simp only [g, character_neg _ (fun i => hH.1 i _) a, map_mul, map_sum,
+    map_inv₀, map_ofNat]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Matrix_Hadamard
+attribute [-simp] _root_.OAI.MUB6.TaoArithmetic.decode_encode _root_.OAI.MUB6.embedCharge_apply _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero _root_.OAI.MUB6.offDiagSum_zero _root_.OAI.MUB6.rowFourier_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+open Matrix
+
+namespace MUB6
+
+theorem IsHadamard.row_gram {H : CMatrix} (hH : IsHadamard H) :
+    H * Hᴴ = (6 : ℂ) • (1 : CMatrix) := by
+  have hl : ((6 : ℂ)⁻¹ • Hᴴ) * H = (1 : CMatrix) := by
+    rw [smul_mul_assoc, hH.2, smul_smul]
+    norm_num
+  have hr := mul_eq_one_comm.mp hl
+  rw [mul_smul_comm] at hr
+  have hs := congrArg (fun M : CMatrix => (6 : ℂ) • M) hr
+  simpa only [smul_smul, mul_inv_cancel₀ (by norm_num : (6 : ℂ) ≠ 0), one_smul]
+    using hs
+
+theorem IsHadamard.column_orthogonal {H : CMatrix} (hH : IsHadamard H)
+    (i j : Coord) :
+    ∑ k, conj (H k i) * H k j = if i = j then 6 else 0 := by
+  have h := congrArg (fun M : CMatrix => M i j) hH.2
+  simpa [Matrix.mul_apply, Matrix.one_apply] using h
+
+theorem IsHadamard.row_orthogonal {H : CMatrix} (hH : IsHadamard H)
+    (i j : Coord) :
+    ∑ k, H i k * conj (H j k) = if i = j then 6 else 0 := by
+  have h := congrArg (fun M : CMatrix => M i j) hH.row_gram
+  simpa [Matrix.mul_apply, Matrix.one_apply] using h
+
+theorem character_single (x : Coord → ℂ) (i : Coord) (n : ℤ) :
+    character x (Pi.single i n) = x i ^ n := by
+  classical
+  simp [character, Pi.single_apply]
+
+theorem character_difference (x : Coord → ℂ) (hx : ∀ k, Complex.normSq (x k) = 1)
+    (i j : Coord) : character x (difference i j) = x i * conj (x j) := by
+  rw [difference, sub_eq_add_neg, character_add x (fun k => unit_ne_zero (hx k)),
+    character_neg x hx, character_single, character_single]
+  simp
+
+theorem g_difference {H : CMatrix} (hH : IsHadamard H) (i j : Coord) :
+    g H (difference i j) = if i = j then 1 else 0 := by
+  simp only [g, character_difference _ (fun k => hH.1 k _)]
+  rw [hH.row_orthogonal]
+  split_ifs <;> norm_num
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Bases_Transitions
+attribute [-simp] _root_.OAI.MUB6.embedCharge_apply _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero _root_.OAI.MUB6.offDiagSum_zero _root_.OAI.MUB6.rowFourier_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem sqrt_six_square : (Real.sqrt 6 : ℂ) ^ 2 = 6 := by
+  have h : Real.sqrt 6 ^ 2 = (6 : ℝ) := Real.sq_sqrt (by norm_num)
+  exact_mod_cast h
+
+theorem sqrt_six_normSq : Complex.normSq (Real.sqrt 6 : ℂ) = 6 := by
+  rw [Complex.normSq_ofReal]
+  nlinarith [Real.sq_sqrt (by norm_num : (0 : ℝ) ≤ 6)]
+
+theorem transition_column_inner (b c d : Basis) (k l : Coord) :
+    (∑ i, conj (transition b c i k) * transition b d i l) =
+      6 * inner ℂ (c k) (d l) := by
+  have hterm (i : Coord) : conj (transition b c i k) * transition b d i l =
+      6 * (inner ℂ (c k) (b i) * inner ℂ (b i) (d l)) := by
+    simp only [transition, map_mul, Complex.conj_ofReal, inner_conj_symm]
+    calc
+      _ = (Real.sqrt 6 : ℂ) ^ 2 *
+        (inner ℂ (c k) (b i) * inner ℂ (b i) (d l)) := by ring
+      _ = _ := by rw [sqrt_six_square]
+  simp_rw [hterm]
+  rw [← Finset.mul_sum, b.sum_inner_mul_inner]
+
+theorem transition_isHadamard {m : ℕ} (B : Fin m → Basis) (hB : IsMUBFamily B)
+    (r s : Fin m) (hrs : r ≠ s) : IsHadamard (transition (B r) (B s)) := by
+  refine ⟨?_, ?_⟩
+  · intro i k
+    rw [transition, map_mul, sqrt_six_normSq, hB r s hrs i k]
+    norm_num
+  · ext i j
+    change (∑ k, conj (transition (B r) (B s) k i) * transition (B r) (B s) k j) =
+      (6 : ℂ) * (if i = j then 1 else 0)
+    rw [transition_column_inner, (B s).inner_eq_ite]
+
+theorem transition_cross_normSq {m : ℕ} (B : Fin m → Basis) (hB : IsMUBFamily B)
+    (ref : Basis) (s t : Fin m) (hst : s ≠ t) (k l : Coord) :
+    Complex.normSq (∑ i, conj (transition ref (B s) i k) * transition ref (B t) i l) = 6 := by
+  rw [transition_column_inner, map_mul, hB s t hst k l]
+  norm_num [Complex.normSq_ofNat]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Fourier_ChargeDecomposition
+attribute [-simp] _root_.OAI.MUB6.TaoArithmetic.decode_encode _root_.OAI.MUB6.embedCharge_apply _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero _root_.OAI.MUB6.offDiagSum_zero _root_.OAI.MUB6.rowFourier_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+
+namespace MUB6
+
+theorem weightMultiset_card (w : Coord → ℕ) :
+    (weightMultiset w).card = ∑ i, w i := by
+  have h (s : Finset Coord) : (∑ i ∈ s, Multiset.replicate (w i) i).card = ∑ i ∈ s, w i := by
+    induction s using Finset.induction_on with
+    | empty => simp
+    | @insert i s hi ih => simp [Finset.sum_insert hi, Multiset.card_add, ih]
+  exact h Finset.univ
+
+theorem weightMultiset_count (w : Coord → ℕ) (k : Coord) :
+    (weightMultiset w).count k = w k := by
+  have h (s : Finset Coord) :
+      (∑ i ∈ s, Multiset.replicate (w i) i).count k = ∑ i ∈ s, if i = k then w i else 0 := by
+    induction s using Finset.induction_on with
+    | empty => simp
+    | @insert i s hi ih => simp [Finset.sum_insert hi, Multiset.count_add, Multiset.count_replicate, ih]
+  simpa [weightMultiset] using h Finset.univ
+
+theorem positivePositions_card (a : Charge) : (positivePositions a).card = order a :=
+  weightMultiset_card _
+
+theorem negativePositions_card {a : Charge} (ha : Balanced a) :
+    (negativePositions a).card = order a := by
+  have h : (∑ i, ((a i).toNat : ℤ)) - ∑ i, ((-a i).toNat : ℤ) = 0 := by
+    rw [← Finset.sum_sub_distrib]
+    simpa only [Int.toNat_sub_toNat_neg] using (show ∑ i, a i = 0 from ha)
+  rw [negativePositions, weightMultiset_card, order]
+  exact_mod_cast (sub_eq_zero.mp h).symm
+
+theorem charge_eq_counts (a : Charge) (k : Coord) :
+    a k = ((positivePositions a).count k : ℤ) - (negativePositions a).count k := by
+  rw [positivePositions, negativePositions, weightMultiset_count, weightMultiset_count]
+  exact (Int.toNat_sub_toNat_neg _).symm
+
+theorem positive_negative_ne {a : Charge} {i j : Coord}
+    (hi : i ∈ positivePositions a) (hj : j ∈ negativePositions a) : i ≠ j := by
+  intro h
+  subst j
+  rw [← Multiset.count_pos, positivePositions, weightMultiset_count] at hi
+  rw [← Multiset.count_pos, negativePositions, weightMultiset_count] at hj
+  have hp := Int.pos_iff_toNat_pos.mpr hi
+  have hn := Int.pos_iff_toNat_pos.mpr hj
+  omega
+
+/-- A balanced charge of order one is one positive and one negative coordinate. -/
+theorem order_one_decomposition {a : Charge} (ha : Balanced a) (ho : order a = 1) :
+    ∃ i j, i ≠ j ∧ a = difference i j := by
+  obtain ⟨i, hi⟩ := Multiset.card_eq_one.mp ((positivePositions_card a).trans ho)
+  obtain ⟨j, hj⟩ := Multiset.card_eq_one.mp ((negativePositions_card ha).trans ho)
+  refine ⟨i, j, positive_negative_ne (a := a) (by simp [hi]) (by simp [hj]), ?_⟩
+  funext k
+  rw [charge_eq_counts a k, hi, hj]
+  simp [difference, Pi.single_apply, Multiset.count_singleton, eq_comm]
+
+/-- An order-two charge has two positive and two negative positions, allowing
+repetitions on either side but no cancellation between the sides. -/
+theorem order_two_decomposition {a : Charge} (ha : Balanced a) (ho : order a = 2) :
+    ∃ i l j k, i ≠ j ∧ i ≠ k ∧ l ≠ j ∧ l ≠ k ∧
+      a = difference i j + difference l k := by
+  obtain ⟨i, l, hi⟩ := Multiset.card_eq_two.mp ((positivePositions_card a).trans ho)
+  obtain ⟨j, k, hj⟩ := Multiset.card_eq_two.mp ((negativePositions_card ha).trans ho)
+  have hip : i ∈ positivePositions a := by simp [hi]
+  have hlp : l ∈ positivePositions a := by simp [hi]
+  have hjn : j ∈ negativePositions a := by simp [hj]
+  have hkn : k ∈ negativePositions a := by simp [hj]
+  refine ⟨i, l, j, k, positive_negative_ne hip hjn, positive_negative_ne hip hkn,
+    positive_negative_ne hlp hjn, positive_negative_ne hlp hkn, ?_⟩
+  funext t
+  rw [charge_eq_counts a t, hi, hj]
+  simp only [Multiset.insert_eq_cons, Multiset.count_cons, Multiset.count_singleton,
+    Nat.cast_add, Nat.cast_ite, Nat.cast_one, Nat.cast_zero, Pi.add_apply,
+    difference, Pi.sub_apply, Pi.single_apply]
+  split_ifs <;> omega
+
+theorem g_order_one {H : CMatrix} (hH : IsHadamard H) {a : Charge}
+    (ha : Balanced a) (ho : order a = 1) : g H a = 0 := by
+  obtain ⟨i, j, hij, rfl⟩ := order_one_decomposition ha ho
+  simp [g_difference hH, hij]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Matrix_OffDiagonal
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem offDiagSum_add_diag {V : Type*} [AddCommMonoid V] (f : Coord → Coord → V) :
+    offDiagSum f + (∑ i, f i i) = ∑ i, ∑ j, f i j := by
+  rw [offDiagSum, ← Finset.sum_add_distrib]
+  apply Finset.sum_congr rfl
+  intro i _
+  exact Finset.sum_erase_add _ _ (Finset.mem_univ i)
+
+theorem offDiagSum_sum {V ι : Type*} [AddCommMonoid V] [Fintype ι]
+    (f : Coord → Coord → ι → V) :
+    offDiagSum (fun i j => ∑ k, f i j k) =
+      ∑ k, offDiagSum (fun i j => f i j k) := by
+  unfold offDiagSum
+  calc
+    _ = ∑ i, ∑ k, ∑ j ∈ Finset.univ.erase i, f i j k := by
+      apply Finset.sum_congr rfl
+      intro i _
+      rw [Finset.sum_comm]
+    _ = _ := Finset.sum_comm
+
+theorem offDiagSum_mul (c : ℂ) (f : Coord → Coord → ℂ) :
+    offDiagSum (fun i j => c * f i j) = c * offDiagSum f := by
+  simp only [offDiagSum, Finset.mul_sum]
+
+theorem sum_mul_conj (z : Coord → ℂ) :
+    (∑ i, ∑ j, z i * conj (z j)) = (Complex.normSq (∑ i, z i) : ℂ) := by
+  rw [← Complex.mul_conj, map_sum]
+  simp only [Finset.sum_mul, Finset.mul_sum]
+  exact Finset.sum_comm
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Moments_DifferentMatrices
+attribute [-simp] _root_.OAI.MUB6.TaoArithmetic.decode_encode _root_.OAI.MUB6.embedCharge_apply _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero _root_.OAI.MUB6.rowFourier_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem difference_reverse (i j : Coord) : difference j i = -difference i j := by
+  simp [difference, neg_sub]
+
+theorem cross_character_gram (x y : Coord → ℂ)
+    (hx : ∀ i, Complex.normSq (x i) = 1) (hy : ∀ i, Complex.normSq (y i) = 1) :
+    (∑ i, ∑ j, character x (difference i j) * character y (-difference i j)) =
+      (Complex.normSq (∑ i, x i * conj (y i)) : ℂ) := by
+  rw [← sum_mul_conj]
+  apply Finset.sum_congr rfl
+  intro i _
+  apply Finset.sum_congr rfl
+  intro j _
+  rw [character_neg y hy, character_difference x hx, character_difference y hy]
+  simp only [map_mul, starRingEnd_apply, star_star]
+  ring
+
+theorem cross_character_offdiag (x y : Coord → ℂ)
+    (hx : ∀ i, Complex.normSq (x i) = 1) (hy : ∀ i, Complex.normSq (y i) = 1)
+    (hc : Complex.normSq (∑ i, x i * conj (y i)) = 6) :
+    offDiagSum (fun i j => character x (difference i j) * character y (-difference i j)) = 0 := by
+  have h := offDiagSum_add_diag
+    (fun i j => character x (difference i j) * character y (-difference i j))
+  rw [cross_character_gram x y hx hy, hc] at h
+  have hd : (∑ i, character x (difference i i) * character y (-difference i i)) = (6 : ℂ) := by
+    simp [difference]
+  rw [hd] at h
+  exact add_right_cancel (show _ + (6 : ℂ) = 0 + 6 by simpa using h)
+
+theorem weighted_cross_character (x y : Coord → ℂ)
+    (hx : ∀ i, Complex.normSq (x i) = 1) (hy : ∀ i, Complex.normSq (y i) = 1)
+    (hc : Complex.normSq (∑ i, x i * conj (y i)) = 6) (a b : Charge) :
+    offDiagSum (fun i j =>
+      character x (a + difference i j) * character y (b + difference j i)) = 0 := by
+  have he (i j : Coord) :
+      character x (a + difference i j) * character y (b + difference j i) =
+        (character x a * character y b) *
+          (character x (difference i j) * character y (-difference i j)) := by
+    rw [character_add x (fun i => unit_ne_zero (hx i)),
+      character_add y (fun i => unit_ne_zero (hy i)), difference_reverse j i]
+    ring_nf
+  simp_rw [he]
+  rw [offDiagSum_mul, cross_character_offdiag x y hx hy hc, mul_zero]
+
+theorem g_product_expand (H K : CMatrix) (a b : Charge) :
+    g H a * g K b = (6 : ℂ)⁻¹ * (6 : ℂ)⁻¹ *
+      ∑ k, ∑ l, character (fun i => H i k) a * character (fun i => K i l) b := by
+  unfold g
+  calc
+    _ = (6 : ℂ)⁻¹ * (6 : ℂ)⁻¹ *
+      ((∑ k, character (fun i => H i k) a) * ∑ l, character (fun i => K i l) b) := by ring
+    _ = _ := by
+      simp only [Finset.sum_mul, Finset.mul_sum]
+      exact Finset.sum_comm
+
+/-- The different-matrix Fourier identity from unbiasedness of every pair of
+columns. The off-diagonal indexing lists each difference `e_i-e_j` once. -/
+theorem different_matrices_identity {H K : CMatrix} (hH : IsHadamard H) (hK : IsHadamard K)
+    (hc : ∀ k l, Complex.normSq (∑ i, H i k * conj (K i l)) = 6) (a b : Charge) :
+    offDiagSum (fun i j => g H (a + difference i j) * g K (b + difference j i)) = 0 := by
+  simp_rw [g_product_expand]
+  rw [offDiagSum_mul, offDiagSum_sum]
+  simp_rw [offDiagSum_sum]
+  have hz : (∑ k, ∑ l, offDiagSum (fun i j =>
+      character (fun r => H r k) (a + difference i j) *
+        character (fun r => K r l) (b + difference j i))) = 0 := by
+    apply Finset.sum_eq_zero
+    intro k _
+    apply Finset.sum_eq_zero
+    intro l _
+    exact weighted_cross_character _ _ (fun i => hH.1 i k) (fun i => hK.1 i l) (hc k l) a b
+  rw [hz, mul_zero]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Bases_CompleteFamily
+attribute [-simp] _root_.OAI.MUB6.TaoArithmetic.decode_encode _root_.OAI.MUB6.embedCharge_apply _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero _root_.OAI.MUB6.rowFourier_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem relativeMatrix_isHadamard (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (r : Fin 7) (s : Coord) : IsHadamard (relativeMatrix B r s) :=
+  transition_isHadamard B hB r (r.succAbove s) (r.ne_succAbove s)
+
+theorem relativeMatrix_cross (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (r : Fin 7) (s t : Coord) (hst : s ≠ t) (k l : Coord) :
+    Complex.normSq (∑ i, relativeMatrix B r s i k * conj (relativeMatrix B r t i l)) = 6 := by
+  have ht : r.succAbove t ≠ r.succAbove s := by
+    intro h
+    exact hst (Fin.succAbove_right_injective h.symm)
+  simpa only [relativeMatrix, mul_comm] using
+    transition_cross_normSq B hB (B r) (r.succAbove t) (r.succAbove s) ht l k
+
+theorem relativeMatrix_order_two_expansion (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (r : Fin 7) (s i j k l : Coord) :
+    g (relativeMatrix B r s) (difference i j + difference l k) =
+      6 * ∑ a, fourthProduct (B r) (B (r.succAbove s)) i j k l a := by
+  have hH := relativeMatrix_isHadamard B hB r s
+  have ht (a : Coord) :
+      (relativeMatrix B r s i a * conj (relativeMatrix B r s j a)) *
+        (relativeMatrix B r s l a * conj (relativeMatrix B r s k a)) =
+      36 * fourthProduct (B r) (B (r.succAbove s)) i j k l a := by
+    simp only [relativeMatrix, transition, map_mul, Complex.conj_ofReal,
+      fourthProduct, Complex.star_def]
+    calc
+      _ = ((Real.sqrt 6 : ℂ) ^ 2) ^ 2 *
+          (inner ℂ (B r i) (B (r.succAbove s) a) *
+            conj (inner ℂ (B r j) (B (r.succAbove s) a)) *
+            conj (inner ℂ (B r k) (B (r.succAbove s) a)) *
+            inner ℂ (B r l) (B (r.succAbove s) a)) := by ring
+      _ = _ := by rw [sqrt_six_square]; ring
+  simp only [g, character_add _ (fun i => unit_ne_zero (hH.1 i _)),
+    character_difference _ (fun i => hH.1 i _)]
+  simp_rw [ht]
+  rw [← Finset.mul_sum]
+  ring
+
+theorem fourthProduct_self_zero (b : Basis) (i j k l : Coord) (hij : i ≠ j) :
+    ∑ a, fourthProduct b b i j k l a = 0 := by
+  apply Finset.sum_eq_zero
+  intro a _
+  have hz : inner ℂ (b i) (b a) * star (inner ℂ (b j) (b a)) = 0 := by
+    rw [b.inner_eq_ite, b.inner_eq_ite]
+    split_ifs <;> simp_all
+  simp only [fourthProduct, hz, zero_mul]
+
+/-- The order-two Fourier sum identity of a complete mutually unbiased family. -/
+theorem complete_family_order_two (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (r : Fin 7) {a : Charge} (ha : Balanced a) (ho : order a = 2) :
+    ∑ s, g (relativeMatrix B r s) a = 0 := by
+  obtain ⟨i, l, j, k, hij, hik, _, _, rfl⟩ := order_two_decomposition ha ho
+  have h := Weiner.complete_basis_fourth_moment_relative B hB (B r) i j k l
+  change (∑ s, ∑ t, fourthProduct (B r) (B s) i j k l t) = _ at h
+  rw [ite_eq_right (by simp [hik]), ite_eq_right (by simp [hij]), add_zero,
+    Fin.sum_univ_succAbove _ r, fourthProduct_self_zero _ _ _ _ _ hij, zero_add] at h
+  simp_rw [relativeMatrix_order_two_expansion B hB]
+  rw [← Finset.mul_sum, h, mul_zero]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Matrix_Equivalence
+attribute [-simp] _root_.OAI.MUB6.embedCharge_apply _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero _root_.OAI.MUB6.offDiagSum_zero _root_.OAI.MUB6.rowFourier_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem IsHadamard.permutations {H : CMatrix} (hH : IsHadamard H)
+    (r c : Equiv.Perm Coord) : IsHadamard (fun i j => H (r i) (c j)) := by
+  refine ⟨fun i j => hH.1 _ _, ?_⟩
+  ext i j
+  change (∑ k, conj (H (r k) (c i)) * H (r k) (c j)) =
+    (6 : ℂ) * (if i = j then 1 else 0)
+  rw [Equiv.sum_comp r (fun k => conj (H k (c i)) * H k (c j)), hH.column_orthogonal]
+  simp only [Equiv.apply_eq_iff_eq]
+  split_ifs <;> norm_num
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Moments_Averages
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+namespace MUB6
+
+theorem average_equiv {ι κ : Type*} [Fintype ι] [Fintype κ]
+    (e : ι ≃ κ) (f : κ → ℝ) : average (f ∘ e) = average f := by
+  simp only [average, Fintype.card_congr e, Function.comp_apply, e.sum_comp]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Moments_AverageAlgebra
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+
+namespace MUB6
+
+variable {ι κ : Type*} [Fintype ι] [Fintype κ]
+
+theorem average_congr {f g : ι → ℝ} (h : ∀ i, f i = g i) :
+    average f = average g := by
+  congr 1
+  exact funext h
+
+theorem average_add (f g : ι → ℝ) :
+    average (fun i => f i + g i) = average f + average g := by
+  simp [average, Finset.sum_add_distrib, mul_add]
+
+theorem average_mul (c : ℝ) (f : ι → ℝ) :
+    average (fun i => c * f i) = c * average f := by
+  simp only [average, ← Finset.mul_sum]
+  ring
+
+theorem average_sum (f : ι → κ → ℝ) :
+    average (fun i => ∑ k, f i k) = ∑ k, average (fun i => f i k) := by
+  simp only [average, ← Finset.mul_sum]
+  rw [Finset.sum_comm]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Moments_Sampling
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Finite sampling identities. The splitting theorem below is the counting
+step behind contraction of an order-one row; it is independent of the values
+of the matrix entries and uses no certificate data. -/
+
+open scoped BigOperators
+noncomputable section
+attribute [local instance] Classical.propDecidable
+
+namespace MUB6.Sampling
+
+variable {A B V : Type*} [Fintype A] [Fintype B] [AddCommMonoid V]
+
+theorem sum_split_embedding (e : A ↪ B) (f : B → V) :
+    (∑ b, f b) = (∑ a, f (e a)) + ∑ b : {b // b ∉ Set.range e}, f b := by
+  classical
+  let E : A ⊕ {b // b ∉ Set.range e} ≃ B :=
+    (e.toEquivRange.sumCongr (Equiv.refl _)).trans (Equiv.sumCompl (· ∈ Set.range e))
+  have h := E.sum_comp f
+  simpa [E, Fintype.sum_sum_type, Equiv.trans_apply, Equiv.sumCongr_apply] using h.symm
+
+theorem sum_injective_extension {p : ℕ} (f : (Fin p ↪ B) → B → V) :
+    (∑ e : Fin (p + 1) ↪ B, f (dropFirst e) (e 0)) =
+      ∑ e : Fin p ↪ B, ∑ b : {b // b ∉ Set.range e}, f e b := by
+  classical
+  have h := (Equiv.embeddingFinSucc p B).sum_comp
+    (fun x : Σ e : Fin p ↪ B, {b // b ∉ Set.range e} => f x.1 x.2)
+  simpa [dropFirst, Fintype.sum_sigma] using h
+
+theorem sum_samples_split {p : ℕ} (f : (Fin p ↪ B) → B → V) :
+    (∑ e : Fin p ↪ B, ∑ b, f e b) =
+      (∑ e : Fin p ↪ B, ∑ j, f e (e j)) +
+      ∑ e : Fin (p + 1) ↪ B, f (dropFirst e) (e 0) := by
+  classical
+  calc
+    _ = ∑ e : Fin p ↪ B,
+        ((∑ j, f e (e j)) + ∑ b : {b // b ∉ Set.range e}, f e b) := by
+      apply Finset.sum_congr rfl
+      intro e _
+      exact sum_split_embedding e (f e)
+    _ = _ := by rw [Finset.sum_add_distrib, sum_injective_extension]
+
+theorem sum_contraction {p : ℕ} (f : (Fin p ↪ B) → B → V)
+    (h : ∀ e, ∑ b, f e b = 0) :
+    (∑ j : Fin p, ∑ e : Fin p ↪ B, f e (e j)) +
+      (∑ e : Fin (p + 1) ↪ B, f (dropFirst e) (e 0)) = 0 := by
+  classical
+  rw [Finset.sum_comm]
+  rw [← sum_samples_split]
+  simp [h]
+
+end MUB6.Sampling
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Moments_SamplingAverage
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+attribute [local instance] Classical.propDecidable
+
+namespace MUB6.Sampling
+
+theorem unused_card {p n : ℕ} (e : Fin p ↪ Fin n)
+    [Fintype {i // i ∉ Set.range e}] :
+    Fintype.card {i // i ∉ Set.range e} = n - p := by
+  rw [Fintype.card_subtype_compl]
+  have hr : Fintype.card {i // i ∈ Set.range e} = p := by
+    rw [Fintype.card_range, Fintype.card_fin]
+  rw [hr, Fintype.card_fin]
+
+theorem embedding_succ_card (p n : ℕ) :
+    Fintype.card (Fin (p + 1) ↪ Fin n) =
+      Fintype.card (Fin p ↪ Fin n) * (n - p) := by
+  rw [Fintype.card_congr (Equiv.embeddingFinSucc p (Fin n)), Fintype.card_sigma]
+  simp only [unused_card, Finset.sum_const, Finset.card_univ, nsmul_eq_mul, Nat.cast_id]
+
+theorem sum_dropFirst {p n : ℕ} (f : (Fin p ↪ Fin n) → ℝ) :
+    (∑ e : Fin (p + 1) ↪ Fin n, f (dropFirst e)) =
+      (n - p : ℕ) * ∑ e, f e := by
+  have hs := sum_injective_extension (fun e (_ : Fin n) => f e)
+  rw [hs]
+  simp only [Finset.sum_const, Finset.card_univ, nsmul_eq_mul]
+  rw [Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro e _
+  rw [Fintype.card_subtype_compl, Fintype.card_range, Fintype.card_fin, Fintype.card_fin]
+
+/-- Deleting a coordinate of a uniform injection leaves a uniform injection. -/
+theorem average_dropFirst {p n : ℕ} (hp : p < n) (f : (Fin p ↪ Fin n) → ℝ) :
+    average (fun e : Fin (p + 1) ↪ Fin n => f (dropFirst e)) = average f := by
+  have hd : ((n - p : ℕ) : ℝ) ≠ 0 := by exact_mod_cast Nat.ne_of_gt (Nat.sub_pos_of_lt hp)
+  unfold average
+  rw [embedding_succ_card, Nat.cast_mul, sum_dropFirst, mul_inv_rev]
+  calc
+    _ = (((n - p : ℕ) : ℝ)⁻¹ * (n - p : ℕ)) *
+        ((Fintype.card (Fin p ↪ Fin n) : ℝ)⁻¹ * ∑ e, f e) := by ring
+    _ = _ := by rw [inv_mul_cancel₀ hd, one_mul]
+
+/-- The normalized counting identity used for an order-one contraction.
+At most n rows are sampled; the saturated boundary case is separate. -/
+theorem average_contraction {p n : ℕ} (hp : p < n)
+    (f : (Fin p ↪ Fin n) → Fin n → ℝ) (h : ∀ e, ∑ b, f e b = 0) :
+    ((n - p : ℕ) : ℝ) *
+      average (fun e : Fin (p + 1) ↪ Fin n => f (dropFirst e) (e 0)) +
+      (∑ j : Fin p, average (fun e : Fin p ↪ Fin n => f e (e j))) = 0 := by
+  have hd : ((n - p : ℕ) : ℝ) ≠ 0 := by exact_mod_cast Nat.ne_of_gt (Nat.sub_pos_of_lt hp)
+  have hc : ((n - p : ℕ) : ℝ) * (Fintype.card (Fin (p + 1) ↪ Fin n) : ℝ)⁻¹ =
+      (Fintype.card (Fin p ↪ Fin n) : ℝ)⁻¹ := by
+    rw [embedding_succ_card, Nat.cast_mul, mul_inv_rev]
+    rw [← mul_assoc, mul_inv_cancel₀ hd, one_mul]
+  have hs := sum_contraction f h
+  simp only [average]
+  rw [← mul_assoc, hc, ← Finset.mul_sum, ← mul_add]
+  rw [add_comm] at hs
+  rw [hs, mul_zero]
+
+end MUB6.Sampling
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_Moments_EmbeddedCharge
+attribute [-simp] _root_.OAI.MUB6.TaoArithmetic.decode_encode _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem embedCharge_outside {p : ℕ} (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) (i : Coord)
+    (hi : i ∉ Set.range ρ) : embedCharge ρ a i = 0 :=
+  Function.extend_apply' _ _ _ hi
+
+theorem embedCharge_sum {p : ℕ} (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) :
+    ∑ i, embedCharge ρ a i = ∑ i, a i := by
+  symm
+  exact Fintype.sum_of_injective ρ ρ.injective a (embedCharge ρ a)
+    (embedCharge_outside ρ a) (fun i => (embedCharge_apply ρ a i).symm)
+
+theorem embedCharge_order {p : ℕ} (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) :
+    order (embedCharge ρ a) = ∑ i, (a i).toNat := by
+  symm
+  apply Fintype.sum_of_injective ρ ρ.injective (fun i => (a i).toNat)
+    (fun i => (embedCharge ρ a i).toNat)
+  · intro i hi
+    rw [embedCharge_outside ρ a i hi]
+    rfl
+  · intro i
+    rw [embedCharge_apply]
+
+theorem embedCharge_neg {p : ℕ} (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) :
+    embedCharge ρ (-a) = -embedCharge ρ a := by
+  funext i
+  by_cases hi : i ∈ Set.range ρ
+  · obtain ⟨j, rfl⟩ := hi
+    simp
+  · simp [Pi.neg_apply, embedCharge_outside ρ _ i hi]
+
+theorem character_embedCharge {p : ℕ} (x : Coord → ℂ) (ρ : Fin p ↪ Coord)
+    (a : Fin p → ℤ) : character x (embedCharge ρ a) = ∏ i, x (ρ i) ^ a i := by
+  symm
+  apply Fintype.prod_of_injective ρ ρ.injective (fun i => x (ρ i) ^ a i)
+    (fun i => x i ^ embedCharge ρ a i)
+  · intro i hi
+    rw [embedCharge_outside ρ a i hi, zpow_zero]
+  · intro i
+    rw [embedCharge_apply]
+
+theorem rowFourier_eq_g {p : ℕ} (H : CMatrix) (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) :
+    rowFourier H ρ a = g H (embedCharge ρ a) := by
+  simp only [rowFourier, g, character_embedCharge]
+
+theorem rowFourier_neg {p : ℕ} {H : CMatrix} (hH : IsHadamard H)
+    (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) :
+    rowFourier H ρ (-a) = conj (rowFourier H ρ a) := by
+  rw [rowFourier_eq_g, embedCharge_neg, g_neg hH, rowFourier_eq_g]
+
+theorem rowFourier_order_one {p : ℕ} {H : CMatrix} (hH : IsHadamard H)
+    (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) (ha : ∑ i, a i = 0)
+    (ho : ∑ i, (a i).toNat = 1) : rowFourier H ρ a = 0 := by
+  rw [rowFourier_eq_g]
+  apply g_order_one hH
+  · exact (embedCharge_sum ρ a).trans ha
+  · exact (embedCharge_order ρ a).trans ho
+
+theorem complete_family_row_order_two {p : ℕ} (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (r : Fin 7) (ρ : Fin p ↪ Coord) (a : Fin p → ℤ) (ha : ∑ i, a i = 0)
+    (ho : ∑ i, (a i).toNat = 2) : ∑ s, rowFourier (relativeMatrix B r s) ρ a = 0 := by
+  simp only [rowFourier_eq_g]
+  exact complete_family_order_two B hB r ((embedCharge_sum ρ a).trans ha)
+    ((embedCharge_order ρ a).trans ho)
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedMoments_MixedMoments
+attribute [-simp] _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem mixedMoment_neg {p n l : ℕ} (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin l) :
+    mixedMoment B (-A) label = mixedMoment B A label := by
+  apply average_congr
+  intro r
+  apply average_congr
+  intro ρ
+  apply average_congr
+  intro τ
+  have h : mixedIntegrand B (-A) label r ρ τ = conj (mixedIntegrand B A label r ρ τ) := by
+    unfold mixedIntegrand
+    rw [map_prod]
+    apply Finset.prod_congr rfl
+    intro j _
+    exact rowFourier_neg (relativeMatrix_isHadamard B hB r _) ρ _
+  rw [h, Complex.conj_re]
+
+theorem mixedMoment_factor_permutation {p n l : ℕ} (B : Fin 7 → Basis)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin l) (σ : Equiv.Perm (Fin n)) :
+    mixedMoment B (fun i j => A i (σ j)) (label ∘ σ) = mixedMoment B A label := by
+  apply average_congr
+  intro r
+  apply average_congr
+  intro ρ
+  apply average_congr
+  intro τ
+  exact congrArg Complex.re (Equiv.prod_comp σ
+    (fun j => rowFourier (relativeMatrix B r (τ (label j))) ρ (fun i => A i j)))
+
+theorem rowFourier_row_permutation {p : ℕ} (H : CMatrix) (a : Fin p → ℤ)
+    (σ : Equiv.Perm (Fin p)) (ρ : Fin p ↪ Coord) :
+    rowFourier H ρ (a ∘ σ) =
+      rowFourier H (Equiv.embeddingCongr σ (Equiv.refl Coord) ρ) a := by
+  unfold rowFourier
+  congr 1
+  apply Finset.sum_congr rfl
+  intro k _
+  simpa only [Equiv.embeddingCongr_apply, Function.Embedding.congr_apply,
+    Function.comp_apply, Function.Embedding.trans_apply, Equiv.toEmbedding_apply,
+    Equiv.refl_apply, Equiv.symm_apply_apply] using
+    Equiv.prod_comp σ (fun i => H (ρ (σ.symm i)) k ^ a i)
+
+theorem mixedMoment_row_permutation {p n l : ℕ} (B : Fin 7 → Basis)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin l) (σ : Equiv.Perm (Fin p)) :
+    mixedMoment B (fun i j => A (σ i) j) label = mixedMoment B A label := by
+  apply average_congr
+  intro r
+  have h (ρ : Fin p ↪ Coord) (τ : Fin l ↪ Coord) :
+      mixedIntegrand B (fun i j => A (σ i) j) label r ρ τ =
+        mixedIntegrand B A label r (Equiv.embeddingCongr σ (Equiv.refl Coord) ρ) τ := by
+    apply Finset.prod_congr rfl
+    intro j _
+    exact rowFourier_row_permutation _ (fun i => A i j) σ ρ
+  simp_rw [h]
+  exact average_equiv (Equiv.embeddingCongr σ (Equiv.refl Coord))
+    (fun ρ : Fin p ↪ Coord => average (fun τ : Fin l ↪ Coord =>
+      (mixedIntegrand B A label r ρ τ).re))
+
+theorem mixedMoment_label_permutation {p n l : ℕ} (B : Fin 7 → Basis)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin l) (σ : Equiv.Perm (Fin l)) :
+    mixedMoment B A (σ ∘ label) = mixedMoment B A label := by
+  apply average_congr
+  intro r
+  apply average_congr
+  intro ρ
+  have h (τ : Fin l ↪ Coord) : mixedIntegrand B A (σ ∘ label) r ρ τ =
+      mixedIntegrand B A label r ρ (Equiv.embeddingCongr σ.symm (Equiv.refl Coord) τ) := by
+    rfl
+  simp_rw [h]
+  exact average_equiv (Equiv.embeddingCongr σ.symm (Equiv.refl Coord))
+    (fun τ : Fin l ↪ Coord => (mixedIntegrand B A label r ρ τ).re)
+
+theorem mixedMoment_order_one {p n l : ℕ} (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin l) (j : Fin n)
+    (ha : ∑ i, A i j = 0) (ho : ∑ i, (A i j).toNat = 1) : mixedMoment B A label = 0 := by
+  have h (r : Fin 7) (ρ : Fin p ↪ Coord) (τ : Fin l ↪ Coord) :
+      mixedIntegrand B A label r ρ τ = 0 := by
+    apply Finset.prod_eq_zero (Finset.mem_univ j)
+    exact rowFourier_order_one (relativeMatrix_isHadamard B hB r _) ρ _ ha ho
+  simp [mixedMoment, h]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedMoments_MixedReduction
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem rowFourier_zero_first {p : ℕ} (H : CMatrix) (a : Fin (p + 1) → ℤ)
+    (ha : a 0 = 0) (ρ : Fin (p + 1) ↪ Coord) :
+    rowFourier H ρ a = rowFourier H (Sampling.dropFirst ρ) (fun i => a i.succ) := by
+  simp only [rowFourier, Fin.prod_univ_succ, ha, zpow_zero, one_mul]
+  rfl
+
+theorem mixedMoment_zero_first_row {p n l : ℕ} (hp : p < 6) (B : Fin 7 → Basis)
+    (A : Matrix (Fin (p + 1)) (Fin n) ℤ) (label : Fin n → Fin l)
+    (hA : ∀ j, A 0 j = 0) :
+    mixedMoment B A label = mixedMoment B (fun i j => A i.succ j) label := by
+  apply average_congr
+  intro r
+  have h (ρ : Fin (p + 1) ↪ Coord) (τ : Fin l ↪ Coord) :
+      mixedIntegrand B A label r ρ τ =
+        mixedIntegrand B (fun i j => A i.succ j) label r (Sampling.dropFirst ρ) τ := by
+    apply Finset.prod_congr rfl
+    intro j _
+    exact rowFourier_zero_first _ (fun i => A i j) (hA j) ρ
+  simp_rw [h]
+  exact Sampling.average_dropFirst hp
+    (fun ρ : Fin p ↪ Coord => average (fun τ : Fin l ↪ Coord =>
+      (mixedIntegrand B (fun i j => A i.succ j) label r ρ τ).re))
+
+theorem mixedMoment_unused_first_label {p n l : ℕ} (hl : l < 6) (B : Fin 7 → Basis)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin l) :
+    mixedMoment B A (Fin.succ ∘ label) = mixedMoment B A label := by
+  apply average_congr
+  intro r
+  apply average_congr
+  intro ρ
+  change average (fun τ : Fin (l + 1) ↪ Coord =>
+    (mixedIntegrand B A label r ρ (Sampling.dropFirst τ)).re) = _
+  exact Sampling.average_dropFirst hl
+    (fun τ : Fin l ↪ Coord => (mixedIntegrand B A label r ρ τ).re)
+
+/-- The source singleton-label contraction, before dividing by its positive
+integer coefficient. The first factor has order two and its own label. -/
+theorem mixedMoment_singleton_first {p n l : ℕ} (hl : l < 6)
+    (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (A : Matrix (Fin p) (Fin (n + 1)) ℤ) (label : Fin n → Fin l)
+    (ha : ∑ i, A i 0 = 0) (ho : ∑ i, (A i 0).toNat = 2) :
+    ((6 - l : ℕ) : ℝ) * mixedMoment B A (Fin.cases 0 (Fin.succ ∘ label)) +
+      (∑ j : Fin l, mixedMoment B A (Fin.cases j label)) = 0 := by
+  let f (r : Fin 7) (ρ : Fin p ↪ Coord) (τ : Fin l ↪ Coord) (s : Coord) : ℝ :=
+    (rowFourier (relativeMatrix B r s) ρ (fun i => A i 0) *
+      mixedIntegrand B (fun i j => A i j.succ) label r ρ τ).re
+  have hs (r : Fin 7) (ρ : Fin p ↪ Coord) (τ : Fin l ↪ Coord) : ∑ s, f r ρ τ s = 0 := by
+    simp only [f, ← Complex.re_sum, ← Finset.sum_mul,
+      complete_family_row_order_two B hB r ρ (fun i => A i 0) ha ho, zero_mul, Complex.zero_re]
+  have hnew (r : Fin 7) (ρ : Fin p ↪ Coord) (τ : Fin (l + 1) ↪ Coord) :
+      f r ρ (Sampling.dropFirst τ) (τ 0) =
+        (mixedIntegrand B A (Fin.cases 0 (Fin.succ ∘ label)) r ρ τ).re := by
+    simp only [f, mixedIntegrand, Fin.prod_univ_succ, Fin.cases_zero, Fin.cases_succ,
+      Function.comp_apply, Sampling.dropFirst_apply]
+  have hold (r : Fin 7) (ρ : Fin p ↪ Coord) (τ : Fin l ↪ Coord) (j : Fin l) :
+      f r ρ τ (τ j) = (mixedIntegrand B A (Fin.cases j label) r ρ τ).re := by
+    simp only [f, mixedIntegrand, Fin.prod_univ_succ, Fin.cases_zero, Fin.cases_succ]
+  have hc (r : Fin 7) (ρ : Fin p ↪ Coord) :
+      ((6 - l : ℕ) : ℝ) * average (fun τ : Fin (l + 1) ↪ Coord =>
+        (mixedIntegrand B A (Fin.cases 0 (Fin.succ ∘ label)) r ρ τ).re) +
+      (∑ j : Fin l, average (fun τ : Fin l ↪ Coord =>
+        (mixedIntegrand B A (Fin.cases j label) r ρ τ).re)) = 0 := by
+    have h := Sampling.average_contraction hl (f r ρ) (hs r ρ)
+    simpa only [hnew, hold] using h
+  calc
+    _ = average (fun r : Fin 7 => average (fun ρ : Fin p ↪ Coord =>
+      ((6 - l : ℕ) : ℝ) * average (fun τ : Fin (l + 1) ↪ Coord =>
+        (mixedIntegrand B A (Fin.cases 0 (Fin.succ ∘ label)) r ρ τ).re) +
+      (∑ j : Fin l, average (fun τ : Fin l ↪ Coord =>
+        (mixedIntegrand B A (Fin.cases j label) r ρ τ).re)))) := by
+      simp only [average_add, average_mul, average_sum, mixedMoment]
+    _ = 0 := by simp only [hc, average_zero]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedMoments_MixedLabelEmbedding
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace MUB6
+
+/-- Injective renaming, including adding unused labels, preserves the moment. -/
+theorem mixedMoment_label_embedding {p n l k : ℕ} (hk : k ≤ 6) (B : Fin 7 → Basis)
+    (A : Matrix (Fin p) (Fin n) ℤ) (e : Fin l ↪ Fin k) (label : Fin n → Fin l) :
+    mixedMoment B A (e ∘ label) = mixedMoment B A label := by
+  have hcard : l ≤ k := by
+    simpa using Fintype.card_le_of_injective e e.injective
+  induction k generalizing l with
+  | zero =>
+      have hl : l = 0 := Nat.eq_zero_of_le_zero hcard
+      subst l
+      have he : e ∘ label = label := funext fun j => Fin.elim0 (label j)
+      rw [he]
+  | succ k ih =>
+      by_cases hl : l = k + 1
+      · subst l
+        let σ : Equiv.Perm (Fin (k + 1)) := Equiv.ofBijective e
+          ⟨e.injective, Finite.surjective_of_injective e.injective⟩
+        exact mixedMoment_label_permutation B A label σ
+      · have hlk : l ≤ k := by omega
+        let f : Fin l ↪ Fin k := Fin.castLEEmb hlk
+        obtain ⟨σ, hσ⟩ := Equiv.Perm.exists_extending_pair
+          (fun i => (f i).succ) e (fun _ _ h => f.injective (Fin.succ_inj.mp h)) e.injective
+        have he : e ∘ label = σ ∘ (Fin.succ ∘ (f ∘ label)) := by
+          funext j
+          exact (hσ (label j)).symm
+        rw [he, mixedMoment_label_permutation,
+          mixedMoment_unused_first_label (show k < 6 by omega)]
+        exact ih (by omega) f label hlk
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedMoments_MixedShifts
+attribute [-simp] _root_.OAI.MUB6.TaoArithmetic.decode_encode _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators ComplexConjugate
+
+namespace MUB6
+
+theorem sampledMatrix_isHadamard (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (r : Fin 7) (ρ : Coord ↪ Coord) (s : Coord) : IsHadamard (sampledMatrix B r ρ s) := by
+  let e : Equiv.Perm Coord := Equiv.ofBijective ρ
+    ⟨ρ.injective, Finite.surjective_of_injective ρ.injective⟩
+  exact (relativeMatrix_isHadamard B hB r s).permutations e (Equiv.refl Coord)
+
+theorem sampledMatrix_cross (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (r : Fin 7) (ρ : Coord ↪ Coord) (s t : Coord) (hst : s ≠ t) (k l : Coord) :
+    Complex.normSq (∑ i, sampledMatrix B r ρ s i k * conj (sampledMatrix B r ρ t i l)) = 6 := by
+  let e : Equiv.Perm Coord := Equiv.ofBijective ρ
+    ⟨ρ.injective, Finite.surjective_of_injective ρ.injective⟩
+  change Complex.normSq (∑ i, relativeMatrix B r s (e i) k * conj (relativeMatrix B r t (e i) l)) = 6
+  rw [Equiv.sum_comp e (fun i => relativeMatrix B r s i k * conj (relativeMatrix B r t i l))]
+  exact relativeMatrix_cross B hB r s t hst k l
+
+theorem mixedIntegrand_three {l : ℕ} (B : Fin 7 → Basis) (a b c : Charge)
+    (s t u : Fin l) (r : Fin 7) (ρ : Coord ↪ Coord) (τ : Fin l ↪ Coord) :
+    mixedIntegrand B (tripleCharges a b c) ![s, t, u] r ρ τ =
+      g (sampledMatrix B r ρ (τ s)) a * g (sampledMatrix B r ρ (τ t)) b *
+        g (sampledMatrix B r ρ (τ u)) c := by
+  simp [mixedIntegrand, tripleCharges, Fin.prod_univ_succ, rowFourier, g, character,
+    sampledMatrix, mul_assoc]
+
+theorem average_finset_sum {ι κ : Type*} [Fintype ι] (s : Finset κ) (f : ι → κ → ℝ) :
+    average (fun i => ∑ k ∈ s, f i k) = ∑ k ∈ s, average (fun i => f i k) := by
+  classical
+  induction s using Finset.induction_on with
+  | empty => simp
+  | @insert k s hk ih => simp only [Finset.sum_insert hk, average_add, ih]
+
+theorem average_offDiagSum {ι : Type*} [Fintype ι] (f : ι → Coord → Coord → ℝ) :
+    average (fun k => offDiagSum (f k)) = offDiagSum (fun i j => average (fun k => f k i j)) := by
+  simp only [offDiagSum, average_sum, average_finset_sum]
+
+theorem mixedMoment_different {l : ℕ} (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (a b c : Charge) (s t u : Fin l) (hst : s ≠ t) :
+    offDiagSum (fun i j =>
+      mixedMoment B (tripleCharges (a + difference i j) (b + difference j i) c) ![s, t, u]) = 0 := by
+  simp only [mixedMoment, ← average_offDiagSum]
+  have hz (r : Fin 7) (ρ : Coord ↪ Coord) (τ : Fin l ↪ Coord) :
+      offDiagSum (fun i j =>
+        (mixedIntegrand B (tripleCharges (a + difference i j) (b + difference j i) c)
+          ![s, t, u] r ρ τ).re) = 0 := by
+    simp only [mixedIntegrand_three, offDiagSum, ← Complex.re_sum, ← Finset.sum_mul]
+    change (offDiagSum (fun i j =>
+      g (sampledMatrix B r ρ (τ s)) (a + difference i j) *
+        g (sampledMatrix B r ρ (τ t)) (b + difference j i)) *
+          g (sampledMatrix B r ρ (τ u)) c).re = 0
+    rw [different_matrices_identity (sampledMatrix_isHadamard B hB r ρ _)
+      (sampledMatrix_isHadamard B hB r ρ _)
+      (sampledMatrix_cross B hB r ρ _ _ (fun h => hst (τ.injective h))) a b]
+    simp
+  simp only [hz, average_zero]
+
+end MUB6
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Rules
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-!
+# Sound rules for mixed certificate normalization
+
+Generated witnesses may only permute rows or factors, negate all charges,
+remove zero rows or factors, and injectively rename labels. The equalities
+here justify those operations for the actual finite mixed moments.
+-/
+
+noncomputable section
+open scoped BigOperators
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem permute {p n l : ℕ} (B : Fin 7 → Basis)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin l)
+    (ρ : Equiv.Perm (Fin p)) (σ : Equiv.Perm (Fin n)) :
+    mixedMoment B A label = mixedMoment B (fun i j => A (ρ i) (σ j)) (label ∘ σ) := by
+  rw [mixedMoment_factor_permutation B (fun i j => A (ρ i) j) label σ,
+    mixedMoment_row_permutation]
+
+theorem delete_zero_row {p n l : ℕ} (hp : p < 6) (B : Fin 7 → Basis)
+    (A : Matrix (Fin (p + 1)) (Fin n) ℤ) (label : Fin n → Fin l)
+    (ρ : Equiv.Perm (Fin (p + 1))) (hz : ∀ j, A (ρ 0) j = 0) :
+    mixedMoment B A label = mixedMoment B (fun i j => A (ρ i.succ) j) label := by
+  rw [← mixedMoment_row_permutation B A label ρ]
+  exact mixedMoment_zero_first_row hp B _ label hz
+
+theorem rename_labels {p n l k : ℕ} (hk : k ≤ 6) (B : Fin 7 → Basis)
+    (A : Matrix (Fin p) (Fin n) ℤ) (label : Fin n → Fin k)
+    (small : Fin n → Fin l) (e : Fin l ↪ Fin k) (h : label = e ∘ small) :
+    mixedMoment B A label = mixedMoment B A small := by
+  rw [h]
+  exact mixedMoment_label_embedding hk B A e small
+
+theorem singleton_first {p n l : ℕ} (hl : l < 6)
+    (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (A : Matrix (Fin p) (Fin (n + 1)) ℤ) (label : Fin n → Fin l)
+    (ha : ∑ i, A i 0 = 0) (ho : ∑ i, (A i 0).toNat = 2) :
+    mixedMoment B A (Fin.cases 0 (Fin.succ ∘ label)) =
+      - (((6 - l : ℕ) : ℝ)⁻¹) * ∑ j : Fin l, mixedMoment B A (Fin.cases j label) := by
+  have h := mixedMoment_singleton_first hl B hB A label ha ho
+  have hd : ((6 - l : ℕ) : ℝ) ≠ 0 := by
+    exact_mod_cast Nat.ne_of_gt (Nat.sub_pos_of_lt hl)
+  apply (eq_neg_iff_add_eq_zero).2 at h
+  have heq := congrArg (fun x : ℝ => ((6 - l : ℕ) : ℝ)⁻¹ * x) h
+  simpa only [← mul_assoc, inv_mul_cancel₀ hd, one_mul, mul_neg, neg_mul] using heq
+
+end MUB6.Certificate.MixedSemantics
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical11
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical1443 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw1443 raw1443Labels = mixedMoment B node4619 node4619Labels := by
+  calc
+    mixedMoment B raw1443 raw1443Labels = mixedMoment B raw1443step0 raw1443step0Labels := by
+      have ha : raw1443step0 = (fun i j => raw1443 (permutation8 i) (permutation4 j)) := by apply Matrix.ext; unfold raw1443step0 raw1443; decide +kernel
+      have hl : raw1443step0Labels = raw1443Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw1443 raw1443Labels permutation8 permutation4
+    mixedMoment B raw1443step0 raw1443step0Labels = mixedMoment B raw1443step1 raw1443step1Labels := by
+      have ha : raw1443step1 = raw1443step0 := by apply Matrix.ext; unfold raw1443step1 raw1443step0; decide +kernel
+      have hl : raw1443step0Labels = labelEmbedding7 ∘ raw1443step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw1443step0 raw1443step0Labels raw1443step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node4619 node4619Labels := by rfl
+
+theorem canonical1444 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw1444 raw1444Labels = mixedMoment B node1294 node1294Labels := by
+  calc
+    mixedMoment B raw1444 raw1444Labels = mixedMoment B raw1444step0 raw1444step0Labels := by
+      have ha : raw1444step0 = (fun i j => raw1444 (permutation8 i) (permutation4 j)) := by apply Matrix.ext; unfold raw1444step0 raw1444; decide +kernel
+      have hl : raw1444step0Labels = raw1444Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw1444 raw1444Labels permutation8 permutation4
+    _ = mixedMoment B node1294 node1294Labels := by rfl
+
+theorem canonical1445 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw1445 raw1445Labels = mixedMoment B node3305 node3305Labels := by
+  calc
+    mixedMoment B raw1445 raw1445Labels = mixedMoment B raw1445step0 raw1445step0Labels := by
+      have ha : raw1445step0 = (fun i j => raw1445 (permutation8 i) (permutation6 j)) := by apply Matrix.ext; unfold raw1445step0 raw1445; decide +kernel
+      have hl : raw1445step0Labels = raw1445Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw1445 raw1445Labels permutation8 permutation6
+    mixedMoment B raw1445step0 raw1445step0Labels = mixedMoment B raw1445step1 raw1445step1Labels := by
+      have ha : raw1445step1 = -raw1445step0 := by apply Matrix.ext; change ∀ i j, raw1445step1 i j = -(raw1445step0 i j); unfold raw1445step1 raw1445step0; decide +kernel
+      have hl : raw1445step1Labels = raw1445step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw1445step1 raw1445step1Labels = mixedMoment B raw1445step2 raw1445step2Labels := by
+      have ha : raw1445step2 = raw1445step1 := by apply Matrix.ext; unfold raw1445step2 raw1445step1; decide +kernel
+      have hl : raw1445step1Labels = labelEmbedding1 ∘ raw1445step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw1445step1 raw1445step1Labels raw1445step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3305 node3305Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical16
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical2097 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2097 raw2097Labels = mixedMoment B node5075 node5075Labels := by
+  calc
+    mixedMoment B raw2097 raw2097Labels = mixedMoment B raw2097step0 raw2097step0Labels := by
+      have ha : raw2097step0 = (fun i j => raw2097 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2097step0 raw2097; decide +kernel
+      have hl : raw2097step0Labels = raw2097Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2097 raw2097Labels permutation32 permutation4
+    mixedMoment B raw2097step0 raw2097step0Labels = mixedMoment B raw2097step1 raw2097step1Labels := by
+      have ha : raw2097step1 = raw2097step0 := by apply Matrix.ext; unfold raw2097step1 raw2097step0; decide +kernel
+      have hl : raw2097step0Labels = labelEmbedding7 ∘ raw2097step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2097step0 raw2097step0Labels raw2097step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5075 node5075Labels := by rfl
+
+theorem canonical2098 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2098 raw2098Labels = mixedMoment B node2482 node2482Labels := by
+  calc
+    mixedMoment B raw2098 raw2098Labels = mixedMoment B raw2098step0 raw2098step0Labels := by
+      have ha : raw2098step0 = (fun i j => raw2098 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2098step0 raw2098; decide +kernel
+      have hl : raw2098step0Labels = raw2098Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2098 raw2098Labels permutation32 permutation4
+    _ = mixedMoment B node2482 node2482Labels := by rfl
+
+theorem canonical2099 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2099 raw2099Labels = mixedMoment B node3468 node3468Labels := by
+  calc
+    mixedMoment B raw2099 raw2099Labels = mixedMoment B raw2099step0 raw2099step0Labels := by
+      have ha : raw2099step0 = (fun i j => raw2099 (permutation34 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2099step0 raw2099; decide +kernel
+      have hl : raw2099step0Labels = raw2099Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2099 raw2099Labels permutation34 permutation6
+    mixedMoment B raw2099step0 raw2099step0Labels = mixedMoment B raw2099step1 raw2099step1Labels := by
+      have ha : raw2099step1 = -raw2099step0 := by apply Matrix.ext; change ∀ i j, raw2099step1 i j = -(raw2099step0 i j); unfold raw2099step1 raw2099step0; decide +kernel
+      have hl : raw2099step1Labels = raw2099step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2099step1 raw2099step1Labels = mixedMoment B raw2099step2 raw2099step2Labels := by
+      have ha : raw2099step2 = raw2099step1 := by apply Matrix.ext; unfold raw2099step2 raw2099step1; decide +kernel
+      have hl : raw2099step1Labels = labelEmbedding1 ∘ raw2099step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2099step1 raw2099step1Labels raw2099step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3468 node3468Labels := by rfl
+
+theorem canonical2163 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2163 raw2163Labels = mixedMoment B node5134 node5134Labels := by
+  calc
+    mixedMoment B raw2163 raw2163Labels = mixedMoment B raw2163step0 raw2163step0Labels := by
+      have ha : raw2163step0 = (fun i j => raw2163 (permutation152 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2163step0 raw2163; decide +kernel
+      have hl : raw2163step0Labels = raw2163Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2163 raw2163Labels permutation152 permutation4
+    mixedMoment B raw2163step0 raw2163step0Labels = mixedMoment B raw2163step1 raw2163step1Labels := by
+      have ha : raw2163step1 = raw2163step0 := by apply Matrix.ext; unfold raw2163step1 raw2163step0; decide +kernel
+      have hl : raw2163step0Labels = labelEmbedding7 ∘ raw2163step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2163step0 raw2163step0Labels raw2163step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5134 node5134Labels := by rfl
+
+theorem canonical2164 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2164 raw2164Labels = mixedMoment B node2553 node2553Labels := by
+  calc
+    mixedMoment B raw2164 raw2164Labels = mixedMoment B raw2164step0 raw2164step0Labels := by
+      have ha : raw2164step0 = (fun i j => raw2164 (permutation152 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2164step0 raw2164; decide +kernel
+      have hl : raw2164step0Labels = raw2164Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2164 raw2164Labels permutation152 permutation4
+    _ = mixedMoment B node2553 node2553Labels := by rfl
+
+theorem canonical2165 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2165 raw2165Labels = mixedMoment B node3514 node3514Labels := by
+  calc
+    mixedMoment B raw2165 raw2165Labels = mixedMoment B raw2165step0 raw2165step0Labels := by
+      have ha : raw2165step0 = (fun i j => raw2165 (permutation176 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2165step0 raw2165; decide +kernel
+      have hl : raw2165step0Labels = raw2165Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2165 raw2165Labels permutation176 permutation6
+    mixedMoment B raw2165step0 raw2165step0Labels = mixedMoment B raw2165step1 raw2165step1Labels := by
+      have ha : raw2165step1 = -raw2165step0 := by apply Matrix.ext; change ∀ i j, raw2165step1 i j = -(raw2165step0 i j); unfold raw2165step1 raw2165step0; decide +kernel
+      have hl : raw2165step1Labels = raw2165step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2165step1 raw2165step1Labels = mixedMoment B raw2165step2 raw2165step2Labels := by
+      have ha : raw2165step2 = raw2165step1 := by apply Matrix.ext; unfold raw2165step2 raw2165step1; decide +kernel
+      have hl : raw2165step1Labels = labelEmbedding1 ∘ raw2165step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2165step1 raw2165step1Labels raw2165step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3514 node3514Labels := by rfl
+
+theorem canonical2169 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2169 raw2169Labels = mixedMoment B node5141 node5141Labels := by
+  calc
+    mixedMoment B raw2169 raw2169Labels = mixedMoment B raw2169step0 raw2169step0Labels := by
+      have ha : raw2169step0 = (fun i j => raw2169 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2169step0 raw2169; decide +kernel
+      have hl : raw2169step0Labels = raw2169Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2169 raw2169Labels permutation32 permutation4
+    mixedMoment B raw2169step0 raw2169step0Labels = mixedMoment B raw2169step1 raw2169step1Labels := by
+      have ha : raw2169step1 = raw2169step0 := by apply Matrix.ext; unfold raw2169step1 raw2169step0; decide +kernel
+      have hl : raw2169step0Labels = labelEmbedding7 ∘ raw2169step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2169step0 raw2169step0Labels raw2169step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5141 node5141Labels := by rfl
+
+theorem canonical2170 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2170 raw2170Labels = mixedMoment B node2561 node2561Labels := by
+  calc
+    mixedMoment B raw2170 raw2170Labels = mixedMoment B raw2170step0 raw2170step0Labels := by
+      have ha : raw2170step0 = (fun i j => raw2170 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2170step0 raw2170; decide +kernel
+      have hl : raw2170step0Labels = raw2170Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2170 raw2170Labels permutation32 permutation4
+    _ = mixedMoment B node2561 node2561Labels := by rfl
+
+theorem canonical2171 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2171 raw2171Labels = mixedMoment B node3522 node3522Labels := by
+  calc
+    mixedMoment B raw2171 raw2171Labels = mixedMoment B raw2171step0 raw2171step0Labels := by
+      have ha : raw2171step0 = (fun i j => raw2171 (permutation38 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2171step0 raw2171; decide +kernel
+      have hl : raw2171step0Labels = raw2171Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2171 raw2171Labels permutation38 permutation6
+    mixedMoment B raw2171step0 raw2171step0Labels = mixedMoment B raw2171step1 raw2171step1Labels := by
+      have ha : raw2171step1 = -raw2171step0 := by apply Matrix.ext; change ∀ i j, raw2171step1 i j = -(raw2171step0 i j); unfold raw2171step1 raw2171step0; decide +kernel
+      have hl : raw2171step1Labels = raw2171step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2171step1 raw2171step1Labels = mixedMoment B raw2171step2 raw2171step2Labels := by
+      have ha : raw2171step2 = raw2171step1 := by apply Matrix.ext; unfold raw2171step2 raw2171step1; decide +kernel
+      have hl : raw2171step1Labels = labelEmbedding1 ∘ raw2171step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2171step1 raw2171step1Labels raw2171step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3522 node3522Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical17
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical2190 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2190 raw2190Labels = mixedMoment B node5163 node5163Labels := by
+  calc
+    mixedMoment B raw2190 raw2190Labels = mixedMoment B raw2190step0 raw2190step0Labels := by
+      have ha : raw2190step0 = (fun i j => raw2190 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2190step0 raw2190; decide +kernel
+      have hl : raw2190step0Labels = raw2190Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2190 raw2190Labels permutation32 permutation4
+    mixedMoment B raw2190step0 raw2190step0Labels = mixedMoment B raw2190step1 raw2190step1Labels := by
+      have ha : raw2190step1 = raw2190step0 := by apply Matrix.ext; unfold raw2190step1 raw2190step0; decide +kernel
+      have hl : raw2190step0Labels = labelEmbedding7 ∘ raw2190step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2190step0 raw2190step0Labels raw2190step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5163 node5163Labels := by rfl
+
+theorem canonical2191 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2191 raw2191Labels = mixedMoment B node2590 node2590Labels := by
+  calc
+    mixedMoment B raw2191 raw2191Labels = mixedMoment B raw2191step0 raw2191step0Labels := by
+      have ha : raw2191step0 = (fun i j => raw2191 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2191step0 raw2191; decide +kernel
+      have hl : raw2191step0Labels = raw2191Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2191 raw2191Labels permutation32 permutation4
+    _ = mixedMoment B node2590 node2590Labels := by rfl
+
+theorem canonical2192 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2192 raw2192Labels = mixedMoment B node3564 node3564Labels := by
+  calc
+    mixedMoment B raw2192 raw2192Labels = mixedMoment B raw2192step0 raw2192step0Labels := by
+      have ha : raw2192step0 = (fun i j => raw2192 (permutation38 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2192step0 raw2192; decide +kernel
+      have hl : raw2192step0Labels = raw2192Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2192 raw2192Labels permutation38 permutation6
+    mixedMoment B raw2192step0 raw2192step0Labels = mixedMoment B raw2192step1 raw2192step1Labels := by
+      have ha : raw2192step1 = -raw2192step0 := by apply Matrix.ext; change ∀ i j, raw2192step1 i j = -(raw2192step0 i j); unfold raw2192step1 raw2192step0; decide +kernel
+      have hl : raw2192step1Labels = raw2192step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2192step1 raw2192step1Labels = mixedMoment B raw2192step2 raw2192step2Labels := by
+      have ha : raw2192step2 = raw2192step1 := by apply Matrix.ext; unfold raw2192step2 raw2192step1; decide +kernel
+      have hl : raw2192step1Labels = labelEmbedding1 ∘ raw2192step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2192step1 raw2192step1Labels raw2192step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3564 node3564Labels := by rfl
+
+theorem canonical2295 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2295 raw2295Labels = mixedMoment B node5291 node5291Labels := by
+  calc
+    mixedMoment B raw2295 raw2295Labels = mixedMoment B raw2295step0 raw2295step0Labels := by
+      have ha : raw2295step0 = (fun i j => raw2295 (permutation8 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2295step0 raw2295; decide +kernel
+      have hl : raw2295step0Labels = raw2295Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2295 raw2295Labels permutation8 permutation4
+    mixedMoment B raw2295step0 raw2295step0Labels = mixedMoment B raw2295step1 raw2295step1Labels := by
+      have ha : raw2295step1 = raw2295step0 := by apply Matrix.ext; unfold raw2295step1 raw2295step0; decide +kernel
+      have hl : raw2295step0Labels = labelEmbedding7 ∘ raw2295step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2295step0 raw2295step0Labels raw2295step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5291 node5291Labels := by rfl
+
+theorem canonical2296 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2296 raw2296Labels = mixedMoment B node2765 node2765Labels := by
+  calc
+    mixedMoment B raw2296 raw2296Labels = mixedMoment B raw2296step0 raw2296step0Labels := by
+      have ha : raw2296step0 = (fun i j => raw2296 (permutation8 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2296step0 raw2296; decide +kernel
+      have hl : raw2296step0Labels = raw2296Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2296 raw2296Labels permutation8 permutation4
+    _ = mixedMoment B node2765 node2765Labels := by rfl
+
+theorem canonical2297 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2297 raw2297Labels = mixedMoment B node3582 node3582Labels := by
+  calc
+    mixedMoment B raw2297 raw2297Labels = mixedMoment B raw2297step0 raw2297step0Labels := by
+      have ha : raw2297step0 = (fun i j => raw2297 (permutation10 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2297step0 raw2297; decide +kernel
+      have hl : raw2297step0Labels = raw2297Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2297 raw2297Labels permutation10 permutation6
+    mixedMoment B raw2297step0 raw2297step0Labels = mixedMoment B raw2297step1 raw2297step1Labels := by
+      have ha : raw2297step1 = -raw2297step0 := by apply Matrix.ext; change ∀ i j, raw2297step1 i j = -(raw2297step0 i j); unfold raw2297step1 raw2297step0; decide +kernel
+      have hl : raw2297step1Labels = raw2297step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2297step1 raw2297step1Labels = mixedMoment B raw2297step2 raw2297step2Labels := by
+      have ha : raw2297step2 = raw2297step1 := by apply Matrix.ext; unfold raw2297step2 raw2297step1; decide +kernel
+      have hl : raw2297step1Labels = labelEmbedding1 ∘ raw2297step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2297step1 raw2297step1Labels raw2297step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3582 node3582Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical18
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical2316 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2316 raw2316Labels = mixedMoment B node5304 node5304Labels := by
+  calc
+    mixedMoment B raw2316 raw2316Labels = mixedMoment B raw2316step0 raw2316step0Labels := by
+      have ha : raw2316step0 = (fun i j => raw2316 (permutation8 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2316step0 raw2316; decide +kernel
+      have hl : raw2316step0Labels = raw2316Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2316 raw2316Labels permutation8 permutation4
+    mixedMoment B raw2316step0 raw2316step0Labels = mixedMoment B raw2316step1 raw2316step1Labels := by
+      have ha : raw2316step1 = raw2316step0 := by apply Matrix.ext; unfold raw2316step1 raw2316step0; decide +kernel
+      have hl : raw2316step0Labels = labelEmbedding7 ∘ raw2316step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2316step0 raw2316step0Labels raw2316step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5304 node5304Labels := by rfl
+
+theorem canonical2317 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2317 raw2317Labels = mixedMoment B node2782 node2782Labels := by
+  calc
+    mixedMoment B raw2317 raw2317Labels = mixedMoment B raw2317step0 raw2317step0Labels := by
+      have ha : raw2317step0 = (fun i j => raw2317 (permutation8 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2317step0 raw2317; decide +kernel
+      have hl : raw2317step0Labels = raw2317Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2317 raw2317Labels permutation8 permutation4
+    _ = mixedMoment B node2782 node2782Labels := by rfl
+
+theorem canonical2318 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2318 raw2318Labels = mixedMoment B node3583 node3583Labels := by
+  calc
+    mixedMoment B raw2318 raw2318Labels = mixedMoment B raw2318step0 raw2318step0Labels := by
+      have ha : raw2318step0 = (fun i j => raw2318 (permutation8 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2318step0 raw2318; decide +kernel
+      have hl : raw2318step0Labels = raw2318Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2318 raw2318Labels permutation8 permutation6
+    mixedMoment B raw2318step0 raw2318step0Labels = mixedMoment B raw2318step1 raw2318step1Labels := by
+      have ha : raw2318step1 = -raw2318step0 := by apply Matrix.ext; change ∀ i j, raw2318step1 i j = -(raw2318step0 i j); unfold raw2318step1 raw2318step0; decide +kernel
+      have hl : raw2318step1Labels = raw2318step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2318step1 raw2318step1Labels = mixedMoment B raw2318step2 raw2318step2Labels := by
+      have ha : raw2318step2 = raw2318step1 := by apply Matrix.ext; unfold raw2318step2 raw2318step1; decide +kernel
+      have hl : raw2318step1Labels = labelEmbedding1 ∘ raw2318step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2318step1 raw2318step1Labels raw2318step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3583 node3583Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical189
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical24305 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24305 raw24305Labels = mixedMoment B node5163 node5163Labels := by
+  calc
+    mixedMoment B raw24305 raw24305Labels = mixedMoment B raw24305step0 raw24305step0Labels := by
+      have hz : ∀ j, raw24305 (permutation265 0) j = 0 := by decide +kernel
+      have ha : raw24305step0 = (fun i j => raw24305 (permutation265 i.succ) j) := by apply Matrix.ext; unfold raw24305step0 raw24305; decide +kernel
+      have hl : raw24305step0Labels = raw24305Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24305 raw24305Labels permutation265 hz
+    mixedMoment B raw24305step0 raw24305step0Labels = mixedMoment B raw24305step1 raw24305step1Labels := by
+      have ha : raw24305step1 = (fun i j => raw24305step0 (permutation34 i) (permutation2 j)) := by apply Matrix.ext; unfold raw24305step1 raw24305step0; decide +kernel
+      have hl : raw24305step1Labels = raw24305step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw24305step0 raw24305step0Labels permutation34 permutation2
+    _ = mixedMoment B node5163 node5163Labels := by rfl
+
+theorem canonical24306 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24306 raw24306Labels = mixedMoment B node5291 node5291Labels := by
+  calc
+    mixedMoment B raw24306 raw24306Labels = mixedMoment B raw24306step0 raw24306step0Labels := by
+      have hz : ∀ j, raw24306 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw24306step0 = (fun i j => raw24306 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw24306step0 raw24306; decide +kernel
+      have hl : raw24306step0Labels = raw24306Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24306 raw24306Labels permutation346 hz
+    mixedMoment B raw24306step0 raw24306step0Labels = mixedMoment B raw24306step1 raw24306step1Labels := by
+      have hz : ∀ j, raw24306step0 (permutation56 0) j = 0 := by decide +kernel
+      have ha : raw24306step1 = (fun i j => raw24306step0 (permutation56 i.succ) j) := by apply Matrix.ext; unfold raw24306step1 raw24306step0; decide +kernel
+      have hl : raw24306step1Labels = raw24306step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24306step0 raw24306step0Labels permutation56 hz
+    _ = mixedMoment B node5291 node5291Labels := by rfl
+
+theorem canonical24307 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24307 raw24307Labels = mixedMoment B node5274 node5274Labels := by
+  calc
+    mixedMoment B raw24307 raw24307Labels = mixedMoment B raw24307step0 raw24307step0Labels := by
+      have hz : ∀ j, raw24307 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw24307step0 = (fun i j => raw24307 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw24307step0 raw24307; decide +kernel
+      have hl : raw24307step0Labels = raw24307Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24307 raw24307Labels permutation346 hz
+    mixedMoment B raw24307step0 raw24307step0Labels = mixedMoment B raw24307step1 raw24307step1Labels := by
+      have hz : ∀ j, raw24307step0 (permutation56 0) j = 0 := by decide +kernel
+      have ha : raw24307step1 = (fun i j => raw24307step0 (permutation56 i.succ) j) := by apply Matrix.ext; unfold raw24307step1 raw24307step0; decide +kernel
+      have hl : raw24307step1Labels = raw24307step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24307step0 raw24307step0Labels permutation56 hz
+    mixedMoment B raw24307step1 raw24307step1Labels = mixedMoment B raw24307step2 raw24307step2Labels := by
+      have ha : raw24307step2 = (fun i j => raw24307step1 (permutation10 i) (permutation2 j)) := by apply Matrix.ext; unfold raw24307step2 raw24307step1; decide +kernel
+      have hl : raw24307step2Labels = raw24307step1Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw24307step1 raw24307step1Labels permutation10 permutation2
+    _ = mixedMoment B node5274 node5274Labels := by rfl
+
+theorem canonical24308 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24308 raw24308Labels = mixedMoment B node5304 node5304Labels := by
+  calc
+    mixedMoment B raw24308 raw24308Labels = mixedMoment B raw24308step0 raw24308step0Labels := by
+      have hz : ∀ j, raw24308 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw24308step0 = (fun i j => raw24308 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw24308step0 raw24308; decide +kernel
+      have hl : raw24308step0Labels = raw24308Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24308 raw24308Labels permutation346 hz
+    mixedMoment B raw24308step0 raw24308step0Labels = mixedMoment B raw24308step1 raw24308step1Labels := by
+      have hz : ∀ j, raw24308step0 (permutation56 0) j = 0 := by decide +kernel
+      have ha : raw24308step1 = (fun i j => raw24308step0 (permutation56 i.succ) j) := by apply Matrix.ext; unfold raw24308step1 raw24308step0; decide +kernel
+      have hl : raw24308step1Labels = raw24308step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24308step0 raw24308step0Labels permutation56 hz
+    mixedMoment B raw24308step1 raw24308step1Labels = mixedMoment B raw24308step2 raw24308step2Labels := by
+      have ha : raw24308step2 = (fun i j => raw24308step1 (permutation10 i) (permutation2 j)) := by apply Matrix.ext; unfold raw24308step2 raw24308step1; decide +kernel
+      have hl : raw24308step2Labels = raw24308step1Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw24308step1 raw24308step1Labels permutation10 permutation2
+    _ = mixedMoment B node5304 node5304Labels := by rfl
+
+theorem canonical24315 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24315 raw24315Labels = mixedMoment B node4545 node4545Labels := by
+  calc
+    mixedMoment B raw24315 raw24315Labels = mixedMoment B raw24315step0 raw24315step0Labels := by
+      have ha : raw24315step0 = (fun i j => raw24315 (permutation158 i) (permutation3 j)) := by apply Matrix.ext; unfold raw24315step0 raw24315; decide +kernel
+      have hl : raw24315step0Labels = raw24315Labels ∘ permutation3 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw24315 raw24315Labels permutation158 permutation3
+    mixedMoment B raw24315step0 raw24315step0Labels = mixedMoment B raw24315step1 raw24315step1Labels := by
+      have ha : raw24315step1 = raw24315step0 := by apply Matrix.ext; unfold raw24315step1 raw24315step0; decide +kernel
+      have hl : raw24315step0Labels = labelEmbedding6 ∘ raw24315step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw24315step0 raw24315step0Labels raw24315step1Labels labelEmbedding6 hl
+    _ = mixedMoment B node4545 node4545Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical19
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical2439 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2439 raw2439Labels = mixedMoment B node5384 node5384Labels := by
+  calc
+    mixedMoment B raw2439 raw2439Labels = mixedMoment B raw2439step0 raw2439step0Labels := by
+      have ha : raw2439step0 = (fun i j => raw2439 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2439step0 raw2439; decide +kernel
+      have hl : raw2439step0Labels = raw2439Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2439 raw2439Labels permutation32 permutation4
+    mixedMoment B raw2439step0 raw2439step0Labels = mixedMoment B raw2439step1 raw2439step1Labels := by
+      have ha : raw2439step1 = raw2439step0 := by apply Matrix.ext; unfold raw2439step1 raw2439step0; decide +kernel
+      have hl : raw2439step0Labels = labelEmbedding7 ∘ raw2439step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2439step0 raw2439step0Labels raw2439step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5384 node5384Labels := by rfl
+
+theorem canonical2440 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2440 raw2440Labels = mixedMoment B node3732 node3732Labels := by
+  calc
+    mixedMoment B raw2440 raw2440Labels = mixedMoment B raw2440step0 raw2440step0Labels := by
+      have ha : raw2440step0 = (fun i j => raw2440 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2440step0 raw2440; decide +kernel
+      have hl : raw2440step0Labels = raw2440Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2440 raw2440Labels permutation32 permutation4
+    _ = mixedMoment B node3732 node3732Labels := by rfl
+
+theorem canonical2441 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2441 raw2441Labels = mixedMoment B node3811 node3811Labels := by
+  calc
+    mixedMoment B raw2441 raw2441Labels = mixedMoment B raw2441step0 raw2441step0Labels := by
+      have ha : raw2441step0 = (fun i j => raw2441 (permutation149 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2441step0 raw2441; decide +kernel
+      have hl : raw2441step0Labels = raw2441Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2441 raw2441Labels permutation149 permutation6
+    mixedMoment B raw2441step0 raw2441step0Labels = mixedMoment B raw2441step1 raw2441step1Labels := by
+      have ha : raw2441step1 = raw2441step0 := by apply Matrix.ext; unfold raw2441step1 raw2441step0; decide +kernel
+      have hl : raw2441step0Labels = labelEmbedding1 ∘ raw2441step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2441step0 raw2441step0Labels raw2441step1Labels labelEmbedding1 hl
+    _ = mixedMoment B node3811 node3811Labels := by rfl
+
+theorem canonical2472 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2472 raw2472Labels = mixedMoment B node5400 node5400Labels := by
+  calc
+    mixedMoment B raw2472 raw2472Labels = mixedMoment B raw2472step0 raw2472step0Labels := by
+      have ha : raw2472step0 = (fun i j => raw2472 (permutation152 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2472step0 raw2472; decide +kernel
+      have hl : raw2472step0Labels = raw2472Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2472 raw2472Labels permutation152 permutation4
+    mixedMoment B raw2472step0 raw2472step0Labels = mixedMoment B raw2472step1 raw2472step1Labels := by
+      have ha : raw2472step1 = raw2472step0 := by apply Matrix.ext; unfold raw2472step1 raw2472step0; decide +kernel
+      have hl : raw2472step0Labels = labelEmbedding7 ∘ raw2472step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2472step0 raw2472step0Labels raw2472step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5400 node5400Labels := by rfl
+
+theorem canonical2473 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2473 raw2473Labels = mixedMoment B node3786 node3786Labels := by
+  calc
+    mixedMoment B raw2473 raw2473Labels = mixedMoment B raw2473step0 raw2473step0Labels := by
+      have ha : raw2473step0 = (fun i j => raw2473 (permutation152 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2473step0 raw2473; decide +kernel
+      have hl : raw2473step0Labels = raw2473Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2473 raw2473Labels permutation152 permutation4
+    _ = mixedMoment B node3786 node3786Labels := by rfl
+
+theorem canonical2474 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2474 raw2474Labels = mixedMoment B node3799 node3799Labels := by
+  calc
+    mixedMoment B raw2474 raw2474Labels = mixedMoment B raw2474step0 raw2474step0Labels := by
+      have ha : raw2474step0 = (fun i j => raw2474 (permutation160 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2474step0 raw2474; decide +kernel
+      have hl : raw2474step0Labels = raw2474Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2474 raw2474Labels permutation160 permutation6
+    mixedMoment B raw2474step0 raw2474step0Labels = mixedMoment B raw2474step1 raw2474step1Labels := by
+      have ha : raw2474step1 = -raw2474step0 := by apply Matrix.ext; change ∀ i j, raw2474step1 i j = -(raw2474step0 i j); unfold raw2474step1 raw2474step0; decide +kernel
+      have hl : raw2474step1Labels = raw2474step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2474step1 raw2474step1Labels = mixedMoment B raw2474step2 raw2474step2Labels := by
+      have ha : raw2474step2 = raw2474step1 := by apply Matrix.ext; unfold raw2474step2 raw2474step1; decide +kernel
+      have hl : raw2474step1Labels = labelEmbedding1 ∘ raw2474step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2474step1 raw2474step1Labels raw2474step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3799 node3799Labels := by rfl
+
+theorem canonical2523 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2523 raw2523Labels = mixedMoment B node5432 node5432Labels := by
+  calc
+    mixedMoment B raw2523 raw2523Labels = mixedMoment B raw2523step0 raw2523step0Labels := by
+      have ha : raw2523step0 = (fun i j => raw2523 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2523step0 raw2523; decide +kernel
+      have hl : raw2523step0Labels = raw2523Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2523 raw2523Labels permutation32 permutation4
+    mixedMoment B raw2523step0 raw2523step0Labels = mixedMoment B raw2523step1 raw2523step1Labels := by
+      have ha : raw2523step1 = raw2523step0 := by apply Matrix.ext; unfold raw2523step1 raw2523step0; decide +kernel
+      have hl : raw2523step0Labels = labelEmbedding7 ∘ raw2523step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2523step0 raw2523step0Labels raw2523step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5432 node5432Labels := by rfl
+
+theorem canonical2524 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2524 raw2524Labels = mixedMoment B node3850 node3850Labels := by
+  calc
+    mixedMoment B raw2524 raw2524Labels = mixedMoment B raw2524step0 raw2524step0Labels := by
+      have ha : raw2524step0 = (fun i j => raw2524 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2524step0 raw2524; decide +kernel
+      have hl : raw2524step0Labels = raw2524Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2524 raw2524Labels permutation32 permutation4
+    _ = mixedMoment B node3850 node3850Labels := by rfl
+
+theorem canonical2525 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2525 raw2525Labels = mixedMoment B node3850 node3850Labels := by
+  calc
+    mixedMoment B raw2525 raw2525Labels = mixedMoment B raw2525step0 raw2525step0Labels := by
+      have ha : raw2525step0 = (fun i j => raw2525 (permutation143 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2525step0 raw2525; decide +kernel
+      have hl : raw2525step0Labels = raw2525Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2525 raw2525Labels permutation143 permutation6
+    mixedMoment B raw2525step0 raw2525step0Labels = mixedMoment B raw2525step1 raw2525step1Labels := by
+      have ha : raw2525step1 = raw2525step0 := by apply Matrix.ext; unfold raw2525step1 raw2525step0; decide +kernel
+      have hl : raw2525step0Labels = labelEmbedding1 ∘ raw2525step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2525step0 raw2525step0Labels raw2525step1Labels labelEmbedding1 hl
+    _ = mixedMoment B node3850 node3850Labels := by rfl
+
+theorem canonical2538 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2538 raw2538Labels = mixedMoment B node5438 node5438Labels := by
+  calc
+    mixedMoment B raw2538 raw2538Labels = mixedMoment B raw2538step0 raw2538step0Labels := by
+      have ha : raw2538step0 = (fun i j => raw2538 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2538step0 raw2538; decide +kernel
+      have hl : raw2538step0Labels = raw2538Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2538 raw2538Labels permutation32 permutation4
+    mixedMoment B raw2538step0 raw2538step0Labels = mixedMoment B raw2538step1 raw2538step1Labels := by
+      have ha : raw2538step1 = raw2538step0 := by apply Matrix.ext; unfold raw2538step1 raw2538step0; decide +kernel
+      have hl : raw2538step0Labels = labelEmbedding7 ∘ raw2538step1Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2538step0 raw2538step0Labels raw2538step1Labels labelEmbedding7 hl
+    _ = mixedMoment B node5438 node5438Labels := by rfl
+
+theorem canonical2539 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2539 raw2539Labels = mixedMoment B node3857 node3857Labels := by
+  calc
+    mixedMoment B raw2539 raw2539Labels = mixedMoment B raw2539step0 raw2539step0Labels := by
+      have ha : raw2539step0 = (fun i j => raw2539 (permutation32 i) (permutation4 j)) := by apply Matrix.ext; unfold raw2539step0 raw2539; decide +kernel
+      have hl : raw2539step0Labels = raw2539Labels ∘ permutation4 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2539 raw2539Labels permutation32 permutation4
+    _ = mixedMoment B node3857 node3857Labels := by rfl
+
+theorem canonical2540 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw2540 raw2540Labels = mixedMoment B node3876 node3876Labels := by
+  calc
+    mixedMoment B raw2540 raw2540Labels = mixedMoment B raw2540step0 raw2540step0Labels := by
+      have ha : raw2540step0 = (fun i j => raw2540 (permutation38 i) (permutation6 j)) := by apply Matrix.ext; unfold raw2540step0 raw2540; decide +kernel
+      have hl : raw2540step0Labels = raw2540Labels ∘ permutation6 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw2540 raw2540Labels permutation38 permutation6
+    mixedMoment B raw2540step0 raw2540step0Labels = mixedMoment B raw2540step1 raw2540step1Labels := by
+      have ha : raw2540step1 = -raw2540step0 := by apply Matrix.ext; change ∀ i j, raw2540step1 i j = -(raw2540step0 i j); unfold raw2540step1 raw2540step0; decide +kernel
+      have hl : raw2540step1Labels = raw2540step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    mixedMoment B raw2540step1 raw2540step1Labels = mixedMoment B raw2540step2 raw2540step2Labels := by
+      have ha : raw2540step2 = raw2540step1 := by apply Matrix.ext; unfold raw2540step2 raw2540step1; decide +kernel
+      have hl : raw2540step1Labels = labelEmbedding1 ∘ raw2540step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw2540step1 raw2540step1Labels raw2540step2Labels labelEmbedding1 hl
+    _ = mixedMoment B node3876 node3876Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical190
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical24320 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24320 raw24320Labels = mixedMoment B node4556 node4556Labels := by
+  calc
+    mixedMoment B raw24320 raw24320Labels = mixedMoment B raw24320step0 raw24320step0Labels := by
+      have hz : ∀ j, raw24320 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw24320step0 = (fun i j => raw24320 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw24320step0 raw24320; decide +kernel
+      have hl : raw24320step0Labels = raw24320Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24320 raw24320Labels permutation346 hz
+    mixedMoment B raw24320step0 raw24320step0Labels = mixedMoment B raw24320step1 raw24320step1Labels := by
+      have ha : raw24320step1 = (fun i j => raw24320step0 (permutation35 i) (permutation3 j)) := by apply Matrix.ext; unfold raw24320step1 raw24320step0; decide +kernel
+      have hl : raw24320step1Labels = raw24320step0Labels ∘ permutation3 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw24320step0 raw24320step0Labels permutation35 permutation3
+    mixedMoment B raw24320step1 raw24320step1Labels = mixedMoment B raw24320step2 raw24320step2Labels := by
+      have ha : raw24320step2 = raw24320step1 := by apply Matrix.ext; unfold raw24320step2 raw24320step1; decide +kernel
+      have hl : raw24320step1Labels = labelEmbedding6 ∘ raw24320step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw24320step1 raw24320step1Labels raw24320step2Labels labelEmbedding6 hl
+    _ = mixedMoment B node4556 node4556Labels := by rfl
+
+theorem canonical24325 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24325 raw24325Labels = mixedMoment B node4548 node4548Labels := by
+  calc
+    mixedMoment B raw24325 raw24325Labels = mixedMoment B raw24325step0 raw24325step0Labels := by
+      have hz : ∀ j, raw24325 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw24325step0 = (fun i j => raw24325 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw24325step0 raw24325; decide +kernel
+      have hl : raw24325step0Labels = raw24325Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24325 raw24325Labels permutation346 hz
+    mixedMoment B raw24325step0 raw24325step0Labels = mixedMoment B raw24325step1 raw24325step1Labels := by
+      have ha : raw24325step1 = (fun i j => raw24325step0 (permutation33 i) (permutation3 j)) := by apply Matrix.ext; unfold raw24325step1 raw24325step0; decide +kernel
+      have hl : raw24325step1Labels = raw24325step0Labels ∘ permutation3 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw24325step0 raw24325step0Labels permutation33 permutation3
+    mixedMoment B raw24325step1 raw24325step1Labels = mixedMoment B raw24325step2 raw24325step2Labels := by
+      have ha : raw24325step2 = raw24325step1 := by apply Matrix.ext; unfold raw24325step2 raw24325step1; decide +kernel
+      have hl : raw24325step1Labels = labelEmbedding6 ∘ raw24325step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw24325step1 raw24325step1Labels raw24325step2Labels labelEmbedding6 hl
+    _ = mixedMoment B node4548 node4548Labels := by rfl
+
+theorem canonical24330 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw24330 raw24330Labels = mixedMoment B node4547 node4547Labels := by
+  calc
+    mixedMoment B raw24330 raw24330Labels = mixedMoment B raw24330step0 raw24330step0Labels := by
+      have hz : ∀ j, raw24330 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw24330step0 = (fun i j => raw24330 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw24330step0 raw24330; decide +kernel
+      have hl : raw24330step0Labels = raw24330Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw24330 raw24330Labels permutation346 hz
+    mixedMoment B raw24330step0 raw24330step0Labels = mixedMoment B raw24330step1 raw24330step1Labels := by
+      have ha : raw24330step1 = (fun i j => raw24330step0 (permutation32 i) (permutation3 j)) := by apply Matrix.ext; unfold raw24330step1 raw24330step0; decide +kernel
+      have hl : raw24330step1Labels = raw24330step0Labels ∘ permutation3 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw24330step0 raw24330step0Labels permutation32 permutation3
+    mixedMoment B raw24330step1 raw24330step1Labels = mixedMoment B raw24330step2 raw24330step2Labels := by
+      have ha : raw24330step2 = raw24330step1 := by apply Matrix.ext; unfold raw24330step2 raw24330step1; decide +kernel
+      have hl : raw24330step1Labels = labelEmbedding6 ∘ raw24330step2Labels := by decide +kernel
+      rw [ha]
+      exact rename_labels (by decide) B raw24330step1 raw24330step1Labels raw24330step2Labels labelEmbedding6 hl
+    _ = mixedMoment B node4547 node4547Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Canonical255
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem canonical32744 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32744 raw32744Labels = mixedMoment B node5384 node5384Labels := by
+  calc
+    mixedMoment B raw32744 raw32744Labels = mixedMoment B raw32744step0 raw32744step0Labels := by
+      have hz : ∀ j, raw32744 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32744step0 = (fun i j => raw32744 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32744step0 raw32744; decide +kernel
+      have hl : raw32744step0Labels = raw32744Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32744 raw32744Labels permutation346 hz
+    mixedMoment B raw32744step0 raw32744step0Labels = mixedMoment B raw32744step1 raw32744step1Labels := by
+      have ha : raw32744step1 = (fun i j => raw32744step0 (permutation34 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32744step1 raw32744step0; decide +kernel
+      have hl : raw32744step1Labels = raw32744step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32744step0 raw32744step0Labels permutation34 permutation2
+    _ = mixedMoment B node5384 node5384Labels := by rfl
+
+theorem canonical32745 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32745 raw32745Labels = mixedMoment B node5400 node5400Labels := by
+  calc
+    mixedMoment B raw32745 raw32745Labels = mixedMoment B raw32745step0 raw32745step0Labels := by
+      have ha : raw32745step0 = (fun i j => raw32745 (permutation662 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32745step0 raw32745; decide +kernel
+      have hl : raw32745step0Labels = raw32745Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32745 raw32745Labels permutation662 permutation2
+    mixedMoment B raw32745step0 raw32745step0Labels = mixedMoment B raw32745step1 raw32745step1Labels := by
+      have ha : raw32745step1 = -raw32745step0 := by apply Matrix.ext; change ∀ i j, raw32745step1 i j = -(raw32745step0 i j); unfold raw32745step1 raw32745step0; decide +kernel
+      have hl : raw32745step1Labels = raw32745step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    _ = mixedMoment B node5400 node5400Labels := by rfl
+
+theorem canonical32746 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32746 raw32746Labels = mixedMoment B node5432 node5432Labels := by
+  calc
+    mixedMoment B raw32746 raw32746Labels = mixedMoment B raw32746step0 raw32746step0Labels := by
+      have hz : ∀ j, raw32746 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32746step0 = (fun i j => raw32746 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32746step0 raw32746; decide +kernel
+      have hl : raw32746step0Labels = raw32746Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32746 raw32746Labels permutation346 hz
+    _ = mixedMoment B node5432 node5432Labels := by rfl
+
+theorem canonical32747 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32747 raw32747Labels = mixedMoment B node5409 node5409Labels := by
+  calc
+    mixedMoment B raw32747 raw32747Labels = mixedMoment B raw32747step0 raw32747step0Labels := by
+      have hz : ∀ j, raw32747 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32747step0 = (fun i j => raw32747 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32747step0 raw32747; decide +kernel
+      have hl : raw32747step0Labels = raw32747Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32747 raw32747Labels permutation346 hz
+    mixedMoment B raw32747step0 raw32747step0Labels = mixedMoment B raw32747step1 raw32747step1Labels := by
+      have ha : raw32747step1 = (fun i j => raw32747step0 (permutation145 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32747step1 raw32747step0; decide +kernel
+      have hl : raw32747step1Labels = raw32747step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32747step0 raw32747step0Labels permutation145 permutation2
+    mixedMoment B raw32747step1 raw32747step1Labels = mixedMoment B raw32747step2 raw32747step2Labels := by
+      have ha : raw32747step2 = -raw32747step1 := by apply Matrix.ext; change ∀ i j, raw32747step2 i j = -(raw32747step1 i j); unfold raw32747step2 raw32747step1; decide +kernel
+      have hl : raw32747step2Labels = raw32747step1Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    _ = mixedMoment B node5409 node5409Labels := by rfl
+
+theorem canonical32748 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32748 raw32748Labels = mixedMoment B node5438 node5438Labels := by
+  calc
+    mixedMoment B raw32748 raw32748Labels = mixedMoment B raw32748step0 raw32748step0Labels := by
+      have hz : ∀ j, raw32748 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32748step0 = (fun i j => raw32748 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32748step0 raw32748; decide +kernel
+      have hl : raw32748step0Labels = raw32748Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32748 raw32748Labels permutation346 hz
+    mixedMoment B raw32748step0 raw32748step0Labels = mixedMoment B raw32748step1 raw32748step1Labels := by
+      have ha : raw32748step1 = (fun i j => raw32748step0 (permutation34 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32748step1 raw32748step0; decide +kernel
+      have hl : raw32748step1Labels = raw32748step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32748step0 raw32748step0Labels permutation34 permutation2
+    _ = mixedMoment B node5438 node5438Labels := by rfl
+
+theorem canonical32749 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32749 raw32749Labels = mixedMoment B node4619 node4619Labels := by
+  calc
+    mixedMoment B raw32749 raw32749Labels = mixedMoment B raw32749step0 raw32749step0Labels := by
+      have hz : ∀ j, raw32749 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32749step0 = (fun i j => raw32749 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32749step0 raw32749; decide +kernel
+      have hl : raw32749step0Labels = raw32749Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32749 raw32749Labels permutation346 hz
+    mixedMoment B raw32749step0 raw32749step0Labels = mixedMoment B raw32749step1 raw32749step1Labels := by
+      have hz : ∀ j, raw32749step0 (permutation56 0) j = 0 := by decide +kernel
+      have ha : raw32749step1 = (fun i j => raw32749step0 (permutation56 i.succ) j) := by apply Matrix.ext; unfold raw32749step1 raw32749step0; decide +kernel
+      have hl : raw32749step1Labels = raw32749step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32749step0 raw32749step0Labels permutation56 hz
+    mixedMoment B raw32749step1 raw32749step1Labels = mixedMoment B raw32749step2 raw32749step2Labels := by
+      have ha : raw32749step2 = (fun i j => raw32749step1 (permutation10 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32749step2 raw32749step1; decide +kernel
+      have hl : raw32749step2Labels = raw32749step1Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32749step1 raw32749step1Labels permutation10 permutation2
+    _ = mixedMoment B node4619 node4619Labels := by rfl
+
+theorem canonical32750 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32750 raw32750Labels = mixedMoment B node4963 node4963Labels := by
+  calc
+    mixedMoment B raw32750 raw32750Labels = mixedMoment B raw32750step0 raw32750step0Labels := by
+      have ha : raw32750step0 = (fun i j => raw32750 (permutation164 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32750step0 raw32750; decide +kernel
+      have hl : raw32750step0Labels = raw32750Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32750 raw32750Labels permutation164 permutation2
+    _ = mixedMoment B node4963 node4963Labels := by rfl
+
+theorem canonical32751 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32751 raw32751Labels = mixedMoment B node5144 node5144Labels := by
+  calc
+    mixedMoment B raw32751 raw32751Labels = mixedMoment B raw32751step0 raw32751step0Labels := by
+      have ha : raw32751step0 = (fun i j => raw32751 (permutation160 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32751step0 raw32751; decide +kernel
+      have hl : raw32751step0Labels = raw32751Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32751 raw32751Labels permutation160 permutation2
+    _ = mixedMoment B node5144 node5144Labels := by rfl
+
+theorem canonical32752 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32752 raw32752Labels = mixedMoment B node5134 node5134Labels := by
+  calc
+    mixedMoment B raw32752 raw32752Labels = mixedMoment B raw32752step0 raw32752step0Labels := by
+      have ha : raw32752step0 = (fun i j => raw32752 (permutation164 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32752step0 raw32752; decide +kernel
+      have hl : raw32752step0Labels = raw32752Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32752 raw32752Labels permutation164 permutation2
+    _ = mixedMoment B node5134 node5134Labels := by rfl
+
+theorem canonical32753 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32753 raw32753Labels = mixedMoment B node5160 node5160Labels := by
+  calc
+    mixedMoment B raw32753 raw32753Labels = mixedMoment B raw32753step0 raw32753step0Labels := by
+      have ha : raw32753step0 = (fun i j => raw32753 (permutation164 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32753step0 raw32753; decide +kernel
+      have hl : raw32753step0Labels = raw32753Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32753 raw32753Labels permutation164 permutation2
+    _ = mixedMoment B node5160 node5160Labels := by rfl
+
+theorem canonical32754 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32754 raw32754Labels = mixedMoment B node4966 node4966Labels := by
+  calc
+    mixedMoment B raw32754 raw32754Labels = mixedMoment B raw32754step0 raw32754step0Labels := by
+      have hz : ∀ j, raw32754 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32754step0 = (fun i j => raw32754 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32754step0 raw32754; decide +kernel
+      have hl : raw32754step0Labels = raw32754Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32754 raw32754Labels permutation346 hz
+    mixedMoment B raw32754step0 raw32754step0Labels = mixedMoment B raw32754step1 raw32754step1Labels := by
+      have ha : raw32754step1 = (fun i j => raw32754step0 (permutation34 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32754step1 raw32754step0; decide +kernel
+      have hl : raw32754step1Labels = raw32754step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32754step0 raw32754step0Labels permutation34 permutation2
+    _ = mixedMoment B node4966 node4966Labels := by rfl
+
+theorem canonical32755 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32755 raw32755Labels = mixedMoment B node5112 node5112Labels := by
+  calc
+    mixedMoment B raw32755 raw32755Labels = mixedMoment B raw32755step0 raw32755step0Labels := by
+      have ha : raw32755step0 = (fun i j => raw32755 (permutation154 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32755step0 raw32755; decide +kernel
+      have hl : raw32755step0Labels = raw32755Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32755 raw32755Labels permutation154 permutation2
+    _ = mixedMoment B node5112 node5112Labels := by rfl
+
+theorem canonical32756 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32756 raw32756Labels = mixedMoment B node5141 node5141Labels := by
+  calc
+    mixedMoment B raw32756 raw32756Labels = mixedMoment B raw32756step0 raw32756step0Labels := by
+      have hz : ∀ j, raw32756 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32756step0 = (fun i j => raw32756 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32756step0 raw32756; decide +kernel
+      have hl : raw32756step0Labels = raw32756Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32756 raw32756Labels permutation346 hz
+    mixedMoment B raw32756step0 raw32756step0Labels = mixedMoment B raw32756step1 raw32756step1Labels := by
+      have ha : raw32756step1 = (fun i j => raw32756step0 (permutation34 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32756step1 raw32756step0; decide +kernel
+      have hl : raw32756step1Labels = raw32756step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32756step0 raw32756step0Labels permutation34 permutation2
+    _ = mixedMoment B node5141 node5141Labels := by rfl
+
+theorem canonical32757 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32757 raw32757Labels = mixedMoment B node5164 node5164Labels := by
+  calc
+    mixedMoment B raw32757 raw32757Labels = mixedMoment B raw32757step0 raw32757step0Labels := by
+      have hz : ∀ j, raw32757 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32757step0 = (fun i j => raw32757 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32757step0 raw32757; decide +kernel
+      have hl : raw32757step0Labels = raw32757Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32757 raw32757Labels permutation346 hz
+    mixedMoment B raw32757step0 raw32757step0Labels = mixedMoment B raw32757step1 raw32757step1Labels := by
+      have ha : raw32757step1 = (fun i j => raw32757step0 (permutation35 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32757step1 raw32757step0; decide +kernel
+      have hl : raw32757step1Labels = raw32757step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32757step0 raw32757step0Labels permutation35 permutation2
+    _ = mixedMoment B node5164 node5164Labels := by rfl
+
+theorem canonical32758 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32758 raw32758Labels = mixedMoment B node4976 node4976Labels := by
+  calc
+    mixedMoment B raw32758 raw32758Labels = mixedMoment B raw32758step0 raw32758step0Labels := by
+      have hz : ∀ j, raw32758 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32758step0 = (fun i j => raw32758 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32758step0 raw32758; decide +kernel
+      have hl : raw32758step0Labels = raw32758Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32758 raw32758Labels permutation346 hz
+    _ = mixedMoment B node4976 node4976Labels := by rfl
+
+theorem canonical32759 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32759 raw32759Labels = mixedMoment B node5116 node5116Labels := by
+  calc
+    _ = mixedMoment B node5116 node5116Labels := by rfl
+
+theorem canonical32760 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32760 raw32760Labels = mixedMoment B node5151 node5151Labels := by
+  calc
+    mixedMoment B raw32760 raw32760Labels = mixedMoment B raw32760step0 raw32760step0Labels := by
+      have hz : ∀ j, raw32760 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32760step0 = (fun i j => raw32760 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32760step0 raw32760; decide +kernel
+      have hl : raw32760step0Labels = raw32760Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32760 raw32760Labels permutation346 hz
+    _ = mixedMoment B node5151 node5151Labels := by rfl
+
+theorem canonical32761 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32761 raw32761Labels = mixedMoment B node5173 node5173Labels := by
+  calc
+    mixedMoment B raw32761 raw32761Labels = mixedMoment B raw32761step0 raw32761step0Labels := by
+      have hz : ∀ j, raw32761 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32761step0 = (fun i j => raw32761 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32761step0 raw32761; decide +kernel
+      have hl : raw32761step0Labels = raw32761Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32761 raw32761Labels permutation346 hz
+    mixedMoment B raw32761step0 raw32761step0Labels = mixedMoment B raw32761step1 raw32761step1Labels := by
+      have ha : raw32761step1 = (fun i j => raw32761step0 (permutation33 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32761step1 raw32761step0; decide +kernel
+      have hl : raw32761step1Labels = raw32761step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32761step0 raw32761step0Labels permutation33 permutation2
+    _ = mixedMoment B node5173 node5173Labels := by rfl
+
+theorem canonical32762 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32762 raw32762Labels = mixedMoment B node4965 node4965Labels := by
+  calc
+    mixedMoment B raw32762 raw32762Labels = mixedMoment B raw32762step0 raw32762step0Labels := by
+      have hz : ∀ j, raw32762 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32762step0 = (fun i j => raw32762 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32762step0 raw32762; decide +kernel
+      have hl : raw32762step0Labels = raw32762Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32762 raw32762Labels permutation346 hz
+    mixedMoment B raw32762step0 raw32762step0Labels = mixedMoment B raw32762step1 raw32762step1Labels := by
+      have ha : raw32762step1 = (fun i j => raw32762step0 (permutation34 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32762step1 raw32762step0; decide +kernel
+      have hl : raw32762step1Labels = raw32762step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32762step0 raw32762step0Labels permutation34 permutation2
+    _ = mixedMoment B node4965 node4965Labels := by rfl
+
+theorem canonical32763 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32763 raw32763Labels = mixedMoment B node5041 node5041Labels := by
+  calc
+    mixedMoment B raw32763 raw32763Labels = mixedMoment B raw32763step0 raw32763step0Labels := by
+      have ha : raw32763step0 = (fun i j => raw32763 (permutation662 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32763step0 raw32763; decide +kernel
+      have hl : raw32763step0Labels = raw32763Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32763 raw32763Labels permutation662 permutation2
+    mixedMoment B raw32763step0 raw32763step0Labels = mixedMoment B raw32763step1 raw32763step1Labels := by
+      have ha : raw32763step1 = -raw32763step0 := by apply Matrix.ext; change ∀ i j, raw32763step1 i j = -(raw32763step0 i j); unfold raw32763step1 raw32763step0; decide +kernel
+      have hl : raw32763step1Labels = raw32763step0Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    _ = mixedMoment B node5041 node5041Labels := by rfl
+
+theorem canonical32764 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32764 raw32764Labels = mixedMoment B node5147 node5147Labels := by
+  calc
+    mixedMoment B raw32764 raw32764Labels = mixedMoment B raw32764step0 raw32764step0Labels := by
+      have hz : ∀ j, raw32764 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32764step0 = (fun i j => raw32764 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32764step0 raw32764; decide +kernel
+      have hl : raw32764step0Labels = raw32764Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32764 raw32764Labels permutation346 hz
+    _ = mixedMoment B node5147 node5147Labels := by rfl
+
+theorem canonical32765 (B : Fin 7 → Basis) (_hB : IsMUBFamily B) :
+    mixedMoment B raw32765 raw32765Labels = mixedMoment B node5075 node5075Labels := by
+  calc
+    mixedMoment B raw32765 raw32765Labels = mixedMoment B raw32765step0 raw32765step0Labels := by
+      have hz : ∀ j, raw32765 (permutation346 0) j = 0 := by decide +kernel
+      have ha : raw32765step0 = (fun i j => raw32765 (permutation346 i.succ) j) := by apply Matrix.ext; unfold raw32765step0 raw32765; decide +kernel
+      have hl : raw32765step0Labels = raw32765Labels := by decide +kernel
+      rw [ha, hl]
+      exact delete_zero_row (by decide) B raw32765 raw32765Labels permutation346 hz
+    mixedMoment B raw32765step0 raw32765step0Labels = mixedMoment B raw32765step1 raw32765step1Labels := by
+      have ha : raw32765step1 = (fun i j => raw32765step0 (permutation145 i) (permutation2 j)) := by apply Matrix.ext; unfold raw32765step1 raw32765step0; decide +kernel
+      have hl : raw32765step1Labels = raw32765step0Labels ∘ permutation2 := by decide +kernel
+      rw [ha, hl]
+      exact permute B raw32765step0 raw32765step0Labels permutation145 permutation2
+    mixedMoment B raw32765step1 raw32765step1Labels = mixedMoment B raw32765step2 raw32765step2Labels := by
+      have ha : raw32765step2 = -raw32765step1 := by apply Matrix.ext; change ∀ i j, raw32765step2 i j = -(raw32765step1 i j); unfold raw32765step2 raw32765step1; decide +kernel
+      have hl : raw32765step2Labels = raw32765step1Labels := by decide +kernel
+      rw [ha, hl]
+      exact (mixedMoment_neg B _hB _ _).symm
+    _ = mixedMoment B node5075 node5075Labels := by rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_NumericVector
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem integer_eval_numericVector (B : Fin 7 → Basis) (v : Integer.Sparse (Fin 3237)) :
+    Integer.Sparse.eval v (numericVector B) =
+      Integer.Sparse.eval (Integer.Sparse.reindex keyMap v) (mixedVector B) := by
+  rw [Integer.Sparse.eval_reindex]
+  rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Singletons72
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem singleton4619 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node4619 node4619Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node1294 node1294Labels + mixedMoment B node3305 node3305Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw1443 singletonSmall4619
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall4619) = raw1443Labels := by decide +kernel
+  rw [hl, canonical1443 B hB] at h
+  have hc0 : mixedMoment B raw1443 (Fin.cases (0 : Fin 2) singletonSmall4619) =
+      mixedMoment B node1294 node1294Labels := by
+    have ha : raw1443 = raw1444 := by apply Matrix.ext; unfold raw1443 raw1444; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall4619 = raw1444Labels := by decide +kernel
+    rw [ha, hj, canonical1444 B hB]
+  have hc1 : mixedMoment B raw1443 (Fin.cases (1 : Fin 2) singletonSmall4619) =
+      mixedMoment B node3305 node3305Labels := by
+    have ha : raw1443 = raw1445 := by apply Matrix.ext; unfold raw1443 raw1445; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall4619 = raw1445Labels := by decide +kernel
+    rw [ha, hj, canonical1445 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Singletons79
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem singleton5075 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5075 node5075Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node2482 node2482Labels + mixedMoment B node3468 node3468Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2097 singletonSmall5075
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5075) = raw2097Labels := by decide +kernel
+  rw [hl, canonical2097 B hB] at h
+  have hc0 : mixedMoment B raw2097 (Fin.cases (0 : Fin 2) singletonSmall5075) =
+      mixedMoment B node2482 node2482Labels := by
+    have ha : raw2097 = raw2098 := by apply Matrix.ext; unfold raw2097 raw2098; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5075 = raw2098Labels := by decide +kernel
+    rw [ha, hj, canonical2098 B hB]
+  have hc1 : mixedMoment B raw2097 (Fin.cases (1 : Fin 2) singletonSmall5075) =
+      mixedMoment B node3468 node3468Labels := by
+    have ha : raw2097 = raw2099 := by apply Matrix.ext; unfold raw2097 raw2099; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5075 = raw2099Labels := by decide +kernel
+    rw [ha, hj, canonical2099 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Singletons80
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem singleton5134 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5134 node5134Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node2553 node2553Labels + mixedMoment B node3514 node3514Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2163 singletonSmall5134
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5134) = raw2163Labels := by decide +kernel
+  rw [hl, canonical2163 B hB] at h
+  have hc0 : mixedMoment B raw2163 (Fin.cases (0 : Fin 2) singletonSmall5134) =
+      mixedMoment B node2553 node2553Labels := by
+    have ha : raw2163 = raw2164 := by apply Matrix.ext; unfold raw2163 raw2164; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5134 = raw2164Labels := by decide +kernel
+    rw [ha, hj, canonical2164 B hB]
+  have hc1 : mixedMoment B raw2163 (Fin.cases (1 : Fin 2) singletonSmall5134) =
+      mixedMoment B node3514 node3514Labels := by
+    have ha : raw2163 = raw2165 := by apply Matrix.ext; unfold raw2163 raw2165; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5134 = raw2165Labels := by decide +kernel
+    rw [ha, hj, canonical2165 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+theorem singleton5141 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5141 node5141Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node2561 node2561Labels + mixedMoment B node3522 node3522Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2169 singletonSmall5141
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5141) = raw2169Labels := by decide +kernel
+  rw [hl, canonical2169 B hB] at h
+  have hc0 : mixedMoment B raw2169 (Fin.cases (0 : Fin 2) singletonSmall5141) =
+      mixedMoment B node2561 node2561Labels := by
+    have ha : raw2169 = raw2170 := by apply Matrix.ext; unfold raw2169 raw2170; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5141 = raw2170Labels := by decide +kernel
+    rw [ha, hj, canonical2170 B hB]
+  have hc1 : mixedMoment B raw2169 (Fin.cases (1 : Fin 2) singletonSmall5141) =
+      mixedMoment B node3522 node3522Labels := by
+    have ha : raw2169 = raw2171 := by apply Matrix.ext; unfold raw2169 raw2171; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5141 = raw2171Labels := by decide +kernel
+    rw [ha, hj, canonical2171 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+theorem singleton5163 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5163 node5163Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node2590 node2590Labels + mixedMoment B node3564 node3564Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2190 singletonSmall5163
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5163) = raw2190Labels := by decide +kernel
+  rw [hl, canonical2190 B hB] at h
+  have hc0 : mixedMoment B raw2190 (Fin.cases (0 : Fin 2) singletonSmall5163) =
+      mixedMoment B node2590 node2590Labels := by
+    have ha : raw2190 = raw2191 := by apply Matrix.ext; unfold raw2190 raw2191; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5163 = raw2191Labels := by decide +kernel
+    rw [ha, hj, canonical2191 B hB]
+  have hc1 : mixedMoment B raw2190 (Fin.cases (1 : Fin 2) singletonSmall5163) =
+      mixedMoment B node3564 node3564Labels := by
+    have ha : raw2190 = raw2192 := by apply Matrix.ext; unfold raw2190 raw2192; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5163 = raw2192Labels := by decide +kernel
+    rw [ha, hj, canonical2192 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Singletons82
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem singleton5291 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5291 node5291Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node2765 node2765Labels + mixedMoment B node3582 node3582Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2295 singletonSmall5291
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5291) = raw2295Labels := by decide +kernel
+  rw [hl, canonical2295 B hB] at h
+  have hc0 : mixedMoment B raw2295 (Fin.cases (0 : Fin 2) singletonSmall5291) =
+      mixedMoment B node2765 node2765Labels := by
+    have ha : raw2295 = raw2296 := by apply Matrix.ext; unfold raw2295 raw2296; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5291 = raw2296Labels := by decide +kernel
+    rw [ha, hj, canonical2296 B hB]
+  have hc1 : mixedMoment B raw2295 (Fin.cases (1 : Fin 2) singletonSmall5291) =
+      mixedMoment B node3582 node3582Labels := by
+    have ha : raw2295 = raw2297 := by apply Matrix.ext; unfold raw2295 raw2297; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5291 = raw2297Labels := by decide +kernel
+    rw [ha, hj, canonical2297 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+theorem singleton5304 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5304 node5304Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node2782 node2782Labels + mixedMoment B node3583 node3583Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2316 singletonSmall5304
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5304) = raw2316Labels := by decide +kernel
+  rw [hl, canonical2316 B hB] at h
+  have hc0 : mixedMoment B raw2316 (Fin.cases (0 : Fin 2) singletonSmall5304) =
+      mixedMoment B node2782 node2782Labels := by
+    have ha : raw2316 = raw2317 := by apply Matrix.ext; unfold raw2316 raw2317; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5304 = raw2317Labels := by decide +kernel
+    rw [ha, hj, canonical2317 B hB]
+  have hc1 : mixedMoment B raw2316 (Fin.cases (1 : Fin 2) singletonSmall5304) =
+      mixedMoment B node3583 node3583Labels := by
+    have ha : raw2316 = raw2318 := by apply Matrix.ext; unfold raw2316 raw2318; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5304 = raw2318Labels := by decide +kernel
+    rw [ha, hj, canonical2318 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Singletons84
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem singleton5384 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5384 node5384Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node3732 node3732Labels + mixedMoment B node3811 node3811Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2439 singletonSmall5384
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5384) = raw2439Labels := by decide +kernel
+  rw [hl, canonical2439 B hB] at h
+  have hc0 : mixedMoment B raw2439 (Fin.cases (0 : Fin 2) singletonSmall5384) =
+      mixedMoment B node3732 node3732Labels := by
+    have ha : raw2439 = raw2440 := by apply Matrix.ext; unfold raw2439 raw2440; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5384 = raw2440Labels := by decide +kernel
+    rw [ha, hj, canonical2440 B hB]
+  have hc1 : mixedMoment B raw2439 (Fin.cases (1 : Fin 2) singletonSmall5384) =
+      mixedMoment B node3811 node3811Labels := by
+    have ha : raw2439 = raw2441 := by apply Matrix.ext; unfold raw2439 raw2441; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5384 = raw2441Labels := by decide +kernel
+    rw [ha, hj, canonical2441 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+theorem singleton5400 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5400 node5400Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node3786 node3786Labels + mixedMoment B node3799 node3799Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2472 singletonSmall5400
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5400) = raw2472Labels := by decide +kernel
+  rw [hl, canonical2472 B hB] at h
+  have hc0 : mixedMoment B raw2472 (Fin.cases (0 : Fin 2) singletonSmall5400) =
+      mixedMoment B node3786 node3786Labels := by
+    have ha : raw2472 = raw2473 := by apply Matrix.ext; unfold raw2472 raw2473; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5400 = raw2473Labels := by decide +kernel
+    rw [ha, hj, canonical2473 B hB]
+  have hc1 : mixedMoment B raw2472 (Fin.cases (1 : Fin 2) singletonSmall5400) =
+      mixedMoment B node3799 node3799Labels := by
+    have ha : raw2472 = raw2474 := by apply Matrix.ext; unfold raw2472 raw2474; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5400 = raw2474Labels := by decide +kernel
+    rw [ha, hj, canonical2474 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+theorem singleton5432 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5432 node5432Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node3850 node3850Labels + mixedMoment B node3850 node3850Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2523 singletonSmall5432
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5432) = raw2523Labels := by decide +kernel
+  rw [hl, canonical2523 B hB] at h
+  have hc0 : mixedMoment B raw2523 (Fin.cases (0 : Fin 2) singletonSmall5432) =
+      mixedMoment B node3850 node3850Labels := by
+    have ha : raw2523 = raw2524 := by apply Matrix.ext; unfold raw2523 raw2524; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5432 = raw2524Labels := by decide +kernel
+    rw [ha, hj, canonical2524 B hB]
+  have hc1 : mixedMoment B raw2523 (Fin.cases (1 : Fin 2) singletonSmall5432) =
+      mixedMoment B node3850 node3850Labels := by
+    have ha : raw2523 = raw2525 := by apply Matrix.ext; unfold raw2523 raw2525; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5432 = raw2525Labels := by decide +kernel
+    rw [ha, hj, canonical2525 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+theorem singleton5438 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    mixedMoment B node5438 node5438Labels =
+      -(4 : ℝ)⁻¹ * (mixedMoment B node3857 node3857Labels + mixedMoment B node3876 node3876Labels) := by
+  have h := singleton_first (by decide : 2 < 6) B hB raw2538 singletonSmall5438
+    (by decide +kernel) (by decide +kernel)
+  have hl : Fin.cases 0 (Fin.succ ∘ singletonSmall5438) = raw2538Labels := by decide +kernel
+  rw [hl, canonical2538 B hB] at h
+  have hc0 : mixedMoment B raw2538 (Fin.cases (0 : Fin 2) singletonSmall5438) =
+      mixedMoment B node3857 node3857Labels := by
+    have ha : raw2538 = raw2539 := by apply Matrix.ext; unfold raw2538 raw2539; decide +kernel
+    have hj : Fin.cases (0 : Fin 2) singletonSmall5438 = raw2539Labels := by decide +kernel
+    rw [ha, hj, canonical2539 B hB]
+  have hc1 : mixedMoment B raw2538 (Fin.cases (1 : Fin 2) singletonSmall5438) =
+      mixedMoment B node3876 node3876Labels := by
+    have ha : raw2538 = raw2540 := by apply Matrix.ext; unfold raw2538 raw2540; decide +kernel
+    have hj : Fin.cases (1 : Fin 2) singletonSmall5438 = raw2540Labels := by decide +kernel
+    rw [ha, hj, canonical2540 B hB]
+  simp only [Fin.sum_univ_succ, Fin.sum_univ_zero, Fin.succ_zero_eq_one, add_zero] at h
+  rw [hc0, hc1] at h
+  exact h
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound20
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound1294 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node1294 node1294Labels = Sparse.eval nodeValue1294 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 1294) = mixedMoment B node1294 node1294Labels := rfl
+  simpa [nodeValue1294, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound38
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound2482 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node2482 node2482Labels = Sparse.eval nodeValue2482 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 2482) = mixedMoment B node2482 node2482Labels := rfl
+  simpa [nodeValue2482, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound39
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound2553 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node2553 node2553Labels = Sparse.eval nodeValue2553 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 2553) = mixedMoment B node2553 node2553Labels := rfl
+  simpa [nodeValue2553, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound40
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound2561 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node2561 node2561Labels = Sparse.eval nodeValue2561 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 2561) = mixedMoment B node2561 node2561Labels := rfl
+  simpa [nodeValue2561, Sparse.eval] using hc.symm
+
+theorem sound2590 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node2590 node2590Labels = Sparse.eval nodeValue2590 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 2590) = mixedMoment B node2590 node2590Labels := rfl
+  simpa [nodeValue2590, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound43
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound2765 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node2765 node2765Labels = Sparse.eval nodeValue2765 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 2765) = mixedMoment B node2765 node2765Labels := rfl
+  simpa [nodeValue2765, Sparse.eval] using hc.symm
+
+theorem sound2782 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node2782 node2782Labels = Sparse.eval nodeValue2782 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 2782) = mixedMoment B node2782 node2782Labels := rfl
+  simpa [nodeValue2782, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound51
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound3305 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3305 node3305Labels = Sparse.eval nodeValue3305 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3305) = mixedMoment B node3305 node3305Labels := rfl
+  simpa [nodeValue3305, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound54
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound3468 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3468 node3468Labels = Sparse.eval nodeValue3468 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3468) = mixedMoment B node3468 node3468Labels := rfl
+  simpa [nodeValue3468, Sparse.eval] using hc.symm
+
+theorem sound3514 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3514 node3514Labels = Sparse.eval nodeValue3514 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3514) = mixedMoment B node3514 node3514Labels := rfl
+  simpa [nodeValue3514, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound55
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound3522 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3522 node3522Labels = Sparse.eval nodeValue3522 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3522) = mixedMoment B node3522 node3522Labels := rfl
+  simpa [nodeValue3522, Sparse.eval] using hc.symm
+
+theorem sound3564 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3564 node3564Labels = Sparse.eval nodeValue3564 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3564) = mixedMoment B node3564 node3564Labels := rfl
+  simpa [nodeValue3564, Sparse.eval] using hc.symm
+
+theorem sound3582 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3582 node3582Labels = Sparse.eval nodeValue3582 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3582) = mixedMoment B node3582 node3582Labels := rfl
+  simpa [nodeValue3582, Sparse.eval] using hc.symm
+
+theorem sound3583 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3583 node3583Labels = Sparse.eval nodeValue3583 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3583) = mixedMoment B node3583 node3583Labels := rfl
+  simpa [nodeValue3583, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound58
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound3732 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3732 node3732Labels = Sparse.eval nodeValue3732 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3732) = mixedMoment B node3732 node3732Labels := rfl
+  simpa [nodeValue3732, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound59
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound3786 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3786 node3786Labels = Sparse.eval nodeValue3786 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3786) = mixedMoment B node3786 node3786Labels := rfl
+  simpa [nodeValue3786, Sparse.eval] using hc.symm
+
+theorem sound3799 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3799 node3799Labels = Sparse.eval nodeValue3799 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3799) = mixedMoment B node3799 node3799Labels := rfl
+  simpa [nodeValue3799, Sparse.eval] using hc.symm
+
+theorem sound3811 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3811 node3811Labels = Sparse.eval nodeValue3811 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3811) = mixedMoment B node3811 node3811Labels := rfl
+  simpa [nodeValue3811, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound60
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound3850 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3850 node3850Labels = Sparse.eval nodeValue3850 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3850) = mixedMoment B node3850 node3850Labels := rfl
+  simpa [nodeValue3850, Sparse.eval] using hc.symm
+
+theorem sound3857 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3857 node3857Labels = Sparse.eval nodeValue3857 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3857) = mixedMoment B node3857 node3857Labels := rfl
+  simpa [nodeValue3857, Sparse.eval] using hc.symm
+
+theorem sound3876 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node3876 node3876Labels = Sparse.eval nodeValue3876 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 3876) = mixedMoment B node3876 node3876Labels := rfl
+  simpa [nodeValue3876, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound71
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound4545 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4545 node4545Labels = Sparse.eval nodeValue4545 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4545) = mixedMoment B node4545 node4545Labels := rfl
+  simpa [nodeValue4545, Sparse.eval] using hc.symm
+
+theorem sound4547 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4547 node4547Labels = Sparse.eval nodeValue4547 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4547) = mixedMoment B node4547 node4547Labels := rfl
+  simpa [nodeValue4547, Sparse.eval] using hc.symm
+
+theorem sound4548 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4548 node4548Labels = Sparse.eval nodeValue4548 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4548) = mixedMoment B node4548 node4548Labels := rfl
+  simpa [nodeValue4548, Sparse.eval] using hc.symm
+
+theorem sound4556 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4556 node4556Labels = Sparse.eval nodeValue4556 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4556) = mixedMoment B node4556 node4556Labels := rfl
+  simpa [nodeValue4556, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound72
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound4619 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4619 node4619Labels = Sparse.eval nodeValue4619 (mixedVector B) := by
+  have h := singleton4619 B _hB
+  rw [sound1294 B _hB _hF, sound3305 B _hB _hF] at h
+  norm_num [nodeValue4619, nodeValue1294, nodeValue3305, Sparse.eval] at h ⊢
+  linarith only [h]
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound77
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound4963 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4963 node4963Labels = Sparse.eval nodeValue4963 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4963) = mixedMoment B node4963 node4963Labels := rfl
+  simpa [nodeValue4963, Sparse.eval] using hc.symm
+
+theorem sound4965 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4965 node4965Labels = Sparse.eval nodeValue4965 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4965) = mixedMoment B node4965 node4965Labels := rfl
+  simpa [nodeValue4965, Sparse.eval] using hc.symm
+
+theorem sound4966 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4966 node4966Labels = Sparse.eval nodeValue4966 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4966) = mixedMoment B node4966 node4966Labels := rfl
+  simpa [nodeValue4966, Sparse.eval] using hc.symm
+
+theorem sound4976 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node4976 node4976Labels = Sparse.eval nodeValue4976 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 4976) = mixedMoment B node4976 node4976Labels := rfl
+  simpa [nodeValue4976, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound78
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound5041 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5041 node5041Labels = Sparse.eval nodeValue5041 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5041) = mixedMoment B node5041 node5041Labels := rfl
+  simpa [nodeValue5041, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound79
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound5075 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5075 node5075Labels = Sparse.eval nodeValue5075 (mixedVector B) := by
+  have h := singleton5075 B _hB
+  rw [sound2482 B _hB _hF, sound3468 B _hB _hF] at h
+  norm_num [nodeValue5075, nodeValue2482, nodeValue3468, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5112 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5112 node5112Labels = Sparse.eval nodeValue5112 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5112) = mixedMoment B node5112 node5112Labels := rfl
+  simpa [nodeValue5112, Sparse.eval] using hc.symm
+
+theorem sound5116 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5116 node5116Labels = Sparse.eval nodeValue5116 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5116) = mixedMoment B node5116 node5116Labels := rfl
+  simpa [nodeValue5116, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound80
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound5134 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5134 node5134Labels = Sparse.eval nodeValue5134 (mixedVector B) := by
+  have h := singleton5134 B _hB
+  rw [sound2553 B _hB _hF, sound3514 B _hB _hF] at h
+  norm_num [nodeValue5134, nodeValue2553, nodeValue3514, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5141 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5141 node5141Labels = Sparse.eval nodeValue5141 (mixedVector B) := by
+  have h := singleton5141 B _hB
+  rw [sound2561 B _hB _hF, sound3522 B _hB _hF] at h
+  norm_num [nodeValue5141, nodeValue2561, nodeValue3522, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5144 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5144 node5144Labels = Sparse.eval nodeValue5144 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5144) = mixedMoment B node5144 node5144Labels := rfl
+  simpa [nodeValue5144, Sparse.eval] using hc.symm
+
+theorem sound5147 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5147 node5147Labels = Sparse.eval nodeValue5147 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5147) = mixedMoment B node5147 node5147Labels := rfl
+  simpa [nodeValue5147, Sparse.eval] using hc.symm
+
+theorem sound5151 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5151 node5151Labels = Sparse.eval nodeValue5151 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5151) = mixedMoment B node5151 node5151Labels := rfl
+  simpa [nodeValue5151, Sparse.eval] using hc.symm
+
+theorem sound5160 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5160 node5160Labels = Sparse.eval nodeValue5160 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5160) = mixedMoment B node5160 node5160Labels := rfl
+  simpa [nodeValue5160, Sparse.eval] using hc.symm
+
+theorem sound5163 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5163 node5163Labels = Sparse.eval nodeValue5163 (mixedVector B) := by
+  have h := singleton5163 B _hB
+  rw [sound2590 B _hB _hF, sound3564 B _hB _hF] at h
+  norm_num [nodeValue5163, nodeValue2590, nodeValue3564, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5164 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5164 node5164Labels = Sparse.eval nodeValue5164 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5164) = mixedMoment B node5164 node5164Labels := rfl
+  simpa [nodeValue5164, Sparse.eval] using hc.symm
+
+theorem sound5173 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5173 node5173Labels = Sparse.eval nodeValue5173 (mixedVector B) := by
+  have hc : mixedVector B (Sum.inr 5173) = mixedMoment B node5173 node5173Labels := rfl
+  simpa [nodeValue5173, Sparse.eval] using hc.symm
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Zeros82
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem zero5274 (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5274 node5274Labels = 0 := by
+  exact mixedMoment_order_one B hB node5274 node5274Labels 1
+    (by decide +kernel) (by decide +kernel)
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound82
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound5274 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5274 node5274Labels = Sparse.eval nodeValue5274 (mixedVector B) := by
+  simpa only [nodeValue5274, Sparse.eval_nil] using zero5274 B _hB _hF
+
+theorem sound5291 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5291 node5291Labels = Sparse.eval nodeValue5291 (mixedVector B) := by
+  have h := singleton5291 B _hB
+  rw [sound2765 B _hB _hF, sound3582 B _hB _hF] at h
+  norm_num [nodeValue5291, nodeValue2765, nodeValue3582, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5304 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5304 node5304Labels = Sparse.eval nodeValue5304 (mixedVector B) := by
+  have h := singleton5304 B _hB
+  rw [sound2782 B _hB _hF, sound3583 B _hB _hF] at h
+  norm_num [nodeValue5304, nodeValue2782, nodeValue3583, Sparse.eval] at h ⊢
+  linarith only [h]
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Zeros84
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem zero5409 (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5409 node5409Labels = 0 := by
+  exact mixedMoment_order_one B hB node5409 node5409Labels 1
+    (by decide +kernel) (by decide +kernel)
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sound84
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem sound5384 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5384 node5384Labels = Sparse.eval nodeValue5384 (mixedVector B) := by
+  have h := singleton5384 B _hB
+  rw [sound3732 B _hB _hF, sound3811 B _hB _hF] at h
+  norm_num [nodeValue5384, nodeValue3732, nodeValue3811, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5400 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5400 node5400Labels = Sparse.eval nodeValue5400 (mixedVector B) := by
+  have h := singleton5400 B _hB
+  rw [sound3786 B _hB _hF, sound3799 B _hB _hF] at h
+  norm_num [nodeValue5400, nodeValue3786, nodeValue3799, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5409 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5409 node5409Labels = Sparse.eval nodeValue5409 (mixedVector B) := by
+  simpa only [nodeValue5409, Sparse.eval_nil] using zero5409 B _hB _hF
+
+theorem sound5432 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5432 node5432Labels = Sparse.eval nodeValue5432 (mixedVector B) := by
+  have h := singleton5432 B _hB
+  rw [sound3850 B _hB _hF] at h
+  norm_num [nodeValue5432, nodeValue3850, Sparse.eval] at h ⊢
+  linarith only [h]
+
+theorem sound5438 (B : Fin 7 → Basis) (_hB : IsMUBFamily B)
+    (_hF : AllTransitionsFourierZero B) :
+    mixedMoment B node5438 node5438Labels = Sparse.eval nodeValue5438 (mixedVector B) := by
+  have h := singleton5438 B _hB
+  rw [sound3857 B _hB _hF, sound3876 B _hB _hF] at h
+  norm_num [nodeValue5438, nodeValue3857, nodeValue3876, Sparse.eval] at h ⊢
+  linarith only [h]
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_SourceRules
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+
+namespace MUB6.Certificate.MixedSemantics
+
+theorem offDiagSum_explicit (f : Coord → Coord → ℝ) :
+    offDiagSum f =
+      f 0 1 + f 0 2 + f 0 3 + f 0 4 + f 0 5 +
+      f 1 0 + f 1 2 + f 1 3 + f 1 4 + f 1 5 +
+      f 2 0 + f 2 1 + f 2 3 + f 2 4 + f 2 5 +
+      f 3 0 + f 3 1 + f 3 2 + f 3 4 + f 3 5 +
+      f 4 0 + f 4 1 + f 4 2 + f 4 3 + f 4 5 +
+      f 5 0 + f 5 1 + f 5 2 + f 5 3 + f 5 4 := by
+  unfold offDiagSum
+  simp only [Finset.sum_erase_eq_sub (Finset.mem_univ _), Fin.sum_univ_succ,
+    Fin.sum_univ_zero, add_zero]
+  simp only [Fin.succ, Nat.reduceAdd]
+  ring_nf
+  rfl
+
+end MUB6.Certificate.MixedSemantics
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSemantics_Sources74
+attribute [-simp] _root_.OAI.MUB6.TaoArithmetic.decode_encode _root_.OAI.MUB6.fixZeroPermutation_succ _root_.OAI.MUB6.fixZeroPermutation_zero
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSemantics
+
+open scoped BigOperators
+
+theorem sourceEq2391 (B : Fin 7 → Basis) (hB : IsMUBFamily B) :
+    Integer.Sparse.eval sourceForm2391 (mixedVector B) = 0 := by
+  have hm0 : mixedMoment B (tripleCharges (sourceA2391 + difference 0 1) (sourceB2391 + difference 1 0) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5384) := by
+    have ha : (tripleCharges (sourceA2391 + difference 0 1) (sourceB2391 + difference 1 0) sourceC2391) = raw32744 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32744; decide +kernel
+    rw [ha]
+    exact (canonical32744 B hB).trans rfl
+  have hm1 : mixedMoment B (tripleCharges (sourceA2391 + difference 0 2) (sourceB2391 + difference 2 0) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5400) := by
+    have ha : (tripleCharges (sourceA2391 + difference 0 2) (sourceB2391 + difference 2 0) sourceC2391) = raw32745 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32745; decide +kernel
+    rw [ha]
+    exact (canonical32745 B hB).trans rfl
+  have hm2 : mixedMoment B (tripleCharges (sourceA2391 + difference 0 3) (sourceB2391 + difference 3 0) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5432) := by
+    have ha : (tripleCharges (sourceA2391 + difference 0 3) (sourceB2391 + difference 3 0) sourceC2391) = raw32746 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32746; decide +kernel
+    rw [ha]
+    exact (canonical32746 B hB).trans rfl
+  have hm3 : mixedMoment B (tripleCharges (sourceA2391 + difference 0 4) (sourceB2391 + difference 4 0) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5409) := by
+    have ha : (tripleCharges (sourceA2391 + difference 0 4) (sourceB2391 + difference 4 0) sourceC2391) = raw32747 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32747; decide +kernel
+    rw [ha]
+    exact (canonical32747 B hB).trans rfl
+  have hm4 : mixedMoment B (tripleCharges (sourceA2391 + difference 0 5) (sourceB2391 + difference 5 0) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5438) := by
+    have ha : (tripleCharges (sourceA2391 + difference 0 5) (sourceB2391 + difference 5 0) sourceC2391) = raw32748 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32748; decide +kernel
+    rw [ha]
+    exact (canonical32748 B hB).trans rfl
+  have hm5 : mixedMoment B (tripleCharges (sourceA2391 + difference 1 0) (sourceB2391 + difference 0 1) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4619) := by
+    have ha : (tripleCharges (sourceA2391 + difference 1 0) (sourceB2391 + difference 0 1) sourceC2391) = raw32749 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32749; decide +kernel
+    rw [ha]
+    exact (canonical32749 B hB).trans rfl
+  have hm6 : mixedMoment B (tripleCharges (sourceA2391 + difference 1 2) (sourceB2391 + difference 2 1) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5163) := by
+    have ha : (tripleCharges (sourceA2391 + difference 1 2) (sourceB2391 + difference 2 1) sourceC2391) = raw24305 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24305; decide +kernel
+    rw [ha]
+    exact (canonical24305 B hB).trans rfl
+  have hm7 : mixedMoment B (tripleCharges (sourceA2391 + difference 1 3) (sourceB2391 + difference 3 1) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5291) := by
+    have ha : (tripleCharges (sourceA2391 + difference 1 3) (sourceB2391 + difference 3 1) sourceC2391) = raw24306 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24306; decide +kernel
+    rw [ha]
+    exact (canonical24306 B hB).trans rfl
+  have hm8 : mixedMoment B (tripleCharges (sourceA2391 + difference 1 4) (sourceB2391 + difference 4 1) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5274) := by
+    have ha : (tripleCharges (sourceA2391 + difference 1 4) (sourceB2391 + difference 4 1) sourceC2391) = raw24307 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24307; decide +kernel
+    rw [ha]
+    exact (canonical24307 B hB).trans rfl
+  have hm9 : mixedMoment B (tripleCharges (sourceA2391 + difference 1 5) (sourceB2391 + difference 5 1) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5304) := by
+    have ha : (tripleCharges (sourceA2391 + difference 1 5) (sourceB2391 + difference 5 1) sourceC2391) = raw24308 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24308; decide +kernel
+    rw [ha]
+    exact (canonical24308 B hB).trans rfl
+  have hm10 : mixedMoment B (tripleCharges (sourceA2391 + difference 2 0) (sourceB2391 + difference 0 2) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4545) := by
+    have ha : (tripleCharges (sourceA2391 + difference 2 0) (sourceB2391 + difference 0 2) sourceC2391) = raw24315 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24315; decide +kernel
+    rw [ha]
+    exact (canonical24315 B hB).trans rfl
+  have hm11 : mixedMoment B (tripleCharges (sourceA2391 + difference 2 1) (sourceB2391 + difference 1 2) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4963) := by
+    have ha : (tripleCharges (sourceA2391 + difference 2 1) (sourceB2391 + difference 1 2) sourceC2391) = raw32750 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32750; decide +kernel
+    rw [ha]
+    exact (canonical32750 B hB).trans rfl
+  have hm12 : mixedMoment B (tripleCharges (sourceA2391 + difference 2 3) (sourceB2391 + difference 3 2) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5144) := by
+    have ha : (tripleCharges (sourceA2391 + difference 2 3) (sourceB2391 + difference 3 2) sourceC2391) = raw32751 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32751; decide +kernel
+    rw [ha]
+    exact (canonical32751 B hB).trans rfl
+  have hm13 : mixedMoment B (tripleCharges (sourceA2391 + difference 2 4) (sourceB2391 + difference 4 2) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5134) := by
+    have ha : (tripleCharges (sourceA2391 + difference 2 4) (sourceB2391 + difference 4 2) sourceC2391) = raw32752 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32752; decide +kernel
+    rw [ha]
+    exact (canonical32752 B hB).trans rfl
+  have hm14 : mixedMoment B (tripleCharges (sourceA2391 + difference 2 5) (sourceB2391 + difference 5 2) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5160) := by
+    have ha : (tripleCharges (sourceA2391 + difference 2 5) (sourceB2391 + difference 5 2) sourceC2391) = raw32753 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32753; decide +kernel
+    rw [ha]
+    exact (canonical32753 B hB).trans rfl
+  have hm15 : mixedMoment B (tripleCharges (sourceA2391 + difference 3 0) (sourceB2391 + difference 0 3) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4556) := by
+    have ha : (tripleCharges (sourceA2391 + difference 3 0) (sourceB2391 + difference 0 3) sourceC2391) = raw24320 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24320; decide +kernel
+    rw [ha]
+    exact (canonical24320 B hB).trans rfl
+  have hm16 : mixedMoment B (tripleCharges (sourceA2391 + difference 3 1) (sourceB2391 + difference 1 3) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4966) := by
+    have ha : (tripleCharges (sourceA2391 + difference 3 1) (sourceB2391 + difference 1 3) sourceC2391) = raw32754 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32754; decide +kernel
+    rw [ha]
+    exact (canonical32754 B hB).trans rfl
+  have hm17 : mixedMoment B (tripleCharges (sourceA2391 + difference 3 2) (sourceB2391 + difference 2 3) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5112) := by
+    have ha : (tripleCharges (sourceA2391 + difference 3 2) (sourceB2391 + difference 2 3) sourceC2391) = raw32755 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32755; decide +kernel
+    rw [ha]
+    exact (canonical32755 B hB).trans rfl
+  have hm18 : mixedMoment B (tripleCharges (sourceA2391 + difference 3 4) (sourceB2391 + difference 4 3) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5141) := by
+    have ha : (tripleCharges (sourceA2391 + difference 3 4) (sourceB2391 + difference 4 3) sourceC2391) = raw32756 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32756; decide +kernel
+    rw [ha]
+    exact (canonical32756 B hB).trans rfl
+  have hm19 : mixedMoment B (tripleCharges (sourceA2391 + difference 3 5) (sourceB2391 + difference 5 3) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5164) := by
+    have ha : (tripleCharges (sourceA2391 + difference 3 5) (sourceB2391 + difference 5 3) sourceC2391) = raw32757 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32757; decide +kernel
+    rw [ha]
+    exact (canonical32757 B hB).trans rfl
+  have hm20 : mixedMoment B (tripleCharges (sourceA2391 + difference 4 0) (sourceB2391 + difference 0 4) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4548) := by
+    have ha : (tripleCharges (sourceA2391 + difference 4 0) (sourceB2391 + difference 0 4) sourceC2391) = raw24325 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24325; decide +kernel
+    rw [ha]
+    exact (canonical24325 B hB).trans rfl
+  have hm21 : mixedMoment B (tripleCharges (sourceA2391 + difference 4 1) (sourceB2391 + difference 1 4) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4976) := by
+    have ha : (tripleCharges (sourceA2391 + difference 4 1) (sourceB2391 + difference 1 4) sourceC2391) = raw32758 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32758; decide +kernel
+    rw [ha]
+    exact (canonical32758 B hB).trans rfl
+  have hm22 : mixedMoment B (tripleCharges (sourceA2391 + difference 4 2) (sourceB2391 + difference 2 4) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5116) := by
+    have ha : (tripleCharges (sourceA2391 + difference 4 2) (sourceB2391 + difference 2 4) sourceC2391) = raw32759 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32759; decide +kernel
+    rw [ha]
+    exact (canonical32759 B hB).trans rfl
+  have hm23 : mixedMoment B (tripleCharges (sourceA2391 + difference 4 3) (sourceB2391 + difference 3 4) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5151) := by
+    have ha : (tripleCharges (sourceA2391 + difference 4 3) (sourceB2391 + difference 3 4) sourceC2391) = raw32760 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32760; decide +kernel
+    rw [ha]
+    exact (canonical32760 B hB).trans rfl
+  have hm24 : mixedMoment B (tripleCharges (sourceA2391 + difference 4 5) (sourceB2391 + difference 5 4) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5173) := by
+    have ha : (tripleCharges (sourceA2391 + difference 4 5) (sourceB2391 + difference 5 4) sourceC2391) = raw32761 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32761; decide +kernel
+    rw [ha]
+    exact (canonical32761 B hB).trans rfl
+  have hm25 : mixedMoment B (tripleCharges (sourceA2391 + difference 5 0) (sourceB2391 + difference 0 5) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4547) := by
+    have ha : (tripleCharges (sourceA2391 + difference 5 0) (sourceB2391 + difference 0 5) sourceC2391) = raw24330 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw24330; decide +kernel
+    rw [ha]
+    exact (canonical24330 B hB).trans rfl
+  have hm26 : mixedMoment B (tripleCharges (sourceA2391 + difference 5 1) (sourceB2391 + difference 1 5) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 4965) := by
+    have ha : (tripleCharges (sourceA2391 + difference 5 1) (sourceB2391 + difference 1 5) sourceC2391) = raw32762 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32762; decide +kernel
+    rw [ha]
+    exact (canonical32762 B hB).trans rfl
+  have hm27 : mixedMoment B (tripleCharges (sourceA2391 + difference 5 2) (sourceB2391 + difference 2 5) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5041) := by
+    have ha : (tripleCharges (sourceA2391 + difference 5 2) (sourceB2391 + difference 2 5) sourceC2391) = raw32763 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32763; decide +kernel
+    rw [ha]
+    exact (canonical32763 B hB).trans rfl
+  have hm28 : mixedMoment B (tripleCharges (sourceA2391 + difference 5 3) (sourceB2391 + difference 3 5) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5147) := by
+    have ha : (tripleCharges (sourceA2391 + difference 5 3) (sourceB2391 + difference 3 5) sourceC2391) = raw32764 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32764; decide +kernel
+    rw [ha]
+    exact (canonical32764 B hB).trans rfl
+  have hm29 : mixedMoment B (tripleCharges (sourceA2391 + difference 5 4) (sourceB2391 + difference 4 5) sourceC2391) (![0, 1, 2] : Fin 3 → Fin 3) =
+      mixedVector B (Sum.inr 5075) := by
+    have ha : (tripleCharges (sourceA2391 + difference 5 4) (sourceB2391 + difference 4 5) sourceC2391) = raw32765 := by
+      apply Matrix.ext; unfold tripleCharges sourceA2391 sourceB2391 sourceC2391 difference raw32765; decide +kernel
+    rw [ha]
+    exact (canonical32765 B hB).trans rfl
+  have hs := mixedMoment_different B hB sourceA2391 sourceB2391 sourceC2391
+    (0 : Fin 3) 1 2 (by decide)
+  rw [offDiagSum_explicit] at hs
+  rw [hm0, hm1, hm2, hm3, hm4, hm5, hm6, hm7, hm8, hm9, hm10, hm11, hm12, hm13, hm14, hm15, hm16, hm17, hm18, hm19, hm20, hm21, hm22, hm23, hm24, hm25, hm26, hm27, hm28, hm29] at hs
+  norm_num [sourceForm2391, Integer.Sparse.eval]
+  linarith only [hs]
+
+end MUB6.Certificate.MixedSemantics
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSources_Arithmetic121
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSourceBridge
+
+open MixedSemantics
+
+theorem reindexCheck1941 : Integer.Sparse.reindex keyMap MixedData.row1941 = numericRow1941 := by decide +kernel
+
+theorem numericCheck1941 (x : Master → ℝ) : Integer.Sparse.eval numericRow1941 x =
+    (4 : ℝ) * reducedSource1941 x := by
+  norm_num [numericRow1941, reducedSource1941, Integer.Sparse.eval, Sparse.eval, nodeValue4545, nodeValue4547, nodeValue4548, nodeValue4556, nodeValue4619, nodeValue4963, nodeValue4965, nodeValue4966, nodeValue4976, nodeValue5041, nodeValue5075, nodeValue5112, nodeValue5116, nodeValue5134, nodeValue5141, nodeValue5144, nodeValue5147, nodeValue5151, nodeValue5160, nodeValue5163, nodeValue5164, nodeValue5173, nodeValue5274, nodeValue5291, nodeValue5304, nodeValue5384, nodeValue5400, nodeValue5409, nodeValue5432, nodeValue5438]
+  ring
+
+end MUB6.Certificate.MixedSourceBridge
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_MixedSources_Rows121
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.MixedSourceBridge
+
+open MixedSemantics
+
+theorem reducedZero1941 (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (hF : AllTransitionsFourierZero B) :
+    reducedSource1941 (mixedVector B) = 0 := by
+  have h4545 : mixedVector B (Sum.inr 4545) = Sparse.eval nodeValue4545 (mixedVector B) := by
+    change mixedMoment B node4545 node4545Labels = _
+    exact sound4545 B hB hF
+  have h4547 : mixedVector B (Sum.inr 4547) = Sparse.eval nodeValue4547 (mixedVector B) := by
+    change mixedMoment B node4547 node4547Labels = _
+    exact sound4547 B hB hF
+  have h4548 : mixedVector B (Sum.inr 4548) = Sparse.eval nodeValue4548 (mixedVector B) := by
+    change mixedMoment B node4548 node4548Labels = _
+    exact sound4548 B hB hF
+  have h4556 : mixedVector B (Sum.inr 4556) = Sparse.eval nodeValue4556 (mixedVector B) := by
+    change mixedMoment B node4556 node4556Labels = _
+    exact sound4556 B hB hF
+  have h4619 : mixedVector B (Sum.inr 4619) = Sparse.eval nodeValue4619 (mixedVector B) := by
+    change mixedMoment B node4619 node4619Labels = _
+    exact sound4619 B hB hF
+  have h4963 : mixedVector B (Sum.inr 4963) = Sparse.eval nodeValue4963 (mixedVector B) := by
+    change mixedMoment B node4963 node4963Labels = _
+    exact sound4963 B hB hF
+  have h4965 : mixedVector B (Sum.inr 4965) = Sparse.eval nodeValue4965 (mixedVector B) := by
+    change mixedMoment B node4965 node4965Labels = _
+    exact sound4965 B hB hF
+  have h4966 : mixedVector B (Sum.inr 4966) = Sparse.eval nodeValue4966 (mixedVector B) := by
+    change mixedMoment B node4966 node4966Labels = _
+    exact sound4966 B hB hF
+  have h4976 : mixedVector B (Sum.inr 4976) = Sparse.eval nodeValue4976 (mixedVector B) := by
+    change mixedMoment B node4976 node4976Labels = _
+    exact sound4976 B hB hF
+  have h5041 : mixedVector B (Sum.inr 5041) = Sparse.eval nodeValue5041 (mixedVector B) := by
+    change mixedMoment B node5041 node5041Labels = _
+    exact sound5041 B hB hF
+  have h5075 : mixedVector B (Sum.inr 5075) = Sparse.eval nodeValue5075 (mixedVector B) := by
+    change mixedMoment B node5075 node5075Labels = _
+    exact sound5075 B hB hF
+  have h5112 : mixedVector B (Sum.inr 5112) = Sparse.eval nodeValue5112 (mixedVector B) := by
+    change mixedMoment B node5112 node5112Labels = _
+    exact sound5112 B hB hF
+  have h5116 : mixedVector B (Sum.inr 5116) = Sparse.eval nodeValue5116 (mixedVector B) := by
+    change mixedMoment B node5116 node5116Labels = _
+    exact sound5116 B hB hF
+  have h5134 : mixedVector B (Sum.inr 5134) = Sparse.eval nodeValue5134 (mixedVector B) := by
+    change mixedMoment B node5134 node5134Labels = _
+    exact sound5134 B hB hF
+  have h5141 : mixedVector B (Sum.inr 5141) = Sparse.eval nodeValue5141 (mixedVector B) := by
+    change mixedMoment B node5141 node5141Labels = _
+    exact sound5141 B hB hF
+  have h5144 : mixedVector B (Sum.inr 5144) = Sparse.eval nodeValue5144 (mixedVector B) := by
+    change mixedMoment B node5144 node5144Labels = _
+    exact sound5144 B hB hF
+  have h5147 : mixedVector B (Sum.inr 5147) = Sparse.eval nodeValue5147 (mixedVector B) := by
+    change mixedMoment B node5147 node5147Labels = _
+    exact sound5147 B hB hF
+  have h5151 : mixedVector B (Sum.inr 5151) = Sparse.eval nodeValue5151 (mixedVector B) := by
+    change mixedMoment B node5151 node5151Labels = _
+    exact sound5151 B hB hF
+  have h5160 : mixedVector B (Sum.inr 5160) = Sparse.eval nodeValue5160 (mixedVector B) := by
+    change mixedMoment B node5160 node5160Labels = _
+    exact sound5160 B hB hF
+  have h5163 : mixedVector B (Sum.inr 5163) = Sparse.eval nodeValue5163 (mixedVector B) := by
+    change mixedMoment B node5163 node5163Labels = _
+    exact sound5163 B hB hF
+  have h5164 : mixedVector B (Sum.inr 5164) = Sparse.eval nodeValue5164 (mixedVector B) := by
+    change mixedMoment B node5164 node5164Labels = _
+    exact sound5164 B hB hF
+  have h5173 : mixedVector B (Sum.inr 5173) = Sparse.eval nodeValue5173 (mixedVector B) := by
+    change mixedMoment B node5173 node5173Labels = _
+    exact sound5173 B hB hF
+  have h5274 : mixedVector B (Sum.inr 5274) = Sparse.eval nodeValue5274 (mixedVector B) := by
+    change mixedMoment B node5274 node5274Labels = _
+    exact sound5274 B hB hF
+  have h5291 : mixedVector B (Sum.inr 5291) = Sparse.eval nodeValue5291 (mixedVector B) := by
+    change mixedMoment B node5291 node5291Labels = _
+    exact sound5291 B hB hF
+  have h5304 : mixedVector B (Sum.inr 5304) = Sparse.eval nodeValue5304 (mixedVector B) := by
+    change mixedMoment B node5304 node5304Labels = _
+    exact sound5304 B hB hF
+  have h5384 : mixedVector B (Sum.inr 5384) = Sparse.eval nodeValue5384 (mixedVector B) := by
+    change mixedMoment B node5384 node5384Labels = _
+    exact sound5384 B hB hF
+  have h5400 : mixedVector B (Sum.inr 5400) = Sparse.eval nodeValue5400 (mixedVector B) := by
+    change mixedMoment B node5400 node5400Labels = _
+    exact sound5400 B hB hF
+  have h5409 : mixedVector B (Sum.inr 5409) = Sparse.eval nodeValue5409 (mixedVector B) := by
+    change mixedMoment B node5409 node5409Labels = _
+    exact sound5409 B hB hF
+  have h5432 : mixedVector B (Sum.inr 5432) = Sparse.eval nodeValue5432 (mixedVector B) := by
+    change mixedMoment B node5432 node5432Labels = _
+    exact sound5432 B hB hF
+  have h5438 : mixedVector B (Sum.inr 5438) = Sparse.eval nodeValue5438 (mixedVector B) := by
+    change mixedMoment B node5438 node5438Labels = _
+    exact sound5438 B hB hF
+  simpa only [sourceForm2391, Integer.Sparse.eval, List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+    Prod.fst, Prod.snd, Int.cast_ofNat, Int.cast_neg, Int.cast_one, Int.cast_zero, h4545, h4547, h4548, h4556, h4619, h4963, h4965, h4966, h4976, h5041, h5075, h5112, h5116, h5134, h5141, h5144, h5147, h5151, h5160, h5163, h5164, h5173, h5274, h5291, h5304, h5384, h5400, h5409, h5432, h5438, reducedSource1941] using sourceEq2391 B hB
+
+theorem rowSound1941_e_oai (B : Fin 7 → Basis) (hB : IsMUBFamily B)
+    (hF : AllTransitionsFourierZero B) :
+    Integer.Sparse.eval MixedData.row1941 (numericVector B) = 0 := by
+  rw [integer_eval_numericVector, reindexCheck1941, numericCheck1941, reducedZero1941 B hB hF, mul_zero]
+
+end MUB6.Certificate.MixedSourceBridge
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.MUB6.Certificate.MixedSourceBridge.rowSound1941_e_oai := @OAI.MUB6.Certificate.MixedSourceBridge.rowSound1941_e_oai

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_skeleton_equivalence_extends
 -- name    : Grunbaum2003.skeleton_equivalence_extends
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T07:05:05.469668+00:00
 -- url     : https://prove2.me/theorems/0f19ac90-3555-426e-80b2-cd795b676ea9

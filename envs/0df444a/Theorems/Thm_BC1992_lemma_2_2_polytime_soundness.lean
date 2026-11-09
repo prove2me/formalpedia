@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BC1992_lemma_2_2_polytime_soundness
 -- name    : BC1992.lemma_2_2_polytime_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T00:36:57.550207+00:00
 -- url     : https://prove2.me/theorems/32d5655e-2a5c-4608-bf1f-83fac502d3f0

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MetricalTaskSystem.Randomized.uniform_randomizedRatio_bounds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-28T09:56:22.120623+00:00
 -- url     : https://prove2.me/submissions/bb487840-18b2-46a0-aecc-c5710cffa46c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_MetricalTaskSystem_Randomized_Model
 import Definitions.Def_MetricalTaskSystem_Randomized_RandomizedAlgorithm

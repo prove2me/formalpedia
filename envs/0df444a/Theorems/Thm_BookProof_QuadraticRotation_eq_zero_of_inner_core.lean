@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_eq_zero_of_inner_core
 -- name    : BookProof.QuadraticRotation.eq_zero_of_inner_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T00:27:01.364208+00:00
 -- url     : https://prove2.me/theorems/7f87e95f-2f77-4b6e-bed4-ab76dc603714

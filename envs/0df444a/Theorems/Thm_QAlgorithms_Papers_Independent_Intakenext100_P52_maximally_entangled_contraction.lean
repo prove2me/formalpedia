@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_maximally_entangled_contraction
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.maximally_entangled_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:30:48.292551+00:00
 -- url     : https://prove2.me/theorems/7ea3dd5e-b536-478e-939d-51906fbaf3cb

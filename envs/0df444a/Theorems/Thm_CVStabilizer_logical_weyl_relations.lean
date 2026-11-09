@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVStabilizer_logical_weyl_relations
 -- name    : CVStabilizer.logical_weyl_relations
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:21:08.801428+00:00
 -- url     : https://prove2.me/theorems/52ce9f9f-a4d3-4cc3-9aa5-b336550c4b8f

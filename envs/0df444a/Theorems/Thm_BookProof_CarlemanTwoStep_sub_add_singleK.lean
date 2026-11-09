@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_sub_add_singleK
 -- name    : BookProof.CarlemanTwoStep.sub_add_singleK
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:49:34.869304+00:00
 -- url     : https://prove2.me/theorems/6e81d9fe-6c07-4ab4-804e-d66377ed5ff1

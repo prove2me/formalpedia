@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Couret_Certificate_state_row_50
+-- name    : Couret.Certificate.state_row_50
+-- status  : Proved
+-- author  : @alexcour
+-- created : 2026-11-08T20:23:30.846273+00:00
+-- url     : https://prove2.me/theorems/8250564f-6c5c-4cc8-84e6-8e8ead6498aa
+-- title:
+--   Finite-state certificate facts for state 50
+-- statement:
+--   For state $i=50$ of the specified 147-state automaton over eight symbols: every transition index is less than 147; its quotient-class index is less than 101; locating its encoded entry returns $i$; the entry is empty exactly when $i=0$; every symbol transition satisfies the encoded semantic step relation; and running its prescribed reachability word from state zero reaches $i$. That word is nonempty if $i\ne0$. The tabulated output equals both the output-mask observation and the presence count. For every symbol, taking its transition and then its quotient class equals taking the quotient transition, and the state output equals its class output.
+--
+--   $$0\le i=50<147.$$
+--
+--   This certifies a single explicit automaton row, including its reachability and semantic consistency.
+-- source:
+--   Alexandre Couret, Certified minimal memory for a divisor-residue presence observable modulo 30, https://zenodo.org/records/23989640; archive Couret_BC_MOD30_Companion_20261105.zip, SHA-256 9bb2678164c63a9e47c192093f5ce9deb1b7b74a1f1c8fecc77f305a408266a2; file source/S4/StateCheck07.lean, lines 8–8; source file SHA-256 9695675763ea2d18d93d8ebe8b490d0ac88e50351df658466b8aa1afa38e70c1; theorem Couret.Certificate.state_row_50
+
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+import Std
+import Definitions.Def_Couret_CertificateData_653c7a96c17c
+set_option maxRecDepth 32768
+set_option maxHeartbeats 16000000
+namespace Couret
+namespace Certificate
+
+theorem state_row_50 : StateFacts 50 := by sorry
+
+
+
+
+
+
+
+end Certificate
+end Couret

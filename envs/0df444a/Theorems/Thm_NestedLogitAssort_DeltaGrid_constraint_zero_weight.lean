@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_constraint_zero_weight
 -- name    : NestedLogitAssort.DeltaGrid.constraint_zero_weight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:13:00.865159+00:00
 -- url     : https://prove2.me/theorems/1372fae4-fc87-494a-aa77-b9370f79a019

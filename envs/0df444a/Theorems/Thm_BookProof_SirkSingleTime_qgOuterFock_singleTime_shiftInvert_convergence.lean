@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SirkSingleTime_qgOuterFock_singleTime_shiftInvert_convergence
 -- name    : BookProof.SirkSingleTime.qgOuterFock_singleTime_shiftInvert_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-02T11:17:30.742859+00:00
 -- url     : https://prove2.me/theorems/1d0b9b8d-04c6-43eb-bb54-b709f3ede5f4

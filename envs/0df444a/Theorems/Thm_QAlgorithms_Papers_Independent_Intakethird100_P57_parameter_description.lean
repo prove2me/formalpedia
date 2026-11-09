@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P57_parameter_description
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P57.parameter_description
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:08:42.282495+00:00
 -- url     : https://prove2.me/theorems/6c4ca3a3-e39f-405b-958f-e3e326fe2461

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_add_edge_between_unreachable__p2m_69b1ec23_7e07_4ae5_a2a3_1213925ce8f9_a1
 -- name    : WilliamsonShmoys.planar_drawing_add_edge_between_unreachable__p2m_69b1ec23_7e07_4ae5_a2a3_1213925ce8f9_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:01:53.475389+00:00
 -- url     : https://prove2.me/theorems/90606238-5f2e-48e5-b7d6-6d686b1c2a5f

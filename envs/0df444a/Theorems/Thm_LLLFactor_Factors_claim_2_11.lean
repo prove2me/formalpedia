@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Factors_claim_2_11
 -- name    : LLLFactor.Factors.claim_2_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:20:35.852122+00:00
 -- url     : https://prove2.me/theorems/a338a6e1-de7d-4053-bba8-51e20353e5fc

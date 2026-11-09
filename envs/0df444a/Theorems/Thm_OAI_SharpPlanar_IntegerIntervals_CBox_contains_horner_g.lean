@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerIntervals_CBox_contains_horner_g
 -- name    : OAI.SharpPlanar.IntegerIntervals.CBox.contains_horner_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:58:46.912339+00:00
 -- url     : https://prove2.me/theorems/7c50ba63-3e93-4602-96ff-50459937466e
