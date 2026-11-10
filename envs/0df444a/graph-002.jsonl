@@ -73873,7 +73873,7 @@
 {"parent": "LiuPass.condEPPRG_of_owf", "child": "LiuPass_crypto", "via": ["solution", "statement"]}
 {"parent": "LiuPass.entropy_ge_of_statDist_le", "child": "LiuPass_crypto", "via": ["solution", "statement"]}
 {"parent": "LiuPass.exists_regular_dense_domain", "child": "LiuPass_crypto", "via": ["solution", "statement"]}
-{"parent": "LiuPass.mildlyHoAApprox_of_condEPPRG", "child": "LiuPass_crypto", "via": ["statement"]}
+{"parent": "LiuPass.mildlyHoAApprox_of_condEPPRG", "child": "LiuPass_crypto", "via": ["solution", "statement"]}
 {"parent": "LiuPass.owf_iff_Kt_mildly_HoA", "child": "LiuPass_crypto", "via": ["solution", "statement"]}
 {"parent": "LiuPass.owf_of_weakOWF", "child": "LiuPass_crypto", "via": ["solution", "statement"]}
 {"parent": "LiuPass.rate1_condEPPRG_of_owf", "child": "LiuPass_crypto", "via": ["solution", "statement"]}

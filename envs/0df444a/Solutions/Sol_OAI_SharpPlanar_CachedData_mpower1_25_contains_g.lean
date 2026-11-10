@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.CachedData.mpower1_25_contains_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-08T21:14:17.158427+00:00
 -- url     : https://prove2.me/submissions/c3e1a3f1-4360-4739-9683-0429571c5172
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G072

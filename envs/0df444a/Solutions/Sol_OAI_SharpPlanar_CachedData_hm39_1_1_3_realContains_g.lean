@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.CachedData.hm39_1_1_3.realContains_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-08T22:27:14.932711+00:00
 -- url     : https://prove2.me/submissions/e42060b3-1f91-4e7e-a11a-7bda0878e140
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G079

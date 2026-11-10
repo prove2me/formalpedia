@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_exists_stellar_subdivision_face_finset_bijection
 -- name    : Grunbaum2003.exists_stellar_subdivision_face_finset_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:23:33.5102+00:00
 -- url     : https://prove2.me/theorems/78c0415b-cc84-4323-a195-9e5f659d5db2

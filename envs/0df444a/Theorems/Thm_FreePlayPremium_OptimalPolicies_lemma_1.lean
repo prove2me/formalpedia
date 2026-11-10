@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreePlayPremium_OptimalPolicies_lemma_1
 -- name    : FreePlayPremium.OptimalPolicies.lemma_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T23:28:11.120386+00:00
 -- url     : https://prove2.me/theorems/5413f342-f924-49b2-8454-a7ed5d37e918

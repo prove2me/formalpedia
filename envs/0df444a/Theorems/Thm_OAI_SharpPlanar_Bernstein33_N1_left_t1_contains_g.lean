@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Bernstein33_N1_left_t1_contains_g
 -- name    : OAI.SharpPlanar.Bernstein33.N1_left.t1_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T02:56:30.977212+00:00
 -- url     : https://prove2.me/theorems/1d9ca624-cf90-4dd1-ac8d-5d526fbe205c

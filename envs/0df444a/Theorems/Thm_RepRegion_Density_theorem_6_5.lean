@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepRegion_Density_theorem_6_5
 -- name    : RepRegion.Density.theorem_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:17:14.298929+00:00
 -- url     : https://prove2.me/theorems/d087f981-a981-4fd0-b128-31965d8a4fff

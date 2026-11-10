@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Covering_robust_risk_certificate
 -- name    : VarianceRegularization.Covering.robust_risk_certificate
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:41:24.553932+00:00
 -- url     : https://prove2.me/theorems/28d2c5a7-d430-4163-9e9c-d30904e673e2

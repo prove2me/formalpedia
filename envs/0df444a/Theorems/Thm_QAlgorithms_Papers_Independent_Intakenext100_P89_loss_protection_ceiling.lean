@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P89_loss_protection_ceiling
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P89.loss_protection_ceiling
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:30:30.655498+00:00
 -- url     : https://prove2.me/theorems/c22b68e9-9cf2-4b48-91f7-9701b6015517

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_closure_action_preserves_homogeneous_ideal
 -- name    : PhilipponMultiplicity.closure_action_preserves_homogeneous_ideal
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-10-02T08:25:08.486637+00:00
 -- url     : https://prove2.me/theorems/682402e1-74ab-4a98-8de7-5c66bea63613

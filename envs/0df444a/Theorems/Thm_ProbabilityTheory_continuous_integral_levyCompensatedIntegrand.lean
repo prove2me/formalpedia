@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbabilityTheory_continuous_integral_levyCompensatedIntegrand
 -- name    : ProbabilityTheory.continuous_integral_levyCompensatedIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-31T10:54:51.749215+00:00
 -- url     : https://prove2.me/theorems/5a1f13fc-850d-419c-ad09-64568f15700f

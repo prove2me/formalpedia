@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_exists_stellar_subdivision_cone_decomposition
 -- name    : Grunbaum2003.exists_stellar_subdivision_cone_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:44:18.544515+00:00
 -- url     : https://prove2.me/theorems/66fedc85-e2bf-44b8-9b3b-9e7d0d908ec9

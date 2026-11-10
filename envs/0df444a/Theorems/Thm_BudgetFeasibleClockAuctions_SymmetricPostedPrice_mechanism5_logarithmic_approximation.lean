@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetFeasibleClockAuctions_SymmetricPostedPrice_mechanism5_logarithmic_approximation
 -- name    : BudgetFeasibleClockAuctions.SymmetricPostedPrice.mechanism5_logarithmic_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:34:46.448993+00:00
 -- url     : https://prove2.me/theorems/a7bc7c0d-0150-480c-8029-bd5e2cc24e16

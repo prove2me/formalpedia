@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSurvey_Affine_theorem_6
 -- name    : RobustSurvey.Affine.theorem_6
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:03:49.718848+00:00
 -- url     : https://prove2.me/theorems/a01a7c57-3626-47f8-89c8-9cac8460201e

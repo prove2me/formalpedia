@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P47_nonuniform_input_entropy
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P47.nonuniform_input_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:38:00.234296+00:00
 -- url     : https://prove2.me/theorems/53a0a59f-d65b-4180-ae28-4ccfb89c1631

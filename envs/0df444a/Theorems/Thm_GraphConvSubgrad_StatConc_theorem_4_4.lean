@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphConvSubgrad_StatConc_theorem_4_4
 -- name    : GraphConvSubgrad.StatConc.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:05:20.590314+00:00
 -- url     : https://prove2.me/theorems/d003fcb7-6c2c-4293-bfee-8040e7a24752

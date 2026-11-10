@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_exists_stellar_subdivision_simplicial_polytope
 -- name    : Grunbaum2003.exists_stellar_subdivision_simplicial_polytope
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:13:05.377259+00:00
 -- url     : https://prove2.me/theorems/46bf8420-709c-4b57-9c42-182259e829c5

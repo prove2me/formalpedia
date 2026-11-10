@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_measurable_spectral_bijection
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.measurable_spectral_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:32:39.132727+00:00
 -- url     : https://prove2.me/theorems/01dc4f67-6524-49e5-8e11-bae25c70f987

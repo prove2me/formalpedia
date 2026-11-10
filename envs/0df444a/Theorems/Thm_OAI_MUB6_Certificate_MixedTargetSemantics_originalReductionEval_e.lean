@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedTargetSemantics_originalReductionEval_e
 -- name    : OAI.MUB6.Certificate.MixedTargetSemantics.originalReductionEval_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:48:21.236113+00:00
 -- url     : https://prove2.me/theorems/ef9cc19b-f61e-4dfd-9c64-897d7ce02aec

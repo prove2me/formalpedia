@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodOrder_query_count
 -- name    : SubmodOrder.query_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:38:45.42775+00:00
 -- url     : https://prove2.me/theorems/72f43b43-36c4-4531-a1dd-791c12279d1b

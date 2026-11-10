@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_IID_lemma_B_1
 -- name    : RobustSPA.IID.lemma_B_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:54.25699+00:00
 -- url     : https://prove2.me/theorems/f12c9cad-d714-4f97-b208-250bed7e12a0

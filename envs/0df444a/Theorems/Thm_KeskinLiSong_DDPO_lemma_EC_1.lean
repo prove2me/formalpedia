@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeskinLiSong_DDPO_lemma_EC_1
 -- name    : KeskinLiSong.DDPO.lemma_EC_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:49:18.727727+00:00
 -- url     : https://prove2.me/theorems/38fd05e9-5197-4e35-a49e-c0edd18b46a0

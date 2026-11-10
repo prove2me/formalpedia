@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyFLocal_eq22_23_three_vertices
 -- name    : HardyFLocal.eq22_23_three_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:39:16.547804+00:00
 -- url     : https://prove2.me/theorems/70ae015d-17b2-4e20-907b-7e5fa3dbe38d

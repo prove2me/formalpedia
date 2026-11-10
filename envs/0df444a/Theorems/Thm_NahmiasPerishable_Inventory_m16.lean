@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NahmiasPerishable_Inventory_m16
 -- name    : NahmiasPerishable.Inventory.m16
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T06:28:37.871727+00:00
 -- url     : https://prove2.me/theorems/a89264e6-aecb-4315-9b12-83c0596363fd

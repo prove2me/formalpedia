@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesignAudit_Lower_lemma_4_all_finite_partitions
 -- name    : PigeonholeDesignAudit.Lower.lemma_4_all_finite_partitions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:41:11.895522+00:00
 -- url     : https://prove2.me/theorems/2c4f797c-242a-4b94-87c5-5a3ce051af54

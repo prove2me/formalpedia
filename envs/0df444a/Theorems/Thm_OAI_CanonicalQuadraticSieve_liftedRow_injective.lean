@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CanonicalQuadraticSieve_liftedRow_injective
 -- name    : OAI.CanonicalQuadraticSieve.liftedRow_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:52:16.788127+00:00
 -- url     : https://prove2.me/theorems/c9477a81-1508-4a29-b3e1-f943ba9c7928

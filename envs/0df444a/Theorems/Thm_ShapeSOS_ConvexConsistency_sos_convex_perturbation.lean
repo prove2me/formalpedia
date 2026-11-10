@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeSOS_ConvexConsistency_sos_convex_perturbation
 -- name    : ShapeSOS.ConvexConsistency.sos_convex_perturbation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T23:22:48.185872+00:00
 -- url     : https://prove2.me/theorems/8366464c-d33a-41c6-b5c9-69296812bcbf

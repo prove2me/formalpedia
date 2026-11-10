@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastRegretAudit_Individual_corollary_12
 -- name    : FastRegretAudit.Individual.corollary_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:36:10.823754+00:00
 -- url     : https://prove2.me/theorems/30d86c63-6cf8-469a-b188-a0374a240a67

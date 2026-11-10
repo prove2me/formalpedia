@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_ray_oracle_phased_discovery_prefix_program
 -- name    : Grunbaum2003.ray_oracle_phased_discovery_prefix_program
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T01:27:47.841582+00:00
 -- url     : https://prove2.me/theorems/aaa44d94-c0bc-43dc-b6ae-de6709e2dcf2

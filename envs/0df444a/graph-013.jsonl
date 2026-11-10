@@ -67644,8 +67644,8 @@
 {"parent": "MIPStarRE.QPBT.sandwich_defect_pointwise_le", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p026_b015", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c312023_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.two_sided_exit_min_is_stopping_time", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.two_sided_exit_min_is_stopping_time", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.two_sided_exit_min_is_stopping_time", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.two_sided_exit_min_is_stopping_time", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.SubLineWitness.extended_consistencyDefect_le", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.SubLineWitness.extended_consistencyDefect_le", "child": "QPBT_QPBT_Games_DistanceTheorems_Support", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.SubLineWitness.extended_consistencyDefect_le", "child": "QPBT_QPBT_Observables_PointConsistency", "via": ["solution", "statement"]}

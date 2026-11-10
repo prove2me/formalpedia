@@ -1,0 +1,106 @@
+-- Prove2me | solution 1 for QEC.Distillation.Ngu24MultiplicativeCCZ.taggedCubicPhysicalTransport_apply
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-09T11:36:50.993143+00:00
+-- url     : https://prove2.me/submissions/0d9021db-9516-4732-ae62-7f18671d36f7
+
+import Definitions.Def_QEC_Distillation_MultiplicativeQuditProtocol_CCZIntertwining
+import Definitions.Def_QEC_Distillation_PrimeQuditProtocol_CubicCSS
+import Definitions.Def_QEC_Distillation_MultiplicativeQuditProtocol_CubicPhase
+import Theorems.Thm_QEC_Distillation_Ngu24MultiplicativeCCZ_taggedCubicPhaseTransport_apply
+import Theorems.Thm_QEC_Distillation_Ngu24MultiplicativeCCZ_taggedCubicPhaseAmplitude_eq_prod
+import Theorems.Thm_QEC_Coding_ChainComplexData_pureZLogicalQuotientEquivMiddleHomology_mk
+import Theorems.Thm_QEC_Distillation_assembleTagged_extractBlock
+import Theorems.Thm_QEC_Distillation_extractBlock_assembleTagged
+import Theorems.Thm_QEC_Distillation_mem_coordinateSupport
+import Theorems.Thm_QEC_Distillation_taggedCczLinearEquiv_apply
+import Theorems.Thm_QEC_Distillation_taggedCczLinearEquiv_symm_apply
+import Theorems.Thm_QEC_Distillation_taggedCczTransport_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_OperatorMatrix_matrixUnit_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_comp_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_id_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_cptp_toLinearMap
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_mapDensity_toOperator
+attribute [local simp] QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk
+attribute [local simp] QEC.Distillation.assembleTagged_extractBlock
+attribute [local simp] QEC.Distillation.extractBlock_assembleTagged
+attribute [local simp] QEC.Distillation.mem_coordinateSupport
+attribute [local simp] QEC.Distillation.taggedCczLinearEquiv_apply
+attribute [local simp] QEC.Distillation.taggedCczLinearEquiv_symm_apply
+attribute [local simp] QEC.Distillation.taggedCczTransport_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.OperatorMatrix.matrixUnit_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.comp_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.id_apply
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_cptp_toLinearMap
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_mapDensity_toOperator
+
+
+attribute [local simp] QEC.Distillation.Ngu24MultiplicativeCCZ.taggedCubicPhaseTransport_apply
+section
+noncomputable section
+namespace QEC.Distillation.Ngu24MultiplicativeCCZ
+open Coding Semantics Ngu24MultiplicativeCSS
+open scoped BigOperators
+universe u
+variable {F J I Logical : Type u} [Field F] [Fintype F] [Algebra (ZMod 2) F]
+  [Fintype J] [DecidableEq J]
+private theorem composeCubicPhases_apply (f : F →ₗ[ZMod 2] ZMod 2)
+    (sites : List J) (psi : TaggedThreeCopyRegister F J)
+    (label : TaggedThreeCopyRegisterLabel F J) :
+    UnitaryTransport.composeList
+        (sites.map fun site => taggedCubicPhaseTransport f {site}) psi label =
+      (sites.map fun site => taggedCubicPhaseAmplitude f {site} label).prod * psi label := by
+  induction sites generalizing psi with
+  | nil => simp [UnitaryTransport.composeList]
+  | cons site sites ih =>
+      change UnitaryTransport.composeList
+        (sites.map fun j => taggedCubicPhaseTransport f {j})
+        (taggedCubicPhaseTransport f {site} psi) label = _
+      rw [ih]
+      simp only [taggedCubicPhaseTransport_apply, List.map_cons, List.prod_cons]
+      ring
+section Encoding
+variable [Fintype I] [Fintype Logical] [CharP F 2]
+end Encoding
+end QEC.Distillation.Ngu24MultiplicativeCCZ
+end
+end
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Distillation QEC.Distillation.Ngu24MultiplicativeCCZ
+open Coding Semantics Ngu24MultiplicativeCSS
+open scoped BigOperators
+universe u
+variable {F J I Logical : Type u} [Field F] [Fintype F] [Algebra (ZMod 2) F]
+  [Fintype J] [DecidableEq J]
+namespace QEC.Distillation.Ngu24MultiplicativeCCZ
+theorem _root_.solution (f : F →ₗ[ZMod 2] ZMod 2)
+    (psi : TaggedThreeCopyRegister F J) (label : TaggedThreeCopyRegisterLabel F J) :
+    taggedCubicPhysicalTransport f psi label =
+      taggedCubicPhaseAmplitude f Finset.univ label * psi label := by
+  unfold taggedCubicPhysicalTransport UnitaryTransport.composeFamily
+  have hlist :
+      List.ofFn (fun j : Fin (Fintype.card J) =>
+        taggedCubicPhaseTransport f {taggedCczSiteEquivFin J j}) =
+      (List.ofFn (taggedCczSiteEquivFin J)).map
+        (fun site => taggedCubicPhaseTransport f {site}) := by
+    rw [List.map_ofFn]
+    rfl
+  rw [hlist, composeCubicPhases_apply, List.map_ofFn, Fin.prod_ofFn]
+  congr 1
+  rw [taggedCubicPhaseAmplitude_eq_prod]
+  exact Fintype.prod_equiv (taggedCczSiteEquivFin J) _ _ (fun _ => rfl)
+end QEC.Distillation.Ngu24MultiplicativeCCZ

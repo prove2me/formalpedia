@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinaryQueryLB_fact_2_10
 -- name    : BinaryQueryLB.fact_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:43:11.020771+00:00
 -- url     : https://prove2.me/theorems/4d8e03f4-4537-4129-b1db-38802d76e7dc

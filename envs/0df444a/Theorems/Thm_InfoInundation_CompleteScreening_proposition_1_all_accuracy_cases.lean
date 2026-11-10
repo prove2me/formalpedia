@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoInundation_CompleteScreening_proposition_1_all_accuracy_cases
 -- name    : InfoInundation.CompleteScreening.proposition_1_all_accuracy_cases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:37:03.779252+00:00
 -- url     : https://prove2.me/theorems/3a3060a2-f237-40fd-9e0c-2dbb15254db4

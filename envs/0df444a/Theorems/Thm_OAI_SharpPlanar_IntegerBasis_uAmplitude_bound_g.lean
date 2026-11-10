@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_uAmplitude_bound_g
 -- name    : OAI.SharpPlanar.IntegerBasis.uAmplitude_bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T04:23:34.994674+00:00
 -- url     : https://prove2.me/theorems/00f877ab-9f87-471a-9ecc-14665e193500

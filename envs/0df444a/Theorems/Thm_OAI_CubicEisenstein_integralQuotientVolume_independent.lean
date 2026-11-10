@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralQuotientVolume_independent
 -- name    : OAI.CubicEisenstein.integralQuotientVolume_independent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:33:52.935216+00:00
 -- url     : https://prove2.me/theorems/ead9bee6-126b-4b04-8fc7-3637705badbf

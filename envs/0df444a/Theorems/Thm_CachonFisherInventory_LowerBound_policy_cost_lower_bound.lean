@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonFisherInventory_LowerBound_policy_cost_lower_bound
 -- name    : CachonFisherInventory.LowerBound.policy_cost_lower_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T02:50:51.470597+00:00
 -- url     : https://prove2.me/theorems/c98e09b7-8a6f-48e1-8b2b-ae601a8d5cdf

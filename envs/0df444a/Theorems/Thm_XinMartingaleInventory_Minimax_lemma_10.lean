@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinMartingaleInventory_Minimax_lemma_10
 -- name    : XinMartingaleInventory.Minimax.lemma_10
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T23:59:11.548473+00:00
 -- url     : https://prove2.me/theorems/6cea0b0a-c0e4-4b5d-8900-436d83ce599b

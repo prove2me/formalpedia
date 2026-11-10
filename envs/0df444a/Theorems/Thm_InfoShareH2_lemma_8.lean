@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoShareH2_lemma_8
 -- name    : InfoShareH2.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:28:44.149275+00:00
 -- url     : https://prove2.me/theorems/fc0d5848-a0eb-463c-8eda-7ff3922d8d15

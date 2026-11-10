@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JinQLearning_Bernstein_lemma_C_7
 -- name    : JinQLearning.Bernstein.lemma_C_7
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:36:45.067625+00:00
 -- url     : https://prove2.me/theorems/ee3e5ea9-524b-453e-9fa0-a9585adada78

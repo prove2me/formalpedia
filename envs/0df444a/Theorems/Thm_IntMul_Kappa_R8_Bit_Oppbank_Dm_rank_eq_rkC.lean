@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_Dm_rank_eq_rkC
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.Dm_rank_eq_rkC
--- status  : Open
+-- status  : Disproved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:51:57.880533+00:00
 -- url     : https://prove2.me/theorems/4bf43d34-deb1-4d69-b570-58c8b4ca5f0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_residual_finite_exterior_0_g
 -- name    : OAI.SharpPlanar.residual_finite_exterior_0_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T02:31:17.101412+00:00
 -- url     : https://prove2.me/theorems/c3d1ef74-843f-4a90-8244-d23515abffde

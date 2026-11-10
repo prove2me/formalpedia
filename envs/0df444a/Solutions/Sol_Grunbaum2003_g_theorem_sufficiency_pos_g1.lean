@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.g_theorem_sufficiency_pos_g1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:01:03.872206+00:00
 -- url     : https://prove2.me/submissions/84a4a142-be41-4758-9f28-4e1f5c99435b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsSimplicialDPolytope
 import Definitions.Def_Grunbaum2003_faceCount

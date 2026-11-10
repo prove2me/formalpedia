@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_conditionalRevenue_succ_piecewise
 -- name    : NestedSeatAlloc.IntPolicy.conditionalRevenue_succ_piecewise
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-06T20:53:14.070975+00:00
 -- url     : https://prove2.me/theorems/bb63bdf0-f1c3-41b0-ad50-c2a266c02316

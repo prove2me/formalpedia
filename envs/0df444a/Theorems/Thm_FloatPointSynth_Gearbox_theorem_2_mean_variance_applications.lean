@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FloatPointSynth_Gearbox_theorem_2_mean_variance_applications
 -- name    : FloatPointSynth.Gearbox.theorem_2_mean_variance_applications
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T04:00:24.804221+00:00
 -- url     : https://prove2.me/theorems/278a3354-76f7-472d-bfaf-1134f4733679

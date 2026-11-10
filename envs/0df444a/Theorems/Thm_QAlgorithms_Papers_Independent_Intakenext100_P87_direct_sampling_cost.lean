@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P87_direct_sampling_cost
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P87.direct_sampling_cost
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:17:47.427361+00:00
 -- url     : https://prove2.me/theorems/493e5123-3daa-4066-a71f-cd241c795db1

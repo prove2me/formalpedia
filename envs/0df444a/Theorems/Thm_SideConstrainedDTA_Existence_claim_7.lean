@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SideConstrainedDTA_Existence_claim_7
 -- name    : SideConstrainedDTA.Existence.claim_7
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:23.054099+00:00
 -- url     : https://prove2.me/theorems/999aa317-cd9d-4c6d-b2b5-68dc134a2639

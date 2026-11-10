@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntLInfty_Kan_theorem_5_10
 -- name    : IntLInfty.Kan.theorem_5_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:32:37.141987+00:00
 -- url     : https://prove2.me/theorems/a83e3b53-220d-4cf2-9d37-a08afa6e9f5f

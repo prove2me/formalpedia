@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBPSSW_Distill_unilateral_pauli_bell
 -- name    : BBPSSW.Distill.unilateral_pauli_bell
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:45:59.13261+00:00
 -- url     : https://prove2.me/theorems/5f35eda9-fd22-4b41-b286-89bc06b3fe8c

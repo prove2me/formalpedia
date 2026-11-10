@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ubv_gauss13_endpoint_original_bounded_measurable_rightatom_L1
 -- name    : AvramDividend.Classical.avram_ubv_gauss13_endpoint_original_bounded_measurable_rightatom_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-09T00:42:25.525514+00:00
 -- url     : https://prove2.me/theorems/ef5aea6e-df90-42c2-a2fe-201e9e04a80c

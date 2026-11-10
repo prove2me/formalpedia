@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynStochMatching_Reward_claim_5
 -- name    : DynStochMatching.Reward.claim_5
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T20:43:35.969292+00:00
 -- url     : https://prove2.me/theorems/f12e208f-f02a-481e-8ee1-7c39056939c4

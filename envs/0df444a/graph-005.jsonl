@@ -9524,7 +9524,7 @@
 {"parent": "PM.star5_44", "child": "PM_core_statement_formulas", "via": ["solution", "statement"]}
 {"parent": "PM.star5_44", "child": "PM_core_star1_system", "via": ["solution", "statement"]}
 {"parent": "PM.star5_44", "child": "PM_core_hypothetical_derivations", "via": ["solution", "statement"]}
-{"parent": "SearchNeutrality.Commission.proposition_4_2", "child": "SearchNeutrality_Commission_Model", "via": ["statement"]}
+{"parent": "SearchNeutrality.Commission.proposition_4_2", "child": "SearchNeutrality_Commission_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.truncated_packet_matrix_image_representative", "child": "OAI_PiExponent_TruncatedPolynomialJets", "via": ["solution", "statement"]}
 {"parent": "BBDisclosure.Stage2.eq_13_own_threshold", "child": "BBDisclosure_Stage2_Model", "via": ["solution", "statement"]}
 {"parent": "GarrettFA.weakDual_isNetComplete_iff", "child": "GarrettFA_IsNetComplete", "via": ["solution", "statement"]}
@@ -15040,7 +15040,7 @@
 {"parent": "BBDisclosure.Total.proposition_2", "child": "BBDisclosure_Total_Stage2", "via": ["solution", "statement"]}
 {"parent": "BBDisclosure.Total.proposition_2", "child": "BBDisclosure_Total_Game", "via": ["solution", "statement"]}
 {"parent": "RoundRobinEq_CancelableEF1_DeviationOrders", "child": "RoundRobinEq_CancelableEF1_Setting", "via": ["statement"]}
-{"parent": "MarketInterference.FluidLimit.lemma_1", "child": "MarketInterference_FluidBias_NetworkLP", "via": ["statement"]}
+{"parent": "MarketInterference.FluidLimit.lemma_1", "child": "MarketInterference_FluidBias_NetworkLP", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_151_157", "child": "Zeta5_SourceConstants", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_151_157", "child": "Zeta5_SourceMeasure", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_151_157", "child": "Zeta5_SourceEnergy", "via": ["solution", "statement"]}
@@ -33084,7 +33084,7 @@
 {"parent": "FlowAllocGames_StrongPoA_Cycles", "child": "FlowAllocGames_StrongPoA_Model", "via": ["statement"]}
 {"parent": "ThreeSum1960614.costs_solve_3sum", "child": "TrulySubcubicAPSP_SourceSpecification", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.costs_solve_3sum", "child": "ThreeSum1960614_Analysis", "via": ["solution", "statement"]}
-{"parent": "RobustSPA.IID.proposition_1", "child": "RobustSPA_IID_Setting", "via": ["statement"]}
+{"parent": "RobustSPA.IID.proposition_1", "child": "RobustSPA_IID_Setting", "via": ["solution", "statement"]}
 {"parent": "ScheduledQueue.Diffusion.reversed_representation", "child": "ScheduledQueue_Diffusion_Setting", "via": ["solution", "statement"]}
 {"parent": "MultivarScores.LevelSet.eq_19", "child": "MultivarScores_LevelSet_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes_RH100To1000ThetaAmplitude", "child": "TaoFivePrimes_RHPi700Numerator", "via": ["statement"]}
@@ -33423,7 +33423,7 @@
 {"parent": "PigeonholeDesign.MultiDim.lemma_5_p_eq_two", "child": "PigeonholeDesign_MultiDim_Setting", "via": ["statement"]}
 {"parent": "ScheduledQueue.Diffusion.increment_moments", "child": "ScheduledQueue_Diffusion_Setting", "via": ["solution", "statement"]}
 {"parent": "ScheduledQueue.Diffusion.corollary_1", "child": "ScheduledQueue_Diffusion_Setting", "via": ["solution", "statement"]}
-{"parent": "RobustSPA.IID.lemma_B_1", "child": "RobustSPA_IID_Setting", "via": ["statement"]}
+{"parent": "RobustSPA.IID.lemma_B_1", "child": "RobustSPA_IID_Setting", "via": ["solution", "statement"]}
 {"parent": "RetailerMarketplace.PositiveFee.lemma_2_derivative_at_zero", "child": "RetailerMarketplace_PositiveFee_Model", "via": ["solution", "statement"]}
 {"parent": "OTSensitivity.Info.eq_68", "child": "OTSensitivity_Info_Setting", "via": ["solution", "statement"]}
 {"parent": "CondPortOT_FiberDual_Setting", "child": "RWPI_SqrtLasso_transportCost", "via": ["statement"]}

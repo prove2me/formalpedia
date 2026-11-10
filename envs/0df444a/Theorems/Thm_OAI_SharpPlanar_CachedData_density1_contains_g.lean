@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_density1_contains_g
 -- name    : OAI.SharpPlanar.CachedData.density1_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:34:43.265488+00:00
 -- url     : https://prove2.me/theorems/68881556-dc44-4467-8b0e-e1ccb470efdb

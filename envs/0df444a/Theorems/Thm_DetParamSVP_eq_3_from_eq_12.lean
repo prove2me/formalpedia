@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetParamSVP_eq_3_from_eq_12
 -- name    : DetParamSVP.eq_3_from_eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:51:45.434448+00:00
 -- url     : https://prove2.me/theorems/7b26a96a-c5fd-4dd4-b011-fb988d2aef66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExponomialAssortment_FPTAS_lemma_4
 -- name    : ExponomialAssortment.FPTAS.lemma_4
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T21:14:59.164195+00:00
 -- url     : https://prove2.me/theorems/79f9fa6b-dc46-45ac-852e-bff4f87c5733

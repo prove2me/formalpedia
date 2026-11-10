@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairwiseRealize_sec_A_2_coordinate_face
 -- name    : PairwiseRealize.sec_A_2_coordinate_face
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:55:36.103376+00:00
 -- url     : https://prove2.me/theorems/eec12a37-e272-42e2-84bb-d9f0ee923a27

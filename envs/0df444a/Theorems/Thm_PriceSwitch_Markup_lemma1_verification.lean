@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceSwitch_Markup_lemma1_verification
 -- name    : PriceSwitch.Markup.lemma1_verification
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:01:56.847742+00:00
 -- url     : https://prove2.me/theorems/1b72bcc7-76e8-4973-bd11-37b6edadc7d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_ray_oracle_phased_discovery_loop_from_cramer_and_incidence
 -- name    : Grunbaum2003.ray_oracle_phased_discovery_loop_from_cramer_and_incidence
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:31:40.547409+00:00
 -- url     : https://prove2.me/theorems/31484ba5-57dd-4c91-b740-72755e212a34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindbladReach_MinDiss_theorem_2_12
 -- name    : LindbladReach.MinDiss.theorem_2_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:04:45.154098+00:00
 -- url     : https://prove2.me/theorems/ff92ed04-ede7-4c4b-8bb8-79d7a9492a8e

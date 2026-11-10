@@ -77564,7 +77564,7 @@
 {"parent": "BiconvexProg.BranchBound.branch_and_bound_converges", "child": "BiconvexProg_BranchBound_run", "via": ["solution", "statement"]}
 {"parent": "BiconvexProg.BranchBound.finite_termination", "child": "BiconvexProg_BranchBound_run", "via": ["solution", "statement"]}
 {"parent": "BiconvexProg.BranchBound.grad_bound", "child": "BiconvexProg_BranchBound_gradNormMax", "via": ["solution", "statement"]}
-{"parent": "BiconvexProg.BranchBound.limit_identity", "child": "BiconvexProg_BranchBound_run", "via": ["statement"]}
+{"parent": "BiconvexProg.BranchBound.limit_identity", "child": "BiconvexProg_BranchBound_run", "via": ["solution", "statement"]}
 {"parent": "BiconvexProg.BranchBound.node_envelope_equicontinuous", "child": "BiconvexProg_BranchBound_gradNormMax", "via": ["statement"]}
 {"parent": "BiconvexProg.BranchBound.node_envelope_equicontinuous", "child": "BiconvexProg_BranchBound_problem", "via": ["statement"]}
 {"parent": "BiconvexProg.BranchBound.stage_fun_mono", "child": "BiconvexProg_BranchBound_run", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Bernstein33_N1_left_bound_g
 -- name    : OAI.SharpPlanar.Bernstein33.N1_left.bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T02:54:50.286405+00:00
 -- url     : https://prove2.me/theorems/ae22655b-8394-4d71-9d97-1516380f6d84

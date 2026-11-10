@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_U25_wuminus_column_g
 -- name    : OAI.SharpPlanar.Numerical.U25.wuminus_column_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T09:22:19.313923+00:00
 -- url     : https://prove2.me/theorems/2057465d-a322-44d4-adc1-651f5de8ace6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OLPDual_lemma_1
 -- name    : OLPDual.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:21:13.327976+00:00
 -- url     : https://prove2.me/theorems/94525f2f-a249-4e7e-bd63-5f818f505151

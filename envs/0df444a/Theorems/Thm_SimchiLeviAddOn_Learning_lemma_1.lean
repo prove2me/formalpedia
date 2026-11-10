@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimchiLeviAddOn_Learning_lemma_1
 -- name    : SimchiLeviAddOn.Learning.lemma_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:58:28.245237+00:00
 -- url     : https://prove2.me/theorems/2d2f4752-787b-448b-9936-091eb5023740

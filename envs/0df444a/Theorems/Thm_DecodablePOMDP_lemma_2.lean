@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecodablePOMDP_lemma_2
 -- name    : DecodablePOMDP.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:26:04.885347+00:00
 -- url     : https://prove2.me/theorems/323019f7-e9d1-4379-bf10-873dac806627

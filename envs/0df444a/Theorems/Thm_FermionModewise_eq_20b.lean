@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FermionModewise_eq_20b
 -- name    : FermionModewise.eq_20b
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:33:03.775065+00:00
 -- url     : https://prove2.me/theorems/33c33dd1-9154-45dd-a252-4b74e6850e84

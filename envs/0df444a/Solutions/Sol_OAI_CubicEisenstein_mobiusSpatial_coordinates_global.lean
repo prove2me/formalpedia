@@ -1,0 +1,96 @@
+-- Prove2me | solution 1 for OAI.CubicEisenstein.mobiusSpatial_coordinates_global
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-09T10:03:50.636502+00:00
+-- url     : https://prove2.me/submissions/c06cf4ed-6732-4e85-a325-d7ee78b72d70
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_GaussSum_PowerfulParts
+import Definitions.Def_OAI_NumberTheory_DirichletL_MeanSquare_LogarithmicBins
+import Definitions.Def_OAI_NumberTheory_DirichletL_CubicSieve_RowCaps
+import Theorems.Thm_OAI_CubicEisenstein_mobiusSpatial_coordinates
+import Theorems.Thm_OAI_CubicEisenstein_hyperbolicSpatialCoordinates_reconstruct
+
+
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open Filter MeasureTheory
+open scoped BigOperators Classical Topology MatrixGroups Matrix ContDiff
+open Filter MeasureTheory
+open scoped BigOperators Classical Topology MatrixGroups Matrix ContDiff Manifold
+open OAI.CubicEisenstein
+namespace OAI.CubicEisenstein
+theorem _root_.solution (g : SL(2,ℂ)) (w : HyperbolicSpace) :
+    hyperbolicSpatialCoordinates (g•w)=mobiusSpatial g (hyperbolicSpatialCoordinates w) := by
+  have hp := hyperbolicSpatialCoordinates_positive w
+  have hr := hyperbolicSpatialCoordinates_reconstruct w
+  nth_rw 1 [← hr]
+  exact mobiusSpatial_coordinates g (hyperbolicSpatialCoordinates w) hp
+end OAI.CubicEisenstein

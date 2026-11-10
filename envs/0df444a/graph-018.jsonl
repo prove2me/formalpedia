@@ -14234,7 +14234,7 @@
 {"parent": "PaddedDescent.F.Mark.InvS.nvio_lt", "child": "PaddedDescent_F_MarkSums", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.InvS.nvio_lt", "child": "PaddedDescent_F_Interfaces", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.InvS.nvio_lt", "child": "PaddedDescent_F_MarkLayers", "via": ["solution", "statement"]}
-{"parent": "FermionModewise.eq_20b", "child": "FermionModewise_williamson", "via": ["statement"]}
+{"parent": "FermionModewise.eq_20b", "child": "FermionModewise_williamson", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.Yent_cons", "child": "GeneralPieces_GenF_NormalL", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.Yent_cons", "child": "GeneralPieces_GenF_Borel", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.Yent_cons", "child": "GeneralPieces_GenF_Y", "via": ["solution", "statement"]}
@@ -14423,8 +14423,8 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverGoodMaps", "child": "Submission_ThreeSum_Cover", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverGoodMaps", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverGoodMaps", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverActualMoment", "via": ["statement"]}
-{"parent": "WolfAreaLaw.local_expectations_eq", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
-{"parent": "WolfAreaLaw.local_expectations_eq", "child": "QAlgorithms_Defs_Information", "via": ["statement"]}
+{"parent": "WolfAreaLaw.local_expectations_eq", "child": "QAlgorithms_Defs_Measurement", "via": ["solution", "statement"]}
+{"parent": "WolfAreaLaw.local_expectations_eq", "child": "QAlgorithms_Defs_Information", "via": ["solution", "statement"]}
 {"parent": "FermionModewise.clifford", "child": "FermionModewise_majorana", "via": ["statement"]}
 {"parent": "FermionModewise.clifford", "child": "FermionModewise_IsCAR", "via": ["statement"]}
 {"parent": "Groundwork.toWord_injOn", "child": "StepMachines_Prog_Chunks", "via": ["solution", "statement"]}
@@ -19761,7 +19761,7 @@
 {"parent": "BauerleRiederMDP_PartialObs_FM62", "child": "BauerleRiederMDP_PartialObs_Market", "via": ["statement"]}
 {"parent": "GraphProblems_Color", "child": "GraphProblems_Blocks", "via": ["statement"]}
 {"parent": "StrongConv.prob_norm_adjPerp_ge_of_lt_rhoStair", "child": "StrongConv", "via": ["solution", "statement"]}
-{"parent": "OAI.MUB6.family_size_le_five_e", "child": "MUBSix", "via": ["statement"]}
+{"parent": "OAI.MUB6.family_size_le_five_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.ThmHalfPieces.abs_A_lt", "child": "ClauseBound_Boson_Final", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.ThmHalfPieces.abs_A_lt", "child": "GeneralPieces_Ring_ThmHalfPieces", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.ThmHalfPieces.abs_A_lt", "child": "GeneralPieces_Ring_Bits", "via": ["solution", "statement"]}
@@ -32863,8 +32863,8 @@
 {"parent": "GeneralPieces.thmHalfPieces_iff", "child": "GeneralPieces_Num_Asymptotic", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.thmHalfPieces_iff", "child": "GeneralPieces_Half_Main", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.thmHalfPieces_iff", "child": "GeneralPieces_Tied_BoundDefs", "via": ["solution", "statement"]}
-{"parent": "HardyFLocal.eq22_23_three_vertices", "child": "HardyFLocal_FiducialFamily", "via": ["statement"]}
-{"parent": "HardyFLocal.eq22_23_three_vertices", "child": "HardyFLocal_Superoperator", "via": ["statement"]}
+{"parent": "HardyFLocal.eq22_23_three_vertices", "child": "HardyFLocal_FiducialFamily", "via": ["solution", "statement"]}
+{"parent": "HardyFLocal.eq22_23_three_vertices", "child": "HardyFLocal_Superoperator", "via": ["solution", "statement"]}
 {"parent": "StepMachines_Prog_Range", "child": "StepMachines_Prog_Stepped", "via": ["statement"]}
 {"parent": "Eight.ViaGrouping.Table.tableM_runs_coarse", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "Eight.ViaGrouping.Table.tableM_runs_coarse", "child": "Eight_ViaGrouping_Table", "via": ["solution", "statement"]}
@@ -34257,11 +34257,11 @@
 {"parent": "ClauseBound.Inst.Half.Pad.padOp_le_padLen", "child": "ClauseBound_Inst_HalfVal", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Inst.Half.Pad.padOp_le_padLen", "child": "ClauseBound_Inst_HalfPad", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Inst.Half.Pad.padOp_le_padLen", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
-{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
-{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_cnotSecond", "via": ["statement"]}
-{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_postOut", "via": ["statement"]}
-{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_ketZ", "via": ["statement"]}
-{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_zRot", "via": ["statement"]}
+{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "QAlgorithms_Defs_Basic", "via": ["solution", "statement"]}
+{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_cnotSecond", "via": ["solution", "statement"]}
+{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_postOut", "via": ["solution", "statement"]}
+{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_ketZ", "via": ["solution", "statement"]}
+{"parent": "RotationLadder.Protocol.rotation_circuit", "child": "RotationLadder_Protocol_zRot", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedFrontendResources.full_mask_powerBound", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_FrontendResources", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedFrontendResources.full_mask_powerBound", "child": "Submission_ThreeSum_ArithmeticStageBounds", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedFrontendResources.full_mask_powerBound", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_CountFrontend", "via": ["solution", "statement"]}
@@ -35954,7 +35954,7 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizeRates.histogram_charge_tendsto", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalOversizeRates.histogram_charge_tendsto", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryOversizeRates", "via": ["solution", "statement"]}
 {"parent": "PancakeHard_Hook", "child": "PancakeHard_Basic", "via": ["statement"]}
-{"parent": "PancakeHard.property_8", "child": "PancakeHard_Literals", "via": ["statement"]}
+{"parent": "PancakeHard.property_8", "child": "PancakeHard_Literals", "via": ["solution", "statement"]}
 {"parent": "UniformInK.stAllOccU", "child": "UniformInK_Top_CorrectB", "via": ["solution", "statement"]}
 {"parent": "UniformInK.stAllOccU", "child": "UniformInK_Top_Defs", "via": ["solution", "statement"]}
 {"parent": "CountKSat.Value.value_net_eq_cntN", "child": "StepMachines_Math_SatNet", "via": ["solution", "statement"]}

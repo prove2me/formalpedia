@@ -11565,7 +11565,7 @@
 {"parent": "NishtAbel2024V5.theorems_10_11_and_12", "child": "NishtAbel2024V5_Inference", "via": ["solution", "statement"]}
 {"parent": "NishtAbel2024V5.theorems_10_11_and_12", "child": "NishtAbel2024V5_Syntax", "via": ["solution", "statement"]}
 {"parent": "NishtAbel2024V5.theorems_10_11_and_12", "child": "NishtAbel2024V5_Semantics", "via": ["solution", "statement"]}
-{"parent": "PairwiseRealize.sec_A_2_coordinate_face", "child": "PairwiseRealize_Model", "via": ["statement"]}
+{"parent": "PairwiseRealize.sec_A_2_coordinate_face", "child": "PairwiseRealize_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_error7_original_C1_compact_Lipschitz_deriv_certificate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.integralArithmeticToFunctionField_y", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_Arithmetic", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.integralArithmeticToFunctionField_y", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Integral_Arithmetic", "via": ["solution", "statement"]}

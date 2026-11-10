@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatchFull_InfinitePatience_corollary_5_full
 -- name    : OfflineStochMatchFull.InfinitePatience.corollary_5_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T13:48:57.960295+00:00
 -- url     : https://prove2.me/theorems/8a398695-0285-425c-b416-2c139139b086

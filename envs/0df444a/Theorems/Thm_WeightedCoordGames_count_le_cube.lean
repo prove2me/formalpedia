@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedCoordGames_count_le_cube
 -- name    : WeightedCoordGames.count_le_cube
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:09.230073+00:00
 -- url     : https://prove2.me/theorems/1c6059a2-a5fa-4b2d-b21a-23efee71f94c

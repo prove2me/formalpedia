@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_basis_density_bounds_g
 -- name    : OAI.SharpPlanar.IntegerBasis.basis_density_bounds_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:32:11.818171+00:00
 -- url     : https://prove2.me/theorems/dde47747-d53c-4968-bfbf-22a62622a944

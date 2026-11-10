@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_exists_stacked_simplicial_polytope_faceCount
 -- name    : Grunbaum2003.exists_stacked_simplicial_polytope_faceCount
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T01:53:47.241167+00:00
 -- url     : https://prove2.me/theorems/92e559a0-fba2-4b8d-b1c2-526965d16275

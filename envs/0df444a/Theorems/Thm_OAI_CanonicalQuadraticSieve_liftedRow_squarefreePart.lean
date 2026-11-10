@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CanonicalQuadraticSieve_liftedRow_squarefreePart
 -- name    : OAI.CanonicalQuadraticSieve.liftedRow_squarefreePart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:50:14.280207+00:00
 -- url     : https://prove2.me/theorems/97f2986b-bb20-4859-a040-124632e89583

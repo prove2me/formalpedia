@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainCarbon_Necessity_double_counting_necessary
 -- name    : SupplyChainCarbon.Necessity.double_counting_necessary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:37:32.983058+00:00
 -- url     : https://prove2.me/theorems/ef1802cb-7ce8-4a23-b2da-c25e40c4a306

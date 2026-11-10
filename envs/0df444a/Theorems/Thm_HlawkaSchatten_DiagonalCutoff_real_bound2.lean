@@ -46,7 +46,7 @@
 --   $$
 --   There is no equal-norm, normalization or nonzero restriction. The finite
 --   dimension may be zero. This is the real admissibility statement, without a
---   leastness assertion. The accepted real bound covers every $p\ge16$.
+--   leastness assertion.
 -- source:
 --   https://prove2.me/campaigns/sharp-diagonal-hlawka-constant
 

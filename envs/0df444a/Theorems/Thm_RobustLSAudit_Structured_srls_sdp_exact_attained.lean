@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLSAudit_Structured_srls_sdp_exact_attained
 -- name    : RobustLSAudit.Structured.srls_sdp_exact_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:08:28.850291+00:00
 -- url     : https://prove2.me/theorems/2effea07-99f5-4710-b07c-0206f5f1363d

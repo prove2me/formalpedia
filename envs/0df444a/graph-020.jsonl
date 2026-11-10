@@ -70608,7 +70608,7 @@
 {"parent": "QEC.Semantics.FiniteInstrument.fixedDensityReplacementSwap_apply_tmul", "child": "QEC_Semantics_Channels_Instrument", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.fixedDensityReplacementSwap_apply_tmul", "child": "QEC_Semantics_Instruments_Selection_SelectedSubsystem", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.fixedDensityReplacementSwap_apply_tmul", "child": "QEC_Semantics_Dynamics_ThermalEncoding", "via": ["solution", "statement"]}
-{"parent": "DecodablePOMDP.lemma_2", "child": "DecodablePOMDP_RevealResidual", "via": ["statement"]}
+{"parent": "DecodablePOMDP.lemma_2", "child": "DecodablePOMDP_RevealResidual", "via": ["solution", "statement"]}
 {"parent": "SparseMatchingDesign_kRing", "child": "SparseMatchingDesign_cluster", "via": ["statement"]}
 {"parent": "QEC.Semantics.FiniteMatrixEntropy.realTrace_toMatrix_mul_toMatrix", "child": "QEC_Semantics_Entropy_Purification", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteMatrixEntropy.realTrace_toMatrix_mul_toMatrix", "child": "QEC_Semantics_Entropy_QuditBounds", "via": ["solution", "statement"]}

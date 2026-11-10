@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDEConvexOpt_corollary_2_2
 -- name    : SDEConvexOpt.corollary_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:25:51.107984+00:00
 -- url     : https://prove2.me/theorems/bbc750d1-6bf8-4893-b837-4c0a06a4a65e

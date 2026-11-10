@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShendeQSD_Synthesis_demux_single_rot
 -- name    : ShendeQSD.Synthesis.demux_single_rot
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:18:37.487871+00:00
 -- url     : https://prove2.me/theorems/0a2cfef2-5555-4787-a70b-2ae9bfe80d07

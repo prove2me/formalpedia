@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_direct_spectral_bound_g
 -- name    : OAI.SharpPlanar.direct_spectral_bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:37:47.896033+00:00
 -- url     : https://prove2.me/theorems/9f660866-af4c-4cd7-a1f7-561893ffb82e

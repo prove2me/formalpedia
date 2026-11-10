@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LoockCVQEC_RepCode_eq_10_error_probability_gamma_cubed
 -- name    : LoockCVQEC.RepCode.eq_10_error_probability_gamma_cubed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:12.107819+00:00
 -- url     : https://prove2.me/theorems/d0ee0fc7-cfb4-42c2-9f80-5244b77aa236

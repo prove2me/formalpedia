@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskSharingProjects_TimeDependent_lemma_2_dominant_strategy
 -- name    : RiskSharingProjects.TimeDependent.lemma_2_dominant_strategy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:25:20.424276+00:00
 -- url     : https://prove2.me/theorems/fe623945-a47f-445f-8e40-e063b12f8206

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiFixedDesign_Concentration_lemma_7
 -- name    : QiFixedDesign.Concentration.lemma_7
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T15:00:44.438973+00:00
 -- url     : https://prove2.me/theorems/f45f479b-18fc-4b7b-9c5d-7af32968457d

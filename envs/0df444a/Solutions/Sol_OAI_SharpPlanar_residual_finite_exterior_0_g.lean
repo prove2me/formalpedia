@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.residual_finite_exterior_0_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T04:35:37.061536+00:00
 -- url     : https://prove2.me/submissions/e8a80a27-814e-4481-82b5-4f6205b9c9c7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G006

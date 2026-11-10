@@ -1,0 +1,104 @@
+-- Prove2me | Theorems.Thm_OAI_SecondPassArithmetic_cubeParityKey_fiber_card
+-- name    : OAI.SecondPassArithmetic.cubeParityKey_fiber_card
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-09T10:54:38.495206+00:00
+-- url     : https://prove2.me/theorems/aa740e4c-a076-4b63-8503-71d41bb6c6b5
+-- title:
+--   Second Pass Arithmetic: cube Parity Key fiber card
+-- statement:
+--   The Second Pass Arithmetic construction uses the cube Parity Key fiber card property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/Eisenstein/SmoothTests.lean#L629-L646
+-- source:
+--   https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/Eisenstein/SmoothTests.lean#L629-L646
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_CubicSieve_RowCaps
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_SmoothTests
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+open OAI.SecondPassArithmetic
+open ActualEisensteinCubic
+open ActualEisensteinCubic
+open FirstPassCubeLabels (primeProductNorm primeProduct aLabel squarefreeLabel b0Label j2Label cubeActiveSupport)
+open ConcreteTraceCRT (eisEmbedding)
+open IdealMobiusDivisorSum (idealDivisors mem_idealDivisors)
+variable {ι : Type*} [DecidableEq ι]
+  (p : ι → OAI.SecondPassArithmetic.O) [∀ i,(Ideal.span {p i}).IsMaximal]
+variable (hp : ∀ i,p i≠0)
+include hp
+variable (hinj : Function.Injective (fun i => Ideal.span {p i}))
+include hinj
+
+theorem OAI.SecondPassArithmetic.cubeParityKey_fiber_card (s : Finset (CubeCoordinates ι)) (q : Ideal O × Ideal O)
+    (hq1 : q.1≠0) (hq2 : q.2≠0) (hs : ∀ x∈s,x.Admissible)
+    (hk : ∀ x∈s,cubeParityKey p x=q) :
+    s.card≤(idealDivisors (q.2^2*q.1)).card^3 := by sorry

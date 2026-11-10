@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_dentry2_1_contains_g
 -- name    : OAI.SharpPlanar.Numerical.dentry2_1_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T09:03:05.840653+00:00
 -- url     : https://prove2.me/theorems/c4662858-e8c0-485f-b766-242c9c03e1fa

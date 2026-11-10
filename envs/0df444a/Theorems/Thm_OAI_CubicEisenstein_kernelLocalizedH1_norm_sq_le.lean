@@ -1,0 +1,104 @@
+-- Prove2me | Theorems.Thm_OAI_CubicEisenstein_kernelLocalizedH1_norm_sq_le
+-- name    : OAI.CubicEisenstein.kernelLocalizedH1_norm_sq_le
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-09T19:39:13.104265+00:00
+-- url     : https://prove2.me/theorems/17dc4644-19cd-43cc-9d62-8383f4819f2c
+-- title:
+--   Cubic Eisenstein: kernel Localized H1 norm sq le
+-- statement:
+--   The Cubic Eisenstein construction uses the kernel Localized H1 norm sq le property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/CubicSieve/PaddedPassage.lean#L362-L402
+-- source:
+--   https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/CubicSieve/PaddedPassage.lean#L362-L402
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_LocalCutoffs
+import Definitions.Def_OAI_NumberTheory_DirichletL_MeanSquare_HarmonicAggregation
+import Definitions.Def_OAI_NumberTheory_DirichletL_CubicSieve_PaddedPassage
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical SchwartzMap ContDiff
+open OAI.CubicEisenstein
+open Filter MeasureTheory
+open scoped BigOperators Classical Topology ContDiff SchwartzMap LineDeriv
+
+theorem OAI.CubicEisenstein.kernelLocalizedH1_norm_sq_le (χ : PositiveChartCutoff)
+    (hinj : Set.InjOn kernelEuclideanProjection (tsupport χ.func))
+    (M D A b : ℝ) (hM0 : 0≤M) (hD0 : 0≤D) (hA0 : 0≤A) (hb : 0≤b)
+    (hheight : ∀p∈tsupport χ.func,p 2≤b)
+    (hM : ∀p∈tsupport χ.func,(χ.func p)^2≤M)
+    (hD : ∀p∈tsupport χ.func,
+      (∑j : Fin 3,‖fderiv ℝ χ.func p (EuclideanSpace.basisFun (Fin 3) ℝ j)‖^2)≤D)
+    (hA : ∀p∈tsupport χ.func,(χ.func p)^2≤A*(p 2)^2)
+    (f : kernelSmoothTests) :
+    ‖kernelLocalizedH1 χ f‖^2≤b^3*((M+2*D)*‖kernelSmoothTestsToL2 f‖^2+
+      2*A*kernelDirichletEnergy f) := by sorry

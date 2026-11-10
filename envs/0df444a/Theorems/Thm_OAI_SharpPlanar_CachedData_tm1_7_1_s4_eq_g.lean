@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_tm1_7_1_s4_eq_g
 -- name    : OAI.SharpPlanar.CachedData.tm1_7_1.s4_eq_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T03:15:27.624317+00:00
 -- url     : https://prove2.me/theorems/5ef75eb3-09f1-4c1d-82d7-6fc6330d997b

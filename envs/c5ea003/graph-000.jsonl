@@ -67781,3 +67781,20 @@
 {"parent": "Couret.InterIA.SingletonNecessity.mixedData_valid", "child": "Couret.InterIA.SingletonNecessity.mixedChunk33_valid", "via": ["solution"]}
 {"parent": "Couret.InterIA.SingletonNecessity.mixedData_valid", "child": "Couret.InterIA.SingletonNecessity.mixedChunk71_valid", "via": ["solution"]}
 {"parent": "Couret.InterIA.SingletonNecessity.mixedData_valid", "child": "Couret.InterIA.SingletonNecessity.mixedChunk61_valid", "via": ["solution"]}
+{"parent": "Niemeier.isometryClasses_equiv_fin24", "child": "Niemeier_Lattices24", "via": ["statement"]}
+{"parent": "Niemeier.classification", "child": "Niemeier_Lattices24", "via": ["statement"]}
+{"parent": "ModNullUniversality.theorem1_1", "child": "ModNullCompact20261109", "via": ["solution", "statement"]}
+{"parent": "ModNullUniversality.haar_amplification", "child": "ModNullCompact20261109", "via": ["solution", "statement"]}
+{"parent": "ModNullUniversality.rosendal_ksigma_universality", "child": "ModNullCore20261109", "via": ["statement"]}
+{"parent": "ModNullUniversality.fsigma_conull_universality", "child": "ModNullCore20261109", "via": ["statement"]}
+{"parent": "ModNullUniversality.compact_coset_unboundedness", "child": "ModNullCompact20261109", "via": ["solution", "statement"]}
+{"parent": "ModNullCompact20261109", "child": "ModNullCore20261109", "via": ["statement"]}
+{"parent": "ModNullUniversality.theorem1_1", "child": "NoBorelUpperBound20261101", "via": ["solution"]}
+{"parent": "ModNullUniversality.theorem1_1", "child": "NoBorelUpperBoundTransfer20261101", "via": ["solution"]}
+{"parent": "ModNullUniversality.theorem1_1", "child": "ModNullCore20261109", "via": ["solution"]}
+{"parent": "ModNullUniversality.theorem1_1", "child": "NoUniversalFSigma261031052", "via": ["solution"]}
+{"parent": "ModNullUniversality.haar_amplification", "child": "ModNullCore20261109", "via": ["solution"]}
+{"parent": "ModNullUniversality.compact_coset_unboundedness", "child": "NoBorelUpperBound20261101", "via": ["solution"]}
+{"parent": "ModNullUniversality.compact_coset_unboundedness", "child": "NoBorelUpperBoundTransfer20261101", "via": ["solution"]}
+{"parent": "ModNullUniversality.compact_coset_unboundedness", "child": "ModNullCore20261109", "via": ["solution"]}
+{"parent": "ModNullUniversality.compact_coset_unboundedness", "child": "NoUniversalFSigma261031052", "via": ["solution"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P23_weylRelations_consequences
 -- name    : QAlgorithms.Papers.Independent.Intake100.P23.weylRelations_consequences
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:39:34.969304+00:00
 -- url     : https://prove2.me/theorems/1349cb92-52e1-4c32-98c9-bce44ab6189b

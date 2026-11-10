@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_mixed_source13_original_physical_annulus_factorial_moment_exact
 -- name    : AvramDividend.Classical.avram_mixed_source13_original_physical_annulus_factorial_moment_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-08T23:14:11.696962+00:00
 -- url     : https://prove2.me/theorems/6ea0212e-5dca-4086-9459-b51a194f926c

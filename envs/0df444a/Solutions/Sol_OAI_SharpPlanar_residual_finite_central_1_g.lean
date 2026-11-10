@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.residual_finite_central_1_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T04:35:05.563016+00:00
 -- url     : https://prove2.me/submissions/de544b6c-474c-4752-b6a5-3803094a3050
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G061

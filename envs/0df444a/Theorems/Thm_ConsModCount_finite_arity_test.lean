@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsModCount_finite_arity_test
 -- name    : ConsModCount.finite_arity_test
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:29:16.229976+00:00
 -- url     : https://prove2.me/theorems/985ea327-2d74-4b22-ad6f-98d1eaddf194

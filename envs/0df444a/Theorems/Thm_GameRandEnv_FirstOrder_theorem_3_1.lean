@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GameRandEnv_FirstOrder_theorem_3_1
 -- name    : GameRandEnv.FirstOrder.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:26:44.427433+00:00
 -- url     : https://prove2.me/theorems/8159534d-cfdd-44e0-bca4-898397e794cb

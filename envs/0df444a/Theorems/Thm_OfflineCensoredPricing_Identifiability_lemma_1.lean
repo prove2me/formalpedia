@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineCensoredPricing_Identifiability_lemma_1
 -- name    : OfflineCensoredPricing.Identifiability.lemma_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:13.478819+00:00
 -- url     : https://prove2.me/theorems/ac72eea7-23d3-4d7a-8939-6603e5303dfe

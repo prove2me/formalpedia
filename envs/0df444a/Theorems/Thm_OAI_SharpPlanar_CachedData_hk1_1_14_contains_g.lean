@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_hk1_1_14_contains_g
 -- name    : OAI.SharpPlanar.CachedData.hk1_1_14_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T23:34:50.19921+00:00
 -- url     : https://prove2.me/theorems/938f28bd-57ee-4842-a2d0-b7f61166ad9f

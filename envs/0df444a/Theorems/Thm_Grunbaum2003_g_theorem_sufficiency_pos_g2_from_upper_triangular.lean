@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_g_theorem_sufficiency_pos_g2_from_upper_triangular
 -- name    : Grunbaum2003.g_theorem_sufficiency_pos_g2_from_upper_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:37:26.998652+00:00
 -- url     : https://prove2.me/theorems/d5787fb7-50e6-41f8-8f93-b261f385e12e

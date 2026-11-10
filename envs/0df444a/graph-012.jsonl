@@ -1276,10 +1276,10 @@
 {"parent": "D1Bound5.firstPairGeometryRow_25_valid", "child": "D1Bound5_FirstPairGeometryData_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.firstPairGeometryRow_25_valid", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c304054_s5", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_Manifold", "via": ["statement"]}
-{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_Forms", "via": ["statement"]}
-{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_CE", "via": ["statement"]}
-{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_Integ", "via": ["statement"]}
+{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_Manifold", "via": ["solution", "statement"]}
+{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_Forms", "via": ["solution", "statement"]}
+{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_CE", "via": ["solution", "statement"]}
+{"parent": "IntLInfty.Kan.theorem_5_10", "child": "IntLInfty_Kan_Integ", "via": ["solution", "statement"]}
 {"parent": "BookProof.RelationShiftInvert.relOp_mem", "child": "ChapterNonnegUnitaryGroup", "via": ["solution", "statement"]}
 {"parent": "BookProof.RelationShiftInvert.relOp_mem", "child": "ChapterRelationShiftInvert", "via": ["solution", "statement"]}
 {"parent": "BookProof.RelationShiftInvert.relOp_mem", "child": "ChapterPositiveSquareRootUnique", "via": ["solution", "statement"]}
@@ -42110,7 +42110,7 @@
 {"parent": "D1Bound5.PairGraphPrepared39.indexed_chunk10_checked", "child": "D1Bound5_SmallPairGraphWitnessData39_Definitions_003", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared39.indexed_chunk10_checked", "child": "D1Bound5_SmallPairGraphInputs39_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared39.indexed_chunk10_checked", "child": "D1Bound5_SmallPairGraphWitnessData39_Definitions_001", "via": ["solution", "statement"]}
-{"parent": "KWSpectrum.Estimator.main_theorem", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
+{"parent": "KWSpectrum.Estimator.main_theorem", "child": "KWSpectrum_Estimator_Model", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared12.right_prefix_000_part02_checked", "child": "D1Bound5_SmallPairLightData12_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared12.right_prefix_000_part02_checked", "child": "D1Bound5_PairLightArithmeticChunks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared12.right_prefix_000_part02_checked", "child": "D1Bound5_SmallPairLightAdaptiveData12_Definitions", "via": ["solution", "statement"]}

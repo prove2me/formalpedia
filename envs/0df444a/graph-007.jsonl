@@ -17059,7 +17059,7 @@
 {"parent": "OAI_Analysis_BackwardIntertwiners_HaarBase", "child": "OAI_Analysis_BackwardIntertwiners_ConvexEnvelope", "via": ["statement"]}
 {"parent": "OAI_Analysis_BackwardIntertwiners_HaarBase", "child": "OAI_Analysis_BackwardIntertwiners_ExplicitWeights", "via": ["statement"]}
 {"parent": "PostQual.Incumbent.lemma_EC_1_c", "child": "PostQual_Incumbent_Model", "via": ["solution", "statement"]}
-{"parent": "OppReturns.Menu.menu_matches_targeted", "child": "OppReturns_Menu_Model", "via": ["statement"]}
+{"parent": "OppReturns.Menu.menu_matches_targeted", "child": "OppReturns_Menu_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.DirectCrouzeix.Geometry.expLevel_convex", "child": "OAI_Analysis_DirectCrouzeix_PoissonBoundary", "via": ["solution", "statement"]}
 {"parent": "OAI.DirectCrouzeix.Geometry.expLevel_convex", "child": "OAI_Analysis_DirectCrouzeix_FaberPolynomials", "via": ["solution", "statement"]}
 {"parent": "OAI.DirectCrouzeix.Geometry.expLevel_convex", "child": "OAI_Analysis_DirectCrouzeix_PolynomialCalculus", "via": ["solution", "statement"]}
@@ -28051,7 +28051,7 @@
 {"parent": "OAI.MainGap.four_fixed_impossible", "child": "OAI_Analysis_CStarAlgebra_PureInfiniteness_ChoicePairs", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group515_part05", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "NLogN.KFY.tB_getD", "child": "IntMul_Kappa_K_Defs33", "via": ["solution", "statement"]}
-{"parent": "OppReturns.Menu.proposition_4_refund_order", "child": "OppReturns_Menu_Model", "via": ["statement"]}
+{"parent": "OppReturns.Menu.proposition_4_refund_order", "child": "OppReturns_Menu_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_theta_mesh_generic_group153", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.selected_weight_ge_row_weight_of_choiceScalar_ne_zero", "child": "OAI_NumberTheory_PiExponent_Analysis_TranslatedExpansionWeights", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.selected_weight_ge_row_weight_of_choiceScalar_ne_zero", "child": "OAI_NumberTheory_PiExponent_Analysis_TranslatedExpansionTerms", "via": ["solution", "statement"]}

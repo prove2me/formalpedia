@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P12_choi_covariance
 -- name    : QAlgorithms.Papers.Independent.Intake100.P12.choi_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:59:07.762175+00:00
 -- url     : https://prove2.me/theorems/25cc8cfd-375e-46fb-b760-f1f44c4fa6b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiconvexProg_BranchBound_limit_identity
 -- name    : BiconvexProg.BranchBound.limit_identity
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-26T17:59:10.391393+00:00
 -- url     : https://prove2.me/theorems/e7d72335-3a48-4df8-be82-3431b167e0fe

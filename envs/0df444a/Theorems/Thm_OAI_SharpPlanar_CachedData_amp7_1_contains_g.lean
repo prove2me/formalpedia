@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_amp7_1_contains_g
 -- name    : OAI.SharpPlanar.CachedData.amp7_1_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T22:15:58.002356+00:00
 -- url     : https://prove2.me/theorems/47d370fa-306b-44e9-8294-66194b6c65ad

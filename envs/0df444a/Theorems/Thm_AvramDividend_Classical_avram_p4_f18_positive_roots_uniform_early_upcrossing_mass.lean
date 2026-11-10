@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f18_positive_roots_uniform_early_upcrossing_mass
 -- name    : AvramDividend.Classical.avram_p4_f18_positive_roots_uniform_early_upcrossing_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T23:17:04.870324+00:00
 -- url     : https://prove2.me/theorems/a628163d-fa30-4554-adeb-8b40f5b22b25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_proposition_4_bc
 -- name    : OppReturns.Menu.proposition_4_bc
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:49.057575+00:00
 -- url     : https://prove2.me/theorems/23cf72a3-d1da-4cca-ab01-4646d66bbe2e

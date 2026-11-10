@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_defectplus_column_g
 -- name    : OAI.SharpPlanar.Numerical.defectplus_column_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T09:22:54.511815+00:00
 -- url     : https://prove2.me/theorems/8885c538-7e2b-465f-a601-0924aa3ec152

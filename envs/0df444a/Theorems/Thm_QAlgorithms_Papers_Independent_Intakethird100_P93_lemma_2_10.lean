@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P93_lemma_2_10
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P93.lemma_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:35:14.81642+00:00
 -- url     : https://prove2.me/theorems/a747022a-6dca-4f3e-acc5-036ff8decd89

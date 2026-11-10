@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_g_theorem_sufficiency_pos_g2
 -- name    : Grunbaum2003.g_theorem_sufficiency_pos_g2
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T01:53:50.345133+00:00
 -- url     : https://prove2.me/theorems/88dced49-d9b1-44ed-a865-2432142dfb2c

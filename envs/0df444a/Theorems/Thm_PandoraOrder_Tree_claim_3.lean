@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PandoraOrder_Tree_claim_3
 -- name    : PandoraOrder.Tree.claim_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T22:01:56.730931+00:00
 -- url     : https://prove2.me/theorems/94382194-a6d3-4004-bd22-e79dbadba0a8

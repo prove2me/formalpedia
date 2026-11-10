@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_e0_singular_pure_jump_process_exists
 -- name    : AvramDividend.Classical.avram_e0_singular_pure_jump_process_exists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-07T16:57:19.217464+00:00
 -- url     : https://prove2.me/theorems/23551fb5-b44a-470f-b292-4bdb95494377

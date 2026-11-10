@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuhaBroadcast_eq_21
 -- name    : GuhaBroadcast.eq_21
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:26:12.699369+00:00
 -- url     : https://prove2.me/theorems/334db5bf-ca3f-43aa-b48c-385d0bdcffc7

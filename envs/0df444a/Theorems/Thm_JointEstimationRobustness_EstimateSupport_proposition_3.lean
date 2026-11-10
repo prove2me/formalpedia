@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointEstimationRobustness_EstimateSupport_proposition_3
 -- name    : JointEstimationRobustness.EstimateSupport.proposition_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T15:12:31.740059+00:00
 -- url     : https://prove2.me/theorems/f6bd566b-8ee7-4e90-af68-c76468f24fc5

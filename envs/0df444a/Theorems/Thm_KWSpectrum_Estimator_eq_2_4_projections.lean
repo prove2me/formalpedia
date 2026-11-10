@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KWSpectrum_Estimator_eq_2_4_projections
 -- name    : KWSpectrum.Estimator.eq_2_4_projections
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:32:38.515521+00:00
 -- url     : https://prove2.me/theorems/29dded7d-8310-48f7-bad4-65bbc7f29fdc

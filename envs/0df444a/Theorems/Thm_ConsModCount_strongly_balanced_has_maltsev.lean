@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsModCount_strongly_balanced_has_maltsev
 -- name    : ConsModCount.strongly_balanced_has_maltsev
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:29:15.912214+00:00
 -- url     : https://prove2.me/theorems/35fc3658-2112-4617-9e86-67eb9f05fe9c

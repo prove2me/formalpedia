@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P97_bound_monotonicity
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P97.bound_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:55:50.296234+00:00
 -- url     : https://prove2.me/theorems/a06dfc9a-1a10-4071-88a0-cc1e669dddff

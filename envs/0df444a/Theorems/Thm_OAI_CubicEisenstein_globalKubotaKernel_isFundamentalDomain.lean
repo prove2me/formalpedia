@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_globalKubotaKernel_isFundamentalDomain
 -- name    : OAI.CubicEisenstein.globalKubotaKernel_isFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:33:34.573215+00:00
 -- url     : https://prove2.me/theorems/9729d3ef-b551-452c-a038-e898e40bad2c

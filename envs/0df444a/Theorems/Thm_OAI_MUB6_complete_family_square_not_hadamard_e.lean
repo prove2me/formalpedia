@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_complete_family_square_not_hadamard_e
 -- name    : OAI.MUB6.complete_family_square_not_hadamard_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T01:28:42.545128+00:00
 -- url     : https://prove2.me/theorems/29dcccb4-9058-4762-bfbf-b9145e3226f3

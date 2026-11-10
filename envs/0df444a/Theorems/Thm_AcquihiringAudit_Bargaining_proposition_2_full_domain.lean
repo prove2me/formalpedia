@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringAudit_Bargaining_proposition_2_full_domain
 -- name    : AcquihiringAudit.Bargaining.proposition_2_full_domain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:31:35.613966+00:00
 -- url     : https://prove2.me/theorems/2396363f-f8fa-4223-b0f1-252f22f02722

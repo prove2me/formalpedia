@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeSOS_ConvexConsistency_bernstein_derivatives
 -- name    : ShapeSOS.ConvexConsistency.bernstein_derivatives
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T23:22:37.954892+00:00
 -- url     : https://prove2.me/theorems/717714d3-e6b4-4382-9e97-c366699d9f77

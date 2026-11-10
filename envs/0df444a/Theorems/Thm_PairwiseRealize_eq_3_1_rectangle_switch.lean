@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PairwiseRealize_eq_3_1_rectangle_switch
 -- name    : PairwiseRealize.eq_3_1_rectangle_switch
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:55:44.501642+00:00
 -- url     : https://prove2.me/theorems/5e868173-55d5-449d-869e-35ba49589976

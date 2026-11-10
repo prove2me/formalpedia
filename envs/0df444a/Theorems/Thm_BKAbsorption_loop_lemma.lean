@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAbsorption_loop_lemma
 -- name    : BKAbsorption.loop_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-07T14:13:15.345094+00:00
 -- url     : https://prove2.me/theorems/6eb0e885-dc70-45c9-a0de-325e008d46a0

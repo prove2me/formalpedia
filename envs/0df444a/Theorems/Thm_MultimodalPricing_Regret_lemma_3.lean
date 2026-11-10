@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultimodalPricing_Regret_lemma_3
 -- name    : MultimodalPricing.Regret.lemma_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T08:05:09.930423+00:00
 -- url     : https://prove2.me/theorems/18f45540-0534-47e0-b61f-858babd2f9bd

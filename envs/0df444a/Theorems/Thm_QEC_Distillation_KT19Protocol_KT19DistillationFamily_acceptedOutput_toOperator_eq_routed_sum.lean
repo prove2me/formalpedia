@@ -1,0 +1,67 @@
+-- Prove2me | Theorems.Thm_QEC_Distillation_KT19Protocol_KT19DistillationFamily_acceptedOutput_toOperator_eq_routed_sum
+-- name    : QEC.Distillation.KT19Protocol.KT19DistillationFamily.acceptedOutput_toOperator_eq_routed_sum
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-09T14:30:40.495782+00:00
+-- url     : https://prove2.me/theorems/577e5259-3a0f-4d35-97d4-a8863acf9102
+-- title:
+--   KT19 Distillation Family: accepted Output to Operator eq routed sum
+-- statement:
+--   The normalized accepted output of the actual family run is exactly the
+--   success-normalized finite IID mixture of the magic-register words selected by
+--   `kt19Routing`.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Distillation/PrimeQuditProtocol/Protocol.lean#L4571-L4604
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Distillation/PrimeQuditProtocol/Protocol.lean#L4571-L4604
+
+import Definitions.Def_QEC_Coding_Core_Definitions
+import Definitions.Def_QEC_Distillation_PrimeQuditProtocol_MagicResource
+import Definitions.Def_QEC_Distillation_PrimeQuditProtocol_P11CubicBridge
+import Definitions.Def_QEC_Distillation_Core_MagicStateProtocol
+import Definitions.Def_QEC_Distillation_Core_Overhead
+import Definitions.Def_QEC_Distillation_Core_FiniteInstrumentBinaryRun
+import Definitions.Def_QEC_Distillation_Core_FiniteDecodedTrace
+import Definitions.Def_QEC_Semantics_Instruments_Branches_BranchOperatorLinear
+import Definitions.Def_QEC_Semantics_Instruments_Sequential_Composition
+import Definitions.Def_QEC_Distillation_PrimeQuditProtocol_Protocol
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Distillation QEC.Distillation.KT19Protocol
+open Semantics
+open QEC.Coding
+open QEC.Coding.KT19ReedSolomon
+open QEC.Distillation.KT19PrimeQuditCSS
+open QEC.Distillation.KT19MagicResource.KT19PrimeQuditCSS
+open QEC.Distillation.KT19P11ReedSolomonCubicBridge
+attribute [local instance]
+  QEC.Distillation.KT19PrimeQuditCSS.primeQuditRegisterLabelFintype
+attribute [local instance] QEC.Distillation.KT19Protocol.instKT19ProtocolClassicalDecidable
+attribute [local instance] QEC.Distillation.KT19Protocol.instKT19ProtocolClassicalDecidable
+universe u
+variable (p : Nat) [NeZero p]
+variable {Site : Type u} [Fintype Site] [DecidableEq Site]
+variable {q : Nat} [NeZero q] [Fact q.Prime]
+variable {Logical Stabilizer : Type u} [Fintype Logical] [Fintype Stabilizer]
+attribute [local instance] QEC.Distillation.KT19Protocol.p11Prime
+attribute [local instance] QEC.Distillation.KT19Protocol.p11NeZero
+attribute [local instance] QEC.Distillation.KT19Protocol.p11Prime QEC.Distillation.KT19Protocol.p11NeZero
+open QEC.Distillation.KT19Protocol.KT19DistillationFamily
+variable {p l k : Nat} [NeZero p] [Fact p.Prime]
+
+theorem QEC.Distillation.KT19Protocol.KT19DistillationFamily.acceptedOutput_toOperator_eq_routed_sum
+    (family : KT19DistillationFamily p l k)
+    (mu : ZMod p → ℝ) (hmu_nonneg : ∀ a : ZMod p, 0 ≤ mu a)
+    (hmu_sum : ∑ a : ZMod p, mu a = 1)
+    (heps : kt19ErrorRate mu < 1) :
+    (run family mu hmu_nonneg hmu_sum).acceptedOutput.toOperator =
+      (kt19Success family.rowFamily mu hmu_nonneg hmu_sum : Complex)⁻¹ •
+        ∑ error : Word (ZMod p) (KeptPunctureLocation p k),
+          if kt19AcceptedWord family.rowFamily error then
+            (wordProbability p mu error : Complex) •
+              (DensityOperator.pureDensity
+                (magicRegisterKet p (kt19Routing family error)) (by
+                  rw [InnerProductSpace.norm_sq_eq_re_inner (𝕜 := Complex),
+                    magicRegisterKet_inner_self]
+                  norm_num)).toOperator
+          else 0 := by sorry

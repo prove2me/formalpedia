@@ -25792,8 +25792,8 @@
 {"parent": "D1Bound5.PairGraphPrepared48.indexed_checked", "child": "D1Bound5_SmallPairGraphWitnessData48_Definitions_003", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared48.indexed_checked", "child": "D1Bound5_SmallPairGraphWitnessData48_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteQ_half_coefficients", "child": "D1Bound5_HalfBinomialCoefficients_Definitions", "via": ["solution", "statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nestOK_of_rkC_pos", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nestOK_of_rkC_pos", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nestOK_of_rkC_pos", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nestOK_of_rkC_pos", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_PellLightPrefixData28_Definitions_002", "child": "D1Bound5_PellLightCF_Definitions", "via": ["statement"]}
 {"parent": "D1Bound5_PellLightPrefixData28_Definitions_002", "child": "D1Bound5_PellLightPrefixData28_Definitions_001", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10045_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
@@ -43397,7 +43397,7 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared24.right_prefix_001_part01_checked", "child": "D1Bound5_SmallPairLightData24RightRows_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared24.right_prefix_001_part01_checked", "child": "D1Bound5_SmallPairLightData24Sieve_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared24.right_prefix_001_part01_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
-{"parent": "KWSpectrum.Estimator.eq_2_4_projections", "child": "KWSpectrum_Estimator_Model", "via": ["statement"]}
+{"parent": "KWSpectrum.Estimator.eq_2_4_projections", "child": "KWSpectrum_Estimator_Model", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared182", "child": "Sensitivity213981Formal_NamespacesComplete", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared182", "child": "Sensitivity213981Formal_Endpoint22FastTree", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.arithmetic_prepared182", "child": "Sensitivity213981Formal_RankFusedTree", "via": ["solution", "statement"]}
@@ -47326,8 +47326,8 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1084_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_PellLightMatchingField631_Definitions", "child": "D1Bound5_PellLightMatching_Definitions", "via": ["statement"]}
 {"parent": "OAI.Balanced.ProfileScheduledFiniteComparison.eventually_finiteDetection_of_profileClass", "child": "OAIQ63Br002", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.Dm_rank_eq_rkC", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.Dm_rank_eq_rkC", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.Dm_rank_eq_rkC", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.Dm_rank_eq_rkC", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared36.left_parallel_001_part04_checked", "child": "D1Bound5_SmallPairLightData36LeftCached_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared36.left_parallel_001_part04_checked", "child": "D1Bound5_PairLightArithmeticChunks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared36.left_parallel_001_part04_checked", "child": "D1Bound5_SmallPairLightData36Sieve_Definitions", "via": ["solution", "statement"]}
@@ -70597,7 +70597,7 @@
 {"parent": "AvramDividend.Classical.causal_l1_kernel_primitive_C1_of_Ici_input", "child": "AvramDividend.Classical.causal_convolution_time_reversal", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.causal_l1_kernel_primitive_C1_of_Ici_input", "child": "AvramDividend.Classical.causal_l1_convolution_outer_integrable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.causal_l1_kernel_primitive_C1_of_Ici_input", "child": "AvramDividend.Classical.causal_l1_convolution_continuousOn_positive_of_Ici_input", "via": ["solution", "statement"]}
-{"parent": "EntanglingOps.BinaryPhase.binary_phase_protocol", "child": "EntanglingOps_BinaryPhase_Model", "via": ["statement"]}
+{"parent": "EntanglingOps.BinaryPhase.binary_phase_protocol", "child": "EntanglingOps_BinaryPhase_Model", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c305086_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.zero_jump_affine_cutoff_generator_eq_drift", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.zero_jump_affine_cutoff_generator_eq_drift", "child": "AvramDividend.Classical.affine_cutoff_second_deriv_eq_zero_positive", "via": ["solution", "statement"]}

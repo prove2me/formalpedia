@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SponsoredAssort_claim_G_1
 -- name    : SponsoredAssort.claim_G_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:51:07.545675+00:00
 -- url     : https://prove2.me/theorems/4c2a5de1-035b-4f8b-a38b-246231ada3b2

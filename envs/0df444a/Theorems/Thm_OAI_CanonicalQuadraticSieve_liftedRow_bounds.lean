@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CanonicalQuadraticSieve_liftedRow_bounds
 -- name    : OAI.CanonicalQuadraticSieve.liftedRow_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:51:30.433242+00:00
 -- url     : https://prove2.me/theorems/5df530c4-b930-4f5a-be91-10867c886778

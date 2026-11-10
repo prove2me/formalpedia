@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P95_input_output_reshaping
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P95.input_output_reshaping
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:44:43.585172+00:00
 -- url     : https://prove2.me/theorems/9dd7207d-1586-402a-958c-65eea6fc38ce

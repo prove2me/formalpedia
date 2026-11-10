@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P96_centreFree_centralSection_unique
 -- name    : QAlgorithms.Papers.Independent.Intake100.P96.centreFree_centralSection_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:59:02.691674+00:00
 -- url     : https://prove2.me/theorems/437233b3-0d96-4a55-a271-9d85235baf27

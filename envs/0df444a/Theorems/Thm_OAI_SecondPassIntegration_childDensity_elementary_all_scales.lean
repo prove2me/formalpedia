@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SecondPassIntegration_childDensity_elementary_all_scales
 -- name    : OAI.SecondPassIntegration.childDensity_elementary_all_scales
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:49:03.737569+00:00
 -- url     : https://prove2.me/theorems/8c1675fe-4a71-4bbd-b306-91357498a741

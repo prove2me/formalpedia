@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JiangALSOX_Dominance_kkt2
 -- name    : JiangALSOX.Dominance.kkt2
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:07:36.882872+00:00
 -- url     : https://prove2.me/theorems/cc4171cc-3d6d-4826-873d-8410e483b2ff

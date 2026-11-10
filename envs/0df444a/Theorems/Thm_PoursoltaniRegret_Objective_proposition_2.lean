@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoursoltaniRegret_Objective_proposition_2
 -- name    : PoursoltaniRegret.Objective.proposition_2
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:57:23.112538+00:00
 -- url     : https://prove2.me/theorems/fb360a03-feda-42f5-b19d-2e40dd4b677c

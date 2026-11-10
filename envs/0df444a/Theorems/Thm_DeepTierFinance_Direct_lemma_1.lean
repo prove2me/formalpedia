@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepTierFinance_Direct_lemma_1
 -- name    : DeepTierFinance.Direct.lemma_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:21:31.923223+00:00
 -- url     : https://prove2.me/theorems/98ccd0f6-83b5-49c4-85a3-a06114772b31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Residual52_bound1_1_g
 -- name    : OAI.SharpPlanar.Residual52.bound1_1_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T10:05:06.727522+00:00
 -- url     : https://prove2.me/theorems/8257a4d7-bbd8-4208-8774-dd590607f149

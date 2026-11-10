@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExponomialAssortment_FPTAS_lemma_3
 -- name    : ExponomialAssortment.FPTAS.lemma_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T21:15:22.299557+00:00
 -- url     : https://prove2.me/theorems/c1982031-b6ca-4ff6-897a-55a64b763098

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GongReusable_Myopic_theorem_1
 -- name    : GongReusable.Myopic.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T19:26:29.303134+00:00
 -- url     : https://prove2.me/theorems/90f07a25-5575-4cfd-9919-a970632b039b

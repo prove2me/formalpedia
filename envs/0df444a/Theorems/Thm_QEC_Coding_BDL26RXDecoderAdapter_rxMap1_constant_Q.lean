@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDecoderAdapter_rxMap1_constant_Q
+-- name    : QEC.Coding.BDL26RXDecoderAdapter.rxMap1_constant_Q
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-10T05:02:51.539478+00:00
+-- url     : https://prove2.me/theorems/a00bea80-b961-49c8-a065-289b117c3241
+-- title:
+--   BDL26 RXDecoder Adapter: rx Map1 constant Q
+-- statement:
+--   The actual selected degree-one map is exactly the constant-Q representative.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/FiniteAlternatingConstruction/RXDecoderAdapter.lean#L1006-L1018
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/FiniteAlternatingConstruction/RXDecoderAdapter.lean#L1006-L1018
+
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Decomposition
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Coordinates
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Flow
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Lifts
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Representative
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Graph
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Sectors
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Induced
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Budgets
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_LocalComplexes
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_IndexedDecoder
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.BDL26RXDecoderAdapter
+open BDL26FiniteTannerSquare BDL26TannerLocalRegularity BDL26RXLocalReplacement
+open BDL26ReplacementSupport BDL26ReplacementCochainMaps BDL26RXStagedRestriction
+open BDL26DecodingGraph BDL26AlternatingCochain MultiscaleDecoder RXCoarseGraining
+open BDL26RZMap1CoordinateBridge (tannerCoboundary0 tannerCoboundary1)
+open scoped Classical BigOperators
+open BDL26IndexedDecoder BDL26AlternatingCochain
+variable (S : OddScale) (depth : Nat) (i : StepIndex depth)
+open RXCoarseGrainingData
+
+theorem QEC.Coding.BDL26RXDecoderAdapter.rxMap1_constant_Q (h : i.val % 2 = 0)
+    (c : Word BDL26Field (state S i.val).presentation.Q) :
+    ((indexedDecoderData S depth).rxMap i).map1 c =
+      ∑ q, extendWordLinear ((rxLq S depth i h).correctionRegion q) (fun _ => c q) := by sorry

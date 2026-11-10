@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_proposition_4_refund_order
 -- name    : OppReturns.Menu.proposition_4_refund_order
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:44.63634+00:00
 -- url     : https://prove2.me/theorems/4bf14b23-52d0-4c9d-a2e3-a94a5c586bd8

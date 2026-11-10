@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_ray_oracle_phased_discovery_loop_from_frame_init_and_axis
 -- name    : Grunbaum2003.ray_oracle_phased_discovery_loop_from_frame_init_and_axis
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:13:22.50321+00:00
 -- url     : https://prove2.me/theorems/04edeceb-8f71-48fa-a07b-951911fa4563

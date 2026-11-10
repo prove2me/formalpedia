@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuReturnsAudit_OptimalPolicy_proposition2_complete_optimal_policy
 -- name    : SuReturnsAudit.OptimalPolicy.proposition2_complete_optimal_policy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T13:44:18.619992+00:00
 -- url     : https://prove2.me/theorems/4abd3da8-639e-47f7-b131-d2021373f971

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LoockCVQEC_RepCode_syndrome_table
 -- name    : LoockCVQEC.RepCode.syndrome_table
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:58:08.535056+00:00
 -- url     : https://prove2.me/theorems/97b0ef38-d99a-4ffe-9ce8-07ca42606a19

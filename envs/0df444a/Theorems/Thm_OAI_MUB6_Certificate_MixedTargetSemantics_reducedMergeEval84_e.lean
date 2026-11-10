@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedTargetSemantics_reducedMergeEval84_e
 -- name    : OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval84_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T09:12:47.637581+00:00
 -- url     : https://prove2.me/theorems/f3923f0c-7a92-4fed-bb9a-b984c2c7b4a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P26_extrinsic_conformal_density_invariant
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P26.extrinsic_conformal_density_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:03:18.156069+00:00
 -- url     : https://prove2.me/theorems/e88724a7-e1ef-46c2-ba98-4e61f8cef9b9

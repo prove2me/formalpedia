@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_local_verification_capped_countable_dividend_budget
 -- name    : AvramDividend.Classical.local_verification_capped_countable_dividend_budget
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T08:15:36.037705+00:00
 -- url     : https://prove2.me/theorems/6ad36efb-f484-4d33-803e-f49a3c8ff89f

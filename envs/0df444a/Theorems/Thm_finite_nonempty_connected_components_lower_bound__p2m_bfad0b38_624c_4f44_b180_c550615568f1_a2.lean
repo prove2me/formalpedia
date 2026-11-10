@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_nonempty_connected_components_lower_bound__p2m_bfad0b38_624c_4f44_b180_c550615568f1_a2
 -- name    : finite_nonempty_connected_components_lower_bound__p2m_bfad0b38_624c_4f44_b180_c550615568f1_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:41:50.695702+00:00
 -- url     : https://prove2.me/theorems/d17930eb-525d-472a-afdc-c9c0acfd22e8

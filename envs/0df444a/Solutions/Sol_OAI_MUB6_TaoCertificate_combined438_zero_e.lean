@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MUB6.TaoCertificate.combined438_zero_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T04:20:20.584533+00:00
 -- url     : https://prove2.me/submissions/8f3d8f33-86cf-403b-b2dc-771f599e4de6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MUBSix

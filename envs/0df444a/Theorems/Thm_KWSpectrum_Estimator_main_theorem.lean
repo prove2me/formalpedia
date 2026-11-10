@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KWSpectrum_Estimator_main_theorem
 -- name    : KWSpectrum.Estimator.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:33:16.330273+00:00
 -- url     : https://prove2.me/theorems/d631d197-7447-41f5-9f8f-315c1f8fe016

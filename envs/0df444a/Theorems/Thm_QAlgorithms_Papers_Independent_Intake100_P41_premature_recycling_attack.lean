@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P41_premature_recycling_attack
 -- name    : QAlgorithms.Papers.Independent.Intake100.P41.premature_recycling_attack
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:22:56.365821+00:00
 -- url     : https://prove2.me/theorems/166bf6c2-0bd3-478d-a2cb-3e83e4eb0c42

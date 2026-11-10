@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsModCount_carbonnel_minority_term
 -- name    : ConsModCount.carbonnel_minority_term
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:28:02.509027+00:00
 -- url     : https://prove2.me/theorems/aed0dd87-95f1-4b7c-a93b-67fdbdc784a1

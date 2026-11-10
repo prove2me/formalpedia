@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundConstrainedPatternSearch_FullConvergence_residual_tendsto_zero
 -- name    : BoundConstrainedPatternSearch.FullConvergence.residual_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:42:51.065242+00:00
 -- url     : https://prove2.me/theorems/3816e47e-d170-4a42-be0a-a16dd783e3a6

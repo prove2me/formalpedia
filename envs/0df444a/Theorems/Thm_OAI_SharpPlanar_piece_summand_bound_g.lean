@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_piece_summand_bound_g
 -- name    : OAI.SharpPlanar.piece_summand_bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:37:13.182209+00:00
 -- url     : https://prove2.me/theorems/36584404-43be-42d6-a7b3-b01ee5b59648

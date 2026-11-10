@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPBSelect_theorem_3_G_concave
 -- name    : MPBSelect.theorem_3_G_concave
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:28:28.698759+00:00
 -- url     : https://prove2.me/theorems/1456e78a-b125-40d7-9bd5-f47a3e69d413

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformCournot_appendix_A3_efficient_welfare
 -- name    : PlatformCournot.appendix_A3_efficient_welfare
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:26:52.36701+00:00
 -- url     : https://prove2.me/theorems/f141472b-5646-4771-9107-2555514c3c58

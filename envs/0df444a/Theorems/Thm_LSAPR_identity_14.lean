@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSAPR_identity_14
 -- name    : LSAPR.identity_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:33:08.780326+00:00
 -- url     : https://prove2.me/theorems/42d4f079-6305-4392-bd97-295e1b59b454

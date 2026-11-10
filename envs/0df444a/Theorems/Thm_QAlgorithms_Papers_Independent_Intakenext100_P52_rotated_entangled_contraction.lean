@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_rotated_entangled_contraction
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.rotated_entangled_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:31:49.712131+00:00
 -- url     : https://prove2.me/theorems/a542a518-0383-43a8-8628-79dc8e13f1be

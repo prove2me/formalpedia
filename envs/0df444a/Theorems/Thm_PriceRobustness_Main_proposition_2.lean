@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceRobustness_Main_proposition_2
 -- name    : PriceRobustness.Main.proposition_2
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T06:39:21.301445+00:00
 -- url     : https://prove2.me/theorems/6cd8302b-c4b6-4ba4-90be-ef23f774e79e

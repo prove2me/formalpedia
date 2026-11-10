@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_paper_results
 -- name    : PhilipponMultiplicity.paper_results
--- status  : Open
+-- status  : Disproved
 -- author  : @tomasz
 -- created : 2026-09-23T21:12:28.674994+00:00
 -- url     : https://prove2.me/theorems/93e201f3-38c1-4444-b101-6225bb14941a

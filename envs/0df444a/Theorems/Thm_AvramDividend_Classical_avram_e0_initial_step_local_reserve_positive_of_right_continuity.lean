@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_e0_initial_step_local_reserve_positive_of_right_continuity
 -- name    : AvramDividend.Classical.avram_e0_initial_step_local_reserve_positive_of_right_continuity
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-11-07T19:28:30.004983+00:00
 -- url     : https://prove2.me/theorems/f6cbd410-e5e3-422d-94fd-1edc9a072923

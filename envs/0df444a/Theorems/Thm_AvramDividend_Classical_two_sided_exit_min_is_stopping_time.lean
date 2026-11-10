@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_two_sided_exit_min_is_stopping_time
 -- name    : AvramDividend.Classical.two_sided_exit_min_is_stopping_time
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-29T04:39:56.000595+00:00
 -- url     : https://prove2.me/theorems/1a512e53-cd21-4d4f-ade8-6733ee13b86b

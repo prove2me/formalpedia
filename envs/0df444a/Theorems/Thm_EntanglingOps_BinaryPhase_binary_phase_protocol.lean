@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntanglingOps_BinaryPhase_binary_phase_protocol
 -- name    : EntanglingOps.BinaryPhase.binary_phase_protocol
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:29:32.61256+00:00
 -- url     : https://prove2.me/theorems/91b34797-c373-42a7-b495-1bbb099f0f65

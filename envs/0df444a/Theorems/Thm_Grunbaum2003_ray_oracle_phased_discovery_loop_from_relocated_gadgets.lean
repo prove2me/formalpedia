@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_ray_oracle_phased_discovery_loop_from_relocated_gadgets
 -- name    : Grunbaum2003.ray_oracle_phased_discovery_loop_from_relocated_gadgets
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T01:53:54.911191+00:00
 -- url     : https://prove2.me/theorems/bc541f98-b35a-49bc-8516-6a1586e2efcc

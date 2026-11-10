@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProbabilityTheory.LevyKhintchineTriple.exponent_continuous
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-06T18:56:49.220898+00:00
 -- url     : https://prove2.me/submissions/7b8e87cc-d9a7-4843-b16e-bbcbd575e04f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LeanLevy_Levy_LevyKhintchineProof
 import Theorems.Thm_ProbabilityTheory_continuous_integral_levyCompensatedIntegrand

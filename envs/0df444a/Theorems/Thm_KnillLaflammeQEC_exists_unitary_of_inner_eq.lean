@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnillLaflammeQEC_exists_unitary_of_inner_eq
 -- name    : KnillLaflammeQEC.exists_unitary_of_inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:21:08.752982+00:00
 -- url     : https://prove2.me/theorems/08525c23-c856-4f95-b8be-53b8c30d8952

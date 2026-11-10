@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Pmoment_norm_bound_g
 -- name    : OAI.SharpPlanar.Pmoment_norm_bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:32:36.784839+00:00
 -- url     : https://prove2.me/theorems/9822695d-0c5c-4b3d-b820-84ff94203fff

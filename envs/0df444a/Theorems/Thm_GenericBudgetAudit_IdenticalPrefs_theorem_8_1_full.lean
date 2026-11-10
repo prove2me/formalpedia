@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgetAudit_IdenticalPrefs_theorem_8_1_full
 -- name    : GenericBudgetAudit.IdenticalPrefs.theorem_8_1_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:33:31.960669+00:00
 -- url     : https://prove2.me/theorems/89a91750-6a5a-4ad1-8a18-b764383c8b97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsamplingSM_Offline_lemma5_invariants
 -- name    : SubsamplingSM.Offline.lemma5_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:57:50.336988+00:00
 -- url     : https://prove2.me/theorems/eabc5d30-4bbf-47ff-81d6-7db73afa565a

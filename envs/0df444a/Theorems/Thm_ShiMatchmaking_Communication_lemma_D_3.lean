@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShiMatchmaking_Communication_lemma_D_3
 -- name    : ShiMatchmaking.Communication.lemma_D_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T15:48:41.273354+00:00
 -- url     : https://prove2.me/theorems/7c92e7e8-5acf-4537-87e1-42567d2b0e86

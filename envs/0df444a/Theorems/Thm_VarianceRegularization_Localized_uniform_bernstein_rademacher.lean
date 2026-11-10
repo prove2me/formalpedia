@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Localized_uniform_bernstein_rademacher
 -- name    : VarianceRegularization.Localized.uniform_bernstein_rademacher
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:42:44.542078+00:00
 -- url     : https://prove2.me/theorems/135e4637-3292-47de-9f4c-ba7e10cf7f0a

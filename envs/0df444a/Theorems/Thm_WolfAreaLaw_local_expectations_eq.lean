@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WolfAreaLaw_local_expectations_eq
 -- name    : WolfAreaLaw.local_expectations_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:49:37.448791+00:00
 -- url     : https://prove2.me/theorems/52fc73e5-f225-4e6a-9ddc-38461c1decce

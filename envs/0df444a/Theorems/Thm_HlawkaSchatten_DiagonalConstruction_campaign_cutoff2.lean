@@ -13,7 +13,7 @@
 --
 --   This combines admissibility and optimality uniformly over all finite complex coordinate dimensions. It includes dimension zero and arbitrary triples with unequal or zero norms. The same shared definitions are used throughout; the claim concerns complex diagonal matrices via their coordinate norms.
 --
---   No proof is known for 2 ≤ p < 16; the accepted cutoff-16 theorem covers every p ≥ 16. The original confinement method (exhausted at 62), the technique that reached 21, and the window-by-window proof that reached 16 are available as prior art. At p = 2 the constant C_p equals 1 exactly, reached at t = 2.
+--   At p = 2 the constant K_p equals 1 exactly, attained at t = 2.
 -- source:
 --   https://prove2.me/campaigns/sharp-diagonal-hlawka-constant
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinFracProphet_lemma_1
 -- name    : MinFracProphet.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:35:23.553387+00:00
 -- url     : https://prove2.me/theorems/0d4da9e7-0574-4455-9e20-38bd77f9b2c6

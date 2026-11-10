@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeisenbergRep_Knill_measurement_correction
 -- name    : HeisenbergRep.Knill.measurement_correction
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:28.076497+00:00
 -- url     : https://prove2.me/theorems/c743b7e1-0607-44f6-aa3c-5e80a8cde194

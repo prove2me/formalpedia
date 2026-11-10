@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrownSharedSignals_Fluid_proposition_3_2
 -- name    : BrownSharedSignals.Fluid.proposition_3_2
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:53:48.444181+00:00
 -- url     : https://prove2.me/theorems/c8872fb6-3973-4eb3-971d-81e12489d68b

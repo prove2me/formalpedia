@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalluriMNLFull_Policy_proposition_6_full
 -- name    : TalluriMNLFull.Policy.proposition_6_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:00:22.965736+00:00
 -- url     : https://prove2.me/theorems/b70b6254-47d5-4eb8-80e5-98cd9074b625

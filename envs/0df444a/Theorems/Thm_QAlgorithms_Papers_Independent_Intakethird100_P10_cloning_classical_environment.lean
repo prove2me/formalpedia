@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P10_cloning_classical_environment
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P10.cloning_classical_environment
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:46:00.854399+00:00
 -- url     : https://prove2.me/theorems/5ff52f78-b381-4174-9fd4-fc788480894c

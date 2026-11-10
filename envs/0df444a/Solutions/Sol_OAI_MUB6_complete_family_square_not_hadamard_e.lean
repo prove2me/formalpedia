@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MUB6.complete_family_square_not_hadamard_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-08T15:27:33.627518+00:00
 -- url     : https://prove2.me/submissions/de504a11-c19c-4b05-9ceb-5cb07f855067
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Lean.Elab.Tactic.Omega

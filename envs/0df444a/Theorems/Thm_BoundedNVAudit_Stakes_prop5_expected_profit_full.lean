@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNVAudit_Stakes_prop5_expected_profit_full
 -- name    : BoundedNVAudit.Stakes.prop5_expected_profit_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:31:41.249231+00:00
 -- url     : https://prove2.me/theorems/7bfd615d-a938-404f-9c2c-39cc5077be71

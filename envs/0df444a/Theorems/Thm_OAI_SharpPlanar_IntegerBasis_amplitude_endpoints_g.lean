@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_IntegerBasis_amplitude_endpoints_g
 -- name    : OAI.SharpPlanar.IntegerBasis.amplitude_endpoints_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T04:29:10.197375+00:00
 -- url     : https://prove2.me/theorems/00b66371-c979-41bf-a6c9-0e941262c9eb

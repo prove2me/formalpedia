@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralQuotientVolume_ne_zero
 -- name    : OAI.CubicEisenstein.integralQuotientVolume_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:33:35.247575+00:00
 -- url     : https://prove2.me/theorems/a6f3a39f-9332-45eb-8382-f89e137d22d5

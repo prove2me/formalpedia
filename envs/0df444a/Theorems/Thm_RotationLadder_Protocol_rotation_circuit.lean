@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationLadder_Protocol_rotation_circuit
 -- name    : RotationLadder.Protocol.rotation_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:34:51.851143+00:00
 -- url     : https://prove2.me/theorems/6294a06f-750a-4011-9b8c-f9d9aa66c93c

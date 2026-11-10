@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShiMatchmaking_Communication_proposition_12
 -- name    : ShiMatchmaking.Communication.proposition_12
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T15:48:53.003081+00:00
 -- url     : https://prove2.me/theorems/00bacf92-bfaf-4f30-b1ee-238f5e363cfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathoSubgrad_Circle_nonconvergent_subgradient_sequence
 -- name    : PathoSubgrad.Circle.nonconvergent_subgradient_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:22:50.320832+00:00
 -- url     : https://prove2.me/theorems/ce1d3b3b-08e3-4914-b448-f8f6cf34e1db

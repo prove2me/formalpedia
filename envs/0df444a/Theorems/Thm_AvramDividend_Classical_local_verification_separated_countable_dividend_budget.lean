@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_local_verification_separated_countable_dividend_budget
 -- name    : AvramDividend.Classical.local_verification_separated_countable_dividend_budget
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T08:21:41.511764+00:00
 -- url     : https://prove2.me/theorems/e71b6299-f107-47fe-940c-d9930dca2985

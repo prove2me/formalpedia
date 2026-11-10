@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_theorem_1_1_parameters
 -- name    : DetANN.theorem_1_1_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:26:27.667263+00:00
 -- url     : https://prove2.me/theorems/1b636d62-0ecc-47dd-aaad-f04c10eb46f8

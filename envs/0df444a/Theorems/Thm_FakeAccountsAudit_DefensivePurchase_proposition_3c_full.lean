@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccountsAudit_DefensivePurchase_proposition_3c_full
 -- name    : FakeAccountsAudit.DefensivePurchase.proposition_3c_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T13:45:13.395024+00:00
 -- url     : https://prove2.me/theorems/1090f26f-f3f2-4523-97b3-de8ff24e27aa

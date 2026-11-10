@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiUnitProphet_claim_3
 -- name    : MultiUnitProphet.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:12:22.813607+00:00
 -- url     : https://prove2.me/theorems/46c81851-52c8-4036-bc66-352e8b2a93c1

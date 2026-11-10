@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f16_sigma_nonzero_upward_germ_mass
 -- name    : AvramDividend.Classical.avram_p4_f16_sigma_nonzero_upward_germ_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T23:08:30.249535+00:00
 -- url     : https://prove2.me/theorems/74ce188b-5ae9-41e5-a849-07033d4a4fab

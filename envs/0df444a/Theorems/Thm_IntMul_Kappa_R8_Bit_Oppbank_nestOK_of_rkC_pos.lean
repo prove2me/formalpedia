@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_nestOK_of_rkC_pos
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.nestOK_of_rkC_pos
--- status  : Open
+-- status  : Disproved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:51:34.00562+00:00
 -- url     : https://prove2.me/theorems/446b8e74-d1b5-44ac-a049-29d8986227a8

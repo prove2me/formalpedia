@@ -3020,10 +3020,10 @@
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerSelectedPartialTraceChannel_apply", "child": "QEC_Semantics_Instruments_Selection_SelectedSubsystem", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerSelectedPartialTraceChannel_apply", "child": "QEC_Semantics_Instruments_TensorPower_Basis", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerSelectedPartialTraceChannel_apply", "child": "QEC_Semantics_Core_Subsystem", "via": ["solution", "statement"]}
-{"parent": "PrefixVR.eq_26", "child": "KatyushaNs_favg", "via": ["statement"]}
-{"parent": "PrefixVR.eq_26", "child": "PrefixVR_Variation", "via": ["statement"]}
-{"parent": "PrefixVR.eq_26", "child": "ConvexOptAlg_SmoothGD_Defs", "via": ["statement"]}
-{"parent": "PrefixVR.eq_26", "child": "PrefixVR_Assumption3", "via": ["statement"]}
+{"parent": "PrefixVR.eq_26", "child": "KatyushaNs_favg", "via": ["solution", "statement"]}
+{"parent": "PrefixVR.eq_26", "child": "PrefixVR_Variation", "via": ["solution", "statement"]}
+{"parent": "PrefixVR.eq_26", "child": "ConvexOptAlg_SmoothGD_Defs", "via": ["solution", "statement"]}
+{"parent": "PrefixVR.eq_26", "child": "PrefixVR_Assumption3", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteKrausFamily.indexedConditionWithScalar_posSemidef_of_carrier_ne_bot", "child": "QEC_Semantics_Channels_ChoiKraus", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteKrausFamily.indexedConditionWithScalar_posSemidef_of_carrier_ne_bot", "child": "QEC_Semantics_Channels_KrausKnillLaflamme", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteKrausFamily.indexedConditionWithScalar_posSemidef_of_carrier_ne_bot", "child": "QEC_Semantics_ErrorCorrection_KLRecovery", "via": ["solution", "statement"]}

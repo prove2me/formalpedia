@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_piece_density_bound_g
 -- name    : OAI.SharpPlanar.piece_density_bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T05:34:18.273784+00:00
 -- url     : https://prove2.me/theorems/30716e55-0446-4133-845f-4e61fa3678f0

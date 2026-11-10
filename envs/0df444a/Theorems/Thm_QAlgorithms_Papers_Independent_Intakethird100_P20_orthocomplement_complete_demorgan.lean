@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_orthocomplement_complete_demorgan
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.orthocomplement_complete_demorgan
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:53:33.845608+00:00
 -- url     : https://prove2.me/theorems/31234083-0093-4a00-bb26-14853e81ede4

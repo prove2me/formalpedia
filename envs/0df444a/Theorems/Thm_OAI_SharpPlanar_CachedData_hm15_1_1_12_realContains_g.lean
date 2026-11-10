@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_hm15_1_1_12_realContains_g
 -- name    : OAI.SharpPlanar.CachedData.hm15_1_1_12.realContains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T04:11:09.898779+00:00
 -- url     : https://prove2.me/theorems/583e17f7-0a17-46a5-b04d-736c7d3707c8

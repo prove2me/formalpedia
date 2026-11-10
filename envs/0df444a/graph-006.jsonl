@@ -52408,7 +52408,7 @@
 {"parent": "dusart_mesh_upper_group638", "child": "dusart_mesh_upper_group638_part02", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group638", "child": "dusart_mesh_upper_group638_part07", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group638", "child": "dusart_mesh_upper_group638_part03", "via": ["statement"]}
-{"parent": "OppReturns.Menu.proposition_4_bc", "child": "OppReturns_Menu_Model", "via": ["statement"]}
+{"parent": "OppReturns.Menu.proposition_4_bc", "child": "OppReturns_Menu_Model", "via": ["solution", "statement"]}
 {"parent": "dusart_theta_mesh_generic_group589", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group554_part09", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "MazurTransfer.AffineOpenChartFunctionFieldNaturality.coordinate_embedding_via_stalk", "child": "MazurTransfer_AffineChartLocalStalkData", "via": ["solution", "statement"]}

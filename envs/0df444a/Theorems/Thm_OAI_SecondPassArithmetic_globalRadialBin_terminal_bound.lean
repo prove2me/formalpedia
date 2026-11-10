@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SecondPassArithmetic_globalRadialBin_terminal_bound
 -- name    : OAI.SecondPassArithmetic.globalRadialBin_terminal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T05:50:09.772508+00:00
 -- url     : https://prove2.me/theorems/0fc82b13-41a9-479f-bcc7-500594c3c530

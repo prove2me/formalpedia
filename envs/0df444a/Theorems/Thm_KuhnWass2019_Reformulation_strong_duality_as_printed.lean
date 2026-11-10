@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KuhnWass2019_Reformulation_strong_duality_as_printed
 -- name    : KuhnWass2019.Reformulation.strong_duality_as_printed
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T03:15:36.679064+00:00
 -- url     : https://prove2.me/theorems/fd2f1caf-0f32-4ca5-a492-8d338daa4f76

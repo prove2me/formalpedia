@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_dividendMeasure_after_firstUpcrossing_shift
 -- name    : AvramDividend.Classical.barrierStrategy_dividendMeasure_after_firstUpcrossing_shift
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T11:46:12.936431+00:00
 -- url     : https://prove2.me/theorems/3718616c-a366-4b38-bf0b-b14e98b527d1

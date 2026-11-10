@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_05_turn5_original_allnu_source_reserve_gaussian_jump_decomposition
 -- name    : AvramDividend.Classical.avram_wave7_05_turn5_original_allnu_source_reserve_gaussian_jump_decomposition
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-11-02T18:15:57.945323+00:00
 -- url     : https://prove2.me/theorems/653fe960-c851-45fc-9b13-57bb43520d8e

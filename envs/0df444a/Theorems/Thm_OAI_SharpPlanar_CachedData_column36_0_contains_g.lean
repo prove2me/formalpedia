@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_CachedData_column36_0_contains_g
 -- name    : OAI.SharpPlanar.CachedData.column36_0_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T20:05:11.628282+00:00
 -- url     : https://prove2.me/theorems/b1bfc05a-53d9-462a-b402-6c8126710e87

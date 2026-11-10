@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P87_zeroDescent_bijection
 -- name    : QAlgorithms.Papers.Independent.Intake100.P87.zeroDescent_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:29:17.627065+00:00
 -- url     : https://prove2.me/theorems/5f12e25d-8387-4436-ab77-99a1197d071e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_RobustVaR_display38_two_agents
 -- name    : TailRiskSharing.RobustVaR.display38_two_agents
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T21:03:12.159992+00:00
 -- url     : https://prove2.me/theorems/2f1e92a5-fea7-4a71-9137-7babd2c7c8e6

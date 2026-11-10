@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Residual1_contains1_1_g
 -- name    : OAI.SharpPlanar.Residual1.contains1_1_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T02:20:39.444499+00:00
 -- url     : https://prove2.me/theorems/300051a5-afe5-4408-bd6d-2ca58b5a7ea1
