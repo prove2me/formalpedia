@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_SpanningTree_edge_mem_circuit_iff
 -- name    : CombOpt.SpanningTree.edge_mem_circuit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:04:31.11158+00:00
 -- url     : https://prove2.me/theorems/0a78a92f-8a47-4c5d-bb69-00d645ee0f30

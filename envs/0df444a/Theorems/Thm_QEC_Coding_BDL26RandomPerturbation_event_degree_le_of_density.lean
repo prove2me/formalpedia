@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_event_degree_le_of_density
 -- name    : QEC.Coding.BDL26RandomPerturbation.event_degree_le_of_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:06:04.440338+00:00
 -- url     : https://prove2.me/theorems/10a5ace6-8262-43d7-9eb5-3ce1ad2a7b54

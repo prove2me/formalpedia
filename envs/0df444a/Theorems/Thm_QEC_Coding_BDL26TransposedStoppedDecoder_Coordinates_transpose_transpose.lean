@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_Coordinates_transpose_transpose
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates.transpose_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:58:54.196219+00:00
 -- url     : https://prove2.me/theorems/82c852e7-bd74-43c0-9193-e61b8bc678df

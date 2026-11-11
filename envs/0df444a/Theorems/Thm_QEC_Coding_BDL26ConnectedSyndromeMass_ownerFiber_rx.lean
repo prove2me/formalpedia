@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_ownerFiber_rx
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.ownerFiber_rx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:11:16.282029+00:00
 -- url     : https://prove2.me/theorems/28c10c6d-d6db-46a7-ba2e-612a3213069d

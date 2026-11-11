@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.Numerical.Lmat_column_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T20:51:22.144535+00:00
 -- url     : https://prove2.me/submissions/05ea1a24-f1ad-4e0f-8a8c-9cb50ae4d78d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G072

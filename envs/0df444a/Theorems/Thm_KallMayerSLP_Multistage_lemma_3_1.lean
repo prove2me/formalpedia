@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Multistage_lemma_3_1
 -- name    : KallMayerSLP.Multistage.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:20:53.754816+00:00
 -- url     : https://prove2.me/theorems/fdd53734-5b0c-4fa9-b74d-22dccf840577

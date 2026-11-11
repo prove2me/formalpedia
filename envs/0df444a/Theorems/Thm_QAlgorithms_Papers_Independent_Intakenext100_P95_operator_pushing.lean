@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P95_operator_pushing
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P95.operator_pushing
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:43:30.506364+00:00
 -- url     : https://prove2.me/theorems/057725a4-7c20-4556-b99c-18624de2ade2

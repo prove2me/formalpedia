@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingKS_proposition_2
 -- name    : CompetingKS.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:17:41.744077+00:00
 -- url     : https://prove2.me/theorems/c4e6f5b2-4c20-4b90-b8e2-ea76fad55b6c

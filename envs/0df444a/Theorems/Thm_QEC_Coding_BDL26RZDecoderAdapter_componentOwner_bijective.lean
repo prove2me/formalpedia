@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_componentOwner_bijective
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.componentOwner_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:58:06.124207+00:00
 -- url     : https://prove2.me/theorems/70682b5a-2818-4b1b-a0ea-8ce4cfa0c4c0

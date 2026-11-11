@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_visible_sector_finrank_two
 -- name    : QEC.Coding.BDL26CSSHamiltonian.visible_sector_finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:32:37.785184+00:00
 -- url     : https://prove2.me/theorems/3d5b89ad-e2af-42d7-b67f-458a01832b32

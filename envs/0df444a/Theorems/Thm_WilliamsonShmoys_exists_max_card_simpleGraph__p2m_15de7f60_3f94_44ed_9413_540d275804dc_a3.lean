@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_max_card_simpleGraph__p2m_15de7f60_3f94_44ed_9413_540d275804dc_a3
 -- name    : WilliamsonShmoys.exists_max_card_simpleGraph__p2m_15de7f60_3f94_44ed_9413_540d275804dc_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:12:16.389108+00:00
 -- url     : https://prove2.me/theorems/ccf27c3c-c0ad-4ac3-a372-76803cb5cda5

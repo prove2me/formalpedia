@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rzLocalSquareImage_hits_le
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rzLocalSquareImage_hits_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:44:47.662218+00:00
 -- url     : https://prove2.me/theorems/e23db6b6-ba0f-4577-9add-9a8521c8cff7

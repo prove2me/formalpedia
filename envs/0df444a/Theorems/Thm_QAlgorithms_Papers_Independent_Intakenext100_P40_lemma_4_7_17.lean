@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P40_lemma_4_7_17
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P40.lemma_4_7_17
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T05:29:53.97747+00:00
 -- url     : https://prove2.me/theorems/21063bb4-c922-41e1-ad98-f852ad5cca5a

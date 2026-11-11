@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for OAI.MUB6.Certificate.GramData.Block3.entry_16_0_e
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-10T09:03:04.291197+00:00
+-- url     : https://prove2.me/submissions/3d279188-febe-4361-a2a2-1a41352a2f0c
+
+import Mathlib
+import Definitions.Def_OAIQ106E002
+import Definitions.Def_OAIQ106E147
+
+section
+-- module Solutions.OAIQ106_MUB.MutuallyUnbiased_GramData_Block3Check18
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.GramData.Block3
+
+open Matrix
+open scoped BigOperators
+
+theorem entry_16_0_e_oai : Z 16 0 =
+    ∑ k : Fin 27, lowerUnit entries k 16 * D k * lowerUnit entries k 0 := by
+  decide +kernel
+
+end MUB6.Certificate.GramData.Block3
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.MUB6.Certificate.GramData.Block3.entry_16_0_e_oai := @OAI.MUB6.Certificate.GramData.Block3.entry_16_0_e_oai

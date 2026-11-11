@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_lentry4_1_contains_g
 -- name    : OAI.SharpPlanar.Numerical.lentry4_1_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T20:44:42.233344+00:00
 -- url     : https://prove2.me/theorems/e2ae1509-06ae-4ca6-90ca-d949752de922

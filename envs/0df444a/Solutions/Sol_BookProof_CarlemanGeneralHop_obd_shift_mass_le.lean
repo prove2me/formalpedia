@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanGeneralHop.obd_shift_mass_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T07:28:14.782195+00:00
 -- url     : https://prove2.me/submissions/7bc4f8bb-a93f-4275-8106-380729a0615d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanGeneralHop.lean — solution of BookProof.CarlemanGeneralHop.obd_shift_mass_le
 import Mathlib

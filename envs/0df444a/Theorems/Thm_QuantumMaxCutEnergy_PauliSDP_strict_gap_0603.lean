@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_PauliSDP_strict_gap_0603
 -- name    : QuantumMaxCutEnergy.PauliSDP.strict_gap_0603
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T15:02:23.360391+00:00
 -- url     : https://prove2.me/theorems/a38fd7e4-8ca3-48ca-a793-f04b15693fc6

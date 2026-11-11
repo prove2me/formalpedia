@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyFoundations_leanlevy_chat16_exponent_injective
 -- name    : LevyFoundations.leanlevy_chat16_exponent_injective
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T12:48:09.528133+00:00
 -- url     : https://prove2.me/theorems/46afeb62-bc66-488d-9b50-dec2e28de2a4

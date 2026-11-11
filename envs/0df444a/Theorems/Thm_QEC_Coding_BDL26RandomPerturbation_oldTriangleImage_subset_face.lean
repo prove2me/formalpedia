@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_oldTriangleImage_subset_face
 -- name    : QEC.Coding.BDL26RandomPerturbation.oldTriangleImage_subset_face
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:46:06.769072+00:00
 -- url     : https://prove2.me/theorems/7eaf62fc-de5c-4e7e-bd1e-fe19161f3540

@@ -1,0 +1,134 @@
+-- Prove2me | Theorems.Thm_OAI_SecondPassArithmetic_reopenedCanonicalRow_twoPassage_uniform_height
+-- name    : OAI.SecondPassArithmetic.reopenedCanonicalRow_twoPassage_uniform_height
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-10T10:22:41.943457+00:00
+-- url     : https://prove2.me/theorems/70a58934-ac2b-4018-bcf4-b4a7758b900b
+-- title:
+--   Second Pass Arithmetic: reopened Canonical Row two Passage uniform height
+-- statement:
+--   The Second Pass Arithmetic construction uses the reopened Canonical Row two Passage uniform height property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/CubicSieve/ReopeningSeparation.lean#L407-L466
+-- source:
+--   https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/CubicSieve/ReopeningSeparation.lean#L407-L466
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_CubicSieve_ReopenedFibers
+import Definitions.Def_OAI_NumberTheory_DirichletL_CubicSieve_ReopeningSeparation
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical SchwartzMap
+open OAI.SecondPassArithmetic
+open ActualEisensteinCubic FirstPassCubeLabels
+open ConcreteTraceCRT (eisEmbedding)
+open JointLogSeparation (frequencyTwist)
+
+theorem OAI.SecondPassArithmetic.reopenedCanonicalRow_twoPassage_uniform_height
+    (W g V : 𝓢(ℝ,ℂ)) (M Nv : ℝ) (hM : 0≤M) (hNv : 0≤Nv)
+    (hgM : ∀t,g t≠0→|t|≤M) (hV : ∀t,V t≠0→|t|≤Nv)
+    (hWin : ∀t,g t≠0→V t=1)
+    (ε deltaLoss : ℝ) (hε : 0<ε) (hδ : 0<deltaLoss) (A J N : ℕ) :
+    ∃(windows₁ windows₂ : Fin 7→ℝ→ℂ) (Cfirst C₁ Cd₁ Ct₁ C₂ Cd₂ Ct₂ : ℝ),
+      0≤Cfirst ∧ 0≤C₁ ∧ 0<Cd₁ ∧ 0<Ct₁ ∧ 0≤C₂ ∧ 0<Cd₂ ∧ 0<Ct₂ ∧
+      (∀i,HasCompactSupport (windows₁ i)) ∧ (∀i,ContDiff ℝ ∞ (windows₁ i)) ∧
+      (∀i t,windows₁ i t≠0→|t|≤M+6+1) ∧
+      (∀i,HasCompactSupport (windows₂ i)) ∧ (∀i,ContDiff ℝ ∞ (windows₂ i)) ∧
+      (∀i t,windows₂ i t≠0→|t|≤M+6+1) ∧
+      ∀{ι:Type*} [DecidableEq ι]
+      (p:ι→ActualEisensteinCubic.O) (hp:∀i,p i≠0) [∀i,(Ideal.span {p i}).IsMaximal]
+      (_hinj:Function.Injective (fun i=>Ideal.span {p i}))
+      (hcop:Pairwise (Function.onFun IsCoprime (fun i=>Ideal.span {p i})))
+      (hg:∀i,lambda∉Ideal.span {p i}) (_hc:∀i,ringChar (ActualEisensteinCubic.O⧸Ideal.span {p i})≠2)
+      (_hpr:∀i,lambda^2∣p i-1)
+      (pool:Finset ι) (Q:Finset (ι→₀ℕ)) (labels:Finset (Ideal ActualEisensteinCubic.O))
+      (β:Ideal ActualEisensteinCubic.O→(ι→₀ℕ)→ℂ) (Ψ:ActualEisensteinCubic.O→*ℂ) (m:ActualEisensteinCubic.O) (Γ t Ksrc K ell B F H U:ℝ),
+      0≤Γ → 0<Ksrc → 0<K → 0<ell → 1≤B → 0<F → 0≤H → 1≤U →
+      ell*Real.exp M≤U → (∀u,‖Ψ u‖≤1) →
+      (∀I∈labels,∀v∈Q,‖β I v‖≤Γ) → (∀v∈Q,v.support⊆pool) →
+      (∀v∈Q,‖eisEmbedding (primeProduct p v.support v)‖^2≤B) →
+      (∀I∈labels,Squarefree I) → (∀I∈labels,(Ideal.absNorm I:ℝ)≤F) →
+      let Ψt:=normHeightTwist Ψ t
+      let bs:=reopenedCubeFamily Q
+      let a:=reopenedPairCoefficient β
+      ‖(ell*B^2*F:ℂ)⁻¹*
+        ((∑I∈labels,∑'z:ActualEisensteinCubic.O,W (‖eisEmbedding z‖^2/Ksrc)*
+           (‖reopenedCanonicalRow p hp hcop hg pool Q (β I) Ψ m
+             (ConcretePrimeRowBridge.idealGenerator I)
+             (fun S=>frequencyTwist g t (columnLog p ell S)) z‖^2:ℝ))-
+         canonicalSourceZero p hp hcop hg pool bs labels a Ψt Ψt m m g g W Ksrc ell-
+         canonicalSourceTail p hp hcop hg pool bs labels a Ψt Ψt m m g g W Ksrc K ell)‖≤
+      (Ksrc/K)*Cfirst*(globalFirstRowCap K ell B F)^deltaLoss*
+        Real.sqrt (globalFirstQuantitativeBudget p hp hcop hg pool (canonicalSourceBlocks pool bs)
+          Ψt m windows₁ C₁ Cd₁ Ct₁ (Γ^2) ε K ell B F M H U A J N true)*
+        Real.sqrt (globalFirstQuantitativeBudget p hp hcop hg pool (canonicalSourceBlocks pool bs)
+          Ψt m windows₂ C₂ Cd₂ Ct₂ (Γ^2) ε K ell B F M H U A J N false) := by sorry

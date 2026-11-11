@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_localPool_subset_hits
 -- name    : QEC.Coding.BDL26RandomPerturbation.localPool_subset_hits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:04:37.48507+00:00
 -- url     : https://prove2.me/theorems/30075172-7e61-47c8-ae50-2bdd7822f093

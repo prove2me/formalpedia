@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_partition_edge_accounting__p2m_8191f462_9581_40b2_8ed6_f73b850717b9_a1
 -- name    : WilliamsonShmoys.partition_edge_accounting__p2m_8191f462_9581_40b2_8ed6_f73b850717b9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:33:00.320311+00:00
 -- url     : https://prove2.me/theorems/fc7cbe53-0857-4a4b-894a-f56a3f23db1c

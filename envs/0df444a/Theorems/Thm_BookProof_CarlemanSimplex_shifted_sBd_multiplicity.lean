@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_shifted_sBd_multiplicity
 -- name    : BookProof.CarlemanSimplex.shifted_sBd_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:49:07.146549+00:00
 -- url     : https://prove2.me/theorems/f5371fda-3d2b-46e5-a191-e99a98078e5a

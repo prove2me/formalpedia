@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_martingale_problem_determines_finite_dimensional_distributions
 -- name    : EthierKurtz.martingale_problem_determines_finite_dimensional_distributions
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-05T12:51:19.048769+00:00
 -- url     : https://prove2.me/theorems/e7f29b55-7342-4ff0-afdb-be23ceaf9cb9

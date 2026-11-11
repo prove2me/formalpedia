@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P36_lhs_invariant
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P36.lhs_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T08:19:52.361714+00:00
 -- url     : https://prove2.me/theorems/9dcd1149-a629-4d0d-bfb1-e8f05f15f3d7

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.component_edge_bounds__p2m_ddc73965_e52c_4f89_a584_0b5c76884424_a1__p2m_ddc73965_e52c_4f89_a584_0b5c76884424_a3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:51:16.145945+00:00
 -- url     : https://prove2.me/submissions/c8713d5d-02d6-400e-8151-5e246ad12e17
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_component_edge_bounds_small__p2m_798c5648_bc79_4a8b_aaf2_40b61aa85372_a1

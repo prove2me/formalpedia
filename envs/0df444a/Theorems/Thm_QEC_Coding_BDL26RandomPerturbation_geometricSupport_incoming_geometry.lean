@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_geometricSupport_incoming_geometry
 -- name    : QEC.Coding.BDL26RandomPerturbation.geometricSupport_incoming_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:19:09.379175+00:00
 -- url     : https://prove2.me/theorems/980e2149-9116-4de3-92ab-9fc341c7783c

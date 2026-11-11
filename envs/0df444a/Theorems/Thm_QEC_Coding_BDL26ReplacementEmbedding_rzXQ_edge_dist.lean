@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rzXQ_edge_dist
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rzXQ_edge_dist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:41:09.227689+00:00
 -- url     : https://prove2.me/theorems/0febc84c-c466-4022-9d48-800a53e4da53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_jump_eq_sqrt_smul
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.jump_eq_sqrt_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:24:40.614202+00:00
 -- url     : https://prove2.me/theorems/cd716bf4-3d56-40f4-bfed-f308d1100cc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_isClosed_boundedLabelHit
 -- name    : QEC.Coding.BDL26RandomPerturbation.isClosed_boundedLabelHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:09:44.39299+00:00
 -- url     : https://prove2.me/theorems/394aa980-d34b-4e8e-b665-c49b339bf561

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbabilityTheory_ConvolutionSemigroup_leanlevy_chat32_upperRamp_vanish_near_zero
 -- name    : ProbabilityTheory.ConvolutionSemigroup.leanlevy_chat32_upperRamp_vanish_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T00:28:30.592411+00:00
 -- url     : https://prove2.me/theorems/c2dc1d52-a0d2-4afe-992e-91245f48f1ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FullQuadratic_weylxp_gen
 -- name    : BookProof.FullQuadratic.weylxp_gen
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T12:29:47.584438+00:00
 -- url     : https://prove2.me/theorems/c9c729ac-306e-4279-8810-a71896e247d0

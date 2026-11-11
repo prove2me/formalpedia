@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSetCounting_anchoredSets_card_le
 -- name    : QEC.Coding.BDL26ConnectedSetCounting.anchoredSets_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:08:43.626071+00:00
 -- url     : https://prove2.me/theorems/c3ef5658-6ff1-4543-a712-15c04e5aca00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_weightedJump_supported
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.weightedJump_supported
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:22:03.14369+00:00
 -- url     : https://prove2.me/theorems/6858dbd1-6124-4b8e-aa10-24c437ce5f7b

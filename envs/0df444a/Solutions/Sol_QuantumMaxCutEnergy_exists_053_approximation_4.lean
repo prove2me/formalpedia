@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for QuantumMaxCutEnergy.exists_053_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T16:54:25.407196+00:00
 -- url     : https://prove2.me/submissions/09afe97d-1656-439b-a130-8f08d11b4cd8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Main theorem of the mission, reduced to ONE open child.

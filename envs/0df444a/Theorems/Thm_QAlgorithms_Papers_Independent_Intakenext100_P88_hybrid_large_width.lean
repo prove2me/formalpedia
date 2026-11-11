@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P88_hybrid_large_width
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P88.hybrid_large_width
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:30:42.247126+00:00
 -- url     : https://prove2.me/theorems/6f02a01d-756c-41c0-b1ed-67702ebb735d

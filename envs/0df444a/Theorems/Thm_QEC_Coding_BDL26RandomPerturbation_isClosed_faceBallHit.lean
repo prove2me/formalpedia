@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_isClosed_faceBallHit
 -- name    : QEC.Coding.BDL26RandomPerturbation.isClosed_faceBallHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:07:33.228206+00:00
 -- url     : https://prove2.me/theorems/2284daa4-1ba2-488e-85fa-4474298c145b

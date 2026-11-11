@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_terminalRung_zero_image
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.terminalRung_zero_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:29:38.084855+00:00
 -- url     : https://prove2.me/theorems/65a363b0-cea5-4c9f-b912-a2451885e0b1

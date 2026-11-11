@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_psd_blocks
 -- name    : PauliUnclonable531.Pauli.psd_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:04:08.362943+00:00
 -- url     : https://prove2.me/theorems/53a9eb50-04ec-4b95-8b93-d301d16f945b

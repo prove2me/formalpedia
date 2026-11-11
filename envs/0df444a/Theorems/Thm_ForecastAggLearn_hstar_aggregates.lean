@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_hstar_aggregates
 -- name    : ForecastAggLearn.hstar_aggregates
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:27.814679+00:00
 -- url     : https://prove2.me/theorems/4e1e6ce9-4002-4e8d-8ca4-d09731bc0065

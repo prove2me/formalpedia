@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CodedSorting_lemma_B_1
 -- name    : CodedSorting.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:05:04.730703+00:00
 -- url     : https://prove2.me/theorems/ec84c58c-e187-4119-8fd6-f666edeca0b6

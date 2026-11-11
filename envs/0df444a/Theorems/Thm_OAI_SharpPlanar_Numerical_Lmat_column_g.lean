@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_Lmat_column_g
 -- name    : OAI.SharpPlanar.Numerical.Lmat_column_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T09:14:08.770088+00:00
 -- url     : https://prove2.me/theorems/5fccff74-2d20-464b-a293-e8ddb63ed49b

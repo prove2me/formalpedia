@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_glueFaceQ0_point_offset
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.glueFaceQ0_point_offset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:35:51.391494+00:00
 -- url     : https://prove2.me/theorems/e86f3b5d-a20f-48a0-be53-31bda30a9716

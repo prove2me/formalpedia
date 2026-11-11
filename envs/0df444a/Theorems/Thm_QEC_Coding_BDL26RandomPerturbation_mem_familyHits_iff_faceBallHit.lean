@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_mem_familyHits_iff_faceBallHit
 -- name    : QEC.Coding.BDL26RandomPerturbation.mem_familyHits_iff_faceBallHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:07:41.966439+00:00
 -- url     : https://prove2.me/theorems/7be9587c-e352-44ed-a8c0-35fe8f1b237b

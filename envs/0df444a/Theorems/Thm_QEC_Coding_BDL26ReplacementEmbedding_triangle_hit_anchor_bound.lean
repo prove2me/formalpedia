@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangle_hit_anchor_bound
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangle_hit_anchor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:35:39.668338+00:00
 -- url     : https://prove2.me/theorems/cecc261d-b034-4545-bb82-3721e55a35bc

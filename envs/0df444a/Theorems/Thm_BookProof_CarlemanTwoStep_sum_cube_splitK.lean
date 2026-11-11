@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_sum_cube_splitK
 -- name    : BookProof.CarlemanTwoStep.sum_cube_splitK
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:50:07.573834+00:00
 -- url     : https://prove2.me/theorems/df55d7cc-d98d-439f-a759-8c6313875bcf

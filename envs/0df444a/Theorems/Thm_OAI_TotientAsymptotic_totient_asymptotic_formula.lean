@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TotientAsymptotic_totient_asymptotic_formula
 -- name    : OAI.TotientAsymptotic.totient_asymptotic_formula
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:33.34014+00:00
 -- url     : https://prove2.me/theorems/88b8a05e-0339-46cf-a7bb-d25894849fe4

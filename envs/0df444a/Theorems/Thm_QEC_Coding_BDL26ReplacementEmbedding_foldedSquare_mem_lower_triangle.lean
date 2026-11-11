@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_foldedSquare_mem_lower_triangle
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.foldedSquare_mem_lower_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:32:45.280171+00:00
 -- url     : https://prove2.me/theorems/6bc9d1c6-25c9-4591-9e46-026404cb1fe5

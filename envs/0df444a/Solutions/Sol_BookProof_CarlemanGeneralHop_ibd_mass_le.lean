@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanGeneralHop.ibd_mass_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T07:28:18.835889+00:00
 -- url     : https://prove2.me/submissions/03c7dcc2-2c9f-4cbf-8a82-cf5c7637b6b9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanGeneralHop.lean — solution of BookProof.CarlemanGeneralHop.ibd_mass_le
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EFXCounterex_Submodular_theorem_1_1
 -- name    : EFXCounterex.Submodular.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:45:36.362615+00:00
 -- url     : https://prove2.me/theorems/5200c392-d795-4536-9ab9-ec4b1d12e26a

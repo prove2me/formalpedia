@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XuMultistage_Structure_theorem_4_2
 -- name    : XuMultistage.Structure.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T00:25:08.373161+00:00
 -- url     : https://prove2.me/theorems/e966d6a8-1b27-41cc-9c26-b5ccc99c552b

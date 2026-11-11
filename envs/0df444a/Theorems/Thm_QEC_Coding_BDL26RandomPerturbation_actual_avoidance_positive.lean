@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_actual_avoidance_positive
 -- name    : QEC.Coding.BDL26RandomPerturbation.actual_avoidance_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:04:54.296201+00:00
 -- url     : https://prove2.me/theorems/2868b055-8645-4635-abc5-e19993fd6ba5

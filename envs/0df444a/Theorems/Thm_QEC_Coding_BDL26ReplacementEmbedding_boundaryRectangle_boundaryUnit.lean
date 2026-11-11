@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_boundaryRectangle_boundaryUnit
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.boundaryRectangle_boundaryUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:42:32.617196+00:00
 -- url     : https://prove2.me/theorems/82e51d65-ea7b-4222-8e64-9b8d493f9b62

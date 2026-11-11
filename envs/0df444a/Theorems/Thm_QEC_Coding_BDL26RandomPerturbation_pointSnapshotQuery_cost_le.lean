@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_pointSnapshotQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.pointSnapshotQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:02:46.476015+00:00
 -- url     : https://prove2.me/theorems/ff227429-9f29-4162-9bb0-ce746ff24e84

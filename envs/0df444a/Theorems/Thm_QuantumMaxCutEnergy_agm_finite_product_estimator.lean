@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_agm_finite_product_estimator
 -- name    : QuantumMaxCutEnergy.agm_finite_product_estimator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T14:26:09.425897+00:00
 -- url     : https://prove2.me/theorems/10f7d9da-e70e-4056-907a-258e269d3dbb

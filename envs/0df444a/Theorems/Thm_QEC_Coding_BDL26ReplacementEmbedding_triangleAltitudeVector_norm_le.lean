@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangleAltitudeVector_norm_le
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangleAltitudeVector_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:34:04.516245+00:00
 -- url     : https://prove2.me/theorems/487e74cd-3527-4590-8ab7-cdc3cf495b37

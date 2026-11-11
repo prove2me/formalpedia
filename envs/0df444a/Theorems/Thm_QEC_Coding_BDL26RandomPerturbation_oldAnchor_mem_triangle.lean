@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_oldAnchor_mem_triangle
 -- name    : QEC.Coding.BDL26RandomPerturbation.oldAnchor_mem_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:03:00.669635+00:00
 -- url     : https://prove2.me/theorems/c71ba7a6-33ab-4302-91c7-cbc02514286e

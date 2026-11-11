@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_jump_eq_sqrt_frequency
 -- name    : QEC.Coding.BDL26BoundedRateDavies.jump_eq_sqrt_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:26:22.8986+00:00
 -- url     : https://prove2.me/theorems/7cb2ef4f-255e-4dee-be3d-7621eaba3fd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_edge_data__p2m_66ed8684_7720_4905_99a4_14d61ffeb91a_a1
 -- name    : WilliamsonShmoys.component_edge_data__p2m_66ed8684_7720_4905_99a4_14d61ffeb91a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:56:32.938572+00:00
 -- url     : https://prove2.me/theorems/ddc73965-e52c-4f89-a584-0b5c76884424

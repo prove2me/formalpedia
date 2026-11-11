@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RobustPMI.Hierarchy.theorem_4_9
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-30T23:54:00.852194+00:00
 -- url     : https://prove2.me/submissions/39b10a5b-f465-4542-82e2-74341950236d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RobustPMI_Hierarchy_Model

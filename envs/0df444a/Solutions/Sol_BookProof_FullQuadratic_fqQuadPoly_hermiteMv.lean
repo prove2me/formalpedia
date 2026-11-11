@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FullQuadratic.fqQuadPoly_hermiteMv
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T13:57:50.502612+00:00
 -- url     : https://prove2.me/submissions/9d250b64-90dc-4d1a-9bb9-d4a1f77bbd4d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFullQuadraticEsa.lean — solution of BookProof.FullQuadratic.fqQuadPoly_hermiteMv
 import Mathlib

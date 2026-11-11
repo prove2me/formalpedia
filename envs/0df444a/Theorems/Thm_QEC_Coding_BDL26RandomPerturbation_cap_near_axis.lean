@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_cap_near_axis
 -- name    : QEC.Coding.BDL26RandomPerturbation.cap_near_axis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:41.75316+00:00
 -- url     : https://prove2.me/theorems/51b4e517-5f3e-4bd6-ab39-7bb4e1c61407

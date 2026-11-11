@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProbabilityTheory.ConvolutionSemigroup.leanlevy_chat32_scaled_band_integral_tendsto
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T00:14:36.389041+00:00
 -- url     : https://prove2.me/submissions/f68f4723-3f2e-4f33-8ea3-226313ea3192
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LeanLevy_Levy_LevyKhintchineProof
 import Theorems.Thm_ProbabilityTheory_ConvolutionSemigroup_leanlevy_chat32_scaled_largeSet_integral_tendsto

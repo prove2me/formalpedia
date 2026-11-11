@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustFracMP_fact_2_1
 -- name    : RobustFracMP.fact_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:56:51.579571+00:00
 -- url     : https://prove2.me/theorems/30b76c00-aeb6-4206-a034-6e74a81b4663

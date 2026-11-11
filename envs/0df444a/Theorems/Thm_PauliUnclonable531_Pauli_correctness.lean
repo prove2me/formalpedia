@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_correctness
 -- name    : PauliUnclonable531.Pauli.correctness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:09.141444+00:00
 -- url     : https://prove2.me/theorems/4cddb500-9010-4fff-a59d-c103c6d45a90

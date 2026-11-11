@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rx_constructed_degrees
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rx_constructed_degrees
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:43:57.858957+00:00
 -- url     : https://prove2.me/theorems/42df74c9-934d-4fa6-bcf9-352ed1b0dc17

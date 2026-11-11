@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_sum_ltermP
 -- name    : BookProof.CarlemanSimplex.sum_ltermP
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:45:58.459214+00:00
 -- url     : https://prove2.me/theorems/91240b33-4ff0-4712-a1ea-f269f2cc9de7

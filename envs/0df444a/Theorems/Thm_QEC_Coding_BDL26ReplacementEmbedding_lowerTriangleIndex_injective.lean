@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_lowerTriangleIndex_injective
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.lowerTriangleIndex_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:35:20.01757+00:00
 -- url     : https://prove2.me/theorems/7c93b08c-5a87-439c-8f48-36a1d3e99838

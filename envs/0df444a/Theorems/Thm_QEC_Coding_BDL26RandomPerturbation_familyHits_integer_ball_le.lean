@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_familyHits_integer_ball_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.familyHits_integer_ball_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:35:48.588519+00:00
 -- url     : https://prove2.me/theorems/dad9d114-e0a0-4ec6-bd93-04c8d0db72ab

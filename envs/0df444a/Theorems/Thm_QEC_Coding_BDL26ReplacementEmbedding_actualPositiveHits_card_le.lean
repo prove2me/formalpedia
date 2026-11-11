@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualPositiveHits_card_le
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualPositiveHits_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:40:51.4536+00:00
 -- url     : https://prove2.me/theorems/79894116-465e-49f1-97c0-5cbb048c84aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAbsorption_taylor_iff_cyclic
 -- name    : BKAbsorption.taylor_iff_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-07T14:13:53.619192+00:00
 -- url     : https://prove2.me/theorems/69fa34f2-a7ba-4c3c-ab41-6cb526b44fed

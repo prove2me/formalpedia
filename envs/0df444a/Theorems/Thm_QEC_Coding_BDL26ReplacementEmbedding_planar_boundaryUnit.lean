@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_planar_boundaryUnit
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.planar_boundaryUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:41:55.959474+00:00
 -- url     : https://prove2.me/theorems/2af8c98b-3873-4082-b1ae-0b33616ce445

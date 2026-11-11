@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HarmonicArtin_ParabolicIntersections_unconditional_nonclique_dynamics
 -- name    : OAI.HarmonicArtin.ParabolicIntersections.unconditional_nonclique_dynamics
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:43.750407+00:00
 -- url     : https://prove2.me/theorems/944d234d-0536-4914-9da5-8ef7e7f50ec3

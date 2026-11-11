@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_terminalRung_image_subset_oldZ
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.terminalRung_image_subset_oldZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:30:13.952581+00:00
 -- url     : https://prove2.me/theorems/4667f212-2059-40fe-8fcc-1be5724d4529

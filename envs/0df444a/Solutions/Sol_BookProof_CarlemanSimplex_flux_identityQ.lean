@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanSimplex.flux_identityQ
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-07T23:11:44.916047+00:00
 -- url     : https://prove2.me/submissions/c0f13817-af0b-494e-a3cb-f5860ea1be0a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanSimplex.lean — solution of BookProof.CarlemanSimplex.flux_identityQ
 import Mathlib

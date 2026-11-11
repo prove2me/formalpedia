@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingSamples_OneSampleMHR_one_sample_mhr_guarantee
 -- name    : PricingSamples.OneSampleMHR.one_sample_mhr_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-23T03:54:29.265983+00:00
 -- url     : https://prove2.me/theorems/d95b66c5-66c6-4f0a-8764-ba4b4488e97c

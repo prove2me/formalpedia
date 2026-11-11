@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_q_mem_triangleSupport
 -- name    : QEC.Coding.BDL26RandomPerturbation.q_mem_triangleSupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:02:09.91159+00:00
 -- url     : https://prove2.me/theorems/7170cf76-e592-4324-9ccb-d7a41e97ff27

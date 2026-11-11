@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SiegelZeros_WeightedTorusJets_dirichletRealZeroBound_proof
 -- name    : OAI.SiegelZeros.WeightedTorusJets.dirichletRealZeroBound_proof
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:21.380046+00:00
 -- url     : https://prove2.me/theorems/17c3e6ac-6aa0-49ab-b6b1-91fb17833607

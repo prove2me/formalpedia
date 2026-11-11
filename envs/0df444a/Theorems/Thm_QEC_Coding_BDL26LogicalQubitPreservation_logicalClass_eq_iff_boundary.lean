@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_logicalClass_eq_iff_boundary
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.logicalClass_eq_iff_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:40:19.873502+00:00
 -- url     : https://prove2.me/theorems/d19f6fda-4178-4930-83ce-7a12ddbd38ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_correlation_product
 -- name    : PauliUnclonable531.Pauli.correlation_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:08:20.517634+00:00
 -- url     : https://prove2.me/theorems/dfc1be3a-9655-4b7f-95b5-dc0bb2c996ea

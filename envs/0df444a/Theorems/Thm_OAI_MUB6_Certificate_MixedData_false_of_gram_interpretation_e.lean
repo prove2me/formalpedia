@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_MixedData_false_of_gram_interpretation_e
 -- name    : OAI.MUB6.Certificate.MixedData.false_of_gram_interpretation_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T19:43:49.110269+00:00
 -- url     : https://prove2.me/theorems/02859681-a075-4a6c-a2ab-656514d039ce

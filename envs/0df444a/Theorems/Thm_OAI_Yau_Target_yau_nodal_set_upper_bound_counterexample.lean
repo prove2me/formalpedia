@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Yau_Target_yau_nodal_set_upper_bound_counterexample
 -- name    : OAI.Yau.Target.yau_nodal_set_upper_bound_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:40.111684+00:00
 -- url     : https://prove2.me/theorems/f23aef71-8bdc-41d7-80ce-3464f92d649f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_rzData_coordinates
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.rzData_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:57:12.708082+00:00
 -- url     : https://prove2.me/theorems/8f621ec1-190d-4dac-b323-991b5ed11f10

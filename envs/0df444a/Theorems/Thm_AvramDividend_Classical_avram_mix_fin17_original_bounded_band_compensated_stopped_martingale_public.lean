@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_mix_fin17_original_bounded_band_compensated_stopped_martingale_public
 -- name    : AvramDividend.Classical.avram_mix_fin17_original_bounded_band_compensated_stopped_martingale_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-09T13:34:22.370206+00:00
 -- url     : https://prove2.me/theorems/61f39bfe-c919-48fb-a9da-ad7c879a256b

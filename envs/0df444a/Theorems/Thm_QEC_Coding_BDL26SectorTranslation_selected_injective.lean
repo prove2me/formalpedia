@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_selected_injective
 -- name    : QEC.Coding.BDL26SectorTranslation.selected_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:41:30.825852+00:00
 -- url     : https://prove2.me/theorems/984d2bcc-c3cb-4c2d-b6a3-9b6b2bc023d4

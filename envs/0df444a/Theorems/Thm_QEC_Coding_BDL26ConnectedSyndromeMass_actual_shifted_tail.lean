@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_actual_shifted_tail
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.actual_shifted_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:42:33.949763+00:00
 -- url     : https://prove2.me/theorems/28afa243-c378-4d4b-8b6b-0206bef6b6b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_uniqueness
 -- name    : levy_foundations_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:37:17.814757+00:00
 -- url     : https://prove2.me/theorems/4ddbf4e2-3430-4f0d-920d-e4bb5828729b

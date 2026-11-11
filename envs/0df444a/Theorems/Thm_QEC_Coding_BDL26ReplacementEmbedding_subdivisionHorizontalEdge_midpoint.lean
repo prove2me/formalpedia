@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_subdivisionHorizontalEdge_midpoint
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.subdivisionHorizontalEdge_midpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:31:27.453203+00:00
 -- url     : https://prove2.me/theorems/0404e132-2c6c-479b-8534-2e4e1784e4a9

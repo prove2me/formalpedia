@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_representation
 -- name    : levy_foundations_representation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:36:17.563606+00:00
 -- url     : https://prove2.me/theorems/565f0003-bc9c-4123-b378-30ee3aa5c747

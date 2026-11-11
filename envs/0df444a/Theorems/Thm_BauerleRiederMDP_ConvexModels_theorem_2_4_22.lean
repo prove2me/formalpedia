@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_ConvexModels_theorem_2_4_22
 -- name    : BauerleRiederMDP.ConvexModels.theorem_2_4_22
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:23:48.603234+00:00
 -- url     : https://prove2.me/theorems/340e77dd-407e-4597-b12c-0f79cdc1448e

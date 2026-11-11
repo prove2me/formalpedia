@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_chain_css_carrier_finrank_two
 -- name    : QEC.Coding.BDL26CSSHamiltonian.chain_css_carrier_finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:31:35.119726+00:00
 -- url     : https://prove2.me/theorems/e1b4db60-59ad-4395-9399-819e514deae4

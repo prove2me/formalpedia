@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_logicalEquiv_prefix_mk
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.logicalEquiv_prefix_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:40:10.92572+00:00
 -- url     : https://prove2.me/theorems/5df368c2-76ef-4fb4-afde-69796db48620

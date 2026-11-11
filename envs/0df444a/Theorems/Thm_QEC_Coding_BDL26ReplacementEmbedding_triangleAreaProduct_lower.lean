@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangleAreaProduct_lower
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangleAreaProduct_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:35:33.712899+00:00
 -- url     : https://prove2.me/theorems/d7f29763-b8d1-4bb8-83b5-85f97893372a

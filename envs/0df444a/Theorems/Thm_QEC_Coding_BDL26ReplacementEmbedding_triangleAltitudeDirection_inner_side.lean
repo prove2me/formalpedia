@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangleAltitudeDirection_inner_side
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangleAltitudeDirection_inner_side
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:34:18.609951+00:00
 -- url     : https://prove2.me/theorems/ee3092eb-051c-47c6-91fe-9fe362545db3

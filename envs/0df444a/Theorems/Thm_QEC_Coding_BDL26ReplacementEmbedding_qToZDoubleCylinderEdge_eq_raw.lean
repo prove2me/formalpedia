@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_qToZDoubleCylinderEdge_eq_raw
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.qToZDoubleCylinderEdge_eq_raw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:32:49.435611+00:00
 -- url     : https://prove2.me/theorems/934a0db7-730f-49fa-b626-2b30687f0df9

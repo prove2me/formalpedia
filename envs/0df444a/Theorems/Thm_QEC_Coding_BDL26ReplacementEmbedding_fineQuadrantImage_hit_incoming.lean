@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_fineQuadrantImage_hit_incoming
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.fineQuadrantImage_hit_incoming
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:39:43.967224+00:00
 -- url     : https://prove2.me/theorems/c1ef7935-e558-46f7-84ab-b4c2847184cc

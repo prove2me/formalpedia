@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_cap_pair_inner_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.cap_pair_inner_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:37.329917+00:00
 -- url     : https://prove2.me/theorems/40535887-89e3-4726-a992-60e8d9976a89

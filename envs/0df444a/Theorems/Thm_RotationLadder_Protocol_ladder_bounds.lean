@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationLadder_Protocol_ladder_bounds
 -- name    : RotationLadder.Protocol.ladder_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:35:41.292137+00:00
 -- url     : https://prove2.me/theorems/942563f9-4883-4db5-afaf-0592df849ee0

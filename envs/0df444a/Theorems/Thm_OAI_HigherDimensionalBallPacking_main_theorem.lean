@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HigherDimensionalBallPacking_main_theorem
 -- name    : OAI.HigherDimensionalBallPacking.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:44.657526+00:00
 -- url     : https://prove2.me/theorems/09e00b4a-1aa4-4773-87e3-e8466a18285e

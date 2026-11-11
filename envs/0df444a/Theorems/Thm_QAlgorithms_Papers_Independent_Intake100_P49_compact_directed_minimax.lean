@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P49_compact_directed_minimax
 -- name    : QAlgorithms.Papers.Independent.Intake100.P49.compact_directed_minimax
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T13:29:42.746205+00:00
 -- url     : https://prove2.me/theorems/1db7fb6c-6344-49f9-a311-f3aad01c22a0

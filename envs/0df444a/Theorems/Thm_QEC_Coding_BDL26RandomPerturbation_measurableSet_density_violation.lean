@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_measurableSet_density_violation
 -- name    : QEC.Coding.BDL26RandomPerturbation.measurableSet_density_violation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:07:43.15969+00:00
 -- url     : https://prove2.me/theorems/668f7ef4-8a69-4083-8544-8549ea92efa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_foldedGridPoint_corner_dist
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.foldedGridPoint_corner_dist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:36:15.11414+00:00
 -- url     : https://prove2.me/theorems/e737786a-cec3-4d2e-a8dd-5dc5b7f79bb7

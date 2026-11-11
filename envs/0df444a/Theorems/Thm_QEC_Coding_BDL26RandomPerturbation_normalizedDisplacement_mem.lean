@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_normalizedDisplacement_mem
 -- name    : QEC.Coding.BDL26RandomPerturbation.normalizedDisplacement_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:49:23.474163+00:00
 -- url     : https://prove2.me/theorems/89d16647-3f33-4813-b390-08ca2f32a606

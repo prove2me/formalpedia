@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JiangALSOX_Dominance_theorem_1
 -- name    : JiangALSOX.Dominance.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:06:27.918669+00:00
 -- url     : https://prove2.me/theorems/f97dde7c-b40e-428e-a32b-aef99a33c855

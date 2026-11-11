@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EthierKurtz.martingale_problem_characterization
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-05T13:54:00.549365+00:00
 -- url     : https://prove2.me/submissions/635a3f34-3d7b-478b-be72-0f008d3474b6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_auto_M04_6e37b463_UniformBoundedFunction
 import Definitions.Def_auto_M04_6e37b463_processPast

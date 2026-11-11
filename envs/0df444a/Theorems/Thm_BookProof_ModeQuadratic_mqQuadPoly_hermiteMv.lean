@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ModeQuadratic_mqQuadPoly_hermiteMv
 -- name    : BookProof.ModeQuadratic.mqQuadPoly_hermiteMv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T12:37:10.75474+00:00
 -- url     : https://prove2.me/theorems/84a0c8bc-9b90-4c3a-b5aa-afc0df085cb6

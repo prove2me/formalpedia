@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_pathStripFaceZ_point
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.pathStripFaceZ_point
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:52:41.290872+00:00
 -- url     : https://prove2.me/theorems/35108d12-53d4-48ab-b2d9-dff0a577c8c9

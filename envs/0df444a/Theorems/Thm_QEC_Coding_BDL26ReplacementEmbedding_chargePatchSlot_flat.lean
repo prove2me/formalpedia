@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_chargePatchSlot_flat
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.chargePatchSlot_flat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:37:09.489985+00:00
 -- url     : https://prove2.me/theorems/aef4257c-d778-4f33-9cfe-f2893912baf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_ladderQ_eq_zero
 -- name    : BookProof.CarlemanSimplex.ladderQ_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:49:36.123739+00:00
 -- url     : https://prove2.me/theorems/9c3e7afe-e731-4fa8-93d6-17a56c75e40c

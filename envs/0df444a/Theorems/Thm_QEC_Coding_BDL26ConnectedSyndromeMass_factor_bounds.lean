@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_factor_bounds
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.factor_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:28:09.55273+00:00
 -- url     : https://prove2.me/theorems/e84d9e49-c8b7-4362-8c30-3dee3d0c9bfa

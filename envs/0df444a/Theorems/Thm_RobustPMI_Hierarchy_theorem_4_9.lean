@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPMI_Hierarchy_theorem_4_9
 -- name    : RobustPMI.Hierarchy.theorem_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:04.674166+00:00
 -- url     : https://prove2.me/theorems/d4f5dbc3-f4e1-4c29-a773-06a5072c5556

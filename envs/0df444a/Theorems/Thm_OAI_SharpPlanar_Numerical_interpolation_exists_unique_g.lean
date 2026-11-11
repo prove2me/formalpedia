@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_interpolation_exists_unique_g
 -- name    : OAI.SharpPlanar.Numerical.interpolation_exists_unique_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T03:40:54.805906+00:00
 -- url     : https://prove2.me/theorems/3a267427-e6c0-432b-84e4-73293c3e28fd

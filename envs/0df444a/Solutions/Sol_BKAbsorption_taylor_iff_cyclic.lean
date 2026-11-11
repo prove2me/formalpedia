@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BKAbsorption.taylor_iff_cyclic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-11-07T17:40:59.637844+00:00
 -- url     : https://prove2.me/submissions/d3546046-a436-4105-8bf7-3ecc7abea10c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_BKAbsorption_defs
 import Theorems.Thm_BKAbsorption_cyclic_term_prime

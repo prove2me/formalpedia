@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenComplexity_Tradeoff_theorem_1
 -- name    : TokenComplexity.Tradeoff.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:29:07.500706+00:00
 -- url     : https://prove2.me/theorems/e0513262-5239-4ea3-8048-ba2a25f176ac

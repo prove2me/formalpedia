@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbabilityTheory_ConvolutionSemigroup_leanlevy_chat32_scaled_largeSet_integral_tendsto
 -- name    : ProbabilityTheory.ConvolutionSemigroup.leanlevy_chat32_scaled_largeSet_integral_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T00:04:19.399232+00:00
 -- url     : https://prove2.me/theorems/9428956c-1a46-48a8-becc-0b73d857ade3

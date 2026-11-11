@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_multiplicity_two
 -- name    : QEC.Coding.BDL26CSSHamiltonian.multiplicity_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:31:26.938789+00:00
 -- url     : https://prove2.me/theorems/b95ce24a-cd86-45da-bdd9-5651db451b14

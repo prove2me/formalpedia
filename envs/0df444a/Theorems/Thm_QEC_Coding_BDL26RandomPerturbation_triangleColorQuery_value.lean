@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_triangleColorQuery_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.triangleColorQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:56:05.769088+00:00
 -- url     : https://prove2.me/theorems/624a13af-f5b4-4e32-b572-edcb73d512e5

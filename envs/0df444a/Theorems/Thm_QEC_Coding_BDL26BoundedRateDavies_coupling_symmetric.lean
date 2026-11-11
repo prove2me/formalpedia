@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_coupling_symmetric
 -- name    : QEC.Coding.BDL26BoundedRateDavies.coupling_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:25:36.381437+00:00
 -- url     : https://prove2.me/theorems/394decb2-7455-4333-b475-c77f6be4e209

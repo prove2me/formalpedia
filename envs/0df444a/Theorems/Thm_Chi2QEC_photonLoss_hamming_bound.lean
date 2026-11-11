@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Chi2QEC_photonLoss_hamming_bound
 -- name    : Chi2QEC.photonLoss_hamming_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:45:27.245139+00:00
 -- url     : https://prove2.me/theorems/b8a0e731-538c-42f2-86f9-c378128f0130

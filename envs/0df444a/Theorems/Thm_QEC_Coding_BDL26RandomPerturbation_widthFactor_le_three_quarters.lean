@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_widthFactor_le_three_quarters
 -- name    : QEC.Coding.BDL26RandomPerturbation.widthFactor_le_three_quarters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:50:05.972681+00:00
 -- url     : https://prove2.me/theorems/42482201-d9fc-42b0-ae6a-c1aaf6d3aac4

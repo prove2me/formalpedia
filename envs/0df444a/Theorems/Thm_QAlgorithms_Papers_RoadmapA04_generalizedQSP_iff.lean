@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_RoadmapA04_generalizedQSP_iff
 -- name    : QAlgorithms.Papers.RoadmapA04.generalizedQSP_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:16:11.985899+00:00
 -- url     : https://prove2.me/theorems/93e357e1-95b1-4842-949e-aa752a587454

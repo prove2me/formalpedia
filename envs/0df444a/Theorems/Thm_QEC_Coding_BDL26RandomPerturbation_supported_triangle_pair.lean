@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_supported_triangle_pair
 -- name    : QEC.Coding.BDL26RandomPerturbation.supported_triangle_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:53:44.409272+00:00
 -- url     : https://prove2.me/theorems/0026179b-89b2-4fe3-a2b0-866e7f4ef7ed

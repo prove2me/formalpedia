@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanGeneralHop_obd_image_multiplicity
 -- name    : BookProof.CarlemanGeneralHop.obd_image_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:43:09.493981+00:00
 -- url     : https://prove2.me/theorems/21aab4c5-a8ac-42a0-be92-7d666d3c8eec

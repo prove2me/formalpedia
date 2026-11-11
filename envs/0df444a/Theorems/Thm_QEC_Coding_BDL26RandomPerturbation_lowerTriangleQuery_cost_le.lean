@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_lowerTriangleQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.lowerTriangleQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:55:19.679717+00:00
 -- url     : https://prove2.me/theorems/e012ee58-ac12-46e0-a46b-b3dc5476a89c

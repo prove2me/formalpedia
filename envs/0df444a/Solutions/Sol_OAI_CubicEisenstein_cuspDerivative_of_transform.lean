@@ -1,0 +1,237 @@
+-- Prove2me | solution 1 for OAI.CubicEisenstein.cuspDerivative_of_transform
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T03:37:53.772563+00:00
+-- url     : https://prove2.me/submissions/26425bcf-644c-4545-9bb8-601079e06034
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_SourceBesselExpansion
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_InverseCuspCoordinates
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_ReflectedCuspMellin
+import Theorems.Thm_OAI_CubicEisenstein_horizontalWirtingerBar_translate
+import Theorems.Thm_OAI_ActualEisensteinCubic_principalSexticRow_mk
+import Theorems.Thm_OAI_CanonicalCubeSeparation_cubeFrequencyFactor_norm
+import Theorems.Thm_OAI_CanonicalCubeSeparation_radiusIter_succ
+import Theorems.Thm_OAI_CanonicalCubeSeparation_radiusIter_zero
+import Theorems.Thm_OAI_CanonicalCubeSeparation_sourceLogProfile_apply
+import Theorems.Thm_OAI_CanonicalRowCompletion_cubeIndex_apply
+import Theorems.Thm_OAI_CompletedHeight_completedT_normHeight_norm
+import Theorems.Thm_OAI_CompletedHeight_shortCompletedSum_normHeight_norm
+import Theorems.Thm_OAI_CubicEisenstein_cubicUnitGaussSum_one
+import Theorems.Thm_OAI_CubicEisenstein_cuspCoordinateLift_positive
+import Theorems.Thm_OAI_CubicEisenstein_finiteCubicMultiplier_coe
+import Theorems.Thm_OAI_CubicEisenstein_horizontalWirtingerZ_eq_fderiv
+import Theorems.Thm_OAI_CubicEisenstein_hyperbolicSpatialChart_apply
+import Theorems.Thm_OAI_CubicEisenstein_hyperbolicSpatialChart_source
+import Theorems.Thm_OAI_CubicEisenstein_integralComplexMatrix_apply
+import Theorems.Thm_OAI_CubicEisenstein_inverse_cusp_action
+import Theorems.Thm_OAI_CubicEisenstein_inverse_cusp_wirtingerBar
+import Theorems.Thm_OAI_CubicEisenstein_kernelLocalLift_symm
+import Theorems.Thm_OAI_CubicEisenstein_kernelQuotientChart_symm
+import Theorems.Thm_OAI_CubicEisenstein_kernelTruncatedWeight_apply
+import Theorems.Thm_OAI_CubicEisenstein_spatialTriple_one
+import Theorems.Thm_OAI_CubicEisenstein_spatialTriple_two
+import Theorems.Thm_OAI_CubicEisenstein_spatialTriple_zero
+import Theorems.Thm_OAI_CubicReflectionKernel_logSchwartz_apply
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_halfEulerIterateCLM_apply
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_paperFourierRayCLM_apply
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_paperRealRayCLM_apply
+import Theorems.Thm_OAI_EisensteinSchwartzPoisson_verticalSlice_apply
+import Theorems.Thm_OAI_FiniteGaussPhase_productElementCRT_mk
+import Theorems.Thm_OAI_FiniteRayExpansion_zeroExtendUnits_nonunit
+import Theorems.Thm_OAI_FiniteRayExpansion_zeroExtendUnits_unit
+import Theorems.Thm_OAI_FirstPassCubeLabels_coreRayTwist_prod
+import Theorems.Thm_OAI_FirstPassCubeLabels_twisted_core_product
+import Theorems.Thm_OAI_IdealGaussCRT_quotientProdEquivPi_mk
+import Theorems.Thm_OAI_IdealGaussCRT_traceProdChar_mk
+import Theorems.Thm_OAI_InitialMeanSquare_initialLogProfile_apply
+import Theorems.Thm_OAI_JointLogSeparation_frequencyTwist_apply
+import Theorems.Thm_OAI_JointLogSeparation_frequencyTwist_norm
+import Theorems.Thm_OAI_JointLogSeparation_frequencyTwist_twice
+import Theorems.Thm_OAI_LocalLogFourier_positiveLogProfile_apply
+import Theorems.Thm_OAI_QuadraticGaussRay_residueQuotientFour_mk
+import Theorems.Thm_OAI_QuadraticInitialBound_annularSieveCutoff_apply
+import Theorems.Thm_OAI_QuadraticInitialBound_annularSieveCutoff_zero
+import Theorems.Thm_OAI_QuadraticInitialBound_sieveCutoff_apply
+import Theorems.Thm_OAI_SecondPassArithmetic_GlobalSecondData_append_first
+import Theorems.Thm_OAI_SecondPassArithmetic_GlobalSecondData_first_append
+import Theorems.Thm_OAI_SecondPassArithmetic_GlobalSecondData_source_append
+import Theorems.Thm_OAI_SecondPassArithmetic_secondSupportTuple_newLabel
+import Theorems.Thm_OAI_SecondPassArithmetic_secondSupportTuple_newRow
+import Theorems.Thm_OAI_SecondPassIntegration_conjugateProfile_apply
+import Theorems.Thm_OAI_SixthPowerAverage_outsideWeight_zero
+import Theorems.Thm_OAI_SixthPowerAverage_weightedCoeff_zero
+import Theorems.Thm_OAI_SixthPowerAverage_weightedMoebius_zero
+import Theorems.Thm_OAI_SmoothMobiusCorrection_mem_primeSet
+import Theorems.Thm_RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_L2Compactness_smoothBCF_apply
+attribute [local simp] OAI.ActualEisensteinCubic.principalSexticRow_mk
+attribute [local simp] OAI.CanonicalCubeSeparation.cubeFrequencyFactor_norm
+attribute [local simp] OAI.CanonicalCubeSeparation.radiusIter_succ
+attribute [local simp] OAI.CanonicalCubeSeparation.radiusIter_zero
+attribute [local simp] OAI.CanonicalCubeSeparation.sourceLogProfile_apply
+attribute [local simp] OAI.CanonicalRowCompletion.cubeIndex_apply
+attribute [local simp] OAI.CompletedHeight.completedT_normHeight_norm
+attribute [local simp] OAI.CompletedHeight.shortCompletedSum_normHeight_norm
+attribute [local simp] OAI.CubicEisenstein.cubicUnitGaussSum_one
+attribute [local simp] OAI.CubicEisenstein.finiteCubicMultiplier_coe
+attribute [local simp] OAI.CubicEisenstein.hyperbolicSpatialChart_apply
+attribute [local simp] OAI.CubicEisenstein.hyperbolicSpatialChart_source
+attribute [local simp] OAI.CubicEisenstein.integralComplexMatrix_apply
+attribute [local simp] OAI.CubicEisenstein.kernelLocalLift_symm
+attribute [local simp] OAI.CubicEisenstein.kernelQuotientChart_symm
+attribute [local simp] OAI.CubicEisenstein.kernelTruncatedWeight_apply
+attribute [local simp] OAI.CubicEisenstein.spatialTriple_one
+attribute [local simp] OAI.CubicEisenstein.spatialTriple_two
+attribute [local simp] OAI.CubicEisenstein.spatialTriple_zero
+attribute [local simp] OAI.CubicReflectionKernel.logSchwartz_apply
+attribute [local simp] OAI.EisensteinSchwartzPoisson.halfEulerIterateCLM_apply
+attribute [local simp] OAI.EisensteinSchwartzPoisson.paperFourierRayCLM_apply
+attribute [local simp] OAI.EisensteinSchwartzPoisson.paperRealRayCLM_apply
+attribute [local simp] OAI.EisensteinSchwartzPoisson.verticalSlice_apply
+attribute [local simp] OAI.FiniteGaussPhase.productElementCRT_mk
+attribute [local simp] OAI.FiniteRayExpansion.zeroExtendUnits_nonunit
+attribute [local simp] OAI.FiniteRayExpansion.zeroExtendUnits_unit
+attribute [local simp] OAI.FirstPassCubeLabels.coreRayTwist_prod
+attribute [local simp] OAI.FirstPassCubeLabels.twisted_core_product
+attribute [local simp] OAI.IdealGaussCRT.quotientProdEquivPi_mk
+attribute [local simp] OAI.IdealGaussCRT.traceProdChar_mk
+attribute [local simp] OAI.InitialMeanSquare.initialLogProfile_apply
+attribute [local simp] OAI.JointLogSeparation.frequencyTwist_apply
+attribute [local simp] OAI.JointLogSeparation.frequencyTwist_norm
+attribute [local simp] OAI.JointLogSeparation.frequencyTwist_twice
+attribute [local simp] OAI.LocalLogFourier.positiveLogProfile_apply
+attribute [local simp] OAI.QuadraticGaussRay.residueQuotientFour_mk
+attribute [local simp] OAI.QuadraticInitialBound.annularSieveCutoff_apply
+attribute [local simp] OAI.QuadraticInitialBound.annularSieveCutoff_zero
+attribute [local simp] OAI.QuadraticInitialBound.sieveCutoff_apply
+attribute [local simp] OAI.SecondPassArithmetic.GlobalSecondData.append_first
+attribute [local simp] OAI.SecondPassArithmetic.GlobalSecondData.first_append
+attribute [local simp] OAI.SecondPassArithmetic.GlobalSecondData.source_append
+attribute [local simp] OAI.SecondPassArithmetic.secondSupportTuple_newLabel
+attribute [local simp] OAI.SecondPassArithmetic.secondSupportTuple_newRow
+attribute [local simp] OAI.SecondPassIntegration.conjugateProfile_apply
+attribute [local simp] OAI.SixthPowerAverage.outsideWeight_zero
+attribute [local simp] OAI.SixthPowerAverage.weightedCoeff_zero
+attribute [local simp] OAI.SixthPowerAverage.weightedMoebius_zero
+attribute [local simp] OAI.SmoothMobiusCorrection.mem_primeSet
+attribute [local simp] RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.smoothBCF_apply
+
+
+
+set_option autoImplicit false
+open OAI
+noncomputable section
+open OAI.CubicEisenstein
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+open Filter MeasureTheory
+open scoped BigOperators Classical Topology MatrixGroups
+open Finset AddChar MulChar EisensteinEmbedding
+namespace OAI.CubicEisenstein
+theorem _root_.solution (f : HyperbolicSpace→ℂ) (g H : SL(2,ℂ))
+    (κ : ℂ) (htransform : ∀w,f (g•w)=κ*f (H•w)) (hc : g 1 0≠0)
+    (v : ℝ) (hv : 0<v)
+    (hD : DifferentiableAt ℝ
+      (fun q : ℂ × ℝ=>f (H•cuspCoordinateLift (q.2,q.1)))
+      (-g 1 1/g 1 0,1/(‖g 1 0‖^2*v))) :
+    horizontalWirtingerBar (fun z=>f (upperPoint z v hv)) (g 0 0/g 1 0)=
+      (κ*(-1/((g 1 0)^2*(v:ℂ)^2)))*
+        horizontalWirtingerZ
+          (fun z=>f (H•upperPoint z (1/(‖g 1 0‖^2*v)) (by positivity)))
+          (-g 1 1/g 1 0) := by
+  let FH : ℂ × ℝ→ℂ := fun q=>f (H•cuspCoordinateLift (q.2,q.1))
+  let base : ℂ × ℝ := (-g 1 1/g 1 0,1/(‖g 1 0‖^2*v))
+  let D := fderiv ℝ FH base
+  have hF : HasFDerivAt FH D base := hD.hasFDerivAt
+  have hscaled : HasFDerivAt (fun q=>κ*FH q) (κ • D) base := hF.const_mul κ
+  have he := inverse_cusp_wirtingerBar (g 1 0) (g 1 1) v hc hv
+    (fun q=>κ*FH q) (κ • D) hscaled
+  have hline : (fun z=>κ*FH (inverseCuspCoordinates (g 1 0) (g 1 1) v z))=
+      (fun z=>f (upperPoint (z+g 0 0/g 1 0) v hv)) := by
+    funext z
+    have ht := htransform (g⁻¹•upperPoint (z+g 0 0/g 1 0) v hv)
+    rw [smul_inv_smul,inverse_cusp_action g hc v hv z] at ht
+    change κ*f (H•cuspCoordinateLift
+      ((inverseCuspCoordinates (g 1 0) (g 1 1) v z).2,
+       (inverseCuspCoordinates (g 1 0) (g 1 1) v z).1))=_
+    rw [cuspCoordinateLift_positive _ _ (inverseCuspCoordinates_height_pos _ _ _ _ hc hv)]
+    exact ht.symm
+  rw [hline] at he
+  have hshift := horizontalWirtingerBar_translate (fun z=>f (upperPoint z v hv)) (g 0 0/g 1 0)
+  rw [hshift] at he
+  have hz := horizontalWirtingerZ_eq_fderiv FH D (-g 1 1/g 1 0) (1/(‖g 1 0‖^2*v)) hF
+  have hFH : (fun z=>FH (z,1/(‖g 1 0‖^2*v)))=
+      (fun z=>f (H•upperPoint z (1/(‖g 1 0‖^2*v)) (by positivity))) := by
+    funext z
+    exact congrArg (fun w=>f (H•w)) (cuspCoordinateLift_positive _ _ (by positivity))
+  rw [hFH] at hz
+  rw [hz]
+  rw [he]
+  simp only [_root_.smul_apply,smul_eq_mul]
+  ring
+end OAI.CubicEisenstein

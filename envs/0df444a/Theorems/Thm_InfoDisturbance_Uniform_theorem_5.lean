@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoDisturbance_Uniform_theorem_5
 -- name    : InfoDisturbance.Uniform.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:24:39.38774+00:00
 -- url     : https://prove2.me/theorems/d258951e-7591-44fc-984a-df268f62fc07

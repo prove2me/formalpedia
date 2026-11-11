@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_stepRepresentative_word
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.stepRepresentative_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:41:39.770083+00:00
 -- url     : https://prove2.me/theorems/809657a3-76c7-486c-9435-a0175c806adc

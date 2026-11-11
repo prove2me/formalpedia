@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentiveFinNet_theorem_1
 -- name    : IncentiveFinNet.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:19:46.22527+00:00
 -- url     : https://prove2.me/theorems/8f1e7b53-0514-4d21-8c8c-bec7bca2acd5

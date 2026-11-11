@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_PauliSDP_uniform_value_lower_approximation_compiler
 -- name    : QuantumMaxCutEnergy.PauliSDP.uniform_value_lower_approximation_compiler
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T15:02:31.934251+00:00
 -- url     : https://prove2.me/theorems/39cacb5f-18c0-42aa-aa8e-304fdc7409b0

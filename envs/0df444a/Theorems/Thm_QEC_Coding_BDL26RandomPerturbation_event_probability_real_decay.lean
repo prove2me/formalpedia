@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_event_probability_real_decay
 -- name    : QEC.Coding.BDL26RandomPerturbation.event_probability_real_decay
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:03:17.602385+00:00
 -- url     : https://prove2.me/theorems/3c1a4f16-9bb3-48db-9b00-3a9e0665c315

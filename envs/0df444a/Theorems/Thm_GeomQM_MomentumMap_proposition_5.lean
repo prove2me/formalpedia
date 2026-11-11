@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomQM_MomentumMap_proposition_5
 -- name    : GeomQM.MomentumMap.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:25:38.582991+00:00
 -- url     : https://prove2.me/theorems/b6d82757-c53f-46dd-ab8d-5fe677450359

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_eventAnchorQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.eventAnchorQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:13:23.985616+00:00
 -- url     : https://prove2.me/theorems/706b0e1f-5981-4f44-9705-66540673874b

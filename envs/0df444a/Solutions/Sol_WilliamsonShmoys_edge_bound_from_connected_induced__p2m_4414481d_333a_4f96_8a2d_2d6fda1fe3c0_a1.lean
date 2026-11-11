@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.edge_bound_from_connected_induced__p2m_4414481d_333a_4f96_8a2d_2d6fda1fe3c0_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:08:05.913167+00:00
 -- url     : https://prove2.me/submissions/9b65a24a-2b14-4ec6-abfa-62c5174f8db0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_component_edge_data__p2m_66ed8684_7720_4905_99a4_14d61ffeb91a_a1

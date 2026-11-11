@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_terminalRung_boundaryUnit
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.terminalRung_boundaryUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:42:37.907955+00:00
 -- url     : https://prove2.me/theorems/1e0829fa-edf5-4ff7-9c10-89abff10e3e4

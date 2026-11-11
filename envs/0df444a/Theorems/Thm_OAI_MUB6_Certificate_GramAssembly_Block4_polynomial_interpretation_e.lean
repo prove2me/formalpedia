@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_GramAssembly_Block4_polynomial_interpretation_e
 -- name    : OAI.MUB6.Certificate.GramAssembly.Block4.polynomial_interpretation_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T19:27:50.176284+00:00
 -- url     : https://prove2.me/theorems/c2c26f2e-6355-4cb0-8f09-e796b5e372c5

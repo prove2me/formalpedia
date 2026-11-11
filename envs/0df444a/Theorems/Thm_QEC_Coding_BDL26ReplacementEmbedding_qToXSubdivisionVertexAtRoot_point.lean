@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_qToXSubdivisionVertexAtRoot_point
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.qToXSubdivisionVertexAtRoot_point
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:32:21.198975+00:00
 -- url     : https://prove2.me/theorems/ac25c1ad-e998-46ed-b34e-4dc690119ced

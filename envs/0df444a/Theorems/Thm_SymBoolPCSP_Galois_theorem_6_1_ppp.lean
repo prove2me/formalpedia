@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_Galois_theorem_6_1_ppp
 -- name    : SymBoolPCSP.Galois.theorem_6_1_ppp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:27.670592+00:00
 -- url     : https://prove2.me/theorems/f9beca41-4b05-4a8e-89f6-5bc0327e7e6f

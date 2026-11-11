@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_vertexColor_triangleVertex
 -- name    : QEC.Coding.BDL26RandomPerturbation.vertexColor_triangleVertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:31.541996+00:00
 -- url     : https://prove2.me/theorems/f651c102-303b-4160-817e-54e12e49c247

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PochetWolsey_WagnerWhitin_ww_convex_hull
 -- name    : PochetWolsey.WagnerWhitin.ww_convex_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:26:51.897628+00:00
 -- url     : https://prove2.me/theorems/8897fedf-a42e-404b-ba80-447d2ca59771

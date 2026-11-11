@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_old_segment_upper
 -- name    : QEC.Coding.BDL26RandomPerturbation.old_segment_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:54.6757+00:00
 -- url     : https://prove2.me/theorems/9f501edf-a26a-4da2-90f6-4d190ab1c6ae

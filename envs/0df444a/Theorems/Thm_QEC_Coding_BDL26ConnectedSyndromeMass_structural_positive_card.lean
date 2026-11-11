@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_structural_positive_card
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.structural_positive_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:12:18.085473+00:00
 -- url     : https://prove2.me/theorems/8600de35-2cd2-4313-ba5f-8e99497dd386

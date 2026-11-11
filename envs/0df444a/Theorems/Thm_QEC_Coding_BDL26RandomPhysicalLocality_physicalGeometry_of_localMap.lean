@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPhysicalLocality_physicalGeometry_of_localMap
 -- name    : QEC.Coding.BDL26RandomPhysicalLocality.physicalGeometry_of_localMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:24:22.923788+00:00
 -- url     : https://prove2.me/theorems/a3667dc8-5570-4eff-8365-a63dd02f4ac5

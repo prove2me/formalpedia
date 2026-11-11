@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanGeneralHop.obd_multiplicity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:59:43.866315+00:00
 -- url     : https://prove2.me/submissions/155bb3b5-8f24-4c5b-a669-78abd4d35fb8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanGeneralHop.lean — solution of BookProof.CarlemanGeneralHop.obd_multiplicity
 import Mathlib

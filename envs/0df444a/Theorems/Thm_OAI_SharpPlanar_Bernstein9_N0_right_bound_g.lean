@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Bernstein9_N0_right_bound_g
 -- name    : OAI.SharpPlanar.Bernstein9.N0_right.bound_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T03:42:28.912085+00:00
 -- url     : https://prove2.me/theorems/adf60e8c-edff-44e1-9598-cbff7f07581d

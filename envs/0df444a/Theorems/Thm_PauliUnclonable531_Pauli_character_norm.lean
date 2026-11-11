@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_character_norm
 -- name    : PauliUnclonable531.Pauli.character_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:17.51613+00:00
 -- url     : https://prove2.me/theorems/1d4f41d5-eb20-484a-8ea2-784a79804df6

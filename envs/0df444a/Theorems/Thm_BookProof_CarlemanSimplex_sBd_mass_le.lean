@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_sBd_mass_le
 -- name    : BookProof.CarlemanSimplex.sBd_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:49:10.507601+00:00
 -- url     : https://prove2.me/theorems/dc4bb16f-e537-490a-b546-57f37900f702

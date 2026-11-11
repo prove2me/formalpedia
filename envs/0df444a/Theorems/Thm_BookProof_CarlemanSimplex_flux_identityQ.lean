@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_flux_identityQ
 -- name    : BookProof.CarlemanSimplex.flux_identityQ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:48:31.636313+00:00
 -- url     : https://prove2.me/theorems/0f03e6ac-ee50-4f37-a1de-5a1677302bbf

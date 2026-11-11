@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_TutteBerge_exposed_add_two_mul_card
 -- name    : CombOpt.TutteBerge.exposed_add_two_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:06:04.439963+00:00
 -- url     : https://prove2.me/theorems/17e4da4d-a2e1-4b0a-aba3-13f36adc1d1c

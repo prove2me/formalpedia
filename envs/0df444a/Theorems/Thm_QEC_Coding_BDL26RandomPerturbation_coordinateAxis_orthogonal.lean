@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_coordinateAxis_orthogonal
 -- name    : QEC.Coding.BDL26RandomPerturbation.coordinateAxis_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:28.277236+00:00
 -- url     : https://prove2.me/theorems/0d70da94-468b-411a-9399-2450e1759456

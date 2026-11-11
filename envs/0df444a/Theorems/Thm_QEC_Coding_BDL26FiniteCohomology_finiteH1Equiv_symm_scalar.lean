@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_finiteH1Equiv_symm_scalar
 -- name    : QEC.Coding.BDL26FiniteCohomology.finiteH1Equiv_symm_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:27:24.321915+00:00
 -- url     : https://prove2.me/theorems/16e7fad7-a0c1-4e04-9509-d6f86c56d798

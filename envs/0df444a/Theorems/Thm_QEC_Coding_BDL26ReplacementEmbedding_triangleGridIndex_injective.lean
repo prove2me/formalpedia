@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangleGridIndex_injective
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangleGridIndex_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:37:41.980872+00:00
 -- url     : https://prove2.me/theorems/ba445d57-3e0d-4b1a-a5b3-93a871fbde08

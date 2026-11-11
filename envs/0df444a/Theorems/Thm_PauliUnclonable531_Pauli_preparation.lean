@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_preparation
 -- name    : PauliUnclonable531.Pauli.preparation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:09:57.817752+00:00
 -- url     : https://prove2.me/theorems/36b747f5-051c-4b07-856c-84acf766297c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_rzData_topCenter_is_z
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.rzData_topCenter_is_z
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:57:38.233199+00:00
 -- url     : https://prove2.me/theorems/224e699d-87a9-4136-8afa-fd640f9f0152

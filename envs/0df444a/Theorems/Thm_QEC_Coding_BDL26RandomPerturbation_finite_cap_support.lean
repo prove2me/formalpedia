@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_finite_cap_support
 -- name    : QEC.Coding.BDL26RandomPerturbation.finite_cap_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:50:03.639344+00:00
 -- url     : https://prove2.me/theorems/07804437-259d-426a-9487-af5e262d6121

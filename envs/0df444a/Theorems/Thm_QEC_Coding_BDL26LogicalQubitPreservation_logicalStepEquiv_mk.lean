@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_logicalStepEquiv_mk
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.logicalStepEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:40:48.684891+00:00
 -- url     : https://prove2.me/theorems/adaad718-1d31-46b5-897c-d99ae76c5b2b

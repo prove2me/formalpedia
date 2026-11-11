@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceCDLP_MNL_top_ranked_optimal
 -- name    : ChoiceCDLP.MNL.top_ranked_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T07:58:53.876838+00:00
 -- url     : https://prove2.me/theorems/a54d53e6-63ca-4219-be6b-b613f62ee57c

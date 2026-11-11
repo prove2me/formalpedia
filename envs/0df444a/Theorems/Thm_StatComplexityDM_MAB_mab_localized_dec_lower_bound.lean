@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_MAB_mab_localized_dec_lower_bound
 -- name    : StatComplexityDM.MAB.mab_localized_dec_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:22.277492+00:00
 -- url     : https://prove2.me/theorems/b7bae0a0-5689-491d-bda2-0659ae370d3a

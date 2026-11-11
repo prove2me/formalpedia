@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Invariant233_Results_prescribed_irrational_counterexample
 -- name    : OAI.Invariant233.Results.prescribed_irrational_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:46.956572+00:00
 -- url     : https://prove2.me/theorems/eb5db1df-6347-4d9d-9ecd-bcc117c3107b

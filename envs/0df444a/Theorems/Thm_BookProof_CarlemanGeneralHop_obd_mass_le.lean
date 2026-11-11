@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanGeneralHop_obd_mass_le
 -- name    : BookProof.CarlemanGeneralHop.obd_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:44:20.30544+00:00
 -- url     : https://prove2.me/theorems/95e3993c-b2d6-430e-b628-b708ff57db5c

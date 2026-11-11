@@ -52525,8 +52525,8 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1404_b1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p030_b031", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p002_b070", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "PochetWolsey.Mixing.extended_hull", "child": "PochetWolsey_Mixing_Extended", "via": ["statement"]}
-{"parent": "PochetWolsey.Mixing.extended_hull", "child": "PochetWolsey_Mixing_Model", "via": ["statement"]}
+{"parent": "PochetWolsey.Mixing.extended_hull", "child": "PochetWolsey_Mixing_Extended", "via": ["solution", "statement"]}
+{"parent": "PochetWolsey.Mixing.extended_hull", "child": "PochetWolsey_Mixing_Model", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c307060_s4", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c306057_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1447_b2", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}

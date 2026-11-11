@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_presentationOutput_zero_coarse
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.presentationOutput_zero_coarse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:58:14.446285+00:00
 -- url     : https://prove2.me/theorems/66028b77-ae03-4c82-ae22-7ee36b6b391b

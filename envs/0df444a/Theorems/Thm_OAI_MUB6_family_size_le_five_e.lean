@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_family_size_le_five_e
 -- name    : OAI.MUB6.family_size_le_five_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T00:36:42.501253+00:00
 -- url     : https://prove2.me/theorems/260bd85b-cbba-4a46-a111-d84a6262051d

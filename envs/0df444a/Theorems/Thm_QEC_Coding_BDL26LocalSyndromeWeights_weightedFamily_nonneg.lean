@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_weightedFamily_nonneg
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.weightedFamily_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:08:55.090761+00:00
 -- url     : https://prove2.me/theorems/1e5464ea-c125-4687-b6d8-02eaaa90b272

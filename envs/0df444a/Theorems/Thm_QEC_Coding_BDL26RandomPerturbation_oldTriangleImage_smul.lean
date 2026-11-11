@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_oldTriangleImage_smul
 -- name    : QEC.Coding.BDL26RandomPerturbation.oldTriangleImage_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:45:45.397193+00:00
 -- url     : https://prove2.me/theorems/ebb359b5-dabc-4dcb-b14f-191f9cae031a

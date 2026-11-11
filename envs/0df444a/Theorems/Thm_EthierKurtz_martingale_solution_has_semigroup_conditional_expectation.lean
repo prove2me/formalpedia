@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_martingale_solution_has_semigroup_conditional_expectation
 -- name    : EthierKurtz.martingale_solution_has_semigroup_conditional_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-05T12:51:43.895704+00:00
 -- url     : https://prove2.me/theorems/a99bfd3f-66b6-455c-a86b-151f694a2e5b

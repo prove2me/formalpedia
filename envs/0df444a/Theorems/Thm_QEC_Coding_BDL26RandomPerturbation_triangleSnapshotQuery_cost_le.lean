@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_triangleSnapshotQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.triangleSnapshotQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:59:40.753844+00:00
 -- url     : https://prove2.me/theorems/76701584-75ec-4cdf-a794-b9c3855c0301

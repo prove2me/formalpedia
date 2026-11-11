@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_fiberExtend_support
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.fiberExtend_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:09:54.179341+00:00
 -- url     : https://prove2.me/theorems/5abd1a16-57f7-4c3a-9ccc-995e6a4eccaf

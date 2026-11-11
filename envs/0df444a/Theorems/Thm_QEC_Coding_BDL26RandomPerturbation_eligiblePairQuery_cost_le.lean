@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_eligiblePairQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.eligiblePairQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:02:04.165262+00:00
 -- url     : https://prove2.me/theorems/b7a3e236-c0e9-4b51-994f-91a0cee630cc

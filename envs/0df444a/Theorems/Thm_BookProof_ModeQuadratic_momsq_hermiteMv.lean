@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ModeQuadratic_momsq_hermiteMv
 -- name    : BookProof.ModeQuadratic.momsq_hermiteMv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T12:36:19.123573+00:00
 -- url     : https://prove2.me/theorems/aa09ab6b-c2e3-4736-9ac1-dc6390dd0ab9

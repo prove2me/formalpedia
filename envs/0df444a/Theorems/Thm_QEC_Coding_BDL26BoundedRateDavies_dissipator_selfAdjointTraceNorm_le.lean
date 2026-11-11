@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_dissipator_selfAdjointTraceNorm_le
 -- name    : QEC.Coding.BDL26BoundedRateDavies.dissipator_selfAdjointTraceNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:24:27.894081+00:00
 -- url     : https://prove2.me/theorems/e6dc06ad-604d-47e1-bf21-fa776dc8d31a

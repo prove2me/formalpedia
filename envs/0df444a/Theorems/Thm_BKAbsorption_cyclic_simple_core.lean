@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAbsorption_cyclic_simple_core
 -- name    : BKAbsorption.cyclic_simple_core
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-09T16:14:40.669499+00:00
 -- url     : https://prove2.me/theorems/3f0a06ee-b617-474b-8e4c-cb4838a178a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DirectionalTransience_directional_transience_implies_ballisticity
 -- name    : OAI.DirectionalTransience.directional_transience_implies_ballisticity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:35.059825+00:00
 -- url     : https://prove2.me/theorems/194f4fdd-1414-4fc2-9885-0706bf9acd3b

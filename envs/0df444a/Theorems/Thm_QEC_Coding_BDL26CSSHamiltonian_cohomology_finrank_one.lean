@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_cohomology_finrank_one
 -- name    : QEC.Coding.BDL26CSSHamiltonian.cohomology_finrank_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:37:26.401555+00:00
 -- url     : https://prove2.me/theorems/ca30ac51-3fd9-4016-bb3d-8fff302fe37e

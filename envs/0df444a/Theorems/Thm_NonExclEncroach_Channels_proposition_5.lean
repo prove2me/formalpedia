@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonExclEncroach_Channels_proposition_5
 -- name    : NonExclEncroach.Channels.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:49.131385+00:00
 -- url     : https://prove2.me/theorems/25b9a746-eb1c-499c-9b01-482c2f440fbe

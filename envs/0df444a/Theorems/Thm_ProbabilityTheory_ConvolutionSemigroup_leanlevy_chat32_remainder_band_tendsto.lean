@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbabilityTheory_ConvolutionSemigroup_leanlevy_chat32_remainder_band_tendsto
 -- name    : ProbabilityTheory.ConvolutionSemigroup.leanlevy_chat32_remainder_band_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T00:16:20.3822+00:00
 -- url     : https://prove2.me/theorems/9b2e6f18-8d1a-4cf7-aa4a-57131750eed7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_eventsAtVertex_card_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.eventsAtVertex_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:05:14.040048+00:00
 -- url     : https://prove2.me/theorems/a97b8707-aa42-4608-9c1d-11f0af301b8c

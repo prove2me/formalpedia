@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_contraction_complement
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.contraction_complement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:42:26.500074+00:00
 -- url     : https://prove2.me/theorems/eda8bd83-0c5c-4357-88f5-4c9365f384e6

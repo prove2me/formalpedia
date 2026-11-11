@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_exists_local_pool_bound
 -- name    : QEC.Coding.BDL26RandomPerturbation.exists_local_pool_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:03:37.361193+00:00
 -- url     : https://prove2.me/theorems/1cb1f642-4184-4fd4-a7aa-424439f30ca1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_U33_wuplus_contains_g
 -- name    : OAI.SharpPlanar.Numerical.U33.wuplus_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T19:41:10.67662+00:00
 -- url     : https://prove2.me/theorems/5470504c-c0f2-40df-a963-1fddd61e26a2

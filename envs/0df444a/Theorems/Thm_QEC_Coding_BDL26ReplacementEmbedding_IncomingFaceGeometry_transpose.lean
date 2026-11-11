@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_IncomingFaceGeometry_transpose
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.IncomingFaceGeometry.transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:07:12.157199+00:00
 -- url     : https://prove2.me/theorems/efc7c39f-d48a-474c-abbf-cf6c40ec8921

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26GraphQuantitativeBounds_localRegion_card_le
 -- name    : QEC.Coding.BDL26GraphQuantitativeBounds.localRegion_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:00:40.936041+00:00
 -- url     : https://prove2.me/theorems/bdb25ae7-1926-4f8c-bfcc-9ff3d11fcfac

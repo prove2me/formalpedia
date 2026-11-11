@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_agm_classical_sdp_lower_value_tm2
 -- name    : QuantumMaxCutEnergy.agm_classical_sdp_lower_value_tm2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T17:36:36.20862+00:00
 -- url     : https://prove2.me/theorems/d9f601e5-8c68-4369-a27d-701e73e686b8

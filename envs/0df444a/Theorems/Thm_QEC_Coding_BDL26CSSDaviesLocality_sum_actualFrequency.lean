@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_sum_actualFrequency
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.sum_actualFrequency
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:24:39.900066+00:00
 -- url     : https://prove2.me/theorems/48c69bbd-f27d-428a-b000-26d7322cc6ae

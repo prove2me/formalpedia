@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicBlackwell_theorem_3_3
 -- name    : ConicBlackwell.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:46:04.618332+00:00
 -- url     : https://prove2.me/theorems/144eee49-eda9-4b23-9cd1-eb215b5d78fe

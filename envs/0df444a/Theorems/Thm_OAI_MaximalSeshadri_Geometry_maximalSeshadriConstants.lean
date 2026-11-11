@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MaximalSeshadri_Geometry_maximalSeshadriConstants
 -- name    : OAI.MaximalSeshadri.Geometry.maximalSeshadriConstants
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:56.244262+00:00
 -- url     : https://prove2.me/theorems/a20bba59-aa1e-4122-864c-ce886691e2f3

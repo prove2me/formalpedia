@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_pauli_bridges
 -- name    : PauliUnclonable531.Pauli.pauli_bridges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:34.064205+00:00
 -- url     : https://prove2.me/theorems/b038b674-0fb3-4e14-a2c3-559493736d0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_fullTriangleQuery_correct
 -- name    : QEC.Coding.BDL26RandomPerturbation.fullTriangleQuery_correct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:00:17.077143+00:00
 -- url     : https://prove2.me/theorems/3f613624-4b2a-47cb-b9cb-1ec12d1da167

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P14_passive_and_reduction
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P14.passive_and_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T00:18:38.849168+00:00
 -- url     : https://prove2.me/theorems/5d7287e9-218b-4501-8acb-5131ba67698b

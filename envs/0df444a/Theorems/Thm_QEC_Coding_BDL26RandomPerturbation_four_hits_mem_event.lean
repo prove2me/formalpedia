@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_four_hits_mem_event
 -- name    : QEC.Coding.BDL26RandomPerturbation.four_hits_mem_event
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:07:30.116167+00:00
 -- url     : https://prove2.me/theorems/3a0ad038-e9af-4bdb-99eb-759d311d817c

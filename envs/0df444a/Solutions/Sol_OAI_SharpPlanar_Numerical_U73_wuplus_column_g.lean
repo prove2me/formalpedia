@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.Numerical.U73.wuplus_column_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T20:44:04.602243+00:00
 -- url     : https://prove2.me/submissions/cc96101a-7ea9-445a-a8f4-6fba2caf674f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G072

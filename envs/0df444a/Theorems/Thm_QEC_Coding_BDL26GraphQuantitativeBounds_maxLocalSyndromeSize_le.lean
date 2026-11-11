@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26GraphQuantitativeBounds_maxLocalSyndromeSize_le
 -- name    : QEC.Coding.BDL26GraphQuantitativeBounds.maxLocalSyndromeSize_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:18:29.907412+00:00
 -- url     : https://prove2.me/theorems/0d5bbb95-c515-443f-a1b4-7de16b7c9fff

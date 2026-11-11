@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_nonzeroFactor_le_envelope
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.nonzeroFactor_le_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:09:10.395105+00:00
 -- url     : https://prove2.me/theorems/f8fa7d44-c08d-4871-aa40-040812e8301d

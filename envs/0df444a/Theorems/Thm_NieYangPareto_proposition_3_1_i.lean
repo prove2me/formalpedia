@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NieYangPareto_proposition_3_1_i
 -- name    : NieYangPareto.proposition_3_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:03:36.940535+00:00
 -- url     : https://prove2.me/theorems/2d510763-ce03-452d-a479-33183b123a7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TotientAsymptotic_coefficient_nonnegative
 -- name    : OAI.TotientAsymptotic.coefficient_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:33.011163+00:00
 -- url     : https://prove2.me/theorems/ad26629b-65bc-4e4f-b0bc-aa01ec6f222c

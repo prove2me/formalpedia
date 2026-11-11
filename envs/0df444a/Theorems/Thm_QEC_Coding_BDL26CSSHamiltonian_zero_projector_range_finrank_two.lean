@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_zero_projector_range_finrank_two
 -- name    : QEC.Coding.BDL26CSSHamiltonian.zero_projector_range_finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:38:16.669435+00:00
 -- url     : https://prove2.me/theorems/c8b1d3e6-26aa-4803-98ae-2b7c8b7fd398

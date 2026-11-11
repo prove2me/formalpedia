@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_labeled_triangle_fiber_card_le
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.labeled_triangle_fiber_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:37:22.319716+00:00
 -- url     : https://prove2.me/theorems/7c2b5582-0e07-4ba2-ba83-5a1ed26d936d

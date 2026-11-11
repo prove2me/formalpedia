@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_axis_card
 -- name    : QEC.Coding.BDL26BoundedRateDavies.axis_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:28:23.085883+00:00
 -- url     : https://prove2.me/theorems/59933e08-e737-4194-a1e2-0ca5f75e2d12

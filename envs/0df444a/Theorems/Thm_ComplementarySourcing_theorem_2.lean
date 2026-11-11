@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComplementarySourcing_theorem_2
 -- name    : ComplementarySourcing.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:09:04.628711+00:00
 -- url     : https://prove2.me/theorems/962039c5-1446-46d6-b4b6-70c7f2e70c76

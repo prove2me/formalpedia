@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_TutteBerge_tutte_berge_formula
 -- name    : CombOpt.TutteBerge.tutte_berge_formula
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:07:31.374546+00:00
 -- url     : https://prove2.me/theorems/54f23ec7-f6d8-41b8-80ec-fef3917daf45

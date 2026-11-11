@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_choi_identity
 -- name    : PauliUnclonable531.Pauli.choi_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:16.247825+00:00
 -- url     : https://prove2.me/theorems/b642414b-34cb-4e64-ad11-2a8de9fa9e13

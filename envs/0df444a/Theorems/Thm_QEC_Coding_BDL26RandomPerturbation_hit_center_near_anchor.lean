@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_hit_center_near_anchor
 -- name    : QEC.Coding.BDL26RandomPerturbation.hit_center_near_anchor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:13:06.11236+00:00
 -- url     : https://prove2.me/theorems/d2043e9d-fd75-47f2-be50-742b7381928f

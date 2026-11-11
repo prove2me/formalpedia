@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_fourTuples_entry_length
 -- name    : QEC.Coding.BDL26RandomPerturbation.fourTuples_entry_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:56:29.086079+00:00
 -- url     : https://prove2.me/theorems/9fb3f2c8-b6b8-4521-9aa0-ca74c759fdb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParetoEFX296_Approx_theorem_2
 -- name    : ParetoEFX296.Approx.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:24:55.236297+00:00
 -- url     : https://prove2.me/theorems/d04ecd3c-a0bb-48d4-800b-2505db991068

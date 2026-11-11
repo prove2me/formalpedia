@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SturtRobustStop_Structure_theorem_4
 -- name    : SturtRobustStop.Structure.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T01:12:50.92262+00:00
 -- url     : https://prove2.me/theorems/027b5f06-0fb3-4d5e-9a62-d0f8f00af787

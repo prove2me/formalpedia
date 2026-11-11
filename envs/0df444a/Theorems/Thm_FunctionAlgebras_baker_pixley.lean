@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctionAlgebras_baker_pixley
 -- name    : FunctionAlgebras.baker_pixley
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-07T16:59:33.270711+00:00
 -- url     : https://prove2.me/theorems/191f3add-e850-4b59-8f11-1bb849acbd45

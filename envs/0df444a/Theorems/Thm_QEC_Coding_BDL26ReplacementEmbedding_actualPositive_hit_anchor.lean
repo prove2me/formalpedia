@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualPositive_hit_anchor
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualPositive_hit_anchor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:40:24.407541+00:00
 -- url     : https://prove2.me/theorems/d976cf5a-fa9f-4b17-95a6-1641e4020cfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CKSMain_schwarzschild_equality_examples
 -- name    : OAI.CKSMain.schwarzschild_equality_examples
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:25.537761+00:00
 -- url     : https://prove2.me/theorems/10e49548-eee1-4510-9b6e-ec061dc91028

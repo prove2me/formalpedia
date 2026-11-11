@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_longest_side_altitude_lower
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.longest_side_altitude_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:35:48.078018+00:00
 -- url     : https://prove2.me/theorems/fa047a67-543b-4f12-bae6-5c8b225bdd96

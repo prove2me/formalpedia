@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_planarFaceQ1_fineCorner
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.planarFaceQ1_fineCorner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:38:49.894328+00:00
 -- url     : https://prove2.me/theorems/a4560d75-e293-4b55-9c18-351785c34834

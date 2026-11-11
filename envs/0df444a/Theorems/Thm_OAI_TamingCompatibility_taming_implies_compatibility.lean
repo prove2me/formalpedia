@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TamingCompatibility_taming_implies_compatibility
 -- name    : OAI.TamingCompatibility.taming_implies_compatibility
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:29.186357+00:00
 -- url     : https://prove2.me/theorems/b73db3a1-40a3-4d92-8133-42bb4a296c0f

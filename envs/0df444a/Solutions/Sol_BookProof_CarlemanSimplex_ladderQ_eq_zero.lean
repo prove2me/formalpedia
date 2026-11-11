@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanSimplex.ladderQ_eq_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T08:10:58.033192+00:00
 -- url     : https://prove2.me/submissions/a0f9b27f-6251-4464-acee-7ea91d1dc586
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanSimplex.lean — solution of BookProof.CarlemanSimplex.ladderQ_eq_zero
 import Mathlib

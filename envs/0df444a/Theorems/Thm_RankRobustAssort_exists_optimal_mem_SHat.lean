@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankRobustAssort_exists_optimal_mem_SHat
 -- name    : RankRobustAssort.exists_optimal_mem_SHat
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:29:36.008434+00:00
 -- url     : https://prove2.me/theorems/f9b01696-c26a-4e39-883e-a739e5de1120

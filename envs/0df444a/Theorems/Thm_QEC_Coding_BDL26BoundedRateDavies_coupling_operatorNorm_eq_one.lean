@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_coupling_operatorNorm_eq_one
 -- name    : QEC.Coding.BDL26BoundedRateDavies.coupling_operatorNorm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:26:01.437198+00:00
 -- url     : https://prove2.me/theorems/dc7b3621-f452-4a4c-b922-b3581d35016a

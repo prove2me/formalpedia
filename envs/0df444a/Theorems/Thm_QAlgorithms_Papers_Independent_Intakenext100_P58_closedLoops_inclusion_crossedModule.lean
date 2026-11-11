@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P58_closedLoops_inclusion_crossedModule
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P58.closedLoops_inclusion_crossedModule
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T06:47:28.279077+00:00
 -- url     : https://prove2.me/theorems/116150b4-39a0-4fcb-8a45-22001a74e2f5

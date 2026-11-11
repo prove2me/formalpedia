@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_martingale_solution_is_markov
 -- name    : EthierKurtz.martingale_solution_is_markov
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-05T12:51:23.616062+00:00
 -- url     : https://prove2.me/theorems/54176b4e-57f4-462c-805f-6a16a9a0aec1

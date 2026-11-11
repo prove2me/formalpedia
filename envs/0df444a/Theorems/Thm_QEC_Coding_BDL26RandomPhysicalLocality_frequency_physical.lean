@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPhysicalLocality_frequency_physical
 -- name    : QEC.Coding.BDL26RandomPhysicalLocality.frequency_physical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:25:56.423943+00:00
 -- url     : https://prove2.me/theorems/71c978fa-edcb-4bdc-8517-695eb3c14f4b

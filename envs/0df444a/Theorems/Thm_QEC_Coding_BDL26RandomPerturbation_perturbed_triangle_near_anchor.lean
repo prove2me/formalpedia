@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_perturbed_triangle_near_anchor
 -- name    : QEC.Coding.BDL26RandomPerturbation.perturbed_triangle_near_anchor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:06:40.510236+00:00
 -- url     : https://prove2.me/theorems/03e384a5-554f-434f-bf0b-e219a0bde98f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_difference_order
 -- name    : PauliUnclonable531.Pauli.difference_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:08:30.71693+00:00
 -- url     : https://prove2.me/theorems/ee636e84-5434-4520-87f0-cc18e0e7e45c

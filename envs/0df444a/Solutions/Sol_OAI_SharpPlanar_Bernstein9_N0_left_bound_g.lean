@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.Bernstein9.N0_left.bound_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T22:18:07.645578+00:00
 -- url     : https://prove2.me/submissions/7669a4e7-eaf1-4806-9f69-5a98130cec31
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G079

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_weightedFamily_le_nonzeroFactor
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.weightedFamily_le_nonzeroFactor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:08:57.772714+00:00
 -- url     : https://prove2.me/theorems/8321fc43-8957-4615-9475-c1382abe3ab6

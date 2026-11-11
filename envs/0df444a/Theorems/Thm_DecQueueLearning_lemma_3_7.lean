@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecQueueLearning_lemma_3_7
 -- name    : DecQueueLearning.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:41:11.480717+00:00
 -- url     : https://prove2.me/theorems/6486e4f3-6448-4fee-89a1-73cf6068b626

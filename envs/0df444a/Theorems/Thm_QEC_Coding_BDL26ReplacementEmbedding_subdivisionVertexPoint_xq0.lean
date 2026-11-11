@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_subdivisionVertexPoint_xq0
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.subdivisionVertexPoint_xq0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:30:11.621199+00:00
 -- url     : https://prove2.me/theorems/6f263a77-b488-4921-9040-de1b89410f3f

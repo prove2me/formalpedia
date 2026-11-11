@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HarmonicArtin_salvetti_cover_contractible
 -- name    : OAI.HarmonicArtin.salvetti_cover_contractible
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:44.18516+00:00
 -- url     : https://prove2.me/theorems/d6730837-62b0-41ff-8627-8d7d9665d08e

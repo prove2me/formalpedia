@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_common_hits_anchor_distance
 -- name    : QEC.Coding.BDL26RandomPerturbation.common_hits_anchor_distance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:16:19.182492+00:00
 -- url     : https://prove2.me/theorems/f4147d2f-3ec7-45f8-9937-f0f33752fcc9

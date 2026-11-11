@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticalibrationGGM_Reduction_theorem_4
 -- name    : MulticalibrationGGM.Reduction.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:31.618009+00:00
 -- url     : https://prove2.me/theorems/f664c12b-ec6f-4446-abb3-1df28c56ffc1

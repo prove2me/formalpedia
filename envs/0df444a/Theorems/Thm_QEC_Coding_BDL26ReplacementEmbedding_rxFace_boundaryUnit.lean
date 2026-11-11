@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rxFace_boundaryUnit
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rxFace_boundaryUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:01:10.70345+00:00
 -- url     : https://prove2.me/theorems/90318289-bb6c-45f1-bb50-1f9aa05ff17f

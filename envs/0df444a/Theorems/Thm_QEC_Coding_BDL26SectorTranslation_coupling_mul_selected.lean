@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_coupling_mul_selected
 -- name    : QEC.Coding.BDL26SectorTranslation.coupling_mul_selected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:39:39.183966+00:00
 -- url     : https://prove2.me/theorems/cf058296-7bf4-4ede-aa3c-dca0414f27a5

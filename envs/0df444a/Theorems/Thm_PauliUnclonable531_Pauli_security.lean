@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_security
 -- name    : PauliUnclonable531.Pauli.security
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:07:26.225998+00:00
 -- url     : https://prove2.me/theorems/53eb4c0e-8d00-4cf5-ba4c-e28dbab03bbc

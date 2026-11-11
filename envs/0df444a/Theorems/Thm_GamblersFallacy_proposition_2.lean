@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GamblersFallacy_proposition_2
 -- name    : GamblersFallacy.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:57.164018+00:00
 -- url     : https://prove2.me/theorems/ad7cba60-b56a-45a3-87f7-b13f55ee163c

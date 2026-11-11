@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_exists_0614_approximation
 -- name    : QuantumMaxCutEnergy.exists_0614_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T14:03:13.967686+00:00
 -- url     : https://prove2.me/theorems/5a1e1be7-4c82-418b-be4d-9f3520bf623f

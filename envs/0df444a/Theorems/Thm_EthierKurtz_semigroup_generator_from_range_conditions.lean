@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_semigroup_generator_from_range_conditions
 -- name    : EthierKurtz.semigroup_generator_from_range_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-05T12:51:23.595877+00:00
 -- url     : https://prove2.me/theorems/ef04b712-b982-4a11-8512-d6cdf9c746dd

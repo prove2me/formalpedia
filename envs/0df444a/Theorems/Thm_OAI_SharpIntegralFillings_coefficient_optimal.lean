@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpIntegralFillings_coefficient_optimal
 -- name    : OAI.SharpIntegralFillings.coefficient_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:19.963989+00:00
 -- url     : https://prove2.me/theorems/cd073b9f-8006-4dd8-9578-939525f971e7

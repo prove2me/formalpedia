@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_fineQuadrantImage_subset_upper
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.fineQuadrantImage_subset_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:39:27.368079+00:00
 -- url     : https://prove2.me/theorems/b2dc26f1-a626-4a10-97bb-703ee28b56e4

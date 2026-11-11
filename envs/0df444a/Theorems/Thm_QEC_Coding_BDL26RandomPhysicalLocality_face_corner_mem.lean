@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPhysicalLocality_face_corner_mem
 -- name    : QEC.Coding.BDL26RandomPhysicalLocality.face_corner_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:00.907005+00:00
 -- url     : https://prove2.me/theorems/f055b7cb-f96a-4a37-bbae-ac7d001eceb5

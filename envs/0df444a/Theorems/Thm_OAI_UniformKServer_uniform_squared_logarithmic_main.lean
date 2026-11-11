@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniformKServer_uniform_squared_logarithmic_main
 -- name    : OAI.UniformKServer.uniform_squared_logarithmic_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:36.167202+00:00
 -- url     : https://prove2.me/theorems/7a4a6c94-4d4c-4be5-a5a9-d589e77bd277

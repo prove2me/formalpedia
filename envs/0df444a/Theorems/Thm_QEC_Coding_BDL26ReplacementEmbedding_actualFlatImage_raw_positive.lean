@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualFlatImage_raw_positive
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualFlatImage_raw_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:39:06.317568+00:00
 -- url     : https://prove2.me/theorems/5df69ad0-4d63-43ff-982c-d7c29d87ec35

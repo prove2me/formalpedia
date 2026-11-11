@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanGeneralHop_amp_eq_zero_of_not_mem_obd
 -- name    : BookProof.CarlemanGeneralHop.amp_eq_zero_of_not_mem_obd
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:42:48.585991+00:00
 -- url     : https://prove2.me/theorems/a08de214-86d6-4817-a7af-309430faba33

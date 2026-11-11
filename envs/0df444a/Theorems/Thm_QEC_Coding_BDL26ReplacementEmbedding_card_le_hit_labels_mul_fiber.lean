@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_card_le_hit_labels_mul_fiber
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.card_le_hit_labels_mul_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:40:40.945721+00:00
 -- url     : https://prove2.me/theorems/9408af2c-9019-4eab-a7b8-de7b1e522c3f

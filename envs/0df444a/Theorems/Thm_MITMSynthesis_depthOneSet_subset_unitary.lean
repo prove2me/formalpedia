@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MITMSynthesis_depthOneSet_subset_unitary
 -- name    : MITMSynthesis.depthOneSet_subset_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:05:15.578688+00:00
 -- url     : https://prove2.me/theorems/4f97d179-4af1-4766-b21c-f362f6b1f0e8

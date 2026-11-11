@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanGeneralHop_ibd_multiplicity
 -- name    : BookProof.CarlemanGeneralHop.ibd_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:44:00.725206+00:00
 -- url     : https://prove2.me/theorems/619914ff-562d-4377-b7d7-2f3f405d6f1d

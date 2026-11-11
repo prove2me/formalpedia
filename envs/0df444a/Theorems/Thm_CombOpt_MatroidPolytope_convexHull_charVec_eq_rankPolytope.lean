@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MatroidPolytope_convexHull_charVec_eq_rankPolytope
 -- name    : CombOpt.MatroidPolytope.convexHull_charVec_eq_rankPolytope
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:23.680931+00:00
 -- url     : https://prove2.me/theorems/ed007130-a9cb-4ce2-8fb4-33a4a8a377e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_gridCoordinateListQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.gridCoordinateListQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:58:47.641785+00:00
 -- url     : https://prove2.me/theorems/e30060c1-39b0-4b29-b4b1-4b8970c9b22b

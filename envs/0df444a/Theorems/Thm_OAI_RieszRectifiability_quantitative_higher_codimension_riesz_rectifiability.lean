@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RieszRectifiability_quantitative_higher_codimension_riesz_rectifiability
 -- name    : OAI.RieszRectifiability.quantitative_higher_codimension_riesz_rectifiability
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:16.482705+00:00
 -- url     : https://prove2.me/theorems/11e88a47-1ffc-49f9-8024-9bddc0e96c64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HarmonicArtin_ParabolicIntersections_unconditional_parabolic_closure
 -- name    : OAI.HarmonicArtin.ParabolicIntersections.unconditional_parabolic_closure
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:43.91477+00:00
 -- url     : https://prove2.me/theorems/45b3df94-2c73-46e8-b996-623b76f693bc

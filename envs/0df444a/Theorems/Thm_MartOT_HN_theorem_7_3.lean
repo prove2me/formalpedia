@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_HN_theorem_7_3
 -- name    : MartOT.HN.theorem_7_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:35.083126+00:00
 -- url     : https://prove2.me/theorems/411112f1-16db-4566-9c6d-2562b3ab91d0

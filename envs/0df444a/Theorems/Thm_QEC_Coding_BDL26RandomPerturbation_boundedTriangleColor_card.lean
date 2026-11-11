@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_boundedTriangleColor_card
 -- name    : QEC.Coding.BDL26RandomPerturbation.boundedTriangleColor_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:50:24.165198+00:00
 -- url     : https://prove2.me/theorems/8ef77c29-9f99-49a0-bb0e-cf1d2c3df029

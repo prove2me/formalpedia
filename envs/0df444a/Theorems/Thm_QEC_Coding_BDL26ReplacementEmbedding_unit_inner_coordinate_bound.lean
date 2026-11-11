@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_unit_inner_coordinate_bound
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.unit_inner_coordinate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:34:22.432066+00:00
 -- url     : https://prove2.me/theorems/e84b99c8-f103-4529-9927-cac3f8559117

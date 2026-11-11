@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_product_cartesian
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.product_cartesian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:11:52.020125+00:00
 -- url     : https://prove2.me/theorems/009f6e9d-ee69-4ff9-b1ce-5ab682188597

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_subdivisionVerticalEdge_midpoint
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.subdivisionVerticalEdge_midpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:31:28.988987+00:00
 -- url     : https://prove2.me/theorems/6f136711-48c6-498c-9e20-a96c78ceca66

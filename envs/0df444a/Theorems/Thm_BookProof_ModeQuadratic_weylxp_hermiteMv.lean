@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ModeQuadratic_weylxp_hermiteMv
 -- name    : BookProof.ModeQuadratic.weylxp_hermiteMv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T12:36:54.331712+00:00
 -- url     : https://prove2.me/theorems/2e650a8f-8e2d-4901-8f07-d7c8a0647278

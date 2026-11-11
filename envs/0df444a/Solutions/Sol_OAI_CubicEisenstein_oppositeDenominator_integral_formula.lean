@@ -1,0 +1,112 @@
+-- Prove2me | solution 1 for OAI.CubicEisenstein.oppositeDenominator_integral_formula
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-10T23:21:22.608054+00:00
+-- url     : https://prove2.me/submissions/0f5bff07-4184-45d2-a1f0-34c8f1cc1877
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_SourceQuotient
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_OppositeCusp
+import Theorems.Thm_OAI_CubicEisenstein_hasSum_oppositeIntegrals
+import Theorems.Thm_OAI_CubicEisenstein_oppositeIntegral_sum_translate
+import Theorems.Thm_OAI_CubicEisenstein_oppositeTerm_fourier_integral
+
+set_option autoImplicit false
+open OAI
+noncomputable section
+open OAI.CubicEisenstein
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+open MeasureTheory Set Filter
+open scoped BigOperators Classical ENNReal
+open ActualEisensteinCubic ConcreteTraceCRT CubicJacobiGlobal CompletedGauss
+local notation "Eis" => ActualEisensteinCubic.O
+namespace OAI.CubicEisenstein
+theorem _root_.solution (v:ℝ) (hv:0<v) (s:ℂ) (hs:2<s.re)
+    (h:Eis) (c:PrimaryLower):
+    (∑'x:CoprimeElement c.val,oppositeIntegral v s (cuspFrequency h) c.val x.val)=
+      ((v:ℂ)^(2-s)*sourceFourierKernel s (cuspFrequency h*v))*
+        ((‖eisEmbedding c.val‖^2:ℝ):ℂ)^(-s)*oppositeGaussSum h c.val:=by
+  have hf:Summable (fun x:CoprimeElement c.val=>oppositeIntegral v s (cuspFrequency h) c.val x.val):=
+    (hasSum_oppositeIntegrals v hv s (cuspFrequency h) hs).summable.sigma_factor c
+  have hsum:=(cubicResidueElementEquiv c.val (primaryLower_ne_zero c)).summable_iff.mpr hf
+  change Summable (fun q:CubicUnitResidue c.val×Eis=>
+    oppositeIntegral v s (cuspFrequency h) c.val
+      (GaussianShiftedPartition.representative c.val q.1.val+c.val*q.2)) at hsum
+  rw [←(cubicResidueElementEquiv c.val (primaryLower_ne_zero c)).tsum_eq]
+  change (∑'q:CubicUnitResidue c.val×Eis,
+    oppositeIntegral v s (cuspFrequency h) c.val
+      (GaussianShiftedPartition.representative c.val q.1.val+c.val*q.2))=_
+  rw [hsum.tsum_prod]
+  change (∑'r:CubicUnitResidue c.val,∑'n:Eis,
+    oppositeIntegral v s (cuspFrequency h) c.val
+      (GaussianShiftedPartition.representative c.val r.val+c.val*n))=_
+  simp_rw [oppositeIntegral_sum_translate v hv s (by linarith) h c.val _ (primaryLower_ne_zero c),
+    oppositeTerm_fourier_integral v hv s (cuspFrequency h) c.val _ (primaryLower_ne_zero c)]
+  exact tsum_mul_left
+end OAI.CubicEisenstein

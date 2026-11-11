@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_finListQuery_complete
 -- name    : QEC.Coding.BDL26RandomPerturbation.finListQuery_complete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:58:02.502117+00:00
 -- url     : https://prove2.me/theorems/8f5b54ca-4603-4abb-abcd-3a18a1610c09

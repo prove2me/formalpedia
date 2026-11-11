@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelSU2_Reduction_parallel_su2_estimation
 -- name    : ParallelSU2.Reduction.parallel_su2_estimation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:22.038575+00:00
 -- url     : https://prove2.me/theorems/cce5679d-4504-4fe9-b5ec-f5e81ba87c2e

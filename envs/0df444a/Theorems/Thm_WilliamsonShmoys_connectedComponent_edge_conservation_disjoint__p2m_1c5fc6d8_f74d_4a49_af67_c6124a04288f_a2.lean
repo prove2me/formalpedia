@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connectedComponent_edge_conservation_disjoint__p2m_1c5fc6d8_f74d_4a49_af67_c6124a04288f_a2
 -- name    : WilliamsonShmoys.connectedComponent_edge_conservation_disjoint__p2m_1c5fc6d8_f74d_4a49_af67_c6124a04288f_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:55:00.090518+00:00
 -- url     : https://prove2.me/theorems/9c944e48-3248-4b41-826f-8af0b6f3bcab

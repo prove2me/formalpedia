@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_familyHits_card_le_cover
 -- name    : QEC.Coding.BDL26RandomPerturbation.familyHits_card_le_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:45:02.715857+00:00
 -- url     : https://prove2.me/theorems/a6342fac-5687-4532-bd40-576933cce51c

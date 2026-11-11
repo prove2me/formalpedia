@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_fineEndpointBit_eq_of_coordinate_eq
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.fineEndpointBit_eq_of_coordinate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:39:03.779255+00:00
 -- url     : https://prove2.me/theorems/26c50539-c584-4c03-8b64-450d5562f42c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_Coordinates_rxDualFace_right_inverse
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates.rxDualFace_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:58:42.297808+00:00
 -- url     : https://prove2.me/theorems/58e15ca8-2ffc-4105-b81b-8ab6247adfa7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PochetWolsey_Mixing_extended_hull
 -- name    : PochetWolsey.Mixing.extended_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:28:59.272231+00:00
 -- url     : https://prove2.me/theorems/41c93ace-cceb-4b30-b2cd-ee62a0f5b117

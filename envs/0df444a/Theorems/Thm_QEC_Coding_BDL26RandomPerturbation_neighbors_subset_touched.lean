@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_neighbors_subset_touched
 -- name    : QEC.Coding.BDL26RandomPerturbation.neighbors_subset_touched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:05:27.537993+00:00
 -- url     : https://prove2.me/theorems/a6009362-aa57-43c9-9438-ba71c8b8291d

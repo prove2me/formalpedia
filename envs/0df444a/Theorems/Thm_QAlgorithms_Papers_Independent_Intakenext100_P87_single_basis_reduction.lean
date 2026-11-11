@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P87_single_basis_reduction
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P87.single_basis_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:15:11.271275+00:00
 -- url     : https://prove2.me/theorems/b8d69b7c-a450-46ff-a9b7-0d2c88980dcd

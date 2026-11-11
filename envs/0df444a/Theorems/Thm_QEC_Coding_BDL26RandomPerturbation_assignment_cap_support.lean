@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_assignment_cap_support
 -- name    : QEC.Coding.BDL26RandomPerturbation.assignment_cap_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:53:58.833336+00:00
 -- url     : https://prove2.me/theorems/a890ea18-f15d-44a1-a3b3-60b40c86bb1f

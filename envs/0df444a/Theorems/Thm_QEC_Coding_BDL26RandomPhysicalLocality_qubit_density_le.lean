@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPhysicalLocality_qubit_density_le
 -- name    : QEC.Coding.BDL26RandomPhysicalLocality.qubit_density_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:12.320534+00:00
 -- url     : https://prove2.me/theorems/b261b571-722f-4773-9779-7a69da09a9ce

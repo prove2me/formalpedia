@@ -1,0 +1,66 @@
+-- Prove2me | Theorems.Thm_OAI_PackingSufficiencySupport_CubicModel_physicalArea_uniform_bp240
+-- name    : OAI.PackingSufficiencySupport.CubicModel.physicalArea_uniform_bp240
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-11T00:48:45.159883+00:00
+-- url     : https://prove2.me/theorems/aca2faac-3312-406a-829a-48111a5eaf57
+-- title:
+--   OAI.PackingSufficiencySupport.CubicModel.physicalArea_uniform_bp240: intermediate lemma from OpenAI, Symplectic Ball Packings in Higher Dimensions
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.HigherDimensionalBallPacking.main_theorem`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Symplectic Ball Packings in Higher Dimensions*, OpenAI Math Release, September 23, 2026, result family 343, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.PackingSufficiencySupport.CubicModel.physicalArea_uniform` of [lean/OAI/Geometry/BallPacking/Models/RationalSlack.lean](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Geometry/BallPacking/Models/RationalSlack.lean) at commit adc7f12, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.PackingSufficiencySupport.CubicModel`, with `open scoped ContDiff Manifold Topology BigOperators Pointwise`, `open Set Function Filter Manifold MeasureTheory`, `open DiagonalQuadrics DiagonalQuadrics.Explicit Hamiltonian FiniteMoment MomentPolytope`):
+--
+--   ```lean
+--   theorem physicalArea_uniform_bp240 {A B D S : ℕ} (hA : 0<A) (hS0 : 0<S)
+--       (hAB : A≤B) (hSB : S≤B) (hB : 3*B<D) (hS : 3*S<D)
+--       {P : Set (Moments 2)} (hP : IsCompact P) (L : ℝ)
+--       (hPS : MapsTo (physicalParameter L) P (Radial.lowerTrapezoid A B))
+--       {c : ℝ} (hc : 0 < c) :
+--       TendstoUniformlyOn (fun ℓ p => compactSurfaceFormIntegral (cubicExhaustion_compact ℓ)
+--         (manifoldExteriorOneForm (physicalPrimitive (A := A) (B := B) D S c L p)))
+--         (physicalArea D S c L) atTop P
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.PackingSufficiencySupport.DiagonalQuadrics.Affine`, `OAI.PackingSufficiencySupport.Hamiltonian.Plane`, `OAI.PackingSufficiencySupport.Hamiltonian.manifoldExteriorOneForm`, `OAI.PackingSufficiencySupport.MomentPolytope.Moments`, `OAI.PackingSufficiencySupport.DiagonalQuadrics.Explicit.parameters`, `OAI.PackingSufficiencySupport.DiagonalQuadrics.Explicit.parameters_injective`, `OAI.PackingSufficiencySupport.DiagonalQuadrics.Explicit.parameters_nonzero`, `OAI.PackingSufficiencySupport.FiniteMoment.Radial.Plane` and `OAI.PackingSufficiencySupport.FiniteMoment.Radial.lowerTrapezoid` (definitions bundle `OAIQ240Bp003` of this split); `OAI.PackingSufficiencySupport.Hamiltonian.compactSurfaceFormIntegral` (definitions bundle `OAIQ240Bp010` of this split); `OAI.PackingSufficiencySupport.CubicModel.BaseCurve` (definitions bundle `OAIQ240Bp012` of this split); `OAI.PackingSufficiencySupport.CubicModel.cubicExhaustion`, `OAI.PackingSufficiencySupport.CubicModel.cubicExhaustion_compact`, `OAI.PackingSufficiencySupport.CubicModel.instSigmaCompactSpaceElemAffineHAddNatOfNatBaseCurve`, `OAI.PackingSufficiencySupport.CubicModel.physicalArea`, `OAI.PackingSufficiencySupport.CubicModel.physicalParameter`, `OAI.PackingSufficiencySupport.CubicModel.physicalPrimitive` and `OAI.PackingSufficiencySupport.DiagonalQuadrics.realSurfaceChartedSpace` (definitions bundle `OAIQ240Bp015` of this split); `OAI.PackingSufficiencySupport.DiagonalQuadrics.realSurfaceManifold` (definitions bundle `OAIQ240Bp019` of this split).
+--
+--   **Used by.** The proof of `OAI.PackingSufficiencySupport.CubicModel.actual_cubic_representative_packing_bp240` of this split imports it.
+-- source:
+--   OpenAI, Symplectic Ball Packings in Higher Dimensions, OpenAI Math Release, September 23, 2026, https://github.com/openai/math (result family 343; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Symplectic-Ball-Packings-in-Higher-Dimensions-September-23-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Geometry/BallPacking/Models/RationalSlack.lean (declaration OAI.PackingSufficiencySupport.CubicModel.physicalArea_uniform)
+
+import Mathlib
+import Definitions.Def_OAIQ240Bp019
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace PackingSufficiencySupport.CubicModel
+open scoped ContDiff Manifold Topology BigOperators Pointwise
+open Set Function Filter Manifold MeasureTheory
+open DiagonalQuadrics DiagonalQuadrics.Explicit Hamiltonian FiniteMoment MomentPolytope
+
+ attribute [local instance] OAI.PackingSufficiencySupport.CubicModel.instSigmaCompactSpaceElemAffineHAddNatOfNatBaseCurve
+theorem physicalArea_uniform_bp240 {A B D S : ℕ} (hA : 0<A) (hS0 : 0<S)
+    (hAB : A≤B) (hSB : S≤B) (hB : 3*B<D) (hS : 3*S<D)
+    {P : Set (Moments 2)} (hP : IsCompact P) (L : ℝ)
+    (hPS : MapsTo (physicalParameter L) P (Radial.lowerTrapezoid A B))
+    {c : ℝ} (hc : 0 < c) :
+    TendstoUniformlyOn (fun ℓ p => compactSurfaceFormIntegral (cubicExhaustion_compact ℓ)
+      (manifoldExteriorOneForm (physicalPrimitive (A := A) (B := B) D S c L p)))
+      (physicalArea D S c L) atTop P := by
+  sorry
+
+end PackingSufficiencySupport.CubicModel
+
+end
+
+end OAI
+end

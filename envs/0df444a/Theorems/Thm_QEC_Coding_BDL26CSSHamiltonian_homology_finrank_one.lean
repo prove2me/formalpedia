@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_homology_finrank_one
 -- name    : QEC.Coding.BDL26CSSHamiltonian.homology_finrank_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:31:19.25021+00:00
 -- url     : https://prove2.me/theorems/b42b3dda-0909-4dae-aa9c-da298133e1a7

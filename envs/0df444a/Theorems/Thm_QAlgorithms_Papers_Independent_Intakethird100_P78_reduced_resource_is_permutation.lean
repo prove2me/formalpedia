@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P78_reduced_resource_is_permutation
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P78.reduced_resource_is_permutation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:14:46.805414+00:00
 -- url     : https://prove2.me/theorems/3923727e-b564-4aa0-9e98-b9332cbe2fb0

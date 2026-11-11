@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_fourier_and_family_bound
 -- name    : OAI.MUB6.fourier_and_family_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:54.543566+00:00
 -- url     : https://prove2.me/theorems/d35da01b-615f-480f-9b76-4c7c16c14ffe

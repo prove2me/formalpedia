@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ModeQuadratic.weylxp_hermiteMv
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T14:01:52.643276+00:00
 -- url     : https://prove2.me/submissions/2baca9b6-57bc-4d34-a72a-5e71c9f94192
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterModeQuadraticEsa.lean — solution of BookProof.ModeQuadratic.weylxp_hermiteMv
 import Mathlib

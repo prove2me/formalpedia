@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_measurableSet_boundedDensityLocalMap
 -- name    : QEC.Coding.BDL26RandomPerturbation.measurableSet_boundedDensityLocalMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:36:05.873101+00:00
 -- url     : https://prove2.me/theorems/7e98e30e-d7f0-4fd6-a9e4-ffef72a540a1

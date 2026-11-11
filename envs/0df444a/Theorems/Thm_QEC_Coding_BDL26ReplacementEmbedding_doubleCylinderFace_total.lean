@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_doubleCylinderFace_total
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.doubleCylinderFace_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:27:04.766211+00:00
 -- url     : https://prove2.me/theorems/1a37d611-ac7e-43ed-a2dd-0d274730f43a

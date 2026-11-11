@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_perturbed_edge_upper
 -- name    : QEC.Coding.BDL26RandomPerturbation.perturbed_edge_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:50:07.865584+00:00
 -- url     : https://prove2.me/theorems/dfce5916-e504-4ec4-8498-6e4677b9f8e3

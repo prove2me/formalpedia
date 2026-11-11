@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_pathStrip_boundaryUnit_upper
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.pathStrip_boundaryUnit_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:40:31.455038+00:00
 -- url     : https://prove2.me/theorems/907ae4c0-9900-4ccf-a1b3-4458a3717b64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_finiteH1Equiv_prefix_mk
 -- name    : QEC.Coding.BDL26FiniteCohomology.finiteH1Equiv_prefix_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:29:25.171854+00:00
 -- url     : https://prove2.me/theorems/17301ce5-a6bb-4cb1-bc47-015d3fd85658

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_t_le_n_mul_rpow
 -- name    : NadlerCLS.t_le_n_mul_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:52:09.869392+00:00
 -- url     : https://prove2.me/theorems/f9061745-2598-406d-a737-e3a9fe1147d6

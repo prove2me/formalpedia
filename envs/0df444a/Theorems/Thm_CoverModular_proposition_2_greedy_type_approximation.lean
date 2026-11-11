@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoverModular_proposition_2_greedy_type_approximation
 -- name    : CoverModular.proposition_2_greedy_type_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:17:50.332379+00:00
 -- url     : https://prove2.me/theorems/f844af56-0be5-4f41-bb2e-55ad74187c2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_global_normal_form
 -- name    : QEC.Coding.BDL26FiniteCohomology.global_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:29:04.601805+00:00
 -- url     : https://prove2.me/theorems/faa657bd-c489-4257-8a54-59c6fb4aa566

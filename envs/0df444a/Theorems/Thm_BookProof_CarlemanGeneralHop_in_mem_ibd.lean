@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanGeneralHop_in_mem_ibd
 -- name    : BookProof.CarlemanGeneralHop.in_mem_ibd
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:43:21.200514+00:00
 -- url     : https://prove2.me/theorems/db31a5b9-005c-41d8-a295-b9f1d9fa8ee6

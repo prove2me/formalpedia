@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_sBd_subset_simplexF
 -- name    : BookProof.CarlemanSimplex.sBd_subset_simplexF
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:45:49.430006+00:00
 -- url     : https://prove2.me/theorems/1b34003b-be3c-4226-a09a-94c687e19902

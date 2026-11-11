@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rectangleFace_image
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rectangleFace_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:28:46.74786+00:00
 -- url     : https://prove2.me/theorems/d9f34963-7060-4adf-b50e-0264fa119b54

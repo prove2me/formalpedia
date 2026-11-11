@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_partition_allowance_sum_large_family__p2m_fd88c45a_7ea7_48a7_9749_c5d6b2241812_a1
 -- name    : WilliamsonShmoys.partition_allowance_sum_large_family__p2m_fd88c45a_7ea7_48a7_9749_c5d6b2241812_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:07:16.668913+00:00
 -- url     : https://prove2.me/theorems/0659cd6c-187b-4fc2-a352-b53a05d4e1ab

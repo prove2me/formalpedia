@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_mem_simplexF
 -- name    : BookProof.CarlemanSimplex.mem_simplexF
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:45:26.090285+00:00
 -- url     : https://prove2.me/theorems/dfadd187-1c06-4814-a7f4-2deeeb9143b4

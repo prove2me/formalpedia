@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineMatchFrameworks_theorem_1
 -- name    : OnlineMatchFrameworks.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:10.362262+00:00
 -- url     : https://prove2.me/theorems/17f55952-de4f-4ea1-ae74-4023ee080372

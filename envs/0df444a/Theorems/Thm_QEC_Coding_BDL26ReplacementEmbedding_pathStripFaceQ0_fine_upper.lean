@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_pathStripFaceQ0_fine_upper
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.pathStripFaceQ0_fine_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:38:30.913335+00:00
 -- url     : https://prove2.me/theorems/4960fcf7-cc75-4233-b59d-84b2f5cfc375

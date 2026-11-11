@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rzVertexPoint_faceImage
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rzVertexPoint_faceImage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:43:38.25496+00:00
 -- url     : https://prove2.me/theorems/c26b8cb8-3ccd-4fc5-ab2b-63c5b8ed7697

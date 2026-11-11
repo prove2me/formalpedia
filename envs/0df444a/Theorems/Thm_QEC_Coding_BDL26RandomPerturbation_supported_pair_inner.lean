@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_supported_pair_inner
 -- name    : QEC.Coding.BDL26RandomPerturbation.supported_pair_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:43:54.727993+00:00
 -- url     : https://prove2.me/theorems/23c86a23-846e-4072-8991-85044e14c76c

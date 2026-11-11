@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CriticalPercolation_BondGraph_no_percolation_at_criticality
 -- name    : OAI.CriticalPercolation.BondGraph.no_percolation_at_criticality
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:30.212237+00:00
 -- url     : https://prove2.me/theorems/d199ca2a-548e-4919-ae6c-f11775c12b5c

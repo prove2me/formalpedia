@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_pauli_commutation
 -- name    : PauliUnclonable531.Pauli.pauli_commutation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:28.845251+00:00
 -- url     : https://prove2.me/theorems/20e7e01e-8687-4dee-bf18-cb29286a6b7a

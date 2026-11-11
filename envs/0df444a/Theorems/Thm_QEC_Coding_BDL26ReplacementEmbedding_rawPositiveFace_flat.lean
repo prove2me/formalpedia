@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rawPositiveFace_flat
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rawPositiveFace_flat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:37:39.45117+00:00
 -- url     : https://prove2.me/theorems/087d11a0-ca78-4cc3-b691-fef4ada7264e

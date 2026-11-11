@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_face_card_le_qubits
 -- name    : QEC.Coding.BDL26RandomPerturbation.face_card_le_qubits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:07:06.895207+00:00
 -- url     : https://prove2.me/theorems/ffe7b6e7-523d-4d1d-8d55-380a2b2ba973

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanGeneralHop.ibd_multiplicity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-07T23:00:28.72703+00:00
 -- url     : https://prove2.me/submissions/ffff3ad3-02f6-48e1-a739-f1c5ee242bbb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanGeneralHop.lean — solution of BookProof.CarlemanGeneralHop.ibd_multiplicity
 import Mathlib

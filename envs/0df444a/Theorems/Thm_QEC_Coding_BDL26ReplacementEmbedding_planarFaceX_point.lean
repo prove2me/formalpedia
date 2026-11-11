@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_planarFaceX_point
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.planarFaceX_point
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:32:34.989344+00:00
 -- url     : https://prove2.me/theorems/0bd17410-bb9b-4742-8f57-56eea3d0da4d

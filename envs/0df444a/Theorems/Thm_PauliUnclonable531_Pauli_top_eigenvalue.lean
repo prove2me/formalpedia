@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_top_eigenvalue
 -- name    : PauliUnclonable531.Pauli.top_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:08:59.599226+00:00
 -- url     : https://prove2.me/theorems/29d3fd40-d49f-49b2-91da-b2235dc629cc

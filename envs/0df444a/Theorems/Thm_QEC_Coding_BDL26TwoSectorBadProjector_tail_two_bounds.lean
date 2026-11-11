@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_tail_two_bounds
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.tail_two_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:23:33.889884+00:00
 -- url     : https://prove2.me/theorems/c22bcad3-e889-440e-8232-6ac59c67388a

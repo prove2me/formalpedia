@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProbabilityTheory.ConvolutionSemigroup.leanlevy_chat32_remainder_band_tendsto
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T00:17:53.582507+00:00
 -- url     : https://prove2.me/submissions/3a25a426-c8d3-4ed3-9731-882e7b520f93
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LeanLevy_Levy_LevyKhintchineProof
 import Theorems.Thm_ProbabilityTheory_leanlevy_chat32_remainder_clamp_continuous

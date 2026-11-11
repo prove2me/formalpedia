@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_half_triangle_density
 -- name    : QEC.Coding.BDL26RandomPerturbation.half_triangle_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:46:00.734175+00:00
 -- url     : https://prove2.me/theorems/b135f50b-bf02-4a21-a1ce-f2488a8a3a8b

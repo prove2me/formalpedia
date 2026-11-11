@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_ricochet
 -- name    : PauliUnclonable531.Pauli.ricochet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:08:42.380659+00:00
 -- url     : https://prove2.me/theorems/76616129-7086-4e4b-ba3b-053e13242e9a

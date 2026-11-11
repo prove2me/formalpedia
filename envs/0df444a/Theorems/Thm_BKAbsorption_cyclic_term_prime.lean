@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BKAbsorption_cyclic_term_prime
 -- name    : BKAbsorption.cyclic_term_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-07T14:13:41.260211+00:00
 -- url     : https://prove2.me/theorems/16f82556-cd29-4422-ae46-61d0386475f8

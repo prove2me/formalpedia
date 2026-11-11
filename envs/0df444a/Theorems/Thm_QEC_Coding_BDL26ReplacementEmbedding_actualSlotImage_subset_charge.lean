@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualSlotImage_subset_charge
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualSlotImage_subset_charge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:36:40.134785+00:00
 -- url     : https://prove2.me/theorems/058ff0cb-94e6-4cd6-94da-3d9adc795a75

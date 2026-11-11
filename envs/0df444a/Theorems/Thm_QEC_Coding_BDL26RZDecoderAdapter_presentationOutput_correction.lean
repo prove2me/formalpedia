@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_presentationOutput_correction
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.presentationOutput_correction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:55:53.987963+00:00
 -- url     : https://prove2.me/theorems/9758f0f6-8f37-4927-921e-3997ad2a71fe

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanGeneralHop.obd_mass_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T07:28:10.658557+00:00
 -- url     : https://prove2.me/submissions/f0e7d44b-a01e-4491-9cd4-25b1bfc1e434
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanGeneralHop.lean — solution of BookProof.CarlemanGeneralHop.obd_mass_le
 import Mathlib

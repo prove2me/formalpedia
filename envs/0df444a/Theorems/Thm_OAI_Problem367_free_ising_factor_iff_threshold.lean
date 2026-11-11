@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem367_free_ising_factor_iff_threshold
 -- name    : OAI.Problem367.free_ising_factor_iff_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:11.59156+00:00
 -- url     : https://prove2.me/theorems/a612dbab-8633-4eaa-b80f-29dcf8a13a97

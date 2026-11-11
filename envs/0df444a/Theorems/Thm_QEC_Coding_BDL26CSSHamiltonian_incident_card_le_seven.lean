@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_incident_card_le_seven
 -- name    : QEC.Coding.BDL26CSSHamiltonian.incident_card_le_seven
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:24:12.841386+00:00
 -- url     : https://prove2.me/theorems/432a6770-dd86-4148-8da3-11f3d62eaef5

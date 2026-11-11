@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_ray_oracle_phased_program_execution_trace
 -- name    : Grunbaum2003.ray_oracle_phased_program_execution_trace
--- status  : Open
+-- status  : Disproved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T22:47:52.047206+00:00
 -- url     : https://prove2.me/theorems/81dbd631-e390-4289-9d3f-e777cb91b1fb

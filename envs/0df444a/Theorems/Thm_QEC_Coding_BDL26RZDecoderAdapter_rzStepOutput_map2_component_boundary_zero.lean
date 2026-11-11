@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_rzStepOutput_map2_component_boundary_zero
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.rzStepOutput_map2_component_boundary_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:58:39.473895+00:00
 -- url     : https://prove2.me/theorems/0b33d795-2e2b-4ede-b03c-ed6d4dde17ad

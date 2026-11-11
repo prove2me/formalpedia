@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_triangle_family_law
 -- name    : QEC.Coding.BDL26RandomPerturbation.triangle_family_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:51:18.102205+00:00
 -- url     : https://prove2.me/theorems/81410622-9648-4084-b516-f3249cb998cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_GramNonnegative_sourceGram_nonneg_e
 -- name    : OAI.MUB6.Certificate.GramNonnegative.sourceGram_nonneg_e
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-07T19:35:47.35408+00:00
 -- url     : https://prove2.me/theorems/f5f68e60-2297-4477-9260-ec638d2df4c7

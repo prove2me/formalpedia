@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Invariant233_Results_product_realization
 -- name    : OAI.Invariant233.Results.product_realization
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:47.106985+00:00
 -- url     : https://prove2.me/theorems/8049d10b-01a5-420a-90ad-2357ad0310e5

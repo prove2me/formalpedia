@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_eventAnchorQuery_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.eventAnchorQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:56:22.687844+00:00
 -- url     : https://prove2.me/theorems/c041f70e-4209-42ed-a8e8-2b0cc4cb09df

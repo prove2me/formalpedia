@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MITMSynthesis_mitm_factor_main
 -- name    : MITMSynthesis.mitm_factor_main
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:11:02.962738+00:00
 -- url     : https://prove2.me/theorems/336e2b50-b7b7-44df-bf01-8912b94cd5d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P93_twoPauli_not_degradable
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P93.twoPauli_not_degradable
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:33:23.37888+00:00
 -- url     : https://prove2.me/theorems/ecee5536-35ab-43fb-8b93-346a0f70c769

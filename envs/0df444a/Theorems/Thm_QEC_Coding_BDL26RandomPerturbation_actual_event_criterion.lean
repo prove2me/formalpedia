@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_actual_event_criterion
 -- name    : QEC.Coding.BDL26RandomPerturbation.actual_event_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:09:58.685211+00:00
 -- url     : https://prove2.me/theorems/84b47733-e806-4351-88b9-3c32af5b5e65

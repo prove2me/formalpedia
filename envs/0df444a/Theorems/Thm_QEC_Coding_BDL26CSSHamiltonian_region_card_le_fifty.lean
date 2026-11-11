@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_region_card_le_fifty
 -- name    : QEC.Coding.BDL26CSSHamiltonian.region_card_le_fifty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:57:56.16438+00:00
 -- url     : https://prove2.me/theorems/1c3b7745-fd11-44a4-b827-c0becafac68e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rzLocalFaceInclude_injective
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rzLocalFaceInclude_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:44:18.908309+00:00
 -- url     : https://prove2.me/theorems/4b753305-b9cf-4eb4-a111-cc06b2563013

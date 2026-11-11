@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_countQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.countQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:52:55.719121+00:00
 -- url     : https://prove2.me/theorems/a673aff5-e189-464f-a1a7-0cd72053a536

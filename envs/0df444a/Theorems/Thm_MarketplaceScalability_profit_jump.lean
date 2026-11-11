@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceScalability_profit_jump
 -- name    : MarketplaceScalability.profit_jump
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:52:37.080378+00:00
 -- url     : https://prove2.me/theorems/df65a586-b8ef-40ee-a8cf-50fa33997d54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_binomialFactor_eq_power
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.binomialFactor_eq_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:09:25.339234+00:00
 -- url     : https://prove2.me/theorems/9e6e6302-8163-4d82-b375-5570632c43b2

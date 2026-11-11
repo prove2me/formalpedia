@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidOptGame_proposition_27
 -- name    : MatroidOptGame.proposition_27
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T12:49:47.009535+00:00
 -- url     : https://prove2.me/theorems/ac0ad855-b643-484c-bd15-d01652cb5ae5

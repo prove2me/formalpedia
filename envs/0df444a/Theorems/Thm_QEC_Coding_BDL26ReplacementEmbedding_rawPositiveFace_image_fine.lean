@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rawPositiveFace_image_fine
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rawPositiveFace_image_fine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:39:50.251558+00:00
 -- url     : https://prove2.me/theorems/0de171d7-4ea0-48bd-99fe-8a5e0638e2ac

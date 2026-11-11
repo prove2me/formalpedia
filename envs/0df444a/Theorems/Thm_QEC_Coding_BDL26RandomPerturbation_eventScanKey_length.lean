@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_eventScanKey_length
 -- name    : QEC.Coding.BDL26RandomPerturbation.eventScanKey_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:51:54.249983+00:00
 -- url     : https://prove2.me/theorems/52ecd578-807b-45ca-ac25-1d577ebb2312

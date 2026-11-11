@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanSimplex.shifted_sBd_mass_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T06:50:09.391583+00:00
 -- url     : https://prove2.me/submissions/bb2d95f4-c7e7-4e2f-9754-aec4b11e1b21
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanSimplex.lean — solution of BookProof.CarlemanSimplex.shifted_sBd_mass_le
 import Mathlib

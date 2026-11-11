@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopicalIrreducibility_Relations_irreducibility_relations
 -- name    : TopicalIrreducibility.Relations.irreducibility_relations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:09:30.591773+00:00
 -- url     : https://prove2.me/theorems/e104338f-b33b-4ed5-9d95-21d86291926a

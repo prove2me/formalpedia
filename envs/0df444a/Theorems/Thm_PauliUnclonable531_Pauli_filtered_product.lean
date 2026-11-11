@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_filtered_product
 -- name    : PauliUnclonable531.Pauli.filtered_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:09:08.877833+00:00
 -- url     : https://prove2.me/theorems/d9b92b49-210f-4dd1-a256-e6aa05163166

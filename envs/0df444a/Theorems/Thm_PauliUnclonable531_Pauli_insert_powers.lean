@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_insert_powers
 -- name    : PauliUnclonable531.Pauli.insert_powers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:09:27.349263+00:00
 -- url     : https://prove2.me/theorems/de591801-28e7-4ddf-8b5f-358718a71811

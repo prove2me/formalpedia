@@ -1,0 +1,63 @@
+-- Prove2me | Theorems.Thm_OAI_HigherDimensionalBallPacking_Rigidity_adapted_line_continuation_data_bp240
+-- name    : OAI.HigherDimensionalBallPacking.Rigidity.adapted_line_continuation_data_bp240
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-11T01:01:02.80917+00:00
+-- url     : https://prove2.me/theorems/79a45640-dc5b-4911-bb86-c2a50729fac6
+-- title:
+--   OAI.HigherDimensionalBallPacking.Rigidity.adapted_line_continuation_data_bp240: intermediate lemma from OpenAI, Symplectic Ball Packings in Higher Dimensions
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.HigherDimensionalBallPacking.main_theorem`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Symplectic Ball Packings in Higher Dimensions*, OpenAI Math Release, September 23, 2026, result family 343, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.HigherDimensionalBallPacking.Rigidity.adapted_line_continuation_data` of [lean/OAI/Geometry/BallPacking/Continuation/ParameterizedImplicit.lean](https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Geometry/BallPacking/Continuation/ParameterizedImplicit.lean) at commit adc7f12, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.HigherDimensionalBallPacking.Rigidity`, with `open scoped ContDiff Topology BoundedContinuousFunction`, `open Set Filter`, `open HolderCompletion`):
+--
+--   ```lean
+--   lemma adapted_line_continuation_data_bp240 (hJs : ContDiff ℝ ∞ J) (hJ : ∀ x,Compatible (J x))
+--       (hJc : HasCompactSupport (fun x => J x-standardJ n))
+--       (hinside : tsupport (fun x => J x-standardJ n)⊆openBall n 1) (p q : Phase n) (hpq : p≠q) :
+--       ∃ (b b₁ : ContDiffBump (0:ℂ)) (M δ : ℝ),
+--         FullLineReady hJs hJ hJc p q b b₁ M δ
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.HigherDimensionalBallPacking.Rigidity.Compatible`, `OAI.HigherDimensionalBallPacking.Rigidity.End` and `OAI.HigherDimensionalBallPacking.Rigidity.standardJ` (definitions bundle `OAIQ240Bp000` of this split); `OAI.HigherDimensionalBallPacking.Rigidity.FullLineReady` (definitions bundle `OAIQ240Bp017` of this split); `OAI.HigherDimensionalBallPacking.Rigidity.alc1` and `OAI.HigherDimensionalBallPacking.Rigidity.alc2` (definitions bundle `OAIQ240Bp021` of this split); `OAI.HigherDimensionalBallPacking.Phase` and `OAI.HigherDimensionalBallPacking.openBall` (the published bundle `Def_BallPacking`).
+--
+--   **Used by.** The proof of `OAI.HigherDimensionalBallPacking.main_theorem` of this split imports it.
+-- source:
+--   OpenAI, Symplectic Ball Packings in Higher Dimensions, OpenAI Math Release, September 23, 2026, https://github.com/openai/math (result family 343; paper: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Symplectic-Ball-Packings-in-Higher-Dimensions-September-23-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Geometry/BallPacking/Continuation/ParameterizedImplicit.lean (declaration OAI.HigherDimensionalBallPacking.Rigidity.adapted_line_continuation_data)
+
+import Mathlib
+import Definitions.Def_BallPacking
+import Definitions.Def_OAIQ240Bp021
+
+section
+
+attribute [-instance] _root_.OAI.PackingSufficiencySupport.Hamiltonian.flatProduct_chartedSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+
+namespace HigherDimensionalBallPacking.Rigidity
+open scoped ContDiff Topology BoundedContinuousFunction
+open Set Filter
+open HolderCompletion
+variable {n : ℕ} {J : Phase n → End n}
+
+attribute [local instance] OAI.HigherDimensionalBallPacking.Rigidity.alc1
+attribute [local instance] OAI.HigherDimensionalBallPacking.Rigidity.alc2
+lemma adapted_line_continuation_data_bp240 (hJs : ContDiff ℝ ∞ J) (hJ : ∀ x,Compatible (J x))
+    (hJc : HasCompactSupport (fun x => J x-standardJ n))
+    (hinside : tsupport (fun x => J x-standardJ n)⊆openBall n 1) (p q : Phase n) (hpq : p≠q) :
+    ∃ (b b₁ : ContDiffBump (0:ℂ)) (M δ : ℝ),
+      FullLineReady hJs hJ hJc p q b b₁ M δ := by
+  sorry
+
+end HigherDimensionalBallPacking.Rigidity
+end
+
+end OAI
+end

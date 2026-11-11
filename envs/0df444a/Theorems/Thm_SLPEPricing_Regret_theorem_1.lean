@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLPEPricing_Regret_theorem_1
 -- name    : SLPEPricing.Regret.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:33:23.985471+00:00
 -- url     : https://prove2.me/theorems/e500da27-2653-449f-a8f9-e56c49638f1b

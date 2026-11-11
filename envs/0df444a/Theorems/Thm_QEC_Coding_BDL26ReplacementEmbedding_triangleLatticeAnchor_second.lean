@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangleLatticeAnchor_second
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangleLatticeAnchor_second
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:34:25.345333+00:00
 -- url     : https://prove2.me/theorems/e157afb1-70b7-4986-bf41-f882c0f47834

@@ -76228,7 +76228,7 @@
 {"parent": "OAI_RepresentationTheory_Saxl_PathAlternation", "child": "OAI_RepresentationTheory_Saxl_HighProjection", "via": ["statement"]}
 {"parent": "MazurTransfer.Order13InfinityClassDiamondEigenvalue.twice_rho_infinityClass", "child": "MazurTransfer_Order13FieldDiamondPicardEndomorphismsData", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.Order13InfinityClassDiamondEigenvalue.twice_rho_infinityClass", "child": "MazurTransfer_Order13InfinityDivisorClassData", "via": ["statement"]}
-{"parent": "QAlgorithms.Papers.RoadmapA04.generalizedQSP_iff", "child": "QAlgorithms_Defs_GeneralizedQSP", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.RoadmapA04.generalizedQSP_iff", "child": "QAlgorithms_Defs_GeneralizedQSP", "via": ["solution", "statement"]}
 {"parent": "WaitTimePricing.Existence.proposition_8", "child": "WaitTimePricing_Existence_Setting", "via": ["solution", "statement"]}
 {"parent": "WaitTimePricing.Existence.proposition_8", "child": "WaitTimePricing_Existence_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group451_part08", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}

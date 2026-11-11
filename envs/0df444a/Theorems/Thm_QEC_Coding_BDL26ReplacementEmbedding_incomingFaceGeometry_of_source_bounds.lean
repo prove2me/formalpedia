@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_incomingFaceGeometry_of_source_bounds
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.incomingFaceGeometry_of_source_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:41:53.631754+00:00
 -- url     : https://prove2.me/theorems/15dfdb64-d04e-489d-bd49-bc4eb4b8593d

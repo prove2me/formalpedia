@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_even_code_dimension_two
 -- name    : QEC.Coding.BDL26CSSHamiltonian.even_code_dimension_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:38:10.686393+00:00
 -- url     : https://prove2.me/theorems/a707443e-40ee-440b-9e1d-c1640cd77bc9

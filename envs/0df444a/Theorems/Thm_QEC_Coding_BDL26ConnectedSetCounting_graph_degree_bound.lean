@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSetCounting_graph_degree_bound
 -- name    : QEC.Coding.BDL26ConnectedSetCounting.graph_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:24:58.092723+00:00
 -- url     : https://prove2.me/theorems/5f7d4cde-4e23-46c1-a64e-ce4d4119ce26

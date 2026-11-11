@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_shifted_sBd_mass_le
 -- name    : BookProof.CarlemanSimplex.shifted_sBd_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:49:05.156541+00:00
 -- url     : https://prove2.me/theorems/9d71fe76-ae1d-4550-af39-a1c57a2b41fe

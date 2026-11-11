@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanSimplex.sum_ltermP
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T07:43:12.505207+00:00
 -- url     : https://prove2.me/submissions/a85d5d3e-8749-4490-817b-2087f72a8f60
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanSimplex.lean — solution of BookProof.CarlemanSimplex.sum_ltermP
 import Mathlib

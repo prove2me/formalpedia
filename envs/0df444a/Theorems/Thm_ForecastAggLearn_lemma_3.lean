@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_lemma_3
 -- name    : ForecastAggLearn.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:42.853196+00:00
 -- url     : https://prove2.me/theorems/48bc6541-9adb-4e57-9646-b7ddf4e6eced

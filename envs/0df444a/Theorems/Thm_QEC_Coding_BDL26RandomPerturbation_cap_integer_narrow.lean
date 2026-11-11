@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_cap_integer_narrow
 -- name    : QEC.Coding.BDL26RandomPerturbation.cap_integer_narrow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:49:57.346736+00:00
 -- url     : https://prove2.me/theorems/c8f79d5d-80f0-4c96-b1cd-763e51df53e4

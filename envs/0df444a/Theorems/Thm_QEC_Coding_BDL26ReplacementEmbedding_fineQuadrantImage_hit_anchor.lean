@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_fineQuadrantImage_hit_anchor
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.fineQuadrantImage_hit_anchor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:39:35.956938+00:00
 -- url     : https://prove2.me/theorems/423f2cf6-f25c-490d-bfcb-041aa293df9c

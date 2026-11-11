@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SharpPlanar.Numerical.U33.wuplus_contains_g
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T19:46:35.964974+00:00
 -- url     : https://prove2.me/submissions/af274941-453f-4474-876a-b5555c7148e6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ098G072

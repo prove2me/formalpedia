@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rectangle_image_subset_glue
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rectangle_image_subset_glue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:33:02.606787+00:00
 -- url     : https://prove2.me/theorems/1bd17fb2-df01-49f3-bb14-6be99045a36a

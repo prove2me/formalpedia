@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_finiteA_bijective_g
 -- name    : OAI.SharpPlanar.Numerical.finiteA_bijective_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T03:40:36.06043+00:00
 -- url     : https://prove2.me/theorems/ea4576bd-d9b6-45e0-8b42-43ecce0e86c2

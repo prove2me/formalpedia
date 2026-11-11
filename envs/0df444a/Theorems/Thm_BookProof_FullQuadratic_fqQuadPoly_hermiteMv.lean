@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FullQuadratic_fqQuadPoly_hermiteMv
 -- name    : BookProof.FullQuadratic.fqQuadPoly_hermiteMv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T13:48:54.739494+00:00
 -- url     : https://prove2.me/theorems/7ef6486d-04ae-46f6-b67d-335aabe3ac20

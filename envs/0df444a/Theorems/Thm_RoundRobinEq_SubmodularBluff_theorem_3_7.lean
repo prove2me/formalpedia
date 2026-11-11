@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundRobinEq_SubmodularBluff_theorem_3_7
 -- name    : RoundRobinEq.SubmodularBluff.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:19:07.350238+00:00
 -- url     : https://prove2.me/theorems/d4387468-61be-44a1-ade5-8d2f87136c72

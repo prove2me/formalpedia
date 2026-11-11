@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P80_fact1
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P80.fact1
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T09:21:55.226277+00:00
 -- url     : https://prove2.me/theorems/a0ede062-2740-4142-ba17-d841bcd57a32

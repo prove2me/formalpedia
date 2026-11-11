@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_tannerTrianglePoint_qz
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.tannerTrianglePoint_qz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:43:21.692332+00:00
 -- url     : https://prove2.me/theorems/4671ef4a-ccaa-47b1-96a5-b48698ee0d1b

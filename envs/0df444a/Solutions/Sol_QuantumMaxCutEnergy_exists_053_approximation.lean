@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumMaxCutEnergy.exists_053_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T14:32:04.963527+00:00
 -- url     : https://prove2.me/submissions/cfa61864-11ac-472e-8d49-745f5d05525f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QuantumMaxCutEnergy_agm_numeric_candidate_combination
 import Theorems.Thm_QuantumMaxCutEnergy_agm_matching_forest_estimator_implementation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_localPool_card_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.localPool_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:04:03.376733+00:00
 -- url     : https://prove2.me/theorems/0bb0f418-5ea6-43ab-ad5d-c921786df458

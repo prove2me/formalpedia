@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_martingale_problem_characterization
 -- name    : EthierKurtz.martingale_problem_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T18:49:07.667056+00:00
 -- url     : https://prove2.me/theorems/b1aead5f-a162-44e9-8769-22dcd424b5a9

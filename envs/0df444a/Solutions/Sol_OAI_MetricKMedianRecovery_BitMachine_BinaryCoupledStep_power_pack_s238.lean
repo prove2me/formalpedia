@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for OAI.MetricKMedianRecovery.BitMachine.BinaryCoupledStep.power_pack_s238
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-11T00:13:11.523621+00:00
+-- url     : https://prove2.me/submissions/2c32bebd-790b-4e47-a163-6adf2a7cd623
+
+import Mathlib
+import Definitions.Def_KMedianRefinedRecovery
+import Definitions.Def_Q238K043
+import Theorems.Thm_OAI_MetricKMedianRecovery_BitMachine_BinaryPhaseCount_power_pack_s238
+
+section
+-- module Solutions.Q238_KM.KMedianRecovery_Recovery_StepPack
+attribute [-instance] _root_.OAI.MetricKMedianRecovery.Categorical.binaryOracleIndexDecidableEq
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MetricKMedianRecovery.BitMachine.BinaryCoupledStep
+open WordOperations WordList BinaryArithmetic RationalLeaves CanonicalCoupledMerge PhaseHistoryTransfer
+open BinaryOpeningPayment (field field_encode)
+open BinaryFiniteContext (labels setBits)
+open BinaryFiniteMachine (historyBits)
+open BinaryCoupled (stateBits outcomeBits)
+attribute [local irreducible] BinaryFiniteMachine.continuation BinaryFiniteCross.run
+variable {m d : ℕ} (distance : Fin m→Fin d→ℚ) (loc : Fin d→Fin m) (F : Finset (Fin m))
+  (Q₀ : Finset (Label (Fin m))) (v z b : ℚ) (n q precision k : ℕ) (s : State (Fin m))
+local notation "xx" => pack (BinaryFiniteContext.pack distance (fun j=>original (loc j)) (F.image original) Q₀ v z 0) n q b precision k s
+lemma bf_pack (i : ℕ) : bf i xx=field i (BinaryFiniteContext.pack distance (fun j=>original (loc j)) (F.image original) Q₀ v z 0) := by
+  simp only [bf,Function.comp_apply,pack,field_encode,List.getElem?_cons_zero,Option.getD_some]
+lemma power_pack_s238_oai : power xx=BinaryRational.encode ((1+v^2)^q) := by
+  simp only [power,bf_pack]
+  simp only [pack,BinaryFiniteContext.pack,field_encode,List.getElem?_cons_zero,List.getElem?_cons_succ,Option.getD_some,
+    BinaryPhaseCount.power_pack_s238]
+end MetricKMedianRecovery.BitMachine.BinaryCoupledStep
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.MetricKMedianRecovery.BitMachine.BinaryCoupledStep.power_pack_s238_oai := @OAI.MetricKMedianRecovery.BitMachine.BinaryCoupledStep.power_pack_s238_oai

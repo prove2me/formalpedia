@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_matching_polytope_integral_rounding
 -- name    : QuantumMaxCutEnergy.matching_polytope_integral_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-02T21:42:32.575748+00:00
 -- url     : https://prove2.me/theorems/c5dc6609-eb2b-49eb-9c72-70b4e2b73c59

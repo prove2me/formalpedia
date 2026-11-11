@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_U33_wuminus_contains_g
 -- name    : OAI.SharpPlanar.Numerical.U33.wuminus_contains_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T19:41:11.385994+00:00
 -- url     : https://prove2.me/theorems/76c3eba1-e832-4e1b-90d4-e0f4917be20a

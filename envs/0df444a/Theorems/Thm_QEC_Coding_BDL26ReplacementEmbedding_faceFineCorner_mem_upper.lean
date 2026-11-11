@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_faceFineCorner_mem_upper
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.faceFineCorner_mem_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:39:28.442476+00:00
 -- url     : https://prove2.me/theorems/f73d8af7-de7f-4481-b57c-3d30759ec7f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P86_basedRingHom_preserves_bar
 -- name    : QAlgorithms.Papers.Independent.Intake100.P86.basedRingHom_preserves_bar
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:27:48.840077+00:00
 -- url     : https://prove2.me/theorems/c66e7bd2-8a3a-420c-bd98-a1e4b3c380bc

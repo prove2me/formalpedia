@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_componentPartition_card_ge_two__p2m_ad9ec9d5_3963_45af_869f_03d998217399_a2
 -- name    : WilliamsonShmoys.componentPartition_card_ge_two__p2m_ad9ec9d5_3963_45af_869f_03d998217399_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:38:51.607682+00:00
 -- url     : https://prove2.me/theorems/5e1ec078-71f7-4a0c-a241-e7fa54d06551

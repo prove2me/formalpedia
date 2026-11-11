@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MUB6.Certificate.MixedData.false_of_gram_interpretation_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-09T03:48:21.028198+00:00
 -- url     : https://prove2.me/submissions/683b7e05-fa18-4021-9c54-9ad0a92e5392
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Lean.Elab.Tactic.Omega

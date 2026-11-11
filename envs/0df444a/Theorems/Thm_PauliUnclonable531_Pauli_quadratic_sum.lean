@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_quadratic_sum
 -- name    : PauliUnclonable531.Pauli.quadratic_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:09:20.815252+00:00
 -- url     : https://prove2.me/theorems/2de6fd22-7145-408b-8e66-9ea3988ad498

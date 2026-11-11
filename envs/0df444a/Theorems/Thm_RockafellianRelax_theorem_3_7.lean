@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellianRelax_theorem_3_7
 -- name    : RockafellianRelax.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:37:55.116967+00:00
 -- url     : https://prove2.me/theorems/c8f795de-5555-498a-92eb-759d75e28bd1

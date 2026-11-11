@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LevyFoundations.leanlevy_chat16_exp_exponent_injective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-06T13:06:09.979993+00:00
 -- url     : https://prove2.me/submissions/0415b8ce-8201-4bb6-a360-95b8241f1b9f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_levy_foundations_exponent

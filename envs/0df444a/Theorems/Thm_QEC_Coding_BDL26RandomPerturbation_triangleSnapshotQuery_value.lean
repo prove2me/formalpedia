@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_triangleSnapshotQuery_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.triangleSnapshotQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:59:42.555505+00:00
 -- url     : https://prove2.me/theorems/88d59eba-5dd2-4e8a-8adc-df32fb4cc85a

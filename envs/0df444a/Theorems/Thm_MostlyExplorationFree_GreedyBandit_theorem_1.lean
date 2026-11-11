@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MostlyExplorationFree_GreedyBandit_theorem_1
 -- name    : MostlyExplorationFree.GreedyBandit.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:32:30.967562+00:00
 -- url     : https://prove2.me/theorems/72ecea2a-e3b0-4768-b818-a492b40c32e0

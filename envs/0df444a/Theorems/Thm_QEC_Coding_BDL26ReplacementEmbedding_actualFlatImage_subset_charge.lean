@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualFlatImage_subset_charge
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualFlatImage_subset_charge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:37:02.766894+00:00
 -- url     : https://prove2.me/theorems/453f8edc-803a-4052-9d7b-e7480b72aead

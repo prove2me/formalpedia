@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_componentwise_edge_bound_aggregate_component_card_sum__p2m_be3c76fd_0a91_4933_b3e9_0bd34bf9ab05_a1
 -- name    : WilliamsonShmoys.componentwise_edge_bound_aggregate_component_card_sum__p2m_be3c76fd_0a91_4933_b3e9_0bd34bf9ab05_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:13:37.809849+00:00
 -- url     : https://prove2.me/theorems/2972acd7-b6b8-432c-8fb5-e8fb44989789

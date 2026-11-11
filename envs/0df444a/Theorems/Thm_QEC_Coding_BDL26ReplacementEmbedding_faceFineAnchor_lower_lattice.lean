@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_faceFineAnchor_lower_lattice
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.faceFineAnchor_lower_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:39:03.969798+00:00
 -- url     : https://prove2.me/theorems/7ee35fda-4933-4e54-8ae7-959da2731d1f

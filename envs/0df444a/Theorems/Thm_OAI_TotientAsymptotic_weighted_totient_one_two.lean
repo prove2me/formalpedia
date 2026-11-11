@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TotientAsymptotic_weighted_totient_one_two
 -- name    : OAI.TotientAsymptotic.weighted_totient_one_two
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:33.596982+00:00
 -- url     : https://prove2.me/theorems/3dc695c3-e186-4961-9422-4c63a7dc801c

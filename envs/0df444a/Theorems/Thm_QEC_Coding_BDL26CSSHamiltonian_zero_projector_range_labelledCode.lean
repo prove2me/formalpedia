@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_zero_projector_range_labelledCode
 -- name    : QEC.Coding.BDL26CSSHamiltonian.zero_projector_range_labelledCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:37:55.884519+00:00
 -- url     : https://prove2.me/theorems/2ccb7f16-dd1f-436e-a500-36b17fac76c1

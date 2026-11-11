@@ -38235,17 +38235,17 @@
 {"parent": "HarmonicGames.Pareto.theorem_5_9", "child": "HarmonicGames_Pareto_IsParetoOptimal", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Pareto.theorem_5_9", "child": "agt_games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Projection.lemma_2_1", "child": "HarmonicGames_Projection_EpsEquilibrium", "via": ["solution", "statement"]}
-{"parent": "HarmonicGames.Projection.theorem_5_1", "child": "HarmonicGames_Projection_Closest", "via": ["statement"]}
-{"parent": "HarmonicGames.Projection.theorem_6_1", "child": "HarmonicGames_Projection_Closest", "via": ["statement"]}
-{"parent": "HarmonicGames.Projection.theorem_6_2", "child": "HarmonicGames_Projection_Closest", "via": ["statement"]}
+{"parent": "HarmonicGames.Projection.theorem_5_1", "child": "HarmonicGames_Projection_Closest", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Projection.theorem_6_1", "child": "HarmonicGames_Projection_Closest", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.Projection.theorem_6_2", "child": "HarmonicGames_Projection_Closest", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Projection.theorem_6_3", "child": "HarmonicGames_Projection_Closest", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.Projection.theorem_6_3", "child": "HarmonicGames_Projection_EpsEquilibrium", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.UniformMixed.corollary_5_2", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.UniformMixed.corollary_5_2", "child": "HarmonicGames_GenericPure_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.UniformMixed.corollary_5_2", "child": "HarmonicGames_UniformMixed_Mixed", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.UniformMixed.corollary_5_2", "child": "agt_games", "via": ["solution", "statement"]}
-{"parent": "HarmonicGames.UniformMixed.lemma_5_2", "child": "HarmonicGames_Decomposition_Games", "via": ["statement"]}
-{"parent": "HarmonicGames.UniformMixed.lemma_5_2", "child": "HarmonicGames_GenericPure_Games", "via": ["statement"]}
+{"parent": "HarmonicGames.UniformMixed.lemma_5_2", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
+{"parent": "HarmonicGames.UniformMixed.lemma_5_2", "child": "HarmonicGames_GenericPure_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.UniformMixed.lemma_A_1", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.UniformMixed.lemma_A_1", "child": "HarmonicGames_GenericPure_Games", "via": ["solution", "statement"]}
 {"parent": "HarmonicGames.UniformMixed.proposition_5_2", "child": "HarmonicGames_Decomposition_Games", "via": ["solution", "statement"]}
@@ -84854,7 +84854,7 @@
 {"parent": "MartOT.HN.eq_23", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.HN.fibres_le_two", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.HN.graphs_monotone", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
-{"parent": "MartOT.HN.lemma_1_11", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.HN.lemma_1_11", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.HN.lemma_3_2", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.HN.lemma_5_5", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.HN.lemma_5_6", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}

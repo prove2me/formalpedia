@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_couplingIndex_card
 -- name    : QEC.Coding.BDL26BoundedRateDavies.couplingIndex_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:31:20.738786+00:00
 -- url     : https://prove2.me/theorems/ceca337f-70da-41f3-b45e-14f5bbf4dfbf

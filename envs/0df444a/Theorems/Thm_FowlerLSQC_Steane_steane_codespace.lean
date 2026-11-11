@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FowlerLSQC_Steane_steane_codespace
 -- name    : FowlerLSQC.Steane.steane_codespace
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:37:43.287969+00:00
 -- url     : https://prove2.me/theorems/57bcc75e-9b07-43ff-b31b-47a32c195e5a

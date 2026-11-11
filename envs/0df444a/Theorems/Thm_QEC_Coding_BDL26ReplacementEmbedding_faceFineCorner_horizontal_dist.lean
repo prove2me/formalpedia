@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_faceFineCorner_horizontal_dist
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.faceFineCorner_horizontal_dist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:41:37.872537+00:00
 -- url     : https://prove2.me/theorems/e1ccdf66-8a99-412c-ab39-e9a1d9250502

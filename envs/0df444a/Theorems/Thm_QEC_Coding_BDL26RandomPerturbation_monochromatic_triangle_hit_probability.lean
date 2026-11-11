@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_monochromatic_triangle_hit_probability
 -- name    : QEC.Coding.BDL26RandomPerturbation.monochromatic_triangle_hit_probability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:52:01.310493+00:00
 -- url     : https://prove2.me/theorems/7a4bd59f-a392-42e3-9bc5-c16e8121912d

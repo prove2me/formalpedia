@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedianRecovery_RefinedRecovery_refined_recovery
 -- name    : OAI.MetricKMedianRecovery.RefinedRecovery.refined_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:56.689986+00:00
 -- url     : https://prove2.me/theorems/17fa1abe-d7d4-48e8-a229-e604b667e974

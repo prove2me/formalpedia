@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_snapshotCoordinateExpr_cost
 -- name    : QEC.Coding.BDL26RandomPerturbation.snapshotCoordinateExpr_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:59:11.35267+00:00
 -- url     : https://prove2.me/theorems/21ac36be-e9e5-4e5e-a2ec-30fc4b84f9b8

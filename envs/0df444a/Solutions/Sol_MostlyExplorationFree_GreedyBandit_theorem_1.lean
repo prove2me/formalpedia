@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MostlyExplorationFree.GreedyBandit.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-30T18:44:59.318686+00:00
 -- url     : https://prove2.me/submissions/0a82ad20-7da8-4ff0-853b-f93859c9b17e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MostlyExplorationFree_GreedyBandit_Model

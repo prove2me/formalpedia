@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for QuantumMaxCutEnergy.exists_0526_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T15:03:34.131758+00:00
 -- url     : https://prove2.me/submissions/a6d3af2e-5b89-4da3-972c-1ae8523160de
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QuantumMaxCutEnergy_agm_deterministic_product_value_program
 import Theorems.Thm_QuantumMaxCutEnergy_agm_incident_floorValue_bounds

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_anchorFoldQuery_min
 -- name    : QEC.Coding.BDL26RandomPerturbation.anchorFoldQuery_min
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:55:46.290222+00:00
 -- url     : https://prove2.me/theorems/85667584-b423-472d-9691-8903f70638c6

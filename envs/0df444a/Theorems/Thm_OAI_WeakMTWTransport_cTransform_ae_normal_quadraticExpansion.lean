@@ -1,0 +1,111 @@
+-- Prove2me | Theorems.Thm_OAI_WeakMTWTransport_cTransform_ae_normal_quadraticExpansion
+-- name    : OAI.WeakMTWTransport.cTransform_ae_normal_quadraticExpansion
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-10T18:44:00.297923+00:00
+-- url     : https://prove2.me/theorems/ece10e9b-1717-497d-80c0-d82a5361d610
+-- title:
+--   OAI.WeakMTWTransport.cTransform_ae_normal_quadraticExpansion: intermediate lemma from OpenAI, Uniform Bi-Holder Transport from Weak MTW (result family 360)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.WeakMTWTransport.uniform_biHolder_transport`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Uniform Bi-Holder Transport from Weak MTW (result family 360)*, OpenAI Math Release, September 25, 2026, result family 360, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.WeakMTWTransport.cTransform_ae_normal_quadraticExpansion` of [lean/OAI/Analysis/BiholderTransport/Coordinates/CoordinateExpansion.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/BiholderTransport/Coordinates/CoordinateExpansion.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.WeakMTWTransport`, with `open Set Filter Manifold MeasureTheory Bundle Metric`, `open scoped Topology ContDiff ENNReal NNReal`):
+--
+--   ```lean
+--   lemma cTransform_ae_normal_quadraticExpansion {v : M → ℝ} (hv : Continuous v) :
+--       ∀ᵐ w ∂metricVolume (M := M) n,
+--         ∃ p : TangentSpace 𝓘(ℝ,Model n) w, ∃ A : TangentSpace 𝓘(ℝ,Model n) w →L[ℝ] TangentSpace 𝓘(ℝ,Model n) w,
+--           (∀ h k, inner ℝ (A h) k=inner ℝ h (A k)) ∧
+--           HasQuadraticExpansion (fun h => cTransform v (riemannianExp w h)) p A
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.WeakMTWTransport.HasQuadraticExpansion` and `OAI.WeakMTWTransport.cTransform` (definitions bundle `OAIQ232A000` of this split); `OAI.WeakMTWTransport.Model`, `OAI.WeakMTWTransport.metricVolume` and `OAI.WeakMTWTransport.riemannianExp` (the published bundle `Def_BiholderTransport`).
+--
+--   **Used by.** The proof of `OAI.WeakMTWTransport.exists_density_original_center_good` of this split imports it.
+-- source:
+--   OpenAI, Uniform Bi-Holder Transport from Weak MTW (result family 360), OpenAI Math Release, September 25, 2026, https://github.com/openai/math (result family 360; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/BiholderTransport/Coordinates/CoordinateExpansion.lean (declaration OAI.WeakMTWTransport.cTransform_ae_normal_quadraticExpansion)
+
+import Mathlib
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.Ring.Finset
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Range
+import Mathlib.Analysis.CStarAlgebra.GelfandNaimarkSegal
+import Mathlib.Analysis.CStarAlgebra.Hom
+import Mathlib.Analysis.Complex.Circle
+import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Positive
+import Mathlib.Analysis.InnerProductSpace.StarOrder
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Normed.Algebra.Spectrum
+import Mathlib.Analysis.VonNeumannAlgebra.Basic
+import Mathlib.Combinatorics.SimpleGraph.Paths
+import Mathlib.Combinatorics.Young.YoungDiagram
+import Mathlib.Data.List.Nodup
+import Mathlib.Geometry.Manifold.IsManifold.Basic
+import Mathlib.GroupTheory.FreeGroup.Basic
+import Mathlib.LinearAlgebra.TensorProduct.Basic
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Complex
+import Mathlib.MeasureTheory.Function.AbsolutelyContinuous
+import Mathlib.MeasureTheory.Function.JacobianOneDim
+import Mathlib.MeasureTheory.Function.UniformIntegrable
+import Mathlib.MeasureTheory.MeasurableSpace.Constructions
+import Mathlib.MeasureTheory.MeasurableSpace.Embedding
+import Mathlib.MeasureTheory.Measure.FiniteMeasure
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.Probability.Kernel.Composition.MeasureComp
+import Mathlib.Probability.Kernel.CondDistrib
+import Mathlib.Probability.Kernel.Defs
+import Mathlib.Probability.Kernel.WithDensity
+import Mathlib.Topology.Algebra.LinearMapCompletion
+import Definitions.Def_BiholderTransport
+import Definitions.Def_OAIQ232A000
+
+section
+
+attribute [-instance] _root_.Convexity.StdSimplex.instInhabited _root_.Convexity.StdSimplex.instNonempty _root_.Convexity.StdSimplex.instSubsingleton _root_.Convexity.StdSimplex.instUnique _root_.Convexity.StdSimplex.topologicalSpace
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+section
+
+noncomputable section
+open Set Filter Manifold MeasureTheory Bundle Metric
+open scoped Topology ContDiff ENNReal NNReal
+
+namespace WeakMTWTransport
+section AENormalExpansion
+variable {n : ℕ} {M : Type*} [MetricSpace M] [CompactSpace M] [Nonempty M]
+  [MeasurableSpace M] [BorelSpace M]
+  [ChartedSpace (Model n) M] [IsManifold 𝓘(ℝ,Model n) ∞ M]
+  [RiemannianBundle (fun x : M => TangentSpace 𝓘(ℝ,Model n) x)]
+  [IsContMDiffRiemannianBundle 𝓘(ℝ,Model n) ∞ (Model n)
+    (fun x : M => TangentSpace 𝓘(ℝ,Model n) x)]
+  [IsRiemannianManifold 𝓘(ℝ,Model n) M]
+
+omit [Nonempty M] in
+lemma cTransform_ae_normal_quadraticExpansion {v : M → ℝ} (hv : Continuous v) :
+    ∀ᵐ w ∂metricVolume (M := M) n,
+      ∃ p : TangentSpace 𝓘(ℝ,Model n) w, ∃ A : TangentSpace 𝓘(ℝ,Model n) w →L[ℝ] TangentSpace 𝓘(ℝ,Model n) w,
+        (∀ h k, inner ℝ (A h) k=inner ℝ h (A k)) ∧
+        HasQuadraticExpansion (fun h => cTransform v (riemannianExp w h)) p A := by
+  sorry
+
+end AENormalExpansion
+end WeakMTWTransport
+
+end
+
+end
+
+end
+
+end OAI
+end

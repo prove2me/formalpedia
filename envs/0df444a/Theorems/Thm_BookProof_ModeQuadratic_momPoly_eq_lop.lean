@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ModeQuadratic_momPoly_eq_lop
 -- name    : BookProof.ModeQuadratic.momPoly_eq_lop
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T12:34:28.934813+00:00
 -- url     : https://prove2.me/theorems/a2f4139f-42d9-4c43-b577-cf17ca72ef95

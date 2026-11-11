@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_density_violation_iff
 -- name    : QEC.Coding.BDL26RandomPerturbation.density_violation_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:07:22.367205+00:00
 -- url     : https://prove2.me/theorems/7cb8d008-7ee8-42cf-86d9-772760670ccc

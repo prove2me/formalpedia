@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_bounds_sum_component_slack__p2m_1720d2b2_bbea_4d47_affc_65940ff7c983_a1
 -- name    : WilliamsonShmoys.component_bounds_sum_component_slack__p2m_1720d2b2_bbea_4d47_affc_65940ff7c983_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:20:02.912203+00:00
 -- url     : https://prove2.me/theorems/b5e4e732-4222-4bc5-b9d2-0efbdba3637d

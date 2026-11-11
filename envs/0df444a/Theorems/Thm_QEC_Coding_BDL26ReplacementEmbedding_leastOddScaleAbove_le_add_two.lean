@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_leastOddScaleAbove_le_add_two
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.leastOddScaleAbove_le_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:41:04.153911+00:00
 -- url     : https://prove2.me/theorems/1d1b3c2e-beb8-444f-af55-18fae5795625

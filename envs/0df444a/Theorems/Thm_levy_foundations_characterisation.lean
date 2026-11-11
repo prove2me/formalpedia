@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_levy_foundations_characterisation
 -- name    : levy_foundations_characterisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T12:37:01.680383+00:00
 -- url     : https://prove2.me/theorems/6e069af4-0181-4f1f-b9f4-41f6661ba406

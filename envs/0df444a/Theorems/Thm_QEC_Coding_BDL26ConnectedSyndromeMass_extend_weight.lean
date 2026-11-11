@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_extend_weight
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.extend_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:10:48.761074+00:00
 -- url     : https://prove2.me/theorems/6ad8cfe0-4695-48b0-b5cc-10857618bc67

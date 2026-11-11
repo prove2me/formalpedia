@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_gibbs_stationary
 -- name    : QEC.Coding.BDL26BoundedRateDavies.gibbs_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:24:15.160339+00:00
 -- url     : https://prove2.me/theorems/b4f3078a-c236-453d-b100-6ef7465ab1d4

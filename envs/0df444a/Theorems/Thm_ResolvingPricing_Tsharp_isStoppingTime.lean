@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingPricing_Tsharp_isStoppingTime
 -- name    : ResolvingPricing.Tsharp_isStoppingTime
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:27:46.210163+00:00
 -- url     : https://prove2.me/theorems/f83889bd-fa91-4376-82dc-b1519342d6cf

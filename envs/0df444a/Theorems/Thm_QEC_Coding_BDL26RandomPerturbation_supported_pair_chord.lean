@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_supported_pair_chord
 -- name    : QEC.Coding.BDL26RandomPerturbation.supported_pair_chord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:49:38.72196+00:00
 -- url     : https://prove2.me/theorems/0926f191-d8e1-4198-b991-b6b193d9ff5e

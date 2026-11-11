@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MUB6.Certificate.GramAssembly.Block5.indexed_entry_eval_e
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-08T15:38:45.734501+00:00
 -- url     : https://prove2.me/submissions/2a48fd16-3094-4661-902d-4450d780ae13
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Lean.Elab.Tactic.Omega

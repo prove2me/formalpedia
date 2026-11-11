@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_fiberFactor_eq_weightedFamily
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.fiberFactor_eq_weightedFamily
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:37:00.60596+00:00
 -- url     : https://prove2.me/theorems/2e11410a-3664-4743-8b0e-0e9c715c326b

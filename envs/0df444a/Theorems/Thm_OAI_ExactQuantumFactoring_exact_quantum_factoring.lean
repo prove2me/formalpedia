@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ExactQuantumFactoring_exact_quantum_factoring
 -- name    : OAI.ExactQuantumFactoring.exact_quantum_factoring
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:39.943512+00:00
 -- url     : https://prove2.me/theorems/8b5b039e-4e1d-437a-9474-32913cf485b4

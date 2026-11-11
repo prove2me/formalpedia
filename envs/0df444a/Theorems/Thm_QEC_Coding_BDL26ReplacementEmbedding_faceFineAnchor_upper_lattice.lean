@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_faceFineAnchor_upper_lattice
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.faceFineAnchor_upper_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:39:04.928024+00:00
 -- url     : https://prove2.me/theorems/9179f2cc-97cb-4e32-be5b-5a53eb4ab91d

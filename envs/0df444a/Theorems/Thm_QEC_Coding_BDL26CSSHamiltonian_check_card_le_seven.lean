@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_check_card_le_seven
 -- name    : QEC.Coding.BDL26CSSHamiltonian.check_card_le_seven
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:30:37.717108+00:00
 -- url     : https://prove2.me/theorems/29cfc3b9-6844-4dac-b740-8d599cc7ebd0

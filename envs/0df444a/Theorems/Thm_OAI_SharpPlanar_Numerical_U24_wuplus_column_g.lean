@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_U24_wuplus_column_g
 -- name    : OAI.SharpPlanar.Numerical.U24.wuplus_column_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-08T09:23:51.643451+00:00
 -- url     : https://prove2.me/theorems/7f04a5fd-1543-42bf-bcdc-fb0d1c4ce76a

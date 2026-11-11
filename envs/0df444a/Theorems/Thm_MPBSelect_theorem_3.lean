@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPBSelect_theorem_3
 -- name    : MPBSelect.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:29:41.163152+00:00
 -- url     : https://prove2.me/theorems/c9e2aa7b-a04c-4b44-978d-a66d6ff2c38d

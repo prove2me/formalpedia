@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger18_original_topcap_physical_grid_centered
 -- name    : AvramDividend.Classical.avram_gledger18_original_topcap_physical_grid_centered
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T00:33:37.395124+00:00
 -- url     : https://prove2.me/theorems/ad7f605e-8c0c-43d8-a737-816eea41ec23

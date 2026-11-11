@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_incidentTriangles_card_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.incidentTriangles_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:15:08.005393+00:00
 -- url     : https://prove2.me/theorems/2ea78cdd-afd2-42ef-8342-8e7c9ea85f54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPhysicalLocality_physicalGeometry_cast
 -- name    : QEC.Coding.BDL26RandomPhysicalLocality.physicalGeometry_cast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:47:54.919392+00:00
 -- url     : https://prove2.me/theorems/81c916aa-c312-410b-8794-921656e2fb51

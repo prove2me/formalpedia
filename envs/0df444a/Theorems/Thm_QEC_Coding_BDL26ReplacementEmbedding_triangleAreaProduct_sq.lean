@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangleAreaProduct_sq
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangleAreaProduct_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:36:57.353531+00:00
 -- url     : https://prove2.me/theorems/b00442b2-a8a3-4148-87d7-ff8632ee2ac1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeinbergPOMDP_WStar_filter_exists
 -- name    : FeinbergPOMDP.WStar.filter_exists
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-04T17:54:49.068424+00:00
 -- url     : https://prove2.me/theorems/a2d63d04-68d6-4b86-a39a-148a68fbc827

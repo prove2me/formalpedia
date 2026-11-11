@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_rz_extend_weight
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.rz_extend_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:09:32.652206+00:00
 -- url     : https://prove2.me/theorems/e0b67cfb-90e3-4522-8566-99f7b9d9a129

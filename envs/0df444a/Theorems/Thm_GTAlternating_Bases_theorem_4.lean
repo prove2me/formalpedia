@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTAlternating_Bases_theorem_4
 -- name    : GTAlternating.Bases.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:28:17.038978+00:00
 -- url     : https://prove2.me/theorems/4d80fecd-2f70-485b-b2b6-9fbed19ffba6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MITMSynthesis_lemma1
 -- name    : MITMSynthesis.lemma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:07:06.652683+00:00
 -- url     : https://prove2.me/theorems/33c2fe20-9890-4d69-9972-bbde83ba596c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWTransport_uniform_biHolder_transport
 -- name    : OAI.WeakMTWTransport.uniform_biHolder_transport
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:38.769789+00:00
 -- url     : https://prove2.me/theorems/628e07f1-db30-4b2b-9208-3a6c811c5dbc

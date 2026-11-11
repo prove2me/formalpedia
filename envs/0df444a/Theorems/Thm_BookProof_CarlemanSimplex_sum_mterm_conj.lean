@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_sum_mterm_conj
 -- name    : BookProof.CarlemanSimplex.sum_mterm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:47:07.461233+00:00
 -- url     : https://prove2.me/theorems/dac64d07-a49e-4343-afc3-ea23e04eb99a

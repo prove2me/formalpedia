@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DirectionalTransience_positive_probability_transience_velocity_hemisphere
 -- name    : OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:35.272357+00:00
 -- url     : https://prove2.me/theorems/1e056c90-1c8a-4fc8-bc62-c10293c89a2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_coupling_inner
 -- name    : QEC.Coding.BDL26BoundedRateDavies.coupling_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:25:29.26983+00:00
 -- url     : https://prove2.me/theorems/1d318845-1fc3-4d88-a6b5-b19335d90083

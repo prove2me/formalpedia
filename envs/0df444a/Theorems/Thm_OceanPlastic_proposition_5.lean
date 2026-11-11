@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanPlastic_proposition_5
 -- name    : OceanPlastic.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:52:28.92999+00:00
 -- url     : https://prove2.me/theorems/fc9c7f0b-8e1f-4a44-8d75-8e55f5bb037f

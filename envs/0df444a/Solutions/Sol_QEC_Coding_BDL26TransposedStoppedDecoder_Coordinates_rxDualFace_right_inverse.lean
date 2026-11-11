@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates.rxDualFace_right_inverse
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-10T06:03:07.912076+00:00
+-- url     : https://prove2.me/submissions/ce24ce72-28e2-49c9-8a6b-10599b997658
+
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Reindex
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RXPresentationCochain
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RZDecoderAdapter
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_TransposedStoppedDecoder_Coordinates
+import Theorems.Thm_QEC_Locality_NoEdgeBetween_symm
+
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Coding QEC.Coding.BDL26TransposedStoppedDecoder QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates
+open BDL26FiniteTannerSquare BDL26TannerLocalRegularity
+open BDL26RXLocalReplacement hiding Two
+open BDL26RZLocalReplacement hiding Two
+open BDL26RZMap1CoordinateBridge hiding Two
+open BDL26RXDecoderAdapter
+open MultiscaleDecoder (BDL26Field)
+open scoped Classical BigOperators
+namespace QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates
+theorem _root_.solution (P : TannerSquarePresentation) (S : OddScale)
+    (f : RZFace (transposePresentation P) S) :
+    rxDualFace P S ((rxDualFace P S).symm f) = f :=
+  (rxDualFace P S).apply_symm_apply f
+end QEC.Coding.BDL26TransposedStoppedDecoder.Coordinates

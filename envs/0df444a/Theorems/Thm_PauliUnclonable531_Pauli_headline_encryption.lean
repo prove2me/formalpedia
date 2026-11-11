@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_headline_encryption
 -- name    : PauliUnclonable531.Pauli.headline_encryption
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:09:22.363278+00:00
 -- url     : https://prove2.me/theorems/b85ee9e2-df14-4af6-8858-15bd07942526

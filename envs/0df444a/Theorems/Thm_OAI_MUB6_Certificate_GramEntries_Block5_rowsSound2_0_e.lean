@@ -1,0 +1,53 @@
+-- Prove2me | Theorems.Thm_OAI_MUB6_Certificate_GramEntries_Block5_rowsSound2_0_e
+-- name    : OAI.MUB6.Certificate.GramEntries.Block5.rowsSound2_0_e
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-10T13:09:39.413195+00:00
+-- url     : https://prove2.me/theorems/3c2df9b4-5a27-47b9-8e7a-c314abe90dad
+-- title:
+--   OAI.MUB6.Certificate.GramEntries.Block5.rowsSound2_0_e: intermediate lemma from OpenAI, The maximum number of mutually unbiased bases in dimension six
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.MUB6.fourier_and_family_bound`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *The maximum number of mutually unbiased bases in dimension six*, OpenAI Math Release, September 24, 2026, result family 266, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.MUB6.Certificate.GramEntries.Block5.rowsSound2_0` of [lean/OAI/Analysis/MutuallyUnbiased/GramEntries/Block5Row2.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/MutuallyUnbiased/GramEntries/Block5Row2.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.MUB6.Certificate.GramEntries.Block5`, with `open GramRows GramNormalization GramPolynomial`, `open scoped BigOperators`):
+--
+--   ```lean
+--   theorem rowsSound2_0_e (k : Fin GramFunctions.Block5.form2.size) (x : Key → ℝ) :
+--       Integer.Sparse.eval (rows2_0 k) x =
+--         Integer.Sparse.eval (normalizedRow (GramFunctions.Block5.form2.terms k).tag (GramFunctions.Block5.form2.terms k).charge GramFunctions.Block5.form0) x
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.MUB6.Certificate.Integer.Sparse.eval` (definitions bundle `OAIQ106E000` of this split); `OAI.MUB6.GramNormalization.Key` (definitions bundle `OAIQ106E002` of this split); `OAI.MUB6.Certificate.GramFunctions.TaggedTerm` (definitions bundle `OAIQ106E010` of this split); `OAI.MUB6.Certificate.GramFunctions.Block5.form0` and `OAI.MUB6.Certificate.GramFunctions.Block5.form2` (definitions bundle `OAIQ106E018` of this split); `OAI.MUB6.Certificate.GramEntries.Block5.rows2_0` (definitions bundle `OAIQ106E041` of this split); `OAI.MUB6.Certificate.GramPolynomial.normalizedRow` (definitions bundle `OAIQ106E044` of this split); `OAI.MUB6.Certificate.GramFunctions.LinearForm` (definitions bundle `OAIQ106E196` of this split).
+--
+--   **Used by.** The proof of `OAI.MUB6.Certificate.GramEntries.Block5.entryEval2_0_e` of this split imports it.
+-- source:
+--   OpenAI, The maximum number of mutually unbiased bases in dimension six, OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 266; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026/The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/MutuallyUnbiased/GramEntries/Block5Row2.lean (declaration OAI.MUB6.Certificate.GramEntries.Block5.rowsSound2_0)
+
+import Mathlib
+import Lean.Elab.Tactic.Omega
+import Definitions.Def_OAIQ106E041
+import Definitions.Def_OAIQ106E044
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MUB6.Certificate.GramEntries.Block5
+
+open GramRows GramNormalization GramPolynomial
+open scoped BigOperators
+
+theorem rowsSound2_0_e (k : Fin GramFunctions.Block5.form2.size) (x : Key → ℝ) :
+    Integer.Sparse.eval (rows2_0 k) x =
+      Integer.Sparse.eval (normalizedRow (GramFunctions.Block5.form2.terms k).tag (GramFunctions.Block5.form2.terms k).charge GramFunctions.Block5.form0) x := by
+  sorry
+
+end MUB6.Certificate.GramEntries.Block5
+
+end OAI
+end

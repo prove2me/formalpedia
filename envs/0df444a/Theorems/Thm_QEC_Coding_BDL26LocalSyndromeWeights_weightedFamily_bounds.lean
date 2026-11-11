@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_weightedFamily_bounds
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.weightedFamily_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:37:00.449914+00:00
 -- url     : https://prove2.me/theorems/289c68ae-d4f3-4b54-9e65-3806f44bd9a1

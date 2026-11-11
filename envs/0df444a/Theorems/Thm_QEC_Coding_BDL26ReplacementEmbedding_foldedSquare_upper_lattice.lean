@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_foldedSquare_upper_lattice
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.foldedSquare_upper_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:34:40.497192+00:00
 -- url     : https://prove2.me/theorems/c0839dab-e299-46b9-9b53-afb3f3b0488d

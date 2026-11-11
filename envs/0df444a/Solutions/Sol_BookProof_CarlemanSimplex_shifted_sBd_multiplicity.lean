@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanSimplex.shifted_sBd_multiplicity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-07T23:12:02.600336+00:00
 -- url     : https://prove2.me/submissions/93c08efa-a1b1-4ee4-b9ed-1ed97e4ab61e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanSimplex.lean — solution of BookProof.CarlemanSimplex.shifted_sBd_multiplicity
 import Mathlib

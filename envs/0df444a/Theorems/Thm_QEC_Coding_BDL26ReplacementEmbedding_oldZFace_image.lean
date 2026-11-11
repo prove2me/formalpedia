@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_oldZFace_image
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.oldZFace_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:26:56.406645+00:00
 -- url     : https://prove2.me/theorems/717d6bc2-909d-4c0c-b969-1c2a86f749f4

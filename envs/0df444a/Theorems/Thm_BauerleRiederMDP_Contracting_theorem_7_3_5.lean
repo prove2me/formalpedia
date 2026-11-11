@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_Contracting_theorem_7_3_5
 -- name    : BauerleRiederMDP.Contracting.theorem_7_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:28:44.224925+00:00
 -- url     : https://prove2.me/theorems/29b80cec-a5b8-41b4-aa55-de5b177ea172

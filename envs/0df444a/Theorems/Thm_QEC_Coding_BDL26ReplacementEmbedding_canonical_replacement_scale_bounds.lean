@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_canonical_replacement_scale_bounds
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.canonical_replacement_scale_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:07:47.74199+00:00
 -- url     : https://prove2.me/theorems/f43f1d84-76af-475f-8a96-252d83ef1f28

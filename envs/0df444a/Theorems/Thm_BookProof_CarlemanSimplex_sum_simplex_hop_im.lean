@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_sum_simplex_hop_im
 -- name    : BookProof.CarlemanSimplex.sum_simplex_hop_im
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:46:29.159135+00:00
 -- url     : https://prove2.me/theorems/487bd51a-fc44-45b2-a5d2-d6be0fcdb66e

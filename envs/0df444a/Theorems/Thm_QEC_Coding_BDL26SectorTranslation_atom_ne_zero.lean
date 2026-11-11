@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_atom_ne_zero
 -- name    : QEC.Coding.BDL26SectorTranslation.atom_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:34:47.931143+00:00
 -- url     : https://prove2.me/theorems/1881fd8c-a6a3-4712-a57a-1c37607000a3

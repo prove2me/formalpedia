@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumMaxCutEnergy.agm_deterministic_product_value_program
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T15:07:05.090792+00:00
 -- url     : https://prove2.me/submissions/52c8a00e-908b-44c3-abb1-62068c75f0b6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QuantumMaxCutEnergy_agm_classical_sdp_rank_three_gap
 import Theorems.Thm_QuantumMaxCutEnergy_agm_classical_sdp_lower_value_program

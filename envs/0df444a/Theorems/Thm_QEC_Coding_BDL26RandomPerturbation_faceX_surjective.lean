@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_faceX_surjective
 -- name    : QEC.Coding.BDL26RandomPerturbation.faceX_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:07:11.82035+00:00
 -- url     : https://prove2.me/theorems/3b8021af-5893-4d97-8240-5c7aedf602aa

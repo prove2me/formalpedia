@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualPositiveHitSide_spec
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualPositiveHitSide_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:41:19.18038+00:00
 -- url     : https://prove2.me/theorems/8a4df90c-ebd7-4c0f-af65-0de76261feba

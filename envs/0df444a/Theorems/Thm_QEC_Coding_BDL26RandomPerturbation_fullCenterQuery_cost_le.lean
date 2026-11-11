@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_fullCenterQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.fullCenterQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:14:37.869602+00:00
 -- url     : https://prove2.me/theorems/874d0aaa-e3f6-4343-9f61-791bf7ce2143

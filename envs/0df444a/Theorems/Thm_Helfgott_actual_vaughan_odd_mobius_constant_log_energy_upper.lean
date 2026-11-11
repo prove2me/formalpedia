@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Helfgott_actual_vaughan_odd_mobius_constant_log_energy_upper
 -- name    : Helfgott.actual_vaughan_odd_mobius_constant_log_energy_upper
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-09T05:48:35.427442+00:00
 -- url     : https://prove2.me/theorems/482af487-be07-46f3-b289-7ef09bc049f6

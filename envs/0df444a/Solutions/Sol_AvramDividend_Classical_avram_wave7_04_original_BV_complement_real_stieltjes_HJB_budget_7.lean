@@ -1,0 +1,77 @@
+-- Prove2me | solution 7 for AvramDividend.Classical.avram_wave7_04_original_BV_complement_real_stieltjes_HJB_budget
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-10T17:28:31.585815+00:00
+-- url     : https://prove2.me/submissions/5170bb2a-d0c6-42d1-8198-face443826d0
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_avram_wave7_17_original_BV_strict_complement_sharp_drift_budget
+import Theorems.Thm_AvramDividend_Classical_avram_wave8_04_original_BV_positive_horizon_full_stieltjes_expected_budget
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set
+open scoped NNReal ENNReal
+open AvramDividend.Classical
+
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (hX : X.Standing)
+    (hBV : X.BoundedVariation) (q : ℝ) (hq : 0 < q)
+    (w : ℝ → ℝ) (C : ℝ≥0∞) (hC : 0 < C)
+    (hw_cont : ContinuousOn w (Ici 0)) (hw0 : 0 ≤ w 0)
+    (hw_neg : ∀ y < 0, w y = 0)
+    (hw_smooth : ContDiffOn ℝ 1 w {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C})
+    (hw_gen : ∀ y : ℝ, 0 < y → ENNReal.ofReal y < C →
+      X.GeneratorIntegrable w y ∧ X.generator w y - q * w y ≤ 0)
+    (hw_grad : ∀ y : ℝ, 0 < y → ENNReal.ofReal y < C → 1 ≤ deriv w y)
+    (x : ℝ) (hx : 0 ≤ x) (hxc : ENNReal.ofReal x ≤ C)
+    (D : ℝ≥0 → Ω → ℝ) (hD : IsAdmissibleLe X x C D)
+    (hw_nonneg : ∀ ω (t : ℝ≥0), 0 < t →
+      (t : ℝ≥0∞) < ruinTime X x D ω →
+      0 ≤ w (riskProcess X x D t ω))
+    (hjump : ∀ ω (t : ℝ≥0),
+      (t = 0 ∨ (t : ℝ≥0∞) < ruinTime X x D ω) →
+      rightLimit D t ω - D t ω ≤
+        w (riskProcess X x D t ω) -
+          w (riskProcess X x D t ω - (rightLimit D t ω - D t ω)))
+    (T : ℝ) (hT : 0 ≤ T)
+    (hEnvelope : ¬ (x + T * X.drift ≤ w x)) :
+    (∫ ω, (∫⁻ t in paymentTimes (ruinTime X x D ω) ∩ Iic T,
+      ENNReal.ofReal (Real.exp (-(q * t))) ∂(dividendMeasure D ω)).toReal ∂P) ≤
+      w x := by
+  have hEnvelopeData :=
+    avram_wave7_17_original_BV_strict_complement_sharp_drift_budget
+      X hX hBV q hq w C hC hw_cont hw0 hw_smooth hw_grad
+      x hx hxc D hD T hT hEnvelope
+  have hTpos : 0 < T := hEnvelopeData.1
+  let S : ℝ≥0 := ⟨T, hT⟩
+  let Cash : Ω → ℝ := fun ω =>
+    (∫⁻ t in paymentTimes (ruinTime X x D ω) ∩ Iic T,
+      ENNReal.ofReal (Real.exp (-(q * t))) ∂(dividendMeasure D ω)).toReal
+  let Term : Ω → ℝ := fun ω =>
+    if (S : ℝ≥0∞) < ruinTime X x D ω then
+      max 0 (Real.exp (-(q * T)) *
+        w (x + X.X S ω - rightLimit D S ω))
+    else 0
+  have hJoint : (∫ ω, Cash ω ∂P) + (∫ ω, Term ω ∂P) ≤ w x := by
+    simpa only [S, Cash, Term] using
+      (avram_wave8_04_original_BV_positive_horizon_full_stieltjes_expected_budget
+        X hX hBV q hq w C hC hw_cont hw0 hw_neg hw_smooth
+        hw_gen hw_grad x hx hxc D hD hw_nonneg hjump T hT hTpos)
+  have hTerm_nonneg : 0 ≤ ∫ ω, Term ω ∂P := by
+    apply integral_nonneg
+    intro ω
+    dsimp [Term]
+    split_ifs
+    · exact le_max_left 0 _
+    · exact le_refl 0
+  change (∫ ω, Cash ω ∂P) ≤ w x
+  linarith

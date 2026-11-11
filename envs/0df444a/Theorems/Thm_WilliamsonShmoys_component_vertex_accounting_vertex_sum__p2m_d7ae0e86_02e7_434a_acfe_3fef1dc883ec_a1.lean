@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_vertex_accounting_vertex_sum__p2m_d7ae0e86_02e7_434a_acfe_3fef1dc883ec_a1
 -- name    : WilliamsonShmoys.component_vertex_accounting_vertex_sum__p2m_d7ae0e86_02e7_434a_acfe_3fef1dc883ec_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:42:53.04867+00:00
 -- url     : https://prove2.me/theorems/575ffcf4-fd2d-4cd3-8479-4f3248e728e0

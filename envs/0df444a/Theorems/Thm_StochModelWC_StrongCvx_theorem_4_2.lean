@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochModelWC_StrongCvx_theorem_4_2
 -- name    : StochModelWC.StrongCvx.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:42:17.941673+00:00
 -- url     : https://prove2.me/theorems/e00f2ccb-b851-4ffb-a2b9-5199a38ce233

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_xStarBoundaryEdge_total
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.xStarBoundaryEdge_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:27:00.002023+00:00
 -- url     : https://prove2.me/theorems/be457aed-ba56-487e-882a-a3213cd75fc5

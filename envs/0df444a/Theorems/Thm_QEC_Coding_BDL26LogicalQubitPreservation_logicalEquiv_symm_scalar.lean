@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_logicalEquiv_symm_scalar
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.logicalEquiv_symm_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:33:40.325511+00:00
 -- url     : https://prove2.me/theorems/19d99da1-2959-4bd3-b198-79f2dde078a6

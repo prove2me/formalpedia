@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_TriangleWidthAtLeast_transpose
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.TriangleWidthAtLeast.transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:59:29.101701+00:00
 -- url     : https://prove2.me/theorems/5b2e0664-559d-4f40-810d-f507264133e3

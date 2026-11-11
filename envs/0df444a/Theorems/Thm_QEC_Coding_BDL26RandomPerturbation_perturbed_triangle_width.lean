@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_perturbed_triangle_width
 -- name    : QEC.Coding.BDL26RandomPerturbation.perturbed_triangle_width
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:49:48.820566+00:00
 -- url     : https://prove2.me/theorems/703f4171-d1db-4285-a2bc-4cab72747bcb

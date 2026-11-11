@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AlgorithmicThinTrees_algorithmic_strong_thin_trees
 -- name    : OAI.AlgorithmicThinTrees.algorithmic_strong_thin_trees
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:20.585065+00:00
 -- url     : https://prove2.me/theorems/3ab2c754-b942-4dec-b57b-d4f2003da330

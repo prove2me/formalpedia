@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_half_triangle_hit
 -- name    : QEC.Coding.BDL26RandomPerturbation.half_triangle_hit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:45:21.925833+00:00
 -- url     : https://prove2.me/theorems/7ec8bc5f-fd2d-455d-8db9-de841254195d

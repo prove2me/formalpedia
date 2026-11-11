@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_input_labels_le_qubits
 -- name    : QEC.Coding.BDL26RandomPerturbation.input_labels_le_qubits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:35:44.83955+00:00
 -- url     : https://prove2.me/theorems/0a3da63a-ea1c-487a-a5d8-97d4acd33bae

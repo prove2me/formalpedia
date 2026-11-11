@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixMultiplication_complex_alpha_gt_93_div_200
 -- name    : OAI.MatrixMultiplication.complex_alpha_gt_93_div_200
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.467306+00:00
 -- url     : https://prove2.me/theorems/a6734bf0-7be4-4bd4-8bb1-f2c321277bb7

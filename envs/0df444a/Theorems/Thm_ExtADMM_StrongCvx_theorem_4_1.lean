@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtADMM_StrongCvx_theorem_4_1
 -- name    : ExtADMM.StrongCvx.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:24.09553+00:00
 -- url     : https://prove2.me/theorems/52010cc0-f870-4dbc-997a-c0b79c1eab5f

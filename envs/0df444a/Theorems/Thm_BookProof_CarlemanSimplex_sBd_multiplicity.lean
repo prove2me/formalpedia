@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanSimplex_sBd_multiplicity
 -- name    : BookProof.CarlemanSimplex.sBd_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:48:36.985863+00:00
 -- url     : https://prove2.me/theorems/7575e503-40d5-4067-94e1-a014a85c7924

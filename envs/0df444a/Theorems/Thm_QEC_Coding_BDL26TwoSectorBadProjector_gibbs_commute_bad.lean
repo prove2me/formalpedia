@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_gibbs_commute_bad
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.gibbs_commute_bad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:22:32.874086+00:00
 -- url     : https://prove2.me/theorems/3cb60e09-9c82-4d6f-81c1-f72b3f078c07

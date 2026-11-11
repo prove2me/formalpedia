@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_coupling_norm_apply
 -- name    : QEC.Coding.BDL26BoundedRateDavies.coupling_norm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:25:52.889534+00:00
 -- url     : https://prove2.me/theorems/ebeb0eae-1ba6-45e9-ad48-d4724f174820

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.finite_maximal_qualifying_supergraph__p2m_7b028f0e_9557_4d63_b320_a3debd61f7f1_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:25:54.265208+00:00
 -- url     : https://prove2.me/submissions/6f394828-cbe2-4944-841b-6052f865e8d6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_exists_bounded_score_max__p2m_bf9a75f5_fb19_4298_9037_82dd49bb2208_a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_PermSector_symmetricOn_fermionic
 -- name    : BookProof.PermSector.symmetricOn_fermionic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-09T17:54:24.212433+00:00
 -- url     : https://prove2.me/theorems/1fab9082-3c36-4673-86ac-5a7ea3014a5c

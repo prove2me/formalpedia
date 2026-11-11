@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_oldZ_boundaryUnit
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.oldZ_boundaryUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:42:28.458482+00:00
 -- url     : https://prove2.me/theorems/ed90f799-4b7f-4d5b-bbd6-a1b9355c1195

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FullQuadratic_momsq_gen
 -- name    : BookProof.FullQuadratic.momsq_gen
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-08T12:29:05.792679+00:00
 -- url     : https://prove2.me/theorems/8afe59c1-ccd3-40cd-ac5f-63de4a024bbe

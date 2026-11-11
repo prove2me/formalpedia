@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_rzStepOutput_coarse_apply
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.rzStepOutput_coarse_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:56:29.199594+00:00
 -- url     : https://prove2.me/theorems/30c10e93-4600-4ea4-b844-cadaa2d46798

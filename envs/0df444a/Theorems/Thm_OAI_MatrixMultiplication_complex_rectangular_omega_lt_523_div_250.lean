@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixMultiplication_complex_rectangular_omega_lt_523_div_250
 -- name    : OAI.MatrixMultiplication.complex_rectangular_omega_lt_523_div_250
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.624451+00:00
 -- url     : https://prove2.me/theorems/1a1e8a4a-d57d-458e-b4a5-073e1171299e

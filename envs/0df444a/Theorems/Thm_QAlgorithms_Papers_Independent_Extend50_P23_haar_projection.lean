@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P23_haar_projection
 -- name    : QAlgorithms.Papers.Independent.Extend50.P23.haar_projection
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T17:40:39.044998+00:00
 -- url     : https://prove2.me/theorems/be992a5a-95a5-488b-9e33-69a7901b9d8f

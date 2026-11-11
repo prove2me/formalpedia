@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_countQuery_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.countQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:53:20.791994+00:00
 -- url     : https://prove2.me/theorems/3b535093-9673-40b8-ac64-c7c5c380a928

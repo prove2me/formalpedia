@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_fourTuple2Query_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.fourTuple2Query_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:56:49.279497+00:00
 -- url     : https://prove2.me/theorems/562df0f6-6cd5-410e-90e1-1d46127be6af

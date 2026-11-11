@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_triangle_lattice_card_le
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.triangle_lattice_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:33:55.66003+00:00
 -- url     : https://prove2.me/theorems/69ebf6a3-ce7c-4252-bb47-29d22c190f5d

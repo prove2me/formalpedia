@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumMaxCutEnergy.exists_0614_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T15:07:02.295202+00:00
 -- url     : https://prove2.me/submissions/56b8c4ce-313c-457e-b6cd-5d59c660bafc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QuantumMaxCutEnergyEstimationModel
 import Definitions.Def_QuantumMaxCutFiniteNumericRuntime

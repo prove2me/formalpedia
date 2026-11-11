@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetBilinear_theorem_2
 -- name    : NetBilinear.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:43:15.920354+00:00
 -- url     : https://prove2.me/theorems/e5d2436f-5609-4070-831e-4bc8a25a6239

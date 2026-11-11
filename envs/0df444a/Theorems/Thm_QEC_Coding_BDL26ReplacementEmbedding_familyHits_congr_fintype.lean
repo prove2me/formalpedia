@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_familyHits_congr_fintype
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.familyHits_congr_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:43:32.136386+00:00
 -- url     : https://prove2.me/theorems/03c76604-ea57-410f-8aa6-de029878a3ec

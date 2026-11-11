@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_event_degree_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.event_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:04:47.818359+00:00
 -- url     : https://prove2.me/theorems/4ba2dca5-77cf-4b41-800e-cd3321b7aa83

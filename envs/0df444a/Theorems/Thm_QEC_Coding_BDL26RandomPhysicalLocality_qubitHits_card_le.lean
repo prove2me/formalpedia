@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPhysicalLocality_qubitHits_card_le
 -- name    : QEC.Coding.BDL26RandomPhysicalLocality.qubitHits_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:46:25.764842+00:00
 -- url     : https://prove2.me/theorems/8ac662ac-6f9c-4013-a4eb-9fe677c88e53

@@ -14921,8 +14921,8 @@
 {"parent": "ProgCorrMFG.Approx.theorem_6_2", "child": "ProgCorrMFG_Approx_NPlayer", "via": ["solution", "statement"]}
 {"parent": "ProgCorrMFG.Approx.theorem_6_2", "child": "ProgCorrMFG_Approx_MFG", "via": ["solution", "statement"]}
 {"parent": "NLogN.IOp.Step.runs", "child": "IntMul_HvdH_M_Defs4", "via": ["solution", "statement"]}
-{"parent": "RoundRobinEq.SubmodularBluff.theorem_3_7", "child": "RoundRobinEq_SubmodularBluff_Setting", "via": ["statement"]}
-{"parent": "RoundRobinEq.SubmodularBluff.theorem_3_7", "child": "RoundRobinEq_SubmodularBluff_Bluff", "via": ["statement"]}
+{"parent": "RoundRobinEq.SubmodularBluff.theorem_3_7", "child": "RoundRobinEq_SubmodularBluff_Setting", "via": ["solution", "statement"]}
+{"parent": "RoundRobinEq.SubmodularBluff.theorem_3_7", "child": "RoundRobinEq_SubmodularBluff_Bluff", "via": ["solution", "statement"]}
 {"parent": "OTSensitivity.MaxFun.eq_63", "child": "OTSensitivity_MaxFun_Setting", "via": ["statement"]}
 {"parent": "OTSensitivity.MaxFun.eq_63", "child": "RWPI_SqrtLasso_transportCost", "via": ["statement"]}
 {"parent": "OneTwoThree.Weighting.lemma_9_conflict_repair", "child": "OneTwoThree_Weighting_Setting", "via": ["statement"]}

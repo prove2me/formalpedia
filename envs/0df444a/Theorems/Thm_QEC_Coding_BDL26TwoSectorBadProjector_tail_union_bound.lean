@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_tail_union_bound
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.tail_union_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:00:36.604319+00:00
 -- url     : https://prove2.me/theorems/ff2ece4d-ffe4-4f52-9340-94268147d7f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_simpleGraph_orderedEdgeCount_facts__p2m_bf9a75f5_fb19_4298_9037_82dd49bb2208_a1
 -- name    : WilliamsonShmoys.simpleGraph_orderedEdgeCount_facts__p2m_bf9a75f5_fb19_4298_9037_82dd49bb2208_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:13:16.990578+00:00
 -- url     : https://prove2.me/theorems/0c6db297-72bf-4106-a445-c2372bf77dfb

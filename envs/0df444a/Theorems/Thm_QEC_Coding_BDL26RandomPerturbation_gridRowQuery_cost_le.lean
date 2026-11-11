@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_gridRowQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.gridRowQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:58:37.13597+00:00
 -- url     : https://prove2.me/theorems/73cd1a8a-9b38-4432-9971-5d544948c586

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXErrorPullback_embedded_coarse
 -- name    : QEC.Coding.BDL26RXErrorPullback.embedded_coarse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:19:07.698169+00:00
 -- url     : https://prove2.me/theorems/4ecd94e9-b42d-4a6b-a85d-0de2e96dfe69

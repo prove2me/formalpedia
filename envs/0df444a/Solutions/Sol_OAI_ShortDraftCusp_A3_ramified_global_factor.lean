@@ -1,0 +1,97 @@
+-- Prove2me | solution 1 for OAI.ShortDraftCusp.A3_ramified_global_factor
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T01:36:19.135806+00:00
+-- url     : https://prove2.me/submissions/7dec6800-387d-4213-9add-ece0787bb633
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_BesselMellinTransform
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_TranslatedFourierResidues
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_ResidualCuspDecay
+import Theorems.Thm_OAI_ShortDraftCusp_A3_principal_global
+import Theorems.Thm_OAI_ShortDraftCusp_A3_ramified_global
+
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open OAI.ShortDraftCusp
+open ActualEisensteinCubic CubicJacobiGlobal CubicKubota
+local notation "Eis" => ActualEisensteinCubic.O
+namespace OAI.ShortDraftCusp
+theorem _root_.solution (a b c0 r d u : Eis)
+    (hdet : a*d-b*(u*(c0*r))=1)
+    (ha : lambda^2∣a-1) (hA : lambda^2∣(a-u*b)-1) (hr : lambda^2∣r-1) :
+    symbol (u*(c0*r)-u*d) (a-u*b)=
+      (symbol (-u) (a-u*b)*symbol c0 a)*symbol a r := by
+  rw [A3_ramified_global a b (c0*r) d u hdet ha hA,
+    A3_principal_global a c0 r ha hr]
+  ring
+end OAI.ShortDraftCusp

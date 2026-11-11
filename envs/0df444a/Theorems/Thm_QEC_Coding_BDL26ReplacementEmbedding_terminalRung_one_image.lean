@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_terminalRung_one_image
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.terminalRung_one_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:29:25.331907+00:00
 -- url     : https://prove2.me/theorems/71f7b760-ba51-4542-82e7-f836fc09570f

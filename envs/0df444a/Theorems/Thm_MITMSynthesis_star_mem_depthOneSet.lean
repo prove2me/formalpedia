@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MITMSynthesis_star_mem_depthOneSet
 -- name    : MITMSynthesis.star_mem_depthOneSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:05:54.973801+00:00
 -- url     : https://prove2.me/theorems/4e429c5b-30e6-45fb-8516-b19179b66273

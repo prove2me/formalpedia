@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_z_check_card
 -- name    : QEC.Coding.BDL26CSSHamiltonian.z_check_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:24:03.38663+00:00
 -- url     : https://prove2.me/theorems/0bef9146-f18d-414b-b2c0-3baf53ef1cac

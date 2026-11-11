@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_colorMatchQuery_cost_le
 -- name    : QEC.Coding.BDL26RandomPerturbation.colorMatchQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:00:32.881423+00:00
 -- url     : https://prove2.me/theorems/8b28d965-73d3-40c3-9d87-860d7c48f0b5

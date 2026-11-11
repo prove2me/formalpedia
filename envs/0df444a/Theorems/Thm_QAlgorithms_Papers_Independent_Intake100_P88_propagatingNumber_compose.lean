@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_propagatingNumber_compose
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.propagatingNumber_compose
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:32:36.583141+00:00
 -- url     : https://prove2.me/theorems/e3fb2c28-5f4c-45fe-b215-1bb5cb284d81

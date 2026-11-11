@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BKAbsorption.cyclic_term_prime
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-11-09T16:15:01.786208+00:00
 -- url     : https://prove2.me/submissions/3e9dad22-9cd5-41da-833a-85e6bece1bf3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_BKAbsorption_defs
 import Theorems.Thm_BKAbsorption_cyclic_of_congruence

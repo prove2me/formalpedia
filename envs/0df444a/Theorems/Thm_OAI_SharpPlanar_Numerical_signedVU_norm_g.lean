@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_Numerical_signedVU_norm_g
 -- name    : OAI.SharpPlanar.Numerical.signedVU_norm_g
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-09T20:50:46.273117+00:00
 -- url     : https://prove2.me/theorems/d34ab9a1-5e40-4f5b-9b20-7d644b41bd0c

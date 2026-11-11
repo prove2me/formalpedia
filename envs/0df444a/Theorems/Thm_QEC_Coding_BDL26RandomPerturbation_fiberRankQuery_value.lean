@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_fiberRankQuery_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.fiberRankQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:53:49.651632+00:00
 -- url     : https://prove2.me/theorems/dce9f4f5-2c2b-4aaa-a69b-a2d7e8509da2

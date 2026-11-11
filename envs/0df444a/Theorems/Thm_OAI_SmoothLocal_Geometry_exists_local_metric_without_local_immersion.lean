@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SmoothLocal_Geometry_exists_local_metric_without_local_immersion
 -- name    : OAI.SmoothLocal.Geometry.exists_local_metric_without_local_immersion
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:22.802352+00:00
 -- url     : https://prove2.me/theorems/ac8f0ec6-a13e-4856-9592-ed3937bc9cc1

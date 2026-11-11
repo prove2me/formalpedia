@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LittleFinitistic_extreme_left_right_asymmetry
 -- name    : OAI.LittleFinitistic.extreme_left_right_asymmetry
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:53.923304+00:00
 -- url     : https://prove2.me/theorems/8062358b-a0f9-44e3-a316-c37ed893eb60

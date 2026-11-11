@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_monochromatic_addresses_injective
 -- name    : QEC.Coding.BDL26RandomPerturbation.monochromatic_addresses_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:51:02.486559+00:00
 -- url     : https://prove2.me/theorems/8fcb38a6-562e-4480-b355-37504233be8e

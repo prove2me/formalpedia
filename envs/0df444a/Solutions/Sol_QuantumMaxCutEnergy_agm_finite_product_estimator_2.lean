@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for QuantumMaxCutEnergy.agm_finite_product_estimator
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-01T16:51:22.8562+00:00
 -- url     : https://prove2.me/submissions/8f0ef8cb-1e51-42e6-a480-f69cab962a2d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QuantumMaxCutEnergyEstimationModel
 import Definitions.Def_QuantumMaxCutFiniteNumericRuntime

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPMI_Hierarchy_theorem_2_5
 -- name    : RobustPMI.Hierarchy.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:18:00.138434+00:00
 -- url     : https://prove2.me/theorems/95574e4b-6fee-4eb0-8a6b-5ba309342148

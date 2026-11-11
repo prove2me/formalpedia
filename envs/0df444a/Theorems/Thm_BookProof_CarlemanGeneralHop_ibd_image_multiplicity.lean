@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanGeneralHop_ibd_image_multiplicity
 -- name    : BookProof.CarlemanGeneralHop.ibd_image_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:44:16.270964+00:00
 -- url     : https://prove2.me/theorems/5bd6deeb-c7fb-452e-b291-0588ab8434f9

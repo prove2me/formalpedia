@@ -99614,8 +99614,8 @@
 {"parent": "ExtADMM.StrongCvx.fixed_matrix_mapping", "child": "ExtADMM_StrongCvx_Setting", "via": ["solution", "statement"]}
 {"parent": "ExtADMM.StrongCvx.spectral_radius", "child": "ExtADMM_StrongCvx_Example41", "via": ["statement"]}
 {"parent": "ExtADMM.StrongCvx.spectral_radius", "child": "ExtADMM_StrongCvx_Setting", "via": ["statement"]}
-{"parent": "ExtADMM.StrongCvx.theorem_4_1", "child": "ExtADMM_StrongCvx_Example41", "via": ["statement"]}
-{"parent": "ExtADMM.StrongCvx.theorem_4_1", "child": "ExtADMM_StrongCvx_Setting", "via": ["statement"]}
+{"parent": "ExtADMM.StrongCvx.theorem_4_1", "child": "ExtADMM_StrongCvx_Example41", "via": ["solution", "statement"]}
+{"parent": "ExtADMM.StrongCvx.theorem_4_1", "child": "ExtADMM_StrongCvx_Setting", "via": ["solution", "statement"]}
 {"parent": "ExtADMM_StrongCvx_Example41", "child": "ExtADMM_Diverge_Setting", "via": ["statement"]}
 {"parent": "ExtADMM_StrongCvx_Example41", "child": "ExtADMM_StrongCvx_Setting", "via": ["statement"]}
 {"parent": "ExtCitation.Cyclotomic.clGalAction_omegaEigenspace_two_eq_bot", "child": "ClassGroup_GaloisAction", "via": ["statement"]}

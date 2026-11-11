@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for levy_foundations_characterisation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-06T12:27:44.62129+00:00
 -- url     : https://prove2.me/submissions/dc864dcb-d837-43fb-a169-7e152f49d8f5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Independence.CharacteristicFunction
 import Definitions.Def_levy_foundations_isInfinitelyDivisible

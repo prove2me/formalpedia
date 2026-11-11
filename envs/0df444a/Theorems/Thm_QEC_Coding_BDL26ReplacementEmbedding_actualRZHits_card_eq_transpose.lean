@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualRZHits_card_eq_transpose
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualRZHits_card_eq_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:40:33.692716+00:00
 -- url     : https://prove2.me/theorems/c563306a-5998-42bf-8a8b-550aefdc0f2e

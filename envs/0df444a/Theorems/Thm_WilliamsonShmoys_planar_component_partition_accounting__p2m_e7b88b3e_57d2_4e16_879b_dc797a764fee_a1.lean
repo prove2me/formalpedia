@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_component_partition_accounting__p2m_e7b88b3e_57d2_4e16_879b_dc797a764fee_a1
 -- name    : WilliamsonShmoys.planar_component_partition_accounting__p2m_e7b88b3e_57d2_4e16_879b_dc797a764fee_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:23:42.142126+00:00
 -- url     : https://prove2.me/theorems/8191f462-9581-40b2-8ed6-f73b850717b9

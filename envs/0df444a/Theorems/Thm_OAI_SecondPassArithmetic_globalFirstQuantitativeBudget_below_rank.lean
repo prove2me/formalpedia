@@ -1,0 +1,130 @@
+-- Prove2me | Theorems.Thm_OAI_SecondPassArithmetic_globalFirstQuantitativeBudget_below_rank
+-- name    : OAI.SecondPassArithmetic.globalFirstQuantitativeBudget_below_rank
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-10T12:12:35.248613+00:00
+-- url     : https://prove2.me/theorems/f11744a6-3dbb-4ae8-a009-5473fe673424
+-- title:
+--   Second Pass Arithmetic: global First Quantitative Budget below rank
+-- statement:
+--   The Second Pass Arithmetic construction uses the global First Quantitative Budget below rank property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean#L280-L347
+-- source:
+--   https://github.com/LW56e2/quasi-riemann-improved/blob/b83dbbd914c5751acf9bc3389cde58970437278f/lean/OAI/NumberTheory/DirichletL/Eisenstein/BarrierPotential.lean#L280-L347
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_MeanSquare_UnitRows
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_CuspHeight
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_BarrierPotential
+set_option autoImplicit false
+open OAI
+noncomputable section
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+open OAI.SecondPassArithmetic
+open scoped BigOperators Classical
+open MeasureTheory
+open ActualEisensteinCubic
+open FirstPassCubeLabels (primeProduct firstLogDensity)
+open ConcreteTraceCRT (eisEmbedding)
+open RayFourExpansion (RayCharacter)
+
+theorem OAI.SecondPassArithmetic.globalFirstQuantitativeBudget_below_rank (deltaLoss : ℝ) (hδ : 0<deltaLoss) (ε : ℝ) (hε : 0<ε) :
+    ∃Clo Chi : ℝ,0<Clo ∧ 0<Chi ∧ ∀{ι : Type*} [DecidableEq ι]
+      (p : ι→ActualEisensteinCubic.O) (hp : ∀i,p i≠0) [∀i,(Ideal.span {p i}).IsMaximal]
+      (hcop : Pairwise (Function.onFun IsCoprime (fun i=>Ideal.span {p i})))
+      (hg : ∀i,lambda∉Ideal.span {p i}) (_hc : ∀i,ringChar (ActualEisensteinCubic.O⧸Ideal.span {p i})≠2)
+      (_hinj : Function.Injective (fun i=>Ideal.span {p i}))
+      (base : ActualEisensteinCubic.O→*ℂ) (bad : Ideal ActualEisensteinCubic.O) (Z η : ℝ) (Ψ : ActualEisensteinCubic.O→*ℂ) (m : ActualEisensteinCubic.O)
+      (labels : Finset (Ideal ActualEisensteinCubic.O)) (X F Ksrc : ℝ)
+      (_hstate : CanonicalStateCondition base bad Z η Ψ m labels X F Ksrc)
+      (pool : Finset ι) (blocks : Finset (GlobalCubeBlock ι)) (side : Bool)
+      (windows : Fin 7→ℝ→ℂ) (C Cd Ct Γ E oldHeight B M H U A₀ Vmax : ℝ) (N J Ntail : ℕ),
+      (∀u,‖base u‖≤1) → (∀i,IsCoprime (Ideal.span {p i}) bad) →
+      1<Z → Real.exp 9000≤Z → 0≤η → η≤(1:ℝ)/1000 →
+      0≤C → 0≤Γ → 0≤E → 1≤U → 1≤B → 0≤H →
+      Ksrc/Z^η≤U → X/B^3≤U → Real.exp 1*B≤U → H≤U → Real.exp M≤U →
+      Z^((1:ℝ)/1000)≤(Real.exp 1*B)*F → 0≤A₀ → 0≤Vmax →
+      (∀t,‖windows 5 t‖≤Vmax) → (∀t,‖windows 6 t‖≤Vmax) →
+      (∀t,windows 5 t≠0→|t|≤A₀) → (∀t,windows 6 t≠0→|t|≤A₀) →
+      (∀b∈blocks,‖eisEmbedding (primeProduct p b.cube.support b.cube.leftExponent)‖^2≤Real.exp 1*B) →
+      (∀b∈blocks,‖eisEmbedding (primeProduct p b.cube.support b.cube.rightExponent)‖^2≤Real.exp 1*B) →
+      (∀(Ψ' : ActualEisensteinCubic.O→*ℂ) (m' : ActualEisensteinCubic.O) (labels' : Finset (Ideal ActualEisensteinCubic.O)) (X' F' K' : ℝ),
+        CanonicalStateCondition base bad Z η Ψ' m' labels' X' F' K' →
+        fixedDepthRank Z K'<fixedDepthRank Z Ksrc → ∀s : ℝ,
+        (canonicalLogEnergy p hp hcop hg pool (normHeightTwist Ψ' s) m' labels'
+          (orientedLogProfile true (windows 5)) X' K'≤E*(X'*F')^2*(1+‖s‖)^(2*J)) ∧
+        (canonicalLogEnergy p hp hcop hg pool (normHeightTwist Ψ' s) m' labels'
+          (orientedLogProfile false (windows 6)) X' K'≤E*(X'*F')^2*(1+‖s‖)^(2*J))) →
+      globalFirstQuantitativeBudget p hp hcop hg pool blocks (normHeightTwist Ψ oldHeight) m windows
+        C Cd Ct Γ ε (Ksrc/Z^η) (X/B^3) (Real.exp 1*B) F M H U (N+1) (2*J) Ntail side≤
+        (∫t : ℝ,firstLogDensity 0 t)*(512*(512*32))*Γ*(((X/B^3)*(Real.exp 1*B)^3)*F)*
+          (((Real.exp 1*B)*U)^ε*(Cd+Ct*globalFirstTailFactor (Ksrc/Z^η) (X/B^3) (Real.exp 1*B) F U H Ntail)+
+           C*globalRayTripleConstant*U^(deltaLoss+8*ε)*
+             (canonicalDensityConstant E J oldHeight*Clo+globalTerminalConstant A₀ Vmax*(Ksrc/Z^η)*Chi/Z^(η*N))) := by sorry

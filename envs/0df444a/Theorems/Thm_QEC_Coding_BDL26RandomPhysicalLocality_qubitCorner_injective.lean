@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPhysicalLocality_qubitCorner_injective
 -- name    : QEC.Coding.BDL26RandomPhysicalLocality.qubitCorner_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:46:50.05858+00:00
 -- url     : https://prove2.me/theorems/3950e638-5831-4c83-adcd-4e5f5eeaea2c

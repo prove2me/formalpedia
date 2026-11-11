@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_fineQuadrant_boundaryUnit
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.fineQuadrant_boundaryUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:01:26.099415+00:00
 -- url     : https://prove2.me/theorems/0ecdf2d8-eae0-4240-a486-6a4856a15a20

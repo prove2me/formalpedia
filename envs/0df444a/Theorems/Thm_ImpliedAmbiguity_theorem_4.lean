@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpliedAmbiguity_theorem_4
 -- name    : ImpliedAmbiguity.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:41.242402+00:00
 -- url     : https://prove2.me/theorems/432a9c59-822d-4a4f-bd47-9104919c05fd

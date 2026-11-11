@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_labelled_code_carrier_finrank_two
 -- name    : QEC.Coding.BDL26CSSHamiltonian.labelled_code_carrier_finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:32:38.591192+00:00
 -- url     : https://prove2.me/theorems/edcfb229-6734-476b-94ed-551cc028392d

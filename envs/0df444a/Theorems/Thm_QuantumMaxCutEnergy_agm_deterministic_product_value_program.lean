@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMaxCutEnergy_agm_deterministic_product_value_program
 -- name    : QuantumMaxCutEnergy.agm_deterministic_product_value_program
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-01T15:00:57.821723+00:00
 -- url     : https://prove2.me/theorems/8462331b-7265-4abd-937a-bd8ab0ac926b

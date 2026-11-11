@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FullQuadratic.weylxp_gen
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T13:57:43.197124+00:00
 -- url     : https://prove2.me/submissions/64e0a206-1472-467a-87d5-f0e088b193c4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFullQuadraticEsa.lean — solution of BookProof.FullQuadratic.weylxp_gen
 import Mathlib

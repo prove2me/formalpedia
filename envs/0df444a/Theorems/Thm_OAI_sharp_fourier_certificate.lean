@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_sharp_fourier_certificate
 -- name    : OAI.sharp_fourier_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:41.580421+00:00
 -- url     : https://prove2.me/theorems/af41e033-4398-4622-b846-eb78a60e2851

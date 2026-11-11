@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SiegelZeros_WeightedTorusJets_exists_absolute_real_zero_gap
 -- name    : OAI.SiegelZeros.WeightedTorusJets.exists_absolute_real_zero_gap
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:21.446419+00:00
 -- url     : https://prove2.me/theorems/33e463e1-583b-4d52-9222-fbdb58a08e61

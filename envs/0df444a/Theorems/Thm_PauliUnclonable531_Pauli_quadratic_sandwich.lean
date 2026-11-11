@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliUnclonable531_Pauli_quadratic_sandwich
 -- name    : PauliUnclonable531.Pauli.quadratic_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:08:47.407835+00:00
 -- url     : https://prove2.me/theorems/d34f2163-05e0-4c11-964b-46fd86edd21e
