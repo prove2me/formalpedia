@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseCycleTargetAction_of_endpoint
 -- name    : QEC.Distillation.PhaseInjection.phaseCycleTargetAction_of_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:22:51.854394+00:00
 -- url     : https://prove2.me/theorems/3a976deb-c11f-44e5-82ca-711e6a63f5b9

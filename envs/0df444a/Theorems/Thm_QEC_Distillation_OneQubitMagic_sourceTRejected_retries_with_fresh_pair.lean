@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTRejected_retries_with_fresh_pair
 -- name    : QEC.Distillation.OneQubitMagic.sourceTRejected_retries_with_fresh_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:14:55.900175+00:00
 -- url     : https://prove2.me/theorems/e2b30bfe-23a2-4c7b-b292-9627f8169682

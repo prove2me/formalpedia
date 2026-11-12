@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabilityDichotomies_Solvability_stable_solvability_dichotomy
 -- name    : StabilityDichotomies.Solvability.stable_solvability_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:00.582514+00:00
 -- url     : https://prove2.me/theorems/7136f7c5-d7f5-4aa3-963d-10379e887b97

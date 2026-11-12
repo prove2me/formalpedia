@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCohomology_inverse_normalized
 -- name    : QEC.Coding.BDL26RXCohomology.inverse_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:45:55.305111+00:00
 -- url     : https://prove2.me/theorems/9193c87f-93dc-44f3-b9eb-a9a6fa301de9

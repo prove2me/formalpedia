@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P47_channel_extension_nonsignaling
 -- name    : QAlgorithms.Papers.Independent.Extend50.P47.channel_extension_nonsignaling
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:39:16.921164+00:00
 -- url     : https://prove2.me/theorems/0d2c2a52-43a7-4518-992b-0fc2e8999c4d

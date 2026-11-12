@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_event_probability_real_decay
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_event_probability_real_decay
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:02:03.169693+00:00
 -- url     : https://prove2.me/theorems/aa563f5e-a20b-4856-b0f8-d884ad3cf749

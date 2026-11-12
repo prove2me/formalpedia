@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_pureX_word
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.pureX_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:02:58.193752+00:00
 -- url     : https://prove2.me/theorems/0266f65b-b8e5-4a43-a4ad-40ced7486288

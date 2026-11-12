@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleeWalkup67_FiveStep_proposition_4_1
 -- name    : KleeWalkup67.FiveStep.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:07:17.492836+00:00
 -- url     : https://prove2.me/theorems/b3a76518-d49e-4dfc-9d81-5aeb2df1a327

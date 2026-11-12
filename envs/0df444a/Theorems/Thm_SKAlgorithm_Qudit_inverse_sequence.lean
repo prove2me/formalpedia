@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_inverse_sequence
 -- name    : SKAlgorithm.Qudit.inverse_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:53.466779+00:00
 -- url     : https://prove2.me/theorems/e5d3917c-3396-4502-b017-f58966f3f093

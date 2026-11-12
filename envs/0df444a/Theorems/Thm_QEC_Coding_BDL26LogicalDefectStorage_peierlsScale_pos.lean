@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_peierlsScale_pos
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.peierlsScale_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:35:47.922551+00:00
 -- url     : https://prove2.me/theorems/ffb63693-163c-4de0-84d4-91fe7428ecdb

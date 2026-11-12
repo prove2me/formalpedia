@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedySuperstring_LowerBound_greedy_invariants
 -- name    : GreedySuperstring.LowerBound.greedy_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:29:07.677264+00:00
 -- url     : https://prove2.me/theorems/ef12188e-89c3-42c4-8e84-639764a24d42

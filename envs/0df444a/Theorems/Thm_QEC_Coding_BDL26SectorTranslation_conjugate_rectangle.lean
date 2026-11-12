@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_conjugate_rectangle
 -- name    : QEC.Coding.BDL26SectorTranslation.conjugate_rectangle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:47:48.537832+00:00
 -- url     : https://prove2.me/theorems/281edc19-48c0-422f-9582-5d99f2e3c673

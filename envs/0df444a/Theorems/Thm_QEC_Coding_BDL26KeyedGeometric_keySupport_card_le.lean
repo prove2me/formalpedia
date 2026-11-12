@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_keySupport_card_le
 -- name    : QEC.Coding.BDL26KeyedGeometric.keySupport_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:57:48.216137+00:00
 -- url     : https://prove2.me/theorems/1c0b5b09-34dc-4ecb-b5be-8563ceeb2d67

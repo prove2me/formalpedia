@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngageInfo_eq_5_price_response
 -- name    : EngageInfo.eq_5_price_response
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:18:42.725029+00:00
 -- url     : https://prove2.me/theorems/6881dcd3-4429-4a90-87cc-c97f7d61070e

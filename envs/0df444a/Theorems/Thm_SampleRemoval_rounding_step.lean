@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleRemoval_rounding_step
 -- name    : SampleRemoval.rounding_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:13:35.973691+00:00
 -- url     : https://prove2.me/theorems/4422fd30-e8d4-4322-abef-0f108f16e341

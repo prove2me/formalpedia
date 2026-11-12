@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_indexed_left_inverse
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.indexed_left_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:54:54.724803+00:00
 -- url     : https://prove2.me/theorems/815d51f4-d984-4bba-bc35-e37e816124a7

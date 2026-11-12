@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorRankN2M_ThreeTwoM_eq_1_2
 -- name    : TensorRankN2M.ThreeTwoM.eq_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:17:59.227201+00:00
 -- url     : https://prove2.me/theorems/3fc321fc-1dad-463c-ba2c-af2e1bee4073

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26QuantitativeBounds_subdivisionEdge_card
 -- name    : QEC.Coding.BDL26QuantitativeBounds.subdivisionEdge_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:18:11.907583+00:00
 -- url     : https://prove2.me/theorems/cb85a467-5621-4081-9d16-8048b4b2f967

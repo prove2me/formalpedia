@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_amp_coordinate_prob
 -- name    : ProxGapTight.amp_coordinate_prob
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:49:30.348465+00:00
 -- url     : https://prove2.me/theorems/6d056c57-f155-4d9e-9ebb-0b17d6dde0b9

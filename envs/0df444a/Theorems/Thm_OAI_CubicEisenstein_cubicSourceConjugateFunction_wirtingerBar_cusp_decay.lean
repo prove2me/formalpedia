@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSourceConjugateFunction_wirtingerBar_cusp_decay
 -- name    : OAI.CubicEisenstein.cubicSourceConjugateFunction_wirtingerBar_cusp_decay
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:31:45.446195+00:00
 -- url     : https://prove2.me/theorems/3323d622-3d91-4be5-b971-0c958be999a1

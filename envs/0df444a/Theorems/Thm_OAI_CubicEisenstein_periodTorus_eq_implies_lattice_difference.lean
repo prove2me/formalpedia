@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_periodTorus_eq_implies_lattice_difference
 -- name    : OAI.CubicEisenstein.periodTorus_eq_implies_lattice_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:51:04.453257+00:00
 -- url     : https://prove2.me/theorems/7dfe8929-0304-461b-9870-b60c22cfe444

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_mass_union
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.mass_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:29:31.064527+00:00
 -- url     : https://prove2.me/theorems/76679aa8-18f9-4990-9396-c14715ef2032

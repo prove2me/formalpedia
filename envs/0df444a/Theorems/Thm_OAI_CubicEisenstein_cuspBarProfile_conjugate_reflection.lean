@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cuspBarProfile_conjugate_reflection
 -- name    : OAI.CubicEisenstein.cuspBarProfile_conjugate_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:07:57.126198+00:00
 -- url     : https://prove2.me/theorems/216631d2-e795-4530-8e94-43e6afa4aba5

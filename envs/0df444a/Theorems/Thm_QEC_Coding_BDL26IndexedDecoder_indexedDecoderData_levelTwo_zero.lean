@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IndexedDecoder_indexedDecoderData_levelTwo_zero
 -- name    : QEC.Coding.BDL26IndexedDecoder.indexedDecoderData_levelTwo_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:31:30.916967+00:00
 -- url     : https://prove2.me/theorems/c5507112-4c4a-44f5-b4d5-b6cd6c94855b

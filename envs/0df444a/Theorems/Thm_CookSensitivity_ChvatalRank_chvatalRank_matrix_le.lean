@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_chvatalRank_matrix_le
 -- name    : CookSensitivity.ChvatalRank.chvatalRank_matrix_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:06:36.529193+00:00
 -- url     : https://prove2.me/theorems/168c0e9f-9231-43b7-a292-0577a513b0fc

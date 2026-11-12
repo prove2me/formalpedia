@@ -1,0 +1,78 @@
+-- Prove2me | solution 1 for QEC.Distillation.OneQubitMagic.cliffordNegativePiDivSixFinitePrecisionOneQubitUniversal
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-12T05:22:07.217168+00:00
+-- url     : https://prove2.me/submissions/c5e54ff0-092f-409a-b4b3-4d1fe65abbcc
+
+import Definitions.Def_QEC_Distillation_Universality_SU2GeneratedDensity
+import Mathlib.NumberTheory.Niven
+import Definitions.Def_QEC_Distillation_Universality_TPhaseGeneratedUniversality
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_cliffordTResourceFinitePrecisionOneQubitUniversal
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamard_conj_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseInverseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_symm_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftTransport_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phase_conj_one
+import Theorems.Thm_QEC_Distillation_phaseNormalize_matrix
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamard_conj_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseInverseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_symm_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftTransport_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phase_conj_one
+attribute [local simp] QEC.Distillation.phaseNormalize_matrix
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+
+
+
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Distillation
+open QEC.Distillation.OneQubitMagic
+open GeneratedUniversality
+namespace QEC.Distillation.OneQubitMagic
+theorem _root_.solution :
+    FinitePrecisionOneQubitUniversal
+      (cliffordPhaseGenerators (-Real.pi / 6)) := by
+  simpa [tResourcePhaseAngle] using
+    cliffordTResourceFinitePrecisionOneQubitUniversal
+end QEC.Distillation.OneQubitMagic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsingVectorBalancing_Subgaussian_claim_8
 -- name    : IsingVectorBalancing.Subgaussian.claim_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T01:34:09.060413+00:00
 -- url     : https://prove2.me/theorems/d0e0d3c0-ea94-4081-bc65-f5028538eb65

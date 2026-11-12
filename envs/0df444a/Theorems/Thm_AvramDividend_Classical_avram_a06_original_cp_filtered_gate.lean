@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_cp_filtered_gate
 -- name    : AvramDividend.Classical.avram_a06_original_cp_filtered_gate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T20:22:09.566961+00:00
 -- url     : https://prove2.me/theorems/962fdfab-3164-480a-bfad-e2553b8037d9

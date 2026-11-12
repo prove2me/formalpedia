@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P20_two_block_pinching
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P20.two_block_pinching
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T04:42:21.91795+00:00
 -- url     : https://prove2.me/theorems/1c11d65e-d78f-491a-a9ab-b28efaccdee0

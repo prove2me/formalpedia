@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CookSensitivity.ChvatalRank.chvatalRank_matrix_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-28T09:42:26.014859+00:00
 -- url     : https://prove2.me/submissions/aed479ed-76a1-4a40-b649-4d8b7024a901
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CookSensitivity_ChvatalRank_maxSubdet
 import Definitions.Def_CookSensitivity_ChvatalRank_IntegerProgram

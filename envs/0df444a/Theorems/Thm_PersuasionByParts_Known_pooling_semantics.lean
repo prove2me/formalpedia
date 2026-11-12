@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_pooling_semantics
 -- name    : PersuasionByParts.Known.pooling_semantics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:30:21.608597+00:00
 -- url     : https://prove2.me/theorems/ba36fea1-049e-451c-9f3f-67a0ae2380ba

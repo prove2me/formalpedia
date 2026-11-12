@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_tail_nonneg
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.tail_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:25:03.283415+00:00
 -- url     : https://prove2.me/theorems/afb765e4-1ed3-4aff-9b99-bf805ed7b8a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_atlas_rows_cost
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.atlas_rows_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:44:48.31725+00:00
 -- url     : https://prove2.me/theorems/ce187f44-4b95-4c4d-9a59-95162e4905e9

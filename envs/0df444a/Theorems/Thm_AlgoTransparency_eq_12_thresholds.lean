@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoTransparency_eq_12_thresholds
 -- name    : AlgoTransparency.eq_12_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:52:40.633269+00:00
 -- url     : https://prove2.me/theorems/db1cb4b7-9d52-4b9b-9d6f-1bc18b784e7d

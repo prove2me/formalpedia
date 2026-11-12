@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_locate_vertex
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.locate_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:50:16.582391+00:00
 -- url     : https://prove2.me/theorems/ae7c0258-50aa-4266-8cd2-c1b35b13a56b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_translation_involutive
 -- name    : QEC.Coding.BDL26SectorTranslation.translation_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:42:28.42611+00:00
 -- url     : https://prove2.me/theorems/bb2f6919-e236-4939-978d-e6ea69267d22

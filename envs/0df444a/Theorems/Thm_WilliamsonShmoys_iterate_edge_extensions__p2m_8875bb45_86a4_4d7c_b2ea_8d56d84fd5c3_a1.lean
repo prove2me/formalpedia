@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_iterate_edge_extensions__p2m_8875bb45_86a4_4d7c_b2ea_8d56d84fd5c3_a1
 -- name    : WilliamsonShmoys.iterate_edge_extensions__p2m_8875bb45_86a4_4d7c_b2ea_8d56d84fd5c3_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:15:24.258622+00:00
 -- url     : https://prove2.me/theorems/99c4ffa4-e8f8-4690-8e77-fae2afbeca57

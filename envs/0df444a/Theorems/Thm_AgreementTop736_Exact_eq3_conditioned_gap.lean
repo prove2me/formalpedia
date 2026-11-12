@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_eq3_conditioned_gap
 -- name    : AgreementTop736.Exact.eq3_conditioned_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:14.770196+00:00
 -- url     : https://prove2.me/theorems/b8107fce-e353-4f56-890d-a5b40c836939

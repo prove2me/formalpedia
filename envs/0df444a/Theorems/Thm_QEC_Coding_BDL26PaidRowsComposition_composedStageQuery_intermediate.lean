@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_composedStageQuery_intermediate
 -- name    : QEC.Coding.BDL26PaidRowsComposition.composedStageQuery_intermediate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:53:59.040956+00:00
 -- url     : https://prove2.me/theorems/7ca60017-8452-4f2a-843e-43e0c05ff44f

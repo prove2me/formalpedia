@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_dim_Um_le
 -- name    : ProxGapTight.dim_Um_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:57:12.903363+00:00
 -- url     : https://prove2.me/theorems/28a53c7d-ae05-461c-b675-18ff2a199136

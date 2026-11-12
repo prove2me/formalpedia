@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_hResourceTransport_sourceHState
 -- name    : QEC.Distillation.OneQubitMagic.hResourceTransport_sourceHState
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:12:25.935491+00:00
 -- url     : https://prove2.me/theorems/2aece5f0-1c3b-4b01-8bb1-cbcc05f72d14

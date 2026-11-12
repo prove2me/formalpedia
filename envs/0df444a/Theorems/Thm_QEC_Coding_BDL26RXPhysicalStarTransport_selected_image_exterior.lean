@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXPhysicalStarTransport_selected_image_exterior
 -- name    : QEC.Coding.BDL26RXPhysicalStarTransport.selected_image_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:08:41.267198+00:00
 -- url     : https://prove2.me/theorems/36423ac8-21e3-4092-96ed-c6df5ad75333

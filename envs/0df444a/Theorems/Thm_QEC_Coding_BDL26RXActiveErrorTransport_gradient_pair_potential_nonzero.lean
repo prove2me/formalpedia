@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_gradient_pair_potential_nonzero
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.gradient_pair_potential_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:51:24.536915+00:00
 -- url     : https://prove2.me/theorems/9b960b3f-80fd-4b60-930c-587a42945fbf

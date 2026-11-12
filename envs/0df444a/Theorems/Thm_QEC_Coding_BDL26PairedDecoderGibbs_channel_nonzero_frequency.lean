@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_channel_nonzero_frequency
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.channel_nonzero_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:18:16.249595+00:00
 -- url     : https://prove2.me/theorems/2996bdf8-2378-4f4e-8da2-4d905c5730f5

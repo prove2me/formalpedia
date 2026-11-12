@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_equal_errors_zero_potential
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.equal_errors_zero_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:16:24.771146+00:00
 -- url     : https://prove2.me/theorems/b61cb61b-d58f-4e2d-b205-6cda80725d70

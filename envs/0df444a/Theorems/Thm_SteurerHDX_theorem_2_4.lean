@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteurerHDX_theorem_2_4
 -- name    : SteurerHDX.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:35:40.289068+00:00
 -- url     : https://prove2.me/theorems/614ac4c1-dbdd-49b9-b290-2b23064a1993

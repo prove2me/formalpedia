@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PerfectCompleteness_Theorem11_exists_reduction
 -- name    : OAI.PerfectCompleteness.Theorem11.exists_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:02.08498+00:00
 -- url     : https://prove2.me/theorems/bc65be63-ef37-4eb6-a220-2c85cea88e54

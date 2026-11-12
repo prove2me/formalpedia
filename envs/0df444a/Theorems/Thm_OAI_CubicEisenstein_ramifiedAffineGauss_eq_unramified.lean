@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_ramifiedAffineGauss_eq_unramified
 -- name    : OAI.CubicEisenstein.ramifiedAffineGauss_eq_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:38:50.85844+00:00
 -- url     : https://prove2.me/theorems/7dec3740-f1b4-4c2d-b5cc-e3d12c0e7c1b

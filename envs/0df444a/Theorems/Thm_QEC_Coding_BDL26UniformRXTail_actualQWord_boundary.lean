@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actualQWord_boundary
 -- name    : QEC.Coding.BDL26UniformRXTail.actualQWord_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:29:22.458168+00:00
 -- url     : https://prove2.me/theorems/710c7595-fac6-4844-8a4d-ca12289a232b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P89_naive_heralding_success
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P89.naive_heralding_success
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:28:29.565787+00:00
 -- url     : https://prove2.me/theorems/c6597fc1-1662-4e55-abdc-ffaaf64a91ef

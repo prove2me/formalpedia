@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_localZWitnessLower_val
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.localZWitnessLower_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:11:15.101317+00:00
 -- url     : https://prove2.me/theorems/99090a83-15b3-4076-941d-2e6dd807ef5c

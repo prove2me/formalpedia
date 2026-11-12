@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_foldedSquare_branches_agree
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.foldedSquare_branches_agree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:49:12.305912+00:00
 -- url     : https://prove2.me/theorems/1be50502-0d2e-40c3-971f-a2eeb06af5e0

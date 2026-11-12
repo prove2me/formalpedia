@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BareLogicalPair_canonical_seed_word
 -- name    : QEC.Coding.BDL26BareLogicalPair.canonical_seed_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:34:27.903085+00:00
 -- url     : https://prove2.me/theorems/61afff3e-8afb-4a63-92df-353a90c38193

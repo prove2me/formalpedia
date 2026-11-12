@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P94_promotion_aggregation
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P94.promotion_aggregation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:46:20.285436+00:00
 -- url     : https://prove2.me/theorems/8e31f046-74bf-4370-9c90-bb7a751abdac

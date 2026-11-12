@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_upperSyndromeRaw_mem_range
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.upperSyndromeRaw_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:36:28.994097+00:00
 -- url     : https://prove2.me/theorems/cb6b4f04-6d99-49ef-8d57-dd088ea8f857

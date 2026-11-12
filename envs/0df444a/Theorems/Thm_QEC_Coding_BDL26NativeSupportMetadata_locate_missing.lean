@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_locate_missing
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.locate_missing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:42:40.366023+00:00
 -- url     : https://prove2.me/theorems/2df470b8-0c13-49e4-b2ed-d151225aa640

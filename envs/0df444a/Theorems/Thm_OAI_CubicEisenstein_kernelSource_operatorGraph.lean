@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_kernelSource_operatorGraph
 -- name    : OAI.CubicEisenstein.kernelSource_operatorGraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:18:27.166528+00:00
 -- url     : https://prove2.me/theorems/8f2c2e03-9bc6-4d57-8cd1-35c468a27242

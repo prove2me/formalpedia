@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P30_linear_preimage_sizes
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P30.linear_preimage_sizes
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T04:57:52.123007+00:00
 -- url     : https://prove2.me/theorems/b4c0fbf1-52d3-4164-a366-f6d70280c4b6

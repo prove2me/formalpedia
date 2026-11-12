@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_from_simplex_and_edges
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-08T02:35:27.477203+00:00
 -- url     : https://prove2.me/submissions/5a815ba6-8220-4845-be13-27de6259cee2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsDPolytope
 import Definitions.Def_Grunbaum2003_IsSimplicialDPolytope

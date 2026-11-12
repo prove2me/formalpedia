@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_streamStageTrace_finite_prefix
 -- name    : QEC.Coding.BDL26PaidRowsComposition.streamStageTrace_finite_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:39:01.15476+00:00
 -- url     : https://prove2.me/theorems/63442eaf-0bd4-499f-96d3-15c7504b619f

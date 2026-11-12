@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_transferTotal_succ
 -- name    : QEC.Coding.BDL26PaidRowsComposition.transferTotal_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:33:11.684185+00:00
 -- url     : https://prove2.me/theorems/060029ab-b68f-4d42-ba9c-20d0cbd4b174

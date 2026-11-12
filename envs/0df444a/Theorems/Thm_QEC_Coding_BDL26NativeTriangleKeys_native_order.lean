@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_native_order
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.native_order
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:37:58.86911+00:00
 -- url     : https://prove2.me/theorems/a3f20ee4-c18e-4775-8802-a935059d09ee

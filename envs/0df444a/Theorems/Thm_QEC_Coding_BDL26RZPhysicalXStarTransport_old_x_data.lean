@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_old_x_data
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.old_x_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:54:10.903294+00:00
 -- url     : https://prove2.me/theorems/dbd3e159-54aa-4eea-ac6c-1b4624ee5e6b

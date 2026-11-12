@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_sec3_1_cauchy_schwarz_variance
 -- name    : AgreementTop736.Exact.sec3_1_cauchy_schwarz_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:08.666265+00:00
 -- url     : https://prove2.me/theorems/71429731-2562-446d-93a8-442e1abd5fc6

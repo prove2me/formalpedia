@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26QuantitativeBounds_evenState_qubit_card_bounds
 -- name    : QEC.Coding.BDL26QuantitativeBounds.evenState_qubit_card_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:19:47.445428+00:00
 -- url     : https://prove2.me/theorems/26e8e8b1-6965-48a5-963d-5ec4d920686d

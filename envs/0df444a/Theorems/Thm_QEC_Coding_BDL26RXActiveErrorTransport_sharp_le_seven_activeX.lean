@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_sharp_le_seven_activeX
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.sharp_le_seven_activeX
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:27:27.551559+00:00
 -- url     : https://prove2.me/theorems/34265d6b-1783-4b57-b68b-a80e7f4ed6fd

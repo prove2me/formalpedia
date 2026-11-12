@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_structural_zero_card
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.structural_zero_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:55:43.186146+00:00
 -- url     : https://prove2.me/theorems/7c55aeea-9f78-45fd-b8d2-1fe67bfc198f

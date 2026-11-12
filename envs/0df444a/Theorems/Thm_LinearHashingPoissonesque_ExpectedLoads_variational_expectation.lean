@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearHashingPoissonesque_ExpectedLoads_variational_expectation
 -- name    : LinearHashingPoissonesque.ExpectedLoads.variational_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T19:02:54.082445+00:00
 -- url     : https://prove2.me/theorems/8a82b1ce-afdd-4601-ac67-4e399503fe6f

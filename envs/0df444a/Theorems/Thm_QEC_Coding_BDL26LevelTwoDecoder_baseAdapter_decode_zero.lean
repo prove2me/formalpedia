@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDecoder_baseAdapter_decode_zero
 -- name    : QEC.Coding.BDL26LevelTwoDecoder.baseAdapter_decode_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:49:48.086437+00:00
 -- url     : https://prove2.me/theorems/2a3ff758-e635-4c44-a9e8-a2ce8aa9ab3f

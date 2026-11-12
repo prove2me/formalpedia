@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_boolean_quasipoint_upward_extension
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.boolean_quasipoint_upward_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:50:18.160207+00:00
 -- url     : https://prove2.me/theorems/04b20bed-b4d0-469e-ad8e-e16a4baaaa32

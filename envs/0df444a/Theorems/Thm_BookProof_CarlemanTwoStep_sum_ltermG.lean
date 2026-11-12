@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_sum_ltermG
 -- name    : BookProof.CarlemanTwoStep.sum_ltermG
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:50:08.97831+00:00
 -- url     : https://prove2.me/theorems/0aacf9b9-0d51-47ca-b4ba-5db18162e066

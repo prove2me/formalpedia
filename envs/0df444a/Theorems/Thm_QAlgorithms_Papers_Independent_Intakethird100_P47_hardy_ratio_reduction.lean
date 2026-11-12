@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P47_hardy_ratio_reduction
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P47.hardy_ratio_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:35:55.513213+00:00
 -- url     : https://prove2.me/theorems/b8309331-eb76-4eca-a619-94aa6f42152c

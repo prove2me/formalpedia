@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_multiplicity_cardinality
 -- name    : QEC.Coding.BDL26CSSHamiltonian.multiplicity_cardinality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:55:38.939642+00:00
 -- url     : https://prove2.me/theorems/d8e29354-ea16-48ea-b747-473b16045299

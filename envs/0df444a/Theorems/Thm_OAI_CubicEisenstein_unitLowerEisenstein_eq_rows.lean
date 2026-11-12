@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_unitLowerEisenstein_eq_rows
 -- name    : OAI.CubicEisenstein.unitLowerEisenstein_eq_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:32:10.89935+00:00
 -- url     : https://prove2.me/theorems/3003bb8f-d352-4d90-8e36-060831988b72

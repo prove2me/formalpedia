@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakEpsNets_LowerBound_counting_bound
 -- name    : WeakEpsNets.LowerBound.counting_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:26:39.92412+00:00
 -- url     : https://prove2.me/theorems/1185a405-370f-495f-9798-e86267fdaa68

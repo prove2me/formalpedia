@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDecoder_decoderData_selected_zero
 -- name    : QEC.Coding.BDL26LevelTwoDecoder.decoderData_selected_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:29:42.632046+00:00
 -- url     : https://prove2.me/theorems/ce5921fb-92c1-4bac-82e5-a33f1fcc2e8d

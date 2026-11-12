@@ -56255,7 +56255,7 @@
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.gHatFacts_ofSelfConsistencyAndCommutation", "child": "LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.gHatFacts_ofSelfConsistencyAndCommutation", "child": "LIDT_MIPStarRE_LDT_Test_StrategyFailures", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.gHatFacts_ofSelfConsistencyAndCommutation", "child": "LIDT_MIPStarRE_LDT_MainInductionStep_Defs", "via": ["solution", "statement"]}
-{"parent": "PochetWolsey.Capacities.intersection_hull", "child": "PochetWolsey_Capacities_Model", "via": ["statement"]}
+{"parent": "PochetWolsey.Capacities.intersection_hull", "child": "PochetWolsey_Capacities_Model", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c311053_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.mixed_branch_rejection_eq_zero", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ExtendedLineGame.mixed_branch_rejection_eq_zero", "child": "QPBT_QPBT_Observables_Defs", "via": ["solution", "statement"]}

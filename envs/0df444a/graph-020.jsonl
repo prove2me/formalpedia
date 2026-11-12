@@ -72083,9 +72083,9 @@
 {"parent": "QEC.Semantics.Davies.frequencyComponent_one_zero", "child": "QEC_Semantics_Dynamics_Davies_Spectral", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.frequencyComponent_one_zero", "child": "QEC_Semantics_Dynamics_Davies_TraceBound", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.frequencyComponent_one_zero", "child": "QEC_Semantics_Dynamics_Davies_Pinching", "via": ["solution", "statement"]}
-{"parent": "ZeroOneExpansion.fact_5", "child": "ZeroOneExpansion_IsPolytope", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.fact_5", "child": "ZeroOneExpansion_IsAdj", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.fact_5", "child": "ZeroOneExpansion_exposedFace", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.fact_5", "child": "ZeroOneExpansion_IsPolytope", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.fact_5", "child": "ZeroOneExpansion_IsAdj", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.fact_5", "child": "ZeroOneExpansion_exposedFace", "via": ["solution", "statement"]}
 {"parent": "QEC_Semantics_ErrorCorrection_QuditReplacement", "child": "QEC.Semantics.QuantumChannel.id_apply", "via": ["statement"]}
 {"parent": "QEC_Semantics_ErrorCorrection_QuditReplacement", "child": "QEC.Semantics.UnitaryTransport.conjDensity_toOperator", "via": ["statement"]}
 {"parent": "QEC_Semantics_ErrorCorrection_QuditReplacement", "child": "QEC.Semantics.Qudit.finrank_quditRegister_ne_zero", "via": ["statement"]}
@@ -75302,8 +75302,8 @@
 {"parent": "QEC.Coding.FiberBundle.RandomBase.incidenceReal_mem_Icc", "child": "QEC_Coding_FiberBundle_Core", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.incidenceReal_mem_Icc", "child": "QEC_Coding_CSS_ParityChecks", "via": ["solution", "statement"]}
 {"parent": "MetricMinTest_Instance_mean", "child": "MetricMinTest_Instance", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.corollary_10", "child": "ZeroOneExpansion_Pn", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.corollary_10", "child": "ZeroOneExpansion_compatR", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.corollary_10", "child": "ZeroOneExpansion_Pn", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.corollary_10", "child": "ZeroOneExpansion_compatR", "via": ["solution", "statement"]}
 {"parent": "OAI_NumberTheory_DirichletL_Cusp_MatrixPhases", "child": "OAI_NumberTheory_DirichletL_Arithmetic_EisensteinIdeals", "via": ["statement"]}
 {"parent": "OAI_NumberTheory_DirichletL_Cusp_MatrixPhases", "child": "OAI_NumberTheory_DirichletL_ChineseRemainder_AdditiveCharacters", "via": ["statement"]}
 {"parent": "QEC.QLDPC.chainComplexCSSRowChecks_generate_cssXCheck_of_mem_firstCoboundaryCheckCode", "child": "QEC_Coding_QLDPC_Core", "via": ["solution", "statement"]}
@@ -75316,8 +75316,8 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceSelectedRationalPlace_order_galoisBaseParameter_sub_one", "child": "QEC_Coding_AlgebraicGeometry_Towers_SourceSplitOrder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceSelectedRationalPlace_order_galoisBaseParameter_sub_one", "child": "QEC_Coding_AlgebraicGeometry_Towers_SourceSelectedPlaceOrder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceSelectedRationalPlace_order_galoisBaseParameter_sub_one", "child": "QEC_Coding_AlgebraicGeometry_Towers_SourceSelectedPlaces", "via": ["solution", "statement"]}
-{"parent": "ZeroOneExpansion.lemma_13", "child": "ZeroOneExpansion_Sn", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.lemma_13", "child": "ZeroOneExpansion_edgeExpansion", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.lemma_13", "child": "ZeroOneExpansion_Sn", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.lemma_13", "child": "ZeroOneExpansion_edgeExpansion", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_C1_compact_stopped_jump_increment_dominator", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "SplitSat.sum_size_le", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "SplitSat.sum_size_le", "child": "Groundwork.PolyT.map", "via": ["solution", "statement"]}
@@ -76784,7 +76784,7 @@
 {"parent": "ExplicitCost.clique_groupW", "child": "ExplicitCost_GroupingLemma", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.clique_groupW", "child": "ExplicitCost_GroupingNumbers", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.clique_groupW", "child": "GeneralPieces_Main", "via": ["solution", "statement"]}
-{"parent": "ZeroOneExpansion.lemma_12", "child": "ZeroOneExpansion_Sn", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.lemma_12", "child": "ZeroOneExpansion_Sn", "via": ["solution", "statement"]}
 {"parent": "OAI.rational_prime_three_interval_real_count", "child": "OAI_NumberTheory_DirichletL_Poisson_BinaryGaussian", "via": ["solution", "statement"]}
 {"parent": "OAI.rational_prime_three_interval_real_count", "child": "OAI_NumberTheory_DirichletL_GaussSum_GaussianDualLimit", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceClosureCanonicalDivisor_eq", "child": "QEC_Coding_AlgebraicGeometry_Towers_ClosureDifferentialDivisor", "via": ["solution", "statement"]}
@@ -77967,7 +77967,7 @@
 {"parent": "BianchiIX.normalizedMaxCurve_wall_sign", "child": "BianchiIX_Dynamics_Normalized", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.RatFuncInverseInfinityValuation.inverseXFibreValuation_X_inv", "child": "QEC_Coding_AlgebraicGeometry_Places_RatFuncInverseInfinityValuation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.RatFuncInverseInfinityValuation.inverseXFibreValuation_X_inv", "child": "QEC_Coding_AlgebraicGeometry_Places_RationalFieldPlaces", "via": ["solution", "statement"]}
-{"parent": "GuthMaynard.zeroDensityCount_le_uniform_interior", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
+{"parent": "GuthMaynard.zeroDensityCount_le_uniform_interior", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
 {"parent": "RandomLPIPM_algo1Step", "child": "ColumnRandLP_Norms", "via": ["statement"]}
 {"parent": "RandomLPIPM_algo1Step", "child": "RandomLPIPM_gradPhi", "via": ["statement"]}
 {"parent": "RandomLPIPM_algo1Step", "child": "RandomLPIPM_Algo1State", "via": ["statement"]}
@@ -81543,8 +81543,8 @@
 {"parent": "WI_sum_le", "child": "PrimeNumberTheoremAnd_Fourier", "via": ["solution", "statement"]}
 {"parent": "WI_sum_le", "child": "W21.hf", "via": ["solution", "statement"]}
 {"parent": "FourierRankQLB_HasFourierRankCost", "child": "FourierRankQLB_VH", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.lemma_11", "child": "ZeroOneExpansion_crossGraph", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.lemma_11", "child": "ZeroOneExpansion_Pn", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.lemma_11", "child": "ZeroOneExpansion_crossGraph", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.lemma_11", "child": "ZeroOneExpansion_Pn", "via": ["solution", "statement"]}
 {"parent": "RollingProbeQN_Convex_Active", "child": "RollingProbeQN_Convex_run", "via": ["statement"]}
 {"parent": "BianchiIX.connectionReturn_fixed_clock_bounds", "child": "BianchiIX_Algebra_Coordinates", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.connectionReturn_fixed_clock_bounds", "child": "BianchiIX_Algebra_Flow", "via": ["solution", "statement"]}
@@ -87774,7 +87774,7 @@
 {"parent": "QEC.Coding.PauliSymplectic.binarySwapPhase_eq_neg_of_not_commutes", "child": "QEC_Semantics_Channels_Kraus", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PauliSymplectic.binarySwapPhase_eq_neg_of_not_commutes", "child": "QEC_Semantics_ErrorCorrection_KLRecovery", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PauliSymplectic.binarySwapPhase_eq_neg_of_not_commutes", "child": "QEC_Coding_Stabilizer_PauliSemantics", "via": ["solution", "statement"]}
-{"parent": "ZeroOneExpansion.fact_6", "child": "ZeroOneExpansion_cayleySum", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.fact_6", "child": "ZeroOneExpansion_cayleySum", "via": ["solution", "statement"]}
 {"parent": "AnytimeAdaVR.theorem_2", "child": "AnytimeAdaVR_AvgSmooth", "via": ["statement"]}
 {"parent": "AnytimeAdaVR.theorem_2", "child": "AnytimeAdaVR_xhat", "via": ["statement"]}
 {"parent": "AnytimeAdaVR.theorem_2", "child": "AnytimeAdaVR_Noiseless", "via": ["statement"]}
@@ -90204,11 +90204,11 @@
 {"parent": "BianchiIX.exists_terminalCyclicInput_derivative_uniform", "child": "BianchiIX_TerminalConnectionData", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.exists_terminalCyclicInput_derivative_uniform", "child": "BianchiIX_TerminalConeData", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.exists_terminalCyclicInput_derivative_uniform", "child": "BianchiIX_Dynamics_AxisMaps", "via": ["solution", "statement"]}
-{"parent": "ZeroOneExpansion.theorem_1", "child": "ZeroOneExpansion_IsZeroOnePolytope", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.theorem_1", "child": "ZeroOneExpansion_polyDim", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.theorem_1", "child": "Grunbaum2003_polytopeGraph", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.theorem_1", "child": "Grunbaum2003_IsDPolytope", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.theorem_1", "child": "ZeroOneExpansion_edgeExpansion", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.theorem_1", "child": "ZeroOneExpansion_IsZeroOnePolytope", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.theorem_1", "child": "ZeroOneExpansion_polyDim", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.theorem_1", "child": "Grunbaum2003_polytopeGraph", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.theorem_1", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.theorem_1", "child": "ZeroOneExpansion_edgeExpansion", "via": ["solution", "statement"]}
 {"parent": "TreeMultiflow.theorem_2_2_ten", "child": "TreeMultiflow_load", "via": ["statement"]}
 {"parent": "TreeMultiflow.theorem_2_2_ten", "child": "TreeMultiflow_IsLeaf", "via": ["statement"]}
 {"parent": "TreeMultiflow.theorem_2_2_ten", "child": "TreeMultiflow_IsFeasible", "via": ["statement"]}
@@ -94873,8 +94873,8 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.RatFuncFixturePlaces.rationalInfinity_residueDegree_eq_one", "child": "QEC_Coding_AlgebraicGeometry_Places_RatFuncInverseInfinityValuation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.RatFuncFixturePlaces.rationalInfinity_residueDegree_eq_one", "child": "QEC_Coding_AlgebraicGeometry_Places_RatFuncRationalInfinityDegreeTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.GarciaStichtenothParameters.selectedDecodingRadius_oddGenus_zero", "child": "QEC_Coding_AlgebraicGeometry_Towers_GarciaStichtenothParameters", "via": ["solution", "statement"]}
-{"parent": "ZeroOneExpansion.lemma_8", "child": "ZeroOneExpansion_Pn", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.lemma_8", "child": "ZeroOneExpansion_IsAdj", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.lemma_8", "child": "ZeroOneExpansion_Pn", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.lemma_8", "child": "ZeroOneExpansion_IsAdj", "via": ["solution", "statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.LineBundle.ample_framed_cover", "child": "SeshadriPrelim6", "via": ["statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.LineBundle.ample_framed_cover", "child": "MaximalSeshadriConstants", "via": ["statement"]}
 {"parent": "CountedRecursion_CallLemma", "child": "CountedRecursion_CallParts", "via": ["statement"]}
@@ -98062,7 +98062,7 @@
 {"parent": "QEC_Coding_AlgebraicGeometry_Differentials_SchemeRestriction", "child": "QEC_Coding_AlgebraicGeometry_Differentials_SchemeDifferentials", "via": ["statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Differentials_SchemeRestriction", "child": "QEC_Coding_AlgebraicGeometry_Differentials_KaehlerRingIso", "via": ["statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Differentials_SchemeRestriction", "child": "QEC.Coding.AlgebraicGeometry.kaehlerRingIso_forward_bijective", "via": ["statement"]}
-{"parent": "GuthMaynard.huxley_density_estimate_uniform", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
+{"parent": "GuthMaynard.huxley_density_estimate_uniform", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.TunedCandidate.signal_difference", "child": "Transport_SupportedMass", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.TunedCandidate.signal_difference", "child": "Transport_LocalBounds", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.TunedCandidate.signal_difference", "child": "RH.Transport.Geometry.signal_difference", "via": ["solution", "statement"]}

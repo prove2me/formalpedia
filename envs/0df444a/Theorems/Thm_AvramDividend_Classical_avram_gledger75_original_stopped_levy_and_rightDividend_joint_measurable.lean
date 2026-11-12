@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger75_original_stopped_levy_and_rightDividend_joint_measurable
 -- name    : AvramDividend.Classical.avram_gledger75_original_stopped_levy_and_rightDividend_joint_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T01:56:11.497285+00:00
 -- url     : https://prove2.me/theorems/86eedb7d-a59c-494a-b306-f8d84835415b

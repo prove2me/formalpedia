@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZCohomology_oddEquiv_mk
 -- name    : QEC.Coding.BDL26RZCohomology.oddEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:47:55.877541+00:00
 -- url     : https://prove2.me/theorems/47328404-c185-4435-88d6-ac78d810667e

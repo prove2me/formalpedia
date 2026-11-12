@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexRMDP_theorem_4_1
 -- name    : ConvexRMDP.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:18:21.5371+00:00
 -- url     : https://prove2.me/theorems/e2851c7f-43ae-42a3-85c8-f8974daef06e

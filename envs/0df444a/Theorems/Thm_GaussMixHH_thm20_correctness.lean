@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMixHH_thm20_correctness
 -- name    : GaussMixHH.thm20_correctness
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:34:24.946141+00:00
 -- url     : https://prove2.me/theorems/c83e80fe-03a7-450f-a4dd-c1cef5954491

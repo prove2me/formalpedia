@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDecoderAdapter_correctionOwnerAt_region
 -- name    : QEC.Coding.BDL26RXDecoderAdapter.correctionOwnerAt_region
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:20:24.868488+00:00
 -- url     : https://prove2.me/theorems/825ef7d7-4720-46ce-b986-7a90970ee3b9

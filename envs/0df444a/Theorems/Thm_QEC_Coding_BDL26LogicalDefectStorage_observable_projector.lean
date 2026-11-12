@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_observable_projector
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.observable_projector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:21:31.774123+00:00
 -- url     : https://prove2.me/theorems/3fe69ee7-b90a-4489-84d2-c54f2eb25424

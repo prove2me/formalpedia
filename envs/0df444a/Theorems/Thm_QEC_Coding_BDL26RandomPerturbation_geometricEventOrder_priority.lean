@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_geometricEventOrder_priority
 -- name    : QEC.Coding.BDL26RandomPerturbation.geometricEventOrder_priority
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:19:26.569625+00:00
 -- url     : https://prove2.me/theorems/51fc97cc-ee0f-40f1-ba37-b60ba39009ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerivationHitting_Commutative_wronskian_degree_bound
 -- name    : DerivationHitting.Commutative.wronskian_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:11:59.743833+00:00
 -- url     : https://prove2.me/theorems/5534db8a-5e0a-4ae2-a71d-468a67651801

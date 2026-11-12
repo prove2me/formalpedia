@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_reversible_merging
 -- name    : FiniteSampleDependence.Rigidity.reversible_merging
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:49:10.378366+00:00
 -- url     : https://prove2.me/theorems/b61d7615-bbd8-4188-b1d8-1f816e9e5959

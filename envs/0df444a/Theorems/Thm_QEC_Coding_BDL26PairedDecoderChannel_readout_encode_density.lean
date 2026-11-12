@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_readout_encode_density
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.readout_encode_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:42:12.644846+00:00
 -- url     : https://prove2.me/theorems/1eb98490-d2e8-48cc-9053-3584dd3963b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomSeedEmbedding_exists_seed_parameters
 -- name    : QEC.Coding.BDL26RandomSeedEmbedding.exists_seed_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:38:50.11617+00:00
 -- url     : https://prove2.me/theorems/90845e7c-6e7b-4d70-adc7-f75285e116f0

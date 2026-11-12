@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneExpansion_theorem_1
 -- name    : ZeroOneExpansion.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:20:52.805981+00:00
 -- url     : https://prove2.me/theorems/74942c81-3bb7-48ed-bc2a-72f61173ae2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Levi_tomato_can
 -- name    : LeblSCV.Levi.tomato_can
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:32:33.154931+00:00
 -- url     : https://prove2.me/theorems/fe5a3ef1-3afe-4c87-ab97-4bd8fdf2c4cf

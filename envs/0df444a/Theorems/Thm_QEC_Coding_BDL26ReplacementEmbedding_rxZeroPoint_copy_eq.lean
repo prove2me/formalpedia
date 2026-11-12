@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rxZeroPoint_copy_eq
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rxZeroPoint_copy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:52:07.47428+00:00
 -- url     : https://prove2.me/theorems/edf33c5a-76af-4a0c-8db4-34edd925927b

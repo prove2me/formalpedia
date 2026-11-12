@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentAmbiguitySecretary_Secretary_residue_moment_sums
 -- name    : MomentAmbiguitySecretary.Secretary.residue_moment_sums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:09.557197+00:00
 -- url     : https://prove2.me/theorems/60b8a219-bdd3-4d22-9229-1c09e493ab2b

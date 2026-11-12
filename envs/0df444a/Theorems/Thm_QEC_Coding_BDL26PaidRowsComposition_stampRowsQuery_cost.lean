@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_stampRowsQuery_cost
 -- name    : QEC.Coding.BDL26PaidRowsComposition.stampRowsQuery_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:33:31.266898+00:00
 -- url     : https://prove2.me/theorems/6f096268-0d43-4d72-8791-623702856157

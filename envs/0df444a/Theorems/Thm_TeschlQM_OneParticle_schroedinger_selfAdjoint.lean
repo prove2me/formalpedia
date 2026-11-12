@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_OneParticle_schroedinger_selfAdjoint
 -- name    : TeschlQM.OneParticle.schroedinger_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:07:05.368087+00:00
 -- url     : https://prove2.me/theorems/6aab96ea-8595-4941-a4cb-9b4d8882a7c4

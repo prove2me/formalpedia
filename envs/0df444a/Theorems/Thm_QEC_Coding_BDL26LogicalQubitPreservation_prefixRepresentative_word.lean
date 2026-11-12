@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_prefixRepresentative_word
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.prefixRepresentative_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:48:42.450894+00:00
 -- url     : https://prove2.me/theorems/c767853f-e879-434b-92b2-90ec59c0cb1a

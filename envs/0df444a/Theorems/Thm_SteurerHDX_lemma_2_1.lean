@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteurerHDX_lemma_2_1
 -- name    : SteurerHDX.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:33:02.378179+00:00
 -- url     : https://prove2.me/theorems/bd2cb6a7-b5fb-4efe-a257-49361db2e323

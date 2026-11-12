@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryErrorTelescoping_actual_intervalMap1_adjacent
 -- name    : QEC.Coding.BDL26HistoryErrorTelescoping.actual_intervalMap1_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:40:31.319206+00:00
 -- url     : https://prove2.me/theorems/786ef575-bd85-46d6-a85a-8f4be248b50f

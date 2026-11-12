@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TenChallenges_challenge_10_r5
 -- name    : TenChallenges.challenge_10_r5
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T04:31:26.854236+00:00
 -- url     : https://prove2.me/theorems/eca1244e-fa27-4f7e-b16a-5c8286a5bf86

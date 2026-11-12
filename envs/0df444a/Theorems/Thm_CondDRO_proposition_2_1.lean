@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondDRO_proposition_2_1
 -- name    : CondDRO.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:25:45.242131+00:00
 -- url     : https://prove2.me/theorems/0dbe57d2-670b-456b-a2e6-7ab95ce0dbea

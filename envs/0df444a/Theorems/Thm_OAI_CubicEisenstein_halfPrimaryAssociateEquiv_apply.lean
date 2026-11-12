@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_halfPrimaryAssociateEquiv_apply
 -- name    : OAI.CubicEisenstein.halfPrimaryAssociateEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:45:18.535751+00:00
 -- url     : https://prove2.me/theorems/f85b4776-e1f0-40b7-8240-39e2650d769b

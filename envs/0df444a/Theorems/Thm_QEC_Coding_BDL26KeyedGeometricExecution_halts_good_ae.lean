@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometricExecution_halts_good_ae
 -- name    : QEC.Coding.BDL26KeyedGeometricExecution.halts_good_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:54.085913+00:00
 -- url     : https://prove2.me/theorems/396584dc-66e2-4e5c-8581-e49ec2517a66

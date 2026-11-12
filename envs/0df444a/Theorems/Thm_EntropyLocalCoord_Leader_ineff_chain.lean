@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropyLocalCoord_Leader_ineff_chain
 -- name    : EntropyLocalCoord.Leader.ineff_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:19:05.815195+00:00
 -- url     : https://prove2.me/theorems/fb7f74c6-af3c-4c4f-9a3a-2e79078f48ed

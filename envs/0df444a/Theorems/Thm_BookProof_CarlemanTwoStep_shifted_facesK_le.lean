@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_shifted_facesK_le
 -- name    : BookProof.CarlemanTwoStep.shifted_facesK_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:52:29.910505+00:00
 -- url     : https://prove2.me/theorems/6067016a-1813-4955-a847-ef44be422e18

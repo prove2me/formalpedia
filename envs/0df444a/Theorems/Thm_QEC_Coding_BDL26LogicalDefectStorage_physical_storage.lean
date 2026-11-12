@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_physical_storage
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.physical_storage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:32:25.46329+00:00
 -- url     : https://prove2.me/theorems/0d97e8dd-bdbb-4fac-8e79-f705895ae804

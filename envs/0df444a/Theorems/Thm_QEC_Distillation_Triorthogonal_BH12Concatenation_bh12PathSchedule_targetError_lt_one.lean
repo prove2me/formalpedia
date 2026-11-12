@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BH12Concatenation_bh12PathSchedule_targetError_lt_one
+-- name    : QEC.Distillation.Triorthogonal.BH12Concatenation.bh12PathSchedule_targetError_lt_one
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-11T22:43:56.693134+00:00
+-- url     : https://prove2.me/theorems/5b050cab-589c-42aa-954f-d0ab71ccd270
+-- title:
+--   BH12 Concatenation: bh12 Path Schedule target Error lt one
+-- statement:
+--   The explicit finite-domain assumptions make every indexed compiled target
+--   strictly below one.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Distillation/Triorthogonal/Concatenation.lean#L2717-L2722
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Distillation/Triorthogonal/Concatenation.lean#L2717-L2722
+
+import Mathlib.Analysis.SpecificLimits.Basic
+import Definitions.Def_QEC_Distillation_Triorthogonal_Protocol
+import Definitions.Def_QEC_Distillation_Core_DependentBatch
+import Definitions.Def_QEC_Distillation_Core_Overhead
+import Definitions.Def_QEC_Distillation_Triorthogonal_Concatenation
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Distillation QEC.Distillation.Triorthogonal QEC.Distillation.Triorthogonal.BH12Concatenation
+open Semantics
+open BH12EvenFamily
+open BH12NoisyInjection
+open BH12Protocol
+open Filter Topology
+
+theorem QEC.Distillation.Triorthogonal.BH12Concatenation.bh12PathSchedule_targetError_lt_one (q : Nat) (p : ErrorParameter)
+    (hp : 0 < p.rate) (hhalf : p.rate ≤ 1 / 2)
+    (hstrong : quadraticCoefficient q * p.rate ≤ 1 / 2)
+    (index : BH12PathScheduleIndex q) :
+    bh12PathScheduleTargetError q p index < 1 := by sorry

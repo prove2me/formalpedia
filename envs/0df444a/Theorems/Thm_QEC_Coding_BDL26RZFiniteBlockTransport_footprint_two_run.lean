@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_footprint_two_run
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.footprint_two_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:16:46.23343+00:00
 -- url     : https://prove2.me/theorems/202158c4-8ce6-43fd-8ffe-c37d98259bd6

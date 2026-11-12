@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_barL_gradient_convex
 -- name    : ForecastAggLearn.barL_gradient_convex
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:13.86851+00:00
 -- url     : https://prove2.me/theorems/ef0c144d-436d-41b7-aca7-e04c304d216e

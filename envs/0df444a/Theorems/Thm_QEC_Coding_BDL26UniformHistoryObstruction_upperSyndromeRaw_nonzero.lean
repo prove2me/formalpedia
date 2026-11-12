@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_upperSyndromeRaw_nonzero
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.upperSyndromeRaw_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:38:12.117365+00:00
 -- url     : https://prove2.me/theorems/89521594-f35d-4192-b23d-c16021ecf31f

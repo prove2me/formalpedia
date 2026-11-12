@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P13_regularPoint_inTetrahedron
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P13.regularPoint_inTetrahedron
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:59:56.577009+00:00
 -- url     : https://prove2.me/theorems/5c8b110a-d99d-47dc-a3ea-5e1cd6fc838d

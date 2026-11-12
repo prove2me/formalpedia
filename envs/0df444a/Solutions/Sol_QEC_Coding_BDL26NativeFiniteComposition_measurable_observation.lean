@@ -1,0 +1,51 @@
+-- Prove2me | solution 1 for QEC.Coding.BDL26NativeFiniteComposition.measurable_observation
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T13:44:42.685717+00:00
+-- url     : https://prove2.me/submissions/ef9de94d-f9e6-44b4-b62b-04652b191a39
+
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeGeometricJointExecution
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PaidRowsComposition
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeFiniteComposition
+import Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_measurable_history
+import Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_measurable_stagePair
+import Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_measurable_stageCost
+import Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_measurable_totalCost
+import Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_Decoded_measurable_history
+import Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_Decoded_measurable_stagePair
+import Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_measurable_jointObservation
+import Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_measurable_history
+import Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_measurable_stageCost
+import Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_measurable_stagePair
+import Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_measurable_stageCost
+import Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_measurable_totalCost
+import Theorems.Thm_QEC_Coding_ProbabilisticConstruction_Resampling_VariableRelabeling_measurable_jointObservation
+
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Coding QEC.Coding.BDL26NativeFiniteComposition
+open Classical MeasureTheory ProbabilityTheory
+open BDL26FiniteAlternatingCore BDL26FiniteTannerSquare BDL26BoundedValence
+open BDL26DecodingGraph
+open BDL26ReplacementEmbedding BDL26TannerLocalRegularity BDL26RandomPerturbation
+open BDL26KeyedGeometric BDL26KeyedGeometricExecution BDL26NativeKeyExecutionBridge
+open BDL26NativeGeometricExecution BDL26NativeGeometricExecutionCost
+open BDL26NativeGeometricScanCost BDL26NativeGeometricJointExecution
+open BDL26ReplacementMaterialization BDL26FiniteEmbeddingExperiment
+open BDL26RandomPhysicalLocality
+open QEC.Coding.ProbabilisticConstruction
+open QEC.Coding.ProbabilisticConstruction.SphericalCap
+open QEC.Coding.ProbabilisticConstruction.Resampling
+open scoped ENNReal BigOperators
+attribute [local instance] QEC.Coding.BDL26NativeFiniteComposition.labelListMeasurable
+attribute [local instance] QEC.Coding.BDL26NativeFiniteComposition.labelListSingleton
+attribute [local instance] QEC.Coding.BDL26NativeFiniteComposition.labelListMeasurable QEC.Coding.BDL26NativeFiniteComposition.labelListSingleton
+namespace QEC.Coding.BDL26NativeFiniteComposition
+theorem _root_.solution {L : ℝ} (p : GeometricParameters L) (N : ℕ) :
+    Measurable (observation p N) :=
+  (measurable_history p N).prodMk
+    ((measurable_pi_lambda _ (fun i => (measurable_jointObservation p i.val).comp
+      (measurable_stagePair p N i))).prodMk
+    ((measurable_pi_lambda _ (measurable_stageCost p N)).prodMk (measurable_totalCost p N)))
+end QEC.Coding.BDL26NativeFiniteComposition

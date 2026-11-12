@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_unorderedPairs_map
 -- name    : QEC.Distillation.Triorthogonal.unorderedPairs_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:34:52.293855+00:00
 -- url     : https://prove2.me/theorems/4d3dcb48-51e1-4c50-b9d8-fdf52ff9882e

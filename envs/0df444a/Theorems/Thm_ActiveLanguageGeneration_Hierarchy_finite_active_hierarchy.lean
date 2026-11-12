@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActiveLanguageGeneration_Hierarchy_finite_active_hierarchy
 -- name    : ActiveLanguageGeneration.Hierarchy.finite_active_hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T21:17:33.5649+00:00
 -- url     : https://prove2.me/theorems/4f5b8078-e3cf-4c20-bd98-a025e1d2542a

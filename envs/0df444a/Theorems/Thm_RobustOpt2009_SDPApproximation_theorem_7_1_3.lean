@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_SDPApproximation_theorem_7_1_3
 -- name    : RobustOpt2009.SDPApproximation.theorem_7_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:13.394988+00:00
 -- url     : https://prove2.me/theorems/254ac67c-14be-4754-ae2e-ea2f897d625c

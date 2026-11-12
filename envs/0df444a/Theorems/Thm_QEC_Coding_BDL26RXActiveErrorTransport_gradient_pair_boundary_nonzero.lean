@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_gradient_pair_boundary_nonzero
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.gradient_pair_boundary_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:12:25.724142+00:00
 -- url     : https://prove2.me/theorems/0f1138ff-a604-4411-a454-91cc350e1d3c

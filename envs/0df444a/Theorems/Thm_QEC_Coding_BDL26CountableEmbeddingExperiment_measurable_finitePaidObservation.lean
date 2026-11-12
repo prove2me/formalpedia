@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_measurable_finitePaidObservation
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.measurable_finitePaidObservation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:29:14.233609+00:00
 -- url     : https://prove2.me/theorems/fdb40dbe-e7af-4be2-8758-ed221fbcc6ad

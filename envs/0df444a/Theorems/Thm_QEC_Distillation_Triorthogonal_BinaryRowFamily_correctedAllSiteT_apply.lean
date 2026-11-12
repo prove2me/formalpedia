@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_correctedAllSiteT_apply
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.correctedAllSiteT_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:30:25.404417+00:00
 -- url     : https://prove2.me/theorems/6c0174f0-b299-4856-a0bf-01656aa2f581

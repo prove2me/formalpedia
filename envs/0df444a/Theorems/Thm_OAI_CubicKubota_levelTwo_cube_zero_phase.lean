@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicKubota_levelTwo_cube_zero_phase
 -- name    : OAI.CubicKubota.levelTwo_cube_zero_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:46:10.039235+00:00
 -- url     : https://prove2.me/theorems/51bf45a8-ab8c-439c-92da-aca4545ed528

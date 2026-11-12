@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P23_projectionDifference_kernel
 -- name    : QAlgorithms.Papers.Independent.Intake100.P23.projectionDifference_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:15:39.30042+00:00
 -- url     : https://prove2.me/theorems/02e58eb9-5245-47f2-95ee-5c444c98811e

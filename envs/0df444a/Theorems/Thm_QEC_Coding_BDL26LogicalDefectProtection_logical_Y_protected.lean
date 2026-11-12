@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectProtection_logical_Y_protected
 -- name    : QEC.Coding.BDL26LogicalDefectProtection.logical_Y_protected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:51:02.469399+00:00
 -- url     : https://prove2.me/theorems/50342bdd-fbfc-4f44-b04f-ace714893a74

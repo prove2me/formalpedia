@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralCoverDomain_isFundamentalDomain
 -- name    : OAI.CubicEisenstein.integralCoverDomain_isFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:18:37.209997+00:00
 -- url     : https://prove2.me/theorems/e59567a5-041a-44b5-bc93-6438fff76297

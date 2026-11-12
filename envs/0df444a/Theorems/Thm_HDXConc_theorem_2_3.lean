@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXConc_theorem_2_3
 -- name    : HDXConc.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:00:09.021628+00:00
 -- url     : https://prove2.me/theorems/a0453704-f664-431a-9cab-fe7dfac75b2c

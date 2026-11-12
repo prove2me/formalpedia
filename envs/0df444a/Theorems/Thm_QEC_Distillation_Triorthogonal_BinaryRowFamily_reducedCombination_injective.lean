@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_reducedCombination_injective
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.reducedCombination_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:35:11.495484+00:00
 -- url     : https://prove2.me/theorems/bd880698-1369-40bd-aa6f-806d90f7438b

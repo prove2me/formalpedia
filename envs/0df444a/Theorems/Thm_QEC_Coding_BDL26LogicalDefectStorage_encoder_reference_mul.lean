@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_encoder_reference_mul
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.encoder_reference_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:24:36.9273+00:00
 -- url     : https://prove2.me/theorems/61671e84-3089-48be-8ab9-18df3800399b

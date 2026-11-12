@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P63_corollary1_binaryEvaluation
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P63.corollary1_binaryEvaluation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T08:34:10.953625+00:00
 -- url     : https://prove2.me/theorems/0bf0edd8-c786-4aee-96cc-cf57174b1fe9

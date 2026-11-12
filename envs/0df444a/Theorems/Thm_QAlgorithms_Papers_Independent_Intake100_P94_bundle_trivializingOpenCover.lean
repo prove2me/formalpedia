@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P94_bundle_trivializingOpenCover
 -- name    : QAlgorithms.Papers.Independent.Intake100.P94.bundle_trivializingOpenCover
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:47:33.026765+00:00
 -- url     : https://prove2.me/theorems/e169e807-f35a-4d66-b699-83b856ee088f

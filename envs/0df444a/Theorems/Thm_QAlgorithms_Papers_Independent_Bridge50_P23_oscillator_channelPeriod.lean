@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Bridge50_P23_oscillator_channelPeriod
 -- name    : QAlgorithms.Papers.Independent.Bridge50.P23.oscillator_channelPeriod
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T15:22:48.921134+00:00
 -- url     : https://prove2.me/theorems/2e5fa3b5-7b6d-4cac-bce7-42c03791efdb

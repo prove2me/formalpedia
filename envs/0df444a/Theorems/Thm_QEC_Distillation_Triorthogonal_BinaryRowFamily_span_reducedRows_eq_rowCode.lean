@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_span_reducedRows_eq_rowCode
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.span_reducedRows_eq_rowCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:43.738827+00:00
 -- url     : https://prove2.me/theorems/d8f62209-604d-47fd-9721-ed627c25b417

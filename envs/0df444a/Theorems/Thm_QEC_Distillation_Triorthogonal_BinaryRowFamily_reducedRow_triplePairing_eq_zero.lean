@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_reducedRow_triplePairing_eq_zero
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.reducedRow_triplePairing_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:36:20.512449+00:00
 -- url     : https://prove2.me/theorems/e29c2c57-1900-4cf1-ba63-e10b5eec6178

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RogersSatchell_Unbiased_min_term_mean
 -- name    : RogersSatchell.Unbiased.min_term_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:45:53.516977+00:00
 -- url     : https://prove2.me/theorems/840eb37a-7819-4bf8-9881-9e6ef0645199

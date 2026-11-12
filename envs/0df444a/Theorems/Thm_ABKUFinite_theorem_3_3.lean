@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ABKUFinite_theorem_3_3
 -- name    : ABKUFinite.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-29T10:33:03.102241+00:00
 -- url     : https://prove2.me/theorems/d11b8605-4ea2-4694-9b2e-08c529dca88f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GabidulinProx_UniqueDecoding_lemma_3_5
 -- name    : GabidulinProx.UniqueDecoding.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:31.785004+00:00
 -- url     : https://prove2.me/theorems/ba2f13e1-4095-4329-bb1e-e7a554423ff4

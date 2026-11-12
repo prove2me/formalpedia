@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_execute_read
 -- name    : QEC.Coding.BDL26NativeStateRows.execute_read
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:28:00.069557+00:00
 -- url     : https://prove2.me/theorems/2aff501a-d6f9-4ac2-9ee7-cd71700453a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_eventQuery_correct
 -- name    : QEC.Coding.BDL26RandomPerturbation.eventQuery_correct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:12:55.339859+00:00
 -- url     : https://prove2.me/theorems/6a71242d-d76c-4c51-aab3-1894365037d3

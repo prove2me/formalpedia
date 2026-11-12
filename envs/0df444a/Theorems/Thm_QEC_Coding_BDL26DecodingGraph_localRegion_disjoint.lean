@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26DecodingGraph_localRegion_disjoint
 -- name    : QEC.Coding.BDL26DecodingGraph.localRegion_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:02:03.37921+00:00
 -- url     : https://prove2.me/theorems/2bb4f1af-c967-47ed-854c-3aac87a8e0fb

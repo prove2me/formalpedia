@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RobustOpt2009.CQApproximation.least_squares_sdp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-31T05:38:01.21177+00:00
 -- url     : https://prove2.me/submissions/1a40b803-518d-4c48-9c4d-d5db90ce5a97
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_RobustOpt2009_CQApproximation_LeastSquares
 import Theorems.Thm_RobustOpt2009_CQApproximation_matrix_cube

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_sign_commutationPhase
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.sign_commutationPhase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:29:44.981914+00:00
 -- url     : https://prove2.me/theorems/10c8f44c-d8c8-447e-ac95-6413539648ed

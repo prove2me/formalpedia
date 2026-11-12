@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementSupport_rzDelta1_decomposition
 -- name    : QEC.Coding.BDL26ReplacementSupport.rzDelta1_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T00:59:14.243487+00:00
 -- url     : https://prove2.me/theorems/d575d1d5-ac34-4277-be64-a9b0c9ec24cd

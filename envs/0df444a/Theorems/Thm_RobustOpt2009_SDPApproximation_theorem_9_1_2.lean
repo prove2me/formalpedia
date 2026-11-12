@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_SDPApproximation_theorem_9_1_2
 -- name    : RobustOpt2009.SDPApproximation.theorem_9_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:10.701632+00:00
 -- url     : https://prove2.me/theorems/96682542-a291-4474-9916-e8966ac4d9d0

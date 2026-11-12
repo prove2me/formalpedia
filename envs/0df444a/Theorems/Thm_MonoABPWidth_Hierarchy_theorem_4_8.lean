@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoABPWidth_Hierarchy_theorem_4_8
 -- name    : MonoABPWidth.Hierarchy.theorem_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:17:07.589387+00:00
 -- url     : https://prove2.me/theorems/5e891cf0-4b44-4f0a-b0f8-9d3f5da427c9

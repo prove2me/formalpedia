@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P81_strong_iff_joint
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P81.strong_iff_joint
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:02:13.493537+00:00
 -- url     : https://prove2.me/theorems/a6efdadd-2b0f-4f9f-ab3e-ac1188e16651

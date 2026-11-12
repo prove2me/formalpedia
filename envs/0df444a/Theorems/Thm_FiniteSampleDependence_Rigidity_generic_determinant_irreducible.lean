@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_generic_determinant_irreducible
 -- name    : FiniteSampleDependence.Rigidity.generic_determinant_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:51:50.125056+00:00
 -- url     : https://prove2.me/theorems/a03b5228-ddb4-4254-8d78-d210f4e65b17

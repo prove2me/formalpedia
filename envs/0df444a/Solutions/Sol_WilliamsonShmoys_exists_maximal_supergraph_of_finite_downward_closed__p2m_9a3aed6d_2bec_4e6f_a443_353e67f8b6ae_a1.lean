@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.exists_maximal_supergraph_of_finite_downward_closed__p2m_9a3aed6d_2bec_4e6f_a443_353e67f8b6ae_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:07:28.847826+00:00
 -- url     : https://prove2.me/submissions/9b9dd1e2-62ab-4c98-813d-cfa6a4328f6d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WilliamsonShmoys_exists_supergraph_maximal_edgeFinset_cardinality__p2m_2212fb5a_3b8b_4ff4_b66b_e1a858c8b349_a1

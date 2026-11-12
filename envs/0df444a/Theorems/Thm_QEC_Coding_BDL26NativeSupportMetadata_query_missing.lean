@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_query_missing
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.query_missing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:48:29.1234+00:00
 -- url     : https://prove2.me/theorems/058dab45-ed16-46fc-afbc-93a4f530d9f6

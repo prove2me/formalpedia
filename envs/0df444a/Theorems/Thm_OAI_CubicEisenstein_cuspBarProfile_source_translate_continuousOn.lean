@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cuspBarProfile_source_translate_continuousOn
 -- name    : OAI.CubicEisenstein.cuspBarProfile_source_translate_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:29:26.904194+00:00
 -- url     : https://prove2.me/theorems/c342cf61-4152-4934-b141-b602a35d4b07

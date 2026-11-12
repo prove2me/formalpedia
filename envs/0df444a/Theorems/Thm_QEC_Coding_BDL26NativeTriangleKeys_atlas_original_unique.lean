@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_atlas_original_unique
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.atlas_original_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:33:17.377919+00:00
 -- url     : https://prove2.me/theorems/40a44c3a-98fb-4aef-a023-3fff7e258ae3

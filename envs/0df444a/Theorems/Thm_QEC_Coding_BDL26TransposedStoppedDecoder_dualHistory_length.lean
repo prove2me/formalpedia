@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_dualHistory_length
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.dualHistory_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:24:46.394898+00:00
 -- url     : https://prove2.me/theorems/c6e81cb9-df7f-460d-b91c-1af6df50ce86

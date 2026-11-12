@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_old_x_star_closed
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.old_x_star_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:16:56.135296+00:00
 -- url     : https://prove2.me/theorems/9e3a9800-c88c-4821-83c9-f1b302ed4ef7

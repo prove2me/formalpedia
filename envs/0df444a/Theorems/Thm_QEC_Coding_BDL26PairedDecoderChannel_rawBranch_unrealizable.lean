@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_rawBranch_unrealizable
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.rawBranch_unrealizable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:40:23.593352+00:00
 -- url     : https://prove2.me/theorems/c30fdc1b-5db9-4dbd-9643-cb2aa72ff6dc

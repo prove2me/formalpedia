@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_measurable_stageTrace
 -- name    : QEC.Coding.BDL26PaidRowsComposition.measurable_stageTrace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:59:35.660027+00:00
 -- url     : https://prove2.me/theorems/ca4f1ae1-b774-4ec0-b4e2-dd51721217c7

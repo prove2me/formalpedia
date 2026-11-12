@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_correctedAllSiteT_intertwines_logicalComputationalState
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.correctedAllSiteT_intertwines_logicalComputationalState
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:40:07.114294+00:00
 -- url     : https://prove2.me/theorems/ee9d2f90-c970-445f-a8f9-6c676a8adc57

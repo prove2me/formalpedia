@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSourceResidualFunction_wirtingerBar
 -- name    : OAI.CubicEisenstein.cubicSourceResidualFunction_wirtingerBar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:32:07.536116+00:00
 -- url     : https://prove2.me/theorems/7d465dbd-39fc-4c7b-b093-70ba63dd5dc9

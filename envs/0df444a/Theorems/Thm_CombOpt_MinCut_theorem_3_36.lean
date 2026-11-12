@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MinCut_theorem_3_36
 -- name    : CombOpt.MinCut.theorem_3_36
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:02:37.630994+00:00
 -- url     : https://prove2.me/theorems/b8a686e2-9ea8-450a-8d8c-4b35fd26b738

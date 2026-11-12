@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_active_count_le_weight
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.active_count_le_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:24:16.395211+00:00
 -- url     : https://prove2.me/theorems/cba39d17-8c6d-44dd-986f-91afb2beccfb

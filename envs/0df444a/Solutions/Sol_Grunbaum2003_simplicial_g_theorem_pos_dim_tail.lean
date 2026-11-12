@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.simplicial_g_theorem_pos_dim_tail
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-02T07:27:58.198666+00:00
 -- url     : https://prove2.me/submissions/a57c4358-2588-47a4-8065-b5cfd237ba26
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsSimplicialDPolytope
 import Definitions.Def_Grunbaum2003_faceCount

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_born_transferDependence
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.born_transferDependence
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:18:39.36093+00:00
 -- url     : https://prove2.me/theorems/1042f18f-e4bc-456f-ad6c-7a21cc5e1314

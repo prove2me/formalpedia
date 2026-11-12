@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_eq_5
 -- name    : ForecastAggLearn.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:47.809293+00:00
 -- url     : https://prove2.me/theorems/6ec01fce-bfd0-4b6b-b407-3ecb66abd373

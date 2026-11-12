@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometricDL_WL_flavours_are_local
 -- name    : GeometricDL.WL.flavours_are_local
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:23:25.830801+00:00
 -- url     : https://prove2.me/theorems/d8a04938-986c-4995-a08a-ce76c6f140be

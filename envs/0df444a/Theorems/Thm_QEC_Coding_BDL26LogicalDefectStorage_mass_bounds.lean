@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_mass_bounds
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.mass_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:30:33.589673+00:00
 -- url     : https://prove2.me/theorems/2885854d-64d2-4283-8716-7b6aa204d648

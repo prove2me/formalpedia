@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_dualBaseDecode_xSyndrome
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseDecode_xSyndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:45:13.954663+00:00
 -- url     : https://prove2.me/theorems/87168d71-4627-4065-9e79-177b4d542767

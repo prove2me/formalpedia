@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_atomAngleSum_correctionAtoms
 -- name    : QEC.Distillation.Triorthogonal.atomAngleSum_correctionAtoms
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:35:20.870246+00:00
 -- url     : https://prove2.me/theorems/bf5d25c1-a95e-4dd3-8d0f-82817ef6c7e3

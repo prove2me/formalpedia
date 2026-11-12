@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoverModular_convex_combination_weights
 -- name    : CoverModular.convex_combination_weights
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:13:36.254201+00:00
 -- url     : https://prove2.me/theorems/c327dcf4-d6f2-440a-802c-82711fbb5fa3

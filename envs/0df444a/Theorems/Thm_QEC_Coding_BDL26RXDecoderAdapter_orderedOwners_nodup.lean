@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDecoderAdapter_orderedOwners_nodup
 -- name    : QEC.Coding.BDL26RXDecoderAdapter.orderedOwners_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:19:18.862956+00:00
 -- url     : https://prove2.me/theorems/6c1366b8-bacb-47d0-a90f-84bd5fda85b2

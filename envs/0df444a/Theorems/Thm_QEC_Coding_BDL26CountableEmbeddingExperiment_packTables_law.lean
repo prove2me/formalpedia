@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_packTables_law
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.packTables_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:07:23.048306+00:00
 -- url     : https://prove2.me/theorems/d85f42d3-51b8-4356-8505-72d25bd7149c

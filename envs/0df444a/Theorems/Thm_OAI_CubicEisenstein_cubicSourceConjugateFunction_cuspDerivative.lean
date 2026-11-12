@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSourceConjugateFunction_cuspDerivative
 -- name    : OAI.CubicEisenstein.cubicSourceConjugateFunction_cuspDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:34:18.541753+00:00
 -- url     : https://prove2.me/theorems/21999e74-0e14-404a-8eb4-fe923f20b72f

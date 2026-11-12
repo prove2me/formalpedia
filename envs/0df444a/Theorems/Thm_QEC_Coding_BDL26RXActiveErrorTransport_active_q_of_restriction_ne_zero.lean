@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_active_q_of_restriction_ne_zero
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.active_q_of_restriction_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:37:28.476633+00:00
 -- url     : https://prove2.me/theorems/9e763d09-8231-4bb0-b5ef-422e6a2234e7

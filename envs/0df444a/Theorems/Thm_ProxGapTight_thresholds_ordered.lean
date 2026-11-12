@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_thresholds_ordered
 -- name    : ProxGapTight.thresholds_ordered
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:48:40.11302+00:00
 -- url     : https://prove2.me/theorems/34942d08-bd85-46af-94cd-61a4a8f715b1

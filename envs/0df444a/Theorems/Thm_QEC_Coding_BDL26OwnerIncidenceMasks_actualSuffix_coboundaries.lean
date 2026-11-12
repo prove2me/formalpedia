@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_actualSuffix_coboundaries
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.actualSuffix_coboundaries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:34:03.42952+00:00
 -- url     : https://prove2.me/theorems/73c0e44d-bf96-44a8-ad6e-7db51fab33f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryErrorTelescoping_snapshotWords_length
 -- name    : QEC.Coding.BDL26HistoryErrorTelescoping.snapshotWords_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:44:24.256708+00:00
 -- url     : https://prove2.me/theorems/a9004ebf-d3d9-47a1-9ae5-3c691bef096b

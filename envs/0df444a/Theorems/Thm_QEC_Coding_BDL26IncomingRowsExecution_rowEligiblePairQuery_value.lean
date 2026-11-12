@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowEligiblePairQuery_value
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowEligiblePairQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:15:47.385833+00:00
 -- url     : https://prove2.me/theorems/e8a5cf1d-927a-4045-bc5c-cfffe8ad244a

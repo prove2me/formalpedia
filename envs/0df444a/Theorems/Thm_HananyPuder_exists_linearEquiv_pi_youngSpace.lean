@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HananyPuder_exists_linearEquiv_pi_youngSpace
 -- name    : HananyPuder.exists_linearEquiv_pi_youngSpace
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:12:50.881194+00:00
 -- url     : https://prove2.me/theorems/48f604d2-149b-4106-8896-c73f2ab7ae9f

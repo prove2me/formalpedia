@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerivationHitting_Commutative_logarithm_order_bound
 -- name    : DerivationHitting.Commutative.logarithm_order_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:11:05.666232+00:00
 -- url     : https://prove2.me/theorems/205c8abd-5bdc-44af-ba10-51cfd1efabdb

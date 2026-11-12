@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXPhysicalStarTransport_phi_boundary_supported
 -- name    : QEC.Coding.BDL26RXPhysicalStarTransport.phi_boundary_supported
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:07:12.486597+00:00
 -- url     : https://prove2.me/theorems/21e81aa3-2350-48cd-98a2-efa3357c40dc

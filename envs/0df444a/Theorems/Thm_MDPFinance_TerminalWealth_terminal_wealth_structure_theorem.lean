@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_terminal_wealth_structure_theorem
 -- name    : MDPFinance.TerminalWealth.terminal_wealth_structure_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:55:34.558271+00:00
 -- url     : https://prove2.me/theorems/38f6e8dd-90be-4084-a7a3-5831897b034f

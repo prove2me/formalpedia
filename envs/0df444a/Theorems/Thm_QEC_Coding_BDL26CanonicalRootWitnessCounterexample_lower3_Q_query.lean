@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_lower3_Q_query
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.lower3_Q_query
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:22.4729+00:00
 -- url     : https://prove2.me/theorems/7eb71002-566e-4b08-97a9-93372ca1ea23

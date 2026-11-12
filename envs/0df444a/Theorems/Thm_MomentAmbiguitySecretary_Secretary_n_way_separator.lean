@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentAmbiguitySecretary_Secretary_n_way_separator
 -- name    : MomentAmbiguitySecretary.Secretary.n_way_separator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:15.636866+00:00
 -- url     : https://prove2.me/theorems/886a4eca-6a0f-428f-83a3-afdd0aa5461b

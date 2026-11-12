@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingNetFlow_ChainStable_corollary_5_6
 -- name    : TradingNetFlow.ChainStable.corollary_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:42.841183+00:00
 -- url     : https://prove2.me/theorems/29fae268-affd-4689-ab97-8b2b3674ddd1

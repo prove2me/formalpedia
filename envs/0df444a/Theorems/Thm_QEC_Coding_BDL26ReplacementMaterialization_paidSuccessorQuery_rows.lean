@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_paidSuccessorQuery_rows
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.paidSuccessorQuery_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:15:43.394241+00:00
 -- url     : https://prove2.me/theorems/3d1953b9-d589-4cf1-85a3-1ea7742c1dfa

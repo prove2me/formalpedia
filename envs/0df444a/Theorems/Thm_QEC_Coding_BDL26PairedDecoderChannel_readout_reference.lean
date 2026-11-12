@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_readout_reference
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.readout_reference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:41:48.188755+00:00
 -- url     : https://prove2.me/theorems/c1f5c6f1-2ed7-4a8c-a455-6a4076e25efb

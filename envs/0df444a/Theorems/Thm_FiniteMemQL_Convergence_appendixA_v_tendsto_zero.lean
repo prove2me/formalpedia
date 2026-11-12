@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteMemQL_Convergence_appendixA_v_tendsto_zero
 -- name    : FiniteMemQL.Convergence.appendixA_v_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:08.14848+00:00
 -- url     : https://prove2.me/theorems/40baa098-39b6-44a8-b891-893e943b4695

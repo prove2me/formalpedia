@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedySuperstring_LowerBound_binary_greedy_lower_bound
 -- name    : GreedySuperstring.LowerBound.binary_greedy_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:30:18.919309+00:00
 -- url     : https://prove2.me/theorems/7fd0ad53-045c-4699-86f4-44db710a1b3b

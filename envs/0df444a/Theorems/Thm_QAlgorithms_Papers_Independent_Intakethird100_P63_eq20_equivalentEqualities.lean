@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P63_eq20_equivalentEqualities
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P63.eq20_equivalentEqualities
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T08:41:29.003861+00:00
 -- url     : https://prove2.me/theorems/c6420882-a636-478c-b81b-f2ddf41fa860

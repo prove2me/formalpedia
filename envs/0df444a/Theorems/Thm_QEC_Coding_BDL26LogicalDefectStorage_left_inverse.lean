@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_left_inverse
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.left_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:17:51.864666+00:00
 -- url     : https://prove2.me/theorems/10f9b94e-4305-4b9b-9ec8-a18fcbcabb40

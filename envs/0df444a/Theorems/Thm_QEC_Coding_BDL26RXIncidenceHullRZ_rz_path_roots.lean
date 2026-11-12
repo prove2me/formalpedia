@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullRZ_rz_path_roots
 -- name    : QEC.Coding.BDL26RXIncidenceHullRZ.rz_path_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:37:30.131198+00:00
 -- url     : https://prove2.me/theorems/8005da80-a275-4bac-ba96-27c03d2e28a0

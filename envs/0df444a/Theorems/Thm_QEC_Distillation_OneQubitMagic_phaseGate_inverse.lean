@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_inverse
 -- name    : QEC.Distillation.OneQubitMagic.phaseGate_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:52:35.283807+00:00
 -- url     : https://prove2.me/theorems/1fb56049-601e-4c25-b437-829299cbb7f8

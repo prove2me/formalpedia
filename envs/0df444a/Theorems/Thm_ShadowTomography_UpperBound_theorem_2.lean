@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShadowTomography_UpperBound_theorem_2
 -- name    : ShadowTomography.UpperBound.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T02:46:01.003008+00:00
 -- url     : https://prove2.me/theorems/7b3070cb-5452-4c3a-8cde-5321980ae41d

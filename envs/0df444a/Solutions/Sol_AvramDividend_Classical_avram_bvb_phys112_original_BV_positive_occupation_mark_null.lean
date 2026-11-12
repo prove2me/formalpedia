@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_bvb_phys112_original_BV_positive_occupation_mark_null
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-11T10:48:13.038912+00:00
+-- url     : https://prove2.me/submissions/a85ef5e3-cdb1-456e-99f2-ef7199c61233
+
+import Mathlib
+import Theorems.Thm_AvramDividend_Classical_avram_bvb_phys111_original_BV_countable_mark_contact_null
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set AvramDividend.Classical
+open scoped NNReal ENNReal Topology
+
+/-- Under original Standing and BV, Lévy mass cannot charge levels
+occupied for positive time by any measurable real-valued path. -/
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕)
+    (hStanding : X.Standing) (hBV : X.BoundedVariation)
+    (μ : Measure ℝ≥0) [SFinite μ]
+    (U : ℝ≥0 → ℝ) (hU : Measurable U) :
+    X.ν {z : ℝ | 0 < μ {t : ℝ≥0 | U t = z}} = 0 := by
+  have hcount :
+      ({z : ℝ | 0 < μ {t : ℝ≥0 | U t = z}} : Set ℝ).Countable :=
+    Measure.countable_meas_level_set_pos hU
+  exact avram_bvb_phys111_original_BV_countable_mark_contact_null
+    X hStanding hBV _ hcount

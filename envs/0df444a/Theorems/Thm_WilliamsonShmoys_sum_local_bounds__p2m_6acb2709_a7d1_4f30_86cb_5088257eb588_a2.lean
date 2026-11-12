@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_sum_local_bounds__p2m_6acb2709_a7d1_4f30_86cb_5088257eb588_a2
 -- name    : WilliamsonShmoys.sum_local_bounds__p2m_6acb2709_a7d1_4f30_86cb_5088257eb588_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:43:36.919645+00:00
 -- url     : https://prove2.me/theorems/c61a9b30-fae7-44f5-ae1c-615590b0ab97

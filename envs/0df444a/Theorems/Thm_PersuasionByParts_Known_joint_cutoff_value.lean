@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_joint_cutoff_value
 -- name    : PersuasionByParts.Known.joint_cutoff_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:29:33.901943+00:00
 -- url     : https://prove2.me/theorems/516937f6-ecae-459f-b3f1-0e3456bffedd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_unitDenominator_integral_formula
 -- name    : OAI.CubicEisenstein.unitDenominator_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:32:33.519565+00:00
 -- url     : https://prove2.me/theorems/8891f932-601a-4fbd-a527-766dec342eac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_cx_boundary_z_zero
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_cx_boundary_z_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:12:40.319793+00:00
 -- url     : https://prove2.me/theorems/754e9132-5900-49be-b165-c109a7df3de9

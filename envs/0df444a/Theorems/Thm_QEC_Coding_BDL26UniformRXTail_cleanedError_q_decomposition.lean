@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_cleanedError_q_decomposition
 -- name    : QEC.Coding.BDL26UniformRXTail.cleanedError_q_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:28:25.954724+00:00
 -- url     : https://prove2.me/theorems/8f77e57b-c1df-4745-940e-092534b8bfd3

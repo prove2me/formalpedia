@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_visible_eq_decoder_domains
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.visible_eq_decoder_domains
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:48:14.509924+00:00
 -- url     : https://prove2.me/theorems/0accfc64-350f-4c27-a1d3-e1e786b90211

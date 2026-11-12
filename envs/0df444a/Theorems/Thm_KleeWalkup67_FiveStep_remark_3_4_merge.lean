@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleeWalkup67_FiveStep_remark_3_4_merge
 -- name    : KleeWalkup67.FiveStep.remark_3_4_merge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:06:50.377371+00:00
 -- url     : https://prove2.me/theorems/1b0f0385-bc3c-4bef-9b9b-36c94682976e

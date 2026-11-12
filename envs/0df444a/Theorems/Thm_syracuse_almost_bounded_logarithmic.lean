@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_almost_bounded_logarithmic
 -- name    : syracuse_almost_bounded_logarithmic
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-09-09T03:47:01.085126+00:00
 -- url     : https://prove2.me/theorems/6cc34b4a-20fb-4dc1-8e72-685a19c096d1

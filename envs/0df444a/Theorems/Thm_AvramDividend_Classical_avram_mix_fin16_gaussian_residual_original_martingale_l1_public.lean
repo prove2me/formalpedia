@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_mix_fin16_gaussian_residual_original_martingale_l1_public
 -- name    : AvramDividend.Classical.avram_mix_fin16_gaussian_residual_original_martingale_l1_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-09T13:08:26.741231+00:00
 -- url     : https://prove2.me/theorems/08823aa3-2669-4a6d-9fd9-99b4f07e72c4

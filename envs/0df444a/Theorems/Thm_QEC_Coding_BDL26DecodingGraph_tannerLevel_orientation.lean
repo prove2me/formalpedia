@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26DecodingGraph_tannerLevel_orientation
 -- name    : QEC.Coding.BDL26DecodingGraph.tannerLevel_orientation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:01:49.332886+00:00
 -- url     : https://prove2.me/theorems/5a5d412c-cf36-4f76-b58e-06f78959e32b

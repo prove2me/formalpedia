@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_coupling_protected_atom
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.coupling_protected_atom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:56:53.714209+00:00
 -- url     : https://prove2.me/theorems/27a28aa6-e8ff-4237-987b-90b806b181bd

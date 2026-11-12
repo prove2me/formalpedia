@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_conditional_terminal_bound
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.conditional_terminal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:36:02.155714+00:00
 -- url     : https://prove2.me/theorems/4226b240-4ca9-4506-8695-afa978592352

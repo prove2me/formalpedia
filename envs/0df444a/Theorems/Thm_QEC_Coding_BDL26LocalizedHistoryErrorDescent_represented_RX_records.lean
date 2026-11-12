@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_represented_RX_records
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.represented_RX_records
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:21:04.098496+00:00
 -- url     : https://prove2.me/theorems/3204655a-e58f-4ed7-8d0e-667b4f5256cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_coupling_y_phase
 -- name    : QEC.Coding.BDL26SectorTranslation.coupling_y_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:43:10.949679+00:00
 -- url     : https://prove2.me/theorems/b2dce549-64c3-4bae-8d2f-007156f568ee

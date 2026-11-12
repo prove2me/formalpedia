@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_compound_gated_stationary_increments
 -- name    : AvramDividend.Classical.avram_a06_original_compound_gated_stationary_increments
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T23:41:49.656977+00:00
 -- url     : https://prove2.me/theorems/e32abfbc-2c4d-4933-8e2b-f6b5f76a39ef

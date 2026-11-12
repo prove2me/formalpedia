@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P47_accepted_input_bayes
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P47.accepted_input_bayes
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:34:56.326436+00:00
 -- url     : https://prove2.me/theorems/c6257748-f32a-47c8-b0ba-fb066ca93a2e

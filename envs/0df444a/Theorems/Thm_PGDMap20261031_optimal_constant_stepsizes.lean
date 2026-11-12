@@ -1,0 +1,55 @@
+-- Prove2me | Theorems.Thm_PGDMap20261031_optimal_constant_stepsizes
+-- name    : PGDMap20261031.optimal_constant_stepsizes
+-- status  : Proved
+-- author  : @Somehow
+-- created : 2026-10-31T13:03:58.85401+00:00
+-- url     : https://prove2.me/theorems/592366ff-6e05-4633-8520-4428630b7e49
+-- title:
+--   Theorem 1: optimal constant PGD stepsizes
+-- statement:
+--   ## 01 · The optimization variable
+--
+--   Let $q\ge0$ and $N\ge2$. In the normalized range $0<h<2$, consider the exact PGD curve
+--
+--   $$K_N(h,q)=\max\{A_N(h,q),B_N(h,q)\},$$
+--
+--   with
+--   $$A_N(h,q)=\begin{cases}\dfrac{2q}{(1+hq)^{2N}-1-h^2q},&q>0,\\[3pt]\dfrac2{h(2N-h)},&q=0,\end{cases}$$
+--   $$B_N(h,q)=\frac{2(1+q)(1-h)^{2N-2}}{(1+hq)^{2N}-(1-h)^{2N}}.$$
+--
+--   ## 02 · A unique optimal constant step
+--
+--   The curve has a unique minimizer $h_N^*(q)\in(1,2)$, characterized by
+--
+--   $$\boxed{A_N(h_N^*,q)=B_N(h_N^*,q).}$$
+--
+--   This is a strict global minimum on the entire allowed interval $(0,2)$. The actual step is $\gamma_N^*=h_N^*(\mu/L)/L$.
+--
+--   ## 03 · Parameter laws and scalar equations
+--
+--   The optimal normalized step strictly increases with $q$ at fixed $N$ and with $N$ at fixed $q$. It tends to $2$ as $N\to\infty$. Let $k=N-1$. Its equivalent scalar equations are
+--
+--   $$ (h-1)^{2k}=\frac{q}{1+q-(1+hq)^{-2k}}\quad(q>0),$$
+--   $$ (h-1)^{2k}(1+2kh)=1\quad(q=0).$$
+--
+--   The asymptotic statements are
+--
+--   $$2k(2-h_N^*(q))\longrightarrow\log(1+1/q)\quad(q>0),$$
+--   $$2k(2-h_N^*(0))-\log(4k)\longrightarrow0.$$
+--
+--   ## 04 · Small horizons and the open endpoint
+--
+--   For two updates,
+--
+--   $$h_2^*(q)=\frac{q-1+\sqrt{q^2+q+1}}q\quad(q>0),\qquad h_2^*(0)=\frac32.$$
+--
+--   For one update, the unique minimizer is $1/(1-q)$ when $0\le q<1/2$. When $q\ge1/2$, the infimum is approached as $h\uparrow2$ and is not attained within the allowed open interval.
+--
+--   **Formalization note.** The optimizer is defined from the infimum of the actual branch-crossing set, not supplied as a free variable. The existence, uniqueness and all parameter laws remain explicit formalization targets.
+-- source:
+--   Optimal Constant Stepsizes for the Exact PGD Residual Curve, manuscript dated 2026-10-30, Theorem 1, pp. 1-2; local source: 02_PGD_Optimal_Constant_Stepsize.pdf
+
+import Definitions.Def_PGDMap20261031_Stepsize
+open PGDMap20261031
+
+theorem PGDMap20261031.optimal_constant_stepsizes : FullStepsizeTheorem := by sorry

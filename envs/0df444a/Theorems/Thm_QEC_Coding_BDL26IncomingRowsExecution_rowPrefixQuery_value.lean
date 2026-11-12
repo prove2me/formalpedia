@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowPrefixQuery_value
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowPrefixQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:21:19.545248+00:00
 -- url     : https://prove2.me/theorems/5d9f7cdb-857b-4688-abac-07f6c7e0ad76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_sign_residual_phase
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.sign_residual_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:30:41.881273+00:00
 -- url     : https://prove2.me/theorems/1d42a3d3-c032-44d2-a7a0-0b705d3fa94c

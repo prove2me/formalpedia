@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineCuspTwistedCoefficient_add
 -- name    : OAI.CubicEisenstein.affineCuspTwistedCoefficient_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:01:37.988918+00:00
 -- url     : https://prove2.me/theorems/dd7e7f07-9882-4cf0-80fd-7e8e8620fee8

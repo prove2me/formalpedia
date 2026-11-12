@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_logicalBasisEquiv_symm_mk_reducedCombination
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.logicalBasisEquiv_symm_mk_reducedCombination
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:57.885763+00:00
 -- url     : https://prove2.me/theorems/953c474f-9bf1-4c12-bd7a-3d4df134d7b8

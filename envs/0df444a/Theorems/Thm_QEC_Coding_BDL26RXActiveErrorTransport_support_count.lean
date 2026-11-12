@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_support_count
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.support_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:40:22.625386+00:00
 -- url     : https://prove2.me/theorems/62c2c2e3-190d-49e8-9a60-c4027e6638d8

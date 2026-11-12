@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_a06_original_compound_gated_levy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T01:54:02.677874+00:00
 -- url     : https://prove2.me/submissions/12bb4b96-250e-49ba-850b-77fa8e62e2ca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.IdentDistrib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

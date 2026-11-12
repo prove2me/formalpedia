@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_sector_envelope
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.sector_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:14:15.108788+00:00
 -- url     : https://prove2.me/theorems/73407822-dbc1-4f97-96b3-b1763b90d6ed

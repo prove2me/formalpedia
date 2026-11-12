@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_OneParticle_relativelyCompact_perturbation
 -- name    : TeschlQM.OneParticle.relativelyCompact_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @Gabewhigham
 -- created : 2026-10-07T15:19:51.763104+00:00
 -- url     : https://prove2.me/theorems/1a5686e3-98b6-4a51-aa10-85eea41a41d8

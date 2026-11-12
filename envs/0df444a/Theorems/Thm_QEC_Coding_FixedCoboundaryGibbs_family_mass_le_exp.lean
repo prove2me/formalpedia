@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FixedCoboundaryGibbs_family_mass_le_exp
 -- name    : QEC.Coding.FixedCoboundaryGibbs.family_mass_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:43:58.09887+00:00
 -- url     : https://prove2.me/theorems/abb8e777-c6b1-4c49-a11d-390f7b22e46e

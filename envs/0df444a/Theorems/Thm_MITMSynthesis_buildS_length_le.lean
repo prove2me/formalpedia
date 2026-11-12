@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MITMSynthesis_buildS_length_le
 -- name    : MITMSynthesis.buildS_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:08:33.680872+00:00
 -- url     : https://prove2.me/theorems/a9082955-7b92-4106-a392-6febe9b5d9b2

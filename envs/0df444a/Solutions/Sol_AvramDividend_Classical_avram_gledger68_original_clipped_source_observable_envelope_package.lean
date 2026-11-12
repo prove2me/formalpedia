@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gledger68_original_clipped_source_observable_envelope_package
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T01:42:27.470347+00:00
 -- url     : https://prove2.me/submissions/97e44a9a-e5d2-4e1a-b6fc-6b70c043cf03
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gledger69_original_clipped_source_cell_exponential_L1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_dedup_cost
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.dedup_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:46:06.445534+00:00
 -- url     : https://prove2.me/theorems/7387dedf-f929-4dd6-9e49-0d7c7d8b544d

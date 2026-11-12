@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQConcreteCoherence_oldZ_pair_distinct
 -- name    : QEC.Coding.BDL26RXQConcreteCoherence.oldZ_pair_distinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:17:54.731688+00:00
 -- url     : https://prove2.me/theorems/06fe1db8-d024-4487-847c-4059afa3a594

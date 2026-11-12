@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_lower3_retained_imbalance
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.lower3_retained_imbalance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:05:47.318879+00:00
 -- url     : https://prove2.me/theorems/594c66ca-daac-43e9-b5a2-a447b83865f4

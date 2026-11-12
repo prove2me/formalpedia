@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Helstrom_eq_2_11
 -- name    : FuchsThesis.Helstrom.eq_2_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:55:30.228315+00:00
 -- url     : https://prove2.me/theorems/fdb09e4d-80b8-4861-bd47-80f223d3a133

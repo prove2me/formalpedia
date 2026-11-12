@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomSeedEmbedding_seed_check_card
 -- name    : QEC.Coding.BDL26RandomSeedEmbedding.seed_check_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:38:32.800484+00:00
 -- url     : https://prove2.me/theorems/df1afcfe-fdb8-49c6-8e39-f64cb37d42c1

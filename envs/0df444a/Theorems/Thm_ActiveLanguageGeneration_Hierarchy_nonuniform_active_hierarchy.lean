@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActiveLanguageGeneration_Hierarchy_nonuniform_active_hierarchy
 -- name    : ActiveLanguageGeneration.Hierarchy.nonuniform_active_hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T21:17:26.034817+00:00
 -- url     : https://prove2.me/theorems/a3565dbf-865f-4dd9-adbe-224fbec0fe87

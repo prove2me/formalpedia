@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_event_probability_le
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_event_probability_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:58:35.967276+00:00
 -- url     : https://prove2.me/theorems/7f975692-27b3-4bf9-a058-bce9e1859c43

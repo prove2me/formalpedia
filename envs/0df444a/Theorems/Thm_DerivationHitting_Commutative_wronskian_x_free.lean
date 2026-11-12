@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerivationHitting_Commutative_wronskian_x_free
 -- name    : DerivationHitting.Commutative.wronskian_x_free
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:11:51.588207+00:00
 -- url     : https://prove2.me/theorems/2d46b56e-4280-439b-9d5c-e2ab10fdd55d

@@ -49816,7 +49816,7 @@
 {"parent": "CarbonDoubleCount.Leader.proposition_5", "child": "CarbonDoubleCount_Leader_Setting", "via": ["solution", "statement"]}
 {"parent": "CarbonDoubleCount.Leader.rule12_incentive_compatible", "child": "CarbonDoubleCount_Leader_Setting", "via": ["statement"]}
 {"parent": "CarbonDoubleCount.Leader.rule12_participation", "child": "CarbonDoubleCount_Leader_Setting", "via": ["solution", "statement"]}
-{"parent": "CarbonDoubleCount.Planner.eq_18", "child": "CarbonDoubleCount_Planner_Setting", "via": ["statement"]}
+{"parent": "CarbonDoubleCount.Planner.eq_18", "child": "CarbonDoubleCount_Planner_Setting", "via": ["solution", "statement"]}
 {"parent": "CarbonDoubleCount_Leader_Setting", "child": "CarbonDoubleCount_Planner_Setting", "via": ["statement"]}
 {"parent": "CarbonDoubleCount_Planner_Setting", "child": "CarbonDoubleCount_Planner_PureGame", "via": ["statement"]}
 {"parent": "CarlenKusuokaStroock.heatKernel_le_exp_davies", "child": "DurrettProbability_MarkovChain", "via": ["solution", "statement"]}
@@ -98851,8 +98851,8 @@
 {"parent": "EthierKurtz.exclusion_feller_generation", "child": "EthierKurtz_exclusionGraph", "via": ["statement"]}
 {"parent": "EthierKurtz.exclusion_feller_generation", "child": "EthierKurtz_spinVariation", "via": ["statement"]}
 {"parent": "EthierKurtz.feller_generation_of_positive_maximum", "child": "EthierKurtz_IsStronglyContinuousContractionSemigroup", "via": ["solution", "statement"]}
-{"parent": "EthierKurtz.hille_yosida", "child": "EthierKurtz_IsInfinitesimalGenerator", "via": ["statement"]}
-{"parent": "EthierKurtz.hille_yosida", "child": "EthierKurtz_IsStronglyContinuousContractionSemigroup", "via": ["statement"]}
+{"parent": "EthierKurtz.hille_yosida", "child": "EthierKurtz_IsInfinitesimalGenerator", "via": ["solution", "statement"]}
+{"parent": "EthierKurtz.hille_yosida", "child": "EthierKurtz_IsStronglyContinuousContractionSemigroup", "via": ["solution", "statement"]}
 {"parent": "EthierKurtz.homogeneous_levy_feller_generation", "child": "EthierKurtz_IsStronglyContinuousContractionSemigroup", "via": ["statement"]}
 {"parent": "EthierKurtz.homogeneous_levy_feller_generation", "child": "EthierKurtz_boundedPointwiseClosure", "via": ["statement"]}
 {"parent": "EthierKurtz.homogeneous_levy_feller_generation", "child": "EthierKurtz_homogeneousLevyGraph", "via": ["statement"]}

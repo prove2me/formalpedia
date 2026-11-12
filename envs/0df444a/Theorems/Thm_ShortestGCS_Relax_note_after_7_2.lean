@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_Relax_note_after_7_2
 -- name    : ShortestGCS.Relax.note_after_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:59:50.275815+00:00
 -- url     : https://prove2.me/theorems/0abca4aa-0e4d-4a34-a6a8-1fb7e8261c9e

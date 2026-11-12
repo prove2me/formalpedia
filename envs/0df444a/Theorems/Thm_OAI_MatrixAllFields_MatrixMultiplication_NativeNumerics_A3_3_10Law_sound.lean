@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_NativeNumerics_A3_3_10Law_sound
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.A3_3_10Law_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:59:52.788224+00:00
 -- url     : https://prove2.me/theorems/e9ce2691-8351-4ee7-975a-c08023738057

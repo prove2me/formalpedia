@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_actualHistory_component_mask_counterexample
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.actualHistory_component_mask_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:13:57.867143+00:00
 -- url     : https://prove2.me/theorems/9a269304-9e73-4625-90c0-33c18be03b6c

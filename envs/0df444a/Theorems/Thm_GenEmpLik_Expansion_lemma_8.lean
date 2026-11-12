@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Expansion_lemma_8
 -- name    : GenEmpLik.Expansion.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:48:01.681356+00:00
 -- url     : https://prove2.me/theorems/bd512a7b-7aec-4d0b-a17e-60daecdf4ab1

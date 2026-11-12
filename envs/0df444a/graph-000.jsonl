@@ -73289,15 +73289,12 @@
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_bound", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.hjb_pointwise_inequalities", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
@@ -74193,12 +74190,7 @@
 {"parent": "AvramDividend.Classical.local_verification_stochastic_test_nonneg", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.local_verification_top_branch_from_capped", "child": "AvramDividend.Classical.valueFunctionLe_top_eq_valueFunction", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification_top_branch_from_capped", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.local_verification_uniform_strategy_bound", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_bound", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification_uniform_strategy_bound", "child": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_bound", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification_uniform_strategy_bound", "child": "AvramDividend.Classical.dividendValue_le_of_truncated_bound_measurable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification_uniform_strategy_bound", "child": "AvramDividend.Classical.local_verification_hjb_implies_components", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification_uniform_strategy_bound", "child": "AvramDividend.Classical.local_verification_stochastic_test_nonneg", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification_uniform_strategy_bound", "child": "AvramDividend.Classical.truncated_dividend_payoff_measurable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification_uniform_strategy_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.local_verification_w_nonneg_below_cap", "child": "AvramDividend.Classical.local_verification_hjb_controls_dividend_jump_le_cap", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification_w_nonneg_below_cap", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSetCounting_graph_adj_iff
 -- name    : QEC.Coding.BDL26ConnectedSetCounting.graph_adj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:44:39.933415+00:00
 -- url     : https://prove2.me/theorems/8ecdb900-64eb-4f2b-8c01-e3a5f9f8384b

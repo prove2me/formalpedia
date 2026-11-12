@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_singleQubitLift_mem_generatedUnitaryTopologicalClosure
 -- name    : QEC.Distillation.FiniteRegisterUniversality.singleQubitLift_mem_generatedUnitaryTopologicalClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:25:23.570994+00:00
 -- url     : https://prove2.me/theorems/7affd296-71e8-459d-a23f-95bb6d23b824

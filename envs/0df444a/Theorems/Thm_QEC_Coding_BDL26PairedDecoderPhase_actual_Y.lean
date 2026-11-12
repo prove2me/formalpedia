@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_actual_Y
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.actual_Y
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:56:51.451506+00:00
 -- url     : https://prove2.me/theorems/81b4241d-9daf-46f2-9cde-81f06d1b5506

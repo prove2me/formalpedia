@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_observable_norm
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.observable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:21:42.548533+00:00
 -- url     : https://prove2.me/theorems/8bbb878c-390b-4418-ad01-5d7cf3430d4a

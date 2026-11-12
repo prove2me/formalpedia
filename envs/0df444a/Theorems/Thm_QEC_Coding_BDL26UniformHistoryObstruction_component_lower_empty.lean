@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_component_lower_empty
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.component_lower_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:08:18.558891+00:00
 -- url     : https://prove2.me/theorems/66b4f9c6-c124-4f65-8ec5-4db9e5f7cf3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCohomology_gauge_choice_independent
 -- name    : QEC.Coding.BDL26RXCohomology.gauge_choice_independent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:44:58.098928+00:00
 -- url     : https://prove2.me/theorems/4c9e8aff-6388-4124-8b4c-a765ee94aa2b

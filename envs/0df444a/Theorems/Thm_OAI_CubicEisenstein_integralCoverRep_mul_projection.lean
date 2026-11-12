@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralCoverRep_mul_projection
 -- name    : OAI.CubicEisenstein.integralCoverRep_mul_projection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:23:58.199519+00:00
 -- url     : https://prove2.me/theorems/ebe57e3b-0ca3-493a-ae3b-d8a3de459e5d

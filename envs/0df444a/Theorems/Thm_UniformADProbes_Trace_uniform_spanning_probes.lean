@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformADProbes_Trace_uniform_spanning_probes
 -- name    : UniformADProbes.Trace.uniform_spanning_probes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:55.850355+00:00
 -- url     : https://prove2.me/theorems/e7ce08ae-4aef-44ef-b5e8-c77b4fa97aa2

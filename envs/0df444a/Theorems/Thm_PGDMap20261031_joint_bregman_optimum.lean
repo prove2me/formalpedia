@@ -1,0 +1,64 @@
+-- Prove2me | Theorems.Thm_PGDMap20261031_joint_bregman_optimum
+-- name    : PGDMap20261031.joint_bregman_optimum
+-- status  : Proved
+-- author  : @Somehow
+-- created : 2026-10-31T13:04:05.840925+00:00
+-- url     : https://prove2.me/theorems/16d88707-66f2-4072-abc1-4e0089053379
+-- title:
+--   Theorem 1: jointly optimal Bregman map and constant stepsize
+-- statement:
+--   ## 01 · A fixed entropy shape and algorithmic split
+--
+--   On $I=(-1,1)$, define
+--
+--   $$H(t)=\tfrac12[(1+t)\log(1+t)+(1-t)\log(1-t)].$$
+--
+--   Fix a finite positive mixture $\psi(t)=\sum_{j=1}^m w_jH(\sqrt{a_j}t)$, with $m\ge1$, $w_j>0$, $0<a_j<1$, and fix $\lambda>0$. The objective family is
+--
+--   $$F_\ell(t)=\psi(t)+\lambda H(t)+\ell t,\qquad \ell\in\mathbb R.$$
+--
+--   The explicit term is $\psi+\ell t$; the implicit term is $\lambda H$. The geometry is normalized by
+--
+--   $$k_c(t)=\phi_{2-c}''(t)=\tfrac12[(1+t)^{-c}+(1-t)^{-c}],\qquad c\in[0,2].$$
+--
+--   The cases $c=0,1,2$ give quadratic, entropy and Burg geometry. Let $p=1/\eta>0$ and $D_c(t)=\int_0^t k_c(s)\,ds$. One update satisfies
+--
+--   $$pD_c(t_{i+1})+\lambda\operatorname{atanh}(t_{i+1})=pD_c(t_i)-\psi'(t_i)-\ell.$$
+--
+--   ## 02 · Exact performance at every finite horizon
+--
+--   Write $A(t)=\sum_jw_ja_j/(1-a_jt^2)$, $B(t)=\lambda/(1-t^2)$ and
+--
+--   $$E_{c,p}(t)=\frac{pk_c(t)-A(t)}{pk_c(t)+B(t)},\qquad\rho(c,p)=\sup_{0\le t<1}|E_{c,p}(t)|.$$
+--
+--   For every allowed geometry and step, and every finite $N\ge1$,
+--
+--   $$\boxed{\sup_{\ell,t_0:\,F_\ell'(t_0)\ne0}\frac{|F_\ell'(t_N)|^2}{|F_\ell'(t_0)|^2}=\rho(c,p)^{2N}.}$$
+--
+--   ## 03 · The unique joint optimum
+--
+--   Let $A_0=\sum_jw_ja_j$, $A_1=\sum_jw_ja_j/(1-a_j)$, $\bar a=\max_j a_j$, and $\chi(a)=(\sqrt{1+8a}-1)/2$. There is exactly one global minimizer $(c_*,p_*)$ over $[0,2]\times(0,\infty)$, and
+--
+--   $$0<c_*<\chi(\bar a)<1,\qquad A_0/2<p_*<A_1,$$
+--   $$0<\rho_*<\frac{A_0}{A_0+2\lambda}<1.$$
+--
+--   Its value is strictly smaller than the infimum achieved by optimizing the positive step separately at either $c=0$ or $c=1$. The same pair uniquely minimizes the finite-horizon criterion for every $N\ge1$.
+--
+--   ## 04 · A three-contact global certificate
+--
+--   At the optimum, there are $0\le t_1<t_2<t_3<1$ and $\sigma\in\{-1,1\}$ with
+--
+--   $$E_{c_*,p_*}(t_i)=\sigma(-1)^{i-1}\rho_*.$$
+--
+--   A feasible pair with a uniform error bound $r>0$ and three such alternating contacts is conversely the unique global optimum, with optimal value $r$.
+--
+--   For a single profile $\psi(t)=H(\sqrt a\,t)$, the sharper bounds are $a<p_*<a/(1-a)$; the alternating contacts start at $t_1=0$ with signs $+,-,+$.
+--
+--   **Formalization note.** The target covers the stated one-dimensional positive-mixture class, the entire normalized power family and all positive constant steps. The criterion is gradient contraction. Runtime and total computational cost are not part of this target. Derivatives, integrals and extrema are computed from the explicit functions rather than supplied as assumptions.
+-- source:
+--   Jointly Optimal Bregman Geometry and Stepsize for Positive Entropy Mixtures, manuscript dated 2026-10-30, Theorem 1, p. 2; proof pp. 2-5; local source: 03_Jointly_Optimal_Bregman_Map_and_Stepsize.pdf
+
+import Definitions.Def_PGDMap20261031_Entropy
+open PGDMap20261031
+
+theorem PGDMap20261031.joint_bregman_optimum : FullMapTheorem := by sorry

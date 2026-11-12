@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_totalCost_succ
 -- name    : QEC.Coding.BDL26PaidRowsComposition.totalCost_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:32:47.84247+00:00
 -- url     : https://prove2.me/theorems/a3fe130e-a6f2-4bb9-80c2-a9590af3a04f

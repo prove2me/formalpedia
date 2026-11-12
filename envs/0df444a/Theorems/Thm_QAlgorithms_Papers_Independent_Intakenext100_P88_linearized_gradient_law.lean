@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P88_linearized_gradient_law
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P88.linearized_gradient_law
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:25:36.292976+00:00
 -- url     : https://prove2.me/theorems/b974a52e-8965-46e8-9042-88d5566777ca

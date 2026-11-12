@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXPhysicalStarTransport_vertical_perturbation
 -- name    : QEC.Coding.BDL26RXPhysicalStarTransport.vertical_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:13:47.907486+00:00
 -- url     : https://prove2.me/theorems/2317dafc-a17b-41ba-a6fd-092e2dda106d

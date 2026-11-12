@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_decoder_owner_q
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.decoder_owner_q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:16:02.432562+00:00
 -- url     : https://prove2.me/theorems/f664a46d-92b6-4ad3-8b23-99dbc46d8af3

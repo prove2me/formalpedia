@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_measurable_extendedTotalCost
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.measurable_extendedTotalCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:13:39.746435+00:00
 -- url     : https://prove2.me/theorems/3f671a99-6782-410f-92cf-d58e0022d177

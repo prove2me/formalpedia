@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteurerHDX_section_2_3_flags
 -- name    : SteurerHDX.section_2_3_flags
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:35:48.692949+00:00
 -- url     : https://prove2.me/theorems/d964aab0-611a-4f94-977d-788f48354c8d

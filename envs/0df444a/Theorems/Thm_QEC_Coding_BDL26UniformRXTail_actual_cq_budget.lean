@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_cq_budget
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_cq_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:09:36.70814+00:00
 -- url     : https://prove2.me/theorems/e755a7c2-9af3-4819-8e2e-782e7d338fab

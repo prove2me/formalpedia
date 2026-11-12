@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoTransparency_regions_N1_N3_payoffs
 -- name    : AlgoTransparency.regions_N1_N3_payoffs
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:50:05.994321+00:00
 -- url     : https://prove2.me/theorems/ea9b06b5-f732-4a65-9ef9-b5d771a4950c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_gamma2_nonzero
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.gamma2_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:28.325255+00:00
 -- url     : https://prove2.me/theorems/1f3cf7e0-681e-4c28-bdb1-476e0f93e5d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NondetConn_f_closed_form
 -- name    : NondetConn.f_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T06:21:24.779556+00:00
 -- url     : https://prove2.me/theorems/002de6c5-5540-472f-a4a8-d73b71ec0df0

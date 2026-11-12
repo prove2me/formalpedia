@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_projector_reference
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.projector_reference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:23:50.684214+00:00
 -- url     : https://prove2.me/theorems/f1c5c9da-6555-44c3-866f-55b131184d45

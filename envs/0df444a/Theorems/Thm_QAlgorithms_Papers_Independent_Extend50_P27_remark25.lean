@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P27_remark25
 -- name    : QAlgorithms.Papers.Independent.Extend50.P27.remark25
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T20:49:47.152402+00:00
 -- url     : https://prove2.me/theorems/6397e91a-b13e-41b3-8adf-d3fa21cdf492

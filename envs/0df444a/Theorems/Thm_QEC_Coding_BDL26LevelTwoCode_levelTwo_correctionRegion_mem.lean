@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoCode_levelTwo_correctionRegion_mem
 -- name    : QEC.Coding.BDL26LevelTwoCode.levelTwo_correctionRegion_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:25:41.769099+00:00
 -- url     : https://prove2.me/theorems/01fed47c-4426-4756-89ef-144d377afd24

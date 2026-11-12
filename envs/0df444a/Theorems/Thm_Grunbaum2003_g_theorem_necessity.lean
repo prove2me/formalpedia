@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_g_theorem_necessity
 -- name    : Grunbaum2003.g_theorem_necessity
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T20:49:33.01302+00:00
 -- url     : https://prove2.me/theorems/a5d42b87-a93f-4ddc-ac1f-579bb1ba5476

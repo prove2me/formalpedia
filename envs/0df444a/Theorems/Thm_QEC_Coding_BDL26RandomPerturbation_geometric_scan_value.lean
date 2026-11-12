@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_geometric_scan_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.geometric_scan_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:18:45.625199+00:00
 -- url     : https://prove2.me/theorems/2d36d9f1-5c6e-4e5b-8211-d0dab32912ce

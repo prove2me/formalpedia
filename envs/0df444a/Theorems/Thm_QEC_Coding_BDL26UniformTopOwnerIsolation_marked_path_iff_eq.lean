@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformTopOwnerIsolation_marked_path_iff_eq
 -- name    : QEC.Coding.BDL26UniformTopOwnerIsolation.marked_path_iff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:16:32.191758+00:00
 -- url     : https://prove2.me/theorems/a625165d-0f77-4c85-9f1a-f5bc5715c87e

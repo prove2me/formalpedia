@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_measurable_streamCounters
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.measurable_streamCounters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:07:27.837338+00:00
 -- url     : https://prove2.me/theorems/3bd970c6-307a-4281-995b-37be6a03c15c

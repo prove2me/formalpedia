@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_composed_cocycle
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.composed_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:16:54.433116+00:00
 -- url     : https://prove2.me/theorems/497a9251-c9cd-4766-a774-b4ceccb90f26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_booleanXor_coefficientBitList
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.booleanXor_coefficientBitList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:35:53.778924+00:00
 -- url     : https://prove2.me/theorems/7346be41-a3a8-40e3-923e-549a0c03f99e

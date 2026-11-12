@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_ErrorBound_theorem4
 -- name    : TsengCGD.ErrorBound.theorem4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:04:35.716992+00:00
 -- url     : https://prove2.me/theorems/84200715-e401-46ee-aaad-69dbfbf24a7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingNetFlow_ChainStable_lemma_5_5
 -- name    : TradingNetFlow.ChainStable.lemma_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:25:25.470794+00:00
 -- url     : https://prove2.me/theorems/8e319fe0-7fc4-435f-b93d-9569dc4c6181

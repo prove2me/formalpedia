@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullRetainedGrowth_seed_card
 -- name    : QEC.Coding.BDL26RXIncidenceHullRetainedGrowth.seed_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:38:41.167122+00:00
 -- url     : https://prove2.me/theorems/73f161ee-5578-4a40-b957-98528b008e66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalStarTransport_retained_vertical_parents
 -- name    : QEC.Coding.BDL26RZPhysicalStarTransport.retained_vertical_parents
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:29:29.714098+00:00
 -- url     : https://prove2.me/theorems/2a1a597b-5c18-4ea4-b28e-9b274c26af67

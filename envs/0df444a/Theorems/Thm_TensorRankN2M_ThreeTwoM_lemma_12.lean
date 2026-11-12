@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorRankN2M_ThreeTwoM_lemma_12
 -- name    : TensorRankN2M.ThreeTwoM.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:18:38.684075+00:00
 -- url     : https://prove2.me/theorems/251e3a0e-8202-46cd-bed4-aaf35fd5808c

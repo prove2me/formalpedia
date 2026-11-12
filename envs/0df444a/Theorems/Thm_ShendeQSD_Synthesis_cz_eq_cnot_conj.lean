@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShendeQSD_Synthesis_cz_eq_cnot_conj
 -- name    : ShendeQSD.Synthesis.cz_eq_cnot_conj
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:19:55.754832+00:00
 -- url     : https://prove2.me/theorems/c532dd40-7518-446e-bb31-8b5019f61809

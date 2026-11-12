@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_xError_syndrome
 -- name    : QEC.Coding.BDL26CSSHamiltonian.xError_syndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:53:42.672801+00:00
 -- url     : https://prove2.me/theorems/d4b13880-21df-4780-be4d-339f8812db67

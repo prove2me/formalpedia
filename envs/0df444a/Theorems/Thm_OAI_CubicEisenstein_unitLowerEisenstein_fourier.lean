@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_unitLowerEisenstein_fourier
 -- name    : OAI.CubicEisenstein.unitLowerEisenstein_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:37:34.556422+00:00
 -- url     : https://prove2.me/theorems/b9595f3d-c470-415a-8c22-24ad0a8968ff

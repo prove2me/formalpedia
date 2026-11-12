@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_bv_compound_driver_to_original_source
 -- name    : AvramDividend.Classical.avram_a06_bv_compound_driver_to_original_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T17:03:54.602196+00:00
 -- url     : https://prove2.me/theorems/fbe058fd-962c-4ce9-ae88-5ce95cba3ed3

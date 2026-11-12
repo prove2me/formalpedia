@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_simple_graph_edgeSet_extension_to_bound__p2m_5db12fa6_6ddb_45ce_9ff4_a1f528d0a813_a2
 -- name    : WilliamsonShmoys.simple_graph_edgeSet_extension_to_bound__p2m_5db12fa6_6ddb_45ce_9ff4_a1f528d0a813_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:29:03.600327+00:00
 -- url     : https://prove2.me/theorems/ff7e7d85-fbc3-441d-8708-f1cded3331d7

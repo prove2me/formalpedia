@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_correctionExponentInt_cast8
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.correctionExponentInt_cast8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:16.647713+00:00
 -- url     : https://prove2.me/theorems/4af2d3fd-c923-4171-ba41-7e8b50cd75ee

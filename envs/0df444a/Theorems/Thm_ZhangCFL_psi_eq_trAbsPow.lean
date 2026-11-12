@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangCFL_psi_eq_trAbsPow
 -- name    : ZhangCFL.psi_eq_trAbsPow
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:51:05.086437+00:00
 -- url     : https://prove2.me/theorems/479022e9-b55a-4111-a450-bcfae39967fe

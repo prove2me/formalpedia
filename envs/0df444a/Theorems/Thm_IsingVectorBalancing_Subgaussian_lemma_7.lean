@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsingVectorBalancing_Subgaussian_lemma_7
 -- name    : IsingVectorBalancing.Subgaussian.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T01:34:03.925361+00:00
 -- url     : https://prove2.me/theorems/55ef45a5-e75e-44f6-bfe8-c8a181925a1e

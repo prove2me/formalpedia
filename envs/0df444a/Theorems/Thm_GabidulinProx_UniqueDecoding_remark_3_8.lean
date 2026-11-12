@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GabidulinProx_UniqueDecoding_remark_3_8
 -- name    : GabidulinProx.UniqueDecoding.remark_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:03.404236+00:00
 -- url     : https://prove2.me/theorems/3be5372b-622e-45e3-87e7-a3eef794c3d7

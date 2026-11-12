@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_CompactCertificate_normalized_sound
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.CompactCertificate.normalized_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:49:27.809494+00:00
 -- url     : https://prove2.me/theorems/04bc310c-fb79-4ebf-b10a-004fd9592712

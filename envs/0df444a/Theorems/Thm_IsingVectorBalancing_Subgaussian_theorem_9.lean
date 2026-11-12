@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsingVectorBalancing_Subgaussian_theorem_9
 -- name    : IsingVectorBalancing.Subgaussian.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T01:34:15.446353+00:00
 -- url     : https://prove2.me/theorems/fbbf73d6-2cb4-4bc5-892c-5212c0a1c567

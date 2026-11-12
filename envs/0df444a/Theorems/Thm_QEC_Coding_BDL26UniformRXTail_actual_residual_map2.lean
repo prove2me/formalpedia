@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_residual_map2
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_residual_map2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T06:54:43.972728+00:00
 -- url     : https://prove2.me/theorems/fd8a163e-82d3-4380-91ce-94edcc25e69b

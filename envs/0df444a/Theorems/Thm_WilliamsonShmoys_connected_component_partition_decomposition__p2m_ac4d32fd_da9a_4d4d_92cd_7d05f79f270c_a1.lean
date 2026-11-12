@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_component_partition_decomposition__p2m_ac4d32fd_da9a_4d4d_92cd_7d05f79f270c_a1
 -- name    : WilliamsonShmoys.connected_component_partition_decomposition__p2m_ac4d32fd_da9a_4d4d_92cd_7d05f79f270c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:55:39.95579+00:00
 -- url     : https://prove2.me/theorems/3d84d730-6b0a-4f45-aefe-4257d390e6e6

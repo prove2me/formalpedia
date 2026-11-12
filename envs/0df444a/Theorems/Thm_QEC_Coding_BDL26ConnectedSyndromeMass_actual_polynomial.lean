@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_actual_polynomial
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.actual_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:12:14.360252+00:00
 -- url     : https://prove2.me/theorems/1b5ff3d9-de9b-42ba-a4b2-0415c8253477

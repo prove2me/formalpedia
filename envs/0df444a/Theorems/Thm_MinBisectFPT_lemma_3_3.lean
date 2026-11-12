@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinBisectFPT_lemma_3_3
 -- name    : MinBisectFPT.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T15:52:42.463347+00:00
 -- url     : https://prove2.me/theorems/2eb524a6-a405-4ea8-a95a-caaefccc3bea

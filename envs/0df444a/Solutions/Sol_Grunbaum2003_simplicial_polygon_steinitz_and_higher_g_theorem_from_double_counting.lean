@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_from_double_counting
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-08T03:46:59.738194+00:00
 -- url     : https://prove2.me/submissions/3d93ac4d-9c1d-4785-a51d-d6d71eac44e7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsDPolytope
 import Definitions.Def_Grunbaum2003_IsSimplicialDPolytope

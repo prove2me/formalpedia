@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_syndromeBlocks_eq_regions
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.syndromeBlocks_eq_regions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:52:35.591127+00:00
 -- url     : https://prove2.me/theorems/f348d09e-ca07-4af5-b8f1-7482422a0e91

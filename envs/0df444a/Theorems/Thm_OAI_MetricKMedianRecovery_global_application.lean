@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricKMedianRecovery_global_application
 -- name    : OAI.MetricKMedianRecovery.global_application
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:56.814284+00:00
 -- url     : https://prove2.me/theorems/fc7001ed-79ae-40a3-9303-868ba3cdb18e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos970_Erdos970Final_erdos_970_quadratic
 -- name    : OAI.Erdos970.Erdos970Final.erdos_970_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:37.779734+00:00
 -- url     : https://prove2.me/theorems/618784a0-08c9-4b4e-86f5-0673b23aed66

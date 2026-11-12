@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerandSq_lemma_2_2
 -- name    : DerandSq.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:53:31.295563+00:00
 -- url     : https://prove2.me/theorems/586cdfd8-cd23-4b85-8544-21143b363b65

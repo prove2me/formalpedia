@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneExpansion_theorem_14
 -- name    : ZeroOneExpansion.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:22:38.545054+00:00
 -- url     : https://prove2.me/theorems/fbf67d4d-4687-4cb5-ad81-4fe7a3d8203d

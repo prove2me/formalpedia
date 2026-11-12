@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_exists_replacement_scale_parameter
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.exists_replacement_scale_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T21:29:11.714099+00:00
 -- url     : https://prove2.me/theorems/5806e7de-957b-4344-b8f9-889c4021232e

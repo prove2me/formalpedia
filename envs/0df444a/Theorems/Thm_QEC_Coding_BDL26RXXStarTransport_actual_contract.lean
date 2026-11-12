@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXXStarTransport_actual_contract
 -- name    : QEC.Coding.BDL26RXXStarTransport.actual_contract
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:44:27.873303+00:00
 -- url     : https://prove2.me/theorems/21bace00-9d91-417e-95e0-c77d184d6287

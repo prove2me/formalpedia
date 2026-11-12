@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_rowCoefficientMap_reducedCombination
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.rowCoefficientMap_reducedCombination
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:29:26.627857+00:00
 -- url     : https://prove2.me/theorems/c2a8951e-8ba2-4f9e-9cda-0f623dbeb163

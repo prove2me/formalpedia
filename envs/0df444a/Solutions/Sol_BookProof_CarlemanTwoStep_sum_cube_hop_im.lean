@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanTwoStep.sum_cube_hop_im
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T06:50:37.859541+00:00
 -- url     : https://prove2.me/submissions/799d4b08-c282-4966-a958-51b6940227b9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanTwoStep.lean — solution of BookProof.CarlemanTwoStep.sum_cube_hop_im
 import Mathlib

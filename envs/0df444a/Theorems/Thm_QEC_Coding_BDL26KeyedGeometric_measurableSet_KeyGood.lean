@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_measurableSet_KeyGood
 -- name    : QEC.Coding.BDL26KeyedGeometric.measurableSet_KeyGood
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:50.97841+00:00
 -- url     : https://prove2.me/theorems/e3b81902-0543-4075-841c-c5e094720fe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rxFace_card_eq_flatCell
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rxFace_card_eq_flatCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:50:03.346706+00:00
 -- url     : https://prove2.me/theorems/2859b1ff-b8d5-4a03-b607-9035d2546146

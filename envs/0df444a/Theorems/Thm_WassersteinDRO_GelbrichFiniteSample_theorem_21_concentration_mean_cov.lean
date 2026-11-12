@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_GelbrichFiniteSample_theorem_21_concentration_mean_cov
 -- name    : WassersteinDRO.GelbrichFiniteSample.theorem_21_concentration_mean_cov
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:59:53.849249+00:00
 -- url     : https://prove2.me/theorems/6af67c7b-7e97-4bbe-b4fe-e8db16bcde5a

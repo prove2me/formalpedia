@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_actual_potential_comp
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.actual_potential_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:24:29.776236+00:00
 -- url     : https://prove2.me/theorems/82c94527-ed07-4750-ab31-e902f24d916d

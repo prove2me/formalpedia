@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalStarTransport_upperStar_card_le_seven
 -- name    : QEC.Coding.BDL26RZPhysicalStarTransport.upperStar_card_le_seven
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:19:59.151757+00:00
 -- url     : https://prove2.me/theorems/1b61fb4f-42a3-4292-96f6-95cd0a55e1ea

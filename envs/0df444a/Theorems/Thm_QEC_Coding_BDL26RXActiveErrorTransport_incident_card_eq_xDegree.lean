@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_incident_card_eq_xDegree
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.incident_card_eq_xDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:39:31.323846+00:00
 -- url     : https://prove2.me/theorems/7a055d65-93a7-434f-93cb-fcef001ee7b0

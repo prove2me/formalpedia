@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformADProbes_Trace_distance_polynomials
 -- name    : UniformADProbes.Trace.distance_polynomials
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:00.144138+00:00
 -- url     : https://prove2.me/theorems/ba13d6ac-dc38-4c05-a7f8-393baaab0752

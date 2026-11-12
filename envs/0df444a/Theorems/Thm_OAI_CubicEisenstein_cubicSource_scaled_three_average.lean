@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSource_scaled_three_average
 -- name    : OAI.CubicEisenstein.cubicSource_scaled_three_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:41:41.439828+00:00
 -- url     : https://prove2.me/theorems/99167c5e-b079-44d4-aab9-b990b4a45198

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KumarSeidman.TwoType.example2_modes_coexist
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T09:21:07.952495+00:00
 -- url     : https://prove2.me/submissions/c03c0ba5-a4cd-451b-aa26-b8369fa05f11
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KumarSeidman_TwoType_Example2

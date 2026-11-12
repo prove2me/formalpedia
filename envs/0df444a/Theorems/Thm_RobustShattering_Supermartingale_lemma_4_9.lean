@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustShattering_Supermartingale_lemma_4_9
 -- name    : RobustShattering.Supermartingale.lemma_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T20:43:44.136373+00:00
 -- url     : https://prove2.me/theorems/72df63f2-3b92-4e5f-8d54-f99843513317

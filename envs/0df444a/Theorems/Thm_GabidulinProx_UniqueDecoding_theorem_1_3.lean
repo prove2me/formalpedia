@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GabidulinProx_UniqueDecoding_theorem_1_3
 -- name    : GabidulinProx.UniqueDecoding.theorem_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:55.521072+00:00
 -- url     : https://prove2.me/theorems/fa7679e6-4a67-4259-97e1-4314dc30944f

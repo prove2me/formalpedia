@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_geometric_output_density_ae
 -- name    : QEC.Coding.BDL26RandomPerturbation.geometric_output_density_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:17:26.136738+00:00
 -- url     : https://prove2.me/theorems/2620ece5-abee-40f8-a550-8be719dcb499

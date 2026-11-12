@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P22_abort_factorization
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P22.abort_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T08:01:50.742436+00:00
 -- url     : https://prove2.me/theorems/965deb6b-43a8-4ed4-a41e-5813c17418bb

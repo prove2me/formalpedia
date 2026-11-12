@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_supportOf_length
 -- name    : QEC.Coding.BDL26NativeStateRows.supportOf_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:42:16.458477+00:00
 -- url     : https://prove2.me/theorems/5f7f8a97-c420-4ee2-b125-feeb6ee0327a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_seed_rows_actual
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.seed_rows_actual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:54:09.224273+00:00
 -- url     : https://prove2.me/theorems/56d1827a-0f16-4140-903f-322a4632b89f

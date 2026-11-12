@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_triangle_hit_probability
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_triangle_hit_probability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:58:08.531219+00:00
 -- url     : https://prove2.me/theorems/37f0456b-0c58-43e4-b481-5348b7b52bca

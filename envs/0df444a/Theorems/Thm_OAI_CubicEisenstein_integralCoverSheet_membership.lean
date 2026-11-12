@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralCoverSheet_membership
 -- name    : OAI.CubicEisenstein.integralCoverSheet_membership
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:11:49.571031+00:00
 -- url     : https://prove2.me/theorems/8ba6062b-527b-4808-8e46-14ebc24a225e

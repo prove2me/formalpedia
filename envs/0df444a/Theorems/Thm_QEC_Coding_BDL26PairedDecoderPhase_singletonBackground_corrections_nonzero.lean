@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_singletonBackground_corrections_nonzero
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.singletonBackground_corrections_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:27:45.73997+00:00
 -- url     : https://prove2.me/theorems/ae74dcf8-74e3-4734-8c6e-da5fec7db59d

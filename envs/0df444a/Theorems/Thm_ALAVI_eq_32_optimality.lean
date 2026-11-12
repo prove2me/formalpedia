@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALAVI_eq_32_optimality
 -- name    : ALAVI.eq_32_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:40:21.689468+00:00
 -- url     : https://prove2.me/theorems/a2089ca5-59cf-409a-8957-2975a5665648

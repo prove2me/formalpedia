@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_q_edge_gradient
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.q_edge_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:03:45.200423+00:00
 -- url     : https://prove2.me/theorems/f8b9b6e0-30e4-4e23-80b5-11231b5a850c

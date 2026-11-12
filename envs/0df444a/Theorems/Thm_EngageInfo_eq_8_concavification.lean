@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngageInfo_eq_8_concavification
 -- name    : EngageInfo.eq_8_concavification
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:20.788266+00:00
 -- url     : https://prove2.me/theorems/f84ab1fe-d159-4cc9-9f58-05f983978a81

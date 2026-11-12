@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_HighDimensionalExpander_CartwrightSteger_exists_arithmetic_coordinate_of_cartwrightStegerOrder
 -- name    : QEC.Coding.HighDimensionalExpander.CartwrightSteger.exists_arithmetic_coordinate_of_cartwrightStegerOrder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:54:26.319976+00:00
 -- url     : https://prove2.me/theorems/e91ba8ed-7ae6-4b44-8614-85e81d95d9cc

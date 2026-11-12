@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_sourceCusp_average_all
 -- name    : OAI.CubicEisenstein.sourceCusp_average_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:09:09.479722+00:00
 -- url     : https://prove2.me/theorems/09083f1c-1111-430b-9342-9ad08aef06b3

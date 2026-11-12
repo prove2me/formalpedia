@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_marksWithLower_only_z
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.marksWithLower_only_z
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:13:23.921709+00:00
 -- url     : https://prove2.me/theorems/10084001-dd2a-4e8e-9097-f1511f5dd880

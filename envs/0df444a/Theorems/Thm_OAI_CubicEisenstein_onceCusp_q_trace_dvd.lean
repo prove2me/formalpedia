@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_onceCusp_q_trace_dvd
 -- name    : OAI.CubicEisenstein.onceCusp_q_trace_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:15:53.547639+00:00
 -- url     : https://prove2.me/theorems/439cc072-156b-4adc-ba05-d56c0c0801f6

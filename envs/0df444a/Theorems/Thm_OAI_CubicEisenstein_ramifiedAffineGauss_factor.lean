@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_ramifiedAffineGauss_factor
 -- name    : OAI.CubicEisenstein.ramifiedAffineGauss_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:38:54.920382+00:00
 -- url     : https://prove2.me/theorems/95cfb27b-a9a3-42ae-b745-b4b96b805c69

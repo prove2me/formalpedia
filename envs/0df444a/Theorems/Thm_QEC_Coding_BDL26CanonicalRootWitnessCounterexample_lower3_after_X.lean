@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_lower3_after_X
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.lower3_after_X
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:06:14.097527+00:00
 -- url     : https://prove2.me/theorems/84b087e7-4287-445b-b6b9-a9dc51c1f989

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_pairing_inverses
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.pairing_inverses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:53:55.935544+00:00
 -- url     : https://prove2.me/theorems/88aa3d3c-9785-46fe-9117-d14ab1a51706

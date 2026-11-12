@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_tDirectionFidelity_hadamard
 -- name    : QEC.Distillation.OneQubitMagic.tDirectionFidelity_hadamard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:10:56.637367+00:00
 -- url     : https://prove2.me/theorems/c2d86f98-ab28-45e5-bfcb-8f902e26fd51

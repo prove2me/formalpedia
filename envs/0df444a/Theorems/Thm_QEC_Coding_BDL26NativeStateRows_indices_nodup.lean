@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_indices_nodup
 -- name    : QEC.Coding.BDL26NativeStateRows.indices_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:39:18.965204+00:00
 -- url     : https://prove2.me/theorems/be2be5f0-6d39-4d81-a116-b3527c617784

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondDRO_inducedSets_mixture
 -- name    : CondDRO.inducedSets_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:25:48.183997+00:00
 -- url     : https://prove2.me/theorems/d923cabf-212d-4d6e-a1b0-cbd0c689572c

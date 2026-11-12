@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_allFiniteSuccess_paid
 -- name    : QEC.Coding.BDL26PaidRowsComposition.allFiniteSuccess_paid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:04:20.21068+00:00
 -- url     : https://prove2.me/theorems/aa7dc74a-fd32-43fc-8fcc-7ba5c86adaef

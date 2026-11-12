@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_hasSum_diagonal_once_integrals
 -- name    : OAI.CubicEisenstein.hasSum_diagonal_once_integrals
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:46:39.092375+00:00
 -- url     : https://prove2.me/theorems/a5fdb799-5cad-4e6d-91cb-d413135de1af

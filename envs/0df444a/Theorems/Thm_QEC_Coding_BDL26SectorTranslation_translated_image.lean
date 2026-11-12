@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_translated_image
 -- name    : QEC.Coding.BDL26SectorTranslation.translated_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:44:33.233776+00:00
 -- url     : https://prove2.me/theorems/970375e3-7305-4e7f-ac89-2c1701ce88ed

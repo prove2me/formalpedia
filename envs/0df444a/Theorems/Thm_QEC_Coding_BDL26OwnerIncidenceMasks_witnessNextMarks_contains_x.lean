@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_witnessNextMarks_contains_x
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.witnessNextMarks_contains_x
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:37:04.528702+00:00
 -- url     : https://prove2.me/theorems/c6155d02-9be0-4df6-bc1c-ce96aa0d4e61

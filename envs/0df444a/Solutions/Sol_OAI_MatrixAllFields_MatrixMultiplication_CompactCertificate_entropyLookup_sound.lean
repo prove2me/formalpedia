@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MatrixAllFields.MatrixMultiplication.CompactCertificate.entropyLookup_sound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:57:12.607717+00:00
 -- url     : https://prove2.me/submissions/011680b6-e9ae-4856-80c7-bea2decd127f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ254M003

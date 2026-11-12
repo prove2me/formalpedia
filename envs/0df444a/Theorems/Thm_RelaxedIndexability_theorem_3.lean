@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedIndexability_theorem_3
 -- name    : RelaxedIndexability.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:27.242918+00:00
 -- url     : https://prove2.me/theorems/71482a79-15ac-4022-93aa-f038968189b4

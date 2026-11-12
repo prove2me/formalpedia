@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionStoppingMissMass_eq_targetMissProbability
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionStoppingMissMass_eq_targetMissProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:19:10.328733+00:00
 -- url     : https://prove2.me/theorems/51a4a7a5-846c-4213-b7a0-8c3287c5647a

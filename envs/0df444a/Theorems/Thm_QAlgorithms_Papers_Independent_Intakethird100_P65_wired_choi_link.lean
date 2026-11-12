@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P65_wired_choi_link
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P65.wired_choi_link
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T08:59:55.017798+00:00
 -- url     : https://prove2.me/theorems/b8187a73-1539-4abc-ae3d-eafb35255822

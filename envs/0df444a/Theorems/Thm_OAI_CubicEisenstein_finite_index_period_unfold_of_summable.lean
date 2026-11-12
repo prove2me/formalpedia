@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_finite_index_period_unfold_of_summable
 -- name    : OAI.CubicEisenstein.finite_index_period_unfold_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:59:37.977881+00:00
 -- url     : https://prove2.me/theorems/89812ed5-0423-4bd0-a014-cb1198bf8d82

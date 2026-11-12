@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18g_original_levy_X_laplace_quotient_to_mean
 -- name    : AvramDividend.Classical.avram_ja18g_original_levy_X_laplace_quotient_to_mean
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T03:25:57.780931+00:00
 -- url     : https://prove2.me/theorems/d8e75b25-a746-4e54-8d31-22b6a57b46fb

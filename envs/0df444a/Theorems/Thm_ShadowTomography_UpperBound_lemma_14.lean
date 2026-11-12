@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShadowTomography_UpperBound_lemma_14
 -- name    : ShadowTomography.UpperBound.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T02:45:08.246781+00:00
 -- url     : https://prove2.me/theorems/ac9dd5db-f320-4be6-bfe0-1d5b04415f96

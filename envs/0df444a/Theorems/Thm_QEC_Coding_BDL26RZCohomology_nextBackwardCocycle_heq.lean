@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZCohomology_nextBackwardCocycle_heq
 -- name    : QEC.Coding.BDL26RZCohomology.nextBackwardCocycle_heq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:47:05.369425+00:00
 -- url     : https://prove2.me/theorems/041694ac-7fa4-439b-a268-3c7cda60a435

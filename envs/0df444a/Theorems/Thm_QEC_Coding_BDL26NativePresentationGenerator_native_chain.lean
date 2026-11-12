@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_native_chain
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.native_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:47:13.224534+00:00
 -- url     : https://prove2.me/theorems/73cceb9a-00c5-4072-b88e-a3adf8617700

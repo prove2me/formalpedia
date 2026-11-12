@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinMaxLoad_lemma_7_load_identity
 -- name    : LinMaxLoad.lemma_7_load_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T16:34:46.324247+00:00
 -- url     : https://prove2.me/theorems/0021e7b8-bc4a-4fc5-84f1-cd75a141385b

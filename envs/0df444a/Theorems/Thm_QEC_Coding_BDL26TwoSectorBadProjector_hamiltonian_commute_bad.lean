@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_hamiltonian_commute_bad
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.hamiltonian_commute_bad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:22:17.908379+00:00
 -- url     : https://prove2.me/theorems/e1584b2a-bde2-472c-a0c6-2dd97bd8a505

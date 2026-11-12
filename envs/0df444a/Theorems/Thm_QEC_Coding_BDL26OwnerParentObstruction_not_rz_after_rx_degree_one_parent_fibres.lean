@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerParentObstruction_not_rz_after_rx_degree_one_parent_fibres
 -- name    : QEC.Coding.BDL26OwnerParentObstruction.not_rz_after_rx_degree_one_parent_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:53:12.894207+00:00
 -- url     : https://prove2.me/theorems/05d3f209-0ac9-484d-b11c-7abe58c52c8a

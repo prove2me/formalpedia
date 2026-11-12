@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PartitionPilot_Forcing_TransitiveGround_exists_groundInitialExternalBoundedGeometry
 -- name    : OAI.PartitionPilot.Forcing.TransitiveGround.exists_groundInitialExternalBoundedGeometry
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:56:49.714125+00:00
 -- url     : https://prove2.me/theorems/f1c914d9-69f8-4236-8991-ee6e215160f2

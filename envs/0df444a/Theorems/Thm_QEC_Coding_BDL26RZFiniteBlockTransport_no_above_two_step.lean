@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_no_above_two_step
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.no_above_two_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:16:34.712363+00:00
 -- url     : https://prove2.me/theorems/e603b2e1-7b98-4e65-aaec-235fbd92bdcf

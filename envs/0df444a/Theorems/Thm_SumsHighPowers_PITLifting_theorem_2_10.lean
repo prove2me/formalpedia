@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SumsHighPowers_PITLifting_theorem_2_10
 -- name    : SumsHighPowers.PITLifting.theorem_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T16:10:56.490374+00:00
 -- url     : https://prove2.me/theorems/6bd98d7a-12c3-45c3-906d-3c2b07f3dcdb

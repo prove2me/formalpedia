@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementSupport_rzSyndrome_partition
 -- name    : QEC.Coding.BDL26ReplacementSupport.rzSyndrome_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T00:57:50.13237+00:00
 -- url     : https://prove2.me/theorems/26f6903b-5a36-40e8-90d7-3ae8ea3f8ebe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Puder_limsup_sum_ncard_crit_rpow_le_rhoStair
 -- name    : Puder.limsup_sum_ncard_crit_rpow_le_rhoStair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T09:41:17.009508+00:00
 -- url     : https://prove2.me/theorems/2136c227-f846-480a-a8b9-d7c2a40c9d80

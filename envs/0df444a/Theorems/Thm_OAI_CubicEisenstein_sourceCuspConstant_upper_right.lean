@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_sourceCuspConstant_upper_right
 -- name    : OAI.CubicEisenstein.sourceCuspConstant_upper_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:18:22.193473+00:00
 -- url     : https://prove2.me/theorems/bfeb6b26-e263-413e-9649-455a53a442e4

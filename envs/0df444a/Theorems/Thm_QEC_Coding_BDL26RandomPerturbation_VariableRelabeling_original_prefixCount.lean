@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_VariableRelabeling_original_prefixCount
 -- name    : QEC.Coding.BDL26RandomPerturbation.VariableRelabeling.original_prefixCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:19:44.417444+00:00
 -- url     : https://prove2.me/theorems/15144149-1890-474e-b279-3cd1948357a7

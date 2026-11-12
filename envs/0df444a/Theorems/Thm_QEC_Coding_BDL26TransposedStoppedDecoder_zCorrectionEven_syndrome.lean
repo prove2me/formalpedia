@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_zCorrectionEven_syndrome
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.zCorrectionEven_syndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:23:34.200214+00:00
 -- url     : https://prove2.me/theorems/703ac5fd-eddf-4bc5-bca1-5fc336451f06

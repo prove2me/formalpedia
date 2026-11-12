@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_g_theorem_ge_two
 -- name    : Grunbaum2003.simplicial_g_theorem_ge_two
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-02T07:15:28.643723+00:00
 -- url     : https://prove2.me/theorems/e7ae1e2f-6a37-44e1-8033-40ccc5198bf4

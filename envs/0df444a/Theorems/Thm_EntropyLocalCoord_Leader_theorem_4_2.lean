@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropyLocalCoord_Leader_theorem_4_2
 -- name    : EntropyLocalCoord.Leader.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:19:43.911543+00:00
 -- url     : https://prove2.me/theorems/b1487785-1d90-4193-940b-d38deec3cd87

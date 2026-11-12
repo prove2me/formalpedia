@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_self_localized
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.self_localized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:09:27.778126+00:00
 -- url     : https://prove2.me/theorems/0625598b-bc2a-494f-9c8e-7c116a97c834

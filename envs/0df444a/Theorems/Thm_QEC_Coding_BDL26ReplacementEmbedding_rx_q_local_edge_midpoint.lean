@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rx_q_local_edge_midpoint
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rx_q_local_edge_midpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T21:34:48.411959+00:00
 -- url     : https://prove2.me/theorems/2a608df6-8539-4a80-8979-e2ef7d91040f

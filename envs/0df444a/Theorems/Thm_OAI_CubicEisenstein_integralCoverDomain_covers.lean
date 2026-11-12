@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralCoverDomain_covers
 -- name    : OAI.CubicEisenstein.integralCoverDomain_covers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:27:33.05561+00:00
 -- url     : https://prove2.me/theorems/413eaf1a-8df1-4a82-8aa6-e7f022ff2874

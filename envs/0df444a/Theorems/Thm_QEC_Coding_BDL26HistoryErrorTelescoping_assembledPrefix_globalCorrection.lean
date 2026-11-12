@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryErrorTelescoping_assembledPrefix_globalCorrection
 -- name    : QEC.Coding.BDL26HistoryErrorTelescoping.assembledPrefix_globalCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:43:44.578611+00:00
 -- url     : https://prove2.me/theorems/5ed95902-e060-4541-bf4b-98344b58ee92

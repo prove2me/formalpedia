@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_cliffordPhaseGenerators_compose_mem
 -- name    : QEC.Distillation.OneQubitMagic.cliffordPhaseGenerators_compose_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:13:14.322877+00:00
 -- url     : https://prove2.me/theorems/38f17193-9d29-4beb-9e08-5d66286e576c

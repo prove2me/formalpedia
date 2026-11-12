@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeliefDominance_dynamic_consistency
 -- name    : BeliefDominance.dynamic_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:39.239639+00:00
 -- url     : https://prove2.me/theorems/2a6650f8-7269-4306-b18d-467bc845661d

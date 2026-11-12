@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_uniform_outputAt_top
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.uniform_outputAt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:07:04.151085+00:00
 -- url     : https://prove2.me/theorems/9c64186c-5427-4809-aedc-e171d0d10ec8

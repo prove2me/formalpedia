@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_keyOfCode_miss_cost
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.keyOfCode_miss_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:43:24.918702+00:00
 -- url     : https://prove2.me/theorems/98631041-cfbb-4a2d-9768-ac78007ddcdd

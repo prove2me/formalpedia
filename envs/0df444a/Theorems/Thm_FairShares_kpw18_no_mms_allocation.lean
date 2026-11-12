@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShares_kpw18_no_mms_allocation
 -- name    : FairShares.kpw18_no_mms_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:12:34.505148+00:00
 -- url     : https://prove2.me/theorems/0ec4f6a4-3f3a-4fdc-92fe-cf56efab13d9

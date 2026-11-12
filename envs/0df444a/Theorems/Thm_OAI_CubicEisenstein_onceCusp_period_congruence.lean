@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_onceCusp_period_congruence
 -- name    : OAI.CubicEisenstein.onceCusp_period_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:17:28.577452+00:00
 -- url     : https://prove2.me/theorems/4092e44c-cb47-483f-ab24-ccf252ef7509

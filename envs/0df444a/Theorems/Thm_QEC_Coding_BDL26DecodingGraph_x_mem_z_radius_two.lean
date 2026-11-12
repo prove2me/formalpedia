@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26DecodingGraph_x_mem_z_radius_two
 -- name    : QEC.Coding.BDL26DecodingGraph.x_mem_z_radius_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:03:32.257526+00:00
 -- url     : https://prove2.me/theorems/f0da9189-4c83-4ba2-a2e5-e0e8b0396c86

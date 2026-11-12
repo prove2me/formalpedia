@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P92_standardFormCriterion
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P92.standardFormCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:38:29.746048+00:00
 -- url     : https://prove2.me/theorems/7cf24f21-6a7c-4251-b13d-4de3fe464ca1

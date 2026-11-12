@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_row_cone_vanishing
 -- name    : FiniteSampleDependence.Rigidity.row_cone_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:49:19.249745+00:00
 -- url     : https://prove2.me/theorems/761f9ca3-fe4e-40cc-b863-ec0c1e96799a

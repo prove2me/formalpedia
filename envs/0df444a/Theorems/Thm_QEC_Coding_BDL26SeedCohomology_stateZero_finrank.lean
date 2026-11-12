@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SeedCohomology_stateZero_finrank
 -- name    : QEC.Coding.BDL26SeedCohomology.stateZero_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:58:17.225376+00:00
 -- url     : https://prove2.me/theorems/1f3f870a-66ff-4c69-8c4c-b766204df200

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_pauli_propagation
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.pauli_propagation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:37:51.3294+00:00
 -- url     : https://prove2.me/theorems/236d66ca-567d-4899-864b-674482e483c0

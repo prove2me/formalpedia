@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_cp_count_vector_finite_marks_independent
 -- name    : AvramDividend.Classical.avram_a06_original_cp_count_vector_finite_marks_independent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T03:02:26.860561+00:00
 -- url     : https://prove2.me/theorems/8efaf877-3826-4c09-a261-7d7ecd6b4736

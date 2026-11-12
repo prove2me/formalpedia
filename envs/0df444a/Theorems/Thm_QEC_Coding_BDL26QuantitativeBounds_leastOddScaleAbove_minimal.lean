@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26QuantitativeBounds_leastOddScaleAbove_minimal
 -- name    : QEC.Coding.BDL26QuantitativeBounds.leastOddScaleAbove_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:20:42.385574+00:00
 -- url     : https://prove2.me/theorems/81c36e72-d223-411f-a5d8-308d58e19067

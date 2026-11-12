@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_query_original
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.query_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:51:40.00192+00:00
 -- url     : https://prove2.me/theorems/4ea7b9c1-4d3a-42a0-bbd0-9facd153a84c

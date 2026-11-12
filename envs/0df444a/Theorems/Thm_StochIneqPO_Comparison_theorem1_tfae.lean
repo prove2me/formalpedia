@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Comparison_theorem1_tfae
 -- name    : StochIneqPO.Comparison.theorem1_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:18:29.435965+00:00
 -- url     : https://prove2.me/theorems/8582dc5b-8e58-49ad-a20c-4d302993cc8a

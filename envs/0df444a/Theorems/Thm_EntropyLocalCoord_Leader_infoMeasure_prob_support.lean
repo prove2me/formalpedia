@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropyLocalCoord_Leader_infoMeasure_prob_support
 -- name    : EntropyLocalCoord.Leader.infoMeasure_prob_support
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:19:50.173113+00:00
 -- url     : https://prove2.me/theorems/6cc012c8-39cd-4f33-82d1-14e735237bac

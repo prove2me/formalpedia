@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_stationary
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.stationary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:25:38.832778+00:00
 -- url     : https://prove2.me/theorems/2cf0567c-8aa4-4966-8ff2-fed6be9d65d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfoProvision_proposition_2_proof_one_beats_two
 -- name    : FarmerInfoProvision.proposition_2_proof_one_beats_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:48:09.870456+00:00
 -- url     : https://prove2.me/theorems/c50071e1-1793-4a16-8d31-32cf9179bf95

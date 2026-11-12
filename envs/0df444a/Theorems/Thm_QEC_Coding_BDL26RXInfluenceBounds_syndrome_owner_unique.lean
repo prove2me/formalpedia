@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXInfluenceBounds_syndrome_owner_unique
 -- name    : QEC.Coding.BDL26RXInfluenceBounds.syndrome_owner_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:45:34.962208+00:00
 -- url     : https://prove2.me/theorems/732103d7-4d8f-4ed7-93b1-91bc8a9f8c63

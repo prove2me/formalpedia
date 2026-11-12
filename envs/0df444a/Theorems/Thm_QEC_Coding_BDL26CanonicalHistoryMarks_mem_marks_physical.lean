@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_mem_marks_physical
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.mem_marks_physical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T06:36:05.233508+00:00
 -- url     : https://prove2.me/theorems/1602176a-e80e-46a6-8830-111f10d36c58

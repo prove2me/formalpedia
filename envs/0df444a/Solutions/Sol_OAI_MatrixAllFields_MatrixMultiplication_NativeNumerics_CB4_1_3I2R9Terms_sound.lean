@@ -1,0 +1,55 @@
+-- Prove2me | solution 1 for OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB4_1_3I2R9Terms_sound
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-11T14:42:31.250376+00:00
+-- url     : https://prove2.me/submissions/33860340-fc4f-4019-a98c-fa60aeccd861
+
+import Mathlib
+import Definitions.Def_OAIQ254M010
+import Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_AllFieldCertificates_Replay_contains_sound
+import Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_AllFieldInitialEntropyCertificate_logTwoBall_sound
+import Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_CompactCertificate_entropyLookup_sound
+import Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_NativeNumerics_CB4_1_3I2R9Raw_sound
+
+section
+-- module Solutions.OAIQ254_MF.MatrixFields_CapacityB_CapB4_1_3I2
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MatrixAllFields
+
+open scoped BigOperators Topology Polynomial
+
+section
+noncomputable section
+namespace MatrixMultiplication.NativeNumerics
+open AllFieldParameters AllFieldHistory AllFieldCertificates AllFieldCertificates.Replay
+open AllFieldInitialEntropyCertificate AllFieldNativeCapacity
+open scoped BigOperators
+lemma CB4_1_3I2R9Certificates_valid :
+    CB4_1_3I2R9Certificates.all (fun c => c.check logTwoBall) = true := by decide +kernel
+lemma CB4_1_3I2R9P_check : ∀ a : Fin 6, contains (CB4_1_3I2R9Raw a) (CB4_1_3I2R9P a) = true := by
+  decide +kernel
+lemma CB4_1_3I2R9P_sound (a : Fin 6) :
+    (CB4_1_3I2R9P a).Encloses (CB4_1_3I2R9Value a) :=
+  contains_sound (CB4_1_3I2R9Raw_sound a) (CB4_1_3I2R9P_check a)
+lemma CB4_1_3I2R9Terms_sound_oai (a : Fin 6) :
+    (CB4_1_3I2R9Terms a).Encloses (Foundation.entropyTerm (CB4_1_3I2R9Value a)) :=
+  CompactCertificate.entropyLookup_sound logTwoBall_sound CB4_1_3I2R9Certificates_valid
+    (CB4_1_3I2R9CertificateIndex a) (CB4_1_3I2R9P_sound a)
+
+end MatrixMultiplication.NativeNumerics
+
+end
+end
+
+end MatrixAllFields
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB4_1_3I2R9Terms_sound_oai := @OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB4_1_3I2R9Terms_sound_oai

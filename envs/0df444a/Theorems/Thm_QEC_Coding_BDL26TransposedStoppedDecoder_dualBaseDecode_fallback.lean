@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_dualBaseDecode_fallback
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseDecode_fallback
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:21:23.823202+00:00
 -- url     : https://prove2.me/theorems/40cdec45-0195-4863-aa61-bc5ac78d710d

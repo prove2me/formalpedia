@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_WorstCaseExp_corollary_3_worst_case_expectation
 -- name    : RobustRegLasso.WorstCaseExp.corollary_3_worst_case_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:18:50.458992+00:00
 -- url     : https://prove2.me/theorems/86f9d52b-b0ef-4299-9f32-5f88e1e49e49

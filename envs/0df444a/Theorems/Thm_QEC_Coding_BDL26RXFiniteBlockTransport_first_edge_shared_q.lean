@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXFiniteBlockTransport_first_edge_shared_q
 -- name    : QEC.Coding.BDL26RXFiniteBlockTransport.first_edge_shared_q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:02:56.61103+00:00
 -- url     : https://prove2.me/theorems/3d284ca5-9084-44f6-abcd-bc192e3475e1

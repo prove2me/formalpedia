@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P47_k_bose_channel_specialization
 -- name    : QAlgorithms.Papers.Independent.Extend50.P47.k_bose_channel_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:44:54.042657+00:00
 -- url     : https://prove2.me/theorems/a7fe3b57-a53f-4a46-af67-5d6f742b7202

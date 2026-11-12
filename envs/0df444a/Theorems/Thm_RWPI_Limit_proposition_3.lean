@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RWPI_Limit_proposition_3
 -- name    : RWPI.Limit.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T18:10:07.488205+00:00
 -- url     : https://prove2.me/theorems/861aad61-a047-4ce8-af95-0085f365d039

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseAmplitude_neg_pi_div_four
 -- name    : QEC.Distillation.OneQubitMagic.phaseAmplitude_neg_pi_div_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:11:13.701781+00:00
 -- url     : https://prove2.me/theorems/32326519-288d-4cdb-b083-e66e95db7f55

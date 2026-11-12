@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_finiteSuccess_frequency_physical
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.finiteSuccess_frequency_physical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:45:12.156269+00:00
 -- url     : https://prove2.me/theorems/f50860e7-95c7-47a5-89bd-35174e67d6c5

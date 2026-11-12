@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CoboundaryContainment_z_mass_le
 -- name    : QEC.Coding.BDL26CoboundaryContainment.z_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:14:51.961567+00:00
 -- url     : https://prove2.me/theorems/ade17e60-0e55-41fb-98be-1d8995e2e690

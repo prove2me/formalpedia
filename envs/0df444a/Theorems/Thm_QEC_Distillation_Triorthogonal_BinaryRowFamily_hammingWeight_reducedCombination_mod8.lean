@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_hammingWeight_reducedCombination_mod8
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.hammingWeight_reducedCombination_mod8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:37:14.404806+00:00
 -- url     : https://prove2.me/theorems/652fbcd8-7918-4153-92ae-a025c3b75d49

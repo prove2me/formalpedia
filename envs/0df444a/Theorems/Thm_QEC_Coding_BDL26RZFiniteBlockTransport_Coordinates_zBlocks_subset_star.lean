@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_Coordinates_zBlocks_subset_star
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.Coordinates.zBlocks_subset_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:46:43.36107+00:00
 -- url     : https://prove2.me/theorems/a3d2a05f-126b-4345-bc2e-5428cdcca5e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GastRestlessLP_Exponential_lemma_1
 -- name    : GastRestlessLP.Exponential.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T00:18:36.884712+00:00
 -- url     : https://prove2.me/theorems/efdbda46-fda9-4157-8901-23263e71dfdc

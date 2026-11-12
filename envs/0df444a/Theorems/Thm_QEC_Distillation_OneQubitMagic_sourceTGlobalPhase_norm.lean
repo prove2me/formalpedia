@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTGlobalPhase_norm
 -- name    : QEC.Distillation.OneQubitMagic.sourceTGlobalPhase_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T15:02:58.919578+00:00
 -- url     : https://prove2.me/theorems/a9e1a48c-a744-4b26-be4e-4021174a554e

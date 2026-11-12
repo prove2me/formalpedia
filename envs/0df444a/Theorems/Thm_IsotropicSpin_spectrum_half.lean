@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsotropicSpin_spectrum_half
 -- name    : IsotropicSpin.spectrum_half
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:24:58.28634+00:00
 -- url     : https://prove2.me/theorems/061b2a89-a958-481e-a034-4b802799090f

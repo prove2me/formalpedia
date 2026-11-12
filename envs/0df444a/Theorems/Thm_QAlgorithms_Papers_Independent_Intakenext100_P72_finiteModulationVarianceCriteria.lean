@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P72_finiteModulationVarianceCriteria
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P72.finiteModulationVarianceCriteria
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:43:58.265772+00:00
 -- url     : https://prove2.me/theorems/0bc11ab5-5edf-4853-8fbb-772e964839ed

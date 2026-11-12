@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_readout_gibbs
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.readout_gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:10:32.314734+00:00
 -- url     : https://prove2.me/theorems/f7fe56df-8756-41a9-9d33-ed9ce80c2dc1

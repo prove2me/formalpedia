@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_stageCost_eq
 -- name    : QEC.Coding.BDL26PaidRowsComposition.stageCost_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:29:04.851393+00:00
 -- url     : https://prove2.me/theorems/fcf61115-d995-4497-87d0-1077c7b3f030

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_checks_commute
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.checks_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:37:29.835708+00:00
 -- url     : https://prove2.me/theorems/5cd2ae72-078f-4555-b6b8-72b2e42893ad

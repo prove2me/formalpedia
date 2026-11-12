@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_actualDescent_weight
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.actualDescent_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:25:50.698662+00:00
 -- url     : https://prove2.me/theorems/50cb2d15-567a-4629-b1eb-9863870511a7

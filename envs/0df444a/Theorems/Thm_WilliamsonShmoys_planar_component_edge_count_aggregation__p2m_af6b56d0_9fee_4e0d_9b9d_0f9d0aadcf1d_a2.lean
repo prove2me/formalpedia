@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_component_edge_count_aggregation__p2m_af6b56d0_9fee_4e0d_9b9d_0f9d0aadcf1d_a2
 -- name    : WilliamsonShmoys.planar_component_edge_count_aggregation__p2m_af6b56d0_9fee_4e0d_9b9d_0f9d0aadcf1d_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:27:52.680016+00:00
 -- url     : https://prove2.me/theorems/98235c6f-660a-40d6-a6c4-218b22f2584f

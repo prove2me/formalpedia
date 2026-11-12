@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_lowerError_weight
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.lowerError_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:39:40.010337+00:00
 -- url     : https://prove2.me/theorems/6aef1b44-7281-4e29-9e7a-c9b01f3d354c

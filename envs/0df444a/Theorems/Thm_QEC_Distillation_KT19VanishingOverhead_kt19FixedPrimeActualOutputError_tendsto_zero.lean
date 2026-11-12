@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_KT19VanishingOverhead_kt19FixedPrimeActualOutputError_tendsto_zero
 -- name    : QEC.Distillation.KT19VanishingOverhead.kt19FixedPrimeActualOutputError_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:17:53.189244+00:00
 -- url     : https://prove2.me/theorems/b9352da3-244c-4104-a040-f55cfe13729e

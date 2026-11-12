@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rxIntrinsicFaceImage_hits_le
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rxIntrinsicFaceImage_hits_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T21:37:30.293482+00:00
 -- url     : https://prove2.me/theorems/433ddadb-e8df-47d9-9666-2b9fbee4a3b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_actualStagePhysical_eq
 -- name    : QEC.Coding.BDL26PaidRowsComposition.actualStagePhysical_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:34:06.213026+00:00
 -- url     : https://prove2.me/theorems/2b43aade-b71c-4388-94bd-8d6dc6883ade

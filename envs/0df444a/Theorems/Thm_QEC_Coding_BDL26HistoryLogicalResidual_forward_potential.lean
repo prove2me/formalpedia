@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_forward_potential
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.forward_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:07:20.493046+00:00
 -- url     : https://prove2.me/theorems/3ec5d79c-8a97-44a6-bee9-3534010c65f7

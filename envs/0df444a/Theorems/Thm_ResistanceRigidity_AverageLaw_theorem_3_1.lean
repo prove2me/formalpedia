@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResistanceRigidity_AverageLaw_theorem_3_1
 -- name    : ResistanceRigidity.AverageLaw.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:06:35.143813+00:00
 -- url     : https://prove2.me/theorems/6365f4dd-b0b3-4962-81b3-a0965d241db6

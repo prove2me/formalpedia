@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTEvenOutput_norm
 -- name    : QEC.Distillation.OneQubitMagic.sourceTEvenOutput_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:25:48.732052+00:00
 -- url     : https://prove2.me/theorems/1f08e025-4dd4-4b2e-a29b-316b84970fd1

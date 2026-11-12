@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDecoderAdapter_rxStepOutput_component_boundary_radius_actual
 -- name    : QEC.Coding.BDL26RXDecoderAdapter.rxStepOutput_component_boundary_radius_actual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:23:18.464435+00:00
 -- url     : https://prove2.me/theorems/d4078269-f859-4f44-84a0-df9e064567b8

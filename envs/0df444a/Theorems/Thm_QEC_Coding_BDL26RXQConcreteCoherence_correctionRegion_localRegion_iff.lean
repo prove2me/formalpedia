@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQConcreteCoherence_correctionRegion_localRegion_iff
 -- name    : QEC.Coding.BDL26RXQConcreteCoherence.correctionRegion_localRegion_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:14:38.308292+00:00
 -- url     : https://prove2.me/theorems/967aa0bd-96d9-4fde-ac7a-09e9bf3101c2

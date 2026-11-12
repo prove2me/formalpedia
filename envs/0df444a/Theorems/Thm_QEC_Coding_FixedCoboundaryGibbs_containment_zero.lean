@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FixedCoboundaryGibbs_containment_zero
 -- name    : QEC.Coding.FixedCoboundaryGibbs.containment_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:14:44.034933+00:00
 -- url     : https://prove2.me/theorems/e9626666-5c6e-4449-b0cd-01c02de3f539

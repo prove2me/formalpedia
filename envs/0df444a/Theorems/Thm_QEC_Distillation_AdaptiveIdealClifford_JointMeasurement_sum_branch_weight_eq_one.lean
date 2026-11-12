@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_JointMeasurement_sum_branch_weight_eq_one
 -- name    : QEC.Distillation.AdaptiveIdealClifford.JointMeasurement.sum_branch_weight_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:03:49.394021+00:00
 -- url     : https://prove2.me/theorems/9aa284de-4f41-4fc2-9bd4-dc21698c24ec

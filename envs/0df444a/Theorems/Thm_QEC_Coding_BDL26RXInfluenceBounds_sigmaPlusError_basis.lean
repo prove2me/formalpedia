@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXInfluenceBounds_sigmaPlusError_basis
 -- name    : QEC.Coding.BDL26RXInfluenceBounds.sigmaPlusError_basis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:49:29.119254+00:00
 -- url     : https://prove2.me/theorems/3fd57e12-c97a-4cd8-bcbb-dc27caec47f7

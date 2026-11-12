@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_hille_yosida
 -- name    : EthierKurtz.hille_yosida
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T05:42:43.71515+00:00
 -- url     : https://prove2.me/theorems/d28fa1e3-f0eb-4e33-a8c1-f7cb47944c36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_phaseNormalize_globalPhaseEquivalent
 -- name    : QEC.Distillation.phaseNormalize_globalPhaseEquivalent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:11:20.862084+00:00
 -- url     : https://prove2.me/theorems/2a1c0c29-9637-42c0-a999-dd353b334bee

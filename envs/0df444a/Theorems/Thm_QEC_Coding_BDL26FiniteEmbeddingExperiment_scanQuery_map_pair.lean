@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_scanQuery_map_pair
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.scanQuery_map_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:50:25.060193+00:00
 -- url     : https://prove2.me/theorems/9248d77a-b264-4e90-8dd7-78c4051583ba

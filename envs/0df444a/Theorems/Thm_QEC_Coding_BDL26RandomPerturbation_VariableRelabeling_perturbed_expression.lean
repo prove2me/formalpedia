@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_VariableRelabeling_perturbed_expression
 -- name    : QEC.Coding.BDL26RandomPerturbation.VariableRelabeling.perturbed_expression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:21:57.060112+00:00
 -- url     : https://prove2.me/theorems/3a65c834-b2ca-4540-861a-37bfdff0d815

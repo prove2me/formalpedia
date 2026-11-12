@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_ramified_symbol_primary_shift_signed
 -- name    : OAI.CubicEisenstein.ramified_symbol_primary_shift_signed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:23:01.068207+00:00
 -- url     : https://prove2.me/theorems/5b14358c-f145-4076-ad24-5f2f6f266b01

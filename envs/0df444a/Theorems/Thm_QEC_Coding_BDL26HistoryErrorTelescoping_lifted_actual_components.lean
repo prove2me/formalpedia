@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryErrorTelescoping_lifted_actual_components
 -- name    : QEC.Coding.BDL26HistoryErrorTelescoping.lifted_actual_components
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:45:09.278663+00:00
 -- url     : https://prove2.me/theorems/00f09a4d-f88f-43e0-a9c2-8ca7f1101829

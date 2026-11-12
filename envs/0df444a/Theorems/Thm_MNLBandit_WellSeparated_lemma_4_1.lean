@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_WellSeparated_lemma_4_1
 -- name    : MNLBandit.WellSeparated.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:17.677337+00:00
 -- url     : https://prove2.me/theorems/b269494a-114c-4fab-a593-11764892c703

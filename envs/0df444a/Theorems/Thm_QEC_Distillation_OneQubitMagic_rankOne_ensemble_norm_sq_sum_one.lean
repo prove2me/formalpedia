@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_rankOne_ensemble_norm_sq_sum_one
 -- name    : QEC.Distillation.OneQubitMagic.rankOne_ensemble_norm_sq_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:06:26.752198+00:00
 -- url     : https://prove2.me/theorems/d734eb21-0f43-4cdb-be92-061e19795479

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MatroidIntersectionPolytope_theorem_8_20
 -- name    : CombOpt.MatroidIntersectionPolytope.theorem_8_20
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:42:37.17427+00:00
 -- url     : https://prove2.me/theorems/f9e91f53-c5bb-47fa-8d61-346b40b3e97e

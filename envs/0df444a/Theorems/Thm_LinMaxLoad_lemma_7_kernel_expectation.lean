@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinMaxLoad_lemma_7_kernel_expectation
 -- name    : LinMaxLoad.lemma_7_kernel_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T16:35:39.430271+00:00
 -- url     : https://prove2.me/theorems/6bb82e62-9787-4666-bdef-313f92b335ad

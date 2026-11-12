@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger32_original_stopping_dividend_cash_vs_clipped_source
 -- name    : AvramDividend.Classical.avram_gledger32_original_stopping_dividend_cash_vs_clipped_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T18:17:49.838362+00:00
 -- url     : https://prove2.me/theorems/42bb8ee3-741f-46da-a0e5-f3b2ee9e14fa

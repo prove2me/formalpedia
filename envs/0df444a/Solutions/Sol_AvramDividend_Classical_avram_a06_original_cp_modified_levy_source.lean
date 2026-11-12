@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a06_original_cp_modified_levy_source
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T23:57:48.032209+00:00
 -- url     : https://prove2.me/submissions/f124d379-6069-4147-91ec-c9fbe5ab0be4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.ConditionalProbability
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

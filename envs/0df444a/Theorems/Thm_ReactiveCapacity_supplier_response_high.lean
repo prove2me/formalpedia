@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReactiveCapacity_supplier_response_high
 -- name    : ReactiveCapacity.supplier_response_high
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:19:19.524312+00:00
 -- url     : https://prove2.me/theorems/6dc6dbbb-017d-4b7d-bcfc-2164e7d64b41

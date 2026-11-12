@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoABPWidth_Hierarchy_lemma_4_5
 -- name    : MonoABPWidth.Hierarchy.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:17:14.767427+00:00
 -- url     : https://prove2.me/theorems/f5467c22-89f7-42a2-94b2-e3793dd1e15f

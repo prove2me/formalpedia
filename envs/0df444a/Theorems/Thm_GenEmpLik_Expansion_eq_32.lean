@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Expansion_eq_32
 -- name    : GenEmpLik.Expansion.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:48:08.109935+00:00
 -- url     : https://prove2.me/theorems/c4d2bc58-73d3-47db-ae94-1d29aa267662

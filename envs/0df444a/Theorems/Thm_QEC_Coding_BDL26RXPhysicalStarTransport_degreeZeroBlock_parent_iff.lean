@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXPhysicalStarTransport_degreeZeroBlock_parent_iff
 -- name    : QEC.Coding.BDL26RXPhysicalStarTransport.degreeZeroBlock_parent_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:05:49.080196+00:00
 -- url     : https://prove2.me/theorems/f1cab58c-4b24-4929-9a3d-49721f6ee57c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonDoubleCount_Planner_eq_18
 -- name    : CarbonDoubleCount.Planner.eq_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:47:32.527492+00:00
 -- url     : https://prove2.me/theorems/e8b9ee84-90af-47e0-8679-50f69c736db3

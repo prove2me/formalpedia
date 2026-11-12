@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26DecodingGraph_tannerLevel_coherence
 -- name    : QEC.Coding.BDL26DecodingGraph.tannerLevel_coherence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:02:16.004763+00:00
 -- url     : https://prove2.me/theorems/ed00e9fa-64a0-4b3c-82b1-9bf15ea5bd4f

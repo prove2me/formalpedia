@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_indexed_symm_scalar
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.indexed_symm_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:56:25.020903+00:00
 -- url     : https://prove2.me/theorems/11d5410e-6a38-43e0-9ebc-66282d816468

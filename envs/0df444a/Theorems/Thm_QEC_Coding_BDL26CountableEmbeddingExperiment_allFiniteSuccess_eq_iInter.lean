@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_allFiniteSuccess_eq_iInter
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.allFiniteSuccess_eq_iInter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:09:44.407797+00:00
 -- url     : https://prove2.me/theorems/80e4e490-81f7-4743-8b4c-b5f8ad4df5ef

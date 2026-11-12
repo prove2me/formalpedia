@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EisensteinCuspModThree_three_cusp_decomposition
 -- name    : OAI.EisensteinCuspModThree.three_cusp_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:21:07.774693+00:00
 -- url     : https://prove2.me/theorems/ffd04763-4ce8-43bc-8ef1-520159317717

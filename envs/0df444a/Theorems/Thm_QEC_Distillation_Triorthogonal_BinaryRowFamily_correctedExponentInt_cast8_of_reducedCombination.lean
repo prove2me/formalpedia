@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_correctedExponentInt_cast8_of_reducedCombination
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.correctedExponentInt_cast8_of_reducedCombination
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:25.446352+00:00
 -- url     : https://prove2.me/theorems/90f3367d-e6e4-4e22-9563-64480622e351

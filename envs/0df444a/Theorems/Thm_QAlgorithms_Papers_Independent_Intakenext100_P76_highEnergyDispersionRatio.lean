@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P76_highEnergyDispersionRatio
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P76.highEnergyDispersionRatio
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:52:00.74317+00:00
 -- url     : https://prove2.me/theorems/56fd141b-9231-4507-b621-6df68d87bab6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionStoppingMass_uniform_on_miss
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionStoppingMass_uniform_on_miss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:24:18.734252+00:00
 -- url     : https://prove2.me/theorems/aa943dee-0737-41b6-9ddf-d0336eb16b3e

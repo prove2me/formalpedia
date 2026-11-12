@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GabidulinProx_UniqueDecoding_rank_image
 -- name    : GabidulinProx.UniqueDecoding.rank_image
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:48.590772+00:00
 -- url     : https://prove2.me/theorems/627801c3-24ad-4456-8e07-4128eafac854

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_reducedRows_linearIndependent
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.reducedRows_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:35:09.477267+00:00
 -- url     : https://prove2.me/theorems/1b2fac44-35fa-4967-b6c0-4acb08a9413a

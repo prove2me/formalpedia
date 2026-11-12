@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_representative_boundary
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.representative_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:48:59.563598+00:00
 -- url     : https://prove2.me/theorems/a065a627-739c-4495-ac9f-b03ad80d4f05

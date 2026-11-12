@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiKleitman92_Diameter_ball_radius_le
 -- name    : KalaiKleitman92.Diameter.ball_radius_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:03:37.390977+00:00
 -- url     : https://prove2.me/theorems/997b7521-2e7c-4bbb-b0e0-7fdce59f480b

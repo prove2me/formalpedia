@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_successorKernel_apply
 -- name    : QEC.Coding.BDL26RandomPerturbation.successorKernel_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:58:02.650575+00:00
 -- url     : https://prove2.me/theorems/b70811fa-870b-4baf-83ac-adda53b37907

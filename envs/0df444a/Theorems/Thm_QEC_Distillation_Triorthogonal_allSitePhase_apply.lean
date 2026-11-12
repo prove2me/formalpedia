@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_allSitePhase_apply
 -- name    : QEC.Distillation.Triorthogonal.allSitePhase_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:31:38.312409+00:00
 -- url     : https://prove2.me/theorems/bf3e9992-eb92-44b7-b403-3b157345e571

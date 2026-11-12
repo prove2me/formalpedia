@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentiveFinNet_trace_identity
 -- name    : IncentiveFinNet.trace_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:18:18.321651+00:00
 -- url     : https://prove2.me/theorems/41d3c63a-0b96-4398-ac84-e0c0304b4949

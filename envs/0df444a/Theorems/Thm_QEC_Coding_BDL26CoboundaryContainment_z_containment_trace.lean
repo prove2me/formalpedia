@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CoboundaryContainment_z_containment_trace
 -- name    : QEC.Coding.BDL26CoboundaryContainment.z_containment_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:16:02.55116+00:00
 -- url     : https://prove2.me/theorems/49488547-0468-469b-b04a-69a592bd3d10

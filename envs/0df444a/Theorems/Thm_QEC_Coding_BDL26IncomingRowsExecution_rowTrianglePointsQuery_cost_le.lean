@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowTrianglePointsQuery_cost_le
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowTrianglePointsQuery_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:16:44.383366+00:00
 -- url     : https://prove2.me/theorems/7f8db664-5564-4d2a-9536-d93b6a304ca7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_correctedAllSiteT_encodedComputationalState
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.correctedAllSiteT_encodedComputationalState
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:40:06.90932+00:00
 -- url     : https://prove2.me/theorems/3e757380-ce94-458c-a2e3-c586a34cd23b

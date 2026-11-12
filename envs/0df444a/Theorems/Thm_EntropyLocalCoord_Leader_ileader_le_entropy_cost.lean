@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropyLocalCoord_Leader_ileader_le_entropy_cost
 -- name    : EntropyLocalCoord.Leader.ileader_le_entropy_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:19:17.514448+00:00
 -- url     : https://prove2.me/theorems/16cf7dd3-97f1-49b6-9dd8-757040846d7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerivationHitting_Commutative_trivial_constants
 -- name    : DerivationHitting.Commutative.trivial_constants
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:12:19.693801+00:00
 -- url     : https://prove2.me/theorems/7050697b-f1aa-4862-8d86-710d93673939

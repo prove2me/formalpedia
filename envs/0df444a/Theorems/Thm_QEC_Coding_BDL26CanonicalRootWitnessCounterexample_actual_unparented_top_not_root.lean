@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_actual_unparented_top_not_root
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.actual_unparented_top_not_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:08:23.197363+00:00
 -- url     : https://prove2.me/theorems/e947d4bd-ccd0-4aa8-ac86-1f8fba0384cc

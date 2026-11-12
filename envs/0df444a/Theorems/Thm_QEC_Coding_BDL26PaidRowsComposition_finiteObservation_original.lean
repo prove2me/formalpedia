@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_finiteObservation_original
 -- name    : QEC.Coding.BDL26PaidRowsComposition.finiteObservation_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:34:41.940259+00:00
 -- url     : https://prove2.me/theorems/e3cacf19-abbc-456a-a8f3-4db07552ba34

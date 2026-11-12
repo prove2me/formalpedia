@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_supercode_prob
 -- name    : ProxGapTight.supercode_prob
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:45:15.199202+00:00
 -- url     : https://prove2.me/theorems/a3a3cf4c-716e-4f32-b2d1-979936751569

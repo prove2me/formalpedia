@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Gramian_partial_derivative_outer
 -- name    : TensorBTD.Gramian.partial_derivative_outer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:30:15.533501+00:00
 -- url     : https://prove2.me/theorems/8f5d8823-39ae-479a-9c0f-d36d0435a492

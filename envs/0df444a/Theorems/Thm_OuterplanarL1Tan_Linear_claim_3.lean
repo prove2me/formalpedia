@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OuterplanarL1Tan_Linear_claim_3
 -- name    : OuterplanarL1Tan.Linear.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:13:56.896043+00:00
 -- url     : https://prove2.me/theorems/eb76538c-f8e0-4831-a8f9-db3887078118

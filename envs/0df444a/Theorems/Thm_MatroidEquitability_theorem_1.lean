@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidEquitability_theorem_1
 -- name    : MatroidEquitability.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:32:19.351161+00:00
 -- url     : https://prove2.me/theorems/870c417a-a59c-4465-96fc-f1f7f3a809b6

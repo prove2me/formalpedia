@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_Disjoint_online_cover_exists
 -- name    : BudgetedAffine.Disjoint.online_cover_exists
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-03T21:16:47.553407+00:00
 -- url     : https://prove2.me/theorems/6cd4b832-852f-4b42-af95-49bcf1005a5a

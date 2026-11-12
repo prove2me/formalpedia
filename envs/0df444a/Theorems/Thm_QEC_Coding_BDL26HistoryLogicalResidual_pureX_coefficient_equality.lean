@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_pureX_coefficient_equality
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.pureX_coefficient_equality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:06:28.880217+00:00
 -- url     : https://prove2.me/theorems/8a05d518-bab8-4310-928c-afa51e4babd5

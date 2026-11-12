@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_invalid_copy
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.invalid_copy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:37:48.160209+00:00
 -- url     : https://prove2.me/theorems/e8ad896e-b55a-48de-9be5-1a13c0a78583

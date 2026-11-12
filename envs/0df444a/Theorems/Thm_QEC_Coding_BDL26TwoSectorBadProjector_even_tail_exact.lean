@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_even_tail_exact
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.even_tail_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:28:12.597872+00:00
 -- url     : https://prove2.me/theorems/3a1a6cfe-6554-4257-8a5a-a35dd7b492e3

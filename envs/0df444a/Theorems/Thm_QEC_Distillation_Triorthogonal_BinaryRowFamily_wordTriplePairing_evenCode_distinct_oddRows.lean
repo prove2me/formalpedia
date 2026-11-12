@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_wordTriplePairing_evenCode_distinct_oddRows
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.wordTriplePairing_evenCode_distinct_oddRows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:36:16.762032+00:00
 -- url     : https://prove2.me/theorems/7eb2dfe4-4833-4df9-a053-854e222cc548

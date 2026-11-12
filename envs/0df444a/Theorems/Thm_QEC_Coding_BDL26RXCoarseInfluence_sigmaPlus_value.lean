@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCoarseInfluence_sigmaPlus_value
 -- name    : QEC.Coding.BDL26RXCoarseInfluence.sigmaPlus_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:41:56.498493+00:00
 -- url     : https://prove2.me/theorems/3461a18b-a6eb-43b9-bff0-e4c2d2a7dcf9

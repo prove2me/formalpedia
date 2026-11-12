@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_TwoType_example2_modes_coexist
 -- name    : KumarSeidman.TwoType.example2_modes_coexist
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:27:46.575161+00:00
 -- url     : https://prove2.me/theorems/a9fec055-5e69-40f9-ad4e-cbbc95d0bd9d

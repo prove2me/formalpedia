@@ -1,0 +1,52 @@
+-- Prove2me | solution 1 for QEC.Coding.BDL26RandomPerturbation.successorKernel_apply
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-12T01:09:04.225621+00:00
+-- url     : https://prove2.me/submissions/2f550c3f-fa64-40f5-a5b0-1556cdc272c9
+
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_JointExecution
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_GoodMapMeasurability
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PhysicalSuccessor
+import Mathlib.Probability.Kernel.Composition.Prod
+import Mathlib.Probability.Kernel.Composition.MapComap
+import Mathlib.Probability.Kernel.Composition.MeasureComp
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_EmbeddingKernel
+section
+noncomputable section
+namespace QEC.Coding.BDL26RandomPerturbation
+open Classical BDL26FiniteTannerSquare BDL26ReplacementEmbedding BDL26RXLocalReplacement
+open BDL26TannerLocalRegularity BDL26DecodingGraph
+open BDL26RandomPhysicalLocality
+open QEC.Coding.ProbabilisticConstruction.SphericalCap
+open QEC.Coding.ProbabilisticConstruction.Resampling
+open MeasureTheory ProbabilityTheory
+private theorem map_freshTable_apply {A B C : Type*}
+    [MeasurableSpace A] [MeasurableSpace B] [MeasurableSpace C]
+    (ν : Measure B) [SFinite ν] (F : A × B → C) (hF : Measurable F) (a : A) :
+    ((Kernel.id ×ₖ Kernel.const A ν).map F) a = ν.map (fun b => F (a,b)) := by
+  have hslice : Measurable (fun b => F (a,b)) :=
+    hF.comp (measurable_const.prodMk measurable_id)
+  ext s hs
+  rw [Kernel.map_apply _ hF, Measure.map_apply hF hs,
+    Kernel.id_prod_apply' _ _ (hF hs), Kernel.const_apply, Measure.map_apply hslice hs] <;> rfl
+end QEC.Coding.BDL26RandomPerturbation
+end
+end
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Coding QEC.Coding.BDL26RandomPerturbation
+open Classical BDL26FiniteTannerSquare BDL26ReplacementEmbedding BDL26RXLocalReplacement
+open BDL26TannerLocalRegularity BDL26DecodingGraph
+open BDL26RandomPhysicalLocality
+open QEC.Coding.ProbabilisticConstruction.SphericalCap
+open QEC.Coding.ProbabilisticConstruction.Resampling
+open MeasureTheory ProbabilityTheory
+namespace QEC.Coding.BDL26RandomPerturbation
+theorem _root_.solution {L : ℝ} (p : GeometricParameters L) (n : ℕ)
+    (J : Vertex (state (perturbationOddScale p) n).presentation → Space) :
+    successorKernel p n J = (physicalTableLaw p n).map (physicalSuccessorOutput p n J) := by
+  exact map_freshTable_apply (physicalTableLaw p n)
+    (fun z => physicalSuccessorOutput p n z.1 z.2)
+    (measurable_joint_physicalSuccessorOutput p n) J
+end QEC.Coding.BDL26RandomPerturbation

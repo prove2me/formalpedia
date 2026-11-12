@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_span_evenBasis_eq_evenCode
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.span_evenBasis_eq_evenCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:31:44.196104+00:00
 -- url     : https://prove2.me/theorems/367ec9d5-9edc-4580-935f-c68ca167a6cd

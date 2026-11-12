@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_lower_weight_le_seven_error
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.lower_weight_le_seven_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:26:29.418198+00:00
 -- url     : https://prove2.me/theorems/e0937057-ba57-49da-9f08-296b3c4eee1b

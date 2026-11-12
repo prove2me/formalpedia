@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTEvenBranch_xor_discard
 -- name    : QEC.Distillation.OneQubitMagic.sourceTEvenBranch_xor_discard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:14:36.724739+00:00
 -- url     : https://prove2.me/theorems/b1fca9f9-b87a-44b3-919c-f658ce6e8d94

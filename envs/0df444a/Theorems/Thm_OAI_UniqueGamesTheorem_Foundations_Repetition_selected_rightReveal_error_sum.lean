@@ -1,0 +1,99 @@
+-- Prove2me | Theorems.Thm_OAI_UniqueGamesTheorem_Foundations_Repetition_selected_rightReveal_error_sum
+-- name    : OAI.UniqueGamesTheorem.Foundations.Repetition.selected_rightReveal_error_sum
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-11T07:48:07.716563+00:00
+-- url     : https://prove2.me/theorems/58a190e6-77f8-49c6-aec3-5825ae25bc1d
+-- title:
+--   OAI.UniqueGamesTheorem.Foundations.Repetition.selected_rightReveal_error_sum: intermediate lemma from OpenAI, Perfect completeness for 2-to-1 games
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.PerfectCompleteness.Theorem11.exists_reduction`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Perfect completeness for 2-to-1 games*, OpenAI Math Release, September 23, 2026, result family 105, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.UniqueGamesTheorem.Foundations.Repetition.selected_rightReveal_error_sum` of [lean/OAI/Computability/UniqueGames/Games/PartialRevealLemmas.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Computability/UniqueGames/Games/PartialRevealLemmas.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.UniqueGamesTheorem.Foundations.Repetition`, with `open scoped BigOperators`, `open Games Information`):
+--
+--   ```lean
+--   theorem selected_rightReveal_error_sum [Nonempty A₁] [Nonempty A₂]
+--       (G : Game Q₁ Q₂ A₁ A₂)
+--       (strategy : Strategy (Fin n → Q₁) (Fin n → Q₂) (Fin n → A₁) (Fin n → A₂))
+--       (selected : Finset (Fin n)) (positive : 0 < G.selectedSuccess strategy selected) :
+--       (∑ j : {i : Fin n // i ∉ selected},
+--         totalVariation (partialRevealMarginal G.questions j (selectedOutsideLikelihood G strategy selected))
+--           (rightRevealModel G.questions
+--             (partialRevealMarginal G.questions j (selectedOutsideLikelihood G strategy selected)))) ≤
+--         2 * selectedInformationRadius G strategy selected
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.UniqueGamesTheorem.Foundations.Games.Game` (definitions bundle `OAIQ252P000` of this split); `OAI.UniqueGamesTheorem.Foundations.Games.Strategy` (definitions bundle `OAIQ252P001` of this split); `OAI.UniqueGamesTheorem.Foundations.Information.totalVariation` and `OAI.UniqueGamesTheorem.Foundations.Repetition.SelectedLabels` (definitions bundle `OAIQ252P002` of this split); `OAI.UniqueGamesTheorem.Foundations.Games.Game.selectedSuccess` (definitions bundle `OAIQ252P003` of this split); `OAI.UniqueGamesTheorem.Foundations.Repetition.partialRevealMarginal`, `OAI.UniqueGamesTheorem.Foundations.Repetition.rightRevealModel`, `OAI.UniqueGamesTheorem.Foundations.Repetition.selectedInformationRadius` and `OAI.UniqueGamesTheorem.Foundations.Repetition.selectedOutsideLikelihood` (definitions bundle `OAIQ252P011` of this split).
+--
+--   **Used by.** The proof of `OAI.UniqueGamesTheorem.Foundations.Repetition.selectedRightProfileError_sum` of this split imports it.
+-- source:
+--   OpenAI, Perfect completeness for 2-to-1 games, OpenAI Math Release, September 23, 2026, https://github.com/openai/math (result family 105; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Perfect-completeness-for-2-to-1-games-September-23-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Computability/UniqueGames/Games/PartialRevealLemmas.lean (declaration OAI.UniqueGamesTheorem.Foundations.Repetition.selected_rightReveal_error_sum)
+
+import Mathlib
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Equiv.Defs
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.BigOperators.Ring.Finset
+import Mathlib.Algebra.Order.Floor.Ring
+import Mathlib.Analysis.Convex.SpecificFunctions.Basic
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Std
+import Definitions.Def_OAIQ252P011
+
+section
+
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalKeyShape.dummyAssignmentFintype _root_.OAI.PerfectCompleteness.CanonicalKeyShape.inputFintype _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceAnswerEquiv.rightDomainDecidableEq _root_.OAI.PerfectCompleteness.WholeArraySampler.spaceFintype _root_.OAI.UniqueGamesTheorem.Appendix.A5Passage.pairFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Fourier.MatrixRestrictions.parameterFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace UniqueGamesTheorem.Foundations.Repetition
+open scoped BigOperators
+open Games Information
+noncomputable section
+variable {Q₁ Q₂ A₁ A₂ : Type*}
+  [Fintype Q₁] [Fintype Q₂] [Fintype A₁] [Fintype A₂]
+  [DecidableEq Q₁] [DecidableEq Q₂] {n : Nat}
+
+theorem selected_rightReveal_error_sum [Nonempty A₁] [Nonempty A₂]
+    (G : Game Q₁ Q₂ A₁ A₂)
+    (strategy : Strategy (Fin n → Q₁) (Fin n → Q₂) (Fin n → A₁) (Fin n → A₂))
+    (selected : Finset (Fin n)) (positive : 0 < G.selectedSuccess strategy selected) :
+    (∑ j : {i : Fin n // i ∉ selected},
+      totalVariation (partialRevealMarginal G.questions j (selectedOutsideLikelihood G strategy selected))
+        (rightRevealModel G.questions
+          (partialRevealMarginal G.questions j (selectedOutsideLikelihood G strategy selected)))) ≤
+      2 * selectedInformationRadius G strategy selected := by
+  sorry
+
+end
+end UniqueGamesTheorem.Foundations.Repetition
+
+end
+
+end OAI
+end

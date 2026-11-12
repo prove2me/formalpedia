@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_channel_raw_sum
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.channel_raw_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:38:20.143697+00:00
 -- url     : https://prove2.me/theorems/c11b9ff2-0f6a-425b-b459-7e7124af57fd

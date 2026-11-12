@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_addresses_injective
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_addresses_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:56:47.5241+00:00
 -- url     : https://prove2.me/theorems/0ed6e8d4-7623-45f0-bffc-deba90c03289

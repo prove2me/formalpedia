@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_potential_boundary_cocycle
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.potential_boundary_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:18:17.010933+00:00
 -- url     : https://prove2.me/theorems/ba100e3e-0a92-48bd-a341-212b0326e3f3

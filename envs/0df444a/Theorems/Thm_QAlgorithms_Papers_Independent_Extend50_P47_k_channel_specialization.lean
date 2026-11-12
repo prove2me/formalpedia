@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P47_k_channel_specialization
 -- name    : QAlgorithms.Papers.Independent.Extend50.P47.k_channel_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:44:19.536782+00:00
 -- url     : https://prove2.me/theorems/af320422-1d80-4b56-8587-e61d10d45a1f

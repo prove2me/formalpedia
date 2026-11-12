@@ -7,7 +7,11 @@
 -- title:
 --   Theorem 4.5 for every property and two data symbols (strengthened: intrinsicness and the fourth data symbol dropped)
 -- statement:
---   Source (Theorem 4.5, p.17): if Γ contains the blank B and at least four data symbols, and 𝔓 is an intrinsic property, then for the machine M there exist an algebraic encoding ε and an input w ∈ (Γ∖{B})⁺ with 𝔓(M, w) not equivalent to "M associates ε-incommensurable elements on w". Variant: the same conclusion for every property 𝔓, intrinsic or not, as soon as Γ has at least two symbols different from B. Difference: the intrinsic hypothesis is removed and four data symbols are weakened to two; the conclusion and its quantifier order are unchanged.
+--   **Source** (Theorem 4.5, p. 17): if $\Gamma$ contains the blank $B$ and at least four data symbols, and $\mathfrak{P}$ is an intrinsic property, then for the machine $M$ there exist an algebraic encoding $\varepsilon$ and an input $w \in (\Gamma \setminus \{B\})^+$ with $\mathfrak{P}(M, w)$ not equivalent to "$M$ associates $\varepsilon$-incommensurable elements on $w$".
+--
+--   **Variant:** the same conclusion for every property $\mathfrak{P}$, intrinsic or not, as soon as $\Gamma$ has at least two symbols different from $B$.
+--
+--   **Difference:** the intrinsic hypothesis is removed and four data symbols are weakened to two; the conclusion and its quantifier order are unchanged.
 -- source:
 --   Zheng, Zheng, Wang and Huang, An Algebraic Semantic Framework for Nondeterministic Computation, July 2026, Theorem 4.5, p.17 (strengthened)
 

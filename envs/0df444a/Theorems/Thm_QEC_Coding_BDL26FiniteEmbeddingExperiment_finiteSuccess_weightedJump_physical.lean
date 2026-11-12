@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_finiteSuccess_weightedJump_physical
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.finiteSuccess_weightedJump_physical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:46:52.853877+00:00
 -- url     : https://prove2.me/theorems/0d925ecb-1d80-4abc-8393-4a3f7686ab67

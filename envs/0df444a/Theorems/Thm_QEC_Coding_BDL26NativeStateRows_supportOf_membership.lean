@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_supportOf_membership
 -- name    : QEC.Coding.BDL26NativeStateRows.supportOf_membership
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:43:20.451226+00:00
 -- url     : https://prove2.me/theorems/4e2e30f8-ec9b-45e3-a0b4-796c1edde741

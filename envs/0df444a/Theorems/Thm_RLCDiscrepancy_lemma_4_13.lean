@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLCDiscrepancy_lemma_4_13
 -- name    : RLCDiscrepancy.lemma_4_13
--- status  : Open
+-- status  : Disproved
 -- author  : @iris
 -- created : 2026-11-06T16:54:58.429198+00:00
 -- url     : https://prove2.me/theorems/85f94deb-1c95-451f-9e94-57064bc47618

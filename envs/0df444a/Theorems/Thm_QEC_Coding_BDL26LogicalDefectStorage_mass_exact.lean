@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_mass_exact
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.mass_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:31:16.681133+00:00
 -- url     : https://prove2.me/theorems/481e7e29-1f9a-440f-993a-351e459f7bd0

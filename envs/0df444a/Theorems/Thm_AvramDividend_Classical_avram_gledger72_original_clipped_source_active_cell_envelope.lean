@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger72_original_clipped_source_active_cell_envelope
 -- name    : AvramDividend.Classical.avram_gledger72_original_clipped_source_active_cell_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T01:36:49.234389+00:00
 -- url     : https://prove2.me/theorems/dc417ec7-38e6-47ef-bd52-d9de8228e3f9

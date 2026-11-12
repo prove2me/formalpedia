@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDistance_seedCycle_boundary
 -- name    : QEC.Coding.BDL26LevelTwoDistance.seedCycle_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:25:03.015033+00:00
 -- url     : https://prove2.me/theorems/42cb6bad-f4be-45b2-ac34-d0d1686fc0ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedHistoryQueryCone_queryPath_mem
 -- name    : QEC.Coding.BDL26PairedHistoryQueryCone.queryPath_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:31:12.777207+00:00
 -- url     : https://prove2.me/theorems/bece77e1-0fef-4d4d-ab9d-39876750f896

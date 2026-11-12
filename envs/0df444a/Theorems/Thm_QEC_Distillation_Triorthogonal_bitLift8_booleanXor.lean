@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_bitLift8_booleanXor
 -- name    : QEC.Distillation.Triorthogonal.bitLift8_booleanXor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:30:36.877224+00:00
 -- url     : https://prove2.me/theorems/90212781-d1a1-4c83-ad3f-8be2c9927131

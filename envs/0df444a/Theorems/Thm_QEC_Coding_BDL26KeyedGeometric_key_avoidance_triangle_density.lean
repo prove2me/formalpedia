@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_avoidance_triangle_density
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_avoidance_triangle_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:59:16.179718+00:00
 -- url     : https://prove2.me/theorems/c69b3da4-72cc-4576-a1cd-31805cf9e244

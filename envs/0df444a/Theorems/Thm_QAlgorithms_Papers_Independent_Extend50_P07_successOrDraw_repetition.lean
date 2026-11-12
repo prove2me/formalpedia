@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P07_successOrDraw_repetition
 -- name    : QAlgorithms.Papers.Independent.Extend50.P07.successOrDraw_repetition
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T15:50:00.860627+00:00
 -- url     : https://prove2.me/theorems/93060a76-ea79-48e3-9ee4-f452f5743822

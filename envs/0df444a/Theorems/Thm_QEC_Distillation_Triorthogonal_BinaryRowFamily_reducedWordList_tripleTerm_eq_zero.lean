@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_reducedWordList_tripleTerm_eq_zero
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.reducedWordList_tripleTerm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:37:16.462625+00:00
 -- url     : https://prove2.me/theorems/6437a4f4-5b1b-438f-b058-1a11652958e6

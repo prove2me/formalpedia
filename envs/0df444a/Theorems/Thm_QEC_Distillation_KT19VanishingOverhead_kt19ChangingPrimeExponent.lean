@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_KT19VanishingOverhead_kt19ChangingPrimeExponent
 -- name    : QEC.Distillation.KT19VanishingOverhead.kt19ChangingPrimeExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:28:16.710011+00:00
 -- url     : https://prove2.me/theorems/ddc23c92-349d-4185-b0f6-3052a75a8933

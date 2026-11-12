@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_witnessTopMarks_nonempty
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopMarks_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:34:23.333191+00:00
 -- url     : https://prove2.me/theorems/2d9a2c8a-184f-4c38-a3aa-1794d7fba10e

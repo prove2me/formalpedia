@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskAverseConsistency_proposition_9
 -- name    : RiskAverseConsistency.proposition_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:23.309591+00:00
 -- url     : https://prove2.me/theorems/cd38b8df-2894-4d75-9bad-d00137e8428b

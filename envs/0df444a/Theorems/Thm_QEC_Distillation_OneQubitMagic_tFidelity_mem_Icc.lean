@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_tFidelity_mem_Icc
 -- name    : QEC.Distillation.OneQubitMagic.tFidelity_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:10:57.962245+00:00
 -- url     : https://prove2.me/theorems/466b9255-0827-4fd7-9300-74f8887e8e33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_period_integral_upper_triangular
 -- name    : OAI.CubicEisenstein.period_integral_upper_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:41:10.157148+00:00
 -- url     : https://prove2.me/theorems/c13e0d61-7d1b-4735-a559-0669988f74d6

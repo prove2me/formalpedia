@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SeedCohomology_complex_eq_base
 -- name    : QEC.Coding.BDL26SeedCohomology.complex_eq_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:58:15.72895+00:00
 -- url     : https://prove2.me/theorems/28354b79-879b-4cb2-a882-4568d2b0ec7f

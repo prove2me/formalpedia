@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_VariableRelabeling_original_totalSteps
 -- name    : QEC.Coding.BDL26RandomPerturbation.VariableRelabeling.original_totalSteps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:22:39.973495+00:00
 -- url     : https://prove2.me/theorems/86d7d7cc-2180-42f3-9134-e71dd3041fc6

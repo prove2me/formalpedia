@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_supergraph_from_one_edge_augmentations__p2m_b6f7b032_7d17_4abc_a25e_6614208f3ad2_a1
 -- name    : WilliamsonShmoys.connected_supergraph_from_one_edge_augmentations__p2m_b6f7b032_7d17_4abc_a25e_6614208f3ad2_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:59:15.34563+00:00
 -- url     : https://prove2.me/theorems/cd1fec5c-6619-45ff-8b92-8d3bff9da8a8

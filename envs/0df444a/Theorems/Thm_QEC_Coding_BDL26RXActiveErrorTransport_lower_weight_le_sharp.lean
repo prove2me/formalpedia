@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_lower_weight_le_sharp
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.lower_weight_le_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:27:16.885199+00:00
 -- url     : https://prove2.me/theorems/64e7a1d2-a559-4c3c-82c9-6b56feb2d030

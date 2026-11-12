@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_AllFieldMain_omega_lt_source_constant
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.308978+00:00
 -- url     : https://prove2.me/theorems/38c6efcc-67b9-443f-b90f-8b10ec2aeaf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_stream_freshPair_law
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.stream_freshPair_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:10:34.199719+00:00
 -- url     : https://prove2.me/theorems/78ce459a-4671-44d9-ae26-ccb8f79d6907

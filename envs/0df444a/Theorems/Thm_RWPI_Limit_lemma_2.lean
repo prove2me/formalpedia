@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RWPI_Limit_lemma_2
 -- name    : RWPI.Limit.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T18:10:40.278977+00:00
 -- url     : https://prove2.me/theorems/8ad51686-b57d-4e4d-b239-76bd6e3d4b67

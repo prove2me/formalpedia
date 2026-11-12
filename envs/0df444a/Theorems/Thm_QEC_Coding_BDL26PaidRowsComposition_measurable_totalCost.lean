@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_measurable_totalCost
 -- name    : QEC.Coding.BDL26PaidRowsComposition.measurable_totalCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:24:42.909629+00:00
 -- url     : https://prove2.me/theorems/2d13c98b-e5f7-4fe4-9881-7fb1cbbd5417

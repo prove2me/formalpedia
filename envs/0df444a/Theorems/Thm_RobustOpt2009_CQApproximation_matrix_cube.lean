@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_CQApproximation_matrix_cube
 -- name    : RobustOpt2009.CQApproximation.matrix_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:44:04.730369+00:00
 -- url     : https://prove2.me/theorems/e7c79011-67b7-409b-a2e4-def9aa8f69ea

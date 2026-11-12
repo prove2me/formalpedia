@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NarrowDNF_Approx_lemma_3_4
 -- name    : NarrowDNF.Approx.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:07:29.035358+00:00
 -- url     : https://prove2.me/theorems/f47ac755-3513-4942-8306-97f88bba2f8b

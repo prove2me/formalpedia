@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P45_logSumBounds
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P45.logSumBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T06:19:26.007743+00:00
 -- url     : https://prove2.me/theorems/329aea3e-e2c9-4966-8157-eaa76b1e6b4b

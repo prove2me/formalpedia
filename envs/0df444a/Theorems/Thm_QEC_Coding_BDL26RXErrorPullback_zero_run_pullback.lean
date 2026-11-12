@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXErrorPullback_zero_run_pullback
 -- name    : QEC.Coding.BDL26RXErrorPullback.zero_run_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:00:32.087387+00:00
 -- url     : https://prove2.me/theorems/a4995072-6ce4-4ef5-8bcb-490f28610364

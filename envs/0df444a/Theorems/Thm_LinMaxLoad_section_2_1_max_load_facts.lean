@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinMaxLoad_section_2_1_max_load_facts
 -- name    : LinMaxLoad.section_2_1_max_load_facts
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T16:34:53.02878+00:00
 -- url     : https://prove2.me/theorems/c82fe21a-2454-4df2-9bf3-1df5f33b6c03

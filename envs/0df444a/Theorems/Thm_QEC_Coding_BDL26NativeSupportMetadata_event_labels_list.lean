@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_event_labels_list
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.event_labels_list
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:49:08.904944+00:00
 -- url     : https://prove2.me/theorems/d0f7e20e-fb3d-4dde-a4cf-255526843397

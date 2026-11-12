@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubeAverageMatrix_translate_one
 -- name    : OAI.CubicEisenstein.cubeAverageMatrix_translate_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:24:46.046814+00:00
 -- url     : https://prove2.me/theorems/767c640f-a601-440d-820b-a59b2878c87f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActiveLanguageGeneration_Hierarchy_finite_functions_free_subset
 -- name    : ActiveLanguageGeneration.Hierarchy.finite_functions_free_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T21:16:42.511006+00:00
 -- url     : https://prove2.me/theorems/1af7a213-a31e-44b4-b9f8-8614a3bbfeae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_suffix_right_inverse
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.suffix_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:02:25.793199+00:00
 -- url     : https://prove2.me/theorems/96f4611a-9e24-4964-a808-871f99028908

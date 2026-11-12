@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_input_syndrome_supported
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.input_syndrome_supported
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:58:57.183773+00:00
 -- url     : https://prove2.me/theorems/59ad1bc9-aaad-4d85-bb68-194feb243e10

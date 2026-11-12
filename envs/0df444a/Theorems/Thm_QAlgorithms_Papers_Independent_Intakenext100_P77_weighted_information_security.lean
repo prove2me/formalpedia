@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P77_weighted_information_security
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P77.weighted_information_security
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:07:32.86228+00:00
 -- url     : https://prove2.me/theorems/dfe9fca7-66b5-4fbd-8b80-04f8ecce18c5

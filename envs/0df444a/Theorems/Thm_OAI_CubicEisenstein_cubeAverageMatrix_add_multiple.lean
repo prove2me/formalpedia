@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubeAverageMatrix_add_multiple
 -- name    : OAI.CubicEisenstein.cubeAverageMatrix_add_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:22:00.283437+00:00
 -- url     : https://prove2.me/theorems/5e0e8116-f5c8-4089-afd0-68ebb3ca78f6

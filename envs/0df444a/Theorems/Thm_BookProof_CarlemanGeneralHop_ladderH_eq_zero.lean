@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanGeneralHop_ladderH_eq_zero
 -- name    : BookProof.CarlemanGeneralHop.ladderH_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-10T19:36:48.433235+00:00
 -- url     : https://prove2.me/theorems/53599c7e-9420-452d-bf06-e74cb82c46fc

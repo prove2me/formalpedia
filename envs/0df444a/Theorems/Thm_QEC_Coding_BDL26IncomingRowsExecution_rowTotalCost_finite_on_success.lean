@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowTotalCost_finite_on_success
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowTotalCost_finite_on_success
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:50:31.440089+00:00
 -- url     : https://prove2.me/theorems/db897482-edb2-4730-bcf0-6676d992287c

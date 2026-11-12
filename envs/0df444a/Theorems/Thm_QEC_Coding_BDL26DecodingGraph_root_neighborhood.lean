@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26DecodingGraph_root_neighborhood
 -- name    : QEC.Coding.BDL26DecodingGraph.root_neighborhood
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:04:54.152547+00:00
 -- url     : https://prove2.me/theorems/455ef162-17b3-48eb-8929-94f54cb1298c

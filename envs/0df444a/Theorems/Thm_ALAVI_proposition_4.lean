@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALAVI_proposition_4
 -- name    : ALAVI.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:40:30.182015+00:00
 -- url     : https://prove2.me/theorems/20e2f722-1cfa-41d2-9241-4d0369737999

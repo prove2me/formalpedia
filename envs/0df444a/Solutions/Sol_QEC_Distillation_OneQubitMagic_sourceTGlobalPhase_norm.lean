@@ -1,0 +1,91 @@
+-- Prove2me | solution 1 for QEC.Distillation.OneQubitMagic.sourceTGlobalPhase_norm
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T15:01:44.990362+00:00
+-- url     : https://prove2.me/submissions/3028d7fa-f0f5-47af-8348-83053356fff9
+
+import Definitions.Def_QEC_Distillation_Universality_OneQubitMagic
+import Definitions.Def_QEC_Distillation_Core_MagicStateProtocol
+import Definitions.Def_QEC_Distillation_TwoQubitOperations_Core
+import Definitions.Def_QEC_Distillation_Universality_TResourcePhase
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTEvenOutput_global_phase
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTEvenOutput_norm
+import Theorems.Thm_QEC_Distillation_DistillationRun_postprocess_conditionalOutput
+import Theorems.Thm_QEC_Distillation_DistillationRun_postprocess_successProbability
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamard_conj_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_symm_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftTransport_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phase_conj_one
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_apply_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_involutive
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_symm_apply
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_tensor_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzEvenBranchDensity_toOperator
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzEvenProjector_apply_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzEvenProjector_branchState
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOddBranchDensity_toOperator
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOddProjector_apply_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOddProjector_branchState
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOperator_apply
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOperator_apply_basis
+import Theorems.Thm_QEC_Semantics_DensityOperator_convexCombination_toOperator
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_QuantumChannel_comp_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_id_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_additionalRetainedFactorSwap_apply_tmul
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_cptp_toLinearMap
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_mapDensity_toOperator
+attribute [local simp] QEC.Distillation.DistillationRun.postprocess_conditionalOutput
+attribute [local simp] QEC.Distillation.DistillationRun.postprocess_successProbability
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamard_conj_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_symm_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftTransport_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phase_conj_one
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_apply_basis
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_involutive
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_symm_apply
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_tensor_basis
+attribute [local simp] QEC.Distillation.TwoQubit.zzEvenBranchDensity_toOperator
+attribute [local simp] QEC.Distillation.TwoQubit.zzEvenProjector_apply_basis
+attribute [local simp] QEC.Distillation.TwoQubit.zzEvenProjector_branchState
+attribute [local simp] QEC.Distillation.TwoQubit.zzOddBranchDensity_toOperator
+attribute [local simp] QEC.Distillation.TwoQubit.zzOddProjector_apply_basis
+attribute [local simp] QEC.Distillation.TwoQubit.zzOddProjector_branchState
+attribute [local simp] QEC.Distillation.TwoQubit.zzOperator_apply
+attribute [local simp] QEC.Distillation.TwoQubit.zzOperator_apply_basis
+attribute [local simp] QEC.Semantics.DensityOperator.convexCombination_toOperator
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.QuantumChannel.comp_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.id_apply
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.QuditSubsystem.additionalRetainedFactorSwap_apply_tmul
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_cptp_toLinearMap
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_mapDensity_toOperator
+
+
+
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Distillation
+open QEC.Distillation.OneQubitMagic
+open Semantics Semantics.Qubit
+open TwoQubit
+open scoped InnerProductSpace TensorProduct
+namespace QEC.Distillation.OneQubitMagic
+theorem _root_.solution : ‖sourceTGlobalPhase‖ = 1 := by
+  have hnorm := congrArg norm sourceTEvenOutput_global_phase
+  rw [norm_smul, phaseState_norm] at hnorm
+  simpa [sourceTEvenOutput_norm] using hnorm.symm
+end QEC.Distillation.OneQubitMagic

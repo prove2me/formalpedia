@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Puder_tendsto_card_primitivityRank_eq_rpow_rhoStair
 -- name    : Puder.tendsto_card_primitivityRank_eq_rpow_rhoStair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T09:41:25.274655+00:00
 -- url     : https://prove2.me/theorems/bc75a139-6634-4182-a8d4-b60697ccc1ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullSuccessors_rx_shared_z_roots
 -- name    : QEC.Coding.BDL26RXIncidenceHullSuccessors.rx_shared_z_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:02:48.243398+00:00
 -- url     : https://prove2.me/theorems/86e2b725-9726-4424-b8b6-0a94a08aead4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_phaseNormalize_det
 -- name    : QEC.Distillation.phaseNormalize_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:11:58.856465+00:00
 -- url     : https://prove2.me/theorems/dfd570ae-5a38-4116-8a17-5c277a9dbc80

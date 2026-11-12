@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P30_controlled_z_update
 -- name    : QAlgorithms.Papers.Independent.Intake100.P30.controlled_z_update
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:45:14.061573+00:00
 -- url     : https://prove2.me/theorems/287538c9-6163-4b53-8a99-da85d0f9ece1

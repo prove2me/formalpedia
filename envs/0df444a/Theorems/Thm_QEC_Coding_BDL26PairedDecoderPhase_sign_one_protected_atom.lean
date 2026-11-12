@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_sign_one_protected_atom
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.sign_one_protected_atom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:32:57.064617+00:00
 -- url     : https://prove2.me/theorems/acab2862-d3cb-4eef-a952-41971cb94935

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_mem_innK
 -- name    : BookProof.CarlemanTwoStep.mem_innK
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-10T22:31:40.662202+00:00
 -- url     : https://prove2.me/theorems/6b8f11fe-878c-467b-b98f-ef6969306f92

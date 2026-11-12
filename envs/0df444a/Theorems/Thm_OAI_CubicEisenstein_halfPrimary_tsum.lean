@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_halfPrimary_tsum
 -- name    : OAI.CubicEisenstein.halfPrimary_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:44:07.413201+00:00
 -- url     : https://prove2.me/theorems/e7e89558-814c-4e85-91e0-a31839514a15

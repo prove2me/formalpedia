@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_tripleOverlap_cast8
 -- name    : QEC.Distillation.Triorthogonal.tripleOverlap_cast8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:33:33.42163+00:00
 -- url     : https://prove2.me/theorems/114c4bd8-1002-4030-ba52-13322b00a319

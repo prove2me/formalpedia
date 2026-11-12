@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_totalStageCost_succ
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.totalStageCost_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:27:14.06723+00:00
 -- url     : https://prove2.me/theorems/b9b3ff87-7861-42d7-8289-791a4fc77b4b

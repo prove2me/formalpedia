@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gledger32_original_stopping_dividend_cash_vs_clipped_source
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T20:04:23.90782+00:00
 -- url     : https://prove2.me/submissions/1dda2508-876d-47a7-9ad0-d5b71c01ea7e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gledger44_original_stopped_pathwise_cash_source_weighted

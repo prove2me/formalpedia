@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P23_fermionic_covariance
 -- name    : QAlgorithms.Papers.Independent.Intake100.P23.fermionic_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:14:52.573772+00:00
 -- url     : https://prove2.me/theorems/b6ddc32d-cf9b-4935-abaf-19984289a766

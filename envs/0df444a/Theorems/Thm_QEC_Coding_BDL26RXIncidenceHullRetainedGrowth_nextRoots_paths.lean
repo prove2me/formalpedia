@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullRetainedGrowth_nextRoots_paths
 -- name    : QEC.Coding.BDL26RXIncidenceHullRetainedGrowth.nextRoots_paths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:39:32.739287+00:00
 -- url     : https://prove2.me/theorems/6748d7dc-6d94-40d4-9afc-d18b13f3f3b9

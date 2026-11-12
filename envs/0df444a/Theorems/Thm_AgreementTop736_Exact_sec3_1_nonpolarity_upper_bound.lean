@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_sec3_1_nonpolarity_upper_bound
 -- name    : AgreementTop736.Exact.sec3_1_nonpolarity_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:23.811753+00:00
 -- url     : https://prove2.me/theorems/c4cd2eb9-086e-42ce-9e99-f4e2864a872d

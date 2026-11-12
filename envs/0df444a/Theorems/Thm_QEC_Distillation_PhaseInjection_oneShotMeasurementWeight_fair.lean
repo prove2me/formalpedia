@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_oneShotMeasurementWeight_fair
 -- name    : QEC.Distillation.PhaseInjection.oneShotMeasurementWeight_fair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:21:19.025513+00:00
 -- url     : https://prove2.me/theorems/f7d34885-d25c-4afc-8b3e-cab2602ec71d

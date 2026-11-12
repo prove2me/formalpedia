@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeberGittins.IndexGap.theorem3_index_gap_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T05:13:43.437969+00:00
 -- url     : https://prove2.me/submissions/15dbaece-17bf-4767-a99d-1b1e7f773981
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WeberGittins_IndexGap_switch_to_gittins_after_t_optimal
 import Theorems.Thm_WeberGittins_IndexGap_eq8_one_switch_gap_bound

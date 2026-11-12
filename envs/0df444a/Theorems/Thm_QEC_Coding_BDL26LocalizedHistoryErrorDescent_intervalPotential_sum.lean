@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_intervalPotential_sum
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.intervalPotential_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:17:54.169055+00:00
 -- url     : https://prove2.me/theorems/8f4d8cef-30c0-43b5-b117-d08862c228aa

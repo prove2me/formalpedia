@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ABKUFinite_finite_balanced_allocation
 -- name    : ABKUFinite.finite_balanced_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-29T10:33:33.050392+00:00
 -- url     : https://prove2.me/theorems/d5c1a87e-6c15-4a5a-a9fb-b2f563f23557

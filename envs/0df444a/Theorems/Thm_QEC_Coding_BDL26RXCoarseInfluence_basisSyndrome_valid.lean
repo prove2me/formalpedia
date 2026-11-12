@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCoarseInfluence_basisSyndrome_valid
 -- name    : QEC.Coding.BDL26RXCoarseInfluence.basisSyndrome_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:41:21.569185+00:00
 -- url     : https://prove2.me/theorems/216d67ac-2068-4f7d-84b1-3d379be3e23f

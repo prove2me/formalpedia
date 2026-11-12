@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamseyDisambig_Spherical_lemma_8
 -- name    : RamseyDisambig.Spherical.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:31:40.297256+00:00
 -- url     : https://prove2.me/theorems/be286d17-059a-414b-9f4d-cf7ca5ba0f4a

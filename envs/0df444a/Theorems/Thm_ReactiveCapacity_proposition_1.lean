@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReactiveCapacity_proposition_1
 -- name    : ReactiveCapacity.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:19:12.108683+00:00
 -- url     : https://prove2.me/theorems/3f253d1d-7095-40d2-8f0b-77b7781536d1

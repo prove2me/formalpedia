@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalStarTransport_mixed_basis_localized
 -- name    : QEC.Coding.BDL26RZPhysicalStarTransport.mixed_basis_localized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:44:28.973703+00:00
 -- url     : https://prove2.me/theorems/ba5eabd6-7757-4a66-b88d-940083a114e0

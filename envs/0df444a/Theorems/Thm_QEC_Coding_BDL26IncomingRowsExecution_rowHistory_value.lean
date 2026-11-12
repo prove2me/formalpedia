@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowHistory_value
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowHistory_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:27:02.427277+00:00
 -- url     : https://prove2.me/theorems/f25b373e-f749-4355-95fa-4333c36a6aeb

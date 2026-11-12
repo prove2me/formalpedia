@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_keyEvent_joint_law
 -- name    : QEC.Coding.BDL26KeyedGeometric.keyEvent_joint_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:58:37.711165+00:00
 -- url     : https://prove2.me/theorems/bb7f8e8d-084a-4f42-b132-cf94a4f0be20

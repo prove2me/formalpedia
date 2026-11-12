@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_DECExamples_cover_reduction
 -- name    : FoundationsRL.DECExamples.cover_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:20:33.885752+00:00
 -- url     : https://prove2.me/theorems/905e2b62-d4e0-438f-8577-db5b7fcc385d

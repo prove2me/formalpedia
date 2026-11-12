@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_trace_gram_dual_equivalences
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.trace_gram_dual_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:41:30.032319+00:00
 -- url     : https://prove2.me/theorems/5f959d96-d878-4947-b3eb-c1c1b120a543

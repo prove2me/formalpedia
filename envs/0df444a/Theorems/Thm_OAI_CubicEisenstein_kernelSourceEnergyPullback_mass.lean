@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_kernelSourceEnergyPullback_mass
 -- name    : OAI.CubicEisenstein.kernelSourceEnergyPullback_mass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:11:34.399296+00:00
 -- url     : https://prove2.me/theorems/6e429e33-c8bf-4365-a9b0-8f7ea36ea041

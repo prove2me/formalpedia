@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_parented_base_in_rootComponent
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.parented_base_in_rootComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:05:13.12401+00:00
 -- url     : https://prove2.me/theorems/b02fef7c-f8e8-4ff9-a4ed-74519b524fdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_sec3_1_regularizer_comparison
 -- name    : AgreementTop736.Exact.sec3_1_regularizer_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:10.783929+00:00
 -- url     : https://prove2.me/theorems/a10cdbba-9c68-4029-9c1e-c5398c4b78f6

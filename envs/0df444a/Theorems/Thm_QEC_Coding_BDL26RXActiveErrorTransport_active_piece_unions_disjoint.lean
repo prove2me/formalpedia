@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_active_piece_unions_disjoint
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.active_piece_unions_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:40:44.418186+00:00
 -- url     : https://prove2.me/theorems/16d99cd6-cfa2-4b9c-bd6f-3326dc5e0d8a

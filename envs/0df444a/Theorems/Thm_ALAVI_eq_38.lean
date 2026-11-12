@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALAVI_eq_38
 -- name    : ALAVI.eq_38
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:40:31.221754+00:00
 -- url     : https://prove2.me/theorems/ce2b9562-56d2-4040-a4b9-565555fe844e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18g_original_levy_X_laplace_quotient_to_triplet
 -- name    : AvramDividend.Classical.avram_ja18g_original_levy_X_laplace_quotient_to_triplet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T03:26:08.428922+00:00
 -- url     : https://prove2.me/theorems/cd53a52a-c198-4907-908a-33eebbe503d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_state_rxWeightFactor_bounds
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.state_rxWeightFactor_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:10:34.909303+00:00
 -- url     : https://prove2.me/theorems/43c4a2c1-d529-41e8-8105-6e35312e08c0

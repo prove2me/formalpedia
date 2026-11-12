@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Coverage_expansion_after_37_lower
 -- name    : GenEmpLik.Coverage.expansion_after_37_lower
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-07T02:02:53.975163+00:00
 -- url     : https://prove2.me/theorems/f79b41e0-3fe9-4933-a23e-9e8250ffde10

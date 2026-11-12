@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_VariableRelabeling_measurable_original_joint_observation
 -- name    : QEC.Coding.BDL26RandomPerturbation.VariableRelabeling.measurable_original_joint_observation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:23:44.361093+00:00
 -- url     : https://prove2.me/theorems/290a1dc2-5372-42b3-b81a-6c6bb91bac09

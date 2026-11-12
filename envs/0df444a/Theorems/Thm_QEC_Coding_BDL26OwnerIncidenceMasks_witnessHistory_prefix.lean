@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_witnessHistory_prefix
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.witnessHistory_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:34:15.530419+00:00
 -- url     : https://prove2.me/theorems/fab97071-485e-4e13-994e-f886eb66fe1e

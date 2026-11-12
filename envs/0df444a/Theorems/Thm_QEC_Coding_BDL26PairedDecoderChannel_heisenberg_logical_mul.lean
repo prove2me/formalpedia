@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_heisenberg_logical_mul
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.heisenberg_logical_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:41:50.271277+00:00
 -- url     : https://prove2.me/theorems/fa1b16a0-0bf6-4f85-829f-bb27e58c710d

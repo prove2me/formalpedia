@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_IndexGap_eq8_one_switch_gap_bound
 -- name    : WeberGittins.IndexGap.eq8_one_switch_gap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:18.064978+00:00
 -- url     : https://prove2.me/theorems/df742747-08db-4552-adc8-a640f67288ae

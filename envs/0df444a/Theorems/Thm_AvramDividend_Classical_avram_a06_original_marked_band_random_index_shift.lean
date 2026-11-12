@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_marked_band_random_index_shift
 -- name    : AvramDividend.Classical.avram_a06_original_marked_band_random_index_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T02:58:38.850211+00:00
 -- url     : https://prove2.me/theorems/62a946d6-f6a0-4695-8852-e473a29a82ac

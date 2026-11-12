@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_phaseAmplitude_pi_div_four_eq_of_natCast_eq
 -- name    : QEC.Distillation.Triorthogonal.phaseAmplitude_pi_div_four_eq_of_natCast_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:33:46.110192+00:00
 -- url     : https://prove2.me/theorems/fd48633e-22fc-41e1-a632-6f72e2a3946a

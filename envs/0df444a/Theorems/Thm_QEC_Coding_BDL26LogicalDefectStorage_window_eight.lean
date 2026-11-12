@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_window_eight
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.window_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:15:50.845218+00:00
 -- url     : https://prove2.me/theorems/42c72117-8b83-4aa9-b3b1-f199c17c61b5

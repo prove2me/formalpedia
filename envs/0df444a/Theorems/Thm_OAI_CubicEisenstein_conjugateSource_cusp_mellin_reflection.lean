@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_conjugateSource_cusp_mellin_reflection
 -- name    : OAI.CubicEisenstein.conjugateSource_cusp_mellin_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:06:49.068556+00:00
 -- url     : https://prove2.me/theorems/f6bc2664-f2b0-413f-b8ec-c11434ae5f6d

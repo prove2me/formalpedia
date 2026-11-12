@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_nonnegativity_permutation_invariance
 -- name    : FiniteSampleDependence.Rigidity.nonnegativity_permutation_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:49:20.967193+00:00
 -- url     : https://prove2.me/theorems/b37042ac-519f-412c-a2ab-956113861aa2

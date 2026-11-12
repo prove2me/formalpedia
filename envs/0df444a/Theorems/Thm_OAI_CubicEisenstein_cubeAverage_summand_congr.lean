@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubeAverage_summand_congr
 -- name    : OAI.CubicEisenstein.cubeAverage_summand_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:25:24.531769+00:00
 -- url     : https://prove2.me/theorems/339acde7-0db8-4593-a67f-4572debed82c

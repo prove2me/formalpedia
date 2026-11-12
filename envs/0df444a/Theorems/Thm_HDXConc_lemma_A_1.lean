@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXConc_lemma_A_1
 -- name    : HDXConc.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T15:58:06.202066+00:00
 -- url     : https://prove2.me/theorems/81350866-9c32-4101-a276-c0dc10ea5cd1

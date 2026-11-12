@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_resource_constants
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.resource_constants
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:56:31.334607+00:00
 -- url     : https://prove2.me/theorems/b3224849-0618-40af-874f-9faa1260a9dd

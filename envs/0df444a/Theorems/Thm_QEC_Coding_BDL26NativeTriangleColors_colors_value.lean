@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleColors_colors_value
 -- name    : QEC.Coding.BDL26NativeTriangleColors.colors_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:29:38.291934+00:00
 -- url     : https://prove2.me/theorems/a891882e-5ab3-43f0-8074-e5d8fbb99963

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullRetainedGrowth_retainedRoots_connected
 -- name    : QEC.Coding.BDL26RXIncidenceHullRetainedGrowth.retainedRoots_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:37:33.551626+00:00
 -- url     : https://prove2.me/theorems/61d81ec5-5ff4-41ab-b0f5-d0fc2bd885e9

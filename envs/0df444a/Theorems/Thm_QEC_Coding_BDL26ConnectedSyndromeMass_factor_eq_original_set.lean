@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_factor_eq_original_set
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.factor_eq_original_set
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:52:56.940195+00:00
 -- url     : https://prove2.me/theorems/2092aa86-f794-4e6e-b8c2-53bf200aa980

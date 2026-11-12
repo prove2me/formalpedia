@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_tMaximizingDirection_attains
 -- name    : QEC.Distillation.OneQubitMagic.tMaximizingDirection_attains
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:10:29.306383+00:00
 -- url     : https://prove2.me/theorems/d35db57d-82a4-4514-bc83-b6682b20f4df

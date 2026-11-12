@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_incident_card_eq_tannerDegree
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.incident_card_eq_tannerDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:43:48.531985+00:00
 -- url     : https://prove2.me/theorems/53c3f5bd-d007-499c-91b1-974ad4e143ce

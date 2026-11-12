@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P92_bob_pairing_penalty
 -- name    : QAlgorithms.Papers.Independent.Intake100.P92.bob_pairing_penalty
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:37:10.90832+00:00
 -- url     : https://prove2.me/theorems/6cbdcd0a-9686-45c5-8103-1113a92a8319

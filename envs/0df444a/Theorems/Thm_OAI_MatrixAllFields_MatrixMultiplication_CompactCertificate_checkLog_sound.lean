@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_CompactCertificate_checkLog_sound
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.CompactCertificate.checkLog_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:53:32.740748+00:00
 -- url     : https://prove2.me/theorems/e8a88630-eeb0-40d3-9c65-440d51487db6

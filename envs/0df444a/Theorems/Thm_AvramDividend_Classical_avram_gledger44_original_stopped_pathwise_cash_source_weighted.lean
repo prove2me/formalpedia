@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger44_original_stopped_pathwise_cash_source_weighted
 -- name    : AvramDividend.Classical.avram_gledger44_original_stopped_pathwise_cash_source_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T20:02:20.94306+00:00
 -- url     : https://prove2.me/theorems/905244d0-faca-4874-b818-9eae331e1001

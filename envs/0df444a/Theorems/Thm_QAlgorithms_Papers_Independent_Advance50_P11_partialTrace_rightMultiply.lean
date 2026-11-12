@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Advance50_P11_partialTrace_rightMultiply
 -- name    : QAlgorithms.Papers.Independent.Advance50.P11.partialTrace_rightMultiply
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T17:40:28.784557+00:00
 -- url     : https://prove2.me/theorems/5b933301-b020-4e8b-b686-b559d887912b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_step2_output_hall_blocker
 -- name    : SinkhornHall.step2_output_hall_blocker
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:47.130986+00:00
 -- url     : https://prove2.me/theorems/b59cc105-7897-4f5c-80c3-1037a2c509b1

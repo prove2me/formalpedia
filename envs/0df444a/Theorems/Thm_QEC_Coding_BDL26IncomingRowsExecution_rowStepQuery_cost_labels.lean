@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowStepQuery_cost_labels
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowStepQuery_cost_labels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:22:46.520195+00:00
 -- url     : https://prove2.me/theorems/7f6cadb2-c806-4e67-a93b-39a94a149cab

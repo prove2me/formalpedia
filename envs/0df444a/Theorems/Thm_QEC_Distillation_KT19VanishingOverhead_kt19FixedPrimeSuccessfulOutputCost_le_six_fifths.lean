@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_KT19VanishingOverhead_kt19FixedPrimeSuccessfulOutputCost_le_six_fifths
 -- name    : QEC.Distillation.KT19VanishingOverhead.kt19FixedPrimeSuccessfulOutputCost_le_six_fifths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:17:45.30621+00:00
 -- url     : https://prove2.me/theorems/59197b0b-00dd-41d0-9706-c91dd48762f3

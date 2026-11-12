@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGradDHS_Diag_eq_14_bregman_telescoping
 -- name    : AdaGradDHS.Diag.eq_14_bregman_telescoping
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:21:05.712166+00:00
 -- url     : https://prove2.me/theorems/205eb416-42cd-4c7d-9a59-77ae30aae78b

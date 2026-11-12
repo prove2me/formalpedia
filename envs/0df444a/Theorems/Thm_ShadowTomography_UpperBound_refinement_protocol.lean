@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShadowTomography_UpperBound_refinement_protocol
 -- name    : ShadowTomography.UpperBound.refinement_protocol
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-11-07T07:25:23.928065+00:00
 -- url     : https://prove2.me/theorems/7737ec64-dd9b-4d74-930e-4170ac6316ef

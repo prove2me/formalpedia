@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineDenominator_integral_formula
 -- name    : OAI.CubicEisenstein.affineDenominator_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:00:35.714929+00:00
 -- url     : https://prove2.me/theorems/bb8051e7-ae9a-4f8c-9ab9-caa67be7317a

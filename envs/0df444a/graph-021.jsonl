@@ -13641,9 +13641,9 @@
 {"parent": "OAI.SevenEighths.CharacterTransport.primitive_pullback_iff", "child": "OAI_NumberTheory_DirichletL_FiniteConductor", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.longInteractionGraph_edgeFinset_eq", "child": "QEC_Locality_OptimalTradeoff_Interaction", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.longInteractionGraph_edgeFinset_eq", "child": "QEC_Coding_Stabilizer_FixedGeneratorInteraction", "via": ["solution", "statement"]}
-{"parent": "ZeroOneExpansion.theorem_14", "child": "ZeroOneExpansion_Pn", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.theorem_14", "child": "ZeroOneExpansion_polyDim", "via": ["statement"]}
-{"parent": "ZeroOneExpansion.theorem_14", "child": "ZeroOneExpansion_edgeExpansion", "via": ["statement"]}
+{"parent": "ZeroOneExpansion.theorem_14", "child": "ZeroOneExpansion_Pn", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.theorem_14", "child": "ZeroOneExpansion_polyDim", "via": ["solution", "statement"]}
+{"parent": "ZeroOneExpansion.theorem_14", "child": "ZeroOneExpansion_edgeExpansion", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.TunedCandidate.boundary_decrement_value", "child": "Transport_SupportedMass", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.TunedCandidate.boundary_decrement_value", "child": "Transport_LocalBounds", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.TunedCandidate.boundary_decrement_value", "child": "Transport_TunedCandidate", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_channel_right_support
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.channel_right_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:15:36.399534+00:00
 -- url     : https://prove2.me/theorems/8c262a8d-571e-46ec-98f0-b4399ae16b63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_unitLowerIntegral_sum_translate
 -- name    : OAI.CubicEisenstein.unitLowerIntegral_sum_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:30:23.851677+00:00
 -- url     : https://prove2.me/theorems/edc9a8a7-db6a-4766-a54e-ed6be73de225

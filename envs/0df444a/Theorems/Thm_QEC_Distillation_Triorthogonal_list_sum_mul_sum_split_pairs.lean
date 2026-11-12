@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_list_sum_mul_sum_split_pairs
 -- name    : QEC.Distillation.Triorthogonal.list_sum_mul_sum_split_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:35:03.917121+00:00
 -- url     : https://prove2.me/theorems/2c46dc53-d6ce-4905-bf31-c109bfe74798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_event_degree_le_of_density
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_event_degree_le_of_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:43:55.420665+00:00
 -- url     : https://prove2.me/theorems/06709a4e-1c67-4ef1-9683-e06bd97f4f4e

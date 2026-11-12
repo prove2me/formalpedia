@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSourceResidualFunction_split_differentiableAt
 -- name    : OAI.CubicEisenstein.cubicSourceResidualFunction_split_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:30:03.583205+00:00
 -- url     : https://prove2.me/theorems/011cafcd-686a-4918-8821-359f5094ec75

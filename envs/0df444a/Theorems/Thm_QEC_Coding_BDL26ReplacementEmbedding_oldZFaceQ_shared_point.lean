@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_oldZFaceQ_shared_point
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.oldZFaceQ_shared_point
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:49:43.969204+00:00
 -- url     : https://prove2.me/theorems/34646841-6aa0-4479-a4d6-38c116711ebb

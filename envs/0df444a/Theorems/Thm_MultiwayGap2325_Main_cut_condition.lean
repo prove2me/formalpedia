@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayGap2325_Main_cut_condition
 -- name    : MultiwayGap2325.Main.cut_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:04:31.628059+00:00
 -- url     : https://prove2.me/theorems/f87a7855-6a16-4174-975d-cc76bc18946b

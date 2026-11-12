@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurrogateOps_theorem_8
 -- name    : SurrogateOps.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:50:49.050766+00:00
 -- url     : https://prove2.me/theorems/7f6d656d-6fa4-4a27-b0a8-2b70ce8c12ad

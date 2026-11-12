@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_indexedEquiv_prefix_mk
 -- name    : QEC.Coding.BDL26FiniteCohomology.indexedEquiv_prefix_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:52:40.818783+00:00
 -- url     : https://prove2.me/theorems/dadfe253-8c8d-40fd-8055-9e8892114c2b

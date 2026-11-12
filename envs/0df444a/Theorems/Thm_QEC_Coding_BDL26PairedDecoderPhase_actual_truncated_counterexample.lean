@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_actual_truncated_counterexample
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.actual_truncated_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:34:42.4714+00:00
 -- url     : https://prove2.me/theorems/3ce2c0c2-2079-4f9e-bde9-89f4df675c8d

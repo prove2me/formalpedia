@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexRMDP_decomposition_4_5
 -- name    : ConvexRMDP.decomposition_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:17:48.074596+00:00
 -- url     : https://prove2.me/theorems/16dede6a-5aa5-4295-9056-f9676535cb4a

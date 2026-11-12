@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_quotient_mk_reducedCombination_eq_oddWordToLogicalQuotient
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.quotient_mk_reducedCombination_eq_oddWordToLogicalQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:40.650588+00:00
 -- url     : https://prove2.me/theorems/6d6b035f-77cb-4f78-9ff4-0ea150a1160c

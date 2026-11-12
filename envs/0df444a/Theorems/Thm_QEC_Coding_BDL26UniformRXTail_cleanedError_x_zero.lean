@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_cleanedError_x_zero
 -- name    : QEC.Coding.BDL26UniformRXTail.cleanedError_x_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T06:53:58.514408+00:00
 -- url     : https://prove2.me/theorems/d01b16d6-4331-4440-926e-a0ee62493a86

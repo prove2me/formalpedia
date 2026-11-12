@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForecastAggLearn_hstar_norm_bound
 -- name    : ForecastAggLearn.hstar_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:33.284998+00:00
 -- url     : https://prove2.me/theorems/fbd480e5-cb45-4e54-b84e-f88a207e8558

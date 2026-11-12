@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementSupport_rzCorrection_partition
 -- name    : QEC.Coding.BDL26ReplacementSupport.rzCorrection_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T00:57:44.279334+00:00
 -- url     : https://prove2.me/theorems/fb836c85-0b86-4260-a227-745ac407c064

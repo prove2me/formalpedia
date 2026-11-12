@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_indexed_code_dimension_two
 -- name    : QEC.Coding.BDL26CSSHamiltonian.indexed_code_dimension_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:30:43.876345+00:00
 -- url     : https://prove2.me/theorems/904edd30-87f3-404e-90d4-4bec653c3e2e

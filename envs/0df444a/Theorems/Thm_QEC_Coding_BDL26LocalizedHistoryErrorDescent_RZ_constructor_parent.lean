@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_RZ_constructor_parent
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.RZ_constructor_parent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:22:16.030785+00:00
 -- url     : https://prove2.me/theorems/ff044b2c-b030-4d7c-b567-ca3000c5abd5

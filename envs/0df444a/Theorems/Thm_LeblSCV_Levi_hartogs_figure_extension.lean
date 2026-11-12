@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Levi_hartogs_figure_extension
 -- name    : LeblSCV.Levi.hartogs_figure_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:05:01.592291+00:00
 -- url     : https://prove2.me/theorems/75db3287-a22c-4858-9587-e3167d8caa60

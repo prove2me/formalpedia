@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BareLogicalPair_logicalX_not_identity
 -- name    : QEC.Coding.BDL26BareLogicalPair.logicalX_not_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:34:44.576888+00:00
 -- url     : https://prove2.me/theorems/03ca6a54-41b2-40cd-b18a-ee4ec75c8fe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXInfluenceBounds_errorInfluence_basis
 -- name    : QEC.Coding.BDL26RXInfluenceBounds.errorInfluence_basis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:54:53.54797+00:00
 -- url     : https://prove2.me/theorems/900a8013-3e23-4b87-aa29-c1480b1467e8

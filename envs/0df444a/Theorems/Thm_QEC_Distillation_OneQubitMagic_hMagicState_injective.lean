@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_hMagicState_injective
 -- name    : QEC.Distillation.OneQubitMagic.hMagicState_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:05:35.689435+00:00
 -- url     : https://prove2.me/theorems/6fa7647b-cbdc-4f82-ba64-0b213d350d29

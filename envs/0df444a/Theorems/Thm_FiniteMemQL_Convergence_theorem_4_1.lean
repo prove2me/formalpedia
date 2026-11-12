@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteMemQL_Convergence_theorem_4_1
 -- name    : FiniteMemQL.Convergence.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:17.532332+00:00
 -- url     : https://prove2.me/theorems/77c15522-34ea-4f7a-8366-20f68d9acf3e

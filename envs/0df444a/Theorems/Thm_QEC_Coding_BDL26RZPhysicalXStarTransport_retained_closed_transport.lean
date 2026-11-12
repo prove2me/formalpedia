@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_retained_closed_transport
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.retained_closed_transport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:09:37.626772+00:00
 -- url     : https://prove2.me/theorems/d6f17b43-8d77-4bca-9b9c-85ea3350f4c2

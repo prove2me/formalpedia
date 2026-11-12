@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeliefDominance_vaccine_value
 -- name    : BeliefDominance.vaccine_value
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:26:52.117343+00:00
 -- url     : https://prove2.me/theorems/67a1a1ac-cdc9-4949-a93b-b81cbb639cab

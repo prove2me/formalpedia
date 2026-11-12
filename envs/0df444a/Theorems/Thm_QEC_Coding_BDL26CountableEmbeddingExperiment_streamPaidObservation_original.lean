@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_streamPaidObservation_original
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.streamPaidObservation_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:30:06.524283+00:00
 -- url     : https://prove2.me/theorems/49e4a54d-af88-4c9c-8cd0-45d7e4256c2b

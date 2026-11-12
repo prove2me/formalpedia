@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryErrorTelescoping_actual_fullspan_exists
 -- name    : QEC.Coding.BDL26HistoryErrorTelescoping.actual_fullspan_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:50:21.909213+00:00
 -- url     : https://prove2.me/theorems/0b03a9a2-ceee-44a0-a699-25c082dc0a4a

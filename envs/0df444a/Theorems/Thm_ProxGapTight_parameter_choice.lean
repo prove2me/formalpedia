@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_parameter_choice
 -- name    : ProxGapTight.parameter_choice
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:49:11.928207+00:00
 -- url     : https://prove2.me/theorems/c5a8b3a0-2bfa-472e-9fa8-2b2b6af707c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_prefixStageCost_finite_iff
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.prefixStageCost_finite_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:52:56.577415+00:00
 -- url     : https://prove2.me/theorems/ab09568a-bfd0-41a5-8e99-f0a240ddab25

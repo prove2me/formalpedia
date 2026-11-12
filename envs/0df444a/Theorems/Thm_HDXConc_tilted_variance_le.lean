@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXConc_tilted_variance_le
 -- name    : HDXConc.tilted_variance_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:00:08.987466+00:00
 -- url     : https://prove2.me/theorems/e674291d-c954-4f2b-8dbc-633bef769fb0

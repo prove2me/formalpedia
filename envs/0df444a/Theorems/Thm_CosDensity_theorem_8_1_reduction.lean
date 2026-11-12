@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosDensity_theorem_8_1_reduction
 -- name    : CosDensity.theorem_8_1_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:40:23.817965+00:00
 -- url     : https://prove2.me/theorems/1267d930-9f93-4b6b-ab8d-f7159767dc6e

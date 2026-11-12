@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_measurable_streamPhysicalOutput
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.measurable_streamPhysicalOutput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:09:41.471322+00:00
 -- url     : https://prove2.me/theorems/f2894bb9-4db1-4f01-ba41-2a21b8a9ca9d

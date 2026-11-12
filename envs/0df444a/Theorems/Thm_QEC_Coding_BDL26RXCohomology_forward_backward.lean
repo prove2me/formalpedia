@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCohomology_forward_backward
 -- name    : QEC.Coding.BDL26RXCohomology.forward_backward
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:44:21.031578+00:00
 -- url     : https://prove2.me/theorems/d9cb6cd5-1416-4d89-a3ed-3c3ae56c077d

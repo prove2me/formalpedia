@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26QuantitativeBounds_evenState_pure_power_bounds
 -- name    : QEC.Coding.BDL26QuantitativeBounds.evenState_pure_power_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:16:27.6245+00:00
 -- url     : https://prove2.me/theorems/897b56fd-4e7e-4613-9019-06dc708c2ac1

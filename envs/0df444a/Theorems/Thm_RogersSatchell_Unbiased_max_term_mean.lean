@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RogersSatchell_Unbiased_max_term_mean
 -- name    : RogersSatchell.Unbiased.max_term_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:45:45.757458+00:00
 -- url     : https://prove2.me/theorems/4576a5b5-0ab3-4dbc-84a7-ca02023f3f97

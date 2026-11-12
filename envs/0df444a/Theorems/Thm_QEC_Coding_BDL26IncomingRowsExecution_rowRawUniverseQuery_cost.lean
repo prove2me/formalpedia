@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowRawUniverseQuery_cost
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowRawUniverseQuery_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:20:41.474205+00:00
 -- url     : https://prove2.me/theorems/20d2eb2d-93db-4bdf-8652-d3fb772799ac

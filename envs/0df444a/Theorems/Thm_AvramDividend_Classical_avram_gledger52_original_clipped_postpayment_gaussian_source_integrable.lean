@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger52_original_clipped_postpayment_gaussian_source_integrable
 -- name    : AvramDividend.Classical.avram_gledger52_original_clipped_postpayment_gaussian_source_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T22:23:47.494023+00:00
 -- url     : https://prove2.me/theorems/bcaedabf-5808-484e-ac62-8a542c667a81

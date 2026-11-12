@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Advance50_P10_renyi_order_complement
 -- name    : QAlgorithms.Papers.Independent.Advance50.P10.renyi_order_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:35:40.644631+00:00
 -- url     : https://prove2.me/theorems/266da331-bb48-47ba-b270-23dc2f4aec4c

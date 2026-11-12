@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneExpansion_corollary_10
 -- name    : ZeroOneExpansion.corollary_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:23:17.18195+00:00
 -- url     : https://prove2.me/theorems/1622d594-67df-42ba-831f-bd44b9af71e3

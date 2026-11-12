@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HindsightGain_Uniform_lemma_2_1
 -- name    : HindsightGain.Uniform.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:51:32.583602+00:00
 -- url     : https://prove2.me/theorems/b7f87f7f-c48b-4fc5-a895-9e4dbc9d7240

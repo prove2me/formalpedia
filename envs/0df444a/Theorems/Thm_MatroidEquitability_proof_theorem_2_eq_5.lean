@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidEquitability_proof_theorem_2_eq_5
 -- name    : MatroidEquitability.proof_theorem_2_eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:32:41.862229+00:00
 -- url     : https://prove2.me/theorems/cc182bec-1804-49ed-b563-9c83bb96af2d

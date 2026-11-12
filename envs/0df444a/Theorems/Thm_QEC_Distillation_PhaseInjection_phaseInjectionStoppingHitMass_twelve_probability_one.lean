@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionStoppingHitMass_twelve_probability_one
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionStoppingHitMass_twelve_probability_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:12:40.118854+00:00
 -- url     : https://prove2.me/theorems/ab8ec0df-f1d1-435a-a423-b87d24981711

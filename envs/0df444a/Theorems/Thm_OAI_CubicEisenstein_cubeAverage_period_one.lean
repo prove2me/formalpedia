@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubeAverage_period_one
 -- name    : OAI.CubicEisenstein.cubeAverage_period_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:23:04.665776+00:00
 -- url     : https://prove2.me/theorems/5e348ed6-c264-46d4-9a23-e29d49381ed0

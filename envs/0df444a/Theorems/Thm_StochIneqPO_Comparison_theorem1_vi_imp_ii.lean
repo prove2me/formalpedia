@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Comparison_theorem1_vi_imp_ii
 -- name    : StochIneqPO.Comparison.theorem1_vi_imp_ii
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-06T17:47:54.551893+00:00
 -- url     : https://prove2.me/theorems/7e5b3fef-6b5c-406d-af5d-ba31be033e9b

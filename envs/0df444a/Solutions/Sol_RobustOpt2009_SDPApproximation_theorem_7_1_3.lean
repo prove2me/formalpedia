@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RobustOpt2009.SDPApproximation.theorem_7_1_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-31T06:31:41.825714+00:00
 -- url     : https://prove2.me/submissions/f681ac27-ba8b-4fe0-9c67-e775628a54b4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RobustOpt2009_SDPApproximation_theorem_7_1_3_ii
 

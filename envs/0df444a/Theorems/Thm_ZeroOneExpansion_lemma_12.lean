@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneExpansion_lemma_12
 -- name    : ZeroOneExpansion.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:23:08.061203+00:00
 -- url     : https://prove2.me/theorems/5568970c-95d2-44d4-9957-bc0f40e21c9b

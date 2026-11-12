@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineLowerTerm_fourier_integral
 -- name    : OAI.CubicEisenstein.affineLowerTerm_fourier_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:04.778958+00:00
 -- url     : https://prove2.me/theorems/253f18e8-a438-4ac5-a34e-9cccdfbbd772

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_cliffordCorrection_apply
 -- name    : QEC.Distillation.Triorthogonal.cliffordCorrection_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:28:43.227304+00:00
 -- url     : https://prove2.me/theorems/109b88d4-9d13-46eb-983b-5ee1abe1947e

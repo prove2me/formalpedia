@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_inputRows_eq
 -- name    : QEC.Coding.BDL26PaidRowsComposition.inputRows_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:22:37.565804+00:00
 -- url     : https://prove2.me/theorems/c6d28af5-65bd-4634-a24b-19d51999c2c8

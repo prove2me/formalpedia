@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P76_weighted_power_jensen
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P76.weighted_power_jensen
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T09:18:11.488824+00:00
 -- url     : https://prove2.me/theorems/be6e92b5-1805-473b-964a-b481af6011c4

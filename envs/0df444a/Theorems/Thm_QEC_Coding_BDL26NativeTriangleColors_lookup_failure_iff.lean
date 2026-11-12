@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleColors_lookup_failure_iff
 -- name    : QEC.Coding.BDL26NativeTriangleColors.lookup_failure_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:56:08.206962+00:00
 -- url     : https://prove2.me/theorems/9dfbad50-0ffa-42a3-b638-3ec22877798f

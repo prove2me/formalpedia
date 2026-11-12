@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearHashingPoissonesque_ExpectedLoads_conditional_squaring
 -- name    : LinearHashingPoissonesque.ExpectedLoads.conditional_squaring
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T19:02:06.857386+00:00
 -- url     : https://prove2.me/theorems/48921f2c-5ac7-4f78-84ba-b2464e7189a8

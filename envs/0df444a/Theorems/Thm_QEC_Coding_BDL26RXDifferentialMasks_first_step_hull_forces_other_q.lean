@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDifferentialMasks_first_step_hull_forces_other_q
 -- name    : QEC.Coding.BDL26RXDifferentialMasks.first_step_hull_forces_other_q
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:35:55.392949+00:00
 -- url     : https://prove2.me/theorems/fd394bd3-eae1-47c0-8382-3610ed2c2841

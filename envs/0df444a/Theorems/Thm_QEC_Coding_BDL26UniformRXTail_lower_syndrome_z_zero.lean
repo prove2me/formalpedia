@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_lower_syndrome_z_zero
 -- name    : QEC.Coding.BDL26UniformRXTail.lower_syndrome_z_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:14:21.217321+00:00
 -- url     : https://prove2.me/theorems/292ac872-9026-488e-b483-5b9bb52c877d

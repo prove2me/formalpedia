@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_encodedComputationalState_apply_of_not_mem
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.encodedComputationalState_apply_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:27:02.769255+00:00
 -- url     : https://prove2.me/theorems/3e9cdefc-e17c-49c4-9900-1f283a95a428

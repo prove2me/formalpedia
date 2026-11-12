@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualCoppersmith_Recovery_root_recovery
 -- name    : DualCoppersmith.Recovery.root_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T02:56:28.084705+00:00
 -- url     : https://prove2.me/theorems/e43f1c80-e177-48e6-b6f3-43ed99dacf16

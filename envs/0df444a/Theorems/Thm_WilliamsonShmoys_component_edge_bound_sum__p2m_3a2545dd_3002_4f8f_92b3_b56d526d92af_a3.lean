@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_edge_bound_sum__p2m_3a2545dd_3002_4f8f_92b3_b56d526d92af_a3
 -- name    : WilliamsonShmoys.component_edge_bound_sum__p2m_3a2545dd_3002_4f8f_92b3_b56d526d92af_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:06:50.581301+00:00
 -- url     : https://prove2.me/theorems/3bd10af8-0975-451b-8419-6ac5ff23e627

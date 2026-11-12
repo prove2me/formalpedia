@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Coverage_expansion_after_37
 -- name    : GenEmpLik.Coverage.expansion_after_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:48:34.920601+00:00
 -- url     : https://prove2.me/theorems/b1c135db-211e-41ed-b757-e410e1603ef9

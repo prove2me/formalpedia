@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_Relax_bilin_subset_relax
 -- name    : ShortestGCS.Relax.bilin_subset_relax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:59:52.421475+00:00
 -- url     : https://prove2.me/theorems/8cda99e3-c599-4c48-b95a-e2027a8bc0fa

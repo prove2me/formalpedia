@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_dualBaseLocal_materialized_iff
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseLocal_materialized_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:19:21.723968+00:00
 -- url     : https://prove2.me/theorems/d291c6e1-b558-4ff7-99d9-e0cab1048f42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P10_amplitudeDamping_classical_environment
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P10.amplitudeDamping_classical_environment
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:42:42.550205+00:00
 -- url     : https://prove2.me/theorems/5e70a405-52d7-44e3-9bf1-ef3fea37e0c2

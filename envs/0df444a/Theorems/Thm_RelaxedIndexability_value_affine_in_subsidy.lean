@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedIndexability_value_affine_in_subsidy
 -- name    : RelaxedIndexability.value_affine_in_subsidy
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:21:41.932797+00:00
 -- url     : https://prove2.me/theorems/9c4962f3-79f8-445a-9b52-42183e05e4f3

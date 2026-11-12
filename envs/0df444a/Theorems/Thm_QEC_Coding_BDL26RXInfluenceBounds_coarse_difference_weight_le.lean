@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXInfluenceBounds_coarse_difference_weight_le
 -- name    : QEC.Coding.BDL26RXInfluenceBounds.coarse_difference_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:46:24.969964+00:00
 -- url     : https://prove2.me/theorems/55926b34-0fe8-4321-9921-e383fb3b9939

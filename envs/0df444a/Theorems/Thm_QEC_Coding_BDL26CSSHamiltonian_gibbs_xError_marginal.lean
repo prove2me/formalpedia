@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_gibbs_xError_marginal
 -- name    : QEC.Coding.BDL26CSSHamiltonian.gibbs_xError_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:54:50.07702+00:00
 -- url     : https://prove2.me/theorems/f841dff8-2381-4b46-816b-87d4a83736c5

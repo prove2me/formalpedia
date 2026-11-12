@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_historyQ_prefix
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.historyQ_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:42:17.10785+00:00
 -- url     : https://prove2.me/theorems/7905c606-f929-475e-add3-8d0d3d3d5dd4

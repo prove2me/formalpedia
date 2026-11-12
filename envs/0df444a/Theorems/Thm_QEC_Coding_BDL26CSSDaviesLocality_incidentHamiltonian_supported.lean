@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_incidentHamiltonian_supported
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.incidentHamiltonian_supported
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:40:08.539199+00:00
 -- url     : https://prove2.me/theorems/dc5bd5c9-9e5d-44f7-93d8-1002bf52810f

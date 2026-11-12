@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTSin_mul_sourceTCos
 -- name    : QEC.Distillation.OneQubitMagic.sourceTSin_mul_sourceTCos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:25:36.204977+00:00
 -- url     : https://prove2.me/theorems/b1573248-c448-4302-9722-28df3d6dd0fc

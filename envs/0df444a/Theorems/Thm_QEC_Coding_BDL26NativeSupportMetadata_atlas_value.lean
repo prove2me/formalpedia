@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_atlas_value
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.atlas_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:23:19.966209+00:00
 -- url     : https://prove2.me/theorems/0b5e417e-276e-4962-9ce1-8117bf58984f

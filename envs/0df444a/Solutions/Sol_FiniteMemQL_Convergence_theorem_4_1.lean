@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteMemQL.Convergence.theorem_4_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-30T05:36:41.481925+00:00
 -- url     : https://prove2.me/submissions/770ae66a-f00a-42cd-bfe4-17b026fea3ca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TotalVariationDist

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineCuspFrequency_lift
 -- name    : OAI.CubicEisenstein.affineCuspFrequency_lift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:02:39.871263+00:00
 -- url     : https://prove2.me/theorems/ed04c1ce-6d22-4c9e-91f1-b40a59cddd20

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StochIneqPO.DBar.theorem7_stationary_coupling
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T07:46:49.948196+00:00
 -- url     : https://prove2.me/submissions/e0d2eb03-976e-415a-8a5e-e895ca29519e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StochIneqPO_Comparison_StochLE

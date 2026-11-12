@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Chernoff_eq_2_11
 -- name    : FuchsThesis.Chernoff.eq_2_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:56:17.462106+00:00
 -- url     : https://prove2.me/theorems/2d4334ae-1dc2-4b27-b948-0d71c7042369

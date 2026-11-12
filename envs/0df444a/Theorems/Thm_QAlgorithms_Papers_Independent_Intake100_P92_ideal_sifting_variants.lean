@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P92_ideal_sifting_variants
 -- name    : QAlgorithms.Papers.Independent.Intake100.P92.ideal_sifting_variants
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:38:39.912185+00:00
 -- url     : https://prove2.me/theorems/fac79935-c767-4345-bd49-338f7799d695

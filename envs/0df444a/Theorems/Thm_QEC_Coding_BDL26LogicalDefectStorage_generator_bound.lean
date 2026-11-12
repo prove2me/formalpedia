@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_generator_bound
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.generator_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:29:14.927911+00:00
 -- url     : https://prove2.me/theorems/98d5e730-2304-4196-89f7-3dae5ae27d6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_unpackTables_law
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.unpackTables_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:06:05.735425+00:00
 -- url     : https://prove2.me/theorems/9b1e2769-3f1c-425f-baf8-7d835bfb4af2

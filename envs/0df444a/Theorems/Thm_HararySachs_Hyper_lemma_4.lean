@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_lemma_4
 -- name    : HararySachs.Hyper.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:40:26.016172+00:00
 -- url     : https://prove2.me/theorems/63616dbc-a2f6-4ec0-a2fd-bed7d041f844

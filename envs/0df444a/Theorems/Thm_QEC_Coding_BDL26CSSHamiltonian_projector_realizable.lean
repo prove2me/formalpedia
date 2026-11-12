@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_projector_realizable
 -- name    : QEC.Coding.BDL26CSSHamiltonian.projector_realizable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:51:48.168568+00:00
 -- url     : https://prove2.me/theorems/9563de6b-4a3a-45d4-b540-47a4ab3cd37b

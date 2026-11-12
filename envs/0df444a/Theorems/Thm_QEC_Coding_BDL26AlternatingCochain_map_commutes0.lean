@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26AlternatingCochain_map_commutes0
 -- name    : QEC.Coding.BDL26AlternatingCochain.map_commutes0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:11:48.16661+00:00
 -- url     : https://prove2.me/theorems/da6e8a50-4a96-4bd2-a31b-09434b2d1beb

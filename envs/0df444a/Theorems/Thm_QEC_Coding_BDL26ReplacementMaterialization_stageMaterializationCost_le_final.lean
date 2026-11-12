@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_stageMaterializationCost_le_final
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.stageMaterializationCost_le_final
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:14:28.10981+00:00
 -- url     : https://prove2.me/theorems/8ddb7422-ee31-41d3-9a1e-d7b4063e5cda

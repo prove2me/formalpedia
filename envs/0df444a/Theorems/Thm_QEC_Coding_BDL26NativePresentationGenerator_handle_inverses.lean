@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_handle_inverses
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.handle_inverses
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:57:39.449935+00:00
 -- url     : https://prove2.me/theorems/c0038324-b43b-4b91-8904-09090be02695

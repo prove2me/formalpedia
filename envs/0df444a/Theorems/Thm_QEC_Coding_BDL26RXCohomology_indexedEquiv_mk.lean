@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCohomology_indexedEquiv_mk
 -- name    : QEC.Coding.BDL26RXCohomology.indexedEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:46:49.178971+00:00
 -- url     : https://prove2.me/theorems/f2231c3e-9faa-4edc-bcbe-2d119829b122

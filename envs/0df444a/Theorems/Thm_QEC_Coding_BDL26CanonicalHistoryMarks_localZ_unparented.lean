@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_localZ_unparented
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.localZ_unparented
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:09:03.959353+00:00
 -- url     : https://prove2.me/theorems/67dd6d2a-b713-42cf-9d00-80e0b979560d

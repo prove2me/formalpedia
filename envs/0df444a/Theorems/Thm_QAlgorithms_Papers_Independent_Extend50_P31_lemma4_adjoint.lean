@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_lemma4_adjoint
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.lemma4_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:27:04.316257+00:00
 -- url     : https://prove2.me/theorems/38e51a61-0527-4bda-9e21-f1285570fc03

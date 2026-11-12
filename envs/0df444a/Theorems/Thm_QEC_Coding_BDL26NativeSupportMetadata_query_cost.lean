@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_query_cost
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.query_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:46:35.374952+00:00
 -- url     : https://prove2.me/theorems/90dab306-011b-4ef1-9496-797dcec88c43

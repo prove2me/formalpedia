@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Comparison_prop2_le_of_marginals_le
 -- name    : StochIneqPO.Comparison.prop2_le_of_marginals_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:17:20.120582+00:00
 -- url     : https://prove2.me/theorems/3b1f9135-5d27-44e0-a411-de13aa6229d8

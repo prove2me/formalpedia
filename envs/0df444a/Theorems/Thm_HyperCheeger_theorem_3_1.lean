@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperCheeger_theorem_3_1
 -- name    : HyperCheeger.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:03:47.040973+00:00
 -- url     : https://prove2.me/theorems/b6f9414f-46cd-4c6f-961e-fb891b8139f9

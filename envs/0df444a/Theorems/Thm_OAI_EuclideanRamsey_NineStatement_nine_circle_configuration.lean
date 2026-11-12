@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_NineStatement_nine_circle_configuration
 -- name    : OAI.EuclideanRamsey.NineStatement.nine_circle_configuration
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:38.358736+00:00
 -- url     : https://prove2.me/theorems/8efffe56-6aa8-468e-a1e3-ca8010b6f06c

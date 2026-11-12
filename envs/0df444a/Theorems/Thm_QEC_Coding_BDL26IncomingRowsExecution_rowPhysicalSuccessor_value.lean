@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowPhysicalSuccessor_value
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowPhysicalSuccessor_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:26:28.307454+00:00
 -- url     : https://prove2.me/theorems/fbb1263f-9544-4e8b-8fb8-37c36b3c041d

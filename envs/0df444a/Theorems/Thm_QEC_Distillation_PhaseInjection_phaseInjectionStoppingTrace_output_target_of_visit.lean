@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionStoppingTrace_output_target_of_visit
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionStoppingTrace_output_target_of_visit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:23:43.952916+00:00
 -- url     : https://prove2.me/theorems/517d812f-0c49-4f9f-bb98-3daecf677983

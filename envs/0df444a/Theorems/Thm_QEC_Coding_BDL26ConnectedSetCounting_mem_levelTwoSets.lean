@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSetCounting_mem_levelTwoSets
 -- name    : QEC.Coding.BDL26ConnectedSetCounting.mem_levelTwoSets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:44:50.055812+00:00
 -- url     : https://prove2.me/theorems/ce17c7df-4d63-4197-af24-e6cd7b1cd6c3

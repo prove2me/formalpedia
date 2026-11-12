@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_singleQubitLift_inv
 -- name    : QEC.Distillation.FiniteRegisterUniversality.singleQubitLift_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:24:11.2799+00:00
 -- url     : https://prove2.me/theorems/e695ee8f-0bcf-4c66-b058-42e9e8765a81

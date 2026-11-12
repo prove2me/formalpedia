@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_anoise22_original_gaussian_cutoff_martingale_l1
 -- name    : AvramDividend.Classical.avram_anoise22_original_gaussian_cutoff_martingale_l1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T09:06:22.644813+00:00
 -- url     : https://prove2.me/theorems/45cf62b8-ecf0-4be9-89bc-928240565d03

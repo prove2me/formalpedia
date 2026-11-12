@@ -17889,9 +17889,9 @@
 {"parent": "D1Bound5.oneSmallThirdRows_27_complete", "child": "D1Bound5_OneSmallThirdData_Definitions_002", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallThirdRows_27_complete", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.oneSmallThirdRows_27_complete", "child": "D1Bound5_OneSmallRows_Definitions", "via": ["solution", "statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_14", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_14", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "ShadowTomography.UpperBound.lemma_14", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_14", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_14", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "ShadowTomography.UpperBound.lemma_14", "child": "ShadowTomography_UpperBound_IsEffect", "via": ["solution", "statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Poincare_LocalSlope_Gradient", "child": "KLSModular_FunctionalInequalities_Poincare_LocalSlope_Basic", "via": ["statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Poincare_LocalSlope_Gradient", "child": "KLSModular_FunctionalInequalities_Energy_LocalSlope_Gradient", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_maximal_edge_count", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}

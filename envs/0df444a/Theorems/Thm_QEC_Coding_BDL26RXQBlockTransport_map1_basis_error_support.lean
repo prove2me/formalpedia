@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQBlockTransport_map1_basis_error_support
 -- name    : QEC.Coding.BDL26RXQBlockTransport.map1_basis_error_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:05:40.447354+00:00
 -- url     : https://prove2.me/theorems/37613a5d-b7a9-473d-ad73-d42bf90c2a2e

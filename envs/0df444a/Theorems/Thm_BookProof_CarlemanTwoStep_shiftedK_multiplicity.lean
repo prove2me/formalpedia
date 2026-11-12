@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_shiftedK_multiplicity
 -- name    : BookProof.CarlemanTwoStep.shiftedK_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:52:14.794327+00:00
 -- url     : https://prove2.me/theorems/cc3b09e0-4e85-4c51-ad54-377c634c4743

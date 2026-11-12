@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_lower_input_weight_le_four
 -- name    : QEC.Coding.BDL26UniformRXTail.lower_input_weight_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:08:56.976668+00:00
 -- url     : https://prove2.me/theorems/e7e66777-cc1b-4967-b138-f352a9582c4f

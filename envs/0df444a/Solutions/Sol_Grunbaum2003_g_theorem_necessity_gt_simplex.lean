@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.g_theorem_necessity_gt_simplex
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-09T02:01:05.843945+00:00
 -- url     : https://prove2.me/submissions/e7b4c43d-1bbe-4330-905e-36675248797e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsSimplicialDPolytope
 import Definitions.Def_Grunbaum2003_faceCount

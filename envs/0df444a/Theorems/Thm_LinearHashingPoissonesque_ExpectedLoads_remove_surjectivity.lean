@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearHashingPoissonesque_ExpectedLoads_remove_surjectivity
 -- name    : LinearHashingPoissonesque.ExpectedLoads.remove_surjectivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T19:02:55.507007+00:00
 -- url     : https://prove2.me/theorems/588ecc05-df2c-484c-8038-c63f33a1dab2

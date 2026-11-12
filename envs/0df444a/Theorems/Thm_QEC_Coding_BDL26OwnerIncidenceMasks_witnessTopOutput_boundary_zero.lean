@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_witnessTopOutput_boundary_zero
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopOutput_boundary_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:34:41.489294+00:00
 -- url     : https://prove2.me/theorems/ebe66abd-01c8-406a-adc2-83493d89ad38

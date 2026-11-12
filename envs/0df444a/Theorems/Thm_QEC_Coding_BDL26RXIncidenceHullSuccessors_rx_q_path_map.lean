@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullSuccessors_rx_q_path_map
 -- name    : QEC.Coding.BDL26RXIncidenceHullSuccessors.rx_q_path_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T08:59:38.659594+00:00
 -- url     : https://prove2.me/theorems/9156ef0c-63b8-419c-89a6-8715fd99517f

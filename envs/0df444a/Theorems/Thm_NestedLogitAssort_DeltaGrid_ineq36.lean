@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitAssort_DeltaGrid_ineq36
 -- name    : NestedLogitAssort.DeltaGrid.ineq36
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:11:10.080513+00:00
 -- url     : https://prove2.me/theorems/0a879ad7-6d51-4c07-a230-8d84e00bfbfc

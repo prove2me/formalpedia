@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_low_dim_and_higher_g_theorem
 -- name    : Grunbaum2003.simplicial_low_dim_and_higher_g_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-07T19:08:51.621081+00:00
 -- url     : https://prove2.me/theorems/a105e5d5-4d1c-48a5-a8ab-e74ab19d33d5

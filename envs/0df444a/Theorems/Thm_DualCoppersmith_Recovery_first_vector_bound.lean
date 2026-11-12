@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualCoppersmith_Recovery_first_vector_bound
 -- name    : DualCoppersmith.Recovery.first_vector_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T02:54:34.127174+00:00
 -- url     : https://prove2.me/theorems/565081a9-7329-41f0-9b78-5a7bc50eaa41

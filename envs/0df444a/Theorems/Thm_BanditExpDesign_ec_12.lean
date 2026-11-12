@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanditExpDesign_ec_12
 -- name    : BanditExpDesign.ec_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:36:31.762538+00:00
 -- url     : https://prove2.me/theorems/94d68bfd-d554-4203-8567-655bbcd409e0

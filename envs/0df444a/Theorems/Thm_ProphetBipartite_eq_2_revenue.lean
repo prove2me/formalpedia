@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_eq_2_revenue
 -- name    : ProphetBipartite.eq_2_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:49:55.205276+00:00
 -- url     : https://prove2.me/theorems/0c1c351a-42b1-48a9-9b1d-927728db7038

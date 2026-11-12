@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_componentWithLower_singleton
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.componentWithLower_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:28:24.778308+00:00
 -- url     : https://prove2.me/theorems/b8ed3c51-3334-4d0b-8e36-1fdff5501d55

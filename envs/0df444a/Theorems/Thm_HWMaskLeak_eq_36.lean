@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HWMaskLeak_eq_36
 -- name    : HWMaskLeak.eq_36
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:29:41.64779+00:00
 -- url     : https://prove2.me/theorems/ec56170a-35c6-4e42-96f8-dd34df51fab8

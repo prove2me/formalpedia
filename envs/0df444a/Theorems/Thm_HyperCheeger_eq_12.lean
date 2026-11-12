@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperCheeger_eq_12
 -- name    : HyperCheeger.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:03:59.335008+00:00
 -- url     : https://prove2.me/theorems/734b7ef2-38aa-428a-962c-99f949cde5a1

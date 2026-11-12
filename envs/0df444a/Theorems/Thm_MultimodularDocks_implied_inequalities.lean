@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultimodularDocks_implied_inequalities
 -- name    : MultimodularDocks.implied_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:35:31.013273+00:00
 -- url     : https://prove2.me/theorems/596eb7d7-8d4f-4b9d-9f77-7403fcb4321a

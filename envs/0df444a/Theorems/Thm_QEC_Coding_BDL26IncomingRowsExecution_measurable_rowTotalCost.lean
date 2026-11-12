@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_measurable_rowTotalCost
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.measurable_rowTotalCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:50:22.989721+00:00
 -- url     : https://prove2.me/theorems/15ebd652-32a1-47d8-894f-4b48288d9a93

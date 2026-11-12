@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_allFiniteSuccess_paid_geometry
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.allFiniteSuccess_paid_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:28:53.834035+00:00
 -- url     : https://prove2.me/theorems/18372813-7d2e-47be-8300-7472353d31a0

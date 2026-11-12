@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26DecodingGraph_level_two
 -- name    : QEC.Coding.BDL26DecodingGraph.level_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:02:40.424688+00:00
 -- url     : https://prove2.me/theorems/0e1a4d31-74ee-4379-b1cd-51babe9d440c

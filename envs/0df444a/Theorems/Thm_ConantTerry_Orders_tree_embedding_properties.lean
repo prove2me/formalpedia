@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConantTerry_Orders_tree_embedding_properties
 -- name    : ConantTerry.Orders.tree_embedding_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:32:22.770259+00:00
 -- url     : https://prove2.me/theorems/7a35760f-b0e0-4527-aa9e-60af5c60fd52

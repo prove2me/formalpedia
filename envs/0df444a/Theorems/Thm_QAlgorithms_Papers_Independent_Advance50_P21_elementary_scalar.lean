@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Advance50_P21_elementary_scalar
 -- name    : QAlgorithms.Papers.Independent.Advance50.P21.elementary_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:55:55.201788+00:00
 -- url     : https://prove2.me/theorems/5ebcdc81-0f6c-4235-83fb-ad78c50c2486

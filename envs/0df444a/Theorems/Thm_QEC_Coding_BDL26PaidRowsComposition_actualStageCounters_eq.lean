@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_actualStageCounters_eq
 -- name    : QEC.Coding.BDL26PaidRowsComposition.actualStageCounters_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:57:17.292308+00:00
 -- url     : https://prove2.me/theorems/b311c8a5-ab79-4600-899d-f4f87b9b2a5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P76_rate_decomposition
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P76.rate_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T09:11:42.924988+00:00
 -- url     : https://prove2.me/theorems/fd64c754-c411-4003-b93a-67544a9e2934

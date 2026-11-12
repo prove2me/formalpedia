@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P85_residue_reducibility
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P85.residue_reducibility
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:09:28.766206+00:00
 -- url     : https://prove2.me/theorems/cba291a6-8edd-4dbc-84b6-b846c119d405

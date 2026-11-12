@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rxLocalSquare_boundaryUnit
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rxLocalSquare_boundaryUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T21:36:58.652202+00:00
 -- url     : https://prove2.me/theorems/9c7125ba-501e-4294-ba8f-ef64feca9177

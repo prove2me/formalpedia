@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSourceConjugateFunction_translate_split_differentiableAt
 -- name    : OAI.CubicEisenstein.cubicSourceConjugateFunction_translate_split_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:12:58.388966+00:00
 -- url     : https://prove2.me/theorems/48270ac7-6b03-45b2-94bb-a42e78ca1c11

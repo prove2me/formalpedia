@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_cq_correction_decomposition
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_cq_correction_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:13:00.442399+00:00
 -- url     : https://prove2.me/theorems/8d11a3fe-bc6b-4cc3-ab41-4bd2d53b54dc

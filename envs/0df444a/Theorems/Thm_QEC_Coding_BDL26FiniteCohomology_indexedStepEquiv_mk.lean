@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_indexedStepEquiv_mk
 -- name    : QEC.Coding.BDL26FiniteCohomology.indexedStepEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:50:38.254296+00:00
 -- url     : https://prove2.me/theorems/501e1eea-d7ae-4ed1-9793-3f1d6b29da63

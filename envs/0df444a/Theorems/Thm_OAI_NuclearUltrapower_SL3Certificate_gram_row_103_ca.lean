@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NuclearUltrapower_SL3Certificate_gram_row_103_ca
 -- name    : OAI.NuclearUltrapower.SL3Certificate.gram_row_103_ca
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T03:35:18.803962+00:00
 -- url     : https://prove2.me/theorems/81afd654-fbc1-4b6b-9fc3-f3d5ee040c3d

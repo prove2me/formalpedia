@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_outputRowsQuery_value
 -- name    : QEC.Coding.BDL26RandomPerturbation.outputRowsQuery_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:22:32.934195+00:00
 -- url     : https://prove2.me/theorems/9ad3a4c3-205d-46d2-8983-3953a1cbf749

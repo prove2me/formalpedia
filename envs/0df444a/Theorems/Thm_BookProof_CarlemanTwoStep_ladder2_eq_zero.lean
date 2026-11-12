@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_ladder2_eq_zero
 -- name    : BookProof.CarlemanTwoStep.ladder2_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:52:53.889718+00:00
 -- url     : https://prove2.me/theorems/c68bea58-9f41-4234-8da1-86ddbb240742

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QChernoff_Trace_theorem_1
 -- name    : QChernoff.Trace.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:26:27.503+00:00
 -- url     : https://prove2.me/theorems/84f95c10-da8a-45ca-a7a0-fd4cc797ca5a

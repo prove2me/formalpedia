@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_q_difference_cocycle
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_q_difference_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:14:23.400194+00:00
 -- url     : https://prove2.me/theorems/92df4689-a31c-4f49-86d5-9ed1f4b6affd

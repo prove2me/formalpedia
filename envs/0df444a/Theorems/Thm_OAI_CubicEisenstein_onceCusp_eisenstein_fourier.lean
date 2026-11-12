@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_onceCusp_eisenstein_fourier
 -- name    : OAI.CubicEisenstein.onceCusp_eisenstein_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:26:56.547136+00:00
 -- url     : https://prove2.me/theorems/6f26aff1-6518-42ad-8bb1-70a42eabd173

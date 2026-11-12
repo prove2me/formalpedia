@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_source_even_setup
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.source_even_setup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:58:45.840703+00:00
 -- url     : https://prove2.me/theorems/e355f1b8-5caa-49d0-a05f-d714956ded07

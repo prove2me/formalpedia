@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_streamStageCost_integral_eq
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.streamStageCost_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:29:33.696962+00:00
 -- url     : https://prove2.me/theorems/1168013d-77ba-4ee9-82c9-23a1825aadb6

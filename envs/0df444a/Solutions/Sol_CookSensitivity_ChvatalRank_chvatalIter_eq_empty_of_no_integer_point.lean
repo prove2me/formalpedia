@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CookSensitivity.ChvatalRank.chvatalIter_eq_empty_of_no_integer_point
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T07:01:25.920186+00:00
 -- url     : https://prove2.me/submissions/ed502105-a55b-4878-8333-185a85907b38
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CookSensitivity_ChvatalRank_IntegerProgram
 import Definitions.Def_CookSensitivity_ChvatalRank_ChvatalClosure

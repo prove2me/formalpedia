@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCohomology_indexedCocycle_value
 -- name    : QEC.Coding.BDL26RXCohomology.indexedCocycle_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:46:20.937731+00:00
 -- url     : https://prove2.me/theorems/aac4677b-b895-40c1-b410-b43e70cf9fba

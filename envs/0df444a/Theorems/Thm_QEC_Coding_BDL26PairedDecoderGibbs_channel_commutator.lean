@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_channel_commutator
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.channel_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:16:45.5772+00:00
 -- url     : https://prove2.me/theorems/83eaa427-94f5-4820-91f8-23cd337fafc3

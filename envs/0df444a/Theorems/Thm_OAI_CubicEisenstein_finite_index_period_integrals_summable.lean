@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_finite_index_period_integrals_summable
 -- name    : OAI.CubicEisenstein.finite_index_period_integrals_summable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:44:26.874245+00:00
 -- url     : https://prove2.me/theorems/bbecf13f-80a5-4c11-97d7-d1a892af5df4

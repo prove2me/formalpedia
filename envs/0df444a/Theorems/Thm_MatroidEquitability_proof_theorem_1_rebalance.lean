@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidEquitability_proof_theorem_1_rebalance
 -- name    : MatroidEquitability.proof_theorem_1_rebalance
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:32:13.020724+00:00
 -- url     : https://prove2.me/theorems/d6f969aa-4aa2-4a9f-93dd-60c42ec39002

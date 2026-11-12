@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_nonzeroFactor_identity
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.nonzeroFactor_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:48:09.561692+00:00
 -- url     : https://prove2.me/theorems/64090d4e-d90a-4f84-a375-94a8196bc93e

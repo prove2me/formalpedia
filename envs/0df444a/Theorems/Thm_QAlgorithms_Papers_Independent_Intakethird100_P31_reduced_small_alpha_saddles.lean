@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P31_reduced_small_alpha_saddles
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P31.reduced_small_alpha_saddles
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:42:32.769055+00:00
 -- url     : https://prove2.me/theorems/61ee2d38-dd6f-44c5-84be-9da03e2fa6ff

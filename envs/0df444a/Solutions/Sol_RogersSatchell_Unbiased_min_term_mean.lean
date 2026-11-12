@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RogersSatchell.Unbiased.min_term_mean
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T12:26:22.199353+00:00
 -- url     : https://prove2.me/submissions/8b37a2e5-81a6-4c93-9a00-6dadf0454528
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RogersSatchell_Unbiased_Process

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_translation_bijective
 -- name    : QEC.Coding.BDL26SectorTranslation.translation_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:44:10.23776+00:00
 -- url     : https://prove2.me/theorems/ec15abce-d84c-4e43-bce2-1a215ce36a27

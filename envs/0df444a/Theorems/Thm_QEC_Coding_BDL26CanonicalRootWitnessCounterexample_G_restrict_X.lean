@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_G_restrict_X
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.G_restrict_X
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:37.585378+00:00
 -- url     : https://prove2.me/theorems/c1cef05a-1b28-409a-83e5-c2822e5f021d

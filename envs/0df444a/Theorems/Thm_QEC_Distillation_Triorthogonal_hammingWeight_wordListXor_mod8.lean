@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_hammingWeight_wordListXor_mod8
 -- name    : QEC.Distillation.Triorthogonal.hammingWeight_wordListXor_mod8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:33:49.062062+00:00
 -- url     : https://prove2.me/theorems/64fb185c-5512-49aa-b1ee-fef52ea901e1

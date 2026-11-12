@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_dualBaseDecode_local
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseDecode_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:40:31.481329+00:00
 -- url     : https://prove2.me/theorems/61ba0032-d940-49b4-8480-c2b65ff9764a

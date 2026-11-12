@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabilityDichotomies_Solvability_links_squares_properties
 -- name    : StabilityDichotomies.Solvability.links_squares_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:48.061872+00:00
 -- url     : https://prove2.me/theorems/a2961b78-8349-4090-a9e8-2ff9c2aa4144

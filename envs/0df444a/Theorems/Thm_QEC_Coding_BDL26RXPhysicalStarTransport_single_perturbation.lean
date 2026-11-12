@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXPhysicalStarTransport_single_perturbation
 -- name    : QEC.Coding.BDL26RXPhysicalStarTransport.single_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:08:58.079234+00:00
 -- url     : https://prove2.me/theorems/fb3ef407-a603-448d-804f-9c04d6f85e0a

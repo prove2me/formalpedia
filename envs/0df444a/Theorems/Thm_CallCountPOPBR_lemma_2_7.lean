@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallCountPOPBR_lemma_2_7
 -- name    : CallCountPOPBR.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T08:06:46.053521+00:00
 -- url     : https://prove2.me/theorems/e228214d-a6c7-4bf0-87fb-e85bdbf21f9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_repeatedPhaseInjectionTrace_output
 -- name    : QEC.Distillation.PhaseInjection.repeatedPhaseInjectionTrace_output
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:21:25.450667+00:00
 -- url     : https://prove2.me/theorems/9f6fec93-e082-4e37-95cc-13e303e8a524

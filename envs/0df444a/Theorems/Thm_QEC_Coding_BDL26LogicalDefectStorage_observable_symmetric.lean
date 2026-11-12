@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_observable_symmetric
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.observable_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:19:43.48026+00:00
 -- url     : https://prove2.me/theorems/dc23dd7b-e22d-4f90-881b-cd4dff93a70a

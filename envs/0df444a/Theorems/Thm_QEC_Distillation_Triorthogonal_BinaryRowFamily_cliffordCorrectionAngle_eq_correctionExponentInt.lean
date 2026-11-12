@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_cliffordCorrectionAngle_eq_correctionExponentInt
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.cliffordCorrectionAngle_eq_correctionExponentInt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:25.178975+00:00
 -- url     : https://prove2.me/theorems/4489084f-79e9-4294-9bb9-3c85433982dd

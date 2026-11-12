@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_actualSuffix_supports
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.actualSuffix_supports
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:33:19.839423+00:00
 -- url     : https://prove2.me/theorems/6aa46313-bbc9-4d3e-b045-21a443d7eba2

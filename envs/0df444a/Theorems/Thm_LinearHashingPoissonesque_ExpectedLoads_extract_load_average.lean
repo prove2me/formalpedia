@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearHashingPoissonesque_ExpectedLoads_extract_load_average
 -- name    : LinearHashingPoissonesque.ExpectedLoads.extract_load_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T19:02:56.039705+00:00
 -- url     : https://prove2.me/theorems/2f7f654c-51bf-415b-99fe-763687d87021

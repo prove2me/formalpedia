@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P72_eprCoherentComparison
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P72.eprCoherentComparison
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:45:30.275146+00:00
 -- url     : https://prove2.me/theorems/50a72217-62bf-4d7b-9ea6-789b78ab16ea

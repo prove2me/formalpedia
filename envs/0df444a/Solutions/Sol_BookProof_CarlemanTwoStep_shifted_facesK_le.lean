@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.CarlemanTwoStep.shifted_facesK_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-11-08T07:28:31.563902+00:00
 -- url     : https://prove2.me/submissions/2e12ed66-254d-4b1f-a634-a5842a2b31f9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterCarlemanTwoStep.lean — solution of BookProof.CarlemanTwoStep.shifted_facesK_le
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_rz_x_factor_zero
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.rz_x_factor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:55:30.85661+00:00
 -- url     : https://prove2.me/theorems/60a616cc-9632-4877-84d8-cb3b567560bc

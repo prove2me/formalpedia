@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_lower_weight_le_neighbors
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.lower_weight_le_neighbors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:23:28.583183+00:00
 -- url     : https://prove2.me/theorems/c146aad9-26d9-44b2-8289-f05ba23c1757

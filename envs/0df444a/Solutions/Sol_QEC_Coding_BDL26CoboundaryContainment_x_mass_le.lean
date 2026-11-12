@@ -1,0 +1,24 @@
+-- Prove2me | solution 1 for QEC.Coding.BDL26CoboundaryContainment.x_mass_le
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T11:18:22.912842+00:00
+-- url     : https://prove2.me/submissions/ff2c2b7c-dfe0-49e4-8110-6653f6dc5d5b
+
+import Definitions.Def_QEC_Coding_CSS_GibbsSyndrome_Translation
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_TwoSectorBadProjector
+import Mathlib.Tactic
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_CoboundaryContainment
+import Theorems.Thm_QEC_Coding_FixedCoboundaryGibbs_containment_mass_le
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Coding QEC.Coding.BDL26CoboundaryContainment
+open Classical Semantics BDL26FiniteTannerSquare BDL26CSSHamiltonian BDL26TwoSectorBadProjector
+open scoped BigOperators
+attribute [local instance] QEC.Coding.BDL26CoboundaryContainment.xImageFintype
+attribute [local instance] QEC.Coding.BDL26CoboundaryContainment.zImageFintype
+namespace QEC.Coding.BDL26CoboundaryContainment
+theorem _root_.solution (S : OddScale) (n : Nat) (β : ℝ) (τ : XImage S n) :
+    pX S n β (xContainment S n τ) ≤ Real.exp (-(2*β)*(HammingWeight τ.val : ℝ)) :=
+  FixedCoboundaryGibbs.containment_mass_le (zSyndrome S n) (2*β) τ
+end QEC.Coding.BDL26CoboundaryContainment

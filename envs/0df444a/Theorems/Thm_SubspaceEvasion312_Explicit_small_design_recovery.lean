@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubspaceEvasion312_Explicit_small_design_recovery
 -- name    : SubspaceEvasion312.Explicit.small_design_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:58:43.127462+00:00
 -- url     : https://prove2.me/theorems/04377af1-7d2b-433d-ba93-f123629576c5

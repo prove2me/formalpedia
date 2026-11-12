@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_zero_product_all_time
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.zero_product_all_time
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:16:39.665389+00:00
 -- url     : https://prove2.me/theorems/c7fb3b28-05c8-49cf-94f1-585d4f084819

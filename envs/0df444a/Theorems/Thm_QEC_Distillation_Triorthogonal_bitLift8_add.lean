@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_bitLift8_add
 -- name    : QEC.Distillation.Triorthogonal.bitLift8_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:32:55.020207+00:00
 -- url     : https://prove2.me/theorems/22d7d7ce-ad36-41dc-8e6a-555d113d1106

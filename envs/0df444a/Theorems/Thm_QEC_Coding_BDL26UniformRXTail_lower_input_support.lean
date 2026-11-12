@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_lower_input_support
 -- name    : QEC.Coding.BDL26UniformRXTail.lower_input_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:05:15.786333+00:00
 -- url     : https://prove2.me/theorems/dc8450c8-88c8-4d67-b151-d2f5e4beed34

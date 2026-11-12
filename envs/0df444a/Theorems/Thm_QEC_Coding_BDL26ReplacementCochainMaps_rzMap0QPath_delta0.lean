@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementCochainMaps_rzMap0QPath_delta0
 -- name    : QEC.Coding.BDL26ReplacementCochainMaps.rzMap0QPath_delta0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:05:34.473108+00:00
 -- url     : https://prove2.me/theorems/c46e93d0-7f73-4092-990c-47a057622320

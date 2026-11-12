@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_encoding_one
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.encoding_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:17:38.67126+00:00
 -- url     : https://prove2.me/theorems/9e09be19-3e88-44a7-a06a-3095d8d1d17b

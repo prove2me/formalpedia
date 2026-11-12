@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_adjacent_levels
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.adjacent_levels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:12:43.298763+00:00
 -- url     : https://prove2.me/theorems/184a523c-f25d-4f88-83d3-14fa81eba012

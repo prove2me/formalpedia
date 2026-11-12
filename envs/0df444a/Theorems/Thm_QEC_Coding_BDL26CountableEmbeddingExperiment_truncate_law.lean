@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_truncate_law
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.truncate_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:56:49.199563+00:00
 -- url     : https://prove2.me/theorems/f6e4bbe9-2337-4528-ae9a-b6ecaaa12c20

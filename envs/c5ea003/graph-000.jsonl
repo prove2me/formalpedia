@@ -3418,7 +3418,7 @@
 {"parent": "BookSixth.arc_small_radius_last_exit", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.arc_small_radius_last_exit", "child": "BookSixth.arc_last_exit_ball", "via": ["solution"]}
 {"parent": "BookSixth.borromean_fox_odd", "child": "BookSixth", "via": ["solution", "statement"]}
-{"parent": "BookSixth.bregman_minc", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.bregman_minc", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.bregman_prod_le_row_prod", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.bump_perturbation_is_homeomorph", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.bump_perturbation_is_homeomorph_v2", "child": "BookSixth", "via": ["solution", "statement"]}
@@ -67845,3 +67845,12 @@
 {"parent": "missing_refused", "child": "Couret_CausalFiber01_c81331552304", "via": ["solution", "statement"]}
 {"parent": "Recovery.no_exact_recovery", "child": "collision_no_factor", "via": ["solution", "statement"]}
 {"parent": "Recovery.no_exact_recovery", "child": "Couret_CausalFiber01_c81331552304", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bregman_minc_geometric_mean", "child": "BregmanMincWeights", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bregman_minc_claimA", "child": "BregmanMincWeights", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bregman_minc_path_expansion", "child": "BregmanMincWeights", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bregman_minc_claimB", "child": "BregmanMincWeights", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bregman_minc", "child": "BookSixth.bregman_minc_claimA", "via": ["solution"]}
+{"parent": "BookSixth.bregman_minc", "child": "BookSixth.bregman_minc_claimB", "via": ["solution"]}
+{"parent": "BookSixth.bregman_minc", "child": "BregmanMincWeights", "via": ["solution"]}
+{"parent": "BookSixth.bregman_minc_claimA", "child": "BookSixth.bregman_minc_path_expansion", "via": ["solution"]}
+{"parent": "BookSixth.bregman_minc_claimB", "child": "BookSixth.bregman_minc_geometric_mean", "via": ["solution"]}

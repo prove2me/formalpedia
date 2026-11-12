@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_commutant_finite_join_distribution
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.commutant_finite_join_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:55:35.83521+00:00
 -- url     : https://prove2.me/theorems/684fbe87-60b7-4767-89e8-054fd0b93982

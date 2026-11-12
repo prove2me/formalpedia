@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolonomicPositivity_Robust_theorem_3_1
 -- name    : HolonomicPositivity.Robust.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:31:36.45651+00:00
 -- url     : https://prove2.me/theorems/f469cf78-8cd1-488f-aad2-bba9f7020780

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXFiniteBlockTransport_both_empty_error_zero
 -- name    : QEC.Coding.BDL26RXFiniteBlockTransport.both_empty_error_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:01:50.659283+00:00
 -- url     : https://prove2.me/theorems/5573b85f-5c41-4b98-b259-7169b9a58a16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18g_original_zero_cutoff_increment_mean_zero
 -- name    : AvramDividend.Classical.avram_ja18g_original_zero_cutoff_increment_mean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T02:36:02.925296+00:00
 -- url     : https://prove2.me/theorems/da3bb1d8-bf53-4804-9997-c7761f8bff9b

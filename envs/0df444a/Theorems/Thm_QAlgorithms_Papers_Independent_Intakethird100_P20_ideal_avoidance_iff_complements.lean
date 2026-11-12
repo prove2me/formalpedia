@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_ideal_avoidance_iff_complements
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.ideal_avoidance_iff_complements
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:43:19.895457+00:00
 -- url     : https://prove2.me/theorems/61dd156f-54aa-4ff7-8a48-4cdfac1e6053

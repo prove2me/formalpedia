@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LuoSunLiu.DIP.proposition_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-04T05:16:55.567387+00:00
 -- url     : https://prove2.me/submissions/a6358002-f4d0-44e4-a323-cc9818d9a895
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LuoSunLiu_DIP_Model

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_gram_determinant_monotone
 -- name    : FiniteSampleDependence.Rigidity.gram_determinant_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:52:17.884646+00:00
 -- url     : https://prove2.me/theorems/ec0dafb5-654f-475b-a0e8-ceb0d7485121

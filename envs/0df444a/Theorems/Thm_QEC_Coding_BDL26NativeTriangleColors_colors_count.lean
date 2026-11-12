@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleColors_colors_count
 -- name    : QEC.Coding.BDL26NativeTriangleColors.colors_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:54:02.92553+00:00
 -- url     : https://prove2.me/theorems/ab7fabf7-8356-4e9e-9b31-e349d50ea4b8

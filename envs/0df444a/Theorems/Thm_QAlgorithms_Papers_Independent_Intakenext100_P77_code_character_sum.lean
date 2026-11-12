@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P77_code_character_sum
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P77.code_character_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:02:20.652083+00:00
 -- url     : https://prove2.me/theorems/4c8ecb19-7d30-4af9-a119-7a01de8d5877

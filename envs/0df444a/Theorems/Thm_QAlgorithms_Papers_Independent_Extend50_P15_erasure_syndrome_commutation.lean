@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P15_erasure_syndrome_commutation
 -- name    : QAlgorithms.Papers.Independent.Extend50.P15.erasure_syndrome_commutation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T16:58:39.861812+00:00
 -- url     : https://prove2.me/theorems/5112b1d1-9429-45f1-843b-c73c25f50e51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_repeatedPhaseInjectionHistoryWeight_uniform
 -- name    : QEC.Distillation.PhaseInjection.repeatedPhaseInjectionHistoryWeight_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:21:43.92968+00:00
 -- url     : https://prove2.me/theorems/82e2d991-6bc6-4bb6-99ad-6fc7cc75eb6c

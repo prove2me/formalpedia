@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InsiderDonations_eq_A6
 -- name    : InsiderDonations.eq_A6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T20:21:13.66666+00:00
 -- url     : https://prove2.me/theorems/7c5bef28-0339-4b63-9557-d2263b834ca0

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.A1_6_9Law_sound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:57:47.134148+00:00
 -- url     : https://prove2.me/submissions/aaddcd8f-4663-42f1-bdbc-88d883cc9491
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ254M003

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_measurePreserving_streamTable
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.measurePreserving_streamTable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:05:58.26873+00:00
 -- url     : https://prove2.me/theorems/172364aa-efab-4ff7-9fe4-9baab8681da2

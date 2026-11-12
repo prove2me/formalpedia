@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos970_Erdos970Final_erdos_970_iterated_log
 -- name    : OAI.Erdos970.Erdos970Final.erdos_970_iterated_log
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:37.646383+00:00
 -- url     : https://prove2.me/theorems/397777a3-aea9-45cd-a1fc-3978bfd1411e

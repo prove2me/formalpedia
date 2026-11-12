@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TeschlQM.OneParticle.schroedinger_selfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Gabewhigham
 -- created : 2026-10-07T15:21:10.888272+00:00
 -- url     : https://prove2.me/submissions/e4d035a6-8af6-4ee4-b682-45e315b256da
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TeschlQM_OneParticle_multiplicationOperator

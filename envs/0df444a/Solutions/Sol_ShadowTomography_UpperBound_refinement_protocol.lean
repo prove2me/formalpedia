@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ShadowTomography.UpperBound.refinement_protocol
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-11-07T07:30:04.333051+00:00
 -- url     : https://prove2.me/submissions/418c4ad5-ffd2-439e-b14c-b28a481d9717
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WildeQIT_IsDensityOperator

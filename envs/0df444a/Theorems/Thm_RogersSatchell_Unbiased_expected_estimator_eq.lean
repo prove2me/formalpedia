@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RogersSatchell_Unbiased_expected_estimator_eq
 -- name    : RogersSatchell.Unbiased.expected_estimator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:46:29.890578+00:00
 -- url     : https://prove2.me/theorems/6a3ac433-0292-4acc-a97f-81a11b029a35

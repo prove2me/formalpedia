@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseTwelveTargetAction_eq
 -- name    : QEC.Distillation.PhaseInjection.phaseTwelveTargetAction_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:12:27.532893+00:00
 -- url     : https://prove2.me/theorems/f9e34ce8-8387-4009-8da3-324c35372481

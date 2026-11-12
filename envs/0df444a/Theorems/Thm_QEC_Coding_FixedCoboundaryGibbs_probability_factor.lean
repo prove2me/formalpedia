@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FixedCoboundaryGibbs_probability_factor
 -- name    : QEC.Coding.FixedCoboundaryGibbs.probability_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:14:19.309194+00:00
 -- url     : https://prove2.me/theorems/f1df1c4d-0176-490b-baef-7efb6ea0cdf2

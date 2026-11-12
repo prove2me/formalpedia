@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakEpsNets_LowerBound_theorem_4
 -- name    : WeakEpsNets.LowerBound.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:26:07.374207+00:00
 -- url     : https://prove2.me/theorems/31d73217-3b49-4811-8cdf-cca08a791c40

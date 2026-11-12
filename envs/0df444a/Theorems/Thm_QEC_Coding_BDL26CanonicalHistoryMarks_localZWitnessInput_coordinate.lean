@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_localZWitnessInput_coordinate
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.localZWitnessInput_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:07:51.070943+00:00
 -- url     : https://prove2.me/theorems/2a42b37f-187a-4a43-8f8b-6dbdcdc0dbe0

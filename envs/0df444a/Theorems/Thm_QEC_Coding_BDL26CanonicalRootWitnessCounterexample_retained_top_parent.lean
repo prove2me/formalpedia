@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_retained_top_parent
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.retained_top_parent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:08:57.327742+00:00
 -- url     : https://prove2.me/theorems/d63b8d0c-3a4a-4c35-863c-2c665d5ae8a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_exists_flat_direction_of_no_integer_point
 -- name    : CookSensitivity.ChvatalRank.exists_flat_direction_of_no_integer_point
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-07T07:00:32.209078+00:00
 -- url     : https://prove2.me/theorems/fd3de340-3f31-4016-a640-0bf2d27fd25f

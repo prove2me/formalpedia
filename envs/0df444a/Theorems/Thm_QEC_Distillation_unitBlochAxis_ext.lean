@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_unitBlochAxis_ext
 -- name    : QEC.Distillation.unitBlochAxis_ext
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:09:48.971194+00:00
 -- url     : https://prove2.me/theorems/6393224a-04ee-494b-b131-485f7d6c0500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26GlobalLookupLinearity_executableGlobal_residual
 -- name    : QEC.Coding.BDL26GlobalLookupLinearity.executableGlobal_residual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:47:45.118457+00:00
 -- url     : https://prove2.me/theorems/87ebb937-fc4c-4f70-9643-8dac8e5d9672

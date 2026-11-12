@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_readout_encoding_density
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.readout_encoding_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:19:45.268262+00:00
 -- url     : https://prove2.me/theorems/a7dd563e-996d-4528-9942-78c4f6bc1a11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_faceK_multiplicity
 -- name    : BookProof.CarlemanTwoStep.faceK_multiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:52:44.665593+00:00
 -- url     : https://prove2.me/theorems/5242a0d5-8732-4a80-af92-a9aadda59f97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_map1_with_potential
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.map1_with_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:54:32.713375+00:00
 -- url     : https://prove2.me/theorems/e0d773b8-6fab-43b7-8cc7-ba722c17a454

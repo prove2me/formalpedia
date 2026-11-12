@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_edge_augmentation__p2m_460389d4_31bd_4508_b209_05dd70a4382c_a1
 -- name    : WilliamsonShmoys.finite_edge_augmentation__p2m_460389d4_31bd_4508_b209_05dd70a4382c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:08:22.616106+00:00
 -- url     : https://prove2.me/theorems/5eacf842-b74c-4979-8391-5d0083447751

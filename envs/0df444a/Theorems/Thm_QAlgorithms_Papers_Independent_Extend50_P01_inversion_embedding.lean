@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P01_inversion_embedding
 -- name    : QAlgorithms.Papers.Independent.Extend50.P01.inversion_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:36:31.789869+00:00
 -- url     : https://prove2.me/theorems/e0856b45-404d-4768-9c64-3072f2866755

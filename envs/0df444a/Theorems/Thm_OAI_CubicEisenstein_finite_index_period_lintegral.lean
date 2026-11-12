@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_finite_index_period_lintegral
 -- name    : OAI.CubicEisenstein.finite_index_period_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:01:40.23979+00:00
 -- url     : https://prove2.me/theorems/c05d5f1c-ec22-400d-bdf1-7b78acad5840

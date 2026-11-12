@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_lower_input_strip
 -- name    : QEC.Coding.BDL26UniformRXTail.lower_input_strip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:05:43.883192+00:00
 -- url     : https://prove2.me/theorems/0266eee5-8449-405c-b191-4dc5e99369cc

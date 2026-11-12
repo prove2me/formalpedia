@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformADProbes_Trace_small_residue_rigidity
 -- name    : UniformADProbes.Trace.small_residue_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:07.983494+00:00
 -- url     : https://prove2.me/theorems/48250530-d4a0-4501-8a3c-7ca782b96e18

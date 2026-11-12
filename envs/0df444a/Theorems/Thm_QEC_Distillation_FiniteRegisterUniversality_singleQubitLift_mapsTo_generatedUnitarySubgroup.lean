@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_singleQubitLift_mapsTo_generatedUnitarySubgroup
 -- name    : QEC.Distillation.FiniteRegisterUniversality.singleQubitLift_mapsTo_generatedUnitarySubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:25:04.926495+00:00
 -- url     : https://prove2.me/theorems/c9cfca03-648e-4a74-b537-90db396509fc

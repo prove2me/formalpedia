@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleColors_lookup_cost
 -- name    : QEC.Coding.BDL26NativeTriangleColors.lookup_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:56:37.972202+00:00
 -- url     : https://prove2.me/theorems/b45649fa-eb59-4976-89f3-efdd29b781c5

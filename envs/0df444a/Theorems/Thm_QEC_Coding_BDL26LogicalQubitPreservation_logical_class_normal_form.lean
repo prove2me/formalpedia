@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_logical_class_normal_form
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.logical_class_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:48:59.878556+00:00
 -- url     : https://prove2.me/theorems/8db9ac0d-61bc-4054-9419-8da57eb291e2

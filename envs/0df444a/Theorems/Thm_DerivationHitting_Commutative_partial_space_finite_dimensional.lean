@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerivationHitting_Commutative_partial_space_finite_dimensional
 -- name    : DerivationHitting.Commutative.partial_space_finite_dimensional
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:11:23.249902+00:00
 -- url     : https://prove2.me/theorems/aa28128a-5891-4662-96ca-4823714e24ec

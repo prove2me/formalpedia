@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_compoundPoisson_filtered_law_core
 -- name    : AvramDividend.Classical.avram_a06_original_compoundPoisson_filtered_law_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T18:24:13.778998+00:00
 -- url     : https://prove2.me/theorems/b1eb5fe7-30d3-452d-9980-58cfa274b47d

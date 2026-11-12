@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_actualStageHalts_iff
 -- name    : QEC.Coding.BDL26PaidRowsComposition.actualStageHalts_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:35:14.941525+00:00
 -- url     : https://prove2.me/theorems/854dab1b-b520-483f-9b9d-4d3414672d2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineCuspGaussTerm_factor
 -- name    : OAI.CubicEisenstein.affineCuspGaussTerm_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:01:24.861273+00:00
 -- url     : https://prove2.me/theorems/4a484107-ca6a-4688-8fb0-5921be7cf5e3

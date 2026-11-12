@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCoarseInfluence_input_difference
 -- name    : QEC.Coding.BDL26RXCoarseInfluence.input_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:42:10.709677+00:00
 -- url     : https://prove2.me/theorems/d24cf265-ded6-4276-a078-2dddfa036fe9

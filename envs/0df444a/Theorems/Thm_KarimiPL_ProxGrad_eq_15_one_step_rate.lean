@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_ProxGrad_eq_15_one_step_rate
 -- name    : KarimiPL.ProxGrad.eq_15_one_step_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:57:46.574187+00:00
 -- url     : https://prove2.me/theorems/6ac5ff2b-5e16-4fc8-a67c-1f9b0f6e8d95

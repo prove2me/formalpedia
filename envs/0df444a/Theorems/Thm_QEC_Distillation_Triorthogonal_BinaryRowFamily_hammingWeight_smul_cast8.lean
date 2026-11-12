@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_hammingWeight_smul_cast8
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.hammingWeight_smul_cast8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:37:25.730957+00:00
 -- url     : https://prove2.me/theorems/6880fc3e-26b1-4e0f-85e4-05f5f084cc2a

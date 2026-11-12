@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQConcreteCoherence_q_assembly_parent
 -- name    : QEC.Coding.BDL26RXQConcreteCoherence.q_assembly_parent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:17:05.879847+00:00
 -- url     : https://prove2.me/theorems/483724f9-7fab-4814-9290-98133b96608d

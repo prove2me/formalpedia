@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_jointProjector_negative
 -- name    : QEC.Distillation.PhaseInjection.jointProjector_negative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:22:09.265168+00:00
 -- url     : https://prove2.me/theorems/d62ae6ee-c05b-4595-b45c-34f45dff49c2

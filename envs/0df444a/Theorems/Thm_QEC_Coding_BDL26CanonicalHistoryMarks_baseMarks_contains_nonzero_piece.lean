@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_baseMarks_contains_nonzero_piece
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.baseMarks_contains_nonzero_piece
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:44:11.37957+00:00
 -- url     : https://prove2.me/theorems/425f462a-4455-4485-bd65-d5f8a1467288

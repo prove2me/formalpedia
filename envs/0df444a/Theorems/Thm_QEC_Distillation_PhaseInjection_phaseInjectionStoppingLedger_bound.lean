@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionStoppingLedger_bound
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionStoppingLedger_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T15:01:44.866005+00:00
 -- url     : https://prove2.me/theorems/bc7f2a5b-1ac8-447d-b3d2-ea8be7bb23d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_trace_mul_rankOne
 -- name    : QEC.Distillation.OneQubitMagic.trace_mul_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:09:31.808356+00:00
 -- url     : https://prove2.me/theorems/59f0d921-a456-42cf-b4ec-ea83ff7b3289

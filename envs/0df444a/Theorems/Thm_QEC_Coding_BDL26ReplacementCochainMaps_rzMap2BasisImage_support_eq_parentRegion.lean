@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementCochainMaps_rzMap2BasisImage_support_eq_parentRegion
 -- name    : QEC.Coding.BDL26ReplacementCochainMaps.rzMap2BasisImage_support_eq_parentRegion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:07:08.781232+00:00
 -- url     : https://prove2.me/theorems/e34e6359-856a-4cc4-a78c-32508162edcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_density_exists_rankOne_ensemble
 -- name    : QEC.Distillation.OneQubitMagic.density_exists_rankOne_ensemble
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:05:42.308023+00:00
 -- url     : https://prove2.me/theorems/2548e374-b60a-4015-a523-0a2c2c1db97d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowPerturbationOutput_value
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowPerturbationOutput_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:26:04.750353+00:00
 -- url     : https://prove2.me/theorems/1ef2e244-428a-4e86-a677-3bf690f9285e

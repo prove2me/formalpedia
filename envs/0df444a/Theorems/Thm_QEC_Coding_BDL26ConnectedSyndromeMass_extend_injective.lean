@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_extend_injective
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.extend_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:52:42.944706+00:00
 -- url     : https://prove2.me/theorems/09774fb8-b3c5-4fac-a935-72ce5cca4695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_query_polynomial
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.query_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:53:03.110197+00:00
 -- url     : https://prove2.me/theorems/26729938-a763-4fb1-9b8c-0c7d99df953b

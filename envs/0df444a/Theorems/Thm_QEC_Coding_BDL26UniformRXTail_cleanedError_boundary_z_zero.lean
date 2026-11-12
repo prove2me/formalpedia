@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_cleanedError_boundary_z_zero
 -- name    : QEC.Coding.BDL26UniformRXTail.cleanedError_boundary_z_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:13:41.501834+00:00
 -- url     : https://prove2.me/theorems/e01e227d-add3-483d-8d33-046000f86698

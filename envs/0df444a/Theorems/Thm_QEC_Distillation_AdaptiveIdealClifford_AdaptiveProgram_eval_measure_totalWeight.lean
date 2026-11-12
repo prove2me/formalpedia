@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_measure_totalWeight
 -- name    : QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_measure_totalWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:03:52.833202+00:00
 -- url     : https://prove2.me/theorems/93c078ed-dd8a-416f-9f8f-5c1e97f4d221

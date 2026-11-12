@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_lemma_3_5_syndromes
 -- name    : ProxGapTight.lemma_3_5_syndromes
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:52:47.990904+00:00
 -- url     : https://prove2.me/theorems/b31fe786-3963-4072-a30a-005d2239c5e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_indexed_binary_logical_exponent_one
 -- name    : QEC.Coding.BDL26CSSHamiltonian.indexed_binary_logical_exponent_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:31:50.560098+00:00
 -- url     : https://prove2.me/theorems/57487a93-ca7b-4b8f-b789-393ae5c4fd02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLInference_QValueCLT_theorem_1_q_value_clt
 -- name    : RLInference.QValueCLT.theorem_1_q_value_clt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:13:04.291977+00:00
 -- url     : https://prove2.me/theorems/40192638-9632-41ec-b919-2234a437c968

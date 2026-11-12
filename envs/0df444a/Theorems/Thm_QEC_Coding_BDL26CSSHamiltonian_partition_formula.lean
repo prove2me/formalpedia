@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_partition_formula
 -- name    : QEC.Coding.BDL26CSSHamiltonian.partition_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:53:35.404869+00:00
 -- url     : https://prove2.me/theorems/2869e1c2-8cd5-4471-869a-3d5483e997a8

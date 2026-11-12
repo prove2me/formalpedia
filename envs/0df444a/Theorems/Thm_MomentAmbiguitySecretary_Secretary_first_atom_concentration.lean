@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentAmbiguitySecretary_Secretary_first_atom_concentration
 -- name    : MomentAmbiguitySecretary.Secretary.first_atom_concentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:20.137194+00:00
 -- url     : https://prove2.me/theorems/057f688d-8644-4502-9681-8d8c9efb9260

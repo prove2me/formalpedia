@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BareLogicalPair_actual_code_action_witness
 -- name    : QEC.Coding.BDL26BareLogicalPair.actual_code_action_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:39:14.862813+00:00
 -- url     : https://prove2.me/theorems/d9099415-3477-4e6a-8316-2e92542b2b37

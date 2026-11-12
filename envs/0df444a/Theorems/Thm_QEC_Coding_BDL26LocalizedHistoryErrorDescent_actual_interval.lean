@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_actual_interval
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.actual_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:26:14.515341+00:00
 -- url     : https://prove2.me/theorems/58b6efbb-dc7b-4a63-82ab-94d220724e39

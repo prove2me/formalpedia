@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KuhnWass2019_Reformulation_piecewise_concave_convex_reformulation
 -- name    : KuhnWass2019.Reformulation.piecewise_concave_convex_reformulation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T03:16:23.128603+00:00
 -- url     : https://prove2.me/theorems/1bbc5a5f-24e8-4cb3-a238-6c00145da0ed

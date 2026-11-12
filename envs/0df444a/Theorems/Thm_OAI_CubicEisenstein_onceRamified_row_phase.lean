@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_onceRamified_row_phase
 -- name    : OAI.CubicEisenstein.onceRamified_row_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:48:00.47857+00:00
 -- url     : https://prove2.me/theorems/0e1bd286-9c42-4d67-898e-26b718b0b930

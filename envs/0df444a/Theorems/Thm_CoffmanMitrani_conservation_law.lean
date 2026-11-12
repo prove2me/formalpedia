@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_conservation_law
 -- name    : CoffmanMitrani.conservation_law
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:23:00.581119+00:00
 -- url     : https://prove2.me/theorems/c405f050-546f-4907-ac16-064dfa02081c

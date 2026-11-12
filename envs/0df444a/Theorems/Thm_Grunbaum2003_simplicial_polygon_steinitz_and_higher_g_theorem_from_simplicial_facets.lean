@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_polygon_steinitz_and_higher_g_theorem_from_simplicial_facets
 -- name    : Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_from_simplicial_facets
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T02:55:41.983013+00:00
 -- url     : https://prove2.me/theorems/5cef9e58-9057-453e-9437-00c366798912

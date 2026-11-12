@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistorySyndromeSensitivity_propagate_comp
 -- name    : QEC.Coding.BDL26HistorySyndromeSensitivity.propagate_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:56:42.037748+00:00
 -- url     : https://prove2.me/theorems/3cb86aea-3a19-441b-a7fd-19be678030d9

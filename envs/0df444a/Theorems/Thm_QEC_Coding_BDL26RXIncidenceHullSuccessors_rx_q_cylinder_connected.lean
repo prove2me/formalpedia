@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullSuccessors_rx_q_cylinder_connected
 -- name    : QEC.Coding.BDL26RXIncidenceHullSuccessors.rx_q_cylinder_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:42:55.056146+00:00
 -- url     : https://prove2.me/theorems/62001c33-717c-4bd7-b3a4-47b729ea87da

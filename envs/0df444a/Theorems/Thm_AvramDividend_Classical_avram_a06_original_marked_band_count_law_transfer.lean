@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_marked_band_count_law_transfer
 -- name    : AvramDividend.Classical.avram_a06_original_marked_band_count_law_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T02:58:41.323207+00:00
 -- url     : https://prove2.me/theorems/7dae9fbf-9643-438c-ae8d-b44389eeff42

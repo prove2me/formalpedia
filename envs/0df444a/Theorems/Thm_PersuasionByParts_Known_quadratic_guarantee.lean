@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_quadratic_guarantee
 -- name    : PersuasionByParts.Known.quadratic_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:28:49.852637+00:00
 -- url     : https://prove2.me/theorems/aba2e512-f82c-4296-9099-8f2f6706fdac

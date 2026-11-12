@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_retained_endpoints
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.retained_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:03:23.974745+00:00
 -- url     : https://prove2.me/theorems/bf7c90bd-333b-4918-9942-40fccc2ba719

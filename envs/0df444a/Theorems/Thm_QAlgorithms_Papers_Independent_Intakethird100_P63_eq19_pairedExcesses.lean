@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P63_eq19_pairedExcesses
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P63.eq19_pairedExcesses
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T08:40:32.174087+00:00
 -- url     : https://prove2.me/theorems/c6a90444-1398-4e72-9d49-91a42b205ebb

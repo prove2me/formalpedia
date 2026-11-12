@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P10_detectedJump_classical_environment
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P10.detectedJump_classical_environment
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:43:19.343942+00:00
 -- url     : https://prove2.me/theorems/b5b59e23-15a3-4b1d-bfa2-bc49bde58636

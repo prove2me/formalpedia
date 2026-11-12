@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConantTerry_Orders_tree_ramsey
 -- name    : ConantTerry.Orders.tree_ramsey
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:32:31.771637+00:00
 -- url     : https://prove2.me/theorems/e669b7fa-eb57-4a3e-8de7-6b5608ba6004

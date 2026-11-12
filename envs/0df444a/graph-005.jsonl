@@ -5063,8 +5063,8 @@
 {"parent": "MoritaEquiv.ElemEmb.exists_of_sortwise_equiv", "child": "MoritaEquiv_defs", "via": ["solution", "statement"]}
 {"parent": "Apery.Ein_expand", "child": "Zeta5_SourceGrowthTables", "via": ["solution", "statement"]}
 {"parent": "RefMNLPricing.Myopic.revenue_monotone", "child": "RefMNLPricing_Myopic_Model", "via": ["solution", "statement"]}
-{"parent": "syracuse_uniform_logarithmic_tail_bound_ge_three", "child": "weightedLogMassReal", "via": ["statement"]}
-{"parent": "syracuse_uniform_logarithmic_tail_bound_ge_three", "child": "syracuseOrbitMin", "via": ["statement"]}
+{"parent": "syracuse_uniform_logarithmic_tail_bound_ge_three", "child": "weightedLogMassReal", "via": ["solution", "statement"]}
+{"parent": "syracuse_uniform_logarithmic_tail_bound_ge_three", "child": "syracuseOrbitMin", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_357_362", "child": "Zeta5_SourceConstants", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_357_362", "child": "Zeta5_SourceMeasure", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_357_362", "child": "Zeta5_SourceEnergy", "via": ["solution", "statement"]}
@@ -11793,7 +11793,7 @@
 {"parent": "TaoFivePrimes_RH14To100ThetaInterface", "child": "TaoFivePrimes_RH14To100ArithmeticCore", "via": ["statement"]}
 {"parent": "TaoFivePrimes_RH14To100ThetaInterface", "child": "TaoFivePrimes_RH14To100ThetaDataA", "via": ["statement"]}
 {"parent": "TaoFivePrimes_RH14To100ThetaInterface", "child": "TaoFivePrimes_RH14To100ThetaDataB", "via": ["statement"]}
-{"parent": "QAlgorithms.Nannicini.basisState_iff_prod_basisStates", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
+{"parent": "QAlgorithms.Nannicini.basisState_iff_prod_basisStates", "child": "QAlgorithms_Defs_Measurement", "via": ["solution", "statement"]}
 {"parent": "NLogN.pAttachP_cost", "child": "IntMul_HvdH_M_Defs8", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterUnitaryTransport.adjointDomain_mulOp", "child": "ChapterF7", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterUnitaryTransport.adjointDomain_mulOp", "child": "ChapterContinuityUnitaryInfinite", "via": ["solution", "statement"]}
@@ -16599,7 +16599,7 @@
 {"parent": "PersistClust.Count.window_ineq_X", "child": "PersistClust_Count_Setting", "via": ["solution", "statement"]}
 {"parent": "PersistClust.Count.window_ineq_X", "child": "PersistClust_Count_Diagram", "via": ["solution", "statement"]}
 {"parent": "PersistClust.Count.window_ineq_X", "child": "PersistClust_Count_FiltrationLaw", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Nannicini.densityMatrix_iff", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
+{"parent": "QAlgorithms.Nannicini.densityMatrix_iff", "child": "QAlgorithms_Defs_Measurement", "via": ["solution", "statement"]}
 {"parent": "IntMul.HvdH.fermConvRound_spec", "child": "IntMul_HvdH_FermConv", "via": ["statement"]}
 {"parent": "SmoothAmbEq.Gaussian.lemma_5_3", "child": "SmoothAmbEq_Gaussian_Equilibrium", "via": ["solution", "statement"]}
 {"parent": "SmoothAmbEq.Gaussian.lemma_5_3", "child": "SmoothAmbEq_Gaussian_Candidate", "via": ["solution", "statement"]}

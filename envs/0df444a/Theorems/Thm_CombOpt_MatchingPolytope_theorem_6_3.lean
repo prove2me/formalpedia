@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MatchingPolytope_theorem_6_3
 -- name    : CombOpt.MatchingPolytope.theorem_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:07:48.531354+00:00
 -- url     : https://prove2.me/theorems/816d7a60-d9f1-4905-8e55-b5216a2d69f2

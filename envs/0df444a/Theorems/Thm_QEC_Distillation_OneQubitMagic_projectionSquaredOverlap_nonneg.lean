@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_projectionSquaredOverlap_nonneg
 -- name    : QEC.Distillation.OneQubitMagic.projectionSquaredOverlap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:08:11.811362+00:00
 -- url     : https://prove2.me/theorems/881ec2e6-4584-4fd2-b592-9e24ba78e75c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_actual_interval_polynomial
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.actual_interval_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:10:12.951777+00:00
 -- url     : https://prove2.me/theorems/cd0b57b9-7fe8-4aca-b239-5ffd2166656b

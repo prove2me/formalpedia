@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_even_commute_selected_iff
 -- name    : QEC.Coding.BDL26SectorTranslation.even_commute_selected_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:52:11.388222+00:00
 -- url     : https://prove2.me/theorems/77c3eeb5-bb4a-4c80-bc90-ab3e763eae90

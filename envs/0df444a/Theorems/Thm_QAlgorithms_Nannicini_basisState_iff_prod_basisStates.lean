@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_basisState_iff_prod_basisStates
 -- name    : QAlgorithms.Nannicini.basisState_iff_prod_basisStates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:00.258579+00:00
 -- url     : https://prove2.me/theorems/87fed339-4297-49e0-93b8-84cda15572c7

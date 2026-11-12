@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_hProjector_isSymmetricProjection
 -- name    : QEC.Distillation.OneQubitMagic.hProjector_isSymmetricProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:10:16.186572+00:00
 -- url     : https://prove2.me/theorems/f708ecf8-1e32-4c2d-ac3f-2442b60328af

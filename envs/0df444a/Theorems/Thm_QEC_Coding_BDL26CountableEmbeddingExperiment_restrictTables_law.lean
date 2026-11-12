@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_restrictTables_law
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.restrictTables_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:05:44.606827+00:00
 -- url     : https://prove2.me/theorems/c6a92b81-14d6-40aa-8049-0f5ce9be3eed

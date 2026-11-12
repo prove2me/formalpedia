@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_Relax_proposition_7_1_subset
 -- name    : ShortestGCS.Relax.proposition_7_1_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:58:11.729497+00:00
 -- url     : https://prove2.me/theorems/16c7184c-b574-4f27-9b3a-86ac65a3795e

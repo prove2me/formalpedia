@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustShattering_Supermartingale_theorem_4_11
 -- name    : RobustShattering.Supermartingale.theorem_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T20:43:57.173435+00:00
 -- url     : https://prove2.me/theorems/d22cff4d-9859-4bf4-8e30-f8566a6524e6

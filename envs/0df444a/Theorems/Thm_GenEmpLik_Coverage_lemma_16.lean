@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Coverage_lemma_16
 -- name    : GenEmpLik.Coverage.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:48:47.815441+00:00
 -- url     : https://prove2.me/theorems/63633ab6-5c01-4fa9-8764-3fec1d81132a

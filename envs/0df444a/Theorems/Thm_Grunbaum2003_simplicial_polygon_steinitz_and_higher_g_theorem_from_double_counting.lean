@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_polygon_steinitz_and_higher_g_theorem_from_double_counting
 -- name    : Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_from_double_counting
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T03:24:15.963359+00:00
 -- url     : https://prove2.me/theorems/c8ccea55-7c7d-4ab7-99cd-a6fde0402d54

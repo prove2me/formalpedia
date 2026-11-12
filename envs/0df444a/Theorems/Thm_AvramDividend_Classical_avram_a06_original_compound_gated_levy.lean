@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_compound_gated_levy
 -- name    : AvramDividend.Classical.avram_a06_original_compound_gated_levy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T23:26:20.991567+00:00
 -- url     : https://prove2.me/theorems/134fa523-3011-46a2-b939-4c9c4b2bcbf2

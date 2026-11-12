@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingKS_eq_35_36_37
 -- name    : CompetingKS.eq_35_36_37
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:17:50.733677+00:00
 -- url     : https://prove2.me/theorems/536144ce-22c3-43f9-9212-8a4180238a62

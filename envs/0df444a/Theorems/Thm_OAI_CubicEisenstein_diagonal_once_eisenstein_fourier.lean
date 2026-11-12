@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_diagonal_once_eisenstein_fourier
 -- name    : OAI.CubicEisenstein.diagonal_once_eisenstein_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:07:54.826452+00:00
 -- url     : https://prove2.me/theorems/78f0ecfe-2c39-4179-b366-d0e8286a363f

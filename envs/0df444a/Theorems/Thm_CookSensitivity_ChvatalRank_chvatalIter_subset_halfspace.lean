@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_chvatalIter_subset_halfspace
 -- name    : CookSensitivity.ChvatalRank.chvatalIter_subset_halfspace
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:06:17.472175+00:00
 -- url     : https://prove2.me/theorems/02c6039d-177e-415a-aade-2a06fbb1f6a8

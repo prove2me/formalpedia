@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_actual_event_criterion
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_actual_event_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:48:47.041694+00:00
 -- url     : https://prove2.me/theorems/3c121119-4008-4dc5-92cc-cc32c0cd153f

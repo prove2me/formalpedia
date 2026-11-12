@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_chvatalIter_eq_empty_of_no_integer_point
 -- name    : CookSensitivity.ChvatalRank.chvatalIter_eq_empty_of_no_integer_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:06:06.429447+00:00
 -- url     : https://prove2.me/theorems/432cdb12-5637-49a2-9b14-4551ebc8a04e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionHistory_endpoint
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionHistory_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:23:51.69327+00:00
 -- url     : https://prove2.me/theorems/d39bc9c8-a010-4d01-b16b-0136dfa3a9d0

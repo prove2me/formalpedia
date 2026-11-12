@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCoarseInfluence_sigmaPlus_preimage
 -- name    : QEC.Coding.BDL26RXCoarseInfluence.sigmaPlus_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:42:13.080749+00:00
 -- url     : https://prove2.me/theorems/c05a0d0d-e8d1-4da2-8bed-5ad8fef86ed8

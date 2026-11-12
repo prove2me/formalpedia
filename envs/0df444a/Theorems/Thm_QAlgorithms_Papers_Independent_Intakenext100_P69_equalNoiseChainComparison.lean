@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P69_equalNoiseChainComparison
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P69.equalNoiseChainComparison
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T07:38:11.870129+00:00
 -- url     : https://prove2.me/theorems/8bfd237f-5674-4d99-a45a-7279574e7fd5

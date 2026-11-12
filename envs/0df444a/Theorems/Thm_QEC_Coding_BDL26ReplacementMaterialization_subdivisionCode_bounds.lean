@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_subdivisionCode_bounds
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.subdivisionCode_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:12:14.59523+00:00
 -- url     : https://prove2.me/theorems/d9f28a4b-a3b2-4e67-9c91-375b3d6ad5ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_coordinate_transfers_unused_state
 -- name    : FiniteSampleDependence.Rigidity.coordinate_transfers_unused_state
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:49:10.275164+00:00
 -- url     : https://prove2.me/theorems/5156c9fe-30fc-4b71-a15d-e0c2e3a8bf6c

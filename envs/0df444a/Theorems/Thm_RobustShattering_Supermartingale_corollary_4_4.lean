@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustShattering_Supermartingale_corollary_4_4
 -- name    : RobustShattering.Supermartingale.corollary_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T20:42:43.390244+00:00
 -- url     : https://prove2.me/theorems/8552312b-ec98-4d86-bc91-b967786fcade

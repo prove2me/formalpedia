@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_topOut_coarse
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.topOut_coarse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:06:47.96572+00:00
 -- url     : https://prove2.me/theorems/5cbd853c-0cb8-4322-9330-490bd798a501

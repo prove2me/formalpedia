@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_no_small_depth
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.no_small_depth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:12:30.580281+00:00
 -- url     : https://prove2.me/theorems/b2bd8ff2-8b3c-4dc9-be7e-45ad88fc59d9

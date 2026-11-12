@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_diagonal_once_summand
 -- name    : OAI.CubicEisenstein.diagonal_once_summand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:46:06.666661+00:00
 -- url     : https://prove2.me/theorems/63cb00ff-b04a-4e44-9a62-e8b8ecceb4fa

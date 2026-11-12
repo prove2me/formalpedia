@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_sector_bounds
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.sector_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:33:31.32433+00:00
 -- url     : https://prove2.me/theorems/f43d7ff2-f876-4a3e-87cd-bc4654c2e128

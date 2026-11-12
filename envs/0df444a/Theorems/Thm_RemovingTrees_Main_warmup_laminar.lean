@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RemovingTrees_Main_warmup_laminar
 -- name    : RemovingTrees.Main.warmup_laminar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:21:34.556503+00:00
 -- url     : https://prove2.me/theorems/4883cb2b-dcc0-4a08-bda5-d315bc408f3b

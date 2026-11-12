@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_period_integral_unit_rotation
 -- name    : OAI.CubicEisenstein.period_integral_unit_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:38:08.422509+00:00
 -- url     : https://prove2.me/theorems/476303e1-c36c-41fa-acee-6aca90229803

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Comparison_prop1_iterProd_le
 -- name    : StochIneqPO.Comparison.prop1_iterProd_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:26:12.266203+00:00
 -- url     : https://prove2.me/theorems/6d040499-de45-419e-83fc-4a0cc4559319

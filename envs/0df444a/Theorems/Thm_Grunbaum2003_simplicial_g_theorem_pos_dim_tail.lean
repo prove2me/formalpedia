@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_g_theorem_pos_dim_tail
 -- name    : Grunbaum2003.simplicial_g_theorem_pos_dim_tail
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:21:38.39399+00:00
 -- url     : https://prove2.me/theorems/fe689a4a-f2eb-4ff9-aa33-3ccb02ca757c

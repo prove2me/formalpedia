@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FixedCoboundaryGibbs_family_mass_le_sum
 -- name    : QEC.Coding.FixedCoboundaryGibbs.family_mass_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:14:52.153195+00:00
 -- url     : https://prove2.me/theorems/bc3c5e07-c324-4b04-b9b7-3b1f0039f9fa

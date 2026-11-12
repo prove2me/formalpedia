@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rz_intrinsic_compatibility
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rz_intrinsic_compatibility
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T21:34:12.121374+00:00
 -- url     : https://prove2.me/theorems/e5d7fe2a-326d-40f9-892b-e09d09928bbe

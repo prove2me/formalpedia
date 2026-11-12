@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P47_dropping_fixed_guess_identity
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P47.dropping_fixed_guess_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:36:23.400261+00:00
 -- url     : https://prove2.me/theorems/c659f13a-6987-4d9f-8c04-6f69f8ce6c97

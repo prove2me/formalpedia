@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_stageCost_finite_of_halts
+-- name    : QEC.Coding.BDL26NativeFiniteComposition.stageCost_finite_of_halts
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-11T12:17:03.717793+00:00
+-- url     : https://prove2.me/theorems/57e372f5-4fd9-46ad-8860-cb2ffe461aca
+-- title:
+--   BDL26 Native Finite Composition: stage Cost finite of halts
+-- statement:
+--   The BDL26 Native Finite Composition construction uses the stage Cost finite of halts property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/FiniteAlternatingConstruction/RandomPerturbation/NativeFiniteComposition.lean#L2492-L2496
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/FiniteAlternatingConstruction/RandomPerturbation/NativeFiniteComposition.lean#L2492-L2496
+
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeGeometricJointExecution
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PaidRowsComposition
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeFiniteComposition
+import Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_stageCost_finite_of_halts
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Coding QEC.Coding.BDL26NativeFiniteComposition
+open Classical MeasureTheory ProbabilityTheory
+open BDL26FiniteAlternatingCore BDL26FiniteTannerSquare BDL26BoundedValence
+open BDL26DecodingGraph
+open BDL26ReplacementEmbedding BDL26TannerLocalRegularity BDL26RandomPerturbation
+open BDL26KeyedGeometric BDL26KeyedGeometricExecution BDL26NativeKeyExecutionBridge
+open BDL26NativeGeometricExecution BDL26NativeGeometricExecutionCost
+open BDL26NativeGeometricScanCost BDL26NativeGeometricJointExecution
+open BDL26ReplacementMaterialization BDL26FiniteEmbeddingExperiment
+open BDL26RandomPhysicalLocality
+open QEC.Coding.ProbabilisticConstruction
+open QEC.Coding.ProbabilisticConstruction.SphericalCap
+open QEC.Coding.ProbabilisticConstruction.Resampling
+open scoped ENNReal BigOperators
+attribute [local instance] QEC.Coding.BDL26NativeFiniteComposition.labelListMeasurable
+attribute [local instance] QEC.Coding.BDL26NativeFiniteComposition.labelListSingleton
+attribute [local instance] QEC.Coding.BDL26NativeFiniteComposition.labelListMeasurable QEC.Coding.BDL26NativeFiniteComposition.labelListSingleton
+
+theorem QEC.Coding.BDL26NativeFiniteComposition.stageCost_finite_of_halts {L : ℝ} (p : GeometricParameters L) (N : ℕ) (i : Fin N)
+    (z : Experiment p N) (h : stageHalts p N i z) : stageCost p N i z<∞ := by sorry

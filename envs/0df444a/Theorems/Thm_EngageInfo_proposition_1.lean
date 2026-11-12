@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngageInfo_proposition_1
 -- name    : EngageInfo.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:35.915015+00:00
 -- url     : https://prove2.me/theorems/bf48bd78-bba5-4fd3-9a50-fd42573730a3

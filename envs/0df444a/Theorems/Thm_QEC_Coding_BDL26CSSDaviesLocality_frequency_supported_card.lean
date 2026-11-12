@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_frequency_supported_card
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.frequency_supported_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:40:48.789603+00:00
 -- url     : https://prove2.me/theorems/cbe440c5-9059-41ad-b92a-17766b726f4e

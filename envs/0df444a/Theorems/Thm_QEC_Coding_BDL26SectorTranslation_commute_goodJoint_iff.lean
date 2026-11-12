@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_commute_goodJoint_iff
 -- name    : QEC.Coding.BDL26SectorTranslation.commute_goodJoint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:46:30.214696+00:00
 -- url     : https://prove2.me/theorems/1de04b71-dbe8-40a4-9142-6549ba490e3a

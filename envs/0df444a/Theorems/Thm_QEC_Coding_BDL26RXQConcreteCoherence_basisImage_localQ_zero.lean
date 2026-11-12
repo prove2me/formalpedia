@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQConcreteCoherence_basisImage_localQ_zero
 -- name    : QEC.Coding.BDL26RXQConcreteCoherence.basisImage_localQ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:20:38.276701+00:00
 -- url     : https://prove2.me/theorems/0a44099c-5914-4d77-9339-0f05cdadeea3

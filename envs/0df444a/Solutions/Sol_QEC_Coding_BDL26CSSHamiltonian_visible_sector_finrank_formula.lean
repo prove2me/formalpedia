@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for QEC.Coding.BDL26CSSHamiltonian.visible_sector_finrank_formula
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T23:58:35.697029+00:00
+-- url     : https://prove2.me/submissions/b5d91f5a-3bef-4e02-8fb8-53f724eb4470
+
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_Gibbs
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_FiniteCohomology
+import Definitions.Def_QEC_Coding_Stabilizer_FiniteFieldPauli
+import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_LogicalDimension
+import Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_visible_sector_finrank_two
+import Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_invisible_sector_finrank_zero
+import Theorems.Thm_QEC_Locality_BGKLSeparatorTree_IsNode_trans
+import Theorems.Thm_QEC_Locality_NoEdgeBetween_symm
+
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Coding QEC.Coding.BDL26CSSHamiltonian
+open Classical BDL26FiniteTannerSquare BDL26DecodingGraph BDL26IndexedDecoder
+open PauliSymplectic Semantics MultiscaleDecoder
+variable (S : OddScale) (n : Nat)
+attribute [local instance] QEC.Coding.BDL26CSSHamiltonian._p2m_local_instance_e0d1cb1e0b_118
+attribute [local instance] QEC.Coding.BDL26CSSHamiltonian._p2m_local_instance_e0d1cb1e0b_119
+namespace QEC.Coding.BDL26CSSHamiltonian
+theorem _root_.solution
+    (s : Word (ZMod 2) (Sum (ZLabel S n) (XLabel S n))) :
+    Module.finrank ℂ (sector S n s) = if s ∈ visibleRealizable S n then 2 else 0 := by
+  by_cases hs : s ∈ visibleRealizable S n
+  · exact (visible_sector_finrank_two S n s hs).trans (if_pos hs).symm
+  · exact (invisible_sector_finrank_zero S n s hs).trans (if_neg hs).symm
+end QEC.Coding.BDL26CSSHamiltonian

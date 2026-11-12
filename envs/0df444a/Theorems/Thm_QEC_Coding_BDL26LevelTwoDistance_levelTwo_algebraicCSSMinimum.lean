@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDistance_levelTwo_algebraicCSSMinimum
 -- name    : QEC.Coding.BDL26LevelTwoDistance.levelTwo_algebraicCSSMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:25:39.144266+00:00
 -- url     : https://prove2.me/theorems/91a3b66c-1ffb-4fa7-b03e-6f4cac97220d

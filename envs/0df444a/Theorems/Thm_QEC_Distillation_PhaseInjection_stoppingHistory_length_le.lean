@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_stoppingHistory_length_le
 -- name    : QEC.Distillation.PhaseInjection.stoppingHistory_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:23:24.390415+00:00
 -- url     : https://prove2.me/theorems/4aa05c06-2095-422e-a350-a71f896e369f

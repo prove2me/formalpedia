@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cuspZProfile_source_translate_continuousOn
 -- name    : OAI.CubicEisenstein.cuspZProfile_source_translate_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:27:45.371226+00:00
 -- url     : https://prove2.me/theorems/475d6d24-d8d4-4179-b68f-4daac7257cc4

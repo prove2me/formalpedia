@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BareLogicalPair_indexed_pair
 -- name    : QEC.Coding.BDL26BareLogicalPair.indexed_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:39:38.733052+00:00
 -- url     : https://prove2.me/theorems/b6dd7b5c-d8fa-4f91-aa0a-c92db21883b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_triangleSupport_disjoint_of_color
 -- name    : QEC.Coding.BDL26RandomPerturbation.triangleSupport_disjoint_of_color
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T21:53:31.931853+00:00
 -- url     : https://prove2.me/theorems/bb6c433b-2234-46e8-b7d9-a7f7215bc274

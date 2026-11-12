@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearningBasedRO_requirement_3
 -- name    : LearningBasedRO.requirement_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:55.760473+00:00
 -- url     : https://prove2.me/theorems/80ab9086-ef11-4620-9d83-3a850e75b97e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpPlanar_halfGap_segment_lower
 -- name    : OAI.SharpPlanar.halfGap_segment_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-01T14:21:21.522536+00:00
 -- url     : https://prove2.me/theorems/1fb227dc-c369-4017-89b8-1939d0690c11

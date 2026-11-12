@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_hMagicState_eq_sourceHDensity
 -- name    : QEC.Distillation.OneQubitMagic.hMagicState_eq_sourceHDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:11:47.74025+00:00
 -- url     : https://prove2.me/theorems/76462ac6-ea69-4f7b-b39f-3c025b590873

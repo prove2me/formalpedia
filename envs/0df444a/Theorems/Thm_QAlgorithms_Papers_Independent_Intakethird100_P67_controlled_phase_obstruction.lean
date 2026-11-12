@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P67_controlled_phase_obstruction
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P67.controlled_phase_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T09:01:43.55419+00:00
 -- url     : https://prove2.me/theorems/d5857561-e282-4143-9072-45066b8d5896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_logicalEquiv_eq_iff_boundary
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.logicalEquiv_eq_iff_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:48:44.687009+00:00
 -- url     : https://prove2.me/theorems/d5586e53-c822-4ea3-9f04-1b610acf6ee9

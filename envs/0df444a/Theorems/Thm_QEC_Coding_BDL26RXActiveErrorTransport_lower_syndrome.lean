@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_lower_syndrome
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.lower_syndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:50:42.08428+00:00
 -- url     : https://prove2.me/theorems/5117aee7-277e-4fd5-8f57-b10a37207266

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HananyPuder_exists_trace_youngAct_eq_aeval_and_linearIndependent_and_span_eq_top
 -- name    : HananyPuder.exists_trace_youngAct_eq_aeval_and_linearIndependent_and_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T08:32:17.113231+00:00
 -- url     : https://prove2.me/theorems/209e10ad-579e-49c5-be64-e6fb60bd4b14

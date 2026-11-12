@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_exact_agreement_soundness
 -- name    : AgreementTop736.Exact.exact_agreement_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:57:11.676502+00:00
 -- url     : https://prove2.me/theorems/7b3cd409-3657-4d6d-8762-a8d6fa64f584

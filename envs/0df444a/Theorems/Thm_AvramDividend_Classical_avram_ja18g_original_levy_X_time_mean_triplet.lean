@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18g_original_levy_X_time_mean_triplet
 -- name    : AvramDividend.Classical.avram_ja18g_original_levy_X_time_mean_triplet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T02:44:46.367626+00:00
 -- url     : https://prove2.me/theorems/e82aa85f-f89e-4085-9d43-b32b94bb7757

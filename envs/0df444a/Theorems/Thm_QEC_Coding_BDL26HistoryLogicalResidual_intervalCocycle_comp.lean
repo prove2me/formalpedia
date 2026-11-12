@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_intervalCocycle_comp
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.intervalCocycle_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:01:06.040327+00:00
 -- url     : https://prove2.me/theorems/cadd4fc0-d764-4597-8a04-b91d241875bf

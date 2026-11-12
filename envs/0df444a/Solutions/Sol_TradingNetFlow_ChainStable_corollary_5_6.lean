@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TradingNetFlow.ChainStable.corollary_5_6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-30T10:47:57.71329+00:00
 -- url     : https://prove2.me/submissions/72837627-9d7b-4c74-8ab6-851f5d840bd2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TradingNetFlow_ChainStable_Model

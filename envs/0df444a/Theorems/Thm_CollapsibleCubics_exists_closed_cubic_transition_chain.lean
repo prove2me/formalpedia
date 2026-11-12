@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollapsibleCubics_exists_closed_cubic_transition_chain
 -- name    : CollapsibleCubics.exists_closed_cubic_transition_chain
--- status  : Open
+-- status  : Disproved
 -- author  : @shivm
 -- created : 2026-10-25T20:29:23.789842+00:00
 -- url     : https://prove2.me/theorems/7c8d5ee9-39d1-4782-a918-fc6267faf5fa

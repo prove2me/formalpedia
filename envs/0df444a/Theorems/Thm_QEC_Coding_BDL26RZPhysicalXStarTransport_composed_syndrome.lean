@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_composed_syndrome
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.composed_syndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:17:54.028275+00:00
 -- url     : https://prove2.me/theorems/bb095902-4b57-4672-a747-794e67f3f252

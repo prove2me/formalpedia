@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabilityDichotomies_Solvability_disagreement_along_path
 -- name    : StabilityDichotomies.Solvability.disagreement_along_path
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:15.007395+00:00
 -- url     : https://prove2.me/theorems/ba17f62a-7e02-4309-93c7-30afcd6b1dd3

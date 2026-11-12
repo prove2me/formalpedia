@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Comparison_corollary1_iii
 -- name    : StochIneqPO.Comparison.corollary1_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:17:59.257796+00:00
 -- url     : https://prove2.me/theorems/379a8ce2-4371-484a-beee-435634281c98

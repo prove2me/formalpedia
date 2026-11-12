@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for QEC.Distillation.Triorthogonal.BH12Concatenation.bh12PathScheduleTypedSuccessfulOutputCost_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-12T05:36:24.888265+00:00
+-- url     : https://prove2.me/submissions/a2b8018a-5d2b-467f-bc3a-3ce80f1f3ab9
+
+import Mathlib.Analysis.SpecificLimits.Basic
+import Definitions.Def_QEC_Distillation_Triorthogonal_Protocol
+import Definitions.Def_QEC_Distillation_Core_DependentBatch
+import Definitions.Def_QEC_Distillation_Core_Overhead
+import Definitions.Def_QEC_Distillation_Triorthogonal_Concatenation
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Distillation QEC.Distillation.Triorthogonal QEC.Distillation.Triorthogonal.BH12Concatenation
+open Semantics
+open BH12EvenFamily
+open BH12NoisyInjection
+open BH12Protocol
+open Filter Topology
+namespace QEC.Distillation.Triorthogonal.BH12Concatenation
+theorem _root_.solution (q : Nat)
+    (p : ErrorParameter)
+    (hsmall : (bh12InputCount q : ℝ) * p.rate ≤ 1 / 4)
+    (hhalf : p.rate ≤ 1 / 2)
+    (hstrong : quadraticCoefficient q * p.rate ≤ 1 / 2)
+    (index : BH12PathScheduleIndex q) :
+    bh12PathScheduleTypedSuccessfulOutputCost q p hsmall hhalf hstrong index =
+      bh12PathTypedSuccessfulOutputCost q p hsmall hhalf hstrong
+        index.depth index.path :=
+  rfl
+end QEC.Distillation.Triorthogonal.BH12Concatenation

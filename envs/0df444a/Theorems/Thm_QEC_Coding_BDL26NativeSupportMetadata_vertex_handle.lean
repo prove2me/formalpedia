@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_vertex_handle
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.vertex_handle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:50:42.370553+00:00
 -- url     : https://prove2.me/theorems/5f83203f-85ab-4f3d-8262-c881da7d258d

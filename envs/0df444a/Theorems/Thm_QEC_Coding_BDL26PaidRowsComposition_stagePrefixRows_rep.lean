@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_stagePrefixRows_rep
 -- name    : QEC.Coding.BDL26PaidRowsComposition.stagePrefixRows_rep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:58:02.078172+00:00
 -- url     : https://prove2.me/theorems/fc547d93-ca4f-4d42-827f-dd7ffd7b3004

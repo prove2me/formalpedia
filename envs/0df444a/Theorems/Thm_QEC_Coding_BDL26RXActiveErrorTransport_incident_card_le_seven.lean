@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_incident_card_le_seven
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.incident_card_le_seven
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:48:10.10403+00:00
 -- url     : https://prove2.me/theorems/ab58cc1a-429b-4d7a-9649-0fa0bc65aa97

@@ -1,0 +1,84 @@
+-- Prove2me | solution 1 for QEC.Distillation.blochPauliMatrix_mul
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T15:14:14.398426+00:00
+-- url     : https://prove2.me/submissions/ebbc4d2a-415c-4011-a871-e8558b8b6b7b
+
+import Definitions.Def_QEC_Distillation_Universality_SU2AxisCircle
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.ContDiff
+import Mathlib.LinearAlgebra.CrossProduct
+import Definitions.Def_QEC_Distillation_Universality_SU2NonparallelAxes
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamard_conj_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseInverseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_symm_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftTransport_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phase_conj_one
+import Theorems.Thm_QEC_Distillation_phaseNormalize_matrix
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamard_conj_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseInverseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_symm_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftTransport_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phase_conj_one
+attribute [local simp] QEC.Distillation.phaseNormalize_matrix
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+
+
+
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Distillation
+open Matrix
+namespace QEC.Distillation
+theorem _root_.solution (v w : Fin 3 → Real) :
+    blochPauliMatrix v * blochPauliMatrix w =
+      ((v ⬝ᵥ w : Real) : Complex) • 1 +
+        Complex.I • blochPauliMatrix (v ⨯₃ w) := by
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [blochPauliMatrix, Matrix.mul_apply, Fin.sum_univ_two,
+      Matrix.vec3_dotProduct, cross_apply] <;>
+    ring_nf
+  all_goals
+    try rw [Complex.I_sq]
+    ring
+end QEC.Distillation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P47_ideal_uniform_dropping
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P47.ideal_uniform_dropping
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:36:56.388501+00:00
 -- url     : https://prove2.me/theorems/95a9b98b-a95d-4abb-8dc8-2aa2177eb1ce

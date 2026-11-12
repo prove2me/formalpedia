@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsotropicSpin_eq_21
 -- name    : IsotropicSpin.eq_21
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:26:13.067319+00:00
 -- url     : https://prove2.me/theorems/f75ade92-51aa-4dfc-b115-03e149a6a19d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerandSq_lemma_4_3
 -- name    : DerandSq.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T06:00:48.8402+00:00
 -- url     : https://prove2.me/theorems/a181ad72-acda-4d5f-b81a-62312f00bb04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_gradient_pair_restriction_right
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.gradient_pair_restriction_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:52:11.011507+00:00
 -- url     : https://prove2.me/theorems/16ced20d-2009-4097-b1c7-c1ae0f1aece7

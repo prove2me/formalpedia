@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_decoherence_exponentCrossover
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.decoherence_exponentCrossover
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:30:31.620216+00:00
 -- url     : https://prove2.me/theorems/5f390a18-b0b5-4336-853a-48972cf86672

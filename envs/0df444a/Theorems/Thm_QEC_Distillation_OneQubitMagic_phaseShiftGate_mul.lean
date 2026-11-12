@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_mul
 -- name    : QEC.Distillation.OneQubitMagic.phaseShiftGate_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:53:52.567516+00:00
 -- url     : https://prove2.me/theorems/44f8e99a-1c5b-4a78-858b-0f26af750f5c

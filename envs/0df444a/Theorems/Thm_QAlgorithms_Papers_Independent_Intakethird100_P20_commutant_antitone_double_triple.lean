@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_commutant_antitone_double_triple
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.commutant_antitone_double_triple
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:55:09.673211+00:00
 -- url     : https://prove2.me/theorems/2c1dd00c-0baa-4379-b76e-e7fe89aeddb7

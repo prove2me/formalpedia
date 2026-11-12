@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RWPI_Limit_eq_42
 -- name    : RWPI.Limit.eq_42
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T17:50:44.263135+00:00
 -- url     : https://prove2.me/theorems/e2ea7bb5-30fb-4329-a19b-364c6aaacdfe

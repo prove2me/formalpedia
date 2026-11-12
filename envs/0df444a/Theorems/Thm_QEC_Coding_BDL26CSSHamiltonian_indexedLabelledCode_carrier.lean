@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_indexedLabelledCode_carrier
 -- name    : QEC.Coding.BDL26CSSHamiltonian.indexedLabelledCode_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:31:16.386577+00:00
 -- url     : https://prove2.me/theorems/776f6211-7c15-49bd-a8d8-733a98362ee9

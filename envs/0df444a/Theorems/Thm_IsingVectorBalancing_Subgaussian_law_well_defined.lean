@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsingVectorBalancing_Subgaussian_law_well_defined
 -- name    : IsingVectorBalancing.Subgaussian.law_well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T01:34:01.611688+00:00
 -- url     : https://prove2.me/theorems/2ef4ae0a-3451-4a94-9487-97cc2026b6ad

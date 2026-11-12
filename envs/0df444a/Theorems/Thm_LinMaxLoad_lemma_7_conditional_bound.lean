@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinMaxLoad_lemma_7_conditional_bound
 -- name    : LinMaxLoad.lemma_7_conditional_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T16:36:01.320967+00:00
 -- url     : https://prove2.me/theorems/2fed27ce-133f-411d-be9f-f20a9465e8e1

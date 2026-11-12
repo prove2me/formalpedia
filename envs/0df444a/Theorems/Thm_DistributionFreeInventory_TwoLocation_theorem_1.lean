@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionFreeInventory_TwoLocation_theorem_1
 -- name    : DistributionFreeInventory.TwoLocation.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T14:30:50.421332+00:00
 -- url     : https://prove2.me/theorems/71a3c1cb-6aff-43f0-9f74-d97ba3e62c7d

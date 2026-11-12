@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXXStarTransport_gradientError_nonzero
 -- name    : QEC.Coding.BDL26RXXStarTransport.gradientError_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:44:50.98081+00:00
 -- url     : https://prove2.me/theorems/160ff9f6-a0ce-4183-b7f4-448e5e695853

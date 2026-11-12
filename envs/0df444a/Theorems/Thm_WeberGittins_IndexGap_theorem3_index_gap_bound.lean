@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_IndexGap_theorem3_index_gap_bound
 -- name    : WeberGittins.IndexGap.theorem3_index_gap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:12.57229+00:00
 -- url     : https://prove2.me/theorems/5e74b1b1-7208-4b31-b2ce-1da8a6caeedd

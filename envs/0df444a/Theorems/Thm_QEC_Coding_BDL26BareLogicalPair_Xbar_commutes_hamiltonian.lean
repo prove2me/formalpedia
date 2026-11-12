@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BareLogicalPair_Xbar_commutes_hamiltonian
 -- name    : QEC.Coding.BDL26BareLogicalPair.Xbar_commutes_hamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:39:13.733129+00:00
 -- url     : https://prove2.me/theorems/0dde3661-1cfc-4f91-9198-f22caa475280

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_boundary_outputs_complete
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.boundary_outputs_complete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:50:54.098379+00:00
 -- url     : https://prove2.me/theorems/2b744262-da6f-4160-8539-9e4ef236a0ab

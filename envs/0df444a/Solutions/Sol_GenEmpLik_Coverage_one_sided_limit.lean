@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GenEmpLik.Coverage.one_sided_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T01:59:31.099486+00:00
 -- url     : https://prove2.me/submissions/f93be99b-a0c9-4324-b67b-a22b58d765fa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GenEmpLik_Coverage_AssumptionA

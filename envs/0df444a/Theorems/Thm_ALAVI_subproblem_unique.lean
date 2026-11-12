@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALAVI_subproblem_unique
 -- name    : ALAVI.subproblem_unique
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:40:27.014669+00:00
 -- url     : https://prove2.me/theorems/50d52f88-ee86-4cff-859f-8536c11dd310

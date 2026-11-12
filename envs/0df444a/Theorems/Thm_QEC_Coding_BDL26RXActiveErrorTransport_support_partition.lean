@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_support_partition
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.support_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:15:50.020021+00:00
 -- url     : https://prove2.me/theorems/ae0e6bd3-34f0-4d73-9a09-b6c53b617555

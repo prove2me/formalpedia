@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_measurable_jointRowStageCost
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.measurable_jointRowStageCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:27:26.162+00:00
 -- url     : https://prove2.me/theorems/e6bdc6bc-a992-4c16-ac80-72eddd5dfabd

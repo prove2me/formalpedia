@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StochIneqPO.Comparison.corollary1_i
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T17:37:13.733203+00:00
 -- url     : https://prove2.me/submissions/16e81fde-4fec-4f7c-bd89-39cd55ef3adb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StochIneqPO_Comparison_StochLE

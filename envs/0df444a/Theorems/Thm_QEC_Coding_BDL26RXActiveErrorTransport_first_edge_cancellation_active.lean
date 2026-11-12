@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_first_edge_cancellation_active
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.first_edge_cancellation_active
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:52:19.33364+00:00
 -- url     : https://prove2.me/theorems/fae17857-a19c-4a47-8ec1-acb47a58571a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexRMDP_change_of_variables
 -- name    : ConvexRMDP.change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:17:55.337952+00:00
 -- url     : https://prove2.me/theorems/d62bf951-4bca-4983-b43c-242112d709d7

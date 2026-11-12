@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_gradient_pair_shift_active
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.gradient_pair_shift_active
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:15:31.765691+00:00
 -- url     : https://prove2.me/theorems/b23f36f7-4244-419b-8f6b-7c0a2605ca3a

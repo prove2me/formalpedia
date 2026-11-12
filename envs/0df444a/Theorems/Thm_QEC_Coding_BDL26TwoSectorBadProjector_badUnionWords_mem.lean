@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_badUnionWords_mem
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.badUnionWords_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:55:30.370192+00:00
 -- url     : https://prove2.me/theorems/d0427b58-a570-4e24-beba-b213c97734ad

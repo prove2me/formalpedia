@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionTrace_visitsTarget_action
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionTrace_visitsTarget_action
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:20:04.916545+00:00
 -- url     : https://prove2.me/theorems/01ac353e-29d4-4512-9865-eb1e1abeea42

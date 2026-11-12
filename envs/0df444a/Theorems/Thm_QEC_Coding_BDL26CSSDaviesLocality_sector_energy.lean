@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_sector_energy
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.sector_energy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:38:15.53986+00:00
 -- url     : https://prove2.me/theorems/0c27c565-8f54-4179-bd33-c23d841fea2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementCochainMaps_constant_qDoubleCylinder_coboundary
 -- name    : QEC.Coding.BDL26ReplacementCochainMaps.constant_qDoubleCylinder_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:04:46.067724+00:00
 -- url     : https://prove2.me/theorems/b1d0fb9f-3fc9-4128-a680-d7f58d57900b

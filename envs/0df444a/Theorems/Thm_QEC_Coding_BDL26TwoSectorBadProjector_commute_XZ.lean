@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_commute_XZ
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.commute_XZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:22:08.277457+00:00
 -- url     : https://prove2.me/theorems/47ba392c-e25f-4dbb-b707-b9e64dcb7cc2

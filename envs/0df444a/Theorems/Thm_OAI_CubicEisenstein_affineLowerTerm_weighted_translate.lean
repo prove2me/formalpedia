@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineLowerTerm_weighted_translate
 -- name    : OAI.CubicEisenstein.affineLowerTerm_weighted_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:09.490313+00:00
 -- url     : https://prove2.me/theorems/beed092a-94df-41eb-8be3-74ba17659cb0

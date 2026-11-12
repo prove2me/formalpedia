@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidEquitability_proof_theorem_1_block_balance
 -- name    : MatroidEquitability.proof_theorem_1_block_balance
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:32:01.857963+00:00
 -- url     : https://prove2.me/theorems/2e537a5c-809c-457e-bc2f-5db7aa5fc5f2

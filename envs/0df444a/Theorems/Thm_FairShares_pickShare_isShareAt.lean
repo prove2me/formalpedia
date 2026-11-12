@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShares_pickShare_isShareAt
 -- name    : FairShares.pickShare_isShareAt
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:13:59.855979+00:00
 -- url     : https://prove2.me/theorems/0f5f5f55-e908-4d34-ba36-6442b0818cf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalStarTransport_physicalZStar_face_iff
 -- name    : QEC.Coding.BDL26RZPhysicalStarTransport.physicalZStar_face_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:18:32.305196+00:00
 -- url     : https://prove2.me/theorems/378c368e-5ea2-474b-b541-99844ad9e289

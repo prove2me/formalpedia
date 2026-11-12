@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_markedNodes_only_z
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.markedNodes_only_z
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:02:45.797786+00:00
 -- url     : https://prove2.me/theorems/7203d16a-c799-4999-9c20-e2be65f17f64

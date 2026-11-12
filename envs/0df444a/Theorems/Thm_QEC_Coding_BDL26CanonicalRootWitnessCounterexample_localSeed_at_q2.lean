@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_localSeed_at_q2
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.localSeed_at_q2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:06.758452+00:00
 -- url     : https://prove2.me/theorems/a21fa660-6238-490e-a526-fcccaef0f38b

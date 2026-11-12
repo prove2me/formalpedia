@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConantTerry_Orders_extraction_recurrence
 -- name    : ConantTerry.Orders.extraction_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:33:03.940189+00:00
 -- url     : https://prove2.me/theorems/f96147a3-e159-49ec-8298-8c943ac0fe3a

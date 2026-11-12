@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HindsightGain_Uniform_corollary_4_1
 -- name    : HindsightGain.Uniform.corollary_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:52:42.897064+00:00
 -- url     : https://prove2.me/theorems/aee6a24b-32b6-44c3-ad1b-9eb76fa1d49a

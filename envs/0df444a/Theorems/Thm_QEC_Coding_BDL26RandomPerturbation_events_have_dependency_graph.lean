@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_events_have_dependency_graph
 -- name    : QEC.Coding.BDL26RandomPerturbation.events_have_dependency_graph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T21:56:46.355044+00:00
 -- url     : https://prove2.me/theorems/f9b6fcdf-9a10-4545-9d37-08dcc9946c17

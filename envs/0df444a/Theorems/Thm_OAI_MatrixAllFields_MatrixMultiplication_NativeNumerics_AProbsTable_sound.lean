@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_NativeNumerics_AProbsTable_sound
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.AProbsTable_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:59:34.918434+00:00
 -- url     : https://prove2.me/theorems/5856af7d-088c-474d-8e83-48b3221e19f6

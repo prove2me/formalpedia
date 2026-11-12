@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P17_compression_sharp_invariant
 -- name    : QAlgorithms.Papers.Independent.Intake100.P17.compression_sharp_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:26:02.595146+00:00
 -- url     : https://prove2.me/theorems/6a669012-7330-4314-b0a4-284ec5319a21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakEpsNets_LowerBound_lemma_1
 -- name    : WeakEpsNets.LowerBound.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:25:47.639954+00:00
 -- url     : https://prove2.me/theorems/63e4fe2f-760b-499c-ba78-fc73577292fe

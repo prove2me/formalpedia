@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_triangle_labels_le_qubits
 -- name    : QEC.Coding.BDL26RandomPerturbation.triangle_labels_le_qubits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:18:58.413441+00:00
 -- url     : https://prove2.me/theorems/358a99a7-5660-463a-825b-cee8fbc16af9

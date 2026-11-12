@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_one_edge_extension_graph_facts__p2m_8ebe9775_f6af_4eb7_9344_68ad2c5d7599_a4
 -- name    : WilliamsonShmoys.one_edge_extension_graph_facts__p2m_8ebe9775_f6af_4eb7_9344_68ad2c5d7599_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:49:51.849427+00:00
 -- url     : https://prove2.me/theorems/f8698c3a-ced4-475a-9208-664e8ed30927

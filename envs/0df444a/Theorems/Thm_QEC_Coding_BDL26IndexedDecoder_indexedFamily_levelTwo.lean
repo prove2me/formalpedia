@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IndexedDecoder_indexedFamily_levelTwo
 -- name    : QEC.Coding.BDL26IndexedDecoder.indexedFamily_levelTwo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:31:19.548867+00:00
 -- url     : https://prove2.me/theorems/dd0b2a25-f66b-489d-a4e3-2b8d0e198f9a

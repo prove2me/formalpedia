@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_inactive_q_iff
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.inactive_q_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:37:14.585203+00:00
 -- url     : https://prove2.me/theorems/d00486bd-f4ca-4272-8b52-d7591aa582a5

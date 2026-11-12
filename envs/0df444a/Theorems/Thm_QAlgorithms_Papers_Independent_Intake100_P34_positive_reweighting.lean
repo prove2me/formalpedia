@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P34_positive_reweighting
 -- name    : QAlgorithms.Papers.Independent.Intake100.P34.positive_reweighting
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T18:13:32.992997+00:00
 -- url     : https://prove2.me/theorems/be666e16-3526-4e7a-b6bd-a149c9f325bf

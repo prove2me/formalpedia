@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleRemoval_gram_posDef_iff_card_support
 -- name    : SampleRemoval.gram_posDef_iff_card_support
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:08:22.286835+00:00
 -- url     : https://prove2.me/theorems/0e0021a3-e1a9-41af-b7b2-1313361194cc

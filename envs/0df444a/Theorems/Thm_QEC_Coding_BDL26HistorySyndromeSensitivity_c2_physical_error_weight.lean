@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistorySyndromeSensitivity_c2_physical_error_weight
 -- name    : QEC.Coding.BDL26HistorySyndromeSensitivity.c2_physical_error_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:31:29.652797+00:00
 -- url     : https://prove2.me/theorems/24ea3d34-08d9-4c99-9245-bef99c493175

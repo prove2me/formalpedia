@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_witnessUpperError_syndrome
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.witnessUpperError_syndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:37:28.266866+00:00
 -- url     : https://prove2.me/theorems/1c6e7b5e-c354-43d7-a67e-ad497c9bf0ff

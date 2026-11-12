@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MITMSynthesis_star_mem_S_iff
 -- name    : MITMSynthesis.star_mem_S_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:06:28.62972+00:00
 -- url     : https://prove2.me/theorems/9118f253-e48a-4062-8294-fb07387b0a62

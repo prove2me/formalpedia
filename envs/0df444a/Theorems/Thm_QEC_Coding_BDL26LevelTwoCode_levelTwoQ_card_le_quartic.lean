@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoCode_levelTwoQ_card_le_quartic
 -- name    : QEC.Coding.BDL26LevelTwoCode.levelTwoQ_card_le_quartic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:23:20.35424+00:00
 -- url     : https://prove2.me/theorems/ff68e85c-6a10-4d35-b904-b8bd4d74ef45

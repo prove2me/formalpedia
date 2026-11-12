@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectProtection_coefficient_X_one
 -- name    : QEC.Coding.BDL26LogicalDefectProtection.coefficient_X_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:45:36.737443+00:00
 -- url     : https://prove2.me/theorems/879cb3a8-78e6-49e1-a05e-4bef4e8a3c42

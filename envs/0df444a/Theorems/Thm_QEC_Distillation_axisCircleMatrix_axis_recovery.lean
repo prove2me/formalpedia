@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_axisCircleMatrix_axis_recovery
 -- name    : QEC.Distillation.axisCircleMatrix_axis_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:10:20.044206+00:00
 -- url     : https://prove2.me/theorems/fc64a66c-8abf-42e1-90cd-ed40e9cb759d

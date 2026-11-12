@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Puder.limsup_sum_ncard_crit_rpow_le_rhoStair
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-06T10:18:05.519236+00:00
 -- url     : https://prove2.me/submissions/f1c00497-a890-4e4f-b8cb-d82cc76c8293
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

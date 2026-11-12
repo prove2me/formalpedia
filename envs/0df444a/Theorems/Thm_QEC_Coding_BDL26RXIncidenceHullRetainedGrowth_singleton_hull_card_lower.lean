@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullRetainedGrowth_singleton_hull_card_lower
 -- name    : QEC.Coding.BDL26RXIncidenceHullRetainedGrowth.singleton_hull_card_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:21:13.586043+00:00
 -- url     : https://prove2.me/theorems/e10e8399-f278-4d22-9e4d-c3f74a0a6b39

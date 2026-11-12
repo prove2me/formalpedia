@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_mul_self
 -- name    : QEC.Distillation.OneQubitMagic.hadamardGate_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:53:36.219958+00:00
 -- url     : https://prove2.me/theorems/56af093d-c3ed-42c7-9d6f-7271259ecc73

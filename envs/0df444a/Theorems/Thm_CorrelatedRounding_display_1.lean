@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedRounding_display_1
 -- name    : CorrelatedRounding.display_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:36:59.429069+00:00
 -- url     : https://prove2.me/theorems/bc6fd90e-f053-481d-a8da-8598e6bedbcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_g_eq_lindblad
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.g_eq_lindblad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:26:59.992296+00:00
 -- url     : https://prove2.me/theorems/a4f57d2a-fa1d-4df5-a237-2534b82a83b8

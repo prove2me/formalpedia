@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseAmplitude_pi_div_eight
 -- name    : QEC.Distillation.OneQubitMagic.phaseAmplitude_pi_div_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:11:40.091373+00:00
 -- url     : https://prove2.me/theorems/4ee90d28-2dce-4ba9-935c-af37138bd2ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeliefDominance_branch_identity
 -- name    : BeliefDominance.branch_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:51.182599+00:00
 -- url     : https://prove2.me/theorems/d4b273c6-6e85-413a-8664-e8c6efc344b6

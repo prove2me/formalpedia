@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_compound_poisson_triplet
 -- name    : AvramDividend.Classical.avram_a06_original_compound_poisson_triplet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T17:32:10.734404+00:00
 -- url     : https://prove2.me/theorems/fd251b85-ff0c-4b9b-873e-e92b8dec2f64

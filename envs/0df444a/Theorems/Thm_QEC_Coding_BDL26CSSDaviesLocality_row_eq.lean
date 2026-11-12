@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_row_eq
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.row_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:31:38.793931+00:00
 -- url     : https://prove2.me/theorems/8d325679-3ec4-4eb3-93a7-502f65d3b17a

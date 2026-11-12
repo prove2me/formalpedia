@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_terminalVertex_ne
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.terminalVertex_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:05:50.132879+00:00
 -- url     : https://prove2.me/theorems/f1a25d84-1850-48ff-82cb-f3af726719eb

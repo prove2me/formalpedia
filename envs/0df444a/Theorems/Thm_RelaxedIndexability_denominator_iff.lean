@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedIndexability_denominator_iff
 -- name    : RelaxedIndexability.denominator_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:00.772959+00:00
 -- url     : https://prove2.me/theorems/cdafd2b4-1584-4298-981b-e510e49e2f27

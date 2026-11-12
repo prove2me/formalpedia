@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDecoderAdapter_rxStepOutput_component_sum
 -- name    : QEC.Coding.BDL26RXDecoderAdapter.rxStepOutput_component_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:23:20.840201+00:00
 -- url     : https://prove2.me/theorems/e2869b7b-08c8-4b60-9434-3edfba0fb6ef

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.simplicial_g_theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:28:40.1032+00:00
 -- url     : https://prove2.me/submissions/f2393208-72c7-41f6-ad25-06dca4607af8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsSimplicialDPolytope
 import Definitions.Def_Grunbaum2003_faceCount

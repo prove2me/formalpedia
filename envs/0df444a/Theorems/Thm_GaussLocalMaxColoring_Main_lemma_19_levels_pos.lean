@@ -7,7 +7,11 @@
 -- title:
 --   Lemma 19, second claim, for at least one level (corrected: the strict bound fails when $\ell=\lceil\log n\rceil=0$)
 -- statement:
---   Source (Lemma 19, p. 18): if every set sampled at every level j = 1, ..., l has size less than T, then sum_{j=1}^{l} |F_{j-1} \ F_j| < 2lT/delta. Variant: the same conclusion under the additional hypothesis l >= 1 (that is, n >= 2). Difference: the source states the strict inequality also for l = 0, where both sides are 0.
+--   **Source** (Lemma 19, p. 18): if every set sampled at every level $j = 1, \dots, l$ has size less than $T$, then $\sum_{j=1}^{l} |F_{j-1} \setminus F_j| < 2lT/\delta$.
+--
+--   **Variant:** the same conclusion under the additional hypothesis $l \ge 1$ (that is, $n \ge 2$).
+--
+--   **Difference:** the source states the strict inequality also for $l = 0$, where both sides are $0$.
 -- source:
 --   Deguchi, Kawarabayashi, Yoneda, Yoneda (2026), arXiv:2610.35859 (SHA-256 9917b0a1…), Lemma 19, printed p. 18 (PDF 20) (corrected)
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_physicalCliffordCorrection_apply
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.physicalCliffordCorrection_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:30:36.362192+00:00
 -- url     : https://prove2.me/theorems/31c2e738-ce95-48c9-b39c-2c09fa04b079

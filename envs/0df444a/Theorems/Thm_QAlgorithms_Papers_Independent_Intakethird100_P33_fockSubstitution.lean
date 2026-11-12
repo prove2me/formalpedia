@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P33_fockSubstitution
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P33.fockSubstitution
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:50:02.423827+00:00
 -- url     : https://prove2.me/theorems/6b815009-2ddb-4343-848c-58fbdfa4e8c0

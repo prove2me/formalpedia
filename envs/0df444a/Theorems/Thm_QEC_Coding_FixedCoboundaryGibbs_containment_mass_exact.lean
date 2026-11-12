@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FixedCoboundaryGibbs_containment_mass_exact
 -- name    : QEC.Coding.FixedCoboundaryGibbs.containment_mass_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:08:24.981546+00:00
 -- url     : https://prove2.me/theorems/05270a35-0d26-4f9b-92c3-875815a6b240

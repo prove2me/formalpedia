@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_actualHistory_length
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.actualHistory_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:16:56.996302+00:00
 -- url     : https://prove2.me/theorems/e84f1441-e8e3-4801-8bd7-3f425c5b00fb

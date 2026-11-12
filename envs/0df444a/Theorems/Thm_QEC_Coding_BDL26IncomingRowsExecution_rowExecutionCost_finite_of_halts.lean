@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowExecutionCost_finite_of_halts
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowExecutionCost_finite_of_halts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:22:06.174962+00:00
 -- url     : https://prove2.me/theorems/de4edfc6-59ca-4607-965c-e2763dfb9666

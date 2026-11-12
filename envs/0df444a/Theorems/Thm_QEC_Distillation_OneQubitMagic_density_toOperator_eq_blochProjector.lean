@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_density_toOperator_eq_blochProjector
 -- name    : QEC.Distillation.OneQubitMagic.density_toOperator_eq_blochProjector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:09:15.888785+00:00
 -- url     : https://prove2.me/theorems/e9a2220b-98f3-48c7-89d7-b1a12c112b14

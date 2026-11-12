@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for syracuse_almost_bounded_logarithmic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @mysticflounder
 -- created : 2026-09-09T04:01:38.084076+00:00
 -- url     : https://prove2.me/submissions/acb64848-dc00-4620-920e-644844ff6c66
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

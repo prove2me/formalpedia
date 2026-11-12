@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_basePieceBoundary_partition
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.basePieceBoundary_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:42:12.469474+00:00
 -- url     : https://prove2.me/theorems/39349b9c-2dc0-4b4e-a92b-0446fcee0721

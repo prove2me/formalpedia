@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropyLocalCoord_Leader_ileader_le_cut_fraction
 -- name    : EntropyLocalCoord.Leader.ileader_le_cut_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:18:53.688384+00:00
 -- url     : https://prove2.me/theorems/2ae9e7b7-d6fd-4504-8c83-8cb05bdc146f

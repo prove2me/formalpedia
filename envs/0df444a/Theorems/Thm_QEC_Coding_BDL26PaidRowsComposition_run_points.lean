@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_run_points
 -- name    : QEC.Coding.BDL26PaidRowsComposition.run_points
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:32:32.785363+00:00
 -- url     : https://prove2.me/theorems/d616bde7-667b-4520-8433-2dc6c6e482ff

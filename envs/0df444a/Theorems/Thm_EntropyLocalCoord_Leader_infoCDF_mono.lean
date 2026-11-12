@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropyLocalCoord_Leader_infoCDF_mono
 -- name    : EntropyLocalCoord.Leader.infoCDF_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:19:40.139032+00:00
 -- url     : https://prove2.me/theorems/b9724081-d717-4963-90a9-15222f028b28

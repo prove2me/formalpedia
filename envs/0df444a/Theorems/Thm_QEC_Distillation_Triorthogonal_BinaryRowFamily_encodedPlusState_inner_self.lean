@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_encodedPlusState_inner_self
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.encodedPlusState_inner_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:52:38.723256+00:00
 -- url     : https://prove2.me/theorems/7b12124d-3160-4723-92f1-7556b556ef4f

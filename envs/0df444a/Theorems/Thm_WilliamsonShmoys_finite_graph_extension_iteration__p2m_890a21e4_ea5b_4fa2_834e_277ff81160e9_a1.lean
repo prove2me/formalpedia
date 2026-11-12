@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_extension_iteration__p2m_890a21e4_ea5b_4fa2_834e_277ff81160e9_a1
 -- name    : WilliamsonShmoys.finite_graph_extension_iteration__p2m_890a21e4_ea5b_4fa2_834e_277ff81160e9_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:24:18.905192+00:00
 -- url     : https://prove2.me/theorems/4c711e56-a266-4982-b582-d72638742b9c

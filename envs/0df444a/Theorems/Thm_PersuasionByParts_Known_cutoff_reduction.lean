@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_cutoff_reduction
 -- name    : PersuasionByParts.Known.cutoff_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:28:19.709177+00:00
 -- url     : https://prove2.me/theorems/ba69d2dd-9a76-412b-a2ed-de36671caecb

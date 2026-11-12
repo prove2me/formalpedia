@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Atomic_exists_localization_partition
 -- name    : TeschlQM.Atomic.exists_localization_partition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T09:07:58.807005+00:00
 -- url     : https://prove2.me/theorems/b43a7360-0366-4a4d-a8f9-da1403f7fa0a

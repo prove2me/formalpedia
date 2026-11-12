@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_HighDimensionalExpander_CartwrightSteger_cartwrightStegerOrderToCyclic_mem_arithmeticCyclicSpan
 -- name    : QEC.Coding.HighDimensionalExpander.CartwrightSteger.cartwrightStegerOrderToCyclic_mem_arithmeticCyclicSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:54:30.822725+00:00
 -- url     : https://prove2.me/theorems/e1a82712-2cd3-4adb-b837-293c17b9ceb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_rxZeroCode_value
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.rxZeroCode_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:39:02.518616+00:00
 -- url     : https://prove2.me/theorems/12eb6eba-c7d2-4be9-abbd-d743194d5477

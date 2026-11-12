@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_theorem_4_1
 -- name    : SinkhornHall.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:44.567983+00:00
 -- url     : https://prove2.me/theorems/0f434966-cc9d-4ed7-8c21-8ad0570c9ec4

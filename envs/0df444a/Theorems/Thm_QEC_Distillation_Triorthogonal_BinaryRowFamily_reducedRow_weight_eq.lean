@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_reducedRow_weight_eq
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.reducedRow_weight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:37:21.528222+00:00
 -- url     : https://prove2.me/theorems/1a106892-9d9d-4f37-8079-1f1354eacb05

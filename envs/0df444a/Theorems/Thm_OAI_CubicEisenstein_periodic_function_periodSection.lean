@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_periodic_function_periodSection
 -- name    : OAI.CubicEisenstein.periodic_function_periodSection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:51:33.332265+00:00
 -- url     : https://prove2.me/theorems/dc2e5950-7ab0-48a1-999f-5b4e17b230fa

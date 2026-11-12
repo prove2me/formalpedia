@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_cssQuantumCode_finrank_carrier
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.cssQuantumCode_finrank_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:51:52.133726+00:00
 -- url     : https://prove2.me/theorems/ba503462-ccde-47fb-a28f-6ce4ce296757

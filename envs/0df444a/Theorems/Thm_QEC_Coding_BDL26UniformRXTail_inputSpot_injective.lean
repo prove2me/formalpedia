@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_inputSpot_injective
 -- name    : QEC.Coding.BDL26UniformRXTail.inputSpot_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:05:29.027114+00:00
 -- url     : https://prove2.me/theorems/7f96bd2d-c621-43d0-9c78-236eefea3ff7

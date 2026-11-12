@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_compound_raw_independent_increments
 -- name    : AvramDividend.Classical.avram_a06_original_compound_raw_independent_increments
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T00:08:08.770104+00:00
 -- url     : https://prove2.me/theorems/bc98db10-62e6-49af-a6b3-62b6a51b115e

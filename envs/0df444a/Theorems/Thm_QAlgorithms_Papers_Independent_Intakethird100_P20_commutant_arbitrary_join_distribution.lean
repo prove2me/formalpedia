@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_commutant_arbitrary_join_distribution
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.commutant_arbitrary_join_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:56:03.358849+00:00
 -- url     : https://prove2.me/theorems/e361394f-e3a9-492d-837a-9803bedeff8f

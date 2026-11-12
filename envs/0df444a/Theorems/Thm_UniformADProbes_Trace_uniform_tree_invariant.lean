@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformADProbes_Trace_uniform_tree_invariant
 -- name    : UniformADProbes.Trace.uniform_tree_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:55.249983+00:00
 -- url     : https://prove2.me/theorems/26ce5934-c37c-444c-a90e-e2e5c5ee5aa8

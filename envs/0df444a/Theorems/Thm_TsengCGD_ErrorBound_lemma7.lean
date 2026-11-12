@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_ErrorBound_lemma7
 -- name    : TsengCGD.ErrorBound.lemma7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:02:00.446198+00:00
 -- url     : https://prove2.me/theorems/3d04111f-33b2-4747-9928-dfd63fe9414b

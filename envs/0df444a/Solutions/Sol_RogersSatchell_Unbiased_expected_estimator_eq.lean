@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RogersSatchell.Unbiased.expected_estimator_eq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T12:26:22.953048+00:00
 -- url     : https://prove2.me/submissions/03ebf8e6-c9b7-406c-9aa8-2d0cea3fcf0a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RogersSatchell_Unbiased_Process

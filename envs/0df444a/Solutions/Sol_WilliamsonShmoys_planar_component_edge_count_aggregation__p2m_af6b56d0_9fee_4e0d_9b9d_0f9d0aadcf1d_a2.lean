@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_component_edge_count_aggregation__p2m_af6b56d0_9fee_4e0d_9b9d_0f9d0aadcf1d_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:09:53.743011+00:00
 -- url     : https://prove2.me/submissions/fdd4e830-65ae-48e2-96d9-cb5e9cc9c644
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_basisTranslations_Y
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.basisTranslations_Y
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:24:41.221607+00:00
 -- url     : https://prove2.me/theorems/7a8c0bfc-4893-4914-8693-54c832530e7d

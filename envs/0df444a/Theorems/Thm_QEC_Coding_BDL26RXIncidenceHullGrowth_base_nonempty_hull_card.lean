@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullGrowth_base_nonempty_hull_card
 -- name    : QEC.Coding.BDL26RXIncidenceHullGrowth.base_nonempty_hull_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:39:51.115328+00:00
 -- url     : https://prove2.me/theorems/d2d30a4f-57ec-4353-aad9-d6b73cb912fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentAmbiguitySecretary_Secretary_entire_product_coefficients
 -- name    : MomentAmbiguitySecretary.Secretary.entire_product_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:08.228234+00:00
 -- url     : https://prove2.me/theorems/baf7434e-cccd-437c-bac8-649334e0af72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_JointMeasurement_branch_weight_nonneg
 -- name    : QEC.Distillation.AdaptiveIdealClifford.JointMeasurement.branch_weight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:03:39.195497+00:00
 -- url     : https://prove2.me/theorems/f3fc242c-141d-469d-a057-4808facba077

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_DBar_theorem7_stationary_coupling
 -- name    : StochIneqPO.DBar.theorem7_stationary_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:34:39.944382+00:00
 -- url     : https://prove2.me/theorems/cc049298-de63-4dbc-9dbd-332e8edf35d3

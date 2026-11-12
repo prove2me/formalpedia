@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_a06_original_compoundPoisson_path_increment_certificate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T22:38:47.168931+00:00
 -- url     : https://prove2.me/submissions/59f4b8b8-3169-4471-b31b-9306ed74060e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.IdentDistrib
 import Mathlib.Probability.Process.Adapted

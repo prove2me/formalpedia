@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShares_no_feasible_share_dominates_all_sm_feasible
 -- name    : FairShares.no_feasible_share_dominates_all_sm_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:16:45.197861+00:00
 -- url     : https://prove2.me/theorems/052bb6e8-5102-42ca-9f1b-5fd7807157a1

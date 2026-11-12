@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_rootMask_nonzero_Q_coordinate
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.rootMask_nonzero_Q_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:02:11.931097+00:00
 -- url     : https://prove2.me/theorems/395021d6-7918-4335-baf2-17dac20bd7be

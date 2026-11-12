@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_original_trace_counters
 -- name    : QEC.Coding.BDL26NativeStateRows.original_trace_counters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:40:18.794212+00:00
 -- url     : https://prove2.me/theorems/d2c203af-bf51-43c1-82d4-6be5c302d954

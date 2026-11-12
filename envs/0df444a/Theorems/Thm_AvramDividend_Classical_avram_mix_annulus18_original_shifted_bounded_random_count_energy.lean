@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_mix_annulus18_original_shifted_bounded_random_count_energy
 -- name    : AvramDividend.Classical.avram_mix_annulus18_original_shifted_bounded_random_count_energy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-09T23:29:38.581291+00:00
 -- url     : https://prove2.me/theorems/680f4d4c-e205-4c5d-b44d-f64d688d24ac

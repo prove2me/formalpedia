@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cuspSpatialInput_horizontal
 -- name    : OAI.CubicEisenstein.cuspSpatialInput_horizontal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:12:30.991887+00:00
 -- url     : https://prove2.me/theorems/854b1c3d-fe17-4662-8193-7a826029b7e1

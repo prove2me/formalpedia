@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_connected_component_partition_local_bound__p2m_ac4d32fd_da9a_4d4d_92cd_7d05f79f270c_a1
 -- name    : WilliamsonShmoys.connected_component_partition_local_bound__p2m_ac4d32fd_da9a_4d4d_92cd_7d05f79f270c_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:55:41.162275+00:00
 -- url     : https://prove2.me/theorems/0df0647f-1812-42b2-814f-8778fabaf306

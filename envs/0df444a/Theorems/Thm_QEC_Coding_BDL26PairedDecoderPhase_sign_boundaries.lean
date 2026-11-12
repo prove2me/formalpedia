@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_sign_boundaries
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.sign_boundaries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:29:05.582765+00:00
 -- url     : https://prove2.me/theorems/4528cdf3-2753-45bf-aa51-1ffa1d9e1469

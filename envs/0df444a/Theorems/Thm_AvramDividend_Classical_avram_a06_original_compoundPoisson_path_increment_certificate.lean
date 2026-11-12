@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_compoundPoisson_path_increment_certificate
 -- name    : AvramDividend.Classical.avram_a06_original_compoundPoisson_path_increment_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T18:32:45.697688+00:00
 -- url     : https://prove2.me/theorems/d4e19a1a-ac18-4aff-9d61-ef5222040fcf

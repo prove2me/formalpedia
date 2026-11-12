@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXErrorPullback_snapshot_entry_eq
 -- name    : QEC.Coding.BDL26RXErrorPullback.snapshot_entry_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:03:33.441743+00:00
 -- url     : https://prove2.me/theorems/66045e27-9d0d-4bec-8bff-46824d785c4b

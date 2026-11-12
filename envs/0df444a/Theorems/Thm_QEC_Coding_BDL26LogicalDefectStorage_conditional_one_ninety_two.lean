@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_conditional_one_ninety_two
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.conditional_one_ninety_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:33:23.299218+00:00
 -- url     : https://prove2.me/theorems/fb29ab8a-59e2-49b3-bc11-e4b4253e074c

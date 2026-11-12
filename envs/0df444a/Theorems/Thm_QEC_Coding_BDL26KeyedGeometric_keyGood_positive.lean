@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_keyGood_positive
 -- name    : QEC.Coding.BDL26KeyedGeometric.keyGood_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:49:11.212113+00:00
 -- url     : https://prove2.me/theorems/e5fa0dbd-135a-4d9d-8fa6-2e660e5f5477

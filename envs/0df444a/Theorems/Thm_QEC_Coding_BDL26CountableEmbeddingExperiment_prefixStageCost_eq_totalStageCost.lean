@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_prefixStageCost_eq_totalStageCost
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.prefixStageCost_eq_totalStageCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:51:34.709198+00:00
 -- url     : https://prove2.me/theorems/1db0d54c-fb81-4667-aa69-b7739cc11282

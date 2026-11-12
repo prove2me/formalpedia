@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_densityMatrix_iff
 -- name    : QAlgorithms.Nannicini.densityMatrix_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:26.626246+00:00
 -- url     : https://prove2.me/theorems/de26c53d-e5a6-4df4-a629-5221acfd6a93

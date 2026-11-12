@@ -57178,7 +57178,7 @@
 {"parent": "BidPriceControl.Asymptotic.scaled_optimum_le", "child": "BidPriceControl_Asymptotic_Model", "via": ["solution", "statement"]}
 {"parent": "HardyCapsetCertificate23220261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
 {"parent": "MultipartiteREE.Approx.theorem_2A", "child": "MultipartiteREE_Approx_Setting", "via": ["statement"]}
-{"parent": "RobustOpt2009.CQApproximation.matrix_cube", "child": "RobustOpt2009_CQApproximation_MixedCube", "via": ["statement"]}
+{"parent": "RobustOpt2009.CQApproximation.matrix_cube", "child": "RobustOpt2009_CQApproximation_MixedCube", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_148", "child": "HardyCapsetCertificate02820261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_148", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "GDGen3.incoming_sum", "child": "GDGen3.sum_suffix_indicator", "via": ["solution", "statement"]}
@@ -66868,7 +66868,7 @@
 {"parent": "DistFreePricing.Maximin.theorem_1_b", "child": "DistFreePricing_Maximin_Setting", "via": ["solution", "statement"]}
 {"parent": "CrossSell.Pricing.optimal_price", "child": "CrossSell_Pricing_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap20.P04.corollary1", "child": "QAlgorithms_Papers_Independent_Gap20_P04", "via": ["statement"]}
-{"parent": "RLInference.QValueCLT.theorem_1_q_value_clt", "child": "RLInference_QValueCLT_Setting", "via": ["statement"]}
+{"parent": "RLInference.QValueCLT.theorem_1_q_value_clt", "child": "RLInference_QValueCLT_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P18.layer_capacity_and_optimal_pure_measure", "child": "QAlgorithms_Papers_Independent_Gap48_P18", "via": ["statement"]}
 {"parent": "RamanujanLostNotebook.PartV.entry_19_2_1", "child": "RamanujanLostNotebook_PartV_shared_mtcPhi", "via": ["statement"]}
 {"parent": "RamanujanLostNotebook.PartV.entry_19_2_1", "child": "RamanujanLostNotebook_PartV_shared_qPoch", "via": ["statement"]}
@@ -66886,10 +66886,10 @@
 {"parent": "RamanujanLostNotebook_PartV_ch05_mtcM3", "child": "RamanujanLostNotebook_PartV_shared_rrH", "via": ["statement"]}
 {"parent": "BudgetFeasSubmod.Main.theorem_3_1", "child": "BudgetFeasSubmod_Main_Model", "via": ["solution", "statement"]}
 {"parent": "TimeDepFolk.Asymptotic.claim_7_1", "child": "TimeDepFolk_Asymptotic_Model", "via": ["solution", "statement"]}
-{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "FiniteMemQL_Convergence_Model", "via": ["statement"]}
-{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "FiniteMemQL_Convergence_Learning", "via": ["statement"]}
-{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "RiskSensMDP_AverageCost_HarrisRecurrence", "via": ["statement"]}
-{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "FiniteMemQL_Convergence_Setting", "via": ["statement"]}
+{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "FiniteMemQL_Convergence_Model", "via": ["solution", "statement"]}
+{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "FiniteMemQL_Convergence_Learning", "via": ["solution", "statement"]}
+{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "RiskSensMDP_AverageCost_HarrisRecurrence", "via": ["solution", "statement"]}
+{"parent": "FiniteMemQL.Convergence.appendixA_v_tendsto_zero", "child": "FiniteMemQL_Convergence_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap20.P07.referenceUnits", "child": "QAlgorithms_Papers_Independent_Gap20_P07", "via": ["statement"]}
 {"parent": "AggNash.Existence.lemma_5_5_4", "child": "AggNash_Existence_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap20.P19.degradingRangeContainment", "child": "QAlgorithms_Papers_Independent_Gap20_P19", "via": ["solution", "statement"]}
@@ -70172,7 +70172,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Renew46.P43.doubleSourceConverse", "child": "QAlgorithms_Papers_Independent_Renew46_P43", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap50repair.P01.generalized_pairing_identities", "child": "QAlgorithms_Papers_Independent_Gap50repair_P01", "via": ["solution", "statement"]}
 {"parent": "LearnDoFrontier.TwoAction.eq19_gvm_det", "child": "LearnDoFrontier_TwoAction_Algebra", "via": ["solution", "statement"]}
-{"parent": "TradingNetFlow.ChainStable.lemma_5_5", "child": "TradingNetFlow_ChainStable_Model", "via": ["statement"]}
+{"parent": "TradingNetFlow.ChainStable.lemma_5_5", "child": "TradingNetFlow_ChainStable_Model", "via": ["solution", "statement"]}
 {"parent": "MICPRep.Periodic.proposition_6_1", "child": "MICPRep_Periodic_Setting", "via": ["solution", "statement"]}
 {"parent": "LiquidDemocracy.Upward.upward_cond_3", "child": "LiquidDemocracy_Upward_Setting", "via": ["solution", "statement"]}
 {"parent": "FloatPointSynth.Gearbox.P_monotone", "child": "FloatPointSynth_Gearbox_Cost", "via": ["solution", "statement"]}
@@ -70955,7 +70955,7 @@
 {"parent": "AssortOpt.HMF.proposition_3", "child": "AssortOpt_HMF_Setting", "via": ["solution", "statement"]}
 {"parent": "ForecastComp.IELF.win_prob_transfer_strict", "child": "ForecastComp_IELF_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P18.tail_layer_prescribed_relative_entropy", "child": "QAlgorithms_Papers_Independent_Gap48_P18", "via": ["statement"]}
-{"parent": "SKAlgorithm.Qudit.inverse_sequence", "child": "SKAlgorithm_Qudit_Model", "via": ["statement"]}
+{"parent": "SKAlgorithm.Qudit.inverse_sequence", "child": "SKAlgorithm_Qudit_Model", "via": ["solution", "statement"]}
 {"parent": "DisclosureDiscretion.InfoSystem.proposition_8", "child": "DisclosureDiscretion_InfoSystem_Model", "via": ["statement"]}
 {"parent": "Paley11987Support_046", "child": "Paley11987Support_031", "via": ["statement"]}
 {"parent": "Paley11987Support_046", "child": "Paley11987Support_005", "via": ["statement"]}
@@ -71731,7 +71731,7 @@
 {"parent": "Paley11987Support_015", "child": "Paley11987Support_004", "via": ["statement"]}
 {"parent": "Paley11987Support_015", "child": "Paley11987Support_013", "via": ["statement"]}
 {"parent": "Paley11987Support_015", "child": "Paley11987Support_002", "via": ["statement"]}
-{"parent": "SKAlgorithm.Qudit.dist_one_exp_le", "child": "SKAlgorithm_Qudit_Model", "via": ["statement"]}
+{"parent": "SKAlgorithm.Qudit.dist_one_exp_le", "child": "SKAlgorithm_Qudit_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.causal_volterra_integrated_identity_of_resolvent", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.causal_volterra_integrated_identity_of_resolvent", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
 {"parent": "QuadMemory.ConvexOpt.lemma_12", "child": "QuadMemory_ConvexOpt_Model", "via": ["statement"]}

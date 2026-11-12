@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_amp_chernoff
 -- name    : ProxGapTight.amp_chernoff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:51:11.455985+00:00
 -- url     : https://prove2.me/theorems/727e26d2-3cce-4898-8a19-5735e10e100f

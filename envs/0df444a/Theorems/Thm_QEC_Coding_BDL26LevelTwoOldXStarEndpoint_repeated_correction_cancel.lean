@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoOldXStarEndpoint_repeated_correction_cancel
 -- name    : QEC.Coding.BDL26LevelTwoOldXStarEndpoint.repeated_correction_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:39:48.770751+00:00
 -- url     : https://prove2.me/theorems/d9397a6f-b530-4636-a6ec-3379b93c8e94

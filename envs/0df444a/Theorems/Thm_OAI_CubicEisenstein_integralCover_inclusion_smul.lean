@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralCover_inclusion_smul
 -- name    : OAI.CubicEisenstein.integralCover_inclusion_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:24:02.674939+00:00
 -- url     : https://prove2.me/theorems/96763cee-2441-45c9-86bb-f105cd07ae3f

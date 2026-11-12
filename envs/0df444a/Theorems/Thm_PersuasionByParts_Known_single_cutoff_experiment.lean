@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_single_cutoff_experiment
 -- name    : PersuasionByParts.Known.single_cutoff_experiment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:29:35.417735+00:00
 -- url     : https://prove2.me/theorems/149624ca-340c-4136-a139-b8198867deb7

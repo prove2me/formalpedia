@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_booleanElementaryTwo_eq_bitPairSum8
 -- name    : QEC.Distillation.Triorthogonal.booleanElementaryTwo_eq_bitPairSum8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:33:46.721292+00:00
 -- url     : https://prove2.me/theorems/da2b07ad-b870-4698-951b-39096f16b1e6

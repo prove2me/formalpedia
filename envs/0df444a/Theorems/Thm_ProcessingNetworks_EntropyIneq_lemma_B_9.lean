@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_EntropyIneq_lemma_B_9
 -- name    : ProcessingNetworks.EntropyIneq.lemma_B_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:29:42.187565+00:00
 -- url     : https://prove2.me/theorems/7ee62f31-62e4-43de-88d7-d3b680e48b01

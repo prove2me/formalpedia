@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Advance50_P25_quadratic_holevo_pair_distance
 -- name    : QAlgorithms.Papers.Independent.Advance50.P25.quadratic_holevo_pair_distance
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T17:54:26.402394+00:00
 -- url     : https://prove2.me/theorems/da3b2875-f48e-449e-9a62-71fe59da6895

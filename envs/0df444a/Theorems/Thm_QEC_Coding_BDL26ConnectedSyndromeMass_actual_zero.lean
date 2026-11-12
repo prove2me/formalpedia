@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSyndromeMass_actual_zero
 -- name    : QEC.Coding.BDL26ConnectedSyndromeMass.actual_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:06:05.890707+00:00
 -- url     : https://prove2.me/theorems/37e5f742-a2cd-4ad0-9006-0018df0f1602

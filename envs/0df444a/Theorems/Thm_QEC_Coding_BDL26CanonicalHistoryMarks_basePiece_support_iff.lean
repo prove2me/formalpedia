@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_basePiece_support_iff
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.basePiece_support_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:41:43.910777+00:00
 -- url     : https://prove2.me/theorems/fd1e4093-7570-4a11-bb68-68b342e0ba28

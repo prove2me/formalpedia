@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_dissipator_eq_lindblad
 -- name    : QEC.Coding.BDL26BoundedRateDavies.dissipator_eq_lindblad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:45:38.574509+00:00
 -- url     : https://prove2.me/theorems/f3d825a6-b14a-4aab-bcaa-ea4502c9f62f

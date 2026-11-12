@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngageInfo_concave_closure_segments
 -- name    : EngageInfo.concave_closure_segments
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:19:28.91043+00:00
 -- url     : https://prove2.me/theorems/26d66bfc-bd3c-431f-9fe6-8cfa0f1a235d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerParentObstruction_evidenceUpperSyndrome_mem_range
 -- name    : QEC.Coding.BDL26OwnerParentObstruction.evidenceUpperSyndrome_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:54:36.047506+00:00
 -- url     : https://prove2.me/theorems/a1eae762-f0a6-4957-b3f4-e16c85e9065d

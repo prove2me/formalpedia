@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_oneShotMeasurementWeight_eq_projector_norm_sq
 -- name    : QEC.Distillation.PhaseInjection.oneShotMeasurementWeight_eq_projector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:21:34.392728+00:00
 -- url     : https://prove2.me/theorems/03d95f50-73ac-4cbb-ac50-76acf0add19a

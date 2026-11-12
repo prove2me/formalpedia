@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_TotalUnimodularity_hoffman_kruskal
 -- name    : CombOpt.TotalUnimodularity.hoffman_kruskal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:05:59.706409+00:00
 -- url     : https://prove2.me/theorems/d9e81783-2edc-42ef-ab97-e62f83238214

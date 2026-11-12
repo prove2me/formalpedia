@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_repeatedPhaseInjection_target_of_endpoint
 -- name    : QEC.Distillation.PhaseInjection.repeatedPhaseInjection_target_of_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:19:47.705766+00:00
 -- url     : https://prove2.me/theorems/ecf00f5a-2a29-46bb-ad0f-4aed29791f2a

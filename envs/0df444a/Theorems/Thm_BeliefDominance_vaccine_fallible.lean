@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeliefDominance_vaccine_fallible
 -- name    : BeliefDominance.vaccine_fallible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:27:00.12234+00:00
 -- url     : https://prove2.me/theorems/ee048c2d-92b0-4347-b641-e33145b862c1

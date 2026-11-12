@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedySuperstring_LowerBound_gap_word_overlap
 -- name    : GreedySuperstring.LowerBound.gap_word_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:30:04.080187+00:00
 -- url     : https://prove2.me/theorems/fd3e694c-7523-4df2-b5bf-dd65c9539af4

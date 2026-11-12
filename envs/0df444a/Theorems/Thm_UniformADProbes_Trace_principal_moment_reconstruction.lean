@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformADProbes_Trace_principal_moment_reconstruction
 -- name    : UniformADProbes.Trace.principal_moment_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:05.19838+00:00
 -- url     : https://prove2.me/theorems/aa054132-272a-4134-a393-20d8be7042aa

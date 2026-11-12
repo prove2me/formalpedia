@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LuoSunLiu_DIP_lemma_3
 -- name    : LuoSunLiu.DIP.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:15:17.963278+00:00
 -- url     : https://prove2.me/theorems/ec04e1ba-21fe-46a8-99a7-4b1b60929451

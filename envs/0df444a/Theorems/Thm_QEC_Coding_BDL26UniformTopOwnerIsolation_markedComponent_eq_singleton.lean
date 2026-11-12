@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformTopOwnerIsolation_markedComponent_eq_singleton
 -- name    : QEC.Coding.BDL26UniformTopOwnerIsolation.markedComponent_eq_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:16:34.343904+00:00
 -- url     : https://prove2.me/theorems/4f35019e-a27d-4240-88d5-f43d6a745b2b

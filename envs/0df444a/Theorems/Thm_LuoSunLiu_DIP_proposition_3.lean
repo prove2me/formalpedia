@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LuoSunLiu_DIP_proposition_3
 -- name    : LuoSunLiu.DIP.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:15:46.338088+00:00
 -- url     : https://prove2.me/theorems/6ad1bee2-6fec-49d1-bf11-c4c936d6d021

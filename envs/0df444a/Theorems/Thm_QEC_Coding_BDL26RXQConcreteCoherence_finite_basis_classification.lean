@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQConcreteCoherence_finite_basis_classification
 -- name    : QEC.Coding.BDL26RXQConcreteCoherence.finite_basis_classification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:18:29.898203+00:00
 -- url     : https://prove2.me/theorems/44cb2921-f4cf-458e-9c8a-575b70d67151

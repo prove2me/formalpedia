@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_coupling_supported
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.coupling_supported
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:39:55.262684+00:00
 -- url     : https://prove2.me/theorems/21aa0cde-67d5-49d9-b380-36e81fcd3337

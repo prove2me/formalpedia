@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Advance50_P01_lemma4_projectionStability
 -- name    : QAlgorithms.Papers.Independent.Advance50.P01.lemma4_projectionStability
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T15:02:33.342082+00:00
 -- url     : https://prove2.me/theorems/76046415-0ef8-4f15-9477-e7c02c5236cb

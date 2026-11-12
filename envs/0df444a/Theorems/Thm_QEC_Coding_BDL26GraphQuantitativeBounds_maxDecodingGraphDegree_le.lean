@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26GraphQuantitativeBounds_maxDecodingGraphDegree_le
 -- name    : QEC.Coding.BDL26GraphQuantitativeBounds.maxDecodingGraphDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:51:12.759159+00:00
 -- url     : https://prove2.me/theorems/33c389f4-1145-4628-bf38-1f1bf6a68a7e

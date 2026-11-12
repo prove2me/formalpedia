@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_coupling_mul_atom
 -- name    : QEC.Coding.BDL26SectorTranslation.coupling_mul_atom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:46:07.418311+00:00
 -- url     : https://prove2.me/theorems/372e8415-8908-477c-a083-519328b8fa75

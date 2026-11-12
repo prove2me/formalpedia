@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_periodVector_coordinateMul
 -- name    : OAI.CubicEisenstein.periodVector_coordinateMul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:02:34.068096+00:00
 -- url     : https://prove2.me/theorems/85d7b4cf-8771-464d-a616-42dfea900ec7

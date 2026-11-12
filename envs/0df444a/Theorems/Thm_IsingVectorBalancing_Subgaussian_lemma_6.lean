@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsingVectorBalancing_Subgaussian_lemma_6
 -- name    : IsingVectorBalancing.Subgaussian.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T01:33:53.741609+00:00
 -- url     : https://prove2.me/theorems/724d6c1b-2aa8-4b98-b886-574368568980

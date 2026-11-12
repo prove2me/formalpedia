@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26QuantitativeBounds_evenState_exponential_bounds
 -- name    : QEC.Coding.BDL26QuantitativeBounds.evenState_exponential_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:16:54.707436+00:00
 -- url     : https://prove2.me/theorems/d7c60ade-db60-4efa-8110-89317c85ecc3

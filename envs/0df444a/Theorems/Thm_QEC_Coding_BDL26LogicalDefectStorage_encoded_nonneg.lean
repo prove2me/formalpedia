@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_encoded_nonneg
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.encoded_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:31:34.30261+00:00
 -- url     : https://prove2.me/theorems/a0d1a01d-071e-48a8-9585-fb44cba92903

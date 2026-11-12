@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiKleitman92_Diameter_theorem_1
 -- name    : KalaiKleitman92.Diameter.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:04:07.927501+00:00
 -- url     : https://prove2.me/theorems/6894fe43-0a78-4610-bac9-41a05d98acb6

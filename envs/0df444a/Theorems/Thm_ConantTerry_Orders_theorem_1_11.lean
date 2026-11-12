@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConantTerry_Orders_theorem_1_11
 -- name    : ConantTerry.Orders.theorem_1_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:32:35.180382+00:00
 -- url     : https://prove2.me/theorems/0831dbe9-403f-49d3-857b-60142af32ac6

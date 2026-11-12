@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_marked_band_independent
 -- name    : AvramDividend.Classical.avram_a06_original_marked_band_independent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T00:55:49.221629+00:00
 -- url     : https://prove2.me/theorems/2a80927e-56fc-473a-b62f-32bd67fa1f9b

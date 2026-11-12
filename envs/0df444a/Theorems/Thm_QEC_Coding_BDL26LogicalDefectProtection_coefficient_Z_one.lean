@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectProtection_coefficient_Z_one
 -- name    : QEC.Coding.BDL26LogicalDefectProtection.coefficient_Z_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:47:09.43803+00:00
 -- url     : https://prove2.me/theorems/32c9a240-c3f2-4d51-af61-81c5d890abbd

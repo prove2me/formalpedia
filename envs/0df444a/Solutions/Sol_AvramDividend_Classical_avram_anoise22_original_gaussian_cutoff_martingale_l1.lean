@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_anoise22_original_gaussian_cutoff_martingale_l1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T10:23:59.174485+00:00
 -- url     : https://prove2.me/submissions/c439490a-5520-4db4-9b9a-965dee79ab93
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Filtration
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

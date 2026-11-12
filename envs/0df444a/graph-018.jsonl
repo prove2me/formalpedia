@@ -14758,7 +14758,7 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaScoreScan.cell_lt", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSeedCandidate", "via": ["solution", "statement"]}
 {"parent": "MenuCostPricing_DP", "child": "MenuCostPricing_Proxy", "via": ["statement"]}
 {"parent": "MenuCostPricing_DP", "child": "MenuCostPricing_Model", "via": ["statement"]}
-{"parent": "TenChallenges.challenge_05_r4", "child": "TenChallenges_Challenge_05", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_05_r4", "child": "TenChallenges_Challenge_05", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.overhead_mul_le", "child": "PaddedDescent_Threshold", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.overhead_mul_le", "child": "PaddedDescent_Choice", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_closed_cash_wjump_commutator_budget", "child": "AvramDividend.Classical.avram_p3_bv_original_closed_cash_true_w_raw_jump_grid_bound", "via": ["solution", "statement"]}
@@ -21777,9 +21777,9 @@
 {"parent": "OnlineMatchFrameworks_Charge", "child": "OnlineMatchFrameworks_BlackBox", "via": ["statement"]}
 {"parent": "VariableBound.StepChoice.pp_nonneg", "child": "AppVariablesStatement", "via": ["solution", "statement"]}
 {"parent": "VariableBound.StepChoice.pp_nonneg", "child": "VariableBound_StepChoice", "via": ["solution", "statement"]}
-{"parent": "ZhangCFL.psi_eq_trAbsPow", "child": "ZhangCFL_Psi", "via": ["statement"]}
-{"parent": "ZhangCFL.psi_eq_trAbsPow", "child": "OgawaNagaoka_matPow", "via": ["statement"]}
-{"parent": "ZhangCFL.psi_eq_trAbsPow", "child": "ZhangCFL_trAbsPow", "via": ["statement"]}
+{"parent": "ZhangCFL.psi_eq_trAbsPow", "child": "ZhangCFL_Psi", "via": ["solution", "statement"]}
+{"parent": "ZhangCFL.psi_eq_trAbsPow", "child": "OgawaNagaoka_matPow", "via": ["solution", "statement"]}
+{"parent": "ZhangCFL.psi_eq_trAbsPow", "child": "ZhangCFL_trAbsPow", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_a_zero_rate_original_public_mark_kernel_tonelli", "child": "AvramDividend.Classical.avram_wave5_02a_actual_source_intrinsic_sfinite_kernel", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_a_zero_rate_original_public_mark_kernel_tonelli", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Pr73ProfileReal", "child": "Pr73ProfileCertificate", "via": ["statement"]}
@@ -25700,7 +25700,7 @@
 {"parent": "ClauseBound.ParityChecks.Count.getD2", "child": "ClauseBound_ParityChecks_RunF", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.complete_family_square_not_hadamard_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.complete_family_square_not_hadamard_e", "child": "OAIQ106E000", "via": ["statement"]}
-{"parent": "TenChallenges.challenge_04_r2", "child": "TenChallenges_Challenge_04", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_04_r2", "child": "TenChallenges_Challenge_04", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Inst.Half.Cert.partT_eq", "child": "ClauseBound_Inst_CertHalfSmall", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Inst.Half.Cert.partT_eq", "child": "Groundwork.PolyT.elim", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Inst.Half.Cert.partT_eq", "child": "ClauseBound_Inst_CertHalf", "via": ["solution", "statement"]}
@@ -55929,10 +55929,10 @@
 {"parent": "ClauseBound.ParityChecks.bal_eq", "child": "ClauseBound_ParityChecks_RunDefs", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.bal_eq", "child": "ClauseBound_ParityChecks_Congr", "via": ["solution", "statement"]}
 {"parent": "TenChallenges.unfriendly_partition_conjecture", "child": "TenChallenges_Challenge_10", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_clock", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
-{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_y", "via": ["statement"]}
+{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_clock", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.display_1", "child": "CorrelatedRounding_y", "via": ["solution", "statement"]}
 {"parent": "OAI.BoundedHochschild.KadisonRingrose.primitive_of_published_inputs", "child": "KadisonRingroseSupport2", "via": ["solution", "statement"]}
 {"parent": "Wrap.coding_exists", "child": "ToTuring_Lib_Table", "via": ["solution", "statement"]}
 {"parent": "Wrap.coding_exists", "child": "CircuitLowerBound_Tab_Sound", "via": ["solution", "statement"]}

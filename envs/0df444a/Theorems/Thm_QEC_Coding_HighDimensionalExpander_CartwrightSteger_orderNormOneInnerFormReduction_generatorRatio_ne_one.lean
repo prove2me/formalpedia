@@ -1,0 +1,41 @@
+-- Prove2me | Theorems.Thm_QEC_Coding_HighDimensionalExpander_CartwrightSteger_orderNormOneInnerFormReduction_generatorRatio_ne_one
+-- name    : QEC.Coding.HighDimensionalExpander.CartwrightSteger.orderNormOneInnerFormReduction_generatorRatio_ne_one
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-11T15:48:05.49436+00:00
+-- url     : https://prove2.me/theorems/44d22a0a-d987-494d-970a-2b11f2501494
+-- title:
+--   Cartwright Steger: order Norm One Inner Form Reduction generator Ratio ne one
+-- statement:
+--   Distinct construction-owned generators give a nonidentity element after
+--   genuine global norm-one reduction.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/HighDimensionalExpander/CartwrightSteger/Arithmetic/StrongApproximation.lean#L3870-L3885
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Coding/HighDimensionalExpander/CartwrightSteger/Arithmetic/StrongApproximation.lean#L3870-L3885
+
+import Definitions.Def_QEC_Coding_HighDimensionalExpander_CartwrightSteger_Building_SimpleTransitivity
+import Definitions.Def_QEC_Coding_HighDimensionalExpander_CartwrightSteger_Projective_SpecialLinear
+import Definitions.Def_QEC_Coding_HighDimensionalExpander_CartwrightSteger_Order_Reduction
+import Definitions.Def_QEC_Coding_HighDimensionalExpander_CartwrightSteger_CyclicAlgebra_CyclicDivisionAlgebra
+import Mathlib.RingTheory.Localization.AtPrime.Basic
+import Mathlib.RingTheory.AdicCompletion.Completeness
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.RingTheory.PowerSeries.PiTopology
+import Mathlib.Algebra.Polynomial.Taylor
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Analysis.Normed.Group.Bounded
+import Mathlib.RingTheory.TensorProduct.Free
+import Mathlib.Algebra.Central.Matrix
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Basic
+import Definitions.Def_QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_StrongApproximation
+set_option autoImplicit false
+open QEC QEC.Coding QEC.Coding.HighDimensionalExpander QEC.Coding.HighDimensionalExpander.CartwrightSteger
+open scoped MatrixGroups SphericalHecke.LocalTopology Valued
+
+theorem QEC.Coding.HighDimensionalExpander.CartwrightSteger.orderNormOneInnerFormReduction_generatorRatio_ne_one
+    (P : BasePrime) (r : Rank) (level : Nat)
+    {u v : ConstantProjectiveClass P r} (huv : u ≠ v) :
+    orderNormOneInnerFormReduction P r level
+        (orderNormOneGeneratorRatio P r u v) ≠ 1 := by sorry

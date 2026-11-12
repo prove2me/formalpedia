@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_first_edge_cancellation_coarse_strict
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.first_edge_cancellation_coarse_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:51:21.87601+00:00
 -- url     : https://prove2.me/theorems/ae55035d-6cd5-4f78-ba31-13dd04f494e9

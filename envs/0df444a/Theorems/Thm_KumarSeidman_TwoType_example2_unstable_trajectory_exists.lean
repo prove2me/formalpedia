@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_TwoType_example2_unstable_trajectory_exists
 -- name    : KumarSeidman.TwoType.example2_unstable_trajectory_exists
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-06T09:18:48.44308+00:00
 -- url     : https://prove2.me/theorems/a6e29ef9-7c33-4e3c-bc43-f38ff32dcdd0

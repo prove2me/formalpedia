@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_triangles_complete
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.triangles_complete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:50:49.94162+00:00
 -- url     : https://prove2.me/theorems/bc7a4beb-3d6a-48aa-a603-7fb15df0a4f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_measurable_rowScanQuery_prefix
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.measurable_rowScanQuery_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:48:18.656663+00:00
 -- url     : https://prove2.me/theorems/5248a554-9c5a-41f6-9221-51bc254947ae

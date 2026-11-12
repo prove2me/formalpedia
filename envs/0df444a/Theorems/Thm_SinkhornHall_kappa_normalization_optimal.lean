@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_kappa_normalization_optimal
 -- name    : SinkhornHall.kappa_normalization_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:09.975399+00:00
 -- url     : https://prove2.me/theorems/84006bc6-d0a9-40b5-9057-53889cb844aa

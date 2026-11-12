@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_conjugateSource_principal_cusp_mellin_entire
 -- name    : OAI.CubicEisenstein.conjugateSource_principal_cusp_mellin_entire
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:06:52.98279+00:00
 -- url     : https://prove2.me/theorems/c1b14912-bc6d-456c-b688-4b9087ec99c8

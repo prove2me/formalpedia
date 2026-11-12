@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDifferentialMasks_incidenceHull_native_mask
 -- name    : QEC.Coding.BDL26RXDifferentialMasks.incidenceHull_native_mask
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:31:01.261854+00:00
 -- url     : https://prove2.me/theorems/118438c9-e74c-46a1-b462-b9a390c94008

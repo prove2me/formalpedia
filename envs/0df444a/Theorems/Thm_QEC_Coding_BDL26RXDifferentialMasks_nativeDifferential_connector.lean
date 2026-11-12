@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDifferentialMasks_nativeDifferential_connector
 -- name    : QEC.Coding.BDL26RXDifferentialMasks.nativeDifferential_connector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:30:49.126269+00:00
 -- url     : https://prove2.me/theorems/ee807eff-fec6-4466-832d-eaf3a4a3d32e

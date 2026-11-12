@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngageInfo_eq_3_bayes_plausibility
 -- name    : EngageInfo.eq_3_bayes_plausibility
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:17:45.712991+00:00
 -- url     : https://prove2.me/theorems/79d6939c-9d6f-439e-9ac4-d296eadc562e

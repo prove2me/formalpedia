@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_component_upper_self
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.component_upper_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:07:54.03728+00:00
 -- url     : https://prove2.me/theorems/01ef4e85-1c05-4659-9c08-75f9eacec9a0

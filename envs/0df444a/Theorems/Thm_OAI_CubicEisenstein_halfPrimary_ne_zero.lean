@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_halfPrimary_ne_zero
 -- name    : OAI.CubicEisenstein.halfPrimary_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:45:44.397292+00:00
 -- url     : https://prove2.me/theorems/f4d35a6b-cd7f-4693-be45-5d909165947b

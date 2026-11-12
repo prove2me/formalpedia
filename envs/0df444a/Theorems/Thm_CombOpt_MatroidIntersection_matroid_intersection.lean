@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MatroidIntersection_matroid_intersection
 -- name    : CombOpt.MatroidIntersection.matroid_intersection
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:25.259015+00:00
 -- url     : https://prove2.me/theorems/08305ba1-0cc2-4cb5-9a97-125d5c3f5474

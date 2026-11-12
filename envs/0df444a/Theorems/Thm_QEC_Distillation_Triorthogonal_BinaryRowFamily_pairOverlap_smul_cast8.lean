@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_pairOverlap_smul_cast8
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.pairOverlap_smul_cast8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:24.211203+00:00
 -- url     : https://prove2.me/theorems/da91833a-7872-41cb-8306-83e85123b62c

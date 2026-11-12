@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_kernelSourceEnergyPullback_inverse
 -- name    : OAI.CubicEisenstein.kernelSourceEnergyPullback_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:19:52.684825+00:00
 -- url     : https://prove2.me/theorems/78436059-2960-42e7-acd1-db43284182d4

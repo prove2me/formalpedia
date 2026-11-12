@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_card_tDirection
 -- name    : QEC.Distillation.OneQubitMagic.card_tDirection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:02:18.557746+00:00
 -- url     : https://prove2.me/theorems/fe9b042e-5ddf-4a61-bb2a-2286bc098a36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_WorstCaseExp_appendix_d_box_decomposition
 -- name    : RobustRegLasso.WorstCaseExp.appendix_d_box_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:19:00.609574+00:00
 -- url     : https://prove2.me/theorems/86810e25-6b61-4796-9953-0a67b3cedcfa

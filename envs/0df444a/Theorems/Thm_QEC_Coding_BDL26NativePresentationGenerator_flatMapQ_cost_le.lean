@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_flatMapQ_cost_le
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.flatMapQ_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:43:43.63849+00:00
 -- url     : https://prove2.me/theorems/95902829-8126-4da1-9981-82ebe61557bb

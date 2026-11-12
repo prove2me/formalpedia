@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_eq7_residual_bound
 -- name    : AgreementTop736.Exact.eq7_residual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:35.159936+00:00
 -- url     : https://prove2.me/theorems/2ec22d6a-781b-4eb5-9adc-ae95c8ed40fc

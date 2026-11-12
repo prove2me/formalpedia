@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerParentObstruction_base_scale_five_not_degree_two_parent_fibres
 -- name    : QEC.Coding.BDL26OwnerParentObstruction.base_scale_five_not_degree_two_parent_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:53:31.576287+00:00
 -- url     : https://prove2.me/theorems/3e660fbc-4953-4b1b-aa5c-86f985336327

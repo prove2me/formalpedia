@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_reducedRow_triple_even
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.reducedRow_triple_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:36:32.54022+00:00
 -- url     : https://prove2.me/theorems/634f0de6-685e-4499-ae0b-245b89969838

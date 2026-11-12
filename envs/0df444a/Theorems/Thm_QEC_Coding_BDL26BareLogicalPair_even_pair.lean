@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BareLogicalPair_even_pair
 -- name    : QEC.Coding.BDL26BareLogicalPair.even_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:40:35.847089+00:00
 -- url     : https://prove2.me/theorems/de5bf57a-ba5b-4703-b068-9954777336df

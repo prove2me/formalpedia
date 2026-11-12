@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_measurable_rowMasterStateEventQuery_map
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.measurable_rowMasterStateEventQuery_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:22:45.164727+00:00
 -- url     : https://prove2.me/theorems/94185730-9aaa-46e6-82b2-b9d696e1f797

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_measurable_stageCost
 -- name    : QEC.Coding.BDL26PaidRowsComposition.measurable_stageCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:23:10.79729+00:00
 -- url     : https://prove2.me/theorems/549076ef-0d70-4d47-8ff3-cd1de3fb7b5a

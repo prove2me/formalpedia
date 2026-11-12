@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HananyPuder.exists_linearEquiv_pi_youngSpace
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-06T08:39:31.527202+00:00
 -- url     : https://prove2.me/submissions/deca2290-609f-4040-bd19-5faa4f11c613
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Saxl

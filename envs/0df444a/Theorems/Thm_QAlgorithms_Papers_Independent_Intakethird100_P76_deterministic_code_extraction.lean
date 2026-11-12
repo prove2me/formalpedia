@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P76_deterministic_code_extraction
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P76.deterministic_code_extraction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T09:18:58.672558+00:00
 -- url     : https://prove2.me/theorems/f80146c1-f4f2-474c-9a67-4ce599067be4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_stagePhysicalOutput_rx
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.stagePhysicalOutput_rx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:45:02.932359+00:00
 -- url     : https://prove2.me/theorems/d9d03abb-0809-45a1-a208-5c8768cbdd22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQBlockTransport_map1_basis_lower_nonzero
 -- name    : QEC.Coding.BDL26RXQBlockTransport.map1_basis_lower_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:05:36.413328+00:00
 -- url     : https://prove2.me/theorems/9147418e-8842-41e3-b0fa-d56919dad353

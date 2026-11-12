@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P54_elementary_rate_estimate
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P54.elementary_rate_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T06:45:47.703213+00:00
 -- url     : https://prove2.me/theorems/25233542-9359-4468-b636-77e48ee2b0e9

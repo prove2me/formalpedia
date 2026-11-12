@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_dualBaseDecode_outside_range
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.dualBaseDecode_outside_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:40:19.404416+00:00
 -- url     : https://prove2.me/theorems/1b1e694d-dd63-422f-8edb-c2195e4a6d4a

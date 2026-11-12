@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P12_pi_eighth_injection
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P12.pi_eighth_injection
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T00:12:37.810986+00:00
 -- url     : https://prove2.me/theorems/6f210e25-98df-4128-83f9-dc6f655873df

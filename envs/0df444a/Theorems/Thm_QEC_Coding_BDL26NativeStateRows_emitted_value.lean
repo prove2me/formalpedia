@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_emitted_value
 -- name    : QEC.Coding.BDL26NativeStateRows.emitted_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:43:15.011815+00:00
 -- url     : https://prove2.me/theorems/46c3a42b-5c6e-4866-92d8-6e9f2432275d

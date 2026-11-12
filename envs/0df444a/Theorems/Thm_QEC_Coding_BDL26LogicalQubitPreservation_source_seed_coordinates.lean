@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_source_seed_coordinates
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.source_seed_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:58:09.020039+00:00
 -- url     : https://prove2.me/theorems/ffeab85f-ea6e-48c7-96f3-13e6e0732c18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleRemoval_lemma_3_1
 -- name    : SampleRemoval.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:10:42.940206+00:00
 -- url     : https://prove2.me/theorems/d522b803-2812-497f-8ae7-90c598fe3d62

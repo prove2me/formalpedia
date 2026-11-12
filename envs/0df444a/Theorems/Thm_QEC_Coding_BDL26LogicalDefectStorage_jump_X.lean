@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_jump_X
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.jump_X
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:23:42.776189+00:00
 -- url     : https://prove2.me/theorems/6fde378a-4e33-4cb3-b1d9-fbc90a86bae7

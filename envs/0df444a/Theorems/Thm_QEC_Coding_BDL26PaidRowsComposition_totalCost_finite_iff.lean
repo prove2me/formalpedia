@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_totalCost_finite_iff
 -- name    : QEC.Coding.BDL26PaidRowsComposition.totalCost_finite_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:35:09.651809+00:00
 -- url     : https://prove2.me/theorems/8407c661-aebc-4e70-bc25-cee9f046597b

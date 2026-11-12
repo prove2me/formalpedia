@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseEightTargetAction_eq
 -- name    : QEC.Distillation.PhaseInjection.phaseEightTargetAction_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:13:15.269202+00:00
 -- url     : https://prove2.me/theorems/b2931778-ba79-4885-920b-4ee12276edfd

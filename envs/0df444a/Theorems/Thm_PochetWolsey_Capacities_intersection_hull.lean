@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PochetWolsey_Capacities_intersection_hull
 -- name    : PochetWolsey.Capacities.intersection_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:28:08.001792+00:00
 -- url     : https://prove2.me/theorems/23c52396-5bd5-4d61-a9e0-0dcd477755df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_nonvacuous_coupling_atom
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.nonvacuous_coupling_atom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:30:47.891631+00:00
 -- url     : https://prove2.me/theorems/6b5abed0-5c3d-4cef-a6d0-b6dbc6fc1aa3

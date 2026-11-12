@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_rowCliffordExponent8_add_correctionExponent8
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.rowCliffordExponent8_add_correctionExponent8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:13.336895+00:00
 -- url     : https://prove2.me/theorems/1e68c364-8984-4b84-852d-e990d0969b7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryErrorTelescoping_source_even_two_run
 -- name    : QEC.Coding.BDL26HistoryErrorTelescoping.source_even_two_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:51:36.280922+00:00
 -- url     : https://prove2.me/theorems/a8a98ee8-eff9-46f1-8d31-25a35a3edaa0

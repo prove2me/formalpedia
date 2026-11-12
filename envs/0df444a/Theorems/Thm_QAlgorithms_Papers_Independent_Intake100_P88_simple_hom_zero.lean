@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_simple_hom_zero
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.simple_hom_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:42:46.855771+00:00
 -- url     : https://prove2.me/theorems/b9d0faf0-7cb1-45e7-9790-25118a41bc70

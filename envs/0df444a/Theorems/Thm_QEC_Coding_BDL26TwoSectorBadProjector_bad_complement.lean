@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_bad_complement
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.bad_complement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:19:35.647652+00:00
 -- url     : https://prove2.me/theorems/339e318e-4a65-4a19-be72-bc29bb72d097

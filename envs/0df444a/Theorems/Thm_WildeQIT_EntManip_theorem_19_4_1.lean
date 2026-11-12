@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_EntManip_theorem_19_4_1
 -- name    : WildeQIT.EntManip.theorem_19_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:40:26.470979+00:00
 -- url     : https://prove2.me/theorems/2ba22dc4-3bc7-44ce-82b4-4e3537fb441c

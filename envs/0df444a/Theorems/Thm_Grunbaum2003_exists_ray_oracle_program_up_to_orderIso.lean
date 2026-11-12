@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_exists_ray_oracle_program_up_to_orderIso
 -- name    : Grunbaum2003.exists_ray_oracle_program_up_to_orderIso
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:22:04.727422+00:00
 -- url     : https://prove2.me/theorems/27497593-67bc-4d3e-9396-66515b6e7e96

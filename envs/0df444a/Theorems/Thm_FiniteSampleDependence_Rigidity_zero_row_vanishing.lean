@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_zero_row_vanishing
 -- name    : FiniteSampleDependence.Rigidity.zero_row_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:49:34.558204+00:00
 -- url     : https://prove2.me/theorems/fcfb694d-129f-49df-b9ad-269f5e7a9041

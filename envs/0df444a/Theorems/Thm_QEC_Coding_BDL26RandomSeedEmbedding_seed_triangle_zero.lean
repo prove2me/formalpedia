@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomSeedEmbedding_seed_triangle_zero
 -- name    : QEC.Coding.BDL26RandomSeedEmbedding.seed_triangle_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:33:54.529287+00:00
 -- url     : https://prove2.me/theorems/febe6825-5f5c-408f-b67f-94b526cc93fd

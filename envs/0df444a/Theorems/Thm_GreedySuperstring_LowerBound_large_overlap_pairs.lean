@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedySuperstring_LowerBound_large_overlap_pairs
 -- name    : GreedySuperstring.LowerBound.large_overlap_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:30:20.102988+00:00
 -- url     : https://prove2.me/theorems/5395118f-fc52-4d26-96b2-152230e584f0

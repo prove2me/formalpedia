@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicKubota_actualCubeCuspPhaseSum_height
 -- name    : OAI.CubicKubota.actualCubeCuspPhaseSum_height
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:19:34.958189+00:00
 -- url     : https://prove2.me/theorems/219e6c05-f555-4830-b983-e6b08b04ccab

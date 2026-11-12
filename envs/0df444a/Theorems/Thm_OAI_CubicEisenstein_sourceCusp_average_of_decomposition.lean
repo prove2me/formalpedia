@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_sourceCusp_average_of_decomposition
 -- name    : OAI.CubicEisenstein.sourceCusp_average_of_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:22:22.068263+00:00
 -- url     : https://prove2.me/theorems/a0cd259e-1ca6-462e-afe0-cf21135642bf

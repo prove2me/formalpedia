@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomSeedEmbedding_seed_check_radius_zero
 -- name    : QEC.Coding.BDL26RandomSeedEmbedding.seed_check_radius_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:37:43.349907+00:00
 -- url     : https://prove2.me/theorems/4e51bf3d-3701-49c1-8618-88342650f7b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_SubexponentialBesselCoefficients_fullFunction_cusp_contDiffAt_one
 -- name    : OAI.CubicEisenstein.SubexponentialBesselCoefficients.fullFunction_cusp_contDiffAt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:14:07.705517+00:00
 -- url     : https://prove2.me/theorems/04c9525b-d308-49e5-bccf-bdd463c4efa0

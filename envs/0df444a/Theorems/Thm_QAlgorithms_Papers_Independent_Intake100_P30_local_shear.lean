@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P30_local_shear
 -- name    : QAlgorithms.Papers.Independent.Intake100.P30.local_shear
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:43:43.200497+00:00
 -- url     : https://prove2.me/theorems/14515f0c-f740-48bb-b718-0814129ca856

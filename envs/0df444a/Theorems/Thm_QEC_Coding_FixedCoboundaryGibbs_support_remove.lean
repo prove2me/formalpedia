@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_FixedCoboundaryGibbs_support_remove
 -- name    : QEC.Coding.FixedCoboundaryGibbs.support_remove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:13:59.798477+00:00
 -- url     : https://prove2.me/theorems/ca5f6f79-8e72-4cc9-9535-a3b975944997

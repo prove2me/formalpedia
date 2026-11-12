@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_check_swap
 -- name    : QEC.Coding.BDL26CSSHamiltonian.check_swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:50:52.960209+00:00
 -- url     : https://prove2.me/theorems/53e49fd5-94bb-41e1-9a81-171be0aaf6f0

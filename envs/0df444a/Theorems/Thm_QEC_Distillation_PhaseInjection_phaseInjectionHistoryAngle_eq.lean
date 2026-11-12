@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_phaseInjectionHistoryAngle_eq
 -- name    : QEC.Distillation.PhaseInjection.phaseInjectionHistoryAngle_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:23:05.071432+00:00
 -- url     : https://prove2.me/theorems/b01cf0c3-d569-4425-ac29-79aef759b477

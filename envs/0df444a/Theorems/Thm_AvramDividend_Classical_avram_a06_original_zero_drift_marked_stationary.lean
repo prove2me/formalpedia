@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_zero_drift_marked_stationary
 -- name    : AvramDividend.Classical.avram_a06_original_zero_drift_marked_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T00:33:42.84789+00:00
 -- url     : https://prove2.me/theorems/2dafc572-bbad-46ff-8d7c-825c3eb0ded8

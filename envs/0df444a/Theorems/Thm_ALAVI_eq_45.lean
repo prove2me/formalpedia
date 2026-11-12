@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALAVI_eq_45
 -- name    : ALAVI.eq_45
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:40:31.720353+00:00
 -- url     : https://prove2.me/theorems/d901ad3f-8752-4b2d-8fbb-bbb2fe4482b7

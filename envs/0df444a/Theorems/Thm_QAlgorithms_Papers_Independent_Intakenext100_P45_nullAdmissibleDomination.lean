@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P45_nullAdmissibleDomination
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P45.nullAdmissibleDomination
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T06:11:36.867683+00:00
 -- url     : https://prove2.me/theorems/fe0753b9-4e20-45c4-9f74-b11de006228b

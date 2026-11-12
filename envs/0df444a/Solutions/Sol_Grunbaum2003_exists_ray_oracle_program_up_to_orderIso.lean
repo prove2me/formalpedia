@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.exists_ray_oracle_program_up_to_orderIso
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-01T18:11:53.923204+00:00
 -- url     : https://prove2.me/submissions/3fb2f8fa-adf0-4520-8109-727db7df007a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsDPolytope
 import Definitions.Def_Grunbaum2003_faceCount

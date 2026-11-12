@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_keyAnchor_key_le
 -- name    : QEC.Coding.BDL26KeyedGeometric.keyAnchor_key_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:57:53.441423+00:00
 -- url     : https://prove2.me/theorems/3ed78015-29e1-4e75-8815-f250635af445

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_projectionFidelity_le_one
 -- name    : QEC.Distillation.OneQubitMagic.projectionFidelity_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:10:08.942053+00:00
 -- url     : https://prove2.me/theorems/ef42e29b-27f2-4990-9e8d-86695776a319

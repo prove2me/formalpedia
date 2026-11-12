@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerivationHitting_Commutative_bounded_partials_generator
 -- name    : DerivationHitting.Commutative.bounded_partials_generator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:10:56.850737+00:00
 -- url     : https://prove2.me/theorems/ecd52ce5-2c9f-494f-a4ab-cbc53cfe4217

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_localZCoordinate_owner
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.localZCoordinate_owner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:07:54.205345+00:00
 -- url     : https://prove2.me/theorems/fcd0e374-8627-4a8c-9ccd-3d28385782fe

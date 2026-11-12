@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXStagedRestriction_seed_unrestricted_q_restriction_false
 -- name    : QEC.Coding.BDL26RXStagedRestriction.seed_unrestricted_q_restriction_false
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:13:24.625691+00:00
 -- url     : https://prove2.me/theorems/df8a3091-71ec-4647-8ee1-405db3382d4f

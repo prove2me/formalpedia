@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_lookup_after_rejections
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.lookup_after_rejections
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:29:37.316195+00:00
 -- url     : https://prove2.me/theorems/ef128b6f-616d-4058-935f-14c2c10ff1eb

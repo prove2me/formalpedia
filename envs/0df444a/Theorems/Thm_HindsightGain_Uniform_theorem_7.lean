@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HindsightGain_Uniform_theorem_7
 -- name    : HindsightGain.Uniform.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:51:00.192199+00:00
 -- url     : https://prove2.me/theorems/2cd206d1-47a9-4a85-8ab6-0c34958c39e4

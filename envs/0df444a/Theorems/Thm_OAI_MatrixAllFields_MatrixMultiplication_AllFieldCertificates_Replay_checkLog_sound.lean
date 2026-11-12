@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_AllFieldCertificates_Replay_checkLog_sound
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.AllFieldCertificates.Replay.checkLog_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:52:26.065896+00:00
 -- url     : https://prove2.me/theorems/8feeaf63-9c6f-4f7d-a2d9-cd2ff935a924

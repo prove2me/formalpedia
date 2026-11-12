@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineThreeColorBounds_LowerBound_set_amplification
 -- name    : OnlineThreeColorBounds.LowerBound.set_amplification
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:42:08.717282+00:00
 -- url     : https://prove2.me/theorems/66fe8ca5-445f-42ed-ae55-f7fe0dd25824

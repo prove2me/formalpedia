@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_mix_fin16_gaussian_residual_original_martingale_l1_public
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T09:47:40.014348+00:00
 -- url     : https://prove2.me/submissions/a1bc8f33-95ef-492d-ac7b-101297d88ff0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Filtration
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

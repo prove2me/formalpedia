@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_indexedStepCocycle_value
 -- name    : QEC.Coding.BDL26FiniteCohomology.indexedStepCocycle_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:50:08.6057+00:00
 -- url     : https://prove2.me/theorems/2e3ea1e7-e1d5-460f-bc13-7686c2d0d0c1

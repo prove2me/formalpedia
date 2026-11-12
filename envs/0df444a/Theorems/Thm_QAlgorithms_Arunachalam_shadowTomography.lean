@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_shadowTomography
 -- name    : QAlgorithms.Arunachalam.shadowTomography
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:54:21.613377+00:00
 -- url     : https://prove2.me/theorems/fae6aff9-8b8f-463d-ac05-d3bee965009f

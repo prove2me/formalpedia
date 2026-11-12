@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P17_fixed_generating_subspace
 -- name    : QAlgorithms.Papers.Independent.Intake100.P17.fixed_generating_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:26:48.992573+00:00
 -- url     : https://prove2.me/theorems/bf326fa1-879a-483c-8b9d-5cca5a396242

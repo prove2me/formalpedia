@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_flux_identity2
 -- name    : BookProof.CarlemanTwoStep.flux_identity2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:51:54.109213+00:00
 -- url     : https://prove2.me/theorems/2821ce18-49e9-4fe6-b6a5-2b72948a2c8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_eq5_nonpolarity_lower_bound
 -- name    : AgreementTop736.Exact.eq5_nonpolarity_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:19.409441+00:00
 -- url     : https://prove2.me/theorems/ee648477-39d4-46cd-8422-455256671d19

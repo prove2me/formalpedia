@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSHamiltonian_check_rank_sum_plus_one
 -- name    : QEC.Coding.BDL26CSSHamiltonian.check_rank_sum_plus_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:28:21.265311+00:00
 -- url     : https://prove2.me/theorems/80469831-265e-4e20-83ce-f4673a9d3259

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_period_integral_unit_affine
 -- name    : OAI.CubicEisenstein.period_integral_unit_affine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:40:19.367015+00:00
 -- url     : https://prove2.me/theorems/f3819c5d-8da9-43cf-be05-e939cc5ea6a0

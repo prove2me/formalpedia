@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerivationHitting_Commutative_evaluation_injective
 -- name    : DerivationHitting.Commutative.evaluation_injective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:11:43.912585+00:00
 -- url     : https://prove2.me/theorems/f7cf64ad-9965-4b22-887c-0a3d4cec4ae3

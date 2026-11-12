@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZFiniteBlockTransport_seed_boundary_outside_narrow_star
 -- name    : QEC.Coding.BDL26RZFiniteBlockTransport.seed_boundary_outside_narrow_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:19:22.204938+00:00
 -- url     : https://prove2.me/theorems/d3515c7e-0ffb-4360-92a1-f7653953b8eb

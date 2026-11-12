@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_siteBitCount_eq_hammingWeight
 -- name    : QEC.Distillation.Triorthogonal.siteBitCount_eq_hammingWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:35:56.534349+00:00
 -- url     : https://prove2.me/theorems/6439e751-d8c4-4f71-be66-4d333a17df8b

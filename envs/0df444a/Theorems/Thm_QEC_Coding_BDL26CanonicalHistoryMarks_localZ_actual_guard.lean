@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_localZ_actual_guard
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.localZ_actual_guard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:08:19.350338+00:00
 -- url     : https://prove2.me/theorems/3eaaa390-b853-43ae-98c6-c6f58ea3288f

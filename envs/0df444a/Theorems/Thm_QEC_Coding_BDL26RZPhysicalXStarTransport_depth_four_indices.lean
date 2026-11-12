@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_depth_four_indices
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.depth_four_indices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:16:00.704328+00:00
 -- url     : https://prove2.me/theorems/64a20ebf-71dd-4f6f-a4d0-2beff8bee34b

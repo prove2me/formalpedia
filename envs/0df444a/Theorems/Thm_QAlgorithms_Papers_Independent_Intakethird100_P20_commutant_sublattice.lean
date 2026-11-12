@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_commutant_sublattice
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.commutant_sublattice
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:54:24.786259+00:00
 -- url     : https://prove2.me/theorems/3aceea8e-1969-431c-a12b-17001029dcea

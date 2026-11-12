@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P77_additive_classical_failure
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P77.additive_classical_failure
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:08:24.927107+00:00
 -- url     : https://prove2.me/theorems/1ab5d19b-cf4b-4f35-9076-5b7b2b5f78c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_VariableRelabeling_original_halts
 -- name    : QEC.Coding.BDL26RandomPerturbation.VariableRelabeling.original_halts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:19:16.661207+00:00
 -- url     : https://prove2.me/theorems/c9245e59-b17b-4389-a18f-66f3bb597d8e

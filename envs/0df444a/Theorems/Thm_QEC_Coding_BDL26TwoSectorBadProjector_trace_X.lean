@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TwoSectorBadProjector_trace_X
 -- name    : QEC.Coding.BDL26TwoSectorBadProjector.trace_X
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:24:06.452204+00:00
 -- url     : https://prove2.me/theorems/eb2b9cd4-73e1-440b-bbf3-4563064cf5f8

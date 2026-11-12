@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SeedCohomology_seed_class_nonzero
 -- name    : QEC.Coding.BDL26SeedCohomology.seed_class_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:58:24.406611+00:00
 -- url     : https://prove2.me/theorems/f077a4c2-2111-4855-893a-8707fbbe0e4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementSupport_rzLocalDelta1_fiber_support
 -- name    : QEC.Coding.BDL26ReplacementSupport.rzLocalDelta1_fiber_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:00:00.784073+00:00
 -- url     : https://prove2.me/theorems/6bf9abdf-97d4-495f-aa5a-76b8f8489f40

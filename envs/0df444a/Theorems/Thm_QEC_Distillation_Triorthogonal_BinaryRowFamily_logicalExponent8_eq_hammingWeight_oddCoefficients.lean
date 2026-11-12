@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_logicalExponent8_eq_hammingWeight_oddCoefficients
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.logicalExponent8_eq_hammingWeight_oddCoefficients
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:39:51.149179+00:00
 -- url     : https://prove2.me/theorems/04297122-fcd3-464c-b386-05242486d0b6

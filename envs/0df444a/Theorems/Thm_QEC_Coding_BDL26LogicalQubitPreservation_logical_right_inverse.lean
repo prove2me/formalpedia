@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalQubitPreservation_logical_right_inverse
 -- name    : QEC.Coding.BDL26LogicalQubitPreservation.logical_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:45:06.047552+00:00
 -- url     : https://prove2.me/theorems/0f734a7d-6eab-4a6d-a209-44a7c619c912

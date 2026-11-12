@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_zCorrection_level_two
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.zCorrection_level_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:22:48.8255+00:00
 -- url     : https://prove2.me/theorems/02d7d05c-bcbe-448f-807f-708497ba0a1f

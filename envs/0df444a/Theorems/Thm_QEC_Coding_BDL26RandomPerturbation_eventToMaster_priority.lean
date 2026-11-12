@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_eventToMaster_priority
 -- name    : QEC.Coding.BDL26RandomPerturbation.eventToMaster_priority
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:55:04.366267+00:00
 -- url     : https://prove2.me/theorems/8c07fa2f-37c7-4a96-a8ed-cdb746acb7a9

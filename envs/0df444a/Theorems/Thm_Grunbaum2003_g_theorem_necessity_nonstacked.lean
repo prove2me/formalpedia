@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_g_theorem_necessity_nonstacked
 -- name    : Grunbaum2003.g_theorem_necessity_nonstacked
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T01:59:30.80892+00:00
 -- url     : https://prove2.me/theorems/3515ba76-a67a-431f-ad1f-17a1c0ae58f6

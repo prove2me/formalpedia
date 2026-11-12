@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P65_skeinPower
 -- name    : QAlgorithms.Papers.Independent.Intake100.P65.skeinPower
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:13:33.846025+00:00
 -- url     : https://prove2.me/theorems/ea158ddd-b076-49f9-af4d-a9abed979975

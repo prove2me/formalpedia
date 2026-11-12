@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P33_ratePolynomialOptimum
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P33.ratePolynomialOptimum
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T06:51:49.304404+00:00
 -- url     : https://prove2.me/theorems/aa4364fc-4615-4c0a-8166-8099fb542d77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_actual_mid_Z_marked
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.actual_mid_Z_marked
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:02:11.346909+00:00
 -- url     : https://prove2.me/theorems/28ef4d74-9990-46a4-a33e-2129bcc635bd

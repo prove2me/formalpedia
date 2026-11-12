@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngageInfo_eq_6_vstar
 -- name    : EngageInfo.eq_6_vstar
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:19:30.166006+00:00
 -- url     : https://prove2.me/theorems/f024ef0f-d6fe-4065-8bbf-4b18c3c5d427

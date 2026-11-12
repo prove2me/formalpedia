@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementSupport_rzCzH2Coordinate_weight_le
 -- name    : QEC.Coding.BDL26ReplacementSupport.rzCzH2Coordinate_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T00:59:19.432918+00:00
 -- url     : https://prove2.me/theorems/0607c8aa-1127-4acc-acc3-2db99057b01c

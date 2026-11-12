@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineCusp_masked_inner
 -- name    : OAI.CubicEisenstein.affineCusp_masked_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:06:16.034438+00:00
 -- url     : https://prove2.me/theorems/84be9fed-9941-4c67-b648-c756d776d06c

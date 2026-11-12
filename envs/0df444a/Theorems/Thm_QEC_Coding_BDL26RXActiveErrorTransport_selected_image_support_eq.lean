@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_selected_image_support_eq
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.selected_image_support_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:48:35.457912+00:00
 -- url     : https://prove2.me/theorems/478d0eea-d0f6-41b6-936d-1292a22e8a13

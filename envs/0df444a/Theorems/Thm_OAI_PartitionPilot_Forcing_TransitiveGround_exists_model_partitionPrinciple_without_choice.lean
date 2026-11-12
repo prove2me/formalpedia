@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PartitionPilot_Forcing_TransitiveGround_exists_model_partitionPrinciple_without_choice
 -- name    : OAI.PartitionPilot.Forcing.TransitiveGround.exists_model_partitionPrinciple_without_choice
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:01.269357+00:00
 -- url     : https://prove2.me/theorems/1342629b-44d7-466a-80fa-72b0838f317a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXPhysicalStarTransport_boundaryCenter_nonzero_transport
 -- name    : QEC.Coding.BDL26RXPhysicalStarTransport.boundaryCenter_nonzero_transport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:13:49.081849+00:00
 -- url     : https://prove2.me/theorems/c5e5dcc8-9b70-456c-b5f9-585da3922442

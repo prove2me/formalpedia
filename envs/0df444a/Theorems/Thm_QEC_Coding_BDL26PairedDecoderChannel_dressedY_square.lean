@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_dressedY_square
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.dressedY_square
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:39:51.91555+00:00
 -- url     : https://prove2.me/theorems/8d13b4a4-f60a-44ff-b233-4cb66ce81924

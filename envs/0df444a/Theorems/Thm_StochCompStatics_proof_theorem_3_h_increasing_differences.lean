@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochCompStatics_proof_theorem_3_h_increasing_differences
 -- name    : StochCompStatics.proof_theorem_3_h_increasing_differences
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:32:37.247031+00:00
 -- url     : https://prove2.me/theorems/73afb353-71a6-4c02-93bb-7335f1491d16

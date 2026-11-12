@@ -7,7 +7,11 @@
 -- title:
 --   Lemma 2.6 with 0 ≤ ξ₁ ≤ 1 (corrected: the printed lower bound fails for ξ₁ > 1)
 -- statement:
---   Source (Lemma 2.6, p. 10): if $A_0=S_0A$ is a $(1\pm\xi_0)$ strong row coreset for $A$ and $A_1=S_1A_0$ is a $(1\pm\xi_1)$ strong row coreset for $A_0$, then for every $F\in\mathcal F_k$, $(1-\xi_0)(1-\xi_1)\,\mathrm{cost}_A(F)\le\mathrm{cost}_{A_1}(F)\le(1+\xi_0)(1+\xi_1)\,\mathrm{cost}_A(F)$; for $0<\varepsilon<1/2$ and $\xi_0=\xi_1=\varepsilon/3$, $A_1$ is a $(1\pm\varepsilon)$ strong row coreset for $A$; and $S_1S_0$ is a row-sampling matrix. Variant: the same conclusions under the additional hypothesis $0\le\xi_1\le1$. Difference: the source places no range on $\xi_1$, and at $\xi_0=\xi_1=3$ its first lower bound fails (evidence above).
+--   **Source** (Lemma 2.6, p. 10): if $A_0=S_0A$ is a $(1\pm\xi_0)$ strong row coreset for $A$ and $A_1=S_1A_0$ is a $(1\pm\xi_1)$ strong row coreset for $A_0$, then for every $F\in\mathcal F_k$, $(1-\xi_0)(1-\xi_1)\,\mathrm{cost}_A(F)\le\mathrm{cost}_{A_1}(F)\le(1+\xi_0)(1+\xi_1)\,\mathrm{cost}_A(F)$; for $0<\varepsilon<1/2$ and $\xi_0=\xi_1=\varepsilon/3$, $A_1$ is a $(1\pm\varepsilon)$ strong row coreset for $A$; and $S_1S_0$ is a row-sampling matrix.
+--
+--   **Variant:** the same conclusions under the additional hypothesis $0\le\xi_1\le1$.
+--
+--   **Difference:** the source places no range on $\xi_1$, and at $\xi_0=\xi_1=3$ its first lower bound fails (evidence above).
 -- source:
 --   Lin, Mirrokni, Woodruff, Nearly Optimal Strong Coresets for ℓp Subspace Approximation, arXiv:2608.26047 (held PDF of 2026-11-03, sha256 4c61606e…), p. 10, Lemma 2.6 (corrected)
 

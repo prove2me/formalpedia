@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicKubota_actualCubeCuspPhaseSum_dvd
 -- name    : OAI.CubicKubota.actualCubeCuspPhaseSum_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:09:06.221319+00:00
 -- url     : https://prove2.me/theorems/5b2df5e4-f12e-4cdc-a7b2-55f8881d7317

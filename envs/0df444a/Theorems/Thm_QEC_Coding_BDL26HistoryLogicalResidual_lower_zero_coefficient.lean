@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_lower_zero_coefficient
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.lower_zero_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:49:34.760526+00:00
 -- url     : https://prove2.me/theorems/e5bdddef-da6d-4e09-bbf9-c88d67aca2b8

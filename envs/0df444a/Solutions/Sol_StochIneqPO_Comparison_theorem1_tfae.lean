@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StochIneqPO.Comparison.theorem1_tfae
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T17:48:14.950209+00:00
 -- url     : https://prove2.me/submissions/e1ed301e-373c-4bc9-8735-1c9bd61972f9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StochIneqPO_Comparison_StochLE

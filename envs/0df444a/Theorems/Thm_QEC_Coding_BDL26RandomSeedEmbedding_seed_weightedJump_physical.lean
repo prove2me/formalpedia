@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomSeedEmbedding_seed_weightedJump_physical
 -- name    : QEC.Coding.BDL26RandomSeedEmbedding.seed_weightedJump_physical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:39:31.81843+00:00
 -- url     : https://prove2.me/theorems/54468049-fcbd-418d-9137-ef7bf78c505e

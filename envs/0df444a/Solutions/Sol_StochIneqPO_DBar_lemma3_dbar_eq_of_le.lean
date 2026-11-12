@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StochIneqPO.DBar.lemma3_dbar_eq_of_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T07:30:11.170433+00:00
 -- url     : https://prove2.me/submissions/d016fbf0-29e8-4ec9-ac1c-1d8c2bb2db32
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StochIneqPO_Comparison_StochLE

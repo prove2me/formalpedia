@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26GlobalLookupLinearity_executableGlobal_preimage
 -- name    : QEC.Coding.BDL26GlobalLookupLinearity.executableGlobal_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:47:14.607491+00:00
 -- url     : https://prove2.me/theorems/a4076200-62bf-4c6c-aac0-db6fbcf127d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicKubota_cubeCuspHeightWeight_zero
 -- name    : OAI.CubicKubota.cubeCuspHeightWeight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:21:00.398795+00:00
 -- url     : https://prove2.me/theorems/1d7341a6-a20d-4deb-82e1-2368337b4f6e

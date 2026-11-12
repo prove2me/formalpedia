@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_original_execution_prefix
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.original_execution_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:28:41.076826+00:00
 -- url     : https://prove2.me/theorems/7e0f616e-2f55-4ce5-8232-fc3001759c42

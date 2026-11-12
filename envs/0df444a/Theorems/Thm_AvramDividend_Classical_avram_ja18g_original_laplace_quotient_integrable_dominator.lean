@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18g_original_laplace_quotient_integrable_dominator
 -- name    : AvramDividend.Classical.avram_ja18g_original_laplace_quotient_integrable_dominator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T04:03:45.289935+00:00
 -- url     : https://prove2.me/theorems/c57e222a-6a66-440b-be62-4d0d1a9725e6

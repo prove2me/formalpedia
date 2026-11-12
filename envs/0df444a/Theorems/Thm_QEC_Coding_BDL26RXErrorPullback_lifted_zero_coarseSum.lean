@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXErrorPullback_lifted_zero_coarseSum
 -- name    : QEC.Coding.BDL26RXErrorPullback.lifted_zero_coarseSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:02:58.851068+00:00
 -- url     : https://prove2.me/theorems/533fe663-4744-4cfd-bb3b-f4389384ad27

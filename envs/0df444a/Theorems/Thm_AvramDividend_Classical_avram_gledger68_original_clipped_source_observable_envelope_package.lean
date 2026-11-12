@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger68_original_clipped_source_observable_envelope_package
 -- name    : AvramDividend.Classical.avram_gledger68_original_clipped_source_observable_envelope_package
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T01:15:52.23647+00:00
 -- url     : https://prove2.me/theorems/bc286646-e3ed-4a02-be6c-90289e483e61

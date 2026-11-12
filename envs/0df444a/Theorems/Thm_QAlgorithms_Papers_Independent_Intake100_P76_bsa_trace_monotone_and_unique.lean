@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P76_bsa_trace_monotone_and_unique
 -- name    : QAlgorithms.Papers.Independent.Intake100.P76.bsa_trace_monotone_and_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T18:24:39.73132+00:00
 -- url     : https://prove2.me/theorems/ec20e914-b9fb-4bab-911f-a8f8770bd6f6

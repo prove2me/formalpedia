@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_VariableRelabeling_pulled_table_law
 -- name    : QEC.Coding.BDL26RandomPerturbation.VariableRelabeling.pulled_table_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:21:22.587221+00:00
 -- url     : https://prove2.me/theorems/37e9ed31-0ba5-4f8e-bab8-ce700e4dc92f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_sum_shiftK
 -- name    : BookProof.CarlemanTwoStep.sum_shiftK
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-10T22:33:17.849678+00:00
 -- url     : https://prove2.me/theorems/2c1bb4c7-a6bc-4799-bdb7-cf7060f5ff25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_unramifiedGaussResidue_cube_closed
 -- name    : OAI.CubicEisenstein.unramifiedGaussResidue_cube_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:05:30.838137+00:00
 -- url     : https://prove2.me/theorems/aca56eff-4c5b-432b-a27e-b4e75601cfd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LuoSunLiu_DIP_proposition_3_conditional
 -- name    : LuoSunLiu.DIP.proposition_3_conditional
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-04T04:37:25.008201+00:00
 -- url     : https://prove2.me/theorems/025b4ef5-a691-4714-8ad2-1178ff9104a8

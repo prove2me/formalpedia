@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_inverse_coordinates
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.inverse_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:35:45.888784+00:00
 -- url     : https://prove2.me/theorems/3fec681e-18ab-4b92-a382-a53a6a6c5c80

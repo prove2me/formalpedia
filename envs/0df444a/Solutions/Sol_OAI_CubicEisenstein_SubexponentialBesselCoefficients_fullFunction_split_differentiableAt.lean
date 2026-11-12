@@ -1,0 +1,96 @@
+-- Prove2me | solution 1 for OAI.CubicEisenstein.SubexponentialBesselCoefficients.fullFunction_split_differentiableAt
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T06:28:45.905139+00:00
+-- url     : https://prove2.me/submissions/b704add8-b9b3-4680-bff1-7c0a56eb2bca
+
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_BesselDerivatives
+import Definitions.Def_OAI_NumberTheory_DirichletL_Eisenstein_InverseCuspCoordinates
+import Theorems.Thm_OAI_CubicEisenstein_SubexponentialBesselCoefficients_fullFunction_cusp_differentiableAt
+
+set_option autoImplicit false
+open OAI
+noncomputable section
+open OAI.CubicEisenstein
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic RationalPrimeExtraction ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+open Filter MeasureTheory
+open scoped BigOperators Classical Topology
+open Finset AddChar MulChar EisensteinEmbedding
+local notation "O" => ActualEisensteinCubic.O
+open OAI.CubicEisenstein.SubexponentialBesselCoefficients
+variable (coeff : SubexponentialBesselCoefficients)
+namespace OAI.CubicEisenstein.SubexponentialBesselCoefficients
+theorem _root_.solution (constant : ℂ) (p : ℂ × ℝ) (hp : 0<p.2) :
+    DifferentiableAt ℝ
+      (fun q : ℂ × ℝ => coeff.fullFunction constant (cuspCoordinateLift (q.2,q.1))) p := by
+  have hswap : DifferentiableAt ℝ (fun q : ℂ × ℝ => (q.2,q.1)) p :=
+    differentiableAt_snd.prodMk differentiableAt_fst
+  exact (coeff.fullFunction_cusp_differentiableAt constant (p.2,p.1) hp).comp p hswap
+end OAI.CubicEisenstein.SubexponentialBesselCoefficients

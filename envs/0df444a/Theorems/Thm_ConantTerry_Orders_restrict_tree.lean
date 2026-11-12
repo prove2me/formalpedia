@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConantTerry_Orders_restrict_tree
 -- name    : ConantTerry.Orders.restrict_tree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:32:48.083089+00:00
 -- url     : https://prove2.me/theorems/5bf729ab-31e3-492d-b944-3e7bd5507bf4

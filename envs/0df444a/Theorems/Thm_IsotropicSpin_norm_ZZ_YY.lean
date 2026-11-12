@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsotropicSpin_norm_ZZ_YY
 -- name    : IsotropicSpin.norm_ZZ_YY
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:26:30.531535+00:00
 -- url     : https://prove2.me/theorems/7a929bf2-727f-457f-8b25-777353cb4d3e

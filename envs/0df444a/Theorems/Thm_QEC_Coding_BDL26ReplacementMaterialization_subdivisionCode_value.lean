@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_subdivisionCode_value
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.subdivisionCode_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:13:20.053485+00:00
 -- url     : https://prove2.me/theorems/6dcbc5fd-2f73-4274-8a64-5c0066e4e5b1

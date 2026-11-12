@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_onceCuspFrequencyQuotient_spec
 -- name    : OAI.CubicEisenstein.onceCuspFrequencyQuotient_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:16:32.564055+00:00
 -- url     : https://prove2.me/theorems/2647fa38-dd3e-4d65-8bc5-352e77eb83fc

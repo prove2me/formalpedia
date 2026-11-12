@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P89_appendix_pauli_reordering
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P89.appendix_pauli_reordering
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:31:00.438517+00:00
 -- url     : https://prove2.me/theorems/fdb52287-1ebd-44c2-a56b-b60792952a70

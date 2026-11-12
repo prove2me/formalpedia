@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowAllocationGames_UnitRanking_proposition_5_circulation
 -- name    : FlowAllocationGames.UnitRanking.proposition_5_circulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:34:22.510627+00:00
 -- url     : https://prove2.me/theorems/752f1a5f-a291-4ac6-899a-3e4f9d4831fa

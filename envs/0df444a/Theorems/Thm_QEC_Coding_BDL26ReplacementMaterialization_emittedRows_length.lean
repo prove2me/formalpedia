@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_emittedRows_length
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.emittedRows_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:12:58.914906+00:00
 -- url     : https://prove2.me/theorems/7075b05b-e84f-405c-929f-84c075d81215

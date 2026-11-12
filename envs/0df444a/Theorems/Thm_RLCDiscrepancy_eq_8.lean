@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLCDiscrepancy_eq_8
 -- name    : RLCDiscrepancy.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:53:28.500944+00:00
 -- url     : https://prove2.me/theorems/0d7770d5-a2bd-4fc4-9fe0-50ce34596926

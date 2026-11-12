@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_source_even_readout
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.source_even_readout
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:40:17.231204+00:00
 -- url     : https://prove2.me/theorems/8fd34def-59d3-4442-8066-a89a1f445305

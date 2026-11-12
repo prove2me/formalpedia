@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_QEC_Distillation_HH18Parameterized_routedDepthScheduleTargetError_pos
+-- name    : QEC.Distillation.HH18Parameterized.routedDepthScheduleTargetError_pos
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-11T20:52:41.865207+00:00
+-- url     : https://prove2.me/theorems/7057d311-07fe-48ea-9575-cbef43e94d7c
+-- title:
+--   HH18 Parameterized: routed Depth Schedule Target Error pos
+-- statement:
+--   A positive initial physical rate makes every finite schedule target
+--   strictly positive.
+--
+--   Source: https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Distillation/LowOverheadProtocol/Parameterized/Schedule.lean#L208-L213
+-- source:
+--   https://github.com/QudeLeap/Lean-QECert/blob/4a64933303628b4f94c4567347e86636853f64a4/QEC/Distillation/LowOverheadProtocol/Parameterized/Schedule.lean#L208-L213
+
+import Definitions.Def_QEC_Distillation_LowOverheadProtocol_Parameterized_PathYield
+import Definitions.Def_QEC_Distillation_LowOverheadProtocol_Parameterized_Schedule
+set_option autoImplicit false
+noncomputable section
+open QEC
+open QEC.Distillation
+open QEC.Distillation.HH18Parameterized
+open Coding Semantics
+open Coding.PauliSymplectic
+open Coding.ReedMuller Coding.PuncturedReedMuller
+open Semantics.Qubit
+open scoped BigOperators
+open Triorthogonal.BH12NoisyInjection
+open Triorthogonal.BH12NoisyInjection.OneQubit
+attribute [local instance 100] Fintype.ofFinite
+
+theorem QEC.Distillation.HH18Parameterized.routedDepthScheduleTargetError_pos (w r m : Nat)
+    (epsilon : HH18NoisyInput.DiagonalErrorRate) (hepsilon : 0 < epsilon.1)
+    (depth : Nat) :
+    0 < routedDepthScheduleTargetError w r m epsilon depth := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_registerXorBitstring_finTwo
 -- name    : QEC.Distillation.FiniteRegisterUniversality.registerXorBitstring_finTwo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:24:35.657076+00:00
 -- url     : https://prove2.me/theorems/6a3ee6d2-db48-4a9a-8dfb-8c0b1419e8f7

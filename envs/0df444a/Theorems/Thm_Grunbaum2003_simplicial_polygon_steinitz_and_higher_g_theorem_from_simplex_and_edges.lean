@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_polygon_steinitz_and_higher_g_theorem_from_simplex_and_edges
 -- name    : Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_from_simplex_and_edges
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T02:14:53.36823+00:00
 -- url     : https://prove2.me/theorems/0f558054-7215-45be-a935-717b5963b8b7

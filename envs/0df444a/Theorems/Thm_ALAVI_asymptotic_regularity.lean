@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALAVI_asymptotic_regularity
 -- name    : ALAVI.asymptotic_regularity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:40:52.817983+00:00
 -- url     : https://prove2.me/theorems/5db800b3-67a2-4801-836c-287a7ab341bc

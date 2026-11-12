@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSAPR_decomposition_8_13
 -- name    : LSAPR.decomposition_8_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:33:16.018944+00:00
 -- url     : https://prove2.me/theorems/97ff6fb5-73e2-4e32-8eaa-dd1b31169b06

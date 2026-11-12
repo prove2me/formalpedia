@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_diagonal_unit_summand
 -- name    : OAI.CubicEisenstein.diagonal_unit_summand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:44:36.555304+00:00
 -- url     : https://prove2.me/theorems/b2142891-5a58-4209-bf82-9558565d3666

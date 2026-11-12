@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_repeatedPhaseInjectionLedger_eq_replicate
 -- name    : QEC.Distillation.PhaseInjection.repeatedPhaseInjectionLedger_eq_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:21:45.989771+00:00
 -- url     : https://prove2.me/theorems/60e7b42c-d648-4b0b-bfaf-9eca7c01b146

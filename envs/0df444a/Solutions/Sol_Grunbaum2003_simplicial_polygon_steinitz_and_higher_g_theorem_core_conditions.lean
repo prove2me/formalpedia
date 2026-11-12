@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_core_conditions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-08T20:50:30.660552+00:00
 -- url     : https://prove2.me/submissions/ff7d0908-de69-4392-9695-552a47f19bcd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Grunbaum2003_polygon_edge_count_eq_vertex_count
 import Theorems.Thm_Grunbaum2003_exists_polygon_vertex_count

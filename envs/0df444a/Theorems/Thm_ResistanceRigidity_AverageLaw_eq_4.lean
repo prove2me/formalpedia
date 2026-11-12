@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResistanceRigidity_AverageLaw_eq_4
 -- name    : ResistanceRigidity.AverageLaw.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:06:36.981195+00:00
 -- url     : https://prove2.me/theorems/504efee1-be62-43f9-9cf7-79f2286ff291

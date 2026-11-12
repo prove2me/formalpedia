@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_repeated_perturbation
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.repeated_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:12:44.084052+00:00
 -- url     : https://prove2.me/theorems/d5fdef8d-9cbb-4774-b23b-21b89fb19837

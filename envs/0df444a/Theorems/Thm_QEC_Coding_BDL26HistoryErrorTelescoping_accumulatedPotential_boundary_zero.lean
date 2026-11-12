@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryErrorTelescoping_accumulatedPotential_boundary_zero
 -- name    : QEC.Coding.BDL26HistoryErrorTelescoping.accumulatedPotential_boundary_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:49:07.066334+00:00
 -- url     : https://prove2.me/theorems/01377e66-4618-4374-b931-e3ff95015349

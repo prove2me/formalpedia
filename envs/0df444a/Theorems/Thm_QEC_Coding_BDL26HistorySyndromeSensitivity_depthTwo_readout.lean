@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistorySyndromeSensitivity_depthTwo_readout
 -- name    : QEC.Coding.BDL26HistorySyndromeSensitivity.depthTwo_readout
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:32:40.17212+00:00
 -- url     : https://prove2.me/theorems/a76545c5-5fe1-41b5-93aa-ab1047a16432

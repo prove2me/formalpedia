@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolonomicPositivity_Robust_lemma_5_1
 -- name    : HolonomicPositivity.Robust.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:31:33.584206+00:00
 -- url     : https://prove2.me/theorems/562b33e2-fec5-45a3-9e32-a8488bfbc86e

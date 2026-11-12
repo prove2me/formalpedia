@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OuterplanarL1Tan_Linear_lemma_2
 -- name    : OuterplanarL1Tan.Linear.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:14:32.246271+00:00
 -- url     : https://prove2.me/theorems/6085ef47-c33b-4fb5-96c6-230833196dd4

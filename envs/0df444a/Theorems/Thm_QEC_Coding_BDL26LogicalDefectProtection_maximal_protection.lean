@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectProtection_maximal_protection
 -- name    : QEC.Coding.BDL26LogicalDefectProtection.maximal_protection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:46:51.932134+00:00
 -- url     : https://prove2.me/theorems/d285fbb3-fbbc-4973-8ad1-54cd3fbf314a

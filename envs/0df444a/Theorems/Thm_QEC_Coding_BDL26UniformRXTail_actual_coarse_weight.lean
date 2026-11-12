@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_coarse_weight
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_coarse_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:16:59.264319+00:00
 -- url     : https://prove2.me/theorems/12fed4ff-bcc8-4057-a727-f8d583dd2631

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBalancingMNL_eq_13_unique_root
 -- name    : RiskBalancingMNL.eq_13_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:44:39.25951+00:00
 -- url     : https://prove2.me/theorems/7ed1c6f9-f054-4f4d-b6e1-9b6c556b0f45

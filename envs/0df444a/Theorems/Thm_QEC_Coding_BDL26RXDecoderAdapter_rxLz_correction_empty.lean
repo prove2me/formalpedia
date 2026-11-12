@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDecoderAdapter_rxLz_correction_empty
 -- name    : QEC.Coding.BDL26RXDecoderAdapter.rxLz_correction_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:20:51.19019+00:00
 -- url     : https://prove2.me/theorems/3c6f3506-1cbd-4687-93d2-ced727ef34c6

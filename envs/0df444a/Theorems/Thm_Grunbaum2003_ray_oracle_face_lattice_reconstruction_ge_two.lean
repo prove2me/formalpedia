@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_ray_oracle_face_lattice_reconstruction_ge_two
 -- name    : Grunbaum2003.ray_oracle_face_lattice_reconstruction_ge_two
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-01T18:09:52.540953+00:00
 -- url     : https://prove2.me/theorems/a3a69631-8d08-46a3-87dd-be2991739552

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_sourceCuspConstant_decomposition
 -- name    : OAI.CubicEisenstein.sourceCuspConstant_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:20:44.388729+00:00
 -- url     : https://prove2.me/theorems/5cb62f9d-46ca-4192-97cf-18359c3231e1

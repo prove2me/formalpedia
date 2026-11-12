@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCAEndToEndMission_flux_connectivity
 -- name    : MCAEndToEndMission.flux_connectivity
--- status  : Open
+-- status  : Proved
 -- author  : @chenyu
 -- created : 2026-10-30T16:15:04.204108+00:00
 -- url     : https://prove2.me/theorems/244eca0a-a303-42f7-aafa-c249992b9100

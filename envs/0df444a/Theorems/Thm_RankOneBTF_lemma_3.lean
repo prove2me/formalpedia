@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankOneBTF_lemma_3
 -- name    : RankOneBTF.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:20.316275+00:00
 -- url     : https://prove2.me/theorems/cf255785-3f82-42c6-905a-1611793c2c67

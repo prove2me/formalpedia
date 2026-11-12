@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_original_cache_read
 -- name    : QEC.Coding.BDL26NativeStateRows.original_cache_read
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:42:44.95532+00:00
 -- url     : https://prove2.me/theorems/a1080d70-5514-464e-9f94-a9409abcb821

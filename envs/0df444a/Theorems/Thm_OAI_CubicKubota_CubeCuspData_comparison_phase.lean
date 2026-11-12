@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicKubota_CubeCuspData_comparison_phase
 -- name    : OAI.CubicKubota.CubeCuspData.comparison_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:49:27.002051+00:00
 -- url     : https://prove2.me/theorems/826bc657-ac9b-42c1-b7a2-501d4cc61abf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeStateRows_indices_get
 -- name    : QEC.Coding.BDL26NativeStateRows.indices_get
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:39:27.026744+00:00
 -- url     : https://prove2.me/theorems/909ebfb6-4c44-449d-a61f-240c6c0e4a45

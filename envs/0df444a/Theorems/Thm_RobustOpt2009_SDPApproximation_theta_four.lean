@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_SDPApproximation_theta_four
 -- name    : RobustOpt2009.SDPApproximation.theta_four
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-31T06:48:38.697115+00:00
 -- url     : https://prove2.me/theorems/d4dd34a2-7ed9-4595-87a1-51c7f9e6dd0e

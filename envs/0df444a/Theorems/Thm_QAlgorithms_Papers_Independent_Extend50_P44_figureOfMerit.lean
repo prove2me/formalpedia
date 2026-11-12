@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P44_figureOfMerit
 -- name    : QAlgorithms.Papers.Independent.Extend50.P44.figureOfMerit
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T23:09:12.964217+00:00
 -- url     : https://prove2.me/theorems/8624ff21-72b5-43df-960f-53f616aa33d3

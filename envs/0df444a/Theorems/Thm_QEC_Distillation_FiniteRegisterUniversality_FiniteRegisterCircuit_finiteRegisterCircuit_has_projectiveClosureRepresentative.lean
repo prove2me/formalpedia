@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_FiniteRegisterCircuit_finiteRegisterCircuit_has_projectiveClosureRepresentative
 -- name    : QEC.Distillation.FiniteRegisterUniversality.FiniteRegisterCircuit.finiteRegisterCircuit_has_projectiveClosureRepresentative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:25:01.660711+00:00
 -- url     : https://prove2.me/theorems/ac3a61b9-d790-4e9b-809f-f48a7b7d6be3

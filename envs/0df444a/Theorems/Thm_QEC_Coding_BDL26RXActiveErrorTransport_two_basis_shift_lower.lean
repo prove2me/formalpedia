@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_two_basis_shift_lower
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.two_basis_shift_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:51:37.093681+00:00
 -- url     : https://prove2.me/theorems/a94a2997-7dd9-4284-b734-29c40353da22

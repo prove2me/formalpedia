@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_corollary_2_6_iff
 -- name    : SinkhornHall.corollary_2_6_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:29.280986+00:00
 -- url     : https://prove2.me/theorems/862a4446-77b4-4e6c-b686-3618d773f2ac

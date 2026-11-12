@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_bv_concrete_diffuse_compound_source
 -- name    : AvramDividend.Classical.avram_a06_bv_concrete_diffuse_compound_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T15:16:23.109209+00:00
 -- url     : https://prove2.me/theorems/115c3b1e-824d-4480-841e-c00e2303e103

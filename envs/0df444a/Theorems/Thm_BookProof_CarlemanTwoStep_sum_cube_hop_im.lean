@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanTwoStep_sum_cube_hop_im
 -- name    : BookProof.CarlemanTwoStep.sum_cube_hop_im
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-11-07T22:50:22.876466+00:00
 -- url     : https://prove2.me/theorems/22a08d61-f9c6-4e10-9232-acbcc001b7f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_levelMap_law
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.levelMap_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:32:13.741267+00:00
 -- url     : https://prove2.me/theorems/ffbdde18-04da-4db0-8f3b-3b95497bd0c3

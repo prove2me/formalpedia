@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_booleanXor_eq_sum
 -- name    : QEC.Distillation.Triorthogonal.booleanXor_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:34:38.406198+00:00
 -- url     : https://prove2.me/theorems/15f67ae0-2796-4618-b1de-ede83591280f

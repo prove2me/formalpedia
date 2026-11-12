@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BoundedRateDavies_even_bounded_rate_application
 -- name    : QEC.Coding.BDL26BoundedRateDavies.even_bounded_rate_application
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:43:52.321112+00:00
 -- url     : https://prove2.me/theorems/98039011-05ba-4908-bc49-988197017666

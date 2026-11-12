@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for collatz_almost_bounded_logarithmic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @mysticflounder
 -- created : 2026-09-09T05:09:57.685182+00:00
 -- url     : https://prove2.me/submissions/0720cb4f-6ff3-4178-809e-a2317607661c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBalancingMNL_lemma_2
 -- name    : RiskBalancingMNL.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:43:38.424152+00:00
 -- url     : https://prove2.me/theorems/3faac03b-487e-4c18-8151-6363288f7846

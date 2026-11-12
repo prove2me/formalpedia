@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P06_classicalBit_unlimitedSharing
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P06.classicalBit_unlimitedSharing
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:04:24.726189+00:00
 -- url     : https://prove2.me/theorems/cd2ee565-73da-470c-a5d3-8d713fe6bb20

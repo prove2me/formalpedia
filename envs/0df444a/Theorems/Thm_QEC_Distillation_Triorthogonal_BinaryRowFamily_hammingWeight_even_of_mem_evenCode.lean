@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_hammingWeight_even_of_mem_evenCode
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.hammingWeight_even_of_mem_evenCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:37:25.302666+00:00
 -- url     : https://prove2.me/theorems/b9610fb8-2495-4053-bd4a-a422bcf0f77d

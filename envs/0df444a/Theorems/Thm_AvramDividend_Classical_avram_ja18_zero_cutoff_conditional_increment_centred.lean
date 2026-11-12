@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18_zero_cutoff_conditional_increment_centred
 -- name    : AvramDividend.Classical.avram_ja18_zero_cutoff_conditional_increment_centred
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T20:00:32.860196+00:00
 -- url     : https://prove2.me/theorems/8763ea42-d642-4f30-af47-63534f745e33

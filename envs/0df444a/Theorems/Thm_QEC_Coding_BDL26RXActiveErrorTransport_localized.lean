@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_localized
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.localized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:04:16.64898+00:00
 -- url     : https://prove2.me/theorems/be473693-c2aa-498a-b369-2d9db2767ce6

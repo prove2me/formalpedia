@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Coverage_one_sided_limit
 -- name    : GenEmpLik.Coverage.one_sided_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:49:02.368824+00:00
 -- url     : https://prove2.me/theorems/1b657e15-0de8-4b96-bea5-233055e8c2ef

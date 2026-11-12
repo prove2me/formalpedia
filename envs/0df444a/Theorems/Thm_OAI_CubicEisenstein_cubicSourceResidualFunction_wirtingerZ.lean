@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSourceResidualFunction_wirtingerZ
 -- name    : OAI.CubicEisenstein.cubicSourceResidualFunction_wirtingerZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:31:38.017338+00:00
 -- url     : https://prove2.me/theorems/d6e4672d-0f04-4aea-b0e1-3d71aadb1a14

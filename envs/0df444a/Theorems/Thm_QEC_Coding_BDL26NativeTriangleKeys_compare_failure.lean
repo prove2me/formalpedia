@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_compare_failure
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.compare_failure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:39:38.797389+00:00
 -- url     : https://prove2.me/theorems/94bb990a-3f6a-4751-8847-4d48520e9f22

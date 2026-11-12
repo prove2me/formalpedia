@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26OwnerIncidenceMasks_componentWithLower_upper_self
 -- name    : QEC.Coding.BDL26OwnerIncidenceMasks.componentWithLower_upper_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:15:52.226052+00:00
 -- url     : https://prove2.me/theorems/461a33a2-ddf7-421a-bc35-69190d9b21be

@@ -1,0 +1,59 @@
+-- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_NativeNumerics_Z2_0_6Probs_sound
+-- name    : OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.Z2_0_6Probs_sound
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-11T14:54:05.104072+00:00
+-- url     : https://prove2.me/theorems/06407761-fa5b-46dd-bc52-cd3d23672b0a
+-- title:
+--   OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.Z2_0_6Probs_sound: intermediate lemma from OpenAI, Staggered extraction for exact matrix multiplication over every field
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.MatrixAllFields.MatrixMultiplication.AllFieldMain.omega_lt_source_constant`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Staggered extraction for exact matrix multiplication over every field*, OpenAI Math Release, September 24, 2026, result family 107, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.Z2_0_6Probs_sound` of [lean/OAI/LinearAlgebra/MatrixFields/Certificates/Four2_0_6.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/LinearAlgebra/MatrixFields/Certificates/Four2_0_6.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics`, with `open scoped BigOperators Topology Polynomial`, `open AllFieldParameters AllFieldHistory AllFieldCertificates AllFieldCertificates.Replay`, `open AllFieldInitialEntropyCertificate AllFieldNativeCapacity`, `open scoped BigOperators`):
+--
+--   ```lean
+--   lemma Z2_0_6Probs_sound (ij : PairSlot) :
+--       (Z2_0_6Probs ij).Encloses (zeroPairLaw (shape 2 0 6) ij.1 ij.2 : ℝ)
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.MatrixAllFields.MatrixMultiplication.AllFieldParameters.PairSlot`, `OAI.MatrixAllFields.MatrixMultiplication.AllFieldParameters.shape`, `OAI.MatrixAllFields.MatrixMultiplication.AllFieldParameters.zeroPairLaw` and `OAI.MatrixAllFields.MatrixMultiplication.AllFieldCertificates.Ball.Encloses` (definitions bundle `OAIQ254M000` of this split); `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.Z2_0_6Probs` (definitions bundle `OAIQ254M007` of this split).
+--
+--   **Used by.** The proofs of `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA2_2_12I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA2_3_11I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA2_4_10I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA2_5_9I2Singles_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA2_6_8I2Singles_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA2_7_7I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA3_3_10I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA3_4_9I2Singles_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA3_5_8I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA3_6_7I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA4_4_8I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA4_5_7I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA4_6_6I2Singleton_sound`, `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA5_5_6I2Singleton_sound` and `OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.Z2_0_6H2Entropy_sound` of this split import it.
+-- source:
+--   OpenAI, Staggered extraction for exact matrix multiplication over every field, OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 107; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/LinearAlgebra/MatrixFields/Certificates/Four2_0_6.lean (declaration OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.Z2_0_6Probs_sound)
+
+import Mathlib
+import Definitions.Def_OAIQ254M007
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace MatrixAllFields
+
+open scoped BigOperators Topology Polynomial
+
+section
+noncomputable section
+namespace MatrixMultiplication.NativeNumerics
+open AllFieldParameters AllFieldHistory AllFieldCertificates AllFieldCertificates.Replay
+open AllFieldInitialEntropyCertificate AllFieldNativeCapacity
+open scoped BigOperators
+lemma Z2_0_6Probs_sound (ij : PairSlot) :
+    (Z2_0_6Probs ij).Encloses (zeroPairLaw (shape 2 0 6) ij.1 ij.2 : ℝ) := by
+  sorry
+
+end MatrixMultiplication.NativeNumerics
+
+end
+end
+
+end MatrixAllFields
+
+end OAI
+end

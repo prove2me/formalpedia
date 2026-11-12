@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_registerXorGate_mem_finiteRegisterGenerators
 -- name    : QEC.Distillation.FiniteRegisterUniversality.registerXorGate_mem_finiteRegisterGenerators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:25:13.686002+00:00
 -- url     : https://prove2.me/theorems/5caeccd0-328e-46e3-9764-a27b04c55757

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_lower_syndrome_weight_le_four
 -- name    : QEC.Coding.BDL26UniformRXTail.lower_syndrome_weight_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:07:28.98388+00:00
 -- url     : https://prove2.me/theorems/aee7bd57-0deb-4da2-ac3d-bb672c5cb8fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierEntropyApprox_theorem_3_2
 -- name    : FourierEntropyApprox.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:46:38.495514+00:00
 -- url     : https://prove2.me/theorems/31fdbaf2-452a-4570-875f-1da16104d63b

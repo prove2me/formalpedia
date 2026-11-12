@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXCohomology_evenCocycle_value
 -- name    : QEC.Coding.BDL26RXCohomology.evenCocycle_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:46:13.742698+00:00
 -- url     : https://prove2.me/theorems/e1b84102-7eb5-4b00-aa68-a19324299aed

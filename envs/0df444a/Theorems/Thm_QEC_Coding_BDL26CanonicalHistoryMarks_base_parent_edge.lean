@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_base_parent_edge
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.base_parent_edge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:03:14.653212+00:00
 -- url     : https://prove2.me/theorems/872b6ab9-8da9-44e4-8123-e5d173e5d015

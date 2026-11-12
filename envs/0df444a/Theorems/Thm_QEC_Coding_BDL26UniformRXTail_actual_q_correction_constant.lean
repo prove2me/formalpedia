@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_q_correction_constant
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_q_correction_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:14:40.112842+00:00
 -- url     : https://prove2.me/theorems/d1609d04-f50a-4413-ac5e-d34dd4290917

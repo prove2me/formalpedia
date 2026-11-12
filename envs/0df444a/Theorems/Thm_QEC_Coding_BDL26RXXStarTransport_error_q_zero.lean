@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXXStarTransport_error_q_zero
 -- name    : QEC.Coding.BDL26RXXStarTransport.error_q_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:43:50.412361+00:00
 -- url     : https://prove2.me/theorems/9a458afe-5657-4296-abff-28593083c8ad

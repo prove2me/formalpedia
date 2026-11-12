@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleeWalkup67_FiveStep_remark_3_4_one_dm2_one
 -- name    : KleeWalkup67.FiveStep.remark_3_4_one_dm2_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:07:06.919459+00:00
 -- url     : https://prove2.me/theorems/8edc8fe2-82ac-42f1-8a8a-093455c7f883

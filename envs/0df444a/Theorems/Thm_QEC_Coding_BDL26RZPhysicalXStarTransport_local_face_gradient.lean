@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_local_face_gradient
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.local_face_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:06:28.689603+00:00
 -- url     : https://prove2.me/theorems/5395f58a-44d6-4326-83ee-a0236843f46c

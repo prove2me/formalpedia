@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_onceRamified_summand
 -- name    : OAI.CubicEisenstein.onceRamified_summand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:50:34.408388+00:00
 -- url     : https://prove2.me/theorems/458005a5-e48f-4888-aadf-51d5c0ce7530

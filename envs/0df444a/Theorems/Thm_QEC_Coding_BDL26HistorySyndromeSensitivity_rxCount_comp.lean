@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistorySyndromeSensitivity_rxCount_comp
 -- name    : QEC.Coding.BDL26HistorySyndromeSensitivity.rxCount_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:58:05.051727+00:00
 -- url     : https://prove2.me/theorems/7b669309-b4f2-4c8f-bc02-7a8673954378

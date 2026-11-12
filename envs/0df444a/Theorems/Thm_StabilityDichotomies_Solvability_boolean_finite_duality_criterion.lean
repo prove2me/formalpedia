@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabilityDichotomies_Solvability_boolean_finite_duality_criterion
 -- name    : StabilityDichotomies.Solvability.boolean_finite_duality_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:39.114216+00:00
 -- url     : https://prove2.me/theorems/f09eff3d-a74c-4408-9436-9d6f62c2c1fe

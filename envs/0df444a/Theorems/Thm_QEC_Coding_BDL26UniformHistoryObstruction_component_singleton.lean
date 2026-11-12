@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_component_singleton
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.component_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:08:22.940849+00:00
 -- url     : https://prove2.me/theorems/34a5836e-6a82-4347-ab5e-fe8c3087ed3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_countedMasterKeyQuery_original
 -- name    : QEC.Coding.BDL26RandomPerturbation.countedMasterKeyQuery_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:10:29.72099+00:00
 -- url     : https://prove2.me/theorems/e8522b4c-d1e8-4f7f-a076-c5d0befaddd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26SectorTranslation_commute_full
 -- name    : QEC.Coding.BDL26SectorTranslation.commute_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:49:39.786767+00:00
 -- url     : https://prove2.me/theorems/3e25ceb3-d00f-412e-9045-ea3e2515ead7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseHistComm_eq_8_covering_distortion
 -- name    : SparseHistComm.eq_8_covering_distortion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:38:18.227445+00:00
 -- url     : https://prove2.me/theorems/f31626e3-2bec-4531-ae49-f8788de97b84

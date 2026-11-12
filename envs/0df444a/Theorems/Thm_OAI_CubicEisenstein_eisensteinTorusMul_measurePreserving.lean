@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_eisensteinTorusMul_measurePreserving
 -- name    : OAI.CubicEisenstein.eisensteinTorusMul_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:51:08.577197+00:00
 -- url     : https://prove2.me/theorems/08cf9d39-3e0b-45e3-90b4-ad4c8e5118d7

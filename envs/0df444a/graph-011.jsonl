@@ -5150,7 +5150,6 @@
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.paymentTimes_min_ofReal_subset_inter_horizon", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.hjb_component_inequalities", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.capped_admissible_hjb_right_dividend_atom_control", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.hjb_component_inequalities", "via": ["solution"]}
@@ -84280,8 +84279,8 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff6.positive_w060_s0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.positive_mgf_eq_implies_tilt_complexMGF_real_ray", "child": "AvramDividend.Classical.exp_tilt_real_mgf_shift", "via": ["solution", "statement"]}
 {"parent": "BS2_b3ba934b_Cert_40_RawPair3_7", "child": "BS2_b3ba934b_Endpoint40NumericData", "via": ["solution", "statement"]}
-{"parent": "QChernoff.Trace.theorem_1", "child": "QAlgorithms_Papers_Independent_Next46_P02", "via": ["statement"]}
-{"parent": "QChernoff.Trace.theorem_1", "child": "QChernoff_Trace_Power", "via": ["statement"]}
+{"parent": "QChernoff.Trace.theorem_1", "child": "QAlgorithms_Papers_Independent_Next46_P02", "via": ["solution", "statement"]}
+{"parent": "QChernoff.Trace.theorem_1", "child": "QChernoff_Trace_Power", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_e1_K_pivs", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_e1_K_pivs", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_e1_PE", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
@@ -87315,9 +87314,9 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.MP01.ric_0_2", "child": "Atlas_EinsteinMaxwell_D_Basic", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.MP01.ric_0_2", "child": "Atlas_EinsteinMaxwell_ES5_Cand_MP01_Defs", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.Cand.MP01.ric_0_2", "child": "Atlas_EinsteinMaxwell_ES5_Defs", "via": ["solution", "statement"]}
-{"parent": "RetroCorr.Separation.q2_exceeds_holevo", "child": "RetroCorr_Separation_Channel", "via": ["statement"]}
-{"parent": "RetroCorr.Separation.q2_exceeds_holevo", "child": "RetroCorr_Separation_TwoWay", "via": ["statement"]}
-{"parent": "RetroCorr.Separation.q2_exceeds_holevo", "child": "RetroCorr_Separation_Holevo", "via": ["statement"]}
+{"parent": "RetroCorr.Separation.q2_exceeds_holevo", "child": "RetroCorr_Separation_Channel", "via": ["solution", "statement"]}
+{"parent": "RetroCorr.Separation.q2_exceeds_holevo", "child": "RetroCorr_Separation_TwoWay", "via": ["solution", "statement"]}
+{"parent": "RetroCorr.Separation.q2_exceeds_holevo", "child": "RetroCorr_Separation_Holevo", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound_retry_2cbac039", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.exists_maximal_planar_supergraph_on_same_vertices", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1103_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}

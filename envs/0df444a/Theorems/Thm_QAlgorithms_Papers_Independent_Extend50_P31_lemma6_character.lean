@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_lemma6_character
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.lemma6_character
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:28:05.332992+00:00
 -- url     : https://prove2.me/theorems/de20f694-7cc7-49f9-bc98-8f9af60cfda4

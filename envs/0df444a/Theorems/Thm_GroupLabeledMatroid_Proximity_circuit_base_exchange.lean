@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupLabeledMatroid_Proximity_circuit_base_exchange
 -- name    : GroupLabeledMatroid.Proximity.circuit_base_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:22.403676+00:00
 -- url     : https://prove2.me/theorems/5e6b9b91-2e50-4993-9a37-7e96a5df3a7f

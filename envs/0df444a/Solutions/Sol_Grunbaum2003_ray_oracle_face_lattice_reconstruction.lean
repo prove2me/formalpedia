@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.ray_oracle_face_lattice_reconstruction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T22:28:42.142293+00:00
 -- url     : https://prove2.me/submissions/666b3e55-8a7d-4c73-80a3-0cb1ab702c52
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsDPolytope
 import Definitions.Def_Grunbaum2003_faceCount

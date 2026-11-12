@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P28_marginalExtremum
 -- name    : QAlgorithms.Papers.Independent.Intake100.P28.marginalExtremum
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:31:58.497518+00:00
 -- url     : https://prove2.me/theorems/dbed18c2-6568-45f7-82f7-e24440ae8f5d

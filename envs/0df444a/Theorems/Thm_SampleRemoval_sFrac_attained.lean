@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleRemoval_sFrac_attained
 -- name    : SampleRemoval.sFrac_attained
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:21:24.584363+00:00
 -- url     : https://prove2.me/theorems/41c5aa4d-bbcb-4826-817e-3b2de7914ac8

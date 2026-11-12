@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_dist_one_exp_le
 -- name    : SKAlgorithm.Qudit.dist_one_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:51.249237+00:00
 -- url     : https://prove2.me/theorems/fd4afbc9-4c02-44db-bcb2-7644b65076ad

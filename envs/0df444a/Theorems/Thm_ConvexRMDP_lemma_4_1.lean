@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexRMDP_lemma_4_1
 -- name    : ConvexRMDP.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:16:12.436006+00:00
 -- url     : https://prove2.me/theorems/7e994e4e-aa24-4a57-93d9-1015186c0e94

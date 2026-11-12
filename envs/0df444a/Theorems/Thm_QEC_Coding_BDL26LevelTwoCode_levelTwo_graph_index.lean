@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoCode_levelTwo_graph_index
 -- name    : QEC.Coding.BDL26LevelTwoCode.levelTwo_graph_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:24:41.488627+00:00
 -- url     : https://prove2.me/theorems/0df41ec6-b83a-4c4e-ac61-db864a94c893

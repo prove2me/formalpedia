@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_hDirectionFidelity_phase
 -- name    : QEC.Distillation.OneQubitMagic.hDirectionFidelity_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:11:17.024973+00:00
 -- url     : https://prove2.me/theorems/4bb99fb9-befa-4930-8804-cd2b338596bf

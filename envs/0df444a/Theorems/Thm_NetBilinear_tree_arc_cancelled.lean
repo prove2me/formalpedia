@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetBilinear_tree_arc_cancelled
 -- name    : NetBilinear.tree_arc_cancelled
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:43:06.649508+00:00
 -- url     : https://prove2.me/theorems/16f75f36-b98d-44ec-9030-c12cb14cc313

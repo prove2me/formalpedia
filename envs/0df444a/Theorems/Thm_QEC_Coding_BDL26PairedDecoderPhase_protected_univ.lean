@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_protected_univ
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.protected_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:58:10.603067+00:00
 -- url     : https://prove2.me/theorems/2e2fad96-54bb-4705-a35a-6f449d3dd862

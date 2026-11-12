@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P24_compatibility_implies_positive_difference
 -- name    : QAlgorithms.Papers.Independent.Intake100.P24.compatibility_implies_positive_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:16:41.732729+00:00
 -- url     : https://prove2.me/theorems/9f516449-c38d-4167-b44d-8276d072a4ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_materializeRows_cost_le
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.materializeRows_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:44:45.901827+00:00
 -- url     : https://prove2.me/theorems/c908456f-7c4c-49ef-8a71-cea725d9e775

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_KT19VanishingOverhead_kt19FixedPrimeExpectedYield_pos
 -- name    : QEC.Distillation.KT19VanishingOverhead.kt19FixedPrimeExpectedYield_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:18:04.033212+00:00
 -- url     : https://prove2.me/theorems/933930e2-841a-448e-8029-2ab8f1b8f2e5

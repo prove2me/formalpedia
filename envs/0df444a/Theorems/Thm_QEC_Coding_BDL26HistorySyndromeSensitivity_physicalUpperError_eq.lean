@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistorySyndromeSensitivity_physicalUpperError_eq
 -- name    : QEC.Coding.BDL26HistorySyndromeSensitivity.physicalUpperError_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:29:02.775008+00:00
 -- url     : https://prove2.me/theorems/75777dd1-848f-4771-b9f4-68e4e0c66042

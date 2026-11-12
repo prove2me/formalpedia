@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_DBar_theorem8
 -- name    : StochIneqPO.DBar.theorem8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:31.236213+00:00
 -- url     : https://prove2.me/theorems/70e74d5a-918e-405e-b94a-e5ddaf13c5e4

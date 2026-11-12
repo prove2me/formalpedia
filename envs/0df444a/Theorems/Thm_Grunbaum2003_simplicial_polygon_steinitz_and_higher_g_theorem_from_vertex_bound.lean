@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_polygon_steinitz_and_higher_g_theorem_from_vertex_bound
 -- name    : Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_from_vertex_bound
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T01:30:23.662743+00:00
 -- url     : https://prove2.me/theorems/94fef9f4-1ccd-463e-b656-d0ad12de71fa

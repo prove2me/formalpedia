@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_actualHistory_component_mask_counterexample
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.actualHistory_component_mask_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:02:13.9262+00:00
 -- url     : https://prove2.me/theorems/ad289181-4e24-45f0-b533-f4ca0a877078

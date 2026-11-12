@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_KT19VanishingOverhead_kt19FixedPrimeExpectedYield_five_sixths_le
 -- name    : QEC.Distillation.KT19VanishingOverhead.kt19FixedPrimeExpectedYield_five_sixths_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:17:47.024502+00:00
 -- url     : https://prove2.me/theorems/572d790a-697a-4661-a4b3-fddababca961

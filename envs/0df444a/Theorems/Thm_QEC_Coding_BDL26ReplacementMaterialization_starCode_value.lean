@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_starCode_value
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.starCode_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:10:07.28645+00:00
 -- url     : https://prove2.me/theorems/3ed5a8a4-73e6-42d4-ae46-d86801c7d30b

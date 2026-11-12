@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_stageCost_nonhalting
 -- name    : QEC.Coding.BDL26PaidRowsComposition.stageCost_nonhalting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:32:16.889426+00:00
 -- url     : https://prove2.me/theorems/6f075283-bca3-4709-befe-50939f4b043d

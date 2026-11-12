@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLCDiscrepancy_theorem_2_4_translation_family
 -- name    : RLCDiscrepancy.theorem_2_4_translation_family
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:53:30.57616+00:00
 -- url     : https://prove2.me/theorems/496da0bb-c7b4-4658-b590-def6304d7b42

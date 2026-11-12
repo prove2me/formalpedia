@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResistanceRigidity_AverageLaw_eq_7
 -- name    : ResistanceRigidity.AverageLaw.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:06:26.609403+00:00
 -- url     : https://prove2.me/theorems/3e57909d-6591-48ee-a95f-7c39c31722ca

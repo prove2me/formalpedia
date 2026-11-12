@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubspaceEvasion312_Explicit_condenser_recovery
 -- name    : SubspaceEvasion312.Explicit.condenser_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:58:45.746213+00:00
 -- url     : https://prove2.me/theorems/bebdbab0-3753-41b2-98d2-1799774a2591

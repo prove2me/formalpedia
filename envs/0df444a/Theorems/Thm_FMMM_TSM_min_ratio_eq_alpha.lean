@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FMMM_TSM_min_ratio_eq_alpha
 -- name    : FMMM.TSM.min_ratio_eq_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:29:06.229989+00:00
 -- url     : https://prove2.me/theorems/8db15231-2697-40a2-bee5-214e6eeb3632

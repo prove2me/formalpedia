@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_component_edge_bound_aggregation__p2m_ca990ca2_90e1_475e_969d_4e2c10201187_a3
 -- name    : WilliamsonShmoys.component_edge_bound_aggregation__p2m_ca990ca2_90e1_475e_969d_4e2c10201187_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T06:13:22.765966+00:00
 -- url     : https://prove2.me/theorems/4ae72016-0cf1-4754-9ecd-3561950d201b

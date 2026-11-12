@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFCLiquidation_completion_of_squares
 -- name    : MFCLiquidation.completion_of_squares
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:25:18.43333+00:00
 -- url     : https://prove2.me/theorems/1e1d4294-8b1a-421a-9060-e4270429463f

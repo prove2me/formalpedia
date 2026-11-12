@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_collisionCoefficient_classicalCompatibility
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.collisionCoefficient_classicalCompatibility
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:20:21.197218+00:00
 -- url     : https://prove2.me/theorems/5200b2ac-a08a-4f8a-b32f-cd41c8362359

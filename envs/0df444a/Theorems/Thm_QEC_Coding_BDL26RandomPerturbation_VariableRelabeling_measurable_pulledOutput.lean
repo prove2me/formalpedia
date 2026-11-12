@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_VariableRelabeling_measurable_pulledOutput
 -- name    : QEC.Coding.BDL26RandomPerturbation.VariableRelabeling.measurable_pulledOutput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:21:31.376458+00:00
 -- url     : https://prove2.me/theorems/294bfdc0-dbe6-4a3f-b509-55c8924d479b

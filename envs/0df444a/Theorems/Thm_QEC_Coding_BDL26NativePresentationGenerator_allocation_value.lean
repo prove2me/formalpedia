@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_allocation_value
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.allocation_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:51:59.154944+00:00
 -- url     : https://prove2.me/theorems/e63cd838-089e-4621-bff8-87d4085c4722

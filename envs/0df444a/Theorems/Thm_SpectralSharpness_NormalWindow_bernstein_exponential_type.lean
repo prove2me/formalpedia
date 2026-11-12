@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSharpness_NormalWindow_bernstein_exponential_type
 -- name    : SpectralSharpness.NormalWindow.bernstein_exponential_type
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:21:17.941782+00:00
 -- url     : https://prove2.me/theorems/05e41b3f-b70e-408e-9701-597224205859

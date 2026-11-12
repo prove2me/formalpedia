@@ -1,0 +1,1328 @@
+-- Prove2me | solution 1 for OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.rightKernel_heq
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-11T08:18:18.666196+00:00
+-- url     : https://prove2.me/submissions/4fd2b1df-2d92-45a6-8343-63e632692886
+
+import Lean.Elab.Tactic.Omega
+import Mathlib
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Intervals
+import Mathlib.Algebra.BigOperators.Module
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Two
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Equiv.Defs
+import Mathlib.Algebra.Group.Fin.Basic
+import Mathlib.Algebra.Module.LinearMap.Basic
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Projective
+import Mathlib.Algebra.Module.Torsion.Field
+import Mathlib.Algebra.Module.TransferInstance
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Expect
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.BigOperators.Ring.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Field.Rat
+import Mathlib.Algebra.Order.Floor.Ring
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Algebra.Ring.Parity
+import Mathlib.Analysis.Convex.SpecificFunctions.Basic
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Computability.Encoding
+import Mathlib.Computability.TuringMachine.Computable
+import Mathlib.Computability.TuringMachine.StackTuringMachine
+import Mathlib.Data.Fin.Basic
+import Mathlib.Data.Fin.Embedding
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Piecewise
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Fin
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sigma
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.Nat.Cast.Field
+import Mathlib.Data.Nat.Factorial.Basic
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Rat.BigOperators
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Rat.Floor
+import Mathlib.Data.Rat.Lemmas
+import Mathlib.Data.Set.Disjoint
+import Mathlib.Data.ZMod.Basic
+import Mathlib.FieldTheory.Finiteness
+import Mathlib.GroupTheory.GroupAction.Basic
+import Mathlib.GroupTheory.Index
+import Mathlib.LinearAlgebra.Basis.Defs
+import Mathlib.LinearAlgebra.Basis.VectorSpace
+import Mathlib.LinearAlgebra.BilinearMap
+import Mathlib.LinearAlgebra.Contraction
+import Mathlib.LinearAlgebra.DFinsupp
+import Mathlib.LinearAlgebra.Dimension.Constructions
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Dimension.Finrank
+import Mathlib.LinearAlgebra.Dimension.Free
+import Mathlib.LinearAlgebra.Dimension.FreeAndStrongRankCondition
+import Mathlib.LinearAlgebra.Dual.Defs
+import Mathlib.LinearAlgebra.Dual.Lemmas
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Defs
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.FreeModule.Finite.Matrix
+import Mathlib.LinearAlgebra.Isomorphisms
+import Mathlib.LinearAlgebra.LinearIndependent.Defs
+import Mathlib.LinearAlgebra.LinearPMap
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.Pi
+import Mathlib.LinearAlgebra.Prod
+import Mathlib.LinearAlgebra.Projection
+import Mathlib.LinearAlgebra.Quotient.Basic
+import Mathlib.LinearAlgebra.Quotient.Card
+import Mathlib.LinearAlgebra.Span.Basic
+import Mathlib.LinearAlgebra.TensorProduct.Associator
+import Mathlib.LinearAlgebra.TensorProduct.Basic
+import Mathlib.LinearAlgebra.TensorProduct.Finiteness
+import Mathlib.LinearAlgebra.Trace
+import Mathlib.Logic.Equiv.Basic
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Logic.Equiv.Fintype
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Equiv.Sum
+import Mathlib.Logic.Function.Basic
+import Mathlib.Logic.Function.Iterate
+import Mathlib.RingTheory.Finiteness.Basic
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Choose
+import Mathlib.Tactic.DeriveFintype
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Tauto
+import Std
+import Definitions.Def_OAIQ252P017
+import Theorems.Thm_OAI_PerfectCompleteness_CleanNativeReplay_rightArrays_heq
+import Theorems.Thm_OAI_PerfectCompleteness_CleanNativeReplay_rightReplay_heq
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Sampling_UniformLatentSupportLemmas
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.ownFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.assembledFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.childFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instDecidableEqTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeDecidableEq _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+attribute [-simp] _root_.OAI.PerfectCompleteness.BoundedListSampling.jointLaw_weight _root_.OAI.PerfectCompleteness.BoundedListSampling.listLaw_empty_weight _root_.OAI.PerfectCompleteness.CanonicalLocalCompletion.family_map _root_.OAI.PerfectCompleteness.CanonicalLocalCompletion.family_size _root_.OAI.PerfectCompleteness.CanonicalNamedGame.completed_left _root_.OAI.PerfectCompleteness.CanonicalNamedGame.completed_right _root_.OAI.PerfectCompleteness.CanonicalNamedGame.rename_occurrences _root_.OAI.PerfectCompleteness.FinitePreliminaryCompletion.family_map _root_.OAI.PerfectCompleteness.FinitePreliminaryCompletion.family_size _root_.OAI.PerfectCompleteness.LevelPairCounting.pairProbability_self _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareComponent_other _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareComponent_self _root_.OAI.PerfectCompleteness.SourceChildKernelLaw.physical_inl _root_.OAI.PerfectCompleteness.SourceChildKernelLaw.physical_inr _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringGlobalConfiguration.boolList_mpr_eq
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+
+namespace PerfectCompleteness.UniformLatentSupport
+
+noncomputable section
+
+open scoped BigOperators Classical
+open UniqueGamesTheorem.Foundations.Games
+
+section Latent
+
+variable {S J D : Type*} [Fintype S] [Fintype J] [DecidableEq J] [Fintype D]
+  (Ω : S → J → Type*) [∀ s j, Fintype (Ω s j)] [∀ s j, Nonempty (Ω s j)]
+
+theorem latentKernel_weight_zero_of_tag_ne (s : S) (raw : UniformLatent.Raw Ω)
+    (hne : raw.1 ≠ s) : (UniformLatent.latentKernel Ω s).weight raw = 0 := by
+  simp only [UniformLatent.latentKernel, FiniteDistribution.pushforward]
+  apply Finset.sum_eq_zero
+  intro x _
+  have hx : (⟨s, x⟩ : UniformLatent.Raw Ω) ≠ raw := by
+    intro h
+    exact hne (congrArg (fun z : UniformLatent.Raw Ω => z.1) h).symm
+  simp only [ite_eq_right hx]
+
+theorem latentKernel_tag (s : S) (raw : UniformLatent.Raw Ω)
+    (hraw : (UniformLatent.latentKernel Ω s).weight raw ≠ 0) : raw.1 = s := by
+  by_contra hne
+  exact hraw (latentKernel_weight_zero_of_tag_ne Ω s raw hne)
+
+theorem projectedKernel_weight_inr (flag : FiniteDistribution Bool)
+    (nonprojected : S → FiniteDistribution D) (s : S) (raw : UniformLatent.Raw Ω) :
+    (UniformLatent.projectedKernel Ω flag nonprojected s).weight (Sum.inr raw) =
+      flag.weight true * (UniformLatent.latentKernel Ω s).weight raw := by
+  simp [UniformLatent.projectedKernel, FiniteDistribution.mixture,
+    FiniteDistribution.pushforward]
+
+theorem projectedKernel_tag (flag : FiniteDistribution Bool)
+    (nonprojected : S → FiniteDistribution D) (s : S) (raw : UniformLatent.Raw Ω)
+    (hraw : (UniformLatent.projectedKernel Ω flag nonprojected s).weight (Sum.inr raw) ≠ 0) :
+    raw.1 = s := by
+  apply latentKernel_tag Ω s raw
+  intro hz
+  apply hraw
+  rw [projectedKernel_weight_inr, hz, mul_zero]
+
+end Latent
+
+
+variable {I : Type*} [Fintype I] [DecidableEq I]
+  {E R J D : I → Type*}
+  [∀ i, Fintype (E i)] [∀ i, Fintype (R i)] [∀ i, Fintype (J i)] [∀ i, Fintype (D i)]
+  [∀ i, DecidableEq (E i)] [∀ i, DecidableEq (R i)]
+  [∀ i, DecidableEq (J i)] [∀ i, DecidableEq (D i)]
+  (Ω : (i : I) → (E i × R i) → J i → Type*)
+  [∀ i s j, Fintype (Ω i s j)] [∀ i s j, Nonempty (Ω i s j)]
+  [∀ i s j, DecidableEq (Ω i s j)]
+  (μ : (i : I) → FiniteDistribution (E i))
+  (ν : (i : I) → FiniteDistribution (R i))
+  (flag : (i : I) → FiniteDistribution Bool)
+  (nonprojected : (i : I) → E i × R i → FiniteDistribution (D i))
+
+omit [Fintype I] [DecidableEq I] [∀ i, DecidableEq (E i)] [∀ i, DecidableEq (R i)]
+  [∀ i, DecidableEq (D i)] [∀ i s j, DecidableEq (Ω i s j)] in
+theorem childLaw_weight (i : I)
+    (x : E i × (R i × UniformCleanSources.ChildRaw (D := D) Ω i)) :
+    (childLaw Ω μ ν flag nonprojected i).weight x =
+      (μ i).weight x.1 * ((ν i).weight x.2.1 *
+        (UniformLatent.projectedKernel (Ω i) (flag i) (nonprojected i) (x.1, x.2.1)).weight
+          x.2.2) := rfl
+
+omit [∀ i, DecidableEq (E i)] [∀ i, DecidableEq (R i)]
+  [∀ i, DecidableEq (D i)] [∀ i s j, DecidableEq (Ω i s j)] in
+theorem childrenLaw_child_weight_ne_zero
+    (x : (i : I) → E i × (R i × UniformCleanSources.ChildRaw (D := D) Ω i))
+    (hx : (UniformCleanSources.childrenLaw Ω μ ν flag nonprojected).weight x ≠ 0)
+    (i : I) : (childLaw Ω μ ν flag nonprojected i).weight (x i) ≠ 0 := by
+  intro hz
+  apply hx
+  change (∏ j, (childLaw Ω μ ν flag nonprojected j).weight (x j)) = 0
+  exact Finset.prod_eq_zero (Finset.mem_univ i) hz
+
+end
+end PerfectCompleteness.UniformLatentSupport
+
+
+
+namespace PerfectCompleteness.NativeTaggedUniform
+
+noncomputable section
+
+open scoped BigOperators Classical
+open UniqueGamesTheorem.Foundations.Games
+
+section Native
+
+variable {S : Type*} [Fintype S] [DecidableEq S]
+  (Native : S → Type*) [∀ s, Fintype (Native s)] [∀ s, Nonempty (Native s)]
+
+omit [DecidableEq S] in
+theorem kernel_weight_zero_of_tag_ne (s : S) (raw : Raw Native) (hne : raw.1 ≠ s) :
+    (kernel Native s).weight raw = 0 := by
+  unfold kernel FiniteDistribution.pushforward
+  apply Finset.sum_eq_zero
+  intro x _
+  have hx : (⟨s, x⟩ : Raw Native) ≠ raw := by
+    intro h
+    exact hne (congrArg (fun z : Raw Native => z.1) h).symm
+  exact ite_eq_right hx
+
+theorem kernel_tag (s : S) (raw : Raw Native)
+    (hraw : (kernel Native s).weight raw ≠ 0) : raw.1 = s := by
+  by_contra hne
+  exact hraw (kernel_weight_zero_of_tag_ne Native s raw hne)
+
+end Native
+
+section Projection
+
+variable {S J : Type*} [Fintype S] [DecidableEq S] [Fintype J] [DecidableEq J]
+  (Native : S → Type*) [∀ s, Fintype (Native s)] [∀ s, Nonempty (Native s)]
+  (Ω : S → J → Type*) [∀ s j, Fintype (Ω s j)] [∀ s j, Nonempty (Ω s j)]
+
+theorem projectedKernel_weight_inl (flag : FiniteDistribution Bool) (s : S)
+    (raw : Raw Native) :
+    (UniformLatent.projectedKernel Ω flag (kernel Native) s).weight (.inl raw) =
+      flag.weight false * (kernel Native s).weight raw := by
+  simp [UniformLatent.projectedKernel, FiniteDistribution.mixture,
+    FiniteDistribution.pushforward]
+
+theorem projectedKernel_sourceTag (flag : FiniteDistribution Bool) (s : S)
+    (raw : Raw Native ⊕ UniformLatent.Raw Ω)
+    (hraw : (UniformLatent.projectedKernel Ω flag (kernel Native) s).weight raw ≠ 0) :
+    sourceTag Native Ω raw = s := by
+  cases raw with
+  | inl raw =>
+      apply kernel_tag Native s raw
+      intro hz
+      apply hraw
+      rw [projectedKernel_weight_inl, hz, mul_zero]
+  | inr raw =>
+      exact UniformLatentSupport.projectedKernel_tag Ω flag (kernel Native) s raw hraw
+
+end Projection
+
+
+variable {I : Type*} [Fintype I] [DecidableEq I]
+  {E R J : I → Type*}
+  [∀ i, Fintype (E i)] [∀ i, Fintype (R i)] [∀ i, Fintype (J i)]
+  [∀ i, DecidableEq (E i)] [∀ i, DecidableEq (R i)] [∀ i, DecidableEq (J i)]
+  (Native : (i : I) → E i × R i → Type*)
+  [∀ i s, Fintype (Native i s)] [∀ i s, Nonempty (Native i s)]
+  (Ω : (i : I) → (E i × R i) → J i → Type*)
+  [∀ i s j, Fintype (Ω i s j)] [∀ i s j, Nonempty (Ω i s j)]
+  [∀ i s j, DecidableEq (Ω i s j)]
+  (μ : (i : I) → FiniteDistribution (E i))
+  (ν : (i : I) → FiniteDistribution (R i))
+  (flag : (i : I) → FiniteDistribution Bool)
+
+omit [Fintype I] [DecidableEq I] [∀ i s j, DecidableEq (Ω i s j)] in
+theorem childLaw_sourceTag (i : I)
+    (x : E i × (R i × UniformCleanSources.ChildRaw (D := fun i => Raw (Native i)) Ω i))
+    (hx : (UniformLatentSupport.childLaw Ω μ ν flag (fun i => kernel (Native i)) i).weight
+      x ≠ 0) :
+    sourceTag (Native i) (Ω i) x.2.2 = (x.1, x.2.1) := by
+  apply projectedKernel_sourceTag (Native i) (Ω i) (flag i) (x.1, x.2.1) x.2.2
+  intro hz
+  apply hx
+  rw [UniformLatentSupport.childLaw_weight, hz, mul_zero, mul_zero]
+
+omit [∀ i s j, DecidableEq (Ω i s j)] in
+theorem childrenLaw_sourceTag
+    (x : (i : I) → E i ×
+      (R i × UniformCleanSources.ChildRaw (D := fun i => Raw (Native i)) Ω i))
+    (hx : (UniformCleanSources.childrenLaw Ω μ ν flag (fun i => kernel (Native i))).weight
+      x ≠ 0) (i : I) :
+    sourceTag (Native i) (Ω i) (x i).2.2 = ((x i).1, (x i).2.1) :=
+  childLaw_sourceTag Native Ω μ ν flag i (x i)
+    (UniformLatentSupport.childrenLaw_child_weight_ne_zero Ω μ ν flag
+      (fun i => kernel (Native i)) x hx i)
+
+end
+end PerfectCompleteness.NativeTaggedUniform
+
+
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Construction_SourceChildKernelLemmas
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.ownFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CutSamplerRefinement.refinedFinite _root_.OAI.PerfectCompleteness.CutSamplerRefinement.refinedFintype _root_.OAI.PerfectCompleteness.CutSamplerRefinement.refinedNonempty _root_.OAI.PerfectCompleteness.CutTerminalSplit.childSquareFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorFintype _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorNonempty _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeFintype _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeNonempty _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instDecidableEqTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeDecidableEq _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.SourceChildKernel
+
+open scoped BigOperators Classical
+open UniqueGamesTheorem.Foundations.Games
+open RecursiveSpaces TreeSourceSpaces PointwiseSpaces HierarchicalArrays
+open SourceQuestionReconstruction
+
+noncomputable section
+
+variable {branch : Nat → Nat} {n t v m : Nat} {C : Type*} [Fintype C]
+
+variable (rows : Nat → Nat) (clauses : Fin m → SourceClause.NormalizedClause v)
+  (designated : Fin (branch n) → Slots branch n)
+
+theorem projectedEquiv_zero (i : Fin (branch n)) (s : Source (m := m) (t := t) designated i) :
+    projectedEquiv (C := C) (t := t) rows clauses designated i s (zero (C := C) (t := t) rows clauses designated i s) =
+      zeroBlock rows (ProjectedCardinality.projectedSlots (ids clauses designated i s)) := rfl
+
+theorem decodeRight_clean (i : Fin (branch n)) (s : Source (m := m) (t := t) designated i)
+    (raw : Raw (C := C) (t := t) rows clauses designated i)
+    (htag : rawTag rows clauses designated i raw = s)
+    (hclean : UniformLatent.projectedZero (Factors (C := C) (t := t) rows clauses designated i)
+      (zero (C := C) (t := t) rows clauses designated i) raw = true) :
+    decodeRight rows clauses designated i s raw =
+      zeroBlock rows (mixedSlots clauses designated i s
+        (rawProjected rows clauses designated i raw)) := by
+  cases raw with
+  | inl raw =>
+      simp only [UniformLatent.projectedZero, Bool.false_eq_true] at hclean
+  | inr raw =>
+      rcases raw with ⟨tag, values⟩
+      change tag = s at htag
+      subst tag
+      change decide (∀ j, values j = zero (C := C) (t := t) rows clauses designated i s j) = true at hclean
+      have hvalues : values = zero (C := C) (t := t) rows clauses designated i s :=
+        funext (of_decide_eq_true hclean)
+      change decodeProjected rows clauses designated i s ⟨s, values⟩ = _
+      rw [hvalues, decodeProjected_tagged]
+      exact projectedEquiv_zero (C := C) (t := t) rows clauses designated i s
+
+theorem childrenLaw_tag (μ : Fin (branch n) → FiniteDistribution (SourceTuple m t))
+    (ν : (i : Fin (branch n)) → FiniteDistribution (Rest (m := m) (t := t) designated i))
+    (flag : Fin (branch n) → FiniteDistribution Bool)
+    (x : Sample (C := C) (t := t) rows clauses designated)
+    (hx : (childrenLaw rows clauses designated μ ν flag).weight x ≠ 0) (i : Fin (branch n)) :
+    rawTag rows clauses designated i (x i).2.2 = ((x i).1, (x i).2.1) :=
+  NativeTaggedUniform.childrenLaw_sourceTag
+    (Native (C := C) (t := t) rows clauses designated) (Factors (C := C) (t := t) rows clauses designated)
+    μ ν flag x hx i
+
+theorem childrenLaw_clean_zero
+    (μ : Fin (branch n) → FiniteDistribution (SourceTuple m t))
+    (ν : (i : Fin (branch n)) → FiniteDistribution (Rest (m := m) (t := t) designated i))
+    (flag : Fin (branch n) → FiniteDistribution Bool)
+    (x : Sample (C := C) (t := t) rows clauses designated)
+    (hx : (childrenLaw rows clauses designated μ ν flag).weight x ≠ 0)
+    (i : Fin (branch n))
+    (hclean : UniformCleanSources.childClean (Factors (C := C) (t := t) rows clauses designated)
+      (zero (C := C) (t := t) rows clauses designated) i (x i).1 (x i).2.1 (x i).2.2 = true) :
+    decodeRight rows clauses designated i ((x i).1, (x i).2.1) (x i).2.2 =
+      zeroBlock rows (mixedSlots clauses designated i ((x i).1, (x i).2.1)
+        (rawProjected rows clauses designated i (x i).2.2)) :=
+  decodeRight_clean rows clauses designated i ((x i).1, (x i).2.1) (x i).2.2
+    (childrenLaw_tag rows clauses designated μ ν flag x hx i) hclean
+
+end
+end PerfectCompleteness.SourceChildKernel
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Sampling_CutSamplerLocality
+attribute [-instance] _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawNonempty _root_.OAI.PerfectCompleteness.ChildBlockProjection.liftedRangeFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CleanTreeFactors.rawFintype _root_.OAI.PerfectCompleteness.CleanTreeFactors.rawNonempty _root_.OAI.PerfectCompleteness.CutChildCleanLaw.rawFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.assembledFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.childFintype _root_.OAI.PerfectCompleteness.CutTerminalSplit.childSquareFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalCutCalls.indexFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorDecidableEq _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorFinite _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorFintype _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorNonempty _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childFamilyFinite _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryDrawFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockNonempty _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype _root_.OAI.PerfectCompleteness.TerminalCalls.terminalIndexDecidableEq _root_.OAI.PerfectCompleteness.TerminalCalls.terminalIndexFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.spaceFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.stepFactorFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.tapeFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.tapeNonempty _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty _root_.OAI.PerfectCompleteness.WholeCutCalls.indexFintype _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorFintype _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorNonempty _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeFintype _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeNonempty
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.CutSamplerLocality
+
+open scoped BigOperators Classical
+open RecursiveSpaces DescendantSpaces RecursiveSampler PointwiseSpaces
+open CutSamplerRefinement
+
+noncomputable section
+
+universe u w
+
+variable {branch : Nat → Nat} {n m : Nat}
+
+theorem evaluate_refl (𝕜 : Type w) [Field 𝕜] (repeats : Nat → Nat)
+    (A : Slots branch (m + 1) → Type u)
+    (tape : CutSamplerRefinement.Tape 𝕜 repeats (.refl (m + 1)) A) :
+    CutSamplerRefinement.evaluate 𝕜 repeats (.refl (m + 1)) A tape =
+      UniformChildSum.recursiveSum A (tape ()) := rfl
+
+theorem evaluate_step (𝕜 : Type w) [Field 𝕜] (repeats : Nat → Nat)
+    (i : Fin (branch n)) (p : Path branch n m)
+    (A : Slots branch (n + 1) → Type u)
+    (tape : CutSamplerRefinement.Tape 𝕜 repeats (.step i p) A) :
+    CutSamplerRefinement.evaluate 𝕜 repeats (.step i p) A tape =
+      RecursiveSampler.combine 𝕜 A i (repeats (n + 1))
+        (fun j => tape (Sum.inl j))
+        (fun h => CutSamplerRefinement.evaluate 𝕜 repeats p (childFamily A i)
+          (subTape 𝕜 repeats i p A tape h false))
+        (fun h => CutSamplerRefinement.evaluate 𝕜 repeats p (childFamily A i)
+          (subTape 𝕜 repeats i p A tape h true)) := rfl
+
+end
+end PerfectCompleteness.CutSamplerLocality
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Foundations_CutTerminalZero
+attribute [-instance] _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawNonempty _root_.OAI.PerfectCompleteness.ChildBlockProjection.liftedRangeFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CleanTreeFactors.rawFintype _root_.OAI.PerfectCompleteness.CleanTreeFactors.rawNonempty _root_.OAI.PerfectCompleteness.CutChildCleanLaw.rawFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.assembledFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.childFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalCutCalls.indexFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorDecidableEq _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorFinite _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorFintype _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorNonempty _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childFamilyFinite _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryDrawFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockNonempty _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.spaceFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.tapeFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.tapeNonempty _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty _root_.OAI.PerfectCompleteness.WholeCutCalls.indexFintype _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorFintype _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorNonempty _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeFintype _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeNonempty
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.CutTerminalZero
+
+open RecursiveSpaces DescendantSpaces RecursiveSampler TerminalCalls
+open scoped Classical
+
+noncomputable section
+
+universe u w
+
+variable {branch : Nat → Nat} {n m : Nat}
+  (𝕜 : Type w) [Field 𝕜] (repeats : Nat → Nat)
+
+theorem splitTape_terminal_step (i : Fin (branch n))
+    (p : Path branch n (m + 1)) (A : Slots branch (n + 1) → Type u)
+    (tape : CutSamplerRefinement.Tape 𝕜 repeats (.step i p) A)
+    (h : Fin (repeats (n + 1))) (b : Bool) (terminal : TerminalIndex repeats p) :
+    (CutTerminalSplit.splitTape 𝕜 repeats (.step i p) A tape).1 ((h, b), terminal) =
+      (CutTerminalSplit.splitTape 𝕜 repeats p (childFamily A i)
+        (CutSamplerLocality.subTape 𝕜 repeats i p A tape h b)).1 terminal := by
+  simp only [CutTerminalSplit.splitTape_terminal_apply]
+  rfl
+
+theorem zeroAtClean_iff (p : Path branch n (m + 1)) :
+    ∀ (A : Slots branch n → Type u) (clean : Fin (branch m) → Prop)
+      (tape : CutSamplerRefinement.Tape 𝕜 repeats p A),
+      (∀ terminal i, clean i →
+        (CutTerminalSplit.splitTape 𝕜 repeats p A tape).1 terminal i = 0) ↔
+      CutSamplerLocality.ZeroAtClean 𝕜 repeats p A clean tape := by
+  induction n generalizing m with
+  | zero =>
+      have h := p.height_le
+      omega
+  | succ n ih =>
+      cases p with
+      | refl =>
+          intro A clean tape
+          constructor
+          · intro hzero i hi
+            exact hzero () i hi
+          · intro hzero terminal i hi
+            cases terminal
+            exact hzero i hi
+      | step i p =>
+          intro A clean tape
+          constructor
+          · intro hzero h b
+            apply (ih p (childFamily A i) clean
+              (CutSamplerLocality.subTape 𝕜 repeats i p A tape h b)).mp
+            intro terminal j hj
+            apply Subtype.ext
+            have hread := congrArg
+              (fun f : CutTerminalSplit.TerminalFactor 𝕜 (.step i p) A => (f j).val)
+              (splitTape_terminal_step 𝕜 repeats i p A tape h b terminal)
+            exact hread.symm.trans (congrArg Subtype.val (hzero ((h, b), terminal) j hj))
+          · intro hzero terminal j hj
+            rcases terminal with ⟨⟨h, b⟩, terminal⟩
+            have hsub := (ih p (childFamily A i) clean
+              (CutSamplerLocality.subTape 𝕜 repeats i p A tape h b)).mpr (hzero h b)
+            apply Subtype.ext
+            have hread := congrArg
+              (fun f : CutTerminalSplit.TerminalFactor 𝕜 (.step i p) A => (f j).val)
+              (splitTape_terminal_step 𝕜 repeats i p A tape h b terminal)
+            exact hread.trans (congrArg Subtype.val (hsub terminal j hj))
+
+end
+end PerfectCompleteness.CutTerminalZero
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Sampling_CutSamplerKeyLocalityLemmas
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawNonempty _root_.OAI.PerfectCompleteness.ChildBlockProjection.liftedRangeFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.ownFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CleanTreeFactors.rawFintype _root_.OAI.PerfectCompleteness.CleanTreeFactors.rawNonempty _root_.OAI.PerfectCompleteness.CutChildCleanLaw.rawFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.assembledFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.childFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalCutCalls.indexFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorDecidableEq _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorFinite _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorFintype _root_.OAI.PerfectCompleteness.ProjectedCardinality.factorNonempty _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childFamilyFinite _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryDrawFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceAnswerEquiv.rightDomainDecidableEq _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockNonempty _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.spaceFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.stepFactorFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.tapeFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.tapeNonempty _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty _root_.OAI.PerfectCompleteness.WholeCutCalls.indexFintype _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorFintype _root_.OAI.PerfectCompleteness.WholeCutGrouping.exteriorNonempty _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeFintype _root_.OAI.PerfectCompleteness.WholeCutSampler.tapeNonempty _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instDecidableEqTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeDecidableEq _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+
+
+namespace PerfectCompleteness.CutSamplerReplay
+
+open scoped BigOperators Classical
+open RecursiveSpaces DescendantSpaces RecursiveSampler PointwiseSpaces
+
+noncomputable section
+
+universe u w
+
+variable {branch : Nat → Nat} {n m : Nat}
+
+theorem evaluate_refl (𝕜 : Type w) [Field 𝕜] (repeats : Nat → Nat)
+    (A : Slots branch (m + 1) → Type u) (clean : Fin (branch m) → Prop)
+    (tape : Tape 𝕜 repeats (.refl (m + 1)) A clean) (x : Assignment A) :
+    evaluate 𝕜 repeats (.refl (m + 1)) A clean tape x =
+      ∑ i : {i : Fin (branch m) // ¬ clean i}, (tape i).val (childRestriction A i.val x) := rfl
+
+theorem evaluate_step (𝕜 : Type w) [Field 𝕜] (repeats : Nat → Nat)
+    (i : Fin (branch n)) (p : Path branch n (m + 1))
+    (A : Slots branch (n + 1) → Type u) (clean : Fin (branch m) → Prop)
+    (tape : Tape 𝕜 repeats (.step i p) A clean) (x : Assignment A) :
+    evaluate 𝕜 repeats (.step i p) A clean tape x =
+      (∑ j : OffPath i, (tape.1 j).val (childRestriction A j.val x)) +
+        ∑ h : Fin (repeats (n + 1)),
+          evaluate 𝕜 repeats p (childFamily A i) clean (tape.2 (h, false)) (childRestriction A i x) *
+            evaluate 𝕜 repeats p (childFamily A i) clean (tape.2 (h, true))
+              (childRestriction A i x) := rfl
+
+theorem evaluate_erase (𝕜 : Type w) [Field 𝕜]
+    (repeats : Nat → Nat) (p : Path branch n (m + 1)) :
+    ∀ (A : Slots branch n → Type u) (clean : Fin (branch m) → Prop)
+      (tape : CutSamplerRefinement.Tape 𝕜 repeats p A),
+      CutSamplerLocality.ZeroAtClean 𝕜 repeats p A clean tape →
+      ∀ x : Assignment A,
+        evaluate 𝕜 repeats p A clean (erase 𝕜 repeats p A clean tape) x =
+          (CutSamplerRefinement.evaluate 𝕜 repeats p A tape).val x := by
+  induction n generalizing m with
+  | zero =>
+      have h := p.height_le
+      omega
+  | succ n ih =>
+      cases p with
+      | refl =>
+          intro A clean tape hzero x
+          have heval :
+              (UniformChildSum.recursiveSum (𝕜 := 𝕜) A (tape ())).val x =
+                ∑ i : Fin (branch n), (tape () i).val (childRestriction A i x) := by
+            have hsum := congrFun
+              (UniformChildSum.childSum_apply (𝕜 := 𝕜) (childRestriction A)
+                (fun i => space 𝕜 branch n (childFamily A i)) (tape ())) x
+            simp only [Finset.sum_apply, PointwiseSpaces.pullback_apply] at hsum
+            refine hsum.trans ?_
+            refine Finset.sum_congr (ι := Fin (branch n)) ?_ ?_
+            · ext i
+              simp only [Finset.mem_univ]
+            · intro i _
+              rfl
+          rw [evaluate_refl, CutSamplerLocality.evaluate_refl, heval]
+          simp only [erase]
+          rw [← Fintype.sum_subtype_add_sum_subtype clean
+            (fun i => (tape () i).val (childRestriction A i x))]
+          have hz : (∑ i : {i : Fin (branch n) // clean i},
+              (tape () i.val).val (childRestriction A i.val x)) = 0 := by
+            apply Finset.sum_eq_zero
+            intro i _
+            rw [hzero i.val i.property]
+            rfl
+          rw [hz, zero_add]
+      | step i p =>
+          intro A clean tape hzero x
+          rw [evaluate_step, CutSamplerLocality.evaluate_step]
+          simp only [erase, RecursiveSampler.combine, RecursiveSampler.combineFunction,
+            Finset.sum_apply, Pi.add_apply, Pi.mul_apply, PointwiseSpaces.pullback_apply]
+          apply congrArg (fun z =>
+            (∑ j : OffPath i, (tape (.inl j)).val (childRestriction A j.val x)) + z)
+          apply Finset.sum_congr rfl
+          intro h _
+          rw [ih p (childFamily A i) clean
+              (CutSamplerLocality.subTape 𝕜 repeats i p A tape h false) (hzero h false),
+            ih p (childFamily A i) clean
+              (CutSamplerLocality.subTape 𝕜 repeats i p A tape h true) (hzero h true)]
+
+end
+end PerfectCompleteness.CutSamplerReplay
+
+
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Foundations_WholeCutExteriorTransportLemmas
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalKeys.keyLabel_nonempty _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawNonempty _root_.OAI.PerfectCompleteness.ChildBlockProjection.liftedRangeFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CutChildCleanLaw.rawFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childFamilyFinite _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryDrawFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockNonempty _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.WholeCutZero
+
+open RecursiveSpaces DescendantSpaces TreeSourceSpaces HierarchicalArrays
+
+variable {branch : Nat → Nat} {n m t : Nat}
+
+theorem grouped_step_iff (rows repeats : Nat → Nat) (i : Fin (branch n))
+    (p : Path branch n (m + 1))
+    (slots : Slots branch (n + 1) → Fin t → MixedSupport.Slot)
+    (clean : Fin (branch m) → Prop)
+    (tape : WholeCutSampler.Tape rows repeats (.step i p) slots) :
+    GroupedAtClean rows repeats (.step i p) slots clean tape ↔
+      (∀ bucket terminal child, clean child →
+        (CutTerminalSplit.splitTape F2 repeats (.step i p)
+          (LeafDomain slots) (tape.1 bucket)).1 terminal child = 0) ∧
+      GroupedAtClean rows repeats p (childSlots slots i) clean tape.2.1 := by
+  constructor
+  · intro h
+    constructor
+    · intro bucket terminal child hchild
+      exact (h child hchild).1 (.inl (bucket, terminal))
+    · intro child hchild
+      exact ⟨fun q => (h child hchild).1 (.inr q), (h child hchild).2⟩
+  · rintro ⟨hroot, hselected⟩ child hchild
+    refine ⟨?_, (hselected child hchild).2⟩
+    intro q
+    rcases q with ⟨bucket, terminal⟩ | q
+    · exact hroot bucket terminal child hchild
+    · exact (hselected child hchild).1 q
+
+theorem grouped_iff (rows repeats : Nat → Nat) (p : Path branch n (m + 1)) :
+    ∀ (slots : Slots branch n → Fin t → MixedSupport.Slot)
+      (clean : Fin (branch m) → Prop) (tape : WholeCutSampler.Tape rows repeats p slots),
+      GroupedAtClean rows repeats p slots clean tape ↔
+        ZeroAtClean rows repeats p slots clean tape := by
+  induction n generalizing m with
+  | zero =>
+      have h := p.height_le
+      omega
+  | succ n ih =>
+      cases p with
+      | refl =>
+          intro slots clean tape
+          rfl
+      | step i p =>
+          intro slots clean tape
+          rw [grouped_step_iff]
+          exact and_congr
+            (forall_congr' (fun bucket =>
+              CutTerminalZero.zeroAtClean_iff F2 repeats (.step i p)
+                (LeafDomain slots) clean (tape.1 bucket)))
+            (ih p (childSlots slots i) clean tape.2.1)
+
+end PerfectCompleteness.WholeCutZero
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Foundations_WholeCutReplayLemmas
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalKeys.keyLabel_nonempty _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawNonempty _root_.OAI.PerfectCompleteness.ChildBlockProjection.liftedRangeFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.ownFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CutChildCleanLaw.rawFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childFamilyFinite _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryDrawFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceAnswerEquiv.rightDomainDecidableEq _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockNonempty _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instDecidableEqTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeDecidableEq _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.CutSamplerReplay
+
+open scoped BigOperators Classical
+open RecursiveSpaces DescendantSpaces RecursiveSampler PointwiseSpaces
+
+noncomputable section
+
+universe u w
+
+variable {branch : Nat → Nat} {n m : Nat}
+
+theorem evaluateSpace_apply (𝕜 : Type w) [Field 𝕜]
+    (repeats : Nat → Nat) (p : Path branch n (m + 1)) :
+    ∀ (A : Slots branch n → Type u) (clean : Fin (branch m) → Prop)
+      (tape : Tape 𝕜 repeats p A clean) (x : Assignment A),
+      (evaluateSpace 𝕜 repeats p A clean tape).val x =
+        evaluate 𝕜 repeats p A clean tape x := by
+  induction n generalizing m with
+  | zero =>
+      have h := p.height_le
+      omega
+  | succ n ih =>
+      cases p with
+      | refl =>
+          intro A clean tape x
+          exact retainedSum_apply 𝕜 A clean tape x
+      | step i p =>
+          intro A clean tape x
+          rw [evaluateSpace, evaluate_step]
+          simp only [RecursiveSampler.combine, RecursiveSampler.combineFunction,
+            Finset.sum_apply, Pi.add_apply, Pi.mul_apply, PointwiseSpaces.pullback_apply]
+          apply congrArg (fun z =>
+            (∑ j : OffPath i, (tape.1 j).val (childRestriction A j.val x)) + z)
+          apply Finset.sum_congr rfl
+          intro h _
+          rw [ih p (childFamily A i) clean (tape.2 (h, false)),
+            ih p (childFamily A i) clean (tape.2 (h, true))]
+
+theorem evaluateSpace_erase (𝕜 : Type w) [Field 𝕜]
+    (repeats : Nat → Nat) (p : Path branch n (m + 1))
+    (A : Slots branch n → Type u) (clean : Fin (branch m) → Prop)
+    (tape : CutSamplerRefinement.Tape 𝕜 repeats p A)
+    (hzero : CutSamplerLocality.ZeroAtClean 𝕜 repeats p A clean tape) :
+    evaluateSpace 𝕜 repeats p A clean (erase 𝕜 repeats p A clean tape) =
+      CutSamplerRefinement.evaluate 𝕜 repeats p A tape := by
+  apply Subtype.ext
+  funext x
+  rw [evaluateSpace_apply]
+  exact evaluate_erase 𝕜 repeats p A clean tape hzero x
+
+end
+end PerfectCompleteness.CutSamplerReplay
+
+namespace PerfectCompleteness.WholeCutReplay
+
+open scoped BigOperators Classical
+open RecursiveSpaces DescendantSpaces TreeSourceSpaces HierarchicalArrays
+
+noncomputable section
+
+variable {branch : Nat → Nat} {n m t : Nat}
+
+theorem bucketSpace_erase (rows repeats : Nat → Nat) (i : Fin (branch n))
+    (p : Path branch n (m + 1))
+    (slots : Slots branch (n + 1) → Fin t → MixedSupport.Slot)
+    (clean : Fin (branch m) → Prop)
+    (tape : WholeCutSampler.Tape rows repeats (.step i p) slots)
+    (hzero : WholeCutZero.ZeroAtClean rows repeats (.step i p) slots clean tape)
+    (bucket : BucketSampler.Direction (rows (n + 1))) :
+    bucketSpace rows repeats i p slots clean
+        (erase rows repeats (.step i p) slots clean tape) bucket =
+      CutSamplerRefinement.evaluate F2 repeats (.step i p) (LeafDomain slots) (tape.1 bucket) :=
+  CutSamplerReplay.evaluateSpace_erase F2 repeats (.step i p) (LeafDomain slots) clean
+    (tape.1 bucket) (hzero.1 bucket)
+
+end
+end PerfectCompleteness.WholeCutReplay
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Foundations_WholeReplaySubtreeLemmas
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalKeys.keyLabel_nonempty _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawNonempty _root_.OAI.PerfectCompleteness.ChildBlockProjection.liftedRangeFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CutChildCleanLaw.rawFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childFamilyFinite _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryDrawFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockNonempty _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.WholeCutSubtree
+
+noncomputable section
+
+open scoped Classical
+open RecursiveSpaces DescendantSpaces TreeSourceSpaces HierarchicalArrays
+open WholeArraySubtreeSplit
+
+variable {branch : Nat → Nat} {n k m t : Nat}
+
+theorem erase_extract (rows repeats : Nat → Nat) (pUp : Path branch n k) :
+    ∀ {m : Nat} (pDown : Path branch k (m + 1))
+      (slots : Slots branch n → Fin t → MixedSupport.Slot)
+      (clean : Fin (branch m) → Prop)
+      (tape : WholeCutSampler.Tape rows repeats (pUp.append pDown) slots),
+      WholeReplaySubtree.extract rows repeats pUp pDown slots clean
+          (WholeCutReplay.erase rows repeats (pUp.append pDown) slots clean tape) =
+        WholeCutReplay.erase rows repeats pDown (subtreeSlots pUp slots) clean
+          (extract rows repeats pUp pDown slots tape) := by
+  induction pUp with
+  | refl n =>
+      intro m pDown slots clean tape
+      cases pDown <;> rfl
+  | step i pUp ih =>
+      intro m pDown slots clean tape
+      exact ih pDown (childSlots slots i) clean tape.2.1
+
+theorem zero_extract (rows repeats : Nat → Nat) (pUp : Path branch n k) :
+    ∀ {m : Nat} (pDown : Path branch k (m + 1))
+      (slots : Slots branch n → Fin t → MixedSupport.Slot)
+      (clean : Fin (branch m) → Prop)
+      (tape : WholeCutSampler.Tape rows repeats (pUp.append pDown) slots),
+      WholeCutZero.ZeroAtClean rows repeats (pUp.append pDown) slots clean tape →
+        WholeCutZero.ZeroAtClean rows repeats pDown (subtreeSlots pUp slots) clean
+          (extract rows repeats pUp pDown slots tape) := by
+  induction pUp with
+  | refl n => intros; assumption
+  | step i pUp ih =>
+      intro m pDown slots clean tape hzero
+      exact ih pDown (childSlots slots i) clean tape.2.1 hzero.2
+
+theorem collapse_extract (rows repeats : Nat → Nat) (pUp : Path branch n k) :
+    ∀ {m : Nat} (pDown : Path branch k m)
+      (slots : Slots branch n → Fin t → MixedSupport.Slot)
+      (tape : WholeCutSampler.Tape rows repeats (pUp.append pDown) slots),
+      WholeCutSampler.collapse rows repeats pDown (subtreeSlots pUp slots)
+          (extract rows repeats pUp pDown slots tape) =
+        WholeArraySubtreeSplit.extract rows repeats pUp pDown slots
+          (WholeCutSampler.collapse rows repeats (pUp.append pDown) slots tape) := by
+  induction pUp with
+  | refl n => intros; rfl
+  | step i pUp ih =>
+      intro m pDown slots tape
+      exact ih pDown (childSlots slots i) tape.2.1
+
+theorem rootBuckets_erase (rows repeats : Nat → Nat)
+    (pDown : Path branch k (m + 1)) (hproper : m + 1 < k)
+    (slots : Slots branch k → Fin t → MixedSupport.Slot)
+    (clean : Fin (branch m) → Prop)
+    (tape : WholeCutSampler.Tape rows repeats pDown slots)
+    (hzero : WholeCutZero.ZeroAtClean rows repeats pDown slots clean tape) :
+    WholeReplaySubtree.rootBuckets rows repeats pDown hproper slots clean
+        (WholeCutReplay.erase rows repeats pDown slots clean tape) =
+      rootBuckets rows repeats pDown hproper slots tape := by
+  cases pDown with
+  | refl => exact False.elim ((Nat.lt_irrefl _) hproper)
+  | step i pDown =>
+      funext bucket
+      exact WholeCutReplay.bucketSpace_erase rows repeats i pDown slots clean tape hzero bucket
+
+theorem knownBuckets_erase (rows repeats : Nat → Nat)
+    (pUp : Path branch n k) (pDown : Path branch k (m + 1)) (hproper : m + 1 < k)
+    (slots : Slots branch n → Fin t → MixedSupport.Slot)
+    (clean : Fin (branch m) → Prop) (W : Submodule F2 (Fin (rows k) → F2))
+    (tape : WholeCutSampler.Tape rows repeats (pUp.append pDown) slots)
+    (hzero : WholeCutZero.ZeroAtClean rows repeats (pUp.append pDown) slots clean tape) :
+    WholeReplaySubtree.knownBuckets rows repeats pUp pDown hproper slots clean W
+        (WholeCutReplay.erase rows repeats (pUp.append pDown) slots clean tape) =
+      knownBuckets rows repeats pUp pDown hproper slots W tape := by
+  funext v
+  unfold WholeReplaySubtree.knownBuckets WholeReplaySubtree.buckets knownBuckets
+  rw [erase_extract, rootBuckets_erase rows repeats pDown hproper
+    (subtreeSlots pUp slots) clean (extract rows repeats pUp pDown slots tape)
+    (zero_extract rows repeats pUp pDown slots clean tape hzero)]
+
+theorem knownBuckets_eq_original (rows repeats : Nat → Nat)
+    (pUp : Path branch n k) (pDown : Path branch k m) (hproper : m < k)
+    (slots : Slots branch n → Fin t → MixedSupport.Slot)
+    (W : Submodule F2 (Fin (rows k) → F2))
+    (tape : WholeCutSampler.Tape rows repeats (pUp.append pDown) slots) :
+    knownBuckets rows repeats pUp pDown hproper slots W tape =
+      fun v => RecursiveSampler.evaluate F2 repeats pDown (LeafDomain (subtreeSlots pUp slots))
+        ((WholeArrayPositiveSplit.split rows repeats pUp pDown hproper slots W
+          (WholeCutSampler.collapse rows repeats (pUp.append pDown) slots tape)).2.1 v) := by
+  cases pDown with
+  | refl => exact False.elim ((Nat.lt_irrefl _) hproper)
+  | step i pDown =>
+      funext v
+      change CutSamplerRefinement.evaluate F2 repeats (.step i pDown)
+          (LeafDomain (subtreeSlots pUp slots))
+          ((extract rows repeats pUp (.step i pDown) slots tape).1 v.val) =
+        RecursiveSampler.evaluate F2 repeats (.step i pDown)
+          (LeafDomain (subtreeSlots pUp slots))
+          ((WholeArraySubtreeSplit.extract rows repeats pUp (.step i pDown) slots
+            (WholeCutSampler.collapse rows repeats (pUp.append (.step i pDown)) slots tape))
+              (.inl ()) v.val)
+      rw [← collapse_extract]
+      rfl
+
+theorem knownBucketsAtNode_erase (rows repeats : Nat → Nat)
+    (slots : Slots branch n → Fin t → MixedSupport.Slot) (upper : Nodes branch n)
+    (pDown : Path branch (Nodes.height upper) (m + 1)) (hproper : m + 1 < Nodes.height upper)
+    (clean : Fin (branch m) → Prop)
+    (W : Submodule F2 (OwnInputReference.UpperVector rows upper))
+    (tape : WholeCutSampler.Tape rows repeats ((Nodes.path upper).append pDown) slots)
+    (hzero : WholeCutZero.ZeroAtClean rows repeats ((Nodes.path upper).append pDown)
+      slots clean tape) :
+    WholeReplaySubtree.knownBucketsAtNode rows repeats slots upper pDown hproper clean W
+        (WholeCutReplay.erase rows repeats ((Nodes.path upper).append pDown) slots clean tape) =
+      knownBucketsAtNode rows repeats slots upper pDown hproper W tape :=
+  knownBuckets_erase rows repeats (Nodes.path upper) pDown hproper slots clean W tape hzero
+
+end
+end PerfectCompleteness.WholeCutSubtree
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Repetition_CleanRecordChildBlocks
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.ownFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instDecidableEqTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeDecidableEq _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.CleanRecordChildBlocks
+
+noncomputable section
+
+open scoped Classical
+open UniqueGamesTheorem.Foundations.Games
+open RecursiveSpaces TreeSourceSpaces HierarchicalArrays
+open SourceQuestionReconstruction
+
+variable {branch : Nat → Nat} {h t v m : Nat} {C : Type*} [Fintype C]
+  (rows : Nat → Nat) (clauses : Fin m → SourceClause.NormalizedClause v)
+  (designated : Fin (branch h) → Slots branch h)
+
+variable [NeZero m]
+
+omit [NeZero m] in
+theorem childClean_of_clean (record : Record (C := C) (t := t) rows clauses designated)
+    (x : Sample (C := C) (t := t) rows clauses designated)
+    (hevent : event rows clauses designated record x = true) (i : Fin (branch h))
+    (hi : clean rows clauses designated record i) :
+    UniformCleanSources.childClean
+      (SourceChildKernel.Factors (C := C) (t := t) rows clauses designated)
+      (SourceChildKernel.zero (C := C) (t := t) rows clauses designated)
+      i (x i).1 (x i).2.1 (x i).2.2 = true := by
+  have obs := CleanSourceRecord.observation_eq designated
+    (SourceChildKernel.Factors (C := C) (t := t) rows clauses designated)
+    (SourceChildKernel.zero (C := C) (t := t) rows clauses designated) record x hevent i
+  cases hc : UniformCleanSources.childClean
+      (SourceChildKernel.Factors (C := C) (t := t) rows clauses designated)
+      (SourceChildKernel.zero (C := C) (t := t) rows clauses designated)
+      i (x i).1 (x i).2.1 (x i).2.2 with
+  | false =>
+      have hr : record i = .inl (x i) := by
+        simpa only [SelectedSources.childObservation, hc, Bool.false_eq_true, ite_false, if_false]
+          using obs.symm
+      simp only [clean, CleanSourceRecord.clean, hr, UniformCleanSources.cleanRecord,
+        Bool.false_eq_true] at hi
+  | true => rfl
+
+end
+end PerfectCompleteness.CleanRecordChildBlocks
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Repetition_CleanPhysicalReplay
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.ownFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.HierarchicalUsefulness.coarseFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFinite _root_.OAI.PerfectCompleteness.OwnInputReference.exteriorFintype _root_.OAI.PerfectCompleteness.OwnInputReference.frequencyFintype _root_.OAI.PerfectCompleteness.OwnInputReference.rawSampleFintype _root_.OAI.PerfectCompleteness.OwnInputReference.scalarSampleFintype _root_.OAI.PerfectCompleteness.WholeArrayExteriorLaw.exteriorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restFactorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArrayPositiveSplit.scalarTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementFintype _root_.OAI.PerfectCompleteness.WholeArraySubtreeSplit.complementNonempty _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.CleanPhysicalReplay
+
+open scoped Classical
+open RecursiveSpaces DescendantSpaces TreeSourceSpaces HierarchicalArrays
+open UniqueGamesTheorem.Foundations.Games
+
+noncomputable section
+
+variable {branch : Nat → Nat} {root h t : Nat}
+  (rows repeats : Nat → Nat) (p : Path branch root (h + 1))
+  (outside : Slots branch root → Fin t → MixedSupport.Slot)
+  (placeholder : Slots branch (h + 1) → Fin t → MixedSupport.Slot)
+
+private theorem cast_zeroBlock {n : Nat} {C : Type*} [Fintype C]
+    (slots target : Slots branch n → Fin t → MixedSupport.Slot) (hs : slots = target) :
+    cast (congrArg (SourceChildKernel.Block C rows) hs)
+        (SourceChildKernel.zeroBlock (C := C) rows slots) =
+      SourceChildKernel.zeroBlock rows target := by
+  cases hs
+  rfl
+
+theorem fillChild_zero (inside : Slots branch (h + 1) → Fin t → MixedSupport.Slot)
+    (i : Fin (branch h)) :
+    fillChild rows repeats p outside inside i
+        (SourceChildKernel.zeroBlock rows (childSlots inside i)) =
+      SourceChildKernel.zeroBlock rows
+        (childSlots (WholeCutGrouping.cutSlots p (CutSlotAssembly.fill p outside inside)) i) :=
+  cast_zeroBlock rows _ _ (childSlots_fill p outside inside i).symm
+
+theorem physicalTape_grouped_zero
+    (inside : Slots branch (h + 1) → Fin t → MixedSupport.Slot)
+    (clean : Fin (branch h) → Prop)
+    (external : Exterior rows repeats p outside placeholder)
+    (children : CutChildGrouping.Raw (C := WholeCutCalls.Index rows repeats p) inside rows)
+    (hzero : ∀ i, clean i → children i =
+      SourceChildKernel.zeroBlock rows (childSlots inside i)) :
+    WholeCutZero.GroupedAtClean rows repeats p (CutSlotAssembly.fill p outside inside) clean
+      (physicalTape rows repeats p outside placeholder inside external children) := by
+  intro i hi
+  have hz : fillChild rows repeats p outside inside i (children i) =
+      SourceChildKernel.zeroBlock rows
+        (childSlots (WholeCutGrouping.cutSlots p (CutSlotAssembly.fill p outside inside)) i) := by
+    rw [hzero i hi]
+    exact fillChild_zero rows repeats p outside inside i
+  change (∀ q, ((WholeCutGrouping.splitTape rows repeats p
+      (CutSlotAssembly.fill p outside inside)
+      (physicalTape rows repeats p outside placeholder inside external children)).2 i).1 q = 0) ∧ _
+  simp only [physicalTape, Equiv.apply_symm_apply]
+  rw [hz]
+  exact ⟨fun _ => rfl, fun _ _ => rfl⟩
+
+section Source
+
+variable {v m : Nat} [NeZero m]
+  (clauses : Fin m → SourceClause.NormalizedClause v)
+  (designated : Fin (branch h) → Slots branch h)
+
+variable
+  (μ : Fin (branch h) → FiniteDistribution (SourceQuestionReconstruction.SourceTuple m t))
+  (ν : (i : Fin (branch h)) → FiniteDistribution
+    (SourceChildKernel.Rest (m := m) (t := t) designated i))
+  (flag : Fin (branch h) → FiniteDistribution Bool)
+
+omit [NeZero m] in
+theorem rightBlocks_zero (record : Record (t := t) rows repeats p clauses designated)
+    (x : Sample (t := t) rows repeats p clauses designated)
+    (hx : (SourceChildKernel.childrenLaw rows clauses designated μ ν flag).weight x ≠ 0)
+    (hevent : CleanRecordChildBlocks.event rows clauses designated record x = true)
+    (i : Fin (branch h)) (hi : CleanRecordChildBlocks.clean rows clauses designated record i) :
+    rightBlocks rows repeats p clauses designated x i =
+      SourceChildKernel.zeroBlock rows
+        (childSlots (rightInside rows repeats p clauses designated x) i) :=
+  SourceChildKernel.childrenLaw_clean_zero rows clauses designated μ ν flag x hx i
+    (CleanRecordChildBlocks.childClean_of_clean rows clauses designated record x hevent i hi)
+
+omit [NeZero m] in
+theorem rightTape_grouped_zero (record : Record (t := t) rows repeats p clauses designated)
+    (x : Sample (t := t) rows repeats p clauses designated)
+    (hx : (SourceChildKernel.childrenLaw rows clauses designated μ ν flag).weight x ≠ 0)
+    (hevent : CleanRecordChildBlocks.event rows clauses designated record x = true)
+    (external : Exterior rows repeats p outside placeholder) :
+    WholeCutZero.GroupedAtClean rows repeats p
+      (CutSlotAssembly.fill p outside (rightInside rows repeats p clauses designated x))
+      (CleanRecordChildBlocks.clean rows clauses designated record)
+      (rightTape rows repeats p outside placeholder clauses designated x external) :=
+  physicalTape_grouped_zero rows repeats p outside placeholder _ _ external _
+    (rightBlocks_zero rows repeats p clauses designated μ ν flag record x hx hevent)
+
+end Source
+
+end
+end PerfectCompleteness.CleanPhysicalReplay
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Repetition_CleanNativeReplay
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instDecidableEqTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeDecidableEq _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.CleanNativeReplay
+
+noncomputable section
+
+open scoped Classical
+open RecursiveSpaces DescendantSpaces TreeSourceSpaces HierarchicalArrays
+open UniqueGamesTheorem.Foundations.Games
+
+variable {branch rows repeats : Nat → Nat} {n h t v m : Nat} [NeZero m]
+  {upper : Nodes branch n} {d : HierarchicalFrozenTables.LowerNodes upper (h + 1)}
+  (S : CleanDecoderRate.Setup branch rows repeats n h t v m upper d)
+
+variable (cube : Nat) (hcube : 0 < cube)
+
+theorem right_grouped_zero (x : CleanDecoderRate.Sample S)
+    (hx : (CleanDecoderRate.rawLaw S cube hcube).weight x ≠ 0) :
+    WholeCutZero.GroupedAtClean rows repeats (CleanDecoderRate.path S) (rightSlots S x)
+      (context S x).clean (rightTape S x) :=
+  CleanPhysicalReplay.rightTape_grouped_zero rows repeats (CleanDecoderRate.path S)
+    S.outside S.placeholder S.clauses S.designated
+    (fun _ => SourceOddLists.tupleLaw m t)
+    (fun i => FiniteProduct.law
+      (fun _ : {leaf : Slots branch h // leaf ≠ S.designated i} => SourceOddLists.tupleLaw m t))
+    (fun _ => ProjectedCleanRate.projectionFlag cube hcube)
+    (CleanDecoderRate.observations S x) x hx
+    (CleanRecordDecoderInput.event_observe rows repeats upper d S.cut S.clauses S.designated x)
+    S.exterior
+
+end
+end PerfectCompleteness.CleanNativeReplay
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ252_PC.PerfectCompleteness_Decoding_CleanPhysicalDecoderLaw
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.FixedQueryCodec.rightOutputFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.taggedRightFintype _root_.OAI.PerfectCompleteness.FixedQueryCodec.testIndexFintype _root_.OAI.PerfectCompleteness.HierarchicalAllDecoderTables.inputFintype _root_.OAI.PerfectCompleteness.LowerCutCallSplit.complementFintype _root_.OAI.PerfectCompleteness.MetadataFreeSampler.inputFintype _root_.OAI.PerfectCompleteness.MetadataFreeTape.inputFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.OriginalOwnBucketSplit.otherIndexFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorFintype _root_.OAI.PerfectCompleteness.OriginalWholeCutTape.exteriorNonempty _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerBody.instFintypeTape _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineRegularOwnerCleanup.tapeFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.PoweringMachineGlobal.labelFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+namespace PerfectCompleteness.CleanPhysicalDecoderLaw
+
+noncomputable section
+
+open scoped Classical
+open RecursiveSpaces DescendantSpaces TreeSourceSpaces HierarchicalArrays
+open UniqueGamesTheorem.Foundations.Games
+
+attribute [local instance] RightDecoder.scalarFintype
+
+section NativeData
+
+variable {branch rows repeats : Nat → Nat} {n t : Nat}
+
+attribute [local instance] OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.nativeLeftFintype
+private theorem inputOfArrays_heq
+    (slots target : Slots branch n → Fin t → MixedSupport.Slot) (hs : slots = target)
+    (upper lower : Nodes branch n) (W : Submodule F2 (Block rows upper))
+    (a : Block rows lower)
+    (known : HiddenBucketBias.VisibleDirection W → H (nodeSlots slots upper))
+    (otherKnown : HiddenBucketBias.VisibleDirection W → H (nodeSlots target upper))
+    (hk : HEq known otherKnown) (arrays : Arrays slots rows) (other : Arrays target rows)
+    (ha : HEq arrays other) :
+    HEq (inputOfArrays slots upper lower W a known arrays)
+      (inputOfArrays target upper lower W a otherKnown other) := by
+  cases hs
+  cases eq_of_heq hk
+  cases eq_of_heq ha
+  rfl
+
+private theorem replayKnown_heq {h : Nat}
+    (slots target : Slots branch n → Fin t → MixedSupport.Slot) (hs : slots = target)
+    (upper : Nodes branch n) (p : Path branch (Nodes.height upper) (h + 1))
+    (hp : h + 1 < Nodes.height upper) (clean : Fin (branch h) → Prop)
+    (W : Submodule F2 (Block rows upper))
+    (tape : WholeCutReplay.Tape rows repeats ((Nodes.path upper).append p) slots clean)
+    (other : WholeCutReplay.Tape rows repeats ((Nodes.path upper).append p) target clean)
+    (ht : HEq tape other) :
+    HEq (WholeReplaySubtree.knownBucketsAtNode rows repeats slots upper p hp clean W tape)
+      (WholeReplaySubtree.knownBucketsAtNode rows repeats target upper p hp clean W other) := by
+  cases hs
+  cases eq_of_heq ht
+  rfl
+
+variable {Sample : OriginalDecoderMark.SlotFamily branch n t → Type*}
+  [∀ slots, Fintype (Sample slots)]
+  (F : OriginalDecoderMark.Family branch rows n t Sample)
+
+private theorem rightLaw_heq
+    (slots target : Slots branch n → Fin t → MixedSupport.Slot) (hs : slots = target)
+    (upper lower : Nodes branch n) (W : Submodule F2 (Block rows upper))
+    (a : Block rows lower) (cut : OwnInputReference.Cut upper lower)
+    (σ : KeyStrategy.Strategy (TreeCanonical.locationCount branch n t))
+    (input : OwnInputReference.Input slots rows upper lower W a)
+    (other : OwnInputReference.Input target rows upper lower W a) (hi : HEq input other)
+    (threshold : ℝ) :
+    HEq (RightDecoder.law slots rows upper lower W a repeats cut σ input threshold)
+      (RightDecoder.law target rows upper lower W a repeats cut σ other threshold) := by
+  cases hs
+  cases eq_of_heq hi
+  rfl
+
+end NativeData
+
+variable {branch rows repeats : Nat → Nat} {n h t v m : Nat} [NeZero m]
+  {upper : Nodes branch n} {d : HierarchicalFrozenTables.LowerNodes upper (h + 1)}
+  (S : CleanDecoderRate.Setup branch rows repeats n h t v m upper d)
+
+variable {Sample : OriginalDecoderMark.SlotFamily branch n t → Type*}
+  [∀ slots, Fintype (Sample slots)]
+  (F : OriginalDecoderMark.Family branch rows n t Sample) (κ : ℝ)
+
+variable (σ : KeyStrategy.Strategy (TreeCanonical.locationCount branch n t))
+  (r : Nat) (ρ : ℝ) (A : ManyGoodRows.RowMap (Block rows upper) r)
+  (W : Submodule F2 (Block rows upper)) (a : Block rows (lower S))
+  (threshold : ℝ)
+
+variable (cube : Nat) (hcube : 0 < cube)
+
+attribute [local instance] OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.nativeLeftFintype
+theorem rightKnownBuckets_heq (x : CleanDecoderRate.Sample S)
+    (hx : (CleanDecoderRate.rawLaw S cube hcube).weight x ≠ 0) :
+    HEq (CleanRightDecoder.knownBuckets
+      (CleanDecoderPairLaw.context S x).clauses (CleanDecoderPairLaw.context S x).designated
+      (CleanDecoderPairLaw.context S x).clean (CleanDecoderPairLaw.context S x).visible
+      (CleanDecoderPairLaw.context S x).projected upper (lower S) S.cut
+      (CleanDecoderContext.lowerHeight upper d) S.outside rows repeats
+      (CleanDecoderPairLaw.context S x).rightTape W (CleanDecoderPairLaw.rightOwn S x))
+      (rightInput S W a x).knownBuckets := by
+  let suffix := CleanRightDecoder.suffix upper (lower S) S.cut
+    (CleanDecoderContext.lowerHeight upper d)
+  have hp : h + 1 < Nodes.height upper :=
+    CleanRightDecoder.suffix_proper upper (lower S) S.cut (CleanDecoderContext.lowerHeight upper d)
+  have hzero := (WholeCutZero.grouped_iff rows repeats (CleanDecoderRate.path S)
+    (CleanNativeReplay.rightSlots S x) (CleanDecoderPairLaw.context S x).clean
+    (CleanNativeReplay.rightTape S x)).mp (CleanNativeReplay.right_grouped_zero S cube hcube x hx)
+  have h := replayKnown_heq _ _ (CleanNativeReplay.rightSlots_eq S x) upper suffix hp
+    (CleanDecoderPairLaw.context S x).clean W _ _ (CleanNativeReplay.rightReplay_heq S x)
+  have he := WholeCutSubtree.knownBucketsAtNode_erase rows repeats
+    (CleanNativeReplay.rightSlots S x) upper suffix hp (CleanDecoderPairLaw.context S x).clean
+    W (CleanNativeReplay.rightTape S x) hzero
+  have ho := WholeCutSubtree.knownBuckets_eq_original rows repeats (Nodes.path upper) suffix hp
+    (CleanNativeReplay.rightSlots S x) W (CleanNativeReplay.rightTape S x)
+  exact h.trans ((heq_of_eq he).trans (heq_of_eq ho))
+
+theorem rightInput_heq (x : CleanDecoderRate.Sample S)
+    (hx : (CleanDecoderRate.rawLaw S cube hcube).weight x ≠ 0) :
+    HEq (CleanRightDecoder.input
+      (CleanDecoderPairLaw.context S x).clauses (CleanDecoderPairLaw.context S x).designated
+      (CleanDecoderPairLaw.context S x).clean (CleanDecoderPairLaw.context S x).visible
+      (CleanDecoderPairLaw.context S x).projected upper (lower S) S.cut
+      (CleanDecoderContext.lowerHeight upper d) S.outside rows repeats
+      (CleanDecoderPairLaw.context S x).rightTape W a (CleanDecoderPairLaw.rightOwn S x))
+      (rightInput S W a x) :=
+  inputOfArrays_heq _ _ (CleanNativeReplay.rightSlots_eq S x) upper (lower S) W a
+    _ _ (rightKnownBuckets_heq S W a cube hcube x hx)
+    _ _ (CleanNativeReplay.rightArrays_heq S cube hcube x hx)
+
+theorem rightKernel_heq_oai (x : CleanDecoderRate.Sample S)
+    (hx : (CleanDecoderRate.rawLaw S cube hcube).weight x ≠ 0) :
+    HEq (CleanDecoderSeedLaw.rightKernel (CleanDecoderPairLaw.context S x) σ W a threshold
+      (CleanDecoderPairLaw.rightOwn S x)) (rightLaw S σ W a threshold x) :=
+  rightLaw_heq _ _ (CleanNativeReplay.rightSlots_eq S x) upper (lower S) W a S.cut σ
+    _ _ (rightInput_heq S W a cube hcube x hx) threshold
+
+end
+end PerfectCompleteness.CleanPhysicalDecoderLaw
+
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.rightKernel_heq_oai := @OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.rightKernel_heq_oai

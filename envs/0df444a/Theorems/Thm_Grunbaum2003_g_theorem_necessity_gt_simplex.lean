@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_g_theorem_necessity_gt_simplex
 -- name    : Grunbaum2003.g_theorem_necessity_gt_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-09T01:27:44.103842+00:00
 -- url     : https://prove2.me/theorems/5df4e894-07a1-4182-be07-949dac794676

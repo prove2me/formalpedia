@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_refresh_cost
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.refresh_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:59:39.913204+00:00
 -- url     : https://prove2.me/theorems/584ff165-11f7-4dc2-a540-bf2fd7f4c756

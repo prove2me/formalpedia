@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngageInfo_lemma_1
 -- name    : EngageInfo.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:19:42.253682+00:00
 -- url     : https://prove2.me/theorems/37c9458f-10cb-48b2-844d-bbd04cd33e82

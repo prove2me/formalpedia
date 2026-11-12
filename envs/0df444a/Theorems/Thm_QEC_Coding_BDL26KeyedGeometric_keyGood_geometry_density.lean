@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_keyGood_geometry_density
 -- name    : QEC.Coding.BDL26KeyedGeometric.keyGood_geometry_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:47:13.809783+00:00
 -- url     : https://prove2.me/theorems/54a922ea-4b54-4b22-9442-54c29be4e369

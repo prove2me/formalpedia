@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDecoder_baseAdapter_rightInverse
 -- name    : QEC.Coding.BDL26LevelTwoDecoder.baseAdapter_rightInverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:29:44.788563+00:00
 -- url     : https://prove2.me/theorems/4431155e-a8b9-4b21-8157-c49bb9583f55

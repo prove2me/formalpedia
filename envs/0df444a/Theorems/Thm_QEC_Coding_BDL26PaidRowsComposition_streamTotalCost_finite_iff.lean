@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_streamTotalCost_finite_iff
 -- name    : QEC.Coding.BDL26PaidRowsComposition.streamTotalCost_finite_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:39:01.321543+00:00
 -- url     : https://prove2.me/theorems/faecea27-e34e-426b-a4ee-02b23b16cb00

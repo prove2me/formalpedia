@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistoryLogicalResidual_source_even_coefficient
 -- name    : QEC.Coding.BDL26HistoryLogicalResidual.source_even_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:50:03.101023+00:00
 -- url     : https://prove2.me/theorems/97953686-94fa-49e7-819e-2a8eff852e74

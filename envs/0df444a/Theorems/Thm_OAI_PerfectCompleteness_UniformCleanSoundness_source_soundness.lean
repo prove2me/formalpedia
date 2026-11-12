@@ -1,0 +1,219 @@
+-- Prove2me | Theorems.Thm_OAI_PerfectCompleteness_UniformCleanSoundness_source_soundness
+-- name    : OAI.PerfectCompleteness.UniformCleanSoundness.source_soundness
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-11T07:45:45.27921+00:00
+-- url     : https://prove2.me/theorems/977bc83d-4f6c-4aaf-abd2-e1c61e9b43da
+-- title:
+--   OAI.PerfectCompleteness.UniformCleanSoundness.source_soundness: intermediate lemma from OpenAI, Perfect completeness for 2-to-1 games
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.PerfectCompleteness.Theorem11.exists_reduction`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Perfect completeness for 2-to-1 games*, OpenAI Math Release, September 23, 2026, result family 105, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.PerfectCompleteness.UniformCleanSoundness.source_soundness` of [lean/OAI/Computability/PerfectCompleteness/Repetition/CutChildCleanLawLemmas.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Computability/PerfectCompleteness/Repetition/CutChildCleanLawLemmas.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.PerfectCompleteness.UniformCleanSoundness`, with `open scoped BigOperators`, `open UniqueGamesTheorem.Foundations.Games`, `open FiniteProduct CleanConditioning SelectedSources UniformLatent UniformCleanSources`):
+--
+--   ```lean
+--   theorem source_soundness
+--       (G : OccurrenceGame E Q₁ Q₂ A₁ A₂)
+--       (ν : (i : I) → FiniteDistribution (R i))
+--       (flag : (i : I) → FiniteDistribution Bool)
+--       (nonprojected : (i : I) → E × R i → FiniteDistribution (D i))
+--       (zero : (i : I) → (s : E × R i) → (j : J i) → Ω i s j)
+--       (cardinality : (i : I) → J i → Nat)
+--       (same_cardinality : ∀ i s j, Fintype.card (Ω i s j) = cardinality i j)
+--       (event : Sample (D := D) Ω → Bool) (a : ℝ)
+--       (repetition : ∀ n, (G.repetition n).value ≤ a ^ n)
+--       (strategies : (record : FullRecord (D := D) Ω) →
+--         Strategy (CleanIndices Ω record → Q₁) (CleanIndices Ω record → Q₂)
+--           (CleanIndices Ω record → A₁) (CleanIndices Ω record → A₂))
+--       (inclusion : ∀ record x, recordEvent (D := D) Ω zero record x = true → event x = true →
+--         (IndexedRepetition.game G (CleanIndices Ω record)).wins (strategies record)
+--           (fun i => (x i.1).1) = true) :
+--       (childrenLaw Ω (fun _ => G.occurrences) ν flag nonprojected).probability event ≤
+--         ∏ i : I, (1 - (1 - a) *
+--           ((flag i).weight true * ∏ j : J i, 1 / (cardinality i j : ℝ)))
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.UniqueGamesTheorem.Foundations.Games.FiniteDistribution` and `OAI.UniqueGamesTheorem.Foundations.Games.FiniteDistribution.probability` (definitions bundle `OAIQ252P000` of this split); `OAI.PerfectCompleteness.UniformCleanSoundness.FullRecord`, `OAI.PerfectCompleteness.UniformCleanSources.ChildRaw`, `OAI.PerfectCompleteness.UniformCleanSources.Record`, `OAI.PerfectCompleteness.UniformCleanSources.cleanRecord`, `OAI.PerfectCompleteness.UniformCleanSources.recordEvent`, `OAI.PerfectCompleteness.UniformLatent.Raw` and `OAI.UniqueGamesTheorem.Foundations.Games.Strategy` (definitions bundle `OAIQ252P001` of this split); `OAI.PerfectCompleteness.OccurrenceGame`, `OAI.PerfectCompleteness.OccurrenceGame.value` and `OAI.PerfectCompleteness.OccurrenceGame.wins` (definitions bundle `OAIQ252P003` of this split); `OAI.PerfectCompleteness.UniformCleanSources.CleanIndices` (definitions bundle `OAIQ252P006` of this split); `OAI.PerfectCompleteness.UniformCleanSoundness.Sample` and `OAI.PerfectCompleteness.UniformCleanSources.childrenLaw` (definitions bundle `OAIQ252P007` of this split); `OAI.PerfectCompleteness.IndexedRepetition.game` and `OAI.PerfectCompleteness.OccurrenceGame.repetition` (definitions bundle `OAIQ252P011` of this split).
+--
+--   **Used by.** The proof of `OAI.PerfectCompleteness.CleanDecoderRate.bound` of this split imports it.
+-- source:
+--   OpenAI, Perfect completeness for 2-to-1 games, OpenAI Math Release, September 23, 2026, https://github.com/openai/math (result family 105; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Perfect-completeness-for-2-to-1-games-September-23-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Computability/PerfectCompleteness/Repetition/CutChildCleanLawLemmas.lean (declaration OAI.PerfectCompleteness.UniformCleanSoundness.source_soundness)
+
+import Lean.Elab.Tactic.Omega
+import Mathlib
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Intervals
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Two
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Equiv.Defs
+import Mathlib.Algebra.Group.Fin.Basic
+import Mathlib.Algebra.Module.LinearMap.Basic
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Projective
+import Mathlib.Algebra.Module.Torsion.Field
+import Mathlib.Algebra.Module.TransferInstance
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Expect
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.BigOperators.Ring.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Field.Rat
+import Mathlib.Algebra.Order.Floor.Ring
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Algebra.Ring.Parity
+import Mathlib.Analysis.Convex.SpecificFunctions.Basic
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Computability.Encoding
+import Mathlib.Computability.TuringMachine.Computable
+import Mathlib.Computability.TuringMachine.StackTuringMachine
+import Mathlib.Data.Fin.Basic
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Piecewise
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sigma
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.Nat.Cast.Field
+import Mathlib.Data.Nat.Factorial.Basic
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Rat.BigOperators
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Rat.Floor
+import Mathlib.Data.Rat.Lemmas
+import Mathlib.Data.Set.Disjoint
+import Mathlib.Data.ZMod.Basic
+import Mathlib.FieldTheory.Finiteness
+import Mathlib.GroupTheory.GroupAction.Basic
+import Mathlib.GroupTheory.Index
+import Mathlib.LinearAlgebra.Basis.VectorSpace
+import Mathlib.LinearAlgebra.Contraction
+import Mathlib.LinearAlgebra.Dimension.Constructions
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Dimension.Finrank
+import Mathlib.LinearAlgebra.Dimension.Free
+import Mathlib.LinearAlgebra.Dual.Defs
+import Mathlib.LinearAlgebra.Dual.Lemmas
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.FreeModule.Finite.Matrix
+import Mathlib.LinearAlgebra.Isomorphisms
+import Mathlib.LinearAlgebra.LinearPMap
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.Pi
+import Mathlib.LinearAlgebra.Prod
+import Mathlib.LinearAlgebra.Projection
+import Mathlib.LinearAlgebra.Quotient.Basic
+import Mathlib.LinearAlgebra.Quotient.Card
+import Mathlib.LinearAlgebra.Span.Basic
+import Mathlib.LinearAlgebra.TensorProduct.Basic
+import Mathlib.LinearAlgebra.Trace
+import Mathlib.Logic.Equiv.Basic
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Logic.Equiv.Fintype
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Equiv.Sum
+import Mathlib.Logic.Function.Basic
+import Mathlib.Logic.Function.Iterate
+import Mathlib.RingTheory.Finiteness.Basic
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Choose
+import Mathlib.Tactic.DeriveFintype
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Tauto
+import Std
+import Definitions.Def_OAIQ252P007
+import Definitions.Def_OAIQ252P011
+
+section
+
+attribute [-instance] _root_.OAI.PerfectCompleteness.CanonicalGame.leftLabel_nonempty _root_.OAI.PerfectCompleteness.CanonicalGame.rightLabel_nonempty _root_.OAI.PerfectCompleteness.CanonicalKeys.keyLabel_nonempty _root_.OAI.PerfectCompleteness.CanonicalPartialTable.inputFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawFintype _root_.OAI.PerfectCompleteness.ChildBlockCardinality.rawNonempty _root_.OAI.PerfectCompleteness.ChildBlockProjection.liftedRangeFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawFintype _root_.OAI.PerfectCompleteness.ChildCallNumbering.rawNonempty _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.leftAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.pairFintype _root_.OAI.PerfectCompleteness.CleanDecoderPairLaw.rightAnswerFintype _root_.OAI.PerfectCompleteness.CleanDecoderRate.seedFintype _root_.OAI.PerfectCompleteness.CleanDecoderSeedLaw.seedFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.lowerAnswerFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.ownFintype _root_.OAI.PerfectCompleteness.CleanLeftDecoder.upperAnswerFintype _root_.OAI.PerfectCompleteness.CleanPhysicalDecoderLaw.answersFintype _root_.OAI.PerfectCompleteness.CutChildGrouping.childFintype _root_.OAI.PerfectCompleteness.OriginalChildScalars.squareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.callTapesFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.childSquareFintype _root_.OAI.PerfectCompleteness.RecursiveSampler.ordinaryTapeFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.blockNonempty _root_.OAI.PerfectCompleteness.SourceChildKernel.rawFintype _root_.OAI.PerfectCompleteness.SourceChildKernel.sampleFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.factorFintype _root_.OAI.PerfectCompleteness.WholeArrayHiddenLaw.restTapeFintype _root_.OAI.PerfectCompleteness.WholeArraySampler.spaceFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderFamily.alphabetFintype _root_.OAI.UniqueGamesTheorem.Foundations.Complexity.MachineExpanderTable.alphabetFintype
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+namespace PerfectCompleteness.UniformCleanSoundness
+
+open scoped BigOperators
+open UniqueGamesTheorem.Foundations.Games
+open FiniteProduct CleanConditioning SelectedSources UniformLatent UniformCleanSources
+
+noncomputable section
+
+attribute [local instance] Classical.propDecidable
+
+variable {I E : Type*} [Fintype I] [DecidableEq I] [Fintype E] [DecidableEq E]
+  {R J D : I → Type*}
+  [∀ i, Fintype (R i)] [∀ i, Fintype (J i)] [∀ i, Fintype (D i)]
+  [∀ i, DecidableEq (R i)] [∀ i, DecidableEq (J i)] [∀ i, DecidableEq (D i)]
+  (Ω : (i : I) → (E × R i) → J i → Type*)
+  [∀ i s j, Fintype (Ω i s j)] [∀ i s j, Nonempty (Ω i s j)]
+  [∀ i s j, DecidableEq (Ω i s j)]
+
+variable {Q₁ Q₂ A₁ A₂ : Type*}
+  [Fintype Q₁] [Fintype Q₂] [Fintype A₁] [Fintype A₂]
+  [Nonempty A₁] [Nonempty A₂]
+
+omit [∀ index, DecidableEq (D index)] in
+theorem source_soundness
+    (G : OccurrenceGame E Q₁ Q₂ A₁ A₂)
+    (ν : (i : I) → FiniteDistribution (R i))
+    (flag : (i : I) → FiniteDistribution Bool)
+    (nonprojected : (i : I) → E × R i → FiniteDistribution (D i))
+    (zero : (i : I) → (s : E × R i) → (j : J i) → Ω i s j)
+    (cardinality : (i : I) → J i → Nat)
+    (same_cardinality : ∀ i s j, Fintype.card (Ω i s j) = cardinality i j)
+    (event : Sample (D := D) Ω → Bool) (a : ℝ)
+    (repetition : ∀ n, (G.repetition n).value ≤ a ^ n)
+    (strategies : (record : FullRecord (D := D) Ω) →
+      Strategy (CleanIndices Ω record → Q₁) (CleanIndices Ω record → Q₂)
+        (CleanIndices Ω record → A₁) (CleanIndices Ω record → A₂))
+    (inclusion : ∀ record x, recordEvent (D := D) Ω zero record x = true → event x = true →
+      (IndexedRepetition.game G (CleanIndices Ω record)).wins (strategies record)
+        (fun i => (x i.1).1) = true) :
+    (childrenLaw Ω (fun _ => G.occurrences) ν flag nonprojected).probability event ≤
+      ∏ i : I, (1 - (1 - a) *
+        ((flag i).weight true * ∏ j : J i, 1 / (cardinality i j : ℝ))) := by
+  sorry
+
+end
+end PerfectCompleteness.UniformCleanSoundness
+
+end OAI
+end

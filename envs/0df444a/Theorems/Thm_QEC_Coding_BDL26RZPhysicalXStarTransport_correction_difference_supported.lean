@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_correction_difference_supported
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.correction_difference_supported
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:59:33.053553+00:00
 -- url     : https://prove2.me/theorems/46ca2c60-d743-4d09-8fc9-d590f1b89ac1

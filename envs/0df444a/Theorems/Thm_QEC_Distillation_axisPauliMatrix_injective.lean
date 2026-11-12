@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_axisPauliMatrix_injective
 -- name    : QEC.Distillation.axisPauliMatrix_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:10:13.41958+00:00
 -- url     : https://prove2.me/theorems/addec3b9-3bbf-4f04-b836-19ee6024463c

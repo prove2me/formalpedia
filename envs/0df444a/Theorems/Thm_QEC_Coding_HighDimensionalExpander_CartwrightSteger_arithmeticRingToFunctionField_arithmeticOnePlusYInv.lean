@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_HighDimensionalExpander_CartwrightSteger_arithmeticRingToFunctionField_arithmeticOnePlusYInv
 -- name    : QEC.Coding.HighDimensionalExpander.CartwrightSteger.arithmeticRingToFunctionField_arithmeticOnePlusYInv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:53:23.781331+00:00
 -- url     : https://prove2.me/theorems/bbe688b3-217e-4a0f-9355-9d1a0d4cb52e

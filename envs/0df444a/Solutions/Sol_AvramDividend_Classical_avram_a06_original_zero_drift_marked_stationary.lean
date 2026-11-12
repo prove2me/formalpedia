@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a06_original_zero_drift_marked_stationary
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T01:22:08.322282+00:00
 -- url     : https://prove2.me/submissions/e74c565e-1ce4-4a98-be35-e8f560657ad2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.ConditionalProbability
 import Mathlib.Tactic.Positivity

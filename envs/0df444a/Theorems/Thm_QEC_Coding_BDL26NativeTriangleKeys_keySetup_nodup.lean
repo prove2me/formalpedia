@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_keySetup_nodup
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.keySetup_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:30:54.41735+00:00
 -- url     : https://prove2.me/theorems/fc89ddb7-864b-4496-89f8-9fedf5a0e45f

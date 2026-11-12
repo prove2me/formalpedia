@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_bound_from_connected_induced_bounds__p2m_e9a12d61_586c_475e_b65b_75c2a4e2b868_a1
 -- name    : WilliamsonShmoys_edge_bound_from_connected_induced_bounds__p2m_e9a12d61_586c_475e_b65b_75c2a4e2b868_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:29:43.036724+00:00
 -- url     : https://prove2.me/theorems/d473c831-8af1-4c7c-8aaf-c91f919ae3cf

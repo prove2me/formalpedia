@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_mapQ_cost
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.mapQ_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:42:30.088207+00:00
 -- url     : https://prove2.me/theorems/32585dee-b8e6-4917-a9f5-2a9713263fa2

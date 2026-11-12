@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Coverage_theorem_3
 -- name    : GenEmpLik.Coverage.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:49:15.679984+00:00
 -- url     : https://prove2.me/theorems/7358e5fc-3986-4f02-9101-a582a6fd1006

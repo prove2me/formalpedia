@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineDenominator_zero
 -- name    : OAI.CubicEisenstein.affineDenominator_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:03:16.975429+00:00
 -- url     : https://prove2.me/theorems/32a058ba-0a7c-4838-b5b2-c1c1f4b6c99d

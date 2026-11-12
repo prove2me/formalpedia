@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GenEmpLik.Coverage.theorem_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T01:50:09.169119+00:00
 -- url     : https://prove2.me/submissions/9d976b3a-e6ce-4753-8148-1bba4b5e3d81
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GenEmpLik_Coverage_AssumptionA

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BudgetedAffine.Disjoint.theorem_4_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-03T21:18:40.050305+00:00
 -- url     : https://prove2.me/submissions/f8447c27-eb6e-46f4-a911-ae03f05e10ab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BudgetedAffine_Budget_Model

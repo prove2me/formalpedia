@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_EntropyIneq_theorem_F_1
 -- name    : ProcessingNetworks.EntropyIneq.theorem_F_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:28:40.747416+00:00
 -- url     : https://prove2.me/theorems/640b5fab-6ed2-4044-a8f2-bcf8a3f2d62e

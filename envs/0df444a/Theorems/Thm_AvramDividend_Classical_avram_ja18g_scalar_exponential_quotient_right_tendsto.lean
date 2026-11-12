@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18g_scalar_exponential_quotient_right_tendsto
 -- name    : AvramDividend.Classical.avram_ja18g_scalar_exponential_quotient_right_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T04:07:42.896201+00:00
 -- url     : https://prove2.me/theorems/8d050fdd-b9cd-41d8-ac28-ef661bb10ea8

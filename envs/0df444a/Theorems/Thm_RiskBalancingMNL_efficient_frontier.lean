@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBalancingMNL_efficient_frontier
 -- name    : RiskBalancingMNL.efficient_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:44:33.790363+00:00
 -- url     : https://prove2.me/theorems/4174102b-095c-4f34-b8ca-a26df68b8027

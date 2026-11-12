@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_seed_carrier_lengths
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.seed_carrier_lengths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:41:48.750946+00:00
 -- url     : https://prove2.me/theorems/b39d7fec-f923-427d-908a-839c7da1f0a0

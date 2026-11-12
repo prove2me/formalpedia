@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Expansion_lemma_9
 -- name    : GenEmpLik.Expansion.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:48:08.004132+00:00
 -- url     : https://prove2.me/theorems/5ccbce89-3f81-453c-956e-6b60fb48342e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_diagonal_unit_eisenstein_rows
 -- name    : OAI.CubicEisenstein.diagonal_unit_eisenstein_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:20:54.857724+00:00
 -- url     : https://prove2.me/theorems/fe4baf3c-bb34-4955-b343-325d2d5e247c

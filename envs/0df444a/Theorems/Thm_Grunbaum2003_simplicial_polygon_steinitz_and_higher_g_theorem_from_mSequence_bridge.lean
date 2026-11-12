@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_simplicial_polygon_steinitz_and_higher_g_theorem_from_mSequence_bridge
 -- name    : Grunbaum2003.simplicial_polygon_steinitz_and_higher_g_theorem_from_mSequence_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-08T02:33:56.611242+00:00
 -- url     : https://prove2.me/theorems/68d5b09e-cb15-4c1a-b7d9-1913a3ea1ab7

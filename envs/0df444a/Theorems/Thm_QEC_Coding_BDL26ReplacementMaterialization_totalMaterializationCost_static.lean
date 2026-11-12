@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_totalMaterializationCost_static
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.totalMaterializationCost_static
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:44:45.353818+00:00
 -- url     : https://prove2.me/theorems/e1c18cb3-6890-4b27-be9b-5fb3e2a47126

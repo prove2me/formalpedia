@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_globalPhaseEquivalent_singleQubitLift
 -- name    : QEC.Distillation.FiniteRegisterUniversality.globalPhaseEquivalent_singleQubitLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:24:28.928786+00:00
 -- url     : https://prove2.me/theorems/0cb44b88-3517-47d5-9827-8fcbc2f86686

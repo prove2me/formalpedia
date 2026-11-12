@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReactiveCapacity_retailer_stage_rule
 -- name    : ReactiveCapacity.retailer_stage_rule
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:19:00.752053+00:00
 -- url     : https://prove2.me/theorems/f70e5b3d-0937-4579-9b0f-d881df25b820

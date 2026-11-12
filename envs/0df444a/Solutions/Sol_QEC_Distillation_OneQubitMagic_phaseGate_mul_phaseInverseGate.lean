@@ -1,0 +1,66 @@
+-- Prove2me | solution 1 for QEC.Distillation.OneQubitMagic.phaseGate_mul_phaseInverseGate
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-11T14:55:56.245822+00:00
+-- url     : https://prove2.me/submissions/c96de173-43b3-498d-bcaa-c9e83a75cd69
+
+import Definitions.Def_QEC_Distillation_Universality_OneQubitMagic
+import Definitions.Def_QEC_Distillation_Universality_GeneratedUniversality
+import Definitions.Def_QEC_Distillation_Universality_OneQubitGeneratedUniversality
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseInverseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamard_conj_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_symm_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftTransport_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phase_conj_one
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamard_conj_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_symm_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftTransport_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phase_conj_one
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+
+
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseInverseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_one
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Distillation QEC.Distillation.OneQubitMagic
+open Semantics Semantics.Qubit
+open GeneratedUniversality
+namespace QEC.Distillation.OneQubitMagic
+theorem _root_.solution : phaseGate * phaseInverseGate = 1 := by
+  apply Subtype.ext
+  ext i j
+  fin_cases i <;> fin_cases j <;>
+    simp [phaseGate, phaseInverseGate, phaseMatrix, phaseInverseMatrix, Complex.I_mul_I]
+end QEC.Distillation.OneQubitMagic

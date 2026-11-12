@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_composeAtoms_apply
 -- name    : QEC.Distillation.Triorthogonal.composeAtoms_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:35:05.506197+00:00
 -- url     : https://prove2.me/theorems/04a24e9b-758c-4d77-8db8-bc15f1bc699c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.MatrixAllFields.MatrixMultiplication.AllFieldCertificates.Replay.checkLog_sound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:52:32.801616+00:00
 -- url     : https://prove2.me/submissions/6b389a91-bb17-4484-a78b-838f1f20bb84
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ254M002

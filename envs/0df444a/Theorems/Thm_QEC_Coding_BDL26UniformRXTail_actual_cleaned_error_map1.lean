@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actual_cleaned_error_map1
 -- name    : QEC.Coding.BDL26UniformRXTail.actual_cleaned_error_map1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:15:13.498188+00:00
 -- url     : https://prove2.me/theorems/fb81fbaa-d1b3-435a-b7bd-2604972496ab

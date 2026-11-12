@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_exists_supported_dense_assignment
 -- name    : QEC.Coding.BDL26RandomPerturbation.exists_supported_dense_assignment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:27:05.096193+00:00
 -- url     : https://prove2.me/theorems/6ceb5649-cd74-4132-b8df-3b366ea7338a

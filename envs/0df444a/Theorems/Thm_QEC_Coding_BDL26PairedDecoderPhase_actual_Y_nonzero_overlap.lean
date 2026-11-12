@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_actual_Y_nonzero_overlap
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.actual_Y_nonzero_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:27:53.372804+00:00
 -- url     : https://prove2.me/theorems/8b2599c4-3ffe-4db1-916f-e7d8a73f2233

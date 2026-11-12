@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_actual_cx_total_boundary_zero
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.actual_cx_total_boundary_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:03:53.93993+00:00
 -- url     : https://prove2.me/theorems/351c27f0-80d7-478c-8d71-4f157d0bc87f

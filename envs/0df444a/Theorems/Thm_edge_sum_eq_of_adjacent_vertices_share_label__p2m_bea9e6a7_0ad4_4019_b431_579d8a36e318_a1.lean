@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edge_sum_eq_of_adjacent_vertices_share_label__p2m_bea9e6a7_0ad4_4019_b431_579d8a36e318_a1
 -- name    : edge_sum_eq_of_adjacent_vertices_share_label__p2m_bea9e6a7_0ad4_4019_b431_579d8a36e318_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:54:15.327819+00:00
 -- url     : https://prove2.me/theorems/3439e91d-67a7-4996-874d-b3698a3b025c

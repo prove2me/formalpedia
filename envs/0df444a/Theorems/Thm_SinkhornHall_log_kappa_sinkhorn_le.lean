@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_log_kappa_sinkhorn_le
 -- name    : SinkhornHall.log_kappa_sinkhorn_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:28.637549+00:00
 -- url     : https://prove2.me/theorems/4a8df223-fbb3-4dbc-a720-64fc3b232328

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_uniform_logarithmic_tail_bound_ge_three
 -- name    : syracuse_uniform_logarithmic_tail_bound_ge_three
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-10-12T22:43:42.479986+00:00
 -- url     : https://prove2.me/theorems/10697865-c049-4b18-8190-6f57f19040fc

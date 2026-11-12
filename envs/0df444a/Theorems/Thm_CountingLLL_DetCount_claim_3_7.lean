@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountingLLL_DetCount_claim_3_7
 -- name    : CountingLLL.DetCount.claim_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:33.844831+00:00
 -- url     : https://prove2.me/theorems/b98c6bf6-0b94-462c-b100-1e4dab7dee02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_marked_band_stationary
 -- name    : AvramDividend.Classical.avram_a06_original_marked_band_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T00:55:45.528757+00:00
 -- url     : https://prove2.me/theorems/58bedce7-0037-4f61-a49f-000796265496

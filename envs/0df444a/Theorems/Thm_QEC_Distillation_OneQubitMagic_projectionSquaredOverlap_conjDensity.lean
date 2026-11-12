@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_projectionSquaredOverlap_conjDensity
 -- name    : QEC.Distillation.OneQubitMagic.projectionSquaredOverlap_conjDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:10:36.286663+00:00
 -- url     : https://prove2.me/theorems/11023e28-720f-4535-b8f9-584fdf4320ad

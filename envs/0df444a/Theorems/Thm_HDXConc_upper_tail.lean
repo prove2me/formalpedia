@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXConc_upper_tail
 -- name    : HDXConc.upper_tail
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:00:17.874085+00:00
 -- url     : https://prove2.me/theorems/3b69e113-a310-47d0-864f-9c2351fa7afd

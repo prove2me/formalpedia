@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoCode_levelTwoQ_card
 -- name    : QEC.Coding.BDL26LevelTwoCode.levelTwoQ_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:23:26.207056+00:00
 -- url     : https://prove2.me/theorems/675f3b69-1c61-43c5-a18b-5a68c32176b8

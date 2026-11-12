@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_hamiltonian_mul_ground
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.hamiltonian_mul_ground
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:17:41.706013+00:00
 -- url     : https://prove2.me/theorems/fb6e3936-1fe1-4d08-9df4-0aaaf1633e3a

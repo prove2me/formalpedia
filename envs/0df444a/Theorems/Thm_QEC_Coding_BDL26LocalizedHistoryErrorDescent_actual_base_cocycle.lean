@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_actual_base_cocycle
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.actual_base_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:25:16.322706+00:00
 -- url     : https://prove2.me/theorems/834b80f9-f76f-494b-953e-dec7d209c779

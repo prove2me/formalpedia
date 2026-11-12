@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_actualPotential_boundary
 -- name    : QEC.Coding.BDL26UniformRXTail.actualPotential_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:09:26.741289+00:00
 -- url     : https://prove2.me/theorems/c086db9b-e90a-439f-98f4-96df2af4301c

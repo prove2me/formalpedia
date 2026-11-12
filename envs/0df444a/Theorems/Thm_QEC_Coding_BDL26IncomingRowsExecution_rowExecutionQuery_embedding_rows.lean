@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowExecutionQuery_embedding_rows
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowExecutionQuery_embedding_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:28:52.84632+00:00
 -- url     : https://prove2.me/theorems/355b07c0-b399-4a0d-9926-5e1e83fa171c

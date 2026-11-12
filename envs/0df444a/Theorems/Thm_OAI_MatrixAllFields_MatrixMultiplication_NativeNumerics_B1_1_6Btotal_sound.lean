@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_NativeNumerics_B1_1_6Btotal_sound
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.B1_1_6Btotal_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:59:43.989271+00:00
 -- url     : https://prove2.me/theorems/b5add0fe-0764-4e8b-bedb-b354e1455b86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_sourceCuspRepresentative_periodic
 -- name    : OAI.CubicEisenstein.sourceCuspRepresentative_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:41:41.338823+00:00
 -- url     : https://prove2.me/theorems/ff1afa72-ddd2-474e-88bc-56d9977104e0

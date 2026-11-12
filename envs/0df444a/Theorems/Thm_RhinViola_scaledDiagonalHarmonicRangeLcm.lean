@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RhinViola_scaledDiagonalHarmonicRangeLcm
 -- name    : RhinViola.scaledDiagonalHarmonicRangeLcm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T11:47:41.145786+00:00
 -- url     : https://prove2.me/theorems/011a851a-0772-4e9e-bae3-5be744af9e5a

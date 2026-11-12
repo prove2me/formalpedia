@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_triangle_family_law
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_triangle_family_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:57:21.121472+00:00
 -- url     : https://prove2.me/theorems/80d9c08b-203c-4cf0-bc88-3bf9cce2e04b

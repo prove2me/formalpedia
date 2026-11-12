@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Bridge50_P20_example_comparison
 -- name    : QAlgorithms.Papers.Independent.Bridge50.P20.example_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T15:08:03.844961+00:00
 -- url     : https://prove2.me/theorems/fc70455a-1f49-405d-967c-a7487a00d3b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_cubicSourceResidualFunction_cuspDerivative
 -- name    : OAI.CubicEisenstein.cubicSourceResidualFunction_cuspDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:34:42.425226+00:00
 -- url     : https://prove2.me/theorems/5a4b2621-110d-4d30-9512-30019089198c

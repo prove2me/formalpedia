@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Compression_theorem_14_4_1
 -- name    : WildeQIT.Compression.theorem_14_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:31.154419+00:00
 -- url     : https://prove2.me/theorems/a3792b11-a818-47d3-9e89-dc8bbd52d0aa

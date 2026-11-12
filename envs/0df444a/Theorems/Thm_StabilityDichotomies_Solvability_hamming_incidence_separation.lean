@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabilityDichotomies_Solvability_hamming_incidence_separation
 -- name    : StabilityDichotomies.Solvability.hamming_incidence_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:32.461422+00:00
 -- url     : https://prove2.me/theorems/d1a096de-6c8a-4b36-89f8-56c4b4990e54

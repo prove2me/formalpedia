@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_supported_avoidance_positive
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_supported_avoidance_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:01:54.761306+00:00
 -- url     : https://prove2.me/theorems/8ecf49e0-2c78-4998-bc25-024c3c2f5c0e

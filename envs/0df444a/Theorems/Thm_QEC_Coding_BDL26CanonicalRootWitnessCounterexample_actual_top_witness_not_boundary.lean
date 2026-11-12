@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalRootWitnessCounterexample_actual_top_witness_not_boundary
 -- name    : QEC.Coding.BDL26CanonicalRootWitnessCounterexample.actual_top_witness_not_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:08:41.934202+00:00
 -- url     : https://prove2.me/theorems/5123c884-8158-45dd-ac6d-2e19e3af6483

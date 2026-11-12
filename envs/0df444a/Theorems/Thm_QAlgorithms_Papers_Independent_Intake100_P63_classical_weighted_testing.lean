@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P63_classical_weighted_testing
 -- name    : QAlgorithms.Papers.Independent.Intake100.P63.classical_weighted_testing
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:27:49.349739+00:00
 -- url     : https://prove2.me/theorems/5eaed5c5-561e-461f-bcec-eebb1b1ff7b8

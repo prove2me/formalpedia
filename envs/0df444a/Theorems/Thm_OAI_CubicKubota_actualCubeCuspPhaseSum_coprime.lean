@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicKubota_actualCubeCuspPhaseSum_coprime
 -- name    : OAI.CubicKubota.actualCubeCuspPhaseSum_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:05:13.114576+00:00
 -- url     : https://prove2.me/theorems/893742dd-8cb2-4d06-b0ce-4d8a335ece75

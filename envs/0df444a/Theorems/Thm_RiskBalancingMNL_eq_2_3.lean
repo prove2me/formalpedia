@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskBalancingMNL_eq_2_3
 -- name    : RiskBalancingMNL.eq_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:43:25.97238+00:00
 -- url     : https://prove2.me/theorems/3a6cbc01-095e-49da-9fa6-5bdc202d5419

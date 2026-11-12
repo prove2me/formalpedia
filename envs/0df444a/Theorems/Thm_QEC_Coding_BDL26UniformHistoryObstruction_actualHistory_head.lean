@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_actualHistory_head
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.actualHistory_head
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:40:10.391635+00:00
 -- url     : https://prove2.me/theorems/06cd45f1-90d8-42e6-833d-efeda23e7532

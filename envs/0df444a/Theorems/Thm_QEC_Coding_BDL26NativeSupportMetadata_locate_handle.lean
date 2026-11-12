@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeSupportMetadata_locate_handle
 -- name    : QEC.Coding.BDL26NativeSupportMetadata.locate_handle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:44:48.591378+00:00
 -- url     : https://prove2.me/theorems/eec9cb89-d9ab-4467-acf3-bfb828398f1d

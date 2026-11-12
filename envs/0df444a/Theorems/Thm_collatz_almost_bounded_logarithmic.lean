@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_collatz_almost_bounded_logarithmic
 -- name    : collatz_almost_bounded_logarithmic
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-09-09T05:09:30.778062+00:00
 -- url     : https://prove2.me/theorems/8469bda5-b114-46bd-9a75-5a504e93b336

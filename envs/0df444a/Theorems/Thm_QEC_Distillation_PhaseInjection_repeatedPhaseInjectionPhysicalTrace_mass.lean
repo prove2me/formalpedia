@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_repeatedPhaseInjectionPhysicalTrace_mass
 -- name    : QEC.Distillation.PhaseInjection.repeatedPhaseInjectionPhysicalTrace_mass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:23:12.463458+00:00
 -- url     : https://prove2.me/theorems/1af2e9e5-c645-4f19-a30a-a8b79936fa99

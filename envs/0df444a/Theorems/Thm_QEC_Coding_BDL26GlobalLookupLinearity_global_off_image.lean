@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26GlobalLookupLinearity_global_off_image
 -- name    : QEC.Coding.BDL26GlobalLookupLinearity.global_off_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:43:15.028113+00:00
 -- url     : https://prove2.me/theorems/7873e2d0-cffc-4f7f-aa32-6a9edb2c22fd

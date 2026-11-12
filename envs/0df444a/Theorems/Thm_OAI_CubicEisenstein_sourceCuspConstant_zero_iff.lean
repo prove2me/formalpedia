@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_sourceCuspConstant_zero_iff
 -- name    : OAI.CubicEisenstein.sourceCuspConstant_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:22:10.724642+00:00
 -- url     : https://prove2.me/theorems/36fa89d0-446f-4807-b838-2a0a641f920d

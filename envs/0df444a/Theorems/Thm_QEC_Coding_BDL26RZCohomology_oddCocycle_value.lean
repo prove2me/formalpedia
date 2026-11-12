@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZCohomology_oddCocycle_value
 -- name    : QEC.Coding.BDL26RZCohomology.oddCocycle_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:46:54.155253+00:00
 -- url     : https://prove2.me/theorems/6228e5f2-c8af-44d7-9f48-aa9ce689b377

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_mix_fin15_original_compensated_jump_stopped_martingale_public
 -- name    : AvramDividend.Classical.avram_mix_fin15_original_compensated_jump_stopped_martingale_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-09T13:05:35.328449+00:00
 -- url     : https://prove2.me/theorems/41babf55-7865-45fb-a343-5c6b60baf089

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_streamStageCost_finite_of_halts
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.streamStageCost_finite_of_halts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:53:17.463202+00:00
 -- url     : https://prove2.me/theorems/883bea2a-98d4-4f53-a819-1935fa586fc1

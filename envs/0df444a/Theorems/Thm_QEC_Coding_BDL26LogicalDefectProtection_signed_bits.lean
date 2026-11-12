@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectProtection_signed_bits
 -- name    : QEC.Coding.BDL26LogicalDefectProtection.signed_bits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:44:35.292986+00:00
 -- url     : https://prove2.me/theorems/3d0a54a5-9a8a-438d-a096-621e2a66b401

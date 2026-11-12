@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_actual_Y_binary
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.actual_Y_binary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:27:51.98897+00:00
 -- url     : https://prove2.me/theorems/972c4359-0177-466d-a034-4c8901561da7

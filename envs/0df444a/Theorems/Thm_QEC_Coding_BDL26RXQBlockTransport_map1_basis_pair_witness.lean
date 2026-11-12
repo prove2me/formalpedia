@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQBlockTransport_map1_basis_pair_witness
 -- name    : QEC.Coding.BDL26RXQBlockTransport.map1_basis_pair_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:08:05.780114+00:00
 -- url     : https://prove2.me/theorems/c3ffb915-95a1-456f-b2a0-b78a1b895480

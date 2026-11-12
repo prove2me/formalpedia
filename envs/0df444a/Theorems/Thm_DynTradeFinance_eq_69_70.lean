@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynTradeFinance_eq_69_70
 -- name    : DynTradeFinance.eq_69_70
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:21:11.936328+00:00
 -- url     : https://prove2.me/theorems/4fbfc737-bd2a-48fe-a378-07e828abb742

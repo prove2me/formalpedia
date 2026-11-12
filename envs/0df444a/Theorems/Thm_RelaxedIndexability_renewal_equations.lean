@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedIndexability_renewal_equations
 -- name    : RelaxedIndexability.renewal_equations
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:20:57.90435+00:00
 -- url     : https://prove2.me/theorems/6c15f254-1af5-4e8d-88b0-8a2d820dcde2

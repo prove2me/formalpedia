@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_measurable_rowPrefixQuery_cost
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.measurable_rowPrefixQuery_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:26:35.491387+00:00
 -- url     : https://prove2.me/theorems/fbaa6a71-3535-450f-99ce-2a5824f23aff

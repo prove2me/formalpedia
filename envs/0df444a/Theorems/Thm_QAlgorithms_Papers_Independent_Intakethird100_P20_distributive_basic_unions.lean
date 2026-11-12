@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_distributive_basic_unions
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.distributive_basic_unions
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:37:54.920198+00:00
 -- url     : https://prove2.me/theorems/c51a3729-55a5-4b30-8ba0-507af583a906

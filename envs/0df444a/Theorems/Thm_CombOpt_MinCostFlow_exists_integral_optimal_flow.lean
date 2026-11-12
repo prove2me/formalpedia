@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_MinCostFlow_exists_integral_optimal_flow
 -- name    : CombOpt.MinCostFlow.exists_integral_optimal_flow
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:03:35.011798+00:00
 -- url     : https://prove2.me/theorems/5622f996-7106-4ea1-9044-2e2886213aa9

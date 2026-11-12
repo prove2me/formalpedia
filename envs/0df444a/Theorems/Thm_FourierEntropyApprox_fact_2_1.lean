@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierEntropyApprox_fact_2_1
 -- name    : FourierEntropyApprox.fact_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:45:27.693511+00:00
 -- url     : https://prove2.me/theorems/0edd64ce-15c2-4871-a82b-db080b73a87f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CookSensitivity.ChvatalRank.chvatalIter_subset_halfspace
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-28T10:02:00.807377+00:00
 -- url     : https://prove2.me/submissions/3f5bcbe2-2049-4bc7-87b8-2efaaec092d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CookSensitivity_ChvatalRank_IntegerProgram
 import Definitions.Def_CookSensitivity_ChvatalRank_ChvatalClosure

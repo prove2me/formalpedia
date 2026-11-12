@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_eisensteinTorusMul_surjective
 -- name    : OAI.CubicEisenstein.eisensteinTorusMul_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:49:18.172963+00:00
 -- url     : https://prove2.me/theorems/18470ed1-ed98-418e-a1a0-fd41d5e4d418

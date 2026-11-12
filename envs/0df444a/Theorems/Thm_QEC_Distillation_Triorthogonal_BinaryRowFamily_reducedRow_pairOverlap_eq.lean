@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_reducedRow_pairOverlap_eq
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.reducedRow_pairOverlap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:37:21.837205+00:00
 -- url     : https://prove2.me/theorems/8d46255e-198c-4106-a2ac-90d099be24f1

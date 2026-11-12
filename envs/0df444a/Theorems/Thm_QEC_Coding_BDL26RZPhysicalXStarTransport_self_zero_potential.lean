@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_self_zero_potential
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.self_zero_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:09:32.770893+00:00
 -- url     : https://prove2.me/theorems/f5e399d8-b4e0-45da-828e-4b9a20bb9117

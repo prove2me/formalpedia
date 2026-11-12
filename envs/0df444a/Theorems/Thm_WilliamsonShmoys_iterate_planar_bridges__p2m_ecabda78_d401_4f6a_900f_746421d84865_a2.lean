@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_iterate_planar_bridges__p2m_ecabda78_d401_4f6a_900f_746421d84865_a2
 -- name    : WilliamsonShmoys.iterate_planar_bridges__p2m_ecabda78_d401_4f6a_900f_746421d84865_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:22:09.233792+00:00
 -- url     : https://prove2.me/theorems/a49e8573-7163-46f3-bc6a-b6dc614057e1

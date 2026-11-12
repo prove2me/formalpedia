@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankDenoise432_OptimalProjector_lemma_3_2
 -- name    : LowRankDenoise432.OptimalProjector.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:39.520528+00:00
 -- url     : https://prove2.me/theorems/21b797c6-374a-42a2-8d50-902b5cc5d13e

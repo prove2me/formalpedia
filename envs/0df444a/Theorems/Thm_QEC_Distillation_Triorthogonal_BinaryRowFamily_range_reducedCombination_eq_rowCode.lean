@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_range_reducedCombination_eq_rowCode
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.range_reducedCombination_eq_rowCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:51.871841+00:00
 -- url     : https://prove2.me/theorems/d15e7a7a-b6d9-43c6-9c0d-08ab1582a46e

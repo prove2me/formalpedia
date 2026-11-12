@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleRemoval_monotone_rounding
 -- name    : SampleRemoval.monotone_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:19:30.722498+00:00
 -- url     : https://prove2.me/theorems/c6569394-a6ee-45ea-a37d-65b596c7ad63

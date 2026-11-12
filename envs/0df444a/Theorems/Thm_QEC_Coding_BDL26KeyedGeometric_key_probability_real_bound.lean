@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_key_probability_real_bound
 -- name    : QEC.Coding.BDL26KeyedGeometric.key_probability_real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:43:57.230317+00:00
 -- url     : https://prove2.me/theorems/b8dd6586-7357-43c6-9291-a4763bfa3ea7

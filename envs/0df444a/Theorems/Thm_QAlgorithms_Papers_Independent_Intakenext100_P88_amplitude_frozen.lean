@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P88_amplitude_frozen
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P88.amplitude_frozen
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T08:28:55.779991+00:00
 -- url     : https://prove2.me/theorems/df5bf783-d916-4ed7-b4cd-9339fc9db0b0

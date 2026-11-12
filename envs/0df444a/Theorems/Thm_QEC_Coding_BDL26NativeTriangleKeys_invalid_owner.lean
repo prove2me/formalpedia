@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeTriangleKeys_invalid_owner
 -- name    : QEC.Coding.BDL26NativeTriangleKeys.invalid_owner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:37:39.133685+00:00
 -- url     : https://prove2.me/theorems/36042c10-e9be-4967-a783-40716dd0d569

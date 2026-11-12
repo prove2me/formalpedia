@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformTopOwnerIsolation_no_marked_neighbor
 -- name    : QEC.Coding.BDL26UniformTopOwnerIsolation.no_marked_neighbor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:16:21.453376+00:00
 -- url     : https://prove2.me/theorems/579dce7d-c105-4813-a3e7-fb894006314c

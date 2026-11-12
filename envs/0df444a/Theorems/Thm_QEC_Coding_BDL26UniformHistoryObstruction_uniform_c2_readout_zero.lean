@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformHistoryObstruction_uniform_c2_readout_zero
 -- name    : QEC.Coding.BDL26UniformHistoryObstruction.uniform_c2_readout_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:42:54.168772+00:00
 -- url     : https://prove2.me/theorems/5ec917e7-325a-478e-8443-24acb706acc6

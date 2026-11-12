@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgreementTop736_Exact_eq6_local_witness_bound
 -- name    : AgreementTop736.Exact.eq6_local_witness_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:45.955236+00:00
 -- url     : https://prove2.me/theorems/cc439798-8c28-4a12-941f-2083e47f1905

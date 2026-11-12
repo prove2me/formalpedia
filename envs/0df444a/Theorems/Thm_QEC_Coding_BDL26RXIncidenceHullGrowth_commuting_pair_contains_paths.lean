@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullGrowth_commuting_pair_contains_paths
 -- name    : QEC.Coding.BDL26RXIncidenceHullGrowth.commuting_pair_contains_paths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:40:50.708425+00:00
 -- url     : https://prove2.me/theorems/693c6c41-c70b-47b4-ab4b-e714531c5a82

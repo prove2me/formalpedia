@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_clock_comparison
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.clock_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:31:13.093173+00:00
 -- url     : https://prove2.me/theorems/5c92cf95-8d52-4cdd-8915-40d9964aa9a4

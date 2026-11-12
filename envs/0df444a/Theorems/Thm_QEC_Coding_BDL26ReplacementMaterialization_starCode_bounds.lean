@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_starCode_bounds
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.starCode_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:11:06.867546+00:00
 -- url     : https://prove2.me/theorems/e4e7385e-7947-4a42-9ae4-1f4cf592511d

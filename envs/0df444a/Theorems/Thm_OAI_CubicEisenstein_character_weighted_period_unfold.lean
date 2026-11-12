@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_character_weighted_period_unfold
 -- name    : OAI.CubicEisenstein.character_weighted_period_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:01:52.14362+00:00
 -- url     : https://prove2.me/theorems/7d860f30-223d-4e85-aa04-3130959e1a4c

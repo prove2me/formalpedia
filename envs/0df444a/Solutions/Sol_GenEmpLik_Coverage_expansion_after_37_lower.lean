@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GenEmpLik.Coverage.expansion_after_37_lower
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T02:10:54.016039+00:00
 -- url     : https://prove2.me/submissions/242fa511-fd37-4625-adf2-3306dfc79cb0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GenEmpLik_Coverage_AssumptionA

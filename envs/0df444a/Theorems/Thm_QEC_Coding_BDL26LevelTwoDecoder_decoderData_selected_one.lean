@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDecoder_decoderData_selected_one
 -- name    : QEC.Coding.BDL26LevelTwoDecoder.decoderData_selected_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:29:47.5422+00:00
 -- url     : https://prove2.me/theorems/452f47c7-995c-45a1-b731-30a5a99f1af1

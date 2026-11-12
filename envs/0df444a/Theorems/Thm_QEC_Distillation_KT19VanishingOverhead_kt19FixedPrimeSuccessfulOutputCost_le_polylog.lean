@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_KT19VanishingOverhead_kt19FixedPrimeSuccessfulOutputCost_le_polylog
 -- name    : QEC.Distillation.KT19VanishingOverhead.kt19FixedPrimeSuccessfulOutputCost_le_polylog
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:17:33.705526+00:00
 -- url     : https://prove2.me/theorems/10ca0965-6a40-4cbe-848e-38ecf0dae83f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalXStarTransport_top_adjacent_two_run
 -- name    : QEC.Coding.BDL26RZPhysicalXStarTransport.top_adjacent_two_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:18:04.906583+00:00
 -- url     : https://prove2.me/theorems/c326f731-23a2-4a78-94d9-2ba0c8bbfd03

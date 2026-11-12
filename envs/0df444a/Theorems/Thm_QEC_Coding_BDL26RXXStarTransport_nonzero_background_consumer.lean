@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXXStarTransport_nonzero_background_consumer
 -- name    : QEC.Coding.BDL26RXXStarTransport.nonzero_background_consumer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:58:49.142201+00:00
 -- url     : https://prove2.me/theorems/f07e2e1b-bd81-44da-83ca-c04b28e24b7b

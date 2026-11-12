@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_integralCoverMap_continuous
 -- name    : OAI.CubicEisenstein.integralCoverMap_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:23:42.715596+00:00
 -- url     : https://prove2.me/theorems/e9362941-2cd8-42d8-8dc0-69d365d15125

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26GlobalLookupLinearity_actualGlobal_zero
 -- name    : QEC.Coding.BDL26GlobalLookupLinearity.actualGlobal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:47:07.033369+00:00
 -- url     : https://prove2.me/theorems/a9b536b9-89ef-475b-aa48-93019193c075

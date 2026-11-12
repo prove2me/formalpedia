@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_randomized_embedding_step
 -- name    : QEC.Coding.BDL26RandomPerturbation.randomized_embedding_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:30:37.381951+00:00
 -- url     : https://prove2.me/theorems/933836fd-7c5c-41a5-99e6-6135ea937e50

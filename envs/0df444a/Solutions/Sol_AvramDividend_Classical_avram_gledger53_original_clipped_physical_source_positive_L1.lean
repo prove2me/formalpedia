@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gledger53_original_clipped_physical_source_positive_L1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T01:17:13.554271+00:00
 -- url     : https://prove2.me/submissions/3b65c060-0dcd-4f0c-a7ee-ab9aba0d8567
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gledger66_original_clipped_finite_source_positive_integrable_of_envelope

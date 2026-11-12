@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LogicalDefectStorage_observable_hamiltonian
 -- name    : QEC.Coding.BDL26LogicalDefectStorage.observable_hamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:22:10.704727+00:00
 -- url     : https://prove2.me/theorems/850f0cf9-0931-4f2e-b568-918c08fb5921

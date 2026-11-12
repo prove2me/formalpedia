@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_frequency_energyDifference
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.frequency_energyDifference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:40:11.389193+00:00
 -- url     : https://prove2.me/theorems/b0b2677c-eb72-4594-ae7e-0ca3aad21640

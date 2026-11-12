@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_cellular_transport
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.cellular_transport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:50:42.803046+00:00
 -- url     : https://prove2.me/theorems/24d8e103-f5f2-4e20-a779-c5da4cd2f2aa

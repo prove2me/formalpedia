@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_DBar_lemma3_dbar_eq_of_le
 -- name    : StochIneqPO.DBar.lemma3_dbar_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:18.415929+00:00
 -- url     : https://prove2.me/theorems/75b2f5d0-8b93-4fe7-97e5-8baf99634257

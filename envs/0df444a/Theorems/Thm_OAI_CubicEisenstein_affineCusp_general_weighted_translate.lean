@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineCusp_general_weighted_translate
 -- name    : OAI.CubicEisenstein.affineCusp_general_weighted_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:04:18.84721+00:00
 -- url     : https://prove2.me/theorems/77aadc92-72a0-4533-a091-e638618c154f

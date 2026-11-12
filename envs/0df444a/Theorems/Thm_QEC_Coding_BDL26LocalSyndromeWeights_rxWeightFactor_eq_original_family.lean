@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalSyndromeWeights_rxWeightFactor_eq_original_family
 -- name    : QEC.Coding.BDL26LocalSyndromeWeights.rxWeightFactor_eq_original_family
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:49:49.127492+00:00
 -- url     : https://prove2.me/theorems/0b676fec-b974-4c5d-8808-8276be00e6b5

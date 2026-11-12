@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_wordTriplePairing_zero_left
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.wordTriplePairing_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:29:22.349413+00:00
 -- url     : https://prove2.me/theorems/753327dc-ed81-4b10-8e15-e7d67195f787

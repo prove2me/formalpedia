@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineCusp_branch_fourier
 -- name    : OAI.CubicEisenstein.affineCusp_branch_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:48:23.639425+00:00
 -- url     : https://prove2.me/theorems/80bf0966-ffae-4ebe-ac10-6e292de83057

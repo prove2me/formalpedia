@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_original_cp_modified_levy_source
 -- name    : AvramDividend.Classical.avram_a06_original_cp_modified_levy_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T22:27:12.216188+00:00
 -- url     : https://prove2.me/theorems/3984994d-eede-45b8-be9b-21001a37fa88

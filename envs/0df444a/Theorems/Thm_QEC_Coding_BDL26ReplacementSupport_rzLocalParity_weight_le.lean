@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementSupport_rzLocalParity_weight_le
 -- name    : QEC.Coding.BDL26ReplacementSupport.rzLocalParity_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T00:57:58.144376+00:00
 -- url     : https://prove2.me/theorems/a83c8880-6845-4c26-9748-22829c23b2ef

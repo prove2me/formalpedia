@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXDifferentialMasks_first_step_singleton_obstruction
 -- name    : QEC.Coding.BDL26RXDifferentialMasks.first_step_singleton_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T22:34:06.865711+00:00
 -- url     : https://prove2.me/theorems/5f848f63-462b-4baf-95a2-29c8b13a0338

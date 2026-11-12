@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_correctedAllSiteT_implements_logicalAllSiteT
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.correctedAllSiteT_implements_logicalAllSiteT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:53:16.639551+00:00
 -- url     : https://prove2.me/theorems/af631e4f-4dd0-4014-927b-e929a59685e6

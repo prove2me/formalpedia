@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26KeyedGeometric_keyEvents_have_dependency_graph
 -- name    : QEC.Coding.BDL26KeyedGeometric.keyEvents_have_dependency_graph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:57:31.069207+00:00
 -- url     : https://prove2.me/theorems/a18f764e-c7d8-47f9-9804-795fdc5a557c

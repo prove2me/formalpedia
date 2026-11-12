@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_dense_incidence_rows
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.dense_incidence_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:51:28.778203+00:00
 -- url     : https://prove2.me/theorems/1ee391e4-ce9c-44b4-bb8c-dfd4a472b3d7

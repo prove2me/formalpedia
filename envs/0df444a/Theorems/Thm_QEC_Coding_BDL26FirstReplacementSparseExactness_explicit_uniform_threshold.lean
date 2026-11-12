@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FirstReplacementSparseExactness_explicit_uniform_threshold
 -- name    : QEC.Coding.BDL26FirstReplacementSparseExactness.explicit_uniform_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:52:48.850708+00:00
 -- url     : https://prove2.me/theorems/0a779a05-c0df-46be-b841-d22bafeff8c2

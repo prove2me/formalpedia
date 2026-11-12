@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_GelbrichFiniteSample_theorem_22_finite_sample_guarantee_gelbrich
 -- name    : WassersteinDRO.GelbrichFiniteSample.theorem_22_finite_sample_guarantee_gelbrich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:03:04.805987+00:00
 -- url     : https://prove2.me/theorems/00692520-1c74-4992-8e99-044f73819b6c

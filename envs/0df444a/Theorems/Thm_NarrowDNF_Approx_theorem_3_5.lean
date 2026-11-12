@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NarrowDNF_Approx_theorem_3_5
 -- name    : NarrowDNF.Approx.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:07:43.835309+00:00
 -- url     : https://prove2.me/theorems/9b3a14bd-30e5-47b5-9455-605f42bbff23

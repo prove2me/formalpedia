@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_prefix_left_inverse
 -- name    : QEC.Coding.BDL26FiniteCohomology.prefix_left_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:48:41.947282+00:00
 -- url     : https://prove2.me/theorems/fb65d47b-4087-479c-831d-f8ece758e378

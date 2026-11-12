@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_correction_raw_square_phase
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.correction_raw_square_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:28:03.422418+00:00
 -- url     : https://prove2.me/theorems/b4340300-f030-4df4-a51b-95ffbdab522f

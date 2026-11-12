@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinkhornHall_sinkhorn_decrement
 -- name    : SinkhornHall.sinkhorn_decrement
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:38:16.953039+00:00
 -- url     : https://prove2.me/theorems/c56719a9-2505-4e9f-9270-32045df13e10

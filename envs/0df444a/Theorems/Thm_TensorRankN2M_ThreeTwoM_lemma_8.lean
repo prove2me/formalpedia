@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorRankN2M_ThreeTwoM_lemma_8
 -- name    : TensorRankN2M.ThreeTwoM.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:17:09.78619+00:00
 -- url     : https://prove2.me/theorems/7ae4286a-5d42-4667-90df-bf2b1e5f8f47

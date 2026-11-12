@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a06_original_compound_gated_levy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T23:56:49.981237+00:00
 -- url     : https://prove2.me/submissions/3f86c1af-a29a-4269-b4ab-51fcf84c8253
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.ConditionalProbability
 import Definitions.Def_levy_foundations_isCompoundPoissonDriver

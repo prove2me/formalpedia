@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabilityDichotomies_Solvability_sparse_large_diameter_obstruction
 -- name    : StabilityDichotomies.Solvability.sparse_large_diameter_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:29.068327+00:00
 -- url     : https://prove2.me/theorems/1c1d667e-9d19-4553-ab91-100a69e55a88

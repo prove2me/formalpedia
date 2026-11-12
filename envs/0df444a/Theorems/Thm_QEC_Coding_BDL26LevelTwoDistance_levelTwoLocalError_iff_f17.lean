@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDistance_levelTwoLocalError_iff_f17
 -- name    : QEC.Coding.BDL26LevelTwoDistance.levelTwoLocalError_iff_f17
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:25:22.749636+00:00
 -- url     : https://prove2.me/theorems/bf50a3bb-ec3f-4873-9456-4a123d80db75

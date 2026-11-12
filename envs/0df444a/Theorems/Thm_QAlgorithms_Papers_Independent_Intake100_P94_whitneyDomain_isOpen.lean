@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P94_whitneyDomain_isOpen
 -- name    : QAlgorithms.Papers.Independent.Intake100.P94.whitneyDomain_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:46:50.474777+00:00
 -- url     : https://prove2.me/theorems/8c22df09-5dad-48b1-8970-fc40c8257ad9

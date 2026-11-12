@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_rowCliffordExponent8_physical
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.rowCliffordExponent8_physical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:06.879205+00:00
 -- url     : https://prove2.me/theorems/3e6fbf4d-fb36-43a2-8a25-31b034fe5356

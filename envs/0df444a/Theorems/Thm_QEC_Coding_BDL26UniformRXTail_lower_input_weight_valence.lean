@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26UniformRXTail_lower_input_weight_valence
 -- name    : QEC.Coding.BDL26UniformRXTail.lower_input_weight_valence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:06:36.077041+00:00
 -- url     : https://prove2.me/theorems/65528636-62d1-439c-a1c4-f92d12f3e961

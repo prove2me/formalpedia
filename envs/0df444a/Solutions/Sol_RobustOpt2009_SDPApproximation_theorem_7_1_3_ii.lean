@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RobustOpt2009.SDPApproximation.theorem_7_1_3_ii
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-31T06:49:27.550254+00:00
 -- url     : https://prove2.me/submissions/4208184d-d0a0-42d1-8d2b-0ce5f6cea34c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ModernConvex_MatrixCube_MatrixCube

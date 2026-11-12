@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXConc_claim_3_1
 -- name    : HDXConc.claim_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:00:11.263275+00:00
 -- url     : https://prove2.me/theorems/863a656d-4f15-460e-a7aa-db68679283d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P47_trivial_input_se
 -- name    : QAlgorithms.Papers.Independent.Extend50.P47.trivial_input_se
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:39:50.446352+00:00
 -- url     : https://prove2.me/theorems/7722a5b7-5d62-40ac-8431-c60a0cc10de1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_capacity_lemma
 -- name    : PersuasionByParts.Known.capacity_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:29:36.64065+00:00
 -- url     : https://prove2.me/theorems/16be52ff-6837-448f-8be6-9457a9c4fcd6

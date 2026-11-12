@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26TransposedStoppedDecoder_dualRXStepOutput_components
 -- name    : QEC.Coding.BDL26TransposedStoppedDecoder.dualRXStepOutput_components
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:34:02.837307+00:00
 -- url     : https://prove2.me/theorems/18350011-3c98-48b6-8282-9c8c8787f97f

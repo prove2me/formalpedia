@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P13_contraction_preservesTetrahedron
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P13.contraction_preservesTetrahedron
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:59:27.259485+00:00
 -- url     : https://prove2.me/theorems/e32a9826-f84b-4390-afae-0766b7ff66a7

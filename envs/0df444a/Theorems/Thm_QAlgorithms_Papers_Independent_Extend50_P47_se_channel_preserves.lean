@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P47_se_channel_preserves
 -- name    : QAlgorithms.Papers.Independent.Extend50.P47.se_channel_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T21:40:36.826256+00:00
 -- url     : https://prove2.me/theorems/1bac6187-3129-4883-ba2a-f41f513ace9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderChannel_channel_cross_sector
 -- name    : QEC.Coding.BDL26PairedDecoderChannel.channel_cross_sector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T19:42:05.629225+00:00
 -- url     : https://prove2.me/theorems/90655ca4-bfdf-436d-8931-ae57be3479f3

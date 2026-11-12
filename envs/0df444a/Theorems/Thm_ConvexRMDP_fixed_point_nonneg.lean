@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexRMDP_fixed_point_nonneg
 -- name    : ConvexRMDP.fixed_point_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:18:03.895638+00:00
 -- url     : https://prove2.me/theorems/0b27ae1d-4ad8-4a0c-a1f4-92bd1bafeed5

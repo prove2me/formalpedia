@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Puder_tendsto_card_primitivityRank_eq_rpow_of_sqrt_lt
 -- name    : Puder.tendsto_card_primitivityRank_eq_rpow_of_sqrt_lt
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T10:32:45.523692+00:00
 -- url     : https://prove2.me/theorems/67f07109-e979-447a-a9c8-4a9b3621c8ab

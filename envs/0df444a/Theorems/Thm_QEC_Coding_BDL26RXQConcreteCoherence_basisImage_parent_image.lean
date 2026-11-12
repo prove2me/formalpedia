@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXQConcreteCoherence_basisImage_parent_image
 -- name    : QEC.Coding.BDL26RXQConcreteCoherence.basisImage_parent_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T10:17:31.917808+00:00
 -- url     : https://prove2.me/theorems/57366ff1-0887-4af9-92bd-38b4ef57495d

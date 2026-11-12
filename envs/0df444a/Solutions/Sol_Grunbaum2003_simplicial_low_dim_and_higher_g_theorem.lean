@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Grunbaum2003.simplicial_low_dim_and_higher_g_theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-08T01:31:18.677052+00:00
 -- url     : https://prove2.me/submissions/79def8f9-7634-462b-811e-e7b82d378cd1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Grunbaum2003_IsSimplicialDPolytope
 import Definitions.Def_Grunbaum2003_faceCount

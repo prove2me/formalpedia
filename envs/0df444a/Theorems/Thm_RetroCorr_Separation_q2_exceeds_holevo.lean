@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetroCorr_Separation_q2_exceeds_holevo
 -- name    : RetroCorr.Separation.q2_exceeds_holevo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:27:41.531809+00:00
 -- url     : https://prove2.me/theorems/86121560-0991-4b3e-95c0-782afb9cd2d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_stagePrefix_read
 -- name    : QEC.Coding.BDL26PaidRowsComposition.stagePrefix_read
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:58:33.596439+00:00
 -- url     : https://prove2.me/theorems/dc06a36c-75da-4d29-8b4c-1b2cabda2d52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_supergraph_maximal_edgeFinset_cardinality__p2m_2212fb5a_3b8b_4ff4_b66b_e1a858c8b349_a1
 -- name    : WilliamsonShmoys.exists_supergraph_maximal_edgeFinset_cardinality__p2m_2212fb5a_3b8b_4ff4_b66b_e1a858c8b349_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:07:11.3738+00:00
 -- url     : https://prove2.me/theorems/e7855619-1258-431b-bded-366dc5c9128c

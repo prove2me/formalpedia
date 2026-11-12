@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_axisCircle_det
 -- name    : QEC.Distillation.axisCircle_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T14:10:06.445048+00:00
 -- url     : https://prove2.me/theorems/703fd147-5f85-4678-99b2-ab4453a18cb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_bv_finite_activity_standing_source_exists
 -- name    : AvramDividend.Classical.avram_a06_bv_finite_activity_standing_source_exists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T14:54:58.039224+00:00
 -- url     : https://prove2.me/theorems/3281148e-e1e8-4781-9254-1ccba1182757

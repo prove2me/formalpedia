@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXConc_eq_13
 -- name    : HDXConc.eq_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:00:37.785205+00:00
 -- url     : https://prove2.me/theorems/ab1e8195-fc1f-432a-9937-af371e9a0d2f

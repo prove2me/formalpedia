@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P90_measurementBasis_reduction
 -- name    : QAlgorithms.Papers.Independent.Intake100.P90.measurementBasis_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:09:38.002151+00:00
 -- url     : https://prove2.me/theorems/6d91c9b3-10d2-42d1-b2d5-9c177044e044

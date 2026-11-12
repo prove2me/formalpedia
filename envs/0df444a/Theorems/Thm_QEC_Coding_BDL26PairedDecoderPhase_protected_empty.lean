@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderPhase_protected_empty
 -- name    : QEC.Coding.BDL26PairedDecoderPhase.protected_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:53:01.398216+00:00
 -- url     : https://prove2.me/theorems/62279c7c-0be0-421b-9ff7-c3c6e7d63409

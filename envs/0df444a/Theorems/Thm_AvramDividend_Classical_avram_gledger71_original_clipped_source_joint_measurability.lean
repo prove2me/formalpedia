@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger71_original_clipped_source_joint_measurability
 -- name    : AvramDividend.Classical.avram_gledger71_original_clipped_source_joint_measurability
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T01:36:44.360438+00:00
 -- url     : https://prove2.me/theorems/6b3d4114-e79a-4d2e-87a6-f98eb2513a84

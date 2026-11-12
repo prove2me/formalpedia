@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_KT19VanishingOverhead_kt19SelectedPortDensity_eq_actualMarginal
 -- name    : QEC.Distillation.KT19VanishingOverhead.kt19SelectedPortDensity_eq_actualMarginal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:17:28.52319+00:00
 -- url     : https://prove2.me/theorems/e76a391d-aa5d-4f27-8ca0-6225201c65c7

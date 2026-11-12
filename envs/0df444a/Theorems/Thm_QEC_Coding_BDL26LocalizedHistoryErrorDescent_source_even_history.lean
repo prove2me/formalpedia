@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LocalizedHistoryErrorDescent_source_even_history
 -- name    : QEC.Coding.BDL26LocalizedHistoryErrorDescent.source_even_history
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T18:23:56.546409+00:00
 -- url     : https://prove2.me/theorems/37a10d1c-179d-414a-92fa-b289f3b0db29

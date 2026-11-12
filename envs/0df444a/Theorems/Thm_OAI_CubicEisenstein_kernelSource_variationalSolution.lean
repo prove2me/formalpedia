@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_kernelSource_variationalSolution
 -- name    : OAI.CubicEisenstein.kernelSource_variationalSolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:20:42.831825+00:00
 -- url     : https://prove2.me/theorems/2eeaf29e-beee-4ada-b125-af6ac2a8eaf3

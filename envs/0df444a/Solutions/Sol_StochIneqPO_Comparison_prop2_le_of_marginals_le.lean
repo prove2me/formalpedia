@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StochIneqPO.Comparison.prop2_le_of_marginals_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T17:51:13.9952+00:00
 -- url     : https://prove2.me/submissions/90acd3b9-f55b-4143-b48a-c5d8309569b5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StochIneqPO_Comparison_StochLE

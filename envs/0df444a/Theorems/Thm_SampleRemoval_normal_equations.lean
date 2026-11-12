@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleRemoval_normal_equations
 -- name    : SampleRemoval.normal_equations
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:10:30.227765+00:00
 -- url     : https://prove2.me/theorems/bb74ae02-8db0-4e54-8c08-bab6578b06b3

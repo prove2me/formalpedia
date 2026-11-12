@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_bitPairSum8_eq_unorderedPairs
 -- name    : QEC.Distillation.Triorthogonal.bitPairSum8_eq_unorderedPairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:34:56.050292+00:00
 -- url     : https://prove2.me/theorems/eacd0a79-b01e-4d84-85d7-db2b91b0f165

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_affineCusp_norm_factor
 -- name    : OAI.CubicEisenstein.affineCusp_norm_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:01:19.212548+00:00
 -- url     : https://prove2.me/theorems/7a5794ae-1e36-4f2d-b283-57235d3c096e

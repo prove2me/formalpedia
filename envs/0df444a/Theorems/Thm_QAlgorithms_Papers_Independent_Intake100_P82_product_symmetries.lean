@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P82_product_symmetries
 -- name    : QAlgorithms.Papers.Independent.Intake100.P82.product_symmetries
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:16:14.547993+00:00
 -- url     : https://prove2.me/theorems/5a517e51-0c7b-4495-a16b-6e040b23d8ee

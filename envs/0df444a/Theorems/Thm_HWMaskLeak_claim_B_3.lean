@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HWMaskLeak_claim_B_3
 -- name    : HWMaskLeak.claim_B_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:29:36.820381+00:00
 -- url     : https://prove2.me/theorems/38110975-c016-43c3-bb03-40179a17b291

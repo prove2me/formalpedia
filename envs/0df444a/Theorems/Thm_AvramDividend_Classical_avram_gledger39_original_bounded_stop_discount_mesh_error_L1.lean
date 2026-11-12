@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger39_original_bounded_stop_discount_mesh_error_L1
 -- name    : AvramDividend.Classical.avram_gledger39_original_bounded_stop_discount_mesh_error_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T19:23:14.991913+00:00
 -- url     : https://prove2.me/theorems/0b0c563c-7d0b-493e-a461-dd8e11bd5f94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_Disjoint_theorem_4_1
 -- name    : BudgetedAffine.Disjoint.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:16:48.838987+00:00
 -- url     : https://prove2.me/theorems/cd6fc2ab-55b7-4329-a7cc-b40f60e8a68e

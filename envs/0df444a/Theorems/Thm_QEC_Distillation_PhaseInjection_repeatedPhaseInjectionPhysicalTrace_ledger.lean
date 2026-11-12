@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_PhaseInjection_repeatedPhaseInjectionPhysicalTrace_ledger
 -- name    : QEC.Distillation.PhaseInjection.repeatedPhaseInjectionPhysicalTrace_ledger
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:23:22.197829+00:00
 -- url     : https://prove2.me/theorems/5d402d73-ad1c-4f87-9354-a446dfed560d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformADProbes_Trace_recover_pointed_representation
 -- name    : UniformADProbes.Trace.recover_pointed_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:49:57.384361+00:00
 -- url     : https://prove2.me/theorems/8c4bf9c2-c0a4-4151-a840-1295583fb73d

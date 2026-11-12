@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearHashingPoissonesque_ExpectedLoads_poisson_approximation_expectation
 -- name    : LinearHashingPoissonesque.ExpectedLoads.poisson_approximation_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T19:03:08.16979+00:00
 -- url     : https://prove2.me/theorems/9e41dc51-7707-4494-bfdb-e92d30993953

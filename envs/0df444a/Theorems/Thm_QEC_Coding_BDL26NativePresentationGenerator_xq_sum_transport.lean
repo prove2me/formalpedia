@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativePresentationGenerator_xq_sum_transport
 -- name    : QEC.Coding.BDL26NativePresentationGenerator.xq_sum_transport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T00:48:07.277234+00:00
 -- url     : https://prove2.me/theorems/3239c32d-cf14-4537-92e2-99132e419cd7

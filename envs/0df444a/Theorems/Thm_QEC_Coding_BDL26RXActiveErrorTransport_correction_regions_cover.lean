@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXActiveErrorTransport_correction_regions_cover
 -- name    : QEC.Coding.BDL26RXActiveErrorTransport.correction_regions_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T13:39:13.012369+00:00
 -- url     : https://prove2.me/theorems/4b3f3e89-9222-4e3d-8469-438d1db705f0

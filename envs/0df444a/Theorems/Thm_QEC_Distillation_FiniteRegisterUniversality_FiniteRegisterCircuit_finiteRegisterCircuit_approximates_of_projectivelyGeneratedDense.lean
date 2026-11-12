@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_FiniteRegisterCircuit_finiteRegisterCircuit_approximates_of_projectivelyGeneratedDense
 -- name    : QEC.Distillation.FiniteRegisterUniversality.FiniteRegisterCircuit.finiteRegisterCircuit_approximates_of_projectivelyGeneratedDense
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T15:02:58.315757+00:00
 -- url     : https://prove2.me/theorems/1a1c164e-fa07-4537-84bd-4f24835ad617

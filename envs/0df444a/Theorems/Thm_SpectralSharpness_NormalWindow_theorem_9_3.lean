@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSharpness_NormalWindow_theorem_9_3
 -- name    : SpectralSharpness.NormalWindow.theorem_9_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:21:28.065182+00:00
 -- url     : https://prove2.me/theorems/a45aed9e-28d2-487d-9919-15f628c3d7d6

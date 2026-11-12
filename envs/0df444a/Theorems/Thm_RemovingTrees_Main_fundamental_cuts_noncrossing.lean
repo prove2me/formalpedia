@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RemovingTrees_Main_fundamental_cuts_noncrossing
 -- name    : RemovingTrees.Main.fundamental_cuts_noncrossing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:21:14.117198+00:00
 -- url     : https://prove2.me/theorems/24a7b3a0-012e-484a-b01d-9ec5458bf63c

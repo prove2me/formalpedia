@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_bound_from_connected_subtype_bounds__p2m_e9a12d61_586c_475e_b65b_75c2a4e2b868_a3
 -- name    : WilliamsonShmoys_edge_bound_from_connected_subtype_bounds__p2m_e9a12d61_586c_475e_b65b_75c2a4e2b868_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T16:36:54.871214+00:00
 -- url     : https://prove2.me/theorems/9b15412f-e265-42ce-9016-abfc489359e7

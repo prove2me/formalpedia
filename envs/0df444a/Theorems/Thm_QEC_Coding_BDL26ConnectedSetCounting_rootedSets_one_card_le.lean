@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ConnectedSetCounting_rootedSets_one_card_le
 -- name    : QEC.Coding.BDL26ConnectedSetCounting.rootedSets_one_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:48:06.34361+00:00
 -- url     : https://prove2.me/theorems/e9aff948-8a58-41e7-8c0f-850d08b4687e

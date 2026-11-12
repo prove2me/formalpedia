@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CanonicalHistoryMarks_oneMarks_in_rootComponent
 -- name    : QEC.Coding.BDL26CanonicalHistoryMarks.oneMarks_in_rootComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:04:48.449299+00:00
 -- url     : https://prove2.me/theorems/54d96635-3d48-4139-8f36-4d7b5b220ca5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZDecoderAdapter_rzStepOutput_component_supported
 -- name    : QEC.Coding.BDL26RZDecoderAdapter.rzStepOutput_component_supported
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T09:17:17.275016+00:00
 -- url     : https://prove2.me/theorems/5dd75cbf-81bf-4252-a36f-fd1df4c205b0

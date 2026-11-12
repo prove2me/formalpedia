@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Why24ConstantOverhead_why24FourTToCCZBatch_run
 -- name    : QEC.Distillation.Why24ConstantOverhead.why24FourTToCCZBatch_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:32:23.933471+00:00
 -- url     : https://prove2.me/theorems/03fac87d-9c2e-42d2-bfe6-788f1610f3db

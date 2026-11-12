@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26HistorySyndromeSensitivity_c2_pair_weight
 -- name    : QEC.Coding.BDL26HistorySyndromeSensitivity.c2_pair_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:30:34.804336+00:00
 -- url     : https://prove2.me/theorems/eff37178-e496-43f6-82d4-315a389002f7

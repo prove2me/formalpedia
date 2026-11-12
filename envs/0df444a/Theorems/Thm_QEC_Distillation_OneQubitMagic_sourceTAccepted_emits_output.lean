@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceTAccepted_emits_output
 -- name    : QEC.Distillation.OneQubitMagic.sourceTAccepted_emits_output
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:15:32.169711+00:00
 -- url     : https://prove2.me/theorems/45c0c9f8-18ff-435f-8542-a23778519fbd

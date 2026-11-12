@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowOutputQuery_cost
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowOutputQuery_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:21:08.713649+00:00
 -- url     : https://prove2.me/theorems/8e534dfb-1ea2-466c-9458-a7a1045f00b4

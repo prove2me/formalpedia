@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_singleQubitLift_mem_finiteRegisterGenerators
 -- name    : QEC.Distillation.FiniteRegisterUniversality.singleQubitLift_mem_finiteRegisterGenerators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:24:50.913202+00:00
 -- url     : https://prove2.me/theorems/4a3ac178-f192-414e-9159-afbb25f81639

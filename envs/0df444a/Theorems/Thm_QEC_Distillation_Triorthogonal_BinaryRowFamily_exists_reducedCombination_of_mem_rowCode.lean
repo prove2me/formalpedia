@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_exists_reducedCombination_of_mem_rowCode
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.exists_reducedCombination_of_mem_rowCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:38:41.220787+00:00
 -- url     : https://prove2.me/theorems/d4e8b7af-8a5a-4bdd-a673-ab0f220d7f10

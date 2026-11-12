@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementCochainMaps_rzCochainMap_identities
 -- name    : QEC.Coding.BDL26ReplacementCochainMaps.rzCochainMap_identities
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:07:22.604738+00:00
 -- url     : https://prove2.me/theorems/723619d4-e8c8-428a-9515-4dac19b9f994

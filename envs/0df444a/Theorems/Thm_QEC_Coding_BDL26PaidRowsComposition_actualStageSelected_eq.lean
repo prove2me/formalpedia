@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_actualStageSelected_eq
 -- name    : QEC.Coding.BDL26PaidRowsComposition.actualStageSelected_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:58:01.533721+00:00
 -- url     : https://prove2.me/theorems/1674f39e-7716-44af-b6b5-bbc625579478

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CSSDaviesLocality_hamiltonian_eq
 -- name    : QEC.Coding.BDL26CSSDaviesLocality.hamiltonian_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T17:36:06.219195+00:00
 -- url     : https://prove2.me/theorems/1e64531a-0d34-428f-895c-252652d4d74c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RZPhysicalStarTransport_local_edge_transport
 -- name    : QEC.Coding.BDL26RZPhysicalStarTransport.local_edge_transport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:29:43.745434+00:00
 -- url     : https://prove2.me/theorems/cbb41320-5c86-42d0-9eb0-08b9720d4a01

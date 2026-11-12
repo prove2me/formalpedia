@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja18g_original_zero_cutoff_increment_rightcont_indep
 -- name    : AvramDividend.Classical.avram_ja18g_original_zero_cutoff_increment_rightcont_indep
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T03:46:07.592501+00:00
 -- url     : https://prove2.me/theorems/44150b04-fb86-435d-80c3-7cae47f48c1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_streamHaltTime_of_not_halts
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.streamHaltTime_of_not_halts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:10:30.213601+00:00
 -- url     : https://prove2.me/theorems/027b86a4-d212-4d21-9133-e0dce345b0db

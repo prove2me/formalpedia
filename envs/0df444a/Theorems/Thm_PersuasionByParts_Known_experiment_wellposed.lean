@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_experiment_wellposed
 -- name    : PersuasionByParts.Known.experiment_wellposed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:28:35.513532+00:00
 -- url     : https://prove2.me/theorems/589afd7f-cc32-4b0c-80dc-2bcb7c5dfb92

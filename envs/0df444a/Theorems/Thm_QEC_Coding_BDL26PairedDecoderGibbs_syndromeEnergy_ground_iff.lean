@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PairedDecoderGibbs_syndromeEnergy_ground_iff
 -- name    : QEC.Coding.BDL26PairedDecoderGibbs.syndromeEnergy_ground_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:07:46.339859+00:00
 -- url     : https://prove2.me/theorems/24736326-25f8-4424-bf90-6a8cbf0af9a7

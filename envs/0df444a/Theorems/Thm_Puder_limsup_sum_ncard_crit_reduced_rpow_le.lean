@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Puder_limsup_sum_ncard_crit_reduced_rpow_le
 -- name    : Puder.limsup_sum_ncard_crit_reduced_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T10:16:28.828082+00:00
 -- url     : https://prove2.me/theorems/37f747f1-489f-4838-840a-6f816eab4e10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_period_integral_eisenstein_mul
 -- name    : OAI.CubicEisenstein.period_integral_eisenstein_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:10:25.125447+00:00
 -- url     : https://prove2.me/theorems/7076b72e-0dc8-4df8-8a13-3dc9556d6a04

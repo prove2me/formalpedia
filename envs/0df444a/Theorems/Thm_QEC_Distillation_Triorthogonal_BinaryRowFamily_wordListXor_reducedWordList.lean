@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_wordListXor_reducedWordList
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.wordListXor_reducedWordList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:29:57.904141+00:00
 -- url     : https://prove2.me/theorems/c5f69641-2531-4038-85cc-d0a69955c93d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatrixAllFields_MatrixMultiplication_CompactCertificate_entropyLookup_sound
 -- name    : OAI.MatrixAllFields.MatrixMultiplication.CompactCertificate.entropyLookup_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T05:56:44.600233+00:00
 -- url     : https://prove2.me/theorems/595a935f-3a39-4fcf-82d4-19acf070402d

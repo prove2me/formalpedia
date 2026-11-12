@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger53_original_clipped_physical_source_positive_L1
 -- name    : AvramDividend.Classical.avram_gledger53_original_clipped_physical_source_positive_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T23:14:20.948778+00:00
 -- url     : https://prove2.me/theorems/a604fe09-9eb7-4a49-8593-44e71073b24e

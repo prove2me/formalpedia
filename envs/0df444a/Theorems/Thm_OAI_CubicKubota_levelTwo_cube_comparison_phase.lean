@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicKubota_levelTwo_cube_comparison_phase
 -- name    : OAI.CubicKubota.levelTwo_cube_comparison_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:34:58.227188+00:00
 -- url     : https://prove2.me/theorems/feb8705d-d1f3-4c15-9c9b-38964d50f147

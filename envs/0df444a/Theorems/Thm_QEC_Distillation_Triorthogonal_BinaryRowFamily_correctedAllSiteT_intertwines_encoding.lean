@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_correctedAllSiteT_intertwines_encoding
 -- name    : QEC.Distillation.Triorthogonal.BinaryRowFamily.correctedAllSiteT_intertwines_encoding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T12:40:56.413366+00:00
 -- url     : https://prove2.me/theorems/55a730f1-873d-4acc-bac2-0b6115146e2f

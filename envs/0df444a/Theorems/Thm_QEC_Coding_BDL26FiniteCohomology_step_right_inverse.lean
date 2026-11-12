@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteCohomology_step_right_inverse
 -- name    : QEC.Coding.BDL26FiniteCohomology.step_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T05:48:53.747715+00:00
 -- url     : https://prove2.me/theorems/580cd409-37a8-4ff3-a5ac-74e778cd7e44
