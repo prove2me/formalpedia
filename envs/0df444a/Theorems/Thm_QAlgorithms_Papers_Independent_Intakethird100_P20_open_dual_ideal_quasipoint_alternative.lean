@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_open_dual_ideal_quasipoint_alternative
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.open_dual_ideal_quasipoint_alternative
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:47:01.249316+00:00
 -- url     : https://prove2.me/theorems/b3204f23-8232-418b-9cb2-f124e5d6b705

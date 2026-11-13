@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_random_field_pressure_tendsto_ae
 -- name    : OAI.InvariantIsing.random_field_pressure_tendsto_ae
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:30:27.414457+00:00
 -- url     : https://prove2.me/theorems/cb57c5ea-5e51-4843-8ea4-a9b850b9e4c9

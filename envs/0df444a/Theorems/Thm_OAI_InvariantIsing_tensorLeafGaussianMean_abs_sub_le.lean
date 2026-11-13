@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorLeafGaussianMean_abs_sub_le
 -- name    : OAI.InvariantIsing.tensorLeafGaussianMean_abs_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:58:03.264428+00:00
 -- url     : https://prove2.me/theorems/8279ee28-ed45-4b84-80bb-875ed338609c

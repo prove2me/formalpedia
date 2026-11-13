@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AutoregLTF_theorem_1_counting
 -- name    : AutoregLTF.theorem_1_counting
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:54:25.812506+00:00
 -- url     : https://prove2.me/theorems/ca0d4ee2-2ef3-4aea-83c6-e49a0546993d

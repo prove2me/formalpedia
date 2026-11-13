@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_groupObjectsInCatAreGroupoids
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.groupObjectsInCatAreGroupoids
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:34:57.613056+00:00
 -- url     : https://prove2.me/theorems/a1d210a1-3965-4201-9823-d40879c7c51c

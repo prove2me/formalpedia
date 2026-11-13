@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.compact_spectral_pressure_tendsto_of_mem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:26:52.272874+00:00
 -- url     : https://prove2.me/submissions/1b737887-02e1-4113-8ee1-416598229742
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

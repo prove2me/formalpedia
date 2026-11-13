@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorFlat_leafPrefix_mean
 -- name    : OAI.InvariantIsing.spinPriorFlat_leafPrefix_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:32:30.867195+00:00
 -- url     : https://prove2.me/theorems/44e25cb9-f0bf-4ccb-bc22-ec775be854b2

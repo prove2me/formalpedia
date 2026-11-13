@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorGrowingPerturbedArrayLaw_ward_limits
 -- name    : OAI.InvariantIsing.tensorGrowingPerturbedArrayLaw_ward_limits
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:24.997084+00:00
 -- url     : https://prove2.me/theorems/263b1d3f-434b-4d68-842a-397e35c6c25c

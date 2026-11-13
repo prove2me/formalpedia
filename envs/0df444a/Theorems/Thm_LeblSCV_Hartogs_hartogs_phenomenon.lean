@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Hartogs_hartogs_phenomenon
 -- name    : LeblSCV.Hartogs.hartogs_phenomenon
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T09:11:25.593132+00:00
 -- url     : https://prove2.me/theorems/c58f8524-10dc-4f0c-9e96-5c54c797848f

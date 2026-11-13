@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_cost_inequality
 -- name    : RepellingPairs.cost_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:07:10.997571+00:00
 -- url     : https://prove2.me/theorems/a220258e-f316-4ace-866e-ef3da7e0deb3

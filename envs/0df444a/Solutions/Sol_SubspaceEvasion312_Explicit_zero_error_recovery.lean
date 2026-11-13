@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SubspaceEvasion312.Explicit.zero_error_recovery
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:05:32.433817+00:00
 -- url     : https://prove2.me/submissions/a6a0c695-b9e7-4ebf-9072-a72cad454746
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SubspaceEvasion312_Explicit_algebra

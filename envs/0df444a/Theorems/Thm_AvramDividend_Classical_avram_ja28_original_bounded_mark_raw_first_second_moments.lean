@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja28_original_bounded_mark_raw_first_second_moments
 -- name    : AvramDividend.Classical.avram_ja28_original_bounded_mark_raw_first_second_moments
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T21:55:06.650487+00:00
 -- url     : https://prove2.me/theorems/4106f6a7-d069-4504-a840-d5b32edca1d5

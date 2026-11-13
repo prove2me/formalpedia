@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubadditiveMMS580_Amplification_corollary_3_3
 -- name    : SubadditiveMMS580.Amplification.corollary_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T19:54:26.464227+00:00
 -- url     : https://prove2.me/theorems/ff4e8aeb-7d5d-4b75-bbf4-3b3492293883

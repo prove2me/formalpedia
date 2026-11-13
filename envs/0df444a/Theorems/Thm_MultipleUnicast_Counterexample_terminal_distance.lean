@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultipleUnicast_Counterexample_terminal_distance
 -- name    : MultipleUnicast.Counterexample.terminal_distance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:22:49.012451+00:00
 -- url     : https://prove2.me/theorems/758615f2-3dd9-443b-96f8-080438f14a7a

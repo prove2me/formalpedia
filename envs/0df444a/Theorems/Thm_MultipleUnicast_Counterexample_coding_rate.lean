@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultipleUnicast_Counterexample_coding_rate
 -- name    : MultipleUnicast.Counterexample.coding_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:22:59.453208+00:00
 -- url     : https://prove2.me/theorems/22053705-61db-496d-9c82-57c18859a5e8

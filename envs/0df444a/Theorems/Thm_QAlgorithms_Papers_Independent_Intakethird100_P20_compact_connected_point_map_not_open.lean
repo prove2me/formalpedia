@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_compact_connected_point_map_not_open
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.compact_connected_point_map_not_open
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:44:07.220704+00:00
 -- url     : https://prove2.me/theorems/3568914a-a42e-45a0-97a0-f5ec146d29d6

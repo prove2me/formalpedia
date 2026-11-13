@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_fixed_minimum_geometric_limit
 -- name    : OAI.InvariantIsing.cavity_fixed_minimum_geometric_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:33:54.507803+00:00
 -- url     : https://prove2.me/theorems/9ecf9228-1740-4b2e-9f91-366ddcad0690

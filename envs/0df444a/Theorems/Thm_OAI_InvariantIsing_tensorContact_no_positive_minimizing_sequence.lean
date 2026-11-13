@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorContact_no_positive_minimizing_sequence
 -- name    : OAI.InvariantIsing.tensorContact_no_positive_minimizing_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:59.881621+00:00
 -- url     : https://prove2.me/theorems/0dee5ade-b160-4e21-a8a6-c58b81a9d8f2

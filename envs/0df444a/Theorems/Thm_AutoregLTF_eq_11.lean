@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AutoregLTF_eq_11
 -- name    : AutoregLTF.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:53:19.984202+00:00
 -- url     : https://prove2.me/theorems/28cb55c7-a6d7-4721-ab17-32ef1710e5ab

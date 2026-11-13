@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableCount_proposition_4_2
 -- name    : StableCount.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:51:30.656298+00:00
 -- url     : https://prove2.me/theorems/970a634c-acfd-474d-a045-be870e2ebafc

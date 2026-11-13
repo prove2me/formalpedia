@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntervalExplore_KT1_lemma_10
 -- name    : IntervalExplore.KT1.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:10:29.255312+00:00
 -- url     : https://prove2.me/theorems/04c3f8f2-189b-4084-bc01-d8877c6149a5

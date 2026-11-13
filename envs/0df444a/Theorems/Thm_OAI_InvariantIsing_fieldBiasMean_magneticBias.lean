@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_fieldBiasMean_magneticBias
 -- name    : OAI.InvariantIsing.fieldBiasMean_magneticBias
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:37:13.847855+00:00
 -- url     : https://prove2.me/theorems/c348b8d4-01f8-4933-b69c-ec9461d510ba

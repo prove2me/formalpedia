@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorContact_minimum_field_cone
 -- name    : OAI.InvariantIsing.spinPriorContact_minimum_field_cone
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:53.443195+00:00
 -- url     : https://prove2.me/theorems/b7ef2b6e-9946-4aa1-8f91-79cb37530971

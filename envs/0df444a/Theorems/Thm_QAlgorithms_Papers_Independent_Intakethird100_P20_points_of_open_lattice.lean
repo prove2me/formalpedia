@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_points_of_open_lattice
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.points_of_open_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:34:25.631292+00:00
 -- url     : https://prove2.me/theorems/68e9de62-e23c-440a-b768-45dd5abd35b1

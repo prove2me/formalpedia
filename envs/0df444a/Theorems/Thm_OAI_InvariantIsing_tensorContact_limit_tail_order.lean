@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorContact_limit_tail_order
 -- name    : OAI.InvariantIsing.tensorContact_limit_tail_order
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:47.32698+00:00
 -- url     : https://prove2.me/theorems/1f67c011-2bab-49e9-869a-5ffd11ac05e3

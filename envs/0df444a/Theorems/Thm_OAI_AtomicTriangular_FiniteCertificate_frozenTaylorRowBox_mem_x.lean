@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_FiniteCertificate_frozenTaylorRowBox_mem_x
 -- name    : OAI.AtomicTriangular.FiniteCertificate.frozenTaylorRowBox_mem_x
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T04:35:25.143223+00:00
 -- url     : https://prove2.me/theorems/99a98bf0-4c7b-4a77-943f-3eae63755f9a

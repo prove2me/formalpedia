@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_two_kraus_biunitary_diagonalization
 -- name    : WatrousTQI.two_kraus_biunitary_diagonalization
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T22:57:12.942127+00:00
 -- url     : https://prove2.me/theorems/ee567a0b-5541-428e-a57a-c8bc914a2708

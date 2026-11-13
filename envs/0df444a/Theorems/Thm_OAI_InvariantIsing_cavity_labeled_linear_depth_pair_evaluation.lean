@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_labeled_linear_depth_pair_evaluation
 -- name    : OAI.InvariantIsing.cavity_labeled_linear_depth_pair_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:22:10.641841+00:00
 -- url     : https://prove2.me/theorems/332531e0-df81-4981-b74e-65e08bc582d8

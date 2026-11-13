@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_claim_8_path_switching
 -- name    : RepellingPairs.claim_8_path_switching
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:04:36.294314+00:00
 -- url     : https://prove2.me/theorems/3f2d45a1-7776-4763-bb03-db086b15c2ea

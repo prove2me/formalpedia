@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_finite_type_iff_directed_meet_law
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.finite_type_iff_directed_meet_law
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:41:28.766972+00:00
 -- url     : https://prove2.me/theorems/9239994a-1117-4438-b942-cf6bfa528809

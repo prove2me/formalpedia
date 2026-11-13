@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubspaceEvasion312_Explicit_local_to_global
 -- name    : SubspaceEvasion312.Explicit.local_to_global
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:00:29.085793+00:00
 -- url     : https://prove2.me/theorems/2f98e157-2adb-4725-8845-678c7f0020f0

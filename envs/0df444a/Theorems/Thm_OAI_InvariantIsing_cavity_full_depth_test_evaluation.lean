@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_full_depth_test_evaluation
 -- name    : OAI.InvariantIsing.cavity_full_depth_test_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:21:32.467456+00:00
 -- url     : https://prove2.me/theorems/b12ffd59-4eb6-4204-8681-42dde215ad6a

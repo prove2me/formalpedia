@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_Balance_PackingPlan_realize
 -- name    : OAI.Saxl.Balance.PackingPlan.realize
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:15:35.659321+00:00
 -- url     : https://prove2.me/theorems/e8ad88fd-4903-4ea0-8107-dd32c9ce380b

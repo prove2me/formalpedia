@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_borel_saturation_quasipoint
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.borel_saturation_quasipoint
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:46:31.771496+00:00
 -- url     : https://prove2.me/theorems/7b1d6bd5-5c27-49a8-8291-152e8817f25e

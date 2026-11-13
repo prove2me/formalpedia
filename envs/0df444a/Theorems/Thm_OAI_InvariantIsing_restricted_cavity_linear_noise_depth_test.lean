@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_cavity_linear_noise_depth_test
 -- name    : OAI.InvariantIsing.restricted_cavity_linear_noise_depth_test
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:33.496392+00:00
 -- url     : https://prove2.me/theorems/862e60de-1371-4824-a5b9-a755b224e2bd

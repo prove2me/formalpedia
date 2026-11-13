@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_claim_13_minimal_good_pair
 -- name    : RepellingPairs.claim_13_minimal_good_pair
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:04:18.906916+00:00
 -- url     : https://prove2.me/theorems/0bc8ce90-cd64-4e6b-9d6c-3bc75aca738c

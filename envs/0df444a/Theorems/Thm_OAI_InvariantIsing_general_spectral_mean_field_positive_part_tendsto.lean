@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_general_spectral_mean_field_positive_part_tendsto
 -- name    : OAI.InvariantIsing.general_spectral_mean_field_positive_part_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:27:12.14034+00:00
 -- url     : https://prove2.me/theorems/ede5a73d-11da-482f-9894-ac1895e6d010

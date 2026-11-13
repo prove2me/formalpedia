@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_limiting_wasserstein_field_pressure_of_extreme_limits_unconditional
 -- name    : OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:47.976529+00:00
 -- url     : https://prove2.me/theorems/2d7e1498-71b1-4aef-a4b2-dd48f9aec71e

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.cavity_fixed_minimum_geometric_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:54:20.679102+00:00
 -- url     : https://prove2.me/submissions/88b40d94-c5ff-476a-8a36-d6dba68f995b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

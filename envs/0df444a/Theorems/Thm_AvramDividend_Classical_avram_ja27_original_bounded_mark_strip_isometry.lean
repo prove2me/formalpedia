@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja27_original_bounded_mark_strip_isometry
 -- name    : AvramDividend.Classical.avram_ja27_original_bounded_mark_strip_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T21:51:28.125811+00:00
 -- url     : https://prove2.me/theorems/2a4be8dd-e5a3-4015-b9fd-633953ab8adc

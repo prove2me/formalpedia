@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_original_haar_limit
 -- name    : OAI.InvariantIsing.restricted_original_haar_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:55.3309+00:00
 -- url     : https://prove2.me/theorems/a7856996-f437-49d5-a956-38fb017b8c54

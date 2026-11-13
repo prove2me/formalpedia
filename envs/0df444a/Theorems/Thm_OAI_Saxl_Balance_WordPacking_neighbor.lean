@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_Balance_WordPacking_neighbor
 -- name    : OAI.Saxl.Balance.WordPacking.neighbor
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:15:27.5192+00:00
 -- url     : https://prove2.me/theorems/dda1c94a-5e78-4bcf-9dbf-c0e1acb35a2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ClosedSurfaceR4_PublishedInputs_whitneySurfaceInput
 -- name    : OAI.ClosedSurfaceR4.PublishedInputs.whitneySurfaceInput
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:56:23.656568+00:00
 -- url     : https://prove2.me/theorems/a631a51a-c03c-4d66-8d9f-16afa7425896

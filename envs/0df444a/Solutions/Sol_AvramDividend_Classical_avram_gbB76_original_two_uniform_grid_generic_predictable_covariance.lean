@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gbB76_original_two_uniform_grid_generic_predictable_covariance
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T17:40:39.777199+00:00
 -- url     : https://prove2.me/submissions/9a7212fa-4b1e-49a1-acc2-c0aa6e4453c0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gbB83_original_two_mesh_common_refinement_bilinear

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CayleyErdosGyarfas_minimal_nonabelian_case_has_symmetric_figure_eight
 -- name    : CayleyErdosGyarfas.minimal_nonabelian_case_has_symmetric_figure_eight
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:39:38.206582+00:00
 -- url     : https://prove2.me/theorems/93e39e68-049d-4290-8393-03c362fdc587

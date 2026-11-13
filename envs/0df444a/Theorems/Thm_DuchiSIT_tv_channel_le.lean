@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DuchiSIT_tv_channel_le
 -- name    : DuchiSIT.tv_channel_le
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T18:21:50.192847+00:00
 -- url     : https://prove2.me/theorems/9be14f8b-fc6e-41e4-b749-9a11781ae3e3

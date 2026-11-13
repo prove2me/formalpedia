@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_affine_identity
 -- name    : HDXHitting.affine_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:57:53.781613+00:00
 -- url     : https://prove2.me/theorems/6745ed2b-63b9-4073-b1d5-b6878eb7af53

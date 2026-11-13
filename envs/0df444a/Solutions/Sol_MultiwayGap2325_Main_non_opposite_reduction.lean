@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MultiwayGap2325.Main.non_opposite_reduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T21:38:46.361493+00:00
 -- url     : https://prove2.me/submissions/46ec5e96-5bf2-4d40-99ee-b0e498fbb331
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MultiwayGap2325_Main_RandomCuts

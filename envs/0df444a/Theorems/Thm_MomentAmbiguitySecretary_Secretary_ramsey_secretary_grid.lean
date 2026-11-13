@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentAmbiguitySecretary_Secretary_ramsey_secretary_grid
 -- name    : MomentAmbiguitySecretary.Secretary.ramsey_secretary_grid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:55:23.188953+00:00
 -- url     : https://prove2.me/theorems/890b15ae-7b9e-41fd-bf21-bba0a43e4ec1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_split_point
 -- name    : PlanarMetricElections.Peer.split_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:51:54.157955+00:00
 -- url     : https://prove2.me/theorems/3a64ee18-fa65-444c-bd33-86fee3fbd003

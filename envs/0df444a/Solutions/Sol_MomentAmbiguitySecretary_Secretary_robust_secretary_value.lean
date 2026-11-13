@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MomentAmbiguitySecretary.Secretary.robust_secretary_value
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:17:57.479835+00:00
 -- url     : https://prove2.me/submissions/a550f18a-a861-4a6b-836d-b4f68c0bbafd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MomentAmbiguitySecretary_Secretary_Values

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_original_strict_cash_uniform_grid_limit
 -- name    : AvramDividend.Classical.avram_chat24_original_strict_cash_uniform_grid_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:30:07.705886+00:00
 -- url     : https://prove2.me/theorems/0c66e93d-708c-4326-a922-32c6d2a1e95a

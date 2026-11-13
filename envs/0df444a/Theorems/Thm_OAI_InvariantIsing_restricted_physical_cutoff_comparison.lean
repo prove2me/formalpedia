@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_physical_cutoff_comparison
 -- name    : OAI.InvariantIsing.restricted_physical_cutoff_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:42:33.258195+00:00
 -- url     : https://prove2.me/theorems/be1ae63b-4cef-4f77-bbaf-adb8beac4a69

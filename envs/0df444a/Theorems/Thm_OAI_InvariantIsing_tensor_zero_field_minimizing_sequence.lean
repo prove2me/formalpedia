@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensor_zero_field_minimizing_sequence
 -- name    : OAI.InvariantIsing.tensor_zero_field_minimizing_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:46:35.374195+00:00
 -- url     : https://prove2.me/theorems/8d6a76d5-5eaa-48b3-9a28-26c8e58b471c

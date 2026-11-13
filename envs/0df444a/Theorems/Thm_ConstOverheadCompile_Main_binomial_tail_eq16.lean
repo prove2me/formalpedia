@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstOverheadCompile_Main_binomial_tail_eq16
 -- name    : ConstOverheadCompile.Main.binomial_tail_eq16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:58:17.573829+00:00
 -- url     : https://prove2.me/theorems/c0370eee-ad1e-4551-8568-cf8691bf075e

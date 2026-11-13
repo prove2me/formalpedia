@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayGap2325_Main_non_opposite_reduction
 -- name    : MultiwayGap2325.Main.non_opposite_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:07:01.253257+00:00
 -- url     : https://prove2.me/theorems/0a7c942a-aad5-4fcd-bb86-3b7c83495705

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.finiteMagneticFunctional_real_profile
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:17:12.090218+00:00
 -- url     : https://prove2.me/submissions/3b101103-57e2-422a-842f-97adf84aac45
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

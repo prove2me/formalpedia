@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RemovingTrees_Main_tree_removal_polytime
 -- name    : RemovingTrees.Main.tree_removal_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:21:21.729882+00:00
 -- url     : https://prove2.me/theorems/1ff1a19c-733f-40b7-9a18-a7acc3c62549

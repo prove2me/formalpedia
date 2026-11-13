@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CFLOutliers_warm_start_bound
 -- name    : CFLOutliers.warm_start_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:34:57.686497+00:00
 -- url     : https://prove2.me/theorems/0e7e0bbc-1045-4648-a148-4c77292de5e4

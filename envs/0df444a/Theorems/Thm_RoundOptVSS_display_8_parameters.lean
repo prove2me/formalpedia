@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundOptVSS_display_8_parameters
 -- name    : RoundOptVSS.display_8_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:01:26.01859+00:00
 -- url     : https://prove2.me/theorems/fc8d78e1-4b65-4a8f-92a2-f88170e8cd09

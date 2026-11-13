@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_compression_capped_log_limit
 -- name    : OAI.InvariantIsing.cavity_compression_capped_log_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:33:54.012133+00:00
 -- url     : https://prove2.me/theorems/aa1e4960-3b5d-4794-ac37-9cf5ea781ff6

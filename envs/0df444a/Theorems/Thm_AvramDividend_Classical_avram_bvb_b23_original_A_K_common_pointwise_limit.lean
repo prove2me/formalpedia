@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_b23_original_A_K_common_pointwise_limit
 -- name    : AvramDividend.Classical.avram_bvb_b23_original_A_K_common_pointwise_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:58:55.292072+00:00
 -- url     : https://prove2.me/theorems/1b7c74f5-a44b-43f7-b13d-a93036522ca9

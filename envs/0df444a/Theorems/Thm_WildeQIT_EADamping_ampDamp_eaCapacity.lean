@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_EADamping_ampDamp_eaCapacity
 -- name    : WildeQIT.EADamping.ampDamp_eaCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:39:58.367599+00:00
 -- url     : https://prove2.me/theorems/7e1785ee-b49d-474c-8fae-a7dccd53b69a

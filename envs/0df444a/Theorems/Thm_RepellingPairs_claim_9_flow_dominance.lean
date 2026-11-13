@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_claim_9_flow_dominance
 -- name    : RepellingPairs.claim_9_flow_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:07:13.396356+00:00
 -- url     : https://prove2.me/theorems/356b2f41-daa8-4358-924b-9606ae7b5104

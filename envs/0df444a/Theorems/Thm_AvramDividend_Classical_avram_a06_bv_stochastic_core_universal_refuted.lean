@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a06_bv_stochastic_core_universal_refuted
 -- name    : AvramDividend.Classical.avram_a06_bv_stochastic_core_universal_refuted
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T21:56:06.614437+00:00
 -- url     : https://prove2.me/theorems/f28d4aa6-902f-49eb-b29b-5bd01e3f3966

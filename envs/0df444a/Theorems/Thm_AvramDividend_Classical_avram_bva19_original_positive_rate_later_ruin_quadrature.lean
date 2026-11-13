@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva19_original_positive_rate_later_ruin_quadrature
 -- name    : AvramDividend.Classical.avram_bva19_original_positive_rate_later_ruin_quadrature
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T16:16:29.07687+00:00
 -- url     : https://prove2.me/theorems/53b0dade-7831-42fa-8f52-b437c18985cd

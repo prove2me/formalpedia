@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Gramian_blocks_via_sigma
 -- name    : TensorBTD.Gramian.blocks_via_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:30:14.874969+00:00
 -- url     : https://prove2.me/theorems/e0bd70a6-7e04-48fe-9729-4c51b40bc750

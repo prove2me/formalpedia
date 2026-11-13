@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_bvb_phys85_original_zero_marks_jump_compensator_uniform_quadrature
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T08:43:09.277284+00:00
 -- url     : https://prove2.me/submissions/9f9d7c37-4177-4116-922f-92e3974f4ada
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_bvb_phys92_masked_original_BV_generator_drift_jump_grid_exact

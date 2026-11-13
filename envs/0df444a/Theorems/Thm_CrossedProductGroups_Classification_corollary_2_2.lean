@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossedProductGroups_Classification_corollary_2_2
 -- name    : CrossedProductGroups.Classification.corollary_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:38:59.052869+00:00
 -- url     : https://prove2.me/theorems/8bab8a23-0e6f-4c5a-a231-9d0855eb67e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magnetic_affine_increment_eventually_lower
 -- name    : OAI.InvariantIsing.magnetic_affine_increment_eventually_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:29:31.208695+00:00
 -- url     : https://prove2.me/theorems/60697f83-8621-4887-b6ec-43ef89a753de

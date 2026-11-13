@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_physical_mean_pressure_tendsto
 -- name    : OAI.InvariantIsing.physical_mean_pressure_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:29:57.69487+00:00
 -- url     : https://prove2.me/theorems/e97b955f-7b8d-40b0-9852-0d8f1e9fd4fb

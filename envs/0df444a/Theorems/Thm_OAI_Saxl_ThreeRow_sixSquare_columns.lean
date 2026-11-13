@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_ThreeRow_sixSquare_columns
 -- name    : OAI.Saxl.ThreeRow.sixSquare_columns
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:16:21.973798+00:00
 -- url     : https://prove2.me/theorems/aea23349-246a-4d88-aefe-817aad20866a

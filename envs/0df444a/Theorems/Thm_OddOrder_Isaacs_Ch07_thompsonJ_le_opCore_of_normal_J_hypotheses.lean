@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_thompsonJ_le_opCore_of_normal_J_hypotheses
 -- name    : OddOrder.Isaacs.Ch07.thompsonJ_le_opCore_of_normal_J_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:51:26.508436+00:00
 -- url     : https://prove2.me/theorems/92313772-b582-465b-9e97-3809c15a846b

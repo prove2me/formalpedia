@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_ground_state_limit_unconditional
 -- name    : OAI.InvariantIsing.ground_state_limit_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:47.668204+00:00
 -- url     : https://prove2.me/theorems/31f87a35-33fe-431b-b3a9-278f61fa1b5f

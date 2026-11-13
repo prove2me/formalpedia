@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_boolean_finite_type_iff_frame_law
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.boolean_finite_type_iff_frame_law
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:40:56.575253+00:00
 -- url     : https://prove2.me/theorems/7b68453e-84f3-4f58-b5e4-57bbdee7f1f3

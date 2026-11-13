@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch06_isNilpotent_of_isFrobeniusAction_of_prime_card_aux
 -- name    : OddOrder.Isaacs.Ch06.isNilpotent_of_isFrobeniusAction_of_prime_card_aux
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:54:21.263497+00:00
 -- url     : https://prove2.me/theorems/8b4cb6d0-0a79-4825-8b9f-58f5b6490d21

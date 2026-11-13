@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QubitTracking_ineq_p64
 -- name    : QubitTracking.ineq_p64
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-11T08:26:40.073334+00:00
 -- url     : https://prove2.me/theorems/cce758af-9af5-4010-8939-ec40a90891c6

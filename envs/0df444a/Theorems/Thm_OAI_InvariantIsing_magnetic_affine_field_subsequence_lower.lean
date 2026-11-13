@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magnetic_affine_field_subsequence_lower
 -- name    : OAI.InvariantIsing.magnetic_affine_field_subsequence_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:29:50.468985+00:00
 -- url     : https://prove2.me/theorems/93203ac3-8698-45a7-8404-fe8a61617f77

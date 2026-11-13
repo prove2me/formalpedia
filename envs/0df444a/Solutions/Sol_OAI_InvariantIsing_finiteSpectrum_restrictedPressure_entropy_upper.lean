@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.finiteSpectrum_restrictedPressure_entropy_upper
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:55:05.41374+00:00
 -- url     : https://prove2.me/submissions/ff7d3331-43ea-475c-a1c0-442fa7b8f6b2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

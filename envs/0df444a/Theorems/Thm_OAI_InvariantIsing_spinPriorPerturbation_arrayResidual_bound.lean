@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorPerturbation_arrayResidual_bound
 -- name    : OAI.InvariantIsing.spinPriorPerturbation_arrayResidual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:25.830203+00:00
 -- url     : https://prove2.me/theorems/673188c7-8c90-4969-93b9-0e000f770d56

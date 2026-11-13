@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_gaussianPattern_ground_limit_unconditional
 -- name    : OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:47.232585+00:00
 -- url     : https://prove2.me/theorems/d7051a02-f4ba-4510-a232-2d8e5c6f9477

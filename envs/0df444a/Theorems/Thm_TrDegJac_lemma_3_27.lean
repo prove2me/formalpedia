@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrDegJac_lemma_3_27
 -- name    : TrDegJac.lemma_3_27
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:35:57.562255+00:00
 -- url     : https://prove2.me/theorems/ecaa3568-11fb-4d46-9a6d-8fc04f387944

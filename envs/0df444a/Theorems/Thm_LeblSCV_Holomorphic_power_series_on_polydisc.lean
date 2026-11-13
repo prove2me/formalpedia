@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Holomorphic_power_series_on_polydisc
 -- name    : LeblSCV.Holomorphic.power_series_on_polydisc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:12:46.469363+00:00
 -- url     : https://prove2.me/theorems/65b2bcb9-b776-42e8-9e4f-c1931e177df7

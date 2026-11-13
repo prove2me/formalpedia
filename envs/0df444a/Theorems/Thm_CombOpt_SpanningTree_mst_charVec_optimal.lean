@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_SpanningTree_mst_charVec_optimal
 -- name    : CombOpt.SpanningTree.mst_charVec_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:07:43.387379+00:00
 -- url     : https://prove2.me/theorems/a8aa1e05-e043-4fc1-8513-875a708f9016

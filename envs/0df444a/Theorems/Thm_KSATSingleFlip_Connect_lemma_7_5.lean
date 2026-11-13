@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KSATSingleFlip_Connect_lemma_7_5
 -- name    : KSATSingleFlip.Connect.lemma_7_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T21:08:30.553119+00:00
 -- url     : https://prove2.me/theorems/deedcdf3-161f-4976-a8eb-8a6bfe9b0a77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_dominated_support_uts
 -- name    : OAI.Saxl.dominated_support_uts
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:11:25.209564+00:00
 -- url     : https://prove2.me/theorems/7e4f0929-6367-4595-9560-b27221d011b5

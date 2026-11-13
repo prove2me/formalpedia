@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_haarPolynomialMoment_log_bound
 -- name    : OAI.InvariantIsing.haarPolynomialMoment_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:38:49.555237+00:00
 -- url     : https://prove2.me/theorems/71380e97-4cb5-4fd3-b84a-2f98e725a525

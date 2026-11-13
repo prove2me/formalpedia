@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_zero_tree_perturbed_array_law
 -- name    : OAI.InvariantIsing.restricted_zero_tree_perturbed_array_law
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:42:45.356522+00:00
 -- url     : https://prove2.me/theorems/0340aa37-0dd8-4306-8f8a-b93f19bc3f4e

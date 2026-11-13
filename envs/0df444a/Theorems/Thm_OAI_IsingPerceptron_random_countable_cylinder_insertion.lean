@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IsingPerceptron_random_countable_cylinder_insertion
 -- name    : OAI.IsingPerceptron.random_countable_cylinder_insertion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:57:37.85168+00:00
 -- url     : https://prove2.me/theorems/de0e8d09-bf3b-48a4-a7a2-426dec79e4f0

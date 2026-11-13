@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_lemma_3_3
 -- name    : ZeroFreeRRG.Hardcore.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:35:42.438909+00:00
 -- url     : https://prove2.me/theorems/b6a6cabb-d78e-4d57-bd64-42da5162dd9d

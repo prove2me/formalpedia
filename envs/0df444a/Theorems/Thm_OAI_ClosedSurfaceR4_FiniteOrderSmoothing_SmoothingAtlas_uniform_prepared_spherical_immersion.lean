@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ClosedSurfaceR4_FiniteOrderSmoothing_SmoothingAtlas_uniform_prepared_spherical_immersion
 -- name    : OAI.ClosedSurfaceR4.FiniteOrderSmoothing.SmoothingAtlas.uniform_prepared_spherical_immersion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:08:58.463657+00:00
 -- url     : https://prove2.me/theorems/6ee5eac6-141f-4541-894d-56e0924f7d76

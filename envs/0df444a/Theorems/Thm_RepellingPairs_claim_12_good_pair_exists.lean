@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_claim_12_good_pair_exists
 -- name    : RepellingPairs.claim_12_good_pair_exists
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:04:19.724682+00:00
 -- url     : https://prove2.me/theorems/bdb5bdb8-f9ab-4f9c-9f3e-8b044068ad79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAP_Counting_claim_5_14_monotone
 -- name    : RestrictedAP.Counting.claim_5_14_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T16:14:44.157061+00:00
 -- url     : https://prove2.me/theorems/34dacd6e-3f93-4d7f-9d69-e82ecab11f18

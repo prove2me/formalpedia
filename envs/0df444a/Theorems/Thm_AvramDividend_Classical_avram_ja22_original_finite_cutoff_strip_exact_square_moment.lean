@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja22_original_finite_cutoff_strip_exact_square_moment
 -- name    : AvramDividend.Classical.avram_ja22_original_finite_cutoff_strip_exact_square_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T16:06:23.688937+00:00
 -- url     : https://prove2.me/theorems/9a1c9ee4-676d-4f3f-a79c-644771754f94

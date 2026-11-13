@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_cavity_full_depth_test_evaluation
 -- name    : OAI.InvariantIsing.restricted_cavity_full_depth_test_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:31:46.637198+00:00
 -- url     : https://prove2.me/theorems/5f821ad0-3fdc-4cba-8178-cc1b3b6e57e5

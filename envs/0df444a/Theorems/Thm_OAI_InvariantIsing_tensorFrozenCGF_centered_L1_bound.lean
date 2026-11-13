@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorFrozenCGF_centered_L1_bound
 -- name    : OAI.InvariantIsing.tensorFrozenCGF_centered_L1_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:01.980401+00:00
 -- url     : https://prove2.me/theorems/0fc52db2-3bf9-4ba8-bb7a-11c19b2f04fc

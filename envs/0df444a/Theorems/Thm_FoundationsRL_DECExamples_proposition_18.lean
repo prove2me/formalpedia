@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_DECExamples_proposition_18
 -- name    : FoundationsRL.DECExamples.proposition_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:22:29.679001+00:00
 -- url     : https://prove2.me/theorems/4f314f7a-1d36-4b6e-93f8-45d445197943

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NuclearUltrapower_SOS_row_length_61_ca
 -- name    : OAI.NuclearUltrapower.SOS.row_length_61_ca
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:30:45.613236+00:00
 -- url     : https://prove2.me/theorems/30708ec8-82f4-45ec-9da2-9a72d03bd0ef

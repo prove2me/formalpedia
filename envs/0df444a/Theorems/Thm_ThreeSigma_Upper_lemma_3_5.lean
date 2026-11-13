@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSigma_Upper_lemma_3_5
 -- name    : ThreeSigma.Upper.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:38:52.961359+00:00
 -- url     : https://prove2.me/theorems/5de174ef-0433-45f7-b82a-11cc36149a1d

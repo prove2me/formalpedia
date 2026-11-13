@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorDiagonal_fluctuation_at_minimum
 -- name    : OAI.InvariantIsing.tensorDiagonal_fluctuation_at_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:41.924706+00:00
 -- url     : https://prove2.me/theorems/86453d68-75e9-44e7-a5f2-07f3090d38e3

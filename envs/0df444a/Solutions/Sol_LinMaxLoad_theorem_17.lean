@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LinMaxLoad.theorem_17
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T04:49:41.018896+00:00
 -- url     : https://prove2.me/submissions/21797d52-3862-4e11-b710-75a79cad93de
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LinMaxLoad_linMaxLoad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxDegComp_theorem_23
 -- name    : ApproxDegComp.theorem_23
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:33:35.065567+00:00
 -- url     : https://prove2.me/theorems/f8385c32-068c-45a1-99ed-f7cf0a99f266

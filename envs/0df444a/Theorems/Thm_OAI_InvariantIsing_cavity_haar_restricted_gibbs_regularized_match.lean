@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_haar_restricted_gibbs_regularized_match
 -- name    : OAI.InvariantIsing.cavity_haar_restricted_gibbs_regularized_match
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:34:55.023387+00:00
 -- url     : https://prove2.me/theorems/21b1222a-d51c-4d07-ba62-aca5a0c31d45

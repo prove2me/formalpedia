@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Supercoherence_codeHamiltonian_supercoherent
 -- name    : BaconThesis.Supercoherence.codeHamiltonian_supercoherent
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:19:32.699918+00:00
 -- url     : https://prove2.me/theorems/502fbbd8-6152-4360-99a1-86e5d1b7394f

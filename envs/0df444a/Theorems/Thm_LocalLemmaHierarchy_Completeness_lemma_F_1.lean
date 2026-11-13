@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalLemmaHierarchy_Completeness_lemma_F_1
 -- name    : LocalLemmaHierarchy.Completeness.lemma_F_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:20:17.729383+00:00
 -- url     : https://prove2.me/theorems/c47190f2-bf7f-480c-bdbe-7dc0c32fbab1

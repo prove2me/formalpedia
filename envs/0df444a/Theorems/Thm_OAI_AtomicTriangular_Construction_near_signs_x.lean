@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_Construction_near_signs_x
 -- name    : OAI.AtomicTriangular.Construction.near_signs_x
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:53:28.309202+00:00
 -- url     : https://prove2.me/theorems/d5d11fc3-794d-4abc-9823-7bd0308a129f

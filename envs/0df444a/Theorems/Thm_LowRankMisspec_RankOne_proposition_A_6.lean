@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankMisspec_RankOne_proposition_A_6
 -- name    : LowRankMisspec.RankOne.proposition_A_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:14:39.381016+00:00
 -- url     : https://prove2.me/theorems/07f2cfa7-95df-4dfe-b8fb-77c7e016408e

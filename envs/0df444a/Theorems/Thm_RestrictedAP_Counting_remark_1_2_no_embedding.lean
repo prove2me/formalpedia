@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAP_Counting_remark_1_2_no_embedding
 -- name    : RestrictedAP.Counting.remark_1_2_no_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:20:17.154222+00:00
 -- url     : https://prove2.me/theorems/4a5af932-c5e7-401f-887b-eace802b51c1

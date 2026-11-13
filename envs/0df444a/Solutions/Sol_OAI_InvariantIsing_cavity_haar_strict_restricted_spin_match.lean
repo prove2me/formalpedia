@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.cavity_haar_strict_restricted_spin_match
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:54:27.024052+00:00
 -- url     : https://prove2.me/submissions/6e0d3ac0-ac50-43bc-8483-2174349cbf21
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

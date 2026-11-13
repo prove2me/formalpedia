@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayGap2325_Main_exists_nonOppositeCut_of_tendsto_gapSequence
 -- name    : MultiwayGap2325.Main.exists_nonOppositeCut_of_tendsto_gapSequence
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T21:34:25.367118+00:00
 -- url     : https://prove2.me/theorems/de8ea1cd-93bc-4f78-ba28-85a5d6ba6eab

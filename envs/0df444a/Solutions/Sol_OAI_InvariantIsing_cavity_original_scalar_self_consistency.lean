@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.cavity_original_scalar_self_consistency
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:54:40.487587+00:00
 -- url     : https://prove2.me/submissions/92a1bf31-2ed8-4821-a5f3-ce2f57372479
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

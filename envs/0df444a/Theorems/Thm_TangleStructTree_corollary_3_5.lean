@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TangleStructTree_corollary_3_5
 -- name    : TangleStructTree.corollary_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:55:34.011249+00:00
 -- url     : https://prove2.me/theorems/09484e7d-928c-4062-b1e4-23dc7c9074dc

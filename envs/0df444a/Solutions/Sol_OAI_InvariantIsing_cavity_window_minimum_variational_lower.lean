@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.cavity_window_minimum_variational_lower
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:54:51.533197+00:00
 -- url     : https://prove2.me/submissions/68ae357b-2184-422f-aa6f-42b0c57f0c9f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

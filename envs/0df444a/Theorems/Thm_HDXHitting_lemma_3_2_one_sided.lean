@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_lemma_3_2_one_sided
 -- name    : HDXHitting.lemma_3_2_one_sided
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:59:00.999437+00:00
 -- url     : https://prove2.me/theorems/2f3585a2-dd13-4119-b971-0cb4ab70c545

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_offset_window_minimum_trial_witness
 -- name    : OAI.InvariantIsing.offset_window_minimum_trial_witness
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:33.478646+00:00
 -- url     : https://prove2.me/theorems/aa320dc4-c666-4336-a656-e20b226f7046

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_stone_boolean_representation
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.stone_boolean_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:52:53.449702+00:00
 -- url     : https://prove2.me/theorems/19b91f58-11b1-485b-9368-9fa77a86b458

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKECC1549_Main_claim_1
 -- name    : DirKECC1549.Main.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:42:23.790183+00:00
 -- url     : https://prove2.me/theorems/8e5e3768-43d4-48d5-9f6e-d19ecfd8529c

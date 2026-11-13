@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_original_scalar_self_consistency
 -- name    : OAI.InvariantIsing.cavity_original_scalar_self_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:36:11.191411+00:00
 -- url     : https://prove2.me/theorems/7d80187d-bee6-42f7-8704-b2e5cd5361fe

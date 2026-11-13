@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_link_heredity
 -- name    : HDXHitting.link_heredity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:59:12.53232+00:00
 -- url     : https://prove2.me/theorems/f232b975-9db0-4117-804f-a5a08f595cb1

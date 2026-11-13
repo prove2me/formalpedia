@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ClosedSurfaceR4_FiniteOrderSmoothing_prepared_smooth_crosscap_arc
 -- name    : OAI.ClosedSurfaceR4.FiniteOrderSmoothing.prepared_smooth_crosscap_arc
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:11:00.094867+00:00
 -- url     : https://prove2.me/theorems/6c4ac88d-8789-4775-9cff-34212098d597

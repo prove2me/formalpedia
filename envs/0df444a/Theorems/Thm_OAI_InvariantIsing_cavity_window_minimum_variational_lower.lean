@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_window_minimum_variational_lower
 -- name    : OAI.InvariantIsing.cavity_window_minimum_variational_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:37:07.523203+00:00
 -- url     : https://prove2.me/theorems/10d1a07f-5457-49df-b1be-224dbb5f6dfc

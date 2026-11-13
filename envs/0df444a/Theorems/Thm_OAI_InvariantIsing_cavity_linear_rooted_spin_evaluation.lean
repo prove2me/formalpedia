@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_linear_rooted_spin_evaluation
 -- name    : OAI.InvariantIsing.cavity_linear_rooted_spin_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:35:06.939065+00:00
 -- url     : https://prove2.me/theorems/fae0d29c-b70d-4b34-bd5a-d00cd9d9d72d

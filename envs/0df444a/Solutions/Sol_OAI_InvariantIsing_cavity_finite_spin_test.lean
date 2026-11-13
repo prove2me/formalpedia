@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.cavity_finite_spin_test
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:34:17.86204+00:00
 -- url     : https://prove2.me/submissions/ad2b692e-1f5e-42c9-a266-d180e401dc4d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_offset_product_weak_self_consistency
 -- name    : OAI.InvariantIsing.offset_product_weak_self_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:27.339719+00:00
 -- url     : https://prove2.me/theorems/da6c5aa5-c234-4f94-b6de-9c7705b483b8

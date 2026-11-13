@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_finiteSpectrum_restrictedPressure_entropy_upper
 -- name    : OAI.InvariantIsing.finiteSpectrum_restrictedPressure_entropy_upper
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:26:45.488348+00:00
 -- url     : https://prove2.me/theorems/c2ddc839-8724-4229-833d-7819284199b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorFrozenCGF_mean
 -- name    : OAI.InvariantIsing.tensorFrozenCGF_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:09.694531+00:00
 -- url     : https://prove2.me/theorems/208d565b-94bc-45c2-a18a-db9695c46d52

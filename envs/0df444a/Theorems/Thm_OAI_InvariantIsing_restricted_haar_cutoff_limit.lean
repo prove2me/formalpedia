@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_haar_cutoff_limit
 -- name    : OAI.InvariantIsing.restricted_haar_cutoff_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:56.308926+00:00
 -- url     : https://prove2.me/theorems/ae81c163-7b33-4ed0-b8b5-89aa894d9354

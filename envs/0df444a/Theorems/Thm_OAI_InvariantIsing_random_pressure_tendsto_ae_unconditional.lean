@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_random_pressure_tendsto_ae_unconditional
 -- name    : OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:48.538983+00:00
 -- url     : https://prove2.me/theorems/361adfcf-737b-430f-a91a-40ea5c7f7251

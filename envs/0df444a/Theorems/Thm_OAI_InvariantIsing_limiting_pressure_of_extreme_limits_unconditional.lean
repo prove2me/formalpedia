@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_limiting_pressure_of_extreme_limits_unconditional
 -- name    : OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:47.820808+00:00
 -- url     : https://prove2.me/theorems/f4ca8da1-f18b-451c-ac33-ee3afcd272be

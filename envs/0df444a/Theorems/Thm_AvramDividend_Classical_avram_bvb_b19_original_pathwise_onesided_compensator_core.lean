@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_b19_original_pathwise_onesided_compensator_core
 -- name    : AvramDividend.Classical.avram_bvb_b19_original_pathwise_onesided_compensator_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T12:44:39.136169+00:00
 -- url     : https://prove2.me/theorems/912148aa-f86e-4c50-a57d-678291ae56e8

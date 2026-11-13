@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_result_001_avram_dividend_classical_avram_chat24_bv_compact_integrability_09b2e7a8
 -- name    : result_001_avram_dividend_classical_avram_chat24_bv_compact_integrability_09b2e7a8
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:09:12.135354+00:00
 -- url     : https://prove2.me/theorems/e406ed1e-d382-4151-8b8a-a07c10181b04

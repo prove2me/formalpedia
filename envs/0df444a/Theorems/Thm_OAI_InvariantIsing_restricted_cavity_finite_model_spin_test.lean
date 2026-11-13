@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_cavity_finite_model_spin_test
 -- name    : OAI.InvariantIsing.restricted_cavity_finite_model_spin_test
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:24.282295+00:00
 -- url     : https://prove2.me/theorems/80097381-8007-41e9-b7a5-da544ca84107

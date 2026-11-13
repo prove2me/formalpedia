@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magneticHeightLevel_coordinate_right_order
 -- name    : OAI.InvariantIsing.magneticHeightLevel_coordinate_right_order
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:41.493842+00:00
 -- url     : https://prove2.me/theorems/355e9193-36e1-41bd-b781-8ba0ad53adc7

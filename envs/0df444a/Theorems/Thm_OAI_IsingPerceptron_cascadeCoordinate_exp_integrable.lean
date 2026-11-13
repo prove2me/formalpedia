@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IsingPerceptron_cascadeCoordinate_exp_integrable
 -- name    : OAI.IsingPerceptron.cascadeCoordinate_exp_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:57:57.854797+00:00
 -- url     : https://prove2.me/theorems/ef22a4bb-76d0-4949-bbca-bd4fb19d0b79

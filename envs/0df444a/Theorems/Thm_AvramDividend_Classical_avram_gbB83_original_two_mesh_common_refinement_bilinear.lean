@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB83_original_two_mesh_common_refinement_bilinear
 -- name    : AvramDividend.Classical.avram_gbB83_original_two_mesh_common_refinement_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T17:38:55.456652+00:00
 -- url     : https://prove2.me/theorems/ae17e63a-fb7a-4e33-8e0d-44451d6c43f0

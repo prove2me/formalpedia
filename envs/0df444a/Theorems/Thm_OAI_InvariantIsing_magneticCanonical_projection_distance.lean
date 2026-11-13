@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magneticCanonical_projection_distance
 -- name    : OAI.InvariantIsing.magneticCanonical_projection_distance
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:17.336077+00:00
 -- url     : https://prove2.me/theorems/58f2eb27-68ea-4f51-ab93-d8e9553bfb5c

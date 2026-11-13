@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_regularization_homeomorphism
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.regularization_homeomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:46:02.859285+00:00
 -- url     : https://prove2.me/theorems/27a6e271-bdf4-4dbe-835c-6df9db81a31b

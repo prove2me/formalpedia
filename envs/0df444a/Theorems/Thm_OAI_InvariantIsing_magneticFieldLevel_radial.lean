@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magneticFieldLevel_radial
 -- name    : OAI.InvariantIsing.magneticFieldLevel_radial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:11.84526+00:00
 -- url     : https://prove2.me/theorems/d68ef654-9f6e-4530-b24a-2dd5b435ed87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_finiteMagneticFunctional_real_profile
 -- name    : OAI.InvariantIsing.finiteMagneticFunctional_real_profile
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:16:18.485204+00:00
 -- url     : https://prove2.me/theorems/254dc9ca-b044-491e-8cfe-fb3438e87a52

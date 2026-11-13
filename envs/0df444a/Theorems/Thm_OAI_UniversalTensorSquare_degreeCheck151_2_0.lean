@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_degreeCheck151_2_0
 -- name    : OAI.UniversalTensorSquare.degreeCheck151_2_0
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:22:19.294302+00:00
 -- url     : https://prove2.me/theorems/ff95e7f7-d214-4c2a-9271-de02cde91da5

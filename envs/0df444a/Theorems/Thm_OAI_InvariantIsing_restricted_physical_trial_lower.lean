@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_physical_trial_lower
 -- name    : OAI.InvariantIsing.restricted_physical_trial_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:42:46.306994+00:00
 -- url     : https://prove2.me/theorems/02845bb8-0c4f-4591-a284-daad184ec3a3

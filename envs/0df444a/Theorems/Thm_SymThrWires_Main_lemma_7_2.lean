@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymThrWires_Main_lemma_7_2
 -- name    : SymThrWires.Main.lemma_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:15:54.288401+00:00
 -- url     : https://prove2.me/theorems/73ce1681-c930-43b0-8eda-762a7b56c721

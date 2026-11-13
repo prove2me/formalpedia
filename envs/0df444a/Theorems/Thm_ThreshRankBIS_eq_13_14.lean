@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreshRankBIS_eq_13_14
 -- name    : ThreshRankBIS.eq_13_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:53:47.357948+00:00
 -- url     : https://prove2.me/theorems/f5576d6e-ab29-4e7e-893c-631626fcfbd8

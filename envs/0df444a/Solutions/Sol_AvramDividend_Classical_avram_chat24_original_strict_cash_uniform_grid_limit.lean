@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_chat24_original_strict_cash_uniform_grid_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T01:01:08.609589+00:00
 -- url     : https://prove2.me/submissions/56322859-678c-4c76-b4ac-f6bb0965098e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_avram_chat24_original_strict_cash_grid_limit_of_discount_modulus
 import Theorems.Thm_AvramDividend_Classical_avram_chat24_nonnegative_discount_cell_modulus

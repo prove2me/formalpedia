@@ -14397,12 +14397,12 @@
 {"parent": "AvramDividend.Classical.avram_p3_f2_original_global_stopped_C1_source_cell_taylor", "child": "AvramDividend.Classical.avram_p3_f2_original_global_positive_cap_C1_source_mesh_modulus", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_f2_original_global_stopped_C1_source_cell_taylor", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_f2_original_global_stopped_C1_source_cell_taylor", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_ValueFunction", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "BauerleRiederMDP_LQ_Model", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "BauerleRiederMDP_LQ_Riccati", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_Model", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_Operators", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_Policy", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_ValueFunction", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "BauerleRiederMDP_LQ_Model", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "BauerleRiederMDP_LQ_Riccati", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_Model", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_Operators", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.LQ.theorem_2_6_3", "child": "MDPFinance_Bellman_Policy", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.pderiv_normal", "child": "GeneralPieces_GenF_DDComm", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.pderiv_normal", "child": "GeneralPieces_GenF_NormalL", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.pderiv_normal", "child": "GeneralPieces_GenF_Normal", "via": ["solution", "statement"]}
@@ -16346,8 +16346,8 @@
 {"parent": "OAI.MaximalSeshadri.Geometry.pullbackSection_linear", "child": "SeshadriPrelim6", "via": ["solution", "statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.pullbackSection_linear", "child": "MaximalSeshadriConstants", "via": ["solution", "statement"]}
 {"parent": "Coding_Sets", "child": "Coding_Defs", "via": ["statement"]}
-{"parent": "FowlerLSQC.Shor.useful_convergent", "child": "FowlerLSQC_Shor_binaryLength", "via": ["statement"]}
-{"parent": "FowlerLSQC.Shor.useful_convergent", "child": "FowlerLSQC_Shor_period", "via": ["statement"]}
+{"parent": "FowlerLSQC.Shor.useful_convergent", "child": "FowlerLSQC_Shor_binaryLength", "via": ["solution", "statement"]}
+{"parent": "FowlerLSQC.Shor.useful_convergent", "child": "FowlerLSQC_Shor_period", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.CertSide.cutF2", "child": "PaddedDescent_F_Interfaces", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.CertSide.cutF2", "child": "PaddedDescent_F_CertSide", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.CertSide.cutF2", "child": "PaddedDescent_F_FuelCert", "via": ["solution", "statement"]}

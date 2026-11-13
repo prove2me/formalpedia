@@ -8803,8 +8803,8 @@
 {"parent": "NAGFlow.AFB.g_term_bound", "child": "NAGFlow_AFB_Setting", "via": ["statement"]}
 {"parent": "NAGFlow.AFB.h_term_bound", "child": "NAGFlow_AFB_Setting", "via": ["statement"]}
 {"parent": "NAGFlow.AFB.theorem_7_3", "child": "NAGFlow_AFB_Setting", "via": ["solution", "statement"]}
-{"parent": "NAGFlow.APGM.algorithm_2_eq_115", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
-{"parent": "NAGFlow.APGM.eq_112", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
+{"parent": "NAGFlow.APGM.algorithm_2_eq_115", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
+{"parent": "NAGFlow.APGM.eq_112", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
 {"parent": "NAGFlow.APGM.eq_113", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
 {"parent": "NAGFlow.APGM.eq_117", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
 {"parent": "NAGFlow.APGM.lemma_7_1", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
@@ -17940,8 +17940,8 @@
 {"parent": "OAI.ArtinCAT0.main", "child": "ArtinCAT0", "via": ["solution", "statement"]}
 {"parent": "OAI.AsymptoticallyMinimalLittlewood.main", "child": "AsymptoticallyMinimalLittlewood", "via": ["solution", "statement"]}
 {"parent": "OAI.AsymptoticallyMinimalLittlewoodFiniteFlatness.main", "child": "LittlewoodFiniteFlatness", "via": ["solution", "statement"]}
-{"parent": "OAI.AtomicTriangular.sharp_gaussian_minorants_atomic", "child": "AtomicGaussian", "via": ["statement"]}
-{"parent": "OAI.AtomicTriangular.sharp_gaussian_minorants_with_construction", "child": "TriangularGaussian", "via": ["statement"]}
+{"parent": "OAI.AtomicTriangular.sharp_gaussian_minorants_atomic", "child": "AtomicGaussian", "via": ["solution", "statement"]}
+{"parent": "OAI.AtomicTriangular.sharp_gaussian_minorants_with_construction", "child": "TriangularGaussian", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.universal_energy_minimum", "child": "TriangularEnergy", "via": ["statement"]}
 {"parent": "OAI.BackwardIntertwiners.direct_algebra_corollary", "child": "BackwardIntertwiners", "via": ["solution", "statement"]}
 {"parent": "OAI.Balanced.main_result", "child": "BalancedRyser", "via": ["solution", "statement"]}
@@ -17988,7 +17988,7 @@
 {"parent": "OAI.CirculantHadamard.exists_iff_order_one_or_four", "child": "CirculantHadamard", "via": ["solution", "statement"]}
 {"parent": "OAI.ClassicalON.main", "child": "ClassicalON", "via": ["solution", "statement"]}
 {"parent": "OAI.CliqueFreeLog.logarithmic_independence_bound", "child": "CliqueFreeLog", "via": ["solution", "statement"]}
-{"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.smooth_isometric_immersion", "child": "SurfaceImmersion", "via": ["statement"]}
+{"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.smooth_isometric_immersion", "child": "SurfaceImmersion", "via": ["solution", "statement"]}
 {"parent": "OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional", "child": "CoarseAssembly", "via": ["statement"]}
 {"parent": "OAI.CoboundaryExpanders.main", "child": "CoboundaryExpanders", "via": ["solution", "statement"]}
 {"parent": "OAI.CompactBanach.main", "child": "CompactBanach", "via": ["solution", "statement"]}
@@ -18352,17 +18352,17 @@
 {"parent": "OAI.InternalCatalan.realDeterminant_eventually_log_certificate_sup", "child": "OAICatalanIrrationality", "via": ["solution", "statement"]}
 {"parent": "OAI.Invariant233.Results.prescribed_irrational_counterexample", "child": "IrrationalRotation", "via": ["solution", "statement"]}
 {"parent": "OAI.Invariant233.Results.product_realization", "child": "IrrationalRotation", "via": ["solution", "statement"]}
-{"parent": "OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.ground_state_limit_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.positive_temperature_pressure_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.random_pressure_limit_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional", "child": "InvariantIsing", "via": ["statement"]}
-{"parent": "OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional", "child": "InvariantIsing", "via": ["statement"]}
+{"parent": "OAI.InvariantIsing.gaussianPattern_ground_limit_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.ground_state_limit_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.limiting_pressure_of_extreme_limits_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.positive_temperature_pressure_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.random_field_pressure_tendsto_ae_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.random_pressure_limit_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.random_pressure_tendsto_ae_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
+{"parent": "OAI.InvariantIsing.random_pressure_tendsto_in_measure_unconditional", "child": "InvariantIsing", "via": ["solution", "statement"]}
 {"parent": "OAI.IsingPerceptron.variationalValue_real_of_continuous", "child": "IsingFiniteness", "via": ["solution", "statement"]}
 {"parent": "OAI.JointDickmanPaper.decreasing_order", "child": "JointDickman", "via": ["solution", "statement"]}
 {"parent": "OAI.JointDickmanPaper.increasing_order", "child": "JointDickman", "via": ["solution", "statement"]}
@@ -54978,8 +54978,8 @@
 {"parent": "ShortestGCS.Relax.eq_7_4", "child": "ShortestGCS_Relax_Setting", "via": ["statement"]}
 {"parent": "ShortestGCS.Relax.extremePoint_active", "child": "ShortestGCS_MICP_Perspective", "via": ["statement"]}
 {"parent": "ShortestGCS.Relax.extremePoint_active", "child": "ShortestGCS_Relax_Setting", "via": ["statement"]}
-{"parent": "ShortestGCS.Relax.lemma_4_9", "child": "ShortestGCS_MICP_Perspective", "via": ["statement"]}
-{"parent": "ShortestGCS.Relax.lemma_4_9", "child": "ShortestGCS_Relax_Setting", "via": ["statement"]}
+{"parent": "ShortestGCS.Relax.lemma_4_9", "child": "ShortestGCS_MICP_Perspective", "via": ["solution", "statement"]}
+{"parent": "ShortestGCS.Relax.lemma_4_9", "child": "ShortestGCS_Relax_Setting", "via": ["solution", "statement"]}
 {"parent": "ShortestGCS.Relax.lemma_7_4", "child": "ShortestGCS_MICP_Perspective", "via": ["solution", "statement"]}
 {"parent": "ShortestGCS.Relax.lemma_7_4", "child": "ShortestGCS_Relax_Setting", "via": ["solution", "statement"]}
 {"parent": "ShortestGCS.Relax.note_after_7_2", "child": "ShortestGCS_MICP_Perspective", "via": ["solution", "statement"]}
@@ -63745,15 +63745,15 @@
 {"parent": "TensorBTD.Cogradient.cograd_f1", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
 {"parent": "TensorBTD.Cogradient.cograd_f2_f3", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
 {"parent": "TensorBTD.Cogradient.corollary_4_3", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
-{"parent": "TensorBTD.Cogradient.fBTD_decomposition", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
+{"parent": "TensorBTD.Cogradient.fBTD_decomposition", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.proposition_4_1", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
 {"parent": "TensorBTD.Cogradient.proposition_4_2", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.theorem_4_4", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
-{"parent": "TensorBTD.Gramian.blocks_via_sigma", "child": "TensorBTD_Gramian_Setting", "via": ["statement"]}
+{"parent": "TensorBTD.Gramian.blocks_via_sigma", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Gramian.diagonal_blocks", "child": "TensorBTD_Gramian_Setting", "via": ["statement"]}
 {"parent": "TensorBTD.Gramian.off_diagonal_blocks", "child": "TensorBTD_Gramian_Setting", "via": ["statement"]}
 {"parent": "TensorBTD.Gramian.partial_derivative_outer", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
-{"parent": "TensorBTD.Gramian.proposition_4_1", "child": "TensorBTD_Gramian_Setting", "via": ["statement"]}
+{"parent": "TensorBTD.Gramian.proposition_4_1", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Gramian.theorem_4_5", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD_Cogradient_Setting", "child": "TensorBTD_Gramian_Setting", "via": ["statement"]}
 {"parent": "TensorNP.Bilinear.AG_feasible_iff_colorable", "child": "TensorNP_Bilinear_Construction", "via": ["solution", "statement"]}
@@ -64155,12 +64155,12 @@
 {"parent": "TeschlQM.Atomic.exists_localization_partition", "child": "TeschlQM_Atomic_atomicHamiltonian", "via": ["solution", "statement"]}
 {"parent": "TeschlQM.Atomic.exists_localization_partition", "child": "TeschlQM_Atomic_freeHamiltonian", "via": ["solution", "statement"]}
 {"parent": "TeschlQM.Atomic.exists_localization_partition", "child": "TeschlQM_Atomic_mulOp", "via": ["solution", "statement"]}
-{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Atomic_atomicHamiltonian", "via": ["statement"]}
-{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Atomic_freeHamiltonian", "via": ["statement"]}
-{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Atomic_mulOp", "via": ["statement"]}
-{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Shared_IsBoundedBelowBy", "via": ["statement"]}
-{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Shared_essentialSpectrum", "via": ["statement"]}
-{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Shared_resolventSet", "via": ["statement"]}
+{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Atomic_atomicHamiltonian", "via": ["solution", "statement"]}
+{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Atomic_freeHamiltonian", "via": ["solution", "statement"]}
+{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Atomic_mulOp", "via": ["solution", "statement"]}
+{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Shared_IsBoundedBelowBy", "via": ["solution", "statement"]}
+{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Shared_essentialSpectrum", "via": ["solution", "statement"]}
+{"parent": "TeschlQM.Atomic.hvz", "child": "TeschlQM_Shared_resolventSet", "via": ["solution", "statement"]}
 {"parent": "TeschlQM.Atomic.ims_localization", "child": "TeschlQM_Atomic_freeHamiltonian", "via": ["statement"]}
 {"parent": "TeschlQM.Atomic.ims_localization", "child": "TeschlQM_Atomic_mulOp", "via": ["statement"]}
 {"parent": "TeschlQM.Atomic.isRelativelyCompact_of_tail", "child": "TeschlQM_Atomic_freeHamiltonian", "via": ["statement"]}

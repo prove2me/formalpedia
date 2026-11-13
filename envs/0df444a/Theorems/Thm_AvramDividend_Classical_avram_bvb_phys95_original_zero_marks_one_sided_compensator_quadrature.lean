@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_phys95_original_zero_marks_one_sided_compensator_quadrature
 -- name    : AvramDividend.Classical.avram_bvb_phys95_original_zero_marks_one_sided_compensator_quadrature
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T08:39:23.816514+00:00
 -- url     : https://prove2.me/theorems/e5edbe9b-78cf-4121-bb35-2f016cf0e2cb

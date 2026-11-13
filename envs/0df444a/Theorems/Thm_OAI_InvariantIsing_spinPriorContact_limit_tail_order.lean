@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorContact_limit_tail_order
 -- name    : OAI.InvariantIsing.spinPriorContact_limit_tail_order
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:52.849199+00:00
 -- url     : https://prove2.me/theorems/9c42c831-1af2-4b6d-b566-37855155afa0

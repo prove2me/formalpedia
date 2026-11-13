@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_b24_original_A_floor_rate_eventually_eq_sample
 -- name    : AvramDividend.Classical.avram_bvb_b24_original_A_floor_rate_eventually_eq_sample
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:37:55.882527+00:00
 -- url     : https://prove2.me/theorems/199ecf0e-d266-453c-8a76-5837536e6eaf

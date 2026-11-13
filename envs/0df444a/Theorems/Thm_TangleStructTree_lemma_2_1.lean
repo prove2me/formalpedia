@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TangleStructTree_lemma_2_1
 -- name    : TangleStructTree.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:55:23.195439+00:00
 -- url     : https://prove2.me/theorems/3b8f8754-0ce6-475e-95b7-ef2720f98e3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_field_vector_spin_pair_evaluation
 -- name    : OAI.InvariantIsing.field_vector_spin_pair_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:38:33.543325+00:00
 -- url     : https://prove2.me/theorems/bbb823d0-cef4-4887-9209-912b2ec432f9

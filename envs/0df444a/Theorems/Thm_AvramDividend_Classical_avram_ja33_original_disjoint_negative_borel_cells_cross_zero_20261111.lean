@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja33_original_disjoint_negative_borel_cells_cross_zero_20261111
 -- name    : AvramDividend.Classical.avram_ja33_original_disjoint_negative_borel_cells_cross_zero_20261111
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T22:11:40.600555+00:00
 -- url     : https://prove2.me/theorems/d2705069-242f-4cb5-a302-c937297aaa1a

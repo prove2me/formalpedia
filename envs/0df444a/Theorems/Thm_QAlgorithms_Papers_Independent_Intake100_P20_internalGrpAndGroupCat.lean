@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_internalGrpAndGroupCat
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.internalGrpAndGroupCat
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:31:39.829576+00:00
 -- url     : https://prove2.me/theorems/fe086694-0838-402a-9ec3-652251559d37

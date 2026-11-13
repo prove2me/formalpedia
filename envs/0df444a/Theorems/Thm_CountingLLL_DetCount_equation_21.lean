@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountingLLL_DetCount_equation_21
 -- name    : CountingLLL.DetCount.equation_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:11.444104+00:00
 -- url     : https://prove2.me/theorems/79f1d536-3ec7-45c3-8cd4-15a12ae7929a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IsingPerceptron_raw_joint_shape_score_integrable
 -- name    : OAI.IsingPerceptron.raw_joint_shape_score_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:57:49.760124+00:00
 -- url     : https://prove2.me/theorems/513c6cc0-8586-4521-92a3-795575d07b11

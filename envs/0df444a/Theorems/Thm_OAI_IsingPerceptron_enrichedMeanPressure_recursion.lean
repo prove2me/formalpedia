@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IsingPerceptron_enrichedMeanPressure_recursion
 -- name    : OAI.IsingPerceptron.enrichedMeanPressure_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:57:26.947339+00:00
 -- url     : https://prove2.me/theorems/a17a83e4-625b-45ef-9567-a2eef1d98e24

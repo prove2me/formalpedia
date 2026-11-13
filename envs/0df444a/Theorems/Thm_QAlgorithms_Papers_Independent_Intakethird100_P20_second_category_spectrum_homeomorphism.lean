@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_second_category_spectrum_homeomorphism
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.second_category_spectrum_homeomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:47:23.059206+00:00
 -- url     : https://prove2.me/theorems/76da9591-fb78-4ce8-bece-850765b810c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ListHashFurstenberg_Main_lemma_2_16
 -- name    : ListHashFurstenberg.Main.lemma_2_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:09:40.195392+00:00
 -- url     : https://prove2.me/theorems/00e6135f-a437-4241-9bdb-beee9ddd9ae2

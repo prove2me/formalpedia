@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_strict_finite_overlap_test
 -- name    : OAI.InvariantIsing.cavity_strict_finite_overlap_test
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:24:42.109286+00:00
 -- url     : https://prove2.me/theorems/4570c501-7f3f-436b-89ae-7e91d0038490

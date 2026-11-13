@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKECC1549_Main_sec2_maxflow_mincut
 -- name    : DirKECC1549.Main.sec2_maxflow_mincut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:44:40.698565+00:00
 -- url     : https://prove2.me/theorems/41c2b35b-127b-4517-bf2a-6a87a6e1c3c1

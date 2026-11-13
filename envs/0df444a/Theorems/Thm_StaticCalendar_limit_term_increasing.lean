@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticCalendar_limit_term_increasing
 -- name    : StaticCalendar.limit_term_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:15.148755+00:00
 -- url     : https://prove2.me/theorems/0b2f0595-136c-4558-b056-b559b3244667

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja36_original_negative_borel_cell_factorial_moment
 -- name    : AvramDividend.Classical.avram_ja36_original_negative_borel_cell_factorial_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T22:37:58.262721+00:00
 -- url     : https://prove2.me/theorems/6d1258a3-4cb1-44e0-b4b2-85e5783c509b

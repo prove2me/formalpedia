@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_pointwiseSummable_absolute
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.pointwiseSummable_absolute
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:24:39.79602+00:00
 -- url     : https://prove2.me/theorems/9983233c-46b8-4701-abb8-99988b450027

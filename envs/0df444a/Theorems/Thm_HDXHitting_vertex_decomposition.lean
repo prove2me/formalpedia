@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_vertex_decomposition
 -- name    : HDXHitting.vertex_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:57:41.320889+00:00
 -- url     : https://prove2.me/theorems/ba446174-784d-4ebc-8ed9-732dfcfea7e7

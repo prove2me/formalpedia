@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NadlerCLS_theorem_C_3
 -- name    : NadlerCLS.theorem_C_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:02:57.611497+00:00
 -- url     : https://prove2.me/theorems/446cdd49-0a86-49de-bca9-41f43fd3fc60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_opposite_center
 -- name    : PlanarMetricElections.Peer.opposite_center
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:38.502272+00:00
 -- url     : https://prove2.me/theorems/d111bacb-7a34-4fe4-9579-4a03e14f9c37

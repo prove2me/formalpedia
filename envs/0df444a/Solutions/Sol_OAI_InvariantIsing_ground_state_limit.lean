@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.ground_state_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:30:23.893559+00:00
 -- url     : https://prove2.me/submissions/a98aa083-9dc0-470a-8c50-22c2dfd7223d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_maximal_badNormalizer_eq_opCore
 -- name    : OddOrder.Isaacs.Ch07.maximal_badNormalizer_eq_opCore
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:54:16.607409+00:00
 -- url     : https://prove2.me/theorems/5bbac40b-4e77-4f60-81aa-2cc81ab76692

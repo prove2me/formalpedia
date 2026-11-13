@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_original_strict_cash_grid_limit_of_discount_modulus
 -- name    : AvramDividend.Classical.avram_chat24_original_strict_cash_grid_limit_of_discount_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:29:50.795785+00:00
 -- url     : https://prove2.me/theorems/480d6550-9f4e-4c4f-a086-07c75d921d62

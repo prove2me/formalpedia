@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_fullPerturbationPressure_cost
 -- name    : OAI.InvariantIsing.fullPerturbationPressure_cost
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:38:32.131207+00:00
 -- url     : https://prove2.me/theorems/04478987-8e58-4b41-ad80-37e156abdef9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ClosedSurfaceR4_FiniteOrderSmoothing_CrosscapCoordinateStrip_formal_pair
 -- name    : OAI.ClosedSurfaceR4.FiniteOrderSmoothing.CrosscapCoordinateStrip.formal_pair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:09:32.340762+00:00
 -- url     : https://prove2.me/theorems/8f0c92d6-23e6-4013-b98c-1e533437418a

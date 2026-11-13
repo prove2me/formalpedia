@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultipleUnicast_Counterexample_flow_bound
 -- name    : MultipleUnicast.Counterexample.flow_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:22:14.562806+00:00
 -- url     : https://prove2.me/theorems/6c20b3ef-5bdf-4007-b2fe-82316875aca0

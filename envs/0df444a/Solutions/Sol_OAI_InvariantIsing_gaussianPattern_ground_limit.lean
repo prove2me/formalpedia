@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.gaussianPattern_ground_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:54:06.86885+00:00
 -- url     : https://prove2.me/submissions/11311a36-20ca-4540-8468-e1fa0f8f14dd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

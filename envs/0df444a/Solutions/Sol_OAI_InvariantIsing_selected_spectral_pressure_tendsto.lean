@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.selected_spectral_pressure_tendsto
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:32:39.439267+00:00
 -- url     : https://prove2.me/submissions/d06c034a-9836-4bfe-89ec-b6b0973b13c9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

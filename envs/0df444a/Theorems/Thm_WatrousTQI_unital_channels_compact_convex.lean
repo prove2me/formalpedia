@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_unital_channels_compact_convex
 -- name    : WatrousTQI.unital_channels_compact_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T22:56:21.200975+00:00
 -- url     : https://prove2.me/theorems/f3b2ab26-abad-4fce-804a-4122c32bd412

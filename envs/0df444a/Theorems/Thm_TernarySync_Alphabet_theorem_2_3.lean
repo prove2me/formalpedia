@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TernarySync_Alphabet_theorem_2_3
 -- name    : TernarySync.Alphabet.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:51:18.639196+00:00
 -- url     : https://prove2.me/theorems/d4eee439-edaa-409f-9c29-89523cf7b571

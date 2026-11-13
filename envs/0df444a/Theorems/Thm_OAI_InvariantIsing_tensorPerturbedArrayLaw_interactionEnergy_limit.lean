@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorPerturbedArrayLaw_interactionEnergy_limit
 -- name    : OAI.InvariantIsing.tensorPerturbedArrayLaw_interactionEnergy_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:46:03.496257+00:00
 -- url     : https://prove2.me/theorems/7048c9f7-96a7-4a9b-8970-5da1f703051f

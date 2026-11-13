@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_limiting_pressure_of_extreme_limits
 -- name    : OAI.InvariantIsing.limiting_pressure_of_extreme_limits
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:27:57.97082+00:00
 -- url     : https://prove2.me/theorems/57ea430e-dcdd-4584-8d4a-c22f6bd093d5

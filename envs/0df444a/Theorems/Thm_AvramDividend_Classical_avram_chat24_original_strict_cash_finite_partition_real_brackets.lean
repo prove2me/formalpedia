@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_original_strict_cash_finite_partition_real_brackets
 -- name    : AvramDividend.Classical.avram_chat24_original_strict_cash_finite_partition_real_brackets
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:29:52.048135+00:00
 -- url     : https://prove2.me/theorems/e1d31940-5f0b-42be-b0e9-0e3ae5fc6e49

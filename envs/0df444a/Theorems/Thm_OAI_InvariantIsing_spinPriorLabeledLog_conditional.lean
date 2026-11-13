@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorLabeledLog_conditional
 -- name    : OAI.InvariantIsing.spinPriorLabeledLog_conditional
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:58:15.47447+00:00
 -- url     : https://prove2.me/theorems/5156d616-2406-4e41-94bf-c98b8d6f057a

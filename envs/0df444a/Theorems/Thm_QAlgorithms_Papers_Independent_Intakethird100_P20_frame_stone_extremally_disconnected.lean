@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_frame_stone_extremally_disconnected
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.frame_stone_extremally_disconnected
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:40:21.679511+00:00
 -- url     : https://prove2.me/theorems/ac2d7a8b-152f-464a-9317-0e63acbaa962

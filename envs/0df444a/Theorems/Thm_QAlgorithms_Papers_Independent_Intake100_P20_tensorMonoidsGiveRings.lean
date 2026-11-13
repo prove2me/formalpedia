@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_tensorMonoidsGiveRings
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.tensorMonoidsGiveRings
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:29:57.150928+00:00
 -- url     : https://prove2.me/theorems/4e877566-5554-4633-8551-ab8261a983e8

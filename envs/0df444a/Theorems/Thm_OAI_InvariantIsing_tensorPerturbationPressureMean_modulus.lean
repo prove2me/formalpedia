@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorPerturbationPressureMean_modulus
 -- name    : OAI.InvariantIsing.tensorPerturbationPressureMean_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:51.576196+00:00
 -- url     : https://prove2.me/theorems/57562a64-6688-4284-8b2e-fe8898801d9c

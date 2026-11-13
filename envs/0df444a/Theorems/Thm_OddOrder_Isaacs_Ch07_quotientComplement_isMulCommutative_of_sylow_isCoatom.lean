@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_quotientComplement_isMulCommutative_of_sylow_isCoatom
 -- name    : OddOrder.Isaacs.Ch07.quotientComplement_isMulCommutative_of_sylow_isCoatom
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:57:19.564439+00:00
 -- url     : https://prove2.me/theorems/a311acaa-b250-4be3-bf3f-635c7b65ab35

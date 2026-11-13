@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_original_spin_limit
 -- name    : OAI.InvariantIsing.cavity_original_spin_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:36:33.147855+00:00
 -- url     : https://prove2.me/theorems/749eb970-7a1a-461b-bee7-4a355c53d6df

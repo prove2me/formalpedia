@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magneticBias_uniform_bound
 -- name    : OAI.InvariantIsing.magneticBias_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:03.703598+00:00
 -- url     : https://prove2.me/theorems/822db9e6-5008-42f1-ab49-613a32b72c3c

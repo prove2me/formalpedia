@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QFairEx_exists_cut_gap
 -- name    : QFairEx.exists_cut_gap
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:21:14.372774+00:00
 -- url     : https://prove2.me/theorems/90c22bcf-e7ce-447f-8a7a-547139ea6806

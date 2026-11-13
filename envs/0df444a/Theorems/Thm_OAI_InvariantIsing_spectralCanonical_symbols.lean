@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spectralCanonical_symbols
 -- name    : OAI.InvariantIsing.spectralCanonical_symbols
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:19.136626+00:00
 -- url     : https://prove2.me/theorems/8c4320c5-ad64-4b24-8b4a-b0504187479f

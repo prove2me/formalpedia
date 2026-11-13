@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva19_original_inclusive_compensator_grid_converges
 -- name    : AvramDividend.Classical.avram_bva19_original_inclusive_compensator_grid_converges
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T17:50:10.055617+00:00
 -- url     : https://prove2.me/theorems/7ccc2a1a-41dc-4e61-8b3c-0d82df32c3a6

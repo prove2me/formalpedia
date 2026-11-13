@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorNamespacedMeanPressure_perturbation_cost
 -- name    : OAI.InvariantIsing.tensorNamespacedMeanPressure_perturbation_cost
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:56.59387+00:00
 -- url     : https://prove2.me/theorems/52820389-3caa-4422-bb8a-7dab86565fbb

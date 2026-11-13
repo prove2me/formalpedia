@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja23_original_marked_strip_compensated_l2
 -- name    : AvramDividend.Classical.avram_ja23_original_marked_strip_compensated_l2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T16:37:05.78326+00:00
 -- url     : https://prove2.me/theorems/924b87ab-e5c3-40ea-86d3-a484d7d0cfd8

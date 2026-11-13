@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticCalendar_lemma_EC_7
 -- name    : StaticCalendar.lemma_EC_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:25:10.203946+00:00
 -- url     : https://prove2.me/theorems/5dd47bf8-4975-4646-b2fa-906f15bb4d6f

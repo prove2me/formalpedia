@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_adjacent_center
 -- name    : PlanarMetricElections.Peer.adjacent_center
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:47.334197+00:00
 -- url     : https://prove2.me/theorems/906de69c-a328-4763-822d-a6d1b4cf585e

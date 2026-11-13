@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_principal_ideal_spectrum_homeomorphism
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.principal_ideal_spectrum_homeomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:49:52.625802+00:00
 -- url     : https://prove2.me/theorems/ad4242a3-d657-49e9-b662-b6a410178fff

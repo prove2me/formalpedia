@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.restricted_cavity_full_depth_test_evaluation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:32:09.735623+00:00
 -- url     : https://prove2.me/submissions/b5e1095c-e437-42e3-ab3d-1c3ecbb2660b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

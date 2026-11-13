@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BrouwerLaplacian.lemma_5_6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T04:20:14.402979+00:00
 -- url     : https://prove2.me/submissions/3ffaf5a6-3269-429b-be31-c3aa6dd99f5b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BrouwerLaplacian_IsOrthProj

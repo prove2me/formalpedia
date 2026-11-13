@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SubadditiveMMS580.Amplification.corollary_3_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:00:45.050302+00:00
 -- url     : https://prove2.me/submissions/e57e7c1f-b2bb-4ec2-8859-7168d1d25d5e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SubadditiveMMS580_Amplification_Setting

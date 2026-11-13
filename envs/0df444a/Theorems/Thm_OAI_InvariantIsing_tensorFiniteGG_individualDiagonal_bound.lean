@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorFiniteGG_individualDiagonal_bound
 -- name    : OAI.InvariantIsing.tensorFiniteGG_individualDiagonal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:09.635562+00:00
 -- url     : https://prove2.me/theorems/1dfc403f-2ef1-4ad1-9975-1180bfa4c0ff

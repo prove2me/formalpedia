@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux12_original_jump_laplace_finite_cutoff
 -- name    : AvramDividend.Classical.avram_redux12_original_jump_laplace_finite_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T10:27:55.774357+00:00
 -- url     : https://prove2.me/theorems/59ca0406-1a30-4542-aeee-f7ef2b9b067c

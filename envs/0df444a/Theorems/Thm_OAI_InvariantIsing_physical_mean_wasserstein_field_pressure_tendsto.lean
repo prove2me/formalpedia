@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_physical_mean_wasserstein_field_pressure_tendsto
 -- name    : OAI.InvariantIsing.physical_mean_wasserstein_field_pressure_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:29:57.538043+00:00
 -- url     : https://prove2.me/theorems/52f36015-8335-4800-b069-7551b76a1495

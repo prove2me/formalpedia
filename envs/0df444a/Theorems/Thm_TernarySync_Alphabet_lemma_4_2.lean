@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TernarySync_Alphabet_lemma_4_2
 -- name    : TernarySync.Alphabet.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:54:41.126344+00:00
 -- url     : https://prove2.me/theorems/521aec8e-7691-4e8f-8030-fdd65d21b842

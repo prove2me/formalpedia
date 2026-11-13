@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_priorFiniteGG_individualDiagonal_bound
 -- name    : OAI.InvariantIsing.priorFiniteGG_individualDiagonal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:25.017467+00:00
 -- url     : https://prove2.me/theorems/2694b0e8-5ae4-413c-9e66-733ba8847153

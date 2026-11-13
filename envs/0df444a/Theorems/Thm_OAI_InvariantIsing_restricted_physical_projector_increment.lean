@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_physical_projector_increment
 -- name    : OAI.InvariantIsing.restricted_physical_projector_increment
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:42:36.769545+00:00
 -- url     : https://prove2.me/theorems/b044f947-c696-486b-92f2-475ad4860695

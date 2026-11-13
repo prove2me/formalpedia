@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_b25_original_real_stopped_AK_paired_DCT
 -- name    : AvramDividend.Classical.avram_bvb_b25_original_real_stopped_AK_paired_DCT
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:39:32.630076+00:00
 -- url     : https://prove2.me/theorems/c23e368d-6cdf-44fb-a9bb-aae39a35f798

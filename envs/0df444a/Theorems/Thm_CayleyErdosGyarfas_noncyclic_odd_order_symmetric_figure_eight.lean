@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CayleyErdosGyarfas_noncyclic_odd_order_symmetric_figure_eight
 -- name    : CayleyErdosGyarfas.noncyclic_odd_order_symmetric_figure_eight
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:10:36.3414+00:00
 -- url     : https://prove2.me/theorems/236b9665-ed73-4171-bf69-5301c2799ea8

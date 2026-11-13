@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_original_spin_limit
 -- name    : OAI.InvariantIsing.restricted_original_spin_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:42:24.731124+00:00
 -- url     : https://prove2.me/theorems/fc5e08d8-cd69-4fbc-8a25-b20610d6af51

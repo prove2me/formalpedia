@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kification_openEmbedding
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kification_openEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:28:35.657643+00:00
 -- url     : https://prove2.me/theorems/5b07cc36-4e27-45c5-be23-0faae4096398

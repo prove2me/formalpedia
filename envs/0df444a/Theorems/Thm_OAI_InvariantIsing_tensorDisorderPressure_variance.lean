@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorDisorderPressure_variance
 -- name    : OAI.InvariantIsing.tensorDisorderPressure_variance
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:59:42.602868+00:00
 -- url     : https://prove2.me/theorems/2fc79fc8-b91b-437e-adba-a2b172ef1283

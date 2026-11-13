@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_actionsInSet
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.actionsInSet
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:28:54.68374+00:00
 -- url     : https://prove2.me/theorems/7aa95a7e-e2b9-49b8-a304-2362fdbb0bb1

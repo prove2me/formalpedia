@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_compact_spectral_field_pressure_tendsto_of_mem
 -- name    : OAI.InvariantIsing.compact_spectral_field_pressure_tendsto_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:25:30.375285+00:00
 -- url     : https://prove2.me/theorems/de52dd35-09a7-4bd7-9df4-bb3a8254c66c

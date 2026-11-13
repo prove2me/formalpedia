@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivInfoHier_Main_eq_B_4_small_delta
 -- name    : PrivInfoHier.Main.eq_B_4_small_delta
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T16:25:16.916929+00:00
 -- url     : https://prove2.me/theorems/4357c15c-0f0c-4cbc-9a3c-0e69bfb32adb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kification_functorial
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kification_functorial
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:30:54.426113+00:00
 -- url     : https://prove2.me/theorems/101db8c1-ea3a-46e2-809c-9736156885a0

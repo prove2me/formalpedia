@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_priorPerturbation_minimizers_constantDiagonal
 -- name    : OAI.InvariantIsing.priorPerturbation_minimizers_constantDiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:59.456506+00:00
 -- url     : https://prove2.me/theorems/490d7a38-909b-4463-9d70-ad3754c4b061

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_open_quasipoint_dichotomy
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.open_quasipoint_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:41:53.202949+00:00
 -- url     : https://prove2.me/theorems/be18bcf1-46df-4b5f-aba0-63e5ea2b575a

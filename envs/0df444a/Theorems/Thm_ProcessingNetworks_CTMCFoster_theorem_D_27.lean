@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_CTMCFoster_theorem_D_27
 -- name    : ProcessingNetworks.CTMCFoster.theorem_D_27
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:27:36.964416+00:00
 -- url     : https://prove2.me/theorems/61595cb9-86fe-49a7-a6c4-fa663699cc61

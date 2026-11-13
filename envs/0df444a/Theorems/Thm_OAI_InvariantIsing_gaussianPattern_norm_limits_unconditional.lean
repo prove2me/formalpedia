@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_gaussianPattern_norm_limits_unconditional
 -- name    : OAI.InvariantIsing.gaussianPattern_norm_limits_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:47.391989+00:00
 -- url     : https://prove2.me/theorems/bc753f9f-c509-450f-8f3b-949bea3c4a53

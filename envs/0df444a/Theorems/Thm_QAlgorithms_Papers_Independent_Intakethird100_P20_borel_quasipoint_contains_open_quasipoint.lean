@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_borel_quasipoint_contains_open_quasipoint
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.borel_quasipoint_contains_open_quasipoint
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:47:47.335965+00:00
 -- url     : https://prove2.me/theorems/d8f344f7-35af-4c3b-9ca6-e6a2b1640d61

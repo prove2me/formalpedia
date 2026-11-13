@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_Balance_WordPacking_threeRows
 -- name    : OAI.Saxl.Balance.WordPacking.threeRows
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:14:43.689013+00:00
 -- url     : https://prove2.me/theorems/284a3e21-c1e3-4552-87c4-f51761a76eeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinMaxLoad_theorem_7_km26_tail
 -- name    : LinMaxLoad.theorem_7_km26_tail
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T16:35:38.554767+00:00
 -- url     : https://prove2.me/theorems/344a61de-30e8-4a20-ab6c-9614e800e4f1

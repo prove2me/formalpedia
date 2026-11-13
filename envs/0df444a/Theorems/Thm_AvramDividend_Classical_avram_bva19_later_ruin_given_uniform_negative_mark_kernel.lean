@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva19_later_ruin_given_uniform_negative_mark_kernel
 -- name    : AvramDividend.Classical.avram_bva19_later_ruin_given_uniform_negative_mark_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T16:28:03.612042+00:00
 -- url     : https://prove2.me/theorems/efbae9c3-362d-4df4-aa92-9a6bb684956a

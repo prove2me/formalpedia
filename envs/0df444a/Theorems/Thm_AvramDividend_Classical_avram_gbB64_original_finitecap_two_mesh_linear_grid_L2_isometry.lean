@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB64_original_finitecap_two_mesh_linear_grid_L2_isometry
 -- name    : AvramDividend.Classical.avram_gbB64_original_finitecap_two_mesh_linear_grid_L2_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:26:18.78265+00:00
 -- url     : https://prove2.me/theorems/f42f5534-fd51-47f1-b9d2-c3b65031a6ad

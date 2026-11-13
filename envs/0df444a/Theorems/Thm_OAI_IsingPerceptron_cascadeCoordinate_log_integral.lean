@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IsingPerceptron_cascadeCoordinate_log_integral
 -- name    : OAI.IsingPerceptron.cascadeCoordinate_log_integral
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:57:51.565699+00:00
 -- url     : https://prove2.me/theorems/2fc1d6e2-d3ff-4c6f-8bc2-c27431fcbd21

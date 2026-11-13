@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB121_original_finitecap_two_mesh_energy_triangle_bound
 -- name    : AvramDividend.Classical.avram_gbB121_original_finitecap_two_mesh_energy_triangle_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:19:37.393498+00:00
 -- url     : https://prove2.me/theorems/977c9e34-e8db-419b-88ae-3f2df856f9c6

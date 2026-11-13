@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_priorNamespacedPerturbation_variance
 -- name    : OAI.InvariantIsing.priorNamespacedPerturbation_variance
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:31.212903+00:00
 -- url     : https://prove2.me/theorems/6159722a-1c31-489b-be69-c34805561d9b

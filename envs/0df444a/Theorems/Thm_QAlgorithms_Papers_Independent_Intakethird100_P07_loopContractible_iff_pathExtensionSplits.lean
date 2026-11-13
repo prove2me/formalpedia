@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_loopContractible_iff_pathExtensionSplits
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.loopContractible_iff_pathExtensionSplits
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:22:58.360457+00:00
 -- url     : https://prove2.me/theorems/0f6fd0c6-127a-47b6-8b2c-e9b5ad778eff

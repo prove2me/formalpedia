@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Cogradient_fBTD_decomposition
 -- name    : TensorBTD.Cogradient.fBTD_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:24:21.894293+00:00
 -- url     : https://prove2.me/theorems/cc8a9376-aecc-4c28-8d3f-d210e77a78f7

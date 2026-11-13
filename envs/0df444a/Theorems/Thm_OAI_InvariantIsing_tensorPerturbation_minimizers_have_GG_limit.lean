@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorPerturbation_minimizers_have_GG_limit
 -- name    : OAI.InvariantIsing.tensorPerturbation_minimizers_have_GG_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:52.903122+00:00
 -- url     : https://prove2.me/theorems/3eebecd2-60cd-4123-911b-3214afed58fe

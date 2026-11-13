@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_lemma_11_uncrossing_step
 -- name    : RepellingPairs.lemma_11_uncrossing_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:04:12.887572+00:00
 -- url     : https://prove2.me/theorems/0838d241-4b33-40bd-9944-3e7650eac19b

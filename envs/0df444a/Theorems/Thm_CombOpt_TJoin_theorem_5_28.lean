@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_TJoin_theorem_5_28
 -- name    : CombOpt.TJoin.theorem_5_28
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:07:30.005107+00:00
 -- url     : https://prove2.me/theorems/2c1f41c5-e154-4977-86f4-0b4860c8f63c

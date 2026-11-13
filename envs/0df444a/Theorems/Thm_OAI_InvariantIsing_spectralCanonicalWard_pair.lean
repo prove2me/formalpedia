@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spectralCanonicalWard_pair
 -- name    : OAI.InvariantIsing.spectralCanonicalWard_pair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:16.893949+00:00
 -- url     : https://prove2.me/theorems/fc557a5e-0b3b-4e83-8180-8479602517e2

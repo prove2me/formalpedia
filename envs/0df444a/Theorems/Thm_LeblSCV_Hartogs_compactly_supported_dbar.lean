@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Hartogs_compactly_supported_dbar
 -- name    : LeblSCV.Hartogs.compactly_supported_dbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:57:46.965617+00:00
 -- url     : https://prove2.me/theorems/7f655bb9-2bcb-49cc-bf58-888ae464867d

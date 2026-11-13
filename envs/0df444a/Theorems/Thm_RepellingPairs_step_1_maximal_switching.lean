@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_step_1_maximal_switching
 -- name    : RepellingPairs.step_1_maximal_switching
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:07:01.613694+00:00
 -- url     : https://prove2.me/theorems/60a3fefd-da96-4993-93d1-be9b974e7aff

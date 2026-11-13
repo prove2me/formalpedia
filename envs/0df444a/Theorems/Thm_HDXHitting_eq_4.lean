@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_eq_4
 -- name    : HDXHitting.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T18:02:12.859159+00:00
 -- url     : https://prove2.me/theorems/3b67ae91-3801-4bff-973c-9a4f75d7d9ba

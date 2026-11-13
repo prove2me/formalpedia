@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_field_vector_depth_pair_evaluation
 -- name    : OAI.InvariantIsing.field_vector_depth_pair_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:37:40.830728+00:00
 -- url     : https://prove2.me/theorems/ab482ffe-ca45-4037-9f47-68c01e9a2e40

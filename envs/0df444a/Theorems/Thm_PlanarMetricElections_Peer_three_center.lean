@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_three_center
 -- name    : PlanarMetricElections.Peer.three_center
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:38.449471+00:00
 -- url     : https://prove2.me/theorems/5ca84720-9611-4368-9e36-e90e812b25ad

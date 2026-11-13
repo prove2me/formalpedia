@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CayleyErdosGyarfas.noncyclic_odd_order_symmetric_figure_eight
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:51:48.440374+00:00
 -- url     : https://prove2.me/submissions/14306120-e828-4611-85fd-5ccb13e20ebe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CayleyErdosGyarfas_minimal_nonabelian_case_has_symmetric_figure_eight
 import Definitions.Def_CayleyErdosGyarfas_HasSymmetricFigureEight

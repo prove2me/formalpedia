@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.limiting_wasserstein_field_pressure_of_extreme_limits
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:30:26.666293+00:00
 -- url     : https://prove2.me/submissions/db2be2c8-0cef-4245-90cc-f106c834f96e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

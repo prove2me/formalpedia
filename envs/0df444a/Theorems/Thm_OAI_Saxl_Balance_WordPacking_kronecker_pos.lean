@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_Balance_WordPacking_kronecker_pos
 -- name    : OAI.Saxl.Balance.WordPacking.kronecker_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:14:00.804756+00:00
 -- url     : https://prove2.me/theorems/2964a72e-138f-45cb-b513-195178802364

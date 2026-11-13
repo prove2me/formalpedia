@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TangleStructTree_corollary_3_4
 -- name    : TangleStructTree.corollary_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:55:28.442699+00:00
 -- url     : https://prove2.me/theorems/b4932561-8f2f-42dc-83fe-52ab641b065b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSigma_Upper_proposition_3_6
 -- name    : ThreeSigma.Upper.proposition_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:37:59.285825+00:00
 -- url     : https://prove2.me/theorems/f6f018c0-8f4f-48a5-ae3e-219ccd353130

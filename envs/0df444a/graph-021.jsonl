@@ -2957,10 +2957,10 @@
 {"parent": "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.isCompact_closure_extendByZeroL2_image_of_forall_exists_translationIntegral_small", "child": "RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_L2Compactness_Transfer", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.cLam_unary", "child": "CountedRecursion_PolyLists", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.cLam_unary", "child": "CountedRecursion_PolyQueries", "via": ["solution", "statement"]}
-{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_Mw", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_rowNormalize", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_colNormalize", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_Fw", "via": ["statement"]}
+{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_Mw", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_rowNormalize", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_colNormalize", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.cycle_identity", "child": "GlobalSinkhorn_Fw", "via": ["solution", "statement"]}
 {"parent": "SizeCircuit.fullAdder_spec", "child": "SizeCircuit_Addition", "via": ["solution", "statement"]}
 {"parent": "SizeCircuit.fullAdder_spec", "child": "SizeCircuit_CircuitDefs", "via": ["solution", "statement"]}
 {"parent": "UCalibDirichlet_alg1", "child": "UCalibDirichlet_Forecaster", "via": ["statement"]}
@@ -15998,7 +15998,7 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3137_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3137_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3137_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
-{"parent": "GlobalSinkhorn.F_le_P", "child": "GlobalSinkhorn_Fw", "via": ["statement"]}
+{"parent": "GlobalSinkhorn.F_le_P", "child": "GlobalSinkhorn_Fw", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_limit2_original_natural_cash_saturates_any_later_closed_horizon", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_limit2_original_natural_cash_saturates_any_later_closed_horizon", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_limit2_original_natural_cash_saturates_any_later_closed_horizon", "child": "AvramDividend.Classical.avram_limit2_stopped_paymentTimes_subset_closed_nat_clock", "via": ["solution", "statement"]}

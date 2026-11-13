@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorNamespacedArrayLaw_off_ward_limit
 -- name    : OAI.InvariantIsing.tensorNamespacedArrayLaw_off_ward_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:39.186205+00:00
 -- url     : https://prove2.me/theorems/8edac490-1b30-41bd-8d58-b3839ffeda0a

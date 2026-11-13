@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_fact_2_1_bipartite
 -- name    : HDXHitting.fact_2_1_bipartite
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:57:30.173077+00:00
 -- url     : https://prove2.me/theorems/e1d251ea-f946-4fc4-b0a2-d6891566ccb0

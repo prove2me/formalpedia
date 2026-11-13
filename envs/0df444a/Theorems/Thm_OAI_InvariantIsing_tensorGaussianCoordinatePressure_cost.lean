@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorGaussianCoordinatePressure_cost
 -- name    : OAI.InvariantIsing.tensorGaussianCoordinatePressure_cost
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:45.801966+00:00
 -- url     : https://prove2.me/theorems/5e94190a-9b0b-4f45-b7f1-b2d8a7eed105

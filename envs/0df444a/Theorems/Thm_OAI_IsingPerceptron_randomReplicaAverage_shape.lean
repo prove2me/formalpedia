@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IsingPerceptron_randomReplicaAverage_shape
 -- name    : OAI.IsingPerceptron.randomReplicaAverage_shape
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:57:29.388363+00:00
 -- url     : https://prove2.me/theorems/c223e004-4533-4ea5-818a-c844e4eed7f9

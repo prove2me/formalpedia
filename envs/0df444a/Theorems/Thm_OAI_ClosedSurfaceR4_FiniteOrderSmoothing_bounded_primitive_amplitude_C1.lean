@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ClosedSurfaceR4_FiniteOrderSmoothing_bounded_primitive_amplitude_C1
 -- name    : OAI.ClosedSurfaceR4.FiniteOrderSmoothing.bounded_primitive_amplitude_C1
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:21:26.932627+00:00
 -- url     : https://prove2.me/theorems/4835ab03-b0a2-4d9f-af8b-e971e1b9f038

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_theorem_1_realizable_iff_repelling_disjoint
 -- name    : RepellingPairs.theorem_1_realizable_iff_repelling_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:05:43.579886+00:00
 -- url     : https://prove2.me/theorems/b1a029f1-be78-457d-8ddf-4bbb7319dd62

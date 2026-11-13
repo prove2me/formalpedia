@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CayleyErdosGyarfas.minimal_nonabelian_case_has_symmetric_figure_eight
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:49:22.622789+00:00
 -- url     : https://prove2.me/submissions/5dc17200-b5c2-4ff3-9407-e8f1e56557c3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CayleyErdosGyarfas_feit_thompson
 import Theorems.Thm_CayleyErdosGyarfas_affine_case_two

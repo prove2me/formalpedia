@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAP_Counting_proposition_5_28
 -- name    : RestrictedAP.Counting.proposition_5_28
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:19:55.049752+00:00
 -- url     : https://prove2.me/theorems/8b024fec-04e9-4fdb-b0ba-d56866ca8694

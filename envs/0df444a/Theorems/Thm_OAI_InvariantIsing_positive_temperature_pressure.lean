@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_positive_temperature_pressure
 -- name    : OAI.InvariantIsing.positive_temperature_pressure
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:30:12.17953+00:00
 -- url     : https://prove2.me/theorems/043f08cf-50a2-48e0-8735-74be4e84d885

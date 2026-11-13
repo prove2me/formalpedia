@@ -71889,7 +71889,7 @@
 {"parent": "LeblSCV.Germs.weierstrass_preparation", "child": "LeblSCV_Germs_weierstrassPolynomial", "via": ["statement"]}
 {"parent": "LeblSCV.Germs.weierstrass_preparation", "child": "LeblSCV_Shared_polydisc", "via": ["statement"]}
 {"parent": "LeblSCV.Hartogs.cauchy_pompeiu_disc", "child": "LeblSCV_Shared_dbar", "via": ["statement"]}
-{"parent": "LeblSCV.Hartogs.compactly_supported_dbar", "child": "LeblSCV_Shared_wirtingerBar", "via": ["statement"]}
+{"parent": "LeblSCV.Hartogs.compactly_supported_dbar", "child": "LeblSCV_Shared_wirtingerBar", "via": ["solution", "statement"]}
 {"parent": "LeblSCV.Hartogs.dbar_solution_disc", "child": "LeblSCV_Shared_dbar", "via": ["statement"]}
 {"parent": "LeblSCV.Holomorphic.cauchy_derivative_formula_and_estimates", "child": "LeblSCV.Holomorphic.cauchy_integral_formula_polydisc", "via": ["solution"]}
 {"parent": "LeblSCV.Holomorphic.cauchy_derivative_formula_and_estimates", "child": "LeblSCV_Holomorphic_IsHolomorphicOn", "via": ["solution", "statement"]}
@@ -71914,9 +71914,9 @@
 {"parent": "LeblSCV.Holomorphic.locally_uniform_limit_holomorphic", "child": "LeblSCV_Holomorphic_IsHolomorphicOn", "via": ["statement"]}
 {"parent": "LeblSCV.Holomorphic.locally_uniform_limit_holomorphic", "child": "LeblSCV_Holomorphic_wirtingerIter", "via": ["statement"]}
 {"parent": "LeblSCV.Holomorphic.maximum_principle", "child": "LeblSCV_Holomorphic_IsHolomorphicOn", "via": ["solution", "statement"]}
-{"parent": "LeblSCV.Holomorphic.power_series_on_polydisc", "child": "LeblSCV_Holomorphic_IsHolomorphicOn", "via": ["statement"]}
-{"parent": "LeblSCV.Holomorphic.power_series_on_polydisc", "child": "LeblSCV_Holomorphic_powerSeriesTerm", "via": ["statement"]}
-{"parent": "LeblSCV.Holomorphic.power_series_on_polydisc", "child": "LeblSCV_Shared_polydisc", "via": ["statement"]}
+{"parent": "LeblSCV.Holomorphic.power_series_on_polydisc", "child": "LeblSCV_Holomorphic_IsHolomorphicOn", "via": ["solution", "statement"]}
+{"parent": "LeblSCV.Holomorphic.power_series_on_polydisc", "child": "LeblSCV_Holomorphic_powerSeriesTerm", "via": ["solution", "statement"]}
+{"parent": "LeblSCV.Holomorphic.power_series_on_polydisc", "child": "LeblSCV_Shared_polydisc", "via": ["solution", "statement"]}
 {"parent": "LeblSCV.Levi.continuity_principle", "child": "LeblSCV_Levi_IsClosedAnalyticDisc", "via": ["statement"]}
 {"parent": "LeblSCV.Levi.hartogs_figure_extension", "child": "LeblSCV_Levi_hartogsFigure", "via": ["solution", "statement"]}
 {"parent": "LeblSCV.Levi.hartogs_figure_extension", "child": "LeblSCV_Levi_unitPolydiscProd", "via": ["solution", "statement"]}

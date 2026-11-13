@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_isolated_open_quasipoints
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.isolated_open_quasipoints
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:38:20.444613+00:00
 -- url     : https://prove2.me/theorems/5c2904f3-7fec-4f62-a780-b52fe5dc612d

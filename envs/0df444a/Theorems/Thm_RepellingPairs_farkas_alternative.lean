@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_farkas_alternative
 -- name    : RepellingPairs.farkas_alternative
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:06:18.858975+00:00
 -- url     : https://prove2.me/theorems/a0b31024-7dc4-4640-af8d-c743630d4abf

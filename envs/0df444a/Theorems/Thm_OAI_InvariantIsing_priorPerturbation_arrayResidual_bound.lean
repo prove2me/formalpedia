@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_priorPerturbation_arrayResidual_bound
 -- name    : OAI.InvariantIsing.priorPerturbation_arrayResidual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:44.044401+00:00
 -- url     : https://prove2.me/theorems/ac318c9e-c3a4-4f4c-a96a-462e0b88e128

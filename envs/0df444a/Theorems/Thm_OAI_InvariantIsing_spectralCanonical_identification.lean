@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spectralCanonical_identification
 -- name    : OAI.InvariantIsing.spectralCanonical_identification
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:21.451669+00:00
 -- url     : https://prove2.me/theorems/396a6413-78e3-49ac-835b-2506a0fcee26

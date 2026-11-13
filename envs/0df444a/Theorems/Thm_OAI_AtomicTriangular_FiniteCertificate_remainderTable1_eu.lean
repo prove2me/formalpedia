@@ -1,0 +1,46 @@
+-- Prove2me | Theorems.Thm_OAI_AtomicTriangular_FiniteCertificate_remainderTable1_eu
+-- name    : OAI.AtomicTriangular.FiniteCertificate.remainderTable1_eu
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-12T13:15:29.013203+00:00
+-- url     : https://prove2.me/theorems/63dd70a4-4c6d-478a-bdc8-2b482f5f37e6
+-- title:
+--   OAI.AtomicTriangular.FiniteCertificate.remainderTable1_eu: intermediate lemma from OpenAI, An atomic certificate for triangular-lattice universal optimality (result family 090)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.AtomicTriangular.universal_energy_minimum`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *An atomic certificate for triangular-lattice universal optimality (result family 090)*, OpenAI Math Release, September 26, 2026, result family 90, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.AtomicTriangular.FiniteCertificate.remainderTable1` of [lean/OAI/Analysis/Triangular/Signs/RemainderSums1.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/Triangular/Signs/RemainderSums1.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.AtomicTriangular.FiniteCertificate`, with `open scoped BigOperators`, `open Construction AtomicTriangular.Interval Complex`):
+--
+--   ```lean
+--   lemma remainderTable1_eu (c d : Fin 22) : 3*(rawRemainderColumn 0 1 c+rawRemainderColumn 1 1 d)+(6/1000)*(rawRemainderConstant 0 1+rawRemainderConstant 1 1) < (75/10000000:ℝ)
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.AtomicTriangular.Construction.rawRemainderColumn` and `OAI.AtomicTriangular.Construction.rawRemainderConstant` (definitions bundle `OAIQ334E011` of this split).
+--
+--   **Used by.** The proof of `OAI.AtomicTriangular.FiniteCertificate.remainder_table_eu` of this split imports it.
+-- source:
+--   OpenAI, An atomic certificate for triangular-lattice universal optimality (result family 090), OpenAI Math Release, September 26, 2026, https://github.com/openai/math (result family 90; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/An-atomic-certificate-for-triangular-lattice-universal-optimality-September-26-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Analysis/Triangular/Signs/RemainderSums1.lean (declaration OAI.AtomicTriangular.FiniteCertificate.remainderTable1)
+
+import Mathlib
+import Definitions.Def_OAIQ334E011
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+namespace AtomicTriangular.FiniteCertificate
+open Construction AtomicTriangular.Interval Complex
+lemma remainderTable1_eu (c d : Fin 22) : 3*(rawRemainderColumn 0 1 c+rawRemainderColumn 1 1 d)+(6/1000)*(rawRemainderConstant 0 1+rawRemainderConstant 1 1) < (75/10000000:ℝ) := by
+  sorry
+end AtomicTriangular.FiniteCertificate
+end
+
+end OAI
+end

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_original_full_haar_comparison
 -- name    : OAI.InvariantIsing.restricted_original_full_haar_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:57.211353+00:00
 -- url     : https://prove2.me/theorems/30049d20-7c99-4ff9-8528-d9b559e186c8

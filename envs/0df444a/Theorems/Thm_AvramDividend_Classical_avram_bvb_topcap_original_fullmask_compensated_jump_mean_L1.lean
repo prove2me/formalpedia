@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_topcap_original_fullmask_compensated_jump_mean_L1
 -- name    : AvramDividend.Classical.avram_bvb_topcap_original_fullmask_compensated_jump_mean_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:26:16.491956+00:00
 -- url     : https://prove2.me/theorems/46849a70-a895-42d6-b0c9-0028c5d0a73b

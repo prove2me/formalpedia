@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_cavity_full_spin_test_evaluation
 -- name    : OAI.InvariantIsing.restricted_cavity_full_spin_test_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:19.15454+00:00
 -- url     : https://prove2.me/theorems/507c5cd2-960b-4d73-90b3-71a9b68387ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_physical_log_average
 -- name    : OAI.InvariantIsing.restricted_physical_log_average
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:26.427207+00:00
 -- url     : https://prove2.me/theorems/79efd7da-18ed-4ff7-a39e-114c39ef1a0e

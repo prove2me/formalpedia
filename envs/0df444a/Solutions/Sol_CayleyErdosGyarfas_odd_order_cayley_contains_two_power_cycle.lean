@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CayleyErdosGyarfas.odd_order_cayley_contains_two_power_cycle
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:27:55.25544+00:00
 -- url     : https://prove2.me/submissions/ddc32c95-166f-4c44-8a29-70786696fe41
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CayleyErdosGyarfas_noncyclic_odd_order_symmetric_figure_eight
 import Definitions.Def_CayleyErdosGyarfas_HasSymmetricFigureEight

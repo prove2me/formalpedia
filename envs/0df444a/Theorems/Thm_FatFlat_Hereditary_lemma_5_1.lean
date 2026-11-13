@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatFlat_Hereditary_lemma_5_1
 -- name    : FatFlat.Hereditary.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T18:44:18.420692+00:00
 -- url     : https://prove2.me/theorems/4ff33ec9-de17-406e-9865-71b044ca6008

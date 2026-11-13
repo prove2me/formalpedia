@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorProfileLog_variance
 -- name    : OAI.InvariantIsing.spinPriorProfileLog_variance
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:21.641252+00:00
 -- url     : https://prove2.me/theorems/600b4b29-d1cf-4d50-9012-822ae61b76f3

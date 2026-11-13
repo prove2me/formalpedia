@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_b25_original_K_real_time_integral_auto_meas
 -- name    : AvramDividend.Classical.avram_bvb_b25_original_K_real_time_integral_auto_meas
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:54:53.748256+00:00
 -- url     : https://prove2.me/theorems/8c8a37f9-f0eb-4dd0-b3b4-f7d6f0fe1331

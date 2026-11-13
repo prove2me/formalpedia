@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ListHashFurstenberg_Main_theorem_2_8
 -- name    : ListHashFurstenberg.Main.theorem_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:09:26.596816+00:00
 -- url     : https://prove2.me/theorems/6dad0acf-7888-4d16-9a43-ee78cc1e0aa8

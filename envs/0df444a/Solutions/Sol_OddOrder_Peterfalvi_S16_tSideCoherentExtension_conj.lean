@@ -1,0 +1,230 @@
+-- Prove2me | solution 1 for OddOrder.Peterfalvi.S16.tSideCoherentExtension_conj
+-- status  : ACCEPTED   (prove)
+-- author  : @burkh4rt
+-- created : 2026-11-12T16:34:33.86838+00:00
+-- url     : https://prove2.me/submissions/e9784331-e728-4b1d-b00d-f786378ecd02
+
+/-
+Copyright (c) 2026 Yawara Ishida. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Yawara Ishida
+-/
+-- From github.com/yawara/odd-order @ 20a6fccbb63c (Apache-2.0; LICENSE at that commit):
+--   OddOrder/Peterfalvi/S07_Coherence/NormInequalities.lean
+--   OddOrder/BG/Ch4_FamilyOfMaximal/S16_MainResults/LocalTaxonomy.lean
+--   OddOrder/Peterfalvi/S16_NonExistenceG/TSideTypeP.lean
+--   OddOrder/Peterfalvi/S16_NonExistenceG/TGapDelta.lean
+-- Generated for Prove2Me by deleting declarations; the remaining commands are verbatim except:
+-- `private` dropped where another file uses the declaration, and a solution's main theorem
+-- renamed `_root_.solution` (platform convention).
+import Definitions.Def_OddOrder_Peterfalvi_S16_NonExistenceG_TSideTypeP
+
+-- ===== OddOrder/Peterfalvi/S07_Coherence/NormInequalities.lean =====
+namespace OddOrder.Peterfalvi.S07
+
+open OddOrder.RepresentationTheory
+
+variable {L G : Type*} [Group L] [Group G]
+
+namespace Hypothesis
+
+variable {S : Set (ClassFunction L ℂ)} {A : Set L}
+
+variable [Fintype L] [Fintype G]
+
+variable [Invertible (Nat.card L : ℂ)] [Invertible (Nat.card G : ℂ)]
+
+theorem not_isReal {hyp : Hypothesis (L := L) (G := G) S A}
+    {χ : ClassFunction L ℂ} (hχ : χ ∈ S) :
+    ¬ χ.IsReal :=
+  hyp.no_real_characters hχ
+
+theorem ne_conj {hyp : Hypothesis (L := L) (G := G) S A}
+    {χ : ClassFunction L ℂ} (hχ : χ ∈ S) :
+    χ ≠ χ.conj := by
+  intro hχ_eq
+  exact hyp.not_isReal hχ hχ_eq.symm
+
+end Hypothesis
+
+end OddOrder.Peterfalvi.S07
+
+-- ===== OddOrder/BG/Ch4_FamilyOfMaximal/S16_MainResults/LocalTaxonomy.lean =====
+namespace OddOrder.BG.Ch4.S16
+
+open OddOrder.GroupTheory
+
+open OddOrder.Isaacs
+
+open OddOrder.BG.Ch3.S12
+
+open OddOrder.BG.Ch4.S14
+
+open OddOrder.BG.Ch4.S15
+
+open scoped Pointwise
+
+variable {G : Type*} [Group G]
+
+/-- **Support-set bridge (all types)**: Peterfalvi's `A_1(M) = M_s#` coincides with BG's
+`\widetilde M = M_σ#` (`sigmaSharp`) for a maximal subgroup of its classified type.  Immediate from
+`A_1(M) = M_s#`, `M_s = M_σ` (`mainSubgroup_eq_Msigma`, Peterfalvi (8.10)), and `M̃ = M_σ#`.
+Generalises the type-I/II support bridge to all five types; supplies the BG↔Pf support
+identification
+behind `BGTheoremECoverData`'s `thickenedA1`/covering fields (issue 8020). -/
+theorem A1_eq_sigmaSharp [Finite G]
+    (hG : OddOrder.BG.IsMinimalSimpleOdd G) {M : Subgroup G}
+    (hM : M ∈ maximalSubgroups G) {tau : PeterfalviType} (htau : HasPeterfalviType tau M) :
+    A1 M tau = sigmaSharp M := by
+  change sharpSubgroup (mainSubgroup M tau) = sharpSubgroup (OddOrder.BG.Ch3.S10.Msigma M)
+  rw [mainSubgroup_eq_Msigma hG hM htau]
+
+end OddOrder.BG.Ch4.S16
+
+-- ===== OddOrder/Peterfalvi/S16_NonExistenceG/TSideTypeP.lean =====
+namespace OddOrder.Peterfalvi.S16
+
+open OddOrder.GroupTheory
+
+open OddOrder.RepresentationTheory
+
+open OddOrder.Isaacs
+
+open scoped Pointwise
+
+open scoped BigOperators
+
+variable {G : Type*} [Group G]
+
+/-- **`(QV = T')` is normal in `↥T` with index `p`** (`T = T' ⋊ W₂`, `p = |W₂|`).  The
+`↥T`-side normal subgroup and the `[T:QV] = p` degree/orbit factor consumed by the `calT1` count,
+repackaged from `T_derived_index_eq_p` as a statement about `(derivedInG T).subgroupOf T`
+(the shape `card_image_induce_eq_div` needs: `H.index` for `H ◁ ↥T`). -/
+theorem T_derivedSubgroupOf_normal (hyp : Hypothesis (G := G)) :
+    ((derivedInG hyp.base.T).subgroupOf hyp.base.T).Normal := by
+  rw [show (derivedInG hyp.base.T).subgroupOf hyp.base.T = _root_.commutator ↥hyp.base.T by
+    rw [derivedInG, Subgroup.subgroupOf,
+      Subgroup.comap_map_eq_self_of_injective hyp.base.T.subtype_injective]]
+  infer_instance
+
+/-- **The T-side Dade support `A₁(T) = T_σ^#` is exactly `(T')^# = QV^#`** (issue 9072, step 3
+support identity).  For type-III `T`, the Peterfalvi "main subgroup" `T_s = T'` (`mainSubgroup .III
+=
+derivedInG`), and the support bridge `A1_eq_sigmaSharp`
+(Peterfalvi (8.10) + `mainSubgroup_eq_Msigma`,
+here `T' = M_σ(T)` for the type-`P₁` regime that type-III inhabits) gives
+`sigmaSharp T = A₁(T) = (T_s)^# = (T')^#`.  Concretely
+`sigmaSharp T = (derivedInG T : Set G) \ {1}`.
+
+This is the linchpin making the (14.9) coherence support facts derivable *without* any cross-lane
+type-`P` char structure: the induced members `Ind_{QV}^T θ` vanish off the normal `QV = T' =
+derivedInG T`, so their differences are automatically supported in `sigmaSharp T =
+(T')^#` — matching
+the Dade domain of `tSideDadeMap`.  (Coq `FTcore_eq_der1`: for `FTtype T > 2`, `T_s = T^{(1)}`; the
+member differences `nu_0 − zeta ∈ 'CF(T, QV^#) = 'CF(T, 'A1(T))`, PFsection14.v:785--790.) -/
+theorem T_typeIII_sigmaSharp_eq [Finite G] (hG : OddOrder.BG.IsMinimalSimpleOdd G)
+    (hyp : Hypothesis (G := G)) (hIII : OddOrder.GroupTheory.IsTypeIII hyp.base.T) :
+    OddOrder.BG.Ch4.S14.sigmaSharp hyp.base.T = (derivedInG hyp.base.T : Set G) \ {1} := by
+  have := hyp.base.finiteG
+  -- `A1 T .III = sigmaSharp T` (support bridge), and `A1 T .III = sharpSubgroup (derivedInG T)`
+  -- since `mainSubgroup .III = derivedInG`.
+  have hA1 : OddOrder.GroupTheory.A1 hyp.base.T OddOrder.GroupTheory.PeterfalviType.III
+      = OddOrder.BG.Ch4.S14.sigmaSharp hyp.base.T :=
+    OddOrder.BG.Ch4.S16.A1_eq_sigmaSharp hG hyp.base.T_maximal hIII
+  rw [← hA1]
+  rfl
+
+end OddOrder.Peterfalvi.S16
+
+-- ===== OddOrder/Peterfalvi/S16_NonExistenceG/TGapDelta.lean =====
+namespace OddOrder.Peterfalvi.S16
+
+open OddOrder.GroupTheory
+
+open OddOrder.RepresentationTheory
+
+variable {G : Type*} [Group G]
+
+open scoped Classical in
+/-- **Peterfalvi (5.9.a), specialised to the type-III T-side family.**
+The coherent extension of the degree-`p` family induced from `T'` commutes
+with complex conjugation.
+
+The substantive support input is derived rather than assumed: the family is
+contained in `inducedKernelFamily T' bot`, so every element of its integral
+span that vanishes at `1` is supported on `(T')# = A₁(T)`. -/
+theorem _root_.solution [Finite G]
+    (hyp : Hypothesis (G := G))
+    [Fintype G] [Fintype ↥hyp.base.T]
+    [Finite ↥((derivedInG hyp.base.T).subgroupOf hyp.base.T)]
+    [Invertible (Nat.card G : ℂ)]
+    [Invertible (Nat.card ↥hyp.base.T : ℂ)]
+    [Invertible
+      (Nat.card ↥((derivedInG hyp.base.T).subgroupOf hyp.base.T) : ℂ)]
+    (hG : OddOrder.BG.IsMinimalSimpleOdd G)
+    (hIII : OddOrder.GroupTheory.IsTypeIII hyp.base.T)
+    (𝒯 : Finset (IrreducibleCharacter
+      ((derivedInG hyp.base.T).subgroupOf hyp.base.T)))
+    (hne : ∀ θ ∈ 𝒯, θ ≠ trivialIrreducibleCharacter
+      ↥((derivedInG hyp.base.T).subgroupOf hyp.base.T))
+    (S : Set (ClassFunction ↥hyp.base.T ℂ))
+    (hS : S = ↑(𝒯.image (fun θ => ClassFunction.induce
+      ((derivedInG hyp.base.T).subgroupOf hyp.base.T) θ.toClassFunction)))
+    (hyp07 : OddOrder.Peterfalvi.S07.Hypothesis
+      (L := ↥hyp.base.T) (G := G) S
+      (OddOrder.Peterfalvi.S04.supportInSubgroup
+        (OddOrder.BG.Ch4.S14.sigmaSharp hyp.base.T) hyp.base.T))
+    (coh : OddOrder.Peterfalvi.S07.IsCoherent
+      (tSideDadeMap hyp hG) S
+      (OddOrder.Peterfalvi.S04.supportInSubgroup
+        (OddOrder.BG.Ch4.S14.sigmaSharp hyp.base.T) hyp.base.T))
+    (hirr : ∀ χ ∈ S, IsIrreducibleCharacter χ)
+    {ζ : ClassFunction ↥hyp.base.T ℂ} (hζ : ζ ∈ S) :
+    (coh.extension ζ).conj = coh.extension ζ.conj := by
+  have : Fintype ↥((derivedInG hyp.base.T).subgroupOf hyp.base.T) := Fintype.ofFinite _
+  let K := (derivedInG hyp.base.T).subgroupOf hyp.base.T
+  have : K.Normal := T_derivedSubgroupOf_normal hyp
+  have hSsub : S ⊆ OddOrder.Peterfalvi.S08.inducedKernelFamily K ⊥ := by
+    intro φ hφ
+    rw [hS, Finset.mem_coe, Finset.mem_image] at hφ
+    obtain ⟨θ, hθ, rfl⟩ := hφ
+    refine ⟨θ, hne θ hθ, ?_, rfl⟩
+    rw [Subgroup.bot_subgroupOf, Subgroup.coe_bot]
+    intro x hx
+    rw [Set.mem_singleton_iff] at hx
+    subst x
+    exact OddOrder.Peterfalvi.S03.one_mem_characterKernel _
+  have hAsharp : OddOrder.BG.Ch4.S14.sigmaSharp hyp.base.T =
+      (derivedInG hyp.base.T : Set G) \ {1} :=
+    T_typeIII_sigmaSharp_eq hG hyp hIII
+  have hKsupp : ∀ x : ↥hyp.base.T, x ∈ K → x ≠ 1 →
+      x ∈ OddOrder.Peterfalvi.S04.supportInSubgroup
+        (OddOrder.BG.Ch4.S14.sigmaSharp hyp.base.T) hyp.base.T := by
+    intro x hx hx1
+    exact (OddOrder.Peterfalvi.S09.Cert.mem_supportInSubgroup_sharp_subgroupOf_iff
+      (derivedInG hyp.base.T) hAsharp x).2 ⟨hx, hx1⟩
+  have hspan : ∀ φ ∈ OddOrder.Peterfalvi.S07.zSpan S, φ 1 = 0 →
+      φ.support ⊆ OddOrder.Peterfalvi.S04.supportInSubgroup
+        (OddOrder.BG.Ch4.S14.sigmaSharp hyp.base.T) hyp.base.T := by
+    intro φ hφ hφ1
+    exact OddOrder.Peterfalvi.S13.inducedKernelFamily_zSpan_support_of_apply_one_eq_zero
+      hKsupp (Submodule.span_mono hSsub hφ) hφ1
+  have hbridgeG : ∀ X : ClassFunction G ℂ,
+      X.conj = ClassFunction.mapRingEquiv Complex.conjAe.toRingEquiv X := fun X => by
+    ext g
+    rw [ClassFunction.conj_apply, ClassFunction.mapRingEquiv_apply]
+    rfl
+  have hbridgeT : ∀ X : ClassFunction ↥hyp.base.T ℂ,
+      X.conj = ClassFunction.mapRingEquiv Complex.conjAe.toRingEquiv X := fun X => by
+    ext t
+    rw [ClassFunction.conj_apply, ClassFunction.mapRingEquiv_apply]
+    rfl
+  rw [hbridgeG (coh.extension ζ), hbridgeT ζ]
+  exact coh.extension_mapRingEquiv_comm subset_rfl
+    (fun χ hχ => mem_irreducibleCharacters.mpr (hirr χ hχ)) hspan
+    Complex.conjAe.toRingEquiv
+    (fun χ hχ => by rw [← hbridgeT χ]; exact hyp07.conjugate_closed hχ)
+    (fun χ hχ => coh.extension_mem_ZIrr χ (Submodule.subset_span hχ)) hζ
+    ⟨ζ.conj, hyp07.conjugate_closed hζ, (hyp07.ne_conj hζ).symm⟩
+
+end OddOrder.Peterfalvi.S16

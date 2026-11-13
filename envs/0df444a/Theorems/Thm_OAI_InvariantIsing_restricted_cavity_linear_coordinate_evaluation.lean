@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_cavity_linear_coordinate_evaluation
 -- name    : OAI.InvariantIsing.restricted_cavity_linear_coordinate_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:33.697221+00:00
 -- url     : https://prove2.me/theorems/018b6221-01ac-4813-ac18-dcb4684113fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiAllocToAlloc_Subadditive_theorem_1
 -- name    : MultiAllocToAlloc.Subadditive.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T18:10:06.847901+00:00
 -- url     : https://prove2.me/theorems/f8205b62-201d-4662-8ffd-ab411c6f5bc6

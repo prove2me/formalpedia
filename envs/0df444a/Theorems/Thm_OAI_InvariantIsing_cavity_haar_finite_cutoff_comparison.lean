@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_haar_finite_cutoff_comparison
 -- name    : OAI.InvariantIsing.cavity_haar_finite_cutoff_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:34:14.803043+00:00
 -- url     : https://prove2.me/theorems/2c6b1bb2-800a-4db3-af51-25c5c2349b19

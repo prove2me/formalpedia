@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_maximal_badNormalizer_normalizer_eq_top
 -- name    : OddOrder.Isaacs.Ch07.maximal_badNormalizer_normalizer_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:54:07.74057+00:00
 -- url     : https://prove2.me/theorems/5150231c-e78b-4e23-a3f3-f4bfc516f4b9

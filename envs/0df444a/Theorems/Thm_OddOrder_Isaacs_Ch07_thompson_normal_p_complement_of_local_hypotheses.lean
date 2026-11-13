@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_thompson_normal_p_complement_of_local_hypotheses
 -- name    : OddOrder.Isaacs.Ch07.thompson_normal_p_complement_of_local_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:57:22.662303+00:00
 -- url     : https://prove2.me/theorems/44074c98-0344-4cdd-876d-364af9ee9258

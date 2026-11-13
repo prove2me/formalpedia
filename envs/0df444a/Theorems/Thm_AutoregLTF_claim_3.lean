@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AutoregLTF_claim_3
 -- name    : AutoregLTF.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:56:32.161343+00:00
 -- url     : https://prove2.me/theorems/7c211f0b-66c1-4252-893e-d3269e408736

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_southeast_witness
 -- name    : PlanarMetricElections.Peer.southeast_witness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:44.523857+00:00
 -- url     : https://prove2.me/theorems/b7d528b1-8e9b-4ba7-befc-4f585963b782

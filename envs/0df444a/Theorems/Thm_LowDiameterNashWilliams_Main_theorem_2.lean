@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowDiameterNashWilliams_Main_theorem_2
 -- name    : LowDiameterNashWilliams.Main.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:07:49.552641+00:00
 -- url     : https://prove2.me/theorems/9e3a7a6d-133d-462c-8547-2cee869dd5da

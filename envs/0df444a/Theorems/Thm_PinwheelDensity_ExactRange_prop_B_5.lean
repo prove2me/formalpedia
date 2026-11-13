@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PinwheelDensity_ExactRange_prop_B_5
 -- name    : PinwheelDensity.ExactRange.prop_B_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:37:06.407777+00:00
 -- url     : https://prove2.me/theorems/1d087ccf-030c-4e2f-b56d-3d5d75ee42f4

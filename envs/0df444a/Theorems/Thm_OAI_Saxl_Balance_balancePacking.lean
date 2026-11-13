@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_Balance_balancePacking
 -- name    : OAI.Saxl.Balance.balancePacking
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:15:07.680055+00:00
 -- url     : https://prove2.me/theorems/27a215ac-f8ba-4622-8ddb-c257bf050d44

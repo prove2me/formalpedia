@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorRestrictedContact_entropy_limit
 -- name    : OAI.InvariantIsing.spinPriorRestrictedContact_entropy_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:22.814861+00:00
 -- url     : https://prove2.me/theorems/4100293d-22df-46af-a08c-f2f959c31e65

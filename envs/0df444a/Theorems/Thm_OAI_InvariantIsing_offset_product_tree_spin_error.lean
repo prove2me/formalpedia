@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_offset_product_tree_spin_error
 -- name    : OAI.InvariantIsing.offset_product_tree_spin_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:05.482084+00:00
 -- url     : https://prove2.me/theorems/c57c36be-953b-4c93-8bf7-0be9fe76073e

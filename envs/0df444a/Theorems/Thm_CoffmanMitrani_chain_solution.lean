@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_chain_solution
 -- name    : CoffmanMitrani.chain_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:29:43.839581+00:00
 -- url     : https://prove2.me/theorems/608dae3b-5556-447c-80b1-dc69ed1dae36

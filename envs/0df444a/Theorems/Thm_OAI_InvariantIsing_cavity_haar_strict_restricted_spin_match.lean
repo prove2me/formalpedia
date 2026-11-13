@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_haar_strict_restricted_spin_match
 -- name    : OAI.InvariantIsing.cavity_haar_strict_restricted_spin_match
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:35:25.536114+00:00
 -- url     : https://prove2.me/theorems/6c44fb96-34f3-4a7d-b3f4-efa050a895c5

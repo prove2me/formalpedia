@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Atomic_hvz
 -- name    : TeschlQM.Atomic.hvz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T09:15:54.700828+00:00
 -- url     : https://prove2.me/theorems/7ab9d8bf-f270-4eae-af12-6e05f7e5fc49

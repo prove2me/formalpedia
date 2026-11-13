@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja30_original_negative_borel_partition_count_moments
 -- name    : AvramDividend.Classical.avram_ja30_original_negative_borel_partition_count_moments
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T22:04:53.420863+00:00
 -- url     : https://prove2.me/theorems/f0a48623-eb35-4027-b1d6-e062d002e8d4

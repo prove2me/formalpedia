@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_constrainedFieldValue_magneticBias
 -- name    : OAI.InvariantIsing.constrainedFieldValue_magneticBias
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:36:55.725209+00:00
 -- url     : https://prove2.me/theorems/38caae70-5dd3-40e1-9dda-22c023788ce1

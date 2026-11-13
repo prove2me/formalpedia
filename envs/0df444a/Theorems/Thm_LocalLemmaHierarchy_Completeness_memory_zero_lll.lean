@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalLemmaHierarchy_Completeness_memory_zero_lll
 -- name    : LocalLemmaHierarchy.Completeness.memory_zero_lll
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:20:50.345727+00:00
 -- url     : https://prove2.me/theorems/2adede72-010f-4ad8-88c8-e1c737dda2f3

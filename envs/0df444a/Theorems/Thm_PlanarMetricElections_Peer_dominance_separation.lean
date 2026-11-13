@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_dominance_separation
 -- name    : PlanarMetricElections.Peer.dominance_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:51:06.205042+00:00
 -- url     : https://prove2.me/theorems/1b1e86d7-3a53-438d-b33a-78f995e37fcf

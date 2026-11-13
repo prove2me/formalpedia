@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB67_original_finitecap_two_mesh_linear_grid_L2_cross_covariance
 -- name    : AvramDividend.Classical.avram_gbB67_original_finitecap_two_mesh_linear_grid_L2_cross_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:44:05.007589+00:00
 -- url     : https://prove2.me/theorems/bb8f3a99-a7dc-4fa1-9f9f-0358470f6949

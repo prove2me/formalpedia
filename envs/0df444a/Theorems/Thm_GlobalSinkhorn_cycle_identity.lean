@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalSinkhorn_cycle_identity
 -- name    : GlobalSinkhorn.cycle_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T04:23:08.233547+00:00
 -- url     : https://prove2.me/theorems/bc7c2068-e01d-4408-873e-8f802f110776

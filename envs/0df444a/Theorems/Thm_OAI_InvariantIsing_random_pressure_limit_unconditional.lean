@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_random_pressure_limit_unconditional
 -- name    : OAI.InvariantIsing.random_pressure_limit_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:48.391373+00:00
 -- url     : https://prove2.me/theorems/db13bb1c-2201-4207-b0ed-b33117ebd7ee

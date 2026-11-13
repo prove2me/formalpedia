@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kSpace_product
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kSpace_product
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:27:06.553196+00:00
 -- url     : https://prove2.me/theorems/2622a5cf-6e64-4451-863c-d1ef0b2fe9e7

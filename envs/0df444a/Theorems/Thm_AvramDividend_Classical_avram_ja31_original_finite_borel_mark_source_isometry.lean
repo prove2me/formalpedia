@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja31_original_finite_borel_mark_source_isometry
 -- name    : AvramDividend.Classical.avram_ja31_original_finite_borel_mark_source_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T22:06:15.892131+00:00
 -- url     : https://prove2.me/theorems/b7fdb101-46d3-4e38-a90e-b48c77cc9999

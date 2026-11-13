@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultipleUnicast_Counterexample_multiple_unicast_coding_advantage
 -- name    : MultipleUnicast.Counterexample.multiple_unicast_coding_advantage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:22:29.559215+00:00
 -- url     : https://prove2.me/theorems/dee16fbc-f2db-43de-854d-4dbba503a80d

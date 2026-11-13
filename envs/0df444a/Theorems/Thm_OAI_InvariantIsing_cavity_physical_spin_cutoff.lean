@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_physical_spin_cutoff
 -- name    : OAI.InvariantIsing.cavity_physical_spin_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:36:25.965781+00:00
 -- url     : https://prove2.me/theorems/9e08a1e0-434d-41e9-bd99-a6ba96059a15

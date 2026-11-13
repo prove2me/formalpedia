@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorFlat_leafPrefix_mean
 -- name    : OAI.InvariantIsing.tensorFlat_leafPrefix_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:32:21.956426+00:00
 -- url     : https://prove2.me/theorems/0a0ac044-b144-4d3a-ad85-3d8c6ac853fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja32_original_negative_borel_cell_exact_variance_20261111
 -- name    : AvramDividend.Classical.avram_ja32_original_negative_borel_cell_exact_variance_20261111
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T22:11:39.117997+00:00
 -- url     : https://prove2.me/theorems/6f4dddb6-8717-4eeb-beae-f536fefb0b0d

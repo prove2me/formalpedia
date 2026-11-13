@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_priorNamespacedArrayLaw_diagonalWard_bound
 -- name    : OAI.InvariantIsing.priorNamespacedArrayLaw_diagonalWard_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:37.330226+00:00
 -- url     : https://prove2.me/theorems/1993ee46-efcb-45a9-b2fe-1882fdd15abd

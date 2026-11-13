@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_finiteSpectrum_meanPressure_variational_upper
 -- name    : OAI.InvariantIsing.finiteSpectrum_meanPressure_variational_upper
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:26:05.741398+00:00
 -- url     : https://prove2.me/theorems/2226985c-e97f-4435-9ed2-e9e1c43f25c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_phys85_original_zero_marks_jump_compensator_uniform_quadrature
 -- name    : AvramDividend.Classical.avram_bvb_phys85_original_zero_marks_jump_compensator_uniform_quadrature
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T07:50:00.312078+00:00
 -- url     : https://prove2.me/theorems/3ca4a924-b751-49a3-9c60-4b2274146dda

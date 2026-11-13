@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_LQ_theorem_2_6_3
 -- name    : BauerleRiederMDP.LQ.theorem_2_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:25:09.149997+00:00
 -- url     : https://prove2.me/theorems/52e31deb-d734-4044-82e6-0220a312df5f

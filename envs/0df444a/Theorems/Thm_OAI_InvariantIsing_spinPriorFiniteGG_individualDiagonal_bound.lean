@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorFiniteGG_individualDiagonal_bound
 -- name    : OAI.InvariantIsing.spinPriorFiniteGG_individualDiagonal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:55.546801+00:00
 -- url     : https://prove2.me/theorems/79babcf8-8ca3-4846-891a-2366f09d9a92

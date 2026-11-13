@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_finiteMagneticFunctional_ne_top_bot
 -- name    : OAI.InvariantIsing.finiteMagneticFunctional_ne_top_bot
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:10:19.190507+00:00
 -- url     : https://prove2.me/theorems/8b1fc3f9-af96-4dd3-b806-484fa6ccfa08

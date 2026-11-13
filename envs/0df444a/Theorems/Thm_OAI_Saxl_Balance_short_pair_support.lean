@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_Balance_short_pair_support
 -- name    : OAI.Saxl.Balance.short_pair_support
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:16:22.052687+00:00
 -- url     : https://prove2.me/theorems/bb10cc7c-d1f1-45f4-8a10-18ceba563ec0

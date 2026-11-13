@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_lemma_5_intersecting_shortest_paths
 -- name    : RepellingPairs.lemma_5_intersecting_shortest_paths
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:01:53.05862+00:00
 -- url     : https://prove2.me/theorems/d28dac19-5dc9-4028-842d-f23f8036f06e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_projector_coefficient_error
 -- name    : OAI.InvariantIsing.restricted_projector_coefficient_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:20.741886+00:00
 -- url     : https://prove2.me/theorems/cc526248-bad1-497e-829b-09444756556b

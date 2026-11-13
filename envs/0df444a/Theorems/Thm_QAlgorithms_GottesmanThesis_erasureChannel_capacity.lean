@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanThesis_erasureChannel_capacity
 -- name    : QAlgorithms.GottesmanThesis.erasureChannel_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T18:04:01.753915+00:00
 -- url     : https://prove2.me/theorems/74504552-2901-4b63-ac2b-ccfd8c45933f

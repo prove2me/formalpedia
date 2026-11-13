@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ElimAgree_lemma_3_5
 -- name    : ElimAgree.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:15:48.288265+00:00
 -- url     : https://prove2.me/theorems/40bc85d4-0f3b-41bb-9fd7-72cc554f367c

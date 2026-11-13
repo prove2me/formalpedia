@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorPerturbedArrayLaw_ward_limits
 -- name    : OAI.InvariantIsing.spinPriorPerturbedArrayLaw_ward_limits
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:23.768959+00:00
 -- url     : https://prove2.me/theorems/6ebc824b-fc7f-4afa-919e-47a44a803516

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrouwerLaplacian_lemma_5_3
 -- name    : BrouwerLaplacian.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:00:20.513323+00:00
 -- url     : https://prove2.me/theorems/acb5c935-4f65-4951-a1fe-81b502cf7951

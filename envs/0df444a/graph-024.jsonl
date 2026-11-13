@@ -15956,14 +15956,14 @@
 {"parent": "OAI.SecondPassArithmetic.firstCoreInputRow_finite_second_transfer", "child": "OAI_NumberTheory_DirichletL_CubicSieve_FirstCoreCutoff", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_top9_source_topcap_compact_generator_physical_fibre_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_top9_source_topcap_compact_generator_physical_fibre_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_IntegralFlow", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_IsMetric", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_IsKalmanson", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_Config", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_TerminalPath", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_PathStructure", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_OSInstance", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_IntegralFlow", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_IsMetric", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_IsKalmanson", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_TerminalPath", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_PathStructure", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_OSInstance", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_9_flow_dominance", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
 {"parent": "AsymSpecConn.corollary_2_11", "child": "AsymSpecConn_interp", "via": ["statement"]}
 {"parent": "AsymSpecConn.corollary_2_11", "child": "AsymSpecConn_HasACoverProperty", "via": ["statement"]}
 {"parent": "AsymSpecConn.corollary_2_11", "child": "AsymSpecConn_IsADecomposable", "via": ["statement"]}
@@ -17718,18 +17718,18 @@
 {"parent": "OAI.SharpPlanar.Bernstein0.N1_right.t17_contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G226", "child": "OAIQ098G225", "via": ["statement"]}
 {"parent": "OAIQ098G226", "child": "OAIQ098G223", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_IntegralFlow", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_PathLength", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_IsMetric", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_IsKalmanson", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_Repel", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_Config", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_RealFlow", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_TerminalPath", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_CyclicallyOrdered", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_PathStructure", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_OSInstance", "via": ["statement"]}
-{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_IntegralFlow", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_PathLength", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_IsMetric", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_IsKalmanson", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_Repel", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_RealFlow", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_TerminalPath", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_CyclicallyOrdered", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_PathStructure", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_OSInstance", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.flow_normalization", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_88_1.KContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_88_1.KContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm0_88_1.KContains_g", "child": "OAIQ098G1533", "via": ["solution", "statement"]}
@@ -18035,9 +18035,9 @@
 {"parent": "TightClock.single_step_reduction", "child": "TightClock_clockWelfare", "via": ["statement"]}
 {"parent": "TightClock.single_step_reduction", "child": "TightClock_hardPrior", "via": ["statement"]}
 {"parent": "TightClock.single_step_reduction", "child": "TightClock_IsValidSingleStep", "via": ["statement"]}
-{"parent": "RepellingPairs.lemma_11_uncrossing_step", "child": "RepellingPairs_PerfectMatching", "via": ["statement"]}
-{"parent": "RepellingPairs.lemma_11_uncrossing_step", "child": "RepellingPairs_IsGoodPair", "via": ["statement"]}
-{"parent": "RepellingPairs.lemma_11_uncrossing_step", "child": "RepellingPairs_Config", "via": ["statement"]}
+{"parent": "RepellingPairs.lemma_11_uncrossing_step", "child": "RepellingPairs_PerfectMatching", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.lemma_11_uncrossing_step", "child": "RepellingPairs_IsGoodPair", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.lemma_11_uncrossing_step", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G776", "child": "OAIQ098G410", "via": ["statement"]}
 {"parent": "OAIQ098G776", "child": "OAIQ098G018", "via": ["statement"]}
 {"parent": "OAIQ098G776", "child": "OAIQ098G426", "via": ["statement"]}
@@ -19921,9 +19921,9 @@
 {"parent": "QEC_Coding_ExpanderCodes_TannerLiftedProduct", "child": "QEC.Coding.LiftedProduct.secondRestriction_secondZeroExtension", "via": ["statement"]}
 {"parent": "OAIQ098G350", "child": "OAIQ098G349", "via": ["statement"]}
 {"parent": "OAIQ098G350", "child": "OAIQ098G347", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_13_minimal_good_pair", "child": "RepellingPairs_PerfectMatching", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_13_minimal_good_pair", "child": "RepellingPairs_IsGoodPair", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_13_minimal_good_pair", "child": "RepellingPairs_Config", "via": ["statement"]}
+{"parent": "RepellingPairs.claim_13_minimal_good_pair", "child": "RepellingPairs_PerfectMatching", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_13_minimal_good_pair", "child": "RepellingPairs_IsGoodPair", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_13_minimal_good_pair", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm9_1_1_11.realContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm9_1_1_11.realContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm9_1_1_11.realContains_g", "child": "OAIQ098G1392", "via": ["solution", "statement"]}
@@ -23074,18 +23074,18 @@
 {"parent": "OAI.CanonicalQuadraticSieve.originalMiddleWindowAt_eq_finset", "child": "OAI_NumberTheory_DirichletL_CubicSieve_SupportNorms", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.coarseRectangleExponent_polynomial_lt_rank", "child": "QEC_Coding_ExpanderCodes_TannerSemanticDistance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.coarseRectangleExponent_polynomial_lt_rank", "child": "QEC_Coding_ExpanderCodes_TannerScheduleBounds", "via": ["solution", "statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_IntegralFlow", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_PathLength", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_IsMetric", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_IsKalmanson", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_Repel", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_Config", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_RealFlow", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_TerminalPath", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_CyclicallyOrdered", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_PathStructure", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_OSInstance", "via": ["statement"]}
-{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_IntegralFlow", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_PathLength", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_IsMetric", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_IsKalmanson", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_Repel", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_RealFlow", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_TerminalPath", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_CyclicallyOrdered", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_PathStructure", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_OSInstance", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.step_1_maximal_switching", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
 {"parent": "MaxCompForest_encWords", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.mem_carrier_iff_lpsEncodedOutput", "child": "QEC_Coding_ExpanderCodes_LPSEncodedChecks", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.mem_carrier_iff_lpsEncodedOutput", "child": "QEC_Coding_ExpanderCodes_LPSSparseCSS", "via": ["solution", "statement"]}
@@ -23423,10 +23423,10 @@
 {"parent": "OAI.SecondPassArithmetic.normalizedColumn_subset_norm_bound", "child": "OAI_NumberTheory_DirichletL_Fourier_LogDensity", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.normalizedColumn_subset_norm_bound", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_PrincipalDifference", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.normalizedColumn_subset_norm_bound", "child": "OAI_NumberTheory_DirichletL_CubicSieve_TwistedProfiles", "via": ["solution", "statement"]}
-{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_PathStructure", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_OSInstance", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_CyclicallyOrdered", "via": ["statement"]}
+{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_PathStructure", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_OSInstance", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_8_path_switching", "child": "RepellingPairs_CyclicallyOrdered", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.exists_levyJumpProcess", "child": "LeanLevy_Levy_CharacteristicExponent", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.exists_levyJumpProcess", "child": "LeanLevy_Levy_LevyKhintchineUniqueness", "via": ["statement"]}
 {"parent": "ProbabilityTheory.exists_levyJumpProcess", "child": "LeanLevy_RandomMeasure_LevyJumpLaw", "via": ["statement"]}
@@ -24237,15 +24237,15 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSOriginalGeneratorIndexMachine.Voltage.input_injective", "child": "QEC_Coding_ExpanderCodes_LPSOriginalGeneratorVoltageMachine", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSOriginalGeneratorIndexMachine.Voltage.input_injective", "child": "QEC.Coding.TannerLiftedProduct.LPSOriginalPSLListMachine.input_injective", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSOriginalGeneratorIndexMachine.Voltage.input_injective", "child": "QEC.Coding.BitTuring.UnaryArithmetic.PrefixProjection.input_injective", "via": ["solution", "statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_PathLength", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_IsMetric", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_IsKalmanson", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_Repel", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_RealFlow", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_TerminalPath", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_PathStructure", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_OSInstance", "via": ["statement"]}
-{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_PathLength", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_IsMetric", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_IsKalmanson", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_Repel", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_RealFlow", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_TerminalPath", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_PathStructure", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_OSInstance", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.farkas_alternative", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_ExpanderCodes_LPSPeterssonDomainTransfer", "child": "QEC_Coding_ExpanderCodes_LPSModularFundamentalDomain", "via": ["statement"]}
 {"parent": "QEC_Coding_ExpanderCodes_LPSPeterssonDomainTransfer", "child": "QEC_Coding_ExpanderCodes_LPSCuspPeterssonTrace", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_a19_origin_postright_surplus", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -25040,13 +25040,13 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsSparseQubitEquiv_apply", "child": "QEC_Coding_ExpanderCodes_LPSSparseCSS", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsSparseQubitEquiv_apply", "child": "QEC_Coding_ExpanderCodes_TannerLiftedProduct", "via": ["solution", "statement"]}
 {"parent": "NNPartTree.lemma_5_3", "child": "NNPartTree_Moments", "via": ["statement"]}
-{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_PathLength", "via": ["statement"]}
-{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_IsMetric", "via": ["statement"]}
-{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_IsKalmanson", "via": ["statement"]}
-{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_Repel", "via": ["statement"]}
-{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_PathStructure", "via": ["statement"]}
-{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_OSInstance", "via": ["statement"]}
-{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
+{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_PathLength", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_IsMetric", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_IsKalmanson", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_Repel", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_PathStructure", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_OSInstance", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.theorem_1_realizable_iff_repelling_disjoint", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound497_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound497_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound497_e", "child": "MUBSix", "via": ["solution", "statement"]}
@@ -25108,14 +25108,14 @@
 {"parent": "QEC.Coding.why24QuditPlusState_norm", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Gate_ReversePhase", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.why24QuditPlusState_norm", "child": "QEC_Semantics_Entropy_Purification", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.why24QuditPlusState_norm", "child": "QEC_Coding_QuditQubitConversion_ResourceCircuit", "via": ["solution", "statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_IntegralFlow", "via": ["statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_IsMetric", "via": ["statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_IsKalmanson", "via": ["statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_Config", "via": ["statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_TerminalPath", "via": ["statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_PathStructure", "via": ["statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_OSInstance", "via": ["statement"]}
-{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_IntegralFlow", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_IsMetric", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_IsKalmanson", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_TerminalPath", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_PathStructure", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_OSInstance", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.cost_inequality", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound453_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound453_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound453_e", "child": "MUBSix", "via": ["solution", "statement"]}
@@ -30021,8 +30021,8 @@
 {"parent": "OAIQ098G843", "child": "OAIQ098G395", "via": ["statement"]}
 {"parent": "OAIQ098G843", "child": "OAIQ098G507", "via": ["statement"]}
 {"parent": "GenCountSampleLLL.lemma_6_4", "child": "GenCountSampleLLL_Inst", "via": ["statement"]}
-{"parent": "GenCountSampleLLL.lemma_6_4", "child": "mm_basic", "via": ["statement"]}
-{"parent": "GenCountSampleLLL.lemma_6_4", "child": "GenCountSampleLLL_insertionChain", "via": ["statement"]}
+{"parent": "GenCountSampleLLL.lemma_6_4", "child": "mm_basic", "via": ["solution", "statement"]}
+{"parent": "GenCountSampleLLL.lemma_6_4", "child": "GenCountSampleLLL_insertionChain", "via": ["solution", "statement"]}
 {"parent": "GenCountSampleLLL.lemma_6_4", "child": "GenCountSampleLLL_twoTrees", "via": ["statement"]}
 {"parent": "FRouting.eq_4", "child": "WildeQIT_fidelity", "via": ["statement"]}
 {"parent": "FRouting.eq_4", "child": "WildeQIT_partialTrace", "via": ["statement"]}
@@ -33383,9 +33383,9 @@
 {"parent": "WICanon_WCScheme", "child": "QiOPoQ_pair", "via": ["statement"]}
 {"parent": "WICanon_WCScheme", "child": "QAlgorithms_ClassicalStringComputability", "via": ["statement"]}
 {"parent": "WICanon_WCScheme", "child": "QiOPoQ_NUPPT", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_12_good_pair_exists", "child": "RepellingPairs_PerfectMatching", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_12_good_pair_exists", "child": "RepellingPairs_IsGoodPair", "via": ["statement"]}
-{"parent": "RepellingPairs.claim_12_good_pair_exists", "child": "RepellingPairs_Config", "via": ["statement"]}
+{"parent": "RepellingPairs.claim_12_good_pair_exists", "child": "RepellingPairs_PerfectMatching", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_12_good_pair_exists", "child": "RepellingPairs_IsGoodPair", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.claim_12_good_pair_exists", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BitTuring.UnaryArithmetic.FourFieldRowsFilter.flag3", "child": "QEC_Coding_BitTuring_FixedLiteral", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BitTuring.UnaryArithmetic.FourFieldRowsFilter.flag3", "child": "QEC_Coding_BitTuring_UnaryFieldProjection", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BitTuring.UnaryArithmetic.FourFieldRowsFilter.flag3", "child": "QEC_Coding_BitTuring_UnaryPrefixProjection", "via": ["solution", "statement"]}
@@ -35359,7 +35359,7 @@
 {"parent": "OAI.SecondPassArithmetic.b0_square_dvd_cube_product", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SmoothCuspCutoffs", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.b0_square_dvd_cube_product", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_DualMiddleExpansion", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.b0_square_dvd_cube_product", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SeedDefects", "via": ["solution", "statement"]}
-{"parent": "RepellingPairs.config_eq_of_dist_eq", "child": "RepellingPairs_Config", "via": ["statement"]}
+{"parent": "RepellingPairs.config_eq_of_dist_eq", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZMap1CoordinateBridge.rzMap1Connector_eq_outerSide", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCoordinateBridge", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZMap1CoordinateBridge.rzMap1Connector_eq_outerSide", "child": "QEC_Coding_FourDimensionalToricCode_Decoder_Multiscale", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RZMap1CoordinateBridge.rzMap1Connector_eq_outerSide", "child": "QEC_Coding_CodeReduction_Classical_Core", "via": ["solution", "statement"]}
@@ -36992,8 +36992,8 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm24_1_0_5.realContains_g", "child": "OAIQ098G1049", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G587", "child": "OAIQ098G467", "via": ["statement"]}
 {"parent": "OAIQ098G587", "child": "OAIQ098G567", "via": ["statement"]}
-{"parent": "RepellingPairs.lemma_5_intersecting_shortest_paths", "child": "RepellingPairs_Multigraph", "via": ["statement"]}
-{"parent": "RepellingPairs.lemma_5_intersecting_shortest_paths", "child": "RepellingPairs_PathLength", "via": ["statement"]}
+{"parent": "RepellingPairs.lemma_5_intersecting_shortest_paths", "child": "RepellingPairs_Multigraph", "via": ["solution", "statement"]}
+{"parent": "RepellingPairs.lemma_5_intersecting_shortest_paths", "child": "RepellingPairs_PathLength", "via": ["solution", "statement"]}
 {"parent": "OAI.JointLogSeparation.logPhase_iteratedDeriv", "child": "OAI_NumberTheory_DirichletL_Poisson_PrincipalTruncation", "via": ["solution", "statement"]}
 {"parent": "OAI.JointLogSeparation.logPhase_iteratedDeriv", "child": "OAI_NumberTheory_DirichletL_CubicSieve_SecondPoisson", "via": ["solution", "statement"]}
 {"parent": "OAI.JointLogSeparation.logPhase_iteratedDeriv", "child": "OAI_NumberTheory_DirichletL_Fourier_FrequencyTwists", "via": ["solution", "statement"]}
@@ -42242,7 +42242,7 @@
 {"parent": "OAIQ098G992", "child": "OAIQ098G410", "via": ["statement"]}
 {"parent": "OAIQ098G992", "child": "OAIQ098G018", "via": ["statement"]}
 {"parent": "OAIQ098G992", "child": "OAIQ098G558", "via": ["statement"]}
-{"parent": "RepellingPairs.lemma_10_dominance_implies_uncrossing", "child": "RepellingPairs_Config", "via": ["statement"]}
+{"parent": "RepellingPairs.lemma_10_dominance_implies_uncrossing", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
 {"parent": "GaussianSweep.lemma_7_9", "child": "GaussianSweep_ball", "via": ["statement"]}
 {"parent": "GaussianSweep.lemma_7_9", "child": "GaussianSweep_gaussLabel", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite9_original_time_truncation_eventually_exact_closed_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

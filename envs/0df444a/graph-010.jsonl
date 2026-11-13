@@ -43606,7 +43606,7 @@
 {"parent": "BookProof.NavierStokesFlow.SignFlip.saffH_conj_flip_inc", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
 {"parent": "HardyCapsetEvaluationData017rows00V420261021", "child": "HardyCapsetBooleanVerifier20261020", "via": ["statement"]}
 {"parent": "CrossedProductGroups.Classification.corollary_2_3", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["statement"]}
-{"parent": "CrossedProductGroups.Classification.corollary_2_3", "child": "CrossedProductGroups_Classification_E2", "via": ["statement"]}
+{"parent": "CrossedProductGroups.Classification.corollary_2_3", "child": "CrossedProductGroups_Classification_E2", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P24.embedding_bures", "child": "QAlgorithms_Papers_Independent_Gap48_P24", "via": ["statement"]}
 {"parent": "PTCommutant.OperatorBasis.eq_86_E", "child": "PTCommutant_OperatorBasis_Model", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_132", "child": "HardyCapsetCertificate02820261021", "via": ["solution", "statement"]}
@@ -44354,7 +44354,7 @@
 {"parent": "HardyCapsetCertificate21320261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate22920261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
 {"parent": "CrossedProductGroups.Classification.corollary_3_5", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["statement"]}
-{"parent": "CrossedProductGroups.Classification.corollary_3_5", "child": "CrossedProductGroups_Classification_E2", "via": ["statement"]}
+{"parent": "CrossedProductGroups.Classification.corollary_3_5", "child": "CrossedProductGroups_Classification_E2", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case095_blockers1", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case095_blockers1", "child": "HardyCapsetCertificate09520261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapsetCertificate23020261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
@@ -49212,7 +49212,7 @@
 {"parent": "AvramDividend.Classical.chat03_actual_ceiling_capped_grid_scale_tendsto", "child": "AvramDividend.Classical.chat03_actual_bounded_grid_scale_tendsto_at_terminal_horizon", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P10.count_bounds_and_residue_offsets", "child": "QAlgorithms_Papers_Independent_Gap48_P10", "via": ["solution", "statement"]}
 {"parent": "Hatcher.Singular.mayerVietoris", "child": "Hatcher_SingularHomology", "via": ["solution", "statement"]}
-{"parent": "CrossedProductGroups.Classification.theorem_2_1", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["statement"]}
+{"parent": "CrossedProductGroups.Classification.theorem_2_1", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_8", "child": "HardyCapsetCertificate02820261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_8", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "LPCA_Solutions_LPCA_LocalizedDegreeSeparation_Defs", "child": "LPCA_Solutions_LPCA_LaurentFaceEvaluation_Defs", "via": ["statement"]}
@@ -52165,7 +52165,7 @@
 {"parent": "RobustOpt2009.ScalarChance.proposition_2_4_1", "child": "RobustOpt2009_ScalarChance_Setting", "via": ["solution", "statement"]}
 {"parent": "CliffordTApprox.Ancilla.rounding_error", "child": "CliffordTApprox_Ancilla_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P40.binaryProfileExpansion", "child": "QAlgorithms_Papers_Independent_Gap48_P40", "via": ["solution", "statement"]}
-{"parent": "CrossedProductGroups.Classification.corollary_2_2", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["statement"]}
+{"parent": "CrossedProductGroups.Classification.corollary_2_2", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["solution", "statement"]}
 {"parent": "CoherenceTracking.Dephasing.field_strength", "child": "CoherenceTracking_Dephasing_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat07_bv_c2_generator_harmonic_of_full_laplace_family", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat07_bv_c2_generator_harmonic_of_full_laplace_family", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -54727,7 +54727,7 @@
 {"parent": "HardyCapset20261020.Cert.case022_finite32_3", "child": "HardyCapsetCertificate02220261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case010_blockers0", "child": "HardyCapsetCertificate01020261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case010_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
-{"parent": "CrossedProductGroups.Classification.theorem_1_3", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["statement"]}
+{"parent": "CrossedProductGroups.Classification.theorem_1_3", "child": "CrossedProductGroups_Classification_CrossedSystem", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer_OriginalActualIntegralCharacterQuotientsData20261020", "child": "MazurTransfer_OriginalIntegralHopfArithmeticKernelLabelsData20261020", "via": ["statement"]}
 {"parent": "MazurTransfer_OriginalActualIntegralCharacterQuotientsData20261020", "child": "MazurTransfer_OriginalExceptionalNineteenNormModelData20261020", "via": ["statement"]}
 {"parent": "MazurTransfer_OriginalActualIntegralCharacterQuotientsData20261020", "child": "MazurTransfer_OriginalIntegralRepresentationQuotientData20261020", "via": ["statement"]}

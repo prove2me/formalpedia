@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_cavity_linear_rooted_depth_evaluation
 -- name    : OAI.InvariantIsing.restricted_cavity_linear_rooted_depth_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:31:55.390337+00:00
 -- url     : https://prove2.me/theorems/3faa2bd9-0904-43aa-ac93-70a98dbe0eb1

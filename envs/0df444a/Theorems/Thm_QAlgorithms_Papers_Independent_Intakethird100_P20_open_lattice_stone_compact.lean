@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_open_lattice_stone_compact
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.open_lattice_stone_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:44:33.798582+00:00
 -- url     : https://prove2.me/theorems/53ab4b01-76ae-4af2-8fdd-7fb078b08eee

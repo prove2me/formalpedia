@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_haar_tensorEnrichedPressure_variance
 -- name    : OAI.InvariantIsing.haar_tensorEnrichedPressure_variance
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:11.029839+00:00
 -- url     : https://prove2.me/theorems/7bb5d94b-2a95-4600-bbee-e96810735481

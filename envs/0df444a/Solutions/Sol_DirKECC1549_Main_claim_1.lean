@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DirKECC1549.Main.claim_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @parclytaxel
 -- created : 2026-11-12T05:11:23.383771+00:00
 -- url     : https://prove2.me/submissions/736431aa-6ca2-40c9-a6ef-bfb57849786c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DirKECC1549_Main_scc_disjoint_paths
 set_option autoImplicit false

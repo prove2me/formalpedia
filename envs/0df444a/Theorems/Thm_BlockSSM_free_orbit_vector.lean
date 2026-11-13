@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockSSM_free_orbit_vector
 -- name    : BlockSSM.free_orbit_vector
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:21:01.810796+00:00
 -- url     : https://prove2.me/theorems/1a1909b4-36c9-425c-94bb-867ee81855a7

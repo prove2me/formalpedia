@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorDisorderPressure_conditional_mean
 -- name    : OAI.InvariantIsing.tensorDisorderPressure_conditional_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:57:58.372057+00:00
 -- url     : https://prove2.me/theorems/4d09ae6a-b2c4-4d69-b1ef-833bc71ea22d

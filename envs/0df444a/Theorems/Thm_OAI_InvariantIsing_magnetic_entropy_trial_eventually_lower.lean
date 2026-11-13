@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magnetic_entropy_trial_eventually_lower
 -- name    : OAI.InvariantIsing.magnetic_entropy_trial_eventually_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:58.759207+00:00
 -- url     : https://prove2.me/theorems/003571de-3166-4a6f-bb53-c98e7743401a

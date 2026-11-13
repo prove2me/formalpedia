@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_good_vertex
 -- name    : HDXHitting.good_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:59:03.679486+00:00
 -- url     : https://prove2.me/theorems/4f207efc-12cc-43ec-8fe1-c340250d66e9

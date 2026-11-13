@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetDefinedGraphs_theorem_1_2
 -- name    : SetDefinedGraphs.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T22:27:46.671019+00:00
 -- url     : https://prove2.me/theorems/7611f6ae-2d88-4b1c-ad99-8dfbb2c487a6

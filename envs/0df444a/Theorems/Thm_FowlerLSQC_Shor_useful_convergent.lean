@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FowlerLSQC_Shor_useful_convergent
 -- name    : FowlerLSQC.Shor.useful_convergent
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:36:08.386882+00:00
 -- url     : https://prove2.me/theorems/5446f558-469f-4b9a-88fc-e4b919a0e932

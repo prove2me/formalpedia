@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kSpace_inclusion_preservesColimits
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kSpace_inclusion_preservesColimits
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:26:04.363735+00:00
 -- url     : https://prove2.me/theorems/9e77250e-72cc-4742-8ba1-248bc4e539b4

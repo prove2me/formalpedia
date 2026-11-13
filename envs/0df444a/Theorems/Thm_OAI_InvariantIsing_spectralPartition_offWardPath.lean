@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spectralPartition_offWardPath
 -- name    : OAI.InvariantIsing.spectralPartition_offWardPath
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:27.044216+00:00
 -- url     : https://prove2.me/theorems/82385b2a-88b0-4a84-90eb-20df94dc7543

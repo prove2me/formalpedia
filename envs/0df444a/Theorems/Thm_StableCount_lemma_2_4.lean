@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableCount_lemma_2_4
 -- name    : StableCount.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:48:53.184873+00:00
 -- url     : https://prove2.me/theorems/1b39ac47-1371-4113-ae06-f8d5dba354ad

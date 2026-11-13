@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CayleyErdosGyarfas_odd_order_cayley_contains_two_power_cycle
 -- name    : CayleyErdosGyarfas.odd_order_cayley_contains_two_power_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:10:45.602404+00:00
 -- url     : https://prove2.me/theorems/f5be7850-6b64-485d-a383-155e4563fe64

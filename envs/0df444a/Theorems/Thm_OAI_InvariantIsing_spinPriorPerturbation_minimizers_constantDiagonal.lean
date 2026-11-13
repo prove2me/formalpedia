@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorPerturbation_minimizers_constantDiagonal
 -- name    : OAI.InvariantIsing.spinPriorPerturbation_minimizers_constantDiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:20.784209+00:00
 -- url     : https://prove2.me/theorems/ca78e716-ec5e-4077-bb1e-ee59b821450b

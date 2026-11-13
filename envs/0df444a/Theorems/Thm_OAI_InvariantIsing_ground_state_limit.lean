@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_ground_state_limit
 -- name    : OAI.InvariantIsing.ground_state_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:27:34.701664+00:00
 -- url     : https://prove2.me/theorems/305d52d5-2214-440c-a033-1b2b591dd153

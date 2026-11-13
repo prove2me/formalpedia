@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatFlat_Hereditary_observation_2
 -- name    : FatFlat.Hereditary.observation_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T18:44:24.459199+00:00
 -- url     : https://prove2.me/theorems/44955da9-045d-448d-b64a-ff37906e5fad

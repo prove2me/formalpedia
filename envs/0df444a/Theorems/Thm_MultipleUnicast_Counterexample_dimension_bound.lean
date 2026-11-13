@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultipleUnicast_Counterexample_dimension_bound
 -- name    : MultipleUnicast.Counterexample.dimension_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:20:35.35806+00:00
 -- url     : https://prove2.me/theorems/4e656e47-f0fa-473d-a5c9-ddf38874a60d

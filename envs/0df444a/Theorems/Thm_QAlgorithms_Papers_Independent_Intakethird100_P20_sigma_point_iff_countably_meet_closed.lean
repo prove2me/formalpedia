@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_sigma_point_iff_countably_meet_closed
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.sigma_point_iff_countably_meet_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:42:36.012477+00:00
 -- url     : https://prove2.me/theorems/b855292c-d832-420b-9f2f-7f6fe1372b56

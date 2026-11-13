@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAP_Counting_claim_5_14
 -- name    : RestrictedAP.Counting.claim_5_14
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:21:09.482961+00:00
 -- url     : https://prove2.me/theorems/89e9578d-7dfc-490f-b346-49dd67b2367e

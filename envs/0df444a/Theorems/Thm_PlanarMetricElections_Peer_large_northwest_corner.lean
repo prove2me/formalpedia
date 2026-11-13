@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_large_northwest_corner
 -- name    : PlanarMetricElections.Peer.large_northwest_corner
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:49.008604+00:00
 -- url     : https://prove2.me/theorems/6ddeaeed-d4a2-4c9c-bbf4-8b2f33aa0366

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_tensorActionsGiveModules
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.tensorActionsGiveModules
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:30:42.725477+00:00
 -- url     : https://prove2.me/theorems/257b04c9-960f-4379-bd47-7f82d8a1b2c4

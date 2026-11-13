@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_partite_vertex_decomposition
 -- name    : HDXHitting.partite_vertex_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:58:30.625991+00:00
 -- url     : https://prove2.me/theorems/33517eb0-cfcd-4d58-a120-576331d7af11

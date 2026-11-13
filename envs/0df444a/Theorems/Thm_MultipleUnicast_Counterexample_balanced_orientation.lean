@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultipleUnicast_Counterexample_balanced_orientation
 -- name    : MultipleUnicast.Counterexample.balanced_orientation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:21:57.578823+00:00
 -- url     : https://prove2.me/theorems/8e70cd2b-910e-4e63-baf7-27f41c4d8ecf

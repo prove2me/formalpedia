@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorContactObjective_exists_minimum
 -- name    : OAI.InvariantIsing.tensorContactObjective_exists_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:46.2062+00:00
 -- url     : https://prove2.me/theorems/56e95b8e-b95d-483d-b236-6127b2543916

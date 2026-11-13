@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_b23_original_negative_mark_rate_path_measurable
 -- name    : AvramDividend.Classical.avram_bvb_b23_original_negative_mark_rate_path_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:49:15.614352+00:00
 -- url     : https://prove2.me/theorems/3740173c-7fb1-4831-b08f-737e57016b00

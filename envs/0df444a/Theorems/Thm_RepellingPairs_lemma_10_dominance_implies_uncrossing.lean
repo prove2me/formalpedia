@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_lemma_10_dominance_implies_uncrossing
 -- name    : RepellingPairs.lemma_10_dominance_implies_uncrossing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:02:04.127953+00:00
 -- url     : https://prove2.me/theorems/fb72d95a-33fa-4202-ac2e-23936cf7fc09

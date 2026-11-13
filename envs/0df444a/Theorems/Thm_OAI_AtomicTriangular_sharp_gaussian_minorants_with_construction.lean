@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_sharp_gaussian_minorants_with_construction
 -- name    : OAI.AtomicTriangular.sharp_gaussian_minorants_with_construction
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:21.924989+00:00
 -- url     : https://prove2.me/theorems/5bf8dbc1-8cbe-4c65-b812-cd4596f18862

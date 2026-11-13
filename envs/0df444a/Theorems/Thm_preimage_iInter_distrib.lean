@@ -1,0 +1,21 @@
+-- Prove2me | Theorems.Thm_preimage_iInter_distrib
+-- name    : preimage_iInter_distrib
+-- status  : Open
+-- author  : @WillR
+-- created : 2026-11-12T19:51:30.704538+00:00
+-- url     : https://prove2.me/theorems/5e6ab817-89ee-41ef-9c8d-c8534e4060b7
+-- title:
+--   04_thm_4_2: preimage_iInter_distrib
+-- statement:
+--   Original source theorem `preimage_iInter_distrib` in the chapter module. The formal Lean declaration below is the authoritative proposition.
+-- source:
+--   https://github.com/wkshum/ProbabilityTheory/blob/e6387d4fd8005d627d2aec40d10f039ddb4e4b40/ProbabilityTheory/chapter_04/thm_4_2.lean
+
+import Mathlib.Data.Set.Lattice
+open Set
+universe u v w
+variable {Ω : Type u} {Ω' : Type v} {Ω'' : Type w} {I : Type _}
+variable (f : Ω → Ω') (g : Ω' → Ω'') (A : Set Ω') (Ai : I → Set Ω') (B : Set Ω'')
+
+theorem preimage_iInter_distrib : f ⁻¹' (⋂ i, Ai i) = ⋂ i, f ⁻¹' (Ai i) := by
+  sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_crossedModulesAndInternalCategories
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.crossedModulesAndInternalCategories
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:34:17.14413+00:00
 -- url     : https://prove2.me/theorems/2929b219-3cac-4c1e-a6fa-b05e7744aa1c

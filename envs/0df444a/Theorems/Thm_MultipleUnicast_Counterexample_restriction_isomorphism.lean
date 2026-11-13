@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultipleUnicast_Counterexample_restriction_isomorphism
 -- name    : MultipleUnicast.Counterexample.restriction_isomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:22:11.39292+00:00
 -- url     : https://prove2.me/theorems/166b508c-9ff8-465d-ac18-25c741ad0424

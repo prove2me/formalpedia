@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_offset_envelope_pressure_lower
 -- name    : OAI.InvariantIsing.offset_envelope_pressure_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:56.6462+00:00
 -- url     : https://prove2.me/theorems/63bf02dd-fd3d-418c-867f-1802f65e4c7e

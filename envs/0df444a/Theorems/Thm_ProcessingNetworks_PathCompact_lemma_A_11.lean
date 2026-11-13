@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PathCompact_lemma_A_11
 -- name    : ProcessingNetworks.PathCompact.lemma_A_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:00.720976+00:00
 -- url     : https://prove2.me/theorems/75c6198d-137d-4c6f-8083-8ba2bd99344e

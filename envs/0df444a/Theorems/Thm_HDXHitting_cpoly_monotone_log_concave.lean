@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXHitting_cpoly_monotone_log_concave
 -- name    : HDXHitting.cpoly_monotone_log_concave
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:57:15.843347+00:00
 -- url     : https://prove2.me/theorems/29d989f1-bd68-483b-bccf-68998d9bdff9

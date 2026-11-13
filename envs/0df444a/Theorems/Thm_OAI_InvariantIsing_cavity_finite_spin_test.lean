@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_finite_spin_test
 -- name    : OAI.InvariantIsing.cavity_finite_spin_test
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:34:04.351286+00:00
 -- url     : https://prove2.me/theorems/d907a40e-8585-4aac-96f3-71163afa6eec

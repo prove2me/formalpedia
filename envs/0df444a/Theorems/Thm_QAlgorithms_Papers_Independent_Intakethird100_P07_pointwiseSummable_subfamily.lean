@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_pointwiseSummable_subfamily
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.pointwiseSummable_subfamily
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:24:04.045231+00:00
 -- url     : https://prove2.me/theorems/a69d21bd-2645-4661-996d-fc8464890d32

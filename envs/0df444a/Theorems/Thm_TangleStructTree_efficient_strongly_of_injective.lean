@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TangleStructTree_efficient_strongly_of_injective
 -- name    : TangleStructTree.efficient_strongly_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:55:38.514205+00:00
 -- url     : https://prove2.me/theorems/e453ff67-9abd-40c1-89a3-9cf589b7094a

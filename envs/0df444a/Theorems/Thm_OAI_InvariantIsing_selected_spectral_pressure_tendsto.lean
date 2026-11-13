@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_selected_spectral_pressure_tendsto
 -- name    : OAI.InvariantIsing.selected_spectral_pressure_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:32:20.64697+00:00
 -- url     : https://prove2.me/theorems/01d3c298-f58d-4fd7-b42a-a21c2e1450b3

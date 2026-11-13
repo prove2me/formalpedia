@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_finite_physical_field_pressure_upper
 -- name    : OAI.InvariantIsing.finite_physical_field_pressure_upper
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:26:54.535205+00:00
 -- url     : https://prove2.me/theorems/a363220b-09cc-44a5-a0bc-89447ca73118

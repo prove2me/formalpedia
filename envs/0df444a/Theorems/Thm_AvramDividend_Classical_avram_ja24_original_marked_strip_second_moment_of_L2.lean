@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja24_original_marked_strip_second_moment_of_L2
 -- name    : AvramDividend.Classical.avram_ja24_original_marked_strip_second_moment_of_L2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T17:44:43.258804+00:00
 -- url     : https://prove2.me/theorems/ec5fe7b6-c09f-4d4d-835f-97171aad2c25

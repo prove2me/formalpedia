@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_sylow_isCoatom_of_minimal_counterexample
 -- name    : OddOrder.Isaacs.Ch07.sylow_isCoatom_of_minimal_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:54:25.855281+00:00
 -- url     : https://prove2.me/theorems/8f357411-5b57-453e-a175-03dd5942e7e1

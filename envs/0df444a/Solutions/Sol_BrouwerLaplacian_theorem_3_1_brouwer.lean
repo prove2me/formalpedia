@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BrouwerLaplacian.theorem_3_1_brouwer
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:14:37.680222+00:00
 -- url     : https://prove2.me/submissions/a7744a44-5c34-4320-ad74-45fea6f21207
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BrouwerLaplacian_IsOrthProj

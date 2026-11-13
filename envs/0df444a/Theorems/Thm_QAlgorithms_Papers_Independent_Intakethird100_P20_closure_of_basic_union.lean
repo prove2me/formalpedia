@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_closure_of_basic_union
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.closure_of_basic_union
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:39:45.800108+00:00
 -- url     : https://prove2.me/theorems/e6186a7c-cf22-43e0-a6d6-fe7bc151a4c5

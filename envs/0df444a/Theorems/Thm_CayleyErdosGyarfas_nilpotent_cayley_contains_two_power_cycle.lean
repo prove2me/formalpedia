@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CayleyErdosGyarfas_nilpotent_cayley_contains_two_power_cycle
 -- name    : CayleyErdosGyarfas.nilpotent_cayley_contains_two_power_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:11:37.541672+00:00
 -- url     : https://prove2.me/theorems/92d5fe39-ff2c-4c37-9231-04c7ee6ec843

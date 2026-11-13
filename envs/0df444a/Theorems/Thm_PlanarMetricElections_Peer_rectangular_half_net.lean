@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_rectangular_half_net
 -- name    : PlanarMetricElections.Peer.rectangular_half_net
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:52:41.240204+00:00
 -- url     : https://prove2.me/theorems/589975b9-666b-4ba6-b1cf-0ce409cdd0f8

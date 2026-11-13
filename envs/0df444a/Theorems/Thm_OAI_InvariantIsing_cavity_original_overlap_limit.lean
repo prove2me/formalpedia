@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_original_overlap_limit
 -- name    : OAI.InvariantIsing.cavity_original_overlap_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:36:22.626811+00:00
 -- url     : https://prove2.me/theorems/2567aa71-f6d5-49c6-ad95-dd71600f9363

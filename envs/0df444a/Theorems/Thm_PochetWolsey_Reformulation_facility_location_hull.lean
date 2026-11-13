@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PochetWolsey_Reformulation_facility_location_hull
 -- name    : PochetWolsey.Reformulation.facility_location_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T02:26:47.862723+00:00
 -- url     : https://prove2.me/theorems/28ebc150-0827-4bd7-a621-0e8786aa072d

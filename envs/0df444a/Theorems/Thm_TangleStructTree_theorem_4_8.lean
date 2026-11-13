@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TangleStructTree_theorem_4_8
 -- name    : TangleStructTree.theorem_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:56:05.990344+00:00
 -- url     : https://prove2.me/theorems/a3f8efc2-877b-41a8-90fd-f9b3f25bbbeb

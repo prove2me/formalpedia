@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensor_envelope_pressure_lower
 -- name    : OAI.InvariantIsing.tensor_envelope_pressure_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:53.394034+00:00
 -- url     : https://prove2.me/theorems/49964b99-daf5-4349-86a7-eeb47ba84641

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DuchiSIT_dobrushin_le_tvContraction
 -- name    : DuchiSIT.dobrushin_le_tvContraction
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T18:22:14.767297+00:00
 -- url     : https://prove2.me/theorems/961a9fde-ab09-4f28-a054-b16b9afdc199

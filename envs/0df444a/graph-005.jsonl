@@ -11282,7 +11282,7 @@
 {"parent": "StabilityConjecture.periodic_hyperbolic_of_hyperbolic_nonwandering", "child": "PughClosingLemma_nonwandering", "via": ["solution", "statement"]}
 {"parent": "StabilityConjecture.periodic_hyperbolic_of_hyperbolic_nonwandering", "child": "ClosingLemma_DiffeoCrTopology", "via": ["solution", "statement"]}
 {"parent": "StabilityConjecture.periodic_hyperbolic_of_hyperbolic_nonwandering", "child": "StabilityConjecture_Basic", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.GottesmanThesis.erasureChannel_capacity", "child": "QAlgorithms_Defs_FTCircuit", "via": ["statement"]}
+{"parent": "QAlgorithms.GottesmanThesis.erasureChannel_capacity", "child": "QAlgorithms_Defs_FTCircuit", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Childs.commutator_net", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.lowIndexCount_pos", "child": "OAI_NumberTheory_PiExponent_Approximation_RowTranslation_CoreData", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.lowIndexCount_pos", "child": "OAI_NumberTheory_PiExponent_Analysis_LiteralAnalyticSummand_InterfaceData", "via": ["solution", "statement"]}

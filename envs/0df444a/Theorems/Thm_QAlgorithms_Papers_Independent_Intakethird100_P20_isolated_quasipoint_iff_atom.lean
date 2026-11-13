@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_isolated_quasipoint_iff_atom
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.isolated_quasipoint_iff_atom
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:39:15.628203+00:00
 -- url     : https://prove2.me/theorems/4d716854-bb5b-4ec1-9e53-40ea2e8a0b97

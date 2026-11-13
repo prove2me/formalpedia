@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AutoregLTF_lemma_2_disjoint
 -- name    : AutoregLTF.lemma_2_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:55:21.616558+00:00
 -- url     : https://prove2.me/theorems/5d398370-cb09-4323-bb11-c628b4a21651

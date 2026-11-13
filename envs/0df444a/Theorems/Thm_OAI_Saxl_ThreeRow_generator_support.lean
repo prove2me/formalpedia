@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_ThreeRow_generator_support
 -- name    : OAI.Saxl.ThreeRow.generator_support
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:16:03.87158+00:00
 -- url     : https://prove2.me/theorems/dc525374-9a97-4bc5-8156-e69828da494a

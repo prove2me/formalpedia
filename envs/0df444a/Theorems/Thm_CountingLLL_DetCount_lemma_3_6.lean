@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountingLLL_DetCount_lemma_3_6
 -- name    : CountingLLL.DetCount.lemma_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:15.021184+00:00
 -- url     : https://prove2.me/theorems/41f691f7-3546-4895-8be8-421d8b9fc368

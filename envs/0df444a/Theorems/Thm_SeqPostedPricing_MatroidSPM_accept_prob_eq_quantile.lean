@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqPostedPricing_MatroidSPM_accept_prob_eq_quantile
 -- name    : SeqPostedPricing.MatroidSPM.accept_prob_eq_quantile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:41:04.384988+00:00
 -- url     : https://prove2.me/theorems/7f145aaf-e97f-4d4f-bd5a-1b6d57c5d1fa

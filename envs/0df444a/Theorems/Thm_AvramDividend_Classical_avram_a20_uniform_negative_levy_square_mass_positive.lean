@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a20_uniform_negative_levy_square_mass_positive
 -- name    : AvramDividend.Classical.avram_a20_uniform_negative_levy_square_mass_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T01:01:59.100699+00:00
 -- url     : https://prove2.me/theorems/789bda55-03da-490b-ae50-4699076e596b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_distributivity_iff_stone_properties
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.distributivity_iff_stone_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:38:40.981754+00:00
 -- url     : https://prove2.me/theorems/47f4ac47-7677-4b08-9b87-50e03c703990

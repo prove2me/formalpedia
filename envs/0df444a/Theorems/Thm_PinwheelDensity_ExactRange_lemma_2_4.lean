@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PinwheelDensity_ExactRange_lemma_2_4
 -- name    : PinwheelDensity.ExactRange.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:36:43.190601+00:00
 -- url     : https://prove2.me/theorems/f67cdb14-f8a3-48fb-8c75-75c3974303f8

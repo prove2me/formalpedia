@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowDiameterNashWilliams_Main_lemma_4_4
 -- name    : LowDiameterNashWilliams.Main.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:07:49.117072+00:00
 -- url     : https://prove2.me/theorems/d7f47f08-ef79-4adf-8854-3d99005dea18

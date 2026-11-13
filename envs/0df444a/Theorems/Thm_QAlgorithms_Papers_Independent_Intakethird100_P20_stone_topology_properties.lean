@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_stone_topology_properties
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.stone_topology_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:36:41.598718+00:00
 -- url     : https://prove2.me/theorems/6bc664d0-51ff-41ed-967d-4a5cd1d0080f

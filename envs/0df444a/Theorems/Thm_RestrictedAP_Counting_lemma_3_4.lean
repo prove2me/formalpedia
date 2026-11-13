@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAP_Counting_lemma_3_4
 -- name    : RestrictedAP.Counting.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:20:47.60996+00:00
 -- url     : https://prove2.me/theorems/a74bcd83-ca79-464a-a78e-286e891f6d1a

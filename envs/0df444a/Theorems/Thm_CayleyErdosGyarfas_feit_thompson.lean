@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CayleyErdosGyarfas_feit_thompson
 -- name    : CayleyErdosGyarfas.feit_thompson
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:10:08.439595+00:00
 -- url     : https://prove2.me/theorems/b013ec11-2985-4700-85f4-b854b55db615

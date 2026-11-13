@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorCascadeLog_root_tree_variance_le
 -- name    : OAI.InvariantIsing.tensorCascadeLog_root_tree_variance_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:58:13.327469+00:00
 -- url     : https://prove2.me/theorems/3b79b3f3-0298-43bc-90e1-0d2846c5347a

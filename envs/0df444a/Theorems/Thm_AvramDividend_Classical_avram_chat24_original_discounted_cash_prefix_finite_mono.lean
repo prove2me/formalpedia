@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_original_discounted_cash_prefix_finite_mono
 -- name    : AvramDividend.Classical.avram_chat24_original_discounted_cash_prefix_finite_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T16:35:25.272172+00:00
 -- url     : https://prove2.me/theorems/ba475fea-8578-4df1-8580-f77f11e665ad

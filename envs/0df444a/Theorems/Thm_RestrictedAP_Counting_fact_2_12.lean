@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAP_Counting_fact_2_12
 -- name    : RestrictedAP.Counting.fact_2_12
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:20:53.960206+00:00
 -- url     : https://prove2.me/theorems/d60f633f-2550-4e6a-9227-e9d8dad8f9c9

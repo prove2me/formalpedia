@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB76_original_two_uniform_grid_generic_predictable_covariance
 -- name    : AvramDividend.Classical.avram_gbB76_original_two_uniform_grid_generic_predictable_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T16:51:27.909241+00:00
 -- url     : https://prove2.me/theorems/7ece0bf6-3cd7-482d-8b53-e67db47cbce8

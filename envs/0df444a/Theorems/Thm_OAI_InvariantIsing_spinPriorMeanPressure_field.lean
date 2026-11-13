@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorMeanPressure_field
 -- name    : OAI.InvariantIsing.spinPriorMeanPressure_field
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:56.13121+00:00
 -- url     : https://prove2.me/theorems/f1056a1f-57ea-4e5c-af87-9c69dd009450

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ListHashFurstenberg_Main_corollary_2_14
 -- name    : ListHashFurstenberg.Main.corollary_2_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:09:21.671656+00:00
 -- url     : https://prove2.me/theorems/0c22fc1a-79ef-4464-b344-710fcbba693e

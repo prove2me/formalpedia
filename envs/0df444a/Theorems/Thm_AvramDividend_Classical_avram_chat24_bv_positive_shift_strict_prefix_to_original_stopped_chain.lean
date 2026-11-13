@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_positive_shift_strict_prefix_to_original_stopped_chain
 -- name    : AvramDividend.Classical.avram_chat24_bv_positive_shift_strict_prefix_to_original_stopped_chain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:42:15.877889+00:00
 -- url     : https://prove2.me/theorems/2b85e13a-39e1-480f-b827-ab358b597b5c

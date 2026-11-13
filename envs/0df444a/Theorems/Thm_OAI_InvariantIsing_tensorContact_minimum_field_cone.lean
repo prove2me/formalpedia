@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorContact_minimum_field_cone
 -- name    : OAI.InvariantIsing.tensorContact_minimum_field_cone
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:39.654579+00:00
 -- url     : https://prove2.me/theorems/2fbb588c-b3cf-4f7b-96f4-6acc97fad788

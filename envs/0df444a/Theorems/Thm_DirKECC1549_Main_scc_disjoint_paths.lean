@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKECC1549_Main_scc_disjoint_paths
 -- name    : DirKECC1549.Main.scc_disjoint_paths
--- status  : Open
+-- status  : Proved
 -- author  : @parclytaxel
 -- created : 2026-11-12T05:11:04.916508+00:00
 -- url     : https://prove2.me/theorems/253a1eea-5eba-4711-857d-df7583744af8

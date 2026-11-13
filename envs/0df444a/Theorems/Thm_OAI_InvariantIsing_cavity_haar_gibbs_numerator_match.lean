@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_haar_gibbs_numerator_match
 -- name    : OAI.InvariantIsing.cavity_haar_gibbs_numerator_match
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:34:22.793609+00:00
 -- url     : https://prove2.me/theorems/89490f86-496d-4184-b934-2f980d1d8c51

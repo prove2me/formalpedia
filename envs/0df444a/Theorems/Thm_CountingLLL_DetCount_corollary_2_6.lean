@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountingLLL_DetCount_corollary_2_6
 -- name    : CountingLLL.DetCount.corollary_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:10.895747+00:00
 -- url     : https://prove2.me/theorems/fac1aca9-04a3-460e-a154-fea59b7ddb1e

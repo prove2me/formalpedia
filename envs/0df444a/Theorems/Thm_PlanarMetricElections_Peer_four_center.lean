@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_four_center
 -- name    : PlanarMetricElections.Peer.four_center
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:27.743913+00:00
 -- url     : https://prove2.me/theorems/d1dc11af-8cdf-4531-a744-7948631bfc54

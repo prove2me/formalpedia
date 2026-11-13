@@ -891,7 +891,7 @@
 {"parent": "OAI.SharpPlanar.Numerical.U25.entry2_1_contains_e", "child": "OAIQ098E126", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalGluedChartMap_openImmersion", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerProperModel", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerNormalGluedChartMap_openImmersion", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerModelCharts", "via": ["solution", "statement"]}
-{"parent": "StableCount.lemma_5_2", "child": "StableCount_Groups", "via": ["statement"]}
+{"parent": "StableCount.lemma_5_2", "child": "StableCount_Groups", "via": ["solution", "statement"]}
 {"parent": "SparseHistComm.eq_13_covering_upper_bound", "child": "SparseHistComm_Lambda", "via": ["statement"]}
 {"parent": "SparseHistComm.eq_13_covering_upper_bound", "child": "SparseHistComm_Chom", "via": ["statement"]}
 {"parent": "F3SubsetSum.theorem_3_1", "child": "F3SubsetSum_MachineCodes", "via": ["statement"]}
@@ -2084,20 +2084,20 @@
 {"parent": "QEC.Coding.ExpanderCodes.PK20.familyLift_gt", "child": "QEC_Coding_BalancedProduct_CyclicDimension", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ExpanderCodes.PK20.familyLift_gt", "child": "QEC_Coding_BalancedProduct_CyclicLocality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ExpanderCodes.PK20.familyLift_gt", "child": "QEC_Coding_BalancedProduct_PKDistance", "via": ["solution", "statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_OrderInjective", "via": ["statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_OrderInjective", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsTrivial", "via": ["statement"]}
 {"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsRich", "via": ["statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_sepClosure", "via": ["statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_SepSystem", "via": ["statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsOrderFunction", "via": ["statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_StronglyEfficient", "via": ["statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_sepClosure", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_SepSystem", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsOrderFunction", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_StronglyEfficient", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_SepTree_IsTST", "via": ["statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_SepTree", "via": ["statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsOrientation", "via": ["statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_SepTree", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsOrientation", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_SepTree_ThoroughlyOrdered", "via": ["statement"]}
 {"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsStandard", "via": ["statement"]}
 {"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsTangle", "via": ["statement"]}
-{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsConsistent", "via": ["statement"]}
+{"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_IsConsistent", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.efficient_strongly_of_injective", "child": "TangleStructTree_SepTree_Consistent", "via": ["statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.SphericalHecke.isClosed_jointApproximatePointSpectrum", "child": "QEC_Coding_HighDimensionalExpander_Spectrum_UniversalBuildingSpectrum", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.SphericalHecke.isClosed_jointApproximatePointSpectrum", "child": "QEC_Coding_HighDimensionalExpander_Combinatorics_BuildingAdjacency", "via": ["solution", "statement"]}
@@ -2261,7 +2261,7 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound110_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalHeckePullback_j", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRationalLevelInclusion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalHeckePullback_j", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRationalHeckePullback", "via": ["solution", "statement"]}
-{"parent": "StableCount.lemma_8_3", "child": "StableCount_Groups", "via": ["statement"]}
+{"parent": "StableCount.lemma_8_3", "child": "StableCount_Groups", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2281_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2281_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2281_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
@@ -3979,8 +3979,8 @@
 {"parent": "QEC.Coding.PeriodicCubical4.dualSquareProjection_dualXYMembrane_add_coboundary", "child": "QEC_Coding_Stabilizer_PathEnergy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.boundary3_hypercubeBoundary", "child": "QEC_Coding_Core_Definitions", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.boundary3_hypercubeBoundary", "child": "QEC_Coding_FourDimensionalToricCode_Cellulation", "via": ["solution", "statement"]}
-{"parent": "AutoregLTF.eq_39", "child": "AutoregLTF_prompt", "via": ["statement"]}
-{"parent": "AutoregLTF.eq_39", "child": "AutoregLTF_gen16", "via": ["statement"]}
+{"parent": "AutoregLTF.eq_39", "child": "AutoregLTF_prompt", "via": ["solution", "statement"]}
+{"parent": "AutoregLTF.eq_39", "child": "AutoregLTF_gen16", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound55_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound55_e", "child": "OAIQ106E140", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound55_e", "child": "OAIQ106E149", "via": ["solution", "statement"]}
@@ -5587,8 +5587,8 @@
 {"parent": "AvramDividend.Classical.avram_bv_error7_original_full_stopped_Taylor_positive_error_L1_of_exact_split", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_error7_original_full_stopped_Taylor_positive_error_L1_of_exact_split", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.JacobiTripleProductCore.G_summable", "child": "QEC_Coding_ExpanderCodes_JacobiTripleProductCore", "via": ["solution", "statement"]}
-{"parent": "AutoregLTF.eq_46", "child": "QAlgorithms_Defs_PACSampleComplexity", "via": ["statement"]}
-{"parent": "AutoregLTF.eq_46", "child": "AutoregLTF_ltf", "via": ["statement"]}
+{"parent": "AutoregLTF.eq_46", "child": "QAlgorithms_Defs_PACSampleComplexity", "via": ["solution", "statement"]}
+{"parent": "AutoregLTF.eq_46", "child": "AutoregLTF_ltf", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.CSSGibbs.sector_realizable_finrank", "child": "QEC_Coding_CSS_GibbsSyndrome_Spectrum", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.CSSGibbs.sector_realizable_finrank", "child": "QEC_Coding_CSS_GibbsSyndrome_Projectors", "via": ["solution", "statement"]}
 {"parent": "MultiSelectPandora.lemma_3_16", "child": "MultiSelectPandora_Inst", "via": ["statement"]}
@@ -6271,7 +6271,7 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegralSeries_mul", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerModularEquation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.strongSmallSetExpansion_failureMass_le_exact_sum", "child": "QEC_Coding_FiberBundle_RandomBase_Expansion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.strongSmallSetExpansion_failureMass_le_exact_sum", "child": "QEC_Coding_FiberBundle_RandomBase_Distance", "via": ["solution", "statement"]}
-{"parent": "AutoregLTF.theorem_1_counting", "child": "AutoregLTF_block", "via": ["statement"]}
+{"parent": "AutoregLTF.theorem_1_counting", "child": "AutoregLTF_block", "via": ["solution", "statement"]}
 {"parent": "PrivLittlestone_IsReplacementPrivate", "child": "PrivLittlestone_IsAdjacent", "via": ["statement"]}
 {"parent": "PrivLittlestone_IsReplacementPrivate", "child": "PrivLittlestone_transcript", "via": ["statement"]}
 {"parent": "QEC.Distillation.GeneratedUniversality.finitePrecisionOneQubitUniversal_of_projectivelyGeneratedDense", "child": "QEC_Semantics_Core_Definitions", "via": ["solution", "statement"]}
@@ -6370,9 +6370,9 @@
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound248_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound248_e", "child": "OAIQ106E140", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound248_e", "child": "OAIQ106E149", "via": ["solution", "statement"]}
-{"parent": "AutoregLTF.claim_1", "child": "AutoregLTF_coef", "via": ["statement"]}
-{"parent": "ApproxDegComp.theorem_23", "child": "ApproxDegComp_approxDeg", "via": ["statement"]}
-{"parent": "ApproxDegComp.theorem_23", "child": "OAI_Combinatorics_Sensitivity_Composition", "via": ["statement"]}
+{"parent": "AutoregLTF.claim_1", "child": "AutoregLTF_coef", "via": ["solution", "statement"]}
+{"parent": "ApproxDegComp.theorem_23", "child": "ApproxDegComp_approxDeg", "via": ["solution", "statement"]}
+{"parent": "ApproxDegComp.theorem_23", "child": "OAI_Combinatorics_Sensitivity_Composition", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalMeromorphicRatioCosetPolynomial_degree", "child": "QEC_Coding_ExpanderCodes_LPSOriginalMeromorphicModularRatio", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalMeromorphicRatioCosetPolynomial_degree", "child": "QEC_Coding_ExpanderCodes_LPSOriginalMeromorphicDegreeBound", "via": ["solution", "statement"]}
 {"parent": "VDCyclePack_ShortCyclesMeet", "child": "VDCyclePack_cycles", "via": ["statement"]}
@@ -8423,7 +8423,7 @@
 {"parent": "QuadBogolyubov.lemma_D_8", "child": "QuadBogolyubov_IsRooted", "via": ["statement"]}
 {"parent": "QuadBogolyubov.lemma_D_8", "child": "QuadBogolyubov_cubeSet", "via": ["statement"]}
 {"parent": "EuclidSPAgg_SC", "child": "RBMSensitivity_E", "via": ["statement"]}
-{"parent": "StableCount.lemma_6_2", "child": "StableCount_Groups", "via": ["statement"]}
+{"parent": "StableCount.lemma_6_2", "child": "StableCount_Groups", "via": ["solution", "statement"]}
 {"parent": "DimFreeShadow_labelEntropy", "child": "QAlgorithms_Papers_Independent_Information100_P56", "via": ["statement"]}
 {"parent": "DimFreeShadow_labelEntropy", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_redux18_original_strict_negative_mark_loss_compensator", "child": "AvramDividend.Classical.avram_redux18_original_negative_band_weighted_levy_compensator", "via": ["solution", "statement"]}
@@ -8964,7 +8964,7 @@
 {"parent": "PairwiseRealize.sec_2_1_fractional_feasibility", "child": "PairwiseRealize_Model", "via": ["statement"]}
 {"parent": "NSWBetter_largeCount", "child": "NSWBetter_IsLargeCount", "via": ["statement"]}
 {"parent": "StableCount.proposition_9_2", "child": "StableCount_Potential", "via": ["statement"]}
-{"parent": "StableCount.proposition_9_2", "child": "StableCount_FiniteProblem", "via": ["statement"]}
+{"parent": "StableCount.proposition_9_2", "child": "StableCount_FiniteProblem", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.CSSGibbs.trace_projector_zero_iff", "child": "QEC_Semantics_Core_OperatorTraceNorm", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.CSSGibbs.trace_projector_zero_iff", "child": "QEC_Coding_CSS_Syndrome", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.CSSGibbs.trace_projector_zero_iff", "child": "QEC_Coding_CSS_GibbsSyndrome_Projectors", "via": ["solution", "statement"]}
@@ -9514,18 +9514,18 @@
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_OrderInjective", "via": ["statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsTrivial", "via": ["statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsRich", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_sepClosure", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepSystem", "via": ["statement"]}
+{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_sepClosure", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepSystem", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsOrderFunction", "via": ["statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_StronglyEfficient", "via": ["statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepTree_IsTST", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepTree", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsOrientation", "via": ["statement"]}
+{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepTree", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsOrientation", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepTree_ThoroughlyOrdered", "via": ["statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsStandard", "via": ["statement"]}
 {"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsTangle", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsConsistent", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepTree_Consistent", "via": ["statement"]}
+{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_IsConsistent", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_3_3", "child": "TangleStructTree_SepTree_Consistent", "via": ["solution", "statement"]}
 {"parent": "Z2PostSamp_Construction", "child": "Z2PostSamp_RevealPath", "via": ["statement"]}
 {"parent": "Z2PostSamp_Construction", "child": "Z2PostSamp_Scalars", "via": ["statement"]}
 {"parent": "Z2PostSamp_Construction", "child": "CriticalSK", "via": ["statement"]}
@@ -11697,21 +11697,21 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound1412_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerInfinityNormalizationRationalTensorAlgEquiv_tmulValue", "child": "QEC_Coding_ExpanderCodes_LPSOriginalZeroNormalizationComparison", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerInfinityNormalizationRationalTensorAlgEquiv_tmulValue", "child": "QEC_Coding_ExpanderCodes_LPSOriginalReciprocalNormalizationComparison", "via": ["solution", "statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_OrderInjective", "via": ["statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_OrderInjective", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsTrivial", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsRich", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_sepClosure", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepSystem", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsOrderFunction", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_StronglyEfficient", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree_IsTST", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsOrientation", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree_ThoroughlyOrdered", "via": ["statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsRich", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_sepClosure", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepSystem", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsOrderFunction", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_StronglyEfficient", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree_IsTST", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsOrientation", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree_ThoroughlyOrdered", "via": ["solution", "statement"]}
 {"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsStandard", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsTangle", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsConsistent", "via": ["statement"]}
-{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree_Consistent", "via": ["statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsTangle", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_IsConsistent", "via": ["solution", "statement"]}
+{"parent": "TangleStructTree.lemma_4_7", "child": "TangleStructTree_SepTree_Consistent", "via": ["solution", "statement"]}
 {"parent": "RobustQSC.acceptance_probability_eq_trace_accOp", "child": "RobustQSC_accOp", "via": ["statement"]}
 {"parent": "RobustQSC.acceptance_probability_eq_trace_accOp", "child": "RobustQSC_protocol1", "via": ["statement"]}
 {"parent": "RobustBoolPCSP_Canonical", "child": "SymBoolPCSP_CFixing_Basic", "via": ["statement"]}

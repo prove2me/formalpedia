@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.limiting_pressure_of_extreme_limits
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:30:25.207512+00:00
 -- url     : https://prove2.me/submissions/0e936125-01cd-42ef-8b1c-2af1207ac9ca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

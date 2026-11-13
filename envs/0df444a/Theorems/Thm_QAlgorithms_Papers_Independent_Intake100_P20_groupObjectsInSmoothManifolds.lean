@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_groupObjectsInSmoothManifolds
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.groupObjectsInSmoothManifolds
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:28:14.472768+00:00
 -- url     : https://prove2.me/theorems/912a23a6-6789-47b5-9bd6-7160362dd7e0

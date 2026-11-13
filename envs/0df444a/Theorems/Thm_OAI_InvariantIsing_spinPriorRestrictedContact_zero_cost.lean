@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorRestrictedContact_zero_cost
 -- name    : OAI.InvariantIsing.spinPriorRestrictedContact_zero_cost
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:18.503925+00:00
 -- url     : https://prove2.me/theorems/ea4281c8-5907-4de1-8e1d-80c081b7b420

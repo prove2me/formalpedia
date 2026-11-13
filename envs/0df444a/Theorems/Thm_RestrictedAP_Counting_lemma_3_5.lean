@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestrictedAP_Counting_lemma_3_5
 -- name    : RestrictedAP.Counting.lemma_3_5
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:20:35.775633+00:00
 -- url     : https://prove2.me/theorems/fe3fa1c8-785c-421b-9389-85f4474bb239

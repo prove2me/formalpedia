@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_orthomodular_basic_sets_injective
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.orthomodular_basic_sets_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:37:26.029599+00:00
 -- url     : https://prove2.me/theorems/080adf5d-33d9-410d-88ce-da036f7be54c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ClosedSurfaceR4_FiniteOrderSmoothing_SmoothingAtlas_uniform_induced_metric_upper_bound
 -- name    : OAI.ClosedSurfaceR4.FiniteOrderSmoothing.SmoothingAtlas.uniform_induced_metric_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:10:59.320137+00:00
 -- url     : https://prove2.me/theorems/5bc73165-12f7-405c-8feb-493c4e2748ef

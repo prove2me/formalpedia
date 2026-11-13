@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubspaceEvasion312_Explicit_zero_error_recovery
 -- name    : SubspaceEvasion312.Explicit.zero_error_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:58:47.187711+00:00
 -- url     : https://prove2.me/theorems/d4e4285e-4c55-4085-884b-18a3830bc718

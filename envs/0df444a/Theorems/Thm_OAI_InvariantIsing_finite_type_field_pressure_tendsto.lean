@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_finite_type_field_pressure_tendsto
 -- name    : OAI.InvariantIsing.finite_type_field_pressure_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:27:06.442191+00:00
 -- url     : https://prove2.me/theorems/82c961d7-0d89-4c40-86d0-da2ac920ea66

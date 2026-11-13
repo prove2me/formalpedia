@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TernarySync_Alphabet_eq_17
 -- name    : TernarySync.Alphabet.eq_17
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:54:46.721201+00:00
 -- url     : https://prove2.me/theorems/0ff067a9-dc3a-4343-8745-cab7ed84737b

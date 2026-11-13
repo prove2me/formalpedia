@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P15_secondPrinciple_extendedMean
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P15.secondPrinciple_extendedMean
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:06:38.264242+00:00
 -- url     : https://prove2.me/theorems/3d70ab4f-e256-4d16-b0b3-a3e76331a13e

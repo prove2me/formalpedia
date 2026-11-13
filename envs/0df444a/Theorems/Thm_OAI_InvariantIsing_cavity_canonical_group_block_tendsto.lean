@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_canonical_group_block_tendsto
 -- name    : OAI.InvariantIsing.cavity_canonical_group_block_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:33:30.820219+00:00
 -- url     : https://prove2.me/theorems/e96f988a-a14d-49b8-8e1f-b2a7aedb7919

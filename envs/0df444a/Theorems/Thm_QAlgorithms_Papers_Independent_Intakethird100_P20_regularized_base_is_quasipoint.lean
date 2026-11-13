@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_regularized_base_is_quasipoint
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.regularized_base_is_quasipoint
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:45:26.149955+00:00
 -- url     : https://prove2.me/theorems/2499fdb1-3ce9-401c-8f61-86aa0b237a74

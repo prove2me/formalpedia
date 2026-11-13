@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P07_kOmega_countableColimit
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P07.kOmega_countableColimit
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T04:30:33.951273+00:00
 -- url     : https://prove2.me/theorems/72d86524-8c90-4580-a6ad-07ea8662ea75

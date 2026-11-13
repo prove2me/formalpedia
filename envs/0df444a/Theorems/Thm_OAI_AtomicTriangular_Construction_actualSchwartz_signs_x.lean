@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_Construction_actualSchwartz_signs_x
 -- name    : OAI.AtomicTriangular.Construction.actualSchwartz_signs_x
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:53:26.743204+00:00
 -- url     : https://prove2.me/theorems/8146bc04-e6c3-482c-a245-383b34d1c31e

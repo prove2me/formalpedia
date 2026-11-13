@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.InvariantIsing.finite_type_field_pressure_tendsto
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:29:59.607195+00:00
 -- url     : https://prove2.me/submissions/08441b44-59d2-446c-87de-359b91d9327f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Order.BigOperators.Ring.Finset

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Gramian_proposition_4_1
 -- name    : TensorBTD.Gramian.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:30:18.543105+00:00
 -- url     : https://prove2.me/theorems/dd8a6193-7ab0-4f7a-a2b8-6bd07276fa76

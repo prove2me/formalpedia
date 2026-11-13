@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_gaussianPattern_pressure_limit_unconditional
 -- name    : OAI.InvariantIsing.gaussianPattern_pressure_limit_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:47.530465+00:00
 -- url     : https://prove2.me/theorems/23171f04-82d7-4c30-b63f-c89be32ef9bd

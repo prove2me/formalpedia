@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_compression_capped_log_limit
 -- name    : OAI.InvariantIsing.restricted_compression_capped_log_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:34.584863+00:00
 -- url     : https://prove2.me/theorems/93bead66-44cb-490d-ad55-fbabdc37a089

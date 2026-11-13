@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magnetic_entropy_sequence_of_support
 -- name    : OAI.InvariantIsing.magnetic_entropy_sequence_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:58.316568+00:00
 -- url     : https://prove2.me/theorems/03bd2389-69b3-4715-8db2-0abcbb2f4f4a

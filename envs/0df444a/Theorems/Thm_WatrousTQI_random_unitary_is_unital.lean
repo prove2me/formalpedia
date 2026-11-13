@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_random_unitary_is_unital
 -- name    : WatrousTQI.random_unitary_is_unital
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T22:55:45.569598+00:00
 -- url     : https://prove2.me/theorems/efb76ea5-8238-4f4d-828d-5024fa28c5f3

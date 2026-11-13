@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ClosedSurfaceR4_FiniteOrderSmoothing_smooth_isometric_immersion
 -- name    : OAI.ClosedSurfaceR4.FiniteOrderSmoothing.smooth_isometric_immersion
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:26.941689+00:00
 -- url     : https://prove2.me/theorems/43c7ce40-2403-4db8-8117-4fecbe089c6f

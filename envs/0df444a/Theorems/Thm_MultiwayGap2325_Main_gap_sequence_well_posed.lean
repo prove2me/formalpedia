@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayGap2325_Main_gap_sequence_well_posed
 -- name    : MultiwayGap2325.Main.gap_sequence_well_posed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:06:14.313188+00:00
 -- url     : https://prove2.me/theorems/c6bce4f2-b8eb-47b2-a99a-5e699df3d360

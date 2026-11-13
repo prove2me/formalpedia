@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_twoSubgroups_commutative_of_minimal_counterexample
 -- name    : OddOrder.Isaacs.Ch07.twoSubgroups_commutative_of_minimal_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:54:21.453209+00:00
 -- url     : https://prove2.me/theorems/95bdc376-1093-46c2-a7be-c3ed7a427f8a

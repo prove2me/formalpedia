@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_gaussianPattern_pressure_limit
 -- name    : OAI.InvariantIsing.gaussianPattern_pressure_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:27:14.948508+00:00
 -- url     : https://prove2.me/theorems/47c82c34-b205-4b23-81c0-2634a97ac1d6

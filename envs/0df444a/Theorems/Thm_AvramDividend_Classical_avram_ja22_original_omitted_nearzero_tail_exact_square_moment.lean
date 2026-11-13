@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja22_original_omitted_nearzero_tail_exact_square_moment
 -- name    : AvramDividend.Classical.avram_ja22_original_omitted_nearzero_tail_exact_square_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T15:57:47.037861+00:00
 -- url     : https://prove2.me/theorems/1679c8a4-9da6-4117-9656-1783d3981201

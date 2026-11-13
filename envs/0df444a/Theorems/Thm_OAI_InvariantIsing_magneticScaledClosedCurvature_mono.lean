@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magneticScaledClosedCurvature_mono
 -- name    : OAI.InvariantIsing.magneticScaledClosedCurvature_mono
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:00.057982+00:00
 -- url     : https://prove2.me/theorems/a99ae7b4-26b1-4ba6-a2ec-40abc5641e76

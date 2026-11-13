@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_stonean_clopens_recover_space
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.stonean_clopens_recover_space
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:52:09.734368+00:00
 -- url     : https://prove2.me/theorems/f50eaf9e-115a-4286-ad59-6f75bf06114c

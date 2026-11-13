@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_cavity_physical_trial_lower
 -- name    : OAI.InvariantIsing.cavity_physical_trial_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:36:22.393044+00:00
 -- url     : https://prove2.me/theorems/3febf14b-f92b-4877-ace0-5ef8f5f7fe70

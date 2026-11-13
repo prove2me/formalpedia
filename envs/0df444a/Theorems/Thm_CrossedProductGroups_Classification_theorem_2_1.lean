@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossedProductGroups_Classification_theorem_2_1
 -- name    : CrossedProductGroups.Classification.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:06.501982+00:00
 -- url     : https://prove2.me/theorems/744371b3-11d2-4036-b54d-63d1dbee91c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magneticVariational_inward_mono
 -- name    : OAI.InvariantIsing.magneticVariational_inward_mono
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:10:18.78526+00:00
 -- url     : https://prove2.me/theorems/13458e78-c873-44ed-8e0a-48ae9d953ffc

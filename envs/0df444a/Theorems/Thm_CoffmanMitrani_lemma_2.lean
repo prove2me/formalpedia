@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani_lemma_2
 -- name    : CoffmanMitrani.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:30:57.673108+00:00
 -- url     : https://prove2.me/theorems/138a6c57-7605-46f9-9548-bc662b78dc86

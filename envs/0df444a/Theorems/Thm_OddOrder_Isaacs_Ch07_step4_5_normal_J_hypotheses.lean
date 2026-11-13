@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddOrder_Isaacs_Ch07_step4_5_normal_J_hypotheses
 -- name    : OddOrder.Isaacs.Ch07.step4_5_normal_J_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-11-12T05:51:41.964963+00:00
 -- url     : https://prove2.me/theorems/ccd612e6-240e-4e05-83dc-2ce9ba03af31

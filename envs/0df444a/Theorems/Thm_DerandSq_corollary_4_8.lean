@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerandSq_corollary_4_8
 -- name    : DerandSq.corollary_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T06:11:46.805142+00:00
 -- url     : https://prove2.me/theorems/a91da8fd-bea7-4873-a81e-6136a3069a50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_field_spin_pair_evaluation
 -- name    : OAI.InvariantIsing.restricted_field_spin_pair_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:41:42.084851+00:00
 -- url     : https://prove2.me/theorems/17d46809-169a-45e7-b751-f258a7bbeed7

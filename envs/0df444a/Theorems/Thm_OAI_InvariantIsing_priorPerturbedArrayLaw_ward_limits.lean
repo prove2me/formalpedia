@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_priorPerturbedArrayLaw_ward_limits
 -- name    : OAI.InvariantIsing.priorPerturbedArrayLaw_ward_limits
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:40:55.623576+00:00
 -- url     : https://prove2.me/theorems/6df6764c-ea1d-4e94-a2b9-a24bd2c4946c

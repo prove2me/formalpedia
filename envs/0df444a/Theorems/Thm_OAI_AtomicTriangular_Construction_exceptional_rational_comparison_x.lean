@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_Construction_exceptional_rational_comparison_x
 -- name    : OAI.AtomicTriangular.Construction.exceptional_rational_comparison_x
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T04:16:54.590689+00:00
 -- url     : https://prove2.me/theorems/66bfaa38-ecc0-47ec-bda6-e1dcb6af7516

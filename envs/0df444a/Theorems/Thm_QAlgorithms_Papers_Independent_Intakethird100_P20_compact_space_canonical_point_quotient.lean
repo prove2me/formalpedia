@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_compact_space_canonical_point_quotient
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.compact_space_canonical_point_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:44:54.347552+00:00
 -- url     : https://prove2.me/theorems/d537c2d3-344c-43b0-b790-fdbd813d9c5f

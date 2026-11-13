@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_integral_priorCavityLabeledDepthMean
 -- name    : OAI.InvariantIsing.integral_priorCavityLabeledDepthMean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:39:05.423578+00:00
 -- url     : https://prove2.me/theorems/1e544acc-8f00-409b-b2d2-57819c1043c4

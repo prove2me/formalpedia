@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_positive_temperature_pressure_unconditional
 -- name    : OAI.InvariantIsing.positive_temperature_pressure_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:48.10198+00:00
 -- url     : https://prove2.me/theorems/a1be616a-73d3-49d0-88a8-57fa66f25b99

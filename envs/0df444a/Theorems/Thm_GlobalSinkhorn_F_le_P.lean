@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalSinkhorn_F_le_P
 -- name    : GlobalSinkhorn.F_le_P
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T04:22:19.713009+00:00
 -- url     : https://prove2.me/theorems/ff88a931-c4d9-4a73-aa61-a5fbd03f3a14

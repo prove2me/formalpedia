@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubspaceEvasion312_Explicit_local_graph
 -- name    : SubspaceEvasion312.Explicit.local_graph
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:01:52.581565+00:00
 -- url     : https://prove2.me/theorems/03ddfab7-5baf-4bbd-9650-0fe17caee39e

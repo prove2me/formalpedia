@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKECC1549_Main_sec2_kecc_equivalence
 -- name    : DirKECC1549.Main.sec2_kecc_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:42:30.686193+00:00
 -- url     : https://prove2.me/theorems/97718558-13c9-4517-a0f4-18c138f6ab37

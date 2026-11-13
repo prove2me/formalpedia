@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P20_lattice_isomorphism_induces_homeomorphism
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P20.lattice_isomorphism_induces_homeomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T07:43:40.553595+00:00
 -- url     : https://prove2.me/theorems/9761f2a5-52b5-40fa-873a-c09495061872

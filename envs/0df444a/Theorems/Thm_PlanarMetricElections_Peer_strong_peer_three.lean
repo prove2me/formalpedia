@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_strong_peer_three
 -- name    : PlanarMetricElections.Peer.strong_peer_three
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:52:42.174894+00:00
 -- url     : https://prove2.me/theorems/118ab37f-1d7a-492f-992e-9d3e725f450f

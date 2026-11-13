@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CayleyErdosGyarfas.nilpotent_cayley_contains_two_power_cycle
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @burkh4rt
 -- created : 2026-11-12T02:28:37.654681+00:00
 -- url     : https://prove2.me/submissions/e8a5f831-1810-444c-9116-f7045d303792
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CayleyErdosGyarfas_odd_order_cayley_contains_two_power_cycle
 import Definitions.Def_CayleyErdosGyarfas_HasSymmetricFigureEight

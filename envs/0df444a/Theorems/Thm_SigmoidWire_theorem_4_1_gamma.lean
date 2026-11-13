@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SigmoidWire_theorem_4_1_gamma
 -- name    : SigmoidWire.theorem_4_1_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:04:19.176217+00:00
 -- url     : https://prove2.me/theorems/3176852e-30a4-4ab4-b2af-457dbd89af50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_tree_pressure_capped_increment
 -- name    : OAI.InvariantIsing.restricted_tree_pressure_capped_increment
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:42:48.786806+00:00
 -- url     : https://prove2.me/theorems/2a1b4be3-4f51-4f42-9914-6012085acdd4

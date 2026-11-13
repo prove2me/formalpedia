@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetDefinedGraphs_lemma_4_8
 -- name    : SetDefinedGraphs.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T22:26:36.461583+00:00
 -- url     : https://prove2.me/theorems/bb099030-c322-4a2a-9f6c-45b292f91454

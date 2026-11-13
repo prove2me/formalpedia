@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_finiteMagneticFunctional_transport_le
 -- name    : OAI.InvariantIsing.finiteMagneticFunctional_transport_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:16:46.704065+00:00
 -- url     : https://prove2.me/theorems/9eefb1ff-658a-40b6-a01a-c35c9fb49398

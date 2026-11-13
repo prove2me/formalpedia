@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P20_groupObjectsInTop
 -- name    : QAlgorithms.Papers.Independent.Intake100.P20.groupObjectsInTop
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T16:27:53.031638+00:00
 -- url     : https://prove2.me/theorems/faa1da16-05c2-450e-b5d4-02bf9e7f702a

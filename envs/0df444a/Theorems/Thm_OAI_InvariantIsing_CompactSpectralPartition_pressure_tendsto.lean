@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_CompactSpectralPartition_pressure_tendsto
 -- name    : OAI.InvariantIsing.CompactSpectralPartition.pressure_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:19:42.726875+00:00
 -- url     : https://prove2.me/theorems/c591359b-d540-46e6-9ba0-814443b6b240

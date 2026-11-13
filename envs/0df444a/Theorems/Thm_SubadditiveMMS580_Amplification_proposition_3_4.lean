@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubadditiveMMS580_Amplification_proposition_3_4
 -- name    : SubadditiveMMS580.Amplification.proposition_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T19:54:33.822099+00:00
 -- url     : https://prove2.me/theorems/c04c6a75-a387-43fc-9380-e8a1f0e208cb

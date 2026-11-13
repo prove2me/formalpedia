@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlanarMetricElections_Peer_rectangular_net_reduction
 -- name    : PlanarMetricElections.Peer.rectangular_net_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:52:54.150211+00:00
 -- url     : https://prove2.me/theorems/0c365569-7a5e-4aba-9136-3dda91ffaff7

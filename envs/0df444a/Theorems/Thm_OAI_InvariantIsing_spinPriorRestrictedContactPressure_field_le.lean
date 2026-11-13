@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorRestrictedContactPressure_field_le
 -- name    : OAI.InvariantIsing.spinPriorRestrictedContactPressure_field_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:44:35.509194+00:00
 -- url     : https://prove2.me/theorems/13d16c09-e8e1-48a5-874e-af85e33635f4

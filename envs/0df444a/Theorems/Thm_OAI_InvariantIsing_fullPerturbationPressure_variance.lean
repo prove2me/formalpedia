@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_fullPerturbationPressure_variance
 -- name    : OAI.InvariantIsing.fullPerturbationPressure_variance
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:38:41.91363+00:00
 -- url     : https://prove2.me/theorems/f16d391a-157d-4cc8-b2ef-1e7294b2d047

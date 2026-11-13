@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrouwerLaplacian_theorem_1_2_grone_merris_bai
 -- name    : BrouwerLaplacian.theorem_1_2_grone_merris_bai
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:59:07.24768+00:00
 -- url     : https://prove2.me/theorems/9f0ac956-72ef-4daf-82db-37f6cd68c941

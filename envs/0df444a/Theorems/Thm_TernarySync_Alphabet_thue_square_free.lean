@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TernarySync_Alphabet_thue_square_free
 -- name    : TernarySync.Alphabet.thue_square_free
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:52:46.432013+00:00
 -- url     : https://prove2.me/theorems/d33d7c76-3cd4-43a1-8df5-89539d82b199

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_tensorNamespacedMeanPressure_field_modulus
 -- name    : OAI.InvariantIsing.tensorNamespacedMeanPressure_field_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:45:42.171221+00:00
 -- url     : https://prove2.me/theorems/5748acec-be2e-4765-84b2-6d3666d52e36

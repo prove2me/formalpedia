@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_charPoly_coeff_top
 -- name    : HararySachs.Hyper.charPoly_coeff_top
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-12T05:16:51.908964+00:00
 -- url     : https://prove2.me/theorems/20aadd2a-84c1-4192-9d1e-84ad302cdcb2

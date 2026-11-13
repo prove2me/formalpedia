@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_gbB64_original_finitecap_two_mesh_linear_grid_L2_isometry
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T14:52:38.004057+00:00
 -- url     : https://prove2.me/submissions/6c8ded99-d714-4b1c-8f26-7ffe87294e1f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gbB66_original_finitecap_one_mesh_linear_grid_L2_isometry

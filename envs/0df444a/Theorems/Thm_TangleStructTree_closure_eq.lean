@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TangleStructTree_closure_eq
 -- name    : TangleStructTree.closure_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:55:39.179922+00:00
 -- url     : https://prove2.me/theorems/2ee71a62-5cb8-47bb-ad81-badaa4b1205c

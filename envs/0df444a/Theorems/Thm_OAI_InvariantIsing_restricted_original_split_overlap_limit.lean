@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_restricted_original_split_overlap_limit
 -- name    : OAI.InvariantIsing.restricted_original_split_overlap_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:16.564576+00:00
 -- url     : https://prove2.me/theorems/ddb1daa9-65b8-4d2c-9d8a-92608c2ac1be

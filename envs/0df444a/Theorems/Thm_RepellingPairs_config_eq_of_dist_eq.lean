@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_config_eq_of_dist_eq
 -- name    : RepellingPairs.config_eq_of_dist_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:02:01.870326+00:00
 -- url     : https://prove2.me/theorems/8e5e45d4-f256-4598-be19-216d47f176a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RepellingPairs_flow_normalization
 -- name    : RepellingPairs.flow_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:07:08.414497+00:00
 -- url     : https://prove2.me/theorems/283d42e5-fa04-4ca4-91f3-9a80b51b75ec

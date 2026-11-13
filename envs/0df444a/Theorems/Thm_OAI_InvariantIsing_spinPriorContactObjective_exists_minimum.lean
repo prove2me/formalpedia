@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_spinPriorContactObjective_exists_minimum
 -- name    : OAI.InvariantIsing.spinPriorContactObjective_exists_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:43:45.551208+00:00
 -- url     : https://prove2.me/theorems/c9167990-5997-4d51-b95c-d18b4919f3c3

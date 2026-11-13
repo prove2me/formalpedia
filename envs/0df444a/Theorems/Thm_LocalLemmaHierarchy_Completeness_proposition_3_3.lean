@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalLemmaHierarchy_Completeness_proposition_3_3
 -- name    : LocalLemmaHierarchy.Completeness.proposition_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:19:58.656186+00:00
 -- url     : https://prove2.me/theorems/46e81f2f-ce65-4327-8d67-28d251165ad9

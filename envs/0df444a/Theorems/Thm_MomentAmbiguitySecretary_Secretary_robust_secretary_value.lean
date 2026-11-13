@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentAmbiguitySecretary_Secretary_robust_secretary_value
 -- name    : MomentAmbiguitySecretary.Secretary.robust_secretary_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:55:16.738725+00:00
 -- url     : https://prove2.me/theorems/13b82a18-37ee-45e0-96e6-4ab50de3d4cc

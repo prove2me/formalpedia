@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InvariantIsing_magneticBlockPath_l1_tendsto
 -- name    : OAI.InvariantIsing.magneticBlockPath_l1_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:38:59.761494+00:00
 -- url     : https://prove2.me/theorems/ec995b73-175b-4a2e-93f9-0adf0d050bf6
