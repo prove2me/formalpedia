@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_topcap_positive_shift_pathwise_intrinsic_budget
 -- name    : AvramDividend.Classical.avram_chat24_bv_topcap_positive_shift_pathwise_intrinsic_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T18:01:12.876992+00:00
 -- url     : https://prove2.me/theorems/64598050-7c11-4144-90a5-abb2048c95a4

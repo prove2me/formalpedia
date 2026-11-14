@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_proposition25_trace
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.proposition25_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:41:14.474983+00:00
 -- url     : https://prove2.me/theorems/417e7c4d-63ea-4a1c-9504-ef9e330d8c18

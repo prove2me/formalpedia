@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_topcap_centred_cash_infinite_activity
 -- name    : AvramDividend.Classical.avram_chat24_bv_topcap_centred_cash_infinite_activity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:22:32.214716+00:00
 -- url     : https://prove2.me/theorems/34084418-1d6e-40c1-800c-e3d9807692c4

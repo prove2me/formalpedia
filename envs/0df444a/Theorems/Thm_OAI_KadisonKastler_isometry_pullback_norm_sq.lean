@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_isometry_pullback_norm_sq
 -- name    : OAI.KadisonKastler.isometry_pullback_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:30:30.716727+00:00
 -- url     : https://prove2.me/theorems/7a1f21f9-bdd1-41eb-93c4-d172fc28ff6d

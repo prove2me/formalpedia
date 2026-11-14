@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_FullMatrixCorner_scalarMatrixAlgebra_isInjective
 -- name    : OAI.KadisonKastler.FullMatrixCorner.scalarMatrixAlgebra_isInjective
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:13:49.72996+00:00
 -- url     : https://prove2.me/theorems/26daedef-41d5-4139-af8b-a50961412046

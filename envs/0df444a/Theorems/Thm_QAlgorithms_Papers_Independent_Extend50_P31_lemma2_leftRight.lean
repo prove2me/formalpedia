@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_lemma2_leftRight
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.lemma2_leftRight
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:25:53.307132+00:00
 -- url     : https://prove2.me/theorems/bb674c8d-1dc7-499b-9ed3-72c8e4fdac02

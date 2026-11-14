@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_sMinus_bounds
 -- name    : SaglamGV.sMinus_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:43.10959+00:00
 -- url     : https://prove2.me/theorems/95c717d6-819f-4d8c-b970-beb388cc3208

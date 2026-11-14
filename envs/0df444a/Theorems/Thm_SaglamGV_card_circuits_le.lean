@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_card_circuits_le
 -- name    : SaglamGV.card_circuits_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:05.39429+00:00
 -- url     : https://prove2.me/theorems/c9af06f2-3af8-4c46-8dcd-92667a7fb242

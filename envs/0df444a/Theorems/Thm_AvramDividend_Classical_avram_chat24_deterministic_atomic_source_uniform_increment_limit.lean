@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_deterministic_atomic_source_uniform_increment_limit
 -- name    : AvramDividend.Classical.avram_chat24_deterministic_atomic_source_uniform_increment_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T17:41:10.259692+00:00
 -- url     : https://prove2.me/theorems/6ac6eb1b-4fdc-428b-bcf0-ea3d0d116e45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_phiPoly_natDegree_le
 -- name    : HararySachs.Hyper.phiPoly_natDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-13T05:20:39.455928+00:00
 -- url     : https://prove2.me/theorems/f5a5b3c7-3014-4ee6-9e41-ab9aa76731f3

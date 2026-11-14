@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HararySachs.Hyper.trace_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @milia
 -- created : 2026-11-12T05:17:12.775348+00:00
 -- url     : https://prove2.me/submissions/c76aa006-3a71-4219-bdf0-f3238d07d234
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HararySachs_Hyper_CharPoly

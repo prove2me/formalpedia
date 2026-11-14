@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_beta_integral
 -- name    : SecondBestTrade.HalfEfficiency.beta_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:07:11.866385+00:00
 -- url     : https://prove2.me/theorems/13fa782a-2508-44e5-84f9-d2b9dbd1384c

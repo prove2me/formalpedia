@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_operatorFieldConst_representative_ae
 -- name    : OAI.KadisonKastler.operatorFieldConst_representative_ae
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:15:07.975357+00:00
 -- url     : https://prove2.me/theorems/99c586e6-0e70-4672-8e01-21abea1df96f

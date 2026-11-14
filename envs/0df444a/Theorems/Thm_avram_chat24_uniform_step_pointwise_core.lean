@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_chat24_uniform_step_pointwise_core
 -- name    : avram_chat24_uniform_step_pointwise_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:48:03.284206+00:00
 -- url     : https://prove2.me/theorems/8cf5a0d3-4f34-4b23-b6d6-1e9901c264a6

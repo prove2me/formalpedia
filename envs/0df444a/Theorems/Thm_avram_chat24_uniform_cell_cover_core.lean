@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_chat24_uniform_cell_cover_core
 -- name    : avram_chat24_uniform_cell_cover_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:21:21.54512+00:00
 -- url     : https://prove2.me/theorems/f5fbf1fa-ee0a-4483-aea6-f2ff492d1f5e

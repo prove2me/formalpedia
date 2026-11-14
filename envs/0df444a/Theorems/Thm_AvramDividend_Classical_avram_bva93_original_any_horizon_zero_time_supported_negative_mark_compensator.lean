@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva93_original_any_horizon_zero_time_supported_negative_mark_compensator
 -- name    : AvramDividend.Classical.avram_bva93_original_any_horizon_zero_time_supported_negative_mark_compensator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:56:16.677139+00:00
 -- url     : https://prove2.me/theorems/e3b8f306-33f1-4a50-a72a-e8ffab0623cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntegerRootsFN_Main_lemma_2_2
 -- name    : IntegerRootsFN.Main.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:51:45.746715+00:00
 -- url     : https://prove2.me/theorems/9ea05891-3bba-4787-b268-0aa449be0d22

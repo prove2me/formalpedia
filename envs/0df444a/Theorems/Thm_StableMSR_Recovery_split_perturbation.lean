@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_split_perturbation
 -- name    : StableMSR.Recovery.split_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:32.410401+00:00
 -- url     : https://prove2.me/theorems/e3257e5c-888d-475f-9da9-311ebe79dd26

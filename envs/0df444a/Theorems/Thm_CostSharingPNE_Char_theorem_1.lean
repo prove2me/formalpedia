@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Char_theorem_1
 -- name    : CostSharingPNE.Char.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:24:43.512259+00:00
 -- url     : https://prove2.me/theorems/f66403f1-ae67-489d-abf3-4323c9cd8e5d

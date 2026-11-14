@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_lemma_4_17
 -- name    : ZeroFreeRRG.Hardcore.lemma_4_17
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:37:24.104189+00:00
 -- url     : https://prove2.me/theorems/016c5487-cdbf-42c6-a6d3-500960c0726d

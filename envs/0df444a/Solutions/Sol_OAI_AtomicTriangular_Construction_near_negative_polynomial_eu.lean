@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.AtomicTriangular.Construction.near_negative_polynomial_eu
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:21:42.12021+00:00
 -- url     : https://prove2.me/submissions/da24d731-9f71-4dce-b060-fad1328d95ff
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ334E021

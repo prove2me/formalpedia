@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_TransactionCosts_theorem_4_5_4
 -- name    : BauerleRiederMDP.TransactionCosts.theorem_4_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:33:12.373821+00:00
 -- url     : https://prove2.me/theorems/76a53807-a85b-45ad-9afa-25bea291e208

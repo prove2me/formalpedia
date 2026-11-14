@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_own_report_transfers
 -- name    : SecondBestTrade.HalfEfficiency.own_report_transfers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:58.270906+00:00
 -- url     : https://prove2.me/theorems/368f48df-444b-4c67-80fd-01a7e1a887a0

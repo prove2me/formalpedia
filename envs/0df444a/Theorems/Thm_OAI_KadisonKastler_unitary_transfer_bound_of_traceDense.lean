@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_unitary_transfer_bound_of_traceDense
 -- name    : OAI.KadisonKastler.unitary_transfer_bound_of_traceDense
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:13:33.979498+00:00
 -- url     : https://prove2.me/theorems/1f50b4d3-aefb-4e5a-a202-54b801ccceea

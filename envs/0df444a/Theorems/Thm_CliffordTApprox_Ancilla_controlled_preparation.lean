@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_controlled_preparation
 -- name    : CliffordTApprox.Ancilla.controlled_preparation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:24.376295+00:00
 -- url     : https://prove2.me/theorems/03dc2622-ee87-41d4-9895-08e29ec1d48a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AltRegret_eq_2
 -- name    : AltRegret.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:10:51.596696+00:00
 -- url     : https://prove2.me/theorems/ac3084f4-9d60-4cf6-8deb-8e96228fd473

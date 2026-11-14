@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_relative_irreducibility_of_near_increasing_matrices
 -- name    : OAI.KadisonKastler.relative_irreducibility_of_near_increasing_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:43:19.212932+00:00
 -- url     : https://prove2.me/theorems/b1bf2ce4-7586-4053-ad02-063e5d732a30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_zeroSumProb_eq_avg_muHat_pow
 -- name    : SaglamGV.zeroSumProb_eq_avg_muHat_pow
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:50:40.288541+00:00
 -- url     : https://prove2.me/theorems/d6001256-cb0c-4a66-a73f-03b3ceef0bf2

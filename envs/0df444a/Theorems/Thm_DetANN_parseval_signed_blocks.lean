@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_parseval_signed_blocks
 -- name    : DetANN.parseval_signed_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:26:23.550616+00:00
 -- url     : https://prove2.me/theorems/bcc46c65-416f-4cc2-ba6d-d573e7fd8f4b

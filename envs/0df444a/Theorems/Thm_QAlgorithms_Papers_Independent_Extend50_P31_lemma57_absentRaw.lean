@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_lemma57_absentRaw
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.lemma57_absentRaw
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T23:03:10.710988+00:00
 -- url     : https://prove2.me/theorems/29bbe8a9-68fc-4172-8883-a4989569402f

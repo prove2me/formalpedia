@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_telescoping_bound
 -- name    : BilateralProfit.telescoping_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:22:06.178147+00:00
 -- url     : https://prove2.me/theorems/ff2257f2-7cbe-4ec0-9bd1-1f9ba13d9c78

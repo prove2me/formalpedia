@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonKastler.constructed_exists_normalizing_representation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:15:55.810953+00:00
 -- url     : https://prove2.me/submissions/7cb11934-69d4-42e3-bc06-86bdee240100
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Algebra.Basic

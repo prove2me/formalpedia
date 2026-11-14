@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_atomic_source_uniform_chord_DCT_certificate
 -- name    : AvramDividend.Classical.avram_chat24_atomic_source_uniform_chord_DCT_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:12:26.11591+00:00
 -- url     : https://prove2.me/theorems/bc5cda2c-bddd-467e-8041-f44b4ef03309

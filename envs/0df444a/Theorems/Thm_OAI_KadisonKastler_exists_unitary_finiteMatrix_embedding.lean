@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_unitary_finiteMatrix_embedding
 -- name    : OAI.KadisonKastler.exists_unitary_finiteMatrix_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:42:57.462196+00:00
 -- url     : https://prove2.me/theorems/ba54f5bb-884e-415f-af74-716f6559fedc

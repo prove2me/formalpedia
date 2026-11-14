@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ZeroFreeRRG.Hardcore.hardcore_interior_conditions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @wcysai
 -- created : 2026-11-13T05:10:24.01531+00:00
 -- url     : https://prove2.me/submissions/82ddea07-a8bb-4375-9a1d-b9dfa01aefd3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ZeroFreeRRG_Hardcore_weak_ks_from_variational

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AltRegret_theorem_5
 -- name    : AltRegret.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:10:04.768721+00:00
 -- url     : https://prove2.me/theorems/16f79b06-5bb7-4f0c-8b73-de11aba43dbe

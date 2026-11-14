@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_lemma_3_4_shortenings
 -- name    : ProxGapTight.lemma_3_4_shortenings
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:57:06.830843+00:00
 -- url     : https://prove2.me/theorems/28b4bdd7-d037-44f6-ab32-64791af40998

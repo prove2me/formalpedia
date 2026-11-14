@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_chat24_uniform_step_quadrature_core
 -- name    : avram_chat24_uniform_step_quadrature_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:48:07.082202+00:00
 -- url     : https://prove2.me/theorems/ee77b723-915c-408a-bf9f-ce2dc9381fe8

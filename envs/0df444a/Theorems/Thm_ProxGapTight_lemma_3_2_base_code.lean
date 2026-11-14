@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_lemma_3_2_base_code
 -- name    : ProxGapTight.lemma_3_2_base_code
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:52:05.077364+00:00
 -- url     : https://prove2.me/theorems/8b17302b-2bb4-4e2b-b6c0-575ec3416c5d

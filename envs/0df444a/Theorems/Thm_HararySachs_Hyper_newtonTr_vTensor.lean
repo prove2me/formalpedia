@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_newtonTr_vTensor
 -- name    : HararySachs.Hyper.newtonTr_vTensor
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-12T20:26:08.458205+00:00
 -- url     : https://prove2.me/theorems/bbec97f7-5a73-441a-8c86-f56e7ba70cf9

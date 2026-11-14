@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.AtomicTriangular.FiniteCertificate.taylorRowBox_mem_eu
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T21:25:04.1886+00:00
 -- url     : https://prove2.me/submissions/5dd58ab1-ce4b-4863-8c28-9e0c52d4838b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ334E023

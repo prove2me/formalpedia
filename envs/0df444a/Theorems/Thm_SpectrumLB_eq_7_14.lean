@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectrumLB_eq_7_14
 -- name    : SpectrumLB.eq_7_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:37:37.13297+00:00
 -- url     : https://prove2.me/theorems/09df152f-c750-44df-9bb7-ff699815a326

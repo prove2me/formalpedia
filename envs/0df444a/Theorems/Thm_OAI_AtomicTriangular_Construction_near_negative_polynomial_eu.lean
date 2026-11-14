@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_Construction_near_negative_polynomial_eu
 -- name    : OAI.AtomicTriangular.Construction.near_negative_polynomial_eu
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:12:29.623437+00:00
 -- url     : https://prove2.me/theorems/210d03d7-04e1-45ab-a2c8-f89473ab74db

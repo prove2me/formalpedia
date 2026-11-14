@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_gammaKS_pos_and_lower
 -- name    : SaglamGV.gammaKS_pos_and_lower
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:44.354205+00:00
 -- url     : https://prove2.me/theorems/dbc9930d-d9fc-4212-9a3a-5b6908ab74ba

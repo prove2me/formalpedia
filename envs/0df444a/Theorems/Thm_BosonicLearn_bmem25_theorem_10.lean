@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_bmem25_theorem_10
 -- name    : BosonicLearn.bmem25_theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:34:22.504534+00:00
 -- url     : https://prove2.me/theorems/864c1313-9a70-4a56-b7e0-29e7e72109d2

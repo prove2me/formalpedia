@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_circuit_sum_rank
 -- name    : SaglamGV.circuit_sum_rank
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:10.958423+00:00
 -- url     : https://prove2.me/theorems/ba8db834-1fb8-47c1-9f3a-3786f6be2960

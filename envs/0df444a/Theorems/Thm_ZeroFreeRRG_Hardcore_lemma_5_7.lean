@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_lemma_5_7
 -- name    : ZeroFreeRRG.Hardcore.lemma_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:37:44.281185+00:00
 -- url     : https://prove2.me/theorems/c9d9b6dd-69eb-4c34-aa7e-a4646dd10ce9

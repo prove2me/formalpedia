@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_newton_traces
 -- name    : HararySachs.Hyper.newton_traces
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-12T05:16:50.809239+00:00
 -- url     : https://prove2.me/theorems/7444bf9e-730b-41ac-a481-590e284ab66f

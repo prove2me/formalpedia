@@ -373,7 +373,7 @@
 {"parent": "BianchiIX.normalized_core_local_prefix", "child": "BianchiIX_Dynamics_CoreEntry", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.normalizedConstraintVolume_flow", "child": "BianchiIX_Dynamics_SectionFlux", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.normalizedConstraintVolume_flow", "child": "BianchiIX_Dynamics_FlowTransport", "via": ["solution", "statement"]}
-{"parent": "AltRegret.eq_2", "child": "AltRegret_potential", "via": ["statement"]}
+{"parent": "AltRegret.eq_2", "child": "AltRegret_potential", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.room_le_aux", "child": "CountedRecursion_LevelBound", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.room_le_aux", "child": "CountedRecursion_RoomWithin", "via": ["solution", "statement"]}
 {"parent": "RankOneSK_resX", "child": "SKHighTemperature", "via": ["statement"]}
@@ -2143,7 +2143,7 @@
 {"parent": "ConstrSOSP_fFrame", "child": "ConstrSOSP_cornerGrad", "via": ["statement"]}
 {"parent": "ConstrSOSP_fFrame", "child": "ConstrSOSP_cellInterp", "via": ["statement"]}
 {"parent": "ConstrSOSP_fFrame", "child": "ConstrSOSP_gridN", "via": ["statement"]}
-{"parent": "BilateralProfit.eq_17", "child": "BilateralProfit_SellerTree", "via": ["statement"]}
+{"parent": "BilateralProfit.eq_17", "child": "BilateralProfit_SellerTree", "via": ["solution", "statement"]}
 {"parent": "PolymatroidCover_IsValidSeq", "child": "PolymatroidCover_IsBlockingSet", "via": ["statement"]}
 {"parent": "PolymatroidCover_IsValidSeq", "child": "PolymatroidCover_IsAddingPair", "via": ["statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.exp_neg_two_le_one_seventh", "child": "QEC_Coding_FiberBundle_RandomBase", "via": ["solution", "statement"]}
@@ -4652,7 +4652,7 @@
 {"parent": "SplitSat.stack_stepN", "child": "SplitSat_Leaf", "via": ["solution", "statement"]}
 {"parent": "SplitSat.stack_stepN", "child": "SplitSat_Sizes", "via": ["solution", "statement"]}
 {"parent": "SplitSat.stack_stepN", "child": "WidthK.InvK.step", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.theorem_4_1_regret_bound", "child": "BilateralProfit_Algorithm1", "via": ["statement"]}
+{"parent": "BilateralProfit.theorem_4_1_regret_bound", "child": "BilateralProfit_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "FlexibleNRM_IsApproxPolicy", "child": "FlexibleNRM_vfa", "via": ["statement"]}
 {"parent": "FlexibleNRM_IsApproxPolicy", "child": "FlexibleNRM_assortmentValue", "via": ["statement"]}
 {"parent": "RecursionToBound.planAt_polyT", "child": "VariableBound_Cert_Top", "via": ["solution", "statement"]}
@@ -8246,8 +8246,8 @@
 {"parent": "AvramDividend.Classical.avram_ubv_hor3_original_all_n_zero_horizon_pointwise_full_stieltjes_le", "child": "AvramDividend.Classical.avram_wave7_11_zero_horizon_full_stieltjes_eq_initial_atom", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_hor3_original_all_n_zero_horizon_pointwise_full_stieltjes_le", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_hor3_original_all_n_zero_horizon_pointwise_full_stieltjes_le", "child": "AvramDividend.Classical.avram_ubv_hor3_original_initial_right_dividend_atom_le_hjb", "via": ["solution", "statement"]}
-{"parent": "GlobalSinkhorn.scalingRadius_attained", "child": "GlobalSinkhorn_IsPosDiagScaling", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.scalingRadius_attained", "child": "GlobalSinkhorn_scalingRadius", "via": ["statement"]}
+{"parent": "GlobalSinkhorn.scalingRadius_attained", "child": "GlobalSinkhorn_IsPosDiagScaling", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.scalingRadius_attained", "child": "GlobalSinkhorn_scalingRadius", "via": ["solution", "statement"]}
 {"parent": "HodgeComputerOffPaired", "child": "DiamondCertificate", "via": ["statement"]}
 {"parent": "OAI.SevenEighths.Continuation.nonzero_of_common_signal", "child": "OAI_NumberTheory_DirichletL_Continuation", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.Continuation.nonzero_of_common_signal", "child": "OAI_NumberTheory_DirichletL_Supremum", "via": ["solution", "statement"]}
@@ -10807,7 +10807,7 @@
 {"parent": "BianchiIX_Analysis_MatchingKernelVariation", "child": "BianchiIX_Analysis_MatchingKernelDifferential", "via": ["statement"]}
 {"parent": "BianchiIX_Analysis_MatchingKernelVariation", "child": "BianchiIX_Algebra_MatchingPhase", "via": ["statement"]}
 {"parent": "BianchiIX_Analysis_MatchingKernelVariation", "child": "BianchiIX_Analysis_MatchingPhaseWeighted", "via": ["statement"]}
-{"parent": "BilateralProfit.running_time", "child": "BilateralProfit_Algorithm1", "via": ["statement"]}
+{"parent": "BilateralProfit.running_time", "child": "BilateralProfit_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.brute_poly", "child": "CountedRecursion_PolySolverData", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.brute_poly", "child": "ToTuring_Poly_Brute", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.brute_poly", "child": "CountedRecursion_PolySolver", "via": ["solution", "statement"]}
@@ -11471,8 +11471,8 @@
 {"parent": "QEC.Semantics.Davies.actualFrequency_of_eigenoperator", "child": "QEC_Semantics_Dynamics_Davies_Hamiltonian", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.actualFrequency_of_eigenoperator", "child": "QEC_Semantics_Dynamics_Davies_FrequencyLocality", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.actualFrequency_of_eigenoperator", "child": "QEC_Semantics_Core_SubsystemOperatorAlgebra", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.eq_12", "child": "RegretBandits_Stochastic_klBernoulli", "via": ["statement"]}
-{"parent": "BilateralProfit.eq_12", "child": "BilateralProfit_Analysis", "via": ["statement"]}
+{"parent": "BilateralProfit.eq_12", "child": "RegretBandits_Stochastic_klBernoulli", "via": ["solution", "statement"]}
+{"parent": "BilateralProfit.eq_12", "child": "BilateralProfit_Analysis", "via": ["solution", "statement"]}
 {"parent": "FirstOrderFG.eq_23", "child": "FirstOrderFG_ltilde", "via": ["statement"]}
 {"parent": "FirstOrderFG.eq_23", "child": "FirstOrderFG_StronglyObservable", "via": ["statement"]}
 {"parent": "FirstOrderFG.eq_23", "child": "FirstOrderFG_epsFix", "via": ["statement"]}
@@ -12031,8 +12031,8 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3363_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3363_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
 {"parent": "HodgeComputer.DenseRational.certificate", "child": "HodgeComputerDenseRational", "via": ["solution", "statement"]}
-{"parent": "HananyPuder.tendsto_uniformExp_trace_youngAct_of_isNonPower", "child": "StrongConvG4", "via": ["statement"]}
-{"parent": "HananyPuder.tendsto_uniformExp_trace_youngAct_of_isNonPower", "child": "StrongConv", "via": ["statement"]}
+{"parent": "HananyPuder.tendsto_uniformExp_trace_youngAct_of_isNonPower", "child": "StrongConvG4", "via": ["solution", "statement"]}
+{"parent": "HananyPuder.tendsto_uniformExp_trace_youngAct_of_isNonPower", "child": "StrongConv", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.transStep_r4_5_eq_e", "child": "OAIQ098E031", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.projectiveDenom_eq", "child": "BianchiIX_Algebra_Coordinates", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.foldRange_within", "child": "QueryMachines_CombRuns", "via": ["solution", "statement"]}
@@ -15929,7 +15929,7 @@
 {"parent": "SpatialSorting_Zres", "child": "SpatialSorting_extendBy", "via": ["statement"]}
 {"parent": "SpatialSorting_Zres", "child": "SpatialSorting_HV", "via": ["statement"]}
 {"parent": "BianchiIX.InverseBranchTree.toRoot_nil", "child": "BianchiIX_Statistics_BranchTree", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.telescoping_bound", "child": "BilateralProfit_Algorithm1", "via": ["statement"]}
+{"parent": "BilateralProfit.telescoping_bound", "child": "BilateralProfit_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3173_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3173_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3173_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
@@ -16716,7 +16716,7 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.field_finrank", "child": "QEC_Coding_AlgebraicGeometry_Towers_Divisors", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.field_finrank", "child": "QEC_Coding_AlgebraicGeometry_Towers_BaseParameter", "via": ["solution", "statement"]}
 {"parent": "SpinGirth5_pottsDist", "child": "SpinGirth5_Interaction", "via": ["statement"]}
-{"parent": "BilateralProfit.theorem_4_2", "child": "BilateralProfit_Analysis", "via": ["statement"]}
+{"parent": "BilateralProfit.theorem_4_2", "child": "BilateralProfit_Analysis", "via": ["solution", "statement"]}
 {"parent": "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.smoothBCF_apply", "child": "RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_L2Compactness_Compactness", "via": ["solution", "statement"]}
 {"parent": "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.smoothBCF_apply", "child": "RellichKondrachov_Analysis_FunctionalSpaces_Sobolev_Euclidean_L2Compactness_Smoothing", "via": ["solution", "statement"]}
 {"parent": "IntervalToDynamic_surrogate", "child": "IntervalToDynamic_LossMode", "via": ["statement"]}

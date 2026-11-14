@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCountSampleLLL_insertion_input_simple_edges_balance
 -- name    : GenCountSampleLLL.insertion_input_simple_edges_balance
--- status  : Open
+-- status  : Proved
 -- author  : @wcysai
 -- created : 2026-11-13T05:52:48.169772+00:00
 -- url     : https://prove2.me/theorems/77fb68f8-463f-45da-8386-3ee3944ebe50

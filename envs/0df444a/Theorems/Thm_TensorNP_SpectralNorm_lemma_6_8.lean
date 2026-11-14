@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_SpectralNorm_lemma_6_8
 -- name    : TensorNP.SpectralNorm.lemma_6_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:54.416046+00:00
 -- url     : https://prove2.me/theorems/3f4a7deb-473e-43d8-927a-67923fb2bc9f

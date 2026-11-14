@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_ad21_result_3_3_hyperplanes
 -- name    : ProxGapTight.ad21_result_3_3_hyperplanes
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T18:08:47.151205+00:00
 -- url     : https://prove2.me/theorems/bee7d213-b038-4a60-ae60-2f498ed81ef8

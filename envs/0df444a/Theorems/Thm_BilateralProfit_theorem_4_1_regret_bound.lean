@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_theorem_4_1_regret_bound
 -- name    : BilateralProfit.theorem_4_1_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:22:55.566734+00:00
 -- url     : https://prove2.me/theorems/d08cf74d-f742-4708-9c47-98f98a275144

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_HeldKarp_subtourBound_eq_iSup_heldKarpBound
 -- name    : CombOpt.HeldKarp.subtourBound_eq_iSup_heldKarpBound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:15:24.47498+00:00
 -- url     : https://prove2.me/theorems/76e785b6-f853-474e-940b-2d65cae3e7e0

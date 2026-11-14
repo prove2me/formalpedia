@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.AtomicTriangular.FiniteCertificate.ordinary_sign_0_2_0_eu
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:21:12.511024+00:00
 -- url     : https://prove2.me/submissions/be729942-725e-481c-82d1-2ccb822c8d6f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ334E021

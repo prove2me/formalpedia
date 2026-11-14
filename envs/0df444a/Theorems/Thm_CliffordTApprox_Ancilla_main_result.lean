@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_main_result
 -- name    : CliffordTApprox.Ancilla.main_result
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:37.143123+00:00
 -- url     : https://prove2.me/theorems/8aaedfd3-10d8-4bee-93d0-e4bb7bcd4b97

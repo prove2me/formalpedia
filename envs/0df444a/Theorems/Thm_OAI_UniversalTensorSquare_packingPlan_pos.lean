@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_packingPlan_pos
 -- name    : OAI.UniversalTensorSquare.packingPlan_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:11:31.285802+00:00
 -- url     : https://prove2.me/theorems/394eb60e-8e14-4c96-9e7c-c730053ea977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_factor_of_extreme_signed_derivation_extension
 -- name    : OAI.KadisonKastler.factor_of_extreme_signed_derivation_extension
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:57:39.039567+00:00
 -- url     : https://prove2.me/theorems/612a98b9-1e40-4649-9efb-295ed53b758c

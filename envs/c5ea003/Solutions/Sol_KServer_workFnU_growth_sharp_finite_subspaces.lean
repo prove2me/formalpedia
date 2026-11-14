@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KServer.workFnU_growth_sharp_finite_subspaces
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T23:15:27.623137+00:00
 -- url     : https://prove2.me/submissions/0df04040-4041-4198-9686-1d14cc7fe03e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_KServer_workFnU_initial_stability
 import Theorems.Thm_KServer_workFnU_coalesced_reset

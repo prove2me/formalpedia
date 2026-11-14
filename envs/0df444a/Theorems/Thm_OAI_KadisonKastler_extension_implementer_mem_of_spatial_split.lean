@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_extension_implementer_mem_of_spatial_split
 -- name    : OAI.KadisonKastler.extension_implementer_mem_of_spatial_split
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:58:46.219524+00:00
 -- url     : https://prove2.me/theorems/77f7299a-604c-4bdd-8eb9-85a59b811f81

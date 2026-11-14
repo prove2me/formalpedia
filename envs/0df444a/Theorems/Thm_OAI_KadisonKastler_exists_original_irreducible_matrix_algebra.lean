@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_original_irreducible_matrix_algebra
 -- name    : OAI.KadisonKastler.exists_original_irreducible_matrix_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:46:18.460418+00:00
 -- url     : https://prove2.me/theorems/18179eea-476e-4f05-96f5-610cd2c56da5

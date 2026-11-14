@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CostSharingPNE.Char.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-04T16:33:27.172309+00:00
 -- url     : https://prove2.me/submissions/4fb43026-8685-4362-a44c-ef2be18868e9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_CostSharingPNE_Char_Setting

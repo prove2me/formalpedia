@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_vol_ge_choose_ge
 -- name    : SaglamGV.vol_ge_choose_ge
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:48.057835+00:00
 -- url     : https://prove2.me/theorems/3d7baf40-2ce8-4f2d-91b1-535a985573e3

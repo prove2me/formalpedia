@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_HeldKarp_subtourFeasible_iff_insideFeasible
 -- name    : CombOpt.HeldKarp.subtourFeasible_iff_insideFeasible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:30.33631+00:00
 -- url     : https://prove2.me/theorems/e2cb7025-6ce6-401b-88ed-5e5f5c48d9df

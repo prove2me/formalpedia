@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistMapClust_Main_lemma_3_26
 -- name    : DistMapClust.Main.lemma_3_26
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:04:06.776735+00:00
 -- url     : https://prove2.me/theorems/0bf28d6d-318c-454d-ae8a-58888146e83e

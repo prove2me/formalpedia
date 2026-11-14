@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalSinkhorn_product_bounds_of_radius
 -- name    : GlobalSinkhorn.product_bounds_of_radius
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T04:23:09.406845+00:00
 -- url     : https://prove2.me/theorems/58a52d37-e822-4e62-866f-8c2a2d5ec50e

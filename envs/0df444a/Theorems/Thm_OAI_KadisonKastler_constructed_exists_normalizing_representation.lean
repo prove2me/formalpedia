@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_constructed_exists_normalizing_representation
 -- name    : OAI.KadisonKastler.constructed_exists_normalizing_representation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:13:01.625226+00:00
 -- url     : https://prove2.me/theorems/545a4861-386c-4111-8271-3b2d47f23e94

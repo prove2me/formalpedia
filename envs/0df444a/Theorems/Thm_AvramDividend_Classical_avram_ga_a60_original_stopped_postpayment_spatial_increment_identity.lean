@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a60_original_stopped_postpayment_spatial_increment_identity
 -- name    : AvramDividend.Classical.avram_ga_a60_original_stopped_postpayment_spatial_increment_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:36:11.45519+00:00
 -- url     : https://prove2.me/theorems/ba6a5d76-64b4-4df8-98c1-46cb34152859

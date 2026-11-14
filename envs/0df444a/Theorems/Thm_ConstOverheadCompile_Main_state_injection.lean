@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstOverheadCompile_Main_state_injection
 -- name    : ConstOverheadCompile.Main.state_injection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:01:50.465941+00:00
 -- url     : https://prove2.me/theorems/65140882-87b7-4a98-ac42-41ec1e5a0670

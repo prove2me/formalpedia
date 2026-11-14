@@ -1,0 +1,58 @@
+-- Prove2me | Theorems.Thm_PGDRevision20261113_exact_profile_reduction
+-- name    : PGDRevision20261113.exact_profile_reduction
+-- status  : Proved
+-- author  : @Somehow
+-- created : 2026-11-13T06:24:11.083759+00:00
+-- url     : https://prove2.me/theorems/b4a2818b-e88a-4b19-b714-efb466e89aa9
+-- title:
+--   Exact performance for prescribed Bregman profiles
+-- statement:
+--   Let $I$ be a nonempty open interval, and let $f,g,\phi$ be twice continuously differentiable real functions on $I$. Their scalar curvature profiles satisfy
+--
+--   $$
+--   A=f''\ge0,\qquad B=g''\ge0,\qquad A+B>0,\qquad k=\phi''>0.
+--   $$
+--
+--   Fix $p>0$ and assume that $p\phi'+g'$ maps $I$ onto $\mathbb R$. For each real tilt $\ell$, let $F_\ell(t)=f(t)+g(t)+\ell t$, and define every update by the unique solution $y\in I$ of
+--
+--   $$
+--   p\phi'(y)+g'(y)=p\phi'(x)-f'(x)-\ell.
+--   $$
+--
+--   The profiles, geometry, and inverse stepsize $p$ are fixed across updates; the tilt and initial state vary in the performance criterion. Set
+--
+--   $$
+--   E(t)=\frac{pk(t)-A(t)}{pk(t)+B(t)},\qquad
+--   \rho=\sup_{t\in I}|E(t)|
+--   $$
+--
+--   and, for each integer $N\ge1$,
+--
+--   $$
+--   \Omega_N=
+--   \sup_{\substack{\ell\in\mathbb R,\ x_0\in I\\F_\ell'(x_0)\ne0}}
+--   \frac{|F_\ell'(x_N)|^2}{|F_\ell'(x_0)|^2}.
+--   $$
+--
+--   Then the exact performance at every finite horizon is
+--
+--   $$
+--   \boxed{\Omega_N=\rho^{2N}.}
+--   $$
+--
+--   The equality is understood in the extended nonnegative reals when $\rho=+\infty$. Consequently, minimizing $\rho$ over any admissible family with fixed parameters minimizes the performance criterion for every finite horizon.
+--
+--   This result reduces performance analysis for prescribed profiles to one scalar uniform norm. It concerns exact implicit updates and unrestricted linear tilts.
+--
+--   Source: Exact Residual Bounds and Optimal Geometry Selection for Proximal Gradient Methods, revised reading edition, 13 November 2026, Theorem 4.1, page 10; assumptions and criterion in Section 4.
+--
+--   **Related results.** [Separable profiles (Corollary 4.2)](https://prove2.me/theorems/78750d96-d9de-46a8-8659-77376dd8fedc) · [Finite-feature design (Proposition 4.3)](https://prove2.me/theorems/4dd784f1-031f-48f0-b0d2-951480e5aee4) · [Geometry classification (Theorem 5.1)](https://prove2.me/theorems/7c34b392-dd3f-4671-be5a-26a7d75835ba) · [Parameter localization (Theorem 7.1)](https://prove2.me/theorems/b35f0a31-5173-472e-a00e-338bd545e1ef) · [Entropy-mixture specialization](https://prove2.me/theorems/16d88707-66f2-4072-abc1-4e0089053379)
+--
+--   **Further examples and certificates.** [positive measure entropy extension](https://prove2.me/theorems/cbb9835f-44dc-466c-a418-060ff9eb0673) · [loss matched one step](https://prove2.me/theorems/5cea0578-3f05-4c5f-a562-c9030062bf32)
+-- source:
+--   Author manuscript: Exact Residual Bounds and Optimal Geometry Selection for Proximal Gradient Methods, revised reading edition, 13 November 2026, Theorem 4.1, p. 10; source file sections/04_bregman_framework.tex, label thm:bg_reduction.
+
+import Definitions.Def_PGDRevision20261113_Profile
+open PGDRevision20261113
+
+theorem PGDRevision20261113.exact_profile_reduction : ExactProfileReductionClaim := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_maximal_minor_saturation
 -- name    : FiniteSampleDependence.Rigidity.maximal_minor_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:51:31.092862+00:00
 -- url     : https://prove2.me/theorems/6b13ea8f-e138-4e9d-b087-0446d9cc7976

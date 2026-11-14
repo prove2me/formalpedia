@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_z_measurement_deletes_vertex
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.z_measurement_deletes_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:43:00.357215+00:00
 -- url     : https://prove2.me/theorems/37265998-cecd-4806-8d9f-8903cbc303bc

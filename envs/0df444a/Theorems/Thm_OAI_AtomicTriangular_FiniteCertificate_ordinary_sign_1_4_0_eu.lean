@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_FiniteCertificate_ordinary_sign_1_4_0_eu
 -- name    : OAI.AtomicTriangular.FiniteCertificate.ordinary_sign_1_4_0_eu
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:14:06.147326+00:00
 -- url     : https://prove2.me/theorems/005dc679-c07b-44b7-93dd-0e288d12ec4e

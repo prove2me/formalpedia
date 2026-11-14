@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P15_wholeCycle_timeReversal
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P15.wholeCycle_timeReversal
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:03:55.456959+00:00
 -- url     : https://prove2.me/theorems/735b65ac-053f-4090-bacb-18fcd3737b3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_two_qubit_cz_teleportation
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.two_qubit_cz_teleportation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:33:31.679167+00:00
 -- url     : https://prove2.me/theorems/7c347bd6-4e4f-4dcf-ac0d-17e6db51f71c

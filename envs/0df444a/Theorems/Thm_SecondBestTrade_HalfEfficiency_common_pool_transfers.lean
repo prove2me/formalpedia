@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_common_pool_transfers
 -- name    : SecondBestTrade.HalfEfficiency.common_pool_transfers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:26.257047+00:00
 -- url     : https://prove2.me/theorems/15cc0d58-0dd9-4327-b6df-2498b71b3fa5

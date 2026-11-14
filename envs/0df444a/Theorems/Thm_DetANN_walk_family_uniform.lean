@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_walk_family_uniform
 -- name    : DetANN.walk_family_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:26:32.281387+00:00
 -- url     : https://prove2.me/theorems/89529fb0-2957-4ac3-b9fa-46e5b51a0339

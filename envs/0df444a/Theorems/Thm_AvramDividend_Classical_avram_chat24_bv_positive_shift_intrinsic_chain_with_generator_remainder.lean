@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_positive_shift_intrinsic_chain_with_generator_remainder
 -- name    : AvramDividend.Classical.avram_chat24_bv_positive_shift_intrinsic_chain_with_generator_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T19:27:59.097556+00:00
 -- url     : https://prove2.me/theorems/c7bf36f0-f960-43ea-a5bb-3c2843a7adb3

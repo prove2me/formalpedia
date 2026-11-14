@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_degreeCones151
 -- name    : OAI.UniversalTensorSquare.degreeCones151
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:28:48.578758+00:00
 -- url     : https://prove2.me/theorems/c718009f-fc24-46b1-86d8-c2fbcde69240

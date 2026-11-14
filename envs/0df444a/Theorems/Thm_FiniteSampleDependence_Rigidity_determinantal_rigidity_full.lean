@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteSampleDependence_Rigidity_determinantal_rigidity_full
 -- name    : FiniteSampleDependence.Rigidity.determinantal_rigidity_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:52:41.192195+00:00
 -- url     : https://prove2.me/theorems/660d3590-172a-42c6-ae99-113325d86c13

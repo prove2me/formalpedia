@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_unitary_invariantGroup_embedding_in_algebra
 -- name    : OAI.KadisonKastler.exists_unitary_invariantGroup_embedding_in_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:45:21.622547+00:00
 -- url     : https://prove2.me/theorems/99596ea8-e36d-4e3c-87e7-90537126b4e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_finite_game_uniform_value_bound
 -- name    : KServer.finite_game_uniform_value_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T15:19:19.166494+00:00
 -- url     : https://prove2.me/theorems/6ac76887-fda3-48aa-a3f3-138bfb12b5e4

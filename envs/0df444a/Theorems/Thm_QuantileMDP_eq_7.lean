@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantileMDP_eq_7
 -- name    : QuantileMDP.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:43:01.18292+00:00
 -- url     : https://prove2.me/theorems/c87be95f-6eef-476c-a10b-d6cd4c468698

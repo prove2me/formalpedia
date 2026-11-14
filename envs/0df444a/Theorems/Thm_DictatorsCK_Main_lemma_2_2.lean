@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DictatorsCK_Main_lemma_2_2
 -- name    : DictatorsCK.Main.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T06:32:19.799061+00:00
 -- url     : https://prove2.me/theorems/262e3ce8-318c-4294-8723-aea6f70ba279

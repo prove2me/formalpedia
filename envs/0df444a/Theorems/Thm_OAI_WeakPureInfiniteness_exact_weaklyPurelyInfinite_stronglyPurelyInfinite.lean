@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakPureInfiniteness_exact_weaklyPurelyInfinite_stronglyPurelyInfinite
 -- name    : OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:39.272113+00:00
 -- url     : https://prove2.me/theorems/ddfcfe5b-40c5-4954-8037-be98d4f32a00

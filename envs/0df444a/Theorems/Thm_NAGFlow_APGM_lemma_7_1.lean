@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_APGM_lemma_7_1
 -- name    : NAGFlow.APGM.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:21.502996+00:00
 -- url     : https://prove2.me/theorems/2e195695-adfd-4c41-8cbf-13270a752748

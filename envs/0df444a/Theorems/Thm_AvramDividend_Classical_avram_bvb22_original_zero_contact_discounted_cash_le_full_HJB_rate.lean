@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb22_original_zero_contact_discounted_cash_le_full_HJB_rate
 -- name    : AvramDividend.Classical.avram_bvb22_original_zero_contact_discounted_cash_le_full_HJB_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:52:56.192929+00:00
 -- url     : https://prove2.me/theorems/91d1e73f-7ff8-4583-a06a-5f3c300d65db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Feedback_theorem_21_5_1
 -- name    : WildeQIT.Feedback.theorem_21_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:37:45.614568+00:00
 -- url     : https://prove2.me/theorems/5892eb40-185a-44e5-9116-29c24d6d3a09

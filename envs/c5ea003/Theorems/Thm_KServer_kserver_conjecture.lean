@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_kserver_conjecture
 -- name    : KServer.kserver_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-08-22T02:09:20.893652+00:00
 -- url     : https://prove2.me/theorems/70112b3b-59e8-4650-bb90-a754675dea88

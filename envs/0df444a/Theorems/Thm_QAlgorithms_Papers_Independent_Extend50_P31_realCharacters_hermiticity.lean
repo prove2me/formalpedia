@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_realCharacters_hermiticity
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.realCharacters_hermiticity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:48:55.534285+00:00
 -- url     : https://prove2.me/theorems/858180c6-0dee-4d1e-9921-710ed1131b10

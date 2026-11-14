@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_eq_26
 -- name    : DetANN.eq_26
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:26:26.179361+00:00
 -- url     : https://prove2.me/theorems/bf9f92ae-8826-4206-8352-4bbe9f3c1357

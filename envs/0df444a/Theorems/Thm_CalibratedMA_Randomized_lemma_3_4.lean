@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedMA_Randomized_lemma_3_4
 -- name    : CalibratedMA.Randomized.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T21:27:07.832361+00:00
 -- url     : https://prove2.me/theorems/ba3006fa-6b2c-4892-af48-1c656aa8617a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RvsCert_input_length
 -- name    : RvsCert.input_length
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:41:36.963195+00:00
 -- url     : https://prove2.me/theorems/e0614c46-b2e4-4b6e-a65e-1bfb145f6717

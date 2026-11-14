@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_SpectralNorm_display_22
 -- name    : TensorNP.SpectralNorm.display_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:05.22085+00:00
 -- url     : https://prove2.me/theorems/f7f17c6c-b774-4bc8-bb5b-11e0abb441f6

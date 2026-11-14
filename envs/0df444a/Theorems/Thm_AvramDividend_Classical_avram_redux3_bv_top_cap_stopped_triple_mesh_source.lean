@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux3_bv_top_cap_stopped_triple_mesh_source
 -- name    : AvramDividend.Classical.avram_redux3_bv_top_cap_stopped_triple_mesh_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-05T23:52:31.284633+00:00
 -- url     : https://prove2.me/theorems/0160e7e8-aa45-400e-b501-66aef076f0e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_hardcore_interior_conditions
 -- name    : ZeroFreeRRG.Hardcore.hardcore_interior_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @wcysai
 -- created : 2026-11-13T05:09:54.162195+00:00
 -- url     : https://prove2.me/theorems/e3964d3e-abab-40bd-8217-6e3e99ee0e81

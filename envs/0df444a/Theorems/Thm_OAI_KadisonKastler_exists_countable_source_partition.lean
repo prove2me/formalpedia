@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_countable_source_partition
 -- name    : OAI.KadisonKastler.exists_countable_source_partition
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:07:34.146826+00:00
 -- url     : https://prove2.me/theorems/a8614d03-768c-4f8c-bff5-53405ee4afa8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_minimal_row_family_right_module_of_factorization
 -- name    : OAI.KadisonKastler.minimal_row_family_right_module_of_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:20:46.510827+00:00
 -- url     : https://prove2.me/theorems/7a5f6bb1-d1f0-40fc-9d68-cddf968ac10b

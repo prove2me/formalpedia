@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServerConj_corollary_4_4
 -- name    : KServerConj.corollary_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:51:42.75134+00:00
 -- url     : https://prove2.me/theorems/86f9e9af-8727-41d4-b809-7399b1b59731

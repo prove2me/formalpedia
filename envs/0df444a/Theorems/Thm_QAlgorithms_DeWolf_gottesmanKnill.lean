@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_gottesmanKnill
 -- name    : QAlgorithms.DeWolf.gottesmanKnill
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:43:31.828678+00:00
 -- url     : https://prove2.me/theorems/e261f9b1-265f-46a4-a7d7-708b470686b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DukePrimeDegree_prime_degree_packet_measure_equidistribution_unconditional
 -- name    : OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:36.353716+00:00
 -- url     : https://prove2.me/theorems/d562e878-3b42-4f00-97fb-c8b1e153bfdc

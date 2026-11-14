@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumHMMR_eq_19
 -- name    : QuantumHMMR.eq_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:35:21.6272+00:00
 -- url     : https://prove2.me/theorems/b86876bb-f795-4bd1-950a-53ddae01244a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_trivial
 -- name    : OAI.UniversalTensorSquare.rowSquare_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:23:11.428196+00:00
 -- url     : https://prove2.me/theorems/990267d1-0266-4cce-b170-d4d3c1787c4d

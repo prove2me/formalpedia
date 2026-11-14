@@ -1,0 +1,94 @@
+-- Prove2me | Theorems.Thm_PGDRevision20261113_geometry_classification
+-- name    : PGDRevision20261113.geometry_classification
+-- status  : Open
+-- author  : @Somehow
+-- created : 2026-11-13T06:24:19.205418+00:00
+-- url     : https://prove2.me/theorems/7c34b392-dd3f-4671-be5a-26a7d75835ba
+-- title:
+--   Classification of the optimal Bregman geometry
+-- statement:
+--   Let $A$ be a bounded nonnegative loss-curvature profile that is not identically zero, and let the penalty curvature be $\lambda b$ with $\lambda>0$. Consider either of the following prescribed geometry families.
+--
+--   1. On $I=(-1,1)$, assume $A$ is continuous on $[-1,1]$ and either even or continuously differentiable on $I$. For $\beta\ge1$, set
+--
+--   $$
+--   k_c(t)=\tfrac12\big[(1+t)^{-c}+(1-t)^{-c}\big],
+--   \quad b=k_\beta,\quad c\ge0.
+--   $$
+--
+--   Here the matched exponent is $c_H=\beta$, the ordering feature is $\zeta(t)=|t|$, and its boundary value is $\zeta_\infty=1$.
+--
+--   2. On $I=\mathbb R$, assume $A$ and $b$ are continuously differentiable and
+--
+--   $$
+--   b(0)=1<b(x)\ (x\ne0),\qquad
+--   b'(x)<0\ (x<0),\qquad b'(x)>0\ (x>0),
+--   \qquad b(x)\longrightarrow\infty\ (|x|\longrightarrow\infty).
+--   $$
+--
+--   Set $k_c=b^c$ for $c\ge0$. Here $c_H=1$, $\zeta(x)=\log b(x)$, and $\zeta_\infty=+\infty$.
+--
+--   For $p>0$ define the curvature error and objective
+--
+--   $$
+--   E_{c,p}(x)=\frac{pk_c(x)-A(x)}{pk_c(x)+\lambda b(x)},
+--   \qquad
+--   \rho(c,p)=\sup_{x\in I}|E_{c,p}(x)|.
+--   $$
+--
+--   There is a unique global minimizing pair over $c\ge0$, $p>0$. If $A$ is the positive constant $a$, the pair is $(0,a)$ and its rate is zero.
+--
+--   For nonconstant $A$, write
+--
+--   $$
+--   R=A/b,\quad M=\max_I R,\quad A_{\max}=\sup_I A,\quad
+--   p_H=M/2,\quad r_H=\frac{M}{M+2\lambda}.
+--   $$
+--
+--   Let $p_Q$ denote the unique minimizer for quadratic geometry $c=0$, and let $r_Q=\rho(0,p_Q)>0$. Its existence and uniqueness are part of the result. Define the active-feature sets
+--
+--   $$
+--   \mathcal P_Q=\{\zeta(x):E_{0,p_Q}(x)=r_Q\},\qquad
+--   \mathcal N_Q=\{\zeta(x):E_{0,p_Q}(x)=-r_Q\},
+--   $$
+--
+--   $$
+--   \mathcal Z=\{\zeta_\infty\}\cup\{\zeta(x):A(x)=0\},\qquad
+--   \mathcal S=\{\zeta(x):R(x)=M\}.
+--   $$
+--
+--   The optimal pair and rate satisfy
+--
+--   $$
+--   0\le c_*\le c_H,\qquad M/2\le p_*<A_{\max},
+--   \qquad 0<\rho_*\le r_H<1.
+--   $$
+--
+--   The following classification is necessary and sufficient:
+--
+--   $$
+--   \boxed{
+--   \begin{aligned}
+--   c_*=0&\iff\min\mathcal N_Q\le\max\mathcal P_Q,\\
+--   c_*=c_H&\iff\min\mathcal Z\le\max\mathcal S.
+--   \end{aligned}}
+--   $$
+--
+--   These tests cannot both hold. When neither holds, $0<c_*<c_H$, and the optimum has either three alternating errors at distinct ordered feature values or two opposite errors at distinct states with the same nonminimal feature value. Either contact pattern, together with a global uniform error envelope at a feasible pair and positive rate, certifies the unique optimum. In the interval model the second pattern uses antipodal states and cannot occur when $A$ is even.
+--
+--   Failure of the matched test gives $\rho_*<r_H$ and $p_*>M/2$; failure of the quadratic test gives $\rho_*<r_Q$. The same pair uniquely minimizes the relative-gradient performance at every finite horizon. Restricting $c$ to $[0,C]$ for any $C\ge c_H$ leaves the optimum unchanged.
+--
+--   This classification applies to the two prescribed families with constant parameters and exact implicit updates. Its differentiability assumptions are material in the asymmetric cases.
+--
+--   Source: Exact Residual Bounds and Optimal Geometry Selection for Proximal Gradient Methods, revised reading edition, 13 November 2026, Theorem 5.1, page 13; model assumptions and active-feature sets in Section 5.
+--
+--   **Related results.** [Exact profile performance (Theorem 4.1)](https://prove2.me/theorems/b4a2818b-e88a-4b19-b714-efb466e89aa9) · [Ordered-contact certificate](https://prove2.me/theorems/e6086f79-a060-4960-996c-800464fc7f05) · [Same-feature certificate](https://prove2.me/theorems/de242eb0-14af-49b9-8f96-4f8b07f8e03d) · [Entropy-mixture specialization](https://prove2.me/theorems/16d88707-66f2-4072-abc1-4e0089053379) · [Curvature relation (Corollary 6.3)](https://prove2.me/theorems/569bd574-8d1b-4c8d-8e71-3c2b232c84f0) · [Parameter localization (Theorem 7.1)](https://prove2.me/theorems/b35f0a31-5173-472e-a00e-338bd545e1ef)
+--
+--   **Further examples and certificates.** [exact quadratic geometry example](https://prove2.me/theorems/8f4fd18c-871b-4639-b371-b1b486f45e83) · [exact matched geometry example](https://prove2.me/theorems/e559ae8a-f3b6-4e1f-bc49-a1399603da3e) · [exact asymmetric quadratic geometry example](https://prove2.me/theorems/ee75d7dc-a137-4e44-aea5-b757651ed73f) · [exact asymmetric interior geometry example](https://prove2.me/theorems/dd5937d9-b00d-476e-9484-a2c735ba735d) · [asymmetric regularity counterexample](https://prove2.me/theorems/752d6596-495f-4105-87ce-9be3a15b25eb) · [affine loss nonattainment](https://prove2.me/theorems/50fa751b-c410-4059-9fab-7ac19b6f8dfc)
+-- source:
+--   Author manuscript: Exact Residual Bounds and Optimal Geometry Selection for Proximal Gradient Methods, revised reading edition, 13 November 2026, Theorem 5.1, p. 13; source file sections/05_geometry_classification.tex, label thm:selection.
+
+import Definitions.Def_PGDRevision20261113_Geometry
+open PGDRevision20261113
+
+theorem PGDRevision20261113.geometry_classification : GeometryClassificationClaim := by sorry

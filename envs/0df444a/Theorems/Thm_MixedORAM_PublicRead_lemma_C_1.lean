@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedORAM_PublicRead_lemma_C_1
 -- name    : MixedORAM.PublicRead.lemma_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:45:39.473197+00:00
 -- url     : https://prove2.me/theorems/c36eca1d-6f57-4c3e-9faf-b7d34811e54c

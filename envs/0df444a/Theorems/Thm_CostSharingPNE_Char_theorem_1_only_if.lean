@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Char_theorem_1_only_if
 -- name    : CostSharingPNE.Char.theorem_1_only_if
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-04T16:31:39.772847+00:00
 -- url     : https://prove2.me/theorems/31806850-882b-41f8-9e13-7c874b533220

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_prior_density
 -- name    : SecondBestTrade.HalfEfficiency.prior_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:03.48294+00:00
 -- url     : https://prove2.me/theorems/67d0c446-9a6d-45c4-bb1c-e4790a407da9

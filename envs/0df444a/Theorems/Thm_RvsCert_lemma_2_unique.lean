@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RvsCert_lemma_2_unique
 -- name    : RvsCert.lemma_2_unique
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:46:26.544195+00:00
 -- url     : https://prove2.me/theorems/f00cae9e-3ec0-4e87-9859-34653fc210a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Activation_theorem_24_8_1
 -- name    : WildeQIT.Activation.theorem_24_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T19:14:20.131853+00:00
 -- url     : https://prove2.me/theorems/711963a9-ff84-400f-8a41-f1c48f7a8d0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_finiteFactor_isPrimeAlgebra
 -- name    : OAI.KadisonKastler.finiteFactor_isPrimeAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:56:52.663872+00:00
 -- url     : https://prove2.me/theorems/be3bf483-2775-4316-9810-f46ad19ec15e

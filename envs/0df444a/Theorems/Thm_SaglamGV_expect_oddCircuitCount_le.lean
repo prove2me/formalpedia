@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_expect_oddCircuitCount_le
 -- name    : SaglamGV.expect_oddCircuitCount_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:00.826198+00:00
 -- url     : https://prove2.me/theorems/fa3684b6-6444-4cc9-9c3a-303fd44ef244

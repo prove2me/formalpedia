@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_MatrixNearInclusion_regularTensor_gap
 -- name    : OAI.KadisonKastler.MatrixNearInclusion.regularTensor_gap
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:00:30.655553+00:00
 -- url     : https://prove2.me/theorems/b81899d3-105a-4468-a935-b74047fe4447

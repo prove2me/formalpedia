@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_budget_balance_equivalence
 -- name    : SecondBestTrade.HalfEfficiency.budget_balance_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:04:41.720758+00:00
 -- url     : https://prove2.me/theorems/e309935b-8779-4609-ae68-91e8891c7eb3

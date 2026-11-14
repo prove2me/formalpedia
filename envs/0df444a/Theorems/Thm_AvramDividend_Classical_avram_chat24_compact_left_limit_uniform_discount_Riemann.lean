@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_compact_left_limit_uniform_discount_Riemann
 -- name    : AvramDividend.Classical.avram_chat24_compact_left_limit_uniform_discount_Riemann
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:15:59.613407+00:00
 -- url     : https://prove2.me/theorems/966a885e-1f3b-4988-ade7-7c1ab4049f80

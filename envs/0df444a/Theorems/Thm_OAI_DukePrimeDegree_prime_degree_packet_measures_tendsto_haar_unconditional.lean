@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DukePrimeDegree_prime_degree_packet_measures_tendsto_haar_unconditional
 -- name    : OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:36.499318+00:00
 -- url     : https://prove2.me/theorems/9e89f81a-1fe6-4f19-b23a-02208e93fe90

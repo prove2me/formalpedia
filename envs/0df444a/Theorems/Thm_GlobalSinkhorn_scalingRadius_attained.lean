@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalSinkhorn_scalingRadius_attained
 -- name    : GlobalSinkhorn.scalingRadius_attained
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T04:22:26.991197+00:00
 -- url     : https://prove2.me/theorems/d5844f8c-9cb2-47a9-a77b-85dc004f81b4

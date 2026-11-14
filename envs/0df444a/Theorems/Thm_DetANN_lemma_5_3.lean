@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_lemma_5_3
 -- name    : DetANN.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:26:23.998851+00:00
 -- url     : https://prove2.me/theorems/e41a33b0-44cc-4b4c-b0cd-cb71fdd0d24f

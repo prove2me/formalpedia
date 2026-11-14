@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_chat24_bv_positive_shift_actual_uniform_grid_source_time_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T13:03:06.067469+00:00
 -- url     : https://prove2.me/submissions/377f12ad-210f-4c32-967b-50c8e8c738f2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Filtration
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

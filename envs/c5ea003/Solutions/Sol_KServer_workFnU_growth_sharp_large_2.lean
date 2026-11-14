@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for KServer.workFnU_growth_sharp_large
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-09-07T05:00:40.037572+00:00
 -- url     : https://prove2.me/submissions/adcdc8e0-618a-415e-8b5b-82ff6830f3a4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_KServer_workFnU_growth_sharp_finite_subspaces
 import Theorems.Thm_KServer_growth_bound_of_uniform_finite_subspaces

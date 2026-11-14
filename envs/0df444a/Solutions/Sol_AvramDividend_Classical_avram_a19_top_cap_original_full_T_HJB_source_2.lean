@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_a19_top_cap_original_full_T_HJB_source
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T17:58:51.680649+00:00
 -- url     : https://prove2.me/submissions/cb3eca21-93fd-4edc-a342-a6e7ea207b4b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.Deriv.MeanValue
 import Mathlib.Probability.Process.Filtration

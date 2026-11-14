@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Gramian_off_diagonal_blocks
 -- name    : TensorBTD.Gramian.off_diagonal_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:04.014993+00:00
 -- url     : https://prove2.me/theorems/6e8abc18-6079-4979-b164-ae1f48959c62

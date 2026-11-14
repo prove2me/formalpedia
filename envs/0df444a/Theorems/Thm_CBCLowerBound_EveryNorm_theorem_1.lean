@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CBCLowerBound_EveryNorm_theorem_1
 -- name    : CBCLowerBound.EveryNorm.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:21:52.901598+00:00
 -- url     : https://prove2.me/theorems/7a30133d-cbf7-4b54-8a6e-199453c08d85

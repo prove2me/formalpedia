@@ -42562,7 +42562,7 @@
 {"parent": "SidB.divisibility_sidorenko", "child": "SidB_graph", "via": ["statement"]}
 {"parent": "BirkhoffGlobalSection.radial_contact_curve_derivative", "child": "BirkhoffGlobalSection.contact_variation_preservation_bundle", "via": ["solution", "statement"]}
 {"parent": "Richstein2001.segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper_grp01_c0016_b9", "child": "GoldbachSieve", "via": ["solution", "statement"]}
-{"parent": "CliffordTApprox.Ancilla.controlled_preparation", "child": "CliffordTApprox_Ancilla_Setting", "via": ["statement"]}
+{"parent": "CliffordTApprox.Ancilla.controlled_preparation", "child": "CliffordTApprox_Ancilla_Setting", "via": ["solution", "statement"]}
 {"parent": "RobustBooking.BidPrice.lemma2_closed_forms", "child": "RobustBooking_BidPrice_Controls", "via": ["solution", "statement"]}
 {"parent": "RobustBooking.BidPrice.lemma2_closed_forms", "child": "RobustBooking_BidPrice_Model", "via": ["solution", "statement"]}
 {"parent": "RobustBooking.BidPrice.lemma2_closed_forms", "child": "RobustBooking_BidPrice_Policy", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServerConj_lemma_3_2
 -- name    : KServerConj.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:49:09.141779+00:00
 -- url     : https://prove2.me/theorems/d163b60d-75b6-495a-92ca-da92f9a0ca9f

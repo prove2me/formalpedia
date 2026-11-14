@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProxGapTight.lemma_3_2_base_code
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T06:49:41.001779+00:00
 -- url     : https://prove2.me/submissions/79c6efcd-61cb-4f3e-be3a-37d8908d6aa7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ProxGapTight_Lines

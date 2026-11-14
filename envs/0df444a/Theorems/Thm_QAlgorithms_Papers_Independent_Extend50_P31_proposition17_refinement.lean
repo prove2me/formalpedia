@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_proposition17_refinement
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.proposition17_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:35:26.830733+00:00
 -- url     : https://prove2.me/theorems/038b0181-ccf3-4c7d-b033-89aed14cb41a

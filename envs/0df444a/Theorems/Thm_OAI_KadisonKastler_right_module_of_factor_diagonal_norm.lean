@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_right_module_of_factor_diagonal_norm
 -- name    : OAI.KadisonKastler.right_module_of_factor_diagonal_norm
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:43:55.95821+00:00
 -- url     : https://prove2.me/theorems/e63f4e2d-1e4c-497f-8343-8c491baf53cf

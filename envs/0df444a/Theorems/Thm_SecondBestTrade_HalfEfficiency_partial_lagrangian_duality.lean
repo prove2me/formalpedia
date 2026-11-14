@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_partial_lagrangian_duality
 -- name    : SecondBestTrade.HalfEfficiency.partial_lagrangian_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:55.141856+00:00
 -- url     : https://prove2.me/theorems/189d93ee-b64d-4c93-8b01-ba0d0d1dbb27

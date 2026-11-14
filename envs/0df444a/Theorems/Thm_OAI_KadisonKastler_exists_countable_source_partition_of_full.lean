@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_countable_source_partition_of_full
 -- name    : OAI.KadisonKastler.exists_countable_source_partition_of_full
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:08:50.117527+00:00
 -- url     : https://prove2.me/theorems/90879091-4e65-4100-9cc8-c61b6fb9a4c5

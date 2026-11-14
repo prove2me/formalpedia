@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_merge_split_inequality
 -- name    : StableMSR.Recovery.merge_split_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:37.942516+00:00
 -- url     : https://prove2.me/theorems/7cda8bbb-0e37-4210-a007-25db230c03be

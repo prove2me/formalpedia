@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_redund_theta
 -- name    : SaglamGV.redund_theta
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:12.982233+00:00
 -- url     : https://prove2.me/theorems/a6d8c183-b755-4a8f-a7c2-85032e7965f0

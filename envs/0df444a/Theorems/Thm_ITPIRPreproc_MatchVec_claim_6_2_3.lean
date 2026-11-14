@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ITPIRPreproc_MatchVec_claim_6_2_3
 -- name    : ITPIRPreproc.MatchVec.claim_6_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:12:47.646398+00:00
 -- url     : https://prove2.me/theorems/0ef0f2e8-a87b-4f1f-839c-7e2ea0a35408

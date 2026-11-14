@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_redux6_bv_single_clock_top_cap_expected_budget
 -- name    : AvramDividend.Classical.avram_redux6_bv_single_clock_top_cap_expected_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:23:40.824921+00:00
 -- url     : https://prove2.me/theorems/6211514c-d42e-40d5-bb5e-74ebdd437593

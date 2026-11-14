@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F3SubsetSum_claim_4_14
 -- name    : F3SubsetSum.claim_4_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:30:39.745933+00:00
 -- url     : https://prove2.me/theorems/86c5bc48-7c00-4547-9ab1-bd044608c958

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_positive_shift_strict_prefix_uncompensated_chain
 -- name    : AvramDividend.Classical.avram_chat24_bv_positive_shift_strict_prefix_uncompensated_chain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:42:16.295213+00:00
 -- url     : https://prove2.me/theorems/290bbeb6-ae81-4ece-9a9d-91b8984cfc43

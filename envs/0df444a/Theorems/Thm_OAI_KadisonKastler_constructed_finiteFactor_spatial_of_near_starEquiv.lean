@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_constructed_finiteFactor_spatial_of_near_starEquiv
 -- name    : OAI.KadisonKastler.constructed_finiteFactor_spatial_of_near_starEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:44:36.387903+00:00
 -- url     : https://prove2.me/theorems/8a8b11b7-dc8b-43fc-867f-ded5be581ac6

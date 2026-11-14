@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_useful_duals
 -- name    : SecondBestTrade.HalfEfficiency.useful_duals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:07:17.488644+00:00
 -- url     : https://prove2.me/theorems/32d6c5ab-c64e-4cc5-90fe-216529a27537

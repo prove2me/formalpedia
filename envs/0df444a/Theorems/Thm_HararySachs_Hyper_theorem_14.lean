@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_theorem_14
 -- name    : HararySachs.Hyper.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:28.172679+00:00
 -- url     : https://prove2.me/theorems/31efac57-aae6-4d91-8dad-ace0cd4419e6

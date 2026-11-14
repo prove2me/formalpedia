@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_markov_brothers_integer_grid_v2
 -- name    : markov_brothers_integer_grid_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-05-09T02:17:07.487353+00:00
 -- url     : https://prove2.me/theorems/a7451e14-10e4-4bdb-9430-398db1d683b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_phiPoly_vTensor_eval
 -- name    : HararySachs.Hyper.phiPoly_vTensor_eval
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-13T05:20:43.809011+00:00
 -- url     : https://prove2.me/theorems/b301432a-8e6b-4336-88e2-9ae2c5623822

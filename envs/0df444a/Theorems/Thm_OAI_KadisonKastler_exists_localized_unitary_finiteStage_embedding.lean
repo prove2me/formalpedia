@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_localized_unitary_finiteStage_embedding
 -- name    : OAI.KadisonKastler.exists_localized_unitary_finiteStage_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:46:11.892211+00:00
 -- url     : https://prove2.me/theorems/c41e3386-1440-4953-8ec4-39b0a503381e

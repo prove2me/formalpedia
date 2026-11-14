@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_Construction_global_signs_eu
 -- name    : OAI.AtomicTriangular.Construction.global_signs_eu
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T12:57:21.389213+00:00
 -- url     : https://prove2.me/theorems/1326338a-c8fa-430c-aa31-a861805ba2af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMixGated_ExactReal_eq_12
 -- name    : GaussMixGated.ExactReal.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T15:25:34.719217+00:00
 -- url     : https://prove2.me/theorems/5ea60f0d-5162-4f8d-8158-8bb065cd4d54

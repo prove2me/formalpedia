@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_middle_source_exp_two_second_dris_impossible
 -- name    : OddPerfectNumber.Kernel.middle_source_exp_two_second_dris_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T13:08:08.656485+00:00
 -- url     : https://prove2.me/theorems/d7c23069-4615-4b84-b08d-7fe945395cda

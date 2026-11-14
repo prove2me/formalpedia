@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_reverse_nearInclusion_of_representation_comparison
 -- name    : OAI.KadisonKastler.reverse_nearInclusion_of_representation_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:45:15.000037+00:00
 -- url     : https://prove2.me/theorems/1759da52-8042-4799-bf9c-dd5c6ac99583

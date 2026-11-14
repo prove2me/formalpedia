@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_coisometry_conjugation_error_le
 -- name    : OAI.KadisonKastler.coisometry_conjugation_error_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:53:07.10728+00:00
 -- url     : https://prove2.me/theorems/f14db6d3-735e-4ac3-94ee-d1c3944f572f

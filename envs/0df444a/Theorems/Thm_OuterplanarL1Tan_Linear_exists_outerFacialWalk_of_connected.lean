@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OuterplanarL1Tan_Linear_exists_outerFacialWalk_of_connected
 -- name    : OuterplanarL1Tan.Linear.exists_outerFacialWalk_of_connected
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:50:28.658748+00:00
 -- url     : https://prove2.me/theorems/89d20e8a-a029-4d25-8757-2bd1a7de73ad

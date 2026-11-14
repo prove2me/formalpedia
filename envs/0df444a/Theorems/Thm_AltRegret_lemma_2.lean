@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AltRegret_lemma_2
 -- name    : AltRegret.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T23:59:36.987353+00:00
 -- url     : https://prove2.me/theorems/2088cb35-180f-4f48-949a-a562a4c3cd56

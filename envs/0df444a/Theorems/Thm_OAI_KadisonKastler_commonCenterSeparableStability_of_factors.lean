@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_commonCenterSeparableStability_of_factors
 -- name    : OAI.KadisonKastler.commonCenterSeparableStability_of_factors
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:12:51.748127+00:00
 -- url     : https://prove2.me/theorems/adff3de1-82c4-4fd1-a2ca-ded19b68e8c5

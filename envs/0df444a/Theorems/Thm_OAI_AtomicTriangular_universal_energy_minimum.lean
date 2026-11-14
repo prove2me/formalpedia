@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AtomicTriangular_universal_energy_minimum
 -- name    : OAI.AtomicTriangular.universal_energy_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:22.158256+00:00
 -- url     : https://prove2.me/theorems/e25df6d0-a4c4-47db-8381-50ae96cdbc10

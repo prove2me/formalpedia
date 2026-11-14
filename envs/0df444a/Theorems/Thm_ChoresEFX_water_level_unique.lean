@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoresEFX_water_level_unique
 -- name    : ChoresEFX.water_level_unique
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:05:37.309835+00:00
 -- url     : https://prove2.me/theorems/5df9c767-0f23-43a0-883d-d20d2e1efe31

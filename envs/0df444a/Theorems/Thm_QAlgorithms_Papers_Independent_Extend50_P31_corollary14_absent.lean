@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_corollary14_absent
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.corollary14_absent
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:33:27.438807+00:00
 -- url     : https://prove2.me/theorems/36f2eac8-509f-44c4-b3d6-868be3a095f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NuclearUltrapower_SOS_row_partition_74_ca
 -- name    : OAI.NuclearUltrapower.SOS.row_partition_74_ca
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T20:33:43.535858+00:00
 -- url     : https://prove2.me/theorems/f3254bcd-fce2-4fd0-b073-ac56f7a80818

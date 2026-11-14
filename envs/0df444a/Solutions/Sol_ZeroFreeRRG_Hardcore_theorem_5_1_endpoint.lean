@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ZeroFreeRRG.Hardcore.theorem_5_1_endpoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @wcysai
 -- created : 2026-11-13T04:27:16.476881+00:00
 -- url     : https://prove2.me/submissions/837c92da-6ef8-421a-a69d-92f444200828
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ZeroFreeRRG_Hardcore_lemma_5_7
 import Mathlib

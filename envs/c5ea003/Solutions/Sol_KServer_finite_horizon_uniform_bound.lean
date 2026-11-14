@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KServer.finite_horizon_uniform_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T15:23:31.796939+00:00
 -- url     : https://prove2.me/submissions/9c4725f6-45e3-4e79-9bfd-6b7553c1ff0d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_KServer_finite_game_characterization
 import Theorems.Thm_KServer_finite_game_uniform_value_bound

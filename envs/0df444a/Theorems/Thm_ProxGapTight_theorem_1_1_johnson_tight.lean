@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_theorem_1_1_johnson_tight
 -- name    : ProxGapTight.theorem_1_1_johnson_tight
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:52:40.787179+00:00
 -- url     : https://prove2.me/theorems/c5fafcac-5208-4000-94f9-2cc251556ab5

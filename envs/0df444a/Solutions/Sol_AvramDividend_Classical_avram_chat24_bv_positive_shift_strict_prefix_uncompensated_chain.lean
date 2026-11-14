@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_chat24_bv_positive_shift_strict_prefix_uncompensated_chain
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T00:04:49.223819+00:00
 -- url     : https://prove2.me/submissions/770f619f-7686-45a2-92c6-72ab08e8501f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_chat24_positive_shift_original_uniform_grid_prefix_budget

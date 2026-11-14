@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_WeakOperatorRepresentative_eval_positiveSupport
 -- name    : OAI.KadisonKastler.WeakOperatorRepresentative.eval_positiveSupport
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:03:12.865213+00:00
 -- url     : https://prove2.me/theorems/b16169d9-f108-4994-b671-b53fe5f8db19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NuclearUltrapower_SOS_gramData_roots_ca
 -- name    : OAI.NuclearUltrapower.SOS.gramData_roots_ca
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T16:22:02.55423+00:00
 -- url     : https://prove2.me/theorems/be9ad757-4d4c-4d82-aa84-cf89b9ddc060

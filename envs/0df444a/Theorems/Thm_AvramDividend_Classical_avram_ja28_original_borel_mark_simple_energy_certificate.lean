@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ja28_original_borel_mark_simple_energy_certificate
 -- name    : AvramDividend.Classical.avram_ja28_original_borel_mark_simple_energy_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T18:35:54.122234+00:00
 -- url     : https://prove2.me/theorems/67336b2d-222d-4aed-a5f9-a0193235459e

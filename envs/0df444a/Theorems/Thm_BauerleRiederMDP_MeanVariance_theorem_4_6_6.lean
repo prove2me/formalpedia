@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_MeanVariance_theorem_4_6_6
 -- name    : BauerleRiederMDP.MeanVariance.theorem_4_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:26:29.958282+00:00
 -- url     : https://prove2.me/theorems/8a8b2ce5-b4d5-44cc-b54a-af22d5657a5d

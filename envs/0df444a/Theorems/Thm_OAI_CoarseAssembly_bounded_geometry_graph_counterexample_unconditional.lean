@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CoarseAssembly_bounded_geometry_graph_counterexample_unconditional
 -- name    : OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:27.081313+00:00
 -- url     : https://prove2.me/theorems/8e41c6a0-ddcf-45e8-88ac-38b944d2b7fc

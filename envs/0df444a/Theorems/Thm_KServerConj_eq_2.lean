@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServerConj_eq_2
 -- name    : KServerConj.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:50:32.950854+00:00
 -- url     : https://prove2.me/theorems/426ef823-5683-4843-afbe-c89a20c9c2c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_workFnU_growth_sharp_coalesced_finite
 -- name    : KServer.workFnU_growth_sharp_coalesced_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T23:12:19.653845+00:00
 -- url     : https://prove2.me/theorems/5e15a9b5-13e1-43a2-b284-0d3be0819bd3

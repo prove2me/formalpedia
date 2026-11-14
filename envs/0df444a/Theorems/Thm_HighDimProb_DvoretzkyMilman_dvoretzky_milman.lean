@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_DvoretzkyMilman_dvoretzky_milman
 -- name    : HighDimProb.DvoretzkyMilman.dvoretzky_milman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:14:03.48998+00:00
 -- url     : https://prove2.me/theorems/41ec871d-4337-4927-a407-e1d5304646a6

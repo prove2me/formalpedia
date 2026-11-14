@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_publishedSimpleDerivationInner
 -- name    : OAI.KadisonKastler.publishedSimpleDerivationInner
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:09:52.828901+00:00
 -- url     : https://prove2.me/theorems/c8d263e9-5233-4053-ae96-1015711f3459

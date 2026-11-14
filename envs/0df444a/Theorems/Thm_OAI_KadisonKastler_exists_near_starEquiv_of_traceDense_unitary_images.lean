@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_near_starEquiv_of_traceDense_unitary_images
 -- name    : OAI.KadisonKastler.exists_near_starEquiv_of_traceDense_unitary_images
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:08:07.14007+00:00
 -- url     : https://prove2.me/theorems/ceff2faa-1fb6-45ac-a04f-a642902c9053

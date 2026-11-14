@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProxGapTight.lemma_3_4_shortenings
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T06:13:24.313211+00:00
 -- url     : https://prove2.me/submissions/0b016b66-952b-4bb8-9c6d-7c9ae3395a04
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ProxGapTight_Um

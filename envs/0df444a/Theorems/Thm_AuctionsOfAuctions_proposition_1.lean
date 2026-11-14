@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuctionsOfAuctions_proposition_1
 -- name    : AuctionsOfAuctions.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:27:28.522911+00:00
 -- url     : https://prove2.me/theorems/98cb156e-f326-42fe-a38a-c21859e51a9c

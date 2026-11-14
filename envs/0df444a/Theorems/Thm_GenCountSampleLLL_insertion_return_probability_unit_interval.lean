@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCountSampleLLL_insertion_return_probability_unit_interval
 -- name    : GenCountSampleLLL.insertion_return_probability_unit_interval
--- status  : Open
+-- status  : Proved
 -- author  : @wcysai
 -- created : 2026-11-13T05:52:34.644202+00:00
 -- url     : https://prove2.me/theorems/d84a6e51-1878-4dcb-a2a9-469aca20f8a1

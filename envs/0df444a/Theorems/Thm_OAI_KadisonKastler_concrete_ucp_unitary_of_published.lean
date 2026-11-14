@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_concrete_ucp_unitary_of_published
 -- name    : OAI.KadisonKastler.concrete_ucp_unitary_of_published
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:06:11.406716+00:00
 -- url     : https://prove2.me/theorems/663ef521-6382-446b-9b12-95e5323e7447

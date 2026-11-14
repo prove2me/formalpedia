@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_theorem_3
 -- name    : BosonicLearn.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:40:52.54121+00:00
 -- url     : https://prove2.me/theorems/40fb0006-f630-4bce-92cd-7d0ef4705eef

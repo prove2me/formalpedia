@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RvsCert_theorem_1
 -- name    : RvsCert.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:43:05.55122+00:00
 -- url     : https://prove2.me/theorems/03145fa5-25ad-4a6a-82b5-34bc2715d85f

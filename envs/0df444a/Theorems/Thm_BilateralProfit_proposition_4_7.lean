@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_proposition_4_7
 -- name    : BilateralProfit.proposition_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:19:13.25232+00:00
 -- url     : https://prove2.me/theorems/7e00ddf5-3266-4645-8796-c773771f87d0

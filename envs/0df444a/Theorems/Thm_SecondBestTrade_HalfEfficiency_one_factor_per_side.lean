@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_one_factor_per_side
 -- name    : SecondBestTrade.HalfEfficiency.one_factor_per_side
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:56.425576+00:00
 -- url     : https://prove2.me/theorems/501c027a-45f4-4da4-be90-d5fbbf742f68

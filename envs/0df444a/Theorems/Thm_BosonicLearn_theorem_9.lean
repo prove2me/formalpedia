@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_theorem_9
 -- name    : BosonicLearn.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:41:10.045256+00:00
 -- url     : https://prove2.me/theorems/16731bbd-399e-4e99-8c4c-fdf13648c832

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_prob_subset_ker
 -- name    : SaglamGV.prob_subset_ker
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:17.62059+00:00
 -- url     : https://prove2.me/theorems/b47e2de4-2224-4669-9bf6-5b003725bfce

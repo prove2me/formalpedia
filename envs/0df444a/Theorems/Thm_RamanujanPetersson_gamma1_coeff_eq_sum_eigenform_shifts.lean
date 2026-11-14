@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_gamma1_coeff_eq_sum_eigenform_shifts
 -- name    : RamanujanPetersson.gamma1_coeff_eq_sum_eigenform_shifts
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-13T01:30:17.248951+00:00
 -- url     : https://prove2.me/theorems/fc6bcdec-3c35-4742-a317-508c8ec1163f

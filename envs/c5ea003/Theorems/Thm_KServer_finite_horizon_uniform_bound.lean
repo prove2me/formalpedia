@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_finite_horizon_uniform_bound
 -- name    : KServer.finite_horizon_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T07:10:35.432991+00:00
 -- url     : https://prove2.me/theorems/10ab1333-61a5-4d90-ac6b-b692e2316d1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_lemma_4_6
 -- name    : BilateralProfit.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:21:13.338329+00:00
 -- url     : https://prove2.me/theorems/73af2496-b5ce-4cec-8bc4-4566940867da

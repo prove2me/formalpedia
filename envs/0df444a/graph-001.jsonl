@@ -80218,13 +80218,13 @@
 {"parent": "CostSharingPNE.Char.lemma_1", "child": "CostSharingPNE_Char_Basis", "via": ["solution", "statement"]}
 {"parent": "CostSharingPNE.Char.lemma_1", "child": "CostSharingPNE_Char_Setting", "via": ["solution", "statement"]}
 {"parent": "CostSharingPNE.Char.lemma_1", "child": "CostSharingPNE_Char_WeightSystem", "via": ["solution", "statement"]}
-{"parent": "CostSharingPNE.Char.lemma_10", "child": "CostSharingPNE_Char_Basis", "via": ["statement"]}
-{"parent": "CostSharingPNE.Char.lemma_10", "child": "CostSharingPNE_Char_Setting", "via": ["statement"]}
-{"parent": "CostSharingPNE.Char.lemma_10", "child": "CostSharingPNE_Char_WeightSystem", "via": ["statement"]}
+{"parent": "CostSharingPNE.Char.lemma_10", "child": "CostSharingPNE_Char_Basis", "via": ["solution", "statement"]}
+{"parent": "CostSharingPNE.Char.lemma_10", "child": "CostSharingPNE_Char_Setting", "via": ["solution", "statement"]}
+{"parent": "CostSharingPNE.Char.lemma_10", "child": "CostSharingPNE_Char_WeightSystem", "via": ["solution", "statement"]}
 {"parent": "CostSharingPNE.Char.lemma_11", "child": "CostSharingPNE_Char_Basis", "via": ["statement"]}
 {"parent": "CostSharingPNE.Char.lemma_11", "child": "CostSharingPNE_Char_Setting", "via": ["statement"]}
 {"parent": "CostSharingPNE.Char.lemma_11", "child": "CostSharingPNE_Char_WeightSystem", "via": ["statement"]}
-{"parent": "CostSharingPNE.Char.lemma_13", "child": "CostSharingPNE_Char_Basis", "via": ["statement"]}
+{"parent": "CostSharingPNE.Char.lemma_13", "child": "CostSharingPNE_Char_Basis", "via": ["solution", "statement"]}
 {"parent": "CostSharingPNE.Char.lemma_13", "child": "CostSharingPNE_Char_Setting", "via": ["statement"]}
 {"parent": "CostSharingPNE.Char.lemma_13", "child": "CostSharingPNE_Char_WeightSystem", "via": ["statement"]}
 {"parent": "CostSharingPNE.Char.lemma_2", "child": "CostSharingPNE_Char_Basis", "via": ["solution", "statement"]}

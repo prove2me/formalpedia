@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_SpectralNorm_Tl_max_singular_value
 -- name    : TensorNP.SpectralNorm.Tl_max_singular_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:46.704977+00:00
 -- url     : https://prove2.me/theorems/cec00f2b-7c93-41a6-b30c-11e4e39b9176

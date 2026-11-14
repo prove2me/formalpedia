@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_lemma_4_27
 -- name    : ZeroFreeRRG.Hardcore.lemma_4_27
--- status  : Open
+-- status  : Proved
 -- author  : @wcysai
 -- created : 2026-11-13T04:56:02.463952+00:00
 -- url     : https://prove2.me/theorems/d6c22a99-7d28-4f97-af62-57b344b233db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_APGM_eq_117
 -- name    : NAGFlow.APGM.eq_117
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:48.665445+00:00
 -- url     : https://prove2.me/theorems/1f1fc065-2f66-42dc-9bbf-c611c64361ed

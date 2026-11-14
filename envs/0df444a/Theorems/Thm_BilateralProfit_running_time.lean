@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_running_time
 -- name    : BilateralProfit.running_time
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:22:18.304529+00:00
 -- url     : https://prove2.me/theorems/d888a90e-be08-4b7d-84a1-4089d60542e6

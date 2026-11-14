@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_hardcore_parameter_comparison
 -- name    : ZeroFreeRRG.Hardcore.hardcore_parameter_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @wcysai
 -- created : 2026-11-13T03:56:01.2672+00:00
 -- url     : https://prove2.me/theorems/065156bf-70a4-404c-b32e-0efe19587b21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_workFnU_sharp_potential
 -- name    : KServer.workFnU_sharp_potential
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T16:48:01.397+00:00
 -- url     : https://prove2.me/theorems/239a6d8d-9070-46f7-b56d-c9a7c1e8a379

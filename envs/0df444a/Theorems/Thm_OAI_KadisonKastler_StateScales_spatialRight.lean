@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_StateScales_spatialRight
 -- name    : OAI.KadisonKastler.StateScales.spatialRight
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:04:09.848924+00:00
 -- url     : https://prove2.me/theorems/4e3df889-3bb2-4941-9282-9846f17cab85

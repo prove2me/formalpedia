@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlottoFPTAS_Main_rounding_bound
 -- name    : BlottoFPTAS.Main.rounding_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:39:59.147196+00:00
 -- url     : https://prove2.me/theorems/e922e50b-7249-48dc-b4b5-dbe86f2901e1

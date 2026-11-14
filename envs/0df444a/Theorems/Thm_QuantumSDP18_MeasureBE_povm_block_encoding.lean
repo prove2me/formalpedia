@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_MeasureBE_povm_block_encoding
 -- name    : QuantumSDP18.MeasureBE.povm_block_encoding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:23.050639+00:00
 -- url     : https://prove2.me/theorems/15991233-ec18-44ab-87a5-36cdee8ed74e

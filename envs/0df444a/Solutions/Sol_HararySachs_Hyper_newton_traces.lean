@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HararySachs.Hyper.newton_traces
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @milia
 -- created : 2026-11-12T20:26:31.131239+00:00
 -- url     : https://prove2.me/submissions/2226fc51-d54a-4c49-9e77-a14429b4d75b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HararySachs_Hyper_CharPoly

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_eq_207
 -- name    : BosonicLearn.eq_207
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:28:53.934201+00:00
 -- url     : https://prove2.me/theorems/0168decc-6a98-4f02-8f06-02971a2888df

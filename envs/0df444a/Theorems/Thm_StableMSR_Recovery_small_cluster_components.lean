@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_small_cluster_components
 -- name    : StableMSR.Recovery.small_cluster_components
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:49.170643+00:00
 -- url     : https://prove2.me/theorems/d317a8e9-a283-4d7e-855b-39aeb33e04a0

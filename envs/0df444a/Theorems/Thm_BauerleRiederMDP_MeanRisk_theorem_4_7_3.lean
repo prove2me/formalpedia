@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BauerleRiederMDP_MeanRisk_theorem_4_7_3
 -- name    : BauerleRiederMDP.MeanRisk.theorem_4_7_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:29:12.765015+00:00
 -- url     : https://prove2.me/theorems/8c40cfb2-72de-45fa-a878-520d57d45e13

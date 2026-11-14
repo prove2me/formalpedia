@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HararySachs.Hyper.phiPoly_vTensor_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @milia
 -- created : 2026-11-13T05:21:08.62379+00:00
 -- url     : https://prove2.me/submissions/a3d2bdd8-5e2a-4eaa-a5ca-dbb04364dfd9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HararySachs_Hyper_CharPoly

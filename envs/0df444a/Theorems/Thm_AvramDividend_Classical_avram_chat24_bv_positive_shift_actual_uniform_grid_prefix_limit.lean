@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_positive_shift_actual_uniform_grid_prefix_limit
 -- name    : AvramDividend.Classical.avram_chat24_bv_positive_shift_actual_uniform_grid_prefix_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:57:50.007504+00:00
 -- url     : https://prove2.me/theorems/8ee5bfc7-c7d8-44b0-904f-a68e4becd13f

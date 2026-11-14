@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_center_separation
 -- name    : StableMSR.Recovery.center_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:30.290887+00:00
 -- url     : https://prove2.me/theorems/d57e5d11-2ab0-4181-9935-0cf7ccdcb0af

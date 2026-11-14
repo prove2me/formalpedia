@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_regularCore_not_factor_of_trivial
 -- name    : OAI.KadisonKastler.regularCore_not_factor_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:10:43.939143+00:00
 -- url     : https://prove2.me/theorems/386adcef-592b-476d-ae70-a155570a9037

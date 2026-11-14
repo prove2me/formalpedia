@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_FullMatrixCorner_exists_injective_algebra_containing_entries
 -- name    : OAI.KadisonKastler.FullMatrixCorner.exists_injective_algebra_containing_entries
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:59:51.616738+00:00
 -- url     : https://prove2.me/theorems/915f974f-8b45-46df-9586-7d2e7f921590

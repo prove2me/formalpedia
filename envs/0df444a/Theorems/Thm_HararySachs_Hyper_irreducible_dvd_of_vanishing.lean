@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_irreducible_dvd_of_vanishing
 -- name    : HararySachs.Hyper.irreducible_dvd_of_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-13T05:20:30.322855+00:00
 -- url     : https://prove2.me/theorems/6882557a-eab8-4ee9-bcf9-2212a5615d8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb22_original_zero_barrier_admissible_at_any_positive_cap
 -- name    : AvramDividend.Classical.avram_bvb22_original_zero_barrier_admissible_at_any_positive_cap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:06:09.207686+00:00
 -- url     : https://prove2.me/theorems/cd8f52c6-db8d-4b9b-8d4f-915d342ebd23

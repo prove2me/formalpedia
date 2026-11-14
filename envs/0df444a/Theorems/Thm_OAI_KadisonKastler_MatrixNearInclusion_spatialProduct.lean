@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_MatrixNearInclusion_spatialProduct
 -- name    : OAI.KadisonKastler.MatrixNearInclusion.spatialProduct
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:04:00.787198+00:00
 -- url     : https://prove2.me/theorems/1518abbf-e4c9-4a6b-a051-645fcecf8faa

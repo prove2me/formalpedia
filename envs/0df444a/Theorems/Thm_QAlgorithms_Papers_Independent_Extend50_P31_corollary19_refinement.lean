@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_corollary19_refinement
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.corollary19_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:36:20.760626+00:00
 -- url     : https://prove2.me/theorems/a6ab8814-9e91-4be2-86f6-a243d6df4ca9

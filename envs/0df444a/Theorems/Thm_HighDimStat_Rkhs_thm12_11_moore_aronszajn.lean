@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Rkhs_thm12_11_moore_aronszajn
 -- name    : HighDimStat.Rkhs.thm12_11_moore_aronszajn
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:27:02.002867+00:00
 -- url     : https://prove2.me/theorems/d1739662-4990-4d0e-a884-fd50d694d589

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ZeroFreeRRG.Hardcore.lemma_4_17
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @wcysai
 -- created : 2026-11-13T03:57:04.360346+00:00
 -- url     : https://prove2.me/submissions/fba9fab4-75b0-4fa4-97cb-03a53bd085b2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ZeroFreeRRG_Hardcore_weak_ks_from_variational

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BorsukUlam_exists_eq_neg
 -- name    : BorsukUlam.exists_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T10:58:16.212417+00:00
 -- url     : https://prove2.me/theorems/12581ef6-b00e-492c-b4b2-85a07a431bda

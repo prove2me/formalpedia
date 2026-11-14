@@ -5929,7 +5929,7 @@
 {"parent": "CorruptRobustRL.Supervised.proposition4_2_visitation_ratio_bound", "child": "CorruptRobustRL_Supervised_Algorithm", "via": ["solution", "statement"]}
 {"parent": "CorruptRobustRL.Supervised.proposition4_2_visitation_ratio_bound", "child": "CorruptRobustRL_Supervised_MDP", "via": ["solution", "statement"]}
 {"parent": "PigeonholeDesign.Upper.lemma_3", "child": "PigeonholeDesign_Upper_Setting", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Nannicini.qaoa_approximates_adiabatic", "child": "QAlgorithms_Defs_Adiabatic", "via": ["statement"]}
+{"parent": "QAlgorithms.Nannicini.qaoa_approximates_adiabatic", "child": "QAlgorithms_Defs_Adiabatic", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Nannicini.adiabatic_theorem_linInterp", "child": "QAlgorithms_Defs_Adiabatic", "via": ["solution", "statement"]}
 {"parent": "TPG_Estimators", "child": "TPG_Model", "via": ["statement"]}
 {"parent": "actuarial_d_arrearsJoint", "child": "actuarial_d_arrearsValue", "via": ["statement"]}
@@ -14478,7 +14478,7 @@
 {"parent": "ObsCostMDP.WellPosed.proposition_3_8", "child": "ObsCostMDP_WellPosed_QVI", "via": ["solution", "statement"]}
 {"parent": "ObsCostMDP.WellPosed.proposition_3_8", "child": "ObsCostMDP_WellPosed_Truncated", "via": ["solution", "statement"]}
 {"parent": "CorruptRobustRL_ElimLB_Setting", "child": "CorruptRobustRL_ElimLB_MDP", "via": ["statement"]}
-{"parent": "QAlgorithms.DeWolf.gottesmanKnill", "child": "QAlgorithms_Defs_Stabilizer", "via": ["statement"]}
+{"parent": "QAlgorithms.DeWolf.gottesmanKnill", "child": "QAlgorithms_Defs_Stabilizer", "via": ["solution", "statement"]}
 {"parent": "IntMul.HvdH.lip_tensor", "child": "IntMul_HvdH_FPApprox", "via": ["solution", "statement"]}
 {"parent": "PNT_ZeroFree_433_0137_parallel2_1", "child": "PNT_ZeroFree_433_0148", "via": ["statement"]}
 {"parent": "PNT_ZeroFree_433_0137_parallel2_1", "child": "PNT_ZeroFree_433_0275_parallel1", "via": ["statement"]}
@@ -40712,7 +40712,7 @@
 {"parent": "OAI_Combinatorics_Sensitivity_RecursiveSets", "child": "OAI_Combinatorics_Sensitivity_InitialPredicates", "via": ["statement"]}
 {"parent": "AtaBarjesteh23.Workload.lemma_4_i", "child": "AtaBarjesteh23_Workload_Setting", "via": ["solution", "statement"]}
 {"parent": "QuantumSDP18.MeasureBE.povm_block_encoding", "child": "QAlgorithms_Defs_BlockEncoding", "via": ["statement"]}
-{"parent": "QuantumSDP18.MeasureBE.povm_block_encoding", "child": "QuantumSDP18_MeasureBE_Setting", "via": ["statement"]}
+{"parent": "QuantumSDP18.MeasureBE.povm_block_encoding", "child": "QuantumSDP18_MeasureBE_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.HashFamily.trimmedPairEvent_bound", "child": "ThreeSum.HashFamily.heavyPairEvent_bound", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.HashFamily.trimmedPairEvent_bound", "child": "ThreeSum.HashFamily.hashMap_surjective", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.HashFamily.trimmedPairEvent_bound", "child": "ThreeSum1962Source_Bundle01", "via": ["solution", "statement"]}

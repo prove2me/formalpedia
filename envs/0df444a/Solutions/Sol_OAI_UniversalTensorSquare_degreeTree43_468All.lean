@@ -1,0 +1,396 @@
+-- Prove2me | solution 1 for OAI.UniversalTensorSquare.degreeTree43_468All
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-13T08:32:10.657297+00:00
+-- url     : https://prove2.me/submissions/a1ed7eeb-9602-4795-b651-9e5c3e53cbea
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_UniversalTensorSquares
+import Definitions.Def_OAIQ259US021
+import Theorems.Thm_OAI_Saxl_saxl_kronecker_pos
+import Theorems.Thm_OAI_UniversalTensorSquare_degreeTree43_466All
+import Theorems.Thm_OAI_UniversalTensorSquare_degreeTree43_467All
+import Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_compact
+import Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_join
+import Theorems.Thm_OAI_UniversalTensorSquare_sg32
+import Theorems.Thm_OAI_UniversalTensorSquare_sg4930
+import Theorems.Thm_OAI_UniversalTensorSquare_sg7
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Specht_ZeroColumns
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Zero Columns. -/
+
+section
+
+noncomputable section
+namespace Saxl.Columns
+
+lemma sum_fin_val_ite (r i : ℕ) :
+    (∑ j : Fin r, if j.val = i then (1:ℕ) else 0) = if i < r then 1 else 0 := by
+  classical
+  by_cases hi : i < r
+  · rw [ite_eq_left hi, Finset.sum_eq_single (⟨i,hi⟩ : Fin r)]
+    · simp
+    · intro j hj hji
+      exact ite_eq_right (fun h => hji (Fin.ext h))
+    · simp
+  · rw [ite_eq_right hi]
+    apply Finset.sum_eq_zero
+    intro j hj
+    exact ite_eq_right (fun h : (j : ℕ) = i => hi (h ▸ j.isLt))
+
+lemma cells_row_count (rs : List ℕ) (i : ℕ) :
+    (∑ c : Cells rs, if row c = i then (1:ℕ) else 0) = rs.countP (fun h => i < h) := by
+  classical
+  induction rs with
+  | nil => simp [Cells]
+  | cons h rs ih =>
+    rw [show (∑ c : Cells (h :: rs), if row c = i then (1:ℕ) else 0) =
+      (∑ c : Fin h, if c.val = i then (1:ℕ) else 0) +
+        (∑ c : Cells rs, if row c = i then (1:ℕ) else 0) from
+      Fintype.sum_sum_type _]
+    rw [sum_fin_val_ite, ih, List.countP_cons]
+    split_ifs <;> simp_all <;> omega
+
+lemma placed_rowLen {rs : List ℕ} {μ : YoungDiagram} (e : Cells rs ≃ μ.cells)
+    (hr : ∀ c, (e c).val.1 = row c) (i : ℕ) :
+    μ.rowLen i = rs.countP (fun h => i < h) := by
+  classical
+  let E : {c : Cells rs // row c = i} ≃ {c : μ.cells // c.val.1 = i} :=
+    e.subtypeEquiv (fun c => by rw [hr])
+  have hc := Fintype.card_congr (E.trans (rowFiberEquiv μ i))
+  rw [Fintype.card_fin, Fintype.card_subtype, Finset.card_filter, cells_row_count] at hc
+  exact hc.symm
+
+end Saxl.Columns
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Support_SquareSemigroup
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Square Semigroup. -/
+
+section
+
+noncomputable section
+open scoped TensorProduct
+namespace UniversalTensorSquare
+open Saxl Columns
+
+lemma columnShape_diagram (μ : YoungDiagram) :
+    columnShape μ.transpose.rowLens = μ := by
+  obtain ⟨e,hr,_⟩ := columnShape_placement μ.transpose.rowLens
+  apply YoungDiagram.ext
+  ext ⟨i,j⟩
+  simp only [YoungDiagram.mem_cells,YoungDiagram.mem_iff_lt_rowLen]
+  obtain ⟨f,hf,_⟩ := place_columns μ (List.Perm.refl _)
+  rw [placed_rowLen e hr,placed_rowLen f hf]
+
+lemma columnShape_sorted (rs : List ℕ) (hs : rs.SortedGE) (hp : ∀ a ∈ rs, 0 < a) :
+    columnShape rs = (YoungDiagram.ofRowLens rs hs).transpose := by
+  conv_lhs => rw [← YoungDiagram.rowLens_ofRowLens_eq_self hp (hw := hs)]
+  simpa only [YoungDiagram.transpose_transpose] using
+    columnShape_diagram ((YoungDiagram.ofRowLens rs hs).transpose)
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Contraction_RowCertificates
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Row Certificates. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma rowDiagram_eq (rs : List ℕ) (h : GoodRows rs) :
+    rowDiagram rs = YoungDiagram.ofRowLens rs h.1 := by
+  rw [rowDiagram,columnShape_sorted rs h.1 h.2,YoungDiagram.transpose_transpose]
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupLeaves3
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Leaves 3. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sgCert637 : solveCompact 9 (.full [5,4]) (.full [3,3,1,1,1]) (.full [3,3,1,1,1])
+    (certificateEdges [3,3,1,1,1] [3,3,1,1,1] [5,4] (Equiv.refl (Fin 9)) sgB637 sgT637) sgFlag637 = 24 := by
+  decide +kernel
+
+lemma sg637 : RowSquare [5,2,2] [2,2,2,2,1] := by
+  apply rowSquare_compact (n := 9) (cs := [3,3,1,1,1]) (ts := [5,4])
+    (by decide) (by decide) (by decide) (by decide) (by decide) (by decide)
+    rfl rfl sgB637 sgT637 sgFlag637
+  change solveCompact 9 (.full [5,4]) (.full [3,3,1,1,1]) (.full [3,3,1,1,1])
+    (certificateEdges [3,3,1,1,1] [3,3,1,1,1] [5,4] (Equiv.refl (Fin 9)) sgB637 sgT637) sgFlag637 ≠ 0
+  rw [sgCert637]
+  norm_num
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupLeaves1
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Leaves 1. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sgCert88 : solveCompact 6 (.full [4,2]) (.full [3,1,1,1]) (.full [3,1,1,1])
+    (certificateEdges [3,1,1,1] [3,1,1,1] [4,2] (Equiv.refl (Fin 6)) sgB88 sgT88) sgFlag88 = 8 := by
+  decide +kernel
+
+lemma sg88 : RowSquare [4,1,1] [2,2,1,1] := by
+  apply rowSquare_compact (n := 6) (cs := [3,1,1,1]) (ts := [4,2])
+    (by decide) (by decide) (by decide) (by decide) (by decide) (by decide)
+    rfl rfl sgB88 sgT88 sgFlag88
+  change solveCompact 6 (.full [4,2]) (.full [3,1,1,1]) (.full [3,1,1,1])
+    (certificateEdges [3,1,1,1] [3,1,1,1] [4,2] (Equiv.refl (Fin 6)) sgB88 sgT88) sgFlag88 ≠ 0
+  rw [sgCert88]
+  norm_num
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupLocalLeaves
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Local Leaves. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg4 : RowSquare [2,1] [1,1,1] := by
+  have he : rowDiagram [2,1] = (staircase 2) := by
+    rw [rowDiagram_eq _ (by decide)]
+    apply YoungDiagram.ext
+    decide
+  change SquareOccurs (rowDiagram [2,1]) (rowDiagram [1,1,1])
+  have hh : SquareOccurs (staircase 2) (rowDiagram [1,1,1]) :=
+    ⟨3,canonicalTableau _ (staircase_card 2),canonicalTableau _ (rowDiagram_card [1,1,1]),
+      saxl_kronecker_pos 2 (by decide) _ (rowDiagram_card [1,1,1])⟩
+  exact Eq.mpr (congrArg (fun α => SquareOccurs α (rowDiagram [1,1,1])) he) hh
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes0
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 0. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg389 : RowSquare [5,2,1] [2,2,2,1,1] := by
+  exact rowSquare_join (by decide) sg4 sg32
+
+lemma sg448 : RowSquare [3,1,1,1,1,1,1] [5,2,1,1] := by
+  exact rowSquare_join (by decide) sg7 sg88
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes10
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 10. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg4574 : RowSquare [3,3,3,2,1,1,1,1,1,1] [4,4,4,3,2] := by
+  exact rowSquare_join (by decide) sg389 sg637
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes32
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 32. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg13500 : RowSquare [9,7,1,1,1,1,1,1,1,1,1,1] [6,3,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1] := by
+  exact rowSquare_join (by decide) sg448 sg4930
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes72
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 72. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg29645 : RowSquare [12,10,4,3,2,2,2,2,2,2,1,1] [10,7,6,5,3,1,1,1,1,1,1,1,1,1,1,1,1] := by
+  exact rowSquare_join (by decide) sg4574 sg13500
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Finite_DegreeTreeProof43
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Degree Tree Proof 43. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Balance Saxl.Columns
+
+lemma degreeTree43_468All_oai : degreeTree43_468.All (RowSquare [12,10,4,3,2,2,2,2,2,2,1,1]) := by
+  exact ⟨sg29645,degreeTree43_466All,degreeTree43_467All⟩
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.UniversalTensorSquare.degreeTree43_468All_oai := @OAI.UniversalTensorSquare.degreeTree43_468All_oai

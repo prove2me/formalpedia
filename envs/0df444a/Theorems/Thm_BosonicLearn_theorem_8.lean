@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_theorem_8
 -- name    : BosonicLearn.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:34:31.061367+00:00
 -- url     : https://prove2.me/theorems/19432860-99c6-4195-902e-8454109fc0d1

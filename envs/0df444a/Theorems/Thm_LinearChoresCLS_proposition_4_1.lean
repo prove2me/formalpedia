@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_proposition_4_1
 -- name    : LinearChoresCLS.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:47:35.437058+00:00
 -- url     : https://prove2.me/theorems/aa51f759-5813-46f6-9c8c-57650d186537

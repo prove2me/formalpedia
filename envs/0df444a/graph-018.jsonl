@@ -11854,8 +11854,8 @@
 {"parent": "AvramDividend.Classical.avram_p3_2_original_stopped_closed_cash_generator_budget_up_to_mesh_epsilon", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_stopped_closed_cash_generator_budget_up_to_mesh_epsilon", "child": "AvramDividend.Classical.avram_p3_2_original_physical_source_C1_two_errors_joint_mesh_vanish", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_stopped_closed_cash_generator_budget_up_to_mesh_epsilon", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "CostSharingPNE.Char.theorem_1_only_if", "child": "CostSharingPNE_Char_Setting", "via": ["statement"]}
-{"parent": "CostSharingPNE.Char.theorem_1_only_if", "child": "CostSharingPNE_Char_WeightSystem", "via": ["statement"]}
+{"parent": "CostSharingPNE.Char.theorem_1_only_if", "child": "CostSharingPNE_Char_Setting", "via": ["solution", "statement"]}
+{"parent": "CostSharingPNE.Char.theorem_1_only_if", "child": "CostSharingPNE_Char_WeightSystem", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.cw_le", "child": "VariableBound_Net_SizeB", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.cw_le", "child": "PaddedDescent_F_MarkDeg", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.cw_le", "child": "VariableBound_Net_Tests", "via": ["solution", "statement"]}
@@ -43227,24 +43227,24 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaLayout.before", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaLayout", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.Tpl_of_le", "child": "PaddedDescent_F_MarkSums", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.Tpl_of_le", "child": "PaddedDescent_F_Interfaces", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_argmaxPlus", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_HomogeneousOfDegree", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_argmaxMinus", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_bondAfter", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_aMinus", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_optimalPolicy", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_qMinus", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_Lop", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_stateSpace", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_IsPolicy", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_qPlus", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_ConcaveOnE", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_IncreasingOnE", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_V", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_Assumptions", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_Vpi", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_aPlus", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_argmaxPlus", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_HomogeneousOfDegree", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_argmaxMinus", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_bondAfter", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_aMinus", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_optimalPolicy", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_qMinus", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_Lop", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_stateSpace", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_IsPolicy", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_qPlus", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_ConcaveOnE", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_IncreasingOnE", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_V", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_Assumptions", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_Vpi", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.TransactionCosts.theorem_4_5_4", "child": "BauerleRiederMDP_TransactionCosts_Market_aPlus", "via": ["solution", "statement"]}
 {"parent": "Coding.exists_padOcc", "child": "Coding_Occ", "via": ["solution", "statement"]}
 {"parent": "Coding.exists_padOcc", "child": "Eight_ViaGrouping_SatPsi", "via": ["solution", "statement"]}
 {"parent": "Coding.exists_padOcc", "child": "Groundwork.PolyT.all", "via": ["solution", "statement"]}
@@ -48192,9 +48192,9 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound1423_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound1423_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound1423_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.MeanVariance.theorem_4_6_6", "child": "MDPFinance_MeanVariance_MVAuxiliary", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.MeanVariance.theorem_4_6_6", "child": "BauerleRiederMDP_MeanVariance_dcoef", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.MeanVariance.theorem_4_6_6", "child": "MDPFinance_MeanVariance_MVMarket", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.MeanVariance.theorem_4_6_6", "child": "MDPFinance_MeanVariance_MVAuxiliary", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.MeanVariance.theorem_4_6_6", "child": "BauerleRiederMDP_MeanVariance_dcoef", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.MeanVariance.theorem_4_6_6", "child": "MDPFinance_MeanVariance_MVMarket", "via": ["solution", "statement"]}
 {"parent": "UniformInK_Cert_Sparsify", "child": "Groundwork.PolyT.filter", "via": ["statement"]}
 {"parent": "UniformInK_Cert_Sparsify", "child": "ToTuring_Lib_Nat2", "via": ["statement"]}
 {"parent": "UniformInK_Cert_Sparsify", "child": "Groundwork.PolyT.filterMap", "via": ["statement"]}
@@ -51105,9 +51105,9 @@
 {"parent": "Groundwork.Prog.NetE.foldr_max_mem", "child": "ToTuring_Poly_Spec", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Prog.NetE.foldr_max_mem", "child": "StepMachines_Prog_NetProg", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Prog.NetE.foldr_max_mem", "child": "ToTuring_Poly_NetFun", "via": ["solution", "statement"]}
-{"parent": "BauerleRiederMDP.MeanRisk.theorem_4_7_3", "child": "MDPFinance_MeanVariance_MeanRiskMarket", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.MeanRisk.theorem_4_7_3", "child": "BauerleRiederMDP_MeanRisk_IsOptimalMR", "via": ["statement"]}
-{"parent": "BauerleRiederMDP.MeanRisk.theorem_4_7_3", "child": "BauerleRiederMDP_MeanRisk_valueMR", "via": ["statement"]}
+{"parent": "BauerleRiederMDP.MeanRisk.theorem_4_7_3", "child": "MDPFinance_MeanVariance_MeanRiskMarket", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.MeanRisk.theorem_4_7_3", "child": "BauerleRiederMDP_MeanRisk_IsOptimalMR", "via": ["solution", "statement"]}
+{"parent": "BauerleRiederMDP.MeanRisk.theorem_4_7_3", "child": "BauerleRiederMDP_MeanRisk_valueMR", "via": ["solution", "statement"]}
 {"parent": "BauerleRiederMDP_TransactionCosts_Market_qPlus", "child": "BauerleRiederMDP_TransactionCosts_Market_aPlus", "via": ["statement"]}
 {"parent": "BauerleRiederMDP_TransactionCosts_Market_qPlus", "child": "BauerleRiederMDP_TransactionCosts_Market", "via": ["statement"]}
 {"parent": "LiquidWelfareFPA_bhat", "child": "LiquidWelfareFPA_Outcome", "via": ["statement"]}
@@ -60953,7 +60953,7 @@
 {"parent": "VariableBound.VariablesA.eq_replicate", "child": "VariableBound_Printed_ThmVariablesADefs", "via": ["solution", "statement"]}
 {"parent": "VariableBound.VariablesA.eq_replicate", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "VariableBound.VariablesA.eq_replicate", "child": "ClauseBound.TopN.Arith.eq_replicate", "via": ["statement"]}
-{"parent": "TenChallenges.challenge_09_r6", "child": "TenChallenges_Challenge_09", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_09_r6", "child": "TenChallenges_Challenge_09", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Gen.Pick.K_le_g", "child": "ClauseBound_Gen_PartA", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Gen.Pick.K_le_g", "child": "ClauseBound_Gen_Defs", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Gen.Pick.K_le_g", "child": "ClauseBound_Gen_Pick", "via": ["solution", "statement"]}

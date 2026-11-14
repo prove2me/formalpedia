@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_valence_projection_gives_cluster
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.valence_projection_gives_cluster
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:47:28.634129+00:00
 -- url     : https://prove2.me/theorems/5e9c7df9-9089-4c5b-b4b7-a609260e2a00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_chat24_physical_discount_cell_integral_core
 -- name    : avram_chat24_physical_discount_cell_integral_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:21:24.407666+00:00
 -- url     : https://prove2.me/theorems/68162ee6-d56e-4f89-804c-42c548bcf6f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuctionsOfAuctions_advertiser_profit_strictAntiOn
 -- name    : AuctionsOfAuctions.advertiser_profit_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:27:37.310388+00:00
 -- url     : https://prove2.me/theorems/8448b32d-e8ea-4bf7-adc0-f2e774012042

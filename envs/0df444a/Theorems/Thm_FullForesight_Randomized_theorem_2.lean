@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FullForesight_Randomized_theorem_2
 -- name    : FullForesight.Randomized.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:17:10.879782+00:00
 -- url     : https://prove2.me/theorems/f2d3933d-4237-443c-a84c-b0b4870f08ed

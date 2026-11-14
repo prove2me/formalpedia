@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_walkProb_eq
 -- name    : SaglamGV.walkProb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:50:32.417043+00:00
 -- url     : https://prove2.me/theorems/7ecb7b61-c0b2-41a9-9825-b542611c0a52

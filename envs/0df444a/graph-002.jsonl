@@ -41015,17 +41015,17 @@
 {"parent": "HighDimProb.Concentration.bernstein_unweighted", "child": "HighDimProb_Concentration_SubexponentialNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Concentration.bernstein_weighted", "child": "HighDimProb_Concentration_SubexponentialNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Concentration.general_hoeffding", "child": "HighDimProb_Concentration_SubgaussianNorm", "via": ["solution", "statement"]}
-{"parent": "HighDimProb.Deviations.m_star_bound_v2", "child": "HighDimProb_Deviations_GaussianWidth", "via": ["statement"]}
-{"parent": "HighDimProb.Deviations.m_star_bound_v2", "child": "HighDimProb_Deviations_IsIsotropic", "via": ["statement"]}
-{"parent": "HighDimProb.Deviations.m_star_bound_v2", "child": "HighDimProb_Deviations_SubgaussianVectorNorm_v2", "via": ["statement"]}
+{"parent": "HighDimProb.Deviations.m_star_bound_v2", "child": "HighDimProb_Deviations_GaussianWidth", "via": ["solution", "statement"]}
+{"parent": "HighDimProb.Deviations.m_star_bound_v2", "child": "HighDimProb_Deviations_IsIsotropic", "via": ["solution", "statement"]}
+{"parent": "HighDimProb.Deviations.m_star_bound_v2", "child": "HighDimProb_Deviations_SubgaussianVectorNorm_v2", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Deviations.matrix_deviation_inequality_v2", "child": "HighDimProb_Deviations_ExpSup", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Deviations.matrix_deviation_inequality_v2", "child": "HighDimProb_Deviations_GaussianComplexity", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Deviations.matrix_deviation_inequality_v2", "child": "HighDimProb_Deviations_IsIsotropic", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Deviations.matrix_deviation_inequality_v2", "child": "HighDimProb_Deviations_SubgaussianVectorNorm_v2", "via": ["solution", "statement"]}
-{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_ExpSup", "via": ["statement"]}
-{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_GaussianWidth", "via": ["statement"]}
-{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_IsGaussianMatrix", "via": ["statement"]}
-{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_StableDimension", "via": ["statement"]}
+{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_ExpSup", "via": ["solution", "statement"]}
+{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_GaussianWidth", "via": ["solution", "statement"]}
+{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_IsGaussianMatrix", "via": ["solution", "statement"]}
+{"parent": "HighDimProb.DvoretzkyMilman.dvoretzky_milman", "child": "HighDimProb_DvoretzkyMilman_StableDimension", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Isoperimetry.johnson_lindenstrauss", "child": "HighDimProb.Isoperimetry.random_projection_concentration", "via": ["solution"]}
 {"parent": "HighDimProb.Isoperimetry.johnson_lindenstrauss", "child": "HighDimProb_Isoperimetry_UniformProjection", "via": ["solution", "statement"]}
 {"parent": "HighDimProb.Isoperimetry.lipschitz_concentration_sphere", "child": "HighDimProb_Isoperimetry_SubgaussianNorm", "via": ["solution", "statement"]}
@@ -41115,7 +41115,7 @@
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_maxNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_opNorm", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.RandomMatrices.thresholding_deterministic_bound", "child": "HighDimStat_RandomMatrices_thresholdMatrix", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.Rkhs.thm12_11_moore_aronszajn", "child": "HighDimStat_Rkhs_Core", "via": ["statement"]}
+{"parent": "HighDimStat.Rkhs.thm12_11_moore_aronszajn", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Rkhs.thm12_13_converse", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.Rkhs.thm12_20_mercer_v2", "child": "HighDimStat_Rkhs_Core", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.SparseLinear.lasso_l2_error_bound_v2", "child": "HighDimStat_SparseLinear_HasSupport", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_lemma9_covariance
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.lemma9_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:29:10.508553+00:00
 -- url     : https://prove2.me/theorems/073344d3-6bb2-4285-baea-09426952d3f3

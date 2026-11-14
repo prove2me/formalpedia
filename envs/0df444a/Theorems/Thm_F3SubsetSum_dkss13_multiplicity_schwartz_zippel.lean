@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F3SubsetSum_dkss13_multiplicity_schwartz_zippel
 -- name    : F3SubsetSum.dkss13_multiplicity_schwartz_zippel
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:29:13.024247+00:00
 -- url     : https://prove2.me/theorems/d5c189e2-04b2-4f38-9d25-590e6ef781e5

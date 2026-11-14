@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearMDPRL_Linear_lemma_D_1
 -- name    : LinearMDPRL.Linear.lemma_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:55.231981+00:00
 -- url     : https://prove2.me/theorems/366d8494-6498-4e54-a986-4216bf8debe7

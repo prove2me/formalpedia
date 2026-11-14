@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_ShannonCapacity_theorem_14_10_1
 -- name    : WildeQIT.ShannonCapacity.theorem_14_10_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:36:24.613683+00:00
 -- url     : https://prove2.me/theorems/9e3c6433-2009-463e-addd-419f075b8b7b

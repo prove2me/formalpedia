@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_weakOperatorField_closed_projection_span_eq_top
 -- name    : OAI.KadisonKastler.weakOperatorField_closed_projection_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:13:18.215675+00:00
 -- url     : https://prove2.me/theorems/5e7d2f2c-030b-42a9-833c-8b3c470557fd

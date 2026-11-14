@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KServer.workFnU_sharp_potential
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T17:14:30.541049+00:00
 -- url     : https://prove2.me/submissions/6c21c07d-4ab7-4843-ad0c-bf679b097b57
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HistoryPotential_pathwise_bound_iff
 import Theorems.Thm_KServer_workFnU_sharp_potential_known_cases

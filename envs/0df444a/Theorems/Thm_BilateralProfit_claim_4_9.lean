@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_claim_4_9
 -- name    : BilateralProfit.claim_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:21:06.194614+00:00
 -- url     : https://prove2.me/theorems/9bd07a81-3ae2-45b5-b2d9-fd70ad7cc25f

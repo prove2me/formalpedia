@@ -1,0 +1,3017 @@
+-- Prove2me | Definitions.Def_OAIQ244Duke071
+-- name    : OAIQ244Duke071
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-11-13T22:55:28.137198+00:00
+-- url     : https://prove2.me/theorems/579e886c-dc32-4a53-ad59-db228d8da96a
+-- title:
+--   Definitions bundle OAIQ244Duke071 of the split of OpenAI, Equidistribution of Prime-Degree Torus Packets with Arbitrary Local Type
+-- statement:
+--   A definitions bundle of the split of OpenAI's proof of `OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional` and `OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional`, carved from OpenAI's openai/math development (OpenAI, *Equidistribution of Prime-Degree Torus Packets with Arbitrary Local Type*, OpenAI Math Release, September 24, 2026, result family 15, [github.com/openai/math](https://github.com/openai/math) at commit 7ef5c0c, Apache License 2.0) and ported to Lean 4.33.1 and Mathlib 0df444a. The declarations and their proofs are OpenAI's.
+--
+--   **Contents.** It holds 120 declarations of OpenAI's Lean: 35 definitions, 1 inductive type or structure, 5 instances and 79 theorems. The definitions and types are `GlobalClassFieldTheory.Reciprocity.finitePlaceLocalRestrictionMonoidHom`, `LubinTate.PadicChangedUniformizerApproximation`, `LubinTate.padicChangedUniformizerApproximation`, `LubinTate.padicChangedUniformizerCorrectionCoefficient`, `LubinTate.padicChangedUniformizerDefect`, `LubinTate.padicChangedUniformizerIntertwiner`, `LubinTate.padicChangedUniformizerNormalizedDefect`, `LubinTate.padicChangedUniformizerThetaValue`, `LubinTate.padicCompletedChangedStandardScalarEndomorphism`, `LubinTate.padicCompletedChangedStandardSeries`, `LubinTate.padicCompletedLevelCompleteDVF`, `LubinTate.padicCompletedLevelField`, `LubinTate.padicCompletedLevelField_module`, `LubinTate.padicCompletedLevelPadicFieldCoefficientHom`, `LubinTate.padicCompletedLevelPadicIntegerCoefficientHom`, `LubinTate.padicCompletedLevelPowerSeriesEval`, `LubinTate.padicCompletedLevelTargetWithIdeal`, `LubinTate.padicCompletedLevelWittAlgebra`, `LubinTate.padicCompletedLevelWittCoefficientHom`, `LubinTate.padicCompletedLevelWittUniformSpace`, `LubinTate.padicCompletedMultiplicativePrimitivePoint`, `LubinTate.padicCompletedMultiplicativeScalarEndomorphism`, `LubinTate.padicCompletedMultiplicativeScalarEndomorphismValue`, `LubinTate.padicCompletedMultiplicativeSeries`, `LubinTate.padicCompletedMultiplicativeTargetWithIdeal`, `LubinTate.padicCompletedMultiplicativeWittUniformSpace`, `LubinTate.padicCompletedPrimitivePolynomial`, `LubinTate.padicCompletedPrimitivePolynomialInteger`, `LubinTate.padicCompletedPrimitiveRoot`, `LubinTate.padicCompletedPrimitiveRootInteger`, `LubinTate.padicCompletedStandardScalarEndomorphism`, `LubinTate.padicCompletedStandardScalarEndomorphismValue`, `LubinTate.padicCompletedStandardToMultiplicativeIntertwiner`, `LubinTate.padicCompletedUnramifiedCompleteDVF`, `LubinTate.padicCompletedUnramifiedFrobenius`, `LubinTate.padicCompletedUnramifiedIntegerMap`.
+--
+--   **Sources.** They come from these modules of lean/OAI/NumberTheory, in whole or in part: `GlobalClassFieldTheory_Reciprocity_FinitePlaceArtin_TowerRestriction`, `LubinTate_Padic_ChangedUniformizerCoefficient`, `LubinTate_Padic_ChangedUniformizerIntertwiner_CompletedSeries`, `LubinTate_Padic_ChangedUniformizerIntertwiner_DefectCorrection`, `LubinTate_Padic_ChangedUniformizerIntertwiner_IntertwinerConstruction`, `LubinTate_Padic_ChangedUniformizerIntertwiner_ScalarEndomorphisms`, `LubinTate_Padic_CompletedLevel`, `LubinTate_Padic_CompletedUnramifiedField`, `LubinTate_Padic_MultiplicativeEvaluation_CompletedCoefficientEvaluation`, `LubinTate_Padic_MultiplicativeEvaluation_CompletedPrimitivePoint`, `LubinTate_Padic_MultiplicativeEvaluation_CompletedScalarEndomorphism`, `LubinTate_Padic_MultiplicativeEvaluation_Core`.
+--
+--   **Imports.** It imports the bundle `OAIQ244Duke113` of this split.
+--
+--   **Imported by** (directly, in this split): the bundles `OAIQ244Duke074`, `OAIQ244Duke075`, `OAIQ244Duke076`, `OAIQ244Duke077`, `OAIQ244Duke078` and `OAIQ244Duke079`.
+-- source:
+--   OpenAI, Equidistribution of Prime-Degree Torus Packets with Arbitrary Local Type, OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 15; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Equidistribution-of-Prime-Degree-Torus-Packets-with-Arbitrary-Local-Type-September-24-2026/paper.pdf; Apache License 2.0); definitions carved from lean/OAI/NumberTheory at commit 7ef5c0c
+
+import Mathlib
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.Algebra.Pi
+import Mathlib.Algebra.Algebra.Tower
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.Category.ModuleCat.Basic
+import Mathlib.Algebra.CharP.Algebra
+import Mathlib.Algebra.CharP.Lemmas
+import Mathlib.Algebra.CharP.Subring
+import Mathlib.Algebra.EuclideanDomain.Basic
+import Mathlib.Algebra.Exact.Basic
+import Mathlib.Algebra.Group.Action.Basic
+import Mathlib.Algebra.Group.Hom.Basic
+import Mathlib.Algebra.Group.Int.TypeTags
+import Mathlib.Algebra.Group.Pi.Basic
+import Mathlib.Algebra.Group.Pi.Units
+import Mathlib.Algebra.Group.Subgroup.Basic
+import Mathlib.Algebra.Group.Subgroup.Ker
+import Mathlib.Algebra.Group.Subgroup.Map
+import Mathlib.Algebra.Group.Submonoid.Units
+import Mathlib.Algebra.Group.TransferInstance
+import Mathlib.Algebra.Group.Units.Equiv
+import Mathlib.Algebra.Group.Units.Hom
+import Mathlib.Algebra.Module.Equiv.Basic
+import Mathlib.Algebra.Module.LinearMap.Polynomial
+import Mathlib.Algebra.Module.PID
+import Mathlib.Algebra.Module.Shrink
+import Mathlib.Algebra.Module.Torsion.Basic
+import Mathlib.Algebra.Module.ZLattice.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.Field.Power
+import Mathlib.Algebra.Order.Group.Cyclic
+import Mathlib.Algebra.Order.Hom.Units
+import Mathlib.Algebra.Order.Ring.IsNonarchimedean
+import Mathlib.Algebra.Order.WithTop.Untop0
+import Mathlib.Algebra.Polynomial.Div
+import Mathlib.Algebra.Polynomial.FieldDivision
+import Mathlib.Algebra.Polynomial.Lifts
+import Mathlib.Algebra.Polynomial.Monic
+import Mathlib.Analysis.AbsoluteValue.Equivalence
+import Mathlib.Analysis.Complex.Convex
+import Mathlib.Analysis.Normed.Algebra.GelfandMazur
+import Mathlib.Analysis.Normed.Field.Instances
+import Mathlib.Analysis.Normed.Field.ProperSpace
+import Mathlib.Analysis.Normed.Field.WithAbs
+import Mathlib.Analysis.Normed.Module.Completion
+import Mathlib.Analysis.Normed.Module.FiniteDimension
+import Mathlib.Analysis.Normed.Unbundled.RingSeminorm
+import Mathlib.Analysis.Normed.Unbundled.SpectralNorm
+import Mathlib.Analysis.SpecialFunctions.Log.Base
+import Mathlib.Analysis.SpecialFunctions.Pow.Continuity
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Data.Finset.Basic
+import Mathlib.Data.Finset.Finsupp
+import Mathlib.Data.Int.ModEq
+import Mathlib.Data.Int.WithZero
+import Mathlib.Data.Nat.Factorization.Basic
+import Mathlib.Data.Nat.Prime.Basic
+import Mathlib.Data.Rat.Cast.CharZero
+import Mathlib.Data.Rat.Lemmas
+import Mathlib.Data.Set.Finite.Range
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.ZMod.QuotientGroup
+import Mathlib.Dynamics.BirkhoffSum.Basic
+import Mathlib.FieldTheory.AbsoluteGaloisGroup
+import Mathlib.FieldTheory.Finite.Basic
+import Mathlib.FieldTheory.Finite.Extension
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.FieldTheory.Galois.Abelian
+import Mathlib.FieldTheory.Galois.Basic
+import Mathlib.FieldTheory.Galois.Infinite
+import Mathlib.FieldTheory.Galois.IsGaloisGroup
+import Mathlib.FieldTheory.Galois.NormalBasis
+import Mathlib.FieldTheory.Galois.Profinite
+import Mathlib.FieldTheory.IntermediateField.Adjoin.Algebra
+import Mathlib.FieldTheory.IntermediateField.Adjoin.Basic
+import Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure
+import Mathlib.FieldTheory.IsSepClosed
+import Mathlib.FieldTheory.KrullTopology
+import Mathlib.FieldTheory.Minpoly.IsConjRoot
+import Mathlib.FieldTheory.Minpoly.IsIntegrallyClosed
+import Mathlib.FieldTheory.Normal.Basic
+import Mathlib.FieldTheory.Normal.Closure
+import Mathlib.FieldTheory.Perfect
+import Mathlib.FieldTheory.PrimitiveElement
+import Mathlib.FieldTheory.PurelyInseparable.Basic
+import Mathlib.FieldTheory.Separable
+import Mathlib.FieldTheory.SeparableClosure
+import Mathlib.FieldTheory.SplittingField.Construction
+import Mathlib.GroupTheory.Abelianization.Defs
+import Mathlib.GroupTheory.Coset.Card
+import Mathlib.GroupTheory.DoubleCoset
+import Mathlib.GroupTheory.FiniteAbelian.Basic
+import Mathlib.GroupTheory.GroupAction.Basic
+import Mathlib.GroupTheory.GroupAction.Defs
+import Mathlib.GroupTheory.GroupAction.Quotient
+import Mathlib.GroupTheory.Index
+import Mathlib.GroupTheory.Nilpotent
+import Mathlib.GroupTheory.OrderOfElement
+import Mathlib.GroupTheory.QuotientGroup.Basic
+import Mathlib.GroupTheory.QuotientGroup.Finite
+import Mathlib.GroupTheory.SpecificGroups.Cyclic
+import Mathlib.GroupTheory.Transfer
+import Mathlib.LinearAlgebra.Basis.SMul
+import Mathlib.LinearAlgebra.Basis.VectorSpace
+import Mathlib.LinearAlgebra.Charpoly.BaseChange
+import Mathlib.LinearAlgebra.Determinant
+import Mathlib.LinearAlgebra.Dimension.Constructions
+import Mathlib.LinearAlgebra.Dimension.DivisionRing
+import Mathlib.LinearAlgebra.Dimension.Finrank
+import Mathlib.LinearAlgebra.Dimension.Free
+import Mathlib.LinearAlgebra.Dimension.Localization
+import Mathlib.LinearAlgebra.Dimension.Torsion.Finite
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.FreeModule.Finite.Quotient
+import Mathlib.LinearAlgebra.FreeModule.IdealQuotient
+import Mathlib.LinearAlgebra.Matrix.Gershgorin
+import Mathlib.LinearAlgebra.Quotient.Pi
+import Mathlib.LinearAlgebra.StdBasis
+import Mathlib.LinearAlgebra.TensorProduct.Basis
+import Mathlib.LinearAlgebra.TensorProduct.RightExactness
+import Mathlib.LinearAlgebra.Trace
+import Mathlib.Logic.Equiv.Fin.Rotate
+import Mathlib.NumberTheory.LocalField.Basic
+import Mathlib.NumberTheory.NumberField.AdeleRing
+import Mathlib.NumberTheory.NumberField.Basic
+import Mathlib.NumberTheory.NumberField.ClassNumber
+import Mathlib.NumberTheory.NumberField.Completion.FinitePlace
+import Mathlib.NumberTheory.NumberField.Completion.InfinitePlace
+import Mathlib.NumberTheory.NumberField.InfinitePlace.Ramification
+import Mathlib.NumberTheory.NumberField.ProductFormula
+import Mathlib.NumberTheory.NumberField.Units.DirichletTheorem
+import Mathlib.NumberTheory.NumberField.Units.Regulator
+import Mathlib.NumberTheory.Ostrowski
+import Mathlib.NumberTheory.Padics.PadicNumbers
+import Mathlib.NumberTheory.Padics.PadicVal.Basic
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.NumberTheory.RamificationInertia.Galois
+import Mathlib.NumberTheory.RamificationInertia.Inertia
+import Mathlib.NumberTheory.RamificationInertia.Ramification
+import Mathlib.Order.Filter.AtTopBot.Tendsto
+import Mathlib.RepresentationTheory.Homological.FiniteCyclic
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.FiniteCyclic
+import Mathlib.RepresentationTheory.Homological.GroupCohomology.Hilbert90
+import Mathlib.RepresentationTheory.Homological.GroupHomology.FiniteCyclic
+import Mathlib.RepresentationTheory.Homological.TateCohomology.Basic
+import Mathlib.RepresentationTheory.Invariants
+import Mathlib.RepresentationTheory.Rep.Basic
+import Mathlib.RingTheory.AdicCompletion.AsTensorProduct
+import Mathlib.RingTheory.AdicCompletion.Basic
+import Mathlib.RingTheory.AdicCompletion.Functoriality
+import Mathlib.RingTheory.AdicCompletion.Noetherian
+import Mathlib.RingTheory.AdicCompletion.Topology
+import Mathlib.RingTheory.Adjoin.PowerBasis
+import Mathlib.RingTheory.AdjoinRoot
+import Mathlib.RingTheory.AlgebraTower
+import Mathlib.RingTheory.Algebraic.Integral
+import Mathlib.RingTheory.ClassGroup.Basic
+import Mathlib.RingTheory.Complex
+import Mathlib.RingTheory.DedekindDomain.Factorization
+import Mathlib.RingTheory.DedekindDomain.IntegralClosure
+import Mathlib.RingTheory.DedekindDomain.SInteger
+import Mathlib.RingTheory.DiscreteValuationRing.Basic
+import Mathlib.RingTheory.DiscreteValuationRing.TFAE
+import Mathlib.RingTheory.Discriminant
+import Mathlib.RingTheory.Filtration
+import Mathlib.RingTheory.Finiteness.Cardinality
+import Mathlib.RingTheory.FormalGroup.Basic
+import Mathlib.RingTheory.FractionalIdeal.Norm
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Ideal.GoingUp
+import Mathlib.RingTheory.Ideal.IsPrincipalPowQuotient
+import Mathlib.RingTheory.Ideal.Norm.AbsNorm
+import Mathlib.RingTheory.Ideal.Norm.RelNorm
+import Mathlib.RingTheory.Ideal.Quotient.Index
+import Mathlib.RingTheory.Ideal.Quotient.Operations
+import Mathlib.RingTheory.IntegralClosure.IsIntegralClosure.Basic
+import Mathlib.RingTheory.Invariant.Basic
+import Mathlib.RingTheory.Invariant.Profinite
+import Mathlib.RingTheory.IsTensorProduct
+import Mathlib.RingTheory.LocalRing.Basic
+import Mathlib.RingTheory.LocalRing.ResidueField.Basic
+import Mathlib.RingTheory.Localization.Finiteness
+import Mathlib.RingTheory.MvPowerSeries.Expand
+import Mathlib.RingTheory.MvPowerSeries.Inverse
+import Mathlib.RingTheory.MvPowerSeries.Order
+import Mathlib.RingTheory.MvPowerSeries.Substitution
+import Mathlib.RingTheory.MvPowerSeries.Trunc
+import Mathlib.RingTheory.Nakayama
+import Mathlib.RingTheory.Norm.Basic
+import Mathlib.RingTheory.Norm.Defs
+import Mathlib.RingTheory.Norm.Transitivity
+import Mathlib.RingTheory.Polynomial.ContentIdeal
+import Mathlib.RingTheory.Polynomial.Cyclotomic.Roots
+import Mathlib.RingTheory.Polynomial.Eisenstein.Basic
+import Mathlib.RingTheory.Polynomial.Eisenstein.IsIntegral
+import Mathlib.RingTheory.Polynomial.GaussLemma
+import Mathlib.RingTheory.Polynomial.Vieta
+import Mathlib.RingTheory.PowerSeries.Basic
+import Mathlib.RingTheory.PowerSeries.Binomial
+import Mathlib.RingTheory.PowerSeries.Evaluation
+import Mathlib.RingTheory.PowerSeries.Expand
+import Mathlib.RingTheory.PowerSeries.Inverse
+import Mathlib.RingTheory.PowerSeries.Log
+import Mathlib.RingTheory.PowerSeries.Order
+import Mathlib.RingTheory.PowerSeries.Substitution
+import Mathlib.RingTheory.PowerSeries.Trunc
+import Mathlib.RingTheory.PowerSeries.WellKnown
+import Mathlib.RingTheory.QuasiFinite.Basic
+import Mathlib.RingTheory.RamificationInertia.Basic
+import Mathlib.RingTheory.RootsOfUnity.Basic
+import Mathlib.RingTheory.RootsOfUnity.PrimitiveRoots
+import Mathlib.RingTheory.SimpleModule.Basic
+import Mathlib.RingTheory.Spectrum.Prime.Topology
+import Mathlib.RingTheory.TensorProduct.Basic
+import Mathlib.RingTheory.TensorProduct.Finite
+import Mathlib.RingTheory.TensorProduct.Free
+import Mathlib.RingTheory.TensorProduct.Maps
+import Mathlib.RingTheory.TensorProduct.MvPolynomial
+import Mathlib.RingTheory.TensorProduct.Quotient
+import Mathlib.RingTheory.Trace.Basic
+import Mathlib.RingTheory.Valuation.Archimedean
+import Mathlib.RingTheory.Valuation.Discrete.Basic
+import Mathlib.RingTheory.Valuation.Discrete.IsDiscreteValuationRing
+import Mathlib.RingTheory.Valuation.Extension
+import Mathlib.RingTheory.Valuation.Integral
+import Mathlib.RingTheory.Valuation.LocalSubring
+import Mathlib.RingTheory.Valuation.RamificationGroup
+import Mathlib.RingTheory.Valuation.RankOne
+import Mathlib.RingTheory.Valuation.ValuationRing
+import Mathlib.RingTheory.Valuation.ValuationSubring
+import Mathlib.RingTheory.WittVector.Compare
+import Mathlib.RingTheory.WittVector.Complete
+import Mathlib.RingTheory.WittVector.FrobeniusFractionField
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic
+import Mathlib.Topology.Algebra.Category.ProfiniteGrp.Basic
+import Mathlib.Topology.Algebra.ClopenNhdofOne
+import Mathlib.Topology.Algebra.ContinuousMonoidHom
+import Mathlib.Topology.Algebra.Group.Basic
+import Mathlib.Topology.Algebra.Group.ClosedSubgroup
+import Mathlib.Topology.Algebra.Group.Quotient
+import Mathlib.Topology.Algebra.Group.SubmonoidClosure
+import Mathlib.Topology.Algebra.Group.TopologicalAbelianization
+import Mathlib.Topology.Algebra.Group.Units
+import Mathlib.Topology.Algebra.InfiniteSum.Nonarchimedean
+import Mathlib.Topology.Algebra.IsOpenUnits
+import Mathlib.Topology.Algebra.IsUniformGroup.Basic
+import Mathlib.Topology.Algebra.Module.FiniteDimension
+import Mathlib.Topology.Algebra.Nonarchimedean.AdicTopology
+import Mathlib.Topology.Algebra.OpenSubgroup
+import Mathlib.Topology.Algebra.Order.Field
+import Mathlib.Topology.Algebra.Ring.Basic
+import Mathlib.Topology.Algebra.Ring.Compact
+import Mathlib.Topology.Algebra.Valued.LocallyCompact
+import Mathlib.Topology.Algebra.Valued.NormedValued
+import Mathlib.Topology.Algebra.Valued.ValuativeRel
+import Mathlib.Topology.Algebra.Valued.ValuedField
+import Mathlib.Topology.Algebra.Valued.WithZeroMulInt
+import Mathlib.Topology.Connected.Clopen
+import Mathlib.Topology.Instances.Matrix
+import Mathlib.Topology.Instances.Sign
+import Mathlib.Topology.Instances.ZMod
+import Mathlib.Topology.Maps.Basic
+import Mathlib.Topology.Neighborhoods
+import Mathlib.Topology.Sets.Opens
+import Mathlib.Topology.UniformSpace.AbsoluteValue
+import Definitions.Def_OAIQ244Duke113
+
+section
+-- module Solutions.OAIQ244_DUKE.GlobalClassFieldTheory_Reciprocity_FinitePlaceArtin_TowerRestriction
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.infinitePlaceComplexificationOverfield_baseSmul _root_.GlobalClassFieldTheory.Reciprocity.infinitePlaceComplexificationOverfield_smul _root_.GlobalClassFieldTheory.Reciprocity.rationalCyclotomicCompletionAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalCyclotomicLocalizedCompletionFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalCyclotomicLocalizedCompletionIsAlgebraic _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.KummerTheory.primeCyclotomicBaseIsGalois _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.padicCompletedUnramifiedFieldAlgebra _root_.LubinTate.standardLubinTateLevelValuationSubring_moduleFinite _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.instIsTopologicalRingLocalAlgebra _root_.OAI.PrimeDegreePackets.instTopologicalSpaceLocalAlgebra _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.chosenFinitePlaceCompletionAlgebra _root_.chosenFinitePlaceCompletionContinuousSMul _root_.chosenFinitePlaceCompletionFiniteDimensional _root_.chosenFinitePlaceCompletionLocallyCompactSpace _root_.chosenFinitePlaceExtensionCompletionAlgebra _root_.chosenFinitePlaceExtensionCompletionSMul _root_.chosenFinitePlaceLocalizedFiniteDimensional _root_.chosenFinitePlaceLocalizedIntegerAlgebra _root_.chosenFinitePlaceLocalizedIntegerModuleFinite _root_.chosenFinitePlaceLocalizedIsGalois _root_.chosenFinitePlaceLocalizedIsIntegralClosure _root_.chosenFinitePlaceLocalizedIsNonarchimedeanLocalField _root_.chosenFinitePlaceLocalizedIsUltrametricDist _root_.chosenFinitePlaceLocalizedIsValuativeTopology _root_.chosenFinitePlaceLocalizedLocallyCompactSpace _root_.chosenFinitePlaceLocalizedValuationCompatible _root_.chosenFinitePlaceLocalizedValuationHasExtension _root_.chosenFinitePlaceLocalizedValuationIsNontrivial _root_.chosenFinitePlaceLocalizedValuativeRel _root_.chosenFinitePlaceLocalizedValuativeRelIsNontrivial _root_.chosenFinitePlaceLocalizedValued
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+attribute [local instance] OAI.starSubalgebraCommCStarAlgebra
+
+set_option autoImplicit false
+
+/-!
+# Restriction in a finite-place Artin tower
+
+This module restricts finite-place extensions through an intermediate field and proves restriction naturality for the corresponding global Artin homomorphisms.
+-/
+
+open scoped Classical IsMulCommutative NNReal NumberField
+open NumberField IsDedekindDomain
+
+noncomputable section
+
+namespace GlobalClassFieldTheory
+namespace Reciprocity
+
+open AlgebraicNumberTheory.Valuations
+open HilbertRamification
+open LocalClassFieldTheory
+open LocalFieldTheory
+
+variable {K L : Type}
+    [Field K] [NumberField K]
+    [Field L] [Algebra K L]
+    [FiniteDimensional K L] [IsAbelianGalois K L]
+
+noncomputable def finitePlaceLocalRestrictionMonoidHom
+    {E : Type}
+    [Field E] [Algebra K E] [Algebra E L]
+    [IsScalarTower K E L]
+    [FiniteDimensional K E] [IsAbelianGalois K E]
+    (v : HeightOneSpectrum (𝓞 K))
+    (wL : AbsoluteValueExtension
+      (NumberField.HeightOneSpectrum.adicAbv K v) L) :
+    let vK := NumberField.HeightOneSpectrum.adicAbv K v
+    let wE :=
+      restrictFinitePlaceExtension
+        (K := K) (L := L) (E := E) v wL
+    let EL := AlgebraicNumberTheory.Valuations.LocalizedCompletion vK wE
+    let LL := AlgebraicNumberTheory.Valuations.LocalizedCompletion vK wL
+    letI : Algebra vK.Completion EL :=
+      finitePlaceLocalArtinLocalizedAlgebra (K := K) (L := E) v wE
+    letI : Algebra vK.Completion LL :=
+      finitePlaceLocalArtinLocalizedAlgebra (K := K) (L := L) v wL
+    (LL ≃ₐ[vK.Completion] LL) →*
+      (EL ≃ₐ[vK.Completion] EL) := by
+  let vK := NumberField.HeightOneSpectrum.adicAbv K v
+  let wE :=
+    restrictFinitePlaceExtension
+      (K := K) (L := L) (E := E) v wL
+  let EL := AlgebraicNumberTheory.Valuations.LocalizedCompletion vK wE
+  let LL := AlgebraicNumberTheory.Valuations.LocalizedCompletion vK wL
+  letI : Algebra vK.Completion EL :=
+    finitePlaceLocalArtinLocalizedAlgebra (K := K) (L := E) v wE
+  letI : Algebra vK.Completion LL :=
+    finitePlaceLocalArtinLocalizedAlgebra (K := K) (L := L) v wL
+  let localizationAlgHom :=
+    finitePlaceRestrictedLocalizedCompletionAlgHom
+      (K := K) (L := L) (E := E) v wL
+  letI hELL : Algebra EL LL :=
+    localizationAlgHom.toRingHom.toAlgebra
+  letI : SMul EL LL := hELL.toSMul
+  letI : IsScalarTower vK.Completion EL LL :=
+    IsScalarTower.of_algebraMap_eq' (by
+      apply RingHom.ext
+      intro x
+      exact (localizationAlgHom.commutes x).symm)
+  letI : FiniteDimensional vK.Completion EL :=
+    finitePlaceLocalArtinFiniteDimensional (K := K) (L := E) v wE
+  letI : IsAbelianGalois vK.Completion EL :=
+    finitePlaceLocalArtinIsAbelianGalois (K := K) (L := E) v wE
+      (inferInstance : FiniteDimensional K E)
+  letI hGaloisEL : IsGalois vK.Completion EL :=
+    (inferInstance :
+      IsAbelianGalois vK.Completion EL).toIsGalois
+  letI : Normal vK.Completion EL :=
+    hGaloisEL.to_normal
+  exact AlgEquiv.restrictNormalHom EL
+
+end Reciprocity
+end GlobalClassFieldTheory
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_ChangedUniformizerCoefficient
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localSelectedResidueIsAlgClosed _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.padicCompletedUnramifiedFieldAlgebra _root_.LubinTate.standardLubinTateLevelCompleteDVF_hasExtensionInstance _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateLevelValuationSubring_moduleFinite _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.IsDiscreteValuationRing.addVal_ringEquiv _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.LubinTateSeries.padicMultiplicativeLubinTateSeries_toPowerSeries _root_.LubinTate.LubinTateSeries.standardLubinTateSeries_toPowerSeries _root_.LubinTate.SameUniformizer.coeff_recursiveIntertwiner _root_.LubinTate.SameUniformizer.constantCoeff_inVariable _root_.LubinTate.SameUniformizer.intertwinerApproximation_zero _root_.LubinTate.SameUniformizer.standardLubinTateEndomorphism_coeff_one _root_.LubinTate.padicCompletedUnramifiedField_algebraMap_padicInt _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTateBaseUniformizerUnit_coe _root_.LubinTate.standardLubinTateChangedUniformizerUnit_coe _root_.LubinTate.standardLubinTateEndomorphismEvalAt_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_zero _root_.LubinTate.standardLubinTateEndomorphismValue_one _root_.LubinTate.standardLubinTateEndomorphismValue_zero _root_.LubinTate.standardLubinTateLevelCoefficientHom_apply _root_.LubinTate.standardLubinTateLevelGenerator_coe _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_C _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_X _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_coe _root_.LubinTate.standardLubinTatePolynomialIterateOverSeparableClosure_eval _root_.LubinTate.standardLubinTatePolynomialIterate_derivative_eval_zero _root_.LubinTate.standardLubinTatePolynomialIterate_eval_zero _root_.LubinTate.standardLubinTatePolynomialIterate_zero _root_.LubinTate.standardLubinTatePolynomial_derivative_eval_zero _root_.LubinTate.standardLubinTatePolynomial_eval _root_.LubinTate.standardLubinTatePolynomial_toPowerSeries _root_.LubinTate.standardLubinTatePolynomial_toPowerSeries_eq_series _root_.LubinTate.standardLubinTatePrimitiveLevelAction_coe _root_.LubinTate.standardLubinTatePrimitivePointIntegerAction_one _root_.LubinTate.standardLubinTatePrimitivePointInteger_coe _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTatePrimitivePolynomialOverField_coeff_zero _root_.LubinTate.standardLubinTatePrimitivePolynomial_coeff_zero _root_.LubinTate.standardLubinTatePrimitiveRootAction_one _root_.LubinTate.standardLubinTateUnitFactorFieldUnit_coe _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# The coefficient source for the p-adic changed-uniformizer intertwiner
+
+Let `k` be an algebraic closure of `ZMod p`.  The Witt ring `W(k)` is the
+integer ring of the completed maximal-unramified coefficient field used in
+the changed-uniformizer construction. Mathlib's `WittVector.frobeniusRotation` supplies the
+actual unit `ε ∈ W(k)ˣ` satisfying
+
+`φ(ε) = ε u`
+
+for every p-adic integer unit `u`.  This is precisely the linear-coefficient
+equation for the semilinear changed-uniformizer intertwiner.
+
+No second p-adic integer ring or Frobenius is introduced here: the base map
+uses mathlib's equivalence `W(ZMod p) ≃+* ℤ_[p]`, and `φ` is
+`WittVector.frobenius`.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+
+/-- The linear coefficient satisfies the semilinear equation
+`φ(ε) = ε u`. -/
+theorem padicChangedUniformizerLinearCoefficient_frobenius
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    WittVector.frobenius
+        (padicChangedUniformizerLinearCoefficient p u :
+          padicCompletedUnramifiedWittRing p) =
+      (padicChangedUniformizerLinearCoefficient p u :
+          padicCompletedUnramifiedWittRing p) *
+        (padicValuationUnitToCompletedUnramifiedWittUnit p u :
+          padicCompletedUnramifiedWittRing p) := by
+  rw [padicChangedUniformizerLinearCoefficient_coe]
+  simpa only [mul_one] using
+    (WittVector.frobenius_frobeniusRotation p
+      (show
+        ((1 : padicCompletedUnramifiedWittRing p).coeff 0) ≠ 0 by
+        simp)
+      (completedUnramifiedWittUnit_coeff_zero_ne_zero p
+        (padicValuationUnitToCompletedUnramifiedWittUnit p u)))
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_CompletedUnramifiedField
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_isCompleteDiscrete _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.infinitePlaceComplexificationOverfield_baseSmul _root_.GlobalClassFieldTheory.Reciprocity.infinitePlaceComplexificationOverfield_smul _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localSelectedResidueIsAlgClosed _root_.LocalClassFieldTheory.localSeparableValuationHasExtension _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instDiscreteTopology _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedWithZeroValuationContextIntegralAlgebra _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicDVR_residueField_finite _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.Valuations.exponentialValuationSubringIsLocalRing _root_.LubinTate.standardLubinTateLevelCompleteDVF_hasExtensionInstance _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateLevelValuationSubring_moduleFinite _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionFixedSubring.instIsLocalRing _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RamificationTheory.HilbertRamification.ValuationSubring.selectedResidueField.instAlgebra _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.localAbsoluteValuationHasExtension _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.chosenFinitePlaceCompletionAlgebra _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space _root_.relativeAdeleRingIntermediateAlgebra _root_.relativeAdeleRingTopIntermediateAlgebra
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.IsDiscreteValuationRing.addVal_ringEquiv _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.LubinTateSeries.padicMultiplicativeLubinTateSeries_toPowerSeries _root_.LubinTate.LubinTateSeries.standardLubinTateSeries_toPowerSeries _root_.LubinTate.SameUniformizer.coeff_recursiveIntertwiner _root_.LubinTate.SameUniformizer.constantCoeff_inVariable _root_.LubinTate.SameUniformizer.intertwinerApproximation_zero _root_.LubinTate.SameUniformizer.standardLubinTateEndomorphism_coeff_one _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTateBaseUniformizerUnit_coe _root_.LubinTate.standardLubinTateChangedUniformizerUnit_coe _root_.LubinTate.standardLubinTateEndomorphismEvalAt_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_zero _root_.LubinTate.standardLubinTateEndomorphismValue_one _root_.LubinTate.standardLubinTateEndomorphismValue_zero _root_.LubinTate.standardLubinTateLevelCoefficientHom_apply _root_.LubinTate.standardLubinTateLevelGenerator_coe _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_C _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_X _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_coe _root_.LubinTate.standardLubinTatePolynomialIterateOverSeparableClosure_eval _root_.LubinTate.standardLubinTatePolynomialIterate_derivative_eval_zero _root_.LubinTate.standardLubinTatePolynomialIterate_eval_zero _root_.LubinTate.standardLubinTatePolynomialIterate_zero _root_.LubinTate.standardLubinTatePolynomial_derivative_eval_zero _root_.LubinTate.standardLubinTatePolynomial_eval _root_.LubinTate.standardLubinTatePolynomial_toPowerSeries _root_.LubinTate.standardLubinTatePolynomial_toPowerSeries_eq_series _root_.LubinTate.standardLubinTatePrimitiveLevelAction_coe _root_.LubinTate.standardLubinTatePrimitivePointIntegerAction_one _root_.LubinTate.standardLubinTatePrimitivePointInteger_coe _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTatePrimitivePolynomialOverField_coeff_zero _root_.LubinTate.standardLubinTatePrimitivePolynomial_coeff_zero _root_.LubinTate.standardLubinTatePrimitiveRootAction_one _root_.LubinTate.standardLubinTateUnitFactorFieldUnit_coe _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.galEquivDecompositionGroup_coe _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# The p-adic completed-unramified coefficient field
+
+The coefficient ring used by the mixed-characteristic changed-uniformizer
+construction is
+
+`W(AlgebraicClosure (ZMod p))`.
+
+Its fraction field is the completed maximal-unramified coefficient field.
+This file equips that existing mathlib fraction field with its canonical
+`ℚ_[p]`-algebra structure.  Mathlib's fraction-field Frobenius then becomes
+an actual `ℚ_[p]`-algebra automorphism.  No second Witt ring, p-adic field,
+or Frobenius is introduced.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open Filter
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open ValuationTheory.DiscreteValuationField
+open scoped Topology Valued WithZero
+
+/-- The maximal ideal of the completed-unramified Witt integer ring is
+generated by the canonical prime `p`. -/
+theorem padicCompletedUnramifiedWittRing_maximalIdeal
+    (p : ℕ) [Fact p.Prime] :
+    IsLocalRing.maximalIdeal (padicCompletedUnramifiedWittRing p) =
+      Ideal.span
+        ({(p : padicCompletedUnramifiedWittRing p)} : Set
+          (padicCompletedUnramifiedWittRing p)) := by
+  rw [← WittVector.ker_constantCoeff]
+  exact
+    (IsLocalRing.ker_eq_maximalIdeal
+      (WittVector.constantCoeff :
+        padicCompletedUnramifiedWittRing p →+*
+          AlgebraicClosure (ZMod p))
+      (WittVector.constantCoeff_surjective p)).symm
+
+/-- The valuation ring of the completed-unramified coefficient field is
+complete for its maximal-ideal adic topology.  This transports mathlib's
+`p`-adic completeness of Witt vectors across the canonical valuation-ring
+equivalence. -/
+theorem padicCompletedUnramifiedValuation_isAdicComplete
+    (p : ℕ) [Fact p.Prime] :
+    IsAdicComplete
+      (IsLocalRing.maximalIdeal
+        (padicCompletedUnramifiedValuation p).valuationSubring)
+      (padicCompletedUnramifiedValuation p).valuationSubring := by
+  let W := padicCompletedUnramifiedWittRing p
+  let v := padicCompletedUnramifiedValuation p
+  let e : W ≃+* v.valuationSubring :=
+    padicCompletedUnramifiedWittRingEquivValuationSubring p
+  let : Algebra W v.valuationSubring := e.toRingHom.toAlgebra
+  let eLin : W ≃ₗ[W] v.valuationSubring :=
+    { toFun := e
+      invFun := e.symm
+      left_inv := e.left_inv
+      right_inv := e.right_inv
+      map_add' := e.map_add
+      map_smul' := by
+        intro r x
+        change e (r * x) =
+          (algebraMap W v.valuationSubring r) * e x
+        simp [RingHom.algebraMap_toAlgebra] }
+  have hcompleteW :
+      IsAdicComplete (IsLocalRing.maximalIdeal W) W := by
+    rw [show IsLocalRing.maximalIdeal W =
+      Ideal.span ({(p : W)} : Set W) by
+        simpa only [W] using
+          padicCompletedUnramifiedWittRing_maximalIdeal p]
+    infer_instance
+  let : IsAdicComplete (IsLocalRing.maximalIdeal W) W :=
+    hcompleteW
+  have hcompleteAsW :
+      IsAdicComplete (IsLocalRing.maximalIdeal W)
+        v.valuationSubring :=
+    isAdicComplete_of_linearEquiv
+      (M := W) (N := v.valuationSubring)
+      (IsLocalRing.maximalIdeal W) eLin
+  have hcompleteMap :
+      IsAdicComplete
+        ((IsLocalRing.maximalIdeal W).map
+          (algebraMap W v.valuationSubring))
+        v.valuationSubring :=
+    (isAdicComplete_map_algebraMap_iff
+      (I := IsLocalRing.maximalIdeal W)
+      (S := v.valuationSubring)).2 hcompleteAsW
+  rw [RingHom.algebraMap_toAlgebra,
+    ValuationTheory.ringEquiv_map_maximalIdeal e] at hcompleteMap
+  simpa only [v] using hcompleteMap
+
+/-- The completed-unramified Witt fraction field, packaged with its actual
+complete rank-one discrete valuation. -/
+noncomputable def padicCompletedUnramifiedCompleteDVF
+    (p : ℕ) [Fact p.Prime] :
+    CompleteDVF (padicCompletedUnramifiedField p) where
+  ValueGroup := ℤᵐ⁰
+  valuation := padicCompletedUnramifiedValuation p
+  instCompleteDiscrete :=
+    { isRankOneDiscrete := inferInstance
+      isAdicComplete :=
+        padicCompletedUnramifiedValuation_isAdicComplete p }
+
+theorem
+    padicCompletedUnramifiedWittRing_intValuation_frobenius
+    (p : ℕ) [Fact p.Prime]
+    (x : padicCompletedUnramifiedWittRing p) :
+    (IsDiscreteValuationRing.maximalIdeal
+        (padicCompletedUnramifiedWittRing p)).intValuation
+        (WittVector.frobenius x) =
+      (IsDiscreteValuationRing.maximalIdeal
+        (padicCompletedUnramifiedWittRing p)).intValuation x := by
+  let W := padicCompletedUnramifiedWittRing p
+  let v := IsDiscreteValuationRing.maximalIdeal W
+  by_cases hx : x = 0
+  · subst x
+    simp
+  obtain ⟨m, u, hxu⟩ :=
+    WittVector.exists_eq_pow_p_mul' x hx
+  have hu : v.intValuation (u : W) = 1 := by
+    apply
+      IsDedekindDomain.HeightOneSpectrum.intValuation_eq_one_iff.mpr
+    change (u : W) ∉ IsLocalRing.maximalIdeal W
+    intro hmem
+    rw [IsLocalRing.mem_maximalIdeal, mem_nonunits_iff] at hmem
+    exact hmem u.isUnit
+  have hfuUnit :
+      IsUnit (WittVector.frobenius (u : W)) :=
+    u.isUnit.map WittVector.frobenius
+  have hfu :
+      v.intValuation (WittVector.frobenius (u : W)) = 1 := by
+    apply
+      IsDedekindDomain.HeightOneSpectrum.intValuation_eq_one_iff.mpr
+    change
+      WittVector.frobenius (u : W) ∉
+        IsLocalRing.maximalIdeal W
+    intro hmem
+    rw [IsLocalRing.mem_maximalIdeal, mem_nonunits_iff] at hmem
+    exact hmem hfuUnit
+  rw [hxu]
+  calc
+    v.intValuation
+        (WittVector.frobenius
+          ((p : W) ^ m * (u : W))) =
+        v.intValuation
+          ((p : W) ^ m * WittVector.frobenius (u : W)) := by
+      rw [map_mul, map_pow, map_natCast]
+    _ =
+        v.intValuation (p : W) ^ m *
+          v.intValuation (WittVector.frobenius (u : W)) := by
+      rw [map_mul, map_pow]
+    _ = v.intValuation (p : W) ^ m := by
+      rw [hfu, mul_one]
+    _ =
+        v.intValuation (p : W) ^ m *
+          v.intValuation (u : W) := by
+      rw [hu, mul_one]
+    _ = v.intValuation ((p : W) ^ m * (u : W)) := by
+      rw [map_mul, map_pow]
+
+/-- The canonical map from the valuation ring of `ℚ_[p]` into the valuation
+ring of the completed-unramified field. -/
+noncomputable def padicCompletedUnramifiedIntegerMap
+    (p : ℕ) [Fact p.Prime] :
+    (padicLocalField p).valuationSubring →+*
+      (padicCompletedUnramifiedCompleteDVF p).valuationSubring :=
+  (padicCompletedUnramifiedWittRingEquivValuationSubring p).toRingHom.comp
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+
+/-- After coercion to fraction fields, the completed-unramified integer map
+is the canonical `ℚ_[p]`-algebra map. -/
+@[simp]
+theorem padicCompletedUnramifiedIntegerMap_coe
+    (p : ℕ) [Fact p.Prime]
+    (z : (padicLocalField p).valuationSubring) :
+    ((padicCompletedUnramifiedIntegerMap p z :
+        (padicCompletedUnramifiedCompleteDVF p).valuationSubring) :
+      padicCompletedUnramifiedField p) =
+      algebraMap ℚ_[p] (padicCompletedUnramifiedField p) (z : ℚ_[p]) := by
+  let a : ℤ_[p] := (padicIntEquivValuationSubring p).symm z
+  have hz : padicIntEquivValuationSubring p a = z :=
+    (padicIntEquivValuationSubring p).apply_symm_apply z
+  rw [← hz]
+  change
+    (((padicCompletedUnramifiedWittRingEquivValuationSubring p)
+        (padicValuationSubringToCompletedUnramifiedWittRing p
+          (padicIntEquivValuationSubring p a)) :
+        (padicCompletedUnramifiedCompleteDVF p).valuationSubring) :
+      padicCompletedUnramifiedField p) =
+      algebraMap ℚ_[p] (padicCompletedUnramifiedField p)
+        (algebraMap ℤ_[p] ℚ_[p] a)
+  have hsource :
+      padicValuationSubringToCompletedUnramifiedWittRing p
+          (padicIntEquivValuationSubring p a) =
+        padicIntToCompletedUnramifiedWittRing p a := by
+    change
+      padicIntToCompletedUnramifiedWittRing p
+          ((padicIntEquivValuationSubring p).symm
+            (padicIntEquivValuationSubring p a)) =
+        padicIntToCompletedUnramifiedWittRing p a
+    rw [RingEquiv.symm_apply_apply]
+  rw [hsource]
+  change
+    algebraMap (padicCompletedUnramifiedWittRing p)
+        (padicCompletedUnramifiedField p)
+        (padicIntToCompletedUnramifiedWittRing p a) =
+      algebraMap ℚ_[p] (padicCompletedUnramifiedField p)
+        (algebraMap ℤ_[p] ℚ_[p] a)
+  exact (padicCompletedUnramifiedField_algebraMap_padicInt p a).symm
+
+/-- The canonical integer map identifies the maximal ideal of `ℚ_[p]` with
+the maximal ideal of the completed-unramified valuation ring. -/
+theorem padicCompletedUnramifiedIntegerMap_map_maximalIdeal
+    (p : ℕ) [Fact p.Prime] :
+    Ideal.map (padicCompletedUnramifiedIntegerMap p)
+        (padicLocalField p).maximalIdeal =
+      (padicCompletedUnramifiedCompleteDVF p).maximalIdeal := by
+  let W := padicCompletedUnramifiedWittRing p
+  let e : W ≃+*
+      (padicCompletedUnramifiedCompleteDVF p).valuationSubring :=
+    padicCompletedUnramifiedWittRingEquivValuationSubring p
+  have hπ :
+      (padicLocalField p).toCompleteDVF.valuation.IsUniformizer
+        ((padicIntEquivValuationSubring p (p : ℤ_[p]) :
+          (padicLocalField p).valuationSubring) : ℚ_[p]) := by
+    change (padicDVRValuation p).IsUniformizer
+      ((padicIntEquivValuationSubring p (p : ℤ_[p]) :
+        (padicDVRValuation p).valuationSubring) : ℚ_[p])
+    simpa using padicDVRValuation_isUniformizer_p p
+  have hW :
+      Ideal.map
+          (padicValuationSubringToCompletedUnramifiedWittRing p)
+          (padicLocalField p).maximalIdeal =
+        IsLocalRing.maximalIdeal W := by
+    change
+      Ideal.map
+          (padicValuationSubringToCompletedUnramifiedWittRing p)
+          (padicLocalField p).toCompleteDVF.maximalIdeal =
+        IsLocalRing.maximalIdeal W
+    rw [(padicLocalField p).toCompleteDVF.maximalIdeal_eq_span_uniformizer hπ,
+      padicCompletedUnramifiedWittRing_maximalIdeal,
+      Ideal.map_span]
+    exact congrArg (Ideal.span : Set W → Ideal W)
+      ((Set.image_singleton
+        (f := padicValuationSubringToCompletedUnramifiedWittRing p)
+        (a := show (padicLocalField p).valuationSubring from
+          padicIntEquivValuationSubring p (p : ℤ_[p]))).trans
+            (congrArg (fun x : W => ({x} : Set W))
+              (padicValuationSubringToCompletedUnramifiedWittRing_uniformizer p)))
+  change
+    Ideal.map
+        (e.toRingHom.comp
+          (padicValuationSubringToCompletedUnramifiedWittRing p))
+        (padicLocalField p).maximalIdeal =
+      IsLocalRing.maximalIdeal
+        (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+  calc
+    Ideal.map
+        (e.toRingHom.comp
+          (padicValuationSubringToCompletedUnramifiedWittRing p))
+        (padicLocalField p).maximalIdeal =
+        Ideal.map e.toRingHom
+          (Ideal.map
+            (padicValuationSubringToCompletedUnramifiedWittRing p)
+            (padicLocalField p).maximalIdeal) :=
+      (Ideal.map_map
+        (padicValuationSubringToCompletedUnramifiedWittRing p)
+        e.toRingHom).symm
+    _ = Ideal.map e.toRingHom (IsLocalRing.maximalIdeal W) := by
+      rw [hW]
+    _ =
+        IsLocalRing.maximalIdeal
+          (padicCompletedUnramifiedCompleteDVF p).valuationSubring :=
+      ValuationTheory.ringEquiv_map_maximalIdeal e
+
+/-- Mathlib's Witt-vector fraction-field Frobenius, regarded over the
+canonical p-adic base field. -/
+noncomputable def padicCompletedUnramifiedFrobenius
+    (p : ℕ) [Fact p.Prime] :
+    padicCompletedUnramifiedField p ≃ₐ[ℚ_[p]]
+      padicCompletedUnramifiedField p := by
+  let k := AlgebraicClosure (ZMod p)
+  let W := padicCompletedUnramifiedWittRing p
+  let E := padicCompletedUnramifiedField p
+  let φ : E ≃+* E :=
+    IsFractionRing.ringEquivOfRingEquiv
+      (WittVector.frobeniusEquiv p k)
+  refine
+    { __ := φ
+      commutes' := ?_ }
+  intro x
+  have h :
+      φ.toRingHom.comp (algebraMap ℚ_[p] E) =
+        algebraMap ℚ_[p] E := by
+    apply IsFractionRing.ringHom_ext (A := ℤ_[p])
+    intro z
+    rw [RingHom.comp_apply,
+      padicCompletedUnramifiedField_algebraMap_padicInt]
+    dsimp only [φ]
+    change
+      IsFractionRing.ringEquivOfRingEquiv
+          (WittVector.frobeniusEquiv p k)
+          (algebraMap W E
+            (padicIntToCompletedUnramifiedWittRing p z)) =
+        algebraMap W E
+          (padicIntToCompletedUnramifiedWittRing p z)
+    rw [IsFractionRing.ringEquivOfRingEquiv_algebraMap]
+    change
+      algebraMap W E
+          (WittVector.frobenius
+            (padicIntToCompletedUnramifiedWittRing p z)) =
+        algebraMap W E
+          (padicIntToCompletedUnramifiedWittRing p z)
+    rw [padicIntToCompletedUnramifiedWittRing_frobenius]
+  exact RingHom.congr_fun h x
+
+/-- On the Witt integer ring, the field Frobenius is exactly mathlib's
+Witt-vector Frobenius. -/
+@[simp]
+theorem padicCompletedUnramifiedFrobenius_algebraMap_witt
+    (p : ℕ) [Fact p.Prime]
+    (x : padicCompletedUnramifiedWittRing p) :
+    padicCompletedUnramifiedFrobenius p
+        (algebraMap (padicCompletedUnramifiedWittRing p)
+          (padicCompletedUnramifiedField p) x) =
+      algebraMap (padicCompletedUnramifiedWittRing p)
+        (padicCompletedUnramifiedField p)
+        (WittVector.frobenius x) := by
+  unfold padicCompletedUnramifiedFrobenius
+  change
+    IsFractionRing.ringEquivOfRingEquiv
+        (WittVector.frobeniusEquiv p
+          (AlgebraicClosure (ZMod p)))
+        (algebraMap (padicCompletedUnramifiedWittRing p)
+          (padicCompletedUnramifiedField p) x) =
+      algebraMap (padicCompletedUnramifiedWittRing p)
+        (padicCompletedUnramifiedField p)
+        (WittVector.frobenius x)
+  rw [IsFractionRing.ringEquivOfRingEquiv_algebraMap]
+  rfl
+
+/-- Witt Frobenius preserves the canonical discrete valuation on the
+completed-unramified coefficient field. -/
+@[simp]
+theorem padicCompletedUnramifiedFrobenius_valuation
+    (p : ℕ) [Fact p.Prime]
+    (x : padicCompletedUnramifiedField p) :
+    padicCompletedUnramifiedValuation p
+        (padicCompletedUnramifiedFrobenius p x) =
+      padicCompletedUnramifiedValuation p x := by
+  let W := padicCompletedUnramifiedWittRing p
+  let E := padicCompletedUnramifiedField p
+  let v := IsDiscreteValuationRing.maximalIdeal W
+  rcases IsFractionRing.div_surjective (A := W) x with
+    ⟨a, b, _hb, rfl⟩
+  change
+    v.valuation E
+        (padicCompletedUnramifiedFrobenius p
+          (algebraMap W E a / algebraMap W E b)) =
+      v.valuation E
+        (algebraMap W E a / algebraMap W E b)
+  rw [map_div₀ (padicCompletedUnramifiedFrobenius p),
+    padicCompletedUnramifiedFrobenius_algebraMap_witt,
+    padicCompletedUnramifiedFrobenius_algebraMap_witt]
+  change
+    v.valuation E
+        (algebraMap W E (WittVector.frobenius a) /
+          algebraMap W E (WittVector.frobenius b)) =
+      v.valuation E (algebraMap W E a / algebraMap W E b)
+  calc
+    v.valuation E
+        (algebraMap W E (WittVector.frobenius a) /
+          algebraMap W E (WittVector.frobenius b)) =
+        v.intValuation (WittVector.frobenius a) /
+          v.intValuation (WittVector.frobenius b) := by
+      rw [(v.valuation E).map_div,
+        v.valuation_of_algebraMap (K := E),
+        v.valuation_of_algebraMap (K := E)]
+    _ = v.intValuation a / v.intValuation b := by
+      rw [padicCompletedUnramifiedWittRing_intValuation_frobenius,
+        padicCompletedUnramifiedWittRing_intValuation_frobenius]
+    _ = v.valuation E
+        (algebraMap W E a / algebraMap W E b) := by
+      rw [(v.valuation E).map_div,
+        v.valuation_of_algebraMap (K := E),
+        v.valuation_of_algebraMap (K := E)]
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_ChangedUniformizerIntertwiner_CompletedSeries
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_isCompleteDiscrete _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localSeparableValuationHasExtension _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instDiscreteTopology _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedWithZeroValuationContextIntegralAlgebra _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicDVR_residueField_finite _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RamificationTheory.HilbertRamification.ValuationSubring.selectedResidueField.instAlgebra _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.localAbsoluteValuationHasExtension _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.chosenFinitePlaceCompletionAlgebra _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space _root_.relativeAdeleRingIntermediateAlgebra _root_.relativeAdeleRingTopIntermediateAlgebra
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.SameUniformizer.coeff_recursiveIntertwiner _root_.LubinTate.SameUniformizer.constantCoeff_inVariable _root_.LubinTate.SameUniformizer.intertwinerApproximation_zero _root_.LubinTate.SameUniformizer.standardLubinTateEndomorphism_coeff_one _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_zero _root_.LubinTate.standardLubinTateEndomorphismValue_one _root_.LubinTate.standardLubinTateEndomorphismValue_zero _root_.LubinTate.standardLubinTateLevelCoefficientHom_apply _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_C _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_X _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_coe _root_.LubinTate.standardLubinTatePrimitiveLevelAction_coe _root_.LubinTate.standardLubinTatePrimitivePointIntegerAction_one _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTatePrimitiveRootAction_one _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.galEquivDecompositionGroup_coe _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Completed p-adic Lubin--Tate series
+
+This module extends the multiplicative and changed-standard Lubin--Tate series to the completed unramified Witt ring and records their coefficients and residue reductions.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open SameUniformizer
+
+/-- The multiplicative Lubin--Tate series after extending its coefficients
+to the completed unramified Witt ring. -/
+noncomputable def padicCompletedMultiplicativeSeries
+    (p : ℕ) [Fact p.Prime] :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.map
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+    (padicMultiplicativeLubinTateSeries p).toPowerSeries
+
+/-- The standard Lubin--Tate series for the changed uniformizer `u p`,
+after extending its coefficients to the completed unramified Witt ring. -/
+noncomputable def padicCompletedChangedStandardSeries
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.map
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+    (standardLubinTateSeries
+      (standardLubinTateChangedUniformizer_isUniformizer
+        (padicMultiplicativeLubinTateSeries_isUniformizer p) u)).toPowerSeries
+
+/-- The completed multiplicative Lubin--Tate series is the binomial series
+`(1 + X) ^ p - 1`. -/
+theorem padicCompletedMultiplicativeSeries_eq
+    (p : ℕ) [Fact p.Prime] :
+    padicCompletedMultiplicativeSeries p =
+      (1 + PowerSeries.X) ^ p - 1 := by
+  rw [padicCompletedMultiplicativeSeries,
+    LubinTateSeries.padicMultiplicativeLubinTateSeries_toPowerSeries,
+    PowerSeries.binomialSeries_nat]
+  simp only [map_sub, map_pow, map_add, map_one, PowerSeries.map_X]
+
+/-- The completed changed-standard series has linear coefficient `u p` and
+degree-`p` term `X ^ p`. -/
+theorem padicCompletedChangedStandardSeries_eq
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    padicCompletedChangedStandardSeries p u =
+      PowerSeries.C
+          (((padicValuationUnitToCompletedUnramifiedWittUnit p u :
+              (padicCompletedUnramifiedWittRing p)ˣ) : padicCompletedUnramifiedWittRing p) *
+            (p : padicCompletedUnramifiedWittRing p)) *
+          PowerSeries.X +
+        PowerSeries.X ^ p := by
+  have hcard :
+      Nat.card (padicLocalField p).residueField = p := by
+    simpa [padicLocalField] using
+      padicCompleteDVF_residueField_card p
+  rw [padicCompletedChangedStandardSeries,
+    LubinTateSeries.standardLubinTateSeries_toPowerSeries]
+  simp only [standardLubinTatePowerSeries,
+    standardLubinTateChangedUniformizer,
+    map_add, map_mul, map_pow, PowerSeries.map_C,
+    PowerSeries.map_X, hcard]
+  have hcoeff :
+      padicValuationSubringToCompletedUnramifiedWittRing p
+          ((u : (padicLocalField p).valuationSubring) *
+            (show (padicLocalField p).valuationSubring from
+              padicIntEquivValuationSubring p (p : ℤ_[p]))) =
+        padicValuationSubringToCompletedUnramifiedWittRing p u *
+          (p : padicCompletedUnramifiedWittRing p) :=
+    (map_mul (padicValuationSubringToCompletedUnramifiedWittRing p)
+      (u : (padicLocalField p).valuationSubring)
+      (show (padicLocalField p).valuationSubring from
+        padicIntEquivValuationSubring p (p : ℤ_[p]))).trans
+      (congrArg (fun z : padicCompletedUnramifiedWittRing p =>
+        padicValuationSubringToCompletedUnramifiedWittRing p u * z)
+        (padicValuationSubringToCompletedUnramifiedWittRing_uniformizer p))
+  exact congrArg (fun z : PowerSeries (padicCompletedUnramifiedWittRing p) =>
+      z * PowerSeries.X + PowerSeries.X ^ p)
+    ((congrArg PowerSeries.C hcoeff).trans
+      (map_mul PowerSeries.C
+        (padicValuationSubringToCompletedUnramifiedWittRing p u)
+        (p : padicCompletedUnramifiedWittRing p)))
+
+theorem padicCompletedMultiplicativeSeries_constantCoeff
+    (p : ℕ) [Fact p.Prime] :
+    PowerSeries.constantCoeff
+        (padicCompletedMultiplicativeSeries p) = 0 := by
+  rw [← PowerSeries.coeff_zero_eq_constantCoeff,
+    padicCompletedMultiplicativeSeries,
+    PowerSeries.coeff_map,
+    PowerSeries.coeff_zero_eq_constantCoeff_apply]
+  exact
+    (congrArg (padicValuationSubringToCompletedUnramifiedWittRing p)
+      (padicMultiplicativeLubinTateSeries p).constantCoeff_eq_zero).trans
+      (map_zero (padicValuationSubringToCompletedUnramifiedWittRing p))
+
+/-- The linear coefficient of the completed multiplicative series is `p`. -/
+theorem padicCompletedMultiplicativeSeries_coeff_one
+    (p : ℕ) [Fact p.Prime] :
+    PowerSeries.coeff 1
+        (padicCompletedMultiplicativeSeries p) =
+      (p : padicCompletedUnramifiedWittRing p) := by
+  rw [padicCompletedMultiplicativeSeries,
+    PowerSeries.coeff_map]
+  exact
+    (congrArg (padicValuationSubringToCompletedUnramifiedWittRing p)
+      (padicMultiplicativeLubinTateSeries p).coeff_one_eq_uniformizer).trans
+      (padicValuationSubringToCompletedUnramifiedWittRing_uniformizer p)
+
+/-- Reduction of the completed multiplicative series modulo `p` is `X ^ p`. -/
+theorem padicCompletedMultiplicativeSeries_map_constantCoeff
+    (p : ℕ) [Fact p.Prime] :
+    PowerSeries.map WittVector.constantCoeff
+        (padicCompletedMultiplicativeSeries p) =
+      (PowerSeries.X :
+        PowerSeries (AlgebraicClosure (ZMod p))) ^ p := by
+  let : CharP (PowerSeries (AlgebraicClosure (ZMod p))) p :=
+    charP_of_injective_ringHom PowerSeries.C_injective p
+  rw [padicCompletedMultiplicativeSeries_eq]
+  simp only [map_sub, map_pow, map_add, map_one, PowerSeries.map_X]
+  rw [add_pow_char]
+  simp
+
+/-- Reduction of the completed changed-standard series modulo `p` is
+`X ^ p`. -/
+theorem padicCompletedChangedStandardSeries_map_constantCoeff
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    PowerSeries.map WittVector.constantCoeff
+        (padicCompletedChangedStandardSeries p u) =
+      (PowerSeries.X :
+        PowerSeries (AlgebraicClosure (ZMod p))) ^ p := by
+  let : CharP (PowerSeries (AlgebraicClosure (ZMod p))) p :=
+    charP_of_injective_ringHom PowerSeries.C_injective p
+  rw [padicCompletedChangedStandardSeries_eq]
+  simp only [map_add, map_mul, map_pow, PowerSeries.map_C,
+    PowerSeries.map_X, map_natCast]
+  rw [CharP.cast_eq_zero (PowerSeries (AlgebraicClosure (ZMod p))) p]
+  simp
+
+/-- Coefficientwise Witt-vector Frobenius preserves a zero constant
+coefficient. -/
+theorem padicChangedUniformizerFrobenius_constantCoeff_eq_zero
+    (p : ℕ) [Fact p.Prime]
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hH : PowerSeries.constantCoeff H = 0) :
+    PowerSeries.constantCoeff
+        (PowerSeries.map WittVector.frobenius H) = 0 := by
+  rw [← PowerSeries.coeff_zero_eq_constantCoeff,
+    PowerSeries.coeff_map,
+    PowerSeries.coeff_zero_eq_constantCoeff_apply,
+    hH, map_zero]
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_ChangedUniformizerIntertwiner_DefectCorrection
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localDecompositionResidueFinite _root_.LocalClassFieldTheory.localDecompositionResidueFintype _root_.LocalClassFieldTheory.localSelectedResidueIsAlgClosed _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.Padic.padicUnitFiniteFactor_finite _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.DukePrimeDegree.instFintypeCyclicSubgroups _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.boundedRealFields_finite _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RamificationTheory.HilbertRamification.ValuationSubring.selectedResidueField.instAlgebra _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.chosenFinitePlaceCompletionAlgebra _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space _root_.relativeAdeleRingIntermediateAlgebra _root_.relativeAdeleRingTopIntermediateAlgebra
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.SameUniformizer.coeff_recursiveIntertwiner _root_.LubinTate.SameUniformizer.constantCoeff_inVariable _root_.LubinTate.SameUniformizer.intertwinerApproximation_zero _root_.LubinTate.SameUniformizer.standardLubinTateEndomorphism_coeff_one _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_zero _root_.LubinTate.standardLubinTateEndomorphismValue_one _root_.LubinTate.standardLubinTateEndomorphismValue_zero _root_.LubinTate.standardLubinTateLevelCoefficientHom_apply _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_C _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_X _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_coe _root_.LubinTate.standardLubinTatePrimitiveLevelAction_coe _root_.LubinTate.standardLubinTatePrimitivePointIntegerAction_one _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTatePrimitiveRootAction_one _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Changed-uniformizer defect correction
+
+This module computes how a degreewise correction changes the semilinear substitution defect and constructs the unique coefficient that kills that defect.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open SameUniformizer
+
+/-- The defect of a candidate changed-uniformizer intertwiner: the difference
+between its Frobenius-twisted multiplicative substitution and its
+changed-standard substitution. -/
+noncomputable def padicChangedUniformizerDefect
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p)) :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.subst
+      (padicCompletedMultiplicativeSeries p)
+      (PowerSeries.map WittVector.frobenius H) -
+    PowerSeries.subst H
+      (padicCompletedChangedStandardSeries p u)
+
+/-- Reduction modulo `p` commutes with coefficientwise Witt-vector Frobenius
+through residue-field Frobenius. -/
+theorem padicChangedUniformizerFrobenius_map_constantCoeff
+    (p : ℕ) [Fact p.Prime]
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p)) :
+    PowerSeries.map WittVector.constantCoeff
+        (PowerSeries.map WittVector.frobenius H) =
+      PowerSeries.map
+        (frobenius (AlgebraicClosure (ZMod p)) p)
+        (PowerSeries.map WittVector.constantCoeff H) := by
+  apply PowerSeries.ext
+  intro n
+  simp [PowerSeries.coeff_map, WittVector.constantCoeff_apply,
+    WittVector.coeff_frobenius_charP, frobenius_def]
+
+/-- The changed-uniformizer defect vanishes after coefficientwise reduction
+modulo `p`. -/
+theorem padicChangedUniformizerDefect_map_constantCoeff
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hH : PowerSeries.constantCoeff H = 0) :
+    PowerSeries.map WittVector.constantCoeff
+        (padicChangedUniformizerDefect p u H) = 0 := by
+  have hM :
+      PowerSeries.HasSubst (padicCompletedMultiplicativeSeries p) :=
+    PowerSeries.HasSubst.of_constantCoeff_zero'
+      (padicCompletedMultiplicativeSeries_constantCoeff p)
+  have hHsubst : PowerSeries.HasSubst H :=
+    PowerSeries.HasSubst.of_constantCoeff_zero' hH
+  have hHbar :
+      PowerSeries.HasSubst
+        (PowerSeries.map WittVector.constantCoeff H) :=
+    PowerSeries.HasSubst.of_constantCoeff_zero' (by
+      change WittVector.constantCoeff
+          (PowerSeries.constantCoeff H) = 0
+      rw [hH, map_zero])
+  rw [padicChangedUniformizerDefect, map_sub]
+  change
+    MvPowerSeries.map WittVector.constantCoeff
+          (PowerSeries.subst (padicCompletedMultiplicativeSeries p)
+            (PowerSeries.map WittVector.frobenius H)) -
+        MvPowerSeries.map WittVector.constantCoeff
+          (PowerSeries.subst H
+            (padicCompletedChangedStandardSeries p u)) =
+      0
+  rw [PowerSeries.map_subst hM,
+    PowerSeries.map_subst hHsubst]
+  change
+    PowerSeries.subst
+          (PowerSeries.map WittVector.constantCoeff
+            (padicCompletedMultiplicativeSeries p))
+          (PowerSeries.map WittVector.constantCoeff
+            (PowerSeries.map WittVector.frobenius H)) -
+        PowerSeries.subst
+          (PowerSeries.map WittVector.constantCoeff H)
+          (PowerSeries.map WittVector.constantCoeff
+            (padicCompletedChangedStandardSeries p u)) =
+      0
+  rw [padicCompletedMultiplicativeSeries_map_constantCoeff,
+    padicCompletedChangedStandardSeries_map_constantCoeff,
+    padicChangedUniformizerFrobenius_map_constantCoeff]
+  rw [← PowerSeries.expand_apply, ← PowerSeries.map_expand]
+  change
+    MvPowerSeries.map
+          (frobenius (AlgebraicClosure (ZMod p)) p)
+          (MvPowerSeries.expand p (Fact.out : p.Prime).ne_zero
+            (PowerSeries.map WittVector.constantCoeff H)) -
+        PowerSeries.subst
+          (PowerSeries.map WittVector.constantCoeff H)
+          (PowerSeries.X ^ p) =
+      0
+  rw [MvPowerSeries.map_frobenius_expand p
+    (Fact.out : p.Prime).ne_zero]
+  rw [PowerSeries.subst_pow hHbar,
+    PowerSeries.subst_X hHbar]
+  exact sub_self _
+
+/-- Every coefficient of the changed-uniformizer defect is divisible by
+`p` in the completed unramified Witt ring. -/
+theorem padicChangedUniformizerDefect_coeff_mem_span_p
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hH : PowerSeries.constantCoeff H = 0)
+    (m : ℕ) :
+    PowerSeries.coeff m (padicChangedUniformizerDefect p u H) ∈
+      Ideal.span ({(p : padicCompletedUnramifiedWittRing p)} : Set _) := by
+  rw [← WittVector.ker_constantCoeff]
+  change
+    WittVector.constantCoeff
+      (PowerSeries.coeff m
+        (padicChangedUniformizerDefect p u H)) = 0
+  rw [← PowerSeries.coeff_map,
+    padicChangedUniformizerDefect_map_constantCoeff p u H hH,
+    map_zero]
+
+theorem exists_padicChangedUniformizerNormalizedDefect
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hH : PowerSeries.constantCoeff H = 0)
+    (m : ℕ) :
+    ∃ b : padicCompletedUnramifiedWittRing p,
+      (p : padicCompletedUnramifiedWittRing p) * b =
+        PowerSeries.coeff m
+          (padicChangedUniformizerDefect p u H) := by
+  have hmem :=
+    padicChangedUniformizerDefect_coeff_mem_span_p p u H hH m
+  rw [Ideal.mem_span_singleton] at hmem
+  rcases hmem with ⟨b, hb⟩
+  exact ⟨b, hb.symm⟩
+
+noncomputable def padicChangedUniformizerNormalizedDefect
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hH : PowerSeries.constantCoeff H = 0)
+    (m : ℕ) :
+    padicCompletedUnramifiedWittRing p :=
+  Classical.choose
+    (exists_padicChangedUniformizerNormalizedDefect p u H hH m)
+
+/-- The completed multiplicative Lubin--Tate series has order one. -/
+theorem padicCompletedMultiplicativeSeries_order
+    (p : ℕ) [Fact p.Prime] :
+    (padicCompletedMultiplicativeSeries p).order = 1 := by
+  apply PowerSeries.order_eq_nat.mpr
+  constructor
+  · rw [padicCompletedMultiplicativeSeries_coeff_one]
+    exact
+      WittVector.p_nonzero p (AlgebraicClosure (ZMod p))
+  · intro i hi
+    have hi0 : i = 0 := by omega
+    subst i
+    simpa [PowerSeries.coeff_zero_eq_constantCoeff_apply] using
+      padicCompletedMultiplicativeSeries_constantCoeff p
+
+/-- The degree-`m` coefficient of the `m`-th power of the completed
+multiplicative series is `p ^ m`. -/
+theorem padicCompletedMultiplicativeSeries_coeff_pow_self
+    (p : ℕ) [Fact p.Prime] (m : ℕ) :
+    PowerSeries.coeff m
+        ((padicCompletedMultiplicativeSeries p) ^ m) =
+      (p : padicCompletedUnramifiedWittRing p) ^ m := by
+  let M := padicCompletedMultiplicativeSeries p
+  have hMorder : M.order = 1 :=
+    padicCompletedMultiplicativeSeries_order p
+  calc
+    PowerSeries.coeff m (M ^ m) =
+        PowerSeries.constantCoeff
+          (PowerSeries.divXPowOrder (M ^ m)) := by
+      rw [PowerSeries.constantCoeff_divXPowOrder,
+        PowerSeries.order_pow, hMorder]
+      simp
+    _ =
+        PowerSeries.constantCoeff
+          ((PowerSeries.divXPowOrder M) ^ m) := by
+      rw [PowerSeries.divXPowOrder_pow]
+    _ =
+        (PowerSeries.constantCoeff
+          (PowerSeries.divXPowOrder M)) ^ m := by
+      exact map_pow PowerSeries.constantCoeff _ _
+    _ = (PowerSeries.coeff 1 M) ^ m := by
+      rw [PowerSeries.constantCoeff_divXPowOrder, hMorder]
+      rfl
+    _ = (p : padicCompletedUnramifiedWittRing p) ^ m := by
+      rw [padicCompletedMultiplicativeSeries_coeff_one]
+
+/-- Substituting the completed multiplicative series into a monomial scales
+its `m`-th power by the monomial coefficient. -/
+theorem padicChangedUniformizer_subst_monomial
+    (p : ℕ) [Fact p.Prime]
+    (m : ℕ) (c : padicCompletedUnramifiedWittRing p) :
+    PowerSeries.subst
+        (padicCompletedMultiplicativeSeries p)
+        (PowerSeries.monomial m c) =
+      PowerSeries.C c *
+        (padicCompletedMultiplicativeSeries p) ^ m := by
+  have hM :
+      PowerSeries.HasSubst (padicCompletedMultiplicativeSeries p) :=
+    PowerSeries.HasSubst.of_constantCoeff_zero'
+      (padicCompletedMultiplicativeSeries_constantCoeff p)
+  rw [PowerSeries.monomial_eq_C_mul_X_pow,
+    PowerSeries.subst_mul hM,
+    PowerSeries.subst_C,
+    PowerSeries.subst_pow hM,
+    PowerSeries.subst_X hM]
+  rfl
+
+theorem
+    padicChangedUniformizerFrobenius_add_monomial
+    (p : ℕ) [Fact p.Prime]
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (m : ℕ) (c : padicCompletedUnramifiedWittRing p) :
+    PowerSeries.map WittVector.frobenius
+        (H + PowerSeries.monomial m c) =
+      PowerSeries.map WittVector.frobenius H +
+        PowerSeries.monomial m (WittVector.frobenius c) := by
+  apply PowerSeries.ext
+  intro i
+  by_cases hi : i = m
+  · subst i
+    simp [PowerSeries.coeff_map]
+  · simp [PowerSeries.coeff_map, PowerSeries.coeff_monomial, hi]
+
+theorem padicChangedUniformizer_coeff_subst_frobenius_add_monomial
+    (p : ℕ) [Fact p.Prime]
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (m : ℕ) (c : padicCompletedUnramifiedWittRing p) :
+    PowerSeries.coeff m
+        (PowerSeries.subst
+          (padicCompletedMultiplicativeSeries p)
+          (PowerSeries.map WittVector.frobenius
+            (H + PowerSeries.monomial m c))) =
+      PowerSeries.coeff m
+          (PowerSeries.subst
+            (padicCompletedMultiplicativeSeries p)
+            (PowerSeries.map WittVector.frobenius H)) +
+        (p : padicCompletedUnramifiedWittRing p) ^ m *
+          WittVector.frobenius c := by
+  have hM :
+      PowerSeries.HasSubst (padicCompletedMultiplicativeSeries p) :=
+    PowerSeries.HasSubst.of_constantCoeff_zero'
+      (padicCompletedMultiplicativeSeries_constantCoeff p)
+  rw [padicChangedUniformizerFrobenius_add_monomial,
+    PowerSeries.subst_add hM, map_add,
+    padicChangedUniformizer_subst_monomial,
+    PowerSeries.coeff_C_mul,
+    padicCompletedMultiplicativeSeries_coeff_pow_self]
+  ring
+
+/-- The unique coefficient that corrects the changed-uniformizer defect in
+degree `m`. -/
+noncomputable def padicChangedUniformizerCorrectionCoefficient
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hH : PowerSeries.constantCoeff H = 0)
+    (m : ℕ) (hm : 2 ≤ m) :
+    padicCompletedUnramifiedWittRing p :=
+  Classical.choose
+    (existsUnique_padicChangedUniformizerCoefficient p u m hm
+      ((↑((padicValuationUnitToCompletedUnramifiedWittUnit p u)⁻¹) :
+          padicCompletedUnramifiedWittRing p) *
+        padicChangedUniformizerNormalizedDefect p u H hH m))
+
+/-- The correction coefficient satisfies its defining Frobenius fixed-point
+equation. -/
+theorem padicChangedUniformizerCorrectionCoefficient_spec
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (H : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hH : PowerSeries.constantCoeff H = 0)
+    (m : ℕ) (hm : 2 ≤ m) :
+    padicChangedUniformizerCorrectionCoefficient p u H hH m hm =
+      (↑((padicValuationUnitToCompletedUnramifiedWittUnit p u)⁻¹) :
+          padicCompletedUnramifiedWittRing p) *
+        padicChangedUniformizerNormalizedDefect p u H hH m +
+      (↑((padicValuationUnitToCompletedUnramifiedWittUnit p u)⁻¹) :
+          padicCompletedUnramifiedWittRing p) *
+        (p : padicCompletedUnramifiedWittRing p) ^ (m - 1) *
+        WittVector.frobenius
+          (padicChangedUniformizerCorrectionCoefficient
+            p u H hH m hm) :=
+  (Classical.choose_spec
+    (existsUnique_padicChangedUniformizerCoefficient p u m hm
+      ((↑((padicValuationUnitToCompletedUnramifiedWittUnit p u)⁻¹) :
+          padicCompletedUnramifiedWittRing p) *
+        padicChangedUniformizerNormalizedDefect p u H hH m))).1
+
+/-- The degree-`m` defect depends only on coefficients through degree `m`. -/
+theorem padicChangedUniformizerDefect_coeff_eq_of_coeff_eq_le
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    {H H' : PowerSeries (padicCompletedUnramifiedWittRing p)}
+    (hH : PowerSeries.constantCoeff H = 0)
+    (hH' : PowerSeries.constantCoeff H' = 0)
+    (m : ℕ)
+    (hcoeff : ∀ q : ℕ, q ≤ m →
+      PowerSeries.coeff q H = PowerSeries.coeff q H') :
+    PowerSeries.coeff m
+        (padicChangedUniformizerDefect p u H) =
+      PowerSeries.coeff m
+        (padicChangedUniformizerDefect p u H') := by
+  let M := padicCompletedMultiplicativeSeries p
+  let E := padicCompletedChangedStandardSeries p u
+  let ΦH := PowerSeries.map WittVector.frobenius H
+  let ΦH' := PowerSeries.map WittVector.frobenius H'
+  let k := m + 1
+  have htruncH : H.truncTotal k = H'.truncTotal k :=
+    powerSeries_truncTotal_succ_eq_of_coeff_eq_le m hcoeff
+  have hcoeffΦ : ∀ q : ℕ, q ≤ m →
+      PowerSeries.coeff q ΦH = PowerSeries.coeff q ΦH' := by
+    intro q hq
+    simp [ΦH, ΦH', PowerSeries.coeff_map, hcoeff q hq]
+  have htruncΦ : ΦH.truncTotal k = ΦH'.truncTotal k :=
+    powerSeries_truncTotal_succ_eq_of_coeff_eq_le m hcoeffΦ
+  have hHsubst : PowerSeries.HasSubst H :=
+    PowerSeries.HasSubst.of_constantCoeff_zero' hH
+  have hH'subst : PowerSeries.HasSubst H' :=
+    PowerSeries.HasSubst.of_constantCoeff_zero' hH'
+  have hMconstant : PowerSeries.constantCoeff M = 0 :=
+    padicCompletedMultiplicativeSeries_constantCoeff p
+  have hleft :
+      (PowerSeries.subst H E).truncTotal k =
+        (PowerSeries.subst H' E).truncTotal k := by
+    change
+      (MvPowerSeries.subst (fun _ : Unit ↦ H) E).truncTotal k =
+        (MvPowerSeries.subst (fun _ : Unit ↦ H') E).truncTotal k
+    calc
+      (MvPowerSeries.subst (fun _ : Unit ↦ H) E).truncTotal k =
+          (MvPowerSeries.subst
+            (fun _ : Unit ↦ (H.truncTotal k).toMvPowerSeries)
+            E).truncTotal k := by
+        exact
+          MvPowerSeries.truncTotal_subst_eq_truncTotal_subst_truncTotal_of_le
+            (f := E) (a := fun _ : Unit ↦ H)
+            (x := fun _ : Unit ↦ k) hHsubst.const (fun _ ↦ le_rfl)
+      _ = (MvPowerSeries.subst
+            (fun _ : Unit ↦ (H'.truncTotal k).toMvPowerSeries)
+            E).truncTotal k := by
+        rw [htruncH]
+      _ = (MvPowerSeries.subst (fun _ : Unit ↦ H') E).truncTotal k := by
+        exact
+          (MvPowerSeries.truncTotal_subst_eq_truncTotal_subst_truncTotal_of_le
+            (f := E) (a := fun _ : Unit ↦ H')
+            (x := fun _ : Unit ↦ k) hH'subst.const
+            (fun _ ↦ le_rfl)).symm
+  have hright :
+      (PowerSeries.subst M ΦH).truncTotal k =
+        (PowerSeries.subst M ΦH').truncTotal k := by
+    change
+      (MvPowerSeries.subst (fun _ : Unit ↦ M) ΦH).truncTotal k =
+        (MvPowerSeries.subst (fun _ : Unit ↦ M) ΦH').truncTotal k
+    calc
+      (MvPowerSeries.subst (fun _ : Unit ↦ M) ΦH).truncTotal k =
+          (MvPowerSeries.subst (fun _ : Unit ↦ M)
+            (ΦH.truncTotal k).toMvPowerSeries).truncTotal k := by
+        exact
+          MvPowerSeries.truncTotal_subst_eq_truncTotal_truncTotal_subst
+            (f := ΦH) (a := fun _ : Unit ↦ M)
+            (fun _ ↦ hMconstant)
+      _ = (MvPowerSeries.subst (fun _ : Unit ↦ M)
+            (ΦH'.truncTotal k).toMvPowerSeries).truncTotal k := by
+        rw [htruncΦ]
+      _ = (MvPowerSeries.subst (fun _ : Unit ↦ M) ΦH').truncTotal k := by
+        exact
+          (MvPowerSeries.truncTotal_subst_eq_truncTotal_truncTotal_subst
+            (f := ΦH') (a := fun _ : Unit ↦ M)
+            (fun _ ↦ hMconstant)).symm
+  have hdefect :
+      (padicChangedUniformizerDefect p u H).truncTotal k =
+        (padicChangedUniformizerDefect p u H').truncTotal k := by
+    unfold padicChangedUniformizerDefect
+    rw [map_sub, map_sub, hright, hleft]
+  have hmDegree :
+      (Finsupp.single () m).degree < k := by
+    simp [k]
+  calc
+    PowerSeries.coeff m
+        (padicChangedUniformizerDefect p u H) =
+        MvPowerSeries.coeff (Finsupp.single () m)
+          ((padicChangedUniformizerDefect p u H).truncTotal k) :=
+      (MvPowerSeries.coeff_truncTotal
+        (padicChangedUniformizerDefect p u H) hmDegree).symm
+    _ = MvPowerSeries.coeff (Finsupp.single () m)
+          ((padicChangedUniformizerDefect p u H').truncTotal k) := by
+      rw [hdefect]
+    _ = PowerSeries.coeff m
+        (padicChangedUniformizerDefect p u H') :=
+      MvPowerSeries.coeff_truncTotal
+        (padicChangedUniformizerDefect p u H') hmDegree
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_ChangedUniformizerIntertwiner_IntertwinerConstruction
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localSelectedResidueIsAlgClosed _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.SameUniformizer.coeff_recursiveIntertwiner _root_.LubinTate.SameUniformizer.constantCoeff_inVariable _root_.LubinTate.SameUniformizer.intertwinerApproximation_zero _root_.LubinTate.SameUniformizer.standardLubinTateEndomorphism_coeff_one _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_zero _root_.LubinTate.standardLubinTateEndomorphismValue_one _root_.LubinTate.standardLubinTateEndomorphismValue_zero _root_.LubinTate.standardLubinTateLevelCoefficientHom_apply _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_C _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_X _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_coe _root_.LubinTate.standardLubinTatePrimitiveLevelAction_coe _root_.LubinTate.standardLubinTatePrimitivePointIntegerAction_one _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTatePrimitiveRootAction_one _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Changed-uniformizer intertwiner construction
+
+This module builds compatible finite-degree approximations, assembles the changed-uniformizer intertwiner, proves its functional equation, and establishes uniqueness.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open SameUniformizer
+
+structure PadicChangedUniformizerApproximation
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) where
+  series : PowerSeries (padicCompletedUnramifiedWittRing p)
+  constantCoeff_eq_zero :
+    PowerSeries.constantCoeff series = 0
+  coeff_one_eq :
+    PowerSeries.coeff 1 series =
+      (padicChangedUniformizerLinearCoefficient p u :
+        padicCompletedUnramifiedWittRing p)
+
+noncomputable def padicChangedUniformizerApproximation
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    ℕ → PadicChangedUniformizerApproximation p u
+  | 0 =>
+      { series :=
+          PowerSeries.monomial 1
+            (padicChangedUniformizerLinearCoefficient p u :
+              padicCompletedUnramifiedWittRing p)
+        constantCoeff_eq_zero := by
+          rw [← PowerSeries.coeff_zero_eq_constantCoeff,
+            PowerSeries.coeff_monomial]
+          simp
+        coeff_one_eq := by simp }
+  | n + 1 =>
+      let A := padicChangedUniformizerApproximation p u n
+      let m := n + 2
+      let c :=
+        padicChangedUniformizerCorrectionCoefficient
+          p u A.series A.constantCoeff_eq_zero m (by omega)
+      { series := A.series + PowerSeries.monomial m c
+        constantCoeff_eq_zero := by
+          rw [map_add, A.constantCoeff_eq_zero,
+            ← PowerSeries.coeff_zero_eq_constantCoeff,
+            PowerSeries.coeff_monomial]
+          simp [m]
+        coeff_one_eq := by
+          rw [map_add, A.coeff_one_eq,
+            PowerSeries.coeff_monomial]
+          simp [m] }
+
+theorem padicChangedUniformizerApproximation_succ
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (n : ℕ) :
+    (padicChangedUniformizerApproximation p u (n + 1)).series =
+      (padicChangedUniformizerApproximation p u n).series +
+        PowerSeries.monomial (n + 2)
+          (padicChangedUniformizerCorrectionCoefficient p u
+            (padicChangedUniformizerApproximation p u n).series
+            (padicChangedUniformizerApproximation p u n).constantCoeff_eq_zero
+            (n + 2) (by omega)) :=
+  rfl
+
+/-- The actual semilinear changed-uniformizer series over the completed
+unramified Witt ring. -/
+noncomputable def padicChangedUniformizerIntertwiner
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.mk fun m =>
+    PowerSeries.coeff m
+      (padicChangedUniformizerApproximation p u m).series
+
+@[simp]
+theorem padicChangedUniformizerIntertwiner_coeff
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (m : ℕ) :
+    PowerSeries.coeff m
+        (padicChangedUniformizerIntertwiner p u) =
+      PowerSeries.coeff m
+        (padicChangedUniformizerApproximation p u m).series := by
+  simp [padicChangedUniformizerIntertwiner]
+
+theorem padicChangedUniformizerIntertwiner_constantCoeff
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    PowerSeries.constantCoeff
+        (padicChangedUniformizerIntertwiner p u) = 0 := by
+  rw [← PowerSeries.coeff_zero_eq_constantCoeff,
+    padicChangedUniformizerIntertwiner_coeff]
+  simpa only [PowerSeries.coeff_zero_eq_constantCoeff_apply] using
+    (padicChangedUniformizerApproximation p u 0).constantCoeff_eq_zero
+
+@[simp]
+theorem padicChangedUniformizerIntertwiner_coeff_one
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    PowerSeries.coeff 1
+        (padicChangedUniformizerIntertwiner p u) =
+      (padicChangedUniformizerLinearCoefficient p u :
+        padicCompletedUnramifiedWittRing p) := by
+  rw [padicChangedUniformizerIntertwiner_coeff]
+  exact
+    (padicChangedUniformizerApproximation p u 1).coeff_one_eq
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_ChangedUniformizerIntertwiner_ScalarEndomorphisms
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_isCompleteDiscrete _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localDecompositionResidueFintype _root_.LocalClassFieldTheory.localSeparableValuationHasExtension _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instDiscreteTopology _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedWithZeroValuationContextIntegralAlgebra _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicDVR_residueField_finite _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.DukePrimeDegree.instFintypeCyclicSubgroups _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RamificationTheory.HilbertRamification.ValuationSubring.selectedResidueField.instAlgebra _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.localAbsoluteValuationHasExtension _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.chosenFinitePlaceCompletionAlgebra _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space _root_.relativeAdeleRingIntermediateAlgebra _root_.relativeAdeleRingTopIntermediateAlgebra
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.galEquivDecompositionGroup_coe _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Completed scalar endomorphisms
+
+This module constructs the completed multiplicative and changed-standard scalar endomorphisms and proves their linear terms, composition laws, Frobenius invariance, and substitution commutation.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open SameUniformizer
+
+/-- The multiplicative Lubin--Tate scalar endomorphism with coefficient
+`a`, after extending coefficients to the completed unramified Witt ring. -/
+noncomputable def padicCompletedMultiplicativeScalarEndomorphism
+    (p : ℕ) [Fact p.Prime]
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.map
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+    (recursiveIntertwiner
+      (padicMultiplicativeLubinTateSeries_isUniformizer p)
+      (padicMultiplicativeLubinTateSeries p)
+      (padicMultiplicativeLubinTateSeries p)
+      (fun _ : Unit => a))
+
+theorem padicMultiplicativeScalarEndomorphism_mul
+    (p : ℕ) [Fact p.Prime]
+    (a b : (padicLocalField p).valuationSubring) :
+    recursiveIntertwiner
+        (padicMultiplicativeLubinTateSeries_isUniformizer p)
+        (padicMultiplicativeLubinTateSeries p)
+        (padicMultiplicativeLubinTateSeries p)
+        (fun _ : Unit => a * b) =
+      PowerSeries.subst
+        (recursiveIntertwiner
+          (padicMultiplicativeLubinTateSeries_isUniformizer p)
+          (padicMultiplicativeLubinTateSeries p)
+          (padicMultiplicativeLubinTateSeries p)
+          (fun _ : Unit => b))
+        (recursiveIntertwiner
+          (padicMultiplicativeLubinTateSeries_isUniformizer p)
+          (padicMultiplicativeLubinTateSeries p)
+          (padicMultiplicativeLubinTateSeries p)
+          (fun _ : Unit => a)) := by
+  let hπ := padicMultiplicativeLubinTateSeries_isUniformizer p
+  let E := padicMultiplicativeLubinTateSeries p
+  let A :=
+    recursiveIntertwiner hπ E E (fun _ : Unit => a)
+  let B :=
+    recursiveIntertwiner hπ E E (fun _ : Unit => b)
+  have hAlinear :=
+    recursiveIntertwiner_hasLinearTerm hπ E E
+      (fun _ : Unit => a)
+  have hBlinear :=
+    recursiveIntertwiner_hasLinearTerm hπ E E
+      (fun _ : Unit => b)
+  have hcomp :=
+    hAlinear.subst
+      (G := fun _ : Unit => B)
+      (M := fun _ : Unit => fun _ : Unit => b)
+      (fun _ => hBlinear)
+  have hcomp' :
+      HasLinearTerm (PowerSeries.subst B A)
+        (fun _ : Unit => a * b) := by
+    simpa only [A, B, PowerSeries.subst_def, Finset.univ_unique,
+      Finset.sum_singleton] using hcomp
+  have hIntertwines :=
+    (recursiveIntertwiner_intertwines hπ E E
+      (fun _ : Unit => a)).powerSeries_subst
+        hAlinear.hasSubst
+        (recursiveIntertwiner_intertwines hπ E E
+          (fun _ : Unit => b))
+        hBlinear.hasSubst
+  exact
+    eq_of_hasLinearTerm_of_intertwines hπ E E
+      (fun _ : Unit => a * b)
+      (recursiveIntertwiner_hasLinearTerm hπ E E
+        (fun _ : Unit => a * b))
+      (recursiveIntertwiner_intertwines hπ E E
+        (fun _ : Unit => a * b))
+      hcomp' hIntertwines
+
+/-- The standard scalar endomorphism for the changed uniformizer `u p`,
+after extending coefficients to the completed unramified Witt ring. -/
+noncomputable def padicCompletedChangedStandardScalarEndomorphism
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.map
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+    (standardLubinTateEndomorphism
+      (standardLubinTateChangedUniformizer_isUniformizer
+        (padicMultiplicativeLubinTateSeries_isUniformizer p) u)
+      a)
+
+theorem
+    padicCompletedMultiplicativeScalarEndomorphism_constantCoeff
+    (p : ℕ) [Fact p.Prime]
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries.constantCoeff
+        (padicCompletedMultiplicativeScalarEndomorphism p a) = 0 := by
+  have hconstant :=
+    (recursiveIntertwiner_hasLinearTerm
+      (padicMultiplicativeLubinTateSeries_isUniformizer p)
+      (padicMultiplicativeLubinTateSeries p)
+      (padicMultiplicativeLubinTateSeries p)
+      (fun _ : Unit => a)).constantCoeff_eq_zero
+  change
+    padicValuationSubringToCompletedUnramifiedWittRing p
+        (PowerSeries.constantCoeff
+          (recursiveIntertwiner
+            (padicMultiplicativeLubinTateSeries_isUniformizer p)
+            (padicMultiplicativeLubinTateSeries p)
+            (padicMultiplicativeLubinTateSeries p)
+            (fun _ : Unit => a))) = 0
+  rw [PowerSeries.constantCoeff_eq, hconstant, map_zero]
+
+@[simp]
+theorem padicCompletedMultiplicativeScalarEndomorphism_coeff_one
+    (p : ℕ) [Fact p.Prime]
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries.coeff 1
+        (padicCompletedMultiplicativeScalarEndomorphism p a) =
+      padicValuationSubringToCompletedUnramifiedWittRing p a := by
+  rw [padicCompletedMultiplicativeScalarEndomorphism,
+    PowerSeries.coeff_map]
+  congr 1
+  exact
+    (recursiveIntertwiner_hasLinearTerm
+      (padicMultiplicativeLubinTateSeries_isUniformizer p)
+      (padicMultiplicativeLubinTateSeries p)
+      (padicMultiplicativeLubinTateSeries p)
+      (fun _ : Unit => a)).coeff_single ()
+
+@[simp]
+theorem
+    padicCompletedChangedStandardScalarEndomorphism_coeff_one
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ)
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries.coeff 1
+        (padicCompletedChangedStandardScalarEndomorphism p u a) =
+      padicValuationSubringToCompletedUnramifiedWittRing p a := by
+  rw [padicCompletedChangedStandardScalarEndomorphism,
+    PowerSeries.coeff_map,
+    standardLubinTateEndomorphism_coeff_one]
+
+theorem
+    padicCompletedMultiplicativeScalarEndomorphism_hasLinearTerm
+    (p : ℕ) [Fact p.Prime]
+    (a : (padicLocalField p).valuationSubring) :
+    HasLinearTerm
+        (padicCompletedMultiplicativeScalarEndomorphism p a)
+        (fun _ : Unit =>
+          padicValuationSubringToCompletedUnramifiedWittRing p a) :=
+  powerSeries_hasLinearTerm_of_constantCoeff_coeff_one
+    (padicCompletedMultiplicativeScalarEndomorphism p a)
+    (padicValuationSubringToCompletedUnramifiedWittRing p a)
+    (padicCompletedMultiplicativeScalarEndomorphism_constantCoeff p a)
+    (padicCompletedMultiplicativeScalarEndomorphism_coeff_one p a)
+
+/-- Every completed multiplicative scalar endomorphism admits formal
+substitution. -/
+theorem padicCompletedMultiplicativeScalarEndomorphism_hasSubst
+    (p : ℕ) [Fact p.Prime]
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries.HasSubst
+      (padicCompletedMultiplicativeScalarEndomorphism p a) :=
+  (padicCompletedMultiplicativeScalarEndomorphism_hasLinearTerm p a).hasSubst
+
+/-- Multiplication of p-adic scalars is composition of their completed
+multiplicative Lubin--Tate endomorphisms. -/
+theorem padicCompletedMultiplicativeScalarEndomorphism_mul
+    (p : ℕ) [Fact p.Prime]
+    (a b : (padicLocalField p).valuationSubring) :
+    padicCompletedMultiplicativeScalarEndomorphism p (a * b) =
+      PowerSeries.subst
+        (padicCompletedMultiplicativeScalarEndomorphism p b)
+        (padicCompletedMultiplicativeScalarEndomorphism p a) := by
+  have h :=
+    congrArg
+      (PowerSeries.map
+        (padicValuationSubringToCompletedUnramifiedWittRing p))
+      (padicMultiplicativeScalarEndomorphism_mul p a b)
+  change MvPowerSeries.map _ _ = MvPowerSeries.map _ _ at h
+  rw [PowerSeries.map_subst
+    (recursiveIntertwiner_hasLinearTerm
+      (padicMultiplicativeLubinTateSeries_isUniformizer p)
+      (padicMultiplicativeLubinTateSeries p)
+      (padicMultiplicativeLubinTateSeries p)
+      (fun _ : Unit => b)).hasSubst] at h
+  change
+    PowerSeries.map _ _ =
+      PowerSeries.subst (PowerSeries.map _ _) (PowerSeries.map _ _) at h
+  simpa only [padicCompletedMultiplicativeScalarEndomorphism] using h
+
+/-- The scalar `1` acts by the identity changed-standard series. -/
+@[simp]
+theorem padicCompletedChangedStandardScalarEndomorphism_one
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) :
+    padicCompletedChangedStandardScalarEndomorphism p u 1 =
+      PowerSeries.X := by
+  rw [padicCompletedChangedStandardScalarEndomorphism,
+    standardLubinTateEndomorphism_one, PowerSeries.map_X]
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_CompletedLevel
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.KummerTheory.primeCyclotomicBaseFiniteDimensional _root_.KummerTheory.primeCyclotomicBaseIsGalois _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localSeparableValuationHasExtension _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instDiscreteTopology _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicDVR_residueField_finite _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.Valuations.exponentialValuationSubringIsLocalRing _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.DukePrimeDegree.latticeSubgroupInverseAction _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.diagonalLogAction _root_.OAI.PrimeDegreePackets.instIsTopologicalRingLocalAlgebra _root_.OAI.PrimeDegreePackets.instT2SpaceLocalAlgebra _root_.OAI.PrimeDegreePackets.instTopologicalSpaceLocalAlgebra _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.OAI.PrimeDegreePackets.xT2Space _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionFixedMaximalIdeal.instIsMaximal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionFixedSubring.instIsLocalRing _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RamificationTheory.HilbertRamification.ValuationSubring.selectedResidueField.instAlgebra _root_.RayClass.approximationCompletionTopologicalSpace _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.RelativeIdeleGroup.relativeIdeleMulAction _root_.LocalClassFieldTheory.intrinsicAbsoluteGaloisT2 _root_.LocalClassFieldTheory.localAbsoluteValuationHasExtension _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.chosenFinitePlaceCompletionAlgebra _root_.chosenFinitePlaceCompletionFiniteDimensional _root_.chosenFinitePlaceLocalizedFiniteDimensional _root_.chosenFinitePlaceLocalizedIntegerAlgebra _root_.chosenFinitePlaceLocalizedIsGalois _root_.chosenFinitePlaceLocalizedValuationHasExtension _root_.finiteIdeleGroupT2Space _root_.finiteLocalUnitsOpen _root_.ideleGroupT2Space _root_.infiniteAdeleRingT2Space _root_.infiniteIdeleGroupT2Space _root_.relativeAdeleRingIntermediateAlgebra _root_.relativeAdeleRingTopIntermediateAlgebra
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.of_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.SameUniformizer.coeff_recursiveIntertwiner _root_.LubinTate.SameUniformizer.constantCoeff_inVariable _root_.LubinTate.SameUniformizer.intertwinerApproximation_zero _root_.LubinTate.SameUniformizer.standardLubinTateEndomorphism_coeff_one _root_.LubinTate.padicChangedUniformizerIntertwiner_coeff _root_.LubinTate.padicChangedUniformizerIntertwiner_coeff_one _root_.LubinTate.padicCompletedChangedStandardScalarEndomorphism_coeff_one _root_.LubinTate.padicCompletedChangedStandardScalarEndomorphism_one _root_.LubinTate.padicCompletedMultiplicativeScalarEndomorphism_coeff_one _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTateBaseUniformizerUnit_coe _root_.LubinTate.standardLubinTateChangedUniformizerUnit_coe _root_.LubinTate.standardLubinTateEndomorphismEvalAt_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_zero _root_.LubinTate.standardLubinTateEndomorphismValue_one _root_.LubinTate.standardLubinTateEndomorphismValue_zero _root_.LubinTate.standardLubinTateLevelCoefficientHom_apply _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_C _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_X _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_coe _root_.LubinTate.standardLubinTatePrimitiveLevelAction_coe _root_.LubinTate.standardLubinTatePrimitivePointIntegerAction_one _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTatePrimitivePolynomialOverField_coeff_zero _root_.LubinTate.standardLubinTatePrimitiveRootAction_one _root_.LubinTate.standardLubinTateUnitFactorFieldUnit_coe _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.galEquivDecompositionGroup_coe _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Completed p-adic Lubin--Tate levels
+
+For the completed maximal-unramified coefficient field
+
+`E = Frac(W(AlgebraicClosure (ZMod p)))`,
+
+this file base-changes the standard primitive Lubin--Tate polynomial from
+`ℚ_[p]` to `E` and takes its actual splitting field.  The complete discrete
+valuation on that finite separable extension is selected from the integral
+closure of the canonical Witt valuation ring.  This is the mixed-
+characteristic evaluation field needed by the changed-uniformizer descent.
+
+The integral polynomial, splitting field, and valuations below are the
+existing mathlib/LCFT objects.  No parallel p-adic field, integer ring, or
+completion is introduced.
+-/
+
+noncomputable section
+
+open Filter
+open scoped Polynomial
+open scoped PowerSeries
+open scoped PowerSeries.WithPiTopology
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open ValuationTheory.DiscreteValuationField
+open ValuationTheory.DiscreteValuationField.ValuedExtension
+
+/-- The primitive standard Lubin--Tate polynomial over the canonical
+valuation ring of the completed-unramified field. -/
+noncomputable def padicCompletedPrimitivePolynomialInteger
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Polynomial
+      (padicCompletedUnramifiedCompleteDVF p).valuationSubring :=
+  (standardLubinTatePrimitivePolynomial
+      (padicLocalField p)
+      (padicIntEquivValuationSubring p (p : ℤ_[p])) n).map
+    (padicCompletedUnramifiedIntegerMap p)
+
+/-- The primitive standard Lubin--Tate polynomial after base change from
+`ℚ_[p]` to the completed-unramified fraction field. -/
+noncomputable def padicCompletedPrimitivePolynomial
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Polynomial (padicCompletedUnramifiedField p) :=
+  (standardLubinTatePrimitivePolynomialOverField
+      (padicLocalField p)
+      (padicIntEquivValuationSubring p (p : ℤ_[p])) n).map
+    (algebraMap ℚ_[p] (padicCompletedUnramifiedField p))
+
+/-- Mapping the integral completed primitive polynomial to the fraction
+field gives the field-valued base change. -/
+theorem padicCompletedPrimitivePolynomialInteger_map
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedPrimitivePolynomialInteger p n).map
+        (algebraMap
+          (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+          (padicCompletedUnramifiedField p)) =
+      padicCompletedPrimitivePolynomial p n := by
+  let O := (padicLocalField p).valuationSubring
+  let A := (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+  let E := padicCompletedUnramifiedField p
+  let Q :=
+    standardLubinTatePrimitivePolynomial
+      (padicLocalField p)
+      (padicIntEquivValuationSubring p (p : ℤ_[p])) n
+  have hmaps :
+      (algebraMap A E).comp
+          (padicCompletedUnramifiedIntegerMap p) =
+        (algebraMap ℚ_[p] E).comp (algebraMap O ℚ_[p]) := by
+    ext z
+    exact padicCompletedUnramifiedIntegerMap_coe p z
+  change
+    (Q.map (padicCompletedUnramifiedIntegerMap p)).map
+        (algebraMap A E) =
+      (Q.map (algebraMap O ℚ_[p])).map
+        (algebraMap ℚ_[p] E)
+  rw [Polynomial.map_map, Polynomial.map_map, hmaps]
+
+/-- The integral completed primitive polynomial is monic. -/
+theorem padicCompletedPrimitivePolynomialInteger_monic
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedPrimitivePolynomialInteger p n).Monic :=
+  (standardLubinTatePrimitivePolynomial_monic
+    (padicLocalField p)
+    (padicIntEquivValuationSubring p (p : ℤ_[p])) n).map _
+
+/-- The field-valued completed primitive polynomial is monic. -/
+theorem padicCompletedPrimitivePolynomial_monic
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedPrimitivePolynomial p n).Monic :=
+  (standardLubinTatePrimitivePolynomialOverField_monic
+    (padicLocalField p)
+    (padicIntEquivValuationSubring p (p : ℤ_[p])) n).map _
+
+/-- The completed primitive polynomial has degree `(p - 1) * p ^ n`. -/
+theorem padicCompletedPrimitivePolynomial_natDegree
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedPrimitivePolynomial p n).natDegree =
+      (p - 1) * p ^ n := by
+  have hcard :
+      Nat.card (padicLocalField p).residueField = p := by
+    simpa [padicLocalField] using
+      padicCompleteDVF_residueField_card p
+  let π : (padicLocalField p).valuationSubring :=
+    padicIntEquivValuationSubring p (p : ℤ_[p])
+  calc
+    (padicCompletedPrimitivePolynomial p n).natDegree =
+        (standardLubinTatePrimitivePolynomialOverField
+          (padicLocalField p) π n).natDegree :=
+      (standardLubinTatePrimitivePolynomialOverField_monic
+        (padicLocalField p) π n).natDegree_map
+          (algebraMap ℚ_[p] (padicCompletedUnramifiedField p))
+    _ = (Nat.card (padicLocalField p).residueField - 1) *
+        Nat.card (padicLocalField p).residueField ^ n :=
+      standardLubinTatePrimitivePolynomialOverField_natDegree
+        (padicLocalField p) π n
+    _ = (p - 1) * p ^ n := by rw [hcard]
+
+/-- The completed primitive polynomial remains separable after base change. -/
+theorem padicCompletedPrimitivePolynomial_separable
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedPrimitivePolynomial p n).Separable :=
+  (standardLubinTatePrimitivePolynomialOverField_separable
+    (padicMultiplicativeLubinTateSeries_isUniformizer p) n).map
+
+/-- The actual finite splitting field over the completed-unramified
+coefficient field. -/
+def padicCompletedLevelField
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :=
+  (padicCompletedPrimitivePolynomial p n).SplittingField
+
+@[reducible]
+instance padicCompletedLevelField_field
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Field (padicCompletedLevelField p n) := by
+  change Field (padicCompletedPrimitivePolynomial p n).SplittingField
+  infer_instance
+
+@[reducible]
+noncomputable instance padicCompletedLevelField_algebra
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Algebra (padicCompletedUnramifiedField p)
+      (padicCompletedLevelField p n) := by
+  change Algebra (padicCompletedUnramifiedField p)
+    (padicCompletedPrimitivePolynomial p n).SplittingField
+  infer_instance
+
+section
+
+local instance padicCompletedLevelField_module
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    @Module (padicCompletedUnramifiedField p) (padicCompletedLevelField p n)
+      (inferInstance : DivisionRing (padicCompletedUnramifiedField p)).toRing.toSemiring
+      (inferInstance : AddCommGroup (padicCompletedLevelField p n)).toAddCommMonoid :=
+  @Algebra.toModule (padicCompletedUnramifiedField p) (padicCompletedLevelField p n)
+    _ _ (padicCompletedLevelField_algebra p n)
+
+instance padicCompletedLevelField_finiteDimensional
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    FiniteDimensional (padicCompletedUnramifiedField p)
+      (padicCompletedLevelField p n) := by
+  change FiniteDimensional (padicCompletedUnramifiedField p)
+    (padicCompletedPrimitivePolynomial p n).SplittingField
+  infer_instance
+
+end
+
+/-- The completed level is the splitting field of a separable polynomial,
+hence is Galois over its completed-unramified base. -/
+noncomputable instance padicCompletedLevelField_isGalois
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    IsGalois (padicCompletedUnramifiedField p)
+      (padicCompletedLevelField p n) := by
+  change IsGalois (padicCompletedUnramifiedField p)
+    (padicCompletedPrimitivePolynomial p n).SplittingField
+  exact
+    IsGalois.of_separable_splitting_field
+      (padicCompletedPrimitivePolynomial_separable p n)
+
+theorem padicCompletedPrimitivePolynomial_map_degree_ne_zero
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    ((padicCompletedPrimitivePolynomial p n).map
+      (algebraMap (padicCompletedUnramifiedField p)
+        (padicCompletedLevelField p n))).degree ≠ 0 := by
+  have hmonic :=
+    (padicCompletedPrimitivePolynomial_monic p n).map
+      (algebraMap (padicCompletedUnramifiedField p)
+        (padicCompletedLevelField p n))
+  rw [Polynomial.degree_eq_natDegree hmonic.ne_zero,
+    (padicCompletedPrimitivePolynomial_monic p n).natDegree_map,
+    padicCompletedPrimitivePolynomial_natDegree]
+  exact_mod_cast
+    (Nat.mul_pos
+      (Nat.sub_pos_of_lt (Fact.out : p.Prime).one_lt)
+      (Nat.pow_pos (Fact.out : p.Prime).pos)).ne'
+
+/-- A chosen primitive standard division point in the completed level. -/
+noncomputable def padicCompletedPrimitiveRoot
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    padicCompletedLevelField p n :=
+  Polynomial.rootOfSplits
+    (Polynomial.SplittingField.splits
+      (padicCompletedPrimitivePolynomial p n))
+    (padicCompletedPrimitivePolynomial_map_degree_ne_zero p n)
+
+/-- The chosen completed primitive point is a root of the genuine
+base-changed primitive polynomial. -/
+theorem padicCompletedPrimitiveRoot_isRoot
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    ((padicCompletedPrimitivePolynomial p n).map
+      (algebraMap (padicCompletedUnramifiedField p)
+        (padicCompletedLevelField p n))).IsRoot
+      (padicCompletedPrimitiveRoot p n) :=
+  Polynomial.eval_rootOfSplits
+    (Polynomial.SplittingField.splits
+      (padicCompletedPrimitivePolynomial p n))
+    (padicCompletedPrimitivePolynomial_map_degree_ne_zero p n)
+
+/-- The integral completed primitive polynomial annihilates the chosen
+root in the actual splitting field. -/
+theorem padicCompletedPrimitiveRoot_aeval_integerPolynomial
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Polynomial.aeval (padicCompletedPrimitiveRoot p n)
+        (padicCompletedPrimitivePolynomialInteger p n) = 0 := by
+  calc
+    Polynomial.aeval (padicCompletedPrimitiveRoot p n)
+        (padicCompletedPrimitivePolynomialInteger p n) =
+      Polynomial.aeval (padicCompletedPrimitiveRoot p n)
+        ((padicCompletedPrimitivePolynomialInteger p n).map
+          (algebraMap
+            (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+            (padicCompletedUnramifiedField p))) := by
+      symm
+      exact
+        Polynomial.aeval_map_algebraMap
+          (padicCompletedUnramifiedField p)
+          (padicCompletedPrimitiveRoot p n)
+          (padicCompletedPrimitivePolynomialInteger p n)
+    _ =
+      Polynomial.aeval (padicCompletedPrimitiveRoot p n)
+        (padicCompletedPrimitivePolynomial p n) := by
+      rw [padicCompletedPrimitivePolynomialInteger_map]
+    _ = 0 := by
+      simpa [Polynomial.IsRoot, Polynomial.aeval_def] using
+        padicCompletedPrimitiveRoot_isRoot p n
+
+/-- The chosen primitive point is integral over the canonical Witt
+valuation ring. -/
+theorem padicCompletedPrimitiveRoot_isIntegral
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    IsIntegral
+      (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+      (padicCompletedPrimitiveRoot p n) :=
+  ⟨padicCompletedPrimitivePolynomialInteger p n,
+    padicCompletedPrimitivePolynomialInteger_monic p n,
+    padicCompletedPrimitiveRoot_aeval_integerPolynomial p n⟩
+
+theorem padicCompletedLevelCompleteDVFData_exists
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    ∃ target : CompleteDVF.{0, 0} (padicCompletedLevelField p n),
+      ∃ hExt :
+          (padicCompletedUnramifiedCompleteDVF p).valuation.HasExtension
+            target.valuation,
+        letI :
+            (padicCompletedUnramifiedCompleteDVF p).valuation.HasExtension
+              target.valuation := hExt
+        IsIntegralClosure target.valuationSubring
+            (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+            (padicCompletedLevelField p n) ∧
+          degree (padicCompletedUnramifiedCompleteDVF p).toDVF target.toDVF =
+            ramificationIndex
+                (padicCompletedUnramifiedCompleteDVF p).toDVF target.toDVF *
+              residueDegree
+                (padicCompletedUnramifiedCompleteDVF p).toDVF target.toDVF := by
+  exact
+    exists_integralClosure_standard_fundamental_identity
+      (K := padicCompletedUnramifiedField p)
+      (L := padicCompletedLevelField p n)
+      (padicCompletedUnramifiedCompleteDVF p)
+
+/-- The complete discrete valuation on the completed level selected from its
+actual integral closure over the Witt valuation ring. -/
+noncomputable def padicCompletedLevelCompleteDVF
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    CompleteDVF.{0, 0} (padicCompletedLevelField p n) :=
+  Classical.choose (padicCompletedLevelCompleteDVFData_exists p n)
+
+/-- The selected completed-level valuation extends the completed-unramified
+base valuation. -/
+theorem padicCompletedLevelCompleteDVF_hasExtension
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedUnramifiedCompleteDVF p).valuation.HasExtension
+      (padicCompletedLevelCompleteDVF p n).valuation :=
+  Classical.choose
+    (Classical.choose_spec
+      (padicCompletedLevelCompleteDVFData_exists p n))
+
+noncomputable instance padicCompletedLevelCompleteDVF_hasExtensionInstance
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedUnramifiedCompleteDVF p).valuation.HasExtension
+      (padicCompletedLevelCompleteDVF p n).valuation :=
+  padicCompletedLevelCompleteDVF_hasExtension p n
+
+/-- The completed-level valuation ring is the actual integral closure of the
+completed-unramified valuation ring. -/
+theorem padicCompletedLevelCompleteDVF_isIntegralClosure
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    IsIntegralClosure
+      (padicCompletedLevelCompleteDVF p n).valuationSubring
+      (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+      (padicCompletedLevelField p n) :=
+  (Classical.choose_spec
+    (Classical.choose_spec
+      (padicCompletedLevelCompleteDVFData_exists p n))).1
+
+/-- The chosen completed primitive root belongs to the selected
+integral-closure valuation ring. -/
+theorem padicCompletedPrimitiveRoot_mem_valuationSubring
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    padicCompletedPrimitiveRoot p n ∈
+      (padicCompletedLevelCompleteDVF p n).valuation.valuationSubring := by
+  let : IsIntegralClosure
+      (padicCompletedLevelCompleteDVF p n).valuationSubring
+      (padicCompletedUnramifiedCompleteDVF p).valuationSubring
+      (padicCompletedLevelField p n) :=
+    padicCompletedLevelCompleteDVF_isIntegralClosure p n
+  rcases
+      (IsIntegralClosure.isIntegral_iff
+        (A := (padicCompletedLevelCompleteDVF p n).valuationSubring)
+        (R := (padicCompletedUnramifiedCompleteDVF p).valuationSubring)
+        (B := padicCompletedLevelField p n)).1
+        (padicCompletedPrimitiveRoot_isIntegral p n) with
+    ⟨z, hz⟩
+  change
+    (padicCompletedLevelCompleteDVF p n).valuation
+        (padicCompletedPrimitiveRoot p n) ≤ 1
+  rw [← hz]
+  exact z.property
+
+/-- The chosen primitive point as an element of the completed-level
+valuation ring. -/
+noncomputable def padicCompletedPrimitiveRootInteger
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  ⟨padicCompletedPrimitiveRoot p n,
+    padicCompletedPrimitiveRoot_mem_valuationSubring p n⟩
+
+/-- Coercing the integral primitive point returns the chosen splitting-field
+root. -/
+@[simp]
+theorem padicCompletedPrimitiveRootInteger_coe
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedPrimitiveRootInteger p n :
+      padicCompletedLevelField p n) =
+        padicCompletedPrimitiveRoot p n :=
+  rfl
+
+/-- The integral primitive polynomial annihilates the primitive point in
+the completed-level valuation ring. -/
+theorem padicCompletedPrimitiveRootInteger_aeval
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Polynomial.aeval (padicCompletedPrimitiveRootInteger p n)
+        (padicCompletedPrimitivePolynomialInteger p n) = 0 := by
+  let base := padicCompletedUnramifiedCompleteDVF p
+  let target := padicCompletedLevelCompleteDVF p n
+  let i : target.valuationSubring →ₐ[base.valuationSubring]
+      padicCompletedLevelField p n :=
+    IsScalarTower.toAlgHom base.valuationSubring target.valuationSubring
+      (padicCompletedLevelField p n)
+  apply Subtype.ext
+  change
+    i (Polynomial.aeval (padicCompletedPrimitiveRootInteger p n)
+      (padicCompletedPrimitivePolynomialInteger p n)) = i 0
+  rw [← Polynomial.aeval_algHom_apply (f := i), map_zero]
+  simpa [i] using
+    padicCompletedPrimitiveRoot_aeval_integerPolynomial p n
+
+/-- Base change preserves the weak Eisenstein condition for the completed
+primitive polynomial. -/
+theorem padicCompletedPrimitivePolynomialInteger_isWeaklyEisensteinAt
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedPrimitivePolynomialInteger p n).IsWeaklyEisensteinAt
+      (padicCompletedUnramifiedCompleteDVF p).maximalIdeal := by
+  rw [← padicCompletedUnramifiedIntegerMap_map_maximalIdeal p]
+  exact
+    (standardLubinTatePrimitivePolynomial_isEisensteinAt
+      (padicMultiplicativeLubinTateSeries_isUniformizer p)
+      n).isWeaklyEisensteinAt.map
+        (padicCompletedUnramifiedIntegerMap p)
+
+/-- The completed primitive point lies in the maximal ideal of the selected
+level valuation ring. -/
+theorem padicCompletedPrimitiveRootInteger_mem_maximalIdeal
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    padicCompletedPrimitiveRootInteger p n ∈
+      (padicCompletedLevelCompleteDVF p n).maximalIdeal := by
+  let base := padicCompletedUnramifiedCompleteDVF p
+  let target := padicCompletedLevelCompleteDVF p n
+  let Q := padicCompletedPrimitivePolynomialInteger p n
+  let lambda := padicCompletedPrimitiveRootInteger p n
+  have hlambdaPow :
+      lambda ^
+          ((Q.map
+            (algebraMap base.valuationSubring
+              target.valuationSubring)).natDegree) ∈
+        base.maximalIdeal.map
+          (algebraMap base.valuationSubring target.valuationSubring) :=
+    (padicCompletedPrimitivePolynomialInteger_isWeaklyEisensteinAt
+      p n).pow_natDegree_le_of_aeval_zero_of_monic_mem_map
+        (by
+          simpa [base, target, Q, lambda] using
+            padicCompletedPrimitiveRootInteger_aeval p n)
+        (by
+          simpa [Q] using
+            padicCompletedPrimitivePolynomialInteger_monic p n)
+        _ le_rfl
+  have hlambdaPow' :
+      lambda ^
+          ((Q.map
+            (algebraMap base.valuationSubring
+              target.valuationSubring)).natDegree) ∈
+        target.maximalIdeal :=
+    (maximalIdeal_map_integerMap_le base.toDVF target.toDVF) hlambdaPow
+  exact
+    (IsLocalRing.maximalIdeal.isMaximal
+      target.valuationSubring).isPrime.mem_of_pow_mem _ hlambdaPow'
+
+noncomputable local instance (priority := 50)
+    padicCompletedLevelWittUniformSpace
+    (p : ℕ) [Fact p.Prime] :
+    UniformSpace (padicCompletedUnramifiedWittRing p) :=
+  ⊥
+
+noncomputable local instance
+    padicCompletedLevelTargetWithIdeal
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    WithIdeal
+      (padicCompletedLevelCompleteDVF p n).valuationSubring where
+  i := (padicCompletedLevelCompleteDVF p n).maximalIdeal
+
+noncomputable local instance
+    padicCompletedLevelTargetCompleteSpace
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    CompleteSpace
+      (padicCompletedLevelCompleteDVF p n).valuationSubring := by
+  let target := padicCompletedLevelCompleteDVF p n
+  have hadic : IsAdic target.maximalIdeal := rfl
+  exact (hadic.isAdicComplete_iff.mp target.isAdicComplete).1
+
+noncomputable local instance
+    padicCompletedLevelTargetT2Space
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    T2Space
+      (padicCompletedLevelCompleteDVF p n).valuationSubring := by
+  let target := padicCompletedLevelCompleteDVF p n
+  have hadic : IsAdic target.maximalIdeal := rfl
+  exact (hadic.isAdicComplete_iff.mp target.isAdicComplete).2
+
+/-- The chosen completed primitive point is a genuine convergent evaluation
+point for Witt-coefficient power series. -/
+theorem padicCompletedPrimitiveRootInteger_hasEval
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    PowerSeries.HasEval (padicCompletedPrimitiveRootInteger p n) := by
+  apply WithIdeal.isTopologicallyNilpotent_of_mem
+  exact padicCompletedPrimitiveRootInteger_mem_maximalIdeal p n
+
+/-- The canonical Witt-coefficient map into the valuation ring of the
+actual completed level. -/
+noncomputable def padicCompletedLevelWittCoefficientHom
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    padicCompletedUnramifiedWittRing p →+*
+      (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  (integerMap
+      (padicCompletedUnramifiedCompleteDVF p).toDVF
+      (padicCompletedLevelCompleteDVF p n).toDVF).comp
+    (padicCompletedUnramifiedWittRingEquivValuationSubring p).toRingHom
+
+/-- The Witt-coefficient map is the ambient fraction-field algebra map
+after coercion. -/
+@[simp]
+theorem padicCompletedLevelWittCoefficientHom_apply
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (a : padicCompletedUnramifiedWittRing p) :
+    ((padicCompletedLevelWittCoefficientHom p n a :
+        (padicCompletedLevelCompleteDVF p n).valuationSubring) :
+      padicCompletedLevelField p n) =
+        algebraMap (padicCompletedUnramifiedField p)
+          (padicCompletedLevelField p n)
+          (algebraMap (padicCompletedUnramifiedWittRing p)
+            (padicCompletedUnramifiedField p) a) := by
+  rfl
+
+/-- With the discrete coefficient topology, the canonical Witt map into
+the completed level is continuous. -/
+theorem padicCompletedLevelWittCoefficientHom_continuous
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Continuous (padicCompletedLevelWittCoefficientHom p n) :=
+  continuous_of_discreteTopology
+
+noncomputable local instance
+    padicCompletedLevelWittAlgebra
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    Algebra (padicCompletedUnramifiedWittRing p)
+      (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  (padicCompletedLevelWittCoefficientHom p n).toAlgebra
+
+/-- Analytic evaluation of Witt-coefficient power series in the actual
+completed level. -/
+noncomputable def padicCompletedLevelPowerSeriesEval
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x) :
+    (padicCompletedUnramifiedWittRing p)⟦X⟧ →+*
+      (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  PowerSeries.eval₂Hom
+    (padicCompletedLevelWittCoefficientHom_continuous p n) hx
+
+/-- Completed-level evaluation sends the power-series variable to the
+chosen evaluation point. -/
+@[simp]
+theorem padicCompletedLevelPowerSeriesEval_X
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x) :
+    padicCompletedLevelPowerSeriesEval p n x hx PowerSeries.X = x := by
+  rw [padicCompletedLevelPowerSeriesEval,
+    PowerSeries.coe_eval₂Hom, PowerSeries.eval₂_X]
+
+/-- Completed-level evaluation sends constants through the canonical Witt
+coefficient map. -/
+@[simp]
+theorem padicCompletedLevelPowerSeriesEval_C
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (a : padicCompletedUnramifiedWittRing p) :
+    padicCompletedLevelPowerSeriesEval p n x hx (PowerSeries.C a) =
+      padicCompletedLevelWittCoefficientHom p n a := by
+  rw [padicCompletedLevelPowerSeriesEval,
+    PowerSeries.coe_eval₂Hom, PowerSeries.eval₂_C]
+
+/-- On polynomial power series, completed-level analytic evaluation agrees
+with ordinary polynomial evaluation. -/
+@[simp]
+theorem padicCompletedLevelPowerSeriesEval_coe
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (P : Polynomial (padicCompletedUnramifiedWittRing p)) :
+    padicCompletedLevelPowerSeriesEval p n x hx
+        (P : PowerSeries (padicCompletedUnramifiedWittRing p)) =
+      Polynomial.eval₂
+        (padicCompletedLevelWittCoefficientHom p n) x P := by
+  rw [padicCompletedLevelPowerSeriesEval,
+    PowerSeries.coe_eval₂Hom, PowerSeries.eval₂_coe]
+
+/-- Evaluation at a topologically nilpotent completed-level integer is
+continuous. -/
+theorem padicCompletedLevelPowerSeriesEval_continuous
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x) :
+    Continuous (padicCompletedLevelPowerSeriesEval p n x hx) := by
+  rw [padicCompletedLevelPowerSeriesEval,
+    PowerSeries.coe_eval₂Hom]
+  exact PowerSeries.continuous_eval₂
+    (padicCompletedLevelWittCoefficientHom_continuous p n) hx
+
+/-- Evaluating a Witt-coefficient series with zero constant coefficient
+produces another topologically nilpotent completed-level integer. -/
+theorem padicCompletedLevelPowerSeriesEval_hasEval
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (f : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hf : PowerSeries.HasSubst f) :
+    PowerSeries.HasEval
+      (padicCompletedLevelPowerSeriesEval p n x hx f) :=
+  hf.hasEval.map
+    (padicCompletedLevelPowerSeriesEval_continuous p n x hx)
+
+/-- Completed-level analytic evaluation commutes with one-variable formal
+substitution. -/
+theorem padicCompletedLevelPowerSeriesEval_subst
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (a f : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (ha : PowerSeries.HasSubst a)
+    (haEval : PowerSeries.HasEval
+      (padicCompletedLevelPowerSeriesEval p n x hx a)) :
+    padicCompletedLevelPowerSeriesEval p n x hx
+        (PowerSeries.subst a f) =
+      padicCompletedLevelPowerSeriesEval p n
+        (padicCompletedLevelPowerSeriesEval p n x hx a)
+        haEval f := by
+  let W := padicCompletedUnramifiedWittRing p
+  let S := (padicCompletedLevelCompleteDVF p n).valuationSubring
+  simp only [padicCompletedLevelPowerSeriesEval,
+    PowerSeries.coe_eval₂Hom]
+  change PowerSeries.eval₂ (algebraMap W S) x
+      (PowerSeries.subst a f) =
+    PowerSeries.eval₂ (algebraMap W S)
+      (PowerSeries.eval₂ (algebraMap W S) x a) f
+  simpa only [PowerSeries.eval₂, PowerSeries.subst,
+    Function.const_apply] using
+      (MvPowerSeries.eval₂_subst
+        (R := W) (S := W) (T := S)
+        (a := fun _ : Unit ↦ a) ha.const
+        (PowerSeries.hasEval hx) f)
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_MultiplicativeEvaluation_CompletedCoefficientEvaluation
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localSeparableValuationHasExtension _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instDiscreteTopology _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instAddCommGroup _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.instTopologicalSpace _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitT2Space _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicDVR_residueField_finite _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.instTopologicalSpaceLocalAlgebra _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RamificationTheory.HilbertRamification.ValuationSubring.selectedResidueField.instAlgebra _root_.RayClass.approximationCompletionTopologicalSpace _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.localAbsoluteValuationHasExtension _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.chosenFinitePlaceCompletionAlgebra _root_.chosenFinitePlaceLocalizedIntegerAlgebra _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space _root_.relativeAdeleRingIntermediateAlgebra _root_.relativeAdeleRingTopIntermediateAlgebra
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.SameUniformizer.coeff_recursiveIntertwiner _root_.LubinTate.SameUniformizer.constantCoeff_inVariable _root_.LubinTate.SameUniformizer.intertwinerApproximation_zero _root_.LubinTate.SameUniformizer.standardLubinTateEndomorphism_coeff_one _root_.LubinTate.padicChangedUniformizerIntertwiner_coeff _root_.LubinTate.padicChangedUniformizerIntertwiner_coeff_one _root_.LubinTate.padicCompletedChangedStandardScalarEndomorphism_coeff_one _root_.LubinTate.padicCompletedChangedStandardScalarEndomorphism_one _root_.LubinTate.padicCompletedMultiplicativeScalarEndomorphism_coeff_one _root_.LubinTate.padicStandardToMultiplicativeIntertwiner_coeff_one _root_.LubinTate.standardLubinTateBaseUniformizerUnit_coe _root_.LubinTate.standardLubinTateChangedUniformizerUnit_coe _root_.LubinTate.standardLubinTateEndomorphismEvalAt_one _root_.LubinTate.standardLubinTateEndomorphismEvalAt_zero _root_.LubinTate.standardLubinTateEndomorphismValue_one _root_.LubinTate.standardLubinTateEndomorphismValue_zero _root_.LubinTate.standardLubinTateLevelCoefficientHom_apply _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_C _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_X _root_.LubinTate.standardLubinTateLevelPowerSeriesEval_coe _root_.LubinTate.standardLubinTatePrimitiveLevelAction_coe _root_.LubinTate.standardLubinTatePrimitivePointIntegerAction_one _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTatePrimitivePolynomialOverField_coeff_zero _root_.LubinTate.standardLubinTatePrimitiveRootAction_one _root_.LubinTate.standardLubinTateUnitFactorFieldUnit_coe _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Coefficient maps and analytic evaluation on completed p-adic levels
+
+This module equips completed Lubin--Tate levels with the direct p-adic
+coefficient maps used by polynomial and power-series evaluation.  It also
+establishes the exact completed primitive-point torsion relations and the
+general injectivity criterion for evaluation with unit linear coefficient.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.CompleteDVF
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open ValuationTheory.DiscreteValuationField
+open SameUniformizer
+
+/-- The discrete Witt-vector coefficient uniformity used for completed evaluation. -/
+noncomputable local instance (priority := 50)
+    padicCompletedMultiplicativeWittUniformSpace
+    (p : ℕ) [Fact p.Prime] :
+    UniformSpace (padicCompletedUnramifiedWittRing p) :=
+  ⊥
+
+/-- The maximal-ideal adic structure on a completed Lubin--Tate level. -/
+noncomputable local instance
+    padicCompletedMultiplicativeTargetWithIdeal
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    WithIdeal
+      (padicCompletedLevelCompleteDVF p n).valuationSubring where
+  i := (padicCompletedLevelCompleteDVF p n).maximalIdeal
+
+/-- Completeness of the completed-level valuation ring for its adic topology. -/
+noncomputable local instance
+    padicCompletedMultiplicativeTargetCompleteSpace
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    CompleteSpace
+      (padicCompletedLevelCompleteDVF p n).valuationSubring := by
+  let target := padicCompletedLevelCompleteDVF p n
+  have hadic : IsAdic target.maximalIdeal := rfl
+  exact (hadic.isAdicComplete_iff.mp target.isAdicComplete).1
+
+/-- Separatedness of the completed-level valuation ring for its adic topology. -/
+noncomputable local instance
+    padicCompletedMultiplicativeTargetT2Space
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    T2Space
+      (padicCompletedLevelCompleteDVF p n).valuationSubring := by
+  let target := padicCompletedLevelCompleteDVF p n
+  have hadic : IsAdic target.maximalIdeal := rfl
+  exact (hadic.isAdicComplete_iff.mp target.isAdicComplete).2
+
+/-- The canonical coefficient map from the p-adic valuation ring directly
+into the field underlying a completed Lubin--Tate level. -/
+noncomputable def padicCompletedLevelPadicFieldCoefficientHom
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicLocalField p).valuationSubring →+*
+      padicCompletedLevelField p n :=
+  ((algebraMap (padicCompletedUnramifiedField p)
+      (padicCompletedLevelField p n)).comp
+    (algebraMap ℚ_[p] (padicCompletedUnramifiedField p))).comp
+      (algebraMap (padicLocalField p).valuationSubring ℚ_[p])
+
+/-- The same p-adic coefficient map with codomain restricted to the
+valuation ring of the completed level. -/
+noncomputable def padicCompletedLevelPadicIntegerCoefficientHom
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicLocalField p).valuationSubring →+*
+      (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  (padicCompletedLevelWittCoefficientHom p n).comp
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+
+/-- Coercing the integral p-adic coefficient map to the completed-level
+field gives the canonical field-valued coefficient map. -/
+@[simp]
+theorem padicCompletedLevelPadicIntegerCoefficientHom_coe
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (a : (padicLocalField p).valuationSubring) :
+    ((padicCompletedLevelPadicIntegerCoefficientHom p n a :
+        (padicCompletedLevelCompleteDVF p n).valuationSubring) :
+      padicCompletedLevelField p n) =
+        padicCompletedLevelPadicFieldCoefficientHom p n a := by
+  rw [padicCompletedLevelPadicIntegerCoefficientHom,
+    RingHom.comp_apply,
+    padicCompletedLevelWittCoefficientHom_apply]
+  change
+    algebraMap (padicCompletedUnramifiedField p)
+        (padicCompletedLevelField p n)
+        (algebraMap (padicCompletedUnramifiedWittRing p)
+          (padicCompletedUnramifiedField p)
+          (padicValuationSubringToCompletedUnramifiedWittRing p a)) =
+      padicCompletedLevelPadicFieldCoefficientHom p n a
+  let z : ℤ_[p] := (padicIntEquivValuationSubring p).symm a
+  have ha : padicIntEquivValuationSubring p z = a :=
+    (padicIntEquivValuationSubring p).apply_symm_apply a
+  rw [← ha]
+  rw [show
+    padicValuationSubringToCompletedUnramifiedWittRing p
+        (padicIntEquivValuationSubring p z) =
+      padicIntToCompletedUnramifiedWittRing p z by
+    change
+      padicIntToCompletedUnramifiedWittRing p
+          ((padicIntEquivValuationSubring p).symm
+            (padicIntEquivValuationSubring p z)) =
+        padicIntToCompletedUnramifiedWittRing p z
+    rw [RingEquiv.symm_apply_apply]]
+  change
+    algebraMap (padicCompletedUnramifiedField p)
+        (padicCompletedLevelField p n)
+        (algebraMap (padicCompletedUnramifiedWittRing p)
+          (padicCompletedUnramifiedField p)
+          (padicIntToCompletedUnramifiedWittRing p z)) =
+      algebraMap (padicCompletedUnramifiedField p)
+        (padicCompletedLevelField p n)
+        (algebraMap ℚ_[p] (padicCompletedUnramifiedField p)
+          (algebraMap ℤ_[p] ℚ_[p] z))
+  rw [padicCompletedUnramifiedField_algebraMap_padicInt]
+
+/-- A completed-level power-series evaluation with zero constant
+coefficient and a unit linear coefficient is injective on convergent points. -/
+theorem
+    padicCompletedLevelPowerSeriesEval_injective_of_unitLinearCoefficient
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (f : PowerSeries (padicCompletedUnramifiedWittRing p))
+    (hconstant : PowerSeries.constantCoeff f = 0)
+    (hlinear : IsUnit (PowerSeries.coeff 1 f))
+    {x y : (padicCompletedLevelCompleteDVF p n).valuationSubring}
+    (hx : PowerSeries.HasEval x) (hy : PowerSeries.HasEval y)
+    (hxy :
+      padicCompletedLevelPowerSeriesEval p n x hx f =
+        padicCompletedLevelPowerSeriesEval p n y hy f) :
+    x = y := by
+  let g := f.substInvOfIsUnit hlinear
+  have hf : PowerSeries.HasSubst f :=
+    PowerSeries.HasSubst.of_constantCoeff_zero' hconstant
+  have hg : PowerSeries.HasSubst g := by
+    simpa only [g] using
+      (PowerSeries.HasSubst.substInvOfIsUnit f hlinear)
+  let xf := padicCompletedLevelPowerSeriesEval p n x hx f
+  let yf := padicCompletedLevelPowerSeriesEval p n y hy f
+  let hxf : PowerSeries.HasEval xf :=
+    padicCompletedLevelPowerSeriesEval_hasEval p n x hx f hf
+  let hyf : PowerSeries.HasEval yf :=
+    padicCompletedLevelPowerSeriesEval_hasEval p n y hy f hf
+  let evalInverse :
+      {z : (padicCompletedLevelCompleteDVF p n).valuationSubring //
+        PowerSeries.HasEval z} →
+        (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+    fun z =>
+      padicCompletedLevelPowerSeriesEval p n z.1 z.2 g
+  let packedX :
+      {z : (padicCompletedLevelCompleteDVF p n).valuationSubring //
+        PowerSeries.HasEval z} :=
+    ⟨xf, hxf⟩
+  let packedY :
+      {z : (padicCompletedLevelCompleteDVF p n).valuationSubring //
+        PowerSeries.HasEval z} :=
+    ⟨yf, hyf⟩
+  have hpacked : packedX = packedY := by
+    apply Subtype.ext
+    exact hxy
+  have hxback : evalInverse packedX = x := by
+    calc
+      evalInverse packedX =
+          padicCompletedLevelPowerSeriesEval p n x hx
+            (PowerSeries.subst f g) := by
+        exact
+          (padicCompletedLevelPowerSeriesEval_subst p n x hx
+            f g hf hxf).symm
+      _ =
+          padicCompletedLevelPowerSeriesEval p n x hx
+            PowerSeries.X := by
+        rw [show PowerSeries.subst f g = PowerSeries.X by
+          simpa only [g] using
+            (PowerSeries.subst_substInvOfIsUnit_left
+              f hconstant hlinear)]
+      _ = x :=
+        padicCompletedLevelPowerSeriesEval_X p n x hx
+  have hyback : evalInverse packedY = y := by
+    calc
+      evalInverse packedY =
+          padicCompletedLevelPowerSeriesEval p n y hy
+            (PowerSeries.subst f g) := by
+        exact
+          (padicCompletedLevelPowerSeriesEval_subst p n y hy
+            f g hf hyf).symm
+      _ =
+          padicCompletedLevelPowerSeriesEval p n y hy
+            PowerSeries.X := by
+        rw [show PowerSeries.subst f g = PowerSeries.X by
+          simpa only [g] using
+            (PowerSeries.subst_substInvOfIsUnit_left
+              f hconstant hlinear)]
+      _ = y :=
+        padicCompletedLevelPowerSeriesEval_X p n y hy
+  exact hxback.symm.trans
+    ((congrArg evalInverse hpacked).trans hyback)
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_MultiplicativeEvaluation_CompletedScalarEndomorphism
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalClassFieldTheory.localDecompositionResidueFintype _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicDVR_residueField_finite _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.LubinTate.standardLubinTateUnitParameter_commGroup _root_.OAI.DukePrimeDegree.instFintypeCyclicSubgroups _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.instTopologicalSpaceLocalAlgebra _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RayClass.approximationCompletionTopologicalSpace _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space
+attribute [-simp] _root_.ClassFormation.chosenOrbitClassEquiv_symm_apply _root_.CyclicCohomology.additive_toMul_finset_sum_units _root_.GlobalClassFieldTheory.Reciprocity.rationalPrimeUnitValuationSubringUnit_coe _root_.KummerTheory.RadicalDatum.smul_algebraMap_unit _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.coeffHom_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_C _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.EqualCharacteristicLaurent.powerSeriesEvalSubringHom_X _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.AdicPrincipalUnits.val_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_of _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.DiscretePrincipalUnitQuotient.val_transition _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.adicPrincipalUnitsHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.iwasawaGlobalInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddEquivInverseLimitCarrier_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitAddHomeomorphInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierEval_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadic_smul_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitMulEquivInverseLimitCarrier_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitPadic_smul_carrier_coordinate _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitProdiscreteLimitHomeomorphUnderlying_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicScalar_eq_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierToFull_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierTransition_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.uniformizerHigherUnitQuotientEquiv_mk _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.addEquiv_symm_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.PrincipalUnitProdiscreteLimit.coordinate_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsAddEquivProdiscreteLimit_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAddEquivUnderlyingOfWithZeroValuation_map_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsHomeomorphProdiscreteLimit_to_addEquiv _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaDegreeTerm_zero _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaGn_apply _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaPartialProduct_zero_input _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedAtLevel_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeedIdeal_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.iwasawaSeed_val _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_natCast_smul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_nsmul_eq_pow _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadic_smul_def _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitSuccQuotAddEquivResidue_iwasawaSeed _root_.LocalFieldTheory.DiscreteValuationField.LocalField.higherPrincipalUnitAddToFirst_smul _root_.LocalFieldTheory.DiscreteValuationField.LocalField.laurentSeriesEquivLaurentImageSubfield_apply_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.padicIntToValuationSubring_coe _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.LocalField.ratCastWithValToQpadicClosureSubfield_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_principal _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_root _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitDecompositionLogHomWithUniformizerValue_uniformizer _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.fieldUnitLogHomWithUniformizerValue_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitExpSeriesHomOfMaximalIdealPow_apply _root_.LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.principalUnitLogSeriesHomOfWithZeroValuationScaled_apply_toAdd _root_.LocalFieldTheory.Padic.integerRingEquivPadicDVRValuationSubring_coe _root_.LocalFieldTheory.localIntegerValuationSubringEquiv_apply_coe _root_.LocalFieldTheory.powMonoidHom_range_one_mem _root_.LocalFieldTheory.residueField_algebraMap_residue _root_.LubinTate.standardLubinTatePrimitivePointIterateInteger_zero _root_.LubinTate.standardLubinTateUnitParameterAlgEquiv_apply_gen _root_.LubinTate.standardLubinTateUnitParameterAlgHom_apply_gen _root_.LubinTate.standardLubinTateUnitParameterChosenRepresentative_spec _root_.LubinTate.standardLubinTateUnitParameterEquivGal_apply _root_.LubinTate.standardLubinTateUnitParameterEquivGal_inv_class_apply_gen _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_coe _root_.LubinTate.standardLubinTateUnitParameterLevelRoot_one _root_.LubinTate.standardLubinTateUnitParameterRoot_class _root_.LubinTate.standardLubinTateUnitParameterToGalHom_apply _root_.OAI.PrimeDegreePackets.ThetaConstruction.schwartzCM_apply _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteResidueActionOfHenselianDVF_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_algebraMap _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionResidueAction_apply _root_.RamificationTheory.HilbertRamification.CompleteDVF.residueAction_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerQuotientUnit_mul_uniformizer _root_.RamificationTheory.HilbertRamification.Higher.dvfUniformizerRepresentativeHom_apply _root_.RamificationTheory.HilbertRamification.Higher.dvfValuationSubringUnitAut_apply _root_.RamificationTheory.HilbertRamification.Higher.intrinsicRamificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup_neg_one _root_.RamificationTheory.HilbertRamification.Higher.mem_dvfHigherPrincipalUnitGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_lowerRamificationGroup_iff _root_.RamificationTheory.HilbertRamification.Higher.mem_valuationSubringDisplacementSubalgebraOfUniqueExtension_iff _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberDepthOfUniqueExtension_depth _root_.RamificationTheory.HilbertRamification.Higher.ramificationNumberOfUniqueExtension_one _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_nat _root_.RamificationTheory.HilbertRamification.Higher.realRamificationIdeal_neg_one _root_.RamificationTheory.HilbertRamification.Higher.uniformizerGradedHom_mk _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_coe _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_apply_inv_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_mul_apply _root_.RamificationTheory.HilbertRamification.Higher.valuationSubringAutOfUniqueExtension_one_apply _root_.RayClass.primesEquiv_val_eq_natGenerator _root_.LubinTate.standardLubinTateLevelAutomorphismIntegerRingEquiv_apply _root_.LubinTate.padicMultiplicativeLevelAutomorphismIntegerRingEquiv_apply _root_.infinitePlace_mult_smul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Completed standard and multiplicative scalar endomorphisms
+
+This module extends the standard-to-multiplicative comparison and scalar
+endomorphisms to the completed unramified Witt ring.  It proves the genuine
+composition, torsion, and injectivity identities for their analytic actions.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.CompleteDVF
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open ValuationTheory.DiscreteValuationField
+open SameUniformizer
+
+attribute [local instance 50]
+  padicCompletedMultiplicativeWittUniformSpace
+
+attribute [local instance]
+  padicCompletedMultiplicativeTargetWithIdeal
+  padicCompletedMultiplicativeTargetCompleteSpace
+  padicCompletedMultiplicativeTargetT2Space
+
+/-- The standard-to-multiplicative intertwiner after extending its
+`ℚ_p`-integral coefficients to the completed unramified Witt ring. -/
+noncomputable def padicCompletedStandardToMultiplicativeIntertwiner
+    (p : ℕ) [Fact p.Prime] :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.map
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+    (padicStandardToMultiplicativeIntertwiner p)
+
+/-- The completed standard-to-multiplicative intertwiner has zero constant
+coefficient. -/
+theorem padicCompletedStandardToMultiplicativeIntertwiner_constantCoeff
+    (p : ℕ) [Fact p.Prime] :
+    PowerSeries.constantCoeff
+        (padicCompletedStandardToMultiplicativeIntertwiner p) = 0 := by
+  have hconstant :=
+    (padicStandardToMultiplicativeIntertwiner_hasLinearTerm p).constantCoeff_eq_zero
+  change
+    padicValuationSubringToCompletedUnramifiedWittRing p
+        (PowerSeries.constantCoeff
+          (padicStandardToMultiplicativeIntertwiner p)) = 0
+  rw [PowerSeries.constantCoeff_eq, hconstant, map_zero]
+
+/-- The completed standard-to-multiplicative intertwiner admits formal
+substitution and convergent evaluation at topologically nilpotent points. -/
+theorem padicCompletedStandardToMultiplicativeIntertwiner_hasSubst
+    (p : ℕ) [Fact p.Prime] :
+    PowerSeries.HasSubst
+      (padicCompletedStandardToMultiplicativeIntertwiner p) :=
+  PowerSeries.HasSubst.of_constantCoeff_zero'
+    (padicCompletedStandardToMultiplicativeIntertwiner_constantCoeff p)
+
+/-- A standard p-adic Lubin--Tate scalar endomorphism after extending its
+coefficients to the completed unramified Witt ring. -/
+noncomputable def padicCompletedStandardScalarEndomorphism
+    (p : ℕ) [Fact p.Prime]
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries (padicCompletedUnramifiedWittRing p) :=
+  PowerSeries.map
+    (padicValuationSubringToCompletedUnramifiedWittRing p)
+    (standardLubinTateEndomorphism
+      (padicMultiplicativeLubinTateSeries_isUniformizer p) a)
+
+/-- Analytic action of a completed standard scalar endomorphism on a
+topologically nilpotent point. -/
+noncomputable def padicCompletedStandardScalarEndomorphismValue
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (a : (padicLocalField p).valuationSubring) :
+    (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  padicCompletedLevelPowerSeriesEval p n x hx
+    (padicCompletedStandardScalarEndomorphism p a)
+
+/-- The scalar `1` acts by the identity series after completed coefficient
+extension. -/
+@[simp]
+theorem padicCompletedStandardScalarEndomorphism_one
+    (p : ℕ) [Fact p.Prime] :
+    padicCompletedStandardScalarEndomorphism p 1 =
+      PowerSeries.X := by
+  exact (congrArg
+    (PowerSeries.map (padicValuationSubringToCompletedUnramifiedWittRing p))
+    (standardLubinTateEndomorphism_one
+      (padicMultiplicativeLubinTateSeries_isUniformizer p))).trans
+    (PowerSeries.map_X _)
+
+/-- The completed analytic action of scalar `1` fixes its input. -/
+@[simp]
+theorem padicCompletedStandardScalarEndomorphismValue_one
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x) :
+    padicCompletedStandardScalarEndomorphismValue p n x hx 1 =
+      x := by
+  rw [padicCompletedStandardScalarEndomorphismValue,
+    padicCompletedStandardScalarEndomorphism_one,
+    padicCompletedLevelPowerSeriesEval_X]
+
+/-- Analytic action of a completed multiplicative scalar endomorphism. -/
+noncomputable def padicCompletedMultiplicativeScalarEndomorphismValue
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (a : (padicLocalField p).valuationSubring) :
+    (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  padicCompletedLevelPowerSeriesEval p n x hx
+    (padicCompletedMultiplicativeScalarEndomorphism p a)
+
+/-- A completed multiplicative scalar value remains a convergent
+evaluation point. -/
+theorem padicCompletedMultiplicativeScalarEndomorphismValue_hasEval
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (a : (padicLocalField p).valuationSubring) :
+    PowerSeries.HasEval
+      (padicCompletedMultiplicativeScalarEndomorphismValue
+        p n x hx a) :=
+  padicCompletedLevelPowerSeriesEval_hasEval p n x hx
+    (padicCompletedMultiplicativeScalarEndomorphism p a)
+    (padicCompletedMultiplicativeScalarEndomorphism_hasSubst p a)
+
+/-- Multiplication of multiplicative scalars is composition of their
+completed analytic actions. -/
+theorem padicCompletedMultiplicativeScalarEndomorphismValue_mul
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x)
+    (a b : (padicLocalField p).valuationSubring) :
+    padicCompletedMultiplicativeScalarEndomorphismValue
+        p n x hx (a * b) =
+      padicCompletedMultiplicativeScalarEndomorphismValue p n
+        (padicCompletedMultiplicativeScalarEndomorphismValue
+          p n x hx b)
+        (padicCompletedMultiplicativeScalarEndomorphismValue_hasEval
+          p n x hx b) a := by
+  rw [padicCompletedMultiplicativeScalarEndomorphismValue,
+    padicCompletedMultiplicativeScalarEndomorphism_mul]
+  exact
+    padicCompletedLevelPowerSeriesEval_subst p n x hx
+      (padicCompletedMultiplicativeScalarEndomorphism p b)
+      (padicCompletedMultiplicativeScalarEndomorphism p a)
+      (padicCompletedMultiplicativeScalarEndomorphism_hasSubst p b)
+      (padicCompletedMultiplicativeScalarEndomorphismValue_hasEval
+        p n x hx b)
+
+/-- A p-adic unit scalar acts injectively on all topologically nilpotent
+completed-level integers. -/
+theorem
+    padicCompletedMultiplicativeScalarEndomorphismValue_unit_injective
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (u : (padicLocalField p).valuationSubringˣ)
+    {x y : (padicCompletedLevelCompleteDVF p n).valuationSubring}
+    (hx : PowerSeries.HasEval x) (hy : PowerSeries.HasEval y)
+    (hxy :
+      padicCompletedMultiplicativeScalarEndomorphismValue p n x hx
+          (u : (padicLocalField p).valuationSubring) =
+        padicCompletedMultiplicativeScalarEndomorphismValue p n y hy
+          (u : (padicLocalField p).valuationSubring)) :
+    x = y := by
+  apply
+    padicCompletedLevelPowerSeriesEval_injective_of_unitLinearCoefficient
+      p n
+      (padicCompletedMultiplicativeScalarEndomorphism p
+        (u : (padicLocalField p).valuationSubring))
+      (padicCompletedMultiplicativeScalarEndomorphism_constantCoeff p
+        (u : (padicLocalField p).valuationSubring))
+      ?_ hx hy hxy
+  rw [padicCompletedMultiplicativeScalarEndomorphism_coeff_one]
+  change IsUnit
+    (((padicValuationUnitToCompletedUnramifiedWittUnit p u :
+      (padicCompletedUnramifiedWittRing p)ˣ) :
+        padicCompletedUnramifiedWittRing p))
+  exact (padicValuationUnitToCompletedUnramifiedWittUnit p u).isUnit
+
+/-- The scalar-one completed multiplicative endomorphism fixes every
+topologically nilpotent completed-level integer. -/
+@[simp]
+theorem padicCompletedMultiplicativeScalarEndomorphismValue_one
+    (p : ℕ) [Fact p.Prime] (n : ℕ)
+    (x : (padicCompletedLevelCompleteDVF p n).valuationSubring)
+    (hx : PowerSeries.HasEval x) :
+    padicCompletedMultiplicativeScalarEndomorphismValue p n x hx 1 =
+      x := by
+  apply
+    padicCompletedMultiplicativeScalarEndomorphismValue_unit_injective
+      p n (1 : (padicLocalField p).valuationSubringˣ)
+      (padicCompletedMultiplicativeScalarEndomorphismValue_hasEval
+        p n x hx 1) hx
+  simpa only [Units.val_one, one_mul] using
+    (padicCompletedMultiplicativeScalarEndomorphismValue_mul
+      p n x hx
+        (1 : (padicLocalField p).valuationSubring)
+        (1 : (padicLocalField p).valuationSubring)).symm
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_MultiplicativeEvaluation_CompletedPrimitivePoint
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.LubinTate.standardLubinTateLevelField_galFinite _root_.LubinTate.standardLubinTateLevelField_isAbelianGalois _root_.LubinTate.standardLubinTateLevelField_isMulCommutative _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.instTopologicalSpaceLocalAlgebra _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.Higher.lowerRamificationGroup.instNormal _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RayClass.approximationCompletionTopologicalSpace _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupMulSemiringAction _root_.RamificationTheory.HilbertRamification.CompleteDVF.decompositionGroupResidueFieldMulSemiringAction _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# The completed multiplicative primitive point
+
+This module evaluates the completed multiplicative comparison at the chosen
+completed standard primitive point.  It proves the exact standard and
+changed-uniformizer torsion bounds and constructs the actual unit action on
+that point.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.CompleteDVF
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open ValuationTheory.DiscreteValuationField
+open SameUniformizer
+
+attribute [local instance 50]
+  padicCompletedMultiplicativeWittUniformSpace
+
+attribute [local instance]
+  padicCompletedMultiplicativeTargetWithIdeal
+  padicCompletedMultiplicativeTargetCompleteSpace
+  padicCompletedMultiplicativeTargetT2Space
+
+/-- The completed multiplicative division point obtained by evaluating the
+coefficient-extended comparison at the chosen completed standard primitive
+point. -/
+noncomputable def padicCompletedMultiplicativePrimitivePoint
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  padicCompletedLevelPowerSeriesEval p n
+    (padicCompletedPrimitiveRootInteger p n)
+    (padicCompletedPrimitiveRootInteger_hasEval p n)
+    (padicCompletedStandardToMultiplicativeIntertwiner p)
+
+/-- The completed multiplicative primitive point is topologically
+nilpotent, so it is itself a valid power-series evaluation point. -/
+theorem padicCompletedMultiplicativePrimitivePoint_hasEval
+    (p : ℕ) [Fact p.Prime] (n : ℕ) :
+    PowerSeries.HasEval
+      (padicCompletedMultiplicativePrimitivePoint p n) := by
+  exact
+    padicCompletedLevelPowerSeriesEval_hasEval p n
+      (padicCompletedPrimitiveRootInteger p n)
+      (padicCompletedPrimitiveRootInteger_hasEval p n)
+      (padicCompletedStandardToMultiplicativeIntertwiner p)
+      (padicCompletedStandardToMultiplicativeIntertwiner_hasSubst p)
+
+end LubinTate
+
+end
+end
+
+section
+-- module Solutions.OAIQ244_DUKE.LubinTate_Padic_MultiplicativeEvaluation_Core
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 400000
+attribute [-instance] _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_charZero _root_.GlobalClassFieldTheory.ClassFieldAxiom.finitePlaceAdicCompletion_residueFinite _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosureAlgebra _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isGalois _root_.GlobalClassFieldTheory.Reciprocity.rationalSeparableClosure_isNormal _root_.KummerTheory.ProfiniteUnitDecomposition.Internal.primeFact _root_.LocalClassFieldTheory.finiteGaloisLocalField_integerRing_moduleFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitInverseLimitCarrierPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrierPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.Internal.principalUnitQuotientCarrier_finite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.adicPrincipalUnitsPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientFinite _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.discretePrincipalUnitQuotientPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitPadicSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousAdd _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitContinuousSMul _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.principalUnitProdiscreteLimitPadicModule _root_.LocalFieldTheory.DiscreteValuationField.CompleteDVF.higherPrincipalUnitGroup.residueFieldZModAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextFieldAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadic _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextQPadicTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralAlgebraContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedIntegralLatticeContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFinite _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedMaximalIdealPowContextModuleFree _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextAlgebra _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFact _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextFiniteDimensional _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationExtension _root_.LocalFieldTheory.DiscreteValuationField.LocalField.mixedQPadicContextValuationSubringTower _root_.LocalFieldTheory.DiscreteValuationField.finite_principalUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_residueRootsOfUnityGroup _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerKernel _root_.LocalFieldTheory.DiscreteValuationField.finite_valuationSubringUnits_nthPowerQuotient _root_.LocalFieldTheory.Padic.padicIsNonarchimedeanLocalField _root_.LocalFieldTheory.finite_powMonoidHom_ker_prod _root_.LocalFieldTheory.finite_powMonoidHom_ker_units _root_.LocalFieldTheory.finite_powMonoidHom_rangeQuotient_prod _root_.OAI.PrimeDegreePackets.ThetaConstruction.integerTranslationAction _root_.OAI.PrimeDegreePackets.integralClosure_padicInt_dvr _root_.OAI.PrimeDegreePackets.matrixLocallyCompact _root_.OAI.PrimeDegreePackets.matrixSecondCountable _root_.QuotientGroup.Subgroup.Normal.connectedComponentOfOne _root_.RamificationTheory.Field.absoluteGaloisGroup.absoluteGaloisGroupMulSemiringActionAlgebraicClosure _root_.RamificationTheory.Field.absoluteGaloisGroup.fixingSubgroup_normal_of_normal _root_.RamificationTheory.Field.absoluteGaloisGroup.normal_fieldRangeOfExtension _root_.RamificationTheory.HilbertRamification.ValuationSubring.decompositionResidueField.instField _root_.RelativeIdeleGroup.baseAdeleRingNontrivial _root_.LocalClassFieldTheory.absoluteGaloisGroupT2 _root_.LocalClassFieldTheory.finiteFieldRingCharPrime _root_.LocalClassFieldTheory.finiteResidueBaseRingCharPrime _root_.LocalClassFieldTheory.residueAlgebraicClosureGaloisT2 _root_.LocalClassFieldTheory.residueAlgebraicClosureIsAlgClosure _root_.LocalClassFieldTheory.residueAlgebraicClosureIsGalois _root_.LocalClassFieldTheory.comparisonIntegerRingIsIntegralClosure _root_.LocalClassFieldTheory.normalizationIntegerRingIsIntegralClosure _root_.AlgebraicNumberTheory.Valuations.finiteWithAbsAlgebraIsAlgebraic _root_.AbsoluteValue.ostrowski_withAbsCharZero _root_.AbsoluteValue.withAbsAlgebra_isAlgebraic _root_.adicCompletionProperSpace _root_.finiteLocalUnitsOpen _root_.infiniteAdeleRingT2Space
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+open OAI
+
+set_option autoImplicit false
+
+/-!
+# Changed-uniformizer evaluation on completed p-adic levels
+
+This endpoint evaluates the genuine changed-uniformizer intertwiner at the
+completed multiplicative primitive point.  It proves the exact scalar,
+Frobenius, root, and level-embedding identities used by the completed
+Lubin--Tate tower.
+-/
+
+noncomputable section
+
+namespace LubinTate
+
+open LocalFieldTheory.DiscreteValuationField
+open LocalFieldTheory.DiscreteValuationField.CompleteDVF
+open LocalFieldTheory.DiscreteValuationField.Examples.Qp
+open ValuationTheory.DiscreteValuationField
+open SameUniformizer
+
+attribute [local instance 50]
+  padicCompletedMultiplicativeWittUniformSpace
+
+attribute [local instance]
+  padicCompletedMultiplicativeTargetWithIdeal
+  padicCompletedMultiplicativeTargetCompleteSpace
+  padicCompletedMultiplicativeTargetT2Space
+
+/-- The changed-uniformizer theta value at the genuine completed
+multiplicative primitive point. -/
+noncomputable def padicChangedUniformizerThetaValue
+    (p : ℕ) [Fact p.Prime]
+    (u : (padicLocalField p).valuationSubringˣ) (n : ℕ) :
+    (padicCompletedLevelCompleteDVF p n).valuationSubring :=
+  padicCompletedLevelPowerSeriesEval p n
+    (padicCompletedMultiplicativePrimitivePoint p n)
+    (padicCompletedMultiplicativePrimitivePoint_hasEval p n)
+    (padicChangedUniformizerIntertwiner p u)
+
+end LubinTate
+
+end
+end
+
+

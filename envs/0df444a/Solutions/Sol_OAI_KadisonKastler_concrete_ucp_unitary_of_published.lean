@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonKastler.concrete_ucp_unitary_of_published
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:07:04.050599+00:00
 -- url     : https://prove2.me/submissions/b8c7e06c-5833-41a2-816a-7a6e182728c0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Algebra.Bilinear

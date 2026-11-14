@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_rank_terminal__p2m_cd1fec5c_6619_45ff_8b92_8d3bff9da8a8_a3
 -- name    : WilliamsonShmoys.finite_rank_terminal__p2m_cd1fec5c_6619_45ff_8b92_8d3bff9da8a8_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:55:07.063088+00:00
 -- url     : https://prove2.me/theorems/b7abd633-ec61-443f-acb6-1e6bed0ed1cc

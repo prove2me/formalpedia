@@ -1,0 +1,88 @@
+-- Prove2me | Theorems.Thm_PGDRevision20261113_approximate_contact_localization
+-- name    : PGDRevision20261113.approximate_contact_localization
+-- status  : Open
+-- author  : @Somehow
+-- created : 2026-11-13T06:24:17.088504+00:00
+-- url     : https://prove2.me/theorems/b35f0a31-5173-472e-a00e-338bd545e1ef
+-- title:
+--   Parameter localization from approximate alternating contacts
+-- statement:
+--   Let $C$ be a compact interval of geometry parameters, and let $k_c(t)>0$ be a curvature family. Assume its score
+--
+--   $$
+--   J_c(t)=\partial_c\log k_c(t)=j_c(\zeta(t))
+--   $$
+--
+--   is jointly continuous and strictly increasing in the state feature $\zeta$. Let $A(t)\ge0$ and $B(t)>0$, and set
+--
+--   $$
+--   E_{c,p}(t)=\frac{pk_c(t)-A(t)}{pk_c(t)+B(t)},\qquad
+--   \rho(c,p)=\sup_t|E_{c,p}(t)|.
+--   $$
+--
+--   Fix a feasible candidate $(\widehat c,\widehat p)\in C\times(0,\infty)$. Suppose three states have strictly ordered feature values, and for $\sigma\in\{-1,1\}$ write $s_i=\sigma(-1)^{i-1}$. Assume
+--
+--   $$
+--   s_iE_{\widehat c,\widehat p}(t_i)\ge L>0\quad(i=1,2,3),
+--   \qquad \rho(\widehat c,\widehat p)\le U<1,\qquad L\le U.
+--   $$
+--
+--   Write $A_i=A(t_i)$, $B_i=B(t_i)$, and require $A_i>UB_i$ whenever $s_i=-1$. For each trial level $r$, define the error bands
+--
+--   $$
+--   L_t(r)=\frac{A(t)-rB(t)}{1+r},\qquad
+--   U_t(r)=\frac{A(t)+rB(t)}{1-r}.
+--   $$
+--
+--   Set
+--
+--   $$
+--   \beta_i=
+--   \begin{cases}
+--   \log U_{t_i}(U)-\log U_{t_i}(L),&s_i=1,\\
+--   \log L_{t_i}(L)-\log L_{t_i}(U),&s_i=-1,
+--   \end{cases}
+--   $$
+--
+--   $$
+--   \delta_{ij}=\min_{c\in C}[J_c(t_j)-J_c(t_i)]>0,\qquad
+--   M_J=\max_{c\in C,\ i}|J_c(t_i)|
+--   $$
+--
+--   and
+--
+--   $$
+--   (d_-,d_+)=
+--   \begin{cases}
+--   ((\beta_1+\beta_2)/\delta_{12},
+--   (\beta_2+\beta_3)/\delta_{23}),&\sigma=1,\\
+--   ((\beta_2+\beta_3)/\delta_{23},
+--   (\beta_1+\beta_2)/\delta_{12}),&\sigma=-1.
+--   \end{cases}
+--   $$
+--
+--   Every pair $(c,p)\in C\times(0,\infty)$ with $\rho(c,p)\le U$ satisfies
+--
+--   $$
+--   \boxed{
+--   \widehat c-d_-\le c\le\widehat c+d_+,\qquad
+--   |\log(p/\widehat p)|
+--   \le\max_i\beta_i+M_J\max\{d_-,d_+\}.}
+--   $$
+--
+--   The minimum over $C\times(0,\infty)$ exists and belongs to $[L,U]$. If $C$ contains the full-family optimum from the geometry classification theorem, that minimizing pair is unique.
+--
+--   This result converts approximate alternating contacts and a certified global error envelope into an enclosure of every improving parameter pair. The upper bound $U$ must hold on the entire state domain.
+--
+--   Source: Exact Residual Bounds and Optimal Geometry Selection for Proximal Gradient Methods, revised reading edition, 13 November 2026, Theorem 7.1, page 18; the ordered-family and feasibility assumptions at the start of Section 7.
+--
+--   **Related results.** [Exact profile performance (Theorem 4.1)](https://prove2.me/theorems/b4a2818b-e88a-4b19-b714-efb466e89aa9) · [Geometry classification (Theorem 5.1)](https://prove2.me/theorems/7c34b392-dd3f-4671-be5a-26a7d75835ba) · [Error-band equivalence](https://prove2.me/theorems/672f9ba5-f16d-4b26-bfdf-ed78d3d74fd5)
+--
+--   **Further examples and certificates.** [entropy certified parameter enclosure](https://prove2.me/theorems/7736c030-7b5d-49a0-98b3-c1c174359a86) · [polynomial certified parameter enclosure](https://prove2.me/theorems/6c0c0b6c-4737-4568-a58f-d86e22604aae) · [robust contact localization](https://prove2.me/theorems/724e9a21-4672-4c25-9520-1aa705293868) · [rational scale enclosure](https://prove2.me/theorems/c8566766-97a3-4d51-8b5d-87b15cd4706b) · [localization linear shrinkage](https://prove2.me/theorems/c154b1dc-ce78-497b-b2ef-171db972e468)
+-- source:
+--   Author manuscript: Exact Residual Bounds and Optimal Geometry Selection for Proximal Gradient Methods, revised reading edition, 13 November 2026, Theorem 7.1, p. 18; source file sections/07_quantitative_certificates.tex, label thm:bg_localization.
+
+import Definitions.Def_PGDRevision20261113_Contacts
+open PGDRevision20261113
+
+theorem PGDRevision20261113.approximate_contact_localization : ApproximateContactLocalizationClaim := by sorry

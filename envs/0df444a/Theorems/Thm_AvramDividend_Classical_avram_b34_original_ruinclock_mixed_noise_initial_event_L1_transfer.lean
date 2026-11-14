@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b34_original_ruinclock_mixed_noise_initial_event_L1_transfer
 -- name    : AvramDividend.Classical.avram_b34_original_ruinclock_mixed_noise_initial_event_L1_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:20:25.114126+00:00
 -- url     : https://prove2.me/theorems/26536e90-4e7c-4526-bd85-b7f00c6d3a01

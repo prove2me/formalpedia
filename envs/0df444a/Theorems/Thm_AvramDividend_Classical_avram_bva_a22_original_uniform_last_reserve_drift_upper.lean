@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva_a22_original_uniform_last_reserve_drift_upper
 -- name    : AvramDividend.Classical.avram_bva_a22_original_uniform_last_reserve_drift_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:58:45.679542+00:00
 -- url     : https://prove2.me/theorems/6f23a15d-cc6b-40e6-b24d-3775dec936f3

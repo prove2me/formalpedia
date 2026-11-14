@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_publishedBoundary
 -- name    : OAI.KadisonKastler.publishedBoundary
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:18:00.553097+00:00
 -- url     : https://prove2.me/theorems/b2f489db-e4c4-48df-b730-4fdf80c818de

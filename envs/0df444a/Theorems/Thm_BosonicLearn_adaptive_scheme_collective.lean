@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_adaptive_scheme_collective
 -- name    : BosonicLearn.adaptive_scheme_collective
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-13T02:49:12.945615+00:00
 -- url     : https://prove2.me/theorems/339b3367-24ca-46a7-ba89-7d51c5f5c11d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RvsCert_lemma_3
 -- name    : RvsCert.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:48:33.903129+00:00
 -- url     : https://prove2.me/theorems/7694796c-2a10-48cf-834f-e86d98be67fc

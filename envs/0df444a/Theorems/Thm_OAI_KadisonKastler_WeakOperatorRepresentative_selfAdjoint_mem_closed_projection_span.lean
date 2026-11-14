@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_WeakOperatorRepresentative_selfAdjoint_mem_closed_projection_span
 -- name    : OAI.KadisonKastler.WeakOperatorRepresentative.selfAdjoint_mem_closed_projection_span
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:40:00.58326+00:00
 -- url     : https://prove2.me/theorems/d889dffc-fe43-44d4-ab23-b462f2ce05b8

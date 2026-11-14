@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_trace_identity
 -- name    : HararySachs.Hyper.trace_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:40:38.244478+00:00
 -- url     : https://prove2.me/theorems/6cafdc25-0139-45f6-9ab5-4efc5bfc4ff3

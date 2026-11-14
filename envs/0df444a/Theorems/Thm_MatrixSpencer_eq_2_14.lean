@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixSpencer_eq_2_14
 -- name    : MatrixSpencer.eq_2_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:41:07.713202+00:00
 -- url     : https://prove2.me/theorems/772ae848-9651-43ea-8271-bea6e107989c

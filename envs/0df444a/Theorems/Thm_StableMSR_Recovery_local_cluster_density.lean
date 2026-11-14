@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_local_cluster_density
 -- name    : StableMSR.Recovery.local_cluster_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:40.03287+00:00
 -- url     : https://prove2.me/theorems/1c9a401a-0573-47e4-8797-546d23e96dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstOverheadCompile_Main_decomposition_cnot_h_rotation
 -- name    : ConstOverheadCompile.Main.decomposition_cnot_h_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:41.659198+00:00
 -- url     : https://prove2.me/theorems/e5afad5a-f577-49fd-8fb9-e142802f8d1a

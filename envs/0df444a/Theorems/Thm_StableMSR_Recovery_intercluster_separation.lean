@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_intercluster_separation
 -- name    : StableMSR.Recovery.intercluster_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:38.221079+00:00
 -- url     : https://prove2.me/theorems/9541b639-51bb-4358-a92c-8740ad5e3999

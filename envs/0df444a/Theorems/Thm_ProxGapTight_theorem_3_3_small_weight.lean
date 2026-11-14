@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxGapTight_theorem_3_3_small_weight
 -- name    : ProxGapTight.theorem_3_3_small_weight
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:57:14.148451+00:00
 -- url     : https://prove2.me/theorems/e4fba41c-9ad8-4c68-95bc-7b1a1de53b56

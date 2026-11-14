@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_finite_bimodular_covariance_families
 -- name    : OAI.KadisonKastler.exists_finite_bimodular_covariance_families
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:06:23.100148+00:00
 -- url     : https://prove2.me/theorems/0629da4b-bc39-4733-9532-67ea4afa630e

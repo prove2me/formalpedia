@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProxGapTight.theorem_3_3_small_weight
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T18:11:35.513216+00:00
 -- url     : https://prove2.me/submissions/461d76a5-6bf6-4720-abef-239350e3e3ef
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ProxGapTight_Um

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_unitary_approx_of_nearInclusion
 -- name    : OAI.KadisonKastler.exists_unitary_approx_of_nearInclusion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:44:40.627446+00:00
 -- url     : https://prove2.me/theorems/439d8af2-1fc2-4771-9d3f-6d880f8fc15b

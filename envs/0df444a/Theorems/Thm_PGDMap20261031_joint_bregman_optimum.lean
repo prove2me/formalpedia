@@ -55,6 +55,8 @@
 --   For a single profile $\psi(t)=H(\sqrt a\,t)$, the sharper bounds are $a<p_*<a/(1-a)$; the alternating contacts start at $t_1=0$ with signs $+,-,+$.
 --
 --   **Formalization note.** The target covers the stated one-dimensional positive-mixture class, the entire normalized power family and all positive constant steps. The criterion is gradient contraction. Runtime and total computational cost are not part of this target. Derivatives, integrals and extrema are computed from the explicit functions rather than supplied as assumptions.
+--
+--   **Further examples and certificates.** [Finite positive-measure extension](https://prove2.me/theorems/cbb9835f-44dc-466c-a418-060ff9eb0673)
 -- source:
 --   Jointly Optimal Bregman Geometry and Stepsize for Positive Entropy Mixtures, manuscript dated 2026-10-30, Theorem 1, p. 2; proof pp. 2-5; local source: 03_Jointly_Optimal_Bregman_Map_and_Stepsize.pdf
 

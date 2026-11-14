@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_operator_basis_trace_criterion
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.operator_basis_trace_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:35:15.753242+00:00
 -- url     : https://prove2.me/theorems/9d6a9985-c4d1-4366-a2a3-e018d9831546

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HighDimStat.Rkhs.thm12_20_mercer_v2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T04:09:39.465007+00:00
 -- url     : https://prove2.me/submissions/b884309e-bc5b-4d69-a9c5-085fb7b7ecbd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HighDimStat_Rkhs_Core

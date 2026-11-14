@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_continuous_unital_transfer_of_traceDense
 -- name    : OAI.KadisonKastler.exists_continuous_unital_transfer_of_traceDense
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:09:17.982199+00:00
 -- url     : https://prove2.me/theorems/c50782e0-30e2-4e29-a54e-2b3a4da93b76

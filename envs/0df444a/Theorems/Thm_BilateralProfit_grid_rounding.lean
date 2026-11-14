@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_grid_rounding
 -- name    : BilateralProfit.grid_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:22:06.830265+00:00
 -- url     : https://prove2.me/theorems/3d8b6814-0bd4-4ec2-95d5-c5b8d48a6753

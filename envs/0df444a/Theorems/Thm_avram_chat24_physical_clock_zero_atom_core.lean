@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_chat24_physical_clock_zero_atom_core
 -- name    : avram_chat24_physical_clock_zero_atom_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:21:22.778257+00:00
 -- url     : https://prove2.me/theorems/857224fc-093c-4108-bd7b-03c9d8888dd5

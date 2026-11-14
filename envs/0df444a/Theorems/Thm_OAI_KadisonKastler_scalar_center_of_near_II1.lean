@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_scalar_center_of_near_II1
 -- name    : OAI.KadisonKastler.scalar_center_of_near_II1
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:45:28.279203+00:00
 -- url     : https://prove2.me/theorems/531f046d-a42f-4988-9b32-152b85694d2e

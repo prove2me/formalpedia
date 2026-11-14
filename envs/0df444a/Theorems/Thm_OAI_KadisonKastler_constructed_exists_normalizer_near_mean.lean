@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_constructed_exists_normalizer_near_mean
 -- name    : OAI.KadisonKastler.constructed_exists_normalizer_near_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:15:42.251205+00:00
 -- url     : https://prove2.me/theorems/210408c2-2142-4a31-b843-b8b5275db63b

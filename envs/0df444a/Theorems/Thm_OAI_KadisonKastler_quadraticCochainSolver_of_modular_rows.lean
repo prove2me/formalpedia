@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_quadraticCochainSolver_of_modular_rows
 -- name    : OAI.KadisonKastler.quadraticCochainSolver_of_modular_rows
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:13:24.254203+00:00
 -- url     : https://prove2.me/theorems/b047482d-f93b-475c-abba-671fb93d27d6

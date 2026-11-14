@@ -69619,7 +69619,7 @@
 {"parent": "SizeCircuit.addStep_eq", "child": "SizeCircuit_Addition", "via": ["solution", "statement"]}
 {"parent": "SizeCircuit.addStep_eq", "child": "ToTuring_Lib_Unary", "via": ["solution", "statement"]}
 {"parent": "AltRegret.theorem_1", "child": "AltRegret_play", "via": ["statement"]}
-{"parent": "AltRegret.theorem_1", "child": "AltRegret_altRegretAgainst", "via": ["statement"]}
+{"parent": "AltRegret.theorem_1", "child": "AltRegret_altRegretAgainst", "via": ["solution", "statement"]}
 {"parent": "ParetoNCSched.theorem_D_4", "child": "ParetoNCSched_IsCorrect", "via": ["statement"]}
 {"parent": "ParetoNCSched.theorem_D_4", "child": "ParetoNCSched_OPT", "via": ["statement"]}
 {"parent": "ParetoNCSched.theorem_D_4", "child": "ParetoNCSched_mrcCost", "via": ["statement"]}
@@ -69822,7 +69822,7 @@
 {"parent": "ExplicitCost.callOf_polyT", "child": "ExplicitCost_GroupingDefs", "via": ["solution", "statement"]}
 {"parent": "ExplicitCost.callOf_polyT", "child": "Exits_Poly", "via": ["solution", "statement"]}
 {"parent": "BilateralProfit.lemma_4_8", "child": "BilateralProfit_Analysis", "via": ["statement"]}
-{"parent": "BilateralProfit.lemma_4_8", "child": "BilateralProfit_QueryRoutine", "via": ["statement"]}
+{"parent": "BilateralProfit.lemma_4_8", "child": "BilateralProfit_QueryRoutine", "via": ["solution", "statement"]}
 {"parent": "JointNonManip.lemma_3_2", "child": "JointNonManip_Algorithm1", "via": ["statement"]}
 {"parent": "OAI.ActualEisensteinCubic.breveE_quadratic_coordinate", "child": "OAI_NumberTheory_DirichletL_GaussSum_QuadraticTrace", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.breveE_quadratic_coordinate", "child": "OAI_NumberTheory_DirichletL_Arithmetic_LatticeCount", "via": ["solution", "statement"]}
@@ -76099,7 +76099,7 @@
 {"parent": "QEC.Semantics.FiniteSubsystem.extendLocalToRegister_one", "child": "QEC_Semantics_Core_Subsystem", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_physical_lefttag_C1_nonlinear_jump_source_limit", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_physical_lefttag_C1_nonlinear_jump_source_limit", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "AltRegret.theorem_5", "child": "AltRegret_potential", "via": ["statement"]}
+{"parent": "AltRegret.theorem_5", "child": "AltRegret_potential", "via": ["solution", "statement"]}
 {"parent": "ConstrSOSP_encGate", "child": "ConstrSOSP_Gate", "via": ["statement"]}
 {"parent": "ConstrSOSP_encGate", "child": "QAlgorithms_ClassicalBinaryEncoding", "via": ["statement"]}
 {"parent": "ReserveLB_ClassStr_A", "child": "ReserveLB_ClassStr_P", "via": ["statement"]}
@@ -77734,7 +77734,7 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2901_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2901_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2901_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.lemma_A_6", "child": "BilateralProfit_Model", "via": ["statement"]}
+{"parent": "BilateralProfit.lemma_A_6", "child": "BilateralProfit_Model", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.projectiveActiveWall_fderiv", "child": "BianchiIX_Dynamics_ProjectiveRegularity", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.tensorMap_right_comp_overlapLeftEmbedding", "child": "QEC_Semantics_ErrorCorrection_ReferenceDecoupling", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.tensorMap_right_comp_overlapLeftEmbedding", "child": "QEC_Semantics_ErrorCorrection_QuditNoInformation", "via": ["solution", "statement"]}
@@ -80630,8 +80630,8 @@
 {"parent": "QEC.Semantics.QuditSubsystem.erasureFactorizedKraus_toQuantumChannel_eq_erasureChannel", "child": "QEC_Semantics_Entropy_MatrixRelative", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.QuditSubsystem.erasureFactorizedKraus_toQuantumChannel_eq_erasureChannel", "child": "QEC_Semantics_ErrorCorrection_ReferenceDecoupling", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.QuditSubsystem.erasureFactorizedKraus_toQuantumChannel_eq_erasureChannel", "child": "QEC_Semantics_ErrorCorrection_KLRecovery", "via": ["solution", "statement"]}
-{"parent": "GlobalSinkhorn.product_bounds_of_radius", "child": "GlobalSinkhorn_IsPosDiagScaling", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.product_bounds_of_radius", "child": "GlobalSinkhorn_scalingRadius", "via": ["statement"]}
+{"parent": "GlobalSinkhorn.product_bounds_of_radius", "child": "GlobalSinkhorn_IsPosDiagScaling", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.product_bounds_of_radius", "child": "GlobalSinkhorn_scalingRadius", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_dominated_error_grid_without_payoff_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_dominated_error_grid_without_payoff_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_2_original_dominated_error_grid_without_payoff_L1", "child": "AvramDividend.Classical.avram_p3_2_original_dominated_random_mesh_error_strict_prebudget", "via": ["solution", "statement"]}
@@ -82106,7 +82106,7 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.AffinePlace.residueDegree_eq_generator_natDegree_mul_inertia", "child": "QEC_Coding_AlgebraicGeometry_Places_AffinePlaceDegree", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.GlobalPlace.completedIdeleAt_diagonal", "child": "QEC_Coding_AlgebraicGeometry_Adeles_CompletedGlobalIdele", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.GlobalPlace.completedIdeleAt_diagonal", "child": "QEC_Coding_AlgebraicGeometry_Adeles_CompletedGlobalAdele", "via": ["solution", "statement"]}
-{"parent": "AltRegret.lemma_1", "child": "AltRegret_play", "via": ["statement"]}
+{"parent": "AltRegret.lemma_1", "child": "AltRegret_play", "via": ["solution", "statement"]}
 {"parent": "CompetingSellers.lemma_3_11", "child": "CompetingSellers_revenue", "via": ["statement"]}
 {"parent": "CompetingSellers.lemma_3_11", "child": "CompetingSellers_priceRep", "via": ["statement"]}
 {"parent": "QEC.Semantics.QuantumChannel.matrix_map_positive", "child": "QEC_Semantics_Core_Definitions", "via": ["solution", "statement"]}
@@ -83595,7 +83595,7 @@
 {"parent": "QEC.Semantics.QuditSubsystem.adjoint_prepareFactorizedBranch_apply_tmul_reference", "child": "QEC_Semantics_Entropy_MatrixRelative", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.QuditSubsystem.adjoint_prepareFactorizedBranch_apply_tmul_reference", "child": "QEC_Semantics_ErrorCorrection_ReferenceDecoupling", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.QuditSubsystem.adjoint_prepareFactorizedBranch_apply_tmul_reference", "child": "QEC_Semantics_ErrorCorrection_KLRecovery", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.grid_rounding", "child": "BilateralProfit_Algorithm1", "via": ["statement"]}
+{"parent": "BilateralProfit.grid_rounding", "child": "BilateralProfit_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.measurable_bandFun", "child": "LeanLevy_Levy_CompensatedIntegral", "via": ["statement"]}
 {"parent": "ProbabilityTheory.measurable_bandFun", "child": "LeanLevy_RandomMeasure_PoissonCompensated", "via": ["statement"]}
 {"parent": "ProbabilityTheory.measurable_bandFun", "child": "LeanLevy_RandomMeasure_TimeSpacePoisson", "via": ["solution", "statement"]}
@@ -88134,7 +88134,7 @@
 {"parent": "InvMarketMaking.LOB.lemma_B_1", "child": "InvMarketMaking_LOB_J", "via": ["statement"]}
 {"parent": "OAI.ActualEisensteinCubic.breveGamma1_gamma2_eq_neg_alpha_G", "child": "OAI_NumberTheory_DirichletL_GaussSum_SexticNormalization", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.breveGamma1_gamma2_eq_neg_alpha_G", "child": "OAI_NumberTheory_DirichletL_GaussSum_CubicNormalization", "via": ["solution", "statement"]}
-{"parent": "ConstrSOSP.searchReduces_trans", "child": "CardinalMatching_SearchReduces", "via": ["statement"]}
+{"parent": "ConstrSOSP.searchReduces_trans", "child": "CardinalMatching_SearchReduces", "via": ["solution", "statement"]}
 {"parent": "ConstrSOSP.searchReduces_trans", "child": "TetrisHard_Rows_Search", "via": ["statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Residues_Direct_IntegralDifferentialResidue", "child": "QEC.Coding.AlgebraicGeometry.GlobalPlace.repackageEquiv_order", "via": ["statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Residues_Direct_IntegralDifferentialResidue", "child": "Ideal.Factors.quotientResidueEquiv_mk", "via": ["statement"]}
@@ -89646,7 +89646,7 @@
 {"parent": "RecursionWithPieces.countAB", "child": "VariableBound_Params_Ineq", "via": ["solution", "statement"]}
 {"parent": "RecursionWithPieces.countAB", "child": "GeneralPieces_ThmRunningTime", "via": ["solution", "statement"]}
 {"parent": "RecursionWithPieces.countAB", "child": "CountKSatRate_Brute", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.lemma_4_6", "child": "BilateralProfit_OneRound", "via": ["statement"]}
+{"parent": "BilateralProfit.lemma_4_6", "child": "BilateralProfit_OneRound", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerSelectedPartialTraceChannel_branchProduct_matrixEntry", "child": "QEC_Semantics_Instruments_TensorPower_BranchOperator", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerSelectedPartialTraceChannel_branchProduct_matrixEntry", "child": "QEC_Semantics_Instruments_Selection_SelectedBranchOperator", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerSelectedPartialTraceChannel_branchProduct_matrixEntry", "child": "QEC_Semantics_Instruments_Selection_SelectedTrialProduct", "via": ["solution", "statement"]}
@@ -90856,7 +90856,7 @@
 {"parent": "BianchiIX.fromProjectiveState_constraint", "child": "BianchiIX_Dynamics_ProjectiveState", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_env3_original_oscillating_strict_crossing_cash_without_reference_grid", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.transStep_r1_7_eq_e", "child": "OAIQ098E031", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.claim_4_10", "child": "BilateralProfit_QueryRoutine", "via": ["statement"]}
+{"parent": "BilateralProfit.claim_4_10", "child": "BilateralProfit_QueryRoutine", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.tensorMap_left_comp_overlapRightEmbedding_hom", "child": "QEC_Semantics_ErrorCorrection_ReferenceDecoupling", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.tensorMap_left_comp_overlapRightEmbedding_hom", "child": "QEC_Semantics_ErrorCorrection_QuditNoInformation", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.tensorMap_left_comp_overlapRightEmbedding_hom", "child": "QEC_Bounds_GeometricLocalityTradeoff_Model", "via": ["solution", "statement"]}
@@ -91377,10 +91377,10 @@
 {"parent": "AvramDividend.Classical.avram_p4_s3_interval_i_original_stopped_discounted_clipped_prejump_gradient_full_cutoff_L2_zero", "child": "AvramDividend.Classical.avram_wave3_04_clipped_stronglyPredictable_bounded", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_s3_interval_i_original_stopped_discounted_clipped_prejump_gradient_full_cutoff_L2_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_s3_interval_i_original_stopped_discounted_clipped_prejump_gradient_full_cutoff_L2_zero", "child": "AvramDividend.Classical.avram_p4_s3_interval_h_original_full_cutoff_stopped_predictable_grid_L2_zero_mean", "via": ["solution", "statement"]}
-{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_Mw", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_IsPosDiagScaling", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_Fw", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_skIter", "via": ["statement"]}
+{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_Mw", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_IsPosDiagScaling", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_Fw", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.eq_34", "child": "GlobalSinkhorn_skIter", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_f2_original_full_refining_Y_grid_small_of_first_cell", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p3_f2_original_full_refining_Y_grid_small_of_first_cell", "child": "AvramDividend.Classical.avram_p3_f2_original_positive_clock_refining_Y_grid_small", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.core_section_tangent_correction", "child": "BianchiIX_Algebra_Projective", "via": ["solution", "statement"]}
@@ -98254,7 +98254,7 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.Differential.simplePoleResidue_rationalAdicWeightedPolynomialLogDifferential", "child": "QEC_Coding_AlgebraicGeometry_Residues_Local_LogarithmicResidue", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.Differential.simplePoleResidue_rationalAdicWeightedPolynomialLogDifferential", "child": "QEC_Coding_AlgebraicGeometry_Residues_Rational_AdicPolynomialDifferential", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.Differential.simplePoleResidue_rationalAdicWeightedPolynomialLogDifferential", "child": "QEC_Coding_AlgebraicGeometry_Residues_Rational_AdicPolynomialLogarithmicResidue", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.claim_4_9", "child": "BilateralProfit_SellerTree", "via": ["statement"]}
+{"parent": "BilateralProfit.claim_4_9", "child": "BilateralProfit_SellerTree", "via": ["solution", "statement"]}
 {"parent": "FirstOrderFG_Xset", "child": "FirstOrderFG_Bset", "via": ["statement"]}
 {"parent": "OAI.ActualEisensteinCubic.canonical_A5_jfour_breveE", "child": "OAI_NumberTheory_DirichletL_Arithmetic_EisensteinEmbedding", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.canonical_A5_jfour_breveE", "child": "OAI_NumberTheory_DirichletL_GaussSum_CubicNormalization", "via": ["solution", "statement"]}
@@ -99907,7 +99907,7 @@
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.boundaryToFourFactorReorder_toLinearEquiv_apply_tmul", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["statement"]}
 {"parent": "AnchoredEP_regTaylor", "child": "AnchoredEP_taylorOp", "via": ["statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.MeromorphicGerms.meromorphicOrderValuation_eq_top_iff", "child": "QEC_Coding_AlgebraicGeometry_Places_MeromorphicGerms", "via": ["solution", "statement"]}
-{"parent": "BilateralProfit.proposition_4_7", "child": "BilateralProfit_MWU", "via": ["statement"]}
+{"parent": "BilateralProfit.proposition_4_7", "child": "BilateralProfit_MWU", "via": ["solution", "statement"]}
 {"parent": "MaxMinFracSched_OnlineAlg", "child": "MaxMinFracSched_pre", "via": ["statement"]}
 {"parent": "MaxMinFracSched_OnlineAlg", "child": "MaxMinFracSched_work", "via": ["statement"]}
 {"parent": "MaxMinFracSched_OnlineAlg", "child": "MaxMinFracSched_Job", "via": ["statement"]}

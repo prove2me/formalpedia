@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Rkhs_thm12_20_mercer_v2
 -- name    : HighDimStat.Rkhs.thm12_20_mercer_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:30.882102+00:00
 -- url     : https://prove2.me/theorems/5c710fe3-b632-4235-bddb-f53d00da1646

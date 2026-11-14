@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_selfAdjoint_split_of_factor_commutant
 -- name    : OAI.KadisonKastler.exists_selfAdjoint_split_of_factor_commutant
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:49:12.457411+00:00
 -- url     : https://prove2.me/theorems/916ff0ec-58b9-4a6f-ae85-0227c6eea5b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RvsCert_lemma_4_hard_input
 -- name    : RvsCert.lemma_4_hard_input
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:48:15.63326+00:00
 -- url     : https://prove2.me/theorems/7dbf119f-bc2c-4e17-9d6a-47d3c09882de

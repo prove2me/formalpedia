@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonKastler.weakOperatorField_closed_projection_span_eq_top
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:26:24.488215+00:00
 -- url     : https://prove2.me/submissions/0043247c-3742-41c4-8eec-3f5213efac40
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Algebra.Equiv

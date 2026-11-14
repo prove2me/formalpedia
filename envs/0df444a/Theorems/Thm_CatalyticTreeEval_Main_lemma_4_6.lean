@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CatalyticTreeEval_Main_lemma_4_6
 -- name    : CatalyticTreeEval.Main.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T16:31:38.394077+00:00
 -- url     : https://prove2.me/theorems/6d1a22f0-39af-427a-993d-d7a4dd9a351c

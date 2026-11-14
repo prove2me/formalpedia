@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_bell_measurement_from_local_measurements
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.bell_measurement_from_local_measurements
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:45:12.467355+00:00
 -- url     : https://prove2.me/theorems/7cb66018-750a-438b-892e-88b762fbaf8a

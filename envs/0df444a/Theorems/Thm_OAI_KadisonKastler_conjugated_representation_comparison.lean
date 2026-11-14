@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_conjugated_representation_comparison
 -- name    : OAI.KadisonKastler.conjugated_representation_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:05:14.460146+00:00
 -- url     : https://prove2.me/theorems/b7a9fa34-8e8b-4978-b715-263d3be23d46

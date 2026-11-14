@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_h_bond_teleportation_two_one_bit_steps
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.h_bond_teleportation_two_one_bit_steps
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:46:01.324666+00:00
 -- url     : https://prove2.me/theorems/6a7434a5-4026-4ae4-b79a-0323c064416e

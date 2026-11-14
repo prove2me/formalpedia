@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NuclearUltrapower_SOS_row_partition_108_ca
 -- name    : OAI.NuclearUltrapower.SOS.row_partition_108_ca
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T15:13:39.935453+00:00
 -- url     : https://prove2.me/theorems/aeb4f8b3-7c79-4797-a0a0-6110bfdc047c

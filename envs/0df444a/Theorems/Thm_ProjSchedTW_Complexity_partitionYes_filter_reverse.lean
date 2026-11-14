@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_Complexity_partitionYes_filter_reverse
 -- name    : ProjSchedTW.Complexity.partitionYes_filter_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-01T23:34:53.37957+00:00
 -- url     : https://prove2.me/theorems/e61a4f23-413f-4f12-ad93-4eacf1448b04

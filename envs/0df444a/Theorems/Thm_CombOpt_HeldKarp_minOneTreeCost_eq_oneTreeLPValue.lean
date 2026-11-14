@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CombOpt_HeldKarp_minOneTreeCost_eq_oneTreeLPValue
 -- name    : CombOpt.HeldKarp.minOneTreeCost_eq_oneTreeLPValue
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:14:16.112858+00:00
 -- url     : https://prove2.me/theorems/e7dcbdc1-d8a3-4cc9-8712-9bef779c3a64

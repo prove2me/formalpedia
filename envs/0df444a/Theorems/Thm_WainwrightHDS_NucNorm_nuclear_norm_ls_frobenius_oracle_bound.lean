@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WainwrightHDS_NucNorm_nuclear_norm_ls_frobenius_oracle_bound
 -- name    : WainwrightHDS.NucNorm.nuclear_norm_ls_frobenius_oracle_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:34:49.586987+00:00
 -- url     : https://prove2.me/theorems/83605de2-6526-45ea-9387-f93c98ede930

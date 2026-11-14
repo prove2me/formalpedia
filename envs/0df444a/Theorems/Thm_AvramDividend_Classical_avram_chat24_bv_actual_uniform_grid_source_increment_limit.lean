@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_actual_uniform_grid_source_increment_limit
 -- name    : AvramDividend.Classical.avram_chat24_bv_actual_uniform_grid_source_increment_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T12:45:10.734653+00:00
 -- url     : https://prove2.me/theorems/33a32b0b-5c11-425c-8625-13559c4d089c

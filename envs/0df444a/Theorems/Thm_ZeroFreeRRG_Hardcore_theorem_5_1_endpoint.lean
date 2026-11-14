@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroFreeRRG_Hardcore_theorem_5_1_endpoint
 -- name    : ZeroFreeRRG.Hardcore.theorem_5_1_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @wcysai
 -- created : 2026-11-13T04:26:32.385192+00:00
 -- url     : https://prove2.me/theorems/87c2a029-f796-4e90-8d32-da1ee4d997b7

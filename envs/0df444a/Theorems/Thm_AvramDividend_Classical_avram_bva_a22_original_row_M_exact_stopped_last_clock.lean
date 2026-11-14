@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva_a22_original_row_M_exact_stopped_last_clock
 -- name    : AvramDividend.Classical.avram_bva_a22_original_row_M_exact_stopped_last_clock
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:36:48.998709+00:00
 -- url     : https://prove2.me/theorems/7b4da14d-4eb3-4274-b436-65501cf03aae

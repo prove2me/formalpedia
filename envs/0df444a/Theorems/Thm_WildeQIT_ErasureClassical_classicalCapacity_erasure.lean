@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_ErasureClassical_classicalCapacity_erasure
 -- name    : WildeQIT.ErasureClassical.classicalCapacity_erasure
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:38:27.197862+00:00
 -- url     : https://prove2.me/theorems/34f98856-bff1-4447-bb4c-56531fa2aedb

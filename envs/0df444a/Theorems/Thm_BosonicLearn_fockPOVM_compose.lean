@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_fockPOVM_compose
 -- name    : BosonicLearn.fockPOVM_compose
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-13T05:28:10.625906+00:00
 -- url     : https://prove2.me/theorems/a8873a68-1669-4999-a119-7795dadbf2b7

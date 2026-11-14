@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_adaptive_scheme_product_povm
 -- name    : BosonicLearn.adaptive_scheme_product_povm
--- status  : Open
+-- status  : Proved
 -- author  : @Senrui Chen
 -- created : 2026-11-13T04:37:57.618363+00:00
 -- url     : https://prove2.me/theorems/e28d150d-f0c0-48c1-a0a5-8bc0a8a33460

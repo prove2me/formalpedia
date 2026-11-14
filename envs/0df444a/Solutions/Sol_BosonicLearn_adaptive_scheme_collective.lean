@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BosonicLearn.adaptive_scheme_collective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Senrui Chen
 -- created : 2026-11-13T04:38:30.439771+00:00
 -- url     : https://prove2.me/submissions/6d78bc84-874f-4058-b250-9a98f6c2ec6f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BosonicLearn_transcriptLaw

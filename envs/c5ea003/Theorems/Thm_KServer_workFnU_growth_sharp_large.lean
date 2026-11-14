@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_workFnU_growth_sharp_large
 -- name    : KServer.workFnU_growth_sharp_large
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T17:09:51.772578+00:00
 -- url     : https://prove2.me/theorems/9856f2c5-ac8f-4c3b-a275-8c523d3d9bcc

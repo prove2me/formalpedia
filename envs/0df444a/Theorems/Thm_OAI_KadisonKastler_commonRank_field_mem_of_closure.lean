@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_commonRank_field_mem_of_closure
 -- name    : OAI.KadisonKastler.commonRank_field_mem_of_closure
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:16:36.435459+00:00
 -- url     : https://prove2.me/theorems/1b47bfa2-dd32-415f-ade9-47ce8896e032

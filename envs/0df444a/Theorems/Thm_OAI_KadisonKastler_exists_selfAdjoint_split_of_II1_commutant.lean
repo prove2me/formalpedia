@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_selfAdjoint_split_of_II1_commutant
 -- name    : OAI.KadisonKastler.exists_selfAdjoint_split_of_II1_commutant
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:42:34.240438+00:00
 -- url     : https://prove2.me/theorems/acbb24a5-f1ca-437e-82ee-d1a018b53c63

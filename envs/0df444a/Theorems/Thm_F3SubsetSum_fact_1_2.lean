@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F3SubsetSum_fact_1_2
 -- name    : F3SubsetSum.fact_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:28:46.991763+00:00
 -- url     : https://prove2.me/theorems/4dc68528-cc77-4555-9e5f-c0205158012c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_markov_recovery
 -- name    : SecondBestTrade.HalfEfficiency.markov_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:47.719408+00:00
 -- url     : https://prove2.me/theorems/48329486-efc5-4ac2-b515-78768418943c

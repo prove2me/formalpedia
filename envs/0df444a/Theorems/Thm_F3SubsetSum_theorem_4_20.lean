@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F3SubsetSum_theorem_4_20
 -- name    : F3SubsetSum.theorem_4_20
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:31:11.550303+00:00
 -- url     : https://prove2.me/theorems/b52e39c7-abed-42b8-9a9f-38ff79eeee42

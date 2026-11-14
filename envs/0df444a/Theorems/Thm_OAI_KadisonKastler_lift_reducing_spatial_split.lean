@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_lift_reducing_spatial_split
 -- name    : OAI.KadisonKastler.lift_reducing_spatial_split
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:36:56.936089+00:00
 -- url     : https://prove2.me/theorems/c2c0c691-22ed-4ab9-bfea-15e29ab2aca5

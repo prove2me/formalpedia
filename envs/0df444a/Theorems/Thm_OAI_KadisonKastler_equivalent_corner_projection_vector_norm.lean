@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_equivalent_corner_projection_vector_norm
 -- name    : OAI.KadisonKastler.equivalent_corner_projection_vector_norm
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:09:21.204545+00:00
 -- url     : https://prove2.me/theorems/280df506-ed37-4f21-a764-28f5ff62e8ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_half_first_best
 -- name    : SecondBestTrade.HalfEfficiency.half_first_best
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:04:58.754193+00:00
 -- url     : https://prove2.me/theorems/a2d775b7-fe07-4e1d-9609-a5ac013f17d5

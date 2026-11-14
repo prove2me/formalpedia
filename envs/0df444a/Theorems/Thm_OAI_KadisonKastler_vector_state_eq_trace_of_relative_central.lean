@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_vector_state_eq_trace_of_relative_central
 -- name    : OAI.KadisonKastler.vector_state_eq_trace_of_relative_central
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:51:21.983304+00:00
 -- url     : https://prove2.me/theorems/af2fb2eb-53b8-42cd-9892-3992b89432bc

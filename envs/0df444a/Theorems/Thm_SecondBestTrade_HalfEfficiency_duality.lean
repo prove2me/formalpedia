@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_duality
 -- name    : SecondBestTrade.HalfEfficiency.duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:11.795178+00:00
 -- url     : https://prove2.me/theorems/425d6ae9-5282-49b4-a00c-3d1b97294f33

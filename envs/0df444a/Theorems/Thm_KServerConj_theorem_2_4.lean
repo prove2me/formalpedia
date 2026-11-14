@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServerConj_theorem_2_4
 -- name    : KServerConj.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:50:54.757317+00:00
 -- url     : https://prove2.me/theorems/6ef42676-5972-47b1-8012-92a4ddda7e7c

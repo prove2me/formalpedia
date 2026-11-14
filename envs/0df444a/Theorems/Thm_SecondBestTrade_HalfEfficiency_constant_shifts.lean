@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_constant_shifts
 -- name    : SecondBestTrade.HalfEfficiency.constant_shifts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:06:04.33597+00:00
 -- url     : https://prove2.me/theorems/6693a595-ad69-4dc3-b6e1-2134159b9372

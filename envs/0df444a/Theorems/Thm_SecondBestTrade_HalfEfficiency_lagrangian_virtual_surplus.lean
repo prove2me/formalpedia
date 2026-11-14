@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_lagrangian_virtual_surplus
 -- name    : SecondBestTrade.HalfEfficiency.lagrangian_virtual_surplus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:07:02.334721+00:00
 -- url     : https://prove2.me/theorems/d33a6c4d-ebf5-43fa-9b1a-0f5b6c0e7a65

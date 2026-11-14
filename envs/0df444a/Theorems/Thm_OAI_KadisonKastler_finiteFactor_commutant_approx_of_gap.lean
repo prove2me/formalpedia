@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_finiteFactor_commutant_approx_of_gap
 -- name    : OAI.KadisonKastler.finiteFactor_commutant_approx_of_gap
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T04:41:38.998924+00:00
 -- url     : https://prove2.me/theorems/20afc642-0d19-4521-a4b8-70eb4bd21b8d

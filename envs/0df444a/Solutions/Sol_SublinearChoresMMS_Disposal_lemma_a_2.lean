@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SublinearChoresMMS.Disposal.lemma_a_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T11:28:01.03568+00:00
 -- url     : https://prove2.me/submissions/4e458466-9619-407b-8016-162e2fc1e525
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SublinearChoresMMS_Disposal_Packing

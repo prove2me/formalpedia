@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_actual_uniform_grid_discount_limit
 -- name    : AvramDividend.Classical.avram_chat24_bv_actual_uniform_grid_discount_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T12:45:15.544213+00:00
 -- url     : https://prove2.me/theorems/b230d64f-4f55-4914-a750-0391902d27a6

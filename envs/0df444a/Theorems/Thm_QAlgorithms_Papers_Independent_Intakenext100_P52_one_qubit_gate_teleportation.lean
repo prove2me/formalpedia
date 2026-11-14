@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_one_qubit_gate_teleportation
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.one_qubit_gate_teleportation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:32:35.865979+00:00
 -- url     : https://prove2.me/theorems/6fd61e4b-3a54-4f9a-b269-a09d0ea6a33e

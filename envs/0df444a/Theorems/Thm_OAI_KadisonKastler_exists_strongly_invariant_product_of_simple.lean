@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_strongly_invariant_product_of_simple
 -- name    : OAI.KadisonKastler.exists_strongly_invariant_product_of_simple
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:30:31.103092+00:00
 -- url     : https://prove2.me/theorems/2f47c9f9-8942-4da0-9dac-8f90f51ee821

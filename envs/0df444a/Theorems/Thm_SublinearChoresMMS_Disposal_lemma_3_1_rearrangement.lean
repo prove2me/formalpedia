@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SublinearChoresMMS_Disposal_lemma_3_1_rearrangement
 -- name    : SublinearChoresMMS.Disposal.lemma_3_1_rearrangement
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T10:32:47.704849+00:00
 -- url     : https://prove2.me/theorems/70a1f226-8b8e-4a11-b214-aa88825306dd

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HararySachs.Hyper.newtonTr_vTensor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @milia
 -- created : 2026-11-13T04:34:40.303203+00:00
 -- url     : https://prove2.me/submissions/05bd8082-cc63-4063-bf0b-56e1e2132cf6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HararySachs_Hyper_CharPoly

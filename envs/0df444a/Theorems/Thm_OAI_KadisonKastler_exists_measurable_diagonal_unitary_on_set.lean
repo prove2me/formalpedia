@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_exists_measurable_diagonal_unitary_on_set
 -- name    : OAI.KadisonKastler.exists_measurable_diagonal_unitary_on_set
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:07:31.287603+00:00
 -- url     : https://prove2.me/theorems/ce13dc31-4e42-42e4-afa6-c579c9deec83

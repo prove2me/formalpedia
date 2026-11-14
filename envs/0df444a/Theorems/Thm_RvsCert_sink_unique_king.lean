@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RvsCert_sink_unique_king
 -- name    : RvsCert.sink_unique_king
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:43:10.30159+00:00
 -- url     : https://prove2.me/theorems/3ce7d580-d55e-471a-bb32-c713d83d415a

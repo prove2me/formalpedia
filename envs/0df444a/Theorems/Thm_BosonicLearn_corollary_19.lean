@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BosonicLearn_corollary_19
 -- name    : BosonicLearn.corollary_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:35:55.433916+00:00
 -- url     : https://prove2.me/theorems/7c42caea-22f5-4e2c-af0a-01125a73637e

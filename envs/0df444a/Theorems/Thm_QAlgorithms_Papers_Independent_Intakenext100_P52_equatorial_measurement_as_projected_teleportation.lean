@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_equatorial_measurement_as_projected_teleportation
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.equatorial_measurement_as_projected_teleportation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:48:09.331997+00:00
 -- url     : https://prove2.me/theorems/d1d7991a-661a-4fbf-b522-3830fd1f8f6a

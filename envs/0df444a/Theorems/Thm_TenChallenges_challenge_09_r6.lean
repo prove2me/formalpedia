@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TenChallenges_challenge_09_r6
 -- name    : TenChallenges.challenge_09_r6
--- status  : Open
+-- status  : Proved
 -- author  : @utkuokur
 -- created : 2026-11-04T20:47:58.195345+00:00
 -- url     : https://prove2.me/theorems/e26f7381-76b7-46e1-a708-ee43755044af

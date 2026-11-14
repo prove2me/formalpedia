@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfit_eq_12
 -- name    : BilateralProfit.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:20:19.829198+00:00
 -- url     : https://prove2.me/theorems/c8f18b1e-cafe-468d-a30a-d706431811ef

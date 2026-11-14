@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantileMDP_theorem_2
 -- name    : QuantileMDP.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:42:54.941172+00:00
 -- url     : https://prove2.me/theorems/a7925b2e-33ca-4a12-85e9-752576a3e32b

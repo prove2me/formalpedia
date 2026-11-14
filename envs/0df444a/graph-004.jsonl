@@ -8805,9 +8805,9 @@
 {"parent": "NAGFlow.AFB.theorem_7_3", "child": "NAGFlow_AFB_Setting", "via": ["solution", "statement"]}
 {"parent": "NAGFlow.APGM.algorithm_2_eq_115", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
 {"parent": "NAGFlow.APGM.eq_112", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
-{"parent": "NAGFlow.APGM.eq_113", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
-{"parent": "NAGFlow.APGM.eq_117", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
-{"parent": "NAGFlow.APGM.lemma_7_1", "child": "NAGFlow_APGM_Setting", "via": ["statement"]}
+{"parent": "NAGFlow.APGM.eq_113", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
+{"parent": "NAGFlow.APGM.eq_117", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
+{"parent": "NAGFlow.APGM.lemma_7_1", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
 {"parent": "NAGFlow.APGM.theorem_7_2", "child": "NAGFlow_APGM_Setting", "via": ["solution", "statement"]}
 {"parent": "NAGFlow.Flow.eq_59", "child": "NAGFlow_Flow_Setting", "via": ["statement"]}
 {"parent": "NAGFlow.Flow.eq_61", "child": "NAGFlow_Flow_Setting", "via": ["statement"]}
@@ -17942,7 +17942,7 @@
 {"parent": "OAI.AsymptoticallyMinimalLittlewoodFiniteFlatness.main", "child": "LittlewoodFiniteFlatness", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.sharp_gaussian_minorants_atomic", "child": "AtomicGaussian", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.sharp_gaussian_minorants_with_construction", "child": "TriangularGaussian", "via": ["solution", "statement"]}
-{"parent": "OAI.AtomicTriangular.universal_energy_minimum", "child": "TriangularEnergy", "via": ["statement"]}
+{"parent": "OAI.AtomicTriangular.universal_energy_minimum", "child": "TriangularEnergy", "via": ["solution", "statement"]}
 {"parent": "OAI.BackwardIntertwiners.direct_algebra_corollary", "child": "BackwardIntertwiners", "via": ["solution", "statement"]}
 {"parent": "OAI.Balanced.main_result", "child": "BalancedRyser", "via": ["solution", "statement"]}
 {"parent": "OAI.BalancedTransport.balanced_three_stack_realization", "child": "BalancedThreeStack", "via": ["solution", "statement"]}
@@ -17989,7 +17989,7 @@
 {"parent": "OAI.ClassicalON.main", "child": "ClassicalON", "via": ["solution", "statement"]}
 {"parent": "OAI.CliqueFreeLog.logarithmic_independence_bound", "child": "CliqueFreeLog", "via": ["solution", "statement"]}
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.smooth_isometric_immersion", "child": "SurfaceImmersion", "via": ["solution", "statement"]}
-{"parent": "OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional", "child": "CoarseAssembly", "via": ["statement"]}
+{"parent": "OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional", "child": "CoarseAssembly", "via": ["solution", "statement"]}
 {"parent": "OAI.CoboundaryExpanders.main", "child": "CoboundaryExpanders", "via": ["solution", "statement"]}
 {"parent": "OAI.CompactBanach.main", "child": "CompactBanach", "via": ["solution", "statement"]}
 {"parent": "OAI.ComparatorModel.CurrentMain.main", "child": "UniformGamma", "via": ["solution", "statement"]}
@@ -18112,8 +18112,8 @@
 {"parent": "OAI.Dixmier.current_main_theorem", "child": "DixmierAllDiscrete", "via": ["solution", "statement"]}
 {"parent": "OAI.Dixmier.main_theorem_all_universes", "child": "Dixmier", "via": ["solution", "statement"]}
 {"parent": "OAI.DoublingHilbert.main", "child": "DoublingHilbert", "via": ["solution", "statement"]}
-{"parent": "OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional", "child": "DukePrimeDegree", "via": ["statement"]}
-{"parent": "OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional", "child": "DukePrimeDegree", "via": ["statement"]}
+{"parent": "OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional", "child": "DukePrimeDegree", "via": ["solution", "statement"]}
+{"parent": "OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional", "child": "DukePrimeDegree", "via": ["solution", "statement"]}
 {"parent": "OAI.EditApproximation.almostLinearEditDistanceRawBand", "child": "EditApproximation", "via": ["statement"]}
 {"parent": "OAI.EilenbergGanea.source_main", "child": "EilenbergGanea", "via": ["solution", "statement"]}
 {"parent": "OAI.Elasticity.global_uniqueness", "child": "ElasticityUniqueness", "via": ["solution", "statement"]}
@@ -18370,7 +18370,7 @@
 {"parent": "OAI.KLInvariance.combinatorial_invariance", "child": "KLInvariance", "via": ["solution", "statement"]}
 {"parent": "OAI.KServer.main_theorem", "child": "KServer", "via": ["solution", "statement"]}
 {"parent": "OAI.Kadison.uniform_commutator", "child": "UniformCommutator", "via": ["solution", "statement"]}
-{"parent": "OAI.KadisonKastler.universal_strong_stability", "child": "StrongKadisonKastler", "via": ["statement"]}
+{"parent": "OAI.KadisonKastler.universal_strong_stability", "child": "StrongKadisonKastler", "via": ["solution", "statement"]}
 {"parent": "OAI.KadisonSimilarity.similarityTheorem", "child": "KadisonSimilarity", "via": ["solution", "statement"]}
 {"parent": "OAI.KadisonSimilarity.universalCommutatorTheorem", "child": "KadisonSimilarity", "via": ["solution", "statement"]}
 {"parent": "OAI.KadisonSimilarity.universalHyperreflexivity", "child": "KadisonSimilarity", "via": ["solution", "statement"]}
@@ -21718,8 +21718,8 @@
 {"parent": "OAI.WeakMTWGlobalSupport.current_main_convexity", "child": "WeakMTWGlobalSupport", "via": ["solution", "statement"]}
 {"parent": "OAI.WeakMTWTransport.uniform_biHolder_transport", "child": "BiholderTransport", "via": ["solution", "statement"]}
 {"parent": "OAI.WeakPinned.main", "child": "PinnedDistances", "via": ["solution", "statement"]}
-{"parent": "OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any", "child": "ExactInfiniteness", "via": ["statement"]}
-{"parent": "OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite", "child": "ExactInfiniteness", "via": ["statement"]}
+{"parent": "OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_individuallyProperlyInfinite_any", "child": "ExactInfiniteness", "via": ["solution", "statement"]}
+{"parent": "OAI.WeakPureInfiniteness.exact_weaklyPurelyInfinite_stronglyPurelyInfinite", "child": "ExactInfiniteness", "via": ["solution", "statement"]}
 {"parent": "OAI.WitnessedChoice.main", "child": "WitnessedChoice", "via": ["solution", "statement"]}
 {"parent": "OAI.Yau.Target.yau_nodal_set_upper_bound_counterexample", "child": "YauCounterexample", "via": ["solution", "statement"]}
 {"parent": "OAI.YauCounterexamples.sphere_three", "child": "SmoothYau", "via": ["solution", "statement"]}
@@ -41645,10 +41645,10 @@
 {"parent": "RWPI.Limit.lemma_3", "child": "RWPI_Limit_rowNorm", "via": ["solution", "statement"]}
 {"parent": "RWPI.Limit.proposition_3", "child": "RWPI_Limit_rwp", "via": ["solution", "statement"]}
 {"parent": "RWPI.Limit.proposition_3", "child": "WassersteinDRO_Regularization_empiricalDistribution", "via": ["solution", "statement"]}
-{"parent": "RWPI.Limit.theorem_3", "child": "RWPI_Limit_Rbar", "via": ["statement"]}
-{"parent": "RWPI.Limit.theorem_3", "child": "RWPI_Limit_rowNorm", "via": ["statement"]}
-{"parent": "RWPI.Limit.theorem_3", "child": "RWPI_Limit_rwp", "via": ["statement"]}
-{"parent": "RWPI.Limit.theorem_3", "child": "WassersteinDRO_Regularization_empiricalDistribution", "via": ["statement"]}
+{"parent": "RWPI.Limit.theorem_3", "child": "RWPI_Limit_Rbar", "via": ["solution", "statement"]}
+{"parent": "RWPI.Limit.theorem_3", "child": "RWPI_Limit_rowNorm", "via": ["solution", "statement"]}
+{"parent": "RWPI.Limit.theorem_3", "child": "RWPI_Limit_rwp", "via": ["solution", "statement"]}
+{"parent": "RWPI.Limit.theorem_3", "child": "WassersteinDRO_Regularization_empiricalDistribution", "via": ["solution", "statement"]}
 {"parent": "RWPI.SqrtLasso.eq_28", "child": "RWPI_SqrtLasso_lqSqCost", "via": ["solution", "statement"]}
 {"parent": "RWPI.SqrtLasso.eq_28", "child": "RWPI_SqrtLasso_phi", "via": ["solution", "statement"]}
 {"parent": "RWPI.SqrtLasso.eq_28", "child": "RWPI_SqrtLasso_squareLoss", "via": ["solution", "statement"]}
@@ -63746,12 +63746,12 @@
 {"parent": "TensorBTD.Cogradient.cograd_f2_f3", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
 {"parent": "TensorBTD.Cogradient.corollary_4_3", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.fBTD_decomposition", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
-{"parent": "TensorBTD.Cogradient.proposition_4_1", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
+{"parent": "TensorBTD.Cogradient.proposition_4_1", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.proposition_4_2", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.theorem_4_4", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Gramian.blocks_via_sigma", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
-{"parent": "TensorBTD.Gramian.diagonal_blocks", "child": "TensorBTD_Gramian_Setting", "via": ["statement"]}
-{"parent": "TensorBTD.Gramian.off_diagonal_blocks", "child": "TensorBTD_Gramian_Setting", "via": ["statement"]}
+{"parent": "TensorBTD.Gramian.diagonal_blocks", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
+{"parent": "TensorBTD.Gramian.off_diagonal_blocks", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Gramian.partial_derivative_outer", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Gramian.proposition_4_1", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Gramian.theorem_4_5", "child": "TensorBTD_Gramian_Setting", "via": ["solution", "statement"]}
@@ -63789,16 +63789,16 @@
 {"parent": "TensorNP.Rank.theorem_1_14", "child": "TensorNP.Rank.real_decomposition", "via": ["solution"]}
 {"parent": "TensorNP.Rank.theorem_1_14", "child": "TensorNP_Rank_Construction", "via": ["solution"]}
 {"parent": "TensorNP.Rank.theorem_1_14", "child": "TensorNP_Rank_Defs", "via": ["solution", "statement"]}
-{"parent": "TensorNP.SpectralNorm.Tl_max_singular_value", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["statement"]}
-{"parent": "TensorNP.SpectralNorm.Tl_max_singular_value", "child": "TensorNP_SpectralNorm_Tensor", "via": ["statement"]}
+{"parent": "TensorNP.SpectralNorm.Tl_max_singular_value", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["solution", "statement"]}
+{"parent": "TensorNP.SpectralNorm.Tl_max_singular_value", "child": "TensorNP_SpectralNorm_Tensor", "via": ["solution", "statement"]}
 {"parent": "TensorNP.SpectralNorm.best_rank_one", "child": "TensorNP_SpectralNorm_Tensor", "via": ["solution", "statement"]}
-{"parent": "TensorNP.SpectralNorm.display_22", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["statement"]}
+{"parent": "TensorNP.SpectralNorm.display_22", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["solution", "statement"]}
 {"parent": "TensorNP.SpectralNorm.display_22", "child": "TensorNP_SpectralNorm_Tensor", "via": ["statement"]}
-{"parent": "TensorNP.SpectralNorm.lemma_6_11", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["statement"]}
-{"parent": "TensorNP.SpectralNorm.lemma_6_11", "child": "TensorNP_SpectralNorm_Tensor", "via": ["statement"]}
-{"parent": "TensorNP.SpectralNorm.lemma_6_8", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["statement"]}
+{"parent": "TensorNP.SpectralNorm.lemma_6_11", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["solution", "statement"]}
+{"parent": "TensorNP.SpectralNorm.lemma_6_11", "child": "TensorNP_SpectralNorm_Tensor", "via": ["solution", "statement"]}
+{"parent": "TensorNP.SpectralNorm.lemma_6_8", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["solution", "statement"]}
 {"parent": "TensorNP.SpectralNorm.lemma_6_8", "child": "TensorNP_SpectralNorm_Tensor", "via": ["statement"]}
-{"parent": "TensorNP.SpectralNorm.proposition_6_10", "child": "TensorNP_SpectralNorm_Tensor", "via": ["statement"]}
+{"parent": "TensorNP.SpectralNorm.proposition_6_10", "child": "TensorNP_SpectralNorm_Tensor", "via": ["solution", "statement"]}
 {"parent": "TensorNP.SpectralNorm.theorem_6_5_core", "child": "TensorNP_SpectralNorm_CliqueTensor", "via": ["statement"]}
 {"parent": "TensorNP.SpectralNorm.theorem_6_5_core", "child": "TensorNP_SpectralNorm_Tensor", "via": ["statement"]}
 {"parent": "TensorNP.SpectralNorm.theorem_6_9_order4", "child": "TensorNP_SpectralNorm_Tensor", "via": ["statement"]}
@@ -64470,8 +64470,8 @@
 {"parent": "TeschlQM.Weyl.relativeBound_eq_zero", "child": "TeschlQM_Shared_relativeBound", "via": ["solution", "statement"]}
 {"parent": "TeschlQM.Weyl.relativeBound_eq_zero", "child": "TeschlQM_Shared_resolventSet", "via": ["solution", "statement"]}
 {"parent": "TeschlQM.Weyl.resolvent_sub_compact_forall", "child": "TeschlQM_Shared_resolventSet", "via": ["solution", "statement"]}
-{"parent": "TeschlQM.Weyl.weyl", "child": "TeschlQM_Shared_essentialSpectrum", "via": ["statement"]}
-{"parent": "TeschlQM.Weyl.weyl", "child": "TeschlQM_Shared_resolventSet", "via": ["statement"]}
+{"parent": "TeschlQM.Weyl.weyl", "child": "TeschlQM_Shared_essentialSpectrum", "via": ["solution", "statement"]}
+{"parent": "TeschlQM.Weyl.weyl", "child": "TeschlQM_Shared_resolventSet", "via": ["solution", "statement"]}
 {"parent": "TeschlQM.Weyl.weyl_criterion", "child": "TeschlQM_Shared_essentialSpectrum", "via": ["statement"]}
 {"parent": "TeschlQM.Weyl.weyl_criterion", "child": "TeschlQM_Shared_resolventSet", "via": ["statement"]}
 {"parent": "TeschlQM.Weyl.weyl_criterion", "child": "TeschlQM_Weyl_IsSingularWeylSequence", "via": ["statement"]}

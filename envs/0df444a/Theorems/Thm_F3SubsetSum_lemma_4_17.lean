@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F3SubsetSum_lemma_4_17
 -- name    : F3SubsetSum.lemma_4_17
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:31:16.790849+00:00
 -- url     : https://prove2.me/theorems/2420c2b5-cd6c-4514-9d98-934bdce71cec

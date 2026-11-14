@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a56_original_stopped_raw_large_tail_tendsto
 -- name    : AvramDividend.Classical.avram_ga_a56_original_stopped_raw_large_tail_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:30:54.881197+00:00
 -- url     : https://prove2.me/theorems/158120aa-aa84-4035-83dd-e39b00863337

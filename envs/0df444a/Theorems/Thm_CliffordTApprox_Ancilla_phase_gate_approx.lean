@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliffordTApprox_Ancilla_phase_gate_approx
 -- name    : CliffordTApprox.Ancilla.phase_gate_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:32.883618+00:00
 -- url     : https://prove2.me/theorems/b2bbe84a-7e0c-41bb-a7aa-68d03d1f0f2c

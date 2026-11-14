@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_phiPoly_vTensor_factor
 -- name    : HararySachs.Hyper.phiPoly_vTensor_factor
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-13T04:34:02.261323+00:00
 -- url     : https://prove2.me/theorems/cf6f6d3f-6ca8-4c6b-a525-63ae2dd9e897

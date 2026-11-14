@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_constructed_complete_closeness_of_paired_factor
 -- name    : OAI.KadisonKastler.constructed_complete_closeness_of_paired_factor
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:05:20.491213+00:00
 -- url     : https://prove2.me/theorems/f9749e0e-7378-4b08-be2d-6d88c9f07a0f

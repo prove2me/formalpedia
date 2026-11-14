@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CBCLowerBound_EveryNorm_lemma_10
 -- name    : CBCLowerBound.EveryNorm.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:21:04.045922+00:00
 -- url     : https://prove2.me/theorems/850351d3-46aa-4822-8b9f-9f4d9d338814

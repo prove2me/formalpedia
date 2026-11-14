@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HananyPuder_tendsto_uniformExp_trace_youngAct_of_isNonPower
 -- name    : HananyPuder.tendsto_uniformExp_trace_youngAct_of_isNonPower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:13:06.746948+00:00
 -- url     : https://prove2.me/theorems/ea847045-ebaf-4bf1-93df-29e1af93c4b6

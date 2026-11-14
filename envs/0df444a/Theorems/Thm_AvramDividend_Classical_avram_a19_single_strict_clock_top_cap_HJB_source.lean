@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a19_single_strict_clock_top_cap_HJB_source
 -- name    : AvramDividend.Classical.avram_a19_single_strict_clock_top_cap_HJB_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T00:22:28.545997+00:00
 -- url     : https://prove2.me/theorems/2739862d-a2d9-409e-83d8-6819b078caf4

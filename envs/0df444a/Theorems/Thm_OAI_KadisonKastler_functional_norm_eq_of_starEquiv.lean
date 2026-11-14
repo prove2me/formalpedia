@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_functional_norm_eq_of_starEquiv
 -- name    : OAI.KadisonKastler.functional_norm_eq_of_starEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:53:06.819301+00:00
 -- url     : https://prove2.me/theorems/17df146d-f49c-4641-9e72-5f1161a6e87d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NuclearUltrapower_SOS_bucket_aug_127_ca
 -- name    : OAI.NuclearUltrapower.SOS.bucket_aug_127_ca
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:50:46.946714+00:00
 -- url     : https://prove2.me/theorems/ed9e1401-645f-4d57-a1d1-51621d04a900

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuctionsOfAuctions_revenue_ranking_fixed_reserve
 -- name    : AuctionsOfAuctions.revenue_ranking_fixed_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:27:26.085621+00:00
 -- url     : https://prove2.me/theorems/abdc8c4e-fac0-44ef-b553-58a50f2ef990

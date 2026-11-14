@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_one_bit_teleportation
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.one_bit_teleportation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:40:41.097857+00:00
 -- url     : https://prove2.me/theorems/9baa4683-68a6-46d9-915a-08d33dc05d06

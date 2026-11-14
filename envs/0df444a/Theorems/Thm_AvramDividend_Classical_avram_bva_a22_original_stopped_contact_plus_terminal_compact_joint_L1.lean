@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva_a22_original_stopped_contact_plus_terminal_compact_joint_L1
 -- name    : AvramDividend.Classical.avram_bva_a22_original_stopped_contact_plus_terminal_compact_joint_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:50:49.260197+00:00
 -- url     : https://prove2.me/theorems/eda16730-9da6-42ff-bb57-9ff418cd7fc7

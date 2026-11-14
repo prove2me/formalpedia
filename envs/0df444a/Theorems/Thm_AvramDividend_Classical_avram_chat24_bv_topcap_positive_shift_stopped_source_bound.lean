@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_chat24_bv_topcap_positive_shift_stopped_source_bound
 -- name    : AvramDividend.Classical.avram_chat24_bv_topcap_positive_shift_stopped_source_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T17:38:12.007673+00:00
 -- url     : https://prove2.me/theorems/0d51b191-2d3b-48c9-a7ea-3569930b5b89

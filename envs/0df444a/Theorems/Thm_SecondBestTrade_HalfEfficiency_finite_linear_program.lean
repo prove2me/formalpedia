@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondBestTrade_HalfEfficiency_finite_linear_program
 -- name    : SecondBestTrade.HalfEfficiency.finite_linear_program
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:04:35.902963+00:00
 -- url     : https://prove2.me/theorems/1a4ff534-3c33-4f39-8dca-85c2e374cd7c

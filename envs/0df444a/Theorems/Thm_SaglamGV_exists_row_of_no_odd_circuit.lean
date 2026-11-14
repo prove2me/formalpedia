@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_exists_row_of_no_odd_circuit
 -- name    : SaglamGV.exists_row_of_no_odd_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:07.626346+00:00
 -- url     : https://prove2.me/theorems/35ae4e4c-04e5-4508-b3af-d6b84b14735e

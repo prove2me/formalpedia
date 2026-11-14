@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_RandomMatrices_matrix_bernstein_bound_v2
 -- name    : HighDimStat.RandomMatrices.matrix_bernstein_bound_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:28.090715+00:00
 -- url     : https://prove2.me/theorems/eda8f5a5-49ae-451e-8b59-8f38257cd21d

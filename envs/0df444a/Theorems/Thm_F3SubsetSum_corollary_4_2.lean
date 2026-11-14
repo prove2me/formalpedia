@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F3SubsetSum_corollary_4_2
 -- name    : F3SubsetSum.corollary_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:28:49.23132+00:00
 -- url     : https://prove2.me/theorems/052363f5-7eea-4432-9454-c089d14dd7d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Weyl_weyl
 -- name    : TeschlQM.Weyl.weyl
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T23:30:44.824681+00:00
 -- url     : https://prove2.me/theorems/295972b2-4780-49dc-af4d-9c3bd798e3ba

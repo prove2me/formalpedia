@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstOverheadCompile_Main_theorem_1
 -- name    : ConstOverheadCompile.Main.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:00:13.625516+00:00
 -- url     : https://prove2.me/theorems/94621996-4c34-4d52-873a-955d017a8c30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_SpectralNorm_proposition_6_10
 -- name    : TensorNP.SpectralNorm.proposition_6_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:06:55.664029+00:00
 -- url     : https://prove2.me/theorems/a3a27869-8ccf-4cb3-89e0-fec45fe96671

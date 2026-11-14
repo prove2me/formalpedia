@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_optimum_restriction
 -- name    : StableMSR.Recovery.optimum_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:34.127656+00:00
 -- url     : https://prove2.me/theorems/17c474ce-22f0-4ff0-bb7b-c274f8b32421

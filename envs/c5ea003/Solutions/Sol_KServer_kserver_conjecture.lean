@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KServer.kserver_conjecture
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T07:11:32.562271+00:00
 -- url     : https://prove2.me/submissions/14035e61-c765-44ed-a7fb-4371ac27c511
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_KServer_online_cost_compactness
 import Theorems.Thm_KServer_finite_horizon_uniform_bound

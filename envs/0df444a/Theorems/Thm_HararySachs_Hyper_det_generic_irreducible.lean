@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HararySachs_Hyper_det_generic_irreducible
 -- name    : HararySachs.Hyper.det_generic_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-13T05:20:29.103751+00:00
 -- url     : https://prove2.me/theorems/3af0008b-7d54-40b3-b4fb-3dff15daae05

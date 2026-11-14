@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaglamGV_parseval_muHat_and_log_vol
 -- name    : SaglamGV.parseval_muHat_and_log_vol
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:50:34.841213+00:00
 -- url     : https://prove2.me/theorems/c1c5cae5-1acd-43df-9341-f64ec793b7b9

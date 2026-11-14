@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedMA_Randomized_theorem_4_1
 -- name    : CalibratedMA.Randomized.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T21:26:59.992285+00:00
 -- url     : https://prove2.me/theorems/0acc6ed4-1aa6-47f4-9c62-3bd5c50061ad

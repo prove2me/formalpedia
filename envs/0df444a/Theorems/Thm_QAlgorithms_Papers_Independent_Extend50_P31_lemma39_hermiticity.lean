@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_lemma39_hermiticity
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.lemma39_hermiticity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:48:08.465671+00:00
 -- url     : https://prove2.me/theorems/6fa0d02a-4ebd-42a7-883e-0fb11e76048e

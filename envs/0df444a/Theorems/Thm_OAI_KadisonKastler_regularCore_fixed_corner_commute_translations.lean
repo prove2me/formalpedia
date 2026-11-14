@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_regularCore_fixed_corner_commute_translations
 -- name    : OAI.KadisonKastler.regularCore_fixed_corner_commute_translations
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:11:29.600135+00:00
 -- url     : https://prove2.me/theorems/383eea9f-0bac-4f36-9e8d-b81e8a9c9734

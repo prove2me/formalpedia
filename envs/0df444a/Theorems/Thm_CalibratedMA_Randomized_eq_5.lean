@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedMA_Randomized_eq_5
 -- name    : CalibratedMA.Randomized.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T21:25:30.609751+00:00
 -- url     : https://prove2.me/theorems/172a59c1-1afa-4a7b-a225-cc40b947b0da

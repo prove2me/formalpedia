@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_antipodal_coalesced_growth_sum_sharp
 -- name    : KServer.antipodal_coalesced_growth_sum_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-09-07T07:23:31.97133+00:00
 -- url     : https://prove2.me/theorems/30cc6393-c26b-483e-8b1b-2a7cffaa3644

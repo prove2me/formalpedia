@@ -1,0 +1,62 @@
+-- Prove2me | Theorems.Thm_PGDRevision20261113_quantitative_transfer
+-- name    : PGDRevision20261113.quantitative_transfer
+-- status  : Open
+-- author  : @Somehow
+-- created : 2026-11-13T06:24:13.428254+00:00
+-- url     : https://prove2.me/theorems/a9a8969a-2f3c-43b1-825f-8d2cb90f69c4
+-- title:
+--   Quantitative transfer of a matching PGD trajectory
+-- statement:
+--   Fix a proper closed convex penalty $r$ with non-singleton domain in its original Euclidean dimension. Work at $L=1$, with $q=\mu_r\ge0$, $0<h<2$, $N\ge1$, $b=1+hq$ and $\eta=h/b$. Let $\phi$ be a quadratic or positive-threshold Huber matching function and let $t_0,\ldots,t_N$ be its quadratic-penalty PGD matching trajectory. Set
+--   $$
+--   D=\phi(t_0)+\tfrac q2t_0^2-\phi(t_N)-\tfrac q2t_N^2>0,
+--   \qquad \sigma=\frac{|t_{N-1}-t_N|}{h},
+--   \qquad \frac{\sigma^2}{D}=K_N(h,q).
+--   $$
+--   Choose $M\ge\max_{i\le N}|t_i|$. Put $p_0=r-\tfrac q2\|\cdot\|^2$. For a center $c_j$, a subgradient $s_j\in\partial p_0(c_j)$, a unit vector $v_j$ and a positive scale $\delta_j$, assume the segment $c_j+\delta_j[-M,M]v_j$ is feasible and define the finite support-gap bound
+--   $$
+--   Q_j(z)=\frac{p_0(c_j+\delta_jz)-p_0(c_j)-\delta_j\langle s_j,z\rangle}{\delta_j^2},
+--   \qquad \varepsilon_j=\sup_{|t|\le M}Q_j(tv_j)<\infty.
+--   $$
+--   Run the actual PGD method with unchanged penalty $r$, step $h$, initial state $x_0^j=c_j+\delta_jt_0v_j$, and smooth function
+--   $$
+--   f_j(x)=\delta_j^2\phi\!\left(\frac{\langle v_j,x-c_j\rangle}{\delta_j}\right)
+--   -\langle s_j+qc_j,x\rangle.
+--   $$
+--   Define
+--   $$
+--   \bar e_j=N\sqrt{2\eta\varepsilon_j},\qquad
+--   \omega_j=\frac{2\bar e_j}{h},\qquad
+--   \mathcal E_j=(1+q)\left(M\bar e_j+\frac{\bar e_j^2}{2}\right)
+--   +\varepsilon_j+\frac{\bar e_j^2}{2\eta b^2}.
+--   $$
+--   For $F_j=f_j+r$, the scaled observations
+--   $$
+--   D_j=\frac{F_j(x_0^j)-F_j(x_N^j)}{\delta_j^2},
+--   \qquad \sigma_j=\frac{\|x_{N-1}^j-x_N^j\|}{h\delta_j}
+--   $$
+--   satisfy
+--   $$
+--   |D_j-D|\le\mathcal E_j,\qquad |\sigma_j-\sigma|\le\omega_j.
+--   $$
+--   If $\mathcal E_j<D$, then $D_j>0$ and
+--   $$
+--   \frac{(\sigma-\omega_j)_+^2}{D+\mathcal E_j}
+--   \le\frac{\sigma_j^2}{D_j}
+--   \le\frac{(\sigma+\omega_j)^2}{D-\mathcal E_j}.
+--   $$
+--   With $r,h,q,N,M$ and the scalar matching instance fixed, any such sequence with $\varepsilon_j\to0$ satisfies
+--   $$
+--   \frac{\sigma_j^2}{D_j}-\frac{\sigma^2}{D}
+--   =O(\sqrt{\varepsilon_j}).
+--   $$
+--   These are finite error bounds for the fixed-penalty sharpness construction; they quantify the observed ratio as well as its limiting value.
+--
+--   **Related results.** [Fixed-penalty exact curve](https://prove2.me/theorems/74766593-41e8-45f7-ae2a-cb31e0cc04ec) · [Optimal constant stepsizes](https://prove2.me/theorems/592366ff-6e05-4633-8520-4428630b7e49)
+-- source:
+--   Author manuscript: Exact Residual Bounds and Optimal Geometry Selection for Proximal Gradient Methods, revised reading edition, 13 November 2026, Proposition 2.6, p. 6; source file sections/02_exact_curve.tex, label prop:quantitative.
+
+import Definitions.Def_PGDRevision20261113_Euclidean
+open PGDRevision20261113
+
+theorem PGDRevision20261113.quantitative_transfer : QuantitativeTransferClaim := by sorry

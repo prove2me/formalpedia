@@ -1,0 +1,276 @@
+-- Prove2me | Definitions.Def_Cslib_254e30e_Computability_Machines_Turing_MultiTape_Nondeterministic
+-- name    : Cslib_254e30e_Computability_Machines_Turing_MultiTape_Nondeterministic
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-13T16:33:37.332703+00:00
+-- url     : https://prove2.me/theorems/0ea3b656-4d42-4c43-8064-932043b6333e
+-- title:
+--   Cslib.Computability.Machines.Turing.MultiTape.Nondeterministic — Nondeterministic Multi-Tape Turing Machines
+-- statement:
+--   This is module `Cslib.Computability.Machines.Turing.MultiTape.Nondeterministic` of [CSLib](https://github.com/leanprover/cslib) (Apache-2.0), at commit `254e30e`: part of its development of multi-tape Turing machines. It is published here because the formalization of *A Better-than-2 Approximation for k-Median* by R.-D. Buhai, V. Cohen-Addad, H. Fleischmann, A. Gupta, A. Jubés Monforte, M. R. Pittu, M. Stouras, O. Svensson and L. Vogl (Part I: *The Power of General Bids*, [arXiv:2610.18144](https://arxiv.org/abs/2610.18144); Part II: *Stable Instances*, [arXiv:2610.17172](https://arxiv.org/abs/2610.17172)) states its running-time bounds on these machines.
+--
+--   Defines nondeterministic Turing machines with a read-only input tape, `k` work tapes and one
+--   write-only output tape, their computation paths, and time bounds.
+--
+--   ### Design
+--
+--   The design choices for configurations and actions are documented in
+--   `Cslib.Computability.Machines.Turing.MultiTape.Configuration`.
+--
+--   Following [Papadimitriou94], chapter 2.7, a nondeterministic machine is a Turing machine whose
+--   transition function is replaced by a transition relation: `Tr q input work action` holds when `Tr`
+--   relates the state `q` and the read symbols `input` and `work` to `action`.
+--
+--   A halted configuration steps to itself, so once a machine has halted it has a run of every length.
+--   A time bound is therefore an upper bound, with no separate account of the step at which it halted.
+--
+--   The transition relation may be empty at a running configuration. Such a configuration has no
+--   successor configuration and is called stuck.
+--
+--   Time bounds apply to every computation path, regardless of its outcome. `RunsInTime input t`
+--   requires every path of at least `t` steps to end in a halted configuration.
+--
+--   ### Important Declarations
+--
+--   * `MultiTapeNTM`: the machine, an initial state and a transition relation
+--   * `Step`: the one-step relation on configurations
+--   * `RunPath`: finite relation series of steps
+--   * `ComputationPath`: a run path starting at the initial configuration
+--   * `RunsInTime`: every computation path of at least the given length ends in a halted
+--     configuration
+--
+--   ### References
+--
+--   * [C. Papadimitriou, *Computational Complexity*][Papadimitriou94]
+--   * [M. Sipser, *Introduction to the Theory of Computation*][Sipser2013]
+--
+--   **Contents.** The module is published as a whole: 20 declarations (definitions, structures, instances and their supporting lemmas, with proofs).
+--
+--   **Formalization Note** The source is written for Lean v4.36.0-rc2; this copy is the same text compiled in the platform environment (Lean v4.33.1, Mathlib `0df444a`), with library lemmas renamed back to their names in this Mathlib and a few proof steps adjusted; no statement is changed. It uses Lean's module system (`module`, `public import`), so import it from a `module` file or an ordinary file as `import Definitions.Def_Cslib_254e30e_Computability_Machines_Turing_MultiTape_Nondeterministic`.
+-- source:
+--   https://github.com/leanprover/cslib/blob/254e30e6d4299c51323aaeaf5f51a4763b375d4a/Cslib/Computability/Machines/Turing/MultiTape/Nondeterministic.lean
+
+/-
+Copyright (c) 2026 Aviv Bar Natan. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Aviv Bar Natan
+-/
+
+module
+
+public import Mathlib.Order.RelSeries
+public import Definitions.Def_Cslib_254e30e_Computability_Machines_Turing_MultiTape_Configuration
+
+set_option autoImplicit true
+set_option relaxedAutoImplicit true
+
+/- Prove2me definition bundle for `Cslib.Computability.Machines.Turing.MultiTape.Nondeterministic` — generated mechanically from
+   github.com/raresbuhai/formalization-of-my-research @ 7abf511 (Apache-2.0),
+   backported to Lean v4.33.1 / Mathlib 0df444a. The theorems published as separate
+   Prove2me theorems, and what depends on them, are removed from this file. -/
+/-!
+# Nondeterministic Multi-Tape Turing Machines
+
+Defines nondeterministic Turing machines with a read-only input tape, `k` work tapes and one
+write-only output tape, their computation paths, and time bounds.
+
+## Design
+
+The design choices for configurations and actions are documented in
+`Cslib.Computability.Machines.Turing.MultiTape.Configuration`.
+
+Following [Papadimitriou94], chapter 2.7, a nondeterministic machine is a Turing machine whose
+transition function is replaced by a transition relation: `Tr q input work action` holds when `Tr`
+relates the state `q` and the read symbols `input` and `work` to `action`.
+
+A halted configuration steps to itself, so once a machine has halted it has a run of every length.
+A time bound is therefore an upper bound, with no separate account of the step at which it halted.
+
+The transition relation may be empty at a running configuration. Such a configuration has no
+successor configuration and is called stuck.
+
+Time bounds apply to every computation path, regardless of its outcome. `RunsInTime input t`
+requires every path of at least `t` steps to end in a halted configuration.
+
+## Important Declarations
+
+* `MultiTapeNTM`: the machine, an initial state and a transition relation
+* `Step`: the one-step relation on configurations
+* `RunPath`: finite relation series of steps
+* `ComputationPath`: a run path starting at the initial configuration
+* `RunsInTime`: every computation path of at least the given length ends in a halted
+  configuration
+
+## References
+
+* [C. Papadimitriou, *Computational Complexity*][Papadimitriou94]
+* [M. Sipser, *Introduction to the Theory of Computation*][Sipser2013]
+-/
+
+@[expose] public section
+
+namespace RelSeries
+
+variable {α β : Type*} {r : SetRel α α} {s : SetRel β β}
+
+/-- A member of a mapped series is the image of a member. -/
+lemma exists_of_mem_map {p : RelSeries r} {f : r.Hom s} {b : β} (hb : b ∈ p.map f) :
+    ∃ a ∈ p, f a = b :=
+  let ⟨i, hi⟩ := hb
+  ⟨p i, ⟨i, rfl⟩, hi⟩
+
+/-- A member of two joined series lies on one of them. -/
+lemma mem_or_mem_of_mem_smash {p q : RelSeries r} {h : p.last = q.head} {a : α}
+    (ha : a ∈ p.smash q h) : a ∈ p ∨ a ∈ q := by
+  obtain ⟨j, rfl⟩ := ha
+  refine Fin.addCases (m := p.length) (n := q.length + 1) (fun j => .inl ⟨j.castSucc, ?_⟩)
+    (fun j => .inr ⟨j, ?_⟩) j <;> simp [smash]
+
+end RelSeries
+
+namespace Turing
+
+variable {k : ℕ} {State Symbol : Type*} {input : List Symbol}
+
+/--
+A nondeterministic multi-tape Turing machine with `k` work tapes over the alphabet of
+`Option Symbol` (where `none` is the blank symbol). Neither `Symbol` nor `State` is required to be
+finite.
+-/
+structure MultiTapeNTM (k : ℕ) (Symbol State : Type*) where
+  /-- initial state -/
+  q₀ : State
+  /-- transition relation: which combinations of state, current input symbol, tuple of work head
+  symbols and resulting actions are valid transitions -/
+  Tr (q : State) (input : Option Symbol) (work : Fin k → Option Symbol)
+    (action : Action k Symbol State) : Prop
+
+namespace MultiTapeNTM
+
+variable {ntm : MultiTapeNTM k Symbol State}
+
+/-- The one-step relation on configurations. A halted configuration steps only to itself. A running
+configuration steps by applying any action related to its state and read symbols by `Tr`. -/
+@[scoped grind =]
+def Step (ntm : MultiTapeNTM k Symbol State) (c₁ c₂ : Cfg k Symbol State input) : Prop :=
+  match c₁.state with
+  | none => c₂ = c₁
+  | some q =>
+    ∃ action, ntm.Tr q c₁.inputSymbol c₁.workTapeSymbols action ∧ c₂ = action.apply c₁
+
+/-- A halted configuration steps only to itself. -/
+lemma step_of_halt {c c' : Cfg k Symbol State input} (h : c.Halted) :
+    ntm.Step c c' ↔ c' = c := by
+  simp [Step, h]
+
+/-- The initial configuration corresponding to an input string. -/
+@[simp]
+def initCfg (ntm : MultiTapeNTM k Symbol State) (input : List Symbol) :
+    Cfg k Symbol State input :=
+  Cfg.init ntm.q₀ input
+
+/-- The one-step relation on configurations for `input`, as a set of pairs. -/
+abbrev stepRel (ntm : MultiTapeNTM k Symbol State) (input : List Symbol) :
+    SetRel (Cfg k Symbol State input) (Cfg k Symbol State input) :=
+  {(c, c') | ntm.Step c c'}
+
+/-- The steps of `ntm` from running configurations: the steps within a run until it halts. -/
+abbrev runningStepRel (ntm : MultiTapeNTM k Symbol State) (input : List Symbol) :
+    SetRel (Cfg k Symbol State input) (Cfg k Symbol State input) :=
+  {(c, c') | ¬c.Halted ∧ ntm.Step c c'}
+
+/-- A nonempty list of configurations joined by steps of `ntm`. -/
+abbrev RunPath (ntm : MultiTapeNTM k Symbol State) (input : List Symbol) :=
+  RelSeries (ntm.stepRel input)
+
+namespace RunPath
+
+/-- A run path mapped along a step-preserving map of configurations: `RelSeries.map`, typed as a
+run path of the target machine. -/
+abbrev map {k' : ℕ} {State' : Type*} {input' : List Symbol} {ntm' : MultiTapeNTM k' Symbol State'}
+    (p : ntm.RunPath input) (f : (ntm.stepRel input).Hom (ntm'.stepRel input')) :
+    ntm'.RunPath input' :=
+  RelSeries.map p f
+
+/-- The output only grows along a run path. -/
+lemma length_output_mono (p : ntm.RunPath input) :
+    Monotone fun i ↦ (p i).output.length := by
+  apply Fin.monotone_iff_le_succ.mpr
+  intro i
+  have : ntm.Step (p i.castSucc) (p i.succ) := p.step i
+  grind [Step, Action.apply_output]
+
+/-- Once a run path is halted, its configuration stays unchanged. -/
+lemma last_eq_of_head_halted (p : ntm.RunPath input) (h : p.head.Halted) : p.last = p.head := by
+  induction p using RelSeries.inductionOn' with
+  | singleton c => rfl
+  | snoc p c hc ih =>
+    have hp : p.last = p.head := ih (by simpa using h)
+    have hh : p.last.Halted := hp ▸ (show p.head.Halted by simpa using h)
+    simpa using ((step_of_halt hh).mp hc).trans hp
+
+/-- The last configuration equals any earlier halted configuration. -/
+lemma last_eq_of_halted (p : ntm.RunPath input) (i : Fin (p.length + 1))
+    (h : (p i).Halted) : p.last = p i := by
+  simpa using last_eq_of_head_halted (p.drop i) (by simpa using h)
+
+/-- The number of steps taken by a run path. -/
+def time (p : ntm.RunPath input) : ℕ := p.length
+
+/-- A path that ends halted runs from its head to its last configuration in running steps, up to
+its first halted configuration. -/
+lemma exists_running (p : ntm.RunPath input) (h : p.last.Halted) :
+    ∃ q : RelSeries (ntm.runningStepRel input), q.head = p.head ∧ q.last = p.last ∧
+      q.length ≤ p.length ∧ ∀ c ∈ q, c ∈ p := by
+  classical
+  -- cut the path at its first halted configuration
+  have hex : ∃ n, ∃ hn : n < p.length + 1, (p ⟨n, hn⟩).Halted := ⟨p.length, by lia, h⟩
+  obtain ⟨hn, hhalt⟩ := Nat.find_spec hex
+  refine ⟨⟨Nat.find hex, fun i => p ⟨i, by have := i.isLt; omega⟩, fun i =>
+    ⟨fun hi => Nat.find_min hex i.isLt ⟨_, hi⟩, p.step ⟨i, by have := i.isLt; omega⟩⟩⟩, rfl,
+    (p.last_eq_of_halted _ hhalt).symm, Nat.lt_succ_iff.mp hn, fun _ ⟨i, hi⟩ => ⟨_, hi⟩⟩
+
+end RunPath
+
+/-- A machine never reads its output tape, so prepending a word to the output preserves steps. -/
+@[simps]
+def prependOutputHom (ntm : MultiTapeNTM k Symbol State) (pre : List Symbol) :
+    (ntm.stepRel input).Hom (ntm.stepRel input) where
+  toFun c := c.prependOutput pre
+  map_rel' {c c'} h := by
+    change ntm.Step c c' at h
+    change ntm.Step (c.prependOutput pre) (c'.prependOutput pre)
+    unfold Step at h ⊢
+    rcases hq : c.state with _ | q <;> simp only [hq, Cfg.prependOutput_state] at h ⊢
+    · rw [h]
+    · obtain ⟨a, ha, rfl⟩ := h
+      exact ⟨a, ha, Cfg.ext rfl rfl rfl rfl (by simp [Action.apply])⟩
+
+/-- A run path starting at the initial configuration for `input`. -/
+structure ComputationPath (ntm : MultiTapeNTM k Symbol State) (input : List Symbol)
+    extends toRunPath : ntm.RunPath input where
+  /-- the path starts at the initial configuration -/
+  head_eq : toRunPath.head = ntm.initCfg input
+
+namespace ComputationPath
+
+/-- The number of steps taken by a computation path. -/
+def time (p : ntm.ComputationPath input) : ℕ := RunPath.time p.toRunPath
+
+end ComputationPath
+
+/-- Every computation path on `input` of at least `t` steps ends in a halted configuration.
+A path ending in a stuck configuration must have fewer than `t` steps. -/
+def RunsInTime (ntm : MultiTapeNTM k Symbol State) (input : List Symbol) (t : ℕ) : Prop :=
+  ∀ p : ntm.ComputationPath input, t ≤ p.time → p.last.Halted
+
+/-- A time bound can be increased. -/
+lemma RunsInTime.mono {input : List Symbol} {t t' : ℕ}
+    (h : ntm.RunsInTime input t) (ht : t ≤ t') : ntm.RunsInTime input t' :=
+  fun p hp ↦ h p (ht.trans hp)
+
+end MultiTapeNTM
+
+end Turing
+
+

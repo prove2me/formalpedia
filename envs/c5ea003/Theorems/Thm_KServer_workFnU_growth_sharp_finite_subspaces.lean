@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_workFnU_growth_sharp_finite_subspaces
 -- name    : KServer.workFnU_growth_sharp_finite_subspaces
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T17:40:44.176847+00:00
 -- url     : https://prove2.me/theorems/bad018c7-6552-4ac4-bd33-785f989c29de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_qaoa_approximates_adiabatic
 -- name    : QAlgorithms.Nannicini.qaoa_approximates_adiabatic
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:50.862341+00:00
 -- url     : https://prove2.me/theorems/52c231a1-473b-4494-a83c-18085d539d47

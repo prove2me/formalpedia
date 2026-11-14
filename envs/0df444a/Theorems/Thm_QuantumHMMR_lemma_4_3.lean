@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumHMMR_lemma_4_3
 -- name    : QuantumHMMR.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:34:28.05323+00:00
 -- url     : https://prove2.me/theorems/4d315342-95d2-4844-b97b-250d86e5bc6c

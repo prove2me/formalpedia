@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Rkhs_mercer_spectral_basis_and_continuous_reps
 -- name    : HighDimStat.Rkhs.mercer_spectral_basis_and_continuous_reps
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-31T04:05:42.530999+00:00
 -- url     : https://prove2.me/theorems/9fad8a0b-909c-4d18-8fe8-a2482a9378b4

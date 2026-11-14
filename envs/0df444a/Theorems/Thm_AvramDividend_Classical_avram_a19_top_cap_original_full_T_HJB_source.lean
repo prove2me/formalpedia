@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a19_top_cap_original_full_T_HJB_source
 -- name    : AvramDividend.Classical.avram_a19_top_cap_original_full_T_HJB_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:32:45.622332+00:00
 -- url     : https://prove2.me/theorems/28363eea-15a4-4755-8b97-f3ad388c40b8
