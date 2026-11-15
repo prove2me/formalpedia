@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b130_original_negative_bandfree_cell_exact_compensation_drift
 -- name    : AvramDividend.Classical.avram_b130_original_negative_bandfree_cell_exact_compensation_drift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:36:35.320591+00:00
 -- url     : https://prove2.me/theorems/4731f7ef-c949-45b4-b259-fc997fbd6bc8

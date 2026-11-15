@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b108_original_all_negative_cutoff_void_implies_true_jumpfree
 -- name    : AvramDividend.Classical.avram_b108_original_all_negative_cutoff_void_implies_true_jumpfree
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T16:01:40.6226+00:00
 -- url     : https://prove2.me/theorems/b7d035a9-c2d8-461d-9b8e-085fa95f05f4

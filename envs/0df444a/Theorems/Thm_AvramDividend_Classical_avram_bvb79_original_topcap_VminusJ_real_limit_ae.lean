@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb79_original_topcap_VminusJ_real_limit_ae
 -- name    : AvramDividend.Classical.avram_bvb79_original_topcap_VminusJ_real_limit_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T21:09:42.187092+00:00
 -- url     : https://prove2.me/theorems/31a00684-7c68-488e-9761-e39c15b95353

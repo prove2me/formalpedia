@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b122_original_negative_cutoff_poisson_counts_monotone
 -- name    : AvramDividend.Classical.avram_b122_original_negative_cutoff_poisson_counts_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:21:14.297958+00:00
 -- url     : https://prove2.me/theorems/0820f966-f2f9-4863-8ed5-5f269f2abe45

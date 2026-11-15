@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_zeroDensityCount_eq_zero_vinogradov_korobov
 -- name    : GuthMaynard.zeroDensityCount_eq_zero_vinogradov_korobov
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T19:17:03.328091+00:00
 -- url     : https://prove2.me/theorems/31bda919-670e-47b9-9a48-0c1072736162

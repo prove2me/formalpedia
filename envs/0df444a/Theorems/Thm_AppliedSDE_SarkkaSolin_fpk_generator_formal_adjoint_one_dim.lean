@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_fpk_generator_formal_adjoint_one_dim
 -- name    : AppliedSDE.SarkkaSolin.fpk_generator_formal_adjoint_one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:50:02.292756+00:00
 -- url     : https://prove2.me/theorems/58d33226-7e65-415f-bf58-71b16064bec0

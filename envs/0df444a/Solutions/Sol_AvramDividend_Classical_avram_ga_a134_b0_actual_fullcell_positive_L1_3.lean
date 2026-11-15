@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.avram_ga_a134_b0_actual_fullcell_positive_L1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T00:45:19.373768+00:00
 -- url     : https://prove2.me/submissions/b479fdc4-ce39-4b81-afff-f1105e724969
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

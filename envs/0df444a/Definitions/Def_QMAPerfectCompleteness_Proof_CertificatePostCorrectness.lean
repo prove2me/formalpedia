@@ -1,0 +1,119 @@
+-- Prove2me | Definitions.Def_QMAPerfectCompleteness_Proof_CertificatePostCorrectness
+-- name    : QMAPerfectCompleteness_Proof_CertificatePostCorrectness
+-- status  : Definition
+-- author  : @Dorian Rudolph
+-- created : 2026-11-14T15:19:45.550612+00:00
+-- url     : https://prove2.me/theorems/8ec16494-19d7-4525-b52d-861a885989d5
+-- title:
+--   Post-call gates of coherent SELECT
+-- statement:
+--   Defines the actual post-call gate sequence: identity and closing flag tests, controlled clock increment and the active-range minus phase. Its logical clock action advances modulo the clock length according to the retained certificate and cached active-range predicate.
+-- source:
+--   Auxiliary formalization source for ~/research/qma1z/main.tex: commit bbe19efbde567e5c8f7fe21655fd0c4da3573e4d, Solutions/CertificatePostCorrectness.lean, lines 12–45.
+
+/- Generated from Solutions.CertificatePostCorrectness by authoritative Stage-2 skeleton subtraction.
+Original explanatory text, declaration names and scoped commands are retained.
+Only selected proof cuts, import rewrites and fact-indexed platform edits are applied. -/
+import Definitions.Def_QMAPerfectCompleteness_Main_Compiler
+import Definitions.Def_QMAPerfectCompleteness_Main_Cyclic
+import Init.Data.BitVec.Bitblast
+import Definitions.Def_QMAPerfectCompleteness_Main_BlockEncoding
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Linarith
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockClockCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockCompiler
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockEncoding
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockImplements
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockLogicalActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockLogicalSelect
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockProgramPlacement
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockStateCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockTaggedActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockVerifierCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BooleanCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateBlockCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateClosingActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateClosingCircuit
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateHadamardCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateHistoryCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateHistoryPrograms
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateLogicalSelect
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateMasterHistory
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateMasterLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateMixture
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateOldPrograms
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateRangeCircuit
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateReadout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateStageActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateValidity
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateValidityCircuit
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateVerifierCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateVerifierLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CircuitUnitary
+import Definitions.Def_QMAPerfectCompleteness_Proof_ClockCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_CoherentCertificate
+import Definitions.Def_QMAPerfectCompleteness_Proof_ComparisonCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_ControlCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_Cyclic
+import Definitions.Def_QMAPerfectCompleteness_Proof_Dyadic
+import Definitions.Def_QMAPerfectCompleteness_Proof_DynamicBlockCompiler
+import Definitions.Def_QMAPerfectCompleteness_Proof_DynamicRangeLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_EqualityCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_EuclideanStates
+import Definitions.Def_QMAPerfectCompleteness_Proof_IndexHadamards
+import Definitions.Def_QMAPerfectCompleteness_Proof_PointwiseSetup
+import Definitions.Def_QMAPerfectCompleteness_Proof_ReversibleGadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_VariableComparison
+import Definitions.Def_QMAPerfectCompleteness_Proof_VariableEquality
+import Definitions.Def_QMAPerfectCompleteness_Proof_VariableHistoryEquality
+import Definitions.Def_QMAPerfectCompleteness_Proof_VerifierAnalysis
+
+/- Namespace registrations retained from original proof-only imports. -/
+namespace QMAPerfectCompleteness.Main.BlockComposition
+end QMAPerfectCompleteness.Main.BlockComposition
+namespace QMAPerfectCompleteness.Main.BlockTransport
+end QMAPerfectCompleteness.Main.BlockTransport
+namespace QMAPerfectCompleteness.Main.BlockHistoryCoordinates
+end QMAPerfectCompleteness.Main.BlockHistoryCoordinates
+namespace QMAPerfectCompleteness.Main.BlockHadamardCoordinates
+end QMAPerfectCompleteness.Main.BlockHadamardCoordinates
+namespace QMAPerfectCompleteness.Main.Certificate
+end QMAPerfectCompleteness.Main.Certificate
+namespace QMAPerfectCompleteness.Main.DiagonalProof
+end QMAPerfectCompleteness.Main.DiagonalProof
+namespace QMAPerfectCompleteness.Main.CoordinateFibers
+end QMAPerfectCompleteness.Main.CoordinateFibers
+
+
+
+/-! Actual coherent post-call SELECT: flag tests, clock shift, and active minus phase. -/
+set_option backward.isDefEq.respectTransparency false
+set_option maxHeartbeats 1800000
+open Matrix
+namespace QMAPerfectCompleteness.Main.CertificateBlockCorrectness
+open CertificateMasterLayout BlockCompiler BlockImplements
+variable (V : Verifier gatesG2)
+
+noncomputable def incrementLogical (p : Logical V) : Logical V :=
+  ((p.1.1,p.1.2.1+Fin.ofNat (ell V.proofQubits+1)
+    ((Layout.rangeTruth p.2.2.1.val p.2.2.2.val p.1.1.val 5).toNat),p.1.2.2),p.2)
+
+
+
+
+
+
+
+
+
+noncomputable def postGates : List (Instr gatesG2 (total V)) :=
+  (CertificateOldPrograms.identityFlagProgram V).gates ++ CertificateClosingCircuit.gates V ++
+    (CertificateOldPrograms.incrementProgram V).gates ++ CertificateOldPrograms.phaseGates V
+
+
+
+end QMAPerfectCompleteness.Main.CertificateBlockCorrectness
+
+

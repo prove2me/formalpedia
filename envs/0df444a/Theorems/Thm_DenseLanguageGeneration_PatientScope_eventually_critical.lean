@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DenseLanguageGeneration_PatientScope_eventually_critical
 -- name    : DenseLanguageGeneration.PatientScope.eventually_critical
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T11:47:24.345926+00:00
 -- url     : https://prove2.me/theorems/8da9c5bd-2459-4579-9a5a-51a407e4dc9a

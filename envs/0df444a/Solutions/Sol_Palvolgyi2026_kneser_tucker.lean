@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Palvolgyi2026.kneser_tucker
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:43:51.429768+00:00
 -- url     : https://prove2.me/submissions/568deb3f-c88e-4726-8446-a5fc07d19269
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Ziegler2002_zp_tucker

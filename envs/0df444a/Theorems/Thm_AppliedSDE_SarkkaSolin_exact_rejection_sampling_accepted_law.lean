@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_exact_rejection_sampling_accepted_law
 -- name    : AppliedSDE.SarkkaSolin.exact_rejection_sampling_accepted_law
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:56:45.374264+00:00
 -- url     : https://prove2.me/theorems/abc82f18-47fe-43a7-853c-18d275099080

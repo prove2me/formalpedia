@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVT19_Main_corollary_18
 -- name    : QSVT19.Main.corollary_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:57.650293+00:00
 -- url     : https://prove2.me/theorems/7021e91d-b716-4212-a384-2f8127f0d3d9

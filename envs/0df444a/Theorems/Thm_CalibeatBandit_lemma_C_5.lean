@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_lemma_C_5
 -- name    : CalibeatBandit.lemma_C_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:43:13.973228+00:00
 -- url     : https://prove2.me/theorems/e0481f10-1f7d-488b-949e-7f30bf3d55c0

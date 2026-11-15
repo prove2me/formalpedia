@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.avram_bvb_topcap_conditional_cash_after_mark_compensation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T00:04:40.929867+00:00
 -- url     : https://prove2.me/submissions/12c18619-8159-49d6-8ecd-d1142f7041a9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeSupplyFPA_Asymptotic_lemma_7
 -- name    : LargeSupplyFPA.Asymptotic.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:03:52.317935+00:00
 -- url     : https://prove2.me/theorems/1702f17b-bf9e-42c2-b2b9-a0010b375d55

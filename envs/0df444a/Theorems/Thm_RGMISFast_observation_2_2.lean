@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RGMISFast_observation_2_2
 -- name    : RGMISFast.observation_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:29:44.044688+00:00
 -- url     : https://prove2.me/theorems/9486428a-9f49-4173-8cb5-181e11c3dc33

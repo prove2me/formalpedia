@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVT19_Main_theorem_5
 -- name    : QSVT19.Main.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:29.247581+00:00
 -- url     : https://prove2.me/theorems/18e641a9-02b9-418f-8393-b2191f47b630

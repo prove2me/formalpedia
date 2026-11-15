@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gb72_original_finitecap_linear_mesh_covariance_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T13:25:40.135734+00:00
 -- url     : https://prove2.me/submissions/a2f5b5f1-9913-49d9-b584-49e7fab9ee6c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gb74_original_linear_diagonal_variance_limit

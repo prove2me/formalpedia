@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_limsup_abs_nuAdj_X_pow_le_rhoStair
 -- name    : StrongConv.limsup_abs_nuAdj_X_pow_le_rhoStair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T01:06:54.238936+00:00
 -- url     : https://prove2.me/theorems/a8618a2f-d309-4cb8-9f61-291c3ce9ce63

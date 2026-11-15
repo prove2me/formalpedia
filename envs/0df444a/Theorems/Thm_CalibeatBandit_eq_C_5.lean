@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_eq_C_5
 -- name    : CalibeatBandit.eq_C_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:40:33.653704+00:00
 -- url     : https://prove2.me/theorems/25ed34f4-11ba-4ee7-a3d7-9371f4fafece

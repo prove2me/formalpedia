@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StrongConv.prob_norm_adjPerp_ge_rhoStair
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T00:24:20.149072+00:00
 -- url     : https://prove2.me/submissions/c6f322af-bf56-40c4-9e68-a621c78ad201
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

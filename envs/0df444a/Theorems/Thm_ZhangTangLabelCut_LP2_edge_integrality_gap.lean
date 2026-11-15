@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_edge_integrality_gap
 -- name    : ZhangTangLabelCut.LP2.edge_integrality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:12:50.511986+00:00
 -- url     : https://prove2.me/theorems/5b6c4453-6a7c-4c9b-83e8-4e74ee07e2aa

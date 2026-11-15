@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Bilinear_theorem_3_7
 -- name    : TensorNP.Bilinear.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:50.968753+00:00
 -- url     : https://prove2.me/theorems/f0fa7266-0862-45bf-a514-1d4492b1baa6

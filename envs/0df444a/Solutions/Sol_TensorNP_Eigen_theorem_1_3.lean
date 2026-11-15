@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TensorNP.Eigen.theorem_1_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-01T18:51:52.264199+00:00
 -- url     : https://prove2.me/submissions/cb6ac4b3-c776-4a01-9fe5-a7e24d531e03
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_TensorNP_Eigen_colorable_iff_colorTensor_eigen

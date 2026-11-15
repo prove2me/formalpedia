@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB61_original_finitecap_postpayment_coeff_refinement_energy
 -- name    : AvramDividend.Classical.avram_gbB61_original_finitecap_postpayment_coeff_refinement_energy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:16:25.569199+00:00
 -- url     : https://prove2.me/theorems/86ad3e48-32c1-44d7-9e08-4dc1386e034d

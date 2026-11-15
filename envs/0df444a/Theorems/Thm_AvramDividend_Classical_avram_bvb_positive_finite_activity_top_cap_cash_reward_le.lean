@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_positive_finite_activity_top_cap_cash_reward_le
 -- name    : AvramDividend.Classical.avram_bvb_positive_finite_activity_top_cap_cash_reward_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:57:34.789511+00:00
 -- url     : https://prove2.me/theorems/5e2d19d0-d45b-46ed-aef2-e2368aa0127a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gb74_original_linear_diagonal_variance_limit
 -- name    : AvramDividend.Classical.avram_gb74_original_linear_diagonal_variance_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:24:36.512863+00:00
 -- url     : https://prove2.me/theorems/b4273555-24f9-42d5-a20a-60488ab6faa2

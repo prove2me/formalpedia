@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_unital_qubit_is_mixed_unitary
 -- name    : WatrousTQI.unital_qubit_is_mixed_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T22:58:27.330501+00:00
 -- url     : https://prove2.me/theorems/9bb7db0a-0b39-473c-92bd-755bb0a95ddf

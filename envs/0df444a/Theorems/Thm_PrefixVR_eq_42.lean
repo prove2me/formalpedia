@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefixVR_eq_42
 -- name    : PrefixVR.eq_42
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:35:00.350337+00:00
 -- url     : https://prove2.me/theorems/0c298909-ba5c-4877-b08b-f42985926cb5

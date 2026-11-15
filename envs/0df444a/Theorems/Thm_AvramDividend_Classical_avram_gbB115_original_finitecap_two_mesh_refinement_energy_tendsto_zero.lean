@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB115_original_finitecap_two_mesh_refinement_energy_tendsto_zero
 -- name    : AvramDividend.Classical.avram_gbB115_original_finitecap_two_mesh_refinement_energy_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:54:12.082075+00:00
 -- url     : https://prove2.me/theorems/f99771c9-7b73-4290-b4fe-6060c02bed5d

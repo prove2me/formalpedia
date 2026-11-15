@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb55_original_topcap_true_horizon_cash_integrable_eventual_mean_certificate
 -- name    : AvramDividend.Classical.avram_bvb55_original_topcap_true_horizon_cash_integrable_eventual_mean_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T13:08:02.452668+00:00
 -- url     : https://prove2.me/theorems/63f0b1cd-768f-4f1b-96b5-4c2b280b1db2

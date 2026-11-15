@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_prob_norm_adjPerp_ge_rhoStair
 -- name    : StrongConv.prob_norm_adjPerp_ge_rhoStair
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T22:56:09.698091+00:00
 -- url     : https://prove2.me/theorems/b0ed8976-de8a-4003-b567-6ba3daad2555

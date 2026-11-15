@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_eq_3_1_solvable
 -- name    : CalibeatBandit.eq_3_1_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:41:21.0772+00:00
 -- url     : https://prove2.me/theorems/53680d9d-91f2-44d7-85d4-bad5aaf7aa53

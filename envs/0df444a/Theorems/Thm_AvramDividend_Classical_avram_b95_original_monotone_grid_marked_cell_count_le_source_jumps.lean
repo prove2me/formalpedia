@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b95_original_monotone_grid_marked_cell_count_le_source_jumps
 -- name    : AvramDividend.Classical.avram_b95_original_monotone_grid_marked_cell_count_le_source_jumps
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:35:30.406535+00:00
 -- url     : https://prove2.me/theorems/67fc29c6-7180-474e-9c0d-ec523fbfe5f4

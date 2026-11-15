@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb76_original_topcap_actual_F_and_mark_compensated_real_limits
 -- name    : AvramDividend.Classical.avram_bvb76_original_topcap_actual_F_and_mark_compensated_real_limits
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T21:08:18.89352+00:00
 -- url     : https://prove2.me/theorems/70c8748c-ed77-48dc-91bb-8b1b8615f730

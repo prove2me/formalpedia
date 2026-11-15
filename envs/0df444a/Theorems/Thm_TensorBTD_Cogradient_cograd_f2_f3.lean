@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Cogradient_cograd_f2_f3
 -- name    : TensorBTD.Cogradient.cograd_f2_f3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:24:15.151141+00:00
 -- url     : https://prove2.me/theorems/6fbaca9c-97ce-426f-8cf0-aa18c9ad090d

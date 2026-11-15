@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb80_original_topcap_finite_actual_negative_mark_real_limit
 -- name    : AvramDividend.Classical.avram_bvb80_original_topcap_finite_actual_negative_mark_real_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T21:14:11.795847+00:00
 -- url     : https://prove2.me/theorems/771f8f3f-345a-46e1-a238-cc42b54f8af6

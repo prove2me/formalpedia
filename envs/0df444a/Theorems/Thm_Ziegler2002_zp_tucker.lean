@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ziegler2002_zp_tucker
 -- name    : Ziegler2002.zp_tucker
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:40:09.899974+00:00
 -- url     : https://prove2.me/theorems/744936d5-530f-4668-b5e5-d5c550aac395

@@ -35233,9 +35233,9 @@
 {"parent": "OAI.SecondPassArithmetic.orientedCubeFirstBlock_input_transfer", "child": "OAI_NumberTheory_DirichletL_MeanSquare_PoissonSource", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U33.entry4_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "OptStochMatch.Tight.lemma_4_3", "child": "OptStochMatch_Tight_Comparison", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_mix_fin15_original_ito_cash_ledger_two_noise_majorant_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_mix_fin15_original_ito_cash_ledger_two_noise_majorant_public", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_mix_fin15_original_ito_cash_ledger_two_noise_majorant_public", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_mix_fin15_original_ito_cash_ledger_two_noise_majorant_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_mix_fin15_original_ito_cash_ledger_two_noise_majorant_public", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_mix_fin15_original_ito_cash_ledger_two_noise_majorant_public", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
 {"parent": "KnownFidelity.Rank.proposition_4_1", "child": "KnownFidelity_Rank_Tj", "via": ["statement"]}
 {"parent": "KnownFidelity.Rank.proposition_4_1", "child": "KnownFidelity_Rank_IsStatePrior", "via": ["statement"]}
 {"parent": "KnownFidelity.Rank.proposition_4_1", "child": "KnownFidelity_Rank_avgPower", "via": ["statement"]}
@@ -37348,8 +37348,8 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm33_0_0_13.s4_eq_g", "child": "OAIQ098G1143", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm36_0_0_12.sums_eq_g", "child": "OAIQ098G1148", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm36_0_0_12.sums_eq_g", "child": "OAIQ098G1164", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_pj_reward25_original_finite_cap_initial_condexp_upper", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_pj_reward25_original_finite_cap_initial_condexp_upper", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_pj_reward25_original_finite_cap_initial_condexp_upper", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_pj_reward25_original_finite_cap_initial_condexp_upper", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "ThinShellSampling.lemma_6_2", "child": "ThinShellSampling_covMat", "via": ["statement"]}
 {"parent": "ThinShellSampling.lemma_6_2", "child": "ThinShellSampling_expTilt", "via": ["statement"]}
 {"parent": "ThinShellSampling.lemma_6_2", "child": "KLSModular_FunctionalInequalities_Probability_LogConcave", "via": ["statement"]}

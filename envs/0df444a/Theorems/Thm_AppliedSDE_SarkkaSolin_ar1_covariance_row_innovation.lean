@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_ar1_covariance_row_innovation
 -- name    : AppliedSDE.SarkkaSolin.ar1_covariance_row_innovation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:20:28.072195+00:00
 -- url     : https://prove2.me/theorems/6f5c6db1-0b68-4fbe-9cc5-14d298c44a56

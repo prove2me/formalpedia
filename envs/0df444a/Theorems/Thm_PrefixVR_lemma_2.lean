@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefixVR_lemma_2
 -- name    : PrefixVR.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:35:36.221008+00:00
 -- url     : https://prove2.me/theorems/053d061c-4ce4-4f0a-a3fc-fdad96075e91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_stationary_ou_gp_batch_equals_kalman
 -- name    : AppliedSDE.SarkkaSolin.stationary_ou_gp_batch_equals_kalman
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:46:15.207042+00:00
 -- url     : https://prove2.me/theorems/b005e2e3-7db8-49d7-975f-8d9aaaedb8b2

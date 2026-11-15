@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a120_b0_actual_crosscell_positive_L1
 -- name    : AvramDividend.Classical.avram_ga_a120_b0_actual_crosscell_positive_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T10:11:34.427092+00:00
 -- url     : https://prove2.me/theorems/e60e3a65-d351-4128-9758-2bd0d59dc5eb

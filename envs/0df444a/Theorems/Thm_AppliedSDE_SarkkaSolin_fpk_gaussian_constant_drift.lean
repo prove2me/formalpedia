@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_fpk_gaussian_constant_drift
 -- name    : AppliedSDE.SarkkaSolin.fpk_gaussian_constant_drift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:46:27.089601+00:00
 -- url     : https://prove2.me/theorems/42c16e46-7d9b-4591-a070-70f18572bb2e

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for StrongConv.supp_subset_Icc_rhoStair_of_extends_nuAdj
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T18:35:13.119704+00:00
 -- url     : https://prove2.me/submissions/090a663e-2edb-4c05-bf7a-fcaa4a295e84
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

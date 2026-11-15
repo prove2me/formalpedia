@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGradDHS_Diag_bregman_difference_bound
 -- name    : AdaGradDHS.Diag.bregman_difference_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:20:16.469144+00:00
 -- url     : https://prove2.me/theorems/f06b20c8-bf8d-4f64-a4f7-d8c1ddd1b984

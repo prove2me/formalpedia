@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StratifyMarkets_DoubleAuction_theorem_4_1
 -- name    : StratifyMarkets.DoubleAuction.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:55:47.869377+00:00
 -- url     : https://prove2.me/theorems/bfe80118-c231-46d8-9383-9ca47dbc31b2

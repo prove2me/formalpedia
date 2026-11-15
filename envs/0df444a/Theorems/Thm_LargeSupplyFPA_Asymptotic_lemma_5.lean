@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeSupplyFPA_Asymptotic_lemma_5
 -- name    : LargeSupplyFPA.Asymptotic.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:03:39.43801+00:00
 -- url     : https://prove2.me/theorems/24f408a5-8183-41e7-ae65-2c1cf85dd840

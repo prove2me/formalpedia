@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RamseyDisambig.Spherical.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:03:10.5938+00:00
 -- url     : https://prove2.me/submissions/466f3f48-2f74-4530-af9f-7fcda3e88bfe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RamseyDisambig_Spherical_GapColoring

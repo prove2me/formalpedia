@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB274_original_localised_fixed_level_product_mass_inverse_grid_bound
 -- name    : AvramDividend.Classical.avram_gbB274_original_localised_fixed_level_product_mass_inverse_grid_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:48:44.878942+00:00
 -- url     : https://prove2.me/theorems/ca56314d-0ab5-44b3-809b-ba7d3fe551e6

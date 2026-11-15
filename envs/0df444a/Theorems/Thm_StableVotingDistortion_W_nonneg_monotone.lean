@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableVotingDistortion_W_nonneg_monotone
 -- name    : StableVotingDistortion.W_nonneg_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:06:46.220297+00:00
 -- url     : https://prove2.me/theorems/8a737369-8c32-46a5-9f5c-992ed85e6e89

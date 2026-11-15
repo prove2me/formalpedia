@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b106_original_initial_event_masked_negative_grid_compensator_zero
 -- name    : AvramDividend.Classical.avram_b106_original_initial_event_masked_negative_grid_compensator_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T16:09:45.724003+00:00
 -- url     : https://prove2.me/theorems/0747fa72-77d6-4915-ae03-506fc2e00a3c

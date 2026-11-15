@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurCampaign_no_prime_ge_seventeen
 -- name    : MazurCampaign.no_prime_ge_seventeen
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-06T08:32:48.226514+00:00
 -- url     : https://prove2.me/theorems/2b51c68a-3121-4d24-b415-7b7c1574c4ba

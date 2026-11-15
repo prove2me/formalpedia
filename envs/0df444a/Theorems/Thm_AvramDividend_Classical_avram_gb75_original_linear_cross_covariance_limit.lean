@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gb75_original_linear_cross_covariance_limit
 -- name    : AvramDividend.Classical.avram_gb75_original_linear_cross_covariance_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:24:24.146709+00:00
 -- url     : https://prove2.me/theorems/652cca80-9366-47ec-833d-d2ab2eaaf2e6

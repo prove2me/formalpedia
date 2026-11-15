@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b103_original_physical_marked_grid_count_L1_from_true_poisson_dom
 -- name    : AvramDividend.Classical.avram_b103_original_physical_marked_grid_count_L1_from_true_poisson_dom
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:55:09.498322+00:00
 -- url     : https://prove2.me/theorems/aae507f4-a296-4053-9b30-a8be87576055

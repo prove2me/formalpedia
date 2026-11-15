@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_corollary21_pivotPhase
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.corollary21_pivotPhase
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:38:31.982049+00:00
 -- url     : https://prove2.me/theorems/403aefdd-32a1-423d-8729-984f1610e6d9

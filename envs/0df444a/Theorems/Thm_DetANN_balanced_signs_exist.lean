@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_balanced_signs_exist
 -- name    : DetANN.balanced_signs_exist
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:26:28.262585+00:00
 -- url     : https://prove2.me/theorems/591f5c09-b0da-4b8c-a548-f9ced4b1cd3a

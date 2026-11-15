@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSensitivity_kushilevitz
 -- name    : DegreeSensitivity.kushilevitz
--- status  : Open
+-- status  : Proved
 -- author  : @queelius
 -- created : 2026-11-07T16:51:18.762717+00:00
 -- url     : https://prove2.me/theorems/17b412d4-4581-467a-be10-550522bf386d

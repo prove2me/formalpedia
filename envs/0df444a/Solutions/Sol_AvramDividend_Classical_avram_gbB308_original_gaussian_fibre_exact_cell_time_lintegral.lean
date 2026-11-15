@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gbB308_original_gaussian_fibre_exact_cell_time_lintegral
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T00:17:04.279488+00:00
 -- url     : https://prove2.me/submissions/c8574163-ad2c-49a2-bcb1-257718327008
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gbB311_exact_original_gaussian_physical_time_kernel_factor

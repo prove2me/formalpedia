@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DenseLanguageGeneration_PatientScope_charging
 -- name    : DenseLanguageGeneration.PatientScope.charging
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T11:49:12.530556+00:00
 -- url     : https://prove2.me/theorems/5367aa09-5b5d-4e5c-b0fd-50d32f559265

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Puder_wordCoeff_eq_zero_and_eq_ncard_crit_and_abs_le
 -- name    : Puder.wordCoeff_eq_zero_and_eq_ncard_crit_and_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T20:43:20.462205+00:00
 -- url     : https://prove2.me/theorems/f0a553db-7574-44da-96cd-b8c5ff598142

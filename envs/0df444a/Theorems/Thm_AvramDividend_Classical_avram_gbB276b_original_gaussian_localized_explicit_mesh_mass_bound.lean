@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB276b_original_gaussian_localized_explicit_mesh_mass_bound
 -- name    : AvramDividend.Classical.avram_gbB276b_original_gaussian_localized_explicit_mesh_mass_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T21:02:26.482162+00:00
 -- url     : https://prove2.me/theorems/dc168d3d-d08e-42b1-96a4-baed4c034f7f

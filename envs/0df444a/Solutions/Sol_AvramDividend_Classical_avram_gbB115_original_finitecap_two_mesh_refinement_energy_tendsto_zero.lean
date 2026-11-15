@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gbB115_original_finitecap_two_mesh_refinement_energy_tendsto_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T00:23:03.559579+00:00
 -- url     : https://prove2.me/submissions/fbad1541-fca9-4438-a778-1241903f7b3f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gbB116_original_finitecap_one_mesh_gradient_L2_to_physical_limit

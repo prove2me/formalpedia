@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_extreme_unital_qubit_is_unitary
 -- name    : WatrousTQI.extreme_unital_qubit_is_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T22:57:49.24482+00:00
 -- url     : https://prove2.me/theorems/d3a472c2-ab0c-4858-be8e-237eddefdd23

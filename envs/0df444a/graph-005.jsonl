@@ -4440,7 +4440,7 @@
 {"parent": "syracuse_descent_progressions_mod262144", "child": "syracuseStep", "via": ["solution", "statement"]}
 {"parent": "syracuse_descent_progressions_twentyseven_mod32", "child": "syracuseStep", "via": ["solution", "statement"]}
 {"parent": "syracuse_descent_progressions_twentyseven_mod32_mod8192", "child": "syracuseStep", "via": ["solution", "statement"]}
-{"parent": "syracuse_descent_residual_fifteen_mod16_mod262144", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "syracuse_descent_residual_fifteen_mod16_mod262144", "child": "syracuseStep", "via": ["solution", "statement"]}
 {"parent": "syracuse_descent_residual_fifteen_mod16_mod4096", "child": "syracuseStep", "via": ["statement"]}
 {"parent": "syracuse_descent_residual_seven_mod32_mod1048576", "child": "syracuseSevenMod32New21Step11Classes", "via": ["solution"]}
 {"parent": "syracuse_descent_residual_seven_mod32_mod1048576", "child": "syracuseSevenMod32New21Step12Classes", "via": ["solution"]}

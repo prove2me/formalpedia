@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB296_original_gaussian_good_cell_probability_time_mass_bound
 -- name    : AvramDividend.Classical.avram_gbB296_original_gaussian_good_cell_probability_time_mass_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T23:19:12.839613+00:00
 -- url     : https://prove2.me/theorems/c1866435-a755-4831-b0ff-c77fd96d0525

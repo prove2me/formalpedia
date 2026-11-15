@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_ar1_batch_kalman_core
 -- name    : AppliedSDE.SarkkaSolin.ar1_batch_kalman_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T21:16:19.158204+00:00
 -- url     : https://prove2.me/theorems/1b230031-7f34-4971-8d05-2f91cf171bd9

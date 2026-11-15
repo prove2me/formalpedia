@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_stationary_fpk_gradient_diffusion_one_dim
 -- name    : AppliedSDE.SarkkaSolin.stationary_fpk_gradient_diffusion_one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:44:34.00373+00:00
 -- url     : https://prove2.me/theorems/e11e7791-6b3d-4f27-9080-c91d94edf452

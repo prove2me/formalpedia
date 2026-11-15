@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PagingDelay_PMD_theorem_1
 -- name    : PagingDelay.PMD.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:39.279171+00:00
 -- url     : https://prove2.me/theorems/6bb4b932-8a64-4117-b85c-21e4bce7f0c6

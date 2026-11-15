@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PagingDelay_PMD_corollary_33
 -- name    : PagingDelay.PMD.corollary_33
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:49:41.790403+00:00
 -- url     : https://prove2.me/theorems/eeafadc8-9428-4f7e-bdeb-6ee0e111136d

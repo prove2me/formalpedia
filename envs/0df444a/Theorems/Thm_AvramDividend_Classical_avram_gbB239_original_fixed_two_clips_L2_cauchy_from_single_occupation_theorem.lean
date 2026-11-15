@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB239_original_fixed_two_clips_L2_cauchy_from_single_occupation_theorem
 -- name    : AvramDividend.Classical.avram_gbB239_original_fixed_two_clips_L2_cauchy_from_single_occupation_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T08:42:20.826097+00:00
 -- url     : https://prove2.me/theorems/175c1e37-df48-4480-8e7e-550e9715cc29

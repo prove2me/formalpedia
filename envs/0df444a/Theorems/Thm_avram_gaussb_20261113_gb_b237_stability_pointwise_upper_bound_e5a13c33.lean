@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_gaussb_20261113_gb_b237_stability_pointwise_upper_bound_e5a13c33
 -- name    : avram_gaussb_20261113_gb_b237_stability_pointwise_upper_bound_e5a13c33
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T13:10:25.344952+00:00
 -- url     : https://prove2.me/theorems/eabf9d20-77d9-449d-9d3c-929d86095a11

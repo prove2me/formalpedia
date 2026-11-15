@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for StrongConv.tendsto_prob_norm_adjPerp_div_sub_one_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T18:38:31.660189+00:00
 -- url     : https://prove2.me/submissions/bdd9e37a-83c3-4128-9b3e-453f9e261d70
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

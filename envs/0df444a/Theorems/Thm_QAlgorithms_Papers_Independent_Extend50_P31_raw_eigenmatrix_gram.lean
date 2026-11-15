@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_raw_eigenmatrix_gram
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.raw_eigenmatrix_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-14T05:56:10.63729+00:00
 -- url     : https://prove2.me/theorems/9344f305-0a23-47ee-9bea-7867553af748

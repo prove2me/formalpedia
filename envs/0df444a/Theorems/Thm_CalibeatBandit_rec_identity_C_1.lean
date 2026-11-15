@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_rec_identity_C_1
 -- name    : CalibeatBandit.rec_identity_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:41:02.217173+00:00
 -- url     : https://prove2.me/theorems/71266158-1bed-4011-b0d9-0feb062b93a1

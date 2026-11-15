@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva_a24_monotone_two_scale_expected_transfer
 -- name    : AvramDividend.Classical.avram_bva_a24_monotone_two_scale_expected_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T13:01:59.034512+00:00
 -- url     : https://prove2.me/theorems/bcb8cd72-b731-4702-8873-b0e428f4dda0

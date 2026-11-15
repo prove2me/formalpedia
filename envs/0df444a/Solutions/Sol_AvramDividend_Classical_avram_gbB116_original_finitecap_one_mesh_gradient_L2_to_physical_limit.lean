@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gbB116_original_finitecap_one_mesh_gradient_L2_to_physical_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T17:26:23.058458+00:00
 -- url     : https://prove2.me/submissions/0771bda4-eda7-439e-be28-c2ff37f1a75f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Stopping
 import Theorems.Thm_AvramDividend_Classical_avram_gbB102_original_finitecap_step_coefficient_ae_time_convergence

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableVotingDistortion_gPhi_properties
 -- name    : StableVotingDistortion.gPhi_properties
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:06:12.535221+00:00
 -- url     : https://prove2.me/theorems/ef090c05-bc6a-4229-b203-69886f1f4ecb

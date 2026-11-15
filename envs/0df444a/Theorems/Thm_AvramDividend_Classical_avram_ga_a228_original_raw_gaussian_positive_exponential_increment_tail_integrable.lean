@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a228_original_raw_gaussian_positive_exponential_increment_tail_integrable
 -- name    : AvramDividend.Classical.avram_ga_a228_original_raw_gaussian_positive_exponential_increment_tail_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T01:00:00.553588+00:00
 -- url     : https://prove2.me/theorems/8c0ec3a3-53c3-4b66-b1fd-cec40a613b8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Puder_crit_finite_and_isBigO_uniformExp_card_fixedPoints
 -- name    : Puder.crit_finite_and_isBigO_uniformExp_card_fixedPoints
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T09:41:17.715749+00:00
 -- url     : https://prove2.me/theorems/84d1262b-79ac-45fc-9d79-2316f03cb101

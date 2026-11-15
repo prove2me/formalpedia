@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMAPerfectCompleteness_Main_integer_acceptance
 -- name    : QMAPerfectCompleteness.Main.integer_acceptance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:57:52.83428+00:00
 -- url     : https://prove2.me/theorems/81d82e34-d8bf-46a1-8aa0-eebacde34b1f

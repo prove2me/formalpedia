@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b109_original_no_negative_band_implies_jumpfree_from_spectral_noPos
 -- name    : AvramDividend.Classical.avram_b109_original_no_negative_band_implies_jumpfree_from_spectral_noPos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T16:05:36.569196+00:00
 -- url     : https://prove2.me/theorems/85baf7bc-d649-45f1-b355-adfb0f0bbfbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB236_original_all_prescribed_upper_clip_levels_null_occupation_common_event
 -- name    : AvramDividend.Classical.avram_gbB236_original_all_prescribed_upper_clip_levels_null_occupation_common_event
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T08:28:34.85285+00:00
 -- url     : https://prove2.me/theorems/298b9656-9e7d-43a7-bc36-5da27f1ceacd

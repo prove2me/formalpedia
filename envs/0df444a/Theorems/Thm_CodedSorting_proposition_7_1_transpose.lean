@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CodedSorting_proposition_7_1_transpose
 -- name    : CodedSorting.proposition_7_1_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:09:33.547611+00:00
 -- url     : https://prove2.me/theorems/a146ce97-0acb-4c82-b423-3c10d4f0f2e8

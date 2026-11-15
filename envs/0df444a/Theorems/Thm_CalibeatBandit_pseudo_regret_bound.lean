@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_pseudo_regret_bound
 -- name    : CalibeatBandit.pseudo_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:43:04.799933+00:00
 -- url     : https://prove2.me/theorems/03e8548e-d7ea-4b0e-812e-33372b720d5e

@@ -73582,13 +73582,13 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.FunctionFieldDifferential.differentialGenerator_order_of_unramified_order_transport", "child": "QEC_Coding_AlgebraicGeometry_Differentials_DifferentialStepOrder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.FunctionFieldDifferential.differentialGenerator_order_of_unramified_order_transport", "child": "QEC_Coding_AlgebraicGeometry_Differentials_ParameterDifferentialOrder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.FunctionFieldDifferential.differentialGenerator_order_of_unramified_order_transport", "child": "QEC.Coding.AlgebraicGeometry.FunctionFieldDifferential.functionFieldDifferentialGenerator_ne_zero", "via": ["solution", "statement"]}
-{"parent": "PrefixVR.lemma_2", "child": "PrefixVR_Variation", "via": ["statement"]}
+{"parent": "PrefixVR.lemma_2", "child": "PrefixVR_Variation", "via": ["solution", "statement"]}
 {"parent": "NewtonLCP_LPOracle", "child": "NewtonLCP_LCP", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_IsCorrupted", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_cR", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_IsCorrupted", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_cR", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_beta", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_D_14", "child": "IAFTRL_qSoft", "via": ["statement"]}
 {"parent": "RobustCtxPricing_Density", "child": "RobustCtxPricing_Model", "via": ["statement"]}
 {"parent": "TIESharp_IsMachineEquivariant", "child": "TIESharp_Family", "via": ["statement"]}
@@ -81717,7 +81717,7 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3419_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3419_e", "child": "OAIQ106E141", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3419_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
-{"parent": "PrefixVR.eq_42", "child": "ConvexOptAlg_SmoothGD_Defs", "via": ["statement"]}
+{"parent": "PrefixVR.eq_42", "child": "ConvexOptAlg_SmoothGD_Defs", "via": ["solution", "statement"]}
 {"parent": "ConeL2G.claim_6_3", "child": "ConeL2G_leafRestrict", "via": ["statement"]}
 {"parent": "ConeL2G.claim_6_3", "child": "ConeL2G_IsCone", "via": ["statement"]}
 {"parent": "ConeL2G.claim_6_3", "child": "ConeL2G_leafGraph", "via": ["statement"]}
@@ -84023,7 +84023,7 @@
 {"parent": "MetricMinTest.theorem_4_2", "child": "MetricMinTest_IsUltrametric", "via": ["statement"]}
 {"parent": "MetricMinTest.theorem_4_2", "child": "MetricMinTest_dm", "via": ["statement"]}
 {"parent": "MetricMinTest.theorem_4_2", "child": "MetricMinTest_distProfile", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_J_4", "child": "IAFTRL_chi", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_J_4", "child": "IAFTRL_chi", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_env3_turn11_original_masked_strict_contact_cash_toReal_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_env3_turn11_original_masked_strict_contact_cash_toReal_zero", "child": "AvramDividend.Classical.avram_p3_grid4_original_strict_masked_contact_tail_tendsto_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_env3_turn11_original_masked_strict_contact_cash_toReal_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -86380,9 +86380,9 @@
 {"parent": "cancel_main", "child": "PrimeNumberTheoremAnd_Wiener", "via": ["solution", "statement"]}
 {"parent": "cancel_main", "child": "PrimeNumberTheoremAnd_SmoothExistence", "via": ["solution", "statement"]}
 {"parent": "cancel_main", "child": "W21.hf", "via": ["solution", "statement"]}
-{"parent": "IAFTRL.lemma_D_10", "child": "IAFTRL_IsGOptLaw", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_10", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_10", "child": "IAFTRL_IsFeasible2_3", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_D_10", "child": "IAFTRL_IsGOptLaw", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_10", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_10", "child": "IAFTRL_IsFeasible2_3", "via": ["solution", "statement"]}
 {"parent": "MatchedUCLB_eta", "child": "MatchedUCLB_theta", "via": ["statement"]}
 {"parent": "MatchedUCLB_eta", "child": "MatchedUCLB_gam", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2963_e", "child": "MUBSix", "via": ["solution", "statement"]}
@@ -94027,8 +94027,8 @@
 {"parent": "QEC.Semantics.DensityOperator.entropyTerm_eq_negMulLog_div_logTwo", "child": "QEC_Semantics_Entropy_QuditBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.DensityOperator.entropyTerm_eq_negMulLog_div_logTwo", "child": "QEC_Semantics_Entropy_FiniteDimensional", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.DensityOperator.entropyTerm_eq_negMulLog_div_logTwo", "child": "QEC_Semantics_ErrorCorrection_QuditSubsystem", "via": ["solution", "statement"]}
-{"parent": "GlobalSinkhorn.column_error_of_potential", "child": "GlobalSinkhorn_Mw", "via": ["statement"]}
-{"parent": "GlobalSinkhorn.column_error_of_potential", "child": "GlobalSinkhorn_potential", "via": ["statement"]}
+{"parent": "GlobalSinkhorn.column_error_of_potential", "child": "GlobalSinkhorn_Mw", "via": ["solution", "statement"]}
+{"parent": "GlobalSinkhorn.column_error_of_potential", "child": "GlobalSinkhorn_potential", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.schemeStalkScalar_comp", "child": "QEC_Coding_AlgebraicGeometry_Schemes_StalkScalars", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Towers_SourceCoordinates", "child": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.coe_regularQuadraticArtinSchreierIntegralRoot", "via": ["statement"]}
 {"parent": "QEC_Coding_AlgebraicGeometry_Towers_SourceCoordinates", "child": "QEC.Coding.AlgebraicGeometry.GlobalPlace.repackageEquiv_order", "via": ["statement"]}

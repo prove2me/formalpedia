@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_psd_convex_summand_range
 -- name    : WatrousTQI.psd_convex_summand_range
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-12T22:35:20.446212+00:00
 -- url     : https://prove2.me/theorems/5ce2c39c-0dfd-45cf-a407-d056e247d4f1

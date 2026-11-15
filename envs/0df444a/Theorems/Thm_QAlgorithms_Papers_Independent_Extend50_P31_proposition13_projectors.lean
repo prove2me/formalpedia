@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_proposition13_projectors
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.proposition13_projectors
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:32:41.367781+00:00
 -- url     : https://prove2.me/theorems/e4c478b6-b5cb-42a7-993c-7a0ee490c814

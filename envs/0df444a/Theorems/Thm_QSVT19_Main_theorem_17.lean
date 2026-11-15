@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVT19_Main_theorem_17
 -- name    : QSVT19.Main.theorem_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:40.012691+00:00
 -- url     : https://prove2.me/theorems/3d8d7bd0-f62e-4bdd-8893-be1cf1c7bf07

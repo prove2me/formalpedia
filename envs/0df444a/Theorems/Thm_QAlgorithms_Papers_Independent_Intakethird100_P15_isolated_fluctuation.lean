@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P15_isolated_fluctuation
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P15.isolated_fluctuation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:03:10.774076+00:00
 -- url     : https://prove2.me/theorems/06dfc3ab-cabb-43c1-8628-ff516f2bd939

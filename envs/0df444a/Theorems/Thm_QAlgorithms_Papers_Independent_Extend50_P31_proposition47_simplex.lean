@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_proposition47_simplex
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.proposition47_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:53:19.923449+00:00
 -- url     : https://prove2.me/theorems/8bfbbf31-d9e6-4d4d-8de1-273443649f13

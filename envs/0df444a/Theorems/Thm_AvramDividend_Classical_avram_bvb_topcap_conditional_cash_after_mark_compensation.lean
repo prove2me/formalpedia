@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_topcap_conditional_cash_after_mark_compensation
 -- name    : AvramDividend.Classical.avram_bvb_topcap_conditional_cash_after_mark_compensation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T07:41:57.268679+00:00
 -- url     : https://prove2.me/theorems/c1b8325c-4de6-4cd4-992e-45cd232a4a46

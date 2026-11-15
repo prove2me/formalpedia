@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_j18_dyadic_signed_band_integrable_common_bound
 -- name    : AvramDividend.Classical.avram_j18_dyadic_signed_band_integrable_common_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T18:29:33.835577+00:00
 -- url     : https://prove2.me/theorems/7c33c081-8f9c-4d3c-9abe-44dca98b08ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b127_original_ae_smallmark_cutoff_drift_limit_transfer
 -- name    : AvramDividend.Classical.avram_b127_original_ae_smallmark_cutoff_drift_limit_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:33:22.55042+00:00
 -- url     : https://prove2.me/theorems/61fff9ba-5947-4780-9d2b-d01b197fdebb

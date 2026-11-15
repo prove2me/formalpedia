@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a139_b0_true_crossing_positive_spatial_integrable_envelope
 -- name    : AvramDividend.Classical.avram_ga_a139_b0_true_crossing_positive_spatial_integrable_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T11:32:33.82382+00:00
 -- url     : https://prove2.me/theorems/1f0d9fd3-028b-43b1-8370-a0f2771225d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_one_sub_le_prob_norm_adjPerp_le_and_mStar_eq_one_iff_and_div_le_prob_norm_adjPerp_ge
 -- name    : StrongConv.one_sub_le_prob_norm_adjPerp_le_and_mStar_eq_one_iff_and_div_le_prob_norm_adjPerp_ge
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:12:49.907572+00:00
 -- url     : https://prove2.me/theorems/2f6c48a8-871c-4811-896d-a16f94a3882b

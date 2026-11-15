@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Palvolgyi2026.kneser_shift
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:43:51.775277+00:00
 -- url     : https://prove2.me/submissions/23ad926e-596e-4997-9faa-08ee8f49616f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Palvolgyi2026_kneser_tucker

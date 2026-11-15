@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_proposition20_eigenmatrices
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.proposition20_eigenmatrices
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:37:23.254087+00:00
 -- url     : https://prove2.me/theorems/b0597ab9-6fb7-45f7-bfb1-f94f78c8015b

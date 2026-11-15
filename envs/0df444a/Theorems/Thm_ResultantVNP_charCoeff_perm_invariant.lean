@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResultantVNP_charCoeff_perm_invariant
 -- name    : ResultantVNP.charCoeff_perm_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:40:28.904794+00:00
 -- url     : https://prove2.me/theorems/8db9e1ee-1953-4f79-b0d4-e679fd1e9e24

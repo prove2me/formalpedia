@@ -85436,7 +85436,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Information100.P62.capacity_converses", "child": "QAlgorithms_Papers_Independent_Information100_P62", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_RoadmapA10_Model", "child": "QAlgorithms_Defs_RetainedQueryPrograms", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_RoadmapA10_Model", "child": "QAlgorithms_Defs_CKSFourierPrograms", "via": ["statement"]}
-{"parent": "QSVT19.Main.theorem_5", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.theorem_5", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.CirculantHadamard.binary_signed_product_residue_one", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["solution", "statement"]}
 {"parent": "OAI.CirculantHadamard.binary_signed_product_residue_one", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["solution", "statement"]}
 {"parent": "OAI.CirculantHadamard.binary_signed_product_residue_one", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}

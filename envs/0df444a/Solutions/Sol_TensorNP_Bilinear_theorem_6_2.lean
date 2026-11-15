@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TensorNP.Bilinear.theorem_6_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-31T13:36:03.302225+00:00
 -- url     : https://prove2.me/submissions/a056629c-4cb8-4998-b9c6-344abf2ae927
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_CookPvsNP_defs

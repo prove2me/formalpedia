@@ -20844,7 +20844,7 @@
 {"parent": "MIPRE.Weyl.isWeylFamily_wX", "child": "MIPRE_Foundations_LowDegree_Anticomm", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Weyl.isWeylFamily_wX", "child": "MIPRE_Foundations_LowDegree_SchwartzZippel", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Weyl.isWeylFamily_wX", "child": "MIPRE_Foundations_Weyl", "via": ["solution", "statement"]}
-{"parent": "QSVT19.Main.theorem_17", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.theorem_17", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Desc.nbitsR_apply", "child": "MIPRE_TM_CookLevin_Families", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Desc.nbitsR_apply", "child": "MIPRE_Foundations_Cost_Machine_B", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Desc.nbitsR_apply", "child": "MIPRE_Foundations_SAT_Circuit", "via": ["solution", "statement"]}
@@ -44869,7 +44869,7 @@
 {"parent": "dusart_mesh_upper_group281_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group193_part05", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "TokenICO.UtilityEq.proposition_13", "child": "TokenICO_UtilityEq_Setting", "via": ["statement"]}
-{"parent": "QSVT19.Main.corollary_18", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.corollary_18", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.CirculantHadamard.BinaryBlocks.partialEval_groupStar", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
 {"parent": "OAI.CirculantHadamard.BinaryBlocks.partialEval_groupStar", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
 {"parent": "OAI.CirculantHadamard.BinaryBlocks.partialEval_groupStar", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
@@ -81800,7 +81800,7 @@
 {"parent": "OAI.KervaireTraceCalculus.hasDerivAt_traceLog_path", "child": "OAI_GroupTheory_Kervaire_SpectralMeasures", "via": ["solution", "statement"]}
 {"parent": "OAI.KervaireTraceCalculus.hasDerivAt_traceLog_path", "child": "OAI_GroupTheory_Kervaire_TraceCalculus", "via": ["solution", "statement"]}
 {"parent": "OAI.KervaireTraceCalculus.hasDerivAt_traceLog_path", "child": "OAI_GroupTheory_Kervaire_Suppression", "via": ["solution", "statement"]}
-{"parent": "QSVT19.Main.definition_11_svd_exists", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.definition_11_svd_exists", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.main_dvr", "child": "TypeDensity_Measure_AdicCylinders", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.main_dvr", "child": "TypeDensity_Blowup_TwoChartCurveData", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.main_dvr", "child": "TypeDensity_Measure_MemberCharts", "via": ["solution", "statement"]}
@@ -92460,7 +92460,7 @@
 {"parent": "OAIE3v2B104", "child": "OAIE3v2B091", "via": ["statement"]}
 {"parent": "TaoFivePrimes.rh_batch01_new256_compact_block00", "child": "TaoFivePrimes_RHBatch01New256CompactReference", "via": ["solution", "statement"]}
 {"parent": "dusart_theta_mesh_generic_group158", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "QSVT19.Main.theorem_4_first_claim", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.theorem_4_first_claim", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "OAIE3v2B132", "child": "OAIE3v2B118", "via": ["statement"]}
 {"parent": "OAIE3v2B132", "child": "OAIE3v2B117", "via": ["statement"]}
 {"parent": "OAIE3v2B132", "child": "OAIE3v2B114", "via": ["statement"]}

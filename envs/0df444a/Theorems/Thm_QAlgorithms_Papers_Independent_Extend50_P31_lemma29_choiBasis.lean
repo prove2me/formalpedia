@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_lemma29_choiBasis
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.lemma29_choiBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:43:59.816865+00:00
 -- url     : https://prove2.me/theorems/c34f3a5d-e7e8-40b2-b32b-475bae6e9094

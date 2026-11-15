@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_prob_norm_adjPerp_le_highDegree_ge
 -- name    : StrongConv.prob_norm_adjPerp_le_highDegree_ge
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T22:53:23.261212+00:00
 -- url     : https://prove2.me/theorems/80c880a0-cb1c-41f9-abec-c16af0a386b5

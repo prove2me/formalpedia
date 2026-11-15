@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResultantVNP_lemma_3_7
 -- name    : ResultantVNP.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:39:50.55368+00:00
 -- url     : https://prove2.me/theorems/03437fb6-50b2-47b8-9aa7-587acde876b8

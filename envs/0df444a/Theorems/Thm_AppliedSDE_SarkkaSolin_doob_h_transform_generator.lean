@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_doob_h_transform_generator
 -- name    : AppliedSDE.SarkkaSolin.doob_h_transform_generator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:52:15.773817+00:00
 -- url     : https://prove2.me/theorems/0569d961-16e4-453b-b917-447a1dd50da6

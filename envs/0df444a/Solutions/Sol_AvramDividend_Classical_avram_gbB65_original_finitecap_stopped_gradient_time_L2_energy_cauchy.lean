@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gbB65_original_finitecap_stopped_gradient_time_L2_energy_cauchy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T00:00:46.620855+00:00
 -- url     : https://prove2.me/submissions/29f3a7e2-8e54-4e21-ba07-64f27fdb4ddd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gbB82_original_two_mesh_time_energy_grid_exact

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a146_b0_original_spatial_masked_positive_aestrongly_measurable
 -- name    : AvramDividend.Classical.avram_ga_a146_b0_original_spatial_masked_positive_aestrongly_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T11:39:22.031505+00:00
 -- url     : https://prove2.me/theorems/78aeacf1-3eb5-4cfd-9a61-dde461fbae92

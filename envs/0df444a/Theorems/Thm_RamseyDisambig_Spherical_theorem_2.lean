@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamseyDisambig_Spherical_theorem_2
 -- name    : RamseyDisambig.Spherical.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:30:51.618192+00:00
 -- url     : https://prove2.me/theorems/e9bbb0cc-5433-40cd-b333-971c24a36d58

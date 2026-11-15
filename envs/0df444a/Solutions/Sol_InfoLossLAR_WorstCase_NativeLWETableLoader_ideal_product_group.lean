@@ -1,0 +1,2049 @@
+-- Prove2me | solution 1 for InfoLossLAR.WorstCase.NativeLWETableLoader.ideal_product_group
+-- status  : ACCEPTED   (prove)
+-- author  : @BoomShaKaLaaaKa
+-- created : 2026-11-15T04:04:12.015503+00:00
+-- url     : https://prove2.me/submissions/bed034ae-5cd0-470b-98fb-3f8385996e57
+
+import Definitions.Def_InfoLossLAR_BDD_Coordinates
+import Definitions.Def_InfoLossLAR_FirstBridgeBundle_09
+import Definitions.Def_InfoLossLAR_IntegerBasis_Core
+import Definitions.Def_InfoLossLAR_LoadedBatchBundle_01
+import Definitions.Def_InfoLossLAR_LoadedBatchBundle_05
+import Definitions.Def_RegevLWE_GaussConv_Gaussian
+import Mathlib
+import Theorems.Thm_InfoLossLAR_WorstCase_GaussianProjection_scalarObserved_regroup
+namespace AFT
+end AFT
+namespace AFT.BinaryArithmetic
+end AFT.BinaryArithmetic
+namespace AFT.BinaryArithmetic.Difference
+end AFT.BinaryArithmetic.Difference
+namespace AFT.BinaryArithmetic.Difference.mk
+end AFT.BinaryArithmetic.Difference.mk
+namespace AFT.BinaryArithmetic.IntegerBits
+end AFT.BinaryArithmetic.IntegerBits
+namespace AFT.BinaryArithmetic.IntegerBits.decode
+end AFT.BinaryArithmetic.IntegerBits.decode
+namespace AFT.BinaryArithmetic.IntegerBits.mk
+end AFT.BinaryArithmetic.IntegerBits.mk
+namespace AFT.BinaryArithmetic.IntegerBits.multiply
+end AFT.BinaryArithmetic.IntegerBits.multiply
+namespace AFT.BinaryArithmetic.IntegerBits.negate
+end AFT.BinaryArithmetic.IntegerBits.negate
+namespace AFT.BinaryArithmetic.IntegerBits.subtract
+end AFT.BinaryArithmetic.IntegerBits.subtract
+namespace AFT.BinaryArithmetic.IntegerBits.sumFin
+end AFT.BinaryArithmetic.IntegerBits.sumFin
+namespace AFT.BinaryArithmetic.IntegerBits.sumFin.match_1
+end AFT.BinaryArithmetic.IntegerBits.sumFin.match_1
+namespace AFT.BinaryArithmetic.IntegerBits.zero
+end AFT.BinaryArithmetic.IntegerBits.zero
+namespace AFT.BinaryArithmetic.RationalBits
+end AFT.BinaryArithmetic.RationalBits
+namespace AFT.BinaryArithmetic.RationalBits.chartAllowedTerm
+end AFT.BinaryArithmetic.RationalBits.chartAllowedTerm
+namespace AFT.BinaryArithmetic.RationalBits.chartConditional
+end AFT.BinaryArithmetic.RationalBits.chartConditional
+namespace AFT.BinaryArithmetic.RationalBits.chartConditionalTerm
+end AFT.BinaryArithmetic.RationalBits.chartConditionalTerm
+namespace AFT.BinaryArithmetic.RationalBits.chartExpectation
+end AFT.BinaryArithmetic.RationalBits.chartExpectation
+namespace AFT.BinaryArithmetic.RationalBits.chartFeature
+end AFT.BinaryArithmetic.RationalBits.chartFeature
+namespace AFT.BinaryArithmetic.RationalBits.chartProjection
+end AFT.BinaryArithmetic.RationalBits.chartProjection
+namespace AFT.BinaryArithmetic.RationalBits.chartProjectionTerm
+end AFT.BinaryArithmetic.RationalBits.chartProjectionTerm
+namespace AFT.BinaryArithmetic.RationalBits.decode
+end AFT.BinaryArithmetic.RationalBits.decode
+namespace AFT.BinaryArithmetic.RationalBits.difference
+end AFT.BinaryArithmetic.RationalBits.difference
+namespace AFT.BinaryArithmetic.RationalBits.factorial
+end AFT.BinaryArithmetic.RationalBits.factorial
+namespace AFT.BinaryArithmetic.RationalBits.factorialWorkStep
+end AFT.BinaryArithmetic.RationalBits.factorialWorkStep
+namespace AFT.BinaryArithmetic.RationalBits.half
+end AFT.BinaryArithmetic.RationalBits.half
+namespace AFT.BinaryArithmetic.RationalBits.mk
+end AFT.BinaryArithmetic.RationalBits.mk
+namespace AFT.BinaryArithmetic.RationalBits.ofCounter
+end AFT.BinaryArithmetic.RationalBits.ofCounter
+namespace AFT.BinaryArithmetic.RationalBits.power
+end AFT.BinaryArithmetic.RationalBits.power
+namespace AFT.BinaryArithmetic.RationalBits.power.match_1
+end AFT.BinaryArithmetic.RationalBits.power.match_1
+namespace AFT.BinaryArithmetic.RationalBits.quotient
+end AFT.BinaryArithmetic.RationalBits.quotient
+namespace AFT.BinaryArithmetic.RationalBits.sumRange
+end AFT.BinaryArithmetic.RationalBits.sumRange
+namespace AFT.BinaryArithmetic.RationalBits.third
+end AFT.BinaryArithmetic.RationalBits.third
+namespace AFT.BinaryArithmetic.RationalResult
+end AFT.BinaryArithmetic.RationalResult
+namespace AFT.BinaryArithmetic.RationalResult.mk
+end AFT.BinaryArithmetic.RationalResult.mk
+namespace AFT.BinaryArithmetic.Result
+end AFT.BinaryArithmetic.Result
+namespace AFT.BinaryArithmetic.Result.mk
+end AFT.BinaryArithmetic.Result.mk
+namespace AFT.BinaryArithmetic.add
+end AFT.BinaryArithmetic.add
+namespace AFT.BinaryArithmetic.add.match_1
+end AFT.BinaryArithmetic.add.match_1
+namespace AFT.BinaryArithmetic.multiply
+end AFT.BinaryArithmetic.multiply
+namespace AFT.BinaryArithmetic.multiply.match_1
+end AFT.BinaryArithmetic.multiply.match_1
+namespace AFT.BinaryArithmetic.normalize
+end AFT.BinaryArithmetic.normalize
+namespace AFT.BinaryArithmetic.normalize.match_1
+end AFT.BinaryArithmetic.normalize.match_1
+namespace AFT.BinaryArithmetic.reduce
+end AFT.BinaryArithmetic.reduce
+namespace AFT.BinaryArithmetic.signedValue
+end AFT.BinaryArithmetic.signedValue
+namespace AFT.BinaryArithmetic.subtract
+end AFT.BinaryArithmetic.subtract
+namespace AFT.BinaryArithmetic.subtract.match_1
+end AFT.BinaryArithmetic.subtract.match_1
+namespace AFT.BinaryArithmetic.value
+end AFT.BinaryArithmetic.value
+namespace AFT.BinaryArithmetic.value.match_1
+end AFT.BinaryArithmetic.value.match_1
+namespace AFT.FiniteDist
+end AFT.FiniteDist
+namespace AFT.FiniteDist.TVBound
+end AFT.FiniteDist.TVBound
+namespace AFT.FiniteDist.mk
+end AFT.FiniteDist.mk
+namespace AFT.FiniteDist.totalVariation
+end AFT.FiniteDist.totalVariation
+namespace AFT.FiniteDist.uniform
+end AFT.FiniteDist.uniform
+namespace AFT.GaussianSource
+end AFT.GaussianSource
+namespace AFT.RepresentedPolynomial
+end AFT.RepresentedPolynomial
+namespace AFT.SafeConvolution
+end AFT.SafeConvolution
+namespace AFT.V7Calibration
+end AFT.V7Calibration
+namespace AFT.canonicalCarry
+end AFT.canonicalCarry
+namespace AFT.endpointIntegralPreimage
+end AFT.endpointIntegralPreimage
+namespace AFT.endpointLift
+end AFT.endpointLift
+namespace AFT.endpointProjection
+end AFT.endpointProjection
+namespace AFT.fiberLabel
+end AFT.fiberLabel
+namespace AFT.integerLabel
+end AFT.integerLabel
+namespace AFT.liftCoordinates
+end AFT.liftCoordinates
+namespace AFT.pathIncidence
+end AFT.pathIncidence
+namespace AFT.reduceCoordinates
+end AFT.reduceCoordinates
+namespace AFT.zeroFiberPullback
+end AFT.zeroFiberPullback
+namespace CurrentAFT
+end CurrentAFT
+namespace CurrentAFT.CyclePathClosure
+end CurrentAFT.CyclePathClosure
+namespace CurrentAFT.PublicParameterProgram
+end CurrentAFT.PublicParameterProgram
+namespace CurrentAFT.PublicParameterProgram.checkedPower
+end CurrentAFT.PublicParameterProgram.checkedPower
+namespace CurrentAFT.PublicParameterProgram.checkedProduct
+end CurrentAFT.PublicParameterProgram.checkedProduct
+namespace CurrentAFT.PublicParameterProgram.checkedScan
+end CurrentAFT.PublicParameterProgram.checkedScan
+namespace CurrentAFT.PublicParameterProgram.primeTest
+end CurrentAFT.PublicParameterProgram.primeTest
+namespace CurrentAFT.PublicParameterProgram.testWork
+end CurrentAFT.PublicParameterProgram.testWork
+namespace CurrentAFT.PublicParameterProgram.workBound
+end CurrentAFT.PublicParameterProgram.workBound
+namespace CurrentAFT.PublicParameterProgram.workPolynomial
+end CurrentAFT.PublicParameterProgram.workPolynomial
+namespace InfoLossLAR
+end InfoLossLAR
+namespace InfoLossLAR.WorstCase
+end InfoLossLAR.WorstCase
+namespace InfoLossLAR.WorstCase.BooleanExpr
+end InfoLossLAR.WorstCase.BooleanExpr
+namespace InfoLossLAR.WorstCase.BooleanExpr.Valid
+end InfoLossLAR.WorstCase.BooleanExpr.Valid
+namespace InfoLossLAR.WorstCase.BooleanExpr.Valid.match_1
+end InfoLossLAR.WorstCase.BooleanExpr.Valid.match_1
+namespace InfoLossLAR.WorstCase.BooleanExpr.and
+end InfoLossLAR.WorstCase.BooleanExpr.and
+namespace InfoLossLAR.WorstCase.BooleanExpr.any
+end InfoLossLAR.WorstCase.BooleanExpr.any
+namespace InfoLossLAR.WorstCase.BooleanExpr.any.match_1
+end InfoLossLAR.WorstCase.BooleanExpr.any.match_1
+namespace InfoLossLAR.WorstCase.BooleanExpr.brecOn
+end InfoLossLAR.WorstCase.BooleanExpr.brecOn
+namespace InfoLossLAR.WorstCase.BooleanExpr.compile
+end InfoLossLAR.WorstCase.BooleanExpr.compile
+namespace InfoLossLAR.WorstCase.BooleanExpr.compileMany
+end InfoLossLAR.WorstCase.BooleanExpr.compileMany
+namespace InfoLossLAR.WorstCase.BooleanExpr.constant
+end InfoLossLAR.WorstCase.BooleanExpr.constant
+namespace InfoLossLAR.WorstCase.BooleanExpr.eval
+end InfoLossLAR.WorstCase.BooleanExpr.eval
+namespace InfoLossLAR.WorstCase.BooleanExpr.eval.match_1
+end InfoLossLAR.WorstCase.BooleanExpr.eval.match_1
+namespace InfoLossLAR.WorstCase.BooleanExpr.input
+end InfoLossLAR.WorstCase.BooleanExpr.input
+namespace InfoLossLAR.WorstCase.BooleanExpr.lookup
+end InfoLossLAR.WorstCase.BooleanExpr.lookup
+namespace InfoLossLAR.WorstCase.BooleanExpr.multiplex
+end InfoLossLAR.WorstCase.BooleanExpr.multiplex
+namespace InfoLossLAR.WorstCase.BooleanExpr.negate
+end InfoLossLAR.WorstCase.BooleanExpr.negate
+namespace InfoLossLAR.WorstCase.BooleanExpr.or
+end InfoLossLAR.WorstCase.BooleanExpr.or
+namespace InfoLossLAR.WorstCase.BooleanExpr.select
+end InfoLossLAR.WorstCase.BooleanExpr.select
+namespace InfoLossLAR.WorstCase.BooleanExpr.size
+end InfoLossLAR.WorstCase.BooleanExpr.size
+namespace InfoLossLAR.WorstCase.BooleanExpr.xor
+end InfoLossLAR.WorstCase.BooleanExpr.xor
+namespace InfoLossLAR.WorstCase.BooleanFamily
+end InfoLossLAR.WorstCase.BooleanFamily
+namespace InfoLossLAR.WorstCase.BooleanFamily.mk
+end InfoLossLAR.WorstCase.BooleanFamily.mk
+namespace InfoLossLAR.WorstCase.BooleanFamily.reversible
+end InfoLossLAR.WorstCase.BooleanFamily.reversible
+namespace InfoLossLAR.WorstCase.BooleanFresh
+end InfoLossLAR.WorstCase.BooleanFresh
+namespace InfoLossLAR.WorstCase.BooleanGate
+end InfoLossLAR.WorstCase.BooleanGate
+namespace InfoLossLAR.WorstCase.BooleanGate.and
+end InfoLossLAR.WorstCase.BooleanGate.and
+namespace InfoLossLAR.WorstCase.BooleanGate.assign
+end InfoLossLAR.WorstCase.BooleanGate.assign
+namespace InfoLossLAR.WorstCase.BooleanGate.code
+end InfoLossLAR.WorstCase.BooleanGate.code
+namespace InfoLossLAR.WorstCase.BooleanGate.code.match_1
+end InfoLossLAR.WorstCase.BooleanGate.code.match_1
+namespace InfoLossLAR.WorstCase.BooleanGate.compile
+end InfoLossLAR.WorstCase.BooleanGate.compile
+namespace InfoLossLAR.WorstCase.BooleanGate.constant
+end InfoLossLAR.WorstCase.BooleanGate.constant
+namespace InfoLossLAR.WorstCase.BooleanGate.copy
+end InfoLossLAR.WorstCase.BooleanGate.copy
+namespace InfoLossLAR.WorstCase.BooleanGate.negate
+end InfoLossLAR.WorstCase.BooleanGate.negate
+namespace InfoLossLAR.WorstCase.BooleanGate.target
+end InfoLossLAR.WorstCase.BooleanGate.target
+namespace InfoLossLAR.WorstCase.BooleanGate.target.match_1
+end InfoLossLAR.WorstCase.BooleanGate.target.match_1
+namespace InfoLossLAR.WorstCase.BooleanGate.value
+end InfoLossLAR.WorstCase.BooleanGate.value
+namespace InfoLossLAR.WorstCase.BooleanGate.value.match_1
+end InfoLossLAR.WorstCase.BooleanGate.value.match_1
+namespace InfoLossLAR.WorstCase.BooleanGate.xor
+end InfoLossLAR.WorstCase.BooleanGate.xor
+namespace InfoLossLAR.WorstCase.BooleanOp
+end InfoLossLAR.WorstCase.BooleanOp
+namespace InfoLossLAR.WorstCase.BooleanOp.Valid
+end InfoLossLAR.WorstCase.BooleanOp.Valid
+namespace InfoLossLAR.WorstCase.BooleanOp.and
+end InfoLossLAR.WorstCase.BooleanOp.and
+namespace InfoLossLAR.WorstCase.BooleanOp.assign
+end InfoLossLAR.WorstCase.BooleanOp.assign
+namespace InfoLossLAR.WorstCase.BooleanOp.constant
+end InfoLossLAR.WorstCase.BooleanOp.constant
+namespace InfoLossLAR.WorstCase.BooleanOp.copy
+end InfoLossLAR.WorstCase.BooleanOp.copy
+namespace InfoLossLAR.WorstCase.BooleanOp.eval
+end InfoLossLAR.WorstCase.BooleanOp.eval
+namespace InfoLossLAR.WorstCase.BooleanOp.negate
+end InfoLossLAR.WorstCase.BooleanOp.negate
+namespace InfoLossLAR.WorstCase.BooleanOp.sources
+end InfoLossLAR.WorstCase.BooleanOp.sources
+namespace InfoLossLAR.WorstCase.BooleanOp.sources.match_1
+end InfoLossLAR.WorstCase.BooleanOp.sources.match_1
+namespace InfoLossLAR.WorstCase.BooleanOp.toGate
+end InfoLossLAR.WorstCase.BooleanOp.toGate
+namespace InfoLossLAR.WorstCase.BooleanOp.xor
+end InfoLossLAR.WorstCase.BooleanOp.xor
+namespace InfoLossLAR.WorstCase.BooleanProgram
+end InfoLossLAR.WorstCase.BooleanProgram
+namespace InfoLossLAR.WorstCase.BooleanProgram.Valid
+end InfoLossLAR.WorstCase.BooleanProgram.Valid
+namespace InfoLossLAR.WorstCase.BooleanProgram.Valid.match_1
+end InfoLossLAR.WorstCase.BooleanProgram.Valid.match_1
+namespace InfoLossLAR.WorstCase.BooleanProgram.gates
+end InfoLossLAR.WorstCase.BooleanProgram.gates
+namespace InfoLossLAR.WorstCase.BooleanProgram.gates.match_1
+end InfoLossLAR.WorstCase.BooleanProgram.gates.match_1
+namespace InfoLossLAR.WorstCase.BooleanProgram.run
+end InfoLossLAR.WorstCase.BooleanProgram.run
+namespace InfoLossLAR.WorstCase.BooleanProgram.run.match_1
+end InfoLossLAR.WorstCase.BooleanProgram.run.match_1
+namespace InfoLossLAR.WorstCase.CoherentDecoder
+end InfoLossLAR.WorstCase.CoherentDecoder
+namespace InfoLossLAR.WorstCase.CoherentDecoder.copied
+end InfoLossLAR.WorstCase.CoherentDecoder.copied
+namespace InfoLossLAR.WorstCase.Integration
+end InfoLossLAR.WorstCase.Integration
+namespace InfoLossLAR.WorstCase.ReversibleFamily
+end InfoLossLAR.WorstCase.ReversibleFamily
+namespace InfoLossLAR.WorstCase.ReversibleFamily.code
+end InfoLossLAR.WorstCase.ReversibleFamily.code
+namespace InfoLossLAR.WorstCase.ReversibleFamily.compile
+end InfoLossLAR.WorstCase.ReversibleFamily.compile
+namespace InfoLossLAR.WorstCase.ReversibleFamily.mk
+end InfoLossLAR.WorstCase.ReversibleFamily.mk
+namespace InfoLossLAR.WorstCase.ReversibleGate
+end InfoLossLAR.WorstCase.ReversibleGate
+namespace InfoLossLAR.WorstCase.ReversibleGate.act
+end InfoLossLAR.WorstCase.ReversibleGate.act
+namespace InfoLossLAR.WorstCase.ReversibleGate.act.match_1
+end InfoLossLAR.WorstCase.ReversibleGate.act.match_1
+namespace InfoLossLAR.WorstCase.ReversibleGate.code
+end InfoLossLAR.WorstCase.ReversibleGate.code
+namespace InfoLossLAR.WorstCase.ReversibleGate.compile
+end InfoLossLAR.WorstCase.ReversibleGate.compile
+namespace InfoLossLAR.WorstCase.ReversibleGate.compile.match_1
+end InfoLossLAR.WorstCase.ReversibleGate.compile.match_1
+namespace InfoLossLAR.WorstCase.ReversibleGate.controlled
+end InfoLossLAR.WorstCase.ReversibleGate.controlled
+namespace InfoLossLAR.WorstCase.ReversibleGate.equiv
+end InfoLossLAR.WorstCase.ReversibleGate.equiv
+namespace InfoLossLAR.WorstCase.ReversibleGate.flip
+end InfoLossLAR.WorstCase.ReversibleGate.flip
+namespace InfoLossLAR.WorstCase.ReversibleGate.toffoli
+end InfoLossLAR.WorstCase.ReversibleGate.toffoli
+namespace InfoLossLAR.WorstCase.TDef63
+end InfoLossLAR.WorstCase.TDef63
+namespace InfoLossLAR.WorstCase.TM2Boolean
+end InfoLossLAR.WorstCase.TM2Boolean
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.IsPoly
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.IsPoly
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.auxiliaryCode
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.auxiliaryCode
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.auxiliaryCode.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.auxiliaryCode.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.codes
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.codes
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.compile
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.compile
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.initialCode
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.initialCode
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.mk
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.mk
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.pop
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.pop
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.push
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.push
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.restrict
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.restrict
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.transitionCode
+end InfoLossLAR.WorstCase.TM2Boolean.CodeFamily.transitionCode
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.generate
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.generate
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.initialInput
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.initialInput
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.initialResult
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.initialResult
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.innerStep
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.innerStep
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.iterateCode
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.iterateCode
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.loopBound
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.loopBound
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.runState
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.runState
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.runState.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.runState.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.step
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.step
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.tokenBound
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.tokenBound
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.tokens
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.tokens
+namespace InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.view
+end InfoLossLAR.WorstCase.TM2Boolean.CodeGenerator.view
+namespace InfoLossLAR.WorstCase.TM2Boolean.Encodes
+end InfoLossLAR.WorstCase.TM2Boolean.Encodes
+namespace InfoLossLAR.WorstCase.TM2Boolean.MachineProgram
+end InfoLossLAR.WorstCase.TM2Boolean.MachineProgram
+namespace InfoLossLAR.WorstCase.TM2Boolean.MachineProgram.mk
+end InfoLossLAR.WorstCase.TM2Boolean.MachineProgram.mk
+namespace InfoLossLAR.WorstCase.TM2Boolean.PolyProgramCircuit
+end InfoLossLAR.WorstCase.TM2Boolean.PolyProgramCircuit
+namespace InfoLossLAR.WorstCase.TM2Boolean.PolyProgramCircuit.generatedAddressRange
+end InfoLossLAR.WorstCase.TM2Boolean.PolyProgramCircuit.generatedAddressRange
+namespace InfoLossLAR.WorstCase.TM2Boolean.PolyProgramCircuit.preparedLoadOps
+end InfoLossLAR.WorstCase.TM2Boolean.PolyProgramCircuit.preparedLoadOps
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN
+end InfoLossLAR.WorstCase.TM2Boolean.RPN
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.Bounded
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.Bounded
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.CodePoly
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.CodePoly
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.NodeBound
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.NodeBound
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.boundedNat
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.boundedNat
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.code
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.code
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.code.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.code.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.compileTokens
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.compileTokens
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.emit
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.emit
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.instructionWord
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.instructionWord
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.instructionWords
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.instructionWords
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.node
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.node
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.node.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.node.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.run
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.run
+namespace InfoLossLAR.WorstCase.TM2Boolean.RPN.step
+end InfoLossLAR.WorstCase.TM2Boolean.RPN.step
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.Bounded
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.Bounded
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.Valid
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.Valid
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.compiled
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.compiled
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.formulas
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.formulas
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.get
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.get
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.get.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.get.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.halt
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.halt
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.lookupBound
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.lookupBound
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.lookup_le_operation
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.lookup_le_operation
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.mk
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.mk
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.ofSlots
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.ofSlots
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.old_le_operation
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.old_le_operation
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.operationBound
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.operationBound
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.output
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.output
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.pop
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.pop
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.push
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.push
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.read
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.read
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.readBound
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.readBound
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.read_le_operation
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.read_le_operation
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.rebound
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.rebound
+namespace InfoLossLAR.WorstCase.TM2Boolean.Symbolic.select
+end InfoLossLAR.WorstCase.TM2Boolean.Symbolic.select
+namespace InfoLossLAR.WorstCase.TM2Boolean.auxiliary
+end InfoLossLAR.WorstCase.TM2Boolean.auxiliary
+namespace InfoLossLAR.WorstCase.TM2Boolean.auxiliary.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.auxiliary.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.auxiliaryBound
+end InfoLossLAR.WorstCase.TM2Boolean.auxiliaryBound
+namespace InfoLossLAR.WorstCase.TM2Boolean.compileRun
+end InfoLossLAR.WorstCase.TM2Boolean.compileRun
+namespace InfoLossLAR.WorstCase.TM2Boolean.compileRun.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.compileRun.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.configurationBit
+end InfoLossLAR.WorstCase.TM2Boolean.configurationBit
+namespace InfoLossLAR.WorstCase.TM2Boolean.enumerate
+end InfoLossLAR.WorstCase.TM2Boolean.enumerate
+namespace InfoLossLAR.WorstCase.TM2Boolean.initialConfiguration
+end InfoLossLAR.WorstCase.TM2Boolean.initialConfiguration
+namespace InfoLossLAR.WorstCase.TM2Boolean.inputCell
+end InfoLossLAR.WorstCase.TM2Boolean.inputCell
+namespace InfoLossLAR.WorstCase.TM2Boolean.inputCell.match_1
+end InfoLossLAR.WorstCase.TM2Boolean.inputCell.match_1
+namespace InfoLossLAR.WorstCase.TM2Boolean.machineProgram
+end InfoLossLAR.WorstCase.TM2Boolean.machineProgram
+namespace InfoLossLAR.WorstCase.TM2Boolean.multiplex
+end InfoLossLAR.WorstCase.TM2Boolean.multiplex
+namespace InfoLossLAR.WorstCase.TM2Boolean.stickyStep
+end InfoLossLAR.WorstCase.TM2Boolean.stickyStep
+namespace InfoLossLAR.WorstCase.TM2Boolean.transition
+end InfoLossLAR.WorstCase.TM2Boolean.transition
+namespace InfoLossLAR.WorstCase.advLAR
+end InfoLossLAR.WorstCase.advLAR
+namespace InfoLossLAR.WorstCase.affineLWEBlockLaw
+end InfoLossLAR.WorstCase.affineLWEBlockLaw
+namespace InfoLossLAR.WorstCase.affineMatrixErrorLaw
+end InfoLossLAR.WorstCase.affineMatrixErrorLaw
+namespace InfoLossLAR.WorstCase.affineSourceLaw
+end InfoLossLAR.WorstCase.affineSourceLaw
+namespace InfoLossLAR.WorstCase.alignment_avg_comm
+end InfoLossLAR.WorstCase.alignment_avg_comm
+namespace InfoLossLAR.WorstCase.alignment_avg_const
+end InfoLossLAR.WorstCase.alignment_avg_const
+namespace InfoLossLAR.WorstCase.alignment_avg_mul
+end InfoLossLAR.WorstCase.alignment_avg_mul
+namespace InfoLossLAR.WorstCase.alignment_avg_mul_right
+end InfoLossLAR.WorstCase.alignment_avg_mul_right
+namespace InfoLossLAR.WorstCase.avg
+end InfoLossLAR.WorstCase.avg
+namespace InfoLossLAR.WorstCase.basisInput
+end InfoLossLAR.WorstCase.basisInput
+namespace InfoLossLAR.WorstCase.blockFrameWords
+end InfoLossLAR.WorstCase.blockFrameWords
+namespace InfoLossLAR.WorstCase.booleanRun
+end InfoLossLAR.WorstCase.booleanRun
+namespace InfoLossLAR.WorstCase.booleanToReversible
+end InfoLossLAR.WorstCase.booleanToReversible
+namespace InfoLossLAR.WorstCase.boundedFieldDecode
+end InfoLossLAR.WorstCase.boundedFieldDecode
+namespace InfoLossLAR.WorstCase.boundedFieldEquiv
+end InfoLossLAR.WorstCase.boundedFieldEquiv
+namespace InfoLossLAR.WorstCase.boundedFinDraw_some_iff
+end InfoLossLAR.WorstCase.boundedFinDraw_some_iff
+namespace InfoLossLAR.WorstCase.boundedFinLaw
+end InfoLossLAR.WorstCase.boundedFinLaw
+namespace InfoLossLAR.WorstCase.boundedJointDraw
+end InfoLossLAR.WorstCase.boundedJointDraw
+namespace InfoLossLAR.WorstCase.boundedJointEquiv
+end InfoLossLAR.WorstCase.boundedJointEquiv
+namespace InfoLossLAR.WorstCase.boundedRankOnePre
+end InfoLossLAR.WorstCase.boundedRankOnePre
+namespace InfoLossLAR.WorstCase.boundedSplit
+end InfoLossLAR.WorstCase.boundedSplit
+namespace InfoLossLAR.WorstCase.bounded_avg_product
+end InfoLossLAR.WorstCase.bounded_avg_product
+namespace InfoLossLAR.WorstCase.bounded_uniform_expectation
+end InfoLossLAR.WorstCase.bounded_uniform_expectation
+namespace InfoLossLAR.WorstCase.br_avg_mul
+end InfoLossLAR.WorstCase.br_avg_mul
+namespace InfoLossLAR.WorstCase.br_uniform_expectation
+end InfoLossLAR.WorstCase.br_uniform_expectation
+namespace InfoLossLAR.WorstCase.bundleCircuitDescription
+end InfoLossLAR.WorstCase.bundleCircuitDescription
+namespace InfoLossLAR.WorstCase.bundleNaturalBits
+end InfoLossLAR.WorstCase.bundleNaturalBits
+namespace InfoLossLAR.WorstCase.bundleNaturalBits.match_1
+end InfoLossLAR.WorstCase.bundleNaturalBits.match_1
+namespace InfoLossLAR.WorstCase.bundleOutput
+end InfoLossLAR.WorstCase.bundleOutput
+namespace InfoLossLAR.WorstCase.bundleOutput.match_1
+end InfoLossLAR.WorstCase.bundleOutput.match_1
+namespace InfoLossLAR.WorstCase.bundleRequests
+end InfoLossLAR.WorstCase.bundleRequests
+namespace InfoLossLAR.WorstCase.bundleRequestsFromSlots
+end InfoLossLAR.WorstCase.bundleRequestsFromSlots
+namespace InfoLossLAR.WorstCase.bundleWireWord
+end InfoLossLAR.WorstCase.bundleWireWord
+namespace InfoLossLAR.WorstCase.carry
+end InfoLossLAR.WorstCase.carry
+namespace InfoLossLAR.WorstCase.compileReversible
+end InfoLossLAR.WorstCase.compileReversible
+namespace InfoLossLAR.WorstCase.computableFixedRoundingDirection
+end InfoLossLAR.WorstCase.computableFixedRoundingDirection
+namespace InfoLossLAR.WorstCase.computableRoundingDirectionInteger
+end InfoLossLAR.WorstCase.computableRoundingDirectionInteger
+namespace InfoLossLAR.WorstCase.dBlockLoadSources
+end InfoLossLAR.WorstCase.dBlockLoadSources
+namespace InfoLossLAR.WorstCase.dBundleLoadSources
+end InfoLossLAR.WorstCase.dBundleLoadSources
+namespace InfoLossLAR.WorstCase.describedQueryBlocks
+end InfoLossLAR.WorstCase.describedQueryBlocks
+namespace InfoLossLAR.WorstCase.emitDBundle
+end InfoLossLAR.WorstCase.emitDBundle
+namespace InfoLossLAR.WorstCase.emitDOutputs
+end InfoLossLAR.WorstCase.emitDOutputs
+namespace InfoLossLAR.WorstCase.emitDWireWord
+end InfoLossLAR.WorstCase.emitDWireWord
+namespace InfoLossLAR.WorstCase.emittedOutput_get
+end InfoLossLAR.WorstCase.emittedOutput_get
+namespace InfoLossLAR.WorstCase.encB
+end InfoLossLAR.WorstCase.encB
+namespace InfoLossLAR.WorstCase.encI
+end InfoLossLAR.WorstCase.encI
+namespace InfoLossLAR.WorstCase.encInput
+end InfoLossLAR.WorstCase.encInput
+namespace InfoLossLAR.WorstCase.encL
+end InfoLossLAR.WorstCase.encL
+namespace InfoLossLAR.WorstCase.encMat
+end InfoLossLAR.WorstCase.encMat
+namespace InfoLossLAR.WorstCase.encPair
+end InfoLossLAR.WorstCase.encPair
+namespace InfoLossLAR.WorstCase.encS
+end InfoLossLAR.WorstCase.encS
+namespace InfoLossLAR.WorstCase.encTable
+end InfoLossLAR.WorstCase.encTable
+namespace InfoLossLAR.WorstCase.encVec
+end InfoLossLAR.WorstCase.encVec
+namespace InfoLossLAR.WorstCase.familyInputBits
+end InfoLossLAR.WorstCase.familyInputBits
+namespace InfoLossLAR.WorstCase.finite_independent_map
+end InfoLossLAR.WorstCase.finite_independent_map
+namespace InfoLossLAR.WorstCase.finite_prod_map_fst
+end InfoLossLAR.WorstCase.finite_prod_map_fst
+namespace InfoLossLAR.WorstCase.finite_uniform_expectation
+end InfoLossLAR.WorstCase.finite_uniform_expectation
+namespace InfoLossLAR.WorstCase.fixedRoundingDirection
+end InfoLossLAR.WorstCase.fixedRoundingDirection
+namespace InfoLossLAR.WorstCase.generatedBundleDescriptions
+end InfoLossLAR.WorstCase.generatedBundleDescriptions
+namespace InfoLossLAR.WorstCase.inputCopyResult
+end InfoLossLAR.WorstCase.inputCopyResult
+namespace InfoLossLAR.WorstCase.inputCopySources
+end InfoLossLAR.WorstCase.inputCopySources
+namespace InfoLossLAR.WorstCase.instDecidableEqBooleanExpr
+end InfoLossLAR.WorstCase.instDecidableEqBooleanExpr
+namespace InfoLossLAR.WorstCase.instDecidableEqBooleanExpr.decEq
+end InfoLossLAR.WorstCase.instDecidableEqBooleanExpr.decEq
+namespace InfoLossLAR.WorstCase.instDecidableEqBooleanOp
+end InfoLossLAR.WorstCase.instDecidableEqBooleanOp
+namespace InfoLossLAR.WorstCase.instDecidableEqBooleanOp.decEq
+end InfoLossLAR.WorstCase.instDecidableEqBooleanOp.decEq
+namespace InfoLossLAR.WorstCase.instrAnchor
+end InfoLossLAR.WorstCase.instrAnchor
+namespace InfoLossLAR.WorstCase.instrLinearMap
+end InfoLossLAR.WorstCase.instrLinearMap
+namespace InfoLossLAR.WorstCase.instrPeriod
+end InfoLossLAR.WorstCase.instrPeriod
+namespace InfoLossLAR.WorstCase.instrPeriod.match_1
+end InfoLossLAR.WorstCase.instrPeriod.match_1
+namespace InfoLossLAR.WorstCase.inverseCircuit
+end InfoLossLAR.WorstCase.inverseCircuit
+namespace InfoLossLAR.WorstCase.inverseCircuitWords
+end InfoLossLAR.WorstCase.inverseCircuitWords
+namespace InfoLossLAR.WorstCase.inverseFamily
+end InfoLossLAR.WorstCase.inverseFamily
+namespace InfoLossLAR.WorstCase.inverseGates
+end InfoLossLAR.WorstCase.inverseGates
+namespace InfoLossLAR.WorstCase.inverseInstr
+end InfoLossLAR.WorstCase.inverseInstr
+namespace InfoLossLAR.WorstCase.inverseInstructionWords
+end InfoLossLAR.WorstCase.inverseInstructionWords
+namespace InfoLossLAR.WorstCase.larObservedIdealTableLaw
+end InfoLossLAR.WorstCase.larObservedIdealTableLaw
+namespace InfoLossLAR.WorstCase.larObservedRealTableLaw
+end InfoLossLAR.WorstCase.larObservedRealTableLaw
+namespace InfoLossLAR.WorstCase.larRankOneIdealBlock
+end InfoLossLAR.WorstCase.larRankOneIdealBlock
+namespace InfoLossLAR.WorstCase.larRankOnePreprocess
+end InfoLossLAR.WorstCase.larRankOnePreprocess
+namespace InfoLossLAR.WorstCase.larRankOneRealBlock
+end InfoLossLAR.WorstCase.larRankOneRealBlock
+namespace InfoLossLAR.WorstCase.larSecretAcceptance
+end InfoLossLAR.WorstCase.larSecretAcceptance
+namespace InfoLossLAR.WorstCase.larUniformZeroLaw
+end InfoLossLAR.WorstCase.larUniformZeroLaw
+namespace InfoLossLAR.WorstCase.lar_independent_map
+end InfoLossLAR.WorstCase.lar_independent_map
+namespace InfoLossLAR.WorstCase.lar_prod_map_snd
+end InfoLossLAR.WorstCase.lar_prod_map_snd
+namespace InfoLossLAR.WorstCase.lar_uniform_expectation
+end InfoLossLAR.WorstCase.lar_uniform_expectation
+namespace InfoLossLAR.WorstCase.lengthDescriptions
+end InfoLossLAR.WorstCase.lengthDescriptions
+namespace InfoLossLAR.WorstCase.lift
+end InfoLossLAR.WorstCase.lift
+namespace InfoLossLAR.WorstCase.modq
+end InfoLossLAR.WorstCase.modq
+namespace InfoLossLAR.WorstCase.multiSelectorChunk
+end InfoLossLAR.WorstCase.multiSelectorChunk
+namespace InfoLossLAR.WorstCase.multiSelectorFinalIndex
+end InfoLossLAR.WorstCase.multiSelectorFinalIndex
+namespace InfoLossLAR.WorstCase.multiSelectorNodes
+end InfoLossLAR.WorstCase.multiSelectorNodes
+namespace InfoLossLAR.WorstCase.multiSelectorOps
+end InfoLossLAR.WorstCase.multiSelectorOps
+namespace InfoLossLAR.WorstCase.multiSelectorOps.match_1
+end InfoLossLAR.WorstCase.multiSelectorOps.match_1
+namespace InfoLossLAR.WorstCase.multiSelectorOutput
+end InfoLossLAR.WorstCase.multiSelectorOutput
+namespace InfoLossLAR.WorstCase.multiSelectorScratch
+end InfoLossLAR.WorstCase.multiSelectorScratch
+namespace InfoLossLAR.WorstCase.multiSelectorValue
+end InfoLossLAR.WorstCase.multiSelectorValue
+namespace InfoLossLAR.WorstCase.multiSelectorValue.match_1
+end InfoLossLAR.WorstCase.multiSelectorValue.match_1
+namespace InfoLossLAR.WorstCase.outputSelector
+end InfoLossLAR.WorstCase.outputSelector
+namespace InfoLossLAR.WorstCase.pathPrefix
+end InfoLossLAR.WorstCase.pathPrefix
+namespace InfoLossLAR.WorstCase.pathPrefix.match_1
+end InfoLossLAR.WorstCase.pathPrefix.match_1
+namespace InfoLossLAR.WorstCase.prAlignmentLAR
+end InfoLossLAR.WorstCase.prAlignmentLAR
+namespace InfoLossLAR.WorstCase.prBoundedRankOneIdealLAR
+end InfoLossLAR.WorstCase.prBoundedRankOneIdealLAR
+namespace InfoLossLAR.WorstCase.prBoundedRankOneRealLAR
+end InfoLossLAR.WorstCase.prBoundedRankOneRealLAR
+namespace InfoLossLAR.WorstCase.prIdealLAR
+end InfoLossLAR.WorstCase.prIdealLAR
+namespace InfoLossLAR.WorstCase.prIdealLWE
+end InfoLossLAR.WorstCase.prIdealLWE
+namespace InfoLossLAR.WorstCase.prRankOneIdealLAR
+end InfoLossLAR.WorstCase.prRankOneIdealLAR
+namespace InfoLossLAR.WorstCase.prRankOneRealLAR
+end InfoLossLAR.WorstCase.prRankOneRealLAR
+namespace InfoLossLAR.WorstCase.prRealLAR
+end InfoLossLAR.WorstCase.prRealLAR
+namespace InfoLossLAR.WorstCase.prZeroSecretReplacedLAR
+end InfoLossLAR.WorstCase.prZeroSecretReplacedLAR
+namespace InfoLossLAR.WorstCase.precedingWireSlots
+end InfoLossLAR.WorstCase.precedingWireSlots
+namespace InfoLossLAR.WorstCase.rankOneEncodedQuery
+end InfoLossLAR.WorstCase.rankOneEncodedQuery
+namespace InfoLossLAR.WorstCase.rankOneMatrix
+end InfoLossLAR.WorstCase.rankOneMatrix
+namespace InfoLossLAR.WorstCase.rankOneUnalignedEquiv
+end InfoLossLAR.WorstCase.rankOneUnalignedEquiv
+namespace InfoLossLAR.WorstCase.readBooleanInstruction
+end InfoLossLAR.WorstCase.readBooleanInstruction
+namespace InfoLossLAR.WorstCase.readCircuitInstruction
+end InfoLossLAR.WorstCase.readCircuitInstruction
+namespace InfoLossLAR.WorstCase.readReversibleInstruction
+end InfoLossLAR.WorstCase.readReversibleInstruction
+namespace InfoLossLAR.WorstCase.registerLoadNode
+end InfoLossLAR.WorstCase.registerLoadNode
+namespace InfoLossLAR.WorstCase.registerLoadOp
+end InfoLossLAR.WorstCase.registerLoadOp
+namespace InfoLossLAR.WorstCase.registerLoadOps
+end InfoLossLAR.WorstCase.registerLoadOps
+namespace InfoLossLAR.WorstCase.registerLoadValue
+end InfoLossLAR.WorstCase.registerLoadValue
+namespace InfoLossLAR.WorstCase.reversibleAction
+end InfoLossLAR.WorstCase.reversibleAction
+namespace InfoLossLAR.WorstCase.reversibleAction.match_1
+end InfoLossLAR.WorstCase.reversibleAction.match_1
+namespace InfoLossLAR.WorstCase.roundingDirection
+end InfoLossLAR.WorstCase.roundingDirection
+namespace InfoLossLAR.WorstCase.roundingDirectionInteger
+end InfoLossLAR.WorstCase.roundingDirectionInteger
+namespace InfoLossLAR.WorstCase.selectorBitsExtension
+end InfoLossLAR.WorstCase.selectorBitsExtension
+namespace InfoLossLAR.WorstCase.selectorZero
+end InfoLossLAR.WorstCase.selectorZero
+namespace InfoLossLAR.WorstCase.selector_new_ne_old
+end InfoLossLAR.WorstCase.selector_new_ne_old
+namespace InfoLossLAR.WorstCase.selector_old_ne_new
+end InfoLossLAR.WorstCase.selector_old_ne_new
+namespace InfoLossLAR.WorstCase.shiTof_T7
+end InfoLossLAR.WorstCase.shiTof_T7
+namespace InfoLossLAR.WorstCase.shiTof_layerOk_map
+end InfoLossLAR.WorstCase.shiTof_layerOk_map
+namespace InfoLossLAR.WorstCase.shiftCircuitWords
+end InfoLossLAR.WorstCase.shiftCircuitWords
+namespace InfoLossLAR.WorstCase.shiftInstructionWord
+end InfoLossLAR.WorstCase.shiftInstructionWord
+namespace InfoLossLAR.WorstCase.shiftWireWord
+end InfoLossLAR.WorstCase.shiftWireWord
+namespace InfoLossLAR.WorstCase.sourceValueAt
+end InfoLossLAR.WorstCase.sourceValueAt
+namespace InfoLossLAR.WorstCase.toffoliCircuit
+end InfoLossLAR.WorstCase.toffoliCircuit
+namespace InfoLossLAR.WorstCase.toffoliGates
+end InfoLossLAR.WorstCase.toffoliGates
+namespace InfoLossLAR.WorstCase.transportLaw
+end InfoLossLAR.WorstCase.transportLaw
+namespace InfoLossLAR.WorstCase.unaryPayload
+end InfoLossLAR.WorstCase.unaryPayload
+namespace InfoLossLAR.WorstCase.unifOn
+end InfoLossLAR.WorstCase.unifOn
+namespace InfoLossLAR.WorstCase.unifZeroFiber
+end InfoLossLAR.WorstCase.unifZeroFiber
+namespace InfoLossLAR.WorstCase.zeroFiber63
+end InfoLossLAR.WorstCase.zeroFiber63
+namespace InfoLossLAR.WorstCase.zeroFiber_prod_map_snd
+end InfoLossLAR.WorstCase.zeroFiber_prod_map_snd
+namespace Integration9_9
+end Integration9_9
+namespace Integration9_9.FairBitPadding
+end Integration9_9.FairBitPadding
+namespace Integration9_9.GenericBody
+end Integration9_9.GenericBody
+namespace Integration9_9.GenericBody.QueryProgram
+end Integration9_9.GenericBody.QueryProgram
+namespace Integration9_9.GenericBody.QueryProgram.mk
+end Integration9_9.GenericBody.QueryProgram.mk
+namespace Integration9_9.GenericBody.bodyAllSlots
+end Integration9_9.GenericBody.bodyAllSlots
+namespace Integration9_9.GenericBody.bodyAncPolynomial
+end Integration9_9.GenericBody.bodyAncPolynomial
+namespace Integration9_9.GenericBody.bodyAncSlots
+end Integration9_9.GenericBody.bodyAncSlots
+namespace Integration9_9.GenericBody.bodyCircuit
+end Integration9_9.GenericBody.bodyCircuit
+namespace Integration9_9.GenericBody.bodyDBundleSlots
+end Integration9_9.GenericBody.bodyDBundleSlots
+namespace Integration9_9.GenericBody.bodyDWidth
+end Integration9_9.GenericBody.bodyDWidth
+namespace Integration9_9.GenericBody.bodyDWidthPolynomial
+end Integration9_9.GenericBody.bodyDWidthPolynomial
+namespace Integration9_9.GenericBody.bodyDepthPolynomial
+end Integration9_9.GenericBody.bodyDepthPolynomial
+namespace Integration9_9.GenericBody.bodyFamily
+end Integration9_9.GenericBody.bodyFamily
+namespace Integration9_9.GenericBody.bodyFlagAddresses
+end Integration9_9.GenericBody.bodyFlagAddresses
+namespace Integration9_9.GenericBody.bodyPayloadAddresses
+end Integration9_9.GenericBody.bodyPayloadAddresses
+namespace Integration9_9.GenericBody.bodyPreSlots
+end Integration9_9.GenericBody.bodyPreSlots
+namespace Integration9_9.GenericBody.bodyPreparedBooleanFamily
+end Integration9_9.GenericBody.bodyPreparedBooleanFamily
+namespace Integration9_9.GenericBody.bodyQuantumWordLayers
+end Integration9_9.GenericBody.bodyQuantumWordLayers
+namespace Integration9_9.GenericBody.bodySelectorBooleanFamily
+end Integration9_9.GenericBody.bodySelectorBooleanFamily
+namespace Integration9_9.GenericBody.bodyWidth
+end Integration9_9.GenericBody.bodyWidth
+namespace Integration9_9.GenericBody.bodyZeroWord
+end Integration9_9.GenericBody.bodyZeroWord
+namespace Integration9_9.GenericBodySemantics
+end Integration9_9.GenericBodySemantics
+namespace Integration9_9.GenericBodySemantics.QuerySpecification
+end Integration9_9.GenericBodySemantics.QuerySpecification
+namespace Integration9_9.GenericBodySemantics.QuerySpecification.mk
+end Integration9_9.GenericBodySemantics.QuerySpecification.mk
+namespace Integration9_9.GenericBodySemantics.castBodyState
+end Integration9_9.GenericBodySemantics.castBodyState
+namespace Integration9_9.GenericBodySemantics.queryOutputOfProgram
+end Integration9_9.GenericBodySemantics.queryOutputOfProgram
+namespace Integration9_9.LARCoinLayout
+end Integration9_9.LARCoinLayout
+namespace Integration9_9.LARCoinLayout.bodyAllSlots
+end Integration9_9.LARCoinLayout.bodyAllSlots
+namespace Integration9_9.LARCoinLayout.bodyAncPolynomial
+end Integration9_9.LARCoinLayout.bodyAncPolynomial
+namespace Integration9_9.LARCoinLayout.bodyAncSlots
+end Integration9_9.LARCoinLayout.bodyAncSlots
+namespace Integration9_9.LARCoinLayout.bodyCircuit
+end Integration9_9.LARCoinLayout.bodyCircuit
+namespace Integration9_9.LARCoinLayout.bodyDBundleSlots
+end Integration9_9.LARCoinLayout.bodyDBundleSlots
+namespace Integration9_9.LARCoinLayout.bodyDWidth
+end Integration9_9.LARCoinLayout.bodyDWidth
+namespace Integration9_9.LARCoinLayout.bodyDWidthPolynomial
+end Integration9_9.LARCoinLayout.bodyDWidthPolynomial
+namespace Integration9_9.LARCoinLayout.bodyDepthPolynomial
+end Integration9_9.LARCoinLayout.bodyDepthPolynomial
+namespace Integration9_9.LARCoinLayout.bodyFamily
+end Integration9_9.LARCoinLayout.bodyFamily
+namespace Integration9_9.LARCoinLayout.bodyFlagAddresses
+end Integration9_9.LARCoinLayout.bodyFlagAddresses
+namespace Integration9_9.LARCoinLayout.bodyPayloadAddresses
+end Integration9_9.LARCoinLayout.bodyPayloadAddresses
+namespace Integration9_9.LARCoinLayout.bodyPreSlots
+end Integration9_9.LARCoinLayout.bodyPreSlots
+namespace Integration9_9.LARCoinLayout.bodyPreparedBooleanFamily
+end Integration9_9.LARCoinLayout.bodyPreparedBooleanFamily
+namespace Integration9_9.LARCoinLayout.bodyQuantumWordLayers
+end Integration9_9.LARCoinLayout.bodyQuantumWordLayers
+namespace Integration9_9.LARCoinLayout.bodyQueryOutput
+end Integration9_9.LARCoinLayout.bodyQueryOutput
+namespace Integration9_9.LARCoinLayout.bodySelectorBooleanFamily
+end Integration9_9.LARCoinLayout.bodySelectorBooleanFamily
+namespace Integration9_9.LARCoinLayout.bodyWidth
+end Integration9_9.LARCoinLayout.bodyWidth
+namespace Integration9_9.LARCoinLayout.bodyZeroWord
+end Integration9_9.LARCoinLayout.bodyZeroWord
+namespace Integration9_9.LARCoinLayout.castBodyCircuit
+end Integration9_9.LARCoinLayout.castBodyCircuit
+namespace Integration9_9.LARCoinLayout.castBodyState
+end Integration9_9.LARCoinLayout.castBodyState
+namespace Integration9_9.LARCoinLayout.coinFirstQueryBudget
+end Integration9_9.LARCoinLayout.coinFirstQueryBudget
+namespace Integration9_9.LARCoinLayout.encodeQueryOutput
+end Integration9_9.LARCoinLayout.encodeQueryOutput
+namespace Integration9_9.LARCoinLayout.queryFlagAddresses
+end Integration9_9.LARCoinLayout.queryFlagAddresses
+namespace Integration9_9.LARCoinLayout.queryOutputSlots
+end Integration9_9.LARCoinLayout.queryOutputSlots
+namespace Integration9_9.LARCoinLayout.queryPayloadAddresses
+end Integration9_9.LARCoinLayout.queryPayloadAddresses
+namespace Integration9_9.LARCoinLayout.queryWireRequest
+end Integration9_9.LARCoinLayout.queryWireRequest
+namespace Integration9_9.LARCoinLayout.queryWireSlots
+end Integration9_9.LARCoinLayout.queryWireSlots
+namespace Integration9_9.LARCoinMachine
+end Integration9_9.LARCoinMachine
+namespace Integration9_9.LARCoinMachine.decodeBaseQ
+end Integration9_9.LARCoinMachine.decodeBaseQ
+namespace Integration9_9.LARCoinMachine.powerFold_bound
+end Integration9_9.LARCoinMachine.powerFold_bound
+namespace Integration9_9.LARCoinMachine.powerStep
+end Integration9_9.LARCoinMachine.powerStep
+namespace Integration9_9.LARCoinMachine.powerStep_length
+end Integration9_9.LARCoinMachine.powerStep_length
+namespace Integration9_9.LARCoinMachine.powerWithSlots
+end Integration9_9.LARCoinMachine.powerWithSlots
+namespace Integration9_9.LARPlatformEncoding
+end Integration9_9.LARPlatformEncoding
+namespace Integration9_9.LARPlatformEncoding.binarySlots
+end Integration9_9.LARPlatformEncoding.binarySlots
+namespace Integration9_9.LARPlatformEncoding.list_length_le_codes
+end Integration9_9.LARPlatformEncoding.list_length_le_codes
+namespace Integration9_9.LARPlatformEncoding.markedState_length
+end Integration9_9.LARPlatformEncoding.markedState_length
+namespace Integration9_9.LARPlatformEncoding.markedStep
+end Integration9_9.LARPlatformEncoding.markedStep
+namespace Integration9_9.LARPlatformEncoding.markedStep_bound
+end Integration9_9.LARPlatformEncoding.markedStep_bound
+namespace Integration9_9.LARPlatformEncoding.marked_fold_rest_bound
+end Integration9_9.LARPlatformEncoding.marked_fold_rest_bound
+namespace Integration9_9.LARPlatformEncoding.readB
+end Integration9_9.LARPlatformEncoding.readB
+namespace Integration9_9.LARPlatformEncoding.readInput
+end Integration9_9.LARPlatformEncoding.readInput
+namespace Integration9_9.LARPlatformEncoding.readMarked
+end Integration9_9.LARPlatformEncoding.readMarked
+namespace Integration9_9.LARPlatformEncoding.readObservedInput
+end Integration9_9.LARPlatformEncoding.readObservedInput
+namespace Integration9_9.LARPlatformEncoding.readParameters
+end Integration9_9.LARPlatformEncoding.readParameters
+namespace Integration9_9.LARPlatformEncoding.readS
+end Integration9_9.LARPlatformEncoding.readS
+namespace Integration9_9.LARPlatformEncoding.readSample
+end Integration9_9.LARPlatformEncoding.readSample
+namespace Integration9_9.LARPlatformEncoding.serializeBinaryWords
+end Integration9_9.LARPlatformEncoding.serializeBinaryWords
+namespace Integration9_9.LARPlatformEncoding.serializeMatrix
+end Integration9_9.LARPlatformEncoding.serializeMatrix
+namespace Integration9_9.LARPlatformEncoding.serializeObservedInput
+end Integration9_9.LARPlatformEncoding.serializeObservedInput
+namespace Integration9_9.LARPlatformEncoding.serializeSample
+end Integration9_9.LARPlatformEncoding.serializeSample
+namespace Integration9_9.LARPlatformEncoding.serializeTable
+end Integration9_9.LARPlatformEncoding.serializeTable
+namespace Integration9_9.LARPlatformEncoding.serializeVector
+end Integration9_9.LARPlatformEncoding.serializeVector
+namespace Integration9_9.LARRankOneMachine
+end Integration9_9.LARRankOneMachine
+namespace Integration9_9.LARRankOneMachine.boundedRankOneStringPre
+end Integration9_9.LARRankOneMachine.boundedRankOneStringPre
+namespace Integration9_9.LARRankOneMachine.directionNumber
+end Integration9_9.LARRankOneMachine.directionNumber
+namespace Integration9_9.LARRankOneMachine.observedAuxiliarySlots
+end Integration9_9.LARRankOneMachine.observedAuxiliarySlots
+namespace Integration9_9.LARRankOneMachine.observedJointSlots
+end Integration9_9.LARRankOneMachine.observedJointSlots
+namespace Integration9_9.LARRankOneMachine.rankOneNaturalEntry
+end Integration9_9.LARRankOneMachine.rankOneNaturalEntry
+namespace Integration9_9.LARRankOneMachine.rankOneNaturalSample
+end Integration9_9.LARRankOneMachine.rankOneNaturalSample
+namespace Integration9_9.LARRankOneMachine.readCoinObserved
+end Integration9_9.LARRankOneMachine.readCoinObserved
+namespace Integration9_9.LARRankOneMachine.renderBoundedContext
+end Integration9_9.LARRankOneMachine.renderBoundedContext
+namespace Integration9_9.RandomizedCircuit
+end Integration9_9.RandomizedCircuit
+namespace Integration9_9.RandomizedCircuit.allSlots
+end Integration9_9.RandomizedCircuit.allSlots
+namespace Integration9_9.RandomizedCircuit.branchOutput
+end Integration9_9.RandomizedCircuit.branchOutput
+namespace Integration9_9.RandomizedCircuit.circuit
+end Integration9_9.RandomizedCircuit.circuit
+namespace Integration9_9.RandomizedCircuit.copyGates
+end Integration9_9.RandomizedCircuit.copyGates
+namespace Integration9_9.RandomizedCircuit.copySources
+end Integration9_9.RandomizedCircuit.copySources
+namespace Integration9_9.RandomizedCircuit.family
+end Integration9_9.RandomizedCircuit.family
+namespace Integration9_9.RandomizedCircuit.hadamardCircuit
+end Integration9_9.RandomizedCircuit.hadamardCircuit
+namespace Integration9_9.RandomizedCircuit.output
+end Integration9_9.RandomizedCircuit.output
+namespace Integration9_9.RandomizedCircuit.passOutput
+end Integration9_9.RandomizedCircuit.passOutput
+namespace Integration9_9.RandomizedCircuit.queryCircuit
+end Integration9_9.RandomizedCircuit.queryCircuit
+namespace Integration9_9.RandomizedCircuit.width
+end Integration9_9.RandomizedCircuit.width
+namespace Integration9_9.RandomizedCircuit.workLength
+end Integration9_9.RandomizedCircuit.workLength
+namespace Integration9_9.TM2AdditionFrontend
+end Integration9_9.TM2AdditionFrontend
+namespace Integration9_9.TM2AdditionFrontend.Alphabet
+end Integration9_9.TM2AdditionFrontend.Alphabet
+namespace Integration9_9.TM2AdditionFrontend.Data
+end Integration9_9.TM2AdditionFrontend.Data
+namespace Integration9_9.TM2AdditionFrontend.Data.mk
+end Integration9_9.TM2AdditionFrontend.Data.mk
+namespace Integration9_9.TM2AdditionFrontend.Data.store
+end Integration9_9.TM2AdditionFrontend.Data.store
+namespace Integration9_9.TM2AdditionFrontend.Label
+end Integration9_9.TM2AdditionFrontend.Label
+namespace Integration9_9.TM2AdditionFrontend.Label.drain
+end Integration9_9.TM2AdditionFrontend.Label.drain
+namespace Integration9_9.TM2AdditionFrontend.Label.read
+end Integration9_9.TM2AdditionFrontend.Label.read
+namespace Integration9_9.TM2AdditionFrontend.Label.revLeft
+end Integration9_9.TM2AdditionFrontend.Label.revLeft
+namespace Integration9_9.TM2AdditionFrontend.Label.revOut
+end Integration9_9.TM2AdditionFrontend.Label.revOut
+namespace Integration9_9.TM2AdditionFrontend.Label.revRight
+end Integration9_9.TM2AdditionFrontend.Label.revRight
+namespace Integration9_9.TM2AdditionFrontend.Label.zip
+end Integration9_9.TM2AdditionFrontend.Label.zip
+namespace Integration9_9.TM2AdditionFrontend.Stack
+end Integration9_9.TM2AdditionFrontend.Stack
+namespace Integration9_9.TM2AdditionFrontend.Stack.input
+end Integration9_9.TM2AdditionFrontend.Stack.input
+namespace Integration9_9.TM2AdditionFrontend.Stack.left
+end Integration9_9.TM2AdditionFrontend.Stack.left
+namespace Integration9_9.TM2AdditionFrontend.Stack.leftRev
+end Integration9_9.TM2AdditionFrontend.Stack.leftRev
+namespace Integration9_9.TM2AdditionFrontend.Stack.output
+end Integration9_9.TM2AdditionFrontend.Stack.output
+namespace Integration9_9.TM2AdditionFrontend.Stack.pairRev
+end Integration9_9.TM2AdditionFrontend.Stack.pairRev
+namespace Integration9_9.TM2AdditionFrontend.Stack.right
+end Integration9_9.TM2AdditionFrontend.Stack.right
+namespace Integration9_9.TM2AdditionFrontend.Stack.rightRev
+end Integration9_9.TM2AdditionFrontend.Stack.rightRev
+namespace Integration9_9.TM2AdditionFrontend.addString
+end Integration9_9.TM2AdditionFrontend.addString
+namespace Integration9_9.TM2AdditionFrontend.decode
+end Integration9_9.TM2AdditionFrontend.decode
+namespace Integration9_9.TM2AdditionFrontend.frontend
+end Integration9_9.TM2AdditionFrontend.frontend
+namespace Integration9_9.TM2AdditionFrontend.getRev
+end Integration9_9.TM2AdditionFrontend.getRev
+namespace Integration9_9.TM2AdditionFrontend.instDecidableEqLabel
+end Integration9_9.TM2AdditionFrontend.instDecidableEqLabel
+namespace Integration9_9.TM2AdditionFrontend.instDecidableEqLabel.decEq
+end Integration9_9.TM2AdditionFrontend.instDecidableEqLabel.decEq
+namespace Integration9_9.TM2AdditionFrontend.instFintypeLabel
+end Integration9_9.TM2AdditionFrontend.instFintypeLabel
+namespace Integration9_9.TM2AdditionFrontend.marked
+end Integration9_9.TM2AdditionFrontend.marked
+namespace Integration9_9.TM2AdditionFrontend.nextRead
+end Integration9_9.TM2AdditionFrontend.nextRead
+namespace Integration9_9.TM2AdditionFrontend.operandCode
+end Integration9_9.TM2AdditionFrontend.operandCode
+namespace Integration9_9.TM2AdditionFrontend.program
+end Integration9_9.TM2AdditionFrontend.program
+namespace Integration9_9.TM2AdditionFrontend.readDigits
+end Integration9_9.TM2AdditionFrontend.readDigits
+namespace Integration9_9.TM2AdditionFrontend.readDigits.match_1
+end Integration9_9.TM2AdditionFrontend.readDigits.match_1
+namespace Integration9_9.TM2AdditionFrontend.rippleComputer
+end Integration9_9.TM2AdditionFrontend.rippleComputer
+namespace Integration9_9.TM2AdditionFrontend.setRev
+end Integration9_9.TM2AdditionFrontend.setRev
+namespace Integration9_9.TM2BinaryAddition
+end Integration9_9.TM2BinaryAddition
+namespace Integration9_9.TM2BinaryAddition.Alphabet
+end Integration9_9.TM2BinaryAddition.Alphabet
+namespace Integration9_9.TM2BinaryAddition.Stack
+end Integration9_9.TM2BinaryAddition.Stack
+namespace Integration9_9.TM2BinaryAddition.Stack.buffer
+end Integration9_9.TM2BinaryAddition.Stack.buffer
+namespace Integration9_9.TM2BinaryAddition.Stack.input
+end Integration9_9.TM2BinaryAddition.Stack.input
+namespace Integration9_9.TM2BinaryAddition.Stack.output
+end Integration9_9.TM2BinaryAddition.Stack.output
+namespace Integration9_9.TM2BinaryAddition.padPairs
+end Integration9_9.TM2BinaryAddition.padPairs
+namespace Integration9_9.TM2BinaryAddition.padPairs.match_1
+end Integration9_9.TM2BinaryAddition.padPairs.match_1
+namespace Integration9_9.TM2BinaryAddition.ripple
+end Integration9_9.TM2BinaryAddition.ripple
+namespace Integration9_9.TM2BinaryAddition.ripple.match_1
+end Integration9_9.TM2BinaryAddition.ripple.match_1
+namespace Integration9_9.TM2BinaryComparison
+end Integration9_9.TM2BinaryComparison
+namespace Integration9_9.TM2BinaryComparison.Alphabet
+end Integration9_9.TM2BinaryComparison.Alphabet
+namespace Integration9_9.TM2BinaryComparison.Flags
+end Integration9_9.TM2BinaryComparison.Flags
+namespace Integration9_9.TM2BinaryComparison.Flags.mk
+end Integration9_9.TM2BinaryComparison.Flags.mk
+namespace Integration9_9.TM2BinaryComparison.Stack
+end Integration9_9.TM2BinaryComparison.Stack
+namespace Integration9_9.TM2BinaryComparison.Stack.input
+end Integration9_9.TM2BinaryComparison.Stack.input
+namespace Integration9_9.TM2BinaryComparison.Stack.output
+end Integration9_9.TM2BinaryComparison.Stack.output
+namespace Integration9_9.TM2BinaryComparison.anyBit
+end Integration9_9.TM2BinaryComparison.anyBit
+namespace Integration9_9.TM2BinaryComparison.equalPair
+end Integration9_9.TM2BinaryComparison.equalPair
+namespace Integration9_9.TM2BinaryComparison.equalReadout
+end Integration9_9.TM2BinaryComparison.equalReadout
+namespace Integration9_9.TM2BinaryComparison.instDecidableEqFlags
+end Integration9_9.TM2BinaryComparison.instDecidableEqFlags
+namespace Integration9_9.TM2BinaryComparison.instDecidableEqFlags.decEq
+end Integration9_9.TM2BinaryComparison.instDecidableEqFlags.decEq
+namespace Integration9_9.TM2BinaryComparison.instFintypeFlags
+end Integration9_9.TM2BinaryComparison.instFintypeFlags
+namespace Integration9_9.TM2BinaryComparison.lePair
+end Integration9_9.TM2BinaryComparison.lePair
+namespace Integration9_9.TM2BinaryComparison.leReadout
+end Integration9_9.TM2BinaryComparison.leReadout
+namespace Integration9_9.TM2BinaryComparison.lessPair
+end Integration9_9.TM2BinaryComparison.lessPair
+namespace Integration9_9.TM2BinaryComparison.pairString
+end Integration9_9.TM2BinaryComparison.pairString
+namespace Integration9_9.TM2BinaryComparison.rawString
+end Integration9_9.TM2BinaryComparison.rawString
+namespace Integration9_9.TM2BinaryComparison.scan
+end Integration9_9.TM2BinaryComparison.scan
+namespace Integration9_9.TM2BinaryComparison.scan.match_1
+end Integration9_9.TM2BinaryComparison.scan.match_1
+namespace Integration9_9.TM2BinaryComparison.update
+end Integration9_9.TM2BinaryComparison.update
+namespace Integration9_9.TM2Canonical
+end Integration9_9.TM2Canonical
+namespace Integration9_9.TM2Canonical.Label
+end Integration9_9.TM2Canonical.Label
+namespace Integration9_9.TM2Canonical.Label.copy
+end Integration9_9.TM2Canonical.Label.copy
+namespace Integration9_9.TM2Canonical.Label.reverse
+end Integration9_9.TM2Canonical.Label.reverse
+namespace Integration9_9.TM2Canonical.Label.trim
+end Integration9_9.TM2Canonical.Label.trim
+namespace Integration9_9.TM2Canonical.Stack
+end Integration9_9.TM2Canonical.Stack
+namespace Integration9_9.TM2Canonical.Stack.buffer
+end Integration9_9.TM2Canonical.Stack.buffer
+namespace Integration9_9.TM2Canonical.Stack.input
+end Integration9_9.TM2Canonical.Stack.input
+namespace Integration9_9.TM2Canonical.Stack.output
+end Integration9_9.TM2Canonical.Stack.output
+namespace Integration9_9.TM2Canonical.canonical
+end Integration9_9.TM2Canonical.canonical
+namespace Integration9_9.TM2Canonical.program
+end Integration9_9.TM2Canonical.program
+namespace Integration9_9.TM2Canonical.store
+end Integration9_9.TM2Canonical.store
+namespace Integration9_9.TM2Composition
+end Integration9_9.TM2Composition
+namespace Integration9_9.TM2Composition.Alphabet
+end Integration9_9.TM2Composition.Alphabet
+namespace Integration9_9.TM2Composition.Alphabet.match_1
+end Integration9_9.TM2Composition.Alphabet.match_1
+namespace Integration9_9.TM2Composition.canonical
+end Integration9_9.TM2Composition.canonical
+namespace Integration9_9.TM2Composition.leftStack
+end Integration9_9.TM2Composition.leftStack
+namespace Integration9_9.TM2Composition.leftSymbol
+end Integration9_9.TM2Composition.leftSymbol
+namespace Integration9_9.TM2Composition.machine
+end Integration9_9.TM2Composition.machine
+namespace Integration9_9.TM2Composition.middle
+end Integration9_9.TM2Composition.middle
+namespace Integration9_9.TM2Composition.program
+end Integration9_9.TM2Composition.program
+namespace Integration9_9.TM2Composition.rightStack
+end Integration9_9.TM2Composition.rightStack
+namespace Integration9_9.TM2Composition.rightSymbol
+end Integration9_9.TM2Composition.rightSymbol
+namespace Integration9_9.TM2DynamicIntegerEncoding
+end Integration9_9.TM2DynamicIntegerEncoding
+namespace Integration9_9.TM2DynamicIntegerEncoding.Label
+end Integration9_9.TM2DynamicIntegerEncoding.Label
+namespace Integration9_9.TM2DynamicIntegerEncoding.Label.copy
+end Integration9_9.TM2DynamicIntegerEncoding.Label.copy
+namespace Integration9_9.TM2DynamicIntegerEncoding.Label.header
+end Integration9_9.TM2DynamicIntegerEncoding.Label.header
+namespace Integration9_9.TM2DynamicIntegerEncoding.Label.reverse
+end Integration9_9.TM2DynamicIntegerEncoding.Label.reverse
+namespace Integration9_9.TM2DynamicIntegerEncoding.Label.trim
+end Integration9_9.TM2DynamicIntegerEncoding.Label.trim
+namespace Integration9_9.TM2DynamicIntegerEncoding.Stack
+end Integration9_9.TM2DynamicIntegerEncoding.Stack
+namespace Integration9_9.TM2DynamicIntegerEncoding.Stack.buffer
+end Integration9_9.TM2DynamicIntegerEncoding.Stack.buffer
+namespace Integration9_9.TM2DynamicIntegerEncoding.Stack.input
+end Integration9_9.TM2DynamicIntegerEncoding.Stack.input
+namespace Integration9_9.TM2DynamicIntegerEncoding.Stack.output
+end Integration9_9.TM2DynamicIntegerEncoding.Stack.output
+namespace Integration9_9.TM2DynamicIntegerEncoding.encode
+end Integration9_9.TM2DynamicIntegerEncoding.encode
+namespace Integration9_9.TM2DynamicIntegerEncoding.pack
+end Integration9_9.TM2DynamicIntegerEncoding.pack
+namespace Integration9_9.TM2DynamicIntegerEncoding.program
+end Integration9_9.TM2DynamicIntegerEncoding.program
+namespace Integration9_9.TM2DynamicIntegerEncoding.rawCode
+end Integration9_9.TM2DynamicIntegerEncoding.rawCode
+namespace Integration9_9.TM2DynamicIntegerEncoding.store
+end Integration9_9.TM2DynamicIntegerEncoding.store
+namespace Integration9_9.TM2NativeArithmetic
+end Integration9_9.TM2NativeArithmetic
+namespace Integration9_9.TM2NativeArithmetic.ratFields
+end Integration9_9.TM2NativeArithmetic.ratFields
+namespace Integration9_9.TM2NativeArithmetic.ratFieldsCode
+end Integration9_9.TM2NativeArithmetic.ratFieldsCode
+namespace Integration9_9.TM2NativeArithmetic.rawRatCode
+end Integration9_9.TM2NativeArithmetic.rawRatCode
+namespace Integration9_9.TM2NativePrime
+end Integration9_9.TM2NativePrime
+namespace Integration9_9.TM2NativePrime.candidateTest
+end Integration9_9.TM2NativePrime.candidateTest
+namespace Integration9_9.TM2NativePrime.doubleSlots
+end Integration9_9.TM2NativePrime.doubleSlots
+namespace Integration9_9.TM2NativePrime.powerSlots
+end Integration9_9.TM2NativePrime.powerSlots
+namespace Integration9_9.TM2NativePrime.powerSlots.match_1
+end Integration9_9.TM2NativePrime.powerSlots.match_1
+namespace Integration9_9.TM2NativePrime.primeTrial
+end Integration9_9.TM2NativePrime.primeTrial
+namespace Integration9_9.TM2NativePrime.thresholdSlots
+end Integration9_9.TM2NativePrime.thresholdSlots
+namespace Integration9_9.TM2NativePrime.upperSlots
+end Integration9_9.TM2NativePrime.upperSlots
+namespace Integration9_9.TM2OutputEncoding
+end Integration9_9.TM2OutputEncoding
+namespace Integration9_9.TM2OutputEncoding.Stack
+end Integration9_9.TM2OutputEncoding.Stack
+namespace Integration9_9.TM2OutputEncoding.Stack.buffer
+end Integration9_9.TM2OutputEncoding.Stack.buffer
+namespace Integration9_9.TM2OutputEncoding.Stack.input
+end Integration9_9.TM2OutputEncoding.Stack.input
+namespace Integration9_9.TM2OutputEncoding.Stack.output
+end Integration9_9.TM2OutputEncoding.Stack.output
+namespace Integration9_9.TM2OutputEncoding.addSign
+end Integration9_9.TM2OutputEncoding.addSign
+namespace Integration9_9.TM2OutputEncoding.encodeInteger
+end Integration9_9.TM2OutputEncoding.encodeInteger
+namespace Integration9_9.TM2OutputEncoding.encodeNatural
+end Integration9_9.TM2OutputEncoding.encodeNatural
+namespace Integration9_9.TM2OutputEncoding.render
+end Integration9_9.TM2OutputEncoding.render
+namespace Integration9_9.TM2OutputEncoding.store
+end Integration9_9.TM2OutputEncoding.store
+namespace Integration9_9.TM2OutputLength
+end Integration9_9.TM2OutputLength
+namespace Integration9_9.TM2OutputLength.pushBound
+end Integration9_9.TM2OutputLength.pushBound
+namespace Integration9_9.TM2OutputLength.pushBound.match_1
+end Integration9_9.TM2OutputLength.pushBound.match_1
+namespace Integration9_9.TM2PairUnframe
+end Integration9_9.TM2PairUnframe
+namespace Integration9_9.TM2PairUnframe.Data
+end Integration9_9.TM2PairUnframe.Data
+namespace Integration9_9.TM2PairUnframe.Data.mk
+end Integration9_9.TM2PairUnframe.Data.mk
+namespace Integration9_9.TM2PairUnframe.Data.store
+end Integration9_9.TM2PairUnframe.Data.store
+namespace Integration9_9.TM2PairUnframe.Label
+end Integration9_9.TM2PairUnframe.Label
+namespace Integration9_9.TM2PairUnframe.Label.check
+end Integration9_9.TM2PairUnframe.Label.check
+namespace Integration9_9.TM2PairUnframe.Label.clearCounter
+end Integration9_9.TM2PairUnframe.Label.clearCounter
+namespace Integration9_9.TM2PairUnframe.Label.clearRev
+end Integration9_9.TM2PairUnframe.Label.clearRev
+namespace Integration9_9.TM2PairUnframe.Label.consume
+end Integration9_9.TM2PairUnframe.Label.consume
+namespace Integration9_9.TM2PairUnframe.Label.dec
+end Integration9_9.TM2PairUnframe.Label.dec
+namespace Integration9_9.TM2PairUnframe.Label.drain
+end Integration9_9.TM2PairUnframe.Label.drain
+namespace Integration9_9.TM2PairUnframe.Label.finish
+end Integration9_9.TM2PairUnframe.Label.finish
+namespace Integration9_9.TM2PairUnframe.Label.read
+end Integration9_9.TM2PairUnframe.Label.read
+namespace Integration9_9.TM2PairUnframe.Label.revDec
+end Integration9_9.TM2PairUnframe.Label.revDec
+namespace Integration9_9.TM2PairUnframe.Label.revOut
+end Integration9_9.TM2PairUnframe.Label.revOut
+namespace Integration9_9.TM2PairUnframe.Label.revPrefix
+end Integration9_9.TM2PairUnframe.Label.revPrefix
+namespace Integration9_9.TM2PairUnframe.Stack
+end Integration9_9.TM2PairUnframe.Stack
+namespace Integration9_9.TM2PairUnframe.Stack.counter
+end Integration9_9.TM2PairUnframe.Stack.counter
+namespace Integration9_9.TM2PairUnframe.Stack.input
+end Integration9_9.TM2PairUnframe.Stack.input
+namespace Integration9_9.TM2PairUnframe.Stack.outRev
+end Integration9_9.TM2PairUnframe.Stack.outRev
+namespace Integration9_9.TM2PairUnframe.Stack.output
+end Integration9_9.TM2PairUnframe.Stack.output
+namespace Integration9_9.TM2PairUnframe.Stack.rev
+end Integration9_9.TM2PairUnframe.Stack.rev
+namespace Integration9_9.TM2PairUnframe.addPair
+end Integration9_9.TM2PairUnframe.addPair
+namespace Integration9_9.TM2PairUnframe.frameTime
+end Integration9_9.TM2PairUnframe.frameTime
+namespace Integration9_9.TM2PairUnframe.instDecidableEqLabel
+end Integration9_9.TM2PairUnframe.instDecidableEqLabel
+namespace Integration9_9.TM2PairUnframe.instDecidableEqLabel.decEq
+end Integration9_9.TM2PairUnframe.instDecidableEqLabel.decEq
+namespace Integration9_9.TM2PairUnframe.instFintypeLabel
+end Integration9_9.TM2PairUnframe.instFintypeLabel
+namespace Integration9_9.TM2PairUnframe.next
+end Integration9_9.TM2PairUnframe.next
+namespace Integration9_9.TM2PairUnframe.readFrame
+end Integration9_9.TM2PairUnframe.readFrame
+namespace Integration9_9.TM2PairUnframe.relax
+end Integration9_9.TM2PairUnframe.relax
+namespace Integration9_9.TM2PairUnframe.revLabel
+end Integration9_9.TM2PairUnframe.revLabel
+namespace Integration9_9.TM2PairUnframe.revNext
+end Integration9_9.TM2PairUnframe.revNext
+namespace Integration9_9.TM2PairUnframe.singleStep
+end Integration9_9.TM2PairUnframe.singleStep
+namespace Integration9_9.TM2PairUnframe.unpack
+end Integration9_9.TM2PairUnframe.unpack
+namespace Integration9_9.TM2PolynomialBudget
+end Integration9_9.TM2PolynomialBudget
+namespace Integration9_9.TM2Simulation
+end Integration9_9.TM2Simulation
+namespace Integration9_9.TM2Simulation.ControlLens
+end Integration9_9.TM2Simulation.ControlLens
+namespace Integration9_9.TM2Simulation.ControlLens.mk
+end Integration9_9.TM2Simulation.ControlLens.mk
+namespace Integration9_9.TM2Simulation.singleStack
+end Integration9_9.TM2Simulation.singleStack
+namespace Integration9_9.TM2Simulation.statement
+end Integration9_9.TM2Simulation.statement
+namespace Integration9_9.TM2Simulation.statement.match_1
+end Integration9_9.TM2Simulation.statement.match_1
+namespace Integration9_9.TM2Simulation.statement.match_3
+end Integration9_9.TM2Simulation.statement.match_3
+namespace Integration9_9.TM2StockLists
+end Integration9_9.TM2StockLists
+namespace Integration9_9.TM2StockLoop
+end Integration9_9.TM2StockLoop
+namespace Integration9_9.TM2StockLoop.Phase
+end Integration9_9.TM2StockLoop.Phase
+namespace Integration9_9.TM2StockLoop.Phase.copy
+end Integration9_9.TM2StockLoop.Phase.copy
+namespace Integration9_9.TM2StockLoop.Phase.feed
+end Integration9_9.TM2StockLoop.Phase.feed
+namespace Integration9_9.TM2StockLoop.Phase.finish
+end Integration9_9.TM2StockLoop.Phase.finish
+namespace Integration9_9.TM2StockLoop.Phase.inputReverse
+end Integration9_9.TM2StockLoop.Phase.inputReverse
+namespace Integration9_9.TM2StockLoop.Phase.inspect
+end Integration9_9.TM2StockLoop.Phase.inspect
+namespace Integration9_9.TM2StockLoop.callCfg
+end Integration9_9.TM2StockLoop.callCfg
+namespace Integration9_9.TM2StockLoop.driver
+end Integration9_9.TM2StockLoop.driver
+namespace Integration9_9.TM2StockLoop.driver.match_1
+end Integration9_9.TM2StockLoop.driver.match_1
+namespace Integration9_9.TM2StockLoop.initial
+end Integration9_9.TM2StockLoop.initial
+namespace Integration9_9.TM2StockLoop.loopMachine
+end Integration9_9.TM2StockLoop.loopMachine
+namespace Integration9_9.TM2StockLoop.next
+end Integration9_9.TM2StockLoop.next
+namespace Integration9_9.TM2StockLoop.passTime
+end Integration9_9.TM2StockLoop.passTime
+namespace Integration9_9.TM2StockLoop.phaseCfg
+end Integration9_9.TM2StockLoop.phaseCfg
+namespace Integration9_9.TM2StockLoop.program
+end Integration9_9.TM2StockLoop.program
+namespace Integration9_9.TM2StockLoop.program.match_1
+end Integration9_9.TM2StockLoop.program.match_1
+namespace Integration9_9.TM2StockLoop.sizeBound
+end Integration9_9.TM2StockLoop.sizeBound
+namespace Integration9_9.TM2StockLoop.terminalCfg
+end Integration9_9.TM2StockLoop.terminalCfg
+namespace Integration9_9.TM2StockThread
+end Integration9_9.TM2StockThread
+namespace Integration9_9.TM2StockThread.Alphabet
+end Integration9_9.TM2StockThread.Alphabet
+namespace Integration9_9.TM2StockThread.Buffer
+end Integration9_9.TM2StockThread.Buffer
+namespace Integration9_9.TM2StockThread.Buffer.input
+end Integration9_9.TM2StockThread.Buffer.input
+namespace Integration9_9.TM2StockThread.Buffer.output
+end Integration9_9.TM2StockThread.Buffer.output
+namespace Integration9_9.TM2StockThread.Buffer.scratch
+end Integration9_9.TM2StockThread.Buffer.scratch
+namespace Integration9_9.TM2StockThread.Phase
+end Integration9_9.TM2StockThread.Phase
+namespace Integration9_9.TM2StockThread.Phase.contextForward
+end Integration9_9.TM2StockThread.Phase.contextForward
+namespace Integration9_9.TM2StockThread.Phase.contextReverse
+end Integration9_9.TM2StockThread.Phase.contextReverse
+namespace Integration9_9.TM2StockThread.Phase.feed
+end Integration9_9.TM2StockThread.Phase.feed
+namespace Integration9_9.TM2StockThread.Phase.finishReverse
+end Integration9_9.TM2StockThread.Phase.finishReverse
+namespace Integration9_9.TM2StockThread.Phase.parse
+end Integration9_9.TM2StockThread.Phase.parse
+namespace Integration9_9.TM2StockThread.Phase.quoteOutput
+end Integration9_9.TM2StockThread.Phase.quoteOutput
+namespace Integration9_9.TM2StockThread.callCfg
+end Integration9_9.TM2StockThread.callCfg
+namespace Integration9_9.TM2StockThread.driver
+end Integration9_9.TM2StockThread.driver
+namespace Integration9_9.TM2StockThread.driver.match_1
+end Integration9_9.TM2StockThread.driver.match_1
+namespace Integration9_9.TM2StockThread.fullStacks
+end Integration9_9.TM2StockThread.fullStacks
+namespace Integration9_9.TM2StockThread.fullStacks.match_1
+end Integration9_9.TM2StockThread.fullStacks.match_1
+namespace Integration9_9.TM2StockThread.initial
+end Integration9_9.TM2StockThread.initial
+namespace Integration9_9.TM2StockThread.nativeInput
+end Integration9_9.TM2StockThread.nativeInput
+namespace Integration9_9.TM2StockThread.nativeOutput
+end Integration9_9.TM2StockThread.nativeOutput
+namespace Integration9_9.TM2StockThread.next
+end Integration9_9.TM2StockThread.next
+namespace Integration9_9.TM2StockThread.phaseCfg
+end Integration9_9.TM2StockThread.phaseCfg
+namespace Integration9_9.TM2StockThread.program
+end Integration9_9.TM2StockThread.program
+namespace Integration9_9.TM2StockThread.program.match_1
+end Integration9_9.TM2StockThread.program.match_1
+namespace Integration9_9.TM2StockThread.quotedPayload_length
+end Integration9_9.TM2StockThread.quotedPayload_length
+namespace Integration9_9.TM2StockThread.terminalCfg
+end Integration9_9.TM2StockThread.terminalCfg
+namespace Integration9_9.TM2StockThread.threadedMachine
+end Integration9_9.TM2StockThread.threadedMachine
+namespace Integration9_9.TM2Subroutine
+end Integration9_9.TM2Subroutine
+namespace P2Mc1b72571
+end P2Mc1b72571
+open _root_.InfoLossLARNativeSupplements.h7fd26e43562bbe30.AFT.BinaryArithmetic.RationalBits renaming exists_code → AFT.BinaryArithmetic.RationalBits.exists_code
+open _root_.InfoLossLARNativeSupplements.h7fd26e43562bbe30.AFT.BinaryArithmetic.RationalBits renaming exists_code → _p2mNativeSupplement0
+open _root_.InfoLossLARNativeSupplements.hbc5d2d237f3bc4c8.AFT.BinaryArithmetic renaming bits_value → AFT.BinaryArithmetic.bits_value
+open _root_.InfoLossLARNativeSupplements.hbc5d2d237f3bc4c8.AFT.BinaryArithmetic renaming bits_value → _p2mNativeSupplement1
+open _root_.InfoLossLARNativeSupplements.h5a8ca90c605f85fc.AFT.CanonicalMoments renaming independent_embedding_expectation_general → AFT.CanonicalMoments.independent_embedding_expectation_general
+open _root_.InfoLossLARNativeSupplements.h5a8ca90c605f85fc.AFT.CanonicalMoments renaming independent_embedding_expectation_general → _p2mNativeSupplement2
+open _root_.InfoLossLARNativeSupplements.hf808c8dbbd952db7.AFT.CanonicalMoments renaming independent_equiv_expectation_general → AFT.CanonicalMoments.independent_equiv_expectation_general
+open _root_.InfoLossLARNativeSupplements.hf808c8dbbd952db7.AFT.CanonicalMoments renaming independent_equiv_expectation_general → _p2mNativeSupplement3
+open _root_.InfoLossLARNativeSupplements.h854528c9e123c6f3.AFT.RationalNumerics.HeightBound renaming div → AFT.RationalNumerics.HeightBound.div
+open _root_.InfoLossLARNativeSupplements.h854528c9e123c6f3.AFT.RationalNumerics.HeightBound renaming div → _p2mNativeSupplement4
+open _root_.InfoLossLARNativeSupplements.ha562531658b7642e.AFT.RationalNumerics.HeightBound renaming inv → AFT.RationalNumerics.HeightBound.inv
+open _root_.InfoLossLARNativeSupplements.ha562531658b7642e.AFT.RationalNumerics.HeightBound renaming inv → _p2mNativeSupplement5
+open _root_.InfoLossLARNativeSupplements.h4f5add37bf40c2da.AFT.RationalNumerics.HeightBound renaming mono → AFT.RationalNumerics.HeightBound.mono
+open _root_.InfoLossLARNativeSupplements.h4f5add37bf40c2da.AFT.RationalNumerics.HeightBound renaming mono → _p2mNativeSupplement6
+open _root_.InfoLossLARNativeSupplements.hec331a1b1191da2d.AFT.RationalNumerics.HeightBound renaming mul → AFT.RationalNumerics.HeightBound.mul
+open _root_.InfoLossLARNativeSupplements.hec331a1b1191da2d.AFT.RationalNumerics.HeightBound renaming mul → _p2mNativeSupplement7
+open _root_.InfoLossLARNativeSupplements.hca9f3ecea512145f.AFT.RationalNumerics.HeightBound renaming of_int → AFT.RationalNumerics.HeightBound.of_int
+open _root_.InfoLossLARNativeSupplements.hca9f3ecea512145f.AFT.RationalNumerics.HeightBound renaming of_int → _p2mNativeSupplement8
+open _root_.InfoLossLARNativeSupplements.h5b3dd70c728d6348.AFT.RationalNumerics.HeightBound renaming of_nat → AFT.RationalNumerics.HeightBound.of_nat
+open _root_.InfoLossLARNativeSupplements.h5b3dd70c728d6348.AFT.RationalNumerics.HeightBound renaming of_nat → _p2mNativeSupplement9
+open _root_.InfoLossLARNativeSupplements.h8fac5110874b5cd9.AFT.RationalNumerics.HeightBound renaming one → AFT.RationalNumerics.HeightBound.one
+open _root_.InfoLossLARNativeSupplements.h8fac5110874b5cd9.AFT.RationalNumerics.HeightBound renaming one → _p2mNativeSupplement10
+open _root_.InfoLossLARNativeSupplements.h90032182500c2e77.AFT.RationalNumerics.HeightBound renaming pow → AFT.RationalNumerics.HeightBound.pow
+open _root_.InfoLossLARNativeSupplements.h90032182500c2e77.AFT.RationalNumerics.HeightBound renaming pow → _p2mNativeSupplement11
+open _root_.InfoLossLARNativeSupplements.h6381918e2bfc67e4.AFT.RationalNumerics renaming arctanSum_error → AFT.RationalNumerics.arctanSum_error
+open _root_.InfoLossLARNativeSupplements.h6381918e2bfc67e4.AFT.RationalNumerics renaming arctanSum_error → _p2mNativeSupplement12
+open _root_.InfoLossLARNativeSupplements.h3497cf28d345cc71.AFT.RationalNumerics renaming arctan_term_bound → AFT.RationalNumerics.arctan_term_bound
+open _root_.InfoLossLARNativeSupplements.h3497cf28d345cc71.AFT.RationalNumerics renaming arctan_term_bound → _p2mNativeSupplement13
+open _root_.InfoLossLARNativeSupplements.had468f01f375d910.AFT.RationalNumerics renaming boundedRootList_nodup → AFT.RationalNumerics.boundedRootList_nodup
+open _root_.InfoLossLARNativeSupplements.had468f01f375d910.AFT.RationalNumerics renaming boundedRootList_nodup → _p2mNativeSupplement14
+open _root_.InfoLossLARNativeSupplements.h41ae6c8d47a51d34.AFT.RationalNumerics renaming commonDenominator_le → AFT.RationalNumerics.commonDenominator_le
+open _root_.InfoLossLARNativeSupplements.h41ae6c8d47a51d34.AFT.RationalNumerics renaming commonDenominator_le → _p2mNativeSupplement15
+open _root_.InfoLossLARNativeSupplements.h5f0d1be1226eed7f.AFT.RationalNumerics renaming commonDenominator_pos → AFT.RationalNumerics.commonDenominator_pos
+open _root_.InfoLossLARNativeSupplements.h5f0d1be1226eed7f.AFT.RationalNumerics renaming commonDenominator_pos → _p2mNativeSupplement16
+open _root_.InfoLossLARNativeSupplements.h1076ff82614707e5.AFT.RationalNumerics renaming commonNumerator_abs_le → AFT.RationalNumerics.commonNumerator_abs_le
+open _root_.InfoLossLARNativeSupplements.h1076ff82614707e5.AFT.RationalNumerics renaming commonNumerator_abs_le → _p2mNativeSupplement17
+open _root_.InfoLossLARNativeSupplements.h3827d5d7d51242c6.AFT.RationalNumerics renaming commonNumerator_cast → AFT.RationalNumerics.commonNumerator_cast
+open _root_.InfoLossLARNativeSupplements.h3827d5d7d51242c6.AFT.RationalNumerics renaming commonNumerator_cast → _p2mNativeSupplement18
+open _root_.InfoLossLARNativeSupplements.h4b0b2c49d14fd209.AFT.RationalNumerics renaming commonNumerator_div → AFT.RationalNumerics.commonNumerator_div
+open _root_.InfoLossLARNativeSupplements.h4b0b2c49d14fd209.AFT.RationalNumerics renaming commonNumerator_div → _p2mNativeSupplement19
+open _root_.InfoLossLARNativeSupplements.h2882c93186ab7cf8.AFT.RationalNumerics renaming denominator_dvd_common → AFT.RationalNumerics.denominator_dvd_common
+open _root_.InfoLossLARNativeSupplements.h2882c93186ab7cf8.AFT.RationalNumerics renaming denominator_dvd_common → _p2mNativeSupplement20
+open _root_.InfoLossLARNativeSupplements.h05d99dd2bef78a64.AFT.RationalNumerics renaming integerLinearIteration_abs_le → AFT.RationalNumerics.integerLinearIteration_abs_le
+open _root_.InfoLossLARNativeSupplements.h05d99dd2bef78a64.AFT.RationalNumerics renaming integerLinearIteration_abs_le → _p2mNativeSupplement21
+open _root_.InfoLossLARNativeSupplements.hc6ad092b2f522781.AFT.RationalNumerics renaming integerLinearIteration_exact → AFT.RationalNumerics.integerLinearIteration_exact
+open _root_.InfoLossLARNativeSupplements.hc6ad092b2f522781.AFT.RationalNumerics renaming integerLinearIteration_exact → _p2mNativeSupplement22
+open _root_.InfoLossLARNativeSupplements.hdcd54a4fdf95f258.AFT.RationalNumerics renaming integerLinearIteration_height → AFT.RationalNumerics.integerLinearIteration_height
+open _root_.InfoLossLARNativeSupplements.hdcd54a4fdf95f258.AFT.RationalNumerics renaming integerLinearIteration_height → _p2mNativeSupplement23
+open _root_.InfoLossLARNativeSupplements.he7db6c4ee6224eee.AFT.RationalNumerics renaming linearIteration_height → AFT.RationalNumerics.linearIteration_height
+open _root_.InfoLossLARNativeSupplements.he7db6c4ee6224eee.AFT.RationalNumerics renaming linearIteration_height → _p2mNativeSupplement24
+open _root_.InfoLossLARNativeSupplements.h18af7218e3ae5082.AFT.RationalNumerics renaming mem_boundedRootList → AFT.RationalNumerics.mem_boundedRootList
+open _root_.InfoLossLARNativeSupplements.h18af7218e3ae5082.AFT.RationalNumerics renaming mem_boundedRootList → _p2mNativeSupplement25
+open _root_.InfoLossLARNativeSupplements.h878260dd8e6c9a6e.AFT.RationalNumerics renaming piApprox_error → AFT.RationalNumerics.piApprox_error
+open _root_.InfoLossLARNativeSupplements.h878260dd8e6c9a6e.AFT.RationalNumerics renaming piApprox_error → _p2mNativeSupplement26
+open _root_.InfoLossLARNativeSupplements.h91d71a61f0497f7b.AFT.RationalNumerics renaming piApprox_le_five → AFT.RationalNumerics.piApprox_le_five
+open _root_.InfoLossLARNativeSupplements.h91d71a61f0497f7b.AFT.RationalNumerics renaming piApprox_le_five → _p2mNativeSupplement27
+open _root_.InfoLossLARNativeSupplements.hb0db73987b7b1eff.AFT.V7Calibration renaming actualPublicBodyChoice_nonempty → AFT.V7Calibration.actualPublicBodyChoice_nonempty
+open _root_.InfoLossLARNativeSupplements.hb0db73987b7b1eff.AFT.V7Calibration renaming actualPublicBodyChoice_nonempty → _p2mNativeSupplement28
+open _root_.InfoLossLARNativeSupplements.hb6587a05bd2df660.AFT.V7Calibration renaming actualPublicPrimaryChoice_nonempty → AFT.V7Calibration.actualPublicPrimaryChoice_nonempty
+open _root_.InfoLossLARNativeSupplements.hb6587a05bd2df660.AFT.V7Calibration renaming actualPublicPrimaryChoice_nonempty → _p2mNativeSupplement29
+open _root_.InfoLossLARNativeSupplements.he83cfe7a7db39d44.CurrentAFT.BinaryFiniteProduct renaming current_value → CurrentAFT.BinaryFiniteProduct.current_value
+open _root_.InfoLossLARNativeSupplements.he83cfe7a7db39d44.CurrentAFT.BinaryFiniteProduct renaming current_value → _p2mNativeSupplement30
+open _root_.InfoLossLARNativeSupplements.hf109288ce2bff41a.CurrentAFT.BinaryFullResponseCounts renaming current_sizes → CurrentAFT.BinaryFullResponseCounts.current_sizes
+open _root_.InfoLossLARNativeSupplements.hf109288ce2bff41a.CurrentAFT.BinaryFullResponseCounts renaming current_sizes → _p2mNativeSupplement31
+open _root_.InfoLossLARNativeSupplements.hab90893a8a9293a2.CurrentAFT.BinaryListSum renaming current_value → CurrentAFT.BinaryListSum.current_value
+open _root_.InfoLossLARNativeSupplements.hab90893a8a9293a2.CurrentAFT.BinaryListSum renaming current_value → _p2mNativeSupplement32
+open _root_.InfoLossLARNativeSupplements.hb7b15c9a79e648be.CurrentAFT.BinaryRootMetadataSerializer renaming actualChoice_ordinary → CurrentAFT.BinaryRootMetadataSerializer.actualChoice_ordinary
+open _root_.InfoLossLARNativeSupplements.hb7b15c9a79e648be.CurrentAFT.BinaryRootMetadataSerializer renaming actualChoice_ordinary → _p2mNativeSupplement33
+open _root_.InfoLossLARNativeSupplements.h9bd8eaff2c880c78.CurrentAFT.BinaryRootMetadataSerializer renaming actualChoice_primary → CurrentAFT.BinaryRootMetadataSerializer.actualChoice_primary
+open _root_.InfoLossLARNativeSupplements.h9bd8eaff2c880c78.CurrentAFT.BinaryRootMetadataSerializer renaming actualChoice_primary → _p2mNativeSupplement34
+open _root_.InfoLossLARNativeSupplements.ha802267fba3ae37a.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_input → CurrentAFT.BinaryRootMetadataSerializer.candidate_input
+open _root_.InfoLossLARNativeSupplements.ha802267fba3ae37a.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_input → _p2mNativeSupplement35
+open _root_.InfoLossLARNativeSupplements.h1ccc0b12a2e9b2e7.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_kept → CurrentAFT.BinaryRootMetadataSerializer.candidate_kept
+open _root_.InfoLossLARNativeSupplements.h1ccc0b12a2e9b2e7.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_kept → _p2mNativeSupplement36
+open _root_.InfoLossLARNativeSupplements.hf63ab620f3c57a9b.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_ordinary → CurrentAFT.BinaryRootMetadataSerializer.candidate_ordinary
+open _root_.InfoLossLARNativeSupplements.hf63ab620f3c57a9b.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_ordinary → _p2mNativeSupplement37
+open _root_.InfoLossLARNativeSupplements.h8b1af35cb5128d1e.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_primary → CurrentAFT.BinaryRootMetadataSerializer.candidate_primary
+open _root_.InfoLossLARNativeSupplements.h8b1af35cb5128d1e.CurrentAFT.BinaryRootMetadataSerializer renaming candidate_primary → _p2mNativeSupplement38
+open _root_.InfoLossLARNativeSupplements.hc002c1f58373bc9e.CurrentAFT.BinaryRootMetadataSerializer renaming classify_numbering → CurrentAFT.BinaryRootMetadataSerializer.classify_numbering
+open _root_.InfoLossLARNativeSupplements.hc002c1f58373bc9e.CurrentAFT.BinaryRootMetadataSerializer renaming classify_numbering → _p2mNativeSupplement39
+open _root_.InfoLossLARNativeSupplements.h0654708b8f7abd41.CurrentAFT.BinaryRootMetadataSerializer renaming current_castMetadata → CurrentAFT.BinaryRootMetadataSerializer.current_castMetadata
+open _root_.InfoLossLARNativeSupplements.h0654708b8f7abd41.CurrentAFT.BinaryRootMetadataSerializer renaming current_castMetadata → _p2mNativeSupplement40
+open _root_.InfoLossLARNativeSupplements.h62365cd168bf9746.CurrentAFT.BinaryRootMetadataSerializer renaming current_cast_tags → CurrentAFT.BinaryRootMetadataSerializer.current_cast_tags
+open _root_.InfoLossLARNativeSupplements.h62365cd168bf9746.CurrentAFT.BinaryRootMetadataSerializer renaming current_cast_tags → _p2mNativeSupplement41
+open _root_.InfoLossLARNativeSupplements.hd04a074a03468451.CurrentAFT.BinaryRootMetadataSerializer renaming current_congr_counts → CurrentAFT.BinaryRootMetadataSerializer.current_congr_counts
+open _root_.InfoLossLARNativeSupplements.hd04a074a03468451.CurrentAFT.BinaryRootMetadataSerializer renaming current_congr_counts → _p2mNativeSupplement42
+open _root_.InfoLossLARNativeSupplements.h92779a9b15e1ad74.CurrentAFT.BinaryRootMetadataSerializer renaming current_kept_le → CurrentAFT.BinaryRootMetadataSerializer.current_kept_le
+open _root_.InfoLossLARNativeSupplements.h92779a9b15e1ad74.CurrentAFT.BinaryRootMetadataSerializer renaming current_kept_le → _p2mNativeSupplement43
+open _root_.InfoLossLARNativeSupplements.h5d3e6518d488d268.CurrentAFT.BinaryRootMetadataSerializer renaming current_metadata_actual → CurrentAFT.BinaryRootMetadataSerializer.current_metadata_actual
+open _root_.InfoLossLARNativeSupplements.h5d3e6518d488d268.CurrentAFT.BinaryRootMetadataSerializer renaming current_metadata_actual → _p2mNativeSupplement44
+open _root_.InfoLossLARNativeSupplements.h6da04ab1cb4f0ae9.CurrentAFT.BinaryRootMetadataSerializer renaming current_native_counts → CurrentAFT.BinaryRootMetadataSerializer.current_native_counts
+open _root_.InfoLossLARNativeSupplements.h6da04ab1cb4f0ae9.CurrentAFT.BinaryRootMetadataSerializer renaming current_native_counts → _p2mNativeSupplement45
+open _root_.InfoLossLARNativeSupplements.h0034013fd46e34b6.CurrentAFT.BinaryRootMetadataSerializer renaming current_rational_actual → CurrentAFT.BinaryRootMetadataSerializer.current_rational_actual
+open _root_.InfoLossLARNativeSupplements.h0034013fd46e34b6.CurrentAFT.BinaryRootMetadataSerializer renaming current_rational_actual → _p2mNativeSupplement46
+open _root_.InfoLossLARNativeSupplements.he41810aeef644de7.CurrentAFT.BinaryRootMetadataSerializer renaming current_rational_native → CurrentAFT.BinaryRootMetadataSerializer.current_rational_native
+open _root_.InfoLossLARNativeSupplements.he41810aeef644de7.CurrentAFT.BinaryRootMetadataSerializer renaming current_rational_native → _p2mNativeSupplement47
+open _root_.InfoLossLARNativeSupplements.hdf21f91932116c35.CurrentAFT.BinaryRootMetadataSerializer renaming current_role → CurrentAFT.BinaryRootMetadataSerializer.current_role
+open _root_.InfoLossLARNativeSupplements.hdf21f91932116c35.CurrentAFT.BinaryRootMetadataSerializer renaming current_role → _p2mNativeSupplement48
+open _root_.InfoLossLARNativeSupplements.h2f02b0da80d0da15.CurrentAFT.BinaryRootMetadataSerializer renaming current_role_actual → CurrentAFT.BinaryRootMetadataSerializer.current_role_actual
+open _root_.InfoLossLARNativeSupplements.h2f02b0da80d0da15.CurrentAFT.BinaryRootMetadataSerializer renaming current_role_actual → _p2mNativeSupplement49
+open _root_.InfoLossLARNativeSupplements.hf05bd272bb1b56e1.CurrentAFT.BinaryRootMetadataSerializer renaming current_tagSlot → CurrentAFT.BinaryRootMetadataSerializer.current_tagSlot
+open _root_.InfoLossLARNativeSupplements.hf05bd272bb1b56e1.CurrentAFT.BinaryRootMetadataSerializer renaming current_tagSlot → _p2mNativeSupplement50
+open _root_.InfoLossLARNativeSupplements.h99dea6e0b2cb92cd.CurrentAFT.BinaryRootMetadataSerializer renaming current_tagSlot_actual → CurrentAFT.BinaryRootMetadataSerializer.current_tagSlot_actual
+open _root_.InfoLossLARNativeSupplements.h99dea6e0b2cb92cd.CurrentAFT.BinaryRootMetadataSerializer renaming current_tagSlot_actual → _p2mNativeSupplement51
+open _root_.InfoLossLARNativeSupplements.h5aa51497de94248a.CurrentAFT.BinaryRootMetadataSerializer renaming find_value → CurrentAFT.BinaryRootMetadataSerializer.find_value
+open _root_.InfoLossLARNativeSupplements.h5aa51497de94248a.CurrentAFT.BinaryRootMetadataSerializer renaming find_value → _p2mNativeSupplement52
+open _root_.InfoLossLARNativeSupplements.he1ba053a04ebe416.CurrentAFT.BinaryRootMetadataSerializer renaming inputOrdering_symm_kept → CurrentAFT.BinaryRootMetadataSerializer.inputOrdering_symm_kept
+open _root_.InfoLossLARNativeSupplements.he1ba053a04ebe416.CurrentAFT.BinaryRootMetadataSerializer renaming inputOrdering_symm_kept → _p2mNativeSupplement53
+open _root_.InfoLossLARNativeSupplements.hb19b481a4ab916e9.CurrentAFT.BinaryRootMetadataSerializer renaming inputOrdering_symm_ordinary → CurrentAFT.BinaryRootMetadataSerializer.inputOrdering_symm_ordinary
+open _root_.InfoLossLARNativeSupplements.hb19b481a4ab916e9.CurrentAFT.BinaryRootMetadataSerializer renaming inputOrdering_symm_ordinary → _p2mNativeSupplement54
+open _root_.InfoLossLARNativeSupplements.h925bf1f311c5581d.CurrentAFT.BinaryRootMetadataSerializer renaming inputOrdering_symm_primary → CurrentAFT.BinaryRootMetadataSerializer.inputOrdering_symm_primary
+open _root_.InfoLossLARNativeSupplements.h925bf1f311c5581d.CurrentAFT.BinaryRootMetadataSerializer renaming inputOrdering_symm_primary → _p2mNativeSupplement55
+open _root_.InfoLossLARNativeSupplements.h28bdeb915df6f31b.CurrentAFT.BinaryRootMetadataSerializer renaming keptOrdering_number → CurrentAFT.BinaryRootMetadataSerializer.keptOrdering_number
+open _root_.InfoLossLARNativeSupplements.h28bdeb915df6f31b.CurrentAFT.BinaryRootMetadataSerializer renaming keptOrdering_number → _p2mNativeSupplement56
+open _root_.InfoLossLARNativeSupplements.hd98ece77ce245c62.CurrentAFT.BinaryRootMetadataSerializer renaming kept_length_le → CurrentAFT.BinaryRootMetadataSerializer.kept_length_le
+open _root_.InfoLossLARNativeSupplements.hd98ece77ce245c62.CurrentAFT.BinaryRootMetadataSerializer renaming kept_length_le → _p2mNativeSupplement57
+open _root_.InfoLossLARNativeSupplements.h0c3b1f75a36dc0a1.CurrentAFT.BinaryRootMetadataSerializer renaming matchesBlock_input → CurrentAFT.BinaryRootMetadataSerializer.matchesBlock_input
+open _root_.InfoLossLARNativeSupplements.h0c3b1f75a36dc0a1.CurrentAFT.BinaryRootMetadataSerializer renaming matchesBlock_input → _p2mNativeSupplement58
+open _root_.InfoLossLARNativeSupplements.h3614eab28d16c434.CurrentAFT.BinaryRootMetadataSerializer renaming matchesBlock_value → CurrentAFT.BinaryRootMetadataSerializer.matchesBlock_value
+open _root_.InfoLossLARNativeSupplements.h3614eab28d16c434.CurrentAFT.BinaryRootMetadataSerializer renaming matchesBlock_value → _p2mNativeSupplement59
+open _root_.InfoLossLARNativeSupplements.h7211ad64e277ecd6.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_get → CurrentAFT.BinaryRootMetadataSerializer.nativeTag_get
+open _root_.InfoLossLARNativeSupplements.h7211ad64e277ecd6.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_get → _p2mNativeSupplement60
+open _root_.InfoLossLARNativeSupplements.h5bfd14958fa45ca1.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_increasing → CurrentAFT.BinaryRootMetadataSerializer.nativeTag_increasing
+open _root_.InfoLossLARNativeSupplements.h5bfd14958fa45ca1.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_increasing → _p2mNativeSupplement61
+open _root_.InfoLossLARNativeSupplements.h830e34787bfcc36e.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_membership → CurrentAFT.BinaryRootMetadataSerializer.nativeTag_membership
+open _root_.InfoLossLARNativeSupplements.h830e34787bfcc36e.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_membership → _p2mNativeSupplement62
+open _root_.InfoLossLARNativeSupplements.hdf4e90e4faeda9bb.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_tagsInput → CurrentAFT.BinaryRootMetadataSerializer.nativeTag_tagsInput
+open _root_.InfoLossLARNativeSupplements.hdf4e90e4faeda9bb.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_tagsInput → _p2mNativeSupplement63
+open _root_.InfoLossLARNativeSupplements.h0eb6479555712d22.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_tagsInput_vector → CurrentAFT.BinaryRootMetadataSerializer.nativeTag_tagsInput_vector
+open _root_.InfoLossLARNativeSupplements.h0eb6479555712d22.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_tagsInput_vector → _p2mNativeSupplement64
+open _root_.InfoLossLARNativeSupplements.he3484ce79e618bef.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_value → CurrentAFT.BinaryRootMetadataSerializer.nativeTag_value
+open _root_.InfoLossLARNativeSupplements.he3484ce79e618bef.CurrentAFT.BinaryRootMetadataSerializer renaming nativeTag_value → _p2mNativeSupplement65
+open _root_.InfoLossLARNativeSupplements.hb10c61056b84e123.CurrentAFT.BinaryRootMetadataSerializer renaming position_input → CurrentAFT.BinaryRootMetadataSerializer.position_input
+open _root_.InfoLossLARNativeSupplements.hb10c61056b84e123.CurrentAFT.BinaryRootMetadataSerializer renaming position_input → _p2mNativeSupplement66
+open _root_.InfoLossLARNativeSupplements.h717398dca61c08fb.CurrentAFT.BinaryRootMetadataSerializer renaming rational_current_cast_tags → CurrentAFT.BinaryRootMetadataSerializer.rational_current_cast_tags
+open _root_.InfoLossLARNativeSupplements.h717398dca61c08fb.CurrentAFT.BinaryRootMetadataSerializer renaming rational_current_cast_tags → _p2mNativeSupplement67
+open _root_.InfoLossLARNativeSupplements.h5c1679d60747a3c8.CurrentAFT.BinaryRootMetadataSerializer renaming retainedInput_at_group → CurrentAFT.BinaryRootMetadataSerializer.retainedInput_at_group
+open _root_.InfoLossLARNativeSupplements.h5c1679d60747a3c8.CurrentAFT.BinaryRootMetadataSerializer renaming retainedInput_at_group → _p2mNativeSupplement68
+open _root_.InfoLossLARNativeSupplements.hd10b40ce4e5fb3ce.CurrentAFT.BinaryRootMetadataSerializer renaming retainedInput_get → CurrentAFT.BinaryRootMetadataSerializer.retainedInput_get
+open _root_.InfoLossLARNativeSupplements.hd10b40ce4e5fb3ce.CurrentAFT.BinaryRootMetadataSerializer renaming retainedInput_get → _p2mNativeSupplement69
+open _root_.InfoLossLARNativeSupplements.h790debae9bc7d744.CurrentAFT.BinaryRootMetadataSerializer renaming role_input → CurrentAFT.BinaryRootMetadataSerializer.role_input
+open _root_.InfoLossLARNativeSupplements.h790debae9bc7d744.CurrentAFT.BinaryRootMetadataSerializer renaming role_input → _p2mNativeSupplement70
+open _root_.InfoLossLARNativeSupplements.h36433fb6e771176d.CurrentAFT.BinaryRootMetadataSerializer renaming role_kept → CurrentAFT.BinaryRootMetadataSerializer.role_kept
+open _root_.InfoLossLARNativeSupplements.h36433fb6e771176d.CurrentAFT.BinaryRootMetadataSerializer renaming role_kept → _p2mNativeSupplement71
+open _root_.InfoLossLARNativeSupplements.h1c0aacbfbcab259c.CurrentAFT.BinaryRootMetadataSerializer renaming role_ordinary → CurrentAFT.BinaryRootMetadataSerializer.role_ordinary
+open _root_.InfoLossLARNativeSupplements.h1c0aacbfbcab259c.CurrentAFT.BinaryRootMetadataSerializer renaming role_ordinary → _p2mNativeSupplement72
+open _root_.InfoLossLARNativeSupplements.had28d56c66c172c2.CurrentAFT.BinaryRootMetadataSerializer renaming role_primary → CurrentAFT.BinaryRootMetadataSerializer.role_primary
+open _root_.InfoLossLARNativeSupplements.had28d56c66c172c2.CurrentAFT.BinaryRootMetadataSerializer renaming role_primary → _p2mNativeSupplement73
+open _root_.InfoLossLARNativeSupplements.hf7b606d7b6c71037.CurrentAFT.BinaryRootMetadataSerializer renaming splitIndex_value → CurrentAFT.BinaryRootMetadataSerializer.splitIndex_value
+open _root_.InfoLossLARNativeSupplements.hf7b606d7b6c71037.CurrentAFT.BinaryRootMetadataSerializer renaming splitIndex_value → _p2mNativeSupplement74
+open _root_.InfoLossLARNativeSupplements.hc171b658125977dd.CurrentAFT.BinaryRootMetadataSerializer renaming tagBlocks_card → CurrentAFT.BinaryRootMetadataSerializer.tagBlocks_card
+open _root_.InfoLossLARNativeSupplements.hc171b658125977dd.CurrentAFT.BinaryRootMetadataSerializer renaming tagBlocks_card → _p2mNativeSupplement75
+open _root_.InfoLossLARNativeSupplements.h864990220cd05a68.CurrentAFT.BinaryRootMetadataSerializer renaming tagSlot_input → CurrentAFT.BinaryRootMetadataSerializer.tagSlot_input
+open _root_.InfoLossLARNativeSupplements.h864990220cd05a68.CurrentAFT.BinaryRootMetadataSerializer renaming tagSlot_input → _p2mNativeSupplement76
+open _root_.InfoLossLARNativeSupplements.he99bee3d04267632.CurrentAFT.BinaryRootMetadataSerializer renaming tagsInput_get → CurrentAFT.BinaryRootMetadataSerializer.tagsInput_get
+open _root_.InfoLossLARNativeSupplements.he99bee3d04267632.CurrentAFT.BinaryRootMetadataSerializer renaming tagsInput_get → _p2mNativeSupplement77
+open _root_.InfoLossLARNativeSupplements.h15d8c2848429780a.CurrentAFT.BinaryRootMetadataSerializer renaming vector_count_cast_get → CurrentAFT.BinaryRootMetadataSerializer.vector_count_cast_get
+open _root_.InfoLossLARNativeSupplements.h15d8c2848429780a.CurrentAFT.BinaryRootMetadataSerializer renaming vector_count_cast_get → _p2mNativeSupplement78
+open _root_.InfoLossLARNativeSupplements.h6033ffbe1c08cc96.CurrentAFT.BinaryRootMetadataSerializer renaming vector_length_cast_get → CurrentAFT.BinaryRootMetadataSerializer.vector_length_cast_get
+open _root_.InfoLossLARNativeSupplements.h6033ffbe1c08cc96.CurrentAFT.BinaryRootMetadataSerializer renaming vector_length_cast_get → _p2mNativeSupplement79
+open _root_.InfoLossLARNativeSupplements.he438d921f6936ff8.CurrentAFT.BinaryRootMetadataSerializer renaming vector_mem_toList → CurrentAFT.BinaryRootMetadataSerializer.vector_mem_toList
+open _root_.InfoLossLARNativeSupplements.he438d921f6936ff8.CurrentAFT.BinaryRootMetadataSerializer renaming vector_mem_toList → _p2mNativeSupplement80
+open _root_.InfoLossLARNativeSupplements.he37fcb2fedaaad11.CurrentAFT.BinarySparseCycleEvaluation renaming current_tuple_value → CurrentAFT.BinarySparseCycleEvaluation.current_tuple_value
+open _root_.InfoLossLARNativeSupplements.he37fcb2fedaaad11.CurrentAFT.BinarySparseCycleEvaluation renaming current_tuple_value → _p2mNativeSupplement81
+open _root_.InfoLossLARNativeSupplements.h42f327202f6ffc34.CurrentAFT.BinarySparseCycleEvaluation renaming rootEntry_value → CurrentAFT.BinarySparseCycleEvaluation.rootEntry_value
+open _root_.InfoLossLARNativeSupplements.h42f327202f6ffc34.CurrentAFT.BinarySparseCycleEvaluation renaming rootEntry_value → _p2mNativeSupplement82
+open _root_.InfoLossLARNativeSupplements.h046841627a1cee9b.CurrentAFT.BinarySparseCycleEvaluation renaming roots_value → CurrentAFT.BinarySparseCycleEvaluation.roots_value
+open _root_.InfoLossLARNativeSupplements.h046841627a1cee9b.CurrentAFT.BinarySparseCycleEvaluation renaming roots_value → _p2mNativeSupplement83
+open _root_.InfoLossLARNativeSupplements.hd0df78f75d4d893f.CurrentAFT.BinarySparseCycleEvaluation renaming term_value → CurrentAFT.BinarySparseCycleEvaluation.term_value
+open _root_.InfoLossLARNativeSupplements.hd0df78f75d4d893f.CurrentAFT.BinarySparseCycleEvaluation renaming term_value → _p2mNativeSupplement84
+open _root_.InfoLossLARNativeSupplements.hf4f5fd4dcb0d678c.CurrentAFT.BinarySparseCycleEvaluation renaming weightEntry_value → CurrentAFT.BinarySparseCycleEvaluation.weightEntry_value
+open _root_.InfoLossLARNativeSupplements.hf4f5fd4dcb0d678c.CurrentAFT.BinarySparseCycleEvaluation renaming weightEntry_value → _p2mNativeSupplement85
+open _root_.InfoLossLARNativeSupplements.haf9b5363dbfc3f4c.CurrentAFT.BinarySparseCycleSemantic renaming coordinates_apply → CurrentAFT.BinarySparseCycleSemantic.coordinates_apply
+open _root_.InfoLossLARNativeSupplements.haf9b5363dbfc3f4c.CurrentAFT.BinarySparseCycleSemantic renaming coordinates_apply → _p2mNativeSupplement86
+open _root_.InfoLossLARNativeSupplements.hb39aff037bdc4326.CurrentAFT.BinarySparseCycleSemantic renaming current_value → CurrentAFT.BinarySparseCycleSemantic.current_value
+open _root_.InfoLossLARNativeSupplements.hb39aff037bdc4326.CurrentAFT.BinarySparseCycleSemantic renaming current_value → _p2mNativeSupplement87
+open _root_.InfoLossLARNativeSupplements.h0cda298b0874d5b6.CurrentAFT.BinarySparseCycleSemantic renaming product_coordinates → CurrentAFT.BinarySparseCycleSemantic.product_coordinates
+open _root_.InfoLossLARNativeSupplements.h0cda298b0874d5b6.CurrentAFT.BinarySparseCycleSemantic renaming product_coordinates → _p2mNativeSupplement88
+open _root_.InfoLossLARNativeSupplements.h10d530ee15bdc77f.CurrentAFT.BinarySparseCycleSemantic renaming roots_coordinates → CurrentAFT.BinarySparseCycleSemantic.roots_coordinates
+open _root_.InfoLossLARNativeSupplements.h10d530ee15bdc77f.CurrentAFT.BinarySparseCycleSemantic renaming roots_coordinates → _p2mNativeSupplement89
+open _root_.InfoLossLARNativeSupplements.h5cfbe96a887c7fbe.CurrentAFT.BinaryTouchedCycle renaming candidates_length → CurrentAFT.BinaryTouchedCycle.candidates_length
+open _root_.InfoLossLARNativeSupplements.h5cfbe96a887c7fbe.CurrentAFT.BinaryTouchedCycle renaming candidates_length → _p2mNativeSupplement90
+open _root_.InfoLossLARNativeSupplements.hbcb1352f59b47e7a.CurrentAFT.BinaryTouchedCycle renaming prepare_length → CurrentAFT.BinaryTouchedCycle.prepare_length
+open _root_.InfoLossLARNativeSupplements.hbcb1352f59b47e7a.CurrentAFT.BinaryTouchedCycle renaming prepare_length → _p2mNativeSupplement91
+open _root_.InfoLossLARNativeSupplements.h7b66ba8c3614b749.CurrentAFT.BinaryTouchedCycle renaming unique_length → CurrentAFT.BinaryTouchedCycle.unique_length
+open _root_.InfoLossLARNativeSupplements.h7b66ba8c3614b749.CurrentAFT.BinaryTouchedCycle renaming unique_length → _p2mNativeSupplement92
+open _root_.InfoLossLARNativeSupplements.h8bc15ae79e4624be.CurrentAFT.BinaryTouchedCycleBuffer renaming lookup_value → CurrentAFT.BinaryTouchedCycleBuffer.lookup_value
+open _root_.InfoLossLARNativeSupplements.h8bc15ae79e4624be.CurrentAFT.BinaryTouchedCycleBuffer renaming lookup_value → _p2mNativeSupplement93
+open _root_.InfoLossLARNativeSupplements.hf362d6b0d865f5c6.CurrentAFT.BinaryTouchedCycleRanks renaming positions_value → CurrentAFT.BinaryTouchedCycleRanks.positions_value
+open _root_.InfoLossLARNativeSupplements.hf362d6b0d865f5c6.CurrentAFT.BinaryTouchedCycleRanks renaming positions_value → _p2mNativeSupplement94
+open _root_.InfoLossLARNativeSupplements.h4cdf4f6ad2d19d90.CurrentAFT.BinaryTupleSum renaming current_value → CurrentAFT.BinaryTupleSum.current_value
+open _root_.InfoLossLARNativeSupplements.h4cdf4f6ad2d19d90.CurrentAFT.BinaryTupleSum renaming current_value → _p2mNativeSupplement95
+open _root_.InfoLossLARNativeSupplements.ha8fcea89e723dc23.CurrentAFT.BinaryTupleSum renaming get_ofFn_fun → CurrentAFT.BinaryTupleSum.get_ofFn_fun
+open _root_.InfoLossLARNativeSupplements.ha8fcea89e723dc23.CurrentAFT.BinaryTupleSum renaming get_ofFn_fun → _p2mNativeSupplement96
+open _root_.InfoLossLARNativeSupplements.ha84cbfc4268e8d40.CurrentAFT.BinaryTupleSum renaming prepend_get → CurrentAFT.BinaryTupleSum.prepend_get
+open _root_.InfoLossLARNativeSupplements.ha84cbfc4268e8d40.CurrentAFT.BinaryTupleSum renaming prepend_get → _p2mNativeSupplement97
+open _root_.InfoLossLARNativeSupplements.hcca3d782e3229b7c.CurrentAFT.BinaryTupleSum renaming prepend_value → CurrentAFT.BinaryTupleSum.prepend_value
+open _root_.InfoLossLARNativeSupplements.hcca3d782e3229b7c.CurrentAFT.BinaryTupleSum renaming prepend_value → _p2mNativeSupplement98
+open _root_.InfoLossLARNativeSupplements.h78d75bb492074482.CurrentAFT.CountedBoundedRootTags.Tag renaming card → CurrentAFT.CountedBoundedRootTags.Tag.card
+open _root_.InfoLossLARNativeSupplements.h78d75bb492074482.CurrentAFT.CountedBoundedRootTags.Tag renaming card → _p2mNativeSupplement99
+open _root_.InfoLossLARNativeSupplements.h9568a61082f27bb9.CurrentAFT.CountedBoundedRootTags.Tag renaming nodup → CurrentAFT.CountedBoundedRootTags.Tag.nodup
+open _root_.InfoLossLARNativeSupplements.h9568a61082f27bb9.CurrentAFT.CountedBoundedRootTags.Tag renaming nodup → _p2mNativeSupplement100
+open _root_.InfoLossLARNativeSupplements.hf6e7f4bd634f80a9.CurrentAFT.CountedBoundedRootTags.Tag renaming read_value → CurrentAFT.CountedBoundedRootTags.Tag.read_value
+open _root_.InfoLossLARNativeSupplements.hf6e7f4bd634f80a9.CurrentAFT.CountedBoundedRootTags.Tag renaming read_value → _p2mNativeSupplement101
+open _root_.InfoLossLARNativeSupplements.hd05ef333dfb7baf7.CurrentAFT.CountedBoundedRootTags.Tag renaming store_value → CurrentAFT.CountedBoundedRootTags.Tag.store_value
+open _root_.InfoLossLARNativeSupplements.hd05ef333dfb7baf7.CurrentAFT.CountedBoundedRootTags.Tag renaming store_value → _p2mNativeSupplement102
+open _root_.InfoLossLARNativeSupplements.h8bf8720ebb55498f.CurrentAFT.CountedBoundedRootTags.Tag renaming vector_increasing → CurrentAFT.CountedBoundedRootTags.Tag.vector_increasing
+open _root_.InfoLossLARNativeSupplements.h8bf8720ebb55498f.CurrentAFT.CountedBoundedRootTags.Tag renaming vector_increasing → _p2mNativeSupplement103
+open _root_.InfoLossLARNativeSupplements.h5fde173c8469afa6.CurrentAFT.CountedBoundedRootTags renaming current_sets → CurrentAFT.CountedBoundedRootTags.current_sets
+open _root_.InfoLossLARNativeSupplements.h5fde173c8469afa6.CurrentAFT.CountedBoundedRootTags renaming current_sets → _p2mNativeSupplement104
+open _root_.InfoLossLARNativeSupplements.he8f344a3055fc54a.CurrentAFT.CountedBoundedRootTags renaming entry_sets → CurrentAFT.CountedBoundedRootTags.entry_sets
+open _root_.InfoLossLARNativeSupplements.he8f344a3055fc54a.CurrentAFT.CountedBoundedRootTags renaming entry_sets → _p2mNativeSupplement105
+open _root_.InfoLossLARNativeSupplements.h2c50018e32584610.CurrentAFT.CountedBoundedRootTags renaming guarded_value → CurrentAFT.CountedBoundedRootTags.guarded_value
+open _root_.InfoLossLARNativeSupplements.h2c50018e32584610.CurrentAFT.CountedBoundedRootTags renaming guarded_value → _p2mNativeSupplement106
+open _root_.InfoLossLARNativeSupplements.h4aa23a1b871c5bc6.CurrentAFT.CountedBoundedRootTags renaming sum_value → CurrentAFT.CountedBoundedRootTags.sum_value
+open _root_.InfoLossLARNativeSupplements.h4aa23a1b871c5bc6.CurrentAFT.CountedBoundedRootTags renaming sum_value → _p2mNativeSupplement107
+open _root_.InfoLossLARNativeSupplements.h5a83c4211de0d052.CurrentAFT.CountedBoundedRootTags renaming sum_value_equiv → CurrentAFT.CountedBoundedRootTags.sum_value_equiv
+open _root_.InfoLossLARNativeSupplements.h5a83c4211de0d052.CurrentAFT.CountedBoundedRootTags renaming sum_value_equiv → _p2mNativeSupplement108
+open _root_.InfoLossLARNativeSupplements.h857ff8dbe55756b8.CurrentAFT.CurrentCycleEntryProgram renaming bodyCount_eq → CurrentAFT.CurrentCycleEntryProgram.bodyCount_eq
+open _root_.InfoLossLARNativeSupplements.h857ff8dbe55756b8.CurrentAFT.CurrentCycleEntryProgram renaming bodyCount_eq → _p2mNativeSupplement109
+open _root_.InfoLossLARNativeSupplements.h4b24203afd73c049.CurrentAFT.CurrentCycleEntryProgram renaming roots_mod_iff → CurrentAFT.CurrentCycleEntryProgram.roots_mod_iff
+open _root_.InfoLossLARNativeSupplements.h4b24203afd73c049.CurrentAFT.CurrentCycleEntryProgram renaming roots_mod_iff → _p2mNativeSupplement110
+open _root_.InfoLossLARNativeSupplements.h187f69822989eb63.CurrentAFT.CurrentCycleEntryProgram renaming selectedEntry_cast → CurrentAFT.CurrentCycleEntryProgram.selectedEntry_cast
+open _root_.InfoLossLARNativeSupplements.h187f69822989eb63.CurrentAFT.CurrentCycleEntryProgram renaming selectedEntry_cast → _p2mNativeSupplement111
+open _root_.InfoLossLARNativeSupplements.h9180bab9fc132623.CurrentAFT.CurrentCycleEntryProgram renaming selected_probability_source → CurrentAFT.CurrentCycleEntryProgram.selected_probability_source
+open _root_.InfoLossLARNativeSupplements.h9180bab9fc132623.CurrentAFT.CurrentCycleEntryProgram renaming selected_probability_source → _p2mNativeSupplement112
+open _root_.InfoLossLARNativeSupplements.hf7c0550335227b9c.CurrentAFT.CurrentGaussianBits renaming ratio_bounds → CurrentAFT.CurrentGaussianBits.ratio_bounds
+open _root_.InfoLossLARNativeSupplements.hf7c0550335227b9c.CurrentAFT.CurrentGaussianBits renaming ratio_bounds → _p2mNativeSupplement113
+open _root_.InfoLossLARNativeSupplements.ha029c925a85a9044.CurrentAFT.CurrentPublicShiftProgram renaming encode_value → CurrentAFT.CurrentPublicShiftProgram.encode_value
+open _root_.InfoLossLARNativeSupplements.ha029c925a85a9044.CurrentAFT.CurrentPublicShiftProgram renaming encode_value → _p2mNativeSupplement114
+open _root_.InfoLossLARNativeSupplements.h4ae04e3f1cb5b359.CurrentAFT.CurrentRootSlotIndex renaming tagPosition_eq → CurrentAFT.CurrentRootSlotIndex.tagPosition_eq
+open _root_.InfoLossLARNativeSupplements.h4ae04e3f1cb5b359.CurrentAFT.CurrentRootSlotIndex renaming tagPosition_eq → _p2mNativeSupplement115
+open _root_.InfoLossLARNativeSupplements.h20ee486b3d1dffd8.CurrentAFT.CyclePatternProgram renaming averagedEvaluate_cast → CurrentAFT.CyclePatternProgram.averagedEvaluate_cast
+open _root_.InfoLossLARNativeSupplements.h20ee486b3d1dffd8.CurrentAFT.CyclePatternProgram renaming averagedEvaluate_cast → _p2mNativeSupplement116
+open _root_.InfoLossLARNativeSupplements.hb37dd6f3dcea3b7d.CurrentAFT.CyclePatternProgram renaming evaluate_local → CurrentAFT.CyclePatternProgram.evaluate_local
+open _root_.InfoLossLARNativeSupplements.hb37dd6f3dcea3b7d.CurrentAFT.CyclePatternProgram renaming evaluate_local → _p2mNativeSupplement117
+open _root_.InfoLossLARNativeSupplements.h689ba464633d8cff.CurrentAFT.CyclePatternProgram renaming evaluate_semantics → CurrentAFT.CyclePatternProgram.evaluate_semantics
+open _root_.InfoLossLARNativeSupplements.h689ba464633d8cff.CurrentAFT.CyclePatternProgram renaming evaluate_semantics → _p2mNativeSupplement118
+open _root_.InfoLossLARNativeSupplements.hd02155c30f7ca58d.CurrentAFT.CyclePatternProgram renaming gaussianEvaluate_eq_windowEvaluate → CurrentAFT.CyclePatternProgram.gaussianEvaluate_eq_windowEvaluate
+open _root_.InfoLossLARNativeSupplements.hd02155c30f7ca58d.CurrentAFT.CyclePatternProgram renaming gaussianEvaluate_eq_windowEvaluate → _p2mNativeSupplement119
+open _root_.InfoLossLARNativeSupplements.hc532f8ed89f571a1.CurrentAFT.CyclePatternProgram renaming gaussianEvaluate_semantics → CurrentAFT.CyclePatternProgram.gaussianEvaluate_semantics
+open _root_.InfoLossLARNativeSupplements.hc532f8ed89f571a1.CurrentAFT.CyclePatternProgram renaming gaussianEvaluate_semantics → _p2mNativeSupplement120
+open _root_.InfoLossLARNativeSupplements.h3e1ece29cbe1b4d4.CurrentAFT.CyclePatternProgram renaming restricted_expectation → CurrentAFT.CyclePatternProgram.restricted_expectation
+open _root_.InfoLossLARNativeSupplements.h3e1ece29cbe1b4d4.CurrentAFT.CyclePatternProgram renaming restricted_expectation → _p2mNativeSupplement121
+open _root_.InfoLossLARNativeSupplements.h33993643e1712ab8.CurrentAFT.CycleRootExpansion renaming current_body_two_le → CurrentAFT.CycleRootExpansion.current_body_two_le
+open _root_.InfoLossLARNativeSupplements.h33993643e1712ab8.CurrentAFT.CycleRootExpansion renaming current_body_two_le → _p2mNativeSupplement122
+open _root_.InfoLossLARNativeSupplements.hd99e5f9e75bbb7e1.CurrentAFT.CycleSelections renaming averagedSelectedLaw_coordinate → CurrentAFT.CycleSelections.averagedSelectedLaw_coordinate
+open _root_.InfoLossLARNativeSupplements.hd99e5f9e75bbb7e1.CurrentAFT.CycleSelections renaming averagedSelectedLaw_coordinate → _p2mNativeSupplement123
+open _root_.InfoLossLARNativeSupplements.h788b7dba49e3cc6b.CurrentAFT.CycleSelections renaming selectedLaw_coordinate → CurrentAFT.CycleSelections.selectedLaw_coordinate
+open _root_.InfoLossLARNativeSupplements.h788b7dba49e3cc6b.CurrentAFT.CycleSelections renaming selectedLaw_coordinate → _p2mNativeSupplement124
+open _root_.InfoLossLARNativeSupplements.h8eafa7c1234de921.CurrentAFT.FullResponseEnumeration renaming mem_boundedSubsets → CurrentAFT.FullResponseEnumeration.mem_boundedSubsets
+open _root_.InfoLossLARNativeSupplements.h8eafa7c1234de921.CurrentAFT.FullResponseEnumeration renaming mem_boundedSubsets → _p2mNativeSupplement125
+open _root_.InfoLossLARNativeSupplements.h4d94229af05aca84.CurrentAFT.Parameters renaming modulus_eq_find → CurrentAFT.Parameters.modulus_eq_find
+open _root_.InfoLossLARNativeSupplements.h4d94229af05aca84.CurrentAFT.Parameters renaming modulus_eq_find → _p2mNativeSupplement126
+open _root_.InfoLossLARNativeSupplements.h7c8d9f04458b8eff.CurrentAFT.ProtectedCycle renaming cycleLaw_marginal → CurrentAFT.ProtectedCycle.cycleLaw_marginal
+open _root_.InfoLossLARNativeSupplements.h7c8d9f04458b8eff.CurrentAFT.ProtectedCycle renaming cycleLaw_marginal → _p2mNativeSupplement127
+open _root_.InfoLossLARNativeSupplements.ha0baf4dfdfb7707f.CurrentAFT.ProtectedCycle renaming cycleLaw_marginal_of_two_le → CurrentAFT.ProtectedCycle.cycleLaw_marginal_of_two_le
+open _root_.InfoLossLARNativeSupplements.ha0baf4dfdfb7707f.CurrentAFT.ProtectedCycle renaming cycleLaw_marginal_of_two_le → _p2mNativeSupplement128
+open _root_.InfoLossLARNativeSupplements.h94f62847a0770621.CurrentAFT.ProtectedCycle renaming independent_pair_law → CurrentAFT.ProtectedCycle.independent_pair_law
+open _root_.InfoLossLARNativeSupplements.h94f62847a0770621.CurrentAFT.ProtectedCycle renaming independent_pair_law → _p2mNativeSupplement129
+open _root_.InfoLossLARNativeSupplements.h2021c53cebcb97f7.CurrentAFT.RationalScalarFamilyAverage renaming current_eq_window_sum → CurrentAFT.RationalScalarFamilyAverage.current_eq_window_sum
+open _root_.InfoLossLARNativeSupplements.h2021c53cebcb97f7.CurrentAFT.RationalScalarFamilyAverage renaming current_eq_window_sum → _p2mNativeSupplement130
+open _root_.InfoLossLARNativeSupplements.h6473fbae786c301e.CurrentAFT.RootSignedMassProgram renaming referenceEntry_cast → CurrentAFT.RootSignedMassProgram.referenceEntry_cast
+open _root_.InfoLossLARNativeSupplements.h6473fbae786c301e.CurrentAFT.RootSignedMassProgram renaming referenceEntry_cast → _p2mNativeSupplement131
+open _root_.InfoLossLARNativeSupplements.h4c23fa31c2a53a0c.CurrentAFT.RootSignedMassProgram renaming singleton_probability → CurrentAFT.RootSignedMassProgram.singleton_probability
+open _root_.InfoLossLARNativeSupplements.h4c23fa31c2a53a0c.CurrentAFT.RootSignedMassProgram renaming singleton_probability → _p2mNativeSupplement132
+open _root_.InfoLossLARNativeSupplements.hb738544899c1bf50.CurrentAFT.TensorPublicProjection renaming independent_decision_expectation → CurrentAFT.TensorPublicProjection.independent_decision_expectation
+open _root_.InfoLossLARNativeSupplements.hb738544899c1bf50.CurrentAFT.TensorPublicProjection renaming independent_decision_expectation → _p2mNativeSupplement133
+open _root_.InfoLossLARNativeSupplements.hf2382f7ddc8e222e.AFT.RationalNumerics renaming natAbs_finset_sum_le → AFT.RationalNumerics.natAbs_finset_sum_le
+open _root_.InfoLossLARNativeSupplements.hf2382f7ddc8e222e.AFT.RationalNumerics renaming natAbs_finset_sum_le → _p2mNativeSupplement134
+open _root_.InfoLossLARNativeSupplements.h707562ec4bd11ae8.AFT.RationalNumerics.HeightBound renaming reduced_le → AFT.RationalNumerics.HeightBound.reduced_le
+open _root_.InfoLossLARNativeSupplements.h707562ec4bd11ae8.AFT.RationalNumerics.HeightBound renaming reduced_le → _p2mNativeSupplement135
+open _root_.InfoLossLARNativeSupplements.hd70d55bab6f2346d.CurrentAFT.CountedBoundedRootTags renaming bounded_sum → CurrentAFT.CountedBoundedRootTags.bounded_sum
+open _root_.InfoLossLARNativeSupplements.hd70d55bab6f2346d.CurrentAFT.CountedBoundedRootTags renaming bounded_sum → _p2mNativeSupplement136
+open _root_.InfoLossLARNativeSupplements.hb84db39a2a2ae627.CurrentAFT.CountedBoundedRootTags renaming flatMap_attach → CurrentAFT.CountedBoundedRootTags.flatMap_attach
+open _root_.InfoLossLARNativeSupplements.hb84db39a2a2ae627.CurrentAFT.CountedBoundedRootTags renaming flatMap_attach → _p2mNativeSupplement137
+open _root_.InfoLossLARNativeSupplements.he91e90e23380c2d0.CurrentAFT.JointTaggedPhysicalFock renaming law_nonempty → CurrentAFT.JointTaggedPhysicalFock.law_nonempty
+open _root_.InfoLossLARNativeSupplements.he91e90e23380c2d0.CurrentAFT.JointTaggedPhysicalFock renaming law_nonempty → _p2mNativeSupplement138
+section
+set_option autoImplicit false
+set_option maxHeartbeats 1000000
+set_option backward.isDefEq.respectTransparency false
+noncomputable section
+namespace InfoLossLAR.WorstCase
+open QAlgorithms.Complexity AFT
+open scoped BigOperators Classical
+set_option maxRecDepth 8192
+theorem _root_.P2Mc1b72571.h4 {Index Input Output : Type} [Fintype Index] [DecidableEq Index]
+    [Fintype Input] [Fintype Output] (law : Index → _root_.AFT.FiniteDist Input)
+    (decode : Index → Input → Output) :
+    (_root_.AFT.FiniteDist.independent law).map (fun word index => decode index (word index))=
+      _root_.AFT.FiniteDist.independent (fun index => (law index).map (decode index)) := by
+  ext values
+  simp only [_root_.AFT.FiniteDist.map_weight,_root_.AFT.FiniteDist.independent]
+  have h := Fintype.prod_sum (fun index point =>
+    if decode index point=values index then (law index).weight point else 0)
+  apply Eq.trans ?_ h.symm
+  apply Finset.sum_congr rfl
+  intro word _
+  rw [Fintype.prod_ite_zero]
+  simp only [funext_iff]
+open _root_.P2Mc1b72571 renaming h4 → _P4
+set_option maxRecDepth 8192
+theorem _root_.P2Mc1b72571.h5 {Index First Second : Type}
+    [Fintype Index] [DecidableEq Index] [Fintype First] [Fintype Second]
+    (first : Index → _root_.AFT.FiniteDist First) (second : Index → _root_.AFT.FiniteDist Second)
+    (value : (Index → First × Second) → ℝ) :
+    (_root_.AFT.FiniteDist.independent (fun index => (first index).prod (second index))).expectation value=
+      (_root_.AFT.FiniteDist.independent first).expectation (fun left =>
+        (_root_.AFT.FiniteDist.independent second).expectation (fun right => value (fun index => (left index,right index)))) := by
+  unfold _root_.AFT.FiniteDist.expectation _root_.AFT.FiniteDist.independent
+  rw [←(Equiv.arrowProdEquivProdArrow Index (fun _ => First) (fun _ => Second)).symm.sum_comp,
+    Fintype.sum_prod_type]
+  apply Finset.sum_congr rfl
+  intro left _
+  rw [Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro right _
+  simp only [Equiv.arrowProdEquivProdArrow,Equiv.coe_fn_symm_mk,_root_.AFT.FiniteDist.prod_weight,
+    Finset.prod_mul_distrib,mul_assoc]
+open _root_.P2Mc1b72571 renaming h5 → _P5
+end InfoLossLAR.WorstCase
+open _root_.P2Mc1b72571 renaming h4 → _P4
+open _root_.P2Mc1b72571 renaming h5 → _P5
+end
+end
+open _root_.P2Mc1b72571 renaming h4 → _P4
+open _root_.P2Mc1b72571 renaming h5 → _P5
+namespace AFT.FiniteConditionProgram
+end AFT.FiniteConditionProgram
+namespace AFT.FiniteConditionProgram.checks
+end AFT.FiniteConditionProgram.checks
+namespace AFT.FiniteConditionProgram.firstAccepted
+end AFT.FiniteConditionProgram.firstAccepted
+namespace AFT.FiniteConditionProgram.firstAccepted.match_1
+end AFT.FiniteConditionProgram.firstAccepted.match_1
+namespace AFT.FiniteDist.countableMix
+end AFT.FiniteDist.countableMix
+namespace AFT.FiniteDist.massOn
+end AFT.FiniteDist.massOn
+namespace AFT.GaussianSource.GaussianChain
+end AFT.GaussianSource.GaussianChain
+namespace AFT.GaussianSource.GaussianChain.normalizedMass
+end AFT.GaussianSource.GaussianChain.normalizedMass
+namespace AFT.GaussianSource.ratioError
+end AFT.GaussianSource.ratioError
+namespace AFT.Negligible
+end AFT.Negligible
+namespace AFT.RationalNumerics
+end AFT.RationalNumerics
+namespace AFT.RationalNumerics.RationalGaussianChain
+end AFT.RationalNumerics.RationalGaussianChain
+namespace AFT.RationalNumerics.RationalGaussianChain.WidthsLe
+end AFT.RationalNumerics.RationalGaussianChain.WidthsLe
+namespace AFT.RationalNumerics.RationalGaussianChain.brecOn
+end AFT.RationalNumerics.RationalGaussianChain.brecOn
+namespace AFT.RationalNumerics.RationalGaussianChain.cons
+end AFT.RationalNumerics.RationalGaussianChain.cons
+namespace AFT.RationalNumerics.RationalGaussianChain.draw
+end AFT.RationalNumerics.RationalGaussianChain.draw
+namespace AFT.RationalNumerics.RationalGaussianChain.draw.match_1
+end AFT.RationalNumerics.RationalGaussianChain.draw.match_1
+namespace AFT.RationalNumerics.RationalGaussianChain.exactChannel
+end AFT.RationalNumerics.RationalGaussianChain.exactChannel
+namespace AFT.RationalNumerics.RationalGaussianChain.finiteChannel
+end AFT.RationalNumerics.RationalGaussianChain.finiteChannel
+namespace AFT.RationalNumerics.RationalGaussianChain.finiteChannel.match_1
+end AFT.RationalNumerics.RationalGaussianChain.finiteChannel.match_1
+namespace AFT.RationalNumerics.RationalGaussianChain.nil
+end AFT.RationalNumerics.RationalGaussianChain.nil
+namespace AFT.RationalNumerics.RationalGaussianChain.realChain
+end AFT.RationalNumerics.RationalGaussianChain.realChain
+namespace AFT.RationalNumerics.RationalGaussianChain.realChain.match_1
+end AFT.RationalNumerics.RationalGaussianChain.realChain.match_1
+namespace AFT.RationalNumerics.centeredRetainedWeight
+end AFT.RationalNumerics.centeredRetainedWeight
+namespace AFT.RationalNumerics.centeredScalarMass
+end AFT.RationalNumerics.centeredScalarMass
+namespace AFT.RationalNumerics.upperRationalGaussianChain
+end AFT.RationalNumerics.upperRationalGaussianChain
+namespace AFT.RationalNumerics.upperRationalGaussianChain.match_1
+end AFT.RationalNumerics.upperRationalGaussianChain.match_1
+namespace InfoLossLAR.WorstCase.GaussianProjection
+end InfoLossLAR.WorstCase.GaussianProjection
+namespace InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry
+end InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry
+namespace InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry.numericalEnvelope
+end InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry.numericalEnvelope
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.ChainRandom
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.ChainRandom
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.ChainRandom.match_1
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.ChainRandom.match_1
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.acceptedEvent
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.acceptedEvent
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.anchorInteger
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.anchorInteger
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.attemptTicks
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.attemptTicks
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainChannel
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainChannel
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainChannel.match_1
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainChannel.match_1
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainDraw
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainDraw
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainDraw.match_1
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainDraw.match_1
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainRandomLaw
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.chainRandomLaw
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.coinFair
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.coinFair
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.configure
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.configure
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decodeProposal
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decodeProposal
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decodeTrial
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decodeTrial
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decode_firstSuccess
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decode_firstSuccess
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decode_firstSuccess.match_1
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.decode_firstSuccess.match_1
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.firstSuccess
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.firstSuccess
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.foldr_firstAccepted
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.foldr_firstAccepted
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.foldr_firstAccepted.match_1
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.foldr_firstAccepted.match_1
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.idealTicketMass
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.idealTicketMass
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.integerMass
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.integerMass
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.intervalProposal
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.intervalProposal
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.output
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.output
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.point
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.point
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.pointGuardTicks
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.pointGuardTicks
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.pointInput
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.pointInput
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.pointValue
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.pointValue
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.precisionTicks
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.precisionTicks
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.publicConfigure
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.publicConfigure
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.radius
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.radius
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.randomTicks
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.randomTicks
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.rawFair
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.rawFair
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.resolveIndex
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.resolveIndex
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.resolveIndex.match_1
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.resolveIndex.match_1
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.retryData
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.retryData
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.successMass
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.successMass
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.successfulLaw
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.successfulLaw
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trial
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trial
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialBitTicks
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialBitTicks
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialLaw
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialLaw
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialOption
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialOption
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialOption.match_1
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialOption.match_1
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialResults
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trialResults
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trueWindowMass
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.trueWindowMass
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.variance
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide.variance
+namespace InfoLossLAR.WorstCase.IntegerBasis
+end InfoLossLAR.WorstCase.IntegerBasis
+namespace InfoLossLAR.WorstCase.IntegerBasis.coordinateEquiv
+end InfoLossLAR.WorstCase.IntegerBasis.coordinateEquiv
+namespace InfoLossLAR.WorstCase.IntegerBasis.realBasis
+end InfoLossLAR.WorstCase.IntegerBasis.realBasis
+namespace InfoLossLAR.WorstCase.IntegerBasis.realMatrix
+end InfoLossLAR.WorstCase.IntegerBasis.realMatrix
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt
+end InfoLossLAR.WorstCase.RationalGramSchmidt
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.cache
+end InfoLossLAR.WorstCase.RationalGramSchmidt.cache
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.cache.match_1
+end InfoLossLAR.WorstCase.RationalGramSchmidt.cache.match_1
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.initialChain
+end InfoLossLAR.WorstCase.RationalGramSchmidt.initialChain
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.initialVariance
+end InfoLossLAR.WorstCase.RationalGramSchmidt.initialVariance
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.inputVectors
+end InfoLossLAR.WorstCase.RationalGramSchmidt.inputVectors
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.orthogonal
+end InfoLossLAR.WorstCase.RationalGramSchmidt.orthogonal
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.orthogonalStep
+end InfoLossLAR.WorstCase.RationalGramSchmidt.orthogonalStep
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.projection
+end InfoLossLAR.WorstCase.RationalGramSchmidt.projection
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.realVec
+end InfoLossLAR.WorstCase.RationalGramSchmidt.realVec
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.squaredNorm
+end InfoLossLAR.WorstCase.RationalGramSchmidt.squaredNorm
+namespace InfoLossLAR.WorstCase.RationalGramSchmidt.upper
+end InfoLossLAR.WorstCase.RationalGramSchmidt.upper
+namespace InfoLossLAR.WorstCase.boundedFinDraw
+end InfoLossLAR.WorstCase.boundedFinDraw
+namespace InfoLossLAR.WorstCase.latVec
+end InfoLossLAR.WorstCase.latVec
+namespace Integration9_9.BlockCoins
+end Integration9_9.BlockCoins
+section
+set_option autoImplicit false
+set_option backward.isDefEq.respectTransparency false
+namespace InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide
+open AFT GaussianSource RationalNumerics
+open scoped BigOperators
+noncomputable section
+set_option maxRecDepth 8192
+theorem _root_.P2Mc1b72571.h0 {Index Value : Type*} [Fintype Index] [DecidableEq Index]
+    [Fintype Value] [Nonempty Value] :
+    _root_.AFT.FiniteDist.independent (fun _ : Index => _root_.AFT.FiniteDist.uniform Value)=_root_.AFT.FiniteDist.uniform (Index → Value) := by
+  ext word
+  simp only [_root_.AFT.FiniteDist.independent,_root_.AFT.FiniteDist.uniform_weight,Finset.prod_const,Finset.card_univ,
+    Fintype.card_fun,Nat.cast_pow,inv_pow]
+open _root_.P2Mc1b72571 renaming h0 → _P0
+end
+open _root_.P2Mc1b72571 renaming h0 → _P0
+end InfoLossLAR.WorstCase.GaussianRandomizedRounding.Wide
+open _root_.P2Mc1b72571 renaming h0 → _P0
+end
+open _root_.P2Mc1b72571 renaming h0 → _P0
+section
+set_option autoImplicit false
+set_option backward.isDefEq.respectTransparency false
+set_option maxHeartbeats 1800000
+noncomputable section
+namespace InfoLossLAR.WorstCase.NativeLWETableLoader
+open QAlgorithms.Complexity AFT GaussianProjection GaussianRandomizedRounding
+open Integration9_9.GaussianRegroupMachine
+open scoped BigOperators
+set_option maxRecDepth 8192
+private theorem _root_.P2Mc1b72571.h6 {T : Type*} [Fintype T] (first second : _root_.AFT.FiniteDist T)
+    (h : ∀ test : T → ℝ,first.expectation test=second.expectation test) : first=second := by
+  classical
+  apply _root_.AFT.FiniteDist.ext
+  intro x
+  have he := h (fun y => if y=x then 1 else 0)
+  simpa [_root_.AFT.FiniteDist.expectation] using he
+open _root_.P2Mc1b72571 renaming h6 → _P6
+set_option maxRecDepth 8192
+theorem _root_.P2Mc1b72571.h2 {q N : ℕ} [NeZero q] (secret : Fin N → ZMod q)
+    (noise : _root_.AFT.FiniteDist (ZMod q)) :
+    _root_.InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry.idealLWELaw q secret noise=
+      ((_root_.AFT.FiniteDist.uniform (Fin N → ZMod q)).prod noise).map
+        (fun draw => (draw.1,dotProduct draw.1 secret+draw.2)) := by
+  apply _P6
+  intro test
+  rw [_root_.InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry.idealLWELaw,_root_.AFT.FiniteDist.expectation_mix,_root_.AFT.FiniteDist.expectation_map,
+    _root_.AFT.FiniteDist.expectation_prod]
+  apply congrArg (_root_.AFT.FiniteDist.uniform (Fin N → ZMod q)).expectation
+  funext color
+  rw [_root_.AFT.FiniteDist.expectation_map]
+  apply congrArg noise.expectation
+  funext value
+  change test (color,(∑ i,secret i*color i)+value)=test (color,(∑ i,color i*secret i)+value)
+  simp only [mul_comm]
+open _root_.P2Mc1b72571 renaming h2 → _P2
+set_option maxRecDepth 8192
+theorem _root_.P2Mc1b72571.h1 {q N blocks rows : ℕ} [NeZero q]
+    (width : ℝ) (hwidth : 0 < width) (secret : Fin N → ZMod q) :
+    _root_.AFT.FiniteDist.independent (fun _ : Fin blocks×Fin rows =>
+      _root_.InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry.idealLWELaw q secret (_root_.InfoLossLAR.WorstCase.GaussianProjection.scalarLaw q width hwidth))=
+      _root_.Integration9_9.GaussianRegroupMachine.scalarInputLaw q N rows blocks width hwidth secret := by
+  simp_rw [_P2]
+  rw [←_P4
+    (fun _ : Fin blocks×Fin rows => (_root_.AFT.FiniteDist.uniform (Fin N → ZMod q)).prod (_root_.InfoLossLAR.WorstCase.GaussianProjection.scalarLaw q width hwidth))
+    (fun _ draw => (draw.1,dotProduct draw.1 secret+draw.2))]
+  apply _P6
+  intro test
+  rw [_root_.AFT.FiniteDist.expectation_map,_P5,_P0]
+  rw [_root_.Integration9_9.GaussianRegroupMachine.scalarInputLaw,_root_.AFT.FiniteDist.expectation_map,_root_.AFT.FiniteDist.expectation_prod]
+  rfl
+open _root_.P2Mc1b72571 renaming h1 → _P1
+set_option maxRecDepth 8192
+theorem _root_.P2Mc1b72571.h3 {T : Type*} [Fintype T] (blocks rows : ℕ) (law : _root_.AFT.FiniteDist T) :
+    (_root_.AFT.FiniteDist.independent (fun _ : Fin (blocks*rows) => law)).map (_root_.InfoLossLAR.WorstCase.NativeLWETableLoader.productTableEquiv blocks rows)=
+      _root_.AFT.FiniteDist.independent (fun _ : Fin blocks×Fin rows => law) := by
+  classical
+  ext table
+  rw [_root_.AFT.FiniteDist.map_equiv_weight]
+  change (∏ i : Fin (blocks*rows),law.weight (table (finProdFinEquiv.symm i)))=
+    ∏ i : Fin blocks×Fin rows,law.weight (table i)
+  exact finProdFinEquiv.symm.prod_comp (fun i => law.weight (table i))
+open _root_.P2Mc1b72571 renaming h3 → _P3
+set_option maxRecDepth 8192
+theorem _root_.InfoLossLAR.WorstCase.NativeLWETableLoader.__p2m_proof_c1b72571110c285dc1e0 {q N blocks rows : ℕ} [NeZero q]
+    (width : ℝ) (hwidth : 0 < width) (secret : Fin N → ZMod q) :
+    (_root_.AFT.FiniteDist.independent (fun _ : Fin (blocks*rows) =>
+      _root_.InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry.idealLWELaw q secret (_root_.InfoLossLAR.WorstCase.GaussianProjection.scalarLaw q width hwidth))).map _root_.InfoLossLAR.WorstCase.NativeLWETableLoader.groupTable=
+      _root_.InfoLossLAR.WorstCase.larObservedRealTableLaw q N rows blocks (_root_.AFT.GaussianSource.residueGaussian rows q width hwidth) secret := by
+  have h := congrArg (fun law : _root_.AFT.FiniteDist ((Fin blocks×Fin rows) → ((Fin N → ZMod q)×ZMod q)) =>
+    law.map _root_.InfoLossLAR.WorstCase.GaussianProjection.regroupObserved) (_P3 blocks rows
+      (_root_.InfoLossLAR.WorstCase.GaussianProjection.CosetGeometry.idealLWELaw q secret (_root_.InfoLossLAR.WorstCase.GaussianProjection.scalarLaw q width hwidth)))
+  rw [_root_.AFT.FiniteDist.map_map,_P1,_root_.Integration9_9.GaussianRegroupMachine.scalarInputLaw] at h
+  exact h.trans (scalarObserved_regroup q N rows blocks width hwidth secret)
+end InfoLossLAR.WorstCase.NativeLWETableLoader
+open _root_.P2Mc1b72571 renaming h1 → _P1
+open _root_.P2Mc1b72571 renaming h2 → _P2
+open _root_.P2Mc1b72571 renaming h3 → _P3
+open _root_.P2Mc1b72571 renaming h6 → _P6
+end
+end
+open _root_.P2Mc1b72571 renaming h1 → _P1
+open _root_.P2Mc1b72571 renaming h2 → _P2
+open _root_.P2Mc1b72571 renaming h3 → _P3
+set_option maxRecDepth 65536
+theorem solution : (type_of% @_root_.InfoLossLAR.WorstCase.NativeLWETableLoader.__p2m_proof_c1b72571110c285dc1e0) := @_root_.InfoLossLAR.WorstCase.NativeLWETableLoader.__p2m_proof_c1b72571110c285dc1e0

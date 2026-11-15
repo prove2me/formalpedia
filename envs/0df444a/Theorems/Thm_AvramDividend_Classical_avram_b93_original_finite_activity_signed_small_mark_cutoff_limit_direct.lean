@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b93_original_finite_activity_signed_small_mark_cutoff_limit_direct
 -- name    : AvramDividend.Classical.avram_b93_original_finite_activity_signed_small_mark_cutoff_limit_direct
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:22:13.715419+00:00
 -- url     : https://prove2.me/theorems/ab1d6d01-819a-4068-a66a-b7901198ddd8

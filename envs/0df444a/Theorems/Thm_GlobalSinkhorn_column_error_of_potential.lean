@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalSinkhorn_column_error_of_potential
 -- name    : GlobalSinkhorn.column_error_of_potential
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T04:23:08.733318+00:00
 -- url     : https://prove2.me/theorems/67a53e24-f0c9-4f21-8b85-3c4a8bd0d204

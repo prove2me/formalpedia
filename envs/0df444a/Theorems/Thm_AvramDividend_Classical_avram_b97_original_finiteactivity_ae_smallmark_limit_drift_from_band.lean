@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b97_original_finiteactivity_ae_smallmark_limit_drift_from_band
 -- name    : AvramDividend.Classical.avram_b97_original_finiteactivity_ae_smallmark_limit_drift_from_band
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:41:23.661046+00:00
 -- url     : https://prove2.me/theorems/d192c0bb-5a98-4703-bfd8-134e38c9e681

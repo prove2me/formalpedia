@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_decomposition_C_2
 -- name    : CalibeatBandit.decomposition_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:41:00.350205+00:00
 -- url     : https://prove2.me/theorems/bf8f6311-e6f4-4bfb-abd2-386afb1ec088

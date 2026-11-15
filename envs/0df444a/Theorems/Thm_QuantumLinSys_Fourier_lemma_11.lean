@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLinSys_Fourier_lemma_11
 -- name    : QuantumLinSys.Fourier.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:19:07.683702+00:00
 -- url     : https://prove2.me/theorems/661ba76b-fa0a-4207-99a5-4fa3cdc81356

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a134_b0_actual_fullcell_positive_L1
 -- name    : AvramDividend.Classical.avram_ga_a134_b0_actual_fullcell_positive_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T11:27:54.949447+00:00
 -- url     : https://prove2.me/theorems/2d65f0a6-332a-4149-a5ce-d4ab693b79d9

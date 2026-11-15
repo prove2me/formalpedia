@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Puder.wordCoeff_eq_zero_and_eq_ncard_crit_and_abs_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-06T09:44:01.422221+00:00
 -- url     : https://prove2.me/submissions/bf1dc439-4791-4b65-b1f5-8c4e52d2a4ee
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StrongConv

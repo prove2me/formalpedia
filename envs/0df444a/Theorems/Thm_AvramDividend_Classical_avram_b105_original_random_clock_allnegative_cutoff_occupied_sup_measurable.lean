@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b105_original_random_clock_allnegative_cutoff_occupied_sup_measurable
 -- name    : AvramDividend.Classical.avram_b105_original_random_clock_allnegative_cutoff_occupied_sup_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:57:09.304934+00:00
 -- url     : https://prove2.me/theorems/0678321b-a72e-4907-a184-89d6f6685f70

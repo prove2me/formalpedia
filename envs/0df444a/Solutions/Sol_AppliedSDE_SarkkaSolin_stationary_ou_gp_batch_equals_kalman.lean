@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AppliedSDE.SarkkaSolin.stationary_ou_gp_batch_equals_kalman
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-13T22:46:20.149063+00:00
 -- url     : https://prove2.me/submissions/04c3ff4f-f80e-42c2-8d10-7ce0b8e68b9f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AppliedSDE_SarkkaSolin_OUKalmanInterfaces

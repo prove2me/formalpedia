@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_vertex_integrality_gap
 -- name    : ZhangTangLabelCut.LP2.vertex_integrality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:12:43.240542+00:00
 -- url     : https://prove2.me/theorems/3de8ea64-a279-4569-bcaf-abca3274865e

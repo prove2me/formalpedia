@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB141_original_gaussian_fixed_level_shrinking_band_occupation
 -- name    : AvramDividend.Classical.avram_gbB141_original_gaussian_fixed_level_shrinking_band_occupation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T09:43:28.120197+00:00
 -- url     : https://prove2.me/theorems/ab8bc576-7248-4d01-982f-bfab02826b13

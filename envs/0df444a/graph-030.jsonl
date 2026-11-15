@@ -6532,7 +6532,6 @@
 {"parent": "AvramDividend.Classical.avram_gledger39_original_bounded_stop_discount_mesh_error_L1", "child": "AvramDividend.Classical.avram_gledger107_original_ruinclipped_mesh_error_pointwise_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_gledger39_original_bounded_stop_discount_mesh_error_L1", "child": "AvramDividend.Classical.avram_gledger108_nonnegative_shifted_domination_L1", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_gledger39_original_bounded_stop_discount_mesh_error_L1", "child": "AvramDividend.Classical.avram_gledger104_original_nnreal_clipped_final_strict_cash_measurable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.avram_gledger39_original_bounded_stop_discount_mesh_error_L1", "child": "AvramDividend.Classical.avram_gledger38_original_bounded_stop_discount_mesh_error_L1", "via": ["solution"]}
 {"parent": "QEC.Coding.BDL26NativeSupportMetadata.atlas_value", "child": "QEC.Coding.BDL26NativeSupportMetadata.atlas_rows_value", "via": ["solution"]}
 {"parent": "QEC.Coding.BDL26LocalSyndromeWeights.rxWeightFactor_eq_original_family", "child": "QEC.Coding.BDL26LocalSyndromeWeights.fiberExtend_injective", "via": ["solution"]}
 {"parent": "QEC.Distillation.Triorthogonal.unorderedPairs_map", "child": "QEC.Distillation.OneQubitMagic.phaseShiftTransport_apply", "via": ["solution"]}

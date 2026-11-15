@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableVotingDistortion_lemma_14_ii
 -- name    : StableVotingDistortion.lemma_14_ii
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:04:34.96916+00:00
 -- url     : https://prove2.me/theorems/90e7a418-5cc9-4b59-a7ff-c2510de797c1

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TensorNP.Eigen.colorTensor_encoding_transfer
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-01T19:14:04.595101+00:00
 -- url     : https://prove2.me/submissions/be157a7f-27f7-4235-8718-cf85ec60ae1f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_TensorNP_Eigen_colorTensor_canonical_encoder

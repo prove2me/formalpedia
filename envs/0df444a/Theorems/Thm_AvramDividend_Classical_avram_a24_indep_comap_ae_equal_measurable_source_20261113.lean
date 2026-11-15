@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a24_indep_comap_ae_equal_measurable_source_20261113
 -- name    : AvramDividend.Classical.avram_a24_indep_comap_ae_equal_measurable_source_20261113
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:00:37.167205+00:00
 -- url     : https://prove2.me/theorems/d4e0e6c1-3b0b-4c10-92b3-72a8655f83bc

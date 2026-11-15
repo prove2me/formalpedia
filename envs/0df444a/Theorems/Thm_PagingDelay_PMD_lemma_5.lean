@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PagingDelay_PMD_lemma_5
 -- name    : PagingDelay.PMD.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:27.995185+00:00
 -- url     : https://prove2.me/theorems/a763df31-1cb1-4efa-88a9-6aa2b0aba01d

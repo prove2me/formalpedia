@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b123_original_actual_jumpfree_implies_every_negative_count_zero
 -- name    : AvramDividend.Classical.avram_b123_original_actual_jumpfree_implies_every_negative_count_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:24:25.763104+00:00
 -- url     : https://prove2.me/theorems/92e0db8f-ece4-4e44-9104-b8edb1c69cb8

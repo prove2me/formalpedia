@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB116_original_finitecap_one_mesh_gradient_L2_to_physical_limit
 -- name    : AvramDividend.Classical.avram_gbB116_original_finitecap_one_mesh_gradient_L2_to_physical_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T00:07:27.952808+00:00
 -- url     : https://prove2.me/theorems/926d00db-2128-4fe7-8ec0-86aeb896af40

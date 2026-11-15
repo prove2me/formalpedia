@@ -37691,10 +37691,10 @@
 {"parent": "QuantumLinSys.Chebyshev.lemma_19", "child": "QuantumLinSys.Chebyshev.lemma_18", "via": ["solution"]}
 {"parent": "QuantumLinSys.Chebyshev.lemma_19", "child": "QuantumLinSys_Chebyshev_Setting", "via": ["solution", "statement"]}
 {"parent": "QuantumLinSys.Fourier.bound_p13", "child": "QuantumLinSys_Fourier_Setting", "via": ["statement"]}
-{"parent": "QuantumLinSys.Fourier.eq_27", "child": "QuantumLinSys_Fourier_Setting", "via": ["statement"]}
+{"parent": "QuantumLinSys.Fourier.eq_27", "child": "QuantumLinSys_Fourier_Setting", "via": ["solution", "statement"]}
 {"parent": "QuantumLinSys.Fourier.eq_28", "child": "QuantumLinSys_Fourier_Setting", "via": ["solution", "statement"]}
-{"parent": "QuantumLinSys.Fourier.lemma_11", "child": "QuantumLinSys_Fourier_Setting", "via": ["statement"]}
-{"parent": "QuantumLinSys.Fourier.lemma_12", "child": "QuantumLinSys_Fourier_Setting", "via": ["statement"]}
+{"parent": "QuantumLinSys.Fourier.lemma_11", "child": "QuantumLinSys_Fourier_Setting", "via": ["solution", "statement"]}
+{"parent": "QuantumLinSys.Fourier.lemma_12", "child": "QuantumLinSys_Fourier_Setting", "via": ["solution", "statement"]}
 {"parent": "QuantumLinSys.Fourier.lemma_13", "child": "QuantumLinSys_Fourier_Setting", "via": ["solution", "statement"]}
 {"parent": "QuantumLinSys_Fourier_Setting", "child": "QuantumLinSys_Chebyshev_Setting", "via": ["statement"]}
 {"parent": "QuantumParallelRepetition.Strategy.jointMeasurementOperator_complete", "child": "quantum_parallel_repetition_game", "via": ["solution", "statement"]}
@@ -59091,8 +59091,8 @@
 {"parent": "SymBoolPCSP.CFixing.proposition_2_15", "child": "SymBoolPCSP_CFixing_Basic", "via": ["solution", "statement"]}
 {"parent": "SymBoolPCSP.CFixing.remark_4_9", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["solution", "statement"]}
 {"parent": "SymBoolPCSP.CFixing.remark_4_9", "child": "SymBoolPCSP_CFixing_Basic", "via": ["solution", "statement"]}
-{"parent": "SymBoolPCSP.CFixing.theorem_4_13", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["statement"]}
-{"parent": "SymBoolPCSP.CFixing.theorem_4_13", "child": "SymBoolPCSP_CFixing_Basic", "via": ["statement"]}
+{"parent": "SymBoolPCSP.CFixing.theorem_4_13", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["solution", "statement"]}
+{"parent": "SymBoolPCSP.CFixing.theorem_4_13", "child": "SymBoolPCSP_CFixing_Basic", "via": ["solution", "statement"]}
 {"parent": "SymBoolPCSP.Galois.chain", "child": "SymBoolPCSP_Galois_Basic", "via": ["solution", "statement"]}
 {"parent": "SymBoolPCSP.Galois.proposition_6_3", "child": "SymBoolPCSP_Galois_Basic", "via": ["solution", "statement"]}
 {"parent": "SymBoolPCSP.Galois.sandwich", "child": "SymBoolPCSP_Galois_Basic", "via": ["solution", "statement"]}
@@ -63742,8 +63742,8 @@
 {"parent": "Tendsto_nhdsWithin_punctured_map_add", "child": "Rectangle_defs", "via": ["solution", "statement"]}
 {"parent": "Tendsto_nhdsWithin_punctured_map_add", "child": "ResidueCalcOnRectangles_defs", "via": ["solution", "statement"]}
 {"parent": "Tendsto_nhdsWithin_punctured_map_add", "child": "ZetaBounds_defs", "via": ["solution", "statement"]}
-{"parent": "TensorBTD.Cogradient.cograd_f1", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
-{"parent": "TensorBTD.Cogradient.cograd_f2_f3", "child": "TensorBTD_Cogradient_Setting", "via": ["statement"]}
+{"parent": "TensorBTD.Cogradient.cograd_f1", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
+{"parent": "TensorBTD.Cogradient.cograd_f2_f3", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.corollary_4_3", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.fBTD_decomposition", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
 {"parent": "TensorBTD.Cogradient.proposition_4_1", "child": "TensorBTD_Cogradient_Setting", "via": ["solution", "statement"]}
@@ -63762,7 +63762,7 @@
 {"parent": "TensorNP.Bilinear.lemma_3_6", "child": "TensorNP_Bilinear_Feasibility", "via": ["solution", "statement"]}
 {"parent": "TensorNP.Bilinear.minors_vanish_iff_proportional", "child": "TensorNP_Bilinear_Construction", "via": ["solution", "statement"]}
 {"parent": "TensorNP.Bilinear.theorem_3_7", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "TensorNP.Bilinear.theorem_3_7", "child": "TensorNP_Bilinear_Encoding", "via": ["statement"]}
+{"parent": "TensorNP.Bilinear.theorem_3_7", "child": "TensorNP_Bilinear_Encoding", "via": ["solution", "statement"]}
 {"parent": "TensorNP.Bilinear.theorem_6_2", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
 {"parent": "TensorNP.Bilinear.theorem_6_2", "child": "TensorNP_Bilinear_Encoding", "via": ["solution", "statement"]}
 {"parent": "TensorNP.Bilinear.theorem_6_2", "child": "TensorNP_Bilinear_SingularValue", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_psd_supported_factorization
 -- name    : WatrousTQI.psd_supported_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-12T22:35:04.15318+00:00
 -- url     : https://prove2.me/theorems/21cdf29d-7f81-4d8d-8031-f51abec5c70f

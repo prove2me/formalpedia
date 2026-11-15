@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB102_original_finitecap_step_coefficient_ae_time_convergence
 -- name    : AvramDividend.Classical.avram_gbB102_original_finitecap_step_coefficient_ae_time_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T22:30:09.132919+00:00
 -- url     : https://prove2.me/theorems/09371f71-73ed-4e42-9e82-ae3cdda8c272

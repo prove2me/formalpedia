@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_mgg_spectral_bound
 -- name    : DetANN.mgg_spectral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:27:27.763824+00:00
 -- url     : https://prove2.me/theorems/def8c076-a87c-4a56-a000-e58e433e39ce

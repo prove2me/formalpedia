@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Puder_abs_asympCoeff_uniformExp_card_fixedPoints_le
 -- name    : Puder.abs_asympCoeff_uniformExp_card_fixedPoints_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-06T09:41:17.35877+00:00
 -- url     : https://prove2.me/theorems/6ace050e-b96c-42e4-b40b-bcfc2b6c9092

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_corollary22_basis
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.corollary22_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:39:34.800982+00:00
 -- url     : https://prove2.me/theorems/4e937a77-f88e-4af9-b357-72775becca36

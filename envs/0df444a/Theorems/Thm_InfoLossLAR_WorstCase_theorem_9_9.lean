@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_theorem_9_9
 -- name    : InfoLossLAR.WorstCase.theorem_9_9
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:06:47.30092+00:00
 -- url     : https://prove2.me/theorems/f7a21b46-6a2a-427f-af55-ffcb6c475464

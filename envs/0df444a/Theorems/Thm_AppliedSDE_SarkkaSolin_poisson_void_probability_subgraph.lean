@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_poisson_void_probability_subgraph
 -- name    : AppliedSDE.SarkkaSolin.poisson_void_probability_subgraph
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:44:52.748213+00:00
 -- url     : https://prove2.me/theorems/eb448c4a-408f-4275-8349-455b4869786e

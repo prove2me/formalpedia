@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_channel_extreme_kraus_criterion
 -- name    : WatrousTQI.channel_extreme_kraus_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-12T22:36:03.883445+00:00
 -- url     : https://prove2.me/theorems/898e0144-5902-4228-bb76-63c1e78936d6

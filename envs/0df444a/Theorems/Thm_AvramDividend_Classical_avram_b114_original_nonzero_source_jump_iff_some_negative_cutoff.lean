@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b114_original_nonzero_source_jump_iff_some_negative_cutoff
 -- name    : AvramDividend.Classical.avram_b114_original_nonzero_source_jump_iff_some_negative_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T16:17:08.548198+00:00
 -- url     : https://prove2.me/theorems/3b3ab12d-f6ac-4b64-9427-e4c944cf9ab4

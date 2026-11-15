@@ -74989,11 +74989,11 @@
 {"parent": "ChenTeboullePMD.Rate.lemma_3_2", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}
 {"parent": "ChenTeboullePMD.Rate.lemma_3_2", "child": "ChenTeboullePMD_Rate_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenTeboullePMD.Rate.lemma_3_3_i", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}
-{"parent": "ChenTeboullePMD.Rate.lemma_3_3_i", "child": "ChenTeboullePMD_Rate_Setting", "via": ["statement"]}
+{"parent": "ChenTeboullePMD.Rate.lemma_3_3_i", "child": "ChenTeboullePMD_Rate_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenTeboullePMD.Rate.lemma_3_3_ii", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}
 {"parent": "ChenTeboullePMD.Rate.lemma_3_3_ii", "child": "ChenTeboullePMD_Rate_Setting", "via": ["statement"]}
 {"parent": "ChenTeboullePMD.Rate.lemma_3_3_iii", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}
-{"parent": "ChenTeboullePMD.Rate.lemma_3_3_iii", "child": "ChenTeboullePMD_Rate_Setting", "via": ["statement"]}
+{"parent": "ChenTeboullePMD.Rate.lemma_3_3_iii", "child": "ChenTeboullePMD_Rate_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenTeboullePMD.Rate.theorem_3_4", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenTeboullePMD.Rate.theorem_3_4", "child": "ChenTeboullePMD_Rate_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenTeboullePMD_Rate_Setting", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}

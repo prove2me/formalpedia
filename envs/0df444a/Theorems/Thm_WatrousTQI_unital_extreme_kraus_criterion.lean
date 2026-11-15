@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_unital_extreme_kraus_criterion
 -- name    : WatrousTQI.unital_extreme_kraus_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-11T22:57:00.58503+00:00
 -- url     : https://prove2.me/theorems/0401061a-b2b6-4c8d-aac3-4096df5ef549

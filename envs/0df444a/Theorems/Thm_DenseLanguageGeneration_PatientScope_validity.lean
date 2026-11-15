@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DenseLanguageGeneration_PatientScope_validity
 -- name    : DenseLanguageGeneration.PatientScope.validity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T11:49:07.092023+00:00
 -- url     : https://prove2.me/theorems/46de0ce9-ec78-4e4c-8da2-600a1d234aa8

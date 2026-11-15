@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b137_original_conull_marked_grid_count_L1_from_poisson_dominance
 -- name    : AvramDividend.Classical.avram_b137_original_conull_marked_grid_count_L1_from_poisson_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:45:55.162305+00:00
 -- url     : https://prove2.me/theorems/6be8601c-4357-4cbb-b902-5d60af158943

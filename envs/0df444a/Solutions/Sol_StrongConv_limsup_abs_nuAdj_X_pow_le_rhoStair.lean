@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StrongConv.limsup_abs_nuAdj_X_pow_le_rhoStair
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T21:02:03.026778+00:00
 -- url     : https://prove2.me/submissions/d3b6fc48-6a46-4e51-a014-c4579a19822b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StrongConv
 import Definitions.Def_StrongConvPuder

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB100_original_gaussian_fixed_level_occupation_null
 -- name    : AvramDividend.Classical.avram_gbB100_original_gaussian_fixed_level_occupation_null
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T22:21:47.756642+00:00
 -- url     : https://prove2.me/theorems/4cf0bf2a-96b7-4f6b-bafc-8de622bb8e69

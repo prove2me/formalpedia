@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb63_original_terminal_strip_drift_mark_and_compensator_joint_certificate
 -- name    : AvramDividend.Classical.avram_bvb63_original_terminal_strip_drift_mark_and_compensator_joint_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:34:58.624447+00:00
 -- url     : https://prove2.me/theorems/8e5ed0e1-7edc-4f94-b63d-48e393521ac9

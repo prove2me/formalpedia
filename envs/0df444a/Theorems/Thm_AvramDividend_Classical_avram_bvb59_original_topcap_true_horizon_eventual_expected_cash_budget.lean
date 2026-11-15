@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb59_original_topcap_true_horizon_eventual_expected_cash_budget
 -- name    : AvramDividend.Classical.avram_bvb59_original_topcap_true_horizon_eventual_expected_cash_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:30:22.286241+00:00
 -- url     : https://prove2.me/theorems/d19dec8f-5dd7-476b-ad0a-ee570fb3a122

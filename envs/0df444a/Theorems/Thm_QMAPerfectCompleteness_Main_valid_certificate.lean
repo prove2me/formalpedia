@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMAPerfectCompleteness_Main_valid_certificate
 -- name    : QMAPerfectCompleteness.Main.valid_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:58:33.20837+00:00
 -- url     : https://prove2.me/theorems/e7a514c6-428f-40d9-b8c4-de2d4291cafe

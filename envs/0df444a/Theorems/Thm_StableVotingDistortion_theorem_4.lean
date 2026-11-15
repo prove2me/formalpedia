@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableVotingDistortion_theorem_4
 -- name    : StableVotingDistortion.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:06:03.357691+00:00
 -- url     : https://prove2.me/theorems/f55c3693-f0b7-4771-a90f-65b4dbb67625

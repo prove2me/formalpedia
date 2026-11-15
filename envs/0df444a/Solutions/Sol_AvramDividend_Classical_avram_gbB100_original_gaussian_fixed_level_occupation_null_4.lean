@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.avram_gbB100_original_gaussian_fixed_level_occupation_null
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-13T22:44:47.531142+00:00
 -- url     : https://prove2.me/submissions/7b0cdc86-35ca-466e-9ffd-4f9dac77a565
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gbB272_original_gaussian_fixed_level_product_measure_null

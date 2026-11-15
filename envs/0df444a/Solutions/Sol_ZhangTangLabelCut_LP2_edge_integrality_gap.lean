@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ZhangTangLabelCut.LP2.edge_integrality_gap
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-02T21:35:50.144074+00:00
 -- url     : https://prove2.me/submissions/415d9d36-0947-4f0c-b928-675fda4217bf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ZhangTangLabelCut_LP2_FiniteGraph

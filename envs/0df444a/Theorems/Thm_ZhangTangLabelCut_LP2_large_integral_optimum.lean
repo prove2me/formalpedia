@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_large_integral_optimum
 -- name    : ZhangTangLabelCut.LP2.large_integral_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:14:30.149996+00:00
 -- url     : https://prove2.me/theorems/d9acc514-9990-48de-b14b-10f22f8afd0a

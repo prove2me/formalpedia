@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b188_original_random_physical_interval_actual_jump_event_measurable
 -- name    : AvramDividend.Classical.avram_b188_original_random_physical_interval_actual_jump_event_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T23:27:58.141603+00:00
 -- url     : https://prove2.me/theorems/e1e008fe-30bb-4923-acae-bb3798f536d3

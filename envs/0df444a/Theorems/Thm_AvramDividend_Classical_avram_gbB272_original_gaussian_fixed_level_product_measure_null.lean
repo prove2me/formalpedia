@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB272_original_gaussian_fixed_level_product_measure_null
 -- name    : AvramDividend.Classical.avram_gbB272_original_gaussian_fixed_level_product_measure_null
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:41:02.164763+00:00
 -- url     : https://prove2.me/theorems/a573d733-800a-4d5e-b7dc-89ab7eebdbf7

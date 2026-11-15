@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_tendsto_prob_norm_adjPerp_div_sub_one_le
 -- name    : StrongConv.tendsto_prob_norm_adjPerp_div_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T22:54:34.886252+00:00
 -- url     : https://prove2.me/theorems/5a23a2b7-7134-4ed7-9a2b-84f21a007d6f

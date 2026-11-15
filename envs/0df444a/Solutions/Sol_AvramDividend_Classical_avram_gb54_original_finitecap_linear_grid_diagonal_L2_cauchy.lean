@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gb54_original_finitecap_linear_grid_diagonal_L2_cauchy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-11T13:19:06.876307+00:00
 -- url     : https://prove2.me/submissions/27bd4854-2350-4428-833b-62d3692539e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gb53_original_finitecap_linear_grid_each_memLp2

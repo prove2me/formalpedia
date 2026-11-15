@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Bilinear_theorem_6_2
 -- name    : TensorNP.Bilinear.theorem_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:10:36.798259+00:00
 -- url     : https://prove2.me/theorems/9eb03497-d0bb-47fe-bfc4-dd9230d87679

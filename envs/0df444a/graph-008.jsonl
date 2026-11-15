@@ -5070,7 +5070,7 @@
 {"parent": "dusart_mesh_upper_group573_part08", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group530_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "MazurTransfer_Order13MixedQuadraticOriginalWholeRationalCurveComparisonData20261019", "child": "MazurTransfer_Order13MixedQuadraticOriginalWholeCurveBaseChangeData20261019", "via": ["statement"]}
-{"parent": "QSVT19.Main.lemma_9", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.lemma_9", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group456_part03", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group371_part02", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "DriftVarCtrl.FixedLB.lemma_10", "child": "DriftVarCtrl_FixedLB_TwoInterval", "via": ["statement"]}
@@ -19750,7 +19750,7 @@
 {"parent": "OAI.Problem313.BlockAverage.captured_mass_le_four_uniform", "child": "OAI_Combinatorics_SharpThreshold_BooleanDerivative", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem313.BlockAverage.captured_mass_le_four_uniform", "child": "OAI_Combinatorics_SharpThreshold_BlockOrbit", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem313.BlockAverage.captured_mass_le_four_uniform", "child": "OAI_Combinatorics_SharpThreshold_Permutation", "via": ["solution", "statement"]}
-{"parent": "QSVT19.Main.corollary_8", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.corollary_8", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Frontier18.P10.tightnessCriterion", "child": "QAlgorithms_Papers_Independent_Frontier18_P10", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group285_part03", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "WassInvCov.Shrinkage.worstCaseExp_eq_covariance_sup", "child": "WassInvCov_Shrinkage_Setting", "via": ["statement"]}

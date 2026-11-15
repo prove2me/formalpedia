@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CNFEncComplexity_lemma_14
 -- name    : CNFEncComplexity.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:33:24.773519+00:00
 -- url     : https://prove2.me/theorems/f66ee6dd-f5ce-4a65-bcd0-989db5d13346

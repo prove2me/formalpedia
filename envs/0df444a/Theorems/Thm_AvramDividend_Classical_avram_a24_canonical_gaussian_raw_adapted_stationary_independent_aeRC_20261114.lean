@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a24_canonical_gaussian_raw_adapted_stationary_independent_aeRC_20261114
 -- name    : AvramDividend.Classical.avram_a24_canonical_gaussian_raw_adapted_stationary_independent_aeRC_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:15:26.683368+00:00
 -- url     : https://prove2.me/theorems/1e9ae8de-1cda-4d1e-afac-5953dc309b34

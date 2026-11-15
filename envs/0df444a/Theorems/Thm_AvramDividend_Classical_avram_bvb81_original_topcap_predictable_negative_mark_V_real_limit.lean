@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb81_original_topcap_predictable_negative_mark_V_real_limit
 -- name    : AvramDividend.Classical.avram_bvb81_original_topcap_predictable_negative_mark_V_real_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T21:14:15.056495+00:00
 -- url     : https://prove2.me/theorems/46febc3a-e1b8-4ce6-ac7a-b88543ecadef

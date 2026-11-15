@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB65_original_finitecap_stopped_gradient_time_L2_energy_cauchy
 -- name    : AvramDividend.Classical.avram_gbB65_original_finitecap_stopped_gradient_time_L2_energy_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:26:09.861192+00:00
 -- url     : https://prove2.me/theorems/3830d8b4-95e2-4ab1-995d-77273195cfa7

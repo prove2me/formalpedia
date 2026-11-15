@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b99_original_random_stopped_source_occupied_cells_measurable
 -- name    : AvramDividend.Classical.avram_b99_original_random_stopped_source_occupied_cells_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:47:42.781061+00:00
 -- url     : https://prove2.me/theorems/129d33e3-0507-4a71-93cf-0cf00d386d16

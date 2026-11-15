@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WatrousTQI_kraus_dependence_hermitian_witness
 -- name    : WatrousTQI.kraus_dependence_hermitian_witness
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-12T22:35:36.132946+00:00
 -- url     : https://prove2.me/theorems/cae8d23e-e767-41a8-9f09-145c51fff77c

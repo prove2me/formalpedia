@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Palvolgyi2026_kneser_tucker
 -- name    : Palvolgyi2026.kneser_tucker
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:41:26.298987+00:00
 -- url     : https://prove2.me/theorems/d7d55e2d-28a1-495f-a4f8-c295ba0dac28

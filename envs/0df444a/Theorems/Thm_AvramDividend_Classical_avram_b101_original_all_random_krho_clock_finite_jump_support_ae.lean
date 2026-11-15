@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b101_original_all_random_krho_clock_finite_jump_support_ae
 -- name    : AvramDividend.Classical.avram_b101_original_all_random_krho_clock_finite_jump_support_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:50:59.962072+00:00
 -- url     : https://prove2.me/theorems/b96906b8-afa1-4597-86e6-9d007832de08

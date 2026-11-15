@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_expected_potential
 -- name    : DetANN.expected_potential
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:26:29.210538+00:00
 -- url     : https://prove2.me/theorems/61c2087d-371e-41b9-a19a-f87a2b243084

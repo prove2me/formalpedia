@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_occupation_bind_sections_integrable_local
 -- name    : occupation_bind_sections_integrable_local
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T13:49:14.916513+00:00
 -- url     : https://prove2.me/theorems/b1d59eba-4373-4046-8d79-4f717dd511ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB311_exact_original_gaussian_physical_time_kernel_factor
 -- name    : AvramDividend.Classical.avram_gbB311_exact_original_gaussian_physical_time_kernel_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:08:45.101266+00:00
 -- url     : https://prove2.me/theorems/8febb75d-9182-4b1d-a063-d5756bafffbf

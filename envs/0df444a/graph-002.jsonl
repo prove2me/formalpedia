@@ -318,7 +318,7 @@
 {"parent": "FCP.AgohGiuga.agoh_giuga_sum", "child": "FCP.AgohGiuga.giuga_conjecture_arith", "via": ["solution"]}
 {"parent": "FCP.AgohGiuga.agoh_giuga_sum", "child": "FCP.AgohGiuga.giuga_criterion", "via": ["solution"]}
 {"parent": "FCP.BatemanHorn.bateman_horn_conjecture", "child": "FCP_BatemanHorn", "via": ["statement"]}
-{"parent": "FCP.BatemanHorn.bunyakovsky_conjecture", "child": "FCP_BatemanHorn", "via": ["statement"]}
+{"parent": "FCP.BatemanHorn.bunyakovsky_conjecture", "child": "FCP_BatemanHorn", "via": ["solution", "statement"]}
 {"parent": "FCP.BusyBeaver.busy_beaver_exceeds_computable", "child": "FCP_BusyBeaver", "via": ["statement"]}
 {"parent": "FCP.InvariantSubspace.invariant_subspace_l1_counterexample", "child": "FCP_InvariantSubspace", "via": ["statement"]}
 {"parent": "FCP.InvariantSubspace.invariant_subspace_problem", "child": "FCP_InvariantSubspace", "via": ["statement"]}
@@ -329,7 +329,7 @@
 {"parent": "FCP.Mersenne.catalan_mersenne_conjecture", "child": "FCP_Mersenne", "via": ["statement"]}
 {"parent": "FCP.Mersenne.new_mersenne_conjecture", "child": "FCP_Mersenne", "via": ["statement"]}
 {"parent": "FCP.Mills.mills_constant_irrational", "child": "FCP_Mills", "via": ["statement"]}
-{"parent": "FCP.Mills.mills_theorem", "child": "FCP_Mills", "via": ["statement"]}
+{"parent": "FCP.Mills.mills_theorem", "child": "FCP_Mills", "via": ["solution", "statement"]}
 {"parent": "FCP.Order.one_third_two_thirds_conjecture", "child": "FCP_LinearExtensions", "via": ["statement"]}
 {"parent": "FCP.Transcendence.irrational_catalanConstant", "child": "FCP_CatalanConstant", "via": ["solution", "statement"]}
 {"parent": "FCP.Transcendence.irrational_catalanConstant", "child": "OAI.InternalCatalan.catalan_irrational", "via": ["solution"]}
@@ -51151,7 +51151,7 @@
 {"parent": "KoideRelation.sqrt_free_not_imp_koide", "child": "KoideRelation_defs", "via": ["solution", "statement"]}
 {"parent": "KoideRelation.tau_mass_prediction", "child": "KoideRelation_defs", "via": ["solution", "statement"]}
 {"parent": "Komlos.banaszczyk_bound", "child": "Komlos_model", "via": ["solution", "statement"]}
-{"parent": "Komlos.bansal_jiang_beck_fiala", "child": "Komlos_model", "via": ["statement"]}
+{"parent": "Komlos.bansal_jiang_beck_fiala", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.bansal_jiang_komlos_bound", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.beck_fiala", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.beck_fiala_banaszczyk", "child": "Komlos.banaszczyk_bound", "via": ["solution"]}
@@ -86055,7 +86055,7 @@
 {"parent": "MazurCampaign.no_prime_ge_seventeen", "child": "MazurCampaign.no_order_seventeen", "via": ["solution"]}
 {"parent": "MazurCampaign.no_prime_ge_seventeen", "child": "MazurCampaign.no_prime_ge_twenty_three", "via": ["solution"]}
 {"parent": "MazurCampaign.no_prime_ge_seventeen", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}
-{"parent": "MazurCampaign.no_prime_ge_twenty_three", "child": "MazurCampaign_group_constraints", "via": ["statement"]}
+{"parent": "MazurCampaign.no_prime_ge_twenty_three", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}
 {"parent": "MazurCampaign.no_seven_square", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}
 {"parent": "MazurCampaign.no_three_square", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}
 {"parent": "MazurCampaign.no_two_cube", "child": "MazurCampaign.rational_n_torsion_bound", "via": ["solution"]}

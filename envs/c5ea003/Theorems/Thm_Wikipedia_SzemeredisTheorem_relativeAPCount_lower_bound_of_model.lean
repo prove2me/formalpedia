@@ -1,0 +1,157 @@
+-- Prove2me | Theorems.Thm_Wikipedia_SzemeredisTheorem_relativeAPCount_lower_bound_of_model
+-- name    : Wikipedia.SzemeredisTheorem.relativeAPCount_lower_bound_of_model
+-- status  : Proved
+-- author  : @kmehltretter82
+-- created : 2026-11-14T10:26:59.438197+00:00
+-- url     : https://prove2.me/theorems/d7178530-e372-438f-b61a-9ad307dfe6ea
+-- title:
+--   A dense model transfers a progression-count lower bound
+-- statement:
+--   Let $N\ne0$, fix $r\in\mathbb N$, and suppose the weighted AP-count property in length $r+2$ holds at density $\delta$ with lower bound $d$. Let $0\le f\le\nu$ and $0\le g\le1$ on $\mathbb Z/N\mathbb Z$. If their arity-$(r+1)$ cut discrepancy is at most $c$, $\delta+c\le\operatorname{mean}(f)$, and the relative AP comparison for $\nu$ holds with errors $c,e$, then $d-e\le\operatorname{cyclicAPCount}_{r+2}(f)$.
+-- source:
+--   https://github.com/plby/lean-proofs/blob/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/Wikipedia/GreenTao/Transference/RelativeSzemeredi.lean#L51-L84
+
+/- Mechanically transplanted from https://github.com/plby/lean-proofs.git at 8822f7ddef30fadbd92e1c6ab4ed897af356af5e. Original scopes and proof bytes are oracle-derived. -/
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_LinearForms_Condition
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_LinearForms_Independence
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_Transference_BoxNorm
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_Transference_ConvolutionClosure
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_Transference_ConvolutionMoments
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_Transference_FaceMoments
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_Transference_RelativeSzemeredi
+import Definitions.Def_GreenTaoPort_Wikipedia_GreenTao_Transference_StrongLinearForms
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_ArithmeticProgression_Count
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_ArithmeticProgression_CountExtraction
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_ArithmeticProgression_ShortInterval
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Finite_Mean
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_APCorrespondence
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_APRemoval
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_AdaptiveCoarseTargetRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_BoundaryBernoulli
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_CoarseAtomBridge
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_CoarseConfigurationCounting
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_CoarseTargetRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_ConditionalAverage
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_Energy
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_FacePartition
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_FullOrderedRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_GrowthFunctionRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleConfigurationBridge
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleConfigurationStep
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleCounting
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleDuplication
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleFiltration
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleFrozenCut
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleFrozenUniformity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleGeneralizedCounting
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleIndicatorDuplication
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleRelativeCounting
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_HypergraphBundleSourceGoodnessBridge
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedAtomEnergy
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedBoundaryPartition
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedConfigurationCounting
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedFullBoundary
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedGoodAtoms
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedPattern
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedPatternPartition
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedRemoval
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedRemovalParameters
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedRemovalTheorem
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_OrderedSimplexBridge
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_PreliminaryOrderedRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_RankwiseBundleEnvelopeSelection
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_Regularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_Removal
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_Simplex
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_SourceFullBundleRemovalAssembly
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_SourceFullBundleRemovalParameters
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_SourceFullCoarseTargetRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_SourceFullGoodAtoms
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_SourceFullOrderedRemoval
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_StrongOrderedComplexRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_TowerDominatingGrowth
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_Unweighted
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_WeakCounting
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Hypergraph_WeakRegularity
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_LinearForms_Basic
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Statement
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Szemeredi_Weighted
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_APCut
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_BooleanCutReduction
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_CutDiscrepancy
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_CutTransport
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_DenseModel
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_GeneralizedConvolution
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_PolynomialApproximation
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_SimplexCounting
+import Definitions.Def_GreenTaoPort_Wikipedia_SzemeredisTheorem_Transference_SimplexTelescoping
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.Group.Indicator
+import Mathlib.Algebra.Order.BigOperators.Expect
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.Chebyshev
+import Mathlib.Analysis.LocallyConvex.Separation
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Fin.Tuple.Finset
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Int.Lemmas
+import Mathlib.Data.Int.ModEq
+import Mathlib.Data.Nat.Lattice
+import Mathlib.Data.Real.Archimedean
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Set.Card
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.ZMod.Units
+import Mathlib.Order.Hom.PowersetCard
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Order.LiminfLimsup
+import Mathlib.Order.Partition.Finpartition
+import Mathlib.RingTheory.Int.Basic
+import Mathlib.Tactic
+import Mathlib.Topology.ContinuousMap.Weierstrass
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+
+set_option autoImplicit true
+set_option relaxedAutoImplicit false
+set_option maxSynthPendingDepth 3
+/-!
+# Quantitative relative Szemerédi assembly
+
+This file composes the parts of transference which do not depend on the
+remaining sparse-simplex comparison.
+
+* Cut discrepancy against the constant tests retains the mean of the sparse
+  weight in its dense model.
+* A uniform weighted Szemerédi theorem gives a positive lower bound for the
+  dense model's progression count.
+* Any quantitative relative-counting comparison then transfers that lower
+  bound back to the sparse weight.
+
+The final theorem plugs in the polynomial dense-model theorem obtained from
+the ordinary CFZ linear-forms condition.  Its only unproved analytic input
+is named explicitly by `RelativeAPComparisonLe`; no asymptotic or
+pseudorandomness assertion is hidden in this module.
+-/
+open Wikipedia.SzemeredisTheorem
+open scoped Polynomial
+
+theorem Wikipedia.SzemeredisTheorem.relativeAPCount_lower_bound_of_model
+    {r N : ℕ} [NeZero N]
+    {ν f g : ZMod N → ℝ}
+    {δ denseCount cutError countError : ℝ}
+    (hweighted :
+      HasWeightedAPCount (r + 2) N δ denseCount)
+    (hf0 : ∀ x, 0 ≤ f x)
+    (hfν : ∀ x, f x ≤ ν x)
+    (hg : IsUnitBounded g)
+    (hcut : CutDiscrepancyLe (r + 1) f g cutError)
+    (hmean : δ + cutError ≤ mean f)
+    (hcomparison :
+      RelativeAPComparisonLe
+        r N ν cutError countError) :
+    denseCount - countError ≤
+      cyclicAPCount (r + 2) N f := by sorry

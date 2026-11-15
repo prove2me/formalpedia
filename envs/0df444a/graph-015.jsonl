@@ -43094,7 +43094,7 @@
 {"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_count__p2m_067ebb73_e756_4640_b5cf_ef3a010c6f28_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P67.distortion_free", "child": "QAlgorithms_Papers_Independent_Intakethird100_P67", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P50.quantumCorrection_zero_rightDerivative", "child": "QAlgorithms_Papers_Independent_Intakethird100_P50", "via": ["statement"]}
-{"parent": "TensorNP.Eigen.colorTensor_canonical_encoder", "child": "TensorNP_Eigen_Construction", "via": ["statement"]}
+{"parent": "TensorNP.Eigen.colorTensor_canonical_encoder", "child": "TensorNP_Eigen_Construction", "via": ["solution", "statement"]}
 {"parent": "OAIQ098D090", "child": "OAIQ098D003", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count__p2m_06bdf4fe_cd1d_4093_b45f_6118505c9d7e_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAIQ106D261", "child": "OAIQ106D000", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibeatBandit_sampling_conversion_C_1
 -- name    : CalibeatBandit.sampling_conversion_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:41:08.647377+00:00
 -- url     : https://prove2.me/theorems/43a1668e-66ae-4e5b-8aaf-ec081391b4d8

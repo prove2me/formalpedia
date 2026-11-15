@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StrongConv.one_sub_le_prob_norm_adjPerp_le_and_mStar_eq_one_iff_and_div_le_prob_norm_adjPerp_ge
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T22:49:09.940394+00:00
 -- url     : https://prove2.me/submissions/624e98af-e0e9-43d2-8313-13f7d32764e6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StrongConv
 import Theorems.Thm_StrongConv_prob_norm_adjPerp_ge_of_lt_rhoStair

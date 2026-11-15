@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLinSys_Fourier_eq_27
 -- name    : QuantumLinSys.Fourier.eq_27
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:19:01.330914+00:00
 -- url     : https://prove2.me/theorems/dacf0c58-a5e8-4f6d-8c1f-f248a9bf7738

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB234_original_floor_two_cutoff_shrinking_union_from_upper_null
 -- name    : AvramDividend.Classical.avram_gbB234_original_floor_two_cutoff_shrinking_union_from_upper_null
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T08:22:18.016201+00:00
 -- url     : https://prove2.me/theorems/f6f5666c-fac0-4f21-9a8a-f572b33c96ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gb72_original_finitecap_linear_mesh_covariance_limit
 -- name    : AvramDividend.Classical.avram_gb72_original_finitecap_linear_mesh_covariance_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T13:17:25.071595+00:00
 -- url     : https://prove2.me/theorems/0c59804e-bed5-4de1-a7e3-66db88d6482c

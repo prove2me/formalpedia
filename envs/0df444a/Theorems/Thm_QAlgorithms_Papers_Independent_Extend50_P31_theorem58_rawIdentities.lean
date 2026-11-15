@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_theorem58_rawIdentities
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.theorem58_rawIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T23:03:46.539681+00:00
 -- url     : https://prove2.me/theorems/ae21c23b-8161-408a-92cf-4daef8ebd00f

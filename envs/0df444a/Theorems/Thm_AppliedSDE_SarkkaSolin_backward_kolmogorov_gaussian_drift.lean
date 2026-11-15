@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_backward_kolmogorov_gaussian_drift
 -- name    : AppliedSDE.SarkkaSolin.backward_kolmogorov_gaussian_drift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:46:52.578686+00:00
 -- url     : https://prove2.me/theorems/0fda7328-b552-40b9-83b5-e9d2e94d9332

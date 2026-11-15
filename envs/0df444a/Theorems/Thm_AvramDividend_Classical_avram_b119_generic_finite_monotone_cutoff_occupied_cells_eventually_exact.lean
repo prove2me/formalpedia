@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b119_generic_finite_monotone_cutoff_occupied_cells_eventually_exact
 -- name    : AvramDividend.Classical.avram_b119_generic_finite_monotone_cutoff_occupied_cells_eventually_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:27:26.607972+00:00
 -- url     : https://prove2.me/theorems/79b11838-7874-440b-9e53-ea96562675e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a138_b0_true_crossing_positive_spatial_ae_zero
 -- name    : AvramDividend.Classical.avram_ga_a138_b0_true_crossing_positive_spatial_ae_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T11:32:44.5632+00:00
 -- url     : https://prove2.me/theorems/4f66dc21-d9e7-4d2b-828f-3041653a0afc

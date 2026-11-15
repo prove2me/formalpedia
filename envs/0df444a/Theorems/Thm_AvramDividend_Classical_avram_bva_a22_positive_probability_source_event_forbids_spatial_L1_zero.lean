@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva_a22_positive_probability_source_event_forbids_spatial_L1_zero
 -- name    : AvramDividend.Classical.avram_bva_a22_positive_probability_source_event_forbids_spatial_L1_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T13:04:44.664646+00:00
 -- url     : https://prove2.me/theorems/dafd8350-f21d-46a7-9efa-a8ab46ea93d8

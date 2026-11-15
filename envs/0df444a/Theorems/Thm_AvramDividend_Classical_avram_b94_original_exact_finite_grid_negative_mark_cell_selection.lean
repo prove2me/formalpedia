@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b94_original_exact_finite_grid_negative_mark_cell_selection
 -- name    : AvramDividend.Classical.avram_b94_original_exact_finite_grid_negative_mark_cell_selection
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:30:57.482817+00:00
 -- url     : https://prove2.me/theorems/8a8bbbfe-66ef-46a5-8190-f51b36bb8bf6

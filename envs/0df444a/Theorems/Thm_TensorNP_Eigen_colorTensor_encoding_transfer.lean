@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_colorTensor_encoding_transfer
 -- name    : TensorNP.Eigen.colorTensor_encoding_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-01T18:50:44.939592+00:00
 -- url     : https://prove2.me/theorems/9ba06805-ba69-4d65-b7de-eb19244a0705

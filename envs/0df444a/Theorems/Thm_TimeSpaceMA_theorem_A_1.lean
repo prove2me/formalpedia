@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimeSpaceMA_theorem_A_1
 -- name    : TimeSpaceMA.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:57:17.858881+00:00
 -- url     : https://prove2.me/theorems/9c8b1a20-92a6-465d-af2b-dea0e27f1ee9

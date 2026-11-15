@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DenseLanguageGeneration_PatientScope_optimal_lower_density
 -- name    : DenseLanguageGeneration.PatientScope.optimal_lower_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T11:49:19.314644+00:00
 -- url     : https://prove2.me/theorems/d6cadad1-8527-4c08-9427-9cc8dffb8743

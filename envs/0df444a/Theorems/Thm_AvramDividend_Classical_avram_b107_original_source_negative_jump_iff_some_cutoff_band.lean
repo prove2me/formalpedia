@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b107_original_source_negative_jump_iff_some_cutoff_band
 -- name    : AvramDividend.Classical.avram_b107_original_source_negative_jump_iff_some_cutoff_band
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T15:59:06.259206+00:00
 -- url     : https://prove2.me/theorems/84d8874d-3ab3-462f-a0fd-d0edb3600a88

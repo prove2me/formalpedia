@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMAPerfectCompleteness_Main_qma_eq_qma1_hadamard_toffoli
 -- name    : QMAPerfectCompleteness.Main.qma_eq_qma1_hadamard_toffoli
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:00:23.904436+00:00
 -- url     : https://prove2.me/theorems/83417b16-40bb-4dfb-ae5f-48e603bf2b4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a30_original_interval_lindeberg_finset
 -- name    : AvramDividend.Classical.avram_ga_a30_original_interval_lindeberg_finset
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:58:38.959336+00:00
 -- url     : https://prove2.me/theorems/dcd307cc-bd23-4f6a-80e2-ef9dba440ab5

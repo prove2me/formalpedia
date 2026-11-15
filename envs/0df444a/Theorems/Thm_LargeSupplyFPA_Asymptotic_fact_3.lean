@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeSupplyFPA_Asymptotic_fact_3
 -- name    : LargeSupplyFPA.Asymptotic.fact_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:03:42.209278+00:00
 -- url     : https://prove2.me/theorems/474219f2-7ecb-4429-8cb7-e453b4289191

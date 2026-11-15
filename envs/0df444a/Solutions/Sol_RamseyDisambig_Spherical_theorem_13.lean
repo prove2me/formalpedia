@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RamseyDisambig.Spherical.theorem_13
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:03:11.208234+00:00
 -- url     : https://prove2.me/submissions/7721e6f6-6f0b-4d55-92fd-25c2fa2bae71
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RamseyDisambig_Spherical_Torus

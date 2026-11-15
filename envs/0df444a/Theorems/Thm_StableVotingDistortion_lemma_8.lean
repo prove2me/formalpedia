@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableVotingDistortion_lemma_8
 -- name    : StableVotingDistortion.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:07:11.786625+00:00
 -- url     : https://prove2.me/theorems/ccaca65d-568d-40e8-b9c6-a4dd7fc4d5ae

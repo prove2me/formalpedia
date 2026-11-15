@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_theorem_1_3
 -- name    : TensorNP.Eigen.theorem_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:16.553822+00:00
 -- url     : https://prove2.me/theorems/743339ae-90ed-48db-9ff7-8dbf34e4b6f7

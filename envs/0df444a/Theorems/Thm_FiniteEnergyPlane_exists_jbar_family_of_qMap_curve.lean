@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_jbar_family_of_qMap_curve
 -- name    : FiniteEnergyPlane.exists_jbar_family_of_qMap_curve
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-12T18:10:22.5266+00:00
 -- url     : https://prove2.me/theorems/a3e8526f-e405-4790-8bce-97009e8a209b

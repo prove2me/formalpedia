@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_lemma_7_1_graph
 -- name    : DetANN.lemma_7_1_graph
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:27:35.260651+00:00
 -- url     : https://prove2.me/theorems/1aac5ad8-a07f-4d2f-8c68-4a52b1a65557

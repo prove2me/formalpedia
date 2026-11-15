@@ -27370,7 +27370,6 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.KN.frP_0_0", "child": "Atlas_Core_Lift", "via": ["solution", "statement"]}
 {"parent": "R6Chk.Bit.Loc.idBlk2", "child": "IntMul_Kappa_R6_Data_BitNBIdData", "via": ["solution", "statement"]}
 {"parent": "R6Chk.Bit.Loc.idBlk2", "child": "IntMul_Kappa_R6_Defs51", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.infinite_small_jump_moment_excludes_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "ModernConvex.CQRepr.legendre_cqr", "child": "ModernConvex_CQRepr_CQR", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support21.P14.admissible_iff_uAdmissible", "child": "QAlgorithms_Papers_Independent_Support21_P14", "via": ["solution", "statement"]}
 {"parent": "LowRankMarkov.RankMLE.lemma3_kl_concentration_rank_cone", "child": "LowRankMarkov_RankMLE_Chain", "via": ["statement"]}
@@ -28831,8 +28830,6 @@
 {"parent": "IntMul.HvdH.SPf.Sapprox_bound", "child": "IntMul_HvdH_SApprox", "via": ["statement"]}
 {"parent": "ProxBundle.GPB.proposition_4_3", "child": "ProxBundle_GPB_Model", "via": ["solution", "statement"]}
 {"parent": "HackingInterval.ATE.theorem_4_max", "child": "HackingInterval_ATE_Design", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_deriv_at_zero_eq_two_over_sigma", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_deriv_at_zero_eq_two_over_sigma", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
 {"parent": "SingCtrlLevy.Barrier.lemma_3", "child": "SingCtrlLevy_Barrier_Model", "via": ["statement"]}
 {"parent": "SingCtrlLevy.Barrier.lemma_3", "child": "SingCtrlLevy_Barrier_Levy", "via": ["statement"]}
 {"parent": "UCConvexHull.OneUC.block_hull", "child": "UCConvexHull_OneUC_Model", "via": ["statement"]}
@@ -60082,10 +60079,6 @@
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation", "child": "AvramDividend.Classical.unbounded_esscher_excursion_integrated_scale_representation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation", "child": "AvramDividend.Classical.excursion_integral_scale_derivative", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation", "child": "AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation_nonpositive_q", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_two_of_gaussian", "child": "AvramDividend.Classical.deriv_eq_zero_of_atomless_cumulative", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_two_of_gaussian", "child": "AvramDividend.Classical.unbounded_esscher_excursion_integrated_scale_representation", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_two_of_gaussian", "child": "AvramDividend.Classical.excursion_integral_scale_derivative", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_two_of_gaussian", "child": "AvramDividend.Classical.contDiffOn_two_of_deriv_eq_product_of_continuous", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation_of_gaussian", "child": "AvramDividend.Classical.unbounded_esscher_excursion_integrated_scale_representation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation_of_gaussian", "child": "AvramDividend.Classical.excursion_integral_scale_derivative", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation_of_infinite_small_jump", "child": "AvramDividend.Classical.unbounded_esscher_excursion_integrated_scale_representation", "via": ["solution"]}

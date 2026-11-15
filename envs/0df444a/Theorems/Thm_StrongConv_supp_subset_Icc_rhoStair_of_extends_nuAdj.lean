@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongConv_supp_subset_Icc_rhoStair_of_extends_nuAdj
 -- name    : StrongConv.supp_subset_Icc_rhoStair_of_extends_nuAdj
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-04T22:55:04.140205+00:00
 -- url     : https://prove2.me/theorems/70d47bfe-fdb1-4b86-a93d-85cef96f054d

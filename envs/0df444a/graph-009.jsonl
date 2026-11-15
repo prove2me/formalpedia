@@ -32137,7 +32137,7 @@
 {"parent": "MIPRE.sum_weighted_mul_le_sqrt", "child": "MIPRE_Foundations_CrossConsistency", "via": ["solution", "statement"]}
 {"parent": "MIPRE.sum_weighted_mul_le_sqrt", "child": "MIPRE_Foundations_LowDegree_SchwartzZippel", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group238_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "QSVT19.Main.corollary_10", "child": "QSVT19_Main_Setting", "via": ["statement"]}
+{"parent": "QSVT19.Main.corollary_10", "child": "QSVT19_Main_Setting", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group659_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group009", "child": "dusart_mesh_upper_group009_part01", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group009", "child": "dusart_mesh_upper_group009_part00", "via": ["statement"]}

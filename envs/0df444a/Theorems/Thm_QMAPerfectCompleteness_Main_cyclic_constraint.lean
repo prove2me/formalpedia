@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMAPerfectCompleteness_Main_cyclic_constraint
 -- name    : QMAPerfectCompleteness.Main.cyclic_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:59:00.207106+00:00
 -- url     : https://prove2.me/theorems/c979843b-ffb4-4aca-b566-92a53f538dcb

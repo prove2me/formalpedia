@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StratifyMarkets_DoubleAuction_lemma_4_8
 -- name    : StratifyMarkets.DoubleAuction.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:52:20.468056+00:00
 -- url     : https://prove2.me/theorems/cc6a2271-f29f-4ab1-ae40-1480bda14d51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVT19_Main_definition_11_svd_exists
 -- name    : QSVT19.Main.definition_11_svd_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:25.671363+00:00
 -- url     : https://prove2.me/theorems/755eca4a-197b-41d6-ba8b-58cf75802f87

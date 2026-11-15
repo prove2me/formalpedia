@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_gaussian_transition_density_dirac_limit
 -- name    : AppliedSDE.SarkkaSolin.gaussian_transition_density_dirac_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:46:38.56507+00:00
 -- url     : https://prove2.me/theorems/45882bf3-274d-457a-b807-a8c188685a8d

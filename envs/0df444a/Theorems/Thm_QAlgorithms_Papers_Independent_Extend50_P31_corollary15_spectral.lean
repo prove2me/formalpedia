@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Extend50_P31_corollary15_spectral
 -- name    : QAlgorithms.Papers.Independent.Extend50.P31.corollary15_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T22:34:29.276724+00:00
 -- url     : https://prove2.me/theorems/70c81690-375a-4a95-b210-f5430a6be619

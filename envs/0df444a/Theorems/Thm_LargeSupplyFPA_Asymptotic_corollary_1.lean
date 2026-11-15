@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeSupplyFPA_Asymptotic_corollary_1
 -- name    : LargeSupplyFPA.Asymptotic.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T06:03:41.634295+00:00
 -- url     : https://prove2.me/theorems/94ae1f1b-49e1-4f74-ae13-3401a8fe1d03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b100_original_finite_negativeactivity_source_grid_marked_count_ae
 -- name    : AvramDividend.Classical.avram_b100_original_finite_negativeactivity_source_grid_marked_count_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:48:39.621414+00:00
 -- url     : https://prove2.me/theorems/af8104cf-e617-446d-94e9-8f26fa2d2fe6

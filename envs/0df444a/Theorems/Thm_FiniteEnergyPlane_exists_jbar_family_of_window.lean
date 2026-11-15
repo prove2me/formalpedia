@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_jbar_family_of_window
 -- name    : FiniteEnergyPlane.exists_jbar_family_of_window
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-12T18:10:21.644588+00:00
 -- url     : https://prove2.me/theorems/dc421054-ea81-41c8-8626-e7078beb2747

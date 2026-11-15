@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB163_original_finitecap_good_times_for_mesh_convergence
 -- name    : AvramDividend.Classical.avram_gbB163_original_finitecap_good_times_for_mesh_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T12:58:20.610228+00:00
 -- url     : https://prove2.me/theorems/f4bd6e4f-4ec1-475b-a4e3-9c1ae70d3e06

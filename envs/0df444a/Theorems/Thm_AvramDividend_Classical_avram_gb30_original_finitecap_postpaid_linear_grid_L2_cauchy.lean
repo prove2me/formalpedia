@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gb30_original_finitecap_postpaid_linear_grid_L2_cauchy
 -- name    : AvramDividend.Classical.avram_gb30_original_finitecap_postpaid_linear_grid_L2_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T08:59:38.869767+00:00
 -- url     : https://prove2.me/theorems/575d19ee-893c-4844-ae93-73f528e010de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_fixed_family_gaussian_advantage_transfer
 -- name    : InfoLossLAR.WorstCase.fixed_family_gaussian_advantage_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-13T16:10:09.985251+00:00
 -- url     : https://prove2.me/theorems/8fce3b23-73bf-4f84-b00d-daece3f991e7

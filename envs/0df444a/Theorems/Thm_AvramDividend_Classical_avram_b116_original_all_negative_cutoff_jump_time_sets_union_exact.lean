@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b116_original_all_negative_cutoff_jump_time_sets_union_exact
 -- name    : AvramDividend.Classical.avram_b116_original_all_negative_cutoff_jump_time_sets_union_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T16:18:57.756551+00:00
 -- url     : https://prove2.me/theorems/27bf23c9-6e63-42e3-8138-611f2edb9f16

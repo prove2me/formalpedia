@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLROPI_Shamir_lemma_2_9
 -- name    : LLROPI.Shamir.lemma_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:33:00.870202+00:00
 -- url     : https://prove2.me/theorems/5cd755fd-353c-44b6-9397-6c1b22194db9

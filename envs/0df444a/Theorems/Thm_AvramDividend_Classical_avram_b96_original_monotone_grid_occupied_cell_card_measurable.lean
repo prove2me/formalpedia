@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b96_original_monotone_grid_occupied_cell_card_measurable
 -- name    : AvramDividend.Classical.avram_b96_original_monotone_grid_occupied_cell_card_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:36:52.878249+00:00
 -- url     : https://prove2.me/theorems/f7267486-df88-4f27-80f4-16cc1a919ee5

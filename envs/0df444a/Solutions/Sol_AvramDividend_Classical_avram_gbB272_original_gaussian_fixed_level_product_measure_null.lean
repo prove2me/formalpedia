@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gbB272_original_gaussian_fixed_level_product_measure_null
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-13T22:48:42.488896+00:00
 -- url     : https://prove2.me/submissions/53870a9c-0df8-4bf0-8c3c-221e1468a2a3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gbB273_ennreal_mass_zero_of_finite_inverse_nat_bounds

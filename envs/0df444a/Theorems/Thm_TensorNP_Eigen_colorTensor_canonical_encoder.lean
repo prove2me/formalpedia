@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_colorTensor_canonical_encoder
 -- name    : TensorNP.Eigen.colorTensor_canonical_encoder
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-01T19:13:27.837074+00:00
 -- url     : https://prove2.me/theorems/3f5bdfa5-ba1a-47cc-841b-d164b840063b

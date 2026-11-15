@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_chat24_left_grid_limit_core
 -- name    : avram_chat24_left_grid_limit_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T09:02:44.589226+00:00
 -- url     : https://prove2.me/theorems/b0d70724-8866-4079-a33b-6e8bb41d0513

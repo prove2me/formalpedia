@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a227_original_gaussian_normalised_positive_exponential_tail_integrable
 -- name    : AvramDividend.Classical.avram_ga_a227_original_gaussian_normalised_positive_exponential_tail_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:59:33.270166+00:00
 -- url     : https://prove2.me/theorems/2ee4bc0f-cc77-4e13-818a-4f447061f478

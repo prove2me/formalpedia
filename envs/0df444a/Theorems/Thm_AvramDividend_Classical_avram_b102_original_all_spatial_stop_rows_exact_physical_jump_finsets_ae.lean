@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b102_original_all_spatial_stop_rows_exact_physical_jump_finsets_ae
 -- name    : AvramDividend.Classical.avram_b102_original_all_spatial_stop_rows_exact_physical_jump_finsets_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:53:08.869884+00:00
 -- url     : https://prove2.me/theorems/96da04d2-2d0b-46ec-817b-672d0c03abf4

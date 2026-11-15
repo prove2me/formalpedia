@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB299_original_single_gaussian_good_cell_probability_time_mass
 -- name    : AvramDividend.Classical.avram_gbB299_original_single_gaussian_good_cell_probability_time_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T23:22:06.072199+00:00
 -- url     : https://prove2.me/theorems/a497b3a1-dc2c-4559-abb0-d0aa2c0982fa

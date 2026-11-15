@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_backward_kolmogorov_of_generator_limit
 -- name    : AppliedSDE.SarkkaSolin.backward_kolmogorov_of_generator_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:56:05.900032+00:00
 -- url     : https://prove2.me/theorems/3ec9d717-af1c-4bfe-b89b-ee8a3b590167

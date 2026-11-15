@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableVotingDistortion_eq_43_44
 -- name    : StableVotingDistortion.eq_43_44
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:01:40.984291+00:00
 -- url     : https://prove2.me/theorems/c261b79a-45c3-4daa-8e53-1f4c9066f4f7

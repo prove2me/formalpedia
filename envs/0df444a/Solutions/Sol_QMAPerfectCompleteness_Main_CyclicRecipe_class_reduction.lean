@@ -1,0 +1,428 @@
+-- Prove2me | solution 1 for QMAPerfectCompleteness.Main.CyclicRecipe.class_reduction
+-- status  : ACCEPTED   (prove)
+-- author  : @Dorian Rudolph
+-- created : 2026-11-14T17:31:11.517004+00:00
+-- url     : https://prove2.me/submissions/2ae67134-dca4-4484-8622-138238efea1e
+
+/- Generated from Solutions.CyclicUniformity by authoritative Stage-2 skeleton subtraction.
+Original explanatory text, declaration names and scoped commands are retained.
+Only selected proof cuts, import rewrites and fact-indexed platform edits are applied. -/
+import Definitions.Def_QMAPerfectCompleteness_Main_Classes
+import Definitions.Def_QMAPerfectCompleteness_Main_Compiler
+import Definitions.Def_QMAPerfectCompleteness_Main_Cyclic
+import Init.Data.BitVec.Bitblast
+import Definitions.Def_QMAPerfectCompleteness_Main_BlockEncoding
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.DeriveFintype
+import Definitions.Def_QAlgorithms_ClassicalStringComputability
+import Definitions.Def_QMAPerfectCompleteness_Main_Gates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BinaryComposition
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockClockCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockCompiler
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockEncoding
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockImplements
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockLogicalActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockLogicalSelect
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockProgramPlacement
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockStateCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockTaggedActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_BlockVerifierCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_BooleanCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_BooleanFraming
+import Definitions.Def_QMAPerfectCompleteness_Proof_BoundedWriterTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateBlockCompilerCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateBlockCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateClosingActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateClosingCircuit
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateEtaTransport
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateHadamardCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateHistoryCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateHistoryPrograms
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateInitialization
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateLogicalSelect
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateMasterHistory
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateMasterLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateMasterReadout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateMixture
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateOldPrograms
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificatePostCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificatePreparation
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateQuantumTransports
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateRangeCircuit
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateReadout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateStageActions
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateThresholdLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateValidity
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateValidityCircuit
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateValidityPreparation
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateVerifierCoordinates
+import Definitions.Def_QMAPerfectCompleteness_Proof_CertificateVerifierLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CircuitExprTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_CircuitProvisionalWriter
+import Definitions.Def_QMAPerfectCompleteness_Proof_CircuitRecipe
+import Definitions.Def_QMAPerfectCompleteness_Proof_CircuitUnitary
+import Definitions.Def_QMAPerfectCompleteness_Proof_ClassTransport
+import Definitions.Def_QMAPerfectCompleteness_Proof_ClearStacksTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_ClockCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_CoherentAcceptance
+import Definitions.Def_QMAPerfectCompleteness_Proof_CoherentCertificate
+import Definitions.Def_QMAPerfectCompleteness_Proof_CoherentReadout
+import Definitions.Def_QMAPerfectCompleteness_Proof_ComparisonCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_ConcreteUniformity
+import Definitions.Def_QMAPerfectCompleteness_Proof_ConditionalWriterTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_ControlCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_CountedWriterLoops
+import Definitions.Def_QMAPerfectCompleteness_Proof_Cyclic
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicClockMetadata
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicClockPrefixTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicFullMetadata
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicIndexMetadataCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicIndexMetadataIO
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicIndexMetadataTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicMetadataTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicProvisionalCode
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicRawCompiler
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicRawCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicRawLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicRecipe
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicRecipeRealization
+import Definitions.Def_QMAPerfectCompleteness_Proof_CyclicVerifier
+import Definitions.Def_QMAPerfectCompleteness_Proof_Dyadic
+import Definitions.Def_QMAPerfectCompleteness_Proof_DyadicCompiler
+import Definitions.Def_QMAPerfectCompleteness_Proof_DyadicEncoding
+import Definitions.Def_QMAPerfectCompleteness_Proof_DyadicPreservation
+import Definitions.Def_QMAPerfectCompleteness_Proof_DynamicBlockCompiler
+import Definitions.Def_QMAPerfectCompleteness_Proof_DynamicRangeLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_EqualityCircuits
+import Definitions.Def_QMAPerfectCompleteness_Proof_EuclideanStates
+import Definitions.Def_QMAPerfectCompleteness_Proof_FinitePlanCompilerTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_GateCompilation
+import Definitions.Def_QMAPerfectCompleteness_Proof_HTCompiler
+import Definitions.Def_QMAPerfectCompleteness_Proof_HTCompilerTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_HTEncoding
+import Definitions.Def_QMAPerfectCompleteness_Proof_HTPreservation
+import Definitions.Def_QMAPerfectCompleteness_Proof_HadamardToffoli
+import Definitions.Def_QMAPerfectCompleteness_Proof_IndexHadamards
+import Definitions.Def_QMAPerfectCompleteness_Proof_InstructionBuffersTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_PointwiseSetup
+import Definitions.Def_QMAPerfectCompleteness_Proof_PolyTimeComposition
+import Definitions.Def_QMAPerfectCompleteness_Proof_RawArithmeticGadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_RawCertificateGadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_RawCircuitEncoding
+import Definitions.Def_QMAPerfectCompleteness_Proof_RawControlGadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_RawG2Gadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_RawThresholdGadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_RealSimulation
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeCompositeWriters
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeGadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeLeafWriter
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeNormalization
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeSerializerContinuation
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeSerializerSetup
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeSerializerTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeVerifierContext
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecipeWriterContext
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecountGatesCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_RecountGatesTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_RegisterCopies
+import Definitions.Def_QMAPerfectCompleteness_Proof_Repetition
+import Definitions.Def_QMAPerfectCompleteness_Proof_RepetitionCircuit
+import Definitions.Def_QMAPerfectCompleteness_Proof_RepetitionEncoding
+import Definitions.Def_QMAPerfectCompleteness_Proof_ReversibleGadgets
+import Definitions.Def_QMAPerfectCompleteness_Proof_SourceBuffersTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_SourceInstructionMapper
+import Definitions.Def_QMAPerfectCompleteness_Proof_SourceWriter
+import Definitions.Def_QMAPerfectCompleteness_Proof_SourceWriterBounds
+import Definitions.Def_QMAPerfectCompleteness_Proof_SourceWriterTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_StackEmbedding
+import Definitions.Def_QMAPerfectCompleteness_Proof_StackTransfers
+import Definitions.Def_QMAPerfectCompleteness_Proof_StreamWriterTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_StructuredStackCode
+import Definitions.Def_QMAPerfectCompleteness_Proof_ThresholdLayout
+import Definitions.Def_QMAPerfectCompleteness_Proof_ThresholdPreparation
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryDispatch
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryEvaluator
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryFieldCode
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryMetadataArithmetic
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryNextPowerCorrectness
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryNextPowerPhases
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryNextPowerTM
+import Definitions.Def_QMAPerfectCompleteness_Proof_UnaryStackOps
+import Definitions.Def_QMAPerfectCompleteness_Proof_VariableAddition
+import Definitions.Def_QMAPerfectCompleteness_Proof_VariableComparison
+import Definitions.Def_QMAPerfectCompleteness_Proof_VariableEquality
+import Definitions.Def_QMAPerfectCompleteness_Proof_VariableHistoryEquality
+import Definitions.Def_QMAPerfectCompleteness_Proof_VerifierAnalysis
+import Definitions.Def_QMAPerfectCompleteness_Proof_VerifierEncoding
+import Theorems.Thm_QMAPerfectCompleteness_Main_ClassTransport_transport
+import Theorems.Thm_QMAPerfectCompleteness_Main_CyclicRaw_compileRaw_erase
+import Theorems.Thm_QMAPerfectCompleteness_Main_CyclicRecipe_program_eval
+import Theorems.Thm_QMAPerfectCompleteness_Main_CyclicRecipe_uniformOnVerifierCodes
+import Theorems.Thm_QMAPerfectCompleteness_Main_CyclicVerifier_completeness
+import Theorems.Thm_QMAPerfectCompleteness_Main_CyclicVerifier_soundness
+
+/- Namespace registrations retained from original proof-only imports. -/
+namespace QMAPerfectCompleteness.Main.Certificate
+end QMAPerfectCompleteness.Main.Certificate
+namespace QMAPerfectCompleteness.Main.DiagonalProof
+end QMAPerfectCompleteness.Main.DiagonalProof
+namespace QMAPerfectCompleteness.Main.BlockComposition
+end QMAPerfectCompleteness.Main.BlockComposition
+namespace QMAPerfectCompleteness.Main.BlockTransport
+end QMAPerfectCompleteness.Main.BlockTransport
+namespace QMAPerfectCompleteness.Main.BlockHistoryCoordinates
+end QMAPerfectCompleteness.Main.BlockHistoryCoordinates
+namespace QMAPerfectCompleteness.Main.BlockHadamardCoordinates
+end QMAPerfectCompleteness.Main.BlockHadamardCoordinates
+namespace QMAPerfectCompleteness.Main.CoordinateFibers
+end QMAPerfectCompleteness.Main.CoordinateFibers
+namespace QMAPerfectCompleteness.Main.CertificateClaimBits
+end QMAPerfectCompleteness.Main.CertificateClaimBits
+namespace QMAPerfectCompleteness.Main.CertificateReadoutEffect
+end QMAPerfectCompleteness.Main.CertificateReadoutEffect
+namespace QMAPerfectCompleteness.Main.CertificateVerifierEffect
+end QMAPerfectCompleteness.Main.CertificateVerifierEffect
+namespace QMAPerfectCompleteness.Uniformity.Expansion
+end QMAPerfectCompleteness.Uniformity.Expansion
+namespace QMAPerfectCompleteness.Uniformity.UnaryNatArithmetic
+end QMAPerfectCompleteness.Uniformity.UnaryNatArithmetic
+
+/- Inline helpers retained from Solutions.CyclicRawLayout. -/
+section
+
+
+/-! Executable scalar metadata and affine physical addresses for the actual cyclic compiler. -/
+set_option backward.isDefEq.respectTransparency false
+set_option maxHeartbeats 1200000
+namespace QMAPerfectCompleteness.Main.CyclicRaw
+open RawEncoding CertificateMasterLayout
+
+
+
+
+
+namespace Meta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Meta
+
+
+
+
+
+
+
+
+@[simp] theorem k_meta (V : Verifier gatesG2) : (params V).k=indexQubits V := by simp only [params,ofRaw_erase]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end QMAPerfectCompleteness.Main.CyclicRaw
+
+end
+
+/- Inline helpers retained from Solutions.CyclicRawCorrectness. -/
+section
+
+
+/-! Literal raw-code correspondence for the coherent certificate compiler. -/
+set_option backward.isDefEq.respectTransparency false
+set_option maxHeartbeats 2400000
+namespace QMAPerfectCompleteness.Main.CyclicRaw
+open RawEncoding RawG2 CertificateMasterLayout
+
+
+@[simp] theorem params_eq_source (V : Verifier gatesG2) : params V=sourceMeta V := ofRaw_erase V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end QMAPerfectCompleteness.Main.CyclicRaw
+
+end
+
+/- Inline helpers retained from Solutions.CyclicRecipeRealization. -/
+section
+
+
+/-! Final executable finite-recipe realization of the paper's coherent certificate verifier. -/
+set_option backward.isDefEq.respectTransparency false
+set_option maxHeartbeats 1800000
+namespace QMAPerfectCompleteness.Main.CyclicRecipe
+open CircuitRecipe CircuitRecipe.Gadgets RawEncoding RawG2
+
+
+
+
+
+
+
+
+
+
+
+/-- The finite recipe emits precisely the verified typed cyclic verifier on every valid code. -/
+theorem compileRaw_erase (V : Verifier gatesG2) :
+    compileRaw (eraseVerifier V)=eraseVerifier (CyclicVerifier.compileVerifier V) := by
+  have hk : 3≤(CyclicRaw.params V).k := by
+    rw [CyclicRaw.k_meta]
+    dsimp only [indexQubits]
+    omega
+  have hell : (CyclicRaw.params V).ell=2^(CyclicRaw.params V).c-1 := by
+    rw [CyclicRaw.params_eq_source]
+    rfl
+  unfold compileRaw
+  rw [program_eval _ _ hk hell]
+  exact CyclicRaw.compileRaw_erase V
+
+
+
+@[simp] theorem executableCompile_encode (V : Verifier gatesG2) :
+    executableCompile V.encode=(CyclicVerifier.compileVerifier V).encode := by
+  simp only [executableCompile,RawEncoding.decodeCircuit_encode _ RawEncoding.g2Table_correct,
+    compileRaw_erase,RawEncoding.eraseVerifier_encode]
+
+end QMAPerfectCompleteness.Main.CyclicRecipe
+
+end
+
+
+
+/-! The paper's actual coherent-certificate circuit has a closed finite-machine polynomial
+code generator. Metadata, bounded recipe evaluation, source traversal and gate recounting
+are all witnessed by literal finite TM2 programs. -/
+set_option backward.isDefEq.respectTransparency false
+set_option maxHeartbeats 1800000
+namespace QMAPerfectCompleteness.Main.CyclicRecipe
+end QMAPerfectCompleteness.Main.CyclicRecipe
+section
+open QMAPerfectCompleteness QMAPerfectCompleteness.Main QMAPerfectCompleteness.Main.CyclicRecipe
+open CircuitRecipe
+open ClassTransport
+open QAlgorithms.Complexity (PolyTimeComputable)
+
+
+
+/-- Main-proof coherent certificate reduction, with both semantic and actual uniform
+machine obligations discharged locally. -/
+theorem solution :
+    QMAClass gatesG2 (2/3) (1/3) ⊆ QMAClass gatesG2 1 (1-1/576) := by
+  exact ClassTransport.transport CyclicVerifier.compileVerifier executableCompile
+    executableCompile_encode uniformOnVerifierCodes CyclicVerifier.completeness CyclicVerifier.soundness

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB308_original_gaussian_fibre_exact_cell_time_lintegral
 -- name    : AvramDividend.Classical.avram_gbB308_original_gaussian_fibre_exact_cell_time_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:00:32.342811+00:00
 -- url     : https://prove2.me/theorems/edcfeb67-0b70-449f-8cf0-e7f91b2f871b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DenseLanguageGeneration_PatientScope_non_switch_announcements
 -- name    : DenseLanguageGeneration.PatientScope.non_switch_announcements
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T11:49:18.652814+00:00
 -- url     : https://prove2.me/theorems/8266705b-99a1-4351-b424-80a19fec3f86

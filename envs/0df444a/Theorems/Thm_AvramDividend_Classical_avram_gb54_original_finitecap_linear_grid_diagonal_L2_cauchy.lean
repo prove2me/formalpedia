@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gb54_original_finitecap_linear_grid_diagonal_L2_cauchy
 -- name    : AvramDividend.Classical.avram_gb54_original_finitecap_linear_grid_diagonal_L2_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T12:17:38.774892+00:00
 -- url     : https://prove2.me/theorems/9315cbcd-dc1b-47b5-8972-93d5b1c7a25b

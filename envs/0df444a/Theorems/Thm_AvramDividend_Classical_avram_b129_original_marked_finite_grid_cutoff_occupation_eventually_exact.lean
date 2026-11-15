@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b129_original_marked_finite_grid_cutoff_occupation_eventually_exact
 -- name    : AvramDividend.Classical.avram_b129_original_marked_finite_grid_cutoff_occupation_eventually_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:38:09.716106+00:00
 -- url     : https://prove2.me/theorems/6ceecd01-d67d-44d4-8067-b53111e9dc83

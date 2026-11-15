@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB259_original_future_increment_indepFun_prepayment_centre
 -- name    : AvramDividend.Classical.avram_gbB259_original_future_increment_indepFun_prepayment_centre
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T20:49:33.874741+00:00
 -- url     : https://prove2.me/theorems/ab1d29d2-899f-4815-9634-cec5d1043d21

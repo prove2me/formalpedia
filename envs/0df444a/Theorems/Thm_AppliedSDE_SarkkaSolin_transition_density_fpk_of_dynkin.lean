@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_transition_density_fpk_of_dynkin
 -- name    : AppliedSDE.SarkkaSolin.transition_density_fpk_of_dynkin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:51:58.659725+00:00
 -- url     : https://prove2.me/theorems/1c90076d-c7cf-45ba-9055-0b4922829eb2

@@ -13950,7 +13950,6 @@
 {"parent": "GraphNNSphere.eq_4_nn_scale", "child": "GraphNNSphere_theta1", "via": ["statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSQuaternion.mul_conj_self", "child": "QEC_Coding_ExpanderCodes_LPSTraceNormalForm", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSQuaternion.mul_conj_self", "child": "QEC_Coding_ExpanderCodes_LPSQuaternionExactDivision", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_ubv_gaussian10_original_filtration_bracket_adapted_of_band", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "ProbabilityTheory.IsLevyProcess.indepFun_increment", "child": "LeanLevy_Processes_StochasticProcess", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.IsLevyProcess.indepFun_increment", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.IsLevyProcess.indepFun_increment", "child": "LeanLevy_Processes_Cadlag", "via": ["solution", "statement"]}
@@ -14788,7 +14787,6 @@
 {"parent": "AvramDividend.Classical.avram_ubv_finite9_original_discounted_compact_B_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite9_original_discounted_compact_B_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite9_original_discounted_compact_B_L1", "child": "AvramDividend.Classical.avram_ubv_finite9_discounted_compact_stopped_generator_L1", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_ubv_top9_predictable_integrable_physical_time_fibre", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.b2_2_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.b2_2_contains_g", "child": "OAIQ098G072", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein25.N1_left.t10_contains_g", "child": "OAIQ098G382", "via": ["solution", "statement"]}
@@ -18209,9 +18207,9 @@
 {"parent": "OAIQ098G272", "child": "OAIQ098G271", "via": ["statement"]}
 {"parent": "OAIQ098G272", "child": "OAIQ098G020", "via": ["statement"]}
 {"parent": "OAIQ098G272", "child": "OAIQ098G266", "via": ["statement"]}
-{"parent": "DegreeSensitivity.kushilevitz", "child": "polyDegree", "via": ["statement"]}
-{"parent": "DegreeSensitivity.kushilevitz", "child": "sensitivity", "via": ["statement"]}
-{"parent": "DegreeSensitivity.kushilevitz", "child": "BoolFunc", "via": ["statement"]}
+{"parent": "DegreeSensitivity.kushilevitz", "child": "polyDegree", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.kushilevitz", "child": "sensitivity", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.kushilevitz", "child": "BoolFunc", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.annularRayThirdNorm_bound", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_GcdReduction", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.annularRayThirdNorm_bound", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_AnnularRecursion", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G128", "child": "OAIQ098G032", "via": ["statement"]}
@@ -24663,8 +24661,8 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound675_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound675_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound675_e", "child": "MUBSix", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_bv_strict13_original_infinite_cap_diagonal_positive_error_source", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_bv_strict13_original_infinite_cap_diagonal_positive_error_source", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_bv_strict13_original_infinite_cap_diagonal_positive_error_source", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_bv_strict13_original_infinite_cap_diagonal_positive_error_source", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "BookProof.CarlemanSimplex.sum_mterm_im", "child": "ChapterCarlemanTwoStepPromoted", "via": ["solution", "statement"]}
 {"parent": "BookProof.CarlemanSimplex.sum_mterm_im", "child": "ChapterGaussCoreQuadBounds", "via": ["statement"]}
 {"parent": "BookProof.CarlemanSimplex.sum_mterm_im", "child": "ChapterHermiteCarlemanEsaPromoted", "via": ["solution", "statement"]}
@@ -33696,7 +33694,7 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2352_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2352_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2352_e", "child": "MUBSix", "via": ["solution", "statement"]}
-{"parent": "AlgebraicGeometry.exists_regular_projective_alteration_of_isProper", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.exists_regular_projective_alteration_of_isProper", "child": "AlgebraicGeometry_ProjSpace", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.transformedJets_summable_g", "child": "OAIQ098G016", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G1336", "child": "OAIQ098G722", "via": ["statement"]}
 {"parent": "OAIQ098G1336", "child": "OAIQ098G395", "via": ["statement"]}

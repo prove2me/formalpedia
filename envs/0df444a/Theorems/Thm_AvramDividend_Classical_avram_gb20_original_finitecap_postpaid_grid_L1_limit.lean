@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gb20_original_finitecap_postpaid_grid_L1_limit
 -- name    : AvramDividend.Classical.avram_gb20_original_finitecap_postpaid_grid_L1_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T07:43:35.593117+00:00
 -- url     : https://prove2.me/theorems/dc20c6fc-7994-4928-8df6-4543c7f6ae84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_fpk_pointwise_of_weak_distribution_identity
 -- name    : AppliedSDE.SarkkaSolin.fpk_pointwise_of_weak_distribution_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T17:51:32.162193+00:00
 -- url     : https://prove2.me/theorems/21a60ae2-17a0-4336-a47e-a12c298bc1e0

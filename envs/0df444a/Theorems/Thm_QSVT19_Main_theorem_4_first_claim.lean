@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVT19_Main_theorem_4_first_claim
 -- name    : QSVT19.Main.theorem_4_first_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:27.887852+00:00
 -- url     : https://prove2.me/theorems/75f30dfd-4d3a-4ea5-a418-1da0b6dc1db2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StratifyMarkets_DoubleAuction_theorem_2_2
 -- name    : StratifyMarkets.DoubleAuction.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:53:24.335051+00:00
 -- url     : https://prove2.me/theorems/cd480aa8-e924-453d-8c07-0ff77b11ca87

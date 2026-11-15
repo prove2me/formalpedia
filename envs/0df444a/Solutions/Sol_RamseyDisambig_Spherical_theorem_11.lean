@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RamseyDisambig.Spherical.theorem_11
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:21:19.393645+00:00
 -- url     : https://prove2.me/submissions/c2eafe11-e53f-414c-a739-31f9a1f3d102
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RamseyDisambig_Spherical_BlockMaps

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Palvolgyi2026_kneser_shift
 -- name    : Palvolgyi2026.kneser_shift
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T13:20:37.682195+00:00
 -- url     : https://prove2.me/theorems/88e50ee2-adbf-41ca-a769-564877b2c29d

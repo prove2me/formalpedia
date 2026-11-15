@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMAPerfectCompleteness_Main_diagonal_witness
 -- name    : QMAPerfectCompleteness.Main.diagonal_witness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:57:43.277147+00:00
 -- url     : https://prove2.me/theorems/4fc1cce9-32b6-489c-bf0e-769808160a0b

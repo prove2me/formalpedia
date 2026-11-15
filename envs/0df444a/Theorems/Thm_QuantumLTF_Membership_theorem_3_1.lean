@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_theorem_3_1
 -- name    : QuantumLTF.Membership.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:38:55.46558+00:00
 -- url     : https://prove2.me/theorems/7d3b2e69-823e-47a3-bb1c-10ee884058dc

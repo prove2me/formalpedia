@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b78_original_jumpfree_interior_cell_gaussian_residual_drift_decomp
 -- name    : AvramDividend.Classical.avram_b78_original_jumpfree_interior_cell_gaussian_residual_drift_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T14:19:20.364961+00:00
 -- url     : https://prove2.me/theorems/a9fd1e1b-7a61-4aef-9c5b-e1497d396548

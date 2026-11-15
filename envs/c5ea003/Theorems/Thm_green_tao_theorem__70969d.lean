@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_green_tao_theorem__70969d
 -- name    : green_tao_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-10T20:54:19.209891+00:00
 -- url     : https://prove2.me/theorems/70969d21-edfb-4bee-a5b4-9b9387d459cc

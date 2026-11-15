@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSVT19_Main_lemma_9
 -- name    : QSVT19.Main.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:31.679417+00:00
 -- url     : https://prove2.me/theorems/a7a56f29-9cd8-4746-bae2-9733adba1298
