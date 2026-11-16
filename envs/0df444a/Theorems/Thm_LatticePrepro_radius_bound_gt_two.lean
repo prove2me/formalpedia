@@ -17,7 +17,7 @@
 --
 --   **Formalization Note.** All powers with exponents $1-2/q$, $2/q$, $1/q$ and the outer exponent $2$ are real powers (`Real.rpow`); the ceiling is `Nat.ceil`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary lemma used in the proof of Lemma 3.12 (\label{lem:block-system-lattices}), equation (43) (\label{eq:residue-weight}) for 2 < p < ∞; Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.radius_bound_gt_two
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Lemma 3.12 (\label{lem:block-system-lattices}), equation (43) (\label{eq:residue-weight}) for 2 < p < ∞; Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.radius_bound_gt_two
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

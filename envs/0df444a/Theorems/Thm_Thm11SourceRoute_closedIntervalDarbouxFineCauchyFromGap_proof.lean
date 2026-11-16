@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_closedIntervalDarbouxFineCauchyFromGap_proof
 -- name    : Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:07:20.365206+00:00
 -- url     : https://prove2.me/theorems/e8b5f484-b686-414c-93fc-34de85415ebd

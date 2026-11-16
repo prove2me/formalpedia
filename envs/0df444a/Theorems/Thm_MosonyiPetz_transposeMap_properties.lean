@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_transposeMap_properties
 -- name    : MosonyiPetz.transposeMap_properties
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:44:22.50476+00:00
 -- url     : https://prove2.me/theorems/d30efa45-5ab7-4d21-96ad-efdcf3999b23

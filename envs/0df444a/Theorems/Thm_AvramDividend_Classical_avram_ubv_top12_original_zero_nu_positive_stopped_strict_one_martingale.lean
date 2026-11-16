@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ubv_top12_original_zero_nu_positive_stopped_strict_one_martingale
 -- name    : AvramDividend.Classical.avram_ubv_top12_original_zero_nu_positive_stopped_strict_one_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-08T21:46:31.409203+00:00
 -- url     : https://prove2.me/theorems/4a699fd8-779b-4ddd-a463-727c365ecdd6

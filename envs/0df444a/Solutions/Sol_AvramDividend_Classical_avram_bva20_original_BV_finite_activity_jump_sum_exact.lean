@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_bva20_original_BV_finite_activity_jump_sum_exact
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T18:51:07.186137+00:00
 -- url     : https://prove2.me/submissions/d1463d76-4a9c-48c6-804d-6cf873d47c41
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Filtration
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

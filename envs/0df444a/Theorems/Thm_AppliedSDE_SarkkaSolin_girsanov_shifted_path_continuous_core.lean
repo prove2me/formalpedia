@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedSDE_SarkkaSolin_girsanov_shifted_path_continuous_core
 -- name    : AppliedSDE.SarkkaSolin.girsanov_shifted_path_continuous_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T17:12:03.045228+00:00
 -- url     : https://prove2.me/theorems/ad2d4257-b561-4a83-8fd7-98f3e64e73e7

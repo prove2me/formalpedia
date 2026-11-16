@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_taggedCommonLimit_right
 -- name    : Thm_1_2_4.taggedCommonLimit_right
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:55:49.30744+00:00
 -- url     : https://prove2.me/theorems/9d5c6b65-4c26-41bd-8fdb-e2a5a802986b

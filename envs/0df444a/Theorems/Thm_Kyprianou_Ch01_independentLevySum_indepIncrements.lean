@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_independentLevySum_indepIncrements
 -- name    : Kyprianou.Ch01.independentLevySum_indepIncrements
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:33:47.900406+00:00
 -- url     : https://prove2.me/theorems/5a827094-d997-4e2a-8346-e69c15ecc9f0

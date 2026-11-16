@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_join
 -- name    : OAI.UniversalTensorSquare.rowSquare_join
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:23:15.616837+00:00
 -- url     : https://prove2.me/theorems/b8ea9bb7-d5dd-4eb9-9709-df2a1d505cc0

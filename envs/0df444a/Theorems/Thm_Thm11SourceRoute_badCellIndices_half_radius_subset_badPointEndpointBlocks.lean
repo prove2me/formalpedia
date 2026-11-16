@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_badCellIndices_half_radius_subset_badPointEndpointBlocks
 -- name    : Thm11SourceRoute.badCellIndices_half_radius_subset_badPointEndpointBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:14:13.086221+00:00
 -- url     : https://prove2.me/theorems/6e2b97fe-6505-44ca-9148-d17f2cc2cfcb

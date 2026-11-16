@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_badPointEndpointBlock_disjoint_of_disjoint_Ioo
 -- name    : Thm11SourceRoute.badPointEndpointBlock_disjoint_of_disjoint_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:14:27.894512+00:00
 -- url     : https://prove2.me/theorems/45aade63-02cb-4209-8249-2928ebb3a31f

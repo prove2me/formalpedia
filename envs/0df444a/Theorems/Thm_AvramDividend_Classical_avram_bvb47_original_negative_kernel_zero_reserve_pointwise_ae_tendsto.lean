@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb47_original_negative_kernel_zero_reserve_pointwise_ae_tendsto
 -- name    : AvramDividend.Classical.avram_bvb47_original_negative_kernel_zero_reserve_pointwise_ae_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T18:43:47.960399+00:00
 -- url     : https://prove2.me/theorems/45cda3b2-1245-4585-90ab-8ce77f9686be

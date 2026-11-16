@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_bad_point_of_not_subset_goodRemainder_cell
 -- name    : Thm11SourceRoute.exists_bad_point_of_not_subset_goodRemainder_cell
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:05:10.167122+00:00
 -- url     : https://prove2.me/theorems/09ee9f71-01f2-4cf0-a117-ae2ea966a451

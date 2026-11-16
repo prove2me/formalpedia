@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_closedIntervalDarbouxAbsGapSmall_of_gapSmall
 -- name    : Thm11SourceRoute.closedIntervalDarbouxAbsGapSmall_of_gapSmall
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:59:12.780037+00:00
 -- url     : https://prove2.me/theorems/80d8f0ef-e30e-41dc-9612-bd0fcc436bb6

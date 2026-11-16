@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger18_original_topcap_physical_reward_error
 -- name    : AvramDividend.Classical.avram_gledger18_original_topcap_physical_reward_error
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T00:33:39.8622+00:00
 -- url     : https://prove2.me/theorems/b4aa0126-bffd-4745-ad63-e1017f8583df

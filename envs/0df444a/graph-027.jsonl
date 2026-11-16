@@ -46231,7 +46231,7 @@
 {"parent": "SchattenSketch.Main.theorem_1_1", "child": "SchattenSketch_Main_Sketch", "via": ["statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.projective_nodal_degree_bound_s01", "child": "Q223SES009", "via": ["solution", "statement"]}
 {"parent": "OAI.MaximalSeshadri.Geometry.projective_nodal_degree_bound_s01", "child": "MaximalSeshadriConstants", "via": ["solution", "statement"]}
-{"parent": "PelagicFF.pelagic_mass_ge", "child": "PelagicFF_PFF", "via": ["statement"]}
+{"parent": "PelagicFF.pelagic_mass_ge", "child": "PelagicFF_PFF", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_3_16_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_3_16_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "DecDynMatch.lemma_1", "child": "DecDynMatch_Psi", "via": ["statement"]}
@@ -69623,7 +69623,7 @@
 {"parent": "ComplexityUnpred.Catalytic.lemma_4_16", "child": "ComplexityUnpred_Catalytic_LossyCoding", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.radialFromLog_hasCompactSupport", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CompactEnergyFamilies", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.radialFromLog_hasCompactSupport", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RadialProfiles", "via": ["solution", "statement"]}
-{"parent": "InfoLossLAR.WorstCase.lemma_2_4", "child": "InfoLossLAR_WorstCase_Rounding", "via": ["statement"]}
+{"parent": "InfoLossLAR.WorstCase.lemma_2_4", "child": "InfoLossLAR_WorstCase_Rounding", "via": ["solution", "statement"]}
 {"parent": "GL2QFT.lemma_6_7", "child": "GL2QFT_Irreps", "via": ["statement"]}
 {"parent": "HypercliqueRefutation.FourClique.theorem_2_8", "child": "HypercliqueRefutation_FourClique_CountWitness", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U28.entry5_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
@@ -70523,7 +70523,7 @@
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.dualHistory_readout_below_two", "child": "QEC_Coding_CSS_DaviesLocality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.dualHistory_readout_below_two", "child": "QEC_Coding_FiniteAlternatingConstruction_TransposedStoppedDecoder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26TransposedStoppedDecoder.dualHistory_readout_below_two", "child": "QEC_Coding_CSS_Distance", "via": ["solution", "statement"]}
-{"parent": "PolySwap.KMS.proposition_5_14", "child": "PolySwap_KMS_Unip", "via": ["statement"]}
+{"parent": "PolySwap.KMS.proposition_5_14", "child": "PolySwap_KMS_Unip", "via": ["solution", "statement"]}
 {"parent": "UnequalHuffman.NPC.lemma_A_1", "child": "UnequalHuffman_NPC_IntervalPenalty", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26HistorySyndromeSensitivity.rxCount_comp", "child": "QEC_Coding_FiniteAlternatingConstruction_HistorySyndromeSensitivity_Snapshots", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26HistorySyndromeSensitivity.rxCount_comp", "child": "QEC_Coding_FiniteAlternatingConstruction_HistorySyndromeSensitivity_Intervals", "via": ["solution", "statement"]}
@@ -78784,7 +78784,7 @@
 {"parent": "QEC.Coding.BDL26FiniteEmbeddingExperiment.evaluate_succ", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_SeedEmbedding", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FiniteEmbeddingExperiment.evaluate_succ", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperiment_Core", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FiniteEmbeddingExperiment.evaluate_succ", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_EmbeddingKernel", "via": ["solution", "statement"]}
-{"parent": "PolySwap.KMS.proposition_2_24", "child": "PolySwap_KMS_Dehn", "via": ["statement"]}
+{"parent": "PolySwap.KMS.proposition_2_24", "child": "PolySwap_KMS_Dehn", "via": ["solution", "statement"]}
 {"parent": "TDHamSim.QueryOptimal.theorem_13", "child": "TDHamSim_QueryOptimal_LCU", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.vertex_card", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ActualExecutionCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.vertex_card", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ExpectedOperationCost", "via": ["solution", "statement"]}
@@ -85276,8 +85276,8 @@
 {"parent": "QuasilinearAG.Encoding.theorem_5_8", "child": "QuasilinearAG_Encoding_Machine", "via": ["statement"]}
 {"parent": "QuasilinearAG.Encoding.theorem_5_8", "child": "TimeSpaceMA_RAM", "via": ["statement"]}
 {"parent": "QuasilinearAG.Encoding.theorem_5_8", "child": "QuasilinearAG_Encoding_Code", "via": ["statement"]}
-{"parent": "PelagicFF.quantum_amplitudes", "child": "PelagicFF_hadamardN", "via": ["statement"]}
-{"parent": "PelagicFF.quantum_amplitudes", "child": "PelagicFF_PFF", "via": ["statement"]}
+{"parent": "PelagicFF.quantum_amplitudes", "child": "PelagicFF_hadamardN", "via": ["solution", "statement"]}
+{"parent": "PelagicFF.quantum_amplitudes", "child": "PelagicFF_PFF", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18g_original_large_mark_absolute_mass_measurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18g_original_large_mark_absolute_mass_measurable", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_large_jump_sum", "via": ["solution", "statement"]}
 {"parent": "PooledTestingAdaptivity.Gap.lemma_4_2", "child": "PooledTestingAdaptivity_Gap_Policies", "via": ["statement"]}

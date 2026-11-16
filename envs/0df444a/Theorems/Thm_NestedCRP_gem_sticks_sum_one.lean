@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_gem_sticks_sum_one
 -- name    : NestedCRP.gem_sticks_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:49.577306+00:00
 -- url     : https://prove2.me/theorems/fc608450-5e48-43f2-b952-cee96ef97261

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKECC1549_Main_lemma_4
 -- name    : DirKECC1549.Main.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T06:44:53.912073+00:00
 -- url     : https://prove2.me/theorems/2fe2436e-c106-4b06-8ddb-4f6a04e7b029

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MMSImpossibility_Goods_Supplement_mmsCh_ge_prop
 -- name    : MMSImpossibility.Goods.Supplement.mmsCh_ge_prop
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T05:02:56.603576+00:00
 -- url     : https://prove2.me/theorems/132024e6-b93b-4a87-8c20-72e928eb4e83

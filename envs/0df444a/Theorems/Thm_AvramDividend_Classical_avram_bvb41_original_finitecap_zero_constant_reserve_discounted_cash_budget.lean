@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb41_original_finitecap_zero_constant_reserve_discounted_cash_budget
 -- name    : AvramDividend.Classical.avram_bvb41_original_finitecap_zero_constant_reserve_discounted_cash_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T18:28:03.694973+00:00
 -- url     : https://prove2.me/theorems/a773dc60-782b-4d5c-8de0-424ed2f1d0ec

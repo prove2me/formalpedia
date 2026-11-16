@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_upperLowerCommonLimit_left
 -- name    : Thm_1_2_4.upperLowerCommonLimit_left
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:55:15.344917+00:00
 -- url     : https://prove2.me/theorems/392309db-41f0-4205-a472-03580126a2b3

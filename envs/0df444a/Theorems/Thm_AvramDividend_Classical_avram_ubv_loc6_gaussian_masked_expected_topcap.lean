@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ubv_loc6_gaussian_masked_expected_topcap
 -- name    : AvramDividend.Classical.avram_ubv_loc6_gaussian_masked_expected_topcap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-07T10:39:39.076353+00:00
 -- url     : https://prove2.me/theorems/249c532d-4ec0-498c-81f0-b380dd476344

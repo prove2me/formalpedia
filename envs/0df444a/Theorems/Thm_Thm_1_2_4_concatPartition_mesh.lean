@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_concatPartition_mesh
 -- name    : Thm_1_2_4.concatPartition_mesh
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:54:14.839212+00:00
 -- url     : https://prove2.me/theorems/99782f4c-8249-4b1b-b587-067c49d2ab49

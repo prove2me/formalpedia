@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountOrderings_NFree_display_p17_count
 -- name    : CountOrderings.NFree.display_p17_count
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T22:58:01.758366+00:00
 -- url     : https://prove2.me/theorems/e4323bcb-c4a5-4b0d-a571-fe82b6c71c00

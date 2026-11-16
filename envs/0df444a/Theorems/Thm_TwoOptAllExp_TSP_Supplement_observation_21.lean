@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoOptAllExp_TSP_Supplement_observation_21
 -- name    : TwoOptAllExp.TSP.Supplement.observation_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T04:49:24.079194+00:00
 -- url     : https://prove2.me/theorems/4fbb4f8f-ba9b-4e31-96c0-45fa2b4595c9

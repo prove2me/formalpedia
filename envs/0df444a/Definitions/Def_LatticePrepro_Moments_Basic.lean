@@ -20,7 +20,7 @@
 --
 --   **Formalization Note**: Coefficient functions are Mathlib's finitely supported functions `Ω →₀ F`, and `moment f k` is `f.sum (fun α c => c • α ^ k)`. In the paper coefficient functions live on varying finite extensions; the formalization uses one fixed extension field $\Omega$ throughout. The simp lemmas `moment_zero` and `moment_single` are included in the bundle.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Definitions 4.1–4.2 (\label{def:coefficient-functions}, \label{def:coefficient-moments}); Lean: LatticePrepro/Moments/Basic.lean, LatticePrepro.moment
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definitions 4.1–4.2 (\label{def:coefficient-functions}, \label{def:coefficient-moments}); Lean: LatticePrepro/Moments/Basic.lean, LatticePrepro.moment
 
 import Mathlib
 

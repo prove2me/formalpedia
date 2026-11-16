@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_rsIntegral_split
 -- name    : Thm_1_2_4.rsIntegral_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:56:15.800497+00:00
 -- url     : https://prove2.me/theorems/eae565f4-a36e-4640-957b-c6fa9e264be8

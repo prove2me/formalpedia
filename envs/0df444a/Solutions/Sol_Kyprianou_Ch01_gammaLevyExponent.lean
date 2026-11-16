@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.gammaLevyExponent
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T19:15:25.3755+00:00
 -- url     : https://prove2.me/submissions/061b8fc9-5665-4906-b0c6-f222357f0bae
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_ExplicitLevyExamples

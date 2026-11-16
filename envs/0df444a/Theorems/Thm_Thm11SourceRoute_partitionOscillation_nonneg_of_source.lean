@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partitionOscillation_nonneg_of_source
 -- name    : Thm11SourceRoute.partitionOscillation_nonneg_of_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:57:39.618049+00:00
 -- url     : https://prove2.me/theorems/f3268a9e-1179-45cf-a6ae-ba590acdd13f

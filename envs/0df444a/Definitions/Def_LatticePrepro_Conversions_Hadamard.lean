@@ -22,7 +22,7 @@
 --
 --   **Formalization Note.** Indexing rows and columns by $\mathbb F_2^k$ instead of $\{1,\dots,2^k\}$ identifies $H_{2^k}$ with Sylvester's matrix $H_{2b}=\bigl(\begin{smallmatrix}H_b&H_b\\H_b&-H_b\end{smallmatrix}\bigr)$ through the binary expansions of the indices. The bundle also contains the simp lemma `sgn_zero` ($\operatorname{sgn}(0)=1$). The source module proves the properties used later (symmetry, $H_{2^k}^2=2^kI$, Parseval's identity for $\mathcal H$).
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma B.2 (\label{lem:embeddings}); Lean: LatticePrepro/Conversions/Hadamard.lean, LatticePrepro.Hadamard.sgn, LatticePrepro.Hadamard.Idx, LatticePrepro.Hadamard.ip, LatticePrepro.Hadamard.wh, LatticePrepro.Hadamard.whMat, LatticePrepro.Hadamard.blockHad
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma B.2 (\label{lem:embeddings}); Lean: LatticePrepro/Conversions/Hadamard.lean, LatticePrepro.Hadamard.sgn, LatticePrepro.Hadamard.Idx, LatticePrepro.Hadamard.ip, LatticePrepro.Hadamard.wh, LatticePrepro.Hadamard.whMat, LatticePrepro.Hadamard.blockHad
 
 import Mathlib
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_lemma_3_1_ii
 -- name    : CritWinSpin.lemma_3_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:37:17.513874+00:00
 -- url     : https://prove2.me/theorems/0db7ff06-c78d-44a0-a864-54a5d09bf48d

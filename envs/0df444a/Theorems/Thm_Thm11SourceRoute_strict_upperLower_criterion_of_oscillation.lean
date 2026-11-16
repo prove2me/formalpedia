@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strict_upperLower_criterion_of_oscillation
 -- name    : Thm11SourceRoute.strict_upperLower_criterion_of_oscillation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:08:42.30235+00:00
 -- url     : https://prove2.me/theorems/bd3ebbdf-5278-4470-8ed9-3564492d67d4

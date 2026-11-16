@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_queueLaplaceExponent_rootIff
 -- name    : Kyprianou.Ch01.queueLaplaceExponent_rootIff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:29:24.392215+00:00
 -- url     : https://prove2.me/theorems/6fc4e182-14f6-4163-bc08-3afbf7f57dfd

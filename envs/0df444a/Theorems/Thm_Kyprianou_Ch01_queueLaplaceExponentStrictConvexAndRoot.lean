@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_queueLaplaceExponentStrictConvexAndRoot
 -- name    : Kyprianou.Ch01.queueLaplaceExponentStrictConvexAndRoot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:23:13.568394+00:00
 -- url     : https://prove2.me/theorems/b284c2f7-67e4-4cda-a713-7bf561654166

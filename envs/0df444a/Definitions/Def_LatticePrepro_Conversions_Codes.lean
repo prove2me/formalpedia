@@ -24,7 +24,7 @@
 --
 --   **Formalization Note.** `codeDist` is a natural number, defined as the `sInf` of $\{\Delta(y,c): c\in\mathcal C\}$; this set is nonempty ($0\in\mathcal C$), so the infimum is attained and equals the paper's minimum. Codes are `Submodule F (M → F)`, and the coordinate set $M$ of a code family is a type with `Fintype` and `DecidableEq` instances. The solution $v_0$ is picked by classical choice, so `codeTarget` is noncomputable. The paper's block length $M=2n$ corresponds to the coordinate type `ι ⊕ ι`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Definition 3.1 (\label{def:code-lattice-distances}) and the proof of Lemma 3.11 (\label{lem:block-system-codes}) in Appendix B.1 (\label{subsec:affine-code-proof}); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.CodeFamily, LatticePrepro.CodeFamily.codeDist, LatticePrepro.CodeFamily.extend, LatticePrepro.LinearSystemFamily.code, LatticePrepro.LinearSystemFamily.codeTarget, LatticePrepro.LinearSystemFamily.codeBlk
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.1 (\label{def:code-lattice-distances}) and the proof of Lemma 3.11 (\label{lem:block-system-codes}) in Appendix B.1 (\label{subsec:affine-code-proof}); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.CodeFamily, LatticePrepro.CodeFamily.codeDist, LatticePrepro.CodeFamily.extend, LatticePrepro.LinearSystemFamily.code, LatticePrepro.LinearSystemFamily.codeTarget, LatticePrepro.LinearSystemFamily.codeBlk
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

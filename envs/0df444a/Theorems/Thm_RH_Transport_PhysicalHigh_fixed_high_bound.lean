@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_PhysicalHigh_fixed_high_bound
 -- name    : RH.Transport.PhysicalHigh.fixed_high_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T03:27:43.164694+00:00
 -- url     : https://prove2.me/theorems/54cb5d44-abe0-49ca-8f3d-ef1be2eb1708

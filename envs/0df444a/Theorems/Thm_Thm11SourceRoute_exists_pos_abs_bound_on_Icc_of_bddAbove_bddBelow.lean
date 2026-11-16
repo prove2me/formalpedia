@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_pos_abs_bound_on_Icc_of_bddAbove_bddBelow
 -- name    : Thm11SourceRoute.exists_pos_abs_bound_on_Icc_of_bddAbove_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:57:49.502776+00:00
 -- url     : https://prove2.me/theorems/bac77a3c-02ba-4acd-acbd-01060a688193

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partition_cell_increment_le_bad_interval
 -- name    : Thm11SourceRoute.partition_cell_increment_le_bad_interval
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:09:14.553818+00:00
 -- url     : https://prove2.me/theorems/51df5892-2008-4bcf-8d3f-11ebfcbd7e75

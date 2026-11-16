@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivBayesTest_lemma_2_6
 -- name    : PrivBayesTest.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:25:24.462075+00:00
 -- url     : https://prove2.me/theorems/7db90031-0047-431d-bc18-b5b9af30ef1e

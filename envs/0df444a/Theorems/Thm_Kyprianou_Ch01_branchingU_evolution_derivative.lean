@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingU_evolution_derivative
 -- name    : Kyprianou.Ch01.branchingU_evolution_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T21:39:14.59324+00:00
 -- url     : https://prove2.me/theorems/cac5f39b-9e6c-49a1-9414-5cf630a1ca3a

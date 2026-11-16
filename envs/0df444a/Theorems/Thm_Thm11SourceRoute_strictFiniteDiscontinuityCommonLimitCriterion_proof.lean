@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strictFiniteDiscontinuityCommonLimitCriterion_proof
 -- name    : Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:10:04.072204+00:00
 -- url     : https://prove2.me/theorems/03fa0759-9a23-4b9f-9243-ea7f8f1c86c5

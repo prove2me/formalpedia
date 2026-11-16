@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a123_original_arbitrary_negative_Borel_void_smalltime_rate_20261114
 -- name    : AvramDividend.Classical.avram_a123_original_arbitrary_negative_Borel_void_smalltime_rate_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:31:59.316208+00:00
 -- url     : https://prove2.me/theorems/525f1cfe-e83d-4dd1-9eb6-26b59ff6c568

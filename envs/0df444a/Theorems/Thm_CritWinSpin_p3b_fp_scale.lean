@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p3b_fp_scale
 -- name    : CritWinSpin.p3b_fp_scale
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T05:54:21.368219+00:00
 -- url     : https://prove2.me/theorems/b37e6594-966e-4da3-9fe7-0f2a94e25bc0

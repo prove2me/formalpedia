@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_lemma_1
 -- name    : MosonyiPetz.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:46:50.107947+00:00
 -- url     : https://prove2.me/theorems/2e727558-e56e-41f4-a404-42634a599a5f

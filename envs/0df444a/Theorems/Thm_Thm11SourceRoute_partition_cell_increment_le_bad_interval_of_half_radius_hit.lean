@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partition_cell_increment_le_bad_interval_of_half_radius_hit
 -- name    : Thm11SourceRoute.partition_cell_increment_le_bad_interval_of_half_radius_hit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:09:28.414795+00:00
 -- url     : https://prove2.me/theorems/dc56645b-30c2-454e-8c11-dcdfe31ba9c6

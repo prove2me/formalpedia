@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger19_original_topcap_compact_stopped_reward_expected_upper
 -- name    : AvramDividend.Classical.avram_gledger19_original_topcap_compact_stopped_reward_expected_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T09:15:00.898995+00:00
 -- url     : https://prove2.me/theorems/47174f6c-1502-46b6-b0d3-6c7ba53998e5

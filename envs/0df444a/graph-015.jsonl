@@ -2821,8 +2821,8 @@
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.continuousProcess_eq_map_timeRescale", "child": "MarkovProcess_V3H_FiniteTime_KernelEquivariance_10113825", "via": ["statement"]}
 {"parent": "BroadieKaya_SV_BridgeTransforms", "child": "BroadieKaya_SV_BesselContinuation", "via": ["statement"]}
 {"parent": "BroadieKaya_SV_BridgeTransforms", "child": "BroadieKaya_SV_SquareRootProcesses", "via": ["statement"]}
-{"parent": "NestedCRP.level_prior", "child": "NestedCRP_Hyper", "via": ["statement"]}
-{"parent": "NestedCRP.level_prior", "child": "NestedCRP_stickMass", "via": ["statement"]}
+{"parent": "NestedCRP.level_prior", "child": "NestedCRP_Hyper", "via": ["solution", "statement"]}
+{"parent": "NestedCRP.level_prior", "child": "NestedCRP_stickMass", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P22.covariance_and_trace", "child": "QAlgorithms_Papers_Independent_Intake100_P22", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P34.irreducible_cp_part", "child": "QAlgorithms_Papers_Independent_Intake100_P34", "via": ["statement"]}
 {"parent": "ReservationPolicy_payoffPlain", "child": "ReservationPolicy_Params", "via": ["statement"]}
@@ -3151,8 +3151,8 @@
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P07.choi_isomorphism", "child": "QAlgorithms_Papers_Independent_Intakenext100_P07", "via": ["statement"]}
 {"parent": "LiqPremiaEq.eq_7_13", "child": "LiqPremiaEq_IsRiccatiSolOn", "via": ["statement"]}
 {"parent": "LiqPremiaEq.eq_7_13", "child": "LiqPremiaEq_opNorm", "via": ["statement"]}
-{"parent": "NestedCRP.word_likelihood", "child": "NestedCRP_Hyper", "via": ["statement"]}
-{"parent": "NestedCRP.word_likelihood", "child": "NestedCRP_topicMass", "via": ["statement"]}
+{"parent": "NestedCRP.word_likelihood", "child": "NestedCRP_Hyper", "via": ["solution", "statement"]}
+{"parent": "NestedCRP.word_likelihood", "child": "NestedCRP_topicMass", "via": ["solution", "statement"]}
 {"parent": "NestedCRP.word_likelihood", "child": "NestedCRP_pathWeight", "via": ["statement"]}
 {"parent": "StochKolmogorov.Persist.kolmogorov_sde_pathwise_unique", "child": "StochKolmogorov_Persist_Model", "via": ["solution", "statement"]}
 {"parent": "StochKolmogorov.Persist.kolmogorov_sde_pathwise_unique", "child": "StochKolmogorov_Persist_Persistence", "via": ["solution", "statement"]}
@@ -6518,7 +6518,7 @@
 {"parent": "MissionAbort_IsSignalSystem", "child": "MissionAbort_Cluster", "via": ["statement"]}
 {"parent": "MissionAbort_IsSignalSystem", "child": "MissionAbort_Model", "via": ["statement"]}
 {"parent": "MissionAbort_IsSignalSystem", "child": "MissionAbort_decisionGrid", "via": ["statement"]}
-{"parent": "NestedCRP.last_customer_rule", "child": "NestedCRP_ncrpMass", "via": ["statement"]}
+{"parent": "NestedCRP.last_customer_rule", "child": "NestedCRP_ncrpMass", "via": ["solution", "statement"]}
 {"parent": "CombOpt_HeldKarp_Graph_OneTreeLPFeasible", "child": "CombOpt_HeldKarp_Graph_cut", "via": ["statement"]}
 {"parent": "CombOpt_HeldKarp_Graph_OneTreeLPFeasible", "child": "CombOpt_HeldKarp_Graph_gamma", "via": ["statement"]}
 {"parent": "PeriodicEval_Objective", "child": "PeriodicEval_Admissible", "via": ["statement"]}
@@ -6653,8 +6653,8 @@
 {"parent": "OAIQ107D113", "child": "OAIQ107D007", "via": ["statement"]}
 {"parent": "OAIQ107D113", "child": "OAIQ107D000", "via": ["statement"]}
 {"parent": "OAIQ107D113", "child": "OAIQ107D006", "via": ["statement"]}
-{"parent": "NestedCRP.gem_sticks_sum_one", "child": "NestedCRP_Hyper", "via": ["statement"]}
-{"parent": "NestedCRP.gem_sticks_sum_one", "child": "NestedCRP_gemLaw", "via": ["statement"]}
+{"parent": "NestedCRP.gem_sticks_sum_one", "child": "NestedCRP_Hyper", "via": ["solution", "statement"]}
+{"parent": "NestedCRP.gem_sticks_sum_one", "child": "NestedCRP_gemLaw", "via": ["solution", "statement"]}
 {"parent": "MultiServerAppt_alphaInit", "child": "MultiServerAppt_State", "via": ["statement"]}
 {"parent": "MarkovProcess_V3H_Lifetime_CountablySeparated_7dcb43b6", "child": "MarkovProcess_V3H_DenseTime_CemeteryExtension_b0b7bd17", "via": ["statement"]}
 {"parent": "MarkovProcess_V3H_Lifetime_CountablySeparated_7dcb43b6", "child": "MarkovProcess_V3H_Continuity_DenseTimeContinuousExtension_479df42c", "via": ["statement"]}
@@ -22098,12 +22098,12 @@
 {"parent": "ShorAdditivityEquiv_HolevoCapacityAdditive", "child": "ShorAdditivityEquiv_holevoCapacity", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Fock.create_create_inner_s50", "child": "OAIQ050L006", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Fock.create_create_inner_s50", "child": "LaughlinPlanar", "via": ["solution", "statement"]}
-{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_Recover_negLog2", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_fidelity", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_Recover_rotatedPetz", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_Recover_qRelEntropy", "via": ["statement"]}
+{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_Recover_negLog2", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_fidelity", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_Recover_rotatedPetz", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Recover.theorem_12_5_1", "child": "WildeQIT_Recover_qRelEntropy", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_11_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_11_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_11_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -24974,9 +24974,9 @@
 {"parent": "RISRO_sketchObjective", "child": "IRLSM_Convergence_Basic", "via": ["statement"]}
 {"parent": "OAI.PositiveEinsteinFour.Boundary.zeroOrder_bound", "child": "OAIQ091C001", "via": ["solution", "statement"]}
 {"parent": "HomotopyProxVM_sigmaConst", "child": "HomotopyProxVM_gammaConst", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.lemma_12_4_1", "child": "WildeQIT_Recover_qRelEntropy", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.lemma_12_4_1", "child": "WildeQIT_Recover_renyiDelta", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.lemma_12_4_1", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "WildeQIT.Recover.lemma_12_4_1", "child": "WildeQIT_Recover_qRelEntropy", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Recover.lemma_12_4_1", "child": "WildeQIT_Recover_renyiDelta", "via": ["solution", "statement"]}
+{"parent": "WildeQIT.Recover.lemma_12_4_1", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_19_11_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count_lower__p2m_b4696467_bd7a_4833_91a4_199ab5144504_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedian.FiniteComparison.finite_comparison_s53", "child": "OAIQ053K000", "via": ["statement"]}
@@ -30289,7 +30289,7 @@
 {"parent": "MarkovSA_T33", "child": "MarkovSA_Fbar", "via": ["statement"]}
 {"parent": "MarkovSA_T33", "child": "MarkovSA_moreauM", "via": ["statement"]}
 {"parent": "OpenSearchElectionTimer", "child": "OpenSearchPreVote", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.proposition_12_3_1", "child": "WildeQIT_Recover_rotatedPetz", "via": ["statement"]}
+{"parent": "WildeQIT.Recover.proposition_12_3_1", "child": "WildeQIT_Recover_rotatedPetz", "via": ["solution", "statement"]}
 {"parent": "DattaDiscord.eq_8", "child": "DattaDiscord_discord", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_3_0_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_3_0_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
@@ -34626,7 +34626,7 @@
 {"parent": "BudgetCoreExchange.qsat2_sigma2Complete", "child": "BudgetCoreExchange_QSAT2", "via": ["statement"]}
 {"parent": "BudgetCoreExchange.qsat2_sigma2Complete", "child": "BudgetCoreExchange_Sigma2P", "via": ["statement"]}
 {"parent": "BudgetCoreExchange.qsat2_sigma2Complete", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "WildeQIT.Recover.theorem_12_2_2", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["statement"]}
+{"parent": "WildeQIT.Recover.theorem_12_2_2", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_03_sourceLevy_closedHorizon_fullStieltjes_Icc_exponential_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_03_sourceLevy_closedHorizon_fullStieltjes_Icc_exponential_budget", "child": "AvramDividend.Classical.avram_wave4_03_dividendMeasure_Icc_weighted_zeroAtom_plus_Ioc", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_03_sourceLevy_closedHorizon_fullStieltjes_Icc_exponential_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GuthMaynard.card_not_typeI_zeros_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T21:34:57.048319+00:00
 -- url     : https://prove2.me/submissions/1192634a-84cc-45d8-9488-ade17817c5d0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_GuthMaynard_maynard_pratt_typeI_or_typeII

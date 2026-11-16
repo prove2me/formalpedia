@@ -13543,10 +13543,10 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalFrontendResources.heapEnd_translate", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryRadixOverhead", "via": ["solution", "statement"]}
 {"parent": "VariableBound.SmallBias.card_eq", "child": "AppVariablesStatement", "via": ["solution", "statement"]}
 {"parent": "VariableBound.SmallBias.card_eq", "child": "VariableBound_Family_SmallBias", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "MosonyiPetz_IsSufficient", "via": ["statement"]}
-{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["statement"]}
-{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "MosonyiPetz_fixedPointsK", "via": ["statement"]}
+{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "MosonyiPetz_IsSufficient", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.cocycle_mem_fixedPoints", "child": "MosonyiPetz_fixedPointsK", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Approx.abs_prod_ev_le", "child": "ParityChecksStatement", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Approx.abs_prod_ev_le", "child": "ClauseBound_ParityChecks_Approx", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Prog.NetE.mem_members", "child": "StepMachines_Prog_NetRun", "via": ["solution", "statement"]}
@@ -14442,9 +14442,9 @@
 {"parent": "MagnonCode_AQEDC_psiNorm", "child": "MagnonCode_AQEDC_PsiDesc", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_l_mesh_finite_jump_test_local_continuity", "child": "AvramDividend.Classical.avram_p2_34dbea70_uniform_source_jump_cells_sided_limits", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_l_mesh_finite_jump_test_local_continuity", "child": "AvramDividend.Classical.avram_p2_34dbea70_shrinking_cell_increment_converges_to_actual_jump", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.proposition_3", "child": "MosonyiPetz_IsMinimalCentralProjection", "via": ["statement"]}
-{"parent": "MosonyiPetz.proposition_3", "child": "MosonyiPetz_multiplicity", "via": ["statement"]}
-{"parent": "MosonyiPetz.proposition_3", "child": "MosonyiPetz_dimensionProjection", "via": ["statement"]}
+{"parent": "MosonyiPetz.proposition_3", "child": "MosonyiPetz_IsMinimalCentralProjection", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.proposition_3", "child": "MosonyiPetz_multiplicity", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.proposition_3", "child": "MosonyiPetz_dimensionProjection", "via": ["solution", "statement"]}
 {"parent": "OAI.BoundedHochschild.KadisonRingrose.normal_positive_predual_orbit_compact", "child": "KadisonRingroseSupport2", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredLoopAllocation", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredLoopSetup", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredLoopAllocation", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["statement"]}
@@ -23955,9 +23955,9 @@
 {"parent": "QueryMachines.Tower.Toy.toyPoly", "child": "Tower_PolyTower", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Tower.Toy.toyPoly", "child": "ToTuring_Lib_Nat1", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Tower.Toy.toyPoly", "child": "Tower_Toy_Machines", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.proposition_1", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.proposition_1", "child": "MosonyiPetz_IsSufficient", "via": ["statement"]}
-{"parent": "MosonyiPetz.proposition_1", "child": "MosonyiPetz_transposeMap", "via": ["statement"]}
+{"parent": "MosonyiPetz.proposition_1", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.proposition_1", "child": "MosonyiPetz_IsSufficient", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.proposition_1", "child": "MosonyiPetz_transposeMap", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredSolverNeed.polyNeed", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalMomentChannelResources.polyNeed", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredSolverNeed.polyNeed", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalMomentDetectorResources.polyNeed", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredSolverNeed.polyNeed", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaAllocationResources", "via": ["solution", "statement"]}
@@ -30293,7 +30293,7 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VII17.d_deriv", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_CompactifiedResiduals", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VII17.d_deriv", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_OneSidedExtraction", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VII17.d_deriv", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_FiniteTaylorJet", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.proposition_2", "child": "MosonyiPetz_multiplicityProjection", "via": ["statement"]}
+{"parent": "MosonyiPetz.proposition_2", "child": "MosonyiPetz_multiplicityProjection", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.le_PD", "child": "VariableBound_Net_SizeB", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.le_PD", "child": "PaddedDescent_F_MarkDeg", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Net.SizeP.le_PD", "child": "VariableBound_Net_Tests", "via": ["solution", "statement"]}
@@ -31696,13 +31696,13 @@
 {"parent": "QueryMachines.Tower.rstep_step", "child": "Tower_Defs", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Tower.rstep_step", "child": "Tower_Kernel", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Tower.rstep_step", "child": "Tower_Runs", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_schwarzDomain", "via": ["statement"]}
-{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_IsSufficient", "via": ["statement"]}
-{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_fixedPointsH", "via": ["statement"]}
-{"parent": "MosonyiPetz.lemma_1", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["statement"]}
-{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_fixedPointsK", "via": ["statement"]}
-{"parent": "MosonyiPetz.lemma_1", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_alpha", "via": ["statement"]}
+{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_schwarzDomain", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_IsSufficient", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_fixedPointsH", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.lemma_1", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_fixedPointsK", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.lemma_1", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.lemma_1", "child": "MosonyiPetz_alpha", "via": ["solution", "statement"]}
 {"parent": "ClauseBound_Grid_Expand", "child": "Groundwork_Grid_Expand", "via": ["statement"]}
 {"parent": "GaussianSynthesis.gaussian_update_difference", "child": "GaussianScalarCircuits", "via": ["solution", "statement"]}
 {"parent": "GaussianSynthesis.gaussian_update_difference", "child": "DyadicCertificates", "via": ["solution", "statement"]}
@@ -32009,10 +32009,10 @@
 {"parent": "VariableBound.VariablesA.one_le_lgK", "child": "VariableBound_Printed_ThmVariablesADefs", "via": ["solution", "statement"]}
 {"parent": "VariableBound.VariablesA.one_le_lgK", "child": "VariableBound_Printed_VariablesA_Level", "via": ["solution", "statement"]}
 {"parent": "RepGQML_IsCompletelyReducible", "child": "RepGQML_IsIrreducibleSplitting", "via": ["statement"]}
-{"parent": "MosonyiPetz.sufficient_structure", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.sufficient_structure", "child": "MosonyiPetz_IsSufficient", "via": ["statement"]}
-{"parent": "MosonyiPetz.sufficient_structure", "child": "MosonyiPetz_IsCentralDecomposition", "via": ["statement"]}
-{"parent": "MosonyiPetz.sufficient_structure", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["statement"]}
+{"parent": "MosonyiPetz.sufficient_structure", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.sufficient_structure", "child": "MosonyiPetz_IsSufficient", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.sufficient_structure", "child": "MosonyiPetz_IsCentralDecomposition", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.sufficient_structure", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_l_mesh_ordered_step_interior_modulus_error", "child": "AvramDividend.Classical.avram_p2_l_mesh_strict_partition_cell_sum_eq_sample", "via": ["solution", "statement"]}
 {"parent": "RotationLadder_Protocol_ketH", "child": "RotationLadder_Protocol_theta", "via": ["statement"]}
 {"parent": "Groundwork.Unary.poly", "child": "ToTuring_Lib_Unary", "via": ["solution", "statement"]}
@@ -43336,10 +43336,10 @@
 {"parent": "PaddedDescent.F.Mark.inv_replicate", "child": "PaddedDescent_F_MarkSums", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.inv_replicate", "child": "PaddedDescent_F_Interfaces", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.inv_replicate", "child": "PaddedDescent_F_MarkLayers", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.modular_invariance", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.modular_invariance", "child": "MosonyiPetz_IsSufficient", "via": ["statement"]}
-{"parent": "MosonyiPetz.modular_invariance", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["statement"]}
-{"parent": "MosonyiPetz.modular_invariance", "child": "MosonyiPetz_fixedPointsK", "via": ["statement"]}
+{"parent": "MosonyiPetz.modular_invariance", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.modular_invariance", "child": "MosonyiPetz_IsSufficient", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.modular_invariance", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.modular_invariance", "child": "MosonyiPetz_fixedPointsK", "via": ["solution", "statement"]}
 {"parent": "OmniThreshold.fulfillment_increment_monotone", "child": "OmniThreshold_fulfillmentCost", "via": ["statement"]}
 {"parent": "PiecesCounted.ofPadded_eight", "child": "PiecesCounted_EightSquare", "via": ["solution", "statement"]}
 {"parent": "PiecesCounted.ofPadded_eight", "child": "PiecesCounted_Sizes", "via": ["solution", "statement"]}
@@ -47513,7 +47513,7 @@
 {"parent": "Groundwork.Decode.toWord_eq", "child": "StepMachines_Prog_Chunks", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Decode.toWord_eq", "child": "ThreeSatStatement", "via": ["solution", "statement"]}
 {"parent": "Groundwork.Decode.toWord_eq", "child": "StepMachines_Prog_Decode", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.proposition_4", "child": "MosonyiPetz_blockAlgebra", "via": ["statement"]}
+{"parent": "MosonyiPetz.proposition_4", "child": "MosonyiPetz_blockAlgebra", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaPrimitiveBounds", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSourceBounds", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaPrimitiveBounds", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaPrimitiveBounds", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSeedPrimitiveGuards", "via": ["statement"]}
@@ -51006,7 +51006,7 @@
 {"parent": "WidthK.Step.notMem", "child": "StepMachines_Math_Sparsify", "via": ["solution", "statement"]}
 {"parent": "WidthK.Step.notMem", "child": "SparsifyWidthK_Step", "via": ["solution", "statement"]}
 {"parent": "WidthK.Step.notMem", "child": "Groundwork.PolyT.all", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.schwarz_inequality", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
+{"parent": "MosonyiPetz.schwarz_inequality", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Half.abs_topK_lt", "child": "GeneralPieces_Ring_ThmHalfPieces", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Half.abs_topK_lt", "child": "Groundwork.PolyT.sum", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Half.abs_topK_lt", "child": "GeneralPieces_Half_Size", "via": ["solution", "statement"]}
@@ -60018,9 +60018,9 @@
 {"parent": "BauerleRiederMDP_PDMDP_JumpModel_UncontrolledFlow", "child": "BauerleRiederMDP_PDMDP_JumpModel", "via": ["statement"]}
 {"parent": "levy_foundations_localLog_near_one", "child": "levy_foundations_localLogGoodDomain", "via": ["solution", "statement"]}
 {"parent": "levy_foundations_localLog_near_one", "child": "levy_foundations_localLogExponent", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.transposeMap_properties", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.transposeMap_properties", "child": "MosonyiPetz_alpha", "via": ["statement"]}
-{"parent": "MosonyiPetz.transposeMap_properties", "child": "MosonyiPetz_transposeMap", "via": ["statement"]}
+{"parent": "MosonyiPetz.transposeMap_properties", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.transposeMap_properties", "child": "MosonyiPetz_alpha", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.transposeMap_properties", "child": "MosonyiPetz_transposeMap", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Tab.tval1", "child": "CircuitLowerBound_Tab_Table", "via": ["solution", "statement"]}
 {"parent": "CircuitLowerBound.Tab.tval1", "child": "CircuitLowerBound_Tab_Frame", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Bridge.everyWordIsCompared", "child": "ToTuring_Closure_Fold", "via": ["solution", "statement"]}
@@ -65934,10 +65934,10 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalPrincipalDimensions.prefix_dimension_bound", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalPrincipalDimensions.prefix_dimension_bound", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryPrincipalDimensions", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalPrincipalDimensions.prefix_dimension_bound", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryFiniteLedger", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.gamma_preserves_states", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.gamma_preserves_states", "child": "MosonyiPetz_IsSufficient", "via": ["statement"]}
-{"parent": "MosonyiPetz.gamma_preserves_states", "child": "MosonyiPetz_gammaK", "via": ["statement"]}
-{"parent": "MosonyiPetz.gamma_preserves_states", "child": "MosonyiPetz_gammaH", "via": ["statement"]}
+{"parent": "MosonyiPetz.gamma_preserves_states", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.gamma_preserves_states", "child": "MosonyiPetz_IsSufficient", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.gamma_preserves_states", "child": "MosonyiPetz_gammaK", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.gamma_preserves_states", "child": "MosonyiPetz_gammaH", "via": ["solution", "statement"]}
 {"parent": "MenuCostPricing.lemma_3_4", "child": "MenuCostPricing_DP", "via": ["statement"]}
 {"parent": "MenuCostPricing.lemma_3_4", "child": "CapacitatedAssort_General_Work", "via": ["statement"]}
 {"parent": "MenuCostPricing.lemma_3_4", "child": "MenuCostPricing_Proxy", "via": ["statement"]}
@@ -73373,10 +73373,10 @@
 {"parent": "Groundwork.Prog.Count.wF_polyT", "child": "ToTuring_Lib_List3", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Structure.final", "child": "ParityChecksStatement", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Structure.final", "child": "ClauseBound_ParityChecks_Structure", "via": ["solution", "statement"]}
-{"parent": "MosonyiPetz.alpha_dual", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["statement"]}
-{"parent": "MosonyiPetz.alpha_dual", "child": "MosonyiPetz_alpha", "via": ["statement"]}
-{"parent": "MosonyiPetz.alpha_dual", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["statement"]}
-{"parent": "MosonyiPetz.alpha_dual", "child": "MosonyiPetz_weightedInner", "via": ["statement"]}
+{"parent": "MosonyiPetz.alpha_dual", "child": "QAlgorithms_Papers_Independent_Intakethird100_P84", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.alpha_dual", "child": "MosonyiPetz_alpha", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.alpha_dual", "child": "QAlgorithms_Papers_Independent_Dependency50_P21", "via": ["solution", "statement"]}
+{"parent": "MosonyiPetz.alpha_dual", "child": "MosonyiPetz_weightedInner", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaSelectorAllocation.initial_le", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaSelectorAllocation.initial_le", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaSelectorAllocation", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaSelectorAllocation.initial_le", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaCandidateScoreBounds", "via": ["solution", "statement"]}

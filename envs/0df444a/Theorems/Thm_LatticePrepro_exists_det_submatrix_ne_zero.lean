@@ -14,7 +14,7 @@
 --
 --   **Formalization Note**: The row and column choices are maps $r\colon \mathrm{Fin}\,k \to m$ and $c\colon \mathrm{Fin}\,k \to n$ (not required to be injective in the statement), the submatrix is `A.submatrix r c`, and the rank is Mathlib's `Matrix.rank`. For $k = 0$ the statement is trivial, since the empty determinant is $1$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary lemma used in the proof of Lemma A.6 (\label{lem:table-rank}); Lean: LatticePrepro/Basic/Matrix.lean, LatticePrepro.exists_det_submatrix_ne_zero
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Lemma A.6 (\label{lem:table-rank}); Lean: LatticePrepro/Basic/Matrix.lean, LatticePrepro.exists_det_submatrix_ne_zero
 
 import Mathlib
 

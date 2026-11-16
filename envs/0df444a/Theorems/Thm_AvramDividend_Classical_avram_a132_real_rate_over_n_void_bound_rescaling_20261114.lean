@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a132_real_rate_over_n_void_bound_rescaling_20261114
 -- name    : AvramDividend.Classical.avram_a132_real_rate_over_n_void_bound_rescaling_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:45:31.754117+00:00
 -- url     : https://prove2.me/theorems/aa8e93a9-8ffc-4d63-bd5c-62b775892377

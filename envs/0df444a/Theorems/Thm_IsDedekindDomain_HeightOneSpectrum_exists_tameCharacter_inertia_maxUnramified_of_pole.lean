@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsDedekindDomain_HeightOneSpectrum_exists_tameCharacter_inertia_maxUnramified_of_pole
 -- name    : IsDedekindDomain.HeightOneSpectrum.exists_tameCharacter_inertia_maxUnramified_of_pole
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-15T05:05:57.950464+00:00
 -- url     : https://prove2.me/theorems/bb542dca-ec8b-44f9-90fd-da8f90ac7856

@@ -17,7 +17,7 @@
 --
 --   **Formalization Note**: $g$ is a `Finsupp` `Ω →₀ Ω`, $|\operatorname{supp} g|$ is `g.support.card`, and the moment is the `moment` of Definitions 4.1–4.2 with coefficient ring $\Omega$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma 4.3 (\label{lem:scalar-moment-identification}); Lean: LatticePrepro/Moments/Basic.lean, LatticePrepro.eq_zero_of_moment_eq_zero
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 4.3 (\label{lem:scalar-moment-identification}); Lean: LatticePrepro/Moments/Basic.lean, LatticePrepro.eq_zero_of_moment_eq_zero
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Moments_Basic

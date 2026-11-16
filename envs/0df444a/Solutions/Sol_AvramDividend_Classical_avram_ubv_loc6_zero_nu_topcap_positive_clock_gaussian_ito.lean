@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_ubv_loc6_zero_nu_topcap_positive_clock_gaussian_ito
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-07T23:24:54.126741+00:00
 -- url     : https://prove2.me/submissions/21840c19-b2a0-4c62-aa25-7d429d5d9c93
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

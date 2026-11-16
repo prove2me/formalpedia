@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableGammaIntegral
 -- name    : Kyprianou.Ch01.stableGammaIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:19:18.693011+00:00
 -- url     : https://prove2.me/theorems/de6a61e3-0204-404f-b755-67612d1b92c3

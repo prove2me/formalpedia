@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerandSq_theorem_4_1
 -- name    : DerandSq.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T06:15:55.095191+00:00
 -- url     : https://prove2.me/theorems/06a05c24-fe2b-4c86-8a87-04a51ee6ace0

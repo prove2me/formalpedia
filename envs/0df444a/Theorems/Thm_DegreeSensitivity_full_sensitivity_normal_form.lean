@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSensitivity_full_sensitivity_normal_form
 -- name    : DegreeSensitivity.full_sensitivity_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @queelius
 -- created : 2026-11-07T16:52:10.003139+00:00
 -- url     : https://prove2.me/theorems/da4d0abf-d4dd-4843-bf69-4db86d38e448

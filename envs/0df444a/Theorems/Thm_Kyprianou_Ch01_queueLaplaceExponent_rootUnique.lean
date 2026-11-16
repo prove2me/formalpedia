@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_queueLaplaceExponent_rootUnique
 -- name    : Kyprianou.Ch01.queueLaplaceExponent_rootUnique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:29:29.197429+00:00
 -- url     : https://prove2.me/theorems/18bcbae8-bf33-4f19-9f2e-912f004abcf7

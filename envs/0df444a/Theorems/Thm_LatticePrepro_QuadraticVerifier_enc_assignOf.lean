@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: Instances are `Fin n → Bool` with bits stored as $0/1 \in \mathbb{F}_p$, the auxiliary values $u$ are a function on `AuxIdx` (the coordinates $i$ with $n+1 < i$), and the last sum runs over `AuxIdx`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary lemma used in the soundness proof of Theorem 4.6 (\label{thm:fixed-verifier-reduction}); Lean: LatticePrepro/Verifier/Quadratic.lean, LatticePrepro.QuadraticVerifier.enc_assignOf
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the soundness proof of Theorem 4.6 (\label{thm:fixed-verifier-reduction}); Lean: LatticePrepro/Verifier/Quadratic.lean, LatticePrepro.QuadraticVerifier.enc_assignOf
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

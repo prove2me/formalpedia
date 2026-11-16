@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strict_upperLower_criterion_of_gap
 -- name    : Thm11SourceRoute.strict_upperLower_criterion_of_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:08:56.403949+00:00
 -- url     : https://prove2.me/theorems/70d2982f-3097-4893-88c4-c80460c6a555

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RH.Transport.PhysicalHigh.data_chosen_moments
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Himan
 -- created : 2026-11-15T04:26:20.209282+00:00
 -- url     : https://prove2.me/submissions/2859e510-4de7-42e4-9d20-6e6372e09316
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HeckeSevenEighths

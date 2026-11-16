@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SevenEighths_ProbePhysical_transport_original_ray_compensatedPhysicalProbe_low_loss
 -- name    : OAI.SevenEighths.ProbePhysical.transport_original_ray_compensatedPhysicalProbe_low_loss
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T04:04:36.936531+00:00
 -- url     : https://prove2.me/theorems/b6e06cf1-45a5-4a95-9e01-2ae5670a6140

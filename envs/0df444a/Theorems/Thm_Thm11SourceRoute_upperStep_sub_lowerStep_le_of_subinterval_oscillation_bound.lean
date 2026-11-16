@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_upperStep_sub_lowerStep_le_of_subinterval_oscillation_bound
 -- name    : Thm11SourceRoute.upperStep_sub_lowerStep_le_of_subinterval_oscillation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:58:01.211216+00:00
 -- url     : https://prove2.me/theorems/4794ca3d-f0f6-44b6-9150-92ced1105d5a

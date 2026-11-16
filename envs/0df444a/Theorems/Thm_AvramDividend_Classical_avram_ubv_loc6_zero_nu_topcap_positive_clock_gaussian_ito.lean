@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ubv_loc6_zero_nu_topcap_positive_clock_gaussian_ito
 -- name    : AvramDividend.Classical.avram_ubv_loc6_zero_nu_topcap_positive_clock_gaussian_ito
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-07T00:11:55.562667+00:00
 -- url     : https://prove2.me/theorems/6c6f8a07-4ac8-4fdc-b5be-b418955298c1

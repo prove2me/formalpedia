@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_cell_subset_goodRemainder_of_not_mem_badCellIndices
 -- name    : Thm11SourceRoute.cell_subset_goodRemainder_of_not_mem_badCellIndices
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:57:41.047531+00:00
 -- url     : https://prove2.me/theorems/b30adb6d-73c5-4393-9d2b-cc9d9ac511c1

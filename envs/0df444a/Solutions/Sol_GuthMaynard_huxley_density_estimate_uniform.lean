@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GuthMaynard.huxley_density_estimate_uniform
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:55:17.638777+00:00
 -- url     : https://prove2.me/submissions/7f702127-ece5-48b0-85d7-0384911c356a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LindelofHypothesis_GrowthAndZeroCounts

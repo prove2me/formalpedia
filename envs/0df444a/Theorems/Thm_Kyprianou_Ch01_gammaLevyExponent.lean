@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_gammaLevyExponent
 -- name    : Kyprianou.Ch01.gammaLevyExponent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:10:14.359465+00:00
 -- url     : https://prove2.me/theorems/32009c4f-2a5e-4668-b3b2-28639144a632

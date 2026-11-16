@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_pos_mesh_bound_le_good_and_half_radii
 -- name    : Thm11SourceRoute.exists_pos_mesh_bound_le_good_and_half_radii
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:58:24.150993+00:00
 -- url     : https://prove2.me/theorems/403ed077-7840-4ec4-86e1-6f5614bed45e

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResultantVNP.theorem_3_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @gjindal
 -- created : 2026-11-14T16:35:32.640076+00:00
 -- url     : https://prove2.me/submissions/6f939cbf-42ba-4074-8934-c5cf2e6bbee4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ResultantVNP_permanent_to_charCoeff
 import Theorems.Thm_ResultantVNP_permanent_vnp_complete

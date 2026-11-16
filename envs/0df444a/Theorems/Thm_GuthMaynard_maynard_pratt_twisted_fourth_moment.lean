@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_maynard_pratt_twisted_fourth_moment
 -- name    : GuthMaynard.maynard_pratt_twisted_fourth_moment
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:23:26.162861+00:00
 -- url     : https://prove2.me/theorems/3217d567-0c2b-4d87-b742-a4a8a92e3f44

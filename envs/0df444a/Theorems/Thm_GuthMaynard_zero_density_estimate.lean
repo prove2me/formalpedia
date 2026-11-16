@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_zero_density_estimate
 -- name    : GuthMaynard.zero_density_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T18:14:03.953053+00:00
 -- url     : https://prove2.me/theorems/10ef4104-9911-478b-bf25-82f640496795

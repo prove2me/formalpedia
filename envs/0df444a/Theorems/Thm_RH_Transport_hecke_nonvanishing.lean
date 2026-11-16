@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_hecke_nonvanishing
 -- name    : RH.Transport.hecke_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @0xbf
 -- created : 2026-11-11T16:16:03.488377+00:00
 -- url     : https://prove2.me/theorems/f22369c4-e4f3-4220-845d-680f0c43a966

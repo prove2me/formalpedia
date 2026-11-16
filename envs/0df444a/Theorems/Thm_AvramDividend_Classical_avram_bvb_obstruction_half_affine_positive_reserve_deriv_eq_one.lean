@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_half_affine_positive_reserve_deriv_eq_one
 -- name    : AvramDividend.Classical.avram_bvb_obstruction_half_affine_positive_reserve_deriv_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T00:59:40.842926+00:00
 -- url     : https://prove2.me/theorems/f4b3a2d3-822e-4062-8353-5e98b700cb31

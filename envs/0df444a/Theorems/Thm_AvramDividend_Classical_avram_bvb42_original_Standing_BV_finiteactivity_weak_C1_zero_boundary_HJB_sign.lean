@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb42_original_Standing_BV_finiteactivity_weak_C1_zero_boundary_HJB_sign
 -- name    : AvramDividend.Classical.avram_bvb42_original_Standing_BV_finiteactivity_weak_C1_zero_boundary_HJB_sign
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T18:31:54.386204+00:00
 -- url     : https://prove2.me/theorems/e6ed1cc3-24fb-4e84-9fd2-be4cc7e46d18

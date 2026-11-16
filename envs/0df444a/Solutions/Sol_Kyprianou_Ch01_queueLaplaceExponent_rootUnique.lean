@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.queueLaplaceExponent_rootUnique
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T21:00:02.513695+00:00
 -- url     : https://prove2.me/submissions/cc04c4e3-3aab-4dc9-aef8-b1c5e020cf50
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_RiskQueueCore

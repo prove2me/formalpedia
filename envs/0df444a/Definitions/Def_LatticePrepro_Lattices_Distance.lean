@@ -15,7 +15,7 @@
 --
 --   **Formalization Note.** The infimum is `⨅ v : Λ.lattice, Λ.dist pn x v` in $\mathbb R$. The source module proves that it is attained (`exists_dist_eq_latticeDist`), so it agrees with the paper's minimum, and `Lattices/Mathlib.lean` identifies it with Mathlib's `Metric.infDist` in `PiLp`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Definition 3.1 (\label{def:code-lattice-distances}); Lean: LatticePrepro/Lattices/Distance.lean, LatticePrepro.LatticeFamily.latticeDist
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.1 (\label{def:code-lattice-distances}); Lean: LatticePrepro/Lattices/Distance.lean, LatticePrepro.LatticeFamily.latticeDist
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

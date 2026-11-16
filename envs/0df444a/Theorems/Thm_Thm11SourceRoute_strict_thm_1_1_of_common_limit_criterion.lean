@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strict_thm_1_1_of_common_limit_criterion
 -- name    : Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:10:43.749191+00:00
 -- url     : https://prove2.me/theorems/627d0d62-4950-4604-a40e-23996b1d302b

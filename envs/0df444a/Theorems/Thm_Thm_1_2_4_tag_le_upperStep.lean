@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_tag_le_upperStep
 -- name    : Thm_1_2_4.tag_le_upperStep
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:45:24.469945+00:00
 -- url     : https://prove2.me/theorems/efbdc72b-06c9-4ada-ae77-30030a0b85b2

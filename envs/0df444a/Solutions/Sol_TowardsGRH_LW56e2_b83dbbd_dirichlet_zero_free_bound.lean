@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TowardsGRH_LW56e2_b83dbbd.dirichlet_zero_free_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @0xbf
 -- created : 2026-11-11T16:17:55.873021+00:00
 -- url     : https://prove2.me/submissions/302440f4-872e-4755-9418-065a213d9a56
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RH_Transport_hecke_nonvanishing
 import Theorems.Thm_RH_Transport_PhysicalAnalytic_dirichlet_of_hecke_at_boundary

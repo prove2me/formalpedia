@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p3a_kappa_pos
 -- name    : CritWinSpin.p3a_kappa_pos
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T05:26:57.995219+00:00
 -- url     : https://prove2.me/theorems/8d2bab6b-9452-4ca4-ac6b-6b643f87af60

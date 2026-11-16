@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gauss_b_20261113_b237_direct_pointwise_upper_bound_30c9a818
 -- name    : gauss_b_20261113_b237_direct_pointwise_upper_bound_30c9a818
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T11:20:26.037193+00:00
 -- url     : https://prove2.me/theorems/d0a387ac-de04-429b-8d73-f1d08f085456

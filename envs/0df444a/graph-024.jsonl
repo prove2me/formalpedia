@@ -18365,8 +18365,8 @@
 {"parent": "OAIQ098G1299", "child": "OAIQ098G410", "via": ["statement"]}
 {"parent": "OAIQ098G1299", "child": "OAIQ098G691", "via": ["statement"]}
 {"parent": "OAIQ098G1299", "child": "OAIQ098G018", "via": ["statement"]}
-{"parent": "DegreeSensitivity.degree_five_full_sensitivity_implies_goal", "child": "polyDegree", "via": ["statement"]}
-{"parent": "DegreeSensitivity.degree_five_full_sensitivity_implies_goal", "child": "sensitivity", "via": ["statement"]}
+{"parent": "DegreeSensitivity.degree_five_full_sensitivity_implies_goal", "child": "polyDegree", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.degree_five_full_sensitivity_implies_goal", "child": "sensitivity", "via": ["solution", "statement"]}
 {"parent": "DegreeSensitivity.degree_five_full_sensitivity_implies_goal", "child": "BoolFunc", "via": ["statement"]}
 {"parent": "MaxCompForest_physNodes", "child": "MaxCompForest_physNode", "via": ["statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound987_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
@@ -22367,9 +22367,9 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound866_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound866_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound866_e", "child": "MUBSix", "via": ["solution", "statement"]}
-{"parent": "DegreeSensitivity.kushilevitz_composition", "child": "polyDegree", "via": ["statement"]}
-{"parent": "DegreeSensitivity.kushilevitz_composition", "child": "sensitivity", "via": ["statement"]}
-{"parent": "DegreeSensitivity.kushilevitz_composition", "child": "BoolFunc", "via": ["statement"]}
+{"parent": "DegreeSensitivity.kushilevitz_composition", "child": "polyDegree", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.kushilevitz_composition", "child": "sensitivity", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.kushilevitz_composition", "child": "BoolFunc", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.atomBase_pos_g", "child": "OAIQ098G1643", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound920_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound920_e", "child": "MUBSix", "via": ["solution", "statement"]}
@@ -32022,9 +32022,9 @@
 {"parent": "AvramDividend.Classical.avram_bv_residual9_original_B_positivepart_integrable_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_residual9_original_B_positivepart_integrable_zero", "child": "AvramDividend.Classical.avram_bv_residual9_nonpositive_ae_positivepart_integrable_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_residual9_original_B_positivepart_integrable_zero", "child": "AvramDividend.Classical.avram_p3_grid4_original_physical_B_full_pointwise_nonpositive_ae", "via": ["solution", "statement"]}
-{"parent": "DegreeSensitivity.amano_no_fully_sensitive_ten_variables_degree_four", "child": "polyDegree", "via": ["statement"]}
-{"parent": "DegreeSensitivity.amano_no_fully_sensitive_ten_variables_degree_four", "child": "sensitivity", "via": ["statement"]}
-{"parent": "DegreeSensitivity.amano_no_fully_sensitive_ten_variables_degree_four", "child": "BoolFunc", "via": ["statement"]}
+{"parent": "DegreeSensitivity.amano_no_fully_sensitive_ten_variables_degree_four", "child": "polyDegree", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.amano_no_fully_sensitive_ten_variables_degree_four", "child": "sensitivity", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.amano_no_fully_sensitive_ten_variables_degree_four", "child": "BoolFunc", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G545", "child": "OAIQ098G054", "via": ["statement"]}
 {"parent": "OAIQ098G545", "child": "OAIQ098G423", "via": ["statement"]}
 {"parent": "OAIQ098G545", "child": "OAIQ098G387", "via": ["statement"]}
@@ -39376,9 +39376,9 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalInfinityAffineKaehler_nativeNoPole", "child": "QEC_Coding_ExpanderCodes_LPSOriginalInfinityAffineDifferentials", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BalancedProduct.LPSTannerExpansion.twice_weight_le_insideAdjacency_primalSupport", "child": "QEC_Coding_BalancedProduct_LPSTannerExpansion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BalancedProduct.LPSTannerExpansion.twice_weight_le_insideAdjacency_primalSupport", "child": "QEC_Coding_BalancedProduct_LPSTanner", "via": ["solution", "statement"]}
-{"parent": "DegreeSensitivity.tal_blockSensitivity_le_polyDegree_sq", "child": "polyDegree", "via": ["statement"]}
-{"parent": "DegreeSensitivity.tal_blockSensitivity_le_polyDegree_sq", "child": "blockSensitivity", "via": ["statement"]}
-{"parent": "DegreeSensitivity.tal_blockSensitivity_le_polyDegree_sq", "child": "BoolFunc", "via": ["statement"]}
+{"parent": "DegreeSensitivity.tal_blockSensitivity_le_polyDegree_sq", "child": "polyDegree", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.tal_blockSensitivity_le_polyDegree_sq", "child": "blockSensitivity", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.tal_blockSensitivity_le_polyDegree_sq", "child": "BoolFunc", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm7_1_1_3.realContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm7_1_1_3.realContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm7_1_1_3.realContains_g", "child": "OAIQ098G1347", "via": ["solution", "statement"]}
@@ -40837,9 +40837,9 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.chunkSound19_e", "child": "OAIQ106E077", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.chunkSound19_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.chunkSound19_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
-{"parent": "DegreeSensitivity.full_sensitivity_normal_form", "child": "polyDegree", "via": ["statement"]}
-{"parent": "DegreeSensitivity.full_sensitivity_normal_form", "child": "sensitivity", "via": ["statement"]}
-{"parent": "DegreeSensitivity.full_sensitivity_normal_form", "child": "BoolFunc", "via": ["statement"]}
+{"parent": "DegreeSensitivity.full_sensitivity_normal_form", "child": "polyDegree", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.full_sensitivity_normal_form", "child": "sensitivity", "via": ["solution", "statement"]}
+{"parent": "DegreeSensitivity.full_sensitivity_normal_form", "child": "BoolFunc", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein3.N0_left.t6_contains_g", "child": "OAIQ098G382", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein3.N0_left.t6_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein3.N0_left.t6_contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}

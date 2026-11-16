@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_ubv_gauss_top15_original_zero_nu_ruin_clipped_strict_expected_upper
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-09T13:40:34.440787+00:00
 -- url     : https://prove2.me/submissions/52658435-f60b-4b87-a7af-7ebaa6fd5da8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_avram_gtop15_original_compact_prefix_exhaustion
 import Theorems.Thm_AvramDividend_Classical_avram_gtop15_original_compact_stopped_C2_reward_budget

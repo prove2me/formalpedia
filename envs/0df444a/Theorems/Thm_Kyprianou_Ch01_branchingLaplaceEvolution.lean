@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingLaplaceEvolution
 -- name    : Kyprianou.Ch01.branchingLaplaceEvolution
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:26:16.657843+00:00
 -- url     : https://prove2.me/theorems/e3e56c90-ad7f-4e20-9c86-ac6cc59168cd

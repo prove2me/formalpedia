@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericGroupWE_Main_lemma_5_2
 -- name    : GenericGroupWE.Main.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:53:05.049082+00:00
 -- url     : https://prove2.me/theorems/445049df-9195-41e7-8d88-c9873a6ff567

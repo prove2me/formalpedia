@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_card_not_typeI_zeros_le
 -- name    : GuthMaynard.card_not_typeI_zeros_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T19:16:20.00589+00:00
 -- url     : https://prove2.me/theorems/0c579576-da51-4323-b26b-a9cfd5f119f9

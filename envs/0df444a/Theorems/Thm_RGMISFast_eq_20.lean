@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RGMISFast_eq_20
 -- name    : RGMISFast.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:29:48.646865+00:00
 -- url     : https://prove2.me/theorems/c78a1cb2-b0fe-49d2-ba52-46f2afa85c82

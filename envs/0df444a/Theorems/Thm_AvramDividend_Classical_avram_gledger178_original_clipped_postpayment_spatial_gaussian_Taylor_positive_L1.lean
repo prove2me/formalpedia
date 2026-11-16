@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger178_original_clipped_postpayment_spatial_gaussian_Taylor_positive_L1
 -- name    : AvramDividend.Classical.avram_gledger178_original_clipped_postpayment_spatial_gaussian_Taylor_positive_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:17:02.059211+00:00
 -- url     : https://prove2.me/theorems/5318a4dc-2908-4f4d-a982-969fdda144ab

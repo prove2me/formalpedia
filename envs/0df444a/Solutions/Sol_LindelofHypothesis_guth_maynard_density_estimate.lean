@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LindelofHypothesis.guth_maynard_density_estimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T19:50:07.048798+00:00
 -- url     : https://prove2.me/submissions/a7209eaf-6b1e-4e06-b4a1-c461c2a926a5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LindelofHypothesis_GrowthAndZeroCounts

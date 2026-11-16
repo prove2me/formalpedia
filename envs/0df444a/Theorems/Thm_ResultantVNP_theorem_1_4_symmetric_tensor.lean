@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResultantVNP_theorem_1_4_symmetric_tensor
 -- name    : ResultantVNP.theorem_1_4_symmetric_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:38:52.069736+00:00
 -- url     : https://prove2.me/theorems/9addfaec-e8e2-460a-ab7d-2af36aa8281e

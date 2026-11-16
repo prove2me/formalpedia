@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_configuration_probability
 -- name    : ZhangTangLabelCut.LP2.configuration_probability
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:14:41.538236+00:00
 -- url     : https://prove2.me/theorems/5d43198f-3676-4614-b3b7-700d82b8511c

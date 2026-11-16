@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_preimage_iUnion_distrib
 -- name    : preimage_iUnion_distrib
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:51:37.938423+00:00
 -- url     : https://prove2.me/theorems/274e1a79-4f2b-4f9b-b6f4-998f9b8f4073

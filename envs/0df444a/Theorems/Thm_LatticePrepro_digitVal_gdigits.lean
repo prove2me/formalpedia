@@ -13,7 +13,7 @@
 --
 --   This makes the moment map $\hat\mu_k$ of Construction A.4, which is defined through the interpolant indexed by $\mathrm{digits}_{B,m}(k)$, a moment of order exactly $k$. Together with the additivity of $\mathrm{val}_B$, it identifies the polynomial matrix of an evaluation table at $\gamma$ with the Hankel matrix $(\hat\mu_{h+h'})$ (Lemma A.6), and it gives $\hat\mu_k=\alpha^k$ on the element tables (Theorem A.8).
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Claim A.2 (\label{clm:generalized-digits}), first part; Lean: LatticePrepro/Tables/Digits.lean, LatticePrepro.digitVal_gdigits
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Claim A.2 (\label{clm:generalized-digits}), first part; Lean: LatticePrepro/Tables/Digits.lean, LatticePrepro.digitVal_gdigits
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Tables_Digits

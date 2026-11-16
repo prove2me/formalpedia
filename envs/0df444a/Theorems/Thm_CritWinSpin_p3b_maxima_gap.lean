@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p3b_maxima_gap
 -- name    : CritWinSpin.p3b_maxima_gap
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T05:54:20.44433+00:00
 -- url     : https://prove2.me/theorems/4239d8e5-80f2-4869-a801-d625ba482fc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericGroupWE_Main_theorem_3_5
 -- name    : GenericGroupWE.Main.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:55:54.711613+00:00
 -- url     : https://prove2.me/theorems/db259b92-2ecb-4629-8fc4-6b70f785bb1f

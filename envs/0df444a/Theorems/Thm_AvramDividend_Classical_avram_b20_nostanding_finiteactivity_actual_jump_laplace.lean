@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b20_nostanding_finiteactivity_actual_jump_laplace
 -- name    : AvramDividend.Classical.avram_b20_nostanding_finiteactivity_actual_jump_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:44:52.889673+00:00
 -- url     : https://prove2.me/theorems/6d107011-bfef-498e-b952-55cbced2750a

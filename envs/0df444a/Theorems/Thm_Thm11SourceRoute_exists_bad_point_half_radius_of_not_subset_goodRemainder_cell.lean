@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_bad_point_half_radius_of_not_subset_goodRemainder_cell
 -- name    : Thm11SourceRoute.exists_bad_point_half_radius_of_not_subset_goodRemainder_cell
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:13:13.663193+00:00
 -- url     : https://prove2.me/theorems/6e8a87a5-af70-4686-97ef-abbd79c5390e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich
 -- name    : Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:06:48.263274+00:00
 -- url     : https://prove2.me/theorems/f7e6f499-99bd-489c-81c7-c736eaf305d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ubv_top12_original_zero_nu_strict_source_expected_upper_L1
 -- name    : AvramDividend.Classical.avram_ubv_top12_original_zero_nu_strict_source_expected_upper_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-08T23:30:10.967214+00:00
 -- url     : https://prove2.me/theorems/c63d897f-ed1b-465f-a542-bcc39fa65ca5

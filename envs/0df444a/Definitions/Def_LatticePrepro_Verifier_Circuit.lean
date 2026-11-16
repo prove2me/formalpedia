@@ -17,7 +17,7 @@
 --
 --   **Formalization Note**: Every gate has exactly two input wires (gates of smaller fan-in are expressed by repeating or ignoring an input), and the designated output gate forces $g \ge 1$. Evaluation is defined by well-founded recursion on the wire index. The bundle also contains the facts $o < S$, $n \le o$, and that the reordering maps wires below $S$ to coordinates below $S$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Definitions 3.13–3.14 (\label{def:verifier}, \label{def:computation-assignment}); Lean: LatticePrepro/Verifier/Circuit.lean, LatticePrepro.BoolCircuit, LatticePrepro.BoolCircuit.evalAux, LatticePrepro.BoolCircuit.Language, LatticePrepro.BoolCircuit.toGateVerifier
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definitions 3.13–3.14 (\label{def:verifier}, \label{def:computation-assignment}); Lean: LatticePrepro/Verifier/Circuit.lean, LatticePrepro.BoolCircuit, LatticePrepro.BoolCircuit.evalAux, LatticePrepro.BoolCircuit.Language, LatticePrepro.BoolCircuit.toGateVerifier
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

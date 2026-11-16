@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairReplay_theorem_10_4_i_lower
 -- name    : FairReplay.theorem_10_4_i_lower
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:40.790999+00:00
 -- url     : https://prove2.me/theorems/383b07ef-0b94-4133-b018-2f252e3c0ff3

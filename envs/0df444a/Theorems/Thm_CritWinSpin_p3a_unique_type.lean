@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p3a_unique_type
 -- name    : CritWinSpin.p3a_unique_type
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T05:26:57.731213+00:00
 -- url     : https://prove2.me/theorems/86233ed7-406a-42b8-bd0c-a32fe6af5db3

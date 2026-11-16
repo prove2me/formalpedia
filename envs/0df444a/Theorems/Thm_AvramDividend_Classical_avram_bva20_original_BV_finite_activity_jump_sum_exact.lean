@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bva20_original_BV_finite_activity_jump_sum_exact
 -- name    : AvramDividend.Classical.avram_bva20_original_BV_finite_activity_jump_sum_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T23:31:19.291241+00:00
 -- url     : https://prove2.me/theorems/69dc5e14-c06b-469b-9733-ef28d56baaa4

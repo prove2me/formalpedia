@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_independentLevySum_stationaryIncrements
 -- name    : Kyprianou.Ch01.independentLevySum_stationaryIncrements
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:33:47.34242+00:00
 -- url     : https://prove2.me/theorems/faa196ca-76a5-4ac7-9cfc-82fd050c9796

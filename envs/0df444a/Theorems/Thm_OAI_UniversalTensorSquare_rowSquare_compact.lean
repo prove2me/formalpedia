@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_compact
 -- name    : OAI.UniversalTensorSquare.rowSquare_compact
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:23:57.91476+00:00
 -- url     : https://prove2.me/theorems/fcad52a8-b2b9-4af7-9232-e1978a7c5fd2

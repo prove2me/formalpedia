@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RGMISFast.theorem_1_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @srikkanthr
 -- created : 2026-11-15T00:48:32.205203+00:00
 -- url     : https://prove2.me/submissions/e01cf0d1-36ee-45a0-8236-16d54dcc7b37
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RGMISFast_observation_2_2
 import Theorems.Thm_RGMISFast_proposition_4_2

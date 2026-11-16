@@ -15,7 +15,7 @@
 --
 --   **Formalization Note.** The lift is `liftZMod`, binarity is `IsBinary`, block sparsity is `AtMostOnePerBlock Prod.fst` (the blocks are the fibres of the first projection), and the weight is Mathlib's `hammingNorm`. Lean writes the prime as `p`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary lemma used in the proof of Lemma B.2 (\label{lem:embeddings}) and of Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.blockHad_lift_bound
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Lemma B.2 (\label{lem:embeddings}) and of Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.blockHad_lift_bound
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

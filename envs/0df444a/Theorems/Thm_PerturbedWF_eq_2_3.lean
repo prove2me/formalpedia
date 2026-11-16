@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerturbedWF_eq_2_3
 -- name    : PerturbedWF.eq_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T08:41:54.078204+00:00
 -- url     : https://prove2.me/theorems/dbd69f70-c8c7-4b16-b27d-a8ea3d7ac435

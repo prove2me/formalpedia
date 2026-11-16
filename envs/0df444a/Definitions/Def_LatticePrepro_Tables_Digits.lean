@@ -18,7 +18,7 @@
 --
 --   **Formalization Note**: Exponent vectors are functions `Fin m → ℕ`. Both functions are defined for all natural numbers, with Lean's conventions $n/0=0$ and $n\bmod0=n$; the paper's standing assumptions $m\ge1$ and $B\ge2$ (which give $B^m-1\ge1$) appear as hypotheses of the lemmas about them. The monomials $\lambda^{\eta}$ of Definition A.1 are not part of this bundle; they appear directly in the column sums of Construction A.4. The paper writes $\mathsf d$ and $\mathsf a$ for $B$ and $m$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Definition A.1 (\label{def:generalized-digits}); Lean: LatticePrepro/Tables/Digits.lean, LatticePrepro.digitVal, LatticePrepro.gdigits
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition A.1 (\label{def:generalized-digits}); Lean: LatticePrepro/Tables/Digits.lean, LatticePrepro.digitVal, LatticePrepro.gdigits
 
 import Mathlib
 

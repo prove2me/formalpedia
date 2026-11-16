@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_PhysicalHigh_source_batch_plain_marked_fine
 -- name    : RH.Transport.PhysicalHigh.source_batch_plain_marked_fine
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T04:56:34.233314+00:00
 -- url     : https://prove2.me/theorems/1f0ae52a-47a8-420e-b710-1475ef1c7a53

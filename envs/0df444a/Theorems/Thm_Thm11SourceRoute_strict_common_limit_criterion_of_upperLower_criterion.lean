@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strict_common_limit_criterion_of_upperLower_criterion
 -- name    : Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:09:49.999208+00:00
 -- url     : https://prove2.me/theorems/8c217afc-0dde-41e9-8cc2-a181a2854d6d

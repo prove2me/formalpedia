@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_characteristicExponentialMartingale
 -- name    : Kyprianou.Ch01.characteristicExponentialMartingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:20:29.151909+00:00
 -- url     : https://prove2.me/theorems/c51342f2-0731-4877-bd58-572ae2b73f89

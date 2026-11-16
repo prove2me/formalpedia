@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.independentLevySum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T19:39:01.255992+00:00
 -- url     : https://prove2.me/submissions/15ff8f17-1eca-4695-972c-e68ad71afe03
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

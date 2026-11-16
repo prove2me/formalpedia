@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSensitivity_degree_five_full_sensitivity_implies_goal
 -- name    : DegreeSensitivity.degree_five_full_sensitivity_implies_goal
--- status  : Open
+-- status  : Proved
 -- author  : @queelius
 -- created : 2026-11-07T16:52:32.113225+00:00
 -- url     : https://prove2.me/theorems/38976f97-e8b7-4af9-b2b8-e7e32b4070fc

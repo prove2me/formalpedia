@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p3a_global_lower
 -- name    : CritWinSpin.p3a_global_lower
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T05:26:58.409611+00:00
 -- url     : https://prove2.me/theorems/c585c8bd-27ca-4650-b3fc-803f5e69e3b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_DarbouxCommonRefinementSandwich_proof
 -- name    : Thm11SourceRoute.DarbouxCommonRefinementSandwich_proof
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:06:15.908467+00:00
 -- url     : https://prove2.me/theorems/e69b31e4-97dc-4c43-8559-5f461d950501

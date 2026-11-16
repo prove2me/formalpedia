@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_preimage_iInter_distrib
 -- name    : preimage_iInter_distrib
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:51:30.704538+00:00
 -- url     : https://prove2.me/theorems/5e6ab817-89ee-41ef-9c8d-c8534e4060b7

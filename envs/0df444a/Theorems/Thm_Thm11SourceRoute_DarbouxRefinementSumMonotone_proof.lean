@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_DarbouxRefinementSumMonotone_proof
 -- name    : Thm11SourceRoute.DarbouxRefinementSumMonotone_proof
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:02:12.684+00:00
 -- url     : https://prove2.me/theorems/31aa8a51-21a4-421f-9d4e-d111a613c5c2

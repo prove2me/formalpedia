@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericGroupWE_Main_sec_6_5_params
 -- name    : GenericGroupWE.Main.sec_6_5_params
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:14.879047+00:00
 -- url     : https://prove2.me/theorems/e110aac7-3cb5-419d-9ae4-4cc0cc1fb8c3

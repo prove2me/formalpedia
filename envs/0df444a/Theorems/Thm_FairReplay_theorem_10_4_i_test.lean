@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairReplay_theorem_10_4_i_test
 -- name    : FairReplay.theorem_10_4_i_test
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:33.254962+00:00
 -- url     : https://prove2.me/theorems/39ac12ac-e05f-42d0-8e41-96c266e9648a

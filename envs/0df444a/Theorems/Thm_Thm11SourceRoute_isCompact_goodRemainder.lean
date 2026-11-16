@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_isCompact_goodRemainder
 -- name    : Thm11SourceRoute.isCompact_goodRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:04:07.691265+00:00
 -- url     : https://prove2.me/theorems/ae9d9e5e-df17-4d2d-9f5d-1b14b734f1f5

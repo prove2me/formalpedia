@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: $M(s)$ is `M.map (eval s)` and $X - s$ is `X - C s`. The exponent uses natural-number subtraction, which never truncates because $\operatorname{rank} M(s) \le |n|$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary lemma used in the proof of Lemma A.6 (\label{lem:table-rank}); Lean: LatticePrepro/Basic/Matrix.lean, LatticePrepro.pow_X_sub_C_dvd_det
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Lemma A.6 (\label{lem:table-rank}); Lean: LatticePrepro/Basic/Matrix.lean, LatticePrepro.pow_X_sub_C_dvd_det
 
 import Mathlib
 

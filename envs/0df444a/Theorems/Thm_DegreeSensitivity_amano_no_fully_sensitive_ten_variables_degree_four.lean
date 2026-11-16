@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSensitivity_amano_no_fully_sensitive_ten_variables_degree_four
 -- name    : DegreeSensitivity.amano_no_fully_sensitive_ten_variables_degree_four
--- status  : Open
+-- status  : Proved
 -- author  : @queelius
 -- created : 2026-11-07T16:52:00.229312+00:00
 -- url     : https://prove2.me/theorems/9a56b537-08f7-438b-9369-0b2c56344fee

@@ -15,7 +15,7 @@
 --
 --   **Formalization Note** "$v$ satisfies the equations" is the predicate `Solves V R ε x v`, which is equivalent to $Av=b_x$ for the linear map of `fixedSystem`. $D$ is `R.numBlocks`, the number of blocks of a single table, not of the whole system.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Theorem 4.6 (\label{thm:fixed-verifier-reduction}), soundness part (weight form); Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.mem_language_of_solves
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 4.6 (\label{thm:fixed-verifier-reduction}), soundness part (weight form); Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.mem_language_of_solves
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_PhysicalHigh_data_chosen_moments
 -- name    : RH.Transport.PhysicalHigh.data_chosen_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T03:27:29.823099+00:00
 -- url     : https://prove2.me/theorems/489a06e7-8511-4ca9-8c38-21d6d6e22dfe

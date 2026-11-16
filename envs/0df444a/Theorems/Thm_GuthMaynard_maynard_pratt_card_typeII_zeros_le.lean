@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_maynard_pratt_card_typeII_zeros_le
 -- name    : GuthMaynard.maynard_pratt_card_typeII_zeros_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T21:04:03.029176+00:00
 -- url     : https://prove2.me/theorems/d125fb26-e15c-4fe9-b889-fbba09540545

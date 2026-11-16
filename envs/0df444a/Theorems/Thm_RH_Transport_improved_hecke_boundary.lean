@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_improved_hecke_boundary
 -- name    : RH.Transport.improved_hecke_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @0xbf
 -- created : 2026-11-11T16:30:35.664694+00:00
 -- url     : https://prove2.me/theorems/bc9c25eb-535a-45ec-9a8e-f6cc60f85810

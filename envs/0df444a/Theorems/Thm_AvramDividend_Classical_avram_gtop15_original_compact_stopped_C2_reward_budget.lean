@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gtop15_original_compact_stopped_C2_reward_budget
 -- name    : AvramDividend.Classical.avram_gtop15_original_compact_stopped_C2_reward_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-09T12:56:47.614195+00:00
 -- url     : https://prove2.me/theorems/c2a35b04-5336-466c-85f5-7bf823eded0c

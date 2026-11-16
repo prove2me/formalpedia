@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResultantVNP.theorem_1_4_symmetric_tensor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @gjindal
 -- created : 2026-11-14T11:00:35.938202+00:00
 -- url     : https://prove2.me/submissions/1af560f9-1f67-4f4a-8daf-5068f1f026e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ResultantVNP_charCoeff

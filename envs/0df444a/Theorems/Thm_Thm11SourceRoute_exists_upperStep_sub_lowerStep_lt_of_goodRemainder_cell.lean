@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell
 -- name    : Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:04:52.359298+00:00
 -- url     : https://prove2.me/theorems/9c470454-3283-46d2-8b68-cebfdf71b87a

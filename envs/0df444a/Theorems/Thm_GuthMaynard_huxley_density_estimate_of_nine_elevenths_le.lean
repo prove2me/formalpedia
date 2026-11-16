@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_huxley_density_estimate_of_nine_elevenths_le
 -- name    : GuthMaynard.huxley_density_estimate_of_nine_elevenths_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:50:11.744593+00:00
 -- url     : https://prove2.me/theorems/5648a3bd-f629-49a6-a59e-078a59153580

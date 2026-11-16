@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a127_integer_count_nonvoid_probability_first_second_factorial_moment_bounds_20261114
 -- name    : AvramDividend.Classical.avram_a127_integer_count_nonvoid_probability_first_second_factorial_moment_bounds_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:38:16.348824+00:00
 -- url     : https://prove2.me/theorems/0aabae54-2e21-4799-9fd1-9f841814b428

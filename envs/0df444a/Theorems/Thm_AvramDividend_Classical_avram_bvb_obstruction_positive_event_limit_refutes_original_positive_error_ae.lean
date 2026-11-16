@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_positive_event_limit_refutes_original_positive_error_ae
 -- name    : AvramDividend.Classical.avram_bvb_obstruction_positive_event_limit_refutes_original_positive_error_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T00:57:31.192336+00:00
 -- url     : https://prove2.me/theorems/97e8314e-51c2-4b7b-9d15-5cd429d5bc61

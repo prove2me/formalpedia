@@ -18,7 +18,7 @@
 --
 --   **Formalization Note** Lean writes the identity as "left-hand side minus `Finsupp.single θ_x 1` evaluated at $\alpha$ equals $0$". The functions are `Ω →₀ ZMod p` indexed by `TblIdx`, and $f_{0,0}$ is the function at index `rep 0 0`. The support hypothesis sums over all tables, product and auxiliary. The moment hypothesis is stated after mapping $K$ into $\Omega$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Theorem 4.6 (\label{thm:fixed-verifier-reduction}), step of the soundness proof establishing the translation identity (19) (\label{eq:strategy-target}) pointwise; Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.translation_pointwise
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 4.6 (\label{thm:fixed-verifier-reduction}), step of the soundness proof establishing the translation identity (19) (\label{eq:strategy-target}) pointwise; Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.translation_pointwise
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

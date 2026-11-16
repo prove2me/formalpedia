@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RH.Transport.PhysicalHigh.actual_plain_inputs
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Himan
 -- created : 2026-11-15T04:45:03.547124+00:00
 -- url     : https://prove2.me/submissions/a5fff9e9-d7b2-4bcb-93f0-1bc72facacb2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Lean.Elab.Tactic.Omega

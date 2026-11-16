@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RH.Transport.improved_hecke_boundary
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @0xbf
 -- created : 2026-11-14T20:54:56.732318+00:00
 -- url     : https://prove2.me/submissions/aa72b9f8-261e-41c0-9be0-ee674b82f43e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HeckeSevenEighths

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger25_original_topcap_postpayment_stopped_positive_residual_vanish
 -- name    : AvramDividend.Classical.avram_gledger25_original_topcap_postpayment_stopped_positive_residual_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T14:57:41.205193+00:00
 -- url     : https://prove2.me/theorems/f77e47a0-8f62-40eb-9483-33815a191dbe

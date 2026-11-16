@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_lowerStep_le_tag
 -- name    : Thm_1_2_4.lowerStep_le_tag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:45:39.003826+00:00
 -- url     : https://prove2.me/theorems/e8a0c856-d561-4701-9ab4-291eb403058a

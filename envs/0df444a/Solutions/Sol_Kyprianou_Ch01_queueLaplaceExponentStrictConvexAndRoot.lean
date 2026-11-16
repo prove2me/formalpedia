@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.queueLaplaceExponentStrictConvexAndRoot
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T19:30:50.673484+00:00
 -- url     : https://prove2.me/submissions/e49145b7-68e1-4d68-acb4-d0d6d8932e8e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_RiskQueueCore

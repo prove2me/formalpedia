@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_upperSum_sub_lowerSum_eq_partitionOscillation
 -- name    : Thm11SourceRoute.upperSum_sub_lowerSum_eq_partitionOscillation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:57:03.367466+00:00
 -- url     : https://prove2.me/theorems/fe657535-505e-4fca-bed6-22305c134b40

@@ -73622,9 +73622,9 @@
 {"parent": "QEC.Locality.separatorRightEdges_subset_directed", "child": "QEC_Locality_SeparatorProfile_StoppedRecursion", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.separatorRightEdges_subset_directed", "child": "QEC_Locality_SeparatorProfile_Quantitative", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_D_4", "child": "IAFTRL_proxyC", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_4", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_4", "child": "IAFTRL_Run_mixGap", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_4", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_D_4", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_4", "child": "IAFTRL_Run_mixGap", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_4", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_ChainComplex_Homotopy", "child": "QEC.Semantics.UnitaryTransport.conjDensity_toOperator", "via": ["statement"]}
 {"parent": "QEC_Coding_ChainComplex_Homotopy", "child": "QEC_Coding_Core_Definitions", "via": ["statement"]}
 {"parent": "QEC_Coding_ChainComplex_Homotopy", "child": "QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk", "via": ["statement"]}
@@ -74496,13 +74496,13 @@
 {"parent": "QEC.Semantics.lindbladDysonEvolutionContinuous_completelyPositive_of_summable", "child": "QEC_Semantics_Dynamics_Lindblad", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.lindbladDysonEvolutionContinuous_completelyPositive_of_summable", "child": "QEC_Semantics_Dynamics_LieTrotter", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.lindbladDysonEvolutionContinuous_completelyPositive_of_summable", "child": "QEC_Semantics_Channels_TraceNorm", "via": ["solution", "statement"]}
-{"parent": "IAFTRL.theorem_2_1", "child": "LinearBanditProtocol", "via": ["statement"]}
-{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsUniqueMin", "via": ["statement"]}
-{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsCorrupted", "via": ["statement"]}
-{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_regretVs", "via": ["statement"]}
-{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
-{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_actionNorm", "via": ["statement"]}
+{"parent": "IAFTRL.theorem_2_1", "child": "LinearBanditProtocol", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsUniqueMin", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsCorrupted", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_regretVs", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.theorem_2_1", "child": "IAFTRL_actionNorm", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.toFiniteInstrument_bindDependent_branchOperator_filter_sum_eq", "child": "QEC_Semantics_Instruments_TensorPower_BranchOperator", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.toFiniteInstrument_bindDependent_branchOperator_filter_sum_eq", "child": "QEC_Semantics_Instruments_Branches_ChannelFirstFilteredBranchOperator", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.UnitSeparatedEmbedding2D.mem_gridCellQubits_iff", "child": "QEC_Locality_OptimalTradeoff_Interaction", "via": ["solution", "statement"]}
@@ -77058,11 +77058,11 @@
 {"parent": "ExplicitCost.size_mkParent_le", "child": "ClauseBound_Gen_RateAux", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinFiberShift.exact_shift", "child": "OAI_NumberTheory_DirichletL_Poisson_BinaryGaussian", "via": ["solution", "statement"]}
 {"parent": "OAI.EisensteinFiberShift.exact_shift", "child": "OAI_NumberTheory_DirichletL_GaussSum_GaussianDualLimit", "via": ["solution", "statement"]}
-{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_proxyC", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_Run_mixGap", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_regretDist", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_proxyC", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_Run_mixGap", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_18", "child": "IAFTRL_regretDist", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.gaussCode_map_le_of_cylinder_bounds", "child": "BianchiIX_Statistics_GaussCoding", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.gaussCode_map_le_of_cylinder_bounds", "child": "BianchiIX_Statistics_GaussCylinders", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.gauss_continuous_average", "child": "BianchiIX_Statistics_ObservableTransfer", "via": ["solution", "statement"]}
@@ -77140,9 +77140,9 @@
 {"parent": "QEC.Semantics.FiniteKrausFamily.of_unitaryTransport_complete", "child": "QEC_Semantics_Channels_Kraus", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteKrausFamily.of_unitaryTransport_complete", "child": "QEC.Semantics.Correctable.unitaryTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteKrausFamily.of_unitaryTransport_complete", "child": "QEC_Semantics_Channels_Core", "via": ["solution", "statement"]}
-{"parent": "IAFTRL.proposition_D_2", "child": "IAFTRL_regretVs", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_D_2", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_D_2", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
+{"parent": "IAFTRL.proposition_D_2", "child": "IAFTRL_regretVs", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_D_2", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_D_2", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisClosureSelectedLength_eq", "child": "QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisFunctionField", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisClosureSelectedLength_eq", "child": "QEC_Coding_AlgebraicGeometry_Towers_SourceGaloisSelectedPlaces", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceGaloisClosureSelectedLength_eq", "child": "QEC_Coding_AlgebraicGeometry_Towers_SourceNormalClosureSplitting", "via": ["solution", "statement"]}

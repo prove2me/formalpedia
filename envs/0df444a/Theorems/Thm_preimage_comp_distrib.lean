@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_preimage_comp_distrib
 -- name    : preimage_comp_distrib
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:51:45.829208+00:00
 -- url     : https://prove2.me/theorems/01204d00-0b8b-4a59-b011-6c61a90d0cd0

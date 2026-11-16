@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_choices
 -- name    : OAI.UniversalTensorSquare.rowSquare_choices
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:23:37.508175+00:00
 -- url     : https://prove2.me/theorems/ec12cbc9-99f5-4b10-967a-c701edc425a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_word_likelihood
 -- name    : NestedCRP.word_likelihood
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:29:45.084245+00:00
 -- url     : https://prove2.me/theorems/bfb8f4c4-b897-46fc-bc07-35af12749488

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_PhysicalHigh_actual_plain_inputs
 -- name    : RH.Transport.PhysicalHigh.actual_plain_inputs
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T04:25:35.378762+00:00
 -- url     : https://prove2.me/theorems/c3857aec-b90d-4d9f-8bfe-cc6cd7d40c2b

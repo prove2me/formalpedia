@@ -26,7 +26,7 @@
 --
 --   **Formalization Note** The matrix is an abstract $F$-linear map into an arbitrary $F$-module $W$ rather than an $h\times n$ matrix, and $F$ is any field (the paper uses $\mathbb{F}_p$). The parameter conditions $D,b,g\ge1$ and $b>g$ of Definition 3.10 are not part of these definitions; where needed they are stated separately (for example in `GapReduction`). Computability of the reduction is not modelled. The `Fintype` and `DecidableEq` instances are fields of the structure.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Definition 3.10 (\label{def:block-sparse-linear-system}); Lean: LatticePrepro/Reduction/LinearSystem.lean, LatticePrepro.LinearSystemFamily, LatticePrepro.LinearSystemFamily.numBlocks, LatticePrepro.LinearSystemFamily.IsSolution, LatticePrepro.LinearSystemFamily.IsYes, LatticePrepro.LinearSystemFamily.IsNo, LatticePrepro.LinearSystemFamily.IsGapReduction
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.10 (\label{def:block-sparse-linear-system}); Lean: LatticePrepro/Reduction/LinearSystem.lean, LatticePrepro.LinearSystemFamily, LatticePrepro.LinearSystemFamily.numBlocks, LatticePrepro.LinearSystemFamily.IsSolution, LatticePrepro.LinearSystemFamily.IsYes, LatticePrepro.LinearSystemFamily.IsNo, LatticePrepro.LinearSystemFamily.IsGapReduction
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

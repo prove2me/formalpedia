@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_ga_a26_original_paired_spatial_positive_L1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T08:24:45.269747+00:00
 -- url     : https://prove2.me/submissions/4c35ac3d-74a2-4706-8ef1-691dd8ba654c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_ga_a26_original_positive_interior

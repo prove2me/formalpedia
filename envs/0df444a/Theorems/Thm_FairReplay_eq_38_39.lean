@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairReplay_eq_38_39
 -- name    : FairReplay.eq_38_39
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:20.824772+00:00
 -- url     : https://prove2.me/theorems/89a1d856-0398-451b-8c1b-dce5c25c4980

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IAFTRL_proposition_D_2
 -- name    : IAFTRL.proposition_D_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:50:39.742811+00:00
 -- url     : https://prove2.me/theorems/379f041e-d515-4cc8-b000-824121bfbfe8

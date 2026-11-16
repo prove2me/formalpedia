@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_generalFrullaniImproper
 -- name    : Kyprianou.Ch01.generalFrullaniImproper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:19:06.494578+00:00
 -- url     : https://prove2.me/theorems/a226e972-3054-4c6b-956b-a97a3cbd56c1

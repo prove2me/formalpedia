@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GuthMaynard.primes_in_almost_all_short_intervals
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-06T01:11:27.77082+00:00
 -- url     : https://prove2.me/submissions/482f2210-0253-4b18-b3c0-af9435e9553b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Zeta23_RvM_zeta_local_zero_count

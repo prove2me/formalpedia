@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolySwap_KMS_proposition_2_24
 -- name    : PolySwap.KMS.proposition_2_24
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:40:38.405171+00:00
 -- url     : https://prove2.me/theorems/f46a90a0-7472-497b-9364-35d964ac182b

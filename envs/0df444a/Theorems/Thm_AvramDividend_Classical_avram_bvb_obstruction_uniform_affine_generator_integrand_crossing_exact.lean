@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_uniform_affine_generator_integrand_crossing_exact
 -- name    : AvramDividend.Classical.avram_bvb_obstruction_uniform_affine_generator_integrand_crossing_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T01:05:30.929458+00:00
 -- url     : https://prove2.me/theorems/63a9f24e-2520-427d-8ab0-a76807a1ed07

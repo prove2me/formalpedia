@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partitionOscillation_le_good_bad_split
 -- name    : Thm11SourceRoute.partitionOscillation_le_good_bad_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:45:09.51006+00:00
 -- url     : https://prove2.me/theorems/18d073c1-8d69-4925-aa2c-57300c4c3fbf

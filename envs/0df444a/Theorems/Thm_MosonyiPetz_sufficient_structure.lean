@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_sufficient_structure
 -- name    : MosonyiPetz.sufficient_structure
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:45:32.927957+00:00
 -- url     : https://prove2.me/theorems/60f0befa-f7e0-41e7-a46c-41ba0a3381f6

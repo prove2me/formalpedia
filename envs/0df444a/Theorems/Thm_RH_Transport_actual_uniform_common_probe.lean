@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_actual_uniform_common_probe
 -- name    : RH.Transport.actual_uniform_common_probe
--- status  : Open
+-- status  : Proved
 -- author  : @0xbf
 -- created : 2026-11-14T20:54:27.873493+00:00
 -- url     : https://prove2.me/theorems/67e0b024-f5d7-4613-ae5f-dd84ab7a62d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Recover_proposition_12_3_1
 -- name    : WildeQIT.Recover.proposition_12_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:22:10.747006+00:00
 -- url     : https://prove2.me/theorems/d3ba714f-d79f-4585-a957-b3840b588df4

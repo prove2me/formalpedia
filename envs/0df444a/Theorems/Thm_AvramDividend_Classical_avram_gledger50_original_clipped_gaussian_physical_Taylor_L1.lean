@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger50_original_clipped_gaussian_physical_Taylor_L1
 -- name    : AvramDividend.Classical.avram_gledger50_original_clipped_gaussian_physical_Taylor_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T22:20:17.491616+00:00
 -- url     : https://prove2.me/theorems/42465e5f-adfc-410f-9406-47efaba6e5db

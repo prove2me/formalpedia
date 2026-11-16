@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p3a_local_expansion
 -- name    : CritWinSpin.p3a_local_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T05:26:58.33556+00:00
 -- url     : https://prove2.me/theorems/df6e2209-896e-490e-83eb-e93f3f86cb16

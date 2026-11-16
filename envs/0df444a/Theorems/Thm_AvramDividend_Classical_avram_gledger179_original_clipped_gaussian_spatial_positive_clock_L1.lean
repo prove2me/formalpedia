@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger179_original_clipped_gaussian_spatial_positive_clock_L1
 -- name    : AvramDividend.Classical.avram_gledger179_original_clipped_gaussian_spatial_positive_clock_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T23:22:51.44964+00:00
 -- url     : https://prove2.me/theorems/9a0e0114-9037-481a-a2dc-a2864f287d4b

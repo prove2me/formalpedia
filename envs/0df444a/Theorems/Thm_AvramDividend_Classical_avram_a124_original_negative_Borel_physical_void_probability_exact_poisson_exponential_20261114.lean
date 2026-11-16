@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a124_original_negative_Borel_physical_void_probability_exact_poisson_exponential_20261114
 -- name    : AvramDividend.Classical.avram_a124_original_negative_Borel_physical_void_probability_exact_poisson_exponential_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:32:12.780192+00:00
 -- url     : https://prove2.me/theorems/786aeafb-e510-4408-a980-fa4d58906e98

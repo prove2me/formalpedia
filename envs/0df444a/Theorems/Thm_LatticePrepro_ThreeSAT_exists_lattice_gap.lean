@@ -22,7 +22,7 @@
 --
 --   **Formalization Note**: The conclusion is `Nonempty (LatticeGap pn ε (SAT v) (len v) C)`, a structure bundling the lattice family (`LatticeFamily`: a finite coordinate type, a `Submodule ℤ (M → ℤ)` and the targets), $R$, $N$ and the properties above. The norm exponent is a `PNorm`: any real $p \ge 1$ (the paper states rational $p$, which only matters for computability) or $p = \infty$; $\|v\|_p = (\sum_i |v_i|^p)^{1/p}$ uses real powers and $\|v\|_\infty = \max_i |v_i|$. $\operatorname{dist}_p$ is the real infimum `latticeDist`, and full rank is expressed by $N\cdot\mathbb{Z}^M \subseteq \Lambda$. Instances are encoded by one bit per possible clause ($n$ is `len v` $= (2v)^3$) and indexed by $v \ge 1$; $C$ may depend on $p$ and $\varepsilon$ but not on $v$. Polynomial-time computability, the description-length bounds and the search test of Lemma 5.2 (stated separately for the concrete test) are not part of the statement.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Theorem 5.1 (\label{thm:approximation-hardness}), lattices, for the 3SAT verifier; Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.exists_lattice_gap
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), lattices, for the 3SAT verifier; Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.exists_lattice_gap
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

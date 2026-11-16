@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_gamma_preserves_states
 -- name    : MosonyiPetz.gamma_preserves_states
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:44:59.557391+00:00
 -- url     : https://prove2.me/theorems/d9b3dd2f-5445-4945-add7-84e65fd9a414

@@ -19,7 +19,7 @@
 --
 --   **Formalization Note** The conclusion is `Nonempty (GapReduction p V g m)`, a structure bundling the system with the properties above. The verifier is an abstract `QuadraticVerifier`: a system of quadratic gate equations over $\mathbb{F}_p$ with a designated input prefix and output coordinate. Claim 3.15 produces one from a Boolean circuit. The size bound is kept in integer form. The paper's statement also includes the time bounds and the uniform size bound (24) for a choice of $m$ depending on $S$ and $g$; these are not part of the Lean statement. The facts that $b$ is a power of $p$ and $D\ge1$ are extra conclusions that the paper's statement does not list explicitly.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Theorem 4.8 (\label{thm:quantitative-affine-gap}); Lean: LatticePrepro/Main.lean, LatticePrepro.exists_gapReduction
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 4.8 (\label{thm:quantitative-affine-gap}); Lean: LatticePrepro/Main.lean, LatticePrepro.exists_gapReduction
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

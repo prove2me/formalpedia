@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: The inequality is stated without natural-number subtraction. The paper bounds the rank $\rho$ of $H(X)$ over $\mathbb{S}(X)$ and separately notes $\operatorname{rank}H(\gamma)\le\rho$; the Lean statement bounds $\operatorname{rank}_K H(\gamma)$ directly, which is what the soundness argument needs. Ranks are Mathlib's `Matrix.rank`, and the matrix is indexed by `Fin ℓ`. The statement is generic and involves no evaluation tables.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma A.6 (\label{lem:table-rank}), inequality (32) (\label{eq:polynomial-average-rank}) in its proof; Lean: LatticePrepro/Tables/PolyMatrixRank.lean, LatticePrepro.card_mul_rank_eval_le
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma A.6 (\label{lem:table-rank}), inequality (32) (\label{eq:polynomial-average-rank}) in its proof; Lean: LatticePrepro/Tables/PolyMatrixRank.lean, LatticePrepro.card_mul_rank_eval_le
 
 import Mathlib
 

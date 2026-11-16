@@ -14,7 +14,7 @@
 --
 --   **Formalization Note**: Rows and columns are indexed by `Fin ℓ`; a column index $j \in \{0,\dots,t\}$ is embedded into $\{0, \dots, \ell-1\}$ by `Fin.castLE`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary lemma used in the proof of Theorem A.8 (\label{thm:moment-representation-construction}), where it supplies the column dependence required by Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Basic/Matrix.lean, LatticePrepro.exists_dependence_of_rank_le
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Theorem A.8 (\label{thm:moment-representation-construction}), where it supplies the column dependence required by Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Basic/Matrix.lean, LatticePrepro.exists_dependence_of_rank_le
 
 import Mathlib
 

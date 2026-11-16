@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a26_original_positive_interior
 -- name    : AvramDividend.Classical.avram_ga_a26_original_positive_interior
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T07:53:37.910198+00:00
 -- url     : https://prove2.me/theorems/b0d9951c-b488-4cfc-b93a-43f840807469

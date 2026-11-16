@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairReplay_eq_42_44
 -- name    : FairReplay.eq_42_44
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:49:32.17675+00:00
 -- url     : https://prove2.me/theorems/88f0dd8c-da1e-49e0-9251-515d5997a218

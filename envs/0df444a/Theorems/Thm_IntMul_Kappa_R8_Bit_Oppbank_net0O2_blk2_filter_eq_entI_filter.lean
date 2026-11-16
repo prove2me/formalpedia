@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_net0O2_blk2_filter_eq_entI_filter
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.net0O2_blk2_filter_eq_entI_filter
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T22:38:45.676344+00:00
 -- url     : https://prove2.me/theorems/5f3b85ef-adc2-4860-ade2-542f53adefb8

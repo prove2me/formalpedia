@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_modular_invariance
 -- name    : MosonyiPetz.modular_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:46:41.394539+00:00
 -- url     : https://prove2.me/theorems/95cdc2c7-9a26-49ec-bbb5-d02365e59f5b

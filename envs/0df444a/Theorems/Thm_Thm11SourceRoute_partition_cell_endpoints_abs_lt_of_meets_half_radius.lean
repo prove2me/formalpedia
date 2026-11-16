@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partition_cell_endpoints_abs_lt_of_meets_half_radius
 -- name    : Thm11SourceRoute.partition_cell_endpoints_abs_lt_of_meets_half_radius
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:13:24.172335+00:00
 -- url     : https://prove2.me/theorems/eceb5e8f-0530-480f-985d-5ec3bf0d961a

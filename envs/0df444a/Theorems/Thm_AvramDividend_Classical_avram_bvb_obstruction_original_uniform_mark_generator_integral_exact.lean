@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_original_uniform_mark_generator_integral_exact
 -- name    : AvramDividend.Classical.avram_bvb_obstruction_original_uniform_mark_generator_integral_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T01:06:28.575186+00:00
 -- url     : https://prove2.me/theorems/2979e9ec-ef8e-4708-841f-11dbb6d1fac0

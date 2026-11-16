@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericGroupWE_Main_sec_6_4_rank
 -- name    : GenericGroupWE.Main.sec_6_4_rank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:00.093193+00:00
 -- url     : https://prove2.me/theorems/87b603bf-605e-4ef8-927e-9638cb4c5e53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_7_7_interval
 -- name    : thm_7_7_interval
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:00:12.845722+00:00
 -- url     : https://prove2.me/theorems/8df6fe4c-c8e1-4794-a7f5-ac190c643dd1

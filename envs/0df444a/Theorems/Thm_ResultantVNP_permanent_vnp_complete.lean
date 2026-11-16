@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResultantVNP_permanent_vnp_complete
 -- name    : ResultantVNP.permanent_vnp_complete
--- status  : Open
+-- status  : Proved
 -- author  : @gjindal
 -- created : 2026-11-14T16:32:22.926045+00:00
 -- url     : https://prove2.me/theorems/f19393bf-954a-4e16-a545-8c35e4e9ce4a

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gledger28_original_clipped_source_vs_postpayment_gaussian_mesh
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T22:26:15.444942+00:00
 -- url     : https://prove2.me/submissions/c3540080-031e-40d0-94e3-02d06d918c30
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gledger50_original_clipped_gaussian_physical_Taylor_L1

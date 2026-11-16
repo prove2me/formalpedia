@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_commonRefinementPointList_adjacent_length_lt_delta
 -- name    : Thm11SourceRoute.commonRefinementPointList_adjacent_length_lt_delta
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:59:57.475209+00:00
 -- url     : https://prove2.me/theorems/961ee0d2-d0ed-4492-8d11-b79087123324

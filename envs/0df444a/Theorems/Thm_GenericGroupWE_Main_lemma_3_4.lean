@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericGroupWE_Main_lemma_3_4
 -- name    : GenericGroupWE.Main.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:55:56.042119+00:00
 -- url     : https://prove2.me/theorems/f12a3c6a-bc31-4854-92be-d32891ba8c70

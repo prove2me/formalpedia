@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_gammaLevyMeasure_infiniteMass
 -- name    : Kyprianou.Ch01.gammaLevyMeasure_infiniteMass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:14:31.648203+00:00
 -- url     : https://prove2.me/theorems/6f985952-82c3-487b-8d4a-ee7162bd3e68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IAFTRL_lemma_D_4
 -- name    : IAFTRL.lemma_D_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:50:40.707306+00:00
 -- url     : https://prove2.me/theorems/144a3054-90ca-4933-b764-8a52b82caac8

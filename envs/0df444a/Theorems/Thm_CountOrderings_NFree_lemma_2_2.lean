@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountOrderings_NFree_lemma_2_2
 -- name    : CountOrderings.NFree.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T22:57:25.028889+00:00
 -- url     : https://prove2.me/theorems/51b28376-9d11-4ed9-a926-a50444357c6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partitionOfStrictEndpointList_mem_node
 -- name    : Thm11SourceRoute.partitionOfStrictEndpointList_mem_node
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:00:41.43858+00:00
 -- url     : https://prove2.me/theorems/5a4de334-d505-4c62-b031-c5813ba00b6e

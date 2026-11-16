@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TowardsGRH_LW56e2_b83dbbd_dirichlet_zero_free_bound
 -- name    : TowardsGRH_LW56e2_b83dbbd.dirichlet_zero_free_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T04:56:00.013729+00:00
 -- url     : https://prove2.me/theorems/3a8f3264-d5ab-422c-8e4f-a2c0e27d6918

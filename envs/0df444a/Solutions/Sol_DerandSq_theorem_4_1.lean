@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DerandSq.theorem_4_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:31:28.862719+00:00
 -- url     : https://prove2.me/submissions/cd562606-3b09-4877-8c4d-abb379901e0e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PunctSketch_coinProb

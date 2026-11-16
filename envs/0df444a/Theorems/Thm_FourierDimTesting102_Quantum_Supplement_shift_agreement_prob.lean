@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierDimTesting102_Quantum_Supplement_shift_agreement_prob
 -- name    : FourierDimTesting102.Quantum.Supplement.shift_agreement_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:28:43.408738+00:00
 -- url     : https://prove2.me/theorems/27475dd5-0f1f-42e2-9a7c-5bae4bd9cfd3

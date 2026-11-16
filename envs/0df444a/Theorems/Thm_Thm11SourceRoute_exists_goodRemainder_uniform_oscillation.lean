@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_goodRemainder_uniform_oscillation
 -- name    : Thm11SourceRoute.exists_goodRemainder_uniform_oscillation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:04:37.070266+00:00
 -- url     : https://prove2.me/theorems/e1eab117-1342-4c9f-bf89-49b4d86aa4f9

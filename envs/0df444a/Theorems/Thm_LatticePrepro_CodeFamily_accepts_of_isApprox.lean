@@ -17,7 +17,7 @@
 --
 --   **Formalization Note.** The statement is for an arbitrary code family over any field with decidable equality, with the YES condition given directly as the bound $\Delta(t_x,\mathcal C)\le R$. The paper's hypotheses $f\ge1$ and $\Gamma>16f$ (the case $s=1$) are replaced by the weaker $f\le g$, and the threshold $\Gamma\cdot D$ appears as $g\cdot R$. The test and approximate solutions are the predicates `CodeFamily.Accepts` and `CodeFamily.IsApprox`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma 5.2 (\label{lem:search-test}), codes, YES instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.CodeFamily.accepts_of_isApprox
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 5.2 (\label{lem:search-test}), codes, YES instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.CodeFamily.accepts_of_isApprox
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

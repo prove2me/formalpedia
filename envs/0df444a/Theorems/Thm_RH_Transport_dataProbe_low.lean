@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_dataProbe_low
 -- name    : RH.Transport.dataProbe_low
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T03:27:50.680946+00:00
 -- url     : https://prove2.me/theorems/810167f2-0e5d-4cd7-8b88-a29df7436934

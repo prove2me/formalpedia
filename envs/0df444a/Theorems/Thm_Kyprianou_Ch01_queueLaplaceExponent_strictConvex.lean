@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_queueLaplaceExponent_strictConvex
 -- name    : Kyprianou.Ch01.queueLaplaceExponent_strictConvex
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:29:26.276761+00:00
 -- url     : https://prove2.me/theorems/ac89a33c-8bb7-4b98-a757-520226dece4f

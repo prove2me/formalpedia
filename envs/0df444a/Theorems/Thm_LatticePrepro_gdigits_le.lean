@@ -17,7 +17,7 @@
 --
 --   **Formalization Note**: The paper's lower bound $0$ is automatic, since the entries are natural numbers.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Claim A.2 (\label{clm:generalized-digits}), second part; Lean: LatticePrepro/Tables/Digits.lean, LatticePrepro.gdigits_le
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Claim A.2 (\label{clm:generalized-digits}), second part; Lean: LatticePrepro/Tables/Digits.lean, LatticePrepro.gdigits_le
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Tables_Digits

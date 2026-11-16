@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_mu_half_le_twentyseven_div_onesixtyfour
 -- name    : GuthMaynard.mu_half_le_twentyseven_div_onesixtyfour
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-14T21:40:35.060379+00:00
 -- url     : https://prove2.me/theorems/cb56729b-b646-49a3-aa16-63cf0eee7653

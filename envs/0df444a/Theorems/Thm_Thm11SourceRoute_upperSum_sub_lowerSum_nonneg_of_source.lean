@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_upperSum_sub_lowerSum_nonneg_of_source
 -- name    : Thm11SourceRoute.upperSum_sub_lowerSum_nonneg_of_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:58:37.639269+00:00
 -- url     : https://prove2.me/theorems/5b67eae5-dc55-402e-8054-07c8ce23a5e6

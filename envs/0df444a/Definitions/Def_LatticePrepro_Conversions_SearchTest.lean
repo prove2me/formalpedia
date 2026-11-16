@@ -21,7 +21,7 @@
 --
 --   **Formalization Note.** The test is a proposition, not an algorithm; the paper's claim that it runs in polynomial time is not formalized. For codes the threshold is written $g\cdot R$ with an arbitrary radius $R$; Theorem 5.1 uses $R=D$. The lattice distance is `LatticeFamily.latticeDist`, and $\Delta(t_x,\mathcal C)$ is `codeDist`, cast to $\mathbb R$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma 5.2 (\label{lem:search-test}); Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.CodeFamily.Accepts, LatticePrepro.CodeFamily.IsApprox, LatticePrepro.LatticeReduction.Accepts, LatticePrepro.LatticeReduction.IsApprox
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 5.2 (\label{lem:search-test}); Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.CodeFamily.Accepts, LatticePrepro.CodeFamily.IsApprox, LatticePrepro.LatticeReduction.Accepts, LatticePrepro.LatticeReduction.IsApprox
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

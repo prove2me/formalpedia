@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_Oppbank_nest_Le_ND_NDpt
 -- name    : IntMul.Kappa.R8.Bit.Oppbank.nest_Le_ND_NDpt
--- status  : Open
+-- status  : Proved
 -- author  : @Ethan Cheung Wang
 -- created : 2026-10-28T19:05:30.127274+00:00
 -- url     : https://prove2.me/theorems/6f07ed1f-d286-4a86-a8d8-821893a3c71c

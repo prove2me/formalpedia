@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_bad_point_of_mem_badCellIndices
 -- name    : Thm11SourceRoute.exists_bad_point_of_mem_badCellIndices
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:08:59.616229+00:00
 -- url     : https://prove2.me/theorems/46679c47-d50f-452e-aedf-c30db40e4429

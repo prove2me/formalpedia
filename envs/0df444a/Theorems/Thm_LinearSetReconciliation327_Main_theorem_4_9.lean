@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearSetReconciliation327_Main_theorem_4_9
 -- name    : LinearSetReconciliation327.Main.theorem_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:31:44.083254+00:00
 -- url     : https://prove2.me/theorems/1383ee93-b312-46f2-b0a3-0833a81bb117

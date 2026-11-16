@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_rsIntegrable_left
 -- name    : Thm_1_2_4.rsIntegrable_left
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:11:45.208078+00:00
 -- url     : https://prove2.me/theorems/edc7e18c-4449-4aac-8517-7d813a9d29f2

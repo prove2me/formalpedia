@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivBayesTest_corollary_2_7
 -- name    : PrivBayesTest.corollary_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:25:19.340224+00:00
 -- url     : https://prove2.me/theorems/0a2a1875-154a-4d37-af3c-82c9ba42a0cd

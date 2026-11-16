@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone
 -- name    : Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:05:40.802843+00:00
 -- url     : https://prove2.me/theorems/b3bdb9cd-1580-41a4-9f4a-cc0c6f99020f

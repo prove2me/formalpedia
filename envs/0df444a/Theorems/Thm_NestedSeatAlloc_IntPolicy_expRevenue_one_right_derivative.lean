@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_expRevenue_one_right_derivative
 -- name    : NestedSeatAlloc.IntPolicy.expRevenue_one_right_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T20:50:23.396199+00:00
 -- url     : https://prove2.me/theorems/f181dfe1-72dd-485a-90a4-331ac8998977

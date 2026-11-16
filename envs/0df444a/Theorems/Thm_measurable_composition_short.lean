@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_composition_short
 -- name    : measurable_composition_short
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:51:59.349165+00:00
 -- url     : https://prove2.me/theorems/987e72ba-01fb-4974-9db1-0cbd9465d395

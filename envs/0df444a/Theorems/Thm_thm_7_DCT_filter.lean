@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_7_DCT_filter
 -- name    : thm_7_DCT_filter
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:59:51.793588+00:00
 -- url     : https://prove2.me/theorems/2ce23994-c680-44f5-8119-cd22d94e3f0d

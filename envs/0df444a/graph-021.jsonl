@@ -4999,9 +4999,9 @@
 {"parent": "BianchiIX.axisFamily_firstReturn_pair_injective", "child": "BianchiIX_Dynamics_FlowComposition", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.axisFamily_firstReturn_pair_injective", "child": "BianchiIX_AxisSectionMeasureData", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.axisFamily_firstReturn_pair_injective", "child": "BianchiIX_AxisAndOrbitData", "via": ["solution", "statement"]}
-{"parent": "IAFTRL.lemma_D_15", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_15", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_15", "child": "IAFTRL_Run_gEst", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_D_15", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_15", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_15", "child": "IAFTRL_Run_gEst", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_D_15", "child": "IAFTRL_Bc", "via": ["statement"]}
 {"parent": "OAI.SevenEighths.CenteredMomentCorrelation.primePowerCharacter_apply", "child": "OAI_NumberTheory_DirichletL_Moments_Correlation", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.CenteredMomentCorrelation.primePowerCharacter_apply", "child": "OAI_NumberTheory_DirichletL_Moments_PrimePower", "via": ["solution", "statement"]}
@@ -6465,15 +6465,15 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3176_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.referencePulse_denom_pos", "child": "BianchiIX_Dynamics_ReferencePulse", "via": ["solution", "statement"]}
 {"parent": "DecodablePOMDP.lemma_3", "child": "DecodablePOMDP_Killed", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_allocCost", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "LinearBanditProtocol", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsUniqueMin", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsCorrupted", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsFeasibleAlloc", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_regretVs", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
-{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_actionNorm", "via": ["statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_allocCost", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "LinearBanditProtocol", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsUniqueMin", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsCorrupted", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsFeasibleAlloc", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_regretVs", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.proposition_2_1", "child": "IAFTRL_actionNorm", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCutCodeLift_sector_eq_zero_implies_doubleInteractionCoefficient_zero", "child": "QEC_Bounds_BPTDisentangling_InteractionAlgebra", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCutCodeLift_sector_eq_zero_implies_doubleInteractionCoefficient_zero", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["solution", "statement"]}
 {"parent": "BianchiIX_AxisSectionMeasureData", "child": "BianchiIX_Dynamics_AxisSymmetry", "via": ["statement"]}
@@ -7158,13 +7158,13 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2941_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2941_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2941_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
-{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_GA", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_allocCost", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_C_3", "child": "LinearBanditProtocol", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_IsUniqueMin", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_IsFeasibleAlloc", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_allocMass", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_GA", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_allocCost", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_C_3", "child": "LinearBanditProtocol", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_IsUniqueMin", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_IsFeasibleAlloc", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_C_3", "child": "IAFTRL_allocMass", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2620_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2620_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2620_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
@@ -9665,9 +9665,9 @@
 {"parent": "hh_antitone", "child": "PrimeNumberTheoremAnd_SmoothExistence", "via": ["solution", "statement"]}
 {"parent": "hh_antitone", "child": "PrimeNumberTheoremAnd_Wiener", "via": ["solution", "statement"]}
 {"parent": "hh_antitone", "child": "PrimeNumberTheoremAnd_Fourier", "via": ["solution", "statement"]}
-{"parent": "IAFTRL.lemma_D_1", "child": "IAFTRL_IsMin2_3", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_1", "child": "IAFTRL_IsActionSet", "via": ["statement"]}
-{"parent": "IAFTRL.lemma_D_1", "child": "IAFTRL_IsIAFTRLRun", "via": ["statement"]}
+{"parent": "IAFTRL.lemma_D_1", "child": "IAFTRL_IsMin2_3", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_1", "child": "IAFTRL_IsActionSet", "via": ["solution", "statement"]}
+{"parent": "IAFTRL.lemma_D_1", "child": "IAFTRL_IsIAFTRLRun", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.toCoreAngleState_fderiv_field", "child": "BianchiIX_Dynamics_CoreCoordinateDifferential", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.toCoreAngleState_fderiv_field", "child": "BianchiIX_Dynamics_ProjectiveOriginalTime", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.toCoreAngleState_fderiv_field", "child": "BianchiIX_Dynamics_CoreAngle", "via": ["solution", "statement"]}

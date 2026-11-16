@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_dirichlet_moment
 -- name    : NestedCRP.dirichlet_moment
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:38.867241+00:00
 -- url     : https://prove2.me/theorems/613763c1-111e-481f-9126-f1ff5abce4e6

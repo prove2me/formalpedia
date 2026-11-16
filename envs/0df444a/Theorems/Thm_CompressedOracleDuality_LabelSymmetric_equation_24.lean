@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompressedOracleDuality_LabelSymmetric_equation_24
 -- name    : CompressedOracleDuality.LabelSymmetric.equation_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:01:32.623319+00:00
 -- url     : https://prove2.me/theorems/8bbc1cf6-09b4-4cd2-bc5b-89cd4d92554a

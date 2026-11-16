@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ubv_gauss_top15_original_zero_nu_ruin_clipped_strict_expected_upper
 -- name    : AvramDividend.Classical.avram_ubv_gauss_top15_original_zero_nu_ruin_clipped_strict_expected_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-09T10:17:22.176052+00:00
 -- url     : https://prove2.me/theorems/d65c7756-5bce-4c06-8b48-fba923fedc34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_mem_badCellIndices_iff
 -- name    : Thm11SourceRoute.mem_badCellIndices_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:57:27.759242+00:00
 -- url     : https://prove2.me/theorems/9cc9baa6-d468-4f57-bc63-44b85117c3ee

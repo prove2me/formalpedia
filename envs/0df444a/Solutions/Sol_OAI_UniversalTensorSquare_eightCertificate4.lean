@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for OAI.UniversalTensorSquare.eightCertificate4
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-15T21:46:21.44183+00:00
+-- url     : https://prove2.me/submissions/05661d25-2cf8-49f2-a458-d86a5fd30216
+
+import Mathlib
+import Definitions.Def_OAIQ259US002
+import Definitions.Def_OAIQ259US006
+import Theorems.Thm_OAI_Saxl_Columns_contractionInteger_compact
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Finite_DegreeEight
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Degree Eight. -/
+
+section
+
+open Saxl Saxl.Columns
+namespace UniversalTensorSquare
+
+lemma eightCertificate4_oai : contractionInteger [4,2,1,1] [4,2,1,1] [2,2,2,1,1]
+    (Equiv.refl (Fin 8)) eightPlaceB4 eightPlaceT4 eightFlag4 = -2 := by
+  unfold eightFlag4
+  simp_rw [← List.mem_toFinset]
+  erw [contractionInteger_compact]
+  decide +kernel
+
+end UniversalTensorSquare
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.UniversalTensorSquare.eightCertificate4_oai := @OAI.UniversalTensorSquare.eightCertificate4_oai

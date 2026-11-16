@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich
 -- name    : Thm11SourceRoute.closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:06:31.057208+00:00
 -- url     : https://prove2.me/theorems/6fe89838-ea6a-4a77-a067-6c13971e4eff

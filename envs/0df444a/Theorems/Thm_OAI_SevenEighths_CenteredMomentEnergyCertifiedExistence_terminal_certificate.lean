@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SevenEighths_CenteredMomentEnergyCertifiedExistence_terminal_certificate
 -- name    : OAI.SevenEighths.CenteredMomentEnergyCertifiedExistence.terminal_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T04:44:15.167721+00:00
 -- url     : https://prove2.me/theorems/e424b530-b35c-4cba-ab9f-1bd0008b3a52

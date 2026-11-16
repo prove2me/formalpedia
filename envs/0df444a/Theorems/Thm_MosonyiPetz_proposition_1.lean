@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_proposition_1
 -- name    : MosonyiPetz.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:44:12.757666+00:00
 -- url     : https://prove2.me/theorems/5a3e2737-0a6c-4f1d-95ca-83c10c91a634

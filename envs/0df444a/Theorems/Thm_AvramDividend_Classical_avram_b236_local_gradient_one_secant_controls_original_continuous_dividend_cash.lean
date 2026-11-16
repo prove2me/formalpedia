@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b236_local_gradient_one_secant_controls_original_continuous_dividend_cash
 -- name    : AvramDividend.Classical.avram_b236_local_gradient_one_secant_controls_original_continuous_dividend_cash
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T21:28:36.584138+00:00
 -- url     : https://prove2.me/theorems/6800a200-f156-4e02-a35f-8a86dd613209

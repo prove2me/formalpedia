@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a124_b0_original_root_positive_spatial_expected_limit
 -- name    : AvramDividend.Classical.avram_ga_a124_b0_original_root_positive_spatial_expected_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T10:11:41.271645+00:00
 -- url     : https://prove2.me/theorems/83fe1085-71fd-4267-b0b1-aed49cb4d079

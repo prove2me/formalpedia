@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a132_b0_original_root_eventual_masked_spatial_positive_integrable
 -- name    : AvramDividend.Classical.avram_ga_a132_b0_original_root_eventual_masked_spatial_positive_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T11:24:44.14576+00:00
 -- url     : https://prove2.me/theorems/3b0a8388-681d-4440-9a4a-644f460361ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_ncrp_exchangeable
 -- name    : NestedCRP.ncrp_exchangeable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:28:50.411686+00:00
 -- url     : https://prove2.me/theorems/65b144de-4832-4629-9118-8aca5b049d30

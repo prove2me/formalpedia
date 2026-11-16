@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_gledger178_original_clipped_postpayment_spatial_gaussian_Taylor_positive_L1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T17:23:52.638701+00:00
 -- url     : https://prove2.me/submissions/8cac1b2e-d5ca-43c8-83ef-c96b4fc40d5c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.IteratedDeriv.Defs
 import Mathlib.Probability.Process.Stopping

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partitionOscillation_le_two_mul_bound_alpha_span
 -- name    : Thm11SourceRoute.partitionOscillation_le_two_mul_bound_alpha_span
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:57:23.705858+00:00
 -- url     : https://prove2.me/theorems/90df2856-49d6-4aa6-9018-5e780eda07f0

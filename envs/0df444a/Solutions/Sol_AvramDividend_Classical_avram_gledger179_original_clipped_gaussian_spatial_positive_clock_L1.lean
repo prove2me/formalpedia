@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_gledger179_original_clipped_gaussian_spatial_positive_clock_L1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T07:49:22.540167+00:00
 -- url     : https://prove2.me/submissions/724a97aa-3616-4886-b1ed-43d9d8df6289
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.IteratedDeriv.Defs
 import Mathlib.Probability.Process.Stopping

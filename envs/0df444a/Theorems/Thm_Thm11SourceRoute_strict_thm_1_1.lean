@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strict_thm_1_1
 -- name    : Thm11SourceRoute.strict_thm_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:11:12.511872+00:00
 -- url     : https://prove2.me/theorems/597007b9-a593-4ae8-897b-c8fca35f1f38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b20_nostanding_integer_nojump_iff_drift_increment_ae
 -- name    : AvramDividend.Classical.avram_b20_nostanding_integer_nojump_iff_drift_increment_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:23:44.061222+00:00
 -- url     : https://prove2.me/theorems/fb2bc232-8a54-48e5-86d5-17cf90b692c8

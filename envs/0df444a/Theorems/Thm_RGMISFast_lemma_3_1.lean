@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RGMISFast_lemma_3_1
 -- name    : RGMISFast.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:31:40.438209+00:00
 -- url     : https://prove2.me/theorems/318cf82a-d15d-47a5-8bb7-d2a83a1d2cc3

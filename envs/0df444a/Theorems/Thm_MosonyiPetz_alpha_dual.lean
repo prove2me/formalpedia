@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_alpha_dual
 -- name    : MosonyiPetz.alpha_dual
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:43:33.22781+00:00
 -- url     : https://prove2.me/theorems/ff2b0d99-b682-4ae6-980d-faa89c66f684

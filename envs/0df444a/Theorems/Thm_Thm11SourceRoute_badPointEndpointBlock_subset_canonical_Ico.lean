@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_badPointEndpointBlock_subset_canonical_Ico
 -- name    : Thm11SourceRoute.badPointEndpointBlock_subset_canonical_Ico
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:44:32.269797+00:00
 -- url     : https://prove2.me/theorems/712ff961-7b71-4eff-a709-b59e6b69b979

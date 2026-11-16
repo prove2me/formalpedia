@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_sourceHypotheses_left
 -- name    : Thm_1_2_4.sourceHypotheses_left
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:53:46.393427+00:00
 -- url     : https://prove2.me/theorems/5e57a6f9-fe29-4be3-b987-74e307818416

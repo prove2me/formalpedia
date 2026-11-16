@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.branchingLaplaceEvolution
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T21:40:22.600653+00:00
 -- url     : https://prove2.me/submissions/11167a2f-07ec-48ad-a348-cea63263f09f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

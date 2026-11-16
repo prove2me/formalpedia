@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_PhysicalHigh_source_batch_inverse_fields
 -- name    : RH.Transport.PhysicalHigh.source_batch_inverse_fields
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T04:56:30.688038+00:00
 -- url     : https://prove2.me/theorems/7653b52b-d32a-4776-8e34-4cf8049bbf93

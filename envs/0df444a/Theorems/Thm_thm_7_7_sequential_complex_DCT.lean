@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_7_7_sequential_complex_DCT
 -- name    : thm_7_7_sequential_complex_DCT
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:00:01.366206+00:00
 -- url     : https://prove2.me/theorems/9910993a-ee28-41b7-86bb-0c2c6e518cf2

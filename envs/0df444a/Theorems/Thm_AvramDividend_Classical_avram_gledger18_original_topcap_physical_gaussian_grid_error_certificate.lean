@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger18_original_topcap_physical_gaussian_grid_error_certificate
 -- name    : AvramDividend.Classical.avram_gledger18_original_topcap_physical_gaussian_grid_error_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T00:22:26.490801+00:00
 -- url     : https://prove2.me/theorems/124a3465-01a7-4335-b5e6-00f710864229

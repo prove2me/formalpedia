@@ -1,0 +1,122 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_ga_a550_original_Taylor_cell_AEStronglyMeasurable
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-15T08:40:34.468197+00:00
+-- url     : https://prove2.me/submissions/5a12290f-cdf2-4cbf-b751-1626df3e3a04
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_dividendStrategy_rightLimit_adapted_rightCont
+import Theorems.Thm_AvramDividend_Classical_avram_gledger137_original_gaussian_source_postpayment_compact_prefix_band
+import Theorems.Thm_AvramDividend_Classical_avram_ga_a556_stopped_strict_future_event_measurable
+import Theorems.Thm_AvramDividend_Classical_avram_wave4_04b_measurable_cap_interior_deriv_zero_extension
+import Theorems.Thm_AvramDividend_Classical_avram_wave5_03a_measurable_cap_interior_iteratedDeriv_two_zero_extension
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set Filter AvramDividend.Classical
+open scoped NNReal ENNReal
+noncomputable section
+
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕) (hX : X.Standing)
+    (hBV : ¬ X.BoundedVariation) (hSigmaNonzero : X.σ ≠ 0)
+    (hNuZero : X.ν = 0) (q : ℝ) (hq : 0 < q)
+    (w : ℝ → ℝ) (C : ℝ≥0∞) (hC : 0 < C) (hTopCap : C = ⊤)
+    (hw_smooth : ContDiffOn ℝ 2 w {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C})
+    (hw_gen : ∀ y : ℝ, 0 < y → ENNReal.ofReal y < C →
+      X.GeneratorIntegrable w y ∧ X.generator w y - q * w y ≤ 0)
+    (x : ℝ) (hx : 0 < x) (hxc : ENNReal.ofReal x ≤ C)
+    (D : ℝ≥0 → Ω → ℝ) (hD : IsAdmissibleLe X x C D)
+    (n : ℕ) (hn : 0 < n) (τ : Ω → ℝ≥0)
+    (hτeq : ∀ ω, τ ω = (min (ruinTime X x D ω) (n : ℝ≥0∞)).toNNReal)
+    (hτstop : IsStoppingTime 𝓕.rightCont (fun ω => (τ ω : WithTop ℝ≥0)))
+    (ρ : Ω → ℝ≥0)
+    (hρstop : IsStoppingTime 𝓕.rightCont (fun ω => (ρ ω : WithTop ℝ≥0)))
+    (hρle : ∀ ω, ρ ω ≤ τ ω) (j : ℕ)
+    (hprefix : ∀ᵐ ω ∂P, ∀ t : ℝ≥0, 0 < t → t < ρ ω →
+      (1 : ℝ) / ((j : ℝ) + 1) ≤ riskProcess X x D t ω ∧
+      riskProcess X x D t ω ≤ x + ((j : ℝ) + 1)) :
+    let B : ℕ → ℕ → Ω → ℝ := fun m i ω =>
+      let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+      let s : ℝ≥0 := (i : ℝ≥0) * Δ
+      let E : ℝ≥0 → ℝ := fun t => Real.exp (-(q * (t : ℝ)))
+      let Y : ℝ≥0 → ℝ := fun t => x + X.X t ω - rightLimit D t ω
+      let z : ℝ := X.X (s + Δ) ω - X.X s ω - (Δ : ℝ) * X.c
+      if 0 < ρ ω ∧ s < ρ ω then E s * (deriv w (Y s) * z +
+        (iteratedDeriv 2 w (Y s) / 2) * (z ^ 2 - (Δ : ℝ) * X.σ ^ 2))
+      else 0
+    ∀ m i : ℕ, i < m →
+      AEStronglyMeasurable (B m i) P := by
+  classical
+  intro B m i hi
+  let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+  let s : ℝ≥0 := (i : ℝ≥0) * Δ
+  let Y : Ω → ℝ := fun ω =>
+    x + X.X s ω - rightLimit D s ω
+  have hXm : Measurable[𝓕.rightCont s] (X.X s) := (X.adapted s).mono
+    (𝓕.le_rightCont s) le_rfl
+  have hDm : Measurable[𝓕.rightCont s] (rightLimit D s) :=
+    (dividendStrategy_rightLimit_adapted_rightCont D hD.1.1) s
+  have hY_meas : Measurable Y :=
+    ((measurable_const.add hXm).sub hDm).mono (𝓕.rightCont.le s) le_rfl
+  have hMask : MeasurableSet {ω : Ω | s < ρ ω} :=
+    avram_ga_a556_stopped_strict_future_event_measurable 𝓕 ρ hρstop s
+  have hBand := avram_gledger137_original_gaussian_source_postpayment_compact_prefix_band
+    X x D hD.1.1 ρ j hprefix
+  let z : Ω → ℝ := fun ω =>
+    X.X (s + Δ) ω - X.X s ω - (Δ : ℝ) * X.c
+  have hz : Measurable z := by
+    have hX1 : Measurable (X.X (s + Δ)) :=
+      (X.adapted (s + Δ)).mono (𝓕.le (s + Δ)) le_rfl
+    have hX0 : Measurable (X.X s) := (X.adapted s).mono (𝓕.le s) le_rfl
+    exact (hX1.sub hX0).sub measurable_const
+  have hGrad := avram_wave4_04b_measurable_cap_interior_deriv_zero_extension
+    w C hw_smooth
+  have hHess := avram_wave5_03a_measurable_cap_interior_iteratedDeriv_two_zero_extension
+    w C hw_smooth
+  let H : Ω → ℝ := fun ω =>
+    if s < ρ ω then Real.exp (-(q * (s : ℝ))) *
+      ((if 0 < Y ω ∧ ENNReal.ofReal (Y ω) < C then
+          deriv w (Y ω) else 0) * z ω +
+       ((if 0 < Y ω ∧ ENNReal.ofReal (Y ω) < C then
+          iteratedDeriv 2 w (Y ω) else 0) / 2) *
+        ((z ω)^2 - (Δ : ℝ) * X.σ^2))
+    else 0
+  have hH : Measurable H := by
+    dsimp [H]
+    exact Measurable.ite hMask
+      (measurable_const.mul
+        (((hGrad.comp hY_meas).mul hz).add
+          (((hHess.comp hY_meas).div_const 2).mul
+            ((hz.pow_const 2).sub measurable_const))))
+      measurable_const
+  have hEq : B m i =ᵐ[P] H := by
+    filter_upwards [hBand] with ω hb
+    by_cases hs : s < ρ ω
+    · have hr : 0 < ρ ω := lt_of_le_of_lt bot_le hs
+      have hpos : 0 < Y ω :=
+        lt_of_lt_of_le (by positivity : 0 < (1 : ℝ) / ((j : ℝ) + 1)) (hb s hs).1
+      have hh : 0 < ρ ω ∧
+          (i : ℝ≥0) * ((n : ℝ≥0) / ((m : ℝ≥0) + 1)) < ρ ω :=
+        ⟨hr, by simpa only [s, Δ] using hs⟩
+      change (if 0 < ρ ω ∧ s < ρ ω then
+        Real.exp (-(q * (s : ℝ))) * (deriv w (Y ω) * z ω +
+          (iteratedDeriv 2 w (Y ω) / 2) *
+            ((z ω)^2 - (Δ : ℝ) * X.σ^2)) else 0) =
+        (if s < ρ ω then Real.exp (-(q * (s : ℝ))) *
+          ((if 0 < Y ω ∧ ENNReal.ofReal (Y ω) < C then deriv w (Y ω) else 0) *
+            z ω + ((if 0 < Y ω ∧ ENNReal.ofReal (Y ω) < C then
+              iteratedDeriv 2 w (Y ω) else 0) / 2) *
+              ((z ω)^2 - (Δ : ℝ) * X.σ^2)) else 0)
+      have hh : 0 < ρ ω ∧ s < ρ ω := ⟨hr, hs⟩
+      have hp : 0 < Y ω ∧ ENNReal.ofReal (Y ω) < C :=
+        ⟨hpos, by simp [hTopCap]⟩
+      simp only [if_pos hh, if_pos hs, if_pos hp]
+    · have hn : ¬(0 < ρ ω ∧ s < ρ ω) := fun h => hs h.2
+      simp [B, H, s, Δ, hs, hn]
+  exact hH.aestronglyMeasurable.congr hEq.symm

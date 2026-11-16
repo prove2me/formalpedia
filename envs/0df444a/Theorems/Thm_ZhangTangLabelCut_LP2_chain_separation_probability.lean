@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangTangLabelCut_LP2_chain_separation_probability
 -- name    : ZhangTangLabelCut.LP2.chain_separation_probability
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-29T05:14:17.322983+00:00
 -- url     : https://prove2.me/theorems/c3d1488b-ba9d-47be-a88f-0c1d81c7dab4

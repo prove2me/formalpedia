@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_continuous_to_borel_measurable
 -- name    : continuous_to_borel_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:57:29.720062+00:00
 -- url     : https://prove2.me/theorems/8faf6d7b-994d-46c9-8abf-ccb5b67d88c0

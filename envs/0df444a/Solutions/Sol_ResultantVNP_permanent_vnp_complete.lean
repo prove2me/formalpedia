@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResultantVNP.permanent_vnp_complete
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @gjindal
 -- created : 2026-11-14T21:25:56.149748+00:00
 -- url     : https://prove2.me/submissions/556a1dfa-45bf-452f-86f3-bdbf4d61945d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ResultantVNP_FormulaWitness
 import Definitions.Def_ResultantVNP_IsProjection

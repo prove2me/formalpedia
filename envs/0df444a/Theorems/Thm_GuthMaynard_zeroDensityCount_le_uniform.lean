@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_zeroDensityCount_le_uniform
 -- name    : GuthMaynard.zeroDensityCount_le_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T19:17:36.339204+00:00
 -- url     : https://prove2.me/theorems/a928c521-b688-4f0a-be61-0e2fd3bde536

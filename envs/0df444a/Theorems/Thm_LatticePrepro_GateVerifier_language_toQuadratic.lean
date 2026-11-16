@@ -20,7 +20,7 @@
 --
 --   **Formalization Note**: Claim 3.15 is stated per assignment (a Boolean assignment is valid if and only if all gate equations vanish) and includes the polynomial-time computability of the coefficients; the Lean theorem states the resulting equality of languages, for every prime $p$, and computability is not formalized. Boolean values are identified with $0, 1 \in \mathbb{F}_p$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Claim 3.15 (\label{clm:verifier-system}); Lean: LatticePrepro/Verifier/Gates.lean, LatticePrepro.GateVerifier.language_toQuadratic
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Claim 3.15 (\label{clm:verifier-system}); Lean: LatticePrepro/Verifier/Gates.lean, LatticePrepro.GateVerifier.language_toQuadratic
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

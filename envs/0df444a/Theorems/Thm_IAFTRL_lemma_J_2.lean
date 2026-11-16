@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IAFTRL_lemma_J_2
 -- name    : IAFTRL.lemma_J_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:44:56.800486+00:00
 -- url     : https://prove2.me/theorems/12d924ce-3861-4bb3-b47c-3cf25704c3f4

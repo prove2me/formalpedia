@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_taggedSum_concat
 -- name    : Thm_1_2_4.taggedSum_concat
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:03:16.320263+00:00
 -- url     : https://prove2.me/theorems/f7b5a42c-3016-4a2d-8fce-1686a0071db5

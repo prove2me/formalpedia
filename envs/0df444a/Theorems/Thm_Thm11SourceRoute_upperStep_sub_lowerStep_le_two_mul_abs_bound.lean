@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_upperStep_sub_lowerStep_le_two_mul_abs_bound
 -- name    : Thm11SourceRoute.upperStep_sub_lowerStep_le_two_mul_abs_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:58:14.275321+00:00
 -- url     : https://prove2.me/theorems/5fa384f7-2351-437b-b567-20abf910b3b9

@@ -14,7 +14,7 @@
 --
 --   **Formalization Note.** The NO condition is `L.IsNo g x`, for the same gap $g$ as the reduction, and $v$ ranges over all of $\mathbb Z^M$. No condition on an approximation factor is needed. The test is the predicate `LatticeReduction.Accepts`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma 5.2 (\label{lem:search-test}), lattices, NO instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.LatticeReduction.not_accepts_of_isNo
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 5.2 (\label{lem:search-test}), lattices, NO instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.LatticeReduction.not_accepts_of_isNo
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

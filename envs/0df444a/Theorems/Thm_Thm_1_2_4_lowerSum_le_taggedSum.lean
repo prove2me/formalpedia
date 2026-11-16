@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_lowerSum_le_taggedSum
 -- name    : Thm_1_2_4.lowerSum_le_taggedSum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:46:04.001198+00:00
 -- url     : https://prove2.me/theorems/1720d51c-7e72-4cc4-bd92-63e08657490b

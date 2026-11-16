@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_lowerSum_concat
 -- name    : Thm_1_2_4.lowerSum_concat
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:54:30.924687+00:00
 -- url     : https://prove2.me/theorems/9c940454-1f70-4084-9220-26e2c3e6a160

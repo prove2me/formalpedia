@@ -10137,7 +10137,7 @@
 {"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_eq_integral_mul_min", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
 {"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_integral_of_frozen", "child": "NestedSeatAlloc.IntPolicy.condRevenue_one_frozen_formula", "via": ["solution"]}
 {"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_integral_of_frozen", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
-{"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_right_derivative", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
+{"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_right_derivative", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_shift_mono_nonpos_fare", "child": "NestedSeatAlloc.IntPolicy.scalar_min_shift_mono_nonpos", "via": ["solution"]}
 {"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_shift_mono_nonpos_fare", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "NestedSeatAlloc.IntPolicy.expRevenue_one_shift_mono_nonpos_fare", "child": "revenue_integrable_of_seat_model", "via": ["solution"]}
@@ -18114,7 +18114,6 @@
 {"parent": "OAI.DoublingHilbert.main", "child": "DoublingHilbert", "via": ["solution", "statement"]}
 {"parent": "OAI.DukePrimeDegree.prime_degree_packet_measure_equidistribution_unconditional", "child": "DukePrimeDegree", "via": ["solution", "statement"]}
 {"parent": "OAI.DukePrimeDegree.prime_degree_packet_measures_tendsto_haar_unconditional", "child": "DukePrimeDegree", "via": ["solution", "statement"]}
-{"parent": "OAI.EditApproximation.almostLinearEditDistanceRawBand", "child": "EditApproximation", "via": ["statement"]}
 {"parent": "OAI.EilenbergGanea.source_main", "child": "EilenbergGanea", "via": ["solution", "statement"]}
 {"parent": "OAI.Elasticity.global_uniqueness", "child": "ElasticityUniqueness", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyPhotonNumber.entropy_photon_number_inequality", "child": "EntropyPhotonNumber", "via": ["solution", "statement"]}

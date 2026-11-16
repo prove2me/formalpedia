@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericGroupWE_Main_eq_32
 -- name    : GenericGroupWE.Main.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:04.912983+00:00
 -- url     : https://prove2.me/theorems/b1da14ec-56ce-4756-8ae7-b950cba4b4cd

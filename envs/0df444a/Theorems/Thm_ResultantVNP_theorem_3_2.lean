@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResultantVNP_theorem_3_2
 -- name    : ResultantVNP.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:40:31.195206+00:00
 -- url     : https://prove2.me/theorems/f8804c5a-e399-45e7-8013-314b32c209cb

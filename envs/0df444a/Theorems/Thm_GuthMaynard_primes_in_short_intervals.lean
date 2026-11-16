@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_primes_in_short_intervals
 -- name    : GuthMaynard.primes_in_short_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T18:14:22.346707+00:00
 -- url     : https://prove2.me/theorems/7d6674fc-11cc-4a16-942e-a4962ab2bd4a

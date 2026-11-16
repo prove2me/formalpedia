@@ -21,7 +21,7 @@
 --
 --   **Formalization Note**: The structure bundles the two types with their algebraic instances (`Field`, `Fintype`, `DecidableEq`, `Algebra`, `IsScalarTower`). Finiteness of $K$ is not a separate field; it follows from the first property of $\gamma$. Unlike the paper, $\mathbb{S}$ is not presented as $\mathbb{F}_p[X]/(f)$ with a fixed basis, and $\delta$ is not required to be a power of $p$. The degree condition is stated with `natDegree`. The paper writes $\mathbb{K},e,c,\zeta,\mathbb{E}$ for $\mathbb{S},d,\delta,\gamma,K$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma A.3 (\label{lem:explicit-fields}) and Construction A.4, step 1 (\label{step:moment-fields}); Lean: LatticePrepro/Tables/FieldSetup.lean, LatticePrepro.FieldSetup
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma A.3 (\label{lem:explicit-fields}) and Construction A.4, step 1 (\label{step:moment-fields}); Lean: LatticePrepro/Tables/FieldSetup.lean, LatticePrepro.FieldSetup
 
 import Mathlib
 

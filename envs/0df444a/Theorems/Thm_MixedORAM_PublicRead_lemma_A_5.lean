@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedORAM_PublicRead_lemma_A_5
 -- name    : MixedORAM.PublicRead.lemma_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:45:40.332641+00:00
 -- url     : https://prove2.me/theorems/f41eb4da-18f7-492a-bfff-80d36dcc1aef

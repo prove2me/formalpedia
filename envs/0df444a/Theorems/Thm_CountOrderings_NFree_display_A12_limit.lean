@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CountOrderings_NFree_display_A12_limit
 -- name    : CountOrderings.NFree.display_A12_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T22:58:05.389087+00:00
 -- url     : https://prove2.me/theorems/42c25298-105d-488f-9cf3-954475f4785d

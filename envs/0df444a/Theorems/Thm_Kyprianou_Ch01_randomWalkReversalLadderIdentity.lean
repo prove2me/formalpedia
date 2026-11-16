@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_randomWalkReversalLadderIdentity
 -- name    : Kyprianou.Ch01.randomWalkReversalLadderIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:22:02.626021+00:00
 -- url     : https://prove2.me/theorems/23dfd350-fcbc-46b1-8351-9250ccb73ad1

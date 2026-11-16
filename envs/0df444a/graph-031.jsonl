@@ -58651,13 +58651,13 @@
 {"parent": "OAI.UniversalTensorSquare.sg9801", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37918", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_3_0_10_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32970", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_b20_BV_uniform_original_physical_error_ae_envelope", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b20_BV_uniform_original_physical_error_ae_envelope", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -58706,9 +58706,9 @@
 {"parent": "MultiThinkCoT_alg1", "child": "MultiThinkCoT_IsConsistentOracle", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33906", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43012", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37601", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S09_FrobeniusSibley", "child": "OddOrder_Peterfalvi_S08_CoherenceTheorems", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S09_FrobeniusSibley", "child": "OddOrder_Peterfalvi_S09_CertificateDischarge", "via": ["statement"]}
@@ -58811,7 +58811,7 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_6_1_9_calc_x", "child": "OAIQ257X023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27385", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39297", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxRefinementSumMonotone_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.DarbouxRefinementSumMonotone_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_5_4_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42643", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAIQ334E015", "child": "OAIQ334E014", "via": ["statement"]}
@@ -59556,9 +59556,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg33850", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30617", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F009", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37825", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42338", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37038", "child": "OAIQ259US007", "via": ["statement"]}
@@ -60029,13 +60029,13 @@
 {"parent": "OddOrder.Peterfalvi.S16.etaGrid_zeroColumn_projection_of_coefficients_eq_column", "child": "OddOrder_Peterfalvi_S15_CharacterDegreeEnginesSSide", "via": ["statement"]}
 {"parent": "OddOrder.Peterfalvi.S16.etaGrid_zeroColumn_projection_of_coefficients_eq_column", "child": "OddOrder_Peterfalvi_S12_MaximalIII_IV_V_Core_CharacterParameters", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29824", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityCommonLimitCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_0_1_6_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.smallSupport11_18", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg3008", "child": "OAIQ259US007", "via": ["statement"]}
@@ -60247,7 +60247,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg32", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28362", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27710", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityOscillationCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strictFiniteDiscontinuityOscillationCriterion_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
 {"parent": "DirKECC1549.Main.unit_flow_extract_trail", "child": "DirKECC1549_Main_Alg3", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29735", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27270", "child": "OAIQ259US007", "via": ["statement"]}
@@ -60509,8 +60509,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg30488", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40770", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40300", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upperSum_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upperSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.upperSum_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.upperSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27728", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37063", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30683", "child": "OAIQ259US007", "via": ["statement"]}
@@ -60631,7 +60631,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg34196", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.exists_bounded_cocycle_of_equivariant_mean", "child": "Q260K015", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27750", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "thm_4_1", "child": "ProbabilityTheory_chapter_04_def_4_2_F000", "via": ["statement"]}
+{"parent": "thm_4_1", "child": "ProbabilityTheory_chapter_04_def_4_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36292", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30961", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28611", "child": "OAIQ259US007", "via": ["statement"]}
@@ -60805,8 +60805,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg39572", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43071", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_2_0_4_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.badPointEndpointBlock_disjoint_of_disjoint_Ioo", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badPointEndpointBlock_disjoint_of_disjoint_Ioo", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.badPointEndpointBlock_disjoint_of_disjoint_Ioo", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.badPointEndpointBlock_disjoint_of_disjoint_Ioo", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29467", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31850", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35016", "child": "OAIQ259US007", "via": ["statement"]}
@@ -60939,9 +60939,9 @@
 {"parent": "Thm67Support.def66Real_textbookValue_eq_integral", "child": "ProbabilityTheory_chapter_06_def_6_6_F000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32487", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40101", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_bad_point_of_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_bad_point_of_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_bad_point_of_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.exists_bad_point_of_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_bad_point_of_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_bad_point_of_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33251", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36879", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27511", "child": "OAIQ259US007", "via": ["statement"]}
@@ -60982,8 +60982,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg7893", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33205", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42736", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.lowerSum_le_taggedSum", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.lowerSum_le_taggedSum", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.lowerSum_le_taggedSum", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.lowerSum_le_taggedSum", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36984", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32144", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34539", "child": "OAIQ259US007", "via": ["statement"]}
@@ -61594,11 +61594,11 @@
 {"parent": "OAI.UniversalTensorSquare.sg28274", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "indicatorRepresentationIntegralChain_succ", "child": "ProbabilityTheory_chapter_06_def_6_2_F001", "via": ["statement"]}
 {"parent": "indicatorRepresentationIntegralChain_succ", "child": "ProbabilityTheory_chapter_06_def_6_2_F000", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_i_lower", "child": "BanditTrajectory", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_i_lower", "child": "FairReplay_IsDeltaCorrect", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_i_lower", "child": "FairReplay_fourWayModel", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_i_lower", "child": "bernoulliRelativeEntropy", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_i_lower", "child": "FairReplay_expectedRounds", "via": ["statement"]}
+{"parent": "FairReplay.theorem_10_4_i_lower", "child": "BanditTrajectory", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_i_lower", "child": "FairReplay_IsDeltaCorrect", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_i_lower", "child": "FairReplay_fourWayModel", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_i_lower", "child": "bernoulliRelativeEntropy", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_i_lower", "child": "FairReplay_expectedRounds", "via": ["solution", "statement"]}
 {"parent": "OAI.KadisonKastler.regularCore_fixed_corner_commute_translations", "child": "Q260K012", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.regularCore_fixed_corner_commute_translations", "child": "StrongKadisonKastler", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40168", "child": "OAIQ259US007", "via": ["statement"]}
@@ -61667,7 +61667,7 @@
 {"parent": "AvramDividend.Classical.avram_ga_a55_true_stop_large_tail_measurable_from_normalised_source", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30539", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42665", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.upperStep_sub_lowerStep_le_of_subinterval_oscillation_bound", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.upperStep_sub_lowerStep_le_of_subinterval_oscillation_bound", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41295", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S14_MaximalI_RhoMEvaluation", "child": "OddOrder_Peterfalvi_S14_MaximalI_DadeContradiction", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S14_MaximalI_RhoMEvaluation", "child": "OddOrder_Peterfalvi_S14_MaximalI_MinimalCounterexample", "via": ["statement"]}
@@ -61718,8 +61718,8 @@
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P20.heyting_stone_compact", "child": "QAlgorithms_Papers_Independent_Intakethird100_P20", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg7171", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34782", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_le_good_bad_split", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_le_good_bad_split", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_le_good_bad_split", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_le_good_bad_split", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
 {"parent": "Thm11SourceRoute.partitionOscillation_le_good_bad_split", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F007", "via": ["statement"]}
 {"parent": "rsIntegral_integrator_add", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
 {"parent": "rsIntegral_integrator_add", "child": "ProbabilityTheory_chapter_01_thm_1_3_F001", "via": ["statement"]}
@@ -61875,8 +61875,8 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_1_1_18_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_6_5_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35011", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upperLowerCommonLimit_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upperLowerCommonLimit_left", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.upperLowerCommonLimit_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.upperLowerCommonLimit_left", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a50_small_drift_large_raw_increment_energy_le_centered", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_4_3_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38695", "child": "OAIQ259US007", "via": ["statement"]}
@@ -61975,8 +61975,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg37034", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_2_11_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41355", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upperLowerCommonLimit_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upperLowerCommonLimit_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.upperLowerCommonLimit_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.upperLowerCommonLimit_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_5_7_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31623", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg445", "child": "OAIQ259US007", "via": ["statement"]}
@@ -62091,8 +62091,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg28174", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39040", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35045", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_i_test", "child": "BanditTrajectory", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_i_test", "child": "FairReplay_fourWayModel", "via": ["statement"]}
+{"parent": "FairReplay.theorem_10_4_i_test", "child": "BanditTrajectory", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_i_test", "child": "FairReplay_fourWayModel", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40029", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OddOrder.Peterfalvi.S09.Hypothesis79.zetaImage_cross_eq_zero_of_conjIndex", "child": "OddOrder_GroupTheory_RepresentationTheory_CharacterProduct", "via": ["solution", "statement"]}
 {"parent": "OddOrder.Peterfalvi.S09.Hypothesis79.zetaImage_cross_eq_zero_of_conjIndex", "child": "OddOrder_Peterfalvi_S09_FrobeniusHypothesis79", "via": ["solution", "statement"]}
@@ -62175,13 +62175,13 @@
 {"parent": "OAI.UniversalTensorSquare.sg29850", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32817", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28428", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory_chapter_06_def_6_7_F000", "child": "ProbabilityTheory_chapter_06_def_6_6_F000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30174", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41066", "child": "OAIQ259US007", "via": ["statement"]}
@@ -62381,8 +62381,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg34734", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "BosonicLearn.fockPOVM_postprocess", "child": "BosonicLearn_FockPOVM", "via": ["solution", "statement"]}
 {"parent": "seqLimsup_eq_filter_limsupEReal", "child": "ProbabilityTheory_chapter_04_def_4_3_limsup_liminf_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_bad_point_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_bad_point_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.exists_bad_point_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_bad_point_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32359", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_1_4_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_0_11_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
@@ -62442,9 +62442,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg29719", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36980", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg3004", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOfStrictEndpointList_mem_node", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOfStrictEndpointList_mem_node", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOfStrictEndpointList_mem_node", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partitionOfStrictEndpointList_mem_node", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partitionOfStrictEndpointList_mem_node", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partitionOfStrictEndpointList_mem_node", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29462", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30875", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_77_ca", "child": "OAIQ229C022", "via": ["solution", "statement"]}
@@ -63075,8 +63075,8 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_2_1_mem_eu", "child": "OAIQ334E012", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34028", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41518", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAIQ334E019", "child": "OAIQ334E018", "via": ["statement"]}
 {"parent": "OAIQ334E019", "child": "OAIQ334E001", "via": ["statement"]}
@@ -64080,7 +64080,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg31619", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40585", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42636", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.sourceHypotheses_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.sourceHypotheses_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33536", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32583", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42820", "child": "OAIQ259US007", "via": ["statement"]}
@@ -64248,9 +64248,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg42945", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37162", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_4_0_16_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
-{"parent": "Thm_1_2_4.tagsInPartition_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.tagsInPartition_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.tagsInPartition_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["statement"]}
+{"parent": "Thm_1_2_4.tagsInPartition_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.tagsInPartition_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.tagsInPartition_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31140", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.exists_invariant_state_preserving_values", "child": "OAIQ075A006", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.exists_invariant_state_preserving_values", "child": "StrongKadisonKastler", "via": ["solution", "statement"]}
@@ -64441,7 +64441,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg30233", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28802", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30321", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.finite_discontinuity_alpha_local_increment_data", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.finite_discontinuity_alpha_local_increment_data", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
 {"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_PolyMaxEntropy", "via": ["statement"]}
 {"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_CompIndist", "via": ["statement"]}
 {"parent": "MLManagesComplexity.theorem_6_1", "child": "MLManagesComplexity_PPolyComputable", "via": ["statement"]}
@@ -64649,9 +64649,9 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_1_0_8_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31649", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg5718", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxGapSmall_of_oscillationSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxGapSmall_of_oscillationSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxGapSmall_of_oscillationSmall", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxGapSmall_of_oscillationSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxGapSmall_of_oscillationSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxGapSmall_of_oscillationSmall", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg4026", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34714", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39501", "child": "OAIQ259US007", "via": ["statement"]}
@@ -64715,7 +64715,7 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_1_19_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34101", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_2_13_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.upperStep_sub_lowerStep_le_two_mul_abs_bound", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.upperStep_sub_lowerStep_le_two_mul_abs_bound", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg7353", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29243", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.smallSupport11_7", "child": "OAIQ259US007", "via": ["statement"]}
@@ -64801,8 +64801,8 @@
 {"parent": "KSATSingleFlip.Connect.repair_probabilistic", "child": "KSATSingleFlip_Connect_FactorGraph", "via": ["statement"]}
 {"parent": "KSATSingleFlip.Connect.repair_probabilistic", "child": "KSATSingleFlip_Connect_Model", "via": ["statement"]}
 {"parent": "KSATSingleFlip.Connect.repair_probabilistic", "child": "SATComputability", "via": ["statement"]}
-{"parent": "thm_2_5", "child": "ProbabilityTheory_chapter_02_thm_2_5_F000", "via": ["statement"]}
-{"parent": "thm_2_5", "child": "ProbabilityTheory_chapter_02_def_2_6_F000", "via": ["statement"]}
+{"parent": "thm_2_5", "child": "ProbabilityTheory_chapter_02_thm_2_5_F000", "via": ["solution", "statement"]}
+{"parent": "thm_2_5", "child": "ProbabilityTheory_chapter_02_def_2_6_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw1_0_4_8_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41169", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32828", "child": "OAIQ259US007", "via": ["statement"]}
@@ -65243,13 +65243,13 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_2_12_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41335", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32239", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "RvsCert_C", "child": "RvsCert_certAt", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31329", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33241", "child": "OAIQ259US007", "via": ["statement"]}
@@ -65418,9 +65418,9 @@
 {"parent": "OddOrder.Peterfalvi.S15.indPW1_inner_self_aux", "child": "OddOrder_Peterfalvi_S15_SAndTDefs", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg7904", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31103", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxAbsGapSmall_of_gapSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxAbsGapSmall_of_gapSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxAbsGapSmall_of_gapSmall", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxAbsGapSmall_of_gapSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxAbsGapSmall_of_gapSmall", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxAbsGapSmall_of_gapSmall", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37920", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27182", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg7374", "child": "OAIQ259US007", "via": ["statement"]}
@@ -65516,8 +65516,8 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_4_0_11_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27422", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38601", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_le_two_mul_bound_alpha_span", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_le_two_mul_bound_alpha_span", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_le_two_mul_bound_alpha_span", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_le_two_mul_bound_alpha_span", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
 {"parent": "Thm11SourceRoute.partitionOscillation_le_two_mul_bound_alpha_span", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F003", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38370", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42979", "child": "OAIQ259US007", "via": ["statement"]}
@@ -65575,9 +65575,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg41709", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35936", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43052", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badPointEndpointBlock_subset_canonical_Ico", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badPointEndpointBlock_subset_canonical_Ico", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F006", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badPointEndpointBlock_subset_canonical_Ico", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.badPointEndpointBlock_subset_canonical_Ico", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.badPointEndpointBlock_subset_canonical_Ico", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F006", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.badPointEndpointBlock_subset_canonical_Ico", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.Construction.tailFixedColumn_norm_constant_eu", "child": "OAIQ334E006", "via": ["statement"]}
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.SupportedPrimitivePatch.boundary_step", "child": "SurfaceImmersion", "via": ["solution", "statement"]}
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.SupportedPrimitivePatch.boundary_step", "child": "OAIQ249SI012", "via": ["solution", "statement"]}
@@ -66077,13 +66077,13 @@
 {"parent": "OAI.UniversalTensorSquare.sg41967", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29882", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36482", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_thm_1_1_of_common_limit_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39961", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_3_0_15_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29604", "child": "OAIQ259US007", "via": ["statement"]}
@@ -66150,13 +66150,13 @@
 {"parent": "dirac_step_measure_singleton", "child": "ProbabilityTheory_chapter_03_ex_3_3_4_F000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28170", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36828", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a26_original_positive_interior", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a26_original_positive_interior", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37669", "child": "OAIQ259US007", "via": ["statement"]}
@@ -66582,8 +66582,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg28574", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41452", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41773", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "thm_2_5_tendsto", "child": "ProbabilityTheory_chapter_02_thm_2_5_F000", "via": ["statement"]}
-{"parent": "thm_2_5_tendsto", "child": "ProbabilityTheory_chapter_02_def_2_6_F000", "via": ["statement"]}
+{"parent": "thm_2_5_tendsto", "child": "ProbabilityTheory_chapter_02_thm_2_5_F000", "via": ["solution", "statement"]}
+{"parent": "thm_2_5_tendsto", "child": "ProbabilityTheory_chapter_02_def_2_6_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36457", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33151", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "FiniteEnergyPlane.exists_jbar_family_of_qMap_curve", "child": "FiniteEnergyPlane_TubeFamily", "via": ["solution", "statement"]}
@@ -67039,9 +67039,9 @@
 {"parent": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39395", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42667", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.cell_subset_goodRemainder_of_not_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.cell_subset_goodRemainder_of_not_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.cell_subset_goodRemainder_of_not_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.cell_subset_goodRemainder_of_not_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.cell_subset_goodRemainder_of_not_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.cell_subset_goodRemainder_of_not_mem_badCellIndices", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30692", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OddOrder_BG_Ch1_Preliminary_S03e_Thm35", "child": "OddOrder_BG_Ch1_Preliminary_S03d_Thm34", "via": ["statement"]}
 {"parent": "OddOrder_BG_Ch1_Preliminary_S03e_Thm35", "child": "OddOrder_BG_Ch1_Preliminary_S03b_Lemma33", "via": ["statement"]}
@@ -67129,7 +67129,7 @@
 {"parent": "OddOrder_Peterfalvi_S06_CertainTypeIsometry", "child": "OddOrder_Peterfalvi_S06_CertainTypeStructure", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S06_CertainTypeIsometry", "child": "OddOrder_Peterfalvi_S05_GridTrichotomy", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S06_CertainTypeIsometry", "child": "OddOrder_Peterfalvi_S06_CertainTypeSupport", "via": ["statement"]}
-{"parent": "thm_2_4", "child": "ProbabilityTheory_chapter_02_def_2_6_F000", "via": ["statement"]}
+{"parent": "thm_2_4", "child": "ProbabilityTheory_chapter_02_def_2_6_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg6347", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30583", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37427", "child": "OAIQ259US007", "via": ["statement"]}
@@ -67213,9 +67213,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg30548", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33566", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "KSATSingleFlip.Connect.repair_no_fail_from_bounds", "child": "KSATSingleFlip_Connect_Repair", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_exists_and_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41315", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32197", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_1_1_14_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
@@ -67916,9 +67916,9 @@
 {"parent": "OddOrder_Peterfalvi_S08_SixSixGeneral", "child": "OddOrder_GroupTheory_RepresentationTheory_SchurCenterBound", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S08_SixSixGeneral", "child": "OddOrder_Peterfalvi_S08_CoherenceCorePart2", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32404", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_test", "child": "FairReplay_vertexModel", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_test", "child": "BanditTrajectory", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_test", "child": "FairReplay_IsDeltaCorrect", "via": ["statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_test", "child": "FairReplay_vertexModel", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_test", "child": "BanditTrajectory", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_test", "child": "FairReplay_IsDeltaCorrect", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_1_1_13_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40574", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29003", "child": "OAIQ259US007", "via": ["statement"]}
@@ -68178,8 +68178,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg37838", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27186", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg9060", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.commonRefinementPointList_adjacent_length_lt_delta", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.commonRefinementPointList_adjacent_length_lt_delta", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.commonRefinementPointList_adjacent_length_lt_delta", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.commonRefinementPointList_adjacent_length_lt_delta", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29399", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33270", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38032", "child": "OAIQ259US007", "via": ["statement"]}
@@ -68354,7 +68354,7 @@
 {"parent": "OddOrder_BG_Ch3_MaximalSubgroups_S13_PrimeActionTransition", "child": "OddOrder_BG_Ch3_MaximalSubgroups_S13_Theorem1310", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43091", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32025", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "thm_6_3", "child": "ProbabilityTheory_chapter_06_thm_6_3_F000", "via": ["statement"]}
+{"parent": "thm_6_3", "child": "ProbabilityTheory_chapter_06_thm_6_3_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30884", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_b33_original_finite_range_initial_event_aggregate_centered_noise", "child": "AvramDividend.Classical.avram_b32_original_finite_range_two_intrinsic_centered_sources_exist", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b33_original_finite_range_initial_event_aggregate_centered_noise", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
@@ -68440,7 +68440,7 @@
 {"parent": "OddOrder.Peterfalvi.S15.CharacterDegreeCore.analytic_inequality_of_caseB_facts", "child": "OddOrder_Peterfalvi_S15_CharacterDegreeEnginesSSide", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39180", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38016", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "FairReplay.eq_42_44", "child": "FairReplay_vertexModel", "via": ["statement"]}
+{"parent": "FairReplay.eq_42_44", "child": "FairReplay_vertexModel", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37822", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40578", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "MultiThinkCoT_IsConsistentOracle", "child": "MultiThinkCoT_e2e", "via": ["statement"]}
@@ -68698,7 +68698,7 @@
 {"parent": "Refinement.sum_block_increment", "child": "ProbabilityTheory_chapter_01_thm_1_2_F009", "via": ["statement"]}
 {"parent": "Refinement.sum_block_increment", "child": "ProbabilityTheory_chapter_01_thm_1_2_F010", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_aug_121_ca", "child": "OAIQ229C027", "via": ["solution", "statement"]}
-{"parent": "FairReplay.eq_38_39", "child": "FairReplay_fourWayModel", "via": ["statement"]}
+{"parent": "FairReplay.eq_38_39", "child": "FairReplay_fourWayModel", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32965", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31109", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_4_16_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
@@ -68706,11 +68706,11 @@
 {"parent": "OddOrder.Peterfalvi.S15.Hypothesis.eta10_apply_sub_one_integral", "child": "OddOrder_Peterfalvi_S15_SAndT_Setup_DegreesFirstSplit", "via": ["solution", "statement"]}
 {"parent": "OddOrder.Peterfalvi.S15.Hypothesis.eta10_apply_sub_one_integral", "child": "OddOrder_Peterfalvi_S15_SAndT_Setup_Machinery135", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30400", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "FairReplay.eq_138", "child": "BanditTrajectory", "via": ["statement"]}
-{"parent": "FairReplay.eq_138", "child": "FairReplay_IsDeltaCorrect", "via": ["statement"]}
-{"parent": "FairReplay.eq_138", "child": "FairReplay_armCount", "via": ["statement"]}
-{"parent": "FairReplay.eq_138", "child": "bernoulliRelativeEntropy", "via": ["statement"]}
-{"parent": "FairReplay.eq_138", "child": "FairReplay_expectedRounds", "via": ["statement"]}
+{"parent": "FairReplay.eq_138", "child": "BanditTrajectory", "via": ["solution", "statement"]}
+{"parent": "FairReplay.eq_138", "child": "FairReplay_IsDeltaCorrect", "via": ["solution", "statement"]}
+{"parent": "FairReplay.eq_138", "child": "FairReplay_armCount", "via": ["solution", "statement"]}
+{"parent": "FairReplay.eq_138", "child": "bernoulliRelativeEntropy", "via": ["solution", "statement"]}
+{"parent": "FairReplay.eq_138", "child": "FairReplay_expectedRounds", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_2_0_17_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34444", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39086", "child": "OAIQ259US007", "via": ["statement"]}
@@ -68903,9 +68903,9 @@
 {"parent": "FairReplay.theorem_10_4", "child": "FairReplay_expectedRounds", "via": ["statement"]}
 {"parent": "FairReplay.theorem_10_4", "child": "FairReplay_optRounds", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42113", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.rsIntegrable_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.rsIntegrable_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.rsIntegrable_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["statement"]}
+{"parent": "Thm_1_2_4.rsIntegrable_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.rsIntegrable_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.rsIntegrable_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["solution", "statement"]}
 {"parent": "CountingLLL.DetCount.dyadic_truncation_accuracy", "child": "CountingLLL_DetCount_Expansion", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_3_0_9_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg6641", "child": "OAIQ259US007", "via": ["statement"]}
@@ -69104,7 +69104,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg35311", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31216", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27864", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upper_sub_lower_lt_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.upper_sub_lower_lt_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35777", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29369", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OddOrder.Peterfalvi.S16.cyclotomic_ratio_gt_of_q_lt_p", "child": "OddOrder_BG_AppC_LemmaC3_Step4Capstone", "via": ["solution", "statement"]}
@@ -69166,13 +69166,13 @@
 {"parent": "OAI.KadisonKastler.constructed_finiteFactor_spatial_of_near_starEquiv", "child": "StrongKadisonKastler", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg7344", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OddOrder_BG_Ch3_MaximalSubgroups_S10_LocalLemmas", "child": "OddOrder_BG_Ch3_MaximalSubgroups_S10_LocalLemmasCore", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30859", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35758", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43092", "child": "OAIQ259US007", "via": ["statement"]}
@@ -69215,8 +69215,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg32737", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30835", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.finiteOutwardProjection_gap_integrable", "child": "Q260K007", "via": ["solution", "statement"]}
-{"parent": "Thm_1_2_4.thm_1_4", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.thm_1_4", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["statement"]}
+{"parent": "Thm_1_2_4.thm_1_4", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.thm_1_4", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41151", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw1_0_1_8_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37119", "child": "OAIQ259US007", "via": ["statement"]}
@@ -69520,8 +69520,8 @@
 {"parent": "OddOrder.Peterfalvi.S15.exists_typeI_maximal_overNormalizer_V", "child": "OddOrder_Peterfalvi_S15_SAndTDefs", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg7875", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg7153", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.concatPartition_mesh", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.concatPartition_mesh", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.concatPartition_mesh", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.concatPartition_mesh", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38800", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_5_16_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39443", "child": "OAIQ259US007", "via": ["statement"]}
@@ -69879,13 +69879,13 @@
 {"parent": "Thm_1_4.rsTaggedCommonLimit_derivative_of_identity_tagged_limit", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33523", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28115", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_common_limit_criterion_of_upperLower_criterion", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32783", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36171", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33833", "child": "OAIQ259US007", "via": ["statement"]}
@@ -70258,9 +70258,9 @@
 {"parent": "BosonicLearn.effect_matrix_operator", "child": "QAlgorithms_Defs_RealLabelRegisters", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28246", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32706", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimit_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimit_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimit_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimit_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimit_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxCommonLimit_of_fineCauchy", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_4_12_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29527", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33244", "child": "OAIQ259US007", "via": ["statement"]}
@@ -70314,7 +70314,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg27352", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.exists_strongly_invariant_with_normal_marginals", "child": "Q260K025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43041", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "thm_2_3", "child": "ProbabilityTheory_chapter_02_def_2_5_F000", "via": ["statement"]}
+{"parent": "thm_2_3", "child": "ProbabilityTheory_chapter_02_def_2_5_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33681", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.ClosedSurfaceR4.JetPolynomial.Perturbation.uniform_charted_seed_bound", "child": "OAIQ249SI012", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36928", "child": "OAIQ259US007", "via": ["statement"]}
@@ -70463,13 +70463,13 @@
 {"parent": "OAI.UniversalTensorSquare.sg3065", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33107", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41184", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_b20_nostanding_finiteactivity_actual_jump_laplace", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_b20_nostanding_finiteactivity_actual_jump_laplace", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31371", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32353", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31541", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34643", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36503", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "thm_2_2", "child": "ProbabilityTheory_chapter_02_def_2_5_F000", "via": ["statement"]}
+{"parent": "thm_2_2", "child": "ProbabilityTheory_chapter_02_def_2_5_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42092", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37959", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37198", "child": "OAIQ259US007", "via": ["statement"]}
@@ -70575,7 +70575,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg36357", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.exists_unitary_finiteMatrix_embedding", "child": "Q260K002", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.exists_unitary_finiteMatrix_embedding", "child": "StrongKadisonKastler", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.finite_discontinuity_alpha_local_increment_pairwise_data", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.finite_discontinuity_alpha_local_increment_pairwise_data", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31868", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37273", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a60_original_stopped_postpayment_spatial_increment_identity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -70925,9 +70925,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg32742", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41849", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37202", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badCellIndices_half_radius_subset_badPointEndpointBlocks", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badCellIndices_half_radius_subset_badPointEndpointBlocks", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badCellIndices_half_radius_subset_badPointEndpointBlocks", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.badCellIndices_half_radius_subset_badPointEndpointBlocks", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.badCellIndices_half_radius_subset_badPointEndpointBlocks", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.badCellIndices_half_radius_subset_badPointEndpointBlocks", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41698", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34007", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "PhysReaudit_IsSound", "child": "PhysReaudit_Delta", "via": ["statement"]}
@@ -71028,10 +71028,10 @@
 {"parent": "OAI.UniversalTensorSquare.sg41471", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw1_0_1_13_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43035", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31150", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31782", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_length_68_ca", "child": "OAIQ229C022", "via": ["solution", "statement"]}
@@ -71064,8 +71064,8 @@
 {"parent": "AvramDividend.Classical.avram_bvb27b_original_stopped_mark_compensator_real_clock", "child": "AvramDividend.Classical.avram_bvb26b_real_clock_mapped_positive_mask_eq", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb27b_original_stopped_mark_compensator_real_clock", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb27b_original_stopped_mark_compensator_real_clock", "child": "AvramDividend.Classical.avram_bva21_original_K_negative_mark_real_time_bridge", "via": ["solution", "statement"]}
-{"parent": "Thm_1_2_4.lowerSum_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.lowerSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.lowerSum_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.lowerSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_1_1_16_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29259", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42915", "child": "OAIQ259US007", "via": ["statement"]}
@@ -71137,8 +71137,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg43106", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36029", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36206", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_bad_point_half_radius_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_bad_point_half_radius_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.exists_bad_point_half_radius_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_bad_point_half_radius_of_not_subset_goodRemainder_cell", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27953", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35574", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "APFB06.amendedB06_extract_E", "child": "APF_B06_DeclaredInput", "via": ["solution", "statement"]}
@@ -71173,7 +71173,7 @@
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.SmoothingAtlas.global_normalized_metric_step_bound", "child": "SurfaceImmersion", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38880", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg6800", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.isCompact_goodRemainder", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.isCompact_goodRemainder", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29996", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "PhysReaudit.change_of_measure", "child": "PhysReaudit_mu", "via": ["statement"]}
 {"parent": "PhysReaudit.change_of_measure", "child": "PhysReaudit_lawQ", "via": ["statement"]}
@@ -71311,9 +71311,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg29146", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28828", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.projectionStrataCoordinates_operator_action", "child": "Q260K023", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.mem_badCellIndices_iff", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.mem_badCellIndices_iff", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.mem_badCellIndices_iff", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.mem_badCellIndices_iff", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.mem_badCellIndices_iff", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.mem_badCellIndices_iff", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F008", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.curvatureData00_0_mem_eu", "child": "OAIQ334E011", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.curvatureData00_0_mem_eu", "child": "OAIQ334E020", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28043", "child": "OAIQ259US007", "via": ["statement"]}
@@ -71534,8 +71534,8 @@
 {"parent": "OAI.KadisonKastler.uniform_factor_strong_stability", "child": "Q260K018", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_b22_initial_event_finite_mesh_vanishing_error_budget", "child": "AvramDividend.Classical.avram_b21_initial_event_local_aggregate_budget", "via": ["solution", "statement"]}
 {"parent": "thm_7_4", "child": "ProbabilityTheory_chapter_06_thm_6_6_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedCommonLimit_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedCommonLimit_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.taggedCommonLimit_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.taggedCommonLimit_right", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "PPADSIS_SubexpSIS_SearchRTC", "child": "PPADSIS_SubexpSIS_RegularTreeCircuit", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36690", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40205", "child": "OAIQ259US007", "via": ["statement"]}
@@ -71608,13 +71608,13 @@
 {"parent": "OddOrder.Peterfalvi.S16.OrthogonalitySwitchData.typeICoherent78_complementIndex_eq_pq", "child": "OddOrder_Peterfalvi_S15_SAndT_Setup_Canonicalization", "via": ["statement"]}
 {"parent": "OddOrder.Peterfalvi.S16.OrthogonalitySwitchData.typeICoherent78_complementIndex_eq_pq", "child": "OddOrder_Peterfalvi_S15_CharacterDegreeEnginesSSide", "via": ["statement"]}
 {"parent": "OddOrder.Peterfalvi.S16.OrthogonalitySwitchData.typeICoherent78_complementIndex_eq_pq", "child": "OddOrder_Peterfalvi_S13_ElementaryAbelianKernel", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F001", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_finite_discontinuity_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.strict_upperLower_criterion_of_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38312", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.Construction.Dkernel_summable_eu", "child": "OAIQ334E004", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31165", "child": "OAIQ259US007", "via": ["statement"]}
@@ -71675,9 +71675,9 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.taylorExp0_0_1_mem_eu", "child": "OAIQ334E019", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_0_0_16_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36778", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchy_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37438", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28049", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_0_1_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
@@ -72421,9 +72421,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg41060", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43245", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_1_1_4_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_sumMonotone", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_sumMonotone", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_of_sumMonotone", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37078", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28334", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30820", "child": "OAIQ259US007", "via": ["statement"]}
@@ -72855,8 +72855,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg31992", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41688", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32690", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_goodRemainder_uniform_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.exists_goodRemainder_uniform_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.exists_goodRemainder_uniform_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.exists_goodRemainder_uniform_oscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_0_0_2_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg8559", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40711", "child": "OAIQ259US007", "via": ["statement"]}
@@ -73080,8 +73080,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg30384", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37169", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_74_ca", "child": "OAIQ229C022", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partitionOscillation_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partitionOscillation_nonneg_of_source", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_3_13_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39702", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37777", "child": "OAIQ259US007", "via": ["statement"]}
@@ -74107,7 +74107,7 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_0_3_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35518", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42928", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.mem_goodRemainder_iff", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.mem_goodRemainder_iff", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_0_0_10_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29615", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27792", "child": "OAIQ259US007", "via": ["statement"]}
@@ -74251,9 +74251,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg34357", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41570", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29592", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.DarbouxCommonRefinementSandwich_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_monotonicity_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.dBox19_mem_eu", "child": "OAIQ334E000", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_4_1_5_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41282", "child": "OAIQ259US007", "via": ["statement"]}
@@ -74302,7 +74302,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg28582", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32951", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42888", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.upper_sub_lower_lt_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.upper_sub_lower_lt_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40192", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39063", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "CountingLLL_RandomRAM", "child": "CountingLLL_DetCount_Machine", "via": ["statement"]}
@@ -74627,8 +74627,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg32483", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31711", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27919", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedSum_le_upperSum", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedSum_le_upperSum", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.taggedSum_le_upperSum", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.taggedSum_le_upperSum", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_6_0_18_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32651", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31162", "child": "OAIQ259US007", "via": ["statement"]}
@@ -74699,7 +74699,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg28388", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33247", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28669", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "FairReplay.eq_40", "child": "FairReplay_fourWayModel", "via": ["statement"]}
+{"parent": "FairReplay.eq_40", "child": "FairReplay_fourWayModel", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw1_0_2_7_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31132", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32885", "child": "OAIQ259US007", "via": ["statement"]}
@@ -74722,7 +74722,7 @@
 {"parent": "DarbouxRS.taggedCommonLimit_const_mul_core", "child": "ProbabilityTheory_chapter_01_thm_1_2_F004", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41394", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg43121", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.sourceHypotheses_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.sourceHypotheses_right", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32589", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.KadisonKastler.traceHull_mem_ball", "child": "Q260K012", "via": ["solution", "statement"]}
 {"parent": "OAI.KadisonKastler.traceHull_mem_ball", "child": "Q260K015", "via": ["solution", "statement"]}
@@ -74795,9 +74795,9 @@
 {"parent": "AvramDividend.Classical.avram_a20_original_bounded_simple_mark_integral_exact_moments", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_3_1_13_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.ordinary_sign_0_6_1_tg", "child": "OAIQ262T148", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedSum_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["statement"]}
+{"parent": "Thm_1_2_4.taggedSum_concat", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.taggedSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.taggedSum_concat", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35801", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38530", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.Construction.cellGeometry15_eu", "child": "OAIQ334E011", "via": ["solution", "statement"]}
@@ -74805,10 +74805,10 @@
 {"parent": "OAI.UniversalTensorSquare.sg31682", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38393", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39374", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_of_commonRefinementSandwich", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36625", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39274", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31695", "child": "OAIQ259US007", "via": ["statement"]}
@@ -74865,8 +74865,8 @@
 {"parent": "OddOrder.Peterfalvi.S16.MHypothesis.line83_le_displayed_upper", "child": "OddOrder_GroupTheory_RepresentationTheory_ConjugationFieldModel", "via": ["statement"]}
 {"parent": "OddOrder.Peterfalvi.S16.MHypothesis.line83_le_displayed_upper", "child": "OddOrder_Peterfalvi_S16_NonExistenceG_SubgroupMCore", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42959", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.lowerStep_le_tag", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.lowerStep_le_tag", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.lowerStep_le_tag", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.lowerStep_le_tag", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.psiC52_mem_eu", "child": "OAIQ334E005", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg39892", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41801", "child": "OAIQ259US007", "via": ["statement"]}
@@ -74882,10 +74882,10 @@
 {"parent": "OAI.UniversalTensorSquare.sg30624", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.Construction.cellGeometry05_eu", "child": "OAIQ334E011", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw1_1_6_12_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_refinement_points_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_darboux_gap_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.closedIntervalDarbouxFineCauchyFromGap_proof", "child": "ProbabilityTheory_chapter_01_thm_1_1_common_limit_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37602", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37544", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_5_4_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
@@ -75230,11 +75230,11 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_1_0_8_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41883", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw1_1_1_6_calc_eu", "child": "OAIQ334E025", "via": ["solution", "statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "BanditTrajectory", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "FairReplay_IsDeltaCorrect", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "FairReplay_vertexModel", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "bernoulliRelativeEntropy", "via": ["statement"]}
-{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "FairReplay_expectedRounds", "via": ["statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "BanditTrajectory", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "FairReplay_IsDeltaCorrect", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "FairReplay_vertexModel", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "bernoulliRelativeEntropy", "via": ["solution", "statement"]}
+{"parent": "FairReplay.theorem_10_4_ii_lower", "child": "FairReplay_expectedRounds", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35256", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28432", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg31198", "child": "OAIQ259US007", "via": ["statement"]}
@@ -75439,8 +75439,8 @@
 {"parent": "AvramDividend.Classical.avram_ga_a46_original_safe_cell_spatial_positive_floor", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a46_original_safe_cell_spatial_positive_floor", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "PhaseEncodedQGE.lemma_A_20", "child": "PhaseEncodedQGE_Profile", "via": ["statement"]}
-{"parent": "Thm_1_2_4.rsIntegral_split", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.rsIntegral_split", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["statement"]}
+{"parent": "Thm_1_2_4.rsIntegral_split", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.rsIntegral_split", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F003", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28385", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_6_0_14_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg35537", "child": "OAIQ259US007", "via": ["statement"]}
@@ -75638,9 +75638,9 @@
 {"parent": "OAI.UniversalTensorSquare.sg40173", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29934", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38685", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval_of_half_radius_hit", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval_of_half_radius_hit", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval_of_half_radius_hit", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval_of_half_radius_hit", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval_of_half_radius_hit", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F005", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.partition_cell_increment_le_bad_interval_of_half_radius_hit", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33713", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "RepellingPairs.cost_inequality_of_trivial_pair", "child": "RepellingPairs_TerminalPath", "via": ["solution", "statement"]}
 {"parent": "RepellingPairs.cost_inequality_of_trivial_pair", "child": "RepellingPairs_Config", "via": ["solution", "statement"]}
@@ -75866,7 +75866,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg8782", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30919", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34051", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_b20_nostanding_integer_nojump_iff_drift_increment_ae", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_b20_nostanding_integer_nojump_iff_drift_increment_ae", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27927", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw0_0_4_14_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40169", "child": "OAIQ259US007", "via": ["statement"]}
@@ -76157,7 +76157,7 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr0_4_1_3_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37615", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37754", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.partition_cell_endpoints_abs_lt_of_meets_half_radius", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.partition_cell_endpoints_abs_lt_of_meets_half_radius", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42228", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28251", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg32864", "child": "OAIQ259US007", "via": ["statement"]}
@@ -76186,8 +76186,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg38404", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.fullJetRow9_mem_eu", "child": "OAIQ334E009", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38678", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badPointCanonicalIcoBlocks_pairwiseDisjoint_of_pairwiseDisjoint_Ioo", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.badPointCanonicalIcoBlocks_pairwiseDisjoint_of_pairwiseDisjoint_Ioo", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F006", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.badPointCanonicalIcoBlocks_pairwiseDisjoint_of_pairwiseDisjoint_Ioo", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.badPointCanonicalIcoBlocks_pairwiseDisjoint_of_pairwiseDisjoint_Ioo", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F006", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg40368", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34696", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37583", "child": "OAIQ259US007", "via": ["statement"]}
@@ -76338,8 +76338,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg27328", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "generatedSigmaFieldSeq_contains", "child": "ProbabilityTheory_chapter_02_def_2_7_F000", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg34750", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.rsIntegrable_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.rsIntegrable_left", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.rsIntegrable_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.rsIntegrable_left", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41627", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36146", "child": "OAIQ259US007", "via": ["statement"]}
@@ -76578,8 +76578,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg39226", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg36529", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33604", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.continuousOn_goodRemainder", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.continuousOn_goodRemainder", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.continuousOn_goodRemainder", "child": "ProbabilityTheory_chapter_01_thm_1_1_bad_cells_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.continuousOn_goodRemainder", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37997", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg9619", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_topcap_original_fullmask_jump_count_integrable_majorant", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -76811,8 +76811,8 @@
 {"parent": "OddOrder_Peterfalvi_S14_MaximalI_WitnessSylowBasic", "child": "OddOrder_Peterfalvi_S14_MaximalI_CentralizerContainment", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg41753", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_4_1_10_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
-{"parent": "Thm_1_2_4.taggedCommonLimit_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.taggedCommonLimit_left", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.taggedCommonLimit_left", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.taggedCommonLimit_left", "child": "ProbabilityTheory_chapter_01_thm_1_2_4_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tailTargetEnvelope_bound_eu", "child": "OAIQ334E006", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_1_0_7_calc_eu", "child": "OAIQ334E023", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28001", "child": "OAIQ259US007", "via": ["statement"]}
@@ -76835,8 +76835,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg30163", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg29524", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27831", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_eq_partitionOscillation", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_eq_partitionOscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["statement"]}
+{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_eq_partitionOscillation", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_eq_partitionOscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_oscillation_basic_F000", "via": ["solution", "statement"]}
 {"parent": "Thm11SourceRoute.upperSum_sub_lowerSum_eq_partitionOscillation", "child": "ProbabilityTheory_chapter_01_thm_1_1_basic_F001", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg42151", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "borelAlgebraEuclidean_eq_borel", "child": "ProbabilityTheory_chapter_02_thm_2_8_F001", "via": ["statement"]}
@@ -76864,8 +76864,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg30881", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg6245", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg30566", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "Thm_1_2_4.tag_le_upperStep", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["statement"]}
-{"parent": "Thm_1_2_4.tag_le_upperStep", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["statement"]}
+{"parent": "Thm_1_2_4.tag_le_upperStep", "child": "ProbabilityTheory_chapter_01_def_1_2_F000", "via": ["solution", "statement"]}
+{"parent": "Thm_1_2_4.tag_le_upperStep", "child": "ProbabilityTheory_chapter_01_thm_1_2_F000", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33068", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OddOrder_Peterfalvi_S12_MaximalIII_IV_V_Core_CharacterParameters", "child": "OddOrder_Peterfalvi_S12_MaximalIII_IV_V_Core_MuGridConstruction", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tr1_5_0_18_calc_x", "child": "OAIQ257X023", "via": ["solution", "statement"]}
@@ -92714,8 +92714,8 @@
 {"parent": "AvramDividend.Classical.avram_bvb45_original_uniform_grid_eventually_excludes_all_final_source_negative_marks", "child": "AvramDividend.Classical.avram_bvb44_original_finiteactivity_ae_last_horizon_no_negative_mark_strip", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb45_original_uniform_grid_eventually_excludes_all_final_source_negative_marks", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH66388FastPiece25Block06", "child": "row23_rh_supp_RH66388FastPiece25Data", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_a122_b0_original_root_masked_spatial_positive_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_a122_b0_original_root_masked_spatial_positive_integrable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_a122_b0_original_root_masked_spatial_positive_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_a122_b0_original_root_masked_spatial_positive_integrable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeCheck60_2_1", "child": "OAIQ259US010", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeCheck60_2_1", "child": "OAIQ259US012", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b108_original_all_negative_cutoff_void_implies_true_jumpfree", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -95424,8 +95424,8 @@
 {"parent": "ZeroFreeRRG.Hardcore.overlap_likelihood_mean_threshold", "child": "ZeroFreeRRG_Hardcore_Moments", "via": ["statement"]}
 {"parent": "ZeroFreeRRG.Hardcore.overlap_likelihood_mean_threshold", "child": "ZeroFreeRRG_Hardcore_BetheFunctional", "via": ["statement"]}
 {"parent": "KSATSingleFlip_Connect_Reconstruction", "child": "KSATSingleFlip_Connect_Model", "via": ["statement"]}
-{"parent": "AppliedSDE.SarkkaSolin.euler_maruyama_grid_l2_local_error", "child": "KLSModular_LevyStochCalc_Brownian_Filtered", "via": ["statement"]}
-{"parent": "AppliedSDE.SarkkaSolin.euler_maruyama_grid_l2_local_error", "child": "KLSModular_LevyStochCalc_Brownian_ItoL2CompletionMaster", "via": ["statement"]}
+{"parent": "AppliedSDE.SarkkaSolin.euler_maruyama_grid_l2_local_error", "child": "KLSModular_LevyStochCalc_Brownian_Filtered", "via": ["solution", "statement"]}
+{"parent": "AppliedSDE.SarkkaSolin.euler_maruyama_grid_l2_local_error", "child": "KLSModular_LevyStochCalc_Brownian_ItoL2CompletionMaster", "via": ["solution", "statement"]}
 {"parent": "ZeroFreeRRG.Hardcore.potts_incident_edge_replacement_chain", "child": "ZeroFreeRRG_Hardcore_PottsRowChain", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_116All", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_116All", "child": "OAIQ259US011", "via": ["statement"]}

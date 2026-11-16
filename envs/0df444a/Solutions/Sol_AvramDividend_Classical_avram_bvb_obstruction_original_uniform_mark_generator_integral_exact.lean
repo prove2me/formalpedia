@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_bvb_obstruction_original_uniform_mark_generator_integral_exact
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T01:11:47.922931+00:00
 -- url     : https://prove2.me/submissions/c4727b09-0166-46ed-a66c-23c75d30ef7a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_uniform_affine_generator_integrand_crossing_exact
 import Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_uniform_half_affine_compensated_kernel_integral_exact

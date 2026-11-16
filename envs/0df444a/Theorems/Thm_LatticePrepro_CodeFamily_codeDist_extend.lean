@@ -15,7 +15,7 @@
 --
 --   **Formalization Note.** Both distances are `codeDist`, a natural number. The Lean statement does not require $F$ to be finite (the paper fixes a finite field); it only assumes `[Algebra (ZMod p) F]` and `[DecidableEq F]`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Lemma 3.11 (\label{lem:block-system-codes}), extension-of-scalars step of its proof (Appendix B.1); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.CodeFamily.codeDist_extend
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.11 (\label{lem:block-system-codes}), extension-of-scalars step of its proof (Appendix B.1); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.CodeFamily.codeDist_extend
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

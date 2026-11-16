@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_original_zero_negative_marks_jump_series_zero
 -- name    : AvramDividend.Classical.avram_bvb_obstruction_original_zero_negative_marks_jump_series_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T01:10:33.407601+00:00
 -- url     : https://prove2.me/theorems/9744006f-ecde-405b-96d4-84272b5983c8

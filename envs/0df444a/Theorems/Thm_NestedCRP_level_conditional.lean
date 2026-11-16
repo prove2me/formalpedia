@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_level_conditional
 -- name    : NestedCRP.level_conditional
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:30:51.019685+00:00
 -- url     : https://prove2.me/theorems/41488c07-3e89-49ff-8b96-61a3cf7b245d

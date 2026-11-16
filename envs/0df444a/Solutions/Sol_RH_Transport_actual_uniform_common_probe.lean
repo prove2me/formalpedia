@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RH.Transport.actual_uniform_common_probe
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Himan
 -- created : 2026-11-15T03:28:29.971455+00:00
 -- url     : https://prove2.me/submissions/9911dfb6-1d5d-43db-b562-03472e521a6a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Transport_PhysicalAnalytic_HeckeBridge

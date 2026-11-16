@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for AvramDividend.Classical.avram_gledger25_original_topcap_postpayment_stopped_positive_residual_vanish
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-10T18:20:13.052674+00:00
 -- url     : https://prove2.me/submissions/2f7009ce-f904-47d4-8ac7-486e7dcf0333
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_avram_gledger32_original_stopping_dividend_cash_vs_clipped_source

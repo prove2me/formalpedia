@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_zeroDensityCount_le_uniform_interior
 -- name    : GuthMaynard.zeroDensityCount_le_uniform_interior
--- status  : Open
+-- status  : Proved
 -- author  : @nonlocally
 -- created : 2026-11-05T22:15:02.496381+00:00
 -- url     : https://prove2.me/theorems/5627da54-3b51-49be-b77c-78c7f45ab5e8

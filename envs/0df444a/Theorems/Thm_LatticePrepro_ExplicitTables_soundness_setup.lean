@@ -19,7 +19,7 @@
 --
 --   **Formalization Note**: "Satisfies all the constraints" is `constraintFun FS m B y = 0`, and $\mathrm{wt}(y)$ is Mathlib's `hammingNorm` (the number of nonzero entries). The hypothesis $4\Delta<q$ is implied by the paper's choice $q\ge8pmB\delta$. The weight condition $2\,\mathrm{wt}(y)<B^m q$ is the soundness threshold $\mathrm{wt}(y)<rD/2$ of Definition 4.4 with $r=B^m$ and $D=q$ blocks.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847); auxiliary lemma used in the proof of Theorem A.8 (\label{thm:moment-representation-construction}), combining Lemma A.6 (\label{lem:table-rank}); Lean: LatticePrepro/Tables/TableSoundness.lean, LatticePrepro.ExplicitTables.soundness_setup
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634); auxiliary lemma used in the proof of Theorem A.8 (\label{thm:moment-representation-construction}), combining Lemma A.6 (\label{lem:table-rank}); Lean: LatticePrepro/Tables/TableSoundness.lean, LatticePrepro.ExplicitTables.soundness_setup
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_ceil_logb_bits_bound
 -- name    : QuantumLTF.Membership.ceil_logb_bits_bound
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-15T04:32:20.484489+00:00
 -- url     : https://prove2.me/theorems/b41992c1-6686-4146-a8d8-4f946c478ef3

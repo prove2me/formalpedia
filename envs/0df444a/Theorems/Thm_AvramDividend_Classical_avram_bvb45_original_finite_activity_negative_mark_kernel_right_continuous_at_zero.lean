@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb45_original_finite_activity_negative_mark_kernel_right_continuous_at_zero
 -- name    : AvramDividend.Classical.avram_bvb45_original_finite_activity_negative_mark_kernel_right_continuous_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T18:39:59.419199+00:00
 -- url     : https://prove2.me/theorems/bf417719-924f-4b0a-a910-d5dd1bb0280c

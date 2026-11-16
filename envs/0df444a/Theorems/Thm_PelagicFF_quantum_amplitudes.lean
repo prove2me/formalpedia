@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PelagicFF_quantum_amplitudes
 -- name    : PelagicFF.quantum_amplitudes
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:55:47.934781+00:00
 -- url     : https://prove2.me/theorems/ee30f2b5-fc85-4c2f-9cb9-a8ec79df9c51

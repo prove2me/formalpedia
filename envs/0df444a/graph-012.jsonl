@@ -14416,9 +14416,9 @@
 {"parent": "D1Bound5.smallPairMask_1_5_14_valid", "child": "D1Bound5_FastSquareTest_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.smallPairMask_1_5_14_valid", "child": "D1Bound5_SmallPairSieve_1_5_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.repeated_cover_generic_m1_s49", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nest_Le_ND_NDpt", "child": "IntMul_Kappa_R8_Data_BitOppbankMoveFacts2", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nest_Le_ND_NDpt", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nest_Le_ND_NDpt", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nest_Le_ND_NDpt", "child": "IntMul_Kappa_R8_Data_BitOppbankMoveFacts2", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nest_Le_ND_NDpt", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.nest_Le_ND_NDpt", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_SmallPairLightData5LeftVertices_Definitions", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundNumeric.NatTable.lowerCheck_sound", "child": "Sensitivity213981Formal_NamespacesComplete", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundNumeric.NatTable.lowerCheck_sound", "child": "Sensitivity213981Formal_NatTableChecks", "via": ["solution", "statement"]}
@@ -20652,8 +20652,8 @@
 {"parent": "OAIQ086U003", "child": "UniqueGamesTheorem", "via": ["statement"]}
 {"parent": "OAIQ086U003", "child": "OAIQ086U002", "via": ["statement"]}
 {"parent": "D1Bound5_SmallPairGraphWitnessData3_Definitions_001", "child": "D1Bound5_Coordinates_Definitions", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ei_K_pivs", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ei_K_pivs", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ei_K_pivs", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ei_K_pivs", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.unbounded_esscher_ratio_bound_of_corrected_exit", "child": "AvramDividend.Classical.unbounded_positive_tilt_of_corrected_exit", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.unbounded_esscher_ratio_bound_of_corrected_exit", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.unbounded_esscher_ratio_bound_of_corrected_exit", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

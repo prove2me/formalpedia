@@ -75026,8 +75026,8 @@
 {"parent": "MIPStarRE.QPBT.tildeM_consistencyDefect_le_deltaG_add_nonencoding", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1641", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1641", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_entI_filter_eq_entE_grid", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_entI_filter_eq_entE_grid", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_entI_filter_eq_entE_grid", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_entI_filter_eq_entE_grid", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c308045_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ws01e_bf_new_genuine_strip_from_indep", "child": "AvramDividend_Classical_Reflection", "via": ["solution", "statement"]}
 {"parent": "WangWebsterFlexibility_Threshold_Cutoff", "child": "WangWebsterFlexibility_Threshold_Profits", "via": ["statement"]}
@@ -80682,8 +80682,8 @@
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.sum_placeExtractedRegister_pauli_sq", "child": "QPBT_QPBT_Test_PauliBasisTest", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.sum_placeExtractedRegister_pauli_sq", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.ProjectiveSetting.sum_placeExtractedRegister_pauli_sq", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_blk2_filter_eq_entI_filter", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_blk2_filter_eq_entI_filter", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_blk2_filter_eq_entI_filter", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_blk2_filter_eq_entI_filter", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.MagicSquareRigidity.msCellObsA_step", "child": "LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.MagicSquareRigidity.msCellObsA_step", "child": "LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.MagicSquareRigidity.msCellObsA_step", "child": "QPBT_QPBT_Test_MagicSquareTheorems_Rigidity_CellRelations", "via": ["solution", "statement"]}

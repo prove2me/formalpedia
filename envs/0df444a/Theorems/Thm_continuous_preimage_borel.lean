@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_continuous_preimage_borel
 -- name    : continuous_preimage_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:57:38.536679+00:00
 -- url     : https://prove2.me/theorems/e7036b09-bdd9-400a-b984-f00e2b050aac

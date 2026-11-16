@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RH.Transport.PhysicalHigh.fixed_high_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Himan
 -- created : 2026-11-15T04:36:12.473165+00:00
 -- url     : https://prove2.me/submissions/38a8a498-a706-40bc-bedf-b45cc1483af2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Lean.Elab.Tactic.Omega

@@ -25,7 +25,7 @@
 --
 --   **Formalization Note.** `PNorm` covers every real $p\ge1$ and $p=\infty$; the paper states Lemma 3.12 for rational $p$ and $p=\infty$, which matters only for computability. The sup norm is `⨆ i, |v i|`, and powers with real exponents are `Real.rpow`. The polynomial-time computability of the basis, targets, membership test and residual weight is not formalized: `weight` is an arbitrary function. Full rank is encoded by $N\cdot\mathbb Z^M\subseteq\Lambda$; `Lattices/Mathlib.lean` shows that this makes the real image of $\Lambda$ a Mathlib `IsZLattice`. Lean writes the prime as `p` and the norm exponent as `pn`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), Section 3 (Preliminaries, \label{sec:preliminaries}) and Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.PNorm, LatticePrepro.PNorm.norm, LatticePrepro.PNorm.s, LatticePrepro.LatticeFamily, LatticePrepro.LatticeFamily.toReal, LatticePrepro.LatticeFamily.dist, LatticePrepro.LatticeReduction
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Section 3 (Preliminaries, \label{sec:preliminaries}) and Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.PNorm, LatticePrepro.PNorm.norm, LatticePrepro.PNorm.s, LatticePrepro.LatticeFamily, LatticePrepro.LatticeFamily.toReal, LatticePrepro.LatticeFamily.dist, LatticePrepro.LatticeReduction
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

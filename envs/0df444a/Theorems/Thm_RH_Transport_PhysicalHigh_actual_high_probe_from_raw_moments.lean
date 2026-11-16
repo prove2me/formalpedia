@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_PhysicalHigh_actual_high_probe_from_raw_moments
 -- name    : RH.Transport.PhysicalHigh.actual_high_probe_from_raw_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T04:35:15.427202+00:00
 -- url     : https://prove2.me/theorems/3747b842-06b9-49af-aec7-767db3f8f9ff

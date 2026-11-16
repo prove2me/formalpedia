@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_obstruction_positive_markfree_event_survives_ae_linear_path
 -- name    : AvramDividend.Classical.avram_bvb_obstruction_positive_markfree_event_survives_ae_linear_path
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T01:16:17.8919+00:00
 -- url     : https://prove2.me/theorems/55cf8004-9c93-4ce5-ba13-a53b5ea9870b

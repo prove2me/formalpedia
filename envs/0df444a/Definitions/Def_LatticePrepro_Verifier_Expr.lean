@@ -17,7 +17,7 @@
 --
 --   **Formalization Note**: The bundle includes simp lemmas for the values and sizes of the connectives (e.g. $\mathrm{size}(\mathrm{eqConst}\ c\ a) = 2\,\mathrm{size}(a) + 1$, since $a$ is used twice), the facts that compilation extends the list as a prefix, appends exactly $\mathrm{size}(e)$ gates, returns an existing wire (the last one if $e$ has a gate) and preserves well-formedness (`WF.nil`, `WF.snoc`), and that `toCircuit n w e` has $n$ inputs and $w$ witness wires. The correctness of the compiled circuit (it accepts $x$ iff $e$ evaluates to $1$ on $x$ followed by some witness) is proved in the source module, not in this bundle.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary construction for the 3SAT verifier $V_n$ in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), with circuits as in Definition 3.13 (\label{def:verifier}); Lean: LatticePrepro/Verifier/Expr.lean, LatticePrepro.BExpr, LatticePrepro.BExpr.compile, LatticePrepro.BExpr.toCircuit
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary construction for the 3SAT verifier $V_n$ in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), with circuits as in Definition 3.13 (\label{def:verifier}); Lean: LatticePrepro/Verifier/Expr.lean, LatticePrepro.BExpr, LatticePrepro.BExpr.compile, LatticePrepro.BExpr.toCircuit
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

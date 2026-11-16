@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSensitivity_tal_blockSensitivity_le_polyDegree_sq
 -- name    : DegreeSensitivity.tal_blockSensitivity_le_polyDegree_sq
--- status  : Open
+-- status  : Proved
 -- author  : @queelius
 -- created : 2026-11-07T16:51:40.388206+00:00
 -- url     : https://prove2.me/theorems/d7304857-2fe4-4500-84f8-a9ddc8d255c4

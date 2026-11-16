@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: The lemma is stated for any natural number $p \ge 2$, not only primes.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847), auxiliary lemma used in Construction A.4 (\label{con:moment-representation}) and the proof of Theorem A.8 (\label{thm:moment-representation-construction}); Lean: LatticePrepro/Basic/Nat.lean, LatticePrepro.exists_pow_between
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in Construction A.4 (\label{con:moment-representation}) and the proof of Theorem A.8 (\label{thm:moment-representation-construction}); Lean: LatticePrepro/Basic/Nat.lean, LatticePrepro.exists_pow_between
 
 import Mathlib
 

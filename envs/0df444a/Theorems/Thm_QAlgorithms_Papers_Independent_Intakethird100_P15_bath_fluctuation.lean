@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P15_bath_fluctuation
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P15.bath_fluctuation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:07:04.840361+00:00
 -- url     : https://prove2.me/theorems/45872cd1-4660-4090-b79d-dc57448ac9d8

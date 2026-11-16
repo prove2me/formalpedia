@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy
 -- name    : Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromGap_of_fineCauchy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:07:59.155206+00:00
 -- url     : https://prove2.me/theorems/b0d97fb8-f0c0-4b0f-be35-c250ab6a790e

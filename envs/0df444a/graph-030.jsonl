@@ -66973,7 +66973,6 @@
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.taylorExp0_0_9_mem_x", "child": "OAI.AtomicTriangular.FiniteCertificate.taylorExp0_0_9_calc_x", "via": ["solution"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.taylorExp0_0_9_mem_x", "child": "OAIQ257X020", "via": ["solution"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.taylorExp0_0_9_mem_x", "child": "OAI.AtomicTriangular.FiniteCertificate.taylorPhase0_0_mem_x", "via": ["solution"]}
-{"parent": "GuthMaynard.huxley_density_estimate_of_nine_elevenths_le", "child": "LindelofHypothesis.mu_half_le_thirteen_div_eightyfour", "via": ["solution"]}
 {"parent": "GuthMaynard.huxley_density_estimate_of_nine_elevenths_le", "child": "Zeta23.RvM.zeta_local_zero_count", "via": ["solution"]}
 {"parent": "GuthMaynard.huxley_density_estimate_of_nine_elevenths_le", "child": "GuthMaynard.card_le_of_large_values_huxley", "via": ["solution"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII10.ZbarD_le", "child": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII09.Hc_sub_mul_Gc", "via": ["solution"]}

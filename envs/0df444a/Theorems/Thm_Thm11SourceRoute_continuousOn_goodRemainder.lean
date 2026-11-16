@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_continuousOn_goodRemainder
 -- name    : Thm11SourceRoute.continuousOn_goodRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:04:22.843776+00:00
 -- url     : https://prove2.me/theorems/fd14b565-2dfa-4e5c-91ce-033ff26eba71

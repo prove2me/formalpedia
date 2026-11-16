@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResultantVNP_vp_formula_sum
 -- name    : ResultantVNP.vp_formula_sum
--- status  : Open
+-- status  : Proved
 -- author  : @gjindal
 -- created : 2026-11-14T21:25:38.08195+00:00
 -- url     : https://prove2.me/theorems/b8888d04-6207-47b2-9c8d-0e2edf8b7026

@@ -14,7 +14,7 @@
 --
 --   **Formalization Note**: The degree is Mathlib's `natDegree` (the zero polynomial has degree $0$). No hypotheses on $m$, $B$ or $\delta$ are needed.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847); auxiliary lemma used in the proof of Theorem A.8 (\label{thm:moment-representation-construction}); Lean: LatticePrepro/Tables/ElementTable.lean, LatticePrepro.ExplicitTables.natDegree_elemProd_le
+--   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634); auxiliary lemma used in the proof of Theorem A.8 (\label{thm:moment-representation-construction}); Lean: LatticePrepro/Tables/ElementTable.lean, LatticePrepro.ExplicitTables.natDegree_elemProd_le
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

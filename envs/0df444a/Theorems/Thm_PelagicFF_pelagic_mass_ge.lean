@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PelagicFF_pelagic_mass_ge
 -- name    : PelagicFF.pelagic_mass_ge
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:55:51.132631+00:00
 -- url     : https://prove2.me/theorems/128633f3-4373-4a46-b18a-0957af6b334f

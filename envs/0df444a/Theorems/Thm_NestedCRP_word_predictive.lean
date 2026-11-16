@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_word_predictive
 -- name    : NestedCRP.word_predictive
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:29:52.879978+00:00
 -- url     : https://prove2.me/theorems/94273ee3-3622-49e3-873b-24937b5fcdf9

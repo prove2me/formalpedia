@@ -81981,8 +81981,8 @@
 {"parent": "AvramDividend.Classical.barrierStrategy_zeroPayoff_if_rawLowerExitBeforeUpper", "child": "AvramDividend.Classical.barrierStrategy_ruinClock_lt_upClock_iff_rawLowerClock_lt", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.barrierStrategy_zeroPayoff_if_rawLowerExitBeforeUpper", "child": "AvramDividend.Classical.barrierStrategy_discountedDividend_zero_if_ruin_before_upcrossing", "via": ["solution", "statement"]}
 {"parent": "OAI.Kadison.MatrixCorners.projection_rank", "child": "OAIQ039C013", "via": ["solution", "statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ex_K_pivs", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["statement"]}
-{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ex_K_pivs", "child": "IntMul_Kappa_R6_Defs4", "via": ["statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ex_K_pivs", "child": "IntMul_Kappa_R8_Data_BitOppbankOneRun2", "via": ["solution", "statement"]}
+{"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_ex_K_pivs", "child": "IntMul_Kappa_R6_Defs4", "via": ["solution", "statement"]}
 {"parent": "OAI.StrictHotSpots.Conformal.ClosedDiskChart.scalarSolution_closed_ae", "child": "HotSpots", "via": ["solution", "statement"]}
 {"parent": "OAI.StrictHotSpots.Conformal.ClosedDiskChart.scalarSolution_closed_ae", "child": "OAIQ3Ho004", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundEndpoint22Reachable.covered6_600", "child": "Sensitivity213981Formal_Endpoint22ReachChecks151", "via": ["solution", "statement"]}

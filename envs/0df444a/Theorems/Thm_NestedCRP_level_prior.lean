@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_level_prior
 -- name    : NestedCRP.level_prior
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:28:23.17456+00:00
 -- url     : https://prove2.me/theorems/d3919f39-fa16-4bc4-b7d6-6a1299f472b2

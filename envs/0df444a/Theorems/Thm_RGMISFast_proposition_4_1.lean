@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RGMISFast_proposition_4_1
 -- name    : RGMISFast.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T11:30:47.727276+00:00
 -- url     : https://prove2.me/theorems/05c031ee-b624-4e7e-83ac-8e729deff69b

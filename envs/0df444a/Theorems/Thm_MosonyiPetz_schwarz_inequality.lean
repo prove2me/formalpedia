@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_schwarz_inequality
 -- name    : MosonyiPetz.schwarz_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:42:57.781057+00:00
 -- url     : https://prove2.me/theorems/9a584f86-b5b7-4b2a-b3ca-0d4f404ccb7e

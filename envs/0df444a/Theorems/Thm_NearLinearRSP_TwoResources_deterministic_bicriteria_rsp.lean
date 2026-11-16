@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLinearRSP_TwoResources_deterministic_bicriteria_rsp
 -- name    : NearLinearRSP.TwoResources.deterministic_bicriteria_rsp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:25:25.565014+00:00
 -- url     : https://prove2.me/theorems/89a66c92-1b34-41a7-93bd-4a6e8f580fe8

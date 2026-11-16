@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p3b_hs_integrable_exp
 -- name    : CritWinSpin.p3b_hs_integrable_exp
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T05:54:24.62999+00:00
 -- url     : https://prove2.me/theorems/535ae92b-8069-4173-890d-28d90680b4a7

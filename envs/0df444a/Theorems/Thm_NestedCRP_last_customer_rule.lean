@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedCRP_last_customer_rule
 -- name    : NestedCRP.last_customer_rule
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:29:01.082596+00:00
 -- url     : https://prove2.me/theorems/ed44ad10-209f-4c72-8785-f5da7a56b97d

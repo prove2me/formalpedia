@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierDimTesting102_Quantum_Supplement_fourier_support_iff_periodic
 -- name    : FourierDimTesting102.Quantum.Supplement.fourier_support_iff_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:27:20.809548+00:00
 -- url     : https://prove2.me/theorems/9ebe5d46-f980-49df-a35e-a220b04f80af

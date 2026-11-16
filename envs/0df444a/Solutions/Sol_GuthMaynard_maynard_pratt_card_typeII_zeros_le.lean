@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GuthMaynard.maynard_pratt_card_typeII_zeros_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:24:09.059213+00:00
 -- url     : https://prove2.me/submissions/a10a6526-94fc-4524-a1c2-71a6c76ea17f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Zeta23_RvM_zeta_local_zero_count

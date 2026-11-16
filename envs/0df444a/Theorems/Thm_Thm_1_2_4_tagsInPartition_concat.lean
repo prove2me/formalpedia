@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_tagsInPartition_concat
 -- name    : Thm_1_2_4.tagsInPartition_concat
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:02:57.736815+00:00
 -- url     : https://prove2.me/theorems/3e1fb143-d3ce-4741-8a75-32be01bf5e27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IAFTRL_lemma_D_18
 -- name    : IAFTRL.lemma_D_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:50:59.477564+00:00
 -- url     : https://prove2.me/theorems/0865ee5e-51c4-49ef-83fd-5f0242affc48

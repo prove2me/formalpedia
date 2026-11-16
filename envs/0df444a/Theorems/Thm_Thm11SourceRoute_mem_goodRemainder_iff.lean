@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_mem_goodRemainder_iff
 -- name    : Thm11SourceRoute.mem_goodRemainder_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:03:53.836714+00:00
 -- url     : https://prove2.me/theorems/e5cd2c50-2373-4f2f-883d-d47668bd02b1

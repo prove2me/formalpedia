@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_closedIntervalDarbouxGapSmall_of_oscillationSmall
 -- name    : Thm11SourceRoute.closedIntervalDarbouxGapSmall_of_oscillationSmall
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:59:44.027301+00:00
 -- url     : https://prove2.me/theorems/0f31dc13-0c2b-48eb-bc41-653634dc93e9

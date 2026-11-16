@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RH.Transport.dataProbe_low
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Himan
 -- created : 2026-11-15T04:05:30.822403+00:00
 -- url     : https://prove2.me/submissions/49a1866e-90c2-48e6-be5d-cfe88a03171c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HeckeSevenEighths

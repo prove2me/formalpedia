@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a26_original_paired_spatial_positive_L1
 -- name    : AvramDividend.Classical.avram_ga_a26_original_paired_spatial_positive_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T07:39:42.4254+00:00
 -- url     : https://prove2.me/theorems/871d3e18-bbcb-446e-9767-aab8dae4499f

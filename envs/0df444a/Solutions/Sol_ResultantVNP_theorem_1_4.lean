@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResultantVNP.theorem_1_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @gjindal
 -- created : 2026-11-14T08:44:31.843334+00:00
 -- url     : https://prove2.me/submissions/752eb5cc-2526-4767-ad28-b88276fe4058
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ResultantVNP_quadratic_to_tensor_circuits

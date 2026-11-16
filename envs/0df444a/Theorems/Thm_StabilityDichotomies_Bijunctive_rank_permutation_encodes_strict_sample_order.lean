@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabilityDichotomies_Bijunctive_rank_permutation_encodes_strict_sample_order
 -- name    : StabilityDichotomies.Bijunctive.rank_permutation_encodes_strict_sample_order
--- status  : Open
+-- status  : Proved
 -- author  : @wcysai
 -- created : 2026-11-13T11:17:34.615689+00:00
 -- url     : https://prove2.me/theorems/9e915643-f769-4d04-9a36-7861de9949d4

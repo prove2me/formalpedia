@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_closedIntervalDarbouxCommonLimitFromOscillation_of_gap
 -- name    : Thm11SourceRoute.closedIntervalDarbouxCommonLimitFromOscillation_of_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:08:22.230086+00:00
 -- url     : https://prove2.me/theorems/8a978af5-e340-4e0a-bd71-9924101f0ac9

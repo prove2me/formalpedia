@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GuthMaynard.primes_in_short_intervals
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-05T20:10:15.020251+00:00
 -- url     : https://prove2.me/submissions/56c15c6b-7549-4522-8717-965b35d9a597
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LindelofHypothesis_GrowthAndZeroCounts

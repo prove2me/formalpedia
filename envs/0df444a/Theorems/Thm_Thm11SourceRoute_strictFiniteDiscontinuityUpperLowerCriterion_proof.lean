@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strictFiniteDiscontinuityUpperLowerCriterion_proof
 -- name    : Thm11SourceRoute.strictFiniteDiscontinuityUpperLowerCriterion_proof
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:09:25.803213+00:00
 -- url     : https://prove2.me/theorems/2162f745-01ce-40ec-82fb-c066b9f194a7

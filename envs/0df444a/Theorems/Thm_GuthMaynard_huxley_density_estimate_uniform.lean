@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GuthMaynard_huxley_density_estimate_uniform
 -- name    : GuthMaynard.huxley_density_estimate_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-05T20:22:08.374189+00:00
 -- url     : https://prove2.me/theorems/b8b34966-a46b-46c9-b02d-f5e131238ef4

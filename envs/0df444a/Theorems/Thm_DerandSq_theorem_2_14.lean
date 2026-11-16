@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerandSq_theorem_2_14
 -- name    : DerandSq.theorem_2_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T06:06:39.543182+00:00
 -- url     : https://prove2.me/theorems/8e24f8fe-0b7b-42c7-b8d1-bd5e50ba48f5

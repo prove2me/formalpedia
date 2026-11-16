@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SEF_siegel_zero_bound_bundled
 -- name    : SEF.siegel_zero_bound_bundled
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-22T20:03:22.615478+00:00
 -- url     : https://prove2.me/theorems/bf2e2ba0-e230-4897-9f8c-28aafefb1c32

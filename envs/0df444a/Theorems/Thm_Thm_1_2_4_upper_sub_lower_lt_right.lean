@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_upper_sub_lower_lt_right
 -- name    : Thm_1_2_4.upper_sub_lower_lt_right
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:12:00.246811+00:00
 -- url     : https://prove2.me/theorems/d81de54e-bd83-4470-901e-54020cb62007

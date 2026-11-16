@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_partitionOscillation_le_goodRemainder_badIntervals
 -- name    : Thm11SourceRoute.partitionOscillation_le_goodRemainder_badIntervals
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-13T00:08:45.580792+00:00
 -- url     : https://prove2.me/theorems/542cddfd-9630-48c6-a40b-be80456ca14b

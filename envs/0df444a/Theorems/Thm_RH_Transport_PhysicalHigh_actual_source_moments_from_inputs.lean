@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RH_Transport_PhysicalHigh_actual_source_moments_from_inputs
 -- name    : RH.Transport.PhysicalHigh.actual_source_moments_from_inputs
--- status  : Open
+-- status  : Proved
 -- author  : @Himan
 -- created : 2026-11-15T04:25:21.650385+00:00
 -- url     : https://prove2.me/theorems/0dd747df-2879-4582-9a8b-76f6a0f996ad

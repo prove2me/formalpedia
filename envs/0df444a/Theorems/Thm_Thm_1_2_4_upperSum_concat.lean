@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_2_4_upperSum_concat
 -- name    : Thm_1_2_4.upperSum_concat
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:54:47.126814+00:00
 -- url     : https://prove2.me/theorems/15ce9d44-50dd-423a-852f-ce8d0e499db7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoOptAllExp_TSP_Supplement_lemma_16
 -- name    : TwoOptAllExp.TSP.Supplement.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T04:46:48.751445+00:00
 -- url     : https://prove2.me/theorems/84229a9f-5831-4e14-963f-fa6d7d8b6743

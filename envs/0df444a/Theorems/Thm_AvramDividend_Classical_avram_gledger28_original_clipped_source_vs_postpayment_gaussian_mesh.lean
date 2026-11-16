@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger28_original_clipped_source_vs_postpayment_gaussian_mesh
 -- name    : AvramDividend.Classical.avram_gledger28_original_clipped_source_vs_postpayment_gaussian_mesh
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T17:20:33.277075+00:00
 -- url     : https://prove2.me/theorems/8dcc5100-0ae6-41c9-9106-36472ab6dabb

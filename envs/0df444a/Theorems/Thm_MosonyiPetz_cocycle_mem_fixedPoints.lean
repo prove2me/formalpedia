@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MosonyiPetz_cocycle_mem_fixedPoints
 -- name    : MosonyiPetz.cocycle_mem_fixedPoints
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:46:27.470661+00:00
 -- url     : https://prove2.me/theorems/42910585-b7e8-4c9d-9a2e-d8637491a4ee

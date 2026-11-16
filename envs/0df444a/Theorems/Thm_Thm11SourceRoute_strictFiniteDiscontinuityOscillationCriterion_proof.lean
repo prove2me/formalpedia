@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_strictFiniteDiscontinuityOscillationCriterion_proof
 -- name    : Thm11SourceRoute.strictFiniteDiscontinuityOscillationCriterion_proof
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:00:16.1592+00:00
 -- url     : https://prove2.me/theorems/5562aa85-4b29-43a6-be5b-a052ef99b3fa

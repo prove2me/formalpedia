@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_finite_discontinuity_alpha_local_increment_pairwise_data
 -- name    : Thm11SourceRoute.finite_discontinuity_alpha_local_increment_pairwise_data
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:03:39.278252+00:00
 -- url     : https://prove2.me/theorems/ba5d36b8-4d5d-4703-ade1-decda6a2fd5f

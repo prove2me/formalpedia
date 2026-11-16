@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for GuthMaynard.zeroDensityCount_le_uniform
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T22:15:25.209871+00:00
 -- url     : https://prove2.me/submissions/caa0d5fe-8ad3-4c81-bde4-5e908b888aac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GuthMaynard_zeroDensityCount_le_uniform_interior
 import Theorems.Thm_GuthMaynard_huxley_density_estimate_uniform
