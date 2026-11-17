@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Control_pure_stationary_control_iff
 -- name    : BaconThesis.Control.pure_stationary_control_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:49.554112+00:00
 -- url     : https://prove2.me/theorems/9dbbf781-505f-4c4f-9468-19ee5d2fcd8f

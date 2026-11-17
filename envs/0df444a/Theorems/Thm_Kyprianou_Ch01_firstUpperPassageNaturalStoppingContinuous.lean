@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstUpperPassageNaturalStoppingContinuous
 -- name    : Kyprianou.Ch01.firstUpperPassageNaturalStoppingContinuous
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-11-15T21:41:48.436415+00:00
 -- url     : https://prove2.me/theorems/bf087980-d521-4740-8778-f532d6fb96bd

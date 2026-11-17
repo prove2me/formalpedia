@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_planar_drawing_triangulation_extension__p2m_0df19a3a_91dd_4e4b_942c_e5b79d23d807_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T06:51:24.956482+00:00
 -- url     : https://prove2.me/submissions/98b847e2-ed7b-41c1-bcec-d98f99b52d83
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_supergraph_maximal__p2m_8e688b5a_4cd6_4a71_af1c_8dd5b2ac94c3_a1

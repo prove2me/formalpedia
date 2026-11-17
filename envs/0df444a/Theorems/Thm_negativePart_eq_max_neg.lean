@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_negativePart_eq_max_neg
 -- name    : negativePart_eq_max_neg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:06:03.183202+00:00
 -- url     : https://prove2.me/theorems/4fe07eea-ef0a-47ab-9714-d31a57e1f7ec

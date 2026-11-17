@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_targetFirst_range
 -- name    : targetFirst_range
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:51.209481+00:00
 -- url     : https://prove2.me/theorems/4fa46775-a8b3-4bd6-a9b4-90f797a44899

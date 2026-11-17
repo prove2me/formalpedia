@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivPACLower_ICP_lemma_3
 -- name    : PrivPACLower.ICP.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T13:47:58.431021+00:00
 -- url     : https://prove2.me/theorems/6ca9c002-07e1-4301-b01f-45f6c0dff1a3

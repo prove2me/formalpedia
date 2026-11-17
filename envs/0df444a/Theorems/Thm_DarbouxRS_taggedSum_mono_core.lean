@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_taggedSum_mono_core
 -- name    : DarbouxRS.taggedSum_mono_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T08:39:24.328252+00:00
 -- url     : https://prove2.me/theorems/0a0cf5f8-f573-4713-98b7-c3232a06ada8

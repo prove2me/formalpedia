@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_taggedSum_le_upperSum
 -- name    : DarbouxRS.taggedSum_le_upperSum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T08:05:36.080903+00:00
 -- url     : https://prove2.me/theorems/22e29e0f-5cc8-43cf-b696-7da72aabd850

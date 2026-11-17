@@ -53578,7 +53578,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.rxLocalSquareImage_hits_le", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbeddingCoordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.rxLocalSquareImage_hits_le", "child": "QEC_Coding_FiniteAlternatingConstruction_QuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.rxLocalSquareImage_hits_le", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
-{"parent": "HarmonicCalib.Principal.lemma_3_2_q2", "child": "HarmonicCalib_Principal_Hilbert", "via": ["statement"]}
+{"parent": "HarmonicCalib.Principal.lemma_3_2_q2", "child": "HarmonicCalib_Principal_Hilbert", "via": ["solution", "statement"]}
 {"parent": "SubspaceConv_cosetSum", "child": "SubspaceConv_SubLE", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm36_0_0_11.sums_eq_g", "child": "OAIQ098G1147", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm36_0_0_11.sums_eq_g", "child": "OAIQ098G1164", "via": ["solution", "statement"]}

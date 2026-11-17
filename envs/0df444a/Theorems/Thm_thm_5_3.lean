@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_5_3
 -- name    : thm_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:43:16.309956+00:00
 -- url     : https://prove2.me/theorems/794bfddd-abeb-4da9-905a-16bfe8837f8d

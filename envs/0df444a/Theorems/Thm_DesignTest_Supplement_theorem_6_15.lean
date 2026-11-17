@@ -1,0 +1,70 @@
+-- Prove2me | Theorems.Thm_DesignTest_Supplement_theorem_6_15
+-- name    : DesignTest.Supplement.theorem_6_15
+-- status  : Open
+-- author  : @iris
+-- created : 2026-11-16T09:20:22.600446+00:00
+-- url     : https://prove2.me/theorems/7df03a03-7276-4fc1-8ffe-c1ea49fda74b
+-- title:
+--   Theorem 6.15 — Non-adaptive incoherent UFPE estimator with controlled access, no $C_U^\dagger$
+-- statement:
+--   Throughout, $d\ge2$, $t\in\{1,\dots,d\}$ and $\delta_{\mathrm{fail}}\in(0,1/3]$ (standing assumptions of §6), $F_t(\nu)=\|M_t(\nu)\|_2^2$ is the unitary frame potential, and an estimator solves $(t,\varepsilon,\delta_{\mathrm{fail}})$-UFPE on a class of inputs if, for every $\nu$ in the class, its output $\hat F_t$ satisfies $|\hat F_t-F_t(\nu)|\le\varepsilon$ with probability at least $1-\delta_{\mathrm{fail}}$. The small-frame-potential promise (125) is $F_t(\nu)\le t!+\gamma$.
+--
+--   There are universal constants $C,c>0$ such that a non-adaptive incoherent estimator in the controlled unitary access model with at most $m$ samples and at most $q$ queries to $C_U$ solves UFPE under either condition:
+--
+--   1. without a promise, for $\varepsilon\in(0,cd^{2t}]$, whenever $m\ge Cd^{4t}\varepsilon^{-2}\log(1/\delta_{\mathrm{fail}})$ and $q\ge Ct^2d^{4t}\varepsilon^{-2}\log(1/\delta_{\mathrm{fail}})$ (172);
+--   2. under the promise (125), for $\gamma\in(0,d^{2t}-t!]$ and $\varepsilon\in(0,\min\{t!+\gamma,cd^{2t}\}]$, whenever $m$ satisfies (173) (the bound (152)) and $q\ge Ct^2d^{4t}\varepsilon^{-2}\log(1/\delta_{\mathrm{fail}})$ (174).
+--
+--   In each case the conditions on $m$ and $q$ are met by the same estimator, and no query to $C_U^\dagger$ is required.
+--
+--   Differences from the source:
+--   - encoding: O(·) / Ω(·) with universal implicit constants → ∃ C > 0 chosen before every other parameter; reason: the theorem states the constants are universal
+--   - encoding: d ≥ 2, t ∈ [d], δ_fail ∈ (0, 1/3] stated once for §6 (p.76) → explicit hypotheses of the theorem; reason: standing assumptions of the section
+--   - encoding: algorithms with internal randomness and quantum measurements → RandProc: arbitrary measurable seed space, finite-outcome measurements, output function of seed and transcript; reason: a continuous-outcome measurement in finite dimension is a randomization of finite-outcome ones plus post-processing (Chiribella–D'Ariano–Schlingemann 2007); finite-dimensional strategies have finite-outcome classical control
+-- source:
+--   Kawachi–Nakata–Takeuchi, Testing State and Unitary Designs, STOC 2027 submission (sha256 e2f0a429…), Theorem 6.15, p.107-108 (PDF p.110-111)
+
+import Mathlib
+import Definitions.Def_DesignTest_Supplement_CAI
+
+set_option autoImplicit false
+
+namespace DesignTest.Supplement
+
+open MeasureTheory RandomGateDesign.MasterBound
+
+/-- **Theorem 6.15** (Non-adaptive incoherent estimators for UFPE in the controlled unitary access model).
+A. Kawachi, Y. Nakata, Y. Takeuchi, *Testing State and Unitary Designs*, STOC 2027 submission (sha256 e2f0a429…), Theorem 6.15, eqs. (172)–(174), pp.107–108.
+
+There are universal constants `C, c > 0` such that a non-adaptive incoherent estimator in the controlled
+unitary access model solves `(t, ε, δ_fail)`-UFPE using at most `m` independent samples and at most `q` queries
+to `C_U` under either condition:
+1. without a promise, for `ε ∈ (0, c d^{2t}]`, it suffices that `m ≥ C d^{4t}/ε² · log(1/δ_fail)` and
+`q ≥ C t² d^{4t}/ε² · log(1/δ_fail)` (172);
+2. under the promise (125), for `γ ∈ (0, d^{2t} − t!]` and `ε ∈ (0, min{t! + γ, c d^{2t}}]`, it suffices that
+`m ≥ C[1 + d^t/ε² (γ/C(d,t) + γ^{3/2}) + d^t √(t! + γ)/ε] log(1/δ_fail)` (173) and
+`q ≥ C t² d^{4t}/ε² · log(1/δ_fail)` (174).
+In each case the conditions on `m` and `q` are satisfied by the same estimator, and no query to `C_U†` is
+required.
+
+**Formalization Note.** Standing assumptions of §6 (p.76): `d ≥ 2`, `t ∈ [d] = {1, …, d}`, `δ_fail ∈ (0, 1/3]`. `F_t(ν)` is `unitaryFP ν t`;
+the small-frame-potential promise (125) is `F_t(ν) ≤ t! + γ`. An estimator "solves" the problem on a class of
+inputs if, for every probability measure `ν` in the class, its output `F̂` satisfies `|F̂ − F_t(ν)| ≤ ε` with
+probability at least `1 − δ_fail`. The estimator is a `CAIProc d m q w K` whose every seed gives a non-adaptive algorithm
+(`IsNonAdaptive`) with no `C_U†` call (`NoInverse`). `C`, `c` are chosen first. -/
+theorem theorem_6_15 :
+    ∃ C c : ℝ, 0 < C ∧ 0 < c ∧ ∀ d t : ℕ, 2 ≤ d → 1 ≤ t → t ≤ d → ∀ δ : ℝ, 0 < δ → δ ≤ 1 / 3 →
+      (∀ ε : ℝ, 0 < ε → ε ≤ c * (d : ℝ) ^ (2 * t) → ∀ m q : ℕ,
+        C * (d : ℝ) ^ (4 * t) / ε ^ 2 * Real.log (1 / δ) ≤ (m : ℝ) →
+        C * (t : ℝ) ^ 2 * (d : ℝ) ^ (4 * t) / ε ^ 2 * Real.log (1 / δ) ≤ (q : ℝ) →
+        ∃ (w K : ℕ) (T : CAIProc d m q w K),
+          (∀ ω, (T.alg ω).IsNonAdaptive ∧ (T.alg ω).NoInverse) ∧
+          ∀ (ν : Measure (U d)) [IsProbabilityMeasure ν], 1 - δ ≤ T.successProb ν (unitaryFP ν t) ε) ∧
+      (∀ γ ε : ℝ, 0 < γ → γ ≤ (d : ℝ) ^ (2 * t) - (Nat.factorial t : ℝ) → 0 < ε → ε ≤ min ((Nat.factorial t : ℝ) + γ) (c * (d : ℝ) ^ (2 * t)) → ∀ m q : ℕ,
+        C * (1 + (d : ℝ) ^ t / ε ^ 2 * (γ / (Nat.choose d t : ℝ) + γ ^ ((3 : ℝ) / 2)) +
+          (d : ℝ) ^ t * Real.sqrt ((Nat.factorial t : ℝ) + γ) / ε) * Real.log (1 / δ) ≤ (m : ℝ) →
+        C * (t : ℝ) ^ 2 * (d : ℝ) ^ (4 * t) / ε ^ 2 * Real.log (1 / δ) ≤ (q : ℝ) →
+        ∃ (w K : ℕ) (T : CAIProc d m q w K),
+          (∀ ω, (T.alg ω).IsNonAdaptive ∧ (T.alg ω).NoInverse) ∧
+          ∀ (ν : Measure (U d)) [IsProbabilityMeasure ν], unitaryFP ν t ≤ (Nat.factorial t : ℝ) + γ → 1 - δ ≤ T.successProb ν (unitaryFP ν t) ε) := by sorry
+
+end DesignTest.Supplement

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sourceSupIntegral_eq_lintegral
 -- name    : sourceSupIntegral_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:01:06.081204+00:00
 -- url     : https://prove2.me/theorems/0195ccb9-5bd6-408a-86e7-5056d5d6c5ba

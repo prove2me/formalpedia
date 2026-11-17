@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.exists_jHolomorphic_family_of_fastPlane
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-08T22:47:52.597484+00:00
 -- url     : https://prove2.me/submissions/eb424675-dd81-489d-b5a2-900c99a190d0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_CylClose
 import Theorems.Thm_FiniteEnergyPlane_exists_hasEigenWind_window

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DOPriorityQueue_Construction_lemma_5_2
 -- name    : DOPriorityQueue.Construction.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:02:18.852082+00:00
 -- url     : https://prove2.me/theorems/5ed6b5a3-2516-4897-a092-a017e68c8d55

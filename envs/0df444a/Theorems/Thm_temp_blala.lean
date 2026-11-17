@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_temp_blala
 -- name    : temp_blala
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:07:02.016947+00:00
 -- url     : https://prove2.me/theorems/985da591-3bfc-4196-9aa0-d0248dc83794

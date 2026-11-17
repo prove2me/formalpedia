@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BranchSpectral_critical_atom_nonneg
 -- name    : BranchSpectral.critical_atom_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-16T05:47:34.084509+00:00
 -- url     : https://prove2.me/theorems/197767b1-51d1-436f-80c5-d8ce2a861749

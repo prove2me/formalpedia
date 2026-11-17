@@ -15,7 +15,7 @@
 --
 --   **Formalization Note.** Mathlib's class `IsZLattice ℝ L` takes the discreteness of $L$ as a `DiscreteTopology` instance argument (provided for every lattice family by the instance `discreteTopology_realLattice`) and has the single field `span_top : span ℝ L = ⊤`. Here $\mathbb R^M$ is the function space `M → ℝ`, and $\Lambda_{\mathbb R}$ is `LatticeFamily.realLattice`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Section 3 (Preliminaries, \label{sec:preliminaries}), definition of full-rank lattices, and the full-rank condition of Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Lattices/Mathlib.lean, LatticePrepro.LatticeFamily.isZLattice_realLattice
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Section 3 (Preliminaries, \label{sec:preliminaries}), definition of full-rank lattices, and the full-rank condition of Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Lattices/Mathlib.lean, LatticePrepro.LatticeFamily.isZLattice_realLattice
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

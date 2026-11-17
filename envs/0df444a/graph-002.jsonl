@@ -83384,7 +83384,7 @@
 {"parent": "MNLBandit.UCB.lemma_A_1", "child": "MNLBandit_UCB_EpochLaw", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.UCB.lemma_A_1", "child": "MNLBandit_UCB_Setting", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.UCB.lemma_A_2", "child": "ChoiceCDLP_MNL_mnlObjective", "via": ["statement"]}
-{"parent": "MNLBandit.UCB.lemma_A_2", "child": "MNLBandit_UCB_Algorithm1", "via": ["statement"]}
+{"parent": "MNLBandit.UCB.lemma_A_2", "child": "MNLBandit_UCB_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.UCB.lemma_A_2", "child": "MNLBandit_UCB_Setting", "via": ["statement"]}
 {"parent": "MNLBandit.UCB.lemma_A_3", "child": "ChoiceCDLP_MNL_mnlObjective", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.UCB.lemma_A_3", "child": "MNLBandit_UCB_Setting", "via": ["solution", "statement"]}
@@ -83399,7 +83399,7 @@
 {"parent": "MNLBandit.WellSeparated.lemma_4_1", "child": "ChoiceCDLP_MNL_mnlObjective", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.WellSeparated.lemma_4_1", "child": "MNLBandit_WellSeparated_Setting", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.WellSeparated.lemma_4_3", "child": "ChoiceCDLP_MNL_mnlObjective", "via": ["statement"]}
-{"parent": "MNLBandit.WellSeparated.lemma_4_3", "child": "MNLBandit_WellSeparated_Setting", "via": ["statement"]}
+{"parent": "MNLBandit.WellSeparated.lemma_4_3", "child": "MNLBandit_WellSeparated_Setting", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.WellSeparated.lemma_6_1", "child": "ChoiceCDLP_MNL_mnlObjective", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.WellSeparated.lemma_6_1", "child": "MNLBandit_WellSeparated_Setting", "via": ["solution", "statement"]}
 {"parent": "MNLBandit.WellSeparated.lemma_6_2", "child": "ChoiceCDLP_MNL_mnlObjective", "via": ["solution", "statement"]}
@@ -86041,7 +86041,7 @@
 {"parent": "MazurCampaign.no_order_thirty_five", "child": "MazurHuang.exists_X0_thirtyFive_point_of_X0_five_seven_fiber", "via": ["solution"]}
 {"parent": "MazurCampaign.no_order_twenty", "child": "MazurCampaign.no_two_ten", "via": ["solution"]}
 {"parent": "MazurCampaign.no_order_twenty", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}
-{"parent": "MazurCampaign.no_order_twenty_five", "child": "MazurCampaign_group_constraints", "via": ["statement"]}
+{"parent": "MazurCampaign.no_order_twenty_five", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}
 {"parent": "MazurCampaign.no_order_twenty_four", "child": "MazurCampaign.no_two_twelve", "via": ["solution"]}
 {"parent": "MazurCampaign.no_order_twenty_four", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}
 {"parent": "MazurCampaign.no_order_twenty_one", "child": "MazurCampaign_group_constraints", "via": ["solution", "statement"]}

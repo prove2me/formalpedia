@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dirac_step_function_tendsto_atBot
 -- name    : dirac_step_function_tendsto_atBot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:57:54.206167+00:00
 -- url     : https://prove2.me/theorems/17c5b69d-5941-465c-b99b-d3c6d332b303

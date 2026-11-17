@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_completion_with_euler_edge_count__p2m_ef27f67c_bfde_4fe0_af12_0939b2f8ce56_a2
 -- name    : WilliamsonShmoys_planar_drawing_completion_with_euler_edge_count__p2m_ef27f67c_bfde_4fe0_af12_0939b2f8ce56_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:01:38.819196+00:00
 -- url     : https://prove2.me/theorems/b372cfef-764e-41b9-a3f0-cf4f0282f71c

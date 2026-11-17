@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Refinement_subinterval_subset_of_mem_block
 -- name    : Refinement.subinterval_subset_of_mem_block
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:51:18.555246+00:00
 -- url     : https://prove2.me/theorems/805ae608-bcc9-4728-b276-8d7874edf2ff

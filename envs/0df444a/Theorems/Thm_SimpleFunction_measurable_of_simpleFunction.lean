@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_measurable_of_simpleFunction
 -- name    : SimpleFunction.measurable_of_simpleFunction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:21:38.92734+00:00
 -- url     : https://prove2.me/theorems/22817a88-6c17-4566-b0ad-29eedafc12ee

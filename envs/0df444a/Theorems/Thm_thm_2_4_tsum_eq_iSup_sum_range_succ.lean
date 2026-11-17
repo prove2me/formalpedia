@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_tsum_eq_iSup_sum_range_succ
 -- name    : thm_2_4_tsum_eq_iSup_sum_range_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:20:30.712397+00:00
 -- url     : https://prove2.me/theorems/4d5848bd-95d4-4f78-93dc-11dd3b9fa795

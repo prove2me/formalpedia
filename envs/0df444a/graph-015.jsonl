@@ -14642,8 +14642,8 @@
 {"parent": "AggStatePG.bellman_chain", "child": "AggStatePG_Vstar", "via": ["statement"]}
 {"parent": "AggStatePG.bellman_chain", "child": "AggStatePG_bellmanOpt", "via": ["statement"]}
 {"parent": "JakulinBratko_H", "child": "JakulinBratko_marg", "via": ["statement"]}
-{"parent": "BaconThesis.WeakUniv.theorem_B_0_1", "child": "BaconThesis_WeakUniv_lieAlg", "via": ["statement"]}
-{"parent": "BaconThesis.WeakUniv.theorem_B_0_1", "child": "BaconThesis_WeakUniv_dfsProj", "via": ["statement"]}
+{"parent": "BaconThesis.WeakUniv.theorem_B_0_1", "child": "BaconThesis_WeakUniv_lieAlg", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.WeakUniv.theorem_B_0_1", "child": "BaconThesis_WeakUniv_dfsProj", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P82.force_leading_h", "child": "QAlgorithms_Papers_Independent_Intakenext100_P82", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_lower_bound__p2m_43a07344_7f08_4c1d_acca_1e4a761282d7_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P11.hybrid_ratePair", "child": "QAlgorithms_Papers_Independent_Intakethird100_P11", "via": ["statement"]}
@@ -15081,9 +15081,9 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_15_4_0_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_15_4_0_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_15_4_0_s50", "child": "OAIQ050L001", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_3_1", "child": "BaconThesis_Commutant_blockC", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_3_1", "child": "BaconThesis_Commutant_algebraA", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_3_1", "child": "BaconThesis_Commutant_irrepProj", "via": ["statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_3_1", "child": "BaconThesis_Commutant_blockC", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_3_1", "child": "BaconThesis_Commutant_algebraA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_3_1", "child": "BaconThesis_Commutant_irrepProj", "via": ["solution", "statement"]}
 {"parent": "LowRankMEG_gammaConst", "child": "LowRankMEG_lam", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P68.symmetricBackwardWitness", "child": "QAlgorithms_Papers_Independent_Intakenext100_P68", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_connected_extension_core__p2m_b7056521_a4a1_40e5_a0cb_f48952c4d7e1_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -15240,7 +15240,7 @@
 {"parent": "ProjFPOracle.theorem_1", "child": "ProjFPOracle_projMat", "via": ["statement"]}
 {"parent": "ProjFPOracle.theorem_1", "child": "ProjFPOracle_Phi", "via": ["statement"]}
 {"parent": "ProjFPOracle.theorem_1", "child": "ProjFPOracle_IsObsModel", "via": ["statement"]}
-{"parent": "BaconThesis.DFS.eq_5_14", "child": "BaconThesis_DFS_osrOp", "via": ["statement"]}
+{"parent": "BaconThesis.DFS.eq_5_14", "child": "BaconThesis_DFS_osrOp", "via": ["solution", "statement"]}
 {"parent": "DivQuotient.theorem_1_if", "child": "DivQuotient_DQ", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_20_9_5_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_23_7_15_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
@@ -15249,7 +15249,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_16_7_7_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_16_7_7_s50", "child": "OAIQ050L002", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_16_7_7_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Intakethird100.P15.generatingTrace_stripAnalyticity", "child": "QAlgorithms_Papers_Independent_Intakethird100_P15", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Intakethird100.P15.generatingTrace_stripAnalyticity", "child": "QAlgorithms_Papers_Independent_Intakethird100_P15", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Intakethird100_P47", "child": "QAlgorithms_Defs_Ensemble", "via": ["statement"]}
 {"parent": "QAlgorithms_Papers_Independent_Intakethird100_P47", "child": "QAlgorithms_Defs_Information", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_2_6_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
@@ -16358,7 +16358,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P47.nonuniform_input_entropy", "child": "QAlgorithms_Papers_Independent_Intakethird100_P47", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_extension__p2m_ac4b6b7c_6a36_45ce_9f61_962873444f22_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.planar_edge_count_upper_bound__p2m_0d2111fe_49a0_4983_b8b9_46fbb1acc127_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.DFS.eq_2_12", "child": "BaconThesis_DFS_osrOp", "via": ["statement"]}
+{"parent": "BaconThesis.DFS.eq_2_12", "child": "BaconThesis_DFS_osrOp", "via": ["solution", "statement"]}
 {"parent": "CollectiveDFS_szEigenspace", "child": "CollectiveDFS_partialS", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_drawable_graph_connected__p2m_a79da144_fcf1_49a7_8693_9dcdff9b3064_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_13_2_2_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
@@ -18114,10 +18114,10 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_2_8_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_2_8_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
 {"parent": "WildeQIT_Schumacher_typicalProjector", "child": "WildeQIT_typicalSet", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_20", "child": "BaconThesis_Stability_encode", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_20", "child": "BaconThesis_Stability_IsBlockForm", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_20", "child": "BaconThesis_Stability_rate", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_20", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "BaconThesis.Stability.eq_6_20", "child": "BaconThesis_Stability_encode", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_20", "child": "BaconThesis_Stability_IsBlockForm", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_20", "child": "BaconThesis_Stability_rate", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_20", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_6_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_6_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_6_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -19616,7 +19616,7 @@
 {"parent": "OAI.Laughlin.Certificate.computeLDL_16_7_0_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_16_7_0_s50", "child": "OAIQ050L002", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_16_7_0_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Multilevel.preserved_subspace_levels", "child": "BaconThesis_Multilevel_PreservesSubspace", "via": ["statement"]}
+{"parent": "BaconThesis.Multilevel.preserved_subspace_levels", "child": "BaconThesis_Multilevel_PreservesSubspace", "via": ["solution", "statement"]}
 {"parent": "DattaDiscord_condState", "child": "QAlgorithms_Defs_Ensemble", "via": ["statement"]}
 {"parent": "DattaDiscord_condState", "child": "QAlgorithms_Defs_Information", "via": ["statement"]}
 {"parent": "DattaDiscord_condState", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
@@ -19978,11 +19978,11 @@
 {"parent": "NoRegretLastIterate.lemma_3_2", "child": "RankOneBimatrix_BinSearch_Game", "via": ["statement"]}
 {"parent": "NoRegretLastIterate.lemma_3_2", "child": "NoRegretLastIterate_Strategy", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_21_19_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_HA", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_evol", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_5", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_IsFixedBasis", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_coeffOp", "via": ["statement"]}
+{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_HA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_evol", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_5", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_IsFixedBasis", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_5", "child": "BaconThesis_Control_coeffOp", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_22_7_15_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "GreedyReusableNet_DecayingReward", "child": "GreedyReusableNet_ProblemInstance", "via": ["statement"]}
 {"parent": "QseriesFormalization.PartI.Ch04Franklin.Z_eq_fermionicProduct", "child": "QseriesFormalization_Chapter05_BosonFermion", "via": ["statement"]}
@@ -21957,11 +21957,11 @@
 {"parent": "ConvBoundsQA.eq_13", "child": "ConvBoundsQA_tailDist", "via": ["statement"]}
 {"parent": "ConvBoundsQA.eq_13", "child": "ConvBoundsQA_qPlus", "via": ["statement"]}
 {"parent": "CompetingAgents_bestResponse", "child": "CompetingAgents_noiseCDF", "via": ["statement"]}
-{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_StationaryControlMixed", "via": ["statement"]}
-{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_HA", "via": ["statement"]}
-{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_IsFixedBasis", "via": ["statement"]}
-{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_coeffOp", "via": ["statement"]}
+{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_StationaryControlMixed", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_HA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_IsFixedBasis", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.mixed_stationary_control_iff", "child": "BaconThesis_Control_coeffOp", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P89.balanced_cluster_size", "child": "QAlgorithms_Papers_Independent_Intakenext100_P89", "via": ["solution", "statement"]}
 {"parent": "OAIQ075A019", "child": "OAIQ075A014", "via": ["statement"]}
 {"parent": "OAIQ075A019", "child": "OAIQ075A013", "via": ["statement"]}
@@ -22666,10 +22666,10 @@
 {"parent": "WilliamsonShmoys.planar_drawing_connected_edge_bound__p2m_4939bc54_bf93_4b2e_bbee_bc8378b5882a_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_maximal_completion__p2m_8b510604_ecbe_41a0_8ffc_c43a355d8485_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_core_decomposition__p2m_5d9b8ff2_1349_4ea9_a2d4_f406c9d22c5b_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_blockC", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_algebraA", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_irrepProj", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_lieGen", "via": ["statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_blockC", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_algebraA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_irrepProj", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_3_2", "child": "BaconThesis_Commutant_lieGen", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P47.hardy_no_mixed_state", "child": "QAlgorithms_Papers_Independent_Intakethird100_P47", "via": ["statement"]}
 {"parent": "OAI.BoltzmannNonuniqueness.PeriodicApproximation.GlobalCollisionLimit.positive_survival_lower_q80", "child": "BoltzmannNonuniqueness", "via": ["solution", "statement"]}
 {"parent": "OAI.BoltzmannNonuniqueness.PeriodicApproximation.GlobalCollisionLimit.positive_survival_lower_q80", "child": "OAIQ080A002", "via": ["solution", "statement"]}
@@ -22687,14 +22687,14 @@
 {"parent": "OAI.MetricKMedian.Certificates.a_approximation_s53", "child": "OAIQ053K000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_19_9_15_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P71.braidedButterfly_transfer", "child": "QAlgorithms_Papers_Independent_Intakenext100_P71", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_IsGroundEnergy", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_S2", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_S1", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "QMaxCutSDP_Rounding_Pauli", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_groundSpace", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_Z1bar", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_codeHamiltonian", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_X1bar", "via": ["statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_IsGroundEnergy", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_S2", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_S1", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "QMaxCutSDP_Rounding_Pauli", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_groundSpace", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_Z1bar", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_codeHamiltonian", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.ground_state_in_sector", "child": "BaconThesis_Supercoherence_X1bar", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_8_10_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_8_10_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_22_8_10_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -23253,8 +23253,8 @@
 {"parent": "CondEntanglement_cs", "child": "QAlgorithms_Papers_Independent_Claimed50_P33", "via": ["statement"]}
 {"parent": "CondEntanglement_cs", "child": "CondEntanglement_csValues", "via": ["statement"]}
 {"parent": "OAI.PositiveEinsteinFour.HighestHessian.totalMinus_entry_2_2_1", "child": "OAIQ091C015", "via": ["statement"]}
-{"parent": "BaconThesis.Universality.lemma_4_3_2", "child": "BaconThesis_Universality_compGraph", "via": ["statement"]}
-{"parent": "BaconThesis.Universality.lemma_4_3_2", "child": "BaconThesis_Universality_denseGen", "via": ["statement"]}
+{"parent": "BaconThesis.Universality.lemma_4_3_2", "child": "BaconThesis_Universality_compGraph", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Universality.lemma_4_3_2", "child": "BaconThesis_Universality_denseGen", "via": ["solution", "statement"]}
 {"parent": "HedgePSNV.theorem_2", "child": "HedgePSNV_Hedging", "via": ["solution", "statement"]}
 {"parent": "HedgePSNV.theorem_2", "child": "StochasticOrders_Usual_UsualOrder", "via": ["solution", "statement"]}
 {"parent": "WildeQIT_QErasure_QCode", "child": "WildeQIT_QChannel", "via": ["statement"]}
@@ -23723,8 +23723,8 @@
 {"parent": "ManIAL.proposition_2_5", "child": "SAGA_StronglyConvex_IsProxPoint", "via": ["statement"]}
 {"parent": "ManIAL.proposition_2_5", "child": "KallMayerSLP_KKT_subdifferential", "via": ["statement"]}
 {"parent": "ManIAL.proposition_2_5", "child": "BnBPEP_WeakCvx_moreauEnv", "via": ["statement"]}
-{"parent": "BaconThesis.DFS.eq_2_9_2_11", "child": "BaconThesis_DFS_osrOp", "via": ["statement"]}
-{"parent": "BaconThesis.DFS.eq_2_9_2_11", "child": "BaconThesis_DFS_osrEvolve", "via": ["statement"]}
+{"parent": "BaconThesis.DFS.eq_2_9_2_11", "child": "BaconThesis_DFS_osrOp", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.DFS.eq_2_9_2_11", "child": "BaconThesis_DFS_osrEvolve", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_p1_sigma_finite_marked_predictable_measure_unique", "child": "AvramDividend.Classical.avram_wave4_p1_finite_marked_predictable_measure_unique", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_05_source_hjb_of_ruin_overshoot_integral_bound_of_levy", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_05_source_hjb_of_ruin_overshoot_integral_bound_of_levy", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -23839,8 +23839,8 @@
 {"parent": "EThetaPoula.Risk.lemma_6_1", "child": "EThetaPoula_Risk_IsStandardBrownian", "via": ["statement"]}
 {"parent": "SingleFactorPricing.LogBound.aggregateProfit_factor_eq", "child": "SingleFactorPricing_LogBound_aggregateProfit", "via": ["solution", "statement"]}
 {"parent": "SingleFactorPricing.LogBound.aggregateProfit_factor_eq", "child": "SingleFactorPricing_LogBound_factorDemand", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Supercoherence.sector_eigenvalues", "child": "BaconThesis_Supercoherence_sectorSpectrum", "via": ["statement"]}
-{"parent": "BaconThesis.Supercoherence.sector_eigenvalues", "child": "QMaxCutSDP_Rounding_Pauli", "via": ["statement"]}
+{"parent": "BaconThesis.Supercoherence.sector_eigenvalues", "child": "BaconThesis_Supercoherence_sectorSpectrum", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Supercoherence.sector_eigenvalues", "child": "QMaxCutSDP_Rounding_Pauli", "via": ["solution", "statement"]}
 {"parent": "ShrinkingUCB.eq_4", "child": "ShrinkingUCB_alpha", "via": ["statement"]}
 {"parent": "ShrinkingUCB.eq_4", "child": "ShrinkingUCB_ConfidenceBounds", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_13_13_11_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
@@ -27097,8 +27097,8 @@
 {"parent": "OAI.MetricKMedian.Certificates.discr_0_2_positive_s53", "child": "OAIQ053K002", "via": ["solution", "statement"]}
 {"parent": "WildeQIT_Schumacher_CompressionCode", "child": "WildeQIT_QChannel", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P88.hybrid_four_point", "child": "QAlgorithms_Papers_Independent_Intakenext100_P88", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.eq_5_39", "child": "BaconThesis_Commutant_algebraA", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.eq_5_39", "child": "BaconThesis_Commutant_blockC", "via": ["statement"]}
+{"parent": "BaconThesis.Commutant.eq_5_39", "child": "BaconThesis_Commutant_algebraA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.eq_5_39", "child": "BaconThesis_Commutant_blockC", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.connected_planar_drawing_face_count_certificate__p2m_230ef2ff_d0ad_4b7a_9595_07bea2af44fc_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Rotation.source_spin_commutant_scalar_s50", "child": "OAIQ050L016", "via": ["solution", "statement"]}
 {"parent": "BernoulliPoA.subcase_2_1", "child": "BernoulliPoA_InClassQ", "via": ["statement"]}
@@ -27785,10 +27785,10 @@
 {"parent": "SubmodPerfect_Wheels", "child": "SubmodPerfect_Graphs", "via": ["statement"]}
 {"parent": "SubmodPerfect_Wheels", "child": "StrongPerfectGraph_Main_IsPerfect", "via": ["statement"]}
 {"parent": "IDEPoA.lemma_3_8", "child": "IDEPoA_Model", "via": ["statement"]}
-{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_coeffOp", "via": ["statement"]}
-{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_HA", "via": ["statement"]}
-{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_StationaryControlPure", "via": ["statement"]}
-{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_IsFixedBasis", "via": ["statement"]}
+{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_coeffOp", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_HA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_StationaryControlPure", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.pure_stationary_control_iff", "child": "BaconThesis_Control_IsFixedBasis", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_23_7_19_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "ProjFPOracle.eq_45a", "child": "ProjFPOracle_kappa", "via": ["statement"]}
 {"parent": "ProjFPOracle.eq_45a", "child": "ProjFPOracle_projMat", "via": ["statement"]}
@@ -28213,10 +28213,10 @@
 {"parent": "QAlgorithms_Papers_Independent_Intakethird100_P42", "child": "QAlgorithms_Defs_MatrixDistances", "via": ["statement"]}
 {"parent": "MarkdownReadjust_rhoD", "child": "MarkdownReadjust_Model", "via": ["statement"]}
 {"parent": "HeisenbergRep.Knill.anticommute_conj_neg", "child": "QAlgorithms_Defs_QECC", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "BaconThesis_Commutant_spectralProj", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "BaconThesis_Commutant_algebraA", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "BaconThesis_Commutant_irrepProj", "via": ["statement"]}
-{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "BaconThesis_Commutant_spectralProj", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "BaconThesis_Commutant_algebraA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "BaconThesis_Commutant_irrepProj", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Commutant.lemma_7_4_1", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "OLPRegret.lemma_2", "child": "OLPRegret_Assumptions", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Spin.relativeHighestNorm_tendsto_s50", "child": "OAIQ050L015", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_8_9_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
@@ -28275,8 +28275,8 @@
 {"parent": "AvramDividend.Classical.avram_wave4_02_true_localtime_positive_mass", "child": "AvramDividend_Classical_Reflection", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_02_true_localtime_positive_mass", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_02_true_localtime_positive_mass", "child": "AvramDividend.Classical.runningSup_monotone_and_path_le", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Control.eq_3_6", "child": "BaconThesis_Control_evol", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_6", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "BaconThesis.Control.eq_3_6", "child": "BaconThesis_Control_evol", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_6", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "ConvBoundsQA.eq_EC_6", "child": "ConvBoundsQA_Lam", "via": ["statement"]}
 {"parent": "ConvBoundsQA.eq_EC_6", "child": "ConvBoundsQA_qPlus", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_21_15_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
@@ -28531,10 +28531,10 @@
 {"parent": "AvramDividend.Classical.avram_wave4_p3_vcstar_hjb_at_positive_cap_without_above_control", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_supergraph_triangulation_edge_count__p2m_55f05514_7638_497a_97e5_69010ecc6b61_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_22_11_7_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Stability.eq_6_26", "child": "BaconThesis_Stability_encode", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_26", "child": "BaconThesis_Stability_IsBlockForm", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_26", "child": "BaconThesis_Stability_rate", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_26", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "BaconThesis.Stability.eq_6_26", "child": "BaconThesis_Stability_encode", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_26", "child": "BaconThesis_Stability_IsBlockForm", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_26", "child": "BaconThesis_Stability_rate", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_26", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_21_4_10_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_21_4_10_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_21_4_10_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -28949,7 +28949,7 @@
 {"parent": "OAI.Laughlin.Certificate.yRow_7_7_5_5_s50", "child": "OAIQ050L001", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.yRow_7_7_5_5_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_triangulation_extension__p2m_b554ef36_a96a_42de_b297_4474260662ac_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Commutant.double_commutant", "child": "BaconThesis_Commutant_algebraA", "via": ["statement"]}
+{"parent": "BaconThesis.Commutant.double_commutant", "child": "BaconThesis_Commutant_algebraA", "via": ["solution", "statement"]}
 {"parent": "WildeQIT_QMemory_idTensorChannel", "child": "WildeQIT_QChannel", "via": ["statement"]}
 {"parent": "RapidRatePoisson.WeakConv.theorem_1_of_indepF", "child": "RapidRatePoisson_WeakConv_Model", "via": ["statement"]}
 {"parent": "SelfGuidedALP_IsAlgorithm2Run", "child": "SelfGuidedALP_IsFALPOptimal", "via": ["statement"]}
@@ -29093,8 +29093,8 @@
 {"parent": "OAI.PositiveEinsteinFour.Geometry.MetricGreenData.traceGreen", "child": "EinsteinFour", "via": ["solution", "statement"]}
 {"parent": "OAI.PositiveEinsteinFour.Geometry.MetricGreenData.traceGreen", "child": "OAIQ091C018", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_10_7_3_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Universality.lemma_4_3_1", "child": "BaconThesis_Universality_denseGen", "via": ["statement"]}
-{"parent": "BaconThesis.Universality.lemma_4_3_1", "child": "BaconThesis_Universality_SUOn", "via": ["statement"]}
+{"parent": "BaconThesis.Universality.lemma_4_3_1", "child": "BaconThesis_Universality_denseGen", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Universality.lemma_4_3_1", "child": "BaconThesis_Universality_SUOn", "via": ["solution", "statement"]}
 {"parent": "MinSharing.lemma_2_1", "child": "CompetitiveChores_RichFamily_Setting", "via": ["statement"]}
 {"parent": "MinSharing.lemma_2_1", "child": "MinSharing_Setting", "via": ["statement"]}
 {"parent": "MinSharing.lemma_2_1", "child": "MinSharing_DirectedConsumptionGraph", "via": ["statement"]}
@@ -29251,7 +29251,7 @@
 {"parent": "OAI.Laughlin.Certificate.yRow_7_5_3_5_s50", "child": "OAIQ050L001", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.yRow_7_5_3_5_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_19_9_11_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.DFS.theorem_5_3_1", "child": "BaconThesis_DFS_IsDFS", "via": ["statement"]}
+{"parent": "BaconThesis.DFS.theorem_5_3_1", "child": "BaconThesis_DFS_IsDFS", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedian.PCP.PortCSP.projection_expands_s53", "child": "OAIQ053K043", "via": ["solution", "statement"]}
 {"parent": "OAI.PositiveEinsteinFour.Geometry.MetricGreenData.plusHVariance", "child": "EinsteinFour", "via": ["solution", "statement"]}
 {"parent": "OAI.PositiveEinsteinFour.Geometry.MetricGreenData.plusHVariance", "child": "OAIQ091C018", "via": ["solution", "statement"]}
@@ -29741,7 +29741,7 @@
 {"parent": "FracMPGA.lemma_4_5", "child": "FracMPGA_proxSet", "via": ["statement"]}
 {"parent": "HeisenbergRep.Knill.knill_theorem", "child": "HeisenbergRep_Knill_GKFamily", "via": ["statement"]}
 {"parent": "OAI.JointDickman.squarefree_integer_rational_polylog_sum_bound_jd", "child": "OAIQ083J001", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.exists_straight_line_triangulation__p2m_9b625ce0_21a3_499d_bb1b_40258fa2706e_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.exists_straight_line_triangulation__p2m_9b625ce0_21a3_499d_bb1b_40258fa2706e_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "ShendeQSD_Synthesis_gateLib", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_p1_original_marked_l2_tail_from_levy_envelope_without_sfinite", "child": "AvramDividend.Classical.avram_wave4_p1_null_zero_energy_canonical_mark_band_exhaustion", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_p1_original_marked_l2_tail_from_levy_envelope_without_sfinite", "child": "AvramDividend.Classical.avram_wave4_p1_stopped_marked_l2_product_band_exhaustion", "via": ["solution", "statement"]}
@@ -32271,10 +32271,10 @@
 {"parent": "AvramDividend.Classical.avram_wave4_04_ubv_all_cap_actual_admissible_generator_interior_sigma_finite", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "StatefulPricing.thm_3_4_proof_potential", "child": "StatefulPricing_Instance", "via": ["statement"]}
 {"parent": "StatefulPricing.thm_3_4_proof_potential", "child": "StatefulPricing_Chase", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_27", "child": "BaconThesis_Stability_encode", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_27", "child": "BaconThesis_Stability_IsBlockForm", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_27", "child": "BaconThesis_Stability_rate", "via": ["statement"]}
-{"parent": "BaconThesis.Stability.eq_6_27", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
+{"parent": "BaconThesis.Stability.eq_6_27", "child": "BaconThesis_Stability_encode", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_27", "child": "BaconThesis_Stability_IsBlockForm", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_27", "child": "BaconThesis_Stability_rate", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Stability.eq_6_27", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_11_7_11_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "LocalDOvS.SUS.case_II", "child": "LocalDOvS_SUS_DiscConvex", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_6_2_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
@@ -32403,10 +32403,10 @@
 {"parent": "OAIQ075A014", "child": "OAIQ075A009", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_21_13_17_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_maximal_supergraph_exists__p2m_afb5df26_e4fb_4772_9aa3_0e4304c46b48_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Control.eq_3_9", "child": "BaconThesis_Control_coeffOp", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_9", "child": "BaconThesis_Control_HA", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_9", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "BaconThesis.Control.eq_3_9", "child": "BaconThesis_Control_IsFixedBasis", "via": ["statement"]}
+{"parent": "BaconThesis.Control.eq_3_9", "child": "BaconThesis_Control_coeffOp", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_9", "child": "BaconThesis_Control_HA", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_9", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Control.eq_3_9", "child": "BaconThesis_Control_IsFixedBasis", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_17_9_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "XOSMax.lemma_8", "child": "XOSMax_Represents", "via": ["statement"]}
 {"parent": "XOSMax.lemma_8", "child": "XOSMax_cliqueWrt", "via": ["statement"]}
@@ -34545,8 +34545,8 @@
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P09.ppt_private_bell_bound", "child": "QAlgorithms_Papers_Independent_Intakethird100_P09", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_23_7_13_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "DivQuotient_ProofObjects", "child": "DivQuotient_Axioms", "via": ["statement"]}
-{"parent": "BaconThesis.WeakUniv.eq_B_3_B_4", "child": "BaconThesis_WeakUniv_lieAlg", "via": ["statement"]}
-{"parent": "BaconThesis.WeakUniv.eq_B_3_B_4", "child": "BaconThesis_WeakUniv_dfsProj", "via": ["statement"]}
+{"parent": "BaconThesis.WeakUniv.eq_B_3_B_4", "child": "BaconThesis_WeakUniv_lieAlg", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.WeakUniv.eq_B_3_B_4", "child": "BaconThesis_WeakUniv_dfsProj", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_20_7_0_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_20_7_0_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_20_7_0_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -57326,11 +57326,11 @@
 {"parent": "LX.AnchoredPhases.odd_zero_strip_join_reflection", "child": "LX_WordMetric", "via": ["solution", "statement"]}
 {"parent": "LX.AnchoredPhases.odd_zero_strip_join_reflection", "child": "LX_AffineLift", "via": ["solution", "statement"]}
 {"parent": "LX.AnchoredPhases.odd_zero_strip_join_reflection", "child": "LX_AnchorReserveRigidity", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Collective.eq_8_35", "child": "BaconThesis_Collective_collS", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_35", "child": "BaconThesis_Collective_dfsWeak", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_35", "child": "BBPSSW_Distill_pauli", "via": ["statement"]}
+{"parent": "BaconThesis.Collective.eq_8_35", "child": "BaconThesis_Collective_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_35", "child": "BaconThesis_Collective_dfsWeak", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_35", "child": "BBPSSW_Distill_pauli", "via": ["solution", "statement"]}
 {"parent": "BaconThesis.Collective.eq_8_35", "child": "BaconThesis_Collective_hammingWeight", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_35", "child": "BaconThesis_Collective_onQubit", "via": ["statement"]}
+{"parent": "BaconThesis.Collective.eq_8_35", "child": "BaconThesis_Collective_onQubit", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_08_actual_stopped_cash_from_measurable_ito_data", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_08_actual_stopped_cash_from_measurable_ito_data", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.exchange_targets", "child": "LX_ScanInversions", "via": ["solution", "statement"]}
@@ -57931,14 +57931,14 @@
 {"parent": "OAIQ098D374", "child": "OAIQ098D270", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_19_original_paymentTimes_nnreal_strict_survival_or_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_19_original_paymentTimes_nnreal_strict_survival_or_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_blockOp", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_collS", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_spinRep", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_collMinus", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BBPSSW_Distill_pauli", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_collPlus", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_BlockIdx", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_onQubit", "via": ["statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_blockOp", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_spinRep", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_collMinus", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BBPSSW_Distill_pauli", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_collPlus", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_BlockIdx", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_50", "child": "BaconThesis_Collective_onQubit", "via": ["solution", "statement"]}
 {"parent": "LX_PortRoute", "child": "LX_LiftedModel", "via": ["statement"]}
 {"parent": "LX_PortRoute", "child": "LX_PhysicalModel", "via": ["statement"]}
 {"parent": "LX_PortRoute", "child": "LX_AffineCrossings", "via": ["statement"]}
@@ -59269,13 +59269,13 @@
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_stopped_Taylor_joint_L1_L2_finite_marked_band_direct", "child": "AvramDividend.Classical.avram_wave6_02_actual_discounted_ruin_stopped_Taylor_predictable_product_Integrable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_stopped_Taylor_joint_L1_L2_finite_marked_band_direct", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_02_actual_stopped_Taylor_joint_L1_L2_finite_marked_band_direct", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_blockOp", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_collS", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_degeneracy", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_spinRep", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BBPSSW_Distill_pauli", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_BlockIdx", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_onQubit", "via": ["statement"]}
+{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_blockOp", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_degeneracy", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_spinRep", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BBPSSW_Distill_pauli", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_BlockIdx", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_8_41_8_43", "child": "BaconThesis_Collective_onQubit", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.exists_greedy_normal_form", "child": "LX_ScanInversions", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.exists_greedy_normal_form", "child": "LX_GreedyScan", "via": ["solution", "statement"]}
 {"parent": "LX.AffineScan.exists_greedy_normal_form", "child": "LX_WordMetric", "via": ["solution", "statement"]}
@@ -61223,11 +61223,11 @@
 {"parent": "AvramDividend.Classical.avram_wave7_11_all_caps_source_ubv_value_from_one_future_clock_budget", "child": "AvramDividend.Classical.avram_wave7_11_zero_cap_original_stieltjes_bound", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_11_all_caps_source_ubv_value_from_one_future_clock_budget", "child": "AvramDividend.Classical.local_verification_stochastic_core_side_conditions", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_11_all_caps_source_ubv_value_from_one_future_clock_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_exchange", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_collS", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_totalS2", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_C_8", "child": "BBPSSW_Distill_pauli", "via": ["statement"]}
-{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_onQubit", "via": ["statement"]}
+{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_exchange", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_totalS2", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_C_8", "child": "BBPSSW_Distill_pauli", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.Collective.eq_C_8", "child": "BaconThesis_Collective_onQubit", "via": ["solution", "statement"]}
 {"parent": "WeaklyCoupledDP_Model_Assumption47", "child": "WeaklyCoupledDP_Model", "via": ["statement"]}
 {"parent": "OAIQ098D292", "child": "OAIQ098D264", "via": ["statement"]}
 {"parent": "OAIQ098D292", "child": "OAIQ098D265", "via": ["statement"]}
@@ -72846,9 +72846,9 @@
 {"parent": "ThreeSum.LightKaratsuba.time_fifth_power", "child": "Submission_ThreeSum_LightArray", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightKaratsuba.time_fifth_power", "child": "Submission_ThreeSum_LightKaratsuba", "via": ["solution", "statement"]}
 {"parent": "BaconThesis.ExchangeUniv.eq_9_7_9_8", "child": "BaconThesis_ExchangeUniv_pauli", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_9_7_9_8", "child": "BaconThesis_Collective_exchange", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_9_7_9_8", "child": "BaconThesis_ExchangeUniv_collS", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_9_7_9_8", "child": "BaconThesis_Collective_onQubit", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_9_7_9_8", "child": "BaconThesis_Collective_exchange", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_9_7_9_8", "child": "BaconThesis_ExchangeUniv_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_9_7_9_8", "child": "BaconThesis_Collective_onQubit", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaSeedScoreReady.ready", "child": "Submission_Weighted_Global_TernaryArenaSeedScoreReady", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaSeedScoreReady.ready", "child": "ThreeSum.WeightedGlobalArenaSourceCountSeed.seed", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaSeedScoreReady.ready", "child": "ThreeSum.WeightedGlobalArenaCountReady.ready", "via": ["statement"]}
@@ -74387,9 +74387,9 @@
 {"parent": "ThreeSum.TernaryCoverPairStep.pairedSet_prior", "child": "Submission_ThreeSum_TernaryCoverRankFibers", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryCoverPairStep.pairedSet_prior", "child": "Submission_ThreeSum_TernaryCoverPairStep", "via": ["solution", "statement"]}
 {"parent": "Submission_ThreeSum_TernaryExtensionDecoded", "child": "Submission_ThreeSum_TernaryExtensionRelations", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_identity_c17bfa0a", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_identity_c17bfa0a", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_identity_c17bfa0a", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_identity_c17bfa0a", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_identity_c17bfa0a", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_identity_c17bfa0a", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalUniformQueryTime.envelope_mono", "child": "Submission_Weighted_Global_TernaryArenaAllocation", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalUniformQueryTime.envelope_mono", "child": "Submission_Weighted_Global_TernaryActualPrefixRuntime", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalUniformQueryTime.envelope_mono", "child": "Submission_Weighted_Global_TernaryArenaFrontBounds", "via": ["solution", "statement"]}
@@ -81396,9 +81396,9 @@
 {"parent": "ThreeSum.LightTernaryBankCoordinate.zeta_meets", "child": "ThreeSum.LightTernaryLookup.zeta_meets", "via": ["statement"]}
 {"parent": "ThreeSum.LightTernaryBankCoordinate.zeta_meets", "child": "Submission_ThreeSum_LightTernaryBankCoordinate", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryBankCoordinate.zeta_meets", "child": "ThreeSum.SubsetAddress.IsMask.high", "via": ["solution", "statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_far_21b6333f", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_far_21b6333f", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_far_21b6333f", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_far_21b6333f", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_far_21b6333f", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_far_21b6333f", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_f_weighted_original_intrinsic_countable_simple_pathwise", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryPairedBudgetSelector.terminal_zero", "child": "Submission_ThreeSum_TernaryPairedRecurrence", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryPairedBudgetSelector.terminal_zero", "child": "Submission_ThreeSum_TernaryPairedSelector", "via": ["solution", "statement"]}
@@ -83725,10 +83725,10 @@
 {"parent": "ThreeSum.LightSignedBoxSetup.time_bound", "child": "ThreeSum.LightSignedLeafBatch.time_bound", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSignedBoxSetup.time_bound", "child": "ThreeSum.LightDownsetAddress.time_bound", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightSignedBoxSetup.time_bound", "child": "ThreeSum.LightZetaCell.time_bound", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_collS", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_exchangeLie", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n3_independent", "child": "BaconThesis_ExchangeUniv_exchangeLie", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightExtensionFactorSearch.program_meets", "child": "ThreeSum.LightCoefficientDecode.program_meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightExtensionFactorSearch.program_meets", "child": "ThreeSum.LightRadixDigit.program_meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightExtensionFactorSearch.program_meets", "child": "ThreeSum.LightSmallDivide.program_meets", "via": ["solution", "statement"]}
@@ -85422,7 +85422,7 @@
 {"parent": "ThreeSum.SourceFiniteData.Stored.occurrence", "child": "Submission_ThreeSum_SourceFiniteData", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceFiniteData.Stored.occurrence", "child": "ThreeSum.SourceBandFinite.occurrence", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SourceFiniteData.Stored.occurrence", "child": "Submission_ThreeSum_SourceFiniteInputs", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_D_5_D_7", "child": "BaconThesis_ExchangeUniv_collS", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_D_5_D_7", "child": "BaconThesis_ExchangeUniv_collS", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaControllerCore.runtime_le", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaControllerCore.runtime_le", "child": "Submission_Weighted_Global_TernaryArenaGuardTransport", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalArenaControllerCore.runtime_le", "child": "Submission_Weighted_Global_LightTernaryControllerPlan", "via": ["solution", "statement"]}
@@ -90729,8 +90729,8 @@
 {"parent": "QMCLeafB_sizeslot_m3", "child": "QMCLeafB_final_reunion_m7", "via": ["statement"]}
 {"parent": "ThreeSum.BandScales.bandDivisor_pos", "child": "Submission_ThreeSum_TrimScales", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.BandScales.bandDivisor_pos", "child": "Submission_ThreeSum_BandScales", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.ExchangeUniv.enlarging_lemma", "child": "BaconThesis_ExchangeUniv_suAlg", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.enlarging_lemma", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.enlarging_lemma", "child": "BaconThesis_ExchangeUniv_suAlg", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.enlarging_lemma", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_d_dividend_original_full_stieltjes_mesh_uniform_oscillation_mass_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCanonicalSourceBank.source_index_spec", "child": "Submission_Weighted_Global_TernaryNativeBlockPairs", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCanonicalSourceBank.source_index_spec", "child": "Submission_Weighted_Global_TernaryCanonicalSourceBank", "via": ["solution", "statement"]}
@@ -94405,8 +94405,8 @@
 {"parent": "Submission_Weighted_Global_TernaryArenaPrefixFootprints", "child": "ThreeSum.TernaryEnumeration.mem_digits", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryArenaPrefixFootprints", "child": "ThreeSum.BlockRows.row_inter", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryArenaPrefixFootprints", "child": "ThreeSum.TernaryWeightChannels.leftMoment_eval", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_C_11", "child": "BaconThesis_Collective_exchange", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_C_11", "child": "BaconThesis_ExchangeUniv_collS", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_C_11", "child": "BaconThesis_Collective_exchange", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_C_11", "child": "BaconThesis_ExchangeUniv_collS", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.natSqrt_ratio_tendsto_zero_w3sum_ac885d1", "child": "Submission_ThreeSum_PrimeDensity", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.natSqrt_ratio_tendsto_zero_w3sum_ac885d1", "child": "Submission_ThreeSum_Scales", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Scales.natSqrt_ratio_tendsto_zero_w3sum_ac885d1", "child": "Submission_ThreeSum_Asymptotics", "via": ["solution", "statement"]}
@@ -98160,10 +98160,10 @@
 {"parent": "ThreeSum.WeightedGlobalColoredQueryBudget.query_time_bound", "child": "Submission_Weighted_Global_TernaryColoredQueryBudget", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalColoredQueryBudget.query_time_bound", "child": "Submission_Weighted_Global_TernaryColoredLoopSetup", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalColoredQueryBudget.query_time_bound", "child": "Submission_Weighted_Global_TernaryUniformQueryTime", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_collS", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_exchangeLie", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.theorem_C_2_1", "child": "BaconThesis_ExchangeUniv_exchangeLie", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryBank.rank_update_drop", "child": "Submission_ThreeSum_TernaryJointType", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.TernaryBank.rank_update_drop", "child": "Submission_ThreeSum_TernaryBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedGlobalSeedController.program_meets", "child": "ThreeSum.LightRadixDigit.program_meets", "via": ["statement"]}
@@ -99350,9 +99350,9 @@
 {"parent": "ThreeSum.RawIncidences.leftBucket_of_signature", "child": "Submission_ThreeSum_GlobalEncoding", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.RawIncidences.leftBucket_of_signature", "child": "Submission_ThreeSum_Arithmetic", "via": ["solution", "statement"]}
 {"parent": "FreeGroupFactorProof29", "child": "FreeGroupFactorProof28", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_near_f5277180", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_near_f5277180", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_near_f5277180", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_near_f5277180", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_near_f5277180", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_near_f5277180", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.PrimeChain.sum_scores", "child": "Submission_ThreeSum_PrimeChain", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.PrimeChain.sum_scores", "child": "Submission_ThreeSum_Arithmetic", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightGather.time_bound", "child": "Submission_ThreeSum_LightWeightGather", "via": ["solution", "statement"]}

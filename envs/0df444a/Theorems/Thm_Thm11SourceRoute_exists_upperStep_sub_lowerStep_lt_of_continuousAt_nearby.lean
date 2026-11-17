@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_exists_upperStep_sub_lowerStep_lt_of_continuousAt_nearby
 -- name    : Thm11SourceRoute.exists_upperStep_sub_lowerStep_lt_of_continuousAt_nearby
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:26:25.590916+00:00
 -- url     : https://prove2.me/theorems/d5463445-b430-46b6-827b-9f76af36cf5f

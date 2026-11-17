@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookIntegrable_pos_ne_top
 -- name    : textbookIntegrable_pos_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:28:38.216147+00:00
 -- url     : https://prove2.me/theorems/988fc962-86f5-495b-a3d8-cfd49660f298

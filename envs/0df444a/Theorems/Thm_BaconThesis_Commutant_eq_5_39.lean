@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Commutant_eq_5_39
 -- name    : BaconThesis.Commutant.eq_5_39
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:38:10.731787+00:00
 -- url     : https://prove2.me/theorems/7d59c301-7246-4c40-a6cb-1d458f0f3643

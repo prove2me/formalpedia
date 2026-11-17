@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MNLBandit.UCB.lemma_4_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T01:19:41.206194+00:00
 -- url     : https://prove2.me/submissions/6cf7a82a-7675-4c34-a9d2-c43d17a1a049
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ChoiceCDLP_MNL_mnlObjective

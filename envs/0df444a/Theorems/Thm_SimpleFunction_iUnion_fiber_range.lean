@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_iUnion_fiber_range
 -- name    : SimpleFunction.iUnion_fiber_range
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:22:45.063869+00:00
 -- url     : https://prove2.me/theorems/874dd809-e571-4689-8d18-10ee7907d214

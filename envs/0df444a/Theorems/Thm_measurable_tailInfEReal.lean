@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_tailInfEReal
 -- name    : measurable_tailInfEReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:53:20.61198+00:00
 -- url     : https://prove2.me/theorems/919bd13b-9afb-4332-9695-e4f273e8744c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_3_8_textbook
 -- name    : thm_3_8_textbook
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:56:10.855682+00:00
 -- url     : https://prove2.me/theorems/b91bcb50-624a-4300-a954-e53d71315204

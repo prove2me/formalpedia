@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_finite_graph_completion_from_steps__p2m_0ac1f81c_3fb8_44a1_92c7_855048ff841d_a4
 -- name    : WilliamsonShmoys.finite_graph_completion_from_steps__p2m_0ac1f81c_3fb8_44a1_92c7_855048ff841d_a4
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:05:19.195528+00:00
 -- url     : https://prove2.me/theorems/a8bea31e-3783-4d2f-854a-f12bba311eb2

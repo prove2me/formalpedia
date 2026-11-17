@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_routed_pairs_bound
 -- name    : EDPHardness.IntegralityGap.routed_pairs_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:16.947349+00:00
 -- url     : https://prove2.me/theorems/5791ebf3-fee0-4676-919f-50260889f757

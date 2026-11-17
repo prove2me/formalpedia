@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b29_BV_uniform_original_finiteactivity_signed_source_integrable_nonpos_mean
 -- name    : AvramDividend.Classical.avram_b29_BV_uniform_original_finiteactivity_signed_source_integrable_nonpos_mean
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T15:27:05.755346+00:00
 -- url     : https://prove2.me/theorems/5f0c926f-60f9-4e8d-b3aa-9237968ce8f0

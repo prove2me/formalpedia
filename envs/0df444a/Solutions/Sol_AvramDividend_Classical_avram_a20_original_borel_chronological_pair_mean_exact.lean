@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a20_original_borel_chronological_pair_mean_exact
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-12T13:00:59.406301+00:00
 -- url     : https://prove2.me/submissions/4ff720c4-960a-4fb6-a471-53dffedfb30b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Nat.Factorial.SuperFactorial
 import Mathlib.Probability.Distributions.Poisson.Basic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_7_closedIntervals_borel_inclusion
 -- name    : thm_2_7_closedIntervals_borel_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:13:36.562555+00:00
 -- url     : https://prove2.me/theorems/1f7be0e2-da45-4773-9e24-b3b2b8a09352

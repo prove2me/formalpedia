@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: The conclusion is `Nonempty (FieldSetup p d δ)`. Only existence is formalized: the paper's Lemma A.3 also constructs an irreducible $f$ with $\mathbb{S}=\mathbb{F}_p[X]/(f)$ and builds $K$ as an Artin–Schreier tower (for $\delta$ a power of $p$) in polynomial time, which is not part of this statement. Here $\delta$ may be any positive integer.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma A.3 (\label{lem:explicit-fields}), existence part; Lean: LatticePrepro/Tables/FieldSetup.lean, LatticePrepro.FieldSetup.exists_fieldSetup
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma A.3 (\label{lem:explicit-fields}), existence part; Lean: LatticePrepro/Tables/FieldSetup.lean, LatticePrepro.FieldSetup.exists_fieldSetup
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Tables_FieldSetup

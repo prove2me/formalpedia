@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_rsIntegral_integrator_sum_finset_eq
 -- name    : DiscreteExpectation.rsIntegral_integrator_sum_finset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:12:48.136048+00:00
 -- url     : https://prove2.me/theorems/700832f9-7601-45d3-8f02-2259799c9082

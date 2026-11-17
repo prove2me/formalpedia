@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_real_clock_continuous
 -- name    : e7_real_clock_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:08.231069+00:00
 -- url     : https://prove2.me/theorems/8f185ff0-fea6-4475-87db-6261dbe6ed35

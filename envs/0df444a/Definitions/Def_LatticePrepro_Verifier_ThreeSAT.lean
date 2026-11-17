@@ -20,7 +20,7 @@
 --
 --   **Formalization Note**: Clauses may repeat variables or literals, since all $(2v)^3$ ordered triples are allowed. The bundle includes $\mathrm{len}(v) = (2v)^3$, the gate counts $1$, $6$ and $7\,\mathrm{len}(v) + 1$ of a literal, a clause and the formula, positivity of the latter, and the numbers of input and witness wires of the circuit.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), the verifier $V_n$ for 3SAT in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), with the instance encoding of the proof of Theorem 5.4 (\label{thm:explicit-endpoint}); Lean: LatticePrepro/Verifier/ThreeSAT.lean, LatticePrepro.ThreeSAT.Satisfiable, LatticePrepro.ThreeSAT.encode, LatticePrepro.ThreeSAT.formula, LatticePrepro.ThreeSAT.circuit
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), the verifier $V_n$ for 3SAT in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), with the instance encoding of the proof of Theorem 5.4 (\label{thm:explicit-endpoint}); Lean: LatticePrepro/Verifier/ThreeSAT.lean, LatticePrepro.ThreeSAT.Satisfiable, LatticePrepro.ThreeSAT.encode, LatticePrepro.ThreeSAT.formula, LatticePrepro.ThreeSAT.circuit
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Collective_eq_8_50
 -- name    : BaconThesis.Collective.eq_8_50
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:14:23.25519+00:00
 -- url     : https://prove2.me/theorems/a7b8d13a-92ce-4ab8-a76b-4ad610495743

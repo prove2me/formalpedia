@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_map_fst_pair
 -- name    : SimpleFunction.map_fst_pair
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:27:45.564525+00:00
 -- url     : https://prove2.me/theorems/9720b9ae-73b9-4ac5-9019-5b3a2f184969

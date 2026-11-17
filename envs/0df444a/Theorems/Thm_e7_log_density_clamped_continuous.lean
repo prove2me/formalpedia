@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_log_density_clamped_continuous
 -- name    : e7_log_density_clamped_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T11:40:34.146625+00:00
 -- url     : https://prove2.me/theorems/af7b04f9-6f7d-4a7f-9e1e-a7391a7a768a

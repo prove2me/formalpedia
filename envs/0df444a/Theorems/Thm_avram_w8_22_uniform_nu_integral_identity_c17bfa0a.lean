@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_w8_22_uniform_nu_integral_identity_c17bfa0a
 -- name    : avram_w8_22_uniform_nu_integral_identity_c17bfa0a
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T10:15:43.792629+00:00
 -- url     : https://prove2.me/theorems/45f2711f-c6e8-4f04-a8a1-5898ac2fed85

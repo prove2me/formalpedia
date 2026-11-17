@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_proposition_8_3_lift_unsat
 -- name    : SemAC02.proposition_8_3_lift_unsat
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:29:38.571522+00:00
 -- url     : https://prove2.me/theorems/4f727e6a-4e05-4454-a9b6-7273ec85d93f

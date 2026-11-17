@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_Typical_typical_concentration
 -- name    : QAOAE3Lin2.Typical.typical_concentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:03.549435+00:00
 -- url     : https://prove2.me/theorems/6f1edbad-6cba-4811-9576-f885b6bff684

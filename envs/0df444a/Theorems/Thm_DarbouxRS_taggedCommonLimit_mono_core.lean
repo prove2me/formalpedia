@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_taggedCommonLimit_mono_core
 -- name    : DarbouxRS.taggedCommonLimit_mono_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:30:55.672457+00:00
 -- url     : https://prove2.me/theorems/03d94c04-aaf9-437e-abd3-430826a233af

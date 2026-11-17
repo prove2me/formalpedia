@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_ExchangeUniv_enlarging_lemma
 -- name    : BaconThesis.ExchangeUniv.enlarging_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:51:08.02858+00:00
 -- url     : https://prove2.me/theorems/a3303ba8-ae02-4284-a416-ef3f4a95a1d4

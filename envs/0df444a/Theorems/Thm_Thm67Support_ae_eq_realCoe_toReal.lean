@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_ae_eq_realCoe_toReal
 -- name    : Thm67Support.ae_eq_realCoe_toReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:31:35.878887+00:00
 -- url     : https://prove2.me/theorems/8f500f09-cb07-426a-8b5e-d40a18659f17

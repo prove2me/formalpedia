@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_closure_range_of_dense_codRestrict
 -- name    : closure_range_of_dense_codRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:19.080267+00:00
 -- url     : https://prove2.me/theorems/a5c99812-d742-434a-a914-33f6db219b95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_rectangle_weight_eq_indicator
 -- name    : e7_rectangle_weight_eq_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:37.036093+00:00
 -- url     : https://prove2.me/theorems/307f6c9e-6d31-4b07-a5e3-8d056749f9de

@@ -18,7 +18,7 @@
 --
 --   **Formalization Note** `TblIdx` is the sum type `ProdIdx ⊕ AuxIdx` of subtypes of $\{0,\dots,S\}^2$ and $\{0,\dots,S\}$ (as `Fin (S + 1)`), and $N$ is its `Fintype.card`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction 4.5 (\label{con:fixed-verifier}), bound on the number of evaluation tables; Lean: LatticePrepro/Reduction/FixedSystem.lean, LatticePrepro.QuadraticVerifier.card_tblIdx_le
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction 4.5 (\label{con:fixed-verifier}), bound on the number of evaluation tables; Lean: LatticePrepro/Reduction/FixedSystem.lean, LatticePrepro.QuadraticVerifier.card_tblIdx_le
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

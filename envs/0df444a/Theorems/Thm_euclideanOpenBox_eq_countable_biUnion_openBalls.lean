@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_euclideanOpenBox_eq_countable_biUnion_openBalls
 -- name    : euclideanOpenBox_eq_countable_biUnion_openBalls
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:16:59.971392+00:00
 -- url     : https://prove2.me/theorems/febf4a5f-e071-4664-83d3-1b653de69334

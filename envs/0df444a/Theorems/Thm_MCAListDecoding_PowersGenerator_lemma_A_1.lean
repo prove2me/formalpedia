@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCAListDecoding_PowersGenerator_lemma_A_1
 -- name    : MCAListDecoding.PowersGenerator.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T19:17:25.545235+00:00
 -- url     : https://prove2.me/theorems/690322c9-13dd-4717-a3bd-9be9494cec53

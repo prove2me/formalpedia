@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.maximal_drawable_extension_triangulated__p2m_b8ffaa04_868a_495a_ab39_10d09a3d9b95_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:55:12.817049+00:00
 -- url     : https://prove2.me/submissions/b09b049a-9efe-4798-9d68-2e523c970f4a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_exists_inclusion_maximal_drawable_extension__p2m_6e736750_a362_4363_844e_e38c08b33ed2_a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_upperSum_integrand_add_le_core
 -- name    : DarbouxRS.upperSum_integrand_add_le_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:32:44.377108+00:00
 -- url     : https://prove2.me/theorems/2e366b22-5b10-4735-8b96-308937b0f2c7

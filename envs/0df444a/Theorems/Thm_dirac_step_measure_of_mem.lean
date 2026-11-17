@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dirac_step_measure_of_mem
 -- name    : dirac_step_measure_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:59:20.943811+00:00
 -- url     : https://prove2.me/theorems/e521927e-7225-47d5-8f17-25c0f7d36fd4

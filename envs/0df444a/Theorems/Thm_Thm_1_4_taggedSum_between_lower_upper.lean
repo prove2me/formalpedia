@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_taggedSum_between_lower_upper
 -- name    : Thm_1_4.taggedSum_between_lower_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:27:55.778061+00:00
 -- url     : https://prove2.me/theorems/4e5af30e-88ac-4fd3-a2b6-9d93f940a6fa

@@ -96125,13 +96125,13 @@
 {"parent": "EDPHardness.IntegralityGap.good_event", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.lemma_6", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.lemma_7", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
-{"parent": "EDPHardness.IntegralityGap.lemma_8", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["statement"]}
+{"parent": "EDPHardness.IntegralityGap.lemma_8", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.long_paths_bound", "child": "EDPHardness_IntegralityGap_FlowRelaxation", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.long_paths_bound", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.routed_pairs_bound", "child": "EDPHardness_IntegralityGap_FlowRelaxation", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.routed_pairs_bound", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
-{"parent": "EDPHardness.IntegralityGap.short_paths_bound", "child": "EDPHardness_IntegralityGap_FlowRelaxation", "via": ["statement"]}
-{"parent": "EDPHardness.IntegralityGap.short_paths_bound", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["statement"]}
+{"parent": "EDPHardness.IntegralityGap.short_paths_bound", "child": "EDPHardness_IntegralityGap_FlowRelaxation", "via": ["solution", "statement"]}
+{"parent": "EDPHardness.IntegralityGap.short_paths_bound", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.theorem_5_integrality_gap", "child": "EDPHardness_IntegralityGap_FlowRelaxation", "via": ["solution", "statement"]}
 {"parent": "EDPHardness.IntegralityGap.theorem_5_integrality_gap", "child": "EDPHardness_IntegralityGap_GapInstance", "via": ["solution", "statement"]}
 {"parent": "EHRR10.KalaiKleitman.diameter_le_kalai_kleitman", "child": "EHRR10_LowerBound_BaseAbstraction", "via": ["solution", "statement"]}

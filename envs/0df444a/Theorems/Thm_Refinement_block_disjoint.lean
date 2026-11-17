@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Refinement_block_disjoint
 -- name    : Refinement.block_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:52:11.643558+00:00
 -- url     : https://prove2.me/theorems/f1bcfd77-2569-4911-9474-fa115cefc890

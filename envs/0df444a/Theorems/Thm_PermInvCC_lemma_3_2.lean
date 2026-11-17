@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermInvCC_lemma_3_2
 -- name    : PermInvCC.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:23:04.507505+00:00
 -- url     : https://prove2.me/theorems/78b1e2ac-0587-4dae-b467-6271a1403a02

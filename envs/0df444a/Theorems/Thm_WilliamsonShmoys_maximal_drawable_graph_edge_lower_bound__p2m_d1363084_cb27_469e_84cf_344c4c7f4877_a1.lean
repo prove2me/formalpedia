@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_graph_edge_lower_bound__p2m_d1363084_cb27_469e_84cf_344c4c7f4877_a1
 -- name    : WilliamsonShmoys.maximal_drawable_graph_edge_lower_bound__p2m_d1363084_cb27_469e_84cf_344c4c7f4877_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:03:56.348348+00:00
 -- url     : https://prove2.me/theorems/975201d3-ed40-44be-a94c-66f3df904250

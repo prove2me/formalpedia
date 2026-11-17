@@ -20,7 +20,7 @@
 --
 --   **Formalization Note**: The statement holds for every $v$, with no lower bound. Polynomial-time constructibility of the circuit is not formalized; the size bound $S \le 9n + 2$ on its number of wires is a separate lemma. The encoding by one bit per possible clause follows the proof of Theorem 5.4 of the paper.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), the verifier $V_n$ for 3SAT in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), with the instance encoding of the proof of Theorem 5.4 (\label{thm:explicit-endpoint}); Lean: LatticePrepro/Verifier/ThreeSAT.lean, LatticePrepro.ThreeSAT.mem_language_iff
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), the verifier $V_n$ for 3SAT in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), with the instance encoding of the proof of Theorem 5.4 (\label{thm:explicit-endpoint}); Lean: LatticePrepro/Verifier/ThreeSAT.lean, LatticePrepro.ThreeSAT.mem_language_iff
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

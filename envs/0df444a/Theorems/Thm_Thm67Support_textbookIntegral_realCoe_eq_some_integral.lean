@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_textbookIntegral_realCoe_eq_some_integral
 -- name    : Thm67Support.textbookIntegral_realCoe_eq_some_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:30:45.446202+00:00
 -- url     : https://prove2.me/theorems/26b9c7f6-491e-4e25-90c6-c56dfba8576c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_complexTextbookIntegral_eq_none_of_not_integrable
 -- name    : complexTextbookIntegral_eq_none_of_not_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:29:40.426966+00:00
 -- url     : https://prove2.me/theorems/a30a9e91-5d67-42c4-91aa-3311519a9a14

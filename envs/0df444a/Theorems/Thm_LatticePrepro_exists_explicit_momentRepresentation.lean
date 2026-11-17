@@ -27,7 +27,7 @@
 --
 --   **Formalization Note**: The statement is `Nonempty (ExplicitMomentRepresentation p S m B)`, a structure bundling the field, the encoding tuple (indexed by `Fin (S + 1)` with $E_0=0$), the moment representation and $q$ with the equations above. It is an existence statement: the concrete construction, the finiteness of $K$ and the construction-time part (item 3 of Theorem A.8) are not part of it. Coefficient functions have type `AlgebraicClosure K →₀ ZMod p`, so all represented functions live on one fixed extension rather than on a finite extension depending on $y$. The constraint matrix is an $\mathbb{F}_p$-linear map, and moment orders are indexed by `Fin (2r - 1)`. The paper writes $\kappa,\tau,N,\mathbb{E},\mathsf d,\mathsf a$ for $r,q,S,K,B,m$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.8 (\label{thm:moment-representation-construction}); Lean: LatticePrepro/Tables/Explicit.lean, LatticePrepro.exists_explicit_momentRepresentation
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.8 (\label{thm:moment-representation-construction}); Lean: LatticePrepro/Tables/Explicit.lean, LatticePrepro.exists_explicit_momentRepresentation
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

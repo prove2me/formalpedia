@@ -14,7 +14,7 @@
 --
 --   **Formalization Note**: All quantities are natural numbers; the lemma only asserts the existence of such a $B$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Theorem 4.8 (\label{thm:quantitative-affine-gap}); Lean: LatticePrepro/Basic/Nat.lean, LatticePrepro.exists_base
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Theorem 4.8 (\label{thm:quantitative-affine-gap}); Lean: LatticePrepro/Basic/Nat.lean, LatticePrepro.exists_base
 
 import Mathlib
 

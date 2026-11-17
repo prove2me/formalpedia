@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_b29_BV_uniform_original_finite_activity_signed_B_integrable
 -- name    : AvramDividend.Classical.avram_b29_BV_uniform_original_finite_activity_signed_B_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T15:24:28.120968+00:00
 -- url     : https://prove2.me/theorems/6a2074a0-1ad1-43d1-9844-e13fdaa97457

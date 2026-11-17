@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_graph_extend_to_maximal_formula__p2m_f926186e_6933_42b8_b492_59096ed06c95_a1
 -- name    : WilliamsonShmoys.planar_graph_extend_to_maximal_formula__p2m_f926186e_6933_42b8_b492_59096ed06c95_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T07:32:47.218521+00:00
 -- url     : https://prove2.me/theorems/c6e7e4d2-ca9d-4ea4-bf6c-d30cb8b5a12f

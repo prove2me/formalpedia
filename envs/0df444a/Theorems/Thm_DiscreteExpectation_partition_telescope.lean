@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_partition_telescope
 -- name    : DiscreteExpectation.partition_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:13:58.136938+00:00
 -- url     : https://prove2.me/theorems/8e283d65-96bd-418d-a02d-15af6a5d2537

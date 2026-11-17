@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_seqSupEReal
 -- name    : measurable_seqSupEReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:52:15.350184+00:00
 -- url     : https://prove2.me/theorems/65cb77b7-f089-49ea-99f0-9c9cdb4d3c9f

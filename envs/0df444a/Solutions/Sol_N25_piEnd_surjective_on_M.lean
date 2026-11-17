@@ -1,0 +1,114 @@
+-- Prove2me | solution 1 for N25.piEnd_surjective_on_M
+-- status  : ACCEPTED   (prove)
+-- author  : @FormallyCorrect
+-- created : 2026-11-16T19:09:13.415207+00:00
+-- url     : https://prove2.me/submissions/364dad77-eb33-4193-a542-cf894ea930ab
+
+import Mathlib
+import Theorems.Thm_N25_GlobalKummer_geometric_surjective
+import Theorems.Thm_ModularCurve_isCurveOver_and_essFiniteType_laurentBaseChange_xHFunctionField
+import Definitions.Def_N25_LocalKummerPolynomial
+import Definitions.Def_N25_KummerFactorization
+import Theorems.Thm_AlgebraicCurve_Pic0_exists_nsmul_eq
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_laurentBaseChange
+import Theorems.Thm_N25_GlobalKummer_divisionClass_mem_continuousH1S
+import Definitions.Def_N25_GlobalKummerRamification
+import Definitions.Def_N25_LocalKummerKernel
+import Definitions.Def_N25_LocalKummerEquivariance
+import Theorems.Thm_ModularCurve_exists_transcendental_and_reductionInputsQExpModL_gammaH_of_not_dvd
+import Theorems.Thm_ModularCurve_reductionQExpModL_gammaH_smul_eq_self_of_mem_inertiaSubgroupIn
+import Theorems.Thm_ModularCurve_eq_zero_of_reductionQExpModL_gammaH_eq_zero_of_nsmul_eq_zero
+import Definitions.Def_N25
+import Theorems.Thm_ModularCurve_exists_finiteDimensional_forall_mem_fixingSubgroup_smul_eq_place_laurentBaseChange
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_qExpFunctionFieldC
+import Theorems.Thm_groupCohomology_exists_isUnramifiedOutside_forall_apply_eq_one_of_smooth
+import Theorems.Thm_N25_GlobalKummer_division_quotient_map_zero
+import Definitions.Def_N25_GlobalKummerQuotient
+import Definitions.Def_N25_GlobalKummerSequence
+import Definitions.Def_GroupCohomology_Kummer
+import Theorems.Thm_groupCohomology_Kummer_exists_kummerCocycle_eq_of_isMulCocycle1_of_level
+import Definitions.Def_N25_LocalFiniteFlatClasses
+import Definitions.Def_N25_LocalKummerOperators
+import Definitions.Def_N25_LocalKummerCharacter
+import Theorems.Thm_ValuationSubring_exists_mem_inertiaSubgroupIn_cyclotomicCharacter_eq
+import Theorems.Thm_ValuationSubring_exists_mem_inertiaSubgroupIn_padicIntegers_localGaloisToGlobal_eq
+import Theorems.Thm_ExtCitation_cycloChar_primeLocalToGlobal_eq_one_of_mem_inertia
+import Theorems.Thm_ExtCitation_exists_isFrobeniusAt_apply_primeLocalToGlobal
+import Theorems.Thm_ValuationSubring_cycloChar_eq_unitOfCoprime_of_isFrobeniusAt
+import Theorems.Thm_ExtCitation_liesOverPrime_primeLocalPlace
+import Definitions.Def_N25_LocalFiveArithmetic
+import Definitions.Def_N25_OrdinaryKummerFiniteFlat
+import Definitions.Def_GroupCohomology_CocycleExtensionAction
+import Definitions.Def_GroupCohomology_FiniteFlatCocycle
+import Theorems.Thm_HopfAlgebra_exists_finiteFlat_padicInt_withConv_equiv_subquotient
+import Theorems.Thm_HopfAlgebra_exists_units_forall_inertia_apply_eq_of_inertiaCyclotomic_submonoid_padicInt
+import Theorems.Thm_PadicAlgCl_exists_mem_inertiaSubgroupIn_apply_ne_of_forall_pow_eq_of_not_dvd_valuation
+import Theorems.Thm_ValuationSubring_isDiscreteValuationRing_comap_fixedField_inertiaSubgroupIn
+import Theorems.Thm_ValuationSubring_valuation_ratCast_eq_zpow_padicValRat
+import Definitions.Def_N25_LocalFiveCondition
+import Definitions.Def_N25_RatPointModel
+import Definitions.Def_N25_LocalCarrier
+import Theorems.Thm_AlgebraicGeometry_Scheme_exists_specMap_fixedField_comp_eq_of_forall_comp_eq
+import Theorems.Thm_GoodReductionJacobian_RelativeGroupLaw_isFinite_and_flat_schemeNsmul
+import Theorems.Thm_GoodReductionJacobian_RelativeGroupLaw_coe_nsmul_eq_comp_schemeNsmul
+import Theorems.Thm_AlgebraicGeometry_existsUnique_section_comp_eq_of_isFinite_of_isAlgClosed
+import Definitions.Def_N25_LocalFiveIntegralPoints
+import Definitions.Def_GoodReductionJacobian_RelativeGroupLawBaseChange
+import Theorems.Thm_HenselianLocalRing_of_isAdicComplete_maximalIdeal
+import Theorems.Thm_GoodReductionJacobian_AbelianSchemePropertyBundle_of_isPullback
+import Theorems.Thm_GoodReductionJacobian_RelativeGroupLaw_exists_neronModelPropertyBundle_genericFibre_iso_of_abelianSchemePropertyBundle_of_henselianLocalRing
+import Definitions.Def_AlgebraicGeometry_NeronModelPropertyBundleCarrier
+import Theorems.Thm_GoodReductionJacobian_RelativeGroupLaw_exists_schemeHomOverComp_eq_and_nsmul_eq_of_henselianLocalRing
+import Theorems.Thm_GoodReductionJacobian_RelativeGroupLaw_exists_smoothOfRelativeDimension_of_smooth_of_isLocalRing
+import Theorems.Thm_N25_GlobalKummer_exists_psiClass_of_quotient_zero
+import Theorems.Thm_groupCohomology_exists_les_continuousHS_of_shortExact_of_isLevelConstant
+import Theorems.Thm_N25_GlobalKummer_psiClass_eq_zero_of_mapped_eq_division
+import Definitions.Def_N25_CharacterField
+import Mathlib.NumberTheory.NumberField.Norm
+import Mathlib.NumberTheory.RamificationInertia.Galois
+import Mathlib.RingTheory.Frobenius
+import Mathlib.RingTheory.Invariant.Basic
+import Theorems.Thm_NumberField_exists_valuationSubring_forall_map_mem_iff_valuation_le_one
+import Theorems.Thm_IsDedekindDomain_HeightOneSpectrum_map_subtype_inertiaSubgroup_valuationSubring_eq_inertia
+import Theorems.Thm_ValuationSubring_exists_mem_inertiaSubgroupIn_restrictNormal_eq
+import Theorems.Thm_M4aHerbrand_exists_adeleBaseChange_normCoset_index_ne_zero_and_finrank_dvd
+import Theorems.Thm_M4aHerbrand_unitIdele_mem_idelicNorm_range
+import Theorems.Thm_NumberField_TateGlobal_index_unitIdelesOutside_sup_range_unitsMap_algebraMap_eq_classNumber
+import Theorems.Thm_groupCohomology_exists_corestriction_map_map_res_eq_map_norm
+import Theorems.Thm_ValuationSubring_smul_eq_self_of_mem_inertiaSubgroupIn_of_pow_eq_one
+import Theorems.Thm_HopfAlgebra_act_eq_self_of_inertiaTrivialChain_padicInt
+import Theorems.Thm_ValuationSubring_exists_algEquiv_smul_eq_of_liesOverPrime
+import Theorems.Thm_ValuationSubring_mem_inertiaSubgroupIn_pointwise_smul_iff
+import Definitions.Def_GaloisRep_CompletionBridge
+import Theorems.Thm_N25_GlobalKummer_rational_preimage_of_divisionClass_zero
+import Definitions.Def_N25_GlobalKummer
+
+set_option autoImplicit false
+
+namespace N25
+
+open GlobalKummer
+
+/-- The selected endomorphism is surjective on the literal rational fixed
+points, from the frozen cyclotomic relation, kernel sequence, and ordinary
+division-cocycle finite-flat condition at 71. -/
+theorem _root_.solution
+    (hPhi : PhiFiveZero) (K2 : K2Rows) (hN71 : OrdinaryKummerFiniteFlat)
+    (P : J) (hP : P ∈ M) : ∃ Q ∈ M, piEnd Q = P := by
+  let p : ↥M := ⟨P, hP⟩
+  obtain ⟨Q, hQ⟩ := geometric_surjective hPhi P
+  let x : ↥(groupCohomology.continuousH1S ramificationSet (vRep hPhi)) :=
+    ⟨groupCohomology.H1π (vRep hPhi) (divisionCocycle hPhi p Q hQ),
+      divisionClass_mem_continuousH1S hPhi K2 p Q hQ⟩
+  have hx : (groupCohomology.map (MonoidHom.id Gal) (kernelQuotient hPhi K2) 1).hom
+      (x : groupCohomology.H1 (vRep hPhi)) = 0 := by
+    exact division_quotient_map_zero hPhi K2 hN71 p Q hQ
+  obtain ⟨z, hz⟩ := exists_psiClass_of_quotient_zero hPhi K2 x hx
+  have hz0 := psiClass_eq_zero_of_mapped_eq_division hPhi K2 hN71 p Q hQ z hz
+  have hc : groupCohomology.H1π (vRep hPhi) (divisionCocycle hPhi p Q hQ) = 0 := by
+    change (x : groupCohomology.H1 (vRep hPhi)) = 0
+    rw [← hz, hz0, map_zero]
+  obtain ⟨R, hR⟩ := rational_preimage_of_divisionClass_zero hPhi p Q hQ hc
+  exact ⟨R, R.property, congrArg Subtype.val hR⟩
+
+end N25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_map_snd_pair
 -- name    : SimpleFunction.map_snd_pair
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:27:56.621084+00:00
 -- url     : https://prove2.me/theorems/6990ab43-d0a6-4865-9a3b-2aa7e336e624

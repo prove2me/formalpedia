@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_General_eq_25
 -- name    : QAOAE3Lin2.General.eq_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:24.710462+00:00
 -- url     : https://prove2.me/theorems/c0105915-ae21-4840-8858-3852981045ce

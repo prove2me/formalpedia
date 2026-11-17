@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BranchSpectral_atom_abs_bound
 -- name    : BranchSpectral.atom_abs_bound
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-16T05:46:31.438964+00:00
 -- url     : https://prove2.me/theorems/f17ad938-5842-471f-912c-f0c83c992ffb

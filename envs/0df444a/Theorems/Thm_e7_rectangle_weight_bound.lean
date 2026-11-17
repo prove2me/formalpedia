@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_rectangle_weight_bound
 -- name    : e7_rectangle_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:48.545274+00:00
 -- url     : https://prove2.me/theorems/eefd9181-a1b3-4e2f-b4a8-a9b1bdb982ee

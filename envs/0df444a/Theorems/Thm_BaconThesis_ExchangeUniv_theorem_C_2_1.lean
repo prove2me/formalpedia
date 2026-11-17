@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_ExchangeUniv_theorem_C_2_1
 -- name    : BaconThesis.ExchangeUniv.theorem_C_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:53:21.917201+00:00
 -- url     : https://prove2.me/theorems/6aef209a-9468-4f63-9b5c-1af042f6152a

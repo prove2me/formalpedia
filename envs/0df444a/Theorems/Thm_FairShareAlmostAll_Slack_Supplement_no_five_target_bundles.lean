@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShareAlmostAll_Slack_Supplement_no_five_target_bundles
 -- name    : FairShareAlmostAll.Slack.Supplement.no_five_target_bundles
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T19:15:54.979461+00:00
 -- url     : https://prove2.me/theorems/1c7ad034-176c-4df3-ada0-ee94e92f6b90

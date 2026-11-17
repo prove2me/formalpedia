@@ -68127,7 +68127,7 @@
 {"parent": "BartlettBousquetMendelson.LocalRad.theorem_3_3_part_2", "child": "BartlettBousquetMendelson_LocalRad_IsNontrivialSubRoot", "via": ["statement"]}
 {"parent": "BartlettBousquetMendelson.LocalRad.theorem_3_3_part_2", "child": "BartlettBousquetMendelson_LocalRad_rademacherAvg", "via": ["statement"]}
 {"parent": "SturtRobustStop_Structure_Pruning", "child": "SturtRobustStop_Structure_RobustProblem", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.planar_drawable_graph_completion_edge_count__p2m_975201d3_ed40_44be_a94c_66f3df904250_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawable_graph_completion_edge_count__p2m_975201d3_ed40_44be_a94c_66f3df904250_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P01.theorem2_achievabilityOptimality", "child": "QAlgorithms_Papers_Independent_Advance50_P01", "via": ["statement"]}
 {"parent": "ABHS2004.corollary_2_22", "child": "ABHS2004_TermSystem", "via": ["statement"]}
 {"parent": "DiazModulus.torus_coeff_poly", "child": "DiazHilbertBox", "via": ["solution", "statement"]}

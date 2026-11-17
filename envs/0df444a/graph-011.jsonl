@@ -53587,7 +53587,7 @@
 {"parent": "LPCA_Solutions_LPCA_FiniteIntervalDecomposition_IntervalExistence20261025_Defs", "child": "LPCA_Solutions_LPCA_FiniteIntervalSummand_IntervalExistence20261025_Defs", "via": ["statement"]}
 {"parent": "OAI.Paper170Geometry.TruncatedSpokeCoordinates.exists_passage_pairing_radius", "child": "OAIQ4Cc002", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper170Geometry.TruncatedSpokeCoordinates.exists_passage_pairing_radius", "child": "CompleteCrossing", "via": ["solution", "statement"]}
-{"parent": "OfflineStochMatch.Attenuation.safe_bound", "child": "OfflineStochMatch_Attenuation_Setting", "via": ["statement"]}
+{"parent": "OfflineStochMatch.Attenuation.safe_bound", "child": "OfflineStochMatch_Attenuation_Setting", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_lower_bound_298b1a86_18b6_4bc5_96f4_b68905059bb9", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAIQ031A135", "child": "OAIQ031A118", "via": ["statement"]}
 {"parent": "OAIQ031A135", "child": "OAIQ031A124", "via": ["statement"]}

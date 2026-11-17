@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMiningMFG_eq_2_7_max_hamiltonian
 -- name    : CryptoMiningMFG.eq_2_7_max_hamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:57:33.265407+00:00
 -- url     : https://prove2.me/theorems/1b42faba-090a-43d5-b47c-01ffb86ff21f

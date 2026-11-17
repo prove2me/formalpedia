@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_indicatorConstIntegral_def_6_2
 -- name    : indicatorConstIntegral_def_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:04:19.827735+00:00
 -- url     : https://prove2.me/theorems/cdb0d91c-bff5-4542-8478-f924805bca69

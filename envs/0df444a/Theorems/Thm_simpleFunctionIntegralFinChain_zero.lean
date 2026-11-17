@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_simpleFunctionIntegralFinChain_zero
 -- name    : simpleFunctionIntegralFinChain_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:50:00.41971+00:00
 -- url     : https://prove2.me/theorems/febce632-7b49-4fed-b4cb-1d7f8d329fb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_def62_eq_some_iff
 -- name    : def62_eq_some_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:49:13.660224+00:00
 -- url     : https://prove2.me/theorems/90b7e4e9-8233-45da-b3bd-8337db205aaf

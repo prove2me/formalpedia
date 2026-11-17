@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_partition_integral_between_lower_upper_id
 -- name    : Thm_1_4.partition_integral_between_lower_upper_id
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:29:33.245647+00:00
 -- url     : https://prove2.me/theorems/51c37e73-ae6c-4be3-b3e7-d667cb870462

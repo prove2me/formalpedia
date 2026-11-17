@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_complexTextbookIntegral_eq_some_of_integrable
 -- name    : complexTextbookIntegral_eq_some_of_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:29:53.322228+00:00
 -- url     : https://prove2.me/theorems/c9db6c68-1cc3-4918-988f-87c0e695179b

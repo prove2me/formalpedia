@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_metricOpenBalls_isTopologicalBasis
 -- name    : metricOpenBalls_isTopologicalBasis
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:14:49.927664+00:00
 -- url     : https://prove2.me/theorems/778f0fa0-5c6e-4224-95a1-b67a255b92cd

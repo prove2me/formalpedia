@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_seqLiminf_eq_filter_liminfEReal
 -- name    : seqLiminf_eq_filter_liminfEReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:54:30.261962+00:00
 -- url     : https://prove2.me/theorems/62af1e7f-aa8a-46ff-a4f0-0a74122c8e03

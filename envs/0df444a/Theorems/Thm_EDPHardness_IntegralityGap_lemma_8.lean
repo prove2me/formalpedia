@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_lemma_8
 -- name    : EDPHardness.IntegralityGap.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:38.307978+00:00
 -- url     : https://prove2.me/theorems/10f4425b-0459-4a2b-a4e9-b32eba7b64a5

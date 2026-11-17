@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg12101
 -- name    : OAI.UniversalTensorSquare.sg12101
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:48:55.268206+00:00
 -- url     : https://prove2.me/theorems/b79e72f5-d309-4f1f-93ef-eb5e22aa9b91

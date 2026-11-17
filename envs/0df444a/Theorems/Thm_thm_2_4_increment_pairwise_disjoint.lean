@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_increment_pairwise_disjoint
 -- name    : thm_2_4_increment_pairwise_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:18:41.922188+00:00
 -- url     : https://prove2.me/theorems/1f74dbb1-93da-47dc-96de-ab3426458d37

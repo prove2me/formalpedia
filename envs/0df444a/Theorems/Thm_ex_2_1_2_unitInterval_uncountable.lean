@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ex_2_1_2_unitInterval_uncountable
 -- name    : ex_2_1_2_unitInterval_uncountable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:56:58.892825+00:00
 -- url     : https://prove2.me/theorems/3ba9772f-82a4-46f7-b27d-670914dfe94a

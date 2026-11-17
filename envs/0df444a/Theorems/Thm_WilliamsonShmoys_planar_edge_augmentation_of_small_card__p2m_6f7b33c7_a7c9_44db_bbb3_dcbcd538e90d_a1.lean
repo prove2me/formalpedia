@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_edge_augmentation_of_small_card__p2m_6f7b33c7_a7c9_44db_bbb3_dcbcd538e90d_a1
 -- name    : WilliamsonShmoys.planar_edge_augmentation_of_small_card__p2m_6f7b33c7_a7c9_44db_bbb3_dcbcd538e90d_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:10:06.756198+00:00
 -- url     : https://prove2.me/theorems/ac3a3788-6a22-4a7a-9025-c2d661b5eddf

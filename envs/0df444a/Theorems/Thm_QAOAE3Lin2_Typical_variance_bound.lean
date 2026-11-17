@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_Typical_variance_bound
 -- name    : QAOAE3Lin2.Typical.variance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:24.683035+00:00
 -- url     : https://prove2.me/theorems/048d1084-8f89-40de-a666-68887264a624

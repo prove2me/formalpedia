@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a114_original_negative_Borel_count_exact_poisson_singleton_probabilities_20261114
 -- name    : AvramDividend.Classical.avram_a114_original_negative_Borel_count_exact_poisson_singleton_probabilities_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:10:58.251806+00:00
 -- url     : https://prove2.me/theorems/a8c62c49-8428-4b81-89c4-d6f51c329a09

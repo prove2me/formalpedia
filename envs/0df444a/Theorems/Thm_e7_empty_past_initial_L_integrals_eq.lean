@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_empty_past_initial_L_integrals_eq
 -- name    : e7_empty_past_initial_L_integrals_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:07.073502+00:00
 -- url     : https://prove2.me/theorems/2310dfa6-1e75-49d6-8324-335879e11ab0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7IndicatorUBF_measurable
 -- name    : e7IndicatorUBF_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:33.741303+00:00
 -- url     : https://prove2.me/theorems/67114c90-4910-4f84-a0a4-5248d70e1e2e

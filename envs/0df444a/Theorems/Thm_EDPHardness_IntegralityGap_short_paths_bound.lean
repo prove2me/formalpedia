@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_short_paths_bound
 -- name    : EDPHardness.IntegralityGap.short_paths_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:13.156981+00:00
 -- url     : https://prove2.me/theorems/7b64b1a3-f5bf-4937-ae01-bc6c852765e4

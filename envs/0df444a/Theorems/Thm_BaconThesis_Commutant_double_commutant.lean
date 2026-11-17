@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Commutant_double_commutant
 -- name    : BaconThesis.Commutant.double_commutant
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:38:19.092016+00:00
 -- url     : https://prove2.me/theorems/aec0d891-7a92-41e7-85e4-e3efd6568462

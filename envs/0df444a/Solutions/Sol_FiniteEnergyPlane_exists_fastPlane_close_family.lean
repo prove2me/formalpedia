@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.exists_fastPlane_close_family
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-06T15:17:22.571194+00:00
 -- url     : https://prove2.me/submissions/3216ef57-3f51-42a2-a057-7f450cba672a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_CylClose
 import Theorems.Thm_FiniteEnergyPlane_exists_jHolomorphic_family_of_fastPlane

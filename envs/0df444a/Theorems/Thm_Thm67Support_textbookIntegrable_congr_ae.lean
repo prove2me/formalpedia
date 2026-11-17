@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_textbookIntegrable_congr_ae
 -- name    : Thm67Support.textbookIntegrable_congr_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:32:08.462202+00:00
 -- url     : https://prove2.me/theorems/3ba258fa-3eb1-4c48-a9e4-9acd90721c72

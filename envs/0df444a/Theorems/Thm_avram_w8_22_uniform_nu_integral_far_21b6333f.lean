@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_w8_22_uniform_nu_integral_far_21b6333f
 -- name    : avram_w8_22_uniform_nu_integral_far_21b6333f
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T10:15:49.411511+00:00
 -- url     : https://prove2.me/theorems/2baf1ab2-d335-42e1-9d6b-98993965c52e

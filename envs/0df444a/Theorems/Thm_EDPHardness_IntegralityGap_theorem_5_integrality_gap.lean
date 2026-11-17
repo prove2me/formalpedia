@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_theorem_5_integrality_gap
 -- name    : EDPHardness.IntegralityGap.theorem_5_integrality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:01.456986+00:00
 -- url     : https://prove2.me/theorems/99ef1a76-536b-4971-b517-38fc33a4c3f9

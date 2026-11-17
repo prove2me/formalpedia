@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9ResidualSeatStep_continuous
 -- name    : d9ResidualSeatStep_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T14:40:29.269377+00:00
 -- url     : https://prove2.me/theorems/437c8228-c60a-4157-9417-fd7b5136e2ef

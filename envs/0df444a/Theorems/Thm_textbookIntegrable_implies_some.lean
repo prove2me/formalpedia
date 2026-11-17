@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookIntegrable_implies_some
 -- name    : textbookIntegrable_implies_some
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:29:07.193233+00:00
 -- url     : https://prove2.me/theorems/79d75744-601f-4bf6-9936-c4f805d88d93

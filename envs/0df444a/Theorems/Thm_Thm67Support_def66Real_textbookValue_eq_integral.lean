@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_def66Real_textbookValue_eq_integral
 -- name    : Thm67Support.def66Real_textbookValue_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:30:58.926774+00:00
 -- url     : https://prove2.me/theorems/4658364b-3f6c-46bc-b1df-761bec069300

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_finite_sum_alpha_local_increment_small
 -- name    : Thm11SourceRoute.finite_sum_alpha_local_increment_small
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:26:53.195065+00:00
 -- url     : https://prove2.me/theorems/140305fb-a17e-4052-87c1-d1835732f3c7

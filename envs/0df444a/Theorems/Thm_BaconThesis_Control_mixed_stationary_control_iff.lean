@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Control_mixed_stationary_control_iff
 -- name    : BaconThesis.Control.mixed_stationary_control_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:31.681477+00:00
 -- url     : https://prove2.me/theorems/2e24d8b6-6a9d-4d77-a829-4a893cd61f4c

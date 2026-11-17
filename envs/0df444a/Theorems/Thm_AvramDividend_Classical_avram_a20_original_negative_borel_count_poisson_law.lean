@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a20_original_negative_borel_count_poisson_law
 -- name    : AvramDividend.Classical.avram_a20_original_negative_borel_count_poisson_law
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T10:56:35.356915+00:00
 -- url     : https://prove2.me/theorems/54bd238b-ee18-406c-819f-3cab8210a48e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookERealFinSum_zero
 -- name    : textbookERealFinSum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:49:25.208201+00:00
 -- url     : https://prove2.me/theorems/c1c89a48-e770-4362-93eb-e3ca6e78956a

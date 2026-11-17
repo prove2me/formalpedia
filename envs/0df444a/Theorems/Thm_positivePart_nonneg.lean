@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_positivePart_nonneg
 -- name    : positivePart_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:05:35.074043+00:00
 -- url     : https://prove2.me/theorems/885e23c4-1100-4ea7-a22f-a8c95e59c616

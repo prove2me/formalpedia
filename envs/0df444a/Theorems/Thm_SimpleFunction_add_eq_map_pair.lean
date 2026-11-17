@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_add_eq_map_pair
 -- name    : SimpleFunction.add_eq_map_pair
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:28:12.235279+00:00
 -- url     : https://prove2.me/theorems/c34124ad-10f1-40ca-854b-636289e98568

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edge_maximal_drawable_has_euler_edge_count__p2m_f8a91428_e2c7_41b2_beea_f098a7f4c4b7_a1
 -- name    : edge_maximal_drawable_has_euler_edge_count__p2m_f8a91428_e2c7_41b2_beea_f098a7f4c4b7_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T21:55:46.054067+00:00
 -- url     : https://prove2.me/theorems/ef27f67c-bfde-4fe0-af12-0939b2f8ce56

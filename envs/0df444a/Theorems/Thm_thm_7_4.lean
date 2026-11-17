@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_7_4
 -- name    : thm_7_4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:16:57.6652+00:00
 -- url     : https://prove2.me/theorems/9d4fcd74-3b45-49c9-b9d4-29ae4d1aef0d

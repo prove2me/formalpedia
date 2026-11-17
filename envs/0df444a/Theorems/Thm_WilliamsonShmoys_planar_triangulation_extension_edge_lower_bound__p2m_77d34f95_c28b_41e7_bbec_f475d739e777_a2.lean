@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_triangulation_extension_edge_lower_bound__p2m_77d34f95_c28b_41e7_bbec_f475d739e777_a2
 -- name    : WilliamsonShmoys.planar_triangulation_extension_edge_lower_bound__p2m_77d34f95_c28b_41e7_bbec_f475d739e777_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:47:13.862206+00:00
 -- url     : https://prove2.me/theorems/ea7a71ed-13b1-4c29-adb9-6de531e96387

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dirac_step_measure_singleton
 -- name    : dirac_step_measure_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:58:46.98457+00:00
 -- url     : https://prove2.me/theorems/b0cb1abd-56d0-40ce-b37d-af3034766fe9

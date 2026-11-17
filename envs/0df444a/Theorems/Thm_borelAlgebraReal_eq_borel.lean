@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_borelAlgebraReal_eq_borel
 -- name    : borelAlgebraReal_eq_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:09:23.56686+00:00
 -- url     : https://prove2.me/theorems/daacf125-82b7-4d9a-b99d-8782f75fe0ee

@@ -20,7 +20,7 @@
 --
 --   **Formalization Note**: The partition into blocks is encoded by the map $\mathrm{blk}$; blocks need not have equal size here (equal block sizes are imposed where needed, e.g. in moment representations). The conditions quantify over every label $s \in \beta$, so `ExactlyOnePerBlock` forces every label to have a nonempty block. `blockSupport` requires decidable equality on $\beta$ and on $F$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.10 (\label{def:block-sparse-linear-system}) and Definition 4.4 (\label{def:moment-representation}); Lean: LatticePrepro/Basic/Blocks.lean, LatticePrepro.IsBinary, LatticePrepro.blockSupport, LatticePrepro.AtMostOnePerBlock, LatticePrepro.ExactlyOnePerBlock
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.10 (\label{def:block-sparse-linear-system}) and Definition 4.4 (\label{def:moment-representation}); Lean: LatticePrepro/Basic/Blocks.lean, LatticePrepro.IsBinary, LatticePrepro.blockSupport, LatticePrepro.AtMostOnePerBlock, LatticePrepro.ExactlyOnePerBlock
 
 import Mathlib
 

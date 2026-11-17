@@ -22,7 +22,7 @@
 --
 --   **Formalization Note**: The conclusion is `Nonempty (CodeGap F ε (SAT v) (len v) C)`, a structure whose fields are the code family (`CodeFamily`: a finite coordinate type, a subspace `Submodule F (M → F)` and the targets), the radius, and the properties above. Instances are 3SAT formulas encoded by one bit per possible clause, so $n$ is `len v` $= (2v)^3$, and the families are indexed by $v \ge 1$ rather than by $n$; $C$ may depend on $p$, $F$ and $\varepsilon$ but not on $v$. The distance $d(t, \mathcal C)$ is the natural number `codeDist` (an `sInf` of Hamming distances), $M$ is `Fintype.card 𝒞.M`, and $M^{1-\varepsilon}$ is a real power. Polynomial-time computability, the generator-matrix presentation and the description-length bounds of Theorem 5.1 are not part of the statement, and neither is the search test of Lemma 5.2, which is stated separately for the concrete test.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), codes, for the 3SAT verifier; Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.exists_code_gap
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), codes, for the 3SAT verifier; Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.exists_code_gap
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

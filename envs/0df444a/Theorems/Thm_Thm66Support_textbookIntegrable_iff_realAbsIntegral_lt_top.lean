@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm66Support_textbookIntegrable_iff_realAbsIntegral_lt_top
 -- name    : Thm66Support.textbookIntegrable_iff_realAbsIntegral_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:15:32.390556+00:00
 -- url     : https://prove2.me/theorems/4b93ad72-e672-4c69-b7d4-7af8d06a4697

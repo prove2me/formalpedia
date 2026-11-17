@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_geometricLawInfinitelyDivisible
 -- name    : Kyprianou.Ch01.geometricLawInfinitelyDivisible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:18:37.483427+00:00
 -- url     : https://prove2.me/theorems/0f4491ed-975b-423d-a4dc-1b8cc170f745

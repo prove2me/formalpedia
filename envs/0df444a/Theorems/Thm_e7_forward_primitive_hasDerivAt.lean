@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_forward_primitive_hasDerivAt
 -- name    : e7_forward_primitive_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:50.6126+00:00
 -- url     : https://prove2.me/theorems/3e2dfacd-659c-4650-8692-18b7ff0c83b4

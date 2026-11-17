@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLManagesComplexity_cross_entropy_decomposition
 -- name    : MLManagesComplexity.cross_entropy_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:39:18.400192+00:00
 -- url     : https://prove2.me/theorems/e8970ae4-2737-4a0f-80fb-3e202bc1d5a2

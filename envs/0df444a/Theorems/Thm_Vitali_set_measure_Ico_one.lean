@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Vitali_set_measure_Ico_one
 -- name    : Vitali_set.measure_Ico_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:40:15.02851+00:00
 -- url     : https://prove2.me/theorems/28065a7e-bb19-4983-b8a2-2f4a05125b59

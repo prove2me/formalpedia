@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_iff_preimage_generating_set
 -- name    : measurable_iff_preimage_generating_set
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:41:50.06154+00:00
 -- url     : https://prove2.me/theorems/90863ce5-f03d-4f15-af01-e33d1e5050af

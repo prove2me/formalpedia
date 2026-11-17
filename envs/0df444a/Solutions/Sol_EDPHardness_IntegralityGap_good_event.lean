@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EDPHardness.IntegralityGap.good_event
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T09:55:16.637421+00:00
 -- url     : https://prove2.me/submissions/d80294cc-f732-4fe7-85ad-988acd875ec8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_EDPHardness_IntegralityGap_GapInstance

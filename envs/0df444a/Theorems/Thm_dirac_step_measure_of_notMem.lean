@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dirac_step_measure_of_notMem
 -- name    : dirac_step_measure_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:59:33.440218+00:00
 -- url     : https://prove2.me/theorems/a63f6fba-dc65-4292-a625-b96de7e9aa00

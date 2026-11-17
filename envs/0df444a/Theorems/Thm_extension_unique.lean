@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_extension_unique
 -- name    : extension_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:56:34.672012+00:00
 -- url     : https://prove2.me/theorems/01ee8ada-60ea-4408-bd0b-2f1fbef95a08

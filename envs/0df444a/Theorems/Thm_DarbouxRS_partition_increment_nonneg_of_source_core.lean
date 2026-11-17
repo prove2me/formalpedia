@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_partition_increment_nonneg_of_source_core
 -- name    : DarbouxRS.partition_increment_nonneg_of_source_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:32:07.883497+00:00
 -- url     : https://prove2.me/theorems/af1027e2-7d9f-46e4-ab07-2fb2f66a4a2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_sourceHyp_id_step
 -- name    : DiscreteExpectation.sourceHyp_id_step
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:13:37.183009+00:00
 -- url     : https://prove2.me/theorems/4d6dfc25-c9aa-46e3-b92c-6d148144eb90

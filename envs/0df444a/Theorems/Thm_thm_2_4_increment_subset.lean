@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_increment_subset
 -- name    : thm_2_4_increment_subset
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:18:18.251194+00:00
 -- url     : https://prove2.me/theorems/5f13972a-7ceb-4de6-b1ff-a9e86dcd766e

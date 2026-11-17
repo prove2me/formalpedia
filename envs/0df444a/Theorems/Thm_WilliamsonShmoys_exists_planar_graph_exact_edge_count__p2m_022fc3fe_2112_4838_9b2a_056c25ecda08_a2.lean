@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_planar_graph_exact_edge_count__p2m_022fc3fe_2112_4838_9b2a_056c25ecda08_a2
 -- name    : WilliamsonShmoys.exists_planar_graph_exact_edge_count__p2m_022fc3fe_2112_4838_9b2a_056c25ecda08_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:01:32.500878+00:00
 -- url     : https://prove2.me/theorems/9b625ce0-21a3-499d-bb1b-40258fa2706e

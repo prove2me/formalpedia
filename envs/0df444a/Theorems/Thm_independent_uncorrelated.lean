@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_independent_uncorrelated
 -- name    : independent_uncorrelated
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:08:18.139804+00:00
 -- url     : https://prove2.me/theorems/9b071c10-3588-42a8-a5f9-5aa2297828e8

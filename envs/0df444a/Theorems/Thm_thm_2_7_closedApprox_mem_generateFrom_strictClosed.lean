@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_7_closedApprox_mem_generateFrom_strictClosed
 -- name    : thm_2_7_closedApprox_mem_generateFrom_strictClosed
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:12:53.245202+00:00
 -- url     : https://prove2.me/theorems/1513192c-9c68-4d38-8115-6f74d4c9384b

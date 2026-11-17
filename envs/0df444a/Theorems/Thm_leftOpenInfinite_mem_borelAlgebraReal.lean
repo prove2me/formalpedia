@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_leftOpenInfinite_mem_borelAlgebraReal
 -- name    : leftOpenInfinite_mem_borelAlgebraReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:11:03.401257+00:00
 -- url     : https://prove2.me/theorems/9a30a9b9-00ba-48ce-a4a9-539da1fa1f78

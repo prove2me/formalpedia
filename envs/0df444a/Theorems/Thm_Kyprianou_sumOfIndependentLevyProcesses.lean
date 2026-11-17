@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_sumOfIndependentLevyProcesses
 -- name    : Kyprianou.sumOfIndependentLevyProcesses
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T11:29:21.016311+00:00
 -- url     : https://prove2.me/theorems/75b7bc4b-bf1c-4804-b526-b8e715b0a6c8

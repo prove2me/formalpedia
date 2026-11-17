@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sourceSupIntegral_mono
 -- name    : sourceSupIntegral_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:00:53.968582+00:00
 -- url     : https://prove2.me/theorems/2e6b702b-b542-41a4-9cea-04fe3c846541

@@ -1,0 +1,54 @@
+-- Prove2me | Theorems.Thm_N25_U25_orders_rational
+-- name    : N25.U25_orders_rational
+-- status  : Proved
+-- author  : @FormallyCorrect
+-- created : 2026-11-16T18:55:49.328666+00:00
+-- url     : https://prove2.me/theorems/28b408af-2b33-4992-aa1f-a828073460ec
+-- title:
+--   The complete rational divisors of the five modular units
+-- statement:
+--   Let $P_j^ℚ$ be the selected rational cusps and $m_{ij}$ the prescribed order table. For each $i$, $$ord_{P_j^ℚ}(U_i)=m_{ij} ∧ (∀P, P≠P_0^ℚ∧⋯∧P≠P_4^ℚ⇒ord_P(U_i)=0).$$ This gives the rational divisor table.
+-- source:
+--   B. Mazur, Modular curves and the Eisenstein ideal, Publ. IHES 47 (1977); Lean formalization of the order-25 case for this mission. Modules in the MazurProof/Keystone/Tate families are adapted from anthropics/fermats-last-theorem (Apache-2.0) via the xiangyazi24/FLT fork.
+
+import Mathlib
+import Definitions.Def_N25_Units
+import Definitions.Def_N25_SelectedCusps
+import Definitions.Def_N25_UnitOrders
+import Definitions.Def_N25_Endgame
+import Definitions.Def_AlgebraicCurve_BaseChangeGalois
+import Definitions.Def_N25_UnitSeries
+import Definitions.Def_ModularCurve_LaurentCoeff
+import Theorems.Thm_ModularCurve_ord_qInftyPlaceBar
+import Definitions.Def_ModularCurve_JqCoeff
+import Definitions.Def_N25
+import Definitions.Def_AlgebraicCurve_IsCurveOver
+import Theorems.Thm_ModularCurve_isCurveOver_and_essFiniteType_laurentBaseChange_xHFunctionField
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_laurentBaseChange
+import Theorems.Thm_AlgebraicCurve_Place_exists_comap_algebraMap_eq_of_constantFieldExtension
+import Definitions.Def_ModularCurve_ComplexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_jqModC_mem_intFormRatiosC
+import Theorems.Thm_ModularCurve_exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_ord_eq_neg_width_of_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_finrank_adjoin_jqModC_laurentBaseChange_qExpFunctionFieldC_gammaH_eq_index
+import Theorems.Thm_ModularCurve_exists_tendsto_realizeOf_mul_exp_of_not_mem_toValuationSubring
+import Definitions.Def_N25_UnitAnalytic
+import Definitions.Def_ModularCurve_SiegelFunction
+import Theorems.Thm_ModularCurve_qExpansion_discriminant_eq_map_X_mul_dedekindEtaUnit
+import Theorems.Thm_ModularCurve_realizeOf_eq_div
+import Theorems.Thm_ModularCurve_exists_complexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_ComplexPlaceDictionaryOf_exists_pt_eq_of_mem
+import Definitions.Def_AlgebraicCurve_RatFuncPlaces
+import Definitions.Def_AlgebraicCurve_ConstantFieldPullback
+import Definitions.Def_FieldTheory_RatAlgClosureGalois
+import Definitions.Def_ModularCurve_GeometricBaseChange
+import Theorems.Thm_AlgebraicCurve_Place_ord_eq_zero_of_isAlgebraic
+import Theorems.Thm_AlgebraicCurve_Place_exists_forgetConstants_restrict_eq_of_isConstantFieldExtension
+
+set_option autoImplicit false
+open N25.Endgame
+open N25
+
+theorem N25.U25_orders_rational (i : Fin 5) :
+    (∀ j : Fin 5, (pQ25 j).ord (U25 i) = unitOrders25 i j) ∧
+      ∀ P : QPlace, (∀ j : Fin 5, P ≠ pQ25 j) → P.ord (U25 i) = 0 := by sorry

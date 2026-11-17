@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a128_original_finite_negative_Borel_count_zero_event_eq_nat_representative_probability_20261114
 -- name    : AvramDividend.Classical.avram_a128_original_finite_negative_Borel_count_zero_event_eq_nat_representative_probability_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:41:19.347386+00:00
 -- url     : https://prove2.me/theorems/69180353-b6a7-480f-84a4-cee4d52d7f2b

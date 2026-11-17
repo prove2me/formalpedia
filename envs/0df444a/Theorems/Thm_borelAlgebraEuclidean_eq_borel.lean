@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_borelAlgebraEuclidean_eq_borel
 -- name    : borelAlgebraEuclidean_eq_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:47:39.709751+00:00
 -- url     : https://prove2.me/theorems/fe6ccd0a-ab0d-4043-aa52-dc94cabb240a

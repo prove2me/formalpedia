@@ -24,7 +24,7 @@
 --
 --   **Formalization Note** The conclusion is `Nonempty (LatticeGap pn ε V.Language (V.S + 1) C)`, where `pn : PNorm` encodes $p$. The lattice distance is a real infimum (`⨅` over lattice vectors), and $M^{1/s-\varepsilon}$ is a real power (`Real.rpow`). Polynomial-time computability and description lengths are not formalized; the search test of Lemma 5.2 is stated separately (`LatticeReduction.accepts_of_isApprox`, `LatticeReduction.not_accepts_of_isNo`).
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), lattice case; Lean: LatticePrepro/Main.lean, LatticePrepro.lattice_gap
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), lattice case; Lean: LatticePrepro/Main.lean, LatticePrepro.lattice_gap
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

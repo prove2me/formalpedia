@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LightningNetwork_RateBounds_eq_24_nonneg_iff
 -- name    : LightningNetwork.RateBounds.eq_24_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:55:18.123887+00:00
 -- url     : https://prove2.me/theorems/c5e694f8-d659-4890-be2f-49e2d75ebe3f

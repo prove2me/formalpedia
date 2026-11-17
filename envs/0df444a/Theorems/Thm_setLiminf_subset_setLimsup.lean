@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_setLiminf_subset_setLimsup
 -- name    : setLiminf_subset_setLimsup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:23:17.818452+00:00
 -- url     : https://prove2.me/theorems/5efaba5a-a5d4-44f7-854a-770bb1c0539e

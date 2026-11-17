@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_jHolomorphic_family_of_window
 -- name    : FiniteEnergyPlane.exists_jHolomorphic_family_of_window
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-08T22:42:14.186007+00:00
 -- url     : https://prove2.me/theorems/bc0a29de-495f-4574-a868-98bd6bc0bce6

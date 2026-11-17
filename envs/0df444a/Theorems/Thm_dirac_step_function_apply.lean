@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dirac_step_function_apply
 -- name    : dirac_step_function_apply
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:40:49.169199+00:00
 -- url     : https://prove2.me/theorems/dbf5842f-97b2-43d2-aee2-c5b321ab56b6

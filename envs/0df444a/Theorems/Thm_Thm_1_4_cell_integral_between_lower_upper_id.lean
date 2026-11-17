@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_cell_integral_between_lower_upper_id
 -- name    : Thm_1_4.cell_integral_between_lower_upper_id
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:29:04.076762+00:00
 -- url     : https://prove2.me/theorems/8c8e23b8-23da-4675-b834-d1c4689a558c

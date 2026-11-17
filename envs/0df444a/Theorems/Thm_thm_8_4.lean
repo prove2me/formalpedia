@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_8_4
 -- name    : thm_8_4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:44:29.13602+00:00
 -- url     : https://prove2.me/theorems/15f31f58-bfdc-44ff-8090-5a26d3cfcec7

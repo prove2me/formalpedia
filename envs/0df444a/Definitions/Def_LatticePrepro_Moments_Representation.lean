@@ -27,7 +27,7 @@
 --
 --   **Formalization Note**: Compared with Definition 4.4: the coefficient functions of the soundness property live on one fixed extension field $\Omega$ (in the explicit construction an algebraic closure) rather than on a finite extension depending on $y$; the constraints are an arbitrary linear map rather than a matrix; the partition is a map $\iota \to \beta$ whose fibers all have size `blockSize`; $K$ is not required to be finite; the structure requires $r \ge 2$ (as Construction 4.5 does) instead of $r \ge 1$; and the weight threshold $\operatorname{wt}(y) < rD/2$ and the bound $|\operatorname{supp} f| \le 2\operatorname{wt}(y)/D$ are stated without division. Orders are `Fin (2 * r - 1)`. The simp lemmas `low_val`, `lowSucc_val` and `below_val` give the values of the order maps.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 4.4 (\label{def:moment-representation}); Lean: LatticePrepro/Moments/Representation.lean, LatticePrepro.MomentRepresentation
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 4.4 (\label{def:moment-representation}); Lean: LatticePrepro/Moments/Representation.lean, LatticePrepro.MomentRepresentation
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

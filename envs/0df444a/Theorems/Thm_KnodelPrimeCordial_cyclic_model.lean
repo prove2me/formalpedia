@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnodelPrimeCordial_cyclic_model
 -- name    : KnodelPrimeCordial.cyclic_model
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:01:40.932266+00:00
 -- url     : https://prove2.me/theorems/f2b0db6e-363e-437e-b2c1-0ae83a7d8462

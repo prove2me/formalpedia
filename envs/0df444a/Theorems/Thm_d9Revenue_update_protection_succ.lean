@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9Revenue_update_protection_succ
 -- name    : d9Revenue_update_protection_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T14:40:50.614971+00:00
 -- url     : https://prove2.me/theorems/c7e3f1c2-bf6f-4b7b-8eba-2cdbb53004f8

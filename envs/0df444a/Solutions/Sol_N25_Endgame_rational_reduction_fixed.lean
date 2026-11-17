@@ -1,0 +1,56 @@
+-- Prove2me | solution 1 for N25.Endgame.rational_reduction_fixed
+-- status  : ACCEPTED   (prove)
+-- author  : @FormallyCorrect
+-- created : 2026-11-16T18:59:05.992742+00:00
+-- url     : https://prove2.me/submissions/b67898b7-8f63-43fe-ab52-ca8a6dbdd9b6
+
+import Mathlib
+import Theorems.Thm_N25_Endgame_rational_reduction_fixed_good
+import Definitions.Def_N25_PointDifference
+import Definitions.Def_N25_CuspReduction
+import Definitions.Def_N25_SelectedCusps
+import Definitions.Def_N25_Units
+import Definitions.Def_N25_UnitOrders
+import Definitions.Def_N25_UnitSeries
+import Definitions.Def_N25_Endgame
+import Theorems.Thm_ValuationSubring_exists_isFrobeniusAt_of_liesOverPrime
+import Theorems.Thm_ModularCurve_reductionQExpModL_gammaH_smul_of_isFrobeniusAt
+import Theorems.Thm_ModularCurve_transcendental_jqModC
+import Definitions.Def_ModularCurve_X0ModL
+import Theorems.Thm_ModularCurve_exists_transcendental_finiteDimensional_qExpFunctionFieldC_of_isAlgClosed
+import Theorems.Thm_ModularCurve_finiteDimensional_and_finrank_adjoin_le_of_eq_coeffMap
+import Theorems.Thm_ModularCurve_qExpFrobeniusInputsModL_and_finrankAlong_of_transcendental
+import Theorems.Thm_AlgebraicCurve_isCurveOver_of_transcendental_of_perfectField
+import Theorems.Thm_AlgebraicCurve_essFiniteType_of_transcendental_of_finiteDimensional
+import Theorems.Thm_AlgebraicCurve_constantsAreBase_of_deg_eq_one
+import Theorems.Thm_ModularCurve_deg_qInftyPlaceBar
+import Theorems.Thm_ModularCurve_order_jqModC
+import Definitions.Def_N25
+import Definitions.Def_ModularCurve_JqCoeff
+import Theorems.Thm_ModularCurve_jqModC_mem_intFormRatiosC
+import Theorems.Thm_ModularCurve_finrank_adjoin_jqModC_laurentBaseChange_qExpFunctionFieldC_gammaH_eq_index
+import Theorems.Thm_ModularCurve_natCard_fibres_jqModC_eq_natCard_doubleCoset_of_finrank_eq_index
+import Theorems.Thm_ModularCurve_two_mul_genusFF_add_card_fibres_eq_finrank_add_two_of_gamma1_le
+import Theorems.Thm_ModularCurve_genusFF_gammaH_residueField_eq_of_not_dvd
+import Theorems.Thm_AlgebraicCurve_genus_eq_zero_of_isPrincipal_single_sub_single
+import Theorems.Thm_AlgebraicCurve_hasCanonicalDivisor_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_dCoordGenerates_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_functionFieldRiemannRoch_of_isAlgClosed_of_transcendental
+import Theorems.Thm_AlgebraicCurve_genus_eq_genusFF
+import Theorems.Thm_AlgebraicCurve_stichtenothGenusExists_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_weilDualityAdelic_of_functionFieldRiemannRoch_of_stichtenothGenusExists
+
+set_option autoImplicit false
+
+namespace N25.Endgame
+
+/-- Every rational geometric place reduces to a Frobenius-fixed place at two. -/
+theorem _root_.solution
+    (D₂ : N25.Endgame.RedDatum25 2)
+    (P : N25.Endgame.GPlace)
+    (hP : N25.Endgame.IsRationalGeomPlace P) :
+    N25.Endgame.frobPlace25 D₂ (N25.Endgame.redPlace25 D₂ P) =
+      N25.Endgame.redPlace25 D₂ P :=
+  rational_reduction_fixed_good 2 (Or.inl rfl) D₂ P hP
+
+end N25.Endgame

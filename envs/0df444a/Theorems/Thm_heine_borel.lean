@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_heine_borel
 -- name    : heine_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:17:54.866828+00:00
 -- url     : https://prove2.me/theorems/64b2c902-c661-4e09-8ad2-844fd8ceab8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_disjoint_fiber_of_ne
 -- name    : SimpleFunction.disjoint_fiber_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:22:29.294132+00:00
 -- url     : https://prove2.me/theorems/e3bdca69-f483-43e1-929c-edca4223c345

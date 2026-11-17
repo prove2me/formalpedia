@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BranchSpectral_kernel_summable
 -- name    : BranchSpectral.kernel_summable
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-16T05:46:44.873383+00:00
 -- url     : https://prove2.me/theorems/fcb90a2d-daa7-4f72-8285-d09e7cb39f50

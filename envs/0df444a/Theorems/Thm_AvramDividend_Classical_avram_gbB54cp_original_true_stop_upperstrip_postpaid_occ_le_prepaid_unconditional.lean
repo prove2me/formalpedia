@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gbB54cp_original_true_stop_upperstrip_postpaid_occ_le_prepaid_unconditional
 -- name    : AvramDividend.Classical.avram_gbB54cp_original_true_stop_upperstrip_postpaid_occ_le_prepaid_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T15:22:33.821846+00:00
 -- url     : https://prove2.me/theorems/305ae797-e44f-4b59-9006-babc98c569e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TangleStructTree_Supplement_theorem_3_7
 -- name    : TangleStructTree.Supplement.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T04:10:40.698288+00:00
 -- url     : https://prove2.me/theorems/8a70ac82-21a5-47ec-a6b0-cba58a86c372

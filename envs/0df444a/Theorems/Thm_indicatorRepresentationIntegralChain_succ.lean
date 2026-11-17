@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_indicatorRepresentationIntegralChain_succ
 -- name    : indicatorRepresentationIntegralChain_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:51:22.953216+00:00
 -- url     : https://prove2.me/theorems/383a391a-8b5a-4ff0-ba91-7cce4916eda2

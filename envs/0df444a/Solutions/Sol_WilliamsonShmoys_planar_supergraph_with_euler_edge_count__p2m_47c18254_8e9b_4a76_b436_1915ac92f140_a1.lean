@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys_planar_supergraph_with_euler_edge_count__p2m_47c18254_8e9b_4a76_b436_1915ac92f140_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T01:35:03.648454+00:00
 -- url     : https://prove2.me/submissions/4a954886-287a-4f98-837b-cbca37913444
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

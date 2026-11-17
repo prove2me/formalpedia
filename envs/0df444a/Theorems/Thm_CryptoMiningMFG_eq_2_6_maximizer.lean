@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CryptoMiningMFG_eq_2_6_maximizer
 -- name    : CryptoMiningMFG.eq_2_6_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:57:34.21839+00:00
 -- url     : https://prove2.me/theorems/9d3de2f7-1ecd-4a28-918c-e64c8490f141

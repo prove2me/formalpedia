@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolySwap_KMS_theorem_3_19
 -- name    : PolySwap.KMS.theorem_3_19
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:40:48.597196+00:00
 -- url     : https://prove2.me/theorems/adbed239-71b9-461c-a280-db2ec473d570

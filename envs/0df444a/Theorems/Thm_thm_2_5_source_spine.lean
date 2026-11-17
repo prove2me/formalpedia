@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_5_source_spine
 -- name    : thm_2_5_source_spine
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:53:50.901323+00:00
 -- url     : https://prove2.me/theorems/46e9543d-f364-46f5-ab99-30a1a88e2f05

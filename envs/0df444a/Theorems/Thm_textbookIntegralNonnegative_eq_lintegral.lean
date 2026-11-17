@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookIntegralNonnegative_eq_lintegral
 -- name    : textbookIntegralNonnegative_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:07:26.058006+00:00
 -- url     : https://prove2.me/theorems/8b7d9915-9292-4e2f-9f1b-ed789ba36736

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLManagesComplexity_kl_hypothesis_rearrangement
 -- name    : MLManagesComplexity.kl_hypothesis_rearrangement
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:40:35.097443+00:00
 -- url     : https://prove2.me/theorems/a90ef9e6-94a1-4b81-a0b3-eb486caa7449

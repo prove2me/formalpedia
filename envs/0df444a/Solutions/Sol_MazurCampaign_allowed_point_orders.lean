@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MazurCampaign.allowed_point_orders
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Vas
 -- created : 2026-10-06T09:00:58.589283+00:00
 -- url     : https://prove2.me/submissions/1b11ed0f-6dc2-4252-ad62-3488cf9f40d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MazurCampaign_group_constraints

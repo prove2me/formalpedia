@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_setOf_eq_eq_preimage
 -- name    : SimpleFunction.setOf_eq_eq_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:22:12.661363+00:00
 -- url     : https://prove2.me/theorems/09cf7921-4869-49f9-ac14-a7a6099d1163

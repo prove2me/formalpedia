@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_clock_guarded_continuous_kernel_local
 -- name    : finite_clock_guarded_continuous_kernel_local
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T13:49:18.134325+00:00
 -- url     : https://prove2.me/theorems/68e3a639-10f2-47ee-92b0-261b4088f578

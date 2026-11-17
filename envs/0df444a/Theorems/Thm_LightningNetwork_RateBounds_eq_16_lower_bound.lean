@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LightningNetwork_RateBounds_eq_16_lower_bound
 -- name    : LightningNetwork.RateBounds.eq_16_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:49:27.658308+00:00
 -- url     : https://prove2.me/theorems/538353b4-90b5-40e2-b4b9-9a2deb03fb8e

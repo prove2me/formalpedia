@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm61Support_integralValue_const_mul_real_of_defined
 -- name    : Thm61Support.integralValue_const_mul_real_of_defined
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:26:41.989854+00:00
 -- url     : https://prove2.me/theorems/3f06d18c-9587-453b-9349-2f77fc389d12

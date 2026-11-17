@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_lambdaSystem_iff_exists_dynkinSystem
 -- name    : lambdaSystem_iff_exists_dynkinSystem
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:42:22.172635+00:00
 -- url     : https://prove2.me/theorems/968f1383-54a2-43ab-9e7d-9d8cf7b0ebd0

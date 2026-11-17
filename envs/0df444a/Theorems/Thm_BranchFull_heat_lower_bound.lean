@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BranchFull_heat_lower_bound
 -- name    : BranchFull.heat_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-16T05:45:55.889123+00:00
 -- url     : https://prove2.me/theorems/c849cb8f-1f66-4c45-b78a-0490afd569d1

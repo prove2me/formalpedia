@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookERealFinSum_one
 -- name    : textbookERealFinSum_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:49:49.617732+00:00
 -- url     : https://prove2.me/theorems/a231252a-6e4b-46e3-b518-ee896ebaaa98

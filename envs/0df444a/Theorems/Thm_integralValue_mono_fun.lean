@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_integralValue_mono_fun
 -- name    : integralValue_mono_fun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:04:35.524001+00:00
 -- url     : https://prove2.me/theorems/ba3dab33-ad1d-4de7-9067-367d99daf6f1

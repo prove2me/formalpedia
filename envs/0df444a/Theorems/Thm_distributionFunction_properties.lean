@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_distributionFunction_properties
 -- name    : distributionFunction_properties
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:41:05.460549+00:00
 -- url     : https://prove2.me/theorems/e06fa980-2668-4b7e-81b1-85fc17031b28

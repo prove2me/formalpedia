@@ -1,0 +1,76 @@
+-- Prove2me | Theorems.Thm_APFPaper5_K2_sideClass_after_hold
+-- name    : APFPaper5.K2.sideClass_after_hold
+-- status  : Proved
+-- author  : @FiniteUniverse
+-- created : 2026-11-16T15:46:38.467399+00:00
+-- url     : https://prove2.me/theorems/cb1ca8be-5490-4ef5-aa66-273ba713b4e3
+-- title:
+--   sideClass after hold
+-- statement:
+--   Result: sideClass after hold. All parameters and hypotheses are retained in the declaration below.
+--
+--   ```lean
+--   theorem sideClass_after_hold (reads : D → X → Bool) (dist : ι → D) (h : X → X)
+--       (sigma : ι → ι) (flip : ι → Bool) (r : RearrangesFamily reads dist h sigma flip)
+--       (i : ι) (x : X) :
+--       sideClass reads dist (h x) i =
+--         (if flip i then (-1 : ℝ) else 1) * heldAfter sigma (sideClass reads dist x) i
+--   ```
+--
+--   Module context and limits: Active and signed-side classes are mathematical candidates, not adopted state readings. keptClass represents the recorded part only. Hold transformation rules retain RearrangesFamily and the stated flip assumptions; union additivity requires the explicit union rule and disjoint kept records.
+--
+--   Source scope parameters:
+--
+--   ```lean
+--   universe uI uX uD uW
+--   variable {ι : Type uI} {X : Type uX} {D : Type uD} {W : Type uW}
+--   ```
+--
+--   Public reference result; this record does not establish Foundation admission, physical K1–K4 closure, a forced transfer or Born-rule derivation.
+-- source:
+--   ['Theorems.Thm_APFPaper5_K2_state_class_candidates:127; pullbacks v39; source SHA-256 72423d5f7c1afb45e6a16aeca09a021c2de8dc1cacc91a639ea111660cfd570c']
+
+import Definitions.Def_APFPaper5_K2_StateClass
+import Definitions.Def_APFPaper5_K2_HoldScore
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.NormNum
+
+set_option autoImplicit false
+open APFPaper5.K1
+
+namespace APFPaper5.K2
+end APFPaper5.K2
+open APFPaper5
+open APFPaper5.K2
+universe uI uX uD uW
+variable {ι : Type uI} {X : Type uX} {D : Type uD} {W : Type uW}
+
+
+
+
+
+/-! ### K1's table is an overlap of record lists -/
+
+
+
+
+
+/-! ### Candidate A: the distinctions that read true, added up -/
+
+
+
+
+
+
+
+
+
+/-! ### Candidate B: the side of each distinction -/
+
+theorem APFPaper5.K2.sideClass_after_hold (reads : D → X → Bool) (dist : ι → D) (h : X → X)
+    (sigma : ι → ι) (flip : ι → Bool) (r : RearrangesFamily reads dist h sigma flip)
+    (i : ι) (x : X) :
+    sideClass reads dist (h x) i =
+      (if flip i then (-1 : ℝ) else 1) * heldAfter sigma (sideClass reads dist x) i := by sorry

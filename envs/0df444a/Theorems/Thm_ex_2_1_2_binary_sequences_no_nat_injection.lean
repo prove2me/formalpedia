@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ex_2_1_2_binary_sequences_no_nat_injection
 -- name    : ex_2_1_2_binary_sequences_no_nat_injection
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:41:27.191652+00:00
 -- url     : https://prove2.me/theorems/a251ed79-101f-4fc5-aba0-ee55b5d495d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_realOpenIntervals_countablySpanning
 -- name    : realOpenIntervals_countablySpanning
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:12:13.274906+00:00
 -- url     : https://prove2.me/theorems/0d136fcf-90fb-4cdc-8a69-2fe391259598

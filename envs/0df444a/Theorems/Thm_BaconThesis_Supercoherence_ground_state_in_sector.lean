@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Supercoherence_ground_state_in_sector
 -- name    : BaconThesis.Supercoherence.ground_state_in_sector
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:18:38.4721+00:00
 -- url     : https://prove2.me/theorems/91a05444-814b-4aef-b46d-5415c8cd4cdd

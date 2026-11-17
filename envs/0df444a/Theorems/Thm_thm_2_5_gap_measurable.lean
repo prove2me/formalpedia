@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_5_gap_measurable
 -- name    : thm_2_5_gap_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:52:57.062539+00:00
 -- url     : https://prove2.me/theorems/9701a7e6-d230-436c-98d1-ff033b54cd17

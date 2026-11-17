@@ -19,7 +19,7 @@
 --
 --   **Formalization Note**: A gate verifier is a general system of Boolean gate constraints; acyclicity is not required (`BoolCircuit.toGateVerifier` produces one from a circuit). The bundle includes simp lemmas stating that `toQuadratic` preserves $n$, $S$ and $G$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.14 (\label{def:computation-assignment}) and Claim 3.15 (\label{clm:verifier-system}); Lean: LatticePrepro/Verifier/Gates.lean, LatticePrepro.GateVerifier, LatticePrepro.GateVerifier.Language, LatticePrepro.GateVerifier.toQuadratic
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.14 (\label{def:computation-assignment}) and Claim 3.15 (\label{clm:verifier-system}); Lean: LatticePrepro/Verifier/Gates.lean, LatticePrepro.GateVerifier, LatticePrepro.GateVerifier.Language, LatticePrepro.GateVerifier.toQuadratic
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

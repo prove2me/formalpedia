@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_indicatorRepresentationSimpleFunction_succ
 -- name    : indicatorRepresentationSimpleFunction_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:50:36.269205+00:00
 -- url     : https://prove2.me/theorems/e8f45e94-5553-495f-9e0d-7b53192f0138

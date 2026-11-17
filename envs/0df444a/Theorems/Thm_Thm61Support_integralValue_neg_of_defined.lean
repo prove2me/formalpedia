@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm61Support_integralValue_neg_of_defined
 -- name    : Thm61Support.integralValue_neg_of_defined
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:26:15.941946+00:00
 -- url     : https://prove2.me/theorems/2a13f84a-530c-4bc5-956a-1df0d1d873b3

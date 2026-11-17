@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm61Support_ereal_mul_finset_sum_of_nonneg_of_ne_top
 -- name    : Thm61Support.ereal_mul_finset_sum_of_nonneg_of_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:24:51.933074+00:00
 -- url     : https://prove2.me/theorems/5791b74d-9498-44b7-8afd-8ea41ec8140e

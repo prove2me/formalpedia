@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_a114_original_negative_Borel_count_exact_poisson_singleton_probabilities_20261114
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T00:01:47.675235+00:00
 -- url     : https://prove2.me/submissions/30eb8920-b856-4357-9f4c-36ec041b55f3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

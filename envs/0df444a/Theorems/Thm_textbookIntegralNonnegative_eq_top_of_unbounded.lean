@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookIntegralNonnegative_eq_top_of_unbounded
 -- name    : textbookIntegralNonnegative_eq_top_of_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:07:14.996548+00:00
 -- url     : https://prove2.me/theorems/3681621c-ddec-4ecd-9ccb-f791371eb424

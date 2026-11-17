@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_sourceHypotheses_const_mul_core
 -- name    : DarbouxRS.sourceHypotheses_const_mul_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:31:53.067474+00:00
 -- url     : https://prove2.me/theorems/2050f38c-5e21-47ff-9ee8-2b0c827ea78c

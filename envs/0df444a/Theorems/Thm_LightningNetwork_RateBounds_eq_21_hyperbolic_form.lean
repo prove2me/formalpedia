@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LightningNetwork_RateBounds_eq_21_hyperbolic_form
 -- name    : LightningNetwork.RateBounds.eq_21_hyperbolic_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:54:10.624074+00:00
 -- url     : https://prove2.me/theorems/cf7a0e9f-e396-4abb-8a01-b1fe23e0d437

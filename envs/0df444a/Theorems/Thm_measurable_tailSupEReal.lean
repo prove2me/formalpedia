@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_tailSupEReal
 -- name    : measurable_tailSupEReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:52:58.593206+00:00
 -- url     : https://prove2.me/theorems/e24d6be6-7197-448b-b0a9-63db6395852f

@@ -22,7 +22,7 @@
 --
 --   **Formalization Note**: Existence is expressed as `Nonempty (ExplicitMomentRepresentation p S m B)`. The Lean encoding tuple is indexed by `Fin (S + 1)` with a leading entry $E_0=0$; the paper's tuple $(\beta_1,\dots,\beta_N)$ corresponds to $(E_1,\dots,E_S)$. The structure records neither that $K$ is finite nor the concrete shape of the construction ($K=\mathbb{S}(\gamma)$, encoding tuple $(0,1,\gamma,\dots,\gamma^{S-1})$, minimal choices of $\delta$ and $q$); these hold for the object built in the proof. Coefficient functions live on the single field $\overline{K}$ (Mathlib's `AlgebraicClosure K`) instead of a finite extension chosen per table, and the constraint matrix is an $\mathbb{F}_p$-linear map. The paper writes $\kappa,\tau,Q,D_{\mathrm{tab}},N,\mathbb{E},\mathsf d,\mathsf a$ for $r,q,q^m,D,S,K,B,m$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.8 (\label{thm:moment-representation-construction}), with Definition 4.4 (\label{def:moment-representation}); Lean: LatticePrepro/Tables/Explicit.lean, LatticePrepro.ExplicitMomentRepresentation
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.8 (\label{thm:moment-representation-construction}), with Definition 4.4 (\label{def:moment-representation}); Lean: LatticePrepro/Tables/Explicit.lean, LatticePrepro.ExplicitMomentRepresentation
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

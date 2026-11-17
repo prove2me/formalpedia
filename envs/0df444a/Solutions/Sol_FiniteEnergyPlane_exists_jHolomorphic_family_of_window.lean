@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.exists_jHolomorphic_family_of_window
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-14T13:02:59.792333+00:00
 -- url     : https://prove2.me/submissions/246cb237-4bf1-4fc8-9ee0-76c11465d6b1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Tube
 import Theorems.Thm_FiniteEnergyPlane_exists_stdTube_of_isFastPlane

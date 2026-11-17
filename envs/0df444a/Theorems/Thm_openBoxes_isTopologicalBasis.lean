@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_openBoxes_isTopologicalBasis
 -- name    : openBoxes_isTopologicalBasis
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:15:42.410846+00:00
 -- url     : https://prove2.me/theorems/3cb44d71-67f3-49d2-a9fc-cf70702b3dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookERealFinSum_succ
 -- name    : textbookERealFinSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:49:38.484744+00:00
 -- url     : https://prove2.me/theorems/a6c32156-c978-48d4-be0d-4f0afe33039c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_rsIntegrable_zero
 -- name    : DiscreteExpectation.rsIntegrable_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:58:25.938065+00:00
 -- url     : https://prove2.me/theorems/4836afa2-7118-4040-bca2-69d0bc717562

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLManagesComplexity_kl_from_uniform
 -- name    : MLManagesComplexity.kl_from_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:40:41.404351+00:00
 -- url     : https://prove2.me/theorems/97882591-c4a6-4b8d-bd25-f0e386e47200

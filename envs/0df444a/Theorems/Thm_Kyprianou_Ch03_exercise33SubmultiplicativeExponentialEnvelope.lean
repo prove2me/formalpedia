@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise33SubmultiplicativeExponentialEnvelope
 -- name    : Kyprianou.Ch03.exercise33SubmultiplicativeExponentialEnvelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:50:17.964569+00:00
 -- url     : https://prove2.me/theorems/a2702f26-4260-48cb-a98f-a4d37c0ab10f

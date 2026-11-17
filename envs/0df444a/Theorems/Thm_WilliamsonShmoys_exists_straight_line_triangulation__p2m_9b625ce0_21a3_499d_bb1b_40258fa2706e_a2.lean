@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_straight_line_triangulation__p2m_9b625ce0_21a3_499d_bb1b_40258fa2706e_a2
 -- name    : WilliamsonShmoys.exists_straight_line_triangulation__p2m_9b625ce0_21a3_499d_bb1b_40258fa2706e_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:15:01.20426+00:00
 -- url     : https://prove2.me/theorems/f098d7ef-84ef-48f9-82ee-bb0f858b20b9

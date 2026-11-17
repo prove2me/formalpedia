@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_cdfVariance_nonneg
 -- name    : cdfVariance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:49:19.060895+00:00
 -- url     : https://prove2.me/theorems/c7788ab2-e15a-48bc-961c-ffcb97ea7210

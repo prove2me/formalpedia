@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.avram_a20_original_negative_borel_count_poisson_law
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T00:20:26.59998+00:00
 -- url     : https://prove2.me/submissions/79cd3808-8325-48a8-a673-e8bd4dea66c8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_not_simpleFunctionHasNegInf_map_ennreal
 -- name    : not_simpleFunctionHasNegInf_map_ennreal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:51:35.721206+00:00
 -- url     : https://prove2.me/theorems/7e3af1f7-7c36-4808-9eb1-c16e25615172

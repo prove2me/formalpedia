@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_pairwiseDisjoint_Ioo_of_radii_le_infsep_div_four
 -- name    : Thm11SourceRoute.pairwiseDisjoint_Ioo_of_radii_le_infsep_div_four
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:27:11.420207+00:00
 -- url     : https://prove2.me/theorems/721f891f-c36b-43b8-874f-33f46607f2bb

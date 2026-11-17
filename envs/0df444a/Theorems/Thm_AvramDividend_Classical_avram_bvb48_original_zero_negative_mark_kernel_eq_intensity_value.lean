@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb48_original_zero_negative_mark_kernel_eq_intensity_value
 -- name    : AvramDividend.Classical.avram_bvb48_original_zero_negative_mark_kernel_eq_intensity_value
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T18:47:50.649294+00:00
 -- url     : https://prove2.me/theorems/84355106-ad20-4ae3-ba24-ae8ff46eff62

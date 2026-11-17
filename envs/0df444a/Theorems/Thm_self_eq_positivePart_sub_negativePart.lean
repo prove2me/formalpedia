@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_self_eq_positivePart_sub_negativePart
 -- name    : self_eq_positivePart_sub_negativePart
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:06:19.06919+00:00
 -- url     : https://prove2.me/theorems/43479c4b-ed29-4852-9df3-69abd1d7f9a8

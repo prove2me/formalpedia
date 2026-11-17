@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_triangulation_extension_edge_lower_bound__p2m_77d34f95_c28b_41e7_bbec_f475d739e777_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:52:16.354094+00:00
 -- url     : https://prove2.me/submissions/eb0e4b67-61ea-440b-aa19-3237ee3c98bc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_maximal_extension__p2m_ea7a71ed_13b1_4c29_adb9_6de531e96387_a1

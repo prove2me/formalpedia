@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rsIntegrable_integrator_const_mul
 -- name    : rsIntegrable_integrator_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:48:42.539747+00:00
 -- url     : https://prove2.me/theorems/b6fb6b1b-57ff-4ae8-8861-b9194f8b3aeb

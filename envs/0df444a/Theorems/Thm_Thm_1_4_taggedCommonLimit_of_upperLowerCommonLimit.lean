@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_taggedCommonLimit_of_upperLowerCommonLimit
 -- name    : Thm_1_4.taggedCommonLimit_of_upperLowerCommonLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:28:14.762487+00:00
 -- url     : https://prove2.me/theorems/6f026f66-4dfd-4c05-890b-3eb24663a17a

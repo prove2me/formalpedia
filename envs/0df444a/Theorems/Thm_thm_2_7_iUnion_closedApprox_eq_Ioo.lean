@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_7_iUnion_closedApprox_eq_Ioo
 -- name    : thm_2_7_iUnion_closedApprox_eq_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:13:16.707664+00:00
 -- url     : https://prove2.me/theorems/3fa2c09b-4f98-4288-9b32-07808cd621ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_def_2_4_eq_setLiminf
 -- name    : def_2_4_eq_setLiminf
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:23:33.666461+00:00
 -- url     : https://prove2.me/theorems/8930f13b-f842-4cc1-a532-bc144cbc02c2

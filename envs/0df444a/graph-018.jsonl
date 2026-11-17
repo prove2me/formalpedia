@@ -33256,12 +33256,12 @@
 {"parent": "PaddedDescent_F_RebalF", "child": "StepMachines_Prog_GridDefs", "via": ["statement"]}
 {"parent": "PaddedDescent_F_RebalF", "child": "PaddedDescent_F_Table", "via": ["statement"]}
 {"parent": "PaddedDescent_F_RebalF", "child": "Groundwork_Net_Net", "via": ["statement"]}
-{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_y", "via": ["statement"]}
-{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_alg1Prog", "via": ["statement"]}
-{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["statement"]}
-{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_clock", "via": ["statement"]}
-{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
+{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_y", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_alg1Prog", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_clock", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.theorem_1", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.QueryMachine.close_bind", "child": "QueryMachines_CombDefs", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.QueryMachine.close_bind", "child": "QueryMachines_Comb", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.QueryMachine.close_bind", "child": "QueryMachines_Runs", "via": ["solution", "statement"]}

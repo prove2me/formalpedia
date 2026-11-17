@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_predictable_section_measurable_local
 -- name    : predictable_section_measurable_local
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T13:49:19.888501+00:00
 -- url     : https://prove2.me/theorems/26d40915-3275-47f1-b9d9-b01aaf8b630c

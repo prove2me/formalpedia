@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Commutant_lemma_7_4_1
 -- name    : BaconThesis.Commutant.lemma_7_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:38:42.295944+00:00
 -- url     : https://prove2.me/theorems/ad4780ff-424e-4d32-8c7b-d5ecc297357f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_ExchangeUniv_n4_independent
 -- name    : BaconThesis.ExchangeUniv.n4_independent
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:53:25.928222+00:00
 -- url     : https://prove2.me/theorems/c6fb4711-9019-4447-8ee3-960c51e172f9

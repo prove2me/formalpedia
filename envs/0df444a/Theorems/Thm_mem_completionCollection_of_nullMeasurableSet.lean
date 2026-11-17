@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mem_completionCollection_of_nullMeasurableSet
 -- name    : mem_completionCollection_of_nullMeasurableSet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:02:04.234088+00:00
 -- url     : https://prove2.me/theorems/8caec5e8-4298-4536-94d8-8ee1aca0d270

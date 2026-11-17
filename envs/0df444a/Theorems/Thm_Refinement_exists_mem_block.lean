@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Refinement_exists_mem_block
 -- name    : Refinement.exists_mem_block
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:50:25.340203+00:00
 -- url     : https://prove2.me/theorems/23937ce8-8cb7-457d-bb44-697d57060909

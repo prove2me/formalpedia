@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_of_tendstoEReal
 -- name    : measurable_of_tendstoEReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:54:40.76853+00:00
 -- url     : https://prove2.me/theorems/1d584711-592c-406d-9658-e4780b5c2d8a

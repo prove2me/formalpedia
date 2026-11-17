@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_ExchangeUniv_eq_D_5_D_7
 -- name    : BaconThesis.ExchangeUniv.eq_D_5_D_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:51:57.897273+00:00
 -- url     : https://prove2.me/theorems/0ea0e3c8-41ae-4fb1-9c15-6aa9c894b71f

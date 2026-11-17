@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VHmGA_Convergence_eq_23
 -- name    : VHmGA.Convergence.eq_23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:40:14.73814+00:00
 -- url     : https://prove2.me/theorems/d345d823-8ddb-42f4-ad3e-4abf6bbac6fb

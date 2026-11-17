@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_step_mono
 -- name    : DiscreteExpectation.step_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:13:12.203203+00:00
 -- url     : https://prove2.me/theorems/92807c15-b86b-479d-a6a1-a0e0a70e0a20

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StochLoadBal.Makespan.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-03T03:58:10.313865+00:00
 -- url     : https://prove2.me/submissions/5d7e448e-ae07-4745-9e12-f3c81a137876
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_StochLoadBal_Makespan_Rounding

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_targetResolvent_range
 -- name    : targetResolvent_range
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:25.851524+00:00
 -- url     : https://prove2.me/theorems/013bfd2f-61a4-4404-af9c-c41fcfb6d320

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_finite_range_of_simpleFunction
 -- name    : SimpleFunction.finite_range_of_simpleFunction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:21:51.999195+00:00
 -- url     : https://prove2.me/theorems/4dfe17b2-2a20-4625-a86f-72f1697cd5ee

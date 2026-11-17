@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a115_original_positive_rate_negative_Borel_count_poisson_singletons_20261114
 -- name    : AvramDividend.Classical.avram_a115_original_positive_rate_negative_Borel_count_poisson_singletons_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:13:22.158144+00:00
 -- url     : https://prove2.me/theorems/0705d58b-4bb3-4c64-b759-8435d7697bdc

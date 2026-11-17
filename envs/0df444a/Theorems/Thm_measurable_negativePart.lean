@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_negativePart
 -- name    : measurable_negativePart
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:05:14.44335+00:00
 -- url     : https://prove2.me/theorems/188e44af-86f4-422e-96fb-c5f2da2b4143

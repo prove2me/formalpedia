@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakethird100_P15_generatingTrace_stripAnalyticity
 -- name    : QAlgorithms.Papers.Independent.Intakethird100.P15.generatingTrace_stripAnalyticity
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-11-01T05:04:38.648788+00:00
 -- url     : https://prove2.me/theorems/01d3aa72-e900-470d-b9ca-92b613a7d653

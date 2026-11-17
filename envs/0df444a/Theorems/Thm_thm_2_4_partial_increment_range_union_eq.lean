@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_partial_increment_range_union_eq
 -- name    : thm_2_4_partial_increment_range_union_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:19:52.11433+00:00
 -- url     : https://prove2.me/theorems/1f69738e-3751-4c35-99a9-7086f37cd735

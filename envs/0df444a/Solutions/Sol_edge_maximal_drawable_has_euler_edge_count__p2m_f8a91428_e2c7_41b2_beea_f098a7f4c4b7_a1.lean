@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for edge_maximal_drawable_has_euler_edge_count__p2m_f8a91428_e2c7_41b2_beea_f098a7f4c4b7_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-31T22:03:46.458213+00:00
 -- url     : https://prove2.me/submissions/7df8cf67-e907-4575-b554-548cde5a1625
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_planar_drawing_completion_with_euler_edge_count__p2m_ef27f67c_bfde_4fe0_af12_0939b2f8ce56_a2

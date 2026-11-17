@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_upperLowerCommonLimit_integrand_add_core
 -- name    : DarbouxRS.upperLowerCommonLimit_integrand_add_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:32:34.911217+00:00
 -- url     : https://prove2.me/theorems/7c5b0549-3ce7-43e5-9385-9f25cf07ff48

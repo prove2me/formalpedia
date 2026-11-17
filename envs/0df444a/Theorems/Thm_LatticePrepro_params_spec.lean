@@ -18,7 +18,7 @@
 --
 --   **Formalization Note** The ceilings are `Nat.ceil`. $n^\delta$ is a real power (`Real.rpow`), and $(S+1)^k$ is cast from $\mathbb{N}$ to $\mathbb{R}$ in the first conclusion. The lemma does not require $p$ to be prime.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634); auxiliary lemma used in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), choice of parameters and inequality (25) (\label{eq:final-gap-requirement}); Lean: LatticePrepro/Main.lean, LatticePrepro.params_spec
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634); auxiliary lemma used in the proof of Theorem 5.1 (\label{thm:approximation-hardness}), choice of parameters and inequality (25) (\label{eq:final-gap-requirement}); Lean: LatticePrepro/Main.lean, LatticePrepro.params_spec
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

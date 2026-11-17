@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for KnodelPrimeCordial.case_mod_6_offset_count__p2m_09d5ad41_d63b_42b2_b02b_457801360f54_a1
+-- status  : ACCEPTED   (prove)
+-- author  : @parclytaxel
+-- created : 2026-11-16T11:17:15.781516+00:00
+-- url     : https://prove2.me/submissions/1e01a224-09ad-47d8-ac7b-e2848960cd0b
+
+import Mathlib
+import Definitions.Def_KnodelPrimeCordial_IsPrimeCordialLabeling
+import Definitions.Def_KnodelPrimeCordial_knodel
+import Definitions.Def_KnodelPrimeCordial_labelF
+import Theorems.Thm_KnodelPrimeCordial_case_mod_6_offset_0_count__p2m_0097d18c_892d_47ab_91e0_b6172f62f5ff_a1
+import Theorems.Thm_KnodelPrimeCordial_case_mod_6_offset_1_count__p2m_0097d18c_892d_47ab_91e0_b6172f62f5ff_a1
+import Theorems.Thm_KnodelPrimeCordial_case_mod_6_offset_2_count__p2m_0097d18c_892d_47ab_91e0_b6172f62f5ff_a1
+open scoped BigOperators
+
+theorem solution
+    (n : ℕ) (hn : Even n) (h10 : 10 ≤ n) (hmod : n % 12 = 6) (k : Fin 3) :
+    (Finset.univ.filter fun j : Fin (n / 2) =>
+      Nat.Coprime
+        (KnodelPrimeCordial.labelF (2 * j.val))
+        (KnodelPrimeCordial.labelF
+          ((2 * ((j.val + 2 ^ k.val - 1) % (n / 2)) + n - 1) % n))).card =
+      if k.val = 1 then (n - 2) / 4 else (n + 2) / 4 := by
+  fin_cases k
+  · simpa using
+      KnodelPrimeCordial.case_mod_6_offset_0_count__p2m_0097d18c_892d_47ab_91e0_b6172f62f5ff_a1
+        n hn h10 hmod
+  · simpa using
+      KnodelPrimeCordial.case_mod_6_offset_1_count__p2m_0097d18c_892d_47ab_91e0_b6172f62f5ff_a1
+        n hn h10 hmod
+  · simpa using
+      KnodelPrimeCordial.case_mod_6_offset_2_count__p2m_0097d18c_892d_47ab_91e0_b6172f62f5ff_a1
+        n hn h10 hmod

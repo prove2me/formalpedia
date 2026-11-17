@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Vitali_set_not_exists_vitali_measure
 -- name    : Vitali_set.not_exists_vitali_measure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:40:30.175121+00:00
 -- url     : https://prove2.me/theorems/89ef48d7-60d3-4d87-a557-530c2a974a02

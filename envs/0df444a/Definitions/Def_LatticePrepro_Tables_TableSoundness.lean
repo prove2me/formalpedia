@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: `hLen p m B` coincides with `hankelLen p (B ^ m)` from the Hankel reconstruction module. The polynomial matrix itself, and the matrix $(\lambda^{\mathrm{digits}(h)})$ used to analyse it, are defined in the source module but are not part of this bundle. The paper writes $\nu,\mathsf d,\mathsf a$ for $\ell,B,m$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction A.4, step 2 (\label{step:moment-parameters}) and Definition A.5 (\label{def:table-matrix}); Lean: LatticePrepro/Tables/TableSoundness.lean, LatticePrepro.ExplicitTables.hLen
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction A.4, step 2 (\label{step:moment-parameters}) and Definition A.5 (\label{def:table-matrix}); Lean: LatticePrepro/Tables/TableSoundness.lean, LatticePrepro.ExplicitTables.hLen
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

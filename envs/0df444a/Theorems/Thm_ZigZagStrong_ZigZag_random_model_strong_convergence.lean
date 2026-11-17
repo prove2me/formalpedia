@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZigZagStrong_ZigZag_random_model_strong_convergence
 -- name    : ZigZagStrong.ZigZag.random_model_strong_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:05:08.598463+00:00
 -- url     : https://prove2.me/theorems/36825f82-6d71-42fa-bd9c-c943ec56dc15

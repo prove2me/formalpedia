@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_levyKhintchineLaw
 -- name    : Kyprianou.Ch01.levyKhintchineLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T00:16:48.225731+00:00
 -- url     : https://prove2.me/theorems/256e77cc-f495-4800-bfdf-68efed2b94aa

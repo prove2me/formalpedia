@@ -17,7 +17,7 @@
 --
 --   **Formalization Note.** `Red : LatticeReduction L g pn` is an arbitrary lattice reduction; its YES radius bound and weight bound $w\le16D(\|t_x-v\|_p/R)^s$ are fields of the structure. The paper assumes $f\ge1$ and $\Gamma>16f^s$; Lean needs only $f\ge0$ and $16f^s\le g$, with $f^s$ a real power. $\operatorname{dist}_p(t_x,\Lambda)$ is `latticeDist`, and the test is the predicate `LatticeReduction.Accepts`. The polynomial running time of the test is not formalized.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 5.2 (\label{lem:search-test}), lattices, YES instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.LatticeReduction.accepts_of_isApprox
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 5.2 (\label{lem:search-test}), lattices, YES instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.LatticeReduction.accepts_of_isApprox
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

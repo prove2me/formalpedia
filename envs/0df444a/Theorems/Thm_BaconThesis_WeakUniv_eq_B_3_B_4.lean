@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_WeakUniv_eq_B_3_B_4
 -- name    : BaconThesis.WeakUniv.eq_B_3_B_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:38:42.546988+00:00
 -- url     : https://prove2.me/theorems/feaea7c9-e6ae-4b96-9d29-ab4cdbb8032e

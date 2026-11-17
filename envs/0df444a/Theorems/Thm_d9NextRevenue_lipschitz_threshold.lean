@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9NextRevenue_lipschitz_threshold
 -- name    : d9NextRevenue_lipschitz_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T14:40:50.034246+00:00
 -- url     : https://prove2.me/theorems/f3376b73-0901-4f1b-bccc-18134fd5ec57

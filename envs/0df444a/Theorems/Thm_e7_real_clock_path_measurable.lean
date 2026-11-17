@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_real_clock_path_measurable
 -- name    : e7_real_clock_path_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:09.46771+00:00
 -- url     : https://prove2.me/theorems/fadc1415-84d7-4b95-95ba-a9f13b464176

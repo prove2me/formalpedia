@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_taggedCommonLimit_zero
 -- name    : DiscreteExpectation.taggedCommonLimit_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:57:31.600061+00:00
 -- url     : https://prove2.me/theorems/7268ecf1-de63-496c-9ca7-e4d3857d5a6f

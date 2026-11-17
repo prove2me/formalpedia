@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_continuousAt_local_oscillation
 -- name    : Thm11SourceRoute.continuousAt_local_oscillation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:25:46.139205+00:00
 -- url     : https://prove2.me/theorems/514da935-41c3-499c-ab36-a00d8489fa64

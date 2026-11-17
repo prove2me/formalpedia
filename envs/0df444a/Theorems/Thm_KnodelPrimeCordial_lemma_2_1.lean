@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnodelPrimeCordial_lemma_2_1
 -- name    : KnodelPrimeCordial.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:04:10.571327+00:00
 -- url     : https://prove2.me/theorems/2ca607db-fb22-40a0-9812-c6037365c324

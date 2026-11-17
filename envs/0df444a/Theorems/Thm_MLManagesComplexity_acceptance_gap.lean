@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLManagesComplexity_acceptance_gap
 -- name    : MLManagesComplexity.acceptance_gap
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:42:28.462118+00:00
 -- url     : https://prove2.me/theorems/6168fb93-c41c-42ee-9f5b-9e52807efef1

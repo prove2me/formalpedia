@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_leftClosedRightOpen_mem_borelAlgebraReal
 -- name    : leftClosedRightOpen_mem_borelAlgebraReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:11:42.966096+00:00
 -- url     : https://prove2.me/theorems/427fa112-b64f-4819-a69d-64eae00514f5

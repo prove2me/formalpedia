@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Vitali_set_vitali_seq_disjoint
 -- name    : Vitali_set.vitali_seq_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:38:55.491197+00:00
 -- url     : https://prove2.me/theorems/7290b3d6-cde8-4a4d-b12b-c6372c37797f

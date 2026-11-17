@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_7_openInterval_mem_generateFrom_strictClosed
 -- name    : thm_2_7_openInterval_mem_generateFrom_strictClosed
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:13:49.680634+00:00
 -- url     : https://prove2.me/theorems/fd9527f6-7234-49e1-9651-da3ea84d2e87

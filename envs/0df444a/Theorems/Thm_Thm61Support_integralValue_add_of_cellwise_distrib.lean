@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm61Support_integralValue_add_of_cellwise_distrib
 -- name    : Thm61Support.integralValue_add_of_cellwise_distrib
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:26:55.82255+00:00
 -- url     : https://prove2.me/theorems/c95f25d8-11f5-4861-93b5-e00caca2ebd6

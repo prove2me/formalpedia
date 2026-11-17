@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EDPHardness.IntegralityGap.routed_pairs_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T10:22:42.665889+00:00
 -- url     : https://prove2.me/submissions/355c7819-abfc-4b09-891c-b8b3b049728b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_EDPHardness_IntegralityGap_FlowRelaxation

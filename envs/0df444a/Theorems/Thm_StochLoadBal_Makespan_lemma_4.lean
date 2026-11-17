@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochLoadBal_Makespan_lemma_4
 -- name    : StochLoadBal.Makespan.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:18:09.921893+00:00
 -- url     : https://prove2.me/theorems/3e3eaa77-1cef-472a-914b-38b629af4ac8

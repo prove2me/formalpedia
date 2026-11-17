@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_exp_moment_kernel_measurable
 -- name    : e7_exp_moment_kernel_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:30.48042+00:00
 -- url     : https://prove2.me/theorems/cb4db943-30c3-4bee-904e-d37339d38c73

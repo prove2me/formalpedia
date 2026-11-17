@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9NextRevenue_hasDerivWithinAt_threshold_right_all
 -- name    : d9NextRevenue_hasDerivWithinAt_threshold_right_all
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T14:40:49.76976+00:00
 -- url     : https://prove2.me/theorems/930224b7-73cc-4895-a98d-fc7265668686

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a130_original_negative_Borel_integer_count_first_second_moments_and_void_event_20261114
 -- name    : AvramDividend.Classical.avram_a130_original_negative_Borel_integer_count_first_second_moments_and_void_event_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:43:33.444715+00:00
 -- url     : https://prove2.me/theorems/83c09b5d-b122-490b-bd7c-f1c2f1bdaa62

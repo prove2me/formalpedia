@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_indicatorRepresentationWeightedSum_succ
 -- name    : indicatorRepresentationWeightedSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:50:48.48306+00:00
 -- url     : https://prove2.me/theorems/b0b26539-4fb5-465e-b3d5-edc53218a9b3

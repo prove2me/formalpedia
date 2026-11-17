@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_lowerSum_integrand_add_le_core
 -- name    : DarbouxRS.lowerSum_integrand_add_le_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:46:37.106552+00:00
 -- url     : https://prove2.me/theorems/362e3c6a-0998-48e7-99b3-9bba2cc5bcce

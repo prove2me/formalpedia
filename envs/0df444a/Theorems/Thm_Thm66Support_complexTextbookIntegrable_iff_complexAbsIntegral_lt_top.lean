@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm66Support_complexTextbookIntegrable_iff_complexAbsIntegral_lt_top
 -- name    : Thm66Support.complexTextbookIntegrable_iff_complexAbsIntegral_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:15:54.907824+00:00
 -- url     : https://prove2.me/theorems/264c4032-4cd7-4d46-899a-f9ca12d6bc8d

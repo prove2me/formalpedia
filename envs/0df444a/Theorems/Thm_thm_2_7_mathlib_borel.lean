@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_7_mathlib_borel
 -- name    : thm_2_7_mathlib_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:14:35.090472+00:00
 -- url     : https://prove2.me/theorems/4047e5db-1ca2-49c2-b745-6d01ccbb41f2

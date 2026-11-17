@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.planar_edge_augmentation_of_small_card__p2m_6f7b33c7_a7c9_44db_bbb3_dcbcd538e90d_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:02:30.4851+00:00
 -- url     : https://prove2.me/submissions/ff305368-9bdf-41fc-b5e0-c84474e38280
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Theorems.Thm_WilliamsonShmoys_maximal_planar_supergraph__p2m_ac3a3788_6a22_4a7a_9025_c2d661b5eddf_a3

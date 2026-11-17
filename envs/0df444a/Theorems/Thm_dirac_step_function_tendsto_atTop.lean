@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dirac_step_function_tendsto_atTop
 -- name    : dirac_step_function_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:58:12.832498+00:00
 -- url     : https://prove2.me/theorems/72f9662b-a462-4efe-b431-bd934d61fb17

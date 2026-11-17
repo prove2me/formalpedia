@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RGMISFast_root_count_expectation_drift
 -- name    : RGMISFast.root_count_expectation_drift
--- status  : Open
+-- status  : Proved
 -- author  : @srikkanthr
 -- created : 2026-11-16T00:02:25.370382+00:00
 -- url     : https://prove2.me/theorems/0616f247-b6e3-4a73-bdb1-fee717e78e36

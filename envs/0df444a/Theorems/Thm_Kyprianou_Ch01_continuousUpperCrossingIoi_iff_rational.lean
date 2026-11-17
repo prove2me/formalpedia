@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_continuousUpperCrossingIoi_iff_rational
 -- name    : Kyprianou.Ch01.continuousUpperCrossingIoi_iff_rational
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T21:54:56.157195+00:00
 -- url     : https://prove2.me/theorems/39aa2381-44f2-49cd-a2b8-157598aacbec

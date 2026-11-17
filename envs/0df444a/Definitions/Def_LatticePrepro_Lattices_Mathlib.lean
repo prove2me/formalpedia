@@ -18,7 +18,7 @@
 --
 --   **Formalization Note.** Finite exponents are sent to `ENNReal.ofReal p`. The bundle also contains the helper lemmas `PNorm.one_le_toENNReal` ($1\le p$), `castₗ_apply` (the map agrees with `toReal`) and `realLattice_le_span_basisFun` ($\Lambda_{\mathbb R}$ lies in the $\mathbb Z$-span of the standard basis, i.e. in $\mathbb Z^M$). Discreteness is an instance because Mathlib's `IsZLattice` takes `DiscreteTopology` as a type-class argument.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Section 3 (Preliminaries, \label{sec:preliminaries}), definition of lattices; Lean: LatticePrepro/Lattices/Mathlib.lean, LatticePrepro.PNorm.toENNReal, LatticePrepro.LatticeFamily.castₗ, LatticePrepro.LatticeFamily.realLattice, LatticePrepro.LatticeFamily.discreteTopology_realLattice
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Section 3 (Preliminaries, \label{sec:preliminaries}), definition of lattices; Lean: LatticePrepro/Lattices/Mathlib.lean, LatticePrepro.PNorm.toENNReal, LatticePrepro.LatticeFamily.castₗ, LatticePrepro.LatticeFamily.realLattice, LatticePrepro.LatticeFamily.discreteTopology_realLattice
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

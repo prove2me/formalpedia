@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: The bundle contains only this definition; the functionals used in the proof of Theorem A.7 are in the source module. The paper writes $\nu$ and $\kappa$ for $\ell$ and $r$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Tables/Hankel.lean, LatticePrepro.hankelLen
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Tables/Hankel.lean, LatticePrepro.hankelLen
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Moments_Basic

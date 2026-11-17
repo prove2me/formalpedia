@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_forward_primitive_continuous
 -- name    : e7_forward_primitive_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:41.922836+00:00
 -- url     : https://prove2.me/theorems/bff488a8-d1cc-49a6-9aa4-90b2ad8ab128

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ex_2_1_2_reals_uncountable
 -- name    : ex_2_1_2_reals_uncountable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:57:12.246179+00:00
 -- url     : https://prove2.me/theorems/8b3e34f0-69db-41c0-96a3-643559064d26

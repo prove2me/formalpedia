@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_lowerSum_le_upperSum_core
 -- name    : DarbouxRS.lowerSum_le_upperSum_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:32:21.172678+00:00
 -- url     : https://prove2.me/theorems/7e5bf83e-2206-492a-88cb-2339b9223cba

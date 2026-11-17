@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_integrable_toReal
 -- name    : Thm67Support.integrable_toReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:31:54.564959+00:00
 -- url     : https://prove2.me/theorems/6a3ae5f4-72b5-4522-8874-ecc0161b08cf

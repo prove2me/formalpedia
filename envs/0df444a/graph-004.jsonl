@@ -92300,30 +92300,30 @@
 {"parent": "d9NextRevenue_hasDerivWithinAt_parameter_left", "child": "d9NextRevenue", "via": ["solution", "statement"]}
 {"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left", "child": "d9NextRevenue", "via": ["solution", "statement"]}
-{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left_all", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left_all", "child": "d9NextRevenue", "via": ["statement"]}
-{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left_all", "child": "d9NextRevenue_hasDerivWithinAt_threshold_left", "via": ["statement"]}
+{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left_all", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left_all", "child": "d9NextRevenue", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_left_all", "child": "d9NextRevenue_hasDerivWithinAt_threshold_left", "via": ["solution", "statement"]}
 {"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right", "child": "d9NextRevenue", "via": ["solution", "statement"]}
-{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right_all", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right_all", "child": "d9NextRevenue", "via": ["statement"]}
-{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right_all", "child": "d9NextRevenue_hasDerivWithinAt_threshold_right", "via": ["statement"]}
+{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right_all", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right_all", "child": "d9NextRevenue", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_hasDerivWithinAt_threshold_right_all", "child": "d9NextRevenue_hasDerivWithinAt_threshold_right", "via": ["solution", "statement"]}
 {"parent": "d9NextRevenue_lipschitz_parameter", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "d9NextRevenue_lipschitz_parameter", "child": "d9NextRevenue", "via": ["solution", "statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ClippedSeats", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ClippedSeats_increment_bounds", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9NextRevenue", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9NextRevenue_eq_clipped", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ResidualSeats_mono", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ResidualSeats_nonneg", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_signed", "child": "signed_affine_clamp_lipschitz", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_threshold", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9ClippedSeats", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9ClippedSeats_increment_bounds", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9NextRevenue", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9NextRevenue_eq_clipped", "via": ["statement"]}
-{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9ResidualSeats_nonneg", "via": ["statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ClippedSeats", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ClippedSeats_increment_bounds", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9NextRevenue", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9NextRevenue_eq_clipped", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ResidualSeats_mono", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "d9ResidualSeats_nonneg", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_signed", "child": "signed_affine_clamp_lipschitz", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_threshold", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9ClippedSeats", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9ClippedSeats_increment_bounds", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9NextRevenue", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9NextRevenue_eq_clipped", "via": ["solution", "statement"]}
+{"parent": "d9NextRevenue_lipschitz_threshold", "child": "d9ResidualSeats_nonneg", "via": ["solution", "statement"]}
 {"parent": "d9ProtectionLeftSlope", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
 {"parent": "d9ProtectionLeftSlope", "child": "d9LeftSlope", "via": ["statement"]}
 {"parent": "d9ProtectionLeftSlope_first_event", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
@@ -92334,10 +92334,10 @@
 {"parent": "d9ResidualSeatPath", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
 {"parent": "d9ResidualSeatPath", "child": "d9ResidualSeatStep", "via": ["statement"]}
 {"parent": "d9ResidualSeatStep", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9ResidualSeatStep_continuous", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9ResidualSeatStep_continuous", "child": "d9ClippedSeats", "via": ["statement"]}
-{"parent": "d9ResidualSeatStep_continuous", "child": "d9ResidualSeatStep", "via": ["statement"]}
-{"parent": "d9ResidualSeatStep_continuous", "child": "d9ResidualSeatStep_eq_clipped", "via": ["statement"]}
+{"parent": "d9ResidualSeatStep_continuous", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9ResidualSeatStep_continuous", "child": "d9ClippedSeats", "via": ["solution", "statement"]}
+{"parent": "d9ResidualSeatStep_continuous", "child": "d9ResidualSeatStep", "via": ["solution", "statement"]}
+{"parent": "d9ResidualSeatStep_continuous", "child": "d9ResidualSeatStep_eq_clipped", "via": ["solution", "statement"]}
 {"parent": "d9ResidualSeatStep_eq_clipped", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "d9ResidualSeatStep_eq_clipped", "child": "d9ClippedSeats", "via": ["solution", "statement"]}
 {"parent": "d9ResidualSeatStep_eq_clipped", "child": "d9ResidualSeatStep", "via": ["solution", "statement"]}
@@ -92358,16 +92358,16 @@
 {"parent": "d9Revenue_succ_eq_nextRevenue", "child": "d9NextRevenue", "via": ["solution", "statement"]}
 {"parent": "d9Revenue_update_protection_eq_below", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "d9Revenue_update_protection_eq_below", "child": "d9Revenue_eq_of_policy_agree_below", "via": ["solution", "statement"]}
-{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below", "child": "d9Revenue_update_protection_eq_below", "via": ["statement"]}
-{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below_left", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below_left", "child": "d9Revenue_update_protection_eq_below", "via": ["statement"]}
+{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below", "child": "d9Revenue_update_protection_eq_below", "via": ["solution", "statement"]}
+{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below_left", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9Revenue_update_protection_hasDerivWithinAt_eq_below_left", "child": "d9Revenue_update_protection_eq_below", "via": ["solution", "statement"]}
 {"parent": "d9Revenue_update_protection_slope_measurable", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "d9Revenue_update_protection_slope_measurable", "child": "d9Revenue_measurable_comp", "via": ["solution", "statement"]}
-{"parent": "d9Revenue_update_protection_succ", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "d9Revenue_update_protection_succ", "child": "d9NextRevenue", "via": ["statement"]}
-{"parent": "d9Revenue_update_protection_succ", "child": "d9Revenue_eq_of_policy_agree_below", "via": ["statement"]}
-{"parent": "d9Revenue_update_protection_succ", "child": "d9Revenue_succ_eq_nextRevenue", "via": ["statement"]}
+{"parent": "d9Revenue_update_protection_succ", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "d9Revenue_update_protection_succ", "child": "d9NextRevenue", "via": ["solution", "statement"]}
+{"parent": "d9Revenue_update_protection_succ", "child": "d9Revenue_eq_of_policy_agree_below", "via": ["solution", "statement"]}
+{"parent": "d9Revenue_update_protection_succ", "child": "d9Revenue_succ_eq_nextRevenue", "via": ["solution", "statement"]}
 {"parent": "d9Revenue_zero_at_zero", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "d9RightSlope", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
 {"parent": "d9RightSlope_abs_le_fare_bound", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
@@ -92667,14 +92667,14 @@
 {"parent": "eq30RightSlope_eq_zero_of_threshold", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "eq30RightSlope_eq_zero_of_threshold", "child": "eq30RightSlope", "via": ["solution", "statement"]}
 {"parent": "eq30RightSlope_eq_zero_of_threshold", "child": "eq30SlopeThreshold", "via": ["solution", "statement"]}
-{"parent": "eq30RightSlope_measurable", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "eq30RightSlope_measurable", "child": "eq30RightSlope", "via": ["statement"]}
-{"parent": "eq30RightSlope_nonneg_le_first", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "eq30RightSlope_nonneg_le_first", "child": "eq30RightSlope", "via": ["statement"]}
-{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
-{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "eq30RightSlope", "via": ["statement"]}
-{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "eq30RightSlope_eq_zero_of_threshold", "via": ["statement"]}
-{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "eq30SlopeThreshold", "via": ["statement"]}
+{"parent": "eq30RightSlope_measurable", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "eq30RightSlope_measurable", "child": "eq30RightSlope", "via": ["solution", "statement"]}
+{"parent": "eq30RightSlope_nonneg_le_first", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "eq30RightSlope_nonneg_le_first", "child": "eq30RightSlope", "via": ["solution", "statement"]}
+{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
+{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "eq30RightSlope", "via": ["solution", "statement"]}
+{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "eq30RightSlope_eq_zero_of_threshold", "via": ["solution", "statement"]}
+{"parent": "eq30RightSlope_tendsto_atTop_zero", "child": "eq30SlopeThreshold", "via": ["solution", "statement"]}
 {"parent": "eq30SlopeThreshold", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["statement"]}
 {"parent": "eq30_affine_clamp_lipschitz", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}
 {"parent": "eq30_fare_le_first", "child": "NestedSeatAlloc_IntPolicy_Model", "via": ["solution", "statement"]}

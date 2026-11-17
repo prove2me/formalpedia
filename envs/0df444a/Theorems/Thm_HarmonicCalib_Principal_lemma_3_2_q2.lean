@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicCalib_Principal_lemma_3_2_q2
 -- name    : HarmonicCalib.Principal.lemma_3_2_q2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T01:05:43.788201+00:00
 -- url     : https://prove2.me/theorems/c9b5100d-535f-4b54-a9ae-02782b2a0610

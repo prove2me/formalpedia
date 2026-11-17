@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_simpleFunctionIntegralDefined_map_ennreal
 -- name    : simpleFunctionIntegralDefined_map_ennreal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:51:49.587633+00:00
 -- url     : https://prove2.me/theorems/90112ca5-6215-4fd9-b077-13dfe3796387

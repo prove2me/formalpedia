@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Vitali_set_instInfiniteQ_I_Type
 -- name    : Vitali_set.instInfiniteQ_I_Type
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:30:27.855667+00:00
 -- url     : https://prove2.me/theorems/548541cc-4d1e-4d11-9959-0837544cb054

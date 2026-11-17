@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_completion_apply_union_isNullSet
 -- name    : completion_apply_union_isNullSet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:02:32.469182+00:00
 -- url     : https://prove2.me/theorems/41752336-86e1-4a9e-9043-0150b20718b2

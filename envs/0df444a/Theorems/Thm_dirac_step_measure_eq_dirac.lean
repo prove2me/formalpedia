@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dirac_step_measure_eq_dirac
 -- name    : dirac_step_measure_eq_dirac
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:58:28.082127+00:00
 -- url     : https://prove2.me/theorems/2489a72f-3202-4c3a-a112-e3e3ed623e20

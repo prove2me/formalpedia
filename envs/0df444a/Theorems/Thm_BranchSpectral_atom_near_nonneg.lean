@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BranchSpectral_atom_near_nonneg
 -- name    : BranchSpectral.atom_near_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-16T05:47:20.77018+00:00
 -- url     : https://prove2.me/theorems/bbec6b0f-7df0-4cf1-9895-eb78f1bcd1a7

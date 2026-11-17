@@ -21,7 +21,7 @@
 --
 --   **Formalization Note** The Lean statement assumes $F_{0,0}\ne0$, whereas the paper derives $F_{0,0}(\alpha)\neq0$ from any nonzero $F_{i,j}(\alpha)$. It concludes existence of $z$ but not its uniqueness, and it does not record the paper's identity $F_{i,j}=F_{0,0}z_iz_j$. Because $E_0=0$, sums over $i$ may start at $0$. "Boolean with $z_0=1$" is `IsBooleanAssignment` and validity is `IsValid`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 4.7 (\label{lem:exact-validity}), pointwise form; Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.recover
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 4.7 (\label{lem:exact-validity}), pointwise form; Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.recover
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

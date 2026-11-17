@@ -25,7 +25,7 @@
 --
 --   **Formalization Note.** The conclusion is `Nonempty (LatticeReduction L g pn)`, i.e. such data exists; the structure `LatticeReduction` packages the lattice family $(\Lambda,(t_x))$, $R$, $N$ and $w$ with the properties above. The lattice is a $\mathbb Z$-submodule of $\mathbb Z^M$ (`Submodule ℤ (M → ℤ)`), and full rank is encoded by $N\cdot\mathbb Z^M\subseteq\Lambda$. The norm exponent is a `PNorm`, so every real $p\ge1$ and $p=\infty$ are covered, whereas the paper states the lemma for rational $p$ (needed only for computability). The hypotheses $g<Q$ (`L.blockSize`) and $D\ge1$ (`L.numBlocks`) correspond to $Q>\Gamma$ and $D\ge1$ in Definition 3.10; Lean's gap $g$ is the paper's $\Gamma$. The polynomial-time claims (integer basis, membership test, computing $w$) are not formalized, and $w$ is an arbitrary function.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.exists_latticeReduction
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.exists_latticeReduction
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

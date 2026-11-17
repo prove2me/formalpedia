@@ -1,0 +1,117 @@
+-- Prove2me | solution 1 for N25.Bridge.noncuspidal_rationalPlace25_of_exactOrder
+-- status  : ACCEPTED   (prove)
+-- author  : @FormallyCorrect
+-- created : 2026-11-16T19:19:49.079396+00:00
+-- url     : https://prove2.me/submissions/0b0ad37d-1df7-41e4-9bb7-996b6b62668c
+
+import Mathlib
+import Theorems.Thm_N25_canonicalXH_noncusp25
+import Theorems.Thm_N25_canonicalXHPlaceEquiv25_degree
+import Definitions.Def_N25_CanonicalModularDictionary
+import Definitions.Def_N25_CanonicalFunctionCoordinates
+import Definitions.Def_N25_CanonicalNoncuspPlace
+import Theorems.Thm_N25_canonicalNoncuspPlace25_degree
+import Definitions.Def_N25_UnitPlanePointPlace
+import Definitions.Def_N25_SelectedCusps
+import Definitions.Def_N25_Endgame
+import Definitions.Def_AlgebraicCurve_PlaceEvaluation
+import Definitions.Def_ModularCurve_ComplexPlaceDictionaryOf
+import Definitions.Def_ModularCurve_X0ModL
+import Definitions.Def_N25
+import Definitions.Def_ModularCurve_JqCoeff
+import Definitions.Def_AlgebraicCurve_IsCurveOver
+import Definitions.Def_AlgebraicCurve_RatFuncPlaces
+import Theorems.Thm_ModularCurve_isCurveOver_and_essFiniteType_laurentBaseChange_xHFunctionField
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_laurentBaseChange
+import Theorems.Thm_AlgebraicCurve_Place_exists_comap_algebraMap_eq_of_constantFieldExtension
+import Theorems.Thm_ModularCurve_jqModC_mem_intFormRatiosC
+import Theorems.Thm_ModularCurve_transcendental_and_finiteDimensional_adjoin_laurentBaseChange_qExpFunctionFieldC_of_coe_eq_jqModC
+import Theorems.Thm_ModularCurve_finrank_adjoin_jqModC_laurentBaseChange_qExpFunctionFieldC_gammaH_eq_index
+import Theorems.Thm_ModularCurve_natCard_fibres_jqModC_eq_natCard_doubleCoset_of_finrank_eq_index
+import Theorems.Thm_AlgebraicCurve_finrank_le_and_natCard_places_le_of_constantFieldExtension_adjoin
+import Theorems.Thm_ModularCurve_exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_ord_eq_neg_width_of_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_modularFunctionFieldFullC_le_qExpFunctionFieldC_gamma0
+import Definitions.Def_ModularForm_HeckeOperator
+import Definitions.Def_ModularCurve_X0
+import Theorems.Thm_ModularCurve_hasSum_jNum_qParam
+import Definitions.Def_N25_UnitAnalytic
+import Theorems.Thm_ModularCurve_jqModC_eq_qExpansion_E4_cube_div_discriminant
+import Theorems.Thm_ModularForm_exists_degeneracy_Gamma0
+import Theorems.Thm_ModularCurve_laurent_qParam_coeff_unique
+import Theorems.Thm_ModularCurve_realizeOf_eq_div
+import Definitions.Def_AlgebraicCurve_ConstantFieldPullback
+import Definitions.Def_ModularCurve_GeometricBaseChange
+import Theorems.Thm_ModularCurve_ord_qInftyPlaceBar
+import Theorems.Thm_AlgebraicCurve_Place_ord_eq_zero_of_isAlgebraic
+import Theorems.Thm_AlgebraicCurve_Place_ramificationIndex_forgetConstants_eq_one_of_isConstantFieldExtension
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_qExpFunctionFieldC
+import Theorems.Thm_AlgebraicCurve_isCurveOver_of_transcendental_of_perfectField
+import Definitions.Def_AlgebraicCurve_DivisorClassGroup
+import Definitions.Def_N25_LocalKummerCharacter
+import Theorems.Thm_ModularCurve_diamondAutHBar_mul_and_diamondAutHBar_one
+import Theorems.Thm_ValuationSubring_exists_mem_inertiaSubgroupIn_cyclotomicCharacter_eq
+import Theorems.Thm_ValuationSubring_exists_mem_inertiaSubgroupIn_padicIntegers_localGaloisToGlobal_eq
+import Theorems.Thm_ExtCitation_cycloChar_primeLocalToGlobal_eq_one_of_mem_inertia
+import Theorems.Thm_ExtCitation_exists_isFrobeniusAt_apply_primeLocalToGlobal
+import Theorems.Thm_ValuationSubring_cycloChar_eq_unitOfCoprime_of_isFrobeniusAt
+import Theorems.Thm_ExtCitation_liesOverPrime_primeLocalPlace
+import Theorems.Thm_ModularCurve_diamondAutHBar_eq_refl_of_mem_or_neg_mem
+import Theorems.Thm_ModularCurve_exists_monoidHom_gamma0_algEquiv_qExpFunctionFieldC_gammaH_of_charZero
+import Theorems.Thm_ModularCurve_diamondAutHBar_apply_coeffEmb_eq_coeffEmb_ringAut_apply
+import Theorems.Thm_ModularCurve_order_jqModC
+import Theorems.Thm_AlgebraicCurve_exists_finset_sum_neg_ord_eq_finrank_of_isAlgClosed
+import Theorems.Thm_ModularCurve_heckeDiamondInputsHAll
+import Theorems.Thm_ModularCurve_exists_algEquiv_xHFunctionFieldBar_slash_fricke_and_galois_smul
+import Theorems.Thm_ModularCurve_coe_apply_eq_qExpand_jqModC_of_forall_coeffMap_mul_qExpansion_slash_fricke_eq
+import Definitions.Def_ModularCurve_ArithmeticGalois
+import Definitions.Def_AlgebraicCurve_BaseChangeGalois
+import Theorems.Thm_AlgebraicCurve_essFiniteType_of_transcendental_of_finiteDimensional
+import Theorems.Thm_AlgebraicCurve_Place_sum_deg_fiberConstants_eq_deg_of_isCurveOver
+import Definitions.Def_FieldTheory_RatAlgClosureGalois
+import Theorems.Thm_AlgebraicCurve_Place_exists_forgetConstants_restrict_eq_of_isConstantFieldExtension
+import Definitions.Def_N25_Units
+import Definitions.Def_N25_UnitOrders
+import Definitions.Def_N25_UnitSeries
+import Definitions.Def_ModularCurve_LaurentCoeff
+import Theorems.Thm_ModularCurve_exists_tendsto_realizeOf_mul_exp_of_not_mem_toValuationSubring
+import Definitions.Def_ModularCurve_SiegelFunction
+import Theorems.Thm_ModularCurve_qExpansion_discriminant_eq_map_X_mul_dedekindEtaUnit
+import Theorems.Thm_ModularCurve_exists_complexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_ComplexPlaceDictionaryOf_exists_pt_eq_of_mem
+import Theorems.Thm_MazurCampaign_order_twenty_five_canonical_point
+import Definitions.Def_MazurCampaign_group_constraints
+import Definitions.Def_TorsionDefs
+import Definitions.Def_RationalPointsN25CanonicalSourceBridge
+import Mathlib.AlgebraicGeometry.EllipticCurve.DivisionPolynomial.Degree
+import Mathlib.AlgebraicGeometry.EllipticCurve.DivisionPolynomial.Basic
+import Mathlib.NumberTheory.EllipticDivisibilitySequence
+import Mathlib.Tactic
+import Definitions.Def_RationalPointsN25CanonicalPoints
+import Definitions.Def_RationalPointsN25QuotientAction
+import Definitions.Def_RationalPointsN25SutherlandBridge
+import Definitions.Def_TateNFDivision
+import Definitions.Def_TateOrder25Factor
+
+/-! Exact order twenty-five produces a degree-one noncuspidal modular place. -/
+namespace N25.Bridge
+
+/-- The explicit exact-order front end, followed by the pinned canonical dictionary. -/
+theorem _root_.solution
+    (E : WeierstrassCurve ℚ) [E.IsElliptic]
+    (x : MazurCampaign.RationalTorsion E)
+    (hx : addOrderOf x = 25) :
+    ∃ P : N25.Endgame.QPlace,
+      P.deg = 1 ∧ ¬ ModularCurve.IsCusp N25.Endgame.j25 P := by
+  obtain ⟨b, c, hnz, hon, hnc⟩ :=
+    MazurCampaign.order_twenty_five_canonical_point E x hx
+  let p := MazurProof.RationalPointsN25CanonicalSourceBridge.tateCanonicalCoordinates25 b c
+  have hq : N25.canonicalQuadric p.x p.y p.z p.w = 0 := hon.1
+  have hc : N25.canonicalCubic p.x p.y p.z p.w = 0 := hon.2
+  refine ⟨N25.canonicalXHPlaceEquiv25
+    (N25.canonicalNoncuspPlace25 p.x p.y p.z p.w hnz hq hc hnc), ?_, ?_⟩
+  · rw [N25.canonicalXHPlaceEquiv25_degree]
+    exact N25.canonicalNoncuspPlace25_degree _ _ _ _ _ _ _ _
+  · exact N25.canonicalXH_noncusp25 _ _ _ _ _ _ _ _
+
+end N25.Bridge

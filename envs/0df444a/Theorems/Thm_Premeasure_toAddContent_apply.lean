@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Premeasure_toAddContent_apply
 -- name    : Premeasure.toAddContent_apply
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:31:08.185992+00:00
 -- url     : https://prove2.me/theorems/36cc12f3-71dd-4142-962f-a2daba11f6d0

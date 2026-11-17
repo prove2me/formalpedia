@@ -15,7 +15,7 @@
 --
 --   **Formalization Note.** The NO condition is given directly as the bound on $\Delta(t_x,\mathcal C)$, a natural number (`codeDist`), and $c$ ranges over all of $F^M$, not only over codewords. The test is the predicate `CodeFamily.Accepts g R x c`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 5.2 (\label{lem:search-test}), codes, NO instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.CodeFamily.not_accepts_of_lt
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 5.2 (\label{lem:search-test}), codes, NO instances; Lean: LatticePrepro/Conversions/SearchTest.lean, LatticePrepro.CodeFamily.not_accepts_of_lt
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

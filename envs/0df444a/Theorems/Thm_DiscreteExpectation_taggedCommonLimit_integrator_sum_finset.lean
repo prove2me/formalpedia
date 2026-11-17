@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_taggedCommonLimit_integrator_sum_finset
 -- name    : DiscreteExpectation.taggedCommonLimit_integrator_sum_finset
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:59:16.696019+00:00
 -- url     : https://prove2.me/theorems/82b1e800-aa67-4998-9e93-39da25f7d974

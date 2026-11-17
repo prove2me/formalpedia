@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_covariance_zero_iff_uncorrelated
 -- name    : covariance_zero_iff_uncorrelated
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:07:50.465206+00:00
 -- url     : https://prove2.me/theorems/e566f12f-1dd0-4b06-a4b3-e2a29dafec41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookIntegral_of_nonneg
 -- name    : textbookIntegral_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:29:21.370539+00:00
 -- url     : https://prove2.me/theorems/28def06f-3ba8-49b3-a918-b1fc03aaaf93

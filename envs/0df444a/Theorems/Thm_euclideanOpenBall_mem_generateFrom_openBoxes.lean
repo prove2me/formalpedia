@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_euclideanOpenBall_mem_generateFrom_openBoxes
 -- name    : euclideanOpenBall_mem_generateFrom_openBoxes
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:17:14.109799+00:00
 -- url     : https://prove2.me/theorems/a026a65a-45aa-4b7d-ab2a-dc4aac98ebef

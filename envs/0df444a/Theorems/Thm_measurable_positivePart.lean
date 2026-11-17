@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_positivePart
 -- name    : measurable_positivePart
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:04:53.135995+00:00
 -- url     : https://prove2.me/theorems/adaedc93-7aa5-4b76-aab1-e6d8593075d7

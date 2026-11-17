@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9NextRevenue_lipschitz_signed
 -- name    : d9NextRevenue_lipschitz_signed
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T15:00:30.899523+00:00
 -- url     : https://prove2.me/theorems/48ed2ec4-253c-4327-a782-35f34ee85e46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstUpperPassage_le_iff_rationalApproachingCrossings
 -- name    : Kyprianou.Ch01.firstUpperPassage_le_iff_rationalApproachingCrossings
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T22:05:41.154232+00:00
 -- url     : https://prove2.me/theorems/eb134ddd-3a20-4a4f-b90c-18be6da4cd60

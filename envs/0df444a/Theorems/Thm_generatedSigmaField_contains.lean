@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_generatedSigmaField_contains
 -- name    : generatedSigmaField_contains
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:08:50.469398+00:00
 -- url     : https://prove2.me/theorems/1e3f05b0-92d6-419c-942a-4fe8f41d0ec3

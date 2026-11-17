@@ -17,7 +17,7 @@
 --
 --   **Formalization Note.** The gap is $\Gamma$ in the paper and $g$ in Lean; the block size $Q$ is `L.blockSize` and $D$ is `L.numBlocks`. The hypotheses $g<Q$ and $D>0$ are explicit here; in the paper they are part of Definition 3.10 ($Q>\Gamma$, $D\ge1$). The paper states the conclusion as a bound on $\Delta(y_x,\mathcal C_L)$; Lean states it for every codeword.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.11 (\label{lem:block-system-codes}), NO case of equation (38) (\label{eq:code-gap}) in its proof (Appendix B.1); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.LinearSystemFamily.code_no
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.11 (\label{lem:block-system-codes}), NO case of equation (38) (\label{eq:code-gap}) in its proof (Appendix B.1); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.LinearSystemFamily.code_no
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

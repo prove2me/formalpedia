@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_poissonRestrictionAndIndependenceCh02V3
 -- name    : Kyprianou.poissonRestrictionAndIndependenceCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:21:10.363118+00:00
 -- url     : https://prove2.me/theorems/6830f96f-6fae-45ec-98db-e480818ea924

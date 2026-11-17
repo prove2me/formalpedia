@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq30RightSlope_nonneg_le_first
 -- name    : eq30RightSlope_nonneg_le_first
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T15:48:47.768289+00:00
 -- url     : https://prove2.me/theorems/94c61aa7-ad8d-4b18-95dc-2ec21f63fbd2

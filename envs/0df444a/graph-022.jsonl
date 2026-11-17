@@ -60657,11 +60657,11 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonPairing_self_eq", "child": "QEC_Coding_ExpanderCodes_LPSCuspPeterssonTrace", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.rooted_bounds", "child": "QEC_Locality_Graph_WeightedConnectedSetMass", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.rooted_bounds", "child": "QEC_Locality_Graph_ConnectedSetCounting", "via": ["solution", "statement"]}
-{"parent": "e7_rectangle_weight_eq_indicator", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_rectangle_weight_eq_indicator", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7_rectangle_weight_eq_indicator", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_rectangle_weight_eq_indicator", "child": "e7IndicatorUBF", "via": ["statement"]}
-{"parent": "e7_rectangle_weight_eq_indicator", "child": "e7_rectangle_event", "via": ["statement"]}
+{"parent": "e7_rectangle_weight_eq_indicator", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_rectangle_weight_eq_indicator", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7_rectangle_weight_eq_indicator", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_rectangle_weight_eq_indicator", "child": "e7IndicatorUBF", "via": ["solution", "statement"]}
+{"parent": "e7_rectangle_weight_eq_indicator", "child": "e7_rectangle_event", "via": ["solution", "statement"]}
 {"parent": "SelfSelReg_sampleLaw", "child": "GaussMixHH_Machine", "via": ["statement"]}
 {"parent": "SelfSelReg_sampleLaw", "child": "SelfSelReg_jointLaw", "via": ["statement"]}
 {"parent": "QEC.Coding.DistanceBalancing.exists_detectingClassicalWord_of_product_nonboundary", "child": "QEC_Coding_ChainComplex_Duality", "via": ["solution", "statement"]}
@@ -61938,10 +61938,10 @@
 {"parent": "QEC.Locality.BKQLDPCFamily.encodedQubits_cast_le_cMax_coefficient_sq", "child": "QEC_Locality_CorrectableRegions_TwoCorrectableRegionsDimension", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.BKQLDPCFamily.encodedQubits_cast_le_cMax_coefficient_sq", "child": "QEC_Locality_ConnectivityTradeoff_QuantitativeRecurrence", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.BKQLDPCFamily.encodedQubits_cast_le_cMax_coefficient_sq", "child": "QEC_Locality_ConnectivityTradeoff_TwoPassDimension", "via": ["solution", "statement"]}
-{"parent": "targetResolvent_range", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "targetResolvent_range", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "targetResolvent_range", "child": "targetResolventRaw", "via": ["statement"]}
-{"parent": "targetResolvent_range", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "targetResolvent_range", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "targetResolvent_range", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "targetResolvent_range", "child": "targetResolventRaw", "via": ["solution", "statement"]}
+{"parent": "targetResolvent_range", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "MISInducedMinor.alpha_GF_le", "child": "MISInducedMinor_addTerm", "via": ["statement"]}
 {"parent": "MISInducedMinor.alpha_GF_le", "child": "MISInducedMinor_GF", "via": ["statement"]}
 {"parent": "MISInducedMinor.alpha_GF_le", "child": "MISInducedMinor_maxCut", "via": ["statement"]}
@@ -63368,10 +63368,10 @@
 {"parent": "MulticastPoS.lemma_3_2", "child": "MulticastPoS_IsTerminalTree", "via": ["statement"]}
 {"parent": "MulticastPoS.lemma_3_2", "child": "MulticastPoS_game", "via": ["statement"]}
 {"parent": "MulticastPoS.lemma_3_2", "child": "MulticastPoS_subgraphCost", "via": ["statement"]}
-{"parent": "e7_exp_moment_kernel_norm_le", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_exp_moment_kernel_norm_le", "child": "e7_exp_moment_kernel", "via": ["statement"]}
-{"parent": "e7_exp_moment_kernel_norm_le", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_exp_moment_kernel_norm_le", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "e7_exp_moment_kernel_norm_le", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_exp_moment_kernel_norm_le", "child": "e7_exp_moment_kernel", "via": ["solution", "statement"]}
+{"parent": "e7_exp_moment_kernel_norm_le", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_exp_moment_kernel_norm_le", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "KTUnitary_Synth_ULang", "child": "QAlgorithms_Defs_Complexity", "via": ["statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.take_dualSweepOrder_of_le", "child": "QEC_Coding_Stabilizer_TwoDimensional_StripLogicalPath", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.take_dualSweepOrder_of_le", "child": "QEC_Coding_FourDimensionalToricCode_MembraneSweep", "via": ["solution", "statement"]}
@@ -64402,9 +64402,9 @@
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block2.entryEval8_7_e", "child": "OAIQ106E151", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block2.entryEval8_7_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block2.entryEval8_7_e", "child": "OAIQ106E018", "via": ["statement"]}
-{"parent": "e7_empty_past_initial_L_integrals_eq", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_empty_past_initial_L_integrals_eq", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_empty_past_initial_L_integrals_eq", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "e7_empty_past_initial_L_integrals_eq", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_empty_past_initial_L_integrals_eq", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_empty_past_initial_L_integrals_eq", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "QiOPoQ_hybProb", "child": "QiOPoQ_fig6Challenge", "via": ["statement"]}
 {"parent": "QiOPoQ_hybProb", "child": "QiOPoQ_pair", "via": ["statement"]}
 {"parent": "QiOPoQ_hybProb", "child": "QiOPoQ_NUPPT", "via": ["statement"]}
@@ -68319,10 +68319,10 @@
 {"parent": "OAI.FirstPassCubeLabels.multiplicity_decomposition", "child": "OAI_NumberTheory_DirichletL_Mellin_ReflectedKernel", "via": ["solution", "statement"]}
 {"parent": "OAI.FirstPassCubeLabels.multiplicity_decomposition", "child": "OAI_NumberTheory_DirichletL_Arithmetic_SquarefreeDivisors", "via": ["solution", "statement"]}
 {"parent": "IntroDelayAMDP_goodEvent", "child": "IntroDelayAMDP_alg1Conf", "via": ["statement"]}
-{"parent": "e7_triangular_bump_continuous", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_triangular_bump_continuous", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_triangular_bump_continuous", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7_triangular_bump_continuous", "child": "e7_triangular_bump", "via": ["statement"]}
+{"parent": "e7_triangular_bump_continuous", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_triangular_bump_continuous", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_triangular_bump_continuous", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7_triangular_bump_continuous", "child": "e7_triangular_bump", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.glue_flipSet_singleton_of_not_mem", "child": "AaronsonAmbainis_TwoSided_Basic", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.glue_flipSet_singleton_of_not_mem", "child": "AaronsonAmbainis_TwoSided_Glue", "via": ["solution", "statement"]}
 {"parent": "PolySphereLP.eq_35_spherical_hypercontractivity", "child": "SphereSOS_Rate_SphereMeasure", "via": ["statement"]}
@@ -72331,10 +72331,10 @@
 {"parent": "QEC_Coding_QuantumTanner_DistanceBudgets", "child": "QEC_Coding_QuantumTanner_LocalDescent", "via": ["statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalFilledTopology_interior_openEmbedding", "child": "QEC_Coding_ExpanderCodes_LPSOriginalFilledCusps", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalFilledTopology_interior_openEmbedding", "child": "QEC_Coding_ExpanderCodes_LPSOriginalFilledTopology", "via": ["solution", "statement"]}
-{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "e7_triangular_bump", "via": ["statement"]}
+{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7_triangular_bump_support_subset_closedBall", "child": "e7_triangular_bump", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.crossCount_unionCayleyGraph_le_degree_card_right", "child": "QEC_Coding_ExpanderCodes_MixingDegree", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.crossCount_unionCayleyGraph_le_degree_card_right", "child": "QEC_Coding_QuantumTanner_HeavyEdges", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.QuantumTanner.LeftRightCayleySquareComplex.crossCount_unionCayleyGraph_le_degree_card_right", "child": "QEC_Coding_QuantumTanner_CayleyLink", "via": ["solution", "statement"]}
@@ -75471,9 +75471,9 @@
 {"parent": "QEC.Coding.QuantumTanner.RawData.localExtension_mem_range_zGeneratorMap", "child": "QEC_Coding_QuantumTanner_Distance", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteSieveOperator.operator_conjTranspose", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_FiniteOperator", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteSieveOperator.operator_conjTranspose", "child": "OAI_NumberTheory_DirichletL_Arithmetic_SquarefreeDivisors", "via": ["solution", "statement"]}
-{"parent": "e7_measurable_of_dense_first_coordinates", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_measurable_of_dense_first_coordinates", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_measurable_of_dense_first_coordinates", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "e7_measurable_of_dense_first_coordinates", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_measurable_of_dense_first_coordinates", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_measurable_of_dense_first_coordinates", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "LowDepthPRF_HybridFamily", "child": "LowDepthPRF_TaperingGGM", "via": ["statement"]}
 {"parent": "PolySampIso_LLT", "child": "PolySampIso_Divergences", "via": ["statement"]}
 {"parent": "LocalSepDecomp.theorem_7_18", "child": "LocalSepDecomp_Cutouts", "via": ["statement"]}
@@ -77083,10 +77083,10 @@
 {"parent": "KSATWindow.eq_2_3_2_4", "child": "OAI_Probability_SATVariance_MarkovReplacement__SATVariance", "via": ["statement"]}
 {"parent": "KSATWindow.eq_2_3_2_4", "child": "OAI_Probability_SATVariance_ClauseCombinatorics__SATVariance", "via": ["statement"]}
 {"parent": "KSATWindow.eq_2_3_2_4", "child": "KSATWindow_Window", "via": ["statement"]}
-{"parent": "e7_forward_primitive_hasDerivAt", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_forward_primitive_hasDerivAt", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_forward_primitive_hasDerivAt", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7_forward_primitive_hasDerivAt", "child": "e7_forward_primitive", "via": ["statement"]}
+{"parent": "e7_forward_primitive_hasDerivAt", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_forward_primitive_hasDerivAt", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_forward_primitive_hasDerivAt", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7_forward_primitive_hasDerivAt", "child": "e7_forward_primitive", "via": ["solution", "statement"]}
 {"parent": "QMCLeafB_fa39", "child": "QMCLeafB_anchorfacts", "via": ["statement"]}
 {"parent": "QMCLeafB_fa39", "child": "QMCLeafB_ball_m2", "via": ["statement"]}
 {"parent": "QMCLeafB_fa39", "child": "QMCLeafB_face36", "via": ["statement"]}
@@ -78103,9 +78103,9 @@
 {"parent": "QEC.Coding.why24AppendixGateCounts_eq_source", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Gate_Data", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.boundary1TransposeTensorMap_eq_joint", "child": "QEC_Coding_HypergraphProduct_Dimension_BoundaryMaps", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HypergraphProduct.boundary1TransposeTensorMap_eq_joint", "child": "QEC_Coding_HypergraphProduct_Dimension_Realization", "via": ["solution", "statement"]}
-{"parent": "denseRange_codRestrict_of_closure_range", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "denseRange_codRestrict_of_closure_range", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "denseRange_codRestrict_of_closure_range", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "denseRange_codRestrict_of_closure_range", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "denseRange_codRestrict_of_closure_range", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "denseRange_codRestrict_of_closure_range", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_error7_random_physical_C1_positive_mean_vanishes_standing", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_error7_random_physical_C1_positive_mean_vanishes_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "QMCBeyondHK.proposition_2_4", "child": "QMCBeyondHK_IsThinningDensity", "via": ["statement"]}
@@ -78587,10 +78587,10 @@
 {"parent": "OAI.ActualEisensteinCubic.tsum_rowCoprimeMask_subsets", "child": "OAI_NumberTheory_DirichletL_GaussSum_SexticRadialPoisson", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.tsum_rowCoprimeMask_subsets", "child": "OAI_NumberTheory_DirichletL_PrimeRows_IdealGenerators", "via": ["solution", "statement"]}
 {"parent": "ClusterDecomp.lemma_3_7", "child": "ClusterDecomp_Alg2Run", "via": ["statement"]}
-{"parent": "targetFirst_range", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "targetFirst_range", "child": "targetFirstRaw", "via": ["statement"]}
-{"parent": "targetFirst_range", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "targetFirst_range", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "targetFirst_range", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "targetFirst_range", "child": "targetFirstRaw", "via": ["solution", "statement"]}
+{"parent": "targetFirst_range", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "targetFirst_range", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "KarpLiptonOM_ONP", "child": "KarpLiptonOM_PolyPred2", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_cell7_original_unmasked_global_C1_signed_parts_eq_stopped_physical_grid", "child": "AvramDividend.Classical.avram_bv_cell7_original_discounted_C1_nonlinear_source_exact_stopped_clock_support", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_cell7_original_unmasked_global_C1_signed_parts_eq_stopped_physical_grid", "child": "AvramDividend.Classical.avram_bv_cell7_original_discounted_C1_nonlinear_global_NX_stopped_cell_source_identity", "via": ["solution", "statement"]}
@@ -81093,7 +81093,7 @@
 {"parent": "StochAutoreg_mE2E", "child": "StochAutoreg_promptMeasurableSpace", "via": ["statement"]}
 {"parent": "StochAutoreg_mE2E", "child": "StochAutoreg_qE2E", "via": ["statement"]}
 {"parent": "StochAutoreg_mE2E", "child": "StochAutoreg_e2eLaw", "via": ["statement"]}
-{"parent": "FiniteEnergyPlane.range_eq_or_disjoint_of_isCylCloseTo", "child": "FiniteEnergyPlane_CylClose", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.range_eq_or_disjoint_of_isCylCloseTo", "child": "FiniteEnergyPlane_CylClose", "via": ["solution", "statement"]}
 {"parent": "LCAntiConc_SphereSoSLe", "child": "LCAntiConc_sphereConstraint", "via": ["statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonTrace_smul_right", "child": "QEC_Coding_ExpanderCodes_LPSPeterssonMeasure", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonTrace_smul_right", "child": "QEC_Coding_ExpanderCodes_LPSCuspPeterssonTrace", "via": ["solution", "statement"]}
@@ -86048,10 +86048,10 @@
 {"parent": "AaronsonAmbainis.Bridge.two_pow_eq", "child": "AaronsonAmbainis_Bridge_Basic", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.two_pow_eq", "child": "AaronsonAmbainis_TwoSided_Overlap", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ExpanderCodes.exists_large_prime_parameter", "child": "QEC_Coding_ExpanderCodes_PrimeFieldParameters", "via": ["solution", "statement"]}
-{"parent": "e7IndicatorUBF_measurable", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7IndicatorUBF_measurable", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7IndicatorUBF_measurable", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7IndicatorUBF_measurable", "child": "e7IndicatorUBF", "via": ["statement"]}
+{"parent": "e7IndicatorUBF_measurable", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7IndicatorUBF_measurable", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7IndicatorUBF_measurable", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7IndicatorUBF_measurable", "child": "e7IndicatorUBF", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalJInvariant_surjective", "child": "QEC_Coding_ExpanderCodes_LPSOriginalModularEquation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalJInvariant_surjective", "child": "QEC_Coding_ExpanderCodes_LPSOriginalJNormalization", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalSpecialFibreFrobenius_finite", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerProperModel", "via": ["solution", "statement"]}
@@ -86347,9 +86347,9 @@
 {"parent": "QEC.Locality.WeightedConnectedSetMass.anchored_degree_zero_interval", "child": "QEC_Locality_Graph_ConnectedSetCounting", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.gridCoordinate_card", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_GridCover", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.gridCoordinate_card", "child": "QEC_Coding_ProbabilisticConstruction_SphericalCap_Measure", "via": ["solution", "statement"]}
-{"parent": "closure_range_of_dense_codRestrict", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "closure_range_of_dense_codRestrict", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "closure_range_of_dense_codRestrict", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "closure_range_of_dense_codRestrict", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "closure_range_of_dense_codRestrict", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "closure_range_of_dense_codRestrict", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.columnHits_iff_not_columnAvoids", "child": "QEC_Coding_FiberBundle_RandomBase_Expansion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomBase.columnHits_iff_not_columnAvoids", "child": "QEC_Coding_FiberBundle_RandomBase_ExpansionProbability", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.DependentBatch.typedSuccessfulOutputCost_eq_distillationProtocolFamily_successfulOutputCost", "child": "QEC_Distillation_Core_DependentBatch", "via": ["solution", "statement"]}
@@ -88932,10 +88932,10 @@
 {"parent": "HeilmanMax3Cut_K0", "child": "HeilmanMax3Cut_tauA", "via": ["statement"]}
 {"parent": "HeilmanMax3Cut_K0", "child": "HeilmanMax3Cut_aR", "via": ["statement"]}
 {"parent": "HeilmanMax3Cut_K0", "child": "HeilmanMax3Cut_R0", "via": ["statement"]}
-{"parent": "e7_clampIcc_of_mem", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_clampIcc_of_mem", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_clampIcc_of_mem", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7_clampIcc_of_mem", "child": "e7_clampIcc", "via": ["statement"]}
+{"parent": "e7_clampIcc_of_mem", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_clampIcc_of_mem", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_clampIcc_of_mem", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7_clampIcc_of_mem", "child": "e7_clampIcc", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound239_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound239_e", "child": "OAIQ106E140", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSourceBridge.rowSound239_e", "child": "OAIQ106E149", "via": ["solution", "statement"]}
@@ -94076,8 +94076,8 @@
 {"parent": "MCPoise.lemma_2_4", "child": "MCPoise_IsSparseCut", "via": ["statement"]}
 {"parent": "MCPoise.lemma_2_4", "child": "MCPoise_auxGraph", "via": ["statement"]}
 {"parent": "MCPoise.lemma_2_4", "child": "MCPoise_RouteState", "via": ["statement"]}
-{"parent": "DetANN.lemma_3_3", "child": "PNormReg_Machine", "via": ["statement"]}
-{"parent": "DetANN.lemma_3_3", "child": "DetANN_DataStructure", "via": ["statement"]}
+{"parent": "DetANN.lemma_3_3", "child": "PNormReg_Machine", "via": ["solution", "statement"]}
+{"parent": "DetANN.lemma_3_3", "child": "DetANN_DataStructure", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2175_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2175_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound2175_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
@@ -94573,9 +94573,9 @@
 {"parent": "QAdvFew_PoQOracle_IsQvPoQ", "child": "QAdvFew_PoQOracle_NUProver", "via": ["statement"]}
 {"parent": "QAdvFew_PoQOracle_IsQvPoQ", "child": "QAdvFew_PoQOracle_Negligible", "via": ["statement"]}
 {"parent": "QAdvFew_PoQOracle_IsQvPoQ", "child": "QAdvFew_PoQOracle_QVerifier", "via": ["statement"]}
-{"parent": "e7_uniformBoundedFunction_pointwise_bound", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_uniformBoundedFunction_pointwise_bound", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_uniformBoundedFunction_pointwise_bound", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "e7_uniformBoundedFunction_pointwise_bound", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_uniformBoundedFunction_pointwise_bound", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_uniformBoundedFunction_pointwise_bound", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "PDSEquiv.lemma_7_5", "child": "PDSEquiv_Laws", "via": ["statement"]}
 {"parent": "PDSEquiv.lemma_7_5", "child": "PDSEquiv_Thin", "via": ["statement"]}
 {"parent": "OAI.CompletedGauss.columnWeight_zero_of_mask", "child": "OAI_NumberTheory_DirichletL_Arithmetic_IdealMobius", "via": ["solution", "statement"]}
@@ -96384,9 +96384,9 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalPrimeIntegerPolynomial_degree", "child": "QEC_Coding_ExpanderCodes_LPSHeckeCosetCover", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalPrimeIntegerPolynomial_degree", "child": "QEC_Coding_ExpanderCodes_LPSOriginalPrimeModularBranches", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalPrimeIntegerPolynomial_degree", "child": "QEC_Coding_ExpanderCodes_LPSHeckeCoefficients", "via": ["solution", "statement"]}
-{"parent": "e7_real_clock_continuous", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_real_clock_continuous", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_real_clock_continuous", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
+{"parent": "e7_real_clock_continuous", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_real_clock_continuous", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_real_clock_continuous", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.f256SelectorFunctional_apply", "child": "QEC_Coding_FiniteFieldMultiplication_MultiplicationEmbedding", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.f256SelectorFunctional_apply", "child": "QEC_Coding_FiniteFieldMultiplication_Selector", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.f256SelectorFunctional_apply", "child": "QEC_Coding_FiniteFieldMultiplication_ReverseEmbedding", "via": ["solution", "statement"]}
@@ -97317,11 +97317,11 @@
 {"parent": "GaussTesting_Gb0", "child": "GaussTesting_quadrature", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f4_turn17_ray_compact_glue", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f4_turn17_ray_compact_glue", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "e7_log_density_clamped_continuous", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_log_density_clamped_continuous", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7_log_density_clamped_continuous", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_log_density_clamped_continuous", "child": "e7_clampIcc", "via": ["statement"]}
-{"parent": "e7_log_density_clamped_continuous", "child": "e7_log_density_clamped", "via": ["statement"]}
+{"parent": "e7_log_density_clamped_continuous", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_log_density_clamped_continuous", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7_log_density_clamped_continuous", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_log_density_clamped_continuous", "child": "e7_clampIcc", "via": ["solution", "statement"]}
+{"parent": "e7_log_density_clamped_continuous", "child": "e7_log_density_clamped", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerProjectiveJAffinePoint_toSpecZ", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerProperModel", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerProjectiveJAffinePoint_toSpecZ", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerModelCharts", "via": ["solution", "statement"]}
 {"parent": "SamplingAC0_hardSampler", "child": "SamplingAC0_DNF", "via": ["statement"]}
@@ -98705,10 +98705,10 @@
 {"parent": "ApproxDegComp.lemma_21", "child": "ApproxDegComp_mulOp", "via": ["statement"]}
 {"parent": "ApproxDegComp.lemma_21", "child": "ApproxDegComp_zOf", "via": ["statement"]}
 {"parent": "ApproxDegComp.lemma_21", "child": "ApproxDegComp_rho", "via": ["statement"]}
-{"parent": "e7_forward_eq_primitive", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["statement"]}
-{"parent": "e7_forward_eq_primitive", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["statement"]}
-{"parent": "e7_forward_eq_primitive", "child": "auto_M04_6e37b463_processPast", "via": ["statement"]}
-{"parent": "e7_forward_eq_primitive", "child": "e7_forward_primitive", "via": ["statement"]}
+{"parent": "e7_forward_eq_primitive", "child": "auto_M04_6e37b463_UniformBoundedFunction", "via": ["solution", "statement"]}
+{"parent": "e7_forward_eq_primitive", "child": "auto_M04_6e37b463_SolvesMartingaleProblem", "via": ["solution", "statement"]}
+{"parent": "e7_forward_eq_primitive", "child": "auto_M04_6e37b463_processPast", "via": ["solution", "statement"]}
+{"parent": "e7_forward_eq_primitive", "child": "e7_forward_primitive", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256MultiplicationDivisor_degree_lt_retained", "child": "QEC_Coding_AlgebraicGeometry_Codes_NormalClosureEvaluation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256MultiplicationDivisor_degree_lt_retained", "child": "QEC_Coding_AlgebraicGeometry_Codes_NormalClosureShortening", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256MultiplicationDivisor_degree_lt_retained", "child": "QEC_Coding_AlgebraicGeometry_Codes_EvaluationShortening", "via": ["solution", "statement"]}

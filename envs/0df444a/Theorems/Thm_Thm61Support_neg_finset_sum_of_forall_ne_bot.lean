@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm61Support_neg_finset_sum_of_forall_ne_bot
 -- name    : Thm61Support.neg_finset_sum_of_forall_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:26:01.088257+00:00
 -- url     : https://prove2.me/theorems/9ae844cc-4e51-48fd-b13b-4d4a9b3818fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_abs_eq_positivePart_add_negativePart
 -- name    : abs_eq_positivePart_add_negativePart
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:06:35.720468+00:00
 -- url     : https://prove2.me/theorems/ff219f18-3948-4d70-a754-a81cd051c5b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Control_eq_3_9
 -- name    : BaconThesis.Control.eq_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:58:49.461948+00:00
 -- url     : https://prove2.me/theorems/f70bcb64-ef39-4a21-a1dd-09182d4cbd4e

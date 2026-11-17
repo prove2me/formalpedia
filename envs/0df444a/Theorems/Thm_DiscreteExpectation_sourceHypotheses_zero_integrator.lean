@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_sourceHypotheses_zero_integrator
 -- name    : DiscreteExpectation.sourceHypotheses_zero_integrator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:57:09.494965+00:00
 -- url     : https://prove2.me/theorems/6cddc1dd-24c6-4405-91e7-32b848026732

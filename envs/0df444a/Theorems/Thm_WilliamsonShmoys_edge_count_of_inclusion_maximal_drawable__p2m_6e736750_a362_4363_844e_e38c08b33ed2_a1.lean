@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_of_inclusion_maximal_drawable__p2m_6e736750_a362_4363_844e_e38c08b33ed2_a1
 -- name    : WilliamsonShmoys.edge_count_of_inclusion_maximal_drawable__p2m_6e736750_a362_4363_844e_e38c08b33ed2_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-31T20:51:54.931888+00:00
 -- url     : https://prove2.me/theorems/0d663055-40d3-4575-b5af-11ff2bc59459

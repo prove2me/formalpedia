@@ -18,7 +18,7 @@
 --
 --   **Formalization Note**: $\ell_h$ is selected by choice from the field setup's property that every element of $K$ is a polynomial of degree $<\delta$ in $\gamma$. Since $1,\gamma,\dots,\gamma^{\delta-1}$ are $\mathbb{S}$-linearly independent, it is the unique such polynomial, as in the paper. The table $\hat e_\alpha$ itself (`elemTab`) is defined in the source module and is not part of this bundle. The paper writes $\varphi_h,\mathbf{q}_\alpha,c,\zeta,\mathsf d$ for $\ell_h,\hat e_\alpha,\delta,\gamma,B$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction A.4 (\label{con:moment-representation}), step 6 (\label{step:moment-element-table}); Lean: LatticePrepro/Tables/ElementTable.lean, LatticePrepro.ExplicitTables.elemPoly, LatticePrepro.ExplicitTables.elemProd
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction A.4 (\label{con:moment-representation}), step 6 (\label{step:moment-element-table}); Lean: LatticePrepro/Tables/ElementTable.lean, LatticePrepro.ExplicitTables.elemPoly, LatticePrepro.ExplicitTables.elemProd
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

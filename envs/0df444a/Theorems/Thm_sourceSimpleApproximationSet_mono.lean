@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sourceSimpleApproximationSet_mono
 -- name    : sourceSimpleApproximationSet_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:00:36.915432+00:00
 -- url     : https://prove2.me/theorems/957f7d46-fe62-47e5-8cea-b6b1f2ce0cb7

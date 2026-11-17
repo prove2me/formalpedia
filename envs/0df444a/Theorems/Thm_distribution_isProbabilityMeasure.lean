@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_distribution_isProbabilityMeasure
 -- name    : distribution_isProbabilityMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:17:15.285812+00:00
 -- url     : https://prove2.me/theorems/724762cc-b24e-4e1a-a67f-b8a97f80db49

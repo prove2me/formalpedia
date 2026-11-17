@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_integralValue_map
 -- name    : integralValue_map
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:03:29.945391+00:00
 -- url     : https://prove2.me/theorems/4b4732a4-4651-4ae8-9a03-034def789602

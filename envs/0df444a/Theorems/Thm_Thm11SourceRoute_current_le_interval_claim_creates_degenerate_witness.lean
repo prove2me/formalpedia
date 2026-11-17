@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm11SourceRoute_current_le_interval_claim_creates_degenerate_witness
 -- name    : Thm11SourceRoute.current_le_interval_claim_creates_degenerate_witness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:26:02.973824+00:00
 -- url     : https://prove2.me/theorems/c6ce655a-866c-4249-b491-eaf463e32f23

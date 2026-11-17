@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ex_2_1_2_holds
 -- name    : ex_2_1_2_holds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:46:58.022112+00:00
 -- url     : https://prove2.me/theorems/ee082b75-9af4-4123-9bf2-37b993f60c6b

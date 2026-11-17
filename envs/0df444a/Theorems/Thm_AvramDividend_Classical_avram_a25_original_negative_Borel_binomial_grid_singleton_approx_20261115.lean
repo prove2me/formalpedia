@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a25_original_negative_Borel_binomial_grid_singleton_approx_20261115
 -- name    : AvramDividend.Classical.avram_a25_original_negative_Borel_binomial_grid_singleton_approx_20261115
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T15:27:17.15039+00:00
 -- url     : https://prove2.me/theorems/96c80e24-c7cb-4b17-9b88-18606992761e

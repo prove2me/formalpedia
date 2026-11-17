@@ -23,7 +23,7 @@
 --
 --   **Formalization Note** The conclusion is `Nonempty (CodeGap F ε V.Language (V.S + 1) C)`. The characteristic of $F$ is expressed by an `Algebra (ZMod p) F` instance. The code distance is a natural number defined via `sInf`, and $M^{1-\varepsilon}$ is a real power (`Real.rpow`). Polynomial-time computability of the code and targets is not formalized; the search test of Lemma 5.2 is stated separately (`CodeFamily.accepts_of_isApprox`, `CodeFamily.not_accepts_of_lt`).
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), code case; Lean: LatticePrepro/Main.lean, LatticePrepro.code_gap
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), code case; Lean: LatticePrepro/Main.lean, LatticePrepro.code_gap
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

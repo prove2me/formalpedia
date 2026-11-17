@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stochIter_measurable
 -- name    : stochIter_measurable
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-20T08:37:21.258138+00:00
 -- url     : https://prove2.me/theorems/e6411bbb-56b3-47c4-8c03-61c5379878b4

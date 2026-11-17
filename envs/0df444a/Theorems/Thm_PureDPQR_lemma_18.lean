@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PureDPQR_lemma_18
 -- name    : PureDPQR.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:58:54.728194+00:00
 -- url     : https://prove2.me/theorems/74eedfae-b0ba-4386-8cca-67ac0dfa1ca1

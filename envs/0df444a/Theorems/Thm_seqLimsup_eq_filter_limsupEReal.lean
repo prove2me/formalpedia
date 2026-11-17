@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_seqLimsup_eq_filter_limsupEReal
 -- name    : seqLimsup_eq_filter_limsupEReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:54:11.371362+00:00
 -- url     : https://prove2.me/theorems/09ed5f24-2cce-4584-9b16-dc1c07120352

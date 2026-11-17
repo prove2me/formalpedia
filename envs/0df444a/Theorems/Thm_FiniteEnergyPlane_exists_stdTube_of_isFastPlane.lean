@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_stdTube_of_isFastPlane
 -- name    : FiniteEnergyPlane.exists_stdTube_of_isFastPlane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-14T13:00:31.937426+00:00
 -- url     : https://prove2.me/theorems/629359c7-121d-4f5f-9b28-fad8fb00030c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_complexTextbookIntegrable_iff_integrable
 -- name    : complexTextbookIntegrable_iff_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:32:50.619053+00:00
 -- url     : https://prove2.me/theorems/cc4ce896-b1eb-4913-8555-2967892d11c7

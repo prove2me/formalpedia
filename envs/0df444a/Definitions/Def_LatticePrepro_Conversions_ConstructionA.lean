@@ -15,7 +15,7 @@
 --
 --   **Formalization Note.** The lift is `fun i => ((y i).val : ℤ)`, using `ZMod.val`; the coordinate set $M$ is an arbitrary type, and Lean writes the prime as `p`. The source module also defines the Construction A lattice (`constructionA`, a $\mathbb Z$-submodule of $\mathbb Z^M$) and coordinatewise reduction modulo $\mathsf p$ (`redMod`) with their properties; these do not occur in the published statements and are not part of this bundle.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma B.1 (\label{lem:construction-a-gap}), the lift of a target; Lean: LatticePrepro/Conversions/ConstructionA.lean, LatticePrepro.liftZMod
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma B.1 (\label{lem:construction-a-gap}), the lift of a target; Lean: LatticePrepro/Conversions/ConstructionA.lean, LatticePrepro.liftZMod
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

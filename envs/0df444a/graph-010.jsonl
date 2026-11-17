@@ -22373,7 +22373,7 @@
 {"parent": "AvramDividend.Classical.local_verification_postPayment_terminal_nonnegative", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.local_verification_postPayment_terminal_nonnegative", "child": "AvramDividend.Classical.capped_postPaymentReserve_ofReal_le_cap", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.local_verification_postPayment_terminal_nonnegative", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "StochLoadBal.Makespan.lemma_4", "child": "StochLoadBal_Makespan_Model", "via": ["statement"]}
+{"parent": "StochLoadBal.Makespan.lemma_4", "child": "StochLoadBal_Makespan_Model", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterPaleyWienerSampling.BandLimited.integrable_fourier", "child": "ChapterPaleyWienerSampling", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterPaleyWienerSampling.BandLimited.integrable_fourier", "child": "ChapterShannonSampling", "via": ["solution", "statement"]}
 {"parent": "J6Seg.KR.sp_dupR", "child": "IntMul_Kappa_R6_Defs64", "via": ["solution", "statement"]}
@@ -27814,7 +27814,7 @@
 {"parent": "OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.exponentialMonomial_rowTest_eq_series", "child": "OAI_NumberTheory_PiExponent_Analysis_TranslatedExpansionTerms", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_R6_Data_CxNetDataS1_14", "child": "IntMul_Kappa_R6_Defs24", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Renew46.P37.sumIdentity", "child": "QAlgorithms_Papers_Independent_Renew46_P37", "via": ["solution", "statement"]}
-{"parent": "stochIter_measurable", "child": "ShorNonsmooth_Stochastic_StochasticSubgradientMethod", "via": ["statement"]}
+{"parent": "stochIter_measurable", "child": "ShorNonsmooth_Stochastic_StochasticSubgradientMethod", "via": ["solution", "statement"]}
 {"parent": "PosetMarginals.Chains.theorem_2", "child": "PosetMarginals_Chains_Model", "via": ["solution", "statement"]}
 {"parent": "R6Chk.Bit.DagC.g29_ok", "child": "IntMul_Kappa_R6_Defs51", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Renew46.P10.translationExtension_cocycleClassification", "child": "QAlgorithms_Papers_Independent_Renew46_P10", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq30RightSlope_tendsto_atTop_zero
 -- name    : eq30RightSlope_tendsto_atTop_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:29:54.642789+00:00
 -- url     : https://prove2.me/theorems/4377cb7d-100f-48ac-9285-4d6cb73b41e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_exp_moment_kernel_norm_le
 -- name    : e7_exp_moment_kernel_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:40.89623+00:00
 -- url     : https://prove2.me/theorems/42c088f7-2883-4229-856a-25a2ca13b581

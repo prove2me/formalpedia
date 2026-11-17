@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_rsTaggedCommonLimit_derivative_of_identity_tagged_limit
 -- name    : Thm_1_4.rsTaggedCommonLimit_derivative_of_identity_tagged_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:12:26.999447+00:00
 -- url     : https://prove2.me/theorems/8c0f86da-2124-4e47-b3c3-72af19057aef

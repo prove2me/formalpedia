@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_lowerStep_le_upperStep_core
 -- name    : DarbouxRS.lowerStep_le_upperStep_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:46:47.364552+00:00
 -- url     : https://prove2.me/theorems/c341a738-762b-4474-892c-c9460f9d6eb6

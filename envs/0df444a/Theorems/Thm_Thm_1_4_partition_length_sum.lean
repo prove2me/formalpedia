@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_partition_length_sum
 -- name    : Thm_1_4.partition_length_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:27:39.875443+00:00
 -- url     : https://prove2.me/theorems/55381683-8a30-4b6b-9619-b090a5909554

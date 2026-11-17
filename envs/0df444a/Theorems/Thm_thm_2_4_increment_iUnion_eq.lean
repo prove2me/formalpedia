@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_increment_iUnion_eq
 -- name    : thm_2_4_increment_iUnion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:19:36.356078+00:00
 -- url     : https://prove2.me/theorems/f9f3fccb-ac16-46cb-9e48-62f630a62ba3

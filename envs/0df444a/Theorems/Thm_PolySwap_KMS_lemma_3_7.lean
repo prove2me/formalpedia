@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolySwap_KMS_lemma_3_7
 -- name    : PolySwap.KMS.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:42:06.87968+00:00
 -- url     : https://prove2.me/theorems/60deb11f-ad2a-4c2a-b068-91d510f41025

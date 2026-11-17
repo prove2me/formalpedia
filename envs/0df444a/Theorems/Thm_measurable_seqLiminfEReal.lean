@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurable_seqLiminfEReal
 -- name    : measurable_seqLiminfEReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:53:59.188211+00:00
 -- url     : https://prove2.me/theorems/45d847cf-0fd0-41a2-9ff2-c1b942a5acb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_5_gap_increasing
 -- name    : thm_2_5_gap_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:52:38.920019+00:00
 -- url     : https://prove2.me/theorems/25aff96c-0bd5-4c2c-be37-9da3b072e29e

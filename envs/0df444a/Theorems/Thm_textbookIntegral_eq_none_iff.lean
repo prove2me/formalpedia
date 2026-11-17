@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookIntegral_eq_none_iff
 -- name    : textbookIntegral_eq_none_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:28:23.755824+00:00
 -- url     : https://prove2.me/theorems/824a3329-7d34-4d64-8bfa-ac5980006b35

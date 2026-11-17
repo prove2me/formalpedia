@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rsIntegral_integrator_add
 -- name    : rsIntegral_integrator_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:48:19.299317+00:00
 -- url     : https://prove2.me/theorems/18d14a51-2dfb-4ace-9f5d-c50eeb4548ff

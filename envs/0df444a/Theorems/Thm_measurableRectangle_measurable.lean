@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measurableRectangle_measurable
 -- name    : measurableRectangle_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:08:34.676425+00:00
 -- url     : https://prove2.me/theorems/ad9075a3-c209-4d34-9737-955123323197

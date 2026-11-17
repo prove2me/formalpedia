@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_increment_measurable
 -- name    : thm_2_4_increment_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:18:56.801137+00:00
 -- url     : https://prove2.me/theorems/b0902646-e660-4f28-84e3-bb83a259145b

@@ -27,7 +27,7 @@
 --
 --   **Formalization Note**: The constraints are a map into a product of spaces rather than a matrix over $\mathbb{F}_p$. Expanding each component in fixed $\mathbb{F}_p$-bases gives the paper's matrix $T$, and the source module shows that `constraintFun` and `mom` are $\mathbb{F}_p$-linear. Low-degree rows are indexed by all $u<q$ (`Fin (Fintype.card 𝕊)`), and the rows with $u\le\Delta$ are $0$. `mom` is defined for every $k\in\mathbb{N}$, though only orders $k\le2p(B^m-1)$ are used. The definitions take an arbitrary field setup and arbitrary $m,B$; the paper's choices of $\delta$ and $q$ enter only in Theorem A.8. The paper writes $\mathbb{K},\mathbb{E},\tau,c,\zeta,\mathsf a,\mathsf d,W_{\deg},\nu$ for $\mathbb{S},K,q,\delta,\gamma,m,B,\Delta,\ell$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction A.4 (\label{con:moment-representation}), steps 2–5; Lean: LatticePrepro/Tables/Construction.lean, LatticePrepro.ExplicitTables.{Coord, colSum, interp, mom, IdxSet, IdxSet.toNat, degBound, maxOrder, ConstrW, constraintFun}
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Construction A.4 (\label{con:moment-representation}), steps 2–5; Lean: LatticePrepro/Tables/Construction.lean, LatticePrepro.ExplicitTables.{Coord, colSum, interp, mom, IdxSet, IdxSet.toNat, degBound, maxOrder, ConstrW, constraintFun}
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

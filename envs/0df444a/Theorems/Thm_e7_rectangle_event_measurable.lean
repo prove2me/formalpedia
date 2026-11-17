@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_rectangle_event_measurable
 -- name    : e7_rectangle_event_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:48.95166+00:00
 -- url     : https://prove2.me/theorems/dc3af436-7b4d-4c3e-986d-6d3e9e0963ce

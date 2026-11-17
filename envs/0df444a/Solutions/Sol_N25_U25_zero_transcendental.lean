@@ -1,0 +1,71 @@
+-- Prove2me | solution 1 for N25.U25_zero_transcendental
+-- status  : ACCEPTED   (prove)
+-- author  : @FormallyCorrect
+-- created : 2026-11-16T18:58:10.553925+00:00
+-- url     : https://prove2.me/submissions/cac6f4aa-f26f-4f08-83cf-000a066057cd
+
+import Mathlib
+import Definitions.Def_N25_UnitPlaneModularMap
+import Theorems.Thm_N25_U25C_zero_transcendental
+import Definitions.Def_N25_Units
+import Definitions.Def_N25_UnitSeries
+import Definitions.Def_N25_UnitRelation
+import Definitions.Def_N25_UnitAnalytic
+import Theorems.Thm_ModularCurve_qExpansion_discriminant_eq_map_X_mul_dedekindEtaUnit
+import Definitions.Def_N25_UnitRelationCertificate
+import Definitions.Def_Polynomial_BinomialResidue
+import Definitions.Def_N25_Endgame
+import Definitions.Def_N25
+import Theorems.Thm_ModularForm_sturm_bound_of_isArithmetic
+import Definitions.Def_N25_UnitPlaneFunctionCoordinates
+import Definitions.Def_N25_UnitPlaneFieldPointLift
+import Definitions.Def_N25_SelectedCusps
+import Definitions.Def_N25_UnitOrders
+import Theorems.Thm_ModularCurve_transcendental_jqModC
+import Definitions.Def_ModularCurve_X0ModL
+import Theorems.Thm_ModularCurve_exists_transcendental_finiteDimensional_qExpFunctionFieldC_of_isAlgClosed
+import Theorems.Thm_ModularCurve_finiteDimensional_and_finrank_adjoin_le_of_eq_coeffMap
+import Theorems.Thm_AlgebraicCurve_isCurveOver_of_transcendental_of_perfectField
+import Theorems.Thm_AlgebraicCurve_essFiniteType_of_transcendental_of_finiteDimensional
+import Definitions.Def_AlgebraicCurve_BaseChangeGalois
+import Definitions.Def_ModularCurve_LaurentCoeff
+import Theorems.Thm_ModularCurve_ord_qInftyPlaceBar
+import Definitions.Def_ModularCurve_JqCoeff
+import Definitions.Def_AlgebraicCurve_IsCurveOver
+import Theorems.Thm_ModularCurve_isCurveOver_and_essFiniteType_laurentBaseChange_xHFunctionField
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_laurentBaseChange
+import Theorems.Thm_AlgebraicCurve_Place_exists_comap_algebraMap_eq_of_constantFieldExtension
+import Definitions.Def_ModularCurve_ComplexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_jqModC_mem_intFormRatiosC
+import Theorems.Thm_ModularCurve_exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_ord_eq_neg_width_of_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_finrank_adjoin_jqModC_laurentBaseChange_qExpFunctionFieldC_gammaH_eq_index
+import Theorems.Thm_ModularCurve_exists_tendsto_realizeOf_mul_exp_of_not_mem_toValuationSubring
+import Definitions.Def_ModularCurve_SiegelFunction
+import Theorems.Thm_ModularCurve_realizeOf_eq_div
+import Theorems.Thm_ModularCurve_exists_complexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_ComplexPlaceDictionaryOf_exists_pt_eq_of_mem
+import Definitions.Def_AlgebraicCurve_RatFuncPlaces
+import Definitions.Def_AlgebraicCurve_ConstantFieldPullback
+import Definitions.Def_FieldTheory_RatAlgClosureGalois
+import Definitions.Def_ModularCurve_GeometricBaseChange
+import Theorems.Thm_AlgebraicCurve_Place_ord_eq_zero_of_isAlgebraic
+import Theorems.Thm_AlgebraicCurve_Place_exists_forgetConstants_restrict_eq_of_isConstantFieldExtension
+import Theorems.Thm_AlgebraicCurve_constantsAreBase_of_deg_eq_one
+import Theorems.Thm_AlgebraicCurve_Place_transcendental_of_ord_ne_zero
+import Theorems.Thm_AlgebraicCurve_Divisor_degree_eq_finrank_adjoin_of_eq_max_neg_ord
+import Theorems.Thm_AlgebraicCurve_IsCurveOver_finiteDimensional_adjoin_simple_of_transcendental_of_essFiniteType
+
+/-! The specified modular units generate the image of the plane function field. -/
+namespace N25
+
+/-- The first modular unit is transcendental for the rational algebra on the generic field. -/
+theorem _root_.solution :
+    Transcendental ℚ (show N25.Endgame.FQ from U25 0) := by
+  have key : ∀ i j : Algebra ℚ N25.Endgame.FQ,
+      @Transcendental ℚ N25.Endgame.FQ _ _ i (U25 0) →
+        @Transcendental ℚ N25.Endgame.FQ _ _ j (U25 0) :=
+    fun i j hi => Subsingleton.elim i j ▸ hi
+  exact key _ _ (U25C_zero_transcendental ℚ)
+
+end N25

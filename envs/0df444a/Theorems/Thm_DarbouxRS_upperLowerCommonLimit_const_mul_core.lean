@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_upperLowerCommonLimit_const_mul_core
 -- name    : DarbouxRS.upperLowerCommonLimit_const_mul_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:31:10.934004+00:00
 -- url     : https://prove2.me/theorems/37690a83-963b-42e7-a576-f99bea6df232

@@ -15,7 +15,7 @@
 --
 --   **Formalization Note**: `SAT v : Set (Instance v)` is `{x | Satisfiable x}`, with `Instance` and `Satisfiable` from the 3SAT verifier module. The bundle imports the whole development but defines only this set.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}); Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.SAT
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}); Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.SAT
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_def66Real_textbookIntegrable_iff
 -- name    : Thm67Support.def66Real_textbookIntegrable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:30:31.086201+00:00
 -- url     : https://prove2.me/theorems/c1e9754b-b17b-412e-9e85-10422d1dd6bb

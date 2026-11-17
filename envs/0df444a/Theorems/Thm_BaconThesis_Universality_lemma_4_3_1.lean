@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Universality_lemma_4_3_1
 -- name    : BaconThesis.Universality.lemma_4_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:58:46.86147+00:00
 -- url     : https://prove2.me/theorems/d0df0f65-e6af-4c5e-98de-4bb7c30020ce

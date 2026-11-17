@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_Supercoherence_sector_eigenvalues
 -- name    : BaconThesis.Supercoherence.sector_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:19:29.177728+00:00
 -- url     : https://prove2.me/theorems/952b24bd-792d-428c-87af-2989f9b3bdb2

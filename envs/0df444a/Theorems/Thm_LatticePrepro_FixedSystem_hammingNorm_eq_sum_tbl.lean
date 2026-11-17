@@ -15,7 +15,7 @@
 --
 --   **Formalization Note** The Hamming weight is Mathlib's `hammingNorm`, and $v_T$ is `tbl V R v T`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634); auxiliary lemma used in the proof of Theorem 4.6 (\label{thm:fixed-verifier-reduction}); Lean: LatticePrepro/Reduction/FixedSystem.lean, LatticePrepro.FixedSystem.hammingNorm_eq_sum_tbl
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634); auxiliary lemma used in the proof of Theorem 4.6 (\label{thm:fixed-verifier-reduction}); Lean: LatticePrepro/Reduction/FixedSystem.lean, LatticePrepro.FixedSystem.hammingNorm_eq_sum_tbl
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

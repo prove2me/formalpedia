@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_realCoe_textbookIntegrable_iff
 -- name    : Thm67Support.realCoe_textbookIntegrable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:30:15.310437+00:00
 -- url     : https://prove2.me/theorems/8c441cdc-a830-482c-89d5-550728980abd

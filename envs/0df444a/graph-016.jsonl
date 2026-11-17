@@ -338,7 +338,7 @@
 {"parent": "ThreeSum.LightWeightedPredecessorTable.keptApart_outside", "child": "Submission_Weighted_Predecessor", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightWeightedPredecessorTable.keptApart_outside", "child": "Submission_Weighted_PredecessorTable", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.hexNat_pos_e", "child": "OAIQ098E013", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.ExchangeUniv.mixing_lemma", "child": "BaconThesis_ExchangeUniv_suAlg", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.mixing_lemma", "child": "BaconThesis_ExchangeUniv_suAlg", "via": ["solution", "statement"]}
 {"parent": "Light.Merge.step_left_end", "child": "Submission_ThreeSumApsp_Lang_Lib_Seg", "via": ["solution", "statement"]}
 {"parent": "Light.Merge.step_left_end", "child": "Submission_ThreeSumApsp_Lang_Tactics", "via": ["solution", "statement"]}
 {"parent": "Light.Merge.step_left_end", "child": "Submission_ThreeSumApsp_Lang_Lib_Merge", "via": ["solution", "statement"]}
@@ -7167,9 +7167,9 @@
 {"parent": "ThreeSum.LightPrimePool.prime_spec", "child": "Submission_ThreeSum_LightPrimality", "via": ["solution", "statement"]}
 {"parent": "ThreeSumApsp.Dominated.mono_right", "child": "Submission_ThreeSumApsp_Util_Asymptotics_Dominated", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUM_Alias_f0b9790e2f96cf93", "child": "ThreeSum.BinarySearch.locate_sound_w3sum_ac885d1", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9", "child": "AvramDividend.Classical.bv_small_negative_first_moment_integrable", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9", "child": "AvramDividend.Classical.avram_wave8_22_original_BV_negative_levy_near_far_kernel_bounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryBankAssembly.space_eq", "child": "Submission_ThreeSum_LightTernaryBankResources", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryBankAssembly.space_eq", "child": "Submission_ThreeSum_LightTernaryBankAssembly", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.UniformStageBounds.budget_core_powerBound", "child": "Submission_ThreeSum_UniformStageBounds", "via": ["solution", "statement"]}
@@ -10703,10 +10703,10 @@
 {"parent": "ThreeSum.WeightedGlobalGoodOutputCatalog.records_nonempty_of_good", "child": "Submission_Weighted_Global_TernaryLiteralOutputCap", "via": ["solution", "statement"]}
 {"parent": "PerishBaseStock_Penalty_Model", "child": "PerishBaseStock_Lifetime_Model", "via": ["statement"]}
 {"parent": "PerishBaseStock_Penalty_Model", "child": "LostSalesOrderUpTo_Asymptotic_Backorder", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_collS", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_exchangeLie", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_collS", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_suOn", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.n4_independent", "child": "BaconThesis_ExchangeUniv_exchangeLie", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Reporting.frontier_lengths", "child": "Submission_ThreeSum_Subset", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.Reporting.frontier_lengths", "child": "Submission_ThreeSum_Reporting", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_restricted_cash_atom_eq_rightjump", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -18209,9 +18209,9 @@
 {"parent": "ThreeSum.WeightedGlobalArenaSourceControlBudget.controls_of_budget", "child": "Submission_Weighted_Global_TernaryArenaSourceControls", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryPredecessorTable.keptApart_outside", "child": "Submission_ThreeSum_LightTernaryPredecessor", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryPredecessorTable.keptApart_outside", "child": "Submission_ThreeSum_LightTernaryPredecessorTable", "via": ["solution", "statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_C_4", "child": "BaconThesis_ExchangeUniv_ket3", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_C_4", "child": "BaconThesis_Collective_exchange", "via": ["statement"]}
-{"parent": "BaconThesis.ExchangeUniv.eq_C_4", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_C_4", "child": "BaconThesis_ExchangeUniv_ket3", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_C_4", "child": "BaconThesis_Collective_exchange", "via": ["solution", "statement"]}
+{"parent": "BaconThesis.ExchangeUniv.eq_C_4", "child": "BaconThesis_ExchangeUniv_dfsSpace", "via": ["solution", "statement"]}
 {"parent": "Submission_Weighted_Global_TernaryOversizeOverhead", "child": "Submission_Weighted_GlobalBank", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryOversizeOverhead", "child": "Submission_Weighted_Global_TernaryOversizeRates", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryOversizeOverhead", "child": "Submission_Weighted_Global_TernaryRadixOverhead", "via": ["statement"]}

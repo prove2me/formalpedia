@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_triangular_bump_continuous
 -- name    : e7_triangular_bump_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:30.372191+00:00
 -- url     : https://prove2.me/theorems/56f0a298-e07e-416a-bca0-2aa7ae56b76a

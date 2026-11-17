@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BranchFull_large_ratio_lt_half
 -- name    : BranchFull.large_ratio_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-16T05:45:40.651189+00:00
 -- url     : https://prove2.me/theorems/df29f91a-9c0c-4d11-97f8-9a91262b750c

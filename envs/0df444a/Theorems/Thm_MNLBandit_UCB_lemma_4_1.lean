@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_UCB_lemma_4_1
 -- name    : MNLBandit.UCB.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:52:01.987993+00:00
 -- url     : https://prove2.me/theorems/8bdd75aa-258d-48cf-9fb9-7451ced19e6f

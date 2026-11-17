@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_triangular_bump_support_subset_closedBall
 -- name    : e7_triangular_bump_support_subset_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:29.067157+00:00
 -- url     : https://prove2.me/theorems/0a005541-2e07-497a-a5c3-113c273bdf3a

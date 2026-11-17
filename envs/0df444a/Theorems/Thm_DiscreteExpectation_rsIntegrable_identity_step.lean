@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_rsIntegrable_identity_step
 -- name    : DiscreteExpectation.rsIntegrable_identity_step
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:54:41.202667+00:00
 -- url     : https://prove2.me/theorems/8354a253-56bc-42e9-872b-3180c64714f1

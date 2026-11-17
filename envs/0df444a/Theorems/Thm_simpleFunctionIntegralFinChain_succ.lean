@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_simpleFunctionIntegralFinChain_succ
 -- name    : simpleFunctionIntegralFinChain_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:50:19.425203+00:00
 -- url     : https://prove2.me/theorems/45fd10aa-4aa8-4852-af66-4196534a2dd8

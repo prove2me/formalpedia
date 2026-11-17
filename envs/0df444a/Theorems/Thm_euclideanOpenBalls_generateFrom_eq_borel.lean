@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_euclideanOpenBalls_generateFrom_eq_borel
 -- name    : euclideanOpenBalls_generateFrom_eq_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:47:14.694385+00:00
 -- url     : https://prove2.me/theorems/a7aabc6d-0f82-4204-b343-7a1dc4e3b70b

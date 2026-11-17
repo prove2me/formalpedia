@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rsTaggedCommonLimit_of_rsUpperLowerCommonLimit
 -- name    : rsTaggedCommonLimit_of_rsUpperLowerCommonLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:18:46.437303+00:00
 -- url     : https://prove2.me/theorems/7a1cd443-986c-4ca5-9acf-3a56d507c2c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_sum_indicator_fiber
 -- name    : SimpleFunction.sum_indicator_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:23:00.069058+00:00
 -- url     : https://prove2.me/theorems/8c76ebd2-7a4f-4e31-8892-8214e38dcc1b

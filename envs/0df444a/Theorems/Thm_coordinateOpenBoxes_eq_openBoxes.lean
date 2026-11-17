@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_coordinateOpenBoxes_eq_openBoxes
 -- name    : coordinateOpenBoxes_eq_openBoxes
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:12:29.081634+00:00
 -- url     : https://prove2.me/theorems/0b63ac59-cc3b-48aa-907d-402bfda17438

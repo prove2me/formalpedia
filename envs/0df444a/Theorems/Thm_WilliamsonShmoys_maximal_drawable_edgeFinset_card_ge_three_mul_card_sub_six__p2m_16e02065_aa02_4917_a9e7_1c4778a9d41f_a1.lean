@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawable_edgeFinset_card_ge_three_mul_card_sub_six__p2m_16e02065_aa02_4917_a9e7_1c4778a9d41f_a1
 -- name    : WilliamsonShmoys.maximal_drawable_edgeFinset_card_ge_three_mul_card_sub_six__p2m_16e02065_aa02_4917_a9e7_1c4778a9d41f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:53:13.818019+00:00
 -- url     : https://prove2.me/theorems/b8ffaa04-868a-495a-ab39-10d09a3d9b95

@@ -17,7 +17,7 @@
 --
 --   **Formalization Note.** "Binary" is `IsBinary` (every coordinate is $0$ or $1$ in $\mathbb F_p$), block sparsity is `AtMostOnePerBlock L.codeBlk`, the weight is Mathlib's `hammingNorm`, and $D$ is `L.numBlocks`, the number of block indices. YES instances are `L.IsYes x`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.11 (\label{lem:block-system-codes}), YES case of equation (38) (\label{eq:code-gap}) in its proof (Appendix B.1); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.LinearSystemFamily.code_yes
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.11 (\label{lem:block-system-codes}), YES case of equation (38) (\label{eq:code-gap}) in its proof (Appendix B.1); Lean: LatticePrepro/Conversions/Codes.lean, LatticePrepro.LinearSystemFamily.code_yes
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

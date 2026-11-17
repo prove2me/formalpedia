@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurCampaign_allowed_point_orders
 -- name    : MazurCampaign.allowed_point_orders
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-05T18:28:15.696384+00:00
 -- url     : https://prove2.me/theorems/fc0381e4-7397-4546-b3fe-a89ed28e7890

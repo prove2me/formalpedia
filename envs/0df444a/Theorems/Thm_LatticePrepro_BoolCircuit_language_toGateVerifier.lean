@@ -18,7 +18,7 @@
 --
 --   **Formalization Note**: The gate verifier's language is the set of $x$ having a valid wire assignment with prefix $(x, 1)$ (`GateVerifier.Language`); the circuit's language uses the recursive evaluation `evalAux`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definitions 3.13–3.14 (\label{def:verifier}, \label{def:computation-assignment}), where the correspondence is implicit; Lean: LatticePrepro/Verifier/Circuit.lean, LatticePrepro.BoolCircuit.language_toGateVerifier
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definitions 3.13–3.14 (\label{def:verifier}, \label{def:computation-assignment}), where the correspondence is implicit; Lean: LatticePrepro/Verifier/Circuit.lean, LatticePrepro.BoolCircuit.language_toGateVerifier
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Verifier_Quadratic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BranchSpectral_anchor_bound
 -- name    : BranchSpectral.anchor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @bueno_ricardo
 -- created : 2026-11-16T05:48:12.642496+00:00
 -- url     : https://prove2.me/theorems/c71afc95-b538-44ba-8667-19ea645c6e7b

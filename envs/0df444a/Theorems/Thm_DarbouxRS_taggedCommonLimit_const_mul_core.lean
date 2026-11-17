@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_taggedCommonLimit_const_mul_core
 -- name    : DarbouxRS.taggedCommonLimit_const_mul_core
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T08:05:14.865796+00:00
 -- url     : https://prove2.me/theorems/e7fc1e92-8185-414e-8b59-f6583b2b99bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ereal_coe_finset_sum__138bdd
 -- name    : ereal_coe_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:03:13.653261+00:00
 -- url     : https://prove2.me/theorems/138bdd00-3716-425e-98da-a15664bdb4a5

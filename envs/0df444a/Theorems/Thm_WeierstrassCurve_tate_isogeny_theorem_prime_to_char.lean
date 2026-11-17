@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeierstrassCurve_tate_isogeny_theorem_prime_to_char
 -- name    : WeierstrassCurve.tate_isogeny_theorem_prime_to_char
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-14T16:05:25.983983+00:00
 -- url     : https://prove2.me/theorems/9b26707e-2aa8-40c4-b35f-3120a53c416a

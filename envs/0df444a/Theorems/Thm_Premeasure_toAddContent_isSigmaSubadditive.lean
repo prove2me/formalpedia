@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Premeasure_toAddContent_isSigmaSubadditive
 -- name    : Premeasure.toAddContent_isSigmaSubadditive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T21:31:28.387781+00:00
 -- url     : https://prove2.me/theorems/2c8321e8-1fa8-4cf2-a408-deaa9d906aee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_measurable_of_dense_first_coordinates
 -- name    : e7_measurable_of_dense_first_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:25:01.794097+00:00
 -- url     : https://prove2.me/theorems/0d4b5147-c327-4a81-9739-6561f50ff515

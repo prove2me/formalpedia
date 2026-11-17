@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_partial_measure_eq_sum
 -- name    : thm_2_4_partial_measure_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:20:14.135625+00:00
 -- url     : https://prove2.me/theorems/c1ddcd0e-838a-4303-bc49-e4cb8c871106

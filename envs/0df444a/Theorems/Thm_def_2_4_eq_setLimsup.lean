@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_def_2_4_eq_setLimsup
 -- name    : def_2_4_eq_setLimsup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:23:47.559195+00:00
 -- url     : https://prove2.me/theorems/6bfb11d7-e445-4ea7-b3bd-3b324d4f6e00

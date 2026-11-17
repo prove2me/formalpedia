@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_uniformBoundedFunction_pointwise_bound
 -- name    : e7_uniformBoundedFunction_pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:24:55.005464+00:00
 -- url     : https://prove2.me/theorems/9f31d823-6787-4ddd-abee-8673c8f5c913

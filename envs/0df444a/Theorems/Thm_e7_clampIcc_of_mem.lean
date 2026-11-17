@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_clampIcc_of_mem
 -- name    : e7_clampIcc_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T06:54:30.507198+00:00
 -- url     : https://prove2.me/theorems/697d7455-17bc-4398-8827-0f0a1b1e51e6

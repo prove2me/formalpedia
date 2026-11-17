@@ -11446,7 +11446,7 @@
 {"parent": "MIPRE.Cost.Prog.readLoop_runs", "child": "MIPRE_Foundations_Cost_BoundedEval", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.readLoop_runs", "child": "MIPRE_Foundations_Halting_Instantiation", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.readLoop_runs", "child": "MIPRE_Foundations_GapCompression", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.Typical.typical_concentration", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.typical_concentration", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "RiskEU.RobustShrink.proposition_4", "child": "RiskEU_RobustShrink_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem310Support.signedDyadicUnion_hits", "child": "OAI_MeasureTheory_DyadicAvoidance_WindowExceptionalTransfer", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem310Support.signedDyadicUnion_hits", "child": "OAI_MeasureTheory_DyadicAvoidance_OrderedRouting", "via": ["solution", "statement"]}
@@ -17101,7 +17101,7 @@
 {"parent": "OAI.ThreeManifold.RiemannianCoordinates.CoordinateMetricIsometry.connection_derivative", "child": "ConjugatePoints", "via": ["solution", "statement"]}
 {"parent": "OAI.ThreeManifold.RiemannianCoordinates.CoordinateMetricIsometry.connection_derivative", "child": "OAI_Geometry_ConjugatePoints_Coordinates", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes_RHHighContourCertificateV2Packet24", "child": "TaoFivePrimes_RHHighContourArithmeticV2", "via": ["statement"]}
-{"parent": "QAOAE3Lin2.Typical.eq_25", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.eq_25", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_WindowMetadata", "child": "OAI_MeasureTheory_DyadicAvoidance_WindowExceptionalTransfer", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_WindowMetadata", "child": "OAI_MeasureTheory_DyadicAvoidance_TreePreorder", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_WindowMetadata", "child": "OAI_MeasureTheory_DyadicAvoidance_WindowData", "via": ["statement"]}
@@ -17140,7 +17140,7 @@
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_WindowMetadata", "child": "OAI_MeasureTheory_DyadicAvoidance_CenterRouteExposure", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_WindowMetadata", "child": "OAI_MeasureTheory_DyadicAvoidance_RoutedSetDensity", "via": ["statement"]}
 {"parent": "OAI_MeasureTheory_DyadicAvoidance_WindowMetadata", "child": "OAI_MeasureTheory_DyadicAvoidance_TreePreorderRank", "via": ["statement"]}
-{"parent": "QAOAE3Lin2.Typical.eq_47", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.eq_47", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.norm_choiceScalar_le", "child": "OAI_NumberTheory_PiExponent_Approximation_RowTranslation_CoreData", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.norm_choiceScalar_le", "child": "OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.norm_choiceScalar_le", "child": "OAI_NumberTheory_PiExponent_Analysis_LiteralAnalyticSummand_InterfaceData", "via": ["solution", "statement"]}
@@ -17845,7 +17845,7 @@
 {"parent": "MIPRE.Halting.re_subset_mipstarComputable_of", "child": "MIPRE_Foundations_Cost_BoundedEval", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Halting.re_subset_mipstarComputable_of", "child": "MIPRE_Foundations_Halting_Instantiation", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Halting.re_subset_mipstarComputable_of", "child": "MIPRE_Foundations_GapCompression", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.Typical.eq_55", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.eq_55", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_Analysis_HyperbolicCones_TangentBasic", "child": "OAI_Analysis_HyperbolicCones_PencilTopology", "via": ["statement"]}
 {"parent": "OAI_Analysis_HyperbolicCones_TangentBasic", "child": "HyperbolicCones", "via": ["statement"]}
 {"parent": "OAI_Analysis_HyperbolicCones_TangentBasic", "child": "OAI_Analysis_HyperbolicCones_ConeMatrix", "via": ["statement"]}

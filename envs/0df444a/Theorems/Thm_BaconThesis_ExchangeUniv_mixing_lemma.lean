@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_ExchangeUniv_mixing_lemma
 -- name    : BaconThesis.ExchangeUniv.mixing_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:50:53.517534+00:00
 -- url     : https://prove2.me/theorems/aa175947-ee09-4081-bd58-4253e2619ee1

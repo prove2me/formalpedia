@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MazurCampaign.rationalTorsion_hasMazurClassification
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Vas
 -- created : 2026-10-06T07:18:40.793893+00:00
 -- url     : https://prove2.me/submissions/fd14a31b-debd-4f42-a6e3-05fb723cb422
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Vasily Ilin. All rights reserved.

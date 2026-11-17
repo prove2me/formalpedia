@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteExpectation_sum_bound_helper
 -- name    : DiscreteExpectation.sum_bound_helper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:14:15.979813+00:00
 -- url     : https://prove2.me/theorems/3410fcce-b6d3-4f16-a682-7cacf52f2a11

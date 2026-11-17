@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_DFS_eq_5_16_5_19
 -- name    : BaconThesis.DFS.eq_5_16_5_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:58:06.379338+00:00
 -- url     : https://prove2.me/theorems/dbbeadfe-1bda-4526-ac97-bf550a14260e

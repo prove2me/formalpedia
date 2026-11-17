@@ -15,7 +15,7 @@
 --
 --   **Formalization Note.** The exponent enters Mathlib through `PNorm.toENNReal` ($p\mapsto p$, $\infty\mapsto\top$), and vectors are moved into `PiLp` with `WithLp.toLp`. $\Lambda_{\mathbb R}$ is `LatticeFamily.realLattice`, and the target is cast with `LatticeFamily.toReal`.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.1 (\label{def:code-lattice-distances}); Lean: LatticePrepro/Lattices/Mathlib.lean, LatticePrepro.LatticeFamily.latticeDist_eq_infDist
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definition 3.1 (\label{def:code-lattice-distances}); Lean: LatticePrepro/Lattices/Mathlib.lean, LatticePrepro.LatticeFamily.latticeDist_eq_infDist
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

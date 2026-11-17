@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_generatedSigmaFieldSeq_contains
 -- name    : generatedSigmaFieldSeq_contains
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:09:10.226752+00:00
 -- url     : https://prove2.me/theorems/edb71ef1-3744-4fec-88bf-d20e0d5e925a

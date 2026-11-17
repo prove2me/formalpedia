@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_stdTube_of_normalFrame
 -- name    : FiniteEnergyPlane.exists_stdTube_of_normalFrame
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-14T19:23:59.19299+00:00
 -- url     : https://prove2.me/theorems/cf06b670-da02-4057-ad40-7b765987c113

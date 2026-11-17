@@ -18,7 +18,7 @@
 --
 --   **Formalization Note**: The paper takes the $y_k$ in a finite field $K$, assumes $\operatorname{rank}_K(y_{i+j})_{i,j<\ell}=t<r$, and obtains $f$ on some finite extension of $K$. The Lean version works directly in a fixed algebraically closed field $\Omega$ (later Mathlib's `AlgebraicClosure K`) and only assumes that the first $t+1$ Hankel columns are dependent, which follows from rank $\le t$ since $t+1\le\ell$; it is therefore a slight generalization. The sequence is a function `ℕ → Ω`, of which only $y_0,\dots,y_{2\ell-2}$ matter. Coefficient functions are `Ω →₀ ZMod p`, and $\mu_k$ uses the convention $0^0=1$.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Tables/Hankel.lean, LatticePrepro.hankel_reconstruction
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Tables/Hankel.lean, LatticePrepro.hankel_reconstruction
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Moments_Basic

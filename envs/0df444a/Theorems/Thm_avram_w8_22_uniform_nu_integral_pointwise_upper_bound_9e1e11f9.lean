@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9
 -- name    : avram_w8_22_uniform_nu_integral_pointwise_upper_bound_9e1e11f9
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-03T10:15:39.033711+00:00
 -- url     : https://prove2.me/theorems/c2bd3722-9e2a-4249-a8cc-075bc4b3699c

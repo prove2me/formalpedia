@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarbouxRS_lowerSum_le_taggedSum
 -- name    : DarbouxRS.lowerSum_le_taggedSum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T08:04:49.82919+00:00
 -- url     : https://prove2.me/theorems/b95740b9-b79f-4580-8d76-0837d50c63c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubquadCutReach_Faster_Supplement_corollary_4_2
 -- name    : SubquadCutReach.Faster.Supplement.corollary_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T19:23:49.492503+00:00
 -- url     : https://prove2.me/theorems/5e0b9d98-a9dd-4cac-95fe-28b82a7745ee

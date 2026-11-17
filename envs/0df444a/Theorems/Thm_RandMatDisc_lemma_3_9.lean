@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandMatDisc_lemma_3_9
 -- name    : RandMatDisc.lemma_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T04:40:00.174852+00:00
 -- url     : https://prove2.me/theorems/90adad4d-7535-44f5-9465-9eac762801aa

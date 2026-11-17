@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_rsTaggedCommonLimit_intervalIntegral_id
 -- name    : Thm_1_4.rsTaggedCommonLimit_intervalIntegral_id
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:12:14.350014+00:00
 -- url     : https://prove2.me/theorems/fdf42d47-84ec-444f-8b46-cbb414c1aa23

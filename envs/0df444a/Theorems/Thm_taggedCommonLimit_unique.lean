@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_taggedCommonLimit_unique
 -- name    : taggedCommonLimit_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:42:36.176934+00:00
 -- url     : https://prove2.me/theorems/9ad1ac2e-57c2-4841-8829-20c505c7bcd2

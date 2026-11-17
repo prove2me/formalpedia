@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm61Support_integralValue_const_mul_of_nonneg
 -- name    : Thm61Support.integralValue_const_mul_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:26:31.208227+00:00
 -- url     : https://prove2.me/theorems/0ab15c9c-5e51-4238-8c80-71584cc7bfad

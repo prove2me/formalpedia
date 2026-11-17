@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_taggedSum_le_upperSum
 -- name    : taggedSum_le_upperSum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:18:32.007602+00:00
 -- url     : https://prove2.me/theorems/577d5128-221c-4840-930c-668649bef901

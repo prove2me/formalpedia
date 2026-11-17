@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_upperLowerCommonLimit_integrator_add
 -- name    : upperLowerCommonLimit_integrator_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:45:18.739568+00:00
 -- url     : https://prove2.me/theorems/94649e07-4e5c-4429-9f73-79ada63d27e6

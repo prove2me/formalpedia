@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearSetReconciliation327_Main_lemma_5_3
 -- name    : LinearSetReconciliation327.Main.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:32:48.395082+00:00
 -- url     : https://prove2.me/theorems/df8df22f-cd68-4e1a-81fe-6d17e32c956f

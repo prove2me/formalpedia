@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MazurCampaign.full_mazur_torsion_theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Vas
 -- created : 2026-10-05T18:28:52.244736+00:00
 -- url     : https://prove2.me/submissions/80f50ac1-4f7c-4fdd-9eba-de5711cdc272
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Vasily Ilin. All rights reserved.

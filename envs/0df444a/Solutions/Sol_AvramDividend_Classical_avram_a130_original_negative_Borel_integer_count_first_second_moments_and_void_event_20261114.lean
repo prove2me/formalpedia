@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a130_original_negative_Borel_integer_count_first_second_moments_and_void_event_20261114
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-14T19:46:39.814734+00:00
 -- url     : https://prove2.me/submissions/379b6392-6def-4744-9dff-57cfd024a094
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -23,7 +23,7 @@
 --
 --   **Formalization Note**: The paper's verifier is a Boolean circuit; here a verifier is abstracted as the system of quadratic gate equations of Claim 3.15 with a designated input prefix and output coordinate, in the coordinate order of Definition 3.14 (inputs, output, then witness and remaining gate outputs). Lean indexes instances by `Fin n` (so $x_i$ above is `x ⟨i-1, _⟩`), stores Boolean bits as $0/1 \in \mathbb{F}_p$, and indexes $E$ by `Fin (S+1)` with the convention $E_0 = 0$ so that sums run over all coordinates.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definitions 3.13–3.14 (\label{def:verifier}, \label{def:computation-assignment}), Claim 3.15 (\label{clm:verifier-system}) and Construction 4.5 (\label{con:fixed-verifier}); Lean: LatticePrepro/Verifier/Quadratic.lean, LatticePrepro.QuadraticVerifier, LatticePrepro.EncodingTuple, LatticePrepro.QuadraticVerifier.instanceEnc
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Definitions 3.13–3.14 (\label{def:verifier}, \label{def:computation-assignment}), Claim 3.15 (\label{clm:verifier-system}) and Construction 4.5 (\label{con:fixed-verifier}); Lean: LatticePrepro/Verifier/Quadratic.lean, LatticePrepro.QuadraticVerifier, LatticePrepro.EncodingTuple, LatticePrepro.QuadraticVerifier.instanceEnc
 
 import Mathlib
 

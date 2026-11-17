@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_simpleFunctionIntegralValue_map_ennreal_eq_lintegral
 -- name    : simpleFunctionIntegralValue_map_ennreal_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:52:01.00156+00:00
 -- url     : https://prove2.me/theorems/80a21d78-5f32-413c-b09b-a6cce621af3b

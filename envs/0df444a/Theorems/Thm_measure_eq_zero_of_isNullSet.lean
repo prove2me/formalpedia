@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_measure_eq_zero_of_isNullSet
 -- name    : measure_eq_zero_of_isNullSet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:01:31.549176+00:00
 -- url     : https://prove2.me/theorems/6da900c5-e58f-4b87-8914-3f4daa2d4782

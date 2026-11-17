@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_countable_additivity_spine
 -- name    : thm_2_4_countable_additivity_spine
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:20:43.076839+00:00
 -- url     : https://prove2.me/theorems/f6ce58c4-f36d-47a7-b336-1ab350dfdba8

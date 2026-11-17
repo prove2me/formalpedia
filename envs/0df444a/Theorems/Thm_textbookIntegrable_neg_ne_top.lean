@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_textbookIntegrable_neg_ne_top
 -- name    : textbookIntegrable_neg_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:28:50.498268+00:00
 -- url     : https://prove2.me/theorems/2d6ab190-9199-4789-b379-706cb2d9f8f8

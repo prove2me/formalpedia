@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm67Support_complexTextbookIntegral_eq_some_integral
 -- name    : Thm67Support.complexTextbookIntegral_eq_some_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:31:12.647192+00:00
 -- url     : https://prove2.me/theorems/089cb0b4-8ce5-4b69-9edb-a8f5cdff61b1

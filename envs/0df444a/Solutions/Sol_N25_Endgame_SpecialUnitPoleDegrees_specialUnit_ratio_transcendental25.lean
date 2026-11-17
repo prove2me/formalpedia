@@ -1,0 +1,88 @@
+-- Prove2me | solution 1 for N25.Endgame.SpecialUnitPoleDegrees.specialUnit_ratio_transcendental25
+-- status  : ACCEPTED   (prove)
+-- author  : @FormallyCorrect
+-- created : 2026-11-16T18:58:14.276322+00:00
+-- url     : https://prove2.me/submissions/202cd762-f18a-44d9-a799-bcecf8816c79
+
+import Mathlib
+import Definitions.Def_N25_Units
+import Definitions.Def_N25_SelectedCusps
+import Definitions.Def_N25_UnitOrders
+import Definitions.Def_N25_PointDifference
+import Definitions.Def_N25_Endgame
+import Definitions.Def_AlgebraicCurve_BaseChangeGalois
+import Definitions.Def_N25_UnitSeries
+import Definitions.Def_ModularCurve_LaurentCoeff
+import Theorems.Thm_ModularCurve_ord_qInftyPlaceBar
+import Definitions.Def_ModularCurve_JqCoeff
+import Definitions.Def_N25
+import Definitions.Def_AlgebraicCurve_IsCurveOver
+import Theorems.Thm_ModularCurve_isCurveOver_and_essFiniteType_laurentBaseChange_xHFunctionField
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_laurentBaseChange
+import Theorems.Thm_AlgebraicCurve_Place_exists_comap_algebraMap_eq_of_constantFieldExtension
+import Definitions.Def_ModularCurve_ComplexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_jqModC_mem_intFormRatiosC
+import Theorems.Thm_ModularCurve_exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_ord_eq_neg_width_of_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_finrank_adjoin_jqModC_laurentBaseChange_qExpFunctionFieldC_gammaH_eq_index
+import Theorems.Thm_ModularCurve_exists_tendsto_realizeOf_mul_exp_of_not_mem_toValuationSubring
+import Definitions.Def_N25_UnitAnalytic
+import Definitions.Def_ModularCurve_SiegelFunction
+import Theorems.Thm_ModularCurve_qExpansion_discriminant_eq_map_X_mul_dedekindEtaUnit
+import Theorems.Thm_ModularCurve_realizeOf_eq_div
+import Theorems.Thm_ModularCurve_exists_complexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_ComplexPlaceDictionaryOf_exists_pt_eq_of_mem
+import Theorems.Thm_ModularCurve_natCard_fibres_jqModC_eq_natCard_doubleCoset_of_finrank_eq_index
+import Theorems.Thm_ModularCurve_two_mul_genusFF_add_card_fibres_eq_finrank_add_two_of_gamma1_le
+import Theorems.Thm_AlgebraicCurve_genus_eq_zero_of_isPrincipal_single_sub_single
+import Theorems.Thm_AlgebraicCurve_hasCanonicalDivisor_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_dCoordGenerates_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_functionFieldRiemannRoch_of_isAlgClosed_of_transcendental
+import Theorems.Thm_AlgebraicCurve_constantsAreBase_of_isAlgClosed_of_transcendental
+import Theorems.Thm_AlgebraicCurve_genus_eq_genusFF
+import Theorems.Thm_AlgebraicCurve_stichtenothGenusExists_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_weilDualityAdelic_of_functionFieldRiemannRoch_of_stichtenothGenusExists
+import Theorems.Thm_ModularCurve_eq_zero_of_reductionQExpModL_gammaH_eq_zero_of_nsmul_eq_zero
+import Theorems.Thm_ValuationSubring_isAlgClosed_residueField
+import Theorems.Thm_ModularCurve_transcendental_jqModC
+import Definitions.Def_ModularCurve_X0ModL
+import Theorems.Thm_ModularCurve_exists_transcendental_finiteDimensional_qExpFunctionFieldC_of_isAlgClosed
+import Theorems.Thm_ModularCurve_finiteDimensional_and_finrank_adjoin_le_of_eq_coeffMap
+import Theorems.Thm_AlgebraicCurve_isCurveOver_of_transcendental_of_perfectField
+import Theorems.Thm_AlgebraicCurve_essFiniteType_of_transcendental_of_finiteDimensional
+import Theorems.Thm_N25_Endgame_U25_orders_special_good
+import Theorems.Thm_AlgebraicCurve_constantsAreBase_of_deg_eq_one
+import Theorems.Thm_ModularCurve_deg_qInftyPlaceBar
+import Theorems.Thm_ModularCurve_order_jqModC
+import Theorems.Thm_AlgebraicCurve_Place_transcendental_of_ord_ne_zero
+import Theorems.Thm_AlgebraicCurve_Divisor_degree_eq_finrank_adjoin_of_eq_max_neg_ord
+import Theorems.Thm_AlgebraicCurve_IsCurveOver_finiteDimensional_adjoin_simple_of_transcendental_of_essFiniteType
+import Theorems.Thm_N25_Endgame_SpecialUnitPoleDegrees_specialUnit_ratio_ord25
+
+set_option autoImplicit false
+
+noncomputable section
+
+open AlgebraicCurve N25.Endgame
+
+namespace N25.Endgame
+
+open N25
+
+variable {p : ℕ} [Fact p.Prime] (hp : p = 2 ∨ p = 3) (R : RedDatum25 p)
+
+include hp
+
+namespace SpecialUnitPoleDegrees
+
+/-- The nonzero order of the reduced unit ratio proves its transcendence. -/
+theorem _root_.solution :
+    Transcendental (κ R.A) (U25C (κ R.A) 0 / U25C (κ R.A) 1) := by
+  apply (redPlace25 R (pG25 1)).transcendental_of_ord_ne_zero
+  rw [specialUnit_ratio_ord25 R, (U25_orders_special_good p hp R 0).1 1,
+    (U25_orders_special_good p hp R 1).1 1]
+  norm_num [unitOrders25]
+
+end SpecialUnitPoleDegrees
+
+end N25.Endgame

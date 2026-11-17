@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleFunction_measurableSet_fiber
 -- name    : SimpleFunction.measurableSet_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:22:01.631126+00:00
 -- url     : https://prove2.me/theorems/334c7caa-f4b7-4a3a-9271-6a994067532a

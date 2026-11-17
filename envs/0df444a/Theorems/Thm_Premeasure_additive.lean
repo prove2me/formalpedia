@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Premeasure_additive
 -- name    : Premeasure.additive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T15:33:00.624391+00:00
 -- url     : https://prove2.me/theorems/3e9d85f9-9fcd-413e-9139-1561aaa15a0b

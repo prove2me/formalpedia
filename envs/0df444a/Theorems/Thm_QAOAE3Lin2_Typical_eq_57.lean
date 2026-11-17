@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_Typical_eq_57
 -- name    : QAOAE3Lin2.Typical.eq_57
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:07.811903+00:00
 -- url     : https://prove2.me/theorems/3d9f8691-68d7-4d8e-a24b-0f45e8c82192

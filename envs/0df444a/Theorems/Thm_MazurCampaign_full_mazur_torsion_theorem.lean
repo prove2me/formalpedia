@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurCampaign_full_mazur_torsion_theorem
 -- name    : MazurCampaign.full_mazur_torsion_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-05T18:28:39.295664+00:00
 -- url     : https://prove2.me/theorems/94a3c19d-4c9a-46cd-94d8-57d568f13288

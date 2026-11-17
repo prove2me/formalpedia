@@ -67622,7 +67622,7 @@
 {"parent": "OAI.Paper092.exists_step_to_boundary", "child": "OAI_Geometry_ProjectionVolume_SimplexProjection", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper092.exists_step_to_boundary", "child": "ProjectionVolume", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper092.exists_step_to_boundary", "child": "OAI_Geometry_ProjectionVolume_SimplexGeometry", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_25", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_25", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_Combinatorics_Sensitivity_Tournament", "child": "OAI_Combinatorics_Sensitivity_HammingBase", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_Sensitivity_Tournament", "child": "SensitivitySeparation", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_Sensitivity_Tournament", "child": "OAI_Combinatorics_Sensitivity_Basic", "via": ["statement"]}
@@ -88291,7 +88291,7 @@
 {"parent": "OAI.EntropyPhotonNumber.logarithmicMean_exp_pair", "child": "OAI_InformationTheory_PhotonNumber_BeamForms", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyPhotonNumber.logarithmicMean_exp_pair", "child": "OAI_InformationTheory_PhotonNumber_Functions", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyPhotonNumber.logarithmicMean_exp_pair", "child": "OAI_InformationTheory_PhotonNumber_BeamTrace", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.Typical.variance_bound", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.variance_bound", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.GAD.entropy_le_diagonal", "child": "OAI_InformationTheory_AmplitudeDamping_Channel", "via": ["solution", "statement"]}
 {"parent": "OAI.GAD.entropy_le_diagonal", "child": "OAI_InformationTheory_AmplitudeDamping_LogDetConvexity", "via": ["solution", "statement"]}
 {"parent": "OAI.GAD.entropy_le_diagonal", "child": "OAI_InformationTheory_AmplitudeDamping_MatrixDifferentiation", "via": ["solution", "statement"]}
@@ -93040,7 +93040,7 @@
 {"parent": "MIPRE.Cost.Prog.parseLoop_runs", "child": "MIPRE_Foundations_Cost_Codable", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.parseLoop_runs", "child": "MIPRE_Foundations_Cost_Unary", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Prog.parseLoop_runs", "child": "MIPRE_Foundations_Halting_Descriptions", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.Typical.eq_49", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.eq_49", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "Esgk_IrreduciblePlaneAffineNormalizationRealEvaluation", "child": "Esgk_SelfCurveDistancePairs", "via": ["statement"]}
 {"parent": "Esgk_IrreduciblePlaneAffineNormalizationRealEvaluation", "child": "LeanFormalizations_PachDeZeeuw_AlgebraicPrelim", "via": ["statement"]}
 {"parent": "Esgk_IrreduciblePlaneAffineNormalizationRealEvaluation", "child": "Esgk_IrreduciblePlaneFunctionField", "via": ["statement"]}
@@ -93404,7 +93404,7 @@
 {"parent": "OAI.EntropyPhotonNumber.Regularization.sublevel_bounds", "child": "OAI_InformationTheory_PhotonNumber_BeamTrace", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyPhotonNumber.Regularization.sublevel_bounds", "child": "OAI_InformationTheory_PhotonNumber_SpectralLog", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyPhotonNumber.Regularization.sublevel_bounds", "child": "OAI_InformationTheory_PhotonNumber_Functions", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.Typical.eq_57", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.eq_57", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_batch01_height_vertical_center_semantic", "child": "TaoFivePrimes_RHBatch01VerticalCenter", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_batch01_height_vertical_center_semantic", "child": "TaoFivePrimes_RHBatch01VerticalAnalyticValues", "via": ["solution", "statement"]}
 {"parent": "OAI.LeanBlast.SecondKahnKalai.exists_zero_prefix_positive_suffix", "child": "SecondKahnKalai", "via": ["solution", "statement"]}
@@ -93690,7 +93690,7 @@
 {"parent": "OAI_Combinatorics_CliqueFree_FiniteEntropy", "child": "OAI_Combinatorics_CliqueFree_MultiplierLaw", "via": ["statement"]}
 {"parent": "StrategicAlloc_CutChoose_Setting", "child": "StrategicAlloc_RRFair_Setting", "via": ["statement"]}
 {"parent": "StrategicAlloc_CutChoose_Setting", "child": "LittleCharity_MMS_Setting", "via": ["statement"]}
-{"parent": "QAOAE3Lin2.Typical.eq_50", "child": "QAOAE3Lin2_Typical_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.Typical.eq_50", "child": "QAOAE3Lin2_Typical_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_Combinatorics_CliqueFree_VertexSplitting", "child": "CliqueFreeLog", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_CliqueFree_VertexSplitting", "child": "OAI_Combinatorics_CliqueFree_Deletion", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_CliqueFree_VertexSplitting", "child": "OAI_Combinatorics_CliqueFree_Numerical", "via": ["statement"]}

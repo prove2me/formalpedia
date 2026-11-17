@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_deligne_hecke_root_bound_weight_two
 -- name    : RamanujanPetersson.deligne_hecke_root_bound_weight_two
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-14T16:15:09.635215+00:00
 -- url     : https://prove2.me/theorems/dd18c626-299d-46c5-8fc3-5732b6e93438

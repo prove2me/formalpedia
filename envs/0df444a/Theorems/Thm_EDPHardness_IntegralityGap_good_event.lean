@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPHardness_IntegralityGap_good_event
 -- name    : EDPHardness.IntegralityGap.good_event
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:57.077989+00:00
 -- url     : https://prove2.me/theorems/0c57f11e-0852-498d-9dfb-ebc446bac4e1

@@ -14,7 +14,7 @@
 --
 --   **Formalization Note**: $\mathbb{F}_p$ is `ZMod p` with `Fact p.Prime`, and $\iota$ is `algebraMap (ZMod p) Ω`. The field $\Omega$ is arbitrary; it need not be finite (in the application it is an algebraic closure).
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Basic/FiniteField.lean, LatticePrepro.exists_zmod_of_pow_eq
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), auxiliary lemma used in the proof of Theorem A.7 (\label{thm:moment-hankel-reconstruction}); Lean: LatticePrepro/Basic/FiniteField.lean, LatticePrepro.exists_zmod_of_pow_eq
 
 import Mathlib
 

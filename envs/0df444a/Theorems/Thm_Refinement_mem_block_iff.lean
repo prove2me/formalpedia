@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Refinement_mem_block_iff
 -- name    : Refinement.mem_block_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:51:55.885207+00:00
 -- url     : https://prove2.me/theorems/44946c5e-d55c-490a-a959-25fb44279a00

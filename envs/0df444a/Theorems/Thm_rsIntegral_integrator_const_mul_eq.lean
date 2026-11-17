@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rsIntegral_integrator_const_mul_eq
 -- name    : rsIntegral_integrator_const_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:48:55.536595+00:00
 -- url     : https://prove2.me/theorems/086716fa-5ba7-4cff-be4c-19faea170be5

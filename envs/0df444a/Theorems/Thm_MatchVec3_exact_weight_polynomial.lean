@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchVec3_exact_weight_polynomial
 -- name    : MatchVec3.exact_weight_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:40:54.918815+00:00
 -- url     : https://prove2.me/theorems/3812fd3c-8e49-4de6-9e3c-cbfaa6b1e2dc

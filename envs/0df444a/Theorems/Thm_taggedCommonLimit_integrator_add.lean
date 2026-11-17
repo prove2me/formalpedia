@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_taggedCommonLimit_integrator_add
 -- name    : taggedCommonLimit_integrator_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:45:34.025105+00:00
 -- url     : https://prove2.me/theorems/38525639-389e-4b61-a1d1-e3ff4fd8f2b2

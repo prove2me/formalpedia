@@ -20,7 +20,7 @@
 --
 --   **Formalization Note**: The two parts assert `Nonempty (CodeGap F ε (SAT v) (len v) C)` and `Nonempty (LatticeGap pn ε (SAT v) (len v) C)`; the constant $C$ is chosen before $v$, so it depends only on the field (resp. norm exponent) and $\varepsilon$. Code distances are natural numbers (`codeDist`), lattice distances are real infima (`latticeDist`), $p$ ranges over all reals $p \ge 1$ and $\infty$ (`PNorm`), and $M^{\cdot}$ is a real power. Polynomial-time computability and description lengths are not formalized. The search test of Lemma 5.2 is a separate milestone for the paper's concrete tests; it is not bundled here, since without its running-time bound an abstract test would be satisfied by satisfiability itself.
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}) for the 3SAT verifier; Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.fixed_code_and_lattice_gaps
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}) for the 3SAT verifier; Lean: LatticePrepro/ThreeSAT.lean, LatticePrepro.ThreeSAT.fixed_code_and_lattice_gaps
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

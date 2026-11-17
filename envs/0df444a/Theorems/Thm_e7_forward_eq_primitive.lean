@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_e7_forward_eq_primitive
 -- name    : e7_forward_eq_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:13:27.088578+00:00
 -- url     : https://prove2.me/theorems/e17a98ee-e0b0-4216-a001-b92373aeb55c

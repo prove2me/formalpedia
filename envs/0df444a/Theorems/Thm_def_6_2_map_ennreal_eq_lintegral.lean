@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_def_6_2_map_ennreal_eq_lintegral
 -- name    : def_6_2_map_ennreal_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:52:20.639437+00:00
 -- url     : https://prove2.me/theorems/58261ef1-b56a-45b3-a1aa-af1a5352e22a

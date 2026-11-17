@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq30RightSlope_measurable
 -- name    : eq30RightSlope_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T15:48:59.289044+00:00
 -- url     : https://prove2.me/theorems/7342c4a0-78fc-44fe-acc6-e043f40db5ba

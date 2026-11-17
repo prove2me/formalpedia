@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_openBoxes_generateFrom_eq_borel
 -- name    : openBoxes_generateFrom_eq_borel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:15:26.383123+00:00
 -- url     : https://prove2.me/theorems/8c3a4643-8846-4c0c-8276-9738302b844e

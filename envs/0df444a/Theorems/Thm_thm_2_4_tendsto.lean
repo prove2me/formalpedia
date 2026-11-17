@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_4_tendsto
 -- name    : thm_2_4_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:21:23.954829+00:00
 -- url     : https://prove2.me/theorems/13391957-9d8a-4dbc-934c-353d25128a0d

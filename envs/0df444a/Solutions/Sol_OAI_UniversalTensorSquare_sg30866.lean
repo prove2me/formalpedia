@@ -1,0 +1,135 @@
+-- Prove2me | solution 1 for OAI.UniversalTensorSquare.sg30866
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-16T23:22:51.933029+00:00
+-- url     : https://prove2.me/submissions/35781219-72f2-4fc3-a87e-c84a81fdbd51
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_UniversalTensorSquares
+import Definitions.Def_OAIQ259US021
+import Theorems.Thm_OAI_UniversalTensorSquare_rowDiagram_eq
+import Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_join
+import Theorems.Thm_OAI_UniversalTensorSquare_seven_kronecker_pos
+import Theorems.Thm_OAI_UniversalTensorSquare_sg1327
+import Theorems.Thm_OAI_UniversalTensorSquare_sg1358
+import Theorems.Thm_OAI_UniversalTensorSquare_sg2626
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupLocalLeaves
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Local Leaves. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg184 : RowSquare [4,1,1,1] [3,2,2] := by
+  have he : rowDiagram [4,1,1,1] = sevenWitness := by
+    rw [rowDiagram_eq _ (by decide)]
+    apply YoungDiagram.ext
+    decide
+  change SquareOccurs (rowDiagram [4,1,1,1]) (rowDiagram [3,2,2])
+  have hh : SquareOccurs sevenWitness (rowDiagram [3,2,2]) :=
+    ⟨7,canonicalTableau _ sevenWitness_card,canonicalTableau _ (rowDiagram_card [3,2,2]),
+      seven_kronecker_pos _ (rowDiagram_card [3,2,2])⟩
+  exact Eq.mpr (congrArg (fun α => SquareOccurs α (rowDiagram [3,2,2])) he) hh
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes19
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 19. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg8443 : RowSquare [6,4,3,2,1,1,1,1,1,1] [4,3,3,1,1,1,1,1,1,1,1,1,1,1] := by
+  exact rowSquare_join (by decide) sg184 sg2626
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes24
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 24. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg10308 : RowSquare [6,6,1,1,1,1,1,1,1,1,1,1] [6,6,2,1,1,1,1,1,1,1,1] := by
+  exact rowSquare_join (by decide) sg1327 sg1358
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes75
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 75. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg30866_oai : RowSquare [12,10,4,3,2,2,2,2,2,2,1,1] [10,9,5,2,2,2,2,2,2,2,2,1,1,1] := by
+  exact rowSquare_join (by decide) sg8443 sg10308
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.UniversalTensorSquare.sg30866_oai := @OAI.UniversalTensorSquare.sg30866_oai

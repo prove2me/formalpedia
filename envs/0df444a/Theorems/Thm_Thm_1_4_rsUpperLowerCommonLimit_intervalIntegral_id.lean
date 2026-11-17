@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_rsUpperLowerCommonLimit_intervalIntegral_id
 -- name    : Thm_1_4.rsUpperLowerCommonLimit_intervalIntegral_id
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:30:10.130233+00:00
 -- url     : https://prove2.me/theorems/b2d8769e-19af-496f-83b6-a7354e73daff

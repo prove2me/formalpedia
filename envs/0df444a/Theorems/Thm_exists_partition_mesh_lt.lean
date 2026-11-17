@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_partition_mesh_lt
 -- name    : exists_partition_mesh_lt
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T18:41:43.531233+00:00
 -- url     : https://prove2.me/theorems/f9fd37a9-a2f3-4537-8a99-e709499a79fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9Revenue_update_protection_hasDerivWithinAt_eq_below_left
 -- name    : d9Revenue_update_protection_hasDerivWithinAt_eq_below_left
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T14:40:31.001832+00:00
 -- url     : https://prove2.me/theorems/35d66574-0ffe-44e2-952d-282eef220593

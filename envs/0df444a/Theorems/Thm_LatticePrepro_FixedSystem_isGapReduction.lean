@@ -24,7 +24,7 @@
 --
 --   **Formalization Note** The conclusion is `(fixedSystem V R ε).IsGapReduction V.Language g`, where `ε` is the encoding tuple and $N$ is `Fintype.card V.TblIdx`. The paper also assumes $g\ge1$ and $g<b$, which make the target a $(N\cdot D,b,g)$-BSLSP instance in the sense of Definition 3.10; the Lean statement does not need them. $K$ is not required to be finite. The time bound of the paper is not formalized. The verifier is given by quadratic gate equations rather than a Boolean circuit (compare Claim 3.15).
 -- source:
---   G. Weissenberg, G. Fenzi, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 4.6 (\label{thm:fixed-verifier-reduction}); Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.isGapReduction
+--   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 4.6 (\label{thm:fixed-verifier-reduction}); Lean: LatticePrepro/Reduction/Soundness.lean, LatticePrepro.FixedSystem.isGapReduction
 
 import Mathlib
 import Definitions.Def_LatticePrepro_Basic_Blocks

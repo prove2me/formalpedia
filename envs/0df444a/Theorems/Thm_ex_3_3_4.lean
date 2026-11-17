@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ex_3_3_4
 -- name    : ex_3_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T19:59:02.273132+00:00
 -- url     : https://prove2.me/theorems/86dcb9c8-20f2-4da0-abb3-684343176ff1

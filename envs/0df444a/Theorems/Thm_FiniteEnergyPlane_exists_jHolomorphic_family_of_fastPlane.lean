@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_jHolomorphic_family_of_fastPlane
 -- name    : FiniteEnergyPlane.exists_jHolomorphic_family_of_fastPlane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-06T15:14:58.368524+00:00
 -- url     : https://prove2.me/theorems/73020a17-51f1-4611-bd49-9de23ec4c710

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Refinement_sum_blocks_eq_sum_univ
 -- name    : Refinement.sum_blocks_eq_sum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:52:42.772482+00:00
 -- url     : https://prove2.me/theorems/e9f1c066-df29-4b34-b57b-f6bc1d1ee09d

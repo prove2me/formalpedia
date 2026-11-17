@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurCampaign_rationalTorsion_hasMazurClassification
 -- name    : MazurCampaign.rationalTorsion_hasMazurClassification
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-05T18:28:19.373932+00:00
 -- url     : https://prove2.me/theorems/fb13bcaf-d53a-4423-ae06-4181807d8a1f

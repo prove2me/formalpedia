@@ -1,0 +1,75 @@
+-- Prove2me | solution 1 for N25.Endgame.addOrderOf_d25
+-- status  : ACCEPTED   (prove)
+-- author  : @FormallyCorrect
+-- created : 2026-11-16T19:04:10.356259+00:00
+-- url     : https://prove2.me/submissions/ea344e16-3438-46ad-ae94-fe31f9c52288
+
+import Mathlib
+import Definitions.Def_N25_CuspidalSubgroup
+import Theorems.Thm_N25_Endgame_coe_d25
+import Theorems.Thm_N25_Endgame_pG25_degree
+import Definitions.Def_N25_SelectedCusps
+import Theorems.Thm_N25_Endgame_cusp_difference_killed25
+import Definitions.Def_N25_PointDifference
+import Definitions.Def_N25_Units
+import Definitions.Def_N25_UnitOrders
+import Theorems.Thm_N25_Endgame_cuspChoice25_spec
+import Definitions.Def_N25_Endgame
+import Definitions.Def_AlgebraicCurve_BaseChangeGalois
+import Definitions.Def_N25_UnitSeries
+import Definitions.Def_ModularCurve_LaurentCoeff
+import Theorems.Thm_ModularCurve_ord_qInftyPlaceBar
+import Definitions.Def_ModularCurve_JqCoeff
+import Definitions.Def_N25
+import Definitions.Def_AlgebraicCurve_IsCurveOver
+import Theorems.Thm_ModularCurve_isCurveOver_and_essFiniteType_laurentBaseChange_xHFunctionField
+import Theorems.Thm_ModularCurve_JOneES_exists_transcendental_finiteDimensional_laurentBaseChange
+import Theorems.Thm_AlgebraicCurve_Place_exists_comap_algebraMap_eq_of_constantFieldExtension
+import Definitions.Def_ModularCurve_ComplexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_jqModC_mem_intFormRatiosC
+import Theorems.Thm_ModularCurve_exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_ord_eq_neg_width_of_order_eq_mul_ord_of_qExpansion_slash
+import Theorems.Thm_ModularCurve_finrank_adjoin_jqModC_laurentBaseChange_qExpFunctionFieldC_gammaH_eq_index
+import Theorems.Thm_ModularCurve_exists_tendsto_realizeOf_mul_exp_of_not_mem_toValuationSubring
+import Definitions.Def_N25_UnitAnalytic
+import Definitions.Def_ModularCurve_SiegelFunction
+import Theorems.Thm_ModularCurve_qExpansion_discriminant_eq_map_X_mul_dedekindEtaUnit
+import Theorems.Thm_ModularCurve_realizeOf_eq_div
+import Theorems.Thm_ModularCurve_exists_complexPlaceDictionaryOf
+import Theorems.Thm_ModularCurve_ComplexPlaceDictionaryOf_exists_pt_eq_of_mem
+import Theorems.Thm_N25_Endgame_pointDiff_eq_zero_iff_generic25
+import Theorems.Thm_ModularCurve_natCard_fibres_jqModC_eq_natCard_doubleCoset_of_finrank_eq_index
+import Theorems.Thm_ModularCurve_two_mul_genusFF_add_card_fibres_eq_finrank_add_two_of_gamma1_le
+import Theorems.Thm_AlgebraicCurve_genus_eq_zero_of_isPrincipal_single_sub_single
+import Theorems.Thm_AlgebraicCurve_hasCanonicalDivisor_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_dCoordGenerates_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_functionFieldRiemannRoch_of_isAlgClosed_of_transcendental
+import Theorems.Thm_AlgebraicCurve_constantsAreBase_of_isAlgClosed_of_transcendental
+import Theorems.Thm_AlgebraicCurve_genus_eq_genusFF
+import Theorems.Thm_AlgebraicCurve_stichtenothGenusExists_of_isCurveOver
+import Theorems.Thm_AlgebraicCurve_weilDualityAdelic_of_functionFieldRiemannRoch_of_stichtenothGenusExists
+import Theorems.Thm_KeystoneLadder_SameP1Vec_trans
+
+set_option autoImplicit false
+
+namespace N25.Endgame
+
+theorem _root_.solution : addOrderOf d25 = 71 := by
+  let : Fact (Nat.Prime 71) := ⟨by decide⟩
+  have hk : (71 : ℕ) • d25 = 0 := by
+    apply Subtype.ext
+    rw [AddSubgroup.coe_nsmul, coe_d25]
+    exact cusp_difference_killed25 0 1
+  have hn : d25 ≠ 0 := by
+    intro h
+    have hv := congrArg (fun x : ↥N25.M => (x : N25.J)) h
+    rw [coe_d25] at hv
+    change pointDiff (pG25 0) (pG25 1)
+      ((pG25_degree 0).trans (pG25_degree 1).symm) = 0 at hv
+    have hp := (pointDiff_eq_zero_iff_generic25 (pG25 0) (pG25 1)
+      (pG25_degree 0) (pG25_degree 1)).mp hv
+    have hi := cuspChoice25_spec.2.2.1 hp
+    exact (by decide : (0 : Fin 5) ≠ 1) hi
+  exact addOrderOf_eq_prime hk hn
+
+end N25.Endgame

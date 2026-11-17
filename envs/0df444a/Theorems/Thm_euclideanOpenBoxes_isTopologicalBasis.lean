@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_euclideanOpenBoxes_isTopologicalBasis
 -- name    : euclideanOpenBoxes_isTopologicalBasis
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:16:13.491037+00:00
 -- url     : https://prove2.me/theorems/8d77979e-9630-406e-96de-6b76f59f5675

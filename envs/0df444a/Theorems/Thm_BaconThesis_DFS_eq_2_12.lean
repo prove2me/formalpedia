@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BaconThesis_DFS_eq_2_12
 -- name    : BaconThesis.DFS.eq_2_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:26.35127+00:00
 -- url     : https://prove2.me/theorems/53a91ff2-9d57-4205-9e32-9a1ef86a5485

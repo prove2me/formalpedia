@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.edge_maximal_planar_drawing_has_3n_minus_6_edges__p2m_59f689b9_056b_46e8_a00d_961751c5f3da_a1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:20:18.915202+00:00
 -- url     : https://prove2.me/submissions/c7467db1-ac49-4aa7-a349-29d95bbcd7ea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thm_2_7_borelAlgebraReal_le_generateFrom_strictClosed
 -- name    : thm_2_7_borelAlgebraReal_le_generateFrom_strictClosed
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:14:03.218585+00:00
 -- url     : https://prove2.me/theorems/9e15d3df-0b02-4241-a9b1-5144729309ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_taggedSum_derivative_identity_abs_le
 -- name    : Thm_1_4.taggedSum_derivative_identity_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T16:28:50.326877+00:00
 -- url     : https://prove2.me/theorems/7eea4114-86ab-4d27-8348-031edafbbe92

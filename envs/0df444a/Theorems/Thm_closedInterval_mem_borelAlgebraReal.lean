@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_closedInterval_mem_borelAlgebraReal
 -- name    : closedInterval_mem_borelAlgebraReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T20:09:38.624094+00:00
 -- url     : https://prove2.me/theorems/d4c648de-3a89-4f51-9e08-a74130fd3a9c
