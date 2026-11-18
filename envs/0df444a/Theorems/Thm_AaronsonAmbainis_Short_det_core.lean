@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AaronsonAmbainis_Short_det_core
 -- name    : AaronsonAmbainis.Short.det_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-12T07:41:07.978258+00:00
 -- url     : https://prove2.me/theorems/632bbf20-cebc-4393-adb4-8e7c7f379fc3

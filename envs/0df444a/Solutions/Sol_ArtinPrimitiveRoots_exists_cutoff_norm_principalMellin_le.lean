@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArtinPrimitiveRoots.exists_cutoff_norm_principalMellin_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-10T13:03:22.146167+00:00
 -- url     : https://prove2.me/submissions/c24f8686-2e8c-455c-baf5-c005d0c439b2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ArtinHecke

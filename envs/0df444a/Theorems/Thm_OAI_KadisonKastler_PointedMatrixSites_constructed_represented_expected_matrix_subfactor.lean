@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_PointedMatrixSites_constructed_represented_expected_matrix_subfactor
 -- name    : OAI.KadisonKastler.PointedMatrixSites.constructed_represented_expected_matrix_subfactor
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T07:28:25.8032+00:00
 -- url     : https://prove2.me/theorems/c3925bb2-c3c2-4fec-ab38-b5a5dcaf3293

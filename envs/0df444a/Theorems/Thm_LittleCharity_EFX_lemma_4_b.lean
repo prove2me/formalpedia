@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_EFX_lemma_4_b
 -- name    : LittleCharity.EFX.lemma_4_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:40:32.355065+00:00
 -- url     : https://prove2.me/theorems/91fa60f3-75ae-4204-aedf-e67d56fcc91b

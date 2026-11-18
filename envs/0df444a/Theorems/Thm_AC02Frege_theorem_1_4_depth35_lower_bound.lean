@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_theorem_1_4_depth35_lower_bound
 -- name    : AC02Frege.theorem_1_4_depth35_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:49:19.701081+00:00
 -- url     : https://prove2.me/theorems/2aebc0e7-6fd0-4725-9256-04a074ca5683

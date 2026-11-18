@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_Supplement_homogeneous_puiseux_iff
 -- name    : APSCounting893.Main.Supplement.homogeneous_puiseux_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T21:10:34.834183+00:00
 -- url     : https://prove2.me/theorems/aaed1883-e098-4d2f-8af7-87d8e99ec913

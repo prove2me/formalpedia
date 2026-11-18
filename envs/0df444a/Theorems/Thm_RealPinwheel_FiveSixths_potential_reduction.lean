@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_potential_reduction
 -- name    : RealPinwheel.FiveSixths.potential_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:35:19.540514+00:00
 -- url     : https://prove2.me/theorems/8706021e-0b3a-4a23-93ad-522bf48aefdb

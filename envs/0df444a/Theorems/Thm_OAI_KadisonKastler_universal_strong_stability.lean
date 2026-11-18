@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_universal_strong_stability
 -- name    : OAI.KadisonKastler.universal_strong_stability
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:49.805977+00:00
 -- url     : https://prove2.me/theorems/10b44882-c1a4-45fe-b2c5-ee46b5e31f0b

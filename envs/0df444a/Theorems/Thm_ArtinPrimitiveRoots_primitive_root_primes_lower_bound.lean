@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_primitive_root_primes_lower_bound
 -- name    : ArtinPrimitiveRoots.primitive_root_primes_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T08:48:53.635474+00:00
 -- url     : https://prove2.me/theorems/8a19c512-5a65-4a1f-b516-c619da4d12cd

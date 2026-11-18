@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstDepthUnitary_isometry_dist_le
 -- name    : ConstDepthUnitary.isometry_dist_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:43:51.535197+00:00
 -- url     : https://prove2.me/theorems/b579b136-4615-4940-86ed-0335b1283f11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_role_set_encoding
 -- name    : BirthdayEntropy.Soundness.role_set_encoding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:50:01.787969+00:00
 -- url     : https://prove2.me/theorems/cf788c03-efcb-4a2b-8860-a3fc68106d17

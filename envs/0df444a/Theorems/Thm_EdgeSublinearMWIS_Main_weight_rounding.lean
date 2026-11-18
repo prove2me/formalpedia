@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeSublinearMWIS_Main_weight_rounding
 -- name    : EdgeSublinearMWIS.Main.weight_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:42:09.798354+00:00
 -- url     : https://prove2.me/theorems/e9a5fde3-2171-4449-8863-56a0291b96ce

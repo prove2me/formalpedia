@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesignBFM_large_market_submodular_poa
 -- name    : CompDesignBFM.large_market_submodular_poa
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:34:25.776992+00:00
 -- url     : https://prove2.me/theorems/1a5fc5f2-6230-4f06-8b7e-891207447c68

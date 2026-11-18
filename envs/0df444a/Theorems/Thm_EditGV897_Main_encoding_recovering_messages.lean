@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditGV897_Main_encoding_recovering_messages
 -- name    : EditGV897.Main.encoding_recovering_messages
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:28:16.908343+00:00
 -- url     : https://prove2.me/theorems/4887cd2c-e1fd-4497-a566-0ee47b988196

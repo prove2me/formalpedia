@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnodelPrimeCordial_cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2
 -- name    : KnodelPrimeCordial.cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2
--- status  : Open
+-- status  : Disproved
 -- author  : @parclytaxel
 -- created : 2026-11-16T10:31:37.184205+00:00
 -- url     : https://prove2.me/theorems/9c307d6d-3fd4-4597-abb0-7474cd510ca5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_resampling_energy
 -- name    : RandomOracleUnitarySynthesis.synthesis_resampling_energy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:57:00.690963+00:00
 -- url     : https://prove2.me/theorems/a6e674fa-596d-47d9-93a5-4eb68d7459be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_4_3_majority_ideal
 -- name    : AC02Frege.lemma_4_3_majority_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:48:47.94755+00:00
 -- url     : https://prove2.me/theorems/467456c9-4afd-4fba-90bb-76da62dde06e

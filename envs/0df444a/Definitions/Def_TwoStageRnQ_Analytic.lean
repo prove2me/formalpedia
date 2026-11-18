@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TwoStageRnQ_Analytic
 -- name    : TwoStageRnQ_Analytic
 -- status  : Definition
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:19:44.987203+00:00
 -- url     : https://prove2.me/theorems/8a0dafd6-75e2-4919-a752-9e82bba9cd69
 -- title:

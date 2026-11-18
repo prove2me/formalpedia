@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistancePreserver934_Exact_equation_26
 -- name    : DistancePreserver934.Exact.equation_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:37:06.362937+00:00
 -- url     : https://prove2.me/theorems/77dbf992-0330-49f2-b906-cab8bec2a298

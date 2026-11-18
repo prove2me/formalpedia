@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_formula_policy_bound
 -- name    : TwoStageRnQ.formula_policy_bound
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:51.731915+00:00
 -- url     : https://prove2.me/theorems/02933df8-e997-4343-b710-fad40d477189
 -- title:

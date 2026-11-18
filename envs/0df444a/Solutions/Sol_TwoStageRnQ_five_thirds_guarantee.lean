@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.five_thirds_guarantee
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:33:58.975206+00:00
 -- url     : https://prove2.me/submissions/f6b641ed-8737-4c9b-b55c-61a77b5017bc
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.formula_policy_bound
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:13.038974+00:00
 -- url     : https://prove2.me/submissions/c934dd58-8144-49b2-a142-bd49c0dbb229
 

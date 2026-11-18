@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_lemma_C_2
 -- name    : PrivateAgnosticHalfspace.Gaussian.lemma_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:24:46.69114+00:00
 -- url     : https://prove2.me/theorems/311941c8-0052-432d-a595-210c6fc9cf35

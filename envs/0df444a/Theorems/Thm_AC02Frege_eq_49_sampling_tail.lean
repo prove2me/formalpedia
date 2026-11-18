@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_eq_49_sampling_tail
 -- name    : AC02Frege.eq_49_sampling_tail
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:46:32.391243+00:00
 -- url     : https://prove2.me/theorems/99333530-849a-4e40-96f9-5893ac45cd5d

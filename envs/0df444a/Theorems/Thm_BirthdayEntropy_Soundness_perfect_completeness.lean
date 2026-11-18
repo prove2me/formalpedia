@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_perfect_completeness
 -- name    : BirthdayEntropy.Soundness.perfect_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:50:39.636202+00:00
 -- url     : https://prove2.me/theorems/3a942187-4166-4d20-9e76-92cf2fab50be

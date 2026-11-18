@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_riskEmbeddedRandomWalkTails
 -- name    : Kyprianou.Ch01.riskEmbeddedRandomWalkTails
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:22:30.05553+00:00
 -- url     : https://prove2.me/theorems/3acd491d-e476-4b2c-98f1-c14a673f151c

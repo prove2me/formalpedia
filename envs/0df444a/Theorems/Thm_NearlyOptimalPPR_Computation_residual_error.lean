@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_residual_error
 -- name    : NearlyOptimalPPR.Computation.residual_error
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:35:26.605085+00:00
 -- url     : https://prove2.me/theorems/96da7ef4-b3b9-4591-9a42-65edc01be0ef

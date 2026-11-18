@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_lowerSum_le_upperSum_any
 -- name    : lowerSum_le_upperSum_any
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:53:33.688732+00:00
 -- url     : https://prove2.me/theorems/7a82f9fe-079a-4672-94c6-484a0b3a9f26

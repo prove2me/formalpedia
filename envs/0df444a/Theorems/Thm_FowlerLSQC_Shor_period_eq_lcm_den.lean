@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FowlerLSQC_Shor_period_eq_lcm_den
 -- name    : FowlerLSQC.Shor.period_eq_lcm_den
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:35:42.741287+00:00
 -- url     : https://prove2.me/theorems/ec4e881c-f5ba-4561-ad20-b387582a6ea9

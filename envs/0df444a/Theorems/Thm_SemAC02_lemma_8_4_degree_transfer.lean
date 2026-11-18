@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_8_4_degree_transfer
 -- name    : SemAC02.lemma_8_4_degree_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:30:20.795984+00:00
 -- url     : https://prove2.me/theorems/df47ef06-f809-4f9f-9fca-55bf04b16519

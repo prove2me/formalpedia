@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnodelPrimeCordial_cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1
 -- name    : KnodelPrimeCordial.cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1
--- status  : Open
+-- status  : Proved
 -- author  : @parclytaxel
 -- created : 2026-11-16T10:15:39.285257+00:00
 -- url     : https://prove2.me/theorems/99de8117-516f-47d8-af56-8278a3d9be12

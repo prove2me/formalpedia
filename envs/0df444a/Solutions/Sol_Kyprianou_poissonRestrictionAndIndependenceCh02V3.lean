@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.poissonRestrictionAndIndependenceCh02V3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T20:48:40.63207+00:00
 -- url     : https://prove2.me/submissions/7d51eb1d-8080-4195-95f6-bed16ed97413
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure

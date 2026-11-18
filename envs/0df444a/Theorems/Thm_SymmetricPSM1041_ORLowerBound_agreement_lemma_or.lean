@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricPSM1041_ORLowerBound_agreement_lemma_or
 -- name    : SymmetricPSM1041.ORLowerBound.agreement_lemma_or
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:56:14.038963+00:00
 -- url     : https://prove2.me/theorems/4155eb0c-7335-4a4b-b71f-04a908882cd2

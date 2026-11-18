@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.classical_le_Jjoint
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:30:58.545868+00:00
 -- url     : https://prove2.me/submissions/4391c44e-464a-4b43-9660-2061f009954d
 

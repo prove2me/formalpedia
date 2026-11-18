@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_uniform_factor_strong_stability
 -- name    : OAI.KadisonKastler.uniform_factor_strong_stability
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:13:27.149204+00:00
 -- url     : https://prove2.me/theorems/7fd41a8a-4a58-45f0-bf23-fd965f7e9749

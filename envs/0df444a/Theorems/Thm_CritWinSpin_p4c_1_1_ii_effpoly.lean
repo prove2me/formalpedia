@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p4c_1_1_ii_effpoly
 -- name    : CritWinSpin.p4c_1_1_ii_effpoly
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-16T09:41:06.66198+00:00
 -- url     : https://prove2.me/theorems/b804d4e2-207b-4df3-b78f-fd928f1ee481

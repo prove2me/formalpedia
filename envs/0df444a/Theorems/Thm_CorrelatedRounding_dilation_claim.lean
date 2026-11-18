@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedRounding_dilation_claim
 -- name    : CorrelatedRounding.dilation_claim
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:36:58.667325+00:00
 -- url     : https://prove2.me/theorems/32e58ca7-eae3-48ab-a2f7-e1bb654f6976

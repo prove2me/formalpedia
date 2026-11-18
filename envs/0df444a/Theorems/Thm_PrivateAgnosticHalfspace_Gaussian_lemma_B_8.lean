@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_lemma_B_8
 -- name    : PrivateAgnosticHalfspace.Gaussian.lemma_B_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:24:38.042249+00:00
 -- url     : https://prove2.me/theorems/07ffd957-4f4c-43e0-99d2-c32878df4aa7

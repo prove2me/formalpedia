@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_uniform_splitting_bound
 -- name    : ArtinPrimitiveRoots.uniform_splitting_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T08:49:17.598735+00:00
 -- url     : https://prove2.me/theorems/c639cb83-dbe6-4862-9421-33d9fba65d2d

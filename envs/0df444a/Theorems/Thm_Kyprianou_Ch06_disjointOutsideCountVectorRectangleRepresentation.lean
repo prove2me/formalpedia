@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch06_disjointOutsideCountVectorRectangleRepresentation
 -- name    : Kyprianou.Ch06.disjointOutsideCountVectorRectangleRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T05:56:04.522428+00:00
 -- url     : https://prove2.me/theorems/e2870779-aa0b-4620-95a6-abd6f05fb041

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_LBsp_le_OPTsh
 -- name    : TwoStageRnQ.LBsp_le_OPTsh
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:58.522876+00:00
 -- url     : https://prove2.me/theorems/38d65105-af41-49a6-841d-6dc87ceb0d2c
 -- title:

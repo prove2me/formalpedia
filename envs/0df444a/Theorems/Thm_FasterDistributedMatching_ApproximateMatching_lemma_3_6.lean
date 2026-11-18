@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FasterDistributedMatching_ApproximateMatching_lemma_3_6
 -- name    : FasterDistributedMatching.ApproximateMatching.lemma_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:11:47.148212+00:00
 -- url     : https://prove2.me/theorems/eaf5a12b-4437-463f-8eb3-df27accdf859

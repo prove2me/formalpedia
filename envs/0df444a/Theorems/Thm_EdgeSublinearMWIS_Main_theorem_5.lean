@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeSublinearMWIS_Main_theorem_5
 -- name    : EdgeSublinearMWIS.Main.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:41:07.638206+00:00
 -- url     : https://prove2.me/theorems/8aefbb9a-6bc5-48a5-9c9a-99ca9e4bbb66

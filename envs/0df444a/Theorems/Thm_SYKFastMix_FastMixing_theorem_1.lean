@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SYKFastMix_FastMixing_theorem_1
 -- name    : SYKFastMix.FastMixing.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:08:09.653335+00:00
 -- url     : https://prove2.me/theorems/e5a7e1d8-3d97-4f84-a3cd-c07513204019

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MSTCuts2027_Parallel_triangle_cut_dichotomy
 -- name    : MSTCuts2027.Parallel.triangle_cut_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:50:25.538198+00:00
 -- url     : https://prove2.me/theorems/88afece8-bd5f-48f7-9834-8ce392efbcf8

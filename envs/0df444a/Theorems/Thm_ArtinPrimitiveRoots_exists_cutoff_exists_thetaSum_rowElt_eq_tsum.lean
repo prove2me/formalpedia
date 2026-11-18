@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_thetaSum_rowElt_eq_tsum
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_thetaSum_rowElt_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T21:17:00.60938+00:00
 -- url     : https://prove2.me/theorems/73498c04-c06a-4b39-af15-5e95aa2062af

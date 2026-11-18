@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentStars_Counting_lemma_5_2
 -- name    : PermanentStars.Counting.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:51:34.791964+00:00
 -- url     : https://prove2.me/theorems/cbf81593-8bbb-4729-8a78-d1c886b0faf3

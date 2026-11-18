@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoReLULayers_DepthCollapse_network_linear_combination
 -- name    : TwoReLULayers.DepthCollapse.network_linear_combination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:35:24.799485+00:00
 -- url     : https://prove2.me/theorems/485af46b-71f1-4e04-9beb-04c4536427fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineCMC_Minimax_log_sq_step
 -- name    : OfflineCMC.Minimax.log_sq_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:37:01.681+00:00
 -- url     : https://prove2.me/theorems/2fbf8fe0-1242-4280-8418-da31687fcf1b

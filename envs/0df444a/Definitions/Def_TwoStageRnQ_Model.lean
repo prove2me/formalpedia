@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TwoStageRnQ_Model
 -- name    : TwoStageRnQ_Model
 -- status  : Definition
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:20:06.835144+00:00
 -- url     : https://prove2.me/theorems/ed1e573b-d775-4778-bee9-734761245aba
 -- title:

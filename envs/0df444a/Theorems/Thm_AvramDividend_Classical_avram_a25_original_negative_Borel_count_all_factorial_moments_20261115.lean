@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a25_original_negative_Borel_count_all_factorial_moments_20261115
 -- name    : AvramDividend.Classical.avram_a25_original_negative_Borel_count_all_factorial_moments_20261115
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T07:18:42.965822+00:00
 -- url     : https://prove2.me/theorems/84216278-a148-4bcd-b51a-7856399788f0

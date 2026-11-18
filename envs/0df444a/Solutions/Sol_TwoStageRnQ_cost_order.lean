@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.cost_order
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:16.986373+00:00
 -- url     : https://prove2.me/submissions/7c72e281-7273-47d7-9f35-bf2307d154b4
 

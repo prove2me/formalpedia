@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_kummer_field_bounds_two
 -- name    : ArtinPrimitiveRoots.kummer_field_bounds_two
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:01:37.17732+00:00
 -- url     : https://prove2.me/theorems/11e87367-8de7-4f76-ae63-0521d89c805b

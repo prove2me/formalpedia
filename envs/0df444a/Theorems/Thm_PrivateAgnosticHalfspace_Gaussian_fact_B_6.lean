@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_fact_B_6
 -- name    : PrivateAgnosticHalfspace.Gaussian.fact_B_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:24:48.117593+00:00
 -- url     : https://prove2.me/theorems/71e62888-279e-4838-81d6-ef7da4225272

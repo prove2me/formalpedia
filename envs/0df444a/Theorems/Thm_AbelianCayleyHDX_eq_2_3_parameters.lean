@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_eq_2_3_parameters
 -- name    : AbelianCayleyHDX.eq_2_3_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:34:45.332321+00:00
 -- url     : https://prove2.me/theorems/7b51e4f0-1f28-4a27-9fee-ebe0cb874b0c

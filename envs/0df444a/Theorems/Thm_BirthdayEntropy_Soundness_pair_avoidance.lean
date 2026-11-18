@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_pair_avoidance
 -- name    : BirthdayEntropy.Soundness.pair_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:49:46.732201+00:00
 -- url     : https://prove2.me/theorems/8503e60c-bce9-4b86-9847-fffdb33b1ee2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_puiseux_integral_embedding
 -- name    : APSCounting893.Main.puiseux_integral_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:23:59.950496+00:00
 -- url     : https://prove2.me/theorems/d079f61a-9079-4eb7-9f83-2832150a268b

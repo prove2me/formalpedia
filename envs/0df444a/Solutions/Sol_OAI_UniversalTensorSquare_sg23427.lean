@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for OAI.UniversalTensorSquare.sg23427
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-17T23:09:23.81675+00:00
+-- url     : https://prove2.me/submissions/dbcfe2a4-1056-45ed-91b1-07372c1494f4
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_OAIQ259US007
+import Definitions.Def_OAIQ259US012
+import Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_join
+import Theorems.Thm_OAI_UniversalTensorSquare_sg6445
+import Theorems.Thm_OAI_UniversalTensorSquare_sg6790
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes57
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 57. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg23427_oai : RowSquare [11,9,4,3,2,2,2,2,2,1,1] [10,8,3,3,3,3,3,3,1,1,1] := by
+  exact rowSquare_join (by decide) sg6445 sg6790
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.UniversalTensorSquare.sg23427_oai := @OAI.UniversalTensorSquare.sg23427_oai

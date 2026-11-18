@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercliqueFalse_weighted_geometric_mean
 -- name    : HypercliqueFalse.weighted_geometric_mean
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:29:59.845096+00:00
 -- url     : https://prove2.me/theorems/a79da1d2-bb74-47c5-8baa-0af146841526

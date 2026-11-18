@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoReLULayers_DepthCollapse_max_rational_network
 -- name    : TwoReLULayers.DepthCollapse.max_rational_network
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:36:10.217522+00:00
 -- url     : https://prove2.me/theorems/6ed368de-7fc7-42c2-97bf-cf2f5d670cfb

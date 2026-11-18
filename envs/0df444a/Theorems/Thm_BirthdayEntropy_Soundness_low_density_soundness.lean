@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_low_density_soundness
 -- name    : BirthdayEntropy.Soundness.low_density_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:50:43.44433+00:00
 -- url     : https://prove2.me/theorems/c7fc9ec6-f415-44fa-b22c-752ce5c97081

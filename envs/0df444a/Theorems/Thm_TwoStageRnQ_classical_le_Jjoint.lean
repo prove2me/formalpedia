@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_classical_le_Jjoint
 -- name    : TwoStageRnQ.classical_le_Jjoint
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:22:02.03838+00:00
 -- url     : https://prove2.me/theorems/1d64b128-db90-4b57-976f-6c65a9a1d6a4
 -- title:

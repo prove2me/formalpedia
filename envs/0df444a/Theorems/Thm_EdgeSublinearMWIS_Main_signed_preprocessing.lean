@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeSublinearMWIS_Main_signed_preprocessing
 -- name    : EdgeSublinearMWIS.Main.signed_preprocessing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:45:40.558684+00:00
 -- url     : https://prove2.me/theorems/de6b97f0-fb76-4ce6-b6ef-a94e3d3013a5

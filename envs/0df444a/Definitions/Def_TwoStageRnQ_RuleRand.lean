@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TwoStageRnQ_RuleRand
 -- name    : TwoStageRnQ_RuleRand
 -- status  : Definition
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:00.215249+00:00
 -- url     : https://prove2.me/theorems/bb6a0ebf-dce7-4ac3-8f67-3feb1b6ab97e
 -- title:

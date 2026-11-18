@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnVsOpt_display_6
 -- name    : LearnVsOpt.display_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T11:01:18.59543+00:00
 -- url     : https://prove2.me/theorems/47409ae1-9545-4037-a6a0-7091350d4d10

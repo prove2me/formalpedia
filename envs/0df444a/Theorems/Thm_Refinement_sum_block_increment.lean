@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Refinement_sum_block_increment
 -- name    : Refinement.sum_block_increment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:51:43.597666+00:00
 -- url     : https://prove2.me/theorems/899ba9d7-ef38-4979-a25c-32386a9ca9e8

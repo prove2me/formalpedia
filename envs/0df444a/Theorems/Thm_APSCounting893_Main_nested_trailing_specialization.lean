@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_nested_trailing_specialization
 -- name    : APSCounting893.Main.nested_trailing_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:26:02.881515+00:00
 -- url     : https://prove2.me/theorems/b282b88b-84d0-4041-92b3-6d40d634daf8

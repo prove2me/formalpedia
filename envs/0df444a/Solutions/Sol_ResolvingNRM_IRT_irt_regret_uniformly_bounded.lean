@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResolvingNRM.IRT.irt_regret_uniformly_bounded
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T02:56:20.630339+00:00
 -- url     : https://prove2.me/submissions/1d3052ea-4e66-4ae1-a812-ac7bc04806b2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RLPBidPrice_Unbiased_Model

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_thm_4_1_opt_in_iff
 -- name    : CompDesign.thm_4_1_opt_in_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:58:14.190325+00:00
 -- url     : https://prove2.me/theorems/725a6b76-0a8e-4920-afa7-63f5447eb6e5

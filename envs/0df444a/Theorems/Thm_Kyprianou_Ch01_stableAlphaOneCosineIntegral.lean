@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableAlphaOneCosineIntegral
 -- name    : Kyprianou.Ch01.stableAlphaOneCosineIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:19:31.653833+00:00
 -- url     : https://prove2.me/theorems/9b3f6d9b-dc0b-40dd-a005-81ff2750fb6c

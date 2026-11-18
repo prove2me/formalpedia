@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_proposition_4_17_approximation
 -- name    : AC02Frege.proposition_4_17_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:51:44.336432+00:00
 -- url     : https://prove2.me/theorems/64ef3971-19c1-4387-970d-168459e24b64

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.paper_rule_follows_rand
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:21.091922+00:00
 -- url     : https://prove2.me/submissions/466429ee-2b7d-457d-9d50-604884c32a58
 

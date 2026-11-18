@@ -1,0 +1,60 @@
+-- Prove2me | Theorems.Thm_OAI_ElementaryPositivity_RawShuffle_slopeStringCoefficient_bounds
+-- name    : OAI.ElementaryPositivity.RawShuffle.slopeStringCoefficient_bounds
+-- status  : Proved
+-- author  : @dbenbenn
+-- created : 2026-11-17T19:49:18.885709+00:00
+-- url     : https://prove2.me/theorems/e3bc35be-944e-418a-8638-b5a8f7fccb30
+-- title:
+--   OAI.ElementaryPositivity.RawShuffle.slopeStringCoefficient_bounds: intermediate lemma from OpenAI, Elementary Positivity of Chromatic Quasisymmetric Functions
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.elementaryPositivityWitness_exists`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Elementary Positivity of Chromatic Quasisymmetric Functions*, OpenAI Math Release, September 24, 2026, result family 169, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.ElementaryPositivity.RawShuffle.slopeStringCoefficient_bounds` of [lean/OAI/Combinatorics/Chromatic/Shuffle/PrimitiveStringBounds.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Combinatorics/Chromatic/Shuffle/PrimitiveStringBounds.lean) at commit 7ef5c0c.
+--
+--   **The statement**, as published (namespace `OAI.ElementaryPositivity.RawShuffle`, with `open scoped DirectSum`, `open ElementaryPositivity.SlopeArithmetic`, and `variable (a : I → I → ℕ) (c η : I → ℝ) (hc : ∀ i,0 < c i) (θ : ℝ)` with `[Fact (SlopeEulerSymmetric a c η θ)]`):
+--
+--   ```lean
+--   lemma slopeStringCoefficient_bounds (d : I → ℕ) (hd : d≠0) (hs : slope c η d=θ)
+--       (k : ℤ) (i : SlopeStringCoefficient a c η hc θ d hs k) :
+--       -interaction a d d ≤ i.1 ∧ i.1 ≤ 2*k+eulerForm a d d
+--   ```
+--
+--   **In words.** For a nonzero `d : I → ℕ` with `slope c η d = θ`, an integer `k`, and an element `i` of `SlopeStringCoefficient a c η hc θ d hs k`, the statement says that `-interaction a d d ≤ i.1` and `i.1 ≤ 2*k + eulerForm a d d`.
+--
+--   **Definitions.** The statement uses `slope`, `SlopeStringCoefficient`, `interaction` and `eulerForm`, written in the definitions bundles `OAIQ368Chrom051` and `OAIQ368Chrom052` of this split.
+--
+--   **Used by.** Its proof file imports the published statements `OAI.ElementaryPositivity.RawShuffle.primitiveBasisFamilyWords_independent` and `OAI.ElementaryPositivity.RawShuffle.primitiveBasisFamilyWords_span`.
+-- source:
+--   OpenAI, Elementary Positivity of Chromatic Quasisymmetric Functions, OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 169; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Elementary-Positivity-of-Chromatic-Quasisymmetric-Functions-September-24-2026/paper.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/Combinatorics/Chromatic/Shuffle/PrimitiveStringBounds.lean (declaration OAI.ElementaryPositivity.RawShuffle.slopeStringCoefficient_bounds)
+
+import Mathlib
+import Definitions.Def_OAIQ368Chrom049
+
+section
+
+attribute [-instance] _root_.OAI.ElementaryPositivity.QuantumTorus.Torus.instAddCommGroup _root_.OAI.ElementaryPositivity.QuantumTorus.Torus.instMul _root_.OAI.ElementaryPositivity.RationalFiber.FiberTorus.instMul
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+namespace ElementaryPositivity.RawShuffle
+open scoped DirectSum
+open ElementaryPositivity.SlopeArithmetic
+attribute [local instance] Classical.propDecidable
+variable {I : Type*} [Fintype I] [DecidableEq I]
+variable (a : I → I → ℕ) (c η : I → ℝ) (hc : ∀ i,0 < c i) (θ : ℝ)
+  [Fact (SlopeEulerSymmetric a c η θ)]
+
+lemma slopeStringCoefficient_bounds (d : I → ℕ) (hd : d≠0) (hs : slope c η d=θ)
+    (k : ℤ) (i : SlopeStringCoefficient a c η hc θ d hs k) :
+    -interaction a d d ≤ i.1 ∧ i.1 ≤ 2*k+eulerForm a d d := by
+  sorry
+
+end ElementaryPositivity.RawShuffle
+
+end
+
+end OAI
+end

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KnodelPrimeCordial.cyclic_case_mod_10__p2m_2c82152f_23cb_4c50_aa74_3d1d5ac827a4_a2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @parclytaxel
 -- created : 2026-11-16T10:15:57.760864+00:00
 -- url     : https://prove2.me/submissions/f8728c18-c6e0-483a-b771-0635d75c44b3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KnodelPrimeCordial_IsPrimeCordialLabeling

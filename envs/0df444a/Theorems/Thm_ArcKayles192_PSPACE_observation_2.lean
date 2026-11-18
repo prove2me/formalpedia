@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArcKayles192_PSPACE_observation_2
 -- name    : ArcKayles192.PSPACE.observation_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:03:16.278887+00:00
 -- url     : https://prove2.me/theorems/309f0a4b-2712-47f9-8917-154bf634af40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_selected_density
 -- name    : BirthdayEntropy.Soundness.selected_density
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:50:47.08609+00:00
 -- url     : https://prove2.me/theorems/e3902819-adf1-4c68-b381-b6a99bead809

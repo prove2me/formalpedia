@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_cache_accuracy
 -- name    : DecrAlmostLinearSSSP.Decremental.cache_accuracy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:54:14.024274+00:00
 -- url     : https://prove2.me/theorems/93e55bc0-1af7-4b4f-9593-7b7f5965c620

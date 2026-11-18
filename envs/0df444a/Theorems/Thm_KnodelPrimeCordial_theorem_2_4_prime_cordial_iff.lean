@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnodelPrimeCordial_theorem_2_4_prime_cordial_iff
 -- name    : KnodelPrimeCordial.theorem_2_4_prime_cordial_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:04:29.061197+00:00
 -- url     : https://prove2.me/theorems/f6e85d40-0cf5-4a0b-af67-a1e2ac103237

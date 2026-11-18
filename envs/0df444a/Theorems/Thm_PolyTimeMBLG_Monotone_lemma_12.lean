@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyTimeMBLG_Monotone_lemma_12
 -- name    : PolyTimeMBLG.Monotone.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:39:19.57336+00:00
 -- url     : https://prove2.me/theorems/6e298fb4-b587-4ba5-b93b-846f85a82ae7

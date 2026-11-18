@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesignBFM_lemma_3_2
 -- name    : CompDesignBFM.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:34:04.368783+00:00
 -- url     : https://prove2.me/theorems/303d2d1d-7ed4-4c65-8f04-54dfbbc4bfc4

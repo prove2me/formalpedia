@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_zero_fiber_residues
 -- name    : APSCounting893.Main.zero_fiber_residues
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:24:18.310492+00:00
 -- url     : https://prove2.me/theorems/f4260bf3-1bee-4a08-bb32-de432860feb7

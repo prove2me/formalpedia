@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.joint_doubling
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:11.784415+00:00
 -- url     : https://prove2.me/submissions/b4ae4efe-677e-449d-9d43-e74491330690
 

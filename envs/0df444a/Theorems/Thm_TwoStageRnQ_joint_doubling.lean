@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_joint_doubling
 -- name    : TwoStageRnQ.joint_doubling
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:52.232209+00:00
 -- url     : https://prove2.me/theorems/046e27a3-4136-45ab-93fe-ba6d48d948a5
 -- title:

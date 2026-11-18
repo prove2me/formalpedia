@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a25_original_negative_Borel_factorial_count_compensator_recurrence_20261115
 -- name    : AvramDividend.Classical.avram_a25_original_negative_Borel_factorial_count_compensator_recurrence_20261115
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T07:20:31.796961+00:00
 -- url     : https://prove2.me/theorems/05154049-d096-477f-b492-b273fd4233b9

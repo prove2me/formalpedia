@@ -1,0 +1,6729 @@
+-- Prove2me | solution 1 for SemAC02.lemma_8_7_gadget_dimension
+-- status  : ACCEPTED   (prove)
+-- author  : @Henry Yuen
+-- created : 2026-11-17T21:31:49.325587+00:00
+-- url     : https://prove2.me/submissions/0a11c7a7-4888-4548-8b19-70948f034195
+
+import Definitions.Def_SemAC02_bernProb
+import Mathlib
+import Definitions.Def_SemAC02_multiplierSpace
+import Definitions.Def_AC02Frege_PC
+import Definitions.Def_AC02Frege_ML
+import Definitions.Def_AC02Frege_lift
+import Definitions.Def_SemAC02_Ble
+import Definitions.Def_SemAC02_Circ
+import Definitions.Def_SemAC02_arith
+import Definitions.Def_SemAC02_lift
+import Definitions.Def_SemAC02_IsGadget
+import Definitions.Def_SemAC02_IsCoinDistinguisher
+
+section
+-- Inlined Solutions.BernoulliAlgebra
+
+open Finset
+
+namespace SemAC02.BernoulliAlgebra
+
+noncomputable def bitWeight (p : ℝ) (b : Bool) : ℝ := if b then p else 1-p
+
+noncomputable def weight {I : Type*} [Fintype I] (p : ℝ) (x : I → Bool) : ℝ :=
+  ∏ i, bitWeight p (x i)
+
+theorem bitWeight_nonneg {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) (b : Bool) : 0 ≤ bitWeight p b := by
+  cases b
+  · simpa [bitWeight] using sub_nonneg.mpr hp'
+  · simpa [bitWeight] using hp
+
+theorem weight_nonneg {I : Type*} [Fintype I] {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) (x : I → Bool) :
+    0 ≤ weight p x := prod_nonneg (fun _ _ => bitWeight_nonneg hp hp' _)
+
+@[simp] theorem bitWeight_sum (p : ℝ) : ∑ b : Bool, bitWeight p b = 1 := by
+  simp [bitWeight]
+
+@[simp] theorem weight_sum (I : Type*) [Fintype I] [DecidableEq I] (p : ℝ) : ∑ x : I → Bool, weight p x = 1 := by
+  simp only [weight]
+  rw [← Fintype.prod_sum]
+  simp only [bitWeight_sum,prod_const_one]
+
+theorem bernProb_eq_weight (p : ℝ) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    bernProb p E = ∑ x, if E x then weight p x else 0 := rfl
+
+@[simp] theorem prob_true (p : ℝ) (m : ℕ) : bernProb p (fun _ : Fin m → Bool => true) = 1 := by
+  simp [bernProb_eq_weight]
+
+@[simp] theorem prob_false (p : ℝ) (m : ℕ) : bernProb p (fun _ : Fin m → Bool => false) = 0 := by
+  simp [bernProb_eq_weight]
+
+theorem prob_nonneg {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    0 ≤ bernProb p E := by
+  rw [bernProb_eq_weight]
+  apply sum_nonneg
+  intro x _
+  split_ifs
+  · exact weight_nonneg hp hp' x
+  · exact le_rfl
+
+theorem prob_le_one {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    bernProb p E ≤ 1 := by
+  rw [bernProb_eq_weight,← weight_sum (Fin m) p]
+  apply sum_le_sum
+  intro x _
+  split_ifs
+  · exact le_rfl
+  · exact weight_nonneg hp hp' x
+
+theorem prob_add_compl (p : ℝ) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    bernProb p E + bernProb p (fun x => !E x) = 1 := by
+  rw [bernProb_eq_weight,bernProb_eq_weight,← sum_add_distrib,← weight_sum (Fin m) p]
+  apply sum_congr rfl
+  intro x _
+  cases he : E x <;> simp [he]
+
+theorem prob_compl (p : ℝ) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    bernProb p (fun x => !E x) = 1-bernProb p E := by
+  linarith [prob_add_compl p E]
+
+def complementEquiv (I : Type*) : (I → Bool) ≃ (I → Bool) where
+  toFun x i := !x i
+  invFun x i := !x i
+  left_inv x := by funext i; simp only [Bool.not_not]
+  right_inv x := by funext i; simp only [Bool.not_not]
+
+theorem bitWeight_compl (p : ℝ) (b : Bool) : bitWeight p (!b) = bitWeight (1-p) b := by
+  cases b <;> simp [bitWeight]
+
+theorem weight_compl {I : Type*} [Fintype I] (p : ℝ) (x : I → Bool) :
+    weight p (complementEquiv I x) = weight (1-p) x := by
+  unfold weight
+  apply prod_congr rfl
+  intro i _
+  exact bitWeight_compl p (x i)
+
+theorem prob_complement_inputs (p : ℝ) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    bernProb p (fun x => E (fun i => !x i)) = bernProb (1-p) E := by
+  rw [bernProb_eq_weight,bernProb_eq_weight]
+  have he := Equiv.sum_comp (complementEquiv (Fin m))
+    (fun x => if E (fun i => !x i) then weight p x else 0)
+  rw [← he]
+  apply sum_congr rfl
+  intro x _
+  simp only [complementEquiv,Equiv.coe_fn_mk,Bool.not_not]
+  exact congrArg (fun w : ℝ => if E x then w else 0) (weight_compl p x)
+
+end SemAC02.BernoulliAlgebra
+end
+
+section
+-- Inlined Solutions.BernoulliProduct
+
+set_option maxHeartbeats 1000000
+
+open Finset SemAC02.BernoulliAlgebra
+
+namespace SemAC02.BernoulliProduct
+
+/-- The same finite product probability on an arbitrary finite coordinate type. -/
+noncomputable def prob {I : Type*} [Fintype I] [DecidableEq I] (p : ℝ) (E : (I → Bool) → Bool) : ℝ :=
+  ∑ x, if E x then weight p x else 0
+
+theorem prob_complement {I : Type*} [Fintype I] [DecidableEq I] (p : ℝ) (E : (I → Bool) → Bool) :
+    prob p (fun x => !E x) = 1-prob p E := by
+  classical
+  have h : prob p E + prob p (fun x => !E x) = 1 := by
+    rw [prob,prob,← sum_add_distrib,← weight_sum I p]
+    apply sum_congr rfl
+    intro x _
+    cases he : E x <;> simp [he]
+  linarith
+
+theorem prob_all_coordinates {I : Type*} [Fintype I] [DecidableEq I] (p : ℝ) :
+    prob p (fun x : I → Bool => decide (∀ i, x i = true)) = p ^ Fintype.card I := by
+  classical
+  unfold prob
+  have he : (fun x : I → Bool => if decide (∀ i, x i = true) then weight p x else 0) =
+      (fun x => if x = (fun _ => true) then weight p x else 0) := by
+    funext x
+    congr 1
+    simp only [decide_eq_true_eq,funext_iff]
+  rw [he]
+  simp [weight,bitWeight]
+
+theorem prob_fin {m : ℕ} (p : ℝ) (E : (Fin m → Bool) → Bool) :
+    prob p E = bernProb p E := rfl
+
+def assignmentEquiv {I J : Type*} (e : I ≃ J) : (I → Bool) ≃ (J → Bool) where
+  toFun x j := x (e.symm j)
+  invFun y i := y (e i)
+  left_inv x := by funext i; simp
+  right_inv y := by funext j; simp
+
+theorem weight_equiv {I J : Type*} [Fintype I] [Fintype J]
+    (e : I ≃ J) (p : ℝ) (x : I → Bool) : weight p (assignmentEquiv e x) = weight p x := by
+  unfold weight
+  exact Fintype.prod_equiv e.symm _ _ (fun j => rfl)
+
+theorem prob_equiv {I J : Type*} [Fintype I] [DecidableEq I] [Fintype J] [DecidableEq J]
+    (e : I ≃ J) (p : ℝ) (E : (I → Bool) → Bool) :
+    prob p (fun y : J → Bool => E (fun i => y (e i))) = prob p E := by
+  classical
+  unfold prob
+  rw [← Equiv.sum_comp (assignmentEquiv e)]
+  apply sum_congr rfl
+  intro x _
+  have he : (fun i => assignmentEquiv e x (e i)) = x := by funext i; simp [assignmentEquiv]
+  change (if E (fun i => assignmentEquiv e x (e i)) then weight p (assignmentEquiv e x) else 0) = _
+  rw [he,weight_equiv]
+
+theorem weight_product {I J : Type*} [Fintype I] [Fintype J]
+    (p : ℝ) (x : I × J → Bool) :
+    weight p x = ∏ i, weight p (fun j => x (i,j)) := by
+  simp only [weight,Fintype.prod_prod_type]
+
+theorem indicator_all {I : Type*} [Fintype I] (E : I → Bool) (w : I → ℝ) :
+    (if (decide (∀ i, E i = true)) then ∏ i, w i else 0) =
+      ∏ i, if E i then w i else 0 := by
+  classical
+  by_cases h : ∀ i, E i = true
+  · simp [h]
+  · have hz : ∃ i, E i = false := by simpa only [not_forall,Bool.not_eq_true] using h
+    obtain ⟨i,hi⟩ := hz
+    rw [if_neg (by simpa using h)]
+    symm
+    exact prod_eq_zero (mem_univ i) (by simp [hi])
+
+/-- Disjoint blocks have independent acceptance events under product bias. -/
+theorem prob_all_blocks {I J : Type*} [Fintype I] [DecidableEq I] [Fintype J] [DecidableEq J]
+    (p : ℝ) (E : I → (J → Bool) → Bool) :
+    prob p (fun x : I × J → Bool => decide (∀ i, E i (fun j => x (i,j)) = true)) =
+      ∏ i, prob p (E i) := by
+  classical
+  unfold prob
+  simp_rw [weight_product,indicator_all]
+  rw [Fintype.sum_equiv (Equiv.curry I J Bool)
+    (fun x : I × J → Bool => ∏ i, if E i (fun j => x (i,j)) then weight p (fun j => x (i,j)) else 0)
+    (fun x : I → J → Bool => ∏ i, if E i (x i) then weight p (x i) else 0) (fun _ => rfl)]
+  exact (Fintype.prod_sum (fun i : I => fun x : J → Bool => if E i x then weight p x else 0)).symm
+
+theorem prob_all_copies {t m : ℕ} (p : ℝ) (E : (Fin m → Bool) → Bool) :
+    prob p (fun x : Fin t × Fin m → Bool => decide (∀ i, E (fun j => x (i,j)) = true)) =
+      bernProb p E ^ t := by
+  convert (prob_all_blocks p (fun _ : Fin t => E)) using 1
+  · congr 1
+    funext x
+    apply Bool.eq_iff_iff.mpr
+    simp
+  · simp only [prob_fin,prod_const,card_univ,Fintype.card_fin]
+
+end SemAC02.BernoulliProduct
+end
+
+section
+-- Inlined Solutions.SupportProbability
+
+set_option maxHeartbeats 1000000
+
+open Finset SemAC02.BernoulliAlgebra
+
+namespace ProofComplexity.SupportProbability
+
+def point {V : Type*} [DecidableEq V] (S : Finset V) : V → Bool := fun v => decide (v ∈ S)
+def support {V : Type*} [Fintype V] (x : V → Bool) : Finset V := univ.filter (fun v => x v = true)
+
+def supportEquiv (V : Type*) [Fintype V] [DecidableEq V] : Finset V ≃ (V → Bool) where
+  toFun := point
+  invFun := support
+  left_inv S := by ext v; simp [support,point]
+  right_inv x := by funext v; cases he : x v <;> simp [support,point,he]
+
+@[simp] theorem support_point {V : Type*} [Fintype V] [DecidableEq V] (S : Finset V) :
+    support (point S) = S := (supportEquiv V).left_inv S
+
+@[simp] theorem point_support {V : Type*} [Fintype V] [DecidableEq V] (x : V → Bool) :
+    point (support x) = x := (supportEquiv V).right_inv x
+
+def layerWeight (N j : ℕ) (p : ℝ) : ℝ := p^j*(1-p)^(N-j)
+
+theorem layerWeight_nonneg (N j : ℕ) {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) :
+    0 ≤ layerWeight N j p := by unfold layerWeight; positivity
+
+theorem weight_point {V : Type*} [Fintype V] [DecidableEq V] (p : ℝ) (S : Finset V) :
+    weight p (point S) = layerWeight (Fintype.card V) S.card p := by
+  simp only [weight,bitWeight,point,decide_eq_true_eq]
+  rw [prod_ite]
+  have ht : univ.filter (fun v : V => v ∈ S) = S := by ext v; simp
+  have hf : univ.filter (fun v : V => ¬v ∈ S) = univ\S := by ext v; simp
+  rw [ht,hf,prod_const,prod_const,card_sdiff_of_subset (subset_univ S)]
+  simp only [card_univ,layerWeight]
+
+theorem prob_support {V : Type*} [Fintype V] [DecidableEq V] (p : ℝ) (E : Finset V → Bool) :
+    SemAC02.BernoulliProduct.prob p (fun x : V → Bool => E (support x)) =
+      ∑ S : Finset V, if E S then layerWeight (Fintype.card V) S.card p else 0 := by
+  unfold SemAC02.BernoulliProduct.prob
+  rw [← Equiv.sum_comp (supportEquiv V)]
+  apply sum_congr rfl
+  intro S _
+  change (if E (support (point S)) then weight p (point S) else 0) = _
+  rw [support_point,weight_point]
+
+theorem layerWeight_antitone {N r k : ℕ} (hrk : r ≤ k) (hk : k ≤ N) {p : ℝ}
+    (hp : 0 ≤ p) (hp' : p ≤ 1/2) : layerWeight N k p ≤ layerWeight N r p := by
+  have hp1 : 0 ≤ 1-p := by linarith
+  have hpk : p^k = p^r*p^(k-r) := by
+    conv_lhs => rw [show k = r+(k-r) by omega,pow_add]
+  have hqr : (1-p)^(N-r) = (1-p)^(N-k)*(1-p)^(k-r) := by
+    rw [show N-r = (N-k)+(k-r) by omega,pow_add]
+  calc
+    _ = (p^r*(1-p)^(N-k))*p^(k-r) := by rw [layerWeight,hpk]; ring
+    _ ≤ (p^r*(1-p)^(N-k))*(1-p)^(k-r) :=
+      mul_le_mul_of_nonneg_left (pow_le_pow_left₀ hp (by linarith : p ≤ 1-p) (k-r)) (by positivity)
+    _ = _ := by rw [layerWeight,hqr]; ring
+
+end ProofComplexity.SupportProbability
+end
+
+section
+-- Inlined Solutions.BinomialMode
+
+set_option maxHeartbeats 2000000
+
+open Finset
+
+namespace ProofComplexity.BinomialMode
+
+def mass (v j : ℕ) (p : ℝ) : ℝ := (v.choose j : ℝ)*p^j*(1-p)^(v-j)
+
+theorem mass_nonneg (v j : ℕ) {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) : 0 ≤ mass v j p := by
+  unfold mass
+  positivity
+
+theorem mass_balance (v j : ℕ) (hj : j < v) (p : ℝ) :
+    mass v (j+1) p*((j : ℝ)+1)*(1-p) = mass v j p*((v : ℝ)-(j : ℝ))*p := by
+  have hc : (v.choose (j+1) : ℝ)*((j : ℝ)+1) = (v.choose j : ℝ)*((v : ℝ)-(j : ℝ)) := by
+    have h : (v.choose (j+1) : ℝ)*((j+1 : ℕ) : ℝ) = (v.choose j : ℝ)*((v-j : ℕ) : ℝ) := by
+      exact_mod_cast Nat.choose_succ_right_eq v j
+    simpa only [Nat.cast_add,Nat.cast_one,Nat.cast_sub hj.le] using h
+  have hw : (1-p)^(v-j) = (1-p)^(v-(j+1))*(1-p) := by
+    rw [show v-j = (v-(j+1))+1 by omega,pow_succ]
+  calc
+    _ = ((v.choose (j+1) : ℝ)*((j : ℝ)+1))*(p^j*p*(1-p)^(v-(j+1))*(1-p)) := by
+      simp only [mass,pow_succ]
+      ring
+    _ = ((v.choose j : ℝ)*((v : ℝ)-(j : ℝ)))*(p^j*p*(1-p)^(v-(j+1))*(1-p)) := by rw [hc]
+    _ = _ := by rw [mass,hw]; ring
+
+theorem step_mode {v k j : ℕ} (hk : k < v) (hj : j < v) :
+    (j < k → mass v j ((k : ℝ)/v) ≤ mass v (j+1) ((k : ℝ)/v)) ∧
+      (k ≤ j → mass v (j+1) ((k : ℝ)/v) ≤ mass v j ((k : ℝ)/v)) := by
+  let p := (k : ℝ)/(v : ℝ)
+  let A := ((j : ℝ)+1)*(1-p)
+  let B := ((v : ℝ)-(j : ℝ))*p
+  have hv : (0 : ℝ) < (v : ℝ) := by exact_mod_cast (show 0 < v from by omega)
+  have hp : 0 ≤ p := div_nonneg (Nat.cast_nonneg _) hv.le
+  have hp' : p < 1 := (div_lt_one hv).mpr (by exact_mod_cast hk)
+  have hvp : (v : ℝ)*p = (k : ℝ) := by dsimp [p]; field_simp
+  have hA : 0 < A := mul_pos (by positivity) (by linarith)
+  have hmass := mass_nonneg v j hp hp'.le
+  have he : mass v (j+1) p*A = mass v j p*B := by
+    have h := mass_balance v j hj p
+    dsimp [A,B]
+    nlinarith
+  constructor
+  · intro hjk
+    have hkj : (j : ℝ)+1 ≤ (k : ℝ) := by exact_mod_cast (show j+1 ≤ k from by omega)
+    have hAB : A ≤ B := by dsimp [A,B]; nlinarith
+    have h := mul_le_mul_of_nonneg_left hAB hmass
+    have h' : mass v j p*A ≤ mass v (j+1) p*A := by rw [he]; exact h
+    exact (mul_le_mul_iff_left₀ hA).mp (by simpa only [mul_comm] using h')
+  · intro hkj
+    have hkjr : (k : ℝ) ≤ (j : ℝ) := by exact_mod_cast hkj
+    have hBA : B ≤ A := by dsimp [A,B]; nlinarith
+    have h := mul_le_mul_of_nonneg_left hBA hmass
+    have h' : mass v (j+1) p*A ≤ mass v j p*A := by rw [he]; exact h
+    exact (mul_le_mul_iff_left₀ hA).mp (by simpa only [mul_comm] using h')
+
+theorem interval_mono (f : ℕ → ℝ) {a b : ℕ} (hab : a ≤ b)
+    (hstep : ∀ j, a ≤ j → j < b → f j ≤ f (j+1)) : f a ≤ f b := by
+  have h : ∀ t : ℕ, a+t ≤ b → f a ≤ f (a+t) := by
+    intro t
+    induction t with
+    | zero => simp
+    | succ t ih =>
+      intro ht
+      exact (ih (by omega)).trans (by simpa only [Nat.add_assoc] using hstep (a+t) (by omega) (by omega))
+  have he : a+(b-a) = b := by omega
+  simpa only [he] using h (b-a) (by omega)
+
+theorem interval_antitone (f : ℕ → ℝ) {a b : ℕ} (hab : a ≤ b)
+    (hstep : ∀ j, a ≤ j → j < b → f (j+1) ≤ f j) : f b ≤ f a := by
+  have h := interval_mono (fun j => -f j) hab (fun j hj hjb => neg_le_neg (hstep j hj hjb))
+  linarith
+
+theorem mass_le_mode {v k r : ℕ} (hk : k < v) (hr : r ≤ v) :
+    mass v r ((k : ℝ)/v) ≤ mass v k ((k : ℝ)/v) := by
+  by_cases hrk : r ≤ k
+  · exact interval_mono (fun j => mass v j ((k : ℝ)/v)) hrk (fun j _ hjk => (step_mode hk (by omega : j < v)).1 hjk)
+  · exact interval_antitone (fun j => mass v j ((k : ℝ)/v)) (by omega : k ≤ r)
+      (fun j hkj hjr => (step_mode hk (by omega : j < v)).2 hkj)
+
+theorem mass_sum (v : ℕ) (p : ℝ) : (∑ j ∈ range (v+1), mass v j p) = 1 := by
+  calc
+    _ = ∑ j ∈ range (v+1), p^j*(1-p)^(v-j)*(v.choose j : ℝ) := by
+      apply sum_congr rfl
+      intro j _
+      unfold mass
+      ring
+    _ = (p+(1-p))^v := (add_pow p (1-p) v).symm
+    _ = 1 := by rw [show p+(1-p) = 1 by ring,one_pow]
+
+theorem scaled_mode_lower {v k : ℕ} (hk : k < v) :
+    1 ≤ ((v : ℝ)+1)*mass v k ((k : ℝ)/v) := by
+  calc
+    1 = ∑ j ∈ range (v+1), mass v j ((k : ℝ)/v) := (mass_sum _ _).symm
+    _ ≤ ∑ _ ∈ range (v+1), mass v k ((k : ℝ)/v) := by
+      apply sum_le_sum
+      intro j hj
+      exact mass_le_mode hk (by have := mem_range.mp hj; omega)
+    _ = _ := by simp only [sum_const,card_range,nsmul_eq_mul,Nat.cast_add,Nat.cast_one]
+
+end ProofComplexity.BinomialMode
+end
+
+section
+-- Inlined Solutions.PCOperations
+
+open MvPolynomial
+
+namespace AC02Frege.Support
+
+theorem derivation_append {σ K : Type*} [Field K]
+    (red : MvPolynomial σ K →ₗ[K] MvPolynomial σ K)
+    (P : Set (MvPolynomial σ K))
+    {π ρ : List (MvPolynomial σ K)}
+    (hπ : PCNonBool.IsDerivation red P π)
+    (hρ : PCNonBool.IsDerivation red P ρ) :
+    PCNonBool.IsDerivation red P (π ++ ρ) := by
+  intro k hk
+  by_cases h : k < π.length
+  · rcases hπ k h with ha | hc | hm
+    · left
+      simpa only [List.getElem_append_left h] using ha
+    · right; left
+      obtain ⟨i, j, hi, hj, a, b, hab⟩ := hc
+      refine ⟨i, j, hi, hj, a, b, ?_⟩
+      simpa only [List.getElem_append_left h,
+        List.getElem_append_left (hi.trans h),
+        List.getElem_append_left (hj.trans h)] using hab
+    · right; right
+      obtain ⟨i, hi, v, hiv⟩ := hm
+      refine ⟨i, hi, v, ?_⟩
+      simpa only [List.getElem_append_left h,
+        List.getElem_append_left (hi.trans h)] using hiv
+  · obtain ⟨k, rfl⟩ := Nat.exists_eq_add_of_le (Nat.le_of_not_gt h)
+    have hk' : k < ρ.length := by simp only [List.length_append] at hk; omega
+    have hget (t : ℕ) (ht : t < ρ.length) :
+        (π ++ ρ)[π.length + t]'(by simp only [List.length_append]; omega) = ρ[t] := by
+      rw [List.getElem_append_right (Nat.le_add_right π.length t)]
+      simp only [Nat.add_sub_cancel_left]
+    rcases hρ k hk' with ha | hc | hm
+    · left
+      obtain ⟨a, ha, c, hac⟩ := ha
+      exact ⟨a, ha, c, (hget k hk').trans hac⟩
+    · right; left
+      obtain ⟨i, j, hi, hj, a, b, hab⟩ := hc
+      refine ⟨π.length + i, π.length + j, by omega, by omega, a, b, ?_⟩
+      rw [hget k hk', hget i (hi.trans hk'), hget j (hj.trans hk')]
+      exact hab
+    · right; right
+      obtain ⟨i, hi, v, hiv⟩ := hm
+      refine ⟨π.length + i, by omega, v, ?_⟩
+      rw [hget k hk', hget i (hi.trans hk')]
+      exact hiv
+
+theorem derivation_snoc {σ K : Type*} [Field K]
+    (red : MvPolynomial σ K →ₗ[K] MvPolynomial σ K)
+    (P : Set (MvPolynomial σ K)) {π : List (MvPolynomial σ K)}
+    (hπ : PCNonBool.IsDerivation red P π) (p : MvPolynomial σ K)
+    (hp :
+      (∃ a ∈ P, ∃ c : K, p = c • red a) ∨
+      (∃ (i j : ℕ) (hi : i < π.length) (hj : j < π.length) (a b : K),
+        p = a • π[i] + b • π[j]) ∨
+      (∃ (i : ℕ) (hi : i < π.length) (v : σ), p = red (X v * π[i]))) :
+    PCNonBool.IsDerivation red P (π ++ [p]) := by
+  intro k hk
+  by_cases h : k < π.length
+  · rcases hπ k h with ha | hc | hm
+    · left; simpa only [List.getElem_append_left h] using ha
+    · right; left
+      obtain ⟨i, j, hi, hj, a, b, hab⟩ := hc
+      refine ⟨i, j, hi, hj, a, b, ?_⟩
+      simpa only [List.getElem_append_left h,
+        List.getElem_append_left (hi.trans h),
+        List.getElem_append_left (hj.trans h)] using hab
+    · right; right
+      obtain ⟨i, hi, v, hiv⟩ := hm
+      refine ⟨i, hi, v, ?_⟩
+      simpa only [List.getElem_append_left h,
+        List.getElem_append_left (hi.trans h)] using hiv
+  · have heq : k = π.length := by simp only [List.length_append, List.length_singleton] at hk; omega
+    subst k
+    have hlast : (π ++ [p])[π.length] = p := by
+      rw [List.getElem_append_right (Nat.le_refl _)]
+      simp only [Nat.sub_self, List.getElem_cons_zero]
+    rcases hp with ha | hc | hm
+    · left; simpa only [hlast] using ha
+    · right; left
+      obtain ⟨i, j, hi, hj, a, b, hab⟩ := hc
+      refine ⟨i, j, hi, hj, a, b, ?_⟩
+      simpa only [hlast, List.getElem_append_left hi, List.getElem_append_left hj] using hab
+    · right; right
+      obtain ⟨i, hi, v, hiv⟩ := hm
+      refine ⟨i, hi, v, ?_⟩
+      simpa only [hlast, List.getElem_append_left hi] using hiv
+
+theorem pc_zero {n : ℕ} (F : LiftSAParity.CNF (Fin n)) (D : ℕ) :
+    PCDerivable F D 0 := Or.inl rfl
+
+theorem pc_degree {n : ℕ} {F : LiftSAParity.CNF (Fin n)} {D : ℕ}
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : PCDerivable F D p) : p.totalDegree ≤ D := by
+  rcases hp with rfl | ⟨π, _, hdeg, hp⟩
+  · simp
+  · exact hdeg p hp
+
+theorem pc_smul {n : ℕ} (F : LiftSAParity.CNF (Fin n)) (D : ℕ)
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : PCDerivable F D p) (c : ZMod 2) :
+    PCDerivable F D (c • p) := by
+  rcases hp with rfl | ⟨π, hπ, hdeg, hp⟩
+  · simp only [smul_zero]; exact pc_zero F D
+  · obtain ⟨i, hi, hpi⟩ := List.mem_iff_getElem.mp hp
+    refine Or.inr ⟨π ++ [c • p], ?_, ?_, by simp⟩
+    · apply derivation_snoc _ _ hπ
+      right; left
+      exact ⟨i, i, hi, hi, c, 0, by simp only [hpi, zero_smul, add_zero]⟩
+    · intro q hq
+      rcases List.mem_append.mp hq with hq | hq
+      · exact hdeg q hq
+      · have heq : q = c • p := List.mem_singleton.mp hq
+        subst q
+        exact (totalDegree_smul_le c p).trans (hdeg p hp)
+
+theorem pc_add {n : ℕ} (F : LiftSAParity.CNF (Fin n)) (D : ℕ)
+    {p q : MvPolynomial (Fin n) (ZMod 2)}
+    (hp : PCDerivable F D p) (hq : PCDerivable F D q) :
+    PCDerivable F D (p + q) := by
+  rcases hp with rfl | ⟨π, hπ, hπdeg, hp⟩
+  · simpa only [zero_add] using hq
+  rcases hq with rfl | ⟨ρ, hρ, hρdeg, hq⟩
+  · simpa only [add_zero] using (show PCDerivable F D p from Or.inr ⟨π, hπ, hπdeg, hp⟩)
+  have hboth := derivation_append _ _ hπ hρ
+  have hp' : p ∈ π ++ ρ := List.mem_append_left _ hp
+  have hq' : q ∈ π ++ ρ := List.mem_append_right _ hq
+  obtain ⟨i, hi, hpi⟩ := List.mem_iff_getElem.mp hp'
+  obtain ⟨j, hj, hqj⟩ := List.mem_iff_getElem.mp hq'
+  refine Or.inr ⟨(π ++ ρ) ++ [p + q], ?_, ?_, by simp⟩
+  · apply derivation_snoc _ _ hboth
+    right; left
+    exact ⟨i, j, hi, hj, 1, 1, by simp only [hpi, hqj, one_smul]⟩
+  · intro r hr
+    rcases List.mem_append.mp hr with hr | hr
+    · rcases List.mem_append.mp hr with hr | hr
+      · exact hπdeg r hr
+      · exact hρdeg r hr
+    · have heq : r = p + q := List.mem_singleton.mp hr
+      subst r
+      exact (totalDegree_add p q).trans (max_le (hπdeg p hp) (hρdeg q hq))
+
+theorem pc_mul_X {n : ℕ} (F : LiftSAParity.CNF (Fin n)) (D : ℕ)
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : PCDerivable F D p)
+    (v : Fin n) (hdeg : p.totalDegree + 1 ≤ D) :
+    PCDerivable F D (p * X v) := by
+  rcases hp with rfl | ⟨π, hπ, hπdeg, hp⟩
+  · simp only [zero_mul]; exact pc_zero F D
+  obtain ⟨i, hi, hpi⟩ := List.mem_iff_getElem.mp hp
+  refine Or.inr ⟨π ++ [p * X v], ?_, ?_, by simp⟩
+  · apply derivation_snoc _ _ hπ
+    right; right
+    exact ⟨i, hi, v, by simp only [hpi, LinearMap.id_apply, mul_comm]⟩
+  · intro q hq
+    rcases List.mem_append.mp hq with hq | hq
+    · exact hπdeg q hq
+    · have heq : q = p * X v := List.mem_singleton.mp hq
+      subst q
+      exact (totalDegree_mul p (X v)).trans (by simpa only [totalDegree_X] using hdeg)
+
+theorem pc_axiom {n : ℕ} (F : LiftSAParity.CNF (Fin n)) (D : ℕ)
+    (p : MvPolynomial (Fin n) (ZMod 2)) (hp : p ∈ pcAxioms F)
+    (hdeg : p.totalDegree ≤ D) : PCDerivable F D p := by
+  refine Or.inr ⟨[p], ?_, by simpa using hdeg, by simp⟩
+  intro k hk
+  have heq : k = 0 := by simpa using hk
+  subst k
+  left
+  exact ⟨p, hp, 1, by simp⟩
+
+end AC02Frege.Support
+end
+
+section
+-- Inlined Solutions.BooleanAlgebra
+
+open MvPolynomial AC02Frege
+namespace AC02Frege.BooleanAlgebra
+
+theorem ml_monomial {V : Type*} (s : V →₀ ℕ) (c : ZMod 2) :
+    ML (monomial s c) = monomial (sqfree s) c := by
+  have h := (basisMonomials V (ZMod 2)).constr_basis (ZMod 2)
+    (fun t => monomial (sqfree t) (1 : ZMod 2)) s
+  have hc : monomial s c = c • monomial s (1 : ZMod 2) := by
+    simp only [MvPolynomial.smul_monomial, smul_eq_mul, mul_one]
+  rw [hc, map_smul]
+  change c • ((basisMonomials V (ZMod 2)).constr (ZMod 2)
+    (fun t => monomial (sqfree t) (1 : ZMod 2)) (monomial s 1)) = _
+  rw [show monomial s (1 : ZMod 2) = basisMonomials V (ZMod 2) s by rfl]
+  rw [h]
+  simp only [MvPolynomial.smul_monomial, smul_eq_mul, mul_one]
+
+theorem ml_multilinear {V : Type*} (p : MvPolynomial V (ZMod 2)) :
+    IsMultilinear (ML p) := by
+  classical
+  induction p using MvPolynomial.induction_on' with
+  | monomial s c =>
+    rw [ml_monomial]
+    intro t ht v
+    have ht' : t = sqfree s := (Finset.mem_singleton.mp (support_monomial_subset ht))
+    subst t
+    simp [sqfree, Finsupp.mapRange_apply]
+  | add p q hp hq =>
+    rw [map_add]
+    intro s hs v
+    rcases Finset.mem_union.mp (support_add hs) with hs | hs
+    · exact hp s hs v
+    · exact hq s hs v
+
+
+theorem sqfree_support {V : Type*} (s : V →₀ ℕ) : (sqfree s).support = s.support := by
+  classical
+  ext i
+  simp only [Finsupp.mem_support_iff, sqfree, Finsupp.mapRange_apply]
+  omega
+
+theorem sqfree_eq_self {V : Type*} (s : V →₀ ℕ) (hs : ∀ i, s i ≤ 1) : sqfree s = s := by
+  ext i
+  simp only [sqfree, Finsupp.mapRange_apply, min_eq_left (hs i)]
+
+theorem ml_of_multilinear {V : Type*} (p : MvPolynomial V (ZMod 2))
+    (hp : IsMultilinear p) : ML p = p := by
+  classical
+  conv_lhs => rw [p.as_sum]
+  simp only [map_sum, ml_monomial]
+  conv_rhs => rw [p.as_sum]
+  apply Finset.sum_congr rfl
+  intro s hs
+  rw [sqfree_eq_self s (hp s hs)]
+
+theorem ml_idempotent {V : Type*} (p : MvPolynomial V (ZMod 2)) : ML (ML p) = ML p :=
+  ml_of_multilinear _ (ml_multilinear p)
+
+theorem eval_ml {V : Type*} (p : MvPolynomial V (ZMod 2)) (x : V → ZMod 2) :
+    eval x (ML p) = eval x p := by
+  classical
+  have hpow (a : ZMod 2) (k : ℕ) : a ^ min k 1 = a ^ k := by
+    fin_cases a
+    · change (0 : ZMod 2) ^ min k 1 = (0 : ZMod 2) ^ k
+      cases k <;> simp
+    · change (1 : ZMod 2) ^ min k 1 = (1 : ZMod 2) ^ k
+      simp
+  induction p using MvPolynomial.induction_on' with
+  | monomial s c =>
+    rw [ml_monomial, eval_monomial, eval_monomial]
+    congr 1
+    simp only [Finsupp.prod, sqfree_support]
+    apply Finset.prod_congr rfl
+    intro i _
+    simpa only [sqfree, Finsupp.mapRange_apply] using hpow (x i) (s i)
+  | add p q hp hq => simp only [map_add, hp, hq]
+
+theorem multilinear_ext {V : Type} [Finite V]
+    {p q : MvPolynomial V (ZMod 2)}
+    (hp : IsMultilinear p) (hq : IsMultilinear q)
+    (h : ∀ x : V → ZMod 2, eval x p = eval x q) : p = q := by
+  apply sub_eq_zero.mp
+  apply MvPolynomial.eq_zero_of_eval_eq_zero V (ZMod 2) (p - q)
+  · intro x; simp only [map_sub, h x, sub_self]
+  · have hp' : p ∈ restrictDegree V (ZMod 2) 1 := (mem_restrictDegree V p 1).mpr hp
+    have hq' : q ∈ restrictDegree V (ZMod 2) 1 := (mem_restrictDegree V q 1).mpr hq
+    simpa only [ZMod.card, Nat.reduceSub] using (restrictDegree V (ZMod 2) 1).sub_mem hp' hq'
+
+theorem ml_mul_left {V : Type} [Finite V] (p q : MvPolynomial V (ZMod 2)) :
+    ML (ML p * q) = ML (p * q) := by
+  apply multilinear_ext (ml_multilinear _) (ml_multilinear _)
+  intro x
+  simp only [eval_ml, map_mul]
+
+theorem ml_mul_right {V : Type} [Finite V] (p q : MvPolynomial V (ZMod 2)) :
+    ML (p * ML q) = ML (p * q) := by
+  rw [mul_comm p (ML q), ml_mul_left, mul_comm]
+
+theorem xMon_eq_monomial {V : Type*} (S : Finset V) :
+    xMon S = monomial (Finsupp.indicator S (fun _ _ => 1)) (1 : ZMod 2) := by
+  classical
+  simpa only [xMon, pow_one] using (prod_X_pow (R := ZMod 2) (fun _ : V => 1) S)
+
+theorem indicator_support {V : Type*} (S : Finset V) :
+    (Finsupp.indicator S (fun _ _ => (1 : ℕ))).support = S := by
+  classical
+  ext i
+  simp only [Finsupp.mem_support_iff, Finsupp.indicator_apply]
+  split_ifs <;> simp_all
+
+theorem xMon_multilinear {V : Type*} (S : Finset V) : IsMultilinear (xMon S) := by
+  classical
+  rw [xMon_eq_monomial]
+  intro s hs i
+  have heq := Finset.mem_singleton.mp (support_monomial_subset hs)
+  subst s
+  simp only [Finsupp.indicator_apply]
+  split_ifs <;> omega
+
+theorem xMon_eval {V : Type*} (S : Finset V) (x : V → ZMod 2) :
+    eval x (xMon S) = ∏ i ∈ S, x i := by
+  simp only [xMon, map_prod, eval_X]
+
+theorem xMon_totalDegree {V : Type*} (S : Finset V) : (xMon S).totalDegree = S.card := by
+  classical
+  rw [xMon_eq_monomial, totalDegree_monomial _ (one_ne_zero : (1 : ZMod 2) ≠ 0)]
+  simp only [Finsupp.sum, indicator_support]
+  have heq : (∑ i ∈ S, (Finsupp.indicator S (fun _ _ => (1 : ℕ))) i) = ∑ _i ∈ S, 1 := by
+    apply Finset.sum_congr rfl
+    intro i hi
+    simp [Finsupp.indicator_apply, hi]
+  rw [heq]
+  simp
+
+theorem xMon_linearIndependent {V : Type*} :
+    LinearIndependent (ZMod 2) (fun S : Finset V => xMon S) := by
+  classical
+  have hinj : Function.Injective (fun S : Finset V => Finsupp.indicator S (fun _ _ => (1 : ℕ))) := by
+    intro S T h
+    have := congrArg Finsupp.support h
+    simpa only [indicator_support] using this
+  have h := (basisMonomials V (ZMod 2)).linearIndependent.comp
+    (fun S : Finset V => Finsupp.indicator S (fun _ _ => (1 : ℕ))) hinj
+  simpa only [Function.comp_def, coe_basisMonomials, xMon_eq_monomial] using h
+
+end AC02Frege.BooleanAlgebra
+end
+
+section
+-- Inlined Solutions.MajorityFoundation
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra
+
+namespace AC02Frege.MajorityFoundation
+
+open Classical
+
+noncomputable def pointPoly {V : Type} [Fintype V] [DecidableEq V] (S : Finset V) : MvPolynomial V (ZMod 2) :=
+  ∏ i : V, if i ∈ S then X i else 1 + X i
+
+theorem pointPoly_indicator {V : Type} [Fintype V] [DecidableEq V] (S : Finset V) :
+    pointPoly S = MvPolynomial.indicator (fun i : V => if i ∈ S then (1 : ZMod 2) else 0) := by
+  classical
+  unfold pointPoly MvPolynomial.indicator
+  apply Finset.prod_congr rfl
+  intro i _
+  by_cases hi : i ∈ S <;> simp only [hi, ↓reduceIte, ZMod.card, Nat.reduceSub, pow_one]
+  · simp only [map_one, CharTwo.sub_eq_add]
+    calc
+      X i = X i + (1 + 1) := by rw [CharTwo.add_self_eq_zero, add_zero]
+      _ = 1 + (X i + 1) := by abel
+  · simp [CharTwo.sub_eq_add]
+
+theorem pointPoly_multilinear {V : Type} [Fintype V] [DecidableEq V] (S : Finset V) :
+    IsMultilinear (pointPoly S) := by
+  rw [pointPoly_indicator]
+  apply (mem_restrictDegree V _ 1).mp
+  simpa only [ZMod.card, Nat.reduceSub] using indicator_mem_restrictDegree
+    (fun i : V => if i ∈ S then (1 : ZMod 2) else 0)
+
+theorem pointPoly_eval {V : Type} [Fintype V] [DecidableEq V] (S : Finset V) (x : V → ZMod 2) :
+    eval x (pointPoly S) =
+      if x = (fun i => if i ∈ S then (1 : ZMod 2) else 0) then 1 else 0 := by
+  classical
+  rw [pointPoly_indicator]
+  split_ifs with h
+  · subst x; exact eval_indicator_apply_eq_one _
+  · exact eval_indicator_apply_eq_zero _ _ h
+
+theorem multilinear_sum {V ι : Type} (S : Finset ι) (f : ι → MvPolynomial V (ZMod 2))
+    (hf : ∀ i ∈ S, IsMultilinear (f i)) : IsMultilinear (∑ i ∈ S, f i) := by
+  apply (mem_restrictDegree V _ 1).mp
+  exact Submodule.sum_mem _ (fun i hi => (mem_restrictDegree V (f i) 1).mpr (hf i hi))
+
+theorem majOne_multilinear (ℓ : ℕ) : IsMultilinear (majOne ℓ) := by
+  unfold majOne
+  apply multilinear_sum
+  intro S _
+  simpa only [pointPoly] using pointPoly_multilinear S
+
+theorem eq_zero_or_one (a : ZMod 2) : a = 0 ∨ a = 1 := by
+  fin_cases a
+  · left; rfl
+  · right; rfl
+
+theorem point_of_ones {V : Type} [Fintype V] [DecidableEq V] (x : V → ZMod 2) :
+    (fun i => if i ∈ Finset.univ.filter (fun i => x i = 1) then (1 : ZMod 2) else 0) = x := by
+  classical
+  funext i
+  rcases eq_zero_or_one (x i) with hi | hi <;> simp [hi]
+
+theorem ones_of_point {V : Type} [Fintype V] [DecidableEq V] (S : Finset V) :
+    Finset.univ.filter (fun i => (if i ∈ S then (1 : ZMod 2) else 0) = 1) = S := by
+  classical
+  ext i
+  simp
+
+theorem majOne_eval (ℓ : ℕ) (x : Fin ℓ → ZMod 2) :
+    eval x (majOne ℓ) = if ℓ / 2 < (Finset.univ.filter (fun i => x i = 1)).card
+      then 1 else 0 := by
+  classical
+  unfold majOne
+  simp only [map_sum]
+  have hev (S : Finset (Fin ℓ)) := pointPoly_eval S x
+  simp only [pointPoly] at hev
+  simp only [hev]
+  have heq (S : Finset (Fin ℓ)) :
+      x = (fun i => if i ∈ S then (1 : ZMod 2) else 0) ↔
+        S = Finset.univ.filter (fun i => x i = 1) := by
+    constructor
+    · intro hx; rw [hx, ones_of_point]
+    · intro hS; subst S; exact (point_of_ones x).symm
+  simp only [heq]
+  simp
+
+theorem heavy_monomial_absorbs_majority (ℓ : ℕ) (S : Finset (Fin ℓ))
+    (hS : ℓ / 2 < S.card) : ML (xMon S * majOne ℓ) = xMon S := by
+  apply multilinear_ext (ml_multilinear _) (xMon_multilinear S)
+  intro x
+  simp only [eval_ml, map_mul]
+  by_cases hx : eval x (xMon S) = 0
+  · rw [hx, zero_mul]
+  · have hsub : S ⊆ Finset.univ.filter (fun i => x i = 1) := by
+      intro i hi
+      simp only [Finset.mem_filter, Finset.mem_univ, true_and]
+      have hxi : x i ≠ 0 := by
+        intro hz
+        apply hx
+        rw [xMon_eval]
+        exact Finset.prod_eq_zero hi hz
+      rcases eq_zero_or_one (x i) with hz | ho
+      · exact False.elim (hxi hz)
+      · exact ho
+    have hcard := Finset.card_le_card hsub
+    rw [majOne_eval, if_pos (by omega), mul_one]
+
+theorem pointPoly_factor {V : Type} [Fintype V] [DecidableEq V] (S : Finset V) :
+    pointPoly S = xMon S * ∏ i ∈ Finset.univ.filter (fun i : V => i ∉ S),
+      (1 + X i : MvPolynomial V (ZMod 2)) := by
+  simp only [pointPoly, Finset.prod_ite]
+  congr 1
+  rw [xMon]
+  apply Finset.prod_congr
+  · ext i; simp
+  · intro i _; rfl
+
+theorem support_mul_xMon_degree {V : Type} [Fintype V] [DecidableEq V]
+    (S : Finset V) (p : MvPolynomial V (ZMod 2))
+    (s : V →₀ ℕ) (hs : s ∈ (xMon S * p).support) : S.card ≤ s.sum (fun _ e => e) := by
+  classical
+  obtain ⟨a, ha, b, hb, hab⟩ := Finset.mem_add.mp (support_mul (xMon S) p hs)
+  have haeq : a = Finsupp.indicator S (fun _ _ => (1 : ℕ)) := by
+    rw [xMon_eq_monomial] at ha
+    exact Finset.mem_singleton.mp (support_monomial_subset ha)
+  subst a
+  have hsum : (Finsupp.indicator S (fun _ _ => (1 : ℕ))).sum (fun _ e => e) = S.card := by
+    simp only [Finsupp.sum, indicator_support]
+    have heq : (∑ i ∈ S, (Finsupp.indicator S (fun _ _ => (1 : ℕ))) i) = ∑ _i ∈ S, 1 := by
+      apply Finset.sum_congr rfl
+      intro i hi
+      simp [Finsupp.indicator_apply, hi]
+    rw [heq]; simp
+  rw [← hab]
+  rw [Finsupp.sum_add_index' (fun _ => rfl) (fun _ _ _ => rfl), hsum]
+  omega
+
+theorem majOne_support_heavy (ℓ : ℕ) (s : Fin ℓ →₀ ℕ)
+    (hs : s ∈ (majOne ℓ).support) : ℓ / 2 < s.sum (fun _ e => e) := by
+  classical
+  unfold majOne at hs
+  obtain ⟨S, hS, hsS⟩ := Finset.mem_biUnion.mp (support_sum hs)
+  have hheavy := (Finset.mem_filter.mp hS).2
+  change s ∈ (pointPoly S).support at hsS
+  rw [pointPoly_factor] at hsS
+  exact lt_of_lt_of_le hheavy (support_mul_xMon_degree S _ s hsS)
+
+end AC02Frege.MajorityFoundation
+end
+
+section
+-- Inlined Solutions.BooleanBasis
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.MajorityFoundation
+
+namespace AC02Frege.BooleanBasis
+
+theorem squarefree_eq_indicator {V : Type*} (s : V →₀ ℕ) (hs : ∀ i, s i ≤ 1) :
+    s = Finsupp.indicator s.support (fun _ _ => 1) := by
+  classical
+  ext i
+  by_cases hi : i ∈ s.support
+  · simp only [Finsupp.indicator_apply, dif_pos hi]
+    have hpos := Finsupp.mem_support_iff.mp hi
+    exact Nat.le_antisymm (hs i) (by omega)
+  · simpa only [Finsupp.indicator_apply, dif_neg hi] using (by simpa only [Finsupp.mem_support_iff, not_not] using hi : s i = 0)
+
+theorem squarefree_monomial {V : Type*} (s : V →₀ ℕ) (c : ZMod 2)
+    (hs : ∀ i, s i ≤ 1) : monomial s c = c • xMon s.support := by
+  rw [xMon_eq_monomial, smul_monomial, smul_eq_mul, mul_one,
+    ← squarefree_eq_indicator s hs]
+
+theorem squarefree_sum {V : Type*} (s : V →₀ ℕ) (hs : ∀ i, s i ≤ 1) :
+    s.sum (fun _ e => e) = s.support.card := by
+  have heq := squarefree_monomial s (1 : ZMod 2) hs
+  have hd := congrArg MvPolynomial.totalDegree heq
+  simpa only [totalDegree_monomial _ one_ne_zero, one_smul, xMon_totalDegree] using hd
+
+noncomputable def monomialSpan {V : Type*} (P : Finset V → Prop) :
+    Submodule (ZMod 2) (MvPolynomial V (ZMod 2)) :=
+  Submodule.span (ZMod 2) {p | ∃ S : Finset V, P S ∧ p = xMon S}
+
+theorem mem_monomialSpan_iff {V : Type*} (P : Finset V → Prop)
+    (p : MvPolynomial V (ZMod 2)) : p ∈ monomialSpan P ↔
+      IsMultilinear p ∧ ∀ s ∈ p.support, P s.support := by
+  classical
+  let M := restrictSupport (ZMod 2) {s : V →₀ ℕ | (∀ i, s i ≤ 1) ∧ P s.support}
+  have heq : monomialSpan P = M := by
+    apply le_antisymm
+    · apply Submodule.span_le.mpr
+      rintro q ⟨S, hS, rfl⟩
+      rw [xMon_eq_monomial]
+      apply (monomial_mem_restrictSupport (ZMod 2)).mpr
+      left
+      refine ⟨?_, ?_⟩
+      · intro i
+        simp only [Finsupp.indicator_apply]
+        split_ifs <;> omega
+      · simpa only [indicator_support] using hS
+    · intro q hq
+      have hq' : ∀ s ∈ q.support, (∀ i, s i ≤ 1) ∧ P s.support := hq
+      rw [q.as_sum]
+      apply Submodule.sum_mem
+      intro s hs
+      obtain ⟨hml, hP⟩ := hq' s hs
+      rw [squarefree_monomial s _ hml]
+      exact Submodule.smul_mem _ _ (Submodule.subset_span ⟨s.support, hP, rfl⟩)
+  rw [heq, mem_restrictSupport_iff (ZMod 2)]
+  constructor
+  · intro hp
+    exact ⟨fun s hs i => (hp hs).1 i, fun s hs => (hp hs).2⟩
+  · rintro ⟨hml, hP⟩ s hs
+    exact ⟨hml s hs, hP s hs⟩
+
+theorem mem_light_iff {V : Type*} (m : ℕ) (p : MvPolynomial V (ZMod 2)) :
+    p ∈ monomialSpan (fun S : Finset V => S.card ≤ m) ↔
+      IsMultilinear p ∧ p.totalDegree ≤ m := by
+  rw [mem_monomialSpan_iff]
+  constructor
+  · rintro ⟨hp, hP⟩
+    refine ⟨hp, Finset.sup_le fun s hs => ?_⟩
+    rw [squarefree_sum s (hp s hs)]
+    exact hP s hs
+  · rintro ⟨hp, hd⟩
+    refine ⟨hp, fun s hs => ?_⟩
+    rw [← squarefree_sum s (hp s hs)]
+    exact (le_totalDegree hs).trans hd
+
+theorem point_interpolation {V : Type} [Fintype V] [DecidableEq V]
+    (p : MvPolynomial V (ZMod 2)) (hp : IsMultilinear p) :
+    p = ∑ S : Finset V, eval (fun i => if i ∈ S then (1 : ZMod 2) else 0) p • pointPoly S := by
+  apply multilinear_ext hp
+    (multilinear_sum _ _ (fun S _ =>
+      (mem_restrictDegree V _ 1).mp ((restrictDegree V (ZMod 2) 1).smul_mem _
+        ((mem_restrictDegree V _ 1).mpr (pointPoly_multilinear S)))))
+  intro x
+  simp only [map_sum, smul_eval, pointPoly_eval]
+  have heq (S : Finset V) :
+      x = (fun i => if i ∈ S then (1 : ZMod 2) else 0) ↔
+        S = Finset.univ.filter (fun i => x i = 1) := by
+    constructor
+    · intro h; rw [h, ones_of_point]
+    · intro h; subst S; exact (point_of_ones x).symm
+  simp only [heq]
+  simp
+  have hx : (fun i => if x i = 1 then (1 : ZMod 2) else 0) = x := by
+    funext i
+    rcases eq_zero_or_one (x i) with hi | hi <;> simp [hi]
+  rw [hx]
+
+end AC02Frege.BooleanBasis
+end
+
+section
+-- Inlined Solutions.BooleanFlip
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.MajorityFoundation AC02Frege.BooleanBasis
+
+namespace AC02Frege.BooleanFlip
+
+theorem ml_totalDegree_le {V : Type*} (p : MvPolynomial V (ZMod 2)) :
+    (ML p).totalDegree ≤ p.totalDegree := by
+  classical
+  conv_lhs => rw [p.as_sum]
+  simp only [map_sum, ml_monomial]
+  apply totalDegree_finsetSum_le
+  intro s hs
+  apply (totalDegree_monomial_le _ _).trans
+  apply le_trans ?_ (le_totalDegree hs)
+  simp only [Finsupp.sum, sqfree_support]
+  apply Finset.sum_le_sum
+  intro i _
+  simp only [sqfree, Finsupp.mapRange_apply]
+  exact min_le_left _ _
+
+theorem bind_linear_totalDegree_le {V W : Type*} (f : V → MvPolynomial W (ZMod 2))
+    (hf : ∀ i, (f i).totalDegree ≤ 1) (p : MvPolynomial V (ZMod 2)) :
+    (bind₁ f p).totalDegree ≤ p.totalDegree := by
+  classical
+  conv_lhs => rw [p.as_sum]
+  simp only [map_sum, bind₁_monomial]
+  apply totalDegree_finsetSum_le
+  intro s hs
+  apply le_trans (totalDegree_mul _ _)
+  simp only [totalDegree_C, zero_add]
+  apply (totalDegree_finsetProd _ _).trans
+  apply le_trans ?_ (le_totalDegree hs)
+  apply Finset.sum_le_sum
+  intro i _
+  exact (totalDegree_pow _ _).trans (by simpa using Nat.mul_le_mul_left (s i) (hf i))
+
+noncomputable def flip {V : Type*} (p : MvPolynomial V (ZMod 2)) :
+    MvPolynomial V (ZMod 2) := ML (bind₁ (fun i => 1 + X i) p)
+
+theorem flip_multilinear {V : Type*} (p : MvPolynomial V (ZMod 2)) :
+    IsMultilinear (flip p) := ml_multilinear _
+
+theorem flip_degree_le {V : Type*} (p : MvPolynomial V (ZMod 2)) :
+    (flip p).totalDegree ≤ p.totalDegree := by
+  apply (ml_totalDegree_le _).trans
+  apply bind_linear_totalDegree_le
+  intro i
+  exact (totalDegree_add _ _).trans (by simp)
+
+theorem flip_eval {V : Type*} (p : MvPolynomial V (ZMod 2)) (x : V → ZMod 2) :
+    eval x (flip p) = eval (fun i => 1 + x i) p := by
+  rw [flip, eval_ml]
+  simp only [eval, eval₂Hom_bind₁, map_add, map_one, eval₂Hom_X']
+
+theorem flip_involution {V : Type} [Finite V] (p : MvPolynomial V (ZMod 2))
+    (hp : IsMultilinear p) : flip (flip p) = p := by
+  apply multilinear_ext (flip_multilinear _) hp
+  intro x
+  simp only [flip_eval, CharTwo.add_cancel_left]
+
+end AC02Frege.BooleanFlip
+end
+
+section
+-- Inlined Solutions.BooleanPC
+
+open MvPolynomial AC02Frege
+open AC02Frege.Support AC02Frege.BooleanAlgebra AC02Frege.BooleanFlip
+
+namespace SemAC02.BooleanPC
+
+def Derivable {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2))) (D : ℕ)
+    (p : MvPolynomial (Fin n) (ZMod 2)) : Prop :=
+  p = 0 ∨ ∃ π : List (MvPolynomial (Fin n) (ZMod 2)),
+    PCNonBool.IsDerivation ML P π ∧ (∀ q ∈ π, q.totalDegree ≤ D) ∧ p ∈ π
+
+theorem pc_zero {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2))) (D : ℕ) :
+    Derivable P D 0 := Or.inl rfl
+
+theorem pc_degree {n : ℕ} {P : Set (MvPolynomial (Fin n) (ZMod 2))} {D : ℕ}
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P D p) : p.totalDegree ≤ D := by
+  rcases hp with rfl | ⟨π, _, hdeg, hp⟩
+  · simp
+  · exact hdeg p hp
+
+theorem pc_smul {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2))) (D : ℕ)
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P D p) (c : ZMod 2) :
+    Derivable P D (c • p) := by
+  rcases hp with rfl | ⟨π, hπ, hdeg, hp⟩
+  · simp only [smul_zero]; exact pc_zero P D
+  · obtain ⟨i, hi, hpi⟩ := List.mem_iff_getElem.mp hp
+    refine Or.inr ⟨π ++ [c • p], ?_, ?_, by simp⟩
+    · apply derivation_snoc _ _ hπ
+      right; left
+      exact ⟨i, i, hi, hi, c, 0, by simp only [hpi, zero_smul, add_zero]⟩
+    · intro q hq
+      rcases List.mem_append.mp hq with hq | hq
+      · exact hdeg q hq
+      · have heq : q = c • p := List.mem_singleton.mp hq
+        subst q
+        exact (totalDegree_smul_le c p).trans (hdeg p hp)
+
+theorem pc_add {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2))) (D : ℕ)
+    {p q : MvPolynomial (Fin n) (ZMod 2)}
+    (hp : Derivable P D p) (hq : Derivable P D q) :
+    Derivable P D (p + q) := by
+  rcases hp with rfl | ⟨π, hπ, hπdeg, hp⟩
+  · simpa only [zero_add] using hq
+  rcases hq with rfl | ⟨ρ, hρ, hρdeg, hq⟩
+  · simpa only [add_zero] using (show Derivable P D p from Or.inr ⟨π, hπ, hπdeg, hp⟩)
+  have hboth := derivation_append _ _ hπ hρ
+  have hp' : p ∈ π ++ ρ := List.mem_append_left _ hp
+  have hq' : q ∈ π ++ ρ := List.mem_append_right _ hq
+  obtain ⟨i, hi, hpi⟩ := List.mem_iff_getElem.mp hp'
+  obtain ⟨j, hj, hqj⟩ := List.mem_iff_getElem.mp hq'
+  refine Or.inr ⟨(π ++ ρ) ++ [p + q], ?_, ?_, by simp⟩
+  · apply derivation_snoc _ _ hboth
+    right; left
+    exact ⟨i, j, hi, hj, 1, 1, by simp only [hpi, hqj, one_smul]⟩
+  · intro r hr
+    rcases List.mem_append.mp hr with hr | hr
+    · rcases List.mem_append.mp hr with hr | hr
+      · exact hπdeg r hr
+      · exact hρdeg r hr
+    · have heq : r = p + q := List.mem_singleton.mp hr
+      subst r
+      exact (totalDegree_add p q).trans (max_le (hπdeg p hp) (hρdeg q hq))
+
+theorem pc_mul_X {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2))) (D : ℕ)
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P D p)
+    (v : Fin n) (hdeg : p.totalDegree + 1 ≤ D) :
+    Derivable P D (ML (X v * p)) := by
+  rcases hp with rfl | ⟨π, hπ, hπdeg, hp⟩
+  · simp only [mul_zero, map_zero]; exact pc_zero P D
+  obtain ⟨i, hi, hpi⟩ := List.mem_iff_getElem.mp hp
+  refine Or.inr ⟨π ++ [ML (X v * p)], ?_, ?_, by simp⟩
+  · apply derivation_snoc _ _ hπ
+    right; right
+    exact ⟨i, hi, v, by rw [hpi]⟩
+  · intro q hq
+    rcases List.mem_append.mp hq with hq | hq
+    · exact hπdeg q hq
+    · have heq : q = ML (X v * p) := List.mem_singleton.mp hq
+      subst q
+      exact (ml_totalDegree_le _).trans ((totalDegree_mul (X v) p).trans (by simpa only [totalDegree_X, Nat.add_comm] using hdeg))
+
+theorem pc_axiom {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2))) (D : ℕ)
+    (p : MvPolynomial (Fin n) (ZMod 2)) (hp : p ∈ P)
+    (hdeg : (ML p).totalDegree ≤ D) : Derivable P D (ML p) := by
+  refine Or.inr ⟨[ML p], ?_, by simpa using hdeg, by simp⟩
+  intro k hk
+  have heq : k = 0 := by simpa using hk
+  subst k
+  left
+  exact ⟨p, hp, 1, by simp⟩
+
+theorem pc_mono {n : ℕ} {P : Set (MvPolynomial (Fin n) (ZMod 2))} {D E : ℕ}
+    (hDE : D ≤ E) {p : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P D p) :
+    Derivable P E p := by
+  rcases hp with h | ⟨π, hπ, hdeg, hp⟩
+  · exact Or.inl h
+  · exact Or.inr ⟨π, hπ, fun q hq => (hdeg q hq).trans hDE, hp⟩
+
+noncomputable def consequenceSpace {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2))) (D : ℕ) :
+    Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2)) where
+  carrier := {p | Derivable P D p}
+  zero_mem' := pc_zero P D
+  add_mem' := pc_add P D
+  smul_mem' := fun a _ hp => pc_smul P D hp a
+
+end SemAC02.BooleanPC
+end
+
+section
+-- Inlined Solutions.RelativePC
+
+open MvPolynomial AC02Frege SemAC02
+open AC02Frege.Support AC02Frege.BooleanAlgebra AC02Frege.BooleanFlip
+
+namespace SemAC02.RelativePC
+
+def Derivable {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2)))
+    (p : MvPolynomial (Fin n) (ZMod 2)) : Prop :=
+  p = 0 ∨ ∃ π : List (MvPolynomial (Fin n) (ZMod 2)),
+    PCNonBool.IsDerivation ML P π ∧ (∀ q ∈ π, q ∈ U) ∧ p ∈ π
+
+theorem pc_zero {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2))) : Derivable P U 0 := Or.inl rfl
+
+theorem pc_mem {n : ℕ} {P : Set (MvPolynomial (Fin n) (ZMod 2))}
+    {U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2))}
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P U p) : p ∈ U := by
+  rcases hp with rfl | ⟨π,_,hmem,hp⟩
+  · exact U.zero_mem
+  · exact hmem p hp
+
+theorem pc_smul {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2)))
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P U p) (c : ZMod 2) :
+    Derivable P U (c • p) := by
+  rcases hp with rfl | ⟨π,hπ,hmem,hp⟩
+  · simp only [smul_zero]; exact pc_zero P U
+  obtain ⟨i,hi,hpi⟩ := List.mem_iff_getElem.mp hp
+  refine Or.inr ⟨π ++ [c • p], ?_, ?_, by simp⟩
+  · apply derivation_snoc _ _ hπ
+    right; left
+    exact ⟨i,i,hi,hi,c,0,by simp only [hpi,zero_smul,add_zero]⟩
+  · intro q hq
+    rcases List.mem_append.mp hq with hq | hq
+    · exact hmem q hq
+    · have he : q = c • p := List.mem_singleton.mp hq
+      rw [he]
+      exact U.smul_mem c (hmem p hp)
+
+theorem pc_add {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2)))
+    {p q : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P U p) (hq : Derivable P U q) :
+    Derivable P U (p+q) := by
+  rcases hp with rfl | ⟨π,hπ,hπmem,hp⟩
+  · simpa only [zero_add] using hq
+  rcases hq with rfl | ⟨ρ,hρ,hρmem,hq⟩
+  · simpa only [add_zero] using (show Derivable P U p from Or.inr ⟨π,hπ,hπmem,hp⟩)
+  have hboth := derivation_append _ _ hπ hρ
+  have hp' : p ∈ π ++ ρ := List.mem_append_left _ hp
+  have hq' : q ∈ π ++ ρ := List.mem_append_right _ hq
+  obtain ⟨i,hi,hpi⟩ := List.mem_iff_getElem.mp hp'
+  obtain ⟨j,hj,hqj⟩ := List.mem_iff_getElem.mp hq'
+  refine Or.inr ⟨(π ++ ρ) ++ [p+q], ?_, ?_, by simp⟩
+  · apply derivation_snoc _ _ hboth
+    right; left
+    exact ⟨i,j,hi,hj,1,1,by simp only [hpi,hqj,one_smul]⟩
+  · intro r hr
+    rcases List.mem_append.mp hr with hr | hr
+    · rcases List.mem_append.mp hr with hr | hr
+      · exact hπmem r hr
+      · exact hρmem r hr
+    · have he : r = p+q := List.mem_singleton.mp hr
+      rw [he]
+      exact U.add_mem (hπmem p hp) (hρmem q hq)
+
+theorem pc_mul_X {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2)))
+    {p : MvPolynomial (Fin n) (ZMod 2)} (hp : Derivable P U p) (v : Fin n)
+    (hmem : ML (X v * p) ∈ U) : Derivable P U (ML (X v * p)) := by
+  rcases hp with rfl | ⟨π,hπ,hπmem,hp⟩
+  · simp only [mul_zero,map_zero]; exact pc_zero P U
+  obtain ⟨i,hi,hpi⟩ := List.mem_iff_getElem.mp hp
+  refine Or.inr ⟨π ++ [ML (X v * p)], ?_, ?_, by simp⟩
+  · apply derivation_snoc _ _ hπ
+    right; right
+    exact ⟨i,hi,v,by rw [hpi]⟩
+  · intro q hq
+    rcases List.mem_append.mp hq with hq | hq
+    · exact hπmem q hq
+    · rwa [List.mem_singleton.mp hq]
+
+theorem pc_axiom {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2)))
+    (p : MvPolynomial (Fin n) (ZMod 2)) (hp : p ∈ P) (hmem : ML p ∈ U) :
+    Derivable P U (ML p) := by
+  refine Or.inr ⟨[ML p], ?_, by simpa using hmem, by simp⟩
+  intro k hk
+  have he : k = 0 := by simpa using hk
+  subst k
+  left
+  exact ⟨p,hp,1,by simp⟩
+
+end SemAC02.RelativePC
+end
+
+section
+-- Inlined Solutions.RelativePCPolynomialMultiplication
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.BooleanFlip
+
+namespace SemAC02.RelativePC
+
+theorem pc_polynomial_mul {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (U : Submodule (ZMod 2) (MvPolynomial (Fin n) (ZMod 2)))
+    (u v : MvPolynomial (Fin n) (ZMod 2)) (hu : Derivable P U u) (huml : IsMultilinear u)
+    (hmem : ∀ w : MvPolynomial (Fin n) (ZMod 2), w.totalDegree ≤ v.totalDegree → ML (u*w) ∈ U) :
+    Derivable P U (ML (u*v)) := by
+  classical
+  induction v using MvPolynomial.induction_on'' with
+  | C c =>
+    have he : u * C c = c • u := by rw [smul_eq_C_mul, mul_comm]
+    rw [he, map_smul, ml_of_multilinear u huml]
+    exact pc_smul P U hu c
+  | monomial_add s c p hnot hc ihp ihm =>
+    have hdis : Disjoint (monomial s c).support p.support := by
+      apply disjoint_support_monomial
+      · exact hnot
+      · exact hc
+    have hsupp : (monomial s c + p).support = (monomial s c).support ∪ p.support := by
+      exact Finsupp.support_add_eq hdis
+    have hdm : (monomial s c).totalDegree ≤ (monomial s c + p).totalDegree := by
+      apply totalDegree_le_of_support_subset
+      rw [hsupp]
+      exact Finset.subset_union_left
+    have hdp : p.totalDegree ≤ (monomial s c + p).totalDegree := by
+      apply totalDegree_le_of_support_subset
+      rw [hsupp]
+      exact Finset.subset_union_right
+    rw [mul_add, map_add]
+    exact pc_add P U (ihm (fun w hw => hmem w (hw.trans hdm)))
+      (ihp (fun w hw => hmem w (hw.trans hdp)))
+  | mul_X p i ih =>
+    have hle : p.totalDegree ≤ (p * X i).totalDegree := by
+      by_cases hp : p = 0
+      · simp [hp]
+      · rw [totalDegree_mul_of_isDomain hp (X_ne_zero i), totalDegree_X]
+        omega
+    have hi := ih (fun w hw => hmem w (hw.trans hle))
+    have he : ML (u * (p * X i)) = ML (X i * ML (u*p)) := by
+      rw [ml_mul_right]
+      congr 1
+      ring
+    rw [he]
+    apply pc_mul_X P U hi i
+    rw [← he]
+    exact hmem _ le_rfl
+
+end SemAC02.RelativePC
+end
+
+section
+-- Inlined Solutions.BooleanLocality
+
+open Module MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.BooleanBasis
+
+namespace SemAC02.BooleanLocality
+
+theorem multilinear_degree_le_card {V : Type} [Fintype V]
+    (p : MvPolynomial V (ZMod 2)) (hp : IsMultilinear p) : p.totalDegree ≤ Fintype.card V := by
+  classical
+  apply Finset.sup_le
+  intro s hs
+  rw [squarefree_sum s (hp s hs)]
+  exact Finset.card_le_univ _
+
+noncomputable def extendAssignment {V : Type} (J : Finset V) (x : J → ZMod 2) : V → Bool := by
+  classical
+  exact fun i => if hi : i ∈ J then decide (x ⟨i, hi⟩ = 1) else false
+
+theorem represents_local_function {V : Type} [Fintype V] (J : Finset V)
+    (f : (V → Bool) → ZMod 2)
+    (hf : ∀ z z' : V → Bool, (∀ i ∈ J, z i = z' i) → f z = f z') :
+    ∃ r : MvPolynomial V (ZMod 2), r.totalDegree ≤ J.card ∧
+      ∀ z : V → Bool, eval (toF2 z) r = f z := by
+  classical
+  let η : (J → ZMod 2) → ZMod 2 := fun x => f (extendAssignment J x)
+  obtain ⟨p, hp⟩ := LinearMap.range_eq_top.mp (MvPolynomial.range_evalᵢ J (ZMod 2)) η
+  let p' : restrictDegree J (ZMod 2) (Fintype.card (ZMod 2) - 1) := p
+  have hml : IsMultilinear p'.1 := by
+    apply (mem_restrictDegree J _ 1).mp
+    simpa only [ZMod.card, Nat.reduceSub] using p'.2
+  refine ⟨rename Subtype.val p'.1, ?_, ?_⟩
+  · apply (totalDegree_rename_le _ _).trans
+    simpa only [Fintype.card_coe] using multilinear_degree_le_card p'.1 hml
+  · intro z
+    rw [eval_rename]
+    have he := congrFun hp (fun j : J => toF2 z j.1)
+    change eval (fun j : J => toF2 z j.1) p'.1 = f (extendAssignment J (fun j : J => toF2 z j.1)) at he
+    change eval (fun j : J => toF2 z j.1) p'.1 = f z
+    rw [he]
+    apply hf
+    intro i hi
+    simp only [extendAssignment, dif_pos hi]
+    cases h : z i <;> simp [toF2, h]
+
+end SemAC02.BooleanLocality
+end
+
+section
+-- Inlined Solutions.BooleanRestrictions
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.MajorityFoundation
+open AC02Frege.BooleanBasis AC02Frege.BooleanFlip
+
+namespace AC02Frege.BooleanRestrictions
+
+theorem xMon_eval_point {V : Type*} [DecidableEq V] (S T : Finset V) :
+    eval (fun i => if i ∈ T then (1 : ZMod 2) else 0) (xMon S) =
+      if S ⊆ T then 1 else 0 := by
+  classical
+  rw [xMon_eval]
+  by_cases h : S ⊆ T
+  · rw [if_pos h]
+    apply Finset.prod_eq_one
+    intro i hi
+    simp [h hi]
+  · rw [if_neg h]
+    obtain ⟨i, hi, hit⟩ := Finset.not_subset.mp h
+    exact Finset.prod_eq_zero hi (by simp [hit])
+
+theorem multilinear_exponent_ext {V : Type*} (s t : V →₀ ℕ)
+    (hs : ∀ i, s i ≤ 1) (ht : ∀ i, t i ≤ 1) (hst : s.support = t.support) : s = t := by
+  rw [squarefree_eq_indicator s hs, squarefree_eq_indicator t ht, hst]
+
+theorem eq_zero_of_support_point_eval_zero {V : Type} [DecidableEq V]
+    (p : MvPolynomial V (ZMod 2)) (hp : IsMultilinear p)
+    (hv : ∀ s ∈ p.support,
+      eval (fun i => if i ∈ s.support then (1 : ZMod 2) else 0) p = 0) : p = 0 := by
+  classical
+  by_contra hne
+  obtain ⟨s, hs, hmin⟩ := p.support.exists_min_image
+    (fun t => t.support.card) (support_nonempty.mpr hne)
+  have heval : eval (fun i => if i ∈ s.support then (1 : ZMod 2) else 0) p = p.coeff s := by
+    have hsum : eval (fun i => if i ∈ s.support then (1 : ZMod 2) else 0) p =
+        ∑ t ∈ p.support, p.coeff t * (if t.support ⊆ s.support then (1 : ZMod 2) else 0) := by
+      conv_lhs => rw [p.as_sum]
+      rw [map_sum]
+      apply Finset.sum_congr rfl
+      intro t ht
+      rw [squarefree_monomial t _ (hp t ht), smul_eval, xMon_eval_point]
+    rw [hsum, Finset.sum_eq_single s]
+    · simp
+    · intro t ht hts
+      have hnot : ¬ t.support ⊆ s.support := by
+        intro hsub
+        have heq : t.support = s.support := Finset.eq_of_subset_of_card_le hsub (hmin t ht)
+        exact hts (multilinear_exponent_ext t s (hp t ht) (hp s hs) heq)
+      rw [if_neg hnot, mul_zero]
+    · intro hnot
+      exact False.elim (hnot hs)
+  have hz := hv s hs
+  rw [heval] at hz
+  exact (mem_support_iff.mp hs) hz
+
+theorem eval_injective_on_monomialSpan {V : Type} [DecidableEq V]
+    (P : Finset V → Prop) (p : MvPolynomial V (ZMod 2))
+    (hp : p ∈ monomialSpan P)
+    (hv : ∀ S : Finset V, P S →
+      eval (fun i => if i ∈ S then (1 : ZMod 2) else 0) p = 0) : p = 0 := by
+  obtain ⟨hml, hP⟩ := (mem_monomialSpan_iff P p).mp hp
+  exact eq_zero_of_support_point_eval_zero p hml (fun s hs => hv s.support (hP s hs))
+
+theorem ml_vars_subset {V : Type} (p : MvPolynomial V (ZMod 2)) :
+    (ML p).vars ⊆ p.vars := by
+  classical
+  intro i hi
+  obtain ⟨s, hs, his⟩ := (mem_vars_iff_mem_support i).mp hi
+  have hexp : ML p = ∑ t ∈ p.support, monomial (sqfree t) (p.coeff t) := by
+    conv_lhs => rw [p.as_sum]
+    simp only [map_sum, ml_monomial]
+  rw [hexp] at hs
+  obtain ⟨t, ht, hst⟩ := Finset.mem_biUnion.mp (support_sum hs)
+  have heq := Finset.mem_singleton.mp (support_monomial_subset hst)
+  subst s
+  rw [sqfree_support] at his
+  exact (mem_vars_iff_mem_support i).mpr ⟨t, ht, his⟩
+
+theorem flip_vars_subset {V : Type} (p : MvPolynomial V (ZMod 2)) :
+    (BooleanFlip.flip p).vars ⊆ p.vars := by
+  classical
+  intro i hi
+  obtain ⟨j, hj, hij⟩ := Finset.mem_biUnion.mp
+    (vars_bind₁ (fun j => 1 + X j) p (ml_vars_subset _ hi))
+  have hsub : (1 + X j : MvPolynomial V (ZMod 2)).vars ⊆ {j} := by
+    simpa using vars_add_subset (1 : MvPolynomial V (ZMod 2)) (X j)
+  have heq := Finset.mem_singleton.mp (hsub hij)
+  simpa only [heq] using hj
+
+noncomputable def complementMap {V : Type} :
+    MvPolynomial V (ZMod 2) →ₗ[ZMod 2] MvPolynomial V (ZMod 2) where
+  toFun := BooleanFlip.flip
+  map_add' p q := by simp only [BooleanFlip.flip, map_add]
+  map_smul' c p := by simp only [BooleanFlip.flip, map_smul, RingHom.id_apply]
+
+theorem flip_mem_monomialSpan {V : Type} (P : Finset V → Prop)
+    (hP : ∀ S T, T ⊆ S → P S → P T)
+    (p : MvPolynomial V (ZMod 2)) (hp : p ∈ monomialSpan P) :
+    BooleanFlip.flip p ∈ monomialSpan P := by
+  classical
+  have hle : monomialSpan P ≤ (monomialSpan P).comap complementMap := by
+    apply Submodule.span_le.mpr
+    rintro q ⟨S, hS, rfl⟩
+    apply (mem_monomialSpan_iff P _).mpr
+    refine ⟨flip_multilinear _, ?_⟩
+    intro s hs
+    have hsub : s.support ⊆ S := by
+      apply (support_subset_vars_of_mem_support hs).trans
+      apply (flip_vars_subset _).trans
+      rw [xMon_eq_monomial, vars_monomial one_ne_zero, indicator_support]
+    exact hP S s.support hsub hS
+  exact hle hp
+
+theorem monomialSpan_span_range {V : Type} (P : Finset V → Prop) :
+    monomialSpan P = Submodule.span (ZMod 2)
+      (Set.range (fun S : {S : Finset V // P S} => xMon S.1)) := by
+  apply congrArg (Submodule.span (ZMod 2))
+  ext p
+  constructor
+  · rintro ⟨S, hS, rfl⟩
+    exact ⟨⟨S, hS⟩, rfl⟩
+  · rintro ⟨S, rfl⟩
+    exact ⟨S.1, S.2, rfl⟩
+
+end AC02Frege.BooleanRestrictions
+end
+
+section
+-- Inlined Solutions.CommonBasis
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.MajorityFoundation
+open AC02Frege.BooleanBasis AC02Frege.BooleanFlip AC02Frege.BooleanRestrictions
+
+namespace SemAC02.CommonBasis
+
+def ones {m : ℕ} (X : Fin m → Bool) : Finset (Fin m) :=
+  Finset.univ.filter (fun i => X i = true)
+
+theorem indicator_ones {m : ℕ} (X : Fin m → Bool) : indicatorVec (ones X) = X := by
+  funext i
+  cases h : X i <;> simp [indicatorVec, ones, h]
+
+theorem ones_indicator {m : ℕ} (S : Finset (Fin m)) : ones (indicatorVec S) = S := by
+  ext i
+  simp [indicatorVec, ones]
+
+theorem toF2_indicator {m : ℕ} (S : Finset (Fin m)) :
+    toF2 (indicatorVec S) = fun i => if i ∈ S then (1 : ZMod 2) else 0 := by
+  funext i
+  simp [toF2, indicatorVec]
+
+theorem flip_eval_bool {m : ℕ} (p : MvPolynomial (Fin m) (ZMod 2)) (X : Fin m → Bool) :
+    eval (toF2 X) (BooleanFlip.flip p) = eval (toF2 (fun i => !X i)) p := by
+  rw [flip_eval]
+  have heq : (fun i => 1 + toF2 X i) = toF2 (fun i => !X i) := by
+    funext i
+    cases h : X i <;> simp [toF2, h, CharTwo.add_self_eq_zero]
+  rw [heq]
+
+noncomputable def supportEquiv (m : ℕ) (g : (Fin m → Bool) → Bool) :
+    {S : Finset (Fin m) // g (indicatorVec S) = true} ≃
+      {X : Fin m → Bool // g X = true} where
+  toFun S := ⟨indicatorVec S.1, S.2⟩
+  invFun X := ⟨ones X.1, by simpa only [indicator_ones] using X.2⟩
+  left_inv S := Subtype.ext (ones_indicator S.1)
+  right_inv X := Subtype.ext (indicator_ones X.1)
+
+def complementEquiv (m : ℕ) (g : (Fin m → Bool) → Bool) :
+    {X : Fin m → Bool // g X = true} ≃
+      {X : Fin m → Bool // g (fun i => !X i) = true} where
+  toFun X := ⟨fun i => !X.1 i, by simpa only [Bool.not_not] using X.2⟩
+  invFun X := ⟨fun i => !X.1 i, X.2⟩
+  left_inv X := Subtype.ext (by funext i; simp)
+  right_inv X := Subtype.ext (by funext i; simp)
+
+noncomputable def restriction {m : ℕ} (Ω : Set (Fin m → Bool)) :
+    MvPolynomial (Fin m) (ZMod 2) →ₗ[ZMod 2] (Ω → ZMod 2) where
+  toFun p X := eval (toF2 X.1) p
+  map_add' p q := by ext X; simp
+  map_smul' c p := by ext X; simp
+
+theorem downclosed {m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g) :
+    ∀ S T : Finset (Fin m), T ⊆ S → g (indicatorVec S) = true →
+      g (indicatorVec T) = true := by
+  intro S T hTS hS
+  have hle : indicatorVec T ≤ indicatorVec S := by
+    intro i
+    by_cases hi : i ∈ T
+    · simp [indicatorVec, hi, hTS hi]
+    · simp [indicatorVec, hi]
+  have h := hg hle
+  rw [hS] at h
+  exact Bool.eq_true_of_true_le h
+
+theorem restriction_zero (m : ℕ) (g : (Fin m → Bool) → Bool)
+    (p : MvPolynomial (Fin m) (ZMod 2))
+    (hp : p ∈ monomialSpan (fun S : Finset (Fin m) => g (indicatorVec S) = true))
+    (hv : restriction {X : Fin m → Bool | g X = true} p = 0) : p = 0 := by
+  apply eval_injective_on_monomialSpan _ p hp
+  intro S hS
+  have h := congrFun hv ⟨indicatorVec S, hS⟩
+  change eval (toF2 (indicatorVec S)) p = 0 at h
+  simpa only [toF2_indicator] using h
+
+theorem restriction_complement_zero (m : ℕ) (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (p : MvPolynomial (Fin m) (ZMod 2))
+    (hp : p ∈ monomialSpan (fun S : Finset (Fin m) => g (indicatorVec S) = true))
+    (hv : restriction {X : Fin m → Bool | g (fun i => !X i) = true} p = 0) : p = 0 := by
+  have hf : BooleanFlip.flip p ∈ monomialSpan (fun S : Finset (Fin m) => g (indicatorVec S) = true) :=
+    flip_mem_monomialSpan _ (downclosed g hg) p hp
+  have hvan : restriction {X : Fin m → Bool | g X = true} (BooleanFlip.flip p) = 0 := by
+    funext X
+    change eval (toF2 X.1) (BooleanFlip.flip p) = 0
+    rw [flip_eval_bool]
+    have h := congrFun hv ⟨fun i => !X.1 i, by simpa only [Set.mem_ofPred_eq, Bool.not_not] using X.2⟩
+    exact h
+  have hz := restriction_zero m g _ hf hvan
+  have hml := ((mem_monomialSpan_iff _ _).mp hp).1
+  calc
+    p = BooleanFlip.flip (BooleanFlip.flip p) := (flip_involution p hml).symm
+    _ = BooleanFlip.flip 0 := congrArg (BooleanFlip.flip (V := Fin m)) hz
+    _ = 0 := by simp [BooleanFlip.flip]
+
+theorem restriction_independent (m : ℕ) (P : Finset (Fin m) → Prop) (Ω : Set (Fin m → Bool))
+    (hinj : ∀ p : MvPolynomial (Fin m) (ZMod 2), p ∈ monomialSpan P → restriction Ω p = 0 → p = 0) :
+    LinearIndependent (ZMod 2) (fun S : {S : Finset (Fin m) // P S} => restriction Ω (xMon S.1)) := by
+  apply (xMon_linearIndependent.comp Subtype.val Subtype.val_injective).map_injOn
+  intro v hv w hw heq
+  have hv' : v ∈ monomialSpan P := by rwa [monomialSpan_span_range]
+  have hw' : w ∈ monomialSpan P := by rwa [monomialSpan_span_range]
+  apply sub_eq_zero.mp
+  apply hinj (v - w) (Submodule.sub_mem _ hv' hw')
+  rw [map_sub, heq, sub_self]
+
+end SemAC02.CommonBasis
+end
+
+section
+-- Inlined Theorems.Thm_SemAC02_lemma_8_5_common_basis
+
+
+open MvPolynomial AC02Frege SemAC02 SemAC02.CommonBasis
+
+
+/-- **Lemma 8.5 (Common monomial basis)** (Alekseev–Gryaznov–Itsykson–Pitassi–Robere–Tzameret, *Hard Instances for Strong Semantic Proof
+Systems*, manuscript (STOC 2027 submission), Lemma 8.5, p.64): with
+`L = {S ⊆ [m] : g₀(1_S) = 1}`, `Ω₀ = {X : g₀(X) = 1}` and `Ω₁ = {X : g₁(X) = 1}`,
+`g₁(X) = g₀(X̄)`, the monomials `x_S = ∏_{j∈S} x_j`, `S ∈ L`, give a basis of both `𝔽₂^{Ω₀}`
+and `𝔽₂^{Ω₁}`.
+
+**Formalization Note** Stated for every antitone Boolean function `g₀` on `{0,1}^m` (the
+paper's `g₀ = g` from §8.1 is one). "Basis" is linear independence of the restrictions of the
+`x_S` to `Ω_b` together with spanning all functions `Ω_b → 𝔽₂`. -/
+theorem SemAC02.lemma_8_5_common_basis {m : ℕ} (g₀ : (Fin m → Bool) → Bool) (hg₀ : Antitone g₀) :
+    (LinearIndependent (ZMod 2)
+        (fun S : {S : Finset (Fin m) // g₀ (indicatorVec S) = true} =>
+          fun X : {X : Fin m → Bool // g₀ X = true} =>
+            MvPolynomial.eval (toF2 X.1) (AC02Frege.xMon S.1)) ∧
+      Submodule.span (ZMod 2) (Set.range
+        (fun S : {S : Finset (Fin m) // g₀ (indicatorVec S) = true} =>
+          fun X : {X : Fin m → Bool // g₀ X = true} =>
+            MvPolynomial.eval (toF2 X.1) (AC02Frege.xMon S.1))) = ⊤) ∧
+    (LinearIndependent (ZMod 2)
+        (fun S : {S : Finset (Fin m) // g₀ (indicatorVec S) = true} =>
+          fun X : {X : Fin m → Bool // g₀ (fun j => !X j) = true} =>
+            MvPolynomial.eval (toF2 X.1) (AC02Frege.xMon S.1)) ∧
+      Submodule.span (ZMod 2) (Set.range
+        (fun S : {S : Finset (Fin m) // g₀ (indicatorVec S) = true} =>
+          fun X : {X : Fin m → Bool // g₀ (fun j => !X j) = true} =>
+            MvPolynomial.eval (toF2 X.1) (AC02Frege.xMon S.1))) = ⊤) := by
+  classical
+  let P : Finset (Fin m) → Prop := fun S => g₀ (indicatorVec S) = true
+  let Ω₀ : Set (Fin m → Bool) := {X | g₀ X = true}
+  let Ω₁ : Set (Fin m → Bool) := {X | g₀ (fun i => !X i) = true}
+  have hli0 : LinearIndependent (ZMod 2)
+      (fun S : {S : Finset (Fin m) // P S} => restriction Ω₀ (xMon S.1)) :=
+    restriction_independent m P Ω₀ (restriction_zero m g₀)
+  have hli1 : LinearIndependent (ZMod 2)
+      (fun S : {S : Finset (Fin m) // P S} => restriction Ω₁ (xMon S.1)) :=
+    restriction_independent m P Ω₁ (restriction_complement_zero m g₀ hg₀)
+  have hspan0 := hli0.span_eq_top_of_card_eq_finrank' (by
+    rw [Module.finrank_fintype_fun_eq_card]
+    exact Fintype.card_congr (supportEquiv m g₀))
+  have hspan1 := hli1.span_eq_top_of_card_eq_finrank' (by
+    rw [Module.finrank_fintype_fun_eq_card]
+    exact Fintype.card_congr ((supportEquiv m g₀).trans (complementEquiv m g₀)))
+  exact ⟨⟨hli0, hspan0⟩, ⟨hli1, hspan1⟩⟩
+
+end
+
+section
+-- Inlined Solutions.ProductFunctionBasis
+
+open Module
+open scoped TensorProduct
+
+namespace ProofComplexity
+
+open PiTensorProduct
+
+noncomputable def functionTensorEquiv
+    {R ι : Type*} [CommSemiring R] [Fintype ι]
+    (X : ι → Type*) [∀ i, Fintype (X i)] :
+    (⨂[R] i, (X i → R)) ≃ₗ[R] (((i : ι) → X i) → R) := by
+  classical
+  exact (PiTensorProduct.congr (fun i => (Finsupp.linearEquivFunOnFinite R R (X i)).symm)) ≪≫ₗ
+    (PiTensorProduct.ofFinsuppEquiv' (R := R) (κ := X)) ≪≫ₗ
+    Finsupp.linearEquivFunOnFinite R R ((i : ι) → X i)
+
+@[simp] theorem functionTensorEquiv_tprod
+    {R ι : Type*} [CommSemiring R] [Fintype ι]
+    (X : ι → Type*) [∀ i, Fintype (X i)] (f : (i : ι) → X i → R) (x : (i : ι) → X i) :
+    functionTensorEquiv X (⨂ₜ[R] i, f i) x = ∏ i, f i (x i) := by
+  classical
+  simp [functionTensorEquiv]
+
+noncomputable def productFunctionBasis
+    {R ι : Type*} [CommSemiring R] [Fintype ι]
+    {X : ι → Type*} [∀ i, Fintype (X i)] {κ : ι → Type*}
+    (b : (i : ι) → Basis (κ i) R (X i → R)) :
+    Basis ((i : ι) → κ i) R (((i : ι) → X i) → R) :=
+  (Basis.piTensorProduct b).map (functionTensorEquiv X)
+
+@[simp] theorem productFunctionBasis_apply
+    {R ι : Type*} [CommSemiring R] [Fintype ι]
+    {X : ι → Type*} [∀ i, Fintype (X i)] {κ : ι → Type*}
+    (b : (i : ι) → Basis (κ i) R (X i → R)) (k : (i : ι) → κ i) (x : (i : ι) → X i) :
+    productFunctionBasis b k x = ∏ i, b i (k i) (x i) := by
+  classical
+  simp [productFunctionBasis]
+
+theorem productFunctionBasis_repr
+    {R ι : Type*} [CommSemiring R] [Fintype ι]
+    {X : ι → Type*} [∀ i, Fintype (X i)] {κ : ι → Type*}
+    (b : (i : ι) → Basis (κ i) R (X i → R)) (f : (i : ι) → X i → R)
+    (k : (i : ι) → κ i) :
+    (productFunctionBasis b).repr (fun x => ∏ i, f i (x i)) k =
+      ∏ i, (b i).repr (f i) (k i) := by
+  classical
+  have hfun : (fun x => ∏ i, f i (x i)) = functionTensorEquiv X (⨂ₜ[R] i, f i) := by
+    funext x
+    exact (functionTensorEquiv_tprod X f x).symm
+  rw [hfun]
+  change (Basis.piTensorProduct b).repr
+    ((functionTensorEquiv X).symm (functionTensorEquiv X (⨂ₜ[R] i, f i))) k = _
+  rw [LinearEquiv.symm_apply_apply]
+  exact Basis.piTensorProduct_repr_tprod_apply b f k
+
+end ProofComplexity
+end
+
+section
+-- Inlined Solutions.SemanticFibreBasis
+
+open Module MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra
+
+namespace SemAC02.FibreBasis
+
+abbrev BlockIndex {m : ℕ} (g : (Fin m → Bool) → Bool) :=
+  {S : Finset (Fin m) // g (indicatorVec S) = true}
+
+abbrev BlockFibre {m : ℕ} (g : (Fin m → Bool) → Bool) (b : Bool) :=
+  {X : Fin m → Bool // if b then g (fun j => !X j) = true else g X = true}
+
+noncomputable def blockBasis {m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g) (b : Bool) :
+    Basis (BlockIndex g) (ZMod 2) (BlockFibre g b → ZMod 2) := by
+  have h := lemma_8_5_common_basis g hg
+  cases b with
+  | false => exact Basis.mk h.1.1 h.1.2.ge
+  | true => exact Basis.mk h.2.1 h.2.2.ge
+
+@[simp] theorem blockBasis_apply {m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (b : Bool) (S : BlockIndex g) (X : BlockFibre g b) :
+    blockBasis g hg b S X = eval (toF2 X.1) (xMon S.1) := by
+  cases b <;> simp [blockBasis, Basis.mk_apply]
+
+abbrev GlobalIndex {m : ℕ} (g : (Fin m → Bool) → Bool) (n : ℕ) :=
+  {A : Finset (Fin n × Fin m) // IsLnSupport g A}
+
+def assemble {n m : ℕ} {g : (Fin m → Bool) → Bool} (S : Fin n → BlockIndex g) :
+    Finset (Fin n × Fin m) := Finset.univ.filter (fun v => v.2 ∈ (S v.1).1)
+
+@[simp] theorem section_assemble {n m : ℕ} {g : (Fin m → Bool) → Bool}
+    (S : Fin n → BlockIndex g) (i : Fin n) : blockSection (assemble S) i = (S i).1 := by
+  ext j
+  simp [blockSection, assemble]
+
+def sections {n m : ℕ} {g : (Fin m → Bool) → Bool} (A : GlobalIndex g n) (i : Fin n) :
+    BlockIndex g := ⟨blockSection A.1 i, A.2 i⟩
+
+@[simp] theorem assemble_sections {n m : ℕ} {g : (Fin m → Bool) → Bool}
+    (A : GlobalIndex g n) : assemble (sections A) = A.1 := by
+  ext v
+  simp [assemble, sections, blockSection]
+
+def indexEquiv (n : ℕ) {m : ℕ} (g : (Fin m → Bool) → Bool) :
+    (Fin n → BlockIndex g) ≃ GlobalIndex g n where
+  toFun S := ⟨assemble S, by
+    intro i
+    rw [section_assemble]
+    exact (S i).2⟩
+  invFun A := sections A
+  left_inv S := by funext i; apply Subtype.ext; exact section_assemble S i
+  right_inv A := Subtype.ext (assemble_sections A)
+
+abbrev Fibre {n m : ℕ} (g : (Fin m → Bool) → Bool) (z : Fin n → Bool) :=
+  {X : Fin n × Fin m → Bool // InFiber g z X}
+
+def curryEquiv {n m : ℕ} (g : (Fin m → Bool) → Bool) (z : Fin n → Bool) :
+    Fibre g z ≃ ((i : Fin n) → BlockFibre g (z i)) where
+  toFun X i := ⟨fun j => X.1 (i, j), X.2 i⟩
+  invFun X := ⟨fun v => (X v.1).1 v.2, fun i => (X i).2⟩
+  left_inv X := Subtype.ext (by funext v; rfl)
+  right_inv X := by funext i; apply Subtype.ext; rfl
+
+noncomputable def fibreBasis {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (z : Fin n → Bool) : Basis (GlobalIndex g n) (ZMod 2) (Fibre g z → ZMod 2) :=
+  ((ProofComplexity.productFunctionBasis (fun i : Fin n => blockBasis g hg (z i))).reindex
+    (indexEquiv n g)).map (LinearEquiv.funCongrLeft (ZMod 2) (ZMod 2) (curryEquiv g z))
+
+theorem xMon_eval_blocks {n m : ℕ} (A : Finset (Fin n × Fin m))
+    (X : Fin n × Fin m → Bool) : eval (toF2 X) (xMon A) =
+      ∏ i : Fin n, eval (toF2 (fun j => X (i, j))) (xMon (blockSection A i)) := by
+  classical
+  simp only [xMon_eval, blockSection, Finset.prod_filter, toF2]
+  rw [← Finset.prod_product']
+  simp only [Finset.univ_product_univ]
+  rw [← Finset.prod_filter]
+  simp
+
+@[simp] theorem fibreBasis_apply {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (z : Fin n → Bool) (A : GlobalIndex g n) (X : Fibre g z) :
+    fibreBasis g hg z A X = eval (toF2 X.1) (xMon A.1) := by
+  classical
+  rw [fibreBasis, Basis.map_apply, Basis.reindex_apply]
+  change ProofComplexity.productFunctionBasis (fun i : Fin n => blockBasis g hg (z i))
+    (sections A) (curryEquiv g z X) = _
+  rw [ProofComplexity.productFunctionBasis_apply, xMon_eval_blocks]
+  apply Finset.prod_congr rfl
+  intro i _
+  rw [blockBasis_apply]
+  rfl
+
+end SemAC02.FibreBasis
+end
+
+section
+-- Inlined Solutions.SemanticFibreCoordinates
+
+open Module MvPolynomial AC02Frege
+open SemAC02 SemAC02.FibreBasis
+
+namespace SemAC02.FibreCoordinates
+
+noncomputable def coordinates {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) (S : GlobalIndex g n) (z : Fin n → Bool) : ZMod 2 :=
+  (fibreBasis g hg z).equivFun (fun X => eval (toF2 X.1) p) S
+
+theorem coordinates_expansion {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) (z : Fin n → Bool) (X : Fibre g z) :
+    eval (toF2 X.1) p = ∑ S : GlobalIndex g n, coordinates g hg p S z *
+      eval (toF2 X.1) (xMon S.1) := by
+  classical
+  have h := congrFun ((fibreBasis g hg z).equivFun.symm_apply_apply (fun X => eval (toF2 X.1) p)) X
+  rw [Basis.equivFun_symm_apply] at h
+  simpa only [Finset.sum_apply, Pi.smul_apply, smul_eq_mul, fibreBasis_apply, coordinates] using h.symm
+
+theorem coordinates_unique {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (p : MvPolynomial (Fin n × Fin m) (ZMod 2))
+    (c : GlobalIndex g n → (Fin n → Bool) → ZMod 2)
+    (hc : ∀ (z : Fin n → Bool) (X : Fin n × Fin m → Bool), InFiber g z X →
+      eval (toF2 X) p = ∑ S, c S z * eval (toF2 X) (xMon S.1)) :
+    ∀ S z, c S z = coordinates g hg p S z := by
+  classical
+  intro S z
+  have he : (fun X : Fibre g z => eval (toF2 X.1) p) =
+      (fibreBasis g hg z).equivFun.symm (fun S => c S z) := by
+    rw [Basis.equivFun_symm_apply]
+    funext X
+    rw [hc z X.1 X.2]
+    simp only [Finset.sum_apply, Pi.smul_apply, smul_eq_mul, fibreBasis_apply]
+  have h := congrArg (fibreBasis g hg z).equivFun he
+  rw [LinearEquiv.apply_symm_apply] at h
+  exact (congrFun h S).symm
+
+theorem coordinates_add {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (p q : MvPolynomial (Fin n × Fin m) (ZMod 2)) (S : GlobalIndex g n) (z : Fin n → Bool) :
+    coordinates g hg (p + q) S z = coordinates g hg p S z + coordinates g hg q S z := by
+  have he : (fun X : Fibre g z => eval (toF2 X.1) (p + q)) =
+      (fun X => eval (toF2 X.1) p) + (fun X => eval (toF2 X.1) q) := by
+    funext X
+    exact map_add _ _ _
+  unfold coordinates
+  rw [he, map_add]
+  rfl
+
+theorem coordinates_smul {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (a : ZMod 2) (p : MvPolynomial (Fin n × Fin m) (ZMod 2))
+    (S : GlobalIndex g n) (z : Fin n → Bool) :
+    coordinates g hg (a • p) S z = a * coordinates g hg p S z := by
+  have he : (fun X : Fibre g z => eval (toF2 X.1) (a • p)) =
+      a • (fun X => eval (toF2 X.1) p) := by
+    funext X
+    simp only [smul_eval, Pi.smul_apply, smul_eq_mul]
+  unfold coordinates
+  rw [he, map_smul]
+  rfl
+
+end SemAC02.FibreCoordinates
+end
+
+section
+-- Inlined Solutions.SemanticProductCoordinates
+
+open Module MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra
+open SemAC02 SemAC02.FibreBasis SemAC02.FibreCoordinates
+
+namespace SemAC02.ProductCoordinates
+
+noncomputable def blockCoefficient {m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : BlockIndex g) (U : Finset (Fin m)) (b : Bool) : ZMod 2 :=
+  (blockBasis g hg b).repr (fun X => eval (toF2 X.1) (xMon T.1 * xMon U)) S
+
+theorem blockCoefficient_empty {m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : BlockIndex g) (b : Bool) :
+    blockCoefficient g hg S T ∅ b = if S = T then 1 else 0 := by
+  classical
+  have he : (fun X : BlockFibre g b => eval (toF2 X.1) (xMon T.1 * xMon ∅)) =
+      blockBasis g hg b T := by
+    funext X
+    simp only [xMon, Finset.prod_empty, mul_one, blockBasis_apply]
+  unfold blockCoefficient
+  rw [he, Basis.repr_self]
+  by_cases hST : S = T
+  · subst S
+    rw [Finsupp.single_eq_same, if_pos rfl]
+  · rw [Finsupp.single_eq_of_ne hST, if_neg hST]
+
+theorem coordinates_product {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (U : Finset (Fin n × Fin m)) (z : Fin n → Bool) :
+    coordinates g hg (xMon T.1 * xMon U) S z =
+      ∏ i : Fin n, blockCoefficient g hg (sections S i) (sections T i) (blockSection U i) (z i) := by
+  have he : (fun X : Fibre g z => eval (toF2 X.1) (xMon T.1 * xMon U)) =
+      (LinearEquiv.funCongrLeft (ZMod 2) (ZMod 2) (curryEquiv g z))
+        (fun X : (i : Fin n) → BlockFibre g (z i) =>
+          ∏ i : Fin n, eval (toF2 (X i).1) (xMon (blockSection T.1 i) * xMon (blockSection U i))) := by
+    funext X
+    change eval (toF2 X.1) (xMon T.1 * xMon U) =
+      ∏ i : Fin n, eval (toF2 (fun j => X.1 (i, j)))
+        (xMon (blockSection T.1 i) * xMon (blockSection U i))
+    simp only [map_mul, xMon_eval_blocks, Finset.prod_mul_distrib]
+  unfold coordinates
+  rw [he]
+  change (ProofComplexity.productFunctionBasis (fun i : Fin n => blockBasis g hg (z i))).repr
+    ((LinearEquiv.funCongrLeft (ZMod 2) (ZMod 2) (curryEquiv g z)).symm
+      ((LinearEquiv.funCongrLeft (ZMod 2) (ZMod 2) (curryEquiv g z)) _)) ((indexEquiv n g).symm S) = _
+  rw [LinearEquiv.symm_apply_apply]
+  exact ProofComplexity.productFunctionBasis_repr (fun i : Fin n => blockBasis g hg (z i))
+    (fun i X => eval (toF2 X.1) (xMon (blockSection T.1 i) * xMon (blockSection U i))) (sections S)
+
+theorem blockSection_empty {n m : ℕ} (U : Finset (Fin n × Fin m)) (i : Fin n)
+    (hi : i ∉ U.image Prod.fst) : blockSection U i = ∅ := by
+  apply Finset.eq_empty_iff_forall_notMem.mpr
+  intro j hj
+  apply hi
+  have hij : (i, j) ∈ U := (Finset.mem_filter.mp hj).2
+  exact Finset.mem_image.mpr ⟨(i, j), hij, rfl⟩
+
+theorem coordinates_product_local {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (U : Finset (Fin n × Fin m))
+    (z z' : Fin n → Bool) (hz : ∀ i ∈ U.image Prod.fst, z i = z' i) :
+    coordinates g hg (xMon T.1 * xMon U) S z = coordinates g hg (xMon T.1 * xMon U) S z' := by
+  classical
+  rw [coordinates_product, coordinates_product]
+  apply Finset.prod_congr rfl
+  intro i _
+  by_cases hi : i ∈ U.image Prod.fst
+  · rw [hz i hi]
+  · rw [blockSection_empty U i hi, blockCoefficient_empty, blockCoefficient_empty]
+
+end SemAC02.ProductCoordinates
+end
+
+section
+-- Inlined Solutions.SemanticCoordinateSpaces
+
+open Module MvPolynomial AC02Frege
+open SemAC02 SemAC02.FibreBasis SemAC02.FibreCoordinates
+
+namespace SemAC02.CoordinateSpaces
+
+noncomputable def booleanEvaluation (n : ℕ) :
+    MvPolynomial (Fin n) (ZMod 2) →ₗ[ZMod 2] ((Fin n → Bool) → ZMod 2) where
+  toFun p z := eval (toF2 z) p
+  map_add' p q := by funext z; exact map_add _ _ _
+  map_smul' a p := by funext z; simp only [smul_eval, Pi.smul_apply, smul_eq_mul, RingHom.id_apply]
+
+noncomputable def degreeSpace (n D : ℕ) :
+    Submodule (ZMod 2) ((Fin n → Bool) → ZMod 2) :=
+  (restrictTotalDegree (Fin n) (ZMod 2) D).map (booleanEvaluation n)
+
+theorem mem_degreeSpace {n D : ℕ} (u : (Fin n → Bool) → ZMod 2) :
+    u ∈ degreeSpace n D ↔ ∃ r : MvPolynomial (Fin n) (ZMod 2), r.totalDegree ≤ D ∧
+      ∀ z : Fin n → Bool, eval (toF2 z) r = u z := by
+  constructor
+  · rintro ⟨r, hr, heq⟩
+    exact ⟨r, (mem_restrictTotalDegree (Fin n) D r).mp hr, fun z => congrFun heq z⟩
+  · rintro ⟨r, hr, heq⟩
+    exact ⟨r, (mem_restrictTotalDegree (Fin n) D r).mpr hr, funext heq⟩
+
+def localSpace {n : ℕ} (J : Finset (Fin n)) :
+    Submodule (ZMod 2) ((Fin n → Bool) → ZMod 2) where
+  carrier := {u | ∀ z z', (∀ i ∈ J, z i = z' i) → u z = u z'}
+  zero_mem' := by intro z z' hz; rfl
+  add_mem' := by intro f h hf hh z z' hz; exact congrArg₂ (· + ·) (hf z z' hz) (hh z z' hz)
+  smul_mem' := by intro a f hf z z' hz; exact congrArg (fun x => a • x) (hf z z' hz)
+
+theorem localSpace_mono {n : ℕ} {I J : Finset (Fin n)} (hIJ : I ⊆ J) :
+    localSpace I ≤ localSpace J := by
+  intro f hf z z' hz
+  exact hf z z' (fun i hi => hz i (hIJ hi))
+
+noncomputable def coordinateMap {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S : GlobalIndex g n) :
+    MvPolynomial (Fin n × Fin m) (ZMod 2) →ₗ[ZMod 2] ((Fin n → Bool) → ZMod 2) where
+  toFun p := coordinates g hg p S
+  map_add' p q := by funext z; exact coordinates_add g hg p q S z
+  map_smul' a p := by
+    funext z
+    simpa only [Pi.smul_apply, smul_eq_mul, RingHom.id_apply] using coordinates_smul g hg a p S z
+
+end SemAC02.CoordinateSpaces
+end
+
+section
+-- Inlined Solutions.BooleanFunctionPolynomials
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.BooleanFlip
+
+namespace SemAC02.BooleanFunctionPolynomials
+
+theorem toF2_surjective {V : Type} (x : V → ZMod 2) : ∃ X : V → Bool, toF2 X = x := by
+  refine ⟨fun v => decide (x v = 1), ?_⟩
+  funext v
+  have h : x v = 0 ∨ x v = 1 := by
+    have h01 := AC02Frege.MajorityFoundation.eq_zero_or_one (x v)
+    exact h01
+  rcases h with h | h <;> simp [toF2, h]
+
+theorem multilinear_ext_bool {V : Type} [Finite V] {p q : MvPolynomial V (ZMod 2)}
+    (hp : IsMultilinear p) (hq : IsMultilinear q)
+    (he : ∀ X : V → Bool, eval (toF2 X) p = eval (toF2 X) q) : p = q := by
+  apply multilinear_ext hp hq
+  intro x
+  obtain ⟨X, rfl⟩ := toF2_surjective x
+  exact he X
+
+theorem exists_polynomial (n : ℕ) (u : (Fin n → Bool) → ZMod 2) :
+    ∃ r : MvPolynomial (Fin n) (ZMod 2),
+      ∀ z : Fin n → Bool, eval (toF2 z) r = u z := by
+  classical
+  obtain ⟨r, _, hr⟩ := BooleanLocality.represents_local_function Finset.univ u
+    (fun z z' h => congrArg u (funext (fun i => h i (Finset.mem_univ i))))
+  exact ⟨r, hr⟩
+
+noncomputable def polynomial {n : ℕ} (u : (Fin n → Bool) → ZMod 2) :
+    MvPolynomial (Fin n) (ZMod 2) := ML (Classical.choose (exists_polynomial n u))
+
+theorem polynomial_multilinear {n : ℕ} (u : (Fin n → Bool) → ZMod 2) :
+    IsMultilinear (polynomial u) := ml_multilinear _
+
+@[simp] theorem eval_polynomial {n : ℕ} (u : (Fin n → Bool) → ZMod 2) (z : Fin n → Bool) :
+    eval (toF2 z) (polynomial u) = u z := by
+  rw [polynomial, eval_ml]
+  exact Classical.choose_spec (exists_polynomial n u) z
+
+theorem polynomial_eq {n : ℕ} (u : (Fin n → Bool) → ZMod 2)
+    (r : MvPolynomial (Fin n) (ZMod 2))
+    (hr : ∀ z : Fin n → Bool, eval (toF2 z) r = u z) : polynomial u = ML r := by
+  apply multilinear_ext_bool
+    (polynomial_multilinear u) (ml_multilinear r)
+  intro z
+  rw [eval_polynomial, eval_ml, hr]
+
+noncomputable def polynomialMap (n : ℕ) :
+    ((Fin n → Bool) → ZMod 2) →ₗ[ZMod 2] MvPolynomial (Fin n) (ZMod 2) where
+  toFun := polynomial
+  map_add' u v := by
+    refine multilinear_ext_bool (polynomial_multilinear _) ?_ ?_
+    · exact (mem_restrictDegree (Fin n) _ 1).mp
+        (Submodule.add_mem _ ((mem_restrictDegree (Fin n) _ 1).mpr (polynomial_multilinear u))
+          ((mem_restrictDegree (Fin n) _ 1).mpr (polynomial_multilinear v)))
+    · intro z
+      simp only [eval_polynomial, map_add, Pi.add_apply]
+  map_smul' a u := by
+    refine multilinear_ext_bool (polynomial_multilinear _) ?_ ?_
+    · exact (mem_restrictDegree (Fin n) _ 1).mp
+        (Submodule.smul_mem _ a ((mem_restrictDegree (Fin n) _ 1).mpr (polynomial_multilinear u)))
+    · intro z
+      simp only [eval_polynomial, smul_eval, Pi.smul_apply, smul_eq_mul, RingHom.id_apply]
+
+theorem polynomial_degree {n D : ℕ} (u : (Fin n → Bool) → ZMod 2)
+    (hu : u ∈ SemAC02.CoordinateSpaces.degreeSpace n D) : (polynomial u).totalDegree ≤ D := by
+  obtain ⟨r, hr, he⟩ := SemAC02.CoordinateSpaces.mem_degreeSpace u |>.mp hu
+  rw [polynomial_eq u r he]
+  exact (ml_totalDegree_le r).trans hr
+
+end SemAC02.BooleanFunctionPolynomials
+end
+
+section
+-- Inlined Solutions.SemanticMonomialLocality
+
+open Module MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.BooleanBasis
+open SemAC02 SemAC02.FibreBasis SemAC02.FibreCoordinates
+open SemAC02.ProductCoordinates SemAC02.CoordinateSpaces SemAC02.BooleanLocality
+
+namespace SemAC02.MonomialLocality
+
+theorem eval_monomial_squarefree {V : Type} (s : V →₀ ℕ) (a : ZMod 2) (x : V → ZMod 2) :
+    eval x (monomial s a) = a * eval x (xMon s.support) := by
+  calc
+    eval x (monomial s a) = eval x (ML (monomial s a)) := (eval_ml _ _).symm
+    _ = a * eval x (xMon s.support) := by
+      rw [ml_monomial, squarefree_monomial (sqfree s) a (fun i => by simp [sqfree, Finsupp.mapRange_apply]),
+        sqfree_support, smul_eval]
+
+theorem coordinate_monomial {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (s : (Fin n × Fin m) →₀ ℕ) (a : ZMod 2) :
+    coordinateMap g hg S (xMon T.1 * monomial s a) =
+      a • coordinateMap g hg S (xMon T.1 * xMon s.support) := by
+  funext z
+  have he : (fun X : Fibre g z => eval (toF2 X.1) (xMon T.1 * monomial s a)) =
+      a • (fun X : Fibre g z => eval (toF2 X.1) (xMon T.1 * xMon s.support)) := by
+    funext X
+    simp only [map_mul, eval_monomial_squarefree, Pi.smul_apply, smul_eq_mul]
+    ring
+  change (fibreBasis g hg z).equivFun (fun X => eval (toF2 X.1) (xMon T.1 * monomial s a)) S = _
+  rw [he, map_smul]
+  rfl
+
+theorem support_card_le_sum {V : Type} (s : V →₀ ℕ) : s.support.card ≤ s.sum (fun _ e => e) := by
+  classical
+  change s.support.card ≤ ∑ i ∈ s.support, s i
+  calc
+    s.support.card = ∑ _i ∈ s.support, 1 := by simp
+    _ ≤ ∑ i ∈ s.support, s i := Finset.sum_le_sum (fun i hi =>
+      Nat.one_le_iff_ne_zero.mpr (Finsupp.mem_support_iff.mp hi))
+
+theorem degreeSpace_mono {n D E : ℕ} (hDE : D ≤ E) : degreeSpace n D ≤ degreeSpace n E := by
+  intro u hu
+  obtain ⟨r, hr, he⟩ := (mem_degreeSpace u).mp hu
+  exact (mem_degreeSpace u).mpr ⟨r, hr.trans hDE, he⟩
+
+theorem squarefree_local {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (U : Finset (Fin n × Fin m)) :
+    coordinateMap g hg S (xMon T.1 * xMon U) ∈ localSpace (U.image Prod.fst) := by
+  exact coordinates_product_local g hg S T U
+
+theorem squarefree_degree {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (U : Finset (Fin n × Fin m)) :
+    coordinateMap g hg S (xMon T.1 * xMon U) ∈ degreeSpace n U.card := by
+  have hl := squarefree_local g hg S T U
+  obtain ⟨r, hr, he⟩ := represents_local_function (U.image Prod.fst)
+    (coordinateMap g hg S (xMon T.1 * xMon U)) hl
+  exact (mem_degreeSpace _).mpr ⟨r, hr.trans (Finset.card_image_le), he⟩
+
+theorem monomial_local {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (s : (Fin n × Fin m) →₀ ℕ) (a : ZMod 2) :
+    coordinateMap g hg S (xMon T.1 * monomial s a) ∈ localSpace (s.support.image Prod.fst) := by
+  rw [coordinate_monomial]
+  exact Submodule.smul_mem _ a (squarefree_local g hg S T s.support)
+
+theorem monomial_degree {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (s : (Fin n × Fin m) →₀ ℕ) (a : ZMod 2) :
+    coordinateMap g hg S (xMon T.1 * monomial s a) ∈ degreeSpace n (s.sum (fun _ e => e)) := by
+  rw [coordinate_monomial]
+  apply Submodule.smul_mem
+  exact degreeSpace_mono (support_card_le_sum s) (squarefree_degree g hg S T s.support)
+
+end SemAC02.MonomialLocality
+end
+
+section
+-- Inlined Solutions.SemanticCoefficientControl
+
+open Module MvPolynomial AC02Frege
+open SemAC02 SemAC02.FibreBasis SemAC02.FibreCoordinates
+open SemAC02.CoordinateSpaces SemAC02.MonomialLocality
+
+namespace SemAC02.CoefficientControl
+
+theorem coordinate_polynomial_sum {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S : GlobalIndex g n) (f p : MvPolynomial (Fin n × Fin m) (ZMod 2)) :
+    coordinateMap g hg S (f * p) = ∑ s ∈ p.support,
+      coordinateMap g hg S (f * monomial s (p.coeff s)) := by
+  classical
+  conv_lhs => rw [p.as_sum]
+  rw [Finset.mul_sum, map_sum]
+
+theorem basis_polynomial_degree {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) :
+    coordinateMap g hg S (xMon T.1 * p) ∈ degreeSpace n p.totalDegree := by
+  classical
+  rw [coordinate_polynomial_sum]
+  apply Submodule.sum_mem
+  intro s hs
+  exact degreeSpace_mono (le_totalDegree hs) (monomial_degree g hg S T s (p.coeff s))
+
+theorem basis_polynomial_local {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S T : GlobalIndex g n) (p : MvPolynomial (Fin n × Fin m) (ZMod 2))
+    (J : Finset (Fin n)) (hp : ∀ v ∈ p.vars, v.1 ∈ J) :
+    coordinateMap g hg S (xMon T.1 * p) ∈ localSpace J := by
+  classical
+  rw [coordinate_polynomial_sum]
+  apply Submodule.sum_mem
+  intro s hs
+  have hsub : s.support.image Prod.fst ⊆ J := by
+    intro i hi
+    obtain ⟨v, hv, rfl⟩ := Finset.mem_image.mp hi
+    exact hp v ((support_subset_vars_of_mem_support hs) hv)
+  exact localSpace_mono hsub (monomial_local g hg S T s (p.coeff s))
+
+theorem coefficient_degree {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (f : MvPolynomial (Fin n × Fin m) (ZMod 2)) (hf : f ∈ lnSpan g n)
+    (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) (S : GlobalIndex g n) :
+    coordinateMap g hg S (f * p) ∈ degreeSpace n p.totalDegree := by
+  let L : MvPolynomial (Fin n × Fin m) (ZMod 2) →ₗ[ZMod 2] ((Fin n → Bool) → ZMod 2) :=
+    (coordinateMap g hg S).comp (LinearMap.mulRight (ZMod 2) p)
+  have hle : lnSpan g n ≤ (degreeSpace n p.totalDegree).comap L := by
+    apply Submodule.span_le.mpr
+    rintro q ⟨T, hT, rfl⟩
+    exact basis_polynomial_degree g hg S ⟨T, hT⟩ p
+  exact hle hf
+
+theorem coefficient_locality {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (f : MvPolynomial (Fin n × Fin m) (ZMod 2)) (hf : f ∈ lnSpan g n)
+    (p : MvPolynomial (Fin n × Fin m) (ZMod 2))
+    (J : Finset (Fin n)) (hp : ∀ v ∈ p.vars, v.1 ∈ J) (S : GlobalIndex g n) :
+    coordinateMap g hg S (f * p) ∈ localSpace J := by
+  let L : MvPolynomial (Fin n × Fin m) (ZMod 2) →ₗ[ZMod 2] ((Fin n → Bool) → ZMod 2) :=
+    (coordinateMap g hg S).comp (LinearMap.mulRight (ZMod 2) p)
+  have hle : lnSpan g n ≤ (localSpace J).comap L := by
+    apply Submodule.span_le.mpr
+    rintro q ⟨T, hT, rfl⟩
+    exact basis_polynomial_local g hg S ⟨T, hT⟩ p J hp
+  exact hle hf
+
+end SemAC02.CoefficientControl
+end
+
+section
+-- Inlined Solutions.SemanticCoefficientPolynomials
+
+open Module MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra AC02Frege.BooleanFlip
+open SemAC02.FibreBasis SemAC02.FibreCoordinates SemAC02.CoordinateSpaces
+open SemAC02.BooleanFunctionPolynomials SemAC02.CoefficientControl
+
+namespace SemAC02.CoefficientPolynomials
+
+noncomputable def coefficientMap {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S : GlobalIndex g n) :
+    MvPolynomial (Fin n × Fin m) (ZMod 2) →ₗ[ZMod 2] MvPolynomial (Fin n) (ZMod 2) :=
+  (polynomialMap n).comp (coordinateMap g hg S)
+
+theorem coefficient_multilinear {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S : GlobalIndex g n) (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) :
+    IsMultilinear (coefficientMap g hg S p) := polynomial_multilinear _
+
+@[simp] theorem eval_coefficient {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S : GlobalIndex g n) (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) (z : Fin n → Bool) :
+    eval (toF2 z) (coefficientMap g hg S p) = coordinates g hg p S z := eval_polynomial _ _
+
+theorem coefficient_congr {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S : GlobalIndex g n) (p q : MvPolynomial (Fin n × Fin m) (ZMod 2))
+    (he : ∀ X : Fin n × Fin m → Bool, eval (toF2 X) p = eval (toF2 X) q) :
+    coefficientMap g hg S p = coefficientMap g hg S q := by
+  apply multilinear_ext_bool (coefficient_multilinear g hg S p) (coefficient_multilinear g hg S q)
+  intro z
+  simp only [eval_coefficient, coordinates]
+  exact congrArg (fun u => (fibreBasis g hg z).equivFun u S)
+    (funext (fun X : Fibre g z => he X.1))
+
+@[simp] theorem coefficient_ml {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (S : GlobalIndex g n) (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) :
+    coefficientMap g hg S (ML p) = coefficientMap g hg S p :=
+  coefficient_congr g hg S _ _ (fun _ => eval_ml _ _)
+
+theorem coefficient_degree_product {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (f : MvPolynomial (Fin n × Fin m) (ZMod 2)) (hf : f ∈ lnSpan g n)
+    (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) (S : GlobalIndex g n) :
+    (coefficientMap g hg S (f * p)).totalDegree ≤ p.totalDegree :=
+  polynomial_degree _ (coefficient_degree g hg f hf p S)
+
+theorem ble_degree {V : Type} (D : ℕ) (p : MvPolynomial V (ZMod 2)) (hp : p ∈ Ble V D) :
+    p.totalDegree ≤ D := by
+  classical
+  have hle : Ble V D ≤ restrictTotalDegree V (ZMod 2) D := by
+    apply Submodule.span_le.mpr
+    rintro _ ⟨A, hA, rfl⟩
+    exact (mem_restrictTotalDegree V D _).mpr ((xMon_totalDegree A).trans_le hA)
+  exact (mem_restrictTotalDegree V D p).mp (hle hp)
+
+theorem coefficient_degree_multSpace {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (f : MvPolynomial (Fin n × Fin m) (ZMod 2)) (hf : f ∈ lnSpan g n)
+    (D : ℕ) (p : MvPolynomial (Fin n × Fin m) (ZMod 2)) (hp : p ∈ multSpace f D)
+    (S : GlobalIndex g n) : (coefficientMap g hg S p).totalDegree ≤ D := by
+  obtain ⟨q, hq, rfl⟩ := hp
+  change (coefficientMap g hg S (ML (f * q))).totalDegree ≤ D
+  rw [coefficient_ml]
+  exact (coefficient_degree_product g hg f hf q S).trans (ble_degree D q hq)
+
+theorem coordinates_mul {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (p v : MvPolynomial (Fin n × Fin m) (ZMod 2)) (S : GlobalIndex g n) (z : Fin n → Bool) :
+    coordinates g hg (p * v) S z = ∑ T : GlobalIndex g n,
+      coordinates g hg p T z * coordinates g hg (xMon T.1 * v) S z := by
+  classical
+  have he : (fun X : Fibre g z => eval (toF2 X.1) (p * v)) =
+      ∑ T : GlobalIndex g n, coordinates g hg p T z •
+        (fun X : Fibre g z => eval (toF2 X.1) (xMon T.1 * v)) := by
+    funext X
+    simp only [map_mul, Finset.sum_apply, Pi.smul_apply, smul_eq_mul]
+    rw [coordinates_expansion g hg p z X, Finset.sum_mul]
+    apply Finset.sum_congr rfl
+    intro T _
+    ring
+  change (fibreBasis g hg z).equivFun (fun X => eval (toF2 X.1) (p * v)) S = _
+  rw [he, map_sum]
+  simp only [map_smul, Finset.sum_apply, Pi.smul_apply, smul_eq_mul, coordinates]
+
+theorem coefficient_mul {n m : ℕ} (g : (Fin m → Bool) → Bool) (hg : Antitone g)
+    (p v : MvPolynomial (Fin n × Fin m) (ZMod 2)) (S : GlobalIndex g n) :
+    coefficientMap g hg S (p * v) = ∑ T : GlobalIndex g n,
+      ML (coefficientMap g hg T p * coefficientMap g hg S (xMon T.1 * v)) := by
+  classical
+  refine multilinear_ext_bool (coefficient_multilinear g hg S _) ?_ ?_
+  · exact (mem_restrictDegree (Fin n) _ 1).mp
+      (Submodule.sum_mem _ (fun _ _ => (mem_restrictDegree (Fin n) _ 1).mpr (ml_multilinear _)))
+  · intro z
+    simp only [eval_coefficient, map_sum, eval_ml, map_mul]
+    exact coordinates_mul g hg p v S z
+
+end SemAC02.CoefficientPolynomials
+end
+
+section
+-- Inlined Solutions.RelativeSpaceAlgebra
+
+open MvPolynomial AC02Frege SemAC02
+open AC02Frege.BooleanAlgebra AC02Frege.BooleanFlip AC02Frege.BooleanBasis
+
+namespace SemAC02.RelativeSpaceAlgebra
+
+theorem mem_Ble_iff {V : Type} (D : ℕ) (p : MvPolynomial V (ZMod 2)) :
+    p ∈ Ble V D ↔ IsMultilinear p ∧ p.totalDegree ≤ D := by
+  have he : Ble V D = monomialSpan (fun A : Finset V => A.card ≤ D) := by
+    unfold Ble monomialSpan
+    congr 1
+    ext q
+    constructor
+    · rintro ⟨A,hA,rfl⟩
+      exact ⟨A,hA,rfl⟩
+    · rintro ⟨A,hA,rfl⟩
+      exact ⟨A,hA,rfl⟩
+  rw [he, mem_light_iff]
+
+theorem mem_multSpace_of_degree {V : Type} [Finite V]
+    (f Q : MvPolynomial V (ZMod 2)) (D : ℕ) (hQ : Q.totalDegree ≤ D) :
+    mulML f Q ∈ multSpace f D := by
+  refine ⟨ML Q, (mem_Ble_iff D _).mpr ⟨ml_multilinear _, (ml_totalDegree_le _).trans hQ⟩, ?_⟩
+  change ML (f * ML Q) = ML (f * Q)
+  exact ml_mul_right f Q
+
+theorem multSpace_multilinear {V : Type} (f p : MvPolynomial V (ZMod 2)) (D : ℕ)
+    (hp : p ∈ multSpace f D) : IsMultilinear p := by
+  obtain ⟨Q,_,rfl⟩ := hp
+  exact ml_multilinear _
+
+theorem multSpace_degree {V : Type} (f p : MvPolynomial V (ZMod 2)) (k D : ℕ)
+    (hf : f ∈ Ble V k) (hp : p ∈ multSpace f D) : p.totalDegree ≤ k+D := by
+  obtain ⟨Q,hQ,rfl⟩ := hp
+  change (ML (f*Q)).totalDegree ≤ k+D
+  exact (ml_totalDegree_le _).trans ((totalDegree_mul f Q).trans
+    (Nat.add_le_add ((mem_Ble_iff k f).mp hf).2 ((mem_Ble_iff D Q).mp hQ).2))
+
+theorem relative_polynomial_mul {n : ℕ} (P : Set (MvPolynomial (Fin n) (ZMod 2)))
+    (f Q v : MvPolynomial (Fin n) (ZMod 2)) (D : ℕ)
+    (hp : RelativePC.Derivable P (multSpace f D) (mulML f Q))
+    (hdeg : Q.totalDegree + v.totalDegree ≤ D) :
+    RelativePC.Derivable P (multSpace f D) (ML (mulML f Q * v)) := by
+  apply RelativePC.pc_polynomial_mul P (multSpace f D) (mulML f Q) v hp (ml_multilinear _)
+  intro w hw
+  have he : ML (mulML f Q * w) = mulML f (Q*w) := by
+    change ML (ML (f*Q) * w) = ML (f*(Q*w))
+    rw [ml_mul_left, mul_assoc]
+  rw [he]
+  apply mem_multSpace_of_degree
+  exact (totalDegree_mul Q w).trans (by omega)
+
+end SemAC02.RelativeSpaceAlgebra
+end
+
+section
+-- Inlined Solutions.BooleanDimension
+
+open Module MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra
+
+namespace SemAC02.BooleanDimension
+
+abbrev DegreeIndex (n D : ℕ) := {A : Finset (Fin n) // A.card ≤ D}
+
+theorem span_degree_monomials (n D : ℕ) :
+    Submodule.span (ZMod 2) (Set.range (fun A : DegreeIndex n D => xMon A.1)) = Ble (Fin n) D := by
+  congr 1
+  ext p
+  constructor
+  · rintro ⟨A,rfl⟩
+    exact ⟨A.1,A.2,rfl⟩
+  · rintro ⟨A,hA,rfl⟩
+    exact ⟨⟨A,hA⟩,rfl⟩
+
+noncomputable def degreeBasis (n D : ℕ) : Basis (DegreeIndex n D) (ZMod 2) (Ble (Fin n) D) :=
+  (Basis.span (xMon_linearIndependent.comp (fun A : DegreeIndex n D => A.1) Subtype.val_injective)).map
+    (LinearEquiv.ofEq _ _ (span_degree_monomials n D))
+
+instance finite_Ble (n D : ℕ) : Module.Finite (ZMod 2) (Ble (Fin n) D) :=
+  Module.Finite.of_basis (degreeBasis n D)
+
+def degreeIndexEquiv (n D : ℕ) : DegreeIndex n D ≃
+    (j : Fin (min D n + 1)) × {A : Finset (Fin n) // A.card = j.1} where
+  toFun A := ⟨⟨A.1.card, by
+    have hcard := Finset.card_le_univ A.1
+    simp only [Fintype.card_fin] at hcard
+    omega⟩,A.1,rfl⟩
+  invFun B := ⟨B.2.1,by have := B.1.2; have := B.2.2; omega⟩
+  left_inv A := by apply Subtype.ext; rfl
+  right_inv B := by
+    rcases B with ⟨⟨j,hj⟩,A,hA⟩
+    cases hA
+    rfl
+
+theorem finrank_Ble (n D : ℕ) : finrank (ZMod 2) (Ble (Fin n) D) = Hn n D := by
+  classical
+  rw [Module.finrank_eq_card_basis (degreeBasis n D), Fintype.card_congr (degreeIndexEquiv n D), Fintype.card_sigma]
+  simp only [Fintype.card_finset_len, Fintype.card_fin]
+  exact Fin.sum_univ_eq_sum_range _ _
+
+theorem Hn_pos (n D : ℕ) : 0 < Hn n D := by
+  unfold Hn
+  apply lt_of_lt_of_le (show 0 < n.choose 0 by simp)
+  exact Finset.single_le_sum (fun _ _ => Nat.zero_le _) (by simp)
+
+end SemAC02.BooleanDimension
+end
+
+section
+-- Inlined Solutions.MultiplierSupportCount
+
+set_option maxHeartbeats 1000000
+
+open Module MvPolynomial AC02Frege AC02Frege.BooleanAlgebra
+
+namespace SemAC02.MultiplierSupportCount
+
+abbrev MultiplierIndex {m : ℕ} (g : (Fin m → Bool) → Bool) (n k : ℕ) :=
+  {S : Finset (Fin n × Fin m) // S.card ≤ k ∧ IsLnSupport g S}
+
+theorem multiplier_span {m : ℕ} (g : (Fin m → Bool) → Bool) (n k : ℕ) :
+    Submodule.span (ZMod 2) (Set.range (fun S : MultiplierIndex g n k => xMon S.1)) =
+      multiplierSpace g n k := by
+  unfold multiplierSpace
+  congr 1
+  ext p
+  constructor
+  · rintro ⟨S,rfl⟩
+    exact ⟨S.1,S.2,rfl⟩
+  · rintro ⟨S,hS,rfl⟩
+    exact ⟨⟨S,hS⟩,rfl⟩
+
+noncomputable def multiplierBasis {m : ℕ} (g : (Fin m → Bool) → Bool) (n k : ℕ) :
+    Basis (MultiplierIndex g n k) (ZMod 2) (multiplierSpace g n k) :=
+  (Basis.span (xMon_linearIndependent.comp (fun S : MultiplierIndex g n k => S.1) Subtype.val_injective)).map
+    (LinearEquiv.ofEq _ _ (multiplier_span g n k))
+
+instance finite_multiplierSpace {m : ℕ} (g : (Fin m → Bool) → Bool) (n k : ℕ) :
+    Module.Finite (ZMod 2) (multiplierSpace g n k) := Module.Finite.of_basis (multiplierBasis g n k)
+
+theorem finrank_multiplier {m : ℕ} (g : (Fin m → Bool) → Bool) (n k : ℕ) :
+    finrank (ZMod 2) (multiplierSpace g n k) =
+      (Finset.univ.filter (fun S : Finset (Fin n × Fin m) => S.card ≤ k ∧ IsLnSupport g S)).card := by
+  rw [Module.finrank_eq_card_basis (multiplierBasis g n k)]
+  exact Fintype.card_subtype _
+
+abbrev LowIndex (V : Type) (k : ℕ) := {S : Finset V // S.card ≤ k}
+
+def lowIndexEquiv (V : Type) [Fintype V] [DecidableEq V] (k : ℕ) :
+    LowIndex V k ≃ (j : Fin (min k (Fintype.card V)+1)) × {S : Finset V // S.card = j.1} where
+  toFun S := ⟨⟨S.1.card,by have := Finset.card_le_univ S.1; omega⟩,S.1,rfl⟩
+  invFun T := ⟨T.2.1,by have := T.1.2; have := T.2.2; omega⟩
+  left_inv S := by apply Subtype.ext; rfl
+  right_inv T := by rcases T with ⟨⟨j,hj⟩,S,hS⟩; cases hS; rfl
+
+theorem low_support_card (V : Type) [Fintype V] [DecidableEq V] (k : ℕ) :
+    (Finset.univ.filter (fun S : Finset V => S.card ≤ k)).card = Hn (Fintype.card V) k := by
+  rw [← Fintype.card_subtype,Fintype.card_congr (lowIndexEquiv V k),Fintype.card_sigma]
+  simp only [Fintype.card_finset_len]
+  exact Fin.sum_univ_eq_sum_range _ _
+
+end SemAC02.MultiplierSupportCount
+end
+
+section
+-- Inlined Solutions.LowSupportRetention
+
+set_option maxHeartbeats 2000000
+
+open Finset SemAC02
+open ProofComplexity.SupportProbability
+
+namespace ProofComplexity.LowSupportRetention
+
+noncomputable def goodLow {V : Type} [Fintype V] (k : ℕ) (E : Finset V → Bool) : Finset (Finset V) :=
+  univ.filter (fun S => S.card ≤ k ∧ E S = false)
+
+noncomputable def badLow {V : Type} [Fintype V] (k : ℕ) (E : Finset V → Bool) : Finset (Finset V) :=
+  univ.filter (fun S => S.card ≤ k ∧ E S = true)
+
+theorem support_partition {V : Type} [Fintype V] [DecidableEq V] (k : ℕ) (E : Finset V → Bool) :
+    (goodLow k E).card+(badLow k E).card = Hn (Fintype.card V) k := by
+  have h := card_filter_add_card_filter_not (s := univ.filter (fun S : Finset V => S.card ≤ k))
+    (fun S => E S = false)
+  simpa only [goodLow,badLow,filter_filter,Bool.not_eq_false,SemAC02.MultiplierSupportCount.low_support_card] using h
+
+theorem bad_count_weight_le {V : Type} [Fintype V] [DecidableEq V] (k : ℕ) (E : Finset V → Bool)
+    (hk : k ≤ Fintype.card V) {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1/2) :
+    ((badLow k E).card : ℝ)*layerWeight (Fintype.card V) k p ≤
+      SemAC02.BernoulliProduct.prob p (fun x : V → Bool => E (support x)) := by
+  classical
+  rw [prob_support]
+  calc
+    _ = ∑ _ ∈ badLow k E, layerWeight (Fintype.card V) k p := by rw [sum_const,nsmul_eq_mul]
+    _ ≤ ∑ S ∈ badLow k E, layerWeight (Fintype.card V) S.card p := by
+      apply sum_le_sum
+      intro S hS
+      have hcard := (mem_filter.mp hS).2.1
+      exact layerWeight_antitone hcard hk hp hp'
+    _ = ∑ S ∈ badLow k E, if E S then layerWeight (Fintype.card V) S.card p else 0 := by
+      apply sum_congr rfl
+      intro S hS
+      rw [if_pos (mem_filter.mp hS).2.2]
+    _ ≤ ∑ S : Finset V, if E S then layerWeight (Fintype.card V) S.card p else 0 := by
+      apply sum_le_sum_of_subset_of_nonneg (subset_univ _)
+      intro S _ _
+      change 0 ≤ (if E S then layerWeight (Fintype.card V) S.card p else 0)
+      split_ifs
+      · exact layerWeight_nonneg _ _ hp (by linarith)
+      · exact le_rfl
+
+theorem Hn_ge_choose {N k : ℕ} (hk : k ≤ N) : N.choose k ≤ Hn N k := by
+  unfold Hn
+  apply single_le_sum (f := fun j => N.choose j) (fun _ _ => Nat.zero_le _)
+  simp only [min_eq_left hk,mem_range]
+  omega
+
+theorem scaled_low_weight {N k : ℕ} (hk : k < N) :
+    1 ≤ ((N : ℝ)+1)*(Hn N k : ℝ)*layerWeight N k ((k : ℝ)/N) := by
+  have hm := BinomialMode.scaled_mode_lower hk
+  have hm' : 1 ≤ ((N : ℝ)+1)*(N.choose k : ℝ)*layerWeight N k ((k : ℝ)/N) := by
+    simpa only [BinomialMode.mass,layerWeight,mul_assoc] using hm
+  have hc : (N.choose k : ℝ) ≤ (Hn N k : ℝ) := by exact_mod_cast Hn_ge_choose hk.le
+  have hp : 0 ≤ (k : ℝ)/(N : ℝ) := div_nonneg (Nat.cast_nonneg _) (Nat.cast_nonneg _)
+  have hpp : (k : ℝ)/(N : ℝ) ≤ 1 := (div_le_one (by exact_mod_cast (show 0 < N from by omega))).mpr
+    (by exact_mod_cast hk.le)
+  exact hm'.trans (mul_le_mul_of_nonneg_right
+    (mul_le_mul_of_nonneg_left hc (by positivity)) (layerWeight_nonneg _ _ hp hpp))
+
+/-- A small product-measure bad event excludes only a controlled fraction of low-degree supports. -/
+theorem retention {V : Type} [Fintype V] [DecidableEq V] (k : ℕ) (E : Finset V → Bool)
+    (hk : k < Fintype.card V) (hp : (k : ℝ)/(Fintype.card V : ℝ) ≤ 1/2) {η : ℝ}
+    (hbad : SemAC02.BernoulliProduct.prob ((k : ℝ)/(Fintype.card V : ℝ))
+      (fun x : V → Bool => E (support x)) ≤ η) :
+    1-((Fintype.card V : ℝ)+1)*η ≤ ((goodLow k E).card : ℝ)/(Hn (Fintype.card V) k : ℝ) := by
+  let N := Fintype.card V
+  let H := (Hn N k : ℝ)
+  let B := ((badLow k E).card : ℝ)
+  let G := ((goodLow k E).card : ℝ)
+  let w := layerWeight N k ((k : ℝ)/N)
+  have hpp : 0 ≤ (k : ℝ)/(N : ℝ) := div_nonneg (Nat.cast_nonneg _) (Nat.cast_nonneg _)
+  have hb : B*w ≤ η := (bad_count_weight_le k E hk.le hpp hp).trans hbad
+  have hm : 1 ≤ ((N : ℝ)+1)*H*w := scaled_low_weight hk
+  have hB : 0 ≤ B := Nat.cast_nonneg _
+  have hH : 0 < H := by
+    dsimp [H]
+    exact_mod_cast BooleanDimension.Hn_pos N k
+  have hsum : G+B = H := by
+    dsimp [G,B,H,N]
+    exact_mod_cast support_partition k E
+  have hcount : B ≤ (((N : ℝ)+1)*H)*η := by
+    calc
+      B = B*1 := by ring
+      _ ≤ B*(((N : ℝ)+1)*H*w) := mul_le_mul_of_nonneg_left hm hB
+      _ = (((N : ℝ)+1)*H)*(B*w) := by ring
+      _ ≤ _ := mul_le_mul_of_nonneg_left hb (by positivity)
+  apply (le_div_iff₀ hH).mpr
+  change (1-((N : ℝ)+1)*η)*H ≤ G
+  nlinarith
+
+end ProofComplexity.LowSupportRetention
+end
+
+section
+-- Inlined Solutions.CoinDepthTwoNumerics
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CoinDepthTwoNumerics
+
+theorem union_power_bound {a : ℝ} (ha : 0 ≤ a) (ha' : a ≤ 1) (r : ℕ) :
+    1-(1-a)^r ≤ (r : ℝ)*a := by
+  have h := one_add_mul_le_pow (a := -a) (by linarith : (-2 : ℝ) ≤ -a) r
+  simp only [mul_neg,← sub_eq_add_neg] at h
+  linarith
+
+theorem failure_power_bound {a : ℝ} (ha : a ≤ 1) (r : ℕ) :
+    (1-a)^r ≤ Real.exp (-((r : ℝ)*a)) := by
+  calc
+    _ ≤ Real.exp (-a)^r := pow_le_pow_left₀ (by linarith) (Real.one_sub_le_exp_neg a) r
+    _ = _ := by rw [← Real.exp_nat_mul]; congr 1; ring
+
+theorem exp_neg_tenth {a : ℝ} (ha : 9 ≤ a) : Real.exp (-a) ≤ 1/10 := by
+  rw [Real.exp_neg]
+  have he : 1/Real.exp a ≤ 1/10 := (div_le_iff₀ (Real.exp_pos a)).mpr (by linarith [Real.add_one_le_exp a])
+  simpa only [one_div] using he
+
+theorem depth_two_parameters {ε : ℝ} (hε : 0 < ε) (hε' : ε < 1) :
+    ∃ m : ℕ, 1 ≤ m ∧ (m : ℝ) ≤ 11/ε ∧
+      1-(1-((1-ε)/2)^m)^(2^m) ≤ 1/10 ∧
+      (1-((1+ε)/2)^m)^(2^m) ≤ 1/10 ∧
+      (1+(2^m)*(1+m) : ℕ) ≤ Real.exp (23*ε⁻¹) := by
+  let m := ⌈10/ε⌉₊
+  have hm : 1 ≤ m := Nat.one_le_ceil_iff.mpr (by positivity)
+  have hml : 10/ε ≤ (m : ℝ) := Nat.le_ceil _
+  have hmu : (m : ℝ) < 10/ε+1 := Nat.ceil_lt_add_one (by positivity)
+  have hmb : (m : ℝ) ≤ 11/ε := by
+    have hle : 1 ≤ 1/ε := (le_div_iff₀ hε).mpr (by linarith)
+    calc
+      (m : ℝ) ≤ 10/ε+1 := hmu.le
+      _ ≤ 10/ε+1/ε := by linarith
+      _ = 11/ε := by ring
+  have hme : 10 ≤ (m : ℝ)*ε := (div_le_iff₀ hε).mp hml
+  have hl : 0 ≤ (1-ε)/2 := by linarith
+  have hlu : (1-ε)/2 ≤ 1 := by linarith
+  have hh : 0 ≤ (1+ε)/2 := by linarith
+  have hhu : (1+ε)/2 ≤ 1 := by linarith
+  have hlowprod : ((2^m : ℕ) : ℝ)*((1-ε)/2)^m = (1-ε)^m := by
+    push_cast
+    rw [← mul_pow]
+    congr 1
+    ring
+  have hhighprod : ((2^m : ℕ) : ℝ)*((1+ε)/2)^m = (1+ε)^m := by
+    push_cast
+    rw [← mul_pow]
+    congr 1
+    ring
+  have hlow : 1-(1-((1-ε)/2)^m)^(2^m) ≤ 1/10 := by
+    calc
+      _ ≤ ((2^m : ℕ) : ℝ)*((1-ε)/2)^m :=
+        union_power_bound (pow_nonneg hl m) (pow_le_one₀ hl hlu) _
+      _ = (1-ε)^m := hlowprod
+      _ ≤ Real.exp (-((m : ℝ)*ε)) := failure_power_bound hε'.le m
+      _ ≤ 1/10 := exp_neg_tenth (by linarith)
+  have hhigh : (1-((1+ε)/2)^m)^(2^m) ≤ 1/10 := by
+    calc
+      _ ≤ Real.exp (-(((2^m : ℕ) : ℝ)*((1+ε)/2)^m)) :=
+        failure_power_bound (pow_le_one₀ hh hhu) _
+      _ = Real.exp (-((1+ε)^m)) := by rw [hhighprod]
+      _ ≤ 1/10 := exp_neg_tenth (by
+        have h := one_add_mul_le_pow (a := ε) (by linarith : (-2 : ℝ) ≤ ε) m
+        linarith)
+  have htwo : (2 : ℝ)^m ≤ Real.exp (m : ℝ) := by
+    calc
+      _ ≤ Real.exp 1 ^ m := pow_le_pow_left₀ (by norm_num) (by linarith [Real.add_one_le_exp 1]) m
+      _ = _ := by rw [← Real.exp_nat_mul,mul_one]
+  have hlin : 1+(m : ℝ) ≤ Real.exp (m : ℝ) := by simpa only [add_comm] using Real.add_one_le_exp (m : ℝ)
+  have hexp : 1 ≤ Real.exp (2*(m : ℝ)) := Real.one_le_exp_iff.mpr (by positivity)
+  have hsize : (1+(2^m)*(1+m) : ℕ) ≤ Real.exp (23*ε⁻¹) := by
+    calc
+      _ = 1+(2 : ℝ)^m*(1+(m : ℝ)) := by push_cast; rfl
+      _ ≤ 1+Real.exp (m : ℝ)*Real.exp (m : ℝ) := by
+        gcongr
+      _ = 1+Real.exp (2*(m : ℝ)) := by rw [← Real.exp_add]; congr 2 <;> ring
+      _ ≤ Real.exp 1*Real.exp (2*(m : ℝ)) := by
+        have he1 : (2 : ℝ) ≤ Real.exp 1 := by linarith [Real.add_one_le_exp 1]
+        nlinarith
+      _ = Real.exp (1+2*(m : ℝ)) := (Real.exp_add _ _).symm
+      _ ≤ Real.exp (23*ε⁻¹) := by
+        apply Real.exp_le_exp.mpr
+        have hle : 1 ≤ ε⁻¹ := by
+          have he : 1 ≤ 1/ε := (le_div_iff₀ hε).mpr (by nlinarith)
+          simpa only [one_div] using he
+        simp only [div_eq_mul_inv] at hmb
+        linarith
+  exact ⟨m,hm,hmb,hlow,hhigh,hsize⟩
+
+end SemAC02.CoinDepthTwoNumerics
+end
+
+section
+-- Inlined Solutions.FiniteProductPushforward
+
+open Finset
+
+namespace ProofComplexity.FiniteProductPushforward
+
+theorem prod_fiber_indicator {I A B : Type*} [Fintype I] [DecidableEq I] [DecidableEq B] (g : A → B)
+    (w : I → A → ℝ) (x : I → A) (y : I → B) :
+    (if (fun i => g (x i)) = y then ∏ i, w i (x i) else 0) =
+      ∏ i, if g (x i) = y i then w i (x i) else 0 := by
+  classical
+  by_cases he : (fun i => g (x i)) = y
+  · rw [if_pos he]
+    apply prod_congr rfl
+    intro i _
+    rw [if_pos (congrFun he i)]
+  · rw [if_neg he]
+    obtain ⟨i,hi⟩ : ∃ i, g (x i) ≠ y i := by
+      by_contra! h
+      exact he (funext h)
+    symm
+    exact prod_eq_zero (mem_univ i) (if_neg hi)
+
+theorem fiber_weight {I A B : Type*} [Fintype I] [DecidableEq I] [Fintype A] [DecidableEq B] (g : A → B)
+    (w : I → A → ℝ) (y : I → B) :
+    (∑ x : I → A, if (fun i => g (x i)) = y then ∏ i, w i (x i) else 0) =
+      ∏ i, ∑ a : A, if g a = y i then w i a else 0 := by
+  classical
+  simp_rw [prod_fiber_indicator]
+  exact (Fintype.prod_sum (fun i : I => fun a : A => if g a = y i then w i a else 0)).symm
+
+/-- Independent finite coordinates remain independent under a coordinatewise map. -/
+theorem sum_pushforward {I A B : Type*} [Fintype I] [DecidableEq I] [Fintype A] [Fintype B] [DecidableEq B]
+    (g : A → B) (w : I → A → ℝ) (F : (I → B) → ℝ) :
+    (∑ x : I → A, (∏ i, w i (x i))*F (fun i => g (x i))) =
+      ∑ y : I → B, (∏ i, ∑ a : A, if g a = y i then w i a else 0)*F y := by
+  classical
+  calc
+    _ = ∑ x : I → A, ∑ y : I → B,
+        (if (fun i => g (x i)) = y then ∏ i, w i (x i) else 0)*F y := by
+      apply sum_congr rfl
+      intro x _
+      simp only [ite_mul,zero_mul]
+      simp
+    _ = ∑ y : I → B, ∑ x : I → A,
+        (if (fun i => g (x i)) = y then ∏ i, w i (x i) else 0)*F y := sum_comm
+    _ = ∑ y : I → B,
+        (∑ x : I → A, if (fun i => g (x i)) = y then ∏ i, w i (x i) else 0)*F y := by
+      simp only [sum_mul]
+    _ = _ := by simp only [fiber_weight]
+
+end ProofComplexity.FiniteProductPushforward
+end
+
+section
+-- Inlined Solutions.BernoulliPinning
+
+open Finset
+open ProofComplexity.FiniteProductPushforward
+
+namespace SemAC02.BernoulliAlgebra
+
+def pairEquiv (I : Type*) : (I → Bool × Bool) ≃ (I → Bool) × (I → Bool) where
+  toFun x := (fun i => (x i).1,fun i => (x i).2)
+  invFun x i := (x.1 i,x.2 i)
+  left_inv x := by funext i; rfl
+  right_inv x := by cases x; rfl
+
+def unionInputs {I : Type*} (x y : I → Bool) : I → Bool := fun i => x i || y i
+
+theorem or_bit_weight (p q : ℝ) (b : Bool) :
+    (∑ a : Bool × Bool, if (a.1 || a.2) = b then bitWeight p a.1 * bitWeight q a.2 else 0) =
+      bitWeight (p+(1-p)*q) b := by
+  cases b <;> simp [Fintype.sum_prod_type,Fintype.sum_bool,bitWeight] <;> ring
+
+theorem prob_eq_indicator (p : ℝ) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    bernProb p E = ∑ x, weight p x * (if E x then 1 else 0) := by
+  simp only [bernProb_eq_weight,mul_ite,mul_one,mul_zero]
+
+/-- Randomly pinning each coordinate to one changes the product bias to p+(1-p)q. -/
+theorem pinning_average (p q : ℝ) {m : ℕ} (E : (Fin m → Bool) → Bool) :
+    (∑ z : Fin m → Bool, weight p z * bernProb q (fun x => E (unionInputs z x))) =
+      bernProb (p+(1-p)*q) E := by
+  classical
+  let F : (Fin m → Bool) → ℝ := fun y => if E y then 1 else 0
+  have he := Equiv.sum_comp (pairEquiv (Fin m))
+    (fun z : (Fin m → Bool) × (Fin m → Bool) => weight p z.1 * weight q z.2 * F (unionInputs z.1 z.2))
+  have hp := sum_pushforward (I := Fin m) (A := Bool × Bool) (B := Bool)
+    (fun a => a.1 || a.2) (fun _ a => bitWeight p a.1 * bitWeight q a.2) F
+  calc
+    _ = ∑ z : (Fin m → Bool) × (Fin m → Bool), weight p z.1 * weight q z.2 * F (unionInputs z.1 z.2) := by
+      rw [Fintype.sum_prod_type]
+      simp only [prob_eq_indicator,mul_sum,mul_assoc,F]
+    _ = ∑ z : Fin m → Bool × Bool,
+        weight p (fun i => (z i).1) * weight q (fun i => (z i).2) * F (fun i => (z i).1 || (z i).2) := he.symm
+    _ = ∑ y : Fin m → Bool, weight (p+(1-p)*q) y * F y := by
+      simpa only [weight,prod_mul_distrib,or_bit_weight] using hp
+    _ = _ := (prob_eq_indicator _ E).symm
+
+theorem bitWeight_pos {p : ℝ} (hp : 0 < p) (hp' : p < 1) (b : Bool) : 0 < bitWeight p b := by
+  cases b
+  · simpa [bitWeight] using sub_pos.mpr hp'
+  · simpa [bitWeight] using hp
+
+theorem weight_pos {I : Type*} [Fintype I] {p : ℝ} (hp : 0 < p) (hp' : p < 1) (x : I → Bool) :
+    0 < weight p x := prod_pos (fun _ _ => bitWeight_pos hp hp' _)
+
+theorem exists_at_most_average {p : ℝ} (hp : 0 < p) (hp' : p < 1) {m : ℕ}
+    (f : (Fin m → Bool) → ℝ) (η : ℝ) (hf : (∑ x, weight p x*f x) ≤ η) :
+    ∃ x, f x ≤ η := by
+  classical
+  by_contra! hx
+  have hs : (∑ x : Fin m → Bool, weight p x*η) < ∑ x, weight p x*f x := by
+    apply sum_lt_sum
+    · intro x _
+      exact (mul_lt_mul_of_pos_left (hx x) (weight_pos hp hp' x)).le
+    · exact ⟨fun _ => false,mem_univ _,mul_lt_mul_of_pos_left (hx _) (weight_pos hp hp' _)⟩
+  rw [← sum_mul,weight_sum,one_mul] at hs
+  linarith
+
+/-- The probabilistic substitution step of the shifted coin distinguisher, Lemma 8.10. -/
+theorem exists_shifted_pinning {ε : ℝ} (hε₀ : 0 < ε) (hε : ε < 1/2) {m : ℕ}
+    (E : (Fin m → Bool) → Bool)
+    (hl : bernProb ((1-ε/(1+ε))/2) E ≤ 1/10)
+    (hh : bernProb ((1+ε/(1+ε))/2) (fun x => !E x) ≤ 1/10) :
+    ∃ z : Fin m → Bool,
+      bernProb (1/2-ε) (fun x => E (unionInputs z x)) ≤ 1/5 ∧
+      bernProb (1/2) (fun x => !E (unionInputs z x)) ≤ 1/5 := by
+  classical
+  let δ := ε/(1+ε)
+  have hden : 0 < 1+ε := by linarith
+  have hδ₀ : 0 < δ := div_pos hε₀ hden
+  have hδ : δ < 1 := (div_lt_one hden).mpr (by linarith)
+  have hbiasl : δ+(1-δ)*(1/2-ε) = (1-δ)/2 := by
+    dsimp only [δ]
+    field_simp [ne_of_gt hden]
+    <;> ring
+  have hbiash : δ+(1-δ)*(1/2) = (1+δ)/2 := by ring
+  let f : (Fin m → Bool) → ℝ := fun z =>
+    bernProb (1/2-ε) (fun x => E (unionInputs z x)) +
+      bernProb (1/2) (fun x => !E (unionInputs z x))
+  have havg : (∑ z, weight δ z*f z) ≤ 1/5 := by
+    dsimp only [f]
+    simp_rw [mul_add]
+    rw [sum_add_distrib,pinning_average δ (1/2-ε) E,pinning_average δ (1/2) (fun x => !E x),hbiasl,hbiash]
+    linarith
+  obtain ⟨z,hz⟩ := exists_at_most_average hδ₀ hδ f (1/5) havg
+  have hlow := prob_nonneg (show (0 : ℝ) ≤ 1/2-ε by linarith)
+    (show (1/2 : ℝ)-ε ≤ 1 by linarith) (fun x => E (unionInputs z x))
+  have hhigh := prob_nonneg (show (0 : ℝ) ≤ 1/2 by norm_num)
+    (show (1/2 : ℝ) ≤ 1 by norm_num) (fun x => !E (unionInputs z x))
+  exact ⟨z,by dsimp only [f] at hz; constructor <;> linarith⟩
+
+end SemAC02.BernoulliAlgebra
+end
+
+section
+-- Inlined Solutions.MonotoneBernoulli
+
+set_option maxHeartbeats 1000000
+
+open Finset SemAC02.BernoulliAlgebra
+
+namespace SemAC02.MonotoneBernoulli
+
+theorem eval_mono {V : Type} {C : Circ V} (hC : IsMonotoneCirc C) {x y : V → Bool}
+    (hxy : ∀ v, x v = true → y v = true) : C.eval x = true → C.eval y = true := by
+  induction hC with
+  | const b => simpa only [Circ.eval] using (id : b = true → b = true)
+  | lit v => simpa only [Circ.eval,↓reduceIte] using hxy v
+  | and cs hcs ih =>
+    simp only [Circ.eval,List.all_map,List.all_eq_true]
+    intro h c hc
+    exact ih c hc (h c hc)
+  | or cs hcs ih =>
+    simp only [Circ.eval,List.any_map,List.any_eq_true]
+    rintro ⟨c,hc,he⟩
+    exact ⟨c,hc,ih c hc he⟩
+
+theorem prob_event_mono {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) {m : ℕ}
+    (E F : (Fin m → Bool) → Bool) (hEF : ∀ x, E x = true → F x = true) :
+    bernProb p E ≤ bernProb p F := by
+  rw [bernProb_eq_weight,bernProb_eq_weight]
+  apply sum_le_sum
+  intro x _
+  cases he : E x
+  · simp only [he,Bool.false_eq_true,↓reduceIte]
+    split_ifs
+    · exact weight_nonneg hp hp' x
+    · exact le_rfl
+  · simp only [he,hEF x he,↓reduceIte,le_refl]
+
+theorem prob_bias_mono {p q : ℝ} (hp : 0 ≤ p) (hpq : p ≤ q) (hq : q ≤ 1) {m : ℕ}
+    (E : (Fin m → Bool) → Bool)
+    (hE : ∀ x y : Fin m → Bool, (∀ i, x i = true → y i = true) → E x = true → E y = true) :
+    bernProb p E ≤ bernProb q E := by
+  classical
+  have hp' : p ≤ 1 := hpq.trans hq
+  by_cases hone : p = 1
+  · have heq : p = q := by linarith
+    rw [heq]
+  have hplt : p < 1 := lt_of_le_of_ne hp' hone
+  have hden : 0 < 1-p := by linarith
+  let r := (q-p)/(1-p)
+  have hr : 0 ≤ r := div_nonneg (sub_nonneg.mpr hpq) hden.le
+  have hr' : r ≤ 1 := (div_le_iff₀ hden).mpr (by linarith)
+  have hbias : r+(1-r)*p = q := by
+    dsimp [r]
+    field_simp [hden.ne'] <;> ring
+  have hpin (z : Fin m → Bool) : bernProb p E ≤ bernProb p (fun x => E (unionInputs z x)) := by
+    apply prob_event_mono hp hp'
+    intro x hx
+    exact hE x (unionInputs z x) (by intro i hi; simp [unionInputs,hi]) hx
+  calc
+    bernProb p E = ∑ z : Fin m → Bool, weight r z * bernProb p E := by
+      rw [← sum_mul,weight_sum,one_mul]
+    _ ≤ ∑ z : Fin m → Bool, weight r z * bernProb p (fun x => E (unionInputs z x)) := by
+      apply sum_le_sum
+      intro z _
+      exact mul_le_mul_of_nonneg_left (hpin z) (weight_nonneg hr hr' z)
+    _ = bernProb (r+(1-r)*p) E := pinning_average r p E
+    _ = bernProb q E := by rw [hbias]
+
+theorem circuit_bias_mono {p q : ℝ} (hp : 0 ≤ p) (hpq : p ≤ q) (hq : q ≤ 1) {m : ℕ}
+    {C : Circ (Fin m)} (hC : IsMonotoneCirc C) :
+    bernProb p (fun x => C.eval x) ≤ bernProb q (fun x => C.eval x) :=
+  prob_bias_mono hp hpq hq _ (fun _ _ hxy => eval_mono hC hxy)
+
+end SemAC02.MonotoneBernoulli
+end
+
+section
+-- Inlined Solutions.CircuitSemantics
+
+open MvPolynomial AC02Frege
+open AC02Frege.BooleanAlgebra
+
+namespace SemAC02.CircuitSemantics
+
+theorem arithmetic_and (bs : List Bool) :
+    1 + (bs.map (fun b => 1 + (if b then 0 else 1 : ZMod 2))).prod =
+      if bs.all id then 0 else 1 := by
+  induction bs with
+  | nil => simp [CharTwo.add_self_eq_zero]
+  | cons b bs ih =>
+    cases b <;> simp only [List.map_cons, List.prod_cons, List.all_cons, id_eq,
+      Bool.false_and, Bool.true_and, Bool.false_eq_true, ↓reduceIte,
+      CharTwo.add_self_eq_zero, zero_mul, add_zero, one_mul] at *
+    exact ih
+
+theorem arithmetic_or (bs : List Bool) :
+    (bs.map (fun b : Bool => (if b then 0 else 1 : ZMod 2))).prod =
+      if bs.any id then 0 else 1 := by
+  induction bs with
+  | nil => simp
+  | cons b bs ih => cases b <;> simp [ih]
+
+theorem arithmetic_xor (bs : List Bool) :
+    1 + (bs.map (fun b => 1 + (if b then 0 else 1 : ZMod 2))).sum =
+      if bs.foldr Bool.xor false then 0 else 1 := by
+  induction bs with
+  | nil => simp
+  | cons b bs ih =>
+    cases h : bs.foldr Bool.xor false <;> cases b <;>
+      simp [h, List.map_cons, List.sum_cons, CharTwo.add_self_eq_zero] at ih ⊢ <;> simpa only [← add_assoc, CharTwo.add_self_eq_zero, zero_add] using ih
+
+theorem arithRaw_eval {V : Type} (A : Circ V) (X : V → Bool) :
+    eval (toF2 X) (arithRaw A) = if A.eval X then 0 else 1 := by
+  cases A with
+  | const b => cases b <;> simp [arithRaw, Circ.eval]
+  | lit v b => cases b <;> cases h : X v <;> simp [arithRaw, Circ.eval, toF2, h, CharTwo.add_self_eq_zero]
+  | and cs =>
+    simp only [arithRaw, map_add, map_one, map_list_prod, List.map_map, Function.comp_def]
+    have he : cs.map (fun c => 1 + eval (toF2 X) (arithRaw c)) =
+        (cs.map (fun c => c.eval X)).map (fun b => 1 + (if b then 0 else 1 : ZMod 2)) := by
+      simp only [List.map_map]
+      apply List.map_congr_left
+      intro c hc
+      rw [arithRaw_eval c X]
+      rfl
+    rw [he, arithmetic_and]
+    simp only [Circ.eval]
+  | or cs =>
+    simp only [arithRaw, map_list_prod, List.map_map, Function.comp_def]
+    have he : cs.map (fun c => eval (toF2 X) (arithRaw c)) =
+        (cs.map (fun c => c.eval X)).map (fun b : Bool => (if b then 0 else 1 : ZMod 2)) := by
+      simp only [List.map_map]
+      apply List.map_congr_left
+      intro c hc
+      rw [arithRaw_eval c X]
+      rfl
+    rw [he, arithmetic_or]
+    simp only [Circ.eval]
+  | xor cs =>
+    simp only [arithRaw, map_add, map_one, map_list_sum, List.map_map, Function.comp_def]
+    have he : cs.map (fun c => 1 + eval (toF2 X) (arithRaw c)) =
+        (cs.map (fun c => c.eval X)).map (fun b => 1 + (if b then 0 else 1 : ZMod 2)) := by
+      simp only [List.map_map]
+      apply List.map_congr_left
+      intro c hc
+      rw [arithRaw_eval c X]
+      rfl
+    rw [he, arithmetic_xor]
+    simp only [Circ.eval]
+termination_by A
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+@[simp] theorem arith_eval {V : Type} (A : Circ V) (X : V → Bool) :
+    eval (toF2 X) (arith A) = if A.eval X then 0 else 1 := by
+  rw [arith, eval_ml, arithRaw_eval]
+
+theorem eval_rename {V W : Type} (A : Circ V) (f : V → W) (X : W → Bool) :
+    (A.rename f).eval X = A.eval (fun v => X (f v)) := by
+  cases A with
+  | const b => simp [Circ.rename, Circ.flip, Circ.eval]
+  | lit v b => simp [Circ.rename, Circ.eval]
+  | and cs =>
+    simp only [Circ.rename, Circ.eval, List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_rename c f X
+  | or cs =>
+    simp only [Circ.rename, Circ.eval, List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_rename c f X
+  | xor cs =>
+    simp only [Circ.rename, Circ.eval, List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_rename c f X
+
+termination_by A
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem eval_flip {V : Type} (A : Circ V) (X : V → Bool) :
+    A.flip.eval X = A.eval (fun v => !X v) := by
+  cases A with
+  | const b => simp [Circ.rename, Circ.flip, Circ.eval]
+  | lit v b => cases b <;> simp [Circ.flip, Circ.eval]
+  | and cs =>
+    simp only [Circ.flip, Circ.eval, List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_flip c X
+  | or cs =>
+    simp only [Circ.flip, Circ.eval, List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_flip c X
+  | xor cs =>
+    simp only [Circ.flip, Circ.eval, List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_flip c X
+
+termination_by A
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem eval_orChildren {V : Type} (A : Circ V) (X : V → Bool) :
+    (A.orChildren.map (fun c => c.eval X)).any id = A.eval X := by
+  cases A <;> simp [Circ.orChildren, Circ.eval]
+
+theorem eval_andChildren {V : Type} (A : Circ V) (X : V → Bool) :
+    (A.andChildren.map (fun c => c.eval X)).all id = A.eval X := by
+  cases A <;> simp [Circ.andChildren, Circ.eval]
+
+theorem eval_liftAxiom {n m : ℕ} (g : Circ (Fin m))
+    (C : LiftSAParity.Clause (Fin n))
+    (α : Fin n × Bool → Fin g.andChildren.length) (X : Fin n × Fin m → Bool) :
+    (liftAxiom g C α).eval X = true ↔
+      ∃ l ∈ C, (gadgetH g l.2 (α l)).eval (fun j => X (l.1, j)) = true := by
+  classical
+  simp only [liftAxiom, Circ.eval, List.map_flatMap, List.any_flatMap]
+  simp only [List.map_map, Function.comp_def, eval_rename]
+  simp only [eval_orChildren, List.any_eq_true, Finset.mem_toList]
+
+
+end SemAC02.CircuitSemantics
+end
+
+section
+-- Inlined Solutions.MonotoneCircuitDual
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.MonotoneCircuitDual
+
+def dual {V : Type} : Circ V → Circ V
+  | .const b => .const (!b)
+  | .lit v b => .lit v b
+  | .and cs => .or (cs.map dual)
+  | .or cs => .and (cs.map dual)
+  | .xor cs => .xor (cs.map dual)
+
+theorem dual_dual {V : Type} (C : Circ V) : dual (dual C) = C := by
+  cases C with
+  | const b => simp [dual]
+  | lit v b => simp [dual,Circ.depth,Circ.treeSize]
+  | and cs =>
+    simp only [dual,List.map_map]
+    congr 1
+    calc
+      cs.map (dual ∘ dual) = cs.map (fun c => c) := by
+        apply List.map_congr_left
+        intro c hc
+        exact dual_dual c
+      _ = cs := List.map_id' _
+  | or cs =>
+    simp only [dual,List.map_map]
+    congr 1
+    calc
+      cs.map (dual ∘ dual) = cs.map (fun c => c) := by
+        apply List.map_congr_left
+        intro c hc
+        exact dual_dual c
+      _ = cs := List.map_id' _
+  | xor cs =>
+    simp only [dual,List.map_map]
+    congr 1
+    calc
+      cs.map (dual ∘ dual) = cs.map (fun c => c) := by
+        apply List.map_congr_left
+        intro c hc
+        exact dual_dual c
+      _ = cs := List.map_id' _
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem dual_injective {V : Type} : Function.Injective (@dual V) :=
+  Function.LeftInverse.injective dual_dual
+
+@[simp] theorem isAnd_dual {V : Type} (C : Circ V) : (dual C).isAnd = C.isOr := by cases C <;> simp [dual,Circ.isAnd,Circ.isOr,Circ.isXor]
+@[simp] theorem isOr_dual {V : Type} (C : Circ V) : (dual C).isOr = C.isAnd := by cases C <;> simp [dual,Circ.isAnd,Circ.isOr,Circ.isXor]
+@[simp] theorem isXor_dual {V : Type} (C : Circ V) : (dual C).isXor = C.isXor := by cases C <;> simp [dual,Circ.isAnd,Circ.isOr,Circ.isXor]
+
+theorem monotone_dual {V : Type} {C : Circ V} (hC : IsMonotoneCirc C) : IsMonotoneCirc (dual C) := by
+  induction hC with
+  | const b => simpa only [dual] using IsMonotoneCirc.const (V := V) (!b)
+  | lit v => simpa only [dual] using IsMonotoneCirc.lit v
+  | and cs hcs ih =>
+    rw [dual]
+    apply IsMonotoneCirc.or
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+    exact ih c' hc'
+  | or cs hcs ih =>
+    rw [dual]
+    apply IsMonotoneCirc.and
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+    exact ih c' hc'
+
+theorem reduced_dual {V : Type} {C : Circ V} (hC : IsReduced C) : IsReduced (dual C) := by
+  induction hC with
+  | const b => simpa only [dual] using IsReduced.const (V := V) (!b)
+  | lit v b => simpa only [dual] using IsReduced.lit v b
+  | and cs hn htype hred ih =>
+    rw [dual]
+    apply IsReduced.or
+    · exact hn.map dual_injective
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isOr_dual] using htype c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+  | or cs hn htype hred ih =>
+    rw [dual]
+    apply IsReduced.and
+    · exact hn.map dual_injective
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isAnd_dual] using htype c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+  | xor cs hn htype hred ih =>
+    rw [dual]
+    apply IsReduced.xor
+    · exact hn.map dual_injective
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isXor_dual] using htype c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+
+theorem depth_dual {V : Type} (C : Circ V) : (dual C).depth = C.depth := by
+  cases C with
+  | const b => simp [dual,Circ.depth,Circ.treeSize,Circ.eval]
+  | lit v b => simp [dual,Circ.depth,Circ.treeSize]
+  | and cs =>
+    have he : cs.map (fun c => (dual c).depth) = cs.map Circ.depth := by
+      apply List.map_congr_left
+      intro c hc
+      exact depth_dual c
+    simpa only [dual,Circ.depth,List.map_map,Function.comp_def] using
+      congrArg (fun l : List ℕ => 1+l.foldr max 0) he
+  | or cs =>
+    have he : cs.map (fun c => (dual c).depth) = cs.map Circ.depth := by
+      apply List.map_congr_left
+      intro c hc
+      exact depth_dual c
+    simpa only [dual,Circ.depth,List.map_map,Function.comp_def] using
+      congrArg (fun l : List ℕ => 1+l.foldr max 0) he
+  | xor cs =>
+    have he : cs.map (fun c => (dual c).depth) = cs.map Circ.depth := by
+      apply List.map_congr_left
+      intro c hc
+      exact depth_dual c
+    simpa only [dual,Circ.depth,List.map_map,Function.comp_def] using
+      congrArg (fun l : List ℕ => 1+l.foldr max 0) he
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem size_dual {V : Type} (C : Circ V) : (dual C).treeSize = C.treeSize := by
+  cases C with
+  | const b => simp [dual,Circ.depth,Circ.treeSize,Circ.eval]
+  | lit v b => simp [dual,Circ.depth,Circ.treeSize]
+  | and cs =>
+    have he : cs.map (fun c => (dual c).treeSize) = cs.map Circ.treeSize := by
+      apply List.map_congr_left
+      intro c hc
+      exact size_dual c
+    simpa only [dual,Circ.treeSize,List.map_map,Function.comp_def] using congrArg (fun l : List ℕ => 1+l.sum) he
+  | or cs =>
+    have he : cs.map (fun c => (dual c).treeSize) = cs.map Circ.treeSize := by
+      apply List.map_congr_left
+      intro c hc
+      exact size_dual c
+    simpa only [dual,Circ.treeSize,List.map_map,Function.comp_def] using congrArg (fun l : List ℕ => 1+l.sum) he
+  | xor cs =>
+    have he : cs.map (fun c => (dual c).treeSize) = cs.map Circ.treeSize := by
+      apply List.map_congr_left
+      intro c hc
+      exact size_dual c
+    simpa only [dual,Circ.treeSize,List.map_map,Function.comp_def] using congrArg (fun l : List ℕ => 1+l.sum) he
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem any_not (bs : List Bool) : (bs.map Bool.not).any id = !(bs.all id) := by
+  induction bs with
+  | nil => rfl
+  | cons b bs ih => cases b <;> simp [ih]
+
+theorem all_not (bs : List Bool) : (bs.map Bool.not).all id = !(bs.any id) := by
+  induction bs with
+  | nil => rfl
+  | cons b bs ih => cases b <;> simp [ih]
+
+theorem eval_dual {V : Type} {C : Circ V} (hC : IsMonotoneCirc C) (x : V → Bool) :
+    (dual C).eval x = !(C.eval (fun i => !x i)) := by
+  induction hC with
+  | const b => simp [dual,Circ.depth,Circ.treeSize,Circ.eval]
+  | lit v => simp [dual,Circ.eval]
+  | and cs hcs ih =>
+    have he : cs.map (fun c => (dual c).eval x) =
+        (cs.map (fun c => c.eval (fun i => !x i))).map Bool.not := by
+      rw [List.map_map]
+      apply List.map_congr_left
+      intro c hc
+      exact ih c hc
+    simp only [dual,Circ.eval,List.map_map,Function.comp_def]
+    rw [he]
+    exact any_not _
+  | or cs hcs ih =>
+    have he : cs.map (fun c => (dual c).eval x) =
+        (cs.map (fun c => c.eval (fun i => !x i))).map Bool.not := by
+      rw [List.map_map]
+      apply List.map_congr_left
+      intro c hc
+      exact ih c hc
+    simp only [dual,Circ.eval,List.map_map,Function.comp_def]
+    rw [he]
+    exact all_not _
+
+end SemAC02.MonotoneCircuitDual
+end
+
+section
+-- Inlined Solutions.CircuitComplement
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CircuitComplement
+
+open SemAC02.MonotoneCircuitDual
+
+theorem flip_flip {V : Type} (C : Circ V) : C.flip.flip = C := by
+  cases C with
+  | const b => simp [Circ.flip]
+  | lit v b => simp [Circ.flip]
+  | and cs =>
+    simp only [Circ.flip,List.map_map]
+    congr 1
+    calc
+      cs.map (Circ.flip ∘ Circ.flip) = cs.map id := by
+        apply List.map_congr_left
+        intro c hc
+        exact flip_flip c
+      _ = cs := List.map_id _
+  | or cs =>
+    simp only [Circ.flip,List.map_map]
+    congr 1
+    calc
+      cs.map (Circ.flip ∘ Circ.flip) = cs.map id := by
+        apply List.map_congr_left
+        intro c hc
+        exact flip_flip c
+      _ = cs := List.map_id _
+  | xor cs =>
+    simp only [Circ.flip,List.map_map]
+    congr 1
+    calc
+      cs.map (Circ.flip ∘ Circ.flip) = cs.map id := by
+        apply List.map_congr_left
+        intro c hc
+        exact flip_flip c
+      _ = cs := List.map_id _
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem flip_injective {V : Type} : Function.Injective (@Circ.flip V) :=
+  Function.LeftInverse.injective flip_flip
+
+@[simp] theorem isAnd_flip {V : Type} (C : Circ V) : C.flip.isAnd = C.isAnd := by
+  cases C <;> simp [Circ.flip,Circ.isAnd]
+@[simp] theorem isOr_flip {V : Type} (C : Circ V) : C.flip.isOr = C.isOr := by
+  cases C <;> simp [Circ.flip,Circ.isOr]
+@[simp] theorem isXor_flip {V : Type} (C : Circ V) : C.flip.isXor = C.isXor := by
+  cases C <;> simp [Circ.flip,Circ.isXor]
+
+theorem reduced_flip {V : Type} {C : Circ V} (hC : IsReduced C) : IsReduced C.flip := by
+  induction hC with
+  | const b => rw [Circ.flip]; constructor
+  | lit v b => rw [Circ.flip]; constructor
+  | and cs hn ht hr ih =>
+    rw [Circ.flip]
+    apply IsReduced.and _ (hn.map flip_injective)
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isAnd_flip] using ht c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+  | or cs hn ht hr ih =>
+    rw [Circ.flip]
+    apply IsReduced.or _ (hn.map flip_injective)
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isOr_flip] using ht c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+  | xor cs hn ht hr ih =>
+    rw [Circ.flip]
+    apply IsReduced.xor _ (hn.map flip_injective)
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isXor_flip] using ht c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+
+theorem depth_flip {V : Type} (C : Circ V) : C.flip.depth = C.depth := by
+  cases C with
+  | const b => simp [Circ.flip,Circ.depth]
+  | lit v b => simp [Circ.flip,Circ.depth]
+  | and cs =>
+    simp only [Circ.flip,Circ.depth,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => depth_flip c)
+  | or cs =>
+    simp only [Circ.flip,Circ.depth,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => depth_flip c)
+  | xor cs =>
+    simp only [Circ.flip,Circ.depth,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => depth_flip c)
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem treeSize_flip {V : Type} (C : Circ V) : C.flip.treeSize = C.treeSize := by
+  cases C with
+  | const b => simp [Circ.flip,Circ.treeSize]
+  | lit v b => simp [Circ.flip,Circ.treeSize]
+  | and cs =>
+    simp only [Circ.flip,Circ.treeSize,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => treeSize_flip c)
+  | or cs =>
+    simp only [Circ.flip,Circ.treeSize,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => treeSize_flip c)
+  | xor cs =>
+    simp only [Circ.flip,Circ.treeSize,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => treeSize_flip c)
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem noXor_flip {V : Type} {C : Circ V} (hC : NoXor C) : NoXor C.flip := by
+  induction hC with
+  | const b => rw [Circ.flip]; constructor
+  | lit v b => rw [Circ.flip]; constructor
+  | and cs hcs ih =>
+    rw [Circ.flip]
+    apply NoXor.and
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+    exact ih c' hc'
+  | or cs hcs ih =>
+    rw [Circ.flip]
+    apply NoXor.or
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+    exact ih c' hc'
+
+theorem noXor_of_monotone {V : Type} {C : Circ V} (hC : IsMonotoneCirc C) : NoXor C := by
+  induction hC with
+  | const b => constructor
+  | lit v => constructor
+  | and cs hcs ih => exact .and cs ih
+  | or cs hcs ih => exact .or cs ih
+
+def negate {V : Type} (C : Circ V) : Circ V := (dual C).flip
+
+theorem eval_negate {V : Type} {C : Circ V} (hC : IsMonotoneCirc C) (x : V → Bool) :
+    (negate C).eval x = !C.eval x := by
+  simp only [negate,CircuitSemantics.eval_flip,eval_dual hC,Bool.not_not]
+
+theorem depth_negate {V : Type} (C : Circ V) : (negate C).depth = C.depth := by
+  rw [negate,depth_flip,depth_dual]
+
+theorem size_negate {V : Type} (C : Circ V) : (negate C).treeSize = C.treeSize := by
+  rw [negate,treeSize_flip,size_dual]
+
+theorem reduced_negate {V : Type} {C : Circ V} (hC : IsReduced C) : IsReduced (negate C) :=
+  reduced_flip (reduced_dual hC)
+
+theorem noXor_negate {V : Type} {C : Circ V} (hC : IsMonotoneCirc C) : NoXor (negate C) :=
+  noXor_flip (noXor_of_monotone (monotone_dual hC))
+
+end SemAC02.CircuitComplement
+end
+
+section
+-- Inlined Solutions.GadgetBlockProbability
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.BernoulliAlgebra ProofComplexity.SupportProbability
+
+namespace SemAC02.GadgetBlockProbability
+
+def badBlocks {n m : ℕ} (C : Circ (Fin m)) (x : Fin n × Fin m → Bool) : Bool :=
+  !(decide (∀ i : Fin n, C.eval (fun j => x (i,j)) = false))
+
+def badSupport {n m : ℕ} (C : Circ (Fin m)) (S : Finset (Fin n × Fin m)) : Bool := badBlocks C (point S)
+
+theorem badBlocks_probability {n m : ℕ} (C : Circ (Fin m)) (p : ℝ) :
+    BernoulliProduct.prob p (fun x : Fin n × Fin m → Bool => badBlocks C x) =
+      1-(1-bernProb p (fun x => C.eval x))^n := by
+  simp only [badBlocks]
+  rw [BernoulliProduct.prob_complement]
+  have h := BernoulliProduct.prob_all_copies (t := n) (m := m) p (fun x => !C.eval x)
+  rw [prob_compl] at h
+  have he : BernoulliProduct.prob p
+      (fun x : Fin n × Fin m → Bool => decide (∀ i : Fin n, C.eval (fun j => x (i,j)) = false)) =
+      (1-bernProb p (fun x => C.eval x))^n := by
+    convert h using 1
+    congr 1
+    funext x
+    apply Bool.eq_iff_iff.mpr
+    simp
+  rw [he]
+
+theorem badBlocks_le {n m : ℕ} {C : Circ (Fin m)} (hC : IsMonotoneCirc C)
+    {p q : ℝ} (hp : 0 ≤ p) (hpq : p ≤ q) (hq : q ≤ 1) :
+    BernoulliProduct.prob p (fun x : Fin n × Fin m → Bool => badBlocks C x) ≤
+      (n : ℝ)*bernProb q (fun x => C.eval x) := by
+  rw [badBlocks_probability]
+  have hp' : p ≤ 1 := hpq.trans hq
+  apply (CoinDepthTwoNumerics.union_power_bound (prob_nonneg hp hp' _) (prob_le_one hp hp' _) n).trans
+  exact mul_le_mul_of_nonneg_left (MonotoneBernoulli.circuit_bias_mono hp hpq hq hC) (Nat.cast_nonneg n)
+
+theorem badSupport_support {n m : ℕ} (C : Circ (Fin m)) (x : Fin n × Fin m → Bool) :
+    badSupport C (support x) = badBlocks C x := by rw [badSupport,point_support]
+
+theorem good_support_iff {n m : ℕ} {C : Circ (Fin m)} (hC : IsMonotoneCirc C) (S : Finset (Fin n × Fin m)) :
+    IsLnSupport (fun x => (CircuitComplement.negate C).eval x) S ↔ badSupport C S = false := by
+  have he (i : Fin n) : (fun j => point S (i,j)) = indicatorVec (blockSection S i) := by
+    funext j
+    simp [point,indicatorVec,blockSection]
+  unfold IsLnSupport badSupport badBlocks
+  simp_rw [he]
+  simp only [CircuitComplement.eval_negate hC]
+  apply Iff.intro
+  · intro h
+    have hfalse : ∀ i : Fin n, C.eval (indicatorVec (blockSection S i)) = false := by
+      intro i
+      have hi := h i
+      cases hx : C.eval (indicatorVec (blockSection S i)) <;> simp_all
+    simp only [hfalse,implies_true,decide_true,Bool.not_true]
+  · intro h i
+    have hf : ∀ i : Fin n, C.eval (indicatorVec (blockSection S i)) = false := by
+      have hh : decide (∀ i : Fin n, C.eval (indicatorVec (blockSection S i)) = false) = true := by
+        cases he : decide (∀ i : Fin n, C.eval (indicatorVec (blockSection S i)) = false) <;> simp_all
+      exact of_decide_eq_true hh
+    rw [hf i]
+    rfl
+
+end SemAC02.GadgetBlockProbability
+end
+
+section
+-- Inlined Solutions.GadgetRetention
+
+set_option maxHeartbeats 2000000
+
+open ProofComplexity.LowSupportRetention SemAC02.GadgetBlockProbability
+
+namespace SemAC02.GadgetRetention
+
+theorem dimension_bound {n m k : ℕ} (hn : 1 ≤ n) (hm : 1 ≤ m) {C : Circ (Fin m)}
+    (hC : IsMonotoneCirc C) {q : ℝ} (hq : 0 ≤ q) (hq' : q ≤ 1/2)
+    (hk : (k : ℝ) ≤ q*((n*m : ℕ) : ℝ)) :
+    1-(((n*m : ℕ) : ℝ)+1)*(n : ℝ)*bernProb q (fun x => C.eval x) ≤
+      (Module.finrank (ZMod 2) (multiplierSpace (fun x => (CircuitComplement.negate C).eval x) n k) : ℝ)/
+        (Hn (n*m) k : ℝ) := by
+  let V := Fin n × Fin m
+  let N := n*m
+  let E := fun S : Finset V => badSupport C S
+  have hcard : Fintype.card V = N := by simp only [V,N,Fintype.card_prod,Fintype.card_fin]
+  have hN : (0 : ℝ) < (N : ℝ) := by
+    have hp : 0 < N := Nat.mul_pos (by omega) (by omega)
+    exact_mod_cast hp
+  have hkN : k < N := by
+    have hkr : (k : ℝ) < (N : ℝ) := by
+      calc
+        _ ≤ q*(N : ℝ) := hk
+        _ < 1*(N : ℝ) := mul_lt_mul_of_pos_right (by linarith : q < 1) hN
+        _ = _ := one_mul _
+    exact_mod_cast hkr
+  have hpq : (k : ℝ)/(N : ℝ) ≤ q := (div_le_iff₀ hN).mpr hk
+  have hp : 0 ≤ (k : ℝ)/(N : ℝ) := div_nonneg (Nat.cast_nonneg _) hN.le
+  have hbad : BernoulliProduct.prob ((k : ℝ)/(Fintype.card V : ℝ))
+      (fun x : V → Bool => E (ProofComplexity.SupportProbability.support x)) ≤
+      (n : ℝ)*bernProb q (fun x => C.eval x) := by
+    rw [hcard]
+    simpa only [V,E,badSupport_support] using (badBlocks_le (n := n) hC hp hpq (by linarith : q ≤ 1))
+  have hret := retention k E (by simpa only [hcard] using hkN)
+    (by rw [hcard]; exact hpq.trans hq') hbad
+  have heq : goodLow k E = Finset.univ.filter (fun S : Finset (Fin n × Fin m) =>
+      S.card ≤ k ∧ IsLnSupport (fun x => (CircuitComplement.negate C).eval x) S) := by
+    ext S
+    simp only [goodLow,E,Finset.mem_filter,Finset.mem_univ,true_and,good_support_iff hC]
+  have hdim := MultiplierSupportCount.finrank_multiplier (fun x => (CircuitComplement.negate C).eval x) n k
+  rw [← heq] at hdim
+  rw [hcard,← hdim] at hret
+  simpa only [N,mul_assoc] using hret
+
+end SemAC02.GadgetRetention
+end
+
+section
+-- Inlined Solutions.BernoulliTail
+
+set_option maxHeartbeats 2000000
+
+open Finset SemAC02.BernoulliAlgebra
+
+namespace SemAC02.BernoulliTail
+
+def bitValue (b : Bool) : ℝ := if b then 1 else 0
+
+theorem weight_eq_sum {m : ℕ} (x : Fin m → Bool) :
+    (hammingWeight x : ℝ) = ∑ i, bitValue (x i) := by
+  simp [hammingWeight,bitValue]
+
+theorem exp_weight {m : ℕ} (θ : ℝ) (x : Fin m → Bool) :
+    Real.exp (θ*(hammingWeight x : ℝ)) = ∏ i, Real.exp (θ*bitValue (x i)) := by
+  rw [weight_eq_sum,mul_sum,Real.exp_sum]
+
+theorem moment_formula {m : ℕ} (p θ : ℝ) :
+    (∑ x : Fin m → Bool, weight p x*Real.exp (θ*(hammingWeight x : ℝ))) =
+      (1-p+p*Real.exp θ)^m := by
+  simp_rw [exp_weight,weight,← prod_mul_distrib]
+  rw [← Fintype.prod_sum (fun _ : Fin m => fun b : Bool => bitWeight p b*Real.exp (θ*bitValue b))]
+  simp [bitWeight,bitValue,add_comm]
+
+theorem moment_markov {m : ℕ} {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) {θ : ℝ} (hθ : 0 ≤ θ)
+    (t : ℝ) (E : (Fin m → Bool) → Bool)
+    (hE : ∀ x, E x = true → t ≤ (hammingWeight x : ℝ)) :
+    bernProb p E ≤ Real.exp (-θ*t)*(1-p+p*Real.exp θ)^m := by
+  have hs : bernProb p E*Real.exp (θ*t) ≤ (1-p+p*Real.exp θ)^m := by
+    rw [bernProb_eq_weight,sum_mul,← moment_formula]
+    apply sum_le_sum
+    intro x _
+    cases he : E x
+    · simp only [he,Bool.false_eq_true,↓reduceIte,zero_mul]
+      exact mul_nonneg (weight_nonneg hp hp' x) (Real.exp_pos _).le
+    · simp only [he,↓reduceIte]
+      exact mul_le_mul_of_nonneg_left (Real.exp_le_exp.mpr
+        (mul_le_mul_of_nonneg_left (hE x he) hθ)) (weight_nonneg hp hp' x)
+  calc
+    _ = (bernProb p E*Real.exp (θ*t))*Real.exp (-θ*t) := by
+      rw [mul_assoc,← Real.exp_add,show θ*t+(-θ*t) = 0 by ring,Real.exp_zero,mul_one]
+    _ ≤ (1-p+p*Real.exp θ)^m*Real.exp (-θ*t) :=
+      mul_le_mul_of_nonneg_right hs (Real.exp_pos _).le
+    _ = _ := mul_comm _ _
+
+theorem exp_quadratic_bound {θ : ℝ} (hθ : 0 ≤ θ) (hθ' : θ ≤ 1/2) :
+    Real.exp θ ≤ 1+θ+2*θ^2 := by
+  apply (Real.exp_bound_div_one_sub_of_interval hθ (by linarith : θ < 1)).trans
+  apply (div_le_iff₀ (by linarith : 0 < 1-θ)).mpr
+  nlinarith [mul_nonneg (sq_nonneg θ) (by linarith : 0 ≤ 1-2*θ)]
+
+theorem moment_bound {m : ℕ} {p θ : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1)
+    (hθ : 0 ≤ θ) (hθ' : θ ≤ 1/2) :
+    (1-p+p*Real.exp θ)^m ≤ Real.exp ((m : ℝ)*(p*θ+2*p*θ^2)) := by
+  have hb : 1-p+p*Real.exp θ ≤ Real.exp (p*θ+2*p*θ^2) := by
+    have he := mul_le_mul_of_nonneg_left (exp_quadratic_bound hθ hθ') hp
+    linarith [Real.add_one_le_exp (p*θ+2*p*θ^2)]
+  calc
+    _ ≤ Real.exp (p*θ+2*p*θ^2)^m := pow_le_pow_left₀
+      (add_nonneg (sub_nonneg.mpr hp') (mul_nonneg hp (Real.exp_pos _).le)) hb m
+    _ = _ := (Real.exp_nat_mul _ _).symm
+
+/-- A finite-sum Chernoff estimate; its constant suffices for the covering-gadget construction. -/
+theorem upper_tail {m : ℕ} {p δ : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1/2)
+    (hδ : 0 < δ) (hδ' : δ ≤ 1) (E : (Fin m → Bool) → Bool)
+    (hE : ∀ x, E x = true → (p+δ)*(m : ℝ) ≤ (hammingWeight x : ℝ)) :
+    bernProb p E ≤ Real.exp (-((m : ℝ)*δ^2/4)) := by
+  let θ := δ/2
+  have hθ : 0 ≤ θ := by dsimp [θ]; positivity
+  have hθ' : θ ≤ 1/2 := by dsimp [θ]; linarith
+  calc
+    _ ≤ Real.exp (-θ*((p+δ)*(m : ℝ)))*(1-p+p*Real.exp θ)^m :=
+      moment_markov hp (by linarith : p ≤ 1) hθ _ E hE
+    _ ≤ Real.exp (-θ*((p+δ)*(m : ℝ)))*Real.exp ((m : ℝ)*(p*θ+2*p*θ^2)) :=
+      mul_le_mul_of_nonneg_left (moment_bound hp (by linarith : p ≤ 1) hθ hθ') (Real.exp_pos _).le
+    _ = Real.exp ((m : ℝ)*(2*p*θ^2-θ*δ)) := by rw [← Real.exp_add]; congr 1; ring
+    _ ≤ _ := by
+      apply Real.exp_le_exp.mpr
+      have hsmall : 2*p*θ^2-θ*δ ≤ -δ^2/4 := by
+        dsimp [θ]
+        nlinarith [mul_nonneg (by linarith : 0 ≤ 1-2*p) (sq_nonneg δ)]
+      have h := mul_le_mul_of_nonneg_left hsmall (Nat.cast_nonneg m)
+      nlinarith
+
+theorem covering_tail {m : ℕ} {ε : ℝ} (hε : 0 < ε) (hε' : ε ≤ 1/2) :
+    bernProb (1/2-ε)
+      (fun x : Fin m → Bool => decide ((1/2-3*ε/4)*(m : ℝ) < (hammingWeight x : ℝ))) ≤
+      Real.exp (-((m : ℝ)*ε^2/64)) := by
+  have h := upper_tail (p := 1/2-ε) (δ := ε/4) (by linarith) (by linarith)
+    (by positivity) (by linarith) (fun x : Fin m → Bool =>
+      decide ((1/2-3*ε/4)*(m : ℝ) < (hammingWeight x : ℝ))) (by
+        intro x hx
+        have ht := of_decide_eq_true hx
+        nlinarith)
+  convert h using 1 <;> congr 1 <;> ring
+
+end SemAC02.BernoulliTail
+end
+
+section
+-- Inlined Solutions.GadgetComplement
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CircuitComplement SemAC02.MonotoneCircuitDual
+
+namespace SemAC02.GadgetComplement
+
+theorem bool_true_of_le {a b : Bool} (hab : a ≤ b) (ha : a = true) : b = true := by
+  exact (Bool.le_iff_imp.mp hab) ha
+
+theorem antitone_negate {m : ℕ} {C : Circ (Fin m)} (hC : IsMonotoneCirc C) :
+    Antitone (fun x => (negate C).eval x) := by
+  intro x y hxy
+  simp only [eval_negate hC]
+  have hi := MonotoneBernoulli.eval_mono hC (fun v hv => bool_true_of_le (hxy v) hv)
+  cases hx : C.eval x <;> cases hy : C.eval y <;> simp_all
+
+theorem complementary_weights {m : ℕ} (x : Fin m → Bool) :
+    (hammingWeight x : ℝ)+(hammingWeight (fun i => !x i) : ℝ) = (m : ℝ) := by
+  rw [BernoulliTail.weight_eq_sum,BernoulliTail.weight_eq_sum,← Finset.sum_add_distrib]
+  calc
+    _ = ∑ _ : Fin m, (1 : ℝ) := by
+      apply Finset.sum_congr rfl
+      intro i _
+      cases x i <;> simp [BernoulliTail.bitValue]
+    _ = _ := by simp
+
+theorem disjoint_negate {m : ℕ} {C : Circ (Fin m)} (hC : IsMonotoneCirc C)
+    (hcov : ∀ x : Fin m → Bool, (m : ℝ)/2 ≤ (hammingWeight x : ℝ) → C.eval x = true) :
+    ∀ x : Fin m → Bool, ¬((negate C).eval x = true ∧ (negate C).eval (fun i => !x i) = true) := by
+  intro x ⟨hx,hxc⟩
+  have hf : C.eval x = false := by cases he : C.eval x <;> simp_all [eval_negate hC]
+  have hfc : C.eval (fun i => !x i) = false := by
+    cases he : C.eval (fun i => !x i) <;> simp_all [eval_negate hC]
+  by_cases hh : (m : ℝ)/2 ≤ (hammingWeight x : ℝ)
+  · have h := hcov x hh
+    rw [hf] at h
+    contradiction
+  · have hc : (m : ℝ)/2 ≤ (hammingWeight (fun i => !x i) : ℝ) := by
+      have h := complementary_weights x
+      linarith
+    have h := hcov (fun i => !x i) hc
+    rw [hfc] at h
+    contradiction
+
+theorem gadget_of_covering {m d : ℕ} {C : Circ (Fin m)} (hC : IsMonotoneCirc C)
+    (hR : IsReduced C) (hdepth : C.depth ≤ d+1) (hroot : ∃ cs, C = Circ.or cs)
+    (hcov : ∀ x : Fin m → Bool, (m : ℝ)/2 ≤ (hammingWeight x : ℝ) → C.eval x = true) :
+    IsGadget d (negate C) := by
+  obtain ⟨cs,hcs⟩ := hroot
+  have hne : cs ≠ [] := by
+    intro he
+    have hw : (m : ℝ)/2 ≤ (hammingWeight (fun _ : Fin m => true) : ℝ) := by
+      have hones : hammingWeight (fun _ : Fin m => true) = m := by simp [hammingWeight]
+      rw [hones]
+      linarith [Nat.cast_nonneg (α := ℝ) m]
+    have h := hcov (fun _ => true) hw
+    simp only [hcs,he,Circ.eval,List.map_nil,List.any_nil,Bool.false_eq_true] at h
+  refine ⟨noXor_negate hC,reduced_negate hR,?_,?_,antitone_negate hC,disjoint_negate hC hcov⟩
+  · exact (depth_negate C).le.trans hdepth
+  · refine ⟨(cs.map dual).map Circ.flip,?_,?_⟩
+    · simpa using hne
+    · rw [negate,hcs,dual,Circ.flip]
+
+end SemAC02.GadgetComplement
+end
+
+section
+-- Inlined Solutions.MonotoneCircuitPinning
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.MonotoneCircuitPinning
+
+open Classical in
+noncomputable def pin {V : Type} (z : V → Bool) : Circ V → Circ V
+  | .const b => .const b
+  | .lit v b => if z v then .const b else .lit v b
+  | .and cs => .and (cs.map (pin z)).dedup
+  | .or cs => .or (cs.map (pin z)).dedup
+  | .xor cs => .xor (cs.map (pin z))
+
+@[simp] theorem isAnd_pin {V : Type} (z : V → Bool) (C : Circ V) : (pin z C).isAnd = C.isAnd := by
+  cases C with
+  | const b => simp only [pin,Circ.isAnd]
+  | lit v b => rw [pin]; split_ifs <;> rfl
+  | and cs => rw [pin]; rfl
+  | or cs => rw [pin]; rfl
+  | xor cs => rw [pin]; rfl
+
+@[simp] theorem isOr_pin {V : Type} (z : V → Bool) (C : Circ V) : (pin z C).isOr = C.isOr := by
+  cases C with
+  | const b => simp only [pin,Circ.isOr]
+  | lit v b => rw [pin]; split_ifs <;> rfl
+  | and cs => rw [pin]; rfl
+  | or cs => rw [pin]; rfl
+  | xor cs => rw [pin]; rfl
+
+theorem monotone_pin {V : Type} (z : V → Bool) {C : Circ V} (hC : IsMonotoneCirc C) : IsMonotoneCirc (pin z C) := by
+  classical
+  induction hC with
+  | const b => rw [pin]; exact .const _
+  | lit v => rw [pin]; split <;> constructor
+  | and cs hcs ih =>
+    rw [pin]
+    apply IsMonotoneCirc.and
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+    exact ih c' hc'
+  | or cs hcs ih =>
+    rw [pin]
+    apply IsMonotoneCirc.or
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+    exact ih c' hc'
+
+theorem reduced_pin {V : Type} (z : V → Bool) {C : Circ V}
+    (hC : IsMonotoneCirc C) (hR : IsReduced C) : IsReduced (pin z C) := by
+  classical
+  induction hC with
+  | const b => rw [pin]; exact .const _
+  | lit v => rw [pin]; split <;> constructor
+  | and cs hcs ih =>
+    cases hR with
+    | and _ _ htype hred =>
+      rw [pin]
+      apply IsReduced.and
+      · exact List.nodup_dedup _
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        simpa only [isAnd_pin] using htype c' hc'
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        exact ih c' hc' (hred c' hc')
+  | or cs hcs ih =>
+    cases hR with
+    | or _ _ htype hred =>
+      rw [pin]
+      apply IsReduced.or
+      · exact List.nodup_dedup _
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        simpa only [isOr_pin] using htype c' hc'
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        exact ih c' hc' (hred c' hc')
+
+theorem all_dedup {α : Type*} [DecidableEq α] (cs : List α) (f : α → Bool) : cs.dedup.all f = cs.all f := by
+  apply Bool.eq_iff_iff.mpr
+  simp
+
+theorem any_dedup {α : Type*} [DecidableEq α] (cs : List α) (f : α → Bool) : cs.dedup.any f = cs.any f := by
+  apply Bool.eq_iff_iff.mpr
+  simp
+
+theorem eval_pin {V : Type} (z : V → Bool) {C : Circ V} (hC : IsMonotoneCirc C) (x : V → Bool) :
+    (pin z C).eval x = C.eval (BernoulliAlgebra.unionInputs z x) := by
+  classical
+  induction hC with
+  | const b => simp only [pin,Circ.eval]
+  | lit v => cases hz : z v <;> simp [pin,Circ.eval,BernoulliAlgebra.unionInputs,hz]
+  | and cs hcs ih =>
+    have he : cs.map (fun c => (pin z c).eval x) = cs.map (fun c => c.eval (BernoulliAlgebra.unionInputs z x)) := by
+      apply List.map_congr_left
+      intro c hc
+      exact ih c hc
+    simp only [pin,Circ.eval,List.all_map,all_dedup,Function.comp_def]
+    simpa only [List.all_map,Function.comp_def] using congrArg (fun bs : List Bool => bs.all id) he
+  | or cs hcs ih =>
+    have he : cs.map (fun c => (pin z c).eval x) = cs.map (fun c => c.eval (BernoulliAlgebra.unionInputs z x)) := by
+      apply List.map_congr_left
+      intro c hc
+      exact ih c hc
+    simp only [pin,Circ.eval,List.any_map,any_dedup,Function.comp_def]
+    simpa only [List.any_map,Function.comp_def] using congrArg (fun bs : List Bool => bs.any id) he
+
+theorem dedup_max_le {α : Type*} [DecidableEq α] (cs : List α) (f : α → ℕ) :
+    (cs.dedup.map f).foldr max 0 ≤ (cs.map f).foldr max 0 := by
+  apply List.max_le_of_forall_le
+  intro v hv
+  obtain ⟨c,hc,rfl⟩ := List.mem_map.mp hv
+  exact List.le_max_of_le (List.mem_map.mpr ⟨c,List.mem_dedup.mp hc,rfl⟩) le_rfl
+
+theorem map_max_mono {α : Type*} (cs : List α) (f g : α → ℕ) (hfg : ∀ c ∈ cs, f c ≤ g c) :
+    (cs.map f).foldr max 0 ≤ (cs.map g).foldr max 0 := by
+  induction cs with
+  | nil => exact le_rfl
+  | cons c cs ih =>
+    simp only [List.map_cons,List.foldr_cons]
+    exact max_le_max (hfg c (List.mem_cons_self)) (ih (fun a ha => hfg a (List.mem_cons_of_mem c ha)))
+
+theorem depth_pin {V : Type} (z : V → Bool) (C : Circ V) : (pin z C).depth ≤ C.depth := by
+  classical
+  cases C with
+  | const b => simp only [pin,Circ.depth,le_refl]
+  | lit v b => rw [pin]; split <;> simp only [Circ.depth,le_refl]
+  | and cs =>
+    have hm := map_max_mono cs (fun c => (pin z c).depth) Circ.depth (fun c hc => depth_pin z c)
+    have hd := dedup_max_le (cs.map (pin z)) Circ.depth
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [pin,Circ.depth] using Nat.add_le_add_left (hd.trans hm) 1
+  | or cs =>
+    have hm := map_max_mono cs (fun c => (pin z c).depth) Circ.depth (fun c hc => depth_pin z c)
+    have hd := dedup_max_le (cs.map (pin z)) Circ.depth
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [pin,Circ.depth] using Nat.add_le_add_left (hd.trans hm) 1
+  | xor cs =>
+    have hm := map_max_mono cs (fun c => (pin z c).depth) Circ.depth (fun c hc => depth_pin z c)
+    simpa only [pin,Circ.depth,List.map_map,Function.comp_def] using Nat.add_le_add_left hm 1
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem dedup_sum_le {α : Type*} [DecidableEq α] (cs : List α) (f : α → ℕ) :
+    (cs.dedup.map f).sum ≤ (cs.map f).sum :=
+  (List.Sublist.map f (List.dedup_sublist cs)).sum_le_sum (fun _ _ => Nat.zero_le _)
+
+theorem size_pin {V : Type} (z : V → Bool) (C : Circ V) : (pin z C).treeSize ≤ C.treeSize := by
+  classical
+  cases C with
+  | const b => simp only [pin,Circ.treeSize,le_refl]
+  | lit v b => rw [pin]; split <;> simp only [Circ.treeSize,le_refl]
+  | and cs =>
+    have hm := List.sum_le_sum (l := cs) (f := fun c => (pin z c).treeSize) (g := Circ.treeSize)
+      (fun c hc => size_pin z c)
+    have hd := dedup_sum_le (cs.map (pin z)) Circ.treeSize
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [pin,Circ.treeSize] using Nat.add_le_add_left (hd.trans hm) 1
+  | or cs =>
+    have hm := List.sum_le_sum (l := cs) (f := fun c => (pin z c).treeSize) (g := Circ.treeSize)
+      (fun c hc => size_pin z c)
+    have hd := dedup_sum_le (cs.map (pin z)) Circ.treeSize
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [pin,Circ.treeSize] using Nat.add_le_add_left (hd.trans hm) 1
+  | xor cs =>
+    have hm := List.sum_le_sum (l := cs) (f := fun c => (pin z c).treeSize) (g := Circ.treeSize)
+      (fun c hc => size_pin z c)
+    simpa only [pin,Circ.treeSize,List.map_map,Function.comp_def] using Nat.add_le_add_left hm 1
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+end SemAC02.MonotoneCircuitPinning
+end
+
+section
+-- Inlined Solutions.MonotoneCircuitRelabeling
+
+open SemAC02.MonotoneCircuitPinning
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.MonotoneCircuitRelabeling
+
+open Classical in
+noncomputable def relabel {V W : Type} (f : V → W) : Circ V → Circ W
+  | .const b => .const b
+  | .lit v b => .lit (f v) b
+  | .and cs => .and (cs.map (relabel f)).dedup
+  | .or cs => .or (cs.map (relabel f)).dedup
+  | .xor cs => .xor (cs.map (relabel f))
+
+@[simp] theorem isAnd_relabel {V W : Type} (f : V → W) (C : Circ V) : (relabel f C).isAnd = C.isAnd := by
+  cases C with
+  | const b => simp only [relabel,Circ.isAnd]
+  | lit v b => rw [relabel]; rfl
+  | and cs => rw [relabel]; rfl
+  | or cs => rw [relabel]; rfl
+  | xor cs => rw [relabel]; rfl
+
+@[simp] theorem isOr_relabel {V W : Type} (f : V → W) (C : Circ V) : (relabel f C).isOr = C.isOr := by
+  cases C with
+  | const b => simp only [relabel,Circ.isOr]
+  | lit v b => rw [relabel]; rfl
+  | and cs => rw [relabel]; rfl
+  | or cs => rw [relabel]; rfl
+  | xor cs => rw [relabel]; rfl
+
+theorem monotone_relabel {V W : Type} (f : V → W) {C : Circ V} (hC : IsMonotoneCirc C) : IsMonotoneCirc (relabel f C) := by
+  classical
+  induction hC with
+  | const b => rw [relabel]; exact .const _
+  | lit v => rw [relabel]; constructor
+  | and cs hcs ih =>
+    rw [relabel]
+    apply IsMonotoneCirc.and
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+    exact ih c' hc'
+  | or cs hcs ih =>
+    rw [relabel]
+    apply IsMonotoneCirc.or
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+    exact ih c' hc'
+
+theorem reduced_relabel {V W : Type} (f : V → W) {C : Circ V}
+    (hC : IsMonotoneCirc C) (hR : IsReduced C) : IsReduced (relabel f C) := by
+  classical
+  induction hC with
+  | const b => rw [relabel]; exact .const _
+  | lit v => rw [relabel]; constructor
+  | and cs hcs ih =>
+    cases hR with
+    | and _ _ htype hred =>
+      rw [relabel]
+      apply IsReduced.and
+      · exact List.nodup_dedup _
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        simpa only [isAnd_relabel] using htype c' hc'
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        exact ih c' hc' (hred c' hc')
+  | or cs hcs ih =>
+    cases hR with
+    | or _ _ htype hred =>
+      rw [relabel]
+      apply IsReduced.or
+      · exact List.nodup_dedup _
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        simpa only [isOr_relabel] using htype c' hc'
+      · intro c hc
+        obtain ⟨c',hc',rfl⟩ := List.mem_map.mp (List.mem_dedup.mp hc)
+        exact ih c' hc' (hred c' hc')
+
+theorem eval_relabel {V W : Type} (f : V → W) {C : Circ V} (hC : IsMonotoneCirc C) (x : W → Bool) :
+    (relabel f C).eval x = C.eval (x ∘ f) := by
+  classical
+  induction hC with
+  | const b => simp only [relabel,Circ.eval]
+  | lit v => simp only [relabel,Circ.eval,Function.comp_def]
+  | and cs hcs ih =>
+    have he : cs.map (fun c => (relabel f c).eval x) = cs.map (fun c => c.eval (x ∘ f)) := by
+      apply List.map_congr_left
+      intro c hc
+      exact ih c hc
+    simp only [relabel,Circ.eval,List.all_map,all_dedup,Function.comp_def]
+    simpa only [List.all_map,Function.comp_def] using congrArg (fun bs : List Bool => bs.all id) he
+  | or cs hcs ih =>
+    have he : cs.map (fun c => (relabel f c).eval x) = cs.map (fun c => c.eval (x ∘ f)) := by
+      apply List.map_congr_left
+      intro c hc
+      exact ih c hc
+    simp only [relabel,Circ.eval,List.any_map,any_dedup,Function.comp_def]
+    simpa only [List.any_map,Function.comp_def] using congrArg (fun bs : List Bool => bs.any id) he
+
+theorem depth_relabel {V W : Type} (f : V → W) (C : Circ V) : (relabel f C).depth ≤ C.depth := by
+  classical
+  cases C with
+  | const b => simp only [relabel,Circ.depth,le_refl]
+  | lit v b => simp only [relabel,Circ.depth,le_refl]
+  | and cs =>
+    have hm := map_max_mono cs (fun c => (relabel f c).depth) Circ.depth (fun c hc => depth_relabel f c)
+    have hd := dedup_max_le (cs.map (relabel f)) Circ.depth
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [relabel,Circ.depth] using Nat.add_le_add_left (hd.trans hm) 1
+  | or cs =>
+    have hm := map_max_mono cs (fun c => (relabel f c).depth) Circ.depth (fun c hc => depth_relabel f c)
+    have hd := dedup_max_le (cs.map (relabel f)) Circ.depth
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [relabel,Circ.depth] using Nat.add_le_add_left (hd.trans hm) 1
+  | xor cs =>
+    have hm := map_max_mono cs (fun c => (relabel f c).depth) Circ.depth (fun c hc => depth_relabel f c)
+    simpa only [relabel,Circ.depth,List.map_map,Function.comp_def] using Nat.add_le_add_left hm 1
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem size_relabel {V W : Type} (f : V → W) (C : Circ V) : (relabel f C).treeSize ≤ C.treeSize := by
+  classical
+  cases C with
+  | const b => simp only [relabel,Circ.treeSize,le_refl]
+  | lit v b => simp only [relabel,Circ.treeSize,le_refl]
+  | and cs =>
+    have hm := List.sum_le_sum (l := cs) (f := fun c => (relabel f c).treeSize) (g := Circ.treeSize)
+      (fun c hc => size_relabel f c)
+    have hd := dedup_sum_le (cs.map (relabel f)) Circ.treeSize
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [relabel,Circ.treeSize] using Nat.add_le_add_left (hd.trans hm) 1
+  | or cs =>
+    have hm := List.sum_le_sum (l := cs) (f := fun c => (relabel f c).treeSize) (g := Circ.treeSize)
+      (fun c hc => size_relabel f c)
+    have hd := dedup_sum_le (cs.map (relabel f)) Circ.treeSize
+    simp only [List.map_map,Function.comp_def] at hd
+    simpa only [relabel,Circ.treeSize] using Nat.add_le_add_left (hd.trans hm) 1
+  | xor cs =>
+    have hm := List.sum_le_sum (l := cs) (f := fun c => (relabel f c).treeSize) (g := Circ.treeSize)
+      (fun c hc => size_relabel f c)
+    simpa only [relabel,Circ.treeSize,List.map_map,Function.comp_def] using Nat.add_le_add_left hm 1
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+end SemAC02.MonotoneCircuitRelabeling
+end
+
+section
+-- Inlined Solutions.RelabeledOrFamily
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.MonotoneCircuitRelabeling SemAC02.MonotoneCircuitPinning
+
+namespace SemAC02.RelabeledOrFamily
+
+noncomputable def children {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m) : List (Circ (Fin m)) :=
+  List.ofFn (fun i => relabel (σ i) C)
+
+open Classical in
+noncomputable def cover {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m) : Circ (Fin m) :=
+  .or (children C σ).dedup
+
+theorem monotone_cover {m r s : ℕ} {C : Circ (Fin r)} (hC : IsMonotoneCirc C)
+    (σ : Fin s → Fin r → Fin m) : IsMonotoneCirc (cover C σ) := by
+  classical
+  apply IsMonotoneCirc.or
+  intro c hc
+  obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+  exact monotone_relabel _ hC
+
+theorem reduced_cover {m r s : ℕ} {C : Circ (Fin r)} (hC : IsMonotoneCirc C)
+    (hR : IsReduced C) (hroot : C.isAnd = true) (σ : Fin s → Fin r → Fin m) : IsReduced (cover C σ) := by
+  classical
+  have hnot : C.isOr = false := by cases C <;> simp_all [Circ.isAnd,Circ.isOr]
+  apply IsReduced.or
+  · exact List.nodup_dedup _
+  · intro c hc
+    obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+    simpa only [isOr_relabel] using hnot
+  · intro c hc
+    obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+    exact reduced_relabel _ hC hR
+
+theorem depth_cover {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m) :
+    (cover C σ).depth ≤ 1+C.depth := by
+  classical
+  simp only [cover,Circ.depth]
+  apply Nat.add_le_add_left
+  apply List.max_le_of_forall_le
+  intro k hk
+  obtain ⟨c,hc,rfl⟩ := List.mem_map.mp hk
+  obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+  exact depth_relabel _ C
+
+theorem children_size {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m) :
+    ((children C σ).map Circ.treeSize).sum ≤ s*C.treeSize := by
+  calc
+    _ ≤ ((children C σ).map (fun _ => C.treeSize)).sum := by
+      apply List.sum_le_sum
+      intro c hc
+      obtain ⟨i,rfl⟩ := List.mem_ofFn.mp hc
+      exact size_relabel _ C
+    _ = _ := by simp [children,List.map_ofFn,Function.comp_def]
+
+theorem size_cover {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m) :
+    (cover C σ).treeSize ≤ 1+s*C.treeSize := by
+  classical
+  have hs := (dedup_sum_le (children C σ) Circ.treeSize).trans (children_size C σ)
+  simpa only [cover,Circ.treeSize] using Nat.add_le_add_left hs 1
+
+theorem rooted_children {m r s d : ℕ} {C : Circ (Fin r)} (hroot : C.isAnd = true) (hd : C.depth ≤ d)
+    (σ : Fin s → Fin r → Fin m) :
+    ∃ cs, cover C σ = Circ.or cs ∧ ∀ c ∈ cs, c.isAnd = true ∧ c.depth ≤ d := by
+  classical
+  refine ⟨(children C σ).dedup,rfl,?_⟩
+  intro c hc
+  obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+  exact ⟨by simpa only [isAnd_relabel] using hroot,(depth_relabel _ C).trans hd⟩
+
+theorem eval_cover {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m) (x : Fin m → Bool) :
+    (cover C σ).eval x = !(decide (∀ i : Fin s, (relabel (σ i) C).eval x = false)) := by
+  classical
+  apply Bool.eq_iff_iff.mpr
+  simp [cover,Circ.eval,List.any_map,any_dedup,children]
+
+end SemAC02.RelabeledOrFamily
+end
+
+section
+-- Inlined Solutions.UniformRelabeling
+
+set_option maxHeartbeats 1000000
+
+open Finset SemAC02.BernoulliAlgebra ProofComplexity.FiniteProductPushforward
+
+namespace SemAC02.UniformRelabeling
+
+noncomputable def uniformWeight {A : Type*} [Fintype A] (_ : A) : ℝ := (Fintype.card A : ℝ)⁻¹
+
+theorem uniformWeight_nonneg {A : Type*} [Fintype A] (a : A) : 0 ≤ uniformWeight a := by
+  exact inv_nonneg.mpr (Nat.cast_nonneg _)
+
+theorem uniformWeight_sum (A : Type*) [Fintype A] [Nonempty A] : ∑ a : A, uniformWeight a = 1 := by
+  have hc : (Fintype.card A : ℝ) ≠ 0 := Nat.cast_ne_zero.mpr Fintype.card_ne_zero
+  simp [uniformWeight,hc]
+
+noncomputable def productWeight {I A : Type*} [Fintype I] [Fintype A] (σ : I → A) : ℝ :=
+  ∏ i, uniformWeight (σ i)
+
+theorem productWeight_nonneg {I A : Type*} [Fintype I] [Fintype A] (σ : I → A) :
+    0 ≤ productWeight σ := prod_nonneg (fun _ _ => uniformWeight_nonneg _)
+
+theorem productWeight_sum (I A : Type*) [Fintype I] [DecidableEq I] [Fintype A] [Nonempty A] :
+    ∑ σ : I → A, productWeight σ = 1 := by
+  simp only [productWeight]
+  rw [← Fintype.prod_sum]
+  simp only [uniformWeight_sum,prod_const_one]
+
+noncomputable def density {m : ℕ} (x : Fin m → Bool) : ℝ := (hammingWeight x : ℝ)/(m : ℝ)
+
+theorem bool_fiber {m : ℕ} (hm : 1 ≤ m) (x : Fin m → Bool) (b : Bool) :
+    (∑ j : Fin m, if x j = b then uniformWeight j else 0) = bitWeight (density x) b := by
+  letI : Nonempty (Fin m) := ⟨⟨0,by omega⟩⟩
+  have ht : (∑ j : Fin m, if x j = true then uniformWeight j else 0) = density x := by
+    have hcount : (∑ j : Fin m, if x j = true then (1 : ℝ) else 0) = (hammingWeight x : ℝ) := by
+      simp [hammingWeight]
+    calc
+      _ = (∑ j : Fin m, if x j = true then (1 : ℝ) else 0)*(m : ℝ)⁻¹ := by
+        rw [sum_mul]
+        apply sum_congr rfl
+        intro j _
+        simp only [uniformWeight,Fintype.card_fin,ite_mul,one_mul,zero_mul]
+      _ = _ := by rw [hcount]; simp only [density,div_eq_mul_inv]
+  have hsum : (∑ j : Fin m, if x j = false then uniformWeight j else 0)+
+      (∑ j : Fin m, if x j = true then uniformWeight j else 0) = 1 := by
+    rw [← sum_add_distrib]
+    calc
+      _ = ∑ j : Fin m, uniformWeight j := by
+        apply sum_congr rfl
+        intro j _
+        cases he : x j <;> simp [he]
+      _ = 1 := uniformWeight_sum _
+  cases b
+  · simp only [bitWeight,Bool.false_eq_true,↓reduceIte]
+    linarith
+  · simpa only [bitWeight,↓reduceIte] using ht
+
+/-- Independent uniform labels turn a fixed Boolean input into independent bits of its density. -/
+theorem average_labels {m r : ℕ} (hm : 1 ≤ m) (x : Fin m → Bool)
+    (E : (Fin r → Bool) → Bool) :
+    (∑ σ : Fin r → Fin m, productWeight σ*(if E (x ∘ σ) then 1 else 0)) =
+      bernProb (density x) E := by
+  have h := sum_pushforward x (fun _ : Fin r => fun j : Fin m => uniformWeight j)
+    (fun y : Fin r → Bool => if E y then 1 else 0)
+  simp_rw [bool_fiber hm x] at h
+  simpa only [productWeight,Function.comp_def,prob_eq_indicator,weight] using h
+
+end SemAC02.UniformRelabeling
+end
+
+section
+-- Inlined Solutions.FiniteExpectation
+
+set_option maxHeartbeats 1000000
+
+open Finset
+
+namespace ProofComplexity.FiniteExpectation
+
+noncomputable def expect {Ω : Type*} [Fintype Ω] (w : Ω → ℝ) (f : Ω → ℝ) : ℝ :=
+  ∑ x, w x*f x
+
+noncomputable def prob {Ω : Type*} [Fintype Ω] (w : Ω → ℝ) (E : Ω → Bool) : ℝ :=
+  expect w (fun x => if E x then 1 else 0)
+
+theorem expect_mono {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∀ x, 0 ≤ w x)
+    {f g : Ω → ℝ} (hfg : ∀ x, f x ≤ g x) : expect w f ≤ expect w g :=
+  sum_le_sum (fun x _ => mul_le_mul_of_nonneg_left (hfg x) (hw x))
+
+theorem expect_const {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∑ x, w x = 1) (a : ℝ) :
+    expect w (fun _ => a) = a := by
+  rw [expect,← sum_mul,hw,one_mul]
+
+theorem expect_add {Ω : Type*} [Fintype Ω] (w f g : Ω → ℝ) :
+    expect w (fun x => f x+g x) = expect w f+expect w g := by
+  simp only [expect,mul_add,sum_add_distrib]
+
+theorem expect_div {Ω : Type*} [Fintype Ω] (w f : Ω → ℝ) (a : ℝ) :
+    expect w (fun x => f x/a) = expect w f/a := by
+  simp only [expect,mul_div_assoc,sum_div]
+
+theorem prob_complement {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∑ x, w x = 1) (E : Ω → Bool) :
+    prob w (fun x => !E x) = 1-prob w E := by
+  have h : prob w E+prob w (fun x => !E x) = 1 := by
+    rw [prob,prob,← expect_add]
+    calc
+      _ = expect w (fun _ => 1) := by
+        congr 1
+        funext x
+        cases E x <;> norm_num
+      _ = 1 := expect_const hw 1
+  linarith
+
+theorem exists_lt_expect_bound {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∀ x, 0 ≤ w x)
+    (hw1 : ∑ x, w x = 1) (f : Ω → ℝ) {a : ℝ} (hf : expect w f < a) : ∃ x, f x < a := by
+  classical
+  by_contra! hn
+  have h := expect_mono hw hn
+  rw [expect_const hw1 a] at h
+  linarith
+
+/-- A coverage failure probability and a mean acceptance bound can be met simultaneously. -/
+theorem exists_good_small {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∀ x, 0 ≤ w x)
+    (hw1 : ∑ x, w x = 1) (bad : Ω → Bool) (f : Ω → ℝ) (hf : ∀ x, 0 ≤ f x)
+    {a : ℝ} (ha : 0 < a) (hbad : prob w bad < 1/2) (hmean : expect w f < a/2) :
+    ∃ x, bad x = false ∧ f x ≤ a := by
+  have hdiv : expect w f/a < 1/2 := (div_lt_iff₀ ha).mpr (by linarith)
+  have hcost : expect w (fun x => (if bad x then 1 else 0)+f x/a) < 1 := by
+    rw [expect_add,expect_div]
+    change prob w bad+expect w f/a < 1
+    linarith
+  obtain ⟨x,hx⟩ := exists_lt_expect_bound hw hw1 _ hcost
+  have hfalse : bad x = false := by
+    cases he : bad x
+    · rfl
+    · have hd : 0 ≤ f x/a := div_nonneg (hf x) ha.le
+      simp only [he,↓reduceIte] at hx
+      linarith
+  refine ⟨x,hfalse,?_⟩
+  simp only [hfalse,Bool.false_eq_true,↓reduceIte,zero_add] at hx
+  exact ((div_lt_one ha).mp hx).le
+
+end ProofComplexity.FiniteExpectation
+end
+
+section
+-- Inlined Solutions.RandomRelabeledCircuit
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.UniformRelabeling SemAC02.MonotoneCircuitRelabeling
+
+namespace SemAC02.RandomRelabeledCircuit
+
+theorem density_nonneg {m : ℕ} (x : Fin m → Bool) : 0 ≤ density x :=
+  div_nonneg (Nat.cast_nonneg _) (Nat.cast_nonneg _)
+
+theorem weight_le_dimension {m : ℕ} (x : Fin m → Bool) : hammingWeight x ≤ m := by
+  have h := Finset.card_le_card (Finset.filter_subset (fun i : Fin m => x i = true) Finset.univ)
+  simpa only [hammingWeight,Finset.card_univ,Fintype.card_fin] using h
+
+theorem density_le_one {m : ℕ} (hm : 1 ≤ m) (x : Fin m → Bool) : density x ≤ 1 := by
+  have hpos : (0 : ℝ) < (m : ℝ) := by exact_mod_cast (show 0 < m from by omega)
+  apply (div_le_iff₀ hpos).mpr
+  simpa only [one_mul] using (show (hammingWeight x : ℝ) ≤ (m : ℝ) from by exact_mod_cast weight_le_dimension x)
+
+theorem acceptance_average {m r : ℕ} (hm : 1 ≤ m) (x : Fin m → Bool)
+    {C : Circ (Fin r)} (hC : IsMonotoneCirc C) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin r → Fin m => productWeight σ)
+      (fun σ => (relabel σ C).eval x) = bernProb (density x) (fun y => C.eval y) := by
+  simp only [ProofComplexity.FiniteExpectation.prob,ProofComplexity.FiniteExpectation.expect,eval_relabel _ hC]
+  exact average_labels hm x (fun y => C.eval y)
+
+theorem high_density_acceptance {m r : ℕ} (hm : 1 ≤ m) (x : Fin m → Bool)
+    (hx : (m : ℝ)/2 ≤ (hammingWeight x : ℝ)) {C : Circ (Fin r)} (hC : IsMonotoneCirc C) :
+    bernProb (1/2) (fun y => C.eval y) ≤
+      ProofComplexity.FiniteExpectation.prob (fun σ : Fin r → Fin m => productWeight σ)
+        (fun σ => (relabel σ C).eval x) := by
+  rw [acceptance_average hm x hC]
+  have hpos : (0 : ℝ) < (m : ℝ) := by exact_mod_cast (show 0 < m from by omega)
+  apply MonotoneBernoulli.circuit_bias_mono (by norm_num) _ (density_le_one hm x) hC
+  apply (le_div_iff₀ hpos).mpr
+  linarith
+
+theorem low_density_acceptance {m r : ℕ} (hm : 1 ≤ m) (x : Fin m → Bool) (p : ℝ)
+    (hp : p ≤ 1) (hx : (hammingWeight x : ℝ) ≤ p*(m : ℝ))
+    {C : Circ (Fin r)} (hC : IsMonotoneCirc C) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin r → Fin m => productWeight σ)
+      (fun σ => (relabel σ C).eval x) ≤ bernProb p (fun y => C.eval y) := by
+  rw [acceptance_average hm x hC]
+  have hpos : (0 : ℝ) < (m : ℝ) := by exact_mod_cast (show 0 < m from by omega)
+  exact MonotoneBernoulli.circuit_bias_mono (density_nonneg x) ((div_le_iff₀ hpos).mpr hx) hp hC
+
+end SemAC02.RandomRelabeledCircuit
+end
+
+section
+-- Inlined Solutions.ProductExpectation
+
+set_option maxHeartbeats 1000000
+
+open Finset ProofComplexity.FiniteExpectation
+
+namespace ProofComplexity.ProductExpectation
+
+noncomputable def productLaw {I A : Type*} [Fintype I] (w : A → ℝ) (x : I → A) : ℝ := ∏ i, w (x i)
+
+theorem productLaw_nonneg {I A : Type*} [Fintype I] {w : A → ℝ} (hw : ∀ a, 0 ≤ w a) (x : I → A) :
+    0 ≤ productLaw w x := prod_nonneg (fun i _ => hw (x i))
+
+theorem productLaw_sum {I A : Type*} [Fintype I] [DecidableEq I] [Fintype A]
+    {w : A → ℝ} (hw : ∑ a, w a = 1) : ∑ x : I → A, productLaw w x = 1 := by
+  simp only [productLaw]
+  rw [← Fintype.prod_sum]
+  simp only [hw,prod_const_one]
+
+theorem prob_all {I A : Type*} [Fintype I] [DecidableEq I] [Fintype A]
+    (w : A → ℝ) (E : A → Bool) :
+    prob (fun x : I → A => productLaw w x) (fun x => decide (∀ i, E (x i) = true)) =
+      prob w E ^ Fintype.card I := by
+  classical
+  simp only [prob,FiniteExpectation.expect,productLaw,mul_ite,mul_one,mul_zero]
+  simp_rw [SemAC02.BernoulliProduct.indicator_all]
+  rw [← Fintype.prod_sum (fun _ : I => fun a : A => if E a then w a else 0)]
+  simp only [prod_const,card_univ]
+
+theorem prob_all_reject {I A : Type*} [Fintype I] [DecidableEq I] [Fintype A]
+    {w : A → ℝ} (hw : ∑ a, w a = 1) (E : A → Bool) :
+    prob (fun x : I → A => productLaw w x) (fun x => decide (∀ i, E (x i) = false)) =
+      (1-prob w E)^Fintype.card I := by
+  have h := prob_all (I := I) w (fun a => !E a)
+  rw [prob_complement hw] at h
+  convert h using 1
+  congr 1
+  funext x
+  apply Bool.eq_iff_iff.mpr
+  simp
+
+theorem prob_any {I A : Type*} [Fintype I] [DecidableEq I] [Fintype A]
+    {w : A → ℝ} (hw : ∑ a, w a = 1) (E : A → Bool) :
+    prob (fun x : I → A => productLaw w x) (fun x => !(decide (∀ i, E (x i) = false))) =
+      1-(1-prob w E)^Fintype.card I := by
+  rw [prob_complement (productLaw_sum hw),prob_all_reject hw]
+
+end ProofComplexity.ProductExpectation
+end
+
+section
+-- Inlined Solutions.FiniteUnionBound
+
+set_option maxHeartbeats 1000000
+
+open Finset
+
+namespace ProofComplexity.FiniteExpectation
+
+theorem prob_nonneg {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∀ x, 0 ≤ w x) (E : Ω → Bool) :
+    0 ≤ prob w E := by
+  apply sum_nonneg
+  intro x _
+  apply mul_nonneg (hw x)
+  change 0 ≤ (if E x then (1 : ℝ) else 0)
+  split_ifs <;> norm_num
+
+theorem prob_le_one {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∀ x, 0 ≤ w x)
+    (hw1 : ∑ x, w x = 1) (E : Ω → Bool) : prob w E ≤ 1 := by
+  calc
+    _ ≤ expect w (fun _ => 1) := expect_mono hw (by intro x; split_ifs <;> norm_num)
+    _ = _ := expect_const hw1 1
+
+theorem prob_event_mono {Ω : Type*} [Fintype Ω] {w : Ω → ℝ} (hw : ∀ x, 0 ≤ w x)
+    (E F : Ω → Bool) (hEF : ∀ x, E x = true → F x = true) : prob w E ≤ prob w F := by
+  apply expect_mono hw
+  intro x
+  cases he : E x
+  · simp only [he,Bool.false_eq_true,↓reduceIte]
+    split_ifs <;> norm_num
+  · simp only [he,hEF x he,↓reduceIte,le_refl]
+
+theorem prob_exists_le_sum {I Ω : Type*} [Fintype I] [DecidableEq I] [Fintype Ω]
+    {w : Ω → ℝ} (hw : ∀ x, 0 ≤ w x) (E : I → Ω → Bool) :
+    prob w (fun x => decide (∃ i, E i x = true)) ≤ ∑ i, prob w (E i) := by
+  classical
+  have hind (x : Ω) : (if decide (∃ i, E i x = true) then (1 : ℝ) else 0) ≤
+      ∑ i, if E i x then 1 else 0 := by
+    by_cases he : ∃ i, E i x = true
+    · obtain ⟨i,hi⟩ := he
+      simp only [show (∃ i, E i x = true) from ⟨i,hi⟩,decide_true,↓reduceIte]
+      calc
+        (1 : ℝ) = if E i x then 1 else 0 := by simp only [hi,↓reduceIte]
+        _ ≤ _ := single_le_sum (f := fun j : I => if E j x then (1 : ℝ) else 0) (fun j _ => by split_ifs <;> norm_num) (mem_univ i)
+    · simp only [he,decide_false,Bool.false_eq_true,↓reduceIte]
+      apply sum_nonneg
+      intro i _
+      split_ifs <;> norm_num
+  calc
+    _ ≤ expect w (fun x => ∑ i, if E i x then 1 else 0) := expect_mono hw hind
+    _ = _ := by simp only [expect,prob,mul_sum]; rw [sum_comm]
+
+end ProofComplexity.FiniteExpectation
+end
+
+section
+-- Inlined Solutions.RandomOrFamily
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.UniformRelabeling SemAC02.MonotoneCircuitRelabeling SemAC02.RelabeledOrFamily
+open ProofComplexity.ProductExpectation
+
+namespace SemAC02.RandomOrFamily
+
+noncomputable def familyLaw {m r s : ℕ} (σ : Fin s → Fin r → Fin m) : ℝ :=
+  productLaw (fun f : Fin r → Fin m => productWeight f) σ
+
+theorem familyLaw_nonneg {m r s : ℕ} (σ : Fin s → Fin r → Fin m) : 0 ≤ familyLaw σ :=
+  productLaw_nonneg productWeight_nonneg σ
+
+theorem familyLaw_sum {m r s : ℕ} (hm : 1 ≤ m) : ∑ σ : Fin s → Fin r → Fin m, familyLaw σ = 1 := by
+  letI : Nonempty (Fin m) := ⟨⟨0,by omega⟩⟩
+  exact productLaw_sum (productWeight_sum (Fin r) (Fin m))
+
+theorem acceptance_exact {m r s : ℕ} (hm : 1 ≤ m) (C : Circ (Fin r)) (x : Fin m → Bool) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => (cover C σ).eval x) =
+      1-(1-ProofComplexity.FiniteExpectation.prob (fun f : Fin r → Fin m => productWeight f)
+        (fun f => (relabel f C).eval x))^s := by
+  letI : Nonempty (Fin m) := ⟨⟨0,by omega⟩⟩
+  have h := prob_any (I := Fin s) (productWeight_sum (Fin r) (Fin m))
+    (fun f : Fin r → Fin m => (relabel f C).eval x)
+  convert h using 1
+  · simp only [familyLaw,eval_cover]
+    congr 1
+    funext σ
+    apply Bool.eq_iff_iff.mpr
+    simp
+  · simp only [Fintype.card_fin]
+
+theorem rejection_exact {m r s : ℕ} (hm : 1 ≤ m) (C : Circ (Fin r)) (x : Fin m → Bool) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => !(cover C σ).eval x) =
+      (1-ProofComplexity.FiniteExpectation.prob (fun f : Fin r → Fin m => productWeight f)
+        (fun f => (relabel f C).eval x))^s := by
+  rw [ProofComplexity.FiniteExpectation.prob_complement (familyLaw_sum hm),acceptance_exact hm C x]
+  ring
+
+theorem acceptance_le_mul {m r s : ℕ} (hm : 1 ≤ m) (C : Circ (Fin r)) (x : Fin m → Bool)
+    (β : ℝ) (hβ : ProofComplexity.FiniteExpectation.prob (fun f : Fin r → Fin m => productWeight f)
+      (fun f => (relabel f C).eval x) ≤ β) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => (cover C σ).eval x) ≤ (s : ℝ)*β := by
+  letI : Nonempty (Fin m) := ⟨⟨0,by omega⟩⟩
+  rw [acceptance_exact hm C x]
+  apply (CoinDepthTwoNumerics.union_power_bound
+    (ProofComplexity.FiniteExpectation.prob_nonneg productWeight_nonneg _)
+    (ProofComplexity.FiniteExpectation.prob_le_one productWeight_nonneg (productWeight_sum (Fin r) (Fin m)) _) s).trans
+  exact mul_le_mul_of_nonneg_left hβ (Nat.cast_nonneg s)
+
+theorem rejection_le_exp {m r s : ℕ} (hm : 1 ≤ m) (C : Circ (Fin r)) (x : Fin m → Bool)
+    (α : ℝ) (hα : α ≤ ProofComplexity.FiniteExpectation.prob (fun f : Fin r → Fin m => productWeight f)
+      (fun f => (relabel f C).eval x)) (hs : 4*(m : ℝ) ≤ (s : ℝ)*α) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => !(cover C σ).eval x) ≤ Real.exp (-4*(m : ℝ)) := by
+  letI : Nonempty (Fin m) := ⟨⟨0,by omega⟩⟩
+  rw [rejection_exact hm C x]
+  apply (CoinDepthTwoNumerics.failure_power_bound
+    (ProofComplexity.FiniteExpectation.prob_le_one productWeight_nonneg (productWeight_sum (Fin r) (Fin m)) _) s).trans
+  apply Real.exp_le_exp.mpr
+  have h := mul_le_mul_of_nonneg_left hα (Nat.cast_nonneg s)
+  nlinarith
+
+end SemAC02.RandomOrFamily
+end
+
+section
+-- Inlined Solutions.CoveringFailureNumerics
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CoveringFailureNumerics
+
+theorem cube_failure_lt_half (m : ℕ) (hm : 1 ≤ m) :
+    (2 : ℝ)^m*Real.exp (-4*(m : ℝ)) < 1/2 := by
+  have hb : 2*Real.exp (-4) ≤ 2/5 := by
+    rw [Real.exp_neg,← div_eq_mul_inv]
+    apply (div_le_iff₀ (Real.exp_pos 4)).mpr
+    linarith [Real.add_one_le_exp 4]
+  calc
+    _ = (2*Real.exp (-4))^m := by
+      rw [mul_pow,← Real.exp_nat_mul]
+      congr 1
+      congr 1
+      ring
+    _ ≤ (2/5 : ℝ)^m := pow_le_pow_left₀ (by positivity) hb m
+    _ ≤ 2/5 := pow_le_of_le_one (by norm_num) (by norm_num) (by omega)
+    _ < _ := by norm_num
+
+end SemAC02.CoveringFailureNumerics
+end
+
+section
+-- Inlined Solutions.CoveringFailureBounds
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.RelabeledOrFamily SemAC02.RandomOrFamily SemAC02.UniformRelabeling
+open SemAC02.MonotoneCircuitRelabeling
+
+namespace SemAC02.CoveringFailureBounds
+
+noncomputable def badCoverage {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m) : Bool :=
+  decide (∃ x : Fin m → Bool, (m : ℝ)/2 ≤ (hammingWeight x : ℝ) ∧ (cover C σ).eval x = false)
+
+theorem coverage_of_not_bad {m r s : ℕ} (C : Circ (Fin r)) (σ : Fin s → Fin r → Fin m)
+    (hb : badCoverage C σ = false) (x : Fin m → Bool) (hx : (m : ℝ)/2 ≤ (hammingWeight x : ℝ)) :
+    (cover C σ).eval x = true := by
+  have hn : ¬∃ y : Fin m → Bool, (m : ℝ)/2 ≤ (hammingWeight y : ℝ) ∧ (cover C σ).eval y = false :=
+    of_decide_eq_false hb
+  cases he : (cover C σ).eval x
+  · exact (hn ⟨x,hx,he⟩).elim
+  · rfl
+
+theorem failure_probability_bound {m r s : ℕ} (hm : 1 ≤ m) {C : Circ (Fin r)}
+    (hC : IsMonotoneCirc C) (α : ℝ) (hα : α ≤ bernProb (1/2) (fun y => C.eval y))
+    (hs : 4*(m : ℝ) ≤ (s : ℝ)*α) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => badCoverage C σ) ≤ (2 : ℝ)^m*Real.exp (-4*(m : ℝ)) := by
+  classical
+  let E := fun (x : Fin m → Bool) (σ : Fin s → Fin r → Fin m) =>
+    decide ((m : ℝ)/2 ≤ (hammingWeight x : ℝ) ∧ (cover C σ).eval x = false)
+  have hu : ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => badCoverage C σ) ≤
+      ∑ x : Fin m → Bool, ProofComplexity.FiniteExpectation.prob
+        (fun σ : Fin s → Fin r → Fin m => familyLaw σ) (E x) := by
+    convert ProofComplexity.FiniteExpectation.prob_exists_le_sum familyLaw_nonneg E using 1
+    congr 1
+    funext σ
+    apply Bool.eq_iff_iff.mpr
+    simp only [badCoverage,E,decide_eq_true_eq]
+  have hxbound (x : Fin m → Bool) : ProofComplexity.FiniteExpectation.prob
+      (fun σ : Fin s → Fin r → Fin m => familyLaw σ) (E x) ≤ Real.exp (-4*(m : ℝ)) := by
+    by_cases hx : (m : ℝ)/2 ≤ (hammingWeight x : ℝ)
+    · have ha := hα.trans (RandomRelabeledCircuit.high_density_acceptance hm x hx hC)
+      apply (ProofComplexity.FiniteExpectation.prob_event_mono familyLaw_nonneg (E x)
+        (fun σ => !(cover C σ).eval x) ?_).trans (rejection_le_exp hm C x α ha hs)
+      intro σ he
+      have h : (m : ℝ)/2 ≤ (hammingWeight x : ℝ) ∧ (cover C σ).eval x = false := of_decide_eq_true he
+      rw [h.2]
+      rfl
+    · have he : E x = (fun _ : Fin s → Fin r → Fin m => false) := by
+        funext σ
+        simp only [E,hx,false_and,decide_false]
+      rw [he]
+      simp only [ProofComplexity.FiniteExpectation.prob,ProofComplexity.FiniteExpectation.expect,
+        Bool.false_eq_true,↓reduceIte,mul_zero,Finset.sum_const_zero]
+      exact (Real.exp_pos _).le
+  calc
+    _ ≤ ∑ x : Fin m → Bool, ProofComplexity.FiniteExpectation.prob
+        (fun σ : Fin s → Fin r → Fin m => familyLaw σ) (E x) := hu
+    _ ≤ ∑ _ : Fin m → Bool, Real.exp (-4*(m : ℝ)) := Finset.sum_le_sum (fun x _ => hxbound x)
+    _ = _ := by simp only [Finset.sum_const,Finset.card_univ,Fintype.card_fun,
+        Fintype.card_bool,Fintype.card_fin,nsmul_eq_mul,Nat.cast_pow,Nat.cast_ofNat]
+
+theorem failure_probability_lt_half {m r s : ℕ} (hm : 1 ≤ m) {C : Circ (Fin r)}
+    (hC : IsMonotoneCirc C) (α : ℝ) (hα : α ≤ bernProb (1/2) (fun y => C.eval y))
+    (hs : 4*(m : ℝ) ≤ (s : ℝ)*α) :
+    ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => badCoverage C σ) < 1/2 :=
+  (failure_probability_bound hm hC α hα hs).trans_lt (CoveringFailureNumerics.cube_failure_lt_half m hm)
+
+end SemAC02.CoveringFailureBounds
+end
+
+section
+-- Inlined Solutions.CoveringMean
+
+set_option maxHeartbeats 1000000
+
+open Finset
+
+namespace ProofComplexity.FiniteExpectation
+
+theorem expect_prob_swap {Ω X : Type*} [Fintype Ω] [Fintype X] (w : Ω → ℝ) (v : X → ℝ)
+    (E : Ω → X → Bool) :
+    expect w (fun a => prob v (E a)) = expect v (fun x => prob w (fun a => E a x)) := by
+  simp only [prob,expect,mul_sum]
+  rw [sum_comm]
+  apply sum_congr rfl
+  intro x _
+  apply sum_congr rfl
+  intro a _
+  ring
+
+/-- Bound the average acceptance by splitting the input distribution at a weight threshold. -/
+theorem split_mean_bound {Ω X : Type*} [Fintype Ω] [Fintype X] {w : Ω → ℝ} {v : X → ℝ}
+    (hw : ∀ a, 0 ≤ w a) (hw1 : ∑ a, w a = 1) (hv : ∀ x, 0 ≤ v x) (hv1 : ∑ x, v x = 1)
+    (E : Ω → X → Bool) (bad : X → Bool) {β : ℝ} (hβ : 0 ≤ β)
+    (hgood : ∀ x, bad x = false → prob w (fun a => E a x) ≤ β) :
+    expect w (fun a => prob v (E a)) ≤ β+prob v bad := by
+  rw [expect_prob_swap]
+  calc
+    _ ≤ expect v (fun x => β+(if bad x then 1 else 0)) := by
+      apply expect_mono hv
+      intro x
+      cases he : bad x
+      · simpa only [he,Bool.false_eq_true,↓reduceIte,add_zero] using hgood x he
+      · have h := prob_le_one hw hw1 (fun a => E a x)
+        simp only [he,↓reduceIte]
+        linarith
+    _ = _ := by rw [expect_add,expect_const hv1 β]; rfl
+
+end ProofComplexity.FiniteExpectation
+end
+
+section
+-- Inlined Solutions.CoveringAcceptanceBounds
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.RelabeledOrFamily SemAC02.RandomOrFamily SemAC02.BernoulliAlgebra
+open SemAC02.UniformRelabeling SemAC02.MonotoneCircuitRelabeling
+
+namespace SemAC02.CoveringAcceptanceBounds
+
+theorem prob_bernoulli {m : ℕ} (p : ℝ) (E : (Fin m → Bool) → Bool) :
+    ProofComplexity.FiniteExpectation.prob (fun x : Fin m → Bool => weight p x) E = bernProb p E := by
+  simp only [ProofComplexity.FiniteExpectation.prob,ProofComplexity.FiniteExpectation.expect,
+    mul_ite,mul_one,mul_zero,bernProb_eq_weight]
+
+theorem split_acceptance {m r s : ℕ} (hm : 1 ≤ m) {C : Circ (Fin r)} (hC : IsMonotoneCirc C)
+    {p δ β : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1) (hshift : p+δ ≤ 1) (hβ : 0 ≤ β)
+    (hCβ : bernProb (p+δ) (fun y => C.eval y) ≤ β) :
+    ProofComplexity.FiniteExpectation.expect (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => bernProb p (fun x => (cover C σ).eval x)) ≤
+      (s : ℝ)*β+bernProb p
+        (fun x : Fin m → Bool => decide ((p+δ)*(m : ℝ) < (hammingWeight x : ℝ))) := by
+  let bad := fun x : Fin m → Bool => decide ((p+δ)*(m : ℝ) < (hammingWeight x : ℝ))
+  have hgood (x : Fin m → Bool) (hx : bad x = false) :
+      ProofComplexity.FiniteExpectation.prob (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+        (fun σ => (cover C σ).eval x) ≤ (s : ℝ)*β := by
+    have hwx : (hammingWeight x : ℝ) ≤ (p+δ)*(m : ℝ) := by
+      have hn : ¬(p+δ)*(m : ℝ) < (hammingWeight x : ℝ) := of_decide_eq_false hx
+      exact le_of_not_gt hn
+    have ha := (RandomRelabeledCircuit.low_density_acceptance hm x (p+δ) hshift hwx hC).trans hCβ
+    exact acceptance_le_mul hm C x β ha
+  have h := ProofComplexity.FiniteExpectation.split_mean_bound familyLaw_nonneg (familyLaw_sum hm)
+    (weight_nonneg hp hp') (weight_sum (Fin m) p) (fun σ x => (cover C σ).eval x) bad
+    (show 0 ≤ (s : ℝ)*β from mul_nonneg (Nat.cast_nonneg s) hβ) hgood
+  simpa only [prob_bernoulli] using h
+
+theorem low_mean_bound {m r s : ℕ} (hm : 1 ≤ m) {C : Circ (Fin r)} (hC : IsMonotoneCirc C)
+    {ε β : ℝ} (hε : 0 < ε) (hε' : ε ≤ 1/2) (hβ : 0 ≤ β)
+    (hCβ : bernProb (1/2-3*ε/4) (fun y => C.eval y) ≤ β) :
+    ProofComplexity.FiniteExpectation.expect (fun σ : Fin s → Fin r → Fin m => familyLaw σ)
+      (fun σ => bernProb (1/2-ε) (fun x => (cover C σ).eval x)) ≤
+      (s : ℝ)*β+Real.exp (-((m : ℝ)*ε^2/64)) := by
+  have hs := split_acceptance (s := s) hm hC (p := 1/2-ε) (δ := ε/4)
+    (by linarith) (by linarith) (by linarith) hβ (by
+      convert hCβ using 1 <;> congr 1 <;> ring)
+  have ht := BernoulliTail.covering_tail (m := m) hε hε'
+  have hsame : (1/2-ε)+ε/4 = (1/2-3*ε/4 : ℝ) := by ring
+  rw [hsame] at hs
+  linarith
+
+end SemAC02.CoveringAcceptanceBounds
+end
+
+section
+-- Inlined Solutions.CoveringProbabilisticMethod
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.RelabeledOrFamily SemAC02.RandomOrFamily SemAC02.CoveringFailureBounds
+
+namespace SemAC02.CoveringProbabilisticMethod
+
+/-- The finite probabilistic construction of the covering formula, with its numerical budgets
+left as explicit inequalities for the final parameter calculation. -/
+theorem exists_cover {m r s d : ℕ} (hm : 1 ≤ m) {C : Circ (Fin r)}
+    (hC : IsMonotoneCirc C) (hR : IsReduced C) (hroot : C.isAnd = true) (hdepth : C.depth ≤ d)
+    {ε α β L : ℝ} (hε : 0 < ε) (hε' : ε ≤ 1/2) (hβ : 0 ≤ β)
+    (hfair : α ≤ bernProb (1/2) (fun y => C.eval y))
+    (hlow : bernProb (1/2-3*ε/4) (fun y => C.eval y) ≤ β)
+    (hs : 4*(m : ℝ) ≤ (s : ℝ)*α)
+    (hbudget : (s : ℝ)*β+Real.exp (-((m : ℝ)*ε^2/64)) < Real.exp (-L)/2) :
+    ∃ Cm : Circ (Fin m), IsMonotoneCirc Cm ∧ IsReduced Cm ∧ Cm.depth ≤ d+1 ∧
+      Cm.treeSize ≤ 1+s*C.treeSize ∧
+      (∃ cs, Cm = Circ.or cs ∧ ∀ c ∈ cs, c.isAnd = true ∧ c.depth ≤ d) ∧
+      (∀ x : Fin m → Bool, (m : ℝ)/2 ≤ (hammingWeight x : ℝ) → Cm.eval x = true) ∧
+      bernProb (1/2-ε) (fun x => Cm.eval x) ≤ Real.exp (-L) := by
+  have hfail := failure_probability_lt_half (s := s) hm hC α hfair hs
+  have hmean := CoveringAcceptanceBounds.low_mean_bound (s := s) hm hC hε hε' hβ hlow
+  obtain ⟨σ,hnot,hacc⟩ := ProofComplexity.FiniteExpectation.exists_good_small
+    (w := fun σ : Fin s → Fin r → Fin m => familyLaw σ) familyLaw_nonneg (familyLaw_sum hm)
+    (fun σ => badCoverage C σ) (fun σ => bernProb (1/2-ε) (fun x => (cover C σ).eval x))
+    (fun σ => BernoulliAlgebra.prob_nonneg (by linarith : 0 ≤ 1/2-ε) (by linarith : 1/2-ε ≤ 1) _)
+    (Real.exp_pos (-L)) hfail (hmean.trans_lt hbudget)
+  refine ⟨cover C σ,monotone_cover hC σ,reduced_cover hC hR hroot σ,?_,size_cover C σ,
+    rooted_children hroot hdepth σ,?_,hacc⟩
+  · exact (depth_cover C σ).trans (by omega)
+  · intro x hx
+    exact coverage_of_not_bad C σ hnot x hx
+
+end SemAC02.CoveringProbabilisticMethod
+end
+
+section
+-- Inlined Solutions.CoinShiftParameters
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CoinShiftParameters
+
+theorem shift_pos {ε : ℝ} (hε : 0 < ε) : 0 < ε/(1+ε) := div_pos hε (by linarith)
+
+theorem shift_lt {ε : ℝ} (hε : 0 < ε) : ε/(1+ε) < ε := by
+  apply (div_lt_iff₀ (by linarith : (0 : ℝ) < 1+ε)).mpr
+  nlinarith [sq_pos_of_pos hε]
+
+theorem shifted_scale_bound {ε : ℝ} (hε₀ : 0 < ε) (hε : ε ≤ 1) {d : ℕ} (hd : 2 ≤ d) :
+    (ε/(1+ε))^(-1/((d : ℝ)-1)) ≤ 2*ε^(-1/((d : ℝ)-1)) := by
+  have hd' : (2 : ℝ) ≤ d := by exact_mod_cast hd
+  let e := 1/((d : ℝ)-1)
+  have he : e ≤ 1 := (div_le_one (by linarith : (0 : ℝ) < (d : ℝ)-1)).mpr (by linarith)
+  have hexp : -1/((d : ℝ)-1) = -e := by dsimp only [e]; ring
+  rw [hexp]
+  have hden : 0 < 1+ε := by linarith
+  have hident : (ε/(1+ε))^(-e) = ε^(-e)*(1+ε)^e := by
+    rw [Real.div_rpow hε₀.le hden.le,Real.rpow_neg hden.le,div_inv_eq_mul]
+  have hpow : (1+ε)^e ≤ 2 :=
+    (Real.rpow_le_self_of_one_le (by linarith) he).trans (by linarith)
+  rw [hident]
+  simpa only [mul_comm] using mul_le_mul_of_nonneg_left hpow (Real.rpow_nonneg hε₀.le (-e))
+
+theorem scale_ge_one {ε : ℝ} (hε₀ : 0 < ε) (hε : ε ≤ 1) {d : ℕ} (hd : 2 ≤ d) :
+    1 ≤ ε^(-1/((d : ℝ)-1)) := by
+  have hd' : (2 : ℝ) ≤ d := by exact_mod_cast hd
+  apply Real.one_le_rpow_of_pos_of_le_one_of_nonpos hε₀ hε
+  exact div_nonpos_of_nonpos_of_nonneg (by norm_num) (by linarith)
+
+/-- Absorb the root-normalisation overhead into the source's uniform exponential constant. -/
+theorem size_absorption {ε : ℝ} (hε₀ : 0 < ε) (hε : ε ≤ 1) {d : ℕ} (hd : 2 ≤ d)
+    (A : ℝ) (s : ℕ) (hs : (s : ℝ) ≤ Real.exp (A*(ε/(1+ε))^(-1/((d : ℝ)-1)))) :
+    ((s+1 : ℕ) : ℝ) ≤ Real.exp ((2*(abs A)+1)*ε^(-1/((d : ℝ)-1))) := by
+  let L := ε^(-1/((d : ℝ)-1))
+  let L' := (ε/(1+ε))^(-1/((d : ℝ)-1))
+  have hL : 1 ≤ L := scale_ge_one hε₀ hε hd
+  have hL' : 0 ≤ L' := Real.rpow_nonneg (shift_pos hε₀).le _
+  have hbound : L' ≤ 2*L := shifted_scale_bound hε₀ hε hd
+  have hcoeff : A*L' ≤ (2*(abs A))*L := by
+    calc
+      _ ≤ (abs A)*L' := mul_le_mul_of_nonneg_right (le_abs_self A) hL'
+      _ ≤ (abs A)*(2*L) := mul_le_mul_of_nonneg_left hbound (abs_nonneg A)
+      _ = _ := by ring
+  have hs' : (s : ℝ) ≤ Real.exp ((2*(abs A))*L) := hs.trans (Real.exp_le_exp.mpr hcoeff)
+  have hP : 1 ≤ Real.exp ((2*(abs A))*L) := Real.one_le_exp_iff.mpr (by positivity)
+  have hE : 2 ≤ Real.exp L := by linarith [Real.add_one_le_exp L]
+  calc
+    _ = (s : ℝ)+1 := by simp
+    _ ≤ Real.exp ((2*(abs A))*L)+1 := by linarith
+    _ ≤ 2*Real.exp ((2*(abs A))*L) := by linarith
+    _ ≤ Real.exp ((2*(abs A))*L)*Real.exp L := by
+      nlinarith [mul_le_mul_of_nonneg_left hE (Real.exp_nonneg ((2*(abs A))*L))]
+    _ = _ := by rw [← Real.exp_add]; congr 1; dsimp only [L]; ring
+
+end SemAC02.CoinShiftParameters
+end
+
+section
+-- Inlined Solutions.CoveringDimension
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CoveringDimension
+
+theorem scale_power {ε : ℝ} (hε : 0 < ε) {d : ℕ} (hd : 2 ≤ d) :
+    (ε^(-1/((d : ℝ)-1)))^(d-1) = ε⁻¹ := by
+  have hr : (2 : ℝ) ≤ d := by exact_mod_cast hd
+  have hdn : (d : ℝ)-1 ≠ 0 := by linarith
+  rw [← Real.rpow_mul_natCast hε.le,Nat.cast_sub (by omega : 1 ≤ d),Nat.cast_one]
+  rw [show (-1/((d : ℝ)-1))*((d : ℝ)-1) = -1 by field_simp]
+  exact Real.rpow_neg_one ε
+
+theorem scale_dimension_identity {ε : ℝ} (hε : 0 < ε) {d : ℕ} (hd : 2 ≤ d) :
+    (ε^(-1/((d : ℝ)-1)))^(2*d-1)*ε^2 = ε^(-1/((d : ℝ)-1)) := by
+  rw [show 2*d-1 = (d-1)*2+1 by omega,pow_succ,pow_mul,scale_power hε hd]
+  field_simp
+
+theorem small_parameter_scale {C ε : ℝ} (hC : 0 < C) (hε : 0 < ε) {d : ℕ} (hd : 2 ≤ d)
+    (hsmall : ε < 1/C^(d-1)) : C ≤ ε^(-1/((d : ℝ)-1)) := by
+  have hcpos : 0 < C^(d-1) := pow_pos hC _
+  have hprod : ε*C^(d-1) < 1 := (lt_div_iff₀ hcpos).mp hsmall
+  have hp : C^(d-1) < (ε^(-1/((d : ℝ)-1)))^(d-1) := by
+    rw [scale_power hε hd]
+    have h := (lt_div_iff₀ hε).mpr (show C^(d-1)*ε < (1 : ℝ) from by nlinarith)
+    simpa only [one_div] using h
+  by_contra! hn
+  have hle := pow_le_pow_left₀ (Real.rpow_nonneg hε.le _) hn.le (d-1)
+  linarith
+
+theorem smallest_odd_upper {x : ℝ} (hx : 3 ≤ x) {m : ℕ} (hm : Odd m) (hxm : x ≤ (m : ℝ))
+    (hmin : ∀ m' : ℕ, Odd m' → x ≤ (m' : ℝ) → m ≤ m') : (m : ℝ) < x+2 := by
+  have hm3 : 3 ≤ m := by exact_mod_cast (show (3 : ℝ) ≤ (m : ℝ) from hx.trans hxm)
+  by_contra! hn
+  have hodd : Odd (m-2) := Nat.Odd.sub_even (by omega) hm (by decide : Even 2)
+  have hdown : x ≤ ((m-2 : ℕ) : ℝ) := by
+    rw [Nat.cast_sub (by omega : 2 ≤ m),Nat.cast_ofNat]
+    linarith
+  have h := hmin (m-2) hodd hdown
+  omega
+
+theorem dimension_bounds {L : ℝ} (hL : 1 ≤ L) (n : ℕ) {m : ℕ} (hm : Odd m)
+    (hml : 128*L^n ≤ (m : ℝ))
+    (hmin : ∀ m' : ℕ, Odd m' → 128*L^n ≤ (m' : ℝ) → m ≤ m') :
+    1 ≤ m ∧ (m : ℝ) ≤ 130*L^n := by
+  have hp : 1 ≤ L^n := one_le_pow₀ hL
+  have hx : (3 : ℝ) ≤ 128*L^n := by nlinarith
+  have hu := smallest_odd_upper hx hm hml hmin
+  constructor
+  · have h : (1 : ℝ) ≤ (m : ℝ) := by nlinarith
+    exact_mod_cast h
+  · nlinarith
+
+theorem dimension_tail_exponent {ε : ℝ} (hε : 0 < ε) {d m : ℕ} (hd : 2 ≤ d)
+    (hm : 128*(ε^(-1/((d : ℝ)-1)))^(2*d-1) ≤ (m : ℝ)) :
+    2*ε^(-1/((d : ℝ)-1)) ≤ (m : ℝ)*ε^2/64 := by
+  have h := mul_le_mul_of_nonneg_right hm (sq_nonneg ε)
+  rw [mul_assoc,scale_dimension_identity hε hd] at h
+  nlinarith
+
+end SemAC02.CoveringDimension
+end
+
+section
+-- Inlined Solutions.CoveringSampleParameters
+
+set_option maxHeartbeats 2000000
+
+namespace SemAC02.CoveringSampleParameters
+
+noncomputable def amplificationCount (L : ℝ) : ℕ := ⌈10*L⌉₊
+noncomputable def copyCount (m t : ℕ) : ℕ := ⌈4*(m : ℝ)*(5/4 : ℝ)^t⌉₊
+noncomputable def cutoff (n : ℕ) : ℝ := 521*(n.factorial : ℝ)+8
+
+theorem cutoff_ge_eight (n : ℕ) : 8 ≤ cutoff n := by
+  unfold cutoff
+  have h : (0 : ℝ) ≤ (n.factorial : ℝ) := Nat.cast_nonneg _
+  linarith
+
+theorem amplification_bounds {L : ℝ} (hL : 1 ≤ L) :
+    1 ≤ amplificationCount L ∧ 10*L ≤ (amplificationCount L : ℝ) ∧
+      (amplificationCount L : ℝ) ≤ 11*L := by
+  have hlo := Nat.le_ceil (10*L)
+  have hhi := Nat.ceil_lt_add_one (show 0 ≤ 10*L from by positivity)
+  refine ⟨Nat.one_le_ceil_iff.mpr (by positivity),hlo,?_⟩
+  change (⌈10*L⌉₊ : ℝ) ≤ 11*L
+  linarith
+
+theorem copy_bounds (m t : ℕ) :
+    4*(m : ℝ)*(5/4 : ℝ)^t ≤ (copyCount m t : ℝ) ∧
+      (copyCount m t : ℝ) ≤ 4*(m : ℝ)*(5/4 : ℝ)^t+1 :=
+  ⟨Nat.le_ceil _,(Nat.ceil_lt_add_one (by positivity)).le⟩
+
+theorem coverage_mass (m t : ℕ) : 4*(m : ℝ) ≤ (copyCount m t : ℝ)*(4/5 : ℝ)^t := by
+  have hc := mul_le_mul_of_nonneg_right (copy_bounds m t).1 (show 0 ≤ (4/5 : ℝ)^t from by positivity)
+  have hcancel : (5/4 : ℝ)^t*(4/5 : ℝ)^t = 1 := by rw [← mul_pow]; norm_num
+  calc
+    _ = (4*(m : ℝ)*(5/4 : ℝ)^t)*(4/5 : ℝ)^t := by rw [mul_assoc,hcancel,mul_one]
+    _ ≤ _ := hc
+
+theorem low_mass (m t : ℕ) :
+    (copyCount m t : ℝ)*(1/5 : ℝ)^t ≤ (4*(m : ℝ)+1)*(1/4 : ℝ)^t := by
+  have hc := mul_le_mul_of_nonneg_right (copy_bounds m t).2 (show 0 ≤ (1/5 : ℝ)^t from by positivity)
+  have hprod : (5/4 : ℝ)^t*(1/5 : ℝ)^t = (1/4 : ℝ)^t := by rw [← mul_pow]; norm_num
+  have hp : (1/5 : ℝ)^t ≤ (1/4 : ℝ)^t := pow_le_pow_left₀ (by norm_num) (by norm_num) t
+  calc
+    _ ≤ (4*(m : ℝ)*(5/4 : ℝ)^t+1)*(1/5 : ℝ)^t := hc
+    _ = 4*(m : ℝ)*((5/4 : ℝ)^t*(1/5 : ℝ)^t)+(1/5 : ℝ)^t := by ring
+    _ = 4*(m : ℝ)*(1/4 : ℝ)^t+(1/5 : ℝ)^t := by rw [hprod]
+    _ ≤ 4*(m : ℝ)*(1/4 : ℝ)^t+(1/4 : ℝ)^t := by linarith
+    _ = _ := by ring
+
+theorem quarter_le_exp_neg_one : (1/4 : ℝ) ≤ Real.exp (-1) := by
+  have hh : Real.exp (1/2 : ℝ) ≤ 2 := by
+    have h := Real.exp_bound_div_one_sub_of_interval (by norm_num : (0 : ℝ) ≤ 1/2)
+      (by norm_num : (1/2 : ℝ) < 1)
+    norm_num at h ⊢
+    exact h
+  have he : Real.exp 1 ≤ 4 := by
+    rw [show (1 : ℝ) = 1/2+1/2 by ring,Real.exp_add]
+    nlinarith [Real.exp_pos (1/2 : ℝ)]
+  have hi : (1/4 : ℝ) ≤ 1/Real.exp 1 := (le_div_iff₀ (Real.exp_pos 1)).mpr (by linarith)
+  simpa only [Real.exp_neg,one_div] using hi
+
+theorem amplification_decay {L : ℝ} (hL : 1 ≤ L) :
+    (1/4 : ℝ)^(amplificationCount L) ≤ Real.exp (-10*L) := by
+  calc
+    _ ≤ Real.exp (-1)^(amplificationCount L) := pow_le_pow_left₀ (by norm_num) quarter_le_exp_neg_one _
+    _ = Real.exp (-(amplificationCount L : ℝ)) := by rw [← Real.exp_nat_mul]; congr 1; ring
+    _ ≤ _ := Real.exp_le_exp.mpr (by linarith [(amplification_bounds hL).2.1])
+
+theorem polynomial_decay {L : ℝ} {n m : ℕ} (hL : cutoff n ≤ L) (hm : (m : ℝ) ≤ 130*L^n) :
+    (4*(m : ℝ)+1)*Real.exp (-10*L) ≤ Real.exp (-2*L) := by
+  have hL8 : 8 ≤ L := (cutoff_ge_eight n).trans hL
+  have hL1 : 1 ≤ L := by linarith
+  have hLn : 1 ≤ L^n := one_le_pow₀ hL1
+  have hf : (0 : ℝ) < (n.factorial : ℝ) := by exact_mod_cast Nat.factorial_pos n
+  have hp : L^n ≤ (n.factorial : ℝ)*Real.exp L := by
+    have h := (div_le_iff₀ hf).mp (Real.pow_div_factorial_le_exp L (by linarith : 0 ≤ L) n)
+    nlinarith
+  have hcoeff : 521*(n.factorial : ℝ) ≤ Real.exp (7*L) := by
+    have hc : 521*(n.factorial : ℝ)+8 ≤ L := hL
+    linarith [Real.add_one_le_exp (7*L)]
+  calc
+    _ ≤ (521*L^n)*Real.exp (-10*L) :=
+      mul_le_mul_of_nonneg_right (by nlinarith : 4*(m : ℝ)+1 ≤ 521*L^n) (Real.exp_pos _).le
+    _ ≤ (521*((n.factorial : ℝ)*Real.exp L))*Real.exp (-10*L) := by gcongr
+    _ = (521*(n.factorial : ℝ))*(Real.exp L*Real.exp (-10*L)) := by ring
+    _ = (521*(n.factorial : ℝ))*Real.exp (-9*L) := by rw [← Real.exp_add]; congr 1; congr 1; ring
+    _ ≤ Real.exp (7*L)*Real.exp (-9*L) := mul_le_mul_of_nonneg_right hcoeff (Real.exp_pos _).le
+    _ = _ := by rw [← Real.exp_add]; congr 1; ring
+
+theorem double_decay_strict {L : ℝ} (hL : 8 ≤ L) : 2*Real.exp (-2*L) < Real.exp (-L)/2 := by
+  have hs : Real.exp (-L) < 1/4 := by
+    have hi : 1/Real.exp L < 1/4 := (div_lt_iff₀ (Real.exp_pos L)).mpr (by linarith [Real.add_one_le_exp L])
+    simpa only [Real.exp_neg,one_div] using hi
+  have he : Real.exp (-2*L) = (Real.exp (-L))^2 := by
+    rw [show -2*L = (-L)+(-L) by ring,Real.exp_add,pow_two]
+  rw [he]
+  nlinarith [mul_pos (Real.exp_pos (-L)) (sub_pos.mpr hs)]
+
+theorem mean_budget {L ε : ℝ} {n m : ℕ} (hL : cutoff n ≤ L) (hm : (m : ℝ) ≤ 130*L^n)
+    (htail : 2*L ≤ (m : ℝ)*ε^2/64) :
+    (copyCount m (amplificationCount L) : ℝ)*(1/5 : ℝ)^(amplificationCount L)+
+      Real.exp (-((m : ℝ)*ε^2/64)) < Real.exp (-L)/2 := by
+  have hL8 : 8 ≤ L := (cutoff_ge_eight n).trans hL
+  have hl : (copyCount m (amplificationCount L) : ℝ)*(1/5 : ℝ)^(amplificationCount L) ≤ Real.exp (-2*L) := by
+    calc
+      _ ≤ (4*(m : ℝ)+1)*(1/4 : ℝ)^(amplificationCount L) := low_mass _ _
+      _ ≤ (4*(m : ℝ)+1)*Real.exp (-10*L) :=
+        mul_le_mul_of_nonneg_left (amplification_decay (by linarith)) (by positivity)
+      _ ≤ _ := polynomial_decay hL hm
+  have ht : Real.exp (-((m : ℝ)*ε^2/64)) ≤ Real.exp (-2*L) := Real.exp_le_exp.mpr (by linarith)
+  exact (show _ ≤ 2*Real.exp (-2*L) from by linarith).trans_lt (double_decay_strict hL8)
+
+end SemAC02.CoveringSampleParameters
+end
+
+section
+-- Inlined Solutions.CoveringSizeParameters
+
+set_option maxHeartbeats 2000000
+
+open SemAC02.CoveringSampleParameters
+
+namespace SemAC02.CoveringSizeParameters
+
+theorem shifted_scale_bound {ε : ℝ} (hε : 0 < ε) {d : ℕ} (hd : 2 ≤ d) :
+    (3*ε/4)^(-1/((d : ℝ)-1)) ≤ 2*ε^(-1/((d : ℝ)-1)) := by
+  have hdr : (2 : ℝ) ≤ d := by exact_mod_cast hd
+  let e := 1/((d : ℝ)-1)
+  have he : e ≤ 1 := (div_le_one (by linarith : (0 : ℝ) < (d : ℝ)-1)).mpr (by linarith)
+  have hexp : -1/((d : ℝ)-1) = -e := by dsimp [e]; ring
+  rw [hexp,show 3*ε/4 = ε/(4/3) by ring,
+    Real.div_rpow hε.le (by norm_num : (0 : ℝ) ≤ 4/3),
+    Real.rpow_neg (by norm_num : (0 : ℝ) ≤ 4/3),div_inv_eq_mul]
+  have hb : (4/3 : ℝ)^e ≤ 2 :=
+    (Real.rpow_le_self_of_one_le (by norm_num) he).trans (by norm_num)
+  simpa only [mul_comm] using mul_le_mul_of_nonneg_left hb (Real.rpow_nonneg hε.le (-e))
+
+theorem dimension_exponential {L : ℝ} (hL : 1 ≤ L) {n m : ℕ} (hm : (m : ℝ) ≤ 130*L^n) :
+    (m : ℝ) ≤ Real.exp (((n : ℝ)+130)*L) := by
+  have hLin : L ≤ Real.exp L := by linarith [Real.add_one_le_exp L]
+  have hp : L^n ≤ Real.exp ((n : ℝ)*L) := by
+    calc
+      _ ≤ Real.exp L ^ n := pow_le_pow_left₀ (by linarith) hLin n
+      _ = _ := (Real.exp_nat_mul _ _).symm
+  have hc : (130 : ℝ) ≤ Real.exp (130*L) := by linarith [Real.add_one_le_exp (130*L)]
+  calc
+    _ ≤ 130*L^n := hm
+    _ ≤ Real.exp (130*L)*Real.exp ((n : ℝ)*L) :=
+      mul_le_mul hc hp (by positivity) (Real.exp_pos _).le
+    _ = _ := by rw [← Real.exp_add]; congr 1; ring
+
+theorem amplification_exponential {L : ℝ} (hL : 1 ≤ L) :
+    (amplificationCount L : ℝ) ≤ Real.exp (11*L) := by
+  have h := (amplification_bounds hL).2.2
+  linarith [Real.add_one_le_exp (11*L)]
+
+theorem copies_exponential {L : ℝ} (hL : 1 ≤ L) {n m : ℕ} (hm : (m : ℝ) ≤ 130*L^n) :
+    (copyCount m (amplificationCount L) : ℝ) ≤ Real.exp (((n : ℝ)+146)*L) := by
+  let t := amplificationCount L
+  have ht : (t : ℝ) ≤ 11*L := (amplification_bounds hL).2.2
+  have hpow : (5/4 : ℝ)^t ≤ Real.exp (11*L) := by
+    calc
+      _ ≤ Real.exp 1 ^ t := pow_le_pow_left₀ (by norm_num) (by linarith [Real.add_one_le_exp 1]) t
+      _ = Real.exp (t : ℝ) := by rw [← Real.exp_nat_mul,mul_one]
+      _ ≤ _ := Real.exp_le_exp.mpr ht
+  have hfour : (4 : ℝ) ≤ Real.exp (4*L) := by linarith [Real.add_one_le_exp (4*L)]
+  have hproduct : 4*(m : ℝ)*(5/4 : ℝ)^t ≤ Real.exp (((n : ℝ)+145)*L) := by
+    calc
+      _ ≤ (Real.exp (4*L)*Real.exp (((n : ℝ)+130)*L))*Real.exp (11*L) :=
+        mul_le_mul (mul_le_mul hfour (dimension_exponential hL hm) (Nat.cast_nonneg _) (Real.exp_pos _).le)
+          hpow (by positivity) (by positivity)
+      _ = _ := by rw [← Real.exp_add,← Real.exp_add]; congr 1; ring
+  have hs : (copyCount m t : ℝ) ≤ Real.exp (((n : ℝ)+145)*L)+1 := by
+    have h := (copy_bounds m t).2
+    linarith
+  have hQ : 1 ≤ Real.exp (((n : ℝ)+145)*L) := Real.one_le_exp_iff.mpr (by positivity)
+  have hEL : 2 ≤ Real.exp L := by linarith [Real.add_one_le_exp L]
+  calc
+    _ ≤ Real.exp (((n : ℝ)+145)*L)+1 := hs
+    _ ≤ Real.exp (((n : ℝ)+145)*L)*Real.exp L := by nlinarith
+    _ = _ := by rw [← Real.exp_add]; congr 1; ring
+
+theorem total_size {L D A : ℝ} (hL : 1 ≤ L) (hD : 0 ≤ D) (hD' : D ≤ 2*L)
+    {n m u v : ℕ} (hm : (m : ℝ) ≤ 130*L^n)
+    (hu : (u : ℝ) ≤ (amplificationCount L : ℝ)*Real.exp (A*D))
+    (hv : v ≤ 1+copyCount m (amplificationCount L)*u) :
+    (v : ℝ) ≤ Real.exp (((n : ℝ)+158+2*abs A)*L) := by
+  have hcoeff : A*D ≤ (2*abs A)*L := by
+    calc
+      _ ≤ (abs A)*D := mul_le_mul_of_nonneg_right (le_abs_self A) hD
+      _ ≤ (abs A)*(2*L) := mul_le_mul_of_nonneg_left hD' (abs_nonneg A)
+      _ = _ := by ring
+  have hu' : (u : ℝ) ≤ Real.exp ((11+2*abs A)*L) := by
+    calc
+      _ ≤ (amplificationCount L : ℝ)*Real.exp (A*D) := hu
+      _ ≤ Real.exp (11*L)*Real.exp ((2*abs A)*L) :=
+        mul_le_mul (amplification_exponential hL) (Real.exp_le_exp.mpr hcoeff) (Real.exp_pos _).le (Real.exp_pos _).le
+      _ = _ := by rw [← Real.exp_add]; congr 1; ring
+  have hprod : (copyCount m (amplificationCount L) : ℝ)*(u : ℝ) ≤
+      Real.exp (((n : ℝ)+157+2*abs A)*L) := by
+    calc
+      _ ≤ Real.exp (((n : ℝ)+146)*L)*Real.exp ((11+2*abs A)*L) :=
+        mul_le_mul (copies_exponential hL hm) hu' (Nat.cast_nonneg _) (Real.exp_pos _).le
+      _ = _ := by rw [← Real.exp_add]; congr 1; ring
+  have hv' : (v : ℝ) ≤ 1+(copyCount m (amplificationCount L) : ℝ)*(u : ℝ) := by exact_mod_cast hv
+  have hQ : 1 ≤ Real.exp (((n : ℝ)+157+2*abs A)*L) := Real.one_le_exp_iff.mpr (by positivity)
+  have hEL : 2 ≤ Real.exp L := by linarith [Real.add_one_le_exp L]
+  calc
+    _ ≤ 1+Real.exp (((n : ℝ)+157+2*abs A)*L) := by linarith
+    _ ≤ Real.exp (((n : ℝ)+157+2*abs A)*L)*Real.exp L := by nlinarith
+    _ = _ := by rw [← Real.exp_add]; congr 1; ring
+
+end SemAC02.CoveringSizeParameters
+end
+
+section
+-- Inlined Solutions.CircuitRenaming
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CircuitRenaming
+
+theorem eval_rename {V W : Type} (f : V → W) (C : Circ V) (x : W → Bool) :
+    (C.rename f).eval x = C.eval (x ∘ f) := by
+  cases C with
+  | const b => simp [Circ.rename,Circ.eval]
+  | lit v b => simp [Circ.rename,Circ.eval,Function.comp_def]
+  | and cs =>
+    simp only [Circ.rename,Circ.eval,List.map_map,Function.comp_def]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_rename f c x
+  | or cs =>
+    simp only [Circ.rename,Circ.eval,List.map_map,Function.comp_def]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_rename f c x
+  | xor cs =>
+    simp only [Circ.rename,Circ.eval,List.map_map,Function.comp_def]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact eval_rename f c x
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem rename_comp {U V W : Type} (f : U → V) (g : V → W) (C : Circ U) :
+    (C.rename f).rename g = C.rename (g ∘ f) := by
+  cases C with
+  | const b => simp [Circ.rename]
+  | lit v b => simp [Circ.rename,Function.comp_def]
+  | and cs =>
+    simp only [Circ.rename,List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact rename_comp f g c
+  | or cs =>
+    simp only [Circ.rename,List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact rename_comp f g c
+  | xor cs =>
+    simp only [Circ.rename,List.map_map]
+    congr 1
+    apply List.map_congr_left
+    intro c hc
+    exact rename_comp f g c
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem rename_id {V : Type} (C : Circ V) : C.rename id = C := by
+  cases C with
+  | const b => simp [Circ.rename]
+  | lit v b => simp [Circ.rename]
+  | and cs =>
+    rw [Circ.rename]
+    congr 1
+    calc
+      cs.map (Circ.rename id) = cs.map id := List.map_congr_left (fun c hc => rename_id c)
+      _ = cs := List.map_id _
+  | or cs =>
+    rw [Circ.rename]
+    congr 1
+    calc
+      cs.map (Circ.rename id) = cs.map id := List.map_congr_left (fun c hc => rename_id c)
+      _ = cs := List.map_id _
+  | xor cs =>
+    rw [Circ.rename]
+    congr 1
+    calc
+      cs.map (Circ.rename id) = cs.map id := List.map_congr_left (fun c hc => rename_id c)
+      _ = cs := List.map_id _
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem rename_leftInverse {V W : Type} (f : V → W) (g : W → V)
+    (hg : Function.LeftInverse g f) : Function.LeftInverse (Circ.rename g) (Circ.rename f) := by
+  intro C
+  rw [rename_comp,show g ∘ f = id from funext hg,rename_id]
+
+theorem rename_injective {V W : Type} [Nonempty V] (f : V → W) (hf : Function.Injective f) :
+    Function.Injective (Circ.rename f) :=
+  (rename_leftInverse f (Function.invFun f) (Function.leftInverse_invFun hf)).injective
+
+@[simp] theorem isAnd_rename {V W : Type} (f : V → W) (C : Circ V) :
+    (C.rename f).isAnd = C.isAnd := by cases C <;> simp [Circ.rename,Circ.isAnd]
+@[simp] theorem isOr_rename {V W : Type} (f : V → W) (C : Circ V) :
+    (C.rename f).isOr = C.isOr := by cases C <;> simp [Circ.rename,Circ.isOr]
+@[simp] theorem isXor_rename {V W : Type} (f : V → W) (C : Circ V) :
+    (C.rename f).isXor = C.isXor := by cases C <;> simp [Circ.rename,Circ.isXor]
+
+theorem monotone_rename {V W : Type} (f : V → W) {C : Circ V} (hC : IsMonotoneCirc C) :
+    IsMonotoneCirc (C.rename f) := by
+  induction hC with
+  | const b => rw [Circ.rename]; constructor
+  | lit v => rw [Circ.rename]; constructor
+  | and cs hcs ih =>
+    rw [Circ.rename]
+    apply IsMonotoneCirc.and
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+    exact ih c' hc'
+  | or cs hcs ih =>
+    rw [Circ.rename]
+    apply IsMonotoneCirc.or
+    intro c hc
+    obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+    exact ih c' hc'
+
+theorem reduced_rename {V W : Type} [Nonempty V] (f : V → W) (hf : Function.Injective f)
+    {C : Circ V} (hC : IsReduced C) : IsReduced (C.rename f) := by
+  induction hC with
+  | const b => rw [Circ.rename]; constructor
+  | lit v b => rw [Circ.rename]; constructor
+  | and cs hn ht hr ih =>
+    rw [Circ.rename]
+    apply IsReduced.and _ (hn.map (rename_injective f hf))
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isAnd_rename] using ht c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+  | or cs hn ht hr ih =>
+    rw [Circ.rename]
+    apply IsReduced.or _ (hn.map (rename_injective f hf))
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isOr_rename] using ht c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+  | xor cs hn ht hr ih =>
+    rw [Circ.rename]
+    apply IsReduced.xor _ (hn.map (rename_injective f hf))
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      simpa only [isXor_rename] using ht c' hc'
+    · intro c hc
+      obtain ⟨c',hc',rfl⟩ := List.mem_map.mp hc
+      exact ih c' hc'
+
+theorem depth_rename {V W : Type} (f : V → W) (C : Circ V) :
+    (C.rename f).depth = C.depth := by
+  cases C with
+  | const b => simp [Circ.rename,Circ.depth]
+  | lit v b => simp [Circ.rename,Circ.depth]
+  | and cs =>
+    simp only [Circ.rename,Circ.depth,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => depth_rename f c)
+  | or cs =>
+    simp only [Circ.rename,Circ.depth,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => depth_rename f c)
+  | xor cs =>
+    simp only [Circ.rename,Circ.depth,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => depth_rename f c)
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+theorem size_rename {V W : Type} (f : V → W) (C : Circ V) :
+    (C.rename f).treeSize = C.treeSize := by
+  cases C with
+  | const b => simp [Circ.rename,Circ.treeSize]
+  | lit v b => simp [Circ.rename,Circ.treeSize]
+  | and cs =>
+    simp only [Circ.rename,Circ.treeSize,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => size_rename f c)
+  | or cs =>
+    simp only [Circ.rename,Circ.treeSize,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => size_rename f c)
+  | xor cs =>
+    simp only [Circ.rename,Circ.treeSize,List.map_map,Function.comp_def]
+    congr 1
+    congr 1
+    exact List.map_congr_left (fun c hc => size_rename f c)
+termination_by C
+decreasing_by all_goals simp_wf; have := List.sizeOf_lt_of_mem hc; omega
+
+end SemAC02.CircuitRenaming
+end
+
+section
+-- Inlined Solutions.ConjunctionCopies
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CircuitRenaming SemAC02.MonotoneCircuitPinning
+
+namespace SemAC02.ConjunctionCopies
+
+def children {V : Type} (t : ℕ) (cs : List (Circ V)) : List (Circ (Fin t × V)) :=
+  (List.ofFn (fun i : Fin t => cs.map (Circ.rename (fun v => (i,v))))).flatten
+
+open Classical in
+noncomputable def amplify {V : Type} (t : ℕ) (cs : List (Circ V)) : Circ (Fin t × V) :=
+  .and (children t cs).dedup
+
+theorem mem_children {V : Type} {t : ℕ} {cs : List (Circ V)} {c : Circ (Fin t × V)} :
+    c ∈ children t cs ↔ ∃ i : Fin t, ∃ a ∈ cs, a.rename (fun v => (i,v)) = c := by
+  simp [children]
+
+theorem monotone_amplify {V : Type} (t : ℕ) {cs : List (Circ V)}
+    (hC : IsMonotoneCirc (.and cs)) : IsMonotoneCirc (amplify t cs) := by
+  classical
+  cases hC with
+  | and _ hcs =>
+    apply IsMonotoneCirc.and
+    intro c hc
+    obtain ⟨i,a,ha,rfl⟩ := mem_children.mp (List.mem_dedup.mp hc)
+    exact monotone_rename (fun v => (i,v)) (hcs a ha)
+
+theorem reduced_amplify {V : Type} [Nonempty V] (t : ℕ) {cs : List (Circ V)}
+    (hC : IsReduced (.and cs)) : IsReduced (amplify t cs) := by
+  classical
+  cases hC with
+  | and _ hn ht hr =>
+    apply IsReduced.and
+    · exact List.nodup_dedup _
+    · intro c hc
+      obtain ⟨i,a,ha,rfl⟩ := mem_children.mp (List.mem_dedup.mp hc)
+      simpa only [isAnd_rename] using ht a ha
+    · intro c hc
+      obtain ⟨i,a,ha,rfl⟩ := mem_children.mp (List.mem_dedup.mp hc)
+      exact reduced_rename (fun v => (i,v)) (fun a b h => Prod.mk.inj h |>.2) (hr a ha)
+
+theorem eval_amplify {V : Type} (t : ℕ) (cs : List (Circ V)) (x : Fin t × V → Bool) :
+    (amplify t cs).eval x = decide (∀ i : Fin t, (Circ.and cs).eval (fun v => x (i,v)) = true) := by
+  classical
+  apply Bool.eq_iff_iff.mpr
+  simp only [amplify,Circ.eval,List.all_map,all_dedup,Bool.decide_iff,List.all_eq_true]
+  constructor
+  · intro h i
+    intro c hc
+    have he := h (c.rename (fun v => (i,v))) (mem_children.mpr ⟨i,c,hc,rfl⟩)
+    simpa only [eval_rename,Function.comp_def] using he
+  · intro h c hc
+    obtain ⟨i,a,ha,rfl⟩ := mem_children.mp hc
+    simpa only [eval_rename,Function.comp_def] using h i a ha
+
+theorem depth_amplify {V : Type} (t : ℕ) (cs : List (Circ V)) :
+    (amplify t cs).depth ≤ (Circ.and cs).depth := by
+  classical
+  simp only [amplify,Circ.depth]
+  apply Nat.add_le_add_left
+  apply List.max_le_of_forall_le
+  intro k hk
+  obtain ⟨c,hc,rfl⟩ := List.mem_map.mp hk
+  obtain ⟨i,a,ha,rfl⟩ := mem_children.mp (List.mem_dedup.mp hc)
+  rw [depth_rename]
+  exact List.le_max_of_le (List.mem_map.mpr ⟨a,ha,rfl⟩) le_rfl
+
+theorem children_size {V : Type} (t : ℕ) (cs : List (Circ V)) :
+    ((children t cs).map Circ.treeSize).sum = t * (cs.map Circ.treeSize).sum := by
+  simp only [children,List.map_flatten,List.sum_flatten,List.map_ofFn,List.map_map,Function.comp_def]
+  simp only [size_rename]
+  simp
+
+theorem size_amplify {V : Type} {t : ℕ} (ht : 1 ≤ t) (cs : List (Circ V)) :
+    (amplify t cs).treeSize ≤ t * (Circ.and cs).treeSize := by
+  classical
+  have hs := dedup_sum_le (children t cs) Circ.treeSize
+  rw [children_size] at hs
+  simp only [amplify,Circ.treeSize]
+  nlinarith
+
+theorem prob_amplify {t m : ℕ} (p : ℝ) (cs : List (Circ (Fin m))) :
+    BernoulliProduct.prob p (fun x => (amplify t cs).eval x) =
+      bernProb p (fun x => (Circ.and cs).eval x) ^ t := by
+  simp only [eval_amplify]
+  exact BernoulliProduct.prob_all_copies (t := t) (m := m) p (fun x => (Circ.and cs).eval x)
+
+end SemAC02.ConjunctionCopies
+end
+
+section
+-- Inlined Solutions.CoinFormulaRooting
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.MonotoneCircuitDual SemAC02.BernoulliAlgebra
+
+namespace SemAC02.CoinFormulaRooting
+
+theorem dual_coin {m : ℕ} {C : Circ (Fin m)} (hC : IsMonotoneCirc C) (ε η : ℝ)
+    (hc : IsCoinDistinguisher ε η (fun x => C.eval x)) :
+    IsCoinDistinguisher ε η (fun x => (dual C).eval x) := by
+  rcases hc with ⟨hl,hh⟩
+  constructor
+  · calc
+      _ = bernProb ((1-ε)/2) (fun x => !C.eval (fun i => !x i)) := by
+        congr 1
+        funext x
+        exact eval_dual hC x
+      _ = bernProb (1-(1-ε)/2) (fun x => !C.eval x) :=
+        prob_complement_inputs ((1-ε)/2) (fun x => !C.eval x)
+      _ = bernProb ((1+ε)/2) (fun x => !C.eval x) := by congr 1; ring
+      _ ≤ η := hh
+  · calc
+      _ = bernProb ((1+ε)/2) (fun x => C.eval (fun i => !x i)) := by
+        congr 1
+        funext x
+        simp only [eval_dual hC,Bool.not_not]
+      _ = bernProb (1-(1+ε)/2) (fun x => C.eval x) :=
+        prob_complement_inputs ((1+ε)/2) (fun x => C.eval x)
+      _ = bernProb ((1-ε)/2) (fun x => C.eval x) := by congr 1; ring
+      _ ≤ η := hl
+
+def wrapAnd {V : Type} (C : Circ V) : Circ V := .and [C]
+
+@[simp] theorem eval_wrap {V : Type} (C : Circ V) (x : V → Bool) : (wrapAnd C).eval x = C.eval x := by
+  simp [wrapAnd,Circ.eval]
+
+theorem monotone_wrap {V : Type} {C : Circ V} (hC : IsMonotoneCirc C) : IsMonotoneCirc (wrapAnd C) := by
+  apply IsMonotoneCirc.and
+  intro c hc
+  simpa only [List.mem_singleton.mp hc] using hC
+
+theorem reduced_wrap {V : Type} {C : Circ V} (hC : IsReduced C) (ht : C.isAnd = false) : IsReduced (wrapAnd C) := by
+  apply IsReduced.and
+  · simp
+  · intro c hc
+    simpa only [List.mem_singleton.mp hc] using ht
+  · intro c hc
+    simpa only [List.mem_singleton.mp hc] using hC
+
+theorem depth_wrap {V : Type} (C : Circ V) : (wrapAnd C).depth = 1+C.depth := by simp [wrapAnd,Circ.depth]
+theorem size_wrap {V : Type} (C : Circ V) : (wrapAnd C).treeSize = C.treeSize+1 := by simp [wrapAnd,Circ.treeSize,Nat.add_comm]
+
+theorem and_rooted_variant {m : ℕ} (C : Circ (Fin m)) (hC : IsMonotoneCirc C) (hR : IsReduced C)
+    (ε η : ℝ) (hc : IsCoinDistinguisher ε η (fun x => C.eval x)) :
+    ∃ T : Circ (Fin m), IsMonotoneCirc T ∧ IsReduced T ∧ (∃ cs, T = Circ.and cs) ∧
+      T.depth ≤ max C.depth 1 ∧ T.treeSize ≤ C.treeSize+1 ∧
+      IsCoinDistinguisher ε η (fun x => T.eval x) := by
+  cases hC with
+  | const b =>
+    refine ⟨wrapAnd (.const b),monotone_wrap (.const b),reduced_wrap hR rfl,⟨[.const b],rfl⟩,?_,?_,?_⟩
+    · simp [depth_wrap,Circ.depth]
+    · rw [size_wrap]
+    · simpa only [eval_wrap] using hc
+  | lit v =>
+    refine ⟨wrapAnd (.lit v true),monotone_wrap (.lit v),reduced_wrap hR rfl,⟨[.lit v true],rfl⟩,?_,?_,?_⟩
+    · simp [depth_wrap,Circ.depth]
+    · rw [size_wrap]
+    · simpa only [eval_wrap] using hc
+  | and cs hcs =>
+    exact ⟨.and cs,.and cs hcs,hR,⟨cs,rfl⟩,le_max_left _ _,by omega,hc⟩
+  | or cs hcs =>
+    have hM := IsMonotoneCirc.or cs hcs
+    refine ⟨dual (.or cs),monotone_dual hM,reduced_dual hR,⟨cs.map dual,?_⟩,?_,?_,dual_coin hM ε η hc⟩
+    · rw [dual]
+    · rw [depth_dual]; exact le_max_left _ _
+    · rw [size_dual]; omega
+
+theorem prob_zero (p : ℝ) (E : (Fin 0 → Bool) → Bool) :
+    bernProb p E = if E (fun _ => false) then 1 else 0 := by
+  letI : Unique (Fin 0 → Bool) := ⟨⟨fun _ => false⟩,fun _ => funext (fun i => Fin.elim0 i)⟩
+  simp only [bernProb,Fintype.sum_unique,Finset.univ_eq_empty,Finset.prod_empty]
+  rfl
+
+theorem coin_dimension_pos {m : ℕ} (E : (Fin m → Bool) → Bool) (ε η : ℝ) (hη : η < 1)
+    (hc : IsCoinDistinguisher ε η E) : 1 ≤ m := by
+  cases m with
+  | zero =>
+    rcases hc with ⟨hl,hh⟩
+    rw [prob_zero] at hl hh
+    cases he : E (fun _ => false) <;> simp [he] at hl hh <;> linarith
+  | succ m => omega
+
+end SemAC02.CoinFormulaRooting
+end
+
+section
+-- Inlined Solutions.ReadOnceLayers
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CircuitRenaming SemAC02.MonotoneCircuitPinning
+
+namespace SemAC02.ReadOnceLayers
+
+def siblings {V : Type} (t : ℕ) (C : Circ V) : List (Circ (Fin t × V)) :=
+  List.ofFn (fun i : Fin t => C.rename (fun v => (i,v)))
+
+open Classical in
+noncomputable def andLayer {V : Type} (t : ℕ) (C : Circ V) : Circ (Fin t × V) :=
+  .and (siblings t C).dedup
+
+open Classical in
+noncomputable def orLayer {V : Type} (t : ℕ) (C : Circ V) : Circ (Fin t × V) :=
+  .or (siblings t C).dedup
+
+theorem monotone_and {V : Type} (t : ℕ) {C : Circ V} (hC : IsMonotoneCirc C) :
+    IsMonotoneCirc (andLayer t C) := by
+  classical
+  apply IsMonotoneCirc.and
+  intro c hc
+  obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+  exact monotone_rename _ hC
+
+theorem monotone_or {V : Type} (t : ℕ) {C : Circ V} (hC : IsMonotoneCirc C) :
+    IsMonotoneCirc (orLayer t C) := by
+  classical
+  apply IsMonotoneCirc.or
+  intro c hc
+  obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+  exact monotone_rename _ hC
+
+theorem reduced_and {V : Type} [Nonempty V] (t : ℕ) {C : Circ V}
+    (hC : IsReduced C) (hroot : C.isAnd = false) : IsReduced (andLayer t C) := by
+  classical
+  apply IsReduced.and
+  · exact List.nodup_dedup _
+  · intro c hc
+    obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+    simpa only [isAnd_rename] using hroot
+  · intro c hc
+    obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+    exact reduced_rename (fun v => (i,v)) (fun a b h => Prod.mk.inj h |>.2) hC
+
+theorem reduced_or {V : Type} [Nonempty V] (t : ℕ) {C : Circ V}
+    (hC : IsReduced C) (hroot : C.isOr = false) : IsReduced (orLayer t C) := by
+  classical
+  apply IsReduced.or
+  · exact List.nodup_dedup _
+  · intro c hc
+    obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+    simpa only [isOr_rename] using hroot
+  · intro c hc
+    obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+    exact reduced_rename (fun v => (i,v)) (fun a b h => Prod.mk.inj h |>.2) hC
+
+theorem eval_and {V : Type} (t : ℕ) (C : Circ V) (x : Fin t × V → Bool) :
+    (andLayer t C).eval x = decide (∀ i : Fin t, C.eval (fun v => x (i,v)) = true) := by
+  classical
+  apply Bool.eq_iff_iff.mpr
+  simp [andLayer,Circ.eval,List.all_map,all_dedup,siblings,eval_rename,Function.comp_def]
+
+theorem eval_or {V : Type} (t : ℕ) (C : Circ V) (x : Fin t × V → Bool) :
+    (orLayer t C).eval x = !(decide (∀ i : Fin t, (!C.eval (fun v => x (i,v))) = true)) := by
+  classical
+  apply Bool.eq_iff_iff.mpr
+  simp [orLayer,Circ.eval,List.any_map,any_dedup,siblings,eval_rename,Function.comp_def]
+
+theorem depth_and {V : Type} (t : ℕ) (C : Circ V) : (andLayer t C).depth ≤ 1+C.depth := by
+  classical
+  simp only [andLayer,Circ.depth]
+  apply Nat.add_le_add_left
+  apply List.max_le_of_forall_le
+  intro k hk
+  obtain ⟨c,hc,rfl⟩ := List.mem_map.mp hk
+  obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+  exact (depth_rename _ C).le
+
+theorem depth_or {V : Type} (t : ℕ) (C : Circ V) : (orLayer t C).depth ≤ 1+C.depth := by
+  classical
+  simp only [orLayer,Circ.depth]
+  apply Nat.add_le_add_left
+  apply List.max_le_of_forall_le
+  intro k hk
+  obtain ⟨c,hc,rfl⟩ := List.mem_map.mp hk
+  obtain ⟨i,rfl⟩ := List.mem_ofFn.mp (List.mem_dedup.mp hc)
+  exact (depth_rename _ C).le
+
+theorem siblings_size {V : Type} (t : ℕ) (C : Circ V) :
+    ((siblings t C).map Circ.treeSize).sum = t*C.treeSize := by
+  simp [siblings,List.map_ofFn,Function.comp_def,size_rename]
+
+theorem size_and {V : Type} (t : ℕ) (C : Circ V) :
+    (andLayer t C).treeSize ≤ 1+t*C.treeSize := by
+  classical
+  have hs := dedup_sum_le (siblings t C) Circ.treeSize
+  rw [siblings_size] at hs
+  simpa only [andLayer,Circ.treeSize] using Nat.add_le_add_left hs 1
+
+theorem size_or {V : Type} (t : ℕ) (C : Circ V) :
+    (orLayer t C).treeSize ≤ 1+t*C.treeSize := by
+  classical
+  have hs := dedup_sum_le (siblings t C) Circ.treeSize
+  rw [siblings_size] at hs
+  simpa only [orLayer,Circ.treeSize] using Nat.add_le_add_left hs 1
+
+theorem prob_and {t m : ℕ} (p : ℝ) (C : Circ (Fin m)) :
+    BernoulliProduct.prob p (fun x => (andLayer t C).eval x) =
+      bernProb p (fun x => C.eval x) ^ t := by
+  simp only [eval_and]
+  exact BernoulliProduct.prob_all_copies (t := t) (m := m) p (fun x => C.eval x)
+
+theorem prob_or {t m : ℕ} (p : ℝ) (C : Circ (Fin m)) :
+    BernoulliProduct.prob p (fun x => (orLayer t C).eval x) =
+      1-(1-bernProb p (fun x => C.eval x)) ^ t := by
+  simp only [eval_or]
+  rw [BernoulliProduct.prob_complement]
+  have h := BernoulliProduct.prob_all_copies (t := t) (m := m) p (fun x => !C.eval x)
+  rw [BernoulliAlgebra.prob_compl] at h
+  rw [h]
+
+end SemAC02.ReadOnceLayers
+end
+
+section
+-- Inlined Solutions.CoinAlternatingLayers
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CircuitRenaming SemAC02.ReadOnceLayers SemAC02.BernoulliProduct
+
+namespace SemAC02.CoinAlternatingLayers
+
+/-- AND-rooted stages use acceptance as their rare event; OR-rooted stages use rejection. -/
+def rareEvent {m : ℕ} (b : Bool) (C : Circ (Fin m)) (x : Fin m → Bool) : Bool :=
+  if b then C.eval x else !C.eval x
+
+@[simp] theorem rareEvent_true {m : ℕ} (C : Circ (Fin m)) :
+    rareEvent true C = (fun x => C.eval x) := rfl
+@[simp] theorem rareEvent_false {m : ℕ} (C : Circ (Fin m)) :
+    rareEvent false C = (fun x => !C.eval x) := rfl
+
+noncomputable def next {m : ℕ} (b : Bool) (C : Circ (Fin m)) (n : ℕ) : Circ (Fin (n*m)) :=
+  (if b then orLayer n C else andLayer n C).rename finProdFinEquiv
+
+theorem monotone_next {m : ℕ} (b : Bool) (C : Circ (Fin m)) (n : ℕ) (hC : IsMonotoneCirc C) :
+    IsMonotoneCirc (next b C n) := by
+  apply monotone_rename
+  cases b
+  · exact monotone_and n hC
+  · exact monotone_or n hC
+
+theorem reduced_next {m : ℕ} [Nonempty (Fin m)] (b : Bool) (C : Circ (Fin m)) (n : ℕ)
+    (hn : 1 ≤ n) (hC : IsReduced C) (hA : C.isAnd = b) (hO : C.isOr = !b) :
+    IsReduced (next b C n) := by
+  letI : Nonempty (Fin n) := ⟨⟨0,by omega⟩⟩
+  apply reduced_rename finProdFinEquiv finProdFinEquiv.injective
+  cases b
+  · exact reduced_and _ hC hA
+  · exact reduced_or _ hC hO
+
+theorem roots_next {m : ℕ} (b : Bool) (C : Circ (Fin m)) (n : ℕ) :
+    (next b C n).isAnd = !b ∧ (next b C n).isOr = b := by
+  cases b <;> simp [next,andLayer,orLayer,Circ.rename,Circ.isAnd,Circ.isOr]
+
+theorem depth_next {m : ℕ} (b : Bool) (C : Circ (Fin m)) (n : ℕ) :
+    (next b C n).depth ≤ 1+C.depth := by
+  rw [next,depth_rename]
+  cases b
+  · exact depth_and n C
+  · exact depth_or n C
+
+theorem size_next {m : ℕ} (b : Bool) (C : Circ (Fin m)) (n : ℕ) :
+    (next b C n).treeSize ≤ 1+n*C.treeSize := by
+  rw [next,size_rename]
+  cases b
+  · exact size_and n C
+  · exact size_or n C
+
+theorem prob_next {m : ℕ} (p : ℝ) (b : Bool) (C : Circ (Fin m)) (n : ℕ) :
+    bernProb p (rareEvent (!b) (next b C n)) =
+      (1-bernProb p (rareEvent b C))^n := by
+  have hrename (D : Circ (Fin n × Fin m)) :
+      bernProb p (fun x => (D.rename finProdFinEquiv).eval x) = prob p (fun x => D.eval x) := by
+    calc
+      _ = prob p (fun x : Fin (n*m) → Bool => D.eval (fun v => x (finProdFinEquiv v))) := by
+        simp only [prob_fin,eval_rename,Function.comp_def]
+      _ = _ := prob_equiv finProdFinEquiv p (fun x => D.eval x)
+  cases b
+  · simp only [Bool.not_false,rareEvent_true,rareEvent_false,next,Bool.false_eq_true,↓reduceIte]
+    rw [hrename,BernoulliAlgebra.prob_compl,prob_and]
+    congr 1
+    ring
+  · simp only [Bool.not_true,rareEvent_true,rareEvent_false,next,Bool.false_eq_true,↓reduceIte]
+    rw [BernoulliAlgebra.prob_compl,hrename,prob_or]
+    ring
+
+end SemAC02.CoinAlternatingLayers
+end
+
+section
+-- Inlined Solutions.CoinLayerCalibration
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CoinLayerCalibration
+
+noncomputable def fanIn (M p : ℝ) : ℕ := ⌈M/p⌉₊
+
+theorem fanIn_pos {M p : ℝ} (hM : 0 < M) (hp : 0 < p) : 1 ≤ fanIn M p :=
+  Nat.one_le_ceil_iff.mpr (div_pos hM hp)
+
+theorem fanIn_scale_bounded {M p : ℝ} (hM : 0 < M) (hp : 0 < p) (hp' : p ≤ 1) :
+    M ≤ (fanIn M p : ℝ)*p ∧ (fanIn M p : ℝ)*p ≤ M+1 := by
+  have hl := Nat.le_ceil (M/p)
+  have hu := Nat.ceil_lt_add_one (le_of_lt (div_pos hM hp))
+  constructor
+  · exact (div_le_iff₀ hp).mp hl
+  · have h := mul_lt_mul_of_pos_right hu hp
+    have he : (M/p+1)*p = M+p := by field_simp
+    rw [he] at h
+    exact h.le.trans (by linarith)
+
+theorem log_one_sub_lower {p : ℝ} (hp : 0 ≤ p) (hp' : p ≤ 1/2) :
+    -2*p ≤ Real.log (1-p) := by
+  have hpos : 0 < 1-p := by linarith
+  have hlog := Real.one_sub_inv_le_log_of_pos hpos
+  have hdiv : 1/(1-p) ≤ 1+2*p := (div_le_iff₀ hpos).mpr (by
+    nlinarith [mul_nonneg hp (by linarith : 0 ≤ 1-2*p)])
+  rw [one_div] at hdiv
+  linarith
+
+/-- One alternating layer restores a rare reference event to an exponential window. -/
+theorem calibrated_window {M p : ℝ} (hM : 0 < M) (hp : 0 < p) (hp' : p ≤ 1/2) :
+    Real.exp (-2*(M+1)) ≤ (1-p)^(fanIn M p) ∧
+      (1-p)^(fanIn M p) ≤ Real.exp (-M) := by
+  have hscale := fanIn_scale_bounded hM hp (by linarith)
+  have hbase : 0 < 1-p := by linarith
+  constructor
+  · have hl := mul_le_mul_of_nonneg_left (log_one_sub_lower hp.le hp') (Nat.cast_nonneg (fanIn M p))
+    have he : Real.exp ((fanIn M p : ℝ)*Real.log (1-p)) = (1-p)^(fanIn M p) := by
+      rw [Real.exp_nat_mul,Real.exp_log hbase]
+    rw [← he]
+    apply Real.exp_le_exp.mpr
+    nlinarith [hscale.2]
+  · exact (CoinDepthTwoNumerics.failure_power_bound (by linarith : p ≤ 1) _).trans
+      (Real.exp_le_exp.mpr (by linarith [hscale.1]))
+
+theorem ordered_log_gap {p q : ℝ} (hp : 0 < p) (hq : 0 < q) :
+    p*(Real.log q-Real.log p) ≤ q-p := by
+  have hl := Real.log_le_sub_one_of_pos (div_pos hq hp)
+  rw [Real.log_div hq.ne' hp.ne'] at hl
+  calc
+    _ ≤ p*(q/p-1) := mul_le_mul_of_nonneg_left hl hp.le
+    _ = _ := by field_simp
+
+theorem weighted_log_gap {u p q : ℝ} (hp : 0 < p) (hq : 0 < q)
+    (hup : u ≤ p) (huq : u ≤ q) :
+    u*|Real.log q-Real.log p| ≤ |q-p| := by
+  rcases le_total p q with hpq | hqp
+  · have hlog := Real.log_le_log hp hpq
+    rw [abs_of_nonneg (sub_nonneg.mpr hlog),abs_of_nonneg (sub_nonneg.mpr hpq)]
+    exact (mul_le_mul_of_nonneg_right hup (sub_nonneg.mpr hlog)).trans (ordered_log_gap hp hq)
+  · have hlog := Real.log_le_log hq hqp
+    rw [abs_of_nonpos (sub_nonpos.mpr hlog),abs_of_nonpos (sub_nonpos.mpr hqp)]
+    have h := (mul_le_mul_of_nonneg_right huq (sub_nonneg.mpr hlog)).trans (ordered_log_gap hq hp)
+    nlinarith
+
+theorem log_gap_reference_lower {p q : ℝ} (hp : 0 < p) (hq : 0 < q)
+    (hgap : |Real.log q-Real.log p| ≤ 10) :
+    p*Real.exp (-10) ≤ p ∧ p*Real.exp (-10) ≤ q := by
+  constructor
+  · exact mul_le_of_le_one_right hp.le (Real.exp_le_one_iff.mpr (by norm_num))
+  · have hlow := (abs_le.mp hgap).1
+    have h := Real.exp_le_exp.mpr (show Real.log p+(-10) ≤ Real.log q from by linarith)
+    simpa only [Real.exp_add,Real.exp_log hp,Real.exp_log hq] using h
+
+theorem complement_log_gap {p q : ℝ} (hp : 0 ≤ p) (hq : 0 ≤ q) (hp' : p < 1) (hq' : q < 1) :
+    |q-p| ≤ |Real.log (1-q)-Real.log (1-p)| := by
+  have hordered : ∀ a b : ℝ, 0 ≤ a → a ≤ b → b < 1 →
+      b-a ≤ Real.log (1-a)-Real.log (1-b) := by
+    intro a b ha hab hb
+    have hapos : 0 < 1-a := by linarith
+    have hbpos : 0 < 1-b := by linarith
+    have hl := Real.log_le_sub_one_of_pos (div_pos hbpos hapos)
+    rw [Real.log_div hbpos.ne' hapos.ne'] at hl
+    have hd : (1-b)/(1-a) ≤ 1-(b-a) := (div_le_iff₀ hapos).mpr (by
+      nlinarith [mul_nonneg ha (sub_nonneg.mpr hab)])
+    linarith
+  rcases le_total p q with hpq | hqp
+  · have hlog := Real.log_le_log (by linarith : 0 < 1-q) (by linarith : 1-q ≤ 1-p)
+    rw [abs_of_nonneg (sub_nonneg.mpr hpq),abs_of_nonpos (sub_nonpos.mpr hlog)]
+    linarith [hordered p q hp hpq hq']
+  · have hlog := Real.log_le_log (by linarith : 0 < 1-p) (by linarith : 1-p ≤ 1-q)
+    rw [abs_of_nonpos (sub_nonpos.mpr hqp),abs_of_nonneg (sub_nonneg.mpr hlog)]
+    linarith [hordered q p hq hqp hp']
+
+/-- Until the two rare-event probabilities separate by a fixed ratio, a layer amplifies their
+logarithmic gap by a factor proportional to the scale M. -/
+theorem calibrated_gap_growth {M p q : ℝ} (hM : 0 < M) (hp : 0 < p) (hq : 0 < q)
+    (hp' : p < 1) (hq' : q < 1) (hgap : |Real.log q-Real.log p| ≤ 10) :
+    M*Real.exp (-10)*|Real.log q-Real.log p| ≤
+      |Real.log ((1-q)^(fanIn M p))-Real.log ((1-p)^(fanIn M p))| := by
+  have hscale : M ≤ (fanIn M p : ℝ)*p := (div_le_iff₀ hp).mp (Nat.le_ceil (M/p))
+  have href := log_gap_reference_lower hp hq hgap
+  have hweighted := weighted_log_gap hp hq href.1 href.2
+  have hcomp := complement_log_gap hp.le hq.le hp' hq'
+  have hnon : 0 ≤ Real.exp (-10)*|Real.log q-Real.log p| := by positivity
+  calc
+    _ ≤ ((fanIn M p : ℝ)*p)*Real.exp (-10)*|Real.log q-Real.log p| := by
+      simpa only [mul_assoc] using mul_le_mul_of_nonneg_right hscale hnon
+    _ = (fanIn M p : ℝ)*(p*Real.exp (-10)*|Real.log q-Real.log p|) := by ring
+    _ ≤ (fanIn M p : ℝ)*|Real.log (1-q)-Real.log (1-p)| :=
+      mul_le_mul_of_nonneg_left (hweighted.trans hcomp) (Nat.cast_nonneg _)
+    _ = _ := by
+      rw [Real.log_pow,Real.log_pow,← mul_sub,abs_mul,abs_of_nonneg (show (0 : ℝ) ≤ (fanIn M p : ℝ) from Nat.cast_nonneg _)]
+
+theorem log_gap_reference_upper {p q : ℝ} (hp : 0 < p) (hq : 0 < q)
+    (hgap : |Real.log q-Real.log p| ≤ 10) : q ≤ p*Real.exp 10 := by
+  have hu := (abs_le.mp hgap).2
+  have h := Real.exp_le_exp.mpr (show Real.log q ≤ Real.log p+10 from by linarith)
+  simpa only [Real.exp_add,Real.exp_log hp,Real.exp_log hq] using h
+
+theorem exp_neg_two_le_half : Real.exp (-2) ≤ 1/2 := by
+  have h : 1/Real.exp 2 ≤ 1/2 := (div_le_iff₀ (Real.exp_pos 2)).mpr (by
+    linarith [Real.add_one_le_exp 2])
+  simpa only [Real.exp_neg,one_div] using h
+
+theorem window_input_bounds {M p q : ℝ} (hM : 24 ≤ M) (hp : 0 < p) (hq : 0 < q)
+    (hpu : p ≤ Real.exp (-M/2)) (hgap : |Real.log q-Real.log p| ≤ 10) :
+    p ≤ 1/2 ∧ q ≤ 1/2 := by
+  constructor
+  · exact hpu.trans ((Real.exp_le_exp.mpr (by linarith : -M/2 ≤ -2)).trans exp_neg_two_le_half)
+  · calc
+      q ≤ p*Real.exp 10 := log_gap_reference_upper hp hq hgap
+      _ ≤ Real.exp (-M/2)*Real.exp 10 := mul_le_mul_of_nonneg_right hpu (Real.exp_pos _).le
+      _ = Real.exp (10-M/2) := by rw [← Real.exp_add]; congr 1; ring
+      _ ≤ Real.exp (-2) := Real.exp_le_exp.mpr (by linarith)
+      _ ≤ 1/2 := exp_neg_two_le_half
+
+/-- The calibrated fan-in contributes only an exponential factor to tree size. -/
+theorem fanIn_size {M p : ℝ} (hM : 1 ≤ M) (hp : 0 < p)
+    (hpl : Real.exp (-2*(M+1)) ≤ p) :
+    1+(fanIn M p : ℝ) ≤ Real.exp (7*M) := by
+  have hi : 1/p ≤ Real.exp (2*(M+1)) := by
+    calc
+      _ ≤ 1/Real.exp (-2*(M+1)) := one_div_le_one_div_of_le (Real.exp_pos _) hpl
+      _ = _ := by rw [one_div,← Real.exp_neg]; congr 1; ring
+  have hMu : M ≤ Real.exp M := by linarith [Real.add_one_le_exp M]
+  have hpos : 0 < M := by linarith
+  have hfan : (fanIn M p : ℝ) ≤ Real.exp (5*M)+1 := by
+    have hf := Nat.ceil_lt_add_one (le_of_lt (div_pos hpos hp))
+    apply hf.le.trans
+    apply add_le_add _ le_rfl
+    calc
+      M/p = M*(1/p) := by ring
+      _ ≤ M*Real.exp (2*(M+1)) := mul_le_mul_of_nonneg_left hi hpos.le
+      _ ≤ Real.exp M*Real.exp (4*M) := by
+        apply mul_le_mul hMu (Real.exp_le_exp.mpr (by linarith)) (Real.exp_pos _).le (Real.exp_pos _).le
+      _ = Real.exp (5*M) := by rw [← Real.exp_add]; congr 1; ring
+  have he5 : 1 ≤ Real.exp (5*M) := Real.one_le_exp_iff.mpr (by linarith)
+  have he2 : 3 ≤ Real.exp (2*M) := by linarith [Real.add_one_le_exp (2*M)]
+  have he : Real.exp (7*M) = Real.exp (2*M)*Real.exp (5*M) := by
+    rw [← Real.exp_add]; congr 1; ring
+  rw [he]
+  nlinarith
+
+theorem calibrated_positive {M p : ℝ} (hM : 0 < M) (hp : 0 < p) (hp' : p < 1) :
+    0 < (1-p)^(fanIn M p) ∧ (1-p)^(fanIn M p) < 1 := by
+  have hn := fanIn_pos hM hp
+  exact ⟨pow_pos (by linarith) _,pow_lt_one₀ (by linarith) (by linarith) (by omega)⟩
+
+end SemAC02.CoinLayerCalibration
+end
+
+section
+-- Inlined Solutions.CoinReadOnceBaseNumerics
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CoinReadOnceBaseNumerics
+
+theorem exp_neg_two_le_quarter : Real.exp (-2) ≤ 1/4 := by
+  have htwo : 2 ≤ Real.exp 1 := by linarith [Real.add_one_le_exp 1]
+  have hfour : 4 ≤ Real.exp 2 := by
+    rw [show (2 : ℝ) = 1+1 by norm_num,Real.exp_add]
+    nlinarith
+  have hi : 1/Real.exp 2 ≤ 1/4 := (div_le_iff₀ (Real.exp_pos 2)).mpr (by linarith)
+  simpa only [Real.exp_neg,one_div] using hi
+
+theorem base_window {ε : ℝ} (hε : 0 < ε) (hε' : ε < 1/2) (m : ℕ) :
+    Real.exp (-2*((m : ℝ)+1)) ≤ ((1-ε)/2)^m ∧
+      ((1-ε)/2)^m ≤ Real.exp (-(m : ℝ)/2) := by
+  have hquarter : (1/4 : ℝ) ≤ (1-ε)/2 := by linarith
+  constructor
+  · calc
+      _ ≤ Real.exp (-2*(m : ℝ)) := Real.exp_le_exp.mpr (by linarith)
+      _ = Real.exp (-2)^m := by rw [← Real.exp_nat_mul]; congr 1; ring
+      _ ≤ (1/4 : ℝ)^m := pow_le_pow_left₀ (Real.exp_pos _).le exp_neg_two_le_quarter m
+      _ ≤ ((1-ε)/2)^m := pow_le_pow_left₀ (by norm_num) hquarter m
+  · calc
+      _ ≤ (1/2 : ℝ)^m := pow_le_pow_left₀ (by linarith) (by linarith) m
+      _ ≤ Real.exp (-((m : ℝ)*(1/2))) := by
+        convert (CoinDepthTwoNumerics.failure_power_bound (a := (1/2 : ℝ)) (by norm_num) m) using 1 <;> norm_num
+      _ = _ := by congr 1; ring
+
+theorem base_positive {ε : ℝ} (hε : 0 < ε) (hε' : ε < 1/2) {m : ℕ} (hm : 1 ≤ m) :
+    0 < ((1-ε)/2)^m ∧ ((1-ε)/2)^m < 1 ∧
+      0 < ((1+ε)/2)^m ∧ ((1+ε)/2)^m < 1 ∧ ((1-ε)/2)^m ≤ ((1+ε)/2)^m := by
+  refine ⟨pow_pos (by linarith) _,pow_lt_one₀ (by linarith) (by linarith) (by omega),
+    pow_pos (by linarith) _,pow_lt_one₀ (by linarith) (by linarith) (by omega),?_⟩
+  exact pow_le_pow_left₀ (by linarith) (by linarith) m
+
+theorem base_gap {ε : ℝ} (hε : 0 < ε) (hε' : ε < 1/2) (m : ℕ) :
+    ε*(m : ℝ) ≤ |Real.log (((1+ε)/2)^m)-Real.log (((1-ε)/2)^m)| := by
+  have hl := Real.log_le_sub_one_of_pos (show 0 < 1-ε from by linarith)
+  have hh := Real.log_nonneg (show 1 ≤ 1+ε from by linarith)
+  have hgap : ε ≤ Real.log ((1+ε)/2)-Real.log ((1-ε)/2) := by
+    rw [Real.log_div (by linarith : (1+ε : ℝ) ≠ 0) (by norm_num),
+      Real.log_div (by linarith : (1-ε : ℝ) ≠ 0) (by norm_num)]
+    linarith
+  calc
+    _ = (m : ℝ)*ε := by ring
+    _ ≤ (m : ℝ)*(Real.log ((1+ε)/2)-Real.log ((1-ε)/2)) :=
+      mul_le_mul_of_nonneg_left hgap (Nat.cast_nonneg m)
+    _ = Real.log (((1+ε)/2)^m)-Real.log (((1-ε)/2)^m) := by rw [Real.log_pow,Real.log_pow]; ring
+    _ ≤ _ := le_abs_self _
+
+end SemAC02.CoinReadOnceBaseNumerics
+end
+
+section
+-- Inlined Solutions.CoinDepthTwo
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CircuitRenaming SemAC02.BernoulliProduct SemAC02.ReadOnceLayers
+
+namespace SemAC02.CoinDepthTwo
+
+def allInputs (m : ℕ) : Circ (Fin m) := .and (List.ofFn (fun j : Fin m => .lit j true))
+
+theorem monotone_all (m : ℕ) : IsMonotoneCirc (allInputs m) := by
+  apply IsMonotoneCirc.and
+  intro c hc
+  obtain ⟨j,rfl⟩ := List.mem_ofFn.mp hc
+  exact .lit j
+
+theorem reduced_all (m : ℕ) : IsReduced (allInputs m) := by
+  apply IsReduced.and
+  · exact List.nodup_ofFn.mpr (fun a b h => Circ.lit.inj h |>.1)
+  · intro c hc
+    obtain ⟨j,rfl⟩ := List.mem_ofFn.mp hc
+    rfl
+  · intro c hc
+    obtain ⟨j,rfl⟩ := List.mem_ofFn.mp hc
+    exact .lit j true
+
+theorem depth_all (m : ℕ) : (allInputs m).depth ≤ 1 := by
+  rw [allInputs,Circ.depth]
+  have hz : (List.map Circ.depth (List.ofFn (fun j : Fin m => .lit j true))).foldr max 0 ≤ 0 := by
+    apply List.max_le_of_forall_le
+    intro k hk
+    obtain ⟨c,hc,rfl⟩ := List.mem_map.mp hk
+    obtain ⟨j,rfl⟩ := List.mem_ofFn.mp hc
+    simp only [Circ.depth,le_refl]
+  simpa only [Nat.add_zero] using Nat.add_le_add_left hz 1
+
+theorem size_all (m : ℕ) : (allInputs m).treeSize = 1+m := by
+  simp [allInputs,Circ.treeSize,List.map_ofFn,Function.comp_def]
+
+theorem eval_all (m : ℕ) (x : Fin m → Bool) :
+    (allInputs m).eval x = decide (∀ j, x j = true) := by
+  apply Bool.eq_iff_iff.mpr
+  simp [allInputs,Circ.eval,List.all_map]
+
+theorem prob_all (p : ℝ) (m : ℕ) : bernProb p (fun x => (allInputs m).eval x) = p^m := by
+  change prob p (fun x => (allInputs m).eval x) = p^m
+  simp only [eval_all]
+  convert (prob_all_coordinates (I := Fin m) p) using 1
+  · congr 1
+    funext x
+    apply Bool.eq_iff_iff.mpr
+    simp
+  · simp
+
+/-- The depth-two instance of the coin-formula bound, with explicit exponent constant 23. -/
+theorem coin_depth_two :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ →
+      ∃ (m : ℕ) (T : Circ (Fin m)), IsMonotoneCirc T ∧ IsReduced T ∧ T.depth ≤ 2 ∧
+        (T.treeSize : ℝ) ≤ Real.exp (A*ε⁻¹) ∧
+        IsCoinDistinguisher ε (1/10) (fun x => T.eval x) := by
+  classical
+  refine ⟨23,1,by norm_num,?_⟩
+  intro ε hε hε'
+  obtain ⟨m,hm,hmb,hlo,hhi,hsize⟩ := CoinDepthTwoNumerics.depth_two_parameters hε hε'
+  letI : Nonempty (Fin m) := ⟨⟨0,by omega⟩⟩
+  let r := 2^m
+  let C := orLayer r (allInputs m)
+  let e : Fin r × Fin m ≃ Fin (r*m) := finProdFinEquiv
+  let T := C.rename e
+  have hprob (p : ℝ) : bernProb p (fun x => T.eval x) = 1-(1-p^m)^r := by
+    calc
+      _ = prob p (fun x : Fin (r*m) → Bool => C.eval (fun v => x (e v))) := by
+        simp only [prob_fin,T,eval_rename,Function.comp_def]
+      _ = prob p (fun x => C.eval x) := prob_equiv e p (fun x => C.eval x)
+      _ = 1-(1-bernProb p (fun x => (allInputs m).eval x))^r := prob_or p _
+      _ = _ := by rw [prob_all]
+  have hM := monotone_or r (monotone_all m)
+  have hR := reduced_or r (reduced_all m) (show (allInputs m).isOr = false from rfl)
+  refine ⟨r*m,T,monotone_rename e hM,reduced_rename e e.injective hR,?_,?_,?_,?_⟩
+  · exact (depth_rename e C).le.trans ((depth_or r (allInputs m)).trans (by have := depth_all m; omega))
+  · have hs : (T.treeSize : ℝ) ≤ ((1+r*(1+m) : ℕ) : ℝ) := by
+      dsimp only [T]
+      rw [size_rename]
+      exact_mod_cast (size_or r (allInputs m)).trans (by rw [size_all])
+    exact hs.trans hsize
+  · rw [hprob]
+    exact hlo
+  · rw [BernoulliAlgebra.prob_compl,hprob]
+    convert hhi using 1 <;> ring
+
+end SemAC02.CoinDepthTwo
+end
+
+section
+-- Inlined Solutions.CoinReadOnceStages
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CoinAlternatingLayers SemAC02.CoinLayerCalibration
+
+namespace SemAC02.CoinReadOnceStages
+
+structure Stage (ε : ℝ) (M k : ℕ) where
+  inputs : ℕ
+  inputs_pos : 1 ≤ inputs
+  C : Circ (Fin inputs)
+  b : Bool
+  p : ℝ
+  q : ℝ
+  monotone : IsMonotoneCirc C
+  reduced : IsReduced C
+  root_and : C.isAnd = b
+  root_or : C.isOr = !b
+  depth_le : C.depth ≤ k+1
+  size_le : (C.treeSize : ℝ) ≤ Real.exp ((1+7*(k : ℝ))*(M : ℝ))
+  p_eq : bernProb ((1-ε)/2) (rareEvent b C) = p
+  q_eq : bernProb ((1+ε)/2) (rareEvent b C) = q
+  p_pos : 0 < p
+  p_lt_one : p < 1
+  q_pos : 0 < q
+  q_lt_one : q < 1
+  p_lower : Real.exp (-2*((M : ℝ)+1)) ≤ p
+  p_upper : p ≤ Real.exp (-(M : ℝ)/2)
+  ordered : if b then p ≤ q else q ≤ p
+  gap_lower : min 10 (ε*(M : ℝ)*((M : ℝ)*Real.exp (-10))^k) ≤ |Real.log q-Real.log p|
+
+theorem treeSize_pos {V : Type} (C : Circ V) : 1 ≤ C.treeSize := by
+  cases C <;> simp only [Circ.treeSize] <;> omega
+
+noncomputable def initial {ε : ℝ} (hε : 0 < ε) (hε' : ε < 1/2) (M : ℕ) (hM : 1 ≤ M) :
+    Stage ε M 0 where
+  inputs := M
+  inputs_pos := hM
+  C := CoinDepthTwo.allInputs M
+  b := true
+  p := ((1-ε)/2)^M
+  q := ((1+ε)/2)^M
+  monotone := CoinDepthTwo.monotone_all M
+  reduced := CoinDepthTwo.reduced_all M
+  root_and := rfl
+  root_or := rfl
+  depth_le := CoinDepthTwo.depth_all M
+  size_le := by
+    rw [CoinDepthTwo.size_all]
+    simp only [Nat.cast_add,Nat.cast_one,Nat.cast_zero,mul_zero,add_zero,one_mul]
+    linarith [Real.add_one_le_exp (M : ℝ)]
+  p_eq := by rw [rareEvent_true,CoinDepthTwo.prob_all]
+  q_eq := by rw [rareEvent_true,CoinDepthTwo.prob_all]
+  p_pos := (CoinReadOnceBaseNumerics.base_positive hε hε' hM).1
+  p_lt_one := (CoinReadOnceBaseNumerics.base_positive hε hε' hM).2.1
+  q_pos := (CoinReadOnceBaseNumerics.base_positive hε hε' hM).2.2.1
+  q_lt_one := (CoinReadOnceBaseNumerics.base_positive hε hε' hM).2.2.2.1
+  p_lower := (CoinReadOnceBaseNumerics.base_window hε hε' M).1
+  p_upper := (CoinReadOnceBaseNumerics.base_window hε hε' M).2
+  ordered := (CoinReadOnceBaseNumerics.base_positive hε hε' hM).2.2.2.2
+  gap_lower := by
+    simp only [pow_zero,mul_one]
+    exact (min_le_right _ _).trans (CoinReadOnceBaseNumerics.base_gap hε hε' M)
+
+end SemAC02.CoinReadOnceStages
+end
+
+section
+-- Inlined Solutions.CoinReadOnceIteration
+
+set_option maxHeartbeats 2000000
+
+open SemAC02.CoinAlternatingLayers SemAC02.CoinLayerCalibration
+
+namespace SemAC02.CoinReadOnceStages
+
+noncomputable def hold {ε : ℝ} {M k : ℕ} (S : Stage ε M k)
+    (hgap : 10 ≤ |Real.log S.q-Real.log S.p|) : Stage ε M (k+1) where
+  inputs := S.inputs
+  inputs_pos := S.inputs_pos
+  C := S.C
+  b := S.b
+  p := S.p
+  q := S.q
+  monotone := S.monotone
+  reduced := S.reduced
+  root_and := S.root_and
+  root_or := S.root_or
+  depth_le := by have := S.depth_le; omega
+  size_le := S.size_le.trans (Real.exp_le_exp.mpr (by push_cast; nlinarith [Nat.cast_nonneg (α := ℝ) M]))
+  p_eq := S.p_eq
+  q_eq := S.q_eq
+  p_pos := S.p_pos
+  p_lt_one := S.p_lt_one
+  q_pos := S.q_pos
+  q_lt_one := S.q_lt_one
+  p_lower := S.p_lower
+  p_upper := S.p_upper
+  ordered := S.ordered
+  gap_lower := (min_le_left _ _).trans hgap
+
+noncomputable def advance {ε : ℝ} {M k : ℕ} (hM : 24 ≤ M) (S : Stage ε M k)
+    (hgap : |Real.log S.q-Real.log S.p| < 10) : Stage ε M (k+1) := by
+  classical
+  have hMr : (24 : ℝ) ≤ (M : ℝ) := by exact_mod_cast hM
+  have hMpos : 0 < (M : ℝ) := by linarith
+  let n := fanIn (M : ℝ) S.p
+  have hn : 1 ≤ n := fanIn_pos hMpos S.p_pos
+  letI : Nonempty (Fin S.inputs) := ⟨⟨0,by have := S.inputs_pos; omega⟩⟩
+  let T := next S.b S.C n
+  have hroot := roots_next S.b S.C n
+  have hinputs := window_input_bounds hMr S.p_pos S.q_pos S.p_upper hgap.le
+  have hwindow := calibrated_window hMpos S.p_pos hinputs.1
+  have hsize : (T.treeSize : ℝ) ≤ Real.exp ((1+7*((k+1 : ℕ) : ℝ))*(M : ℝ)) := by
+    have hs : (T.treeSize : ℝ) ≤ 1+(n : ℝ)*(S.C.treeSize : ℝ) := by
+      exact_mod_cast size_next S.b S.C n
+    have hc : 1 ≤ (S.C.treeSize : ℝ) := by exact_mod_cast treeSize_pos S.C
+    calc
+      _ ≤ 1+(n : ℝ)*(S.C.treeSize : ℝ) := hs
+      _ ≤ (1+(n : ℝ))*(S.C.treeSize : ℝ) := by nlinarith
+      _ ≤ Real.exp (7*(M : ℝ))*Real.exp ((1+7*(k : ℝ))*(M : ℝ)) :=
+        mul_le_mul (fanIn_size (by linarith : 1 ≤ (M : ℝ)) S.p_pos S.p_lower) S.size_le
+          (Nat.cast_nonneg _) (Real.exp_pos _).le
+      _ = _ := by rw [← Real.exp_add]; congr 1; push_cast; ring
+  have hraw : ε*(M : ℝ)*((M : ℝ)*Real.exp (-10))^k ≤ |Real.log S.q-Real.log S.p| := by
+    have ha : ε*(M : ℝ)*((M : ℝ)*Real.exp (-10))^k < 10 :=
+      (min_lt_iff.mp (S.gap_lower.trans_lt hgap)).resolve_left (lt_irrefl _)
+    simpa only [min_eq_right ha.le] using S.gap_lower
+  have hgrowth := calibrated_gap_growth hMpos S.p_pos S.q_pos S.p_lt_one S.q_lt_one hgap.le
+  refine {
+    inputs := n*S.inputs
+    inputs_pos := by have := S.inputs_pos; nlinarith
+    C := T
+    b := !S.b
+    p := (1-S.p)^n
+    q := (1-S.q)^n
+    monotone := monotone_next S.b S.C n S.monotone
+    reduced := reduced_next S.b S.C n hn S.reduced S.root_and S.root_or
+    root_and := hroot.1
+    root_or := by simpa only [Bool.not_not] using hroot.2
+    depth_le := (depth_next S.b S.C n).trans (by have := S.depth_le; omega)
+    size_le := hsize
+    p_eq := by rw [prob_next,S.p_eq]
+    q_eq := by rw [prob_next,S.q_eq]
+    p_pos := pow_pos (by linarith [S.p_lt_one]) _
+    p_lt_one := pow_lt_one₀ (by linarith [S.p_lt_one]) (by linarith [S.p_pos]) (by omega)
+    q_pos := pow_pos (by linarith [S.q_lt_one]) _
+    q_lt_one := pow_lt_one₀ (by linarith [S.q_lt_one]) (by linarith [S.q_pos]) (by omega)
+    p_lower := hwindow.1
+    p_upper := hwindow.2.trans (Real.exp_le_exp.mpr (by linarith))
+    ordered := ?_
+    gap_lower := ?_
+  }
+  · cases hb : S.b
+    · have ho : S.q ≤ S.p := by simpa only [hb,Bool.false_eq_true,↓reduceIte] using S.ordered
+      simpa only [hb,Bool.not_false,↓reduceIte] using
+        (pow_le_pow_left₀ (by linarith [S.p_lt_one] : 0 ≤ 1-S.p) (by linarith : 1-S.p ≤ 1-S.q) n)
+    · have ho : S.p ≤ S.q := by simpa only [hb,↓reduceIte] using S.ordered
+      simpa only [hb,Bool.not_true,Bool.false_eq_true,↓reduceIte] using
+        (pow_le_pow_left₀ (by linarith [S.q_lt_one] : 0 ≤ 1-S.q) (by linarith : 1-S.q ≤ 1-S.p) n)
+  · apply (min_le_right _ _).trans
+    calc
+      ε*(M : ℝ)*((M : ℝ)*Real.exp (-10))^(k+1) =
+          ((M : ℝ)*Real.exp (-10))*(ε*(M : ℝ)*((M : ℝ)*Real.exp (-10))^k) := by rw [pow_succ]; ring
+      _ ≤ ((M : ℝ)*Real.exp (-10))*|Real.log S.q-Real.log S.p| :=
+        mul_le_mul_of_nonneg_left hraw (by positivity)
+      _ ≤ _ := hgrowth
+
+theorem stage_exists {ε : ℝ} (hε : 0 < ε) (hε' : ε < 1/2) (M : ℕ) (hM : 24 ≤ M) (k : ℕ) :
+    Nonempty (Stage ε M k) := by
+  induction k with
+  | zero => exact ⟨initial hε hε' M (by omega)⟩
+  | succ k ih =>
+    obtain ⟨S⟩ := ih
+    by_cases hg : 10 ≤ |Real.log S.q-Real.log S.p|
+    · exact ⟨hold S hg⟩
+    · exact ⟨advance hM S (lt_of_not_ge hg)⟩
+
+end SemAC02.CoinReadOnceStages
+end
+
+section
+-- Inlined Solutions.CoinFinalAmplificationNumerics
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CoinLayerCalibration
+
+namespace SemAC02.CoinFinalAmplificationNumerics
+
+theorem exp_ten_large : 1024 ≤ Real.exp 10 := by
+  have he : (2 : ℝ) ≤ Real.exp 1 := by linarith [Real.add_one_le_exp 1]
+  have hp := pow_le_pow_left₀ (by norm_num : (0 : ℝ) ≤ 2) he 10
+  norm_num only [show (2 : ℝ)^10 = 1024 by norm_num] at hp
+  simpa only [← Real.exp_nat_mul,mul_one,Nat.cast_ofNat] using hp
+
+theorem small_error : 11*Real.exp (-10) ≤ 1/10 := by
+  rw [Real.exp_neg,← div_eq_mul_inv]
+  apply (div_le_iff₀ (Real.exp_pos 10)).mpr
+  linarith [exp_ten_large]
+
+theorem gap_ratio {p q : ℝ} (hp : 0 < p) (hq : 0 < q) (hpq : p ≤ q)
+    (hgap : 10 ≤ |Real.log q-Real.log p|) : p ≤ q*Real.exp (-10) := by
+  rw [abs_of_nonneg (sub_nonneg.mpr (Real.log_le_log hp hpq))] at hgap
+  have h := Real.exp_le_exp.mpr (show Real.log p ≤ Real.log q+(-10) from by linarith)
+  simpa only [Real.exp_add,Real.exp_log hp,Real.exp_log hq] using h
+
+theorem separated_errors {a b : ℝ} (ha : 0 < a) (ha' : a ≤ 1) (hb : 0 ≤ b)
+    (hab : b ≤ a*Real.exp (-10)) :
+    (1-a)^(fanIn 10 a) ≤ 1/10 ∧ 1-(1-b)^(fanIn 10 a) ≤ 1/10 := by
+  have hs := fanIn_scale_bounded (by norm_num : (0 : ℝ) < 10) ha ha'
+  have hb' : b ≤ 1 := hab.trans ((mul_le_of_le_one_right ha.le
+    (Real.exp_le_one_iff.mpr (by norm_num))).trans ha')
+  constructor
+  · exact (CoinDepthTwoNumerics.failure_power_bound ha' _).trans
+      (CoinDepthTwoNumerics.exp_neg_tenth (by linarith [hs.1]))
+  · calc
+      _ ≤ (fanIn 10 a : ℝ)*b := CoinDepthTwoNumerics.union_power_bound hb hb' _
+      _ ≤ (fanIn 10 a : ℝ)*(a*Real.exp (-10)) :=
+        mul_le_mul_of_nonneg_left hab (Nat.cast_nonneg _)
+      _ = ((fanIn 10 a : ℝ)*a)*Real.exp (-10) := by ring
+      _ ≤ 11*Real.exp (-10) := mul_le_mul_of_nonneg_right (by linarith [hs.2] : (fanIn 10 a : ℝ)*a ≤ 11) (Real.exp_pos _).le
+      _ ≤ _ := small_error
+
+theorem final_fanIn_le {M p a : ℝ} (hM : 10 ≤ M) (hp : 0 < p) (ha : 0 < a) (hpa : p ≤ a) :
+    fanIn 10 a ≤ fanIn M p := by
+  apply Nat.ceil_le_ceil
+  apply (div_le_div_iff₀ ha hp).mpr
+  have h1 := mul_le_mul_of_nonneg_left hpa (show 0 ≤ M from by linarith)
+  have h2 := mul_le_mul_of_nonneg_right hM hp.le
+  nlinarith
+
+end SemAC02.CoinFinalAmplificationNumerics
+end
+
+section
+-- Inlined Solutions.CoinReadOnceFinish
+
+set_option maxHeartbeats 2000000
+
+open SemAC02.CoinAlternatingLayers SemAC02.CoinLayerCalibration
+open SemAC02.CoinFinalAmplificationNumerics
+
+namespace SemAC02.CoinReadOnceStages
+
+theorem finish {ε : ℝ} {M k : ℕ} (hM : 24 ≤ M) (S : Stage ε M k)
+    (hgap : 10 ≤ |Real.log S.q-Real.log S.p|) :
+    ∃ (m : ℕ) (T : Circ (Fin m)), IsMonotoneCirc T ∧ IsReduced T ∧ T.depth ≤ k+2 ∧
+      (T.treeSize : ℝ) ≤ Real.exp ((8+7*(k : ℝ))*(M : ℝ)) ∧
+      IsCoinDistinguisher ε (1/10) (fun x => T.eval x) := by
+  classical
+  have hMr : (24 : ℝ) ≤ (M : ℝ) := by exact_mod_cast hM
+  let a := if S.b then S.q else S.p
+  let small := if S.b then S.p else S.q
+  have ha : 0 < a := by dsimp [a]; split <;> first | exact S.q_pos | exact S.p_pos
+  have ha' : a ≤ 1 := by dsimp [a]; split <;> first | exact S.q_lt_one.le | exact S.p_lt_one.le
+  have hb : 0 ≤ small := by dsimp [small]; split <;> first | exact S.p_pos.le | exact S.q_pos.le
+  have hpa : S.p ≤ a := by
+    cases ht : S.b
+    · simp only [a,ht,Bool.false_eq_true,↓reduceIte,le_refl]
+    · simpa only [a,ht,↓reduceIte] using S.ordered
+  have hratio : small ≤ a*Real.exp (-10) := by
+    cases ht : S.b
+    · have ho : S.q ≤ S.p := by simpa only [ht,Bool.false_eq_true,↓reduceIte] using S.ordered
+      simpa only [a,small,ht,Bool.false_eq_true,↓reduceIte] using
+        gap_ratio S.q_pos S.p_pos ho (by simpa only [abs_sub_comm] using hgap)
+    · have ho : S.p ≤ S.q := by simpa only [ht,↓reduceIte] using S.ordered
+      simpa only [a,small,ht,↓reduceIte] using gap_ratio S.p_pos S.q_pos ho hgap
+  let n := fanIn 10 a
+  have hn : 1 ≤ n := fanIn_pos (by norm_num) ha
+  have hnle : n ≤ fanIn (M : ℝ) S.p := final_fanIn_le (by linarith) S.p_pos ha hpa
+  letI : Nonempty (Fin S.inputs) := ⟨⟨0,by have := S.inputs_pos; omega⟩⟩
+  let T := next S.b S.C n
+  have hlo : bernProb ((1-ε)/2) (rareEvent (!S.b) T) = (1-S.p)^n := by rw [prob_next,S.p_eq]
+  have hhi : bernProb ((1+ε)/2) (rareEvent (!S.b) T) = (1-S.q)^n := by rw [prob_next,S.q_eq]
+  have herr := separated_errors ha ha' hb hratio
+  have hcoin : IsCoinDistinguisher ε (1/10) (fun x => T.eval x) := by
+    cases ht : S.b
+    · have he : (1-S.p)^n ≤ 1/10 ∧ 1-(1-S.q)^n ≤ 1/10 := by
+        simpa only [n,a,small,ht,Bool.false_eq_true,↓reduceIte] using herr
+      simp only [ht,Bool.not_false,rareEvent_true] at hlo hhi
+      constructor
+      · exact hlo.le.trans he.1
+      · rw [BernoulliAlgebra.prob_compl,hhi]
+        exact he.2
+    · have he : (1-S.q)^n ≤ 1/10 ∧ 1-(1-S.p)^n ≤ 1/10 := by
+        simpa only [n,a,small,ht,↓reduceIte] using herr
+      simp only [ht,Bool.not_true,rareEvent_false] at hlo hhi
+      constructor
+      · rw [BernoulliAlgebra.prob_compl] at hlo
+        linarith [he.2]
+      · exact hhi.le.trans he.1
+  refine ⟨n*S.inputs,T,monotone_next S.b S.C n S.monotone,
+    reduced_next S.b S.C n hn S.reduced S.root_and S.root_or,?_,?_,hcoin⟩
+  · exact (depth_next S.b S.C n).trans (by have := S.depth_le; omega)
+  · have hs : (T.treeSize : ℝ) ≤ 1+(n : ℝ)*(S.C.treeSize : ℝ) := by
+      exact_mod_cast size_next S.b S.C n
+    have hc : 1 ≤ (S.C.treeSize : ℝ) := by exact_mod_cast treeSize_pos S.C
+    have hncast : (n : ℝ) ≤ (fanIn (M : ℝ) S.p : ℝ) := by exact_mod_cast hnle
+    have hfactor : 1+(n : ℝ) ≤ Real.exp (7*(M : ℝ)) := by
+      have hf := fanIn_size (by linarith : 1 ≤ (M : ℝ)) S.p_pos S.p_lower
+      linarith
+    calc
+      _ ≤ 1+(n : ℝ)*(S.C.treeSize : ℝ) := hs
+      _ ≤ (1+(n : ℝ))*(S.C.treeSize : ℝ) := by nlinarith
+      _ ≤ Real.exp (7*(M : ℝ))*Real.exp ((1+7*(k : ℝ))*(M : ℝ)) :=
+        mul_le_mul hfactor S.size_le (Nat.cast_nonneg _) (Real.exp_pos _).le
+      _ = _ := by rw [← Real.exp_add]; congr 1; ring
+
+end SemAC02.CoinReadOnceStages
+end
+
+section
+-- Inlined Solutions.CoinReadOnceParameters
+
+set_option maxHeartbeats 1000000
+
+namespace SemAC02.CoinReadOnceParameters
+
+noncomputable def scaleConstant (k : ℕ) : ℝ := 24+10*Real.exp (10*(k : ℝ))
+
+theorem constant_bounds (k : ℕ) : 24 ≤ scaleConstant k ∧ 10*Real.exp (10*(k : ℝ)) ≤ scaleConstant k := by
+  unfold scaleConstant
+  constructor <;> linarith [Real.exp_pos (10*(k : ℝ))]
+
+theorem scale_power {ε : ℝ} (hε : 0 < ε) (k : ℕ) :
+    (ε^(-1/((k+1 : ℕ) : ℝ)))^(k+1) = ε⁻¹ := by
+  rw [← Real.rpow_mul_natCast hε.le]
+  have hn : (((k+1 : ℕ) : ℝ)) ≠ 0 := by positivity
+  rw [show (-1/((k+1 : ℕ) : ℝ))*((k+1 : ℕ) : ℝ) = -1 by field_simp]
+  exact Real.rpow_neg_one ε
+
+theorem scale_ge_one {ε : ℝ} (hε : 0 < ε) (hε' : ε ≤ 1) (k : ℕ) :
+    1 ≤ ε^(-1/((k+1 : ℕ) : ℝ)) := by
+  have hn : (0 : ℝ) < ((k+1 : ℕ) : ℝ) := by positivity
+  have he : -1/((k+1 : ℕ) : ℝ) ≤ 0 := div_nonpos_of_nonpos_of_nonneg (by norm_num) hn.le
+  simpa only [Real.one_rpow] using Real.rpow_le_rpow_of_nonpos hε hε' he
+
+theorem choose_scale {ε : ℝ} (hε : 0 < ε) (hε' : ε ≤ 1) (k : ℕ) :
+    ∃ M : ℕ, 24 ≤ M ∧
+      (M : ℝ) ≤ (scaleConstant k+1)*ε^(-1/((k+1 : ℕ) : ℝ)) ∧
+      10 ≤ ε*(M : ℝ)*((M : ℝ)*Real.exp (-10))^k := by
+  let B := scaleConstant k
+  let L := ε^(-1/((k+1 : ℕ) : ℝ))
+  let M := ⌈B*L⌉₊
+  have hB24 : 24 ≤ B := (constant_bounds k).1
+  have hB1 : 1 ≤ B := by linarith
+  have hBpos : 0 < B := by linarith
+  have hL1 : 1 ≤ L := scale_ge_one hε hε' k
+  have hLpos : 0 < L := by linarith
+  have hMlo : B*L ≤ (M : ℝ) := Nat.le_ceil _
+  have hM24 : (24 : ℝ) ≤ (M : ℝ) := by
+    have hb := mul_le_mul_of_nonneg_left hL1 hBpos.le
+    linarith
+  have hMhi : (M : ℝ) ≤ (B+1)*L := by
+    have hu := Nat.ceil_lt_add_one (mul_nonneg hBpos.le hLpos.le)
+    nlinarith
+  have hpower : B^(k+1) ≤ ε*(M : ℝ)^(k+1) := by
+    have hp := pow_le_pow_left₀ (mul_nonneg hBpos.le hLpos.le) hMlo (k+1)
+    have he := mul_le_mul_of_nonneg_left hp hε.le
+    rw [mul_pow,show L^(k+1) = ε⁻¹ from scale_power hε k] at he
+    have hc : ε*(B^(k+1)*ε⁻¹) = B^(k+1) := by field_simp
+    rw [hc] at he
+    exact he
+  have hcancel : Real.exp (10*(k : ℝ))*(Real.exp (-10))^k = 1 := by
+    rw [← Real.exp_nat_mul,← Real.exp_add]
+    convert Real.exp_zero using 1 <;> congr 1 <;> ring
+  have hgrowth : 10 ≤ ε*(M : ℝ)*((M : ℝ)*Real.exp (-10))^k := by
+    calc
+      10 = (10*Real.exp (10*(k : ℝ)))*(Real.exp (-10))^k := by rw [mul_assoc,hcancel,mul_one]
+      _ ≤ B*(Real.exp (-10))^k := mul_le_mul_of_nonneg_right (constant_bounds k).2 (by positivity)
+      _ ≤ B^(k+1)*(Real.exp (-10))^k :=
+        mul_le_mul_of_nonneg_right (le_self_pow₀ hB1 (by omega)) (by positivity)
+      _ ≤ (ε*(M : ℝ)^(k+1))*(Real.exp (-10))^k := mul_le_mul_of_nonneg_right hpower (by positivity)
+      _ = _ := by rw [mul_pow,pow_succ]; ring
+  exact ⟨M,by exact_mod_cast hM24,hMhi,hgrowth⟩
+
+end SemAC02.CoinReadOnceParameters
+end
+
+section
+-- Inlined Solutions.CoinFormulas
+
+set_option maxHeartbeats 2000000
+
+open SemAC02.CoinReadOnceStages SemAC02.CoinReadOnceParameters
+
+namespace SemAC02.CoinFormulas
+
+theorem coin_formulas (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ →
+      ∃ (m : ℕ) (T : Circ (Fin m)), IsMonotoneCirc T ∧ IsReduced T ∧ T.depth ≤ d ∧
+        (T.treeSize : ℝ) ≤ Real.exp (A*ε^(-1/((d : ℝ)-1))) ∧
+        IsCoinDistinguisher ε (1/10) (fun x => T.eval x) := by
+  classical
+  let k := d-2
+  let B := scaleConstant k
+  refine ⟨(8+7*(k : ℝ))*(B+1),1/2,by norm_num,?_⟩
+  intro ε hε hε'
+  obtain ⟨M,hM,hMsize,hgrowth⟩ := choose_scale hε (by linarith : ε ≤ 1) k
+  obtain ⟨S⟩ := stage_exists hε hε' M hM k
+  have hgap : 10 ≤ |Real.log S.q-Real.log S.p| := by
+    have h := S.gap_lower
+    rw [min_eq_left hgrowth] at h
+    exact h
+  obtain ⟨m,T,hmon,hred,hdepth,hsize,hcoin⟩ := finish hM S hgap
+  refine ⟨m,T,hmon,hred,?_,?_,hcoin⟩
+  · have hk : k+2 = d := by dsimp [k]; omega
+    simpa only [hk] using hdepth
+  · have hk : k+1 = d-1 := by dsimp [k]; omega
+    have hden : ((k+1 : ℕ) : ℝ) = (d : ℝ)-1 := by
+      rw [hk,Nat.cast_sub (by omega : 1 ≤ d),Nat.cast_one]
+    rw [hden] at hMsize
+    apply hsize.trans
+    apply Real.exp_le_exp.mpr
+    calc
+      (8+7*(k : ℝ))*(M : ℝ) ≤ (8+7*(k : ℝ))*((B+1)*ε^(-1/((d : ℝ)-1))) :=
+        mul_le_mul_of_nonneg_left hMsize (by positivity)
+      _ = _ := by ring
+
+end SemAC02.CoinFormulas
+end
+
+section
+-- Inlined Theorems.Thm_SemAC02_theorem_8_9_coin_formulas
+namespace SemAC02
+
+/-- **Theorem 8.9 (Limaye et al. [52])** (Alekseev–Gryaznov–Itsykson–Pitassi–Robere–Tzameret, *Hard Instances for Strong Semantic Proof
+Systems*, manuscript (STOC 2027 submission), Theorem 8.9, p.66): fix `d ≥ 2`.
+For all sufficiently small `ϵ > 0`, there is a monotone AND/OR formula of depth at most `d` and
+size `exp(O_d(ϵ^{−1/(d−1)}))` solving the `ϵ`-coin problem with error at most `1/10`.
+
+The paper cites this result; its proof is in Limaye et al. [52].
+
+**Formalization Note** `O_d(·)` is one constant `A` (depending on `d` only) chosen before
+`ϵ`; "sufficiently small" is `∃ ϵ₀ > 0, ∀ ϵ ∈ (0, ϵ₀)`. The formula is a `Circ (Fin m)` on some
+number `m` of inputs, in the paper's normal form (`IsReduced`); its size is the tree size. -/
+theorem theorem_8_9_coin_formulas (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ →
+      ∃ (m : ℕ) (T : Circ (Fin m)), IsMonotoneCirc T ∧ IsReduced T ∧ T.depth ≤ d ∧
+        (T.treeSize : ℝ) ≤ Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        IsCoinDistinguisher ε (1 / 10) (fun x => T.eval x) := by
+  exact SemAC02.CoinFormulas.coin_formulas d hd
+
+end SemAC02
+end
+
+section
+-- Inlined Solutions.ShiftedCoinDistinguisher
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CoinFormulaRooting SemAC02.MonotoneCircuitPinning
+open SemAC02.CoinShiftParameters SemAC02.BernoulliAlgebra
+
+namespace SemAC02.ShiftedCoinDistinguisher
+
+theorem shifted_distinguisher (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ →
+      ∃ m : ℕ, 1 ≤ m ∧ ∃ T : Circ (Fin m), IsMonotoneCirc T ∧ IsReduced T ∧
+        (∃ cs, T = Circ.and cs) ∧ T.depth ≤ d ∧
+        (T.treeSize : ℝ) ≤ Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        bernProb (1 / 2 - ε) (fun x => T.eval x) ≤ 1 / 5 ∧
+        bernProb (1 / 2) (fun x => !T.eval x) ≤ 1 / 5  := by
+  classical
+  obtain ⟨A,ε₀,hε₀,hform⟩ := theorem_8_9_coin_formulas d hd
+  refine ⟨2*(abs A)+1,min ε₀ (1/2),lt_min hε₀ (by norm_num),?_⟩
+  intro ε hεpos hεsmall
+  have hsmall := lt_min_iff.mp hεsmall
+  have hεhalf : ε < 1/2 := hsmall.2
+  have hεone : ε ≤ 1 := by linarith
+  let δ := ε/(1+ε)
+  have hδpos : 0 < δ := shift_pos hεpos
+  have hδε : δ < ε := shift_lt hεpos
+  obtain ⟨m,C,hC,hCR,hCd,hCs,hcoin⟩ := hform δ hδpos (hδε.trans hsmall.1)
+  have hm : 1 ≤ m := coin_dimension_pos (fun x => C.eval x) δ (1/10) (by norm_num) hcoin
+  obtain ⟨T,hT,hTR,⟨cs,hroot⟩,hTd,hTs,hcoinT⟩ := and_rooted_variant C hC hCR δ (1/10) hcoin
+  obtain ⟨z,hlo,hhi⟩ := exists_shifted_pinning hεpos hεhalf (fun x => T.eval x) hcoinT.1 hcoinT.2
+  refine ⟨m,hm,pin z T,monotone_pin z hT,reduced_pin z hT hTR,?_,?_,?_,?_,?_⟩
+  · exact ⟨(cs.map (pin z)).dedup,by rw [hroot,pin]⟩
+  · exact (depth_pin z T).trans (hTd.trans (max_le hCd (by omega)))
+  · have hp : ((pin z T).treeSize : ℝ) ≤ ((C.treeSize+1 : ℕ) : ℝ) := by
+      exact_mod_cast (size_pin z T).trans hTs
+    exact hp.trans (size_absorption hεpos hεone hd A C.treeSize hCs)
+  · simpa only [eval_pin z hT] using hlo
+  · simpa only [eval_pin z hT] using hhi
+
+end SemAC02.ShiftedCoinDistinguisher
+end
+
+section
+-- Inlined Theorems.Thm_SemAC02_lemma_8_10_shifted_distinguisher
+namespace SemAC02
+
+/-- **Lemma 8.10 (A shifted coin distinguisher)** (Alekseev–Gryaznov–Itsykson–Pitassi–Robere–Tzameret, *Hard Instances for Strong Semantic Proof
+Systems*, manuscript (STOC 2027 submission), Lemma 8.10, p.66): fix
+`d ≥ 2`. For all sufficiently small `ϵ > 0`, there exist an integer `m ≥ 1` and a monotone,
+AND-rooted formula `T` on `m` input variables, of depth at most `d` and size
+`exp(O_d(ϵ^{−1/(d−1)}))`, such that
+`Pr_{x∼Bern(1/2−ϵ)^m}[T(x) = 1] ≤ 1/5` and `Pr_{x∼Bern(1/2)^m}[T(x) = 0] ≤ 1/5`.
+
+**Formalization Note** `O_d(·)` is one constant `A` chosen before `ϵ`; "sufficiently small" is
+`∃ ϵ₀ > 0, ∀ ϵ ∈ (0, ϵ₀)`. AND-rooted: the root is an AND gate. The formula is in the paper's
+normal form (`IsReduced`); size is tree size. -/
+theorem lemma_8_10_shifted_distinguisher (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ →
+      ∃ m : ℕ, 1 ≤ m ∧ ∃ T : Circ (Fin m), IsMonotoneCirc T ∧ IsReduced T ∧
+        (∃ cs, T = Circ.and cs) ∧ T.depth ≤ d ∧
+        (T.treeSize : ℝ) ≤ Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        bernProb (1 / 2 - ε) (fun x => T.eval x) ≤ 1 / 5 ∧
+        bernProb (1 / 2) (fun x => !T.eval x) ≤ 1 / 5 := by
+  exact SemAC02.ShiftedCoinDistinguisher.shifted_distinguisher d hd
+
+end SemAC02
+end
+
+section
+-- Inlined Solutions.CoinConjunctionAmplification
+
+set_option maxHeartbeats 1000000
+
+open SemAC02.CircuitRenaming SemAC02.ConjunctionCopies
+open SemAC02.BernoulliProduct SemAC02.BernoulliAlgebra
+
+namespace SemAC02.CoinConjunctionAmplification
+
+theorem amplification (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ → ∀ t : ℕ, 1 ≤ t →
+      ∃ m : ℕ, 1 ≤ m ∧ ∃ T : Circ (Fin m), IsMonotoneCirc T ∧ IsReduced T ∧
+        (∃ cs, T = Circ.and cs) ∧ T.depth ≤ d ∧
+        (T.treeSize : ℝ) ≤ (t : ℝ) * Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        (4 / 5 : ℝ) ^ t ≤ bernProb (1 / 2) (fun x => T.eval x) ∧
+        bernProb (1 / 2 - ε) (fun x => T.eval x) ≤ (1 / 5 : ℝ) ^ t := by
+  classical
+  obtain ⟨A,ε₀,hε₀,hform⟩ := lemma_8_10_shifted_distinguisher d hd
+  refine ⟨A,min ε₀ (1/2),lt_min hε₀ (by norm_num),?_⟩
+  intro ε hε hsmall t ht
+  have hcut := lt_min_iff.mp hsmall
+  obtain ⟨m,hm,C,hM,hR,⟨cs,rfl⟩,hdepth,hsize,hlo,hhi⟩ := hform ε hε hcut.1
+  letI : Nonempty (Fin m) := ⟨⟨0,by omega⟩⟩
+  letI : Nonempty (Fin t) := ⟨⟨0,by omega⟩⟩
+  let U := amplify t cs
+  let e : Fin t × Fin m ≃ Fin (t*m) := finProdFinEquiv
+  let T := U.rename e
+  have hprob (p : ℝ) : bernProb p (fun x => T.eval x) =
+      bernProb p (fun x => (Circ.and cs).eval x) ^ t := by
+    calc
+      _ = prob p (fun x : Fin (t*m) → Bool => U.eval (fun v => x (e v))) := by
+        simp only [prob_fin,T,eval_rename,Function.comp_def]
+      _ = prob p (fun x => U.eval x) := prob_equiv e p (fun x => U.eval x)
+      _ = _ := prob_amplify p cs
+  refine ⟨t*m,by nlinarith,T,monotone_rename e (monotone_amplify t hM),
+    reduced_rename e e.injective (reduced_amplify t hR),?_,?_,?_,?_,?_⟩
+  · exact ⟨((children t cs).dedup).map (Circ.rename e),by simp only [T,U,amplify,Circ.rename]⟩
+  · exact (depth_rename e U).le.trans ((depth_amplify t cs).trans hdepth)
+  · have hs : (T.treeSize : ℝ) ≤ (t : ℝ) * ((Circ.and cs).treeSize : ℝ) := by
+      dsimp only [T]
+      rw [size_rename]
+      exact_mod_cast size_amplify ht cs
+    exact hs.trans (mul_le_mul_of_nonneg_left hsize (Nat.cast_nonneg t))
+  · rw [hprob]
+    apply pow_le_pow_left₀ (by norm_num)
+    rw [prob_compl] at hhi
+    linarith
+  · rw [hprob]
+    exact pow_le_pow_left₀ (prob_nonneg (by linarith : 0 ≤ 1/2-ε) (by linarith : 1/2-ε ≤ 1) _) hlo t
+
+end SemAC02.CoinConjunctionAmplification
+end
+
+section
+-- Inlined Theorems.Thm_SemAC02_Supplement_lemma_8_11_amplification
+namespace SemAC02.Supplement
+
+theorem lemma_8_11_amplification (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ → ∀ t : ℕ, 1 ≤ t →
+      ∃ m : ℕ, 1 ≤ m ∧ ∃ T : Circ (Fin m), IsMonotoneCirc T ∧ IsReduced T ∧
+        (∃ cs, T = Circ.and cs) ∧ T.depth ≤ d ∧
+        (T.treeSize : ℝ) ≤ (t : ℝ) * Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        (4 / 5 : ℝ) ^ t ≤ bernProb (1 / 2) (fun x => T.eval x) ∧
+        bernProb (1 / 2 - ε) (fun x => T.eval x) ≤ (1 / 5 : ℝ) ^ t := by
+  exact SemAC02.CoinConjunctionAmplification.amplification d hd
+
+end SemAC02.Supplement
+end
+
+section
+-- Inlined Solutions.CoveringGadget
+
+set_option maxHeartbeats 2000000
+
+open SemAC02.CoveringSampleParameters
+
+namespace SemAC02.CoveringGadget
+
+theorem covering_gadget (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A B₁ B₂ ε₀ : ℝ, 0 < B₁ ∧ 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ → ∀ m : ℕ, Odd m →
+      128*(ε^(-1/((d : ℝ)-1)))^(2*d-1) ≤ (m : ℝ) →
+      (∀ m' : ℕ, Odd m' → 128*(ε^(-1/((d : ℝ)-1)))^(2*d-1) ≤ (m' : ℝ) → m ≤ m') →
+      ∃ Cm : Circ (Fin m), IsMonotoneCirc Cm ∧ IsReduced Cm ∧ Cm.depth ≤ d+1 ∧
+        (Cm.treeSize : ℝ) ≤ Real.exp (A*ε^(-1/((d : ℝ)-1))) ∧
+        (∃ cs, Cm = Circ.or cs ∧ ∀ c ∈ cs, c.isAnd = true ∧ c.depth ≤ d) ∧
+        (∀ x : Fin m → Bool, (m : ℝ)/2 ≤ (hammingWeight x : ℝ) → Cm.eval x = true) ∧
+        bernProb (1/2-ε) (fun x => Cm.eval x) ≤ Real.exp (-(ε^(-1/((d : ℝ)-1)))) ∧
+        B₁*(ε^(-1/((d : ℝ)-1)))^(2*d-1) ≤ (m : ℝ) ∧
+        (m : ℝ) ≤ B₂*(ε^(-1/((d : ℝ)-1)))^(2*d-1) := by
+  classical
+  obtain ⟨A,εa,hεa,hform⟩ := Supplement.lemma_8_11_amplification d hd
+  let n := 2*d-1
+  let K := cutoff n
+  have hK8 : 8 ≤ K := cutoff_ge_eight n
+  have hKpos : 0 < K := by linarith
+  have hcutpos : 0 < 1/K^(d-1) := div_pos zero_lt_one (pow_pos hKpos _)
+  refine ⟨(n : ℝ)+158+2*abs A,128,130,min εa (min (1/2) (1/K^(d-1))),by norm_num,
+    lt_min hεa (lt_min (by norm_num) hcutpos),?_⟩
+  intro ε hε hsmall m hm hml hmin
+  have hc := lt_min_iff.mp hsmall
+  have hc' := lt_min_iff.mp hc.2
+  let L := ε^(-1/((d : ℝ)-1))
+  have hLK : K ≤ L := CoveringDimension.small_parameter_scale hKpos hε hd hc'.2
+  have hL1 : 1 ≤ L := by linarith
+  obtain ⟨hmpos,hmupper⟩ := CoveringDimension.dimension_bounds hL1 n hm hml hmin
+  have htail : 2*L ≤ (m : ℝ)*ε^2/64 := CoveringDimension.dimension_tail_exponent hε hd hml
+  let t := amplificationCount L
+  have ht : 1 ≤ t := (amplification_bounds hL1).1
+  let δ := 3*ε/4
+  have hδ : 0 < δ := by dsimp [δ]; positivity
+  have hδsmall : δ < εa := by dsimp [δ]; linarith [hc.1]
+  obtain ⟨r,hr,C,hC,hR,⟨cs,hroot⟩,hdepth,hsize,hfair,hlow⟩ := hform δ hδ hδsmall t ht
+  have hA : C.isAnd = true := by rw [hroot]; rfl
+  have hbudget : (copyCount m t : ℝ)*(1/5 : ℝ)^t+Real.exp (-((m : ℝ)*ε^2/64)) < Real.exp (-L)/2 :=
+    mean_budget hLK hmupper htail
+  obtain ⟨Cm,hCm,hCmR,hCmdepth,hCmsize,hCmroot,hcover,hacc⟩ :=
+    CoveringProbabilisticMethod.exists_cover (s := copyCount m t) hmpos hC hR hA hdepth hε hc'.1.le
+      (show 0 ≤ (1/5 : ℝ)^t from by positivity) hfair hlow (coverage_mass m t) hbudget
+  refine ⟨Cm,hCm,hCmR,hCmdepth,?_,hCmroot,hcover,hacc,hml,hmupper⟩
+  exact CoveringSizeParameters.total_size hL1 (Real.rpow_nonneg hδ.le _)
+    (CoveringSizeParameters.shifted_scale_bound hε hd) hmupper hsize hCmsize
+
+end SemAC02.CoveringGadget
+end
+
+section
+-- Inlined Theorems.Thm_SemAC02_lemma_8_12_covering_gadget
+namespace SemAC02
+
+/-- **Lemma 8.12 (A one-sided covering gadget)** (Alekseev–Gryaznov–Itsykson–Pitassi–Robere–Tzameret, *Hard Instances for Strong Semantic Proof
+Systems*, manuscript (STOC 2027 submission), Lemma 8.12, p.67): fix
+`d ≥ 2`. For all sufficiently small `ϵ > 0`, put `L = ϵ^{−1/(d−1)}` and let `m` be the smallest
+odd integer at least `128 L^{2d−1}`. There exists a monotone, alternating, OR-rooted AND/OR
+formula `C_m` of depth at most `d + 1` and size `exp(O_d(L))` such that
+`|x| ≥ m/2 ⟹ C_m(x) = 1` and `Pr_{X∼Bern(1/2−ϵ)^m}[C_m(X) = 1] ≤ e^{−L}`.
+Every child of the OR root is AND-rooted and has depth at most `d`. In particular,
+`m = Θ_d(L^{2d−1})`.
+
+**Formalization Note** `O_d`, `Θ_d`: constants `A`, `B₁ > 0`, `B₂` chosen before `ϵ`.
+"Smallest odd integer at least `x`" is stated by the three hypotheses on `m`. "Alternating" (no
+gate has a child of its own type) is part of `IsReduced`, the paper's normal form; size is tree
+size. -/
+theorem lemma_8_12_covering_gadget (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A B₁ B₂ ε₀ : ℝ, 0 < B₁ ∧ 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ → ∀ m : ℕ, Odd m →
+      128 * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) ≤ (m : ℝ) →
+      (∀ m' : ℕ, Odd m' → 128 * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) ≤ (m' : ℝ) → m ≤ m') →
+      ∃ Cm : Circ (Fin m), IsMonotoneCirc Cm ∧ IsReduced Cm ∧ Cm.depth ≤ d + 1 ∧
+        (Cm.treeSize : ℝ) ≤ Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        (∃ cs, Cm = Circ.or cs ∧ ∀ c ∈ cs, c.isAnd = true ∧ c.depth ≤ d) ∧
+        (∀ x : Fin m → Bool, (m : ℝ) / 2 ≤ (hammingWeight x : ℝ) → Cm.eval x = true) ∧
+        bernProb (1 / 2 - ε) (fun x => Cm.eval x) ≤ Real.exp (-(ε ^ (-1 / ((d : ℝ) - 1)))) ∧
+        B₁ * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) ≤ (m : ℝ) ∧
+        (m : ℝ) ≤ B₂ * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) := by
+  exact SemAC02.CoveringGadget.covering_gadget d hd
+
+end SemAC02
+end
+
+section
+-- Inlined Solutions.GadgetDimension
+
+set_option maxHeartbeats 2000000
+
+namespace SemAC02.GadgetDimension
+
+theorem gadget_dimension (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ → ε ≤ 1 / 256 → ∀ m : ℕ, Odd m →
+      128 * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) ≤ (m : ℝ) →
+      (∀ m' : ℕ, Odd m' → 128 * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) ≤ (m' : ℝ) → m ≤ m') →
+      ∃ g : Circ (Fin m), IsGadget d g ∧
+        (g.treeSize : ℝ) ≤ Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        ∀ n : ℕ, 1 ≤ n → ∀ k : ℕ, (k : ℝ) ≤ (1 / 2 - ε) * ((n * m : ℕ) : ℝ) →
+          1 - (((n * m : ℕ) : ℝ) + 1) * n * Real.exp (-(ε ^ (-1 / ((d : ℝ) - 1)))) ≤
+            (Module.finrank (ZMod 2) (multiplierSpace (fun X => g.eval X) n k) : ℝ) /
+              (Hn (n * m) k : ℝ)  := by
+  classical
+  obtain ⟨A,B₁,B₂,ε₀,hB₁,hε₀,hcover⟩ := lemma_8_12_covering_gadget d hd
+  refine ⟨A,ε₀,hε₀,?_⟩
+  intro ε hε hsmall hεmax m hm hml hmin
+  obtain ⟨C,hC,hR,hdepth,hsize,⟨cs,hroot,hchildren⟩,hcov,hacc,hdimlo,hdimhi⟩ :=
+    hcover ε hε hsmall m hm hml hmin
+  let g := CircuitComplement.negate C
+  have hg : IsGadget d g := GadgetComplement.gadget_of_covering hC hR hdepth ⟨cs,hroot⟩ hcov
+  have hLpos : 0 < ε^(-1/((d : ℝ)-1)) := Real.rpow_pos_of_pos hε _
+  have hmr : (0 : ℝ) < (m : ℝ) := lt_of_lt_of_le (by positivity) hml
+  have hmn : 0 < m := by exact_mod_cast hmr
+  have hmpos : 1 ≤ m := by omega
+  have hεhalf : ε < 1/2 := lt_of_le_of_lt hεmax (by norm_num)
+  refine ⟨g,hg,?_,?_⟩
+  · simpa only [g,CircuitComplement.size_negate] using hsize
+  · intro n hn k hk
+    have hbase := GadgetRetention.dimension_bound hn hmpos hC (q := 1/2-ε)
+      (by linarith) (by linarith) hk
+    have hloss := mul_le_mul_of_nonneg_left hacc
+      (show 0 ≤ ((((n*m : ℕ) : ℝ)+1)*(n : ℝ)) from by positivity)
+    calc
+      1-(((n*m : ℕ) : ℝ)+1)*(n : ℝ)*Real.exp (-(ε^(-1/((d : ℝ)-1)))) ≤
+          1-(((n*m : ℕ) : ℝ)+1)*(n : ℝ)*bernProb (1/2-ε) (fun x => C.eval x) := by linarith
+      _ ≤ _ := hbase
+
+end SemAC02.GadgetDimension
+end
+
+open SemAC02
+
+theorem solution (d : ℕ) (hd : 2 ≤ d) :
+    ∃ A ε₀ : ℝ, 0 < ε₀ ∧ ∀ ε : ℝ, 0 < ε → ε < ε₀ → ε ≤ 1 / 256 → ∀ m : ℕ, Odd m →
+      128 * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) ≤ (m : ℝ) →
+      (∀ m' : ℕ, Odd m' → 128 * (ε ^ (-1 / ((d : ℝ) - 1))) ^ (2 * d - 1) ≤ (m' : ℝ) → m ≤ m') →
+      ∃ g : Circ (Fin m), IsGadget d g ∧
+        (g.treeSize : ℝ) ≤ Real.exp (A * ε ^ (-1 / ((d : ℝ) - 1))) ∧
+        ∀ n : ℕ, 1 ≤ n → ∀ k : ℕ, (k : ℝ) ≤ (1 / 2 - ε) * ((n * m : ℕ) : ℝ) →
+          1 - (((n * m : ℕ) : ℝ) + 1) * n * Real.exp (-(ε ^ (-1 / ((d : ℝ) - 1)))) ≤
+            (Module.finrank (ZMod 2) (multiplierSpace (fun X => g.eval X) n k) : ℝ) /
+              (Hn (n * m) k : ℝ)  := by
+  exact SemAC02.GadgetDimension.gadget_dimension d hd

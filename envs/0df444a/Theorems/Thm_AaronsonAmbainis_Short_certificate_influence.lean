@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AaronsonAmbainis_Short_certificate_influence
 -- name    : AaronsonAmbainis.Short.certificate_influence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-12T07:38:59.234196+00:00
 -- url     : https://prove2.me/theorems/3f280a88-7688-4b00-abec-65b0b6eb65dc

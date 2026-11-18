@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_dominance_interval
 -- name    : RealPinwheel.FiveSixths.dominance_interval
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:36:05.211682+00:00
 -- url     : https://prove2.me/theorems/bcaad7bd-034f-4d6d-baa3-3b3bf6367f95

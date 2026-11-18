@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a25_20261115_original_Borel_count_real_charfun_poisson
 -- name    : AvramDividend.Classical.avram_a25_20261115_original_Borel_count_real_charfun_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T00:01:21.726185+00:00
 -- url     : https://prove2.me/theorems/82538c3b-273b-41c9-9dac-3fa56cfa22c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BddExp3SUM_lemma_2
 -- name    : BddExp3SUM.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:58:31.60051+00:00
 -- url     : https://prove2.me/theorems/783810cf-7fbe-4be6-bfd9-0f2ca62589b8

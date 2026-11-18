@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonKastler.PointedMatrixSites.constructed_represented_expected_matrix_subfactor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-13T08:51:49.258931+00:00
 -- url     : https://prove2.me/submissions/0ab835b1-bce2-4ec0-b329-6f0619ac2627
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Algebra.Basic

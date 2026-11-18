@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_elementaryPositivityWitness_exists
 -- name    : OAI.elementaryPositivityWitness_exists
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:09.789118+00:00
 -- url     : https://prove2.me/theorems/8538ae2d-f1eb-40bc-b46b-fe2043d67d52

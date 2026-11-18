@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_adaptive_cell_counting
 -- name    : BirthdayEntropy.Soundness.adaptive_cell_counting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:49:50.257303+00:00
 -- url     : https://prove2.me/theorems/a33c5c60-0a56-491b-8906-e7acc80de2d1

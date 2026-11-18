@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_fixed_flattening_energy
 -- name    : BirthdayEntropy.Soundness.fixed_flattening_energy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:51:31.858861+00:00
 -- url     : https://prove2.me/theorems/6a0b1787-e244-4f8c-bb35-dd38bb9af751

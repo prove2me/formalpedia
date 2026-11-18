@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_8_10_shifted_distinguisher
 -- name    : SemAC02.lemma_8_10_shifted_distinguisher
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:28:41.728233+00:00
 -- url     : https://prove2.me/theorems/0df2c84b-0b52-4b9b-8ca8-372db1882bca

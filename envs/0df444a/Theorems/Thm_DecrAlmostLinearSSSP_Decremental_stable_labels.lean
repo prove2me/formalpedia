@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_stable_labels
 -- name    : DecrAlmostLinearSSSP.Decremental.stable_labels
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:54:04.280563+00:00
 -- url     : https://prove2.me/theorems/a0b68624-7d20-4916-8af2-0d829ca7b289

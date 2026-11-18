@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemoSDPI_Main_gaussian_tail_bounds
 -- name    : MemoSDPI.Main.gaussian_tail_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:41:09.158204+00:00
 -- url     : https://prove2.me/theorems/ddd2dcfe-bf77-4aca-a8e9-199e20207e86

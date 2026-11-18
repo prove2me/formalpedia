@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_theorem_8_1_lifted_lower_bound
 -- name    : SemAC02.theorem_8_1_lifted_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:29:41.650958+00:00
 -- url     : https://prove2.me/theorems/6bdf8095-6943-48f6-950f-563335564ab4

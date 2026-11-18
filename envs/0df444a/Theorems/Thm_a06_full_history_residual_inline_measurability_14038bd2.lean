@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_a06_full_history_residual_inline_measurability_14038bd2
 -- name    : a06_full_history_residual_inline_measurability_14038bd2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-11T20:25:54.048909+00:00
 -- url     : https://prove2.me/theorems/2a79a730-e622-43bb-bc1c-c8a10efeac0e

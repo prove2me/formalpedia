@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_C_1_cumulative_counts
 -- name    : AC02Frege.lemma_C_1_cumulative_counts
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:51:47.606132+00:00
 -- url     : https://prove2.me/theorems/aeb3c46d-afbb-4fd9-853d-b9c0de5e8974

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PsdPermanent_permanent_eq_zero_of_diag
 -- name    : PsdPermanent.permanent_eq_zero_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:30:52.437603+00:00
 -- url     : https://prove2.me/theorems/ccaf33b2-795a-4cbe-b48a-a36c76175382

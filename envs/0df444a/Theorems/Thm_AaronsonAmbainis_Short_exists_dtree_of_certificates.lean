@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AaronsonAmbainis_Short_exists_dtree_of_certificates
 -- name    : AaronsonAmbainis.Short.exists_dtree_of_certificates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-12T07:39:39.240841+00:00
 -- url     : https://prove2.me/theorems/54203bfb-a3be-4371-8ca9-318acac4630d

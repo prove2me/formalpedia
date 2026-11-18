@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiddenConvexSO_convex_iff_line_sections
 -- name    : HiddenConvexSO.convex_iff_line_sections
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:29:34.188226+00:00
 -- url     : https://prove2.me/theorems/303b3c32-2c9f-47a8-a7d1-4ae785fbf84d

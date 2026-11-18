@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.two_lower_bounds
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:30:58.030511+00:00
 -- url     : https://prove2.me/submissions/31c84888-5ecd-4a4f-bbf7-e67bbb5dddaa
 

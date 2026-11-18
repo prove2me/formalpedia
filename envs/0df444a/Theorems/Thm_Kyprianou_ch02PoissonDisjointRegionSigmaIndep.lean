@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_ch02PoissonDisjointRegionSigmaIndep
 -- name    : Kyprianou.ch02PoissonDisjointRegionSigmaIndep
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T20:45:46.946193+00:00
 -- url     : https://prove2.me/theorems/1f07b91d-5803-4028-afb6-125a37da230b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactAmpDich_lemma_3_2
 -- name    : ExactAmpDich.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:30:46.49862+00:00
 -- url     : https://prove2.me/theorems/ccfc467f-9e51-4355-a158-f0d36cd02c98

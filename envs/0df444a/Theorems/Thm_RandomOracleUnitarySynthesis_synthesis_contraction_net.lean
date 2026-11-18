@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_contraction_net
 -- name    : RandomOracleUnitarySynthesis.synthesis_contraction_net
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:56:12.523982+00:00
 -- url     : https://prove2.me/theorems/4e6cf39c-c594-4693-91b0-0f60ffdfb9ad

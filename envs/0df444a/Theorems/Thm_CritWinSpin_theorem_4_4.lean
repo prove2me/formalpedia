@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_theorem_4_4
 -- name    : CritWinSpin.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:40:08.052019+00:00
 -- url     : https://prove2.me/theorems/f855076c-57fc-43bf-b5eb-1bffe0df1cbe

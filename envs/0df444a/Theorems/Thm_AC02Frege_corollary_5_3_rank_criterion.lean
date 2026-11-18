@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_corollary_5_3_rank_criterion
 -- name    : AC02Frege.corollary_5_3_rank_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:52:14.68403+00:00
 -- url     : https://prove2.me/theorems/838e7c6a-f56e-4885-93f0-55392db576b4

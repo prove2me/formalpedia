@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_prop1_one_resolve
 -- name    : ResolvingNRM.IRT.prop1_one_resolve
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:21:12.480091+00:00
 -- url     : https://prove2.me/theorems/4fdf03e8-3edd-4030-8011-36dc7c4625af

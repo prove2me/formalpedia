@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightCoreset2027_Euclidean_moment_interpolation
 -- name    : TightCoreset2027.Euclidean.moment_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:06:03.649685+00:00
 -- url     : https://prove2.me/theorems/b1b9c1a2-7971-49b2-b1aa-c039740e0dee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a125_original_negative_Borel_void_deficit_between_first_factorial_moments_20261114
 -- name    : AvramDividend.Classical.avram_a125_original_negative_Borel_void_deficit_between_first_factorial_moments_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T19:33:20.392943+00:00
 -- url     : https://prove2.me/theorems/cb7653e3-ff12-4c31-a9b8-91a0ce111e71

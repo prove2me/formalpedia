@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_hecke_zero_free
 -- name    : ArtinPrimitiveRoots.hecke_zero_free
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:01:47.933057+00:00
 -- url     : https://prove2.me/theorems/d342b624-ef7f-42e6-9b5c-ee12502b723a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussLocalMaxColoring_Main_lemma_37
 -- name    : GaussLocalMaxColoring.Main.lemma_37
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:23:37.361441+00:00
 -- url     : https://prove2.me/theorems/d34ce85e-b971-4acf-866b-b2cd44c1bc97

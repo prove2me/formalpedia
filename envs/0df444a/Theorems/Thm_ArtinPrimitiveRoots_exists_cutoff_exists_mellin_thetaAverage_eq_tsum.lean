@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_mellin_thetaAverage_eq_tsum
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_mellin_thetaAverage_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-18T04:51:28.653526+00:00
 -- url     : https://prove2.me/theorems/2b898c8c-29ef-4331-a77e-adf890a5ed78

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.classical_ship_le_lot
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:16.367555+00:00
 -- url     : https://prove2.me/submissions/b13918d3-13d6-4185-b4a5-6e664bc54510
 

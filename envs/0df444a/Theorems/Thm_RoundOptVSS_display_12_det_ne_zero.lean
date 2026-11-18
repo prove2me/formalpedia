@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundOptVSS_display_12_det_ne_zero
 -- name    : RoundOptVSS.display_12_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:00:55.365212+00:00
 -- url     : https://prove2.me/theorems/afea8aa4-ff34-4021-8c95-d60b3a0dd4a8

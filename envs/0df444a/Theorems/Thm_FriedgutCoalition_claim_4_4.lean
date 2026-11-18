@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedgutCoalition_claim_4_4
 -- name    : FriedgutCoalition.claim_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:33:28.885569+00:00
 -- url     : https://prove2.me/theorems/3855c262-8592-40af-8c57-d754edad8060

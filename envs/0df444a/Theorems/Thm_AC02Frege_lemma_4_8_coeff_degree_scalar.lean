@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_4_8_coeff_degree_scalar
 -- name    : AC02Frege.lemma_4_8_coeff_degree_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:50:21.315354+00:00
 -- url     : https://prove2.me/theorems/a1ac4378-f551-4790-bd91-72d0e40138a4

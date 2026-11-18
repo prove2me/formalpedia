@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_EFX_lemma_5
 -- name    : LittleCharity.EFX.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:08.819981+00:00
 -- url     : https://prove2.me/theorems/bdc383d4-cf33-4ac6-bfb0-adc7496e6f19

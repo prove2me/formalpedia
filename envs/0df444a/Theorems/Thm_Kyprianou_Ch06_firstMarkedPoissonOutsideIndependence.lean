@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch06_firstMarkedPoissonOutsideIndependence
 -- name    : Kyprianou.Ch06.firstMarkedPoissonOutsideIndependence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T05:35:19.138718+00:00
 -- url     : https://prove2.me/theorems/61bd98c5-96c0-4241-9bed-efdf22507da3

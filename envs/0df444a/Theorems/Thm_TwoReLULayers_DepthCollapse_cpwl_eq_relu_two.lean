@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoReLULayers_DepthCollapse_cpwl_eq_relu_two
 -- name    : TwoReLULayers.DepthCollapse.cpwl_eq_relu_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:35:56.52104+00:00
 -- url     : https://prove2.me/theorems/f957fc50-db3b-423c-ad41-ff8310c31ecb

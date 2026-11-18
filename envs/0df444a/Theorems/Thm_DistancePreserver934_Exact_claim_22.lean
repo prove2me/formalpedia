@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistancePreserver934_Exact_claim_22
 -- name    : DistancePreserver934.Exact.claim_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:36:56.282836+00:00
 -- url     : https://prove2.me/theorems/83fbd29c-9982-4fba-8c1a-6c6945d29bc2

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.demandSpace_nonempty
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:18.162907+00:00
 -- url     : https://prove2.me/submissions/c8d1c5b7-e1ad-46ff-8953-3f0807e8a52a
 

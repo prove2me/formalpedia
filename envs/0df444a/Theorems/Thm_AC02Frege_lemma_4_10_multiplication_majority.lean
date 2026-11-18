@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_4_10_multiplication_majority
 -- name    : AC02Frege.lemma_4_10_multiplication_majority
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:50:54.65145+00:00
 -- url     : https://prove2.me/theorems/5ed798a5-34ec-4541-a9c4-f24442afa046

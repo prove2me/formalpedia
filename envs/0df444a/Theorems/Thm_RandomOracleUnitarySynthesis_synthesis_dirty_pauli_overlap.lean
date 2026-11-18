@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_dirty_pauli_overlap
 -- name    : RandomOracleUnitarySynthesis.synthesis_dirty_pauli_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:56:14.837317+00:00
 -- url     : https://prove2.me/theorems/ef033073-eb4b-4848-9290-4848f86c205b

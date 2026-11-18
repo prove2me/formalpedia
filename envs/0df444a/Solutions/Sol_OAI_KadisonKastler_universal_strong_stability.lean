@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonKastler.universal_strong_stability
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-13T08:52:04.722138+00:00
 -- url     : https://prove2.me/submissions/7a5b2102-618f-4b5b-a71f-92e5b6c3b1b4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Algebra.Basic

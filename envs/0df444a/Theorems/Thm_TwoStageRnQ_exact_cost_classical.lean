@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_exact_cost_classical
 -- name    : TwoStageRnQ.exact_cost_classical
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:22:02.007242+00:00
 -- url     : https://prove2.me/theorems/b3a04c86-848a-47b9-8505-05ed6080f1ac
 -- title:

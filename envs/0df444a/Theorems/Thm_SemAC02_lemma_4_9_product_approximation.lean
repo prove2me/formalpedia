@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_4_9_product_approximation
 -- name    : SemAC02.lemma_4_9_product_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:29:48.101625+00:00
 -- url     : https://prove2.me/theorems/195984ee-6fff-4388-bbbc-dee415177a6c

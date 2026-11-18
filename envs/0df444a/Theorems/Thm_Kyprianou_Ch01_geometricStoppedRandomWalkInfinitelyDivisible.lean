@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_geometricStoppedRandomWalkInfinitelyDivisible
 -- name    : Kyprianou.Ch01.geometricStoppedRandomWalkInfinitelyDivisible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:18:51.267525+00:00
 -- url     : https://prove2.me/theorems/043c211b-f601-4303-8085-f36b5c4550ef

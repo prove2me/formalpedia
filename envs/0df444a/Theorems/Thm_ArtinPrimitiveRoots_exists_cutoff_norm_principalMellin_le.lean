@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_norm_principalMellin_le
 -- name    : ArtinPrimitiveRoots.exists_cutoff_norm_principalMellin_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T10:47:07.164092+00:00
 -- url     : https://prove2.me/theorems/b9d085ec-eb56-4cbc-af21-27845f5ad23a

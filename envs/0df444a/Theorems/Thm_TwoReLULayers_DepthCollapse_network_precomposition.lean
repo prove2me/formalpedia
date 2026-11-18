@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoReLULayers_DepthCollapse_network_precomposition
 -- name    : TwoReLULayers.DepthCollapse.network_precomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:35:17.3333+00:00
 -- url     : https://prove2.me/theorems/581a2d7c-27d6-440c-a248-444e45998bad

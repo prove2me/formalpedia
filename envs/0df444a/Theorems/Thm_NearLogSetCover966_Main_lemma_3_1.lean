@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLogSetCover966_Main_lemma_3_1
 -- name    : NearLogSetCover966.Main.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T09:22:01.672984+00:00
 -- url     : https://prove2.me/theorems/c750f3b4-49af-4a70-8540-3a7efe6914ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_components_over_affine_line
 -- name    : APSCounting893.Main.components_over_affine_line
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:01:40.074552+00:00
 -- url     : https://prove2.me/theorems/b8106490-df69-4686-9d14-5927e8a050eb

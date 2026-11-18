@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_HPIM_hpim_preprocessing
 -- name    : DetANN.HPIM.hpim_preprocessing
--- status  : Open
+-- status  : Proved
 -- author  : @milia
 -- created : 2026-11-16T06:37:05.95442+00:00
 -- url     : https://prove2.me/theorems/a1c02e1f-d0fe-4c6a-82c4-6bda61a7f1f5

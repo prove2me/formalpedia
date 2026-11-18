@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_commonRank_algebra_decomposition
 -- name    : OAI.KadisonKastler.commonRank_algebra_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:25:55.802849+00:00
 -- url     : https://prove2.me/theorems/69b72a70-6425-4b53-9126-eccd8414f02d

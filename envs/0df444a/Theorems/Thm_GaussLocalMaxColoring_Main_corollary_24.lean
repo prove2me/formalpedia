@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussLocalMaxColoring_Main_corollary_24
 -- name    : GaussLocalMaxColoring.Main.corollary_24
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:22:27.803288+00:00
 -- url     : https://prove2.me/theorems/2e8d1d12-8496-49d0-93f8-0083feea3e9f

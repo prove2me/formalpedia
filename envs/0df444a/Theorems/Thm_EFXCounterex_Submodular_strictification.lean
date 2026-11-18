@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EFXCounterex_Submodular_strictification
 -- name    : EFXCounterex.Submodular.strictification
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:45:39.045194+00:00
 -- url     : https://prove2.me/theorems/de92f181-bd92-4ce5-bf63-b3e82ce583d2

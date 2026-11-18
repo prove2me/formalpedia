@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercliqueFalse_lemma_3_1
 -- name    : HypercliqueFalse.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:29:58.089057+00:00
 -- url     : https://prove2.me/theorems/e92a4e96-07fd-48de-9580-d0345dfca215

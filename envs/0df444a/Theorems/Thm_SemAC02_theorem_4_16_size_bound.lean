@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_theorem_4_16_size_bound
 -- name    : SemAC02.theorem_4_16_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:30:19.912258+00:00
 -- url     : https://prove2.me/theorems/499df5a3-e0fe-4d33-9b91-3a69c687c12c

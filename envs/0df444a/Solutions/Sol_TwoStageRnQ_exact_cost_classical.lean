@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.exact_cost_classical
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:15.700302+00:00
 -- url     : https://prove2.me/submissions/bc1d95ab-2011-4590-8f65-7f6803cbda1e
 

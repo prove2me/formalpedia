@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_toggle_descent
 -- name    : DecrAlmostLinearSSSP.Decremental.toggle_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:54:38.977315+00:00
 -- url     : https://prove2.me/theorems/d364251e-bf47-441b-ab0d-a7223e8754ec

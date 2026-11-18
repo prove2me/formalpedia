@@ -34132,10 +34132,10 @@
 {"parent": "MIPRE_Foundations_Expanded", "child": "MIPRE_Foundations_POVMValue", "via": ["statement"]}
 {"parent": "MIPRE_Foundations_Expanded", "child": "MIPRE_Foundations_OpBound", "via": ["statement"]}
 {"parent": "MIPRE_Foundations_Expanded", "child": "MIPRE_Foundations_OpBound_B", "via": ["statement"]}
-{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHeckeSModel", "via": ["statement"]}
-{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHeckeTheta", "via": ["statement"]}
-{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHecke", "via": ["statement"]}
-{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHeckeProbe", "via": ["statement"]}
+{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHeckeSModel", "via": ["solution", "statement"]}
+{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHeckeTheta", "via": ["solution", "statement"]}
+{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHecke", "via": ["solution", "statement"]}
+{"parent": "ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant", "child": "ArtinHeckeProbe", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group023", "child": "dusart_mesh_upper_group023_part00", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group023", "child": "dusart_mesh_upper_group023_part01", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group390", "child": "dusart_mesh_upper_group390_part00", "via": ["statement"]}

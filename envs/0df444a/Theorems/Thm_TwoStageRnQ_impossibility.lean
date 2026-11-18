@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_impossibility
 -- name    : TwoStageRnQ.impossibility
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:59.585066+00:00
 -- url     : https://prove2.me/theorems/39a8caa8-94dc-45cb-a49e-5a02efdfbf1d
 -- title:

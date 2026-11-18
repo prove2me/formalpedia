@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerShortcuts_Main_equation_11
 -- name    : SteinerShortcuts.Main.equation_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:35:26.822551+00:00
 -- url     : https://prove2.me/theorems/447c46e9-bc0a-4a1c-b792-c2e8ec39e8db

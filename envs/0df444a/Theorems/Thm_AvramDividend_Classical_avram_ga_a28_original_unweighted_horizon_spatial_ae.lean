@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a28_original_unweighted_horizon_spatial_ae
 -- name    : AvramDividend.Classical.avram_ga_a28_original_unweighted_horizon_spatial_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T09:01:43.814487+00:00
 -- url     : https://prove2.me/theorems/897e8412-1d7f-4fcf-ba7b-864bb2df19d7

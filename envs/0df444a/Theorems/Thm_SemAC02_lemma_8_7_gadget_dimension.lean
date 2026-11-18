@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_8_7_gadget_dimension
 -- name    : SemAC02.lemma_8_7_gadget_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:29:27.069279+00:00
 -- url     : https://prove2.me/theorems/c2fa3a18-3ef6-475b-86e9-a04fef444159

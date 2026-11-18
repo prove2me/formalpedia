@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricPSM1041_ORLowerBound_finite_higman_length_bound
 -- name    : SymmetricPSM1041.ORLowerBound.finite_higman_length_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:56:10.70924+00:00
 -- url     : https://prove2.me/theorems/7303f2b7-34ee-42b4-90c5-64d50ee0bfbb

@@ -1,0 +1,193 @@
+-- Prove2me | solution 1 for OAI.UniversalTensorSquare.sg33884
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-18T04:04:46.162978+00:00
+-- url     : https://prove2.me/submissions/60c96e30-6ca7-4494-825c-9874cd48db55
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_OAIQ259US006
+import Definitions.Def_OAIQ259US007
+import Definitions.Def_OAIQ259US012
+import Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_compact
+import Theorems.Thm_OAI_UniversalTensorSquare_rowSquare_join
+import Theorems.Thm_OAI_UniversalTensorSquare_sg13
+import Theorems.Thm_OAI_UniversalTensorSquare_sg178
+import Theorems.Thm_OAI_UniversalTensorSquare_sg20506
+import Theorems.Thm_OAI_UniversalTensorSquare_sg32
+import Theorems.Thm_OAI_UniversalTensorSquare_sg88
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupLeaves3
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Leaves 3. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sgCert564 : solveCompact 9 (.full [5,4]) (.full [4,2,2,1]) (.full [4,2,2,1])
+    (certificateEdges [4,2,2,1] [4,2,2,1] [5,4] (Equiv.refl (Fin 9)) sgB564 sgT564) sgFlag564 = 7 := by
+  decide +kernel
+
+lemma sg564 : RowSquare [4,3,1,1] [2,2,2,2,1] := by
+  apply rowSquare_compact (n := 9) (cs := [4,2,2,1]) (ts := [5,4])
+    (by decide) (by decide) (by decide) (by decide) (by decide) (by decide)
+    rfl rfl sgB564 sgT564 sgFlag564
+  change solveCompact 9 (.full [5,4]) (.full [4,2,2,1]) (.full [4,2,2,1])
+    (certificateEdges [4,2,2,1] [4,2,2,1] [5,4] (Equiv.refl (Fin 9)) sgB564 sgT564) sgFlag564 ≠ 0
+  rw [sgCert564]
+  norm_num
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes4
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 4. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg2391 : RowSquare [8,2,2,1] [3,3,2,2,1,1,1] := by
+  exact rowSquare_join (by decide) sg88 sg178
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes5
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 5. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg2807 : RowSquare [7,4,2,1] [3,3,3,3,2] := by
+  exact rowSquare_join (by decide) sg32 sg564
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes32
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 32. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg13736 : RowSquare [4,4,3,3,2,2,1,1,1,1,1,1,1,1,1] [6,6,5,5,3,1,1] := by
+  exact rowSquare_join (by decide) sg2391 sg2807
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes41
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 41. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg17314 : RowSquare [6,6,3,3,2,2,1,1,1,1,1,1,1,1,1] [7,7,6,6,3,1,1] := by
+  exact rowSquare_join (by decide) sg13 sg13736
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Semigroup_SemigroupNodes83
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Semigroup Nodes 83. -/
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg33884_oai : RowSquare [15,13,6,5,4,3,2,2,2,2,2,2,2,1,1] [11,11,9,9,6,4,3,2,2,1,1,1,1,1] := by
+  exact rowSquare_join (by decide) sg20506 sg17314
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.UniversalTensorSquare.sg33884_oai := @OAI.UniversalTensorSquare.sg33884_oai

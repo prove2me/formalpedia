@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArtinPrimitiveRoots.exists_cutoff_exists_mellin_thetaAverage_eq_tsum_localWhittaker
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-18T12:16:31.208956+00:00
 -- url     : https://prove2.me/submissions/ecf657f3-0116-4294-8cf7-5dc9ec1a3cb9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ArtinHecke
 import Definitions.Def_ArtinHeckeProbe

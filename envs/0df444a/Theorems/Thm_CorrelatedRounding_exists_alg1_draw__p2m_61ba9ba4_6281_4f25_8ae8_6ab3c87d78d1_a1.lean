@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedRounding_exists_alg1_draw__p2m_61ba9ba4_6281_4f25_8ae8_6ab3c87d78d1_a1
 -- name    : CorrelatedRounding.exists_alg1_draw__p2m_61ba9ba4_6281_4f25_8ae8_6ab3c87d78d1_a1
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-17T05:42:52.652068+00:00
 -- url     : https://prove2.me/theorems/f90d8032-6829-4b9d-b29c-ae0602a057ae

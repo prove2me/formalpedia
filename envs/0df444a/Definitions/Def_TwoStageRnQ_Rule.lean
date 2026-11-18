@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TwoStageRnQ_Rule
 -- name    : TwoStageRnQ_Rule
 -- status  : Definition
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:20:30.241669+00:00
 -- url     : https://prove2.me/theorems/797e6637-a086-43b7-a6ee-2a491e5061c9
 -- title:

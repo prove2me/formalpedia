@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_five_thirds_guarantee
 -- name    : TwoStageRnQ.five_thirds_guarantee
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:59.508108+00:00
 -- url     : https://prove2.me/theorems/7c725a01-74b3-4505-bc7f-d8b1e9139879
 -- title:

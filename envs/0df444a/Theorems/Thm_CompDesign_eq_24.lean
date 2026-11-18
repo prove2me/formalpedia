@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_eq_24
 -- name    : CompDesign.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:53:45.250997+00:00
 -- url     : https://prove2.me/theorems/96796701-8661-4d89-a741-2646ad4e493f

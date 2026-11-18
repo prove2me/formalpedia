@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_V0_le_Jjoint
 -- name    : TwoStageRnQ.V0_le_Jjoint
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:50.788231+00:00
 -- url     : https://prove2.me/theorems/5f8339f8-49de-4d65-a07e-9d91b873eaf6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_tsum_norm_sq_thetaSum_le
 -- name    : ArtinPrimitiveRoots.exists_cutoff_tsum_norm_sq_thetaSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T13:00:17.733052+00:00
 -- url     : https://prove2.me/theorems/bcd08bd8-7482-41cc-ac36-89df9800747c

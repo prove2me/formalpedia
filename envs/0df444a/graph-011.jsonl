@@ -68622,7 +68622,6 @@
 {"parent": "OAIQ63Br003", "child": "OAIQ63Br000", "via": ["statement"]}
 {"parent": "OAIQ63Br003", "child": "BalancedRyser", "via": ["statement"]}
 {"parent": "OAIQ63Br003", "child": "OAIQ63Br001", "via": ["statement"]}
-{"parent": "OAI.SimpleAmenable.polygon_full_low_homology_finite", "child": "OAIQ65Sa001", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_w1020_s1", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_maximal_edge_count_8a86a385", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.pairLightIndexedWitnessesCheckedBool_eq_prefix_drop", "child": "D1Bound5_PairLightClosure_Definitions", "via": ["solution", "statement"]}
@@ -86769,10 +86768,10 @@
 {"parent": "Sensitivity213981Formal_Contract_Endpoint22ReachChecks132", "child": "Sensitivity213981Formal_Endpoint22ReachChecks132", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Fock.physical_fourBody_total_haar_transfer", "child": "OAIQ047L002", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1262_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
-{"parent": "HHRControl.PV.theorem_4_20", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_20", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_20", "child": "HHRControl_PV_Elections", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_20", "child": "HHRControl_PV_Languages", "via": ["statement"]}
+{"parent": "HHRControl.PV.theorem_4_20", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_20", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_20", "child": "HHRControl_PV_Elections", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_20", "child": "HHRControl_PV_Languages", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.bound_transfer_1_4_7", "child": "Sensitivity213981Formal_NamespacesComplete", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.bound_transfer_1_4_7", "child": "Sensitivity213981Formal_Endpoint22NumericData", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.ThreeBoundMinmaxNumeric.Endpoint22.bound_transfer_1_4_7", "child": "Sensitivity213981Formal_RankFusedCoefficients", "via": ["solution", "statement"]}

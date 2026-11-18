@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourBlockIP350_Main_Supplement_two_point_majorization
 -- name    : FourBlockIP350.Main.Supplement.two_point_majorization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:07:59.002207+00:00
 -- url     : https://prove2.me/theorems/43503ba0-4595-4fbf-81ff-11586983fb48

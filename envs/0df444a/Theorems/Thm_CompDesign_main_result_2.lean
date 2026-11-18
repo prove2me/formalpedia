@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_main_result_2
 -- name    : CompDesign.main_result_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:59:50.79149+00:00
 -- url     : https://prove2.me/theorems/f6b35929-edfe-4a00-9446-878f11a2a6f2

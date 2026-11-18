@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_theorem_4_1
 -- name    : CompDesign.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:59:51.97329+00:00
 -- url     : https://prove2.me/theorems/526bfa4e-c30e-42ab-8253-8443370e1e37

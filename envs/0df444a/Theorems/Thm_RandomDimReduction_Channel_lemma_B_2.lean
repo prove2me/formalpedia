@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomDimReduction_Channel_lemma_B_2
 -- name    : RandomDimReduction.Channel.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:24:46.477213+00:00
 -- url     : https://prove2.me/theorems/80377b6a-3ed5-496e-87ea-afc7cb15b95a

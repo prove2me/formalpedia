@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_biclique_soundness
 -- name    : BirthdayEntropy.Soundness.biclique_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:51:38.981702+00:00
 -- url     : https://prove2.me/theorems/a61eeefc-068e-4add-bb61-ebc1cfc7b1e8

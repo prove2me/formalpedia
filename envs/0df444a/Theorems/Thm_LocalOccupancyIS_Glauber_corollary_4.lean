@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalOccupancyIS_Glauber_corollary_4
 -- name    : LocalOccupancyIS.Glauber.corollary_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:02:13.849549+00:00
 -- url     : https://prove2.me/theorems/8b134825-0b6e-47ff-a4a5-b4ec1fe66449

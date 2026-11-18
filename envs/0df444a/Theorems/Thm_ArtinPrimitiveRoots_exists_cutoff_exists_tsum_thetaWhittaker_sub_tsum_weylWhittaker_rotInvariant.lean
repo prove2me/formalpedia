@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_tsum_thetaWhittaker_sub_tsum_weylWhittaker_rotInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-18T12:12:51.146782+00:00
 -- url     : https://prove2.me/theorems/8b3180bd-123f-42a8-af68-45f42a2a3cf3

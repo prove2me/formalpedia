@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GinibrePermanent977_Anticoncentration_lemma_3_4_fourier_to_laplace
 -- name    : GinibrePermanent977.Anticoncentration.lemma_3_4_fourier_to_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:10:12.877788+00:00
 -- url     : https://prove2.me/theorems/4273d627-5676-4194-9dbc-c8aef8436b04

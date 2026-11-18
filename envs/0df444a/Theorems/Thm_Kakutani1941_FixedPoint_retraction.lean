@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kakutani1941_FixedPoint_retraction
 -- name    : Kakutani1941.FixedPoint.retraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:03:04.242085+00:00
 -- url     : https://prove2.me/theorems/34f22c17-20e7-4280-b97e-b9db37ae9a55

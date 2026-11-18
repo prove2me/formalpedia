@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_impossibility_strict_inf_rand
 -- name    : TwoStageRnQ.impossibility_strict_inf_rand
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:22:11.536642+00:00
 -- url     : https://prove2.me/theorems/8996945a-d578-4572-9ec3-2d95983175ca
 -- title:

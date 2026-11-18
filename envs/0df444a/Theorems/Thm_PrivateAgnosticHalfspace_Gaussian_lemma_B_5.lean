@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_lemma_B_5
 -- name    : PrivateAgnosticHalfspace.Gaussian.lemma_B_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:24:45.004785+00:00
 -- url     : https://prove2.me/theorems/37d565ec-6ab4-4497-968f-28cb25d49791

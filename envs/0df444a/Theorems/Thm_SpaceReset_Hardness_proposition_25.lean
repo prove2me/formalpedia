@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpaceReset_Hardness_proposition_25
 -- name    : SpaceReset.Hardness.proposition_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:21:14.944326+00:00
 -- url     : https://prove2.me/theorems/40d723b3-b914-42e2-8628-76780dbb6e38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_tsum_norm_sq_thetaSum_dyadic_le
 -- name    : ArtinPrimitiveRoots.exists_cutoff_tsum_norm_sq_thetaSum_dyadic_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T22:29:21.257894+00:00
 -- url     : https://prove2.me/theorems/74cd1058-f389-46aa-82aa-3849470c461a

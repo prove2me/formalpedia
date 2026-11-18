@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_8_5_common_basis
 -- name    : SemAC02.lemma_8_5_common_basis
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:29:14.765724+00:00
 -- url     : https://prove2.me/theorems/9b455fef-39b2-45d7-a191-2ddf43481c62

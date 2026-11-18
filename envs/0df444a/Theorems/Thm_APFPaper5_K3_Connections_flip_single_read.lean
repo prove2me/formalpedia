@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APFPaper5_K3_Connections_flip_single_read
 -- name    : APFPaper5.K3.Connections.flip_single_read
--- status  : Open
+-- status  : Proved
 -- author  : @FiniteUniverse
 -- created : 2026-11-17T05:55:50.769256+00:00
 -- url     : https://prove2.me/theorems/14e35872-505a-46e0-92c1-4ea6cc8675ac

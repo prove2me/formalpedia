@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SYKFastMix_FastMixing_eq_2_33
 -- name    : SYKFastMix.FastMixing.eq_2_33
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:08:13.247604+00:00
 -- url     : https://prove2.me/theorems/531a969d-955b-4cf3-b16e-b17da6666caf

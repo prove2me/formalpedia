@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_kappa_le
 -- name    : CompDesign.kappa_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:54:57.172605+00:00
 -- url     : https://prove2.me/theorems/a43bec42-55e7-4831-bcb6-ba875f0eedcf

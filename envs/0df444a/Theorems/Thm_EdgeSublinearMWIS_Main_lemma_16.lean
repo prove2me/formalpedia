@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeSublinearMWIS_Main_lemma_16
 -- name    : EdgeSublinearMWIS.Main.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:40:57.333215+00:00
 -- url     : https://prove2.me/theorems/bf5f156e-d0ae-41b6-abd5-f00506038a59

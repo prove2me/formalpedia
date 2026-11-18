@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_theorem_8_9_coin_formulas
 -- name    : SemAC02.theorem_8_9_coin_formulas
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:29:30.430557+00:00
 -- url     : https://prove2.me/theorems/b2f1aa96-938d-48df-8ed5-83892347d852

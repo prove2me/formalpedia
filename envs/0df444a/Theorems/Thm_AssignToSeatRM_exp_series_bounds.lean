@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignToSeatRM_exp_series_bounds
 -- name    : AssignToSeatRM.exp_series_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:25:24.238987+00:00
 -- url     : https://prove2.me/theorems/287832fc-0da6-4c4f-8b77-57ba6d478adf

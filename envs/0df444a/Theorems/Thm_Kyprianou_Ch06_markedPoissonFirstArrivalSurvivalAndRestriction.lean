@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch06_markedPoissonFirstArrivalSurvivalAndRestriction
 -- name    : Kyprianou.Ch06.markedPoissonFirstArrivalSurvivalAndRestriction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T07:36:11.898054+00:00
 -- url     : https://prove2.me/theorems/18484b47-48b4-49f7-a059-94c7cd2003b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallCountPOPBR_claim_2
 -- name    : CallCountPOPBR.claim_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T08:05:19.143246+00:00
 -- url     : https://prove2.me/theorems/aa5e3ab0-9620-4f2e-adac-9b0358660b94

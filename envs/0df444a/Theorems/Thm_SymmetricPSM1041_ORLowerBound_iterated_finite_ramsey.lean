@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricPSM1041_ORLowerBound_iterated_finite_ramsey
 -- name    : SymmetricPSM1041.ORLowerBound.iterated_finite_ramsey
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:56:14.244567+00:00
 -- url     : https://prove2.me/theorems/094ed746-8058-4faf-b6d5-e90178498ac4

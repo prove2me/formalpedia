@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistancePreserver934_Exact_lemma_16
 -- name    : DistancePreserver934.Exact.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:38:35.527866+00:00
 -- url     : https://prove2.me/theorems/d8fc886a-ed67-446a-aa4c-67586c9b00ab

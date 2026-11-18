@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.classical_attained
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:30:59.095133+00:00
 -- url     : https://prove2.me/submissions/37cb7830-edd8-4932-8bce-9e7875f0ce65
 

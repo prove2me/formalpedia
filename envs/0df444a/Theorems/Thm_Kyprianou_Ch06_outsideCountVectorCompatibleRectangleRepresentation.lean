@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch06_outsideCountVectorCompatibleRectangleRepresentation
 -- name    : Kyprianou.Ch06.outsideCountVectorCompatibleRectangleRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T05:49:58.670215+00:00
 -- url     : https://prove2.me/theorems/f7f2f16b-318a-43aa-b778-783fcfcea0ea

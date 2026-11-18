@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GinibrePermanent977_Anticoncentration_proposition_3_5_fourier_compression
 -- name    : GinibrePermanent977.Anticoncentration.proposition_3_5_fourier_compression
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:10:19.839962+00:00
 -- url     : https://prove2.me/theorems/c656a649-f58e-48e3-bdcc-effa0efbd2ed

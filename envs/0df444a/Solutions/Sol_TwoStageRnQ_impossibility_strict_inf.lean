@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.impossibility_strict_inf
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:19.626895+00:00
 -- url     : https://prove2.me/submissions/4ef5cd0d-4b01-49f4-9565-480186ded187
 

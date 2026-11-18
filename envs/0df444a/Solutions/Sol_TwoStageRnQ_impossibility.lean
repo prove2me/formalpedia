@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.impossibility
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:18.88063+00:00
 -- url     : https://prove2.me/submissions/5e689a8b-841b-496c-818b-557cfde7b392
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricPSM1041_ORLowerBound_or_and_superlinear_total_communication
 -- name    : SymmetricPSM1041.ORLowerBound.or_and_superlinear_total_communication
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:57:36.8356+00:00
 -- url     : https://prove2.me/theorems/8359e63c-ed05-493f-b59d-072b0c23c6f5

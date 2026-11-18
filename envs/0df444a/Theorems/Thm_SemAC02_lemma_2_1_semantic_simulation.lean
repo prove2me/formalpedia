@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_2_1_semantic_simulation
 -- name    : SemAC02.lemma_2_1_semantic_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:26:57.683282+00:00
 -- url     : https://prove2.me/theorems/66f41598-ceb5-436f-bffe-666112914f33

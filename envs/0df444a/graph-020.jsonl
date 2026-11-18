@@ -99170,7 +99170,6 @@
 {"parent": "QEC.Locality.bkSumPreservingRecurrence_eq_profile_add", "child": "QEC_Locality_ConnectivityTradeoff_RecursiveSeparator", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.bkSumPreservingRecurrence_eq_profile_add", "child": "QEC_Locality_ConnectivityTradeoff_SumPreservingRecurrence", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.bkSumPreservingRecurrence_eq_profile_add", "child": "QEC_Locality_ConnectivityTradeoff_MaxFamily", "via": ["solution", "statement"]}
-{"parent": "OAI.SharpPlanar.CachedData.kernel15_1_contains_e", "child": "OAIQ098E042", "via": ["statement"]}
 {"parent": "BianchiIX.exists_normalized_partialCore_downcrossing_two", "child": "BianchiIX_Algebra_Projective", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.exists_normalized_partialCore_downcrossing_two", "child": "BianchiIX_Algebra_CoreAngle", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.exists_normalized_partialCore_downcrossing_two", "child": "BianchiIX_Dynamics_Normalized", "via": ["solution", "statement"]}

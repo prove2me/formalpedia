@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_classical_attained
 -- name    : TwoStageRnQ.classical_attained
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:59.412093+00:00
 -- url     : https://prove2.me/theorems/00dee45e-a1e2-4d76-8378-d62d420a34f2
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseEncodedQGE_lemma_A_20
 -- name    : PhaseEncodedQGE.lemma_A_20
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:50:55.702932+00:00
 -- url     : https://prove2.me/theorems/eade2880-081e-41ce-9e93-2eeaa66b27c1

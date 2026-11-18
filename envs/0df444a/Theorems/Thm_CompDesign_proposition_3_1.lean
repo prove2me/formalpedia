@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_proposition_3_1
 -- name    : CompDesign.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:53:18.779492+00:00
 -- url     : https://prove2.me/theorems/82f06b39-59ba-4b58-9f0a-654091d16ee3

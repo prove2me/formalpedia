@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomDimReduction_Channel_theorem_5_3
 -- name    : RandomDimReduction.Channel.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:25:46.911428+00:00
 -- url     : https://prove2.me/theorems/3247f84c-909d-4ee3-a48e-9a0d8af756f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TentNoise_lemma_A_4
 -- name    : TentNoise.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:40:13.307493+00:00
 -- url     : https://prove2.me/theorems/c8de8bc4-d4dc-4356-9ebd-416f14100909

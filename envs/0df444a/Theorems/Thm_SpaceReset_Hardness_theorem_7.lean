@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpaceReset_Hardness_theorem_7
 -- name    : SpaceReset.Hardness.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:22:10.375285+00:00
 -- url     : https://prove2.me/theorems/7ac481bc-f4c9-4f33-b6b8-a0d4cd6267f0

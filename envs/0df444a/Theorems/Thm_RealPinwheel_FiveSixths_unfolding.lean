@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_unfolding
 -- name    : RealPinwheel.FiveSixths.unfolding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:35:54.924964+00:00
 -- url     : https://prove2.me/theorems/0827771f-19b1-433a-bdef-a8263fbe30ab

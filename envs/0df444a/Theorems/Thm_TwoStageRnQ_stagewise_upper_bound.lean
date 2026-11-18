@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_stagewise_upper_bound
 -- name    : TwoStageRnQ.stagewise_upper_bound
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:51.136752+00:00
 -- url     : https://prove2.me/theorems/2c4da559-e178-458c-86c5-d3637da55e35
 -- title:

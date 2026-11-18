@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KoanaKPaths_Main_one_sketching_step
 -- name    : KoanaKPaths.Main.one_sketching_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:37:03.246384+00:00
 -- url     : https://prove2.me/theorems/02d8a025-5b4a-451e-8df6-265c237b0ce2

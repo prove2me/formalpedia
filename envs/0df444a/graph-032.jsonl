@@ -32495,7 +32495,7 @@
 {"parent": "RPLib_S3_MatchingH", "child": "RPLib_S3_MatchingD", "via": ["statement"]}
 {"parent": "RPLib_S3_MatchingH", "child": "RPLib_S3_MatchingC", "via": ["statement"]}
 {"parent": "RPLib_S3_MatchingH", "child": "RPLib_S3_MatchingF", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg143", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg143", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "RPLib_S4_SwanGlobS", "child": "RPLib_S4_SwanGlobVal", "via": ["statement"]}
 {"parent": "RPLib_S3_EllW2P7b", "child": "RPLib_S3_EllW2K", "via": ["statement"]}
 {"parent": "RPLib_S3_EllW2P7b", "child": "RPLib_S3_EllW2P7", "via": ["statement"]}
@@ -32657,11 +32657,11 @@
 {"parent": "AvramDividend.Classical.avram_b24_original_intrinsic_compensated_smallmark_disjoint_stopped_mesh_integrable_uniform_total_variation", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution", "statement"]}
 {"parent": "TwoOptAllExp.TSP.Supplement.lemma_17", "child": "TwoOptAllExp_TSP_Supplement_GraphObjective", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.largeJumpProcessLevy", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.largeJumpProcessLevy", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
+{"parent": "Kyprianou.largeJumpProcessLevy", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.largeJumpProcessLevy", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.largeJumpProcessLevy", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.largeJumpProcessLevy", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.largeJumpProcessLevy", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["statement"]}
-{"parent": "Kyprianou.largeJumpProcessLevy", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.largeJumpProcessLevy", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.largeJumpProcessLevy", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_CyclicRawCorrectness", "child": "QMAPerfectCompleteness_Proof_CertificateRangeCircuit", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_CyclicRawCorrectness", "child": "QMAPerfectCompleteness_Proof_CertificatePostCorrectness", "via": ["statement"]}
@@ -33398,7 +33398,7 @@
 {"parent": "Kyprianou.poissonRandomMeasureExists", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
 {"parent": "Kyprianou.poissonRandomMeasureExists", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
 {"parent": "Kyprianou.poissonRandomMeasureExists", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.poissonRandomMeasureExists", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.poissonRandomMeasureExists", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.poissonRandomMeasureExists", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["statement"]}
 {"parent": "Kyprianou.poissonRandomMeasureExists", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
 {"parent": "Kyprianou.poissonRandomMeasureExists", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
@@ -33417,7 +33417,7 @@
 {"parent": "AvramDividend.Classical.avram_ga_a267_original_combined_fullcell_positive_aestrongly_measurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a267_original_combined_fullcell_positive_aestrongly_measurable", "child": "AvramDividend.Classical.avram_ga_a152_b0_original_fullcell_positive_residual_aestrongly_measurable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a267_original_combined_fullcell_positive_aestrongly_measurable", "child": "AvramDividend.Classical.avram_ga_a211_zerojump_fullcell_generator_cancel_to_combined_source", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg12932", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg12932", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a72_original_physical_negative_jump_total_exact_laplace_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a72_original_physical_negative_jump_total_exact_laplace_20261114", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
 {"parent": "StableVotingDistortion.Lemma9Reduction.releasedMassSlab03", "child": "StableVotingDistortion.Lemma9Reduction.rectWitnessSound", "via": ["statement"]}
@@ -33526,7 +33526,7 @@
 {"parent": "Kyprianou.Ch01.compoundDriver_toFoundations", "child": "levy_foundations_isCompoundPoissonDriver", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_topcap_original_physical_cash_zero_error_certificate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_topcap_original_physical_cash_zero_error_certificate", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg1683", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg1683", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb38_original_finitecap_C1_slope_candidate_affine_reserve_floor", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a107_original_physical_negative_jump_exponential_expectation_unit_bound_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "LinearHashingPoissonesque.ExpectedLoads.Supplement.poisson_tail_bounds", "child": "LinearHashingPoissonesque_ExpectedLoads_PoissonThresholds", "via": ["statement"]}
@@ -33588,7 +33588,7 @@
 {"parent": "RPLib_S4_TameInertiaLL", "child": "RPLib_S4_KummerUnrCore", "via": ["statement"]}
 {"parent": "RPLib_S4_TameInertiaLL", "child": "RPLib_S4_CurveCohCurve", "via": ["statement"]}
 {"parent": "RH.Transport.PhysicalAnalytic.hecke_beta_le_boundary", "child": "Transport_PhysicalAnalytic_HeckeBridge", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch01.exponentialAscendingLadderRenewal", "child": "QueueingFundamentals_MG1_transforms", "via": ["statement"]}
+{"parent": "Kyprianou.Ch01.exponentialAscendingLadderRenewal", "child": "QueueingFundamentals_MG1_transforms", "via": ["solution", "statement"]}
 {"parent": "A166944Research.a166944_travel_bound_from_45895573", "child": "a166944_moving_horizon", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a305_finite_rare_Gaussian_combined_positive_source_bound", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a305_finite_rare_Gaussian_combined_positive_source_bound", "child": "AvramDividend.Classical.avram_ga_a302_nonnegative_exponential_HJB_endpoint_upper_via_compact_start", "via": ["solution", "statement"]}
@@ -34549,8 +34549,8 @@
 {"parent": "QMAPerfectCompleteness_Proof_ClockCircuits", "child": "QMAPerfectCompleteness_Proof_ReversibleGadgets", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_ClockCircuits", "child": "QMAPerfectCompleteness_Proof_ControlCircuits", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabThirdCell09", "child": "row23_rh_supp_RHLowSlabThirdPilot", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_noncontact_cash", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_noncontact_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_noncontact_cash", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_noncontact_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB39_original_postpayment_gaussian_exact_level_occupation_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB39_original_postpayment_gaussian_exact_level_occupation_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB39_original_postpayment_gaussian_exact_level_occupation_zero", "child": "AvramDividend.Classical.avram_gbB141_original_gaussian_fixed_level_shrinking_band_occupation", "via": ["solution", "statement"]}
@@ -34859,7 +34859,7 @@
 {"parent": "QMAPerfectCompleteness_Proof_ThresholdLayout", "child": "QMAPerfectCompleteness_Proof_RegisterCopies", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_ThresholdLayout", "child": "QMAPerfectCompleteness_Proof_ThresholdPreparation", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabFourteenthCell03", "child": "row23_rh_supp_RHLowSlabFourteenthPilot", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23625", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23625", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "RemovingTrees.Main.Supplement.weak_splitting", "child": "RemovingTrees_Main_GraphModel", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.naturalSigma_eq_natFiltr", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.naturalSigma_eq_natFiltr", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["solution", "statement"]}
@@ -34918,8 +34918,8 @@
 {"parent": "UniversalNonstochastic_Main_Supplement_Deficiencies", "child": "UniversalNonstochastic_Main_Supplement_Complexities", "via": ["statement"]}
 {"parent": "UniversalNonstochastic_Main_Supplement_Deficiencies", "child": "UniversalNonstochastic_Main_Complexity", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_b24_true_marked_physical_weighted_contact_L1_vanish_from_count_dom", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_phys90b_zero_marks_compensator_drift_positive_quadrature_gap", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_phys90b_zero_marks_compensator_drift_positive_quadrature_gap", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_phys90b_zero_marks_compensator_drift_positive_quadrature_gap", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_phys90b_zero_marks_compensator_drift_positive_quadrature_gap", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a99_original_measurable_physical_marked_jump_measure_dirac_enumeration_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RPLib_S4_SwanGlobT", "child": "RPLib_S4_SwanLocQc", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.gammaLevyMeasure_isLevyMeasure", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
@@ -36247,7 +36247,7 @@
 {"parent": "AvramDividend.Classical.avram_gbB45_original_finitecap_rational_clip_favourable_localtime_coefficient", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB45_original_finitecap_rational_clip_favourable_localtime_coefficient", "child": "AvramDividend.Classical.avram_gbB42_original_finitecap_interior_kink_favourable_localtime", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB45_original_finitecap_rational_clip_favourable_localtime_coefficient", "child": "AvramDividend.Classical.avram_gbB41_original_finitecap_rational_clip_strict_interior", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg10", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg10", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou_Ch04_Exercise4_4Certification", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
 {"parent": "Kyprianou_Ch04_Exercise4_4Certification", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.smoothingError_negligible", "child": "InfoLossLAR_RegevSketch_DGS", "via": ["solution", "statement"]}
@@ -38194,8 +38194,8 @@
 {"parent": "AvramDividend.Classical.avram_b24_original_smallmark_physical_interval_increment_le_true_marked_Poisson_count_ae", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution", "statement"]}
 {"parent": "RPLib_S4_KummerUnr", "child": "RPLib_S4_KummerUnrCore", "via": ["statement"]}
 {"parent": "RPLib_S3_KernelSDE2", "child": "RPLib_S3_KernelSDE", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_phys90a_zero_marks_ruin_compensated_GK_cash_surplus", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_phys90a_zero_marks_ruin_compensated_GK_cash_surplus", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_phys90a_zero_marks_ruin_compensated_GK_cash_surplus", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_phys90a_zero_marks_ruin_compensated_GK_cash_surplus", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "RPLib_S4_SwanGlobAS2", "child": "RPLib_S4_SwanGlobAS1", "via": ["statement"]}
 {"parent": "RPLib_S4_SwanGlobAS2", "child": "RPLib_S4_ArtinSchreierField", "via": ["statement"]}
 {"parent": "RPLib_S4_SwanGlobAS2", "child": "RPLib_S4_SwanAS", "via": ["statement"]}
@@ -38647,7 +38647,7 @@
 {"parent": "AppliedSDE.SarkkaSolin.gaussian_esscher_three_increment_measure", "child": "AppliedSDE.SarkkaSolin.gaussian_esscher_tilt_measure", "via": ["solution", "statement"]}
 {"parent": "AppliedSDE.SarkkaSolin.brownian_constant_drift_centered_marginal", "child": "KLSModular_LevyStochCalc_Brownian_MathlibBridge", "via": ["solution", "statement"]}
 {"parent": "AppliedSDE.SarkkaSolin.brownian_constant_drift_centered_marginal", "child": "AppliedSDE.SarkkaSolin.brownian_constant_drift_shifted_marginal", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_a104_original_given_poisson_count_independent_physical_negative_mark_stream_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a104_original_given_poisson_count_independent_physical_negative_mark_stream_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb27_original_finitecap_closed_cap_discounted_drift_compensator_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "A166944Research.difference_records_unbounded", "child": "a166944_record_core", "via": ["solution", "statement"]}
 {"parent": "StableVotingDistortion.Lemma9Reduction.canonicalUpperBox1", "child": "StableVotingDistortion_Lemma9ReleasedData", "via": ["statement"]}
@@ -39742,8 +39742,8 @@
 {"parent": "QMAPerfectCompleteness_Proof_UnaryDispatch", "child": "QMAPerfectCompleteness_Proof_UnaryStackOps", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_UnaryDispatch", "child": "QMAPerfectCompleteness_Proof_PolyTimeComposition", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_UnaryDispatch", "child": "QMAPerfectCompleteness_Proof_RawCircuitEncoding", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_contact_cash", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_contact_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_contact_cash", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb25_original_zero_marks_ruin_at_horizon_contact_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b138_original_finite_band_marked_grid_card_le_true_allnegative_source_count", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b138_original_finite_band_marked_grid_card_le_true_allnegative_source_count", "child": "AvramDividend.Classical.avram_p2_e_compensator_original_negative_band_count_to_finset_card", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_b138_original_finite_band_marked_grid_card_le_true_allnegative_source_count", "child": "AvramDividend.Classical.avram_b95_original_monotone_grid_marked_cell_count_le_source_jumps", "via": ["solution", "statement"]}
@@ -39922,7 +39922,7 @@
 {"parent": "row23_rh_supp_RHLow100ThreeRebuilt_AcceptedCore004", "child": "row23_rh_supp_RHLow100ThetaReplacement", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLow100ThreeRebuilt_AcceptedCore004", "child": "TaoFivePrimes.rh14to100_moments_enclosed", "via": ["statement"]}
 {"parent": "InfoLossLAR_FirstBridgeBundle_06_Optimized", "child": "InfoLossLAR_RuntimeBundle_03", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a125_original_negative_Borel_void_deficit_between_first_factorial_moments_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a125_original_negative_Borel_void_deficit_between_first_factorial_moments_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.mg1UnboundedLimsup", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.mg1UnboundedLimsup", "child": "Kyprianou_Ch01_RiskQueueCore", "via": ["statement"]}
 {"parent": "RPLib_S3_DWSOFB", "child": "RPLib_S3_SSSuper", "via": ["statement"]}
@@ -40195,7 +40195,7 @@
 {"parent": "AvramDividend.Classical.avram_ga_a320_original_true_fullcell_signed_and_polynomial_rare_two_L1_package", "child": "AvramDividend.Classical.avram_ga_a312_original_true_fullcell_rare_polynomial_integrable", "via": ["solution", "statement"]}
 {"parent": "DiazModulus.dalag_lemma_12_8_linear", "child": "DiazModulus", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a59_allpath_raw_gaussian_patch_retains_independent_stationary_increments_20261114", "child": "AvramDividend.Classical.avram_a53_raw_f0_conull_regularisation_preserves_adaptedness_20261114", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg12931", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg12931", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "StreamTesting_Bipartiteness_Supplement_CycleDistinguishing", "child": "StreamTesting_Bipartiteness_Supplement_CyclePromise", "via": ["statement"]}
 {"parent": "StreamTesting_Bipartiteness_Supplement_CycleDistinguishing", "child": "StreamTesting_Bipartiteness_Supplement_FixedAcceptance", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_StackEmbedding", "child": "QMAPerfectCompleteness_Proof_Cyclic", "via": ["statement"]}
@@ -40601,7 +40601,7 @@
 {"parent": "QuantumLTF.Membership.centerPhase_tensor_diag", "child": "QuantumLTF_Membership_centerPhaseGate", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Membership.centerPhase_tensor_diag", "child": "QuantumLTF_Membership_tensorSingle", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLow100BernsteinBatch13", "child": "TaoFivePrimes_RH14To100BernsteinInterface", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg137", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg137", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MuonLastIterate110.Stochastic.Supplement.lemma_4_3", "child": "MuonLastIterate110_Stochastic_Supplement_FixedStep", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a402_original_inclusive_crossing_centred_fullcell_absolute_sum_ae_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a402_original_inclusive_crossing_centred_fullcell_absolute_sum_ae_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -46138,7 +46138,7 @@
 {"parent": "ManipPotential.Supplement.theorem_4_5", "child": "ManipPotential_Supplement_manipPotentialSCCAt", "via": ["statement"]}
 {"parent": "ManipPotential.Supplement.theorem_4_5", "child": "ManipPotential_Supplement_scoringRule", "via": ["statement"]}
 {"parent": "SampleCRS_AlmostGreedy_Supplement_prefixLimits", "child": "SampleCRS_AlmostGreedy_Supplement_sampleModel", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23712", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23712", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "NearLinearRSP_TwoResources_Supplement_Outer", "child": "NearLinearRSP_TwoResources_Supplement_Retrieval", "via": ["statement"]}
 {"parent": "GreedyRegionGrowing.Layouts.Supplement.lemma_B_1", "child": "GreedyRegionGrowing_Layouts_Foundation", "via": ["statement"]}
 {"parent": "BernoulliQPTAS_Scheduling_Supplement_Greedy", "child": "BernoulliQPTAS_Scheduling_Reduction", "via": ["statement"]}
@@ -46213,7 +46213,7 @@
 {"parent": "SortingCounterexamples.Optimal.Supplement.lemma_5_2", "child": "SortingCounterexamples_Optimal_Supplement_Geometric", "via": ["solution", "statement"]}
 {"parent": "SortingCounterexamples.Optimal.Supplement.lemma_5_2", "child": "SortingCounterexamples_Optimal_Protocol", "via": ["solution", "statement"]}
 {"parent": "TwoReLULayers.DepthCollapse.Supplement.cycle_boundary_iff_augmentation", "child": "TwoReLULayers_DepthCollapse_Supplement_Realization", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg165", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg165", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch06.stationaryIncrementsFromMarginalLaw", "child": "LeanLevy_Processes_StochasticProcess", "via": ["solution", "statement"]}
 {"parent": "PulseSyncLowerBound.Pulse.Supplement.theorem_10", "child": "PulseSyncLowerBound_Pulse_Tasks", "via": ["statement"]}
 {"parent": "TZLevelsADO.Supplement.theorem_3", "child": "TZLevelsADO_Supplement_RunsPSP", "via": ["statement"]}
@@ -46638,9 +46638,9 @@
 {"parent": "ElimAgree.Supplement.theorem_B_5", "child": "ElimAgree_Supplement_REIP", "via": ["statement"]}
 {"parent": "ElimAgree.Supplement.theorem_B_5", "child": "ElimAgree_Supplement_Models", "via": ["statement"]}
 {"parent": "APFPaper1_RecordLedger", "child": "APFPaper1_FamilyCost", "via": ["statement"]}
-{"parent": "CompDesign.Supplement.theorem_C_1", "child": "CompDesign_Supplement_IsPNEOf", "via": ["statement"]}
-{"parent": "CompDesign.Supplement.theorem_C_1", "child": "CompDesign_Supplement_targetedPay", "via": ["statement"]}
-{"parent": "CompDesign.Supplement.theorem_C_1", "child": "CompDesign_Supplement_IsCCEOf", "via": ["statement"]}
+{"parent": "CompDesign.Supplement.theorem_C_1", "child": "CompDesign_Supplement_IsPNEOf", "via": ["solution", "statement"]}
+{"parent": "CompDesign.Supplement.theorem_C_1", "child": "CompDesign_Supplement_targetedPay", "via": ["solution", "statement"]}
+{"parent": "CompDesign.Supplement.theorem_C_1", "child": "CompDesign_Supplement_IsCCEOf", "via": ["solution", "statement"]}
 {"parent": "GradedReserve_Supplement_IsTauAdmissibleAll", "child": "GradedReserve_Supplement_IsBNE", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_IsTauAdmissibleAll", "child": "GradedReserve_Supplement_gradedMech", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_IsTauAdmissibleAll", "child": "GradedReserve_Supplement_expRevenue", "via": ["statement"]}
@@ -47081,7 +47081,7 @@
 {"parent": "GPTIP632_Classical_Supplement_Triangular", "child": "GPTIP632_Classical_Supplement_BinaryComparison", "via": ["statement"]}
 {"parent": "GPTIP632_Classical_Supplement_Triangular", "child": "DetParamSVP_ComputableReal", "via": ["statement"]}
 {"parent": "GPTIP632_Classical_Supplement_Triangular", "child": "GPTIP632_Classical_Supplement_Classes", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2048", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2048", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "PauliMixedness_Randomized_Supplement_Adaptive", "child": "PauliMixedness_Randomized_Supplement_Measurements", "via": ["statement"]}
 {"parent": "ArbLindbladLearn.Supplement.theorem_3_8", "child": "ArbLindbladLearn_Supplement_heavySupportD", "via": ["statement"]}
 {"parent": "ArbLindbladLearn.Supplement.theorem_3_8", "child": "ArbLindbladLearn_Reach", "via": ["statement"]}
@@ -47345,7 +47345,7 @@
 {"parent": "OptQJunta.Supplement.theorem_5_3", "child": "OptQJunta_SamplerAlg", "via": ["statement"]}
 {"parent": "OptQJunta.Supplement.theorem_5_3", "child": "OptQJunta_Supplement_TestsJuntaU", "via": ["statement"]}
 {"parent": "OptQJunta.Supplement.theorem_5_3", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2056", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2056", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "LeeCutCertificates.Certificate.Supplement.tree_sparsifier_to_skeleton", "child": "LeeCutCertificates_Certificate_Supplement_Budgets", "via": ["statement"]}
 {"parent": "LeeCutCertificates.Certificate.Supplement.tree_sparsifier_to_skeleton", "child": "LeeCutCertificates_Certificate_Supplement_GraphAlgorithms", "via": ["statement"]}
 {"parent": "LeeCutCertificates.Certificate.Supplement.tree_sparsifier_to_skeleton", "child": "LeeCutCertificates_Certificate_Supplement_TerminalTrees", "via": ["statement"]}
@@ -47369,7 +47369,7 @@
 {"parent": "GeoQAC_Supplement_InExactClass", "child": "GeoQAC_Supplement_ComputesWithProb", "via": ["statement"]}
 {"parent": "GeoQAC_Supplement_InExactClass", "child": "GeoQAC_QACCircuit_Is2D", "via": ["statement"]}
 {"parent": "FeedbackSwitching_Supplement_appleTasting", "child": "FeedbackSwitching_FeedbackGraph", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg18748", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg18748", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "BLTCounting.AccuracySpace.Supplement.lemma_3_4", "child": "BLTCounting_AccuracySpace_Supplement_Lattice", "via": ["statement"]}
 {"parent": "APFPaper5.K1.book_singleton", "child": "APFPaper5.K1.atomTable_nonneg", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.book_singleton", "child": "APFPaper5_K1_cost_book_Vocabulary", "via": ["solution", "statement"]}
@@ -47486,7 +47486,7 @@
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.decoder_failure_to_joint_event", "child": "RegevJointHybrid", "via": ["statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_FTCStepQuadrature", "child": "liuyao_ca_fd889115_k1_Analysis_FTCRealCalculus", "via": ["statement"]}
 {"parent": "QuantumCycleColoring.FourColor.Supplement.lemma_B_2", "child": "QuantumCycleColoring_FourColor_MatrixAnalysis", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a25_original_negative_Borel_factorial_count_compensator_recurrence_20261115", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a25_original_negative_Borel_factorial_count_compensator_recurrence_20261115", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAIQ259US018", "child": "OAIQ259US001", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_obstruction_original_BV_nonpositive_grid_from_generator_sign", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_obstruction_original_BV_nonpositive_grid_from_generator_sign", "child": "AvramDividend.Classical.avram_bvb46_original_all_BV_residual_grid_B_equals_true_generator_G_ae", "via": ["solution", "statement"]}
@@ -47585,7 +47585,7 @@
 {"parent": "UPPIntersection.Halfspaces.Supplement.theorem_3_7", "child": "UPPIntersection_Halfspaces_Sphere", "via": ["statement"]}
 {"parent": "UPPIntersection.Halfspaces.Supplement.theorem_3_7", "child": "UPPIntersection_Halfspaces_Supplement_Defs", "via": ["statement"]}
 {"parent": "PathRecording_Supplement_matOracle", "child": "PathRecording_UnitaryRep", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg1202", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg1202", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "CubicProductLB.Supplement.theorem_50", "child": "CubicProductLB_Supplement_minCostP", "via": ["statement"]}
 {"parent": "CNFLearning873_Valiant_Supplement_GadgetB", "child": "CNFLearning873_Valiant_CNF", "via": ["statement"]}
 {"parent": "RandPurIso.Completion.Supplement.theorem_7_9", "child": "RandPurIso_Completion_OracleAlg", "via": ["statement"]}
@@ -47629,7 +47629,7 @@
 {"parent": "IterRoundDet_Supplement_BasisPoly", "child": "IterRoundDet_StablePoly", "via": ["statement"]}
 {"parent": "IterRoundDet_Supplement_BasisPoly", "child": "IterRoundDet_Oracles", "via": ["statement"]}
 {"parent": "IterRoundDet_Supplement_BasisPoly", "child": "IterRoundDet_Machine", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg13739", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg13739", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "PrettyGoodCriterion.Supplement.theorem_4", "child": "PrettyGoodCriterion_Supplement_oneCheckPSC", "via": ["statement"]}
 {"parent": "PrettyGoodCriterion.Supplement.theorem_4", "child": "HoneycombCodes_M2", "via": ["statement"]}
 {"parent": "PrettyGoodCriterion.Supplement.theorem_4", "child": "PrettyGoodCriterion_Supplement_ldpcRateFunction", "via": ["statement"]}
@@ -47723,7 +47723,7 @@
 {"parent": "EditApproxScheme_18", "child": "EditApproxScheme_17", "via": ["statement"]}
 {"parent": "AvramDividend_Classical_BVZeroContactUniversalClaimType0", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend_Classical_BVZeroContactUniversalClaimType0", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg12825", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg12825", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MaxMinFracSched_Supplement_driverInit", "child": "MaxMinFracSched_Supplement_DriverState", "via": ["statement"]}
 {"parent": "MaxMinFracSched_Supplement_driverInit", "child": "BlottoFPTAS_Main_RealRAM", "via": ["statement"]}
 {"parent": "RGMISFast.root_count_expectation_drift", "child": "RGMISFast_rankLaw", "via": ["solution", "statement"]}
@@ -47888,7 +47888,7 @@
 {"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["statement"]}
 {"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
 {"parent": "SingleCopyMoments.Adaptive.Supplement.fixed_rank_spectrum_estimation", "child": "SingleCopyMoments_Adaptive_Supplement_Spectra", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2057", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2057", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "SetDefinedGraphs_Supplement_PathClauseClass", "child": "SetDefinedGraphs_realisation", "via": ["statement"]}
 {"parent": "SetDefinedGraphs_Supplement_PathClauseClass", "child": "SetDefinedGraphs_Functional", "via": ["statement"]}
 {"parent": "SetDefinedGraphs_Supplement_PathClauseClass", "child": "FASTournament_Isomorphic", "via": ["statement"]}
@@ -48072,7 +48072,7 @@
 {"parent": "AutobidSPPE_Supplement_DtriT", "child": "AutobidSPPE_Supplement_LrT", "via": ["statement"]}
 {"parent": "AutobidSPPE_Supplement_DtriT", "child": "AutobidSPPE_Supplement_CtriT", "via": ["statement"]}
 {"parent": "PostedPriceLimits.FullRevelation.Supplement.proposition_4_7", "child": "PostedPriceLimits_FullRevelation_Supplement_Analysis", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg1637", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg1637", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "FourWayStream.ARHM.Supplement.residual_problem", "child": "FourWayStream_ARHM_Supplement_BlockXOR", "via": ["statement"]}
 {"parent": "FourWayStream.ARHM.Supplement.residual_problem", "child": "FourWayStream_ARHM_Supplement_NGC", "via": ["statement"]}
 {"parent": "IsRandomnessNecessaryADA_Plain_Supplement_SeedParameters", "child": "IsRandomnessNecessaryADA_Plain_Tables", "via": ["statement"]}
@@ -48437,7 +48437,7 @@
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreBDecOwner00", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreAState2", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreBDecOwner00", "child": "IntMul_Kappa_R8_Data_BitOppbankLab1", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreBDecOwner00", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABits", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg10625", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg10625", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a543_measurable_one_sided_three_component_residual", "child": "AvramDividend.Classical.avram_ga_a533_one_sided_three_source_integrability", "via": ["solution", "statement"]}
 {"parent": "ProdMixedTomo_Supplement_decodePure", "child": "ProdMixedTomo_Machine", "via": ["statement"]}
 {"parent": "ProdMixedTomo_Supplement_decodePure", "child": "ProdMixedTomo_States", "via": ["statement"]}
@@ -48604,8 +48604,8 @@
 {"parent": "PolynomialSampling137.OneThird.Supplement.lemma_9", "child": "PolynomialSampling137_OneThird_Supplement_FlatSources", "via": ["statement"]}
 {"parent": "WatsonPseudodeterminism.MASeparation.Supplement.psp_lower_bound", "child": "WatsonPseudodeterminism_MASeparation_Supplement_Models", "via": ["statement"]}
 {"parent": "WatsonPseudodeterminism.MASeparation.Supplement.psp_lower_bound", "child": "WatsonPseudodeterminism_MASeparation_Supplement_ZPPFunction", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.degreeTree58_0All", "child": "OAIQ259US010", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.degreeTree58_0All", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.degreeTree58_0All", "child": "OAIQ259US010", "via": ["solution", "statement"]}
+{"parent": "OAI.UniversalTensorSquare.degreeTree58_0All", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "QuantumFunctionalEstimation_Master_Supplement_Queries", "child": "QuantumFunctionalEstimation_Master_Supplement_Observables", "via": ["statement"]}
 {"parent": "QuantumFunctionalEstimation_Master_Supplement_Queries", "child": "WildeQIT_EntBreaking_IsQuantumChannel", "via": ["statement"]}
 {"parent": "AgnosticTNS_Supplement_wP", "child": "AgnosticTNS_Supplement_pathOrd", "via": ["statement"]}
@@ -48652,7 +48652,7 @@
 {"parent": "QiOPoQ_Supplement_IsQiOQuantumOn", "child": "QiOPoQ_encCirc", "via": ["statement"]}
 {"parent": "QiOPoQ_Supplement_IsQiOQuantumOn", "child": "QiOPoQ_UPPT", "via": ["statement"]}
 {"parent": "QiOPoQ_Supplement_IsQiOQuantumOn", "child": "QAdvFew_PoQOracle_Negligible", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg24017", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg24017", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "FiniteSampleDependence.Rigidity.Supplement.qmi_four_sample_unbiased", "child": "FiniteSampleDependence_Rigidity_Supplement_Model", "via": ["statement"]}
 {"parent": "FiniteSampleDependence.Rigidity.Supplement.qmi_four_sample_unbiased", "child": "FiniteSampleDependence_Rigidity_Model", "via": ["statement"]}
 {"parent": "RankCutFacility.Shifted.Supplement.zero_start_first_charge", "child": "RankCutFacility_Shifted_Supplement_Runs", "via": ["statement"]}
@@ -48820,7 +48820,7 @@
 {"parent": "GeomDRSub_Supplement_Q0", "child": "GeomDRSub_Supplement_rN", "via": ["statement"]}
 {"parent": "GeomDRSub_Supplement_Q0", "child": "GeomDRSub_Supplement_chiN", "via": ["statement"]}
 {"parent": "GL2QFT.Supplement.theorem_C_2", "child": "GL2QFT_Supplement_MackeyMult", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg12619", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg12619", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MaxCompForest_Supplement_partRisk", "child": "MaxCompForest_fnEnergy", "via": ["statement"]}
 {"parent": "MaxCompForest_Supplement_partRisk", "child": "EffResSparsify_ResistanceSketch_Graph", "via": ["statement"]}
 {"parent": "MaxCompForest_Supplement_partRisk", "child": "MaxCompForest_Supplement_blockRisk", "via": ["statement"]}
@@ -48979,7 +48979,7 @@
 {"parent": "LineVsPoint.Supplement.theorem_1_2", "child": "LineVsPoint_agr", "via": ["statement"]}
 {"parent": "GeoQAC_Supplement_gateCount", "child": "GeoQAC_QACCircuit", "via": ["statement"]}
 {"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_C_6", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Logic", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2050", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2050", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane.exists_tubeModel_of_unitaryXiFrame", "child": "FiniteEnergyPlane_TubeFamily", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane.exists_tubeModel_of_unitaryXiFrame", "child": "FiniteEnergyPlane_Winding", "via": ["solution", "statement"]}
 {"parent": "AuditAdapt_Supplement_span", "child": "AuditAdapt_stateLaw", "via": ["statement"]}
@@ -49106,7 +49106,7 @@
 {"parent": "liuyao_ca_fd889115_k1_Analysis_Series", "child": "liuyao_ca_fd889115_k1_Analysis_PowerSeries", "via": ["statement"]}
 {"parent": "SampleCRS.AlmostGreedy.Supplement.theorem_5_1", "child": "SampleCRS_AlmostGreedy_Supplement_sampleModel", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bva_finset_step_no_new_mark_equal", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23834", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23834", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_C_37_pos_moments", "child": "IAFTRL_Bc", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_C_37_pos_moments", "child": "IAFTRL_C37_scalar", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_C_37_pos_moments", "child": "IAFTRL_beta", "via": ["solution", "statement"]}
@@ -49256,7 +49256,7 @@
 {"parent": "APFB07b.B07_realized_constant_of_finite_explicit", "child": "APF_B07a_DeclaredInput", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_obstruction_tenth_strict_payment_window_contains_eight_hundredths", "child": "AvramDividend.Classical.avram_bvb_obstruction_tenth_horizon_strict_prefix_contains_eight_hundredths", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_obstruction_tenth_strict_payment_window_contains_eight_hundredths", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23719", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23719", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MLAMaxDelay.RandomizedTimer.Supplement.single_node_optimum", "child": "MLAMaxDelay_RandomizedTimer_Supplement_LowerBound", "via": ["statement"]}
 {"parent": "WeakStrongMSR.Supplement.theorem_4_5", "child": "WeakStrongMSR_Model", "via": ["statement"]}
 {"parent": "WeakStrongMSR.Supplement.theorem_4_5", "child": "WeakStrongMSR_Supplement_QueryAlg", "via": ["statement"]}
@@ -49327,9 +49327,9 @@
 {"parent": "PolyhedralPacking1261.Packing.Supplement.theorem_2", "child": "PolyhedralPacking1261_Packing_Supplement_Kakeya", "via": ["statement"]}
 {"parent": "BourgainUnion.Euclidean.Supplement.theorem_4_2", "child": "BourgainUnion_Euclidean_GraphModel", "via": ["statement"]}
 {"parent": "BourgainUnion.Euclidean.Supplement.theorem_4_2", "child": "BourgainUnion_Euclidean_Supplement_SparsifierModel", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index", "child": "AvramDividend.Classical.chat03_actual_ceiling_capped_grid_clipped_hitting_congr", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index", "child": "AvramDividend.Classical.avram_ws01b_bv_killed_scale_grid_optional_stopping", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index", "child": "AvramDividend.Classical.chat03_clipped_grid_clock_bounded", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index", "child": "AvramDividend.Classical.chat03_actual_ceiling_capped_grid_clipped_hitting_congr", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index", "child": "AvramDividend.Classical.avram_ws01b_bv_killed_scale_grid_optional_stopping", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index", "child": "AvramDividend.Classical.chat03_clipped_grid_clock_bounded", "via": ["solution", "statement"]}
 {"parent": "ARTreeCover_Supplement_IsBalancedSep", "child": "ARTreeCover_WGraph", "via": ["statement"]}
 {"parent": "TZLevelsADO_Supplement_RunsPSP", "child": "RealAPSP_Machine", "via": ["statement"]}
 {"parent": "TZLevelsADO_Supplement_RunsPSP", "child": "TZLevelsADO_IsADO", "via": ["statement"]}
@@ -50274,7 +50274,7 @@
 {"parent": "Kyprianou.ch02PoissonIntegralSecondMoment", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["statement"]}
 {"parent": "Kyprianou.ch02PoissonIntegralSecondMoment", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "Kyprianou.ch02PoissonIntegralSecondMoment", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23703", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23703", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg18746", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "FiniteGroupTesting.LinearQuery.Supplement.lemma_6_3", "child": "FiniteGroupTesting_LinearQuery_Supplement_TranscriptModel", "via": ["statement"]}
 {"parent": "CtxSearchTSR_Supplement_Algorithm3", "child": "CtxSearchTSR_Supplement_BilateralTrade", "via": ["statement"]}
@@ -50480,7 +50480,7 @@
 {"parent": "Kyprianou.exercise2_2_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "Kyprianou.exercise2_2_AllPartsCh02V3", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
 {"parent": "Kyprianou.exercise2_2_AllPartsCh02V3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg20053", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg20053", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MSTCuts2027.Parallel.Supplement.second_mincut_type2", "child": "MSTCuts2027_Parallel_CutModel", "via": ["statement"]}
 {"parent": "MSTCuts2027.Parallel.Supplement.second_mincut_type2", "child": "FlowsNetworks_MultiTerminal_SpanningSubtree", "via": ["statement"]}
 {"parent": "MSTCuts2027.Parallel.Supplement.second_mincut_type2", "child": "MSTCuts2027_Parallel_Supplement_SecondCutModel", "via": ["statement"]}
@@ -50819,7 +50819,7 @@
 {"parent": "RSSubspaceDesign.Supplement.theorem_6_1", "child": "RSSubspaceDesign_decK", "via": ["statement"]}
 {"parent": "RSSubspaceDesign.Supplement.theorem_6_1", "child": "RSListDecodingCapacity_AllRates_Encoding", "via": ["statement"]}
 {"parent": "RSSubspaceDesign.Supplement.theorem_6_1", "child": "RSSubspaceDesign_encField", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg13708", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg13708", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "LRTempElim.Supplement.theorem_B_22", "child": "LRTempElim_Supplement_Norms", "via": ["statement"]}
 {"parent": "LRTempElim.Supplement.theorem_B_22", "child": "LRTempElim_Supplement_GeometricPath", "via": ["statement"]}
 {"parent": "HalfIndMatch_Supplement_IsOptimizer", "child": "HalfIndMatch_Supplement_roundM", "via": ["statement"]}
@@ -51286,7 +51286,7 @@
 {"parent": "MetricSelfDualCompletion_Completion_Supplement_Metrics", "child": "MetricSelfDualCompletion_Completion_Encoding", "via": ["statement"]}
 {"parent": "MetricSelfDualCompletion_Completion_Supplement_Metrics", "child": "MetricSelfDualCompletion_Completion_Codes", "via": ["statement"]}
 {"parent": "MTWalkSAT3CNF.TwoOcc.Supplement.proposition_6_9", "child": "MTWalkSAT3CNF_TwoOcc_Supplement_Expander", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23822", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23822", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "HindsightGain.Uniform.Supplement.theorem_11", "child": "HindsightGain_Uniform_Supplement_graphs", "via": ["statement"]}
 {"parent": "AgnosticTNS.Supplement.theorem_4_8", "child": "AgnosticTNS_CopyLearner_code", "via": ["statement"]}
 {"parent": "AgnosticTNS.Supplement.theorem_4_8", "child": "AgnosticTNS_rr", "via": ["statement"]}
@@ -51337,10 +51337,10 @@
 {"parent": "OnlinePerceptronIsolation.Binary.Supplement.theorem_3_2", "child": "OnlinePerceptronIsolation_Binary_Supplement_RandomSuccessK", "via": ["statement"]}
 {"parent": "OnlinePerceptronIsolation.Binary.Supplement.theorem_3_2", "child": "OnlinePerceptronIsolation_Binary_Supplement_WellSeparated", "via": ["statement"]}
 {"parent": "HypercliqueCircuits_Circuits_Supplement_Encoding", "child": "HypercliqueCircuits_Circuits_Machine", "via": ["statement"]}
-{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["statement"]}
-{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.ch02PoissonDisjointRegionSigmaIndep", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "RandomOracleUnitarySynthesis.Supplement.theorem_6_1", "child": "RandomOracleUnitarySynthesis_Supplement_ensembles", "via": ["statement"]}
 {"parent": "ConantTerry.Orders.Supplement.theorem_A_4", "child": "ConantTerry_Orders_function_tree", "via": ["statement"]}
 {"parent": "ConantTerry.Orders.Supplement.theorem_A_4", "child": "ConantTerry_Orders_ladder", "via": ["statement"]}
@@ -51934,11 +51934,11 @@
 {"parent": "SeededShannon_Supplement_SparseSetObf", "child": "SeededShannon_EvObf", "via": ["statement"]}
 {"parent": "SeededShannon_Supplement_SparseSetObf", "child": "SeededShannon_balP", "via": ["statement"]}
 {"parent": "SeededShannon_Supplement_SparseSetObf", "child": "SeededShannon_setFamily", "via": ["statement"]}
-{"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "SemAC02_Supplement_ACirc", "via": ["statement"]}
+{"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "SemAC02_Supplement_ACirc", "via": ["solution", "statement"]}
 {"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "LiftSAParity_CNF", "via": ["statement"]}
-{"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "SemAC02_Supplement_IsSemPCRef", "via": ["statement"]}
+{"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "SemAC02_Supplement_IsSemPCRef", "via": ["solution", "statement"]}
 {"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "SemAC02_Supplement_clauseAx", "via": ["statement"]}
-{"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "SemAC02_Supplement_ResPC", "via": ["statement"]}
+{"parent": "SemAC02.Supplement.theorem_2_4_res_pc_simulation", "child": "SemAC02_Supplement_ResPC", "via": ["solution", "statement"]}
 {"parent": "ImplicitParityWL.Supplement.theorem_9_2", "child": "ImplicitParityWL_Supplement_Complexity", "via": ["statement"]}
 {"parent": "ImplicitParityWL.Supplement.theorem_9_2", "child": "VariableWL", "via": ["statement"]}
 {"parent": "PolyEulerFlow.Supplement.theorem_8", "child": "PolyEulerFlow_Supplement_ScaleSystem", "via": ["statement"]}
@@ -52014,7 +52014,7 @@
 {"parent": "AnonymousDirectedCounting.Exact.Supplement.two_small_orders", "child": "AnonymousDirectedCounting_Exact_Supplement_Vistas", "via": ["statement"]}
 {"parent": "QuantumLTF_Example_HermiteModel", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
 {"parent": "QuantumLTF_Example_HermiteModel", "child": "QuantumLTF_Example_qex", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg19618", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg19618", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "QuantumSepPoly_Frobenius_Supplement_Parameters", "child": "QuantumSepPoly_Frobenius_Supplement_CNF", "via": ["statement"]}
 {"parent": "Kyprianou_Ch06_certificate_exercise_6_5", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["statement"]}
 {"parent": "Kyprianou_Ch06_certificate_exercise_6_5", "child": "Kyprianou_Ch06_AdmissibleLocalTime", "via": ["statement"]}
@@ -52115,7 +52115,7 @@
 {"parent": "TangleStructTree_Supplement_IsFTree", "child": "TangleStructTree_SepTree_IsTST", "via": ["statement"]}
 {"parent": "GPTIP632.Classical.Supplement.claim_F_3_2", "child": "GPTIP632_Classical_Supplement_Claims", "via": ["statement"]}
 {"parent": "DelayedGamesMAO_Supplement_IsBoldRun", "child": "DelayedGamesMAO_Supplement_boldRounds", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg14576", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg14576", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "PolyhedralPacking1261.Packing.Supplement.lemma_15", "child": "PolyhedralPacking1261_Packing_Supplement_Containers", "via": ["statement"]}
 {"parent": "PreprocOWS.Supplement.theorem_10_1", "child": "PreprocOWS_Alg", "via": ["statement"]}
 {"parent": "PreprocOWS.Supplement.theorem_10_1", "child": "PreprocOWS_Oracle", "via": ["statement"]}
@@ -52321,7 +52321,7 @@
 {"parent": "ParallelHAC_Supplement_wardPromiseMerge", "child": "ParallelHAC_HACRun", "via": ["statement"]}
 {"parent": "ParallelHAC_Supplement_wardPromiseMerge", "child": "ArrighiStarFree_HalfLevel_SpaceMachine", "via": ["statement"]}
 {"parent": "ParallelHAC_Supplement_wardPromiseMerge", "child": "ParallelHAC_Supplement_wardLinkage", "via": ["statement"]}
-{"parent": "Kyprianou.ch02PoissonIntegralFirstMoment", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["statement"]}
+{"parent": "Kyprianou.ch02PoissonIntegralFirstMoment", "child": "LeanLevy_RandomMeasure_PoissonRandomMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.ch02PoissonIntegralFirstMoment", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "Kyprianou.ch02PoissonIntegralFirstMoment", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["statement"]}
 {"parent": "GroupLabeledMatroid.Proximity.Supplement.rank_sum_label_count", "child": "GroupLabeledMatroid_Proximity_LabelModel", "via": ["statement"]}
@@ -52681,7 +52681,7 @@
 {"parent": "FermiHubbardMix.Supplement.theorem_7_3", "child": "FermiHubbardMix_w1", "via": ["statement"]}
 {"parent": "OddPermSum.Evaluation.Supplement.lemma_6_3", "child": "OddPermSum_Evaluation_Supplement_ringAlgorithmInterfaces", "via": ["statement"]}
 {"parent": "HamSimTradeoff_AncillaDepth_Supplement_LCU", "child": "HamSimTradeoff_AncillaDepth_Architecture", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2063", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2063", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.exercise33SubmultiplicativeExamples", "child": "Kyprianou_Ch03_IsSubmultiplicative", "via": ["statement"]}
 {"parent": "OAIQ259US015", "child": "OAIQ259US001", "via": ["statement"]}
 {"parent": "MomentAmbiguitySecretary.Secretary.Supplement.binary_separator", "child": "MomentAmbiguitySecretary_Secretary_Supplement_Binary", "via": ["statement"]}
@@ -52927,7 +52927,7 @@
 {"parent": "ManipPotential.Supplement.theorem_4_11", "child": "ManipPotential_Supplement_manipPotentialSCCAt", "via": ["statement"]}
 {"parent": "ManipPotential.Supplement.theorem_4_11", "child": "ManipPotential_Supplement_IsKASPAtSCC", "via": ["statement"]}
 {"parent": "ManipPotential.Supplement.theorem_4_11", "child": "ManipPotential_Supplement_maximin", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg24032", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg24032", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MatchingNearLinear.Glauber.Supplement.exact_interval_representation", "child": "MatchingNearLinear_Glauber_Supplement_Peeling", "via": ["statement"]}
 {"parent": "EditApproxScheme_17", "child": "EditApproxScheme_16", "via": ["statement"]}
 {"parent": "ReLUBinaryDepth_ProductTradeoff_Supplement_Dyadic", "child": "ReLUBinaryDepth_ProductTradeoff_Network", "via": ["statement"]}
@@ -53131,7 +53131,7 @@
 {"parent": "FourWayStream.ARHM.Supplement.quantitative_simultaneous_bound", "child": "FourWayStream_ARHM_Information", "via": ["statement"]}
 {"parent": "FourWayStream.ARHM.Supplement.quantitative_simultaneous_bound", "child": "FourWayStream_ARHM_Stream", "via": ["statement"]}
 {"parent": "FourWayStream.ARHM.Supplement.quantitative_simultaneous_bound", "child": "FourWayStream_ARHM_Protocols", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2051", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2051", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "BeyondConvexity.APTAS.Supplement.theorem_2", "child": "BeyondConvexity_APTAS_Supplement_UniformRasterizable", "via": ["statement"]}
 {"parent": "BeyondConvexity.APTAS.Supplement.theorem_2", "child": "BeyondConvexity_APTAS_Supplement_UniformRepresentativeRoundable", "via": ["statement"]}
 {"parent": "BeyondConvexity.APTAS.Supplement.theorem_2", "child": "BeyondConvexity_APTAS_Supplement_APTASScheme", "via": ["statement"]}
@@ -53158,11 +53158,11 @@
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidALowsP02", "child": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidALowsIxData", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidALowsP02", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0LowsData", "via": ["statement"]}
 {"parent": "SparseIncidenceHom.WidthComparison.Supplement.lemma_6_4", "child": "SparseIncidenceHom_WidthComparison_Supplement_Widths", "via": ["statement"]}
-{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Supplement_scaledPay", "via": ["statement"]}
-{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Amc", "via": ["statement"]}
-{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Supplement_IsBetaSelfBounding", "via": ["statement"]}
-{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_IsPriority", "via": ["statement"]}
-{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Supplement_IsPNEOf", "via": ["statement"]}
+{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Supplement_scaledPay", "via": ["solution", "statement"]}
+{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Amc", "via": ["solution", "statement"]}
+{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Supplement_IsBetaSelfBounding", "via": ["solution", "statement"]}
+{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_IsPriority", "via": ["solution", "statement"]}
+{"parent": "CompDesignBFM.Supplement.theorem_C_1", "child": "CompDesignBFM_Supplement_IsPNEOf", "via": ["solution", "statement"]}
 {"parent": "SYKEdge_Supplement_QSG", "child": "QPSpinProfile_PauliString", "via": ["statement"]}
 {"parent": "QTolTest1673.Unified.Supplement.lemma_4_1", "child": "QTolTest1673_Unified_Supplement_Partitions", "via": ["statement"]}
 {"parent": "MatrixQuantumSampler595.Correspondence.Supplement.strong_matrix_sampling", "child": "MatrixQuantumSampler595_Correspondence_Supplement_UniformConstruction", "via": ["statement"]}
@@ -53189,7 +53189,7 @@
 {"parent": "ContractionLemma.Supplement.theorem_2_3_meta_theorem", "child": "ContractionLemma_Supplement_Common", "via": ["statement"]}
 {"parent": "ContractionLemma.Supplement.theorem_2_3_meta_theorem", "child": "SubexponentialSAT", "via": ["statement"]}
 {"parent": "ContractionLemma.Supplement.theorem_2_3_meta_theorem", "child": "ContractionLemma_RunsWithin", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg27580", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg27580", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankArgDimLeA8", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankArgDimLeA8", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_EulerSeriesFinite", "child": "liuyao_ca_fd889115_k1_Analysis_EulerFinite", "via": ["statement"]}
@@ -53671,7 +53671,7 @@
 {"parent": "Kyprianou.Ch06.realLevyComponentsToPublished", "child": "Kyprianou.Ch06.levyProcessOfWeakGridIndependence", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch06.realLevyComponentsToPublished", "child": "Kyprianou.Ch06.probabilityFromIncrementCylinderLaw", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch06.realLevyComponentsToPublished", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg24039", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg24039", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "GreedyRegionGrowing.Layouts.Supplement.theorem_6_1", "child": "GreedyRegionGrowing_Layouts_Foundation", "via": ["statement"]}
 {"parent": "ExplicitTensorBarrier694_Explicit_Supplement_Flattening", "child": "ExplicitTensorBarrier694_Explicit_Tensors", "via": ["statement"]}
 {"parent": "QThermalClassical.Supplement.theorem_35_long_range_trace", "child": "QThermalClassical_gibbs", "via": ["statement"]}
@@ -54391,7 +54391,7 @@
 {"parent": "QuantumLTF.Membership.localizedAffineBisect_uniform_accuracy", "child": "QuantumLTF.Membership.localizedAffineBisect_error", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Membership.localizedAffineBisect_uniform_accuracy", "child": "QuantumLTF.Membership.local_bisection_parameters", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Membership.localizedAffineBisect_uniform_accuracy", "child": "QuantumLTF_Membership_gridVec", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg10250", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg10250", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "EntropyLocalCoord.Leader.Supplement.lemma_5_1", "child": "EntropyLocalCoord_Leader_Supplement_Majority", "via": ["statement"]}
 {"parent": "EntropyLocalCoord.Leader.Supplement.lemma_5_1", "child": "EntropyLocalCoord_Leader_Information", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_obstruction_unit_drift_zero_barrier_nojump_survives_tenth", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -54610,7 +54610,7 @@
 {"parent": "AMRangeAvoid.Characterization.Supplement.theorem_3_10", "child": "AMRangeAvoid_Characterization_Supplement_Oracle", "via": ["statement"]}
 {"parent": "AMRangeAvoid.Characterization.Supplement.theorem_3_10", "child": "AMRangeAvoid_Characterization_SSLB", "via": ["statement"]}
 {"parent": "MeanCertificates1424.Hardness.Supplement.lemma_4_2", "child": "MeanCertificates1424_Hardness_Supplement_General", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg10253", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg10253", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidADataD", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreBData1", "via": ["statement"]}
 {"parent": "ParityBarrier563_Trilinear_Supplement_Layering", "child": "ParityBarrier563_Trilinear_Supplement_FiniteAverages", "via": ["statement"]}
 {"parent": "ParityBarrier563_Trilinear_Supplement_Layering", "child": "ParityBarrier563_Trilinear_Circuit", "via": ["statement"]}
@@ -54938,7 +54938,7 @@
 {"parent": "HouseAllocLT.LowerBound.Supplement.lemma_4_3", "child": "HouseAllocLT_LowerBound_Supplement_RPG", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.levyProcess_neg_of_continuous", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg23739", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg19576", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg19576", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "HindsightGain.Uniform.Supplement.lemma_5_1", "child": "HindsightGain_Uniform_Supplement_csp", "via": ["statement"]}
 {"parent": "HamSimTradeoff.AncillaDepth.Supplement.theorem_5_1", "child": "HamSimTradeoff_AncillaDepth_Supplement_LCU", "via": ["statement"]}
 {"parent": "SubmodMDP_Policies_Supplement_Pipeline", "child": "SubmodMDP_Policies_Supplement_Reduction", "via": ["statement"]}
@@ -55000,7 +55000,7 @@
 {"parent": "LotteryInterm.IID.Supplement.theorem_4_4", "child": "LotteryInterm_IID_Supplement_StrongRegularity", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB54cp_original_stopped_real_time_generator_drift_upperstrip_ae", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB54cp_original_stopped_real_time_generator_drift_upperstrip_ae", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2058", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2058", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou_Ch06_certificate_result_6_17", "child": "Kyprianou_Ch06_VectorLevyProcess", "via": ["statement"]}
 {"parent": "Kyprianou_Ch06_certificate_result_6_17", "child": "Kyprianou_Ch06_TimePositionCharFun", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0SlotsC3", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0SlotsData", "via": ["statement"]}
@@ -55421,7 +55421,7 @@
 {"parent": "TightClock_Supplement_learnedPrices", "child": "TightClock_Supplement_revealSet", "via": ["statement"]}
 {"parent": "WatsonPseudodeterminism_MASeparation_Supplement_Classes", "child": "WatsonPseudodeterminism_MASeparation_Supplement_Models", "via": ["statement"]}
 {"parent": "WatsonPseudodeterminism_MASeparation_Supplement_Classes", "child": "WatsonPseudodeterminism_MASeparation_Families", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg10276", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg10276", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_AlgebraicFunctions", "child": "liuyao_ca_fd889115_k1_Analysis_Polynomial", "via": ["statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_AlgebraicFunctions", "child": "liuyao_ca_fd889115_k1_Analysis_ComplexInterval", "via": ["statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_AlgebraicFunctions", "child": "liuyao_ca_fd889115_k1_Analysis_FTC", "via": ["statement"]}
@@ -55437,7 +55437,7 @@
 {"parent": "AutoQMem.Lindblad.Supplement.theorem_8", "child": "AutoQMem_Lindblad_Supplement_SyndromeChannel", "via": ["statement"]}
 {"parent": "AutoQMem.Lindblad.Supplement.theorem_8", "child": "AutoQMem_Lindblad_flipProb", "via": ["statement"]}
 {"parent": "GuanQinQDP.Restricted.Supplement.measure_prepare_sandwich", "child": "GuanQinQDP_Restricted_Supplement_Model", "via": ["statement"]}
-{"parent": "APSCounting893.Main.Supplement.homogeneous_puiseux_iff", "child": "APSCounting893_Main_Resultant", "via": ["statement"]}
+{"parent": "APSCounting893.Main.Supplement.homogeneous_puiseux_iff", "child": "APSCounting893_Main_Resultant", "via": ["solution", "statement"]}
 {"parent": "GreedyRegionGrowing_Layouts_Supplement_Directed", "child": "GreedyRegionGrowing_Layouts_Foundation", "via": ["statement"]}
 {"parent": "FiniteGroupTesting_LinearQuery_Supplement_UpperTester", "child": "FiniteGroupTesting_LinearQuery_Tester", "via": ["statement"]}
 {"parent": "FiniteGroupTesting_LinearQuery_Supplement_UpperTester", "child": "FiniteGroupTesting_LinearQuery_Supplement_Candidates", "via": ["statement"]}
@@ -55686,7 +55686,7 @@
 {"parent": "GuardedSSSP_Supplement_seededDist", "child": "GuardedSSSP_dist", "via": ["statement"]}
 {"parent": "GreedyRegionGrowing.Layouts.Supplement.lemma_5_7", "child": "GreedyRegionGrowing_Layouts_Foundation", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_allocAgainst", "child": "GradedReserve_Supplement_Mechanism", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2049", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2049", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "EliasGlobalClock_LowerBound_Supplement_algorithmOne", "child": "EliasGlobalClock_LowerBound_latencyModel", "via": ["statement"]}
 {"parent": "EliasGlobalClock_LowerBound_Supplement_algorithmOne", "child": "EliasGlobalClock_LowerBound_Supplement_codes", "via": ["statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.densSup_land_mono_of_argRel_of_dim_R1", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["solution", "statement"]}
@@ -56358,12 +56358,12 @@
 {"parent": "QMatVecLB.ConvexOpt.Supplement.lemma_4_3", "child": "QMatVecLB_ConvexOpt_Supplement_Witness", "via": ["statement"]}
 {"parent": "QuantumSepPoly_Frobenius_Supplement_CNF", "child": "LiftSAParity_CNF", "via": ["statement"]}
 {"parent": "QuantumSepPoly_Frobenius_Supplement_CNF", "child": "QuantumSepPoly_Frobenius_RealRAM", "via": ["statement"]}
-{"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
+{"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["statement"]}
 {"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
 {"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "Kyprianou_Ch02_CompletedPoissonFiltration", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
 {"parent": "Kyprianou.compensatedBandIsL2MartingaleCorrected", "child": "KLSModular_LevyStochCalc_Brownian_Construction", "via": ["statement"]}
 {"parent": "ReplicableDecisions.Supplement.theorem_6_10", "child": "ReplicableDecisions_hopSeparation", "via": ["statement"]}
@@ -56406,7 +56406,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg180", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_FTC", "child": "liuyao_ca_fd889115_k1_Analysis_Differential", "via": ["statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_FTC", "child": "liuyao_ca_fd889115_k1_Analysis_Basic", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23825", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23825", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "LowRandomnessDP.KNorm.Supplement.lemma_3_4", "child": "LowRandomnessDP_KNorm_Supplement_Rounding", "via": ["solution", "statement"]}
 {"parent": "STCSublinear1377_Main_Supplement_Quota", "child": "STCSublinear1377_Main_Supplement_Terminal", "via": ["statement"]}
 {"parent": "AMRangeAvoid.Characterization.Supplement.theorem_4_6", "child": "AMRangeAvoid_Characterization_Supplement_Lattices", "via": ["statement"]}
@@ -56664,7 +56664,7 @@
 {"parent": "RandPurIso_Completion_Supplement_chanOracle", "child": "PeresTerno_kraus_basics", "via": ["statement"]}
 {"parent": "ListReplicableBias.LowerBound.Supplement.lemma_6_10", "child": "ListReplicableBias_LowerBound_Supplement_Algorithms", "via": ["statement"]}
 {"parent": "ListReplicableBias.LowerBound.Supplement.lemma_6_10", "child": "ListReplicableBias_LowerBound_Geometry", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2055", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2055", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.brownianRealExponentialMartingale", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.brownianRealExponentialMartingale", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.brownianRealExponentialMartingale", "child": "Kyprianou_Ch01_ExplicitLevyExamples", "via": ["solution", "statement"]}
@@ -57321,7 +57321,7 @@
 {"parent": "BootstrapRecolorVerify.MetricGap.Supplement.lemma_4_10", "child": "BootstrapRecolorVerify_MetricGap_Supplement_Proxy", "via": ["statement"]}
 {"parent": "MatrixQuantumSampler595.Correspondence.Supplement.internal_seed_extraction", "child": "MatrixQuantumSampler595_Correspondence_Supplement_UniformConstruction", "via": ["statement"]}
 {"parent": "MatrixQuantumSampler595.Correspondence.Supplement.internal_seed_extraction", "child": "MatrixQuantumSampler595_Correspondence_Supplement_ConditionalExtractor", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg18750", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg18750", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidALowsP08", "child": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidALowsIxData", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankSegsRMidALowsP08", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0LowsData", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_lpBid", "child": "GradedReserve_Supplement_lpT", "via": ["statement"]}
@@ -58014,7 +58014,7 @@
 {"parent": "RH.Transport.PhysicalTail.transport_canonical_probe_exists_ray_cube", "child": "OAIHecke78B027", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.PhysicalTail.transport_canonical_probe_exists_ray_cube", "child": "OAIHecke78B028", "via": ["solution", "statement"]}
 {"parent": "RH.Transport.PhysicalTail.transport_canonical_probe_exists_ray_cube", "child": "OAIHecke78B016", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2064", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2064", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MetricMinTest_Supplement_mixedWorkload", "child": "MetricMinTest_Supplement_regionalCoverCost", "via": ["statement"]}
 {"parent": "MetricMinTest_Supplement_mixedWorkload", "child": "MetricMinTest_Supplement_IsRegionalCover", "via": ["statement"]}
 {"parent": "RandGraphStates.Supplement.theorem_2_2", "child": "SquashedKey_KeyBoundFunction", "via": ["statement"]}
@@ -58921,7 +58921,7 @@
 {"parent": "Kyprianou.Ch05.exercise55ExponentialPassageAllParts", "child": "Kyprianou_Ch05_WeakPassageObservables", "via": ["statement"]}
 {"parent": "PrivateContinualCounting.Kraft.Supplement.uniform_interval_accuracy", "child": "PrivateContinualCounting_Kraft_Supplement_GenericOuter", "via": ["statement"]}
 {"parent": "GMRDiversity_Supplement_gaussFramework", "child": "GMRDiversity_Supplement_GMRFramework", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg12828", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg12828", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Distributions_BoxQuadrature", "child": "liuyao_ca_fd889115_k1_Distributions_Goals", "via": ["statement"]}
 {"parent": "CatalyticTreeEval_Main_Supplement_HigherFramework", "child": "CatalyticTreeEval_Main_Readout", "via": ["statement"]}
 {"parent": "CatalyticTreeEval_Main_Supplement_HigherFramework", "child": "CatalyticTreeEval_Main_Supplement_HigherOracle", "via": ["statement"]}
@@ -59225,7 +59225,7 @@
 {"parent": "PNormRegLib.sim_halt", "child": "PNormRegLib_Simulation", "via": ["solution", "statement"]}
 {"parent": "PNormRegLib.sim_halt", "child": "PNormRegLib_Exec", "via": ["solution", "statement"]}
 {"parent": "PNormRegLib.sim_halt", "child": "PNormRegLib_Reloc", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2046", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2046", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "CondGeoVerif.Supplement.theorem_C_1", "child": "CondGeoVerif_Supplement_boolComp", "via": ["statement"]}
 {"parent": "AutobidSPPE_Supplement_gammaT", "child": "AutobidSPPE_Supplement_sigmaT", "via": ["statement"]}
 {"parent": "MeanCertificates1424.Hardness.Supplement.theorem_E_1", "child": "MeanCertificates1424_Hardness_Supplement_Directed", "via": ["statement"]}
@@ -59298,7 +59298,7 @@
 {"parent": "GaussPart.Supplement.theorem_6_2", "child": "GaussPart_Supplement_PUIExponent", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankArgDimLeA0", "child": "IntMul_Kappa_R8_Data_BitOppbankPnd", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankArgDimLeA0", "child": "IntMul_Kappa_R8_Data_BitOppbankSupG", "via": ["statement"]}
-{"parent": "OAI.EditApproximation.almostLinearEditDistanceRawBandV3", "child": "EditApproxScheme_20", "via": ["statement"]}
+{"parent": "OAI.EditApproximation.almostLinearEditDistanceRawBandV3", "child": "EditApproxScheme_20", "via": ["solution", "statement"]}
 {"parent": "PathRecording.Supplement.theorem_5_8", "child": "PathRecording_fourier", "via": ["statement"]}
 {"parent": "PathRecording.Supplement.theorem_5_8", "child": "PathRecording_pathOracle", "via": ["statement"]}
 {"parent": "PathRecording.Supplement.theorem_5_8", "child": "PathRecording_Supplement_pathOracleT", "via": ["statement"]}
@@ -59669,7 +59669,7 @@
 {"parent": "TightClock_Supplement_reveal", "child": "TightClock_Supplement_nextGrid", "via": ["statement"]}
 {"parent": "CatalyticTreeEval.Main.Supplement.corollary_4_9", "child": "CatalyticTreeEval_Main_Supplement_UniformConstructions", "via": ["statement"]}
 {"parent": "ExactLearningSeparation678.Randomized.Supplement.theorem_4_12", "child": "ExactLearningSeparation678_Randomized_Supplement_Teaching", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg1429", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg1429", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "APFPaper5_K1_MovesAtOccupant", "child": "APFPaper5_K1_RegionSymmetries", "via": ["statement"]}
 {"parent": "APFPaper5_K1_MovesAtOccupant", "child": "APFPaper5_K1_AlignmentCount", "via": ["statement"]}
 {"parent": "QuarticGap_Supplement_Pmat", "child": "QuarticGap_Ahat", "via": ["statement"]}
@@ -59910,7 +59910,7 @@
 {"parent": "PelagicFF_Supplement_PreparedWithin", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
 {"parent": "PelagicFF_Supplement_PreparedWithin", "child": "PelagicFF_Supplement_LevelMessage", "via": ["statement"]}
 {"parent": "LevyStochCalc.Poisson.eq_biUnion_partitionAtom_ch02", "child": "Kyprianou_Ch02_PartitionAtomV2", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg23533", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg23533", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "STOC2027BoolCSP.Approximation.Supplement.lemma_8_2", "child": "STOC2027BoolCSP_Approximation_SDP", "via": ["statement"]}
 {"parent": "STOC2027BoolCSP.Approximation.Supplement.lemma_8_2", "child": "STOC2027BoolCSP_Approximation_Machine", "via": ["statement"]}
 {"parent": "STOC2027BoolCSP.Approximation.Supplement.lemma_8_2", "child": "STOC2027BoolCSP_Approximation_Encoding", "via": ["statement"]}
@@ -72898,8 +72898,8 @@
 {"parent": "Kyprianou.Ch07.largeJumpNormalisedTailPositive", "child": "Kyprianou_Ch07_ConvolutionLargeJumpLaw", "via": ["solution", "statement"]}
 {"parent": "HirschDim4.h11_4_bound", "child": "Hirsch_model", "via": ["statement"]}
 {"parent": "HirschDim4.h11_4_bound", "child": "SantosHirsch_Counter_Setting", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_cash_excess_after_Hessian_cross_positive_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_cash_excess_after_Hessian_cross_positive_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_cash_excess_after_Hessian_cross_positive_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_cash_excess_after_Hessian_cross_positive_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "FairReplay_Supplement_suiteModel", "child": "FairReplay_Supplement_activeVertices", "via": ["statement"]}
 {"parent": "FairReplay_Supplement_suiteModel", "child": "FairReplay_uniformTape", "via": ["statement"]}
 {"parent": "FairReplay_Supplement_suiteModel", "child": "BanditTrajectory", "via": ["statement"]}
@@ -73425,8 +73425,8 @@
 {"parent": "KnodelPrimeCordial.case_mod_6_offset_2_residue_0_count__p2m_7532f8d4_700d_4daa_ba77_23877d6e6e87_a1", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_6_offset_2_residue_0_count__p2m_7532f8d4_700d_4daa_ba77_23877d6e6e87_a1", "child": "KnodelPrimeCordial_labelF", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_6_offset_2_residue_0_count__p2m_7532f8d4_700d_4daa_ba77_23877d6e6e87_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_5_5", "child": "CallCountPOPBR_Supplement_RecConsistent", "via": ["statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_5_5", "child": "CallCountPOPBR_Supplement_DecSpec_unfold", "via": ["statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_5_5", "child": "CallCountPOPBR_Supplement_RecConsistent", "via": ["solution", "statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_5_5", "child": "CallCountPOPBR_Supplement_DecSpec_unfold", "via": ["solution", "statement"]}
 {"parent": "APFPaper1_OccupantOf", "child": "APFPaper5_K1_SourcePartyScore", "via": ["statement"]}
 {"parent": "IntADSat.Supplement.theorem_A_6", "child": "IntADSat_Supplement_graphCode", "via": ["statement"]}
 {"parent": "IntADSat.Supplement.theorem_A_6", "child": "IntADSat_Supplement_wordLatticeLE", "via": ["statement"]}
@@ -73746,7 +73746,7 @@
 {"parent": "MazurProof.RationalPointsN25QuotientKummerThree.fifthPowerFiber_card_of_mem_range", "child": "N25_ExplicitKummerThree", "via": ["solution", "statement"]}
 {"parent": "SkipListConc_Supplement_rebuildCost", "child": "SkipListConc_height", "via": ["statement"]}
 {"parent": "SkipListConc_Supplement_rebuildCost", "child": "SkipListConc_Supplement_epochState", "via": ["statement"]}
-{"parent": "APFPaper5.K3.Connections.flip_single_read", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["statement"]}
+{"parent": "APFPaper5.K3.Connections.flip_single_read", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "IntADSat_Supplement_preLattice", "child": "IntADSat_Supplement_discGroup", "via": ["statement"]}
 {"parent": "MultiThinkCoT_Supplement_passErr", "child": "MultiThinkCoT_e2e", "via": ["statement"]}
 {"parent": "IntConeFPT_Supplement_Scheduling", "child": "OnlineCRS_Combine_encRat", "via": ["statement"]}
@@ -74039,7 +74039,7 @@
 {"parent": "Kyprianou_Ch07_certificate_exercise_7_7", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["statement"]}
 {"parent": "Kyprianou_Ch07_certificate_exercise_7_7", "child": "Kyprianou_Ch06_LevyKhintchineTriple", "via": ["statement"]}
 {"parent": "Kyprianou_Ch07_certificate_exercise_7_7", "child": "Kyprianou_Ch07_StableTwoSidedExitObservables", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25770", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25770", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.unitRelation25_sturm_coefficients", "child": "N25_UnitSeries", "via": ["solution", "statement"]}
 {"parent": "N25.unitRelation25_sturm_coefficients", "child": "N25_UnitRelationCertificate", "via": ["solution", "statement"]}
 {"parent": "N25.unitRelation25_sturm_coefficients", "child": "N25_UnitRelation", "via": ["solution", "statement"]}
@@ -74106,7 +74106,7 @@
 {"parent": "APFPaper1.RecordOccupant.isRelation_of_same_or_opposite", "child": "APFPaper1.RecordOccupant.Parity.pairs_unsettled", "via": ["solution", "statement"]}
 {"parent": "APFPaper1.RecordOccupant.isRelation_of_same_or_opposite", "child": "APFPaper1.RecordOccupant.Parity.turnover_keeps_pair_relations", "via": ["solution", "statement"]}
 {"parent": "APFPaper1.RecordOccupant.isRelation_of_same_or_opposite", "child": "APFPaper1.RecordOccupant.Parity.is_pair_relation_one_level_up", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25540", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25540", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "CompNonlocal_Supplement_Game", "child": "CompNonlocal_Family", "via": ["statement"]}
 {"parent": "CompNonlocal_Supplement_Game", "child": "CompNonlocal_ICirc_branchOn", "via": ["statement"]}
 {"parent": "CompNonlocal_Supplement_Game", "child": "CompNonlocal_ICirc_effectOn", "via": ["statement"]}
@@ -74261,8 +74261,8 @@
 {"parent": "KAQROM_Supplement_BobFirst", "child": "KAQROM_Supplement_DetAttacker", "via": ["statement"]}
 {"parent": "KAQROM_Supplement_BobFirst", "child": "KAQROM_Supplement_CStage", "via": ["statement"]}
 {"parent": "KAQROM_Supplement_BobFirst", "child": "KAQROM_QAlg", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_2__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_2__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_2__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_2__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["solution", "statement"]}
 {"parent": "ZOGlobalLB.Supplement.theorem_2_7", "child": "ZOGlobalLB_Admissible", "via": ["statement"]}
 {"parent": "ZOGlobalLB.Supplement.theorem_2_7", "child": "ZOGlobalLB_ZOAlg", "via": ["statement"]}
 {"parent": "N25.Endgame.xHGood_degreeOnePlace_card_eq_canonical25", "child": "N25_FiniteBaseFunctionFields", "via": ["solution", "statement"]}
@@ -74379,7 +74379,7 @@
 {"parent": "AvoidPlast_Supplement_HitsTargeted", "child": "AvoidPlast_Accepts", "via": ["statement"]}
 {"parent": "AvoidPlast_Supplement_HitsTargeted", "child": "AvoidPlast_output", "via": ["statement"]}
 {"parent": "AvoidPlast_Supplement_HitsTargeted", "child": "AvoidPlast_Machine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.geometricStoppedWalkStrictInfDiv", "child": "levy_foundations_isInfinitelyDivisibleLaw", "via": ["statement"]}
+{"parent": "Kyprianou.Ch01.geometricStoppedWalkStrictInfDiv", "child": "levy_foundations_isInfinitelyDivisibleLaw", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch06.zeroACountIndependentOfThreeDisjointOutsideCounts", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
 {"parent": "RestrictedDec_Supplement_unsignedCHK", "child": "RestrictedDec_Supplement_interact", "via": ["statement"]}
 {"parent": "RestrictedDec_Supplement_unsignedCHK", "child": "RestrictedDec_PKE", "via": ["statement"]}
@@ -74723,7 +74723,7 @@
 {"parent": "BenignDegen_Supplement_Cells", "child": "BenignDegen_SDP", "via": ["statement"]}
 {"parent": "BenignDegen_Supplement_Cells", "child": "BenignDegen_Boolean", "via": ["statement"]}
 {"parent": "BenignDegen_Supplement_Cells", "child": "BenignDegen_Geometry", "via": ["statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_4_1", "child": "CallCountPOPBR_Supplement_RecProc", "via": ["statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_4_1", "child": "CallCountPOPBR_Supplement_RecProc", "via": ["solution", "statement"]}
 {"parent": "LovaszECCKernel_Supplement_ECPBelowEdges", "child": "LovaszECCKernel_Supplement_ecp", "via": ["statement"]}
 {"parent": "LovaszECCKernel_Supplement_ECPBelowEdges", "child": "LovaszECCKernel_nonEdges", "via": ["statement"]}
 {"parent": "N25.fricke_selected_cusp_galois_orbit", "child": "ModularCurve.diamondAutHBar_mul_and_diamondAutHBar_one", "via": ["solution", "statement"]}
@@ -75099,7 +75099,7 @@
 {"parent": "N25_CanonicalProjectiveGenericPoint", "child": "N25_CanonicalProjectivePrincipalOpen", "via": ["statement"]}
 {"parent": "LocalBreadth_Supplement_IsGeomFeasible", "child": "LocalBreadth_Supplement_deltaH", "via": ["statement"]}
 {"parent": "LocalBreadth_Supplement_IsGeomFeasible", "child": "LocalBreadth_Supplement_StoppingGame", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25035", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25035", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "SybilClinch.Supplement.theorem_1_3", "child": "SybilClinch_Supplement_zeroStartUtility", "via": ["statement"]}
 {"parent": "SybilClinch.Supplement.theorem_1_3", "child": "SybilClinch_OneSidedProfile_Valid", "via": ["statement"]}
 {"parent": "NoisyOWMPC_Supplement_MalOWSC", "child": "NoisyOWMPC_Supplement_Verifiable", "via": ["statement"]}
@@ -75684,7 +75684,7 @@
 {"parent": "JonesUnknot_jones", "child": "JonesUnknot_planar", "via": ["statement"]}
 {"parent": "JonesUnknot_jones", "child": "ManolescuPiccirillo_PD", "via": ["statement"]}
 {"parent": "JonesUnknot_jones", "child": "ManolescuPiccirillo_Lee1", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25301", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25301", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "QuerySampleRev.Supplement.theorem_37", "child": "QuerySampleRev_Supplement_IsPACFor", "via": ["statement"]}
 {"parent": "QuerySampleRev.Supplement.theorem_37", "child": "QuerySampleRev_Supplement_IsRegular", "via": ["statement"]}
 {"parent": "APFPaper5.K3.Carrying.booked_total_round_a_loop", "child": "APFPaper5_K3_what_a_charge_on_carrying_does_Vocabulary", "via": ["solution", "statement"]}
@@ -75875,7 +75875,7 @@
 {"parent": "KnodelPrimeCordial.case_mod_6_edge_count_arithmetic__p2m_42c92209_5c01_4247_acfb_35cad623a7ea_a1", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_6_edge_count_arithmetic__p2m_42c92209_5c01_4247_acfb_35cad623a7ea_a1", "child": "KnodelPrimeCordial_labelF", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_6_edge_count_arithmetic__p2m_42c92209_5c01_4247_acfb_35cad623a7ea_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
-{"parent": "APFPaper5.K3.Connections.least_cost_table_unique", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["statement"]}
+{"parent": "APFPaper5.K3.Connections.least_cost_table_unique", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "PhaseEncodedQGE.Supplement.theorem_A_11", "child": "PhaseEncodedQGE_Supplement_ClassValue", "via": ["statement"]}
 {"parent": "PhaseEncodedQGE.Supplement.theorem_A_11", "child": "PhaseEncodedQGE_Profile", "via": ["statement"]}
 {"parent": "PhaseEncodedQGE.Supplement.theorem_A_11", "child": "PhaseEncodedQGE_Circuit", "via": ["statement"]}
@@ -76105,7 +76105,7 @@
 {"parent": "MonoidProdQ.Supplement.theorem_13", "child": "MonoidProdQ_prodMap", "via": ["statement"]}
 {"parent": "MonoidProdQ.Supplement.theorem_13", "child": "MonoidProdQ_IsAperiodic", "via": ["statement"]}
 {"parent": "MonoidProdQ.Supplement.theorem_13", "child": "MonoidProdQ_Q13", "via": ["statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_5_1", "child": "CallCountPOPBR_Supplement_DecSpec", "via": ["statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_5_1", "child": "CallCountPOPBR_Supplement_DecSpec", "via": ["solution", "statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_5", "child": "TuranMatching_Clique_Setting", "via": ["statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_5", "child": "NAMatchEst_AdjList_toGraph", "via": ["statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_5", "child": "NAMatchEst_RandAlg", "via": ["statement"]}
@@ -76139,7 +76139,7 @@
 {"parent": "SybilClinch_Supplement_zeroStartUtility", "child": "SybilClinch_Run_payOf", "via": ["statement"]}
 {"parent": "APFPaper5.K2.opposite_sides_cancel", "child": "APFPaper5_K2_StateClass", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.opposite_sides_cancel", "child": "APFPaper5_K2_HoldScore", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg271", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg271", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.diamondField_fixes_jq", "child": "ModularCurve_JqCoeff", "via": ["solution", "statement"]}
 {"parent": "N25.diamondField_fixes_jq", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "N25.diamondField_fixes_jq", "child": "ModularCurve_QAdicPlace", "via": ["statement"]}
@@ -76308,7 +76308,7 @@
 {"parent": "QaryCVP_Supplement_svpExponents", "child": "WildeQIT_binaryEntropy", "via": ["statement"]}
 {"parent": "QaryCVP_Supplement_svpExponents", "child": "QaryCVP_Supplement_thetaDist", "via": ["statement"]}
 {"parent": "QaryCVP_Supplement_svpExponents", "child": "QaryCVP_ent3", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25894", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25894", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.dominant_table_lower_bound", "child": "APFPaper5.K1.record_book_table_satisfies_K1", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.dominant_table_lower_bound", "child": "APFPaper5.K1.atomTable_nonneg", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.dominant_table_lower_bound", "child": "APFPaper5_K1_dominant_table_Vocabulary", "via": ["solution", "statement"]}
@@ -76397,7 +76397,7 @@
 {"parent": "N25.diamondField_U25", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "N25.diamondField_U25", "child": "ModularCurve.diamondAutHBar_apply_coeffEmb_eq_coeffEmb_ringAut_apply", "via": ["solution", "statement"]}
 {"parent": "N25.diamondField_U25", "child": "N25_Endgame", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg32409", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg32409", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "TwoFoldOPI_Supplement_prefixState", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}
 {"parent": "HoneycombCodes_Supplement_HCrt", "child": "HoneycombCodes_Supplement_HCrow", "via": ["statement"]}
 {"parent": "HoneycombCodes_Supplement_HCrt", "child": "BeatingGV42_MinDistAtLeast", "via": ["statement"]}
@@ -76463,7 +76463,7 @@
 {"parent": "NoPerfectRandComp.Supplement.theorem_10_7", "child": "NoPerfectRandComp_Supplement_IsResilientMap", "via": ["statement"]}
 {"parent": "NoPerfectRandComp.Supplement.theorem_10_7", "child": "NoPerfectRandComp_Supplement_Hq", "via": ["statement"]}
 {"parent": "NoPerfectRandComp.Supplement.theorem_10_7", "child": "NoPerfectRandComp_Supplement_gq", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg28206", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg28206", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.qExpand_pow_intRatio25", "child": "N25_CoefficientMap", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.qExpand_pow_intRatio25", "child": "N25_UnitLaurentField", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.qExpand_pow_intRatio25", "child": "AlgebraicCurve_Correspondence", "via": ["solution", "statement"]}
@@ -76591,7 +76591,7 @@
 {"parent": "CalibeatBandit_Supplement_IsQCalibeating", "child": "CalibeatBandit_rewardLoss", "via": ["statement"]}
 {"parent": "CalibeatBandit_Supplement_IsQCalibeating", "child": "CalibeatBandit_Supplement_QProtocolRun", "via": ["statement"]}
 {"parent": "CalibeatBandit_Supplement_IsQCalibeating", "child": "CalibeatBandit_swapRegret", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg29587", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg29587", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "AsymSpecConn_Supplement_nonCrossingUpperQuantum", "child": "AsymSpecConn_permRep", "via": ["statement"]}
 {"parent": "AsymSpecConn_Supplement_nonCrossingUpperQuantum", "child": "AsymSpecConn_Supplement_nonCrossing", "via": ["statement"]}
 {"parent": "AsymSpecConn_Supplement_nonCrossingUpperQuantum", "child": "AsymSpecConn_kronPowPi", "via": ["statement"]}
@@ -76830,7 +76830,7 @@
 {"parent": "FairReplay.Supplement.theorem_10_9_ii", "child": "FairReplay_Supplement_TwoClassFamily_QLB", "via": ["statement"]}
 {"parent": "FairReplay.Supplement.theorem_10_9_ii", "child": "FairReplay_armCount", "via": ["statement"]}
 {"parent": "FairReplay.Supplement.theorem_10_9_ii", "child": "FairReplay_Supplement_TwoClassFamily_coverLP", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg26168", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg26168", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg2555", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "HeilmanMax3Cut.Supplement.theorem_A_1", "child": "HeilmanMax3Cut_Theta", "via": ["statement"]}
 {"parent": "HeilmanMax3Cut.Supplement.theorem_A_1", "child": "HeilmanMax3Cut_Qstab", "via": ["statement"]}
@@ -76917,7 +76917,7 @@
 {"parent": "N25.canonicalProjectiveCurve25_isIntegral_good", "child": "N25_BirationalIdentities", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalProjectiveCurve25_isIntegral_good", "child": "N25_UnitPlaneFieldPointLiftOverField", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalProjectiveCurve25_isIntegral_good", "child": "N25_CanonicalAChartTower", "via": ["solution", "statement"]}
-{"parent": "APFPaper5.K3.Connections.flip_connection", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["statement"]}
+{"parent": "APFPaper5.K3.Connections.flip_connection", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "TwoStageRnQ.classical_le_Jjoint", "child": "TwoStageRnQ_Model", "via": ["statement"]}
 {"parent": "AvgCaseTI.Supplement.theorem_5_6", "child": "HMBinPacking_OutputsWithin", "via": ["statement"]}
 {"parent": "AvgCaseTI.Supplement.theorem_5_6", "child": "AvgCaseTI_Supplement_epsOrth", "via": ["statement"]}
@@ -77534,7 +77534,7 @@
 {"parent": "N25.unitRelationNumeratorResidue25_second", "child": "N25_UnitRelationCertificate", "via": ["solution", "statement"]}
 {"parent": "LiftSAParity_Supplement_IsBlockLocalDist", "child": "LiftSAParity_IsAffineSpace", "via": ["statement"]}
 {"parent": "LiftSAParity_Supplement_IsBlockLocalDist", "child": "LiftSAParity_CNF", "via": ["statement"]}
-{"parent": "QuantumLTF.Majority.intersection_transform_adversary_identity", "child": "QuantumLTF_Majority_AdversaryModel", "via": ["statement"]}
+{"parent": "QuantumLTF.Majority.intersection_transform_adversary_identity", "child": "QuantumLTF_Majority_AdversaryModel", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33328", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalChartPoint25_exists_minor_good", "child": "N25_CanonicalNormalizedPoints", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalChartPoint25_exists_minor_good", "child": "N25_CanonicalThreeNormalization", "via": ["solution", "statement"]}
@@ -77569,7 +77569,7 @@
 {"parent": "N25.five_qPlaces_distinct", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "N25.five_qPlaces_distinct", "child": "ModularCurve_QAdicPlace", "via": ["solution", "statement"]}
 {"parent": "N25.five_qPlaces_distinct", "child": "ModularCurve_ArithmeticGalois", "via": ["solution", "statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_7_6", "child": "CallCountPOPBR_Supplement_BinSpec", "via": ["statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_7_6", "child": "CallCountPOPBR_Supplement_BinSpec", "via": ["solution", "statement"]}
 {"parent": "DQIShattered.Supplement.theorem_4_10", "child": "DQIShattered_Supplement_Framework", "via": ["statement"]}
 {"parent": "APFPaper5.K2.readoutEq_append", "child": "APFPaper1.Continuation.contextEq_sandwich", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.readoutEq_append", "child": "APFPaper5_K2_ClosedBoundary", "via": ["solution", "statement"]}
@@ -77743,7 +77743,7 @@
 {"parent": "QuantumLTF.Majority.bounded_support_adversary_upper_bound", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.bounded_support_adversary_upper_bound", "child": "QuantumLTF_Sections45_Model", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.bounded_support_adversary_upper_bound", "child": "QuantumLTF_Majority_oracle", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25616", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25616", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "CutRankSched.Supplement.theorem_4_8", "child": "CutRankSched_Feasible", "via": ["statement"]}
 {"parent": "CutRankSched.Supplement.theorem_4_8", "child": "CutRankSched_Instance", "via": ["statement"]}
 {"parent": "CutRankSched.Supplement.theorem_4_8", "child": "CutRankSched_Instance_Valid", "via": ["statement"]}
@@ -78152,7 +78152,7 @@
 {"parent": "APFPaper5.K1.sourcePartyScore_symm", "child": "APFPaper5.K1.familyNeeds_eq_sourceNeeds", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.sourcePartyScore_symm", "child": "APFPaper5.K1.atomTable_form", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.sourcePartyScore_symm", "child": "APFPaper5_K1_identity_exchange_Vocabulary", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25895", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25895", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "TimeSpaceMA.Supplement.theorem_4_1", "child": "TimeSpaceMA_Supplement_InTIME1", "via": ["statement"]}
 {"parent": "TimeSpaceMA.Supplement.theorem_4_1", "child": "TimeSpaceMA_Supplement_TimeConstructible", "via": ["statement"]}
 {"parent": "TimeSpaceMA.Supplement.theorem_4_1", "child": "TimeSpaceMA_Supplement_InMATIME", "via": ["statement"]}
@@ -78276,8 +78276,8 @@
 {"parent": "DivisionBezoutFourTermsA", "child": "WardSomos", "via": ["statement"]}
 {"parent": "ResultantVNP.Supplement.theorem_1_8", "child": "ResultantVNP_Supplement_SymTensor", "via": ["statement"]}
 {"parent": "ResultantVNP.Supplement.theorem_1_8", "child": "ResultantVNP_Supplement_QuadSystem", "via": ["statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_5_3", "child": "CallCountPOPBR_Supplement_sumset", "via": ["statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_5_3", "child": "CallCountPOPBR_Supplement_DecSpec", "via": ["statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_5_3", "child": "CallCountPOPBR_Supplement_sumset", "via": ["solution", "statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_5_3", "child": "CallCountPOPBR_Supplement_DecSpec", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.oneClass_mul", "child": "APFPaper1.Continuation.contextEq_sandwich", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.oneClass_mul", "child": "APFPaper5_K2_ClosedBoundary", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.oneClass_mul", "child": "APFPaper1.Continuation.contextEq_all_of_ambientHeredity", "via": ["solution", "statement"]}
@@ -78351,7 +78351,7 @@
 {"parent": "HZTractability.Supplement.theorem_1_2", "child": "CEPolytopeHard_PPADHard", "via": ["statement"]}
 {"parent": "HZTractability.Supplement.theorem_1_2", "child": "HZTractability_Supplement_HZConstError", "via": ["statement"]}
 {"parent": "HZTractability.Supplement.theorem_1_2", "child": "HZTractability_Supplement_PCPforPPAD", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25548", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25548", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OptTwoSrcExt.Supplement.theorem_5_10", "child": "OptTwoSrcExt_Supplement_IsNMExt", "via": ["statement"]}
 {"parent": "OptTwoSrcExt.Supplement.theorem_5_10", "child": "OptTwoSrcExt_Supplement_fingerprint", "via": ["statement"]}
 {"parent": "OptTwoSrcExt.Supplement.theorem_5_10", "child": "LowErrExt_IsPolyTime", "via": ["statement"]}
@@ -78633,7 +78633,7 @@
 {"parent": "GraphTensorCP.Supplement.theorem_6_6", "child": "GraphTensorCP_specWeight", "via": ["statement"]}
 {"parent": "GraphTensorCP.Supplement.theorem_6_6", "child": "GraphTensorCP_uCPDelta", "via": ["statement"]}
 {"parent": "GraphTensorCP.Supplement.theorem_6_6", "child": "GraphTensorCP_Supplement_uSDPDelta", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25703", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25703", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "AnchoredEP_Supplement_newtonRun", "child": "AnchoredEP_IterState", "via": ["statement"]}
 {"parent": "AnchoredEP_Supplement_newtonRun", "child": "AnchoredEP_RunState", "via": ["statement"]}
 {"parent": "AnchoredEP_Supplement_newtonRun", "child": "AnchoredEP_Supplement_newtonOuterStep", "via": ["statement"]}
@@ -78932,7 +78932,7 @@
 {"parent": "HardcoreSlices_Supplement_indepSlice", "child": "HardcoreSlices_downUp", "via": ["statement"]}
 {"parent": "IntQuotHNP_Supplement_HNPHM", "child": "ExponomialAssortment_FPTAS_Machine", "via": ["statement"]}
 {"parent": "IntQuotHNP_Supplement_HNPHM", "child": "IntQuotHNP_Supplement_CoeffMap", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2636", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2636", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_complex_endpoint_exhausts_poles", "child": "ModularCurve.exists_tendsto_realizeOf_mul_exp_of_not_mem_toValuationSubring", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_complex_endpoint_exhausts_poles", "child": "ModularCurve_ComplexPlaceDictionaryOf", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_complex_endpoint_exhausts_poles", "child": "N25", "via": ["solution", "statement"]}
@@ -79049,7 +79049,7 @@
 {"parent": "RestrictedDec_Supplement_Sampler", "child": "BeyondDS_tup", "via": ["statement"]}
 {"parent": "KnodelPrimeCordial.knodel_3_8_edge_label_counts_sum_12__p2m_2ca607db_fb22_40a0_9812_c6037365c324_a3", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.knodel_3_8_edge_label_counts_sum_12__p2m_2ca607db_fb22_40a0_9812_c6037365c324_a3", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg32417", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg32417", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabFourteenthCell14", "child": "row23_rh_supp_RHLowSlabFourteenthPilot", "via": ["statement"]}
 {"parent": "Kyprianou.Ch06.threeDisjointMarkedPoissonRectangles", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
 {"parent": "N25.characterField_prime_norm_residue", "child": "N25_CharacterField", "via": ["solution", "statement"]}
@@ -79177,8 +79177,8 @@
 {"parent": "ErrAmpOV.Supplement.theorem_3_4", "child": "ErrAmpOV_ZPDecides", "via": ["statement"]}
 {"parent": "ErrAmpOV.Supplement.theorem_3_4", "child": "ErrAmpOV_SizeDecides", "via": ["statement"]}
 {"parent": "TimeSpaceMA_Supplement_InMATIME", "child": "TimeSpaceMA_ArthurAccepts", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg29598", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg313", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg29598", "child": "OAIQ259US007", "via": ["solution", "statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg313", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "GoodReductionJacobian.RelativeGroupLaw.finite_flat_division_fibre", "child": "GoodReductionJacobian.RelativeGroupLaw.isFinite_and_flat_schemeNsmul", "via": ["solution", "statement"]}
 {"parent": "SingleInteraction.Supplement.theorem_65", "child": "ContinuumCoulombHardness", "via": ["statement"]}
 {"parent": "SingleInteraction.Supplement.theorem_65", "child": "SingleInteraction_Supplement_Variants", "via": ["statement"]}
@@ -79211,15 +79211,15 @@
 {"parent": "IntQuotHNP_Supplement_ECHNP", "child": "MatchingFPRAS", "via": ["statement"]}
 {"parent": "AdaptiveSparsify.Supplement.theorem_6", "child": "AdaptiveSparsify_Supplement_HalvingGame", "via": ["statement"]}
 {"parent": "AdaptiveSparsify.Supplement.theorem_6", "child": "AdaptiveSparsify_Supplement_MatMul", "via": ["statement"]}
-{"parent": "DetANN.HPIM.hpim_preprocessing", "child": "PNormReg_Machine", "via": ["statement"]}
+{"parent": "DetANN.HPIM.hpim_preprocessing", "child": "PNormReg_Machine", "via": ["solution", "statement"]}
 {"parent": "DetANN.HPIM.hpim_preprocessing", "child": "DetANN_HPIMTree", "via": ["statement"]}
-{"parent": "DetANN.HPIM.hpim_preprocessing", "child": "DetANN_DataStructure", "via": ["statement"]}
-{"parent": "DetANN.HPIM.hpim_preprocessing", "child": "DetANN_HPIMLayout", "via": ["statement"]}
+{"parent": "DetANN.HPIM.hpim_preprocessing", "child": "DetANN_DataStructure", "via": ["solution", "statement"]}
+{"parent": "DetANN.HPIM.hpim_preprocessing", "child": "DetANN_HPIMLayout", "via": ["solution", "statement"]}
 {"parent": "N25.laurent_order_rigidity", "child": "ModularCurve_JqCoeff", "via": ["statement"]}
 {"parent": "N25.laurent_order_rigidity", "child": "N25", "via": ["statement"]}
 {"parent": "N25.laurent_order_rigidity", "child": "ModularCurve_QAdicPlace", "via": ["solution", "statement"]}
 {"parent": "N25.laurent_order_rigidity", "child": "ModularCurve_ArithmeticGalois", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg33311", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg33311", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry_SymmetricFiniteFrame", "child": "AlgebraicGeometry_ModulesTensorPowV2", "via": ["statement"]}
 {"parent": "AlgebraicGeometry_SymmetricFiniteFrame", "child": "SheafOfModules_MonoidalV2", "via": ["statement"]}
 {"parent": "AlgebraicGeometry_SymmetricFiniteFrame", "child": "AlgebraicGeometry_PolarisationRosati", "via": ["statement"]}
@@ -79391,7 +79391,7 @@
 {"parent": "PairwiseRealize.Supplement.theorem_2_3", "child": "PairwiseRealize_Supplement_Fiber", "via": ["statement"]}
 {"parent": "PairwiseRealize.Supplement.theorem_2_3", "child": "PairwiseRealize_Machine", "via": ["statement"]}
 {"parent": "PairwiseRealize.Supplement.theorem_2_3", "child": "ContingencyTables", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg3309", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg3309", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "GoodReductionJacobian.RelativeGroupLaw.exists_division_fibre_point_equiv", "child": "GoodReductionJacobian.RelativeGroupLaw.coe_nsmul_eq_comp_schemeNsmul", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_original_upper_centred_grid_integrable_L1_limit", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_original_upper_centred_grid_integrable_L1_limit", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -79516,7 +79516,7 @@
 {"parent": "N25_canonicalFunctionFieldAlgEquiv25", "child": "N25_UnitPlaneFieldPointLiftOverField", "via": ["statement"]}
 {"parent": "N25_canonicalFunctionFieldAlgEquiv25", "child": "N25_CanonicalAChartTower", "via": ["statement"]}
 {"parent": "SYKCavity.Supplement.theorem_19", "child": "SYKCavity_Supplement_PairLearner", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25052", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25052", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.PaidPair.relation_is_joint", "child": "APFPaper1.Source.familyCost_mono", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.PaidPair.relation_is_joint", "child": "APFPaper1.Source.familyCost_nonneg", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.PaidPair.relation_is_joint", "child": "APFPaper5.K1.memberNeeds_subset_familyNeeds_explicit", "via": ["solution", "statement"]}
@@ -80027,7 +80027,7 @@
 {"parent": "N25.canonicalAChartOpenElement25_isRegular", "child": "N25_CanonicalOpenChart", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalAChartOpenElement25_isRegular", "child": "N25_CanonicalAChartTower", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalAChartOpenElement25_isRegular", "child": "N25_CanonicalChartDehomogenization", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25768", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25768", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "LonelyRunnerConjecture.mss_finite_checking", "child": "LonelyRunnerConjecture_Defs", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.logarithmicJumpWeightsENNRealMass", "child": "Kyprianou.Ch01.logarithmicJumpWeightsHasSumOne", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Membership.Supplement.theorem_4_5", "child": "QuantumLTF_Membership_Supplement_queryComplexity", "via": ["statement"]}
@@ -80276,7 +80276,7 @@
 {"parent": "APFPaper5.K2.keeps_of_reverse_is_inverse", "child": "APFPaper5.K1.source_counted_family_meets_all_of_K1_with_identity_exchange", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.keeps_of_reverse_is_inverse", "child": "APFPaper5.K1.orientationForm_zero_of_symm", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.keeps_of_reverse_is_inverse", "child": "APFPaper5.K1.tableForm_isBilinear", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2586", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2586", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientSmoothF3.residual_regular_bezout25Three", "child": "N25_CanonicalNormalizedPoints", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientSmoothF3.residual_regular_bezout25Three", "child": "N25_CanonicalThreeNormalization", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientSmoothF3.residual_regular_bezout25Three", "child": "N25_NormalizedPointPivot", "via": ["solution", "statement"]}
@@ -80396,7 +80396,7 @@
 {"parent": "DeepQOperator.Supplement.theorem_9", "child": "DeepQOperator_ExactDesign", "via": ["statement"]}
 {"parent": "DeepQOperator.Supplement.theorem_9", "child": "DeepQOperator_Supplement_AdaptiveAlg", "via": ["statement"]}
 {"parent": "DeepQOperator.Supplement.theorem_9", "child": "DeepQOperator_ReplyProtocol", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg319", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg319", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.cuspArithmeticCensus", "child": "ModularCurve.natCard_fibres_jqModC_eq_natCard_doubleCoset_of_finrank_eq_index", "via": ["solution", "statement"]}
 {"parent": "N25.cuspArithmeticCensus", "child": "ModularCurve.exists_ringHom_place_order_eq_mul_ord_of_qExpansion_slash", "via": ["solution", "statement"]}
 {"parent": "N25.cuspArithmeticCensus", "child": "ModularCurve.exists_monoidHom_gamma0_algEquiv_qExpFunctionFieldC_gammaH_of_charZero", "via": ["solution", "statement"]}
@@ -81213,7 +81213,7 @@
 {"parent": "ProofCryptoSynergy_Supplement_IsPolyWE", "child": "ProofCryptoSynergy_SubexpWEForSATExists", "via": ["statement"]}
 {"parent": "ProofCryptoSynergy_Supplement_IsPolyWE", "child": "LaconicBarrier_IOScheme", "via": ["statement"]}
 {"parent": "ProofCryptoSynergy_Supplement_IsPolyWE", "child": "KarpLiptonOM_Circuit_eval", "via": ["statement"]}
-{"parent": "QuantumLTF.Majority.lemma_4_4", "child": "QuantumLTF_Majority_AdversaryModel", "via": ["statement"]}
+{"parent": "QuantumLTF.Majority.lemma_4_4", "child": "QuantumLTF_Majority_AdversaryModel", "via": ["solution", "statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_6", "child": "TuranMatching_Clique_Setting", "via": ["statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_6", "child": "NAMatchEst_AdjList_toGraph", "via": ["statement"]}
 {"parent": "NAMatchEst.Supplement.theorem_6", "child": "NAMatchEst_RandAlg", "via": ["statement"]}
@@ -81492,7 +81492,7 @@
 {"parent": "N25.psi_kernel_index", "child": "ExtCitation.cycloChar_primeLocalToGlobal_eq_one_of_mem_inertia", "via": ["solution", "statement"]}
 {"parent": "N25.psi_kernel_index", "child": "ValuationSubring.exists_mem_inertiaSubgroupIn_padicIntegers_localGaloisToGlobal_eq", "via": ["solution", "statement"]}
 {"parent": "N25.psi_kernel_index", "child": "ValuationSubring.cycloChar_eq_unitOfCoprime_of_isFrobeniusAt", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25878", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25878", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "PersistQMem_Supplement_CPLe", "child": "PersistQMem_Supplement_IsMajoranaCrossFamily", "via": ["statement"]}
 {"parent": "PersistQMem_Supplement_CPLe", "child": "QAlgorithms_Defs_MatrixMapPositivity", "via": ["statement"]}
 {"parent": "Kyprianou.Ch07.kestenSubexponentialAffineEnvelope", "child": "Kyprianou_Ch07_ConvolutionLargeJumpLaw", "via": ["solution", "statement"]}
@@ -81587,8 +81587,8 @@
 {"parent": "TwoFoldOPI_Supplement_qdpSuccessO", "child": "TwoFoldOPI_regEmbed", "via": ["statement"]}
 {"parent": "TwoFoldOPI_Supplement_qdpSuccessO", "child": "QAlgorithms_Defs_GradientMethods", "via": ["statement"]}
 {"parent": "TwoFoldOPI_Supplement_qdpSuccessO", "child": "QAlgorithms_Defs_OPIOraclePrograms", "via": ["statement"]}
-{"parent": "CritWinSpin.p4c_1_1_ii_effpoly", "child": "QuantumPRC_IsPolyFamily", "via": ["statement"]}
-{"parent": "CritWinSpin.p4c_1_1_ii_effpoly", "child": "CookPvsNP_defs", "via": ["statement"]}
+{"parent": "CritWinSpin.p4c_1_1_ii_effpoly", "child": "QuantumPRC_IsPolyFamily", "via": ["solution", "statement"]}
+{"parent": "CritWinSpin.p4c_1_1_ii_effpoly", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.SpecialUnitPoleDegrees.specialUnit_ratio_ord25", "child": "AlgebraicCurve.isCurveOver_of_transcendental_of_perfectField", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.SpecialUnitPoleDegrees.specialUnit_ratio_ord25", "child": "N25_UnitOrders", "via": ["solution", "statement"]}
 {"parent": "N25.Endgame.SpecialUnitPoleDegrees.specialUnit_ratio_ord25", "child": "AlgebraicCurve.IsCurveOver.finiteDimensional_adjoin_simple_of_transcendental_of_essFiniteType", "via": ["solution", "statement"]}
@@ -81906,9 +81906,9 @@
 {"parent": "N25.level25_T_doubleCosets", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25CanonicalSourceBridge.sutherlandBasePointFiber25_ne_zero", "child": "RationalPointsN25CanonicalSourceBridge", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25CanonicalSourceBridge.sutherlandBasePointFiber25_ne_zero", "child": "TateOrder25Factor", "via": ["solution", "statement"]}
-{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1", "child": "KnodelPrimeCordial_labelF", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1", "child": "KnodelPrimeCordial_cyc", "via": ["statement"]}
+{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1", "child": "KnodelPrimeCordial_labelF", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_edge_balance__p2m_274a48da_4cfb_4ff4_bf18_08c4c347ae66_a1", "child": "KnodelPrimeCordial_cyc", "via": ["solution", "statement"]}
 {"parent": "DSICHardRev_Supplement_TwoSimAlg", "child": "DSICHardRev_Protocol", "via": ["statement"]}
 {"parent": "N25_CanonicalProjectiveCharts", "child": "N25_CanonicalProjectiveCone", "via": ["statement"]}
 {"parent": "N25_CanonicalProjectiveCharts", "child": "N25_CanonicalAffineCharts", "via": ["statement"]}
@@ -81955,11 +81955,11 @@
 {"parent": "IntQuotHNP.Supplement.theorem_3_4", "child": "MatchingFPRAS", "via": ["statement"]}
 {"parent": "MultitaskContracts_Supplement_IsModularF", "child": "MultitaskContracts_Instance", "via": ["statement"]}
 {"parent": "ABPOnline_Supplement_Vrelax", "child": "ABPOnline_Estar", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25752", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg32407", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25752", "child": "OAIQ259US007", "via": ["solution", "statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg32407", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.Gamma025_label13_factorization", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.Connections.connection_bounds", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25216", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25216", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "CoRSuccGap.Supplement.theorem_7_3", "child": "CoRSuccGap_Supplement_TypedMatrixCircuit", "via": ["statement"]}
 {"parent": "DirKECC1549.Asm.phi_push", "child": "DirKECC1549_Impl_SccDfs", "via": ["solution", "statement"]}
 {"parent": "CausalFailureRank_Supplement_safetyTable", "child": "CausalFailureRank_rank", "via": ["statement"]}
@@ -82320,7 +82320,7 @@
 {"parent": "EffHorizonProphet_Supplement_gamblerG", "child": "EffHorizonProphet_stopsAt", "via": ["statement"]}
 {"parent": "EffHorizonProphet_Supplement_gamblerG", "child": "EffHorizonProphet_sampleLaw", "via": ["statement"]}
 {"parent": "EffHorizonProphet_Supplement_gamblerG", "child": "EffHorizonProphet_Supplement_rewardG", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg33030", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg33030", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.Twins.b05_holds", "child": "APFPaper1.Source.familyCost_mono", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.Twins.b05_holds", "child": "APFPaper1.Source.familyCost_nonneg", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.Twins.b05_holds", "child": "APFPaper5.K1.atomTable_merge_of_same_marks", "via": ["solution", "statement"]}
@@ -82779,7 +82779,7 @@
 {"parent": "SparseHistComm.Supplement.theorem_4", "child": "SparseHistComm_threshold", "via": ["statement"]}
 {"parent": "SparseHistComm.Supplement.theorem_4", "child": "SparseHistComm_Lambda", "via": ["statement"]}
 {"parent": "StretchDepth_Supplement_IsNonuniformReduction", "child": "StretchDepth_IsPRGReduction", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25320", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25320", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch07.exercise7_3SpectrallyNegativeWienerHopfAllParts", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["statement"]}
 {"parent": "Kyprianou.Ch07.exercise7_3SpectrallyNegativeWienerHopfAllParts", "child": "Kyprianou_Ch06_LevyKhintchineTriple", "via": ["statement"]}
 {"parent": "Kyprianou.Ch07.exercise7_3SpectrallyNegativeWienerHopfAllParts", "child": "Kyprianou_Ch07_DriftOscillationObservables", "via": ["statement"]}
@@ -82816,9 +82816,9 @@
 {"parent": "KAQROM.Supplement.theorem_6_11", "child": "KAQROM_Supplement_DetAttacker", "via": ["statement"]}
 {"parent": "AltRegret_Supplement_productBody", "child": "AltRegret_Supplement_ContinuousAAHedgeRun", "via": ["statement"]}
 {"parent": "CorrelatedLocalSearch.Supplement.theorem_G_2", "child": "CorrelatedLocalSearch_Supplement_SharedVoting", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2", "child": "KnodelPrimeCordial_labelF", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2", "child": "KnodelPrimeCordial_cyc", "via": ["statement"]}
+{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2", "child": "KnodelPrimeCordial_labelF", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.cyclic_case_mod_10_counts__p2m_99de8117_516f_47d8_af56_8278a3d9be12_a2", "child": "KnodelPrimeCordial_cyc", "via": ["solution", "statement"]}
 {"parent": "N25.U25C_zero_transcendental", "child": "N25_Units", "via": ["solution", "statement"]}
 {"parent": "N25.U25C_zero_transcendental", "child": "N25_UnitSeries", "via": ["solution", "statement"]}
 {"parent": "ArgmaxDeFinetti.Supplement.theorem_6_1", "child": "ArgmaxDeFinetti_hartree2", "via": ["statement"]}
@@ -82850,7 +82850,7 @@
 {"parent": "QuantumLTF.Majority.krawtchouk_parseval", "child": "QuantumLTF_Majority_AdversaryModel", "via": ["solution", "statement"]}
 {"parent": "TimeSpaceMA_Supplement_InTIME1", "child": "TimeSpaceMA_RATM", "via": ["statement"]}
 {"parent": "N25.level25_subgroup_index", "child": "N25", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg32385", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg32385", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "IntADSat_Supplement_Determined", "child": "IntADSat_Supplement_MomentEquiv", "via": ["statement"]}
 {"parent": "AvoidPlast_Supplement_coAMOne", "child": "AvoidPlast_Machine", "via": ["statement"]}
 {"parent": "AvoidPlast_Supplement_coAMOne", "child": "AvoidPlast_Accepts", "via": ["statement"]}
@@ -82902,8 +82902,8 @@
 {"parent": "ErrAmpOV.Supplement.theorem_3_5", "child": "ErrAmpOV_ZPDecides", "via": ["statement"]}
 {"parent": "ErrAmpOV.Supplement.theorem_3_5", "child": "ErrAmpOV_SizeDecides", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_original_true_fullcell_raw_centered_square_diff_measurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_original_zero_contact_universe_restrict", "child": "AvramDividend_Classical_BVZeroContactUniversalClaim", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_original_zero_contact_universe_restrict", "child": "AvramDividend_Classical_BVZeroContactUniversalClaimType0", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_original_zero_contact_universe_restrict", "child": "AvramDividend_Classical_BVZeroContactUniversalClaim", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_original_zero_contact_universe_restrict", "child": "AvramDividend_Classical_BVZeroContactUniversalClaimType0", "via": ["solution", "statement"]}
 {"parent": "MultitaskContracts.Supplement.theorem_3", "child": "MultitaskContracts_Supplement_IsModularF", "via": ["statement"]}
 {"parent": "MultitaskContracts.Supplement.theorem_3", "child": "MultitaskContracts_Instance_MMLRP", "via": ["statement"]}
 {"parent": "MultitaskContracts.Supplement.theorem_3", "child": "MultitaskContracts_priceOfSeparation", "via": ["statement"]}
@@ -83541,9 +83541,9 @@
 {"parent": "PADMPriv.Supplement.theorem_4_4", "child": "PADMPriv_IsRDP", "via": ["statement"]}
 {"parent": "PADMPriv.Supplement.theorem_4_4", "child": "PADMPriv_Supplement_stopPadmLawLap", "via": ["statement"]}
 {"parent": "N25.unitNumeratorForm25", "child": "N25_UnitAnalytic", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch07.finiteMeanUnitOscillationsSublinear", "child": "Kyprianou_Ch07_LevyMeanAndTailTests", "via": ["statement"]}
-{"parent": "Kyprianou.Ch07.finiteMeanUnitOscillationsSublinear", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["statement"]}
-{"parent": "Kyprianou.Ch07.finiteMeanUnitOscillationsSublinear", "child": "Kyprianou_Ch07_UnitTimeOscillationObservables", "via": ["statement"]}
+{"parent": "Kyprianou.Ch07.finiteMeanUnitOscillationsSublinear", "child": "Kyprianou_Ch07_LevyMeanAndTailTests", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch07.finiteMeanUnitOscillationsSublinear", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch07.finiteMeanUnitOscillationsSublinear", "child": "Kyprianou_Ch07_UnitTimeOscillationObservables", "via": ["solution", "statement"]}
 {"parent": "MatMulTimeLP.Supplement.theorem_5_12", "child": "MatMulTimeLP_Supplement_ResidualSamplerImplementation", "via": ["statement"]}
 {"parent": "AGProxGap_Supplement_Fpoly", "child": "AGProxGap_Supplement_liftSeq", "via": ["statement"]}
 {"parent": "AnchoredEP_Supplement_IsNewtonSolver", "child": "AnchoredEP_taylorOp", "via": ["statement"]}
@@ -83661,7 +83661,7 @@
 {"parent": "FairReplay.Supplement.theorem_10_5_eq_49_50", "child": "BanditTrajectory", "via": ["statement"]}
 {"parent": "FairReplay.Supplement.theorem_10_5_eq_49_50", "child": "FairReplay_Supplement_Qthr", "via": ["statement"]}
 {"parent": "FairReplay.Supplement.theorem_10_5_eq_49_50", "child": "FairReplay_Supplement_fourWayEnv", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg28710", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg28710", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "GraphTensorCP.Supplement.theorem_5_6", "child": "GraphTensorCP_maxCut", "via": ["statement"]}
 {"parent": "GraphTensorCP.Supplement.theorem_5_6", "child": "GraphTensorCP_specWeight", "via": ["statement"]}
 {"parent": "GraphTensorCP.Supplement.theorem_5_6", "child": "mme_tensor_rank", "via": ["statement"]}
@@ -84006,7 +84006,7 @@
 {"parent": "LindbladStructLearn.Supplement.theorem_5_11", "child": "LindbladStructLearn_b1Norm", "via": ["statement"]}
 {"parent": "WitnessEncryption_Runtime_Core", "child": "OAIThreeMachineSched02", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25308", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25877", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25877", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OmniMix.Supplement.theorem_1_3", "child": "OmniMix_IsLipschitzLoss", "via": ["statement"]}
 {"parent": "OmniMix.Supplement.theorem_1_3", "child": "OmniMix_IsProper", "via": ["statement"]}
 {"parent": "OmniMix.Supplement.theorem_1_3", "child": "OmniMix_Supplement_seqRegret", "via": ["statement"]}
@@ -84060,7 +84060,7 @@
 {"parent": "GaussTesting.Supplement.theorem_9_3", "child": "GaussTesting_Supplement_IsCopyTester", "via": ["statement"]}
 {"parent": "Kyprianou.Ch06.positiveFirstMarkNullIntersectionCase", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
 {"parent": "PolyContract.Supplement.theorem_b_4", "child": "PolyContract_QuadInstance", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25754", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25754", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.geometricMeasure_oneInfinitelyDivisible", "child": "levy_foundations_isInfinitelyDivisibleLaw", "via": ["solution", "statement"]}
 {"parent": "DirKECC1549.Asm.bstate_next", "child": "DirKECC1549_Impl_SccBfs", "via": ["solution", "statement"]}
 {"parent": "N25.unitLaurentField25C_le_modularField", "child": "N25_CoefficientMap", "via": ["solution", "statement"]}
@@ -84556,7 +84556,7 @@
 {"parent": "APFPaper5.K1.ThreePairwise.recordTable_meets_K1", "child": "APFPaper5.K1.cost_is_count_times_floor", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.ThreePairwise.recordTable_meets_K1", "child": "APFPaper5.K1.dominant_table_meets_K1", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.ThreePairwise.recordTable_meets_K1", "child": "APFPaper5.K1.sharedCost_le_right", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg32171", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg32171", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "PhaseEncodedQGE.Supplement.theorem_A_16", "child": "PhaseEncodedQGE_Profile", "via": ["statement"]}
 {"parent": "PhaseEncodedQGE.Supplement.theorem_A_16", "child": "PhaseEncodedQGE_Supplement_GraphCounts", "via": ["statement"]}
 {"parent": "KeystoneLadder.SameP1Vec.trans", "child": "KeystoneLadder", "via": ["solution", "statement"]}
@@ -85256,7 +85256,7 @@
 {"parent": "SingleInteraction.Supplement.theorem_71", "child": "SingleInteraction_onCodes", "via": ["statement"]}
 {"parent": "LinSSWorst_Supplement_IsUpslice", "child": "LinSSWorst_Realizes", "via": ["statement"]}
 {"parent": "EntangledPIR.Supplement.theorem_8_2", "child": "EntangledPIR_Supplement_MultiServer", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg29608", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg29608", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "DesignTest.Supplement.theorem_6_2", "child": "DesignTest_Supplement_twirlDist", "via": ["statement"]}
 {"parent": "EuclidSPAgg.Supplement.theorem_B_1", "child": "EuclidSPAgg_IsStrategyproof", "via": ["statement"]}
 {"parent": "EuclidSPAgg.Supplement.theorem_B_1", "child": "EuclidSPAgg_menu", "via": ["statement"]}
@@ -85319,7 +85319,7 @@
 {"parent": "KMeansTaper_Supplement_IsExpectedPolyGridAlgorithm", "child": "MetricKMedian", "via": ["statement"]}
 {"parent": "KMeansTaper_Supplement_IsExpectedPolyGridAlgorithm", "child": "KMeansTaper_encodePieces", "via": ["statement"]}
 {"parent": "KMeansTaper_Supplement_IsExpectedPolyGridAlgorithm", "child": "IntQuotHNP_Supplement_LasVegas", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg31956", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg31956", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "GraphonCheeger.Supplement.theorem_5_22", "child": "GraphonCheeger_Supplement_graphModularity", "via": ["statement"]}
 {"parent": "FixpReciprocal.Supplement.theorem_5_2", "child": "FixpReciprocal_FIXPComplete", "via": ["statement"]}
 {"parent": "FixpReciprocal.Supplement.theorem_5_2", "child": "ExactAutobid_Equilibria_ROIPacing", "via": ["statement"]}
@@ -85336,7 +85336,7 @@
 {"parent": "AGProxGap_Supplement_ClosureExt", "child": "AlgebraicCurve_IsCurveOver", "via": ["statement"]}
 {"parent": "AGProxGap_Supplement_ClosureExt", "child": "AlgebraicCurve_AdelicIndex", "via": ["statement"]}
 {"parent": "QuadraticRE_Supplement_Circuit", "child": "QuadraticRE_PolyTimeFn", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a30_original_physical_negative_mark_conditional_Poisson_cell_Laplace_20261116", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a30_original_physical_negative_mark_conditional_Poisson_cell_Laplace_20261116", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RestrictedDec_Supplement_Simulates", "child": "RestrictedDec_Supplement_interact", "via": ["statement"]}
 {"parent": "RestrictedDec_Supplement_Simulates", "child": "RestrictedDec_Family", "via": ["statement"]}
 {"parent": "RestrictedDec_Supplement_Simulates", "child": "NoisyOWMPC_Negligible", "via": ["statement"]}
@@ -85410,7 +85410,7 @@
 {"parent": "IntroDelayAMDP_Supplement_alg5Policy", "child": "IntroDelayAMDP_Supplement_alg5Run", "via": ["statement"]}
 {"parent": "AlgebraicGeometry.Scheme.exists_sigma_point_equiv_of_localRing", "child": "AlgebraicGeometry_NeronModelPropertyBundleCarrier", "via": ["solution", "statement"]}
 {"parent": "TateNormalFormBridge", "child": "TateZ2xZ10Reduction", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg33121", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg33121", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MultiCollQ.Supplement.theorem_4_8", "child": "CompPermOracle_cpO", "via": ["statement"]}
 {"parent": "MultiCollQ.Supplement.theorem_4_8", "child": "MultiCollQ_Supplement_tauScale", "via": ["statement"]}
 {"parent": "MultiCollQ.Supplement.theorem_4_8", "child": "MultiCollQ_levelCount", "via": ["statement"]}
@@ -85431,13 +85431,13 @@
 {"parent": "NoPerfectRandComp_Supplement_IsSabotaged", "child": "NoPerfectRandComp_Supplement_SabSym", "via": ["statement"]}
 {"parent": "NoPerfectRandComp_Supplement_IsSabotaged", "child": "NoPerfectRandComp_PartialFn", "via": ["statement"]}
 {"parent": "Kyprianou.Ch06.zeroACountIndependentOfRepeatedOutsideMarkTimeVector", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25519", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25519", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch06.overlapCountCylinderAsDisjointAtomSumAe", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg275", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg275", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "LocalBreadth_Supplement_betaH", "child": "LocalBreadth_Supplement_deltaH", "via": ["statement"]}
 {"parent": "LocalBreadth_Supplement_betaH", "child": "LocalBreadth_Supplement_GeneratorP", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.geometricMeasureInfinitelyDivisible", "child": "levy_foundations_isInfinitelyDivisibleLaw", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch06.disjointOutsideCountVectorRectangleRepresentation", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch06.disjointOutsideCountVectorRectangleRepresentation", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
 {"parent": "CoRSuccGap.Supplement.theorem_5_1", "child": "CoRSuccGap_Supplement_FiniteVariableLogic", "via": ["statement"]}
 {"parent": "PathCount2k_Supplement_TreeAlgorithm", "child": "PathCount2k_Supplement_Embedding", "via": ["statement"]}
 {"parent": "PathCount2k_Supplement_TreeAlgorithm", "child": "CapacitatedAssort_General_Work", "via": ["statement"]}
@@ -85489,7 +85489,7 @@
 {"parent": "NoisyOWMPC.Supplement.theorem_C_2", "child": "NoisyOWMPC_IOScheme", "via": ["statement"]}
 {"parent": "NoisyOWMPC.Supplement.theorem_C_2", "child": "NoisyOWMPC_OWFExists", "via": ["statement"]}
 {"parent": "NoisyOWMPC.Supplement.theorem_C_2", "child": "NoisyOWMPC_Supplement_WiretapScheme", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25611", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25611", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "RandLatEnum_Supplement_IsBlockReducedBasis", "child": "KannanLattice_Core_Lattice", "via": ["statement"]}
 {"parent": "RandLatEnum_Supplement_IsBlockReducedBasis", "child": "RandLatEnum_revBasis", "via": ["statement"]}
 {"parent": "RandLatEnum_Supplement_IsBlockReducedBasis", "child": "KannanLattice_Core_IsReduced", "via": ["statement"]}
@@ -86032,13 +86032,13 @@
 {"parent": "SpectralFeedback.Supplement.theorem_G_5_spike_and_dip", "child": "SpectralFeedback_rewardSet", "via": ["statement"]}
 {"parent": "SpectralFeedback.Supplement.theorem_G_5_spike_and_dip", "child": "SpectralFeedback_Supplement_chi", "via": ["statement"]}
 {"parent": "SpectralFeedback.Supplement.theorem_G_5_spike_and_dip", "child": "SpectralFeedback_pairAtom", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg287", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg287", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch07.kestenSupEnvelopeAffineStep", "child": "Kyprianou_Ch07_ConvolutionLargeJumpLaw", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch07.kestenSupEnvelopeAffineStep", "child": "Kyprianou_Ch07_KestenSupEnvelope", "via": ["solution", "statement"]}
 {"parent": "PathCount2k.Supplement.theorem_1_3", "child": "PathCount2k_Supplement_CircuitAlgorithm", "via": ["statement"]}
 {"parent": "PathCount2k.Supplement.theorem_1_3", "child": "CapacitatedAssort_General_Work", "via": ["statement"]}
 {"parent": "PathCount2k.Supplement.theorem_1_3", "child": "PathCount2k_Supplement_Circuit", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg26010", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg26010", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "QaryCVP_Supplement_thetaDist", "child": "WildeQIT_binaryEntropy", "via": ["statement"]}
 {"parent": "QaryCVP_Supplement_thetaDist", "child": "QaryCVP_ent3", "via": ["statement"]}
 {"parent": "SparseDisc_Supplement_PortCondition", "child": "SparseDisc_Supplement_bundleEdges", "via": ["statement"]}
@@ -86903,8 +86903,8 @@
 {"parent": "GrothendieckLB.Supplement.theorem_5_1", "child": "GrothendieckLB_Supplement_cqA", "via": ["statement"]}
 {"parent": "GrothendieckLB.Supplement.theorem_5_1", "child": "GrothendieckLB_Supplement_cqCorr", "via": ["statement"]}
 {"parent": "GrothendieckLB.Supplement.theorem_5_1", "child": "GrothendieckLB_taylorCoeff", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_8__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_8__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_8__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_8__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["solution", "statement"]}
 {"parent": "AggCG.Supplement.theorem_5_9", "child": "AggCG_Supplement_lassoPath", "via": ["statement"]}
 {"parent": "HodgeComputer.FourPlusTwoResidual.coreCertificate_eulerGauge", "child": "HodgeComputerFourPlusTwoCore", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch07.upwardCreepingLadderDrift", "child": "Kyprianou_Ch06_AdmissibleLocalTime", "via": ["solution", "statement"]}
@@ -86912,7 +86912,7 @@
 {"parent": "Kyprianou.Ch07.upwardCreepingLadderDrift", "child": "Kyprianou_Ch06_RunningMaximumAndContact", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch07.upwardCreepingLadderDrift", "child": "Kyprianou_Ch05_FirstPassageObservables", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch07.upwardCreepingLadderDrift", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg29591", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg29591", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.qPlace_galois_fixed", "child": "ModularCurve_JqCoeff", "via": ["statement"]}
 {"parent": "N25.qPlace_galois_fixed", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "N25.qPlace_galois_fixed", "child": "ModularCurve_QAdicPlace", "via": ["solution", "statement"]}
@@ -86994,8 +86994,8 @@
 {"parent": "N25.unitDenominatorForm25", "child": "ModularCurve.qExpansion_discriminant_eq_map_X_mul_dedekindEtaUnit", "via": ["solution", "statement"]}
 {"parent": "ICSCompute_Supplement_IsPurifiablePMG", "child": "ICSCompute_IsProcessMatrix", "via": ["statement"]}
 {"parent": "ICSCompute_Supplement_IsPurifiablePMG", "child": "ICSCompute_IsPurePMG", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_fullcell_Hessian_cross_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_fullcell_Hessian_cross_integrable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_fullcell_Hessian_cross_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_fullcell_Hessian_cross_integrable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "N25_UnitPlaneRationalPoint", "child": "Algebra_LocalizationAtPrimeResidue", "via": ["statement"]}
 {"parent": "N25_UnitPlaneRationalPoint", "child": "N25_UnitPlaneRing", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_a27_original_finite_marked_support_grid_mismatch_forces_double_source_cell_20261116", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -87049,7 +87049,7 @@
 {"parent": "MatrixLeeSidford_Supplement_gradMatG", "child": "MatrixLeeSidford_Lmap", "via": ["statement"]}
 {"parent": "MatrixLeeSidford_Supplement_gradMatG", "child": "MatrixLeeSidford_Supplement_cholFactor", "via": ["statement"]}
 {"parent": "BilatMatch_Supplement_IsGridApprox", "child": "BilatMatch_rounding", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg33028", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg33028", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "GoodReductionJacobian.RelativeGroupLaw.division_carry_lift", "child": "AlgebraicGeometry_NeronModelPropertyBundleCarrier", "via": ["solution", "statement"]}
 {"parent": "GoodReductionJacobian.RelativeGroupLaw.division_carry_lift", "child": "AlgebraicGeometry_RelativeGroupLawEndDegree", "via": ["solution", "statement"]}
 {"parent": "GoodReductionJacobian.RelativeGroupLaw.division_carry_lift", "child": "GoodReductionJacobian.RelativeGroupLaw.coe_nsmul_eq_comp_schemeNsmul", "via": ["solution", "statement"]}
@@ -87063,7 +87063,7 @@
 {"parent": "AvoidPlast_Supplement_satLang", "child": "AvoidPlast_Supplement_cnfRecords", "via": ["statement"]}
 {"parent": "N25_UnitPlaneAlgebraOverRing", "child": "N25_CanonicalUnitPlane", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25528", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "CallCountPOPBR.Supplement.theorem_7_8", "child": "CallCountPOPBR_Supplement_BinSpec", "via": ["statement"]}
+{"parent": "CallCountPOPBR.Supplement.theorem_7_8", "child": "CallCountPOPBR_Supplement_BinSpec", "via": ["solution", "statement"]}
 {"parent": "N25.gamma_field_order", "child": "ModularCurve.diamondAutHBar_mul_and_diamondAutHBar_one", "via": ["solution", "statement"]}
 {"parent": "N25.gamma_field_order", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "RollingProbeQN.Convex.Supplement.theorem_4_2", "child": "RollingProbeQN_Convex_Supplement_Assumptions", "via": ["statement"]}
@@ -87097,8 +87097,8 @@
 {"parent": "HypRecov.Supplement.theorem_3_4", "child": "HypRecov_Supplement_IsCutDegenerate", "via": ["statement"]}
 {"parent": "RQCMoments.Supplement.theorem_6_4", "child": "QAlgorithms_Defs_SchurUnitaryEnsembles", "via": ["statement"]}
 {"parent": "BlockBochner_Supplement_onGibbs", "child": "BlockBochner_Supplement_haarSphere", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_cash_after_Hessian_cross_positive_L1_residual", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_cash_after_Hessian_cross_positive_L1_residual", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_cash_after_Hessian_cross_positive_L1_residual", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_cash_after_Hessian_cross_positive_L1_residual", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.Connections.count_valued_bill_is_flat", "child": "APFPaper5_K3_free_number_on_each_connection_Vocabulary", "via": ["solution", "statement"]}
 {"parent": "N25_LocalKummerPolynomial", "child": "N25_LocalKummerKernel", "via": ["statement"]}
 {"parent": "KTUnitary_Synth_Supplement_projUnitaryPSPACEU", "child": "KTUnitary_Synth_opNorm", "via": ["statement"]}
@@ -87332,7 +87332,7 @@
 {"parent": "N25.piEnd_surjective_on_M", "child": "GoodReductionJacobian.RelativeGroupLaw.exists_neronModelPropertyBundle_genericFibre_iso_of_abelianSchemePropertyBundle_of_henselianLocalRing", "via": ["solution", "statement"]}
 {"parent": "N25.piEnd_surjective_on_M", "child": "ValuationSubring.exists_mem_inertiaSubgroupIn_padicIntegers_localGaloisToGlobal_eq", "via": ["solution", "statement"]}
 {"parent": "N25.etaAnalytic25_eq_product", "child": "N25_UnitAnalytic", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25314", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25314", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "FRouting.Supplement.theorem_7_10", "child": "FRouting_StrMachine", "via": ["statement"]}
 {"parent": "FRouting.Supplement.theorem_7_10", "child": "FRouting_Supplement_measureProb", "via": ["statement"]}
 {"parent": "FRouting.Supplement.theorem_7_10", "child": "FRouting_Supplement_PauliSparse", "via": ["statement"]}
@@ -87386,12 +87386,12 @@
 {"parent": "NoisyOWMPC.Supplement.theorem_E_9", "child": "NoisyOWMPC_KeyedFamily", "via": ["statement"]}
 {"parent": "SigmoidWire_Supplement_IsTHRoMAJ", "child": "SigmoidWire_Supplement_IntWeightsLe", "via": ["statement"]}
 {"parent": "SigmoidWire_Supplement_IsTHRoMAJ", "child": "SigmoidWire_Circuit", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg295", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg295", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "ResultantVNP_Supplement_BoolCircuit", "child": "ApproxPolySatCH_Main_Inputs", "via": ["statement"]}
 {"parent": "LocalSepDecomp.Supplement.theorem_2", "child": "LocalSepDecomp_Cutouts", "via": ["statement"]}
 {"parent": "LocalSepDecomp.Supplement.theorem_2", "child": "LocalSepDecomp_Supplement_Encoding", "via": ["statement"]}
 {"parent": "DiagLinesLDT.Supplement.theorem_10_1", "child": "DiagLinesLDT_Supplement_TotalDegreeStrategy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch06.outsideCountVectorCompatibleRectangleRepresentation", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch06.outsideCountVectorCompatibleRectangleRepresentation", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
 {"parent": "AsymSpecConn_Supplement_nonCrossing", "child": "mme_flattening", "via": ["statement"]}
 {"parent": "AsymSpecConn_Supplement_nonCrossing", "child": "AsymSpecConn_Supplement_basicMM", "via": ["statement"]}
 {"parent": "AsymSpecConn_Supplement_nonCrossing", "child": "mme_tensor_quotient", "via": ["statement"]}
@@ -87434,7 +87434,7 @@
 {"parent": "PADMPriv_Supplement_stopPadmLawLap", "child": "PADMPriv_padmIter", "via": ["statement"]}
 {"parent": "PADMPriv_Supplement_stopPadmLawLap", "child": "PADMPriv_Supplement_lapNoise", "via": ["statement"]}
 {"parent": "PADMPriv_Supplement_stopPadmLawLap", "child": "PADMPriv_stopLaw", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg314", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg314", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "KarpLiptonOM_Supplement_IsRowCert", "child": "KarpLiptonOM_Circuit_eval", "via": ["statement"]}
 {"parent": "MultitaskContracts_Supplement_clippedContract", "child": "MultitaskContracts_Instance_tSep", "via": ["statement"]}
 {"parent": "MultitaskContracts_Supplement_clippedContract", "child": "MultitaskContracts_Instance", "via": ["statement"]}
@@ -87574,8 +87574,8 @@
 {"parent": "NewtonLCP.Supplement.theorem_4_2", "child": "NewtonLCP_Supplement_Algorithm1", "via": ["statement"]}
 {"parent": "NewtonLCP.Supplement.theorem_4_2", "child": "NewtonLCP_Centrality", "via": ["statement"]}
 {"parent": "N25.siegelDilation_gamma0", "child": "ModularCurve_SiegelFunction", "via": ["solution", "statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_4__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_4__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_4__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_4__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25571", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "TiltedCvx_Supplement_IsPseudoconvex", "child": "TiltedCvx_effDom", "via": ["statement"]}
 {"parent": "TiltedCvx_Supplement_IsPseudoconvex", "child": "ClarkeStrat_Proj_Setting", "via": ["statement"]}
@@ -87699,8 +87699,8 @@
 {"parent": "Kyprianou.ProofPreparation.total_count_event_measure_le_prefix", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.ProofPreparation.total_count_event_measure_le_prefix", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "DQIShattered.Supplement.theorem_4_6", "child": "DQIShattered_Supplement_Framework", "via": ["statement"]}
-{"parent": "CorrelatedRounding.exists_alg1_draw__p2m_61ba9ba4_6281_4f25_8ae8_6ab3c87d78d1_a1", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.exists_alg1_draw__p2m_61ba9ba4_6281_4f25_8ae8_6ab3c87d78d1_a1", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["statement"]}
+{"parent": "CorrelatedRounding.exists_alg1_draw__p2m_61ba9ba4_6281_4f25_8ae8_6ab3c87d78d1_a1", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.exists_alg1_draw__p2m_61ba9ba4_6281_4f25_8ae8_6ab3c87d78d1_a1", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["solution", "statement"]}
 {"parent": "ProofCryptoSynergy_Supplement_NPNotBPP", "child": "ProofCryptoSynergy_InUTIME", "via": ["statement"]}
 {"parent": "ProofCryptoSynergy_Supplement_NPNotBPP", "child": "ProofCryptoSynergy_promiseBPP", "via": ["statement"]}
 {"parent": "SparseHistComm.Supplement.theorem_1", "child": "SparseHistComm_threshold", "via": ["statement"]}
@@ -87710,7 +87710,7 @@
 {"parent": "Kyprianou.Ch06.firstArrivalIndependentOfArbitraryDisjointOutsideCylinder", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
 {"parent": "CoRSuccGap_Supplement_TermSize", "child": "CoRSuccGap_Term", "via": ["statement"]}
 {"parent": "GraphonCheeger_Supplement_GraphonClass", "child": "GraphonCheeger_Supplement_homDens", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25054", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25054", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "MFHeisGibbs_Supplement_Generators", "child": "MFHeisGibbs_Generators", "via": ["statement"]}
 {"parent": "OptTwoSrcExt.Supplement.theorem_2_30", "child": "OptTwoSrcExt_fourier", "via": ["statement"]}
 {"parent": "OptTwoSrcExt.Supplement.theorem_2_30", "child": "OptTwoSrcExt_Supplement_IsRectPartition", "via": ["statement"]}
@@ -87834,7 +87834,7 @@
 {"parent": "ShamirLLR.Supplement.theorem_2", "child": "ShamirLLR_deltaClass", "via": ["statement"]}
 {"parent": "ShamirLLR.Supplement.theorem_2", "child": "ShamirLLR_insec", "via": ["statement"]}
 {"parent": "AvgCaseTI_Supplement_epsOrth", "child": "AvgCaseTI_Tensor3", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25547", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25547", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "APFPaper5_K2_StateClass", "child": "APFPaper5_K1_PartyScore", "via": ["statement"]}
 {"parent": "APFPaper5_K2_StateClass", "child": "APFPaper5_K1_MarkTable", "via": ["statement"]}
 {"parent": "NoPerfectRandComp_Supplement_noisyOut", "child": "NoPerfectRandComp_Supplement_reachProb", "via": ["statement"]}
@@ -88107,7 +88107,7 @@
 {"parent": "APFPaper1_RecordOccupant_three_way_relation_Vocabulary", "child": "APFPaper1.RecordOccupant.Triangle.three_cannot_be_kept", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB52_c_nonpositive_original_fixedband_cash", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB52_c_nonpositive_original_fixedband_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg28056", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg28056", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "HZTractability_Supplement_PCPforPPAD", "child": "CEPolytopeHard_PPADHard", "via": ["statement"]}
 {"parent": "HZTractability_Supplement_PCPforPPAD", "child": "HZTractability_Supplement_weakPureCircuit", "via": ["statement"]}
 {"parent": "RQCMoments.Supplement.theorem_6_3", "child": "RQCMoments_IsStrongDesign", "via": ["statement"]}
@@ -88152,7 +88152,7 @@
 {"parent": "TwoStageRnQ.Ltwo_le_LBsp", "child": "TwoStageRnQ_Analytic", "via": ["solution", "statement"]}
 {"parent": "N25.unitSeries25_mem", "child": "N25_UnitAnalytic", "via": ["solution", "statement"]}
 {"parent": "Kyprianou_Ch07_KestenSupEnvelope", "child": "Kyprianou_Ch07_ConvolutionLargeJumpLaw", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg31299", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg31299", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "SharpConsist_Supplement_optAt", "child": "SharpConsist_OPTk", "via": ["statement"]}
 {"parent": "AlgebraicCurve_PlaceAlgEquiv", "child": "AlgebraicCurve_DivisorClassGroup", "via": ["statement"]}
 {"parent": "Kyprianou.Ch06.markedPoissonArrivalOutsideThreeOrMoreNonUniformZero", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
@@ -88396,7 +88396,7 @@
 {"parent": "AsymSpecConn_Supplement_basicMM", "child": "mme_permutation", "via": ["statement"]}
 {"parent": "AsymSpecConn_Supplement_basicMM", "child": "AsymSpecConn_flatRank", "via": ["statement"]}
 {"parent": "AsymSpecConn_Supplement_basicMM", "child": "mme_tensor_quotient", "via": ["statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg3337", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg3337", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "DirTeleMC_Supplement_LPSepRun", "child": "DirTeleMC_Supplement_PhaseScheduleRun", "via": ["statement"]}
 {"parent": "DirTeleMC_Supplement_LPSepRun", "child": "DirTeleMC_FallbackRun", "via": ["statement"]}
 {"parent": "CorrelatedLocalSearch.Supplement.theorem_3_1", "child": "CorrelatedLocalSearch_Supplement_RetryTasks", "via": ["statement"]}
@@ -88510,8 +88510,8 @@
 {"parent": "FairReplay.Supplement.theorem_10_5_eq_47_48", "child": "BanditTrajectory", "via": ["statement"]}
 {"parent": "FairReplay.Supplement.theorem_10_5_eq_47_48", "child": "FairReplay_expectedRounds", "via": ["statement"]}
 {"parent": "FairReplay.Supplement.theorem_10_5_eq_47_48", "child": "FairReplay_fourWayModel", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_0__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["statement"]}
-{"parent": "KnodelPrimeCordial.case_mod_0__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_0__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
+{"parent": "KnodelPrimeCordial.case_mod_0__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["solution", "statement"]}
 {"parent": "FourierEntropyApprox.Supplement.theorem_4_1", "child": "FourierEntropyApprox_fourierCoeff", "via": ["statement"]}
 {"parent": "APFPaper5.K1.counted_family_meets_K1", "child": "APFPaper5.K1.PaidPair.b05_holds", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.counted_family_meets_K1", "child": "APFPaper5.K1.Twins.single_novel_over_empty", "via": ["solution", "statement"]}
@@ -88560,11 +88560,11 @@
 {"parent": "N25.level25_row_scaling_iff", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "QuadraticRE.Supplement.theorem_6_13", "child": "QuadraticRE_Supplement_CSConstruction", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg27003", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Lee2", "via": ["statement"]}
-{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_PD", "via": ["statement"]}
-{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Lee1", "via": ["statement"]}
-{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Movie", "via": ["statement"]}
-{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Kirby", "via": ["statement"]}
+{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Lee2", "via": ["solution", "statement"]}
+{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_PD", "via": ["solution", "statement"]}
+{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Lee1", "via": ["solution", "statement"]}
+{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Movie", "via": ["solution", "statement"]}
+{"parent": "ManolescuPiccirillo.rasmussenS_unknot", "child": "ManolescuPiccirillo_Kirby", "via": ["solution", "statement"]}
 {"parent": "MazurProof.RationalPointsN25QuotientAction.isCusp25_iff", "child": "RationalPointsN25QuotientAction", "via": ["solution", "statement"]}
 {"parent": "LinSSWorst.Supplement.theorem_1_5", "child": "LinSSWorst_Realizes", "via": ["statement"]}
 {"parent": "LinSSWorst.Supplement.theorem_1_5", "child": "LinSSWorst_Supplement_RealizesGen", "via": ["statement"]}
@@ -88841,7 +88841,7 @@
 {"parent": "KnodelPrimeCordial.case_mod_6_edge_count_by_offsets__p2m_8a6c92bd_7c8f_41ac_9c83_07dd1e357c6c_a1", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_6_edge_count_by_offsets__p2m_8a6c92bd_7c8f_41ac_9c83_07dd1e357c6c_a1", "child": "KnodelPrimeCordial_labelF", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_6_edge_count_by_offsets__p2m_8a6c92bd_7c8f_41ac_9c83_07dd1e357c6c_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg25753", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg25753", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33432", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.intersectionTransform_parseval_of_cross_zero", "child": "QuantumLTF_Majority_AdversaryModel", "via": ["solution", "statement"]}
 {"parent": "RobustFcstAgg.Supplement.theorem_2", "child": "RobustFcstAgg_Supplement_HasDiffQueries", "via": ["statement"]}
@@ -89018,7 +89018,7 @@
 {"parent": "AvoidPlast.Supplement.theorem_5_9", "child": "AvoidPlast_Supplement_sigmaAccepts", "via": ["statement"]}
 {"parent": "DirKECC1549.Asm.bstate_scc", "child": "DirKECC1549_Impl_SccBfs", "via": ["solution", "statement"]}
 {"parent": "groupCohomology.restriction_injective_of_index_five", "child": "groupCohomology.exists_corestriction_map_map_res_eq_map_norm", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg2707", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg2707", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "FirstOrderFG_Supplement_Alg1_expLoss", "child": "FirstOrderFG_Supplement_Alg1_play", "via": ["statement"]}
 {"parent": "FirstOrderFG_Supplement_Alg1_expLoss", "child": "FirstOrderFG_pathLoss", "via": ["statement"]}
 {"parent": "FirstOrderFG_Supplement_Alg1_expLoss", "child": "FirstOrderFG_treeExp", "via": ["statement"]}
@@ -89122,7 +89122,7 @@
 {"parent": "DSICCompComp_Supplement_lagrangian", "child": "DSICCompComp_Supplement_dsicSlack", "via": ["statement"]}
 {"parent": "ReplicableOL_Supplement_offset", "child": "ReplicableOL_Supplement_Seed", "via": ["statement"]}
 {"parent": "N25.unitAnalytic25_A7", "child": "N25_UnitAnalytic", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg262", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg262", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalProjScalarSection25", "child": "N25_CanonicalPrincipalOpenChart", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalProjScalarSection25", "child": "N25_CanonicalProjectiveCharts", "via": ["solution", "statement"]}
 {"parent": "N25.canonicalProjScalarSection25", "child": "N25_CanonicalProjectivePrincipalOpen", "via": ["solution", "statement"]}
@@ -89233,7 +89233,7 @@
 {"parent": "APFPaper5.K2.heldAfter_comp", "child": "APFPaper5.K1.source_counted_family_meets_all_of_K1_with_identity_exchange", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.heldAfter_comp", "child": "APFPaper5.K1.orientationForm_zero_of_symm", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.heldAfter_comp", "child": "APFPaper5.K1.tableForm_isBilinear", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquare.sg28712", "child": "OAIQ259US007", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquare.sg28712", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "Kyprianou_Ch07_certificate_result_7_12", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["statement"]}
 {"parent": "Kyprianou_Ch07_certificate_result_7_12", "child": "Kyprianou_Ch06_LevyKhintchineTriple", "via": ["statement"]}
 {"parent": "N25.characterField_exists_norm_cover", "child": "N25_CharacterField", "via": ["solution", "statement"]}

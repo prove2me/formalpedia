@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_Supplement_theorem_C_1
 -- name    : CompDesign.Supplement.theorem_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T21:02:47.689789+00:00
 -- url     : https://prove2.me/theorems/521d7bd1-7c1c-4a12-a8e4-71f0dc90845d

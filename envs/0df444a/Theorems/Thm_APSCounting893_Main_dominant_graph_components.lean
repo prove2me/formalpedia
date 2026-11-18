@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_dominant_graph_components
 -- name    : APSCounting893.Main.dominant_graph_components
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:24:35.164767+00:00
 -- url     : https://prove2.me/theorems/1b1cd5bf-5b86-4a06-870b-034d8ab295fd

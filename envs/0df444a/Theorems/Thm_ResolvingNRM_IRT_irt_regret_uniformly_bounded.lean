@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_irt_regret_uniformly_bounded
 -- name    : ResolvingNRM.IRT.irt_regret_uniformly_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:21:48.112213+00:00
 -- url     : https://prove2.me/theorems/bcd79de5-55c0-40d0-b9d8-70530366ccd5

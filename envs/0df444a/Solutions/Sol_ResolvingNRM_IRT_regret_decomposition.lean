@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResolvingNRM.IRT.regret_decomposition
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T03:08:55.550473+00:00
 -- url     : https://prove2.me/submissions/402efa36-20d9-417c-a2bb-ad47cd08db6b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RLPBidPrice_Unbiased_Model

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for artin_primitive_root_conjecture
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-08T08:50:00.939921+00:00
 -- url     : https://prove2.me/submissions/6d2d975f-64ab-4981-afa2-476723c44dc2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ArtinPrimitiveRoots_primitive_root_primes_lower_bound

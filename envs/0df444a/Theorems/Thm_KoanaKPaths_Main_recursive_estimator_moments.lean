@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KoanaKPaths_Main_recursive_estimator_moments
 -- name    : KoanaKPaths.Main.recursive_estimator_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:36:53.928514+00:00
 -- url     : https://prove2.me/theorems/954b8c2f-a5f4-4d0d-acb9-03c60fba50ce

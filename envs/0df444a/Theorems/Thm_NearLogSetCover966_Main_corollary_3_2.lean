@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLogSetCover966_Main_corollary_3_2
 -- name    : NearLogSetCover966.Main.corollary_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T09:22:10.69765+00:00
 -- url     : https://prove2.me/theorems/1c69bc21-0f8b-4e0c-8e2e-215aa92daefc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditGV897_Main_choosing_syndrome
 -- name    : EditGV897.Main.choosing_syndrome
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:27:13.074831+00:00
 -- url     : https://prove2.me/theorems/b71654ba-ebcb-4e08-b1a9-870670a70109

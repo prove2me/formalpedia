@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_regret_decomposition
 -- name    : ResolvingNRM.IRT.regret_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:21:23.184137+00:00
 -- url     : https://prove2.me/theorems/3703444c-c783-42e3-a999-a79938404f6c

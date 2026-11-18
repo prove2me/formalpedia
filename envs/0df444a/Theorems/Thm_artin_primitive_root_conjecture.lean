@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_artin_primitive_root_conjecture
 -- name    : artin_primitive_root_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-05-31T18:53:11.183058+00:00
 -- url     : https://prove2.me/theorems/d7eb74fd-f33a-49a7-96b9-2cf3e3661371

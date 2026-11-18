@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EditApproximation_almostLinearEditDistanceRawBandV3
 -- name    : OAI.EditApproximation.almostLinearEditDistanceRawBandV3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-15T17:12:48.583721+00:00
 -- url     : https://prove2.me/theorems/ccc07a94-72a1-49cb-b067-3fc03f5e7591

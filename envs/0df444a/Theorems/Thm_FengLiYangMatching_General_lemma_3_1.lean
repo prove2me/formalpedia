@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FengLiYangMatching_General_lemma_3_1
 -- name    : FengLiYangMatching.General.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:48:16.928748+00:00
 -- url     : https://prove2.me/theorems/ab1825d7-ad5d-4314-b72a-17d38351307c

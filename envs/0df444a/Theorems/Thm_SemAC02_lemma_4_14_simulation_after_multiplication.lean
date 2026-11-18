@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_4_14_simulation_after_multiplication
 -- name    : SemAC02.lemma_4_14_simulation_after_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:30:12.400698+00:00
 -- url     : https://prove2.me/theorems/ea547295-e968-4ff3-93e0-1780ff0170b5

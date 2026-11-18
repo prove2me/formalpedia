@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_p4_f11_upper_boundary_positive_horizon
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-06T19:08:04.010673+00:00
 -- url     : https://prove2.me/submissions/16f3a099-c444-43c5-9350-17ce30e4d358
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Filtration
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

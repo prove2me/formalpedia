@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GamblersFallacy_proposition_2_last_inequality
 -- name    : GamblersFallacy.proposition_2_last_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:16.86561+00:00
 -- url     : https://prove2.me/theorems/adcc37e4-d5d2-4d88-981c-19c87352b16e

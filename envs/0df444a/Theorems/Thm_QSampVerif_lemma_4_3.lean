@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QSampVerif_lemma_4_3
 -- name    : QSampVerif.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-11T08:28:49.943278+00:00
 -- url     : https://prove2.me/theorems/64d4edae-d31b-416d-baca-6aafe72515a7

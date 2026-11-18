@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RybinAI2026_P16_extend_five_to_six_partial_hadamards
 -- name    : RybinAI2026.P16.extend_five_to_six_partial_hadamards
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-06T16:41:42.72776+00:00
 -- url     : https://prove2.me/theorems/3d1344f3-b888-45d6-a4f8-0b44039baa4c

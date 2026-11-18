@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopDownParity1043_Main_corollary_1
 -- name    : TopDownParity1043.Main.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:20:14.271232+00:00
 -- url     : https://prove2.me/theorems/c3f78ba8-6eb9-4f43-8d69-04a56e94092b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_upperSum_le_of_refinement
 -- name    : upperSum_le_of_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:56:37.130948+00:00
 -- url     : https://prove2.me/theorems/77a505b3-b1ca-43be-8d1a-82e6587fa243

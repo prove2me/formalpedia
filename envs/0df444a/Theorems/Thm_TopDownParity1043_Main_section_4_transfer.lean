@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopDownParity1043_Main_section_4_transfer
 -- name    : TopDownParity1043.Main.section_4_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:18:49.612585+00:00
 -- url     : https://prove2.me/theorems/6a0cfbe3-ebd4-4ee0-ad80-42b1e2cf4332

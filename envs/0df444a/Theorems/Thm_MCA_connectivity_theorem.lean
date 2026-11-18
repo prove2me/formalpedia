@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCA_connectivity_theorem
 -- name    : MCA.connectivity_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @chenyu
 -- created : 2026-10-30T11:36:08.216761+00:00
 -- url     : https://prove2.me/theorems/9bb9afd4-d7d4-42c0-9eed-abfdead90bea

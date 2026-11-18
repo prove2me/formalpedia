@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingInvCensored_eq_7
 -- name    : PricingInvCensored.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:50:15.206915+00:00
 -- url     : https://prove2.me/theorems/4b704190-a3de-411b-be46-4ab104561dde

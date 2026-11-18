@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.KadisonKastler.publishedCentralPairDecomposition
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-13T19:08:50.693941+00:00
 -- url     : https://prove2.me/submissions/00e37614-fe14-45c1-bc12-0b6b2df92832
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Mathlib.Algebra.Algebra.Basic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_one_bit_perturbation
 -- name    : RandomOracleUnitarySynthesis.synthesis_one_bit_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:56:02.719893+00:00
 -- url     : https://prove2.me/theorems/b7d40f4b-fb92-42dc-b96a-19f7be282608

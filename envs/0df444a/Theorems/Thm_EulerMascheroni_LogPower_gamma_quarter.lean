@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EulerMascheroni_LogPower_gamma_quarter
 -- name    : EulerMascheroni.LogPower.gamma_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-09T09:32:04.797694+00:00
 -- url     : https://prove2.me/theorems/682d4f65-956e-4f6d-bf24-999036b554a5

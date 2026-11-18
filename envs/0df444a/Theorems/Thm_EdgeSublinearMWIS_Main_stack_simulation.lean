@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeSublinearMWIS_Main_stack_simulation
 -- name    : EdgeSublinearMWIS.Main.stack_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:41:47.763197+00:00
 -- url     : https://prove2.me/theorems/c9772ca6-0dfc-48a1-b62f-f8127cf4b280

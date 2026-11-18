@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArtinPrimitiveRoots.exists_cutoff_exists_thetaSum_rowElt_eq_tsum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-18T04:52:15.216118+00:00
 -- url     : https://prove2.me/submissions/3d9a07af-8762-4945-9213-d56a186684bf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ArtinHecke
 import Definitions.Def_ArtinHeckeProbe

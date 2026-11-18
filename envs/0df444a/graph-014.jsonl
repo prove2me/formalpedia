@@ -72443,8 +72443,6 @@
 {"parent": "OAI.SnakyCertificate.Check.cache_summary_595", "child": "OAIQ114S000", "via": ["solution", "statement"]}
 {"parent": "OAI.SnakyCertificate.Check.cache_summary_595", "child": "SnakyCertificate", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Bridge50.P16.postAmplification", "child": "QAlgorithms_Papers_Independent_Bridge50_P16", "via": ["statement"]}
-{"parent": "OAI.KLInvariance.BruhatGraph.boundary_edge_image_le", "child": "KLInvariance", "via": ["statement"]}
-{"parent": "OAI.KLInvariance.BruhatGraph.boundary_edge_image_le", "child": "OAIQ124K015", "via": ["statement"]}
 {"parent": "DerivativeChainPrivate.sixth_septic_upper_graphs", "child": "DerivativeChainPrivate_foundations", "via": ["solution", "statement"]}
 {"parent": "DerivativeChainPrivate.sixth_septic_upper_graphs", "child": "DerivativeChainPrivate_SixthSepticInverse", "via": ["solution", "statement"]}
 {"parent": "DerivativeChainContinuation.positive_spoke_derivative_closed", "child": "DerivativeChainPrivate_foundations", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyColoringLCA969_LowerBound_observation_3_5
 -- name    : GreedyColoringLCA969.LowerBound.observation_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T09:43:23.546581+00:00
 -- url     : https://prove2.me/theorems/04b7b9ec-b26d-43cb-9019-fdeda72d1f4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HWMaskLeak_lemma_C_4
 -- name    : HWMaskLeak.lemma_C_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:29:40.541456+00:00
 -- url     : https://prove2.me/theorems/c25ca3a4-e5f2-427f-8f11-2082d6e969bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_thm_5_1_union_bound
 -- name    : CompDesign.thm_5_1_union_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:52:50.786077+00:00
 -- url     : https://prove2.me/theorems/0e74526c-cc23-4dd6-b6d0-f4cff803c0b1

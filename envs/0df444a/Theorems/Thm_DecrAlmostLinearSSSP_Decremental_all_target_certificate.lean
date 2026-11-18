@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_all_target_certificate
 -- name    : DecrAlmostLinearSSSP.Decremental.all_target_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:52:25.303356+00:00
 -- url     : https://prove2.me/theorems/36c36b86-85d4-41d8-bb42-fada7092b61f

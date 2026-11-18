@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArcKayles192_PSPACE_lemma_6
 -- name    : ArcKayles192.PSPACE.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:03:34.648746+00:00
 -- url     : https://prove2.me/theorems/20890ca0-bade-4307-bd0f-2cb264fc34e2

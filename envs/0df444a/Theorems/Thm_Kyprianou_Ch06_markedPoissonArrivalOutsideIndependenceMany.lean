@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch06_markedPoissonArrivalOutsideIndependenceMany
 -- name    : Kyprianou.Ch06.markedPoissonArrivalOutsideIndependenceMany
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T08:28:06.67502+00:00
 -- url     : https://prove2.me/theorems/8db5db8d-bd93-42ee-be10-e991336fecb1

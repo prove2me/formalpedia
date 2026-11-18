@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KoanaKPaths_Main_determinant_tensor_moments
 -- name    : KoanaKPaths.Main.determinant_tensor_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:36:53.10479+00:00
 -- url     : https://prove2.me/theorems/24df3a9d-809d-4c1b-94d9-2cb59f6a3d63

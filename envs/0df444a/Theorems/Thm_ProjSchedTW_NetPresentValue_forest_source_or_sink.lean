@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_NetPresentValue_forest_source_or_sink
 -- name    : ProjSchedTW.NetPresentValue.forest_source_or_sink
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T11:07:51.353963+00:00
 -- url     : https://prove2.me/theorems/7963f9e6-6362-4c82-adbc-1032f09baecb

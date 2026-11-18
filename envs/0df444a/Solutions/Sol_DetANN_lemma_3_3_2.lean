@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for DetANN.lemma_3_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @milia
 -- created : 2026-11-16T19:19:55.246443+00:00
 -- url     : https://prove2.me/submissions/19c10a86-fac4-4d96-8f89-55e2c61b6208
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PNormReg_Machine

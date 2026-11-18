@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffDisp4n_exchange_matrix_invertible
 -- name    : AffDisp4n.exchange_matrix_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:55:33.30942+00:00
 -- url     : https://prove2.me/theorems/78b8c8e3-ee65-4336-bc1e-5bd7f959f09e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerShortcuts_Main_lemma_2_4
 -- name    : SteinerShortcuts.Main.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:34:43.105203+00:00
 -- url     : https://prove2.me/theorems/f21ce0ae-9751-49d3-bb4c-431d555fdcb5

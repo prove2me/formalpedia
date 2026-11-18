@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_8_12_covering_gadget
 -- name    : SemAC02.lemma_8_12_covering_gadget
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:28:03.878495+00:00
 -- url     : https://prove2.me/theorems/bd34dffa-01ad-46fc-9810-c35bc76665ba

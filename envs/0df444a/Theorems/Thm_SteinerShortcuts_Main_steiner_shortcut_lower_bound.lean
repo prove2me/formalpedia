@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerShortcuts_Main_steiner_shortcut_lower_bound
 -- name    : SteinerShortcuts.Main.steiner_shortcut_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:35:24.985166+00:00
 -- url     : https://prove2.me/theorems/c654a21e-eaf6-4ab8-96d3-ec2d5c9507bd

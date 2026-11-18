@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_approximate_vanishing_iff
 -- name    : APSCounting893.Main.approximate_vanishing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:01:39.658208+00:00
 -- url     : https://prove2.me/theorems/80504381-e9fb-4f67-9b3f-432831540ee8

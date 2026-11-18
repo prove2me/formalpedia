@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBPSSW_Distill_random_parity_agree
 -- name    : BBPSSW.Distill.random_parity_agree
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:15:56.385094+00:00
 -- url     : https://prove2.me/theorems/fcb4236c-0245-4aff-a4c1-f2a292efb6e1

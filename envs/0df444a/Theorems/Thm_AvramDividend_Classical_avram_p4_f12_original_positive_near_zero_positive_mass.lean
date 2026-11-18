@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f12_original_positive_near_zero_positive_mass
 -- name    : AvramDividend.Classical.avram_p4_f12_original_positive_near_zero_positive_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T19:03:50.611331+00:00
 -- url     : https://prove2.me/theorems/e07bb5e6-dc38-49f8-b63a-254bb51f221d

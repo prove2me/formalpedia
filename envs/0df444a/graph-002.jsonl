@@ -73833,16 +73833,16 @@
 {"parent": "LipariNeutrino.two_flavor_transition_prob", "child": "LipariNeutrino_MixingMatrices", "via": ["solution", "statement"]}
 {"parent": "LipariNeutrino.two_flavor_transition_prob", "child": "LipariNeutrino_OscillationProbability", "via": ["solution", "statement"]}
 {"parent": "LipschitzOnWith.exists_cover_image_unitCube", "child": "TauCeti_Topology_MetricSpace_LipschitzParametrizable", "via": ["statement"]}
-{"parent": "LittleCharity.EFX.lemma_2", "child": "LittleCharity_EFX_Setting", "via": ["statement"]}
+{"parent": "LittleCharity.EFX.lemma_2", "child": "LittleCharity_EFX_Setting", "via": ["solution", "statement"]}
 {"parent": "LittleCharity.EFX.lemma_4_a", "child": "LittleCharity_EFX_Setting", "via": ["solution", "statement"]}
-{"parent": "LittleCharity.EFX.lemma_4_b", "child": "LittleCharity_EFX_Setting", "via": ["statement"]}
-{"parent": "LittleCharity.EFX.lemma_5", "child": "LittleCharity_EFX_Setting", "via": ["statement"]}
+{"parent": "LittleCharity.EFX.lemma_4_b", "child": "LittleCharity_EFX_Setting", "via": ["solution", "statement"]}
+{"parent": "LittleCharity.EFX.lemma_5", "child": "LittleCharity_EFX_Setting", "via": ["solution", "statement"]}
 {"parent": "LittleCharity.EFX.lemma_6", "child": "LittleCharity_EFX_Setting", "via": ["statement"]}
 {"parent": "LittleCharity.EFX.lemma_7", "child": "LittleCharity_EFX_Setting", "via": ["statement"]}
 {"parent": "LittleCharity.EFX.theorem_8", "child": "LittleCharity_EFX_Setting", "via": ["solution", "statement"]}
-{"parent": "LittleCharity.GMMS.lemma_17_a", "child": "LittleCharity_GMMS_Setting", "via": ["statement"]}
+{"parent": "LittleCharity.GMMS.lemma_17_a", "child": "LittleCharity_GMMS_Setting", "via": ["solution", "statement"]}
 {"parent": "LittleCharity.GMMS.lemma_17_b", "child": "LittleCharity_GMMS_Setting", "via": ["statement"]}
-{"parent": "LittleCharity.GMMS.lemma_17_c", "child": "LittleCharity_GMMS_Setting", "via": ["statement"]}
+{"parent": "LittleCharity.GMMS.lemma_17_c", "child": "LittleCharity_GMMS_Setting", "via": ["solution", "statement"]}
 {"parent": "LittleCharity.GMMS.proposition_13", "child": "LittleCharity_GMMS_Setting", "via": ["statement"]}
 {"parent": "LittleCharity.GMMS.reduction_step", "child": "LittleCharity_GMMS_Setting", "via": ["statement"]}
 {"parent": "LittleCharity.GMMS.theorem_16", "child": "LittleCharity_GMMS_Setting", "via": ["solution", "statement"]}

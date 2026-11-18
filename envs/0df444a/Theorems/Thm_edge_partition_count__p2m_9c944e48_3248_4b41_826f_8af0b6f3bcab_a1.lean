@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_edge_partition_count__p2m_9c944e48_3248_4b41_826f_8af0b6f3bcab_a1
 -- name    : edge_partition_count__p2m_9c944e48_3248_4b41_826f_8af0b6f3bcab_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T12:09:15.949202+00:00
 -- url     : https://prove2.me/theorems/4c9d20c0-5d93-440a-a99d-0e5539068656

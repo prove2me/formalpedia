@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapleyNV_shapley_two_by_two
 -- name    : ShapleyNV.shapley_two_by_two
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:51:06.396158+00:00
 -- url     : https://prove2.me/theorems/f9919850-ed70-48bd-9341-4a44409163a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicFPT_HittingSet_component_count
 -- name    : AlgebraicFPT.HittingSet.component_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:57:22.28882+00:00
 -- url     : https://prove2.me/theorems/a9acf662-ef9c-41a4-a520-cd4cd03f34fb

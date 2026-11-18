@@ -21728,7 +21728,7 @@
 {"parent": "OAI.binary_sweep_contraction_and_mixing", "child": "BinarySweep", "via": ["solution", "statement"]}
 {"parent": "OAI.common_bases_fpras", "child": "CommonBasesFPRAS", "via": ["solution", "statement"]}
 {"parent": "OAI.edit_distance_main", "child": "EditDistance", "via": ["solution", "statement"]}
-{"parent": "OAI.elementaryPositivityWitness_exists", "child": "ElementaryPositivity", "via": ["statement"]}
+{"parent": "OAI.elementaryPositivityWitness_exists", "child": "ElementaryPositivity", "via": ["solution", "statement"]}
 {"parent": "OAI.finiteCircle_fullMain", "child": "FiniteCircle", "via": ["solution", "statement"]}
 {"parent": "OAI.randomized_quasipolynomial_mean_payoff", "child": "RandomizedMeanPayoff", "via": ["solution", "statement"]}
 {"parent": "OAI.sharp_fourier_certificate", "child": "PlanarPacking", "via": ["solution", "statement"]}

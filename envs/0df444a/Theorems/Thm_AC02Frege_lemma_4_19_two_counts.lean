@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_4_19_two_counts
 -- name    : AC02Frege.lemma_4_19_two_counts
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:51:46.882522+00:00
 -- url     : https://prove2.me/theorems/b9a64ff2-7783-4212-8855-6d5ca8199a31

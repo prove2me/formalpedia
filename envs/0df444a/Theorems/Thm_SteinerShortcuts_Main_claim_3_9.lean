@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinerShortcuts_Main_claim_3_9
 -- name    : SteinerShortcuts.Main.claim_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:35:17.406049+00:00
 -- url     : https://prove2.me/theorems/d3832276-513d-4357-a1ee-060b827c3e8e

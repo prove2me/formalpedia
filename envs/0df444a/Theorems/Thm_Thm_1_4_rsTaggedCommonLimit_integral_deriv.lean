@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Thm_1_4_rsTaggedCommonLimit_integral_deriv
 -- name    : Thm_1_4.rsTaggedCommonLimit_integral_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T23:12:49.173246+00:00
 -- url     : https://prove2.me/theorems/cf77fd3c-a1b4-4e27-b3df-f6213272b7cf

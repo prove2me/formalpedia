@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_2_4_res_pc_simulation
 -- name    : SemAC02.Supplement.theorem_2_4_res_pc_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:47:03.319379+00:00
 -- url     : https://prove2.me/theorems/a08d4d99-a9dd-48c3-975e-12243733ce13

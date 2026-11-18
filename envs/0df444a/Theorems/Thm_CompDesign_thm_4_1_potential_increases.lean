@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_thm_4_1_potential_increases
 -- name    : CompDesign.thm_4_1_potential_increases
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:59:36.470843+00:00
 -- url     : https://prove2.me/theorems/b776ee4d-760c-418e-bbd8-a58129284801

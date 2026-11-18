@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_cancellation
 -- name    : TwoStageRnQ.cancellation
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:51.538832+00:00
 -- url     : https://prove2.me/theorems/4fdd007d-fd67-4f9e-8e80-5867fbe888ca
 -- title:

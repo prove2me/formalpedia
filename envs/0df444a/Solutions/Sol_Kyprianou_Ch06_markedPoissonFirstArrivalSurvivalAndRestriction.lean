@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch06.markedPoissonFirstArrivalSurvivalAndRestriction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-16T07:45:43.694953+00:00
 -- url     : https://prove2.me/submissions/ae9de6bb-6eaa-4b1c-b0ce-3bc053ef72b8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch06_markedPoissonArrivalSurvival

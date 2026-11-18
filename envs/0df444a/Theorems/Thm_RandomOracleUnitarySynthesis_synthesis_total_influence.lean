@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_total_influence
 -- name    : RandomOracleUnitarySynthesis.synthesis_total_influence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:56:19.973601+00:00
 -- url     : https://prove2.me/theorems/64ef841d-a75f-4c35-85c2-90f8899a5f0f

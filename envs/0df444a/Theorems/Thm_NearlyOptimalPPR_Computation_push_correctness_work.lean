@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_push_correctness_work
 -- name    : NearlyOptimalPPR.Computation.push_correctness_work
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:38:57.78186+00:00
 -- url     : https://prove2.me/theorems/7083db3c-399d-42c3-93c3-09aa1f6f492b

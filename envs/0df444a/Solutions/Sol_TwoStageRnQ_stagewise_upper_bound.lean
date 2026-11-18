@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.stagewise_upper_bound
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:10.577019+00:00
 -- url     : https://prove2.me/submissions/a4c13778-2e4b-4590-a84a-175d416f4602
 

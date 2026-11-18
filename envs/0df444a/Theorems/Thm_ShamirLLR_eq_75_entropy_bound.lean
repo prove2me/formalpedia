@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShamirLLR_eq_75_entropy_bound
 -- name    : ShamirLLR.eq_75_entropy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T08:26:04.418534+00:00
 -- url     : https://prove2.me/theorems/6a91f59a-2e0b-4a8f-8fe9-65a29022f771

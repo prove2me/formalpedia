@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleInteraction_eq_32
 -- name    : SingleInteraction.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:58:40.061298+00:00
 -- url     : https://prove2.me/theorems/0347a127-ee0f-4e34-8284-f6aad365ee29

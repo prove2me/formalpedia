@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffDisp4n_reroute_matrix_invertible
 -- name    : AffDisp4n.reroute_matrix_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:55:32.063759+00:00
 -- url     : https://prove2.me/theorems/b8e29dd4-ef0a-4c65-86d7-5e94e396cb72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KnodelPrimeCordial_case_mod_4__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1
 -- name    : KnodelPrimeCordial.case_mod_4__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1
--- status  : Open
+-- status  : Proved
 -- author  : @parclytaxel
 -- created : 2026-11-16T09:39:16.109197+00:00
 -- url     : https://prove2.me/theorems/d9f15af7-7b55-4a90-9aa3-c03a2c2d26cd

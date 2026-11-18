@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.cancellation
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:12.295062+00:00
 -- url     : https://prove2.me/submissions/c50901d5-ba0f-4773-ad8f-e421443e6ba3
 

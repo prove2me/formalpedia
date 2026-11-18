@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_demandSpace_nonempty
 -- name    : TwoStageRnQ.demandSpace_nonempty
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:57.117867+00:00
 -- url     : https://prove2.me/theorems/a72afa30-d192-4053-b58b-fcdac17586ca
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_4_16_degree_comparison
 -- name    : AC02Frege.lemma_4_16_degree_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:51:17.625879+00:00
 -- url     : https://prove2.me/theorems/cef18fde-1839-4198-a87e-cc4657bbefa1

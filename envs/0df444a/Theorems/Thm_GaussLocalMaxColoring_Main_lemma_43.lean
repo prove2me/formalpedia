@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussLocalMaxColoring_Main_lemma_43
 -- name    : GaussLocalMaxColoring.Main.lemma_43
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:23:52.896213+00:00
 -- url     : https://prove2.me/theorems/9dd701b2-0358-4a1e-8c44-e235d905906a

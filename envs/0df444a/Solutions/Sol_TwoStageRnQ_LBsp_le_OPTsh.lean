@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TwoStageRnQ.LBsp_le_OPTsh
 -- status  : ACCEPTED   (prove)
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:27:17.582786+00:00
 -- url     : https://prove2.me/submissions/59dbb90c-cc21-4281-8f2c-d2afc3910041
 

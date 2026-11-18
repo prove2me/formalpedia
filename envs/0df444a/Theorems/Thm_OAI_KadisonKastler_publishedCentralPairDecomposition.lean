@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_publishedCentralPairDecomposition
 -- name    : OAI.KadisonKastler.publishedCentralPairDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T05:17:56.634205+00:00
 -- url     : https://prove2.me/theorems/291137fb-18a1-4fb2-b33e-a893e50598e1

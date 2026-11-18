@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_exists_maximal_of_bounded_rank__p2m_79adc0d7_3a11_418b_99ea_c41dca74eed5_a3
 -- name    : WilliamsonShmoys.exists_maximal_of_bounded_rank__p2m_79adc0d7_3a11_418b_99ea_c41dca74eed5_a3
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T05:13:50.969648+00:00
 -- url     : https://prove2.me/theorems/6e6759d9-0315-429e-bbc6-8889f8511f98

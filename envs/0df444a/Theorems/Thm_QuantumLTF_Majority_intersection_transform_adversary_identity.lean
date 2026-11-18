@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Majority_intersection_transform_adversary_identity
 -- name    : QuantumLTF.Majority.intersection_transform_adversary_identity
--- status  : Open
+-- status  : Disproved
 -- author  : @stockfish-soup
 -- created : 2026-11-17T00:46:10.669473+00:00
 -- url     : https://prove2.me/theorems/4eb5ee99-0db6-42c8-ae65-5e3d1c132a5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_active_region_potentials
 -- name    : NearlyOptimalPPR.Computation.active_region_potentials
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:37:33.311313+00:00
 -- url     : https://prove2.me/theorems/6299c658-7c20-49ba-9f4f-87a52351dfc2

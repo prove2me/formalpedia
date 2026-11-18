@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpaceReset_Hardness_lemma_6
 -- name    : SpaceReset.Hardness.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:22:50.761192+00:00
 -- url     : https://prove2.me/theorems/90bd2449-cd68-494a-8397-797648527d19

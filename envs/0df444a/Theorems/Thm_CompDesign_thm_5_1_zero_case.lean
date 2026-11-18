@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_thm_5_1_zero_case
 -- name    : CompDesign.thm_5_1_zero_case
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:53:30.444789+00:00
 -- url     : https://prove2.me/theorems/79c981d9-e800-498f-92d2-d061797e52b4

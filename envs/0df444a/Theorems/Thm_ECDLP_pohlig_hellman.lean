@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ECDLP_pohlig_hellman
 -- name    : ECDLP.pohlig_hellman
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-11-16T23:45:11.579751+00:00
 -- url     : https://prove2.me/theorems/6d8665c4-e8ea-4903-b13a-c66d11913070

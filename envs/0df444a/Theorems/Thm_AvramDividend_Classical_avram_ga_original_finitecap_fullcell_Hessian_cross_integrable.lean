@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_original_finitecap_fullcell_Hessian_cross_integrable
 -- name    : AvramDividend.Classical.avram_ga_original_finitecap_fullcell_Hessian_cross_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T18:59:17.324591+00:00
 -- url     : https://prove2.me/theorems/f65dd5c0-4b29-4587-b87f-9db5cf413089

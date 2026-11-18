@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopDownParity1043_Main_theorem_3
 -- name    : TopDownParity1043.Main.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:20:04.426865+00:00
 -- url     : https://prove2.me/theorems/987ec7f7-19b4-4dab-9b76-811c560374c6

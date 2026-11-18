@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f11_upper_boundary_positive_horizon
 -- name    : AvramDividend.Classical.avram_p4_f11_upper_boundary_positive_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T18:46:02.699396+00:00
 -- url     : https://prove2.me/theorems/43818f4a-c36a-4e7a-8872-8cde2601b496

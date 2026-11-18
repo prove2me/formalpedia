@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopDownParity1043_Main_lemma_12
 -- name    : TopDownParity1043.Main.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:20:13.016168+00:00
 -- url     : https://prove2.me/theorems/8c16dd53-4add-4833-9451-83e0a5d78fe4

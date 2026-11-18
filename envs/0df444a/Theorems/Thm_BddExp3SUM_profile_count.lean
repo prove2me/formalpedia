@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BddExp3SUM_profile_count
 -- name    : BddExp3SUM.profile_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T10:58:50.130243+00:00
 -- url     : https://prove2.me/theorems/53d902c9-f736-4e75-832f-529b9259074c

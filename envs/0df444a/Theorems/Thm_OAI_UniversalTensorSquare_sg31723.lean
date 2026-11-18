@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg31723
 -- name    : OAI.UniversalTensorSquare.sg31723
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T12:21:26.013193+00:00
 -- url     : https://prove2.me/theorems/1ba4e598-e3ae-49ea-8c9d-510f9a12173d

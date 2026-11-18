@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_lowerSum_le_of_refinement
 -- name    : lowerSum_le_of_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:53:22.018583+00:00
 -- url     : https://prove2.me/theorems/343e82e7-3c04-4d38-8584-4eb391e2abf8

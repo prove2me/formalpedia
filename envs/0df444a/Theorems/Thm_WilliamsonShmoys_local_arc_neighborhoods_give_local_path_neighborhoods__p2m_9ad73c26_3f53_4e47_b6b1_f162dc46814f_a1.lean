@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_local_arc_neighborhoods_give_local_path_neighborhoods__p2m_9ad73c26_3f53_4e47_b6b1_f162dc46814f_a1
 -- name    : WilliamsonShmoys.local_arc_neighborhoods_give_local_path_neighborhoods__p2m_9ad73c26_3f53_4e47_b6b1_f162dc46814f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T00:36:03.435263+00:00
 -- url     : https://prove2.me/theorems/ea4c5e6b-79e3-4c5b-8f05-42b60aa76f9f

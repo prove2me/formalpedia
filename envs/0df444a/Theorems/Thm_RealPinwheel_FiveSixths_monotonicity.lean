@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_monotonicity
 -- name    : RealPinwheel.FiveSixths.monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:36:13.184812+00:00
 -- url     : https://prove2.me/theorems/54c74643-258a-4796-a747-888bbdd6fc76

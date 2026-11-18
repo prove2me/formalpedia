@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathORAMCap_lemma_4_18
 -- name    : PathORAMCap.lemma_4_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:47:26.996026+00:00
 -- url     : https://prove2.me/theorems/50872ade-71ca-4c6d-8b6d-9d193a85674c

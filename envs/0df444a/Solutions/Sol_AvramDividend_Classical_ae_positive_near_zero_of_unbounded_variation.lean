@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.ae_positive_near_zero_of_unbounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-06T19:18:31.280194+00:00
 -- url     : https://prove2.me/submissions/479a6a30-fc8a-4495-9964-bbed9fa79d85
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

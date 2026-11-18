@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_8_6_coefficient_degree
 -- name    : SemAC02.lemma_8_6_coefficient_degree
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:28:38.591802+00:00
 -- url     : https://prove2.me/theorems/184d25eb-45fc-4b5d-8537-a288ddd6edef

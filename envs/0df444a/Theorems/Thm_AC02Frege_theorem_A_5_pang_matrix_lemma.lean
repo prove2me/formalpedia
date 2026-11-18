@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_theorem_A_5_pang_matrix_lemma
 -- name    : AC02Frege.theorem_A_5_pang_matrix_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:46:35.456667+00:00
 -- url     : https://prove2.me/theorems/fb4e86b4-6ab7-4c7c-8a4e-a505cfd1b5c6

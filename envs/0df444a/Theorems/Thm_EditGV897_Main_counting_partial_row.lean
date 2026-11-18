@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditGV897_Main_counting_partial_row
 -- name    : EditGV897.Main.counting_partial_row
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:27:01.337399+00:00
 -- url     : https://prove2.me/theorems/eb47dd69-8539-4755-9252-9ada111c25bd

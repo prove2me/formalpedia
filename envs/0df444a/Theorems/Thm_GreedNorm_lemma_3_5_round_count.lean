@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedNorm_lemma_3_5_round_count
 -- name    : GreedNorm.lemma_3_5_round_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T21:43:51.462655+00:00
 -- url     : https://prove2.me/theorems/55342a48-5159-4dad-b4ae-7728eef0d0d9

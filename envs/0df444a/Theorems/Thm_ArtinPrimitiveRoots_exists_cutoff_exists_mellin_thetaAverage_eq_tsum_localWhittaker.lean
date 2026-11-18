@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_mellin_thetaAverage_eq_tsum_localWhittaker
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_mellin_thetaAverage_eq_tsum_localWhittaker
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-18T07:02:40.09109+00:00
 -- url     : https://prove2.me/theorems/93d56f1c-364e-434d-875d-cb17efe6009b

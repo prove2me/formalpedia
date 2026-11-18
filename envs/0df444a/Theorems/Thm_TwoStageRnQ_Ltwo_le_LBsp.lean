@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_Ltwo_le_LBsp
 -- name    : TwoStageRnQ.Ltwo_le_LBsp
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:53.985606+00:00
 -- url     : https://prove2.me/theorems/fad35cd9-7dac-491e-b7e0-df7f972680e1
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResolvingNRM.IRT.prop1_one_resolve
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-07T03:23:16.387354+00:00
 -- url     : https://prove2.me/submissions/99a875ff-991e-4983-affd-b96df36cbb38
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RLPBidPrice_Unbiased_Model

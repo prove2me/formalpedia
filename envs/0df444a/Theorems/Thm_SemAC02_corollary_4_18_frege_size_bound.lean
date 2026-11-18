@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_corollary_4_18_frege_size_bound
 -- name    : SemAC02.corollary_4_18_frege_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:30:03.286364+00:00
 -- url     : https://prove2.me/theorems/08a4f7e4-4bb9-4c85-8c36-3bfe804db893

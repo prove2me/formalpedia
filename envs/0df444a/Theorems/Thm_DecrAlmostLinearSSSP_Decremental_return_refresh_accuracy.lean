@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_return_refresh_accuracy
 -- name    : DecrAlmostLinearSSSP.Decremental.return_refresh_accuracy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:54:31.719512+00:00
 -- url     : https://prove2.me/theorems/0a1af2d6-9783-4406-9769-bf438b6e6d38

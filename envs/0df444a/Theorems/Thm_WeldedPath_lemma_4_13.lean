@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeldedPath_lemma_4_13
 -- name    : WeldedPath.lemma_4_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T06:25:04.918634+00:00
 -- url     : https://prove2.me/theorems/48c64f49-ee2b-4012-9872-a0de8d72379a

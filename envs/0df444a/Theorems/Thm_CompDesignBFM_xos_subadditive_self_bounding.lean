@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesignBFM_xos_subadditive_self_bounding
 -- name    : CompDesignBFM.xos_subadditive_self_bounding
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:34:15.000532+00:00
 -- url     : https://prove2.me/theorems/cf1ab4dd-d898-4b16-b66f-4d13d2d7c3a4

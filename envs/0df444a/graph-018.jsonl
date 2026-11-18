@@ -12841,7 +12841,7 @@
 {"parent": "ClauseBound.ParityChecks.Num.card_col", "child": "ClauseBound_ParityChecks_RunDefs", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Num.card_col", "child": "ClauseBound_ParityChecks_Num", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.Num.card_col", "child": "ClauseBound_ParityChecks_Approx", "via": ["solution", "statement"]}
-{"parent": "TenChallenges.challenge_06", "child": "TenChallenges_Challenge_06", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_06", "child": "TenChallenges_Challenge_06", "via": ["solution", "statement"]}
 {"parent": "DHRUniq.nielsen_theorem", "child": "DHRUniq_IsLQCC", "via": ["statement"]}
 {"parent": "DHRUniq.nielsen_theorem", "child": "ObliviousRSP_pureState", "via": ["statement"]}
 {"parent": "DHRUniq.nielsen_theorem", "child": "DHRUniq_Majorizes", "via": ["statement"]}
@@ -13907,11 +13907,11 @@
 {"parent": "GeneralPieces.Half.pos_desc", "child": "ClauseBound_Inst_HalfEnc", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Half.pos_desc", "child": "GeneralPieces_Half_List", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.Half.pos_desc", "child": "GeneralPieces_Half_Order", "via": ["solution", "statement"]}
-{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_y", "via": ["statement"]}
-{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["statement"]}
-{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_clock", "via": ["statement"]}
-{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
+{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_y", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_clock", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.dilation_claim", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredLoopABI.values", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryColoredSolver", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredLoopABI.values", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredLoopABI", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredLoopABI.values", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaLoopState", "via": ["solution", "statement"]}
@@ -34084,11 +34084,11 @@
 {"parent": "Sat3.InTimeTM.mono", "child": "ThreeSatStatement", "via": ["solution", "statement"]}
 {"parent": "FloorRecurrence.boundConstant_overhead", "child": "FloorRecurrence", "via": ["solution", "statement"]}
 {"parent": "FloorRecurrence.boundConstant_overhead", "child": "FloorDepth", "via": ["solution", "statement"]}
-{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_y", "via": ["statement"]}
-{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["statement"]}
-{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_clock", "via": ["statement"]}
-{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
+{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_y", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_clock", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.minimum_claim", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
 {"parent": "Eight.Fact.abs_botAt_le", "child": "Eight_SecCrossing_MulOut", "via": ["solution", "statement"]}
 {"parent": "Eight.Fact.abs_botAt_le", "child": "Eight_SecCrossing_Fact", "via": ["solution", "statement"]}
 {"parent": "Eight.Fact.abs_botAt_le", "child": "Eight_SecCrossing_Blocks", "via": ["solution", "statement"]}
@@ -41845,7 +41845,7 @@
 {"parent": "Eight.ViaGrouping.groupedTables_eq_display", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "Eight.ViaGrouping.groupedTables_eq_display", "child": "Eight_ViaGrouping_Display", "via": ["solution", "statement"]}
 {"parent": "Eight.ViaGrouping.groupedTables_eq_display", "child": "Eight_SecNetworks_Tables", "via": ["solution", "statement"]}
-{"parent": "TenChallenges.challenge_06_r0", "child": "TenChallenges_Challenge_06", "via": ["statement"]}
+{"parent": "TenChallenges.challenge_06_r0", "child": "TenChallenges_Challenge_06", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramAssembly.Block4.row_eval_6_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramAssembly.Block4.row_eval_6_e", "child": "OAIQ106E007", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedFrozenQuery.memo_exit_meets", "child": "Submission_ThreeSum_LightTernaryCodes", "via": ["solution", "statement"]}
@@ -55303,11 +55303,11 @@
 {"parent": "UniformInK.stThrU", "child": "UniformInK_Spars_Defs", "via": ["solution", "statement"]}
 {"parent": "UniformInK.stThrU", "child": "UniformInK_Spars_Thresholds", "via": ["solution", "statement"]}
 {"parent": "OAI.BoundedHochschild.differential_is_cocycle", "child": "KadisonRingroseSupport2", "via": ["solution", "statement"]}
-{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_IsInstance", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_y", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_clock", "via": ["statement"]}
-{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_IsAlg1Output", "via": ["statement"]}
+{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_IsInstance", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_y", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_IsAlg1Draw", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_clock", "via": ["solution", "statement"]}
+{"parent": "CorrelatedRounding.lemma_2", "child": "CorrelatedRounding_IsAlg1Output", "via": ["solution", "statement"]}
 {"parent": "SingleBitPieces.Level.Presents.f_eq", "child": "ToTuring_Lib_Table", "via": ["solution", "statement"]}
 {"parent": "SingleBitPieces.Level.Presents.f_eq", "child": "SingleBitPieces_SecNetworks_LemGrouping", "via": ["solution", "statement"]}
 {"parent": "SingleBitPieces.Level.Presents.f_eq", "child": "Paper_SecCrossing_Crossing", "via": ["solution", "statement"]}

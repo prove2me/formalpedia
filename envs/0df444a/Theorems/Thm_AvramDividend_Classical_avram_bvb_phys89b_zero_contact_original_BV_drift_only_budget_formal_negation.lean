@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_phys89b_zero_contact_original_BV_drift_only_budget_formal_negation
 -- name    : AvramDividend.Classical.avram_bvb_phys89b_zero_contact_original_BV_drift_only_budget_formal_negation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T14:57:44.915094+00:00
 -- url     : https://prove2.me/theorems/13e68341-dc3a-474c-879a-36a603147ffc

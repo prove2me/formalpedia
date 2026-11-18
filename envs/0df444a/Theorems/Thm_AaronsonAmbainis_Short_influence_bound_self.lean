@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AaronsonAmbainis_Short_influence_bound_self
 -- name    : AaronsonAmbainis.Short.influence_bound_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-12T07:40:38.69099+00:00
 -- url     : https://prove2.me/theorems/bb86fa06-988e-4097-8e08-eafd98ee2717

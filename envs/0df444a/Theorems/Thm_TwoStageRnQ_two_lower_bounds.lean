@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_two_lower_bounds
 -- name    : TwoStageRnQ.two_lower_bounds
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:21:51.225421+00:00
 -- url     : https://prove2.me/theorems/1bac98e3-1c63-4e16-961f-40b6f525471a
 -- title:

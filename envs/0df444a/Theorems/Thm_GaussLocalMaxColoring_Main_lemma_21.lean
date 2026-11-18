@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussLocalMaxColoring_Main_lemma_21
 -- name    : GaussLocalMaxColoring.Main.lemma_21
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:22:05.135573+00:00
 -- url     : https://prove2.me/theorems/1eff0dd3-fe5f-4af4-8cd8-0113330e581c

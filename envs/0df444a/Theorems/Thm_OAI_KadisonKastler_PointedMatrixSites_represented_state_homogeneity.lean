@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KadisonKastler_PointedMatrixSites_represented_state_homogeneity
 -- name    : OAI.KadisonKastler.PointedMatrixSites.represented_state_homogeneity
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-13T07:57:32.376207+00:00
 -- url     : https://prove2.me/theorems/1837aa35-72d3-49b9-ab0f-897aae47e878

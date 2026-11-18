@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoReLULayers_DepthCollapse_network_geometric_cpwl
 -- name    : TwoReLULayers.DepthCollapse.network_geometric_cpwl
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:35:56.497204+00:00
 -- url     : https://prove2.me/theorems/b5066696-11b9-44ea-bffd-5c57ce226062

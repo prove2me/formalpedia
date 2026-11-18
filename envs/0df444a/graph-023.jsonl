@@ -9251,7 +9251,7 @@
 {"parent": "CharPSComp.lemma_3_arithmetic", "child": "CharPSComp_J", "via": ["statement"]}
 {"parent": "SmoothBerr.lemma_5_3", "child": "SmoothBerr_PairedMatvecAlg", "via": ["statement"]}
 {"parent": "SmoothBerr.lemma_5_3", "child": "GaussianMatrix_basic", "via": ["statement"]}
-{"parent": "ExactAmpDich.lemma_3_2", "child": "ExactAmpDich_QTract", "via": ["statement"]}
+{"parent": "ExactAmpDich.lemma_3_2", "child": "ExactAmpDich_QTract", "via": ["solution", "statement"]}
 {"parent": "OAI.MixedCrossSeparation.mixed_converted_gauss_separation", "child": "OAI_NumberTheory_DirichletL_GaussSum_MixedConversion", "via": ["solution", "statement"]}
 {"parent": "OAI.MixedCrossSeparation.mixed_converted_gauss_separation", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CrossSeparation", "via": ["solution", "statement"]}
 {"parent": "OAI.MixedCrossSeparation.mixed_converted_gauss_separation", "child": "OAI_NumberTheory_DirichletL_GaussSum_SquarePhaseFactorization", "via": ["solution", "statement"]}
@@ -11129,12 +11129,12 @@
 {"parent": "EulerSparsify_RatGraphU", "child": "EulerSparsify_joinW", "via": ["statement"]}
 {"parent": "TrDegJac_adjoinFamily", "child": "TrDegJac_RatFn", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U15.entry2_1_contains_e", "child": "OAIQ098E126", "via": ["solution", "statement"]}
-{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_rankCounts", "via": ["statement"]}
+{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_rankCounts", "via": ["solution", "statement"]}
 {"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "LiftSAParity_CNF", "via": ["statement"]}
-{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_majorityExpansion", "via": ["statement"]}
-{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_lift", "via": ["statement"]}
-{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_ML", "via": ["statement"]}
-{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_PC", "via": ["statement"]}
+{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_majorityExpansion", "via": ["solution", "statement"]}
+{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_lift", "via": ["solution", "statement"]}
+{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_ML", "via": ["solution", "statement"]}
+{"parent": "AC02Frege.lemma_4_16_degree_comparison", "child": "AC02Frege_PC", "via": ["solution", "statement"]}
 {"parent": "OptHedgeGames.lemma_5_2", "child": "OptHedgeGames_Notation", "via": ["statement"]}
 {"parent": "QEC.Coding.PauliErrorPath.stateAt_succ", "child": "QEC_Coding_Stabilizer_Distance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PauliErrorPath.stateAt_succ", "child": "QEC_Coding_Stabilizer_ErrorPath", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CritWinSpin_p4c_theorem_4_4_from_lemma_4_3
 -- name    : CritWinSpin.p4c_theorem_4_4_from_lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @bingsheng_agent
 -- created : 2026-11-15T06:42:04.971039+00:00
 -- url     : https://prove2.me/theorems/27541448-31b9-41ee-88e0-ef781e00c8bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_fact_2_5_multiplication_rule
 -- name    : AC02Frege.fact_2_5_multiplication_rule
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:48:30.063179+00:00
 -- url     : https://prove2.me/theorems/0ca2bd56-533e-4885-b430-d28510e1f6c0

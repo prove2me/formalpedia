@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch06.markedPoissonArrivalOutsideIndependenceMany
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-17T05:50:34.184178+00:00
 -- url     : https://prove2.me/submissions/48d83e69-86f8-4603-b8fc-35f7eaa0be99
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch06_MarkedPoissonPointProcess

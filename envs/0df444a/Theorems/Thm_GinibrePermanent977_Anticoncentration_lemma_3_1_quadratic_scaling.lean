@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GinibrePermanent977_Anticoncentration_lemma_3_1_quadratic_scaling
 -- name    : GinibrePermanent977.Anticoncentration.lemma_3_1_quadratic_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:10:07.502778+00:00
 -- url     : https://prove2.me/theorems/87fb5f41-919b-45f7-95e6-874ffb2d7399

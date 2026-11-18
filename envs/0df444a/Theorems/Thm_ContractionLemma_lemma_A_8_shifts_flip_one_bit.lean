@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContractionLemma_lemma_A_8_shifts_flip_one_bit
 -- name    : ContractionLemma.lemma_A_8_shifts_flip_one_bit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:56:25.86635+00:00
 -- url     : https://prove2.me/theorems/7d08f68e-fa39-4ec0-84ec-9d3c8d422d53

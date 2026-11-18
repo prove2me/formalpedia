@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_lemma_4_13_common_annihilator
 -- name    : SemAC02.lemma_4_13_common_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T11:29:55.308139+00:00
 -- url     : https://prove2.me/theorems/4d9eb1b9-a445-4e5e-929c-2ad7a95aa8cb

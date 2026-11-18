@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EulerMascheroni_LogPower_laplace_log_moment
 -- name    : EulerMascheroni.LogPower.laplace_log_moment
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-09T09:32:20.059975+00:00
 -- url     : https://prove2.me/theorems/edd07f08-78f4-435f-9f6d-0f1a16024758

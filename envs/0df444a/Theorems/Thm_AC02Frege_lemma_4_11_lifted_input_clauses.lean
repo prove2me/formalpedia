@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_4_11_lifted_input_clauses
 -- name    : AC02Frege.lemma_4_11_lifted_input_clauses
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:50:45.288875+00:00
 -- url     : https://prove2.me/theorems/336b141c-bff1-4d89-b26c-c496e929ab5e

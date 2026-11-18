@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditGV897_Main_efficient_binary_edit_correction
 -- name    : EditGV897.Main.efficient_binary_edit_correction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:27:49.378089+00:00
 -- url     : https://prove2.me/theorems/5a33700b-885c-499c-92c3-c72cde2a1dc4

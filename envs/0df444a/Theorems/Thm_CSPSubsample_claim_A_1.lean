@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CSPSubsample_claim_A_1
 -- name    : CSPSubsample.claim_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:14:10.123724+00:00
 -- url     : https://prove2.me/theorems/29e753d7-c76a-46d9-b816-44dc09d81be8

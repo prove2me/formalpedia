@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedRounding_minimum_claim
 -- name    : CorrelatedRounding.minimum_claim
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:36:57.370083+00:00
 -- url     : https://prove2.me/theorems/0f24998e-6baf-49ab-b5b5-69c1cdab6bd9

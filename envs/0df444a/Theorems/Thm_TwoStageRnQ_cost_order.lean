@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_cost_order
 -- name    : TwoStageRnQ.cost_order
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:22:05.192986+00:00
 -- url     : https://prove2.me/theorems/3861a597-f1d1-49d0-a055-9d04fd8e9901
 -- title:

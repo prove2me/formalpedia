@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_paper_rule_follows_rand
 -- name    : TwoStageRnQ.paper_rule_follows_rand
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:22:05.024092+00:00
 -- url     : https://prove2.me/theorems/ca648350-af02-4bb7-ad22-a7e9241d011d
 -- title:

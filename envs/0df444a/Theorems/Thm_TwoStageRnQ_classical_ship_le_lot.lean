@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TwoStageRnQ_classical_ship_le_lot
 -- name    : TwoStageRnQ.classical_ship_le_lot
 -- status  : Proved
--- author  : @beatlesmania
+-- author  : @Ming Hu
 -- created : 2026-11-17T00:22:02.210487+00:00
 -- url     : https://prove2.me/theorems/d2975732-4fb4-4a83-b095-2106f575a237
 -- title:

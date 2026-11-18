@@ -1,0 +1,50 @@
+-- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg18909
+-- name    : OAI.UniversalTensorSquare.sg18909
+-- status  : Open
+-- author  : @dbenbenn
+-- created : 2026-11-17T09:10:18.029229+00:00
+-- url     : https://prove2.me/theorems/801fdbdf-cadf-470d-998e-a7391014c007
+-- title:
+--   OAI.UniversalTensorSquare.sg18909: intermediate lemma from OpenAI, Universal Tensor Squares for Symmetric Groups (result family 205)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.UniversalTensorSquares.universal_tensor_square`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Universal Tensor Squares for Symmetric Groups (result family 205)*, OpenAI Math Release, September 24, 2026, result family 205, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.UniversalTensorSquare.sg18909` of [lean/OAI/RepresentationTheory/UniversalSquare/Semigroup/SemigroupNodes45.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/RepresentationTheory/UniversalSquare/Semigroup/SemigroupNodes45.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.UniversalTensorSquare`, with `open Saxl Saxl.Columns Saxl.Balance`):
+--
+--   ```lean
+--   lemma sg18909 : RowSquare [7,6,4,3,2,2,1,1,1,1,1,1,1] [3,3,3,3,3,3,2,2,2,2,2,2,1]
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.UniversalTensorSquare.RowSquare` (definitions bundle `OAIQ259US007` of this split).
+--
+--   **Used by.** The proofs of `OAI.UniversalTensorSquare.degreeTree62_510All`, `OAI.UniversalTensorSquare.degreeTree62_629All`, `OAI.UniversalTensorSquare.degreeTree62_640All`, `OAI.UniversalTensorSquare.degreeTree62_653All`, `OAI.UniversalTensorSquare.degreeTree62_680All`, `OAI.UniversalTensorSquare.degreeTree62_726All`, `OAI.UniversalTensorSquare.degreeTree62_727All`, `OAI.UniversalTensorSquare.degreeTree62_731All`, `OAI.UniversalTensorSquare.degreeTree62_765All`, `OAI.UniversalTensorSquare.degreeTree62_786All`, `OAI.UniversalTensorSquare.degreeTree62_872All`, `OAI.UniversalTensorSquare.degreeTree62_922All`, `OAI.UniversalTensorSquare.degreeTree62_924All`, `OAI.UniversalTensorSquare.degreeTree62_932All`, `OAI.UniversalTensorSquare.degreeTree62_941All`, `OAI.UniversalTensorSquare.degreeTree62_958All`, `OAI.UniversalTensorSquare.sg33872`, `OAI.UniversalTensorSquare.sg34024`, `OAI.UniversalTensorSquare.sg34289`, `OAI.UniversalTensorSquare.sg34310`, `OAI.UniversalTensorSquare.sg34638`, `OAI.UniversalTensorSquare.sg34696`, `OAI.UniversalTensorSquare.sg34729`, `OAI.UniversalTensorSquare.sg36002`, `OAI.UniversalTensorSquare.sg36039`, `OAI.UniversalTensorSquare.sg36170`, `OAI.UniversalTensorSquare.sg36209`, `OAI.UniversalTensorSquare.sg36281`, `OAI.UniversalTensorSquare.sg36547`, `OAI.UniversalTensorSquare.sg36671`, `OAI.UniversalTensorSquare.sg36751`, `OAI.UniversalTensorSquare.sg36788`, `OAI.UniversalTensorSquare.sg36916`, `OAI.UniversalTensorSquare.sg36944`, `OAI.UniversalTensorSquare.sg37019`, `OAI.UniversalTensorSquare.sg37119`, `OAI.UniversalTensorSquare.sg37139`, `OAI.UniversalTensorSquare.sg37174`, `OAI.UniversalTensorSquare.sg37205`, `OAI.UniversalTensorSquare.sg37225`, `OAI.UniversalTensorSquare.sg37252`, `OAI.UniversalTensorSquare.sg37270`, `OAI.UniversalTensorSquare.sg37374`, `OAI.UniversalTensorSquare.sg37419`, `OAI.UniversalTensorSquare.sg37469`, `OAI.UniversalTensorSquare.sg37620`, `OAI.UniversalTensorSquare.sg37820`, `OAI.UniversalTensorSquare.sg37890`, `OAI.UniversalTensorSquare.sg37922`, `OAI.UniversalTensorSquare.sg38022`, `OAI.UniversalTensorSquare.sg38040`, `OAI.UniversalTensorSquare.sg38100`, `OAI.UniversalTensorSquare.sg38118`, `OAI.UniversalTensorSquare.sg38143`, `OAI.UniversalTensorSquare.sg38239`, `OAI.UniversalTensorSquare.sg38341`, `OAI.UniversalTensorSquare.sg38412`, `OAI.UniversalTensorSquare.sg38439`, `OAI.UniversalTensorSquare.sg38455`, `OAI.UniversalTensorSquare.sg38512`, `OAI.UniversalTensorSquare.sg38527`, `OAI.UniversalTensorSquare.sg38567`, `OAI.UniversalTensorSquare.sg38666`, `OAI.UniversalTensorSquare.sg38705`, `OAI.UniversalTensorSquare.sg38797`, `OAI.UniversalTensorSquare.sg39066`, `OAI.UniversalTensorSquare.sg39090`, `OAI.UniversalTensorSquare.sg39105`, `OAI.UniversalTensorSquare.sg39128`, `OAI.UniversalTensorSquare.sg39143`, `OAI.UniversalTensorSquare.sg39233`, `OAI.UniversalTensorSquare.sg39247`, `OAI.UniversalTensorSquare.sg39298`, `OAI.UniversalTensorSquare.sg39312`, `OAI.UniversalTensorSquare.sg39349`, `OAI.UniversalTensorSquare.sg39475`, `OAI.UniversalTensorSquare.sg39603`, `OAI.UniversalTensorSquare.sg39682`, `OAI.UniversalTensorSquare.sg39717`, `OAI.UniversalTensorSquare.sg39801`, `OAI.UniversalTensorSquare.sg39886`, `OAI.UniversalTensorSquare.sg40094`, `OAI.UniversalTensorSquare.sg40106`, `OAI.UniversalTensorSquare.sg40136`, `OAI.UniversalTensorSquare.sg40197`, `OAI.UniversalTensorSquare.sg40425`, `OAI.UniversalTensorSquare.sg40481`, `OAI.UniversalTensorSquare.sg40553`, `OAI.UniversalTensorSquare.sg40587`, `OAI.UniversalTensorSquare.sg40598`, `OAI.UniversalTensorSquare.sg40619`, `OAI.UniversalTensorSquare.sg40681`, `OAI.UniversalTensorSquare.sg40692`, `OAI.UniversalTensorSquare.sg40710`, `OAI.UniversalTensorSquare.sg40722`, `OAI.UniversalTensorSquare.sg40756`, `OAI.UniversalTensorSquare.sg40894`, `OAI.UniversalTensorSquare.sg40913`, `OAI.UniversalTensorSquare.sg40985`, `OAI.UniversalTensorSquare.sg41004`, `OAI.UniversalTensorSquare.sg41021`, `OAI.UniversalTensorSquare.sg41031`, `OAI.UniversalTensorSquare.sg41047`, `OAI.UniversalTensorSquare.sg41059`, `OAI.UniversalTensorSquare.sg41105`, `OAI.UniversalTensorSquare.sg41116`, `OAI.UniversalTensorSquare.sg41141`, `OAI.UniversalTensorSquare.sg41166`, `OAI.UniversalTensorSquare.sg41208`, `OAI.UniversalTensorSquare.sg41224`, `OAI.UniversalTensorSquare.sg41232`, `OAI.UniversalTensorSquare.sg41256`, `OAI.UniversalTensorSquare.sg41267`, `OAI.UniversalTensorSquare.sg41277`, `OAI.UniversalTensorSquare.sg41301`, `OAI.UniversalTensorSquare.sg41336`, `OAI.UniversalTensorSquare.sg41346`, `OAI.UniversalTensorSquare.sg41363`, `OAI.UniversalTensorSquare.sg41385`, `OAI.UniversalTensorSquare.sg41439`, `OAI.UniversalTensorSquare.sg41457`, `OAI.UniversalTensorSquare.sg41532`, `OAI.UniversalTensorSquare.sg41564`, `OAI.UniversalTensorSquare.sg41571`, `OAI.UniversalTensorSquare.sg41620`, `OAI.UniversalTensorSquare.sg41666`, `OAI.UniversalTensorSquare.sg41679`, `OAI.UniversalTensorSquare.sg41685`, `OAI.UniversalTensorSquare.sg41705`, `OAI.UniversalTensorSquare.sg41714`, `OAI.UniversalTensorSquare.sg41723`, `OAI.UniversalTensorSquare.sg41744`, `OAI.UniversalTensorSquare.sg41774`, `OAI.UniversalTensorSquare.sg41783`, `OAI.UniversalTensorSquare.sg41798`, `OAI.UniversalTensorSquare.sg41816`, `OAI.UniversalTensorSquare.sg41853`, `OAI.UniversalTensorSquare.sg41867`, `OAI.UniversalTensorSquare.sg41875`, `OAI.UniversalTensorSquare.sg41883`, `OAI.UniversalTensorSquare.sg41908`, `OAI.UniversalTensorSquare.sg41916`, `OAI.UniversalTensorSquare.sg41930`, `OAI.UniversalTensorSquare.sg41948`, `OAI.UniversalTensorSquare.sg41967`, `OAI.UniversalTensorSquare.sg41981`, `OAI.UniversalTensorSquare.sg41996`, `OAI.UniversalTensorSquare.sg42049`, `OAI.UniversalTensorSquare.sg42109`, `OAI.UniversalTensorSquare.sg42113`, `OAI.UniversalTensorSquare.sg42142`, `OAI.UniversalTensorSquare.sg42158`, `OAI.UniversalTensorSquare.sg42165`, `OAI.UniversalTensorSquare.sg42172`, `OAI.UniversalTensorSquare.sg42222`, `OAI.UniversalTensorSquare.sg42228`, `OAI.UniversalTensorSquare.sg42234`, `OAI.UniversalTensorSquare.sg42256`, `OAI.UniversalTensorSquare.sg42262`, `OAI.UniversalTensorSquare.sg42274`, `OAI.UniversalTensorSquare.sg42290`, `OAI.UniversalTensorSquare.sg42318`, `OAI.UniversalTensorSquare.sg42331`, `OAI.UniversalTensorSquare.sg42369`, `OAI.UniversalTensorSquare.sg42385`, `OAI.UniversalTensorSquare.sg42397`, `OAI.UniversalTensorSquare.sg42437`, `OAI.UniversalTensorSquare.sg42468`, `OAI.UniversalTensorSquare.sg42476` and `OAI.UniversalTensorSquare.sg42562` of this split import it.
+-- source:
+--   OpenAI, Universal Tensor Squares for Symmetric Groups (result family 205), OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 205; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Universal-Tensor-Squares-for-Symmetric-Groups-September-24-2026/main.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/RepresentationTheory/UniversalSquare/Semigroup/SemigroupNodes45.lean (declaration OAI.UniversalTensorSquare.sg18909)
+
+import Mathlib
+import Definitions.Def_OAIQ259US007
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg18909 : RowSquare [7,6,4,3,2,2,1,1,1,1,1,1,1] [3,3,3,3,3,3,2,2,2,2,2,2,1] := by
+  sorry
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end

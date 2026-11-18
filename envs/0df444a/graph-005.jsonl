@@ -14194,8 +14194,8 @@
 {"parent": "QAlgorithms.Nannicini.gibbsState_preparation", "child": "QAlgorithms_Nannicini_Ch07b_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Nannicini.gibbsState_preparation", "child": "QAlgorithms_Defs_Adiabatic", "via": ["statement"]}
 {"parent": "DbarRegularity.closedCube_eq_preimage", "child": "DbarRegularity_Setting", "via": ["solution", "statement"]}
-{"parent": "LindelofHypothesis.lindelof_of_riemannHypothesis", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["statement"]}
-{"parent": "LindelofHypothesis.lindelof_of_riemannHypothesis", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["statement"]}
+{"parent": "LindelofHypothesis.lindelof_of_riemannHypothesis", "child": "LindelofHypothesis_GrowthAndZeroCounts", "via": ["solution", "statement"]}
+{"parent": "LindelofHypothesis.lindelof_of_riemannHypothesis", "child": "RiemannVonMangoldt_ZeroCounts", "via": ["solution", "statement"]}
 {"parent": "SelfStructIS.LogEff.lemma_A_7", "child": "HeavyTailNV_Tail_Model", "via": ["statement"]}
 {"parent": "SelfStructIS.LogEff.lemma_A_7", "child": "SelfStructIS_LogEff_Sampler", "via": ["statement"]}
 {"parent": "SelfStructIS.LogEff.lemma_A_7", "child": "SelfStructIS_LogEff_Setting", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_GMMS_lemma_17_a
 -- name    : LittleCharity.GMMS.lemma_17_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:19:19.232226+00:00
 -- url     : https://prove2.me/theorems/dcedf63d-8de3-4804-ae29-0ee7fec1de0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_geometricStoppedWalkStrictInfDiv
 -- name    : Kyprianou.Ch01.geometricStoppedWalkStrictInfDiv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T05:55:01.782461+00:00
 -- url     : https://prove2.me/theorems/36cf2e9d-e190-4ff7-9f18-8128ebcb4f45

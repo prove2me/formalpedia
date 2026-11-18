@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_potential_lower_bound
 -- name    : DecrAlmostLinearSSSP.Decremental.potential_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:52:24.879679+00:00
 -- url     : https://prove2.me/theorems/1df20cf8-b81e-4b11-b9bf-9d1678c806c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GinibrePermanent977_Anticoncentration_lemma_3_8_kappa_asymptotics
 -- name    : GinibrePermanent977.Anticoncentration.lemma_3_8_kappa_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:10:29.432557+00:00
 -- url     : https://prove2.me/theorems/78b7923d-839e-484b-a537-59c428924683

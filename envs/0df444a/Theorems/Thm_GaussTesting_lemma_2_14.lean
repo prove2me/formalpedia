@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussTesting_lemma_2_14
 -- name    : GaussTesting.lemma_2_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:58:57.303036+00:00
 -- url     : https://prove2.me/theorems/2aef9e7a-c608-4b3a-b0bb-cec240752ce4

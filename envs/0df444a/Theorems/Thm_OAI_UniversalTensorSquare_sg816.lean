@@ -1,0 +1,50 @@
+-- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg816
+-- name    : OAI.UniversalTensorSquare.sg816
+-- status  : Open
+-- author  : @dbenbenn
+-- created : 2026-11-17T23:35:40.810894+00:00
+-- url     : https://prove2.me/theorems/a8e6b688-bcba-4646-b74c-7cecaaf929ad
+-- title:
+--   OAI.UniversalTensorSquare.sg816: intermediate lemma from OpenAI, Universal Tensor Squares for Symmetric Groups (result family 205)
+-- statement:
+--   An intermediate lemma of the split of OpenAI's proof of `OAI.UniversalTensorSquares.universal_tensor_square`, carved from OpenAI's openai/math development for this platform. The statement and its proof are OpenAI's (OpenAI, *Universal Tensor Squares for Symmetric Groups (result family 205)*, OpenAI Math Release, September 24, 2026, result family 205, [github.com/openai/math](https://github.com/openai/math), Apache License 2.0); in Lean it is the declaration `OAI.UniversalTensorSquare.sg816` of [lean/OAI/RepresentationTheory/UniversalSquare/Semigroup/SemigroupLeaves3.lean](https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/RepresentationTheory/UniversalSquare/Semigroup/SemigroupLeaves3.lean) at commit 7ef5c0c, ported to Lean 4.33.1 and Mathlib 0df444a.
+--
+--   **The statement**, as published (namespace `OAI.UniversalTensorSquare`, with `open Saxl Saxl.Columns Saxl.Balance`):
+--
+--   ```lean
+--   lemma sg816 : RowSquare [4,2,1,1,1,1] [3,3,2,2]
+--   ```
+--
+--   **Definitions.** The statement is written with `OAI.UniversalTensorSquare.RowSquare` (definitions bundle `OAIQ259US007` of this split).
+--
+--   **Used by.** The proofs of `OAI.UniversalTensorSquare.degreeTree43_234All`, `OAI.UniversalTensorSquare.degreeTree43_77All`, `OAI.UniversalTensorSquare.sg21919`, `OAI.UniversalTensorSquare.sg21966`, `OAI.UniversalTensorSquare.sg22020`, `OAI.UniversalTensorSquare.sg24528`, `OAI.UniversalTensorSquare.sg24651`, `OAI.UniversalTensorSquare.sg24661` and `OAI.UniversalTensorSquare.sg25035` of this split import it.
+-- source:
+--   OpenAI, Universal Tensor Squares for Symmetric Groups (result family 205), OpenAI Math Release, September 24, 2026, https://github.com/openai/math (result family 205; paper: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/preprints/Universal-Tensor-Squares-for-Symmetric-Groups-September-24-2026/main.pdf; Apache License 2.0); Lean: https://github.com/openai/math/blob/7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a/lean/OAI/RepresentationTheory/UniversalSquare/Semigroup/SemigroupLeaves3.lean (declaration OAI.UniversalTensorSquare.sg816)
+
+import Mathlib
+import Definitions.Def_OAIQ259US007
+
+section
+
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+section
+
+noncomputable section
+namespace UniversalTensorSquare
+open Saxl Saxl.Columns Saxl.Balance
+
+lemma sg816 : RowSquare [4,2,1,1,1,1] [3,3,2,2] := by
+  sorry
+
+end UniversalTensorSquare
+end
+end
+
+end OAI
+end

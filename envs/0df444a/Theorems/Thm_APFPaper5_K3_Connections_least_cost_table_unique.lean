@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APFPaper5_K3_Connections_least_cost_table_unique
 -- name    : APFPaper5.K3.Connections.least_cost_table_unique
--- status  : Open
+-- status  : Proved
 -- author  : @FiniteUniverse
 -- created : 2026-11-17T05:56:25.806709+00:00
 -- url     : https://prove2.me/theorems/09df6dfc-9a32-4a6a-8680-f07f7d053557

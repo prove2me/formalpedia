@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussLocalMaxColoring_Main_theorem_2
 -- name    : GaussLocalMaxColoring.Main.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:22:46.495759+00:00
 -- url     : https://prove2.me/theorems/578729f5-e23c-4c5f-88c6-381cc75addcc

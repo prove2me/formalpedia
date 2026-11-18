@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousExpectation_cdfExpectation_integrable_and_eq_integral_pdf
 -- name    : ContinuousExpectation.cdfExpectation_integrable_and_eq_integral_pdf
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-12T22:18:03.97381+00:00
 -- url     : https://prove2.me/theorems/4a74a5aa-ac96-4797-98ea-56494b916c52

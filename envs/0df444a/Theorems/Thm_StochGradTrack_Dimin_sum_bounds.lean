@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochGradTrack_Dimin_sum_bounds
 -- name    : StochGradTrack.Dimin.sum_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:55.186353+00:00
 -- url     : https://prove2.me/theorems/4559d902-07dc-4797-bd78-c240dc135825

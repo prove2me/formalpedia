@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsumerUtilityApprox_UnitDemand_eq_5_11
 -- name    : ConsumerUtilityApprox.UnitDemand.eq_5_11
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T05:55:39.619805+00:00
 -- url     : https://prove2.me/theorems/9d35cc4c-d0ee-431c-af16-84cedef9bdd8

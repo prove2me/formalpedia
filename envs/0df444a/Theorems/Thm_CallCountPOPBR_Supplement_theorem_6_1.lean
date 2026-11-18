@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallCountPOPBR_Supplement_theorem_6_1
 -- name    : CallCountPOPBR.Supplement.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-17T00:06:57.436038+00:00
 -- url     : https://prove2.me/theorems/68f3109b-ac40-48a9-9d8f-58d73a09d4b9

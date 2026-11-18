@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GinibrePermanent977_Anticoncentration_gaussian_permanent_anticoncentration
 -- name    : GinibrePermanent977.Anticoncentration.gaussian_permanent_anticoncentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:10:27.509205+00:00
 -- url     : https://prove2.me/theorems/41e61a4b-8dfd-4a74-a315-4d23466272fa

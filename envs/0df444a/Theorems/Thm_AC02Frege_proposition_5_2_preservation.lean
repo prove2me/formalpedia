@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_proposition_5_2_preservation
 -- name    : AC02Frege.proposition_5_2_preservation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:52:17.830326+00:00
 -- url     : https://prove2.me/theorems/07f22a6f-9686-472e-8e2b-3868065ac7df

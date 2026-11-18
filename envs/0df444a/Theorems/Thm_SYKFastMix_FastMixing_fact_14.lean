@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SYKFastMix_FastMixing_fact_14
 -- name    : SYKFastMix.FastMixing.fact_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:08:22.294592+00:00
 -- url     : https://prove2.me/theorems/1438e586-e0e3-4112-bb42-4b0a1476331e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_lemma_4_15_one_factor_gain
 -- name    : AC02Frege.lemma_4_15_one_factor_gain
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:51:39.346376+00:00
 -- url     : https://prove2.me/theorems/0b2302f3-456e-446b-a56f-003ab2373441

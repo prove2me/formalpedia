@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_normalization_composes
 -- name    : NearlyOptimalPPR.Computation.normalization_composes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:37:37.200786+00:00
 -- url     : https://prove2.me/theorems/c78117fd-101f-4029-b999-b176eb207b3f

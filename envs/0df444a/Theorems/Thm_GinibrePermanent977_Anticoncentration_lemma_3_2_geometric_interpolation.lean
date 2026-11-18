@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GinibrePermanent977_Anticoncentration_lemma_3_2_geometric_interpolation
 -- name    : GinibrePermanent977.Anticoncentration.lemma_3_2_geometric_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:10:15.342047+00:00
 -- url     : https://prove2.me/theorems/0995d792-adb8-4440-8965-b0f740aee0ea

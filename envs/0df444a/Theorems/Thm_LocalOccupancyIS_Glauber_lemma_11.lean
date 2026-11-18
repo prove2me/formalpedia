@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalOccupancyIS_Glauber_lemma_11
 -- name    : LocalOccupancyIS.Glauber.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:58:52.478463+00:00
 -- url     : https://prove2.me/theorems/9b09e91e-3844-494c-a0bd-beccfee958e9

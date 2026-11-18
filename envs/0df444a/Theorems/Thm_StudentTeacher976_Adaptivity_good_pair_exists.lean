@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StudentTeacher976_Adaptivity_good_pair_exists
 -- name    : StudentTeacher976.Adaptivity.good_pair_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:13:11.366206+00:00
 -- url     : https://prove2.me/theorems/147941a2-808d-426e-8a1c-119d641d75f4

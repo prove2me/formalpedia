@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_phys89b_original_zero_contact_drift_only_budget_is_false
 -- name    : AvramDividend.Classical.avram_bvb_phys89b_original_zero_contact_drift_only_budget_is_false
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T15:17:08.857428+00:00
 -- url     : https://prove2.me/theorems/70a4394f-29d6-476b-8422-572886d64c98

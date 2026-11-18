@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompDesign_thm_4_1_terminal_is_pne
 -- name    : CompDesign.thm_4_1_terminal_is_pne
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T05:59:05.519511+00:00
 -- url     : https://prove2.me/theorems/9f734b3b-6d73-4e36-aa4a-74f15fcf5184

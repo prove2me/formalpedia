@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricPSM1041_ORLowerBound_constant_alphabet_or_impossible
 -- name    : SymmetricPSM1041.ORLowerBound.constant_alphabet_or_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:57:38.642768+00:00
 -- url     : https://prove2.me/theorems/d37b2dd6-4229-44e2-94df-b7f0373daa05

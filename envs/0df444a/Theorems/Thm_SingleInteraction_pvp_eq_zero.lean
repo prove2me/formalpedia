@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleInteraction_pvp_eq_zero
 -- name    : SingleInteraction.pvp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:58:51.365864+00:00
 -- url     : https://prove2.me/theorems/8f47f0c7-8173-4319-b513-27ceeb9b1175

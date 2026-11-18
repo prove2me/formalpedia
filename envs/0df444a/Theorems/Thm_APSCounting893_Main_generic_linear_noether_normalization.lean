@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_generic_linear_noether_normalization
 -- name    : APSCounting893.Main.generic_linear_noether_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:01:47.493277+00:00
 -- url     : https://prove2.me/theorems/c3c3c422-9e14-46b3-b91a-18da2c87cbe5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_entropy_resampling
 -- name    : RandomOracleUnitarySynthesis.synthesis_entropy_resampling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:57:06.056131+00:00
 -- url     : https://prove2.me/theorems/56eef8e8-990b-4eef-8be1-79d9e69fb9a8

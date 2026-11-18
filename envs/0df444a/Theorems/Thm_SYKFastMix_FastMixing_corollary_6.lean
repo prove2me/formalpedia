@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SYKFastMix_FastMixing_corollary_6
 -- name    : SYKFastMix.FastMixing.corollary_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:08:33.85235+00:00
 -- url     : https://prove2.me/theorems/9a551a32-cf62-4e35-a5aa-aa9e01228313

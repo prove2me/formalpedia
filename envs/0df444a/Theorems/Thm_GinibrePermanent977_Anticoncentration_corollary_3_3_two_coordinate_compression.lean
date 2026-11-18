@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GinibrePermanent977_Anticoncentration_corollary_3_3_two_coordinate_compression
 -- name    : GinibrePermanent977.Anticoncentration.corollary_3_3_two_coordinate_compression
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:10:16.848461+00:00
 -- url     : https://prove2.me/theorems/c2157fec-6b03-432a-914e-d963930f4c2c

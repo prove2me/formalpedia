@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_connected_components_lower_bound_of_not_connected__p2m_bfad0b38_624c_4f44_b180_c550615568f1_a1
 -- name    : finite_connected_components_lower_bound_of_not_connected__p2m_bfad0b38_624c_4f44_b180_c550615568f1_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T04:31:46.320531+00:00
 -- url     : https://prove2.me/theorems/500ab0fd-7125-46e0-8259-170f6e54686b

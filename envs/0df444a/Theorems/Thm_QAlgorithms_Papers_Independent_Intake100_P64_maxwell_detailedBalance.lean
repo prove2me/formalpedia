@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_maxwell_detailedBalance
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.maxwell_detailedBalance
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:22:08.134017+00:00
 -- url     : https://prove2.me/theorems/33b25b2b-47c9-4650-88cb-f9078abe253b

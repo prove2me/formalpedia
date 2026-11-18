@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_componentPartition_of_disconnected__p2m_313ad367_69f9_46a6_a8a9_ceaec7db9c1a_a1
 -- name    : WilliamsonShmoys.componentPartition_of_disconnected__p2m_313ad367_69f9_46a6_a8a9_ceaec7db9c1a_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T13:00:55.577203+00:00
 -- url     : https://prove2.me/theorems/ad9ec9d5-3963-45af-869f-03d998217399

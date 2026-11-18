@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bvb_original_zero_contact_universe_restrict
 -- name    : AvramDividend.Classical.avram_bvb_original_zero_contact_universe_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T08:59:59.657074+00:00
 -- url     : https://prove2.me/theorems/ab69bfad-94e6-410c-b8d3-031369263440

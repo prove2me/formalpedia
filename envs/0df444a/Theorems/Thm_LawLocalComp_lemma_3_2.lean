@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LawLocalComp_lemma_3_2
 -- name    : LawLocalComp.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:10:21.023739+00:00
 -- url     : https://prove2.me/theorems/0fa38adc-2399-4c68-a31b-0a32bf9cc4fe

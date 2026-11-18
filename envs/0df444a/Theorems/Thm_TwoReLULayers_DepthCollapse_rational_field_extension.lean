@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoReLULayers_DepthCollapse_rational_field_extension
 -- name    : TwoReLULayers.DepthCollapse.rational_field_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T10:35:45.531507+00:00
 -- url     : https://prove2.me/theorems/46d39526-e258-4ce2-b64e-cdf628aacef6

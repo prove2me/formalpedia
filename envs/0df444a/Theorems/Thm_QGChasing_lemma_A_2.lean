@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGChasing_lemma_A_2
 -- name    : QGChasing.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:25:15.330481+00:00
 -- url     : https://prove2.me/theorems/bde91ca7-c0a5-4922-beda-3dc244061603

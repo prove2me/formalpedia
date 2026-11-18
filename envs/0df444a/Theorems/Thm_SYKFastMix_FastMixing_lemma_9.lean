@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SYKFastMix_FastMixing_lemma_9
 -- name    : SYKFastMix.FastMixing.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:08:11.50843+00:00
 -- url     : https://prove2.me/theorems/b5add0b4-b13c-4474-93c6-96d157b095e2

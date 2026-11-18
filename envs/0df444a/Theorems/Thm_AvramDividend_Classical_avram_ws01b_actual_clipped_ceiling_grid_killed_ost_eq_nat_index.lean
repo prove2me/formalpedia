@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index
 -- name    : AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq_nat_index
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T15:28:19.8102+00:00
 -- url     : https://prove2.me/theorems/0b88775b-5cd8-447d-81a5-e647600440a9
