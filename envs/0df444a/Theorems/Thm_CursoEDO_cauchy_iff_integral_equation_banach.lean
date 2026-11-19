@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CursoEDO_cauchy_iff_integral_equation_banach
 -- name    : CursoEDO.cauchy_iff_integral_equation_banach
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T15:14:25.701205+00:00
 -- url     : https://prove2.me/theorems/ebf38fbf-e9aa-45e8-a344-914bc8f1660c
 -- title:

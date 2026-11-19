@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_dim_basis
 -- name    : SI.dim_basis
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:53:05.839446+00:00
 -- url     : https://prove2.me/theorems/2d8be9ca-5061-4c99-b061-df3bb91a391e
 -- title:

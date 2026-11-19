@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_collision_conserves_momentum
 -- name    : BoltzmannBGK.collision_conserves_momentum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:20:11.233565+00:00
 -- url     : https://prove2.me/theorems/65a5d95f-9a7e-41a3-b015-37e38ba99c30
 -- title:

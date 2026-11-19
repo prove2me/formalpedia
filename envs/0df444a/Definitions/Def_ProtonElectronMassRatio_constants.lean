@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ProtonElectronMassRatio_constants
 -- name    : ProtonElectronMassRatio_constants
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:51:33.08678+00:00
 -- url     : https://prove2.me/theorems/9e8285f6-ce7b-4bfe-b851-52230e151936
 -- title:

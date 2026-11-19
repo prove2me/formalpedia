@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_blackbody_exitance_eq_stefanBoltzmann
 -- name    : CODATA2022.blackbody_exitance_eq_stefanBoltzmann
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:04:25.772978+00:00
 -- url     : https://prove2.me/theorems/656b5cf2-55c2-4a22-8875-30cd62e09192
 -- title:

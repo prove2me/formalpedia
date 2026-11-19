@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_bounded_derivative
 -- name    : Rudin.ch09_bounded_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:55:43.535958+00:00
 -- url     : https://prove2.me/theorems/58193f4a-2bc4-43e9-8f88-90af3e6814e6
 -- title:

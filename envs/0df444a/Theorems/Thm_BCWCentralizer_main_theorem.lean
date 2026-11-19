@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCWCentralizer_main_theorem
 -- name    : BCWCentralizer.main_theorem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:41:01.589732+00:00
 -- url     : https://prove2.me/theorems/c51a9dbb-00d9-41eb-a1b4-f59a623595c7
 -- title:

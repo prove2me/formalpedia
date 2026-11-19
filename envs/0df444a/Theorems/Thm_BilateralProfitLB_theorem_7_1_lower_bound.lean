@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitLB_theorem_7_1_lower_bound
 -- name    : BilateralProfitLB.theorem_7_1_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:16.829189+00:00
 -- url     : https://prove2.me/theorems/fe8bd8f6-fe9d-4b40-8cde-cde65a744eb7

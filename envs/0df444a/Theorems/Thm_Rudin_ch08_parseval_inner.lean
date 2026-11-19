@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_parseval_inner
 -- name    : Rudin.ch08_parseval_inner
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T12:37:21.060631+00:00
 -- url     : https://prove2.me/theorems/c49c3f99-571d-461e-8ebe-a1879a08db5a
 -- title:

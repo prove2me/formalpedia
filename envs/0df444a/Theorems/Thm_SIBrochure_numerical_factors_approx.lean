@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_numerical_factors_approx
 -- name    : SIBrochure.numerical_factors_approx
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:58:39.459192+00:00
 -- url     : https://prove2.me/theorems/a9f7e8b5-47e8-47e7-b0eb-e3390921f2b2
 -- title:

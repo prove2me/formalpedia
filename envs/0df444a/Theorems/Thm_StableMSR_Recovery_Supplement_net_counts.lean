@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_net_counts
 -- name    : StableMSR.Recovery.Supplement.net_counts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:13:33.763466+00:00
 -- url     : https://prove2.me/theorems/c4f8e4cf-9857-46be-b291-f672cda2123b

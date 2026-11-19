@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Leptogenesis_lightMassMatrix_diagonalization
 -- name    : Leptogenesis.lightMassMatrix_diagonalization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:33:11.406353+00:00
 -- url     : https://prove2.me/theorems/9b42d754-f27f-4922-96da-f8558ef5cc66
 -- title:

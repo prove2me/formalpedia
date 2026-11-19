@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShorWiki_mulModGate_pow_ord
 -- name    : ShorWiki.mulModGate_pow_ord
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T03:00:46.889034+00:00
 -- url     : https://prove2.me/theorems/8a1fad29-fa0b-4e2b-99c4-88f052f62d3e
 -- title:

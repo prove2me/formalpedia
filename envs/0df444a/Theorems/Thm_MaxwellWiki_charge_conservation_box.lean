@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MaxwellWiki_charge_conservation_box
 -- name    : MaxwellWiki.charge_conservation_box
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:06:57.348701+00:00
 -- url     : https://prove2.me/theorems/d05f8997-a76e-4dc6-9dfe-fa536249de53
 -- title:

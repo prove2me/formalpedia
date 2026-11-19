@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Freiman_middle_interval_upper
 -- name    : Freiman.middle_interval_upper
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:01:32.253273+00:00
 -- url     : https://prove2.me/theorems/b5ed28a6-0ae6-4e21-bb75-fa3055b69c04
 -- title:

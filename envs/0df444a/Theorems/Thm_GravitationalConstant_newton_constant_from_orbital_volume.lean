@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_newton_constant_from_orbital_volume
 -- name    : GravitationalConstant.newton_constant_from_orbital_volume
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:15:55.679616+00:00
 -- url     : https://prove2.me/theorems/783ec71c-d4e9-49eb-8251-635d577deba4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_gamma0_identities
 -- name    : UnQuantumMechanics.gamma0_identities
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:43:54.941994+00:00
 -- url     : https://prove2.me/theorems/8f6c3754-cab7-4cad-8704-743ff429c443
 -- title:

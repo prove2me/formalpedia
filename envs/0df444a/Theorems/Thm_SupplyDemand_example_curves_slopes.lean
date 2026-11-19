@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_example_curves_slopes
 -- name    : SupplyDemand.example_curves_slopes
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:17.022934+00:00
 -- url     : https://prove2.me/theorems/f85838e2-8d09-47c3-ae0d-06354b61eb5e
 -- title:

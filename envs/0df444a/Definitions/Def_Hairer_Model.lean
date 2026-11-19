@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Hairer_Model
 -- name    : Hairer_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:37:06.054296+00:00
 -- url     : https://prove2.me/theorems/7f6c13df-1d08-4bc9-9451-7460c02958d6
 -- title:

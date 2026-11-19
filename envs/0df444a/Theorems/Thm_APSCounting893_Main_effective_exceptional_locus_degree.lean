@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_effective_exceptional_locus_degree
 -- name    : APSCounting893.Main.effective_exceptional_locus_degree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:24:11.592388+00:00
 -- url     : https://prove2.me/theorems/64e02841-3fe0-47e1-b44b-24adf2e12eec

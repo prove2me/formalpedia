@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_grover_search
 -- name    : GroverWiki.grover_search
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:42:41.667632+00:00
 -- url     : https://prove2.me/theorems/994670b7-83b1-4d17-a182-da6b2b63ab40
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_injectivity
 -- name    : Gerver.injectivity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:13:48.694336+00:00
 -- url     : https://prove2.me/theorems/5f3bf9be-473b-4e10-a6cd-852fc7aa5e56
 -- title:

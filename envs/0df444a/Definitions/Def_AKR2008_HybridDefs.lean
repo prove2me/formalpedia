@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AKR2008_HybridDefs
 -- name    : AKR2008_HybridDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:23:55.507977+00:00
 -- url     : https://prove2.me/theorems/521c48ab-8e15-483a-ae02-635a487b4545
 -- title:

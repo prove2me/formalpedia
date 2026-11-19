@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_6_5_random_3cnf
 -- name    : SemAC02.Supplement.theorem_6_5_random_3cnf
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:51:01.890953+00:00
 -- url     : https://prove2.me/theorems/da11df50-56a1-4ab8-b58e-465dbace6b2f

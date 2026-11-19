@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_coherenceLength_eq
 -- name    : DysonGraviton.coherenceLength_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T00:09:41.397127+00:00
 -- url     : https://prove2.me/theorems/878a20ab-662d-456e-9fda-96307bba446c
 -- title:

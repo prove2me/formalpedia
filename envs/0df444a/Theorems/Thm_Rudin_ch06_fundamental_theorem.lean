@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_fundamental_theorem
 -- name    : Rudin.ch06_fundamental_theorem
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:52:46.816608+00:00
 -- url     : https://prove2.me/theorems/83de4dfa-b930-4bb9-a286-079f5dd481a1
 -- title:

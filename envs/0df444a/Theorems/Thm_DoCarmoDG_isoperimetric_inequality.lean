@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_isoperimetric_inequality
 -- name    : DoCarmoDG.isoperimetric_inequality
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:28:31.936912+00:00
 -- url     : https://prove2.me/theorems/228d2382-b81f-490e-825e-d7976c85dcee
 -- title:

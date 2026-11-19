@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_homotopy_congruence
 -- name    : HGL.homotopy_congruence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:06:58.5802+00:00
 -- url     : https://prove2.me/theorems/eaade7da-6ae5-4eaa-86fe-2d1a6390b697
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HILL_PRG_false_entropy_to_pseudoentropy_with_gap
 -- name    : HILL.PRG.false_entropy_to_pseudoentropy_with_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Victorized
 -- created : 2026-10-24T04:44:07.195323+00:00
 -- url     : https://prove2.me/theorems/d8efa933-270e-4991-8fec-d6e8958fd1bc

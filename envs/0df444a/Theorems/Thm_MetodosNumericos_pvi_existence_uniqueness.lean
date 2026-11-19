@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_pvi_existence_uniqueness
 -- name    : MetodosNumericos.pvi_existence_uniqueness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:46:17.239239+00:00
 -- url     : https://prove2.me/theorems/946ff125-e7e7-42b9-905b-f7bf3bdcc702
 -- title:

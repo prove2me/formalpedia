@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BenfordLaw_Defs
 -- name    : BenfordLaw_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:25:42.194804+00:00
 -- url     : https://prove2.me/theorems/dae67b61-fbe2-474d-b4d8-ba3575ac297f
 -- title:

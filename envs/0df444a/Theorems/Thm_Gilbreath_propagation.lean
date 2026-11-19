@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_propagation
 -- name    : Gilbreath.propagation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:51:00.603609+00:00
 -- url     : https://prove2.me/theorems/a11cadeb-9a7a-433b-bd81-94483198d701
 -- title:

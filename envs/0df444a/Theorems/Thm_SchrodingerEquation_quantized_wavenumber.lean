@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchrodingerEquation_quantized_wavenumber
 -- name    : SchrodingerEquation.quantized_wavenumber
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T19:32:47.361057+00:00
 -- url     : https://prove2.me/theorems/1676f63e-bcb6-4cfa-8370-ac6fd3ce4d20
 -- title:

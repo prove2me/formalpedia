@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_keating_snaith_cue
 -- name    : keating_snaith_cue
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:12:41.380032+00:00
 -- url     : https://prove2.me/theorems/0157ec18-a59f-400c-96cd-a069cd01454b
 -- title:

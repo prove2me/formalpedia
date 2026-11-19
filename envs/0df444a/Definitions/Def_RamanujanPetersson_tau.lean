@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RamanujanPetersson_tau
 -- name    : RamanujanPetersson_tau
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:09:57.53757+00:00
 -- url     : https://prove2.me/theorems/67896fa5-a9ed-4d8c-94a5-5f11c3914f84
 -- title:

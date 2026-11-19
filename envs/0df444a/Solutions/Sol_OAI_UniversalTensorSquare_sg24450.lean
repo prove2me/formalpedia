@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.UniversalTensorSquare.sg24450
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-18T01:25:17.843372+00:00
 -- url     : https://prove2.me/submissions/cb58d257-1546-4ced-9d58-9ace5e7eabb9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OAIQ259US007

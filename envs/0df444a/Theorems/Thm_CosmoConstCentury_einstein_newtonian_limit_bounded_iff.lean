@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_einstein_newtonian_limit_bounded_iff
 -- name    : CosmoConstCentury.einstein_newtonian_limit_bounded_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T02:10:35.160533+00:00
 -- url     : https://prove2.me/theorems/00f50d29-55d1-4bd7-b416-54122ec89d38
 -- title:

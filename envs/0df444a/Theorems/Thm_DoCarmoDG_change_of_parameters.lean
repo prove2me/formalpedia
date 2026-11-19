@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_change_of_parameters
 -- name    : DoCarmoDG.change_of_parameters
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:35:51.877182+00:00
 -- url     : https://prove2.me/theorems/0f98a50f-e50e-46a2-a8d2-2ba8cba5b3c2
 -- title:

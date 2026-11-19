@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_L_functional_equation
 -- name    : RamanujanPetersson.L_functional_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:18:48.043259+00:00
 -- url     : https://prove2.me/theorems/483b1965-77dd-4750-8055-ad9f14b2c9dc
 -- title:

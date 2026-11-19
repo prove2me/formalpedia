@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_phi_range_eq
 -- name    : GrandUnifiedTheories.phi_range_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:51:11.114541+00:00
 -- url     : https://prove2.me/theorems/a0b86fa1-c9f1-400b-97f0-721266a771f0
 -- title:

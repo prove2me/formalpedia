@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_leftCancellable_subalgebra
 -- name    : BalancedAlgebra.leftCancellable_subalgebra
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:26:47.43351+00:00
 -- url     : https://prove2.me/theorems/901f514f-2661-459c-89aa-d0c147a20eb9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_newton_at_zero_of_order
 -- name    : Kawahira.newton_at_zero_of_order
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:38:15.068218+00:00
 -- url     : https://prove2.me/theorems/ecd93de6-dc90-4427-9970-589ff5973d17
 -- title:

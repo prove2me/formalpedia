@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DirS_gw
 -- name    : DirS_gw
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T18:08:59.205056+00:00
 -- url     : https://prove2.me/theorems/3f5e2d1a-4f34-4c4a-9186-320d1a49d29b
 -- title:

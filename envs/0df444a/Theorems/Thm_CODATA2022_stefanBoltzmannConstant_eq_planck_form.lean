@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_stefanBoltzmannConstant_eq_planck_form
 -- name    : CODATA2022.stefanBoltzmannConstant_eq_planck_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:12:11.863726+00:00
 -- url     : https://prove2.me/theorems/01a9bb71-e1a9-48ba-90a7-97812263ad4c
 -- title:

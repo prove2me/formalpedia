@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OpenGA_SurgeryContinuationData_definedUpTo_of_volumeProfiles
 -- name    : OpenGA.SurgeryContinuationData.definedUpTo_of_volumeProfiles
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:33:21.2636+00:00
 -- url     : https://prove2.me/theorems/f191f979-2e06-4198-af0f-8c25a7a1e8cf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AKR2008_Defs
 -- name    : AKR2008_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:28:23.298982+00:00
 -- url     : https://prove2.me/theorems/4f78c23d-4a63-4a50-8364-5e1411c82757
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_vanishingIdeal_zeroSet_eq_radical
 -- name    : Nullstellensatz.vanishingIdeal_zeroSet_eq_radical
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:06:30.929079+00:00
 -- url     : https://prove2.me/theorems/70b84ec2-ff99-48af-abbf-8f92827d6f4e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_regge_color_signature
 -- name    : NaculichRegge.regge_color_signature
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:54:30.536061+00:00
 -- url     : https://prove2.me/theorems/f0541da3-ef25-40a5-8f16-d052d9adaa29
 -- title:

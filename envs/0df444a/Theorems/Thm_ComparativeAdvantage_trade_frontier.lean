@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_trade_frontier
 -- name    : ComparativeAdvantage.trade_frontier
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:32:31.043013+00:00
 -- url     : https://prove2.me/theorems/ec5efa52-3619-45f0-829d-ddff168585ae
 -- title:

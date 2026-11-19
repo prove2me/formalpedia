@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_level_two_state_count
 -- name    : TongString.level_two_state_count
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:53:40.33914+00:00
 -- url     : https://prove2.me/theorems/6cfb12ec-f98e-4a6c-96e3-25d6d740bf62
 -- title:

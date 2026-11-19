@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_thm_1_9_transitive_and_nontransitive
 -- name    : AnosovPlugs.thm_1_9_transitive_and_nontransitive
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T03:36:38.368984+00:00
 -- url     : https://prove2.me/theorems/e1b8cd02-ab9b-45d8-8bb1-6589a08221f6
 -- title:

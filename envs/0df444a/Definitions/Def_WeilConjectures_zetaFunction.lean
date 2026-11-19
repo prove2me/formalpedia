@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WeilConjectures_zetaFunction
 -- name    : WeilConjectures_zetaFunction
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T14:56:28.256855+00:00
 -- url     : https://prove2.me/theorems/59682f8d-573f-420e-8598-69b390007cf9
 -- title:

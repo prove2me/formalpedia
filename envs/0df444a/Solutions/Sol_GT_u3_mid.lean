@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.u3_mid
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:49.073652+00:00
 -- url     : https://prove2.me/submissions/287f07ad-64d1-4555-9cbd-c7f9de2af0c8
 

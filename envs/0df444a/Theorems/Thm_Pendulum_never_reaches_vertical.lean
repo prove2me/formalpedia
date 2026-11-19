@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_never_reaches_vertical
 -- name    : Pendulum.never_reaches_vertical
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:42:35.823087+00:00
 -- url     : https://prove2.me/theorems/a54a8102-aed0-40af-887a-036dbe60d827
 -- title:

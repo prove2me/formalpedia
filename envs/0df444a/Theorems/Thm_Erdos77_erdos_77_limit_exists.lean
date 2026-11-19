@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos77_erdos_77_limit_exists
 -- name    : Erdos77.erdos_77_limit_exists
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:34:54.181499+00:00
 -- url     : https://prove2.me/theorems/fe6a0db7-055a-420a-9f2b-1d3b20d29fb7
 -- title:

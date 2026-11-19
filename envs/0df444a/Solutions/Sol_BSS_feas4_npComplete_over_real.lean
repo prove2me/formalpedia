@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSS.feas4_npComplete_over_real
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T22:07:47.214985+00:00
 -- url     : https://prove2.me/submissions/e239aeb3-a5e1-4f05-aecf-b3a5103f438f
 -- note    : a sketch -- it imports a theorem that is still Open,

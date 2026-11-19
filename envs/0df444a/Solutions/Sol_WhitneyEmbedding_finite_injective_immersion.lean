@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.finite_injective_immersion
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T14:22:52.225274+00:00
 -- url     : https://prove2.me/submissions/70aeba74-6b1a-49c7-b075-ef5993d3deb1
 

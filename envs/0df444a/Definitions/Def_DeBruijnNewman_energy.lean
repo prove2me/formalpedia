@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DeBruijnNewman_energy
 -- name    : DeBruijnNewman_energy
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:15:40.358084+00:00
 -- url     : https://prove2.me/theorems/88415b21-cfe1-4883-91a2-dae24b42214e
 -- title:

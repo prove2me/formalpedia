@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_hyperfast_scrambling_cosmic_units
 -- name    : DSSYKScales.hyperfast_scrambling_cosmic_units
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:55:00.222326+00:00
 -- url     : https://prove2.me/theorems/5639a46a-af53-4c13-b6fb-d15747a9362a
 -- title:

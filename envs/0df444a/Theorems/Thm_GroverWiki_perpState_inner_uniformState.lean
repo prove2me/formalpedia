@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_perpState_inner_uniformState
 -- name    : GroverWiki.perpState_inner_uniformState
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:39:19.646072+00:00
 -- url     : https://prove2.me/theorems/235caa33-9318-47aa-ba81-6237df085dc4
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.loc_to_glob
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:47:19.749839+00:00
 -- url     : https://prove2.me/submissions/c894b9f8-199f-4189-ae6c-72c62b159d82
 

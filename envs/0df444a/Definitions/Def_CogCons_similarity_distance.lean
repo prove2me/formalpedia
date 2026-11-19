@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CogCons_similarity_distance
 -- name    : CogCons_similarity_distance
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:00:55.516856+00:00
 -- url     : https://prove2.me/theorems/c950eb57-8dfe-48bb-bb19-e0942be937a5
 -- title:

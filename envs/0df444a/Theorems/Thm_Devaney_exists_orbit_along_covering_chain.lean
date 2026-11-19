@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_exists_orbit_along_covering_chain
 -- name    : Devaney.exists_orbit_along_covering_chain
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:10:08.48095+00:00
 -- url     : https://prove2.me/theorems/21b9022e-50c4-4246-b59a-0fca9ce012dc
 -- title:

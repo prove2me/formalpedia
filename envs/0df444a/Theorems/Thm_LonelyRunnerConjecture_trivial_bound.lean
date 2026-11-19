@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_trivial_bound
 -- name    : LonelyRunnerConjecture.trivial_bound
--- status  : Open
--- author  : @Lucas
+-- status  : Proved
+-- author  : @LG
 -- created : 2026-11-17T01:12:07.287907+00:00
 -- url     : https://prove2.me/theorems/85b80cd9-fdcb-4fdf-9b95-f252185e4c14
 -- title:

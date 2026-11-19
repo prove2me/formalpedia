@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_jacobian_second_moment
 -- name    : LesHouchesWidth.jacobian_second_moment
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:23:45.263113+00:00
 -- url     : https://prove2.me/theorems/cd91d20d-dc2a-4630-8ff3-9da2c479c0d2
 -- title:

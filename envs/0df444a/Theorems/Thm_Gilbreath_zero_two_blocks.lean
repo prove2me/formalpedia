@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_zero_two_blocks
 -- name    : Gilbreath.zero_two_blocks
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:31:17.334116+00:00
 -- url     : https://prove2.me/theorems/4e6e2458-bb2f-4e27-83b7-f950275a4e4b
 -- title:

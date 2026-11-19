@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Kakeya_kakeya_two_dim
 -- name    : FCP.Kakeya.kakeya_two_dim
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:50:45.7295+00:00
 -- url     : https://prove2.me/theorems/bc31f288-302a-4778-92db-8ad7cd9e11e5
 -- title:

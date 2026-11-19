@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnaliseDeFourier_bessel_inequality
 -- name    : AnaliseDeFourier.bessel_inequality
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:49:27.968215+00:00
 -- url     : https://prove2.me/theorems/c1d8ea77-f521-4e14-a51a-4c975639f5d8
 -- title:

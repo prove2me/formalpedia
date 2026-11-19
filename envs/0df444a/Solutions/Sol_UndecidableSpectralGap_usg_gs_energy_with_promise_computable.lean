@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for UndecidableSpectralGap.usg_gs_energy_with_promise_computable
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T12:20:20.614512+00:00
 -- url     : https://prove2.me/submissions/e4a2ffde-ad14-4582-b87c-206ac2025ea8
 -- note    : a sketch -- it imports a theorem that is still Open,

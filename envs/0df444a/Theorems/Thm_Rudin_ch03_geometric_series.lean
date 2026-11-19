@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_geometric_series
 -- name    : Rudin.ch03_geometric_series
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:04:25.982865+00:00
 -- url     : https://prove2.me/theorems/1c46f4d3-e5c0-4bd5-912b-4295f9d2e8c9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CyclotomicEulerSystem_defs
 -- name    : CyclotomicEulerSystem_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:26:33.29234+00:00
 -- url     : https://prove2.me/theorems/9f3a8512-2b39-4a7a-a04f-b329f8b26173
 -- title:

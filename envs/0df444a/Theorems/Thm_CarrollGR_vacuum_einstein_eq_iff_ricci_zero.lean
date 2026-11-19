@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_vacuum_einstein_eq_iff_ricci_zero
 -- name    : CarrollGR.vacuum_einstein_eq_iff_ricci_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:14:10.174437+00:00
 -- url     : https://prove2.me/theorems/2e530cec-c4d2-4b4f-b443-2432ee84bc4e
 -- title:

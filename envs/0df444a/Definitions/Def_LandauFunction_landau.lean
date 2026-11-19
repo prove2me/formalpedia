@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LandauFunction_landau
 -- name    : LandauFunction_landau
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:47.892421+00:00
 -- url     : https://prove2.me/theorems/5420dfaa-3c5a-4433-979e-a745482dca7d
 -- title:

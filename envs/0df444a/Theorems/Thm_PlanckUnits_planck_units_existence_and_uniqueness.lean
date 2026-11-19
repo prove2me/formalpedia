@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_planck_units_existence_and_uniqueness
 -- name    : PlanckUnits.planck_units_existence_and_uniqueness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:41:41.316187+00:00
 -- url     : https://prove2.me/theorems/43abe6b0-caba-4917-acbd-4b8a049f28bb
 -- title:

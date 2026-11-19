@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_sarkovskii_odd
 -- name    : Devaney.sarkovskii_odd
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:15:45.431363+00:00
 -- url     : https://prove2.me/theorems/ca9e0168-11b2-4fe8-98a4-b5cf3162b9de
 -- title:

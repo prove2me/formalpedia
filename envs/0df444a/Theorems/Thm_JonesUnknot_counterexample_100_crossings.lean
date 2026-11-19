@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JonesUnknot_counterexample_100_crossings
 -- name    : JonesUnknot.counterexample_100_crossings
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:34:54.086949+00:00
 -- url     : https://prove2.me/theorems/5247daf0-bfd6-4171-8de4-981c3f6ab2b4
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_Supplement_lemma_14
 -- name    : BuchiRabinIndex.LowerBound.Supplement.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T13:51:30.799601+00:00
 -- url     : https://prove2.me/theorems/d074fcae-5618-4114-8e9a-6a0ad8d85aef

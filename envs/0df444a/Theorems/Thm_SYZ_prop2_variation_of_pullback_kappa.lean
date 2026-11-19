@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SYZ_prop2_variation_of_pullback_kappa
 -- name    : SYZ.prop2_variation_of_pullback_kappa
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T03:54:01.575956+00:00
 -- url     : https://prove2.me/theorems/dc343d6f-2509-4963-9d64-3aed0c009439
 -- title:

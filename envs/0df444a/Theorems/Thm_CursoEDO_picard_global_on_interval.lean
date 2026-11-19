@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CursoEDO_picard_global_on_interval
 -- name    : CursoEDO.picard_global_on_interval
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:22:42.496431+00:00
 -- url     : https://prove2.me/theorems/d989c1c2-07a8-4a48-909c-520634cbfe9d
 -- title:

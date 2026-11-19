@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_levy_constrained_search
 -- name    : DFT.levy_constrained_search
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:05:44.213979+00:00
 -- url     : https://prove2.me/theorems/1d4fe418-8178-4345-8a56-2ade69efac04
 -- title:

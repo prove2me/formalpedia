@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_bianchi_identity
 -- name    : CarrollGR.bianchi_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:12:34.962073+00:00
 -- url     : https://prove2.me/theorems/6a74678a-7ba5-4226-ac52-7c50aaaeb2e1
 -- title:

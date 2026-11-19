@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianZeroDiscountPositiveDrift
 -- name    : Kyprianou.Ch01.inverseGaussianZeroDiscountPositiveDrift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T21:40:52.35908+00:00
 -- url     : https://prove2.me/theorems/a6233c88-7c64-4dd7-a1c1-27d4f4c4a001

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClausiusDuhem_field_calculus
 -- name    : ClausiusDuhem_field_calculus
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:36.907322+00:00
 -- url     : https://prove2.me/theorems/3ac177ed-ae27-4a60-8f80-d960533e390e
 -- title:

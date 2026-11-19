@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DS3Micro_entropy_matches_sphere
 -- name    : DS3Micro.entropy_matches_sphere
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:39:36.227009+00:00
 -- url     : https://prove2.me/theorems/dbda0802-6003-48dd-9826-8f13c0f536c1
 -- title:

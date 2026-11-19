@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_energy_two_fold_degenerate
 -- name    : ParticleInARing.energy_two_fold_degenerate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:49:36.480984+00:00
 -- url     : https://prove2.me/theorems/3ee78cf3-633d-477a-a0dc-839e7c7666fa
 -- title:

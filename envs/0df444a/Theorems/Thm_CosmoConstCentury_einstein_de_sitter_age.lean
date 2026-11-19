@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_einstein_de_sitter_age
 -- name    : CosmoConstCentury.einstein_de_sitter_age
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T11:40:38.654683+00:00
 -- url     : https://prove2.me/theorems/cc9fee0b-f69b-45d8-8d0f-a000f8fbb2e2
 -- title:

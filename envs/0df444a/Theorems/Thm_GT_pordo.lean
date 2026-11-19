@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_pordo
 -- name    : GT.pordo
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:31:14.84097+00:00
 -- url     : https://prove2.me/theorems/723db2d7-548f-4c87-910d-f0ddbde07028
 -- title:

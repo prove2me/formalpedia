@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShorWiki_sum_eigState_eq_ket_one
 -- name    : ShorWiki.sum_eigState_eq_ket_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T03:04:10.097647+00:00
 -- url     : https://prove2.me/theorems/d19fd67e-4b47-41c4-942a-af82d2c81d81
 -- title:

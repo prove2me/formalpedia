@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShannonSecrecy_perfect_secrecy_card_msg_le_card_key
 -- name    : ShannonSecrecy.perfect_secrecy_card_msg_le_card_key
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:32:02.304718+00:00
 -- url     : https://prove2.me/theorems/9f724ce3-3f08-4ec3-9ca3-eb8e9ed9a154
 -- title:

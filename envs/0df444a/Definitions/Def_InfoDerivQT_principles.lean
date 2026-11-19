@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_InfoDerivQT_principles
 -- name    : InfoDerivQT_principles
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:01:15.003985+00:00
 -- url     : https://prove2.me/theorems/aa8cb6e0-a5dc-4fb3-90ac-0e3307a0e793
 -- title:

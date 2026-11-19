@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_benfordProb_sum_eq_one
 -- name    : BenfordLaw.benfordProb_sum_eq_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:25.671307+00:00
 -- url     : https://prove2.me/theorems/98594153-5251-4019-90e0-9eddbb02c4ef
 -- title:

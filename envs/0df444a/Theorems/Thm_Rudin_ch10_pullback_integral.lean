@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_pullback_integral
 -- name    : Rudin.ch10_pullback_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:24:57.601559+00:00
 -- url     : https://prove2.me/theorems/9563c2ab-353f-4026-ba7d-4e135b5981ab
 -- title:

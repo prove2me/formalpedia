@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DrezetGHZ_Models
 -- name    : DrezetGHZ_Models
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T19:18:05.878052+00:00
 -- url     : https://prove2.me/theorems/b686499b-bdff-465b-bb89-cd0c19db87d2
 -- title:

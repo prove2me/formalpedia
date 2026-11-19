@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchrodingerEquation_trivial_of_energy_nonpos
 -- name    : SchrodingerEquation.trivial_of_energy_nonpos
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:38:06.351515+00:00
 -- url     : https://prove2.me/theorems/2ab9aebe-4eb2-486a-a16c-ddf9ca273738
 -- title:

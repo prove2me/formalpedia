@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SelmerGroup_selmer_exact_sequence
 -- name    : SelmerGroup.selmer_exact_sequence
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:58:26.260339+00:00
 -- url     : https://prove2.me/theorems/a37122cc-660d-4912-9bac-10a7c2bba461
 -- title:

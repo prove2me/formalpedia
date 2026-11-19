@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnsembleSpaceDraft_boundedAround_iff_tendsto
 -- name    : EnsembleSpaceDraft.boundedAround_iff_tendsto
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:48:49.244353+00:00
 -- url     : https://prove2.me/theorems/daaf12d5-45f5-44f5-b870-4616b71b9f21
 -- title:

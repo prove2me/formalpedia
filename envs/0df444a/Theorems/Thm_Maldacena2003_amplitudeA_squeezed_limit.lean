@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_amplitudeA_squeezed_limit
 -- name    : Maldacena2003.amplitudeA_squeezed_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:52:28.650935+00:00
 -- url     : https://prove2.me/theorems/a2dad588-ebe1-4fe5-a41c-a4fbae30dfa3
 -- title:

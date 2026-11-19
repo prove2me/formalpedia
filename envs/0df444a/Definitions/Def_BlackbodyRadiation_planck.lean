@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BlackbodyRadiation_planck
 -- name    : BlackbodyRadiation_planck
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:26:59.118987+00:00
 -- url     : https://prove2.me/theorems/e24c8ddc-3030-437c-b8c0-326b1e01fe46
 -- title:

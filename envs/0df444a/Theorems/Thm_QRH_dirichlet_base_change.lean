@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_dirichlet_base_change
 -- name    : QRH.dirichlet_base_change
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:51:25.998158+00:00
 -- url     : https://prove2.me/theorems/1b307fe2-0ae3-4044-81b9-dbd0661a6cb6
 -- title:

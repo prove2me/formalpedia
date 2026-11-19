@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_bessel_identity
 -- name    : Rudin.ch08_bessel_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T14:32:35.762831+00:00
 -- url     : https://prove2.me/theorems/75e24490-bc41-4f4d-a4e7-eb5e7176e8c8
 -- title:

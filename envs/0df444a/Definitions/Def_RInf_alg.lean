@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RInf_alg
 -- name    : RInf_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T23:10:15.189436+00:00
 -- url     : https://prove2.me/theorems/88e7b134-42ef-404d-bd81-d39d0869f169
 -- title:

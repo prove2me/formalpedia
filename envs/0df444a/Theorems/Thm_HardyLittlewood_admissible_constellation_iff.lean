@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_admissible_constellation_iff
 -- name    : HardyLittlewood.admissible_constellation_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:44:24.152895+00:00
 -- url     : https://prove2.me/theorems/8e490631-383d-4b0d-9120-b578fd99649e
 -- title:

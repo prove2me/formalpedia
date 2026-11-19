@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_photonIndex_closed_form
 -- name    : Weinberg1965.photonIndex_closed_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:55:01.439989+00:00
 -- url     : https://prove2.me/theorems/5b1b3c65-1fae-40f3-b5ed-ca6cbf60991a
 -- title:

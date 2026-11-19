@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_three_loop_coefficients
 -- name    : NaculichRegge.three_loop_coefficients
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:04:46.426247+00:00
 -- url     : https://prove2.me/theorems/7a469fa2-810f-4ec8-942d-1010e4411757
 -- title:

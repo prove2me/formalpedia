@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_iff_sum_z_eq_zero
 -- name    : KoideRelation.koide_iff_sum_z_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:55:22.914705+00:00
 -- url     : https://prove2.me/theorems/633860d8-c740-4607-87f7-dad0970bfd63
 -- title:

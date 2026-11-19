@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_kcell_compact
 -- name    : Rudin.ch02_kcell_compact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:51:32.668906+00:00
 -- url     : https://prove2.me/theorems/a03058cd-e46f-4bf3-ba9b-23b7e1a68eaa
 -- title:

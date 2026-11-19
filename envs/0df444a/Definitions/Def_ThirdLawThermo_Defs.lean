@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ThirdLawThermo_Defs
 -- name    : ThirdLawThermo_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:25:09.23998+00:00
 -- url     : https://prove2.me/theorems/dea8621c-391a-42d2-bff8-823ccb813fd4
 -- title:

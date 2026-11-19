@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_vb_quotients
 -- name    : FRV.vb_quotients
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:15.131559+00:00
 -- url     : https://prove2.me/theorems/e1aa8747-c593-47dc-ad8e-df7e106d86ba
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_palis_orientable
 -- name    : palis_orientable
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:54:44.468996+00:00
 -- url     : https://prove2.me/theorems/7f2d87aa-a4c1-4617-aa51-04ba9332b784
 -- title:

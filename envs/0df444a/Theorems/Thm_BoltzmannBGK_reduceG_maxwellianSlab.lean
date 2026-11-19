@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_reduceG_maxwellianSlab
 -- name    : BoltzmannBGK.reduceG_maxwellianSlab
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:24:23.660111+00:00
 -- url     : https://prove2.me/theorems/19639960-c383-4799-8d83-0d5d9bd0c77b
 -- title:

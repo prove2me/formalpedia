@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_coincide_of_convergesTo_of_convergesTo
 -- name    : CogCons.coincide_of_convergesTo_of_convergesTo
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:31:37.055323+00:00
 -- url     : https://prove2.me/theorems/ccd80da6-b21b-43df-b39d-f43b79fa0491
 -- title:

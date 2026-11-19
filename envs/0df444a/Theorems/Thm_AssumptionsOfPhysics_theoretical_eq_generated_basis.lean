@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_theoretical_eq_generated_basis
 -- name    : AssumptionsOfPhysics.theoretical_eq_generated_basis
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:15:21.007008+00:00
 -- url     : https://prove2.me/theorems/74611c7f-dcfb-445c-b5cd-329ff424054e
 -- title:

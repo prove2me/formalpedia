@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LaplaceTide_core
 -- name    : LaplaceTide_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:26:21.621765+00:00
 -- url     : https://prove2.me/theorems/5cff0404-b1f2-4587-85e1-19c228095497
 -- title:

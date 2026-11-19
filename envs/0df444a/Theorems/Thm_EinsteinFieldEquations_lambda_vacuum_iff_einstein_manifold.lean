@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_lambda_vacuum_iff_einstein_manifold
 -- name    : EinsteinFieldEquations.lambda_vacuum_iff_einstein_manifold
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:04:35.115112+00:00
 -- url     : https://prove2.me/theorems/ff373511-ee74-4256-bd48-22f29af29d9d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_thm_3_15_half_twists_satisfy_relations
 -- name    : TarchaBraids.thm_3_15_half_twists_satisfy_relations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T23:38:08.740031+00:00
 -- url     : https://prove2.me/theorems/3003b2e4-9cdb-45d6-9ee7-310d162fff72
 -- title:

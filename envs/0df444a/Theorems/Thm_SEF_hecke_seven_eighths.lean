@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SEF_hecke_seven_eighths
 -- name    : SEF.hecke_seven_eighths
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:04:10.808967+00:00
 -- url     : https://prove2.me/theorems/7c5712a2-e9ab-4dad-848c-7e96562be336
 -- title:

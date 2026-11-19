@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_kappa_restricted_and_mul
 -- name    : ChatterjeeQFT.kappa_restricted_and_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:38:39.682567+00:00
 -- url     : https://prove2.me/theorems/715db0cf-b065-4ce9-8e05-e42ba1084169
 -- title:

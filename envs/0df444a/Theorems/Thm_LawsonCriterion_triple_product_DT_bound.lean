@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_triple_product_DT_bound
 -- name    : LawsonCriterion.triple_product_DT_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:13:56.650623+00:00
 -- url     : https://prove2.me/theorems/2fa9bb4b-29b3-4a28-ba3c-fe77aca83fac
 -- title:

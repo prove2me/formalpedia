@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_threshold_theorem_noise_model
 -- name    : threshold_theorem_noise_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:58:06.17139+00:00
 -- url     : https://prove2.me/theorems/f41ce754-f398-4525-8e43-fde1cb86418c
 -- title:

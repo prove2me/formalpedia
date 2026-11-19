@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_inertial_confinement_nR
 -- name    : LawsonCriterion.inertial_confinement_nR
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:20:10.439205+00:00
 -- url     : https://prove2.me/theorems/bf5e059e-ec54-4aec-a4d2-e60e07c33f79
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThresholdTheorem_quantum_threshold_theorem
 -- name    : ThresholdTheorem.quantum_threshold_theorem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:04:37.888086+00:00
 -- url     : https://prove2.me/theorems/b4c0161e-eb7b-4d33-a33f-e1ddddc3e0d7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_rescaled_entropy_eq_shannon
 -- name    : BoltzmannConstant.rescaled_entropy_eq_shannon
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:41:58.357178+00:00
 -- url     : https://prove2.me/theorems/124833ad-68c1-4c0b-9966-b90f4a0db853
 -- title:

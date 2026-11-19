@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_hsbb_homology_balls
 -- name    : hsbb_homology_balls
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:15:10.108362+00:00
 -- url     : https://prove2.me/theorems/564a9b8b-c5ab-403c-b565-7ce2f83391f5
 -- title:

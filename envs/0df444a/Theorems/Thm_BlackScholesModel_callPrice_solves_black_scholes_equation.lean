@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_callPrice_solves_black_scholes_equation
 -- name    : BlackScholesModel.callPrice_solves_black_scholes_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:39:46.594563+00:00
 -- url     : https://prove2.me/theorems/7b9f86c4-ef67-48b5-a89c-e0f23038fec0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_posMap_is_field_line
 -- name    : Landreman3DEquilibria.posMap_is_field_line
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:06:45.018993+00:00
 -- url     : https://prove2.me/theorems/a2f8660c-a672-4872-a96b-7429016e2fc6
 -- title:

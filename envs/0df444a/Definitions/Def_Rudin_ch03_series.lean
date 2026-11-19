@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch03_series
 -- name    : Rudin_ch03_series
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:59:16.199773+00:00
 -- url     : https://prove2.me/theorems/dc9f5b4d-9aab-4486-b0bc-d209e3b78c32
 -- title:

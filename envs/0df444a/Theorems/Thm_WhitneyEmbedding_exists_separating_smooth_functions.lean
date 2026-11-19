@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_exists_separating_smooth_functions
 -- name    : WhitneyEmbedding.exists_separating_smooth_functions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T11:59:39.654979+00:00
 -- url     : https://prove2.me/theorems/1d1c7abb-ba91-4073-9a5e-2a3e8d5070ab
 -- title:

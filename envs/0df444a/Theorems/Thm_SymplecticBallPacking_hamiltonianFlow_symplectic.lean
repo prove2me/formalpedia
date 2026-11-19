@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymplecticBallPacking_hamiltonianFlow_symplectic
 -- name    : SymplecticBallPacking.hamiltonianFlow_symplectic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:56:24.166431+00:00
 -- url     : https://prove2.me/theorems/8fc810ec-5353-4708-a452-d816ccccafa6
 -- title:

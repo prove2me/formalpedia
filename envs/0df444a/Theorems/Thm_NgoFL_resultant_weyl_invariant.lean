@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_resultant_weyl_invariant
 -- name    : NgoFL.resultant_weyl_invariant
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:34:14.380524+00:00
 -- url     : https://prove2.me/theorems/a6637c44-e4f7-414e-9786-056887456506
 -- title:

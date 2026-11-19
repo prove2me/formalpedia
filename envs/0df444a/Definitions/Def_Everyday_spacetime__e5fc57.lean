@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Everyday_spacetime__e5fc57
 -- name    : Everyday_spacetime
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:11:05.506357+00:00
 -- url     : https://prove2.me/theorems/e5fc5728-4ad0-4f66-88d4-58e604c4d8d6
 -- title:

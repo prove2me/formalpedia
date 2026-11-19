@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.ed_num
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:46.981539+00:00
 -- url     : https://prove2.me/submissions/74747a0b-c441-4f5f-b061-7a0db955d03c
 

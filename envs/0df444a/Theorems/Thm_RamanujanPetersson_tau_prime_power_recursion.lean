@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_tau_prime_power_recursion
 -- name    : RamanujanPetersson.tau_prime_power_recursion
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:14:03.460444+00:00
 -- url     : https://prove2.me/theorems/d96f83e5-142a-461f-aabc-8f1db08c16d2
 -- title:

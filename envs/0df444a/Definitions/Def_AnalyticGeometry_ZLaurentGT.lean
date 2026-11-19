@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnalyticGeometry_ZLaurentGT
 -- name    : AnalyticGeometry_ZLaurentGT
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T13:08:30.263111+00:00
 -- url     : https://prove2.me/theorems/b63e8f17-0e94-4b0a-881f-e8c234a9ce09
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.proper_injective_is_embedding
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T12:16:26.828105+00:00
 -- url     : https://prove2.me/submissions/5b1ab6d3-39de-4618-a434-337638ba9eaa
 

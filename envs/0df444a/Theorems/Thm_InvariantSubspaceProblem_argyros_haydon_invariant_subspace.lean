@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_argyros_haydon_invariant_subspace
 -- name    : InvariantSubspaceProblem.argyros_haydon_invariant_subspace
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T17:27:12.060724+00:00
 -- url     : https://prove2.me/theorems/8cd45bc6-3218-4619-99b2-02a29c1e319f
 -- title:

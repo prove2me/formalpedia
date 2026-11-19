@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pade_pade_existence_uniqueness
 -- name    : Pade.pade_existence_uniqueness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:27:38.002217+00:00
 -- url     : https://prove2.me/theorems/cc26c107-4a88-46f3-ad08-12008343953d
 -- title:

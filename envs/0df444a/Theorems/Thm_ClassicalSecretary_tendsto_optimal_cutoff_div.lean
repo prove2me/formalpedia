@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_tendsto_optimal_cutoff_div
 -- name    : ClassicalSecretary.tendsto_optimal_cutoff_div
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:53:51.435308+00:00
 -- url     : https://prove2.me/theorems/c5388fac-4cb8-430b-9906-d71ee29df721
 -- title:

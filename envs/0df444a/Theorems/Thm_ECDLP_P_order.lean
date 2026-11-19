@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_P_order
 -- name    : ECDLP.P_order
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:44:17.163212+00:00
 -- url     : https://prove2.me/theorems/8acc5a91-73c7-4183-b9d5-6659eb9d3992
 -- title:

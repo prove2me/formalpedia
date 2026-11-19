@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymmetricRendezvousLine_symmetric_rendezvous_value_eq_seventeen_quarters
 -- name    : SymmetricRendezvousLine.symmetric_rendezvous_value_eq_seventeen_quarters
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:55:12.335571+00:00
 -- url     : https://prove2.me/theorems/60320ddb-c6bd-4f6b-a6cb-d7418b057ca6
 -- title:

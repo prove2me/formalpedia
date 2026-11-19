@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ChatterjeeQFT_ElectronSpace
 -- name    : ChatterjeeQFT_ElectronSpace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:00:51.128687+00:00
 -- url     : https://prove2.me/theorems/c950e958-1d75-454e-a660-c206a40c6dcf
 -- title:

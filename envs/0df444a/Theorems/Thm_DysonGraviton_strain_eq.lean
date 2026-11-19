@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_strain_eq
 -- name    : DysonGraviton.strain_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:23:40.503439+00:00
 -- url     : https://prove2.me/theorems/8206c25d-e6c2-4995-bf9f-5bdf86de004f
 -- title:

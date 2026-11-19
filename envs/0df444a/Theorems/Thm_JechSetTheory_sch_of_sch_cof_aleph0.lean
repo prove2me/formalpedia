@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JechSetTheory_sch_of_sch_cof_aleph0
 -- name    : JechSetTheory.sch_of_sch_cof_aleph0
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T02:33:54.403952+00:00
 -- url     : https://prove2.me/theorems/447a51ff-811d-49c9-ba61-1ff299b281f9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_maxwellian_integral
 -- name    : BoltzmannBGK.maxwellian_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:16:16.798131+00:00
 -- url     : https://prove2.me/theorems/3b090e0c-407f-4e53-ab3a-6b45a6f574c4
 -- title:

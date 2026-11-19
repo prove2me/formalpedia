@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThresholdTheorem_level_one_error_suppression
 -- name    : ThresholdTheorem.level_one_error_suppression
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:59:37.872325+00:00
 -- url     : https://prove2.me/theorems/461e312a-3410-4e3c-b930-144609d2651c
 -- title:

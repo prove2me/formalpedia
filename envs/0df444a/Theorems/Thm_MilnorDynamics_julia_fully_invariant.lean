@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_julia_fully_invariant
 -- name    : MilnorDynamics.julia_fully_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T11:07:27.436986+00:00
 -- url     : https://prove2.me/theorems/fe39c9dd-0f35-4dfd-8a82-e13fdb86014d
 -- title:

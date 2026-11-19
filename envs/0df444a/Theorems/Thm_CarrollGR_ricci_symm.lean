@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_ricci_symm
 -- name    : CarrollGR.ricci_symm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:04:25.98079+00:00
 -- url     : https://prove2.me/theorems/65c665bf-4248-40ea-be34-942921243d2c
 -- title:

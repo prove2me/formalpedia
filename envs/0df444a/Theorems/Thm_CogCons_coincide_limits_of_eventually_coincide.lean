@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_coincide_limits_of_eventually_coincide
 -- name    : CogCons.coincide_limits_of_eventually_coincide
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:35:09.637873+00:00
 -- url     : https://prove2.me/theorems/c531d4cf-8f05-4f5e-8691-f73e432b2e28
 -- title:

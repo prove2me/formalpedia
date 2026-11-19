@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_torsion_units_of_exists_isReal
 -- name    : DirichletUnitTheorem.torsion_units_of_exists_isReal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:32:45.010909+00:00
 -- url     : https://prove2.me/theorems/d4c7dbfd-a1e8-4288-bb33-2c49b1df4d40
 -- title:

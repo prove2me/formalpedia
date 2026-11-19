@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_planck_units
 -- name    : planck_units
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:28:44.398677+00:00
 -- url     : https://prove2.me/theorems/8d516ef6-ea28-4cc2-a361-96f21f282b89
 -- title:

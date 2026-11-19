@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_conte_fujikawa_lakic
 -- name    : SmaleMeanValue.conte_fujikawa_lakic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:28:06.431456+00:00
 -- url     : https://prove2.me/theorems/d64e8986-5af7-4d6b-80c3-8e7340a8c8a9
 -- title:

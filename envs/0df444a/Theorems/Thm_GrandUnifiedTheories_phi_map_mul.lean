@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_phi_map_mul
 -- name    : GrandUnifiedTheories.phi_map_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:41:59.942485+00:00
 -- url     : https://prove2.me/theorems/178524c8-141e-4be9-8f28-7c3a804a61e6
 -- title:

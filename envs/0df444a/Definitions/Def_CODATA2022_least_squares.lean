@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CODATA2022_least_squares
 -- name    : CODATA2022_least_squares
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:03:29.722861+00:00
 -- url     : https://prove2.me/theorems/ba0e0ba9-cd8d-4d13-b19d-8ab49cd72a32
 -- title:

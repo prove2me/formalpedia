@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NgoFL.transfer_factor_valuation
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T18:21:38.109067+00:00
 -- url     : https://prove2.me/submissions/b147fc95-c4cb-4fc0-97dd-bd0cc51f294b
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherFiniteHorizonMeasures
 -- name    : Kyprianou.Ch03.esscherFiniteHorizonMeasures
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:47:29.010745+00:00
 -- url     : https://prove2.me/theorems/4de18e7b-b85e-4852-ab04-e21c798624d2

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_dir_force_needs_cycle
 -- name    : DirS.dir_force_needs_cycle
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:27:12.314421+00:00
 -- url     : https://prove2.me/theorems/e7f2823b-66a5-42d9-8606-d1ccaed19ca4
 -- title:

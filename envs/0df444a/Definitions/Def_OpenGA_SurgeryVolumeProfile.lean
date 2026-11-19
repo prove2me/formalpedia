@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_OpenGA_SurgeryVolumeProfile
 -- name    : OpenGA_SurgeryVolumeProfile
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:31:24.355334+00:00
 -- url     : https://prove2.me/theorems/35bfeea1-d648-484f-a169-c765a3de7342
 -- title:

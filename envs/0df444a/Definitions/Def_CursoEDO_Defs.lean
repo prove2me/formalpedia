@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CursoEDO_Defs
 -- name    : CursoEDO_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:15:33.405836+00:00
 -- url     : https://prove2.me/theorems/117ac188-28ae-4e5b-a318-e2096470830b
 -- title:

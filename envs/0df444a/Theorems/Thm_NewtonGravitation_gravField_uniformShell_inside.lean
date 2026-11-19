@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_gravField_uniformShell_inside
 -- name    : NewtonGravitation.gravField_uniformShell_inside
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:00:34.655946+00:00
 -- url     : https://prove2.me/theorems/f54d81e4-b448-432c-af88-27fa2ce9875b
 -- title:

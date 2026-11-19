@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_douglas_flux_vacua_count
 -- name    : douglas_flux_vacua_count
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:47:33.562264+00:00
 -- url     : https://prove2.me/theorems/c24cfa29-fcc0-4401-b6e7-d57c8c076a21
 -- title:

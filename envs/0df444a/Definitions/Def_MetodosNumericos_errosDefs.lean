@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_errosDefs
 -- name    : MetodosNumericos_errosDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:32:55.601688+00:00
 -- url     : https://prove2.me/theorems/f23233ee-36f3-4958-8eef-276151f74d0d
 -- title:

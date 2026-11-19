@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_first_implies_infinite_constellations
 -- name    : HardyLittlewood.first_implies_infinite_constellations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:47:19.89888+00:00
 -- url     : https://prove2.me/theorems/5bdbefc4-3683-443e-825e-47f17fd1171a
 -- title:

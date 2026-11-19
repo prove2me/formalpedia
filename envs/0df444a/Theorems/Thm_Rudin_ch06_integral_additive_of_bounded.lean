@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_integral_additive_of_bounded
 -- name    : Rudin.ch06_integral_additive_of_bounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:03:37.242604+00:00
 -- url     : https://prove2.me/theorems/e46ab287-a484-46ee-b9b5-92e66398fd69
 -- title:

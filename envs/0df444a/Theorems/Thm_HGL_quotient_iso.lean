@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_quotient_iso
 -- name    : HGL.quotient_iso
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:32.998919+00:00
 -- url     : https://prove2.me/theorems/4c177470-a9fa-4a63-a9a7-1c2ec99d707e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_gregarious_ideal
 -- name    : BalancedAlgebra.gregarious_ideal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:27:59.43062+00:00
 -- url     : https://prove2.me/theorems/04385e33-2da3-475c-aec5-cb3c4370fbc5
 -- title:

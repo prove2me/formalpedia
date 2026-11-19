@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_ratio_bounds
 -- name    : KoideRelation.koide_ratio_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:18:32.344627+00:00
 -- url     : https://prove2.me/theorems/786cff49-318b-4c1d-aa3f-95b6bab9f7ee
 -- title:

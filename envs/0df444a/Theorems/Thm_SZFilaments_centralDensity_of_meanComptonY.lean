@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_centralDensity_of_meanComptonY
 -- name    : SZFilaments.centralDensity_of_meanComptonY
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:33:17.622277+00:00
 -- url     : https://prove2.me/theorems/f2627e4f-8618-4bcd-8f3c-5651e3e59564
 -- title:

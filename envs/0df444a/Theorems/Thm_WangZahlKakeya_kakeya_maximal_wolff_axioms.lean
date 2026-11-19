@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_kakeya_maximal_wolff_axioms
 -- name    : WangZahlKakeya.kakeya_maximal_wolff_axioms
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T13:08:40.481258+00:00
 -- url     : https://prove2.me/theorems/e8b936b8-bbba-4d58-bda3-7202daba31bf
 -- title:

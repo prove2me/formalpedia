@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_hecke_correspondence
 -- name    : Gelbart.hecke_correspondence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:49:55.79262+00:00
 -- url     : https://prove2.me/theorems/a70f1d8d-9d08-4daf-b91c-31564ffb7ae3
 -- title:

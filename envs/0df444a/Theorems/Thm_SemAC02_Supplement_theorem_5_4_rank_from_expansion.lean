@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_5_4_rank_from_expansion
 -- name    : SemAC02.Supplement.theorem_5_4_rank_from_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:50:15.171388+00:00
 -- url     : https://prove2.me/theorems/51b7733e-931b-4fe6-b9dd-78c3b59763fb

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_classical_pureStates_eq_basis
 -- name    : HardyFiveAxioms.classical_pureStates_eq_basis
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:01:45.055262+00:00
 -- url     : https://prove2.me/theorems/04334560-0a52-449c-b9a3-f4e6f21b0b72
 -- title:

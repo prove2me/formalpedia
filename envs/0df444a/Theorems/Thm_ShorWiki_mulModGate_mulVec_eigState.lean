@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShorWiki_mulModGate_mulVec_eigState
 -- name    : ShorWiki.mulModGate_mulVec_eigState
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T03:02:53.734258+00:00
 -- url     : https://prove2.me/theorems/54bc5aaf-1c10-4c59-ab26-37ab6f52eba3
 -- title:

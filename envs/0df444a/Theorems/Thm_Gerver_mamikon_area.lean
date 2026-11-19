@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_mamikon_area
 -- name    : Gerver.mamikon_area
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:14:13.684003+00:00
 -- url     : https://prove2.me/theorems/c38f7e68-623e-4a33-866e-032382ae588a
 -- title:

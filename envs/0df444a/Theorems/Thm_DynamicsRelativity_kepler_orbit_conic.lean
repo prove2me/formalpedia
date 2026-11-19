@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_kepler_orbit_conic
 -- name    : DynamicsRelativity.kepler_orbit_conic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:19:59.99266+00:00
 -- url     : https://prove2.me/theorems/b8ae9400-b549-4328-80ed-3e5025078ba7
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for isPreconnected_iInter_of_antitone_isCompact
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:45:55.907425+00:00
 -- url     : https://prove2.me/submissions/17eb2d52-d52d-40c8-8d18-fae1801f84b5
 

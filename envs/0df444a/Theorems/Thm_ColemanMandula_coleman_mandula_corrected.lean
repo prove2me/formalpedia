@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ColemanMandula_coleman_mandula_corrected
 -- name    : ColemanMandula.coleman_mandula_corrected
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T05:06:33.088527+00:00
 -- url     : https://prove2.me/theorems/5b1e3b40-b7f9-4acf-8ef0-986a64c8b007
 -- title:

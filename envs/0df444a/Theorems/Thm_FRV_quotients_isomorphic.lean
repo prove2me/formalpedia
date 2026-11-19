@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_quotients_isomorphic
 -- name    : FRV.quotients_isomorphic
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:41.559223+00:00
 -- url     : https://prove2.me/theorems/c4a1a6fc-85f7-42df-aa19-c39ddfd3d0dd
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_energy_le_card
 -- name    : ParticleInARing.energy_le_card
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:53:28.491586+00:00
 -- url     : https://prove2.me/theorems/4b32344a-56cf-4017-acef-20d78e965659
 -- title:

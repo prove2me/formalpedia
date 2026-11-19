@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_wick_theorem
 -- name    : LesHouchesWidth.wick_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:19:29.502269+00:00
 -- url     : https://prove2.me/theorems/bd7edd52-09ee-4050-8444-844ca16e0987
 -- title:

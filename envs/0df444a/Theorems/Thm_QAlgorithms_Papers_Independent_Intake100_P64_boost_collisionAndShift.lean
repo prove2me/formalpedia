@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_boost_collisionAndShift
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.boost_collisionAndShift
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:21:16.311091+00:00
 -- url     : https://prove2.me/theorems/37e4e36a-cec6-4a8b-b755-12cb28915b77

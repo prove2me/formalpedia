@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PCB_lex_cone_mul
 -- name    : PCB.lex_cone_mul
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:07:31.964677+00:00
 -- url     : https://prove2.me/theorems/09f7ab03-01ea-4127-96b9-14314fd840e5
 -- title:

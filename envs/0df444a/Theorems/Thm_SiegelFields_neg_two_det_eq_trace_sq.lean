@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_neg_two_det_eq_trace_sq
 -- name    : SiegelFields.neg_two_det_eq_trace_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T00:34:04.906458+00:00
 -- url     : https://prove2.me/theorems/9836dbf3-9a7f-4226-8350-a015644beed1
 -- title:

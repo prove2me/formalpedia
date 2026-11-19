@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_strong_embedding_low_dimensions
 -- name    : WhitneyEmbedding.strong_embedding_low_dimensions
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T17:17:31.712972+00:00
 -- url     : https://prove2.me/theorems/87a29d90-e727-4e18-88ed-5b5d3ffb41d1
 -- title:

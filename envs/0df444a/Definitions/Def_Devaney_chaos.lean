@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Devaney_chaos
 -- name    : Devaney_chaos
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:57:27.402428+00:00
 -- url     : https://prove2.me/theorems/78b4383d-8735-4697-9f56-709bf734c8cb
 -- title:

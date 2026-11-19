@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LindgrenPriceDynamics
 -- name    : LindgrenPriceDynamics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:42:57.634958+00:00
 -- url     : https://prove2.me/theorems/d5913507-8518-4d6e-9213-728e1c5d98a1
 -- title:

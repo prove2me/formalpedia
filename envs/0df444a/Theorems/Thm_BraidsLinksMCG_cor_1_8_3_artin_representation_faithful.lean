@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_cor_1_8_3_artin_representation_faithful
 -- name    : BraidsLinksMCG.cor_1_8_3_artin_representation_faithful
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T19:00:29.697674+00:00
 -- url     : https://prove2.me/theorems/479d7c79-e900-4f2c-84b8-02c848c51080
 -- title:

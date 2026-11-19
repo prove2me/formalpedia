@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_lindelof_iff_isLittleO
 -- name    : LindelofHypothesis.lindelof_iff_isLittleO
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:35:01.865998+00:00
 -- url     : https://prove2.me/theorems/d4fa16e1-9dd9-4cd2-ad9b-4f4c013511b2
 -- title:

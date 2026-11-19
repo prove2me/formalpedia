@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_charge_from_codata_relation
 -- name    : ElementaryCharge.charge_from_codata_relation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:39:40.201601+00:00
 -- url     : https://prove2.me/theorems/8d5c2d62-b906-431d-8200-cd4dbd8d728d
 -- title:

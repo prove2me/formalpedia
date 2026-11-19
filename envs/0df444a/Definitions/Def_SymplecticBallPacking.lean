@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SymplecticBallPacking
 -- name    : SymplecticBallPacking
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:55:55.131209+00:00
 -- url     : https://prove2.me/theorems/33772ed8-67b3-4313-98b8-a4a75e6e4676
 -- title:

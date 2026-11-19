@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_galeShapley_woman_pessimal
 -- name    : StableMatching.galeShapley_woman_pessimal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:35:55.028086+00:00
 -- url     : https://prove2.me/theorems/9ab79063-616a-4238-8707-ba3aac638ec6
 -- title:

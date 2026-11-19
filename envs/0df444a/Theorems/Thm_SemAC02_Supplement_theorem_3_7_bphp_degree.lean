@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_3_7_bphp_degree
 -- name    : SemAC02.Supplement.theorem_3_7_bphp_degree
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:48:21.454106+00:00
 -- url     : https://prove2.me/theorems/b1978e57-8eec-451a-95de-1a9fb6c3f5a5

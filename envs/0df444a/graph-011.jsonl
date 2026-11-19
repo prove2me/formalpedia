@@ -2666,8 +2666,8 @@
 {"parent": "AvramDividend.Classical.chat04_barrierStrategy_post_upcrossing_interval_increment", "child": "AvramDividend.Classical.chat04_barrierStrategy_post_upcrossing_record_increment", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.discounted_dividend_window_real_integral_le_cumulative", "child": "AvramDividend.Classical.discounted_dividend_window_le_cumulative", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.discounted_dividend_window_real_integral_le_cumulative", "child": "AvramDividend.Classical.discounted_dividend_window_real_lintegral_bridge", "via": ["solution", "statement"]}
-{"parent": "AlgebraicGeometry.RelPicard.exists_finite_linear_realization_of_curve_degrees", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
-{"parent": "AlgebraicGeometry.RelPicard.exists_finite_linear_realization_of_curve_degrees", "child": "AlgebraicGeometry_CurveDegreeTests", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.RelPicard.exists_finite_linear_realization_of_curve_degrees", "child": "AlgebraicGeometry_ProjSpace", "via": ["solution", "statement"]}
+{"parent": "AlgebraicGeometry.RelPicard.exists_finite_linear_realization_of_curve_degrees", "child": "AlgebraicGeometry_CurveDegreeTests", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support50.P40.cat_asymptoticThreshold", "child": "QAlgorithms_Papers_Independent_Support50_P40", "via": ["statement"]}
 {"parent": "Erdos195.shield_safe", "child": "Erdos195_tree", "via": ["solution", "statement"]}
 {"parent": "OfflineCMC_Minimax_Model", "child": "OfflineCMC_Minimax_CMC", "via": ["statement"]}
@@ -4222,7 +4222,7 @@
 {"parent": "PricingWithTips3DM_8b09f47f7ca25a98af8eeccd", "child": "PricingWithTips3DM_1c2352411c43f97f713e7d28", "via": ["statement"]}
 {"parent": "SynDigits.Ridge.residual_split", "child": "GaussianMatrix_basic", "via": ["solution", "statement"]}
 {"parent": "SynDigits.Ridge.residual_split", "child": "SynDigits_Ridge_Model", "via": ["solution", "statement"]}
-{"parent": "HILL.PRG.false_entropy_to_pseudoentropy_with_gap", "child": "HILL_PRG_Model", "via": ["statement"]}
+{"parent": "HILL.PRG.false_entropy_to_pseudoentropy_with_gap", "child": "HILL_PRG_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support50.P09.entropyThreshold_supermodular", "child": "QAlgorithms_Papers_Independent_Support50_P09", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.DeterminantContradiction.translation_scalar_estimate", "child": "OAI_PiExponent_MinorTranslationData", "via": ["solution", "statement"]}
 {"parent": "APrioriTSP.Sampling.lemma_18", "child": "APrioriTSP_Sampling_Setting", "via": ["solution", "statement"]}
@@ -89033,10 +89033,10 @@
 {"parent": "Sensitivity213981Formal_Endpoint22PackedTree054", "child": "SensitivityCampaign", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22PackedTree054", "child": "Sensitivity213981Formal_Namespaces", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22PackedTree054", "child": "Sensitivity213981Formal_RelaxedPackedTreeData", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_19", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_19", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_19", "child": "HHRControl_PV_Elections", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_19", "child": "HHRControl_PV_Languages", "via": ["statement"]}
+{"parent": "HHRControl.PV.theorem_4_19", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_19", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_19", "child": "HHRControl_PV_Elections", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_19", "child": "HHRControl_PV_Languages", "via": ["solution", "statement"]}
 {"parent": "D1Bound5_SmallPairLightData12_Definitions_001", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["statement"]}
 {"parent": "FunctionalInequalities.Analysis.CoordinateTensor.sum_mul_prod_delta_erase_erase_readable", "child": "KLSModular_FunctionalInequalities_Analysis_Tensor_EnergyForm", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_16_11_7", "child": "OAIQ047L000", "via": ["solution", "statement"]}

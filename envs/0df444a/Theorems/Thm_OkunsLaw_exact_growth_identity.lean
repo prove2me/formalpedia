@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OkunsLaw_exact_growth_identity
 -- name    : OkunsLaw.exact_growth_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:14.605775+00:00
 -- url     : https://prove2.me/theorems/39caf705-641d-4341-ac13-856ca05b20ca
 -- title:

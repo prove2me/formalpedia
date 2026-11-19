@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FourToOneGames_Grassmann
 -- name    : FourToOneGames_Grassmann
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:02:46.915535+00:00
 -- url     : https://prove2.me/theorems/b9d39d00-9551-489d-97c4-af49af199ebc
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_stokes_surface
 -- name    : Rudin.ch10_stokes_surface
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T00:27:27.859697+00:00
 -- url     : https://prove2.me/theorems/814a2a2f-f8f8-4ae6-b56a-92216265b3c2
 -- title:

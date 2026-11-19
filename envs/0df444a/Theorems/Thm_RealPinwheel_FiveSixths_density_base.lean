@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_density_base
 -- name    : RealPinwheel.FiveSixths.density_base
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:35:13.02567+00:00
 -- url     : https://prove2.me/theorems/58c8b421-7efb-4c3b-af9c-34605b4582dd

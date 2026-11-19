@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FourToOneGames_NAE
 -- name    : FourToOneGames_NAE
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:02:32.443638+00:00
 -- url     : https://prove2.me/theorems/4d54cabe-b59f-45d5-9292-babb9ed80743
 -- title:

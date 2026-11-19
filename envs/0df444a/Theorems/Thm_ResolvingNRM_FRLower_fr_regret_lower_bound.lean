@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRLower_fr_regret_lower_bound
 -- name    : ResolvingNRM.FRLower.fr_regret_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:42:22.21554+00:00
 -- url     : https://prove2.me/theorems/ff842d05-3732-4523-885d-c8a54b2ca65b

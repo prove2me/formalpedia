@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TongEM_wave_ops
 -- name    : TongEM_wave_ops
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T01:09:54.114657+00:00
 -- url     : https://prove2.me/theorems/a90bae4e-a028-477a-827e-251c6ef56580
 -- title:

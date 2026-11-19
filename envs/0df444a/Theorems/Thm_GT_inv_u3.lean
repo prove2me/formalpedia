@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_inv_u3
 -- name    : GT.inv_u3
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:52.624008+00:00
 -- url     : https://prove2.me/theorems/76c859c3-e374-4e9b-9e66-c159f7f0fbb1
 -- title:

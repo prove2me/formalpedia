@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_equilibrium_price_demand_monotone
 -- name    : DrugMarket.equilibrium_price_demand_monotone
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:41:44.815201+00:00
 -- url     : https://prove2.me/theorems/a7c53152-afc5-4c4a-8dcd-4e8964ff30cf
 -- title:

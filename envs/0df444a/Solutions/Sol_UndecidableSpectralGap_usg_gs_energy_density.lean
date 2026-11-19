@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for UndecidableSpectralGap.usg_gs_energy_density
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T13:54:34.360443+00:00
 -- url     : https://prove2.me/submissions/b7c818f6-af69-4c29-a47f-818f51702498
 

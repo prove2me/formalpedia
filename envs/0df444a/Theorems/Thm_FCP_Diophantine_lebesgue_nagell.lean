@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Diophantine_lebesgue_nagell
 -- name    : FCP.Diophantine.lebesgue_nagell
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:31:36.73311+00:00
 -- url     : https://prove2.me/theorems/38e0bcb1-e23a-42c0-beeb-29356f0c3d7d
 -- title:

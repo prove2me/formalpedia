@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PughClosingLemma_pugh_closing_lemma
 -- name    : PughClosingLemma.pugh_closing_lemma
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:49:43.018365+00:00
 -- url     : https://prove2.me/theorems/9baa6595-5aa2-49a4-9841-3bc12c2c4e53
 -- title:

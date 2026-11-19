@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HardyLittlewood_series
 -- name    : HardyLittlewood_series
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:31:46.789918+00:00
 -- url     : https://prove2.me/theorems/5dc48820-e6da-435c-bd33-cc0784db55af
 -- title:

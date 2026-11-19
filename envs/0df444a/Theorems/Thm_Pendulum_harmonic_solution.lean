@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_harmonic_solution
 -- name    : Pendulum.harmonic_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:36:11.44199+00:00
 -- url     : https://prove2.me/theorems/751fbe40-baa7-4f28-9135-dd306cb6df5a
 -- title:

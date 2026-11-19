@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.finite_immersion_and_proper_function_of_noncompact
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T11:43:29.843419+00:00
 -- url     : https://prove2.me/submissions/2e320bff-3dd5-461d-81ff-5e170119a4a5
 

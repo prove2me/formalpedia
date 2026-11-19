@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_simpson_composite_error
 -- name    : MetodosNumericos.simpson_composite_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:47:32.305389+00:00
 -- url     : https://prove2.me/theorems/db0c2d27-a474-44b5-a541-e6d327f6f860
 -- title:

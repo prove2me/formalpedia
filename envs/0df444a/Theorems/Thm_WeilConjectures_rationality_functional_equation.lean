@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_rationality_functional_equation
 -- name    : WeilConjectures.rationality_functional_equation
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:03:52.95688+00:00
 -- url     : https://prove2.me/theorems/bb5c849b-de47-4883-8cbc-91be2e9b0f02
 -- title:

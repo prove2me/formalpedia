@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_chiSquare_weight_smul
 -- name    : CODATA2022.chiSquare_weight_smul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:22:24.993559+00:00
 -- url     : https://prove2.me/theorems/a0298664-cd7f-4487-b3d1-7471f89ec7b6
 -- title:

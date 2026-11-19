@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_archimedean
 -- name    : Rudin.ch01_archimedean
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:29:33.747891+00:00
 -- url     : https://prove2.me/theorems/0d07ef31-6a04-4c2d-8fbc-033e6fba9a9e
 -- title:

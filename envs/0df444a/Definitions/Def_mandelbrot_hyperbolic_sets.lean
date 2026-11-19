@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_mandelbrot_hyperbolic_sets
 -- name    : mandelbrot_hyperbolic_sets
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:41:55.55218+00:00
 -- url     : https://prove2.me/theorems/31235284-4c24-4fef-bfd8-7c1910796a6a
 -- title:

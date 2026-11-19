@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsCuspPeterssonTrace_exp_decay
 -- name    : QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonTrace_exp_decay
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T09:21:56.765448+00:00
 -- url     : https://prove2.me/theorems/8d89a024-6dfe-449e-a0f3-cf23a8f58daf

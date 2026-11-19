@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_manifold_nontrivial
 -- name    : ray_manifold_nontrivial
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:04:26.863116+00:00
 -- url     : https://prove2.me/theorems/d434e086-fa58-4b02-805b-6e2f7559b067
 -- title:

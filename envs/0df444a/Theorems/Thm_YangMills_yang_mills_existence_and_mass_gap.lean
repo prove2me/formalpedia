@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMills_yang_mills_existence_and_mass_gap
 -- name    : YangMills.yang_mills_existence_and_mass_gap
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:38:33.250338+00:00
 -- url     : https://prove2.me/theorems/ebe7680d-cc6a-4a7a-9403-5a423e6bd89e
 -- title:

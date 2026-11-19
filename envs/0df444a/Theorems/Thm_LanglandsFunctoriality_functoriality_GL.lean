@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_functoriality_GL
 -- name    : LanglandsFunctoriality.functoriality_GL
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:50:53.72436+00:00
 -- url     : https://prove2.me/theorems/64599646-733c-41f9-bccc-e95b161efcbd
 -- title:

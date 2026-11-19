@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.label_num
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:46.386511+00:00
 -- url     : https://prove2.me/submissions/53226c1a-0f4b-4f68-8e10-867f66ad9481
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_classical_no_continuous_pure_path
 -- name    : HardyFiveAxioms.classical_no_continuous_pure_path
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:49:30.124429+00:00
 -- url     : https://prove2.me/theorems/05e7549c-7eb7-4841-9c06-ec617f8bcae3
 -- title:

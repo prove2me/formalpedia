@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ChatterjeeQFT_MassShell
 -- name    : ChatterjeeQFT_MassShell
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:43:13.186745+00:00
 -- url     : https://prove2.me/theorems/dc5b3a9c-776d-467d-9627-cf743687ee7e
 -- title:

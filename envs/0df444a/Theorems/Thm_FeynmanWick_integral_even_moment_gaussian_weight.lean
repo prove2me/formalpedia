@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FeynmanWick_integral_even_moment_gaussian_weight
 -- name    : FeynmanWick.integral_even_moment_gaussian_weight
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:01:52.893776+00:00
 -- url     : https://prove2.me/theorems/efcb66a7-0e44-4ba6-9ebd-fbacfdf928c4
 -- title:

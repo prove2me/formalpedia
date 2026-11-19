@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistLTLSynth_Char_lemma_6_16
 -- name    : DistLTLSynth.Char.lemma_6_16
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:16:55.644006+00:00
 -- url     : https://prove2.me/theorems/61392ebc-ce97-4677-bd6a-f58f12b5182a

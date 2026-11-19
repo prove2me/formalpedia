@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_katz_tao_counting_lemma
 -- name    : ArithmeticKakeya.katz_tao_counting_lemma
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:56:02.678255+00:00
 -- url     : https://prove2.me/theorems/e149c95b-14d2-4560-86f7-a015850012ba
 -- title:

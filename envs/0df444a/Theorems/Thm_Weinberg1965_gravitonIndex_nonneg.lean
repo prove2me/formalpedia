@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_gravitonIndex_nonneg
 -- name    : Weinberg1965.gravitonIndex_nonneg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:05:35.116071+00:00
 -- url     : https://prove2.me/theorems/8b6d97c9-02dc-4d4a-970a-a0a6ba340468
 -- title:

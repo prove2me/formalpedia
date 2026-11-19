@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerNotify_lemma_3
 -- name    : VolunteerNotify.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:38:37.400234+00:00
 -- url     : https://prove2.me/theorems/83fbfea1-892d-4df7-ad86-1bcb12f440cf

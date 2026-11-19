@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnsembleSpaceDraft_monodecomposable_iff_mixtures_preserve_separateness
 -- name    : EnsembleSpaceDraft.monodecomposable_iff_mixtures_preserve_separateness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:51:07.538272+00:00
 -- url     : https://prove2.me/theorems/0950ee1a-bbfe-49d4-ae18-55a5216bded1
 -- title:

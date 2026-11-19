@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_maxwellian1d_moments
 -- name    : BoltzmannBGK.maxwellian1d_moments
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:27:26.835877+00:00
 -- url     : https://prove2.me/theorems/76b7ccc9-a701-4766-be25-47de668122c2
 -- title:

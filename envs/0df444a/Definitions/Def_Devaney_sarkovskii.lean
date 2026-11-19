@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Devaney_sarkovskii
 -- name    : Devaney_sarkovskii
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:57:52.01441+00:00
 -- url     : https://prove2.me/theorems/41e1b781-5152-4b1a-b863-aeca63bedd8d
 -- title:

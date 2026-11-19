@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UndecidableSpectralGap_usg_spectral_gap_main
 -- name    : UndecidableSpectralGap.usg_spectral_gap_main
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T05:44:21.468656+00:00
 -- url     : https://prove2.me/theorems/3c51b3bf-00b5-4bf6-88ae-d35e9c498299
 -- title:

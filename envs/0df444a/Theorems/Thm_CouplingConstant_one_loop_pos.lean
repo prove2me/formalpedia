@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_one_loop_pos
 -- name    : CouplingConstant.one_loop_pos
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:54:07.697016+00:00
 -- url     : https://prove2.me/theorems/e63e6309-3c57-4bd5-9651-3bb2d9000094
 -- title:

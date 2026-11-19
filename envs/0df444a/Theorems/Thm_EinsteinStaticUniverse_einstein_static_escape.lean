@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_einstein_static_escape
 -- name    : EinsteinStaticUniverse.einstein_static_escape
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:26:00.064742+00:00
 -- url     : https://prove2.me/theorems/6babab6e-d702-4a26-b8a0-375975af98d0
 -- title:

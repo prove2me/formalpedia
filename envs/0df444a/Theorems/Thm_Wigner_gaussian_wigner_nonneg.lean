@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Wigner_gaussian_wigner_nonneg
 -- name    : Wigner.gaussian_wigner_nonneg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:52:25.417866+00:00
 -- url     : https://prove2.me/theorems/ad6d50a5-c7b7-423e-b292-ba8affb46283
 -- title:

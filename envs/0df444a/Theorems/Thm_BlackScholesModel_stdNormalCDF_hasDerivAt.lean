@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_stdNormalCDF_hasDerivAt
 -- name    : BlackScholesModel.stdNormalCDF_hasDerivAt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:14.304256+00:00
 -- url     : https://prove2.me/theorems/f6dd16e4-91e7-4f24-a809-27da84e200ab
 -- title:

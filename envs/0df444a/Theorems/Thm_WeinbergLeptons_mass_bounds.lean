@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_mass_bounds
 -- name    : WeinbergLeptons.mass_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:00:53.007242+00:00
 -- url     : https://prove2.me/theorems/0fc3abdb-2877-4ac5-b32f-14f8ce755fde
 -- title:

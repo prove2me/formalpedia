@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThresholdTheorem_polylog_overhead_levels
 -- name    : ThresholdTheorem.polylog_overhead_levels
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:02:49.102755+00:00
 -- url     : https://prove2.me/theorems/e0eb1dd8-f6c2-4224-9257-bb2c1fa98018
 -- title:

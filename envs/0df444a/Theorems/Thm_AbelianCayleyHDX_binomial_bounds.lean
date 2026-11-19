@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbelianCayleyHDX_binomial_bounds
 -- name    : AbelianCayleyHDX.binomial_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:34:25.531428+00:00
 -- url     : https://prove2.me/theorems/22bd13b6-17db-4b6c-ac42-cf13fdbf1fdf

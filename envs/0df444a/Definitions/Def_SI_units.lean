@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SI_units
 -- name    : SI_units
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:36:03.431168+00:00
 -- url     : https://prove2.me/theorems/91e10402-e4c1-4e20-b346-d7c7281f917c
 -- title:

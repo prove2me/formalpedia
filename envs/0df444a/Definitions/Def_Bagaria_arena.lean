@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Bagaria_arena
 -- name    : Bagaria_arena
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:05:23.842152+00:00
 -- url     : https://prove2.me/theorems/4303b6bc-02c5-4b73-a74f-84420c575634
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_phi_mem_specialUnitaryGroup
 -- name    : GrandUnifiedTheories.phi_mem_specialUnitaryGroup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:35:27.068629+00:00
 -- url     : https://prove2.me/theorems/94b5e9fa-cf51-476e-95c2-5afdf0f5800d
 -- title:

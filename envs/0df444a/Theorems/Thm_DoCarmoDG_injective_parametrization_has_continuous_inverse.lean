@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_injective_parametrization_has_continuous_inverse
 -- name    : DoCarmoDG.injective_parametrization_has_continuous_inverse
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:35:26.82613+00:00
 -- url     : https://prove2.me/theorems/42f3c65a-17ad-4602-9c63-9a8fe49134b1
 -- title:

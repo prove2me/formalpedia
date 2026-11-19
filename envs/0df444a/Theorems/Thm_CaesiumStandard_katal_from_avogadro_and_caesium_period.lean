@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_katal_from_avogadro_and_caesium_period
 -- name    : CaesiumStandard.katal_from_avogadro_and_caesium_period
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:42:38.017473+00:00
 -- url     : https://prove2.me/theorems/ce40ced7-b7a6-4c08-9d46-e229f21d2ce3
 -- title:

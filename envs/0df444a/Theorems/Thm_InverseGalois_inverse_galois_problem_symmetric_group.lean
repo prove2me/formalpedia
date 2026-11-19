@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_symmetric_group
 -- name    : InverseGalois.inverse_galois_problem_symmetric_group
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:12:12.70142+00:00
 -- url     : https://prove2.me/theorems/d7730635-8686-4eaa-9781-2adb740ab800
 -- title:

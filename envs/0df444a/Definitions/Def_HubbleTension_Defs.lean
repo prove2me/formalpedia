@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HubbleTension_Defs
 -- name    : HubbleTension_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:21:12.132977+00:00
 -- url     : https://prove2.me/theorems/809a2bc6-f27f-4402-b1be-5c309722f199
 -- title:

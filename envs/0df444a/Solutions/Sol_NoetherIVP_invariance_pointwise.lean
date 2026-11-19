@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NoetherIVP.invariance_pointwise
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T16:17:38.834138+00:00
 -- url     : https://prove2.me/submissions/089f1ba8-ecee-4fb3-86bf-962657c65222
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_intermediate_value
 -- name    : Rudin.ch04_intermediate_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T22:16:36.192116+00:00
 -- url     : https://prove2.me/theorems/e8b0e04c-f0b9-483e-b965-0595384a3436
 -- title:

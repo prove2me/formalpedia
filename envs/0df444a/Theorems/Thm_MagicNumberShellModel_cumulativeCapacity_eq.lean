@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MagicNumberShellModel_cumulativeCapacity_eq
 -- name    : MagicNumberShellModel.cumulativeCapacity_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:24:38.947467+00:00
 -- url     : https://prove2.me/theorems/f05d63c9-ef06-46d1-aae0-6ee6ce986ed6
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_photonIndex_nonneg
 -- name    : Weinberg1965.photonIndex_nonneg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:02:30.635359+00:00
 -- url     : https://prove2.me/theorems/54aab6da-f703-4ca7-876c-db7afeca7629
 -- title:

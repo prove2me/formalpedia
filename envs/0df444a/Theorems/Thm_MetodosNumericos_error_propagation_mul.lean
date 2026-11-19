@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_error_propagation_mul
 -- name    : MetodosNumericos.error_propagation_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:40:11.48998+00:00
 -- url     : https://prove2.me/theorems/a33b4c6d-bf01-4fa0-95b4-b74a47727348
 -- title:

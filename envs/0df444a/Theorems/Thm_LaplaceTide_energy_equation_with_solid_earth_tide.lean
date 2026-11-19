@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LaplaceTide_energy_equation_with_solid_earth_tide
 -- name    : LaplaceTide.energy_equation_with_solid_earth_tide
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:36:46.497043+00:00
 -- url     : https://prove2.me/theorems/2a2062e6-416d-4aee-98d6-eefa99c17277
 -- title:

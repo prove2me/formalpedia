@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_shift_exists_dense_orbit
 -- name    : Devaney.shift_exists_dense_orbit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:47:45.724183+00:00
 -- url     : https://prove2.me/theorems/f7fbc7f5-d173-433c-952d-da32fe9c162e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_assertion_D_E_zero
 -- name    : WangZahlKakeya.assertion_D_E_zero
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:13:46.797729+00:00
 -- url     : https://prove2.me/theorems/0ad68562-59bb-4499-8fba-06a5c7da1994
 -- title:

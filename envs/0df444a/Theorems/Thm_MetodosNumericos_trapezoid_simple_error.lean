@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_trapezoid_simple_error
 -- name    : MetodosNumericos.trapezoid_simple_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:46:23.213857+00:00
 -- url     : https://prove2.me/theorems/9edd6843-41a7-4ccb-81a6-d1b16e9fe22e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_cosmological_constant_as_vacuum_energy
 -- name    : EinsteinFieldEquations.cosmological_constant_as_vacuum_energy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:10:34.636684+00:00
 -- url     : https://prove2.me/theorems/da5bcec8-bd9c-4506-ace1-b98225dd11eb
 -- title:

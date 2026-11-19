@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_mlp_first_layer_mean_zero
 -- name    : DeepLearningTheory.mlp_first_layer_mean_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:17:48.355984+00:00
 -- url     : https://prove2.me/theorems/9c606f3e-6cf9-4d7a-ae05-d4202a5472d8
 -- title:

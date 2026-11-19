@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Schanuel.gelfond_schneider
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T18:56:30.783825+00:00
 -- url     : https://prove2.me/submissions/5dca33ff-6134-44e2-b303-8dce187f6a47
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GambiniPullin_weightedModelIntegrand_integrable
 -- name    : GambiniPullin.weightedModelIntegrand_integrable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:07:02.463846+00:00
 -- url     : https://prove2.me/theorems/70e6ad79-0f98-41f5-bfec-81eb9c9ac03b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_cos_eq
 -- name    : KoideRelation.koide_cos_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:36:09.990336+00:00
 -- url     : https://prove2.me/theorems/9c4881ad-dce4-41d3-b5cc-9c7f3f089ff7
 -- title:

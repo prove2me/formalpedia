@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawaPotential_laplacian
 -- name    : YukawaPotential.yukawaPotential_laplacian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T13:28:45.583037+00:00
 -- url     : https://prove2.me/theorems/989f3a37-270f-49a8-8cc6-5b2b4f81630e
 -- title:

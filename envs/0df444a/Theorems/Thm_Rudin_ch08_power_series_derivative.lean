@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_power_series_derivative
 -- name    : Rudin.ch08_power_series_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:06:27.743761+00:00
 -- url     : https://prove2.me/theorems/d6657031-0f33-40ed-b841-240dc3591c24
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YMMG_YangMills
 -- name    : YMMG_YangMills
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:32:05.576233+00:00
 -- url     : https://prove2.me/theorems/7d0691bc-52d1-4a9e-911d-90e13af62729
 -- title:

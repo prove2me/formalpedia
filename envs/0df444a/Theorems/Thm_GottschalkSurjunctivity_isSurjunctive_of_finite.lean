@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_isSurjunctive_of_finite
 -- name    : GottschalkSurjunctivity.isSurjunctive_of_finite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T16:07:28.839463+00:00
 -- url     : https://prove2.me/theorems/4e167b7f-a6f6-4ae1-9674-57cc05cd811f
 -- title:

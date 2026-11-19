@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProtonElectronMassRatio_pi_pow_five_bounds
 -- name    : ProtonElectronMassRatio.pi_pow_five_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:53:02.227906+00:00
 -- url     : https://prove2.me/theorems/a8c0f16c-9167-4b75-84fb-6093eb40e866
 -- title:

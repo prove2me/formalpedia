@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_powerLaw_heatCapacity_entropy_bounded_iff
 -- name    : ThirdLawThermo.powerLaw_heatCapacity_entropy_bounded_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:22.978987+00:00
 -- url     : https://prove2.me/theorems/35d6a524-40bc-4aea-886e-1e3ff356e242
 -- title:

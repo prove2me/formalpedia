@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DS3Micro_first_zero
 -- name    : DS3Micro.first_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:14:45.313211+00:00
 -- url     : https://prove2.me/theorems/8a5bdf8a-962e-4ab3-bb4d-069e103a2567
 -- title:

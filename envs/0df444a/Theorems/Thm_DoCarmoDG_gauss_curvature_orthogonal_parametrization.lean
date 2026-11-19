@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_gauss_curvature_orthogonal_parametrization
 -- name    : DoCarmoDG.gauss_curvature_orthogonal_parametrization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:15:55.552046+00:00
 -- url     : https://prove2.me/theorems/e880c1f4-50e5-44a4-bf35-f6a874346f43
 -- title:

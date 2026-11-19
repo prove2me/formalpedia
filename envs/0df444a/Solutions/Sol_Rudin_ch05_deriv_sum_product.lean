@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch05_deriv_sum_product
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:16:49.814066+00:00
 -- url     : https://prove2.me/submissions/9e8cdae1-b784-49fe-b3c5-d5b65c269831
 

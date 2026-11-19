@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nintendo_zelda_pspace
 -- name    : Nintendo.zelda_pspace
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T11:07:55.218603+00:00
 -- url     : https://prove2.me/theorems/dd2034af-a28c-4392-aa4a-b5a8fa6c11d2
 -- title:

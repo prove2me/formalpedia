@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CursoEDO.lipschitzInSecondVar_of_bounded_partial_deriv
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T14:07:49.831014+00:00
 -- url     : https://prove2.me/submissions/be12ec9b-9c52-4cb3-bd87-c03fe16311f9
 

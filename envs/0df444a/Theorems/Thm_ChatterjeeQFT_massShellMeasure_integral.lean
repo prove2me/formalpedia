@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_massShellMeasure_integral
 -- name    : ChatterjeeQFT.massShellMeasure_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:29:55.90617+00:00
 -- url     : https://prove2.me/theorems/a1e9543a-adfb-4a28-8ac0-e81c87ee19f8
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HGL_alg
 -- name    : HGL_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:06:51.403088+00:00
 -- url     : https://prove2.me/theorems/10fa3016-00eb-45bf-ae37-906051e43463
 -- title:

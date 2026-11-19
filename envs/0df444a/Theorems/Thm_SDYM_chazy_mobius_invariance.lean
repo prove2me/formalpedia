@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_chazy_mobius_invariance
 -- name    : SDYM.chazy_mobius_invariance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:49:27.892048+00:00
 -- url     : https://prove2.me/theorems/0478c5d4-029b-4aff-bd2e-22a1a67b90b1
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_ProbabilisticConstruction_Resampling_executionCost_le
 -- name    : QEC.Coding.ProbabilisticConstruction.Resampling.executionCost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-09T19:29:44.445483+00:00
 -- url     : https://prove2.me/theorems/7fdb5d1e-12c5-4f0b-a2c1-b7874758778f

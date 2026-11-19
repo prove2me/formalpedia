@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_nth_root
 -- name    : Rudin.ch01_nth_root
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:40:47.296511+00:00
 -- url     : https://prove2.me/theorems/f9cb9436-6e35-42e4-9bc8-1d81cbf4ba4a
 -- title:

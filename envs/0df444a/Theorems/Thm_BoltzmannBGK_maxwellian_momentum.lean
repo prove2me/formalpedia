@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_maxwellian_momentum
 -- name    : BoltzmannBGK.maxwellian_momentum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:16:40.487552+00:00
 -- url     : https://prove2.me/theorems/e93c9848-fe31-4322-8389-aac9f576806c
 -- title:

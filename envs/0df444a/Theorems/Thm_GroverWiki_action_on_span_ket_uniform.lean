@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_action_on_span_ket_uniform
 -- name    : GroverWiki.action_on_span_ket_uniform
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:40:31.578992+00:00
 -- url     : https://prove2.me/theorems/7485c39c-df80-4d0b-ad4e-b8c3a5783803
 -- title:

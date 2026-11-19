@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PenningTrap_det_modeMatrix_ideal
 -- name    : PenningTrap.det_modeMatrix_ideal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:06:57.00998+00:00
 -- url     : https://prove2.me/theorems/c0bba636-6166-41fe-897c-c75edd8dcee5
 -- title:

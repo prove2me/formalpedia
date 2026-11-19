@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricPSM1041_ORLowerBound_konig_infinite_rooted_tree
 -- name    : SymmetricPSM1041.ORLowerBound.konig_infinite_rooted_tree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:56:54.44278+00:00
 -- url     : https://prove2.me/theorems/595e8a89-e345-4d16-993f-38ad7599359d

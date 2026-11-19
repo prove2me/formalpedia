@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_realization_nonorientable
 -- name    : CTB.realization_nonorientable
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:26.636505+00:00
 -- url     : https://prove2.me/theorems/81e8e128-f003-4769-a49e-93b9ec007c5d
 -- title:

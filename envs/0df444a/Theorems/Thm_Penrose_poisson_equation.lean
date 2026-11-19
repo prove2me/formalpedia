@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_poisson_equation
 -- name    : Penrose.poisson_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:20:51.632434+00:00
 -- url     : https://prove2.me/theorems/9a5d4409-a406-4a6a-a115-38252a77a26b
 -- title:

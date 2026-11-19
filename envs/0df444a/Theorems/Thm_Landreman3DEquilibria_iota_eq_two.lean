@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_iota_eq_two
 -- name    : Landreman3DEquilibria.iota_eq_two
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:26:17.468247+00:00
 -- url     : https://prove2.me/theorems/7b1d9f02-fe5f-459d-b79c-fa485c9a3d1f
 -- title:

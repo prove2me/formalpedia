@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_four_point_recursion
 -- name    : LesHouchesWidth.four_point_recursion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:26:55.490153+00:00
 -- url     : https://prove2.me/theorems/32a26244-8316-4c25-bfe9-35e17ecdc876
 -- title:

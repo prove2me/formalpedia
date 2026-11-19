@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LopesQM_canonical_commutation_relations
 -- name    : LopesQM.canonical_commutation_relations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:42:52.081103+00:00
 -- url     : https://prove2.me/theorems/e87b1f02-c97d-4bd6-beba-bf3bb0ecd8ca
 -- title:

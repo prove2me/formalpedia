@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Jacobian_jacobian_two_variables
 -- name    : FCP.Jacobian.jacobian_two_variables
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:53:22.219336+00:00
 -- url     : https://prove2.me/theorems/54fd299c-e9b0-490c-97f0-4cbef88de8fc
 -- title:

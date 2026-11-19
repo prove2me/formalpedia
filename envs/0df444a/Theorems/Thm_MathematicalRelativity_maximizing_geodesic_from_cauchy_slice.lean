@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_maximizing_geodesic_from_cauchy_slice
 -- name    : MathematicalRelativity.maximizing_geodesic_from_cauchy_slice
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:23:30.992793+00:00
 -- url     : https://prove2.me/theorems/e1df1b18-b0a5-4f06-949e-218f56932fa9
 -- title:

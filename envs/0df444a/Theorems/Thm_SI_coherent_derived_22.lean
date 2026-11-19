@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_coherent_derived_22
 -- name    : SI.coherent_derived_22
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:53:49.50297+00:00
 -- url     : https://prove2.me/theorems/fab444e1-0102-49a5-959d-cf57412162d6
 -- title:

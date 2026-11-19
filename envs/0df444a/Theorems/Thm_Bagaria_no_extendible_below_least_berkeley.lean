@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Bagaria_no_extendible_below_least_berkeley
 -- name    : Bagaria.no_extendible_below_least_berkeley
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:14:42.18498+00:00
 -- url     : https://prove2.me/theorems/dc2b47a3-95e6-4207-839a-9a4c872305b3
 -- title:

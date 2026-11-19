@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_jarlskogCoeff_symmetries
 -- name    : LipariNeutrino.jarlskogCoeff_symmetries
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T05:06:37.329991+00:00
 -- url     : https://prove2.me/theorems/6133083a-17cc-4859-9e7e-76aca396a0e8
 -- title:

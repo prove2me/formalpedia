@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SchinzelHypothesisH_core
 -- name    : SchinzelHypothesisH_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:37:59.715329+00:00
 -- url     : https://prove2.me/theorems/2a25baa6-353a-4eef-beb4-275f78b196e1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_EnergyMomentum_basic
 -- name    : EnergyMomentum_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:10:41.359134+00:00
 -- url     : https://prove2.me/theorems/32f236df-4d4b-4ff1-a8bc-d188b9b4e575
 -- title:

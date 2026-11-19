@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_macroscopic_structure_of_zeros
 -- name    : DeBruijnNewman.macroscopic_structure_of_zeros
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:21:44.153998+00:00
 -- url     : https://prove2.me/theorems/a53f0225-a3b0-495d-aec3-5ee03c0765c4
 -- title:

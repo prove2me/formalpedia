@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PolyakovAction_Defs
 -- name    : PolyakovAction_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T03:25:21.18636+00:00
 -- url     : https://prove2.me/theorems/4b6c9115-15c9-43c5-b01a-21abe56fac47
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_accel_zero_iff
 -- name    : LambdaCDM.accel_zero_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:59:35.434107+00:00
 -- url     : https://prove2.me/theorems/bc5ab6a3-e5ae-4fee-8f6b-6cf31247dab9
 -- title:

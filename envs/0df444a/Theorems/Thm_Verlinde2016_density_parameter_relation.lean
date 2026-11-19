@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Verlinde2016_density_parameter_relation
 -- name    : Verlinde2016.density_parameter_relation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T23:45:53.490806+00:00
 -- url     : https://prove2.me/theorems/b4992f31-c28b-430f-9a81-6413584d662e
 -- title:

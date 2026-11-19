@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClayNavierStokes_local_existence_periodic
 -- name    : ClayNavierStokes.local_existence_periodic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:45:30.978991+00:00
 -- url     : https://prove2.me/theorems/9449c06f-3ba1-4e5d-9c5e-63b3e9c40fe2
 -- title:

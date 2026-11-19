@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_hubbleParameter_deriv_eq
 -- name    : HubbleLaw.hubbleParameter_deriv_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:19:26.679326+00:00
 -- url     : https://prove2.me/theorems/26577128-4ad6-48e6-89c3-d88930d37ce9
 -- title:

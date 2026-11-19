@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymplecticBallPacking_explicit_symplectic_ball_packing
 -- name    : SymplecticBallPacking.explicit_symplectic_ball_packing
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:58:04.50285+00:00
 -- url     : https://prove2.me/theorems/3d81848c-8ab1-4d1c-8356-7f3437b261c9
 -- title:

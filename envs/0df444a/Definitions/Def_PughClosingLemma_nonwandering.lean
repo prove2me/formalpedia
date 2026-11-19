@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PughClosingLemma_nonwandering
 -- name    : PughClosingLemma_nonwandering
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:55:40.132234+00:00
 -- url     : https://prove2.me/theorems/b36bd921-e528-44e4-a847-0ccf02171b24
 -- title:

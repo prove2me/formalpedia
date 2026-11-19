@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_alg_closed_rational_functions
 -- name    : InverseGalois.inverse_galois_problem_alg_closed_rational_functions
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:22:47.729905+00:00
 -- url     : https://prove2.me/theorems/f47da782-f919-4e28-8b27-acad63268be8
 -- title:

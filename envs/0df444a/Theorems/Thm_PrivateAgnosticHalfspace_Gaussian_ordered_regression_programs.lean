@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_ordered_regression_programs
 -- name    : PrivateAgnosticHalfspace.Gaussian.ordered_regression_programs
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T05:41:30.282313+00:00
 -- url     : https://prove2.me/theorems/cbaf6d88-76bf-422d-b97a-f06b90f96c74

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_primitive_of_closed
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T02:19:14.165343+00:00
 -- url     : https://prove2.me/submissions/0c918fb7-309f-4628-91f3-090d39cc91a6
 

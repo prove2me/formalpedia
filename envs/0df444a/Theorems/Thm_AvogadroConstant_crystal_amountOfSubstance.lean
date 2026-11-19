@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AvogadroConstant_crystal_amountOfSubstance
 -- name    : AvogadroConstant.crystal_amountOfSubstance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:29:51.759257+00:00
 -- url     : https://prove2.me/theorems/b7e4bbaa-1347-4853-9379-1b5d395224b6
 -- title:

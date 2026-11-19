@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_gamma_tendsto_atTop
 -- name    : LorentzFactor.gamma_tendsto_atTop
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:18:45.293984+00:00
 -- url     : https://prove2.me/theorems/940022ed-ec46-4d01-b3c3-4f957eebb408
 -- title:

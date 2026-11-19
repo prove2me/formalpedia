@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_prop_3_20_fekete_along_ray
 -- name    : ValuativeSYZ.prop_3_20_fekete_along_ray
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:12:13.906963+00:00
 -- url     : https://prove2.me/theorems/37f97467-3880-4bf7-83a9-25c14de5f4cf
 -- title:

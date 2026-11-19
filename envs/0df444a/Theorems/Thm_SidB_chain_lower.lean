@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_chain_lower
 -- name    : SidB.chain_lower
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:27:04.205837+00:00
 -- url     : https://prove2.me/theorems/b1948eeb-8831-4737-a713-77732d31bbb2
 -- title:

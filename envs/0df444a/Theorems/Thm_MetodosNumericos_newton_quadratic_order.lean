@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_newton_quadratic_order
 -- name    : MetodosNumericos.newton_quadratic_order
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:15:53.406557+00:00
 -- url     : https://prove2.me/theorems/81700ddc-c0f0-47ca-848e-378ae9b002cd
 -- title:

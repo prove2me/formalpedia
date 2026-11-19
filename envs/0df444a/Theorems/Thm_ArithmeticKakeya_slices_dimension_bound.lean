@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_slices_dimension_bound
 -- name    : ArithmeticKakeya.slices_dimension_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:59:19.601005+00:00
 -- url     : https://prove2.me/theorems/b4d90eda-7fbe-47fa-a9f7-1124bdd123db
 -- title:

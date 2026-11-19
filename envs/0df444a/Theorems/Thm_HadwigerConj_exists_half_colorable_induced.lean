@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_exists_half_colorable_induced
 -- name    : HadwigerConj.exists_half_colorable_induced
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:20:05.565152+00:00
 -- url     : https://prove2.me/theorems/6ae9d6e7-72f7-4417-b677-01e47946ec92
 -- title:

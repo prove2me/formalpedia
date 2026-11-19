@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos30_obryant_upper_bound
 -- name    : Erdos30.obryant_upper_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:52:19.161664+00:00
 -- url     : https://prove2.me/theorems/d8d36ff6-67a4-4b02-aa24-3a2cf3589d66
 -- title:

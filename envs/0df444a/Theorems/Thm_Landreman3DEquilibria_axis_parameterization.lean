@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_axis_parameterization
 -- name    : Landreman3DEquilibria.axis_parameterization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:16:25.245289+00:00
 -- url     : https://prove2.me/theorems/333af735-f719-42ec-b6e2-553050088c9d
 -- title:

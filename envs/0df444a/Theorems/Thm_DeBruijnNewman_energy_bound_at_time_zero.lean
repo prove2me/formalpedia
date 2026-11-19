@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_energy_bound_at_time_zero
 -- name    : DeBruijnNewman.energy_bound_at_time_zero
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:41:52.864842+00:00
 -- url     : https://prove2.me/theorems/3e7804a4-111f-4fbf-a060-43b4a492c993
 -- title:

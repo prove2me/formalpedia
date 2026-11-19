@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProtonElectronMassRatio_lenz_expression_bounds
 -- name    : ProtonElectronMassRatio.lenz_expression_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:18:56.168916+00:00
 -- url     : https://prove2.me/theorems/26e2fd61-19f1-4011-ba05-a1aab10f2991
 -- title:

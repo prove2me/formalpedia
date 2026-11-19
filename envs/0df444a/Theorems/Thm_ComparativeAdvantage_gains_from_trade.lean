@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_gains_from_trade
 -- name    : ComparativeAdvantage.gains_from_trade
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:35:49.386737+00:00
 -- url     : https://prove2.me/theorems/65dfb7c7-f3e6-42c0-bb75-e04332c1662f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCT_dcBar_le_dc
 -- name    : GCT.dcBar_le_dc
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:16:19.294796+00:00
 -- url     : https://prove2.me/theorems/9a9ee9ec-56f6-4b22-920e-f7d1f3b33a13
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QRH_sums
 -- name    : QRH_sums
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:02:25.643258+00:00
 -- url     : https://prove2.me/theorems/73f87c6a-e02f-4244-8324-6599c86a7c5b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_katz_tao_config_7_4
 -- name    : ArithmeticKakeya.katz_tao_config_7_4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:57:23.315201+00:00
 -- url     : https://prove2.me/theorems/8c64aef7-1b8a-4b41-9e99-16ca0248e850
 -- title:

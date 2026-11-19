@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClosingLemma_crTopology_one_eq_c1Topology
 -- name    : ClosingLemma.crTopology_one_eq_c1Topology
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T03:15:31.809439+00:00
 -- url     : https://prove2.me/theorems/be54c4e1-b0dc-43ed-b751-766c0f23d5f0
 -- title:

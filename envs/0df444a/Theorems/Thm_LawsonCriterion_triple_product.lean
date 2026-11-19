@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_triple_product
 -- name    : LawsonCriterion.triple_product
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:11:08.68684+00:00
 -- url     : https://prove2.me/theorems/4228ce11-b22b-4797-b094-8a07b7e53f44
 -- title:

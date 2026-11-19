@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_bilin7
 -- name    : GT.bilin7
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:43.604268+00:00
 -- url     : https://prove2.me/theorems/d62b9604-d374-4d9a-939e-673d8964a2f2
 -- title:

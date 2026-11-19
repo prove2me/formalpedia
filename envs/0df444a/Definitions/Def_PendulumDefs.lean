@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PendulumDefs
 -- name    : PendulumDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:19:08.920999+00:00
 -- url     : https://prove2.me/theorems/33c06dfa-5a9e-425e-88b1-90b78ace913a
 -- title:

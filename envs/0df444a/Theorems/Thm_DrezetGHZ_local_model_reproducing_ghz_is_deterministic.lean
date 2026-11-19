@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_local_model_reproducing_ghz_is_deterministic
 -- name    : DrezetGHZ.local_model_reproducing_ghz_is_deterministic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T20:44:19.964855+00:00
 -- url     : https://prove2.me/theorems/e2926420-8bc1-464e-9f72-9f2c88e9582c
 -- title:

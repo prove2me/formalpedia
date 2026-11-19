@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_qubitA_posDef_iff
 -- name    : HardyFiveAxioms.qubitA_posDef_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T23:50:00.598348+00:00
 -- url     : https://prove2.me/theorems/1e2ccb7f-0040-4d0b-a421-6d0df8629ce0
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_expAscendingRenewalPositiveSeries
 -- name    : Kyprianou.Ch01.expAscendingRenewalPositiveSeries
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T00:55:56.220049+00:00
 -- url     : https://prove2.me/theorems/cad39938-af5e-4b19-ae00-98b0c3f37d79

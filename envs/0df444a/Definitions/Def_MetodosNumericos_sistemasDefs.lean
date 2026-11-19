@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_sistemasDefs
 -- name    : MetodosNumericos_sistemasDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:34:50.433607+00:00
 -- url     : https://prove2.me/theorems/57554fff-1c4e-4170-88bf-f5017647ca17
 -- title:

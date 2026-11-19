@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_linearNet_G4_recursion
 -- name    : DeepLearningTheory.linearNet_G4_recursion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:41:23.501244+00:00
 -- url     : https://prove2.me/theorems/be429d52-5699-4740-9b36-a4ee65d5937a
 -- title:

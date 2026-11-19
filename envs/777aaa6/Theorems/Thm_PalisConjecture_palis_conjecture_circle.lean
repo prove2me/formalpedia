@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_palis_conjecture_circle
 -- name    : PalisConjecture.palis_conjecture_circle
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T03:08:15.463179+00:00
 -- url     : https://prove2.me/theorems/67d15a6d-bd11-4e74-92c9-7adf521dc0c8
 -- title:

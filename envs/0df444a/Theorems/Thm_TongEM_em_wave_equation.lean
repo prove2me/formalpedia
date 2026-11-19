@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongEM_em_wave_equation
 -- name    : TongEM.em_wave_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T01:37:24.371144+00:00
 -- url     : https://prove2.me/theorems/6a4c97af-d3f4-487d-b108-d0bd9e25ddf0
 -- title:

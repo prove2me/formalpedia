@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_quadratic_algebraic_conjecture
 -- name    : HilbertSixteenth.quadratic_algebraic_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:47:22.401613+00:00
 -- url     : https://prove2.me/theorems/c93e0190-2c82-47d8-945c-256cd19a7e88
 -- title:

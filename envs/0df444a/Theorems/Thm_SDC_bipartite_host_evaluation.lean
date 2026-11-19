@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDC_bipartite_host_evaluation
 -- name    : SDC.bipartite_host_evaluation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T09:24:19.405855+00:00
 -- url     : https://prove2.me/theorems/a4802773-8746-4b26-a00f-7981f1ecf005
 -- title:

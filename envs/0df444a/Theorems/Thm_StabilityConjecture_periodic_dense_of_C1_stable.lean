@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StabilityConjecture_periodic_dense_of_C1_stable
 -- name    : StabilityConjecture.periodic_dense_of_C1_stable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T08:58:46.809122+00:00
 -- url     : https://prove2.me/theorems/a36ca329-cbb5-4376-a506-d08e9bda98c5
 -- title:

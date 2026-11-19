@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ExtendedSmale9_LinearProgram
 -- name    : ExtendedSmale9_LinearProgram
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T14:03:10.920576+00:00
 -- url     : https://prove2.me/theorems/d6c80aa3-5990-4176-9452-6407c8ddd406
 -- title:

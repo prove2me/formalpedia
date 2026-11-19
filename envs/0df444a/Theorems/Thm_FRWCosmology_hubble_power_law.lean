@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRWCosmology_hubble_power_law
 -- name    : FRWCosmology.hubble_power_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:47:42.865603+00:00
 -- url     : https://prove2.me/theorems/7a220520-c80c-4cf4-8f51-547a48ebf1aa
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_m23_card_conjClasses
 -- name    : MathieuM23.m23_card_conjClasses
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:18:53.310301+00:00
 -- url     : https://prove2.me/theorems/6b60e195-ea09-4b25-8b92-611af17019f5
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_weakOWF_of_HoA_Kt
 -- name    : LiuPass.weakOWF_of_HoA_Kt
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:29:50.642968+00:00
 -- url     : https://prove2.me/theorems/69e7c2e5-7c4a-4a80-af49-62864ce4dbbe
 -- title:

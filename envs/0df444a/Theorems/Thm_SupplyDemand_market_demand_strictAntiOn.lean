@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_market_demand_strictAntiOn
 -- name    : SupplyDemand.market_demand_strictAntiOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:32:03.769022+00:00
 -- url     : https://prove2.me/theorems/a6388b19-bb03-467c-85a8-05399694a2a6
 -- title:

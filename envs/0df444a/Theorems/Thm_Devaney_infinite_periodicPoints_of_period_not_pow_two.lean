@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_infinite_periodicPoints_of_period_not_pow_two
 -- name    : Devaney.infinite_periodicPoints_of_period_not_pow_two
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:41:49.073439+00:00
 -- url     : https://prove2.me/theorems/562c2bdd-548b-49f3-985f-adc2c33dad21
 -- title:

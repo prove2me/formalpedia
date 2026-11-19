@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_algebraicSet_radicalIdeal_correspondence
 -- name    : Nullstellensatz.algebraicSet_radicalIdeal_correspondence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:03:23.126987+00:00
 -- url     : https://prove2.me/theorems/afbc1e7c-6867-4781-8f8d-181970f4f0f7
 -- title:

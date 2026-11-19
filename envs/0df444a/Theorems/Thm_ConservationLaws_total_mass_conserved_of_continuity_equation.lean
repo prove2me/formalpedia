@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_total_mass_conserved_of_continuity_equation
 -- name    : ConservationLaws.total_mass_conserved_of_continuity_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:35.357195+00:00
 -- url     : https://prove2.me/theorems/f67c5229-526a-4a67-8770-e86092e3a979
 -- title:

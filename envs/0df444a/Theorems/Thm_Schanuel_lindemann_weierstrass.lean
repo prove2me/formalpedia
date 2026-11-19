@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_lindemann_weierstrass
 -- name    : Schanuel.lindemann_weierstrass
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:31:35.236603+00:00
 -- url     : https://prove2.me/theorems/afb75b5a-3ca6-4700-9c55-ebd4e3ecc762
 -- title:

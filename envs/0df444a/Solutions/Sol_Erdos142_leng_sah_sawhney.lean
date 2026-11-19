@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos142.leng_sah_sawhney
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T13:35:23.893999+00:00
 -- url     : https://prove2.me/submissions/4b0e977f-603d-4956-9e7c-fad1b7f2aab8
 -- note    : a sketch -- it imports a theorem that is still Open,

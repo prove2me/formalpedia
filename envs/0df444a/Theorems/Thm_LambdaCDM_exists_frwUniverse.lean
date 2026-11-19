@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_exists_frwUniverse
 -- name    : LambdaCDM.exists_frwUniverse
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:02:09.882998+00:00
 -- url     : https://prove2.me/theorems/bce18f9a-13f6-4381-8c5b-5fc4cfe27a19
 -- title:

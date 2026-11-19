@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravityNonRenorm_cft_entropy_energy_eq29
 -- name    : GravityNonRenorm.cft_entropy_energy_eq29
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:44.884313+00:00
 -- url     : https://prove2.me/theorems/34c17244-d8ee-4cd8-a141-6ac955b1579d
 -- title:

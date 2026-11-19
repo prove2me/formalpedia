@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Devaney.sarkovskii_of_precedes
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T13:42:30.192068+00:00
 -- url     : https://prove2.me/submissions/8fd7730f-7492-422c-8002-de4ccae9d1a0
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_inverse_metric_contraction
 -- name    : CarrollGR.inverse_metric_contraction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:49:57.868754+00:00
 -- url     : https://prove2.me/theorems/1868b9db-4adc-4d7d-9838-5712f5ce344f
 -- title:

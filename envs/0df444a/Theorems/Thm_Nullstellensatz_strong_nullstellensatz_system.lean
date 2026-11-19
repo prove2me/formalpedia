@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_strong_nullstellensatz_system
 -- name    : Nullstellensatz.strong_nullstellensatz_system
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:04:20.365976+00:00
 -- url     : https://prove2.me/theorems/df75824d-ca40-4b7e-84d6-33ab933fd938
 -- title:

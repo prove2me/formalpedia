@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_brocard_problem
 -- name    : Brocard.brocard_problem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:55:38.582795+00:00
 -- url     : https://prove2.me/theorems/155962b9-2f92-4c7b-b9f7-570c3ddbf0d5
 -- title:

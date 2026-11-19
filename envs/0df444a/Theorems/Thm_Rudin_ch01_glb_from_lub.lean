@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_glb_from_lub
 -- name    : Rudin.ch01_glb_from_lub
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:22:37.060574+00:00
 -- url     : https://prove2.me/theorems/64d19e9b-6e3e-42b6-9424-c29bc39b3a20
 -- title:

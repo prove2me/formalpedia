@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_delta_interaction
 -- name    : Penrose.delta_interaction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:23:15.037461+00:00
 -- url     : https://prove2.me/theorems/1fe22acb-fbc9-466c-84e4-bb3df0cbfbe3
 -- title:

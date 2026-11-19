@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_hawking_singularity_theorem
 -- name    : MathematicalRelativity.hawking_singularity_theorem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:23:57.485106+00:00
 -- url     : https://prove2.me/theorems/921d3c0a-687e-4750-9dbb-28b7c64b92f1
 -- title:

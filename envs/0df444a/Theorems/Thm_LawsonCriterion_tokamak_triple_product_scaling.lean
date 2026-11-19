@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_tokamak_triple_product_scaling
 -- name    : LawsonCriterion.tokamak_triple_product_scaling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:21:18.893129+00:00
 -- url     : https://prove2.me/theorems/1fbe204f-0035-47b2-b89b-eb36b9c1cf0a
 -- title:

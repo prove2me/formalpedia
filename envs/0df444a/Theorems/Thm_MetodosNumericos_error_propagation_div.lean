@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_error_propagation_div
 -- name    : MetodosNumericos.error_propagation_div
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:40:26.813503+00:00
 -- url     : https://prove2.me/theorems/986a0324-a82b-4076-bc87-107ef484fb65
 -- title:

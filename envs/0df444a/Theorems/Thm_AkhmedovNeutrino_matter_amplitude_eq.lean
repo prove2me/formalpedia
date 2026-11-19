@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AkhmedovNeutrino_matter_amplitude_eq
 -- name    : AkhmedovNeutrino.matter_amplitude_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:14:23.249513+00:00
 -- url     : https://prove2.me/theorems/46708c97-1816-45e8-abd0-ad96a3e296c4
 -- title:

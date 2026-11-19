@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiuZhangBRW_Concentration_lemma_5_1
 -- name    : LiuZhangBRW.Concentration.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:18:36.977835+00:00
 -- url     : https://prove2.me/theorems/3586ab74-ced1-4c68-b6ca-9cf43c55dd98

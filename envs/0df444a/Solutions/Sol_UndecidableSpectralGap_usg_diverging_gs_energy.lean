@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for UndecidableSpectralGap.usg_diverging_gs_energy
 -- status  : ACCEPTED   (disprove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:59:58.265398+00:00
 -- url     : https://prove2.me/submissions/9885729c-b837-4ffb-a09a-e78cf64bf1a2
 

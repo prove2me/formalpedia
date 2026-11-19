@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_linearNet_two_point
 -- name    : DeepLearningTheory.linearNet_two_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:29:37.093635+00:00
 -- url     : https://prove2.me/theorems/d3383253-ba64-43b1-b49c-03d6ae377364
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProtonElectronMassRatio_lenz_relative_deviation_bounds
 -- name    : ProtonElectronMassRatio.lenz_relative_deviation_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:20:15.542986+00:00
 -- url     : https://prove2.me/theorems/0a1dcc64-5c40-495d-ade6-145056e7920d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_wien_displacement_law
 -- name    : BlackbodyRadiation.wien_displacement_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:40:48.902974+00:00
 -- url     : https://prove2.me/theorems/f740af08-ecf7-4a53-9489-df37948e4537
 -- title:

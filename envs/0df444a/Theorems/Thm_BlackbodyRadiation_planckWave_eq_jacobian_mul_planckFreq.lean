@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckWave_eq_jacobian_mul_planckFreq
 -- name    : BlackbodyRadiation.planckWave_eq_jacobian_mul_planckFreq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:36:26.563662+00:00
 -- url     : https://prove2.me/theorems/9e40a2ee-04d5-4d62-96a3-a7650ddad9dd
 -- title:

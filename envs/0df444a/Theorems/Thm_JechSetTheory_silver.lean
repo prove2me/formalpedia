@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JechSetTheory_silver
 -- name    : JechSetTheory.silver
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T02:34:29.752567+00:00
 -- url     : https://prove2.me/theorems/5e6cebaa-fd32-4d03-969b-5d09d4078a53
 -- title:

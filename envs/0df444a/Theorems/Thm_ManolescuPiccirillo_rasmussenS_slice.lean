@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_rasmussenS_slice
 -- name    : ManolescuPiccirillo.rasmussenS_slice
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:57:38.792084+00:00
 -- url     : https://prove2.me/theorems/162227c4-3aaa-482e-9fae-74e14d59388d
 -- title:

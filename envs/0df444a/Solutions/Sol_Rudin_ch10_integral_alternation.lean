@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_integral_alternation
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T00:20:43.400883+00:00
 -- url     : https://prove2.me/submissions/85455830-a1e2-4412-adef-0ab28575b9e9
 

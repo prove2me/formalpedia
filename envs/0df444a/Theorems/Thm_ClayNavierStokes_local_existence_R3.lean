@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClayNavierStokes_local_existence_R3
 -- name    : ClayNavierStokes.local_existence_R3
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:43:15.668987+00:00
 -- url     : https://prove2.me/theorems/36994bd5-1632-4c58-98e6-3dde33c9f5a9
 -- title:

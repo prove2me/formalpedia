@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_ringOfIntegers_cyclotomic_infinite
 -- name    : NoetherianScheme.ringOfIntegers_cyclotomic_infinite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T22:42:24.052362+00:00
 -- url     : https://prove2.me/theorems/bb5735c9-6203-4eab-b9d6-218a3e4e072c
 -- title:

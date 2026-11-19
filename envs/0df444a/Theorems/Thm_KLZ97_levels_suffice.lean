@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KLZ97_levels_suffice
 -- name    : KLZ97.levels_suffice
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T15:51:21.140729+00:00
 -- url     : https://prove2.me/theorems/235f620c-c4c5-42c9-b474-ad064f7041b4
 -- title:

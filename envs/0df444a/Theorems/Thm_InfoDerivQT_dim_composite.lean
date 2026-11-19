@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_dim_composite
 -- name    : InfoDerivQT.dim_composite
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:44:33.989986+00:00
 -- url     : https://prove2.me/theorems/667570c5-f4b5-4dd6-b742-623dee46f3b8
 -- title:

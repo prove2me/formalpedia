@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LangevinHarmonicTrap_sqDisp_hasDerivAt
 -- name    : LangevinHarmonicTrap.sqDisp_hasDerivAt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:09:52.407877+00:00
 -- url     : https://prove2.me/theorems/78a6e65e-e528-4cbf-b4f9-e845350efd2b
 -- title:

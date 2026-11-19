@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMaxCutBeyond_TwoQubit_weighted_eq_18_19
 -- name    : QMaxCutBeyond.TwoQubit.weighted_eq_18_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:16.794008+00:00
 -- url     : https://prove2.me/theorems/630c2e54-4b86-4796-bdd5-262772a93fb5

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RSF_geo
 -- name    : RSF_geo
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T02:19:04.641545+00:00
 -- url     : https://prove2.me/theorems/c5920c44-38b1-464b-b241-1242e1cf42ba
 -- title:

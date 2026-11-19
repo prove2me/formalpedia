@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_schwarzschild_isSpacetime
 -- name    : StrongCosmicCensorship.schwarzschild_isSpacetime
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:09:24.04201+00:00
 -- url     : https://prove2.me/theorems/c7be604a-1f77-436a-b3a1-5d1a73dda7fa
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleDiffS4_diffDisk_rationalHomotopy_farrellHsiang
 -- name    : SmaleDiffS4.diffDisk_rationalHomotopy_farrellHsiang
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:47:22.546394+00:00
 -- url     : https://prove2.me/theorems/4b6e9de1-a77e-4862-9ffb-922fc1e4cc76
 -- title:

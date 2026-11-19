@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Levin2003_owf_model
 -- name    : Levin2003_owf_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:52:11.889137+00:00
 -- url     : https://prove2.me/theorems/fa876789-da2f-4a14-904f-1caaaea822e0
 -- title:

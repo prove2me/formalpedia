@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_density_hypothesis_of_lindelof
 -- name    : LindelofHypothesis.density_hypothesis_of_lindelof
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:51:22.486035+00:00
 -- url     : https://prove2.me/theorems/8c7eeb14-1f3c-439c-a1c9-ce0f5d5c278e
 -- title:

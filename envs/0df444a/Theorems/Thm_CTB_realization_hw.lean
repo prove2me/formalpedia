@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_realization_hw
 -- name    : CTB.realization_hw
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:50.494081+00:00
 -- url     : https://prove2.me/theorems/b5eab80e-c4c8-4ac4-a862-78afc77819be
 -- title:

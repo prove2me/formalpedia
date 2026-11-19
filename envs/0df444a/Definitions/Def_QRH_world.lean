@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QRH_world
 -- name    : QRH_world
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T10:54:11.668932+00:00
 -- url     : https://prove2.me/theorems/2f29fb25-49af-476a-8159-9b3b6da4257f
 -- title:

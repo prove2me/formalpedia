@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_theorem1_hampton_moeckel
 -- name    : AlbouyKaloshin.theorem1_hampton_moeckel
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:49:09.325076+00:00
 -- url     : https://prove2.me/theorems/ae4d702c-3fb5-4bcd-a792-d92d82f24037
 -- title:

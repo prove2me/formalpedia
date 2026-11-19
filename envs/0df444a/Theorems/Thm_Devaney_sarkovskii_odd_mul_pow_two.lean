@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_sarkovskii_odd_mul_pow_two
 -- name    : Devaney.sarkovskii_odd_mul_pow_two
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:32:34.744622+00:00
 -- url     : https://prove2.me/theorems/8ce8154c-9594-4f21-96d9-cb20892bf82a
 -- title:

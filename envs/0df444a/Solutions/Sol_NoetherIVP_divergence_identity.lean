@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NoetherIVP.divergence_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T16:14:24.730758+00:00
 -- url     : https://prove2.me/submissions/c6594f89-3b06-4f06-8fd6-a648a3251483
 

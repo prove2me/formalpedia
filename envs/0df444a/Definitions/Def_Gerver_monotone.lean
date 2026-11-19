@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Gerver_monotone
 -- name    : Gerver_monotone
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T19:29:51.826593+00:00
 -- url     : https://prove2.me/theorems/3af5a40a-cc4d-45ed-9784-a36f93602640
 -- title:

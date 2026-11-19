@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_closed_curve_area_formulas
 -- name    : DoCarmoDG.closed_curve_area_formulas
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:26:28.169601+00:00
 -- url     : https://prove2.me/theorems/31878b3b-1773-4d03-97de-14d5779671f2
 -- title:

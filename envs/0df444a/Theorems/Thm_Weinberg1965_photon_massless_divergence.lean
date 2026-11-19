@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_photon_massless_divergence
 -- name    : Weinberg1965.photon_massless_divergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:23:59.714794+00:00
 -- url     : https://prove2.me/theorems/7942b271-f335-489a-9b01-4b7362fc38e7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ABOThreshold_sparseProb_zero
 -- name    : ABOThreshold.sparseProb_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:40:41.933993+00:00
 -- url     : https://prove2.me/theorems/f2dd2522-9ecb-47e8-bdab-d65bf97fc38e
 -- title:

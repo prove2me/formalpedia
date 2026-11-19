@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_uuv_splits
 -- name    : FRV.uuv_splits
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:34.880608+00:00
 -- url     : https://prove2.me/theorems/5d5ccb0f-4b27-45fe-94a0-b2611643b38a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SliceRibbon_isRibbon_iff_exists_ribbonSliceDisk
 -- name    : SliceRibbon.isRibbon_iff_exists_ribbonSliceDisk
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T11:54:34.824142+00:00
 -- url     : https://prove2.me/theorems/15914bbc-4730-4671-86bd-5545eaa31266
 -- title:

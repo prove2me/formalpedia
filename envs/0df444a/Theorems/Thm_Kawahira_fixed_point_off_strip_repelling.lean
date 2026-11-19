@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_fixed_point_off_strip_repelling
 -- name    : Kawahira.fixed_point_off_strip_repelling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:41:41.254302+00:00
 -- url     : https://prove2.me/theorems/172d55e2-6434-4dd6-92f9-94c2367e4771
 -- title:

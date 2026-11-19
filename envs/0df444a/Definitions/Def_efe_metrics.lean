@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_efe_metrics
 -- name    : efe_metrics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:39:47.713995+00:00
 -- url     : https://prove2.me/theorems/8a3144c9-3339-4750-a12a-e9cbf5711323
 -- title:

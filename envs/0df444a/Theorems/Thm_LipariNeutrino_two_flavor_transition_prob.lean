@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_two_flavor_transition_prob
 -- name    : LipariNeutrino.two_flavor_transition_prob
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T05:01:32.284987+00:00
 -- url     : https://prove2.me/theorems/98ce1353-ae78-4d8a-9d89-e8e64d93ce1c
 -- title:

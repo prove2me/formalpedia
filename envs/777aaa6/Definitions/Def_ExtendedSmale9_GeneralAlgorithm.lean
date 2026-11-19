@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ExtendedSmale9_GeneralAlgorithm
 -- name    : ExtendedSmale9_GeneralAlgorithm
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T13:45:57.41296+00:00
 -- url     : https://prove2.me/theorems/c9ca0cfa-652a-458b-a67e-a3534513cbc1
 -- title:

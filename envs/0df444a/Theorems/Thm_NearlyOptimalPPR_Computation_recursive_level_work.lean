@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_recursive_level_work
 -- name    : NearlyOptimalPPR.Computation.recursive_level_work
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:38:59.360246+00:00
 -- url     : https://prove2.me/theorems/632cfaef-9c4b-4d11-a2b3-521f1c6b63a8

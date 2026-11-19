@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_luminousFlux_nonneg
 -- name    : LuminousEfficacy.luminousFlux_nonneg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:44:40.478632+00:00
 -- url     : https://prove2.me/theorems/fce60caa-ebe1-453f-8f16-4ca076a2ecb5
 -- title:

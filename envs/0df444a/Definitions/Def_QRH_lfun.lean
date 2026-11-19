@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QRH_lfun
 -- name    : QRH_lfun
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:03:06.0272+00:00
 -- url     : https://prove2.me/theorems/74f1011e-1644-4f61-8fd4-40a32b3a787c
 -- title:

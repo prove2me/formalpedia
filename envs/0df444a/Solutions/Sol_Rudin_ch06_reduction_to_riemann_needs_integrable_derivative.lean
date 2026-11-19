@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_reduction_to_riemann_needs_integrable_derivative
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T19:36:45.2892+00:00
 -- url     : https://prove2.me/submissions/bf605498-6afd-49e3-961a-6707d7289c4e
 

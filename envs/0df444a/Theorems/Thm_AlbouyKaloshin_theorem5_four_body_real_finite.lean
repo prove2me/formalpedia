@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_theorem5_four_body_real_finite
 -- name    : AlbouyKaloshin.theorem5_four_body_real_finite
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:44:35.348995+00:00
 -- url     : https://prove2.me/theorems/a79f941c-0912-4eae-aadc-2f24f7efc6d6
 -- title:

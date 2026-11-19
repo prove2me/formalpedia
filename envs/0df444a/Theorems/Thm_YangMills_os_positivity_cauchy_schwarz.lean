@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMills_os_positivity_cauchy_schwarz
 -- name    : YangMills.os_positivity_cauchy_schwarz
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T12:50:29.842168+00:00
 -- url     : https://prove2.me/theorems/c9946879-8d09-4ab4-8370-3233312d89e0
 -- title:

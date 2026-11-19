@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos30_singer_lower_bound
 -- name    : Erdos30.singer_lower_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:44:37.243828+00:00
 -- url     : https://prove2.me/theorems/88666560-8a3b-46db-8559-ec5619e5d595
 -- title:

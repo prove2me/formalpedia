@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_continuous_image_connected
 -- name    : Rudin.ch04_continuous_image_connected
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T22:11:26.370989+00:00
 -- url     : https://prove2.me/theorems/4960d5a4-4b8a-4f7b-81db-734614fac029
 -- title:

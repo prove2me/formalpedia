@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_EnsembleSpaceDraft_axioms
 -- name    : EnsembleSpaceDraft_axioms
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:47:20.238145+00:00
 -- url     : https://prove2.me/theorems/dd8b8ad5-b77b-4311-a417-a9edf2340212
 -- title:

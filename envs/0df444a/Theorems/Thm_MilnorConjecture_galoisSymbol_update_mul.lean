@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_galoisSymbol_update_mul
 -- name    : MilnorConjecture.galoisSymbol_update_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T12:05:12.595639+00:00
 -- url     : https://prove2.me/theorems/670dcf26-1886-49f5-8ff2-d92179321ab5
 -- title:

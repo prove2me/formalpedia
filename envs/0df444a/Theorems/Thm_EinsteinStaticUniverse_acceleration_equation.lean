@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_acceleration_equation
 -- name    : EinsteinStaticUniverse.acceleration_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:22:48.403359+00:00
 -- url     : https://prove2.me/theorems/71f16904-e48e-488f-8478-038f5cd224a7
 -- title:

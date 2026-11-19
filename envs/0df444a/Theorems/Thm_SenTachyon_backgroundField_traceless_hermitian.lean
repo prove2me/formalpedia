@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_backgroundField_traceless_hermitian
 -- name    : SenTachyon.backgroundField_traceless_hermitian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:00:19.02718+00:00
 -- url     : https://prove2.me/theorems/619bb92a-e8f2-4801-8452-c89583362b30
 -- title:

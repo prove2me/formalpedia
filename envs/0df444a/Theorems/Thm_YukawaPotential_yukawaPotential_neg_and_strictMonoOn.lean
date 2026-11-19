@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawaPotential_neg_and_strictMonoOn
 -- name    : YukawaPotential.yukawaPotential_neg_and_strictMonoOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T12:25:26.879984+00:00
 -- url     : https://prove2.me/theorems/d7a33820-0d9b-43c9-99df-5c680cf492de
 -- title:

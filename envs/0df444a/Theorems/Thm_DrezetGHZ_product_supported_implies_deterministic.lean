@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_product_supported_implies_deterministic
 -- name    : DrezetGHZ.product_supported_implies_deterministic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T20:29:05.010716+00:00
 -- url     : https://prove2.me/theorems/004feae3-b55c-4573-9ac1-e3975ec2b877
 -- title:

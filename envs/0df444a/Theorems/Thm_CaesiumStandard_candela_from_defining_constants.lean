@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_candela_from_defining_constants
 -- name    : CaesiumStandard.candela_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:28:32.575871+00:00
 -- url     : https://prove2.me/theorems/a0e46b00-07c9-4c1f-93a2-1a90737d4cc4
 -- title:

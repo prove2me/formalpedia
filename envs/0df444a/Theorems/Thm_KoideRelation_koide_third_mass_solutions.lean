@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_third_mass_solutions
 -- name    : KoideRelation.koide_third_mass_solutions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T15:13:42.345615+00:00
 -- url     : https://prove2.me/theorems/4f81c6cf-6ede-4eb0-ba20-8093e74c2719
 -- title:

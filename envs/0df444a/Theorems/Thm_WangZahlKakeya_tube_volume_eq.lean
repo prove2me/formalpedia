@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_tube_volume_eq
 -- name    : WangZahlKakeya.tube_volume_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T15:04:02.538789+00:00
 -- url     : https://prove2.me/theorems/0a7bc257-f4cd-4cf7-abd6-0e255091c2ac
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_theorem4_four_body_unless_equal
 -- name    : AlbouyKaloshin.theorem4_four_body_unless_equal
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:33:46.653586+00:00
 -- url     : https://prove2.me/theorems/1536e049-81ff-4312-84ae-ff42854c589f
 -- title:

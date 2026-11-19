@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WallGSL_Spacetime
 -- name    : WallGSL_Spacetime
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T17:18:25.054385+00:00
 -- url     : https://prove2.me/theorems/aaae8599-0b0a-4e5a-9aec-e7dc51e8629e
 -- title:

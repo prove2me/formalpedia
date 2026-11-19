@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_osc_gaussian_solves_continuity
 -- name    : AKR2008.osc_gaussian_solves_continuity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:03:28.432387+00:00
 -- url     : https://prove2.me/theorems/ecc9f32e-08b7-4ef8-86ce-f5c0fd45457f
 -- title:

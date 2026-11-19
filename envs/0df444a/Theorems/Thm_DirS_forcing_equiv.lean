@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_forcing_equiv
 -- name    : DirS.forcing_equiv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:27:48.852805+00:00
 -- url     : https://prove2.me/theorems/671434d2-a465-4c69-8927-79d3bdd78e96
 -- title:

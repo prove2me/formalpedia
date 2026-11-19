@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TeleparallelGravity_superpotential_antisymm
 -- name    : TeleparallelGravity.superpotential_antisymm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T22:43:27.749973+00:00
 -- url     : https://prove2.me/theorems/67e94fad-b200-4392-b657-4e3e007d19c9
 -- title:

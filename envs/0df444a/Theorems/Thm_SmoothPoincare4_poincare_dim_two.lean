@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothPoincare4_poincare_dim_two
 -- name    : SmoothPoincare4.poincare_dim_two
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:49:54.68408+00:00
 -- url     : https://prove2.me/theorems/2b413039-3dfb-4be8-92a0-61311fd73937
 -- title:

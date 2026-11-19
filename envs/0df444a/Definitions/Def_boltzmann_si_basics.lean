@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_boltzmann_si_basics
 -- name    : boltzmann_si_basics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:42:57.000762+00:00
 -- url     : https://prove2.me/theorems/ba8a2146-7719-4edc-b31a-8a913285413c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_downset_sidorenko
 -- name    : SidB.downset_sidorenko
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:27:48.140224+00:00
 -- url     : https://prove2.me/theorems/452fd3e2-348d-4788-b378-fb4af1944304
 -- title:

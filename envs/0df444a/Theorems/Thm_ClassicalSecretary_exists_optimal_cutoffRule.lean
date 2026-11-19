@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_exists_optimal_cutoffRule
 -- name    : ClassicalSecretary.exists_optimal_cutoffRule
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:51:44.328059+00:00
 -- url     : https://prove2.me/theorems/3dbd7c77-8631-46ca-af13-aa0751fe1e2d
 -- title:

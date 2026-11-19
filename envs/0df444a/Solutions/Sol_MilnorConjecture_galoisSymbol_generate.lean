@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MilnorConjecture.galoisSymbol_generate
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:50:51.001525+00:00
 -- url     : https://prove2.me/submissions/1d2e1c5f-f2ff-4dd5-9ed6-ada0ce3b4719
 -- note    : a sketch -- it imports a theorem that is still Open,

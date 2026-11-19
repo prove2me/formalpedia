@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_interchange_limits
 -- name    : Rudin.ch07_interchange_limits
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:18:04.331987+00:00
 -- url     : https://prove2.me/theorems/66f55fe8-cae1-456d-b8bd-806d99b4ae7d
 -- title:

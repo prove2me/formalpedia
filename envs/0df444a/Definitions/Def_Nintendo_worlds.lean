@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Nintendo_worlds
 -- name    : Nintendo_worlds
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T05:51:52.80351+00:00
 -- url     : https://prove2.me/theorems/6c4396a0-3647-402c-b7e3-6b09b1337da7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_poincare_lemma
 -- name    : Rudin.ch10_poincare_lemma
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:26:44.234606+00:00
 -- url     : https://prove2.me/theorems/7cd08794-8c10-497d-9abf-c7385d2ed650
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PCB_alg
 -- name    : PCB_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:10:12.915416+00:00
 -- url     : https://prove2.me/theorems/8710dc5d-f64e-44d2-b5ab-5ad9bae808dc
 -- title:

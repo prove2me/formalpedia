@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_mandelbrot_locally_connected
 -- name    : Mandelbrot.mandelbrot_locally_connected
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T01:43:37.147534+00:00
 -- url     : https://prove2.me/theorems/b9cbd859-ffd7-496e-97a7-1e5bf3f1b3c8
 -- title:

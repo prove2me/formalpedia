@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_reduction_to_riemann
 -- name    : Rudin.ch06_reduction_to_riemann
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:22:31.026092+00:00
 -- url     : https://prove2.me/theorems/2c850d16-16c1-4447-99da-dfd3e80262b5
 -- title:

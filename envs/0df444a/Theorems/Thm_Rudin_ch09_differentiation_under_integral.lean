@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_differentiation_under_integral
 -- name    : Rudin.ch09_differentiation_under_integral
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:25:31.617259+00:00
 -- url     : https://prove2.me/theorems/41e74cb0-05f9-491e-b786-2ebaa862e7f2
 -- title:

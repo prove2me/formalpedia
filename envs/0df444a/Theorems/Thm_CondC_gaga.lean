@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_gaga
 -- name    : CondC.gaga
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:53:07.512515+00:00
 -- url     : https://prove2.me/theorems/928db602-6d7e-49e5-8407-e3efc104552f
 -- title:

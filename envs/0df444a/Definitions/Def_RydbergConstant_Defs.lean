@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RydbergConstant_Defs
 -- name    : RydbergConstant_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:13:26.413919+00:00
 -- url     : https://prove2.me/theorems/8c17767b-45c1-4919-84ba-d7dee03f457b
 -- title:

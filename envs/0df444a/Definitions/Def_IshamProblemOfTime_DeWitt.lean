@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IshamProblemOfTime_DeWitt
 -- name    : IshamProblemOfTime_DeWitt
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:10:02.989321+00:00
 -- url     : https://prove2.me/theorems/3db54e6b-1603-414b-be47-1de0a7e9ddfa
 -- title:

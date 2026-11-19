@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ElectroweakWiki_defs
 -- name    : ElectroweakWiki_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:30:20.761177+00:00
 -- url     : https://prove2.me/theorems/04f81704-6ae3-48c2-b3d3-10c7f1e7f12a
 -- title:

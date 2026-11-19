@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_string_hamiltonian_fluctuation_finite
 -- name    : DSSYKScales.string_hamiltonian_fluctuation_finite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:05:59.264146+00:00
 -- url     : https://prove2.me/theorems/076bf7a0-ab7a-4e23-bc43-e7361e03a358
 -- title:

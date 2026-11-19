@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DFT_HohenbergKohn
 -- name    : DFT_HohenbergKohn
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T19:54:09.535362+00:00
 -- url     : https://prove2.me/theorems/12580853-befa-4f3c-89a8-74723eb4ba6d
 -- title:

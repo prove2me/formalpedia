@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_cor_1_8_4_center_braid_group
 -- name    : BraidsLinksMCG.cor_1_8_4_center_braid_group
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T19:01:17.349139+00:00
 -- url     : https://prove2.me/theorems/96adf110-39ea-48e3-ad72-3c84fe016f94
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_inv_X_sq_add_one_liouville_form
 -- name    : LiouvilleDiffAlg.inv_X_sq_add_one_liouville_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T18:57:23.551978+00:00
 -- url     : https://prove2.me/theorems/89094fb5-517d-4670-a7de-ef804ff79ba9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_christoffel_decomposition
 -- name    : DoCarmoDG.christoffel_decomposition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:02:05.365624+00:00
 -- url     : https://prove2.me/theorems/7ccd4dab-2d03-4579-b693-5fa7442e8f5a
 -- title:

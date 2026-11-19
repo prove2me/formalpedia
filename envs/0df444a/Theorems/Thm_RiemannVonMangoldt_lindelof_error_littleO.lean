@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RiemannVonMangoldt_lindelof_error_littleO
 -- name    : RiemannVonMangoldt.lindelof_error_littleO
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T02:12:57.305967+00:00
 -- url     : https://prove2.me/theorems/07cbdc2e-72c2-42a5-b6c1-e83767474336
 -- title:

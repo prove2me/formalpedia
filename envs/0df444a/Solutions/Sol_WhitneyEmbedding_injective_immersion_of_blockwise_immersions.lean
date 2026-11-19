@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.injective_immersion_of_blockwise_immersions
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T16:45:25.1948+00:00
 -- url     : https://prove2.me/submissions/8882ab7e-4e6d-4820-b4f3-308480264803
 

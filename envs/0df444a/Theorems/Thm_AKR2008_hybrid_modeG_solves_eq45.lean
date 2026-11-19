@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_hybrid_modeG_solves_eq45
 -- name    : AKR2008.hybrid_modeG_solves_eq45
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:53:20.706463+00:00
 -- url     : https://prove2.me/theorems/17c6ac23-adbf-462a-a02a-cb266783a557
 -- title:

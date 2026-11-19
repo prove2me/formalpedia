@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_weyl_invariance
 -- name    : PolyakovAction.weyl_invariance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:09:27.584967+00:00
 -- url     : https://prove2.me/theorems/189e7717-d1f6-4a8b-aaf3-aee2114e35f7
 -- title:

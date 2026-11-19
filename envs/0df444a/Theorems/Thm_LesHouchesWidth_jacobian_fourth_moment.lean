@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_jacobian_fourth_moment
 -- name    : LesHouchesWidth.jacobian_fourth_moment
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:20:46.775992+00:00
 -- url     : https://prove2.me/theorems/c6503fc0-25df-415e-92db-53cb51d9071d
 -- title:

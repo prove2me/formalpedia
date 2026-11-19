@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FCP.AgohGiuga.giuga_criterion
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:19:06.354254+00:00
 -- url     : https://prove2.me/submissions/b95f0769-546c-4819-be3f-78399962e90c
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_josephson_sq_mul_vonKlitzing
 -- name    : CODATA2022.josephson_sq_mul_vonKlitzing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:14:46.155903+00:00
 -- url     : https://prove2.me/theorems/b7f41c90-b95c-43cf-8bba-2d1046152c8e
 -- title:

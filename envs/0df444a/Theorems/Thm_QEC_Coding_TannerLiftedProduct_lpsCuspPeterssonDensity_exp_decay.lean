@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsCuspPeterssonDensity_exp_decay
 -- name    : QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonDensity_exp_decay
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T09:21:53.319638+00:00
 -- url     : https://prove2.me/theorems/d975bc27-c1b8-499a-9c06-eadb62ac54b7

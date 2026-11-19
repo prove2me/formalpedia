@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_gamma_of_momentum
 -- name    : LorentzFactor.gamma_of_momentum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:24:09.014931+00:00
 -- url     : https://prove2.me/theorems/24e7eaf0-3166-44ec-bbd2-b6bf8bce2ad6
 -- title:

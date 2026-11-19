@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_poynting_theorem
 -- name    : Larmor.poynting_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:08:53.203066+00:00
 -- url     : https://prove2.me/theorems/31e87263-2d99-4f47-abac-a729bace7e4c
 -- title:

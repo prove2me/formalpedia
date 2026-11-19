@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_energy_of_one_nat
 -- name    : BoltzmannConstant.energy_of_one_nat
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:46:17.937983+00:00
 -- url     : https://prove2.me/theorems/140be735-1507-44e8-93bb-06167090310b
 -- title:

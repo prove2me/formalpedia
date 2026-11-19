@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_mzv_euler_two_one
 -- name    : GrothendieckTeichmuller.mzv_euler_two_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:55:39.642019+00:00
 -- url     : https://prove2.me/theorems/95a97589-6cfd-4af3-af97-82a0a1801e68
 -- title:

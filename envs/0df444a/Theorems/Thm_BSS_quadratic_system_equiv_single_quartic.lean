@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_quadratic_system_equiv_single_quartic
 -- name    : BSS.quadratic_system_equiv_single_quartic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:03:04.696947+00:00
 -- url     : https://prove2.me/theorems/767f4337-9086-4d7b-953a-05448ea473bf
 -- title:

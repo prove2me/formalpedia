@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LSSNil
 -- name    : LSSNil
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T17:59:16.506322+00:00
 -- url     : https://prove2.me/theorems/06f83277-b0b7-45cb-aa45-f71ff67db0b0
 -- title:

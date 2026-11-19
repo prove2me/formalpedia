@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WardTakahashi_integral_localVar_eq_zero
 -- name    : WardTakahashi.integral_localVar_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:17:50.69985+00:00
 -- url     : https://prove2.me/theorems/ef319e1e-a484-4c20-9b06-59e8bc853f86
 -- title:

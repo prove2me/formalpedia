@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SaysLaw_Model
 -- name    : SaysLaw_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:44.331976+00:00
 -- url     : https://prove2.me/theorems/9c6a54a5-e357-48ba-865a-1f4907aead04
 -- title:

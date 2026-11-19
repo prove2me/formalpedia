@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupIsoDepth_LowerBounds_lemma_5_10
 -- name    : GroupIsoDepth.LowerBounds.lemma_5_10
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T16:40:28.149749+00:00
 -- url     : https://prove2.me/theorems/9cf9e0e5-6fd9-4564-9ebb-c8a1f66ad69e

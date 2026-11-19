@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Mersenne_new_mersenne_conjecture
 -- name    : FCP.Mersenne.new_mersenne_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:44:52.68368+00:00
 -- url     : https://prove2.me/theorems/1be6b715-6e4e-4603-9fd9-67de40f25a8b
 -- title:

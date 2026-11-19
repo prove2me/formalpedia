@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LocalDistanceNetwork_GLS
 -- name    : LocalDistanceNetwork_GLS
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T20:23:00.842723+00:00
 -- url     : https://prove2.me/theorems/5a4a4caa-e4b5-4d51-805f-ab967a2e4891
 -- title:

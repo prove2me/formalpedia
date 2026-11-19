@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_subharmonic
 -- name    : ray_subharmonic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T20:58:10.361793+00:00
 -- url     : https://prove2.me/theorems/24b253c6-1011-4d60-bafe-a3f7c5d8f57c
 -- title:

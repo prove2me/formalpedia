@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_retarded_time_unique
 -- name    : Larmor.retarded_time_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:10:01.431696+00:00
 -- url     : https://prove2.me/theorems/32e7429d-aa71-4196-a71b-7c3c653b4347
 -- title:

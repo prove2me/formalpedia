@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LSSInterface
 -- name    : LSSInterface
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T13:26:29.045253+00:00
 -- url     : https://prove2.me/theorems/a6fc7247-12bd-4c14-9ca1-1258c84131b7
 -- title:

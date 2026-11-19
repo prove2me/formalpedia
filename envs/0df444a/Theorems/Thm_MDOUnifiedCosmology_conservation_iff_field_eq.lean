@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_conservation_iff_field_eq
 -- name    : MDOUnifiedCosmology.conservation_iff_field_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:31:12.022034+00:00
 -- url     : https://prove2.me/theorems/d2f4fbe9-3be1-405f-9527-c9b6ecc797a6
 -- title:

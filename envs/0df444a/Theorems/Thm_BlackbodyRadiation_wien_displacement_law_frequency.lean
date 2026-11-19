@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_wien_displacement_law_frequency
 -- name    : BlackbodyRadiation.wien_displacement_law_frequency
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:39:40.732429+00:00
 -- url     : https://prove2.me/theorems/6f306ff6-0089-4882-af05-9050651be573
 -- title:

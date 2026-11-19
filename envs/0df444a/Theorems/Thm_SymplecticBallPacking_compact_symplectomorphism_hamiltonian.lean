@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymplecticBallPacking_compact_symplectomorphism_hamiltonian
 -- name    : SymplecticBallPacking.compact_symplectomorphism_hamiltonian
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:57:42.65756+00:00
 -- url     : https://prove2.me/theorems/4bad9757-acd0-4c9b-bad0-c8092a465ed3
 -- title:

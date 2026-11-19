@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicsOfWater_pipeFlow_eq_poiseuilleProfile
 -- name    : MathematicsOfWater.pipeFlow_eq_poiseuilleProfile
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:39:47.34362+00:00
 -- url     : https://prove2.me/theorems/efd6f11b-3ae5-41bd-b12c-2d3580b13299
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NRLFormulary_cbinom_succ_succ
 -- name    : NRLFormulary.cbinom_succ_succ
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:53:38.494006+00:00
 -- url     : https://prove2.me/theorems/95d0601a-dbe8-4f57-b1e6-2dbfbcef85b6
 -- title:

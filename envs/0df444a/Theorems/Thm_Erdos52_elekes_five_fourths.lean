@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos52_elekes_five_fourths
 -- name    : Erdos52.elekes_five_fourths
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:34:13.37399+00:00
 -- url     : https://prove2.me/theorems/320028fe-a44a-4283-beee-f0990691263e
 -- title:

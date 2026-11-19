@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_C1_iff_partials_continuous
 -- name    : Rudin.ch09_C1_iff_partials_continuous
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:16:06.008347+00:00
 -- url     : https://prove2.me/theorems/084c04f1-7daa-4e3d-8a0b-476f1df6027e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_measured_probability_linear
 -- name    : HardyFiveAxioms.measured_probability_linear
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:24:53.873478+00:00
 -- url     : https://prove2.me/theorems/d783626f-cb46-4dc7-adae-50d70076d281
 -- title:

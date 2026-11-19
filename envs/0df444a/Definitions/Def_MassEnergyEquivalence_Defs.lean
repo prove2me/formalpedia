@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MassEnergyEquivalence_Defs
 -- name    : MassEnergyEquivalence_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:10:38.750913+00:00
 -- url     : https://prove2.me/theorems/b04be705-fd7f-4aa8-b91a-8fba4150c1cc
 -- title:

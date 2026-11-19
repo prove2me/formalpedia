@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_kepler_energy_const
 -- name    : DynamicsRelativity.kepler_energy_const
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:19:37.134973+00:00
 -- url     : https://prove2.me/theorems/f3cb1712-cf83-4e42-beff-451eea9237c4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_second_moment_asymptotic
 -- name    : LindelofHypothesis.second_moment_asymptotic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:49:08.629989+00:00
 -- url     : https://prove2.me/theorems/b0440d60-b855-4288-ba7b-00d9a486ef1d
 -- title:

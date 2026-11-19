@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_palis_cr_topology
 -- name    : palis_cr_topology
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:54:11.280473+00:00
 -- url     : https://prove2.me/theorems/4d077a5e-5797-4015-b31d-5625a65411e7
 -- title:

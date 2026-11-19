@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_fermion_two_point_cosmic_units
 -- name    : DSSYKScales.fermion_two_point_cosmic_units
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:59:04.374844+00:00
 -- url     : https://prove2.me/theorems/cbaaa45b-1e7a-45f8-bf7e-92bdf6b9c4ac
 -- title:

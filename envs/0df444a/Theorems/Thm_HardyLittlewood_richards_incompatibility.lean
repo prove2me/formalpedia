@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_richards_incompatibility
 -- name    : HardyLittlewood.richards_incompatibility
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:49:04.401997+00:00
 -- url     : https://prove2.me/theorems/7106a6b5-100c-4e00-a48c-06746134a5b0
 -- title:

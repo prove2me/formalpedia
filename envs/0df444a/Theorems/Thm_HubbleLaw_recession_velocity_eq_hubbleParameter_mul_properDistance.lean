@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_recession_velocity_eq_hubbleParameter_mul_properDistance
 -- name    : HubbleLaw.recession_velocity_eq_hubbleParameter_mul_properDistance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:18:30.828726+00:00
 -- url     : https://prove2.me/theorems/b7093200-13bd-4653-8bf7-3b96e792ccc1
 -- title:

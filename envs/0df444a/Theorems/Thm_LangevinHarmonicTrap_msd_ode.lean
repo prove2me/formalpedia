@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LangevinHarmonicTrap_msd_ode
 -- name    : LangevinHarmonicTrap.msd_ode
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:12:28.420728+00:00
 -- url     : https://prove2.me/theorems/8b901f3e-d197-4de3-a220-84c390c43f73
 -- title:

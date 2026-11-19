@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ConnesRZ.weil_positivity_of_RH
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T02:34:51.67358+00:00
 -- url     : https://prove2.me/submissions/adc12c06-e8fa-41b9-af18-d8e71e465c07
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LaplaceTide_energy_equation_period_averaged
 -- name    : LaplaceTide.energy_equation_period_averaged
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:35:00.320003+00:00
 -- url     : https://prove2.me/theorems/9f9ed614-ce44-4106-98b1-987bb4ad0d0c
 -- title:

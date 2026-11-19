@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_exp_neg_one_le_optimalProb
 -- name    : ClassicalSecretary.exp_neg_one_le_optimalProb
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:54:32.863164+00:00
 -- url     : https://prove2.me/theorems/b0c475d3-a162-4ba2-8862-371463eff265
 -- title:

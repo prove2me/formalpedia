@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_friedmann_eq_2_6
 -- name    : PereiraGuimaraesElko.friedmann_eq_2_6
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:49:50.882616+00:00
 -- url     : https://prove2.me/theorems/0c156fbd-bb98-48fe-82bd-95973af17e5b
 -- title:

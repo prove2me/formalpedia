@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ChatterjeeQFT_Minkowski
 -- name    : ChatterjeeQFT_Minkowski
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:39:44.401985+00:00
 -- url     : https://prove2.me/theorems/21c94ede-d598-439c-8508-84ee46409b19
 -- title:

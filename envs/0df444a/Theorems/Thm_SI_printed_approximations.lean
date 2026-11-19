@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_printed_approximations
 -- name    : SI.printed_approximations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:57:39.294049+00:00
 -- url     : https://prove2.me/theorems/e1f9bcbc-a712-4796-9ed5-179e3c15de65
 -- title:

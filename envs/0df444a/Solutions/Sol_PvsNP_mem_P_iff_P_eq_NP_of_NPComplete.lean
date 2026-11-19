@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PvsNP.mem_P_iff_P_eq_NP_of_NPComplete
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:32:24.288467+00:00
 -- url     : https://prove2.me/submissions/3dc845ed-e735-4d06-a612-d2410d39668e
 

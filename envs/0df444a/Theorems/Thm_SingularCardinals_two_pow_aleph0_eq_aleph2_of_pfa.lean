@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_two_pow_aleph0_eq_aleph2_of_pfa
 -- name    : SingularCardinals.two_pow_aleph0_eq_aleph2_of_pfa
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:51:09.05896+00:00
 -- url     : https://prove2.me/theorems/d7eb87a8-286d-4468-b5c7-bfa2534a6f4a
 -- title:

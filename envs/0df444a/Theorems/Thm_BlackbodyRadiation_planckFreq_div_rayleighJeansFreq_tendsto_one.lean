@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckFreq_div_rayleighJeansFreq_tendsto_one
 -- name    : BlackbodyRadiation.planckFreq_div_rayleighJeansFreq_tendsto_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:53:00.482362+00:00
 -- url     : https://prove2.me/theorems/41710471-8088-4dfc-b230-0c693d7646f9
 -- title:

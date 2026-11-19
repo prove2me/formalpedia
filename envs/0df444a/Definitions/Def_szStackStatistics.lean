@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_szStackStatistics
 -- name    : szStackStatistics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:41:32.019248+00:00
 -- url     : https://prove2.me/theorems/fcc1ed09-1cf1-45ff-b69a-33446dad4fe7
 -- title:

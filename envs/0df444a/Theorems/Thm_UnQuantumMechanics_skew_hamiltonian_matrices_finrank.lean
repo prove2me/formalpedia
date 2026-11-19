@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_skew_hamiltonian_matrices_finrank
 -- name    : UnQuantumMechanics.skew_hamiltonian_matrices_finrank
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T18:10:50.092763+00:00
 -- url     : https://prove2.me/theorems/903964c3-cfc7-494a-a59d-1ac3ef5b8430
 -- title:

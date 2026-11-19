@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalDynamics_principle_of_least_action
 -- name    : ClassicalDynamics.principle_of_least_action
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:36:29.052188+00:00
 -- url     : https://prove2.me/theorems/b3d1975c-4f9b-4040-a0bc-53d4500ea81c
 -- title:

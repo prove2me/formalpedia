@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_gaussian_ideal_count_eq_two_squares
 -- name    : ClassNumberFormula.gaussian_ideal_count_eq_two_squares
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:52:46.595451+00:00
 -- url     : https://prove2.me/theorems/9fa70632-6070-4b86-b1e1-d25f279c3a64
 -- title:

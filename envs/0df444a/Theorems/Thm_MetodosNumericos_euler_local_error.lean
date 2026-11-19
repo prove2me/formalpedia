@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_euler_local_error
 -- name    : MetodosNumericos.euler_local_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:53:54.507165+00:00
 -- url     : https://prove2.me/theorems/a2dac270-083a-4bc2-9911-6a8254be1955
 -- title:

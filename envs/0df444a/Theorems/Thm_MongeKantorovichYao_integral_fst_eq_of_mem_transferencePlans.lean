@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_integral_fst_eq_of_mem_transferencePlans
 -- name    : MongeKantorovichYao.integral_fst_eq_of_mem_transferencePlans
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:11:16.477736+00:00
 -- url     : https://prove2.me/theorems/5fc0ce75-1681-4e5e-94ec-060cb741911b
 -- title:

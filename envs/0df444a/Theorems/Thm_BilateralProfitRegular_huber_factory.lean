@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitRegular_huber_factory
 -- name    : BilateralProfitRegular.huber_factory
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:13.961689+00:00
 -- url     : https://prove2.me/theorems/874c7ad9-0f52-4f23-9f61-383ece984b1b

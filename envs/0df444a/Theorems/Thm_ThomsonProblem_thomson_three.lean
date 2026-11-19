@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonProblem_thomson_three
 -- name    : ThomsonProblem.thomson_three
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:53:34.114948+00:00
 -- url     : https://prove2.me/theorems/d6a4fd35-be23-47f0-a9b4-28c5e2ca7d6c
 -- title:

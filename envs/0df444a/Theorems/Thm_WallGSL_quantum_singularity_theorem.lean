@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WallGSL_quantum_singularity_theorem
 -- name    : WallGSL.quantum_singularity_theorem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:25:09.977651+00:00
 -- url     : https://prove2.me/theorems/fc474b0f-045b-43a6-b3a7-65ea4ed3c471
 -- title:

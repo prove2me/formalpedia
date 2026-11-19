@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_gelfond_schneider
 -- name    : Schanuel.gelfond_schneider
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:33:14.472082+00:00
 -- url     : https://prove2.me/theorems/2e4b9062-99bc-4797-b90c-279b63f084aa
 -- title:

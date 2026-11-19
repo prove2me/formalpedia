@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos592_schipperus_four_or_more
 -- name    : Erdos592.schipperus_four_or_more
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:11:09.206493+00:00
 -- url     : https://prove2.me/theorems/9b632d32-a698-49f8-8bcb-5493f5b5fee1
 -- title:

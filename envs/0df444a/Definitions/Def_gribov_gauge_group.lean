@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_gribov_gauge_group
 -- name    : gribov_gauge_group
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:10:45.489814+00:00
 -- url     : https://prove2.me/theorems/53e245c3-aece-4d29-93f3-bfe2118d2bef
 -- title:

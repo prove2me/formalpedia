@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_itinerary_homeomorph
 -- name    : Devaney.itinerary_homeomorph
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:51:51.306502+00:00
 -- url     : https://prove2.me/theorems/4ef11e53-9e4b-4425-9772-6d5842b6a952
 -- title:

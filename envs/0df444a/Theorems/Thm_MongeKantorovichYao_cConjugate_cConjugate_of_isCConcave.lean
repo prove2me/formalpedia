@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_cConjugate_cConjugate_of_isCConcave
 -- name    : MongeKantorovichYao.cConjugate_cConjugate_of_isCConcave
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:27:14.42972+00:00
 -- url     : https://prove2.me/theorems/aa2e41c2-bca5-4f02-a151-3e2baf195844
 -- title:

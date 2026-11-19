@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_exists_empiricalTemperature_of_equivalence
 -- name    : ZerothLawThermo.exists_empiricalTemperature_of_equivalence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:08.528559+00:00
 -- url     : https://prove2.me/theorems/221f49b3-8720-48be-9c9b-8d85dba29116
 -- title:

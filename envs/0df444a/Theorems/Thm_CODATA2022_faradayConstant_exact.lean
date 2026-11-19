@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_faradayConstant_exact
 -- name    : CODATA2022.faradayConstant_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:13:32.990999+00:00
 -- url     : https://prove2.me/theorems/6e66df47-fb95-4a81-8cad-808d12ae8e22
 -- title:

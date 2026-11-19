@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SelmerGroup_ContinuousH1
 -- name    : SelmerGroup_ContinuousH1
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:52:35.265855+00:00
 -- url     : https://prove2.me/theorems/a71cf60d-9ca5-4e54-bb21-4f080a1fd56a
 -- title:

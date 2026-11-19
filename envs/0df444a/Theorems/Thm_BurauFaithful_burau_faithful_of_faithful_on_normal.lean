@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_burau_faithful_of_faithful_on_normal
 -- name    : BurauFaithful.burau_faithful_of_faithful_on_normal
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T20:48:53.166266+00:00
 -- url     : https://prove2.me/theorems/906aaa4a-93c6-4fbf-862e-71e93ea21242
 -- title:

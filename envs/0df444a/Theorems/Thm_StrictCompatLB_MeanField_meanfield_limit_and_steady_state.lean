@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_MeanField_meanfield_limit_and_steady_state
 -- name    : StrictCompatLB.MeanField.meanfield_limit_and_steady_state
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:51:43.378901+00:00
 -- url     : https://prove2.me/theorems/77ae612d-3b01-4a57-8b53-6152bd73b514

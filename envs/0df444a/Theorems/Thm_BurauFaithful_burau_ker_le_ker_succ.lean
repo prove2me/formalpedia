@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_burau_ker_le_ker_succ
 -- name    : BurauFaithful.burau_ker_le_ker_succ
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T20:32:45.439649+00:00
 -- url     : https://prove2.me/theorems/3aed5109-4333-4dde-95ff-7f1d18fbc1da
 -- title:

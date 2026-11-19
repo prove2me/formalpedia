@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMillsMassGap_wilson_reflection_positivity
 -- name    : YangMillsMassGap.wilson_reflection_positivity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:51:36.30117+00:00
 -- url     : https://prove2.me/theorems/deb09107-7281-4a94-b7e1-6a2e1e467336
 -- title:

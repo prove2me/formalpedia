@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_osgood_series
 -- name    : ray_osgood_series
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T20:53:31.075623+00:00
 -- url     : https://prove2.me/theorems/c0529181-802d-44ee-bc7a-95d609c18250
 -- title:

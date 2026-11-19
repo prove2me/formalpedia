@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_prop_1_1_covering
 -- name    : BraidsLinksMCG.prop_1_1_covering
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:58:47.583443+00:00
 -- url     : https://prove2.me/theorems/9e721edf-30d3-4b97-9ced-07808f464ddc
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HairerSPDE_CameronMartin
 -- name    : HairerSPDE_CameronMartin
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:17:01.08214+00:00
 -- url     : https://prove2.me/theorems/546bbe6c-1d41-4a7e-b1ee-af3f33cdcdaa
 -- title:

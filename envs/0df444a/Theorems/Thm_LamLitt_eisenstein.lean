@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LamLitt_eisenstein
 -- name    : LamLitt.eisenstein
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T16:35:45.089904+00:00
 -- url     : https://prove2.me/theorems/c7f2f12d-e257-4270-906e-cbadcbf7ff32
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_planck_length_eq_c_mul_planck_time
 -- name    : PlanckUnits.planck_length_eq_c_mul_planck_time
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:38:46.977985+00:00
 -- url     : https://prove2.me/theorems/6b8542b8-ac6a-49bf-b9ee-f8f60598602d
 -- title:

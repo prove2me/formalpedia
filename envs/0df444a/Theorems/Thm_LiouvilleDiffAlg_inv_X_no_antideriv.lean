@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_inv_X_no_antideriv
 -- name    : LiouvilleDiffAlg.inv_X_no_antideriv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:40:18.293526+00:00
 -- url     : https://prove2.me/theorems/7e36f5c9-578d-46d7-8e48-0849d2b94082
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleTension_trgb_agrees_with_cepheid
 -- name    : HubbleTension.trgb_agrees_with_cepheid
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:30:08.959334+00:00
 -- url     : https://prove2.me/theorems/d8647f77-5326-4676-a766-91b98b56dc98
 -- title:

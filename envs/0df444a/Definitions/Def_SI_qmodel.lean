@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SI_qmodel
 -- name    : SI_qmodel
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:36:41.007401+00:00
 -- url     : https://prove2.me/theorems/9ede2b28-a432-4345-ad00-184e93ba17f4
 -- title:

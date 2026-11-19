@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PiIrrationality.mahler_42
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T14:29:52.873595+00:00
 -- url     : https://prove2.me/submissions/c9242a4c-a5ec-460c-897f-52186f99ab60
 

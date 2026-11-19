@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ColemanMandula_Kinematics
 -- name    : ColemanMandula_Kinematics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:37:25.819291+00:00
 -- url     : https://prove2.me/theorems/8601ab91-698b-4b49-b332-d73d975e8a76
 -- title:

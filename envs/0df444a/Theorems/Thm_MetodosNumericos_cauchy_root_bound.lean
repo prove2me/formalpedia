@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_cauchy_root_bound
 -- name    : MetodosNumericos.cauchy_root_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:35:57.46319+00:00
 -- url     : https://prove2.me/theorems/65d16c25-860d-4a61-84fd-9fdbb3d3d764
 -- title:

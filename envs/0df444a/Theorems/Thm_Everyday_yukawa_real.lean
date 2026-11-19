@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_yukawa_real
 -- name    : Everyday.yukawa_real
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:15:58.366106+00:00
 -- url     : https://prove2.me/theorems/b935dfe0-8306-4b3c-98f2-8e98cd681286
 -- title:

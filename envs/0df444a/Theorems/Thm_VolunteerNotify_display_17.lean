@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerNotify_display_17
 -- name    : VolunteerNotify.display_17
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:38:53.566541+00:00
 -- url     : https://prove2.me/theorems/077b84e1-02a1-4bc9-a306-b0315c75b2a9

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_not_convergesTo_of_godelBlackHole
 -- name    : CogCons.not_convergesTo_of_godelBlackHole
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:41:49.189962+00:00
 -- url     : https://prove2.me/theorems/468d3dab-4e6e-403c-b842-fda1b4e91431
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightCoreset2027_Euclidean_paired_queries_detect_omissions
 -- name    : TightCoreset2027.Euclidean.paired_queries_detect_omissions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:07:41.697735+00:00
 -- url     : https://prove2.me/theorems/d15abee5-351f-47cc-80b6-70651e8dc3ed

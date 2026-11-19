@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_grad_psi_vanishes_only_on_axis
 -- name    : Landreman3DEquilibria.grad_psi_vanishes_only_on_axis
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:20:05.340336+00:00
 -- url     : https://prove2.me/theorems/18d7fdd7-c59b-4e22-83ec-d8a66e556b17
 -- title:

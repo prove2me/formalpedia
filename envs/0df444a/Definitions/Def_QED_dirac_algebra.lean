@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QED_dirac_algebra
 -- name    : QED_dirac_algebra
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:42:38.777991+00:00
 -- url     : https://prove2.me/theorems/cba7e2e0-db36-43dc-b575-a5f7a62f5538
 -- title:

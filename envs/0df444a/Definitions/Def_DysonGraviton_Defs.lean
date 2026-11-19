@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DysonGraviton_Defs
 -- name    : DysonGraviton_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:10:16.727368+00:00
 -- url     : https://prove2.me/theorems/ded4a55f-2282-421b-bc5a-2bfe2e8bb3d7
 -- title:

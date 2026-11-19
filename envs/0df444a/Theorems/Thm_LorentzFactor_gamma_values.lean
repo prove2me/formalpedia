@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_gamma_values
 -- name    : LorentzFactor.gamma_values
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:26:18.754288+00:00
 -- url     : https://prove2.me/theorems/70eb7cd9-cb42-4fb1-8d25-ad43994bb2e7
 -- title:

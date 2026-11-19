@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightCoreset2027_Euclidean_euclidean_coreset_lower_bound
 -- name    : TightCoreset2027.Euclidean.euclidean_coreset_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:06:37.506311+00:00
 -- url     : https://prove2.me/theorems/7c2bdc79-919d-4e91-aab3-a5012c072e5d

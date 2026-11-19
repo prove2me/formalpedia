@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Loynes_multiserver_stability
 -- name    : PalmQueueing.Loynes.multiserver_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:31:51.305536+00:00
 -- url     : https://prove2.me/theorems/1a6efbd6-516c-415f-bf94-36e6f7d712d5

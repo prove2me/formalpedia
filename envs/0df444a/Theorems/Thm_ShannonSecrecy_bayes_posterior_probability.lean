@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShannonSecrecy_bayes_posterior_probability
 -- name    : ShannonSecrecy.bayes_posterior_probability
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:31:15.395575+00:00
 -- url     : https://prove2.me/theorems/f049b02b-e59c-4d81-aeac-bd3cc28b08c7
 -- title:

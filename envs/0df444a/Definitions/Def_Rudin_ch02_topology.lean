@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch02_topology
 -- name    : Rudin_ch02_topology
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:44:40.922855+00:00
 -- url     : https://prove2.me/theorems/4a9d94a0-3465-428c-9585-04c29be70375
 -- title:

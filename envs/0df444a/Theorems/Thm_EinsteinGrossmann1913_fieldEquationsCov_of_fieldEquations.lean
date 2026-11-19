@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinGrossmann1913_fieldEquationsCov_of_fieldEquations
 -- name    : EinsteinGrossmann1913.fieldEquationsCov_of_fieldEquations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T22:00:47.961154+00:00
 -- url     : https://prove2.me/theorems/ffcc7ea7-a7cd-4bd7-94a0-ce21f12de704
 -- title:

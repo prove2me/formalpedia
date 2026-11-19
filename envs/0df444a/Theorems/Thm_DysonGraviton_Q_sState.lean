@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_Q_sState
 -- name    : DysonGraviton.Q_sState
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:49:17.828368+00:00
 -- url     : https://prove2.me/theorems/0ed9fdd6-46ad-40a3-8eb9-10840cdcae74
 -- title:

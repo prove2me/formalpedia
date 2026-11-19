@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_weakDescendingStoppedConvolution
 -- name    : Kyprianou.Ch01.weakDescendingStoppedConvolution
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T01:07:50.960403+00:00
 -- url     : https://prove2.me/theorems/ad6ca582-896a-411a-8c76-174ed81e3cc7

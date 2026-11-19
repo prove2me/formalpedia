@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_omega_sum_eq_one
 -- name    : EinsteinStaticUniverse.omega_sum_eq_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:21:44.789813+00:00
 -- url     : https://prove2.me/theorems/5c5b657f-026f-48a3-84c7-5592e3306357
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.Erdos3.manuscript_main_theorems_s2
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-28T22:37:52.493304+00:00
 -- url     : https://prove2.me/submissions/b4a1163c-9fc5-4318-a76d-51dc81426fa0
 

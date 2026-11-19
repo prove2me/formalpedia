@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_self_energy_translation
 -- name    : Penrose.self_energy_translation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:22:49.046287+00:00
 -- url     : https://prove2.me/theorems/f47d0ba9-9231-463a-87c6-85901265efb7
 -- title:

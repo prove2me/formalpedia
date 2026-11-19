@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_jacobianEntry_law_indep_input
 -- name    : LesHouchesWidth.jacobianEntry_law_indep_input
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:19:43.629667+00:00
 -- url     : https://prove2.me/theorems/cc50696d-d366-4b4a-be86-1c281a0eb7c1
 -- title:

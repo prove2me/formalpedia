@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GreshamLaw_sixpence_single_coin
 -- name    : GreshamLaw.sixpence_single_coin
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:12.628983+00:00
 -- url     : https://prove2.me/theorems/e2982861-fde9-4d6f-888f-7c81f16b72bd
 -- title:

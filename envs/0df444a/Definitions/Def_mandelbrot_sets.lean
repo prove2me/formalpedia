@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_mandelbrot_sets
 -- name    : mandelbrot_sets
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T01:27:04.879745+00:00
 -- url     : https://prove2.me/theorems/8f17f9ed-9c1e-4203-a9bc-493d235497ae
 -- title:

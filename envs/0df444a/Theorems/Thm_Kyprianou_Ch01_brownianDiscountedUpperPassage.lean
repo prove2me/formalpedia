@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianDiscountedUpperPassage
 -- name    : Kyprianou.Ch01.brownianDiscountedUpperPassage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:37:46.783096+00:00
 -- url     : https://prove2.me/theorems/099cb1a3-ea9c-4afd-af51-13c8a4f55c75

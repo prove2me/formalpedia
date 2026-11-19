@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop8_mixture_containing_state
 -- name    : UnphysicalHilbert.prop8_mixture_containing_state
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:04:53.409803+00:00
 -- url     : https://prove2.me/theorems/42fe4f2d-8811-4e22-a5e8-df48f9686cdc
 -- title:

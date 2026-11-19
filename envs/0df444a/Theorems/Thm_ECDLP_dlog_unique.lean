@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_dlog_unique
 -- name    : ECDLP.dlog_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:44:30.811988+00:00
 -- url     : https://prove2.me/theorems/f84cf0ae-8331-498c-93d1-6bd528dda75a
 -- title:

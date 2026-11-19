@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_analise_de_fourier_core
 -- name    : analise_de_fourier_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:32:19.867237+00:00
 -- url     : https://prove2.me/theorems/3c4abff0-ff50-4ea9-9c0a-ca4c857bedcf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AstrophysicalFluidDynamics_ShockDefs
 -- name    : AstrophysicalFluidDynamics_ShockDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T15:14:55.00199+00:00
 -- url     : https://prove2.me/theorems/59248d93-56c4-4aa3-ad27-319c8d036fc0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pade_pade_exp_five_five
 -- name    : Pade.pade_exp_five_five
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:57:55.692369+00:00
 -- url     : https://prove2.me/theorems/e07f0646-0d00-4fb9-81dc-ee1aaeb430f3
 -- title:

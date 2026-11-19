@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_dir_force_needs_edge
 -- name    : DirS.dir_force_needs_edge
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:26:30.355369+00:00
 -- url     : https://prove2.me/theorems/6ed5c4a6-909d-46e0-b11e-a2b93f475d67
 -- title:

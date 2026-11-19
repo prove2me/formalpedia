@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_four_chaotic_unitI
 -- name    : Devaney.quadratic_four_chaotic_unitI
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:14:24.210257+00:00
 -- url     : https://prove2.me/theorems/5d2de3a7-b1d4-4c02-9650-ad2ac2b89bb4
 -- title:

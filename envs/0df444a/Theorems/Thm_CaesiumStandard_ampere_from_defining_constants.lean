@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_ampere_from_defining_constants
 -- name    : CaesiumStandard.ampere_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:14:09.984279+00:00
 -- url     : https://prove2.me/theorems/6f9a72dc-02a1-4b58-8015-f88413aa551d
 -- title:

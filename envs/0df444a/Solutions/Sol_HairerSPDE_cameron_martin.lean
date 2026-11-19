@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for HairerSPDE.cameron_martin
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T21:40:29.592108+00:00
 -- url     : https://prove2.me/submissions/dc850e21-261e-4b1f-b2c7-5afbfb47e09d
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos68_factorial_moment_integer_separation
 -- name    : Erdos68.factorial_moment_integer_separation
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T23:49:35.049028+00:00
 -- url     : https://prove2.me/theorems/31063e5a-0a1d-499f-a4ea-83a2a2c47202
 -- title:

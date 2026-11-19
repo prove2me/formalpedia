@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_neg_mul_log_max
 -- name    : ClassicalSecretary.neg_mul_log_max
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:53:28.022521+00:00
 -- url     : https://prove2.me/theorems/c85154fa-3915-494f-818e-3f691dd0cba8
 -- title:

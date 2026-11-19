@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KochHF_slater_wick
 -- name    : KochHF.slater_wick
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:04.799509+00:00
 -- url     : https://prove2.me/theorems/d4a21a9a-b3db-4639-bc7d-f3271ae80694
 -- title:

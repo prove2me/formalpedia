@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_graviton_massless_limit
 -- name    : Weinberg1965.graviton_massless_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:11:11.208997+00:00
 -- url     : https://prove2.me/theorems/215e2714-c9af-45fb-89cd-213d0e0491dd
 -- title:

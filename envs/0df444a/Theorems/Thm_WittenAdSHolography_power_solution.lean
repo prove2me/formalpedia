@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WittenAdSHolography_power_solution
 -- name    : WittenAdSHolography.power_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:23:49.897394+00:00
 -- url     : https://prove2.me/theorems/10812960-7ba8-4fae-8e58-50db4190d3e5
 -- title:

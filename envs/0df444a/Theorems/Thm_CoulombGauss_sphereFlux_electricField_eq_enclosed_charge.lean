@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CoulombGauss_sphereFlux_electricField_eq_enclosed_charge
 -- name    : CoulombGauss.sphereFlux_electricField_eq_enclosed_charge
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T19:04:33.444826+00:00
 -- url     : https://prove2.me/theorems/fec4e750-ad68-43ca-9522-5873d53b06f5
 -- title:

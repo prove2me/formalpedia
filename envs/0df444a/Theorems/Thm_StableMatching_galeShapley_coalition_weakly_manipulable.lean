@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_galeShapley_coalition_weakly_manipulable
 -- name    : StableMatching.galeShapley_coalition_weakly_manipulable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:43:37.468042+00:00
 -- url     : https://prove2.me/theorems/789a3b43-53ad-4ca3-9468-501565aacdc0
 -- title:

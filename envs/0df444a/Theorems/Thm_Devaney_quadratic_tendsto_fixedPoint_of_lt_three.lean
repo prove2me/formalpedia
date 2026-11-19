@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_tendsto_fixedPoint_of_lt_three
 -- name    : Devaney.quadratic_tendsto_fixedPoint_of_lt_three
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:16:05.461595+00:00
 -- url     : https://prove2.me/theorems/edfb6fdd-0dde-41f8-a530-fa1bae639e5a
 -- title:

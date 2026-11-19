@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_electric_charge_unbroken
 -- name    : ElectroweakWiki.electric_charge_unbroken
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:33:08.909976+00:00
 -- url     : https://prove2.me/theorems/336acd47-e882-407d-9936-c36dbaf4a11f
 -- title:

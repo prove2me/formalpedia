@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Brocard.brocard_conjecture
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:52:50.804492+00:00
 -- url     : https://prove2.me/submissions/4036d167-fe2a-493b-b37b-7898dc3f32cc
 -- note    : a sketch -- it imports a theorem that is still Open,

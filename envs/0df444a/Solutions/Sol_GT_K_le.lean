@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.K_le
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:37:08.198984+00:00
 -- url     : https://prove2.me/submissions/c7fb9c6e-da38-4b03-b0f9-d852197b95dc
 

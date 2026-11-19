@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Esquisse_belyi_theorem_polynomial_form
 -- name    : Esquisse.belyi_theorem_polynomial_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:53:47.107026+00:00
 -- url     : https://prove2.me/theorems/aa7d32d3-2e51-4ebf-8a67-8eeffb1e9f39
 -- title:

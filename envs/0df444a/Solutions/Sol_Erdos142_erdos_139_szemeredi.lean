@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos142.erdos_139_szemeredi
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T15:30:43.314625+00:00
 -- url     : https://prove2.me/submissions/c495f1d5-dabc-4f87-b6b9-333be4687c98
 

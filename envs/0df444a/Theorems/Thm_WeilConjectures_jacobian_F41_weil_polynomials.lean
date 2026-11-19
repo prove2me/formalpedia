@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_jacobian_F41_weil_polynomials
 -- name    : WeilConjectures.jacobian_F41_weil_polynomials
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:01:10.881595+00:00
 -- url     : https://prove2.me/theorems/2eae46b2-6cb9-411a-8606-9ffe007fa865
 -- title:

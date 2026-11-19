@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_poincare_is_int_homology_sphere
 -- name    : HomologySpheresBoundBalls.hsbb_poincare_is_int_homology_sphere
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:16:14.925571+00:00
 -- url     : https://prove2.me/theorems/1cf86ba3-6c1e-4fa0-853c-4bcdf43c86c3
 -- title:

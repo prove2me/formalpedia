@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RaritaSchwinger_massless_gamma_traceless_gauge
 -- name    : RaritaSchwinger.massless_gamma_traceless_gauge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T11:18:04.475311+00:00
 -- url     : https://prove2.me/theorems/82f9671d-6fa4-4cd7-88ae-e28bde7e0010
 -- title:

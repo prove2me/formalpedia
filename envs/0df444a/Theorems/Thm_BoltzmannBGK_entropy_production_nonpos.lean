@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_entropy_production_nonpos
 -- name    : BoltzmannBGK.entropy_production_nonpos
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:21:05.127767+00:00
 -- url     : https://prove2.me/theorems/d1a62fe0-286e-416e-a11f-8b400cebff18
 -- title:

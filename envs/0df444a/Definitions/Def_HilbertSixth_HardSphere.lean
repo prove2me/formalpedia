@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HilbertSixth_HardSphere
 -- name    : HilbertSixth_HardSphere
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T03:41:04.433017+00:00
 -- url     : https://prove2.me/theorems/8caf7bf3-604f-41c0-8636-d79e424b15d0
 -- title:

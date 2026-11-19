@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClosingLemma_DiffeoCrTopology
 -- name    : ClosingLemma_DiffeoCrTopology
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T03:15:04.700313+00:00
 -- url     : https://prove2.me/theorems/bddb60fa-2fcb-43a6-8ee1-4d84f4a9cb12
 -- title:

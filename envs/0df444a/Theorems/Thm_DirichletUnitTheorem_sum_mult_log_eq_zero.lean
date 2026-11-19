@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_sum_mult_log_eq_zero
 -- name    : DirichletUnitTheorem.sum_mult_log_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:51.42382+00:00
 -- url     : https://prove2.me/theorems/c56b0254-9c78-446f-8211-6dacfb541bf0
 -- title:

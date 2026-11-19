@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TongString_modular_action
 -- name    : TongString_modular_action
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:52:23.219049+00:00
 -- url     : https://prove2.me/theorems/36caf2cd-b699-443f-b66f-5290dc89a9d7
 -- title:

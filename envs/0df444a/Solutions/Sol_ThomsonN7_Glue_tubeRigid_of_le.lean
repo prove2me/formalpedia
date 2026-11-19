@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonN7.Glue.tubeRigid_of_le
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:09:09.536274+00:00
 -- url     : https://prove2.me/submissions/87355cbc-33b3-4142-bd50-1d2346b322ea
 

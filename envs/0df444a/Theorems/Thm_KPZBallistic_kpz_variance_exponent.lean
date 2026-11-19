@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KPZBallistic_kpz_variance_exponent
 -- name    : KPZBallistic.kpz_variance_exponent
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:32:45.869332+00:00
 -- url     : https://prove2.me/theorems/c45bfcf3-63c8-4f33-a430-65efd153a000
 -- title:

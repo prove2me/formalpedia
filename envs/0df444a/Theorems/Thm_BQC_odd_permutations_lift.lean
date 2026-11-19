@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_odd_permutations_lift
 -- name    : BQC.odd_permutations_lift
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:28:23.944821+00:00
 -- url     : https://prove2.me/theorems/80e068e2-9756-4c3a-b34e-ba08e6f55f7c
 -- title:

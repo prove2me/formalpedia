@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GNFS_nontrivial_gcd_of_sq_eq_sq
 -- name    : GNFS.nontrivial_gcd_of_sq_eq_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:29:23.012991+00:00
 -- url     : https://prove2.me/theorems/3019f563-ab97-4a94-9a8e-e13e1dffdb73
 -- title:

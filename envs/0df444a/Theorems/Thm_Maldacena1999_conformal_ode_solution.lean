@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_conformal_ode_solution
 -- name    : Maldacena1999.conformal_ode_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:50:50.645668+00:00
 -- url     : https://prove2.me/theorems/9389d917-bee5-404d-bc1c-28be9e3c625e
 -- title:

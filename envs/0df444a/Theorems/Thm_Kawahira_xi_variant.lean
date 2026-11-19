@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_xi_variant
 -- name    : Kawahira.xi_variant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:43:07.486594+00:00
 -- url     : https://prove2.me/theorems/848e4a93-e98d-4c7d-be59-71eb90b47f56
 -- title:

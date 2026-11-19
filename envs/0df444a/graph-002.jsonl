@@ -319,7 +319,7 @@
 {"parent": "FCP.AgohGiuga.agoh_giuga_sum", "child": "FCP.AgohGiuga.giuga_criterion", "via": ["solution"]}
 {"parent": "FCP.BatemanHorn.bateman_horn_conjecture", "child": "FCP_BatemanHorn", "via": ["statement"]}
 {"parent": "FCP.BatemanHorn.bunyakovsky_conjecture", "child": "FCP_BatemanHorn", "via": ["solution", "statement"]}
-{"parent": "FCP.BusyBeaver.busy_beaver_exceeds_computable", "child": "FCP_BusyBeaver", "via": ["statement"]}
+{"parent": "FCP.BusyBeaver.busy_beaver_exceeds_computable", "child": "FCP_BusyBeaver", "via": ["solution", "statement"]}
 {"parent": "FCP.InvariantSubspace.invariant_subspace_l1_counterexample", "child": "FCP_InvariantSubspace", "via": ["statement"]}
 {"parent": "FCP.InvariantSubspace.invariant_subspace_problem", "child": "FCP_InvariantSubspace", "via": ["statement"]}
 {"parent": "FCP.Jacobian.jacobian_two_variables", "child": "FCP_Jacobian", "via": ["statement"]}
@@ -2603,7 +2603,7 @@
 {"parent": "FourExp.trdeg_one_presentation_column", "child": "DiazModulus.hermite_lindemann_holds", "via": ["solution"]}
 {"parent": "FourExp.trdeg_one_presentation_column", "child": "Transcendence.exists_monic_integral_model_presentation", "via": ["solution"]}
 {"parent": "FourToOneGames.exists_rank_one_nae_form", "child": "FourToOneGames_NAE", "via": ["solution", "statement"]}
-{"parent": "FourToOneGames.four_to_one_perfect_completeness", "child": "FourToOneGames_LabelCover", "via": ["statement"]}
+{"parent": "FourToOneGames.four_to_one_perfect_completeness", "child": "FourToOneGames_LabelCover", "via": ["solution", "statement"]}
 {"parent": "FourToOneGames.grassmann_agreement_decoding", "child": "FourToOneGames_Grassmann", "via": ["statement"]}
 {"parent": "FourToOneGames.grassmann_equality_decoding", "child": "FourToOneGames_Grassmann", "via": ["statement"]}
 {"parent": "FourToOneGames.hypergraph_coloring_hardness", "child": "FourToOneGames_Hypergraph", "via": ["statement"]}
@@ -47974,11 +47974,11 @@
 {"parent": "JacJ1Iface", "child": "AlgebraicGeometry_NeronModelPropertyBundleCarrier", "via": ["statement"]}
 {"parent": "JacJ1Iface", "child": "AlgebraicGeometry_RelativeGroupLaw", "via": ["statement"]}
 {"parent": "JacJ1_ChartAlgebra", "child": "AlgebraicCurve_DivisorClassGroup", "via": ["statement"]}
-{"parent": "JacksonJobshop.Equilibrium.equilibrium_distribution", "child": "JacksonJobshop_Equilibrium_System", "via": ["statement"]}
-{"parent": "JacksonJobshop.Equilibrium.equilibrium_unique", "child": "JacksonJobshop_Equilibrium_System", "via": ["statement"]}
+{"parent": "JacksonJobshop.Equilibrium.equilibrium_distribution", "child": "JacksonJobshop_Equilibrium_System", "via": ["solution", "statement"]}
+{"parent": "JacksonJobshop.Equilibrium.equilibrium_unique", "child": "JacksonJobshop_Equilibrium_System", "via": ["solution", "statement"]}
 {"parent": "JacksonJobshop.Equilibrium.pi_series_dichotomy", "child": "JacksonJobshop_Equilibrium_System", "via": ["solution", "statement"]}
 {"parent": "JacksonJobshop.Equilibrium.product_form_is_distribution", "child": "JacksonJobshop_Equilibrium_System", "via": ["solution", "statement"]}
-{"parent": "JacksonJobshop.Equilibrium.product_form_satisfies_balance", "child": "JacksonJobshop_Equilibrium_System", "via": ["statement"]}
+{"parent": "JacksonJobshop.Equilibrium.product_form_satisfies_balance", "child": "JacksonJobshop_Equilibrium_System", "via": ["solution", "statement"]}
 {"parent": "JacodTodorov10.LLN.eq_8_11", "child": "JacodTodorov10_LLN_Local", "via": ["statement"]}
 {"parent": "JacodTodorov10.LLN.eq_8_14", "child": "JacodTodorov10_LLN_Local", "via": ["statement"]}
 {"parent": "JacodTodorov10.LLN.eq_8_27", "child": "JacodTodorov10_LLN_Local", "via": ["statement"]}

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_mul_bounded_smooth_mem
 -- name    : SchwartzSpaceWiki.mul_bounded_smooth_mem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:16:36.646668+00:00
 -- url     : https://prove2.me/theorems/e52d83c7-2b84-4aad-b56f-387e6ed02053
 -- title:

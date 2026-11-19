@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_purity
 -- name    : RSF.purity
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:15:35.621502+00:00
 -- url     : https://prove2.me/theorems/2abe5d3f-d1e8-4e5a-b86e-a18f2def04ce
 -- title:

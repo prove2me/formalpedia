@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_interpolacaoDefs
 -- name    : MetodosNumericos_interpolacaoDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:34:03.402232+00:00
 -- url     : https://prove2.me/theorems/246dfa80-fea8-410b-9603-c70eb690f41e
 -- title:

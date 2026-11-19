@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_massShell_eq_graph
 -- name    : ChatterjeeQFT.massShell_eq_graph
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:15:48.30373+00:00
 -- url     : https://prove2.me/theorems/dd4e4359-f85b-4d79-8cdf-9f7e53c3b66e
 -- title:

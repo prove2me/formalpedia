@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_uhlenbeck_gauge_box_defs
 -- name    : uhlenbeck_gauge_box_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:22:06.628487+00:00
 -- url     : https://prove2.me/theorems/574beb89-92b3-498b-baf1-8ce6dc5c7372
 -- title:

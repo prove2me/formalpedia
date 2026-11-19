@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_weakly_norming_bound
 -- name    : SidB.weakly_norming_bound
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:26:37.546335+00:00
 -- url     : https://prove2.me/theorems/93cd0f13-ed26-4f99-a9c7-8d576c936c27
 -- title:

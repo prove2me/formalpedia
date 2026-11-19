@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SI_dim
 -- name    : SI_dim
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:35:33.190956+00:00
 -- url     : https://prove2.me/theorems/5535df75-e028-416e-868e-858b984ec6e7
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_potential_base
 -- name    : RealPinwheel.FiveSixths.potential_base
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:35:08.926734+00:00
 -- url     : https://prove2.me/theorems/8bbe6255-3311-4751-a827-bbf10a100343

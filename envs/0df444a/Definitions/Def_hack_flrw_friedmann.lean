@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_hack_flrw_friedmann
 -- name    : hack_flrw_friedmann
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:15.381988+00:00
 -- url     : https://prove2.me/theorems/851eb86b-56c2-4627-9779-6a6deff1a3c9
 -- title:

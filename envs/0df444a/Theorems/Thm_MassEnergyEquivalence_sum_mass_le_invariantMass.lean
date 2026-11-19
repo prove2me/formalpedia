@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_sum_mass_le_invariantMass
 -- name    : MassEnergyEquivalence.sum_mass_le_invariantMass
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:21:22.129411+00:00
 -- url     : https://prove2.me/theorems/93f9c75e-b101-4ef0-8c2a-4bf24ad7a3bb
 -- title:

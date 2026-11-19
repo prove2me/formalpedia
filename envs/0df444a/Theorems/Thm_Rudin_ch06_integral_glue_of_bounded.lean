@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_integral_glue_of_bounded
 -- name    : Rudin.ch06_integral_glue_of_bounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T14:47:29.200988+00:00
 -- url     : https://prove2.me/theorems/f6bc673f-9e2b-4bcd-b551-6eb34d020bd1
 -- title:

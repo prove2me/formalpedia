@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SEF_dirichlet_seven_eighths
 -- name    : SEF.dirichlet_seven_eighths
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:05:01.066995+00:00
 -- url     : https://prove2.me/theorems/1a7e1e76-72af-497b-a988-161e1d46e6ad
 -- title:

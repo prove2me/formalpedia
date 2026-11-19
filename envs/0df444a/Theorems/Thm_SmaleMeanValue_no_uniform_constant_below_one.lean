@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_no_uniform_constant_below_one
 -- name    : SmaleMeanValue.no_uniform_constant_below_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:49:26.184808+00:00
 -- url     : https://prove2.me/theorems/f8203a0c-b95b-4dd9-b29c-cd793cc4522d
 -- title:

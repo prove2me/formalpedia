@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_fieldStrength_bianchi
 -- name    : QED.fieldStrength_bianchi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:11:37.562201+00:00
 -- url     : https://prove2.me/theorems/3dc6e9ec-3641-4dda-9ab1-1a5259025cbb
 -- title:

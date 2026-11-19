@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_horner_eval
 -- name    : MetodosNumericos.horner_eval
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:32:11.874988+00:00
 -- url     : https://prove2.me/theorems/d33d48b9-9a58-4f34-a658-d8d24b370b22
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for HadwigerConj.colorable_of_isDegenerate
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T13:15:12.756825+00:00
 -- url     : https://prove2.me/submissions/16d15e44-280d-41ee-8ab5-48010aa1bcf6
 

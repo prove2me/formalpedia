@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FasterDistributedMatching.ApproximateMatching.theorem_1_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-17T22:46:01.712208+00:00
 -- url     : https://prove2.me/submissions/eea2972f-5546-42b3-91ae-6d29570148e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FasterDistributedMatching_ApproximateMatching_Basic
 import Definitions.Def_FasterDistributedMatching_ApproximateMatching_Routing

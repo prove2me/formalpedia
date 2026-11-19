@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_double_series
 -- name    : Rudin.ch08_double_series
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:15:29.277723+00:00
 -- url     : https://prove2.me/theorems/3fb7e0ce-cf1a-4a06-a91f-b48fc14bc237
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_integracaoDefs
 -- name    : MetodosNumericos_integracaoDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:33:40.711229+00:00
 -- url     : https://prove2.me/theorems/6be95676-c9da-4416-95e2-6b1c1040c148
 -- title:

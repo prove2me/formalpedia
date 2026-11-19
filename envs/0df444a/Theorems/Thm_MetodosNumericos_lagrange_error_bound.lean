@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_lagrange_error_bound
 -- name    : MetodosNumericos.lagrange_error_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:54:49.684629+00:00
 -- url     : https://prove2.me/theorems/85ba22df-97da-4333-b288-3022f662123e
 -- title:

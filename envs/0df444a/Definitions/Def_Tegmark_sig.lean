@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Tegmark_sig
 -- name    : Tegmark_sig
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T04:09:41.359231+00:00
 -- url     : https://prove2.me/theorems/1da0cbe4-1a20-4ffe-a3b5-35929bb4b2b3
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_sym_relative_error
 -- name    : MetodosNumericos.sym_relative_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:40:47.073418+00:00
 -- url     : https://prove2.me/theorems/f8bb8f3d-afcf-4caa-afdc-eaacbe1e0121
 -- title:

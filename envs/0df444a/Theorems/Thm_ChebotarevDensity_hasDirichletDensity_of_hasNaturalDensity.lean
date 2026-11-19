@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_hasDirichletDensity_of_hasNaturalDensity
 -- name    : ChebotarevDensity.hasDirichletDensity_of_hasNaturalDensity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:14:36.852881+00:00
 -- url     : https://prove2.me/theorems/dc64e4d8-ab3c-480a-8334-f2f719102fe9
 -- title:

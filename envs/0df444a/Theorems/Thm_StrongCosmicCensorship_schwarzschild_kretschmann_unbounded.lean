@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_schwarzschild_kretschmann_unbounded
 -- name    : StrongCosmicCensorship.schwarzschild_kretschmann_unbounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:11:43.107788+00:00
 -- url     : https://prove2.me/theorems/0b8e38fe-1b04-4ede-a922-50607d9b6386
 -- title:

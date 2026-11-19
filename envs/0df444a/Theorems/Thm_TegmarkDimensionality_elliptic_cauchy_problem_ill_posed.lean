@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_elliptic_cauchy_problem_ill_posed
 -- name    : TegmarkDimensionality.elliptic_cauchy_problem_ill_posed
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:01:42.798282+00:00
 -- url     : https://prove2.me/theorems/f3bfcc8f-ff81-4c2c-9533-9d8e73701261
 -- title:

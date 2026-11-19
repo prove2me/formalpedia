@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NRLFormulary_cbinom
 -- name    : NRLFormulary_cbinom
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:43:30.83595+00:00
 -- url     : https://prove2.me/theorems/00ad6eed-09fe-4638-906a-c4a8a2c4e42e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DouglasVacua_continuum_flux_shell_density
 -- name    : DouglasVacua.continuum_flux_shell_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:11:37.297998+00:00
 -- url     : https://prove2.me/theorems/da561566-7a12-432a-9e3e-604befec1547
 -- title:

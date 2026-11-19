@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_holder_trick
 -- name    : SidB.holder_trick
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:25:37.284684+00:00
 -- url     : https://prove2.me/theorems/7ec18221-8b5c-4e66-a8b6-8329b7af5ea6
 -- title:

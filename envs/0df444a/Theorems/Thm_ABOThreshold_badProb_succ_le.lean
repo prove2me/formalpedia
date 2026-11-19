@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ABOThreshold_badProb_succ_le
 -- name    : ABOThreshold.badProb_succ_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:41:09.313169+00:00
 -- url     : https://prove2.me/theorems/1391e40e-76f3-4177-a422-fd3016a68826
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleDiffS4_diffSphere_two_homotopyEquiv_orth
 -- name    : SmaleDiffS4.diffSphere_two_homotopyEquiv_orth
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:40:22.129827+00:00
 -- url     : https://prove2.me/theorems/f7f72b9f-cdcd-4f44-9af3-41b231c64f1e
 -- title:

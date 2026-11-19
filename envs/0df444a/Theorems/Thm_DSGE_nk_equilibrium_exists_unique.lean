@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DSGE_nk_equilibrium_exists_unique
 -- name    : DSGE.nk_equilibrium_exists_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:09.296977+00:00
 -- url     : https://prove2.me/theorems/2880f4e7-3ac0-4070-8c97-e586bbaeed74
 -- title:

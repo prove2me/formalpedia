@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsCuspPeterssonDensity_cpow_integrable
 -- name    : QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonDensity_cpow_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T11:11:33.372015+00:00
 -- url     : https://prove2.me/theorems/72cb445b-6c63-4ad6-aa8c-7795de5fd33a

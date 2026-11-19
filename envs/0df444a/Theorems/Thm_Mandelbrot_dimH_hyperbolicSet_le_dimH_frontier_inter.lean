@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_dimH_hyperbolicSet_le_dimH_frontier_inter
 -- name    : Mandelbrot.dimH_hyperbolicSet_le_dimH_frontier_inter
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:43:19.880819+00:00
 -- url     : https://prove2.me/theorems/488e9b9c-712e-45fa-a609-62b1427a7d11
 -- title:

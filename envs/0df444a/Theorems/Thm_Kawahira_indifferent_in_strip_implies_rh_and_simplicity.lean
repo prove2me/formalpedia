@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_indifferent_in_strip_implies_rh_and_simplicity
 -- name    : Kawahira.indifferent_in_strip_implies_rh_and_simplicity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:42:38.282258+00:00
 -- url     : https://prove2.me/theorems/fe07486f-ff38-4ab3-ae9a-04ccf661654b
 -- title:

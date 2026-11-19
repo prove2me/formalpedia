@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_hardy2001_qubit
 -- name    : hardy2001_qubit
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:13:08.553339+00:00
 -- url     : https://prove2.me/theorems/32b84424-eb90-41c0-9658-9b3536e341a2
 -- title:

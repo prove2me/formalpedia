@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_Delta_diracK_eq_zero_and_Delta_diracKp_eq_zero
 -- name    : GrapheneTightBinding.Delta_diracK_eq_zero_and_Delta_diracKp_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:44:14.211708+00:00
 -- url     : https://prove2.me/theorems/ec2adf6c-0af5-4d53-ac6f-812850c897c6
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LopesQM_positionOp_symmetric
 -- name    : LopesQM.positionOp_symmetric
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:46:03.02951+00:00
 -- url     : https://prove2.me/theorems/ab91f078-0378-4389-beef-48dcad30d2de
 -- title:

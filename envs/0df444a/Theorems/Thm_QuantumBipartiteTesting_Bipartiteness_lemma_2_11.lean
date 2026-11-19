@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumBipartiteTesting_Bipartiteness_lemma_2_11
 -- name    : QuantumBipartiteTesting.Bipartiteness.lemma_2_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:13:07.342161+00:00
 -- url     : https://prove2.me/theorems/282c2432-bfb3-4e28-acc4-bc84fe76a424

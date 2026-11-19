@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_rayleighJeansFreq_not_integrableOn_Ioi
 -- name    : BlackbodyRadiation.rayleighJeansFreq_not_integrableOn_Ioi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:03:48.591467+00:00
 -- url     : https://prove2.me/theorems/80dc6237-cfe1-4987-9b5b-228619e83b49
 -- title:

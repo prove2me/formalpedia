@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EulerMascheroni_exists_int_linear_forms_tendsto_zero
 -- name    : EulerMascheroni.exists_int_linear_forms_tendsto_zero
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T21:22:23.931785+00:00
 -- url     : https://prove2.me/theorems/7cfdfd24-8781-4193-a881-93684053aa63
 -- title:

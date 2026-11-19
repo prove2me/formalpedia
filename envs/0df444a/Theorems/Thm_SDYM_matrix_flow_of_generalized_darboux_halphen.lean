@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_matrix_flow_of_generalized_darboux_halphen
 -- name    : SDYM.matrix_flow_of_generalized_darboux_halphen
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:27:41.542303+00:00
 -- url     : https://prove2.me/theorems/b39f2927-09a2-4ffe-921a-f328544f1d9b
 -- title:

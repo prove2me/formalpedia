@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_alpha_eq_inv_gamma
 -- name    : LorentzFactor.alpha_eq_inv_gamma
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:50:30.668902+00:00
 -- url     : https://prove2.me/theorems/eda42675-4914-4398-8bac-fd237215223c
 -- title:

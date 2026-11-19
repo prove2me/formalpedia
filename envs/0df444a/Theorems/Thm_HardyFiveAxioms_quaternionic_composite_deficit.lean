@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_quaternionic_composite_deficit
 -- name    : HardyFiveAxioms.quaternionic_composite_deficit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T21:06:16.02622+00:00
 -- url     : https://prove2.me/theorems/5c95217f-9f0d-415a-a1fc-fb2e6fbaf243
 -- title:

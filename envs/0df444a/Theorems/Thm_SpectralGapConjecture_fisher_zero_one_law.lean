@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpectralGapConjecture_fisher_zero_one_law
 -- name    : SpectralGapConjecture.fisher_zero_one_law
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:02:17.802172+00:00
 -- url     : https://prove2.me/theorems/a17b51f5-f2c0-49ea-aa52-21fdff0aa924
 -- title:

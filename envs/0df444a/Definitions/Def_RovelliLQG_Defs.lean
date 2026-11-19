@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RovelliLQG_Defs
 -- name    : RovelliLQG_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:16:21.383466+00:00
 -- url     : https://prove2.me/theorems/34193ba8-ab0e-4521-92b1-0c131e01778c
 -- title:

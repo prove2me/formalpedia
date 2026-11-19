@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GravityNonRenorm_Defs
 -- name    : GravityNonRenorm_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:11.533699+00:00
 -- url     : https://prove2.me/theorems/8ac4d710-4ec3-4b32-be2c-0f5d15c0f73d
 -- title:

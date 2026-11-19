@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AvogadroConstant_amount_mul_avogadroConstant_eq_count
 -- name    : AvogadroConstant.amount_mul_avogadroConstant_eq_count
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:04:51.48024+00:00
 -- url     : https://prove2.me/theorems/1630d377-828c-4ec2-a299-dddef2708019
 -- title:

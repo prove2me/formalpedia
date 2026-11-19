@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MethanolMuDrift_wls_recovers_exact_drift
 -- name    : MethanolMuDrift.wls_recovers_exact_drift
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:36:13.893449+00:00
 -- url     : https://prove2.me/theorems/15f0e8a3-aa06-4683-8d2e-cdc081c4f877
 -- title:

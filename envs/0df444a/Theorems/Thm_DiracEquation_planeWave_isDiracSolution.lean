@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DiracEquation_planeWave_isDiracSolution
 -- name    : DiracEquation.planeWave_isDiracSolution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T20:24:50.911014+00:00
 -- url     : https://prove2.me/theorems/17e00131-bd4e-4ef6-890b-32003df8e0cf
 -- title:

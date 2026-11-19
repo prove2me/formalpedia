@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ABOThreshold_threshold_recursion_depth
 -- name    : ABOThreshold.threshold_recursion_depth
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:42:47.923442+00:00
 -- url     : https://prove2.me/theorems/2636c6da-9e5a-4f44-91aa-ea9b09757e19
 -- title:

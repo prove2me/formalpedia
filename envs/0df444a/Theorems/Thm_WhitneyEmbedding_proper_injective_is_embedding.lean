@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_proper_injective_is_embedding
 -- name    : WhitneyEmbedding.proper_injective_is_embedding
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T11:49:29.779745+00:00
 -- url     : https://prove2.me/theorems/41ce6b75-f2d1-41f9-a5fc-b1b682b212c8
 -- title:

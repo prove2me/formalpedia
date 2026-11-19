@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_ierardi_resultant_factorization
 -- name    : APSCounting893.Main.ierardi_resultant_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:25:35.597603+00:00
 -- url     : https://prove2.me/theorems/f53dabc7-07d2-4b1d-988b-68646824233e

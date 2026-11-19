@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_prop_3_14_three_braid_alternating_form
 -- name    : TarchaBraids.prop_3_14_three_braid_alternating_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T23:47:39.77222+00:00
 -- url     : https://prove2.me/theorems/adb27c1d-72ab-4347-8340-ab0f68c23663
 -- title:

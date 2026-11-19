@@ -31711,10 +31711,10 @@
 {"parent": "Arb4.H1000.B12_band", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "Arb4.H1000.B12_band", "child": "ArdaRS_Arithmetic", "via": ["solution", "statement"]}
 {"parent": "Arb4.H1000.B12_band", "child": "ArdaRH65K_Turing121_TuringBand", "via": ["solution", "statement"]}
-{"parent": "HHRControl.PV.theorem_4_21", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_21", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_21", "child": "HHRControl_PV_Elections", "via": ["statement"]}
-{"parent": "HHRControl.PV.theorem_4_21", "child": "HHRControl_PV_Languages", "via": ["statement"]}
+{"parent": "HHRControl.PV.theorem_4_21", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_21", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_21", "child": "HHRControl_PV_Elections", "via": ["solution", "statement"]}
+{"parent": "HHRControl.PV.theorem_4_21", "child": "HHRControl_PV_Languages", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_infinite_activity_strict_survival_null_of_mesh_bounds", "child": "AvramDividend.Classical.mesh_exponential_gap_tendsto_zero", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_infinite_activity_strict_survival_null_of_mesh_bounds", "child": "AvramDividend.Classical.bv_actual_levy_drift_upper_ae_fixed_time", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_infinite_activity_strict_survival_null_of_mesh_bounds", "child": "AvramDividend.Classical.bv_inverse_frequency_mesh_gap_tendsto_zero", "via": ["solution", "statement"]}

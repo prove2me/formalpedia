@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherIVP_converse_divergence
 -- name    : NoetherIVP.converse_divergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:58:24.818672+00:00
 -- url     : https://prove2.me/theorems/745f1816-970d-4098-8d82-f573951dc695
 -- title:

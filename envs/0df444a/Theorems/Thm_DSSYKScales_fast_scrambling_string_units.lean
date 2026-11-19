@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_fast_scrambling_string_units
 -- name    : DSSYKScales.fast_scrambling_string_units
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:50:39.67457+00:00
 -- url     : https://prove2.me/theorems/b8fb5200-8a89-446e-a746-10e3727af320
 -- title:

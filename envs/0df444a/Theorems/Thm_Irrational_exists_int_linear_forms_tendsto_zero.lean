@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Irrational_exists_int_linear_forms_tendsto_zero
 -- name    : Irrational.exists_int_linear_forms_tendsto_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T21:22:22.166964+00:00
 -- url     : https://prove2.me/theorems/65fc14b7-7835-4496-9730-999c0db3254d
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch01.brownianFirstPassageZeroDiscount
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-16T09:00:26.54275+00:00
 -- url     : https://prove2.me/submissions/0f0be08c-66ed-48c9-b780-8e9a164a94f0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanBrownianStopping

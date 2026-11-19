@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialMechanics_binary_star_system_solution
 -- name    : CelestialMechanics.binary_star_system_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:27:36.149981+00:00
 -- url     : https://prove2.me/theorems/a411cce4-40b7-4e60-8f17-8621fbde4e3e
 -- title:

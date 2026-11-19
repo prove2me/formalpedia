@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HackCosmologicalAQFT_big_bang
 -- name    : HackCosmologicalAQFT.big_bang
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:32:43.715976+00:00
 -- url     : https://prove2.me/theorems/bb0ead7b-065a-4bca-b721-4aba2d066587
 -- title:

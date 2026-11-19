@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_pairForce_eq_central
 -- name    : VirialTheorem.pairForce_eq_central
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T17:48:33.046471+00:00
 -- url     : https://prove2.me/theorems/8c093b36-a4ee-4551-a70e-14b406f68acd
 -- title:

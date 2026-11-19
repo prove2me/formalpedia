@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_rasmussenS_mirror
 -- name    : ManolescuPiccirillo.rasmussenS_mirror
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:55:51.56719+00:00
 -- url     : https://prove2.me/theorems/c6c6d832-ca95-400a-9b5e-dbff5fdcad92
 -- title:

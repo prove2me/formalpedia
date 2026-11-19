@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClassicalSecretary_Model
 -- name    : ClassicalSecretary_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:47:36.884213+00:00
 -- url     : https://prove2.me/theorems/ac24fea5-7f6c-4d07-8418-195087c3a6b2
 -- title:

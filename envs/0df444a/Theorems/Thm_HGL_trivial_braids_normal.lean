@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_trivial_braids_normal
 -- name    : HGL.trivial_braids_normal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:22.492248+00:00
 -- url     : https://prove2.me/theorems/c0dc04b3-7b2d-425c-946c-79a54c3bc48c
 -- title:

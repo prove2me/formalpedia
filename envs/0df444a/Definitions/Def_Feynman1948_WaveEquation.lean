@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Feynman1948_WaveEquation
 -- name    : Feynman1948_WaveEquation
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T15:19:46.640768+00:00
 -- url     : https://prove2.me/theorems/a29dcfa2-7b57-4d85-a54e-7dbffb3e6a3b
 -- title:

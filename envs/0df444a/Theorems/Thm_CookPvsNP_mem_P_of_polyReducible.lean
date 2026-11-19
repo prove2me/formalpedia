@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_mem_P_of_polyReducible
 -- name    : CookPvsNP.mem_P_of_polyReducible
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T13:50:21.397486+00:00
 -- url     : https://prove2.me/theorems/8b828ca9-3b9e-4e57-a4a7-4177a34db56b
 -- title:

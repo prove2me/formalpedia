@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_poly_system_equiv_quadratic_system
 -- name    : BSS.poly_system_equiv_quadratic_system
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T14:59:31.461964+00:00
 -- url     : https://prove2.me/theorems/068facba-6577-4daa-b290-ffdfe144a3a7
 -- title:

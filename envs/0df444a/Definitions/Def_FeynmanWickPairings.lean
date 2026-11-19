@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FeynmanWickPairings
 -- name    : FeynmanWickPairings
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:52:33.609364+00:00
 -- url     : https://prove2.me/theorems/4f35cfe4-04ef-415e-a568-53602afdfc20
 -- title:

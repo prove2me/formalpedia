@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_fWeinberg_expansion
 -- name    : Weinberg1965.fWeinberg_expansion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:25:56.554254+00:00
 -- url     : https://prove2.me/theorems/714e3f75-2c5b-45b6-ad5f-e1649651e3fe
 -- title:

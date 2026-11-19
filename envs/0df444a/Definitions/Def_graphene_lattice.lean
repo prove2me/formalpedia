@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_graphene_lattice
 -- name    : graphene_lattice
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:07:00.994978+00:00
 -- url     : https://prove2.me/theorems/97f4a45e-3836-4ddd-b2a5-9b49f14b1dc7
 -- title:

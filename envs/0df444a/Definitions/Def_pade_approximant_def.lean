@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_pade_approximant_def
 -- name    : pade_approximant_def
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:16:16.808976+00:00
 -- url     : https://prove2.me/theorems/e9d91b63-dc30-41db-902b-e393ee9fa31d
 -- title:

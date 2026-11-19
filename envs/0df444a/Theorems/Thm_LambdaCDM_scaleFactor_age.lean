@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_scaleFactor_age
 -- name    : LambdaCDM.scaleFactor_age
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:54:00.457899+00:00
 -- url     : https://prove2.me/theorems/c6254f51-ebfb-4d93-ba3a-f189c171d8b6
 -- title:

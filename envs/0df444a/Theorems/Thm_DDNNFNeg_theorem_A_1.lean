@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DDNNFNeg_theorem_A_1
 -- name    : DDNNFNeg.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T07:18:11.908829+00:00
 -- url     : https://prove2.me/theorems/bf83bb1a-5e56-4419-a75e-ef75328f949c

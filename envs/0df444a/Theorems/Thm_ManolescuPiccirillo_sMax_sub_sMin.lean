@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_sMax_sub_sMin
 -- name    : ManolescuPiccirillo.sMax_sub_sMin
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:54:56.982729+00:00
 -- url     : https://prove2.me/theorems/ba63b9a8-302d-4abf-b698-3cbd6e8d764a
 -- title:

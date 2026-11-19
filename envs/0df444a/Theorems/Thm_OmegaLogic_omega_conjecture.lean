@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OmegaLogic_omega_conjecture
 -- name    : OmegaLogic.omega_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T16:38:52.278518+00:00
 -- url     : https://prove2.me/theorems/23858964-2d3d-43db-8525-f19ffbe7529d
 -- title:

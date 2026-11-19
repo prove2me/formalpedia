@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_normal_fixedField_iff
 -- name    : GaloisFundamental.normal_fixedField_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:07:38.132263+00:00
 -- url     : https://prove2.me/theorems/3c6ded9f-1635-4b5d-926b-aa37696f258a
 -- title:

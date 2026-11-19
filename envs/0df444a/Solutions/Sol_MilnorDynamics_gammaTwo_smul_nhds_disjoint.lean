@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MilnorDynamics.gammaTwo_smul_nhds_disjoint
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:52:02.014387+00:00
 -- url     : https://prove2.me/submissions/f122c797-4ceb-420c-b3de-6a0afae6b017
 

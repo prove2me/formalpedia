@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_strong_shock_limit_ratios
 -- name    : AstrophysicalFluidDynamics.strong_shock_limit_ratios
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:00:11.846989+00:00
 -- url     : https://prove2.me/theorems/eada03de-f46f-45f2-a342-255ad7409dd5
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ABOThreshold_exists_delta_of_condition
 -- name    : ABOThreshold.exists_delta_of_condition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:40:04.685997+00:00
 -- url     : https://prove2.me/theorems/c08e3f23-55e2-4ae1-aa63-a0eb5a4e95f3
 -- title:

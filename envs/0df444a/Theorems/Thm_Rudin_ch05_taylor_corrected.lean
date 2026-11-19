@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_taylor_corrected
 -- name    : Rudin.ch05_taylor_corrected
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:54:45.602692+00:00
 -- url     : https://prove2.me/theorems/61652ac9-3718-44d2-ae64-a03d1ec3c534
 -- title:

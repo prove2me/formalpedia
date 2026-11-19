@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MathematicsOfWater_PipeFlow
 -- name    : MathematicsOfWater_PipeFlow
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:32:00.148679+00:00
 -- url     : https://prove2.me/theorems/6319f421-3960-4acc-bf27-133500c77d4b
 -- title:

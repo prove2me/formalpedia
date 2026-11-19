@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch07_families
 -- name    : Rudin_ch07_families
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:04:29.046657+00:00
 -- url     : https://prove2.me/theorems/4313aa95-fd3f-486b-8fbd-9f5d307d6fe1
 -- title:

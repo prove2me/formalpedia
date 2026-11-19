@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SYZ_eq34_moduli_metric_derivative_symmetric
 -- name    : SYZ.eq34_moduli_metric_derivative_symmetric
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T04:07:49.770184+00:00
 -- url     : https://prove2.me/theorems/268deaf8-a65e-4519-9520-0280d9c26856
 -- title:

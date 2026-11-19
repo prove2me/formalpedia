@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_partials_of_differentiable
 -- name    : Rudin.ch09_partials_of_differentiable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:15:33.465986+00:00
 -- url     : https://prove2.me/theorems/3c1a98b2-6525-4e81-89f5-b8c7a9316767
 -- title:

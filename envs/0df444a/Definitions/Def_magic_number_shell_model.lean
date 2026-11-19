@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_magic_number_shell_model
 -- name    : magic_number_shell_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T15:43:31.992905+00:00
 -- url     : https://prove2.me/theorems/fdfc6e09-4c67-46d4-8b38-ad0101419bc8
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_reid_extend
 -- name    : RInf.reid_extend
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:30:06.184866+00:00
 -- url     : https://prove2.me/theorems/ce9f45ae-18a7-4033-8856-3fecabedfd24
 -- title:

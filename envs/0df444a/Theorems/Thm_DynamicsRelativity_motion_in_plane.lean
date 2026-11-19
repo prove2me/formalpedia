@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_motion_in_plane
 -- name    : DynamicsRelativity.motion_in_plane
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:17:57.199448+00:00
 -- url     : https://prove2.me/theorems/047696bd-55b4-4d21-9925-e33eddb0d900
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_massiveDiracHam_charpoly_and_gap
 -- name    : GrapheneTightBinding.massiveDiracHam_charpoly_and_gap
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:27:48.5057+00:00
 -- url     : https://prove2.me/theorems/95540e52-91c3-4f13-8949-68aea3a037e3
 -- title:

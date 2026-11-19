@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_galoisSymbol_generate_of_two_le
 -- name    : MilnorConjecture.galoisSymbol_generate_of_two_le
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:44:48.883025+00:00
 -- url     : https://prove2.me/theorems/50f5541a-aba7-479f-844d-f4d2a7a6a2f4
 -- title:

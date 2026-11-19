@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDC_hom_sum_product
 -- name    : SDC.hom_sum_product
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T09:24:50.655849+00:00
 -- url     : https://prove2.me/theorems/01a0dc53-9d6a-4b5f-bdb8-9f2329fe96c3
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_exists_re_not_decidable_over_real
 -- name    : BSS.exists_re_not_decidable_over_real
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:43:22.375368+00:00
 -- url     : https://prove2.me/theorems/dd7f2224-06fc-4b9e-a805-862b770c5e8b
 -- title:

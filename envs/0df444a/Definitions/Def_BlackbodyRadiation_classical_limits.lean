@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BlackbodyRadiation_classical_limits
 -- name    : BlackbodyRadiation_classical_limits
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:22:43.052512+00:00
 -- url     : https://prove2.me/theorems/d3b48b30-102a-4233-941e-3233e2caf551
 -- title:

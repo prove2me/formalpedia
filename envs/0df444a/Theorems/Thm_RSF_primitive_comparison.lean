@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_primitive_comparison
 -- name    : RSF.primitive_comparison
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:14:18.200362+00:00
 -- url     : https://prove2.me/theorems/d3aed14c-c966-4b52-a723-43e43fe4910a
 -- title:

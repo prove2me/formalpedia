@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_hybrid_modeBeta_solves_eq47
 -- name    : AKR2008.hybrid_modeBeta_solves_eq47
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T23:45:55.52799+00:00
 -- url     : https://prove2.me/theorems/f3f034d8-4231-4441-bf5a-aa8dbea721f7
 -- title:

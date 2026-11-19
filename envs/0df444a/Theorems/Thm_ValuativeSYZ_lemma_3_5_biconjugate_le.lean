@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_lemma_3_5_biconjugate_le
 -- name    : ValuativeSYZ.lemma_3_5_biconjugate_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:36:48.81463+00:00
 -- url     : https://prove2.me/theorems/0d791b32-48a4-4855-86e7-d66051434e00
 -- title:

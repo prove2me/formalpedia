@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_tube_doubling_R3
 -- name    : WangZahlKakeya.tube_doubling_R3
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:16:46.925398+00:00
 -- url     : https://prove2.me/theorems/202ae225-3391-4f84-a08b-979a9d9878a9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DrezetGHZ_Quantum
 -- name    : DrezetGHZ_Quantum
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T18:57:43.159984+00:00
 -- url     : https://prove2.me/theorems/9be53170-bb44-4f19-8785-ba8d3e085d94
 -- title:

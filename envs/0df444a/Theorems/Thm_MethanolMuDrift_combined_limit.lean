@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MethanolMuDrift_combined_limit
 -- name    : MethanolMuDrift.combined_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T01:40:33.949051+00:00
 -- url     : https://prove2.me/theorems/5c849c92-ef5c-4b5a-9e25-e2d3b8351754
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_entropy_integral_tendsto_atTop_of_heatCapacity_ge
 -- name    : ThirdLawThermo.entropy_integral_tendsto_atTop_of_heatCapacity_ge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:55.607913+00:00
 -- url     : https://prove2.me/theorems/7a043dfc-25fa-45a2-8138-c1560e60a0f7
 -- title:

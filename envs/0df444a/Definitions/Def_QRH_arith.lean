@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QRH_arith
 -- name    : QRH_arith
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:01:51.676553+00:00
 -- url     : https://prove2.me/theorems/bc92fc36-b5f0-4a21-ac7c-dc2998bbfa6f
 -- title:

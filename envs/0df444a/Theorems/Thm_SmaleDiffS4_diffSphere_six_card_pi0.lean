@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleDiffS4_diffSphere_six_card_pi0
 -- name    : SmaleDiffS4.diffSphere_six_card_pi0
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:47:00.233111+00:00
 -- url     : https://prove2.me/theorems/75d85472-8c62-4d9f-a139-21080947af02
 -- title:

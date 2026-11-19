@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BUP_thm2_parity
 -- name    : BUP.thm2_parity
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:29:45.169848+00:00
 -- url     : https://prove2.me/theorems/da96de3c-7b12-4183-9b4c-04218122190d
 -- title:

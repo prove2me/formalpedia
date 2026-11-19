@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_possibility_card_le_continuum
 -- name    : AssumptionsOfPhysics.possibility_card_le_continuum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:26:45.634582+00:00
 -- url     : https://prove2.me/theorems/94188469-405a-45ec-aabc-595d882bf111
 -- title:

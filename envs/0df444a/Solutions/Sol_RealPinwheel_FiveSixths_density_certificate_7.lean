@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RealPinwheel.FiveSixths.density_certificate_7
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T05:07:04.255204+00:00
 -- url     : https://prove2.me/submissions/7ddb058f-4626-4f6b-9099-8d05989eba63
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RealPinwheel_FiveSixths_initial_atoms_sound
 import Theorems.Thm_RealPinwheel_FiveSixths_covered_fragment_D7_0042

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DLT_GaussianIntegrals
 -- name    : DLT_GaussianIntegrals
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:14:56.866115+00:00
 -- url     : https://prove2.me/theorems/0f7b1b8e-bd1c-4481-966f-d1788f8e38c0
 -- title:

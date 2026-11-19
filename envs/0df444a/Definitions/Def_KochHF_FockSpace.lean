@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KochHF_FockSpace
 -- name    : KochHF_FockSpace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:22:20.12686+00:00
 -- url     : https://prove2.me/theorems/d7e10af2-3a24-4688-b800-ca16f1c344cc
 -- title:

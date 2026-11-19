@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HeathcoteUnbounded_psi_not_mem_momentumDomain
 -- name    : HeathcoteUnbounded.psi_not_mem_momentumDomain
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:36:04.521864+00:00
 -- url     : https://prove2.me/theorems/e1f3fb4f-fd17-4a5c-b745-f6fc1907fe32
 -- title:

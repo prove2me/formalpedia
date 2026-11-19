@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GribovRegion_zero_mem_region
 -- name    : GribovRegion.zero_mem_region
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:08:51.449361+00:00
 -- url     : https://prove2.me/theorems/1a286cbb-e420-4ac1-ad9f-5ae603970086
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialMechanics_two_body_reduction
 -- name    : CelestialMechanics.two_body_reduction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:21:24.703975+00:00
 -- url     : https://prove2.me/theorems/66b86c91-ee9a-4a1e-9a66-e51322aa4057
 -- title:

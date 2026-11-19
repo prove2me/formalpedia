@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_P_eq_NP_iff_binary
 -- name    : CookPvsNP.P_eq_NP_iff_binary
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T13:46:04.270356+00:00
 -- url     : https://prove2.me/theorems/7e2cd442-1134-4497-9841-2904c11d880c
 -- title:

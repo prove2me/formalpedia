@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_splitting_classification
 -- name    : CTB.splitting_classification
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:12:37.375576+00:00
 -- url     : https://prove2.me/theorems/25ab5c38-16e2-474e-9980-36b2498d72ba
 -- title:

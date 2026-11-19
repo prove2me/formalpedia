@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ColemanMandula_lemma5_traceless_vanishes_on_hyperboloid
 -- name    : ColemanMandula.lemma5_traceless_vanishes_on_hyperboloid
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:42:49.56648+00:00
 -- url     : https://prove2.me/theorems/b84be99b-eb65-4b89-a62a-a31d492db9e7
 -- title:

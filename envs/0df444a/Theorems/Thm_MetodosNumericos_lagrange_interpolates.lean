@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_lagrange_interpolates
 -- name    : MetodosNumericos.lagrange_interpolates
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:54:14.291423+00:00
 -- url     : https://prove2.me/theorems/d57a19a1-a3b8-44ce-a799-ddf00b1b224b
 -- title:

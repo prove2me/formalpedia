@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_JechStationary
 -- name    : JechStationary
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T02:25:28.597814+00:00
 -- url     : https://prove2.me/theorems/1e5ad877-a768-4de9-8648-3b1afc63c813
 -- title:

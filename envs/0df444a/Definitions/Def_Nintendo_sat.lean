@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Nintendo_sat
 -- name    : Nintendo_sat
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T05:50:46.493281+00:00
 -- url     : https://prove2.me/theorems/b077316b-fe68-4b74-9a6b-b8a9a1480e5e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_fermat_max_product
 -- name    : StationaryAction.fermat_max_product
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:45:39.63232+00:00
 -- url     : https://prove2.me/theorems/5c0d18f2-fae7-4d0b-8849-8811ed7b8855
 -- title:

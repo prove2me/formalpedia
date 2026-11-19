@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KobayashiMaskawa1973_kmMatrix_mem_unitaryGroup
 -- name    : KobayashiMaskawa1973.kmMatrix_mem_unitaryGroup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:23:02.78515+00:00
 -- url     : https://prove2.me/theorems/78e938f9-3325-4bfe-a227-445a76bd859d
 -- title:

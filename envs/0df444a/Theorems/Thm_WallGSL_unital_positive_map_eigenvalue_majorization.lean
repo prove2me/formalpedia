@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WallGSL_unital_positive_map_eigenvalue_majorization
 -- name    : WallGSL.unital_positive_map_eigenvalue_majorization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:36:27.641726+00:00
 -- url     : https://prove2.me/theorems/1dbff5b2-2399-4c34-abd0-65babe8f1b39
 -- title:

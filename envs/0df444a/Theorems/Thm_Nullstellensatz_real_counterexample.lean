@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_real_counterexample
 -- name    : Nullstellensatz.real_counterexample
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:10:43.440984+00:00
 -- url     : https://prove2.me/theorems/db53b681-5c29-4ed8-885c-1ad150dfa24b
 -- title:

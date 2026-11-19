@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LangevinHarmonicTrap_dotSum
 -- name    : LangevinHarmonicTrap_dotSum
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:08:29.994646+00:00
 -- url     : https://prove2.me/theorems/d890d081-b4df-428d-a9bc-4ce7799db889
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OpenGA.SurgeryContinuationData.allTime_or_breakdown
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:54:56.013908+00:00
 -- url     : https://prove2.me/submissions/93bd703d-803d-4575-8849-8690c8461cc4
 

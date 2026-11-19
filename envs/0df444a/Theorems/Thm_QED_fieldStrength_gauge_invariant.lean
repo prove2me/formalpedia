@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_fieldStrength_gauge_invariant
 -- name    : QED.fieldStrength_gauge_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:15:21.944068+00:00
 -- url     : https://prove2.me/theorems/3f8ac0fd-03cb-4a94-8a03-fbb6236dca60
 -- title:

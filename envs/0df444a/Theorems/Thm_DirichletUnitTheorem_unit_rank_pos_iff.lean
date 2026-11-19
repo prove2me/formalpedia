@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_unit_rank_pos_iff
 -- name    : DirichletUnitTheorem.unit_rank_pos_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:32:03.320566+00:00
 -- url     : https://prove2.me/theorems/3cfc3784-f5d7-4b9b-a2b2-da08e43067e1
 -- title:

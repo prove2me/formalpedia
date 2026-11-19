@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDistance_seedRX_two_support_cocycle_zero
 -- name    : QEC.Coding.BDL26LevelTwoDistance.seedRX_two_support_cocycle_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:48:38.328938+00:00
 -- url     : https://prove2.me/theorems/22a9f3ca-dd50-454d-89ef-0196ea367c33

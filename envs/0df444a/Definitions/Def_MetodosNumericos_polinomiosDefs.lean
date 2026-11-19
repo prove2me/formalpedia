@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_polinomiosDefs
 -- name    : MetodosNumericos_polinomiosDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:35:19.563467+00:00
 -- url     : https://prove2.me/theorems/70cb9839-18a4-4c8c-ad2b-5583c21b52ad
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_VectorCalculus_lineIntegral
 -- name    : VectorCalculus_lineIntegral
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:01:26.179333+00:00
 -- url     : https://prove2.me/theorems/d0af5c26-584e-4143-adde-9768c5ccde6b
 -- title:

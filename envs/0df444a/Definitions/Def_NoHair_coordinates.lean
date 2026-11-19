@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NoHair_coordinates
 -- name    : NoHair_coordinates
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T18:07:35.108091+00:00
 -- url     : https://prove2.me/theorems/fd778b45-df53-4e0d-8926-f7a9b4464d09
 -- title:

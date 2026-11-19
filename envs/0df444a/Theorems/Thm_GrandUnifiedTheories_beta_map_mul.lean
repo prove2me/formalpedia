@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_beta_map_mul
 -- name    : GrandUnifiedTheories.beta_map_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:52:26.134904+00:00
 -- url     : https://prove2.me/theorems/c59b9b23-53ee-42d1-a3b6-74dda3402d15
 -- title:

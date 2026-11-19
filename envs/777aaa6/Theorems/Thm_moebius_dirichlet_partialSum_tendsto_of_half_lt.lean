@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_moebius_dirichlet_partialSum_tendsto_of_half_lt
 -- name    : moebius_dirichlet_partialSum_tendsto_of_half_lt
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:51:45.76681+00:00
 -- url     : https://prove2.me/theorems/b79e896e-0e10-43f7-bdeb-439d74d3f596
 -- title:

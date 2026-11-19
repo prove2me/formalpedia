@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_dependsOn_iff_continuous_causalRel
 -- name    : AssumptionsOfPhysics.dependsOn_iff_continuous_causalRel
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:25:36.300007+00:00
 -- url     : https://prove2.me/theorems/708aecd5-2fed-4037-b38c-90e6008575af
 -- title:

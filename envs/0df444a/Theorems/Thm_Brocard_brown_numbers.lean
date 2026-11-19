@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_brown_numbers
 -- name    : Brocard.brown_numbers
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:41:12.258813+00:00
 -- url     : https://prove2.me/theorems/26474f3f-a006-4a3f-944a-165523e22298
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCT_mignon_ressayre_dc_lower_bound
 -- name    : GCT.mignon_ressayre_dc_lower_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:15:53.531369+00:00
 -- url     : https://prove2.me/theorems/b4f44e25-5c41-491a-9f5a-37f82a196e16
 -- title:

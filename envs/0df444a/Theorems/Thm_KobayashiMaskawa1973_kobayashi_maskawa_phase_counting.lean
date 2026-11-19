@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KobayashiMaskawa1973_kobayashi_maskawa_phase_counting
 -- name    : KobayashiMaskawa1973.kobayashi_maskawa_phase_counting
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:59:52.920101+00:00
 -- url     : https://prove2.me/theorems/24078414-a91a-441d-b7bb-b6417e83e257
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isQuasiComplete_of_isStrictColimit
 -- name    : GarrettFA.isQuasiComplete_of_isStrictColimit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:34:04.25919+00:00
 -- url     : https://prove2.me/theorems/cc525e6d-2695-4345-a705-dc738657d31a
 -- title:

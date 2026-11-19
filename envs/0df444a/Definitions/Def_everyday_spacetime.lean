@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_everyday_spacetime
 -- name    : everyday_spacetime
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T23:57:31.154983+00:00
 -- url     : https://prove2.me/theorems/9258d0f0-e7bd-49f9-9eb8-c0f918da374c
 -- title:

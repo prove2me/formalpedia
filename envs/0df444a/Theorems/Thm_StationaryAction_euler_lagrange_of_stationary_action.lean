@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_euler_lagrange_of_stationary_action
 -- name    : StationaryAction.euler_lagrange_of_stationary_action
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:05:27.401042+00:00
 -- url     : https://prove2.me/theorems/0dfaac77-ee00-4b7d-a315-47aa6da745b8
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DSSYKScales_defs
 -- name    : DSSYKScales_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:46:35.720919+00:00
 -- url     : https://prove2.me/theorems/5bbace99-4064-4818-9419-42de1701e94e
 -- title:

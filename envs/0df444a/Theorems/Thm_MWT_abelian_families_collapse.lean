@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_abelian_families_collapse
 -- name    : MWT.abelian_families_collapse
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:44.942571+00:00
 -- url     : https://prove2.me/theorems/a324abd9-e6be-4399-9ac6-a1fd4650c4da
 -- title:

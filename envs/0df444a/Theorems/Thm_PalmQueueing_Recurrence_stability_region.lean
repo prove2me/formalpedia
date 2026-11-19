@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Recurrence_stability_region
 -- name    : PalmQueueing.Recurrence.stability_region
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-02T00:49:02.960674+00:00
 -- url     : https://prove2.me/theorems/cf1f62fd-6b46-4087-9747-c6025ac9a805

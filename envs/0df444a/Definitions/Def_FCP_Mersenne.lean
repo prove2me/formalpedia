@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_Mersenne
 -- name    : FCP_Mersenne
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:05:26.987856+00:00
 -- url     : https://prove2.me/theorems/1fedc7ba-61e5-4092-b967-2e4f88d2e89c
 -- title:

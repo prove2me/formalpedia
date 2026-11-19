@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonProblem_thomson_five
 -- name    : ThomsonProblem.thomson_five
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:27:34.724018+00:00
 -- url     : https://prove2.me/theorems/a9100c80-d47f-48b4-bea3-cfb4071b893c
 -- title:

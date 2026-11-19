@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_electronWeight_intertwine
 -- name    : ChatterjeeQFT.electronWeight_intertwine
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:41:44.988065+00:00
 -- url     : https://prove2.me/theorems/868d8ae8-3b07-45d1-8ad3-974c246a15b0
 -- title:

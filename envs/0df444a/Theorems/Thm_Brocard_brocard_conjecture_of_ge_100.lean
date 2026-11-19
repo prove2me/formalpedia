@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_brocard_conjecture_of_ge_100
 -- name    : Brocard.brocard_conjecture_of_ge_100
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:52:01.213831+00:00
 -- url     : https://prove2.me/theorems/fd7ad7ee-f5e2-49d3-a5cf-44dca7ad02b7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_cauchy_schwarz
 -- name    : Rudin.ch01_cauchy_schwarz
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:42:24.735807+00:00
 -- url     : https://prove2.me/theorems/d9b7f880-3a06-4a09-b9d7-8833a42c6528
 -- title:

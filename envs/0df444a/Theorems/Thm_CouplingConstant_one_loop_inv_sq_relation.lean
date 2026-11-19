@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_one_loop_inv_sq_relation
 -- name    : CouplingConstant.one_loop_inv_sq_relation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:07:40.345008+00:00
 -- url     : https://prove2.me/theorems/9ca17fde-d321-41a1-922a-e9ae72180d22
 -- title:

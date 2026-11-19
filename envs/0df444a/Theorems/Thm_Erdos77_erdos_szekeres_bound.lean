@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos77_erdos_szekeres_bound
 -- name    : Erdos77.erdos_szekeres_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:30:00.913663+00:00
 -- url     : https://prove2.me/theorems/c7de81e4-1564-4cb8-abcb-58d940f33674
 -- title:

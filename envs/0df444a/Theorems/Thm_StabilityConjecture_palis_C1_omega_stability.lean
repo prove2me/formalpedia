@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StabilityConjecture_palis_C1_omega_stability
 -- name    : StabilityConjecture.palis_C1_omega_stability
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:00:16.420188+00:00
 -- url     : https://prove2.me/theorems/b1ccb60d-222b-467d-9053-e2af9cd886df
 -- title:

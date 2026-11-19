@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_r_exists
 -- name    : AKS.r_exists
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:51:44.191027+00:00
 -- url     : https://prove2.me/theorems/3ef74001-6eb5-4784-a118-19679f5ce178
 -- title:

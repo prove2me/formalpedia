@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_equipartition_per_degree_of_freedom
 -- name    : BoltzmannConstant.equipartition_per_degree_of_freedom
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:07:26.014245+00:00
 -- url     : https://prove2.me/theorems/583fd0cb-6c04-43d3-bc1a-6aca75ac2be2
 -- title:

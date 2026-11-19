@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GT_DrinfeldKohno
 -- name    : GT_DrinfeldKohno
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T20:49:14.586625+00:00
 -- url     : https://prove2.me/theorems/6320f600-c814-4dd7-9127-6eeb8d887f0f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_generic_algebraic_limit_cycles_bound
 -- name    : HilbertSixteenth.generic_algebraic_limit_cycles_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:30:48.228838+00:00
 -- url     : https://prove2.me/theorems/d441557b-5c1e-4440-b007-e58704d1d5f2
 -- title:

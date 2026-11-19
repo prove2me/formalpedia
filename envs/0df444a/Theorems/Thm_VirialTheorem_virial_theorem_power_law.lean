@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_virial_theorem_power_law
 -- name    : VirialTheorem.virial_theorem_power_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T19:18:42.306555+00:00
 -- url     : https://prove2.me/theorems/c6c6db78-e70c-44d1-8c85-c14cfc8e66df
 -- title:

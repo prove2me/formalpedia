@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AhlforsComplexAnalysis_normal_iff_locally_bounded
 -- name    : AhlforsComplexAnalysis.normal_iff_locally_bounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T05:00:23.881171+00:00
 -- url     : https://prove2.me/theorems/f16ae2f8-196e-4b20-be28-0872ace22b8f
 -- title:

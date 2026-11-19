@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_m23_four_transitive
 -- name    : MathieuM23.m23_four_transitive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T18:52:18.206158+00:00
 -- url     : https://prove2.me/theorems/ea200cfb-0237-4a93-afed-f3e714458216
 -- title:

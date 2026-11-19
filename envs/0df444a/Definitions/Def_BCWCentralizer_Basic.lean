@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BCWCentralizer_Basic
 -- name    : BCWCentralizer_Basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:26:58.899068+00:00
 -- url     : https://prove2.me/theorems/24f41c28-f1a1-4c54-8705-5629ebe7e5bb
 -- title:

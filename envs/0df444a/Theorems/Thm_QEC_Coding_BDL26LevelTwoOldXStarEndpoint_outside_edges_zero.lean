@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoOldXStarEndpoint_outside_edges_zero
 -- name    : QEC.Coding.BDL26LevelTwoOldXStarEndpoint.outside_edges_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:47:04.01855+00:00
 -- url     : https://prove2.me/theorems/7b2a3357-cdf1-485a-9b2b-d3d39355d55b

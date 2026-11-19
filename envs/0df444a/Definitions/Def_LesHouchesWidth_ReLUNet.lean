@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LesHouchesWidth_ReLUNet
 -- name    : LesHouchesWidth_ReLUNet
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:56:42.013797+00:00
 -- url     : https://prove2.me/theorems/eb0662f2-a0af-4490-9714-70b77b66cab0
 -- title:

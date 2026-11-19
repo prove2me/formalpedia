@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_raychaudhuri_equation
 -- name    : MathematicalRelativity.raychaudhuri_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:39:02.48774+00:00
 -- url     : https://prove2.me/theorems/c41b76a1-7e78-478b-98bc-8ea6dcd3422e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MilnorDynamics_Polynomials
 -- name    : MilnorDynamics_Polynomials
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T10:40:09.965216+00:00
 -- url     : https://prove2.me/theorems/708a93b2-805f-4f16-9480-dc94ca8e0af9
 -- title:

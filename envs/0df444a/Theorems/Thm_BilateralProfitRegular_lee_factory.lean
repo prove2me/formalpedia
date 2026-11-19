@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitRegular_lee_factory
 -- name    : BilateralProfitRegular.lee_factory
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:25.025504+00:00
 -- url     : https://prove2.me/theorems/cc54ea62-518f-43bd-af0a-7684e852e593

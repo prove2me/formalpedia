@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Gelbart_theta_coeff
 -- name    : Gelbart_theta_coeff
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:34:47.020058+00:00
 -- url     : https://prove2.me/theorems/29f94aa7-59d3-4ddd-9d23-dd91b71d37e0
 -- title:

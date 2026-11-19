@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CODATA_values
 -- name    : CODATA_values
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T01:30:13.784252+00:00
 -- url     : https://prove2.me/theorems/7f8121b7-0341-4592-9800-cef0c5637a83
 -- title:

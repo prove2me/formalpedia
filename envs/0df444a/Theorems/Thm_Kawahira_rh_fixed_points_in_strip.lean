@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_rh_fixed_points_in_strip
 -- name    : Kawahira.rh_fixed_points_in_strip
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:42:10.625361+00:00
 -- url     : https://prove2.me/theorems/6208ccda-b221-4c44-84c4-1840a16071bf
 -- title:

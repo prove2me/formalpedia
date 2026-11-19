@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Thurston23.thurston_question_23
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T20:19:13.523599+00:00
 -- url     : https://prove2.me/submissions/f7efc007-a9b6-449f-8ba7-90291c3e9170
 -- note    : a sketch -- it imports a theorem that is still Open,

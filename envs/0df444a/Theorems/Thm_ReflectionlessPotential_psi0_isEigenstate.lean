@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_psi0_isEigenstate
 -- name    : ReflectionlessPotential.psi0_isEigenstate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:46:46.474983+00:00
 -- url     : https://prove2.me/theorems/230e5ca8-f76c-4a51-a5a8-5a5c49f5f3d1
 -- title:

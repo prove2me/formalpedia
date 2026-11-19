@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRWCosmology_de_sitter_expansion
 -- name    : FRWCosmology.de_sitter_expansion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:47:20.076908+00:00
 -- url     : https://prove2.me/theorems/cb7872f8-3de6-4b7b-9867-fed0dedcd291
 -- title:

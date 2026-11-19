@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_rosenfeld_eight_runners
 -- name    : LonelyRunnerConjecture.rosenfeld_eight_runners
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:14:59.707342+00:00
 -- url     : https://prove2.me/theorems/199c7cee-b7b5-439c-b171-4855f5bdea5e
 -- title:

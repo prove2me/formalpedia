@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_bloch_sphere
 -- name    : InfoDerivQT.bloch_sphere
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:01:35.283972+00:00
 -- url     : https://prove2.me/theorems/8720a776-2a00-4fc5-858d-4f9338d7c5e3
 -- title:

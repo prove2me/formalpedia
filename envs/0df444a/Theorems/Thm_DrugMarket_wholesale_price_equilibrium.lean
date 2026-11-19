@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_wholesale_price_equilibrium
 -- name    : DrugMarket.wholesale_price_equilibrium
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:40:15.131189+00:00
 -- url     : https://prove2.me/theorems/48db0682-3e5e-4644-850d-9c629ce85007
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RovelliLQG_area_gap
 -- name    : RovelliLQG.area_gap
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:29:12.295987+00:00
 -- url     : https://prove2.me/theorems/dfd5ae91-78dd-4ad7-8328-8ca36cccc674
 -- title:

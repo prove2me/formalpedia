@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchrodingerEquation_sine_form
 -- name    : SchrodingerEquation.sine_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:49:26.042989+00:00
 -- url     : https://prove2.me/theorems/2bd2ea2d-3eed-4d84-9a07-cf41236f95ee
 -- title:

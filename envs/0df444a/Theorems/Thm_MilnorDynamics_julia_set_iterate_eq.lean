@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_julia_set_iterate_eq
 -- name    : MilnorDynamics.julia_set_iterate_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T12:13:27.987934+00:00
 -- url     : https://prove2.me/theorems/b3cae3da-9256-4b82-a542-9865dead9e06
 -- title:

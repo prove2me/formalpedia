@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_theorem_of_turning_tangents
 -- name    : DoCarmoDG.theorem_of_turning_tangents
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:27:53.485112+00:00
 -- url     : https://prove2.me/theorems/3992b575-8788-4bc3-8eda-62d60c3cb1e7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnsembleSpaceDraft_finiteMixture_perm
 -- name    : EnsembleSpaceDraft.finiteMixture_perm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:48:22.821613+00:00
 -- url     : https://prove2.me/theorems/60d29d4f-4d40-4d72-baea-9318ec478003
 -- title:

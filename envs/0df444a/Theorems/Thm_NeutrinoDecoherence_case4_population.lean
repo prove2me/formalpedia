@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_case4_population
 -- name    : NeutrinoDecoherence.case4_population
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:22:11.724412+00:00
 -- url     : https://prove2.me/theorems/a2f71c1c-09d0-4091-9864-f56591205a07
 -- title:

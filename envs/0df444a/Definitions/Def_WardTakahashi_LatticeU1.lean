@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WardTakahashi_LatticeU1
 -- name    : WardTakahashi_LatticeU1
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:33:47.196717+00:00
 -- url     : https://prove2.me/theorems/88936d32-fc29-447f-86c8-c2562058da80
 -- title:

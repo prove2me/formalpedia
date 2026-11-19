@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_retail_equilibrium_demand_profit
 -- name    : DrugMarket.retail_equilibrium_demand_profit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:36:51.2982+00:00
 -- url     : https://prove2.me/theorems/7a245eff-3d13-480f-bd57-97ce7c0041ca
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_chain_rule
 -- name    : Rudin.ch05_chain_rule
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:14:59.249695+00:00
 -- url     : https://prove2.me/theorems/cd8743a4-e408-4548-98d3-08aedec92714
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OpenGA.SurgeryVolumeProfile.card_surgeryTimes_le
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:48:48.718778+00:00
 -- url     : https://prove2.me/submissions/fd135667-93c7-4219-ba11-3e3a675ef41c
 

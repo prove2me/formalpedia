@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_relEnergy_hasSum
 -- name    : MassEnergyEquivalence.relEnergy_hasSum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:14:09.35926+00:00
 -- url     : https://prove2.me/theorems/72bc8e9d-49cb-40cd-8a80-4ca77f725f92
 -- title:

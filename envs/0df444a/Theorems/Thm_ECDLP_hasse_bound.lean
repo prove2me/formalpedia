@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_hasse_bound
 -- name    : ECDLP.hasse_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:44:43.963495+00:00
 -- url     : https://prove2.me/theorems/b1632276-08a0-497f-b4ef-ead812322a71
 -- title:

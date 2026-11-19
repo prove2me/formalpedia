@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QED_minkowski_spacetime
 -- name    : QED_minkowski_spacetime
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:41:37.439821+00:00
 -- url     : https://prove2.me/theorems/729d17db-139e-4ac3-b6b9-eaef628308b8
 -- title:

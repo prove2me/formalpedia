@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_finite_quotient_witness
 -- name    : MWT.finite_quotient_witness
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:04.984653+00:00
 -- url     : https://prove2.me/theorems/a10b30c0-84a4-49d9-8393-7799a95d6a10
 -- title:

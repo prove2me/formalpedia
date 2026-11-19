@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_hk_ground_state_determined_by_density
 -- name    : DFT.hk_ground_state_determined_by_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T19:58:06.922041+00:00
 -- url     : https://prove2.me/theorems/37b72df5-3b4f-4848-bb66-8bd7d25f11e2
 -- title:

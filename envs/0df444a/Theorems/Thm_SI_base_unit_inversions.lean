@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_base_unit_inversions
 -- name    : SI.base_unit_inversions
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:55:29.378379+00:00
 -- url     : https://prove2.me/theorems/db2c70ab-23a7-4e2f-b696-16c61d293c8f
 -- title:

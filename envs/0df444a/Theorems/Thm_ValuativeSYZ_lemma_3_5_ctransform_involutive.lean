@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_lemma_3_5_ctransform_involutive
 -- name    : ValuativeSYZ.lemma_3_5_ctransform_involutive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:44:05.453771+00:00
 -- url     : https://prove2.me/theorems/c0b0f986-c42d-4003-96b7-08f666de7b34
 -- title:

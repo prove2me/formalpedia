@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_hilbert_descent
 -- name    : InverseGalois.inverse_galois_problem_hilbert_descent
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:26:51.244258+00:00
 -- url     : https://prove2.me/theorems/da3f61bd-dfe9-4bfe-a4a6-61e44628401b
 -- title:

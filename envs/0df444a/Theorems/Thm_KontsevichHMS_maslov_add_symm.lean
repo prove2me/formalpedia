@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_maslov_add_symm
 -- name    : KontsevichHMS.maslov_add_symm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:52:16.112202+00:00
 -- url     : https://prove2.me/theorems/6c8c9870-f7c1-47a6-b79a-80d7396b2898
 -- title:

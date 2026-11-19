@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_prop_1_1_gluing_hyperbolic_plugs
 -- name    : AnosovPlugs.prop_1_1_gluing_hyperbolic_plugs
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:33:15.490572+00:00
 -- url     : https://prove2.me/theorems/1f28b73e-51cd-4983-be66-b5eb9f6f01f2
 -- title:

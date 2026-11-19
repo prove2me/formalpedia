@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nintendo_dkc_hard
 -- name    : Nintendo.dkc_hard
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T11:06:53.541158+00:00
 -- url     : https://prove2.me/theorems/25d18ce8-61e8-4f9f-8e52-72661401fcd3
 -- title:

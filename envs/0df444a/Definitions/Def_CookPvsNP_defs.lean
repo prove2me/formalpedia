@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CookPvsNP_defs
 -- name    : CookPvsNP_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T13:37:22.89316+00:00
 -- url     : https://prove2.me/theorems/7c6b3da6-5145-4b2d-9550-f07c61d2c766
 -- title:

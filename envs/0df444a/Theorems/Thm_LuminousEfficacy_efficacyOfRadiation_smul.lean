@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_efficacyOfRadiation_smul
 -- name    : LuminousEfficacy.efficacyOfRadiation_smul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:30:07.319453+00:00
 -- url     : https://prove2.me/theorems/8fd42f89-58ac-4846-aeee-aea3fc42e12f
 -- title:

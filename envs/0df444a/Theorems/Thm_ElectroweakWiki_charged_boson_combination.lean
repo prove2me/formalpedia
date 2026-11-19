@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_charged_boson_combination
 -- name    : ElectroweakWiki.charged_boson_combination
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:05:20.84182+00:00
 -- url     : https://prove2.me/theorems/a44bf646-8cd3-439d-9aba-8ec096ec7dd9
 -- title:

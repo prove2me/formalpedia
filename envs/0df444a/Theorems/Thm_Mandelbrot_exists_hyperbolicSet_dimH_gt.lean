@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_exists_hyperbolicSet_dimH_gt
 -- name    : Mandelbrot.exists_hyperbolicSet_dimH_gt
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:43:08.305345+00:00
 -- url     : https://prove2.me/theorems/a609f6a8-2133-4d81-93c0-727b2eb8c7df
 -- title:

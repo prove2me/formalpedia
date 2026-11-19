@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_minkowski_isSpacetime
 -- name    : StrongCosmicCensorship.minkowski_isSpacetime
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:05:34.064427+00:00
 -- url     : https://prove2.me/theorems/e982e515-0c4f-43a7-84f2-ed9746a54e12
 -- title:

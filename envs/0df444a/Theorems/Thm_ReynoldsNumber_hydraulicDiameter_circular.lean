@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_hydraulicDiameter_circular
 -- name    : ReynoldsNumber.hydraulicDiameter_circular
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:02:47.562663+00:00
 -- url     : https://prove2.me/theorems/760b3eb5-ff74-4d1b-8f95-ad07512f270a
 -- title:

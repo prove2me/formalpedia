@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_equilibrium_stressT_heatFlux
 -- name    : BoltzmannBGK.equilibrium_stressT_heatFlux
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:28:08.212983+00:00
 -- url     : https://prove2.me/theorems/37869699-b779-49e0-a8cf-247726db1a07
 -- title:

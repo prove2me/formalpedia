@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OnsagerReciprocal_reciprocity_at_time_zero
 -- name    : OnsagerReciprocal.reciprocity_at_time_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T22:02:21.802987+00:00
 -- url     : https://prove2.me/theorems/967047b4-0c69-407b-aabd-c5934f58fc92
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_sqrt_one_sub_inv_gamma_sq
 -- name    : LorentzFactor.sqrt_one_sub_inv_gamma_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:48:06.272733+00:00
 -- url     : https://prove2.me/theorems/4b7bf979-8a36-458b-a0ac-c645f1d1a10f
 -- title:

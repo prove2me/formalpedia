@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_field_line_average_B_sq
 -- name    : Landreman3DEquilibria.field_line_average_B_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:33:03.964272+00:00
 -- url     : https://prove2.me/theorems/150e6e84-40c6-4e15-b871-126ed49b3ae5
 -- title:

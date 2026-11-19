@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_lindelof_iff_moments
 -- name    : LindelofHypothesis.lindelof_iff_moments
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:47:48.691968+00:00
 -- url     : https://prove2.me/theorems/bef3b800-c651-4c61-92f8-2e66ac178261
 -- title:

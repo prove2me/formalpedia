@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_existsUnique_qcdScale
 -- name    : CouplingConstantRG.existsUnique_qcdScale
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T15:25:17.161943+00:00
 -- url     : https://prove2.me/theorems/e152d7f9-9e27-45e6-aa41-b85733069fc6
 -- title:

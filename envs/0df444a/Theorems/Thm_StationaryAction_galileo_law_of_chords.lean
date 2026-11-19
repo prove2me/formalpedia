@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_galileo_law_of_chords
 -- name    : StationaryAction.galileo_law_of_chords
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:45:00.261979+00:00
 -- url     : https://prove2.me/theorems/c6b1c056-460a-44f4-aa0b-5aaa35341298
 -- title:

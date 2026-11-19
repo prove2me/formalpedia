@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_StableMatching_GaleShapley
 -- name    : StableMatching_GaleShapley
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:30:58.7487+00:00
 -- url     : https://prove2.me/theorems/80ac7470-0424-4b8a-8c26-71fcbeb4efcc
 -- title:

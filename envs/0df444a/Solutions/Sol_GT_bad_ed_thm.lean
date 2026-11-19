@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.bad_ed_thm
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:52.995681+00:00
 -- url     : https://prove2.me/submissions/d75c5266-3450-448c-b154-7ee9a7837659
 

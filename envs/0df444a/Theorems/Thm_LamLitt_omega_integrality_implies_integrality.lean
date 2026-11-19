@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LamLitt_omega_integrality_implies_integrality
 -- name    : LamLitt.omega_integrality_implies_integrality
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T16:41:36.557517+00:00
 -- url     : https://prove2.me/theorems/edd4eb4f-3e1b-47ce-812b-33d78afbe936
 -- title:

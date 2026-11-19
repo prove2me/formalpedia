@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckShape_one_tendsto_one_nhdsWithin_zero
 -- name    : BlackbodyRadiation.planckShape_one_tendsto_one_nhdsWithin_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:26:51.407633+00:00
 -- url     : https://prove2.me/theorems/1c65c626-fd78-4d1f-88db-a8923cbdc26b
 -- title:

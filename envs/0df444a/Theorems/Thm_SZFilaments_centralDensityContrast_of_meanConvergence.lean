@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_centralDensityContrast_of_meanConvergence
 -- name    : SZFilaments.centralDensityContrast_of_meanConvergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:35:21.406443+00:00
 -- url     : https://prove2.me/theorems/6a16ecc4-6a5e-41e2-a5e5-230a29b43a22
 -- title:

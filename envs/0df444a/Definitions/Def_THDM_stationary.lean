@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_THDM_stationary
 -- name    : THDM_stationary
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T23:51:19.622524+00:00
 -- url     : https://prove2.me/theorems/6f8267bb-4cda-457f-af27-874a035678fb
 -- title:

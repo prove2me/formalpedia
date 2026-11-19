@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_seeliger_modified_poisson_bounded_solution
 -- name    : CosmoConstCentury.seeliger_modified_poisson_bounded_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T00:38:58.953803+00:00
 -- url     : https://prove2.me/theorems/5e7fd49e-ce0e-400a-86a5-403ad4ef6559
 -- title:

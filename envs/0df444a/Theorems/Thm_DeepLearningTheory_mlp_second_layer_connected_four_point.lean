@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_mlp_second_layer_connected_four_point
 -- name    : DeepLearningTheory.mlp_second_layer_connected_four_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:08:54.116742+00:00
 -- url     : https://prove2.me/theorems/7cb5d6fc-f285-441a-a8e3-f703c75d3a12
 -- title:

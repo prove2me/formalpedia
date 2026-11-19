@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LandauFunction_logIntegral
 -- name    : LandauFunction_logIntegral
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:00.941787+00:00
 -- url     : https://prove2.me/theorems/56eeefbf-841e-4fa7-8c4d-e928c29a0d95
 -- title:

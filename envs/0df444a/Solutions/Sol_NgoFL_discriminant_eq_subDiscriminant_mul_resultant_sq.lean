@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NgoFL.discriminant_eq_subDiscriminant_mul_resultant_sq
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T18:17:51.630905+00:00
 -- url     : https://prove2.me/submissions/4ffbeda6-10be-4c2c-9fba-9488306135d6
 

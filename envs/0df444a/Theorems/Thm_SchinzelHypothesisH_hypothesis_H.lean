@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchinzelHypothesisH_hypothesis_H
 -- name    : SchinzelHypothesisH.hypothesis_H
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:50:45.223476+00:00
 -- url     : https://prove2.me/theorems/60d4882d-985f-497d-9a9c-92395307814b
 -- title:

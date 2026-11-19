@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_six_functor_formalism
 -- name    : RSF.six_functor_formalism
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:14:59.059714+00:00
 -- url     : https://prove2.me/theorems/c958e184-6861-4ab0-a6df-1775874d3679
 -- title:

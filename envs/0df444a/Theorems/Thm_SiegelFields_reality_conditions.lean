@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_reality_conditions
 -- name    : SiegelFields.reality_conditions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:26:57.791703+00:00
 -- url     : https://prove2.me/theorems/2a6a79c6-9b05-4e14-bb31-8570676ff18a
 -- title:

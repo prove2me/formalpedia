@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Giddings1999_nonNormalizable_mode_exists
 -- name    : Giddings1999.nonNormalizable_mode_exists
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:50:51.070671+00:00
 -- url     : https://prove2.me/theorems/65cf22a0-3246-4768-a868-025ddcf5f86f
 -- title:

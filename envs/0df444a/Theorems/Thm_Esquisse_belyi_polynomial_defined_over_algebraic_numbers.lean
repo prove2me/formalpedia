@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Esquisse_belyi_polynomial_defined_over_algebraic_numbers
 -- name    : Esquisse.belyi_polynomial_defined_over_algebraic_numbers
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:54:43.070488+00:00
 -- url     : https://prove2.me/theorems/5d30c48e-ae4e-47d7-ae73-bca1e58c4820
 -- title:

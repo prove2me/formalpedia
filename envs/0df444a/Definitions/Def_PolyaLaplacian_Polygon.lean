@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PolyaLaplacian_Polygon
 -- name    : PolyaLaplacian_Polygon
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:25:23.513858+00:00
 -- url     : https://prove2.me/theorems/74f84906-f2c9-4745-b2f2-546f3156ce49
 -- title:

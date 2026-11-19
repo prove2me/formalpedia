@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_newton_local_convergence
 -- name    : MetodosNumericos.newton_local_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:18:25.891984+00:00
 -- url     : https://prove2.me/theorems/8d37de77-1c80-43b3-bc91-a938fb9815ed
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMills_strong_coupling_exponential_clustering
 -- name    : YangMills.strong_coupling_exponential_clustering
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:10:49.493329+00:00
 -- url     : https://prove2.me/theorems/95a17fbb-6dc1-48fe-a56e-eec48326557d
 -- title:

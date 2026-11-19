@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_lemma_3_27_self_gluing_exists
 -- name    : AnosovPlugs.lemma_3_27_self_gluing_exists
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:57:12.606988+00:00
 -- url     : https://prove2.me/theorems/93b1a27f-bec0-4e36-a635-409d636e336e
 -- title:

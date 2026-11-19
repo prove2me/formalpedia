@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_exists_curvature_of_fluidEq
 -- name    : FriedmannEquations.exists_curvature_of_fluidEq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:45:08.768552+00:00
 -- url     : https://prove2.me/theorems/4a2d39fc-e8f1-4099-8ddd-0e927df26c21
 -- title:

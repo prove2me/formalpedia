@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_norm_pointForce
 -- name    : NewtonGravitation.norm_pointForce
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:39:52.297354+00:00
 -- url     : https://prove2.me/theorems/512cac2f-c9a4-48ec-9cc9-dcabc4ff1bd9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_iterated_integral_ordered
 -- name    : Rudin.ch10_iterated_integral_ordered
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:38:19.365015+00:00
 -- url     : https://prove2.me/theorems/cafd03f2-cba5-425e-9487-1ee8d16abb32
 -- title:

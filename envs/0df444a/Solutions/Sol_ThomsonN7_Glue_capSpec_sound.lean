@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonN7.Glue.capSpec_sound
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:08:39.579452+00:00
 -- url     : https://prove2.me/submissions/00c7f578-3555-4ab1-abf5-e60e081d0c2b
 

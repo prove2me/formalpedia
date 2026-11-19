@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Schanuel.hermite_lindemann
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T18:50:49.675423+00:00
 -- url     : https://prove2.me/submissions/ad225f4c-ea36-43e6-94e7-0de7b2c399d1
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_root_maximisation_equation_five_numeric
 -- name    : BlackbodyRadiation.root_maximisation_equation_five_numeric
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:40:08.280984+00:00
 -- url     : https://prove2.me/theorems/394453df-c59b-468f-b883-13990a3fbf40
 -- title:

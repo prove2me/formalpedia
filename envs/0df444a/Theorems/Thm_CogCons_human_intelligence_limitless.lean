@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_human_intelligence_limitless
 -- name    : CogCons.human_intelligence_limitless
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:44:31.757027+00:00
 -- url     : https://prove2.me/theorems/850d6143-442b-4e8e-b2fb-336fb2e9e855
 -- title:

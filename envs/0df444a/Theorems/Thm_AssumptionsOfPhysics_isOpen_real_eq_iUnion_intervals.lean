@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_isOpen_real_eq_iUnion_intervals
 -- name    : AssumptionsOfPhysics.isOpen_real_eq_iUnion_intervals
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:02:01.684986+00:00
 -- url     : https://prove2.me/theorems/9e5efeba-8a28-4cbf-8986-3c57917d3fae
 -- title:

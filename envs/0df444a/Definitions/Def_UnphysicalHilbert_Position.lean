@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_UnphysicalHilbert_Position
 -- name    : UnphysicalHilbert_Position
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:03:24.833137+00:00
 -- url     : https://prove2.me/theorems/31b40cf2-ef92-4c39-9afc-0466f9dfb418
 -- title:

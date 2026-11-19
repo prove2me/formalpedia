@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SidB_hyper
 -- name    : SidB_hyper
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T18:07:54.468559+00:00
 -- url     : https://prove2.me/theorems/952f26bf-c343-41a2-a7c9-fcef712c537d
 -- title:

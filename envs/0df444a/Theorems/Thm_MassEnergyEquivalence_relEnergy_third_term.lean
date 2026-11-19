@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_relEnergy_third_term
 -- name    : MassEnergyEquivalence.relEnergy_third_term
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:15:33.764976+00:00
 -- url     : https://prove2.me/theorems/4792b565-d2e3-441a-b368-52b2dcea4089
 -- title:

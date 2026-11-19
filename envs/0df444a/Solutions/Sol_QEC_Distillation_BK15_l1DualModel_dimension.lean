@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for QEC.Distillation.BK15.l1DualModel_dimension
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-19T01:00:16.767233+00:00
+-- url     : https://prove2.me/submissions/165efe81-25c2-45aa-b276-e0453c829857
+
+import Definitions.Def_QEC_Coding_Core_Definitions
+import Definitions.Def_QEC_Distillation_FifteenQubitH_Code
+import Theorems.Thm_QEC_Distillation_BK15_quadraticIndex_card
+import Theorems.Thm_QEC_Distillation_BK15_l1DualCoefficientMap_injective
+import Theorems.Thm_QEC_Coding_ChainComplexData_pureZLogicalQuotientEquivMiddleHomology_mk
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+attribute [local simp] QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+
+
+
+set_option autoImplicit false
+open QEC QEC.Distillation QEC.Distillation.BK15
+open QEC Coding
+namespace QEC.Distillation.BK15
+theorem _root_.solution : Dimension L1DualModel = 11 := by
+  rw [Dimension_eq_finrank_carrier]
+  change Module.finrank Bit (LinearMap.range l1DualCoefficientMap) = 11
+  rw [LinearMap.finrank_range_of_inj l1DualCoefficientMap_injective,
+    Module.finrank_prod, Module.finrank_pi]
+  simp [quadraticIndex_card]
+end QEC.Distillation.BK15

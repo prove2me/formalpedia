@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_theta_zeta_completed
 -- name    : Gelbart.theta_zeta_completed
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:39:26.220702+00:00
 -- url     : https://prove2.me/theorems/a45b586a-935e-4ada-845d-266fcac14212
 -- title:

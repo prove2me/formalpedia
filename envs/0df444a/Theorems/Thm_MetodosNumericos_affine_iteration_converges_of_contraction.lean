@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_affine_iteration_converges_of_contraction
 -- name    : MetodosNumericos.affine_iteration_converges_of_contraction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:15:00.018992+00:00
 -- url     : https://prove2.me/theorems/4764d320-ac41-4318-a56c-4dc597093749
 -- title:

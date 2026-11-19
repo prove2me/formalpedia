@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_fixingSubgroup_isClosed_krull
 -- name    : GaloisFundamental.fixingSubgroup_isClosed_krull
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:10:33.985528+00:00
 -- url     : https://prove2.me/theorems/aef61771-afeb-4752-ad86-3c8e1fdf6995
 -- title:

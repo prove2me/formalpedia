@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_tendsto_successProb_cutoffRule
 -- name    : ClassicalSecretary.tendsto_successProb_cutoffRule
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:52:50.538395+00:00
 -- url     : https://prove2.me/theorems/a6f616d4-f452-40f4-b2de-017d467dcf03
 -- title:

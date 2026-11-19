@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_smale_mean_value_K_four
 -- name    : SmaleMeanValue.smale_mean_value_K_four
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:20:27.097515+00:00
 -- url     : https://prove2.me/theorems/4831858d-23b9-471a-9fc9-f7165e7ed4b4
 -- title:

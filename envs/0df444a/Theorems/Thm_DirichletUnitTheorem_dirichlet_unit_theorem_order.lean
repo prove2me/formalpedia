@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_dirichlet_unit_theorem_order
 -- name    : DirichletUnitTheorem.dirichlet_unit_theorem_order
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:20.473913+00:00
 -- url     : https://prove2.me/theorems/4bef2063-3761-43ac-b2af-1fc60ea5005a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_monotone_integrable
 -- name    : Rudin.ch06_monotone_integrable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:15:36.604539+00:00
 -- url     : https://prove2.me/theorems/ffdab7df-c652-4587-af4b-896a3b21c3ad
 -- title:

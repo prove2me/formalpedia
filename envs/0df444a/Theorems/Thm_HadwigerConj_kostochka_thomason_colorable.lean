@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_kostochka_thomason_colorable
 -- name    : HadwigerConj.kostochka_thomason_colorable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:57:18.799632+00:00
 -- url     : https://prove2.me/theorems/bc508126-274c-4b1a-a0e9-8e2df2c2b34e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_THDM_thm1_stability_general_THDM
 -- name    : THDM.thm1_stability_general_THDM
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:58:57.413845+00:00
 -- url     : https://prove2.me/theorems/361a5d8b-6dc2-4f1b-9644-1d63a0408e57
 -- title:

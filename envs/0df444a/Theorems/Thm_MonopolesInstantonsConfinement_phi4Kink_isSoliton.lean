@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_phi4Kink_isSoliton
 -- name    : MonopolesInstantonsConfinement.phi4Kink_isSoliton
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:21:01.077898+00:00
 -- url     : https://prove2.me/theorems/aa32e088-996b-4ecf-88f9-6a45e13b10cf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UndecidableSpectralGap_usg_diverging_gs_energy_computable
 -- name    : UndecidableSpectralGap.usg_diverging_gs_energy_computable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T12:18:56.635358+00:00
 -- url     : https://prove2.me/theorems/c8d7dc16-602b-4a84-86e9-e8b17c9b802c
 -- title:

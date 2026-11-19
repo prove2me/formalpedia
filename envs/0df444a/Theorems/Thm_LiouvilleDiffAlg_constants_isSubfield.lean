@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_constants_isSubfield
 -- name    : LiouvilleDiffAlg.constants_isSubfield
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:28:23.797958+00:00
 -- url     : https://prove2.me/theorems/c65d48bf-8bbd-4597-a614-4f0e488dd979
 -- title:

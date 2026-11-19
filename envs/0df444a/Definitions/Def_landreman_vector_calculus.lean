@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_landreman_vector_calculus
 -- name    : landreman_vector_calculus
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:41:33.818281+00:00
 -- url     : https://prove2.me/theorems/dd0de590-9a6d-4526-9723-833d352f2e96
 -- title:

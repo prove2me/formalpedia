@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RuralHospitals_one_to_one_unmatched_hospital
 -- name    : RuralHospitals.one_to_one_unmatched_hospital
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T15:19:15.326409+00:00
 -- url     : https://prove2.me/theorems/3e027b12-5c38-4b04-be7e-f0a1d41e20a4
 -- title:

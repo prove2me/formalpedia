@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_hermOfVec_det_bijection
 -- name    : ChatterjeeQFT.hermOfVec_det_bijection
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:36:12.342595+00:00
 -- url     : https://prove2.me/theorems/2aef12eb-530d-4035-aaf0-af72b2c39aa5
 -- title:

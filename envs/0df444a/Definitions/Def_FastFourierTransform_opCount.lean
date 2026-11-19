@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FastFourierTransform_opCount
 -- name    : FastFourierTransform_opCount
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:10:44.172987+00:00
 -- url     : https://prove2.me/theorems/367a9b8c-987f-4ed8-b3ed-bb06dee03acf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Leptogenesis_casasIbarraR_orthogonal
 -- name    : Leptogenesis.casasIbarraR_orthogonal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:06:36.936651+00:00
 -- url     : https://prove2.me/theorems/367f5d6d-f8e0-4d09-a681-b5f4cee5d6ae
 -- title:

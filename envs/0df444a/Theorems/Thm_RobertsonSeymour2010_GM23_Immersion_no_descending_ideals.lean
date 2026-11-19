@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobertsonSeymour2010_GM23_Immersion_no_descending_ideals
 -- name    : RobertsonSeymour2010.GM23.Immersion.no_descending_ideals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:12:25.124123+00:00
 -- url     : https://prove2.me/theorems/d2408ca4-faa4-4f0b-b80b-db54309445a9

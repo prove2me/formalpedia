@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HighEntropyLimit_blackbody
 -- name    : HighEntropyLimit_blackbody
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:52:34.678153+00:00
 -- url     : https://prove2.me/theorems/459e6daf-4629-4d36-8e5f-538044acf0e6
 -- title:

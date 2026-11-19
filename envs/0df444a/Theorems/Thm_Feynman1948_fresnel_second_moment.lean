@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Feynman1948_fresnel_second_moment
 -- name    : Feynman1948.fresnel_second_moment
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T17:08:43.685091+00:00
 -- url     : https://prove2.me/theorems/d5a776e9-fcde-4c95-a13e-9d19d4b33ff7
 -- title:

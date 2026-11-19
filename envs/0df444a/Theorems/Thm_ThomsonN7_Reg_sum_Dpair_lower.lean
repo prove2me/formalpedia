@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonN7_Reg_sum_Dpair_lower
 -- name    : ThomsonN7.Reg.sum_Dpair_lower
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:08:02.941166+00:00
 -- url     : https://prove2.me/theorems/d17248eb-f74b-4e44-a373-46b7204d7a1d
 -- title:

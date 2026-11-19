@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_gaussian_two_point
 -- name    : DeepLearningTheory.gaussian_two_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:32:57.210188+00:00
 -- url     : https://prove2.me/theorems/5565111d-2edf-4bb8-94c0-7edffe218bff
 -- title:

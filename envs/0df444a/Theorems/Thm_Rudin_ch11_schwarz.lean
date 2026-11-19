@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_schwarz
 -- name    : Rudin.ch11_schwarz
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:38:26.178975+00:00
 -- url     : https://prove2.me/theorems/fe355e83-e7fb-4968-8222-6911dfb2cf08
 -- title:

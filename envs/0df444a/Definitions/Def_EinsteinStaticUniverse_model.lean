@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_EinsteinStaticUniverse_model
 -- name    : EinsteinStaticUniverse_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:16:41.942169+00:00
 -- url     : https://prove2.me/theorems/27f746c1-28cb-4161-966a-470440315b43
 -- title:

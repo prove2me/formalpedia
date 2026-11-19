@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewMinimalStandardModel_singlet_quartic_landau_pole
 -- name    : NewMinimalStandardModel.singlet_quartic_landau_pole
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T15:04:45.319785+00:00
 -- url     : https://prove2.me/theorems/69098a80-6c20-4728-8898-d70625a17bc6
 -- title:

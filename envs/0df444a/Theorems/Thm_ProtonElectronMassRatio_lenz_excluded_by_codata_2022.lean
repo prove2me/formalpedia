@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProtonElectronMassRatio_lenz_excluded_by_codata_2022
 -- name    : ProtonElectronMassRatio.lenz_excluded_by_codata_2022
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:19:47.314986+00:00
 -- url     : https://prove2.me/theorems/1ed886f0-1469-4631-9961-54566aa38422
 -- title:

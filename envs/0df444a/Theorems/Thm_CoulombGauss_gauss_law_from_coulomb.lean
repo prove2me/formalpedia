@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CoulombGauss_gauss_law_from_coulomb
 -- name    : CoulombGauss.gauss_law_from_coulomb
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:09:23.910721+00:00
 -- url     : https://prove2.me/theorems/8776f383-111f-4801-b897-0808985aa5b3
 -- title:

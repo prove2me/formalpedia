@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_spin_precession_vacuum
 -- name    : GiuntiStudenikin2015.spin_precession_vacuum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:08:55.177804+00:00
 -- url     : https://prove2.me/theorems/7e66e50b-7816-4b80-b89f-2ae30aa680f9
 -- title:

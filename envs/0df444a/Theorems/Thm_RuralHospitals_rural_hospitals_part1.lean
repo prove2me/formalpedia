@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RuralHospitals_rural_hospitals_part1
 -- name    : RuralHospitals.rural_hospitals_part1
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T15:19:43.64744+00:00
 -- url     : https://prove2.me/theorems/022f446b-7d47-4803-9f04-d9407704cca9
 -- title:

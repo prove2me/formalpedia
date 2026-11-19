@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GravitationalConstantBasic
 -- name    : GravitationalConstantBasic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:11:02.361467+00:00
 -- url     : https://prove2.me/theorems/344ea455-7d01-417f-93f1-01c7794c4639
 -- title:

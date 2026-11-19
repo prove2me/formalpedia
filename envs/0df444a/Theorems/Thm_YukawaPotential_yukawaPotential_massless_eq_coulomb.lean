@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawaPotential_massless_eq_coulomb
 -- name    : YukawaPotential.yukawaPotential_massless_eq_coulomb
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T12:35:55.831331+00:00
 -- url     : https://prove2.me/theorems/0d90dec2-eda9-468b-a68a-abecb1ba4708
 -- title:

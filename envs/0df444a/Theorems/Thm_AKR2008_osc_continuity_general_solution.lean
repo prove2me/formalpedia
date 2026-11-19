@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_osc_continuity_general_solution
 -- name    : AKR2008.osc_continuity_general_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T23:58:22.579086+00:00
 -- url     : https://prove2.me/theorems/c8ada1bd-4214-4ae7-ad92-096ba002dd2b
 -- title:

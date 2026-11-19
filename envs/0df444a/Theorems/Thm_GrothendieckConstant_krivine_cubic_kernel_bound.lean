@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_krivine_cubic_kernel_bound
 -- name    : GrothendieckConstant.krivine_cubic_kernel_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T23:08:11.494018+00:00
 -- url     : https://prove2.me/theorems/65da1ef2-b9b5-4c17-9708-54378ebd3ff2
 -- title:

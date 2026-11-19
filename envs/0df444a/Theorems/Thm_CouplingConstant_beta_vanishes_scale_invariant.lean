@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_beta_vanishes_scale_invariant
 -- name    : CouplingConstant.beta_vanishes_scale_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:49:24.9334+00:00
 -- url     : https://prove2.me/theorems/ffe246fb-1efc-4b71-a3a5-7930826d57ec
 -- title:

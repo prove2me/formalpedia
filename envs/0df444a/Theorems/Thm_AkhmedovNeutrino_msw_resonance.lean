@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AkhmedovNeutrino_msw_resonance
 -- name    : AkhmedovNeutrino.msw_resonance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:14:49.743978+00:00
 -- url     : https://prove2.me/theorems/9cb0d1a1-5b0b-423d-b415-fe11acd139f8
 -- title:

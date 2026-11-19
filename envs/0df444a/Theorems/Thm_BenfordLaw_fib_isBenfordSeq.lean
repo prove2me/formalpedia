@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_fib_isBenfordSeq
 -- name    : BenfordLaw.fib_isBenfordSeq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:44.33611+00:00
 -- url     : https://prove2.me/theorems/fb743ee5-5387-465d-bfb2-9bd755863ade
 -- title:

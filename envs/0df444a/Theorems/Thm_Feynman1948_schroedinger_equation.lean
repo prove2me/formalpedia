@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Feynman1948_schroedinger_equation
 -- name    : Feynman1948.schroedinger_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T18:17:43.978128+00:00
 -- url     : https://prove2.me/theorems/b211e250-3bac-4805-b773-d00c7f6299c0
 -- title:

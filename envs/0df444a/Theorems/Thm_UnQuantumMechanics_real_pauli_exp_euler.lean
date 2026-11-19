@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_real_pauli_exp_euler
 -- name    : UnQuantumMechanics.real_pauli_exp_euler
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T20:17:20.760743+00:00
 -- url     : https://prove2.me/theorems/e6455c69-fdcc-406f-9eec-203e7fbf565d
 -- title:

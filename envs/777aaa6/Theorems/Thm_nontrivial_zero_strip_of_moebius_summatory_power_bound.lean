@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_nontrivial_zero_strip_of_moebius_summatory_power_bound
 -- name    : nontrivial_zero_strip_of_moebius_summatory_power_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:17:25.02668+00:00
 -- url     : https://prove2.me/theorems/e484efc7-3556-463f-a958-ba72037cc2af
 -- title:

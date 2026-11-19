@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NoetherianScheme_defs
 -- name    : NoetherianScheme_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T22:30:48.50898+00:00
 -- url     : https://prove2.me/theorems/4a3f4597-68ea-46b3-b7f9-bb817f34b9e0
 -- title:

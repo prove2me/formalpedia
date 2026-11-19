@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_bohm_states
 -- name    : bohm_states
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T22:49:24.282323+00:00
 -- url     : https://prove2.me/theorems/48ed2ac8-3742-4aeb-9203-a82101a0b5be
 -- title:

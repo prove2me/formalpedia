@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_rationals_dense
 -- name    : Rudin.ch01_rationals_dense
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:39:41.446152+00:00
 -- url     : https://prove2.me/theorems/ddcdfe50-bda3-488e-a6d0-cef30014d4c8
 -- title:

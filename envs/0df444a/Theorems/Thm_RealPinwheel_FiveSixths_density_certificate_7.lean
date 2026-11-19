@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_density_certificate_7
 -- name    : RealPinwheel.FiveSixths.density_certificate_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T03:15:38.844195+00:00
 -- url     : https://prove2.me/theorems/56665a01-bfa5-4fa9-98c7-fd329dcc9a15

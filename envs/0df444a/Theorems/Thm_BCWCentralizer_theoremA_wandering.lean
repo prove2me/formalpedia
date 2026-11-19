@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCWCentralizer_theoremA_wandering
 -- name    : BCWCentralizer.theoremA_wandering
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:27:08.128607+00:00
 -- url     : https://prove2.me/theorems/a03f6c55-8cc1-48d8-983e-d0a504f33c70
 -- title:

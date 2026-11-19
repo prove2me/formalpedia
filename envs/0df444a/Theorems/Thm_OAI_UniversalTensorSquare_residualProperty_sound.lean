@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_residualProperty_sound
 -- name    : OAI.UniversalTensorSquare.residualProperty_sound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:23:09.116825+00:00
 -- url     : https://prove2.me/theorems/c2dc5804-2fc3-46c9-853c-b5a03dc21359

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_not_isNetComplete_weakDual_of_isFrechetSpace
 -- name    : GarrettFA.not_isNetComplete_weakDual_of_isFrechetSpace
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:35:55.211075+00:00
 -- url     : https://prove2.me/theorems/fd68c458-021f-4ce1-98b8-3e05906fa345
 -- title:

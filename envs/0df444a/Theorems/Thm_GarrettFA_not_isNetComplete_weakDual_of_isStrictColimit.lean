@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_not_isNetComplete_weakDual_of_isStrictColimit
 -- name    : GarrettFA.not_isNetComplete_weakDual_of_isStrictColimit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:36:21.365547+00:00
 -- url     : https://prove2.me/theorems/8c06a97a-1223-4a4f-9947-ade2841df188
 -- title:

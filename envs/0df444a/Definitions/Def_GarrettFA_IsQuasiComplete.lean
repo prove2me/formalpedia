@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GarrettFA_IsQuasiComplete
 -- name    : GarrettFA_IsQuasiComplete
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:22:34.887921+00:00
 -- url     : https://prove2.me/theorems/30a6fbc9-e3d0-4a6f-96f5-9981b468b57e
 -- title:

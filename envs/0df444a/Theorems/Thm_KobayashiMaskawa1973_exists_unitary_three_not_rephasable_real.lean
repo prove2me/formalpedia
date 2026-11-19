@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KobayashiMaskawa1973_exists_unitary_three_not_rephasable_real
 -- name    : KobayashiMaskawa1973.exists_unitary_three_not_rephasable_real
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:59:06.734201+00:00
 -- url     : https://prove2.me/theorems/a3d661b8-d91c-495b-ae50-65533ac4ed43
 -- title:

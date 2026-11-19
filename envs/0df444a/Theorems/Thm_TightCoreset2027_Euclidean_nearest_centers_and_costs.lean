@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightCoreset2027_Euclidean_nearest_centers_and_costs
 -- name    : TightCoreset2027.Euclidean.nearest_centers_and_costs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:07:32.381974+00:00
 -- url     : https://prove2.me/theorems/d948f246-0a7f-46b3-8496-0637913ee18c

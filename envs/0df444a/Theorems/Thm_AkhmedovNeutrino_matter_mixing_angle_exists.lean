@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AkhmedovNeutrino_matter_mixing_angle_exists
 -- name    : AkhmedovNeutrino.matter_mixing_angle_exists
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:09:11.422669+00:00
 -- url     : https://prove2.me/theorems/5f53bf9d-5710-49c9-a25e-34d6e83479ac
 -- title:

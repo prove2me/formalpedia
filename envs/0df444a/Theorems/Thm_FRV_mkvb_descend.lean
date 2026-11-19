@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_mkvb_descend
 -- name    : FRV.mkvb_descend
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:06.950958+00:00
 -- url     : https://prove2.me/theorems/92f41d77-914d-4e25-8849-1d7fda4f9eea
 -- title:

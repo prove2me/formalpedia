@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCTOcc_occurs_add_of_occurs
 -- name    : GCTOcc.occurs_add_of_occurs
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:36:22.525663+00:00
 -- url     : https://prove2.me/theorems/73ad0c8c-5379-4063-967e-20b2dc6e681d
 -- title:

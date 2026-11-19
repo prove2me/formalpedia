@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_betaFunctionMu_eq_zero_scale_invariant
 -- name    : CouplingConstantRG.betaFunctionMu_eq_zero_scale_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:18:24.290131+00:00
 -- url     : https://prove2.me/theorems/c7f47b1e-1d34-4c04-a490-d72e1a95a036
 -- title:

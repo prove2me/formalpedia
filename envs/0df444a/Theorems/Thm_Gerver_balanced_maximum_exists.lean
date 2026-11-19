@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_balanced_maximum_exists
 -- name    : Gerver.balanced_maximum_exists
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:12:33.366113+00:00
 -- url     : https://prove2.me/theorems/8e8e42ce-1a81-4f28-8aa6-3f79a8225214
 -- title:

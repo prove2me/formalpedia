@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_radiation_energy_density_scaling
 -- name    : CosmologyEOS.radiation_energy_density_scaling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:54.304633+00:00
 -- url     : https://prove2.me/theorems/8d1029c2-656b-4424-96ba-edc4dd2efcd2
 -- title:

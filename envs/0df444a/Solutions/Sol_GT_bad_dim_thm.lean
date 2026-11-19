@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.bad_dim_thm
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:52.097198+00:00
 -- url     : https://prove2.me/submissions/493d6cea-e1c0-4617-ac72-ee83baa9939f
 

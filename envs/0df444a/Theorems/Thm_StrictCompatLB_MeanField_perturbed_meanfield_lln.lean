@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_MeanField_perturbed_meanfield_lln
 -- name    : StrictCompatLB.MeanField.perturbed_meanfield_lln
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-18T05:38:08.347909+00:00
 -- url     : https://prove2.me/theorems/b9404f7f-a683-43cc-be88-609ee1466e72

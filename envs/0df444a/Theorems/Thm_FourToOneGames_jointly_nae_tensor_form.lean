@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FourToOneGames_jointly_nae_tensor_form
 -- name    : FourToOneGames.jointly_nae_tensor_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:41:11.533086+00:00
 -- url     : https://prove2.me/theorems/6054ff20-9c05-4561-b818-f408ab75e730
 -- title:

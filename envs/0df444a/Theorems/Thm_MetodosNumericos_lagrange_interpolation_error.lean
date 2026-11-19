@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_lagrange_interpolation_error
 -- name    : MetodosNumericos.lagrange_interpolation_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:00:43.842258+00:00
 -- url     : https://prove2.me/theorems/da0931eb-ee0f-4da0-9456-2a0c184db508
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_owf_of_weakOWF
 -- name    : LiuPass.owf_of_weakOWF
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:29:23.092622+00:00
 -- url     : https://prove2.me/theorems/7cf79f29-92ef-4acb-b831-c690f0ae90be
 -- title:

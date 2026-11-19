@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_TailBounds_lemma_33
 -- name    : FoundationsRL.TailBounds.lemma_33
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:23:24.102418+00:00
 -- url     : https://prove2.me/theorems/4cf5979e-303b-44be-817d-7b6213aadc27

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_hk_variational_principle
 -- name    : DFT.hk_variational_principle
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:04:52.711055+00:00
 -- url     : https://prove2.me/theorems/5e20443d-6e93-4535-831f-ee27cfd2b6e0
 -- title:

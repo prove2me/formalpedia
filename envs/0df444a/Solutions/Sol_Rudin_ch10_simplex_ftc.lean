@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_simplex_ftc
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T03:12:16.509081+00:00
 -- url     : https://prove2.me/submissions/b9af8544-e705-4497-ac5a-dd1666a60e71
 

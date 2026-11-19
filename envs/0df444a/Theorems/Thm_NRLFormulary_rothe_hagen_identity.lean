@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NRLFormulary_rothe_hagen_identity
 -- name    : NRLFormulary.rothe_hagen_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:53:13.007509+00:00
 -- url     : https://prove2.me/theorems/359a99d4-f55c-4c77-a6dc-f8c6c4b0e094
 -- title:

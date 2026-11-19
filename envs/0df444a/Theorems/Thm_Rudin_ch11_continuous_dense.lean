@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_continuous_dense
 -- name    : Rudin.ch11_continuous_dense
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:42:03.075687+00:00
 -- url     : https://prove2.me/theorems/2e12b228-d5fe-4181-abbc-374fdc139259
 -- title:

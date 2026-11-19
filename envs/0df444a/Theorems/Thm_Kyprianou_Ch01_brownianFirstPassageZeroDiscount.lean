@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianFirstPassageZeroDiscount
 -- name    : Kyprianou.Ch01.brownianFirstPassageZeroDiscount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T20:09:49.852192+00:00
 -- url     : https://prove2.me/theorems/26c84fa4-9c04-437f-a087-602c77debba7

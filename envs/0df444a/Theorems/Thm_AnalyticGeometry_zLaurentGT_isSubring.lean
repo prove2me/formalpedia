@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_zLaurentGT_isSubring
 -- name    : AnalyticGeometry.zLaurentGT_isSubring
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T13:34:20.365343+00:00
 -- url     : https://prove2.me/theorems/c2b062ff-f3df-4ac7-a18d-2af99c5f5418
 -- title:

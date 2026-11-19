@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothPoincare4_smale_poincare_high_dim
 -- name    : SmoothPoincare4.smale_poincare_high_dim
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:50:26.942388+00:00
 -- url     : https://prove2.me/theorems/f22d5ed4-0795-4d2f-99fb-763af61d93b6
 -- title:

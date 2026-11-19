@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GrothendieckConstant.krivine_scheme_affine_constraint
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T23:08:40.276984+00:00
 -- url     : https://prove2.me/submissions/4bb1a019-2909-4391-965d-5da5c087a75a
 -- note    : a sketch -- it imports a theorem that is still Open,

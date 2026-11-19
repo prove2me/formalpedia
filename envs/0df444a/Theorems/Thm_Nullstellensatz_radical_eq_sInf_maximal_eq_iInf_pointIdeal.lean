@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_radical_eq_sInf_maximal_eq_iInf_pointIdeal
 -- name    : Nullstellensatz.radical_eq_sInf_maximal_eq_iInf_pointIdeal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:35:18.394987+00:00
 -- url     : https://prove2.me/theorems/71eba7ff-75eb-41ad-b35c-d957c10e4c25
 -- title:

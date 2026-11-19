@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_alphaOneLoop_decreasing_tendsto_zero
 -- name    : CouplingConstant.alphaOneLoop_decreasing_tendsto_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:14:51.928618+00:00
 -- url     : https://prove2.me/theorems/a21ed2b6-feee-4445-b0b8-3be4144165b6
 -- title:

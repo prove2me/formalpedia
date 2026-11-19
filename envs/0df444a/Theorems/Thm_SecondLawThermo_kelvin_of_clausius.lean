@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_kelvin_of_clausius
 -- name    : SecondLawThermo.kelvin_of_clausius
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:30.584973+00:00
 -- url     : https://prove2.me/theorems/f00f12ea-04d1-4ddd-a7a0-b53e221a3a32
 -- title:

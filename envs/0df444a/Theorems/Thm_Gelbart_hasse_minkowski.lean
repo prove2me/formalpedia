@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_hasse_minkowski
 -- name    : Gelbart.hasse_minkowski
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:34:59.58524+00:00
 -- url     : https://prove2.me/theorems/c0c785e5-8688-445b-964f-ec5d8b9c14a9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_comparative_statics
 -- name    : SupplyDemand.comparative_statics
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:35:52.335924+00:00
 -- url     : https://prove2.me/theorems/f826412c-2152-46cc-9428-629c51c81cbf
 -- title:

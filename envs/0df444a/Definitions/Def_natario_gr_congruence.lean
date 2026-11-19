@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_natario_gr_congruence
 -- name    : natario_gr_congruence
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:57:11.22406+00:00
 -- url     : https://prove2.me/theorems/0ca6e900-cac0-4f1e-bac3-7212e172fb6b
 -- title:

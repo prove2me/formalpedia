@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyTimeFactorization_pollard_p_minus_one
 -- name    : PolyTimeFactorization.pollard_p_minus_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T16:12:58.371624+00:00
 -- url     : https://prove2.me/theorems/ebb25f47-ee96-4496-b3e6-44f7998ada4b
 -- title:

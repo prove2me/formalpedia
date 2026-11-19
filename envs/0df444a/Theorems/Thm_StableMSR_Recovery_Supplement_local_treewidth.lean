@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_local_treewidth
 -- name    : StableMSR.Recovery.Supplement.local_treewidth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:13:02.752235+00:00
 -- url     : https://prove2.me/theorems/64d3e833-30f8-4db2-9a46-8bcd3ae19f09

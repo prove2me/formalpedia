@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for TaoFivePrimes.schoenfeld_psi_error_large
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Johan Mercedes
 -- created : 2026-10-27T21:12:35.975108+00:00
 -- url     : https://prove2.me/submissions/be86cfe3-6b09-47c9-acd0-b72758a6a331
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Theorems.Thm_TaoFivePrimes_schoenfeld_psi_error_to_exp23

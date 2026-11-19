@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_hankelPosDef_of_isMomentSequence
 -- name    : HamburgerMoment.hankelPosDef_of_isMomentSequence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:01:06.610085+00:00
 -- url     : https://prove2.me/theorems/9799d852-c0d4-4ae3-9865-94f17b91fac5
 -- title:

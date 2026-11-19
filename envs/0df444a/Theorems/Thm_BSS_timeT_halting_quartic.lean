@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_timeT_halting_quartic
 -- name    : BSS.timeT_halting_quartic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:04:53.834136+00:00
 -- url     : https://prove2.me/theorems/06336093-d242-445d-a40b-736b0352ce73
 -- title:

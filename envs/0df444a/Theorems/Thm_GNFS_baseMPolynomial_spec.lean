@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GNFS_baseMPolynomial_spec
 -- name    : GNFS.baseMPolynomial_spec
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:24:38.145344+00:00
 -- url     : https://prove2.me/theorems/137d80b3-bf96-4296-95dc-0af9fdfb580e
 -- title:

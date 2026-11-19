@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpinStatistics_composite_exchange_sign
 -- name    : SpinStatistics.composite_exchange_sign
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:35:31.254881+00:00
 -- url     : https://prove2.me/theorems/18014d61-d9b2-4ef4-bbb1-ddfa3c35df1a
 -- title:

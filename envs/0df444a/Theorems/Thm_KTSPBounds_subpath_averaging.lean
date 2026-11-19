@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KTSPBounds_subpath_averaging
 -- name    : KTSPBounds.subpath_averaging
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:38:33.349778+00:00
 -- url     : https://prove2.me/theorems/7cc798c3-9596-451e-b6ee-bfcf1573cc58

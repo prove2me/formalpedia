@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_atomicity_of_composition
 -- name    : InfoDerivQT.atomicity_of_composition
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:13:28.812023+00:00
 -- url     : https://prove2.me/theorems/5732722f-bcda-4d82-835f-3a366a40d3ce
 -- title:

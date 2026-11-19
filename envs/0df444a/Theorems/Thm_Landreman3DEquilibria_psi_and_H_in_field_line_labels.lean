@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_psi_and_H_in_field_line_labels
 -- name    : Landreman3DEquilibria.psi_and_H_in_field_line_labels
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:08:31.911274+00:00
 -- url     : https://prove2.me/theorems/18cf641b-d61f-43b6-98a0-f18eefccab69
 -- title:

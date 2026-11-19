@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CoulombGauss_sphereFlux_electricField_ball
 -- name    : CoulombGauss.sphereFlux_electricField_ball
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:38:23.190618+00:00
 -- url     : https://prove2.me/theorems/cce269ea-a939-4010-92f6-09431bf9aa4a
 -- title:

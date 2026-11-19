@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DeBruijnNewman_core
 -- name    : DeBruijnNewman_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:13:20.107918+00:00
 -- url     : https://prove2.me/theorems/5cada9b9-2b33-40f9-9ab3-419dfb69622c
 -- title:

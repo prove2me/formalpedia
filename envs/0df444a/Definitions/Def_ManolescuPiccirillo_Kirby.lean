@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ManolescuPiccirillo_Kirby
 -- name    : ManolescuPiccirillo_Kirby
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:49:58.559373+00:00
 -- url     : https://prove2.me/theorems/91df0867-ed83-41a9-bab3-1af363687b7e
 -- title:

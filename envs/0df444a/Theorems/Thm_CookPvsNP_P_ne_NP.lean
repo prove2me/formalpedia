@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_P_ne_NP
 -- name    : CookPvsNP.P_ne_NP
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T13:42:55.981606+00:00
 -- url     : https://prove2.me/theorems/4e81338c-637b-4309-899e-4ab138b2dba6
 -- title:

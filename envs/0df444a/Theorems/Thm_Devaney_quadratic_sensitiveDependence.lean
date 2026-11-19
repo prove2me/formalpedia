@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_sensitiveDependence
 -- name    : Devaney.quadratic_sensitiveDependence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:13:57.863867+00:00
 -- url     : https://prove2.me/theorems/aa91da63-b6c2-4ac5-af38-d37472ed0d4a
 -- title:

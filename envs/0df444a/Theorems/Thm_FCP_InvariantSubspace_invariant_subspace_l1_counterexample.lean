@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_InvariantSubspace_invariant_subspace_l1_counterexample
 -- name    : FCP.InvariantSubspace.invariant_subspace_l1_counterexample
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:52:19.382288+00:00
 -- url     : https://prove2.me/theorems/69d85cf8-a921-42c8-a803-23a8785c0a44
 -- title:

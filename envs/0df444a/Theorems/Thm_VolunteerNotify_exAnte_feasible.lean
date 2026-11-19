@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerNotify_exAnte_feasible
 -- name    : VolunteerNotify.exAnte_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:39:47.680198+00:00
 -- url     : https://prove2.me/theorems/418e782c-53ac-4cd4-85f3-d648e8cc0b31

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleDiffS4_diffDisk_four_fiveFoldLoopSpace
 -- name    : SmaleDiffS4.diffDisk_four_fiveFoldLoopSpace
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:36:21.28882+00:00
 -- url     : https://prove2.me/theorems/ff35ec9f-0341-4ae6-b262-b7314edc84e9
 -- title:

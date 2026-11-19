@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_gauss_jacobi_consequences
 -- name    : QRH.gauss_jacobi_consequences
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:47:18.034064+00:00
 -- url     : https://prove2.me/theorems/0d1e43ad-20d9-4037-81be-9352aaf7cb9a
 -- title:

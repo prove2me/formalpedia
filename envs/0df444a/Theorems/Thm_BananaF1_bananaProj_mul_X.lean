@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BananaF1_bananaProj_mul_X
 -- name    : BananaF1.bananaProj_mul_X
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:24:18.51755+00:00
 -- url     : https://prove2.me/theorems/bdd738a4-3edd-422f-9efc-0152271531fb
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_hamiltonian_skew_hamiltonian_algebra
 -- name    : UnQuantumMechanics.hamiltonian_skew_hamiltonian_algebra
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T19:33:34.39148+00:00
 -- url     : https://prove2.me/theorems/adcecda3-1371-41f7-9f84-bfab3f5d5b3b
 -- title:

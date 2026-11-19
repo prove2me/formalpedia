@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_decidable_tfae
 -- name    : AssumptionsOfPhysics.decidable_tfae
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T17:14:51.15685+00:00
 -- url     : https://prove2.me/theorems/1f5c3797-73ce-48a7-9b1a-bb1576a7276c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonProblem_N7_slab_s93_90
 -- name    : ThomsonProblem.N7.slab_s93_90
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T23:56:08.649736+00:00
 -- url     : https://prove2.me/theorems/b08f92d0-e95c-4cca-93f5-b6d152a99452
 -- title:

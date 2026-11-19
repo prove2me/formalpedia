@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_even_moment_asymptotics
 -- name    : KeatingSnaith.cue_even_moment_asymptotics
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:54:09.299581+00:00
 -- url     : https://prove2.me/theorems/c54fc44a-2c47-4618-a2a8-afdaf828a183
 -- title:

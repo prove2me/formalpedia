@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LopesQM_heisenberg_uncertainty
 -- name    : LopesQM.heisenberg_uncertainty
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:57:21.903287+00:00
 -- url     : https://prove2.me/theorems/e3908941-c136-4843-b643-e27f6e69980a
 -- title:

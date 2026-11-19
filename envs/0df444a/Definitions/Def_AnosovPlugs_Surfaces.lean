@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnosovPlugs_Surfaces
 -- name    : AnosovPlugs_Surfaces
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:20:19.888373+00:00
 -- url     : https://prove2.me/theorems/0185ce0c-78c4-4f2d-80c4-44792650b2d0
 -- title:

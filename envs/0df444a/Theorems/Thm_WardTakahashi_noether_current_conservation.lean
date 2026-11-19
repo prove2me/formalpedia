@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WardTakahashi_noether_current_conservation
 -- name    : WardTakahashi.noether_current_conservation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:16:17.418984+00:00
 -- url     : https://prove2.me/theorems/77f22440-bda8-4e14-ae8f-b06d13512550
 -- title:

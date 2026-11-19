@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HuWang2023_HubbleTension_Defs
 -- name    : HuWang2023_HubbleTension_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:38:07.720027+00:00
 -- url     : https://prove2.me/theorems/c533766a-db1c-4ffd-939f-471189abc86f
 -- title:

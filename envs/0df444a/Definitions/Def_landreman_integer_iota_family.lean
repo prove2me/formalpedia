@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_landreman_integer_iota_family
 -- name    : landreman_integer_iota_family
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:43:26.165992+00:00
 -- url     : https://prove2.me/theorems/716d499d-9498-4fd7-9ab4-75891891ea90
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_planck_system_normalizes
 -- name    : PlanckUnits.planck_system_normalizes
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:33:19.603426+00:00
 -- url     : https://prove2.me/theorems/24c2bca0-9119-4d84-84d4-4a270123cc26
 -- title:

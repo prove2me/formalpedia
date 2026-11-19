@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ThomsonN7_slab_s93_90_data_2
 -- name    : ThomsonN7_slab_s93_90_data_2
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T01:04:48.986654+00:00
 -- url     : https://prove2.me/theorems/1ad93bfa-178f-4df0-8990-1946ba174ce5
 -- title:

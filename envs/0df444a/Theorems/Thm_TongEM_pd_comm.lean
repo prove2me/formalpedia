@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongEM_pd_comm
 -- name    : TongEM.pd_comm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T01:10:27.18872+00:00
 -- url     : https://prove2.me/theorems/681e0679-fae9-4a45-9125-bb9a81ddd1e0
 -- title:

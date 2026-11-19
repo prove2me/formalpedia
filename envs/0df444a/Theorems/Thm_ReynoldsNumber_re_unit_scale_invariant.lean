@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_re_unit_scale_invariant
 -- name    : ReynoldsNumber.re_unit_scale_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:00:51.354844+00:00
 -- url     : https://prove2.me/theorems/ba6f7b7c-df98-45b9-a71a-ceb5f3fc8d77
 -- title:

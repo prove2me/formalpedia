@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaussMagnetism_curl_add_grad
 -- name    : GaussMagnetism.curl_add_grad
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:53:02.448446+00:00
 -- url     : https://prove2.me/theorems/cc5cc116-9cfe-4928-b6b2-5e80db9183ee
 -- title:

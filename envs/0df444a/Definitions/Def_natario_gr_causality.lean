@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_natario_gr_causality
 -- name    : natario_gr_causality
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:57:40.041021+00:00
 -- url     : https://prove2.me/theorems/8120a415-404f-4321-b8d3-f4f4a510d7fb
 -- title:

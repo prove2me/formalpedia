@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Tegmark_ensemble
 -- name    : Tegmark_ensemble
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T04:10:53.148416+00:00
 -- url     : https://prove2.me/theorems/1174a6e2-0861-41c9-bb1f-ee813913a850
 -- title:

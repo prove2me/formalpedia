@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ESL_f_hat_injective
 -- name    : ESL.f_hat_injective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:45.725969+00:00
 -- url     : https://prove2.me/theorems/5d768027-e529-4b58-8a00-998fa8f0957b
 -- title:

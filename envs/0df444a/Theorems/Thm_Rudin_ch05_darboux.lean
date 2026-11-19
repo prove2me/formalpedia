@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_darboux
 -- name    : Rudin.ch05_darboux
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:04:50.817564+00:00
 -- url     : https://prove2.me/theorems/128aefd7-7d8c-4fab-817c-3297b5c39752
 -- title:

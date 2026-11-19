@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_electronvolt_exact
 -- name    : SI.electronvolt_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:56:23.892008+00:00
 -- url     : https://prove2.me/theorems/08535ff4-3367-4ec9-ab91-1f6c1422dccc
 -- title:

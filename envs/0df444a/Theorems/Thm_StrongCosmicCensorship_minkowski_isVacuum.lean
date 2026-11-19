@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_minkowski_isVacuum
 -- name    : StrongCosmicCensorship.minkowski_isVacuum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:06:32.99298+00:00
 -- url     : https://prove2.me/theorems/fa320488-a596-4163-8a0b-260f5db2ccec
 -- title:

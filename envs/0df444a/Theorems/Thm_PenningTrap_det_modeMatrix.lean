@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PenningTrap_det_modeMatrix
 -- name    : PenningTrap.det_modeMatrix
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:06:31.033976+00:00
 -- url     : https://prove2.me/theorems/2fd916a2-3e62-4b36-847f-933acf3dc728
 -- title:

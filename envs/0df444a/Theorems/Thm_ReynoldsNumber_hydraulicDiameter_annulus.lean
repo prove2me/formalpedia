@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_hydraulicDiameter_annulus
 -- name    : ReynoldsNumber.hydraulicDiameter_annulus
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:22:32.969961+00:00
 -- url     : https://prove2.me/theorems/ed3e0e5f-4244-4d25-af0c-ea20bfb89df9
 -- title:

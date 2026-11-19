@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_nonsingular_solution_eq5
 -- name    : CarneiroParticleCreation.nonsingular_solution_eq5
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:30:32.303981+00:00
 -- url     : https://prove2.me/theorems/bf227b34-bec4-4545-8a1e-dc37a5f90280
 -- title:

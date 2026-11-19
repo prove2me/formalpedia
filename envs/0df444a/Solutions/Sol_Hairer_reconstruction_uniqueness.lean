@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Hairer.reconstruction_uniqueness
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T06:02:02.889033+00:00
 -- url     : https://prove2.me/submissions/7046ea1e-0849-451b-99ce-62982c8e8d97
 

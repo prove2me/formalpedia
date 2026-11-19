@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MathieuM23_Polynomials
 -- name    : MathieuM23_Polynomials
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T15:05:06.076985+00:00
 -- url     : https://prove2.me/theorems/30d862c5-2694-4528-85e8-3b5ab7145abe
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_einstein_eq_trace
 -- name    : CarrollGR.einstein_eq_trace
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:13:24.123867+00:00
 -- url     : https://prove2.me/theorems/62809881-d496-4550-9ca7-edc2ee8d6d60
 -- title:

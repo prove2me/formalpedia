@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_nonsingular_de_sitter_to_de_sitter
 -- name    : CarneiroDeSitter.nonsingular_de_sitter_to_de_sitter
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:20:30.423684+00:00
 -- url     : https://prove2.me/theorems/c1e5979e-24ab-4d4c-974b-2d4817eb4c3c
 -- title:

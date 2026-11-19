@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PenningTrap_mode_ansatz_iff_mulVec_eq_zero
 -- name    : PenningTrap.mode_ansatz_iff_mulVec_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:04:58.54695+00:00
 -- url     : https://prove2.me/theorems/bcc02b4c-85dd-4556-8375-5c7c4c94ce30
 -- title:

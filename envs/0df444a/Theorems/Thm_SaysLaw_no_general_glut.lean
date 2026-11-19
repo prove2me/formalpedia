@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SaysLaw_no_general_glut
 -- name    : SaysLaw.no_general_glut
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:13.451526+00:00
 -- url     : https://prove2.me/theorems/78c93ed3-bf84-40b7-8344-2de2ffbdcf8a
 -- title:

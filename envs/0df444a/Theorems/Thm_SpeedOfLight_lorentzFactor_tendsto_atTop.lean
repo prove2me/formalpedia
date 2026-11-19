@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpeedOfLight_lorentzFactor_tendsto_atTop
 -- name    : SpeedOfLight.lorentzFactor_tendsto_atTop
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:10:59.936916+00:00
 -- url     : https://prove2.me/theorems/a0657e23-62f2-4bae-8f7a-ece916b86047
 -- title:

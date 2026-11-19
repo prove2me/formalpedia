@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_wick_theorem
 -- name    : DeepLearningTheory.wick_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:42:34.884982+00:00
 -- url     : https://prove2.me/theorems/a9908763-45f8-4148-814f-79ad6c1c44b0
 -- title:

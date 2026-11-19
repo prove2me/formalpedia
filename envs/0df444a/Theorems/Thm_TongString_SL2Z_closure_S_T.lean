@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_SL2Z_closure_S_T
 -- name    : TongString.SL2Z_closure_S_T
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:57:51.483396+00:00
 -- url     : https://prove2.me/theorems/3666e552-42c2-4832-bb96-8c2db7db73eb
 -- title:

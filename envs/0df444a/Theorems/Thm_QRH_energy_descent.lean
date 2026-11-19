@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_energy_descent
 -- name    : QRH.energy_descent
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:48:36.21625+00:00
 -- url     : https://prove2.me/theorems/6d8c8021-44d7-4da2-af78-4f2586ff5105
 -- title:

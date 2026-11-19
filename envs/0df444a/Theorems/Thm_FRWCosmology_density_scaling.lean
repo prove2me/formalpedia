@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRWCosmology_density_scaling
 -- name    : FRWCosmology.density_scaling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:46:54.818605+00:00
 -- url     : https://prove2.me/theorems/dd0206df-9712-4890-ab89-bd5ced142892
 -- title:

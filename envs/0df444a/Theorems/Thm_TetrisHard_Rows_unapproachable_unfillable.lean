@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TetrisHard_Rows_unapproachable_unfillable
 -- name    : TetrisHard.Rows.unapproachable_unfillable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T22:56:41.72799+00:00
 -- url     : https://prove2.me/theorems/74671d12-33aa-4a2b-9e7c-3d84a2daedb7

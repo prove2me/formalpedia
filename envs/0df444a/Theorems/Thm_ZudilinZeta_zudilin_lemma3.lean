@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_zudilin_lemma3
 -- name    : ZudilinZeta.zudilin_lemma3
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:42:55.76398+00:00
 -- url     : https://prove2.me/theorems/45eb7c10-d609-48a7-a18d-e93fbc244e87
 -- title:

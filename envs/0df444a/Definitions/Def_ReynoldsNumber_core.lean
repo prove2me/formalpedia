@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReynoldsNumber_core
 -- name    : ReynoldsNumber_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:00:33.444714+00:00
 -- url     : https://prove2.me/theorems/457a5630-0556-4c36-94a4-045c9da06392
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_covariance_first_layer
 -- name    : LesHouchesWidth.covariance_first_layer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:01:19.149896+00:00
 -- url     : https://prove2.me/theorems/2f6320be-74d6-427f-9844-9134c9fb5b18
 -- title:

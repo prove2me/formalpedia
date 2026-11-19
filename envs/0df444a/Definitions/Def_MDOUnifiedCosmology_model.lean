@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MDOUnifiedCosmology_model
 -- name    : MDOUnifiedCosmology_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:26:38.68399+00:00
 -- url     : https://prove2.me/theorems/3626f691-e67a-4313-92be-714143754648
 -- title:

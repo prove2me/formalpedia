@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonN7.Final.capspec_cap
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T01:47:18.875929+00:00
 -- url     : https://prove2.me/submissions/e57e79fd-6bde-4771-9d50-6bd1fc0c7d53
 

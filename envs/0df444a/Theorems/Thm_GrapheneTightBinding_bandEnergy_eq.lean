@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_bandEnergy_eq
 -- name    : GrapheneTightBinding.bandEnergy_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:19:40.639897+00:00
 -- url     : https://prove2.me/theorems/662e9252-c006-4024-b5c5-e863f58055f7
 -- title:

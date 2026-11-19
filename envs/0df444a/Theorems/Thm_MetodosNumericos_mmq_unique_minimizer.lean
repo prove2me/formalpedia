@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_mmq_unique_minimizer
 -- name    : MetodosNumericos.mmq_unique_minimizer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:05:02.141664+00:00
 -- url     : https://prove2.me/theorems/a1f4d14f-aa7f-4757-a093-ceb09cf4f8a5
 -- title:

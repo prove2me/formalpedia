@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_theorem2_five_body_finiteness
 -- name    : AlbouyKaloshin.theorem2_five_body_finiteness
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:26:50.270821+00:00
 -- url     : https://prove2.me/theorems/a21a29a5-4de6-4900-8a03-fdd24a93d19b
 -- title:

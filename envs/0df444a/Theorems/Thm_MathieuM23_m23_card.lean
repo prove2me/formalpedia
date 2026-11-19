@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_m23_card
 -- name    : MathieuM23.m23_card
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T17:36:52.229303+00:00
 -- url     : https://prove2.me/theorems/41f315fe-d0ca-4c6b-8424-d8384a7cae85
 -- title:

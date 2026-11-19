@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ColemanMandula_lemma4_K_depends_only_on_total_momentum
 -- name    : ColemanMandula.lemma4_K_depends_only_on_total_momentum
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:41:10.384576+00:00
 -- url     : https://prove2.me/theorems/54b34e8e-b2b3-41e7-8329-1acc4590e2b1
 -- title:

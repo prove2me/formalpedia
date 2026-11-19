@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymplecticBallPacking_two_ball_obstruction_dim4
 -- name    : SymplecticBallPacking.two_ball_obstruction_dim4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:56:51.780657+00:00
 -- url     : https://prove2.me/theorems/38c40e39-cf40-4b49-96b5-5dd27752d5a5
 -- title:

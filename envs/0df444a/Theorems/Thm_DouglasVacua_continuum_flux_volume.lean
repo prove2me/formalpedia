@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DouglasVacua_continuum_flux_volume
 -- name    : DouglasVacua.continuum_flux_volume
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:02:59.517829+00:00
 -- url     : https://prove2.me/theorems/49965ade-563d-4317-9348-8d96b0f813e3
 -- title:

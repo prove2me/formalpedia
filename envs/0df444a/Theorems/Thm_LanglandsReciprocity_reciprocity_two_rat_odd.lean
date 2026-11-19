@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsReciprocity_reciprocity_two_rat_odd
 -- name    : LanglandsReciprocity.reciprocity_two_rat_odd
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:59:30.438673+00:00
 -- url     : https://prove2.me/theorems/803773e1-d89b-4d90-a083-b0874549902d
 -- title:

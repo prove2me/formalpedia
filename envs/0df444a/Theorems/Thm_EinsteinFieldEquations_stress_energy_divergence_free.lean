@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_stress_energy_divergence_free
 -- name    : EinsteinFieldEquations.stress_energy_divergence_free
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:42:20.708722+00:00
 -- url     : https://prove2.me/theorems/321b0061-7740-467f-9581-224a40a9863e
 -- title:

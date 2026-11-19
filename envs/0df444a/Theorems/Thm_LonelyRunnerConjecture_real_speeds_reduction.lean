@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_real_speeds_reduction
 -- name    : LonelyRunnerConjecture.real_speeds_reduction
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:12:27.654004+00:00
 -- url     : https://prove2.me/theorems/a30d709a-8356-4aa1-8add-5da03642d743
 -- title:

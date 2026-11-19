@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_reduction_to_riemann_of_bounded
 -- name    : Rudin.ch06_reduction_to_riemann_of_bounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T15:37:15.12374+00:00
 -- url     : https://prove2.me/theorems/18cf00a0-5fc5-46c4-a533-79ccec4ecd15
 -- title:

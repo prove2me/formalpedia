@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LocalDistanceNetwork_Tension
 -- name    : LocalDistanceNetwork_Tension
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T20:23:14.482721+00:00
 -- url     : https://prove2.me/theorems/872e84ae-20a3-4dda-975d-593a400fa56f
 -- title:

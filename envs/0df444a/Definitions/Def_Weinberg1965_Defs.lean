@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Weinberg1965_Defs
 -- name    : Weinberg1965_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:52:18.263388+00:00
 -- url     : https://prove2.me/theorems/0ef762ed-300e-4f20-8b99-22211d33e4be
 -- title:

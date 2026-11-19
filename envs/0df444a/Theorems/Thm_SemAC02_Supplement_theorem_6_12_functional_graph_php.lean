@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_6_12_functional_graph_php
 -- name    : SemAC02.Supplement.theorem_6_12_functional_graph_php
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:51:32.638505+00:00
 -- url     : https://prove2.me/theorems/de22e49c-2045-452a-b5da-2613136bd240

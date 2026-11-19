@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HeathcoteUnbounded_selfAdjoint_unbounded_domain
 -- name    : HeathcoteUnbounded.selfAdjoint_unbounded_domain
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:34:37.500915+00:00
 -- url     : https://prove2.me/theorems/77ec1fe5-c9c8-41bb-bcad-7cc40e6395bb
 -- title:

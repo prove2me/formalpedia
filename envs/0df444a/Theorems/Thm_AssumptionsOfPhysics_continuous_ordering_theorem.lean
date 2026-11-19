@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_continuous_ordering_theorem
 -- name    : AssumptionsOfPhysics.continuous_ordering_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:46:34.17279+00:00
 -- url     : https://prove2.me/theorems/4af7c390-8555-4b90-bcf4-ed5fddcb32b9
 -- title:

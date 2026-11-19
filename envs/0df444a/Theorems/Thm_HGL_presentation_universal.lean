@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_presentation_universal
 -- name    : HGL.presentation_universal
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:28.964843+00:00
 -- url     : https://prove2.me/theorems/de1c7a6e-b837-409e-a7ec-ebdc4985f69e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YangMills_Wilson_lattice
 -- name    : YangMills_Wilson_lattice
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T12:33:14.408892+00:00
 -- url     : https://prove2.me/theorems/e85c310a-beb3-4de2-917f-09c468af0d8b
 -- title:

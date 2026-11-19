@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_palis_conjecture
 -- name    : PalisConjecture.palis_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T03:22:41.852599+00:00
 -- url     : https://prove2.me/theorems/371298dc-3d55-4f48-a968-e362c0d1c380
 -- title:

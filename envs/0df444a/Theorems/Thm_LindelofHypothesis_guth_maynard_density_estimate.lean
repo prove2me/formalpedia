@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_guth_maynard_density_estimate
 -- name    : LindelofHypothesis.guth_maynard_density_estimate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:53:07.867995+00:00
 -- url     : https://prove2.me/theorems/3185f0b6-9f59-4c53-a240-261003ea2cab
 -- title:

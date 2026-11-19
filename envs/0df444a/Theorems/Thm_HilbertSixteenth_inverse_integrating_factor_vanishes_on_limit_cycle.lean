@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_inverse_integrating_factor_vanishes_on_limit_cycle
 -- name    : HilbertSixteenth.inverse_integrating_factor_vanishes_on_limit_cycle
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:50:44.36853+00:00
 -- url     : https://prove2.me/theorems/2cb5c0bf-98e2-4685-8499-47b7029b1003
 -- title:

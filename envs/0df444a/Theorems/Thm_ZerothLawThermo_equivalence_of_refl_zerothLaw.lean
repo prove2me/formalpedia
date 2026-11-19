@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_equivalence_of_refl_zerothLaw
 -- name    : ZerothLawThermo.equivalence_of_refl_zerothLaw
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:24:54.117486+00:00
 -- url     : https://prove2.me/theorems/6d65be3b-72a3-467e-b028-ea9fd0ce656d
 -- title:

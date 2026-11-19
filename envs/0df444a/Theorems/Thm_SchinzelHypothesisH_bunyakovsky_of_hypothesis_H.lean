@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchinzelHypothesisH_bunyakovsky_of_hypothesis_H
 -- name    : SchinzelHypothesisH.bunyakovsky_of_hypothesis_H
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:18:06.066973+00:00
 -- url     : https://prove2.me/theorems/1c31595c-4ed4-440f-8ebe-a7998c33639f
 -- title:

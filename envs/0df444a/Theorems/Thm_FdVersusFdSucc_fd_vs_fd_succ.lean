@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FdVersusFdSucc_fd_vs_fd_succ
 -- name    : FdVersusFdSucc.fd_vs_fd_succ
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:16:34.526982+00:00
 -- url     : https://prove2.me/theorems/04b35ab1-4dc5-40c1-931a-b70cbfdae146
 -- title:

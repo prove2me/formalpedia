@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DouglasVacua_superpotential_coefficient_count
 -- name    : DouglasVacua.superpotential_coefficient_count
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:19:41.745826+00:00
 -- url     : https://prove2.me/theorems/250539ce-3d1c-4f18-a6cd-4073bb287d85
 -- title:

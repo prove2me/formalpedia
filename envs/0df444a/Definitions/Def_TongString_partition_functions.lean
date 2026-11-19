@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TongString_partition_functions
 -- name    : TongString_partition_functions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:55:37.339773+00:00
 -- url     : https://prove2.me/theorems/3117c49c-e16a-4c2c-bc37-08a5d57a0c0f
 -- title:

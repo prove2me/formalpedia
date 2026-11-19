@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_joint_generating
 -- name    : KeatingSnaith.cue_joint_generating
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:51:35.192916+00:00
 -- url     : https://prove2.me/theorems/19f5c1db-6641-47e0-b642-c30083625913
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_repression_success_monotone
 -- name    : DrugMarket.repression_success_monotone
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:37:14.801187+00:00
 -- url     : https://prove2.me/theorems/62a15960-f84f-48de-ad4b-8e5ea3992c3a
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch03_mertens
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T15:03:08.348571+00:00
 -- url     : https://prove2.me/submissions/aab62c26-4dc9-4fef-a78b-c594d209a3f3
 

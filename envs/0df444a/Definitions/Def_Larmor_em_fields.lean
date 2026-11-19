@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Larmor_em_fields
 -- name    : Larmor_em_fields
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:02:32.743963+00:00
 -- url     : https://prove2.me/theorems/d4343ec4-14c3-42c7-b9c1-bb82c1b404e5
 -- title:

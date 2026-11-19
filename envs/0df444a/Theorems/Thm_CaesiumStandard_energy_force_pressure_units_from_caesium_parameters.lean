@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_energy_force_pressure_units_from_caesium_parameters
 -- name    : CaesiumStandard.energy_force_pressure_units_from_caesium_parameters
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:30:14.545511+00:00
 -- url     : https://prove2.me/theorems/fed86397-bb32-4f76-a9c3-6c3943a2c481
 -- title:

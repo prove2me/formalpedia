@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_four_vertex_lemma
 -- name    : DoCarmoDG.four_vertex_lemma
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:28:59.72166+00:00
 -- url     : https://prove2.me/theorems/259f92a6-fa2a-4276-bf59-8cf13871198e
 -- title:

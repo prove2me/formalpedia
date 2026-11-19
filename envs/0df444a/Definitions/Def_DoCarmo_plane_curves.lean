@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DoCarmo_plane_curves
 -- name    : DoCarmo_plane_curves
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:20:05.265559+00:00
 -- url     : https://prove2.me/theorems/b798ae6e-12e5-4756-9544-827976a1023c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_constructible_proof_implies_AK
 -- name    : ArithmeticKakeya.constructible_proof_implies_AK
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:57:58.09921+00:00
 -- url     : https://prove2.me/theorems/36a1cfff-f478-4552-b863-73acf7c6292c
 -- title:

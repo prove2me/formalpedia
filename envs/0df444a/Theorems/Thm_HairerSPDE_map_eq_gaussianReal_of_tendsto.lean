@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HairerSPDE_map_eq_gaussianReal_of_tendsto
 -- name    : HairerSPDE.map_eq_gaussianReal_of_tendsto
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:21:22.547714+00:00
 -- url     : https://prove2.me/theorems/03af751e-95a0-4c58-8a53-a99d96edc884
 -- title:

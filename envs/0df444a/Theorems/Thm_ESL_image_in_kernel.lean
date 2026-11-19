@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ESL_image_in_kernel
 -- name    : ESL.image_in_kernel
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:26.888977+00:00
 -- url     : https://prove2.me/theorems/e32ead60-ecf0-43eb-bac8-e82dfcb407d3
 -- title:

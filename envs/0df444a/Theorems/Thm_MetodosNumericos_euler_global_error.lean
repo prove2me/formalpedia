@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_euler_global_error
 -- name    : MetodosNumericos.euler_global_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:00:36.692419+00:00
 -- url     : https://prove2.me/theorems/b762b177-6cba-4906-a633-74ccb0214b33
 -- title:

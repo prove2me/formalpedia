@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SYZ_eqA2_variation_of_deformation_form_is_exact
 -- name    : SYZ.eqA2_variation_of_deformation_form_is_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T04:04:32.716496+00:00
 -- url     : https://prove2.me/theorems/a8b6c7ce-35de-4830-b2c9-27d93a48a3f5
 -- title:

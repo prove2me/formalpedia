@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_selberg_morris_one
 -- name    : KeatingSnaith.selberg_morris_one
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:13:12.437683+00:00
 -- url     : https://prove2.me/theorems/4608b98f-ca2c-4396-880a-6620e56aa96e
 -- title:

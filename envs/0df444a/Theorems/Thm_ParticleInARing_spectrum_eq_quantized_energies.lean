@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_spectrum_eq_quantized_energies
 -- name    : ParticleInARing.spectrum_eq_quantized_energies
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:55:28.692314+00:00
 -- url     : https://prove2.me/theorems/d6442834-b263-4706-8ae2-5559acc0fa56
 -- title:

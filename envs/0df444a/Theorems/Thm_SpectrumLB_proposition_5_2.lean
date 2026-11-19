@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectrumLB_proposition_5_2
 -- name    : SpectrumLB.proposition_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:36:38.481791+00:00
 -- url     : https://prove2.me/theorems/308e075e-7ce1-440b-b695-f260b959a03c

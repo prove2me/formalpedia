@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DiracAlgebra_core
 -- name    : DiracAlgebra_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T19:35:59.491567+00:00
 -- url     : https://prove2.me/theorems/0a83d3a0-4309-487e-b776-e05f92760d5c
 -- title:

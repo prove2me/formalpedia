@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_kasner_isVacuum
 -- name    : StrongCosmicCensorship.kasner_isVacuum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:23:43.168435+00:00
 -- url     : https://prove2.me/theorems/1eddb7e9-6c4a-40bc-819b-aa3206140309
 -- title:

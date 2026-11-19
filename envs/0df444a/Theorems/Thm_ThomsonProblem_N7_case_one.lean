@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonProblem_N7_case_one
 -- name    : ThomsonProblem.N7.case_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T23:55:48.329981+00:00
 -- url     : https://prove2.me/theorems/53e719db-2c8c-4fda-8765-b994087f1963
 -- title:

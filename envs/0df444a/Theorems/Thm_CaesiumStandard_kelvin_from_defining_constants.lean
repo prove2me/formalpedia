@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_kelvin_from_defining_constants
 -- name    : CaesiumStandard.kelvin_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:21:41.159507+00:00
 -- url     : https://prove2.me/theorems/63e79595-72b4-4cea-a1c0-6ed11b180997
 -- title:

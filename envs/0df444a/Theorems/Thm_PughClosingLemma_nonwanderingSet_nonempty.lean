@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PughClosingLemma_nonwanderingSet_nonempty
 -- name    : PughClosingLemma.nonwanderingSet_nonempty
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:25:34.47928+00:00
 -- url     : https://prove2.me/theorems/f71bbafb-f7ac-46ae-9e9d-f3b4a12d6648
 -- title:

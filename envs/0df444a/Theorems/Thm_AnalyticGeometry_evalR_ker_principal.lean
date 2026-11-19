@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_evalR_ker_principal
 -- name    : AnalyticGeometry.evalR_ker_principal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T13:58:39.493801+00:00
 -- url     : https://prove2.me/theorems/082dbd9d-c9e5-4260-8706-2d3aed28c8c4
 -- title:

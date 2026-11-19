@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_skew_flow_conserves_hamiltonian
 -- name    : UnQuantumMechanics.skew_flow_conserves_hamiltonian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:12:55.418993+00:00
 -- url     : https://prove2.me/theorems/d83a3ea5-6b75-4fc6-b3cd-fa9ea53a7acf
 -- title:

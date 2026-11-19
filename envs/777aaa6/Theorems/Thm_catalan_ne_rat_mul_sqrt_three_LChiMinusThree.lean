@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_catalan_ne_rat_mul_sqrt_three_LChiMinusThree
 -- name    : catalan_ne_rat_mul_sqrt_three_LChiMinusThree
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T20:16:33.926191+00:00
 -- url     : https://prove2.me/theorems/7a432ef7-693a-4a65-9fdf-b76564c56824
 -- title:

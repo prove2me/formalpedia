@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_classical_darboux_halphen_of_chazy_roots
 -- name    : SDYM.classical_darboux_halphen_of_chazy_roots
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:32:01.557902+00:00
 -- url     : https://prove2.me/theorems/af6a29dd-ed03-42e4-a2c3-fbeb7dddf0f9
 -- title:

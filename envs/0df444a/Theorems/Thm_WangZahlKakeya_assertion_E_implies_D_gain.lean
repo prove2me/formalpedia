@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_assertion_E_implies_D_gain
 -- name    : WangZahlKakeya.assertion_E_implies_D_gain
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T13:15:41.03938+00:00
 -- url     : https://prove2.me/theorems/45131059-2f7f-4165-b7a7-036b13169eaf
 -- title:

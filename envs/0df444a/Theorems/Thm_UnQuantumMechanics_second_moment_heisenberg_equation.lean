@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_second_moment_heisenberg_equation
 -- name    : UnQuantumMechanics.second_moment_heisenberg_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:24:37.434706+00:00
 -- url     : https://prove2.me/theorems/1320e1f3-e946-498e-807e-d85e6883705d
 -- title:

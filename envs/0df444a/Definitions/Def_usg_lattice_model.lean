@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_usg_lattice_model
 -- name    : usg_lattice_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:54:40.236126+00:00
 -- url     : https://prove2.me/theorems/bb07d9a7-f37c-46be-ab56-2be29e7df2ad
 -- title:

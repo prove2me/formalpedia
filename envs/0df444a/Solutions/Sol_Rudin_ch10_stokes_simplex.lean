@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_stokes_simplex
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T04:33:54.338642+00:00
 -- url     : https://prove2.me/submissions/5dd09478-5505-48d9-be12-46d7613e179f
 

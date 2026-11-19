@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AdSCFT_initial_value_of_gauss
 -- name    : AdSCFT.initial_value_of_gauss
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:12:12.485582+00:00
 -- url     : https://prove2.me/theorems/7c1fdfc7-322b-4f34-9c11-43db3e6e8b39
 -- title:

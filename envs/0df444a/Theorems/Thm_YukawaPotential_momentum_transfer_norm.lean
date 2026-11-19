@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_momentum_transfer_norm
 -- name    : YukawaPotential.momentum_transfer_norm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:23:48.9048+00:00
 -- url     : https://prove2.me/theorems/31008354-742b-4511-8918-0d1aa2521d64
 -- title:

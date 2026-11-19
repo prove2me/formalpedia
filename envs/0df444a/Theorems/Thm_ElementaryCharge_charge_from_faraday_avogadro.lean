@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_charge_from_faraday_avogadro
 -- name    : ElementaryCharge.charge_from_faraday_avogadro
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:21:27.016258+00:00
 -- url     : https://prove2.me/theorems/ff224827-72de-4978-b9b0-23fc29ce98c6
 -- title:

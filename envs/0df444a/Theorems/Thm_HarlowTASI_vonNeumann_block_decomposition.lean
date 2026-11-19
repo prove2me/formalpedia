@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_vonNeumann_block_decomposition
 -- name    : HarlowTASI.vonNeumann_block_decomposition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:13:18.209133+00:00
 -- url     : https://prove2.me/theorems/9fe2493a-0053-4d71-adb3-50c74bbfb8c1
 -- title:

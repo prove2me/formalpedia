@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Devaney.quadratic_chaotic_lambda
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T13:19:58.478465+00:00
 -- url     : https://prove2.me/submissions/ec6a53fc-6740-439a-a2e0-5a3c6db279ef
 

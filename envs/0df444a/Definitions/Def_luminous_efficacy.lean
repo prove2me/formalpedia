@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_luminous_efficacy
 -- name    : luminous_efficacy
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:13:25.753731+00:00
 -- url     : https://prove2.me/theorems/9530b107-cbda-490f-816a-ccd856ea50dc
 -- title:

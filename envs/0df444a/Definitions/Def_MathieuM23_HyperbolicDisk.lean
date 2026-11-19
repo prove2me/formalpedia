@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MathieuM23_HyperbolicDisk
 -- name    : MathieuM23_HyperbolicDisk
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T15:48:44.469214+00:00
 -- url     : https://prove2.me/theorems/09b0703b-ce03-40f5-983e-203a95ee6a52
 -- title:

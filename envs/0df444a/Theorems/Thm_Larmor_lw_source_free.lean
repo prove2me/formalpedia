@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_lw_source_free
 -- name    : Larmor.lw_source_free
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:18:26.761974+00:00
 -- url     : https://prove2.me/theorems/d27ba433-a811-41e2-a1ea-5fcfa697a807
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_photon2_same_reduced_state
 -- name    : AKR2008.photon2_same_reduced_state
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:34:42.895777+00:00
 -- url     : https://prove2.me/theorems/217a4388-a230-4f35-822c-998d3a18d513
 -- title:

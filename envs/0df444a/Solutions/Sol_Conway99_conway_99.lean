@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Conway99.conway_99
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T19:41:10.606034+00:00
 -- url     : https://prove2.me/submissions/391dd5e6-f444-4621-a683-a41109d44a99
 -- note    : a sketch -- it imports a theorem that is still Open,

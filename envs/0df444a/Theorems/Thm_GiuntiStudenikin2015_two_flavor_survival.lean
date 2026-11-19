@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_two_flavor_survival
 -- name    : GiuntiStudenikin2015.two_flavor_survival
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:52:19.386274+00:00
 -- url     : https://prove2.me/theorems/5d7b6e2a-10d2-44d8-8ce7-f490e4232779
 -- title:

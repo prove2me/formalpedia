@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_thm_1_10_realizing_MS_foliations
 -- name    : AnosovPlugs.thm_1_10_realizing_MS_foliations
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T09:41:05.860429+00:00
 -- url     : https://prove2.me/theorems/c24a77e2-2376-4ec3-aebd-44690f02e5a4
 -- title:

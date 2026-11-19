@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_ax_schanuel_powerSeries
 -- name    : Schanuel.ax_schanuel_powerSeries
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:34:04.584374+00:00
 -- url     : https://prove2.me/theorems/b525966b-1e51-4d79-b6e5-c17f3825e9e8
 -- title:

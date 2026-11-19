@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_heckeForm_summable
 -- name    : Gelbart.heckeForm_summable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:36:56.728121+00:00
 -- url     : https://prove2.me/theorems/c6e3ff25-7c55-460e-8cde-f07e326cc308
 -- title:

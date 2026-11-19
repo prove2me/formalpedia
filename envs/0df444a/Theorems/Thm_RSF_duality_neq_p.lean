@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_duality_neq_p
 -- name    : RSF.duality_neq_p
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:13:39.043699+00:00
 -- url     : https://prove2.me/theorems/ab8a10b1-9fdf-47f0-b4a0-6e2e3226b0cc
 -- title:

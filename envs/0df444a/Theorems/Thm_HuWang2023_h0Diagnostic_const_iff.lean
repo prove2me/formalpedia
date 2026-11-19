@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HuWang2023_h0Diagnostic_const_iff
 -- name    : HuWang2023.h0Diagnostic_const_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:47:27.962813+00:00
 -- url     : https://prove2.me/theorems/15cc75b4-ebe6-4a99-bbea-6a121afb3db1
 -- title:

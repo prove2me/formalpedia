@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_einstein_static_linearised
 -- name    : EinsteinStaticUniverse.einstein_static_linearised
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:25:03.570816+00:00
 -- url     : https://prove2.me/theorems/1e155ca0-afa8-40e7-9de6-4beca0e7dcb8
 -- title:

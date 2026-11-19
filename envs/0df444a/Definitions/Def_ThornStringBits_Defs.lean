@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ThornStringBits_Defs
 -- name    : ThornStringBits_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:29:58.326462+00:00
 -- url     : https://prove2.me/theorems/cec438f8-1316-444e-9c10-4b7abf16ea9f
 -- title:

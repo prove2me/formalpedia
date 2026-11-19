@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_society_mul_right
 -- name    : BalancedAlgebra.society_mul_right
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:16:32.442889+00:00
 -- url     : https://prove2.me/theorems/53cf7d78-6988-4706-b0e9-831ded60718c
 -- title:

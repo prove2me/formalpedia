@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_isSurjunctive_subgroup
 -- name    : GottschalkSurjunctivity.isSurjunctive_subgroup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T15:45:16.444827+00:00
 -- url     : https://prove2.me/theorems/8b36aa47-3092-4150-84b1-8d2445100124
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_isogeny_weyl_equivariant
 -- name    : NgoFL.isogeny_weyl_equivariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:30:08.577442+00:00
 -- url     : https://prove2.me/theorems/13be68b5-a571-4620-8c30-c221e3aa685f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nintendo_fw_tqbf
 -- name    : Nintendo.fw_tqbf
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T11:06:12.715826+00:00
 -- url     : https://prove2.me/theorems/401aebc7-2037-4f9e-a119-1fb35499f83c
 -- title:

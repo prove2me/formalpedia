@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_mader_linear_edges
 -- name    : HadwigerConj.mader_linear_edges
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:45:34.685527+00:00
 -- url     : https://prove2.me/theorems/d370bfbb-f40d-43a7-a36e-3345482d9998
 -- title:

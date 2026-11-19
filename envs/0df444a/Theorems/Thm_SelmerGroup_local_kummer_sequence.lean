@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SelmerGroup_local_kummer_sequence
 -- name    : SelmerGroup.local_kummer_sequence
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:57:27.738262+00:00
 -- url     : https://prove2.me/theorems/76e88078-c316-47b8-8cab-ec90b10ceeb7
 -- title:

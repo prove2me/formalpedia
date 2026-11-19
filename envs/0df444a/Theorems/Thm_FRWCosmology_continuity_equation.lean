@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRWCosmology_continuity_equation
 -- name    : FRWCosmology.continuity_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:46:18.890496+00:00
 -- url     : https://prove2.me/theorems/6acb4580-8f0c-4c1c-a274-3a9e22b908ce
 -- title:

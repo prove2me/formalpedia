@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_bottcher_near
 -- name    : ray_bottcher_near
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:01:59.778634+00:00
 -- url     : https://prove2.me/theorems/4c9508a2-8b94-455e-bee0-d9cc1b970928
 -- title:

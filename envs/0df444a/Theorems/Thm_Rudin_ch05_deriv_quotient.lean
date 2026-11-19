@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_deriv_quotient
 -- name    : Rudin.ch05_deriv_quotient
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:14:59.340845+00:00
 -- url     : https://prove2.me/theorems/6e0d8360-0a41-482b-9fe5-2aa068bcb375
 -- title:

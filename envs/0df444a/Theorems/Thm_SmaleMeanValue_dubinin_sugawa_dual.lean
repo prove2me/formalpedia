@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_dubinin_sugawa_dual
 -- name    : SmaleMeanValue.dubinin_sugawa_dual
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:35:55.084624+00:00
 -- url     : https://prove2.me/theorems/6e3d348e-ff3e-4337-8668-ea0939c111da
 -- title:

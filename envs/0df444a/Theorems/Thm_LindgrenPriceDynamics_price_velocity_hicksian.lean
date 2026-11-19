@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindgrenPriceDynamics_price_velocity_hicksian
 -- name    : LindgrenPriceDynamics.price_velocity_hicksian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:31:04.454991+00:00
 -- url     : https://prove2.me/theorems/db149e85-2444-4cca-a275-69ba0f596ed7
 -- title:

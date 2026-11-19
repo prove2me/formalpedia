@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_chiSquare_min_iff_normal_equations
 -- name    : CODATA2022.chiSquare_min_iff_normal_equations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:18:10.336918+00:00
 -- url     : https://prove2.me/theorems/00bdda94-b193-482d-ab53-17cd9c52bf49
 -- title:

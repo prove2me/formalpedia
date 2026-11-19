@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NRLFormulary_rotheA_eq_div_form
 -- name    : NRLFormulary.rotheA_eq_div_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:02:36.304212+00:00
 -- url     : https://prove2.me/theorems/06acf5d4-7114-4c36-87fb-567ff168ccd7
 -- title:

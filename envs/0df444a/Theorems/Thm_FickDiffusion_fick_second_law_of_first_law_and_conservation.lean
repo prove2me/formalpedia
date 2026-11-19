@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_fick_second_law_of_first_law_and_conservation
 -- name    : FickDiffusion.fick_second_law_of_first_law_and_conservation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:53.046707+00:00
 -- url     : https://prove2.me/theorems/b3c9cb12-f77d-43d5-a9bd-7dfb31ab6b9a
 -- title:

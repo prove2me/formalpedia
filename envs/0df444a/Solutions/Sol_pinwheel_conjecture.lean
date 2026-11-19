@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for pinwheel_conjecture
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T20:44:02.658206+00:00
 -- url     : https://prove2.me/submissions/3add4070-091d-4c9e-b71a-099c0633f45d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RealPinwheel_FiveSixths_Instance

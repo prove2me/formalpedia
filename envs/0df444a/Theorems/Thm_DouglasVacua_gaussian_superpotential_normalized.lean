@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DouglasVacua_gaussian_superpotential_normalized
 -- name    : DouglasVacua.gaussian_superpotential_normalized
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:21:15.599608+00:00
 -- url     : https://prove2.me/theorems/3386e79d-4fd5-4ab2-b15a-066260bfc5e8
 -- title:

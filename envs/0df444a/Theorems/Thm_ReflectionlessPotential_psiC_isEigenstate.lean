@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_psiC_isEigenstate
 -- name    : ReflectionlessPotential.psiC_isEigenstate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:48:43.122022+00:00
 -- url     : https://prove2.me/theorems/20ed072a-f85e-4e90-8afb-4266c1b69ea4
 -- title:

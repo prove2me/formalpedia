@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_gibbsEntropy_tendsto_kB_log_card_groundStates
 -- name    : ThirdLawThermo.gibbsEntropy_tendsto_kB_log_card_groundStates
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:25:46.97099+00:00
 -- url     : https://prove2.me/theorems/045f0b3d-aa8c-4fca-9681-9df0ded887a7
 -- title:

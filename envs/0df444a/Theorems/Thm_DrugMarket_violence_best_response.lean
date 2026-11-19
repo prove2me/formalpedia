@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_violence_best_response
 -- name    : DrugMarket.violence_best_response
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:37:55.304623+00:00
 -- url     : https://prove2.me/theorems/ff3189c2-d9fa-4280-a547-d426c588b05a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherIVP_dependency_relations
 -- name    : NoetherIVP.dependency_relations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:58:48.491927+00:00
 -- url     : https://prove2.me/theorems/ebe17811-deb0-4120-bbbd-e31f67befb3a
 -- title:

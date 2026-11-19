@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IwasawaMainConjecture_herbrand_ribet
 -- name    : IwasawaMainConjecture.herbrand_ribet
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T17:25:31.706111+00:00
 -- url     : https://prove2.me/theorems/8c5e92d5-5504-4560-8678-86fe33cbc71a
 -- title:

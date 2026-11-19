@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_eq_iUnion_verifiableSet
 -- name    : AssumptionsOfPhysics.eq_iUnion_verifiableSet
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:25:27.243261+00:00
 -- url     : https://prove2.me/theorems/ae4a0fc5-dadd-46ed-9d45-f7cd99fa6002
 -- title:

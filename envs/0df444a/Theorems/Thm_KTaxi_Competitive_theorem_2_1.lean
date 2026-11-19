@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KTaxi_Competitive_theorem_2_1
 -- name    : KTaxi.Competitive.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:25:21.453329+00:00
 -- url     : https://prove2.me/theorems/f0183df2-3926-4d82-87c0-820ccba56e1c

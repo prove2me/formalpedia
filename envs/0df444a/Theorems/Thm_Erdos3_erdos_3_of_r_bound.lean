@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos3_erdos_3_of_r_bound
 -- name    : Erdos3.erdos_3_of_r_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:30:34.109985+00:00
 -- url     : https://prove2.me/theorems/a0fa394f-1242-48cb-abc5-1d3ae4a4bd71
 -- title:

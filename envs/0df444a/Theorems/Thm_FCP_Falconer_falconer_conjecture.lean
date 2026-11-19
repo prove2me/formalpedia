@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Falconer_falconer_conjecture
 -- name    : FCP.Falconer.falconer_conjecture
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:51:22.367171+00:00
 -- url     : https://prove2.me/theorems/cb9bdc72-11a0-4cdb-a90f-c8f49d9cdcee
 -- title:

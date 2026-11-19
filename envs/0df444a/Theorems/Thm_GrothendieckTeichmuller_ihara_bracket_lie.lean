@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_ihara_bracket_lie
 -- name    : GrothendieckTeichmuller.ihara_bracket_lie
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:36:58.944408+00:00
 -- url     : https://prove2.me/theorems/667223b8-24ad-4f98-9148-a1a774d829ea
 -- title:

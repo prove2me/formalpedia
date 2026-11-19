@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_mole_and_coulomb_independent_of_caesium_frequency
 -- name    : CaesiumStandard.mole_and_coulomb_independent_of_caesium_frequency
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:44:07.699973+00:00
 -- url     : https://prove2.me/theorems/3dd0ae4f-e891-4ac4-b2df-ae51b5f9d079
 -- title:

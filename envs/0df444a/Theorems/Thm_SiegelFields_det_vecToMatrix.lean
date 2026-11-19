@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_det_vecToMatrix
 -- name    : SiegelFields.det_vecToMatrix
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:16:07.516253+00:00
 -- url     : https://prove2.me/theorems/ce0774c2-eafd-4c46-b6d4-773e642c8a58
 -- title:

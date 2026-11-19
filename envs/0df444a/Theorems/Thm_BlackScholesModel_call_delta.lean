@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_call_delta
 -- name    : BlackScholesModel.call_delta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:27.856528+00:00
 -- url     : https://prove2.me/theorems/85a8f923-4363-4230-aea9-4edb39feddab
 -- title:

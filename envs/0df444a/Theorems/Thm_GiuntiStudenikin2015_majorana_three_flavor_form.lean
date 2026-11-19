@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_majorana_three_flavor_form
 -- name    : GiuntiStudenikin2015.majorana_three_flavor_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:06:35.74597+00:00
 -- url     : https://prove2.me/theorems/6c57486d-1352-4684-8b7b-ff7e36b3908f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos1210_card_window_small_prime_factor_le
 -- name    : Erdos1210.card_window_small_prime_factor_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:08:44.502982+00:00
 -- url     : https://prove2.me/theorems/2b9a26f2-1bfb-44e0-939c-3cfbdd0bdad4
 -- title:

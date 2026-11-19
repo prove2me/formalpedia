@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_tendsto_optimalProb
 -- name    : ClassicalSecretary.tendsto_optimalProb
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:54:57.707131+00:00
 -- url     : https://prove2.me/theorems/684646cb-829e-4d2b-8ea4-ac748a7315bc
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SuperconductingQC_closure_singleQubit_CNOT_eq_top
 -- name    : SuperconductingQC.closure_singleQubit_CNOT_eq_top
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:26:53.047466+00:00
 -- url     : https://prove2.me/theorems/24a2c1d0-cb9b-47f1-97be-495311250c8d
 -- title:

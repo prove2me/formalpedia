@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_delcourt_postle_colorable
 -- name    : HadwigerConj.delcourt_postle_colorable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:02:33.573052+00:00
 -- url     : https://prove2.me/theorems/770d8ed0-ec13-45e4-839c-2815a1803783
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_fourth_moment_asymptotic
 -- name    : LindelofHypothesis.fourth_moment_asymptotic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:49:37.481344+00:00
 -- url     : https://prove2.me/theorems/e2d2a6ee-e63c-421f-b525-5a6b0eb606ae
 -- title:

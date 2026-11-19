@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_good_blocks
 -- name    : Gilbreath.good_blocks
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:26:43.178021+00:00
 -- url     : https://prove2.me/theorems/e929e1c9-88cd-49c2-9942-4ddfe443b412
 -- title:

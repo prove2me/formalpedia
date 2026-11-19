@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_hkFunctional_eq_of_isNondegenerateGroundState
 -- name    : DFT.hkFunctional_eq_of_isNondegenerateGroundState
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:03:58.271803+00:00
 -- url     : https://prove2.me/theorems/b5988e4c-36b7-4497-ad27-7c0e9da8f62e
 -- title:

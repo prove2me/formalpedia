@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_null_momentum_parametrization
 -- name    : CelestialHolography.null_momentum_parametrization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:54:31.817281+00:00
 -- url     : https://prove2.me/theorems/a5f830ad-158a-4fad-a57e-638979cff201
 -- title:

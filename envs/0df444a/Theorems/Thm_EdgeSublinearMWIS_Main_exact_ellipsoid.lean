@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeSublinearMWIS_Main_exact_ellipsoid
 -- name    : EdgeSublinearMWIS.Main.exact_ellipsoid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T13:44:32.835845+00:00
 -- url     : https://prove2.me/theorems/f601a7a3-d692-4315-91c1-e44d5702f272

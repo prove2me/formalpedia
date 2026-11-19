@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_indifferent_consumer
 -- name    : DrugMarket.indifferent_consumer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:35:37.894079+00:00
 -- url     : https://prove2.me/theorems/24acc90e-1987-4a90-b407-0e9033e1ce53
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_uniform_derivative
 -- name    : Rudin.ch07_uniform_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:23:20.872738+00:00
 -- url     : https://prove2.me/theorems/46f55d01-e567-43f6-9ae3-7a5c4af08b75
 -- title:

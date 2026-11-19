@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_Cn_eq_cognitiveClosure
 -- name    : CogCons.Cn_eq_cognitiveClosure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:17:56.114976+00:00
 -- url     : https://prove2.me/theorems/9226e34a-cca1-4b70-90a3-7359106e0257
 -- title:

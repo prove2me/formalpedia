@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_hamiltonian_trace_odd_pow
 -- name    : UnQuantumMechanics.hamiltonian_trace_odd_pow
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:21:04.88714+00:00
 -- url     : https://prove2.me/theorems/98f94c6c-28a1-4300-ac52-f14faa85221b
 -- title:

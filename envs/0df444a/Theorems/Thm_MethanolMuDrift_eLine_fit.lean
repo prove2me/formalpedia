@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MethanolMuDrift_eLine_fit
 -- name    : MethanolMuDrift.eLine_fit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:00:06.284395+00:00
 -- url     : https://prove2.me/theorems/66886b80-4d85-4740-9845-1c3b09296405
 -- title:

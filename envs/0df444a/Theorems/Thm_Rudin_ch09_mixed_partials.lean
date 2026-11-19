@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_mixed_partials
 -- name    : Rudin.ch09_mixed_partials
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:24:55.441863+00:00
 -- url     : https://prove2.me/theorems/4dea36eb-e4ff-4f16-b3f3-2a810f9f42c5
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for zeta_ne_zero_of_strip_of_six_lt_im
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:18:54.037803+00:00
 -- url     : https://prove2.me/submissions/5b7cbc8d-6d0e-45c2-b2b8-b0526fe0bf00
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,6 +1,6 @@
 -- Prove2me | solution 5 for MilnorDynamics.thrice_punctured_plane_disk_cover
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:52:07.144125+00:00
 -- url     : https://prove2.me/submissions/c64648b6-5a3b-4a52-b1b5-f6e1bebfadcf
 -- note    : a sketch -- it imports a theorem that is still Open,

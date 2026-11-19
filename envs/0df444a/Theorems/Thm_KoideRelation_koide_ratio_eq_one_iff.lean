@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_ratio_eq_one_iff
 -- name    : KoideRelation.koide_ratio_eq_one_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:28:30.202362+00:00
 -- url     : https://prove2.me/theorems/5f381d67-5c78-44b5-9b55-d2e549f9e1c2
 -- title:

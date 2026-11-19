@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SuperconductingQC_cnot_eq_locals_two_iSWAP
 -- name    : SuperconductingQC.cnot_eq_locals_two_iSWAP
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:25:51.562879+00:00
 -- url     : https://prove2.me/theorems/8e5eb18e-2707-48b3-afd9-a46aa65adfbe
 -- title:

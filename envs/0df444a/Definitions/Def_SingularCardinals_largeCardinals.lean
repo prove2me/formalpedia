@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SingularCardinals_largeCardinals
 -- name    : SingularCardinals_largeCardinals
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:47:34.03629+00:00
 -- url     : https://prove2.me/theorems/49b2e7ae-6b58-494b-a5f7-f3880412abf5
 -- title:

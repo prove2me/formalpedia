@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_lindblad_tendsto_pinching
 -- name    : ProjectiveMeasurementEquilibration.lindblad_tendsto_pinching
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:51:04.810096+00:00
 -- url     : https://prove2.me/theorems/274e3c19-2053-4891-8935-b89cb430f02e
 -- title:

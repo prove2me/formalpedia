@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_exponent_isNat_of_rpow_isNat
 -- name    : HardyFiveAxioms.exponent_isNat_of_rpow_isNat
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:44:47.806258+00:00
 -- url     : https://prove2.me/theorems/cfc0b097-0c6b-4331-8eab-3b34e17efd5d
 -- title:

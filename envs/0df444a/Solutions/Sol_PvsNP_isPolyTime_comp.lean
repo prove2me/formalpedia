@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PvsNP.isPolyTime_comp
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T07:20:21.993625+00:00
 -- url     : https://prove2.me/submissions/8b9e413d-107f-462f-bfa0-5e255ca4b7e2
 

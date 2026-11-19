@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_rate1_condEPPRG_of_owf
 -- name    : LiuPass.rate1_condEPPRG_of_owf
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:40:55.459039+00:00
 -- url     : https://prove2.me/theorems/acacaa39-2743-46c3-88bc-a12565d82e6e
 -- title:

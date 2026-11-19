@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleTension_jwst_crowding_lowers_H0
 -- name    : HubbleTension.jwst_crowding_lowers_H0
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:26:33.304482+00:00
 -- url     : https://prove2.me/theorems/b6370175-941c-4bf6-8a82-adeada96647d
 -- title:

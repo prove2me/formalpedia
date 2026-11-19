@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_fiducialProjector_card_linearIndependent
 -- name    : HardyFiveAxioms.fiducialProjector_card_linearIndependent
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T21:46:25.763982+00:00
 -- url     : https://prove2.me/theorems/ea0608eb-7b71-492c-9915-4ab05e9f8aba
 -- title:

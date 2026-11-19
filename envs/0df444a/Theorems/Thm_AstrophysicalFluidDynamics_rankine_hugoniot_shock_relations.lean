@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_rankine_hugoniot_shock_relations
 -- name    : AstrophysicalFluidDynamics.rankine_hugoniot_shock_relations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T15:48:33.214976+00:00
 -- url     : https://prove2.me/theorems/19441381-b62b-437e-9699-f275b7fef998
 -- title:

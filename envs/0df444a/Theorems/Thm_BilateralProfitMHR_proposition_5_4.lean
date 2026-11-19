@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitMHR_proposition_5_4
 -- name    : BilateralProfitMHR.proposition_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:20:08.664214+00:00
 -- url     : https://prove2.me/theorems/f195f949-c9e6-4231-b957-7bdab90a7df4

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isQuasiComplete_testFunction
 -- name    : GarrettFA.isQuasiComplete_testFunction
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:34:28.788514+00:00
 -- url     : https://prove2.me/theorems/66acb52e-1196-4f1f-86ce-03cc9658627e
 -- title:

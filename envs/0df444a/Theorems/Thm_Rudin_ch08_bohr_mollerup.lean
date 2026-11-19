@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_bohr_mollerup
 -- name    : Rudin.ch08_bohr_mollerup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:32:10.063878+00:00
 -- url     : https://prove2.me/theorems/03e387a6-283e-4d23-b7fb-352964c81c5d
 -- title:

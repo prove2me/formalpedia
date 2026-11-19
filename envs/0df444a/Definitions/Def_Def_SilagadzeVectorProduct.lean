@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Def_SilagadzeVectorProduct
 -- name    : Def_SilagadzeVectorProduct
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:03:33.074361+00:00
 -- url     : https://prove2.me/theorems/12a19c4c-992b-4b6b-84b2-ea69edde0af6
 -- title:

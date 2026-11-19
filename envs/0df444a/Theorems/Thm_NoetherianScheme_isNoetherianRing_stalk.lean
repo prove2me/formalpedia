@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_isNoetherianRing_stalk
 -- name    : NoetherianScheme.isNoetherianRing_stalk
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T22:35:28.99696+00:00
 -- url     : https://prove2.me/theorems/f4df8e45-e60f-4aee-af0e-2adcdcae447b
 -- title:

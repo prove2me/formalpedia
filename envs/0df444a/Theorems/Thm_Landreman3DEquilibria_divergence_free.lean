@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_divergence_free
 -- name    : Landreman3DEquilibria.divergence_free
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:55:53.628426+00:00
 -- url     : https://prove2.me/theorems/92bec2ff-2206-4f65-941e-99358d796f0d
 -- title:

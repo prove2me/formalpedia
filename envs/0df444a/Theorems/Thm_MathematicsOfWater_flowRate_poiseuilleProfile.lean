@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicsOfWater_flowRate_poiseuilleProfile
 -- name    : MathematicsOfWater.flowRate_poiseuilleProfile
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:56:48.706055+00:00
 -- url     : https://prove2.me/theorems/1d92acee-e47e-46ad-a539-0d5dd260ad1f
 -- title:

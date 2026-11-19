@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch01_order
 -- name    : Rudin_ch01_order
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:01:52.838935+00:00
 -- url     : https://prove2.me/theorems/b7a38513-8e68-4045-afac-d5275271ca48
 -- title:

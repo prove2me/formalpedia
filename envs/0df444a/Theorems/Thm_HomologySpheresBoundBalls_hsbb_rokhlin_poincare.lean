@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_rokhlin_poincare
 -- name    : HomologySpheresBoundBalls.hsbb_rokhlin_poincare
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:17:37.217676+00:00
 -- url     : https://prove2.me/theorems/040da2e0-d5af-4658-b8f7-8c1ecb6807da
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_dynamic_cut_interface
 -- name    : DecrAlmostLinearSSSP.Decremental.dynamic_cut_interface
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:53:28.794872+00:00
 -- url     : https://prove2.me/theorems/b9dc23be-5d52-4b7a-9ea7-3bdd12517c67

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_fundamental_lemma_of_calculus_of_variations
 -- name    : StationaryAction.fundamental_lemma_of_calculus_of_variations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:14:45.607838+00:00
 -- url     : https://prove2.me/theorems/393d8bc6-cfd5-4f75-af71-459907e0fdcd
 -- title:

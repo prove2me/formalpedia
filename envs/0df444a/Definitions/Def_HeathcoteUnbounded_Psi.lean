@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HeathcoteUnbounded_Psi
 -- name    : HeathcoteUnbounded_Psi
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:32:56.518179+00:00
 -- url     : https://prove2.me/theorems/9217caba-941b-45f9-8876-c213604650bd
 -- title:

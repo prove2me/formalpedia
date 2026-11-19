@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_lcm_lower
 -- name    : AKS.lcm_lower
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:51:09.889273+00:00
 -- url     : https://prove2.me/theorems/ac6e08ab-6c71-464f-93f8-cce29c49b8be
 -- title:

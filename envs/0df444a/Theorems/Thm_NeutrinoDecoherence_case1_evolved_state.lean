@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_case1_evolved_state
 -- name    : NeutrinoDecoherence.case1_evolved_state
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:05:49.055789+00:00
 -- url     : https://prove2.me/theorems/d9204c4d-7f88-4d1a-91ce-a1d9693c9612
 -- title:

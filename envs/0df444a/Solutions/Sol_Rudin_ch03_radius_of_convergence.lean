@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch03_radius_of_convergence
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:51:11.342741+00:00
 -- url     : https://prove2.me/submissions/bf0cac0e-8b24-414b-acf8-f8e3ab17c9d6
 

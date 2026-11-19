@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClassicalDynamics_core
 -- name    : ClassicalDynamics_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:34:44.32225+00:00
 -- url     : https://prove2.me/theorems/48bc409c-b951-4c93-b31a-a178b4ca6894
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sgCert1032
 -- name    : OAI.UniversalTensorSquare.sgCert1032
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-18T00:13:36.196421+00:00
 -- url     : https://prove2.me/theorems/7c1a35cf-8ba6-4c69-9859-663f9b1b84d7

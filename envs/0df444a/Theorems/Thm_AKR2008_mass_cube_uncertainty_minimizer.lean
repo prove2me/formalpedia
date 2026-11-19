@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_mass_cube_uncertainty_minimizer
 -- name    : AKR2008.mass_cube_uncertainty_minimizer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:32:54.686308+00:00
 -- url     : https://prove2.me/theorems/6eeb269d-2c42-4f96-b4f4-59cc12500137
 -- title:

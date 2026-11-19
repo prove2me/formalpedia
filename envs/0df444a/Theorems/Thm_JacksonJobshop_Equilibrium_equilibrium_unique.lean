@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JacksonJobshop_Equilibrium_equilibrium_unique
 -- name    : JacksonJobshop.Equilibrium.equilibrium_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:14:47.225492+00:00
 -- url     : https://prove2.me/theorems/c2ee0aed-1456-401c-a5a6-a0e129f09eec

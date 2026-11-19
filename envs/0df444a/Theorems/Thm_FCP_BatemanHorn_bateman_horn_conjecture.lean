@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_BatemanHorn_bateman_horn_conjecture
 -- name    : FCP.BatemanHorn.bateman_horn_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:13:26.596179+00:00
 -- url     : https://prove2.me/theorems/affe3851-b008-4dc6-a005-f55d8f117771
 -- title:

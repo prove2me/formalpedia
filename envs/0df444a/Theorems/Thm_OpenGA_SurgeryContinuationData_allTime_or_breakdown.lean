@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OpenGA_SurgeryContinuationData_allTime_or_breakdown
 -- name    : OpenGA.SurgeryContinuationData.allTime_or_breakdown
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:54:13.837985+00:00
 -- url     : https://prove2.me/theorems/43392861-c04f-447a-beca-91e394acabf1
 -- title:

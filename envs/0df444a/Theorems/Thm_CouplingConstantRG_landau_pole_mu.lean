@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_landau_pole_mu
 -- name    : CouplingConstantRG.landau_pole_mu
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T15:49:13.586377+00:00
 -- url     : https://prove2.me/theorems/751c9ef5-39d7-4797-b5c1-27888520a45d
 -- title:

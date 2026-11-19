@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_linearNet_mean_zero
 -- name    : DeepLearningTheory.linearNet_mean_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:17:29.493184+00:00
 -- url     : https://prove2.me/theorems/37ad29ea-a8bc-4325-a720-681bbdc8d428
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_rasmussenS_unknot
 -- name    : ManolescuPiccirillo.rasmussenS_unknot
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:54:33.087144+00:00
 -- url     : https://prove2.me/theorems/fbe8bd60-3260-4191-a64b-49409fac9863
 -- title:

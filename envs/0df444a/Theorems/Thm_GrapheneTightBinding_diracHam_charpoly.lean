@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_diracHam_charpoly
 -- name    : GrapheneTightBinding.diracHam_charpoly
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:24:22.901262+00:00
 -- url     : https://prove2.me/theorems/dce1bdf3-cf11-4a90-9222-386924488ce2
 -- title:

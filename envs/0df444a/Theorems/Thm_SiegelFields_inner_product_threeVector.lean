@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_inner_product_threeVector
 -- name    : SiegelFields.inner_product_threeVector
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:17:47.621105+00:00
 -- url     : https://prove2.me/theorems/cab6d7bb-886c-403b-9f5b-203f04584cb5
 -- title:

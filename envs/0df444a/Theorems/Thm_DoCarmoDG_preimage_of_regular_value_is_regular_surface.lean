@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_preimage_of_regular_value_is_regular_surface
 -- name    : DoCarmoDG.preimage_of_regular_value_is_regular_surface
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:28:34.719498+00:00
 -- url     : https://prove2.me/theorems/5c757842-52f8-4257-be8f-c250186fdb79
 -- title:

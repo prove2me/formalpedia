@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesBAI_proposition_9
 -- name    : BayesBAI.proposition_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:52:55.572507+00:00
 -- url     : https://prove2.me/theorems/7b97f934-7336-4681-9816-c984aa974afd

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_identity_theorem
 -- name    : Rudin.ch08_identity_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:55:13.140238+00:00
 -- url     : https://prove2.me/theorems/73cd5f5f-d77a-40bc-80c6-07831e91856a
 -- title:

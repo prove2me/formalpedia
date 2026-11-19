@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_vacuum_condition
 -- name    : WeinbergLeptons.vacuum_condition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:02:50.495933+00:00
 -- url     : https://prove2.me/theorems/86de21d7-201e-4cdd-8628-a86e97611ce4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_generalized_chazy_of_darboux_halphen
 -- name    : SDYM.generalized_chazy_of_darboux_halphen
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:49:18.522128+00:00
 -- url     : https://prove2.me/theorems/c9039c47-783e-4be6-b913-0578dd314a5c
 -- title:

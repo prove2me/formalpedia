@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_VaryingConstants_units
 -- name    : VaryingConstants_units
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T01:20:00.653988+00:00
 -- url     : https://prove2.me/theorems/f67bd9d9-8553-45b8-bf4d-49ea0e6dcc0b
 -- title:

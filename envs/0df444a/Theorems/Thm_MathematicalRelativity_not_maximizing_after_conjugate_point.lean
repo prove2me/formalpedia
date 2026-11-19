@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_not_maximizing_after_conjugate_point
 -- name    : MathematicalRelativity.not_maximizing_after_conjugate_point
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:21:25.122677+00:00
 -- url     : https://prove2.me/theorems/a01ceee1-a19e-4903-b097-c51a31ee6a28
 -- title:

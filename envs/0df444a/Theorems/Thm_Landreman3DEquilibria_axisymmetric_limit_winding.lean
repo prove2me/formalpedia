@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_axisymmetric_limit_winding
 -- name    : Landreman3DEquilibria.axisymmetric_limit_winding
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:25:53.35551+00:00
 -- url     : https://prove2.me/theorems/30df1504-4e82-4f84-b147-c85976be8d70
 -- title:

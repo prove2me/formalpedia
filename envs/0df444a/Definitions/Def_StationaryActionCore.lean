@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_StationaryActionCore
 -- name    : StationaryActionCore
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:49:00.209914+00:00
 -- url     : https://prove2.me/theorems/2c903024-08b1-473c-ad72-b2c04d034052
 -- title:

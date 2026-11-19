@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCTriFree_Circuit_corollary_8
 -- name    : QMCTriFree.Circuit.corollary_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:12.960993+00:00
 -- url     : https://prove2.me/theorems/058935a6-9308-4dcf-8c17-4fe65520c88c

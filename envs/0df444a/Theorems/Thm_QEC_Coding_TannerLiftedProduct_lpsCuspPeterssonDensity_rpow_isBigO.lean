@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsCuspPeterssonDensity_rpow_isBigO
 -- name    : QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonDensity_rpow_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T09:22:10.316406+00:00
 -- url     : https://prove2.me/theorems/b8f43ad2-d028-4723-b651-43a82ec0e260

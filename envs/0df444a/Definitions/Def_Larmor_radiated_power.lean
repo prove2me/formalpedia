@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Larmor_radiated_power
 -- name    : Larmor_radiated_power
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:06:19.880661+00:00
 -- url     : https://prove2.me/theorems/f4eb98e0-7e41-478b-99e6-d92f378f405a
 -- title:

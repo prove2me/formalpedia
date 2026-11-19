@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Hairer_testFunction_decomposition_scaledTest
 -- name    : Hairer.testFunction_decomposition_scaledTest
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T06:01:14.966978+00:00
 -- url     : https://prove2.me/theorems/5f35dcbf-5c91-491e-8757-2db9ac4cddbd
 -- title:

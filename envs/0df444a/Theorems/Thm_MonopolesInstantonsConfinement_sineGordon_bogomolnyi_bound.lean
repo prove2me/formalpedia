@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_sineGordon_bogomolnyi_bound
 -- name    : MonopolesInstantonsConfinement.sineGordon_bogomolnyi_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:23:46.647981+00:00
 -- url     : https://prove2.me/theorems/912ec2be-dfb5-4ea5-a01c-d84bd25b0607
 -- title:

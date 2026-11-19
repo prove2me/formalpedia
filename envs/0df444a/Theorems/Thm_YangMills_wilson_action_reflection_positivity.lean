@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMills_wilson_action_reflection_positivity
 -- name    : YangMills.wilson_action_reflection_positivity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T12:54:11.265708+00:00
 -- url     : https://prove2.me/theorems/ecb33ffe-df59-4e79-a9b8-db90d1d6f4dc
 -- title:

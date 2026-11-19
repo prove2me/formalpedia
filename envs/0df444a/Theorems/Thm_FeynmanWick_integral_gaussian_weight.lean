@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FeynmanWick_integral_gaussian_weight
 -- name    : FeynmanWick.integral_gaussian_weight
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:00:42.72939+00:00
 -- url     : https://prove2.me/theorems/3951d648-1252-4d8a-907e-097f6e694958
 -- title:

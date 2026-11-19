@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_bottcher_continuation
 -- name    : ray_bottcher_continuation
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:09:18.109389+00:00
 -- url     : https://prove2.me/theorems/c6ee74d2-70e9-493d-9c2f-3e59a4ecc95e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LamLitt_lam_litt_conjecture
 -- name    : LamLitt.lam_litt_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T16:42:52.981807+00:00
 -- url     : https://prove2.me/theorems/7f942e51-c7f7-4b1a-a63e-e4b8cb92c23e
 -- title:

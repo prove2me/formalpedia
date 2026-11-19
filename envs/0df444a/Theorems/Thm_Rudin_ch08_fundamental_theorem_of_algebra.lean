@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_fundamental_theorem_of_algebra
 -- name    : Rudin.ch08_fundamental_theorem_of_algebra
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:21:34.166088+00:00
 -- url     : https://prove2.me/theorems/629b7940-4390-403b-8a69-ca3a05802273
 -- title:

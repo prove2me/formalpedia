@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FourToOneGames_exists_rank_one_nae_form
 -- name    : FourToOneGames.exists_rank_one_nae_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:41:37.798906+00:00
 -- url     : https://prove2.me/theorems/5a15f1c9-26dc-465f-9d5d-e5dff3efff81
 -- title:

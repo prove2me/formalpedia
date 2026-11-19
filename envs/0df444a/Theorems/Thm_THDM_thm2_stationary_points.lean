@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_THDM_thm2_stationary_points
 -- name    : THDM.thm2_stationary_points
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:58:07.673778+00:00
 -- url     : https://prove2.me/theorems/5d90a625-8a95-4f9c-81c0-8e96b464c941
 -- title:

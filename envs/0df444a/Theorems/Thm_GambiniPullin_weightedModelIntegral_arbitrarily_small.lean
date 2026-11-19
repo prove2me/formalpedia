@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GambiniPullin_weightedModelIntegral_arbitrarily_small
 -- name    : GambiniPullin.weightedModelIntegral_arbitrarily_small
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:17:59.795493+00:00
 -- url     : https://prove2.me/theorems/79f7661b-1fbb-45d3-bca7-2c0f1869ff04
 -- title:

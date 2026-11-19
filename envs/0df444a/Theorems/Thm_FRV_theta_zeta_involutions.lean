@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_theta_zeta_involutions
 -- name    : FRV.theta_zeta_involutions
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:38.46069+00:00
 -- url     : https://prove2.me/theorems/6a324de0-9c5b-4588-a23e-1b17568fcd64
 -- title:

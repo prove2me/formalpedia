@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_projective_measurement_equilibration
 -- name    : ProjectiveMeasurementEquilibration.projective_measurement_equilibration
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T19:34:38.306824+00:00
 -- url     : https://prove2.me/theorems/ba925f9a-388e-4053-933d-5e81546e4bfb
 -- title:

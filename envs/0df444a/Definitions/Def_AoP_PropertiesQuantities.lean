@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AoP_PropertiesQuantities
 -- name    : AoP_PropertiesQuantities
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:18:34.112838+00:00
 -- url     : https://prove2.me/theorems/092a5b2c-155f-4fe9-90c1-94c2ac5c25a3
 -- title:

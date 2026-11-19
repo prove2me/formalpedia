@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckFreq_div_wienFreq_tendsto_one
 -- name    : BlackbodyRadiation.planckFreq_div_wienFreq_tendsto_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:02:44.267914+00:00
 -- url     : https://prove2.me/theorems/27c86e17-9b5b-463c-8523-63422c4a620b
 -- title:

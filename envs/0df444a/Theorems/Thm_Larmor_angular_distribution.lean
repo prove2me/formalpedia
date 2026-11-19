@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_angular_distribution
 -- name    : Larmor.angular_distribution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:21:03.040987+00:00
 -- url     : https://prove2.me/theorems/1193a267-d554-42d8-904c-6823711a3947
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_delta_self_energy
 -- name    : Penrose.delta_self_energy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:23:40.773168+00:00
 -- url     : https://prove2.me/theorems/8db386e4-1d45-496c-ab3d-fbfe978debc4
 -- title:

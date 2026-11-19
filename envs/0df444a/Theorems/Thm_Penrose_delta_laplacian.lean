@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_delta_laplacian
 -- name    : Penrose.delta_laplacian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:21:19.374202+00:00
 -- url     : https://prove2.me/theorems/402e839e-ddc4-4950-ba2d-30ccf849cf19
 -- title:

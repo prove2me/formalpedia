@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_exp_properties
 -- name    : Rudin.ch08_exp_properties
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:16:18.3836+00:00
 -- url     : https://prove2.me/theorems/2ab00fc3-ac0f-45d7-8f9a-d06e1af7eae4
 -- title:

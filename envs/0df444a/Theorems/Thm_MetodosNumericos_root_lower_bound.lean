@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_root_lower_bound
 -- name    : MetodosNumericos.root_lower_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:35:35.78868+00:00
 -- url     : https://prove2.me/theorems/99a60568-2bf0-4659-bae1-47122ff74c4e
 -- title:

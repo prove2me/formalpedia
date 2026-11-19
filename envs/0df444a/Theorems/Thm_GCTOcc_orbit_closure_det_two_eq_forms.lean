@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCTOcc_orbit_closure_det_two_eq_forms
 -- name    : GCTOcc.orbit_closure_det_two_eq_forms
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:13:38.338836+00:00
 -- url     : https://prove2.me/theorems/a895c4a2-3041-4cbe-87e9-3aa2da5c19e3
 -- title:

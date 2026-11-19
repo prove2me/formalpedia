@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ArithmeticKakeya_grid
 -- name    : ArithmeticKakeya_grid
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:54:27.809525+00:00
 -- url     : https://prove2.me/theorems/b0b3cd43-ed82-4983-9dd2-ccfe33acda5e
 -- title:

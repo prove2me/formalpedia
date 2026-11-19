@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NgoFL.resultant_weyl_invariant_of_isReduced
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:45:42.416976+00:00
 -- url     : https://prove2.me/submissions/217af679-cc3c-4858-b069-c4bd0bbdfd79
 

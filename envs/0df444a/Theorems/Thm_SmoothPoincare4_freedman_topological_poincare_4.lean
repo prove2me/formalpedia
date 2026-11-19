@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothPoincare4_freedman_topological_poincare_4
 -- name    : SmoothPoincare4.freedman_topological_poincare_4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:50:52.219186+00:00
 -- url     : https://prove2.me/theorems/ac6ab4dc-5e2c-4dfd-9783-6580d27feaf9
 -- title:

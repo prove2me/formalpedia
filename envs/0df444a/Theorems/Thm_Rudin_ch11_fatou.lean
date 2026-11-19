@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_fatou
 -- name    : Rudin.ch11_fatou
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:35:38.032591+00:00
 -- url     : https://prove2.me/theorems/8d3d3b89-72db-4663-8c2f-43f45e4c1e80
 -- title:

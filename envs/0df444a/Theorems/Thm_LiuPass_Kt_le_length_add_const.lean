@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_Kt_le_length_add_const
 -- name    : LiuPass.Kt_le_length_add_const
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:24:48.727621+00:00
 -- url     : https://prove2.me/theorems/a9177634-6753-40c9-8e9a-3c494edbb964
 -- title:

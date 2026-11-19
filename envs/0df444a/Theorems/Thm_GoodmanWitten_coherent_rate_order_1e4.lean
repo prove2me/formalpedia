@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_coherent_rate_order_1e4
 -- name    : GoodmanWitten.coherent_rate_order_1e4
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:53:40.868415+00:00
 -- url     : https://prove2.me/theorems/053b2d6d-bfb9-4b13-b144-e3742a0210d8
 -- title:

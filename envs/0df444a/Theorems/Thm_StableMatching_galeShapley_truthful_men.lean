@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_galeShapley_truthful_men
 -- name    : StableMatching.galeShapley_truthful_men
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:42:48.233099+00:00
 -- url     : https://prove2.me/theorems/fb840d91-e3f5-4bfc-a1af-9ae154957657
 -- title:

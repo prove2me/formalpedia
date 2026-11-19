@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DoCarmo_regular_surface
 -- name    : DoCarmo_regular_surface
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:20:25.260266+00:00
 -- url     : https://prove2.me/theorems/f5a6355b-8ac8-47fc-9d2c-b30f7b38e76c
 -- title:

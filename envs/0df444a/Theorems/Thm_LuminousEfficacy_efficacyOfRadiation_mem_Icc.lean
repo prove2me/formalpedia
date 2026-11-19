@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_efficacyOfRadiation_mem_Icc
 -- name    : LuminousEfficacy.efficacyOfRadiation_mem_Icc
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:04:42.706595+00:00
 -- url     : https://prove2.me/theorems/6875d664-af2f-48ed-a8d4-4928d3d3dd38
 -- title:

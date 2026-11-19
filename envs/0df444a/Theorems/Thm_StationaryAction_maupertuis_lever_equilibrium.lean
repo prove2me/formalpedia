@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_maupertuis_lever_equilibrium
 -- name    : StationaryAction.maupertuis_lever_equilibrium
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:43:31.532982+00:00
 -- url     : https://prove2.me/theorems/2cff3da6-0d40-4eea-ae5e-e325dafa0844
 -- title:

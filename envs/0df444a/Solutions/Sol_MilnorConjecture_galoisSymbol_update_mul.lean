@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MilnorConjecture.galoisSymbol_update_mul
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T12:05:49.040899+00:00
 -- url     : https://prove2.me/submissions/72312ac7-bcd7-4e04-a6ed-481b60e48cae
 

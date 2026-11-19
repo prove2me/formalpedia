@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OpenGA.SurgeryVolumeProfile.surgeryTimes_finite
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:38:16.362905+00:00
 -- url     : https://prove2.me/submissions/0bdb1113-003c-4526-ba2c-da96eb7ceff0
 

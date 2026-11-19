@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_optical_units_from_caesium_parameters
 -- name    : CaesiumStandard.optical_units_from_caesium_parameters
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:40:36.342989+00:00
 -- url     : https://prove2.me/theorems/f99b3264-4515-4099-b37b-669c950c2fb3
 -- title:

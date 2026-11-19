@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SingularCardinals_PFA
 -- name    : SingularCardinals_PFA
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:47:46.902851+00:00
 -- url     : https://prove2.me/theorems/49a6ac39-9273-4e96-bb44-a49daa250299
 -- title:

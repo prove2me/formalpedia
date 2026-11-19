@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IwasawaMainConjecture_algebraic
 -- name    : IwasawaMainConjecture_algebraic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T17:22:18.235734+00:00
 -- url     : https://prove2.me/theorems/33979f46-afaf-4ddb-a31f-4e682c3919bb
 -- title:

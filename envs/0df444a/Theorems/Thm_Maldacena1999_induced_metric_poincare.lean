@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_induced_metric_poincare
 -- name    : Maldacena1999.induced_metric_poincare
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:26:12.0539+00:00
 -- url     : https://prove2.me/theorems/65b100ba-d2ae-4e85-9e54-37459805e962
 -- title:

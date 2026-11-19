@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PolyaLaplacian_Spectral
 -- name    : PolyaLaplacian_Spectral
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:16:43.82886+00:00
 -- url     : https://prove2.me/theorems/71f7b42e-a08f-423c-927c-b16d9f612639
 -- title:

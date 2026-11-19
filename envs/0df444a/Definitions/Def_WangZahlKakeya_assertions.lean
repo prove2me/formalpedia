@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WangZahlKakeya_assertions
 -- name    : WangZahlKakeya_assertions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T11:28:40.374036+00:00
 -- url     : https://prove2.me/theorems/34c8a706-556e-4e00-be89-efd5d3e5b215
 -- title:

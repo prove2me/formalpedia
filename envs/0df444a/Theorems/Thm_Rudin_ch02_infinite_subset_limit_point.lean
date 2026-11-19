@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_infinite_subset_limit_point
 -- name    : Rudin.ch02_infinite_subset_limit_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:50:02.445374+00:00
 -- url     : https://prove2.me/theorems/72d51032-af65-4e9f-98af-b90a4a432087
 -- title:

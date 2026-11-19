@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Levin2003_hashPair_siblings_le_one
 -- name    : Levin2003.hashPair_siblings_le_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:02:48.692466+00:00
 -- url     : https://prove2.me/theorems/9d8343be-12f5-4565-b208-6a967bea002e
 -- title:

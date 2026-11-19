@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ConnesRZ_weil_defs
 -- name    : ConnesRZ_weil_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:52:07.965273+00:00
 -- url     : https://prove2.me/theorems/1ba757cc-8991-4e58-abf7-f8eee1db65da
 -- title:

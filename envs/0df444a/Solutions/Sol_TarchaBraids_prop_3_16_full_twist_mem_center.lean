@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TarchaBraids.prop_3_16_full_twist_mem_center
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T05:27:01.746081+00:00
 -- url     : https://prove2.me/submissions/b746f22d-5c7b-4d18-8d80-d7331cde0f35
 

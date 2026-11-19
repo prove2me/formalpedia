@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AkhmedovNeutrino_msw_transition_probability
 -- name    : AkhmedovNeutrino.msw_transition_probability
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:18:02.065678+00:00
 -- url     : https://prove2.me/theorems/a1e45009-407e-4f79-9b51-011910892b61
 -- title:

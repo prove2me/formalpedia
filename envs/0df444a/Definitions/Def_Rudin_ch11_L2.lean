@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch11_L2
 -- name    : Rudin_ch11_L2
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:06:34.834695+00:00
 -- url     : https://prove2.me/theorems/192a7d3c-8661-4c87-aca4-12b99b4aac70
 -- title:

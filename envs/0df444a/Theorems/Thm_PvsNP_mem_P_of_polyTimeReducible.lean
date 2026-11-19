@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_mem_P_of_polyTimeReducible
 -- name    : PvsNP.mem_P_of_polyTimeReducible
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:45:58.432481+00:00
 -- url     : https://prove2.me/theorems/4c2659f1-5d7a-4f5a-8b76-6119b3d90bcb
 -- title:

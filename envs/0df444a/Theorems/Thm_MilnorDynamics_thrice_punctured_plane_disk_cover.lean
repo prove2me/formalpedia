@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_thrice_punctured_plane_disk_cover
 -- name    : MilnorDynamics.thrice_punctured_plane_disk_cover
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T10:43:17.127987+00:00
 -- url     : https://prove2.me/theorems/9e9af915-3edd-47b0-8f23-44d7784f2f1f
 -- title:

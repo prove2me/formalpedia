@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_universal_tensor_square_five
 -- name    : OAI.UniversalTensorSquare.universal_tensor_square_five
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:06:45.590013+00:00
 -- url     : https://prove2.me/theorems/60c12d33-1c8b-4901-aeb0-597ee299df11

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCTOcc_gct_hardness_hypothesis
 -- name    : GCTOcc.gct_hardness_hypothesis
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T18:03:32.861855+00:00
 -- url     : https://prove2.me/theorems/246e2069-28fe-4f54-bb26-eb1d049ece67
 -- title:

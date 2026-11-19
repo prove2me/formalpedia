@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_cpt_invariance
 -- name    : LipariNeutrino.cpt_invariance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T12:03:39.289316+00:00
 -- url     : https://prove2.me/theorems/50e2fae1-4a37-44f7-b6ae-3aba271e9e7d
 -- title:

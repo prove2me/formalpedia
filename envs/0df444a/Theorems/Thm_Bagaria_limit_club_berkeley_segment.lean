@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Bagaria_limit_club_berkeley_segment
 -- name    : Bagaria.limit_club_berkeley_segment
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:16:53.804046+00:00
 -- url     : https://prove2.me/theorems/9d08773f-86a4-4afb-87e8-1de22a4016e2
 -- title:

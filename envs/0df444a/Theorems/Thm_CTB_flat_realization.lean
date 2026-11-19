@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_flat_realization
 -- name    : CTB.flat_realization
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:12:59.992063+00:00
 -- url     : https://prove2.me/theorems/3bd47ef9-6d50-4c03-a894-c0c7e17cd088
 -- title:

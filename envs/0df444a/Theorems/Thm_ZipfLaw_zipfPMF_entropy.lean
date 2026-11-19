@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipfPMF_entropy
 -- name    : ZipfLaw.zipfPMF_entropy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:54.829425+00:00
 -- url     : https://prove2.me/theorems/67f9705e-99e7-4852-8806-bfb0baaefc89
 -- title:

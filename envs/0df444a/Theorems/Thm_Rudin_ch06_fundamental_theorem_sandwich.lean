@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_fundamental_theorem_sandwich
 -- name    : Rudin.ch06_fundamental_theorem_sandwich
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T20:49:07.3788+00:00
 -- url     : https://prove2.me/theorems/6d3eed34-7f20-4035-860b-9fcb9b74a749
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RelPartMech_covDeriv_antisymm_contra
 -- name    : RelPartMech.covDeriv_antisymm_contra
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:12:25.837479+00:00
 -- url     : https://prove2.me/theorems/3833e9d2-15db-4c1c-b750-b11b1df41fd8
 -- title:

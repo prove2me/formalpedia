@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_mem_P_iff_P_eq_NP_of_NPComplete
 -- name    : PvsNP.mem_P_iff_P_eq_NP_of_NPComplete
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:48:59.077764+00:00
 -- url     : https://prove2.me/theorems/483f16a6-6e7a-4c2a-9732-e933c280c2e8
 -- title:

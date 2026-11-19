@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_regulator_eq_one_of_rat_or_imaginary_quadratic
 -- name    : DirichletUnitTheorem.regulator_eq_one_of_rat_or_imaginary_quadratic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:34:37.110906+00:00
 -- url     : https://prove2.me/theorems/7dfac2d2-43b8-42fa-9eb0-e52c86e353fb
 -- title:

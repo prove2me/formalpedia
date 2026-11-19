@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RydbergConstant_bohr_rydberg_formula_inf
 -- name    : RydbergConstant.bohr_rydberg_formula_inf
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:25:28.963469+00:00
 -- url     : https://prove2.me/theorems/04f53127-f2e7-42c5-a33b-072fd7f6fe49
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AkhmedovNeutrino_common_phase_irrelevant
 -- name    : AkhmedovNeutrino.common_phase_irrelevant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:08:35.056249+00:00
 -- url     : https://prove2.me/theorems/38bb14b4-2357-4866-a7e7-3f4f521b3d19
 -- title:

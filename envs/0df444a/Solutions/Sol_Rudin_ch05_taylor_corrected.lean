@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch05_taylor_corrected
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:55:55.759822+00:00
 -- url     : https://prove2.me/submissions/1c9e0746-fd57-4f4f-b099-5737938edfb9
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_image_dimension_in_ch
 -- name    : APSCounting893.Main.image_dimension_in_ch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:27:34.774181+00:00
 -- url     : https://prove2.me/theorems/242225f4-3c43-4de1-9569-1d8d799ce14b

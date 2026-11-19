@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_christoffel_system
 -- name    : DoCarmoDG.christoffel_system
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:02:48.535828+00:00
 -- url     : https://prove2.me/theorems/f256b385-b02b-496c-afbe-340d6eec70da
 -- title:

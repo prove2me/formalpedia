@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkdownReadjust_lemma_EC_5
 -- name    : MarkdownReadjust.lemma_EC_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:11:54.731996+00:00
 -- url     : https://prove2.me/theorems/1bde005e-191d-4ead-a17c-8b739cb7500c

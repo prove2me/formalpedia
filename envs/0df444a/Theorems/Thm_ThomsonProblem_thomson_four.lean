@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonProblem_thomson_four
 -- name    : ThomsonProblem.thomson_four
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:12:15.203434+00:00
 -- url     : https://prove2.me/theorems/9b304ed3-8879-48d3-bb99-fc71b7e9267b
 -- title:

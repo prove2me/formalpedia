@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CursoEDO_contraction_fixed_point
 -- name    : CursoEDO.contraction_fixed_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:18:44.112829+00:00
 -- url     : https://prove2.me/theorems/4a49c22a-178a-4b7a-bbc6-b2c6ab708e75
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_lhospital
 -- name    : Rudin.ch05_lhospital
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:08:40.540051+00:00
 -- url     : https://prove2.me/theorems/284cea74-a06f-4617-b542-18974958ea72
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_phi4_bogomolnyi_bound
 -- name    : MonopolesInstantonsConfinement.phi4_bogomolnyi_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:22:52.914619+00:00
 -- url     : https://prove2.me/theorems/f901c7ad-9bef-4190-9873-06daeea95134
 -- title:

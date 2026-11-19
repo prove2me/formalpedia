@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_stieltjes_integration_by_parts
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T20:01:45.900285+00:00
 -- url     : https://prove2.me/submissions/9c233307-b2c7-42f6-835e-04c5554aa96c
 

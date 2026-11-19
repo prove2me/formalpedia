@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_twin_primes_from_first
 -- name    : HardyLittlewood.twin_primes_from_first
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:48:22.278911+00:00
 -- url     : https://prove2.me/theorems/d4624e39-dfb4-4565-85b0-f85e95cab827
 -- title:

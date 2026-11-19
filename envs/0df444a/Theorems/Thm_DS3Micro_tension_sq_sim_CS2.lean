@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DS3Micro_tension_sq_sim_CS2
 -- name    : DS3Micro.tension_sq_sim_CS2
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:38:30.149794+00:00
 -- url     : https://prove2.me/theorems/2b30697c-bbab-478c-a8ff-981e3cbc385c
 -- title:

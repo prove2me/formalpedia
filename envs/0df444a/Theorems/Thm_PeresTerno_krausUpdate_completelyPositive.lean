@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_krausUpdate_completelyPositive
 -- name    : PeresTerno.krausUpdate_completelyPositive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T02:11:27.685482+00:00
 -- url     : https://prove2.me/theorems/8e766928-d271-416a-a29f-a1c607822cf0
 -- title:

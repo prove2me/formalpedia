@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ValuativeSYZ_degeneration
 -- name    : ValuativeSYZ_degeneration
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:08:21.593973+00:00
 -- url     : https://prove2.me/theorems/3b663fd2-0fd8-4370-92a1-147f76fc2ff2
 -- title:

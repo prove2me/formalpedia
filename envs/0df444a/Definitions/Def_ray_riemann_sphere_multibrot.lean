@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_riemann_sphere_multibrot
 -- name    : ray_riemann_sphere_multibrot
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:11:21.678337+00:00
 -- url     : https://prove2.me/theorems/ea31aeee-c008-462e-87c5-8940a65846d1
 -- title:

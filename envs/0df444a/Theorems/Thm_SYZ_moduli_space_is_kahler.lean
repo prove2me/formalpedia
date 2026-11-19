@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SYZ_moduli_space_is_kahler
 -- name    : SYZ.moduli_space_is_kahler
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T04:16:24.491927+00:00
 -- url     : https://prove2.me/theorems/99d502a6-8f92-4cb2-ae58-31829f0bcc64
 -- title:

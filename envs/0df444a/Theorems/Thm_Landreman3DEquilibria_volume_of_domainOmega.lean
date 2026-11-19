@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_volume_of_domainOmega
 -- name    : Landreman3DEquilibria.volume_of_domainOmega
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:23:52.7012+00:00
 -- url     : https://prove2.me/theorems/21286782-571a-4102-bac2-b1bd62a06bd8
 -- title:

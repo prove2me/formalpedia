@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCT_abv_dc_perm_three_four
 -- name    : GCT.abv_dc_perm_three_four
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:24:39.479282+00:00
 -- url     : https://prove2.me/theorems/f39add4e-f5d0-4aaa-b17e-ab090aa15530
 -- title:

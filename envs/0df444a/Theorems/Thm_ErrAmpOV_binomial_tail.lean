@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrAmpOV_binomial_tail
 -- name    : ErrAmpOV.binomial_tail
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:37:53.907031+00:00
 -- url     : https://prove2.me/theorems/e9121ecb-1994-43c2-a84b-e842d80e8fde

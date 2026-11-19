@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_second_law_compression
 -- name    : AstrophysicalFluidDynamics.shock_second_law_compression
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:35:45.328464+00:00
 -- url     : https://prove2.me/theorems/34036588-9ca2-42e0-85ba-82933765cc5c
 -- title:

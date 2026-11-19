@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_multibrot_potential
 -- name    : ray_multibrot_potential
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:14:12.649059+00:00
 -- url     : https://prove2.me/theorems/8e959d49-4448-4c6a-bdd0-8a3c22f50e12
 -- title:

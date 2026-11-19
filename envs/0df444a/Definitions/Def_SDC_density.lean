@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SDC_density
 -- name    : SDC_density
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T04:13:32.802121+00:00
 -- url     : https://prove2.me/theorems/90bb50fa-0b24-4e8a-b3d6-9d2ef47b593b
 -- title:

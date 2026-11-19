@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HooftDimReduction_Defs
 -- name    : HooftDimReduction_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:17:55.448971+00:00
 -- url     : https://prove2.me/theorems/d8bdf70f-4a16-41d7-9553-eeef931703b2
 -- title:

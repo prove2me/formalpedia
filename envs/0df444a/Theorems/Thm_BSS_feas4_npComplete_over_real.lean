@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_feas4_npComplete_over_real
 -- name    : BSS.feas4_npComplete_over_real
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:16:06.818655+00:00
 -- url     : https://prove2.me/theorems/3699d273-a710-4f5e-9f15-efda861b1b05
 -- title:

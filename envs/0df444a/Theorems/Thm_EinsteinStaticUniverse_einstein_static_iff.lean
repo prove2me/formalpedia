@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_einstein_static_iff
 -- name    : EinsteinStaticUniverse.einstein_static_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:24:34.953763+00:00
 -- url     : https://prove2.me/theorems/583464e2-2f4f-43ec-8d83-6db8afab2382
 -- title:

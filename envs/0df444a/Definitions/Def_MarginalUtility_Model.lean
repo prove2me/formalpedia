@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MarginalUtility_Model
 -- name    : MarginalUtility_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:18.197983+00:00
 -- url     : https://prove2.me/theorems/0484bd1c-0b0b-47fb-9001-e4caf4713c79
 -- title:

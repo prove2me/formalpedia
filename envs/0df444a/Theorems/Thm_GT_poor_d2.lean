@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_poor_d2
 -- name    : GT.poor_d2
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:37.674981+00:00
 -- url     : https://prove2.me/theorems/7d46aca0-130e-4f73-bbcd-d478e1d12066
 -- title:

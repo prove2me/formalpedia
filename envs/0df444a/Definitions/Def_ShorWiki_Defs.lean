@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ShorWiki_Defs
 -- name    : ShorWiki_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:57:47.325541+00:00
 -- url     : https://prove2.me/theorems/f8f061fd-22b3-4b50-a3bc-7648cdeae452
 -- title:

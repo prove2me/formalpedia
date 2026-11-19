@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_t1Space_iff_approxVerifiable
 -- name    : AssumptionsOfPhysics.t1Space_iff_approxVerifiable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:49:55.829239+00:00
 -- url     : https://prove2.me/theorems/711cfcf2-3ccd-432e-8bbb-2e6112b10da0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_gaussPairAvg_relu
 -- name    : LesHouchesWidth.gaussPairAvg_relu
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:08:03.161692+00:00
 -- url     : https://prove2.me/theorems/387e018e-351f-4951-96a3-c4b8e639a3bc
 -- title:

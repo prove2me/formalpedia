@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SingularCardinals_basic
 -- name    : SingularCardinals_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:47:22.224337+00:00
 -- url     : https://prove2.me/theorems/2c96d0bf-fc6a-4780-a694-290689971715
 -- title:

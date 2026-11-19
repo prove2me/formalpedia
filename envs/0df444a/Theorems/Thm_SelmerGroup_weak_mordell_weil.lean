@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SelmerGroup_weak_mordell_weil
 -- name    : SelmerGroup.weak_mordell_weil
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:00:25.910113+00:00
 -- url     : https://prove2.me/theorems/e346f4e3-b36a-4ec7-aba0-4ec1e0765a3e
 -- title:

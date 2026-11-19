@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_abs_moment
 -- name    : KeatingSnaith.cue_abs_moment
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:13:44.658052+00:00
 -- url     : https://prove2.me/theorems/8f99f953-ed68-4ce0-9c39-6a75393c0955
 -- title:

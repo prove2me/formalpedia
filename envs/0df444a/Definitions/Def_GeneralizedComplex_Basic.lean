@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GeneralizedComplex_Basic
 -- name    : GeneralizedComplex_Basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:43:44.712644+00:00
 -- url     : https://prove2.me/theorems/6497eaf5-9bb9-4cb4-9915-0b563b604558
 -- title:

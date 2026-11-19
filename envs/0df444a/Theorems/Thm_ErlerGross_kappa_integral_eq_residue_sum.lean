@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_kappa_integral_eq_residue_sum
 -- name    : ErlerGross.kappa_integral_eq_residue_sum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:32:19.935739+00:00
 -- url     : https://prove2.me/theorems/f80b372c-59d4-41ad-92d1-1810854662ad
 -- title:

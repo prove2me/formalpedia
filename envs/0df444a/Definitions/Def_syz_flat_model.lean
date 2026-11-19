@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_syz_flat_model
 -- name    : syz_flat_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T03:50:26.569061+00:00
 -- url     : https://prove2.me/theorems/cca0c375-345d-4e58-9a8c-726dad59a06c
 -- title:

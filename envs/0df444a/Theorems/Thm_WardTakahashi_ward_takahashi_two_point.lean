@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WardTakahashi_ward_takahashi_two_point
 -- name    : WardTakahashi.ward_takahashi_two_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:44:58.046186+00:00
 -- url     : https://prove2.me/theorems/2677ab6a-43cf-4e25-b5eb-d72009a3cde1
 -- title:

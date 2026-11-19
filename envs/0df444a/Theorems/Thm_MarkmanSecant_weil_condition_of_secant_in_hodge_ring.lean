@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MarkmanSecant_weil_condition_of_secant_in_hodge_ring
 -- name    : MarkmanSecant.weil_condition_of_secant_in_hodge_ring
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T15:06:54.126503+00:00
 -- url     : https://prove2.me/theorems/79e76233-0a4e-431b-9f17-f84e78407c1e
 -- title:

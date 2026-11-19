@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_corollary1_order2_M_stable
 -- name    : STVFriedmann.corollary1_order2_M_stable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:58:22.95443+00:00
 -- url     : https://prove2.me/theorems/44ee2fb3-5556-4773-ab28-31d29de70e78
 -- title:

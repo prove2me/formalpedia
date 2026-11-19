@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BUP_tau1_witness
 -- name    : BUP.tau1_witness
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:28:02.714065+00:00
 -- url     : https://prove2.me/theorems/3d61611b-dbbb-4932-8ccc-5732f5ee0024
 -- title:

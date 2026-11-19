@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClausiusDuhem_local_of_integral
 -- name    : ClausiusDuhem.local_of_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:54.998197+00:00
 -- url     : https://prove2.me/theorems/9cf88209-9002-43f0-bfdd-ff8591ba0a15
 -- title:

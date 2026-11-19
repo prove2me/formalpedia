@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MilnorConjecture.norm_residue_ker_le_of_le_one
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:46:10.551743+00:00
 -- url     : https://prove2.me/submissions/20522ce9-c786-44eb-9471-79d6e1133f11
 

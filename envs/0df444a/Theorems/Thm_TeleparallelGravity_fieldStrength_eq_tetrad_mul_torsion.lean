@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TeleparallelGravity_fieldStrength_eq_tetrad_mul_torsion
 -- name    : TeleparallelGravity.fieldStrength_eq_tetrad_mul_torsion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T22:36:24.155707+00:00
 -- url     : https://prove2.me/theorems/e7a286aa-7db9-460b-8202-0e29201c42a4
 -- title:

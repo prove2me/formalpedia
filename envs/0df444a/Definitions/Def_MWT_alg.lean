@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MWT_alg
 -- name    : MWT_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:09:04.694001+00:00
 -- url     : https://prove2.me/theorems/c0e4057b-d627-4e44-99c7-c4a823daeb27
 -- title:

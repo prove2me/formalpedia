@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_center_of_mass_uniform_motion
 -- name    : ConservationLaws.center_of_mass_uniform_motion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:05.416086+00:00
 -- url     : https://prove2.me/theorems/4f69623a-98d8-49e7-98e7-2df3c206e8ec
 -- title:

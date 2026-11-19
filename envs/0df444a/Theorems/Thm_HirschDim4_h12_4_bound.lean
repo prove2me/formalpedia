@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HirschDim4_h12_4_bound
 -- name    : HirschDim4.h12_4_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:55:02.828979+00:00
 -- url     : https://prove2.me/theorems/e51853f4-25b7-4799-b3ef-ec364a38264c
 -- title:

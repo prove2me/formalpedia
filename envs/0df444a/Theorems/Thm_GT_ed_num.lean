@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_ed_num
 -- name    : GT.ed_num
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:16.339464+00:00
 -- url     : https://prove2.me/theorems/f0fab2ce-9bca-4059-89df-8f51611f3c4b
 -- title:

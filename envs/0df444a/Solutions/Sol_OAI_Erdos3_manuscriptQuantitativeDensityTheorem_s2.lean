@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.Erdos3.manuscriptQuantitativeDensityTheorem_s2
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-28T22:42:04.796162+00:00
 -- url     : https://prove2.me/submissions/5b5aa799-339e-42a8-9cca-d66d054e47e6
 

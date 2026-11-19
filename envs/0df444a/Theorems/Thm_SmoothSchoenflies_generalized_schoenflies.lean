@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothSchoenflies_generalized_schoenflies
 -- name    : SmoothSchoenflies.generalized_schoenflies
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:26:48.346429+00:00
 -- url     : https://prove2.me/theorems/37f72375-38c1-4680-a7a6-f6119a5a2281
 -- title:

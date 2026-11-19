@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LangevinHarmonicTrap_msd_overdamped
 -- name    : LangevinHarmonicTrap.msd_overdamped
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:13:00.95644+00:00
 -- url     : https://prove2.me/theorems/095e51e1-1bb8-4b7f-b876-d3ff9f0d69db
 -- title:

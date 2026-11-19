@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalDynamics_hamiltonian_conserved
 -- name    : ClassicalDynamics.hamiltonian_conserved
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:39:14.363605+00:00
 -- url     : https://prove2.me/theorems/b2932b8a-27e3-49ec-862a-456f1721e624
 -- title:

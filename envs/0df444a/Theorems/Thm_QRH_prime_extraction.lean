@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_prime_extraction
 -- name    : QRH.prime_extraction
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:50:07.926033+00:00
 -- url     : https://prove2.me/theorems/50e95a48-1077-4d39-873c-d41bd568099c
 -- title:

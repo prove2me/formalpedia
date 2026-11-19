@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.u3_step3
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:52:56.745732+00:00
 -- url     : https://prove2.me/submissions/dbd4338e-3b8d-460c-9532-add2e90f834d
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_transformation_linear
 -- name    : HardyFiveAxioms.transformation_linear
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:46:07.81887+00:00
 -- url     : https://prove2.me/theorems/5e82a6ce-ffc4-4042-ad4d-3b56515f69cc
 -- title:

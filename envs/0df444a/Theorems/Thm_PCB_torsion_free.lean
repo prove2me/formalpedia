@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PCB_torsion_free
 -- name    : PCB.torsion_free
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:29.347505+00:00
 -- url     : https://prove2.me/theorems/bec733e9-a5df-47bb-9e7e-bfd70fe39ef0
 -- title:

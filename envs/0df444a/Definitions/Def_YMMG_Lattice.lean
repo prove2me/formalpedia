@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YMMG_Lattice
 -- name    : YMMG_Lattice
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:19:44.173692+00:00
 -- url     : https://prove2.me/theorems/7689c1d4-eb4e-44d2-88e2-264360c7c09c
 -- title:

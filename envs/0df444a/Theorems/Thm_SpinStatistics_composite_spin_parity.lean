@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpinStatistics_composite_spin_parity
 -- name    : SpinStatistics.composite_spin_parity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:07:02.99899+00:00
 -- url     : https://prove2.me/theorems/f2947727-af06-4426-9f2f-52207d957ed2
 -- title:

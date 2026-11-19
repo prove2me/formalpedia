@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_running_coupling_mu_dichotomy
 -- name    : CouplingConstantRG.running_coupling_mu_dichotomy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T16:26:52.965064+00:00
 -- url     : https://prove2.me/theorems/d71e2900-7bc3-40dd-8e59-27082503f369
 -- title:

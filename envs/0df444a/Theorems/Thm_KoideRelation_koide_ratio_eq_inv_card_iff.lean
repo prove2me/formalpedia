@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_ratio_eq_inv_card_iff
 -- name    : KoideRelation.koide_ratio_eq_inv_card_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:23:11.331177+00:00
 -- url     : https://prove2.me/theorems/f2d20ad9-500e-423d-bfb6-099bd41d15de
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TarchaBraids.prop_3_14_three_braid_alternating_form
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T05:13:56.441587+00:00
 -- url     : https://prove2.me/submissions/197e6928-08af-450d-bd18-a63e7c64dd2d
 

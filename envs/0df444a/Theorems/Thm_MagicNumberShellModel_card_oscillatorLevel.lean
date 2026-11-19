@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MagicNumberShellModel_card_oscillatorLevel
 -- name    : MagicNumberShellModel.card_oscillatorLevel
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T15:51:29.071362+00:00
 -- url     : https://prove2.me/theorems/ec54ab50-3d39-4e05-82a4-ea6914d37a94
 -- title:

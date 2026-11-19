@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Brocard_Defs
 -- name    : Brocard_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:37:47.275022+00:00
 -- url     : https://prove2.me/theorems/3eaaa053-cf19-4e52-a47f-e7add00413e8
 -- title:

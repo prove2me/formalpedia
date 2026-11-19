@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_nielsenClass_ncard
 -- name    : MathieuM23.nielsenClass_ncard
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:59:45.714974+00:00
 -- url     : https://prove2.me/theorems/0cebe506-3819-4a37-a6d7-278460e64007
 -- title:

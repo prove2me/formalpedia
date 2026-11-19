@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WallGSL_unital_positive_map_trace_concave_nondecreasing
 -- name    : WallGSL.unital_positive_map_trace_concave_nondecreasing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:59:20.176722+00:00
 -- url     : https://prove2.me/theorems/decbf2b1-3afa-41d1-8850-7d859150a3ec
 -- title:

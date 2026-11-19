@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_isMuRunning_inv_relation
 -- name    : CouplingConstantRG.isMuRunning_inv_relation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T15:38:02.566016+00:00
 -- url     : https://prove2.me/theorems/93d73102-b5a1-43e2-be58-d29108f72c62
 -- title:

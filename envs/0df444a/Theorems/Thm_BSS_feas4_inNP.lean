@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_feas4_inNP
 -- name    : BSS.feas4_inNP
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:10:52.361991+00:00
 -- url     : https://prove2.me/theorems/7bdcb688-6c33-455f-999a-ff0108ce10cb
 -- title:

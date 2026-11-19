@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_lambdaMap_conjugate_shift
 -- name    : Devaney.lambdaMap_conjugate_shift
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:54:12.28776+00:00
 -- url     : https://prove2.me/theorems/d3a64917-52b3-4503-b126-690550c6f793
 -- title:

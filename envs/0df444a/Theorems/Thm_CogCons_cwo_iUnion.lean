@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_cwo_iUnion
 -- name    : CogCons.cwo_iUnion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:08:58.769465+00:00
 -- url     : https://prove2.me/theorems/e3e9eb70-06dd-4376-87d9-8b968c075202
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDistance_levelOne_two_support_cocycle_zero
 -- name    : QEC.Coding.BDL26LevelTwoDistance.levelOne_two_support_cocycle_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:33:56.946639+00:00
 -- url     : https://prove2.me/theorems/2601f20d-18db-4c64-88cb-8c00da3fe544

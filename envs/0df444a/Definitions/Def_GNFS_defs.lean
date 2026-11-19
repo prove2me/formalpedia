@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GNFS_defs
 -- name    : GNFS_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:22:21.187059+00:00
 -- url     : https://prove2.me/theorems/54150f43-2704-4e59-8869-cbe639cbc660
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_deriv_sum_product
 -- name    : Rudin.ch05_deriv_sum_product
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:15:00.441523+00:00
 -- url     : https://prove2.me/theorems/9b20cdba-e564-4bb2-8c34-eb3e637d87eb
 -- title:

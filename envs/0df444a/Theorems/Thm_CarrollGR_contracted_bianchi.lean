@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_contracted_bianchi
 -- name    : CarrollGR.contracted_bianchi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:12:56.887986+00:00
 -- url     : https://prove2.me/theorems/52eaf064-c713-4cab-8e86-059b79527302
 -- title:

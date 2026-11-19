@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_power_loss_eq
 -- name    : LawsonCriterion.power_loss_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:58:45.036392+00:00
 -- url     : https://prove2.me/theorems/9fc253bf-aca1-4b6e-84ea-8164cb6173e6
 -- title:

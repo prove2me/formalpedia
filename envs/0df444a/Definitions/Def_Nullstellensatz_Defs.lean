@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Nullstellensatz_Defs
 -- name    : Nullstellensatz_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T23:25:24.622731+00:00
 -- url     : https://prove2.me/theorems/452f358c-1314-4a17-a237-e005834878a8
 -- title:

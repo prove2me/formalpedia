@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RelPartMech_coordinates
 -- name    : RelPartMech_coordinates
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:05:08.79498+00:00
 -- url     : https://prove2.me/theorems/ac02b0ba-84c5-4cee-8a28-b56362443b03
 -- title:

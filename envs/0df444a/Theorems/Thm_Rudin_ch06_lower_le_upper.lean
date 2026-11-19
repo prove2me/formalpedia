@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_lower_le_upper
 -- name    : Rudin.ch06_lower_le_upper
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:07:04.550448+00:00
 -- url     : https://prove2.me/theorems/77b08a17-cba7-4cf9-bcb2-b90994a8b171
 -- title:

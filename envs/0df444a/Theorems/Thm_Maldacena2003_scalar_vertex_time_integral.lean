@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_scalar_vertex_time_integral
 -- name    : Maldacena2003.scalar_vertex_time_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:51:53.229687+00:00
 -- url     : https://prove2.me/theorems/0581f978-2324-4552-957d-18b61ac59dfc
 -- title:

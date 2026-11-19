@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_introspective_closure
 -- name    : AKS.introspective_closure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:52:22.695854+00:00
 -- url     : https://prove2.me/theorems/c64cd94f-07e1-4938-82e6-baa3f1ae6e85
 -- title:

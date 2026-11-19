@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_bloch_D_matrix
 -- name    : HardyFiveAxioms.bloch_D_matrix
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T00:09:09.612407+00:00
 -- url     : https://prove2.me/theorems/ceba8d13-f768-4cd3-9afb-d10be97f60eb
 -- title:

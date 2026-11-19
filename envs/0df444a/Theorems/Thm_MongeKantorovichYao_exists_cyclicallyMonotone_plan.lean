@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_exists_cyclicallyMonotone_plan
 -- name    : MongeKantorovichYao.exists_cyclicallyMonotone_plan
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:09:17.617974+00:00
 -- url     : https://prove2.me/theorems/99f70c4d-c3b3-4394-af86-2f86264d2bb8
 -- title:

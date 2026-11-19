@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RiemannVonMangoldt_riemann_hypothesis_error_bigO
 -- name    : RiemannVonMangoldt.riemann_hypothesis_error_bigO
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T02:14:24.278545+00:00
 -- url     : https://prove2.me/theorems/99402b05-6f32-4433-abcf-e2be6ed98058
 -- title:

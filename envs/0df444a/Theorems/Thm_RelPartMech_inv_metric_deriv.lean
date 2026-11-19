@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RelPartMech_inv_metric_deriv
 -- name    : RelPartMech.inv_metric_deriv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:05:33.725368+00:00
 -- url     : https://prove2.me/theorems/ce48682e-15e2-44ef-88c4-0debbc6ed406
 -- title:

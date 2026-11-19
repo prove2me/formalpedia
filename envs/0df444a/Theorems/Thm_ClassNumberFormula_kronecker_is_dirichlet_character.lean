@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_kronecker_is_dirichlet_character
 -- name    : ClassNumberFormula.kronecker_is_dirichlet_character
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:54:15.616496+00:00
 -- url     : https://prove2.me/theorems/fa5ff86e-46bd-4bb0-a2e0-0f69539c7dd0
 -- title:

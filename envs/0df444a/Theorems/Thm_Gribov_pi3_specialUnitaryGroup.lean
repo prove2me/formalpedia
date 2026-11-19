@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gribov_pi3_specialUnitaryGroup
 -- name    : Gribov.pi3_specialUnitaryGroup
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:18:07.582869+00:00
 -- url     : https://prove2.me/theorems/12606f88-b516-40a3-8166-dbde0f5e6461
 -- title:

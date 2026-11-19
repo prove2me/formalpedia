@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FourToOneGames_four_to_one_perfect_completeness
 -- name    : FourToOneGames.four_to_one_perfect_completeness
--- status  : Open
--- author  : @Lucas
+-- status  : Proved
+-- author  : @LG
 -- created : 2026-09-14T23:42:22.592799+00:00
 -- url     : https://prove2.me/theorems/efc0488a-a669-4e44-94df-fef5af572375
 -- title:

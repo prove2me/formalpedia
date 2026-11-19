@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BUP_involution_inequiv
 -- name    : BUP.involution_inequiv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:27:22.787089+00:00
 -- url     : https://prove2.me/theorems/ee9ee97f-5ecc-4eac-bfeb-3ae4fb6bc9e2
 -- title:

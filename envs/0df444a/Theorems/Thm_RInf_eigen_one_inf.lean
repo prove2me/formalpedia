@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_eigen_one_inf
 -- name    : RInf.eigen_one_inf
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:27:32.528606+00:00
 -- url     : https://prove2.me/theorems/af06d29f-78cd-46fe-9ff4-dcc43c229d45
 -- title:

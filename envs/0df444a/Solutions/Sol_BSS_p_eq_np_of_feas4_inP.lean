@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSS.p_eq_np_of_feas4_inP
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T22:13:24.151186+00:00
 -- url     : https://prove2.me/submissions/dfb97a23-92d4-4d99-9931-f357cf382d5b
 -- note    : a sketch -- it imports a theorem that is still Open,

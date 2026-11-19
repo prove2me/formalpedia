@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_weak_duality
 -- name    : MongeKantorovichYao.weak_duality
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:38:39.658886+00:00
 -- url     : https://prove2.me/theorems/90a0c34d-1db8-466f-83f9-7c13e0258d42
 -- title:

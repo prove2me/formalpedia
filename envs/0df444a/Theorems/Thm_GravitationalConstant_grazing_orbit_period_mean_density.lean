@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_grazing_orbit_period_mean_density
 -- name    : GravitationalConstant.grazing_orbit_period_mean_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:43:23.388887+00:00
 -- url     : https://prove2.me/theorems/9fd708a0-0430-4d98-b75a-293a4261b687
 -- title:

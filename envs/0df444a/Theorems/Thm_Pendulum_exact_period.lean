@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_exact_period
 -- name    : Pendulum.exact_period
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:47:06.877979+00:00
 -- url     : https://prove2.me/theorems/d1729435-af17-47aa-b612-778b864ff289
 -- title:

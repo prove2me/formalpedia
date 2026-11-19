@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_configuration_realizable_algebraic
 -- name    : HilbertSixteenth.configuration_realizable_algebraic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:12:19.421925+00:00
 -- url     : https://prove2.me/theorems/27c4cc98-f310-46e8-9b92-5b20111c0354
 -- title:

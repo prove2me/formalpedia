@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_convex
 -- name    : LindelofHypothesis.mu_convex
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:39:12.755841+00:00
 -- url     : https://prove2.me/theorems/34edb4ef-0709-46b7-8dd0-5d07d4d3a8cf
 -- title:

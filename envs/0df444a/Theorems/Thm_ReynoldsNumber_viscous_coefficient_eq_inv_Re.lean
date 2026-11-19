@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_viscous_coefficient_eq_inv_Re
 -- name    : ReynoldsNumber.viscous_coefficient_eq_inv_Re
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:29:42.92088+00:00
 -- url     : https://prove2.me/theorems/cd874d72-a5bc-449c-974d-16572d06b665
 -- title:

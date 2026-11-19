@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbabilityTheory_ConvolutionSemigroup_leanlevy_chat32_upperRamp_nonneg_le_one
 -- name    : ProbabilityTheory.ConvolutionSemigroup.leanlevy_chat32_upperRamp_nonneg_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T00:28:37.026654+00:00
 -- url     : https://prove2.me/theorems/0b0b9744-f42e-4ac1-8686-223ed0e3a79a

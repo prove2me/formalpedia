@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_gamma_functional_equation
 -- name    : Rudin.ch08_gamma_functional_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:29:48.392335+00:00
 -- url     : https://prove2.me/theorems/57f8ccef-a33d-4421-90d5-dbf43f7c4d19
 -- title:

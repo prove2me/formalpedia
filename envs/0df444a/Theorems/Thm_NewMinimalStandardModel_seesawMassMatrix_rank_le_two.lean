@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewMinimalStandardModel_seesawMassMatrix_rank_le_two
 -- name    : NewMinimalStandardModel.seesawMassMatrix_rank_le_two
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T12:16:23.376518+00:00
 -- url     : https://prove2.me/theorems/e88b953c-95c7-43b2-9bd1-02b4670a352d
 -- title:

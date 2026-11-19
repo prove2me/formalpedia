@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_summatory_isBigO_rpow_of_dirichlet_partialSum_tendsto
 -- name    : summatory_isBigO_rpow_of_dirichlet_partialSum_tendsto
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:51:35.732261+00:00
 -- url     : https://prove2.me/theorems/72bac3e2-8372-42c8-b774-b2c1c9820eef
 -- title:

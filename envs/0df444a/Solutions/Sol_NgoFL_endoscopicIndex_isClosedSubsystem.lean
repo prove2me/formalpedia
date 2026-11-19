@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NgoFL.endoscopicIndex_isClosedSubsystem
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T18:17:49.997765+00:00
 -- url     : https://prove2.me/submissions/1e21819a-780e-48f4-ab5b-24c2c26257d8
 

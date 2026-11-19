@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_linearity
 -- name    : Rudin.ch06_linearity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:17:31.096723+00:00
 -- url     : https://prove2.me/theorems/a5d6a672-e509-404c-a046-e131a98f90c8
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_integral_additive_of_bounded
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:05:03.980392+00:00
 -- url     : https://prove2.me/submissions/df7f1a6b-9dac-433d-a0d9-2375e3227003
 

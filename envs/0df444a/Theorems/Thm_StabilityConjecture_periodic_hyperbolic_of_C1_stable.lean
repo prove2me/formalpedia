@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StabilityConjecture_periodic_hyperbolic_of_C1_stable
 -- name    : StabilityConjecture.periodic_hyperbolic_of_C1_stable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T08:58:11.288215+00:00
 -- url     : https://prove2.me/theorems/ab9a65f2-a960-4495-996f-05aec7947f7e
 -- title:

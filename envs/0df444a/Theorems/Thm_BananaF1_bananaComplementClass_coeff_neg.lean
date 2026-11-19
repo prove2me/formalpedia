@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BananaF1_bananaComplementClass_coeff_neg
 -- name    : BananaF1.bananaComplementClass_coeff_neg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:48:03.504614+00:00
 -- url     : https://prove2.me/theorems/a433caae-58cc-404b-90e0-3259f13168d9
 -- title:

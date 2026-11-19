@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCT_valiant_conjecture
 -- name    : GCT.valiant_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:28:03.568837+00:00
 -- url     : https://prove2.me/theorems/1e29a8e4-5e31-4885-a065-d9360cfa46c6
 -- title:

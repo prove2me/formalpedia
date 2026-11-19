@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightCoreset2027_Euclidean_discrete_projections_discrepancy
 -- name    : TightCoreset2027.Euclidean.discrete_projections_discrepancy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:06:43.325144+00:00
 -- url     : https://prove2.me/theorems/97f173e3-cdef-425e-b242-2a5759d6ece5

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_dominated_convergence
 -- name    : Rudin.ch11_dominated_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:36:11.486601+00:00
 -- url     : https://prove2.me/theorems/850f9f6e-99e5-4327-9429-95dbd015d85f
 -- title:

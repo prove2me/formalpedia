@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_late_time_density_pressure
 -- name    : MDOUnifiedCosmology.late_time_density_pressure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:34:07.517978+00:00
 -- url     : https://prove2.me/theorems/c34da1a7-80d8-4623-86b3-1f0fd5b8d0ca
 -- title:

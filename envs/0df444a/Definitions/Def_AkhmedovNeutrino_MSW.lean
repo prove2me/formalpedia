@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AkhmedovNeutrino_MSW
 -- name    : AkhmedovNeutrino_MSW
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:58:34.357204+00:00
 -- url     : https://prove2.me/theorems/2ed48e6a-f5b4-4c8a-9c7e-21cba6bb41e9
 -- title:

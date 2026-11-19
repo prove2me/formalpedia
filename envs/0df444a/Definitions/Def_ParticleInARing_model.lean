@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ParticleInARing_model
 -- name    : ParticleInARing_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:19:50.353281+00:00
 -- url     : https://prove2.me/theorems/561cc021-007a-496f-bb43-d2f3966153b4
 -- title:

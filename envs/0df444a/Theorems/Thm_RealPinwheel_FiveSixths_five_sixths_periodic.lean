@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_five_sixths_periodic
 -- name    : RealPinwheel.FiveSixths.five_sixths_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:35:14.1383+00:00
 -- url     : https://prove2.me/theorems/84bc66bc-bfe2-4acb-8e57-8b8d1c42f46c

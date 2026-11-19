@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinGrossmann1913_matterConservation_iff_cov
 -- name    : EinsteinGrossmann1913.matterConservation_iff_cov
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T22:00:18.158021+00:00
 -- url     : https://prove2.me/theorems/842ceaed-0cc7-4209-9df7-5b29d9695d27
 -- title:

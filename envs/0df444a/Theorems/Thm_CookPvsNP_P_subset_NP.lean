@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_P_subset_NP
 -- name    : CookPvsNP.P_subset_NP
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T13:44:01.922442+00:00
 -- url     : https://prove2.me/theorems/9aec48d8-4507-4e84-beb3-66f6bba78f41
 -- title:

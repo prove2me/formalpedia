@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ConnesRZ_explicit_formula
 -- name    : ConnesRZ.explicit_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:02:47.978355+00:00
 -- url     : https://prove2.me/theorems/57f950e0-75ff-4e78-8619-c0ced98597f5
 -- title:

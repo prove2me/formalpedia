@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_reduce_inputs_preserving_aps
 -- name    : APSCounting893.Main.reduce_inputs_preserving_aps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:24:25.753594+00:00
 -- url     : https://prove2.me/theorems/a3df8e6e-5c5a-4517-abaf-d628a3eed042

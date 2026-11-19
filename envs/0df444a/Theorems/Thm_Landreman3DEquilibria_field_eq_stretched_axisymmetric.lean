@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_field_eq_stretched_axisymmetric
 -- name    : Landreman3DEquilibria.field_eq_stretched_axisymmetric
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:58:41.889341+00:00
 -- url     : https://prove2.me/theorems/486e6f51-e026-4348-ba3b-715e0d4f690d
 -- title:

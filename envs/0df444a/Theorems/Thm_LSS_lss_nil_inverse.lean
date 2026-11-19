@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LSS_lss_nil_inverse
 -- name    : LSS.lss_nil_inverse
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T18:07:55.901416+00:00
 -- url     : https://prove2.me/theorems/d1d2984b-d39d-4013-bd5c-f8aeb900bec3
 -- title:

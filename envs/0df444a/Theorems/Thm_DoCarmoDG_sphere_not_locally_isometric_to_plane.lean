@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_sphere_not_locally_isometric_to_plane
 -- name    : DoCarmoDG.sphere_not_locally_isometric_to_plane
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:16:55.082565+00:00
 -- url     : https://prove2.me/theorems/7cd9ac71-4f8a-49b5-ad56-e53a1c3c739f
 -- title:

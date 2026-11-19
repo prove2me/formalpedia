@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SchrodingerEquation_infinite_well_model
 -- name    : SchrodingerEquation_infinite_well_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:18:46.875815+00:00
 -- url     : https://prove2.me/theorems/5af5c48e-496e-4a9c-8580-36e6ce5edc09
 -- title:

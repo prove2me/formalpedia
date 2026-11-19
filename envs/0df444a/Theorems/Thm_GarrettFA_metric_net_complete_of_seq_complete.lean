@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_metric_net_complete_of_seq_complete
 -- name    : GarrettFA.metric_net_complete_of_seq_complete
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:32:13.095035+00:00
 -- url     : https://prove2.me/theorems/c534d8ea-bb8d-403f-baf6-cdae0ec3c486
 -- title:

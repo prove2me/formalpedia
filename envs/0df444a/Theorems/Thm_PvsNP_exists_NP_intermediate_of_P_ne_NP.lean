@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_exists_NP_intermediate_of_P_ne_NP
 -- name    : PvsNP.exists_NP_intermediate_of_P_ne_NP
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:17:52.288291+00:00
 -- url     : https://prove2.me/theorems/b07a15ed-a0f1-40ed-92c3-e4fd07328278
 -- title:

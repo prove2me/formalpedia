@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CircTrichotomy_lemma_A_3
 -- name    : CircTrichotomy.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T22:01:53.544586+00:00
 -- url     : https://prove2.me/theorems/86790031-0508-401e-8945-f646e1f126a6

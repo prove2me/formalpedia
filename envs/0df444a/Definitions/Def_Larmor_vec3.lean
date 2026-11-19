@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Larmor_vec3
 -- name    : Larmor_vec3
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:01:33.294396+00:00
 -- url     : https://prove2.me/theorems/b4216f47-3674-4a2a-a735-acadcf4e1628
 -- title:

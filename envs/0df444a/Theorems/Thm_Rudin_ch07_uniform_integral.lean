@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_uniform_integral
 -- name    : Rudin.ch07_uniform_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:22:09.361068+00:00
 -- url     : https://prove2.me/theorems/cbb611c9-38f7-4e89-b494-fdad54ee7dc6
 -- title:

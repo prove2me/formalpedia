@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GottschalkSurjunctivity_Defs
 -- name    : GottschalkSurjunctivity_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T14:04:11.667989+00:00
 -- url     : https://prove2.me/theorems/b9413e7e-7fdf-4c54-8d30-595cec09dc80
 -- title:

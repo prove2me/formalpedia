@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_solvable
 -- name    : InverseGalois.inverse_galois_problem_solvable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:13:08.353647+00:00
 -- url     : https://prove2.me/theorems/ff56a520-baa8-4f09-b05d-e7c7164f97c3
 -- title:

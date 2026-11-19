@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_mss_finite_checking
 -- name    : LonelyRunnerConjecture.mss_finite_checking
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:14:16.044319+00:00
 -- url     : https://prove2.me/theorems/954bf6ca-1c2c-4fe8-9ece-8d90193ba02a
 -- title:

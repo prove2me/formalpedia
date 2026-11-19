@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_presentation_punctured
 -- name    : HGL.presentation_punctured
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:43.38951+00:00
 -- url     : https://prove2.me/theorems/d2b08654-4b89-42da-b38b-fa8af2ecbbac
 -- title:

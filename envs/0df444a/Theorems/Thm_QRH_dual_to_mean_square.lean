@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_dual_to_mean_square
 -- name    : QRH.dual_to_mean_square
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:49:12.966235+00:00
 -- url     : https://prove2.me/theorems/d512d050-e02e-4f7a-933c-8a46f863f96e
 -- title:

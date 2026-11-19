@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isQuasiComplete_pi
 -- name    : GarrettFA.isQuasiComplete_pi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:33:36.917987+00:00
 -- url     : https://prove2.me/theorems/9c96b759-db91-4959-b2f5-07b0073d7a68
 -- title:

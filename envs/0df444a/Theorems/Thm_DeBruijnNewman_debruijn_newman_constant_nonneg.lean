@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_debruijn_newman_constant_nonneg
 -- name    : DeBruijnNewman.debruijn_newman_constant_nonneg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:42:36.860088+00:00
 -- url     : https://prove2.me/theorems/a5dad6cf-f790-4169-a742-2bcdcc8c9c6a
 -- title:

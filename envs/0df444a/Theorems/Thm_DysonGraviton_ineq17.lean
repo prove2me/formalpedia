@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_ineq17
 -- name    : DysonGraviton.ineq17
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:43:55.521148+00:00
 -- url     : https://prove2.me/theorems/2d4a5630-a155-4d4b-bdc7-37e21e6126af
 -- title:

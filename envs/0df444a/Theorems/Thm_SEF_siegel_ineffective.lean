@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SEF_siegel_ineffective
 -- name    : SEF.siegel_ineffective
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:02:08.023308+00:00
 -- url     : https://prove2.me/theorems/030927bc-837c-45c5-a20a-0c52617c1f4c
 -- title:

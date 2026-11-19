@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_prop71
 -- name    : GT.prop71
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:45.616565+00:00
 -- url     : https://prove2.me/theorems/35024676-ad35-46d9-95ae-3807ababa061
 -- title:

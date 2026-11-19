@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_free_mirrors_bound
 -- name    : DysonGraviton.free_mirrors_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:29:46.098352+00:00
 -- url     : https://prove2.me/theorems/4e6c9704-2902-4346-ad0e-c4ffa540734a
 -- title:

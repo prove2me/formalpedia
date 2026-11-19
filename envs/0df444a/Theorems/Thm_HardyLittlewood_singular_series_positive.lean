@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_singular_series_positive
 -- name    : HardyLittlewood.singular_series_positive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:46:36.446123+00:00
 -- url     : https://prove2.me/theorems/e4159d94-046d-405d-b0ba-0d7747638e65
 -- title:

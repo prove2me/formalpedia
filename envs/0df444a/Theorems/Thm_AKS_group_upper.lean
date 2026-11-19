@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_group_upper
 -- name    : AKS.group_upper
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:53:24.197569+00:00
 -- url     : https://prove2.me/theorems/807c19e4-250b-41cc-be9f-785cdb22bd45
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_current_isReal
 -- name    : QED.current_isReal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:20:48.154532+00:00
 -- url     : https://prove2.me/theorems/e40a1e48-75a4-4e55-ba05-c0958e31fae5
 -- title:

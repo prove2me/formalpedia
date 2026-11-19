@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_example_masses_one_to_five
 -- name    : AlbouyKaloshin.example_masses_one_to_five
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:21:43.556012+00:00
 -- url     : https://prove2.me/theorems/ba8ccf0b-2817-4c49-8d7e-aaab1be0b73a
 -- title:

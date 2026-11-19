@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Hairer_multiplication
 -- name    : Hairer.multiplication
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:59:43.279207+00:00
 -- url     : https://prove2.me/theorems/03b7ecd9-509a-4d18-9a37-5eea7e95a507
 -- title:

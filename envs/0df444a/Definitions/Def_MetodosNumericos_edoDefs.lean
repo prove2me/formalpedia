@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_edoDefs
 -- name    : MetodosNumericos_edoDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:33:20.39835+00:00
 -- url     : https://prove2.me/theorems/416e3243-c067-4ffb-b75e-374c3b30bb77
 -- title:

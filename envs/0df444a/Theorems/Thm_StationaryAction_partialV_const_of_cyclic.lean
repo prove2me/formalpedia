@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_partialV_const_of_cyclic
 -- name    : StationaryAction.partialV_const_of_cyclic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:28:29.036213+00:00
 -- url     : https://prove2.me/theorems/b348862f-41cd-48c0-a07b-1ed3f8371e52
 -- title:

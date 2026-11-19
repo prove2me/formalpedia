@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_mlp_first_layer_activation_four_point_two_neurons
 -- name    : DeepLearningTheory.mlp_first_layer_activation_four_point_two_neurons
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:56:53.317716+00:00
 -- url     : https://prove2.me/theorems/6128be73-1023-47f0-b9f6-0da74b6978d8
 -- title:

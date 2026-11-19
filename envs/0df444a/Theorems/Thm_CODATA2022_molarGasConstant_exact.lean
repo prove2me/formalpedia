@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_molarGasConstant_exact
 -- name    : CODATA2022.molarGasConstant_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:13:09.151319+00:00
 -- url     : https://prove2.me/theorems/7775171a-73ca-4835-904d-854f14e24995
 -- title:

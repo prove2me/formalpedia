@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Thurston23_exists_hyperbolicVolume_rat_mul_LChiMinusThree
 -- name    : Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T20:16:20.85668+00:00
 -- url     : https://prove2.me/theorems/1521f7ea-9682-4a0d-b64c-95db9bdeb291
 -- title:

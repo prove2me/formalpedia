@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCTOcc_row_extended_rectangle_occurs
 -- name    : GCTOcc.row_extended_rectangle_occurs
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:44:21.952887+00:00
 -- url     : https://prove2.me/theorems/a3397022-e459-48bc-abeb-e8440b27d961
 -- title:

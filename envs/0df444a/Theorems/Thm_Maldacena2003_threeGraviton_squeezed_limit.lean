@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_threeGraviton_squeezed_limit
 -- name    : Maldacena2003.threeGraviton_squeezed_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:57:05.82834+00:00
 -- url     : https://prove2.me/theorems/b165adbc-de24-42a6-8fad-91ddf631dd53
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_norm_residue_ker_le_of_two_le
 -- name    : MilnorConjecture.norm_residue_ker_le_of_two_le
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:44:49.988749+00:00
 -- url     : https://prove2.me/theorems/4a420455-5cbf-4855-85f8-0cda6b87bff2
 -- title:

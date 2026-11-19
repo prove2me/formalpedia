@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_sums_differences_below_11_6
 -- name    : ArithmeticKakeya.sums_differences_below_11_6
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:00:20.675526+00:00
 -- url     : https://prove2.me/theorems/27d6cf1d-e11a-436e-bd36-dee5ec91cb16
 -- title:

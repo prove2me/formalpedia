@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_vonNeumannEntropy_bounds
 -- name    : NeutrinoDecoherence.vonNeumannEntropy_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T11:47:49.161394+00:00
 -- url     : https://prove2.me/theorems/3ffc8d5f-2ab8-40d5-bc7f-3c24e11a5c9b
 -- title:

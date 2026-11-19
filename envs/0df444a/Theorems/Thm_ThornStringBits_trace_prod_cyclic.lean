@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThornStringBits_trace_prod_cyclic
 -- name    : ThornStringBits.trace_prod_cyclic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:33:21.486269+00:00
 -- url     : https://prove2.me/theorems/b0b4527c-8236-4d1e-a9e4-10330cbe02e7
 -- title:

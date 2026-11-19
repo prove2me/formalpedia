@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LeanTT2_subsingleton_realizable
 -- name    : LeanTT2.subsingleton_realizable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T03:06:56.936872+00:00
 -- url     : https://prove2.me/theorems/ed93180d-c671-4e9f-bf99-049fecaa1891
 -- title:

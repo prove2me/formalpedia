@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_exists_temperature_scale_of_mul
 -- name    : SecondLawThermo.exists_temperature_scale_of_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:41.131145+00:00
 -- url     : https://prove2.me/theorems/fd17902a-94b0-4b1a-b765-a67d05bcfd90
 -- title:

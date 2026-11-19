@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_rn_subextremal_iff_distinct_horizons
 -- name    : StrongCosmicCensorship.rn_subextremal_iff_distinct_horizons
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:22:44.580984+00:00
 -- url     : https://prove2.me/theorems/ad01cfb0-cd5e-4a98-89e3-7d25d92b3f96
 -- title:

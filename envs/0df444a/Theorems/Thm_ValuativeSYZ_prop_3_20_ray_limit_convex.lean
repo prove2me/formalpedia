@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_prop_3_20_ray_limit_convex
 -- name    : ValuativeSYZ.prop_3_20_ray_limit_convex
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:45:53.606174+00:00
 -- url     : https://prove2.me/theorems/76b185d6-b116-4c94-89df-270397ff6c72
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PughClosingLemma_general_density_theorem
 -- name    : PughClosingLemma.general_density_theorem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:45:34.541251+00:00
 -- url     : https://prove2.me/theorems/0fbd411c-102f-4a27-b223-721de6723a6b
 -- title:

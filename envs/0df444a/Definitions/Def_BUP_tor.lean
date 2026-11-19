@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BUP_tor
 -- name    : BUP_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T23:09:32.208281+00:00
 -- url     : https://prove2.me/theorems/9aeeedd1-f4a7-4d31-80d8-2f1745473412
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_zariski_lemma
 -- name    : Nullstellensatz.zariski_lemma
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:36:04.143988+00:00
 -- url     : https://prove2.me/theorems/6bf6f39b-be55-4d57-a1c1-d4349821f89a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_abel
 -- name    : Rudin.ch08_abel
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:13:41.580322+00:00
 -- url     : https://prove2.me/theorems/6ebb3051-0cd7-4a50-bc8a-4b8c6e908e1f
 -- title:

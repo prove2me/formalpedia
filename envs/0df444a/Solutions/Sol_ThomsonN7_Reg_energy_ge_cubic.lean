@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonN7.Reg.energy_ge_cubic
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:08:49.658981+00:00
 -- url     : https://prove2.me/submissions/d99674bd-b4f3-4b89-b800-e4b63600e190
 

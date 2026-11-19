@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StabilityConjecture_cr_stability_conjecture
 -- name    : StabilityConjecture.cr_stability_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:01:33.986808+00:00
 -- url     : https://prove2.me/theorems/e05c7b58-d6f1-4093-9560-6f0505adba50
 -- title:

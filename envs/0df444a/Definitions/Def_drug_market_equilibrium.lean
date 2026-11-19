@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_drug_market_equilibrium
 -- name    : drug_market_equilibrium
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:34:59.951559+00:00
 -- url     : https://prove2.me/theorems/647c29e0-35d1-4da1-bfe7-366335c9218f
 -- title:

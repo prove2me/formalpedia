@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDC_density_bounds
 -- name    : SDC.density_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T09:23:08.168568+00:00
 -- url     : https://prove2.me/theorems/63a6124a-9467-40e7-bb49-e1bc1fd99be9
 -- title:

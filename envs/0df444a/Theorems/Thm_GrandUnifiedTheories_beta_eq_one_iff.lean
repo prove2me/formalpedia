@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_beta_eq_one_iff
 -- name    : GrandUnifiedTheories.beta_eq_one_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:56:44.499949+00:00
 -- url     : https://prove2.me/theorems/ed4dc154-f8f4-4283-8c5b-55a0f080d774
 -- title:

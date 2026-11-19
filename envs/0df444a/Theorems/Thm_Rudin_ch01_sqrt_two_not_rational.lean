@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_sqrt_two_not_rational
 -- name    : Rudin.ch01_sqrt_two_not_rational
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:04:55.346086+00:00
 -- url     : https://prove2.me/theorems/55d7337a-4fc3-43ba-b704-c8d3cce8d8c0
 -- title:

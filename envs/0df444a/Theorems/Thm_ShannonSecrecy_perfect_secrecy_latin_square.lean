@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShannonSecrecy_perfect_secrecy_latin_square
 -- name    : ShannonSecrecy.perfect_secrecy_latin_square
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:43:02.854286+00:00
 -- url     : https://prove2.me/theorems/149e9c95-8f37-41c8-81fc-83006b9740d3
 -- title:

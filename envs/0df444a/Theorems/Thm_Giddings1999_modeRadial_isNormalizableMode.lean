@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Giddings1999_modeRadial_isNormalizableMode
 -- name    : Giddings1999.modeRadial_isNormalizableMode
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:50:22.908463+00:00
 -- url     : https://prove2.me/theorems/b6acac0f-a7ab-42cc-af08-8b8902b38384
 -- title:

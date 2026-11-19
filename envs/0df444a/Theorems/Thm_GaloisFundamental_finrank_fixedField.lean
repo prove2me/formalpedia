@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_finrank_fixedField
 -- name    : GaloisFundamental.finrank_fixedField
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:06:23.833986+00:00
 -- url     : https://prove2.me/theorems/9a4bd19d-64a3-4ff6-a9ba-5c40c9d7295a
 -- title:

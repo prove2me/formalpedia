@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos20_bell_chueluecha_warnke_bound
 -- name    : Erdos20.bell_chueluecha_warnke_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:40:38.760153+00:00
 -- url     : https://prove2.me/theorems/de7f34a4-d9e9-4a94-bbec-05709d403836
 -- title:

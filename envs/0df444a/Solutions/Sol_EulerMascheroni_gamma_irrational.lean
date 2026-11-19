@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for EulerMascheroni.gamma_irrational
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T21:24:24.168416+00:00
 -- url     : https://prove2.me/submissions/6a7b2916-8fc8-47ec-8723-e1b3e015d6c0
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MagicNumberShellModel_shellCapacity_values
 -- name    : MagicNumberShellModel.shellCapacity_values
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:17:56.432945+00:00
 -- url     : https://prove2.me/theorems/3087e945-a8cd-41fb-b25e-44f12c01bc3c
 -- title:

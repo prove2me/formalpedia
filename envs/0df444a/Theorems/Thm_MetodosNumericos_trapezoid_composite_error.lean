@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_trapezoid_composite_error
 -- name    : MetodosNumericos.trapezoid_composite_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:46:55.21589+00:00
 -- url     : https://prove2.me/theorems/899f91c2-4c0c-4da4-a500-a4e1b2b10fad
 -- title:

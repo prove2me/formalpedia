@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_stable_orbit_three_dims
 -- name    : TegmarkDimensionality.stable_orbit_three_dims
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T02:50:39.1482+00:00
 -- url     : https://prove2.me/theorems/8a1f7c30-4bfc-402d-ae85-3f33feb4ae2c
 -- title:

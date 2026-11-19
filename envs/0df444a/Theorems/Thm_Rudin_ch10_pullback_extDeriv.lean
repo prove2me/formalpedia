@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_pullback_extDeriv
 -- name    : Rudin.ch10_pullback_extDeriv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:21:29.970497+00:00
 -- url     : https://prove2.me/theorems/af7d592a-2efe-4e83-a0f2-ca321c814b29
 -- title:

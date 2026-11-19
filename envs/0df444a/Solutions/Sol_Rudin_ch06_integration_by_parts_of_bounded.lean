@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_integration_by_parts_of_bounded
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:22:05.515329+00:00
 -- url     : https://prove2.me/submissions/6761f03b-61eb-4021-a51d-cc4801f92fa9
 

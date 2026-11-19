@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CosmoConstCentury_Defs
 -- name    : CosmoConstCentury_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T23:16:11.807799+00:00
 -- url     : https://prove2.me/theorems/35e32286-7d93-4aed-890f-f82689bf457b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_uniform_continuity
 -- name    : Rudin.ch04_uniform_continuity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T22:25:34.326935+00:00
 -- url     : https://prove2.me/theorems/a0dfc36e-e45e-433e-9e55-660e11fac210
 -- title:

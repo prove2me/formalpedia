@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_loc_to_glob
 -- name    : GT.loc_to_glob
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:31:03.729018+00:00
 -- url     : https://prove2.me/theorems/4e27bbab-33ac-4184-a492-c0bb38f793a1
 -- title:

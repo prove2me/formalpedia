@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_StabilityConjecture_Basic
 -- name    : StabilityConjecture_Basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T08:57:22.371659+00:00
 -- url     : https://prove2.me/theorems/86422a3c-7166-42b0-b0c5-887e0b7145bb
 -- title:

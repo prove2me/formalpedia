@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_betaFunctionMu_pos_strictMonoOn
 -- name    : CouplingConstantRG.betaFunctionMu_pos_strictMonoOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:28:43.135385+00:00
 -- url     : https://prove2.me/theorems/634dd7e3-e8d3-4a8a-9245-0621079f39eb
 -- title:

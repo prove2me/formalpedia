@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_fundamental_theorem_local_theory_of_curves
 -- name    : DoCarmoDG.fundamental_theorem_local_theory_of_curves
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:55:38.058198+00:00
 -- url     : https://prove2.me/theorems/4cd095fa-4be3-4cea-b45e-470bee4d7378
 -- title:

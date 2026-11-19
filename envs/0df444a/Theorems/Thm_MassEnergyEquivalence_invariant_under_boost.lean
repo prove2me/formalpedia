@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_invariant_under_boost
 -- name    : MassEnergyEquivalence.invariant_under_boost
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:18:30.440317+00:00
 -- url     : https://prove2.me/theorems/cdefa5ef-fa81-4002-9bfe-b4aa2cca5bd6
 -- title:

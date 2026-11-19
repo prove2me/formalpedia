@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CosmologyEOS_Defs
 -- name    : CosmologyEOS_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:00.630978+00:00
 -- url     : https://prove2.me/theorems/affe1292-3bcd-48ec-934e-0ce739ea8e5d
 -- title:

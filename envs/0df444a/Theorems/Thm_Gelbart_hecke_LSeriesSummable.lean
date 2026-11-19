@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_hecke_LSeriesSummable
 -- name    : Gelbart.hecke_LSeriesSummable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:37:24.561775+00:00
 -- url     : https://prove2.me/theorems/4da1534c-872d-4648-8127-dd66b8e09659
 -- title:

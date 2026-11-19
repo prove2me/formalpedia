@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_hamburger
 -- name    : LanglandsFunctoriality.hamburger
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:12:27.404916+00:00
 -- url     : https://prove2.me/theorems/123464e4-d45b-43d9-911e-4b45f9826b83
 -- title:

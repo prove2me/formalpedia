@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_weil_conjectures
 -- name    : WeilConjectures.weil_conjectures
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:05:49.681175+00:00
 -- url     : https://prove2.me/theorems/d190764e-e826-4a4a-b48d-f58a22ee5987
 -- title:

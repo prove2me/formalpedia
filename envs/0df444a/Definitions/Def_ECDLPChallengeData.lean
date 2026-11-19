@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ECDLPChallengeData
 -- name    : ECDLPChallengeData
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:42:12.110568+00:00
 -- url     : https://prove2.me/theorems/67bf77a2-964b-46df-87ab-c5b256c9b5ea
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_re_eq_mul_div_kinematicViscosity
 -- name    : ReynoldsNumber.re_eq_mul_div_kinematicViscosity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:02:10.094948+00:00
 -- url     : https://prove2.me/theorems/b2c57b0b-01fb-43bb-bafb-407cb860c0a1
 -- title:

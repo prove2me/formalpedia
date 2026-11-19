@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_regge_color_null_constraints
 -- name    : NaculichRegge.regge_color_null_constraints
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:05:14.872849+00:00
 -- url     : https://prove2.me/theorems/2473070b-2da0-4dd9-8f9e-3690f21014bc
 -- title:

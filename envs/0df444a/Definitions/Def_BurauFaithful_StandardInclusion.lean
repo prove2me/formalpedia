@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BurauFaithful_StandardInclusion
 -- name    : BurauFaithful_StandardInclusion
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T20:09:52.235123+00:00
 -- url     : https://prove2.me/theorems/54492467-701a-48cc-9cc3-6d2022e93afa
 -- title:

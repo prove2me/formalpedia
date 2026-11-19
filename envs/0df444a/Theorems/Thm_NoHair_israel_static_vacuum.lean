@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoHair_israel_static_vacuum
 -- name    : NoHair.israel_static_vacuum
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:25:34.527845+00:00
 -- url     : https://prove2.me/theorems/1931bf7b-9b31-4f01-9a4c-3563c9cdbf9a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LangevinHarmonicTrap_ensemble_averaged_identity
 -- name    : LangevinHarmonicTrap.ensemble_averaged_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:12:01.460983+00:00
 -- url     : https://prove2.me/theorems/e4c8536c-7b24-4747-9193-f4eb6a044683
 -- title:

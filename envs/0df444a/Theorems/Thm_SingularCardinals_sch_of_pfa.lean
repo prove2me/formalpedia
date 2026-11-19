@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_sch_of_pfa
 -- name    : SingularCardinals.sch_of_pfa
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:53:15.769298+00:00
 -- url     : https://prove2.me/theorems/afcd6949-edcc-4b7f-b26c-16fecbd8be39
 -- title:

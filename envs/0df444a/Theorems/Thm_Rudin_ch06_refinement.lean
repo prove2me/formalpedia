@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_refinement
 -- name    : Rudin.ch06_refinement
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:05:05.265439+00:00
 -- url     : https://prove2.me/theorems/22944e0b-c7bc-4e9b-9bd9-017f8812c1cb
 -- title:

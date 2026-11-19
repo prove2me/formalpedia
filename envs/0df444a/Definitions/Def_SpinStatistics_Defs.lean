@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SpinStatistics_Defs
 -- name    : SpinStatistics_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:23:56.763135+00:00
 -- url     : https://prove2.me/theorems/c85f4c63-4fb9-4e6d-99d4-7330d8ccc7f4
 -- title:

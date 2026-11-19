@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GreshamLaw_Model
 -- name    : GreshamLaw_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:15.492727+00:00
 -- url     : https://prove2.me/theorems/c0e96c0f-f7ea-4879-b32f-2ad1dd74d7db
 -- title:

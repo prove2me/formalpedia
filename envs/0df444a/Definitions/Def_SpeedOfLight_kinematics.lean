@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SpeedOfLight_kinematics
 -- name    : SpeedOfLight_kinematics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T12:24:44.805569+00:00
 -- url     : https://prove2.me/theorems/62008609-d425-4211-81bf-8baa88644b7a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KLZ97_levelError_eq_threshold_pow
 -- name    : KLZ97.levelError_eq_threshold_pow
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T12:33:49.84142+00:00
 -- url     : https://prove2.me/theorems/f6acb5f2-d809-4be6-92b7-3ad51c28adac
 -- title:

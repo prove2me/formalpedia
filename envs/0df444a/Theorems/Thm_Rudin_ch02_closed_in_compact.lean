@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_closed_in_compact
 -- name    : Rudin.ch02_closed_in_compact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:49:02.101873+00:00
 -- url     : https://prove2.me/theorems/70fe0b92-545a-40c3-99b6-785fb1ec1fb7
 -- title:

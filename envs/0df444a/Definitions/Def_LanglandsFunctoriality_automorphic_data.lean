@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LanglandsFunctoriality_automorphic_data
 -- name    : LanglandsFunctoriality_automorphic_data
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:39:12.190519+00:00
 -- url     : https://prove2.me/theorems/694ac395-c84b-4f44-ab5d-e671fb040447
 -- title:

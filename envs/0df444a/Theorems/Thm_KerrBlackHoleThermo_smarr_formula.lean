@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_smarr_formula
 -- name    : KerrBlackHoleThermo.smarr_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:45:40.496556+00:00
 -- url     : https://prove2.me/theorems/9724d6bc-6e2b-4e41-8374-5a4ef06a88cc
 -- title:

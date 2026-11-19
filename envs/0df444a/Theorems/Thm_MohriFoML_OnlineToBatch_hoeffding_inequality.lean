@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MohriFoML_OnlineToBatch_hoeffding_inequality
 -- name    : MohriFoML.OnlineToBatch.hoeffding_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:09:08.884046+00:00
 -- url     : https://prove2.me/theorems/14b628e9-c865-4483-9bb6-98611204b6b1

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalDynamics_noether_theorem
 -- name    : ClassicalDynamics.noether_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:43:10.136767+00:00
 -- url     : https://prove2.me/theorems/b085b836-3bf0-4bba-b5b2-097156df2930
 -- title:

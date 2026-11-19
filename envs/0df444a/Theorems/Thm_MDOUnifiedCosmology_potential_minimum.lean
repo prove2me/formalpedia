@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_potential_minimum
 -- name    : MDOUnifiedCosmology.potential_minimum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:32:16.662752+00:00
 -- url     : https://prove2.me/theorems/d304fe5f-1adc-4cb0-882d-d3078dd7810b
 -- title:

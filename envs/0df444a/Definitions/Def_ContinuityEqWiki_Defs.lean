@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ContinuityEqWiki_Defs
 -- name    : ContinuityEqWiki_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:26.972983+00:00
 -- url     : https://prove2.me/theorems/70ccadde-7bf9-4704-8866-d35edfc510ad
 -- title:

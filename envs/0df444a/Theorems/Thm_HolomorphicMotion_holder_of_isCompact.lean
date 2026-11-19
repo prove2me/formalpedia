@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HolomorphicMotion_holder_of_isCompact
 -- name    : HolomorphicMotion.holder_of_isCompact
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T13:27:06.111477+00:00
 -- url     : https://prove2.me/theorems/2a1a1b7f-06ad-4649-80f9-2a0a4531a668
 -- title:

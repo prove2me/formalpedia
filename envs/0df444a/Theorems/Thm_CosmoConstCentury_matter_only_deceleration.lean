@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_matter_only_deceleration
 -- name    : CosmoConstCentury.matter_only_deceleration
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T12:04:44.211945+00:00
 -- url     : https://prove2.me/theorems/81f8e172-9525-4c09-af04-b9b0b2340eb9
 -- title:

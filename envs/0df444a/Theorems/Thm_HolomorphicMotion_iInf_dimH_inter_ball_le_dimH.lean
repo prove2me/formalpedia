@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HolomorphicMotion_iInf_dimH_inter_ball_le_dimH
 -- name    : HolomorphicMotion.iInf_dimH_inter_ball_le_dimH
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T13:27:04.345844+00:00
 -- url     : https://prove2.me/theorems/c6547982-0af6-4707-90e7-12003735480c
 -- title:

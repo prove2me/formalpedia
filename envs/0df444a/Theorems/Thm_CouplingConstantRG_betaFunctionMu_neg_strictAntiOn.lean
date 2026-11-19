@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_betaFunctionMu_neg_strictAntiOn
 -- name    : CouplingConstantRG.betaFunctionMu_neg_strictAntiOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:40:18.888172+00:00
 -- url     : https://prove2.me/theorems/f29513c1-8850-49ec-b24e-8ad5becdcec4
 -- title:

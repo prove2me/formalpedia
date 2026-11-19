@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_ideal_count_asymptotic
 -- name    : ClassNumberFormula.ideal_count_asymptotic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:53:29.355252+00:00
 -- url     : https://prove2.me/theorems/f71856ae-3208-47c5-9280-c72ccf3f3362
 -- title:

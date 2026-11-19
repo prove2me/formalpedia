@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_primitive_of_closed
 -- name    : Rudin.ch10_primitive_of_closed
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T00:18:48.697068+00:00
 -- url     : https://prove2.me/theorems/a45d7db0-ed01-4e57-b16d-c55e8e61d1cf
 -- title:

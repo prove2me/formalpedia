@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_prop_1_6_combinatorial_transitivity
 -- name    : AnosovPlugs.prop_1_6_combinatorial_transitivity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T03:10:44.232897+00:00
 -- url     : https://prove2.me/theorems/c17e2d1b-1382-4e8b-9d23-0ac6f3c0c11e
 -- title:

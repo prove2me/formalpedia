@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_wienFrequencyConstant_bounds
 -- name    : CODATA2022.wienFrequencyConstant_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:17:17.222345+00:00
 -- url     : https://prove2.me/theorems/ccb06187-7c02-4288-b29d-cdfa1ad4a06c
 -- title:

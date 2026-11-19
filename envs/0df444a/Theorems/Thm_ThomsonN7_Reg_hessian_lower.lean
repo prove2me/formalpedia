@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonN7_Reg_hessian_lower
 -- name    : ThomsonN7.Reg.hessian_lower
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:08:15.115586+00:00
 -- url     : https://prove2.me/theorems/f809e0ef-dc77-407b-93c0-8e73c930cc16
 -- title:

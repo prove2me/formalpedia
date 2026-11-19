@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_General_eq_6_sum
 -- name    : QAOAE3Lin2.General.eq_6_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:24.176837+00:00
 -- url     : https://prove2.me/theorems/66256ded-6cb7-448f-8106-8e3705644041

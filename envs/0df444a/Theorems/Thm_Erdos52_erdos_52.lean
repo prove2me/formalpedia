@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos52_erdos_52
 -- name    : Erdos52.erdos_52
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:41:46.256007+00:00
 -- url     : https://prove2.me/theorems/587ac0e3-e774-4fc8-901f-9649291e53fa
 -- title:

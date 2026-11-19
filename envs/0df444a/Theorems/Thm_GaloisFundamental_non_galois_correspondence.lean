@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_non_galois_correspondence
 -- name    : GaloisFundamental.non_galois_correspondence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T23:46:01.177244+00:00
 -- url     : https://prove2.me/theorems/822eba9d-cdad-4e82-81a5-073af5a1a57e
 -- title:

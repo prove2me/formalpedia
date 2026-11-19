@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CursoEDO.picard_global_on_interval
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T15:45:23.276022+00:00
 -- url     : https://prove2.me/submissions/688506b5-c65a-45fb-b8c9-46a2fac8d8de
 

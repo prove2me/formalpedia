@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_reduction_to_riemann
 -- status  : ACCEPTED   (disprove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T18:40:06.02403+00:00
 -- url     : https://prove2.me/submissions/987d9b99-c1ab-4f52-a88f-1a77c021b931
 

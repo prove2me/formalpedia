@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_num_mid
 -- name    : GT.num_mid
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:51.448568+00:00
 -- url     : https://prove2.me/theorems/f4beccfd-605d-44b7-a799-6d927048cea0
 -- title:

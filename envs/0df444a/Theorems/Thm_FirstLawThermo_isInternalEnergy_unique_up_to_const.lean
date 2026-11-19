@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_isInternalEnergy_unique_up_to_const
 -- name    : FirstLawThermo.isInternalEnergy_unique_up_to_const
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:49:55.048985+00:00
 -- url     : https://prove2.me/theorems/8d54a7c4-61f9-466c-aec3-b2a525bfcda7
 -- title:

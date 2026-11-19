@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_dirichlet_density
 -- name    : ChebotarevDensity.dirichlet_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:03:08.342524+00:00
 -- url     : https://prove2.me/theorems/328ebb8c-252c-4d53-9eb2-cb7ca63fdaed
 -- title:

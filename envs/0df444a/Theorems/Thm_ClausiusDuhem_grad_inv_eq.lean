@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClausiusDuhem_grad_inv_eq
 -- name    : ClausiusDuhem.grad_inv_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:31:21.477051+00:00
 -- url     : https://prove2.me/theorems/bdad79bf-43b4-4ea9-8e20-367b73eeb76d
 -- title:

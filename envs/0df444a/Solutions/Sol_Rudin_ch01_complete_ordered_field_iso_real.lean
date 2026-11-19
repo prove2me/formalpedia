@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch01_complete_ordered_field_iso_real
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:37:06.517946+00:00
 -- url     : https://prove2.me/submissions/d509c9c9-43f8-4030-a41f-79d524a5f786
 

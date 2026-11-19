@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KerrBlackHoleThermo_Defs
 -- name    : KerrBlackHoleThermo_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:40:38.951163+00:00
 -- url     : https://prove2.me/theorems/58326dae-82ec-401d-9c00-3b2459d72e28
 -- title:

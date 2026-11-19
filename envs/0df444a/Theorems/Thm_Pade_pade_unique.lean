@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pade_pade_unique
 -- name    : Pade.pade_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:28:36.208074+00:00
 -- url     : https://prove2.me/theorems/29eb0b23-c6d3-4d3b-bff9-d4aa7c242c15
 -- title:

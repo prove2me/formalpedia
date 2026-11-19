@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnsembleSpaceDraft_component_separate_properties
 -- name    : EnsembleSpaceDraft.component_separate_properties
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:49:55.181508+00:00
 -- url     : https://prove2.me/theorems/2e968ee2-ba91-4ecb-b474-cd187f89a223
 -- title:

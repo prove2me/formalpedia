@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCTriFree_Circuit_lemma_10
 -- name    : QMCTriFree.Circuit.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:53.046792+00:00
 -- url     : https://prove2.me/theorems/fa653e57-f6dd-4251-9d09-328fd914c88a

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_energy_conservation
 -- name    : VectorCalculus.energy_conservation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:20:38.926301+00:00
 -- url     : https://prove2.me/theorems/0e282c94-66fb-4a04-ba7b-1e741f359d32
 -- title:

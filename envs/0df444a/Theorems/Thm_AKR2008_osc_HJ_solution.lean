@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_osc_HJ_solution
 -- name    : AKR2008.osc_HJ_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T23:54:10.743206+00:00
 -- url     : https://prove2.me/theorems/39222c7b-810c-41ec-b006-06f311e1a0c2
 -- title:

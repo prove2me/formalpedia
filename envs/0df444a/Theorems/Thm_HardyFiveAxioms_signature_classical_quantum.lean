@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_signature_classical_quantum
 -- name    : HardyFiveAxioms.signature_classical_quantum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T18:12:12.510456+00:00
 -- url     : https://prove2.me/theorems/309b961c-af7c-4e48-bf79-50bc8fd9a815
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_isOpen_iff_verifiableSet
 -- name    : AssumptionsOfPhysics.isOpen_iff_verifiableSet
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:46:41.644331+00:00
 -- url     : https://prove2.me/theorems/4594b8dd-5685-4359-9ca2-ae8ddeaf9162
 -- title:

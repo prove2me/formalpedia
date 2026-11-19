@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_stefanBoltzmannConstant_bounds
 -- name    : CODATA2022.stefanBoltzmannConstant_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:12:47.877893+00:00
 -- url     : https://prove2.me/theorems/76d96925-75ae-4a68-aee3-0905089f919a
 -- title:

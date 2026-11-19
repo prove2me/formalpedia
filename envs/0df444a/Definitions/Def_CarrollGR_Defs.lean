@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CarrollGR_Defs
 -- name    : CarrollGR_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:48:53.953605+00:00
 -- url     : https://prove2.me/theorems/f1126524-a550-4efb-83b4-2933d44ca93e
 -- title:

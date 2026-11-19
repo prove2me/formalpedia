@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Mills_mills_constant_irrational
 -- name    : FCP.Mills.mills_constant_irrational
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:49:30.186977+00:00
 -- url     : https://prove2.me/theorems/b1ccb598-668f-4479-8ac7-c08443d865d9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_dimensionless_iff_rpow_Re
 -- name    : ReynoldsNumber.dimensionless_iff_rpow_Re
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:29:54.26107+00:00
 -- url     : https://prove2.me/theorems/8a073270-3582-4260-a137-4325986f085d
 -- title:

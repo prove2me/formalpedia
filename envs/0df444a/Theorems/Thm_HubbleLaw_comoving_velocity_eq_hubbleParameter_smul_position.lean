@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_comoving_velocity_eq_hubbleParameter_smul_position
 -- name    : HubbleLaw.comoving_velocity_eq_hubbleParameter_smul_position
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:16:45.706676+00:00
 -- url     : https://prove2.me/theorems/48fee60a-04fd-4df3-8e0b-3e4eac4322ab
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianFirstPassageLaplaceRightContinuous
 -- name    : Kyprianou.Ch01.inverseGaussianFirstPassageLaplaceRightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:01:20.094086+00:00
 -- url     : https://prove2.me/theorems/5109b042-f54f-4840-8300-3b46f5ada4c6

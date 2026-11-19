@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LawsonDTPlasma
 -- name    : LawsonDTPlasma
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:53:31.181442+00:00
 -- url     : https://prove2.me/theorems/d4443c91-b8be-4c5e-bdd2-1fb49c0ca94d
 -- title:

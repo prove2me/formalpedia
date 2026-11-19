@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCSTheory_gapIntegral_fermiDirac_form
 -- name    : BCSTheory.gapIntegral_fermiDirac_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:24:23.903781+00:00
 -- url     : https://prove2.me/theorems/6320e495-3193-4490-9c35-10570155730e
 -- title:

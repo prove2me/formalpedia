@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Levin2003_tilingExpansion_owf_of_exists_owf
 -- name    : Levin2003.tilingExpansion_owf_of_exists_owf
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:02:27.904761+00:00
 -- url     : https://prove2.me/theorems/d0d3b002-40f1-4013-8eed-34afe00a2310
 -- title:

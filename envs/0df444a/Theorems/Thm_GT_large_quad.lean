@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_large_quad
 -- name    : GT.large_quad
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:30.492878+00:00
 -- url     : https://prove2.me/theorems/6885efcf-ee1e-469b-a846-efc010d171c0
 -- title:

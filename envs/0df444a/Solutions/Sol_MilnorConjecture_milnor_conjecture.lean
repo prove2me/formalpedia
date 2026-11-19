@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MilnorConjecture.milnor_conjecture
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T12:06:00.898435+00:00
 -- url     : https://prove2.me/submissions/3fe0f58e-67e6-477d-beb3-d4417d5998ad
 -- note    : a sketch -- it imports a theorem that is still Open,

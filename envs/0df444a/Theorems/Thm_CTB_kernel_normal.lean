@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_kernel_normal
 -- name    : CTB.kernel_normal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:24.929983+00:00
 -- url     : https://prove2.me/theorems/f35684a5-5eea-4b33-9ba6-1b314e5b70ac
 -- title:

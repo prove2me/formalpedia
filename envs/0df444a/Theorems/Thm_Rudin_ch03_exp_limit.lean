@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_exp_limit
 -- name    : Rudin.ch03_exp_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:07:47.581739+00:00
 -- url     : https://prove2.me/theorems/f96741c0-d401-4083-981b-a8b2e82c33b3
 -- title:

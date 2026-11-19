@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_7_2_random_log_width
 -- name    : SemAC02.Supplement.theorem_7_2_random_log_width
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:52:50.810731+00:00
 -- url     : https://prove2.me/theorems/3a4ee248-069e-4cab-8ddf-6f4d7984d5d5

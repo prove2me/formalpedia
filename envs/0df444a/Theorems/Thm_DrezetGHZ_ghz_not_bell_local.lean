@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_ghz_not_bell_local
 -- name    : DrezetGHZ.ghz_not_bell_local
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T21:16:19.359083+00:00
 -- url     : https://prove2.me/theorems/9710359b-11f8-4c53-a933-af5e5479f9c7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AkhmedovNeutrino_vacuum_limit
 -- name    : AkhmedovNeutrino.vacuum_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:16:41.367785+00:00
 -- url     : https://prove2.me/theorems/e6f81be2-4f98-4843-94d3-c24245294dbc
 -- title:

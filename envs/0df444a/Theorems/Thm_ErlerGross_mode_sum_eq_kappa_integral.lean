@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_mode_sum_eq_kappa_integral
 -- name    : ErlerGross.mode_sum_eq_kappa_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:21:45.374359+00:00
 -- url     : https://prove2.me/theorems/6a0ccbdb-cc53-496b-987a-f04dbbf01462
 -- title:

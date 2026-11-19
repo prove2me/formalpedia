@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_dirac_monopole_forces_quantization
 -- name    : ElementaryCharge.dirac_monopole_forces_quantization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:13:17.347063+00:00
 -- url     : https://prove2.me/theorems/e67be5c1-4755-4274-8046-85d2442833fc
 -- title:

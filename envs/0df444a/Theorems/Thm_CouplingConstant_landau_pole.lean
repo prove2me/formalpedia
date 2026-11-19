@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_landau_pole
 -- name    : CouplingConstant.landau_pole
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:14:05.073793+00:00
 -- url     : https://prove2.me/theorems/723388a3-d125-4121-8afe-c5f7b8bfd6c3
 -- title:

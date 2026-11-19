@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_pure_state_atomic_effect_duality
 -- name    : InfoDerivQT.pure_state_atomic_effect_duality
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:50:44.445771+00:00
 -- url     : https://prove2.me/theorems/c128ef78-e7e6-49eb-83ea-db70d814a1fe
 -- title:

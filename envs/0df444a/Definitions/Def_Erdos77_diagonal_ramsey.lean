@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Erdos77_diagonal_ramsey
 -- name    : Erdos77_diagonal_ramsey
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:15:14.77458+00:00
 -- url     : https://prove2.me/theorems/0575e252-a9f4-4ec8-9d5a-9573f97affb4
 -- title:

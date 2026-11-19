@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_binary_sequences_uncountable
 -- name    : Rudin.ch02_binary_sequences_uncountable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:45:34.756806+00:00
 -- url     : https://prove2.me/theorems/227d06b3-9153-4a1c-b4e8-e59f4bbeb7f3
 -- title:

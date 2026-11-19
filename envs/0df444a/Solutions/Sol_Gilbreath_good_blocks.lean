@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.good_blocks
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:07:27.037974+00:00
 -- url     : https://prove2.me/submissions/a2f023ab-a7f6-4c12-903b-d6652be2102b
 -- note    : a sketch -- it imports a theorem that is still Open,

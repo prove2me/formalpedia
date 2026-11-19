@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_electromagnetic_units_from_caesium_parameters
 -- name    : CaesiumStandard.electromagnetic_units_from_caesium_parameters
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:33:20.242414+00:00
 -- url     : https://prove2.me/theorems/35992a1e-a890-4cd5-a72c-e6a160bf470c
 -- title:

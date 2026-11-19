@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch03_limsup_characterization
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:55:47.521983+00:00
 -- url     : https://prove2.me/submissions/c2d736de-62c4-4e02-9790-18c2ed1915c0
 

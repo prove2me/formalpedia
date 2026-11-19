@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_molar_gas_constant_value
 -- name    : BoltzmannConstant.molar_gas_constant_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T15:42:29.827905+00:00
 -- url     : https://prove2.me/theorems/61273ead-8e22-4a2f-83c6-eed5c504ace5
 -- title:

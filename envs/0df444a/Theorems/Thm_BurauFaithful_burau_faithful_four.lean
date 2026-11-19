@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_burau_faithful_four
 -- name    : BurauFaithful.burau_faithful_four
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T20:15:32.138666+00:00
 -- url     : https://prove2.me/theorems/ba582479-b867-4a43-8123-6b2da22bacc9
 -- title:

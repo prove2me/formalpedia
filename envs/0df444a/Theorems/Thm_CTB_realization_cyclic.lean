@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_realization_cyclic
 -- name    : CTB.realization_cyclic
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:12.655919+00:00
 -- url     : https://prove2.me/theorems/4332c227-d62e-485d-9bdb-9e90031942d5
 -- title:

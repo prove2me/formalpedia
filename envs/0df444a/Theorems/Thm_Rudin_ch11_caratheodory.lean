@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_caratheodory
 -- name    : Rudin.ch11_caratheodory
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:14:34.959112+00:00
 -- url     : https://prove2.me/theorems/839ef4d5-bc59-4d66-9407-46f975dd9f64
 -- title:

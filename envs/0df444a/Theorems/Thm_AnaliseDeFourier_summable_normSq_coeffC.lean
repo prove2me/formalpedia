@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnaliseDeFourier_summable_normSq_coeffC
 -- name    : AnaliseDeFourier.summable_normSq_coeffC
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T21:05:32.831014+00:00
 -- url     : https://prove2.me/theorems/4b040325-4215-4db3-b421-6ce905b57095
 -- title:

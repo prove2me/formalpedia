@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_isMaximal_iff_eq_pointIdeal
 -- name    : Nullstellensatz.isMaximal_iff_eq_pointIdeal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:33:34.276958+00:00
 -- url     : https://prove2.me/theorems/938a165d-f397-4e87-b4af-f7979a49e646
 -- title:

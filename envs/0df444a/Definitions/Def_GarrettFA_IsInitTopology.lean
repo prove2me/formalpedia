@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GarrettFA_IsInitTopology
 -- name    : GarrettFA_IsInitTopology
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:28:06.721467+00:00
 -- url     : https://prove2.me/theorems/e920f25b-64c1-4000-bdd4-0a1e87d0a940
 -- title:

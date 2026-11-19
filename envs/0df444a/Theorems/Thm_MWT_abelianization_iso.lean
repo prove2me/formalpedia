@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_abelianization_iso
 -- name    : MWT.abelianization_iso
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:22.782979+00:00
 -- url     : https://prove2.me/theorems/494ae4c6-5f97-440b-aae0-77226d694eb4
 -- title:

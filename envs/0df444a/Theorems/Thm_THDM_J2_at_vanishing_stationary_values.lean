@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_THDM_J2_at_vanishing_stationary_values
 -- name    : THDM.J2_at_vanishing_stationary_values
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:51:00.530991+00:00
 -- url     : https://prove2.me/theorems/ea4f3dd5-2118-4dc9-869d-8fca27ef2bfd
 -- title:

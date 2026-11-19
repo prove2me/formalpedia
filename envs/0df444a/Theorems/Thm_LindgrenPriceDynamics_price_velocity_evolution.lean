@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindgrenPriceDynamics_price_velocity_evolution
 -- name    : LindgrenPriceDynamics.price_velocity_evolution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:27:50.406245+00:00
 -- url     : https://prove2.me/theorems/0384a889-85cf-4b71-8088-4a8bd9eec755
 -- title:

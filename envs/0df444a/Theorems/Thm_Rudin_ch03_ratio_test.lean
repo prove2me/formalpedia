@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_ratio_test
 -- name    : Rudin.ch03_ratio_test
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:13:18.259985+00:00
 -- url     : https://prove2.me/theorems/5a2ed5a2-58e0-4701-ac96-bad02f00f6c4
 -- title:

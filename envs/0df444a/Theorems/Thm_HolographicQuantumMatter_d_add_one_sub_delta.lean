@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HolographicQuantumMatter_d_add_one_sub_delta
 -- name    : HolographicQuantumMatter.d_add_one_sub_delta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:45:31.224716+00:00
 -- url     : https://prove2.me/theorems/85347cbb-bbcc-4f37-8179-4ea2ca08d460
 -- title:

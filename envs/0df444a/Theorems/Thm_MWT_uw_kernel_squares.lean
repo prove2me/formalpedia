@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_uw_kernel_squares
 -- name    : MWT.uw_kernel_squares
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:06.552212+00:00
 -- url     : https://prove2.me/theorems/f25255a3-7f36-4f22-9bd0-4ef976d8f787
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_comparative_advantage_iff
 -- name    : ComparativeAdvantage.comparative_advantage_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:07.871879+00:00
 -- url     : https://prove2.me/theorems/7cc1d7bc-02ac-4e53-bd19-bff469bcb0e8
 -- title:

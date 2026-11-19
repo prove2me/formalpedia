@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OmegaLogic_completeness_iff_consistent_imp_satisfiable
 -- name    : OmegaLogic.completeness_iff_consistent_imp_satisfiable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T16:37:06.870373+00:00
 -- url     : https://prove2.me/theorems/e69fb4f4-d8cf-4fc0-afdb-71be759c96bd
 -- title:

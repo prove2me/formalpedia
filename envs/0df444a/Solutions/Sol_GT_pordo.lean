@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.pordo
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:55:29.40626+00:00
 -- url     : https://prove2.me/submissions/dfd4e76f-d45b-4ced-a863-d2246203d164
 

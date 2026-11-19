@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_massShell_lorentz_invariant
 -- name    : ChatterjeeQFT.massShell_lorentz_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:27:04.372347+00:00
 -- url     : https://prove2.me/theorems/55d978bf-2336-4b02-80aa-be1d46ebee34
 -- title:

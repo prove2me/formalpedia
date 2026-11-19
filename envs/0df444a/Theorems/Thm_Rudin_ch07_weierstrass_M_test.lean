@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_weierstrass_M_test
 -- name    : Rudin.ch07_weierstrass_M_test
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:13:31.673402+00:00
 -- url     : https://prove2.me/theorems/3be1e311-3e09-4215-8bf9-5301718ef821
 -- title:

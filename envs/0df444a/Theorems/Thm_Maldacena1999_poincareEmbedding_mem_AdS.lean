@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_poincareEmbedding_mem_AdS
 -- name    : Maldacena1999.poincareEmbedding_mem_AdS
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:04:25.424669+00:00
 -- url     : https://prove2.me/theorems/bb6acb82-2da7-4857-82f2-b878dd1534f2
 -- title:

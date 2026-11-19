@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PinwheelDensity.ExactRange.prop_D_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T09:01:10.896908+00:00
 -- url     : https://prove2.me/submissions/3fc052a9-dc7b-4a23-b297-4bce341a0890
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PinwheelDensity_ExactRange_Schedulable

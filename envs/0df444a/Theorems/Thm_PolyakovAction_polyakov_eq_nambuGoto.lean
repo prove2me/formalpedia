@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_polyakov_eq_nambuGoto
 -- name    : PolyakovAction.polyakov_eq_nambuGoto
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T13:04:24.77427+00:00
 -- url     : https://prove2.me/theorems/1400e518-cbb7-4dc6-acbb-77646f2b98a6
 -- title:

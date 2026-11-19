@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HilbertSixteenth_Dynamics
 -- name    : HilbertSixteenth_Dynamics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T19:05:24.85298+00:00
 -- url     : https://prove2.me/theorems/520cb26a-45a2-4800-814e-1959008385a5
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_efficacyOfRadiation_ofDensity
 -- name    : LuminousEfficacy.efficacyOfRadiation_ofDensity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:28:31.514451+00:00
 -- url     : https://prove2.me/theorems/cd22a3a6-3492-44ee-aab0-3273dffc6c06
 -- title:

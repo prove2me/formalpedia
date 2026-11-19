@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongEM_dalembert_solution
 -- name    : TongEM.dalembert_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T01:39:52.29275+00:00
 -- url     : https://prove2.me/theorems/75682417-5830-400b-b1cb-f5834021a3b2
 -- title:

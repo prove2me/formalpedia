@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AdSCFT_focusing_of_riccati
 -- name    : AdSCFT.focusing_of_riccati
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:44:05.210067+00:00
 -- url     : https://prove2.me/theorems/6f1eb776-5a8b-40dd-82c6-fccae1dd0040
 -- title:

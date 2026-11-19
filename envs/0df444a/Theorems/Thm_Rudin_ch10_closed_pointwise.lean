@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_closed_pointwise
 -- name    : Rudin.ch10_closed_pointwise
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T00:18:38.853678+00:00
 -- url     : https://prove2.me/theorems/38ff57be-6b91-4b46-a7ca-979c14d3a883
 -- title:

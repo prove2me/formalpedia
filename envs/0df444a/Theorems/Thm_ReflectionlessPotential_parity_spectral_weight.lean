@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_parity_spectral_weight
 -- name    : ReflectionlessPotential.parity_spectral_weight
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:58:16.675876+00:00
 -- url     : https://prove2.me/theorems/bc2598f5-339d-4045-8887-fcf599657e28
 -- title:

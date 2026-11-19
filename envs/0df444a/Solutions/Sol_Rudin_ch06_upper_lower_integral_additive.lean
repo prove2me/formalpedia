@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_upper_lower_integral_additive
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T14:49:37.802957+00:00
 -- url     : https://prove2.me/submissions/9933686f-c866-4c9a-b19b-68972980e63a
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_label_num
 -- name    : GT.label_num
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:31.61153+00:00
 -- url     : https://prove2.me/theorems/6f6614fe-93c2-4dba-bccf-a2a24e54f263
 -- title:

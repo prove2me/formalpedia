@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.criterion
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:22:53.799663+00:00
 -- url     : https://prove2.me/submissions/1ea4bc48-0407-41a8-9358-fe1bbf60d62f
 

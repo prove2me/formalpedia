@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SupplyDemand_Model
 -- name    : SupplyDemand_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:06.915566+00:00
 -- url     : https://prove2.me/theorems/3f9907ab-82c1-45ad-ab7b-92f99a629172
 -- title:

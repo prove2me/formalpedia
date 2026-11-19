@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_EnsembleSpaceDraft_finiteMixture
 -- name    : EnsembleSpaceDraft_finiteMixture
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:47:46.557999+00:00
 -- url     : https://prove2.me/theorems/1cda33e3-c9fd-4962-9ce6-607fdaa344a3
 -- title:

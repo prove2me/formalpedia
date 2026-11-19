@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_im_modularAction
 -- name    : TongString.im_modularAction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:58:52.723903+00:00
 -- url     : https://prove2.me/theorems/cbf61606-dc0d-4734-bf2f-c1e696d50834
 -- title:

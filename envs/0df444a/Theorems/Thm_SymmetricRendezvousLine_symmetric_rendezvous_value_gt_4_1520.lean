@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymmetricRendezvousLine_symmetric_rendezvous_value_gt_4_1520
 -- name    : SymmetricRendezvousLine.symmetric_rendezvous_value_gt_4_1520
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:54:01.89308+00:00
 -- url     : https://prove2.me/theorems/8dde44e0-dcc1-435c-b79a-70c8cc1619a2
 -- title:

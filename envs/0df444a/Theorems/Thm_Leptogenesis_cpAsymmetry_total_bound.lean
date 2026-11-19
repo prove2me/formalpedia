@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Leptogenesis_cpAsymmetry_total_bound
 -- name    : Leptogenesis.cpAsymmetry_total_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:09:04.844053+00:00
 -- url     : https://prove2.me/theorems/29ec0a16-838e-4f0d-b6f1-ee58ebfb2e3b
 -- title:

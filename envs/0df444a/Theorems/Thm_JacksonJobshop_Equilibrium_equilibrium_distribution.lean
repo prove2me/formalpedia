@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JacksonJobshop_Equilibrium_equilibrium_distribution
 -- name    : JacksonJobshop.Equilibrium.equilibrium_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:15:25.769158+00:00
 -- url     : https://prove2.me/theorems/efe90ec7-80f2-4879-9088-41b322ee83a4

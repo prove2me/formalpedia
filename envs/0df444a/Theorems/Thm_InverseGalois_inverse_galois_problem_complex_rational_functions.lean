@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_complex_rational_functions
 -- name    : InverseGalois.inverse_galois_problem_complex_rational_functions
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:21:31.922402+00:00
 -- url     : https://prove2.me/theorems/603a8fc3-95d5-42c0-81bd-1928ede549e5
 -- title:

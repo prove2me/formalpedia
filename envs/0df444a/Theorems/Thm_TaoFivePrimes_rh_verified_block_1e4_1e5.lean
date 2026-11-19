@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_verified_block_1e4_1e5
 -- name    : TaoFivePrimes.rh_verified_block_1e4_1e5
--- status  : Open
+-- status  : Proved
 -- author  : @Gabewhigham
 -- created : 2026-09-30T14:24:06.822959+00:00
 -- url     : https://prove2.me/theorems/d6aa1ce4-0acd-4007-864f-9c1be64fcc48

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_riesz_fischer
 -- name    : Rudin.ch11_riesz_fischer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:43:05.547766+00:00
 -- url     : https://prove2.me/theorems/82482e0f-de0b-4a3f-b599-91cb3c46f357
 -- title:

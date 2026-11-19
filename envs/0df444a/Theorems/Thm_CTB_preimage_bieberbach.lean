@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_preimage_bieberbach
 -- name    : CTB.preimage_bieberbach
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:48.559379+00:00
 -- url     : https://prove2.me/theorems/1d5c2988-a2fe-464b-9bf5-a7481aa57826
 -- title:

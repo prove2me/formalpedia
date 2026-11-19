@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OpenGA_SurgeryContinuationData_definedUpTo_of_locallyFinite
 -- name    : OpenGA.SurgeryContinuationData.definedUpTo_of_locallyFinite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:33:14.855401+00:00
 -- url     : https://prove2.me/theorems/b726d5ea-1b21-438d-84af-7d6538782cfc
 -- title:

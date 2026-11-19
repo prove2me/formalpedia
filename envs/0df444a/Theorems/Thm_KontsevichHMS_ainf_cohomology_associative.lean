@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_ainf_cohomology_associative
 -- name    : KontsevichHMS.ainf_cohomology_associative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:53:21.923768+00:00
 -- url     : https://prove2.me/theorems/c6628d0f-efd2-4c36-a08a-6ff5f3a19bf6
 -- title:

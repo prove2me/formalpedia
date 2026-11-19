@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ComparativeAdvantage_Model
 -- name    : ComparativeAdvantage_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:30.492055+00:00
 -- url     : https://prove2.me/theorems/a46a7dd1-ceec-4b6a-8e7a-4a1ee079495c
 -- title:

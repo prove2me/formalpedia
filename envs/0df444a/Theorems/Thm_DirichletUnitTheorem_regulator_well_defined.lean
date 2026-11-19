@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_regulator_well_defined
 -- name    : DirichletUnitTheorem.regulator_well_defined
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:34:20.264402+00:00
 -- url     : https://prove2.me/theorems/41bf8ccf-db03-48cb-ac34-978d700da51b
 -- title:

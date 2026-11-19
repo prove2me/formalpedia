@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ConnesRZ.mellinHat_conv_starInv_critical
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T02:21:20.308994+00:00
 -- url     : https://prove2.me/submissions/806ef0c1-adc6-4dc2-8eae-f9de33353f5f
 

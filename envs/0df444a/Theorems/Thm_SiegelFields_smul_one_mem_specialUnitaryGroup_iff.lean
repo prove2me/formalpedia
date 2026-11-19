@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_smul_one_mem_specialUnitaryGroup_iff
 -- name    : SiegelFields.smul_one_mem_specialUnitaryGroup_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:41:00.46563+00:00
 -- url     : https://prove2.me/theorems/659a3dcd-3a26-42e4-88e9-e0b87c162739
 -- title:

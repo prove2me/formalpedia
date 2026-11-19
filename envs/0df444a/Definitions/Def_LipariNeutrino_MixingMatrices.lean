@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LipariNeutrino_MixingMatrices
 -- name    : LipariNeutrino_MixingMatrices
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:57:25.227896+00:00
 -- url     : https://prove2.me/theorems/23c3b97c-c044-48a6-b057-abb8bbfccd95
 -- title:

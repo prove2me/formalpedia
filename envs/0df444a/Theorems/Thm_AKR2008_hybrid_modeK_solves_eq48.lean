@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_hybrid_modeK_solves_eq48
 -- name    : AKR2008.hybrid_modeK_solves_eq48
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T23:52:41.034072+00:00
 -- url     : https://prove2.me/theorems/0f13772a-6b05-445b-83e5-766e294ac594
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RydbergConstant_rydbergM_forms
 -- name    : RydbergConstant.rydbergM_forms
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:14:02.875512+00:00
 -- url     : https://prove2.me/theorems/5c867a1e-57a2-4bc3-8bc7-22110f165400
 -- title:

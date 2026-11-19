@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CarneiroDeSitter2006
 -- name    : CarneiroDeSitter2006
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:07:37.309975+00:00
 -- url     : https://prove2.me/theorems/08d1d410-fe54-4b07-9710-f1d807dd6580
 -- title:

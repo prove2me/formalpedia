@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_eigenstate_periodic
 -- name    : ParticleInARing.eigenstate_periodic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:28:06.115986+00:00
 -- url     : https://prove2.me/theorems/6b58e178-65b2-4ee2-9f5d-4a0b94269e3f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_celestial_gluon_s_algebra
 -- name    : celestial_gluon_s_algebra
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T02:32:52.019973+00:00
 -- url     : https://prove2.me/theorems/1e3958a2-b661-406c-8275-228eac50f238
 -- title:

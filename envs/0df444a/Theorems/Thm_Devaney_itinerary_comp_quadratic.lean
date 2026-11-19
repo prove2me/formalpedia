@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_itinerary_comp_quadratic
 -- name    : Devaney.itinerary_comp_quadratic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:52:19.79434+00:00
 -- url     : https://prove2.me/theorems/16c3ff32-5acf-4ecf-801c-6d73065135bf
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Freiman.middle_interval_upper
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:02:11.003242+00:00
 -- url     : https://prove2.me/submissions/f27a77f0-e92c-4f02-9098-5251978f6331
 

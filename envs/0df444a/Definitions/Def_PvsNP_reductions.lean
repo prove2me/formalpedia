@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PvsNP_reductions
 -- name    : PvsNP_reductions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T01:13:42.556355+00:00
 -- url     : https://prove2.me/theorems/03026c10-3f43-48fa-89a4-e08df8b2b55f
 -- title:

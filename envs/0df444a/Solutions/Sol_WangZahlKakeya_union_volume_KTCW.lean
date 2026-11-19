@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WangZahlKakeya.union_volume_KTCW
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T15:26:14.293851+00:00
 -- url     : https://prove2.me/submissions/96e8430d-1f5c-4245-b5d4-c92dc1a7e1a7
 -- note    : a sketch -- it imports a theorem that is still Open,

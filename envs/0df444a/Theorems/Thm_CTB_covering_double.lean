@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CTB_covering_double
 -- name    : CTB.covering_double
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:59.995301+00:00
 -- url     : https://prove2.me/theorems/51bac713-7b6f-41f5-8b08-b997cbd1aa53
 -- title:

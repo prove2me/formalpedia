@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_entropy_ge_of_statDist_le
 -- name    : LiuPass.entropy_ge_of_statDist_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:26:24.701294+00:00
 -- url     : https://prove2.me/theorems/084edb40-34da-483f-834d-5b6eeede6940
 -- title:

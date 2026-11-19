@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos1210_erdos_1210_er77c_primes_variant
 -- name    : Erdos1210.erdos_1210_er77c_primes_variant
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:10:42.71292+00:00
 -- url     : https://prove2.me/theorems/558fc898-4759-4b89-9b06-3c21585ab2a4
 -- title:

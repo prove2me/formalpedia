@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialMechanics_masses_from_observation
 -- name    : CelestialMechanics.masses_from_observation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:27:08.730238+00:00
 -- url     : https://prove2.me/theorems/c7d847a9-a913-47da-b03e-681771059bca
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SEF_zero_free_region_classical
 -- name    : SEF.zero_free_region_classical
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:00:33.358331+00:00
 -- url     : https://prove2.me/theorems/7bded468-8dd7-4810-a39a-4df347930f6d
 -- title:

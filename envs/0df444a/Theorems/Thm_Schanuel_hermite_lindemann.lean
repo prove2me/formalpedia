@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_hermite_lindemann
 -- name    : Schanuel.hermite_lindemann
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:31:11.422362+00:00
 -- url     : https://prove2.me/theorems/f88819a5-647b-4cbb-854b-5c8bbfe23d70
 -- title:

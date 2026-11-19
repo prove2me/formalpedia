@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClosingLemma_closing_lemma_Cr
 -- name    : ClosingLemma.closing_lemma_Cr
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T03:16:13.302742+00:00
 -- url     : https://prove2.me/theorems/41e83864-779d-4892-a7e7-50ea8d1533ee
 -- title:

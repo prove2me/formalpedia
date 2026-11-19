@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_upwardPassageZeroRootRightSlopeCriterion
 -- name    : Kyprianou.Ch03.upwardPassageZeroRootRightSlopeCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:48:27.039208+00:00
 -- url     : https://prove2.me/theorems/c4449b08-47c7-4fb3-894a-37e8d92b0e63

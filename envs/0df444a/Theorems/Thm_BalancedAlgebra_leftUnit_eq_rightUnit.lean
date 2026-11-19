@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_leftUnit_eq_rightUnit
 -- name    : BalancedAlgebra.leftUnit_eq_rightUnit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:34:41.908123+00:00
 -- url     : https://prove2.me/theorems/8e12eca3-ae43-4c53-9484-1dc96ba7b1bf
 -- title:

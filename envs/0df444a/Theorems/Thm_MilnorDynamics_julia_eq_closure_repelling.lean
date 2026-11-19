@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_julia_eq_closure_repelling
 -- name    : MilnorDynamics.julia_eq_closure_repelling
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T12:46:05.436982+00:00
 -- url     : https://prove2.me/theorems/fcf06312-63a8-4658-a176-719c639b3c32
 -- title:

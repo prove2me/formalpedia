@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_asymptotic_fields
 -- name    : HooftMonopole.asymptotic_fields
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:12:15.502005+00:00
 -- url     : https://prove2.me/theorems/ddd01705-ac41-4d53-aa83-0fac8d9ddca7
 -- title:

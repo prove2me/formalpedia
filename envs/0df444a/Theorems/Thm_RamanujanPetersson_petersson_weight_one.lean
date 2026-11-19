@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_petersson_weight_one
 -- name    : RamanujanPetersson.petersson_weight_one
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:21:21.625986+00:00
 -- url     : https://prove2.me/theorems/a7067957-40d5-43e8-9ad3-441651ffbb35
 -- title:

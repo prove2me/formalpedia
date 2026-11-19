@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_hrr
 -- name    : CondC.hrr
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:53:28.156654+00:00
 -- url     : https://prove2.me/theorems/75156c00-173e-4a8b-a601-531af3c43ab1
 -- title:

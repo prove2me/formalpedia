@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_psiC_reflectionless
 -- name    : ReflectionlessPotential.psiC_reflectionless
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:49:07.013978+00:00
 -- url     : https://prove2.me/theorems/6662f40d-f1f6-4a1a-8694-b203f5636c48
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IwasawaMainConjecture_iwasawa_power_series_existsUnique
 -- name    : IwasawaMainConjecture.iwasawa_power_series_existsUnique
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T17:23:10.976715+00:00
 -- url     : https://prove2.me/theorems/2d8f173b-c0ea-43e1-91d5-c3310c93dc58
 -- title:

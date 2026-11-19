@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_hc_five
 -- name    : HadwigerConj.hc_five
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:24:37.964795+00:00
 -- url     : https://prove2.me/theorems/8c6943ca-598b-47b0-8962-0c7d8d6a0e60
 -- title:

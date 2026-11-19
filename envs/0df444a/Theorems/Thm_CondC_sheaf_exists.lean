@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_sheaf_exists
 -- name    : CondC.sheaf_exists
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:50:50.946718+00:00
 -- url     : https://prove2.me/theorems/9130a9ff-29b2-4c0f-9e7a-5c21508b4208
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TongString_dedekind_eta
 -- name    : TongString_dedekind_eta
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:17:22.070833+00:00
 -- url     : https://prove2.me/theorems/1c4a65e9-168d-4c0e-8b02-e06488774b8f
 -- title:

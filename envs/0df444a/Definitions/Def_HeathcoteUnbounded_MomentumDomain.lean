@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HeathcoteUnbounded_MomentumDomain
 -- name    : HeathcoteUnbounded_MomentumDomain
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:33:51.782988+00:00
 -- url     : https://prove2.me/theorems/d355e0ab-da03-41d3-b73c-e797a7ed1d81
 -- title:

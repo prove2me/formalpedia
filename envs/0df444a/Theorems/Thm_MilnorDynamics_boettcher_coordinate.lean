@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_boettcher_coordinate
 -- name    : MilnorDynamics.boettcher_coordinate
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T11:07:52.157704+00:00
 -- url     : https://prove2.me/theorems/ab6bcecc-f444-45ae-a563-90c8972969ba
 -- title:

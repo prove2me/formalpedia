@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Milne_tensor_interchange_kunneth
 -- name    : Milne.tensor_interchange_kunneth
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T03:10:46.40986+00:00
 -- url     : https://prove2.me/theorems/da1d6141-62d6-4de5-b087-fad1d9a67ec5
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_quasiCompact_of_isNoetherianScheme
 -- name    : NoetherianScheme.quasiCompact_of_isNoetherianScheme
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T22:37:38.1123+00:00
 -- url     : https://prove2.me/theorems/355bb1e1-9e12-4e83-ae67-675ba2c4fe40
 -- title:

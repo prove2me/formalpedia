@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_gammaTwo_smul_nhds_disjoint
 -- name    : MilnorDynamics.gammaTwo_smul_nhds_disjoint
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:51:15.670756+00:00
 -- url     : https://prove2.me/theorems/69e50913-f7a0-49df-b760-7c85902fae49
 -- title:

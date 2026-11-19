@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialMechanics_centerOfMass_uniform_motion
 -- name    : CelestialMechanics.centerOfMass_uniform_motion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:22:20.225517+00:00
 -- url     : https://prove2.me/theorems/de574f53-fa43-4f1d-b63d-a84b74eba816
 -- title:

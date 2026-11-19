@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MethanolMuDrift_eLine_two_sigma_level
 -- name    : MethanolMuDrift.eLine_two_sigma_level
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:25:35.464195+00:00
 -- url     : https://prove2.me/theorems/c80c00e4-9faf-4b12-8688-86380ad00766
 -- title:

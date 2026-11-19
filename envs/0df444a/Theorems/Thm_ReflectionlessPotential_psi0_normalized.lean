@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_psi0_normalized
 -- name    : ReflectionlessPotential.psi0_normalized
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:46:12.043681+00:00
 -- url     : https://prove2.me/theorems/bb343f8c-2d06-4515-a394-0a02172603b2
 -- title:

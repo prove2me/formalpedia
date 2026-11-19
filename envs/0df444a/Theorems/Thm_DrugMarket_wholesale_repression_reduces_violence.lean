@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_wholesale_repression_reduces_violence
 -- name    : DrugMarket.wholesale_repression_reduces_violence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:42:52.825146+00:00
 -- url     : https://prove2.me/theorems/7bc6638c-faff-4cd2-861d-0144bc837453
 -- title:

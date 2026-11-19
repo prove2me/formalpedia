@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_logAbsZ_mean
 -- name    : KeatingSnaith.cue_logAbsZ_mean
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:59:14.254546+00:00
 -- url     : https://prove2.me/theorems/951d4899-f1a8-41be-874b-5b4e6493a89b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HardyLittlewood_constellation
 -- name    : HardyLittlewood_constellation
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:30:38.594814+00:00
 -- url     : https://prove2.me/theorems/cc9a3805-fe84-496e-99e9-56ff3a50a0b2
 -- title:

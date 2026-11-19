@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_commutator_eq_cross
 -- name    : SiegelFields.commutator_eq_cross
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:21:32.220423+00:00
 -- url     : https://prove2.me/theorems/6f314db1-5335-4b2d-af76-c177666f3e49
 -- title:

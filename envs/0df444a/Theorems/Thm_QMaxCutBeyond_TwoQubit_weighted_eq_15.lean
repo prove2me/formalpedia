@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMaxCutBeyond_TwoQubit_weighted_eq_15
 -- name    : QMaxCutBeyond.TwoQubit.weighted_eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:12.65383+00:00
 -- url     : https://prove2.me/theorems/d46d65a7-f696-43ef-aeb1-a6d00be70b90

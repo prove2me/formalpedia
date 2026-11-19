@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_hc_four
 -- name    : HadwigerConj.hc_four
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:17:01.003008+00:00
 -- url     : https://prove2.me/theorems/c01f0340-5cac-4cff-9e45-7e844b436e7c
 -- title:

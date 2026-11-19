@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gribov_no_continuous_gauge_fixing
 -- name    : Gribov.no_continuous_gauge_fixing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:15:12.084844+00:00
 -- url     : https://prove2.me/theorems/08172c4e-0a8b-4085-b98b-20015bef3e4f
 -- title:

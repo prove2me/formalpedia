@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_bosonAction_unitary
 -- name    : ChatterjeeQFT.bosonAction_unitary
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:35:39.498707+00:00
 -- url     : https://prove2.me/theorems/25ee4f69-c956-42da-87d5-96e7b2348c96
 -- title:

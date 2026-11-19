@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_BusyBeaver
 -- name    : FCP_BusyBeaver
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:07:37.562024+00:00
 -- url     : https://prove2.me/theorems/06a42dab-13e2-47c4-b625-cd72fb4479b1
 -- title:

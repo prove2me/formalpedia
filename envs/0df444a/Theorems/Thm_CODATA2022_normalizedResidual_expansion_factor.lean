@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_normalizedResidual_expansion_factor
 -- name    : CODATA2022.normalizedResidual_expansion_factor
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:23:31.573453+00:00
 -- url     : https://prove2.me/theorems/9c6e8f71-8801-443a-870d-9d0d839562ef
 -- title:

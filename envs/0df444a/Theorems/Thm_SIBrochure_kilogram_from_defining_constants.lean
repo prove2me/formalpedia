@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_kilogram_from_defining_constants
 -- name    : SIBrochure.kilogram_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:21:28.025982+00:00
 -- url     : https://prove2.me/theorems/452ddee2-e906-45d2-9b09-e19d6172a64c
 -- title:

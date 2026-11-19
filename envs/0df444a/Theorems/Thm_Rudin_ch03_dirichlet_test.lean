@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_dirichlet_test
 -- name    : Rudin.ch03_dirichlet_test
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:19:38.086264+00:00
 -- url     : https://prove2.me/theorems/64d576c6-6b99-4a57-918d-4825d24df016
 -- title:

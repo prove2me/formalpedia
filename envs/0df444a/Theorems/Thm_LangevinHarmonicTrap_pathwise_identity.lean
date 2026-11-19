@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LangevinHarmonicTrap_pathwise_identity
 -- name    : LangevinHarmonicTrap.pathwise_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:11:29.978984+00:00
 -- url     : https://prove2.me/theorems/5cd529b3-30d2-4ec5-a0a5-7acae5025887
 -- title:

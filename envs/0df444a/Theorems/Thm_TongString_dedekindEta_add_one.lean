@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_dedekindEta_add_one
 -- name    : TongString.dedekindEta_add_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T21:47:20.960657+00:00
 -- url     : https://prove2.me/theorems/d96a2cf5-7f3e-4894-bff2-7b780d86dde3
 -- title:

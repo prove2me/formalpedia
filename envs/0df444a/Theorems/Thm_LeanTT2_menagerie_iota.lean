@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LeanTT2_menagerie_iota
 -- name    : LeanTT2.menagerie_iota
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T03:04:55.345366+00:00
 -- url     : https://prove2.me/theorems/fbb7a0b6-bcdb-483f-b5bb-393a997eddc3
 -- title:

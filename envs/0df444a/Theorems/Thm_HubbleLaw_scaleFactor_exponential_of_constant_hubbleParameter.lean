@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_scaleFactor_exponential_of_constant_hubbleParameter
 -- name    : HubbleLaw.scaleFactor_exponential_of_constant_hubbleParameter
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:20:18.921399+00:00
 -- url     : https://prove2.me/theorems/d139be98-e791-4265-8881-86e4cd08abec
 -- title:

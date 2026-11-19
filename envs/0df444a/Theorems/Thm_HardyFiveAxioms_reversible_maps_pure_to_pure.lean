@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_reversible_maps_pure_to_pure
 -- name    : HardyFiveAxioms.reversible_maps_pure_to_pure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:21:25.130733+00:00
 -- url     : https://prove2.me/theorems/51a4d932-a340-4819-ba5d-fafd83587e59
 -- title:

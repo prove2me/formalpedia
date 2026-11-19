@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LangevinHarmonicTrap_IsLangevinPath
 -- name    : LangevinHarmonicTrap_IsLangevinPath
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:09:12.682405+00:00
 -- url     : https://prove2.me/theorems/29e618e0-8371-410b-b029-c9a022a239e0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_norm_residue_ker_le_of_three_le
 -- name    : MilnorConjecture.norm_residue_ker_le_of_three_le
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T12:26:19.603317+00:00
 -- url     : https://prove2.me/theorems/45c0e3c4-4b36-4939-a1ce-87e45ecfc07e
 -- title:

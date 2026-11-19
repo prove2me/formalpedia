@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_symmetric_smallest
 -- name    : MWT.symmetric_smallest
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:21.377316+00:00
 -- url     : https://prove2.me/theorems/88c404b5-b678-4b69-9451-ddffcbd15fec
 -- title:

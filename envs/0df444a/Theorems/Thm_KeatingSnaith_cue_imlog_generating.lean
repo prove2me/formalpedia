@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_imlog_generating
 -- name    : KeatingSnaith.cue_imlog_generating
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:50:52.614445+00:00
 -- url     : https://prove2.me/theorems/8b9736f1-3e1d-4390-8bf6-eaf302467aea
 -- title:

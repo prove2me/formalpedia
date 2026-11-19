@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YMMG_OSAxioms
 -- name    : YMMG_OSAxioms
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:07:16.388405+00:00
 -- url     : https://prove2.me/theorems/cba6a946-5aa3-40ac-a354-4e72e58a6bb5
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_emergent_string_scale_integral
 -- name    : DSSYKScales.emergent_string_scale_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:55:59.481705+00:00
 -- url     : https://prove2.me/theorems/4b6e138a-f6c1-4ab8-8f8d-0badfbc986f6
 -- title:

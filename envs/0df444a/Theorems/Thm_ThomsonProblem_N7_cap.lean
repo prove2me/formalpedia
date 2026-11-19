@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonProblem_N7_cap
 -- name    : ThomsonProblem.N7.cap
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T23:55:59.969408+00:00
 -- url     : https://prove2.me/theorems/b12f10c7-31d1-44a2-a85f-d73fa6d14829
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixth_compressible_euler_from_newton
 -- name    : HilbertSixth.compressible_euler_from_newton
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T04:29:09.12412+00:00
 -- url     : https://prove2.me/theorems/1b4cad90-da4a-4aaf-b226-996fbc52c996
 -- title:

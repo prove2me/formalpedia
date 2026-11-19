@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GarrettFA_IsEquicontinuousSet
 -- name    : GarrettFA_IsEquicontinuousSet
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:23:13.986865+00:00
 -- url     : https://prove2.me/theorems/d200f308-9242-4566-b472-9d2a9e2ca8e0
 -- title:

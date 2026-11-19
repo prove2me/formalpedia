@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_mass_cube_uncertainty_lower_bound
 -- name    : AKR2008.mass_cube_uncertainty_lower_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:32:07.635977+00:00
 -- url     : https://prove2.me/theorems/687a832f-5717-4f82-9b65-eea45771455b
 -- title:

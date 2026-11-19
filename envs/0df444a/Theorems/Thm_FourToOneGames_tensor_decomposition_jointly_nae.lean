@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FourToOneGames_tensor_decomposition_jointly_nae
 -- name    : FourToOneGames.tensor_decomposition_jointly_nae
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:38:54.721906+00:00
 -- url     : https://prove2.me/theorems/c3c19c79-898a-4eb7-b7a2-f312c198513c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_domainEquiv_iff_homeomorph
 -- name    : AssumptionsOfPhysics.domainEquiv_iff_homeomorph
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:26:23.435978+00:00
 -- url     : https://prove2.me/theorems/8bf0e063-3daf-4567-aa34-2483f272229b
 -- title:

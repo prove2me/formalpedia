@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_metre_from_defining_constants
 -- name    : SIBrochure.metre_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:19:52.170275+00:00
 -- url     : https://prove2.me/theorems/05b97ff5-e434-438a-a807-c951d2d74374
 -- title:

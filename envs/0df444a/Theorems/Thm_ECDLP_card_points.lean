@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_card_points
 -- name    : ECDLP.card_points
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:45:52.517193+00:00
 -- url     : https://prove2.me/theorems/997f2d2e-8a9a-4eab-8e74-e613c33febc5
 -- title:

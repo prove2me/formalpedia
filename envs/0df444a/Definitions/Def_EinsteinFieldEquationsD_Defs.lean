@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_EinsteinFieldEquationsD_Defs
 -- name    : EinsteinFieldEquationsD_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:10:53.679989+00:00
 -- url     : https://prove2.me/theorems/abd24765-a526-403a-8914-2e69d2a8d7ab
 -- title:

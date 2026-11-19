@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_gibbs_entropy_uniform_eq_boltzmann_entropy
 -- name    : BoltzmannConstant.gibbs_entropy_uniform_eq_boltzmann_entropy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:37:29.671793+00:00
 -- url     : https://prove2.me/theorems/751dbc27-8068-47a9-9fec-bd8b119be135
 -- title:

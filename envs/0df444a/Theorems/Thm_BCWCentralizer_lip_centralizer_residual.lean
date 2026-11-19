@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCWCentralizer_lip_centralizer_residual
 -- name    : BCWCentralizer.lip_centralizer_residual
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:35:44.294069+00:00
 -- url     : https://prove2.me/theorems/7b86684b-2a76-496b-9b83-3821b0599867
 -- title:

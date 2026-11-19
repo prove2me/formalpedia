@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.SLA.energy_refined
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:41:43.873703+00:00
 -- url     : https://prove2.me/submissions/c9e00825-c36e-4ea6-b709-422705d44860
 

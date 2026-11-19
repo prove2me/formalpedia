@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_chiSquared_nonneg
 -- name    : SZFilaments.chiSquared_nonneg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:52:52.900361+00:00
 -- url     : https://prove2.me/theorems/0d4e2c73-77d4-45f4-964d-976cabef33d0
 -- title:

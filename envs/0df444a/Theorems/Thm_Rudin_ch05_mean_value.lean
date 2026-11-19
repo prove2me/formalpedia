@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_mean_value
 -- name    : Rudin.ch05_mean_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:13:36.166013+00:00
 -- url     : https://prove2.me/theorems/035a8689-f8c3-4048-916e-9f5bef5e89e2
 -- title:

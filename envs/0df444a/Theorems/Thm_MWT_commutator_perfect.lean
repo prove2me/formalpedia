@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_commutator_perfect
 -- name    : MWT.commutator_perfect
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:45.361527+00:00
 -- url     : https://prove2.me/theorems/0734bd47-61cd-4567-b98c-9d7925a21d1a
 -- title:

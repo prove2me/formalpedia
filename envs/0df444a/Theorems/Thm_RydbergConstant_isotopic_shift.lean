@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RydbergConstant_isotopic_shift
 -- name    : RydbergConstant.isotopic_shift
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:15:17.817616+00:00
 -- url     : https://prove2.me/theorems/95bb2597-9216-43b5-98b6-01645875d4d5
 -- title:

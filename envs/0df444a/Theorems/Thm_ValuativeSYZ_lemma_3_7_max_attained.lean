@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_lemma_3_7_max_attained
 -- name    : ValuativeSYZ.lemma_3_7_max_attained
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:02:28.722886+00:00
 -- url     : https://prove2.me/theorems/51d54626-ae8c-4b98-8a26-9a5a975b8281
 -- title:

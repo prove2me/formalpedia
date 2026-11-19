@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DLT_MLPInit
 -- name    : DLT_MLPInit
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:16:25.438986+00:00
 -- url     : https://prove2.me/theorems/50210c89-b8fb-4cea-b22c-a1fa5f00b245
 -- title:

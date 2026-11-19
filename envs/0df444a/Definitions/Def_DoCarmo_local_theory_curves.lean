@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DoCarmo_local_theory_curves
 -- name    : DoCarmo_local_theory_curves
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:15:44.495295+00:00
 -- url     : https://prove2.me/theorems/b5723c9b-9204-46b6-96ea-247a6db96688
 -- title:

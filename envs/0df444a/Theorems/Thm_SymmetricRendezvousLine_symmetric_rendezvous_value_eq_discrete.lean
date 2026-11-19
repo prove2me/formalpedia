@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymmetricRendezvousLine_symmetric_rendezvous_value_eq_discrete
 -- name    : SymmetricRendezvousLine.symmetric_rendezvous_value_eq_discrete
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:53:19.899767+00:00
 -- url     : https://prove2.me/theorems/5582f2e3-137e-49f4-8c79-34efab5c491c
 -- title:

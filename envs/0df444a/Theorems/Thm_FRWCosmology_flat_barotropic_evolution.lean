@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRWCosmology_flat_barotropic_evolution
 -- name    : FRWCosmology.flat_barotropic_evolution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:48:32.811726+00:00
 -- url     : https://prove2.me/theorems/a4f003be-5ee1-4a8b-995b-1470a400fb81
 -- title:

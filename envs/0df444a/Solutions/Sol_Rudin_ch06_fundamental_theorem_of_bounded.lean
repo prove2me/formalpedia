@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_fundamental_theorem_of_bounded
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:14:12.657181+00:00
 -- url     : https://prove2.me/submissions/d35a1b66-5c7c-4e15-a5dd-a183b11e42f5
 

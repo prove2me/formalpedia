@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WallGSL_GeneralizedEntropy
 -- name    : WallGSL_GeneralizedEntropy
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T17:51:51.172298+00:00
 -- url     : https://prove2.me/theorems/f9c1f83d-1e84-4867-bdfd-b758f0d9e7b4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_abelian_subgroups_correspondence
 -- name    : BQC.abelian_subgroups_correspondence
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:30:09.217377+00:00
 -- url     : https://prove2.me/theorems/074d8737-c57a-4636-b281-e49bb48c566c
 -- title:

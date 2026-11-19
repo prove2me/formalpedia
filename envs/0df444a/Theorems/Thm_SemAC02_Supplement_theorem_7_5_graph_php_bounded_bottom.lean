@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_7_5_graph_php_bounded_bottom
 -- name    : SemAC02.Supplement.theorem_7_5_graph_php_bounded_bottom
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:53:27.920902+00:00
 -- url     : https://prove2.me/theorems/56675c27-2cfd-49ca-ab56-f559b320c3ee

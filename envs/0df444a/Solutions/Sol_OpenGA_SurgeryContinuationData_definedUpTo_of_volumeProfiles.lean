@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OpenGA.SurgeryContinuationData.definedUpTo_of_volumeProfiles
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:40:04.547893+00:00
 -- url     : https://prove2.me/submissions/cbd67971-6b15-4113-83fe-bbbd62d1e113
 

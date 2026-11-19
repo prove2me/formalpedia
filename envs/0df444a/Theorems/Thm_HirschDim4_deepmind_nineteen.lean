@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HirschDim4_deepmind_nineteen
 -- name    : HirschDim4.deepmind_nineteen
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:56:58.514132+00:00
 -- url     : https://prove2.me/theorems/b1ad4bbd-bf1f-4ceb-be30-a603779cb4b9
 -- title:

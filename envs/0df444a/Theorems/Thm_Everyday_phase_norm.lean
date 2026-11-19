@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_phase_norm
 -- name    : Everyday.phase_norm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:17:27.200411+00:00
 -- url     : https://prove2.me/theorems/62560843-ce70-4a91-bb59-4191fb0338d2
 -- title:

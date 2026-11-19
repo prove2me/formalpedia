@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_BatemanHorn
 -- name    : FCP_BatemanHorn
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T18:23:41.296069+00:00
 -- url     : https://prove2.me/theorems/bab0f70f-dbee-4cab-9c4b-b593780307d9
 -- title:

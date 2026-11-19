@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_celestial_wedge_algebra
 -- name    : celestial_wedge_algebra
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T02:31:35.161633+00:00
 -- url     : https://prove2.me/theorems/b247ff85-24fe-471d-b000-2fa1ce110bca
 -- title:

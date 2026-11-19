@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_extreme_value
 -- name    : Rudin.ch04_extreme_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:14:33.115947+00:00
 -- url     : https://prove2.me/theorems/8c6dd802-efab-4e72-be39-ad40870a08c2
 -- title:

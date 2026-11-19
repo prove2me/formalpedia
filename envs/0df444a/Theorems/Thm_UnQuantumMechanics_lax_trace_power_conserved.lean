@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_lax_trace_power_conserved
 -- name    : UnQuantumMechanics.lax_trace_power_conserved
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:45:53.741508+00:00
 -- url     : https://prove2.me/theorems/539c17ed-3824-4d5e-9811-f7ca56eec4af
 -- title:

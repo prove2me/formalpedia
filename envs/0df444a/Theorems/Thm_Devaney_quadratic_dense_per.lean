@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_dense_per
 -- name    : Devaney.quadratic_dense_per
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:12:58.625714+00:00
 -- url     : https://prove2.me/theorems/904ed3ee-9f74-40d3-81dc-af69ad26baf9
 -- title:

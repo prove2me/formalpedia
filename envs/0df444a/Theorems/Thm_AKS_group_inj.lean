@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_group_inj
 -- name    : AKS.group_inj
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:52:59.543832+00:00
 -- url     : https://prove2.me/theorems/6e6c89a0-29ed-45b7-8a1b-3cea8bf3b44b
 -- title:

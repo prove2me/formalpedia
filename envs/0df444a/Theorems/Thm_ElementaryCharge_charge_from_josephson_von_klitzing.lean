@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_charge_from_josephson_von_klitzing
 -- name    : ElementaryCharge.charge_from_josephson_von_klitzing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:39:18.184695+00:00
 -- url     : https://prove2.me/theorems/d83a2070-55ae-4b7f-9009-008ddb7bf1ff
 -- title:

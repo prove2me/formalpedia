@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_sum_inv_n_nine_n_sq_sub_one
 -- name    : ErlerGross.sum_inv_n_nine_n_sq_sub_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:44:21.160987+00:00
 -- url     : https://prove2.me/theorems/184d6b36-1be5-4c46-8fc5-9e261d6d9ed2
 -- title:

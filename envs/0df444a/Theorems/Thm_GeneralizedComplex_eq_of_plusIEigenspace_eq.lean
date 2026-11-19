@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_eq_of_plusIEigenspace_eq
 -- name    : GeneralizedComplex.eq_of_plusIEigenspace_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:47:59.360272+00:00
 -- url     : https://prove2.me/theorems/36ba385d-67d9-4737-8a06-4cd272961bd3
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_soft_factor_factorization
 -- name    : Weinberg1965.soft_factor_factorization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:52:56.041986+00:00
 -- url     : https://prove2.me/theorems/25680911-62c2-4e9b-889c-316106ffe5ee
 -- title:

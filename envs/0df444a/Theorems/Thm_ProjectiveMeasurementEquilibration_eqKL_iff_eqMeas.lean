@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_eqKL_iff_eqMeas
 -- name    : ProjectiveMeasurementEquilibration.eqKL_iff_eqMeas
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T18:11:48.638205+00:00
 -- url     : https://prove2.me/theorems/6ead620b-6ba7-45fc-91a2-2b3ab7bbd29e
 -- title:

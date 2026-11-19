@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Gerver_arena
 -- name    : Gerver_arena
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T19:29:20.353804+00:00
 -- url     : https://prove2.me/theorems/af595b23-417a-48fb-bbc0-ef4e41ce3bbd
 -- title:

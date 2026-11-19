@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_block_decomposition
 -- name    : ProjectiveMeasurementEquilibration.block_decomposition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T10:06:21.494307+00:00
 -- url     : https://prove2.me/theorems/cb06af7c-6f99-4491-9e0a-eedb30ea975c
 -- title:

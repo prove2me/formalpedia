@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsStandardTheta_slash_pos_c
 -- name    : QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_pos_c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:48:17.402221+00:00
 -- url     : https://prove2.me/theorems/41fd6878-5a2e-44ed-9426-7adf35269440

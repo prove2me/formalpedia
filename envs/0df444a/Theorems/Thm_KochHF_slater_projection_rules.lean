@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KochHF_slater_projection_rules
 -- name    : KochHF.slater_projection_rules
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:24:56.825879+00:00
 -- url     : https://prove2.me/theorems/5c5d4427-5d5d-4e04-9d2f-754544012d9e
 -- title:

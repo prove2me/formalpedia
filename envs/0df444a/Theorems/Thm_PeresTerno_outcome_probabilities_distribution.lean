@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_outcome_probabilities_distribution
 -- name    : PeresTerno.outcome_probabilities_distribution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T01:40:53.843844+00:00
 -- url     : https://prove2.me/theorems/41d5b02e-6e2c-47f5-a947-a8f1bf55f94f
 -- title:

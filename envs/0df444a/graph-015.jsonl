@@ -3223,7 +3223,7 @@
 {"parent": "AvramDividend.Classical.avram_wave3_04_repaired_boundary_nonneg_all_cap", "child": "AvramDividend.Classical.avram_wave3_03_bv_full_cap_gradient_secant", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P24.decoherence_nonnegative", "child": "QAlgorithms_Papers_Independent_Intake100_P24", "via": ["statement"]}
 {"parent": "MarkovProcess.antitone_dyadicCeiling", "child": "MarkovProcess_V3H_Path_StoppingTimeDyadicCeiling_2d75c809", "via": ["solution", "statement"]}
-{"parent": "QueueSignal.proposition_1", "child": "QueueSignal_QueueModel", "via": ["statement"]}
+{"parent": "QueueSignal.proposition_1", "child": "QueueSignal_QueueModel", "via": ["solution", "statement"]}
 {"parent": "QueueSignal.proposition_1", "child": "QueueSignal_SignalingGame", "via": ["statement"]}
 {"parent": "OAI.SKRatio.Certificate.valid0", "child": "OAIQ024S016", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P30.displacement_preserves_graph", "child": "QAlgorithms_Papers_Independent_Intake100_P30", "via": ["statement"]}
@@ -6641,7 +6641,7 @@
 {"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_AdjustedPriorities", "via": ["statement"]}
 {"parent": "MinimalAccess.claim_2", "child": "MinimalAccess_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P63.rank_one_sum_domination", "child": "QAlgorithms_Papers_Independent_Intake100_P63", "via": ["statement"]}
-{"parent": "QueueSignal.unique_crossing", "child": "QueueSignal_QueueModel", "via": ["statement"]}
+{"parent": "QueueSignal.unique_crossing", "child": "QueueSignal_QueueModel", "via": ["solution", "statement"]}
 {"parent": "QueueSignal.unique_crossing", "child": "QueueSignal_SignalingGame", "via": ["statement"]}
 {"parent": "MWMSLagrange.lemma_7", "child": "MWMSLagrange_Instance", "via": ["statement"]}
 {"parent": "MWMSLagrange.lemma_7", "child": "MWMSLagrange_Instance_Nset", "via": ["statement"]}
@@ -15146,8 +15146,8 @@
 {"parent": "LocalDOvS_SUS_susGo", "child": "LocalDOvS_SUS_Step", "via": ["statement"]}
 {"parent": "MarkovSA_IsSmoothingData", "child": "MarkovSA_IsSmoothNorm", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.simple_planar_edge_bound__p2m_09878566_3989_4e48_bc10_98e236546b3d_a1__p2m_09878566_3989_4e48_bc10_98e236546b3d_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "MarkdownReadjust.lemma_7", "child": "MarkdownReadjust_tgrid", "via": ["statement"]}
-{"parent": "MarkdownReadjust.lemma_7", "child": "MarkdownReadjust_eta", "via": ["statement"]}
+{"parent": "MarkdownReadjust.lemma_7", "child": "MarkdownReadjust_tgrid", "via": ["solution", "statement"]}
+{"parent": "MarkdownReadjust.lemma_7", "child": "MarkdownReadjust_eta", "via": ["solution", "statement"]}
 {"parent": "BlockchainTFM.lemma_2", "child": "BlockchainTFM_Model", "via": ["solution", "statement"]}
 {"parent": "BlockchainTFM.lemma_2", "child": "BlockchainTFM_Mechanism3", "via": ["solution", "statement"]}
 {"parent": "BlockchainTFM.lemma_2", "child": "BlockchainTFM_Decomposition", "via": ["solution", "statement"]}
@@ -17647,7 +17647,7 @@
 {"parent": "OAI.Laughlin.Certificate.source_gram_22_7_19_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.connected_planar_simple_graph_edge_card_upper_bound__p2m_01732aef_dd3e_4b78_a11c_771f0411d541_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_14_3_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
-{"parent": "MultiIssueMediation.theorem_1", "child": "MultiIssueMediation_AdjacentRule", "via": ["statement"]}
+{"parent": "MultiIssueMediation.theorem_1", "child": "MultiIssueMediation_AdjacentRule", "via": ["solution", "statement"]}
 {"parent": "CollectiveDFS.theorem_5", "child": "CollectiveDFS_LegalJ", "via": ["statement"]}
 {"parent": "CollectiveDFS.theorem_5", "child": "CollectiveDFS_LegalM", "via": ["statement"]}
 {"parent": "CollectiveDFS.theorem_5", "child": "CollectiveDFS_sectorSet", "via": ["statement"]}
@@ -18552,8 +18552,8 @@
 {"parent": "OAI.Laughlin.Fock.sourceFockHamiltonian_fockInclusion_s50", "child": "OAIQ050L012", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Fock.sourceFockHamiltonian_fockInclusion_s50", "child": "LaughlinPlanar", "via": ["solution", "statement"]}
 {"parent": "OAI.PositiveEinsteinFour.TraceHessian.traceLift_plus_2_0_3", "child": "OAIQ091C015", "via": ["solution", "statement"]}
-{"parent": "BayesBAI.lemma_11", "child": "BayesBAI_KLSetting", "via": ["statement"]}
-{"parent": "BayesBAI.lemma_11", "child": "RegretBandits_Stochastic_klBernoulli", "via": ["statement"]}
+{"parent": "BayesBAI.lemma_11", "child": "BayesBAI_KLSetting", "via": ["solution", "statement"]}
+{"parent": "BayesBAI.lemma_11", "child": "RegretBandits_Stochastic_klBernoulli", "via": ["solution", "statement"]}
 {"parent": "BaconThesis_Multilevel_IsDFSubspace", "child": "BaconThesis_Multilevel_PreservesSubspace", "via": ["statement"]}
 {"parent": "BaconThesis_Multilevel_IsDFSubspace", "child": "BaconThesis_Multilevel_sumSigma", "via": ["statement"]}
 {"parent": "NoSignalPA.sum_mu", "child": "NoSignalPA_ones", "via": ["solution", "statement"]}
@@ -22460,8 +22460,8 @@
 {"parent": "OAI.ContinuumCoulomb.localizedTensor_hubbard_lower", "child": "OAIQ092A010", "via": ["solution", "statement"]}
 {"parent": "HousingImprove.ttc_core", "child": "HousingImprove_ttcProg", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P82.recursive_t_count_growth", "child": "QAlgorithms_Papers_Independent_Intakenext100_P82", "via": ["statement"]}
-{"parent": "BayesBAI.lemma_12", "child": "BayesBAI_KLSetting", "via": ["statement"]}
-{"parent": "BayesBAI.lemma_12", "child": "RegretBandits_Stochastic_klBernoulli", "via": ["statement"]}
+{"parent": "BayesBAI.lemma_12", "child": "BayesBAI_KLSetting", "via": ["solution", "statement"]}
+{"parent": "BayesBAI.lemma_12", "child": "RegretBandits_Stochastic_klBernoulli", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_1_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_10_1_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -25324,8 +25324,8 @@
 {"parent": "ProphetBipartite.fact_3_2", "child": "ProphetBipartite_IsOptSelector", "via": ["statement"]}
 {"parent": "OAIQ091C038", "child": "OAIQ091C037", "via": ["statement"]}
 {"parent": "OAIQ091C038", "child": "EinsteinFour", "via": ["statement"]}
-{"parent": "MNLStability.lemma_1", "child": "MNLStability_IsLaw", "via": ["statement"]}
-{"parent": "MNLStability.lemma_1", "child": "MNLStability_prob", "via": ["statement"]}
+{"parent": "MNLStability.lemma_1", "child": "MNLStability_IsLaw", "via": ["solution", "statement"]}
+{"parent": "MNLStability.lemma_1", "child": "MNLStability_prob", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_add_fixed_bridge__p2m_b16f7d24_87bc_4095_88fe_fe2dcb83034c_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_12_4_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_12_4_1_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -25398,7 +25398,7 @@
 {"parent": "MultiplayerNoCollision.expected_regret_explicit", "child": "MultiplayerNoCollision_GameModel", "via": ["statement"]}
 {"parent": "MultiplayerNoCollision.expected_regret_explicit", "child": "MultiplayerNoCollision_profile", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_22_7_9_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
-{"parent": "HeisenbergRep.Knill.pauli_commute_square_eigen", "child": "QAlgorithms_Defs_Stabilizer", "via": ["statement"]}
+{"parent": "HeisenbergRep.Knill.pauli_commute_square_eigen", "child": "QAlgorithms_Defs_Stabilizer", "via": ["solution", "statement"]}
 {"parent": "FracMPGA_IsMPGARun", "child": "ProxAlg_FixedPoint_Basic", "via": ["statement"]}
 {"parent": "FracMPGA_IsMPGARun", "child": "FracMPGA_proxSet", "via": ["statement"]}
 {"parent": "FracMPGA_IsMPGARun", "child": "fenchelConjugate", "via": ["statement"]}
@@ -27507,8 +27507,8 @@
 {"parent": "AvramDividend.Classical.avram_wave4_01_original_record_survival_height_contDiff_infty", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_17_11_15_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_drawable_graph_edge_count__p2m_c4b40e40_dbd9_4519_a61b_843dc35bfbb5_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "MNLStability.lemma_2", "child": "MNLStability_IsLaw", "via": ["statement"]}
-{"parent": "MNLStability.lemma_2", "child": "MNLStability_prob", "via": ["statement"]}
+{"parent": "MNLStability.lemma_2", "child": "MNLStability_IsLaw", "via": ["solution", "statement"]}
+{"parent": "MNLStability.lemma_2", "child": "MNLStability_prob", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_connected_supergraph__p2m_81eecf30_e96c_499d_b4eb_13964c396f7c_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "NeebLieExt_gaugeS", "child": "NeebLieExt_dS1", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_21_3_1_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}

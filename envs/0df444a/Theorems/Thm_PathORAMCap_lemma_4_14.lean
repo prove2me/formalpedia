@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathORAMCap_lemma_4_14
 -- name    : PathORAMCap.lemma_4_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:47:53.137298+00:00
 -- url     : https://prove2.me/theorems/9a627cb3-ffa2-4bb1-8aa4-e23faeff66ed

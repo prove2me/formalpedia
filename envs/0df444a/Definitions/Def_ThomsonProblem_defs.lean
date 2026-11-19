@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ThomsonProblem_defs
 -- name    : ThomsonProblem_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:11:51.44427+00:00
 -- url     : https://prove2.me/theorems/e124251d-ff90-44c1-b27a-c1158529ad37
 -- title:

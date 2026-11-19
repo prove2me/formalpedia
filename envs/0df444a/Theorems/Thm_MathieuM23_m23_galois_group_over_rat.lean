@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_m23_galois_group_over_rat
 -- name    : MathieuM23.m23_galois_group_over_rat
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T16:11:25.038122+00:00
 -- url     : https://prove2.me/theorems/3a99f517-25c1-48ca-9534-2e140456f6f4
 -- title:

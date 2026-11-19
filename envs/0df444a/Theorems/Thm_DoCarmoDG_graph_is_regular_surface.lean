@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_graph_is_regular_surface
 -- name    : DoCarmoDG.graph_is_regular_surface
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:26:19.481501+00:00
 -- url     : https://prove2.me/theorems/4848f9f3-bb41-4aa4-8f28-640b783a0037
 -- title:

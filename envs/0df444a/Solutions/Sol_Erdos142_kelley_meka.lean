@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos142.kelley_meka
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T18:33:03.833619+00:00
 -- url     : https://prove2.me/submissions/5d814d7b-4bf2-4154-a808-dd21a979c32e
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_pressure_ratio
 -- name    : AstrophysicalFluidDynamics.shock_pressure_ratio
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T16:46:48.625041+00:00
 -- url     : https://prove2.me/theorems/0ec3f999-db59-4f79-b88b-b9ef4ad321d6
 -- title:

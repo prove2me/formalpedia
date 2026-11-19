@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_sq_angularVelocity_eq
 -- name    : Pendulum.sq_angularVelocity_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:24:27.357486+00:00
 -- url     : https://prove2.me/theorems/ffb6af9a-1042-43b7-8ec7-86304a94ecb3
 -- title:

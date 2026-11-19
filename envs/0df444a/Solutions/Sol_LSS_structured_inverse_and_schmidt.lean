@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for LSS.structured_inverse_and_schmidt
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T18:09:14.743223+00:00
 -- url     : https://prove2.me/submissions/caff3d5b-3147-438f-90cf-1f492faedadc
 -- note    : a sketch -- it imports a theorem that is still Open,

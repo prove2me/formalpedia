@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_acceleration_criterion
 -- name    : DarkEnergyLCDM.acceleration_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:03:57.053345+00:00
 -- url     : https://prove2.me/theorems/fff2627f-12e5-4aa4-b616-056c6cdfc23d
 -- title:

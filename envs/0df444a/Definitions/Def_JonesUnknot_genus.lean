@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_JonesUnknot_genus
 -- name    : JonesUnknot_genus
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:32:23.880204+00:00
 -- url     : https://prove2.me/theorems/ac26c8c6-819e-4061-92c4-84340d177432
 -- title:

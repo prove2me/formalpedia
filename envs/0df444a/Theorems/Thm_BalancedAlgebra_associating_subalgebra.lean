@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_associating_subalgebra
 -- name    : BalancedAlgebra.associating_subalgebra
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:01:35.610545+00:00
 -- url     : https://prove2.me/theorems/f6348679-bd3d-4b7c-94f7-2f3f67dea2c7
 -- title:

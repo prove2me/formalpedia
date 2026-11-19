@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchinzelHypothesisH_finite_primeValueSet_of_not_schinzelCondition
 -- name    : SchinzelHypothesisH.finite_primeValueSet_of_not_schinzelCondition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:12:49.087269+00:00
 -- url     : https://prove2.me/theorems/60fd3edc-1bda-4a86-83ea-aa6acd6039d1
 -- title:

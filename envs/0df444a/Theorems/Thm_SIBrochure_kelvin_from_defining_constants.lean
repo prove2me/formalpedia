@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_kelvin_from_defining_constants
 -- name    : SIBrochure.kelvin_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:34:31.422626+00:00
 -- url     : https://prove2.me/theorems/fd1e19a9-28e4-46ad-9e1e-b3171cebcf92
 -- title:

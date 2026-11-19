@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_conversionProb_small
 -- name    : DysonGraviton.conversionProb_small
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:57:53.728231+00:00
 -- url     : https://prove2.me/theorems/82653d3c-d2ea-4542-8bbf-074846fbcf9f
 -- title:

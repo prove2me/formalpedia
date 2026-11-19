@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JonesUnknot_alternating_jonesA_ne_one
 -- name    : JonesUnknot.alternating_jonesA_ne_one
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:34:18.1252+00:00
 -- url     : https://prove2.me/theorems/215999be-3fdb-4b8f-8014-c89e76289b1c
 -- title:

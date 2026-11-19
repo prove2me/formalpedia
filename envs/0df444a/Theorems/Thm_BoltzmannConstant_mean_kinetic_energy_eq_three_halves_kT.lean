@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_mean_kinetic_energy_eq_three_halves_kT
 -- name    : BoltzmannConstant.mean_kinetic_energy_eq_three_halves_kT
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:53:20.44429+00:00
 -- url     : https://prove2.me/theorems/03a87908-4ccc-4e79-9cb8-0dab628cba19
 -- title:

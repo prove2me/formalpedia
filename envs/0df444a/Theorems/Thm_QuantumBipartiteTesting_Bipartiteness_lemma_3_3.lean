@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumBipartiteTesting_Bipartiteness_lemma_3_3
 -- name    : QuantumBipartiteTesting.Bipartiteness.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:12:55.83356+00:00
 -- url     : https://prove2.me/theorems/c6a1cea4-71f7-44ed-9885-07551d6dacff

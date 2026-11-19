@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MaxwellWiki_Defs
 -- name    : MaxwellWiki_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:12:43.17127+00:00
 -- url     : https://prove2.me/theorems/ea188fee-3aa6-4c40-9931-177043f60fed
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_p_series
 -- name    : Rudin.ch03_p_series
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:05:52.317545+00:00
 -- url     : https://prove2.me/theorems/a9447bc5-43a0-447c-ad0f-d1784fbbfe75
 -- title:

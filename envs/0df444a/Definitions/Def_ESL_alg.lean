@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ESL_alg
 -- name    : ESL_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:07:54.335395+00:00
 -- url     : https://prove2.me/theorems/0431cd03-7eca-4ac5-bb08-5b119b4b6b01
 -- title:

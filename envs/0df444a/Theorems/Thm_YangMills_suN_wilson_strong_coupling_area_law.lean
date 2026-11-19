@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMills_suN_wilson_strong_coupling_area_law
 -- name    : YangMills.suN_wilson_strong_coupling_area_law
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:36:00.035888+00:00
 -- url     : https://prove2.me/theorems/6aa9ff65-f9d9-4bc2-b161-727151f0d409
 -- title:

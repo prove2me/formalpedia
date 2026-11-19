@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_complex_abs
 -- name    : Rudin.ch01_complex_abs
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:41:30.059013+00:00
 -- url     : https://prove2.me/theorems/579f1561-8e10-4758-a8b9-dbf042b1ff21
 -- title:

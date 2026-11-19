@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErdosStraus242_family_mod19
 -- name    : ErdosStraus242.family_mod19
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T20:47:31.101387+00:00
 -- url     : https://prove2.me/theorems/644d382a-655f-497b-845e-d0229a105c54
 -- title:

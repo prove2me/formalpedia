@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NoetherIVP.lagrange_central_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T16:09:56.732468+00:00
 -- url     : https://prove2.me/submissions/bca4af84-307b-428a-ab7b-f66f72ee24cf
 

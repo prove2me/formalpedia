@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_integral_abs_le
 -- name    : Rudin.ch11_integral_abs_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:21:06.819427+00:00
 -- url     : https://prove2.me/theorems/3cd13040-b672-43fa-8b5e-fbc621dea9d4
 -- title:

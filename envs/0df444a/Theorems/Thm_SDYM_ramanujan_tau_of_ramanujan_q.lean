@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_ramanujan_tau_of_ramanujan_q
 -- name    : SDYM.ramanujan_tau_of_ramanujan_q
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:52:42.318972+00:00
 -- url     : https://prove2.me/theorems/f466b963-f418-41ac-8b4d-a3ba9a2ecfbd
 -- title:

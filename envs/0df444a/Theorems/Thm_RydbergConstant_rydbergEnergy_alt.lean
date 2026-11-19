@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RydbergConstant_rydbergEnergy_alt
 -- name    : RydbergConstant.rydbergEnergy_alt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:20:26.041389+00:00
 -- url     : https://prove2.me/theorems/eaed613c-4f58-44cc-827c-fc48bf969277
 -- title:

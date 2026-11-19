@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ESL_theta_hat_welldefined
 -- name    : ESL.theta_hat_welldefined
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:07:05.848538+00:00
 -- url     : https://prove2.me/theorems/1d09d09d-6028-406c-bc9b-a4965e425a85
 -- title:

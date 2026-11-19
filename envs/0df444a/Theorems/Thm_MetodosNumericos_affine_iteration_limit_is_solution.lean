@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_affine_iteration_limit_is_solution
 -- name    : MetodosNumericos.affine_iteration_limit_is_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:08:01.034996+00:00
 -- url     : https://prove2.me/theorems/d5258903-0bdf-425a-8e99-459c3b2c18e6
 -- title:

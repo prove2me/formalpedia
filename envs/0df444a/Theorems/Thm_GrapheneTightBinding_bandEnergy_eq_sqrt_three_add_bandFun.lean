@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_bandEnergy_eq_sqrt_three_add_bandFun
 -- name    : GrapheneTightBinding.bandEnergy_eq_sqrt_three_add_bandFun
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:33:55.952986+00:00
 -- url     : https://prove2.me/theorems/54c38d95-0912-4d2f-be2f-a9e903c40e40
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_iterated_integral_ordered
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:40:09.549686+00:00
 -- url     : https://prove2.me/submissions/0613f6b8-d7c4-4788-8cbc-c1d0ae9953de
 

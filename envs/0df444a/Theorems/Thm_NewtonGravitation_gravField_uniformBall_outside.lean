@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_gravField_uniformBall_outside
 -- name    : NewtonGravitation.gravField_uniformBall_outside
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:56:12.634155+00:00
 -- url     : https://prove2.me/theorems/a8e1e18c-d358-4fbf-b092-c04b2efe0c20
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FlatlyFoliatedRelativity_basic
 -- name    : FlatlyFoliatedRelativity_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T20:39:10.600486+00:00
 -- url     : https://prove2.me/theorems/57122ba7-2093-4e8b-9298-347ee013fd6c
 -- title:

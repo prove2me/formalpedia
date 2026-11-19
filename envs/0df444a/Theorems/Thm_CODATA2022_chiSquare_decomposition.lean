@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_chiSquare_decomposition
 -- name    : CODATA2022.chiSquare_decomposition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:17:46.626397+00:00
 -- url     : https://prove2.me/theorems/ec2b5bf8-d695-4dae-9d77-a97cfbff99bf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShannonSecrecy_cyclic_cipher_perfect_secrecy
 -- name    : ShannonSecrecy.cyclic_cipher_perfect_secrecy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:36:52.301623+00:00
 -- url     : https://prove2.me/theorems/418185f7-37e2-4967-baec-51c9710bc003
 -- title:

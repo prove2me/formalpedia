@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_tau_isBigO
 -- name    : RamanujanPetersson.tau_isBigO
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:16:10.546724+00:00
 -- url     : https://prove2.me/theorems/50d6e12e-6b72-405f-b467-b6d73bc4a51c
 -- title:

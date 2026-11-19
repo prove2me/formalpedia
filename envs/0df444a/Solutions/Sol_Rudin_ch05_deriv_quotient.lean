@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch05_deriv_quotient
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:17:15.749167+00:00
 -- url     : https://prove2.me/submissions/61bbe6ca-06b2-4e1d-85ad-aec37fd284e3
 

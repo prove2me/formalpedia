@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos68.factorial_moment_partial_sum_bound
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T00:19:33.350069+00:00
 -- url     : https://prove2.me/submissions/5f675e47-387c-4557-9d17-d5c70acc20b2
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnchoredEP_lemma_E_1
 -- name    : AnchoredEP.lemma_E_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:34:59.451803+00:00
 -- url     : https://prove2.me/theorems/f61c6365-fd1c-44ab-b702-fde4bf8ec6c6

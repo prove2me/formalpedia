@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BQC_tor
 -- name    : BQC_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T23:11:51.780504+00:00
 -- url     : https://prove2.me/theorems/f5ea5726-445a-43d7-9aa9-68d4afdc6d43
 -- title:

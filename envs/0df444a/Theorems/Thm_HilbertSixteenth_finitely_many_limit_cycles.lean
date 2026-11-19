@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_finitely_many_limit_cycles
 -- name    : HilbertSixteenth.finitely_many_limit_cycles
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:16:02.666703+00:00
 -- url     : https://prove2.me/theorems/dc69bad9-d8c4-46ec-bc66-933ce2e1164b
 -- title:

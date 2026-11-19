@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos592_chang_omega_pow_omega
 -- name    : Erdos592.chang_omega_pow_omega
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:08:38.242996+00:00
 -- url     : https://prove2.me/theorems/4466c913-1d4b-46fa-b330-db123925d95f
 -- title:

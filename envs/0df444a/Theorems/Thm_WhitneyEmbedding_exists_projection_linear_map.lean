@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_exists_projection_linear_map
 -- name    : WhitneyEmbedding.exists_projection_linear_map
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T11:49:29.176188+00:00
 -- url     : https://prove2.me/theorems/5fc6e124-5222-49a4-938d-63f6c329ef1b
 -- title:

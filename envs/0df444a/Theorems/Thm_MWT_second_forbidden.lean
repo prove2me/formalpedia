@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_second_forbidden
 -- name    : MWT.second_forbidden
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:07:24.226187+00:00
 -- url     : https://prove2.me/theorems/7a452b13-f4bf-4086-a778-7d1a81821e9f
 -- title:

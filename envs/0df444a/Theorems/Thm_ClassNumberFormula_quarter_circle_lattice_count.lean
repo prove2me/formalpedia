@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_quarter_circle_lattice_count
 -- name    : ClassNumberFormula.quarter_circle_lattice_count
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:52:59.701096+00:00
 -- url     : https://prove2.me/theorems/69c3a94b-e834-47da-b351-2532453dd4cf
 -- title:

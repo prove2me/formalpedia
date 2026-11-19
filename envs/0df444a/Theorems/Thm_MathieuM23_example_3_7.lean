@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_example_3_7
 -- name    : MathieuM23.example_3_7
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T00:39:40.615762+00:00
 -- url     : https://prove2.me/theorems/357eb7d1-7c51-4bdc-a6ae-9f4fd1c3c27a
 -- title:

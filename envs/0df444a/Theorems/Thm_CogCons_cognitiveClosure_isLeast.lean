@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_cognitiveClosure_isLeast
 -- name    : CogCons.cognitiveClosure_isLeast
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:53:19.996636+00:00
 -- url     : https://prove2.me/theorems/e26b1557-6590-4977-8501-bd2ee1bdc892
 -- title:

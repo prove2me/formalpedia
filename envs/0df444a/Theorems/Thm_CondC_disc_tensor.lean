@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_disc_tensor
 -- name    : CondC.disc_tensor
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:50:08.696043+00:00
 -- url     : https://prove2.me/theorems/8c3c63e7-3a6d-4ce5-a1da-9944186fabf1
 -- title:

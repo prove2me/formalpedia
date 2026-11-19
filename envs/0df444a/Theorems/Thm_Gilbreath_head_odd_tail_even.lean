@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_head_odd_tail_even
 -- name    : Gilbreath.head_odd_tail_even
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:50:34.796879+00:00
 -- url     : https://prove2.me/theorems/29f31364-4f8a-4684-8d92-61ee12638ac4
 -- title:

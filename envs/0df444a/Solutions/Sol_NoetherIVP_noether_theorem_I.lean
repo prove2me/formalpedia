@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NoetherIVP.noether_theorem_I
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T16:14:50.295931+00:00
 -- url     : https://prove2.me/submissions/357d656d-2017-4fbd-8aae-dfda032a8e09
 

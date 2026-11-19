@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Wigner_wigner_marginal_position
 -- name    : Wigner.wigner_marginal_position
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:50:03.089648+00:00
 -- url     : https://prove2.me/theorems/0bccfa30-980a-4e03-a338-b0acde95ac65
 -- title:

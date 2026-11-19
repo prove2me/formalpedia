@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_lorentzOfSL2C_preserves_minkowski
 -- name    : CelestialHolography.lorentzOfSL2C_preserves_minkowski
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T02:03:31.736831+00:00
 -- url     : https://prove2.me/theorems/f8559018-052a-452f-b0fe-fe3021840687
 -- title:

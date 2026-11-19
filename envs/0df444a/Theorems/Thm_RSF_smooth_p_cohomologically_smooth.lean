@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_smooth_p_cohomologically_smooth
 -- name    : RSF.smooth_p_cohomologically_smooth
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:16:08.984737+00:00
 -- url     : https://prove2.me/theorems/09d2bbaf-8fc3-43f7-9dc7-a66e8e8bb18b
 -- title:

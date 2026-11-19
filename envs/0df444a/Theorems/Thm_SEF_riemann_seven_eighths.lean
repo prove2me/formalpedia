@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SEF_riemann_seven_eighths
 -- name    : SEF.riemann_seven_eighths
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:02:28.926839+00:00
 -- url     : https://prove2.me/theorems/f3a7ca41-314c-4cb6-b0c9-8f1a56fd539c
 -- title:

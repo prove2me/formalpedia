@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_relative_price_bounds
 -- name    : ComparativeAdvantage.relative_price_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:31:26.651973+00:00
 -- url     : https://prove2.me/theorems/f49d237a-46fc-4d96-afe7-1a2718ede919
 -- title:

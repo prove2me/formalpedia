@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RiemannVonMangoldt_dirichlet_L_zero_count
 -- name    : RiemannVonMangoldt.dirichlet_L_zero_count
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T02:15:10.32804+00:00
 -- url     : https://prove2.me/theorems/2662b9ff-2c43-4ab9-a198-f989ab875fb8
 -- title:

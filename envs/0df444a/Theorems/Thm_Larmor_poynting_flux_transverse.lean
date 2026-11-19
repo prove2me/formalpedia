@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_poynting_flux_transverse
 -- name    : Larmor.poynting_flux_transverse
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:20:17.155007+00:00
 -- url     : https://prove2.me/theorems/33e3f57e-3cf7-4577-a8c5-19140f5337fc
 -- title:

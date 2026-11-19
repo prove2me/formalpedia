@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_ratios_strictMonoOn
 -- name    : AstrophysicalFluidDynamics.shock_ratios_strictMonoOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T17:34:26.084136+00:00
 -- url     : https://prove2.me/theorems/5fe35570-a06e-451f-ba5a-e1ba37aadac8
 -- title:

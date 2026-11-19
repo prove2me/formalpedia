@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Hairer.reconstruction_operator
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T12:17:31.572734+00:00
 -- url     : https://prove2.me/submissions/b34b54b2-5098-4f90-86a3-5fbcdedc3399
 -- note    : a sketch -- it imports a theorem that is still Open,

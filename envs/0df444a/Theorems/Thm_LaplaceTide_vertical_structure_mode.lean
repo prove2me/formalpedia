@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LaplaceTide_vertical_structure_mode
 -- name    : LaplaceTide.vertical_structure_mode
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:33:22.086243+00:00
 -- url     : https://prove2.me/theorems/70ac7521-2cf2-4bd8-8697-1cbe59f20d8a
 -- title:

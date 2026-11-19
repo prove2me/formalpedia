@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_lsa_unique_minimizer
 -- name    : CODATA2022.lsa_unique_minimizer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:21:58.249621+00:00
 -- url     : https://prove2.me/theorems/791bf826-9613-4851-9d41-db118f32c5b9
 -- title:

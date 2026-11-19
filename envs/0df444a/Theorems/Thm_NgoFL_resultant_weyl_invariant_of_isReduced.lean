@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_resultant_weyl_invariant_of_isReduced
 -- name    : NgoFL.resultant_weyl_invariant_of_isReduced
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:43:13.834722+00:00
 -- url     : https://prove2.me/theorems/de6e4a22-e218-42dc-950c-eefd644f4b4d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewMinimalStandardModel_quadratic_chaotic_inflation_predictions
 -- name    : NewMinimalStandardModel.quadratic_chaotic_inflation_predictions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T13:16:58.039199+00:00
 -- url     : https://prove2.me/theorems/1bbbfa21-ed5a-470f-91d3-1c5c148226c7
 -- title:

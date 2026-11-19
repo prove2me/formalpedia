@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ErlerGross_defs
 -- name    : ErlerGross_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:12:00.086989+00:00
 -- url     : https://prove2.me/theorems/9531cd45-b337-4333-a7e6-89d2b620171a
 -- title:

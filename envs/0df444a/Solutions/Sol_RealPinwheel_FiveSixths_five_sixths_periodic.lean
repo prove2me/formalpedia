@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RealPinwheel.FiveSixths.five_sixths_periodic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T02:53:40.881204+00:00
 -- url     : https://prove2.me/submissions/3d50e755-7a30-4823-ad05-378b5f4a410e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RealPinwheel_FiveSixths_bounded_density_base
 import Theorems.Thm_RealPinwheel_FiveSixths_bounded_potential_base

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_deceleration_formula
 -- name    : MDOUnifiedCosmology.deceleration_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:35:50.347025+00:00
 -- url     : https://prove2.me/theorems/9b88e77f-497e-4ace-ace5-8d1d3ae19dbc
 -- title:

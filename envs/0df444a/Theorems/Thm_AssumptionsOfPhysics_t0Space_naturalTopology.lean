@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_t0Space_naturalTopology
 -- name    : AssumptionsOfPhysics.t0Space_naturalTopology
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:01:51.901467+00:00
 -- url     : https://prove2.me/theorems/b120bdcb-4a4a-4fae-b402-63a3db5382ee
 -- title:

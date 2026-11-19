@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JechSetTheory_pow_cof_eq_succ_of_isStationary
 -- name    : JechSetTheory.pow_cof_eq_succ_of_isStationary
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T02:33:10.46735+00:00
 -- url     : https://prove2.me/theorems/16beeb29-da85-4818-9c13-437d8477bfda
 -- title:

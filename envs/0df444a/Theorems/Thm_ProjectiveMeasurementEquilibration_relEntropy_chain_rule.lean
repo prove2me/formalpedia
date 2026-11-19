@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_relEntropy_chain_rule
 -- name    : ProjectiveMeasurementEquilibration.relEntropy_chain_rule
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:01:37.248979+00:00
 -- url     : https://prove2.me/theorems/3fe230dd-20ec-4702-b983-724891b1f62f
 -- title:

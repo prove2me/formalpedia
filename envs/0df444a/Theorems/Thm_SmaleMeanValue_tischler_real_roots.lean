@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_tischler_real_roots
 -- name    : SmaleMeanValue.tischler_real_roots
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:10:57.953815+00:00
 -- url     : https://prove2.me/theorems/a71d2ee7-0c21-462e-a5f4-033aff92a572
 -- title:

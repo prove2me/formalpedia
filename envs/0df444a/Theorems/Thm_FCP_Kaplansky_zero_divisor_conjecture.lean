@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Kaplansky_zero_divisor_conjecture
 -- name    : FCP.Kaplansky.zero_divisor_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:52:35.867671+00:00
 -- url     : https://prove2.me/theorems/e85efc1b-ba95-4808-9840-76f501a58870
 -- title:

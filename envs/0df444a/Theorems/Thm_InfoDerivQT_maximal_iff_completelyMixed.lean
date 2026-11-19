@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_maximal_iff_completelyMixed
 -- name    : InfoDerivQT.maximal_iff_completelyMixed
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T10:07:02.051438+00:00
 -- url     : https://prove2.me/theorems/0acdb292-138f-4ab4-966e-72d9dc740d85
 -- title:

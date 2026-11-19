@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_maximal_sets_same_card
 -- name    : InfoDerivQT.maximal_sets_same_card
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:25:24.851976+00:00
 -- url     : https://prove2.me/theorems/8cbedf72-734a-4468-9ca0-1d3b0d087df2
 -- title:

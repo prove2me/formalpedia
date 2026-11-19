@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Milne_p1_motive_split
 -- name    : Milne.p1_motive_split
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T03:11:27.963895+00:00
 -- url     : https://prove2.me/theorems/571df5d5-dbfd-447b-bb4c-2c2439d069d5
 -- title:

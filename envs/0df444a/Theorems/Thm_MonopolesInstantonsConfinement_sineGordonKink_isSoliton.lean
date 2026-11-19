@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_sineGordonKink_isSoliton
 -- name    : MonopolesInstantonsConfinement.sineGordonKink_isSoliton
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:21:29.572972+00:00
 -- url     : https://prove2.me/theorems/180c4e53-2e08-449c-9314-0553f9ac60fc
 -- title:

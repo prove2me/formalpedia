@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_msw_constant_density_transition
 -- name    : GiuntiStudenikin2015.msw_constant_density_transition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:31:57.624901+00:00
 -- url     : https://prove2.me/theorems/d08ebc1f-6827-461c-9665-c8622ff5ccbc
 -- title:

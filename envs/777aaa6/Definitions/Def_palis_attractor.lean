@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_palis_attractor
 -- name    : palis_attractor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:52:16.758971+00:00
 -- url     : https://prove2.me/theorems/8c3f1172-ee84-489b-bdbe-c233e57be989
 -- title:

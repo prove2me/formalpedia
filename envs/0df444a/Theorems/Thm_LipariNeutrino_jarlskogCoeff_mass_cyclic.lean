@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_jarlskogCoeff_mass_cyclic
 -- name    : LipariNeutrino.jarlskogCoeff_mass_cyclic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T05:10:26.862111+00:00
 -- url     : https://prove2.me/theorems/bebb0a2d-e04f-475d-835b-f15666489eca
 -- title:

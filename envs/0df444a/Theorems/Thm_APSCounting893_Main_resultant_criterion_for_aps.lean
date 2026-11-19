@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_resultant_criterion_for_aps
 -- name    : APSCounting893.Main.resultant_criterion_for_aps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:25:36.368419+00:00
 -- url     : https://prove2.me/theorems/815a851b-53df-4a62-9a3c-e6650d3946e3

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.gilbreath_conjecture
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:28:09.748645+00:00
 -- url     : https://prove2.me/submissions/d94d2f09-7ba9-466c-bbdd-5c3a6c2d3950
 -- note    : a sketch -- it imports a theorem that is still Open,

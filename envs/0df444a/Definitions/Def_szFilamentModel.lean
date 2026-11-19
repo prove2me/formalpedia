@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_szFilamentModel
 -- name    : szFilamentModel
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:19:43.698789+00:00
 -- url     : https://prove2.me/theorems/df8b7ed3-d5ef-4a03-a059-1fe98049de91
 -- title:

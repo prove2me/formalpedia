@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GambiniPullin_diskModelIntegral_sigma_zero
 -- name    : GambiniPullin.diskModelIntegral_sigma_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:27:22.134973+00:00
 -- url     : https://prove2.me/theorems/b8575b9e-d678-47e2-b6d2-90e089d7ac0d
 -- title:

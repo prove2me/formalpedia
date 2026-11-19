@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_groverMatrix_jordan_form
 -- name    : GroverWiki.groverMatrix_jordan_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:41:27.777772+00:00
 -- url     : https://prove2.me/theorems/af56a9a7-69f6-4490-b3d1-adceaec4aef9
 -- title:

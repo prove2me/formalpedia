@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_delta_pairing
 -- name    : Penrose.delta_pairing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:21:46.657516+00:00
 -- url     : https://prove2.me/theorems/50ad7e30-be3d-4df5-9dd1-f407e793f455
 -- title:

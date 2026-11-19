@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_minimumMass_eq
 -- name    : SenTachyon.minimumMass_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:33:40.896168+00:00
 -- url     : https://prove2.me/theorems/2b355551-8cdb-4290-a84c-3341c0e2e7bd
 -- title:

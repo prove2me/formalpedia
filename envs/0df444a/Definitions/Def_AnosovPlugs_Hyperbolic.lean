@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnosovPlugs_Hyperbolic
 -- name    : AnosovPlugs_Hyperbolic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T01:20:59.574563+00:00
 -- url     : https://prove2.me/theorems/a674624c-077d-4b70-90ac-d4e95828741f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_rms_speed_ratio
 -- name    : BoltzmannConstant.rms_speed_ratio
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:14:12.6946+00:00
 -- url     : https://prove2.me/theorems/5688b3f9-c6f8-4a6c-8f58-dedb3186cc39
 -- title:

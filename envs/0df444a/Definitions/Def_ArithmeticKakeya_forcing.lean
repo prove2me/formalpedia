@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ArithmeticKakeya_forcing
 -- name    : ArithmeticKakeya_forcing
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:54:53.254543+00:00
 -- url     : https://prove2.me/theorems/840146bc-2a78-46ac-83fa-75f9091d538b
 -- title:

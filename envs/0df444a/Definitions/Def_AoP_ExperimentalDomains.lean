@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AoP_ExperimentalDomains
 -- name    : AoP_ExperimentalDomains
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:17:39.881076+00:00
 -- url     : https://prove2.me/theorems/fae9da30-4dfb-4977-bc40-8b5488fd1d2e
 -- title:

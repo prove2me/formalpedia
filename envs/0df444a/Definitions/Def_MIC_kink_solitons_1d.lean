@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MIC_kink_solitons_1d
 -- name    : MIC_kink_solitons_1d
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:11:39.980586+00:00
 -- url     : https://prove2.me/theorems/0c8acbee-7be4-4f8c-a591-24b176372b0d
 -- title:

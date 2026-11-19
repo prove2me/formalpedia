@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_discriminant_weyl_invariant
 -- name    : NgoFL.discriminant_weyl_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:30:21.287835+00:00
 -- url     : https://prove2.me/theorems/706c428e-65ef-4b20-b3c8-2a022b5d540d
 -- title:

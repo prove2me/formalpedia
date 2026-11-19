@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NgoFL.discriminant_weyl_invariant
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T18:17:50.750131+00:00
 -- url     : https://prove2.me/submissions/eff31d77-03ce-41bb-b282-f7131804ec4a
 

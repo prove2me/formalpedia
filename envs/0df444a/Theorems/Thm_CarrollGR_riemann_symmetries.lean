@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_riemann_symmetries
 -- name    : CarrollGR.riemann_symmetries
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:02:55.938076+00:00
 -- url     : https://prove2.me/theorems/93e9ad0d-f61c-479d-b8ea-0d6978d654ed
 -- title:

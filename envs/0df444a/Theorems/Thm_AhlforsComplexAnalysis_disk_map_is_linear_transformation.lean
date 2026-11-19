@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AhlforsComplexAnalysis_disk_map_is_linear_transformation
 -- name    : AhlforsComplexAnalysis.disk_map_is_linear_transformation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T04:56:01.406332+00:00
 -- url     : https://prove2.me/theorems/8f745fb8-ebc0-43b5-9a48-2c7d981b7af1
 -- title:

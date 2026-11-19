@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_palis_vector_field
 -- name    : palis_vector_field
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:52:57.58179+00:00
 -- url     : https://prove2.me/theorems/bbbe55dc-8fde-4e8b-bd6b-56982c0b2c4a
 -- title:

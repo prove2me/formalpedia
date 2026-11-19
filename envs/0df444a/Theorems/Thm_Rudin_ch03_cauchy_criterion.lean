@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_cauchy_criterion
 -- name    : Rudin.ch03_cauchy_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:03:07.202264+00:00
 -- url     : https://prove2.me/theorems/b8b43bf9-9ca8-4ec2-8001-5c50472828ca
 -- title:

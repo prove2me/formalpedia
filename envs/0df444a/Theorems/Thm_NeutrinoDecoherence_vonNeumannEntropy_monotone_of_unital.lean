@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_vonNeumannEntropy_monotone_of_unital
 -- name    : NeutrinoDecoherence.vonNeumannEntropy_monotone_of_unital
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T12:09:08.752915+00:00
 -- url     : https://prove2.me/theorems/6d9357fc-d61e-4644-9a92-a7fcccaf874f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCT_dc_perm_two
 -- name    : GCT.dc_perm_two
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:18:32.862711+00:00
 -- url     : https://prove2.me/theorems/ca459660-c109-4042-91ca-4e5bf93a82d9
 -- title:

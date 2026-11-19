@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_tischler_equal_modulus_roots
 -- name    : SmaleMeanValue.tischler_equal_modulus_roots
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:25:43.227804+00:00
 -- url     : https://prove2.me/theorems/ab8f9e47-2964-4da1-8c48-5bb9d116acaa
 -- title:

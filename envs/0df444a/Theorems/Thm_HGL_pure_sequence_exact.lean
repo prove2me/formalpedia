@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_pure_sequence_exact
 -- name    : HGL.pure_sequence_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:57.659781+00:00
 -- url     : https://prove2.me/theorems/4a9fb39f-7881-4a88-bea3-64ebdae4ab31
 -- title:

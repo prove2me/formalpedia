@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SuperconductingQC_Gates
 -- name    : SuperconductingQC_Gates
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:23:36.153606+00:00
 -- url     : https://prove2.me/theorems/a3d5afe8-a98f-47e5-965c-c32a062ca5b9
 -- title:

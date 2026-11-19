@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_transferencePlansOf_isTight
 -- name    : MongeKantorovichYao.transferencePlansOf_isTight
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T19:46:05.295159+00:00
 -- url     : https://prove2.me/theorems/ee5d4ac5-969a-47be-98b2-83e6c00ba9de
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherIVP_lagrange_central_identity
 -- name    : NoetherIVP.lagrange_central_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:54:37.924467+00:00
 -- url     : https://prove2.me/theorems/8ae8fc26-6d51-4874-a012-c07ed28fba34
 -- title:

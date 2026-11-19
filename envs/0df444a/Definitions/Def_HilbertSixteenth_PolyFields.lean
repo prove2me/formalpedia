@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HilbertSixteenth_PolyFields
 -- name    : HilbertSixteenth_PolyFields
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T19:45:54.790989+00:00
 -- url     : https://prove2.me/theorems/4697324f-f882-4862-bd8c-a1abfb8f1371
 -- title:

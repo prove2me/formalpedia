@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_elemCharge_eq_g_sin_eq_gp_cos
 -- name    : ElectroweakWiki.elemCharge_eq_g_sin_eq_gp_cos
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:55:49.372349+00:00
 -- url     : https://prove2.me/theorems/348870dc-7984-4172-b10a-0d3f5b930666
 -- title:

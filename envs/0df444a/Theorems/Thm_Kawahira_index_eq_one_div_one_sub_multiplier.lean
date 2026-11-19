@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_index_eq_one_div_one_sub_multiplier
 -- name    : Kawahira.index_eq_one_div_one_sub_multiplier
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:28:01.132633+00:00
 -- url     : https://prove2.me/theorems/9701c7ec-c351-43ac-9ed2-a748391d2e32
 -- title:

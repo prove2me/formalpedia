@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_THDM_stability_case_b4_marginal
 -- name    : THDM.stability_case_b4_marginal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:42:49.514772+00:00
 -- url     : https://prove2.me/theorems/3ac45ddc-762c-4711-a9a7-28452854e194
 -- title:

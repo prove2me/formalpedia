@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for Rudin.ch10_stokes
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T02:52:03.692596+00:00
 -- url     : https://prove2.me/submissions/22ff749c-a429-4083-b06b-4fd58d5c67f1
 

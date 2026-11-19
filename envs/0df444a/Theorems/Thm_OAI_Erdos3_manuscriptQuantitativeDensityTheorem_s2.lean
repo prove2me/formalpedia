@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_manuscriptQuantitativeDensityTheorem_s2
 -- name    : OAI.Erdos3.manuscriptQuantitativeDensityTheorem_s2
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-28T22:36:40.011108+00:00
 -- url     : https://prove2.me/theorems/0e8bb2da-1555-43fa-a963-a99da439e86d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CuspForm_exists_differentiable_eq_lSeries_qCoeff
 -- name    : CuspForm.exists_differentiable_eq_lSeries_qCoeff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T18:03:44.424515+00:00
 -- url     : https://prove2.me/theorems/c58af730-1cdb-4b7b-b96e-c5c2be7dd0da
 -- title:

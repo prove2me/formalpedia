@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_downstream_mach_sq
 -- name    : AstrophysicalFluidDynamics.shock_downstream_mach_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T17:17:28.991786+00:00
 -- url     : https://prove2.me/theorems/d7b6ec90-05cc-4e38-813e-39eb2d8d88b9
 -- title:

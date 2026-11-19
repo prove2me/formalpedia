@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_mandelbrot_isCompact
 -- name    : Mandelbrot.mandelbrot_isCompact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:01:47.477142+00:00
 -- url     : https://prove2.me/theorems/3a1a0d03-9b52-48fc-8804-caac41391459
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_zMass_eq_wMass_div_cos
 -- name    : ElectroweakWiki.zMass_eq_wMass_div_cos
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:11:44.059984+00:00
 -- url     : https://prove2.me/theorems/576eda3c-2335-4b71-928b-67a5e5cbb6c2
 -- title:

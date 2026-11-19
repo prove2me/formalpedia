@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_imp_sqrt_free
 -- name    : KoideRelation.koide_imp_sqrt_free
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:39:46.445123+00:00
 -- url     : https://prove2.me/theorems/b93b663c-1f4e-4763-a340-bfa1c26a1ef8
 -- title:

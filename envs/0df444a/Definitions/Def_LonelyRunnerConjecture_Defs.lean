@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LonelyRunnerConjecture_Defs
 -- name    : LonelyRunnerConjecture_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:11:12.427197+00:00
 -- url     : https://prove2.me/theorems/fc557e40-56fd-4a42-b939-6d6e7dc7181f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_signedCurvature_eq_deriv_angle
 -- name    : DoCarmoDG.signedCurvature_eq_deriv_angle
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:27:32.45505+00:00
 -- url     : https://prove2.me/theorems/f6ca3076-270e-46e9-964e-1431e2ccbc4b
 -- title:

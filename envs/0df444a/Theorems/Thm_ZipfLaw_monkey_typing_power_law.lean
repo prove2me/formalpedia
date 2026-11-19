@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_monkey_typing_power_law
 -- name    : ZipfLaw.monkey_typing_power_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:34:22.855851+00:00
 -- url     : https://prove2.me/theorems/fee6ee30-fa71-411e-a302-0bdf2fbf1bd7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_si_base_units_from_defining_constants
 -- name    : CaesiumStandard.si_base_units_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T15:57:46.26914+00:00
 -- url     : https://prove2.me/theorems/a4273253-0269-4da4-9bec-b0ad9ce517d8
 -- title:

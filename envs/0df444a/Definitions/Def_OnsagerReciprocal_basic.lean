@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_OnsagerReciprocal_basic
 -- name    : OnsagerReciprocal_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:25:20.496775+00:00
 -- url     : https://prove2.me/theorems/bb2c3754-d3c9-448c-a1ff-4651ea36bba4
 -- title:

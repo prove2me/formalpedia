@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitRegular_corollary_3_1
 -- name    : BilateralProfitRegular.corollary_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:14.073927+00:00
 -- url     : https://prove2.me/theorems/70c79663-d801-4917-8ffa-d2216cc1bf1f

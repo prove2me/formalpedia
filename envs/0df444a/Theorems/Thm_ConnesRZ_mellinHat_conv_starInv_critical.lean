@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ConnesRZ_mellinHat_conv_starInv_critical
 -- name    : ConnesRZ.mellinHat_conv_starInv_critical
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:59:28.471105+00:00
 -- url     : https://prove2.me/theorems/8596fb99-12fa-4094-a40c-1e79fda330dc
 -- title:

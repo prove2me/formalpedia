@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_early_time_density_parameters
 -- name    : CarneiroDeSitter.early_time_density_parameters
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:17:50.803241+00:00
 -- url     : https://prove2.me/theorems/9919c3f4-85e3-473c-8e79-ceb6ff43fcba
 -- title:

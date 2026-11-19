@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_eq4_quark_model_matrix_elements
 -- name    : GoodmanWitten.eq4_quark_model_matrix_elements
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:55:35.086959+00:00
 -- url     : https://prove2.me/theorems/ff1c6052-69a6-4fb8-b610-ca2f4278f616
 -- title:

@@ -43436,7 +43436,7 @@
 {"parent": "RiskFunctionals_AVaR_AverageValueAtRisk", "child": "RiskFunctionals_AVaR_QuantileFunction", "via": ["statement"]}
 {"parent": "FollowCrowd.Inference.eq_A_1", "child": "FollowCrowd_Inference_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P40.commutingMinimum", "child": "QAlgorithms_Papers_Independent_Gap48_P40", "via": ["solution", "statement"]}
-{"parent": "QMCTriFree.Circuit.corollary_8", "child": "QMCTriFree_Circuit_Lasserre", "via": ["statement"]}
+{"parent": "QMCTriFree.Circuit.corollary_8", "child": "QMCTriFree_Circuit_Lasserre", "via": ["solution", "statement"]}
 {"parent": "PersonalizedAssortment.IB.riemann_sum_bound", "child": "PersonalizedAssortment_IB_PenaltyFunction", "via": ["solution", "statement"]}
 {"parent": "LPCA_Solutions_LPCA_VertexCechRestriction_Defs", "child": "LPCA_Solutions_LPCA_LegacyExtNaturality_Defs", "via": ["statement"]}
 {"parent": "LPCA_Solutions_LPCA_VertexCechRestriction_Defs", "child": "LPCA_Proofs_BassLyubeznik_BassStatic_redRestrictLin_dLin_Defs", "via": ["statement"]}
@@ -48466,7 +48466,7 @@
 {"parent": "AbelianLieExt.Integrability.theorem_VI_7", "child": "AbelianLieExt_Integrability_Setting", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate04320261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P01.proposition_2_3", "child": "QAlgorithms_Papers_Independent_Gap48_P01", "via": ["solution", "statement"]}
-{"parent": "QMaxCutBeyond.TwoQubit.weighted_eq_18_19", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["statement"]}
+{"parent": "QMaxCutBeyond.TwoQubit.weighted_eq_18_19", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case098_bound", "child": "HardyCapsetCertificateModel20261020", "via": ["statement"]}
 {"parent": "NewtonCartan.riem_tt_form_of_curvConds", "child": "NewtonCartan_defs", "via": ["solution", "statement"]}
 {"parent": "HardyCapsetEvaluationData028rows04V420261021", "child": "HardyCapsetBooleanVerifier20261020", "via": ["statement"]}
@@ -50101,7 +50101,7 @@
 {"parent": "HardyCapsetEvaluationData179coverRows01V420261021", "child": "HardyCapsetBooleanVerifier20261020", "via": ["statement"]}
 {"parent": "BirkhoffGlobalSection.positive_elliptic_rational_disks_contact_equivalent", "child": "BirkhoffGlobalSection_EllipticRationalDisk", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate05120261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
-{"parent": "QMCTriFree.Circuit.lemma_7", "child": "QMCTriFree_Circuit_Lasserre", "via": ["statement"]}
+{"parent": "QMCTriFree.Circuit.lemma_7", "child": "QMCTriFree_Circuit_Lasserre", "via": ["solution", "statement"]}
 {"parent": "QMaxCutSDP.Rounding.lemma_2", "child": "QMaxCutSDP_Rounding_Model", "via": ["statement"]}
 {"parent": "JHolomorphic.exists_norm_le_of_eLpNorm_fderiv_le", "child": "JHolomorphic_Setting", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case049_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
@@ -56523,7 +56523,7 @@
 {"parent": "RiskFunctionals.MultiPeriod.multiperiod_representation", "child": "RiskFunctionals_MultiPeriod_Functionals", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat06_countwise_prefix_representation_implies_past_independence", "child": "AvramDividend.Classical.chat06_selected_past_residual_future_joint_countwise_gluing", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.orbit_coverage46", "child": "HardyCapsetOrbitVerifier20261021", "via": ["statement"]}
-{"parent": "QMaxCutBeyond.TwoQubit.weighted_eq_15", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["statement"]}
+{"parent": "QMaxCutBeyond.TwoQubit.weighted_eq_15", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["solution", "statement"]}
 {"parent": "GDGen3.ell_pair_sum", "child": "GDGen3Base", "via": ["solution", "statement"]}
 {"parent": "GDGen3.ell_pair_sum", "child": "GDGen3.ell_of_lt", "via": ["solution", "statement"]}
 {"parent": "GDGen3.ell_pair_sum", "child": "GDGen3.ell_of_gt", "via": ["solution", "statement"]}
@@ -58177,7 +58177,7 @@
 {"parent": "FullFormalization.huber_algebra", "child": "FunctionClass", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P20.zeroCommunication", "child": "QAlgorithms_Papers_Independent_Gap48_P20", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate09020261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
-{"parent": "QMCTriFree.Circuit.lemma_10", "child": "QMCTriFree_Circuit_Algorithm", "via": ["statement"]}
+{"parent": "QMCTriFree.Circuit.lemma_10", "child": "QMCTriFree_Circuit_Algorithm", "via": ["solution", "statement"]}
 {"parent": "ObservableActions.Reductive.theorem_4_7", "child": "ObservableActions_Reductive_Defs", "via": ["statement"]}
 {"parent": "ObservableActions.Reductive.theorem_4_7", "child": "QAlgorithms_Papers_Independent_Support21_P10", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P24.dominated_functional_bound", "child": "QAlgorithms_Papers_Independent_Gap48_P24", "via": ["statement"]}
@@ -58594,7 +58594,7 @@
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmicIdeal_fibre_nonconstant_contact_bound", "child": "OAI_PiExponent_TruncatedPolynomialJets", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmicIdeal_fibre_nonconstant_contact_bound", "child": "OAI_PiExponent_WeightedIdealCurveCriterion", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.orbit_coverage08", "child": "HardyCapsetOrbitVerifier20261021", "via": ["statement"]}
-{"parent": "QMaxCutBeyond.TwoQubit.lemma_1", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["statement"]}
+{"parent": "QMaxCutBeyond.TwoQubit.lemma_1", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_shifted_countable_future_path_conditional_payoff", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_shifted_countable_future_path_conditional_payoff", "child": "AvramDividend.Classical.chat04_shifted_countable_path_independent_of_all_finite_prefixes", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P32.separable_zero_and_finite_converse", "child": "QAlgorithms_Papers_Independent_Gap48_P32", "via": ["statement"]}

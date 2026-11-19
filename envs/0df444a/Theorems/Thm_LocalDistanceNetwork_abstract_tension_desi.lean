@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_abstract_tension_desi
 -- name    : LocalDistanceNetwork.abstract_tension_desi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T20:32:51.668582+00:00
 -- url     : https://prove2.me/theorems/edf35cab-0d70-489d-a01d-b7b0ca76b6f4
 -- title:

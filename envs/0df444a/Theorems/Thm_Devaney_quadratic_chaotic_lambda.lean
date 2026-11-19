@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_chaotic_lambda
 -- name    : Devaney.quadratic_chaotic_lambda
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:15:23.443241+00:00
 -- url     : https://prove2.me/theorems/b21d671c-3b43-4066-bae3-06e5abf86f7a
 -- title:

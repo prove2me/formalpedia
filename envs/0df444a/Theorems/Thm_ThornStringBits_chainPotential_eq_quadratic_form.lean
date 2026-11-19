@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThornStringBits_chainPotential_eq_quadratic_form
 -- name    : ThornStringBits.chainPotential_eq_quadratic_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:37:10.900277+00:00
 -- url     : https://prove2.me/theorems/d6e4447f-4485-48a0-8200-16caee909ba2
 -- title:

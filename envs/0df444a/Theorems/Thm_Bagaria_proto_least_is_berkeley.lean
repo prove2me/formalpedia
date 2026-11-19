@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Bagaria_proto_least_is_berkeley
 -- name    : Bagaria.proto_least_is_berkeley
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:14:03.768155+00:00
 -- url     : https://prove2.me/theorems/317301b5-4146-437a-8e8f-683da0c0818b
 -- title:

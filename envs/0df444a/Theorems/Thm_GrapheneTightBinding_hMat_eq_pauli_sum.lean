@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_hMat_eq_pauli_sum
 -- name    : GrapheneTightBinding.hMat_eq_pauli_sum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:40:04.136986+00:00
 -- url     : https://prove2.me/theorems/87382ca7-3d28-4b1f-bbab-b8b5397160b9
 -- title:

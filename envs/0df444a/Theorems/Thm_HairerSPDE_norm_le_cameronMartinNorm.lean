@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HairerSPDE_norm_le_cameronMartinNorm
 -- name    : HairerSPDE.norm_le_cameronMartinNorm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:20:57.313012+00:00
 -- url     : https://prove2.me/theorems/3fcdd46a-9da5-4deb-a1f1-ba6613ce597a
 -- title:

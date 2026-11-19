@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MarkmanSecant_gP_eq_of_decomposition
 -- name    : MarkmanSecant.gP_eq_of_decomposition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T15:26:02.80546+00:00
 -- url     : https://prove2.me/theorems/5862075c-5c6e-4ba9-8ed3-2e91191fe94b
 -- title:

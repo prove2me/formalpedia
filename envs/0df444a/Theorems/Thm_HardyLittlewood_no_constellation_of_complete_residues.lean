@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_no_constellation_of_complete_residues
 -- name    : HardyLittlewood.no_constellation_of_complete_residues
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:45:08.005749+00:00
 -- url     : https://prove2.me/theorems/3696a205-3518-43d5-b339-870642f0b3bc
 -- title:

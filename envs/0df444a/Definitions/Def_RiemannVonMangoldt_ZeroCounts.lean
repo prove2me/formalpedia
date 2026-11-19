@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RiemannVonMangoldt_ZeroCounts
 -- name    : RiemannVonMangoldt_ZeroCounts
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T02:10:04.950576+00:00
 -- url     : https://prove2.me/theorems/6e00e685-a716-48b3-b245-c1d6406c8f76
 -- title:

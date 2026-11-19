@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_cor_1_8_1_pure_braid_semidirect
 -- name    : BraidsLinksMCG.cor_1_8_1_pure_braid_semidirect
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:59:48.424294+00:00
 -- url     : https://prove2.me/theorems/6c5a58a8-e969-4220-a437-d9a44dc405b7
 -- title:

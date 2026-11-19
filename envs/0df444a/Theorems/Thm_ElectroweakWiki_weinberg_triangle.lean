@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_weinberg_triangle
 -- name    : ElectroweakWiki.weinberg_triangle
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:52:27.747075+00:00
 -- url     : https://prove2.me/theorems/be0c055b-9074-45cc-98f8-c6c76b3d984a
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RealPinwheel.FiveSixths.bounded_density_base
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T03:17:52.302376+00:00
 -- url     : https://prove2.me/submissions/4b3cd1f5-3eec-454c-82de-c4e3b938fda4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RealPinwheel_FiveSixths_density_certificate_1
 import Theorems.Thm_RealPinwheel_FiveSixths_density_certificate_2

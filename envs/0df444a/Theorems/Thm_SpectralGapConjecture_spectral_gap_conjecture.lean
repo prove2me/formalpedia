@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpectralGapConjecture_spectral_gap_conjecture
 -- name    : SpectralGapConjecture.spectral_gap_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:03:49.053204+00:00
 -- url     : https://prove2.me/theorems/e43d342d-928b-440d-a2e6-26a61d5c565d
 -- title:

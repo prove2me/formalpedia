@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_tau_mass_prediction
 -- name    : KoideRelation.tau_mass_prediction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:56:42.887257+00:00
 -- url     : https://prove2.me/theorems/b7847fff-8561-4350-a7eb-254eb86d8a4b
 -- title:

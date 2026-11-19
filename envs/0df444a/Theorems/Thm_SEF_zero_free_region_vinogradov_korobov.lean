@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SEF_zero_free_region_vinogradov_korobov
 -- name    : SEF.zero_free_region_vinogradov_korobov
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:01:24.547375+00:00
 -- url     : https://prove2.me/theorems/7c7d288b-5346-4ee5-8d79-a09cab256a1b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.u3_front
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:48.333259+00:00
 -- url     : https://prove2.me/submissions/aae3a49d-02ea-4550-b21c-7a43bde0c0f9
 

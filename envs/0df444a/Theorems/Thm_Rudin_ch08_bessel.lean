@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_bessel
 -- name    : Rudin.ch08_bessel
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:27:03.73758+00:00
 -- url     : https://prove2.me/theorems/55423b26-0ac1-47a1-8f29-8f4ff1777aab
 -- title:

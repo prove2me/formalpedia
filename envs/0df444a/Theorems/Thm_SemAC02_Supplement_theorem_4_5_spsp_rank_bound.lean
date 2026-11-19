@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_4_5_spsp_rank_bound
 -- name    : SemAC02.Supplement.theorem_4_5_spsp_rank_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:49:32.038284+00:00
 -- url     : https://prove2.me/theorems/9b4430ec-7464-4a2f-91e8-d4c33d3e95d3

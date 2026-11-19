@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_mertens
 -- name    : Rudin.ch03_mertens
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:29:02.099055+00:00
 -- url     : https://prove2.me/theorems/df5638fc-c576-4368-a934-1fb816fdd3f1
 -- title:

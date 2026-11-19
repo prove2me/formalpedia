@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_injective_immersion_of_blockwise_immersions
 -- name    : WhitneyEmbedding.injective_immersion_of_blockwise_immersions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T15:23:56.7218+00:00
 -- url     : https://prove2.me/theorems/e560623b-e18e-4d47-8e18-f70472018660
 -- title:

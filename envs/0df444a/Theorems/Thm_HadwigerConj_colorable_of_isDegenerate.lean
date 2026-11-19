@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_colorable_of_isDegenerate
 -- name    : HadwigerConj.colorable_of_isDegenerate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:39:58.380783+00:00
 -- url     : https://prove2.me/theorems/79bcada1-5404-4307-955a-25c517497917
 -- title:

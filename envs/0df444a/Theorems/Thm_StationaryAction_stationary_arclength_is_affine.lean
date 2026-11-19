@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_stationary_arclength_is_affine
 -- name    : StationaryAction.stationary_arclength_is_affine
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:29:15.553163+00:00
 -- url     : https://prove2.me/theorems/31eb3ae0-64d8-40af-8e38-4ba93b0ac001
 -- title:

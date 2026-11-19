@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KPZBallistic_Defs
 -- name    : KPZBallistic_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:27:43.45509+00:00
 -- url     : https://prove2.me/theorems/4d63d8b2-ff40-4065-a038-7fd9190fd107
 -- title:

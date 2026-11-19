@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_thm_1_13_many_anosov_flows
 -- name    : AnosovPlugs.thm_1_13_many_anosov_flows
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:53:00.807654+00:00
 -- url     : https://prove2.me/theorems/e5a51c3a-ecbe-4472-a1de-9a228d4a4e53
 -- title:

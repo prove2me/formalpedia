@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HarlowTASI_QuantumBasics
 -- name    : HarlowTASI_QuantumBasics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:10:22.941218+00:00
 -- url     : https://prove2.me/theorems/2c4e828c-f14b-45bf-b2ee-f9ef4206585c
 -- title:

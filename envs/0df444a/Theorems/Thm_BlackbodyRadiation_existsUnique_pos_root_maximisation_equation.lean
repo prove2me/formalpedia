@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_existsUnique_pos_root_maximisation_equation
 -- name    : BlackbodyRadiation.existsUnique_pos_root_maximisation_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:38:05.926485+00:00
 -- url     : https://prove2.me/theorems/e9394231-5d5d-4b76-9c0d-a20e8bb68c10
 -- title:

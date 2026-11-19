@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GribovRegion_region_bounded_along_rays
 -- name    : GribovRegion.region_bounded_along_rays
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:19:44.406472+00:00
 -- url     : https://prove2.me/theorems/5c78a56e-450f-473b-be69-6ba4d373187d
 -- title:

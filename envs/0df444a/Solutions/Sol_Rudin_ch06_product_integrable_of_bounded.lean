@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_product_integrable_of_bounded
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:28:47.254775+00:00
 -- url     : https://prove2.me/submissions/cfba3aa4-7cd1-4e59-a3d8-7d0315d09e89
 

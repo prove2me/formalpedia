@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_conic_ecc_lt_one_isEllipse
 -- name    : DynamicsRelativity.conic_ecc_lt_one_isEllipse
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:20:35.172641+00:00
 -- url     : https://prove2.me/theorems/81f26438-34d9-4247-a673-5b2fc9b70798
 -- title:

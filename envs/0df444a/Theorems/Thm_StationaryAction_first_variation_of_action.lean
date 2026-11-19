@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_first_variation_of_action
 -- name    : StationaryAction.first_variation_of_action
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:22:08.959631+00:00
 -- url     : https://prove2.me/theorems/8d940cfb-8560-452f-b610-7d8f50f12746
 -- title:

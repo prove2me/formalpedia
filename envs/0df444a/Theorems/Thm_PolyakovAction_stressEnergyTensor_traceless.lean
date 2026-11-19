@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_stressEnergyTensor_traceless
 -- name    : PolyakovAction.stressEnergyTensor_traceless
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:15:39.651908+00:00
 -- url     : https://prove2.me/theorems/9c2caf18-ca4c-458a-b6d7-2c5a2463a383
 -- title:

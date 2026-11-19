@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_nullVector_null_future
 -- name    : CelestialHolography.nullVector_null_future
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:42:39.077992+00:00
 -- url     : https://prove2.me/theorems/41c8915e-adc8-4af8-af0f-c332071c9466
 -- title:

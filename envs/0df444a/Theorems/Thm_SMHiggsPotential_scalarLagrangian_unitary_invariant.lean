@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SMHiggsPotential_scalarLagrangian_unitary_invariant
 -- name    : SMHiggsPotential.scalarLagrangian_unitary_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:48:43.236713+00:00
 -- url     : https://prove2.me/theorems/3de1c97c-3102-4865-840a-9c4337743397
 -- title:

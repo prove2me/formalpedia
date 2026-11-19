@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_homological_mirror_symmetry_torus
 -- name    : KontsevichHMS.homological_mirror_symmetry_torus
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T03:16:34.632674+00:00
 -- url     : https://prove2.me/theorems/1e2b85ec-eabf-42eb-a983-e384f228f68d
 -- title:

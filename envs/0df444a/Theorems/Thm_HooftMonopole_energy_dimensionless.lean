@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_energy_dimensionless
 -- name    : HooftMonopole.energy_dimensionless
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:14:45.213301+00:00
 -- url     : https://prove2.me/theorems/8d45ba81-fbee-4998-907e-f8fe98700990
 -- title:

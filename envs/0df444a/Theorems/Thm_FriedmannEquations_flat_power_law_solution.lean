@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_flat_power_law_solution
 -- name    : FriedmannEquations.flat_power_law_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:29:31.613816+00:00
 -- url     : https://prove2.me/theorems/ddee9123-53a2-4154-8ae7-be85f1575d9c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ABOThreshold_threshold_lt_imp_condition
 -- name    : ABOThreshold.threshold_lt_imp_condition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:35:28.3417+00:00
 -- url     : https://prove2.me/theorems/7902e316-7ecc-431f-a119-4c9de45d23dc
 -- title:

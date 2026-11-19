@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch03_root_test
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:47:41.319913+00:00
 -- url     : https://prove2.me/submissions/4e5f4ee4-ce8e-4362-8dc4-81bc777f9e3f
 

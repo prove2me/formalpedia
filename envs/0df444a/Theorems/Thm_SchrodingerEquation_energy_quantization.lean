@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchrodingerEquation_energy_quantization
 -- name    : SchrodingerEquation.energy_quantization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:24:44.326452+00:00
 -- url     : https://prove2.me/theorems/b246e07e-f783-4773-bc41-ff09b87f7fd6
 -- title:

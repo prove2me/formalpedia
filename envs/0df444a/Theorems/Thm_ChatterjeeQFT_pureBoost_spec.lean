@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_pureBoost_spec
 -- name    : ChatterjeeQFT.pureBoost_spec
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:40:41.892422+00:00
 -- url     : https://prove2.me/theorems/d7109e6a-197c-48aa-9ad2-0340101f6727
 -- title:

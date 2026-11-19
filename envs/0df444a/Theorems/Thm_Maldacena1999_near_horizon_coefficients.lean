@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_near_horizon_coefficients
 -- name    : Maldacena1999.near_horizon_coefficients
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:44:37.817697+00:00
 -- url     : https://prove2.me/theorems/98897375-dbed-44ce-a816-fee0e76174a1
 -- title:

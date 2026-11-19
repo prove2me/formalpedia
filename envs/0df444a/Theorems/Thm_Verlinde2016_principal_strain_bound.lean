@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Verlinde2016_principal_strain_bound
 -- name    : Verlinde2016.principal_strain_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:30:15.886775+00:00
 -- url     : https://prove2.me/theorems/006fb60f-bff0-4c79-97f4-1602bfea23ed
 -- title:

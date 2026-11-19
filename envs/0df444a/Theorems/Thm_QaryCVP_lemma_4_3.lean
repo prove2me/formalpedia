@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QaryCVP_lemma_4_3
 -- name    : QaryCVP.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:58:19.513139+00:00
 -- url     : https://prove2.me/theorems/dd9fd1db-65b1-40b4-ac55-f65e19ae23b7

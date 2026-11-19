@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_optimal_table
 -- name    : ClassicalSecretary.optimal_table
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:52:20.14851+00:00
 -- url     : https://prove2.me/theorems/5a0a7e09-3adc-43a9-8ba1-a4ee8236f38f
 -- title:

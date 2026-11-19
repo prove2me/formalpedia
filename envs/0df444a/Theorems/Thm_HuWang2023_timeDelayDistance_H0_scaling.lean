@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HuWang2023_timeDelayDistance_H0_scaling
 -- name    : HuWang2023.timeDelayDistance_H0_scaling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:41:12.162001+00:00
 -- url     : https://prove2.me/theorems/fc8138a9-8ae8-4921-b138-46aee8b0e078
 -- title:

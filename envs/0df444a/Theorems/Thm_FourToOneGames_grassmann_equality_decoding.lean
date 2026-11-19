@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FourToOneGames_grassmann_equality_decoding
 -- name    : FourToOneGames.grassmann_equality_decoding
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:29:20.679296+00:00
 -- url     : https://prove2.me/theorems/b242ed97-f0dc-4c78-8afb-8be26dee00bd
 -- title:

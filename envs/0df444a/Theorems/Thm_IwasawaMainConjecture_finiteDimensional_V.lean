@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IwasawaMainConjecture_finiteDimensional_V
 -- name    : IwasawaMainConjecture.finiteDimensional_V
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T17:23:58.393953+00:00
 -- url     : https://prove2.me/theorems/9a0d782f-4e41-49b0-ad42-4022530cb5e7
 -- title:

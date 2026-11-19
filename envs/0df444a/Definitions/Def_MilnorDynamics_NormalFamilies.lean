@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MilnorDynamics_NormalFamilies
 -- name    : MilnorDynamics_NormalFamilies
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T10:38:27.330455+00:00
 -- url     : https://prove2.me/theorems/1269e191-44f6-42f6-95cc-a85537c7a0ad
 -- title:

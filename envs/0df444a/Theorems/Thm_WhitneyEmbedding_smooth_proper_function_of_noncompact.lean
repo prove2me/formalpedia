@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_smooth_proper_function_of_noncompact
 -- name    : WhitneyEmbedding.smooth_proper_function_of_noncompact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T11:42:56.61197+00:00
 -- url     : https://prove2.me/theorems/a79c8a23-c4c0-4b39-9fa0-dba935047ee1
 -- title:

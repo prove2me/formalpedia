@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MarkmanSecant_similarity_commutes_with_complex_structure
 -- name    : MarkmanSecant.similarity_commutes_with_complex_structure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T15:25:00.783879+00:00
 -- url     : https://prove2.me/theorems/93cddb0a-09ff-4c80-a84b-6aedca40b4be
 -- title:

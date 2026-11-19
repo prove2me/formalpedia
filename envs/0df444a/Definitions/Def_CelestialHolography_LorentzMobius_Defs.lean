@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CelestialHolography_LorentzMobius_Defs
 -- name    : CelestialHolography_LorentzMobius_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:41:41.648607+00:00
 -- url     : https://prove2.me/theorems/b75e25a9-0a97-4747-98f0-341efc89fa58
 -- title:

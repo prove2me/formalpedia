@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_triple_mem_sigmaC
 -- name    : MathieuM23.triple_mem_sigmaC
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:36:13.573737+00:00
 -- url     : https://prove2.me/theorems/995d0b5d-18dd-4c57-bd11-05063865dd76
 -- title:

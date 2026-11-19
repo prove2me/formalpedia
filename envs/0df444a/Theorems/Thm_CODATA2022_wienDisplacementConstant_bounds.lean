@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_wienDisplacementConstant_bounds
 -- name    : CODATA2022.wienDisplacementConstant_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:15:15.282526+00:00
 -- url     : https://prove2.me/theorems/fa9187ce-bdc7-4716-b417-0ea90f010700
 -- title:

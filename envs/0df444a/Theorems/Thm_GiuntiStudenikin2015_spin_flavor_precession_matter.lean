@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_spin_flavor_precession_matter
 -- name    : GiuntiStudenikin2015.spin_flavor_precession_matter
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:10:31.44361+00:00
 -- url     : https://prove2.me/theorems/cf1e5a81-101c-4e46-a7e0-98841354246d
 -- title:

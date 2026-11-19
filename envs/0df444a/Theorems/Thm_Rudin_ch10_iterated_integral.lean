@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_iterated_integral
 -- name    : Rudin.ch10_iterated_integral
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:14:04.150994+00:00
 -- url     : https://prove2.me/theorems/2abd43a8-8473-4edc-b9ec-502fb231b30d
 -- title:

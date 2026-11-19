@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_angleField_not_conservative
 -- name    : VectorCalculus.angleField_not_conservative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:26:26.675189+00:00
 -- url     : https://prove2.me/theorems/f20c0f7b-236b-4fc2-ac45-8575d59c29f0
 -- title:

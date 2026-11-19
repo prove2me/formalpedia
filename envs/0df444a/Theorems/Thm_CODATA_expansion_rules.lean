@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA_expansion_rules
 -- name    : CODATA.expansion_rules
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T01:38:41.146265+00:00
 -- url     : https://prove2.me/theorems/4ec0db95-d1bb-4666-b58a-05b2a5c9bbd1
 -- title:

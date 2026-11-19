@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HadwigerConj_Defs
 -- name    : HadwigerConj_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:08:46.438249+00:00
 -- url     : https://prove2.me/theorems/3214721d-af9e-4762-b23c-2344042eb26a
 -- title:

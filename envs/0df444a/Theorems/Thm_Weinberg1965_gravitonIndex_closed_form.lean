@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_gravitonIndex_closed_form
 -- name    : Weinberg1965.gravitonIndex_closed_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:06:04.497566+00:00
 -- url     : https://prove2.me/theorems/0bcac0f0-c524-45ee-ac0d-e7b9f56cba4e
 -- title:

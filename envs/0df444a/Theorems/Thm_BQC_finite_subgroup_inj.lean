@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_finite_subgroup_inj
 -- name    : BQC.finite_subgroup_inj
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:26:29.952748+00:00
 -- url     : https://prove2.me/theorems/801add4e-864a-414f-b27d-0c68dd751d8e
 -- title:

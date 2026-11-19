@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WittenAdSHolography_confDim_isLargerRoot
 -- name    : WittenAdSHolography.confDim_isLargerRoot
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:33:43.906298+00:00
 -- url     : https://prove2.me/theorems/e96017ea-7170-4879-9d3f-6e3969761e53
 -- title:

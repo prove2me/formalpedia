@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KPZBallistic_penrose_thm_2_1
 -- name    : KPZBallistic.penrose_thm_2_1
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:30:15.580971+00:00
 -- url     : https://prove2.me/theorems/a257cf69-216b-40ab-9dcb-59db7d2a72bf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnaliseDeFourier_parseval
 -- name    : AnaliseDeFourier.parseval
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T22:08:40.54699+00:00
 -- url     : https://prove2.me/theorems/ceece72e-f145-4e7e-bbcf-8c9dc99bfd48
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_raychaudhuri_eq_2_7
 -- name    : PereiraGuimaraesElko.raychaudhuri_eq_2_7
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:50:27.198982+00:00
 -- url     : https://prove2.me/theorems/500d778f-8808-4f95-a74e-7ae85d06f23e
 -- title:

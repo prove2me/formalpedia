@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Gelbart_hecke_series
 -- name    : Gelbart_hecke_series
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:30:21.845985+00:00
 -- url     : https://prove2.me/theorems/bc78ab4a-6226-40c7-9d96-752dbf514349
 -- title:

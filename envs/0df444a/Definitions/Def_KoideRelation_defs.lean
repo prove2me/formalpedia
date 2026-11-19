@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KoideRelation_defs
 -- name    : KoideRelation_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:14:54.772645+00:00
 -- url     : https://prove2.me/theorems/af122bd0-9ca8-4182-a6e7-847adde09ade
 -- title:

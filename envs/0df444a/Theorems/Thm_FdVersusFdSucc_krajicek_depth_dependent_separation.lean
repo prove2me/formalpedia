@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FdVersusFdSucc_krajicek_depth_dependent_separation
 -- name    : FdVersusFdSucc.krajicek_depth_dependent_separation
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:16:02.080397+00:00
 -- url     : https://prove2.me/theorems/2c30291b-0de2-4939-bf1a-95fca370ef2a
 -- title:

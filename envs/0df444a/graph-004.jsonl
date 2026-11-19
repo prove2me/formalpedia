@@ -21887,7 +21887,7 @@
 {"parent": "OPG1808.root_problem", "child": "opg1808_colored_tournaments", "via": ["statement"]}
 {"parent": "OPG37271.k33_exact_six", "child": "opg37271_star_edge_coloring", "via": ["solution", "statement"]}
 {"parent": "OPG37271.root_problem", "child": "opg37271_star_edge_coloring", "via": ["statement"]}
-{"parent": "OPG37271.subcubic_seven_color_bound", "child": "opg37271_star_edge_coloring", "via": ["statement"]}
+{"parent": "OPG37271.subcubic_seven_color_bound", "child": "opg37271_star_edge_coloring", "via": ["solution", "statement"]}
 {"parent": "OPG37357.planar_graph_above_one", "child": "opg37357_obstacle_number", "via": ["statement"]}
 {"parent": "OPG37357.universal_planar_bound", "child": "opg37357_obstacle_number", "via": ["statement"]}
 {"parent": "OPG37364.exists_high_girth_adjacency_expander", "child": "OPG37364.exists_lps13_prime_above", "via": ["solution"]}
@@ -27587,15 +27587,15 @@
 {"parent": "PalmQueueing.Formulas.takacs_formula", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["statement"]}
 {"parent": "PalmQueueing.Formulas.takacs_formula", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
 {"parent": "PalmQueueing.Loynes.coupling_convergence", "child": "PalmQueueing_Loynes_Coupling", "via": ["solution", "statement"]}
-{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_FluidQueue", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_StationaryRegime", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.loynes_stability", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.loynes_stability", "child": "PalmQueueing_Loynes_StationaryRegime", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.loynes_stability", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.maximal_solution", "child": "PalmQueueing_Loynes_MultiserverQueue", "via": ["statement"]}
-{"parent": "PalmQueueing.Loynes.multiserver_stability", "child": "PalmQueueing_Loynes_MultiserverQueue", "via": ["statement"]}
+{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_FluidQueue", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_StationaryRegime", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Palm_PointProcess", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.loynes_stability", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.loynes_stability", "child": "PalmQueueing_Loynes_StationaryRegime", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.loynes_stability", "child": "PalmQueueing_Palm_PointProcess", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.maximal_solution", "child": "PalmQueueing_Loynes_MultiserverQueue", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Loynes.multiserver_stability", "child": "PalmQueueing_Loynes_MultiserverQueue", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Ordering.integral_order_continuous", "child": "PalmQueueing_Ordering_IntegralOrders", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Ordering.integral_order_continuous", "child": "PalmQueueing_Ordering_PartialOrders", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Ordering.interchange_permutations", "child": "PalmQueueing_Ordering_Disciplines", "via": ["solution", "statement"]}
@@ -27621,12 +27621,12 @@
 {"parent": "PalmQueueing.Palm.wald_generalization", "child": "PalmQueueing_Palm_PointProcess", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Recurrence.borovkov_renovating", "child": "PalmQueueing_Recurrence_Renovating", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Recurrence.crandall_tartar", "child": "PalmQueueing_Recurrence_MonotoneHomogeneous", "via": ["solution", "statement"]}
-{"parent": "PalmQueueing.Recurrence.growth_rates", "child": "PalmQueueing_Recurrence_MonotoneHomogeneous", "via": ["statement"]}
+{"parent": "PalmQueueing.Recurrence.growth_rates", "child": "PalmQueueing_Recurrence_MonotoneHomogeneous", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Recurrence.monotone_propp_wilson", "child": "PalmQueueing_Recurrence_ExactSampling", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Recurrence.propp_wilson", "child": "PalmQueueing_Recurrence_ExactSampling", "via": ["solution", "statement"]}
-{"parent": "PalmQueueing.Recurrence.renovating_from_coupling", "child": "PalmQueueing_Recurrence_Renovating", "via": ["statement"]}
+{"parent": "PalmQueueing.Recurrence.renovating_from_coupling", "child": "PalmQueueing_Recurrence_Renovating", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Recurrence.renovating_uniform_in_initial", "child": "PalmQueueing_Recurrence_Renovating", "via": ["solution", "statement"]}
-{"parent": "PalmQueueing.Recurrence.stability_region", "child": "PalmQueueing_Recurrence_Saturation", "via": ["statement"]}
+{"parent": "PalmQueueing.Recurrence.stability_region", "child": "PalmQueueing_Recurrence_Saturation", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing_Ergodic_DiscreteFlow", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
 {"parent": "PalmQueueing_Formulas_OnOffSources", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
 {"parent": "PalmQueueing_Formulas_RareEvents", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
@@ -31118,12 +31118,12 @@
 {"parent": "PrivLearn.LocalSim.avg_is_private", "child": "PrivLearn_LocalSim_Privacy", "via": ["solution", "statement"]}
 {"parent": "PrivLearn.LocalSim.avg_is_private", "child": "PrivLearn_LocalSim_Simulation", "via": ["solution", "statement"]}
 {"parent": "PrivLearn.LocalSim.laplace_average", "child": "PrivLearn_LocalSim_Privacy", "via": ["solution", "statement"]}
-{"parent": "PrivLearn.LocalSim.lemma_5_6", "child": "PrivLearn_LocalSim_Privacy", "via": ["statement"]}
-{"parent": "PrivLearn.LocalSim.lemma_5_6", "child": "PrivLearn_LocalSim_Simulation", "via": ["statement"]}
+{"parent": "PrivLearn.LocalSim.lemma_5_6", "child": "PrivLearn_LocalSim_Privacy", "via": ["solution", "statement"]}
+{"parent": "PrivLearn.LocalSim.lemma_5_6", "child": "PrivLearn_LocalSim_Simulation", "via": ["solution", "statement"]}
 {"parent": "PrivLearn.LocalSim.randomizer_is_local", "child": "PrivLearn_LocalSim_Privacy", "via": ["solution", "statement"]}
 {"parent": "PrivLearn.LocalSim.randomizer_is_local", "child": "PrivLearn_LocalSim_Simulation", "via": ["solution", "statement"]}
-{"parent": "PrivLearn.LocalSim.theorem_5_7", "child": "PrivLearn_LocalSim_Privacy", "via": ["statement"]}
-{"parent": "PrivLearn.LocalSim.theorem_5_7", "child": "PrivLearn_LocalSim_Simulation", "via": ["statement"]}
+{"parent": "PrivLearn.LocalSim.theorem_5_7", "child": "PrivLearn_LocalSim_Privacy", "via": ["solution", "statement"]}
+{"parent": "PrivLearn.LocalSim.theorem_5_7", "child": "PrivLearn_LocalSim_Simulation", "via": ["solution", "statement"]}
 {"parent": "PrivLearn.MaskedParity.bessel", "child": "PrivLearn_MaskedParity_Model", "via": ["solution", "statement"]}
 {"parent": "PrivLearn.MaskedParity.bessel", "child": "PrivLearn_MaskedParity_Oracle", "via": ["solution", "statement"]}
 {"parent": "PrivLearn.MaskedParity.counting", "child": "PrivLearn_MaskedParity_Model", "via": ["statement"]}
@@ -31814,8 +31814,8 @@
 {"parent": "ProcessingNetworks.ProportionalFairness.within_group_entropy_continuous", "child": "ProcessingNetworks_ProportionalFairness_WithinGroupEntropy", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.ProportionalFairness.within_group_entropy_dini_bound_regular", "child": "ProcessingNetworks_ProportionalFairness_WithinGroupEntropy", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Stability.arrival_process_slln", "child": "ProcessingNetworks_Stability_BaselineAssumptions", "via": ["solution", "statement"]}
-{"parent": "ProcessingNetworks.Stability.drift_condition_implies_positive_recurrent", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["statement"]}
-{"parent": "ProcessingNetworks.Stability.drift_condition_implies_positive_recurrent", "child": "ProcessingNetworks_Stability_StabilityConditions", "via": ["statement"]}
+{"parent": "ProcessingNetworks.Stability.drift_condition_implies_positive_recurrent", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["solution", "statement"]}
+{"parent": "ProcessingNetworks.Stability.drift_condition_implies_positive_recurrent", "child": "ProcessingNetworks_Stability_StabilityConditions", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Stability.empty_state_reachable", "child": "ProcessingNetworks_Stability_BaselineAssumptions", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Stability.empty_state_reachable", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Stability.equivalent_stability_conditions", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["statement"]}
@@ -46706,7 +46706,7 @@
 {"parent": "ResidueTheoremOnRectangleWithSimplePole_prime", "child": "not_mem_rectangleBorder_of_rectangle_mem_nhds", "via": ["solution"]}
 {"parent": "ResidueTheoremOnRectangleWithSimplePole_prime", "child": "rectangleBorder_subset_rectangle", "via": ["solution"]}
 {"parent": "ResidueTheoremOnRectangleWithSimplePole_prime", "child": "rectangle_mem_nhds_iff", "via": ["solution"]}
-{"parent": "ResolvingNRM.FRLower.fr_regret_lower_bound", "child": "ResolvingNRM_FRLower_Instance", "via": ["statement"]}
+{"parent": "ResolvingNRM.FRLower.fr_regret_lower_bound", "child": "ResolvingNRM_FRLower_Instance", "via": ["solution", "statement"]}
 {"parent": "ResolvingNRM.FRLower.lp_solution", "child": "ResolvingNRM_FRLower_Instance", "via": ["solution", "statement"]}
 {"parent": "ResolvingNRM.FRUpper.fr_dlp_gap_explicit", "child": "RLPBidPrice_Unbiased_Model", "via": ["solution", "statement"]}
 {"parent": "ResolvingNRM.FRUpper.fr_dlp_gap_explicit", "child": "ResolvingNRM_FRUpper_Model", "via": ["solution", "statement"]}
@@ -50305,11 +50305,11 @@
 {"parent": "RobertsonSeymour1986.GM5.balanced_separation_of_set", "child": "RobertsonSeymour1986_GM5_IsSeparation", "via": ["statement"]}
 {"parent": "RobertsonSeymour1986.GM5.balanced_separation_of_set", "child": "RobertsonSeymour1986_GM5_NoGridMinor", "via": ["statement"]}
 {"parent": "RobertsonSeymour1986.GM5.balanced_separation_of_set", "child": "RobertsonSeymour1986_GM5_Params", "via": ["statement"]}
-{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_IsMinor", "via": ["statement"]}
-{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_IsPlanar", "via": ["statement"]}
-{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_Params", "via": ["statement"]}
-{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_TreewidthLE", "via": ["statement"]}
-{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_grid", "via": ["statement"]}
+{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_IsMinor", "via": ["solution", "statement"]}
+{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_IsPlanar", "via": ["solution", "statement"]}
+{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_Params", "via": ["solution", "statement"]}
+{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_TreewidthLE", "via": ["solution", "statement"]}
+{"parent": "RobertsonSeymour1986.GM5.excluding_planar_graph", "child": "RobertsonSeymour1986_GM5_grid", "via": ["solution", "statement"]}
 {"parent": "RobertsonSeymour1986.GM5.large_subgraphs_or_small_separation", "child": "RobertsonSeymour1986_GM5_IsSeparation", "via": ["statement"]}
 {"parent": "RobertsonSeymour1986.GM5.legs_lt_theta1", "child": "RobertsonSeymour1986_GM5_NoGridMinor", "via": ["statement"]}
 {"parent": "RobertsonSeymour1986.GM5.legs_lt_theta1", "child": "RobertsonSeymour1986_GM5_Params", "via": ["statement"]}
@@ -50471,7 +50471,7 @@
 {"parent": "RobertsonSeymour2010.GM23.Immersion.immersion_of_collapse_transpose", "child": "RobertsonSeymour2010_GM23_Immersion_Graphs", "via": ["statement"]}
 {"parent": "RobertsonSeymour2010.GM23.Immersion.loopless_immersion_wqo", "child": "RobertsonSeymour2010_GM23_Immersion_Graphs", "via": ["statement"]}
 {"parent": "RobertsonSeymour2010.GM23.Immersion.nash_williams_immersion", "child": "RobertsonSeymour2010_GM23_Immersion_Graphs", "via": ["statement"]}
-{"parent": "RobertsonSeymour2010.GM23.Immersion.no_descending_ideals", "child": "RobertsonSeymour2010_GM23_Immersion_QuasiOrders", "via": ["statement"]}
+{"parent": "RobertsonSeymour2010.GM23.Immersion.no_descending_ideals", "child": "RobertsonSeymour2010_GM23_Immersion_QuasiOrders", "via": ["solution", "statement"]}
 {"parent": "RobertsonSeymour2010.GM23.Immersion.no_descending_shadows", "child": "RobertsonSeymour2010_GM23_Immersion_QuasiOrders", "via": ["statement"]}
 {"parent": "RobinsonFP.Convergence.eq3", "child": "RobinsonFP_Convergence_VectorSystem", "via": ["solution", "statement"]}
 {"parent": "RobinsonFP.Convergence.gap_ratio_tendsto_zero", "child": "RobinsonFP_Convergence_VectorSystem", "via": ["solution", "statement"]}
@@ -54124,8 +54124,8 @@
 {"parent": "SennottDP.SEN.prop_7_1_1_average_cost_tail", "child": "SennottDP_SEN_Criteria", "via": ["solution", "statement"]}
 {"parent": "SennottDP.SEN.prop_7_2_4_sen_any_state", "child": "SennottDP_SEN_Assumptions", "via": ["solution", "statement"]}
 {"parent": "SennottDP.SEN.prop_7_7_1_sen_hstar_h", "child": "SennottDP_SEN_Assumptions", "via": ["solution", "statement"]}
-{"parent": "SennottDP.SEN.prop_7_7_2_h_acoi", "child": "SennottDP_SEN_Assumptions", "via": ["statement"]}
-{"parent": "SennottDP.SEN.thm_7_2_3_sen_acoi", "child": "SennottDP_SEN_Assumptions", "via": ["statement"]}
+{"parent": "SennottDP.SEN.prop_7_7_2_h_acoi", "child": "SennottDP_SEN_Assumptions", "via": ["solution", "statement"]}
+{"parent": "SennottDP.SEN.thm_7_2_3_sen_acoi", "child": "SennottDP_SEN_Assumptions", "via": ["solution", "statement"]}
 {"parent": "SennottDP.Tauberian.abel_limit_continuous", "child": "SennottDP.Tauberian.abel_limit_monomial", "via": ["solution"]}
 {"parent": "SennottDP.Tauberian.abel_limit_continuous", "child": "SennottDP_Tauberian_PowerSeries", "via": ["solution", "statement"]}
 {"parent": "SennottDP.Tauberian.abel_limit_monomial", "child": "SennottDP_Tauberian_PowerSeries", "via": ["solution", "statement"]}
@@ -59148,7 +59148,7 @@
 {"parent": "SymmetricRendezvousLine.symmetric_rendezvous_value_eq_discrete", "child": "SymmetricRendezvousLine_defs", "via": ["statement"]}
 {"parent": "SymmetricRendezvousLine.symmetric_rendezvous_value_eq_seventeen_quarters", "child": "SymmetricRendezvousLine_defs", "via": ["solution", "statement"]}
 {"parent": "SymmetricRendezvousLine.symmetric_rendezvous_value_gt_4_1520", "child": "SymmetricRendezvousLine_defs", "via": ["statement"]}
-{"parent": "SymmetricRendezvousLine.symmetric_rendezvous_value_lt_4_2574", "child": "SymmetricRendezvousLine_defs", "via": ["statement"]}
+{"parent": "SymmetricRendezvousLine.symmetric_rendezvous_value_lt_4_2574", "child": "SymmetricRendezvousLine_defs", "via": ["solution", "statement"]}
 {"parent": "SymplecticMatrix.exists_basis_standardFamily", "child": "SymplecticMatrix.span_standardBasisSet_eq_sp", "via": ["solution"]}
 {"parent": "SymplecticMatrix.exists_basis_standardFamily", "child": "SymplecticMatrix.standardFamily_linearIndependent", "via": ["solution"]}
 {"parent": "SymplecticMatrix.exists_basis_standardFamily", "child": "SymplecticMatrix.standardGenerators_mem_sp", "via": ["solution"]}

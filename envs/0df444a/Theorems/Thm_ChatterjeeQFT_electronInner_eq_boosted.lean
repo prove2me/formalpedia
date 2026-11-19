@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_electronInner_eq_boosted
 -- name    : ChatterjeeQFT.electronInner_eq_boosted
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:42:35.167822+00:00
 -- url     : https://prove2.me/theorems/5ff69c83-f99b-4934-9742-aa777d2486ab
 -- title:

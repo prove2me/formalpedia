@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_OmegaLogic_Semantics
 -- name    : OmegaLogic_Semantics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T16:31:59.622911+00:00
 -- url     : https://prove2.me/theorems/3503c84a-05fb-4f01-b5bb-065467fbe420
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_sphere_integral_transverse
 -- name    : Larmor.sphere_integral_transverse
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:21:26.991013+00:00
 -- url     : https://prove2.me/theorems/88a8506a-28ec-4602-b92e-d8258779956c
 -- title:

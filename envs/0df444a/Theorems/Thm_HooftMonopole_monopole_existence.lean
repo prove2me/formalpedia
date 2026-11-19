@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_monopole_existence
 -- name    : HooftMonopole.monopole_existence
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:15:07.925706+00:00
 -- url     : https://prove2.me/theorems/ef30cdb0-4f11-4456-9987-c6964c43cace
 -- title:

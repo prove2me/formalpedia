@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_phi4Kink_energy
 -- name    : MonopolesInstantonsConfinement.phi4Kink_energy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:22:02.056123+00:00
 -- url     : https://prove2.me/theorems/f5ff9fbb-5610-4e4a-963e-dcf1777d92c8
 -- title:

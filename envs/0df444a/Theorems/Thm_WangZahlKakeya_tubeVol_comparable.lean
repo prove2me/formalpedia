@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_tubeVol_comparable
 -- name    : WangZahlKakeya.tubeVol_comparable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:46:40.031607+00:00
 -- url     : https://prove2.me/theorems/13a2a2f7-64a9-4b3d-9b6f-607430956a99
 -- title:

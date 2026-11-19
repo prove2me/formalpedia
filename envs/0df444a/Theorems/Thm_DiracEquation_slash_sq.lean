@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DiracEquation_slash_sq
 -- name    : DiracEquation.slash_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T20:18:49.305047+00:00
 -- url     : https://prove2.me/theorems/bbb0e2a4-8f4f-45a7-a247-6ae5fb7c19dd
 -- title:

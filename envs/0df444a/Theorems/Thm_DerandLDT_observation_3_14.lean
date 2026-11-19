@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerandLDT_observation_3_14
 -- name    : DerandLDT.observation_3_14
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:05:03.566604+00:00
 -- url     : https://prove2.me/theorems/b735ead0-c055-4681-b734-7c68b2be45bc

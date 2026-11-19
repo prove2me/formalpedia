@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_bounded_density_base
 -- name    : RealPinwheel.FiveSixths.bounded_density_base
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T02:50:36.019796+00:00
 -- url     : https://prove2.me/theorems/935c3d78-571a-490e-a4ae-d629a4c29622

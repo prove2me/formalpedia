@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for UndecidableSpectralGap.usg_gs_energy_with_promise
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T12:10:11.851287+00:00
 -- url     : https://prove2.me/submissions/463590ec-960f-46c5-9654-bbf916b8f4b4
 

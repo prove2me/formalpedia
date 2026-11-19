@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_lcm_orders
 -- name    : BQC.lcm_orders
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:29:42.103157+00:00
 -- url     : https://prove2.me/theorems/39a76154-21e1-44a0-8943-90d1c9cfeb70
 -- title:

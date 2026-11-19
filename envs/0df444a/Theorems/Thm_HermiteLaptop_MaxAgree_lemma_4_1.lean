@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermiteLaptop_MaxAgree_lemma_4_1
 -- name    : HermiteLaptop.MaxAgree.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:17:40.890623+00:00
 -- url     : https://prove2.me/theorems/03679239-9202-4cf8-be4c-f33d29a5a0f7

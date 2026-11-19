@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_recursive_running_time
 -- name    : NearlyOptimalPPR.Computation.recursive_running_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:39:22.539802+00:00
 -- url     : https://prove2.me/theorems/5fb5d130-8263-4b2c-a1e5-73382c32c5f6

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_christoffel_symm
 -- name    : CarrollGR.christoffel_symm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:54:42.290823+00:00
 -- url     : https://prove2.me/theorems/82d55b7e-4697-440b-afb1-c684a7a95954
 -- title:

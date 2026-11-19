@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ValuativeSYZ_cost_transform
 -- name    : ValuativeSYZ_cost_transform
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:06:23.785605+00:00
 -- url     : https://prove2.me/theorems/cb4c1aad-bb9e-4a2c-b026-1d3c2a7bf7a2
 -- title:

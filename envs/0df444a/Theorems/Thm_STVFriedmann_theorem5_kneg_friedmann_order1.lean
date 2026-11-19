@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_theorem5_kneg_friedmann_order1
 -- name    : STVFriedmann.theorem5_kneg_friedmann_order1
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:59:23.797916+00:00
 -- url     : https://prove2.me/theorems/c9d43369-a7d4-4df7-8704-018a474c22f0
 -- title:

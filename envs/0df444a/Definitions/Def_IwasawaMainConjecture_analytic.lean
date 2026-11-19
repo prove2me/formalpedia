@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_IwasawaMainConjecture_analytic
 -- name    : IwasawaMainConjecture_analytic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T17:22:31.541985+00:00
 -- url     : https://prove2.me/theorems/4144c652-08fd-4c06-9ff0-679f3fb1b0e8
 -- title:

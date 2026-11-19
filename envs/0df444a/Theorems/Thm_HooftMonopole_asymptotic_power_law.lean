@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_asymptotic_power_law
 -- name    : HooftMonopole.asymptotic_power_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:04:39.016777+00:00
 -- url     : https://prove2.me/theorems/7c65eda5-0287-4c17-9d1e-703c181258ed
 -- title:

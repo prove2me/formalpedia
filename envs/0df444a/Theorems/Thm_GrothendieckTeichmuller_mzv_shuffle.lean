@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_mzv_shuffle
 -- name    : GrothendieckTeichmuller.mzv_shuffle
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:52:06.940539+00:00
 -- url     : https://prove2.me/theorems/fbc2a00b-3a2d-408a-ad73-456ad42824cc
 -- title:

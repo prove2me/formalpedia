@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_phi_c_planck_estimate
 -- name    : MDOUnifiedCosmology.phi_c_planck_estimate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:35:17.542978+00:00
 -- url     : https://prove2.me/theorems/2fa6db9e-50e2-4e6a-bd99-8eb53187b7d4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HighEntropyLimit_gaussian_entropy
 -- name    : HighEntropyLimit_gaussian_entropy
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:51:22.161004+00:00
 -- url     : https://prove2.me/theorems/c3d3d79b-00c3-40e6-9e48-818380f863d3
 -- title:

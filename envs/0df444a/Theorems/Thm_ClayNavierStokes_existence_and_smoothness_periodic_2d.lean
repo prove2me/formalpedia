@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClayNavierStokes_existence_and_smoothness_periodic_2d
 -- name    : ClayNavierStokes.existence_and_smoothness_periodic_2d
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:42:36.411443+00:00
 -- url     : https://prove2.me/theorems/595771ed-894c-4cae-b237-195b8abf515b
 -- title:

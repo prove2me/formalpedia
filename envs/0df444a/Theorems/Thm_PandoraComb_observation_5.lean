@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PandoraComb_observation_5
 -- name    : PandoraComb.observation_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:09:38.30355+00:00
 -- url     : https://prove2.me/theorems/18001972-ce19-470b-9c1a-7c4fb49ffae8

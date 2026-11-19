@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ColemanMandula_lemma8_translation_plus_internal
 -- name    : ColemanMandula.lemma8_translation_plus_internal
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T05:03:04.673979+00:00
 -- url     : https://prove2.me/theorems/3b131df7-6a75-45e1-9b63-db61cc11eb75
 -- title:

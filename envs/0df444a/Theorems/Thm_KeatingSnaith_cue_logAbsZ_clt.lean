@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_logAbsZ_clt
 -- name    : KeatingSnaith.cue_logAbsZ_clt
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:07:53.868696+00:00
 -- url     : https://prove2.me/theorems/a3350a46-11b6-497c-9155-6eacf4109aaf
 -- title:

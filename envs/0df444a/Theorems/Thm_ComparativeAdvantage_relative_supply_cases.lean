@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_relative_supply_cases
 -- name    : ComparativeAdvantage.relative_supply_cases
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:57.643928+00:00
 -- url     : https://prove2.me/theorems/f58ad64d-9d51-48c0-b996-42b86dee2f2d
 -- title:

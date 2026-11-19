@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_exists_singular_integrator
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T18:30:51.751046+00:00
 -- url     : https://prove2.me/submissions/86b1afe0-2ea2-4ae6-8f09-ab49105e3f05
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_dirichlet_sharpness
 -- name    : LonelyRunnerConjecture.dirichlet_sharpness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:11:39.282338+00:00
 -- url     : https://prove2.me/theorems/00de48d3-c192-4b2a-a2b9-cc2a61594874
 -- title:

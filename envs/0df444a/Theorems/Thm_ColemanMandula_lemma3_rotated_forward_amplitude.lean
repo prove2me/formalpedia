@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ColemanMandula_lemma3_rotated_forward_amplitude
 -- name    : ColemanMandula.lemma3_rotated_forward_amplitude
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:39:18.237169+00:00
 -- url     : https://prove2.me/theorems/4e016579-24f2-4a4b-b66f-d68de3fc3f2a
 -- title:

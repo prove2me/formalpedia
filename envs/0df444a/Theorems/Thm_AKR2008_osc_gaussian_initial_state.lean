@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_osc_gaussian_initial_state
 -- name    : AKR2008.osc_gaussian_initial_state
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:05:37.530835+00:00
 -- url     : https://prove2.me/theorems/3e4c6f1e-d2fe-4378-a5c8-c3420d09f094
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GribovRegion_fpOperator_convex_comb
 -- name    : GribovRegion.fpOperator_convex_comb
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T17:58:58.886018+00:00
 -- url     : https://prove2.me/theorems/f8c51738-b00e-4241-ba1b-ae751a158443
 -- title:

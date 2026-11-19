@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_peixoto_orientable_surface_flows
 -- name    : PalisConjecture.peixoto_orientable_surface_flows
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T03:13:22.100757+00:00
 -- url     : https://prove2.me/theorems/bf5b0f39-516b-4b40-8ce9-9602673e0f4a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BUP_thm3_lifts
 -- name    : BUP.thm3_lifts
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:30:13.671758+00:00
 -- url     : https://prove2.me/theorems/b837464f-299d-47c3-bb16-672b74d85f82
 -- title:

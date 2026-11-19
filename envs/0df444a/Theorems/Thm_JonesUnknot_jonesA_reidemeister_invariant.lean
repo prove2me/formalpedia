@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JonesUnknot_jonesA_reidemeister_invariant
 -- name    : JonesUnknot.jonesA_reidemeister_invariant
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:32:57.393107+00:00
 -- url     : https://prove2.me/theorems/d476cc3c-a430-4b65-9b6f-b19d6654ef16
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PughClosingLemma_periodicPts_subset_nonwanderingSet
 -- name    : PughClosingLemma.periodicPts_subset_nonwanderingSet
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:13:43.571339+00:00
 -- url     : https://prove2.me/theorems/6c95d9d3-7bc4-409b-849b-da2b74605b37
 -- title:

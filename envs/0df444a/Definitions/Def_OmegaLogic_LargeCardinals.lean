@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_OmegaLogic_LargeCardinals
 -- name    : OmegaLogic_LargeCardinals
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T16:33:27.910856+00:00
 -- url     : https://prove2.me/theorems/0a478381-639f-4baf-8b4e-dc2f3490cdf9
 -- title:

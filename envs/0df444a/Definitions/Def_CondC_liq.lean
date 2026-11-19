@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CondC_liq
 -- name    : CondC_liq
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:44:00.101814+00:00
 -- url     : https://prove2.me/theorems/fa32e9b8-e46a-4150-9237-6ce26b40c492
 -- title:

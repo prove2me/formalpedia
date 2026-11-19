@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_pointForce_eq_smul_pointField
 -- name    : NewtonGravitation.pointForce_eq_smul_pointField
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:41:40.924331+00:00
 -- url     : https://prove2.me/theorems/3e9c2263-7f79-4886-8b14-a436fca94b0d
 -- title:

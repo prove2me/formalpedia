@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BananaF1_bananaHypersurfaceClass_coeff_zero
 -- name    : BananaF1.bananaHypersurfaceClass_coeff_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:47:34.686102+00:00
 -- url     : https://prove2.me/theorems/0881374e-cc52-4d93-a81c-17bc08b5a401
 -- title:

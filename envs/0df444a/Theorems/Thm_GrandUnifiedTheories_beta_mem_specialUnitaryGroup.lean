@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_beta_mem_specialUnitaryGroup
 -- name    : GrandUnifiedTheories.beta_mem_specialUnitaryGroup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:51:59.002489+00:00
 -- url     : https://prove2.me/theorems/d3138993-543e-4867-a979-a524ecf008fb
 -- title:

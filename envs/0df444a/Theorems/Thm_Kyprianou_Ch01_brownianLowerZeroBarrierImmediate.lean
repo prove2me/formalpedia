@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianLowerZeroBarrierImmediate
 -- name    : Kyprianou.Ch01.brownianLowerZeroBarrierImmediate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T20:38:06.777208+00:00
 -- url     : https://prove2.me/theorems/1cc94fd2-580f-4611-a75c-0abc5e708af2

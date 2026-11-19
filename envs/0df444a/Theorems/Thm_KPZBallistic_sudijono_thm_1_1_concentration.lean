@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KPZBallistic_sudijono_thm_1_1_concentration
 -- name    : KPZBallistic.sudijono_thm_1_1_concentration
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:31:48.13299+00:00
 -- url     : https://prove2.me/theorems/5e40a169-72e6-4ecb-8370-d37d9b88cff7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_half_convexity_bound
 -- name    : LindelofHypothesis.mu_half_convexity_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:41:37.255096+00:00
 -- url     : https://prove2.me/theorems/a671b575-140e-4079-ba48-cda4a976c54e
 -- title:

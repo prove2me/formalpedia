@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_field_gradient
 -- name    : Penrose.field_gradient
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:20:26.328173+00:00
 -- url     : https://prove2.me/theorems/f51ed6cb-af48-423e-9ae6-e4a692f0f0eb
 -- title:

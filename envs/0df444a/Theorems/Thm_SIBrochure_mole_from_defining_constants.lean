@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_mole_from_defining_constants
 -- name    : SIBrochure.mole_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:38:22.532427+00:00
 -- url     : https://prove2.me/theorems/454bd184-d11e-4aaf-a069-83ab0a38c3e5
 -- title:

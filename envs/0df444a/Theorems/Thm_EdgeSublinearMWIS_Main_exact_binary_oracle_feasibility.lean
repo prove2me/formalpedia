@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdgeSublinearMWIS_Main_exact_binary_oracle_feasibility
 -- name    : EdgeSublinearMWIS.Main.exact_binary_oracle_feasibility
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T00:09:47.460194+00:00
 -- url     : https://prove2.me/theorems/15de4fff-5724-460a-a805-592c8f4a1ea7

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_alphaOneLoop_hasDerivAt
 -- name    : CouplingConstant.alphaOneLoop_hasDerivAt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:14:33.473857+00:00
 -- url     : https://prove2.me/theorems/d3a3a509-12bd-49bc-825b-ca26a6a96ade
 -- title:

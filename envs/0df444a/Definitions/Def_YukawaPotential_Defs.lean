@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YukawaPotential_Defs
 -- name    : YukawaPotential_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T12:14:01.073367+00:00
 -- url     : https://prove2.me/theorems/8d902eb5-fa06-438f-a813-07d84a7970ec
 -- title:

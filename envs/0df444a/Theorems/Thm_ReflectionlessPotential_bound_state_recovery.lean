@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_bound_state_recovery
 -- name    : ReflectionlessPotential.bound_state_recovery
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:59:37.194985+00:00
 -- url     : https://prove2.me/theorems/5598652a-515d-4e1c-954e-0816f94e60cf
 -- title:

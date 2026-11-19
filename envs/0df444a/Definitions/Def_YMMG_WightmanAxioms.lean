@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YMMG_WightmanAxioms
 -- name    : YMMG_WightmanAxioms
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:07:51.627986+00:00
 -- url     : https://prove2.me/theorems/33033fb5-1b94-4455-8ae8-77bee97c4051
 -- title:

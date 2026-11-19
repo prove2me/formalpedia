@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_lemma_3_6_convex_on_face
 -- name    : ValuativeSYZ.lemma_3_6_convex_on_face
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:48:33.559339+00:00
 -- url     : https://prove2.me/theorems/7a4f9f9a-f6f4-4d95-ab21-34b41d4b9d32
 -- title:

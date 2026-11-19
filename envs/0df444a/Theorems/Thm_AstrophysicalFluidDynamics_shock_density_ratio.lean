@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_density_ratio
 -- name    : AstrophysicalFluidDynamics.shock_density_ratio
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T16:11:58.94599+00:00
 -- url     : https://prove2.me/theorems/d8b9afbe-1c3f-4fd4-bafd-53924b329dc5
 -- title:

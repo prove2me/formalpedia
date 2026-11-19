@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_reduction_to_riemann_of_bounded
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T15:38:34.618774+00:00
 -- url     : https://prove2.me/submissions/6f8cc922-a0f9-4a04-9ed8-02549e21323e
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gribov_homotopy_based_gauge_group_sphere
 -- name    : Gribov.homotopy_based_gauge_group_sphere
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:15:51.385373+00:00
 -- url     : https://prove2.me/theorems/1c1d1078-61fe-492e-bdaf-8631e4253d44
 -- title:

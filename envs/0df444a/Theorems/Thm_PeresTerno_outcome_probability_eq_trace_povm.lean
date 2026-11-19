@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_outcome_probability_eq_trace_povm
 -- name    : PeresTerno.outcome_probability_eq_trace_povm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T00:14:51.547334+00:00
 -- url     : https://prove2.me/theorems/ea59a541-c02e-4638-90dc-73ac0e1bab16
 -- title:

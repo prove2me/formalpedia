@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HighEntropyLimit_lindblad
 -- name    : HighEntropyLimit_lindblad
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:53:10.070999+00:00
 -- url     : https://prove2.me/theorems/cf8c0822-b3a8-413e-a8b9-b58463e26242
 -- title:

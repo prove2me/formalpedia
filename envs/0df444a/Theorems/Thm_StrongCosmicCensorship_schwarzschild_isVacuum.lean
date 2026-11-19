@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_schwarzschild_isVacuum
 -- name    : StrongCosmicCensorship.schwarzschild_isVacuum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:09:51.14112+00:00
 -- url     : https://prove2.me/theorems/1b4dc888-66e8-4d58-ae7d-0731d2b01401
 -- title:

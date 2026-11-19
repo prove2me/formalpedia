@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HairerSPDE_map_add_eq_withDensity
 -- name    : HairerSPDE.map_add_eq_withDensity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:22:05.257687+00:00
 -- url     : https://prove2.me/theorems/314f620b-1795-48a0-a8b9-57adc5da59c3
 -- title:

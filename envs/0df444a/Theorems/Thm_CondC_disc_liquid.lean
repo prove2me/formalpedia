@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_disc_liquid
 -- name    : CondC.disc_liquid
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:49:31.199068+00:00
 -- url     : https://prove2.me/theorems/5eae5f83-1a86-4686-8c9c-bab74388eb2a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DSGE_NK_model
 -- name    : DSGE_NK_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:56.508723+00:00
 -- url     : https://prove2.me/theorems/6398d62f-3bb6-4795-b3ac-3f5c2e0dffd0
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CursoEDO.picard_existence_uniqueness
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T14:19:43.512066+00:00
 -- url     : https://prove2.me/submissions/7ea0ed29-33d0-45e7-8fd1-14f642a1fc38
 

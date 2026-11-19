@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Tegmark_phys
 -- name    : Tegmark_phys
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T04:10:20.470602+00:00
 -- url     : https://prove2.me/theorems/07dae4f0-2335-4755-901e-f7635c12755b
 -- title:

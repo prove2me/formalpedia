@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_dust_density_scaling
 -- name    : MDOUnifiedCosmology.dust_density_scaling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:33:39.387231+00:00
 -- url     : https://prove2.me/theorems/bdabe7bf-38b1-4384-9fc0-f93eda12a663
 -- title:

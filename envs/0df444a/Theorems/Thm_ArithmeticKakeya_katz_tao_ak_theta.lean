@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_katz_tao_ak_theta
 -- name    : ArithmeticKakeya.katz_tao_ak_theta
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:58:52.974208+00:00
 -- url     : https://prove2.me/theorems/b347ac35-0f71-41ad-9bac-7a602a53855e
 -- title:

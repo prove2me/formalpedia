@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_constants_ratFunc
 -- name    : LiouvilleDiffAlg.constants_ratFunc
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:32:04.663127+00:00
 -- url     : https://prove2.me/theorems/583d47ee-ab2b-44cd-bca2-c37439b1641b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_measurable_ops
 -- name    : Rudin.ch11_measurable_ops
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:16:24.993749+00:00
 -- url     : https://prove2.me/theorems/1af2c60b-bce5-49b8-8216-772b8d7bf0b8
 -- title:

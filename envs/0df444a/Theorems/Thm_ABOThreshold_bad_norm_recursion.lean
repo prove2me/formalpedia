@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ABOThreshold_bad_norm_recursion
 -- name    : ABOThreshold.bad_norm_recursion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:42:21.336271+00:00
 -- url     : https://prove2.me/theorems/c0e4b6a4-b804-4744-b053-ec48e1bae6c8
 -- title:

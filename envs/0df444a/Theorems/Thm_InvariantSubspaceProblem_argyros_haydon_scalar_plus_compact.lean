@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_argyros_haydon_scalar_plus_compact
 -- name    : InvariantSubspaceProblem.argyros_haydon_scalar_plus_compact
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T17:26:36.055458+00:00
 -- url     : https://prove2.me/theorems/42b25cde-73fe-4582-b837-95b10d917add
 -- title:

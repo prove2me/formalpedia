@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_bisection_convergence
 -- name    : MetodosNumericos.bisection_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:39:46.393469+00:00
 -- url     : https://prove2.me/theorems/b152db32-83d9-4631-bc73-8d9692cd1b8e
 -- title:

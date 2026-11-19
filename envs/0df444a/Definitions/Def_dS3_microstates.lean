@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_dS3_microstates
 -- name    : dS3_microstates
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:10:37.657641+00:00
 -- url     : https://prove2.me/theorems/f3cad8b1-bc2e-45a7-a4a2-5b69126ae3b5
 -- title:

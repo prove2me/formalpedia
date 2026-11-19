@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherIVP_noether_theorem_I
 -- name    : NoetherIVP.noether_theorem_I
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:59:08.52777+00:00
 -- url     : https://prove2.me/theorems/85e2fcbd-1f20-4e3e-a2a5-fb63a04121ac
 -- title:

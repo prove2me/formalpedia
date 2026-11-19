@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KobayashiMaskawa1973_Defs
 -- name    : KobayashiMaskawa1973_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:51:49.314406+00:00
 -- url     : https://prove2.me/theorems/09a8f5c7-e729-4ba9-a8a2-bba62c5065af
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_angle_function_exists
 -- name    : DoCarmoDG.angle_function_exists
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:27:02.0169+00:00
 -- url     : https://prove2.me/theorems/b54f9f19-c237-4b8d-8a90-c69af060e649
 -- title:

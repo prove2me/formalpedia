@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleDiffS4_diffSphere_four_homotopyEquiv_orth_prod_diffDisk
 -- name    : SmaleDiffS4.diffSphere_four_homotopyEquiv_orth_prod_diffDisk
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:33:41.772812+00:00
 -- url     : https://prove2.me/theorems/f6499526-32b9-4f3c-a9d7-16f68a2dbe44
 -- title:

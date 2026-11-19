@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HairerSPDE_cameronMartinNorm_ne_top_iff_forall_submodule
 -- name    : HairerSPDE.cameronMartinNorm_ne_top_iff_forall_submodule
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:50:06.102982+00:00
 -- url     : https://prove2.me/theorems/8a62fd00-2b0b-4385-a561-0e408ed643d7
 -- title:

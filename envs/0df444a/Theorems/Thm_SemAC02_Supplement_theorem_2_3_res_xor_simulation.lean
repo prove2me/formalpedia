@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_2_3_res_xor_simulation
 -- name    : SemAC02.Supplement.theorem_2_3_res_xor_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:46:17.671229+00:00
 -- url     : https://prove2.me/theorems/9cdefca1-b472-4048-bc21-0a4303224252

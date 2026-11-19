@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiouvilleFieldTheory_centralCharge_imaginary_coupling
 -- name    : LiouvilleFieldTheory.centralCharge_imaginary_coupling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:17:48.534792+00:00
 -- url     : https://prove2.me/theorems/072edb02-2cdf-46dd-acc3-d0328cb9a123
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitLB_expected_profit_formula
 -- name    : BilateralProfitLB.expected_profit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:13.646728+00:00
 -- url     : https://prove2.me/theorems/df4d37fe-8708-4789-94ed-d7fdd4c2d2c8

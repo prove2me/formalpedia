@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LanglandsFunctoriality_transfer
 -- name    : LanglandsFunctoriality_transfer
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:42:56.101419+00:00
 -- url     : https://prove2.me/theorems/c00be4cf-c24b-4d3a-872b-c0d4ad445157
 -- title:

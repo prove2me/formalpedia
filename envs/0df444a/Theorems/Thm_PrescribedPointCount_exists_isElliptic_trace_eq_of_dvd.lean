@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PrescribedPointCount_exists_isElliptic_trace_eq_of_dvd
 -- name    : PrescribedPointCount.exists_isElliptic_trace_eq_of_dvd
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T19:26:31.724208+00:00
 -- url     : https://prove2.me/theorems/54ea88bc-1f6e-4c2b-8176-abeb5c6bd2f2
 -- title:

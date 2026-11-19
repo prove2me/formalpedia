@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch08_parseval_L2_conv
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T14:08:17.734992+00:00
 -- url     : https://prove2.me/submissions/2665b82a-2d48-48b7-b317-3d20be54cc2c
 

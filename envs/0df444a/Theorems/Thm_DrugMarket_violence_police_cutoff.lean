@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_violence_police_cutoff
 -- name    : DrugMarket.violence_police_cutoff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:38:30.031043+00:00
 -- url     : https://prove2.me/theorems/4ef7b3e0-6699-4ef1-9d5e-e1be10552708
 -- title:

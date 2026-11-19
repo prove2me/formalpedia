@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OpenGA_SurgeryVolumeProfile_surgeryTimes_finite
 -- name    : OpenGA.SurgeryVolumeProfile.surgeryTimes_finite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:33:17.608913+00:00
 -- url     : https://prove2.me/theorems/ddb13a1e-0ca6-4e25-adcf-7d4ab493bb2b
 -- title:

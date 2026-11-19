@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_gauge_invariance
 -- name    : Everyday.gauge_invariance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:15:36.50233+00:00
 -- url     : https://prove2.me/theorems/ec09a6e4-3ef8-4ed8-8afe-2f3b3bcbda7e
 -- title:

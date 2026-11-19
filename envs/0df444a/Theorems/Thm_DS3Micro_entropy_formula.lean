@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DS3Micro_entropy_formula
 -- name    : DS3Micro.entropy_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:15:45.192967+00:00
 -- url     : https://prove2.me/theorems/1348bb64-ec66-4e51-9860-b7b086e24e57
 -- title:

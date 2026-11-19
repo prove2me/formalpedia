@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_exists_dense_orbit
 -- name    : Devaney.quadratic_exists_dense_orbit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:13:33.301184+00:00
 -- url     : https://prove2.me/theorems/25c0a143-1eb1-49ec-920c-248ba10501c0
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.label_num_lip
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:45.700392+00:00
 -- url     : https://prove2.me/submissions/a5a5c941-9a26-44ac-a86a-c1abb1ccad5b
 

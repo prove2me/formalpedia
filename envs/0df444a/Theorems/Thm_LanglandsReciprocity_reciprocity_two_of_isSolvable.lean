@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsReciprocity_reciprocity_two_of_isSolvable
 -- name    : LanglandsReciprocity.reciprocity_two_of_isSolvable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:58:40.457137+00:00
 -- url     : https://prove2.me/theorems/05e2f575-e1f6-48f5-a992-60f7b04a832d
 -- title:

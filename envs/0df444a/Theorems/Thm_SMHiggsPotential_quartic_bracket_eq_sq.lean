@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SMHiggsPotential_quartic_bracket_eq_sq
 -- name    : SMHiggsPotential.quartic_bracket_eq_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:47:45.917893+00:00
 -- url     : https://prove2.me/theorems/fdf8b1d6-4e30-4741-a25e-d1641ef0ce84
 -- title:

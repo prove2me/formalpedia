@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SelmerGroup_Selmer
 -- name    : SelmerGroup_Selmer
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:56:05.2479+00:00
 -- url     : https://prove2.me/theorems/9686a6f4-002a-4af9-af54-f0329910de5b
 -- title:

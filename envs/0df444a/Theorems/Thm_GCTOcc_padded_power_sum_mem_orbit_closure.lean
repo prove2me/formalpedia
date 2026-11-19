@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCTOcc_padded_power_sum_mem_orbit_closure
 -- name    : GCTOcc.padded_power_sum_mem_orbit_closure
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:34:11.375276+00:00
 -- url     : https://prove2.me/theorems/04d2b62a-026b-4a2b-a78f-38ccc213aeb7
 -- title:

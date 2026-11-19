@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FRV_alg
 -- name    : FRV_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:11:16.937034+00:00
 -- url     : https://prove2.me/theorems/49ff5516-e537-48ec-81b4-224d3750d04f
 -- title:

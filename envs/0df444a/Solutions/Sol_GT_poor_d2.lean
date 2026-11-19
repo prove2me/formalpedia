@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.poor_d2
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:48:51.757166+00:00
 -- url     : https://prove2.me/submissions/3e922e0b-de7c-4bc0-bcaf-dbd95e59ac88
 

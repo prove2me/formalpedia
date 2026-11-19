@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_gls_minimizes_objective
 -- name    : LocalDistanceNetwork.gls_minimizes_objective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T20:23:40.681978+00:00
 -- url     : https://prove2.me/theorems/cd4579ba-e19c-4b78-ab7d-751db3c5ef97
 -- title:

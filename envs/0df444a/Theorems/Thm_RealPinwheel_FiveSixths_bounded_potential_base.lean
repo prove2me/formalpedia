@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_bounded_potential_base
 -- name    : RealPinwheel.FiveSixths.bounded_potential_base
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T02:50:46.379561+00:00
 -- url     : https://prove2.me/theorems/cbc64b2e-3df5-4cba-a49f-4827eb70b828

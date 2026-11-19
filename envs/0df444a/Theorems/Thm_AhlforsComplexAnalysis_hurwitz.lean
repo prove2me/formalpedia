@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AhlforsComplexAnalysis_hurwitz
 -- name    : AhlforsComplexAnalysis.hurwitz
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T04:56:31.783727+00:00
 -- url     : https://prove2.me/theorems/697a8f15-409d-4bcc-ae92-96ae640decd4
 -- title:

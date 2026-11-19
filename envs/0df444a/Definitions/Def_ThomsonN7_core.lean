@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ThomsonN7_core
 -- name    : ThomsonN7_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T00:58:30.053165+00:00
 -- url     : https://prove2.me/theorems/7d44831e-abc0-4c37-a277-2b3c1753e3b8
 -- title:

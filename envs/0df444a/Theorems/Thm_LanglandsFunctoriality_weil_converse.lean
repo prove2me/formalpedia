@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_weil_converse
 -- name    : LanglandsFunctoriality.weil_converse
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:18:43.658158+00:00
 -- url     : https://prove2.me/theorems/2c1e3443-b7fd-4d82-95c3-12213c24da8b
 -- title:

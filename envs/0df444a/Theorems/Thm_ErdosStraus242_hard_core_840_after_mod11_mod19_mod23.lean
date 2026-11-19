@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErdosStraus242_hard_core_840_after_mod11_mod19_mod23
 -- name    : ErdosStraus242.hard_core_840_after_mod11_mod19_mod23
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T20:47:45.083993+00:00
 -- url     : https://prove2.me/theorems/f9748a25-ef53-43a6-945b-a5eb519613a9
 -- title:

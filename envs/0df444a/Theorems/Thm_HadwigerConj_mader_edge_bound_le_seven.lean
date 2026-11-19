@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_mader_edge_bound_le_seven
 -- name    : HadwigerConj.mader_edge_bound_le_seven
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:51:45.926874+00:00
 -- url     : https://prove2.me/theorems/3ebb84d5-7637-4797-9fcc-79efaac9d260
 -- title:

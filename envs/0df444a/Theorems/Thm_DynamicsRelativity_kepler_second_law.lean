@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_kepler_second_law
 -- name    : DynamicsRelativity.kepler_second_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:18:19.768552+00:00
 -- url     : https://prove2.me/theorems/aa1a1040-2fb6-408f-a89b-85392244b369
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_integral_mono_of_bounded_larger
 -- name    : Rudin.ch06_integral_mono_of_bounded_larger
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T15:06:20.575619+00:00
 -- url     : https://prove2.me/theorems/986a5528-4afe-4373-85a2-40d3f8635ea0
 -- title:

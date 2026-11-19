@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_schwarzschild_ricci_flat
 -- name    : EinsteinFieldEquations.schwarzschild_ricci_flat
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:49:34.248593+00:00
 -- url     : https://prove2.me/theorems/3b3eb0f5-8669-4230-a0b4-c42ddd21ece2
 -- title:

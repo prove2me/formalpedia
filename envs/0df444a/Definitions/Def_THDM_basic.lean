@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_THDM_basic
 -- name    : THDM_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T23:24:10.074974+00:00
 -- url     : https://prove2.me/theorems/1d180db0-d08e-4d57-b938-69d298873fbe
 -- title:

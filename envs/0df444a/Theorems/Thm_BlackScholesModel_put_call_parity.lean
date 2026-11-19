@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_put_call_parity
 -- name    : BlackScholesModel.put_call_parity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:27.927023+00:00
 -- url     : https://prove2.me/theorems/caeb9a75-1fea-4167-9489-de456f104c26
 -- title:

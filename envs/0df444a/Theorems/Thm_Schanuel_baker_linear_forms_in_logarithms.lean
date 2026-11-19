@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_baker_linear_forms_in_logarithms
 -- name    : Schanuel.baker_linear_forms_in_logarithms
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:33:47.248724+00:00
 -- url     : https://prove2.me/theorems/a0417130-5d91-4638-a293-bea5fb28fcf6
 -- title:

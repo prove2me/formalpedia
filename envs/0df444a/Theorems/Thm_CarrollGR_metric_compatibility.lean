@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_metric_compatibility
 -- name    : CarrollGR.metric_compatibility
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:02:24.722081+00:00
 -- url     : https://prove2.me/theorems/ff699ea8-72c8-456e-a75c-60c76d1816d2
 -- title:

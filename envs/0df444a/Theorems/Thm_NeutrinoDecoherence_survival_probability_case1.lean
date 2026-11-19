@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_survival_probability_case1
 -- name    : NeutrinoDecoherence.survival_probability_case1
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:52:02.415995+00:00
 -- url     : https://prove2.me/theorems/869630fb-d856-4c76-baf4-269ab47b57f5
 -- title:

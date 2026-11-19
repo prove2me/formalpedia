@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Esquisse_galois_orbit_of_polynomial_finite
 -- name    : Esquisse.galois_orbit_of_polynomial_finite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:59:23.463691+00:00
 -- url     : https://prove2.me/theorems/0a60006a-b9c2-4128-9ab8-0ad08f0e0e8e
 -- title:

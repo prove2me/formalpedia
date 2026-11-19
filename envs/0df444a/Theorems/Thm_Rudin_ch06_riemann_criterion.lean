@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_riemann_criterion
 -- name    : Rudin.ch06_riemann_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:13:55.227762+00:00
 -- url     : https://prove2.me/theorems/2aad433f-9d5d-47bf-b44a-d919ee518723
 -- title:

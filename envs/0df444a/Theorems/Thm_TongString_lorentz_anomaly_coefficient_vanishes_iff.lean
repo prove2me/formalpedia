@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_lorentz_anomaly_coefficient_vanishes_iff
 -- name    : TongString.lorentz_anomaly_coefficient_vanishes_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:53:55.01154+00:00
 -- url     : https://prove2.me/theorems/2f0b8883-dd0d-4eae-8c3d-665a50060519
 -- title:

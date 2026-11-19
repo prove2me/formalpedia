@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_second_moment_spectrum_conserved
 -- name    : UnQuantumMechanics.second_moment_spectrum_conserved
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T21:05:54.857986+00:00
 -- url     : https://prove2.me/theorems/6abe1387-4069-4259-939b-f9ad7d159386
 -- title:

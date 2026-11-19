@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch03_riemann_rearrangement
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T16:32:22.701588+00:00
 -- url     : https://prove2.me/submissions/0730a43f-e1fc-4639-924f-6ce749decd5e
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_smale_mean_value_conjecture
 -- name    : SmaleMeanValue.smale_mean_value_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:15:20.445396+00:00
 -- url     : https://prove2.me/theorems/7b7350de-159e-4e2f-adc1-debf5a9cfaf5
 -- title:

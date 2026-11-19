@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_fta_restatement
 -- name    : Nullstellensatz.fta_restatement
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:31:29.838015+00:00
 -- url     : https://prove2.me/theorems/37089742-49a1-4ac3-b5d5-95c6d7f73862
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JechSetTheory_solovay_split
 -- name    : JechSetTheory.solovay_split
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T02:31:06.890369+00:00
 -- url     : https://prove2.me/theorems/cc679192-fcb1-408a-b6a3-37f5dd59680f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GambiniPullin_AppendixA_Defs
 -- name    : GambiniPullin_AppendixA_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:52:07.64499+00:00
 -- url     : https://prove2.me/theorems/098fab62-6822-4eb0-ba4d-b00bd00b8e88
 -- title:

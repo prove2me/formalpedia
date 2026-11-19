@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_lonely_runner_conjecture
 -- name    : LonelyRunnerConjecture.lonely_runner_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:16:31.2934+00:00
 -- url     : https://prove2.me/theorems/27e04238-c7d0-4736-9c4b-df5c3b1bf0e6
 -- title:

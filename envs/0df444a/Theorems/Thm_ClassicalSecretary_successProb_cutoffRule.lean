@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalSecretary_successProb_cutoffRule
 -- name    : ClassicalSecretary.successProb_cutoffRule
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:50:44.115204+00:00
 -- url     : https://prove2.me/theorems/6cb8d240-797f-41e9-80b4-95c31dca12f8
 -- title:

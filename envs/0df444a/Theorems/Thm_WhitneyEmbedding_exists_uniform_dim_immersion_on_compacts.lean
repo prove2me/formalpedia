@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_exists_uniform_dim_immersion_on_compacts
 -- name    : WhitneyEmbedding.exists_uniform_dim_immersion_on_compacts
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T15:23:54.966674+00:00
 -- url     : https://prove2.me/theorems/eee9e883-5743-482d-89c3-96e4b10caa8c
 -- title:

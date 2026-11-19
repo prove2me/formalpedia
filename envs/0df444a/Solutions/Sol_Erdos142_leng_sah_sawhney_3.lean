@@ -1,6 +1,6 @@
 -- Prove2me | solution 3 for Erdos142.leng_sah_sawhney
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-09T16:19:46.497996+00:00
 -- url     : https://prove2.me/submissions/584641de-f1a5-4a79-890a-83b657beb668
 

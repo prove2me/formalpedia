@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_change_of_variable
 -- name    : Rudin.ch06_change_of_variable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:23:36.050288+00:00
 -- url     : https://prove2.me/theorems/d1f86871-e044-487c-95dd-103b3f7949d5
 -- title:

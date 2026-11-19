@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_integration_by_parts_of_bounded
 -- name    : Rudin.ch06_integration_by_parts_of_bounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:20:32.779311+00:00
 -- url     : https://prove2.me/theorems/a9ee2469-3026-4de3-90ff-6681b4636bf5
 -- title:

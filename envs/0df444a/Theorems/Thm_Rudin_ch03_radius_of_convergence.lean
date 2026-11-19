@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_radius_of_convergence
 -- name    : Rudin.ch03_radius_of_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:16:01.061734+00:00
 -- url     : https://prove2.me/theorems/f9345205-c07f-4a11-b6fe-7b7c2e34a740
 -- title:

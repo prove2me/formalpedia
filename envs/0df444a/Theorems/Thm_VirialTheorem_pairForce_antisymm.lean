@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_pairForce_antisymm
 -- name    : VirialTheorem.pairForce_antisymm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T18:17:17.550228+00:00
 -- url     : https://prove2.me/theorems/a1a8c230-ce50-4306-a3f9-b72c2c33f3d2
 -- title:

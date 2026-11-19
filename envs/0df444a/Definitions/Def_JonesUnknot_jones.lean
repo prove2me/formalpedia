@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_JonesUnknot_jones
 -- name    : JonesUnknot_jones
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:31:51.084468+00:00
 -- url     : https://prove2.me/theorems/18e59643-1ba2-4d84-ade4-914b040219b9
 -- title:

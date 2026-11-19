@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_continuity_iff_limit
 -- name    : Rudin.ch04_continuity_iff_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:56:59.594265+00:00
 -- url     : https://prove2.me/theorems/fa00863b-7a56-45e2-922a-9afdd9cc6942
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_induced_eigen_one
 -- name    : RInf.induced_eigen_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:28:48.111086+00:00
 -- url     : https://prove2.me/theorems/4c00b709-c6ce-4000-802e-a543735b8ab2
 -- title:

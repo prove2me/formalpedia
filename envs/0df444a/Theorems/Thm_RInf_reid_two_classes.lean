@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_reid_two_classes
 -- name    : RInf.reid_two_classes
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:26:48.229511+00:00
 -- url     : https://prove2.me/theorems/723b1ac4-f170-485f-afa7-589897f952df
 -- title:

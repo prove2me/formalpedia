@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineCMC_Minimax_varshamov_gilbert
 -- name    : OfflineCMC.Minimax.varshamov_gilbert
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:37:01.882993+00:00
 -- url     : https://prove2.me/theorems/a6d6fb74-0adc-497c-9f95-c48e18213f7a

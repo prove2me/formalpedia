@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_gaussian_generating_function
 -- name    : DeepLearningTheory.gaussian_generating_function
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:17:19.777984+00:00
 -- url     : https://prove2.me/theorems/c3c6dcb2-1ee0-4e43-a166-9d8a5f9c5c5d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SelmerGroup_GaloisPoints
 -- name    : SelmerGroup_GaloisPoints
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:53:25.851578+00:00
 -- url     : https://prove2.me/theorems/c65e226a-30c5-488c-9532-8bf5f061f567
 -- title:

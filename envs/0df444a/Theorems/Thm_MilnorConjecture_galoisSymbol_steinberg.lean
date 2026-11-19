@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_galoisSymbol_steinberg
 -- name    : MilnorConjecture.galoisSymbol_steinberg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T12:05:31.212326+00:00
 -- url     : https://prove2.me/theorems/c72d027a-e0d4-4746-a33a-4e4d84c340ec
 -- title:

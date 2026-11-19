@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_torsion_formula
 -- name    : DoCarmoDG.torsion_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:46:26.904421+00:00
 -- url     : https://prove2.me/theorems/9fd7e4b3-0469-48d2-982a-1624e628e731
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_first_excited_states_massless_iff
 -- name    : TongString.first_excited_states_massless_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:53:26.470601+00:00
 -- url     : https://prove2.me/theorems/b85a6c1c-17c7-482f-88ec-41f2a8e167bf
 -- title:

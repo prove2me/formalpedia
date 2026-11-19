@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_dirichlet_class_number_formula_pos
 -- name    : ClassNumberFormula.dirichlet_class_number_formula_pos
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:59:58.059201+00:00
 -- url     : https://prove2.me/theorems/8823f62e-ebfd-4574-8fa8-5a26f8b77a84
 -- title:

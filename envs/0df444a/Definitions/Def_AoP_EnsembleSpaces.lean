@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AoP_EnsembleSpaces
 -- name    : AoP_EnsembleSpaces
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:19:50.269443+00:00
 -- url     : https://prove2.me/theorems/de2718ce-552c-4983-a46e-15effb76688b
 -- title:

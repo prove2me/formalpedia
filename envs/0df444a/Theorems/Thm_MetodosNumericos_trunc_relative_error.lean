@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_trunc_relative_error
 -- name    : MetodosNumericos.trunc_relative_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:37:59.768178+00:00
 -- url     : https://prove2.me/theorems/9623a1d4-598a-4197-b952-2cbd6d9278e6
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_copenhagen_states
 -- name    : copenhagen_states
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T21:23:59.97267+00:00
 -- url     : https://prove2.me/theorems/7161ec06-0a00-4c95-8840-1d01552de486
 -- title:

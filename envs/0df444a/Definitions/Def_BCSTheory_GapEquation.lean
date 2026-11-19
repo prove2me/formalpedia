@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BCSTheory_GapEquation
 -- name    : BCSTheory_GapEquation
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:22:06.109875+00:00
 -- url     : https://prove2.me/theorems/1726c320-eb4c-4b6d-af01-2dec3efd308f
 -- title:

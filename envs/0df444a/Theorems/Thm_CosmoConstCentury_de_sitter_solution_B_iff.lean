@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_de_sitter_solution_B_iff
 -- name    : CosmoConstCentury.de_sitter_solution_B_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T08:55:43.373244+00:00
 -- url     : https://prove2.me/theorems/a59b0c0b-2619-47b1-8af4-ef72652e0f9e
 -- title:

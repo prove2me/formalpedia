@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_OkunsLaw_defs
 -- name    : OkunsLaw_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:39.359908+00:00
 -- url     : https://prove2.me/theorems/b20abc0c-ac47-41c8-bfd5-a309c839756d
 -- title:

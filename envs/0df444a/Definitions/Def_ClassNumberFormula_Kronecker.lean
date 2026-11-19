@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClassNumberFormula_Kronecker
 -- name    : ClassNumberFormula_Kronecker
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:51:56.863998+00:00
 -- url     : https://prove2.me/theorems/9b141454-d8ac-4ce8-8f34-8098e6573249
 -- title:

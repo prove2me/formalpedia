@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GFactorPhysics_muon_E821_discrepancy
 -- name    : GFactorPhysics.muon_E821_discrepancy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:49:35.541363+00:00
 -- url     : https://prove2.me/theorems/c45d0703-8116-4efe-ae9c-4c83415461de
 -- title:

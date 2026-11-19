@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ThomsonN7_cap_data_1
 -- name    : ThomsonN7_cap_data_1
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T01:01:59.791635+00:00
 -- url     : https://prove2.me/theorems/5688e40a-f803-45ef-826c-1215a0e312e4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA_alpha_family
 -- name    : CODATA.alpha_family
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T01:40:06.799475+00:00
 -- url     : https://prove2.me/theorems/096321b4-3254-457c-bd3e-606f4210391b
 -- title:

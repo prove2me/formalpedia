@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos142.green_tao_four
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:53.507068+00:00
 -- url     : https://prove2.me/submissions/1baaccf3-693d-49a7-992f-5dbba4d9036a
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APSCounting893_Main_final_trailing_test_in_ch
 -- name    : APSCounting893.Main.final_trailing_test_in_ch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T07:26:26.301988+00:00
 -- url     : https://prove2.me/theorems/efc92999-348c-4852-98c5-f88d0f204fce

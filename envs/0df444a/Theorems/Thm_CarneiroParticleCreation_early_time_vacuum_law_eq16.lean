@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_early_time_vacuum_law_eq16
 -- name    : CarneiroParticleCreation.early_time_vacuum_law_eq16
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:31:39.882989+00:00
 -- url     : https://prove2.me/theorems/9c64125c-1f43-4181-94bc-7f6fea958eaa
 -- title:

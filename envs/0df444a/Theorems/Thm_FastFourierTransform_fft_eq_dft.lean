@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FastFourierTransform_fft_eq_dft
 -- name    : FastFourierTransform.fft_eq_dft
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T19:53:03.366144+00:00
 -- url     : https://prove2.me/theorems/26bfc444-adc5-4fa7-b784-52a10c5b59d7
 -- title:

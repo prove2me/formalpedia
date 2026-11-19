@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_contraction_principle
 -- name    : Rudin.ch09_contraction_principle
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:19:11.199642+00:00
 -- url     : https://prove2.me/theorems/678b9b24-2449-4224-b926-113d96aa5454
 -- title:

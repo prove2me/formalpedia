@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialMechanics_conic_solves_kepler
 -- name    : CelestialMechanics.conic_solves_kepler
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:23:14.050303+00:00
 -- url     : https://prove2.me/theorems/d283b1e0-530c-40a2-b1f8-7485b9824e7e
 -- title:

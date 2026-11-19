@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_THDM_thm4_gauge_orbits
 -- name    : THDM.thm4_gauge_orbits
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:07:03.256993+00:00
 -- url     : https://prove2.me/theorems/d0d7a8d8-b5a4-479f-91f3-60a8cc17a17a
 -- title:

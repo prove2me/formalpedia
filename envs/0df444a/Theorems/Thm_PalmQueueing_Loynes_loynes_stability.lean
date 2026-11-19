@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Loynes_loynes_stability
 -- name    : PalmQueueing.Loynes.loynes_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:53:07.604096+00:00
 -- url     : https://prove2.me/theorems/9d36f227-19d4-4971-b01b-4070cf0fd403

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TarchaBraids.prop_3_13_two_braid_is_power
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T05:13:32.681975+00:00
 -- url     : https://prove2.me/submissions/5cf61124-9ef0-4548-9ddd-de7413b4c6eb
 

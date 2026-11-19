@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixth_nsf_hydrodynamic_limit
 -- name    : HilbertSixth.nsf_hydrodynamic_limit
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T04:25:59.427261+00:00
 -- url     : https://prove2.me/theorems/c034abb7-f85f-47ff-9f1f-b3069b8b24aa
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentStars_Counting_fact_4_2
 -- name    : PermanentStars.Counting.fact_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:51:33.400199+00:00
 -- url     : https://prove2.me/theorems/3efe33c8-cdd6-49a9-ada6-e0f77349803e

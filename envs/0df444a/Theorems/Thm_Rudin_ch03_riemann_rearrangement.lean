@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_riemann_rearrangement
 -- name    : Rudin.ch03_riemann_rearrangement
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:32:55.227236+00:00
 -- url     : https://prove2.me/theorems/ad6827c3-2d91-4b12-8ce1-86646847d1aa
 -- title:

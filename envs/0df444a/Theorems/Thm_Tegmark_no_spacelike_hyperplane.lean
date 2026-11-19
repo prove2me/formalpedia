@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Tegmark_no_spacelike_hyperplane
 -- name    : Tegmark.no_spacelike_hyperplane
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T04:16:13.020639+00:00
 -- url     : https://prove2.me/theorems/7e3827ed-4fc9-4d63-bb87-808ec5a02486
 -- title:

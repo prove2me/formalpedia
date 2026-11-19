@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_Kakeya
 -- name    : FCP_Kakeya
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:04:51.711235+00:00
 -- url     : https://prove2.me/theorems/ee5b0537-c94a-4256-8fd6-8e1c791a2f99
 -- title:

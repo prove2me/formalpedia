@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HilbertSixth_Boltzmann
 -- name    : HilbertSixth_Boltzmann
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T03:47:34.60899+00:00
 -- url     : https://prove2.me/theorems/ba44268d-6bc3-49df-9100-e023aff828c1
 -- title:

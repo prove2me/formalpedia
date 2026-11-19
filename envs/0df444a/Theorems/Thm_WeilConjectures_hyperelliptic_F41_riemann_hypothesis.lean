@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_hyperelliptic_F41_riemann_hypothesis
 -- name    : WeilConjectures.hyperelliptic_F41_riemann_hypothesis
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T14:59:51.361037+00:00
 -- url     : https://prove2.me/theorems/76179538-3cc3-4fee-878f-a5dd04240aba
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RealPinwheel.FiveSixths.bounded_potential_base
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T05:51:08.633801+00:00
 -- url     : https://prove2.me/submissions/f35dc899-b08a-4044-b350-0d42e4b6b50a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RealPinwheel_FiveSixths_initial_atoms_sound
 import Theorems.Thm_RealPinwheel_FiveSixths_covered_fragment_P9_1442

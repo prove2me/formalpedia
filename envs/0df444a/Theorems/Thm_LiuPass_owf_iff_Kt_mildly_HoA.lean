@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_owf_iff_Kt_mildly_HoA
 -- name    : LiuPass.owf_iff_Kt_mildly_HoA
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:41:41.065271+00:00
 -- url     : https://prove2.me/theorems/245953ad-ea2f-428a-8f8c-d1d896b7a055
 -- title:

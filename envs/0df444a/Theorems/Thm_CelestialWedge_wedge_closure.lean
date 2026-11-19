@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_wedge_closure
 -- name    : CelestialWedge.wedge_closure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T02:33:50.00772+00:00
 -- url     : https://prove2.me/theorems/86239f7f-e167-4568-8179-e79d4a830c63
 -- title:

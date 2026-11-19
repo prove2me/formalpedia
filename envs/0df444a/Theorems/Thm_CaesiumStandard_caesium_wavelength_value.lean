@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_caesium_wavelength_value
 -- name    : CaesiumStandard.caesium_wavelength_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:30:28.676154+00:00
 -- url     : https://prove2.me/theorems/fe82abb1-7a69-4173-b49f-32e26f3ca7e5
 -- title:

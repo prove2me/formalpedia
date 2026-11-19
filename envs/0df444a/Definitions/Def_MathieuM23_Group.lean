@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MathieuM23_Group
 -- name    : MathieuM23_Group
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T13:18:22.977979+00:00
 -- url     : https://prove2.me/theorems/0ffe7cf7-90c5-4f0c-aa07-014d6c1a74d4
 -- title:

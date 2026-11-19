@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_creation_intertwines
 -- name    : ReflectionlessPotential.creation_intertwines
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:47:13.626983+00:00
 -- url     : https://prove2.me/theorems/d3d9811a-2be6-4783-90a3-068b617ad0d8
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LanglandsReciprocity_defs
 -- name    : LanglandsReciprocity_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:53:15.009095+00:00
 -- url     : https://prove2.me/theorems/50ff14ce-f5cc-4659-ac6b-7797f01385a6
 -- title:

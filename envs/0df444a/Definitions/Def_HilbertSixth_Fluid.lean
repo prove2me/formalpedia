@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HilbertSixth_Fluid
 -- name    : HilbertSixth_Fluid
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T04:12:42.374274+00:00
 -- url     : https://prove2.me/theorems/f8da3333-0c46-4c3f-ba64-dcb2bafc9c46
 -- title:

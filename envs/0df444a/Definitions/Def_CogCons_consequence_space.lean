@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CogCons_consequence_space
 -- name    : CogCons_consequence_space
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T16:24:16.442822+00:00
 -- url     : https://prove2.me/theorems/fd7aff44-a205-4d07-9986-e3c788d84796
 -- title:

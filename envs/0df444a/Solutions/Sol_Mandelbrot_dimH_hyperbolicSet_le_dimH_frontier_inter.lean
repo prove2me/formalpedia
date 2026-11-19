@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Mandelbrot.dimH_hyperbolicSet_le_dimH_frontier_inter
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T13:28:54.426291+00:00
 -- url     : https://prove2.me/submissions/3c01544f-ae0f-46bf-b076-01153ff3f3f1
 -- note    : a sketch -- it imports a theorem that is still Open,

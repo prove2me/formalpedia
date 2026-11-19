@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_integral_identity_simplex
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T03:24:17.569744+00:00
 -- url     : https://prove2.me/submissions/ca1551e0-0fd1-402b-bdd0-fb6d71d3a99e
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_ihara_deriv_commutator
 -- name    : GrothendieckTeichmuller.ihara_deriv_commutator
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:30:44.751877+00:00
 -- url     : https://prove2.me/theorems/8394ec79-da92-4c9c-93a1-e40e264163c7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WardTakahashi_phaseRotate_measurePreserving
 -- name    : WardTakahashi.phaseRotate_measurePreserving
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:42:08.597973+00:00
 -- url     : https://prove2.me/theorems/a99f5468-6d00-4a9b-a553-7783c1148442
 -- title:

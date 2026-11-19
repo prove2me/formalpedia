@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_huxley_density_estimate
 -- name    : LindelofHypothesis.huxley_density_estimate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:52:38.902696+00:00
 -- url     : https://prove2.me/theorems/50a67f49-abdc-4413-8775-537584173bbf
 -- title:

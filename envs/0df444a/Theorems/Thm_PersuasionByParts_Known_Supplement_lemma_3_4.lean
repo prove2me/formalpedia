@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuasionByParts_Known_Supplement_lemma_3_4
 -- name    : PersuasionByParts.Known.Supplement.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:48:55.18445+00:00
 -- url     : https://prove2.me/theorems/0aa6bd3b-c53d-4b98-b2e4-124a472880a6

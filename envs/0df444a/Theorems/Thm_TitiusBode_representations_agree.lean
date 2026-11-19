@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TitiusBode_representations_agree
 -- name    : TitiusBode.representations_agree
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:52.871344+00:00
 -- url     : https://prove2.me/theorems/1e906f2a-6ee6-4bfb-bb04-ac58b1afdad9
 -- title:

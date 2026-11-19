@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_twoBraneMass_eq
 -- name    : SenTachyon.twoBraneMass_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:31:59.321523+00:00
 -- url     : https://prove2.me/theorems/f4e9cbb4-f715-4101-a81a-feef32ab60a2
 -- title:

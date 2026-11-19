@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShannonSecrecy_perfect_secrecy_iff_msgToCrypto_eq_cryptoProb
 -- name    : ShannonSecrecy.perfect_secrecy_iff_msgToCrypto_eq_cryptoProb
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:30:31.909692+00:00
 -- url     : https://prove2.me/theorems/6a66c9d5-ca92-4391-bdde-22a656652c3c
 -- title:

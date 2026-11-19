@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_friedmann_iff_fluid_form
 -- name    : MDOUnifiedCosmology.friedmann_iff_fluid_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:29:47.793421+00:00
 -- url     : https://prove2.me/theorems/a13317ab-1b3e-4912-bdc6-197f9eedea5b
 -- title:

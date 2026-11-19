@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_minimumEnergyDensity_tendsto_zero
 -- name    : SenTachyon.minimumEnergyDensity_tendsto_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:36:09.73848+00:00
 -- url     : https://prove2.me/theorems/951d5891-a4e6-4885-959a-78732d8ffab6
 -- title:

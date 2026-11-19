@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UhlenbeckGauge_yangMills_eq_boundaryChernSimons_iff
 -- name    : UhlenbeckGauge.yangMills_eq_boundaryChernSimons_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T22:00:42.281619+00:00
 -- url     : https://prove2.me/theorems/78540bfb-eca6-4582-82cc-13f773e73b20
 -- title:

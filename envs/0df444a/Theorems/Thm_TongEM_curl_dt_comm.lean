@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongEM_curl_dt_comm
 -- name    : TongEM.curl_dt_comm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T01:29:35.44064+00:00
 -- url     : https://prove2.me/theorems/73185832-86be-4640-807c-a060a5c3750b
 -- title:

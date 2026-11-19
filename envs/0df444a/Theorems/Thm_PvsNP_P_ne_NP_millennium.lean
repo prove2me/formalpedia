@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_P_ne_NP_millennium
 -- name    : PvsNP.P_ne_NP_millennium
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:31:45.090592+00:00
 -- url     : https://prove2.me/theorems/31a50e95-7f44-43e6-9c28-50f4610c062a
 -- title:

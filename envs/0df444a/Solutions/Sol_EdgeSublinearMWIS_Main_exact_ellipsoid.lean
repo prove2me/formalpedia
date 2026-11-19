@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for EdgeSublinearMWIS.Main.exact_ellipsoid
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T00:10:56.524853+00:00
 -- url     : https://prove2.me/submissions/81cfeb4d-3ca7-4c7b-bb97-fc36b61ca5ac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_EdgeSublinearMWIS_Main_binary_hull_polynomial_description
 import Theorems.Thm_EdgeSublinearMWIS_Main_exact_binary_oracle_feasibility

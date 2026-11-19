@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_eleven_twelve_thirteen
 -- name    : LonelyRunnerConjecture.eleven_twelve_thirteen
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:15:57.123715+00:00
 -- url     : https://prove2.me/theorems/7badf8fa-d51c-40e1-98b2-4e5031c61593
 -- title:

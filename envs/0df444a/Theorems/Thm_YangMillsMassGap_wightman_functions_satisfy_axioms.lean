@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMillsMassGap_wightman_functions_satisfy_axioms
 -- name    : YangMillsMassGap.wightman_functions_satisfy_axioms
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:34:14.222254+00:00
 -- url     : https://prove2.me/theorems/0b922b37-e965-4049-b073-fce332211283
 -- title:

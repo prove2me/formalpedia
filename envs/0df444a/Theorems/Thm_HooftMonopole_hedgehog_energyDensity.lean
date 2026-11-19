@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_hedgehog_energyDensity
 -- name    : HooftMonopole.hedgehog_energyDensity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:03:25.173935+00:00
 -- url     : https://prove2.me/theorems/896eb469-ad24-4bc5-a807-4db434bd4549
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_flux_label_invariant
 -- name    : Landreman3DEquilibria.flux_label_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:04:59.373989+00:00
 -- url     : https://prove2.me/theorems/a9f394e5-1c14-44e8-97d8-a13bc3f477b1
 -- title:

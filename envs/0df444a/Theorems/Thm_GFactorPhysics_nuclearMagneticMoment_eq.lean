@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GFactorPhysics_nuclearMagneticMoment_eq
 -- name    : GFactorPhysics.nuclearMagneticMoment_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:41:17.781243+00:00
 -- url     : https://prove2.me/theorems/5f89c069-2cb5-4b7e-8234-99bd64af91dc
 -- title:

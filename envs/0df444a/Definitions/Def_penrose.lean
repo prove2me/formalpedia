@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_penrose
 -- name    : penrose
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:19:41.855984+00:00
 -- url     : https://prove2.me/theorems/b79f116e-c3bd-432d-8909-3fbbbc4c953e
 -- title:

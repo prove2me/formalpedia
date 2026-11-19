@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_mainardi_codazzi_first
 -- name    : DoCarmoDG.mainardi_codazzi_first
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:03:44.316191+00:00
 -- url     : https://prove2.me/theorems/13a271e0-85c4-4511-8630-210d247f13a2
 -- title:

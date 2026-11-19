@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevisitXor_claim_7_1
 -- name    : RevisitXor.claim_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:05:08.35966+00:00
 -- url     : https://prove2.me/theorems/6bb9781e-8558-423c-86e1-07dd7bdeb9ff

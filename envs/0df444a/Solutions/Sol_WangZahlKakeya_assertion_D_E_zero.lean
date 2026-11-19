@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WangZahlKakeya.assertion_D_E_zero
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:50:24.860913+00:00
 -- url     : https://prove2.me/submissions/9d0eb6b2-0e06-490c-976b-83d82645e9de
 -- note    : a sketch -- it imports a theorem that is still Open,

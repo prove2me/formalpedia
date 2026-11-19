@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_ms_square
 -- name    : SidB.ms_square
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:24:49.583558+00:00
 -- url     : https://prove2.me/theorems/2dd1b98a-bc1e-4506-8511-16ba94e4dfa6
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_trakulthongchai_nine_ten
 -- name    : LonelyRunnerConjecture.trakulthongchai_nine_ten
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:15:27.220739+00:00
 -- url     : https://prove2.me/theorems/db437a92-aeb0-4486-bab6-ce61c221269a
 -- title:

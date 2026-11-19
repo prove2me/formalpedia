@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KochHF_slater_one_body_density
 -- name    : KochHF.slater_one_body_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:25:26.85704+00:00
 -- url     : https://prove2.me/theorems/c66d927a-7b6f-42ff-ac80-da6b712776d2
 -- title:

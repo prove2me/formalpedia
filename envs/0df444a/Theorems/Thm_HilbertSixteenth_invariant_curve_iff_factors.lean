@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_invariant_curve_iff_factors
 -- name    : HilbertSixteenth.invariant_curve_iff_factors
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:28:40.353991+00:00
 -- url     : https://prove2.me/theorems/ee35788e-7f7e-4657-bdfc-2d6a8c0e6092
 -- title:

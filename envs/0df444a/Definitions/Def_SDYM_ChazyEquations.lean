@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SDYM_ChazyEquations
 -- name    : SDYM_ChazyEquations
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:21:54.385599+00:00
 -- url     : https://prove2.me/theorems/471663fb-4795-4cae-8574-81bb83bd806d
 -- title:

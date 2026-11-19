@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_weierstrass_approximation
 -- name    : Rudin.ch07_weierstrass_approximation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T00:44:02.742247+00:00
 -- url     : https://prove2.me/theorems/d3ea6a06-0375-48d1-a993-2719cb22a60d
 -- title:

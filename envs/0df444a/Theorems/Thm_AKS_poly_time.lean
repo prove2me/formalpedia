@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_poly_time
 -- name    : AKS.poly_time
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:53:56.815598+00:00
 -- url     : https://prove2.me/theorems/b57b497a-74b8-4291-9eba-96df4e3c0c2e
 -- title:

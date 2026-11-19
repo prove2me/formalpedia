@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_eigenstate_iteratedDeriv_two
 -- name    : ParticleInARing.eigenstate_iteratedDeriv_two
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:30:22.499371+00:00
 -- url     : https://prove2.me/theorems/4ec45d56-a260-4aea-be4b-1be5dbbcd86f
 -- title:

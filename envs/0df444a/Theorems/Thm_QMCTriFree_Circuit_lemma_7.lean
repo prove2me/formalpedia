@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCTriFree_Circuit_lemma_7
 -- name    : QMCTriFree.Circuit.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:01.683155+00:00
 -- url     : https://prove2.me/theorems/6606d795-5ec6-4e68-8deb-deda984007d4

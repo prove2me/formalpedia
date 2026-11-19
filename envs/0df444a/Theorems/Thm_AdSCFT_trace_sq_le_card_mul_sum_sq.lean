@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AdSCFT_trace_sq_le_card_mul_sum_sq
 -- name    : AdSCFT.trace_sq_le_card_mul_sum_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:48:49.593068+00:00
 -- url     : https://prove2.me/theorems/7d568854-4a5e-4267-a2d2-42fe611a4986
 -- title:

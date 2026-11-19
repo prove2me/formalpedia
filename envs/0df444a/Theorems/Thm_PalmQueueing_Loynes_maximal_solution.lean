@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Loynes_maximal_solution
 -- name    : PalmQueueing.Loynes.maximal_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:36:49.074052+00:00
 -- url     : https://prove2.me/theorems/1b4b14de-9a0c-4abe-87df-49f77a158c9d

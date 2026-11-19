@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_no_communication
 -- name    : PeresTerno.no_communication
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T11:10:02.984612+00:00
 -- url     : https://prove2.me/theorems/6015745a-80bf-4759-9216-1f8dfd5d1887
 -- title:

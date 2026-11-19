@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DesignTest_eq_51
 -- name    : DesignTest.eq_51
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-11T04:08:24.33335+00:00
 -- url     : https://prove2.me/theorems/09b82680-fe10-49bb-a0fe-64871c001ec7

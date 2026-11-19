@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_candela_from_defining_constants
 -- name    : SIBrochure.candela_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:56:54.334032+00:00
 -- url     : https://prove2.me/theorems/abe5563b-bf6e-4c68-a6aa-5223d20c97d5
 -- title:

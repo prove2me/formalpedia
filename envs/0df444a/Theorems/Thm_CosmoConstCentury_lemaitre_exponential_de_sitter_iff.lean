@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_lemaitre_exponential_de_sitter_iff
 -- name    : CosmoConstCentury.lemaitre_exponential_de_sitter_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T09:21:31.466302+00:00
 -- url     : https://prove2.me/theorems/446e057b-f0ee-4057-acbb-2c39c062050b
 -- title:

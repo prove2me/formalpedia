@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_maxwellian_isBGKSolution
 -- name    : BoltzmannBGK.maxwellian_isBGKSolution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:21:26.819188+00:00
 -- url     : https://prove2.me/theorems/2bf454a9-7896-4a06-8fa4-c23b0b9fe764
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SliceRibbon_ribbon_isSlice
 -- name    : SliceRibbon.ribbon_isSlice
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T11:54:01.140336+00:00
 -- url     : https://prove2.me/theorems/bdce5593-16fe-405d-b13e-d65692280bbd
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_no_acceleration_without_lambda
 -- name    : DarkEnergyLCDM.no_acceleration_without_lambda
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:04:19.654461+00:00
 -- url     : https://prove2.me/theorems/967a42e9-18d7-46a6-bf8e-63f1fd0ef902
 -- title:

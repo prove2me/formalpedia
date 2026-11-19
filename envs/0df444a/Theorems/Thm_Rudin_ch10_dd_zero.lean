@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_dd_zero
 -- name    : Rudin.ch10_dd_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:19:34.906693+00:00
 -- url     : https://prove2.me/theorems/b0884580-3a69-42bd-a85c-14d0de2dfa18
 -- title:

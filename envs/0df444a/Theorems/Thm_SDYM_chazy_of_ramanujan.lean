@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_chazy_of_ramanujan
 -- name    : SDYM.chazy_of_ramanujan
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:59:23.942243+00:00
 -- url     : https://prove2.me/theorems/7cfce74f-bc95-4be8-a251-068a8c20474e
 -- title:

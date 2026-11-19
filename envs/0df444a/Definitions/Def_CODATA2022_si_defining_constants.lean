@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CODATA2022_si_defining_constants
 -- name    : CODATA2022_si_defining_constants
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:59:06.140513+00:00
 -- url     : https://prove2.me/theorems/c6f0c1a6-84db-4785-804d-72bd302022e1
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise35LaplaceExponentRegularity
 -- name    : Kyprianou.Ch03.exercise35LaplaceExponentRegularity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:48:46.43711+00:00
 -- url     : https://prove2.me/theorems/d88a3442-e2a1-4006-a3b5-6b95c603b071

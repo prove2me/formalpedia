@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Brocard.berndt_galway_criterion
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:31:06.908346+00:00
 -- url     : https://prove2.me/submissions/76f905db-e6ea-46d3-8f98-5ffbd69adcd6
 

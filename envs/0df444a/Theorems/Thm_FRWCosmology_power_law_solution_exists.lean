@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRWCosmology_power_law_solution_exists
 -- name    : FRWCosmology.power_law_solution_exists
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:48:08.990813+00:00
 -- url     : https://prove2.me/theorems/b103a10e-47da-4520-94c3-f6b30886bbb2
 -- title:

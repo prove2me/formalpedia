@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_midpoint_uncertainty_diverges
 -- name    : ErlerGross.midpoint_uncertainty_diverges
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:57:52.13466+00:00
 -- url     : https://prove2.me/theorems/9ca4a194-be44-41c2-94ba-c61429176eef
 -- title:

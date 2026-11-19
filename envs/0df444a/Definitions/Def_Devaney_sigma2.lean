@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Devaney_sigma2
 -- name    : Devaney_sigma2
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:09:47.205253+00:00
 -- url     : https://prove2.me/theorems/14e4632b-2604-4339-8056-ea2ed9afd16a
 -- title:

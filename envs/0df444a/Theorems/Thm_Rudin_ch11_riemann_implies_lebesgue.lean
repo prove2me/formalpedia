@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_riemann_implies_lebesgue
 -- name    : Rudin.ch11_riemann_implies_lebesgue
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:36:45.023894+00:00
 -- url     : https://prove2.me/theorems/75082303-6be7-4f69-9369-5ee314b48371
 -- title:

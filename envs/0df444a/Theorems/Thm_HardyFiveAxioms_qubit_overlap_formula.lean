@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_qubit_overlap_formula
 -- name    : HardyFiveAxioms.qubit_overlap_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T22:45:44.072919+00:00
 -- url     : https://prove2.me/theorems/cf177f8f-1817-47db-b233-63fc4b624e87
 -- title:

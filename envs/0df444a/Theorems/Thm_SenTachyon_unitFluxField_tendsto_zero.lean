@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_unitFluxField_tendsto_zero
 -- name    : SenTachyon.unitFluxField_tendsto_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:47:31.371984+00:00
 -- url     : https://prove2.me/theorems/e1c01f32-8709-405f-ac8f-98ec35385e6c
 -- title:

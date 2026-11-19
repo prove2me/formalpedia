@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_BatemanHorn_bunyakovsky_conjecture
 -- name    : FCP.BatemanHorn.bunyakovsky_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:53:05.609119+00:00
 -- url     : https://prove2.me/theorems/ba4d44ce-6025-4f73-8ac7-3a34173d589f
 -- title:

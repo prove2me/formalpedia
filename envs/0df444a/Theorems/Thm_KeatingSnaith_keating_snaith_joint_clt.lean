@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_keating_snaith_joint_clt
 -- name    : KeatingSnaith.keating_snaith_joint_clt
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:09:13.007869+00:00
 -- url     : https://prove2.me/theorems/6cf71ae1-9ab2-410a-87dd-41ceb9c59d03
 -- title:

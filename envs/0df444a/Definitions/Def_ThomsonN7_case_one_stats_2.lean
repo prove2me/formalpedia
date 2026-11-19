@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ThomsonN7_case_one_stats_2
 -- name    : ThomsonN7_case_one_stats_2
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T01:32:46.014357+00:00
 -- url     : https://prove2.me/theorems/47b19dc9-c2be-41a7-8a9b-6c95ff354045
 -- title:

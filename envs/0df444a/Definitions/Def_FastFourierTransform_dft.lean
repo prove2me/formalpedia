@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FastFourierTransform_dft
 -- name    : FastFourierTransform_dft
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:03:19.60431+00:00
 -- url     : https://prove2.me/theorems/462bd31d-c561-4449-9102-a20c09b1cced
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Maldacena1999_BraneDefs
 -- name    : Maldacena1999_BraneDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:02:32.259061+00:00
 -- url     : https://prove2.me/theorems/bfef2a58-90c9-497c-b9ad-135f16687e32
 -- title:

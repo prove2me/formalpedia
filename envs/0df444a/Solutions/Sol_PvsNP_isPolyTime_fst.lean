@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PvsNP.isPolyTime_fst
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:46:07.530789+00:00
 -- url     : https://prove2.me/submissions/daf9ee1f-043a-42ed-92ec-a64a8444a1a6
 

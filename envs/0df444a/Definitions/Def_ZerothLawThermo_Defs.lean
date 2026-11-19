@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ZerothLawThermo_Defs
 -- name    : ZerothLawThermo_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:24:21.773366+00:00
 -- url     : https://prove2.me/theorems/f29fc959-d99d-4d04-9416-a49597e9ee43
 -- title:

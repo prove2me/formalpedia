@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_galeShapley_stable
 -- name    : StableMatching.galeShapley_stable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:31:29.279989+00:00
 -- url     : https://prove2.me/theorems/917d8e35-dab6-47b7-83a2-828c972ed7a5
 -- title:

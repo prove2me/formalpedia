@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_words_valid_D8_small_006
 -- name    : RealPinwheel.FiveSixths.words_valid_D8_small_006
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T05:16:28.727285+00:00
 -- url     : https://prove2.me/theorems/1f255412-85de-40c1-96a0-9f928953df6e

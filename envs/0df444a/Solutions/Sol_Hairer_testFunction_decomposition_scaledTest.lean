@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Hairer.testFunction_decomposition_scaledTest
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T06:21:12.166715+00:00
 -- url     : https://prove2.me/submissions/dfc96f88-26b5-46f6-9175-7cf1dffafc2f
 

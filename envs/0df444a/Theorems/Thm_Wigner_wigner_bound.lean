@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Wigner_wigner_bound
 -- name    : Wigner.wigner_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:52:03.266441+00:00
 -- url     : https://prove2.me/theorems/40698555-b834-4465-8581-2215eca924ce
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalDynamics_ignorable_coordinate_momentum_conserved
 -- name    : ClassicalDynamics.ignorable_coordinate_momentum_conserved
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:40:28.759705+00:00
 -- url     : https://prove2.me/theorems/97f48d9b-5bca-4f8a-9c46-3aded4c4559f
 -- title:

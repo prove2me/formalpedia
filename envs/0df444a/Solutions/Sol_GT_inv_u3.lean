@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.inv_u3
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:51.377965+00:00
 -- url     : https://prove2.me/submissions/6f0a96ea-9aec-4605-aa83-34939a9eab74
 

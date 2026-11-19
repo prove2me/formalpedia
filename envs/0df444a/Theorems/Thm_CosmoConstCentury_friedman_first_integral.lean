@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_friedman_first_integral
 -- name    : CosmoConstCentury.friedman_first_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T09:46:00.155091+00:00
 -- url     : https://prove2.me/theorems/22a361ca-76d2-45a0-8462-396c09c0601b
 -- title:

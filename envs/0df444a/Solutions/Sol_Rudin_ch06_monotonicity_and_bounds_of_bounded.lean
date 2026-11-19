@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_monotonicity_and_bounds_of_bounded
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:08:19.938139+00:00
 -- url     : https://prove2.me/submissions/c3c54826-af47-435f-a54c-3e3d8a705a6c
 

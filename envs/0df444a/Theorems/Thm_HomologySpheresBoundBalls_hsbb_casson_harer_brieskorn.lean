@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_casson_harer_brieskorn
 -- name    : HomologySpheresBoundBalls.hsbb_casson_harer_brieskorn
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:20:04.051559+00:00
 -- url     : https://prove2.me/theorems/30b653c6-db5b-4fe1-822d-0c350ece7053
 -- title:

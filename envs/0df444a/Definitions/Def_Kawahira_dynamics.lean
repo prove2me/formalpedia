@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Kawahira_dynamics
 -- name    : Kawahira_dynamics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:22:26.056543+00:00
 -- url     : https://prove2.me/theorems/8991b33b-160b-41e9-bd86-e42132ddf144
 -- title:

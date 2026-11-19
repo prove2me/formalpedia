@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AhlforsComplexAnalysis_schwarz_lemma
 -- name    : AhlforsComplexAnalysis.schwarz_lemma
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T04:46:55.309674+00:00
 -- url     : https://prove2.me/theorems/a1f105fd-d557-45a9-9dd4-ba97c07f5fc0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LamLitt_Defs
 -- name    : LamLitt_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T16:35:14.267915+00:00
 -- url     : https://prove2.me/theorems/9b6c38f9-ddda-49a6-be98-d6ec24e06fb5
 -- title:

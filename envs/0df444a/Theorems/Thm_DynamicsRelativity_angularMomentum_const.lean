@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_angularMomentum_const
 -- name    : DynamicsRelativity.angularMomentum_const
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:17:20.445526+00:00
 -- url     : https://prove2.me/theorems/16dd774b-1ab2-424b-ac6f-552c81c00fb1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HuWang2023_meanDMIGM_strictMonoOn
 -- name    : HuWang2023.meanDMIGM_strictMonoOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:42:59.852987+00:00
 -- url     : https://prove2.me/theorems/9be83350-63eb-4fc3-9aad-8e6c4c8387ef
 -- title:

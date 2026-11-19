@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_isSurjunctive_of_isSofic
 -- name    : GottschalkSurjunctivity.isSurjunctive_of_isSofic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:00:50.463235+00:00
 -- url     : https://prove2.me/theorems/c1159d0e-bbe4-4c76-9715-0d518c717442
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_isZariskiIrreducible_iff_isPrime
 -- name    : Nullstellensatz.isZariskiIrreducible_iff_isPrime
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:34:02.878992+00:00
 -- url     : https://prove2.me/theorems/b789954c-f194-4b46-b2f0-18062ffd0d80
 -- title:

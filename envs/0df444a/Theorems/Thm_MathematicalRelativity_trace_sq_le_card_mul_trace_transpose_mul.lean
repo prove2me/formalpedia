@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_trace_sq_le_card_mul_trace_transpose_mul
 -- name    : MathematicalRelativity.trace_sq_le_card_mul_trace_transpose_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:15:37.020965+00:00
 -- url     : https://prove2.me/theorems/3741019a-df2e-4cc0-9a13-bbd00ddda0f4
 -- title:

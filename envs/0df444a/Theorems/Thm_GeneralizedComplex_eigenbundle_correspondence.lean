@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_eigenbundle_correspondence
 -- name    : GeneralizedComplex.eigenbundle_correspondence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:45:10.319979+00:00
 -- url     : https://prove2.me/theorems/29e5fe35-8183-428f-9794-cd866ad5d419
 -- title:

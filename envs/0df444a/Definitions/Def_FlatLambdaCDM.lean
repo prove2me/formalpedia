@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FlatLambdaCDM
 -- name    : FlatLambdaCDM
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:24:11.852993+00:00
 -- url     : https://prove2.me/theorems/c20aaf79-9009-4a62-be94-9f27046ff925
 -- title:

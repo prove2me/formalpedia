@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PenningTrap_invariance_theorem
 -- name    : PenningTrap.invariance_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:07:23.55823+00:00
 -- url     : https://prove2.me/theorems/1c908f0a-e74f-4e9b-827c-72ecee6cdab1
 -- title:

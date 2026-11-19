@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ExtendedSmale9_lemma_11_1
 -- name    : ExtendedSmale9.lemma_11_1
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T14:07:48.43166+00:00
 -- url     : https://prove2.me/theorems/5c50243f-f7a5-4824-873a-348e51afa77b
 -- title:

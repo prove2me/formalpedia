@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_ramakrishnan_tensor_gl2
 -- name    : LanglandsFunctoriality.ramakrishnan_tensor_gl2
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:35:54.399878+00:00
 -- url     : https://prove2.me/theorems/74f7d534-66ea-4cd2-93f7-0f91ae3323cf
 -- title:

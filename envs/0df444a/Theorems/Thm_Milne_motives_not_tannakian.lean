@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Milne_motives_not_tannakian
 -- name    : Milne.motives_not_tannakian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T03:13:39.424989+00:00
 -- url     : https://prove2.me/theorems/f1a16ea7-dcba-41de-8596-7b24731ff3f8
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_angle_eq_pi_div_four_iff
 -- name    : KoideRelation.koide_angle_eq_pi_div_four_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:37:25.951359+00:00
 -- url     : https://prove2.me/theorems/00731542-cf58-4d3f-8e1a-daf85d509dc9
 -- title:

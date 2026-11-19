@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UndecidableSpectralGap_usg_gs_energy_density
 -- name    : UndecidableSpectralGap.usg_gs_energy_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T05:36:03.375207+00:00
 -- url     : https://prove2.me/theorems/d775eef1-c239-4da2-997f-af0c859adb9a
 -- title:

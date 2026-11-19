@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_prop_3_16_full_twist_mem_center
 -- name    : TarchaBraids.prop_3_16_full_twist_mem_center
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T00:01:22.07657+00:00
 -- url     : https://prove2.me/theorems/0895e7e8-5242-446d-87a9-35cf51ea969a
 -- title:

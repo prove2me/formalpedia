@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_band_kronecker_pos
 -- name    : OAI.UniversalTensorSquare.band_kronecker_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:17:37.975991+00:00
 -- url     : https://prove2.me/theorems/e26eaf40-d574-419b-9b2c-056b689e88cc

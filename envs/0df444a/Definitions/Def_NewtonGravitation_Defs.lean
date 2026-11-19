@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NewtonGravitation_Defs
 -- name    : NewtonGravitation_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:30:48.623096+00:00
 -- url     : https://prove2.me/theorems/c03c094a-463c-46ac-9e32-be15df3d8270
 -- title:

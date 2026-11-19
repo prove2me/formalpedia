@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_moore_penrose_exists_unique
 -- name    : LocalDistanceNetwork.moore_penrose_exists_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T20:29:53.304426+00:00
 -- url     : https://prove2.me/theorems/d5782176-2b78-4656-b4c9-c4eb64db7ea2
 -- title:

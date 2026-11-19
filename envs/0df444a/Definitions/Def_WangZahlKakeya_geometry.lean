@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WangZahlKakeya_geometry
 -- name    : WangZahlKakeya_geometry
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T05:09:39.197392+00:00
 -- url     : https://prove2.me/theorems/7ac7d7c6-f730-4841-87fc-3c28c02014d1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PCB_lex_cone_conj
 -- name    : PCB.lex_cone_conj
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:40.590367+00:00
 -- url     : https://prove2.me/theorems/2574d269-e72f-4148-adcf-450c9959feff
 -- title:

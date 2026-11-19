@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch08_parseval_inner
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T14:03:15.534983+00:00
 -- url     : https://prove2.me/submissions/da8f5052-d550-4cc6-a38f-5f2248182ba3
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BSSMachine
 -- name    : BSSMachine
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T14:54:02.073719+00:00
 -- url     : https://prove2.me/theorems/ba9f90c8-5688-403e-b940-3b589f62fff2
 -- title:

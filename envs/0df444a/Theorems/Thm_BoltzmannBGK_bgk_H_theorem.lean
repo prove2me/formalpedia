@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_bgk_H_theorem
 -- name    : BoltzmannBGK.bgk_H_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:28:38.863304+00:00
 -- url     : https://prove2.me/theorems/030d71f6-8944-4f6b-8e5b-8b2df6147dab
 -- title:

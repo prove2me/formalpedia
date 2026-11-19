@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_three_flavor_prob_expansion
 -- name    : LipariNeutrino.three_flavor_prob_expansion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T05:03:17.479565+00:00
 -- url     : https://prove2.me/theorems/78b53515-a8a6-43f1-98d9-250a1b4246c9
 -- title:

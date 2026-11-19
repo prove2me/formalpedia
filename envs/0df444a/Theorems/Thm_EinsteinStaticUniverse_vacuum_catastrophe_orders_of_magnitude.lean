@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_vacuum_catastrophe_orders_of_magnitude
 -- name    : EinsteinStaticUniverse.vacuum_catastrophe_orders_of_magnitude
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:26:43.388544+00:00
 -- url     : https://prove2.me/theorems/7db87386-3a12-4f8c-afc5-ab31c0ebba5c
 -- title:

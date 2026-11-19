@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OpenGA_SurgeryVolumeProfile_card_surgeryTimes_le
 -- name    : OpenGA.SurgeryVolumeProfile.card_surgeryTimes_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:48:01.439267+00:00
 -- url     : https://prove2.me/theorems/f179efcc-57d5-4cdb-86f0-46793b0a54db
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DiracEquation_fields
 -- name    : DiracEquation_fields
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T19:40:21.223717+00:00
 -- url     : https://prove2.me/theorems/035a4075-f5d1-48c8-866d-dd7771e9572b
 -- title:

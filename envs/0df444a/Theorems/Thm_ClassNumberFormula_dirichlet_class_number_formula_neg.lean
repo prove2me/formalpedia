@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_dirichlet_class_number_formula_neg
 -- name    : ClassNumberFormula.dirichlet_class_number_formula_neg
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:56:21.915853+00:00
 -- url     : https://prove2.me/theorems/bbb540f8-505e-419c-9748-ee8c0b3e3231
 -- title:

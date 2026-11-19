@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GKP1998_besselK_eq_besselI_sub
 -- name    : GKP1998.besselK_eq_besselI_sub
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:52:51.530245+00:00
 -- url     : https://prove2.me/theorems/829202db-2d51-4468-a2ab-9513125eab84
 -- title:

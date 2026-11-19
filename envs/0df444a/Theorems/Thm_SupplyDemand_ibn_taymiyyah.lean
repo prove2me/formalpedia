@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_ibn_taymiyyah
 -- name    : SupplyDemand.ibn_taymiyyah
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:33.082567+00:00
 -- url     : https://prove2.me/theorems/7ece2572-81f0-42b3-b41c-235637919f97
 -- title:

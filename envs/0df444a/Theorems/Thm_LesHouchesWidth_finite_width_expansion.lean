@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_finite_width_expansion
 -- name    : LesHouchesWidth.finite_width_expansion
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:20:38.626643+00:00
 -- url     : https://prove2.me/theorems/caa39bd8-3a96-4e34-8771-028fcdc2fa94
 -- title:

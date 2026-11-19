@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SMHiggsPotential_scalarLagrangian_eq_doublet_potential
 -- name    : SMHiggsPotential.scalarLagrangian_eq_doublet_potential
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:41:54.925888+00:00
 -- url     : https://prove2.me/theorems/70c1b0ae-580e-4466-8607-10ad33d1365d
 -- title:

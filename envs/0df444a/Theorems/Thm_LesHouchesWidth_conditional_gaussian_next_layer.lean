@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_conditional_gaussian_next_layer
 -- name    : LesHouchesWidth.conditional_gaussian_next_layer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:02:56.420867+00:00
 -- url     : https://prove2.me/theorems/49daa880-9373-443b-9d6a-849285e2653f
 -- title:

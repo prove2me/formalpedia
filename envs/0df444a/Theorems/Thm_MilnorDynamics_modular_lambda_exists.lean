@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_modular_lambda_exists
 -- name    : MilnorDynamics.modular_lambda_exists
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:51:17.811874+00:00
 -- url     : https://prove2.me/theorems/1c8cff88-c9a2-4941-ac35-8e197e88db93
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.propagation
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:18:26.375321+00:00
 -- url     : https://prove2.me/submissions/c75abaee-8b31-4dfc-924b-ec8575cb2cfa
 

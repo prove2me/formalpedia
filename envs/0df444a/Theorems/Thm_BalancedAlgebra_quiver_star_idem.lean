@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_quiver_star_idem
 -- name    : BalancedAlgebra.quiver_star_idem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:00:11.361247+00:00
 -- url     : https://prove2.me/theorems/ec982e34-0c32-4580-aae7-7eb6b603be46
 -- title:

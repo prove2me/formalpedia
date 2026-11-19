@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FastFourierTransform_dft_even_odd_split
 -- name    : FastFourierTransform.dft_even_odd_split
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:22:25.880197+00:00
 -- url     : https://prove2.me/theorems/ffc67fdb-812d-4e6e-bff5-a3df1ec2c658
 -- title:

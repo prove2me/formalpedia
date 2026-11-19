@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_Supplement_theorem_6_3
 -- name    : AC02Frege.Supplement.theorem_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:59:08.674914+00:00
 -- url     : https://prove2.me/theorems/a0c85e23-496a-43d4-a589-08268df17aa7

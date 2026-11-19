@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_redshift_slope_tendsto_hubbleParameter
 -- name    : HubbleLaw.redshift_slope_tendsto_hubbleParameter
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:26:16.881055+00:00
 -- url     : https://prove2.me/theorems/eb94b3d1-41bd-4b9b-8cb7-22e688328fa0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindgrenPriceDynamics_lyapunov_derivative
 -- name    : LindgrenPriceDynamics.lyapunov_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:38:38.481607+00:00
 -- url     : https://prove2.me/theorems/805fac3e-032d-4385-a1b1-8bfa7b998999
 -- title:

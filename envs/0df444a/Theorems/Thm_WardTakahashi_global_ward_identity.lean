@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WardTakahashi_global_ward_identity
 -- name    : WardTakahashi.global_ward_identity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:42:34.66733+00:00
 -- url     : https://prove2.me/theorems/91cc4140-1a9d-418e-aa21-52b4cb45b763
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixth_boltzmann_derivation_torus
 -- name    : HilbertSixth.boltzmann_derivation_torus
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T04:15:51.31498+00:00
 -- url     : https://prove2.me/theorems/6d6d69af-a74e-4a54-a610-c9f0f31f3dcd
 -- title:

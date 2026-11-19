@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UndecidableSpectralGap_usg_low_energy_halting
 -- name    : UndecidableSpectralGap.usg_low_energy_halting
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:47:53.082273+00:00
 -- url     : https://prove2.me/theorems/9231416e-a460-4be8-92cb-30e472c12f00
 -- title:

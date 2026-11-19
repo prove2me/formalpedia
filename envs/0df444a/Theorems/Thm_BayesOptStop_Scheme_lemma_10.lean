@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesOptStop_Scheme_lemma_10
 -- name    : BayesOptStop.Scheme.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T21:17:16.667192+00:00
 -- url     : https://prove2.me/theorems/ee400eb2-cffc-42d6-8ba3-34f61960d7cd

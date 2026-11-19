@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_vanishingIdeal_singleton
 -- name    : Nullstellensatz.vanishingIdeal_singleton
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:08:28.993149+00:00
 -- url     : https://prove2.me/theorems/c744a368-fe0d-4318-917a-52d885382746
 -- title:

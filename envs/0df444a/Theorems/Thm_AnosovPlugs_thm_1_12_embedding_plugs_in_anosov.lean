@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_thm_1_12_embedding_plugs_in_anosov
 -- name    : AnosovPlugs.thm_1_12_embedding_plugs_in_anosov
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:15:05.509196+00:00
 -- url     : https://prove2.me/theorems/f9e6ffa0-bfe2-4670-b5f1-f67180e0cbd1
 -- title:

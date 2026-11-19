@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_qutrit_D_matrix
 -- name    : HardyFiveAxioms.qutrit_D_matrix
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T00:28:32.810809+00:00
 -- url     : https://prove2.me/theorems/784d9728-fbbb-4fc6-9042-293edb5374f3
 -- title:

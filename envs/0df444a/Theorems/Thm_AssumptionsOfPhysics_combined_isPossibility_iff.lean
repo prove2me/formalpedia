@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_combined_isPossibility_iff
 -- name    : AssumptionsOfPhysics.combined_isPossibility_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:46:04.930418+00:00
 -- url     : https://prove2.me/theorems/95354e79-3e1a-4ccc-9ed3-8005cbed93d6
 -- title:

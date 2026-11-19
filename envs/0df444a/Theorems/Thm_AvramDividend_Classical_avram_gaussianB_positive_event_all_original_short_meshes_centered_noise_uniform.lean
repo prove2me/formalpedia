@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gaussianB_positive_event_all_original_short_meshes_centered_noise_uniform
 -- name    : AvramDividend.Classical.avram_gaussianB_positive_event_all_original_short_meshes_centered_noise_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T01:21:26.022213+00:00
 -- url     : https://prove2.me/theorems/1243998f-a2ba-4c3e-b9a1-37ee6e52bbcd

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Mersenne_catalan_mersenne_conjecture
 -- name    : FCP.Mersenne.catalan_mersenne_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:48:31.46179+00:00
 -- url     : https://prove2.me/theorems/cd467562-a719-4a34-908d-543b94968a5c
 -- title:

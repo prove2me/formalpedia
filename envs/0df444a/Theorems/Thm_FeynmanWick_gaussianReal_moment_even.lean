@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FeynmanWick_gaussianReal_moment_even
 -- name    : FeynmanWick.gaussianReal_moment_even
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:03:05.396875+00:00
 -- url     : https://prove2.me/theorems/76aa5b0b-bc3e-4d3f-a615-6fc59ebc7a91
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_near_horizon_AdS7S4_AdS4S7_AdS3S3
 -- name    : Maldacena1999.near_horizon_AdS7S4_AdS4S7_AdS3S3
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:12:28.430085+00:00
 -- url     : https://prove2.me/theorems/db66ec96-f929-4257-98fc-c1aba471bdc5
 -- title:

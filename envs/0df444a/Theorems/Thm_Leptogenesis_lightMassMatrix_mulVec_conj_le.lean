@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Leptogenesis_lightMassMatrix_mulVec_conj_le
 -- name    : Leptogenesis.lightMassMatrix_mulVec_conj_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:08:00.185296+00:00
 -- url     : https://prove2.me/theorems/871435d3-1c30-48c6-9369-fd225e10bae0
 -- title:

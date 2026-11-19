@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SIBrochure_units
 -- name    : SIBrochure_units
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:07:38.364832+00:00
 -- url     : https://prove2.me/theorems/0694a582-777f-4ce3-854b-ceeaf416ec3f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_psi0_hasDerivAt
 -- name    : ReflectionlessPotential.psi0_hasDerivAt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:45:44.783053+00:00
 -- url     : https://prove2.me/theorems/d1a91243-d9af-491b-98b0-f148c2e58016
 -- title:

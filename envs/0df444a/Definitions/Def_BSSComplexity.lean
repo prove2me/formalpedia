@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BSSComplexity
 -- name    : BSSComplexity
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T14:55:43.247878+00:00
 -- url     : https://prove2.me/theorems/0b6fd50c-a7e2-4e2c-8a0c-9142da76f170
 -- title:

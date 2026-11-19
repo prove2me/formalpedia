@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_6_18_fphp_upper_bound
 -- name    : SemAC02.Supplement.theorem_6_18_fphp_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:52:12.840409+00:00
 -- url     : https://prove2.me/theorems/222e262d-7604-4447-bced-b7fc563c8032

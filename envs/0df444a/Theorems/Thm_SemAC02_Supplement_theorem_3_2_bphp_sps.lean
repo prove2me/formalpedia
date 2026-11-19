@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_3_2_bphp_sps
 -- name    : SemAC02.Supplement.theorem_3_2_bphp_sps
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:47:36.90408+00:00
 -- url     : https://prove2.me/theorems/c1d2b1db-de0a-4afb-a655-047ce54c7c74

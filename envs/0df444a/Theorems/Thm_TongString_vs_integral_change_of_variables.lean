@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_vs_integral_change_of_variables
 -- name    : TongString.vs_integral_change_of_variables
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:55:31.82185+00:00
 -- url     : https://prove2.me/theorems/03774b58-0c10-478f-aa2c-2bfb95be0127
 -- title:

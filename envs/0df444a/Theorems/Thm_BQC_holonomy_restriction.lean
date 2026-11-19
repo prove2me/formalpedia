@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_holonomy_restriction
 -- name    : BQC.holonomy_restriction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:27:09.621693+00:00
 -- url     : https://prove2.me/theorems/b6091cfc-2304-45bb-b923-3ef87e2fd8e8
 -- title:

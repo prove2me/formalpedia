@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_riemann_hilbert
 -- name    : RSF.riemann_hilbert
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:16:30.362993+00:00
 -- url     : https://prove2.me/theorems/648ba23a-bcea-4b2a-a004-90c65a2b50d0
 -- title:

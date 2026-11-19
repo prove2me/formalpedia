@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CoulombGauss_sphereFlux_electricField_eq_zero_of_disjoint
 -- name    : CoulombGauss.sphereFlux_electricField_eq_zero_of_disjoint
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:31:10.00605+00:00
 -- url     : https://prove2.me/theorems/d7aa9131-3b82-4af9-9c5c-36fb3a76145a
 -- title:

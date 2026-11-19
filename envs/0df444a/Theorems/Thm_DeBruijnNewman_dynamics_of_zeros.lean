@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_dynamics_of_zeros
 -- name    : DeBruijnNewman.dynamics_of_zeros
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:30:14.457223+00:00
 -- url     : https://prove2.me/theorems/c76aa5a5-7094-49ae-af1f-ac0ca844b7e7
 -- title:

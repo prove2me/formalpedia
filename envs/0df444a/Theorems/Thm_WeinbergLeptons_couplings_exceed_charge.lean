@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_couplings_exceed_charge
 -- name    : WeinbergLeptons.couplings_exceed_charge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:47:11.177996+00:00
 -- url     : https://prove2.me/theorems/143d9cd2-0bd6-4381-a946-855233022d73
 -- title:

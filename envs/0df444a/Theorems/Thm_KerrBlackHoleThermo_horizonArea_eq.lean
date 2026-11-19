@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_horizonArea_eq
 -- name    : KerrBlackHoleThermo.horizonArea_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:44:56.709578+00:00
 -- url     : https://prove2.me/theorems/316fadf0-5dd4-4cb3-a691-c3b2142543d3
 -- title:

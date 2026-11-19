@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HuWang2023_timeDelayDistance_determines_H0
 -- name    : HuWang2023.timeDelayDistance_determines_H0
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:48:12.911986+00:00
 -- url     : https://prove2.me/theorems/edb0e7c0-613d-4619-a3bb-0f78ba15a5ef
 -- title:

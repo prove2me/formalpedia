@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_grothendieckConst_le_cubic_quintic
 -- name    : GrothendieckConstant.grothendieckConst_le_cubic_quintic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:53:58.719979+00:00
 -- url     : https://prove2.me/theorems/d068b1af-724d-47e8-94cf-294ba5594c01
 -- title:

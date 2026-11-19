@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCWCentralizer_dense_to_residual
 -- name    : BCWCentralizer.dense_to_residual
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:34:05.988983+00:00
 -- url     : https://prove2.me/theorems/8bdf021c-e3c9-4fe5-ade4-0251409a9054
 -- title:

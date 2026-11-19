@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Weinberg1965_photon_log_cutoff
 -- name    : Weinberg1965.photon_log_cutoff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:53:43.400641+00:00
 -- url     : https://prove2.me/theorems/edc66d05-5b7d-4275-ac49-bf7cd17a033a
 -- title:

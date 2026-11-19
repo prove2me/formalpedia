@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_rn_horizons_subextremal
 -- name    : StrongCosmicCensorship.rn_horizons_subextremal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:22:22.979876+00:00
 -- url     : https://prove2.me/theorems/0bd6c212-38b0-492f-bc2e-51d327a06f9e
 -- title:

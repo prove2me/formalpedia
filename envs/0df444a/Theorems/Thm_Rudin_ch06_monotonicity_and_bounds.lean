@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_monotonicity_and_bounds
 -- name    : Rudin.ch06_monotonicity_and_bounds
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:21:05.425984+00:00
 -- url     : https://prove2.me/theorems/c630587a-f124-473a-80fd-b964450fa383
 -- title:

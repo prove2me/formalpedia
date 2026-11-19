@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_goedel_consistency_AC_GCH
 -- name    : ContinuumHypothesis.goedel_consistency_AC_GCH
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T22:26:22.378473+00:00
 -- url     : https://prove2.me/theorems/86e24aa2-bd1f-4742-ac30-7f6ce0d56529
 -- title:

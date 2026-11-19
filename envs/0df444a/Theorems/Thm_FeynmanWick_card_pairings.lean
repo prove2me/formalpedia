@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FeynmanWick_card_pairings
 -- name    : FeynmanWick.card_pairings
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:17:25.014032+00:00
 -- url     : https://prove2.me/theorems/314da3e3-3b81-427d-9c2f-da69cf53fa12
 -- title:

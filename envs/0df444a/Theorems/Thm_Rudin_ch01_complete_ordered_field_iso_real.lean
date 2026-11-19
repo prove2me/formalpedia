@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_complete_ordered_field_iso_real
 -- name    : Rudin.ch01_complete_ordered_field_iso_real
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:43:18.162456+00:00
 -- url     : https://prove2.me/theorems/07931db0-a2bb-4328-841a-f19f981e1e83
 -- title:

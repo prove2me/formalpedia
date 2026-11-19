@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDistance_levelTwoLocalError_sameChainSyndrome
 -- name    : QEC.Coding.BDL26LevelTwoDistance.levelTwoLocalError_sameChainSyndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:26:30.935897+00:00
 -- url     : https://prove2.me/theorems/029d4709-eab2-4d5b-b6a0-55a5489a5244

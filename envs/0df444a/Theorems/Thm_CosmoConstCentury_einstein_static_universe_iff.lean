@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_einstein_static_universe_iff
 -- name    : CosmoConstCentury.einstein_static_universe_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T01:40:41.619371+00:00
 -- url     : https://prove2.me/theorems/2a8eccb0-0d91-48a8-ad7a-b06b09a25bd1
 -- title:

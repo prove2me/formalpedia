@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_hadwiger_conjecture
 -- name    : HadwigerConj.hadwiger_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:27:59.316777+00:00
 -- url     : https://prove2.me/theorems/0b18177b-99d0-4532-b8a1-d52784d7d11c
 -- title:

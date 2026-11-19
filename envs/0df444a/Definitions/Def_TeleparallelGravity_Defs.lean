@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TeleparallelGravity_Defs
 -- name    : TeleparallelGravity_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T22:30:37.660249+00:00
 -- url     : https://prove2.me/theorems/71cd9a74-8d01-4ab2-9f57-9296ebfb18f7
 -- title:

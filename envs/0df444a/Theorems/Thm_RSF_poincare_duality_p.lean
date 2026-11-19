@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_poincare_duality_p
 -- name    : RSF.poincare_duality_p
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:17:39.860258+00:00
 -- url     : https://prove2.me/theorems/7b3b2298-6e15-45b7-8adf-8a5042d64608
 -- title:

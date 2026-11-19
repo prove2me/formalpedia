@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WittenAdSHolography_maxwell_radial_solution
 -- name    : WittenAdSHolography.maxwell_radial_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:35:44.941659+00:00
 -- url     : https://prove2.me/theorems/e2dc12ec-d7ea-4a67-a2d2-944d9823343b
 -- title:

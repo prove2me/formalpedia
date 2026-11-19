@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ConstrSOSP.searchReduces_trans
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:48:27.620059+00:00
 -- url     : https://prove2.me/submissions/fc17b254-4497-429f-b448-0048029a0bd7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CookPvsNP_polyTimeComputable_comp
 import Theorems.Thm_CookPvsNP_polyTimeComputable_pairSnd

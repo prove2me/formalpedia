@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Kaplansky_idempotent_conjecture
 -- name    : FCP.Kaplansky.idempotent_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:52:48.545879+00:00
 -- url     : https://prove2.me/theorems/117964b9-3bbf-4460-96e4-e4cf0e30b8e8
 -- title:

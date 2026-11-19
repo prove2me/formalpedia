@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_phi_ker_card
 -- name    : GrandUnifiedTheories.phi_ker_card
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:48:35.397828+00:00
 -- url     : https://prove2.me/theorems/903a9761-a2da-4423-b3b3-688ae7ffceca
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_absolute_convergence
 -- name    : Rudin.ch03_absolute_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:22:24.696674+00:00
 -- url     : https://prove2.me/theorems/68fb2f20-f8d0-47b6-bba6-ff5f3ab79fe9
 -- title:

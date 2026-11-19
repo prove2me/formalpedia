@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BCWCentralizer_Dynamics
 -- name    : BCWCentralizer_Dynamics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:54:01.539158+00:00
 -- url     : https://prove2.me/theorems/9fc58400-3bd4-4dd5-a291-da5ef1b3c6dd
 -- title:

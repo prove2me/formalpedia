@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpeedOfLight_kineticEnergy_unbounded
 -- name    : SpeedOfLight.kineticEnergy_unbounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:14:00.148888+00:00
 -- url     : https://prove2.me/theorems/b862057e-6f4a-434f-bbc7-e605dbf26639
 -- title:

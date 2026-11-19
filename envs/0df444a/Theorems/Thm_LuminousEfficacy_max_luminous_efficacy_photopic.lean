@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_max_luminous_efficacy_photopic
 -- name    : LuminousEfficacy.max_luminous_efficacy_photopic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:42:48.07841+00:00
 -- url     : https://prove2.me/theorems/054967b9-1a7f-4f57-9419-b728aef14405
 -- title:

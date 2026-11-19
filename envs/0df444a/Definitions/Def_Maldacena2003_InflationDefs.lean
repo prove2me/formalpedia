@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Maldacena2003_InflationDefs
 -- name    : Maldacena2003_InflationDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:49:11.085654+00:00
 -- url     : https://prove2.me/theorems/99ed4499-beba-47f2-846e-3605c4bf3ecb
 -- title:

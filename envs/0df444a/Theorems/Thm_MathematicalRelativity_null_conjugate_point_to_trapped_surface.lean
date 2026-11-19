@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_null_conjugate_point_to_trapped_surface
 -- name    : MathematicalRelativity.null_conjugate_point_to_trapped_surface
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:35:43.345049+00:00
 -- url     : https://prove2.me/theorems/0f2506eb-71e6-41f8-ab7c-88dd831080d6
 -- title:

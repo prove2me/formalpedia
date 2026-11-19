@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GambiniPullin_weightedModelIntegral_rotational_zero
 -- name    : GambiniPullin.weightedModelIntegral_rotational_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:09:12.699418+00:00
 -- url     : https://prove2.me/theorems/2f786039-2a0f-45c2-ab66-af08007aab83
 -- title:

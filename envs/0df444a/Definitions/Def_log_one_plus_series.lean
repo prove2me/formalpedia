@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_log_one_plus_series
 -- name    : log_one_plus_series
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:26:17.259485+00:00
 -- url     : https://prove2.me/theorems/d3c73f64-0a48-4774-b355-9151f01e6314
 -- title:

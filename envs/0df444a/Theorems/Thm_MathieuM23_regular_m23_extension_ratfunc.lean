@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_regular_m23_extension_ratfunc
 -- name    : MathieuM23.regular_m23_extension_ratfunc
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T17:17:57.960156+00:00
 -- url     : https://prove2.me/theorems/8cbef803-4ad4-4f0e-a6c1-b5aba6fa0f22
 -- title:

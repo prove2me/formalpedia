@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_mildlyHoAApprox_of_condEPPRG
 -- name    : LiuPass.mildlyHoAApprox_of_condEPPRG
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:41:18.468308+00:00
 -- url     : https://prove2.me/theorems/4a16a973-af07-4adf-addb-19266ce75438
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GarrettFA_IsLFSpace
 -- name    : GarrettFA_IsLFSpace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:27:33.459603+00:00
 -- url     : https://prove2.me/theorems/16280af1-55bd-493b-896d-64acf81c1044
 -- title:

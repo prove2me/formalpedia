@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_eq_bShift_symplecticGen_of_genType_eq_zero
 -- name    : GeneralizedComplex.eq_bShift_symplecticGen_of_genType_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:55:50.44398+00:00
 -- url     : https://prove2.me/theorems/c48b094c-6934-4515-9184-f91432dad32c
 -- title:

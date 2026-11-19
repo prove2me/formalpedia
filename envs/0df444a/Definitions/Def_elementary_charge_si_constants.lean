@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_elementary_charge_si_constants
 -- name    : elementary_charge_si_constants
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:07:11.009786+00:00
 -- url     : https://prove2.me/theorems/ffe4ed92-08f3-4b31-95e3-cd167cccf19a
 -- title:

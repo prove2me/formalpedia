@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LopesQM_dispersion_eq_zero_iff_eigenfunction
 -- name    : LopesQM.dispersion_eq_zero_iff_eigenfunction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:56:08.694771+00:00
 -- url     : https://prove2.me/theorems/43c9147c-5f6d-4463-82c1-dc1da95b0522
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_nowhere_differentiable
 -- name    : Rudin.ch07_nowhere_differentiable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T00:07:52.164539+00:00
 -- url     : https://prove2.me/theorems/0f4f0864-f13b-43dd-af99-02d8b772221f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_six_pi_div_eleven_le_grothendieckConst
 -- name    : GrothendieckConstant.six_pi_div_eleven_le_grothendieckConst
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:47:12.907631+00:00
 -- url     : https://prove2.me/theorems/e3554464-2b50-4e91-b488-dd315778b797
 -- title:

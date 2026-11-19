@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_pressure_rewrite
 -- name    : MDOUnifiedCosmology.pressure_rewrite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:28:05.54899+00:00
 -- url     : https://prove2.me/theorems/95fa1491-cef9-49d3-8f19-7c1bc75d5af4
 -- title:

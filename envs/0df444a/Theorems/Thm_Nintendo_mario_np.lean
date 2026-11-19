@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nintendo_mario_np
 -- name    : Nintendo.mario_np
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T11:09:51.958791+00:00
 -- url     : https://prove2.me/theorems/99ceac23-00a5-4812-831e-0cfcd8171ed1
 -- title:

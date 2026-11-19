@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_CatalanConstant
 -- name    : FCP_CatalanConstant
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:07:19.772777+00:00
 -- url     : https://prove2.me/theorems/c85bb306-aa23-43c0-9d60-afbd23b11b07
 -- title:

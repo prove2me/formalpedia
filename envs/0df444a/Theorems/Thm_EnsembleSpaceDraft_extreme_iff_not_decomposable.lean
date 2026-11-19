@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnsembleSpaceDraft_extreme_iff_not_decomposable
 -- name    : EnsembleSpaceDraft.extreme_iff_not_decomposable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:50:48.77041+00:00
 -- url     : https://prove2.me/theorems/3f8592f6-0190-4393-aa58-b906c640dc90
 -- title:

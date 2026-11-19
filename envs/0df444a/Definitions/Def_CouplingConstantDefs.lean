@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CouplingConstantDefs
 -- name    : CouplingConstantDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:48:50.052309+00:00
 -- url     : https://prove2.me/theorems/5bc0f1a4-c711-4815-8111-492cb4014df4
 -- title:

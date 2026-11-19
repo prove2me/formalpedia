@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnaliseDeFourier_ortho_exp
 -- name    : AnaliseDeFourier.ortho_exp
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:43:05.718482+00:00
 -- url     : https://prove2.me/theorems/cd8685ac-86c4-425d-9a89-4d5b144ea7d4
 -- title:

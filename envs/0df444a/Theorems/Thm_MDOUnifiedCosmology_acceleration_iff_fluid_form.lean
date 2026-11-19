@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_acceleration_iff_fluid_form
 -- name    : MDOUnifiedCosmology.acceleration_iff_fluid_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:30:22.171986+00:00
 -- url     : https://prove2.me/theorems/74e7a896-fbe4-464b-bdcd-0b7edb855373
 -- title:

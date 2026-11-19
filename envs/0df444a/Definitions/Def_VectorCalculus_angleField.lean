@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_VectorCalculus_angleField
 -- name    : VectorCalculus_angleField
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:06:23.169611+00:00
 -- url     : https://prove2.me/theorems/911ab556-0b7b-404c-a189-783269aca995
 -- title:

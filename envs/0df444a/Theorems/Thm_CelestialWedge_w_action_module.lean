@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_w_action_module
 -- name    : CelestialWedge.w_action_module
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T03:36:12.737436+00:00
 -- url     : https://prove2.me/theorems/7da927db-78a1-477e-9ccc-dafd94d180fa
 -- title:

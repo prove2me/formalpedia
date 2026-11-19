@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ABOThreshold_model
 -- name    : ABOThreshold_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:22:27.705693+00:00
 -- url     : https://prove2.me/theorems/4df34e0d-c328-46ed-b506-e70645ba0972
 -- title:

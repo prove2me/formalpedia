@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_rotation_angle_range
 -- name    : Gerver.rotation_angle_range
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:11:45.169635+00:00
 -- url     : https://prove2.me/theorems/4dd3ea38-8e8a-488a-87ae-7e0e667b5ed3
 -- title:

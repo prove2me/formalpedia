@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixth_hard_sphere_flow_wellposed
 -- name    : HilbertSixth.hard_sphere_flow_wellposed
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T04:14:26.7164+00:00
 -- url     : https://prove2.me/theorems/983d89d3-6e52-44a0-b28e-6f5b3c0c7e9c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_posMap_jacobian_det
 -- name    : Landreman3DEquilibria.posMap_jacobian_det
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:07:45.213894+00:00
 -- url     : https://prove2.me/theorems/39f22c2d-0db7-4dd6-bcf5-2bd000d01f79
 -- title:

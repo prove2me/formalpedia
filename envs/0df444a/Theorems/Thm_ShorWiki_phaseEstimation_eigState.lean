@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShorWiki_phaseEstimation_eigState
 -- name    : ShorWiki.phaseEstimation_eigState
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T03:04:35.99316+00:00
 -- url     : https://prove2.me/theorems/d0c7be1e-adea-42ee-8703-960b1ce814bb
 -- title:

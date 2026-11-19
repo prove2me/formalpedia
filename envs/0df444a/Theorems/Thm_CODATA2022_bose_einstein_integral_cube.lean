@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_bose_einstein_integral_cube
 -- name    : CODATA2022.bose_einstein_integral_cube
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:05:04.724619+00:00
 -- url     : https://prove2.me/theorems/b57cdc57-364e-4d74-992f-b32c0bf36325
 -- title:

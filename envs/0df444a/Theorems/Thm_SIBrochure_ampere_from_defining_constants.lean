@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_ampere_from_defining_constants
 -- name    : SIBrochure.ampere_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:31:27.804291+00:00
 -- url     : https://prove2.me/theorems/ab7bdfec-641b-4cae-a9c0-1948b04ae50b
 -- title:

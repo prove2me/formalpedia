@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_properDistance_scaling
 -- name    : HubbleLaw.properDistance_scaling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:50:25.423405+00:00
 -- url     : https://prove2.me/theorems/1ef54657-f7f0-459f-856d-d0c96d026605
 -- title:

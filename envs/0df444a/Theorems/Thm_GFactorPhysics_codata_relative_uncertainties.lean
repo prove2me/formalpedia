@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GFactorPhysics_codata_relative_uncertainties
 -- name    : GFactorPhysics.codata_relative_uncertainties
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:49:51.031623+00:00
 -- url     : https://prove2.me/theorems/7a9f6796-91a6-490e-bbfb-f70e0e770d27
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HirschDim4_counterexample_dim4
 -- name    : HirschDim4.counterexample_dim4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:53:17.243206+00:00
 -- url     : https://prove2.me/theorems/e20210a9-5f06-4782-b7e4-9cb2d4396e1e
 -- title:

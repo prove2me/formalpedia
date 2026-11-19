@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_isSurjunctive_of_isAmenable
 -- name    : GottschalkSurjunctivity.isSurjunctive_of_isAmenable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T16:22:05.154854+00:00
 -- url     : https://prove2.me/theorems/5c95f54b-43db-4999-a66d-f9d957fa35a9
 -- title:

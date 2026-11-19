@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FirstLawThermo_Defs
 -- name    : FirstLawThermo_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:25:03.145242+00:00
 -- url     : https://prove2.me/theorems/e7afd934-50b5-425f-bde8-db9bd6000bb3
 -- title:

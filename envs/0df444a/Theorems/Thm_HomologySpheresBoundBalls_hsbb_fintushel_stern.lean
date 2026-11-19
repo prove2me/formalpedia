@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_fintushel_stern
 -- name    : HomologySpheresBoundBalls.hsbb_fintushel_stern
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:21:03.092837+00:00
 -- url     : https://prove2.me/theorems/f64fc3f7-22e0-4140-be60-036dcbfda7de
 -- title:

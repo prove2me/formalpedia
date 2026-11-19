@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_riemann_von_mangoldt_type_formulae
 -- name    : DeBruijnNewman.riemann_von_mangoldt_type_formulae
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:17:17.370146+00:00
 -- url     : https://prove2.me/theorems/b9d36005-0969-456d-9cb5-2f7f55283dd0
 -- title:

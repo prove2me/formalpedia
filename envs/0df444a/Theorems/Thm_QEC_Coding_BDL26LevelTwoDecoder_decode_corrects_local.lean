@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDecoder_decode_corrects_local
 -- name    : QEC.Coding.BDL26LevelTwoDecoder.decode_corrects_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T01:35:13.806932+00:00
 -- url     : https://prove2.me/theorems/79bd2154-81af-4cf7-9c5f-8df84a001866

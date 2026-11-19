@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_monotonicity
 -- name    : Rudin.ch05_monotonicity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:15:35.239992+00:00
 -- url     : https://prove2.me/theorems/ecb8203e-7173-431f-abd8-773bcc5174a3
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleDiffS4_diffDisk_four_not_contractible
 -- name    : SmaleDiffS4.diffDisk_four_not_contractible
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:39:50.733235+00:00
 -- url     : https://prove2.me/theorems/e525c0fb-6d98-4b70-9bd0-b8126cea72c9
 -- title:

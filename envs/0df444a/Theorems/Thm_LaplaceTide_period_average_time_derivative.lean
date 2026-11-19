@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LaplaceTide_period_average_time_derivative
 -- name    : LaplaceTide.period_average_time_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:34:32.546281+00:00
 -- url     : https://prove2.me/theorems/c9ccffe3-9f8c-414c-9360-543844fddfa2
 -- title:

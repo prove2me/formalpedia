@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_corollary_35
 -- name    : BuchiRabinIndex.LowerBound.corollary_35
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:31:57.781214+00:00
 -- url     : https://prove2.me/theorems/a5eb9323-be1f-4503-8c90-44b0681a1744

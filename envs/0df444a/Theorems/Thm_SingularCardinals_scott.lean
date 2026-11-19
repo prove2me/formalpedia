@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_scott
 -- name    : SingularCardinals.scott
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:50:06.648999+00:00
 -- url     : https://prove2.me/theorems/340106ec-1c14-4ad3-937c-2121979e2ee1
 -- title:

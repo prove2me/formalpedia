@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.prop71
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:50.765875+00:00
 -- url     : https://prove2.me/submissions/0fdba5dd-8260-4f37-b5cb-13e6db917e15
 

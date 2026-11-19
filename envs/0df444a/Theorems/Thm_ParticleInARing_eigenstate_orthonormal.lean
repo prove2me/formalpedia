@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_eigenstate_orthonormal
 -- name    : ParticleInARing.eigenstate_orthonormal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:42:41.673985+00:00
 -- url     : https://prove2.me/theorems/b008bb27-6e1e-4bdd-9e7a-0aee4cd77b1f
 -- title:

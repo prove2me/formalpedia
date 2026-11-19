@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_ainf_dg_of_vanishing_higher
 -- name    : KontsevichHMS.ainf_dg_of_vanishing_higher
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:58:40.04007+00:00
 -- url     : https://prove2.me/theorems/7bfb0900-1eff-4925-9780-ce7e89f7ca15
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoHair_rest_frame_exists
 -- name    : NoHair.rest_frame_exists
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T01:40:51.694284+00:00
 -- url     : https://prove2.me/theorems/281d87a2-2fb3-49fb-ac45-8cb3c57f5a2e
 -- title:

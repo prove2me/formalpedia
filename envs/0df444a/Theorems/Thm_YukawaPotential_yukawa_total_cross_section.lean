@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawa_total_cross_section
 -- name    : YukawaPotential.yukawa_total_cross_section
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:36:01.054032+00:00
 -- url     : https://prove2.me/theorems/b6abf990-1739-4daf-99b3-e4a3f7df7f73
 -- title:

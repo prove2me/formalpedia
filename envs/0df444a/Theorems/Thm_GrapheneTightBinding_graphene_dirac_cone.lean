@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_graphene_dirac_cone
 -- name    : GrapheneTightBinding.graphene_dirac_cone
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:29:34.998476+00:00
 -- url     : https://prove2.me/theorems/e057779c-16cc-49b6-8960-ad51f7e75b9d
 -- title:

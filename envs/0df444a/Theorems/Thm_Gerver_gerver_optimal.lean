@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_gerver_optimal
 -- name    : Gerver.gerver_optimal
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:15:44.16916+00:00
 -- url     : https://prove2.me/theorems/5ce1553b-7887-474b-abf0-ffc7ebcaa0ae
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_label_num_lip
 -- name    : GT.label_num_lip
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:40.832362+00:00
 -- url     : https://prove2.me/theorems/6f1e9c6b-e84c-4600-a673-0f82b23a1ba0
 -- title:

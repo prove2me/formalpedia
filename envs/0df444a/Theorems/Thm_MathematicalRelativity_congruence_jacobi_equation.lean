@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_congruence_jacobi_equation
 -- name    : MathematicalRelativity.congruence_jacobi_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:38:09.674238+00:00
 -- url     : https://prove2.me/theorems/4f63aece-a5b3-4320-9894-2b80a6761373
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HirschDim4_msw_twenty
 -- name    : HirschDim4.msw_twenty
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:56:32.897857+00:00
 -- url     : https://prove2.me/theorems/5a730767-e705-4cee-94d2-488196926c5b
 -- title:

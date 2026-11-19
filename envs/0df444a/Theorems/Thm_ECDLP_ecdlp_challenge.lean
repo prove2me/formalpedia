@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_ecdlp_challenge
 -- name    : ECDLP.ecdlp_challenge
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:46:21.940304+00:00
 -- url     : https://prove2.me/theorems/e369f4e3-e18f-4b3d-9197-b93d51d78866
 -- title:

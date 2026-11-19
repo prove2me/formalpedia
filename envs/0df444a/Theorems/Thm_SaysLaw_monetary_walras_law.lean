@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SaysLaw_monetary_walras_law
 -- name    : SaysLaw.monetary_walras_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:27.641674+00:00
 -- url     : https://prove2.me/theorems/9e0dd176-dc4c-47cc-b480-b4c398209800
 -- title:

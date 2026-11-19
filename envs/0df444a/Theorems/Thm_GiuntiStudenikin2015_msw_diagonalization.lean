@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_msw_diagonalization
 -- name    : GiuntiStudenikin2015.msw_diagonalization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:26:51.261561+00:00
 -- url     : https://prove2.me/theorems/20fae0d6-c71a-4ffe-9557-52880ce3cfa1
 -- title:

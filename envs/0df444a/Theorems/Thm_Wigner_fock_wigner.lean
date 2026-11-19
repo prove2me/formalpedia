@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Wigner_fock_wigner
 -- name    : Wigner.fock_wigner
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:51:11.886871+00:00
 -- url     : https://prove2.me/theorems/24fc375e-5c43-49eb-a9fe-0a769d0adff5
 -- title:

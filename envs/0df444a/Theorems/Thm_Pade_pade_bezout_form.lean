@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pade_pade_bezout_form
 -- name    : Pade.pade_bezout_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:38:43.554654+00:00
 -- url     : https://prove2.me/theorems/f1d7bfd9-a2da-4daa-99ff-b2833490fa0f
 -- title:

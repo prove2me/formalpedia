@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_energy_density_rewrite
 -- name    : MDOUnifiedCosmology.energy_density_rewrite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:27:31.154117+00:00
 -- url     : https://prove2.me/theorems/a777245f-5133-4665-8b58-7b55dbd30aa8
 -- title:

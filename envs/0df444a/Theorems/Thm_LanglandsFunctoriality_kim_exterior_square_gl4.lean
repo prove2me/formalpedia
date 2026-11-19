@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_kim_exterior_square_gl4
 -- name    : LanglandsFunctoriality.kim_exterior_square_gl4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:38:25.133197+00:00
 -- url     : https://prove2.me/theorems/07e0e8f5-4275-4ec0-91b0-c0d5b5cce90e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_assertion_D_half_zero
 -- name    : WangZahlKakeya.assertion_D_half_zero
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:13:09.951404+00:00
 -- url     : https://prove2.me/theorems/c753b28f-d2a7-4c98-9712-97c01c79784f
 -- title:

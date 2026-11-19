@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GFactorPhysics_classical_gyromagnetic_ratio
 -- name    : GFactorPhysics.classical_gyromagnetic_ratio
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:50:31.381826+00:00
 -- url     : https://prove2.me/theorems/6098d153-7a31-43de-9ade-e2a4981df819
 -- title:

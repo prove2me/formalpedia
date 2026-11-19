@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.tail_propagation
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:32:55.965429+00:00
 -- url     : https://prove2.me/submissions/c901c498-9d48-4b09-8261-6df62bda4459
 

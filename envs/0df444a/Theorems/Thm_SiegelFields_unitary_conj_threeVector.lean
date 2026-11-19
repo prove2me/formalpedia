@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_unitary_conj_threeVector
 -- name    : SiegelFields.unitary_conj_threeVector
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:26:30.944652+00:00
 -- url     : https://prove2.me/theorems/8bac1084-5858-470a-a59c-07f1c5c96267
 -- title:

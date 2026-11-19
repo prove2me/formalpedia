@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_bip_dir_density
 -- name    : DirS.bip_dir_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:24:04.375879+00:00
 -- url     : https://prove2.me/theorems/1a53f039-7fc4-46ec-9176-10ce97a1e02a
 -- title:

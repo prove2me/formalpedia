@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicsOfWater_averageVelocity_poiseuilleProfile
 -- name    : MathematicsOfWater.averageVelocity_poiseuilleProfile
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:58:24.317554+00:00
 -- url     : https://prove2.me/theorems/ef9e03c7-5ecb-46d7-bc98-54690c0342bc
 -- title:

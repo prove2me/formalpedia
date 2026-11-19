@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_exists_isInternalEnergy
 -- name    : FirstLawThermo.exists_isInternalEnergy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:50:23.446353+00:00
 -- url     : https://prove2.me/theorems/b69a0f8d-d1a0-465d-9ed4-302065690b72
 -- title:

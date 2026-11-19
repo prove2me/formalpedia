@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_orientation
 -- name    : Rudin.ch10_orientation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:26:19.488027+00:00
 -- url     : https://prove2.me/theorems/e221befa-70af-4ca5-8db3-e3dbd9983084
 -- title:

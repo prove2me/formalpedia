@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Bagdonaite2013_MethanolMuDrift
 -- name    : Bagdonaite2013_MethanolMuDrift
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T18:53:15.182463+00:00
 -- url     : https://prove2.me/theorems/f82e1c76-034f-4337-8a20-72c8bd76b50b
 -- title:

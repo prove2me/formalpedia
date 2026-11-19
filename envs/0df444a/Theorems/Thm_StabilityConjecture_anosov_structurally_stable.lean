@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StabilityConjecture_anosov_structurally_stable
 -- name    : StabilityConjecture.anosov_structurally_stable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:00:56.403613+00:00
 -- url     : https://prove2.me/theorems/2661a238-7950-465b-ab1a-5a5c1db3d208
 -- title:

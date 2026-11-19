@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CursoEDO.contraction_fixed_point
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T14:07:32.619113+00:00
 -- url     : https://prove2.me/submissions/d581d0cd-75a6-4c3e-8830-b1bf77bbca9f
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LeanTT2_deq_undecidable
 -- name    : LeanTT2.deq_undecidable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T03:08:36.487992+00:00
 -- url     : https://prove2.me/theorems/38befa75-a250-4d91-ae76-e1c82c256630
 -- title:

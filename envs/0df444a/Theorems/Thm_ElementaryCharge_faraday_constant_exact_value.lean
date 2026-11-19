@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_faraday_constant_exact_value
 -- name    : ElementaryCharge.faraday_constant_exact_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:31:23.936713+00:00
 -- url     : https://prove2.me/theorems/1803a71e-d21b-44c8-998d-e3cac2fdec23
 -- title:

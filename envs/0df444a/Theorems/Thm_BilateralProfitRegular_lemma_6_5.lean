@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitRegular_lemma_6_5
 -- name    : BilateralProfitRegular.lemma_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:20:44.194275+00:00
 -- url     : https://prove2.me/theorems/4de32a35-108c-49bd-8033-63ec7c01cd80

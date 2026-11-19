@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDC_witness_inequality
 -- name    : SDC.witness_inequality
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T09:25:27.0055+00:00
 -- url     : https://prove2.me/theorems/784814e7-b373-4c04-9ed4-9da971c63d0a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_strong_shock_downstream_state
 -- name    : AstrophysicalFluidDynamics.strong_shock_downstream_state
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:25:42.770004+00:00
 -- url     : https://prove2.me/theorems/fc6c88b3-7327-4841-8f26-740905c4fc96
 -- title:

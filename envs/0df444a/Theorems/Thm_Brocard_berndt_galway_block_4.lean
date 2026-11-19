@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_berndt_galway_block_4
 -- name    : Brocard.berndt_galway_block_4
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T01:37:09.650994+00:00
 -- url     : https://prove2.me/theorems/e6af5f08-6c81-4c65-826d-9c95f56e0d1c
 -- title:

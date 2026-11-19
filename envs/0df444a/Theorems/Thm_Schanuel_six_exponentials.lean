@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_six_exponentials
 -- name    : Schanuel.six_exponentials
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:33:29.019026+00:00
 -- url     : https://prove2.me/theorems/75ca528d-83e0-43c7-b183-42e42df38b0f
 -- title:

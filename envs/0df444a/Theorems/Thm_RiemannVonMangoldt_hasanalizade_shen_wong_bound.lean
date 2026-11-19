@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RiemannVonMangoldt_hasanalizade_shen_wong_bound
 -- name    : RiemannVonMangoldt.hasanalizade_shen_wong_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T02:12:38.32297+00:00
 -- url     : https://prove2.me/theorems/056d97d5-b475-4c7b-a37a-e017edba7c27
 -- title:

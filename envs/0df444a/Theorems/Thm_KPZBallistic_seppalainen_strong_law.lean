@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KPZBallistic_seppalainen_strong_law
 -- name    : KPZBallistic.seppalainen_strong_law
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:30:53.737158+00:00
 -- url     : https://prove2.me/theorems/a26c9c46-7d5a-4414-949f-b5dd9182fe08
 -- title:

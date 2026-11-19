@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_scalarPartitionFunction_modular_invariant
 -- name    : TongString.scalarPartitionFunction_modular_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T21:55:47.843037+00:00
 -- url     : https://prove2.me/theorems/e4e04ee4-c45f-4a2f-b45e-c0b304dd5f43
 -- title:

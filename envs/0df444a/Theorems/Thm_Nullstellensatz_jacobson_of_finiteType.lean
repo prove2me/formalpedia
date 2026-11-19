@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_jacobson_of_finiteType
 -- name    : Nullstellensatz.jacobson_of_finiteType
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:40:25.558786+00:00
 -- url     : https://prove2.me/theorems/bf07d781-45e9-43f5-8924-15fa1114958d
 -- title:

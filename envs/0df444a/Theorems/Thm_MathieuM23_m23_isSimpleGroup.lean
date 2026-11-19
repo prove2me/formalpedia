@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_m23_isSimpleGroup
 -- name    : MathieuM23.m23_isSimpleGroup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T18:07:00.932975+00:00
 -- url     : https://prove2.me/theorems/7d0ecd8e-62e5-40a0-9aad-341236214477
 -- title:

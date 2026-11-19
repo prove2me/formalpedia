@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawa_born_amplitude
 -- name    : YukawaPotential.yukawa_born_amplitude
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:12:04.386023+00:00
 -- url     : https://prove2.me/theorems/cac02010-9704-4c2f-bd84-7dd039c40dea
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_parseval
 -- name    : Rudin.ch08_parseval
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:34:54.579964+00:00
 -- url     : https://prove2.me/theorems/5efa43bd-6a6a-42b1-8d30-361bab5a0bd6
 -- title:

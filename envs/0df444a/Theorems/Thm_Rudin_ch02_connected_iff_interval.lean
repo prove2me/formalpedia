@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_connected_iff_interval
 -- name    : Rudin.ch02_connected_iff_interval
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:54:16.637403+00:00
 -- url     : https://prove2.me/theorems/814f06ba-18fe-4023-889a-f40fa0b24799
 -- title:

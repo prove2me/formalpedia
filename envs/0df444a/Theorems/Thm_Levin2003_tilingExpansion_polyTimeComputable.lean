@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Levin2003_tilingExpansion_polyTimeComputable
 -- name    : Levin2003.tilingExpansion_polyTimeComputable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:00:14.268076+00:00
 -- url     : https://prove2.me/theorems/eeb6e87c-8c39-44e4-b4cd-549643fe123e
 -- title:

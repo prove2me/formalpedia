@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Mandelbrot.dimH_frontier_mandelbrot_eq_two
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:44:05.262621+00:00
 -- url     : https://prove2.me/submissions/c1721509-a587-4d18-925b-45ddd132985e
 -- note    : a sketch -- it imports a theorem that is still Open,

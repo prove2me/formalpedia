@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StabilityConjecture_mane_C1_stability
 -- name    : StabilityConjecture.mane_C1_stability
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T08:59:33.215986+00:00
 -- url     : https://prove2.me/theorems/66ad2d66-cec9-4456-8f98-5deb7b4cb5b9
 -- title:

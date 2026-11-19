@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for summatory_isBigO_rpow_of_dirichlet_partialSum_tendsto
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:52:58.615701+00:00
 -- url     : https://prove2.me/submissions/fdf49d97-6c31-4058-b292-9227d0d7a5e5
 

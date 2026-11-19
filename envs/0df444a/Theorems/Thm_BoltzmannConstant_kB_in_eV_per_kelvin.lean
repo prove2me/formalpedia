@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_kB_in_eV_per_kelvin
 -- name    : BoltzmannConstant.kB_in_eV_per_kelvin
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T15:34:55.814511+00:00
 -- url     : https://prove2.me/theorems/e0c8bace-ae3e-4f4e-b5ed-0e26f2be6f39
 -- title:

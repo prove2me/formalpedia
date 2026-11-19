@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstWeakDescendingRenewalPotential
 -- name    : Kyprianou.Ch01.firstWeakDescendingRenewalPotential
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:22:16.851391+00:00
 -- url     : https://prove2.me/theorems/d3c1de7a-33c5-447b-8240-9933786c7750

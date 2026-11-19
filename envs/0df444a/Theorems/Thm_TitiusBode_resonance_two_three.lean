@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TitiusBode_resonance_two_three
 -- name    : TitiusBode.resonance_two_three
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:09.368965+00:00
 -- url     : https://prove2.me/theorems/78e1f633-b0d3-4e4f-8fec-c9f3ffe2c0b3
 -- title:

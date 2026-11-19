@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LiouvilleDiffAlg_Basic
 -- name    : LiouvilleDiffAlg_Basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:18:07.537634+00:00
 -- url     : https://prove2.me/theorems/216ed798-f8af-4a7c-abf7-2ee35e476a83
 -- title:

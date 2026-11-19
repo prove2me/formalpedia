@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_prefixes_and_exact_non_si
 -- name    : SI.prefixes_and_exact_non_si
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:54:35.23222+00:00
 -- url     : https://prove2.me/theorems/dbe3771d-e2b4-4ed4-9bda-de230634c8ea
 -- title:

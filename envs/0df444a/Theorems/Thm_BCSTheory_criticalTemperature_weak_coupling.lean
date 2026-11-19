@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCSTheory_criticalTemperature_weak_coupling
 -- name    : BCSTheory.criticalTemperature_weak_coupling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:26.994014+00:00
 -- url     : https://prove2.me/theorems/348b9376-f61a-4ad8-8475-b3c536fe1cd6
 -- title:

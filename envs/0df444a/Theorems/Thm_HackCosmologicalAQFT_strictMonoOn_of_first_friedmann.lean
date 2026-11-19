@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HackCosmologicalAQFT_strictMonoOn_of_first_friedmann
 -- name    : HackCosmologicalAQFT.strictMonoOn_of_first_friedmann
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:56.377554+00:00
 -- url     : https://prove2.me/theorems/76eba280-bd60-4412-8993-62d9ec9c236f
 -- title:

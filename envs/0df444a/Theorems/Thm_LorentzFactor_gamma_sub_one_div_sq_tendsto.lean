@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_gamma_sub_one_div_sq_tendsto
 -- name    : LorentzFactor.gamma_sub_one_div_sq_tendsto
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:24:27.948043+00:00
 -- url     : https://prove2.me/theorems/2485a4bf-905d-4d93-aaf1-41c452358035
 -- title:

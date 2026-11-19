@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GreshamLaw_newton_guinea_arbitrage
 -- name    : GreshamLaw.newton_guinea_arbitrage
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:32:58.731208+00:00
 -- url     : https://prove2.me/theorems/8ba6229a-301e-40fc-8b4a-93f8eb2a9525
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AehligSchwichtenberg2002_lemma_4_3
 -- name    : AehligSchwichtenberg2002.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-30T01:56:53.428115+00:00
 -- url     : https://prove2.me/theorems/870822b8-2c65-4745-a6b0-a99fd5dd1e39

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_stokes_simplex
 -- name    : Rudin.ch10_stokes_simplex
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T02:49:06.37169+00:00
 -- url     : https://prove2.me/theorems/632fa627-0765-46f3-b4b1-588430cbdae7
 -- title:

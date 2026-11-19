@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_polyTimeComputable_tagged_pair
 -- name    : CookPvsNP.polyTimeComputable_tagged_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:43:24.53272+00:00
 -- url     : https://prove2.me/theorems/80c375f0-957d-480b-b06a-16eca99a5026

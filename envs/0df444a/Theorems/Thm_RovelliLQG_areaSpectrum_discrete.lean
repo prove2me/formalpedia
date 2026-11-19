@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RovelliLQG_areaSpectrum_discrete
 -- name    : RovelliLQG.areaSpectrum_discrete
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:31:34.339006+00:00
 -- url     : https://prove2.me/theorems/88a87f49-1853-4cad-8dfe-fa41f466685b
 -- title:

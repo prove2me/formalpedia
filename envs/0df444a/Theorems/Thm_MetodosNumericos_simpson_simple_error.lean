@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_simpson_simple_error
 -- name    : MetodosNumericos.simpson_simple_error
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:47:09.106717+00:00
 -- url     : https://prove2.me/theorems/35639add-d9fa-4a57-ae1f-d9b6c6804c88
 -- title:

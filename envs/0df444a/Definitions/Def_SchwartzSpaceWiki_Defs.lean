@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SchwartzSpaceWiki_Defs
 -- name    : SchwartzSpaceWiki_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:12:08.867473+00:00
 -- url     : https://prove2.me/theorems/f0a1bd2a-af1d-4dee-a30a-b1adae0b8316
 -- title:

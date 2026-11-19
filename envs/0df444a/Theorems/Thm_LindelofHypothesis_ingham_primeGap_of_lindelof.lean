@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_ingham_primeGap_of_lindelof
 -- name    : LindelofHypothesis.ingham_primeGap_of_lindelof
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:50:55.412729+00:00
 -- url     : https://prove2.me/theorems/ac3b5726-e8ef-4ab5-a72e-a272a69936a5
 -- title:

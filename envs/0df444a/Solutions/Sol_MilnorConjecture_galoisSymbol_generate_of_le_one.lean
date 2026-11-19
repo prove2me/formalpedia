@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MilnorConjecture.galoisSymbol_generate_of_le_one
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:46:09.965162+00:00
 -- url     : https://prove2.me/submissions/ff76e8e1-d86a-416f-a164-f4ff1aadae9d
 

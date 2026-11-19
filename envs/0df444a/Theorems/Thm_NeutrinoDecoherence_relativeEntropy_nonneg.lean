@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_relativeEntropy_nonneg
 -- name    : NeutrinoDecoherence.relativeEntropy_nonneg
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T12:04:16.242989+00:00
 -- url     : https://prove2.me/theorems/fc0df0ac-66a5-42f3-913f-2af8c8faf304
 -- title:

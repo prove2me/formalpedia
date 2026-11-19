@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_cwo_iInter_of_deductive
 -- name    : CogCons.cwo_iInter_of_deductive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:15:08.949985+00:00
 -- url     : https://prove2.me/theorems/098f5a1e-a645-4324-9310-7143b41935fe
 -- title:

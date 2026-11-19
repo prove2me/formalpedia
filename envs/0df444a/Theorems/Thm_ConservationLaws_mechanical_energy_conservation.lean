@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_mechanical_energy_conservation
 -- name    : ConservationLaws.mechanical_energy_conservation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:27.564083+00:00
 -- url     : https://prove2.me/theorems/a236db2d-b618-4ff6-8c35-c500a4b667ba
 -- title:

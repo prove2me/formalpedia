@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_isStationaryBlackHole
 -- name    : NoHair.kerrNewman_isStationaryBlackHole
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:59:41.725304+00:00
 -- url     : https://prove2.me/theorems/d4aa60f2-99c7-4a52-9c28-6ba24b2ddbac
 -- title:

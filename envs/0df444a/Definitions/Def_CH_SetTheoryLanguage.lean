@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CH_SetTheoryLanguage
 -- name    : CH_SetTheoryLanguage
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T22:22:46.022978+00:00
 -- url     : https://prove2.me/theorems/6d3c3e12-5f4c-46a6-9768-00f9ff2bf1e3
 -- title:

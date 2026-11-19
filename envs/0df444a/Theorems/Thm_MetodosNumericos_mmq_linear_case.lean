@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_mmq_linear_case
 -- name    : MetodosNumericos.mmq_linear_case
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:05:46.86534+00:00
 -- url     : https://prove2.me/theorems/710f72d4-eee4-4158-a40b-79c5af748219
 -- title:

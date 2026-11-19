@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_evalR_surjective
 -- name    : AnalyticGeometry.evalR_surjective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T13:54:35.576527+00:00
 -- url     : https://prove2.me/theorems/f8a2dd48-dfb9-42d7-8092-26d3af3bf617
 -- title:

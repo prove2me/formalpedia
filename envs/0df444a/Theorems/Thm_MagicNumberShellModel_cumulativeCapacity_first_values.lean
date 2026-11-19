@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MagicNumberShellModel_cumulativeCapacity_first_values
 -- name    : MagicNumberShellModel.cumulativeCapacity_first_values
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:38:08.882299+00:00
 -- url     : https://prove2.me/theorems/b8708a83-a906-4608-972c-c72cf044b73c
 -- title:

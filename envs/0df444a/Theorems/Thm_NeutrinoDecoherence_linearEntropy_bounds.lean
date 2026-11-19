@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_linearEntropy_bounds
 -- name    : NeutrinoDecoherence.linearEntropy_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T11:35:54.462591+00:00
 -- url     : https://prove2.me/theorems/452d7ea3-4990-4b61-b0c3-f6a87657520d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GoodmanWitten_basic
 -- name    : GoodmanWitten_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:50:20.518605+00:00
 -- url     : https://prove2.me/theorems/ed8b076e-c3ca-474c-8f72-a8c9447e253b
 -- title:

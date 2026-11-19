@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Wigner_hudson
 -- name    : Wigner.hudson
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:52:46.466481+00:00
 -- url     : https://prove2.me/theorems/c736dca5-241c-47dd-ad40-d8a301cc0436
 -- title:

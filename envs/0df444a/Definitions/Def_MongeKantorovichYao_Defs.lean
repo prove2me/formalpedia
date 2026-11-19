@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MongeKantorovichYao_Defs
 -- name    : MongeKantorovichYao_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:28:08.158798+00:00
 -- url     : https://prove2.me/theorems/5950dd79-ba0d-412e-9d41-805c0a57764a
 -- title:

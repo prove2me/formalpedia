@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_cognitiveClosure_of_cwo
 -- name    : CogCons.cognitiveClosure_of_cwo
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:28:09.681364+00:00
 -- url     : https://prove2.me/theorems/42aa8b37-ae75-4d44-94fd-bbdb81aa0b25
 -- title:

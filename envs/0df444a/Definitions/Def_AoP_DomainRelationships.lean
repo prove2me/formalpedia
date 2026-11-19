@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AoP_DomainRelationships
 -- name    : AoP_DomainRelationships
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:18:18.829805+00:00
 -- url     : https://prove2.me/theorems/d52c5498-2630-4769-8433-3a5a21cd43ed
 -- title:

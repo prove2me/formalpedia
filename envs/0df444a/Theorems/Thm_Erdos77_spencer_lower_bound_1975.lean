@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_lower_bound_1975
 -- name    : Erdos77.spencer_lower_bound_1975
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:22:54.11311+00:00
 -- url     : https://prove2.me/theorems/1c568c68-83e6-4416-a750-3da64454040a
 -- title:

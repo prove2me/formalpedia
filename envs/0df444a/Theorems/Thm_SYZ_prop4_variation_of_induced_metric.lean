@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SYZ_prop4_variation_of_induced_metric
 -- name    : SYZ.prop4_variation_of_induced_metric
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T03:59:36.125256+00:00
 -- url     : https://prove2.me/theorems/467e10f4-d69b-46e7-8f2e-fd052fd420cb
 -- title:

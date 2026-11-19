@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_7_9_lifting_bounded_bottom
 -- name    : SemAC02.Supplement.theorem_7_9_lifting_bounded_bottom
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:53:55.896698+00:00
 -- url     : https://prove2.me/theorems/aec339f7-3552-4719-885b-24f87354a00c

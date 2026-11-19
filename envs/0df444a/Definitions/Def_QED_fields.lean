@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_QED_fields
 -- name    : QED_fields
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:06:39.189243+00:00
 -- url     : https://prove2.me/theorems/a78e2b52-2134-4dea-9f1b-3350a09f9eb0
 -- title:

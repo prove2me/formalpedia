@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_lomonosov
 -- name    : InvariantSubspaceProblem.lomonosov
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T17:25:02.531002+00:00
 -- url     : https://prove2.me/theorems/5fd3baa2-4af7-49e1-bcf2-0c51cc14f599
 -- title:

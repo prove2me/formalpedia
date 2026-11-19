@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlmostKing_Query_observation_10
 -- name    : AlmostKing.Query.observation_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:51:48.276134+00:00
 -- url     : https://prove2.me/theorems/898f2069-2c99-4f8d-b57a-136d4eac7145

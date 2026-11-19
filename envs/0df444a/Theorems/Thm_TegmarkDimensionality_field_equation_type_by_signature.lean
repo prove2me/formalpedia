@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_field_equation_type_by_signature
 -- name    : TegmarkDimensionality.field_equation_type_by_signature
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:12:17.412468+00:00
 -- url     : https://prove2.me/theorems/10722f0c-784e-43f6-9607-398b26de7e91
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueSignal_unique_crossing
 -- name    : QueueSignal.unique_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:44.403101+00:00
 -- url     : https://prove2.me/theorems/fc395667-50a2-4207-b3f7-071a0105088b

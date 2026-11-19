@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for UndecidableSpectralGap.usg_gs_energy_halting_threshold
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T13:44:57.680835+00:00
 -- url     : https://prove2.me/submissions/bd7effd7-f37c-4d6e-a809-8b1ff204de53
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_inverse_function
 -- name    : Rudin.ch09_inverse_function
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:25:45.947485+00:00
 -- url     : https://prove2.me/theorems/70a6a30b-c3e6-4746-9369-6c60672c09dc
 -- title:

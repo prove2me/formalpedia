@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ABOThreshold_sparse_prob_ge
 -- name    : ABOThreshold.sparse_prob_ge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:41:33.178376+00:00
 -- url     : https://prove2.me/theorems/71d07c06-85aa-46f6-bedb-549c70715a4b
 -- title:

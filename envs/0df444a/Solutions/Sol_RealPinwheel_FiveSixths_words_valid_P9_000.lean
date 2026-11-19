@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RealPinwheel.FiveSixths.words_valid_P9_000
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T05:50:40.527196+00:00
 -- url     : https://prove2.me/submissions/c42a3ae0-7d1e-4ca8-92db-3ca10b424758
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RealPinwheel_FiveSixths_witnessCheck_sound
 import Definitions.Def_RealPinwheel_FiveSixths_CodeFunctionP9

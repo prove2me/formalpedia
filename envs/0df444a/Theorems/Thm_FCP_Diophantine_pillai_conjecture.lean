@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Diophantine_pillai_conjecture
 -- name    : FCP.Diophantine.pillai_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:27:23.414068+00:00
 -- url     : https://prove2.me/theorems/327271e8-2034-447a-ac9a-ac595d24aaa1
 -- title:

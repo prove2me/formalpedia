@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_external_energy_eq_density_pairing
 -- name    : DFT.external_energy_eq_density_pairing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:08:46.601042+00:00
 -- url     : https://prove2.me/theorems/d83cc381-8529-4b6c-a187-06ac2d650dd3
 -- title:

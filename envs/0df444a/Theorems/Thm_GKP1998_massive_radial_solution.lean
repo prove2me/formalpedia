@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GKP1998_massive_radial_solution
 -- name    : GKP1998.massive_radial_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:52:23.879184+00:00
 -- url     : https://prove2.me/theorems/db807afc-e61c-4db3-b5c5-8cb99decc6e0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_thm_1_8_richer_transitive_anosov
 -- name    : AnosovPlugs.thm_1_8_richer_transitive_anosov
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T03:25:04.563255+00:00
 -- url     : https://prove2.me/theorems/509a7ee2-2856-4f33-bca5-192125771742
 -- title:

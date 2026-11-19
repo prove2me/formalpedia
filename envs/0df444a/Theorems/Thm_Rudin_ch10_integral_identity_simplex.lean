@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_integral_identity_simplex
 -- name    : Rudin.ch10_integral_identity_simplex
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T03:22:58.180986+00:00
 -- url     : https://prove2.me/theorems/27e0d74b-4230-4548-981a-fd60f56ba97e
 -- title:

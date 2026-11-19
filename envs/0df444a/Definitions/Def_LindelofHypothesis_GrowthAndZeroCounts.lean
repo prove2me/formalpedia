@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LindelofHypothesis_GrowthAndZeroCounts
 -- name    : LindelofHypothesis_GrowthAndZeroCounts
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:34:02.838438+00:00
 -- url     : https://prove2.me/theorems/23b5d3a5-e99c-4668-b239-d1ceae259203
 -- title:

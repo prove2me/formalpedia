@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_cpl_ba_behaviour
 -- name    : DarkEnergyLCDM.cpl_ba_behaviour
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:09:34.944439+00:00
 -- url     : https://prove2.me/theorems/116ce347-fd73-49a5-ba6a-6e76902a52e5
 -- title:

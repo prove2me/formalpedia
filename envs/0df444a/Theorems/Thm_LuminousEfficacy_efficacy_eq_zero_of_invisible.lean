@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_efficacy_eq_zero_of_invisible
 -- name    : LuminousEfficacy.efficacy_eq_zero_of_invisible
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:34:05.049342+00:00
 -- url     : https://prove2.me/theorems/87d73efa-fb22-4605-8fcf-0cc86fa6495d
 -- title:

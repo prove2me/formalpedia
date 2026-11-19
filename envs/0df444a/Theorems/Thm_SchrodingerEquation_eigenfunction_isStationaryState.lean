@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchrodingerEquation_eigenfunction_isStationaryState
 -- name    : SchrodingerEquation.eigenfunction_isStationaryState
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T19:40:00.188427+00:00
 -- url     : https://prove2.me/theorems/38503d2b-17b7-48d0-a028-e17afeaf9953
 -- title:

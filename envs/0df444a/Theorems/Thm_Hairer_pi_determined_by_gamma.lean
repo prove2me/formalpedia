@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Hairer_pi_determined_by_gamma
 -- name    : Hairer.pi_determined_by_gamma
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:46:02.416717+00:00
 -- url     : https://prove2.me/theorems/d9e5e268-9d8a-4af4-8e74-09a0ac484e88
 -- title:

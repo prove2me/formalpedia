@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_zudilin_phi_nonneg_periodic
 -- name    : ZudilinZeta.zudilin_phi_nonneg_periodic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:17:24.877127+00:00
 -- url     : https://prove2.me/theorems/50e8aa3f-e0f8-4763-a5d7-fd9ecca1887b
 -- title:

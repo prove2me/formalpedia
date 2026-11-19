@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BraidsLinksMCG_ArtinBraidGroup
 -- name    : BraidsLinksMCG_ArtinBraidGroup
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:52:46.34006+00:00
 -- url     : https://prove2.me/theorems/e767e05b-9946-4c2c-a259-005f59d01f52
 -- title:

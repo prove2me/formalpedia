@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_heron_law_of_reflection
 -- name    : StationaryAction.heron_law_of_reflection
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:42:50.077794+00:00
 -- url     : https://prove2.me/theorems/c2c03d3c-2348-4fd2-b166-26fa6bc2f558
 -- title:

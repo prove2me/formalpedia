@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WittenAdSHolography_Defs
 -- name    : WittenAdSHolography_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:23:09.099747+00:00
 -- url     : https://prove2.me/theorems/7a32bf36-b65c-4114-86bc-633e26ab871e
 -- title:

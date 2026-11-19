@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_signature_real_quaternionic_cubic
 -- name    : HardyFiveAxioms.signature_real_quaternionic_cubic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T19:34:06.397841+00:00
 -- url     : https://prove2.me/theorems/7bf6598d-b1d5-4b19-997b-2a4c1e6f88d5
 -- title:

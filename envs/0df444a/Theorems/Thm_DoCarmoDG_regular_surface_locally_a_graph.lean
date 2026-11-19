@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_regular_surface_locally_a_graph
 -- name    : DoCarmoDG.regular_surface_locally_a_graph
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:34:08.205305+00:00
 -- url     : https://prove2.me/theorems/3ad3b8f2-1d65-4585-828e-70b68fbce7e5
 -- title:

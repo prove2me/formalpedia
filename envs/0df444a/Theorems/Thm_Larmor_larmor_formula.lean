@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_larmor_formula
 -- name    : Larmor.larmor_formula
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:21:59.390927+00:00
 -- url     : https://prove2.me/theorems/4610bb29-7ba7-4c12-8969-ab6767fa50c2
 -- title:

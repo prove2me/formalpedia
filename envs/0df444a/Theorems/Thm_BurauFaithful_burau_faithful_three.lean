@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_burau_faithful_three
 -- name    : BurauFaithful.burau_faithful_three
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T20:28:52.457162+00:00
 -- url     : https://prove2.me/theorems/23a47d2f-444e-4d20-8b7b-1146b7519713
 -- title:

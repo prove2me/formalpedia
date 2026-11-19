@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GFactorPhysics_orbital_moment_z_component
 -- name    : GFactorPhysics.orbital_moment_z_component
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:46:56.237017+00:00
 -- url     : https://prove2.me/theorems/3871be20-64ab-411e-baf6-2a0884ded62a
 -- title:

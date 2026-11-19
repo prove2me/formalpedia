@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_galeShapley_man_optimal
 -- name    : StableMatching.galeShapley_man_optimal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:34:24.422817+00:00
 -- url     : https://prove2.me/theorems/870697b6-5d6c-4fc4-8132-17dd98c1fb01
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_trivial_braids_subgroup
 -- name    : HGL.trivial_braids_subgroup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:07:36.636833+00:00
 -- url     : https://prove2.me/theorems/06cf3cac-05cb-4fc0-a359-7732f8274352
 -- title:

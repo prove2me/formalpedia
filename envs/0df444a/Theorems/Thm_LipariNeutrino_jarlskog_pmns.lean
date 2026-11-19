@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_jarlskog_pmns
 -- name    : LipariNeutrino.jarlskog_pmns
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T11:36:37.826951+00:00
 -- url     : https://prove2.me/theorems/7a71268b-cd34-474f-ae50-276d1927d152
 -- title:

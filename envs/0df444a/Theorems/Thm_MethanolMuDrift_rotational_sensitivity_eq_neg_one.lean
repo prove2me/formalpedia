@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MethanolMuDrift_rotational_sensitivity_eq_neg_one
 -- name    : MethanolMuDrift.rotational_sensitivity_eq_neg_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:19:03.939061+00:00
 -- url     : https://prove2.me/theorems/f253c9b5-4266-459c-8e08-67578801b963
 -- title:

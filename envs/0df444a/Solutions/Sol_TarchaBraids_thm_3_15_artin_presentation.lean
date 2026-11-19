@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for TarchaBraids.thm_3_15_artin_presentation
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T05:36:02.073978+00:00
 -- url     : https://prove2.me/submissions/1c92bf2c-90f6-428f-97cb-95c89f2e7a86
 

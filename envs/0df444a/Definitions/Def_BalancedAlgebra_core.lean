@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BalancedAlgebra_core
 -- name    : BalancedAlgebra_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:25:05.85999+00:00
 -- url     : https://prove2.me/theorems/f7a6ec61-db98-4c93-a38a-6645e9969a85
 -- title:

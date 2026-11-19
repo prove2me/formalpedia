@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OmegaLogic_omega_soundness
 -- name    : OmegaLogic.omega_soundness
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T16:34:09.408268+00:00
 -- url     : https://prove2.me/theorems/1c8e0aed-e608-4768-9b13-2b015f3e006f
 -- title:

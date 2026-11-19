@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_dewitt_single_observable_limit
 -- name    : AKR2008.dewitt_single_observable_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:34:21.688929+00:00
 -- url     : https://prove2.me/theorems/c8b97b3b-f21b-476d-aa73-b88035cb6b3e
 -- title:

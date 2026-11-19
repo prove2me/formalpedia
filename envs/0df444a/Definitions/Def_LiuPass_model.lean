@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LiuPass_model
 -- name    : LiuPass_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:23:19.432417+00:00
 -- url     : https://prove2.me/theorems/8f65df09-e026-4b0d-821e-04ff59996e21
 -- title:

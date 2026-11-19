@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ZudilinZetaArith
 -- name    : ZudilinZetaArith
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:16:07.099003+00:00
 -- url     : https://prove2.me/theorems/e00f753a-9f5b-45c0-921f-8dc6fba749fe
 -- title:

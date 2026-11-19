@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermiteLaptop_MaxAgree_eq_8_9
 -- name    : HermiteLaptop.MaxAgree.eq_8_9
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:17:23.724217+00:00
 -- url     : https://prove2.me/theorems/dbd2ca16-9798-4019-8b99-ef3333de07be

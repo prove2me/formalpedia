@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RelPartMech_poisson_kinetic_momenta
 -- name    : RelPartMech.poisson_kinetic_momenta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:06:17.925983+00:00
 -- url     : https://prove2.me/theorems/0ea2510b-700e-44cb-8b06-72f0fed1b6ee
 -- title:

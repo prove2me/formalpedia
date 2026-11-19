@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_criterion
 -- name    : Gilbreath.criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:51:23.840615+00:00
 -- url     : https://prove2.me/theorems/f819f6ad-bd3b-4fbc-bbc1-94ee63c7418b
 -- title:

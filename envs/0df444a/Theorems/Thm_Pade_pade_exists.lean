@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pade_pade_exists
 -- name    : Pade.pade_exists
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:28:06.957715+00:00
 -- url     : https://prove2.me/theorems/a1ac5071-9c5f-4732-b3ff-0f555a0c1d8f
 -- title:

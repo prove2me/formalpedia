@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PFRelease_proposition_A_9_lower
 -- name    : PFRelease.proposition_A_9_lower
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:44:03.634635+00:00
 -- url     : https://prove2.me/theorems/db824d27-8c6a-47c1-b5ee-b08140217f24

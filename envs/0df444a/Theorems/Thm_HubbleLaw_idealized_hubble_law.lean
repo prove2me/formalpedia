@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_idealized_hubble_law
 -- name    : HubbleLaw.idealized_hubble_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:19:00.905244+00:00
 -- url     : https://prove2.me/theorems/f112bbf5-3ef9-489f-b88b-43182996dd5b
 -- title:

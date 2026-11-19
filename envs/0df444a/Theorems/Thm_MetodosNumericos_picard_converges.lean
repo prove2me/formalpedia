@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_picard_converges
 -- name    : MetodosNumericos.picard_converges
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:51:23.305368+00:00
 -- url     : https://prove2.me/theorems/a25edf45-b5fe-41fc-b52e-41f925b81dd9
 -- title:

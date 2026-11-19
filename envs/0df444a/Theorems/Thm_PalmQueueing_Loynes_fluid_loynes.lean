@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Loynes_fluid_loynes
 -- name    : PalmQueueing.Loynes.fluid_loynes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:47:17.60763+00:00
 -- url     : https://prove2.me/theorems/56144c5f-d920-4d23-b3f4-fe085180587b

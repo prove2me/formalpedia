@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RuralHospitals_Market
 -- name    : RuralHospitals_Market
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T15:15:47.275185+00:00
 -- url     : https://prove2.me/theorems/c6cd3603-b024-4470-b1d6-42ec04f760ac
 -- title:

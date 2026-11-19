@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawaPotential_inverse_fourier
 -- name    : YukawaPotential.yukawaPotential_inverse_fourier
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T13:41:57.648975+00:00
 -- url     : https://prove2.me/theorems/fa5c0f4b-ed63-4691-a792-58c5e8c29b3a
 -- title:

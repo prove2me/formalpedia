@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_chiSquaredHartlap_eq_scaled
 -- name    : SZFilaments.chiSquaredHartlap_eq_scaled
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:54:32.535485+00:00
 -- url     : https://prove2.me/theorems/1232b5d2-d1a9-44ae-8e8c-0980321d78ac
 -- title:

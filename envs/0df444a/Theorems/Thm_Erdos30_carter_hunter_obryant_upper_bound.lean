@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos30_carter_hunter_obryant_upper_bound
 -- name    : Erdos30.carter_hunter_obryant_upper_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:57:35.638398+00:00
 -- url     : https://prove2.me/theorems/8b1818fa-f15d-4139-9943-710622512c2b
 -- title:

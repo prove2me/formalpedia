@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NRLFormulary_rotheA_convolution
 -- name    : NRLFormulary.rotheA_convolution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:07:28.781766+00:00
 -- url     : https://prove2.me/theorems/c92bfb4c-bba3-4e73-9d4d-ca3642e6eca6
 -- title:

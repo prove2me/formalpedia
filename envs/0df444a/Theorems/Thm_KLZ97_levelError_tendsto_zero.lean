@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KLZ97_levelError_tendsto_zero
 -- name    : KLZ97.levelError_tendsto_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T12:35:06.91401+00:00
 -- url     : https://prove2.me/theorems/ef60ac24-6577-41ae-a2e3-7e2323244643
 -- title:

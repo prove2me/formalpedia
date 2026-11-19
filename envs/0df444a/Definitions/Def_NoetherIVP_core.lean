@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NoetherIVP_core
 -- name    : NoetherIVP_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:38:44.133236+00:00
 -- url     : https://prove2.me/theorems/9497fa87-869d-4fab-8e88-df8a657a5784
 -- title:

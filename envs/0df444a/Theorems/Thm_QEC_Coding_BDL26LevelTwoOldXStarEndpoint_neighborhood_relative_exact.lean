@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoOldXStarEndpoint_neighborhood_relative_exact
 -- name    : QEC.Coding.BDL26LevelTwoOldXStarEndpoint.neighborhood_relative_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:48:32.921887+00:00
 -- url     : https://prove2.me/theorems/11d65313-ce03-43de-b972-59b33441a143

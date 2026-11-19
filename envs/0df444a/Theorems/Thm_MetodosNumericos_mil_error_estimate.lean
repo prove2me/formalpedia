@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_mil_error_estimate
 -- name    : MetodosNumericos.mil_error_estimate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:08:36.009318+00:00
 -- url     : https://prove2.me/theorems/dde7d848-a24f-4584-b24f-4d270c140ec5
 -- title:

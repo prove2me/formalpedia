@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_riemann_hypothesis
 -- name    : WeilConjectures.riemann_hypothesis
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:04:47.739137+00:00
 -- url     : https://prove2.me/theorems/6ebaa872-1d55-4ba1-86b9-0d346f8dbaff
 -- title:

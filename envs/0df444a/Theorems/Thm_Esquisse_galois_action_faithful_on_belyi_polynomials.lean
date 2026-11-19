@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Esquisse_galois_action_faithful_on_belyi_polynomials
 -- name    : Esquisse.galois_action_faithful_on_belyi_polynomials
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T22:02:38.653629+00:00
 -- url     : https://prove2.me/theorems/92738160-f653-40ce-aaf0-99af4750ad2b
 -- title:

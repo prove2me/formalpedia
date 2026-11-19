@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Def_CAH21_NeuralNetworks
 -- name    : Def_CAH21_NeuralNetworks
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:18:44.196503+00:00
 -- url     : https://prove2.me/theorems/f62a935a-04dd-48c2-8354-6c8a4bb68d28
 -- title:

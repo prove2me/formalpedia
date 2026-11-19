@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for nontrivial_zero_strip_of_moebius_summatory_power_bound
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:22:29.267976+00:00
 -- url     : https://prove2.me/submissions/ca3e45ed-ecb6-4f5a-82de-8cad9d580bec
 

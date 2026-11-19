@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UndecidableSpectralGap_usg_gap_unconstrained_dimension
 -- name    : UndecidableSpectralGap.usg_gap_unconstrained_dimension
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:54:15.552889+00:00
 -- url     : https://prove2.me/theorems/c1b3dedf-44da-40fd-848e-a8be34cc67be
 -- title:

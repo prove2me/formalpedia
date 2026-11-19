@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_lemma_3_6_uniform_lipschitz
 -- name    : ValuativeSYZ.lemma_3_6_uniform_lipschitz
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:46:02.564798+00:00
 -- url     : https://prove2.me/theorems/62f9637f-1c24-431e-a0c5-efce3e73a3f4
 -- title:

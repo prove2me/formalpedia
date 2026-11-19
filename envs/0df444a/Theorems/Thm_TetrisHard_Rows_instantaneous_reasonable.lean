@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TetrisHard_Rows_instantaneous_reasonable
 -- name    : TetrisHard.Rows.instantaneous_reasonable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T22:56:49.476923+00:00
 -- url     : https://prove2.me/theorems/6a8bf228-c0e4-4a9a-860b-18d6d8e77e58

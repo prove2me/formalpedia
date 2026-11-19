@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_pinwheel_conjecture
 -- name    : pinwheel_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-06-01T02:17:05.075695+00:00
 -- url     : https://prove2.me/theorems/59e12d95-44f8-4de0-ab66-735cd50e1ce7

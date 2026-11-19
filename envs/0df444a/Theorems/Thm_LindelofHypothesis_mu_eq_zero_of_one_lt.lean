@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_eq_zero_of_one_lt
 -- name    : LindelofHypothesis.mu_eq_zero_of_one_lt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:35:55.420237+00:00
 -- url     : https://prove2.me/theorems/552870a9-e9e2-480f-85f3-707f70acb408
 -- title:

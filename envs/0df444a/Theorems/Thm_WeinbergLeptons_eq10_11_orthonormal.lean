@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_eq10_11_orthonormal
 -- name    : WeinbergLeptons.eq10_11_orthonormal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:52:08.043545+00:00
 -- url     : https://prove2.me/theorems/16042ec1-ddd2-4331-b153-fc584d668260
 -- title:

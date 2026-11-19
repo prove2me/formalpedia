@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_conj_vecToMatrix_eq_rotationOf
 -- name    : SiegelFields.conj_vecToMatrix_eq_rotationOf
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:54:34.832807+00:00
 -- url     : https://prove2.me/theorems/c6a1863d-9595-4c41-87f7-27756558dcc4
 -- title:

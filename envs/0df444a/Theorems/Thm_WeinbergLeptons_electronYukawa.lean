@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_electronYukawa
 -- name    : WeinbergLeptons.electronYukawa
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:23:08.00506+00:00
 -- url     : https://prove2.me/theorems/ce268687-d639-4893-9deb-3d63b6b9645b
 -- title:

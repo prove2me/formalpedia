@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KLZ97_model
 -- name    : KLZ97_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T12:27:33.157182+00:00
 -- url     : https://prove2.me/theorems/676cff5b-a989-4893-a624-1bc5d263cb22
 -- title:

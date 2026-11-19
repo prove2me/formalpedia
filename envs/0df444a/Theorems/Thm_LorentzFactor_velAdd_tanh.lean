@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_velAdd_tanh
 -- name    : LorentzFactor.velAdd_tanh
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:23:40.144958+00:00
 -- url     : https://prove2.me/theorems/ba25c4bd-5599-4185-9101-df3b1f69e0d7
 -- title:

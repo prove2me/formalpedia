@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_boost_mul_boost
 -- name    : LorentzFactor.boost_mul_boost
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:54:33.945708+00:00
 -- url     : https://prove2.me/theorems/d380c941-881a-488f-a74c-fa2d337512a5
 -- title:

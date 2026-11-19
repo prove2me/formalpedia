@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for WhitneyEmbedding.strong_embedding_from_closed_weak_embedding
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T17:20:44.26321+00:00
 -- url     : https://prove2.me/submissions/f0182719-7165-4de4-8ec0-9d25f5b61255
 -- note    : a sketch -- it imports a theorem that is still Open,

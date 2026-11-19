@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.ed_num_partD
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:37:07.627334+00:00
 -- url     : https://prove2.me/submissions/271e6c59-77ff-470d-856c-fdbb5e7ee65d
 

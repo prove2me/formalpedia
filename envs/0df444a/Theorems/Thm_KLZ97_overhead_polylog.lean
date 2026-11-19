@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KLZ97_overhead_polylog
 -- name    : KLZ97.overhead_polylog
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:17:13.594028+00:00
 -- url     : https://prove2.me/theorems/34b1fc98-05de-4f03-863e-53483badc724
 -- title:

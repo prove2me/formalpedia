@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_E_isElliptic
 -- name    : ECDLP.E_isElliptic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:43:53.561369+00:00
 -- url     : https://prove2.me/theorems/7f74b2c6-9349-4677-bb77-1464a384ff05
 -- title:

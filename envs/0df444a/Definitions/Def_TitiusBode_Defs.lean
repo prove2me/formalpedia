@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TitiusBode_Defs
 -- name    : TitiusBode_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:26:14.926242+00:00
 -- url     : https://prove2.me/theorems/8f5c852b-a841-4b42-a1a5-d0d1ffac3367
 -- title:

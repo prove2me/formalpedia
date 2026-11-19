@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_horizonAngularVelocity_eq_radii
 -- name    : KerrBlackHoleThermo.horizonAngularVelocity_eq_radii
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:41:50.236989+00:00
 -- url     : https://prove2.me/theorems/980f565f-11ba-458c-879a-5719262cd7f7
 -- title:

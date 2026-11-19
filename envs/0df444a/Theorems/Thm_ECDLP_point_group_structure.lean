@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_point_group_structure
 -- name    : ECDLP.point_group_structure
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:44:55.891949+00:00
 -- url     : https://prove2.me/theorems/bd14d0fe-02b6-4ad9-a818-99856b095cdf
 -- title:

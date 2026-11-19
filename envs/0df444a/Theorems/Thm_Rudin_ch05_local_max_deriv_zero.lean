@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_local_max_deriv_zero
 -- name    : Rudin.ch05_local_max_deriv_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:04:47.602432+00:00
 -- url     : https://prove2.me/theorems/110f7206-f42d-464b-9a00-a8d381da315a
 -- title:

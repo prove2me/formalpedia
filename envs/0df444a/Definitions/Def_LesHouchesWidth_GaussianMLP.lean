@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LesHouchesWidth_GaussianMLP
 -- name    : LesHouchesWidth_GaussianMLP
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:55:59.952022+00:00
 -- url     : https://prove2.me/theorems/cc949131-a8ea-40ce-ad0c-2cb9fb491878
 -- title:

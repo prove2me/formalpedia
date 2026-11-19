@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_sch_of_gch
 -- name    : SingularCardinals.sch_of_gch
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:48:12.745973+00:00
 -- url     : https://prove2.me/theorems/c8f6583c-632b-4b7a-9ca0-10147cbb405b
 -- title:

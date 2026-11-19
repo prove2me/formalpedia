@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SmoothSchoenflies_basic
 -- name    : SmoothSchoenflies_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:24:54.638176+00:00
 -- url     : https://prove2.me/theorems/13b00304-8e0e-47cd-9e3c-9e77cef65f38
 -- title:

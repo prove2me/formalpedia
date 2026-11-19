@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_secondCountable_naturalTopology
 -- name    : AssumptionsOfPhysics.secondCountable_naturalTopology
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:40:53.467762+00:00
 -- url     : https://prove2.me/theorems/4a733b95-b6ff-4160-9635-cfdbfc82b59b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.second_column
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:36:42.052516+00:00
 -- url     : https://prove2.me/submissions/af1a3265-15a6-4538-9f10-ad67bdc4265a
 -- note    : a sketch -- it imports a theorem that is still Open,

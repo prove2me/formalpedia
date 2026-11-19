@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UndecidableSpectralGap_usg_gs_energy_halting_threshold
 -- name    : UndecidableSpectralGap.usg_gs_energy_halting_threshold
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:01:15.876908+00:00
 -- url     : https://prove2.me/theorems/821998eb-94f7-412e-957a-f5cbd41c0427
 -- title:

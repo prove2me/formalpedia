@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_poincareEmbedding_bijOn
 -- name    : Maldacena1999.poincareEmbedding_bijOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:17:16.332855+00:00
 -- url     : https://prove2.me/theorems/70a8d160-9bd1-4ab8-9244-a2e5ced1b0d0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_fundamental_theorem_existence
 -- name    : DoCarmoDG.fundamental_theorem_existence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:54:51.225307+00:00
 -- url     : https://prove2.me/theorems/b9c47910-5626-4638-a22e-0eec68c0786f
 -- title:

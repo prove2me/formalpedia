@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCT_lmr_dcBar_lower_bound
 -- name    : GCT.lmr_dcBar_lower_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:17:07.664955+00:00
 -- url     : https://prove2.me/theorems/50155aa7-ef1e-43b8-a814-1d30d3314645
 -- title:

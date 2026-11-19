@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_groverIteration_rotation
 -- name    : GroverWiki.groverIteration_rotation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:38:40.429295+00:00
 -- url     : https://prove2.me/theorems/c65a4150-4d96-487b-baac-12375fa0fa68
 -- title:

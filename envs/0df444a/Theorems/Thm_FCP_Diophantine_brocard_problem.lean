@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Diophantine_brocard_problem
 -- name    : FCP.Diophantine.brocard_problem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:23:06.923525+00:00
 -- url     : https://prove2.me/theorems/7f39ede6-58f7-41a5-a455-65a5448d9fe7
 -- title:

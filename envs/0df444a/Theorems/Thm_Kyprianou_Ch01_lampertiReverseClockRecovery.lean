@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_lampertiReverseClockRecovery
 -- name    : Kyprianou.Ch01.lampertiReverseClockRecovery
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:17:35.049285+00:00
 -- url     : https://prove2.me/theorems/4c9a6a9d-9048-4a0f-89bb-ddaf400174a5

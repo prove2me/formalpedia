@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NoetherIVP.converse_divergence
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T16:14:49.766212+00:00
 -- url     : https://prove2.me/submissions/0c0b7de2-6b7d-4f3b-ac3b-4ac6de6d82cf
 

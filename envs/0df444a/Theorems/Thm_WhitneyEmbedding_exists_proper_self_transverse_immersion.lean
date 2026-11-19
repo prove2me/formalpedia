@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_exists_proper_self_transverse_immersion
 -- name    : WhitneyEmbedding.exists_proper_self_transverse_immersion
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T17:17:31.54898+00:00
 -- url     : https://prove2.me/theorems/a1c2914a-d59b-4425-8804-cfa83730270c
 -- title:

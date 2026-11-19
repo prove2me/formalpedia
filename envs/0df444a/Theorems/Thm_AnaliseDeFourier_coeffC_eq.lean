@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnaliseDeFourier_coeffC_eq
 -- name    : AnaliseDeFourier.coeffC_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:49:07.006188+00:00
 -- url     : https://prove2.me/theorems/2ab0eae6-5899-459c-b475-db955a30172e
 -- title:

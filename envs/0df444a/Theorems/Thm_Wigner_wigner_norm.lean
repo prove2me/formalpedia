@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Wigner_wigner_norm
 -- name    : Wigner.wigner_norm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:50:39.789733+00:00
 -- url     : https://prove2.me/theorems/5f27eb6b-32b9-4c0b-876d-e69c597841d5
 -- title:

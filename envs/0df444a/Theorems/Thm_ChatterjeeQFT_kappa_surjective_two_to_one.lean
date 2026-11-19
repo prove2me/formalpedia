@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_kappa_surjective_two_to_one
 -- name    : ChatterjeeQFT.kappa_surjective_two_to_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:40:01.754578+00:00
 -- url     : https://prove2.me/theorems/00751584-502d-4da1-a8ca-5bb7de24d6b6
 -- title:

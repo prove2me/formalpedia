@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_gribov_region_model
 -- name    : gribov_region_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T17:55:31.732536+00:00
 -- url     : https://prove2.me/theorems/31699884-acd3-4f9d-a8ae-413bb00d5732
 -- title:

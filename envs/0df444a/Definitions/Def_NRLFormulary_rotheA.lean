@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NRLFormulary_rotheA
 -- name    : NRLFormulary_rotheA
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:44:16.588901+00:00
 -- url     : https://prove2.me/theorems/5ab1a7e1-e7a7-4c47-a58e-2534c70915cf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_stable_matchings_distribLattice
 -- name    : StableMatching.stable_matchings_distribLattice
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:45:03.749856+00:00
 -- url     : https://prove2.me/theorems/ac203a16-b807-4893-885e-d30f6e638106
 -- title:

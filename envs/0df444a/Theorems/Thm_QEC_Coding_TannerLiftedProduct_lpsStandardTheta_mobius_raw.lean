@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsStandardTheta_mobius_raw
 -- name    : QEC.Coding.TannerLiftedProduct.lpsStandardTheta_mobius_raw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-06T23:48:57.816486+00:00
 -- url     : https://prove2.me/theorems/ea34f96a-e01d-4d99-91c2-af65b0af390b

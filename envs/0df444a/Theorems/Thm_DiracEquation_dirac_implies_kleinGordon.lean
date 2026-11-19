@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DiracEquation_dirac_implies_kleinGordon
 -- name    : DiracEquation.dirac_implies_kleinGordon
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T19:41:15.894993+00:00
 -- url     : https://prove2.me/theorems/d42777e8-7075-408b-94f5-335456145db3
 -- title:

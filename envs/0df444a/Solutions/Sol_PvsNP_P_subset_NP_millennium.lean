@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PvsNP.P_subset_NP_millennium
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:32:23.337631+00:00
 -- url     : https://prove2.me/submissions/01aaad27-bd11-4f48-99f9-8078f8638b36
 

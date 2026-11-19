@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_four_point_relu_criticality
 -- name    : LesHouchesWidth.four_point_relu_criticality
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:19:39.964228+00:00
 -- url     : https://prove2.me/theorems/986765a0-9c58-41a1-9515-46e8cca267f9
 -- title:

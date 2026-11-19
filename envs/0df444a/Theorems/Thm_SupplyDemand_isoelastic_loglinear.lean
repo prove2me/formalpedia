@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_isoelastic_loglinear
 -- name    : SupplyDemand.isoelastic_loglinear
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:47.472605+00:00
 -- url     : https://prove2.me/theorems/ef8b5600-6ab6-48ae-a0d4-6bffa66598f8
 -- title:

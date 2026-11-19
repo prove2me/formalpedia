@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_proposition_2_12
 -- name    : CoDecompFO.proposition_2_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:48:43.191595+00:00
 -- url     : https://prove2.me/theorems/4a640863-acc5-4ec0-9ab9-04256e742306

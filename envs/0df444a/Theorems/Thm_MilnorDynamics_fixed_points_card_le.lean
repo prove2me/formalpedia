@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_fixed_points_card_le
 -- name    : MilnorDynamics.fixed_points_card_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T11:08:09.258767+00:00
 -- url     : https://prove2.me/theorems/81a18185-2768-40b4-bc9a-f19b9806d1cd
 -- title:

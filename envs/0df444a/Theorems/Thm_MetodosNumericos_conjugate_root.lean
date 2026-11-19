@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_conjugate_root
 -- name    : MetodosNumericos.conjugate_root
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:00:27.098287+00:00
 -- url     : https://prove2.me/theorems/a5685704-64ae-4c78-8c70-f29f42eee480
 -- title:

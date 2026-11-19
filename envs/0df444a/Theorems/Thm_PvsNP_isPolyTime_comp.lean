@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_isPolyTime_comp
 -- name    : PvsNP.isPolyTime_comp
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:30:17.689152+00:00
 -- url     : https://prove2.me/theorems/2dd0b515-490e-4f4c-87e7-729dfcc56968
 -- title:

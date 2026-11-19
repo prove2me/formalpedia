@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TitiusBode_recursive_form
 -- name    : TitiusBode.recursive_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:21.200985+00:00
 -- url     : https://prove2.me/theorems/7fe76217-8f70-43ae-b1b8-f93296ce3e8a
 -- title:

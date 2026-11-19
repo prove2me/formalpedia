@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_isDenseOrder_iff_denselyOrdered
 -- name    : AssumptionsOfPhysics.isDenseOrder_iff_denselyOrdered
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:51:20.115985+00:00
 -- url     : https://prove2.me/theorems/6b5f8016-add9-41f2-847c-a62831d2f1f9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_vacuum_energy_as_lambda
 -- name    : DarkEnergyLCDM.vacuum_energy_as_lambda
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:05:06.744355+00:00
 -- url     : https://prove2.me/theorems/f7ba0f79-a5eb-48f6-a92c-fcfe2b0fa936
 -- title:

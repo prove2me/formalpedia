@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_surface_gravity_mean_density
 -- name    : GravitationalConstant.surface_gravity_mean_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:27:20.164111+00:00
 -- url     : https://prove2.me/theorems/bbc03576-16d9-4fdb-9609-139ebe0b7d4a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_noetherianSpace_of_isNoetherianScheme
 -- name    : NoetherianScheme.noetherianSpace_of_isNoetherianScheme
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T22:35:56.570344+00:00
 -- url     : https://prove2.me/theorems/55581802-5a66-456c-a80a-7bf943897705
 -- title:

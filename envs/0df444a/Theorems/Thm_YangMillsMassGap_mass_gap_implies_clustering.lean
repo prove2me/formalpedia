@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMillsMassGap_mass_gap_implies_clustering
 -- name    : YangMillsMassGap.mass_gap_implies_clustering
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:00:09.765924+00:00
 -- url     : https://prove2.me/theorems/4527da72-fa32-41ea-a74c-bddf0882fa7f
 -- title:

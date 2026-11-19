@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JonesUnknot_seifertGenus_eq_zero_iff_unknot
 -- name    : JonesUnknot.seifertGenus_eq_zero_iff_unknot
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:33:39.924342+00:00
 -- url     : https://prove2.me/theorems/a2273dbe-be3a-4dec-9d17-de0f145334d0
 -- title:

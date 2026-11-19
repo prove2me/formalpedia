@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GFactorPhysics_Defs
 -- name    : GFactorPhysics_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:40:50.886395+00:00
 -- url     : https://prove2.me/theorems/48a67019-6ec4-4f3e-8581-5f4adbad525d
 -- title:

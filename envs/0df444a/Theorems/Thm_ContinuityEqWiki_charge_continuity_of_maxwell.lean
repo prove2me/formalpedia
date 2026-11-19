@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_charge_continuity_of_maxwell
 -- name    : ContinuityEqWiki.charge_continuity_of_maxwell
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:18.529989+00:00
 -- url     : https://prove2.me/theorems/e13f36d0-3194-46b7-a504-606ab17bc75b
 -- title:

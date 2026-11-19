@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for OAI.UniversalTensorSquare.degreeUnionBranch39_211
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-11-19T01:55:35.266856+00:00
+-- url     : https://prove2.me/submissions/4977d68a-b60f-4347-bc13-e3e155dfabb0
+
+import Mathlib
+import Definitions.Def_OAIQ259US021
+import Definitions.Def_OAIQ259US022
+
+section
+-- module Solutions.OAIQ259_US.UniversalSquare_Finite_DegreeLeaves39
+set_option linter.all false
+set_option linter.unusedVariables false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+
+namespace OAI
+
+/-! Degree Leaves 39. -/
+
+section
+
+namespace UniversalTensorSquare
+
+lemma degreeUnionBranch39_211_oai : checkRegionPrefixes (quickResidual 6 9 degreeQs39 degreeTree39) 8 14 25 degreeUnionState39_211 [25] = true := by
+  decide +kernel
+
+end UniversalTensorSquare
+end
+
+end OAI
+end
+
+theorem solution : type_of% @OAI.UniversalTensorSquare.degreeUnionBranch39_211_oai := @OAI.UniversalTensorSquare.degreeUnionBranch39_211_oai

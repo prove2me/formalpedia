@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_poincare_lemma
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T00:20:26.794498+00:00
 -- url     : https://prove2.me/submissions/ad6af6b5-be64-426a-9b28-2454d9dbba3b
 

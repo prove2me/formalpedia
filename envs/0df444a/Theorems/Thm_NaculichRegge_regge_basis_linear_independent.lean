@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_regge_basis_linear_independent
 -- name    : NaculichRegge.regge_basis_linear_independent
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:14:27.222021+00:00
 -- url     : https://prove2.me/theorems/5bd45316-2abf-410a-bd02-1b8f9860752e
 -- title:

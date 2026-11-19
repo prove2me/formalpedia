@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixth_boltzmann_derivation_euclidean
 -- name    : HilbertSixth.boltzmann_derivation_euclidean
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T04:33:37.665704+00:00
 -- url     : https://prove2.me/theorems/1d53db5d-150f-44d7-8dfc-700408a89edb
 -- title:

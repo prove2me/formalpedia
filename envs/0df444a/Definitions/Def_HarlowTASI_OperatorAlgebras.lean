@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HarlowTASI_OperatorAlgebras
 -- name    : HarlowTASI_OperatorAlgebras
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:11:01.057668+00:00
 -- url     : https://prove2.me/theorems/f11476cc-9584-49dd-8bc4-d6a4fef4e156
 -- title:

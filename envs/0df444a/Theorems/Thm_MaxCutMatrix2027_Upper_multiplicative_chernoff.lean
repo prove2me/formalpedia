@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxCutMatrix2027_Upper_multiplicative_chernoff
 -- name    : MaxCutMatrix2027.Upper.multiplicative_chernoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T12:47:21.31108+00:00
 -- url     : https://prove2.me/theorems/e7c47ec5-179c-45a7-a0e5-13bf3f8c3a67

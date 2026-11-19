@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HardyLittlewood_counting
 -- name    : HardyLittlewood_counting
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:31:15.06938+00:00
 -- url     : https://prove2.me/theorems/c946fa5a-267e-4631-a5fe-470d5f31cb0b
 -- title:

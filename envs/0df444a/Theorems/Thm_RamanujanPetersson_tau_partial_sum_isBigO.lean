@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_tau_partial_sum_isBigO
 -- name    : RamanujanPetersson.tau_partial_sum_isBigO
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:16:37.25499+00:00
 -- url     : https://prove2.me/theorems/7b9764a4-9c8c-41be-90d9-d2dd5cf52403
 -- title:

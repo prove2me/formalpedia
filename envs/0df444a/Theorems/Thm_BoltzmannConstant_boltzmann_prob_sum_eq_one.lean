@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_boltzmann_prob_sum_eq_one
 -- name    : BoltzmannConstant.boltzmann_prob_sum_eq_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:16:12.707154+00:00
 -- url     : https://prove2.me/theorems/fd54fa6a-9d8a-42e8-b52d-b42fdfe48ef4
 -- title:

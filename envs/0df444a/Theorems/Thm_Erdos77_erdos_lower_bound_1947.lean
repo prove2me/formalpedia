@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos77_erdos_lower_bound_1947
 -- name    : Erdos77.erdos_lower_bound_1947
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:19:40.142244+00:00
 -- url     : https://prove2.me/theorems/f8635a40-92cc-492e-ab77-47263dac9407
 -- title:

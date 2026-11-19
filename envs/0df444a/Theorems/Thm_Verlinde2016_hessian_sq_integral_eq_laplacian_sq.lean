@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Verlinde2016_hessian_sq_integral_eq_laplacian_sq
 -- name    : Verlinde2016.hessian_sq_integral_eq_laplacian_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:32:18.342223+00:00
 -- url     : https://prove2.me/theorems/579e140a-19f4-46a7-9a8c-7b233991ed9f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NgoRootDatumIsogeny
 -- name    : NgoRootDatumIsogeny
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T22:43:46.840865+00:00
 -- url     : https://prove2.me/theorems/c1c4a451-31a5-4957-be25-3bd41ff6571f
 -- title:

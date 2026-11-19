@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_cover_compact_iff_compact
 -- name    : Rudin.ch02_cover_compact_iff_compact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:48:47.719392+00:00
 -- url     : https://prove2.me/theorems/cb40f323-9aba-4e49-b6dd-de8843e70e51
 -- title:

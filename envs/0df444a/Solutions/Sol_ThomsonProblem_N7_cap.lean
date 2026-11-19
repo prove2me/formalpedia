@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonProblem.N7.cap
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:07:16.34937+00:00
 -- url     : https://prove2.me/submissions/8c8f3498-bb0a-4b7f-9fb5-f1711e2a6bf2
 

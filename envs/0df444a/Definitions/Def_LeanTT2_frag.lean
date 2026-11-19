@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LeanTT2_frag
 -- name    : LeanTT2_frag
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T02:14:38.47851+00:00
 -- url     : https://prove2.me/theorems/bf532d9a-f226-4c2f-ba3c-c1e230d220e9
 -- title:

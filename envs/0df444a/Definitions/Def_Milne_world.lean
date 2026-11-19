@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Milne_world
 -- name    : Milne_world
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T02:08:37.350249+00:00
 -- url     : https://prove2.me/theorems/0539dd46-f61a-4fd7-a60e-01b42e08fc42
 -- title:

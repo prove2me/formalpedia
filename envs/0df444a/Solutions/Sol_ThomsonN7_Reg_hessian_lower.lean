@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonN7.Reg.hessian_lower
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:09:19.714679+00:00
 -- url     : https://prove2.me/submissions/41a06698-b7b9-493a-a52c-27dddbeb0697
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RelPartMech_metric_hessian_of_gSymbol_zero
 -- name    : RelPartMech.metric_hessian_of_gSymbol_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:12:56.632293+00:00
 -- url     : https://prove2.me/theorems/4b36e306-f2cd-401e-975a-8f3040ebaf85
 -- title:

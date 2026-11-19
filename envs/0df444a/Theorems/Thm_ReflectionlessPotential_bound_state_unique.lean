@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_bound_state_unique
 -- name    : ReflectionlessPotential.bound_state_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:59:05.437164+00:00
 -- url     : https://prove2.me/theorems/18e3c725-bcc3-4f41-afa7-9d5f9e496b4f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_hamiltonian_flow_solution
 -- name    : UnQuantumMechanics.hamiltonian_flow_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:44:10.813666+00:00
 -- url     : https://prove2.me/theorems/3f55ab7c-fa71-4ade-83e0-a35ac1739511
 -- title:

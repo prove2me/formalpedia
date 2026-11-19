@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DouglasVacua_flux_vacua_count_asymptotic
 -- name    : DouglasVacua.flux_vacua_count_asymptotic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:31:52.683427+00:00
 -- url     : https://prove2.me/theorems/90bfc54e-6ef1-4fa8-a5d9-414137d2e98c
 -- title:

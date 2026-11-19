@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_upper_lower_integral_density
 -- name    : Rudin.ch06_upper_lower_integral_density
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T15:46:22.631392+00:00
 -- url     : https://prove2.me/theorems/c0959b14-cd61-4b2c-abc4-801fd6f46fc7
 -- title:

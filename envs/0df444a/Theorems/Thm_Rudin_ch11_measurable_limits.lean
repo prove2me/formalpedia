@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_measurable_limits
 -- name    : Rudin.ch11_measurable_limits
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:56:39.518118+00:00
 -- url     : https://prove2.me/theorems/3e910ca5-0af1-4fd2-914b-cefdc24a8253
 -- title:

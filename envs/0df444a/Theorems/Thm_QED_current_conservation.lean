@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_current_conservation
 -- name    : QED.current_conservation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:21:54.355218+00:00
 -- url     : https://prove2.me/theorems/8cb0e241-e028-4964-94de-7f4294df3ad2
 -- title:

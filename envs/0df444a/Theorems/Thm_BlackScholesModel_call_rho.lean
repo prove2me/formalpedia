@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_call_rho
 -- name    : BlackScholesModel.call_rho
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:34:29.42125+00:00
 -- url     : https://prove2.me/theorems/667dcd8a-3149-41af-9ca7-04cd81e50592
 -- title:

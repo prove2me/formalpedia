@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_banach_steinhaus
 -- name    : GarrettFA.banach_steinhaus
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:29:55.525986+00:00
 -- url     : https://prove2.me/theorems/93fb60d3-08aa-4ad3-8047-8f795334abe0
 -- title:

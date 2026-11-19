@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SYZ_hessian_moduli_metric_is_kahler
 -- name    : SYZ.hessian_moduli_metric_is_kahler
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T04:14:19.224201+00:00
 -- url     : https://prove2.me/theorems/2170425a-a187-42b2-94c6-7e960f4a6c7a
 -- title:

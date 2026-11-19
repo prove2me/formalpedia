@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_over_some_number_field
 -- name    : InverseGalois.inverse_galois_problem_over_some_number_field
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:14:46.460108+00:00
 -- url     : https://prove2.me/theorems/9925a756-34ab-4e49-bf25-cafbb3ca789a
 -- title:

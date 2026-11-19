@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_massShellMeasure_unique
 -- name    : ChatterjeeQFT.massShellMeasure_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:31:02.457327+00:00
 -- url     : https://prove2.me/theorems/4ffc4493-775d-4d1a-97bf-deef31c042b2
 -- title:

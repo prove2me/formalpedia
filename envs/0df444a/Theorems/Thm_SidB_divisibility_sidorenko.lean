@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_divisibility_sidorenko
 -- name    : SidB.divisibility_sidorenko
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:31:47.597679+00:00
 -- url     : https://prove2.me/theorems/03ab0a77-3ca8-473b-baed-2e4aefe03c61
 -- title:

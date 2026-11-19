@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KoanaKPaths_Main_directed_path_counting
 -- name    : KoanaKPaths.Main.directed_path_counting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T08:38:09.832918+00:00
 -- url     : https://prove2.me/theorems/04252733-0ecb-4ebc-98aa-2e0dac60378c

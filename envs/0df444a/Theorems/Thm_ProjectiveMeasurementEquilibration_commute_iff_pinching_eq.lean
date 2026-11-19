@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_commute_iff_pinching_eq
 -- name    : ProjectiveMeasurementEquilibration.commute_iff_pinching_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:46:16.589933+00:00
 -- url     : https://prove2.me/theorems/38964c1f-060a-4e9a-a006-acf15eacaf0e
 -- title:

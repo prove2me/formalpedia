@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_diverging_subseq_tendsto_puncture
 -- name    : MilnorDynamics.diverging_subseq_tendsto_puncture
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T11:07:15.064655+00:00
 -- url     : https://prove2.me/theorems/868925de-3079-4f6d-948c-fc736e81043a
 -- title:

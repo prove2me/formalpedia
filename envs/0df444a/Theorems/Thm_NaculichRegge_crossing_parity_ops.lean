@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_crossing_parity_ops
 -- name    : NaculichRegge.crossing_parity_ops
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:47:56.304951+00:00
 -- url     : https://prove2.me/theorems/e55a4d4c-55c4-4b61-936a-5d2423a44fa6
 -- title:

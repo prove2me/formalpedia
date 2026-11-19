@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gribov_pi4_specialUnitaryGroup_two
 -- name    : Gribov.pi4_specialUnitaryGroup_two
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:21:10.515639+00:00
 -- url     : https://prove2.me/theorems/4db3190e-d717-4045-b0bf-d9d3c15b5d3f
 -- title:

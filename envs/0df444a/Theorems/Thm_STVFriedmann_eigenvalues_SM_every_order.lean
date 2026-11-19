@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_eigenvalues_SM_every_order
 -- name    : STVFriedmann.eigenvalues_SM_every_order
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:58:53.784168+00:00
 -- url     : https://prove2.me/theorems/22fa2a6a-e965-49e0-a5eb-bccd018f2e17
 -- title:

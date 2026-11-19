@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LiuPass_crypto
 -- name    : LiuPass_crypto
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:23:46.256104+00:00
 -- url     : https://prove2.me/theorems/288f88b6-1394-4f58-9496-f05813528cca
 -- title:

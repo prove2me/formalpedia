@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RydbergConstant_rydbergInf_alt
 -- name    : RydbergConstant.rydbergInf_alt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:19:56.512291+00:00
 -- url     : https://prove2.me/theorems/f7443ddc-c176-4abe-8bec-c6ae8d03bf0f
 -- title:

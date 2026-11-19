@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RiemannVonMangoldt_backlund_bound
 -- name    : RiemannVonMangoldt.backlund_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T02:12:12.666873+00:00
 -- url     : https://prove2.me/theorems/b57a0922-7548-4177-847f-5ac092893956
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_phi_eq_one_iff
 -- name    : GrandUnifiedTheories.phi_eq_one_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:42:23.362786+00:00
 -- url     : https://prove2.me/theorems/20b4fef0-ec27-4628-979a-1aad9cd65b3f
 -- title:

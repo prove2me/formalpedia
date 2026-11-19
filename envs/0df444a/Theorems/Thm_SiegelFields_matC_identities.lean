@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_matC_identities
 -- name    : SiegelFields.matC_identities
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:19:00.863898+00:00
 -- url     : https://prove2.me/theorems/46a4611b-c628-49cc-9cb7-0407638290e7
 -- title:

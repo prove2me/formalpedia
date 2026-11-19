@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_expansion_blowup_within_three_over_abs_theta
 -- name    : MathematicalRelativity.expansion_blowup_within_three_over_abs_theta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:39:26.328485+00:00
 -- url     : https://prove2.me/theorems/f52afdb7-f82b-40af-bb8c-91919931dae6
 -- title:

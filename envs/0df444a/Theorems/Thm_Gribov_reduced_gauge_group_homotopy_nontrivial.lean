@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gribov_reduced_gauge_group_homotopy_nontrivial
 -- name    : Gribov.reduced_gauge_group_homotopy_nontrivial
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:17:12.752226+00:00
 -- url     : https://prove2.me/theorems/8d72f4dc-6701-4a98-b814-5af809d2faca
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GribovRegion_region_isBounded
 -- name    : GribovRegion.region_isBounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:28:12.875839+00:00
 -- url     : https://prove2.me/theorems/194a1632-a7dd-40a7-bb68-0b758e485971
 -- title:

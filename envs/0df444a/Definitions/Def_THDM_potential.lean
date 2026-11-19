@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_THDM_potential
 -- name    : THDM_potential
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T23:48:23.241508+00:00
 -- url     : https://prove2.me/theorems/c303b85e-7ac9-4c00-8062-52e6f1f969cb
 -- title:

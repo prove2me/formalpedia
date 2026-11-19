@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_eq16_weakCoupling
 -- name    : WeinbergLeptons.eq16_weakCoupling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:58:55.263277+00:00
 -- url     : https://prove2.me/theorems/66dfc30c-44dd-4fdd-b71b-71f4f7b6cf79
 -- title:

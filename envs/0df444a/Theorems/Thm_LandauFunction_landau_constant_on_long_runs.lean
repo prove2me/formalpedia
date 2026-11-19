@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_constant_on_long_runs
 -- name    : LandauFunction.landau_constant_on_long_runs
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:28.573733+00:00
 -- url     : https://prove2.me/theorems/1a6331fa-0346-4f69-94b1-660d721f9f83
 -- title:

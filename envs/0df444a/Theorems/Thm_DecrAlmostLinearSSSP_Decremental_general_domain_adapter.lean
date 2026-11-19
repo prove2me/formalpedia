@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrAlmostLinearSSSP_Decremental_general_domain_adapter
 -- name    : DecrAlmostLinearSSSP.Decremental.general_domain_adapter
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T00:47:30.689213+00:00
 -- url     : https://prove2.me/theorems/e3f20f67-1f7d-4281-a978-cceae0fa7a8f

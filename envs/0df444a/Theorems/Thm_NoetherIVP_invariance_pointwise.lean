@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherIVP_invariance_pointwise
 -- name    : NoetherIVP.invariance_pointwise
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:57:03.379146+00:00
 -- url     : https://prove2.me/theorems/3ab135d3-4756-4495-92cb-fd5d4f5c4108
 -- title:

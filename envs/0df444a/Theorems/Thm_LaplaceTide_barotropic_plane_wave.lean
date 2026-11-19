@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LaplaceTide_barotropic_plane_wave
 -- name    : LaplaceTide.barotropic_plane_wave
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:33:40.214977+00:00
 -- url     : https://prove2.me/theorems/a10bf5c8-47b0-4a06-92a2-a2240f356b81
 -- title:

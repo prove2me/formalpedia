@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_B3_series_closed_form
 -- name    : ErlerGross.B3_series_closed_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:56:46.073697+00:00
 -- url     : https://prove2.me/theorems/40d9f092-966d-4cec-acb4-67f6aaee56bb
 -- title:

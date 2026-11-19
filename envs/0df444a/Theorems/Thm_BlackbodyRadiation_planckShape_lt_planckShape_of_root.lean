@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckShape_lt_planckShape_of_root
 -- name    : BlackbodyRadiation.planckShape_lt_planckShape_of_root
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:39:10.929455+00:00
 -- url     : https://prove2.me/theorems/1b54f449-028e-4551-b646-ba2df32a4ce3
 -- title:

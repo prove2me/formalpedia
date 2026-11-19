@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_crane_bound
 -- name    : SmaleMeanValue.crane_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:34:12.846999+00:00
 -- url     : https://prove2.me/theorems/1b78a99d-6a66-4bd9-8090-ba2661a660bb
 -- title:

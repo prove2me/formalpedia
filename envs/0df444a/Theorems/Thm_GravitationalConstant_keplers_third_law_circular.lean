@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_keplers_third_law_circular
 -- name    : GravitationalConstant.keplers_third_law_circular
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:32:55.152781+00:00
 -- url     : https://prove2.me/theorems/30ace075-1c79-48b6-860f-2f7d23225099
 -- title:

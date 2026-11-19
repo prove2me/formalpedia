@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_le_massias
 -- name    : LandauFunction.landau_le_massias
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:36.062967+00:00
 -- url     : https://prove2.me/theorems/d7968b68-23aa-4a19-8088-26b985834ae5
 -- title:

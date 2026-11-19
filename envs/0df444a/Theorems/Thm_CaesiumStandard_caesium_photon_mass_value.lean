@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_caesium_photon_mass_value
 -- name    : CaesiumStandard.caesium_photon_mass_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:47:05.776514+00:00
 -- url     : https://prove2.me/theorems/041d52b7-7bfc-4cec-ab0f-29ba0590026d
 -- title:

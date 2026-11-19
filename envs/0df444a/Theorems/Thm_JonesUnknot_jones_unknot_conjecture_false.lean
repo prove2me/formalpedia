@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JonesUnknot_jones_unknot_conjecture_false
 -- name    : JonesUnknot.jones_unknot_conjecture_false
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:35:33.775838+00:00
 -- url     : https://prove2.me/theorems/b8142f5f-6cba-4f68-a1b1-63921569d3db
 -- title:

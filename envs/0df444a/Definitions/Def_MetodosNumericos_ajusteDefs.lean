@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_ajusteDefs
 -- name    : MetodosNumericos_ajusteDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:34:22.426786+00:00
 -- url     : https://prove2.me/theorems/ceca63ac-19d2-4d2b-b635-92075586e145
 -- title:

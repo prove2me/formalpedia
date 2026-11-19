@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnsembleSpaceDraft_internal_convex
 -- name    : EnsembleSpaceDraft.internal_convex
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:49:21.890849+00:00
 -- url     : https://prove2.me/theorems/2f5eea65-4923-46aa-a9c8-ed5627e938d8
 -- title:

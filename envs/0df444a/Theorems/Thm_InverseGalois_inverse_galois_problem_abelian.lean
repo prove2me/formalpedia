@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_abelian
 -- name    : InverseGalois.inverse_galois_problem_abelian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:09:52.31698+00:00
 -- url     : https://prove2.me/theorems/66826749-6f7f-4006-b4c0-807612c76b91
 -- title:

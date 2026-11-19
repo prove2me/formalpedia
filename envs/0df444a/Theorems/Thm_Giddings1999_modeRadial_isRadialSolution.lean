@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Giddings1999_modeRadial_isRadialSolution
 -- name    : Giddings1999.modeRadial_isRadialSolution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:49:04.936587+00:00
 -- url     : https://prove2.me/theorems/b417cfba-900c-43dc-8760-7724621a5d59
 -- title:

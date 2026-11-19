@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_simplex_ftc
 -- name    : Rudin.ch10_simplex_ftc
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T03:06:43.692303+00:00
 -- url     : https://prove2.me/theorems/eb77e780-b724-44d9-9135-27b35ad140cf
 -- title:

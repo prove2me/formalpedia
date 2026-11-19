@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_minkowski_timelikeGeodesicallyComplete
 -- name    : StrongCosmicCensorship.minkowski_timelikeGeodesicallyComplete
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:07:00.767884+00:00
 -- url     : https://prove2.me/theorems/7580707c-e887-4546-9846-b87688d28d36
 -- title:

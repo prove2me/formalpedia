@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.small_rows
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:20:25.185837+00:00
 -- url     : https://prove2.me/submissions/145392c8-88d2-4e22-827e-22633c364817
 

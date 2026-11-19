@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_congruence_second_fundamental_form_evolution
 -- name    : MathematicalRelativity.congruence_second_fundamental_form_evolution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:05:15.338913+00:00
 -- url     : https://prove2.me/theorems/a23a0adf-47f9-4e0d-9643-7ce2b5aa94a2
 -- title:

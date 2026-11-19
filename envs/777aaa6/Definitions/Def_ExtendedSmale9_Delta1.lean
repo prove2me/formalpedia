@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ExtendedSmale9_Delta1
 -- name    : ExtendedSmale9_Delta1
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T13:54:56.565204+00:00
 -- url     : https://prove2.me/theorems/1b9ee160-6514-4833-9ad4-227f795a395c
 -- title:

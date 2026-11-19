@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_pointForce_antisymm
 -- name    : NewtonGravitation.pointForce_antisymm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:32:25.847091+00:00
 -- url     : https://prove2.me/theorems/ddbfb2bb-d787-4864-9a60-f3660ee9477a
 -- title:

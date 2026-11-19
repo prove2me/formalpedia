@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_opt_le_sdp
 -- name    : GrothendieckConstant.opt_le_sdp
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:22:33.002341+00:00
 -- url     : https://prove2.me/theorems/576c16f7-2f63-454c-8fd7-f7bdd149b7b4
 -- title:

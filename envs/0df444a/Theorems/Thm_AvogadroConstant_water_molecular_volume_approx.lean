@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AvogadroConstant_water_molecular_volume_approx
 -- name    : AvogadroConstant.water_molecular_volume_approx
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:29:28.465836+00:00
 -- url     : https://prove2.me/theorems/ad5c4e0b-dee1-43e4-a72b-623d96de9917
 -- title:

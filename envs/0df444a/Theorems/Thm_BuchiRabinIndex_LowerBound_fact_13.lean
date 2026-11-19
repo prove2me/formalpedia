@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_fact_13
 -- name    : BuchiRabinIndex.LowerBound.fact_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:31:52.777324+00:00
 -- url     : https://prove2.me/theorems/e44d50fc-6e84-4cb1-8201-63e44ba30834

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_gregarious_of_source_or_sink
 -- name    : BalancedAlgebra.gregarious_of_source_or_sink
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:15:58.884045+00:00
 -- url     : https://prove2.me/theorems/246a3534-1a32-4bcd-b2b0-993ae6cb2156
 -- title:

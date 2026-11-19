@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_rationalized_planck_system
 -- name    : PlanckUnits.rationalized_planck_system
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:41:20.375271+00:00
 -- url     : https://prove2.me/theorems/1d6b0e2c-b9af-4ff9-9ec5-704a0742ff6c
 -- title:

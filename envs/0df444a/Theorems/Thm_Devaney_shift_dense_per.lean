@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_shift_dense_per
 -- name    : Devaney.shift_dense_per
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:43:08.729028+00:00
 -- url     : https://prove2.me/theorems/d127b9e9-1c8a-4dc6-bc49-0f9f26299424
 -- title:

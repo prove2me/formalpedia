@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_brocard_conjecture_ferreira_large_n
 -- name    : Brocard.brocard_conjecture.ferreira_large_n
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:52:16.136127+00:00
 -- url     : https://prove2.me/theorems/2322024f-f4e5-46a4-95c3-203801bda643
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_alternating_group
 -- name    : InverseGalois.inverse_galois_problem_alternating_group
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:12:36.315952+00:00
 -- url     : https://prove2.me/theorems/4c5bcf2b-2c69-435c-aa8c-7df4f8bb558e
 -- title:

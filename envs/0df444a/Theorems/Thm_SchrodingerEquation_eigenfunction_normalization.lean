@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchrodingerEquation_eigenfunction_normalization
 -- name    : SchrodingerEquation.eigenfunction_normalization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T19:40:56.917065+00:00
 -- url     : https://prove2.me/theorems/73ed8455-706e-4bc7-acec-bb2d4c4e4912
 -- title:

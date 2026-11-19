@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_hybrid_modeF_solves_eq44
 -- name    : AKR2008.hybrid_modeF_solves_eq44
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:25:51.831092+00:00
 -- url     : https://prove2.me/theorems/18ac4971-2a1f-4bb8-ac4e-23791c513799
 -- title:

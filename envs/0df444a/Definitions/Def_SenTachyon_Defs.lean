@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SenTachyon_Defs
 -- name    : SenTachyon_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:23:48.083362+00:00
 -- url     : https://prove2.me/theorems/65a1c27f-74ec-4cb8-9eb2-e4bbb4ec3225
 -- title:

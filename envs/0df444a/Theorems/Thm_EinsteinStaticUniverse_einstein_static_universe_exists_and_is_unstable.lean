@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_einstein_static_universe_exists_and_is_unstable
 -- name    : EinsteinStaticUniverse.einstein_static_universe_exists_and_is_unstable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:27:04.028978+00:00
 -- url     : https://prove2.me/theorems/3b6baacc-7f2c-4eb3-81b9-b0267147559f
 -- title:

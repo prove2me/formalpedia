@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LandauFunction_ford_prime_counting_error
 -- name    : LandauFunction.ford_prime_counting_error
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:59.822601+00:00
 -- url     : https://prove2.me/theorems/83cea929-bd50-4781-abec-1bee638b5093
 -- title:

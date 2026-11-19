@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_vacuum_energy_cutoff_asymptotics
 -- name    : DarkEnergyLCDM.vacuum_energy_cutoff_asymptotics
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:05:59.110791+00:00
 -- url     : https://prove2.me/theorems/a83af91c-e23d-4f54-bd61-bb884e34ee5f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_LinearExtensions
 -- name    : FCP_LinearExtensions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:07:08.548967+00:00
 -- url     : https://prove2.me/theorems/1a5f3d67-7bc6-49c1-86a4-053707acc00a
 -- title:

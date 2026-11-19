@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WeinbergLeptons_Model
 -- name    : WeinbergLeptons_Model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:24:55.554554+00:00
 -- url     : https://prove2.me/theorems/5ce0cfed-c5d5-4448-83d4-306f6fc99e32
 -- title:

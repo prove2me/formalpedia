@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Tegmark_pde_trichotomy
 -- name    : Tegmark.pde_trichotomy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T04:14:56.688457+00:00
 -- url     : https://prove2.me/theorems/ee55eac0-8633-4aa0-b6f6-e948612e19eb
 -- title:

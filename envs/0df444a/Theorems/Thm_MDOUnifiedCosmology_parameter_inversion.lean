@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_parameter_inversion
 -- name    : MDOUnifiedCosmology.parameter_inversion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:34:27.900976+00:00
 -- url     : https://prove2.me/theorems/76764c97-52df-4e90-b6a0-fb361dea64ab
 -- title:

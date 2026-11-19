@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PvsNP.P_subset_coNP
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:26:58.391462+00:00
 -- url     : https://prove2.me/submissions/ce541595-fe9f-43bf-a520-1d4f2ce79ae7
 

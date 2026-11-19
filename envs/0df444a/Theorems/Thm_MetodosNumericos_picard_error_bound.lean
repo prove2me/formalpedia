@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_picard_error_bound
 -- name    : MetodosNumericos.picard_error_bound
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:48:33.772986+00:00
 -- url     : https://prove2.me/theorems/5036de89-bc94-4d7e-b979-6869f7682ccf
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KobayashiMaskawa1973_unitary_two_rephase_cabibbo
 -- name    : KobayashiMaskawa1973.unitary_two_rephase_cabibbo
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:58:11.376724+00:00
 -- url     : https://prove2.me/theorems/a9096342-23c3-436d-bc03-e40d6e9d7b8e
 -- title:

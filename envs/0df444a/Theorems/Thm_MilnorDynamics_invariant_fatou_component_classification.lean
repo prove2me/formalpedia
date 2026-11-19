@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_invariant_fatou_component_classification
 -- name    : MilnorDynamics.invariant_fatou_component_classification
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T12:47:31.380247+00:00
 -- url     : https://prove2.me/theorems/85ead4f8-6058-421e-ad80-4d1eb1e9b35c
 -- title:

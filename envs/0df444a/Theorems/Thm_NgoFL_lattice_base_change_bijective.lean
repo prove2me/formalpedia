@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_lattice_base_change_bijective
 -- name    : NgoFL.lattice_base_change_bijective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:24:20.847772+00:00
 -- url     : https://prove2.me/theorems/9b4388b1-e87a-41aa-bce8-2a32fdb4fee1
 -- title:

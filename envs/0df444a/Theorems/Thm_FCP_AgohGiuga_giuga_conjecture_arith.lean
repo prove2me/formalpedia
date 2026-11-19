@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_AgohGiuga_giuga_conjecture_arith
 -- name    : FCP.AgohGiuga.giuga_conjecture_arith
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:17:46.55298+00:00
 -- url     : https://prove2.me/theorems/cfd804b3-fea5-4679-a1e8-d43b16ad4b88
 -- title:

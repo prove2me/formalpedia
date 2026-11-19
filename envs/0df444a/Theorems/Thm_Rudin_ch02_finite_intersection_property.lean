@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_finite_intersection_property
 -- name    : Rudin.ch02_finite_intersection_property
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:49:23.00552+00:00
 -- url     : https://prove2.me/theorems/756d6bc6-6f56-419c-8c4e-c06b28c46b0e
 -- title:

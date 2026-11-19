@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_closed_pointwise
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T01:01:02.428361+00:00
 -- url     : https://prove2.me/submissions/868b68b2-fc7e-4bde-add6-5ca81c315ce0
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsReciprocity_reciprocity_of_isNilpotent
 -- name    : LanglandsReciprocity.reciprocity_of_isNilpotent
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:57:56.427237+00:00
 -- url     : https://prove2.me/theorems/a3662f4e-4688-4200-875a-cdae06c28225
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_deltaU_eq_heat_sub_work
 -- name    : FirstLawThermo.deltaU_eq_heat_sub_work
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:50:45.376974+00:00
 -- url     : https://prove2.me/theorems/048fe3ce-9805-4b31-9221-2bbfdffb1043
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_mellin_zero_free
 -- name    : QRH.mellin_zero_free
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:50:35.418022+00:00
 -- url     : https://prove2.me/theorems/20a61063-aa8b-47c5-89f2-cb8dae4f4509
 -- title:

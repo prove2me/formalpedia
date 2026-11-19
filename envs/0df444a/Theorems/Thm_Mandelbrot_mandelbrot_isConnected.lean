@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_mandelbrot_isConnected
 -- name    : Mandelbrot.mandelbrot_isConnected
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:03:23.211789+00:00
 -- url     : https://prove2.me/theorems/8f003cdb-c5f8-4a54-8afc-a25c34dc600f
 -- title:

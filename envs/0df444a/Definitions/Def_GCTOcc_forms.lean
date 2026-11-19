@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GCTOcc_forms
 -- name    : GCTOcc_forms
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:09:12.047921+00:00
 -- url     : https://prove2.me/theorems/bc8f167e-b945-4226-8a5f-ba95a66244e8
 -- title:

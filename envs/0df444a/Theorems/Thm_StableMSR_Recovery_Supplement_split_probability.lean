@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_split_probability
 -- name    : StableMSR.Recovery.Supplement.split_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:14:09.716959+00:00
 -- url     : https://prove2.me/theorems/0727e1c0-e016-49ed-9f34-9142d9782ea4

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_eq12_zMass
 -- name    : WeinbergLeptons.eq12_zMass
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:44:32.53044+00:00
 -- url     : https://prove2.me/theorems/d642a4e3-be77-451a-8f03-51d437ab4508
 -- title:

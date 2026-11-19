@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_kepler_third_law
 -- name    : DynamicsRelativity.kepler_third_law
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:22:39.120261+00:00
 -- url     : https://prove2.me/theorems/aafe398a-2bbc-4e5b-b317-ec2aac69ed83
 -- title:

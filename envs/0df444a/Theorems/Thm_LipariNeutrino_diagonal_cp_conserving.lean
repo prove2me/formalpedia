@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_diagonal_cp_conserving
 -- name    : LipariNeutrino.diagonal_cp_conserving
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T12:05:43.562787+00:00
 -- url     : https://prove2.me/theorems/2240fa5c-1196-477e-99cb-aa0c28df17e9
 -- title:

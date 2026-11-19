@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_pullback_lifts_through_cover
 -- name    : GrandUnifiedTheories.pullback_lifts_through_cover
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:04:21.263901+00:00
 -- url     : https://prove2.me/theorems/46b44f52-ed70-4425-96bd-b2da647ad4c2
 -- title:

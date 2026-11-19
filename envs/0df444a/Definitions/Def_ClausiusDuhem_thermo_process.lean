@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClausiusDuhem_thermo_process
 -- name    : ClausiusDuhem_thermo_process
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:07.105156+00:00
 -- url     : https://prove2.me/theorems/93b33cf9-3ab6-4d4f-910c-71189c3f3d21
 -- title:

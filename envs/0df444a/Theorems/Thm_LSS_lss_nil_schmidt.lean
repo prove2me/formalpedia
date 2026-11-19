@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LSS_lss_nil_schmidt
 -- name    : LSS.lss_nil_schmidt
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T18:08:04.424142+00:00
 -- url     : https://prove2.me/theorems/e984cc36-f042-4dba-9c52-10e1338a9d71
 -- title:

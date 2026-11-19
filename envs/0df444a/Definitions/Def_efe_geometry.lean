@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_efe_geometry
 -- name    : efe_geometry
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:38:49.349473+00:00
 -- url     : https://prove2.me/theorems/d167e613-28df-480a-a986-ac11c00e2bc3
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_mil_convergence
 -- name    : MetodosNumericos.mil_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:00:20.168459+00:00
 -- url     : https://prove2.me/theorems/fadc21ce-b079-4286-9b22-0b78e105f0aa
 -- title:

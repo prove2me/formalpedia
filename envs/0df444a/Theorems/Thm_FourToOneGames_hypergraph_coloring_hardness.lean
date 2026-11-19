@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FourToOneGames_hypergraph_coloring_hardness
 -- name    : FourToOneGames.hypergraph_coloring_hardness
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:03:21.096685+00:00
 -- url     : https://prove2.me/theorems/58dbf557-c2e1-4011-8c1f-a64f5e1125cc
 -- title:

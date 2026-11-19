@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RSF_twist_computation
 -- name    : RSF.twist_computation
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T03:17:05.248031+00:00
 -- url     : https://prove2.me/theorems/39b0503a-8f8b-42aa-9cba-af99fabd4ca4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_product_integrable_of_bounded
 -- name    : Rudin.ch06_product_integrable_of_bounded
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:20:25.905546+00:00
 -- url     : https://prove2.me/theorems/0a74bddc-f30e-4ba8-98f3-ae83f5747e37
 -- title:

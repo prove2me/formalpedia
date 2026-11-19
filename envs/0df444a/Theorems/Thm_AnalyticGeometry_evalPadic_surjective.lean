@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_evalPadic_surjective
 -- name    : AnalyticGeometry.evalPadic_surjective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T14:48:10.241364+00:00
 -- url     : https://prove2.me/theorems/6187e4d3-7820-4727-8e1c-f9962ef2b10e
 -- title:

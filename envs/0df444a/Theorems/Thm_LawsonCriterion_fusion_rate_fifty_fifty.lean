@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_fusion_rate_fifty_fifty
 -- name    : LawsonCriterion.fusion_rate_fifty_fifty
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:57:22.013737+00:00
 -- url     : https://prove2.me/theorems/48df9553-0d40-4902-976b-bbfc4a3ed29f
 -- title:

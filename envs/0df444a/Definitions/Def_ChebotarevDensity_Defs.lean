@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ChebotarevDensity_Defs
 -- name    : ChebotarevDensity_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T16:57:42.296812+00:00
 -- url     : https://prove2.me/theorems/2c254387-3aa5-4a85-a59e-bcf179fadb7c
 -- title:

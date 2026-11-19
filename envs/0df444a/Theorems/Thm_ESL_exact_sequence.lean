@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ESL_exact_sequence
 -- name    : ESL.exact_sequence
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:11.04692+00:00
 -- url     : https://prove2.me/theorems/3a6f64a2-7a97-4ae6-8bb1-7020f526f398
 -- title:

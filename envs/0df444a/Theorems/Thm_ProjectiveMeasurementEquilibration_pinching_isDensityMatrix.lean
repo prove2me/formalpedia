@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_pinching_isDensityMatrix
 -- name    : ProjectiveMeasurementEquilibration.pinching_isDensityMatrix
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:25:09.568093+00:00
 -- url     : https://prove2.me/theorems/939e2050-8b2c-4c39-9052-e6016e8395a7
 -- title:

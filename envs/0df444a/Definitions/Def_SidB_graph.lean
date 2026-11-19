@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SidB_graph
 -- name    : SidB_graph
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T18:07:21.480175+00:00
 -- url     : https://prove2.me/theorems/370ab450-5be0-4454-97c4-0850a54dc8de
 -- title:

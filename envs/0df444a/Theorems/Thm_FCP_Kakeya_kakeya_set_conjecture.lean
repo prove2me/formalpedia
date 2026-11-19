@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Kakeya_kakeya_set_conjecture
 -- name    : FCP.Kakeya.kakeya_set_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:50:06.207495+00:00
 -- url     : https://prove2.me/theorems/0b3c5537-92cc-4fab-bd57-c93d60530c59
 -- title:

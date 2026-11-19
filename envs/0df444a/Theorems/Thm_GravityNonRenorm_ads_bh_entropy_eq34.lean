@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravityNonRenorm_ads_bh_entropy_eq34
 -- name    : GravityNonRenorm.ads_bh_entropy_eq34
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:43.534417+00:00
 -- url     : https://prove2.me/theorems/cbc5a754-9ac8-4273-bee9-399d198cc344
 -- title:

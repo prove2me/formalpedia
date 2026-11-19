@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BlackScholesModel_Core
 -- name    : BlackScholesModel_Core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:46.58742+00:00
 -- url     : https://prove2.me/theorems/a9720361-6dac-4022-b3b0-13676e5ec155
 -- title:

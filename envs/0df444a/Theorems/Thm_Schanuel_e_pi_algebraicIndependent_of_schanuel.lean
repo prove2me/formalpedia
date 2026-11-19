@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_e_pi_algebraicIndependent_of_schanuel
 -- name    : Schanuel.e_pi_algebraicIndependent_of_schanuel
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:38:42.151122+00:00
 -- url     : https://prove2.me/theorems/329cf71f-403e-4310-9a84-6d8490471f36
 -- title:

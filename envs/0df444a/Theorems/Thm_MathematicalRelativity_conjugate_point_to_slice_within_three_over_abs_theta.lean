@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_conjugate_point_to_slice_within_three_over_abs_theta
 -- name    : MathematicalRelativity.conjugate_point_to_slice_within_three_over_abs_theta
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:18:47.973455+00:00
 -- url     : https://prove2.me/theorems/59c1b153-92f3-4530-a586-850dc4b765ff
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_isThreeVector_iff_existsUnique_vec
 -- name    : SiegelFields.isThreeVector_iff_existsUnique_vec
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T00:59:39.107745+00:00
 -- url     : https://prove2.me/theorems/9f4c6c41-a733-4e2d-a443-b6b82dd5995e
 -- title:

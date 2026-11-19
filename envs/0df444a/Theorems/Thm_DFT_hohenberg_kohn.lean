@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_hohenberg_kohn
 -- name    : DFT.hohenberg_kohn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:23:57.971482+00:00
 -- url     : https://prove2.me/theorems/d3218b82-b83a-4e5f-af3c-717cfc9de2f9
 -- title:

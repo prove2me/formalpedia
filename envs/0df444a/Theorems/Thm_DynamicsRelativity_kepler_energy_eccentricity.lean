@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DynamicsRelativity_kepler_energy_eccentricity
 -- name    : DynamicsRelativity.kepler_energy_eccentricity
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:21:03.259128+00:00
 -- url     : https://prove2.me/theorems/60a22259-2654-4317-98f2-1d35daca789c
 -- title:

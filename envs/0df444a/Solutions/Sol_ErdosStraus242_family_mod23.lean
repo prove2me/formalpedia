@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ErdosStraus242.family_mod23
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T20:49:18.803599+00:00
 -- url     : https://prove2.me/submissions/b643b3de-f804-46ad-bb39-7bc94e4fa8f9
 

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Erdos30Basic
 -- name    : Erdos30Basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:39:44.915985+00:00
 -- url     : https://prove2.me/theorems/f2086694-3349-4fea-b412-c00aa4dcf04a
 -- title:

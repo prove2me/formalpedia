@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchinzelHypothesisH_primes_sq_add_one_of_hypothesis_H
 -- name    : SchinzelHypothesisH.primes_sq_add_one_of_hypothesis_H
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:35:51.860087+00:00
 -- url     : https://prove2.me/theorems/82ae9ee7-1a04-44a1-9b79-2053292bea75
 -- title:

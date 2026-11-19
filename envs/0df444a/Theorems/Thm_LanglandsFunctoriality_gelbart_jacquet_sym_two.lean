@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_gelbart_jacquet_sym_two
 -- name    : LanglandsFunctoriality.gelbart_jacquet_sym_two
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:24:52.415348+00:00
 -- url     : https://prove2.me/theorems/3210cf8c-a5fe-4d1f-b949-55a7c82c115b
 -- title:

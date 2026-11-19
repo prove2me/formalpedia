@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_gilbreath_conjecture
 -- name    : Gilbreath.gilbreath_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:51:46.872747+00:00
 -- url     : https://prove2.me/theorems/04fddea3-07af-43f9-a506-fe2207cda120
 -- title:

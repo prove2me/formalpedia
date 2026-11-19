@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_entropy_sign
 -- name    : AstrophysicalFluidDynamics.shock_entropy_sign
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:19:01.037999+00:00
 -- url     : https://prove2.me/theorems/fc375218-acb7-40bf-a840-e766a4ccc31a
 -- title:

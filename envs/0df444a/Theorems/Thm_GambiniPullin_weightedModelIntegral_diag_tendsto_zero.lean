@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GambiniPullin_weightedModelIntegral_diag_tendsto_zero
 -- name    : GambiniPullin.weightedModelIntegral_diag_tendsto_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:10:14.870405+00:00
 -- url     : https://prove2.me/theorems/fb23b1db-c341-4cdb-8edf-569fd051c6ba
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_galeShapley_not_truthful_women
 -- name    : StableMatching.galeShapley_not_truthful_women
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:44:17.276443+00:00
 -- url     : https://prove2.me/theorems/0bf5bb7d-8fc4-4997-b2dc-ec4b9626864c
 -- title:

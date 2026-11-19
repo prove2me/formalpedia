@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_invariant_state_uniform_mixture
 -- name    : InfoDerivQT.invariant_state_uniform_mixture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:24:42.770976+00:00
 -- url     : https://prove2.me/theorems/56f11d18-5422-4083-a641-9b06cf32ed63
 -- title:

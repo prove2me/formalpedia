@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_torsion_eq_zero_iff_plane_curve
 -- name    : DoCarmoDG.torsion_eq_zero_iff_plane_curve
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:39:43.138649+00:00
 -- url     : https://prove2.me/theorems/35a98467-9925-4e2c-8246-e16fb9c878dd
 -- title:

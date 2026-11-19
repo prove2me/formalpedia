@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCWCentralizer_usc_continuity_points_residual
 -- name    : BCWCentralizer.usc_continuity_points_residual
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:13:25.570537+00:00
 -- url     : https://prove2.me/theorems/2b751f7a-5ed7-43f2-86e6-f7fd8968b1bc
 -- title:

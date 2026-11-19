@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_grad_lineIntegral_potential
 -- name    : VectorCalculus.grad_lineIntegral_potential
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:17:56.988404+00:00
 -- url     : https://prove2.me/theorems/64bb9c7b-f7a0-4686-8a3f-d6ad3e75bfa7
 -- title:

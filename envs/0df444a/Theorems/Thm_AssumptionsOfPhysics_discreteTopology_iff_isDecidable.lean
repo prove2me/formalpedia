@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_discreteTopology_iff_isDecidable
 -- name    : AssumptionsOfPhysics.discreteTopology_iff_isDecidable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T18:12:19.914973+00:00
 -- url     : https://prove2.me/theorems/e25a4188-a247-477c-b80c-ba244b0b5a02
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchinzelHypothesisH_twin_primes_of_hypothesis_H
 -- name    : SchinzelHypothesisH.twin_primes_of_hypothesis_H
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:22:20.619488+00:00
 -- url     : https://prove2.me/theorems/eac8de62-a560-4622-ab46-d32ae36c7466
 -- title:

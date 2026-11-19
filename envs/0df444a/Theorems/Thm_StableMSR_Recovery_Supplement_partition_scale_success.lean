@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_partition_scale_success
 -- name    : StableMSR.Recovery.Supplement.partition_scale_success
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:14:34.68299+00:00
 -- url     : https://prove2.me/theorems/7d7f41d7-91e1-43a0-9dcb-e26873a6cd71

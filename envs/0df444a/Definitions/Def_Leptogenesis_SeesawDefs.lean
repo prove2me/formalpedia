@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Leptogenesis_SeesawDefs
 -- name    : Leptogenesis_SeesawDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:27:37.859494+00:00
 -- url     : https://prove2.me/theorems/7f469355-471d-4272-bfa3-019324429ac2
 -- title:

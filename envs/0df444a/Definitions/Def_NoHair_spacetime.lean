@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NoHair_spacetime
 -- name    : NoHair_spacetime
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T18:52:42.089189+00:00
 -- url     : https://prove2.me/theorems/bb86f59e-bd9c-4837-b65b-49b71e8d0e7b
 -- title:

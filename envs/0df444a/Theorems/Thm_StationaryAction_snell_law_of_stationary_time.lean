@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_snell_law_of_stationary_time
 -- name    : StationaryAction.snell_law_of_stationary_time
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:39:35.362357+00:00
 -- url     : https://prove2.me/theorems/f6597ea6-6e6a-43e2-9216-904b8d19743c
 -- title:

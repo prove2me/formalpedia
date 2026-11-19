@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Hairer_reconstruction_existence_pointwise_nonpos
 -- name    : Hairer.reconstruction_existence_pointwise_nonpos
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T12:15:59.288606+00:00
 -- url     : https://prove2.me/theorems/a1aef1ca-113d-4680-a38f-cf663cef85ba
 -- title:

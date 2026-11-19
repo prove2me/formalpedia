@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IwasawaMainConjecture_charPoly_integral
 -- name    : IwasawaMainConjecture.charPoly_integral
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T17:24:38.899249+00:00
 -- url     : https://prove2.me/theorems/7b5cf7f3-f2bf-44a4-af51-3402ffa41ac2
 -- title:

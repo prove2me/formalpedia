@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_uniform_cauchy
 -- name    : Rudin.ch07_uniform_cauchy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:06:04.491631+00:00
 -- url     : https://prove2.me/theorems/d1ee58ea-d1b9-4380-90b1-fd572fe5d2e6
 -- title:

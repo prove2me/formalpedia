@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_AgohGiuga_giuga_criterion
 -- name    : FCP.AgohGiuga.giuga_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:17:46.867792+00:00
 -- url     : https://prove2.me/theorems/f47cdc6e-0596-4812-b182-8dac3e22e880
 -- title:

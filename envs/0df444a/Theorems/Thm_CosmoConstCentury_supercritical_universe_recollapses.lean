@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_supercritical_universe_recollapses
 -- name    : CosmoConstCentury.supercritical_universe_recollapses
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T11:10:30.275121+00:00
 -- url     : https://prove2.me/theorems/0276ff02-6414-47a9-b53d-c7386b4473ee
 -- title:

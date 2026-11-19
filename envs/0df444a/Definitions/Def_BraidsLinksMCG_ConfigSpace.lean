@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BraidsLinksMCG_ConfigSpace
 -- name    : BraidsLinksMCG_ConfigSpace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:57:12.770988+00:00
 -- url     : https://prove2.me/theorems/a3deed61-1ca1-4d3a-b07a-11fd40c40bad
 -- title:

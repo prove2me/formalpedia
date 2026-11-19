@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SymplecticBallPacking_full_packing_dim4
 -- name    : SymplecticBallPacking.full_packing_dim4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T02:57:21.362039+00:00
 -- url     : https://prove2.me/theorems/eb18c47a-4c8b-42ca-ba7c-f5e30d6bbb5d
 -- title:

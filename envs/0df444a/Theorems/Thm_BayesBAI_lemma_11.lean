@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesBAI_lemma_11
 -- name    : BayesBAI.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:53:39.618778+00:00
 -- url     : https://prove2.me/theorems/08881800-2691-4745-a109-4312d8683305

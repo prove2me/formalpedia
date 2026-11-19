@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_no_even_torsion
 -- name    : BQC.no_even_torsion
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:27:50.391378+00:00
 -- url     : https://prove2.me/theorems/abb6a2e7-18ab-4f8f-bb07-e26a9afefd2c
 -- title:

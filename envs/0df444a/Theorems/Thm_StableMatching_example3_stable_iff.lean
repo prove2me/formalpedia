@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_example3_stable_iff
 -- name    : StableMatching.example3_stable_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:44:43.037618+00:00
 -- url     : https://prove2.me/theorems/71f456da-dbf8-47a2-be93-f250e3abb8de
 -- title:

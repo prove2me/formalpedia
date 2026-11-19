@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop10_inner_product_is_entropic
 -- name    : UnphysicalHilbert.prop10_inner_product_is_entropic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:06:35.573151+00:00
 -- url     : https://prove2.me/theorems/5fedc74c-7263-4540-8e49-0e80cd3140a4
 -- title:

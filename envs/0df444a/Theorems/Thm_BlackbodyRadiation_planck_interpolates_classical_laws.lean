@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planck_interpolates_classical_laws
 -- name    : BlackbodyRadiation.planck_interpolates_classical_laws
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:06:44.513248+00:00
 -- url     : https://prove2.me/theorems/29119e2d-cd99-4e56-8aef-b5bd53df9ac9
 -- title:

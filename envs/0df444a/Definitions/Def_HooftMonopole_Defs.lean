@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HooftMonopole_Defs
 -- name    : HooftMonopole_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:50:58.665819+00:00
 -- url     : https://prove2.me/theorems/7cb8796b-7a44-4285-9ee8-450aea374ea6
 -- title:

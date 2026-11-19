@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SEF_theta
 -- name    : SEF_theta
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T18:41:45.636695+00:00
 -- url     : https://prove2.me/theorems/5c7caf96-fdeb-4565-b166-aa8868fd7122
 -- title:

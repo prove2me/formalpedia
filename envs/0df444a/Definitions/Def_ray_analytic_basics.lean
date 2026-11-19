@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_analytic_basics
 -- name    : ray_analytic_basics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T20:51:40.346895+00:00
 -- url     : https://prove2.me/theorems/ddbfb0ea-7f29-476d-8ddb-5e6378a824e6
 -- title:

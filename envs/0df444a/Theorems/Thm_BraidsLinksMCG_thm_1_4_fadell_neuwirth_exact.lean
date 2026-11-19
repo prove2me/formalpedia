@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_thm_1_4_fadell_neuwirth_exact
 -- name    : BraidsLinksMCG.thm_1_4_fadell_neuwirth_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:59:25.194448+00:00
 -- url     : https://prove2.me/theorems/85ea05ac-3625-4869-a235-1ed7c24d1460
 -- title:

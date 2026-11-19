@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CODATA2022_radiation_constants
 -- name    : CODATA2022_radiation_constants
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:59:47.06498+00:00
 -- url     : https://prove2.me/theorems/77b25104-7ff1-4bee-8573-5115115e4a8f
 -- title:

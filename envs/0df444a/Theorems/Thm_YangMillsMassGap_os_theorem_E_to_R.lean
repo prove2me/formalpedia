@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMillsMassGap_os_theorem_E_to_R
 -- name    : YangMillsMassGap.os_theorem_E_to_R
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:46:09.222293+00:00
 -- url     : https://prove2.me/theorems/b3f7a688-2220-47c6-b6ee-fc010040be72
 -- title:

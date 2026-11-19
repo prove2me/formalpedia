@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CTB_alg
 -- name    : CTB_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:12:24.491766+00:00
 -- url     : https://prove2.me/theorems/7aa14f91-dc83-47e7-a80b-722d1347a6c6
 -- title:

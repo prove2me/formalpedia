@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerNotify_closing_step
 -- name    : VolunteerNotify.closing_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:40:06.61759+00:00
 -- url     : https://prove2.me/theorems/9d4cdbdd-d731-4375-8101-0c5de917efa0

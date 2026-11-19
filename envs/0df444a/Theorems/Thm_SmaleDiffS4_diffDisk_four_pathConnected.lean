@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleDiffS4_diffDisk_four_pathConnected
 -- name    : SmaleDiffS4.diffDisk_four_pathConnected
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:47:50.106502+00:00
 -- url     : https://prove2.me/theorems/5ecceafe-4175-46c1-a6dd-fd27ddd396c5
 -- title:

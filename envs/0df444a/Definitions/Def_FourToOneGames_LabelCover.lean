@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FourToOneGames_LabelCover
 -- name    : FourToOneGames_LabelCover
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:00:19.132359+00:00
 -- url     : https://prove2.me/theorems/bc429335-aff0-4c47-a2f2-65535cb341f6
 -- title:

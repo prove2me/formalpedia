@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_matter_wave_relation
 -- name    : EnergyMomentum.matter_wave_relation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:16:59.150066+00:00
 -- url     : https://prove2.me/theorems/d010016a-66ee-4564-9199-ef9bb28b8dde
 -- title:

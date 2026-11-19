@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_derived_planck_units
 -- name    : PlanckUnits.derived_planck_units
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:40:18.309059+00:00
 -- url     : https://prove2.me/theorems/09ee4980-7894-4227-8ad5-a2872db770e0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDC_pattern_facts
 -- name    : SDC.pattern_facts
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T09:22:44.60102+00:00
 -- url     : https://prove2.me/theorems/71d4a9b0-7d7d-4cf0-b8de-5bd144b4a0e5
 -- title:

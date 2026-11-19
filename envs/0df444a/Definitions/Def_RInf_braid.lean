@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RInf_braid
 -- name    : RInf_braid
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T23:10:48.726916+00:00
 -- url     : https://prove2.me/theorems/900dc54f-e62f-40ed-8af1-744c56f02534
 -- title:

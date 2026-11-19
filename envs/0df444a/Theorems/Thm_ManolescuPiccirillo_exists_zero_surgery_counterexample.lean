@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_exists_zero_surgery_counterexample
 -- name    : ManolescuPiccirillo.exists_zero_surgery_counterexample
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:52:46.780263+00:00
 -- url     : https://prove2.me/theorems/361b0a4c-3c6a-49c6-b4c6-17f7533553c6
 -- title:

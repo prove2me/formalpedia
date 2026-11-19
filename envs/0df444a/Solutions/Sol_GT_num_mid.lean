@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.num_mid
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:41:12.826733+00:00
 -- url     : https://prove2.me/submissions/7c1631e5-4ce4-4759-ab70-094deaa8c4f8
 

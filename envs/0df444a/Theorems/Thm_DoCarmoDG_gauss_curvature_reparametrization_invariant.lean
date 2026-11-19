@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_gauss_curvature_reparametrization_invariant
 -- name    : DoCarmoDG.gauss_curvature_reparametrization_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:16:33.00637+00:00
 -- url     : https://prove2.me/theorems/878e3afd-e08d-45da-960f-0de004df0388
 -- title:

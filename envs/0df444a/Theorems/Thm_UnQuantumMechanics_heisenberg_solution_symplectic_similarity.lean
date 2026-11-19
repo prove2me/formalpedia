@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_heisenberg_solution_symplectic_similarity
 -- name    : UnQuantumMechanics.heisenberg_solution_symplectic_similarity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:49:09.853487+00:00
 -- url     : https://prove2.me/theorems/15714d90-c8fe-4916-8a3a-d498f337d0a0
 -- title:

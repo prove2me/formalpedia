@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_frenet_trihedron_orthonormal
 -- name    : DoCarmoDG.frenet_trihedron_orthonormal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:19:55.013872+00:00
 -- url     : https://prove2.me/theorems/47e67018-ecbd-43de-901c-a9e11a9574ba
 -- title:

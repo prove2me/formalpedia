@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_einstein_static_collapse
 -- name    : EinsteinStaticUniverse.einstein_static_collapse
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:26:21.210784+00:00
 -- url     : https://prove2.me/theorems/503c7148-94f5-459f-ab91-b3e6f9aca921
 -- title:

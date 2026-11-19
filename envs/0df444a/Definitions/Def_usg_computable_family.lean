@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_usg_computable_family
 -- name    : usg_computable_family
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T12:16:34.642436+00:00
 -- url     : https://prove2.me/theorems/b2745244-ec05-436c-be1e-17a815e005b9
 -- title:

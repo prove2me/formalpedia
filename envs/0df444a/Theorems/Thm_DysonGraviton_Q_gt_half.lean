@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_Q_gt_half
 -- name    : DysonGraviton.Q_gt_half
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:46:49.06954+00:00
 -- url     : https://prove2.me/theorems/66dbf165-a097-4cc9-a349-ca7829fd0f5d
 -- title:

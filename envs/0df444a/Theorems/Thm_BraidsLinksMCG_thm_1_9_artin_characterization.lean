@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_thm_1_9_artin_characterization
 -- name    : BraidsLinksMCG.thm_1_9_artin_characterization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T19:01:57.743928+00:00
 -- url     : https://prove2.me/theorems/3a0a03dd-ee9b-4c58-9adc-210457d1685f
 -- title:

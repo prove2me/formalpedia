@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_factorial_isBenfordSeq
 -- name    : BenfordLaw.factorial_isBenfordSeq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:12.287704+00:00
 -- url     : https://prove2.me/theorems/e08f823b-2bee-4693-8346-06230d41194c
 -- title:

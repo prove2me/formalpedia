@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.bilin7
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:51:54.996756+00:00
 -- url     : https://prove2.me/submissions/ff53e753-91b5-402c-8a9f-3951f352d15e
 

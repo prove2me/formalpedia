@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_everything_tensions
 -- name    : LocalDistanceNetwork.everything_tensions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T20:33:43.496104+00:00
 -- url     : https://prove2.me/theorems/d269f147-fa55-4edd-9345-eb27ed722d26
 -- title:

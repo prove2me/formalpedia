@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_InfoDerivQT_framework
 -- name    : InfoDerivQT_framework
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T05:25:21.205881+00:00
 -- url     : https://prove2.me/theorems/28e4f294-9e8a-46ef-bbbb-b0f46a3c21ae
 -- title:

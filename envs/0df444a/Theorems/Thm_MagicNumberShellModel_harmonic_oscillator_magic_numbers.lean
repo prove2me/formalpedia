@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MagicNumberShellModel_harmonic_oscillator_magic_numbers
 -- name    : MagicNumberShellModel.harmonic_oscillator_magic_numbers
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T19:32:40.526397+00:00
 -- url     : https://prove2.me/theorems/ab24b14a-9253-4cd5-a1ed-24947cd464c1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_su2_double_cover_so3
 -- name    : SiegelFields.su2_double_cover_so3
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T02:03:32.121128+00:00
 -- url     : https://prove2.me/theorems/1955eca4-6ce1-431d-b742-b974d3474c1f
 -- title:

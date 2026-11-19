@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_totalElectrons_gaussianFilamentProfile
 -- name    : SZFilaments.totalElectrons_gaussianFilamentProfile
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:01:27.282336+00:00
 -- url     : https://prove2.me/theorems/50340d9d-ca25-494f-b0d0-a6547dab3df8
 -- title:

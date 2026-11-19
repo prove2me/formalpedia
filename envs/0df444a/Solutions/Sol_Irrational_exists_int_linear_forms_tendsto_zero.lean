@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Irrational.exists_int_linear_forms_tendsto_zero
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T21:24:03.304994+00:00
 -- url     : https://prove2.me/submissions/859f21ff-6700-429b-9d19-adb617c3471b
 

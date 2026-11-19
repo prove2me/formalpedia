@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SiegelFields_SpinDefs
 -- name    : SiegelFields_SpinDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T00:33:30.021748+00:00
 -- url     : https://prove2.me/theorems/1dad27c0-c541-44ed-b768-311446422cb3
 -- title:

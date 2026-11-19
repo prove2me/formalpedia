@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckShape_zero_mul_exp_tendsto_one_atTop
 -- name    : BlackbodyRadiation.planckShape_zero_mul_exp_tendsto_one_atTop
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:43:34.751688+00:00
 -- url     : https://prove2.me/theorems/87844a2d-d9eb-4013-bd9a-0381efa61749
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA_derived_exact
 -- name    : CODATA.derived_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T01:39:45.205989+00:00
 -- url     : https://prove2.me/theorems/97b18445-a04f-4d0c-98a9-810db112346e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_exists_motion
 -- name    : Pendulum.exists_motion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:21:41.913292+00:00
 -- url     : https://prove2.me/theorems/cb2b7bdb-30a7-4eaa-b380-456609523be1
 -- title:

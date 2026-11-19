@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_R_ge
 -- name    : GT.R_ge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:05.907444+00:00
 -- url     : https://prove2.me/theorems/c21c89be-da0c-45f5-9779-3e6ca6b42f62
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.exists_projection_linear_map
 -- status  : ACCEPTED   (disprove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T13:20:23.167708+00:00
 -- url     : https://prove2.me/submissions/40b674ae-d522-403e-b3a5-4ccd1967ccbb
 

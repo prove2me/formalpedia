@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_ideal_gas_law_per_molecule
 -- name    : BoltzmannConstant.ideal_gas_law_per_molecule
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:07:06.74478+00:00
 -- url     : https://prove2.me/theorems/6161a231-99d9-4ad8-92db-185eae35e27b
 -- title:

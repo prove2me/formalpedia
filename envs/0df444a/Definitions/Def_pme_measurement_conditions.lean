@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_pme_measurement_conditions
 -- name    : pme_measurement_conditions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:20:32.422996+00:00
 -- url     : https://prove2.me/theorems/e2ed697f-e34d-4c70-8a98-48ee3be8fcfa
 -- title:

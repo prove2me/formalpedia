@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_brocard_conjecture
 -- name    : Brocard.brocard_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:56:49.042464+00:00
 -- url     : https://prove2.me/theorems/d18dc170-ed22-41d9-934b-d199f8ebaa03
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_endoscopicIndex_isClosedSubsystem
 -- name    : NgoFL.endoscopicIndex_isClosedSubsystem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:24:52.556252+00:00
 -- url     : https://prove2.me/theorems/6b7846ae-46b4-4d61-97e2-0199a57b89c0
 -- title:

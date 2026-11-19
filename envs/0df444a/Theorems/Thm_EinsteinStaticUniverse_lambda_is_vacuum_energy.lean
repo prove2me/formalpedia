@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinStaticUniverse_lambda_is_vacuum_energy
 -- name    : EinsteinStaticUniverse.lambda_is_vacuum_energy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:21:08.886164+00:00
 -- url     : https://prove2.me/theorems/6d559b35-0295-4a9f-aeda-ed7d4e894fcc
 -- title:

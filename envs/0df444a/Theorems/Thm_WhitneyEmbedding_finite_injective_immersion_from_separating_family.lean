@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_finite_injective_immersion_from_separating_family
 -- name    : WhitneyEmbedding.finite_injective_immersion_from_separating_family
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T11:59:26.873787+00:00
 -- url     : https://prove2.me/theorems/a879ae4a-3076-46aa-8b8e-a927cba6d74e
 -- title:

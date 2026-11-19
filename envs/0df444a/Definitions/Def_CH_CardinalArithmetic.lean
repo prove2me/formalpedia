@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CH_CardinalArithmetic
 -- name    : CH_CardinalArithmetic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T22:24:04.96095+00:00
 -- url     : https://prove2.me/theorems/054eaf8c-e6cd-4323-95b1-ef27b4543d73
 -- title:

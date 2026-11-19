@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_potential_expanded_form
 -- name    : MDOUnifiedCosmology.potential_expanded_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:31:38.620071+00:00
 -- url     : https://prove2.me/theorems/d3077047-b0d5-4b43-be56-75145db7456f
 -- title:

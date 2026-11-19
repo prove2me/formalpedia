@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_transition_cocycle
 -- name    : SenTachyon.transition_cocycle
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:11:58.124987+00:00
 -- url     : https://prove2.me/theorems/c03e4997-fa95-4924-bee5-a32cf4a4ba3b
 -- title:

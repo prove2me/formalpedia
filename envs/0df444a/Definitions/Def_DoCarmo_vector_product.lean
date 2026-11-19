@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DoCarmo_vector_product
 -- name    : DoCarmo_vector_product
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:12:42.89056+00:00
 -- url     : https://prove2.me/theorems/418b1d3e-35b3-49bc-8100-9231e798ef6b
 -- title:

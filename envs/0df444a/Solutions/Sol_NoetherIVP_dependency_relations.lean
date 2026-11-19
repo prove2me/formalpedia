@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NoetherIVP.dependency_relations
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T16:22:51.129954+00:00
 -- url     : https://prove2.me/submissions/8517d270-a953-45c9-ba6f-0518496b623a
 

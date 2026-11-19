@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_isogeny_coreflection
 -- name    : NgoFL.isogeny_coreflection
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T22:51:55.287998+00:00
 -- url     : https://prove2.me/theorems/1871e631-e241-49b0-9ccb-ca3425b60f60
 -- title:

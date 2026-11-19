@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GT_multizeta
 -- name    : GT_multizeta
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:09:39.456604+00:00
 -- url     : https://prove2.me/theorems/ba2637f6-8d86-45b5-8fd3-22520a407c37
 -- title:

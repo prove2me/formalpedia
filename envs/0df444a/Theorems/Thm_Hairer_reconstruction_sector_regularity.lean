@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Hairer_reconstruction_sector_regularity
 -- name    : Hairer.reconstruction_sector_regularity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:45:01.48113+00:00
 -- url     : https://prove2.me/theorems/9615a823-fbf8-4bf2-9ec7-84f439500d43
 -- title:

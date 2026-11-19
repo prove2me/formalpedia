@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OpenGA.SurgeryContinuationData.definedUpTo_of_locallyFinite
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:38:17.211852+00:00
 -- url     : https://prove2.me/submissions/c472e7f8-549f-450b-b124-b4cee5bc40d6
 

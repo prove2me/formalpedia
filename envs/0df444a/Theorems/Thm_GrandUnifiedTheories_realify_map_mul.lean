@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_realify_map_mul
 -- name    : GrandUnifiedTheories.realify_map_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:58:52.201236+00:00
 -- url     : https://prove2.me/theorems/45b64882-a3dc-48b5-94b7-8c4ab63cdb31
 -- title:

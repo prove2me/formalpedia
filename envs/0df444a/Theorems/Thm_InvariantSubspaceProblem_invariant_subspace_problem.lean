@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_invariant_subspace_problem
 -- name    : InvariantSubspaceProblem.invariant_subspace_problem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T17:27:39.193928+00:00
 -- url     : https://prove2.me/theorems/2f280041-16aa-484e-9c89-f067f43c8daa
 -- title:

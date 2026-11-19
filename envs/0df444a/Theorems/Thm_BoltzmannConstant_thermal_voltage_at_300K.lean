@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannConstant_thermal_voltage_at_300K
 -- name    : BoltzmannConstant.thermal_voltage_at_300K
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T15:19:53.828743+00:00
 -- url     : https://prove2.me/theorems/bfbd236d-87b1-4ece-8b6d-1bdff54c6b1f
 -- title:

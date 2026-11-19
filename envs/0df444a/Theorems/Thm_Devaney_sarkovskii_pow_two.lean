@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_sarkovskii_pow_two
 -- name    : Devaney.sarkovskii_pow_two
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:27:47.895981+00:00
 -- url     : https://prove2.me/theorems/72dce3fd-6402-4537-9150-12d358ea2a9b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DS3Micro_Neff_closed_form
 -- name    : DS3Micro.Neff_closed_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:15:18.392351+00:00
 -- url     : https://prove2.me/theorems/f72dce5b-ca46-41fa-bc89-81e9305fcb27
 -- title:

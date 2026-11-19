@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_dirichlet_inverse_completely_multiplicative
 -- name    : QRH.dirichlet_inverse_completely_multiplicative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:47:42.346202+00:00
 -- url     : https://prove2.me/theorems/b4742e1e-020b-4d60-b15e-c49454a85ca6
 -- title:

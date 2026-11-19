@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_lemma_4_12
 -- name    : CoDecompFO.lemma_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:01.445208+00:00
 -- url     : https://prove2.me/theorems/1295cdc2-0f82-46c4-bb41-e1dae65cbdb7

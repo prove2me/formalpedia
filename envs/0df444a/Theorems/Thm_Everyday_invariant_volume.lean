@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_invariant_volume
 -- name    : Everyday.invariant_volume
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:14:29.319468+00:00
 -- url     : https://prove2.me/theorems/25adff0b-008d-4197-aa56-08957e094195
 -- title:

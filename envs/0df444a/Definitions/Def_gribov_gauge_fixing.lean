@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_gribov_gauge_fixing
 -- name    : gribov_gauge_fixing
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:13:47.227679+00:00
 -- url     : https://prove2.me/theorems/5bb24768-f438-43b2-a78a-a48997db3c69
 -- title:

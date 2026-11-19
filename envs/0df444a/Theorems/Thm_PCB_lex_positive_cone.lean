@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PCB_lex_positive_cone
 -- name    : PCB.lex_positive_cone
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:16:20.372367+00:00
 -- url     : https://prove2.me/theorems/e84644cf-0d97-4e21-856f-663ba92c290e
 -- title:

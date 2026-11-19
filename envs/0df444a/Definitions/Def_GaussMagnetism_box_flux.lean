@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GaussMagnetism_box_flux
 -- name    : GaussMagnetism_box_flux
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T18:58:21.628695+00:00
 -- url     : https://prove2.me/theorems/91ff56f5-c0cd-4338-8395-a820c1717c5c
 -- title:

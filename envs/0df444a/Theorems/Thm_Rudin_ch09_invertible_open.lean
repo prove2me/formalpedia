@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch09_invertible_open
 -- name    : Rudin.ch09_invertible_open
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:06:13.942885+00:00
 -- url     : https://prove2.me/theorems/950f6d18-de77-4ce8-994e-f98113324df3
 -- title:

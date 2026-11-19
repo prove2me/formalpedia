@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LopesQM_Defs
 -- name    : LopesQM_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:39:20.228799+00:00
 -- url     : https://prove2.me/theorems/b66ba78f-d500-4433-b44a-65d80f1d315b
 -- title:

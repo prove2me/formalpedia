@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ColemanMandula_Scattering
 -- name    : ColemanMandula_Scattering
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:38:17.333606+00:00
 -- url     : https://prove2.me/theorems/08a92bf9-e205-4f86-aa2c-4fe3b9560fa7
 -- title:

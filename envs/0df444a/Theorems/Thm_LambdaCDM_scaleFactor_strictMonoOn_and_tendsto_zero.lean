@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_scaleFactor_strictMonoOn_and_tendsto_zero
 -- name    : LambdaCDM.scaleFactor_strictMonoOn_and_tendsto_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:00:27.074504+00:00
 -- url     : https://prove2.me/theorems/8c7731d4-7cce-477a-80aa-f89fd0def507
 -- title:

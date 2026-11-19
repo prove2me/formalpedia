@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KoanaKPaths_Main_graph_estimator_machine
 -- name    : KoanaKPaths.Main.graph_estimator_machine
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T01:46:52.747519+00:00
 -- url     : https://prove2.me/theorems/59e02021-fd13-41e3-bc05-5f31bddf77d8

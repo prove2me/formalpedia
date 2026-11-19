@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_moebius_summatory_rpow_bound
 -- name    : moebius_summatory_rpow_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T19:17:20.327316+00:00
 -- url     : https://prove2.me/theorems/292f61ee-b8e1-40cd-a590-4c1ab11c7500
 -- title:

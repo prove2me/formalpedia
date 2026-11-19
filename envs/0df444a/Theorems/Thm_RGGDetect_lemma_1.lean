@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RGGDetect_lemma_1
 -- name    : RGGDetect.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:35:57.845204+00:00
 -- url     : https://prove2.me/theorems/13058d59-dded-4315-8309-89647656ec4c

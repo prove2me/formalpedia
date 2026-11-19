@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_vacuum_efe_iff_ricci_flat
 -- name    : EinsteinFieldEquations.vacuum_efe_iff_ricci_flat
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:46:21.626615+00:00
 -- url     : https://prove2.me/theorems/e145ef8c-5b1b-44aa-b03a-73d1ae819483
 -- title:

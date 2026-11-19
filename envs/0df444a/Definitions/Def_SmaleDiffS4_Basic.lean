@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SmaleDiffS4_Basic
 -- name    : SmaleDiffS4_Basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:32:12.368987+00:00
 -- url     : https://prove2.me/theorems/84d01d36-7eac-4927-8f7d-9902f19b3884
 -- title:

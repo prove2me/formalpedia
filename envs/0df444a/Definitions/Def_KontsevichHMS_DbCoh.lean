@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KontsevichHMS_DbCoh
 -- name    : KontsevichHMS_DbCoh
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:51:06.377501+00:00
 -- url     : https://prove2.me/theorems/996944cd-0461-41d0-a8c2-6e752c735068
 -- title:

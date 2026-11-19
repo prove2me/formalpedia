@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_finite_possibilities_tfae
 -- name    : AssumptionsOfPhysics.finite_possibilities_tfae
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:46:57.889741+00:00
 -- url     : https://prove2.me/theorems/8135f9cf-28e2-4f3a-b71b-7a52dede5f36
 -- title:

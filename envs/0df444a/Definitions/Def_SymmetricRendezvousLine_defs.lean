@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SymmetricRendezvousLine_defs
 -- name    : SymmetricRendezvousLine_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:52:23.682126+00:00
 -- url     : https://prove2.me/theorems/c5135b79-2bd8-4ff3-8dc5-c63e025a11e0
 -- title:

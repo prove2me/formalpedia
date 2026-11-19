@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LorentzFactorDefs
 -- name    : LorentzFactorDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:29:48.673519+00:00
 -- url     : https://prove2.me/theorems/b5302bd5-c049-44cc-b85a-79854fd16f38
 -- title:

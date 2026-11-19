@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_sullivan_no_wandering_domains
 -- name    : MilnorDynamics.sullivan_no_wandering_domains
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T12:57:56.682787+00:00
 -- url     : https://prove2.me/theorems/ab5aa18a-6ccc-48c0-93c3-6a21fe83457c
 -- title:

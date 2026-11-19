@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Levin2003_tilingExpansion_lengthPreserving
 -- name    : Levin2003.tilingExpansion_lengthPreserving
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:57:32.793839+00:00
 -- url     : https://prove2.me/theorems/430a1253-a6f8-4318-a2ac-92e619f866b3
 -- title:

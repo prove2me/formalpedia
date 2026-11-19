@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_L_series_summable
 -- name    : RamanujanPetersson.L_series_summable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:17:23.245856+00:00
 -- url     : https://prove2.me/theorems/0ebc5789-f790-4652-9f0a-077e6bd419e7
 -- title:

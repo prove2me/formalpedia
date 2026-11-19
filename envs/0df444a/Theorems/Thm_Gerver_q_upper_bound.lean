@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_q_upper_bound
 -- name    : Gerver.q_upper_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:15:00.289876+00:00
 -- url     : https://prove2.me/theorems/f317e49a-477d-4fda-a682-7ffea818a7e6
 -- title:

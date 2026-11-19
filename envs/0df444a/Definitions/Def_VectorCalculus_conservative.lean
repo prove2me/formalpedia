@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_VectorCalculus_conservative
 -- name    : VectorCalculus_conservative
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:02:28.707607+00:00
 -- url     : https://prove2.me/theorems/5dc9943a-5503-4949-be5d-69b32b215875
 -- title:

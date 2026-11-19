@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TarchaBraids_HalfTwist
 -- name    : TarchaBraids_HalfTwist
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T23:36:08.475925+00:00
 -- url     : https://prove2.me/theorems/d52269d2-54da-440e-92d6-9b5e3394a215
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnvyFreeCake104_Divide_claim_7
 -- name    : EnvyFreeCake104.Divide.claim_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:09:56.515942+00:00
 -- url     : https://prove2.me/theorems/28b14736-b9c5-4b5f-8ea1-07aaaeb21183

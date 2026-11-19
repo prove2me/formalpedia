@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_isPreconnected_iInter_of_antitone_isCompact
 -- name    : isPreconnected_iInter_of_antitone_isCompact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:44:05.928485+00:00
 -- url     : https://prove2.me/theorems/9fecd9d4-da3a-4839-82e5-32abd22dc1ab
 -- title:

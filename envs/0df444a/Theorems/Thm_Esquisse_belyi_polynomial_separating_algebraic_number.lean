@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Esquisse_belyi_polynomial_separating_algebraic_number
 -- name    : Esquisse.belyi_polynomial_separating_algebraic_number
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T22:01:48.772148+00:00
 -- url     : https://prove2.me/theorems/31fdddff-b311-43a6-b100-82df1d582e79
 -- title:

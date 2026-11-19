@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAOAE3Lin2_General_eq_7_odd
 -- name    : QAOAE3Lin2.General.eq_7_odd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:15.661988+00:00
 -- url     : https://prove2.me/theorems/7d6906f6-6fc0-4e4f-bdd6-ab60771188ed

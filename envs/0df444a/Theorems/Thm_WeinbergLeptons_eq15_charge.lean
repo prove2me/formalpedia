@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_eq15_charge
 -- name    : WeinbergLeptons.eq15_charge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:57:34.416225+00:00
 -- url     : https://prove2.me/theorems/49aeab17-d4a0-4fbb-af35-39bee2efe3c3
 -- title:

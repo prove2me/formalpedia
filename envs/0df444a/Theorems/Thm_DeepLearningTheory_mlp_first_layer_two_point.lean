@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_mlp_first_layer_two_point
 -- name    : DeepLearningTheory.mlp_first_layer_two_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:28:15.033992+00:00
 -- url     : https://prove2.me/theorems/8d33db27-68f0-47fa-a99d-aa98a1510e09
 -- title:

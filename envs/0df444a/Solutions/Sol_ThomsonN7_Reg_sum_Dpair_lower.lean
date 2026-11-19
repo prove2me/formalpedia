@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonN7.Reg.sum_Dpair_lower
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:09:00.014988+00:00
 -- url     : https://prove2.me/submissions/a451afe9-ed4e-4733-8355-c742c3791435
 

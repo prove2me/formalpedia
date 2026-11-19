@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_neutral_rotation_inverse
 -- name    : ElectroweakWiki.neutral_rotation_inverse
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T20:04:21.929641+00:00
 -- url     : https://prove2.me/theorems/94a53256-6118-484b-aa9a-fa65755cf23f
 -- title:

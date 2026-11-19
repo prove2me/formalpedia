@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_quotient_mulEquiv_restrict
 -- name    : GaloisFundamental.quotient_mulEquiv_restrict
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:31:19.094338+00:00
 -- url     : https://prove2.me/theorems/c67c7bb0-b798-45a7-bd09-cc9b787f786c
 -- title:

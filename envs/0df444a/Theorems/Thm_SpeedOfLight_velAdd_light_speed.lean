@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpeedOfLight_velAdd_light_speed
 -- name    : SpeedOfLight.velAdd_light_speed
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T12:29:09.671976+00:00
 -- url     : https://prove2.me/theorems/74dd874d-0b61-4d39-9688-d5479ae408e7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_conjugate_point_implies_chronological_future
 -- name    : MathematicalRelativity.conjugate_point_implies_chronological_future
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:36:03.771114+00:00
 -- url     : https://prove2.me/theorems/c48bb4cb-795a-4fd9-bae8-463e0156c43c
 -- title:

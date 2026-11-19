@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos30_erdos_30
 -- name    : Erdos30.erdos_30
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:41:19.645871+00:00
 -- url     : https://prove2.me/theorems/cee1e460-f138-4910-ac15-f5a8fa83964a
 -- title:

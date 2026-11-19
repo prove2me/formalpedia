@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_monotone_one_sided_limits
 -- name    : Rudin.ch04_monotone_one_sided_limits
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T22:20:15.703003+00:00
 -- url     : https://prove2.me/theorems/596bc3a5-58d0-4975-a212-f9ddc5cc2d78
 -- title:

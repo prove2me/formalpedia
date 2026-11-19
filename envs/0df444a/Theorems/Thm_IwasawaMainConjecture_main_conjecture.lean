@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IwasawaMainConjecture_main_conjecture
 -- name    : IwasawaMainConjecture.main_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T17:25:55.211886+00:00
 -- url     : https://prove2.me/theorems/e5707147-e08f-4f34-8637-8c5d40535897
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NoHair_kerrNewman
 -- name    : NoHair_kerrNewman
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:19:04.765612+00:00
 -- url     : https://prove2.me/theorems/f8c3d6a0-7b2a-491b-bc20-023abe056cae
 -- title:

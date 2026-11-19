@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FRWUniverse
 -- name    : FRWUniverse
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:43:29.709182+00:00
 -- url     : https://prove2.me/theorems/4d6441d9-9403-4ad0-ace1-e37067443eed
 -- title:

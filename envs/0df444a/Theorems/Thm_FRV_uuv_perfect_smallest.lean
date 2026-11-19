@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_uuv_perfect_smallest
 -- name    : FRV.uuv_perfect_smallest
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:12:38.440517+00:00
 -- url     : https://prove2.me/theorems/d66c6006-f3cf-4ddc-853e-fb40b378669d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_llibre_conjecture
 -- name    : HilbertSixteenth.llibre_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:09:53.215365+00:00
 -- url     : https://prove2.me/theorems/a6196cb7-c915-449c-8b32-75a755a5f452
 -- title:

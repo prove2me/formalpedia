@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRWCosmology_acceleration_equation
 -- name    : FRWCosmology.acceleration_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:45:48.500129+00:00
 -- url     : https://prove2.me/theorems/900dc249-6fea-41af-af54-09bd25a20b4e
 -- title:

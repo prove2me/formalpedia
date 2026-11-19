@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_christopher_prescribed_limit_cycles
 -- name    : HilbertSixteenth.christopher_prescribed_limit_cycles
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:27:32.625092+00:00
 -- url     : https://prove2.me/theorems/50b51c1e-2853-4774-95ec-75d0d73cdac2
 -- title:

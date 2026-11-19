@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_half_le_one_sixth
 -- name    : LindelofHypothesis.mu_half_le_one_sixth
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:42:19.955218+00:00
 -- url     : https://prove2.me/theorems/fa4365c3-9396-40c0-9822-97e0bb47de02
 -- title:

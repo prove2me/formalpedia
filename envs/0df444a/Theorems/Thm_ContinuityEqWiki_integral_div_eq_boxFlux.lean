@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ContinuityEqWiki_integral_div_eq_boxFlux
 -- name    : ContinuityEqWiki.integral_div_eq_boxFlux
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:00.32499+00:00
 -- url     : https://prove2.me/theorems/37b051ed-205e-4548-a86d-745f639ad4f2
 -- title:

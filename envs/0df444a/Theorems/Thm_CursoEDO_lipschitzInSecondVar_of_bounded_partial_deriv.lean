@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CursoEDO_lipschitzInSecondVar_of_bounded_partial_deriv
 -- name    : CursoEDO.lipschitzInSecondVar_of_bounded_partial_deriv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:22:20.250683+00:00
 -- url     : https://prove2.me/theorems/15ca3350-1aca-42a0-b0c9-b8a826d8b99e
 -- title:

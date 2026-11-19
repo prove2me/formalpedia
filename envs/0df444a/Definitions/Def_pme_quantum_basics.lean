@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_pme_quantum_basics
 -- name    : pme_quantum_basics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:03:33.173114+00:00
 -- url     : https://prove2.me/theorems/c18a2c3b-46e3-4d6d-bcab-5d18e1b85120
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PvsNP_bitstring_encoding
 -- name    : PvsNP_bitstring_encoding
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T00:51:23.5815+00:00
 -- url     : https://prove2.me/theorems/bf419642-eed6-406a-897b-0bde5e07a883
 -- title:

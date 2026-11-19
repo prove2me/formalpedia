@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for SP4Mission.freedman_poincare_top
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T14:21:51.347081+00:00
 -- url     : https://prove2.me/submissions/c3926c6a-3fce-4843-a2a1-d6565fc3661e
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_causalRel_unique
 -- name    : AssumptionsOfPhysics.causalRel_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:51:42.29065+00:00
 -- url     : https://prove2.me/theorems/c5b111e6-381e-4716-a0f5-4fe8283de496
 -- title:

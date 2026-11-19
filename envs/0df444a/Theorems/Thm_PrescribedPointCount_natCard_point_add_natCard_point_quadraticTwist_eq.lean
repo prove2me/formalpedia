@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PrescribedPointCount_natCard_point_add_natCard_point_quadraticTwist_eq
 -- name    : PrescribedPointCount.natCard_point_add_natCard_point_quadraticTwist_eq
--- status  : Open
--- author  : @Lucas
+-- status  : Proved
+-- author  : @LG
 -- created : 2026-11-16T19:26:06.60364+00:00
 -- url     : https://prove2.me/theorems/107065d8-f863-47d9-9b34-27b158dd1a85
 -- title:

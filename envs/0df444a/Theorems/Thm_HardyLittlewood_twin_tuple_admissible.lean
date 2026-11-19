@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_twin_tuple_admissible
 -- name    : HardyLittlewood.twin_tuple_admissible
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:48:02.542263+00:00
 -- url     : https://prove2.me/theorems/d7adc718-1a4c-44f7-b471-382b584ea21c
 -- title:

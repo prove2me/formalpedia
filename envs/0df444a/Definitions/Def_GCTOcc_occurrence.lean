@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GCTOcc_occurrence
 -- name    : GCTOcc_occurrence
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:11:26.538185+00:00
 -- url     : https://prove2.me/theorems/da2cb0aa-5b28-4982-b885-dd44f0e7ba3f
 -- title:

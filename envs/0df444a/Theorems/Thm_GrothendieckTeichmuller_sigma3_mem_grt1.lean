@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_sigma3_mem_grt1
 -- name    : GrothendieckTeichmuller.sigma3_mem_grt1
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:45:57.332315+00:00
 -- url     : https://prove2.me/theorems/25456f95-7df7-4a29-a7a4-1717bdee9c63
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MethanolMuDrift_A_E_separation
 -- name    : MethanolMuDrift.A_E_separation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T00:16:16.117529+00:00
 -- url     : https://prove2.me/theorems/50380631-1db2-4011-aeac-06a3a0d0ecd2
 -- title:

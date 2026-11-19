@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_integrated_energy_bound
 -- name    : DeBruijnNewman.integrated_energy_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:40:48.834711+00:00
 -- url     : https://prove2.me/theorems/dac74a82-d1a1-4a25-b054-7e8af8cfc41a
 -- title:

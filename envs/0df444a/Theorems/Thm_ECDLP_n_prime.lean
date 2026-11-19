@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_n_prime
 -- name    : ECDLP.n_prime
--- status  : Open
--- author  : @Lucas
+-- status  : Proved
+-- author  : @LG
 -- created : 2026-11-16T23:43:21.957632+00:00
 -- url     : https://prove2.me/theorems/b027a3de-e9c7-432b-913b-230b275e82ca
 -- title:

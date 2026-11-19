@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_conservative_partialDeriv_symm
 -- name    : VectorCalculus.conservative_partialDeriv_symm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:19:23.642922+00:00
 -- url     : https://prove2.me/theorems/18744336-c7f6-4f2a-90a9-8fa5024522e4
 -- title:

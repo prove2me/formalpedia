@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_kim_sym_four
 -- name    : LanglandsFunctoriality.kim_sym_four
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:35:29.708285+00:00
 -- url     : https://prove2.me/theorems/49ece312-d2cf-4660-ab35-7623cb678028
 -- title:

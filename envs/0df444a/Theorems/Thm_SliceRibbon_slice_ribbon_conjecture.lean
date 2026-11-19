@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SliceRibbon_slice_ribbon_conjecture
 -- name    : SliceRibbon.slice_ribbon_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T11:57:07.920489+00:00
 -- url     : https://prove2.me/theorems/48c67eea-e699-4d84-ab3e-6444ce8f0036
 -- title:

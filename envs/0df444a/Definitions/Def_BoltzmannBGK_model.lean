@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BoltzmannBGK_model
 -- name    : BoltzmannBGK_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:14:34.855092+00:00
 -- url     : https://prove2.me/theorems/c7493027-7846-41b5-924f-e4232e82c278
 -- title:

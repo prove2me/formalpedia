@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MetodosNumericos_zerosDefs
 -- name    : MetodosNumericos_zerosDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:35:46.303538+00:00
 -- url     : https://prove2.me/theorems/6c41321f-74e2-43f2-911d-dd087ce6da4d
 -- title:

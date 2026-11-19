@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsReciprocity_reciprocity_conjecture
 -- name    : LanglandsReciprocity.reciprocity_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T02:00:17.987837+00:00
 -- url     : https://prove2.me/theorems/51a6f867-5ee8-43ac-9d63-0f74ad26e8e3
 -- title:

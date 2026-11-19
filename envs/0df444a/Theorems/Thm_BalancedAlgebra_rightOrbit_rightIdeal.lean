@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_rightOrbit_rightIdeal
 -- name    : BalancedAlgebra.rightOrbit_rightIdeal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:14:27.242793+00:00
 -- url     : https://prove2.me/theorems/86c48604-f645-4fdf-8424-89aa17442c04
 -- title:

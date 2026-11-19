@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_bad_dim_thm
 -- name    : GT.bad_dim_thm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:08.162333+00:00
 -- url     : https://prove2.me/theorems/29219a60-fb91-4ce1-9e1f-0d08314d75a9
 -- title:

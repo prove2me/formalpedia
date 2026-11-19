@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_smooth_nonsymmetric_toroidal_equilibrium
 -- name    : Landreman3DEquilibria.smooth_nonsymmetric_toroidal_equilibrium
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:41:38.5583+00:00
 -- url     : https://prove2.me/theorems/6bb51565-a13b-4f5f-bd0f-aab8ab4fef80
 -- title:

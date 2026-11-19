@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_UnQM_phase_space
 -- name    : UnQM_phase_space
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T05:23:50.776523+00:00
 -- url     : https://prove2.me/theorems/9776c2f1-1074-499b-bc38-964c925cfb7d
 -- title:

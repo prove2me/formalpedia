@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_polynomial_mul_gaussian_mem
 -- name    : SchwartzSpaceWiki.polynomial_mul_gaussian_mem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:15:22.356732+00:00
 -- url     : https://prove2.me/theorems/4fd15f7c-6984-441f-99bb-6b541060ba48
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Verlinde2016_Defs
 -- name    : Verlinde2016_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:24:38.93038+00:00
 -- url     : https://prove2.me/theorems/cc0b815f-5000-4272-871e-caedbb35d6cf
 -- title:

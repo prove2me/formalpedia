@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ZipfLaw_Defs
 -- name    : ZipfLaw_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:25:53.895255+00:00
 -- url     : https://prove2.me/theorems/80b903ce-0a62-46ef-a030-7a4fb82b4c05
 -- title:

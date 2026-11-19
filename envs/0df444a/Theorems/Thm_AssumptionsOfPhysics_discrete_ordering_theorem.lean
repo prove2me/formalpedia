@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_discrete_ordering_theorem
 -- name    : AssumptionsOfPhysics.discrete_ordering_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:46:30.661988+00:00
 -- url     : https://prove2.me/theorems/a7d262ba-8fd5-442b-8162-4b7cee193c9f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LiouvilleDiffAlg_RatFunc
 -- name    : LiouvilleDiffAlg_RatFunc
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:27:50.076357+00:00
 -- url     : https://prove2.me/theorems/f2d52cf2-6798-4a19-b650-3b57c3cdf05b
 -- title:

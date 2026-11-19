@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_energy_constant
 -- name    : Pendulum.energy_constant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:22:54.624284+00:00
 -- url     : https://prove2.me/theorems/47db1a67-90e0-4e20-b5e8-d2d2921afb10
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_relEntropy_nonneg_and_eq_zero_iff
 -- name    : ProjectiveMeasurementEquilibration.relEntropy_nonneg_and_eq_zero_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T17:14:41.303411+00:00
 -- url     : https://prove2.me/theorems/de269115-7fec-4a12-9e9a-02964b98367f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_gaussian_linear_image
 -- name    : LesHouchesWidth.gaussian_linear_image
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:01:42.176062+00:00
 -- url     : https://prove2.me/theorems/6968e07f-ca30-4072-895c-759d8bff31c4
 -- title:

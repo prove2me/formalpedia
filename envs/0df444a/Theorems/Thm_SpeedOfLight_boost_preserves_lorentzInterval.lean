@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpeedOfLight_boost_preserves_lorentzInterval
 -- name    : SpeedOfLight.boost_preserves_lorentzInterval
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T12:25:14.870003+00:00
 -- url     : https://prove2.me/theorems/d8ab7d29-ee57-4c52-943e-0d4175004213
 -- title:

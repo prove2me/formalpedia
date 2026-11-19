@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_tegmark_pde_classification
 -- name    : tegmark_pde_classification
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T01:44:26.728983+00:00
 -- url     : https://prove2.me/theorems/479c4ebb-1676-49b9-a77b-08848f7fa487
 -- title:

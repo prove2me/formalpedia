@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LipariNeutrino_OscillationProbability
 -- name    : LipariNeutrino_OscillationProbability
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:56:39.118643+00:00
 -- url     : https://prove2.me/theorems/c9df8b3e-7bcd-4354-99d4-179b4b6f5f93
 -- title:

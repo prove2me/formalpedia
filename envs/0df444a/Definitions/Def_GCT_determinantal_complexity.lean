@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GCT_determinantal_complexity
 -- name    : GCT_determinantal_complexity
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:13:12.102093+00:00
 -- url     : https://prove2.me/theorems/be509c1b-9d58-48d9-94e2-5d25507f7411
 -- title:

@@ -1697,9 +1697,9 @@
 {"parent": "QEC_Coding_ExpanderCodes_QuadraticTorus", "child": "QEC.Coding.ExpanderCodes.QuaternionGenerators.val_baseUnit", "via": ["statement"]}
 {"parent": "QEC_Coding_ExpanderCodes_QuadraticTorus", "child": "QEC.Coding.ExpanderCodes.QuaternionGenerators.mem_center_of_val_scalar", "via": ["statement"]}
 {"parent": "QEC_Coding_ExpanderCodes_QuadraticTorus", "child": "QEC.Coding.ExpanderCodes.QuaternionGenerators.val_primeUnit", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_level_fourth", "child": "QEC_Coding_ExpanderCodes_LPSThetaGaussFourthReduction", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_level_fourth", "child": "QEC_Coding_ExpanderCodes_LPSThetaGaussScalar", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_level_fourth", "child": "QEC_Coding_ExpanderCodes_LPSGaussSquare", "via": ["statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_level_fourth", "child": "QEC_Coding_ExpanderCodes_LPSThetaGaussFourthReduction", "via": ["solution", "statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_level_fourth", "child": "QEC_Coding_ExpanderCodes_LPSThetaGaussScalar", "via": ["solution", "statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_level_fourth", "child": "QEC_Coding_ExpanderCodes_LPSGaussSquare", "via": ["solution", "statement"]}
 {"parent": "FriedgutCoalition.claim_2_2", "child": "FriedgutCoalition_cubeCoalProb", "via": ["statement"]}
 {"parent": "FriedgutCoalition.claim_2_2", "child": "FriedgutCoalition_coalProb", "via": ["statement"]}
 {"parent": "HypercliqueFalse_rectEval", "child": "TrulySubcubicAPSP_WordRAM", "via": ["statement"]}
@@ -6348,8 +6348,8 @@
 {"parent": "BetheKS.proposition_5_3", "child": "BetheKS_transferOp", "via": ["statement"]}
 {"parent": "BetheKS.proposition_5_3", "child": "BetheKS_treeVertexField", "via": ["statement"]}
 {"parent": "SparseDisc_IsSPath", "child": "SparseDisc_Cube", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsTheta_mobius_scaled", "child": "QEC_Coding_ExpanderCodes_LPSThetaCusps", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsTheta_mobius_scaled", "child": "QEC_Coding_ExpanderCodes_LPSThetaCharacteristics", "via": ["statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsTheta_mobius_scaled", "child": "QEC_Coding_ExpanderCodes_LPSThetaCusps", "via": ["solution", "statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsTheta_mobius_scaled", "child": "QEC_Coding_ExpanderCodes_LPSThetaCharacteristics", "via": ["solution", "statement"]}
 {"parent": "KServerConj_IsRun", "child": "KServerConj_rowReplace", "via": ["statement"]}
 {"parent": "KServerConj_IsRun", "child": "KServerConj_initCols", "via": ["statement"]}
 {"parent": "AaronsonAmbainis.Average.meanAbsIncr_avg_le", "child": "AaronsonAmbainis_TwoSided_Basic", "via": ["solution", "statement"]}
@@ -6517,8 +6517,8 @@
 {"parent": "QEC.Coding.Why24AppendixANF.polynomialEval_evaluate_selectedFourthANFWord", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Field", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.Why24AppendixANF.polynomialEval_evaluate_selectedFourthANFWord", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Evaluation", "via": ["solution", "statement"]}
 {"parent": "RobustBoolPCSP.lemma_4_17", "child": "SymBoolPCSP_CFixing_Basic", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonDensity_exp_decay", "child": "QEC_Coding_ExpanderCodes_LPSPeterssonMeasure", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonDensity_exp_decay", "child": "QEC_Coding_ExpanderCodes_LPSCuspPeterssonTrace", "via": ["statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonDensity_exp_decay", "child": "QEC_Coding_ExpanderCodes_LPSPeterssonMeasure", "via": ["solution", "statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsCuspPeterssonDensity_exp_decay", "child": "QEC_Coding_ExpanderCodes_LPSCuspPeterssonTrace", "via": ["solution", "statement"]}
 {"parent": "HiddenPartition_bMax", "child": "HiddenPartition_edgeCount", "via": ["statement"]}
 {"parent": "SmoothedNash_frontier", "child": "SmoothedNash_grid", "via": ["statement"]}
 {"parent": "SmoothedNash_frontier", "child": "SmoothedNash_Game", "via": ["statement"]}
@@ -7102,8 +7102,8 @@
 {"parent": "QEC.Coding.Why24AppendixANF.sourceCoefficient_triple_0_3_7", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Data", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSemantics.sound5174_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSemantics.sound5174_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_mobius_raw", "child": "QEC_Coding_ExpanderCodes_LPSThetaCusps", "via": ["statement"]}
-{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_mobius_raw", "child": "QEC_Coding_ExpanderCodes_LPSThetaCharacteristics", "via": ["statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_mobius_raw", "child": "QEC_Coding_ExpanderCodes_LPSThetaCusps", "via": ["solution", "statement"]}
+{"parent": "QEC.Coding.TannerLiftedProduct.lpsStandardTheta_mobius_raw", "child": "QEC_Coding_ExpanderCodes_LPSThetaCharacteristics", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256GarciaStichtenothGenus_ngu24_identity", "child": "QEC_Coding_AlgebraicGeometry_Towers_SelectedFibreSeparation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256GarciaStichtenothGenus_ngu24_identity", "child": "QEC_Coding_AlgebraicGeometry_Towers_ExplicitGarciaStichtenothTower", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.f256GarciaStichtenothGenus_ngu24_identity", "child": "QEC_Coding_AlgebraicGeometry_Towers_ClosureGenus", "via": ["solution", "statement"]}
@@ -10682,8 +10682,8 @@
 {"parent": "AaronsonAmbainis_Dual_Sanity", "child": "AaronsonAmbainis_MainTheorem", "via": ["statement"]}
 {"parent": "AaronsonAmbainis_Dual_Sanity", "child": "AaronsonAmbainis_Dual_RowAux", "via": ["statement"]}
 {"parent": "AaronsonAmbainis_Dual_Sanity", "child": "AaronsonAmbainis_Dual_Cover", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ubv_loc6_purejump_unbounded_variation_signed_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ubv_loc6_purejump_unbounded_variation_signed_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_ubv_loc6_purejump_unbounded_variation_signed_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ubv_loc6_purejump_unbounded_variation_signed_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "MemoryRegret_IsL2Extractor", "child": "MemoryRegret_sgn", "via": ["statement"]}
 {"parent": "MemoryRegret_IsL2Extractor", "child": "MemoryRegret_IsProbVec", "via": ["statement"]}
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.two_mul_sum_binaryOverlap_cyclicShift_le", "child": "QEC_Coding_FiberBundle_HomologyRepresentatives", "via": ["solution", "statement"]}

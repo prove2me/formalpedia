@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_7_14_complete_unary_php
 -- name    : SemAC02.Supplement.theorem_7_14_complete_unary_php
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:55:28.565705+00:00
 -- url     : https://prove2.me/theorems/c87a83e9-7869-4b94-a04a-b38ecf74ec64

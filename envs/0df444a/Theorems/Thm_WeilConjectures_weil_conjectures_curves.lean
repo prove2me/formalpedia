@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_weil_conjectures_curves
 -- name    : WeilConjectures.weil_conjectures_curves
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:02:34.10914+00:00
 -- url     : https://prove2.me/theorems/e03db1bf-9bea-406e-b9e5-1dab71eb84d6
 -- title:

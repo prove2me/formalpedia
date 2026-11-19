@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AdSCFT_focusing_bound
 -- name    : AdSCFT.focusing_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:02:45.410914+00:00
 -- url     : https://prove2.me/theorems/3879440f-0c46-4561-b27e-bf35b45a3e1e
 -- title:

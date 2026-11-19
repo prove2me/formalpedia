@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_spectral_decomposition
 -- name    : InfoDerivQT.spectral_decomposition
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:46:03.947639+00:00
 -- url     : https://prove2.me/theorems/fbf1e343-f158-4b22-89ae-623a707a01ba
 -- title:

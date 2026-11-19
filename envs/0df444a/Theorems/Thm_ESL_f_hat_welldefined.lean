@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ESL_f_hat_welldefined
 -- name    : ESL.f_hat_welldefined
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:23.184081+00:00
 -- url     : https://prove2.me/theorems/2c0b5f24-ab95-4f7b-8376-fae84cc903ea
 -- title:

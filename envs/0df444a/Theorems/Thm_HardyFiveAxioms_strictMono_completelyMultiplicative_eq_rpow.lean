@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_strictMono_completelyMultiplicative_eq_rpow
 -- name    : HardyFiveAxioms.strictMono_completelyMultiplicative_eq_rpow
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:25:18.919982+00:00
 -- url     : https://prove2.me/theorems/420e9f17-61c7-4864-a703-b80aaf53c19f
 -- title:

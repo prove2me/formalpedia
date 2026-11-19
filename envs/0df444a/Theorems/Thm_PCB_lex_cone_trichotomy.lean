@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PCB_lex_cone_trichotomy
 -- name    : PCB.lex_cone_trichotomy
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:07.992145+00:00
 -- url     : https://prove2.me/theorems/ef1826c1-a6cf-4789-8169-2fe481ee7d49
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_gauss_formula
 -- name    : DoCarmoDG.gauss_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:03:13.62153+00:00
 -- url     : https://prove2.me/theorems/4790fe05-f940-42d0-af0e-e597a8e0c192
 -- title:

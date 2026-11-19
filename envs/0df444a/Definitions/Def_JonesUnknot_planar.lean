@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_JonesUnknot_planar
 -- name    : JonesUnknot_planar
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T00:31:20.965449+00:00
 -- url     : https://prove2.me/theorems/95b5df0f-500e-4c06-bb92-f27c88c4cf30
 -- title:

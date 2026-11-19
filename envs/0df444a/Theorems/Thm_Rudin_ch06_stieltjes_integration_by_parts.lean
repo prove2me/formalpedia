@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_stieltjes_integration_by_parts
 -- name    : Rudin.ch06_stieltjes_integration_by_parts
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T20:00:27.691401+00:00
 -- url     : https://prove2.me/theorems/ca6c81f4-38bb-40bb-bf75-a969688ba2f4
 -- title:

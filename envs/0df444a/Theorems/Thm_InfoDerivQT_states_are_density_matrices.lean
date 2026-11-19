@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_states_are_density_matrices
 -- name    : InfoDerivQT.states_are_density_matrices
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T17:09:33.888559+00:00
 -- url     : https://prove2.me/theorems/fa52192e-095d-40db-bd89-f06027a35250
 -- title:

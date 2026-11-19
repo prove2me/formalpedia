@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_LocalSim_lemma_5_6
 -- name    : PrivLearn.LocalSim.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:51:02.850096+00:00
 -- url     : https://prove2.me/theorems/92eaf345-9c14-4a1d-994f-69d96a53f483

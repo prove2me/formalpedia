@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SDC_graphs
 -- name    : SDC_graphs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T04:12:54.554741+00:00
 -- url     : https://prove2.me/theorems/db186fd3-1dbc-40f6-897f-81090704c107
 -- title:

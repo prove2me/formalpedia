@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_exists_integral_proper_compactification_of_isSeparated
 -- name    : AlgebraicGeometry.exists_integral_proper_compactification_of_isSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-08T05:05:00.258202+00:00
 -- url     : https://prove2.me/theorems/acd0a494-7c12-406e-88c1-0d0e0da39fc7

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_finrank_dimensionlessExponents
 -- name    : VaryingConstants.finrank_dimensionlessExponents
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T01:43:57.925327+00:00
 -- url     : https://prove2.me/theorems/9865cb93-9cf4-4019-8aa9-b006c7200889
 -- title:

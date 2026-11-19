@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothPoincare4_continuum_exotic_R4
 -- name    : SmoothPoincare4.continuum_exotic_R4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:51:04.514871+00:00
 -- url     : https://prove2.me/theorems/7e87b1bf-8da8-46d6-99ae-b309565716db
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SYZ_prop1_variation_of_pullback_kahler
 -- name    : SYZ.prop1_variation_of_pullback_kahler
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T03:51:53.247108+00:00
 -- url     : https://prove2.me/theorems/a79c96ca-20fc-4a98-84ec-dff175467c6e
 -- title:

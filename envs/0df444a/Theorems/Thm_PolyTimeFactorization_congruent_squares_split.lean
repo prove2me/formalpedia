@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyTimeFactorization_congruent_squares_split
 -- name    : PolyTimeFactorization.congruent_squares_split
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T16:12:44.382202+00:00
 -- url     : https://prove2.me/theorems/9759f763-9d6a-4655-886a-05e97df6f27b
 -- title:

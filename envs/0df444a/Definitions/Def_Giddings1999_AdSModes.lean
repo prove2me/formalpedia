@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Giddings1999_AdSModes
 -- name    : Giddings1999_AdSModes
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:44:52.36199+00:00
 -- url     : https://prove2.me/theorems/de3249dd-90fa-4894-85ca-9e8359995e7d
 -- title:

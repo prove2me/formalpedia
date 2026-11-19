@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FdVersusFdSucc_php_depth_frege_lower_bound
 -- name    : FdVersusFdSucc.php_depth_frege_lower_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:13:53.347662+00:00
 -- url     : https://prove2.me/theorems/f4e03dde-333a-4eba-9e4b-93bd8efa040d
 -- title:

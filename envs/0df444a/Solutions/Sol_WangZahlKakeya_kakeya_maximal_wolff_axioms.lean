@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WangZahlKakeya.kakeya_maximal_wolff_axioms
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T15:09:01.24798+00:00
 -- url     : https://prove2.me/submissions/801046a9-8f08-4827-97d6-73eda3d7dfde
 -- note    : a sketch -- it imports a theorem that is still Open,

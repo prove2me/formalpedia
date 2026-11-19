@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos592_galvin_larson_indecomposable
 -- name    : Erdos592.galvin_larson_indecomposable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:09:09.131846+00:00
 -- url     : https://prove2.me/theorems/56b5df78-f26f-4c29-b7d2-41c230f9188a
 -- title:

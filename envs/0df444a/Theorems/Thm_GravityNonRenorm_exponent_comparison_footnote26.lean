@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravityNonRenorm_exponent_comparison_footnote26
 -- name    : GravityNonRenorm.exponent_comparison_footnote26
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:10.110667+00:00
 -- url     : https://prove2.me/theorems/22e84ff8-a2d4-46f8-abaa-25f18205a594
 -- title:

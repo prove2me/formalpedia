@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_gravitational_constant_si_eq_cgs
 -- name    : GravitationalConstant.gravitational_constant_si_eq_cgs
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:02:14.092746+00:00
 -- url     : https://prove2.me/theorems/9345fc83-0e55-4ca3-b46d-7149baf15a7d
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch01.inverseGaussianZeroDiscountPositiveDrift
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-16T11:31:00.741397+00:00
 -- url     : https://prove2.me/submissions/d7e2596e-35e6-41b3-86a0-37f66fd6fbd0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanBrownianStopping

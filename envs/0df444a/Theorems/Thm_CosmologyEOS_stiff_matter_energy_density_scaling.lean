@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_stiff_matter_energy_density_scaling
 -- name    : CosmologyEOS.stiff_matter_energy_density_scaling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:34:25.874709+00:00
 -- url     : https://prove2.me/theorems/e8cfaad7-326b-4bc3-8a08-d321fc23c3e1
 -- title:

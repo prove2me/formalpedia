@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_newtonian_binding
 -- name    : Everyday.newtonian_binding
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:15:03.667162+00:00
 -- url     : https://prove2.me/theorems/ce5f139d-dfc8-4783-89a1-331c969447c1
 -- title:

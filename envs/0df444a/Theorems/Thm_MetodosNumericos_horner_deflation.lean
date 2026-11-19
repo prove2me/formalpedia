@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_horner_deflation
 -- name    : MetodosNumericos.horner_deflation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:33:48.475256+00:00
 -- url     : https://prove2.me/theorems/662bf061-7ee2-4a57-8f68-4bf405a385b7
 -- title:

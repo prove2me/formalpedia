@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GroverWiki_Defs
 -- name    : GroverWiki_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:32:20.382609+00:00
 -- url     : https://prove2.me/theorems/3bca456e-4afe-4170-8f3b-72d1154f27d2
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClassNumberFormula_FormClassNumber
 -- name    : ClassNumberFormula_FormClassNumber
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:52:12.222107+00:00
 -- url     : https://prove2.me/theorems/7a59a4d8-a55f-44ce-a989-44cc3823597d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_violence_effectiveness_cutoff
 -- name    : DrugMarket.violence_effectiveness_cutoff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:39:09.569564+00:00
 -- url     : https://prove2.me/theorems/a3ee9565-0407-4a9c-a474-dbf55e41ec33
 -- title:

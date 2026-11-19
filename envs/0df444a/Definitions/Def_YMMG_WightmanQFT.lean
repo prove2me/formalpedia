@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YMMG_WightmanQFT
 -- name    : YMMG_WightmanQFT
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:08:45.655985+00:00
 -- url     : https://prove2.me/theorems/4f7f990b-efb2-428b-b51d-c4b3bd48514a
 -- title:

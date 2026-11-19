@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_hardy2001_projectors
 -- name    : hardy2001_projectors
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T10:06:09.977792+00:00
 -- url     : https://prove2.me/theorems/214a9f4f-7c2a-43a8-bdad-60cb5d9ee00d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClausiusDuhem_div_smul_eq
 -- name    : ClausiusDuhem.div_smul_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:51.589978+00:00
 -- url     : https://prove2.me/theorems/3ec56f2e-bd30-47c1-90be-b77cc1d0ebbb
 -- title:

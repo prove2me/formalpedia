@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_exists_poly_unique_zero
 -- name    : AnalyticGeometry.exists_poly_unique_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T13:56:29.953555+00:00
 -- url     : https://prove2.me/theorems/5c16cdb4-2d73-443c-af72-878e2d4b2e7a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_singular_integrator_refutes
 -- name    : Rudin.ch06_singular_integrator_refutes
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T17:03:40.634664+00:00
 -- url     : https://prove2.me/theorems/8c0704d2-26ac-4c4e-97ac-db5ec54dfa55
 -- title:

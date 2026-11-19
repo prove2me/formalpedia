@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_nngp_limit_deep
 -- name    : LesHouchesWidth.nngp_limit_deep
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:27:26.076685+00:00
 -- url     : https://prove2.me/theorems/b7447bd9-7f68-4bde-a589-b364da910fd1
 -- title:

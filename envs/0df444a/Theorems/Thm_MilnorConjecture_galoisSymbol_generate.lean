@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_galoisSymbol_generate
 -- name    : MilnorConjecture.galoisSymbol_generate
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T12:05:29.172176+00:00
 -- url     : https://prove2.me/theorems/16cdbec5-5b4c-402a-9444-57b53ecdcc9b
 -- title:

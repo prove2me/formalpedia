@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos30_balogh_furedi_roy_upper_bound
 -- name    : Erdos30.balogh_furedi_roy_upper_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:51:50.710764+00:00
 -- url     : https://prove2.me/theorems/93eaf6a3-c186-4678-aeed-619240feba25
 -- title:

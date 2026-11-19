@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FCP.AgohGiuga.agoh_giuga_sum
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:18:43.791586+00:00
 -- url     : https://prove2.me/submissions/88886078-16fb-43ed-9032-98926863327c
 -- note    : a sketch -- it imports a theorem that is still Open,

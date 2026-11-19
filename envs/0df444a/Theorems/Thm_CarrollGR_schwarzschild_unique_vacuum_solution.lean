@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_schwarzschild_unique_vacuum_solution
 -- name    : CarrollGR.schwarzschild_unique_vacuum_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:23:57.017511+00:00
 -- url     : https://prove2.me/theorems/551a0728-602b-4eeb-8710-75482a589108
 -- title:

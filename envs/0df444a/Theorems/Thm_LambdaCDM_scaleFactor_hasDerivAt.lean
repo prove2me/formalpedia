@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_scaleFactor_hasDerivAt
 -- name    : LambdaCDM.scaleFactor_hasDerivAt
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:49:31.540987+00:00
 -- url     : https://prove2.me/theorems/a702212c-62d5-46ab-81ca-4b45890d3fa1
 -- title:

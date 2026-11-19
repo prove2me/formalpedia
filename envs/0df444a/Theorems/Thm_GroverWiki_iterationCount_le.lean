@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_iterationCount_le
 -- name    : GroverWiki.iterationCount_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:35:37.106629+00:00
 -- url     : https://prove2.me/theorems/58e602ff-405c-407d-b5e4-8bc71e253506
 -- title:

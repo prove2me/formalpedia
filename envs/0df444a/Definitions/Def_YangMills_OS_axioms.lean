@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YangMills_OS_axioms
 -- name    : YangMills_OS_axioms
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T12:32:42.190426+00:00
 -- url     : https://prove2.me/theorems/e0d29370-1097-4387-8dd9-984a0260428f
 -- title:

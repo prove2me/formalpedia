@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_transpose_isPositiveMap
 -- name    : PeresTerno.transpose_isPositiveMap
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T08:55:49.481153+00:00
 -- url     : https://prove2.me/theorems/47eb0b02-df01-42ca-ac39-466ba7cd4d7e
 -- title:

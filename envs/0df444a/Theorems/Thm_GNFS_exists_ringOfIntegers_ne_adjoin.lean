@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GNFS_exists_ringOfIntegers_ne_adjoin
 -- name    : GNFS.exists_ringOfIntegers_ne_adjoin
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:24:05.010911+00:00
 -- url     : https://prove2.me/theorems/985d091e-187d-4b8b-8e23-387b03e1fa4a
 -- title:

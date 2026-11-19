@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_galoisSymbol_generate_of_le_one
 -- name    : MilnorConjecture.galoisSymbol_generate_of_le_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:44:52.511019+00:00
 -- url     : https://prove2.me/theorems/2cdc200a-6bca-41af-af1c-4002c9c2aa87
 -- title:

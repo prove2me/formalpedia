@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_max_luminous_efficacy_scotopic
 -- name    : LuminousEfficacy.max_luminous_efficacy_scotopic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:40:09.301117+00:00
 -- url     : https://prove2.me/theorems/d53b4a3d-2d90-41aa-9346-ccd32cb16b44
 -- title:

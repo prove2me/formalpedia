@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_lee_homology_rank
 -- name    : ManolescuPiccirillo.lee_homology_rank
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:53:28.084221+00:00
 -- url     : https://prove2.me/theorems/f2cb8a62-f0ed-4d6f-8c05-f8ecab9f75e3
 -- title:

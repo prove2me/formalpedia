@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.exists_separating_smooth_functions
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T14:20:39.817111+00:00
 -- url     : https://prove2.me/submissions/54eaab87-f346-4bb2-b020-50860bc70fe8
 

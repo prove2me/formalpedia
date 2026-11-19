@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitLB_claim_3_6
 -- name    : BilateralProfitLB.claim_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:26.514258+00:00
 -- url     : https://prove2.me/theorems/7e96b9be-dbd2-4caf-9b02-03bc12d3ce75

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_thm_1_15_infinitely_many_transverse_tori
 -- name    : AnosovPlugs.thm_1_15_infinitely_many_transverse_tori
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:59:35.885714+00:00
 -- url     : https://prove2.me/theorems/93323671-f219-4a1e-b699-b3c9b49f5c35
 -- title:

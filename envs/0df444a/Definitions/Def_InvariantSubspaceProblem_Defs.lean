@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_InvariantSubspaceProblem_Defs
 -- name    : InvariantSubspaceProblem_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T17:19:23.540301+00:00
 -- url     : https://prove2.me/theorems/3057d82a-c629-4532-be97-f65e95777d90
 -- title:

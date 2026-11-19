@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_unbounded_monotone_integrator_criterion
 -- name    : Rudin.ch06_unbounded_monotone_integrator_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T17:08:28.886985+00:00
 -- url     : https://prove2.me/theorems/4db3c5b4-aeab-4d5f-90ff-03d8c142f224
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_brocard_conjecture_of_lt_100
 -- name    : Brocard.brocard_conjecture_of_lt_100
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:51:49.360978+00:00
 -- url     : https://prove2.me/theorems/05e1dcae-02da-4a0b-bf8d-c9c5d913a82f
 -- title:

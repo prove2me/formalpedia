@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_p_eq_np_of_feas4_inP
 -- name    : BSS.p_eq_np_of_feas4_inP
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:38:43.483277+00:00
 -- url     : https://prove2.me/theorems/7551c563-9233-47b7-9b4f-52492e6c7589
 -- title:

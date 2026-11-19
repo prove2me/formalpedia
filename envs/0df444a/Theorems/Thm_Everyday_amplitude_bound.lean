@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_amplitude_bound
 -- name    : Everyday.amplitude_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:18:06.521185+00:00
 -- url     : https://prove2.me/theorems/24d6f2c8-dee5-40f3-9617-f919c0beaf83
 -- title:

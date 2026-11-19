@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FRV_tor
 -- name    : FRV_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:11:51.145799+00:00
 -- url     : https://prove2.me/theorems/5e3eb44e-5987-4bf8-8293-e8ae2f4e7320
 -- title:

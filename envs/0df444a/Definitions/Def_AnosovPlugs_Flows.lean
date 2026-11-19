@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnosovPlugs_Flows
 -- name    : AnosovPlugs_Flows
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T01:11:36.184099+00:00
 -- url     : https://prove2.me/theorems/42344297-cc30-48e0-bc91-6b0c9f2318bd
 -- title:

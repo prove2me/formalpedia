@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_serre_duality
 -- name    : CondC.serre_duality
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:52:28.171274+00:00
 -- url     : https://prove2.me/theorems/8017dc61-01b9-4a99-a75f-cbc1d64196bc
 -- title:

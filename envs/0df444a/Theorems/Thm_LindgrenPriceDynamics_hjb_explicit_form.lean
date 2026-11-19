@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindgrenPriceDynamics_hjb_explicit_form
 -- name    : LindgrenPriceDynamics.hjb_explicit_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:17:49.831095+00:00
 -- url     : https://prove2.me/theorems/76040940-7997-481d-9f56-1c20eb176b9d
 -- title:

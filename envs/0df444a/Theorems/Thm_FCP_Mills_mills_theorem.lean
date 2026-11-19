@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Mills_mills_theorem
 -- name    : FCP.Mills.mills_theorem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:49:02.440689+00:00
 -- url     : https://prove2.me/theorems/6bc42c06-cc1a-4051-af03-cfe31ce242b6
 -- title:

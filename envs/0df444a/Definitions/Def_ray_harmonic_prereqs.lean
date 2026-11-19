@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_harmonic_prereqs
 -- name    : ray_harmonic_prereqs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T20:55:55.977579+00:00
 -- url     : https://prove2.me/theorems/0a8b9281-cae3-47b3-a4f7-eb31b905068c
 -- title:

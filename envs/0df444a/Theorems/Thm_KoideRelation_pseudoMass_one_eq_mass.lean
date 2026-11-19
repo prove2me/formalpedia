@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_pseudoMass_one_eq_mass
 -- name    : KoideRelation.pseudoMass_one_eq_mass
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T15:08:43.256521+00:00
 -- url     : https://prove2.me/theorems/9362d224-fbe6-4f5c-a11d-203be35015b5
 -- title:

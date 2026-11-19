@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KrivineSchemeDefs
 -- name    : KrivineSchemeDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:22:00.244094+00:00
 -- url     : https://prove2.me/theorems/ba2f4c52-cbaf-4f11-8520-2c8d0bc987bb
 -- title:

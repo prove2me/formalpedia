@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_P_ne_NP_iff_exists_mem_NP_not_mem_P
 -- name    : PvsNP.P_ne_NP_iff_exists_mem_NP_not_mem_P
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:41:43.869986+00:00
 -- url     : https://prove2.me/theorems/8031a1e0-47e5-4777-8df9-aa5130bcb8e3
 -- title:

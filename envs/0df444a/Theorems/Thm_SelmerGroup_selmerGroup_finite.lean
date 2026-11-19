@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SelmerGroup_selmerGroup_finite
 -- name    : SelmerGroup.selmerGroup_finite
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:01:43.418985+00:00
 -- url     : https://prove2.me/theorems/3a13945d-0266-4b78-908d-6783055b07fe
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_dof_eq_pow
 -- name    : HardyFiveAxioms.dof_eq_pow
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:50:35.879215+00:00
 -- url     : https://prove2.me/theorems/6e70fc12-2a06-4c83-b762-e4c54d7aae9e
 -- title:

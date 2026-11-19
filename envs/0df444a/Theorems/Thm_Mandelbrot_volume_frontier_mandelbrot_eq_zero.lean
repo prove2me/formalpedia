@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_volume_frontier_mandelbrot_eq_zero
 -- name    : Mandelbrot.volume_frontier_mandelbrot_eq_zero
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:21:39.06825+00:00
 -- url     : https://prove2.me/theorems/fb09e69d-3564-4fad-83b7-dbf40a887fee
 -- title:

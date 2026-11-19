@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UndecidableSpectralGap_usg_gs_energy_with_promise_computable
 -- name    : UndecidableSpectralGap.usg_gs_energy_with_promise_computable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T12:19:09.228044+00:00
 -- url     : https://prove2.me/theorems/1ff1b86f-1e2d-409b-a088-a2573cd5506a
 -- title:

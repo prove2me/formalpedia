@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_small_rows
 -- name    : Gilbreath.small_rows
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:43:14.995192+00:00
 -- url     : https://prove2.me/theorems/17871081-c820-46f0-bb73-96336fcb179b
 -- title:

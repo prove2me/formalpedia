@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_penrose_energy
 -- name    : penrose_energy
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:19:53.099045+00:00
 -- url     : https://prove2.me/theorems/a042036e-22fd-4094-88f1-a697b6e5dca0
 -- title:

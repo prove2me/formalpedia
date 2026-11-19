@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_covered_fragment_D8_0240
 -- name    : RealPinwheel.FiveSixths.covered_fragment_D8_0240
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T04:59:18.067306+00:00
 -- url     : https://prove2.me/theorems/41ceeb76-d9b7-4cdd-96b3-2810d0c5b1f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermiteLaptop_MaxAgree_negative_edge_equality
 -- name    : HermiteLaptop.MaxAgree.negative_edge_equality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:17:29.419333+00:00
 -- url     : https://prove2.me/theorems/fadf6511-4703-4462-946a-c1ad20adfb96

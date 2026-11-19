@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_tuple_integral_diverges
 -- name    : HardyLittlewood.tuple_integral_diverges
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:46:14.881417+00:00
 -- url     : https://prove2.me/theorems/e9bc7d49-dcba-4e30-ad39-3d8d05b586dd
 -- title:

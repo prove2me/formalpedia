@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MWT_finite_quotient_order
 -- name    : MWT.finite_quotient_order
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:11:41.914773+00:00
 -- url     : https://prove2.me/theorems/5e874383-26bd-4cb8-997b-11f082307a71
 -- title:

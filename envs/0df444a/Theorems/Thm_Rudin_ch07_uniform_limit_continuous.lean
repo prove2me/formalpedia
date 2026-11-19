@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_uniform_limit_continuous
 -- name    : Rudin.ch07_uniform_limit_continuous
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:21:00.856953+00:00
 -- url     : https://prove2.me/theorems/65921e87-2e17-48ec-bb7d-f6a3b7376e5f
 -- title:

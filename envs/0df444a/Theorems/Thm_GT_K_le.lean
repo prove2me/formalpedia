@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_K_le
 -- name    : GT.K_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:21.564622+00:00
 -- url     : https://prove2.me/theorems/aa420fc0-b5b8-46b9-94c1-bd132f0ae9d8
 -- title:

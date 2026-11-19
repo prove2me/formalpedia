@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ZudilinZetaSetup
 -- name    : ZudilinZetaSetup
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:00:04.001734+00:00
 -- url     : https://prove2.me/theorems/07e5febc-43d7-412e-9091-d78272ce72be
 -- title:

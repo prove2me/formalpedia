@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Mersenne_infinitely_many_mersenne_primes
 -- name    : FCP.Mersenne.infinitely_many_mersenne_primes
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:47:59.198977+00:00
 -- url     : https://prove2.me/theorems/262a38c3-863c-420c-a57d-a8914b5aa9e6
 -- title:

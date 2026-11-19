@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_conversionProb_coherent_bound
 -- name    : DysonGraviton.conversionProb_coherent_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T00:15:26.427231+00:00
 -- url     : https://prove2.me/theorems/7e29fade-ff24-400c-a7ee-8b455edf72e2
 -- title:

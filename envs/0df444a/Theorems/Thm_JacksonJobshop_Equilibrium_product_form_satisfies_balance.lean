@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JacksonJobshop_Equilibrium_product_form_satisfies_balance
 -- name    : JacksonJobshop.Equilibrium.product_form_satisfies_balance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:14:15.20718+00:00
 -- url     : https://prove2.me/theorems/07003402-33c2-4f44-b82d-7797a9af28ec

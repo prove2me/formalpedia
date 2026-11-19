@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_integral_derivative
 -- name    : Rudin.ch06_integral_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:33:19.956541+00:00
 -- url     : https://prove2.me/theorems/6dbc95f3-3475-4652-bab0-b591b9343186
 -- title:

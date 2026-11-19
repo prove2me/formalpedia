@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnaliseDeFourier_coeffA_trigPoly
 -- name    : AnaliseDeFourier.coeffA_trigPoly
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:43:28.207281+00:00
 -- url     : https://prove2.me/theorems/fd0bd0cd-87bf-4902-ba94-6481bc6052a0
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HirschDim4_Setting
 -- name    : HirschDim4_Setting
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:52:46.365068+00:00
 -- url     : https://prove2.me/theorems/2ea8faac-41c3-4282-933b-923f9cba3743
 -- title:

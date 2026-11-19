@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_SEN_thm_7_2_3_sen_acoi
 -- name    : SennottDP.SEN.thm_7_2_3_sen_acoi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T10:29:03.73831+00:00
 -- url     : https://prove2.me/theorems/f216380d-6d3e-44a9-b44c-3dbc514b2a13

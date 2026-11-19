@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_4_4_sps_size_bound
 -- name    : SemAC02.Supplement.theorem_4_4_sps_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:49:09.747096+00:00
 -- url     : https://prove2.me/theorems/6cdf3d32-33e2-4115-ab39-077aa75faa37

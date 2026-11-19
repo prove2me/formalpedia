@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonProblem.thomson_twelve
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:44:08.784027+00:00
 -- url     : https://prove2.me/submissions/7dd6cbf1-b14b-463b-b824-8f6ed04f57de
 

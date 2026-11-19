@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_nngp_limit_one_hidden_layer
 -- name    : LesHouchesWidth.nngp_limit_one_hidden_layer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:29:45.771985+00:00
 -- url     : https://prove2.me/theorems/c38c8303-b585-4735-9711-8bed11db8f8b
 -- title:

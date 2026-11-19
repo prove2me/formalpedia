@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AKS_alg
 -- name    : AKS_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:36:11.949918+00:00
 -- url     : https://prove2.me/theorems/2f2419be-ee84-4191-891f-222823d98c62
 -- title:

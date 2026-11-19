@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpectralGapConjecture_bourgain_gamburd_SU2
 -- name    : SpectralGapConjecture.bourgain_gamburd_SU2
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:02:54.380981+00:00
 -- url     : https://prove2.me/theorems/ac4fec51-51a1-4f00-ad54-7c6d7ec73a26
 -- title:

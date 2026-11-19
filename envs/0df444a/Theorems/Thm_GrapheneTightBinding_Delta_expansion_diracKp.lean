@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_Delta_expansion_diracKp
 -- name    : GrapheneTightBinding.Delta_expansion_diracKp
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:15:45.594981+00:00
 -- url     : https://prove2.me/theorems/b09c6a92-e934-4271-ade2-7e034ee9ad11
 -- title:

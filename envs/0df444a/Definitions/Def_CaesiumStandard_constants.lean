@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CaesiumStandard_constants
 -- name    : CaesiumStandard_constants
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T15:44:20.139912+00:00
 -- url     : https://prove2.me/theorems/1d882d92-0763-4816-ad52-b500541c9a7a
 -- title:

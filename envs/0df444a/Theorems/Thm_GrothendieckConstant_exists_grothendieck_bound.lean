@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_exists_grothendieck_bound
 -- name    : GrothendieckConstant.exists_grothendieck_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:28:08.266627+00:00
 -- url     : https://prove2.me/theorems/35d00984-7510-4189-8eb4-0db1dfd58e76
 -- title:

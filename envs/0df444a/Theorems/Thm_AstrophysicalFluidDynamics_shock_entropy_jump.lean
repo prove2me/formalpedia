@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AstrophysicalFluidDynamics_shock_entropy_jump
 -- name    : AstrophysicalFluidDynamics.shock_entropy_jump
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T18:52:19.51798+00:00
 -- url     : https://prove2.me/theorems/bb2e69f3-d5d9-4420-93ea-866b364bc43e
 -- title:

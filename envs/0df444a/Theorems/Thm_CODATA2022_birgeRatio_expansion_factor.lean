@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA2022_birgeRatio_expansion_factor
 -- name    : CODATA2022.birgeRatio_expansion_factor
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:22:44.77617+00:00
 -- url     : https://prove2.me/theorems/6b86134e-6dcc-4607-969b-478b0868a79f
 -- title:

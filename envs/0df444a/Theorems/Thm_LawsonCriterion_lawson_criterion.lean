@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_lawson_criterion
 -- name    : LawsonCriterion.lawson_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:09:23.801993+00:00
 -- url     : https://prove2.me/theorems/932bde46-1aca-4f81-9516-3f0aa8ab42bb
 -- title:

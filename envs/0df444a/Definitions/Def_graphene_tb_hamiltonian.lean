@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_graphene_tb_hamiltonian
 -- name    : graphene_tb_hamiltonian
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:07:41.17814+00:00
 -- url     : https://prove2.me/theorems/6df346c3-a9da-4395-b6aa-6f6dd21c9dae
 -- title:

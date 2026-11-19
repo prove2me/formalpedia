@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_sqrt_neg_det_variation
 -- name    : PolyakovAction.sqrt_neg_det_variation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:53:06.834729+00:00
 -- url     : https://prove2.me/theorems/2ac48007-231a-486f-8dfb-541d3310ac52
 -- title:

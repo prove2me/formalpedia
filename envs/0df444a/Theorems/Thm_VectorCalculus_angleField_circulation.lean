@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_angleField_circulation
 -- name    : VectorCalculus.angleField_circulation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:21:34.946237+00:00
 -- url     : https://prove2.me/theorems/a76a6f08-07e8-4268-b510-ef20b1d1f6be
 -- title:

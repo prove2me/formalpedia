@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.brownianDiscountedLowerPassage
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T20:39:11.323261+00:00
 -- url     : https://prove2.me/submissions/be125786-066f-412b-8e08-8855efdaaa6d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanBrownianStopping

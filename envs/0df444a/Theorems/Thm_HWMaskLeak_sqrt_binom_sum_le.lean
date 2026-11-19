@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HWMaskLeak_sqrt_binom_sum_le
 -- name    : HWMaskLeak.sqrt_binom_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:30:20.256567+00:00
 -- url     : https://prove2.me/theorems/abdc75be-c65e-4585-8b68-5621cb425ce7

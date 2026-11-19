@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_hecke_euler_product
 -- name    : Gelbart.hecke_euler_product
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:45:57.465676+00:00
 -- url     : https://prove2.me/theorems/5320d71f-4d83-4df4-9a14-ec1b7592ecdf
 -- title:

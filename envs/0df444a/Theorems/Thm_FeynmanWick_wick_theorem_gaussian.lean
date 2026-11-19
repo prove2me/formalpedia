@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FeynmanWick_wick_theorem_gaussian
 -- name    : FeynmanWick.wick_theorem_gaussian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:06:24.02605+00:00
 -- url     : https://prove2.me/theorems/862efd33-4d37-4ada-b577-775d4e189fd1
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FasterDistributedMatching_ApproximateMatching_fmu_local_booster
 -- name    : FasterDistributedMatching.ApproximateMatching.fmu_local_booster
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-17T22:38:25.716903+00:00
 -- url     : https://prove2.me/theorems/b676b818-fcfb-4610-a6ee-001b080e4bc1

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_chazy_of_classical_darboux_halphen
 -- name    : SDYM.chazy_of_classical_darboux_halphen
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:30:38.488239+00:00
 -- url     : https://prove2.me/theorems/03b78a94-44e8-4330-b56b-fdf9c15c8794
 -- title:

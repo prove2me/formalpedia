@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_kappa4_eq_covariance
 -- name    : LesHouchesWidth.kappa4_eq_covariance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:08:27.57439+00:00
 -- url     : https://prove2.me/theorems/e847efd6-b0e4-4828-9275-f5e55dec7bd7
 -- title:

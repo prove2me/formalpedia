@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpinStatistics_commuting_fields_symmetric_part
 -- name    : SpinStatistics.commuting_fields_symmetric_part
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:52:42.576788+00:00
 -- url     : https://prove2.me/theorems/fe2434a2-1c2c-4a15-a279-30f99a48fb77
 -- title:

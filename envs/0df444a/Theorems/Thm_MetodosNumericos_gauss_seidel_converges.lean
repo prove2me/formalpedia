@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_gauss_seidel_converges
 -- name    : MetodosNumericos.gauss_seidel_converges
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:34:28.759316+00:00
 -- url     : https://prove2.me/theorems/80cc9787-4519-42e8-ab92-aa8a4f43291f
 -- title:

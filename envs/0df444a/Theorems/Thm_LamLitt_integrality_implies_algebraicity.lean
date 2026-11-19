@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LamLitt_integrality_implies_algebraicity
 -- name    : LamLitt.integrality_implies_algebraicity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T16:42:16.369564+00:00
 -- url     : https://prove2.me/theorems/d67a689e-5b1e-4766-a56d-2acf8b0f6be8
 -- title:

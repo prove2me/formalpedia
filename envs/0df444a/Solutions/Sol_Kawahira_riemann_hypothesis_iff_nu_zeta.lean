@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Kawahira.riemann_hypothesis_iff_nu_zeta
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T11:43:49.212028+00:00
 -- url     : https://prove2.me/submissions/edae8e76-a9e0-4b5d-8f17-14482d032ee7
 

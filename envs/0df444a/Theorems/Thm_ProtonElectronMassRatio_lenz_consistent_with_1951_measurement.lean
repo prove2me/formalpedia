@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProtonElectronMassRatio_lenz_consistent_with_1951_measurement
 -- name    : ProtonElectronMassRatio.lenz_consistent_with_1951_measurement
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:19:27.00979+00:00
 -- url     : https://prove2.me/theorems/e4f7cef2-5913-44c0-82b9-608b38dc06fe
 -- title:

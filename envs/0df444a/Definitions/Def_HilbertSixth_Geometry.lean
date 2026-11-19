@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HilbertSixth_Geometry
 -- name    : HilbertSixth_Geometry
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T03:31:27.309822+00:00
 -- url     : https://prove2.me/theorems/7f964dc8-6f49-46e1-bc0c-805b039db873
 -- title:

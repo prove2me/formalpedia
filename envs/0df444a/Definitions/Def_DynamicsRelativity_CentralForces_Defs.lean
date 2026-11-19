@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DynamicsRelativity_CentralForces_Defs
 -- name    : DynamicsRelativity_CentralForces_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:15:07.536698+00:00
 -- url     : https://prove2.me/theorems/4f8d5c77-05fa-49f1-a87a-47bbe04b99a4
 -- title:

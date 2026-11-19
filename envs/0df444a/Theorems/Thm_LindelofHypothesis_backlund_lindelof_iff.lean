@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_backlund_lindelof_iff
 -- name    : LindelofHypothesis.backlund_lindelof_iff
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:47:23.320287+00:00
 -- url     : https://prove2.me/theorems/28ed5976-6ec8-45ad-b50c-de73c649bb3d
 -- title:

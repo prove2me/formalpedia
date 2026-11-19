@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_charge_quantization_closure
 -- name    : ElementaryCharge.charge_quantization_closure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:43:10.847281+00:00
 -- url     : https://prove2.me/theorems/bf0e6b92-ff80-42f3-b77d-1e765c274ca9
 -- title:

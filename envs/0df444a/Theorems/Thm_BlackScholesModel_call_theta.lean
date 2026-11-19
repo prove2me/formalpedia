@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_call_theta
 -- name    : BlackScholesModel.call_theta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:25.788989+00:00
 -- url     : https://prove2.me/theorems/59c84e6e-b7bf-4bd0-b855-f354b2dac61d
 -- title:

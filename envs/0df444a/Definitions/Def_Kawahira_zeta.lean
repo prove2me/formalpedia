@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Kawahira_zeta
 -- name    : Kawahira_zeta
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:27:02.930527+00:00
 -- url     : https://prove2.me/theorems/bdf00224-6a98-4591-8d54-a7d6ed1dc152
 -- title:

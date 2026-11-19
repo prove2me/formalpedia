@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PeresTerno_kraus_basics
 -- name    : PeresTerno_kraus_basics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T23:14:08.370977+00:00
 -- url     : https://prove2.me/theorems/b4b4f12c-2ee9-4670-88f1-f6f64d35b9c6
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_mixing_matrix_unitary
 -- name    : GiuntiStudenikin2015.mixing_matrix_unitary
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:06:07.586981+00:00
 -- url     : https://prove2.me/theorems/4c7ec7e5-e143-4041-9e1f-9fa73c863c93
 -- title:

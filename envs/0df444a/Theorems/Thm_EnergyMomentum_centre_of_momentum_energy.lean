@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_centre_of_momentum_energy
 -- name    : EnergyMomentum.centre_of_momentum_energy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:16:03.201286+00:00
 -- url     : https://prove2.me/theorems/52bb26d8-e838-4f2d-91be-a6628028e9a1
 -- title:

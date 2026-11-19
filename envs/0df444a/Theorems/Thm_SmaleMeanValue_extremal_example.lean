@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmaleMeanValue_extremal_example
 -- name    : SmaleMeanValue.extremal_example
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:45:43.363008+00:00
 -- url     : https://prove2.me/theorems/20c19bcb-6e40-4e22-b7f4-413d8e457571
 -- title:

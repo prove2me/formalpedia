@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_field_equations_iff_trace_reversed
 -- name    : EinsteinFieldEquationsD.field_equations_iff_trace_reversed
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:14:38.320906+00:00
 -- url     : https://prove2.me/theorems/5372ef3d-dbfe-4f82-8511-59da1fa5bf05
 -- title:

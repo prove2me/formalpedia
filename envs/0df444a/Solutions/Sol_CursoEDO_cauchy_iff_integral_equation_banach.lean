@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for CursoEDO.cauchy_iff_integral_equation_banach
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T15:15:20.738988+00:00
 -- url     : https://prove2.me/submissions/620c0b86-481d-4b84-8dd8-4a832254ebfc
 

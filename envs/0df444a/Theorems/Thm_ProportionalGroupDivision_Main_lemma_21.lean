@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProportionalGroupDivision_Main_lemma_21
 -- name    : ProportionalGroupDivision.Main.lemma_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:13:10.979427+00:00
 -- url     : https://prove2.me/theorems/0bf406c0-2041-4d34-8dca-9c690f5310cf

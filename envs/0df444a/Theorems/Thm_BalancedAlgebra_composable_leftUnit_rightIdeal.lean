@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_composable_leftUnit_rightIdeal
 -- name    : BalancedAlgebra.composable_leftUnit_rightIdeal
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T01:38:03.104023+00:00
 -- url     : https://prove2.me/theorems/bcc882fb-9d7b-446b-a761-475c01e5976a
 -- title:

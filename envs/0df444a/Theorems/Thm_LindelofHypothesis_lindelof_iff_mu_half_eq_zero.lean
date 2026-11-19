@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_lindelof_iff_mu_half_eq_zero
 -- name    : LindelofHypothesis.lindelof_iff_mu_half_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:44:15.263752+00:00
 -- url     : https://prove2.me/theorems/86da457a-ac8a-452c-93af-fffc0888bcf0
 -- title:

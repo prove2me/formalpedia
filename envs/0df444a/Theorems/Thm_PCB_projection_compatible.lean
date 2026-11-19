@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PCB_projection_compatible
 -- name    : PCB.projection_compatible
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:51.597452+00:00
 -- url     : https://prove2.me/theorems/d8a9befc-34b8-4915-ba1d-9d16ee52c346
 -- title:

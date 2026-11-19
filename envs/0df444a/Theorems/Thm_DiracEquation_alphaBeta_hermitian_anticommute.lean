@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DiracEquation_alphaBeta_hermitian_anticommute
 -- name    : DiracEquation.alphaBeta_hermitian_anticommute
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T20:25:45.528987+00:00
 -- url     : https://prove2.me/theorems/0f665aed-6fc7-4f64-a87f-beeccaa308c5
 -- title:

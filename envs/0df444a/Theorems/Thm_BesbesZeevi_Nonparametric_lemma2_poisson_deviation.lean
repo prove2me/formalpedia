@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_Nonparametric_lemma2_poisson_deviation
 -- name    : BesbesZeevi.Nonparametric.lemma2_poisson_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:07:00.636682+00:00
 -- url     : https://prove2.me/theorems/3f7e9d5b-8f87-40f6-b1e7-35a22425a914

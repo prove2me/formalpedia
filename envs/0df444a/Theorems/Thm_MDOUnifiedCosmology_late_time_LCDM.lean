@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MDOUnifiedCosmology_late_time_LCDM
 -- name    : MDOUnifiedCosmology.late_time_LCDM
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:37:18.813693+00:00
 -- url     : https://prove2.me/theorems/6bef2f69-a046-446a-864c-c85b2db00879
 -- title:

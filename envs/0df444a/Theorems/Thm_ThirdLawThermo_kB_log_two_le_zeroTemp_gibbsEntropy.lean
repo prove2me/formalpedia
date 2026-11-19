@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_kB_log_two_le_zeroTemp_gibbsEntropy
 -- name    : ThirdLawThermo.kB_log_two_le_zeroTemp_gibbsEntropy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:54.471976+00:00
 -- url     : https://prove2.me/theorems/6543b773-fab7-4f25-859d-bb401d9716d7
 -- title:

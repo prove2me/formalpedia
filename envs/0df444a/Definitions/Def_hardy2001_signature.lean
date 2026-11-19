@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_hardy2001_signature
 -- name    : hardy2001_signature
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T05:25:14.914996+00:00
 -- url     : https://prove2.me/theorems/47a1a9c9-cf90-4004-9c06-f70cbb006514
 -- title:

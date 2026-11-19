@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialMechanics_comFrame_positions
 -- name    : CelestialMechanics.comFrame_positions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:22:54.023219+00:00
 -- url     : https://prove2.me/theorems/bac61337-2ba0-477b-90f5-934d0296a13f
 -- title:

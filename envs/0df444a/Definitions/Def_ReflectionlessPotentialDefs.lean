@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ReflectionlessPotentialDefs
 -- name    : ReflectionlessPotentialDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:44:33.769987+00:00
 -- url     : https://prove2.me/theorems/49737460-2293-4a8d-a69d-95f2e1feb897
 -- title:

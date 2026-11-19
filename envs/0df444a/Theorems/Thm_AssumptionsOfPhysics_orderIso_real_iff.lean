@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_orderIso_real_iff
 -- name    : AssumptionsOfPhysics.orderIso_real_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:25:51.850984+00:00
 -- url     : https://prove2.me/theorems/c9071ca0-270a-4955-a3ff-6ce11d82264c
 -- title:

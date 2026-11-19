@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_THDM_stability_case_b3
 -- name    : THDM.stability_case_b3
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:35:05.235341+00:00
 -- url     : https://prove2.me/theorems/5a750378-64e1-49e4-bd40-d20a885526f3
 -- title:

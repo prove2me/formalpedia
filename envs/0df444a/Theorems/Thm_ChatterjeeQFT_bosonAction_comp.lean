@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_bosonAction_comp
 -- name    : ChatterjeeQFT.bosonAction_comp
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:33:19.578411+00:00
 -- url     : https://prove2.me/theorems/c5b79ce6-0a61-4c4f-8d2a-c25a4513cc63
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_darboux_halphen_first_integrals
 -- name    : SDYM.darboux_halphen_first_integrals
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:29:05.885552+00:00
 -- url     : https://prove2.me/theorems/23548164-a453-4086-a0d5-a37a8b91cbc5
 -- title:

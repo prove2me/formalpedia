@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_sup_mem_closure
 -- name    : Rudin.ch02_sup_mem_closure
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:47:52.530985+00:00
 -- url     : https://prove2.me/theorems/18aa1fb8-b18f-48e4-bc0e-b8719a3be3d6
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_OpenGA_SurgeryContinuationData
 -- name    : OpenGA_SurgeryContinuationData
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T18:31:25.067901+00:00
 -- url     : https://prove2.me/theorems/801b0535-7bbc-44eb-a7ac-fa4118ff0e8b
 -- title:

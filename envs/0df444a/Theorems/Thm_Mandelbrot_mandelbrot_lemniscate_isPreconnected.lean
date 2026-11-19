@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_mandelbrot_lemniscate_isPreconnected
 -- name    : Mandelbrot.mandelbrot_lemniscate_isPreconnected
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:44:17.094164+00:00
 -- url     : https://prove2.me/theorems/6d2bdeab-ecea-49a1-b49e-d848147d81f9
 -- title:

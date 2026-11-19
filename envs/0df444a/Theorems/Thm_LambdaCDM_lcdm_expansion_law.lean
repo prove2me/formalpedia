@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_lcdm_expansion_law
 -- name    : LambdaCDM.lcdm_expansion_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:02:48.867728+00:00
 -- url     : https://prove2.me/theorems/9babeaaf-8fc2-4b32-acaa-d0e39188b3e7
 -- title:

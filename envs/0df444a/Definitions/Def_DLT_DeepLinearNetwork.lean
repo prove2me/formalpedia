@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DLT_DeepLinearNetwork
 -- name    : DLT_DeepLinearNetwork
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:15:32.219988+00:00
 -- url     : https://prove2.me/theorems/c02c06df-a25c-4e07-8ee2-87508df6f1a7
 -- title:

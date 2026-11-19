@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_property_ordering_theorem
 -- name    : AssumptionsOfPhysics.property_ordering_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:49:50.959643+00:00
 -- url     : https://prove2.me/theorems/560fa988-77bf-4e5a-953f-dbe076404d15
 -- title:

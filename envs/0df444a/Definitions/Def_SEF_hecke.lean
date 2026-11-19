@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SEF_hecke
 -- name    : SEF_hecke
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T18:42:21.395469+00:00
 -- url     : https://prove2.me/theorems/4ba5267e-3650-438c-966a-abc3057dba26
 -- title:

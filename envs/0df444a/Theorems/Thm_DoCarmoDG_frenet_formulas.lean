@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_frenet_formulas
 -- name    : DoCarmoDG.frenet_formulas
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:26:51.690241+00:00
 -- url     : https://prove2.me/theorems/cc5ddf1e-00ca-4974-8077-2fcf60255edb
 -- title:

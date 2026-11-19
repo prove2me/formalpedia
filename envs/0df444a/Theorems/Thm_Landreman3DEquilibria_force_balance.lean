@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_force_balance
 -- name    : Landreman3DEquilibria.force_balance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:00:29.698104+00:00
 -- url     : https://prove2.me/theorems/7601b674-22d1-4c1d-a286-436e49e9e44a
 -- title:

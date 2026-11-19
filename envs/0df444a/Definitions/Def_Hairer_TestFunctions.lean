@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Hairer_TestFunctions
 -- name    : Hairer_TestFunctions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:35:30.992103+00:00
 -- url     : https://prove2.me/theorems/6562f805-5b27-426b-aeda-15391b9f8e93
 -- title:

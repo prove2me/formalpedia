@@ -1,6 +1,6 @@
 -- Prove2me | solution 3 for Green_Tao_Theorem
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-10T20:51:13.152692+00:00
 -- url     : https://prove2.me/submissions/f3e7819c-4be1-4c1f-9b22-b3d26fd650e1
 

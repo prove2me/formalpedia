@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_efficacyOfSource_le_efficacyOfRadiation
 -- name    : LuminousEfficacy.efficacyOfSource_le_efficacyOfRadiation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:33:11.146654+00:00
 -- url     : https://prove2.me/theorems/9004f2cf-b5d0-4fe5-878c-c82d1bcb4899
 -- title:

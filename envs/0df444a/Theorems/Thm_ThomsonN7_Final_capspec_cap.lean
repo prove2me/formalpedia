@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonN7_Final_capspec_cap
 -- name    : ThomsonN7.Final.capspec_cap
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T01:46:14.878351+00:00
 -- url     : https://prove2.me/theorems/0ca42065-5a4d-4c87-9515-b15dd415e3b1
 -- title:

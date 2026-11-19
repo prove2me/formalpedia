@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_mandelbrot_escape_criterion
 -- name    : Mandelbrot.mandelbrot_escape_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T01:52:04.839371+00:00
 -- url     : https://prove2.me/theorems/7a2e2215-2208-4131-abe5-e5ec045184e9
 -- title:

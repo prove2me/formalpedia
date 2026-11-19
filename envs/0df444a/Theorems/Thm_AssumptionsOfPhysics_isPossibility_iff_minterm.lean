@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_isPossibility_iff_minterm
 -- name    : AssumptionsOfPhysics.isPossibility_iff_minterm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:51:30.890004+00:00
 -- url     : https://prove2.me/theorems/9ef816a9-b622-4f3d-b9b4-ca8f9a1f2732
 -- title:

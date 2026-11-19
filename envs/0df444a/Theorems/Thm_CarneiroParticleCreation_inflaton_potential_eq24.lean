@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_inflaton_potential_eq24
 -- name    : CarneiroParticleCreation.inflaton_potential_eq24
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:32:35.000306+00:00
 -- url     : https://prove2.me/theorems/6dbe9935-c32e-4ea6-be41-046d8acd6c70
 -- title:

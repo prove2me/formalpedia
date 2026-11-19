@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_two_flavor_transition
 -- name    : GiuntiStudenikin2015.two_flavor_transition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:22:23.80626+00:00
 -- url     : https://prove2.me/theorems/00c7ff09-30f6-4e2a-9e29-9a0667bfceff
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch02_heine_borel
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T22:13:58.658895+00:00
 -- url     : https://prove2.me/submissions/07a14ef8-f0b7-4273-92fa-111d49d656ba
 

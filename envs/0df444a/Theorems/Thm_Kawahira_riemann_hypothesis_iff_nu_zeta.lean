@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_riemann_hypothesis_iff_nu_zeta
 -- name    : Kawahira.riemann_hypothesis_iff_nu_zeta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:49:17.108588+00:00
 -- url     : https://prove2.me/theorems/936a807b-ea69-4f0b-a7e1-3ba3525f2908
 -- title:

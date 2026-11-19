@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_hamiltonian_transpose
 -- name    : UnQuantumMechanics.hamiltonian_transpose
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T12:11:45.571637+00:00
 -- url     : https://prove2.me/theorems/38fa7274-50b4-4ccf-b8e9-8948dde4f8bb
 -- title:

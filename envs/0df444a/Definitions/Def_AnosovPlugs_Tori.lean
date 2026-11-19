@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnosovPlugs_Tori
 -- name    : AnosovPlugs_Tori
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:28:58.106355+00:00
 -- url     : https://prove2.me/theorems/99383fbc-cf12-4dd7-a8e6-89cbaff8b1a5
 -- title:

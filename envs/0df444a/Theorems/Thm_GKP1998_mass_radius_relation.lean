@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GKP1998_mass_radius_relation
 -- name    : GKP1998.mass_radius_relation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:53:46.754452+00:00
 -- url     : https://prove2.me/theorems/ae54ea23-b89e-4d50-a738-e26f1fae3923
 -- title:

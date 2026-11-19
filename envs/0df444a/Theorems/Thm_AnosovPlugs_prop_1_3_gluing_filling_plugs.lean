@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_prop_1_3_gluing_filling_plugs
 -- name    : AnosovPlugs.prop_1_3_gluing_filling_plugs
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:47:45.650469+00:00
 -- url     : https://prove2.me/theorems/fbe93104-741d-4938-bb88-2db57f4c10de
 -- title:

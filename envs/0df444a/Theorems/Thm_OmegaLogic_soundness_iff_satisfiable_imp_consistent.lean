@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OmegaLogic_soundness_iff_satisfiable_imp_consistent
 -- name    : OmegaLogic.soundness_iff_satisfiable_imp_consistent
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T16:34:46.196211+00:00
 -- url     : https://prove2.me/theorems/735f1541-5a2e-4229-bd3c-3f70ac20ba62
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_asgeirsson_mean_value
 -- name    : TegmarkDimensionality.asgeirsson_mean_value
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T10:07:31.528019+00:00
 -- url     : https://prove2.me/theorems/f2cda643-e3e9-4015-9d31-569bcfbc1f28
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_curvature_eq_zero_iff_straight_line
 -- name    : DoCarmoDG.curvature_eq_zero_iff_straight_line
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:38:53.336678+00:00
 -- url     : https://prove2.me/theorems/34fa78aa-b5ed-41da-a918-4563cd1c98d7
 -- title:

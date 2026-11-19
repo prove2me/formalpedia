@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_evaporatingMass_solves
 -- name    : KerrBlackHoleThermo.evaporatingMass_solves
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:48:55.386534+00:00
 -- url     : https://prove2.me/theorems/a588354e-9e1d-494b-81f4-7ef9629883fb
 -- title:

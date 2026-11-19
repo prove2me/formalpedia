@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_jackknifeCovariance_posSemidef
 -- name    : SZFilaments.jackknifeCovariance_posSemidef
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:49:10.289054+00:00
 -- url     : https://prove2.me/theorems/ec1728ca-517c-40a0-a733-40b48a58b586
 -- title:

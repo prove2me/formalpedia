@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_luminousFlux_le_max_mul_radiantFlux
 -- name    : LuminousEfficacy.luminousFlux_le_max_mul_radiantFlux
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:49:32.351095+00:00
 -- url     : https://prove2.me/theorems/089542eb-d52b-4b3c-931c-01ec3cd0036b
 -- title:

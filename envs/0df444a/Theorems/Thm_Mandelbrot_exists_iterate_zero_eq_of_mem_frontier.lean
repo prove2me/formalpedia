@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_exists_iterate_zero_eq_of_mem_frontier
 -- name    : Mandelbrot.exists_iterate_zero_eq_of_mem_frontier
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T13:27:22.756199+00:00
 -- url     : https://prove2.me/theorems/b287ec6f-8a45-4e07-be46-a134afdec2fa
 -- title:

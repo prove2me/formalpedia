@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_dir_sid_graphon
 -- name    : DirS.dir_sid_graphon
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:24:50.755287+00:00
 -- url     : https://prove2.me/theorems/dc1fc466-a39c-4c1c-b114-210ede27896e
 -- title:

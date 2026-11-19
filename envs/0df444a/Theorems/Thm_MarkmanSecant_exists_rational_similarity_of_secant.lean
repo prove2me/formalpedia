@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MarkmanSecant_exists_rational_similarity_of_secant
 -- name    : MarkmanSecant.exists_rational_similarity_of_secant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T15:08:32.865987+00:00
 -- url     : https://prove2.me/theorems/43c59111-62f0-4248-90ba-b11d1db95e41
 -- title:

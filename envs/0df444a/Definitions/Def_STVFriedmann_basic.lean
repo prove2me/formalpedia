@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_STVFriedmann_basic
 -- name    : STVFriedmann_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:54:59.516347+00:00
 -- url     : https://prove2.me/theorems/53f9bf0b-cf6c-40e5-b538-5a1a0960fbca
 -- title:

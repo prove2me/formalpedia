@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_lemma_3_1_riemann_hurwitz
 -- name    : MathieuM23.lemma_3_1_riemann_hurwitz
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:25:18.011363+00:00
 -- url     : https://prove2.me/theorems/be48aab3-1e65-42a5-98d5-18ef778db6d3
 -- title:

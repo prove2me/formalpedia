@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_upper_lower_integral_additive
 -- name    : Rudin.ch06_upper_lower_integral_additive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T14:47:25.821587+00:00
 -- url     : https://prove2.me/theorems/429c3914-45ce-4f1f-9132-7c1117d0f132
 -- title:

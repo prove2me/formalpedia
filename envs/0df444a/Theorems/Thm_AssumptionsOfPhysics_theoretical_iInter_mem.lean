@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_theoretical_iInter_mem
 -- name    : AssumptionsOfPhysics.theoretical_iInter_mem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T10:04:43.360987+00:00
 -- url     : https://prove2.me/theorems/a13ca25e-4349-448b-a682-129aceb1225a
 -- title:

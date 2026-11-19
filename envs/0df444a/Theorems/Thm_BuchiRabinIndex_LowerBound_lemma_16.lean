@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_lemma_16
 -- name    : BuchiRabinIndex.LowerBound.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:32:00.954691+00:00
 -- url     : https://prove2.me/theorems/9f8b1511-5e22-42d0-9824-30fae294bacc

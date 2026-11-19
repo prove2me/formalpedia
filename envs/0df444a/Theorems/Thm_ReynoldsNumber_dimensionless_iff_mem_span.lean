@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_dimensionless_iff_mem_span
 -- name    : ReynoldsNumber.dimensionless_iff_mem_span
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:02:23.208885+00:00
 -- url     : https://prove2.me/theorems/4c1e9d81-6a35-4796-b9ec-d66a11a9964f
 -- title:

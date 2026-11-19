@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GribovRegion_exists_neg_quadratic_form_of_traceless
 -- name    : GribovRegion.exists_neg_quadratic_form_of_traceless
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:13:24.515249+00:00
 -- url     : https://prove2.me/theorems/a883b692-5447-48b6-8920-15e669d3954e
 -- title:

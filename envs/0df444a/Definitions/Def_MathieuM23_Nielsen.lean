@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MathieuM23_Nielsen
 -- name    : MathieuM23_Nielsen
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T14:02:49.877615+00:00
 -- url     : https://prove2.me/theorems/8e4fa0f7-4b26-4118-a7cb-7934a294d976
 -- title:

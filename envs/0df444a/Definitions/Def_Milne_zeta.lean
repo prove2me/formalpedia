@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Milne_zeta
 -- name    : Milne_zeta
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T02:09:24.829985+00:00
 -- url     : https://prove2.me/theorems/6361dcfc-11ba-4810-a927-ee1a8ebd221c
 -- title:

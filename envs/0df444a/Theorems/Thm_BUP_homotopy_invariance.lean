@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BUP_homotopy_invariance
 -- name    : BUP.homotopy_invariance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:25:58.593862+00:00
 -- url     : https://prove2.me/theorems/e29f00e3-01b2-4b8f-8cff-4e658504d702
 -- title:

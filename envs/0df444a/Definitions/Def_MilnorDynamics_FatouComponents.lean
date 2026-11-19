@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MilnorDynamics_FatouComponents
 -- name    : MilnorDynamics_FatouComponents
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T12:06:00.814847+00:00
 -- url     : https://prove2.me/theorems/280ded3c-447a-4d76-a159-c6df6ed12452
 -- title:

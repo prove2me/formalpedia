@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewMinimalStandardModel_singlet_quartic_nondecreasing
 -- name    : NewMinimalStandardModel.singlet_quartic_nondecreasing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T14:03:26.029287+00:00
 -- url     : https://prove2.me/theorems/d5383768-d4d2-475f-b1f6-edb6458adbe8
 -- title:

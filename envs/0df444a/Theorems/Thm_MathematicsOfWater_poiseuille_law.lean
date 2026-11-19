@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicsOfWater_poiseuille_law
 -- name    : MathematicsOfWater.poiseuille_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:08:28.702547+00:00
 -- url     : https://prove2.me/theorems/84cd5295-ae64-4e1f-8ba0-9a66623d1c08
 -- title:

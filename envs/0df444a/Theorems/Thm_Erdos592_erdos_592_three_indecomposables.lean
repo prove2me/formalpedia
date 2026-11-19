@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos592_erdos_592_three_indecomposables
 -- name    : Erdos592.erdos_592_three_indecomposables
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:02:01.148991+00:00
 -- url     : https://prove2.me/theorems/c79cbe94-e34d-4ebc-82b9-375564c28f85
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_potential_diff_const_of_eigenfunction
 -- name    : DFT.potential_diff_const_of_eigenfunction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:03:29.863033+00:00
 -- url     : https://prove2.me/theorems/b33a3e88-96bf-40c8-92f7-dd3a26fafea4
 -- title:

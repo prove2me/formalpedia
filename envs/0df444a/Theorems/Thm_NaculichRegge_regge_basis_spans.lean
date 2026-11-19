@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_regge_basis_spans
 -- name    : NaculichRegge.regge_basis_spans
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:23:29.898292+00:00
 -- url     : https://prove2.me/theorems/1bcf228e-42a0-41fd-a82a-02c79a20a393
 -- title:

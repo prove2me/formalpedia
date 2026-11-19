@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_linearNet_connected_four_point
 -- name    : DeepLearningTheory.linearNet_connected_four_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:47:23.171613+00:00
 -- url     : https://prove2.me/theorems/56b0904a-5794-4e1a-8b18-194c38afd835
 -- title:

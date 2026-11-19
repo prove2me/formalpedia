@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_put_rho
 -- name    : BlackScholesModel.put_rho
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:35:33.384319+00:00
 -- url     : https://prove2.me/theorems/3ddd8d34-2492-41b7-9e5f-59ea78b473c9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LawsonCriterion_self_heating_substituted
 -- name    : LawsonCriterion.self_heating_substituted
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T11:05:37.628845+00:00
 -- url     : https://prove2.me/theorems/1a3fd03f-4d06-47c3-bfca-a90a69809e87
 -- title:

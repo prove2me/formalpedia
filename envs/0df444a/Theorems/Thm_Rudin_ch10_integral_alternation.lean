@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch10_integral_alternation
 -- name    : Rudin.ch10_integral_alternation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T00:18:44.069766+00:00
 -- url     : https://prove2.me/theorems/904225e1-68bb-4568-a061-2fab48ad007c
 -- title:

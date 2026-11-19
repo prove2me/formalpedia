@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StationaryAction_harmonic_oscillator_equation_of_motion
 -- name    : StationaryAction.harmonic_oscillator_equation_of_motion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:30:39.456283+00:00
 -- url     : https://prove2.me/theorems/b117a0ae-d82d-4886-85d7-f60663064bba
 -- title:

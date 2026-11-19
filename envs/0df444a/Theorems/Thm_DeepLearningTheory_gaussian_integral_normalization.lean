@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_gaussian_integral_normalization
 -- name    : DeepLearningTheory.gaussian_integral_normalization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:16:01.754998+00:00
 -- url     : https://prove2.me/theorems/a67e67bd-50d0-487c-ae1b-e1b15e502b62
 -- title:

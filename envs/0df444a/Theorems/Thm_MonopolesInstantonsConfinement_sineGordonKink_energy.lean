@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_sineGordonKink_energy
 -- name    : MonopolesInstantonsConfinement.sineGordonKink_energy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:22:22.165713+00:00
 -- url     : https://prove2.me/theorems/bd24e90d-041b-4022-8411-09fa45d95d20
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherIVP_conservation_law
 -- name    : NoetherIVP.conservation_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:57:52.757987+00:00
 -- url     : https://prove2.me/theorems/3dd4762a-6ed8-4f6a-bcad-81917f549982
 -- title:

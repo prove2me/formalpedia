@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KPZBallistic_sudijono_thm_1_1_variance
 -- name    : KPZBallistic.sudijono_thm_1_1_variance
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T09:32:16.788481+00:00
 -- url     : https://prove2.me/theorems/73277959-15f9-4f3a-9d90-b87570271c9b
 -- title:

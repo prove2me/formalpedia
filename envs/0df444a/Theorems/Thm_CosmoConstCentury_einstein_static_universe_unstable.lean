@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_einstein_static_universe_unstable
 -- name    : CosmoConstCentury.einstein_static_universe_unstable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T02:34:24.80609+00:00
 -- url     : https://prove2.me/theorems/5ccb8b51-a1c1-4bba-92f4-ffdfe40f7f45
 -- title:

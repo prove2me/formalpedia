@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MathieuM23_Regular
 -- name    : MathieuM23_Regular
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T15:21:31.825721+00:00
 -- url     : https://prove2.me/theorems/9bdee3de-1f19-4381-8617-dc47b03c3b11
 -- title:

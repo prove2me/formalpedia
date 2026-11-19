@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Maldacena1999_Defs
 -- name    : Maldacena1999_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:03:22.099593+00:00
 -- url     : https://prove2.me/theorems/2a842945-2250-4124-ac83-17981a7c2f7f
 -- title:

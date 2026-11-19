@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DarkEnergyLCDM_Defs
 -- name    : DarkEnergyLCDM_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T00:57:31.552851+00:00
 -- url     : https://prove2.me/theorems/27690a5c-3d61-46cb-a0a5-f329047e2470
 -- title:

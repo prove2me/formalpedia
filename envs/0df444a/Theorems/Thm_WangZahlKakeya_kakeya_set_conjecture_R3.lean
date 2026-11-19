@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_kakeya_set_conjecture_R3
 -- name    : WangZahlKakeya.kakeya_set_conjecture_R3
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T11:50:58.390345+00:00
 -- url     : https://prove2.me/theorems/31dc5a8a-f73f-48fe-8a6c-ca7f29a15d38
 -- title:

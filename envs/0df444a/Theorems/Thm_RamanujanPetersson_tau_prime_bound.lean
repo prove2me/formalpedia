@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_tau_prime_bound
 -- name    : RamanujanPetersson.tau_prime_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:14:41.687559+00:00
 -- url     : https://prove2.me/theorems/127be076-0942-4db7-b8ef-639832726fc0
 -- title:

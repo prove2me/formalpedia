@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThornStringBits_low_energy_excitations_O_one_over_M
 -- name    : ThornStringBits.low_energy_excitations_O_one_over_M
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:42:39.049722+00:00
 -- url     : https://prove2.me/theorems/5de50e84-5040-4a05-aafb-f2d4dde2935e
 -- title:

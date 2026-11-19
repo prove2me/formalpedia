@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_period_three_implies_all_periods
 -- name    : Devaney.period_three_implies_all_periods
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:11:07.991708+00:00
 -- url     : https://prove2.me/theorems/50ed7397-0363-451a-b008-5243830e8af4
 -- title:

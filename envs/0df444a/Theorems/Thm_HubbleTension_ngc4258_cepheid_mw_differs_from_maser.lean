@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleTension_ngc4258_cepheid_mw_differs_from_maser
 -- name    : HubbleTension.ngc4258_cepheid_mw_differs_from_maser
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:29:02.558996+00:00
 -- url     : https://prove2.me/theorems/4aa31b24-015c-4840-9c0b-eb6c4fee744b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_poly_fermat
 -- name    : AKS.poly_fermat
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:50:41.61156+00:00
 -- url     : https://prove2.me/theorems/5ac26fbc-e207-4aeb-996c-16f22d30e408
 -- title:

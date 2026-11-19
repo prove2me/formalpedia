@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_UnphysicalHilbert_StateSpace
 -- name    : UnphysicalHilbert_StateSpace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:03:11.947247+00:00
 -- url     : https://prove2.me/theorems/42b37515-917f-45f8-ab59-bc541871168d
 -- title:

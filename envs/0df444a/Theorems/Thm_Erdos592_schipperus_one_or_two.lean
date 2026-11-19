@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos592_schipperus_one_or_two
 -- name    : Erdos592.schipperus_one_or_two
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:10:07.924886+00:00
 -- url     : https://prove2.me/theorems/31c75db8-058f-4f87-87fa-c2bb7b52f75e
 -- title:

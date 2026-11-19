@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoetherIVP_divergence_identity
 -- name    : NoetherIVP.divergence_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T14:57:30.853541+00:00
 -- url     : https://prove2.me/theorems/53851a6b-efa4-412f-bbe6-3a77f8546728
 -- title:

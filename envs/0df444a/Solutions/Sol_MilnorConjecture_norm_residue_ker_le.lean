@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MilnorConjecture.norm_residue_ker_le
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:50:51.608398+00:00
 -- url     : https://prove2.me/submissions/32624388-9910-4895-a93e-750261870710
 -- note    : a sketch -- it imports a theorem that is still Open,

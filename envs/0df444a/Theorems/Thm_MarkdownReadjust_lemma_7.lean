@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkdownReadjust_lemma_7
 -- name    : MarkdownReadjust.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:13:46.837228+00:00
 -- url     : https://prove2.me/theorems/2201a85c-ed9f-4c6d-8570-ca1a8559aae8

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_caesium_photon_energy_value
 -- name    : CaesiumStandard.caesium_photon_energy_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:13:30.042635+00:00
 -- url     : https://prove2.me/theorems/27f48e06-af68-4254-a982-0c0064f4eac0
 -- title:

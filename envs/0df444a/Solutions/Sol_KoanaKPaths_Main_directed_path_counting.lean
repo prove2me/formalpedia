@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KoanaKPaths.Main.directed_path_counting
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T01:48:15.358406+00:00
 -- url     : https://prove2.me/submissions/ab4820a9-ba77-46e5-bea6-bee5e977552e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_KoanaKPaths_Main_amplified_estimator_accuracy
 import Theorems.Thm_KoanaKPaths_Main_graph_estimator_machine

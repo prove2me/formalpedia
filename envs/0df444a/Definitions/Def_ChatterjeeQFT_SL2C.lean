@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ChatterjeeQFT_SL2C
 -- name    : ChatterjeeQFT_SL2C
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:43:47.282274+00:00
 -- url     : https://prove2.me/theorems/96939a01-f795-4316-892e-f9a4eb84d6e1
 -- title:

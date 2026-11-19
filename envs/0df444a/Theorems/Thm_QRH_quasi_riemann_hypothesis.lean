@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QRH_quasi_riemann_hypothesis
 -- name    : QRH.quasi_riemann_hypothesis
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T12:51:55.15826+00:00
 -- url     : https://prove2.me/theorems/cff37516-dbc0-4f1d-bdd7-15fb39863c43
 -- title:

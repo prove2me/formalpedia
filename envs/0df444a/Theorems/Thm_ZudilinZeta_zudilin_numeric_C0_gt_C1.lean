@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_zudilin_numeric_C0_gt_C1
 -- name    : ZudilinZeta.zudilin_numeric_C0_gt_C1
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T19:53:03.453661+00:00
 -- url     : https://prove2.me/theorems/14b927eb-b210-4e9f-8ca4-3258b8e4a059
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KLZ97_threshold_theorem
 -- name    : KLZ97.threshold_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:24:35.916997+00:00
 -- url     : https://prove2.me/theorems/b55be58f-767d-4165-add2-848f0f682658
 -- title:

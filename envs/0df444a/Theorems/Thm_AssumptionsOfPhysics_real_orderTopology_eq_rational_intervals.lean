@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_real_orderTopology_eq_rational_intervals
 -- name    : AssumptionsOfPhysics.real_orderTopology_eq_rational_intervals
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:21:42.42473+00:00
 -- url     : https://prove2.me/theorems/4f683024-e458-4864-bb77-fe94531824fc
 -- title:

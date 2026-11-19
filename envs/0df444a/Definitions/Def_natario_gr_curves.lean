@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_natario_gr_curves
 -- name    : natario_gr_curves
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:54:51.860233+00:00
 -- url     : https://prove2.me/theorems/6bf037dc-7eac-4efa-afbc-8744eb7a3b6d
 -- title:

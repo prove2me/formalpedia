@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKS_prime_iff
 -- name    : AKS.prime_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:54:17.077025+00:00
 -- url     : https://prove2.me/theorems/0505534a-95b2-4528-8f3a-24292c742bfe
 -- title:

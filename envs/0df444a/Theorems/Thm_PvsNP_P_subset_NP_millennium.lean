@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_P_subset_NP_millennium
 -- name    : PvsNP.P_subset_NP_millennium
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:32:53.98902+00:00
 -- url     : https://prove2.me/theorems/6001690a-7071-4210-b891-ecd6a20d4e40
 -- title:

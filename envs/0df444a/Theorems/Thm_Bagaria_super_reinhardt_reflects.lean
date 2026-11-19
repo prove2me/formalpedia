@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Bagaria_super_reinhardt_reflects
 -- name    : Bagaria.super_reinhardt_reflects
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:13:19.776366+00:00
 -- url     : https://prove2.me/theorems/7d27a1e7-ba50-4151-9c5a-092f287ee92b
 -- title:

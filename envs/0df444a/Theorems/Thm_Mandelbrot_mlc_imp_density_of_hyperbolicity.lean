@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_mlc_imp_density_of_hyperbolicity
 -- name    : Mandelbrot.mlc_imp_density_of_hyperbolicity
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:10:11.607577+00:00
 -- url     : https://prove2.me/theorems/33b2b5a6-cf70-40c2-a8ac-0aa538e5b49c
 -- title:

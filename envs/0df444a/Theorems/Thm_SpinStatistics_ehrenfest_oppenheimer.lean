@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpinStatistics_ehrenfest_oppenheimer
 -- name    : SpinStatistics.ehrenfest_oppenheimer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:08:51.387206+00:00
 -- url     : https://prove2.me/theorems/f20e4bc1-dd72-4dee-9476-9d6502ec8dbd
 -- title:

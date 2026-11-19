@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Zeta_irrational_zeta_odd
 -- name    : FCP.Zeta.irrational_zeta_odd
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:53:49.381244+00:00
 -- url     : https://prove2.me/theorems/0139e9a9-aacb-430f-b3e5-191a9ba5f37f
 -- title:

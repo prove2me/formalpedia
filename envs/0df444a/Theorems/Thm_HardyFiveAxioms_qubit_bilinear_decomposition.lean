@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_qubit_bilinear_decomposition
 -- name    : HardyFiveAxioms.qubit_bilinear_decomposition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T23:28:05.790145+00:00
 -- url     : https://prove2.me/theorems/92ba3e80-cf0f-4bed-9409-c1927739a2e0
 -- title:

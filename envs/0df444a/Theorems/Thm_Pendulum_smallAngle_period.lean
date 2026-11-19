@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_smallAngle_period
 -- name    : Pendulum.smallAngle_period
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:36:37.370086+00:00
 -- url     : https://prove2.me/theorems/0f135d1f-06ef-4ce3-9574-eeff573039fe
 -- title:

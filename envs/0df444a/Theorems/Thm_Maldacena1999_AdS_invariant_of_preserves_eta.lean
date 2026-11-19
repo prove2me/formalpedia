@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_AdS_invariant_of_preserves_eta
 -- name    : Maldacena1999.AdS_invariant_of_preserves_eta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:41:22.427837+00:00
 -- url     : https://prove2.me/theorems/6ecfc769-3695-4ec8-8290-0ed2558b2b91
 -- title:

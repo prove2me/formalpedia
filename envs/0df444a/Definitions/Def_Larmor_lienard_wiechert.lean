@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Larmor_lienard_wiechert
 -- name    : Larmor_lienard_wiechert
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:03:42.443625+00:00
 -- url     : https://prove2.me/theorems/7249157e-6a06-4181-b12f-cf15474bebc1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MagicNumberShellModel_misses_28_and_predicts_40
 -- name    : MagicNumberShellModel.misses_28_and_predicts_40
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T18:49:28.606974+00:00
 -- url     : https://prove2.me/theorems/e1193f05-1543-4fc8-94a6-41d2ba977344
 -- title:

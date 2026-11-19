@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HWMaskLeak_cauchy_coeff_bound
 -- name    : HWMaskLeak.cauchy_coeff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:29:38.143118+00:00
 -- url     : https://prove2.me/theorems/b3c57fd1-3485-4b43-a003-461255dfd8bf

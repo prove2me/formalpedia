@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_lower_bound_on_gaps
 -- name    : DeBruijnNewman.lower_bound_on_gaps
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:37:06.226998+00:00
 -- url     : https://prove2.me/theorems/cdc93837-9676-42bf-8f8e-c70fe699bc93
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Zeta_zudilin_five_seven_nine_eleven
 -- name    : FCP.Zeta.zudilin_five_seven_nine_eleven
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:54:03.868852+00:00
 -- url     : https://prove2.me/theorems/a925cba9-6bcf-4296-940d-3886687da227
 -- title:

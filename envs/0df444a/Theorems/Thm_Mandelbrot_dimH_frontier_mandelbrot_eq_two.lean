@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_dimH_frontier_mandelbrot_eq_two
 -- name    : Mandelbrot.dimH_frontier_mandelbrot_eq_two
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:03:51.241464+00:00
 -- url     : https://prove2.me/theorems/a4c4fba8-1048-4e53-bb8d-f9093c85cf68
 -- title:

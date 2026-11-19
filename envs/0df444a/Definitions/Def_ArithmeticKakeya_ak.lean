@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ArithmeticKakeya_ak
 -- name    : ArithmeticKakeya_ak
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:55:08.661446+00:00
 -- url     : https://prove2.me/theorems/8899b891-204c-4545-b8ca-fefc9d1ecca3
 -- title:

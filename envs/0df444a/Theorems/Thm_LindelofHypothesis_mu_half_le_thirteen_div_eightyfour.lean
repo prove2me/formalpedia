@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_half_le_thirteen_div_eightyfour
 -- name    : LindelofHypothesis.mu_half_le_thirteen_div_eightyfour
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:42:46.845379+00:00
 -- url     : https://prove2.me/theorems/9dcf5194-9890-4827-9244-a580502ce2fe
 -- title:

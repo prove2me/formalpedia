@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCTOcc_no_occurrence_obstructions
 -- name    : GCTOcc.no_occurrence_obstructions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T18:08:26.20227+00:00
 -- url     : https://prove2.me/theorems/a586c963-1471-4731-99f3-ae24f6bd6f95
 -- title:

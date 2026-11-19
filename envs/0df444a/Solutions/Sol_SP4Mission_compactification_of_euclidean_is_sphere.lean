@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SP4Mission.compactification_of_euclidean_is_sphere
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T14:46:40.024837+00:00
 -- url     : https://prove2.me/submissions/3105fb61-35bd-4d00-883a-d6057dea145d
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_m23_self_normalizing
 -- name    : MathieuM23.m23_self_normalizing
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T00:15:48.387768+00:00
 -- url     : https://prove2.me/theorems/407419de-f1f9-45b4-93eb-cabe4bd08f31
 -- title:

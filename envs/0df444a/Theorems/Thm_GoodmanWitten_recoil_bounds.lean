@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_recoil_bounds
 -- name    : GoodmanWitten.recoil_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:50:58.161708+00:00
 -- url     : https://prove2.me/theorems/d085aa1e-2a86-49f9-8a4a-497a0960cfd7
 -- title:

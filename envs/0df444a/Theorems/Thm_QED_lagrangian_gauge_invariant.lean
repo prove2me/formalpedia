@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_lagrangian_gauge_invariant
 -- name    : QED.lagrangian_gauge_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:17:52.600493+00:00
 -- url     : https://prove2.me/theorems/5426ecb8-4ef5-4775-a460-4e5ea5bca10d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_imLogZ_clt
 -- name    : KeatingSnaith.cue_imLogZ_clt
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:08:31.873337+00:00
 -- url     : https://prove2.me/theorems/cabed0fa-a748-4fd1-b6f5-27a2e6d0f410
 -- title:

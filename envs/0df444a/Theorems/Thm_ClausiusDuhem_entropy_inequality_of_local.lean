@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClausiusDuhem_entropy_inequality_of_local
 -- name    : ClausiusDuhem.entropy_inequality_of_local
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:35:42.816977+00:00
 -- url     : https://prove2.me/theorems/d2160234-18e6-4c16-b124-9c23132bbd6a
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.smooth_proper_function_of_noncompact
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T13:40:23.332884+00:00
 -- url     : https://prove2.me/submissions/922f0ff6-222b-4a1f-adb0-3137a558c19e
 

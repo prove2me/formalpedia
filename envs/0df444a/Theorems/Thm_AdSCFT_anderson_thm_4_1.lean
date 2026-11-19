@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AdSCFT_anderson_thm_4_1
 -- name    : AdSCFT.anderson_thm_4_1
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:50:54.216618+00:00
 -- url     : https://prove2.me/theorems/73ccc37b-063b-498e-9cc5-fcc9cefd4130
 -- title:

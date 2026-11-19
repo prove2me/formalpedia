@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CTB_tor
 -- name    : CTB_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:12:52.771925+00:00
 -- url     : https://prove2.me/theorems/5afb821c-ac16-4b52-976e-f47035339b80
 -- title:

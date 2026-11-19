@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_ramanujan_petersson
 -- name    : RamanujanPetersson.ramanujan_petersson
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:21:43.123993+00:00
 -- url     : https://prove2.me/theorems/3c5fc8a7-91a1-4082-8d56-e8060c83c825
 -- title:

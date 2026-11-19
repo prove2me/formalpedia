@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThirdLawThermo_photon_absorption_entropy_change
 -- name    : ThirdLawThermo.photon_absorption_entropy_change
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:22.186807+00:00
 -- url     : https://prove2.me/theorems/c7098fe3-6d8e-4f5a-bed1-b438062713e5
 -- title:

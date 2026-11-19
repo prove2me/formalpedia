@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_trig_approximation
 -- name    : Rudin.ch08_trig_approximation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:29:28.497168+00:00
 -- url     : https://prove2.me/theorems/c37f7890-5a5b-4d70-be41-fd3db5873ad9
 -- title:

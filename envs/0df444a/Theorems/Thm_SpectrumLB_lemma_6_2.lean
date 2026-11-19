@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectrumLB_lemma_6_2
 -- name    : SpectrumLB.lemma_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:36:40.762971+00:00
 -- url     : https://prove2.me/theorems/5353d9c8-c61c-49d1-bcf1-65ab22ac7913

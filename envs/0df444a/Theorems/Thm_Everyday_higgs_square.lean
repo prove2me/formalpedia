@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_higgs_square
 -- name    : Everyday.higgs_square
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:16:32.301975+00:00
 -- url     : https://prove2.me/theorems/6f5f4d93-9c72-4027-895f-766d98b6d805
 -- title:

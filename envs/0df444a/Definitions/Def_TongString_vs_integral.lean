@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_TongString_vs_integral
 -- name    : TongString_vs_integral
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:16:56.87207+00:00
 -- url     : https://prove2.me/theorems/fea50ea5-1d8d-4b16-921b-c9aea9460ca9
 -- title:

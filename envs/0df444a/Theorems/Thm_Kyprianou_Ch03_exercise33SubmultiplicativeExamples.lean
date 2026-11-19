@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise33SubmultiplicativeExamples
 -- name    : Kyprianou.Ch03.exercise33SubmultiplicativeExamples
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:50:39.266199+00:00
 -- url     : https://prove2.me/theorems/73b672fe-32ad-4d71-90ce-db100b1d03fc

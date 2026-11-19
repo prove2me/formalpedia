@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_YangMills_strong_coupling_thermodynamic_limit
 -- name    : YangMills.strong_coupling_thermodynamic_limit
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:01:26.364231+00:00
 -- url     : https://prove2.me/theorems/19f55fb1-0a0e-4528-ad6f-e5fcdef57c71
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_bose_integral_number_of_states
 -- name    : CarneiroDeSitter.bose_integral_number_of_states
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:20:00.008194+00:00
 -- url     : https://prove2.me/theorems/35dd2cc8-1912-4670-b1ee-20cfc81c464d
 -- title:

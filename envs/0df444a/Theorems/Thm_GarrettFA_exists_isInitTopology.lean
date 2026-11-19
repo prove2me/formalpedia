@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GarrettFA_exists_isInitTopology
 -- name    : GarrettFA.exists_isInitTopology
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:38:59.640096+00:00
 -- url     : https://prove2.me/theorems/25efe4af-bf4c-4617-b004-24ad49e7e960
 -- title:

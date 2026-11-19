@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos592_specker_omega_pow_nat_not
 -- name    : Erdos592.specker_omega_pow_nat_not
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:08:07.814241+00:00
 -- url     : https://prove2.me/theorems/bc75f480-8ac4-41ca-b46e-29d43876f7a2
 -- title:

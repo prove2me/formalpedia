@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SliceRibbon_basic
 -- name    : SliceRibbon_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T11:53:21.235616+00:00
 -- url     : https://prove2.me/theorems/4b65069f-769f-49af-bd16-4e231fafec89
 -- title:

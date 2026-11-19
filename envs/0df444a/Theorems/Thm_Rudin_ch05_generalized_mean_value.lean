@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_generalized_mean_value
 -- name    : Rudin.ch05_generalized_mean_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:06:10.648103+00:00
 -- url     : https://prove2.me/theorems/a58be856-e84b-4038-8136-fa5546e2034e
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianPassageZeroDiscount
 -- name    : Kyprianou.Ch01.inverseGaussianPassageZeroDiscount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T19:10:53.337416+00:00
 -- url     : https://prove2.me/theorems/a011bacb-fdc2-4c4b-a6e8-e3f9334b63cd

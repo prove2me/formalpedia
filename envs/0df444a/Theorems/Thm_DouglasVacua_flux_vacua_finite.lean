@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DouglasVacua_flux_vacua_finite
 -- name    : DouglasVacua.flux_vacua_finite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:00:51.308992+00:00
 -- url     : https://prove2.me/theorems/3022bd70-0cf3-44f9-a2a5-495fdad9afc4
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_exponentialAscendingLadderRenewal
 -- name    : Kyprianou.Ch01.exponentialAscendingLadderRenewal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:22:49.766738+00:00
 -- url     : https://prove2.me/theorems/3df498f1-f8a4-46dc-b189-46f03402f215

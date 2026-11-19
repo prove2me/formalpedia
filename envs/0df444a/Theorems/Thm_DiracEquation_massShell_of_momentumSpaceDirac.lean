@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DiracEquation_massShell_of_momentumSpaceDirac
 -- name    : DiracEquation.massShell_of_momentumSpaceDirac
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T20:25:20.161333+00:00
 -- url     : https://prove2.me/theorems/d6e02c99-d163-4887-a5ca-625cd2d3add5
 -- title:

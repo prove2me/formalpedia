@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Erdos592_Defs
 -- name    : Erdos592_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:00:53.675333+00:00
 -- url     : https://prove2.me/theorems/da6b5758-f9ae-431d-904b-c2d60c50d0f9
 -- title:

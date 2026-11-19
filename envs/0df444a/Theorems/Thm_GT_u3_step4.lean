@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_u3_step4
 -- name    : GT.u3_step4
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:31:09.25306+00:00
 -- url     : https://prove2.me/theorems/58ac4f8a-3373-4a4b-9285-0220bb63b071
 -- title:

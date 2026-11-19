@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KontsevichHMS_AInfCategory
 -- name    : KontsevichHMS_AInfCategory
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:50:37.824828+00:00
 -- url     : https://prove2.me/theorems/b9c37f13-2193-4900-881d-5b94df7ca211
 -- title:

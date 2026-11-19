@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleTension_hubbleConstant_modulus_shift
 -- name    : HubbleTension.hubbleConstant_modulus_shift
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:24:09.429097+00:00
 -- url     : https://prove2.me/theorems/e1c742ab-c4ec-41cf-88b4-171c74d18260
 -- title:

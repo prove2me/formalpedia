@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_KTCW_ball_bound
 -- name    : WangZahlKakeya.KTCW_ball_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T15:22:31.11165+00:00
 -- url     : https://prove2.me/theorems/4b64d04c-969a-4574-a33a-e35d0f6e9e5c
 -- title:

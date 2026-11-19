@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_continuous_integrable
 -- name    : Rudin.ch06_continuous_integrable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:13:39.418234+00:00
 -- url     : https://prove2.me/theorems/52058224-8aa2-497d-9d8b-4aa8e12f9a4d
 -- title:

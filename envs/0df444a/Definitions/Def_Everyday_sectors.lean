@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Everyday_sectors
 -- name    : Everyday_sectors
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:11:43.700036+00:00
 -- url     : https://prove2.me/theorems/939f99f4-1304-42ad-8a2e-76a55071262e
 -- title:

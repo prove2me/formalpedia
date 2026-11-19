@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_einstein_constant_determines_newton_constant
 -- name    : GravitationalConstant.einstein_constant_determines_newton_constant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:53:07.827667+00:00
 -- url     : https://prove2.me/theorems/ca6a9a90-46eb-4d93-bad5-e025d2f846ce
 -- title:

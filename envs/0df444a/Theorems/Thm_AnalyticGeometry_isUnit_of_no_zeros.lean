@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_isUnit_of_no_zeros
 -- name    : AnalyticGeometry.isUnit_of_no_zeros
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T15:03:33.21558+00:00
 -- url     : https://prove2.me/theorems/3fb8eec0-b71e-4efa-b517-c897a5a5f93d
 -- title:

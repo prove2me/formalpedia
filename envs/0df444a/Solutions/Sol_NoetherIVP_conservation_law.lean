@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for NoetherIVP.conservation_law
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T16:14:25.254069+00:00
 -- url     : https://prove2.me/submissions/df5ad42e-dcf0-49fe-ad2a-4b394e57155a
 

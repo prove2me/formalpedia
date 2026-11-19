@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckFreq_integrableOn_Ioi
 -- name    : BlackbodyRadiation.planckFreq_integrableOn_Ioi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T14:04:15.761304+00:00
 -- url     : https://prove2.me/theorems/61eff190-f7a2-47b8-b30f-2116d7a6867c
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_exists_fixedPoint_of_covers_self
 -- name    : Devaney.exists_fixedPoint_of_covers_self
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T07:15:00.806963+00:00
 -- url     : https://prove2.me/theorems/f16d9cb1-bde8-4cf4-b7d7-8f54296119bd
 -- title:

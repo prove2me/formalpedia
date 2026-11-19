@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_integration_by_parts
 -- status  : ACCEPTED   (disprove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T18:40:07.119049+00:00
 -- url     : https://prove2.me/submissions/e5ff2eb1-9140-4142-93f1-4450285dc01d
 

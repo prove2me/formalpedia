@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_charge_eq_natural_unit_mul_sqrt_alpha
 -- name    : ElementaryCharge.charge_eq_natural_unit_mul_sqrt_alpha
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:40:56.348984+00:00
 -- url     : https://prove2.me/theorems/100b9698-8780-42b4-8f87-e66cb50cb41e
 -- title:

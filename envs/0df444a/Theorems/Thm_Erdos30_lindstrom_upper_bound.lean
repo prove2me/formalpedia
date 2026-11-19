@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos30_lindstrom_upper_bound
 -- name    : Erdos30.lindstrom_upper_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T17:45:02.546073+00:00
 -- url     : https://prove2.me/theorems/03874d35-3ed9-47ce-b3a3-389cafd329b0
 -- title:

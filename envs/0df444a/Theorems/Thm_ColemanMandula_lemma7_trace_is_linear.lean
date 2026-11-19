@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ColemanMandula_lemma7_trace_is_linear
 -- name    : ColemanMandula.lemma7_trace_is_linear
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T05:01:40.63586+00:00
 -- url     : https://prove2.me/theorems/ece15dd0-ec05-4442-a4e6-634070103193
 -- title:

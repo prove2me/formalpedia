@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_rightIdeal_iff_rightOrbit_subset
 -- name    : BalancedAlgebra.rightIdeal_iff_rightOrbit_subset
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T00:30:01.164247+00:00
 -- url     : https://prove2.me/theorems/4bcfe7c3-7293-41ad-b35b-d11c62865be2
 -- title:

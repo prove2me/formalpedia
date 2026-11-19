@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClayNavierStokes_breakdown_R3
 -- name    : ClayNavierStokes.breakdown_R3
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:41:06.385125+00:00
 -- url     : https://prove2.me/theorems/b8f314da-6c84-4144-bffa-b7441d9aa541
 -- title:

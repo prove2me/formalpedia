@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_not_cwo_of_deductive_compl_deductive
 -- name    : CogCons.not_cwo_of_deductive_compl_deductive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:41:47.751671+00:00
 -- url     : https://prove2.me/theorems/ac287985-5c2c-40e8-b365-807af6d45d2b
 -- title:

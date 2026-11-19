@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReserveLB_eq_3
 -- name    : ReserveLB.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:29:48.114591+00:00
 -- url     : https://prove2.me/theorems/df0c2ccd-a44a-4390-9036-e8d64a9dae79

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonN7_Glue_capSpec_sound
 -- name    : ThomsonN7.Glue.capSpec_sound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T01:45:50.139995+00:00
 -- url     : https://prove2.me/theorems/0fa5c904-df66-46f9-808d-3c739f4872d7
 -- title:

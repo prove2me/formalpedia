@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HGL_class_group
 -- name    : HGL.class_group
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:08:56.200176+00:00
 -- url     : https://prove2.me/theorems/cb392aad-a459-4e33-9a72-9674fbdbb62c
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitMHR_lemma_3_3
 -- name    : BilateralProfitMHR.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:20:19.941422+00:00
 -- url     : https://prove2.me/theorems/2ac92fe0-33ef-46ac-b0d5-63615707af0c

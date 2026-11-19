@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GarrettFA_IsNetComplete
 -- name    : GarrettFA_IsNetComplete
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:22:49.793982+00:00
 -- url     : https://prove2.me/theorems/4ef40310-dbd4-4ce1-93d7-4415a8e4bd96
 -- title:

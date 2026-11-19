@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynColorWC_Main_lemma_3_4
 -- name    : DynColorWC.Main.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T20:46:07.683112+00:00
 -- url     : https://prove2.me/theorems/82193432-fda6-4194-9710-91c9eb3d7029

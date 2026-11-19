@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_mode_sum_eq_B3
 -- name    : ErlerGross.mode_sum_eq_B3
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:33:54.49518+00:00
 -- url     : https://prove2.me/theorems/611613d4-a758-4aa6-af16-399ed226aaf0
 -- title:

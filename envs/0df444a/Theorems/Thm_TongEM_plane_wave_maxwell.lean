@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongEM_plane_wave_maxwell
 -- name    : TongEM.plane_wave_maxwell
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T01:39:00.40199+00:00
 -- url     : https://prove2.me/theorems/5e3c691a-a553-4fb8-b486-cc5bde4a0adc
 -- title:

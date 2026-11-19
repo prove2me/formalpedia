@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for YangMills.os_positivity_cauchy_schwarz
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T19:59:18.334594+00:00
 -- url     : https://prove2.me/submissions/f8b085b0-8b84-4030-a35d-6e091846bcfb
 

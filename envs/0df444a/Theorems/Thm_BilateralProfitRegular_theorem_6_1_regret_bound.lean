@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitRegular_theorem_6_1_regret_bound
 -- name    : BilateralProfitRegular.theorem_6_1_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:35.970751+00:00
 -- url     : https://prove2.me/theorems/b8fd354d-7cd8-4951-b3bc-5a583d717253

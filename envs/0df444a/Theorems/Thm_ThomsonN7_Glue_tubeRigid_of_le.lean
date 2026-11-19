@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonN7_Glue_tubeRigid_of_le
 -- name    : ThomsonN7.Glue.tubeRigid_of_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:07:35.378963+00:00
 -- url     : https://prove2.me/theorems/a87ae6ac-e759-44ab-bb20-57ad5d40136e
 -- title:

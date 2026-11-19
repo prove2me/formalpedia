@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_inverse_continuous
 -- name    : Rudin.ch04_inverse_continuous
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:24:24.266567+00:00
 -- url     : https://prove2.me/theorems/3580d2f7-be6c-40f7-af5c-4fca3fa24e18
 -- title:

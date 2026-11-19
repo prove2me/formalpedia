@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MethanolMuDrift_variability_shift
 -- name    : MethanolMuDrift.variability_shift
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T00:40:18.67805+00:00
 -- url     : https://prove2.me/theorems/9d7a3dbe-44ef-4e35-8051-f9161c093989
 -- title:

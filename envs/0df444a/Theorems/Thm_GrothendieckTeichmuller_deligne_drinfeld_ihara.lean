@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_deligne_drinfeld_ihara
 -- name    : GrothendieckTeichmuller.deligne_drinfeld_ihara
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:59:30.260053+00:00
 -- url     : https://prove2.me/theorems/f7ce1cf5-6716-4e21-a0e4-95cc4e38dc90
 -- title:

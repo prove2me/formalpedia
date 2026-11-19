@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_lemm_sums_differences_barrier
 -- name    : ArithmeticKakeya.lemm_sums_differences_barrier
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T21:59:40.751555+00:00
 -- url     : https://prove2.me/theorems/856a5bea-e840-417b-9fe3-b36e6c9ab1bb
 -- title:

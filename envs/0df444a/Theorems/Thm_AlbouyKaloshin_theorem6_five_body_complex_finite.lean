@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_theorem6_five_body_complex_finite
 -- name    : AlbouyKaloshin.theorem6_five_body_complex_finite
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T22:10:46.016753+00:00
 -- url     : https://prove2.me/theorems/174c2b2d-d835-4f33-ba02-d53a52f94e65
 -- title:

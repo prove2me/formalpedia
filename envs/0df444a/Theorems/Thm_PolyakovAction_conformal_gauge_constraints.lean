@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_conformal_gauge_constraints
 -- name    : PolyakovAction.conformal_gauge_constraints
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T12:24:26.422015+00:00
 -- url     : https://prove2.me/theorems/30ddb66b-c6cc-478c-8428-a6c6cd6c866e
 -- title:

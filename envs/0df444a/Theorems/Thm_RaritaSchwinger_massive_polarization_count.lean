@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RaritaSchwinger_massive_polarization_count
 -- name    : RaritaSchwinger.massive_polarization_count
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T11:18:41.174335+00:00
 -- url     : https://prove2.me/theorems/a43b3608-0903-4e58-a691-9bc37141b3b5
 -- title:

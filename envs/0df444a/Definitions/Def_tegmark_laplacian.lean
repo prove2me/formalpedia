@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_tegmark_laplacian
 -- name    : tegmark_laplacian
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T02:07:28.664986+00:00
 -- url     : https://prove2.me/theorems/2d6975f2-a456-494d-92b2-f7cd997ee93c
 -- title:

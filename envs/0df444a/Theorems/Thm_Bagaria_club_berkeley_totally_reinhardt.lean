@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Bagaria_club_berkeley_totally_reinhardt
 -- name    : Bagaria.club_berkeley_totally_reinhardt
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:15:27.488846+00:00
 -- url     : https://prove2.me/theorems/fc8d63db-efd4-4763-ba24-3f26c6cc1a4c
 -- title:

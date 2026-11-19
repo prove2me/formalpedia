@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BurauFaithful_UnreducedBurau
 -- name    : BurauFaithful_UnreducedBurau
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T19:54:35.078461+00:00
 -- url     : https://prove2.me/theorems/f48b08a7-f41a-46ee-90a3-3db8033f7fdd
 -- title:

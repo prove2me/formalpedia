@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_sigma2_dist_agree
 -- name    : Devaney.sigma2_dist_agree
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:27:40.124113+00:00
 -- url     : https://prove2.me/theorems/e6af4933-098a-440c-ac1d-7a389f40d155
 -- title:

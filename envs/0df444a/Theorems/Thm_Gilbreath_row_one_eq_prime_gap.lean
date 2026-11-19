@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_row_one_eq_prime_gap
 -- name    : Gilbreath.row_one_eq_prime_gap
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:49:09.687227+00:00
 -- url     : https://prove2.me/theorems/7cb37cda-b18d-4f57-be9a-a7d9a10032fb
 -- title:

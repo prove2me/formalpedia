@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_ncard_perOfPeriod
 -- name    : Devaney.quadratic_ncard_perOfPeriod
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T11:12:24.9667+00:00
 -- url     : https://prove2.me/theorems/0eb08e60-1538-491e-935f-11a4b7aa2a4c
 -- title:

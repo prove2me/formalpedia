@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_class_number_formula
 -- name    : ClassNumberFormula.class_number_formula
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T13:01:23.435814+00:00
 -- url     : https://prove2.me/theorems/69bfbae5-641a-44c4-8121-d9302e0106bc
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SEF_siegel_zero_bound
 -- name    : SEF.siegel_zero_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:02:55.010157+00:00
 -- url     : https://prove2.me/theorems/27709f81-4a3f-4a55-80bb-722fdd39128d
 -- title:

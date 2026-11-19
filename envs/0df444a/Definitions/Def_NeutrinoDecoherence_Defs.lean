@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NeutrinoDecoherence_Defs
 -- name    : NeutrinoDecoherence_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T11:29:36.78791+00:00
 -- url     : https://prove2.me/theorems/665e7e42-dacf-4a0c-9531-4b2f42bc0658
 -- title:

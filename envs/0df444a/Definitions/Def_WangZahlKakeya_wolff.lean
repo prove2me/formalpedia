@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WangZahlKakeya_wolff
 -- name    : WangZahlKakeya_wolff
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T11:10:43.246041+00:00
 -- url     : https://prove2.me/theorems/4f94957a-7403-4772-8375-6f4981ab635a
 -- title:

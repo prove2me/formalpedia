@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_localMaxwellian_maxwellian
 -- name    : BoltzmannBGK.localMaxwellian_maxwellian
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:19:08.421191+00:00
 -- url     : https://prove2.me/theorems/8120a0cf-ac1b-4c52-a82a-3869cfe72e55
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_superposition_principle
 -- name    : InfoDerivQT.superposition_principle
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:49:22.890614+00:00
 -- url     : https://prove2.me/theorems/bb903c70-1c3d-49de-904a-d1565ca8c2eb
 -- title:

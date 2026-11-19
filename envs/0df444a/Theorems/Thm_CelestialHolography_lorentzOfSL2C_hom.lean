@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_lorentzOfSL2C_hom
 -- name    : CelestialHolography.lorentzOfSL2C_hom
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T02:03:56.202952+00:00
 -- url     : https://prove2.me/theorems/0428c2ac-bda9-4b72-a400-2810e73cf7fa
 -- title:

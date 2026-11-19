@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeisenbergRep_Knill_pauli_commute_square_eigen
 -- name    : HeisenbergRep.Knill.pauli_commute_square_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:59:30.576985+00:00
 -- url     : https://prove2.me/theorems/a6fa121b-784d-4d88-a6b8-2998d2434c63

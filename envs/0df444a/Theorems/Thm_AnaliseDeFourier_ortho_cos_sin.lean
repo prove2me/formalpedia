@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnaliseDeFourier_ortho_cos_sin
 -- name    : AnaliseDeFourier.ortho_cos_sin
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:42:27.69943+00:00
 -- url     : https://prove2.me/theorems/f81caf1c-edf0-426a-887a-0bf4acd6dc99
 -- title:

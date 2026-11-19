@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_higgs_ground
 -- name    : Everyday.higgs_ground
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:16:52.649326+00:00
 -- url     : https://prove2.me/theorems/da7f4bbd-7c49-4c0e-9523-93e8051cf4a1
 -- title:

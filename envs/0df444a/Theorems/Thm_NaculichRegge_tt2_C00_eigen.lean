@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_tt2_C00_eigen
 -- name    : NaculichRegge.tt2_C00_eigen
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:35:55.692425+00:00
 -- url     : https://prove2.me/theorems/0ec02f8e-8490-44ad-b5b6-6350f4ecb64c
 -- title:

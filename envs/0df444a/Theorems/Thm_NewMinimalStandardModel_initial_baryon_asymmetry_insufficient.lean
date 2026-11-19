@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewMinimalStandardModel_initial_baryon_asymmetry_insufficient
 -- name    : NewMinimalStandardModel.initial_baryon_asymmetry_insufficient
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T13:39:44.605635+00:00
 -- url     : https://prove2.me/theorems/f2c6bd20-62d1-48b6-bd0b-78eb6e4dfd5c
 -- title:

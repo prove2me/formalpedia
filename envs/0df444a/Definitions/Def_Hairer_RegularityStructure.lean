@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Hairer_RegularityStructure
 -- name    : Hairer_RegularityStructure
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:36:26.052595+00:00
 -- url     : https://prove2.me/theorems/22abc435-1ec7-4dc3-bf3e-d4d5059bb6b6
 -- title:

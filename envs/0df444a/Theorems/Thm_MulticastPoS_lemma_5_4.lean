@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticastPoS_lemma_5_4
 -- name    : MulticastPoS.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:38:53.084035+00:00
 -- url     : https://prove2.me/theorems/12001571-bf91-4868-a208-fd27b16db4c1

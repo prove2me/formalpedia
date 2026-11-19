@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_degree_pos12
 -- name    : OAI.UniversalTensorSquare.degree_pos12
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T20:20:39.634084+00:00
 -- url     : https://prove2.me/theorems/08a79f5c-2a05-404a-bd39-6049fb4b002b

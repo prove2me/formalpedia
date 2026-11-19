@@ -43835,7 +43835,7 @@
 {"parent": "MIPRE.Cost.Machine.clockBody_prefix", "child": "MIPRE_Foundations_Cost_Basic", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Machine.clockBody_prefix", "child": "MIPRE_Foundations_Cost_Toolkit", "via": ["solution", "statement"]}
 {"parent": "VehicleSharePricing.DemandFree.beta_increment_le", "child": "VehicleSharePricing_DemandFree_Beta", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_29", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_29", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614_Machine_Bundle031", "child": "ThreeSum1960614_Machine_Bundle029", "via": ["statement"]}
 {"parent": "ThreeSum1960614_Machine_Bundle031", "child": "ThreeSum1960614_Analysis", "via": ["statement"]}
 {"parent": "ThreeSum1960614_Machine_Bundle031", "child": "ThreeSum1960614_Machine_Bundle015", "via": ["statement"]}
@@ -48599,7 +48599,7 @@
 {"parent": "OAI_Probability_Ising_Contraction", "child": "OAI_Probability_Ising_TwoSpin", "via": ["statement"]}
 {"parent": "OAI_Probability_Ising_Contraction", "child": "OAI_Probability_Ising_SpinCorrelation", "via": ["statement"]}
 {"parent": "MIPRE_Foundations_Cost_Encoding", "child": "MIPRE_Foundations_Cost_Basic", "via": ["statement"]}
-{"parent": "QAOAE3Lin2.General.eq_39", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_39", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.EncodedColorResources.global_keys_space_bound", "child": "ThreeSum1960614_Machine_Bundle029", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.EncodedColorResources.global_keys_space_bound", "child": "ThreeSum1960614_Analysis", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.EncodedColorResources.global_keys_space_bound", "child": "ThreeSum.LightRadixKeys.space_bound", "via": ["solution", "statement"]}
@@ -53967,8 +53967,8 @@
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightTrimTest.meets", "child": "APSPSource_ThreeSumApsp_Util_List", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightTrimTest.meets", "child": "ThreeSum1962Source_Bundle01", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightTrimTest.meets", "child": "ThreeSum1962Source_Bundle03", "via": ["solution", "statement"]}
-{"parent": "SeqLoss.TreeRules.theorem_4", "child": "SeqLoss_TreeRules_Axioms", "via": ["statement"]}
-{"parent": "SeqLoss.TreeRules.theorem_4", "child": "SeqLoss_TreeRules_Setting", "via": ["statement"]}
+{"parent": "SeqLoss.TreeRules.theorem_4", "child": "SeqLoss_TreeRules_Axioms", "via": ["solution", "statement"]}
+{"parent": "SeqLoss.TreeRules.theorem_4", "child": "SeqLoss_TreeRules_Setting", "via": ["solution", "statement"]}
 {"parent": "DQI.Semicircle.eq_39_40", "child": "DQI_Semicircle_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightGuardedWanted.program_meets", "child": "ThreeSum.LightRawAKeys.meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightGuardedWanted.program_meets", "child": "ThreeSum.LightCoverKeys.Procs.meets_with_masks", "via": ["solution", "statement"]}
@@ -54153,7 +54153,7 @@
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightEncodedColorSources.program_meets", "child": "ThreeSum1960614_Machine_Bundle026", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightEncodedColorSources.program_meets", "child": "ThreeSum1960614_Machine_Bundle014", "via": ["solution", "statement"]}
 {"parent": "VerticalOwnership.CheapTalk.cond12_always", "child": "VerticalOwnership_CheapTalk_Setting", "via": ["statement"]}
-{"parent": "QAOAE3Lin2.General.eq_28", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_28", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.BufferedIsing.extreme_rectangle", "child": "OAI_Probability_Ising_EdwardsSokal", "via": ["solution", "statement"]}
 {"parent": "OAI.BufferedIsing.extreme_rectangle", "child": "OAI_Probability_Ising_Colorings", "via": ["solution", "statement"]}
 {"parent": "OAI.BufferedIsing.extreme_rectangle", "child": "OAI_Probability_Ising_Basic", "via": ["solution", "statement"]}
@@ -56396,8 +56396,8 @@
 {"parent": "OAI.MatchingEntropy.covariance_quadratic", "child": "OAI_Combinatorics_PerfectMatching_SecondVariation", "via": ["solution", "statement"]}
 {"parent": "OAI.MatchingEntropy.covariance_quadratic", "child": "OAI_Combinatorics_PerfectMatching_OddCuts", "via": ["solution", "statement"]}
 {"parent": "OAI.MatchingEntropy.covariance_quadratic", "child": "OAI_Combinatorics_PerfectMatching_Basic", "via": ["solution", "statement"]}
-{"parent": "StrictCompatLB.MeanField.theorem_4_3", "child": "StrictCompatLB_MeanField_Model", "via": ["statement"]}
-{"parent": "QAOAE3Lin2.General.eq_6_sum", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "StrictCompatLB.MeanField.theorem_4_3", "child": "StrictCompatLB_MeanField_Model", "via": ["solution", "statement"]}
+{"parent": "QAOAE3Lin2.General.eq_6_sum", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.ParityWL.WeightedWitness.mass_separator", "child": "OAI_Combinatorics_ParityLifts_Masses", "via": ["solution", "statement"]}
 {"parent": "OAI.ParityWL.WeightedWitness.mass_separator", "child": "OAI_Combinatorics_ParityLifts_LiftCounts", "via": ["solution", "statement"]}
 {"parent": "OAI.ParityWL.WeightedWitness.mass_separator", "child": "OAI_Combinatorics_ParityLifts_WeightedDual", "via": ["solution", "statement"]}
@@ -58470,7 +58470,7 @@
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightZetaCell.meets", "child": "ThreeSum1960614_Machine_Bundle005", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightZetaCell.meets", "child": "ThreeSum1962Source_Bundle07", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightZetaCell.meets", "child": "ThreeSum1962Source_Bundle03", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_37", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_37", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "ReviewBlackmail.SemiDec.step1_nothing", "child": "ReviewBlackmail_SemiDec_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.BandCandidateRows.fromOwner_sound", "child": "APSPSource_ThreeSumApsp_Lang_Regions", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.BandCandidateRows.fromOwner_sound", "child": "APSPSource_RemainingDefinitions", "via": ["solution", "statement"]}
@@ -59352,7 +59352,7 @@
 {"parent": "ThreeSum.LightBlockSourceRetainedProgram.time_le_factor", "child": "ThreeSum1962Source_Bundle13", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBlockSourceRetainedProgram.time_le_factor", "child": "ThreeSum1962Source_Bundle07", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightBlockSourceRetainedProgram.time_le_factor", "child": "ThreeSum1962Source_Bundle11", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_41", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_41", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightEncodedColorNormalize.program_meets", "child": "ThreeSum1960614_Machine_Bundle029", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightEncodedColorNormalize.program_meets", "child": "ThreeSum1960614_Analysis", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightEncodedColorNormalize.program_meets", "child": "ThreeSum1960614_Machine_Bundle015", "via": ["solution", "statement"]}
@@ -59582,7 +59582,7 @@
 {"parent": "ThreeSum1960614.Machine.Light.sort_meets", "child": "ThreeSum1962Source_Bundle05", "via": ["solution", "statement"]}
 {"parent": "OAI.TriangularCovering.radial_exclusion", "child": "OAI_Geometry_TriangularCovering_CoordinateCover", "via": ["solution", "statement"]}
 {"parent": "OAI.TriangularCovering.radial_exclusion", "child": "TriangularCovering", "via": ["solution", "statement"]}
-{"parent": "StrictCompatLB.MeanField.meanfield_limit_and_steady_state", "child": "StrictCompatLB_MeanField_Model", "via": ["statement"]}
+{"parent": "StrictCompatLB.MeanField.meanfield_limit_and_steady_state", "child": "StrictCompatLB_MeanField_Model", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.Light.Ends.while", "child": "APSPSource_ThreeSumApsp_Lang_Syntax", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.Light.Ends.while", "child": "ThreeSum1960614_Machine_Bundle004", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.Light.Ends.while", "child": "ThreeSum1960614_Machine_Bundle003", "via": ["solution", "statement"]}
@@ -60926,7 +60926,7 @@
 {"parent": "OAI_Combinatorics_GotsmanLinial_BinomialMoments", "child": "GotsmanLinial", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_GotsmanLinial_BinomialMoments", "child": "OAI_Combinatorics_GotsmanLinial_Model", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_GotsmanLinial_BinomialMoments", "child": "OAI_Combinatorics_GotsmanLinial_Statement", "via": ["statement"]}
-{"parent": "QAOAE3Lin2.General.eq_34", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_34", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_Analysis_ProductSpaces_ExponentialMixture", "child": "OAI_Analysis_ProductSpaces_ClosedTails", "via": ["statement"]}
 {"parent": "OAI_Analysis_ProductSpaces_ExponentialMixture", "child": "IndependentProducts", "via": ["statement"]}
 {"parent": "OAI_Analysis_ProductSpaces_ExponentialMixture", "child": "OAI_Analysis_ProductSpaces_TreeObstruction", "via": ["statement"]}
@@ -62264,8 +62264,8 @@
 {"parent": "ThreeSum1960614.Machine.ThreeSum.EncodedColorResources.prime_word_bound", "child": "ThreeSum1962Source_Bundle07", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.EncodedColorResources.prime_word_bound", "child": "ThreeSum1960614_Machine_Bundle033", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.EncodedColorResources.prime_word_bound", "child": "ThreeSum1962Source_Bundle17", "via": ["solution", "statement"]}
-{"parent": "SeqLoss.TreeRules.proposition_2_trees", "child": "SeqLoss_TreeRules_Axioms", "via": ["statement"]}
-{"parent": "SeqLoss.TreeRules.proposition_2_trees", "child": "SeqLoss_TreeRules_Setting", "via": ["statement"]}
+{"parent": "SeqLoss.TreeRules.proposition_2_trees", "child": "SeqLoss_TreeRules_Axioms", "via": ["solution", "statement"]}
+{"parent": "SeqLoss.TreeRules.proposition_2_trees", "child": "SeqLoss_TreeRules_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightLocalCoverCost.build_time_bound", "child": "ThreeSum1960614_Analysis", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightLocalCoverCost.build_time_bound", "child": "ThreeSum1960614_Machine_Bundle015", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightLocalCoverCost.build_time_bound", "child": "ThreeSum1960614_Machine_Bundle009", "via": ["solution", "statement"]}
@@ -63633,7 +63633,7 @@
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightResidues.residues_ends", "child": "ThreeSum1960614_Machine_Bundle008", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightResidues.residues_ends", "child": "ThreeSum1960614_Machine_Bundle005", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightResidues.residues_ends", "child": "ThreeSum1962Source_Bundle03", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_32", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_32", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "NLogN.KFM.chirpG_runs", "child": "IntMul_Kappa_K_Defs22", "via": ["solution", "statement"]}
 {"parent": "OAI.DoublingHilbert.exists_energy_parameters", "child": "OAI_Geometry_DoublingHilbert_Grids", "via": ["solution", "statement"]}
 {"parent": "OAI.DoublingHilbert.exists_energy_parameters", "child": "OAI_Geometry_DoublingHilbert_Derivatives", "via": ["solution", "statement"]}
@@ -64537,7 +64537,7 @@
 {"parent": "ThreeSum.UniformStageBounds.budget_active_powerBound", "child": "ThreeSum.MassScales.falseNumerator_log_rate", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.UniformStageBounds.budget_active_powerBound", "child": "ThreeSum1962Source_Bundle01", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.UniformStageBounds.budget_active_powerBound", "child": "ThreeSum1962Source_Bundle11", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_7_odd", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_7_odd", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "AdDataSharing.Base.lemma_3", "child": "AdDataSharing_Base_Model", "via": ["statement"]}
 {"parent": "OAI.Dixmier.amenable_of_mulEquiv", "child": "OAI_Analysis_Unitarizability_FiniteSigns", "via": ["solution", "statement"]}
 {"parent": "OAI.Dixmier.amenable_of_mulEquiv", "child": "OAI_Analysis_Unitarizability_KernelObstruction", "via": ["solution", "statement"]}
@@ -64563,7 +64563,7 @@
 {"parent": "OAI.Dixmier.amenable_of_mulEquiv", "child": "OAI_Analysis_Unitarizability_InvariantProjection", "via": ["solution", "statement"]}
 {"parent": "OAI.Dixmier.amenable_of_mulEquiv", "child": "OAI_Analysis_Unitarizability_KernelEnergy", "via": ["solution", "statement"]}
 {"parent": "OAI.Dixmier.amenable_of_mulEquiv", "child": "OAI_Analysis_Unitarizability_Frames", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_31", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_31", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_real_fft_semantic", "child": "TaoFivePrimes_RHHighFFTArithmeticBase", "via": ["statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_real_fft_semantic", "child": "TaoFivePrimes_RHHighContourCoefficient", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_real_fft_semantic", "child": "TaoFivePrimes_RHHighPackedFFT", "via": ["statement"]}
@@ -67276,7 +67276,7 @@
 {"parent": "SuspensionContract_HighCostC1_Thresholds", "child": "SuspensionContract_HighCostC1_DelayODE", "via": ["statement"]}
 {"parent": "DirectedSearch.Approx.lemma_4_6", "child": "DirectedSearch_Approx_Graphs", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.RadixKeyLists.tuples_nodup", "child": "ThreeSum1962Source_Bundle04", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_43", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_43", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.EncodedColorResources.source_space_bound", "child": "ThreeSum.EncodedColorResources.source_storage_le", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.EncodedColorResources.source_space_bound", "child": "APSPSource_RemainingDefinitions", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.EncodedColorResources.source_space_bound", "child": "ThreeSum1962Source_Bundle14", "via": ["solution", "statement"]}

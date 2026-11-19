@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_Delta_closed_form
 -- name    : GrapheneTightBinding.Delta_closed_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:08:26.230406+00:00
 -- url     : https://prove2.me/theorems/02934bc7-07c1-4374-92a3-4a6abf64accc
 -- title:

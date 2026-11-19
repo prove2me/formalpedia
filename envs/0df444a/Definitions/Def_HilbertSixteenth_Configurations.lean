@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HilbertSixteenth_Configurations
 -- name    : HilbertSixteenth_Configurations
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:09:53.737477+00:00
 -- url     : https://prove2.me/theorems/b6d8799c-7638-4461-8370-c474ca029895
 -- title:

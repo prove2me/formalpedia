@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrSOSP_searchReduces_trans
 -- name    : ConstrSOSP.searchReduces_trans
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-05T20:58:49.473508+00:00
 -- url     : https://prove2.me/theorems/721f5800-6f99-4ba7-bde9-3faf522cdb17

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SMHiggsPotential_Defs
 -- name    : SMHiggsPotential_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:36:50.082199+00:00
 -- url     : https://prove2.me/theorems/dcf845ea-712c-44d8-9de0-c971a4efe7ab
 -- title:

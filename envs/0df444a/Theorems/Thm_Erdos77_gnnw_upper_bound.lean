@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos77_gnnw_upper_bound
 -- name    : Erdos77.gnnw_upper_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:34:23.91036+00:00
 -- url     : https://prove2.me/theorems/bb6839d2-fc28-4e58-8842-5598200cd89d
 -- title:

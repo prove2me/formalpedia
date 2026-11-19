@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_deductiveFilter_isFilter
 -- name    : CogCons.deductiveFilter_isFilter
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:38:59.020059+00:00
 -- url     : https://prove2.me/theorems/5b17a27c-3b8a-4e53-908b-acc6244254ec
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_alphaOneLoop_isMuRunning
 -- name    : CouplingConstantRG.alphaOneLoop_isMuRunning
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:59:44.552177+00:00
 -- url     : https://prove2.me/theorems/2ddad8f3-0f1e-4b11-9860-a32827d17e3c
 -- title:

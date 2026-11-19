@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_higgs_has_zero
 -- name    : HooftMonopole.higgs_has_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:01:30.551705+00:00
 -- url     : https://prove2.me/theorems/bd6a3481-f011-4bc7-adfc-7158c1f09835
 -- title:

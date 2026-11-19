@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_norm_residue_ker_le_of_le_one
 -- name    : MilnorConjecture.norm_residue_ker_le_of_le_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T03:44:55.509194+00:00
 -- url     : https://prove2.me/theorems/979e0280-f08a-474f-9ab3-b8697c4da91f
 -- title:

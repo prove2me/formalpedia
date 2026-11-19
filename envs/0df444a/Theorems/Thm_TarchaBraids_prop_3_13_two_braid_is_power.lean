@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_prop_3_13_two_braid_is_power
 -- name    : TarchaBraids.prop_3_13_two_braid_is_power
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T23:39:07.850935+00:00
 -- url     : https://prove2.me/theorems/2fff3af7-62d4-4698-b56b-2a7a34308a49
 -- title:

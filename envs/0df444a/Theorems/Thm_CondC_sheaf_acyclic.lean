@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_sheaf_acyclic
 -- name    : CondC.sheaf_acyclic
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:51:27.405154+00:00
 -- url     : https://prove2.me/theorems/71699e5f-428d-4b23-903d-2379ad2132d1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CondC_geo
 -- name    : CondC_geo
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:44:34.811453+00:00
 -- url     : https://prove2.me/theorems/aa336f2e-4b44-4698-8ee4-cfd43aa9e881
 -- title:

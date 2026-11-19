@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_bananaF1Classes
 -- name    : bananaF1Classes
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:18:09.871389+00:00
 -- url     : https://prove2.me/theorems/3c2731ae-a499-42b7-8777-34a896b812b9
 -- title:

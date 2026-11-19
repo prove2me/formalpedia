@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Gerver_sofa
 -- name    : Gerver_sofa
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T19:30:31.60237+00:00
 -- url     : https://prove2.me/theorems/f672924e-938b-4d4e-bdc7-fe94799a3296
 -- title:

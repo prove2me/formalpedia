@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_commuting_kraus_sum_eq_trace_povm
 -- name    : PeresTerno.commuting_kraus_sum_eq_trace_povm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T10:26:46.122596+00:00
 -- url     : https://prove2.me/theorems/b5846aa0-1d6f-453a-81aa-8ecb55dc53a1
 -- title:

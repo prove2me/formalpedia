@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_qubitD_det_pos_iff
 -- name    : HardyFiveAxioms.qubitD_det_pos_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T23:05:19.996204+00:00
 -- url     : https://prove2.me/theorems/69c1c573-1713-4f8d-a8a0-4672bffea9ac
 -- title:

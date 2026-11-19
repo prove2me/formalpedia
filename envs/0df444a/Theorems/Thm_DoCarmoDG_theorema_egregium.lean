@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_theorema_egregium
 -- name    : DoCarmoDG.theorema_egregium
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T01:17:20.048322+00:00
 -- url     : https://prove2.me/theorems/17a9a4b7-2b17-4f93-bb25-ba87a63d1919
 -- title:

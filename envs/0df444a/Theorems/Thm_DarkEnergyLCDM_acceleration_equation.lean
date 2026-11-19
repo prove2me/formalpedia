@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_acceleration_equation
 -- name    : DarkEnergyLCDM.acceleration_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T01:03:27.900111+00:00
 -- url     : https://prove2.me/theorems/cb243b56-b911-407d-81f1-db977fdd3f1a
 -- title:

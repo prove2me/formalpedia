@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_reduction_mod_p
 -- name    : AnalyticGeometry.reduction_mod_p
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T14:23:25.561092+00:00
 -- url     : https://prove2.me/theorems/af5feb7a-232d-4f21-8090-1321a6b7f943
 -- title:

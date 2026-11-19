@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SDYM_DarbouxHalphenRamanujan
 -- name    : SDYM_DarbouxHalphenRamanujan
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:22:23.28478+00:00
 -- url     : https://prove2.me/theorems/02f2c8e1-9879-413f-9a40-8fd76c9ddc24
 -- title:

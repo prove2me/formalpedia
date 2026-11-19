@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_sin_add_sin_sub_sin_add
 -- name    : LipariNeutrino.sin_add_sin_sub_sin_add
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T11:47:25.175528+00:00
 -- url     : https://prove2.me/theorems/4d72fd97-f7d8-4d0e-a6f7-bda8ba21db00
 -- title:

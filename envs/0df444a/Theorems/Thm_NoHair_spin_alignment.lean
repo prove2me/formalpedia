@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NoHair_spin_alignment
 -- name    : NoHair.spin_alignment
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T02:10:02.498363+00:00
 -- url     : https://prove2.me/theorems/35f344f7-d0cc-40f7-a21a-657b3cfabf4a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HamburgerMoment_Defs
 -- name    : HamburgerMoment_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:55:37.358304+00:00
 -- url     : https://prove2.me/theorems/2f0edbfa-01f4-43b2-8780-4cec30aa8f9c
 -- title:

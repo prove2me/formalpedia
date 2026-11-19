@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsStandardTheta_slash_gamma0_scalar
 -- name    : QEC.Coding.TannerLiftedProduct.lpsStandardTheta_slash_gamma0_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T00:20:01.516585+00:00
 -- url     : https://prove2.me/theorems/a5a0885b-dce4-4ceb-ad1c-7178fd569008

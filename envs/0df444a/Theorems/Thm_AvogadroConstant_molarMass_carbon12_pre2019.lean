@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AvogadroConstant_molarMass_carbon12_pre2019
 -- name    : AvogadroConstant.molarMass_carbon12_pre2019
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:28:19.335987+00:00
 -- url     : https://prove2.me/theorems/cee9017d-74f5-451c-89da-1327e4d25605
 -- title:

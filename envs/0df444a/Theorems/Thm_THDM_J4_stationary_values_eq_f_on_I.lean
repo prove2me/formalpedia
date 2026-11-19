@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_THDM_J4_stationary_values_eq_f_on_I
 -- name    : THDM.J4_stationary_values_eq_f_on_I
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:48:32.637148+00:00
 -- url     : https://prove2.me/theorems/0ca3ac18-44c9-4fd1-8a20-c75216e23958
 -- title:

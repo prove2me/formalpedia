@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_classification_by_index
 -- name    : Kawahira.classification_by_index
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:30:33.135834+00:00
 -- url     : https://prove2.me/theorems/8b3fc9c4-456d-48ca-8839-09bac2bc6b17
 -- title:

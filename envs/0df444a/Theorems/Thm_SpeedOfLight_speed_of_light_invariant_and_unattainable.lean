@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpeedOfLight_speed_of_light_invariant_and_unattainable
 -- name    : SpeedOfLight.speed_of_light_invariant_and_unattainable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:22:19.168566+00:00
 -- url     : https://prove2.me/theorems/7cbffcca-ea52-4f6c-bd5c-afb6bbf80c0f
 -- title:

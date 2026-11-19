@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_shift_ncard_perOfPeriod
 -- name    : Devaney.shift_ncard_perOfPeriod
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:41:42.605239+00:00
 -- url     : https://prove2.me/theorems/bbb8b55f-eb5b-4eca-9c90-180438c30955
 -- title:

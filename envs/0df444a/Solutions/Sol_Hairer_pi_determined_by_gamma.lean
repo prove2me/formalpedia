@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Hairer.pi_determined_by_gamma
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T06:34:34.040778+00:00
 -- url     : https://prove2.me/submissions/ef9d8c6d-ed6b-4f1b-b89e-0b2d00aa68f6
 

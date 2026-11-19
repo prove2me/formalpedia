@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KLZ97_levelError_closed_form
 -- name    : KLZ97.levelError_closed_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T12:29:51.55451+00:00
 -- url     : https://prove2.me/theorems/28294767-6264-4009-967b-bad2f3c3be47
 -- title:

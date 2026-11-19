@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CODATA_uncert
 -- name    : CODATA_uncert
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T01:29:59.306489+00:00
 -- url     : https://prove2.me/theorems/9747730e-62a8-4e8e-8fe4-d3ed29ee38c9
 -- title:

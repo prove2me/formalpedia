@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AC02Frege_Supplement_theorem_4_20
 -- name    : AC02Frege.Supplement.theorem_4_20
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:58:21.100765+00:00
 -- url     : https://prove2.me/theorems/4dc2b03e-4078-4666-9ae3-eac478641601

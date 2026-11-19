@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_comptonY_gaussianFilamentProfile
 -- name    : SZFilaments.comptonY_gaussianFilamentProfile
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:26:40.985335+00:00
 -- url     : https://prove2.me/theorems/e3f7b697-a397-49ce-8874-96823906c3db
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothPoincare4_milnor_exotic_seven_sphere
 -- name    : SmoothPoincare4.milnor_exotic_seven_sphere
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:50:39.964558+00:00
 -- url     : https://prove2.me/theorems/c0719e91-4cce-4f77-aa94-840458ad96fb
 -- title:

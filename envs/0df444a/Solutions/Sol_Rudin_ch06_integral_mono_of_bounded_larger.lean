@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_integral_mono_of_bounded_larger
 -- status  : ACCEPTED   (disprove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T15:06:47.878373+00:00
 -- url     : https://prove2.me/submissions/39e0d590-6f73-42c8-bc2f-83d3c63f6114
 

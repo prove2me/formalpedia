@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_frobeniusCyclePattern_eq_factorDegrees
 -- name    : ChebotarevDensity.frobeniusCyclePattern_eq_factorDegrees
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:14:59.7471+00:00
 -- url     : https://prove2.me/theorems/2a831596-27a1-4226-ab23-d15af6f4ecef
 -- title:

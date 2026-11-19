@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PCB_convex_tower
 -- name    : PCB.convex_tower
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:16.211007+00:00
 -- url     : https://prove2.me/theorems/d4e98c4c-ee38-42df-b535-7dac3025bdfd
 -- title:

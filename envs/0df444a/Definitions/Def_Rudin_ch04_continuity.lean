@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch04_continuity
 -- name    : Rudin_ch04_continuity
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:47:02.579347+00:00
 -- url     : https://prove2.me/theorems/51f35a42-8ce2-4fc6-a2f4-75fadb2c6735
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_thm_4_5_kantorovich_bound
 -- name    : ValuativeSYZ.thm_4_5_kantorovich_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:51:41.626554+00:00
 -- url     : https://prove2.me/theorems/5437a725-4e31-41ab-8878-a649bad3f2b2
 -- title:

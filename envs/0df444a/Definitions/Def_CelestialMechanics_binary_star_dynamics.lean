@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CelestialMechanics_binary_star_dynamics
 -- name    : CelestialMechanics_binary_star_dynamics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:41:26.772128+00:00
 -- url     : https://prove2.me/theorems/c96f0885-22f2-4d20-8521-282f54e1f8ed
 -- title:

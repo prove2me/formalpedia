@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DiracEquation_gammaDirac_isGammaFamily
 -- name    : DiracEquation.gammaDirac_isGammaFamily
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T20:16:41.57321+00:00
 -- url     : https://prove2.me/theorems/23111eed-6d8f-4263-812e-f6c36b165155
 -- title:

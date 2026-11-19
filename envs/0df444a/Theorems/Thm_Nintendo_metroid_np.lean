@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nintendo_metroid_np
 -- name    : Nintendo.metroid_np
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T11:08:38.247115+00:00
 -- url     : https://prove2.me/theorems/ccd40b48-2341-408d-bec6-10d383902861
 -- title:

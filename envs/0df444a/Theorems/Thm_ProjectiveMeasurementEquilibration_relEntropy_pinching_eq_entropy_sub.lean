@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_relEntropy_pinching_eq_entropy_sub
 -- name    : ProjectiveMeasurementEquilibration.relEntropy_pinching_eq_entropy_sub
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:49:36.633778+00:00
 -- url     : https://prove2.me/theorems/579b3f5a-b138-43a3-87fe-b71bc453ef6d
 -- title:

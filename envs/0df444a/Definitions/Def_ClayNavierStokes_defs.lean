@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ClayNavierStokes_defs
 -- name    : ClayNavierStokes_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:33:58.713925+00:00
 -- url     : https://prove2.me/theorems/01aecf21-bc23-4ec9-9658-33bc73c99656
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SliceRibbon_isRibbon_of_minimal_sliceDisk
 -- name    : SliceRibbon.isRibbon_of_minimal_sliceDisk
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T11:56:11.920981+00:00
 -- url     : https://prove2.me/theorems/3f18ece0-24cd-4e4d-a924-1684b81d0b50
 -- title:

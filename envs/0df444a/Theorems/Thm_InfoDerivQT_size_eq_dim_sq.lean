@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InfoDerivQT_size_eq_dim_sq
 -- name    : InfoDerivQT.size_eq_dim_sq
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T15:20:56.799012+00:00
 -- url     : https://prove2.me/theorems/68cd0cac-09e7-4a6d-9cf0-f160e2960e47
 -- title:

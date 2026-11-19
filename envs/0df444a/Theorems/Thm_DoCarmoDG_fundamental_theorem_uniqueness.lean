@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_fundamental_theorem_uniqueness
 -- name    : DoCarmoDG.fundamental_theorem_uniqueness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:53:00.775617+00:00
 -- url     : https://prove2.me/theorems/7df30779-ef70-4969-9746-91120d2a524e
 -- title:

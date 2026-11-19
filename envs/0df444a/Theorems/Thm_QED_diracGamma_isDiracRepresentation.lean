@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_diracGamma_isDiracRepresentation
 -- name    : QED.diracGamma_isDiracRepresentation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:10:53.462125+00:00
 -- url     : https://prove2.me/theorems/d146d133-090d-4376-a26e-43d4eb7235f9
 -- title:

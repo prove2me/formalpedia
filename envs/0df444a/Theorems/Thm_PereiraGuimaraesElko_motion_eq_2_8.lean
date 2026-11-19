@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_motion_eq_2_8
 -- name    : PereiraGuimaraesElko.motion_eq_2_8
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:51:30.82203+00:00
 -- url     : https://prove2.me/theorems/80f34487-f89f-493e-b534-612f05c6da75
 -- title:

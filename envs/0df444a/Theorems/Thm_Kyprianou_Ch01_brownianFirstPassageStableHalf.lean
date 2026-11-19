@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianFirstPassageStableHalf
 -- name    : Kyprianou.Ch01.brownianFirstPassageStableHalf
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:21:26.265421+00:00
 -- url     : https://prove2.me/theorems/e9e55aff-e4f0-41b9-b882-19bac06e1cc9

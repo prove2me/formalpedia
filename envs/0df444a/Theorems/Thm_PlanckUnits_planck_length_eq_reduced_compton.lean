@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_planck_length_eq_reduced_compton
 -- name    : PlanckUnits.planck_length_eq_reduced_compton
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:39:31.362898+00:00
 -- url     : https://prove2.me/theorems/206e72fc-164d-4f61-afbc-2b6acb38b563
 -- title:

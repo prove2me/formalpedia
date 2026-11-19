@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_tau_multiplicative
 -- name    : RamanujanPetersson.tau_multiplicative
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:13:11.828972+00:00
 -- url     : https://prove2.me/theorems/aeace769-463e-46a0-bf4e-916f8d2013ab
 -- title:

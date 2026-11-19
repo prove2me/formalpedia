@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpinStatistics_anticommuting_fields_antisymmetric_part
 -- name    : SpinStatistics.anticommuting_fields_antisymmetric_part
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:27:20.075979+00:00
 -- url     : https://prove2.me/theorems/2cd9f4cc-1d55-4a38-897f-be8475b14794
 -- title:

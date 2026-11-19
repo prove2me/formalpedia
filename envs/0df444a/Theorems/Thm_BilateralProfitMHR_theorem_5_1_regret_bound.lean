@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitMHR_theorem_5_1_regret_bound
 -- name    : BilateralProfitMHR.theorem_5_1_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:17.186106+00:00
 -- url     : https://prove2.me/theorems/ff1152f2-2055-4986-97d3-e6eadcba7c32

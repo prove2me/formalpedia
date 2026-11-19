@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_closed_vanish_iff_path_independent
 -- name    : VectorCalculus.closed_vanish_iff_path_independent
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:15:51.117924+00:00
 -- url     : https://prove2.me/theorems/417d05c1-0b17-4daa-8745-36295d68b00f
 -- title:

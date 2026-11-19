@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_palis_conjecture_flow
 -- name    : PalisConjecture.palis_conjecture_flow
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T03:01:34.874846+00:00
 -- url     : https://prove2.me/theorems/ef745b80-761a-4eb1-b7c6-9c262790c8ff
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnionVolEst_lemma_28
 -- name    : UnionVolEst.lemma_28
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T08:02:47.848492+00:00
 -- url     : https://prove2.me/theorems/2f2407e4-3a57-48f9-bd0f-68a39373ae27

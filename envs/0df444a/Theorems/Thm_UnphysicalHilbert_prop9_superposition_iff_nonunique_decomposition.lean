@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop9_superposition_iff_nonunique_decomposition
 -- name    : UnphysicalHilbert.prop9_superposition_iff_nonunique_decomposition
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:05:48.088055+00:00
 -- url     : https://prove2.me/theorems/a9315adb-0530-49a4-8465-1534e3f1132a
 -- title:

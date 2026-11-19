@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VDCyclePack_lemma_5_2
 -- name    : VDCyclePack.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T13:06:36.023459+00:00
 -- url     : https://prove2.me/theorems/0f3973d2-fdf8-4cf4-8eff-6ec24272a9c1

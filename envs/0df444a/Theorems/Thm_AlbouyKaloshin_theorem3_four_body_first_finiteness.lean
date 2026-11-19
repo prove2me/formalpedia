@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_theorem3_four_body_first_finiteness
 -- name    : AlbouyKaloshin.theorem3_four_body_first_finiteness
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:27:13.344792+00:00
 -- url     : https://prove2.me/theorems/a8b050f8-a765-44d0-835e-b6d0561acf20
 -- title:

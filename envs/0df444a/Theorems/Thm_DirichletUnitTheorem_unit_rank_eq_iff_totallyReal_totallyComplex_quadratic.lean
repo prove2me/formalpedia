@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_unit_rank_eq_iff_totallyReal_totallyComplex_quadratic
 -- name    : DirichletUnitTheorem.unit_rank_eq_iff_totallyReal_totallyComplex_quadratic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:05.888633+00:00
 -- url     : https://prove2.me/theorems/32cfd057-6942-431d-a63f-01f45e5ea6d4
 -- title:

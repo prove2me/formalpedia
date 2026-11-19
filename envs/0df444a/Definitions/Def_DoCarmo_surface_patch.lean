@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DoCarmo_surface_patch
 -- name    : DoCarmo_surface_patch
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:58:14.932095+00:00
 -- url     : https://prove2.me/theorems/10fbd366-b3cd-4254-9af1-3abf9a6ac41f
 -- title:

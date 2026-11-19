@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_exp_hamiltonian_symplectic
 -- name    : UnQuantumMechanics.exp_hamiltonian_symplectic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T16:01:14.839462+00:00
 -- url     : https://prove2.me/theorems/f0710a32-f43f-474a-b6b4-b6acf6295d67
 -- title:

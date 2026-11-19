@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HairerSPDE_cameron_martin
 -- name    : HairerSPDE.cameron_martin
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:55:08.511909+00:00
 -- url     : https://prove2.me/theorems/93b38cc8-5017-44b1-b93c-96ec6f6dde92
 -- title:

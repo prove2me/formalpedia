@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_decisionInP_of_polyTimeReduces
 -- name    : BSS.decisionInP_of_polyTimeReduces
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T22:10:06.717866+00:00
 -- url     : https://prove2.me/theorems/41a07a49-5391-4154-a837-b1b4403eb90c
 -- title:

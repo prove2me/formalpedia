@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AvogadroConstant_avogadroNumber_eq_gram_div_dalton
 -- name    : AvogadroConstant.avogadroNumber_eq_gram_div_dalton
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:47:19.902751+00:00
 -- url     : https://prove2.me/theorems/fb70961d-d2b1-44b6-b356-a76f031e78ba
 -- title:

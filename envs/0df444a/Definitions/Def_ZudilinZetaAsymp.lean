@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ZudilinZetaAsymp
 -- name    : ZudilinZetaAsymp
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:42:59.548533+00:00
 -- url     : https://prove2.me/theorems/117722ec-95c5-43ed-a937-9f816689e3a2
 -- title:

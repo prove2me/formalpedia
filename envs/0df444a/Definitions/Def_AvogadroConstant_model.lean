@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AvogadroConstant_model
 -- name    : AvogadroConstant_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:15:38.583391+00:00
 -- url     : https://prove2.me/theorems/e5d490ce-ef7f-47be-8059-d541559edde5
 -- title:

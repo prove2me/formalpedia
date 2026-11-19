@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDC_star_anchor
 -- name    : SDC.star_anchor
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T09:23:40.891327+00:00
 -- url     : https://prove2.me/theorems/1268df18-1b47-43ba-b5cb-0e871c32d962
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_surface_gravity_from_newton_law
 -- name    : GravitationalConstant.surface_gravity_from_newton_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:22:56.236982+00:00
 -- url     : https://prove2.me/theorems/f54825ea-64f5-4326-b841-fd4eaea2d3c2
 -- title:

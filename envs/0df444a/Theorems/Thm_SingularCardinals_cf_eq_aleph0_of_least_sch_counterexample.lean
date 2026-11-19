@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_cf_eq_aleph0_of_least_sch_counterexample
 -- name    : SingularCardinals.cf_eq_aleph0_of_least_sch_counterexample
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T14:49:32.833615+00:00
 -- url     : https://prove2.me/theorems/793ae607-7e15-4204-815d-ec20e7ad7524
 -- title:

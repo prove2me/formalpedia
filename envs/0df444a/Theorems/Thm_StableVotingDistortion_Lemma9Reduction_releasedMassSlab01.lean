@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableVotingDistortion_Lemma9Reduction_releasedMassSlab01
 -- name    : StableVotingDistortion.Lemma9Reduction.releasedMassSlab01
--- status  : Open
+-- status  : Proved
 -- author  : @a142857a
 -- created : 2026-11-14T18:30:07.082174+00:00
 -- url     : https://prove2.me/theorems/32bb132c-780e-46b1-a815-4c7f36631c9c

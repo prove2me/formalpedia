@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_corollary1_order1_M_degenerate
 -- name    : STVFriedmann.corollary1_order1_M_degenerate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:56:43.33009+00:00
 -- url     : https://prove2.me/theorems/be51436b-9a7a-4d53-b3cf-71cee06a855a
 -- title:

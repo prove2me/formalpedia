@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_rotation_angle_right
 -- name    : Gerver.rotation_angle_right
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:13:02.944129+00:00
 -- url     : https://prove2.me/theorems/ae8385a6-479e-430b-b558-224721cf2a15
 -- title:

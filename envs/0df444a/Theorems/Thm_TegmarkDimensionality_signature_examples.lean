@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_signature_examples
 -- name    : TegmarkDimensionality.signature_examples
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T05:23:34.934984+00:00
 -- url     : https://prove2.me/theorems/9089b6bc-4c4a-42d7-a41f-c248926f0659
 -- title:

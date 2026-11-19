@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_energy_conservation_iff
 -- name    : NeutrinoDecoherence.energy_conservation_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T12:59:08.676283+00:00
 -- url     : https://prove2.me/theorems/ef0db339-d646-4f2f-a546-de43c95594a4
 -- title:

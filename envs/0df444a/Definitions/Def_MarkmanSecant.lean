@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MarkmanSecant
 -- name    : MarkmanSecant
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T14:59:28.303188+00:00
 -- url     : https://prove2.me/theorems/2e535abc-7ad3-46af-90c2-063ef2d426da
 -- title:

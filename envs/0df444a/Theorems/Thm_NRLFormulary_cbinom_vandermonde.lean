@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NRLFormulary_cbinom_vandermonde
 -- name    : NRLFormulary.cbinom_vandermonde
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:57:36.937598+00:00
 -- url     : https://prove2.me/theorems/c2afbcd1-0e1d-4518-928b-65218daed89e
 -- title:

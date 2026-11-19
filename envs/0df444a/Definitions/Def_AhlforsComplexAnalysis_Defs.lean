@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AhlforsComplexAnalysis_Defs
 -- name    : AhlforsComplexAnalysis_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T04:43:45.054537+00:00
 -- url     : https://prove2.me/theorems/72ec6c5a-887a-4a0e-9916-18410665fd93
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PvsNP_complexity_classes
 -- name    : PvsNP_complexity_classes
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T01:02:46.905075+00:00
 -- url     : https://prove2.me/theorems/f11fc272-7ccc-49f6-87ab-438611f32c11
 -- title:

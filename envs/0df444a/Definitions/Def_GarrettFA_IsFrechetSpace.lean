@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GarrettFA_IsFrechetSpace
 -- name    : GarrettFA_IsFrechetSpace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:26:10.324984+00:00
 -- url     : https://prove2.me/theorems/5548dc3a-b189-4877-b843-e5aa01785f42
 -- title:

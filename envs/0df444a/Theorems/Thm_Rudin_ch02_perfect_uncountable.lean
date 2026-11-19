@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_perfect_uncountable
 -- name    : Rudin.ch02_perfect_uncountable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:52:33.654765+00:00
 -- url     : https://prove2.me/theorems/a0c4cbc5-f7db-4fa1-8d6d-5d40a18df768
 -- title:

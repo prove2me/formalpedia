@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StableMatching_galeShapley_all_engaged
 -- name    : StableMatching.galeShapley_all_engaged
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T13:32:09.242672+00:00
 -- url     : https://prove2.me/theorems/f2579e1b-5590-45c0-acbd-b9d16dd6c38c
 -- title:

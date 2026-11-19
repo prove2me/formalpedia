@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HolographicQuantumMatter_mass_dimension_roots
 -- name    : HolographicQuantumMatter.mass_dimension_roots
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:45:01.642515+00:00
 -- url     : https://prove2.me/theorems/a790fba7-14f8-4c18-9ab1-0ee5341fe7aa
 -- title:

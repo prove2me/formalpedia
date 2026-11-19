@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_psiEven_psiOdd_eq
 -- name    : ReflectionlessPotential.psiEven_psiOdd_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:57:47.786058+00:00
 -- url     : https://prove2.me/theorems/7dd210ac-bca3-4f2c-8338-7f5210845db8
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_matrix_flow_diagonal_iff_classical_darboux_halphen
 -- name    : SDYM.matrix_flow_diagonal_iff_classical_darboux_halphen
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:27:03.821298+00:00
 -- url     : https://prove2.me/theorems/884da552-5d9a-40b3-9590-7cbac088832d
 -- title:

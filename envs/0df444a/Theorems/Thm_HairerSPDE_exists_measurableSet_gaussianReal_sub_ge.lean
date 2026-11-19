@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HairerSPDE_exists_measurableSet_gaussianReal_sub_ge
 -- name    : HairerSPDE.exists_measurableSet_gaussianReal_sub_ge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:22:52.994425+00:00
 -- url     : https://prove2.me/theorems/80e64db4-61a2-4ec7-be3b-792aa923c28f
 -- title:

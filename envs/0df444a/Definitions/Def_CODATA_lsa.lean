@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CODATA_lsa
 -- name    : CODATA_lsa
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T01:29:28.440182+00:00
 -- url     : https://prove2.me/theorems/c5316139-3133-4eaf-8d64-d0d257577fc4
 -- title:

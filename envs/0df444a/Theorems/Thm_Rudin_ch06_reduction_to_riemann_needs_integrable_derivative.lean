@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_reduction_to_riemann_needs_integrable_derivative
 -- name    : Rudin.ch06_reduction_to_riemann_needs_integrable_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T19:36:14.492319+00:00
 -- url     : https://prove2.me/theorems/5403f19e-1c69-4ab6-9d9f-588ccae52377
 -- title:

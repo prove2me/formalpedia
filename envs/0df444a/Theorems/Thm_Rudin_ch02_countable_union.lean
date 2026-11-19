@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_countable_union
 -- name    : Rudin.ch02_countable_union
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:44:56.600974+00:00
 -- url     : https://prove2.me/theorems/edf94433-c302-4b8a-89c3-c6b84d6fc904
 -- title:

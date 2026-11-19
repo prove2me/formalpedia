@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_lineIntegral_grad
 -- name    : VectorCalculus.lineIntegral_grad
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:13:54.959795+00:00
 -- url     : https://prove2.me/theorems/247b7f87-173f-4d29-965a-1477d7fcfb75
 -- title:

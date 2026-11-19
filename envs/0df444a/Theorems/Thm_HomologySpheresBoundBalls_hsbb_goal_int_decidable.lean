@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_goal_int_decidable
 -- name    : HomologySpheresBoundBalls.hsbb_goal_int_decidable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:21:29.219595+00:00
 -- url     : https://prove2.me/theorems/a04ed30d-2c16-45d2-a413-76f7d06d0dfa
 -- title:

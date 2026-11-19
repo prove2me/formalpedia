@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WallGSL_null_generator_terminates
 -- name    : WallGSL.null_generator_terminates
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T21:18:12.722994+00:00
 -- url     : https://prove2.me/theorems/ae62c021-a770-4087-8382-8a20dcf32985
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_weakDescendingStoppedJointProduct
 -- name    : Kyprianou.Ch01.weakDescendingStoppedJointProduct
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T01:09:54.911817+00:00
 -- url     : https://prove2.me/theorems/b066818b-ab03-4e51-9253-319e5af112e9

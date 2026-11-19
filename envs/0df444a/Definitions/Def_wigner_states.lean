@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_wigner_states
 -- name    : wigner_states
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:49:10.012769+00:00
 -- url     : https://prove2.me/theorems/14fc97d6-c4a8-4050-9bf3-b61bb7c3b5ed
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_compound_period
 -- name    : Pendulum.compound_period
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:38:11.555491+00:00
 -- url     : https://prove2.me/theorems/4c224a65-9a48-4000-ad29-feadd6ac85ab
 -- title:

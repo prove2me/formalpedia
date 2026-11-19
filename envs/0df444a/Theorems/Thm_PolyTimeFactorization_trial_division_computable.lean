@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyTimeFactorization_trial_division_computable
 -- name    : PolyTimeFactorization.trial_division_computable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T16:12:30.1947+00:00
 -- url     : https://prove2.me/theorems/d9cb8982-dc1b-4760-b986-c13ca64745cf
 -- title:

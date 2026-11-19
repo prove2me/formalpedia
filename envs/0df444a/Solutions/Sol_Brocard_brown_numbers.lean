@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Brocard.brown_numbers
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:15:31.819979+00:00
 -- url     : https://prove2.me/submissions/936fe944-cdbb-476a-b93f-d5bcf50b7d47
 

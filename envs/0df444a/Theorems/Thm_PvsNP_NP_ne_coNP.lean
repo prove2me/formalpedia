@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_NP_ne_coNP
 -- name    : PvsNP.NP_ne_coNP
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:00:06.309872+00:00
 -- url     : https://prove2.me/theorems/44c371d5-6501-4a3d-a78c-fa62c98d1d97
 -- title:

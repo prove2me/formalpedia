@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_OmegaLogic_Provability
 -- name    : OmegaLogic_Provability
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T16:32:28.78241+00:00
 -- url     : https://prove2.me/theorems/cb6b7da1-f7ed-40b9-a91b-b9531275f9b1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FastFourierTransform_fftAddCount_eq
 -- name    : FastFourierTransform.fftAddCount_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:43:12.248578+00:00
 -- url     : https://prove2.me/theorems/3220c371-8f44-4869-a1f2-a3da0257fafc
 -- title:

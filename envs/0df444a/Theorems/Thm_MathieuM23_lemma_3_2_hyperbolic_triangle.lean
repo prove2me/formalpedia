@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathieuM23_lemma_3_2_hyperbolic_triangle
 -- name    : MathieuM23.lemma_3_2_hyperbolic_triangle
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T22:53:48.329124+00:00
 -- url     : https://prove2.me/theorems/9078ba52-f7f8-4bad-a0b3-ffba7bdc1717
 -- title:

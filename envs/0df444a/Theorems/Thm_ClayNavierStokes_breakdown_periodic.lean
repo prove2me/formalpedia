@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClayNavierStokes_breakdown_periodic
 -- name    : ClayNavierStokes.breakdown_periodic
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:41:33.09406+00:00
 -- url     : https://prove2.me/theorems/015b8baa-a1d4-4c21-8eb3-bd220985d527
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_Mills
 -- name    : FCP_Mills
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:05:09.708752+00:00
 -- url     : https://prove2.me/theorems/9b2627ac-7df1-42f0-84b0-ce521a10eadd
 -- title:

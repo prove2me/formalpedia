@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PCB_tor
 -- name    : PCB_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:10:45.313985+00:00
 -- url     : https://prove2.me/theorems/6c547bc5-c5a8-4abf-b290-e0cc3aa417af
 -- title:

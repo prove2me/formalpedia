@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_sidorenko_equiv
 -- name    : DirS.sidorenko_equiv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:31:27.850196+00:00
 -- url     : https://prove2.me/theorems/5f9a1085-d701-415a-a915-c7c618214180
 -- title:

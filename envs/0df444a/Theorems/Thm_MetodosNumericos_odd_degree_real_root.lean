@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_odd_degree_real_root
 -- name    : MetodosNumericos.odd_degree_real_root
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:08:15.995987+00:00
 -- url     : https://prove2.me/theorems/60615d77-ca5a-4031-b1e0-d4aaca8fb5fe
 -- title:

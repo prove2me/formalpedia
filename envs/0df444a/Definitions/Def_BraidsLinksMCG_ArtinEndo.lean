@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BraidsLinksMCG_ArtinEndo
 -- name    : BraidsLinksMCG_ArtinEndo
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:57:28.308044+00:00
 -- url     : https://prove2.me/theorems/d8295a10-de91-451f-8af0-0b01a4fd1d5b
 -- title:

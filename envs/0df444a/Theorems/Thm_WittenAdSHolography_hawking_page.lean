@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WittenAdSHolography_hawking_page
 -- name    : WittenAdSHolography.hawking_page
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:36:11.170829+00:00
 -- url     : https://prove2.me/theorems/c8633ca2-886e-456e-ba4b-8cbfb2cfc383
 -- title:

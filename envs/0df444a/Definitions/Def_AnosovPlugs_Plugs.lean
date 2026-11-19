@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnosovPlugs_Plugs
 -- name    : AnosovPlugs_Plugs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T01:28:07.273305+00:00
 -- url     : https://prove2.me/theorems/d824ee86-c2df-43da-908e-1f09fd13ad60
 -- title:

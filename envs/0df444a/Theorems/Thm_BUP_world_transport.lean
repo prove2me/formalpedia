@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BUP_world_transport
 -- name    : BUP.world_transport
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:26:43.409457+00:00
 -- url     : https://prove2.me/theorems/5fa094bc-9c63-4c61-9927-ab472a3483c3
 -- title:

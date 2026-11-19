@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_minkowski_vacuum
 -- name    : EinsteinFieldEquations.minkowski_vacuum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T23:43:49.45455+00:00
 -- url     : https://prove2.me/theorems/4f9f170f-53cc-4cb9-9fec-652fa26d5030
 -- title:

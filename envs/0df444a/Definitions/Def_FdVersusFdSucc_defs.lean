@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FdVersusFdSucc_defs
 -- name    : FdVersusFdSucc_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:10:26.742797+00:00
 -- url     : https://prove2.me/theorems/b3a2dcbe-1149-47c5-8a55-ad9dd7448690
 -- title:

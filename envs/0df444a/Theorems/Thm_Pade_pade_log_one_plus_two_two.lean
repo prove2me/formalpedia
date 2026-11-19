@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pade_pade_log_one_plus_two_two
 -- name    : Pade.pade_log_one_plus_two_two
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:57:35.446815+00:00
 -- url     : https://prove2.me/theorems/a8120fa6-94b2-40d8-82fa-1598ae805304
 -- title:

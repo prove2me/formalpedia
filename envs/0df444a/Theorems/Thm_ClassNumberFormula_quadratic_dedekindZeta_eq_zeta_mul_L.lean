@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_quadratic_dedekindZeta_eq_zeta_mul_L
 -- name    : ClassNumberFormula.quadratic_dedekindZeta_eq_zeta_mul_L
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:55:51.876647+00:00
 -- url     : https://prove2.me/theorems/b3130a32-c995-4da3-a1ca-86c254948114
 -- title:

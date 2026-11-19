@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_schwarzschild_inverse_metric
 -- name    : EinsteinFieldEquations.schwarzschild_inverse_metric
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:44:54.970185+00:00
 -- url     : https://prove2.me/theorems/99b21de2-28db-4fae-bca4-c9cfb11f11e4
 -- title:

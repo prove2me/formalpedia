@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_accel_pos_iff
 -- name    : LambdaCDM.accel_pos_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:00:04.135591+00:00
 -- url     : https://prove2.me/theorems/bb0a5d82-1fa1-4417-a820-7673d7a3d7ef
 -- title:

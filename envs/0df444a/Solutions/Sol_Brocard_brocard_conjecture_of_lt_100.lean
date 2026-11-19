@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Brocard.brocard_conjecture_of_lt_100
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T00:52:41.575366+00:00
 -- url     : https://prove2.me/submissions/4e470f82-4b0e-4afb-84a7-3738ab07a272
 

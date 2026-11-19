@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_read_counterexample_l1
 -- name    : InvariantSubspaceProblem.read_counterexample_l1
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T17:25:54.324011+00:00
 -- url     : https://prove2.me/theorems/80e2f968-acfb-4d38-ae72-532fed5dee9c
 -- title:

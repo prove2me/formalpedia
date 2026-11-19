@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HackCosmologicalAQFT_scale_factor_matter
 -- name    : HackCosmologicalAQFT.scale_factor_matter
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:57.384845+00:00
 -- url     : https://prove2.me/theorems/65c3cbd0-86bd-4a7a-a33a-e48689bc873b
 -- title:

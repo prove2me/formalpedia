@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_kink_mass_bogomolnyi
 -- name    : MonopolesInstantonsConfinement.kink_mass_bogomolnyi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:27:23.296149+00:00
 -- url     : https://prove2.me/theorems/66fbff9f-6eb6-4743-9fd8-def18f1cb6ca
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_riemannZeta_neg_one
 -- name    : TongString.riemannZeta_neg_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:52:09.623878+00:00
 -- url     : https://prove2.me/theorems/1eeb82f2-40b4-4088-85f4-a43a1c7446c2
 -- title:

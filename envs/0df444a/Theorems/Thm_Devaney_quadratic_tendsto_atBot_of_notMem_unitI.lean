@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_quadratic_tendsto_atBot_of_notMem_unitI
 -- name    : Devaney.quadratic_tendsto_atBot_of_notMem_unitI
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:11:08.81118+00:00
 -- url     : https://prove2.me/theorems/d4dfdee3-4df8-400f-887b-678532a651d3
 -- title:

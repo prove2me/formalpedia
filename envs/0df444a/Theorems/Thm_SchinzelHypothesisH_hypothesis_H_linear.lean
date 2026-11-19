@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchinzelHypothesisH_hypothesis_H_linear
 -- name    : SchinzelHypothesisH.hypothesis_H_linear
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:57:46.319475+00:00
 -- url     : https://prove2.me/theorems/cdf4dc58-6e0a-4c9c-8a35-05cba0986d8a
 -- title:

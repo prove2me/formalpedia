@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_eq7_massTerm
 -- name    : WeinbergLeptons.eq7_massTerm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:26:12.643758+00:00
 -- url     : https://prove2.me/theorems/b14d5277-4061-492b-96d4-a524afb819e4
 -- title:

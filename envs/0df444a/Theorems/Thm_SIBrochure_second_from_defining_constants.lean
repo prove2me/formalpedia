@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_second_from_defining_constants
 -- name    : SIBrochure.second_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:09:29.579853+00:00
 -- url     : https://prove2.me/theorems/88d359e7-60c8-476c-a3af-6888f503b43a
 -- title:

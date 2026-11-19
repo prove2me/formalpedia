@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_akbulut_kirby
 -- name    : HomologySpheresBoundBalls.hsbb_akbulut_kirby
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:19:32.356021+00:00
 -- url     : https://prove2.me/theorems/a4d7cc9d-00f6-4339-b579-1fe07868cee4
 -- title:

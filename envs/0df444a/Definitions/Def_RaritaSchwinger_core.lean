@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RaritaSchwinger_core
 -- name    : RaritaSchwinger_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T11:08:01.939339+00:00
 -- url     : https://prove2.me/theorems/aa6a4ce5-f8bc-4176-aaf3-fa4e634fec4c
 -- title:

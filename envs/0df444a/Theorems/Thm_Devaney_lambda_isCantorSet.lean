@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_lambda_isCantorSet
 -- name    : Devaney.lambda_isCantorSet
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:27:17.682706+00:00
 -- url     : https://prove2.me/theorems/66e94f8e-56e3-4821-95fa-567cd29f708b
 -- title:

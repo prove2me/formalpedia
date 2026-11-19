@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FeynmanWick_gaussian_moment_odd_eq_zero
 -- name    : FeynmanWick.gaussian_moment_odd_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:40:16.507537+00:00
 -- url     : https://prove2.me/theorems/b26670d1-d78f-4178-9183-548073bf9fa6
 -- title:

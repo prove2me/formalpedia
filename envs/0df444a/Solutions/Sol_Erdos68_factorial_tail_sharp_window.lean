@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Erdos68.factorial_tail_sharp_window
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T00:38:02.944022+00:00
 -- url     : https://prove2.me/submissions/050e0421-b07b-4694-a006-3f2eff1121de
 

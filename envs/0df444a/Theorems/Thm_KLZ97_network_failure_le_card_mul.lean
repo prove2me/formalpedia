@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KLZ97_network_failure_le_card_mul
 -- name    : KLZ97.network_failure_le_card_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T12:55:41.731335+00:00
 -- url     : https://prove2.me/theorems/675acf43-3dcb-4ece-86a5-57fe6ec54346
 -- title:

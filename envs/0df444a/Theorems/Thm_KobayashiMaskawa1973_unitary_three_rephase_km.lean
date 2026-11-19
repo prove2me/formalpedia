@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KobayashiMaskawa1973_unitary_three_rephase_km
 -- name    : KobayashiMaskawa1973.unitary_three_rephase_km
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T18:47:19.319177+00:00
 -- url     : https://prove2.me/theorems/d0d2b5e0-b1be-4d63-b018-0ef8463e10bb
 -- title:

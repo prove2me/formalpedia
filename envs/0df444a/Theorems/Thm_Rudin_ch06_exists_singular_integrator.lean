@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_exists_singular_integrator
 -- name    : Rudin.ch06_exists_singular_integrator
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T17:03:49.716826+00:00
 -- url     : https://prove2.me/theorems/c88da336-b43c-4cca-bf0e-b90477b6d614
 -- title:

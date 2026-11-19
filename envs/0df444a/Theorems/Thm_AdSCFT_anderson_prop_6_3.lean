@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AdSCFT_anderson_prop_6_3
 -- name    : AdSCFT.anderson_prop_6_3
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T12:46:04.198421+00:00
 -- url     : https://prove2.me/theorems/ebafab79-c8eb-4628-adda-90a80594ab77
 -- title:

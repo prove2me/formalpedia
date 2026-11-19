@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Gelbart_hecke_conditions
 -- name    : Gelbart_hecke_conditions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:31:52.489436+00:00
 -- url     : https://prove2.me/theorems/6e5096a7-494b-4eac-9fbe-41cf343f0224
 -- title:

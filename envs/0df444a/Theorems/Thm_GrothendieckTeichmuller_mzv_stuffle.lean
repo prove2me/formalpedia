@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_mzv_stuffle
 -- name    : GrothendieckTeichmuller.mzv_stuffle
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:49:55.533093+00:00
 -- url     : https://prove2.me/theorems/c4d4dd11-0f58-4d43-9455-3703f415c7b2
 -- title:

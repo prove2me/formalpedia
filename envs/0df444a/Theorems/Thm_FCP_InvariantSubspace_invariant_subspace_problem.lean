@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_InvariantSubspace_invariant_subspace_problem
 -- name    : FCP.InvariantSubspace.invariant_subspace_problem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:51:52.300976+00:00
 -- url     : https://prove2.me/theorems/94bd6447-676b-4674-9820-812c2a071fe9
 -- title:

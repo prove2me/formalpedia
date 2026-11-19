@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_exists_trivializing_gauge
 -- name    : SenTachyon.exists_trivializing_gauge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:21:17.202986+00:00
 -- url     : https://prove2.me/theorems/219ba1e3-8f06-4a00-a4cd-c0086a57668c
 -- title:

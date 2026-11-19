@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_assertion_D_iff_E
 -- name    : WangZahlKakeya.assertion_D_iff_E
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T13:14:50.422195+00:00
 -- url     : https://prove2.me/theorems/f7ed36bd-6389-44e4-95df-4e4e52964bdd
 -- title:

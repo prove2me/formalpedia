@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_fourier_sechSq
 -- name    : ReflectionlessPotential.fourier_sechSq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T19:49:33.365979+00:00
 -- url     : https://prove2.me/theorems/9661f244-a0bf-407c-80c4-7e22a85d290d
 -- title:

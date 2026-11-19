@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Order_one_third_two_thirds_conjecture
 -- name    : FCP.Order.one_third_two_thirds_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:56:08.08616+00:00
 -- url     : https://prove2.me/theorems/52aca793-5aeb-48cf-8a58-9226614f4509
 -- title:

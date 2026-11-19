@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_prop_3_17_braid_inclusion_injective
 -- name    : TarchaBraids.prop_3_17_braid_inclusion_injective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T01:12:56.621982+00:00
 -- url     : https://prove2.me/theorems/f5149c58-a505-4cdc-ab9c-673dbb1fa720
 -- title:

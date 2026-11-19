@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_virial_theorem_defs
 -- name    : virial_theorem_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T16:09:51.0433+00:00
 -- url     : https://prove2.me/theorems/a9daa1f4-8f8e-4171-b08c-a6ec82c15378
 -- title:

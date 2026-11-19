@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_lorenz_wave_equation
 -- name    : QED.lorenz_wave_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:22:22.222051+00:00
 -- url     : https://prove2.me/theorems/1dda7e49-d220-431d-a061-22782cbdc2e0
 -- title:

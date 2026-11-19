@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Kawahira_nu_at_zero_of_order
 -- name    : Kawahira.nu_at_zero_of_order
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:35:41.273168+00:00
 -- url     : https://prove2.me/theorems/9e23d59f-3e03-42b8-a6b2-2293044f1071
 -- title:

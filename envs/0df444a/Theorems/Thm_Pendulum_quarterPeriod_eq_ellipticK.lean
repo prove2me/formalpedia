@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pendulum_quarterPeriod_eq_ellipticK
 -- name    : Pendulum.quarterPeriod_eq_ellipticK
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T17:37:26.542985+00:00
 -- url     : https://prove2.me/theorems/90a3952a-6487-4071-ae8e-d6b4fde778f4
 -- title:

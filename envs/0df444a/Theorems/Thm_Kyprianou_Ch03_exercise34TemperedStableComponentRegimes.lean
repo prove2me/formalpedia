@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise34TemperedStableComponentRegimes
 -- name    : Kyprianou.Ch03.exercise34TemperedStableComponentRegimes
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:07:49.525985+00:00
 -- url     : https://prove2.me/theorems/79b5c96b-706a-4e74-9c56-7bf2ba767469

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_minimumEnergyDensity_eq
 -- name    : SenTachyon.minimumEnergyDensity_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:35:43.617046+00:00
 -- url     : https://prove2.me/theorems/4c34d74f-fa29-424a-b616-06869abc0573
 -- title:

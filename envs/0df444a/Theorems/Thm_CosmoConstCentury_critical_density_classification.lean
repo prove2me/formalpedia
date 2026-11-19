@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_critical_density_classification
 -- name    : CosmoConstCentury.critical_density_classification
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T10:27:08.785274+00:00
 -- url     : https://prove2.me/theorems/50abfc67-2744-4e50-bf61-33695f625330
 -- title:

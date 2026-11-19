@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_wholesale_price_repression_monotone
 -- name    : DrugMarket.wholesale_price_repression_monotone
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:41:06.850825+00:00
 -- url     : https://prove2.me/theorems/bfbd4185-09fb-490c-b047-dd16ce9e605f
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_upper_lower_integral_density
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T15:47:50.182272+00:00
 -- url     : https://prove2.me/submissions/f7f72913-f22e-4848-ae3f-377c2ad150e3
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueSignal_proposition_1
 -- name    : QueueSignal.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:06:50.571768+00:00
 -- url     : https://prove2.me/theorems/e3dea1cd-2bbe-4000-b2dd-33b863d18e13

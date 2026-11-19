@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Brocard_berndt_galway_criterion
 -- name    : Brocard.berndt_galway_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:30:17.00064+00:00
 -- url     : https://prove2.me/theorems/a9f616c7-a841-4340-968c-456052e81d71
 -- title:

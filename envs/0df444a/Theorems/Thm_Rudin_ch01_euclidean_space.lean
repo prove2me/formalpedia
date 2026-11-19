@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch01_euclidean_space
 -- name    : Rudin.ch01_euclidean_space
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:42:38.039276+00:00
 -- url     : https://prove2.me/theorems/32e6602c-50f4-4aca-8115-00a5a91670a2
 -- title:

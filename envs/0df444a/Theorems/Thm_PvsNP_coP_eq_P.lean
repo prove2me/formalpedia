@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_coP_eq_P
 -- name    : PvsNP.coP_eq_P
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:35:46.722699+00:00
 -- url     : https://prove2.me/theorems/cbe97172-f2df-4414-9667-b206085eec9b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_scalar_tilt_formula
 -- name    : Maldacena2003.scalar_tilt_formula
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:50:44.31116+00:00
 -- url     : https://prove2.me/theorems/2997277b-6814-4371-a904-740f9487bf19
 -- title:

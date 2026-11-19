@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinGrossmann1913_electrostatic_momentum_identity
 -- name    : EinsteinGrossmann1913.electrostatic_momentum_identity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:24:22.678853+00:00
 -- url     : https://prove2.me/theorems/e3153444-9b85-4e44-a400-a61e1b59d5ec
 -- title:

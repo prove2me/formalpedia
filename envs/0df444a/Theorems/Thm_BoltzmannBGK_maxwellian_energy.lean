@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BoltzmannBGK_maxwellian_energy
 -- name    : BoltzmannBGK.maxwellian_energy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:17:12.359324+00:00
 -- url     : https://prove2.me/theorems/1d079865-2273-46c5-b15b-99a227f86e7d
 -- title:

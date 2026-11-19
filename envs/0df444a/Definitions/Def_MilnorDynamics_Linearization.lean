@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MilnorDynamics_Linearization
 -- name    : MilnorDynamics_Linearization
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T10:40:26.583974+00:00
 -- url     : https://prove2.me/theorems/4bb7617f-6329-4854-97d5-f9cfb3ef75ec
 -- title:

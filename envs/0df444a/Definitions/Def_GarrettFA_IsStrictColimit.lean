@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GarrettFA_IsStrictColimit
 -- name    : GarrettFA_IsStrictColimit
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T19:25:54.580558+00:00
 -- url     : https://prove2.me/theorems/2145ea8b-1ecd-4269-ac50-96abc981afc1
 -- title:

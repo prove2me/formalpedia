@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CursoEDO_picard_existence_uniqueness
 -- name    : CursoEDO.picard_existence_uniqueness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T15:23:04.219731+00:00
 -- url     : https://prove2.me/theorems/58cbdc7f-051d-4bfe-ba82-84ff6cfb8949
 -- title:

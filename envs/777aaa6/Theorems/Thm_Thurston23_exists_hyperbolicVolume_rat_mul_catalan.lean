@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Thurston23_exists_hyperbolicVolume_rat_mul_catalan
 -- name    : Thurston23.exists_hyperbolicVolume_rat_mul_catalan
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T20:16:29.094983+00:00
 -- url     : https://prove2.me/theorems/fa44c278-c068-41e4-8fce-3bec1b41cf81
 -- title:

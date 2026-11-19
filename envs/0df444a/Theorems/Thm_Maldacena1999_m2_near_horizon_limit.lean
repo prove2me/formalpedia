@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_m2_near_horizon_limit
 -- name    : Maldacena1999.m2_near_horizon_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:11:36.458509+00:00
 -- url     : https://prove2.me/theorems/a21b85c3-2263-4b40-8a3a-02f077e9ff90
 -- title:

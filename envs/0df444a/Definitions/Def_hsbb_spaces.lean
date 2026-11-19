@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_hsbb_spaces
 -- name    : hsbb_spaces
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:15:27.463376+00:00
 -- url     : https://prove2.me/theorems/7c2b1eed-cea5-46b6-ba2c-fb94ee96791f
 -- title:

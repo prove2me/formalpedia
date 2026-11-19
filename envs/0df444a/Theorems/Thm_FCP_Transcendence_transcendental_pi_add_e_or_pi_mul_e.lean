@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Transcendence_transcendental_pi_add_e_or_pi_mul_e
 -- name    : FCP.Transcendence.transcendental_pi_add_e_or_pi_mul_e
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:54:44.826225+00:00
 -- url     : https://prove2.me/theorems/10c1cd9b-487e-4e9a-8e99-138fae9cacac
 -- title:

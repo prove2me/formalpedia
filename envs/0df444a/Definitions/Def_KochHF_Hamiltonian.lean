@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KochHF_Hamiltonian
 -- name    : KochHF_Hamiltonian
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:23:05.888863+00:00
 -- url     : https://prove2.me/theorems/bf0535fc-6cf1-4761-a725-b7e716b17d06
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch11_monotone_convergence
 -- name    : Rudin.ch11_monotone_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:24:49.557412+00:00
 -- url     : https://prove2.me/theorems/6d7d1f7f-349a-42fc-80be-5008347f46f6
 -- title:

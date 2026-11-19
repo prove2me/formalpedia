@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NgoEndoscopicDiscriminant
 -- name    : NgoEndoscopicDiscriminant
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T22:43:21.2658+00:00
 -- url     : https://prove2.me/theorems/eba720c0-a202-473d-bfb7-e742b1d71164
 -- title:

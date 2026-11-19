@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_monotone_discontinuities_countable
 -- name    : Rudin.ch04_monotone_discontinuities_countable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T22:22:29.308481+00:00
 -- url     : https://prove2.me/theorems/34c1d8d7-5c2e-48e7-a2fa-3aabc74d631b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AlbouyKaloshin_CentralConfigurations
 -- name    : AlbouyKaloshin_CentralConfigurations
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:26:17.107955+00:00
 -- url     : https://prove2.me/theorems/f64f78b4-57df-48a5-8c6f-7740f29751db
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_gluing_theorem
 -- name    : AnosovPlugs.gluing_theorem
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T02:59:55.152302+00:00
 -- url     : https://prove2.me/theorems/51dea1e5-730c-49ea-8fff-c7d9b5ef1c92
 -- title:

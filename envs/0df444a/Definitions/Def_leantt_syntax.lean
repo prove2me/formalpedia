@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_leantt_syntax
 -- name    : leantt_syntax
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T19:11:16.197477+00:00
 -- url     : https://prove2.me/theorems/90b0fd73-c91c-4bab-ba2b-beec472ee728
 -- title:

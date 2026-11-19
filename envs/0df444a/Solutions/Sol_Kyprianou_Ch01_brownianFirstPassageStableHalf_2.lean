@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch01.brownianFirstPassageStableHalf
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T21:32:47.932217+00:00
 -- url     : https://prove2.me/submissions/0e2747ca-1745-4d19-b7cf-ca6369eb05cd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Real.Sqrt
 import Definitions.Def_Kyprianou_Ch01_McKeanBrownianStopping

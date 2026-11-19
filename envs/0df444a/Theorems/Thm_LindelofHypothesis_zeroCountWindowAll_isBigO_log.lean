@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_zeroCountWindowAll_isBigO_log
 -- name    : LindelofHypothesis.zeroCountWindowAll_isBigO_log
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:46:48.291491+00:00
 -- url     : https://prove2.me/theorems/664309b6-b436-4d9e-9afd-04e5aa3514bd
 -- title:

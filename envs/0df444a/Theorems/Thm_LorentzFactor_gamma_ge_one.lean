@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_gamma_ge_one
 -- name    : LorentzFactor.gamma_ge_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:38:32.188157+00:00
 -- url     : https://prove2.me/theorems/5679599b-a10e-4468-b6b9-a5b149ac08bf
 -- title:

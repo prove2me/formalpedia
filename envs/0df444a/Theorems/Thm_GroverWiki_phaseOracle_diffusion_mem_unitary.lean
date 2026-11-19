@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_phaseOracle_diffusion_mem_unitary
 -- name    : GroverWiki.phaseOracle_diffusion_mem_unitary
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:34:43.679558+00:00
 -- url     : https://prove2.me/theorems/970a0b11-f5d1-4d2d-94ab-eb7a9cdaffc6
 -- title:

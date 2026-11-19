@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FourToOneGames_Hypergraph
 -- name    : FourToOneGames_Hypergraph
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T23:01:25.010145+00:00
 -- url     : https://prove2.me/theorems/9db7a403-0266-4ebc-8200-e48c460f80f6
 -- title:

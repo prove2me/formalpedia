@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SP4Mission_compactification_of_euclidean_is_sphere
 -- name    : SP4Mission.compactification_of_euclidean_is_sphere
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T14:21:20.998698+00:00
 -- url     : https://prove2.me/theorems/2dda19d1-2376-47ba-a220-01da18193dd6
 -- title:

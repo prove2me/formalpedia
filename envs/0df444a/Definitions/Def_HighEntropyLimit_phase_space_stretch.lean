@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HighEntropyLimit_phase_space_stretch
 -- name    : HighEntropyLimit_phase_space_stretch
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T21:52:49.113025+00:00
 -- url     : https://prove2.me/theorems/e5b5b8d8-5b25-49cb-97d0-cc347a01876a
 -- title:

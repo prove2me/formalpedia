@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_majorana_form_factor_constraints
 -- name    : GiuntiStudenikin2015.majorana_form_factor_constraints
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:34:14.932681+00:00
 -- url     : https://prove2.me/theorems/940ed9ba-276a-4d43-a0d6-080f71297a53
 -- title:

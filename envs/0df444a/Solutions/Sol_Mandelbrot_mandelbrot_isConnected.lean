@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Mandelbrot.mandelbrot_isConnected
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T21:48:02.529335+00:00
 -- url     : https://prove2.me/submissions/7c23c812-c120-4fd8-aca1-fd1595b95b05
 -- note    : a sketch -- it imports a theorem that is still Open,

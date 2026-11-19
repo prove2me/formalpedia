@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SIBrochure_every_unit_from_defining_constants
 -- name    : SIBrochure.every_unit_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T16:08:30.384976+00:00
 -- url     : https://prove2.me/theorems/eea83803-ad4f-490b-8b74-417211623c79
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClayNavierStokes_existence_and_smoothness_R3
 -- name    : ClayNavierStokes.existence_and_smoothness_R3
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:36:27.1277+00:00
 -- url     : https://prove2.me/theorems/a625f076-07e0-4b4e-857a-074f3ab5175e
 -- title:

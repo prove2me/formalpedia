@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SpinStatistics_pauli_exclusion
 -- name    : SpinStatistics.pauli_exclusion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:32:10.802089+00:00
 -- url     : https://prove2.me/theorems/e467f3e7-91f5-41d2-9d3b-682086859951
 -- title:

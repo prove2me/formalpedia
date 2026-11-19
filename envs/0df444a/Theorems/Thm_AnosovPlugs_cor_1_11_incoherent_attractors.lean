@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AnosovPlugs_cor_1_11_incoherent_attractors
 -- name    : AnosovPlugs.cor_1_11_incoherent_attractors
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:01:10.066985+00:00
 -- url     : https://prove2.me/theorems/9d3bc6ac-f90d-43f4-bc86-81a5e12cce66
 -- title:

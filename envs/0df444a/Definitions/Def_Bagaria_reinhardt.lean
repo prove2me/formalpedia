@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Bagaria_reinhardt
 -- name    : Bagaria_reinhardt
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:05:52.775073+00:00
 -- url     : https://prove2.me/theorems/5ac51d74-3935-4eb9-88be-6c63834e47f1
 -- title:

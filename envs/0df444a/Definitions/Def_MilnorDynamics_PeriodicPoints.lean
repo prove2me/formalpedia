@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MilnorDynamics_PeriodicPoints
 -- name    : MilnorDynamics_PeriodicPoints
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T10:40:35.904985+00:00
 -- url     : https://prove2.me/theorems/f7556267-5268-4875-9814-ea9802d33cbe
 -- title:

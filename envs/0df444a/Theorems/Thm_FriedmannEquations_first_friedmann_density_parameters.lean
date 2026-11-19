@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_first_friedmann_density_parameters
 -- name    : FriedmannEquations.first_friedmann_density_parameters
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:25:00.612272+00:00
 -- url     : https://prove2.me/theorems/d989cbe9-44e2-42df-86f4-82ff0f462b92
 -- title:

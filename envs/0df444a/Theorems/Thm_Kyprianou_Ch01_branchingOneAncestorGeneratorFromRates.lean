@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_branchingOneAncestorGeneratorFromRates
 -- name    : Kyprianou.Ch01.branchingOneAncestorGeneratorFromRates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:02:42.037195+00:00
 -- url     : https://prove2.me/theorems/6a1c82e2-e5a3-4216-a634-3aa3c4298af1

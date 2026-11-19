@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LesHouchesWidth_FiniteWidth
 -- name    : LesHouchesWidth_FiniteWidth
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:56:46.742771+00:00
 -- url     : https://prove2.me/theorems/5f0a7733-8e6d-4598-b32d-f0faa9f7d365
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GribovRegion_region_convex_body
 -- name    : GribovRegion.region_convex_body
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T18:28:37.663599+00:00
 -- url     : https://prove2.me/theorems/1144d289-c423-4e90-9f23-8fd92900245b
 -- title:

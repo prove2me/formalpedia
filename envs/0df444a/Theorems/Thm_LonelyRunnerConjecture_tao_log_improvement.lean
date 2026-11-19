@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_tao_log_improvement
 -- name    : LonelyRunnerConjecture.tao_log_improvement
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:13:24.226203+00:00
 -- url     : https://prove2.me/theorems/3d69f81e-bd1c-4e58-b3b0-4e123a54f95d
 -- title:

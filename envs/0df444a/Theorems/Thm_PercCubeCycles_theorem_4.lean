@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PercCubeCycles_theorem_4
 -- name    : PercCubeCycles.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:32:28.941639+00:00
 -- url     : https://prove2.me/theorems/0c3931e8-f6a6-4c14-8187-eb6e3d45b44e

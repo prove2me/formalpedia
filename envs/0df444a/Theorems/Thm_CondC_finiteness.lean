@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CondC_finiteness
 -- name    : CondC.finiteness
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T15:52:06.50955+00:00
 -- url     : https://prove2.me/theorems/47bfbe1c-c36c-4ee7-939a-56b2287f52c5
 -- title:

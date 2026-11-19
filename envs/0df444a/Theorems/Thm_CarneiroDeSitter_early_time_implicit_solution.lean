@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_early_time_implicit_solution
 -- name    : CarneiroDeSitter.early_time_implicit_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:16:01.176453+00:00
 -- url     : https://prove2.me/theorems/f7cc09dc-970b-41c6-84c5-7bf5a8a7ea04
 -- title:

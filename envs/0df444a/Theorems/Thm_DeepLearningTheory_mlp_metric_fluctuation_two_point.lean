@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_mlp_metric_fluctuation_two_point
 -- name    : DeepLearningTheory.mlp_metric_fluctuation_two_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:00:01.118606+00:00
 -- url     : https://prove2.me/theorems/f5f08ed7-b6ef-4d95-8bcc-f09789160fcc
 -- title:

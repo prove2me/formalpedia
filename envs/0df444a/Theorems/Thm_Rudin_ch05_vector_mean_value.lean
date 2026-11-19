@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_vector_mean_value
 -- name    : Rudin.ch05_vector_mean_value
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:11:58.521318+00:00
 -- url     : https://prove2.me/theorems/7e6851fb-17f8-439a-aba0-7953cb6bf9f0
 -- title:

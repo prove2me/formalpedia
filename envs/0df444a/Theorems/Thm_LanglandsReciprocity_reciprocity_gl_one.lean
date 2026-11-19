@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsReciprocity_reciprocity_gl_one
 -- name    : LanglandsReciprocity.reciprocity_gl_one
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:56:48.337804+00:00
 -- url     : https://prove2.me/theorems/d5a648d5-f882-4770-b0d3-f85c1a2ad542
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch08_fourier
 -- name    : Rudin_ch08_fourier
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:04:48.226177+00:00
 -- url     : https://prove2.me/theorems/a16e84ab-b26e-4d39-a42b-ffaac83ec73e
 -- title:

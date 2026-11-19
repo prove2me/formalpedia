@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_affine_constraint_transfer
 -- name    : GrothendieckConstant.affine_constraint_transfer
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:46:00.622793+00:00
 -- url     : https://prove2.me/theorems/86ca5995-6585-4b2c-9010-b59b84b4911b
 -- title:

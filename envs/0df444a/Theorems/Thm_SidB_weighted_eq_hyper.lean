@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_weighted_eq_hyper
 -- name    : SidB.weighted_eq_hyper
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:25:59.795697+00:00
 -- url     : https://prove2.me/theorems/21c7dc46-7c77-41f9-b775-b266dccb170c
 -- title:

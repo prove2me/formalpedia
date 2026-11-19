@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_sierpinski_gch_implies_ac
 -- name    : ContinuumHypothesis.sierpinski_gch_implies_ac
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T22:29:52.419362+00:00
 -- url     : https://prove2.me/theorems/b48d8719-01b8-47fa-af0c-2a536ebc5551
 -- title:

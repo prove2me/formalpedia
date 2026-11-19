@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LopesQM_momentumOp_symmetric
 -- name    : LopesQM.momentumOp_symmetric
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:54:11.33854+00:00
 -- url     : https://prove2.me/theorems/4ea8e689-e923-458c-ae2f-a3df7e79afec
 -- title:

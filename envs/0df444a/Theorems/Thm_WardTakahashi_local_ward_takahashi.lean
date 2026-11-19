@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WardTakahashi_local_ward_takahashi
 -- name    : WardTakahashi.local_ward_takahashi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:40:59.909881+00:00
 -- url     : https://prove2.me/theorems/f360f86f-d40c-4b21-9e9d-0273b57d4d82
 -- title:

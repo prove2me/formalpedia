@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_transpose_not_completelyPositive
 -- name    : PeresTerno.transpose_not_completelyPositive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T09:21:29.745976+00:00
 -- url     : https://prove2.me/theorems/1ad1af60-d195-4395-8d15-51b30f881f16
 -- title:

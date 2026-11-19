@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_natario_gr_core
 -- name    : natario_gr_core
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:51:51.684098+00:00
 -- url     : https://prove2.me/theorems/d2699955-a1ea-4489-8501-f766681fc999
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TeleparallelGravity_tetrad_and_fieldStrength_gauge_invariant
 -- name    : TeleparallelGravity.tetrad_and_fieldStrength_gauge_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T22:32:16.706813+00:00
 -- url     : https://prove2.me/theorems/1ef5e9bc-aac1-4899-9163-323856c67b5d
 -- title:

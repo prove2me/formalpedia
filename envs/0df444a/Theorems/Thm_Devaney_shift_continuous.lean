@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_shift_continuous
 -- name    : Devaney.shift_continuous
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:32:22.718168+00:00
 -- url     : https://prove2.me/theorems/3347d64e-be63-45d7-a8cb-a9bb5f451369
 -- title:

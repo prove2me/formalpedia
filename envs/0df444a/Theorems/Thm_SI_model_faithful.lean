@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_model_faithful
 -- name    : SI.model_faithful
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:56:45.952209+00:00
 -- url     : https://prove2.me/theorems/9817de2e-bd5c-48c8-92ac-8da17df9801f
 -- title:

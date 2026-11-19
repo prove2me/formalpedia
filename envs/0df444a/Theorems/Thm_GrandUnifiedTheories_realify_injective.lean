@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_realify_injective
 -- name    : GrandUnifiedTheories.realify_injective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:03:30.353285+00:00
 -- url     : https://prove2.me/theorems/d4b3dba9-913d-447a-ae3c-aba14a4e79b0
 -- title:

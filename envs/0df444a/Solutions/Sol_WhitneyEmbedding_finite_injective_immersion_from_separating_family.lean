@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.finite_injective_immersion_from_separating_family
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T15:26:05.23476+00:00
 -- url     : https://prove2.me/submissions/e744bde7-f026-45b3-949a-72a4c56f3b39
 

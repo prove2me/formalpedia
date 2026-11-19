@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.R_ge
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:39:40.939165+00:00
 -- url     : https://prove2.me/submissions/1c8073b7-6510-4730-83e8-e0fe3216b130
 

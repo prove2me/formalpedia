@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstantRG_betaFunctionMu_eq_deriv_log
 -- name    : CouplingConstantRG.betaFunctionMu_eq_deriv_log
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T14:04:31.826364+00:00
 -- url     : https://prove2.me/theorems/39f32b40-6ffc-4638-9a3f-95b98bd3f05c
 -- title:

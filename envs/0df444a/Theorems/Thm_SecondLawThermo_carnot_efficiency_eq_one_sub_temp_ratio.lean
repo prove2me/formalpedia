@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_carnot_efficiency_eq_one_sub_temp_ratio
 -- name    : SecondLawThermo.carnot_efficiency_eq_one_sub_temp_ratio
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:31:30.542971+00:00
 -- url     : https://prove2.me/theorems/b105b97d-1707-40bd-9c2f-1b3183bd0e11
 -- title:

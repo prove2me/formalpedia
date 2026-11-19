@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LanglandsFunctoriality_converse_data
 -- name    : LanglandsFunctoriality_converse_data
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:43:24.534558+00:00
 -- url     : https://prove2.me/theorems/01b8e898-d915-49bc-94c4-e145dbafac99
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_P_ne_NP_of_NP_ne_coNP
 -- name    : PvsNP.P_ne_NP_of_NP_ne_coNP
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:12:24.02477+00:00
 -- url     : https://prove2.me/theorems/da9b41f6-f59e-4fb1-bafe-533ee45c8ea8
 -- title:

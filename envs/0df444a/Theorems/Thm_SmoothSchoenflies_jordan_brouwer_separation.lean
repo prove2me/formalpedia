@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothSchoenflies_jordan_brouwer_separation
 -- name    : SmoothSchoenflies.jordan_brouwer_separation
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:26:16.391519+00:00
 -- url     : https://prove2.me/theorems/d381e65f-fae6-492c-8611-1fc9848f4b52
 -- title:

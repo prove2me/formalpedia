@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch02_heine_borel
 -- name    : Rudin.ch02_heine_borel
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T18:55:48.53766+00:00
 -- url     : https://prove2.me/theorems/77c53937-bbd0-4f85-bdb4-fd4c54710001
 -- title:

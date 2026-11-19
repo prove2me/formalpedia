@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorConjecture_norm_residue_ker_le
 -- name    : MilnorConjecture.norm_residue_ker_le
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T12:04:50.206367+00:00
 -- url     : https://prove2.me/theorems/0136c27d-9846-4810-b080-e0d385e049e1
 -- title:

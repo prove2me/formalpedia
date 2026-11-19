@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_uuv_abelianization
 -- name    : FRV.uuv_abelianization
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:12:02.546864+00:00
 -- url     : https://prove2.me/theorems/cbcbdd99-a80f-4175-9e94-f72a27a9e24a
 -- title:

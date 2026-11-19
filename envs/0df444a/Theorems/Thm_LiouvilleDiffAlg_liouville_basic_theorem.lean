@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_liouville_basic_theorem
 -- name    : LiouvilleDiffAlg.liouville_basic_theorem
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T19:11:47.2168+00:00
 -- url     : https://prove2.me/theorems/3a3ee2a9-a26c-453f-bd9a-f2e0375c4dd7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DirS_gr
 -- name    : DirS_gr
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T18:08:26.375344+00:00
 -- url     : https://prove2.me/theorems/40143336-13d9-4659-baf6-a362d283a73d
 -- title:

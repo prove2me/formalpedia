@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_dewitt_optimal_coupling
 -- name    : AKR2008.dewitt_optimal_coupling
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:33:24.2562+00:00
 -- url     : https://prove2.me/theorems/954d8f89-bed0-4dc7-a5f4-6bb5634f0d7b
 -- title:

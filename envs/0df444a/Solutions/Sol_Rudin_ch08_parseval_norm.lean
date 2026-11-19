@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch08_parseval_norm
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T13:58:22.670919+00:00
 -- url     : https://prove2.me/submissions/a4c08de0-1610-4ace-853f-3fca61afcfe4
 

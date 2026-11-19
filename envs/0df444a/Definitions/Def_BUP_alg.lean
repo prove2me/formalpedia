@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BUP_alg
 -- name    : BUP_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T23:08:59.434421+00:00
 -- url     : https://prove2.me/theorems/8b43a268-5105-463b-a1fe-0c50f46e0380
 -- title:

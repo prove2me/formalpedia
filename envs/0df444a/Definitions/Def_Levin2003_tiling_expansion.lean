@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Levin2003_tiling_expansion
 -- name    : Levin2003_tiling_expansion
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:53:31.014343+00:00
 -- url     : https://prove2.me/theorems/792061eb-0352-4d54-9e5c-b1baeeefc58c
 -- title:

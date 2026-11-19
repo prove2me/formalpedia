@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThomsonN7_Reg_energy_ge_cubic
 -- name    : ThomsonN7.Reg.energy_ge_cubic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T02:07:30.022237+00:00
 -- url     : https://prove2.me/theorems/0f13a5a7-1d7f-4220-a397-0df193cd9074
 -- title:

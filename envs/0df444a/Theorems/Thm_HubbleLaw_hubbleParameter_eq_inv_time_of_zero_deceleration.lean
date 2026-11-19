@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HubbleLaw_hubbleParameter_eq_inv_time_of_zero_deceleration
 -- name    : HubbleLaw.hubbleParameter_eq_inv_time_of_zero_deceleration
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:19:52.425238+00:00
 -- url     : https://prove2.me/theorems/f7dee487-9898-4b0e-9382-3ef52c6a4bab
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_fieldStrength_gaugeTransform_eq_zero
 -- name    : SenTachyon.fieldStrength_gaugeTransform_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:22:21.792869+00:00
 -- url     : https://prove2.me/theorems/fade154a-1c1c-4adc-9046-a91249a4cb44
 -- title:

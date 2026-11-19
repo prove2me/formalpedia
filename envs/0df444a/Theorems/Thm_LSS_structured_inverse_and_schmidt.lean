@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LSS_structured_inverse_and_schmidt
 -- name    : LSS.structured_inverse_and_schmidt
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T13:34:59.799088+00:00
 -- url     : https://prove2.me/theorems/89ea7dca-5a8f-4725-ba86-114b713b99ee
 -- title:

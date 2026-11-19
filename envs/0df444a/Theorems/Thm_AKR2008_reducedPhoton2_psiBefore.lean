@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AKR2008_reducedPhoton2_psiBefore
 -- name    : AKR2008.reducedPhoton2_psiBefore
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:29:55.483759+00:00
 -- url     : https://prove2.me/theorems/88f28dc5-bfce-48b5-bcf7-d08f14d05ee3
 -- title:

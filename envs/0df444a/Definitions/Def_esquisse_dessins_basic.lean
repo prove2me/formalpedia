@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_esquisse_dessins_basic
 -- name    : esquisse_dessins_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:53:07.344745+00:00
 -- url     : https://prove2.me/theorems/a3d996e3-ec01-4adc-b0d7-b1e569253856
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_fourierTransform_linearIsomorphism
 -- name    : SchwartzSpaceWiki.fourierTransform_linearIsomorphism
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:18:13.241987+00:00
 -- url     : https://prove2.me/theorems/54700cf4-fab5-4323-8c9b-404420a08c90
 -- title:

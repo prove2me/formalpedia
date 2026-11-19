@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_SpectralGapConjecture_HeckeSU
 -- name    : SpectralGapConjecture_HeckeSU
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T02:01:49.780984+00:00
 -- url     : https://prove2.me/theorems/c93e8035-7b43-41ea-b142-dd3baee0ecea
 -- title:

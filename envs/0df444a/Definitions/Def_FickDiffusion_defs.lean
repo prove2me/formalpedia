@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FickDiffusion_defs
 -- name    : FickDiffusion_defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:27:27.623973+00:00
 -- url     : https://prove2.me/theorems/cd14b74f-eb9d-4a3e-8eb1-ffb122dfe546
 -- title:

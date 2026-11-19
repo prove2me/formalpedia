@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_put_theta
 -- name    : BlackScholesModel.put_theta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:34:00.402989+00:00
 -- url     : https://prove2.me/theorems/ba7e9097-2734-4e7a-ad3e-1167f4641b2e
 -- title:

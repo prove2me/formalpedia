@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LanglandsFunctoriality_kim_shahidi_sym_three
 -- name    : LanglandsFunctoriality.kim_shahidi_sym_three
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T16:28:26.902084+00:00
 -- url     : https://prove2.me/theorems/ea756814-1787-46c3-afac-144ae3cc9ac2
 -- title:

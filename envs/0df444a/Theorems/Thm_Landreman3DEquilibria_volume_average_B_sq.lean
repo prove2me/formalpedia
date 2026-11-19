@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_volume_average_B_sq
 -- name    : Landreman3DEquilibria.volume_average_B_sq
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:35:55.158156+00:00
 -- url     : https://prove2.me/theorems/f9b09b35-aedb-485e-8ea9-bd11eb0f41eb
 -- title:

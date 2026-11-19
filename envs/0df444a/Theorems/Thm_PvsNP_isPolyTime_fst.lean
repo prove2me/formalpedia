@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_isPolyTime_fst
 -- name    : PvsNP.isPolyTime_fst
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T06:30:20.085418+00:00
 -- url     : https://prove2.me/theorems/57acd134-8986-4015-89d7-8c98dbd9fb34
 -- title:

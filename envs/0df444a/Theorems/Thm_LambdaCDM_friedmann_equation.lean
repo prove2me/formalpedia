@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_friedmann_equation
 -- name    : LambdaCDM.friedmann_equation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:50:29.985059+00:00
 -- url     : https://prove2.me/theorems/7de6260f-fa98-450b-a5d9-3766e1e7f9f1
 -- title:

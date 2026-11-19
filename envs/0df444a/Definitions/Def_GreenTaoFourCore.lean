@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GreenTaoFourCore
 -- name    : GreenTaoFourCore
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:29:14.92886+00:00
 -- url     : https://prove2.me/theorems/623b1e10-6bdc-459b-bb74-a0e6019e4d60
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AehligSchwichtenberg2002_proposition_3_6
 -- name    : AehligSchwichtenberg2002.proposition_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-30T01:56:43.23806+00:00
 -- url     : https://prove2.me/theorems/ca4f6a84-88c3-4e4d-b349-baf9d394ce06

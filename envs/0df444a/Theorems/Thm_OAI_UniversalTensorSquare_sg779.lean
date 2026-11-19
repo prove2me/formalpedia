@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg779
 -- name    : OAI.UniversalTensorSquare.sg779
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T22:39:43.511194+00:00
 -- url     : https://prove2.me/theorems/985efab6-28db-44e0-b52a-aa0bc0dd78e4

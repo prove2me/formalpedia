@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Mandelbrot_hyperbolicSet_holomorphicMotion
 -- name    : Mandelbrot.hyperbolicSet_holomorphicMotion
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T13:27:14.529642+00:00
 -- url     : https://prove2.me/theorems/9dc3a5ec-ac82-4ecd-a8b1-5869b2f3fe56
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnosovPlugs_Gluing
 -- name    : AnosovPlugs_Gluing
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T01:53:43.078902+00:00
 -- url     : https://prove2.me/theorems/3d81997d-f004-4f05-bd71-ba65c90cde9e
 -- title:

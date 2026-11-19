@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_eigenstate_isRingEigenstate
 -- name    : ParticleInARing.eigenstate_isRingEigenstate
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:39:19.667903+00:00
 -- url     : https://prove2.me/theorems/78876f69-0e8f-40c1-aa5a-458272b90e0d
 -- title:

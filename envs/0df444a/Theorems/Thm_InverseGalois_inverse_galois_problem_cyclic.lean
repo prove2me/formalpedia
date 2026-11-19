@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InverseGalois_inverse_galois_problem_cyclic
 -- name    : InverseGalois.inverse_galois_problem_cyclic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:07:13.344551+00:00
 -- url     : https://prove2.me/theorems/dd96c174-b07e-47a3-8c0e-df971717c243
 -- title:

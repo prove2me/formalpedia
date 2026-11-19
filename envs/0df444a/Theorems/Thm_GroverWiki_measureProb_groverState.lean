@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GroverWiki_measureProb_groverState
 -- name    : GroverWiki.measureProb_groverState
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:40:08.785368+00:00
 -- url     : https://prove2.me/theorems/61a26305-98ba-4fe9-b01e-57b59cfa0008
 -- title:

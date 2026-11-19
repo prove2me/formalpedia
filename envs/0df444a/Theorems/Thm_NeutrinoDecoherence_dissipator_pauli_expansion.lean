@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NeutrinoDecoherence_dissipator_pauli_expansion
 -- name    : NeutrinoDecoherence.dissipator_pauli_expansion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T12:11:22.439053+00:00
 -- url     : https://prove2.me/theorems/51e58889-9c16-4c45-b678-50f00f882964
 -- title:

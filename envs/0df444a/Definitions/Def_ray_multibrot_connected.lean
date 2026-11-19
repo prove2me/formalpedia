@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_multibrot_connected
 -- name    : ray_multibrot_connected
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:19:45.253991+00:00
 -- url     : https://prove2.me/theorems/da7f6f3c-60d7-4b61-b1de-4b1bad7c7593
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_BusyBeaver_busy_beaver_exceeds_computable
 -- name    : FCP.BusyBeaver.busy_beaver_exceeds_computable
--- status  : Open
--- author  : @Lucas
+-- status  : Proved
+-- author  : @LG
 -- created : 2026-09-15T20:56:45.8116+00:00
 -- url     : https://prove2.me/theorems/781f63b6-5470-43a4-9168-36baa41084d4
 -- title:

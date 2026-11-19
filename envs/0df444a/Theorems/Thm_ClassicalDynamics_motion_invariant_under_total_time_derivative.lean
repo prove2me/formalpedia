@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassicalDynamics_motion_invariant_under_total_time_derivative
 -- name    : ClassicalDynamics.motion_invariant_under_total_time_derivative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T23:37:58.774188+00:00
 -- url     : https://prove2.me/theorems/cc2c83ff-a559-4ffd-b5f9-56772585f00e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_DeBruijnNewman_zeros
 -- name    : DeBruijnNewman_zeros
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:15:05.379248+00:00
 -- url     : https://prove2.me/theorems/b82f8ef3-ab27-4ee4-8719-dc096ec287fd
 -- title:

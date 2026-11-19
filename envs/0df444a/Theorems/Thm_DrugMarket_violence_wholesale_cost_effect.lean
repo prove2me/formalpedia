@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrugMarket_violence_wholesale_cost_effect
 -- name    : DrugMarket.violence_wholesale_cost_effect
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T13:39:47.575377+00:00
 -- url     : https://prove2.me/theorems/5e93e33b-7581-4072-9c12-17b969a09f51
 -- title:

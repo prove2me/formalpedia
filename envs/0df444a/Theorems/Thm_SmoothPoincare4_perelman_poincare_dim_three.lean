@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothPoincare4_perelman_poincare_dim_three
 -- name    : SmoothPoincare4.perelman_poincare_dim_three
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:50:13.422088+00:00
 -- url     : https://prove2.me/theorems/0218fd13-e67e-40ba-bc9b-5bd9db9c9b04
 -- title:

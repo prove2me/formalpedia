@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_act_torsion
 -- name    : RInf.act_torsion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:28:06.268347+00:00
 -- url     : https://prove2.me/theorems/9287ba6a-4518-4810-8815-d3b352ee6e79
 -- title:

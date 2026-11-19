@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_hardy2001_states
 -- name    : hardy2001_states
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:00:16.446067+00:00
 -- url     : https://prove2.me/theorems/0e8411af-bd7c-49e6-9768-00a88f4b2ec4
 -- title:

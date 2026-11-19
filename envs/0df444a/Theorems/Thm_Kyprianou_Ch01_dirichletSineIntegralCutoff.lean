@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_dirichletSineIntegralCutoff
 -- name    : Kyprianou.Ch01.dirichletSineIntegralCutoff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T09:10:42.205613+00:00
 -- url     : https://prove2.me/theorems/338992ff-d9b0-4b22-9a66-261266088205

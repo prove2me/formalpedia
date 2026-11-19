@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PughClosingLemma_image_nonwanderingSet
 -- name    : PughClosingLemma.image_nonwanderingSet
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:23:40.98364+00:00
 -- url     : https://prove2.me/theorems/1d612d39-0d7b-4fcf-9bdc-b668becee289
 -- title:

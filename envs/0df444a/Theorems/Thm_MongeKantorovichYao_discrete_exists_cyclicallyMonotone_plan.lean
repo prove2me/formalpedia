@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_discrete_exists_cyclicallyMonotone_plan
 -- name    : MongeKantorovichYao.discrete_exists_cyclicallyMonotone_plan
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T19:05:16.568224+00:00
 -- url     : https://prove2.me/theorems/b0837722-cc97-4255-b9a8-77247508333a
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.u3_back
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T11:06:50.026481+00:00
 -- url     : https://prove2.me/submissions/62eaa186-735d-4268-aa45-279ef5cc5b55
 

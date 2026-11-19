@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_realify_mem_specialOrthogonalGroup
 -- name    : GrandUnifiedTheories.realify_mem_specialOrthogonalGroup
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:01:52.036247+00:00
 -- url     : https://prove2.me/theorems/45b430e5-c765-40be-be40-0619954c814a
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DFT_ks_density_normalization
 -- name    : DFT.ks_density_normalization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T20:09:14.972248+00:00
 -- url     : https://prove2.me/theorems/56f89fa9-a81d-4200-b3e8-b7a88ebbf131
 -- title:

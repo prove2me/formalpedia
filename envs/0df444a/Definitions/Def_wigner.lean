@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_wigner
 -- name    : wigner
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T16:48:57.287003+00:00
 -- url     : https://prove2.me/theorems/c56e813a-8122-4cbf-b354-8c092c71cb16
 -- title:

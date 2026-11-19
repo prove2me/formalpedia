@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CouplingConstantRGDefs
 -- name    : CouplingConstantRGDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-03T13:49:40.804395+00:00
 -- url     : https://prove2.me/theorems/0d3ec902-9791-48bf-9721-0d1dec328b4f
 -- title:

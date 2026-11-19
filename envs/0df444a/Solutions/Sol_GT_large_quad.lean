@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GT.large_quad
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:43:46.163074+00:00
 -- url     : https://prove2.me/submissions/d05d68ca-9c87-4d3f-a20c-77a62e1d651b
 

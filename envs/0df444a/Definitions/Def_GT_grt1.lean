@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GT_grt1
 -- name    : GT_grt1
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T20:52:33.280665+00:00
 -- url     : https://prove2.me/theorems/c674dbb8-5ac8-41ac-a5a9-7cc4a5d51a9d
 -- title:

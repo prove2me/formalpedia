@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_k_eq_n_pure_vectors
 -- name    : HardyFiveAxioms.k_eq_n_pure_vectors
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T17:14:20.278986+00:00
 -- url     : https://prove2.me/theorems/3f6f089e-98f2-4f97-af7a-f1e19787018e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_price_eq_forward_formulation
 -- name    : BlackScholesModel.price_eq_forward_formulation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:51.16798+00:00
 -- url     : https://prove2.me/theorems/67c53231-599b-403c-862b-328d0a7f784d
 -- title:

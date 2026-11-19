@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_field_smooth_on_domainU
 -- name    : Landreman3DEquilibria.field_smooth_on_domainU
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:46:47.043472+00:00
 -- url     : https://prove2.me/theorems/a3147f9f-4408-4262-b9e4-cb3aaa17577c
 -- title:

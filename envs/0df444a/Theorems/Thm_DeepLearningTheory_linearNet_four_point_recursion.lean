@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_linearNet_four_point_recursion
 -- name    : DeepLearningTheory.linearNet_four_point_recursion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:37:57.033836+00:00
 -- url     : https://prove2.me/theorems/62c07ebb-1143-43da-998f-4768ba4a8536
 -- title:

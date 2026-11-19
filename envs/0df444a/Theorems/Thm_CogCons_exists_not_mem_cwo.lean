@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CogCons_exists_not_mem_cwo
 -- name    : CogCons.exists_not_mem_cwo
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:34:09.984139+00:00
 -- url     : https://prove2.me/theorems/4c3686c2-f8f9-464a-a0df-dc15cdb5bb1f
 -- title:

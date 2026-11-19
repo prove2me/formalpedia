@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OkunsLaw_ratio_annual_difference
 -- name    : OkunsLaw.ratio_annual_difference
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:30:48.535622+00:00
 -- url     : https://prove2.me/theorems/98ff96e3-2c97-4d27-a358-1f5b3a1fbe26
 -- title:

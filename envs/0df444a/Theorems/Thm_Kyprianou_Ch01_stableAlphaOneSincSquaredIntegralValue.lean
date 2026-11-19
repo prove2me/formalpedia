@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableAlphaOneSincSquaredIntegralValue
 -- name    : Kyprianou.Ch01.stableAlphaOneSincSquaredIntegralValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T09:13:35.798825+00:00
 -- url     : https://prove2.me/theorems/5cc830c0-4ad8-4db9-ad31-576eeec7b88b

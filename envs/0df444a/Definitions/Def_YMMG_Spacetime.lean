@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_YMMG_Spacetime
 -- name    : YMMG_Spacetime
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T15:53:12.580986+00:00
 -- url     : https://prove2.me/theorems/3a2713b9-e275-412f-be15-a6a9a4452f98
 -- title:

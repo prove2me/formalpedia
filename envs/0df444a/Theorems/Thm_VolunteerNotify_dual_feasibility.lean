@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerNotify_dual_feasibility
 -- name    : VolunteerNotify.dual_feasibility
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:38:41.929859+00:00
 -- url     : https://prove2.me/theorems/2b6c0015-e62d-43e1-9f6f-eb01901791e1

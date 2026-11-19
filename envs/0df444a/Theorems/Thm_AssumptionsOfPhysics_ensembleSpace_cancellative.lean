@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_ensembleSpace_cancellative
 -- name    : AssumptionsOfPhysics.ensembleSpace_cancellative
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T13:25:46.556992+00:00
 -- url     : https://prove2.me/theorems/cb252679-e21b-426a-8788-1e734eecd48e
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BCSTheory_zeroTemperatureGap_eq
 -- name    : BCSTheory.zeroTemperatureGap_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:23:08.803508+00:00
 -- url     : https://prove2.me/theorems/3a05bb49-b948-4817-b7b8-9b36228c597a
 -- title:

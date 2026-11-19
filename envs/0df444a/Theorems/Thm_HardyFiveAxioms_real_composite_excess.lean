@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_real_composite_excess
 -- name    : HardyFiveAxioms.real_composite_excess
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T20:17:12.044987+00:00
 -- url     : https://prove2.me/theorems/05418f90-8202-4343-8043-c75bb7eeb8e9
 -- title:

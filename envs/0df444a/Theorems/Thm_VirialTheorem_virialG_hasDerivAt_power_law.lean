@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_virialG_hasDerivAt_power_law
 -- name    : VirialTheorem.virialG_hasDerivAt_power_law
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T18:56:27.540612+00:00
 -- url     : https://prove2.me/theorems/d2eee8ae-d407-4d87-983f-13407e25e832
 -- title:

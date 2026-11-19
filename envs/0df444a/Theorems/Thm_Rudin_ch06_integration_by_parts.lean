@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch06_integration_by_parts
 -- name    : Rudin.ch06_integration_by_parts
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T23:40:01.586289+00:00
 -- url     : https://prove2.me/theorems/d3bd9390-7a98-4982-a0ed-250c9f6c31a7
 -- title:

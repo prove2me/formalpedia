@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_isect_finite_card
 -- name    : KontsevichHMS.isect_finite_card
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:51:37.718651+00:00
 -- url     : https://prove2.me/theorems/79522c41-1076-4137-b32b-0524c849f59d
 -- title:

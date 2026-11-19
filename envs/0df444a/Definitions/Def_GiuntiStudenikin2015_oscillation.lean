@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GiuntiStudenikin2015_oscillation
 -- name    : GiuntiStudenikin2015_oscillation
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T13:00:06.345397+00:00
 -- url     : https://prove2.me/theorems/ddbc9b58-af14-4b6e-87de-f2124be87314
 -- title:

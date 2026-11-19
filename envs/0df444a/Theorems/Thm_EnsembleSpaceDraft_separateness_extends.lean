@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EnsembleSpaceDraft_separateness_extends
 -- name    : EnsembleSpaceDraft.separateness_extends
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T11:50:27.616605+00:00
 -- url     : https://prove2.me/theorems/2b1a0872-526c-4f6d-9066-b041d682d522
 -- title:

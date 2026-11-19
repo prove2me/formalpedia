@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch05_differentiable_continuous
 -- name    : Rudin.ch05_differentiable_continuous
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:04:15.261259+00:00
 -- url     : https://prove2.me/theorems/26abecd9-6bf1-4580-8645-3f867964bf37
 -- title:

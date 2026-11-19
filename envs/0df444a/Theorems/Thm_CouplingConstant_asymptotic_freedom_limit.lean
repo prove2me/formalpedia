@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_asymptotic_freedom_limit
 -- name    : CouplingConstant.asymptotic_freedom_limit
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:10:25.211708+00:00
 -- url     : https://prove2.me/theorems/8b62aa88-21b3-499e-8c72-8a70c3b637a3
 -- title:

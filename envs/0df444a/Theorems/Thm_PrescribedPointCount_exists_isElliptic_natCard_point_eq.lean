@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PrescribedPointCount_exists_isElliptic_natCard_point_eq
 -- name    : PrescribedPointCount.exists_isElliptic_natCard_point_eq
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T19:26:45.86586+00:00
 -- url     : https://prove2.me/theorems/844678d7-9986-4515-8a1b-8bd27605923d
 -- title:

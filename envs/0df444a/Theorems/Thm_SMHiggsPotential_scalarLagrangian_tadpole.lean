@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SMHiggsPotential_scalarLagrangian_tadpole
 -- name    : SMHiggsPotential.scalarLagrangian_tadpole
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:53:47.266839+00:00
 -- url     : https://prove2.me/theorems/36ddaf2d-599b-405a-9f96-9be2641e90b5
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FriedmannEquations_Defs
 -- name    : FriedmannEquations_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:17:32.090834+00:00
 -- url     : https://prove2.me/theorems/7b7fa273-8462-4853-9e73-6e424e287203
 -- title:

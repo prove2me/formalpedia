@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_larger_w_dilutes_faster
 -- name    : CosmologyEOS.larger_w_dilutes_faster
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:37:32.173975+00:00
 -- url     : https://prove2.me/theorems/42094a9c-d32d-4188-bd75-92f5de067bb7
 -- title:

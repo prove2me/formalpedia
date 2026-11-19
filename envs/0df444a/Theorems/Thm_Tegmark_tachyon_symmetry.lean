@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Tegmark_tachyon_symmetry
 -- name    : Tegmark.tachyon_symmetry
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T04:15:23.700028+00:00
 -- url     : https://prove2.me/theorems/c6e8d57f-b9f3-44c5-aaaf-107feab2d54e
 -- title:

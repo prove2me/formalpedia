@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_hecke_nice_of_automorphic
 -- name    : Gelbart.hecke_nice_of_automorphic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:40:59.504882+00:00
 -- url     : https://prove2.me/theorems/f20a1dc6-bed7-4510-88f0-3fc6c41d8c8d
 -- title:

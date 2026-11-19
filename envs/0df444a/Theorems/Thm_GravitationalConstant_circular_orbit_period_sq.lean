@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GravitationalConstant_circular_orbit_period_sq
 -- name    : GravitationalConstant.circular_orbit_period_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T13:29:52.282984+00:00
 -- url     : https://prove2.me/theorems/87a66932-eedb-4b2b-84b8-04e19b73017c
 -- title:

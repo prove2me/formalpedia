@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_WeilConjectures_projectiveSpace
 -- name    : WeilConjectures_projectiveSpace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T14:56:00.388888+00:00
 -- url     : https://prove2.me/theorems/af025733-c5dd-4f00-9479-16f8c72a8747
 -- title:

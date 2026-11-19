@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_autarky_frontier
 -- name    : ComparativeAdvantage.autarky_frontier
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:31:47.595105+00:00
 -- url     : https://prove2.me/theorems/eb1def20-4daf-495a-849e-4616c34e6afe
 -- title:

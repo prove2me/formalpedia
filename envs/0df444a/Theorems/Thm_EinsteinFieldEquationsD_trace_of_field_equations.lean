@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_trace_of_field_equations
 -- name    : EinsteinFieldEquationsD.trace_of_field_equations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:14:11.234323+00:00
 -- url     : https://prove2.me/theorems/c879dacd-f665-4cd0-b2b4-fa4b16437931
 -- title:

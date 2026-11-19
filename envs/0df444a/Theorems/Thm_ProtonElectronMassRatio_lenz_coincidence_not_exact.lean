@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProtonElectronMassRatio_lenz_coincidence_not_exact
 -- name    : ProtonElectronMassRatio.lenz_coincidence_not_exact
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T20:23:15.36357+00:00
 -- url     : https://prove2.me/theorems/147b1c2c-117a-4d1b-940d-58529307e05c
 -- title:

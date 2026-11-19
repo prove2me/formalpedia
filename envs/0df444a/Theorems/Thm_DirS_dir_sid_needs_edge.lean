@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_dir_sid_needs_edge
 -- name    : DirS.dir_sid_needs_edge
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:25:57.042127+00:00
 -- url     : https://prove2.me/theorems/5b0d4786-e1bb-4ed9-bb30-4e074cd2b188
 -- title:

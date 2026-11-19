@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_lemma_3_5_ctransform_nonexpansive
 -- name    : ValuativeSYZ.lemma_3_5_ctransform_nonexpansive
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:37:45.774852+00:00
 -- url     : https://prove2.me/theorems/5a58759b-7c97-4874-87ca-5923569053b4
 -- title:

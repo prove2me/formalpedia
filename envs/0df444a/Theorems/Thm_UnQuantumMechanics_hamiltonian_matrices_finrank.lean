@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_hamiltonian_matrices_finrank
 -- name    : UnQuantumMechanics.hamiltonian_matrices_finrank
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T17:13:32.40431+00:00
 -- url     : https://prove2.me/theorems/f4fc756a-9a11-4a6c-906f-82856066bf28
 -- title:

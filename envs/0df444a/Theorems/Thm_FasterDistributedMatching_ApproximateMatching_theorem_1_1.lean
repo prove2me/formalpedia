@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FasterDistributedMatching_ApproximateMatching_theorem_1_1
 -- name    : FasterDistributedMatching.ApproximateMatching.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T12:10:24.264845+00:00
 -- url     : https://prove2.me/theorems/b8fb9268-9461-4268-9535-0dee6586d769

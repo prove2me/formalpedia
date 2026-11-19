@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_configuration_realizable
 -- name    : HilbertSixteenth.configuration_realizable
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T20:53:14.589988+00:00
 -- url     : https://prove2.me/theorems/79d3d68d-66c7-46fc-99aa-c32560cb0045
 -- title:

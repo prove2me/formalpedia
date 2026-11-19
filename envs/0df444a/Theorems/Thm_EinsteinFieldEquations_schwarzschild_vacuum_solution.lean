@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquations_schwarzschild_vacuum_solution
 -- name    : EinsteinFieldEquations.schwarzschild_vacuum_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T00:51:10.692164+00:00
 -- url     : https://prove2.me/theorems/3af31561-8c25-4a27-9dba-0aa5cf4a0917
 -- title:

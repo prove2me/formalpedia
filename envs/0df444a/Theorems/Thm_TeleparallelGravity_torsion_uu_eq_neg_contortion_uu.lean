@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TeleparallelGravity_torsion_uu_eq_neg_contortion_uu
 -- name    : TeleparallelGravity.torsion_uu_eq_neg_contortion_uu
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T22:44:29.185324+00:00
 -- url     : https://prove2.me/theorems/2ed5bae3-5f79-47ae-8966-3819bec5dc4e
 -- title:

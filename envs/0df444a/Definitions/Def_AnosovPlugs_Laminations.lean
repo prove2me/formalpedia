@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AnosovPlugs_Laminations
 -- name    : AnosovPlugs_Laminations
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T01:40:31.846121+00:00
 -- url     : https://prove2.me/theorems/7ce3558e-34ad-467c-a330-4b088cad4eca
 -- title:

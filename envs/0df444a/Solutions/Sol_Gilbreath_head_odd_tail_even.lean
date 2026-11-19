@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Gilbreath.head_odd_tail_even
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:20:23.375494+00:00
 -- url     : https://prove2.me/submissions/e12dcb3a-691b-4010-900b-5f235ab8d965
 

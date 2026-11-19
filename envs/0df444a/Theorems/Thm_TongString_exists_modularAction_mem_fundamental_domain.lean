@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_exists_modularAction_mem_fundamental_domain
 -- name    : TongString.exists_modularAction_mem_fundamental_domain
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T20:58:27.657918+00:00
 -- url     : https://prove2.me/theorems/92787276-ce6a-4ab6-80d4-4274a566cab3
 -- title:

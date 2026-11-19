@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_shannon_secrecy_system
 -- name    : shannon_secrecy_system
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:29:50.951183+00:00
 -- url     : https://prove2.me/theorems/82a0753c-f2ba-45ac-b23f-cd6dd099b1ff
 -- title:

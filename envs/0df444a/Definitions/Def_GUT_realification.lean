@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GUT_realification
 -- name    : GUT_realification
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:33:47.978152+00:00
 -- url     : https://prove2.me/theorems/5df63f52-6bf1-4074-a227-dabe12fb02be
 -- title:

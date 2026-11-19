@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BalancedAlgebra_leftUnit_leftCancellable
 -- name    : BalancedAlgebra.leftUnit_leftCancellable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:26:03.363994+00:00
 -- url     : https://prove2.me/theorems/8aa13133-2cd4-4713-aabe-e3db3f27ff94
 -- title:

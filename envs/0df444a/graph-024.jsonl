@@ -33802,7 +33802,7 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.chunkSound48_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.a11_1_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.a11_1_contains_g", "child": "OAIQ098G072", "via": ["statement"]}
-{"parent": "AlgebraicGeometry.exists_integral_proper_compactification_of_isSeparated", "child": "AlgebraicGeometry_ProjSpace", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.exists_integral_proper_compactification_of_isSeparated", "child": "AlgebraicGeometry_ProjSpace", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein24.N0_left.t4_contains_g", "child": "OAIQ098G382", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein24.N0_left.t4_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein24.N0_left.t4_contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}

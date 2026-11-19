@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Nintendo_game
 -- name    : Nintendo_game
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T05:51:16.502991+00:00
 -- url     : https://prove2.me/theorems/43518e87-49e7-4e38-96e9-11b92b9c29ea
 -- title:

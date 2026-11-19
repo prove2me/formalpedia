@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch03_root_test
 -- name    : Rudin.ch03_root_test
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T19:10:51.515836+00:00
 -- url     : https://prove2.me/theorems/27e54e7b-8662-440c-aaaa-546594ca0dd7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_omega_adjoint_action
 -- name    : HooftMonopole.omega_adjoint_action
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:55:42.474254+00:00
 -- url     : https://prove2.me/theorems/2723d5f4-fa29-484b-b75a-f5134995a4f1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_sqrt_sq_add_sq_beam_bounds
 -- name    : SZFilaments.sqrt_sq_add_sq_beam_bounds
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:36:11.418111+00:00
 -- url     : https://prove2.me/theorems/28c06484-0191-402c-b34f-d37ca5395e28
 -- title:

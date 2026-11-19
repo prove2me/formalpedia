@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ArithmeticKakeya_arithmetic_kakeya_1675
 -- name    : ArithmeticKakeya.arithmetic_kakeya_1675
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:01:15.524182+00:00
 -- url     : https://prove2.me/theorems/243d25d0-0eef-4209-9f61-b8f3cd3bbe17
 -- title:

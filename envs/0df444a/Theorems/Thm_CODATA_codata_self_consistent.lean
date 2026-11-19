@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CODATA_codata_self_consistent
 -- name    : CODATA.codata_self_consistent
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T01:40:43.128+00:00
 -- url     : https://prove2.me/theorems/5262484f-86a5-45ef-9f12-4e646ce74b1b
 -- title:

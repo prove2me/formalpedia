@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Larmor_retarded_time_on_sphere
 -- name    : Larmor.retarded_time_on_sphere
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:16:32.030302+00:00
 -- url     : https://prove2.me/theorems/6dca54d4-d6de-46d5-ae9b-21d085417212
 -- title:

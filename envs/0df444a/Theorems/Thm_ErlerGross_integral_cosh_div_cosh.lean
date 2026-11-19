@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_integral_cosh_div_cosh
 -- name    : ErlerGross.integral_cosh_div_cosh
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:57:26.829015+00:00
 -- url     : https://prove2.me/theorems/e967344d-a7b1-47d1-9d36-dd98f86c9c1a
 -- title:

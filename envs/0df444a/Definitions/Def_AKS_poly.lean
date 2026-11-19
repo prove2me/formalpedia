@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AKS_poly
 -- name    : AKS_poly
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T12:35:42.184843+00:00
 -- url     : https://prove2.me/theorems/f5b712e1-4cd7-4af5-a2cd-60f5697958d3
 -- title:

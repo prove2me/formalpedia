@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClayNavierStokes_clay_millennium_prize
 -- name    : ClayNavierStokes.clay_millennium_prize
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T18:35:24.514262+00:00
 -- url     : https://prove2.me/theorems/63d3ea4c-fbe8-44b9-8506-f61a71267cc6
 -- title:

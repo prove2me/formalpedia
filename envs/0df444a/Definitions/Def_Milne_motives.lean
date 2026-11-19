@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Milne_motives
 -- name    : Milne_motives
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T02:09:09.9121+00:00
 -- url     : https://prove2.me/theorems/d603c34d-5993-4ceb-beec-66466c085dec
 -- title:

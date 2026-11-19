@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DoCarmoDG_rigid_motion_invariance
 -- name    : DoCarmoDG.rigid_motion_invariance
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T00:49:40.609299+00:00
 -- url     : https://prove2.me/theorems/16e9cbde-dd2d-4af5-af96-9cd4ea2d6656
 -- title:

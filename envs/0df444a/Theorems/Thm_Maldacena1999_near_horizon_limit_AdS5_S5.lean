@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Maldacena1999_near_horizon_limit_AdS5_S5
 -- name    : Maldacena1999.near_horizon_limit_AdS5_S5
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:57:48.809337+00:00
 -- url     : https://prove2.me/theorems/68eaa3f7-6c6b-49d2-a6c5-ecc77ea8c7f9
 -- title:

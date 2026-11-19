@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LopesQM_gaussianPacket_minimizes_uncertainty
 -- name    : LopesQM.gaussianPacket_minimizes_uncertainty
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T02:56:49.050743+00:00
 -- url     : https://prove2.me/theorems/e671c1b3-d275-4fd6-b5b2-6326a94ec512
 -- title:

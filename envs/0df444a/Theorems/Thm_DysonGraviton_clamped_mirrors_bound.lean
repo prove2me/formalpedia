@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_clamped_mirrors_bound
 -- name    : DysonGraviton.clamped_mirrors_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:30:21.808676+00:00
 -- url     : https://prove2.me/theorems/8eecf235-afcd-4d57-93fd-aaeb98404214
 -- title:

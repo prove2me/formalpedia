@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FastFourierTransform_dft_periodic
 -- name    : FastFourierTransform.dft_periodic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:17:12.792759+00:00
 -- url     : https://prove2.me/theorems/1ca22665-cd8d-49a1-ba07-afcfff0ee929
 -- title:

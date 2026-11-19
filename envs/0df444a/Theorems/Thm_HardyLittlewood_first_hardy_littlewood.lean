@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyLittlewood_first_hardy_littlewood
 -- name    : HardyLittlewood.first_hardy_littlewood
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T21:49:26.141358+00:00
 -- url     : https://prove2.me/theorems/207bff75-ab7c-4d48-b7da-b72e45ce4724
 -- title:

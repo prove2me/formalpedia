@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LiouvilleFieldTheory_kinematics
 -- name    : LiouvilleFieldTheory_kinematics
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T09:40:40.695414+00:00
 -- url     : https://prove2.me/theorems/50e50bda-1d82-4c01-875f-5ec4bd179a30
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_palis_conjecture_diffeo
 -- name    : PalisConjecture.palis_conjecture_diffeo
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:59:25.792339+00:00
 -- url     : https://prove2.me/theorems/e83462b2-c2d7-4ab3-8653-12511a9d56fb
 -- title:

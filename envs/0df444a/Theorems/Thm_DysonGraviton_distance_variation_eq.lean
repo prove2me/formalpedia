@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DysonGraviton_distance_variation_eq
 -- name    : DysonGraviton.distance_variation_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T23:26:25.947989+00:00
 -- url     : https://prove2.me/theorems/97b4d526-bfa2-4b29-890d-b76d0ee87a41
 -- title:

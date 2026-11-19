@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Devaney_conjugacy
 -- name    : Devaney_conjugacy
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T07:14:49.471805+00:00
 -- url     : https://prove2.me/theorems/3c521dfa-5eb0-4987-b12c-4386068fb66e
 -- title:

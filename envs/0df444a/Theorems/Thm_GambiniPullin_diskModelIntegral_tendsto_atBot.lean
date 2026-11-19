@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GambiniPullin_diskModelIntegral_tendsto_atBot
 -- name    : GambiniPullin.diskModelIntegral_tendsto_atBot
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T14:32:49.563763+00:00
 -- url     : https://prove2.me/theorems/a6861d8d-e5a6-4546-a605-cab7fca4d895
 -- title:

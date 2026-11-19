@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ManolescuPiccirillo_Movie
 -- name    : ManolescuPiccirillo_Movie
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:50:56.845449+00:00
 -- url     : https://prove2.me/theorems/55ea17d3-fcb9-4aac-8a8e-866cd8585ed3
 -- title:

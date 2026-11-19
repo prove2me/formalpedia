@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_Ht_upper_bound
 -- name    : DeBruijnNewman.Ht_upper_bound
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T13:16:18.777648+00:00
 -- url     : https://prove2.me/theorems/12642cca-c51d-4b20-a2ac-14f95883e4c9
 -- title:

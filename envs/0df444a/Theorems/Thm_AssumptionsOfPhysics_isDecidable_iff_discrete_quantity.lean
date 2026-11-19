@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_isDecidable_iff_discrete_quantity
 -- name    : AssumptionsOfPhysics.isDecidable_iff_discrete_quantity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:25:12.733518+00:00
 -- url     : https://prove2.me/theorems/029c35fa-f315-44cd-b59b-38811d44af9d
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitRegular_eq_42
 -- name    : BilateralProfitRegular.eq_42
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:42.610667+00:00
 -- url     : https://prove2.me/theorems/86672f4c-586b-4332-b254-b0a96714ae19

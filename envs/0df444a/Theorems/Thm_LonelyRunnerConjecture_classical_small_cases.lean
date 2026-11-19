@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_classical_small_cases
 -- name    : LonelyRunnerConjecture.classical_small_cases
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:14:39.57173+00:00
 -- url     : https://prove2.me/theorems/a6f93a82-db01-4a40-854f-4d5830318c35
 -- title:

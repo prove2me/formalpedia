@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_surfaceGravity_eq_radii
 -- name    : KerrBlackHoleThermo.surfaceGravity_eq_radii
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T19:44:23.664756+00:00
 -- url     : https://prove2.me/theorems/fa836077-124e-49fd-a225-ed9615e64932
 -- title:

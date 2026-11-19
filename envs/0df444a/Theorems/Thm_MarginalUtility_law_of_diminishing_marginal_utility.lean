@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_law_of_diminishing_marginal_utility
 -- name    : MarginalUtility.law_of_diminishing_marginal_utility
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:33:52.452563+00:00
 -- url     : https://prove2.me/theorems/462e30b5-77d8-494d-b23d-38acae186c67
 -- title:

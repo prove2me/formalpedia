@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SidB_blowup_sidorenko
 -- name    : SidB.blowup_sidorenko
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:32:11.39358+00:00
 -- url     : https://prove2.me/theorems/10d60ad6-f165-4ae2-94ee-3e4ec11bee31
 -- title:

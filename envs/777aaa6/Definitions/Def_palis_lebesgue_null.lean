@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_palis_lebesgue_null
 -- name    : palis_lebesgue_null
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T02:50:53.94242+00:00
 -- url     : https://prove2.me/theorems/3bd6264d-23a5-44cf-a5ff-8d47b647401e
 -- title:

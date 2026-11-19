@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothSchoenflies_smooth_schoenflies_dim_two
 -- name    : SmoothSchoenflies.smooth_schoenflies_dim_two
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:27:30.474243+00:00
 -- url     : https://prove2.me/theorems/5c47fad9-49ac-4197-9c99-2a6ef3a8f8f9
 -- title:

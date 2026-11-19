@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FastFourierTransform_dft_conj_symm
 -- name    : FastFourierTransform.dft_conj_symm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T18:32:04.073519+00:00
 -- url     : https://prove2.me/theorems/6c7c0a90-651d-45da-a0a3-38986ea7e5ce
 -- title:

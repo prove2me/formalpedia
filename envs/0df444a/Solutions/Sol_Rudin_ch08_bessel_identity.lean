@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch08_bessel_identity
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T14:32:57.851142+00:00
 -- url     : https://prove2.me/submissions/98e63b19-5003-4ed4-a08d-da299da28be7
 

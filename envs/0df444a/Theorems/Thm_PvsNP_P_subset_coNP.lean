@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_P_subset_coNP
 -- name    : PvsNP.P_subset_coNP
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:38:32.851888+00:00
 -- url     : https://prove2.me/theorems/fd37105d-e42c-4720-bf49-9eceefd80e0d
 -- title:

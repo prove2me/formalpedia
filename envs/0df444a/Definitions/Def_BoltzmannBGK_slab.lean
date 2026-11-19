@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BoltzmannBGK_slab
 -- name    : BoltzmannBGK_slab
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T22:15:22.408098+00:00
 -- url     : https://prove2.me/theorems/c7648421-3899-4dfc-a238-0bcb8d8cb908
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_mixingEntropy_properties
 -- name    : AssumptionsOfPhysics.mixingEntropy_properties
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T11:51:04.321517+00:00
 -- url     : https://prove2.me/theorems/82aa2aef-e4d8-46f8-a19e-17117ea6d11b
 -- title:

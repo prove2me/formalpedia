@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_tail_propagation
 -- name    : Gilbreath.tail_propagation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:31:29.398369+00:00
 -- url     : https://prove2.me/theorems/63452029-c163-41f8-acb2-4e1294fc23d7
 -- title:

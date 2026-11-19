@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BananaF1_bananaTail_mul_succ
 -- name    : BananaF1.bananaTail_mul_succ
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T16:28:59.888378+00:00
 -- url     : https://prove2.me/theorems/13d545b2-da8b-4044-9461-7006fcf0c13d
 -- title:

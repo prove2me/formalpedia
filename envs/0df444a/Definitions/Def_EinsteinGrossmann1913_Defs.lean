@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_EinsteinGrossmann1913_Defs
 -- name    : EinsteinGrossmann1913_Defs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:22:50.48329+00:00
 -- url     : https://prove2.me/theorems/806baf05-9dd1-42f0-bedb-094728d1aced
 -- title:

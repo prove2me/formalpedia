@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MWT_tor
 -- name    : MWT_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:09:38.401313+00:00
 -- url     : https://prove2.me/theorems/ec99778b-29e3-46fa-bdef-91b6dc90ddae
 -- title:

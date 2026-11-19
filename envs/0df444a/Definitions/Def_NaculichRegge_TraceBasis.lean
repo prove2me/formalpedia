@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NaculichRegge_TraceBasis
 -- name    : NaculichRegge_TraceBasis
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:15:20.844951+00:00
 -- url     : https://prove2.me/theorems/dcf3fbb1-7229-4f55-b6be-5748bdbf1951
 -- title:

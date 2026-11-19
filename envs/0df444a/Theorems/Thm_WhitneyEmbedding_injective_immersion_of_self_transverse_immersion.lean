@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_injective_immersion_of_self_transverse_immersion
 -- name    : WhitneyEmbedding.injective_immersion_of_self_transverse_immersion
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T17:17:16.559212+00:00
 -- url     : https://prove2.me/theorems/5fe3031b-a682-4c5f-8144-7514e099374e
 -- title:

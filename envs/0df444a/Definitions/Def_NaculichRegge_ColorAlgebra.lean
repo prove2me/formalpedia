@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_NaculichRegge_ColorAlgebra
 -- name    : NaculichRegge_ColorAlgebra
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T23:13:56.433713+00:00
 -- url     : https://prove2.me/theorems/3ea75ad3-2304-4291-9589-3ad95d896a81
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_VectorCalculus_grad
 -- name    : VectorCalculus_grad
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T00:01:58.375187+00:00
 -- url     : https://prove2.me/theorems/18b21d8c-c7b0-4450-8c94-60e74a88c451
 -- title:

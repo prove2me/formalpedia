@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos52_sumset_card_ge_two_mul_sub_one
 -- name    : Erdos52.sumset_card_ge_two_mul_sub_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T16:21:01.500561+00:00
 -- url     : https://prove2.me/theorems/622be207-8b45-44eb-8be0-def178186340
 -- title:

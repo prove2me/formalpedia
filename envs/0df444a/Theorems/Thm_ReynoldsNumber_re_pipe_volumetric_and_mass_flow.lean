@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ReynoldsNumber_re_pipe_volumetric_and_mass_flow
 -- name    : ReynoldsNumber.re_pipe_volumetric_and_mass_flow
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:02:34.18202+00:00
 -- url     : https://prove2.me/theorems/8d3443ee-d4a8-4590-87bb-7042fba32dae
 -- title:

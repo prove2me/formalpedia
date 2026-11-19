@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_efficacyOfRadiation_dirac_peak
 -- name    : LuminousEfficacy.efficacyOfRadiation_dirac_peak
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:21:33.123448+00:00
 -- url     : https://prove2.me/theorems/5d56910c-ae22-42bd-941e-d3d27bdd8d13
 -- title:

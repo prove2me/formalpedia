@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_AgohGiuga_agoh_giuga_sum
 -- name    : FCP.AgohGiuga.agoh_giuga_sum
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:22:50.514646+00:00
 -- url     : https://prove2.me/theorems/fed61a57-44dd-4fab-9974-281eebac7d03
 -- title:

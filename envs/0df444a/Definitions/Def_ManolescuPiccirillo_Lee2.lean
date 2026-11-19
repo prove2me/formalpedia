@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ManolescuPiccirillo_Lee2
 -- name    : ManolescuPiccirillo_Lee2
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:52:04.952203+00:00
 -- url     : https://prove2.me/theorems/729de389-8745-4a57-85bd-acce77e154be
 -- title:

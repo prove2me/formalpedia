@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_InvariantSubspace
 -- name    : FCP_InvariantSubspace
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:06:51.907002+00:00
 -- url     : https://prove2.me/theorems/47fa5960-a23b-4921-a3b3-3a7cc4b550c9
 -- title:

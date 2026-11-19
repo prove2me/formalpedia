@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LiuPass_exists_regular_dense_domain
 -- name    : LiuPass.exists_regular_dense_domain
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T22:34:12.98863+00:00
 -- url     : https://prove2.me/theorems/ebcdc025-1e2b-4ce2-a5b4-b8c6ad661f6f
 -- title:

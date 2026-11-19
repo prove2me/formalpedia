@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MonopolesInstantonsConfinement_static_first_integral
 -- name    : MonopolesInstantonsConfinement.static_first_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T22:19:59.045454+00:00
 -- url     : https://prove2.me/theorems/146d9066-193a-46a0-b6d9-77a802a7e72b
 -- title:

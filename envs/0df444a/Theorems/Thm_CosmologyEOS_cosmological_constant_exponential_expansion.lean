@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmologyEOS_cosmological_constant_exponential_expansion
 -- name    : CosmologyEOS.cosmological_constant_exponential_expansion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:35:44.816923+00:00
 -- url     : https://prove2.me/theorems/a25c4f4a-8d48-45ef-b51a-e93b5a27efa3
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BUP_thm1_orientation
 -- name    : BUP.thm1_orientation
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:29:19.54663+00:00
 -- url     : https://prove2.me/theorems/ae8d4db8-20de-4133-bb1f-f8b3a58dd032
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_equilibrium_unique
 -- name    : SupplyDemand.equilibrium_unique
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:28:44.595976+00:00
 -- url     : https://prove2.me/theorems/7da012b8-d1f2-4ae1-97e5-81d90d04e3f2
 -- title:

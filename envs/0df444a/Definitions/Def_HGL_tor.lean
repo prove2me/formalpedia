@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HGL_tor
 -- name    : HGL_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:07:20.890755+00:00
 -- url     : https://prove2.me/theorems/caa6831c-af8f-4bab-8eb7-b3560574ec53
 -- title:

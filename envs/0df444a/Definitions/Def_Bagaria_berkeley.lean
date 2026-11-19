@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Bagaria_berkeley
 -- name    : Bagaria_berkeley
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:06:31.611907+00:00
 -- url     : https://prove2.me/theorems/cdfae1fc-49b0-4ccd-a82c-4cca8458a272
 -- title:

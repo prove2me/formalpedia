@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GUT_standard_model_group
 -- name    : GUT_standard_model_group
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:32:27.94297+00:00
 -- url     : https://prove2.me/theorems/08e6d5d0-fb47-48fb-8707-85c1df737390
 -- title:

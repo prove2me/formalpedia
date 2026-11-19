@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SchinzelHypothesisH_schinzelCondition_of_small_primes
 -- name    : SchinzelHypothesisH.schinzelCondition_of_small_primes
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:02:34.972991+00:00
 -- url     : https://prove2.me/theorems/0fb43ae7-d8fc-4e04-91b5-0f0daf3e9cea
 -- title:

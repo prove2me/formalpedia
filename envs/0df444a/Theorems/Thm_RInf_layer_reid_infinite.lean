@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_layer_reid_infinite
 -- name    : RInf.layer_reid_infinite
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:29:27.34724+00:00
 -- url     : https://prove2.me/theorems/10601428-7c21-4686-8efb-32aeea8bbf25
 -- title:

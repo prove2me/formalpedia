@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShannonSecrecy_perfect_secrecy_entropy_msg_le_entropy_key
 -- name    : ShannonSecrecy.perfect_secrecy_entropy_msg_le_entropy_key
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T19:53:08.051521+00:00
 -- url     : https://prove2.me/theorems/8670689b-1f25-4edc-ad6e-77cbda09463b
 -- title:

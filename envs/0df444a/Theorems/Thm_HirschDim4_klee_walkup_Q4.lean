@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HirschDim4_klee_walkup_Q4
 -- name    : HirschDim4.klee_walkup_Q4
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T22:55:46.71999+00:00
 -- url     : https://prove2.me/theorems/56320385-bf1a-46be-b230-757a20a1b432
 -- title:

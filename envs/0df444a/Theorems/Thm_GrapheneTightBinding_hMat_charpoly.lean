@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrapheneTightBinding_hMat_charpoly
 -- name    : GrapheneTightBinding.hMat_charpoly
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T20:09:17.529975+00:00
 -- url     : https://prove2.me/theorems/a6edacfa-abe6-4c8f-a321-91a91481dfab
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_FCP_Jacobian
 -- name    : FCP_Jacobian
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T19:06:38.663322+00:00
 -- url     : https://prove2.me/theorems/26593d23-4f43-40b9-8dd0-de1a65c6b54b
 -- title:

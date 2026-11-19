@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_mmq_normal_system_minimizer
 -- name    : MetodosNumericos.mmq_normal_system_minimizer
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T16:54:51.867833+00:00
 -- url     : https://prove2.me/theorems/76e8bfc8-13a9-458f-b411-f5e198d6e263
 -- title:

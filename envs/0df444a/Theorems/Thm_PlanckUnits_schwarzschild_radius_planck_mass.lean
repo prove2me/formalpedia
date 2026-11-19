@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_schwarzschild_radius_planck_mass
 -- name    : PlanckUnits.schwarzschild_radius_planck_mass
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:39:56.753896+00:00
 -- url     : https://prove2.me/theorems/2a2175df-76b0-4151-81a8-3405218ce079
 -- title:

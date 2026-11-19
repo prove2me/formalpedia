@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gilbreath_second_column
 -- name    : Gilbreath.second_column
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:06:23.586698+00:00
 -- url     : https://prove2.me/theorems/9b122789-850c-40e4-9ea8-39ab4c7a29b7
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_albar_goncalves
 -- name    : HadwigerConj.albar_goncalves
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:31:31.218985+00:00
 -- url     : https://prove2.me/theorems/452bb462-de03-4c44-9f1a-f4be9a366a5e
 -- title:

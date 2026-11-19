@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_conj_eq_conj_iff
 -- name    : SiegelFields.conj_eq_conj_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:42:28.841859+00:00
 -- url     : https://prove2.me/theorems/a5a3084c-64c4-4955-840c-37b590754b79
 -- title:

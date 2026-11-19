@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NgoFL_transfer_factor_valuation
 -- name    : NgoFL.transfer_factor_valuation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:00:04.031168+00:00
 -- url     : https://prove2.me/theorems/f81fab56-5972-48a5-b7b3-37e00573011b
 -- title:

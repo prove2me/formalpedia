@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Erdos68_factorial_tail_sharp_window
 -- name    : Erdos68.factorial_tail_sharp_window
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T23:49:34.779831+00:00
 -- url     : https://prove2.me/theorems/78fd65b0-0496-4d08-a0f4-e9ca4cb4dd53
 -- title:

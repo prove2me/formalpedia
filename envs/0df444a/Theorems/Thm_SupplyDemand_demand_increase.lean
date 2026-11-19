@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_demand_increase
 -- name    : SupplyDemand.demand_increase
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:29:21.920096+00:00
 -- url     : https://prove2.me/theorems/40ca1b88-b742-4838-aaa3-2aada3cac377
 -- title:

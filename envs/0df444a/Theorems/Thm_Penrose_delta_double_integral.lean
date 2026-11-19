@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Penrose_delta_double_integral
 -- name    : Penrose.delta_double_integral
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-18T18:22:21.259662+00:00
 -- url     : https://prove2.me/theorems/fac2fde9-aea8-46f8-966c-8f19f7fab51c
 -- title:

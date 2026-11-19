@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyTimeFactorization_polytime_semiprime_factorization
 -- name    : PolyTimeFactorization.polytime_semiprime_factorization
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T16:13:36.506757+00:00
 -- url     : https://prove2.me/theorems/24cccb9e-b23a-4088-9ab3-7f29e627baca
 -- title:

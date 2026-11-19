@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CyclotomicEulerSystem_congruence_relation
 -- name    : CyclotomicEulerSystem.congruence_relation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:28:52.521616+00:00
 -- url     : https://prove2.me/theorems/87a08e94-91a8-4fd0-b884-130bc1b6553e
 -- title:

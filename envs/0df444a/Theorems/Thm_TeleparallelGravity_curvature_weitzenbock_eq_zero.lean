@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TeleparallelGravity_curvature_weitzenbock_eq_zero
 -- name    : TeleparallelGravity.curvature_weitzenbock_eq_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T22:39:56.479659+00:00
 -- url     : https://prove2.me/theorems/9cc7e483-2fdf-4b89-ad22-c71c43541965
 -- title:

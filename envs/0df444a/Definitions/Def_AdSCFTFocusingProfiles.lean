@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_AdSCFTFocusingProfiles
 -- name    : AdSCFTFocusingProfiles
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:37:32.882851+00:00
 -- url     : https://prove2.me/theorems/44144db4-55bf-41f6-80d2-a5367c5a2dbe
 -- title:

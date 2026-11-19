@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_corollary1_order2_SM_eigenpairs
 -- name    : STVFriedmann.corollary1_order2_SM_eigenpairs
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T01:57:55.623302+00:00
 -- url     : https://prove2.me/theorems/f6df7eca-54dc-4ef3-93ab-027dc7d9a122
 -- title:

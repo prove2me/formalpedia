@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RelPartMech_gSymbolUp_eq
 -- name    : RelPartMech.gSymbolUp_eq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:08:42.967391+00:00
 -- url     : https://prove2.me/theorems/de18c3b5-f139-43e6-8419-fd39265fef73
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PvsNP_exists_NPComplete
 -- name    : PvsNP.exists_NPComplete
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T03:54:36.346107+00:00
 -- url     : https://prove2.me/theorems/23a78933-b941-4308-b934-3b8380e844e1
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LonelyRunnerConjecture_tao_finite_checking
 -- name    : LonelyRunnerConjecture.tao_finite_checking
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-17T01:13:54.310208+00:00
 -- url     : https://prove2.me/theorems/3e7950d0-0fee-412e-96ac-d2f84d9bbcd5
 -- title:

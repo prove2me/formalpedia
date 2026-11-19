@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_candidate_residual_pos
 -- name    : OAI.UniversalTensorSquare.candidate_residual_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:20:45.506193+00:00
 -- url     : https://prove2.me/theorems/88d95f4a-131b-4064-8035-fbfc4edf9106

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Pade_pade_normalization
 -- name    : Pade.pade_normalization
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T10:53:21.638962+00:00
 -- url     : https://prove2.me/theorems/d3d2dd2d-713a-45de-9ec2-a775deebbb9d
 -- title:

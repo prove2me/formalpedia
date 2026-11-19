@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ManolescuPiccirillo_PD
 -- name    : ManolescuPiccirillo_PD
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:49:23.749578+00:00
 -- url     : https://prove2.me/theorems/19b862d4-6e4e-45e5-a51e-42f83d40c8c9
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_realIndex_eq_zero_iff
 -- name    : GeneralizedComplex.realIndex_eq_zero_iff
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:54:29.864763+00:00
 -- url     : https://prove2.me/theorems/f2a0489c-1fbc-45d7-a188-f9106cd20d4c
 -- title:

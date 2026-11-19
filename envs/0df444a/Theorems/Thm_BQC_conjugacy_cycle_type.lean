@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_conjugacy_cycle_type
 -- name    : BQC.conjugacy_cycle_type
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:28:50.239352+00:00
 -- url     : https://prove2.me/theorems/742e5a31-a428-472a-bd69-b7d31127ec71
 -- title:

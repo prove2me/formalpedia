@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Everyday_everyday_phase
 -- name    : Everyday.everyday_phase
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T00:18:26.923366+00:00
 -- url     : https://prove2.me/theorems/60a0d7f2-9e7e-4202-bd90-0385794e6065
 -- title:

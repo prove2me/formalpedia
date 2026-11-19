@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_covariantD_gauge_covariant
 -- name    : QED.covariantD_gauge_covariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:17:06.824635+00:00
 -- url     : https://prove2.me/theorems/bc9d0ad2-519f-480f-a7ef-029482315907
 -- title:

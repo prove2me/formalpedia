@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch05_taylor
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T14:39:09.290914+00:00
 -- url     : https://prove2.me/submissions/f71ecba0-6ccd-455d-bcd7-3e3129ea036c
 -- note    : a sketch -- it imports a theorem that is still Open,

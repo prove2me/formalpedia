@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_trigonometric_pi
 -- name    : Rudin.ch08_trigonometric_pi
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:19:32.657833+00:00
 -- url     : https://prove2.me/theorems/2a6333e6-b661-438d-b94b-ad79f2151117
 -- title:

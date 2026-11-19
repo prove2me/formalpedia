@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_manuscript_main_theorems_s2
 -- name    : OAI.Erdos3.manuscript_main_theorems_s2
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-28T22:36:43.187165+00:00
 -- url     : https://prove2.me/theorems/b1fafbf3-0d89-4df0-9df3-ddd304fbda4a
 -- title:

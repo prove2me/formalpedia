@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Diophantine_catalan_conjecture
 -- name    : FCP.Diophantine.catalan_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:43:01.020822+00:00
 -- url     : https://prove2.me/theorems/e4ef6874-6fa5-4362-9b9d-36e9dd4ddcab
 -- title:

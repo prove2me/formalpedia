@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_threeVector_norm_sq
 -- name    : SiegelFields.threeVector_norm_sq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T00:53:45.065976+00:00
 -- url     : https://prove2.me/theorems/790a6d0c-949c-427e-add4-0500f99bf982
 -- title:

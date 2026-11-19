@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_QED_qed_field_equations
 -- name    : QED.qed_field_equations
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:22:47.343325+00:00
 -- url     : https://prove2.me/theorems/422448be-5542-40da-9304-7d561a02e116
 -- title:

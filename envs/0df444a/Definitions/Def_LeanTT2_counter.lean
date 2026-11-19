@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LeanTT2_counter
 -- name    : LeanTT2_counter
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T02:15:45.992832+00:00
 -- url     : https://prove2.me/theorems/c028526c-ed31-4943-a6c8-1dd7c977742b
 -- title:

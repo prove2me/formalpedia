@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_union_volume_KTCW
 -- name    : WangZahlKakeya.union_volume_KTCW
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:16:08.786387+00:00
 -- url     : https://prove2.me/theorems/b6b719d6-2c14-46bf-9d56-16ef66221ea5
 -- title:

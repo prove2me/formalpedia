@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BQC_product_inclusion
 -- name    : BQC.product_inclusion
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:29:14.6207+00:00
 -- url     : https://prove2.me/theorems/a9ec738b-beed-47a7-ae14-3221fa7ca28f
 -- title:

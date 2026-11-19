@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ThomsonProblem.N7.slab_s93_90
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-10T01:14:19.401737+00:00
 -- url     : https://prove2.me/submissions/1e5eb915-27b4-4019-8870-6c4640771df9
 

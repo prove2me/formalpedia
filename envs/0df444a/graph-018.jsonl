@@ -11721,7 +11721,7 @@
 {"parent": "ClauseBound.ParityChecks.ArithOL.le_of_lt_n0", "child": "ClauseBound_TopN_Arith", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.ArithOL.le_of_lt_n0", "child": "ClauseBound_ParityChecks_TopDefs", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.ParityChecks.ArithOL.le_of_lt_n0", "child": "ClauseBound_TopN_Budget", "via": ["solution", "statement"]}
-{"parent": "VolunteerNotify.exAnte_feasible", "child": "VolunteerNotify_IsExAnte", "via": ["statement"]}
+{"parent": "VolunteerNotify.exAnte_feasible", "child": "VolunteerNotify_IsExAnte", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalNativeCompleteFrontend.complete", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryNativeCompleteFrontend", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalNativeCompleteFrontend.complete", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCanonicalNativeCompleteness.complete", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalNativeCompleteFrontend.complete", "child": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedNearCanonical.complete", "via": ["solution", "statement"]}
@@ -20639,8 +20639,8 @@
 {"parent": "ClauseBound_Alg_Level", "child": "ClauseBound_Alg_Interfaces", "via": ["statement"]}
 {"parent": "ClauseBound_Alg_Level", "child": "PaddedDescent_Col_Good", "via": ["statement"]}
 {"parent": "ClauseBound_Alg_Level", "child": "PaddedDescent_F_Interfaces", "via": ["statement"]}
-{"parent": "VolunteerNotify.display_17", "child": "VolunteerNotify_lpValue", "via": ["statement"]}
-{"parent": "VolunteerNotify.display_17", "child": "VolunteerNotify_IsDP", "via": ["statement"]}
+{"parent": "VolunteerNotify.display_17", "child": "VolunteerNotify_lpValue", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.display_17", "child": "VolunteerNotify_IsDP", "via": ["solution", "statement"]}
 {"parent": "Groundwork.query0_eq", "child": "StepMachines_Prog_Brute", "via": ["solution", "statement"]}
 {"parent": "Groundwork.query0_eq", "child": "StepMachines_Prog_Range", "via": ["solution", "statement"]}
 {"parent": "Groundwork.query0_eq", "child": "StepMachines_Prog_Chunks", "via": ["solution", "statement"]}
@@ -27321,7 +27321,7 @@
 {"parent": "Printed.achievable_of_eStar_lt", "child": "QueryMachines_Poly", "via": ["solution", "statement"]}
 {"parent": "Printed.achievable_of_eStar_lt", "child": "Paper.achievable_of_eStar_lt", "via": ["statement"]}
 {"parent": "RepGQML_AreEquivalent", "child": "RepGQML_IsEquivariant", "via": ["statement"]}
-{"parent": "VolunteerNotify.dual_feasibility", "child": "VolunteerNotify_lpValue", "via": ["statement"]}
+{"parent": "VolunteerNotify.dual_feasibility", "child": "VolunteerNotify_lpValue", "via": ["solution", "statement"]}
 {"parent": "Eight.ViaGrouping.Cost.run_clique", "child": "StepMachines_Math_RebalanceArith", "via": ["solution", "statement"]}
 {"parent": "Eight.ViaGrouping.Cost.run_clique", "child": "Eight_ViaGrouping_Main", "via": ["solution", "statement"]}
 {"parent": "Eight.ViaGrouping.Cost.run_clique", "child": "Eight_ViaGrouping_Search", "via": ["solution", "statement"]}
@@ -28518,9 +28518,9 @@
 {"parent": "Paper.levelK_ge", "child": "ToTuring_Poly_Comb", "via": ["solution", "statement"]}
 {"parent": "Paper.levelK_ge", "child": "ToTuring_Poly_Basic", "via": ["solution", "statement"]}
 {"parent": "OAIQ106E066", "child": "OAIQ106E000", "via": ["statement"]}
-{"parent": "VolunteerNotify.theorem_1", "child": "VolunteerNotify_Process", "via": ["statement"]}
-{"parent": "VolunteerNotify.theorem_1", "child": "VolunteerNotify_IsExAnte", "via": ["statement"]}
-{"parent": "VolunteerNotify.theorem_1", "child": "VolunteerNotify_IsDP", "via": ["statement"]}
+{"parent": "VolunteerNotify.theorem_1", "child": "VolunteerNotify_Process", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.theorem_1", "child": "VolunteerNotify_IsExAnte", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.theorem_1", "child": "VolunteerNotify_IsDP", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCoverScale.scale_pos", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverScale", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCoverScale.scale_pos", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalCoverScale.scale_pos", "child": "Submission_ThreeSum_LocalCoverBounds", "via": ["solution", "statement"]}
@@ -30063,8 +30063,8 @@
 {"parent": "Eight.Fact.sum_words_count", "child": "Eight_SecCrossing_Chunk", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_e_compensator_original_grid_pair_sum_measurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_e_compensator_original_grid_pair_sum_measurable", "child": "AvramDividend.Classical.avram_p2_d_future_intrinsic_marked_rectangle_measurable", "via": ["solution", "statement"]}
-{"parent": "VolunteerNotify.lemma_2", "child": "VolunteerNotify_Process", "via": ["statement"]}
-{"parent": "VolunteerNotify.lemma_2", "child": "VolunteerNotify_IsDP", "via": ["statement"]}
+{"parent": "VolunteerNotify.lemma_2", "child": "VolunteerNotify_Process", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.lemma_2", "child": "VolunteerNotify_IsDP", "via": ["solution", "statement"]}
 {"parent": "ReusableMatching.theorem_1_min_f", "child": "ReusableMatching_fBound", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaScoreScan.next", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaScoreScan", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalArenaScoreScan.next", "child": "ThreeSum.LightTernaryEulerScan.Stored.next", "via": ["statement"]}
@@ -39999,9 +39999,9 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryArenaPhase", "child": "ThreeSum.BlockRows.mem_flat", "via": ["statement"]}
 {"parent": "PiecesCounted.mem_ofPadded", "child": "PiecesCountedStatement", "via": ["solution", "statement"]}
 {"parent": "PiecesCounted.mem_ofPadded", "child": "PiecesCounted_PaddedData", "via": ["solution", "statement"]}
-{"parent": "VolunteerNotify.lemma_3", "child": "VolunteerNotify_f", "via": ["statement"]}
-{"parent": "VolunteerNotify.lemma_3", "child": "VolunteerNotify_lpValue", "via": ["statement"]}
-{"parent": "VolunteerNotify.lemma_3", "child": "VolunteerNotify_IsDP", "via": ["statement"]}
+{"parent": "VolunteerNotify.lemma_3", "child": "VolunteerNotify_f", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.lemma_3", "child": "VolunteerNotify_lpValue", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.lemma_3", "child": "VolunteerNotify_IsDP", "via": ["solution", "statement"]}
 {"parent": "DHRUniq_E2", "child": "DHRUniq_IsLQCC", "via": ["statement"]}
 {"parent": "DHRUniq_E2", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
 {"parent": "DHRUniq_E2", "child": "DHRUniq_BipartiteFunctional", "via": ["statement"]}
@@ -56062,9 +56062,9 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredProgramIdentity.reporting", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredPrefixCall", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredProgramIdentity.reporting", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryColoredProgramIdentity", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalColoredProgramIdentity.reporting", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
-{"parent": "VolunteerNotify.closing_step", "child": "VolunteerNotify_Process", "via": ["statement"]}
-{"parent": "VolunteerNotify.closing_step", "child": "VolunteerNotify_IsExAnte", "via": ["statement"]}
-{"parent": "VolunteerNotify.closing_step", "child": "VolunteerNotify_IsDP", "via": ["statement"]}
+{"parent": "VolunteerNotify.closing_step", "child": "VolunteerNotify_Process", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.closing_step", "child": "VolunteerNotify_IsExAnte", "via": ["solution", "statement"]}
+{"parent": "VolunteerNotify.closing_step", "child": "VolunteerNotify_IsDP", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.coeff_tw", "child": "GeneralPieces_GenF_Exp", "via": ["solution", "statement"]}
 {"parent": "CountKSat.CountTop.numSat_of_nil", "child": "Groundwork.PolyT.all", "via": ["solution", "statement"]}
 {"parent": "CountKSat.CountTop.numSat_of_nil", "child": "StepMachines_Prog_Sat", "via": ["solution", "statement"]}
@@ -66027,7 +66027,7 @@
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalTensorHeader.args_safe", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryTensorHeader", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalTensorHeader.args_safe", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.LightWeightedGlobalTensorHeader.args_safe", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_LightTernaryTensorDriverSyntax", "via": ["solution", "statement"]}
-{"parent": "VolunteerNotify.proposition_2", "child": "VolunteerNotify_IsExAnte", "via": ["statement"]}
+{"parent": "VolunteerNotify.proposition_2", "child": "VolunteerNotify_IsExAnte", "via": ["solution", "statement"]}
 {"parent": "Eight.Level.rho_pos", "child": "Eight_SecPseudocode_Levels", "via": ["solution", "statement"]}
 {"parent": "Eight.Level.rho_pos", "child": "Eight_Level_Defs", "via": ["solution", "statement"]}
 {"parent": "Eight.Level.rho_pos", "child": "SingleBitPieces_SecPseudocode_Levels", "via": ["solution", "statement"]}

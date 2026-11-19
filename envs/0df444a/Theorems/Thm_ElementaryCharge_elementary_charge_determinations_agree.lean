@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElementaryCharge_elementary_charge_determinations_agree
 -- name    : ElementaryCharge.elementary_charge_determinations_agree
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:49:51.058801+00:00
 -- url     : https://prove2.me/theorems/90081def-d0a8-4ae1-a0fa-594bd818064d
 -- title:

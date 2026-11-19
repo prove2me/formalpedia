@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ECDLP_bsgs
 -- name    : ECDLP.bsgs
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T23:45:23.81423+00:00
 -- url     : https://prove2.me/theorems/88140d96-3ccf-4476-a611-d61e28e085c6
 -- title:

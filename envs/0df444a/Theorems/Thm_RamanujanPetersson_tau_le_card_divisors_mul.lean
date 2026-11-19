@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_tau_le_card_divisors_mul
 -- name    : RamanujanPetersson.tau_le_card_divisors_mul
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:15:40.76743+00:00
 -- url     : https://prove2.me/theorems/3db8e1a5-b36b-4cd7-9e86-3eef7233146a
 -- title:

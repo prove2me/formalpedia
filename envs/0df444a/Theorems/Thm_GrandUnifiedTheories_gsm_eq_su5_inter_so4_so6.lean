@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_gsm_eq_su5_inter_so4_so6
 -- name    : GrandUnifiedTheories.gsm_eq_su5_inter_so4_so6
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:04:51.078357+00:00
 -- url     : https://prove2.me/theorems/d0bbdf17-32a9-4759-9dc7-81f3b77235fd
 -- title:

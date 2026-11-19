@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_SLA_energy_refined
 -- name    : GT.SLA.energy_refined
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:30:31.051387+00:00
 -- url     : https://prove2.me/theorems/1dc07f2f-67a7-4bda-b465-fd03d7a93544
 -- title:

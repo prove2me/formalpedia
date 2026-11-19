@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsStandardTheta_isBoundedAtImInfty_slash
 -- name    : QEC.Coding.TannerLiftedProduct.lpsStandardTheta_isBoundedAtImInfty_slash
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T00:19:57.73621+00:00
 -- url     : https://prove2.me/theorems/54ebd7e4-73c5-44e6-a407-e80bb35aed94

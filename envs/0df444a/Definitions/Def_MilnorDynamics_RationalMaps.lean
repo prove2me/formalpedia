@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MilnorDynamics_RationalMaps
 -- name    : MilnorDynamics_RationalMaps
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T10:39:04.832329+00:00
 -- url     : https://prove2.me/theorems/3ce00184-eb12-49c1-9d49-90339b2f9199
 -- title:

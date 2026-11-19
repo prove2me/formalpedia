@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AvogadroConstant_molarMass_mul_mole_eq_avogadroNumber_mul_mass
 -- name    : AvogadroConstant.molarMass_mul_mole_eq_avogadroNumber_mul_mass
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:14:31.611642+00:00
 -- url     : https://prove2.me/theorems/4783a232-1cd3-4979-b66c-52a8a9fe4101
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_cyclePattern_eq_decompositionType
 -- name    : ChebotarevDensity.cyclePattern_eq_decompositionType
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:15:56.372181+00:00
 -- url     : https://prove2.me/theorems/59df04b1-5706-49d2-819e-94e17ec47105
 -- title:

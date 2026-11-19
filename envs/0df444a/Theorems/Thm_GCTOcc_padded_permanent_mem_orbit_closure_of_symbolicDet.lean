@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GCTOcc_padded_permanent_mem_orbit_closure_of_symbolicDet
 -- name    : GCTOcc.padded_permanent_mem_orbit_closure_of_symbolicDet
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T17:12:42.146264+00:00
 -- url     : https://prove2.me/theorems/105856a3-ca68-40f1-85a2-7cdd9e0c3518
 -- title:

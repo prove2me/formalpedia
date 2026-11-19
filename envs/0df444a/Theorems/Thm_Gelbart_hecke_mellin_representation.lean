@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gelbart_hecke_mellin_representation
 -- name    : Gelbart.hecke_mellin_representation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T03:38:40.250588+00:00
 -- url     : https://prove2.me/theorems/85821f58-b8b3-42a2-b4b9-3b4d51ae6a65
 -- title:

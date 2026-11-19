@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_backgroundField_boundary_conditions
 -- name    : SenTachyon.backgroundField_boundary_conditions
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:03:30.406217+00:00
 -- url     : https://prove2.me/theorems/eb4bc6d0-32e4-4cda-992c-ab2aa6188889
 -- title:

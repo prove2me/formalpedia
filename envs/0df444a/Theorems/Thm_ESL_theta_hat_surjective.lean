@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ESL_theta_hat_surjective
 -- name    : ESL.theta_hat_surjective
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:07:48.390461+00:00
 -- url     : https://prove2.me/theorems/6a3586b3-cfde-45c3-bab9-6ba725eff275
 -- title:

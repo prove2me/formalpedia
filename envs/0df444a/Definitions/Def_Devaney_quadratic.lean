@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Devaney_quadratic
 -- name    : Devaney_quadratic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:10:24.597741+00:00
 -- url     : https://prove2.me/theorems/f2099906-bfe4-48d6-bfbb-095998e3fdcc
 -- title:

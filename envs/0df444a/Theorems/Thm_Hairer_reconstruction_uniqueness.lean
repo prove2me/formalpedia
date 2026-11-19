@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Hairer_reconstruction_uniqueness
 -- name    : Hairer.reconstruction_uniqueness
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:41:54.935147+00:00
 -- url     : https://prove2.me/theorems/8f729de3-895e-4de8-8f65-02af614c87af
 -- title:

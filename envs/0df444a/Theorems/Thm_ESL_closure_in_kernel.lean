@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ESL_closure_in_kernel
 -- name    : ESL.closure_in_kernel
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:10:32.610243+00:00
 -- url     : https://prove2.me/theorems/3a991b4a-9bde-4c07-90bb-69f5e9d5234b
 -- title:

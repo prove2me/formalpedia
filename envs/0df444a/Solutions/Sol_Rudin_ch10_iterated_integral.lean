@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch10_iterated_integral
 -- status  : ACCEPTED   (disprove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T04:34:16.50934+00:00
 -- url     : https://prove2.me/submissions/d765a43a-932a-4d4a-baee-2716c1ebc6aa
 

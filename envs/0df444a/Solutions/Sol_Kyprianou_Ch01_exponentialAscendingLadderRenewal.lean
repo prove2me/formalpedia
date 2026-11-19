@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.exponentialAscendingLadderRenewal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T01:02:04.942295+00:00
 -- url     : https://prove2.me/submissions/baa058b5-77fa-4a8e-8e66-caad9be7d32d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Distributions.Exponential
 import Mathlib.Analysis.Normed.Group.InfiniteSum

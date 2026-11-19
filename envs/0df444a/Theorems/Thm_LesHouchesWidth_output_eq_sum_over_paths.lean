@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_output_eq_sum_over_paths
 -- name    : LesHouchesWidth.output_eq_sum_over_paths
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:59:08.565982+00:00
 -- url     : https://prove2.me/theorems/c414b892-6380-4df5-8c71-bd069e02712f
 -- title:

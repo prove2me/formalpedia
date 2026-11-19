@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_scc_coordinate_framework
 -- name    : scc_coordinate_framework
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:00:20.926553+00:00
 -- url     : https://prove2.me/theorems/6701c81c-94f0-40c3-b80f-614f03738d86
 -- title:

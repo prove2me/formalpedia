@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SmoothPoincare4_no_exotic_smooth_four_sphere
 -- name    : SmoothPoincare4.no_exotic_smooth_four_sphere
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T10:51:26.647983+00:00
 -- url     : https://prove2.me/theorems/45330f85-54d5-4f3f-b005-bae142e1b74b
 -- title:

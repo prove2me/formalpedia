@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Conway99_conway_99_adjacency_matrix_exists
 -- name    : Conway99.conway_99_adjacency_matrix_exists
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T19:40:04.898422+00:00
 -- url     : https://prove2.me/theorems/c4d343fc-712e-432f-9820-bdb95039c39d
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SenTachyon_backgroundField_fieldStrength
 -- name    : SenTachyon.backgroundField_fieldStrength
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:19:36.4805+00:00
 -- url     : https://prove2.me/theorems/223785c8-d98e-4777-8127-bd4f9a877dd4
 -- title:

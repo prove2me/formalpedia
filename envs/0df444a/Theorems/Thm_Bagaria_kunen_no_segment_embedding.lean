@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Bagaria_kunen_no_segment_embedding
 -- name    : Bagaria.kunen_no_segment_embedding
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T23:12:40.177735+00:00
 -- url     : https://prove2.me/theorems/1e0fe656-d6c1-40bb-b8b8-ceb998307ce4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_potential
 -- name    : ray_potential
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:06:46.179842+00:00
 -- url     : https://prove2.me/theorems/d1cee5e0-68a7-4a76-94b2-74b8c65cab9f
 -- title:

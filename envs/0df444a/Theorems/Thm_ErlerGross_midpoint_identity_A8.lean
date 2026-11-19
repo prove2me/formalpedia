@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_midpoint_identity_A8
 -- name    : ErlerGross.midpoint_identity_A8
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:20:10.61538+00:00
 -- url     : https://prove2.me/theorems/9080718c-34a9-4bd9-86b9-e1f01bbd642b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ErlerGross_sum_inv_n_two_n_add_one
 -- name    : ErlerGross.sum_inv_n_two_n_add_one
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:36:54.091985+00:00
 -- url     : https://prove2.me/theorems/2fde15bc-d6f0-4268-abec-747d09cbc0d0
 -- title:

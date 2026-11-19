@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KeatingSnaith_cue_logAbsZ_variance_asymptotics
 -- name    : KeatingSnaith.cue_logAbsZ_variance_asymptotics
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T13:06:29.612063+00:00
 -- url     : https://prove2.me/theorems/206d92ed-1eaa-4c06-a89d-cbaead448efb
 -- title:

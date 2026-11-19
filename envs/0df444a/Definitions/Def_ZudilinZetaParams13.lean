@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ZudilinZetaParams13
 -- name    : ZudilinZetaParams13
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-22T17:53:16.019754+00:00
 -- url     : https://prove2.me/theorems/fe0a70fd-e440-445f-8245-366c2daad7bf
 -- title:

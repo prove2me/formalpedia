@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CouplingConstant_running_coupling_dichotomy
 -- name    : CouplingConstant.running_coupling_dichotomy
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:15:25.697062+00:00
 -- url     : https://prove2.me/theorems/fc962d8b-61f9-4692-b7e3-b51b84b47e66
 -- title:

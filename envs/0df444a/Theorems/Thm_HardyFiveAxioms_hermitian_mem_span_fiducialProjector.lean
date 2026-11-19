@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HardyFiveAxioms_hermitian_mem_span_fiducialProjector
 -- name    : HardyFiveAxioms.hermitian_mem_span_fiducialProjector
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T22:18:23.165318+00:00
 -- url     : https://prove2.me/theorems/c50cd8c9-595b-4f5a-9123-34c562ba4f1e
 -- title:

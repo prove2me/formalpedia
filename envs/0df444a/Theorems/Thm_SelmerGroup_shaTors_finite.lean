@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SelmerGroup_shaTors_finite
 -- name    : SelmerGroup.shaTors_finite
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T15:59:35.734151+00:00
 -- url     : https://prove2.me/theorems/1f858309-9345-43f7-aeb7-f2d7956f9d6b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_lee_d_squared
 -- name    : ManolescuPiccirillo.lee_d_squared
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:53:52.121197+00:00
 -- url     : https://prove2.me/theorems/d26e072d-d061-46ab-9a7e-bd3c452ef056
 -- title:

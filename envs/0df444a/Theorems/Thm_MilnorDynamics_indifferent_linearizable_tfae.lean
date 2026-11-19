@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_indifferent_linearizable_tfae
 -- name    : MilnorDynamics.indifferent_linearizable_tfae
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T11:08:01.312987+00:00
 -- url     : https://prove2.me/theorems/4d11515f-72ed-434e-b71d-420f01cce417
 -- title:

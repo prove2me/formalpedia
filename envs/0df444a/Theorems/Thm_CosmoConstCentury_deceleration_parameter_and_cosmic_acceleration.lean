@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CosmoConstCentury_deceleration_parameter_and_cosmic_acceleration
 -- name    : CosmoConstCentury.deceleration_parameter_and_cosmic_acceleration
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T14:47:15.222198+00:00
 -- url     : https://prove2.me/theorems/01e1aa40-65bd-4ab9-9fef-f2b0134f4868
 -- title:

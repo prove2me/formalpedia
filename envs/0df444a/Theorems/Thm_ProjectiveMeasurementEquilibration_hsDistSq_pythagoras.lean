@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_hsDistSq_pythagoras
 -- name    : ProjectiveMeasurementEquilibration.hsDistSq_pythagoras
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T14:46:29.768492+00:00
 -- url     : https://prove2.me/theorems/08dedc92-db7f-401a-b044-e77f4d9dc55d
 -- title:

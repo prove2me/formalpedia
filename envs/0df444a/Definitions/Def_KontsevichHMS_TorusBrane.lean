@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_KontsevichHMS_TorusBrane
 -- name    : KontsevichHMS_TorusBrane
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:50:51.470818+00:00
 -- url     : https://prove2.me/theorems/c31ff435-1720-4185-84f7-c6d3f8766d41
 -- title:

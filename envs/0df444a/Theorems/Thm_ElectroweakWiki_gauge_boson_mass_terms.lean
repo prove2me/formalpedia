@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_gauge_boson_mass_terms
 -- name    : ElectroweakWiki.gauge_boson_mass_terms
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T21:15:43.127778+00:00
 -- url     : https://prove2.me/theorems/ce70acbd-63f0-4519-b41a-4e5fa70424d7
 -- title:

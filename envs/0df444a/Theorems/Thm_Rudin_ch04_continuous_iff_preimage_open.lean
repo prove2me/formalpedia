@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch04_continuous_iff_preimage_open
 -- name    : Rudin.ch04_continuous_iff_preimage_open
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:04:35.081335+00:00
 -- url     : https://prove2.me/theorems/c468aa79-4ec9-440f-ba2b-5573d8ce821b
 -- title:

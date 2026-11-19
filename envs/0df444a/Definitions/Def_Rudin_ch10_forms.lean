@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch10_forms
 -- name    : Rudin_ch10_forms
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:06:23.890888+00:00
 -- url     : https://prove2.me/theorems/b8e7b436-f559-422b-9eba-28e37ef27f1b
 -- title:

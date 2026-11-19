@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_fast_scrambling_ends_at_q_over_N
 -- name    : DSSYKScales.fast_scrambling_ends_at_q_over_N
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T01:55:37.42637+00:00
 -- url     : https://prove2.me/theorems/a197f2c7-8761-437a-8f07-4f8617b85722
 -- title:

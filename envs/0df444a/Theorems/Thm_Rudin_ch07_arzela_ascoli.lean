@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch07_arzela_ascoli
 -- name    : Rudin.ch07_arzela_ascoli
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T00:21:30.955787+00:00
 -- url     : https://prove2.me/theorems/4a5af94e-9dbb-4214-861d-f3ef8cbdcec6
 -- title:

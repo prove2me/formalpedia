@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SMHiggsPotential_doubletNormSq_higgsDoublet
 -- name    : SMHiggsPotential.doubletNormSq_higgsDoublet
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T23:45:45.299085+00:00
 -- url     : https://prove2.me/theorems/3ae0d67c-2dd8-422d-a1fa-64e13ebc1f4d
 -- title:

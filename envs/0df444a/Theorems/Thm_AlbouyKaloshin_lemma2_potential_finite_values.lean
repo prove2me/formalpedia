@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_lemma2_potential_finite_values
 -- name    : AlbouyKaloshin.lemma2_potential_finite_values
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T21:13:11.439412+00:00
 -- url     : https://prove2.me/theorems/a95d2f20-ea77-4429-9d5b-8dc968ec987e
 -- title:

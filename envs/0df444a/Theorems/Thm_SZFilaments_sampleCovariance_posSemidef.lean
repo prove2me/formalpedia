@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SZFilaments_sampleCovariance_posSemidef
 -- name    : SZFilaments.sampleCovariance_posSemidef
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:46:16.396801+00:00
 -- url     : https://prove2.me/theorems/6d0bb03f-9026-4d62-9fd8-9530f0b3ae46
 -- title:

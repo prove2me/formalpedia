@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_kilogram_from_defining_constants
 -- name    : CaesiumStandard.kilogram_from_defining_constants
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T17:57:12.311291+00:00
 -- url     : https://prove2.me/theorems/905549cb-c203-4261-9431-01480748294d
 -- title:

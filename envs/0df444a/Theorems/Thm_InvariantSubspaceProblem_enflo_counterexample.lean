@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_enflo_counterexample
 -- name    : InvariantSubspaceProblem.enflo_counterexample
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T17:25:31.904408+00:00
 -- url     : https://prove2.me/theorems/b1545b0b-ec15-4966-8804-0dd86a5f84c1
 -- title:

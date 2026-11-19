@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_klein_gordon_energy_estimate
 -- name    : TegmarkDimensionality.klein_gordon_energy_estimate
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-02T09:35:40.2366+00:00
 -- url     : https://prove2.me/theorems/30efecdc-c904-4397-9cef-eb99a07a8980
 -- title:

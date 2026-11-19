@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KoideRelation_koide_matrix_form
 -- name    : KoideRelation.koide_matrix_form
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:45:56.27637+00:00
 -- url     : https://prove2.me/theorems/79be2fed-fcd9-4325-8bce-0e3d66e4a7ea
 -- title:

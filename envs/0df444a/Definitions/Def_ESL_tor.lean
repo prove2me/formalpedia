@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ESL_tor
 -- name    : ESL_tor
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T02:08:32.148005+00:00
 -- url     : https://prove2.me/theorems/36817749-a878-494f-a413-a4311d2a4f50
 -- title:

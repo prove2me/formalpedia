@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HolographicQuantumMatter_ScalarAdS
 -- name    : HolographicQuantumMatter_ScalarAdS
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:44:01.572385+00:00
 -- url     : https://prove2.me/theorems/bc149968-4e72-4a13-bcba-24d2942d527c
 -- title:

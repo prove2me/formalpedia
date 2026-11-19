@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_JechSetTheory_fodor
 -- name    : JechSetTheory.fodor
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T02:28:19.667768+00:00
 -- url     : https://prove2.me/theorems/0dcb610e-f3b3-4db1-86e2-2f82172574e4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Hairer_reconstruction_operator
 -- name    : Hairer.reconstruction_operator
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:43:07.534823+00:00
 -- url     : https://prove2.me/theorems/db310e6f-3fb9-4fd0-a864-08cd01425863
 -- title:

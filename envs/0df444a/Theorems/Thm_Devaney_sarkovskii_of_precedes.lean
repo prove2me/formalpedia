@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_sarkovskii_of_precedes
 -- name    : Devaney.sarkovskii_of_precedes
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T13:05:30.80922+00:00
 -- url     : https://prove2.me/theorems/8660bcac-8adb-4bee-beae-d15d6300f142
 -- title:

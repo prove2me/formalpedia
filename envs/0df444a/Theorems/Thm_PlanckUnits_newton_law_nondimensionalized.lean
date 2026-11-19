@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PlanckUnits_newton_law_nondimensionalized
 -- name    : PlanckUnits.newton_law_nondimensionalized
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T21:40:54.928627+00:00
 -- url     : https://prove2.me/theorems/9d98e7be-b970-49ec-bc7e-3c4200e7a53c
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Recurrence_growth_rates
 -- name    : PalmQueueing.Recurrence.growth_rates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T00:44:29.332986+00:00
 -- url     : https://prove2.me/theorems/0ed8bf9b-506a-4e3b-a46d-446b3b421fe1

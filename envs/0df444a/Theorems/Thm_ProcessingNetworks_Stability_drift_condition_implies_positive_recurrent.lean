@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_Stability_drift_condition_implies_positive_recurrent
 -- name    : ProcessingNetworks.Stability.drift_condition_implies_positive_recurrent
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:19:58.301397+00:00
 -- url     : https://prove2.me/theorems/62f645cb-ef46-440e-926a-53685adb5929

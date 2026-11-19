@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_isGalois_iff_galois_correspondence
 -- name    : GaloisFundamental.isGalois_iff_galois_correspondence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:55:29.055682+00:00
 -- url     : https://prove2.me/theorems/bb5dd5a3-1680-49c0-a847-a79e07e76bee
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_pure_braid_r_infinity
 -- name    : RInf.pure_braid_r_infinity
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:30:32.961901+00:00
 -- url     : https://prove2.me/theorems/1e764e40-66b3-4fc2-8b85-b61c997c4bb7
 -- title:

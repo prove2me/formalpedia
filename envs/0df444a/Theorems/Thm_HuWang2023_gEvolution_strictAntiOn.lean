@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HuWang2023_gEvolution_strictAntiOn
 -- name    : HuWang2023.gEvolution_strictAntiOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:44:42.978386+00:00
 -- url     : https://prove2.me/theorems/bfcad832-fffd-47a5-8894-1e4ed82f1ec4
 -- title:

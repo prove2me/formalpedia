@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyTimeFactorization_pollard_rho_collision
 -- name    : PolyTimeFactorization.pollard_rho_collision
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T16:13:10.678217+00:00
 -- url     : https://prove2.me/theorems/187a599d-fd77-4de0-affe-c2ae75d8ac0f
 -- title:

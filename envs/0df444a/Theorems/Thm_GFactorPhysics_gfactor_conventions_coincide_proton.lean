@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GFactorPhysics_gfactor_conventions_coincide_proton
 -- name    : GFactorPhysics.gfactor_conventions_coincide_proton
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:44:51.070585+00:00
 -- url     : https://prove2.me/theorems/459ee45d-ae93-4849-9a42-663b9b96d44b
 -- title:

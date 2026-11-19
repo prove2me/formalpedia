@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BQC_alg
 -- name    : BQC_alg
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T23:11:17.422055+00:00
 -- url     : https://prove2.me/theorems/f01a2adf-ad6b-4cdf-93a5-c7cd320e3ae2
 -- title:

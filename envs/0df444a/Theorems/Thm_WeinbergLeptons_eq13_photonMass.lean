@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_eq13_photonMass
 -- name    : WeinbergLeptons.eq13_photonMass
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T17:50:23.199118+00:00
 -- url     : https://prove2.me/theorems/9ee23ab0-b37f-48e8-b34e-5d700ef41e47
 -- title:

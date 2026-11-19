@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistLTLSynth_Char_section_3_2_minsky
 -- name    : DistLTLSynth.Char.section_3_2_minsky
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:15:40.568569+00:00
 -- url     : https://prove2.me/theorems/735e3421-5070-49c5-9924-ab1be7bb3ae7

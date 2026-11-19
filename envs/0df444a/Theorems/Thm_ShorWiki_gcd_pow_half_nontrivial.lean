@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ShorWiki_gcd_pow_half_nontrivial
 -- name    : ShorWiki.gcd_pow_half_nontrivial
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T03:00:05.088988+00:00
 -- url     : https://prove2.me/theorems/e20ecf58-1ede-4005-9928-d2b966c7c533
 -- title:

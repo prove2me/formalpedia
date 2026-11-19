@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ThresholdTheorem_level_k_concatenated_simulation
 -- name    : ThresholdTheorem.level_k_concatenated_simulation
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T01:02:17.435511+00:00
 -- url     : https://prove2.me/theorems/6d175c37-2a54-43c5-89c0-14cf15f2cfd5
 -- title:

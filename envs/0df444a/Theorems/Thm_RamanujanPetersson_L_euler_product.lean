@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_L_euler_product
 -- name    : RamanujanPetersson.L_euler_product
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T16:20:18.305808+00:00
 -- url     : https://prove2.me/theorems/05e7e8e6-265a-41a4-8961-f91493e799e4
 -- title:

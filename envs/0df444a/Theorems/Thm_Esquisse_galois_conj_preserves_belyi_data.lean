@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Esquisse_galois_conj_preserves_belyi_data
 -- name    : Esquisse.galois_conj_preserves_belyi_data
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:55:23.974086+00:00
 -- url     : https://prove2.me/theorems/90f8e41d-8e39-480b-bae3-18ff755fb7d7
 -- title:

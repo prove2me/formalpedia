@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSS.poly_system_equiv_quadratic_system
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T22:00:16.699003+00:00
 -- url     : https://prove2.me/submissions/8ef22141-942e-4698-b186-efbecc65e88d
 

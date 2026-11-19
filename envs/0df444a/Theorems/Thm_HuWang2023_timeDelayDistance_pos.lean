@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HuWang2023_timeDelayDistance_pos
 -- name    : HuWang2023.timeDelayDistance_pos
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T00:42:30.809199+00:00
 -- url     : https://prove2.me/theorems/fe471339-dce4-4078-97b9-4610addf9db9
 -- title:

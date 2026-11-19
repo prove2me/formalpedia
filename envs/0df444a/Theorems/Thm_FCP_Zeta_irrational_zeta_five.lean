@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FCP_Zeta_irrational_zeta_five
 -- name    : FCP.Zeta.irrational_zeta_five
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T20:53:34.80769+00:00
 -- url     : https://prove2.me/theorems/a4144d86-de86-4054-ad60-7b9a8f1c85a3
 -- title:

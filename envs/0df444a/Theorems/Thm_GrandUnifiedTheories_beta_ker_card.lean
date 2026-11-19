@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GrandUnifiedTheories_beta_ker_card
 -- name    : GrandUnifiedTheories.beta_ker_card
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T00:58:17.567248+00:00
 -- url     : https://prove2.me/theorems/0761668c-2857-4171-8ac0-c479a3a639c9
 -- title:

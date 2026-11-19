@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SiegelFields_sq_eq_trace_smul_sub_det
 -- name    : SiegelFields.sq_eq_trace_smul_sub_det
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T01:20:18.447252+00:00
 -- url     : https://prove2.me/theorems/86b45e17-ae1d-4d99-b350-1145447c78a3
 -- title:

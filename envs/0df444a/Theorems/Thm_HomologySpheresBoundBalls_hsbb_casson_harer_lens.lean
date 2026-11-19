@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_casson_harer_lens
 -- name    : HomologySpheresBoundBalls.hsbb_casson_harer_lens
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:20:42.598554+00:00
 -- url     : https://prove2.me/theorems/011d0dca-1646-4430-a2ad-c8d79c7976e0
 -- title:

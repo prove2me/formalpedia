@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LorentzFactor_gamma_strictMonoOn
 -- name    : LorentzFactor.gamma_strictMonoOn
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T19:52:43.420985+00:00
 -- url     : https://prove2.me/theorems/3d7b8796-f60e-4217-8fae-944f488b3e2b
 -- title:

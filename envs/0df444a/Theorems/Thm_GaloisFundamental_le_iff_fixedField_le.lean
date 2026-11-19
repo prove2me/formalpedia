@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_le_iff_fixedField_le
 -- name    : GaloisFundamental.le_iff_fixedField_le
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T00:03:44.822548+00:00
 -- url     : https://prove2.me/theorems/a13d86dd-f39c-4f53-b7ab-26a8ef741ad1
 -- title:

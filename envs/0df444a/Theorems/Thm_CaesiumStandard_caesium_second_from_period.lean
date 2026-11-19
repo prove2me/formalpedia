@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CaesiumStandard_caesium_second_from_period
 -- name    : CaesiumStandard.caesium_second_from_period
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T16:12:38.378693+00:00
 -- url     : https://prove2.me/theorems/4ce76aac-b8a5-4e1c-84d0-e96f5b8a9f9f
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DeepLearningTheory_gaussian_four_point
 -- name    : DeepLearningTheory.gaussian_four_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T21:34:47.326573+00:00
 -- url     : https://prove2.me/theorems/e9437fad-cd5d-4095-b537-ed3bc75cc877
 -- title:

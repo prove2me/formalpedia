@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CH_ZFC
 -- name    : CH_ZFC
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T22:23:42.198739+00:00
 -- url     : https://prove2.me/theorems/4dbb2cc3-35dc-4451-a66a-21cd78b7da5c
 -- title:

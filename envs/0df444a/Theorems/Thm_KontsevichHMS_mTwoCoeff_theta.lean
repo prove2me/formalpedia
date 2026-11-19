@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_mTwoCoeff_theta
 -- name    : KontsevichHMS.mTwoCoeff_theta
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T03:05:44.465894+00:00
 -- url     : https://prove2.me/theorems/4aea63be-fd56-4c21-8752-0abf8f4387f6
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ChatterjeeQFT_single_particle_spaces_poincare_invariant
 -- name    : ChatterjeeQFT.single_particle_spaces_poincare_invariant
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T21:43:19.028026+00:00
 -- url     : https://prove2.me/theorems/bd7ca1ae-8ce3-409a-9376-db733d0d201f
 -- title:

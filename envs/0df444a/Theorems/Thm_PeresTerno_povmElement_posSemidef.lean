@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PeresTerno_povmElement_posSemidef
 -- name    : PeresTerno.povmElement_posSemidef
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-05T00:39:18.559011+00:00
 -- url     : https://prove2.me/theorems/d663bc71-3cc3-4c36-84b5-752aacd8d7b5
 -- title:

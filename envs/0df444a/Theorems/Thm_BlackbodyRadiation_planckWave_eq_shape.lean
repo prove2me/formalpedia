@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BlackbodyRadiation_planckWave_eq_shape
 -- name    : BlackbodyRadiation.planckWave_eq_shape
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-19T18:37:37.445837+00:00
 -- url     : https://prove2.me/theorems/2bba2f77-79b0-4455-8fc9-1ecebffb5c52
 -- title:

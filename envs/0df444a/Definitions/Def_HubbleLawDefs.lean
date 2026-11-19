@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HubbleLawDefs
 -- name    : HubbleLawDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T04:48:54.575831+00:00
 -- url     : https://prove2.me/theorems/c1418e84-8c47-4add-aa84-65c5487bee24
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FRV_outer_independent
 -- name    : FRV.outer_independent
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T20:09:25.92629+00:00
 -- url     : https://prove2.me/theorems/4643aea9-e8b4-484c-b55a-c9e40739b579
 -- title:

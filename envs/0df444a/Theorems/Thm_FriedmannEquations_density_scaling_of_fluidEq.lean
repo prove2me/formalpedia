@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_density_scaling_of_fluidEq
 -- name    : FriedmannEquations.density_scaling_of_fluidEq
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T22:53:35.957987+00:00
 -- url     : https://prove2.me/theorems/25ac882a-358d-40bd-8419-087e192f7153
 -- title:

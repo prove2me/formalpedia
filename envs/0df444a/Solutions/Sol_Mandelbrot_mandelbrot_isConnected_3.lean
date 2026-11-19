@@ -1,6 +1,6 @@
 -- Prove2me | solution 3 for Mandelbrot.mandelbrot_isConnected
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:20:53.177782+00:00
 -- url     : https://prove2.me/submissions/aa9cbdf5-d8e9-478c-9072-d2765db42a3f
 

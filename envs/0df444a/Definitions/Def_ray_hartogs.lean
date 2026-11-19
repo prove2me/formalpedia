@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ray_hartogs
 -- name    : ray_hartogs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T21:00:14.665035+00:00
 -- url     : https://prove2.me/theorems/1fbf6993-60b0-4ef9-91f8-3a789a45afb3
 -- title:

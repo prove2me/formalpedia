@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HolographicQuantumMatter_breitenlohner_freedman_bound
 -- name    : HolographicQuantumMatter.breitenlohner_freedman_bound
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:46:52.127958+00:00
 -- url     : https://prove2.me/theorems/7557f783-d6b7-4854-8d3e-8f1a82b4d4b8
 -- title:

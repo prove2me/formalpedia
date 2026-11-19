@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RelPartMech_poisson_velocities
 -- name    : RelPartMech.poisson_velocities
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T23:11:19.662406+00:00
 -- url     : https://prove2.me/theorems/25c4aa15-b5ed-4f12-8af4-6e0f83bc44d1
 -- title:

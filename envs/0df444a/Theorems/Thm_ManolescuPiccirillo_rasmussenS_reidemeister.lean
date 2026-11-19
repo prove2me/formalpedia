@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ManolescuPiccirillo_rasmussenS_reidemeister
 -- name    : ManolescuPiccirillo.rasmussenS_reidemeister
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-11-16T18:56:47.465009+00:00
 -- url     : https://prove2.me/theorems/acd9096a-997c-4f2d-934e-9a29b62784ce
 -- title:

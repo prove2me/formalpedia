@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_GrothendieckConstantDefs
 -- name    : GrothendieckConstantDefs
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:15:45.457032+00:00
 -- url     : https://prove2.me/theorems/f5d1954c-2176-44d4-b3e5-49cfd14a484a
 -- title:

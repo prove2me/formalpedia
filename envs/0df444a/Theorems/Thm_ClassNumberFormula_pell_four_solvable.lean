@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_pell_four_solvable
 -- name    : ClassNumberFormula.pell_four_solvable
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:54:46.033264+00:00
 -- url     : https://prove2.me/theorems/7bc7258b-0df3-4f95-b392-c6b8c6585d4f
 -- title:

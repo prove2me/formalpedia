@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_hasGradientAt_pointPotential
 -- name    : NewtonGravitation.hasGradientAt_pointPotential
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-27T17:43:21.417142+00:00
 -- url     : https://prove2.me/theorems/295b8e66-67cf-491f-a0ec-878d8e89f0fc
 -- title:

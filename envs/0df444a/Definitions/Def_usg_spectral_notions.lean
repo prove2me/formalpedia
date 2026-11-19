@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_usg_spectral_notions
 -- name    : usg_spectral_notions
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T04:23:13.984934+00:00
 -- url     : https://prove2.me/theorems/87ed555a-633a-4b72-aaf4-0a0a013b4df8
 -- title:

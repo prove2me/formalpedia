@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Rudin_ch08_pointwise_convergence
 -- name    : Rudin.ch08_pointwise_convergence
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:28:20.1211+00:00
 -- url     : https://prove2.me/theorems/598565cd-fdcc-4d7d-8f37-34ab73aae8ba
 -- title:

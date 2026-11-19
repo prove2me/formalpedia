@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_unbounded_monotone_integrator_criterion
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T17:09:37.021349+00:00
 -- url     : https://prove2.me/submissions/e9093221-970c-4aac-9abb-4327b68b58f2
 

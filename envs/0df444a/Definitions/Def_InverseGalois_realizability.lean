@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_InverseGalois_realizability
 -- name    : InverseGalois_realizability
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T02:00:45.075983+00:00
 -- url     : https://prove2.me/theorems/f0e6f063-dde1-4682-bca8-bb78b5931b1c
 -- title:

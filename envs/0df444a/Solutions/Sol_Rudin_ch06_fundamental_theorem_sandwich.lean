@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_fundamental_theorem_sandwich
 -- status  : ACCEPTED   (prove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T20:50:26.926977+00:00
 -- url     : https://prove2.me/submissions/13f2ed6b-a460-45f8-a2f4-1016ea62c217
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanOnlyProphet_lemma_A_7
 -- name    : MeanOnlyProphet.lemma_A_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T03:22:03.562686+00:00
 -- url     : https://prove2.me/theorems/d1d85fcb-380f-40e2-8cb1-2e3389b96da0

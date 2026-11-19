@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_KTCW_pos
 -- name    : WangZahlKakeya.KTCW_pos
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T15:04:03.482842+00:00
 -- url     : https://prove2.me/theorems/2d56016a-4626-4b45-9683-cf7bcc2bb3ad
 -- title:

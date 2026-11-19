@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GT_u3_back
 -- name    : GT.u3_back
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T10:31:00.848792+00:00
 -- url     : https://prove2.me/theorems/0b7221d2-1d72-4f38-821f-bf961e1ed1c9
 -- title:

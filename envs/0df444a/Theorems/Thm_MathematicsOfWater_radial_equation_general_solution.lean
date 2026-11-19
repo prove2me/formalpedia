@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MathematicsOfWater_radial_equation_general_solution
 -- name    : MathematicsOfWater.radial_equation_general_solution
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:34:42.745473+00:00
 -- url     : https://prove2.me/theorems/50851834-5d1f-4511-9535-27ee29b18ff9
 -- title:

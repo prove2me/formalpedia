@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_HeathcoteUnbounded_PositionDomain
 -- name    : HeathcoteUnbounded_PositionDomain
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-13T14:33:36.990921+00:00
 -- url     : https://prove2.me/theorems/dc1f0ebc-204b-4e35-aa97-a23e73612247
 -- title:

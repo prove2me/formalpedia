@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_NewMinimalStandardModel_exists_massless_neutrino
 -- name    : NewMinimalStandardModel.exists_massless_neutrino
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-04T15:31:59.851314+00:00
 -- url     : https://prove2.me/theorems/f6832cf0-8fc0-4276-a1b9-dabbfb911d64
 -- title:

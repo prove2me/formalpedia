@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_appendix_A_gives_eqs_2_2_to_2_4
 -- name    : PereiraGuimaraesElko.appendix_A_gives_eqs_2_2_to_2_4
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-12T12:49:24.160998+00:00
 -- url     : https://prove2.me/theorems/e938f641-fb53-43bf-8c67-c96ca28c0f79
 -- title:

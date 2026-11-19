@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDC_witness_criterion
 -- name    : SDC.witness_criterion
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T09:25:48.014376+00:00
 -- url     : https://prove2.me/theorems/74ff33fb-296d-4b06-9e76-2b06df1fe88f
 -- title:

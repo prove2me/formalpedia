@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DirS_asym_sid_graphon
 -- name    : DirS.asym_sid_graphon
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T21:25:17.152051+00:00
 -- url     : https://prove2.me/theorems/638b831e-4568-44e4-b74e-0cd87efb0ac3
 -- title:

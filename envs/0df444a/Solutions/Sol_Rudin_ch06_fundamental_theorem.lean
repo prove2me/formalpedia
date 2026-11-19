@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Rudin.ch06_fundamental_theorem
 -- status  : ACCEPTED   (disprove)
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-18T18:28:24.498818+00:00
 -- url     : https://prove2.me/submissions/6f1db7e3-fe4f-4d72-a1b7-4906ee17e051
 

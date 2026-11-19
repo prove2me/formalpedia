@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_theorem_2_1
 -- name    : PrivateAgnosticHalfspace.Gaussian.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T11:24:31.649733+00:00
 -- url     : https://prove2.me/theorems/913a6178-373d-4dc9-8296-f1899b19b16c

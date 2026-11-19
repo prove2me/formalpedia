@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_einsteinTensor_symm
 -- name    : EinsteinFieldEquationsD.einsteinTensor_symm
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:11:33.747121+00:00
 -- url     : https://prove2.me/theorems/be11952b-6b75-4561-a1d6-2b169919b96a
 -- title:

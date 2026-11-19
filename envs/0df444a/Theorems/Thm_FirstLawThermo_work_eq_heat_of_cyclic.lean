@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_work_eq_heat_of_cyclic
 -- name    : FirstLawThermo.work_eq_heat_of_cyclic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:53:34.561585+00:00
 -- url     : https://prove2.me/theorems/22eb26cc-21ef-4268-849d-4dae493b1d62
 -- title:

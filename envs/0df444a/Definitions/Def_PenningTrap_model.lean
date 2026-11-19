@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_PenningTrap_model
 -- name    : PenningTrap_model
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:02:57.008987+00:00
 -- url     : https://prove2.me/theorems/29652d48-fe6a-4839-b271-5adbd061f983
 -- title:

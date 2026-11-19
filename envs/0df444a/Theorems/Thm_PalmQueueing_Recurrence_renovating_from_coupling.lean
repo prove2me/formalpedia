@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Recurrence_renovating_from_coupling
 -- name    : PalmQueueing.Recurrence.renovating_from_coupling
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-02T00:35:51.61862+00:00
 -- url     : https://prove2.me/theorems/fd019047-dd64-4b17-b9a9-2bede901cfdf

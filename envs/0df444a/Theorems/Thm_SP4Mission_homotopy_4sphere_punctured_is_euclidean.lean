@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SP4Mission_homotopy_4sphere_punctured_is_euclidean
 -- name    : SP4Mission.homotopy_4sphere_punctured_is_euclidean
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-11T14:21:26.28174+00:00
 -- url     : https://prove2.me/theorems/caec5b7d-3d9a-4c23-ab69-6f6218b63945
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_omega_unitary
 -- name    : HooftMonopole.omega_unitary
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T19:54:26.550947+00:00
 -- url     : https://prove2.me/theorems/ffe678af-e99a-40b6-8400-d9b4f23e232f
 -- title:

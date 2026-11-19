@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Esquisse_normalized_belyi_polynomials_finite
 -- name    : Esquisse.normalized_belyi_polynomials_finite
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-13T21:56:11.46482+00:00
 -- url     : https://prove2.me/theorems/b78227e1-f902-4941-b64a-2ec883ff4f0e
 -- title:

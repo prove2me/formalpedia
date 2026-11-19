@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_CoulombGauss_basic
 -- name    : CoulombGauss_basic
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T18:03:28.559275+00:00
 -- url     : https://prove2.me/theorems/5acf8fce-0d27-409a-b19b-b36edd8480d4
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HairerSPDE_cameronMartinNorm_of_covariance_repr
 -- name    : HairerSPDE.cameronMartinNorm_of_covariance_repr
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T21:18:02.822403+00:00
 -- url     : https://prove2.me/theorems/f111d327-86c6-405e-8f81-433c9560700e
 -- title:

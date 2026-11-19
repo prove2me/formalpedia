@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_FSW_card_lower
 -- name    : WangZahlKakeya.FSW_card_lower
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T14:46:58.68039+00:00
 -- url     : https://prove2.me/theorems/66585d34-f61a-4540-8f48-24088f4404ad
 -- title:

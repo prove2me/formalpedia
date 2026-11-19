@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Def_CAH21_SparsityInLevels
 -- name    : Def_CAH21_SparsityInLevels
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-30T17:10:54.020032+00:00
 -- url     : https://prove2.me/theorems/925cb997-934f-466f-a2d9-50605d2369d0
 -- title:

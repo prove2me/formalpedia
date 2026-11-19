@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ValuativeSYZ_thm_1_8_weak_comparison_of_valuative_independence
 -- name    : ValuativeSYZ.thm_1_8_weak_comparison_of_valuative_independence
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T11:17:20.258251+00:00
 -- url     : https://prove2.me/theorems/da1be9b1-0d0c-451f-9a66-021aec723440
 -- title:

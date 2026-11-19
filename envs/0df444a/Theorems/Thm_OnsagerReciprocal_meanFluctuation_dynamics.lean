@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OnsagerReciprocal_meanFluctuation_dynamics
 -- name    : OnsagerReciprocal.meanFluctuation_dynamics
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-09T21:59:18.248106+00:00
 -- url     : https://prove2.me/theorems/eabd7283-49d8-47b2-a1c1-6464b9653a5d
 -- title:

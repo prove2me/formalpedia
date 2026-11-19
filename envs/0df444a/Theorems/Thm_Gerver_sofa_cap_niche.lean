@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Gerver_sofa_cap_niche
 -- name    : Gerver.sofa_cap_niche
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-19T20:10:18.648265+00:00
 -- url     : https://prove2.me/theorems/201ccc6e-c23b-4c68-b737-956e7172dafa
 -- title:

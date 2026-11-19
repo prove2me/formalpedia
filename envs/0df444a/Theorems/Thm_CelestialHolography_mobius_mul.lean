@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_mobius_mul
 -- name    : CelestialHolography.mobius_mul
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T02:06:21.655833+00:00
 -- url     : https://prove2.me/theorems/b2b8d286-0940-4024-8f27-6557cc2463d9
 -- title:

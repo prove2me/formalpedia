@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LambdaCDM_age_eq_log
 -- name    : LambdaCDM.age_eq_log
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T02:54:35.705752+00:00
 -- url     : https://prove2.me/theorems/f591e26e-442a-4e20-88b6-4d325a25e740
 -- title:

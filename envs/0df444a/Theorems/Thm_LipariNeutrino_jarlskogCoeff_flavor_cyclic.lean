@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LipariNeutrino_jarlskogCoeff_flavor_cyclic
 -- name    : LipariNeutrino.jarlskogCoeff_flavor_cyclic
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T11:28:50.41411+00:00
 -- url     : https://prove2.me/theorems/02221d20-cc35-489d-94ca-1370880d5102
 -- title:

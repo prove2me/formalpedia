@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_StrongCosmicCensorship_timelike_complete_globally_hyperbolic_c0_inextendible
 -- name    : StrongCosmicCensorship.timelike_complete_globally_hyperbolic_c0_inextendible
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T02:01:01.428794+00:00
 -- url     : https://prove2.me/theorems/65845fdf-356a-40d2-ba65-5ecf4393714c
 -- title:

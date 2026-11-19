@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealPinwheel_FiveSixths_checked_P9_009
 -- name    : RealPinwheel.FiveSixths.checked_P9_009
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T05:49:59.078554+00:00
 -- url     : https://prove2.me/theorems/dea8a800-d1a9-4a4f-914e-032ec95e4bef

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_LeanTT2_spec
 -- name    : LeanTT2_spec
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-21T02:15:16.018608+00:00
 -- url     : https://prove2.me/theorems/6d723e72-e883-49f6-ba5b-80809876f1ef
 -- title:

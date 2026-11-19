@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_s_algebra_lie
 -- name    : CelestialWedge.s_algebra_lie
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T03:27:33.62207+00:00
 -- url     : https://prove2.me/theorems/943bf12f-10d5-4fb2-8a78-a0da4c209d5b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ParticleInARing_eigenstate_normalized
 -- name    : ParticleInARing.eigenstate_normalized
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T01:29:21.416991+00:00
 -- url     : https://prove2.me/theorems/7d31c5cb-e5a2-4842-a4e5-b7ef43e0fc58
 -- title:

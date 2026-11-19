@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BSS_feas4_np_hard
 -- name    : BSS.feas4_np_hard
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T15:14:09.082927+00:00
 -- url     : https://prove2.me/theorems/70f41ee1-4710-40c1-b37e-e8445bb38fe5
 -- title:

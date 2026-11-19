@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_RSF_cat
 -- name    : RSF_cat
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-23T02:18:32.991162+00:00
 -- url     : https://prove2.me/theorems/60e853f4-0b47-42c4-b9b7-c4ee21068df1
 -- title:

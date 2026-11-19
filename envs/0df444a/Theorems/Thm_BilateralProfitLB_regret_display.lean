@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralProfitLB_regret_display
 -- name    : BilateralProfitLB.regret_display
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-13T19:19:19.051836+00:00
 -- url     : https://prove2.me/theorems/d4452858-4c74-4e28-880b-e98b89f039a0

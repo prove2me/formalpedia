@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AhlforsComplexAnalysis_exists_log_and_root
 -- name    : AhlforsComplexAnalysis.exists_log_and_root
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T04:45:47.369214+00:00
 -- url     : https://prove2.me/theorems/3ad33487-b851-4a36-aa40-deef38e6f753
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PrivateAgnosticHalfspace.Gaussian.theorem_2_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T05:41:48.224041+00:00
 -- url     : https://prove2.me/submissions/bf5c6eef-5c4c-4d03-a7b1-5ea2a1310176
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_ordered_regression_learning
 import Theorems.Thm_PrivateAgnosticHalfspace_Gaussian_ordered_regression_programs

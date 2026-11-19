@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_rational_root
 -- name    : MetodosNumericos.rational_root
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:15:00.766984+00:00
 -- url     : https://prove2.me/theorems/eaa3ccb6-8857-4581-8dfa-7f9093208dd1
 -- title:

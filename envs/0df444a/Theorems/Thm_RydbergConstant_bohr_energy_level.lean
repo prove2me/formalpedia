@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RydbergConstant_bohr_energy_level
 -- name    : RydbergConstant.bohr_energy_level
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T20:24:40.359812+00:00
 -- url     : https://prove2.me/theorems/0669f12f-464a-4bb9-86b3-be691272f04c
 -- title:

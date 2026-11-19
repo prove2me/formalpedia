@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_ghz_no_deterministic_assignment
 -- name    : DrezetGHZ.ghz_no_deterministic_assignment
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T19:53:03.28895+00:00
 -- url     : https://prove2.me/theorems/07ee7160-f697-45c4-b8b1-9c806a5a5d4d
 -- title:

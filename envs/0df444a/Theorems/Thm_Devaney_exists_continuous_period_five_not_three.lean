@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Devaney_exists_continuous_period_five_not_three
 -- name    : Devaney.exists_continuous_period_five_not_three
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-14T10:47:47.926858+00:00
 -- url     : https://prove2.me/theorems/c5a65319-a50e-4d13-ae9c-bd6d66d13331
 -- title:

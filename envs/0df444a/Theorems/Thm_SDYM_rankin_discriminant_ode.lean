@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SDYM_rankin_discriminant_ode
 -- name    : SDYM.rankin_discriminant_ode
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T01:51:43.310973+00:00
 -- url     : https://prove2.me/theorems/305bc88f-11e5-4db4-b4fa-cb0091d86689
 -- title:

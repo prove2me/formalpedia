@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Schanuel_schanuel_conjecture
 -- name    : Schanuel.schanuel_conjecture
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-15T17:28:53.41353+00:00
 -- url     : https://prove2.me/theorems/604f4a66-9bc5-4f30-8d7f-89c744b5d1b1
 -- title:

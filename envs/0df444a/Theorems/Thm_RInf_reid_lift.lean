@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_RInf_reid_lift
 -- name    : RInf.reid_lift
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-22T00:26:10.674707+00:00
 -- url     : https://prove2.me/theorems/2e9301d1-d97a-4b28-8e0f-72f22084887a
 -- title:

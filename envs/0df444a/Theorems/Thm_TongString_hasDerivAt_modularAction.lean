@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_TongString_hasDerivAt_modularAction
 -- name    : TongString.hasDerivAt_modularAction
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T21:01:45.811731+00:00
 -- url     : https://prove2.me/theorems/c641fb4c-7283-4938-a78f-7ba8e20ff93c
 -- title:

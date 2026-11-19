@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumBipartiteTesting_Bipartiteness_proposition_3_10
 -- name    : QuantumBipartiteTesting.Bipartiteness.proposition_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:13:05.050231+00:00
 -- url     : https://prove2.me/theorems/c13eb8a7-cb3b-4a19-9ede-2b400434bacd

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_SAT_npComplete
 -- name    : CookPvsNP.SAT_npComplete
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-25T14:14:12.218569+00:00
 -- url     : https://prove2.me/theorems/5560bb00-56f0-4540-b04e-1976757975d4
 -- title:

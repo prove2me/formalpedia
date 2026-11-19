@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HilbertSixth_navier_stokes_fourier_from_newton
 -- name    : HilbertSixth.navier_stokes_fourier_from_newton
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T04:26:41.874983+00:00
 -- url     : https://prove2.me/theorems/aa1c7031-a8fb-426d-8c08-4661759cbe15
 -- title:

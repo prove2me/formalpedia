@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Landreman3DEquilibria_tension_eq_neg_grad_Q
 -- name    : Landreman3DEquilibria.tension_eq_neg_grad_Q
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:59:42.072227+00:00
 -- url     : https://prove2.me/theorems/df5c02ab-7f50-4b8e-8357-e3ff0290bcd1
 -- title:

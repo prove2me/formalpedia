@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_lagrangian_metric_variation
 -- name    : PolyakovAction.lagrangian_metric_variation
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-01T10:58:59.715932+00:00
 -- url     : https://prove2.me/theorems/628414ba-abe6-41d8-a16c-1b2564adc029
 -- title:

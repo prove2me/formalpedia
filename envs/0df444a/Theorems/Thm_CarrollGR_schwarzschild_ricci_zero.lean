@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_CarrollGR_schwarzschild_ricci_zero
 -- name    : CarrollGR.schwarzschild_ricci_zero
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-26T00:14:59.163239+00:00
 -- url     : https://prove2.me/theorems/c25df3a0-956e-44b4-b01e-22ff1e51d2b5
 -- title:

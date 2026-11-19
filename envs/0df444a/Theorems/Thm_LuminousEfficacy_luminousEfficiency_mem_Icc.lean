@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_LuminousEfficacy_luminousEfficiency_mem_Icc
 -- name    : LuminousEfficacy.luminousEfficiency_mem_Icc
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:14:25.577988+00:00
 -- url     : https://prove2.me/theorems/5d82b609-01ba-40f0-be9e-595974eac502
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_FeynmanWick_wick_four_point
 -- name    : FeynmanWick.wick_four_point
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-21T03:42:34.934673+00:00
 -- url     : https://prove2.me/theorems/c07cdaf7-b979-4c4a-bf83-91df41199416
 -- title:

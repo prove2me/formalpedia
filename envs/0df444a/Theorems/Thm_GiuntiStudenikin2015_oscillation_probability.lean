@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_GiuntiStudenikin2015_oscillation_probability
 -- name    : GiuntiStudenikin2015.oscillation_probability
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T15:11:05.707452+00:00
 -- url     : https://prove2.me/theorems/5a75a660-63a3-43d4-add9-fa467a24d695
 -- title:

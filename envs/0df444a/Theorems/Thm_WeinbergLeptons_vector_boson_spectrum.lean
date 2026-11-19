@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeinbergLeptons_vector_boson_spectrum
 -- name    : WeinbergLeptons.vector_boson_spectrum
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T19:11:59.330753+00:00
 -- url     : https://prove2.me/theorems/35e65a62-3fb8-4c0d-84eb-da5e5ce37ab7
 -- title:

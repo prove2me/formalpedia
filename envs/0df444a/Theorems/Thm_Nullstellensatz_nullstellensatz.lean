@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Nullstellensatz_nullstellensatz
 -- name    : Nullstellensatz.nullstellensatz
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-28T01:56:05.052934+00:00
 -- url     : https://prove2.me/theorems/7ef2962b-2171-4726-8aef-bda1873e537b
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SI_si_complete
 -- name    : SI.si_complete
 -- status  : Disproved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-20T13:58:29.490954+00:00
 -- url     : https://prove2.me/theorems/6a6cb1b8-9734-4610-92bc-7b7776614746
 -- title:

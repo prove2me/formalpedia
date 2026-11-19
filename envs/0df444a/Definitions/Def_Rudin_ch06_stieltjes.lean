@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_Rudin_ch06_stieltjes
 -- name    : Rudin_ch06_stieltjes
 -- status  : Definition
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-12T20:04:20.562817+00:00
 -- url     : https://prove2.me/theorems/919be3fb-1469-4695-a98d-81c3c1f67aff
 -- title:

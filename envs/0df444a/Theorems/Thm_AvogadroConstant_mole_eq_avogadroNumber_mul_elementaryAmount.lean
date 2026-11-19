@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_AvogadroConstant_mole_eq_avogadroNumber_mul_elementaryAmount
 -- name    : AvogadroConstant.mole_eq_avogadroNumber_mul_elementaryAmount
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-23T18:21:55.450083+00:00
 -- url     : https://prove2.me/theorems/3c87110c-b5d7-4b8f-82a2-4836189b641a
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemAC02_Supplement_theorem_7_12_quasipoly_spsp
 -- name    : SemAC02.Supplement.theorem_7_12_quasipoly_spsp
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T19:54:39.000203+00:00
 -- url     : https://prove2.me/theorems/8a2365b3-7151-4be2-a331-928f941b9393

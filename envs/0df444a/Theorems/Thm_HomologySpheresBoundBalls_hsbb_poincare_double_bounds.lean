@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_HomologySpheresBoundBalls_hsbb_poincare_double_bounds
 -- name    : HomologySpheresBoundBalls.hsbb_poincare_double_bounds
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-10-11T12:18:16.944425+00:00
 -- url     : https://prove2.me/theorems/eaa07af0-7ccc-4c08-b4e9-0de55cffe705
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_jacobi_fixed_point_equiv
 -- name    : MetodosNumericos.jacobi_fixed_point_equiv
 -- status  : Proved
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-20T17:32:32.635245+00:00
 -- url     : https://prove2.me/theorems/7a57d90b-b965-4474-bee3-ffd2a045221e
 -- title:

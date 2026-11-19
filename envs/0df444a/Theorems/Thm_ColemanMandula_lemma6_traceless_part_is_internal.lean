@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ColemanMandula_lemma6_traceless_part_is_internal
 -- name    : ColemanMandula.lemma6_traceless_part_is_internal
 -- status  : Open
--- author  : @Lucas
+-- author  : @LG
 -- created : 2026-09-24T04:56:40.679704+00:00
 -- url     : https://prove2.me/theorems/bfad372d-dd97-4517-991c-eabacc3b4779
 -- title:
