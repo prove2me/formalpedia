@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_crossing_header_parameters
 -- name    : DeletionCode.DecoderExamples.crossing_header_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:49.8712+00:00
 -- url     : https://prove2.me/theorems/d66bdaa8-d186-49c0-a43f-79009d81e564

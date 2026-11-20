@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_Windows_crossing_extension_in_bounds
 -- name    : DeletionCode.Windows.crossing_extension_in_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:58:14.44551+00:00
 -- url     : https://prove2.me/theorems/d71a3d97-0e07-4e74-bb8c-9661695ec9f0

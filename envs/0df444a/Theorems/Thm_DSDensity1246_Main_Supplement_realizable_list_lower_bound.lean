@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSDensity1246_Main_Supplement_realizable_list_lower_bound
 -- name    : DSDensity1246.Main.Supplement.realizable_list_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T06:26:17.749647+00:00
 -- url     : https://prove2.me/theorems/fd530287-6e57-487e-b7a8-d977450df8ff

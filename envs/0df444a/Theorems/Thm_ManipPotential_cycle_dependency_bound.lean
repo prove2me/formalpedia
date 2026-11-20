@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_cycle_dependency_bound
 -- name    : ManipPotential.cycle_dependency_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:46:07.481485+00:00
 -- url     : https://prove2.me/theorems/4aa4281d-5315-4f9f-9802-7e6aa4ed7aa9

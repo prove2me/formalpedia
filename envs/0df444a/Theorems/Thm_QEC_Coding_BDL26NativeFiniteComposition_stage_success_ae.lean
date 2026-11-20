@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_stage_success_ae
 -- name    : QEC.Coding.BDL26NativeFiniteComposition.stage_success_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:14:15.819775+00:00
 -- url     : https://prove2.me/theorems/6887ef83-5888-4ced-883f-bf430b1c4318

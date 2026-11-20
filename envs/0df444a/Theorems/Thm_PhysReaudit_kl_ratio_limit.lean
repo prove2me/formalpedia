@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_kl_ratio_limit
 -- name    : PhysReaudit.kl_ratio_limit
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:42:54.0553+00:00
 -- url     : https://prove2.me/theorems/c8df19f2-fe5f-47cd-976d-f251a3494272

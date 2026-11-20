@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_totalCost_integral_le_sum
 -- name    : QEC.Coding.BDL26NativeFiniteComposition.totalCost_integral_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:13:43.833467+00:00
 -- url     : https://prove2.me/theorems/90efc835-d9ad-4b7e-ab4f-430ebb4bba22

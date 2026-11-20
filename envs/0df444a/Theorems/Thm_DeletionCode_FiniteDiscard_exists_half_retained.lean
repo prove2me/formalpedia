@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_FiniteDiscard_exists_half_retained
 -- name    : DeletionCode.FiniteDiscard.exists_half_retained
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:50:14.58679+00:00
 -- url     : https://prove2.me/theorems/c8cff464-257c-4735-bd29-0e509abb3bdb

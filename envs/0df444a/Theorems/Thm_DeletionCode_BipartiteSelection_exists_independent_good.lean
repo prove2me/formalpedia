@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BipartiteSelection_exists_independent_good
 -- name    : DeletionCode.BipartiteSelection.exists_independent_good
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:48:34.23216+00:00
 -- url     : https://prove2.me/theorems/a48681a4-ecfc-4003-8d48-dc4961a2c172

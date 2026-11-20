@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1537b_modulus_nonreal_large
 -- name    : LL_Decomp1537b.modulus_nonreal_large
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:33:30.804257+00:00
 -- url     : https://prove2.me/theorems/b283d655-17db-4ded-b24e-d51e1c8db921

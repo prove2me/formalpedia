@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TransparencyTeamContracts_Submodular_theorem_4_1
 -- name    : TransparencyTeamContracts.Submodular.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:32:49.904664+00:00
 -- url     : https://prove2.me/theorems/cfef99c2-97e1-4a87-9a78-3bfa0c6f4a14

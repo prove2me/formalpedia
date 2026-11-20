@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_lintegral_sq_eval_tendsto_of_diff_tendsto_zero_compensated_shape
 -- name    : LevyStochCalc.lintegral_sq_eval_tendsto_of_diff_tendsto_zero_compensated_shape
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:47:50.867808+00:00
 -- url     : https://prove2.me/theorems/6b6aafb3-eeb0-4c21-93e4-02c6335ab339

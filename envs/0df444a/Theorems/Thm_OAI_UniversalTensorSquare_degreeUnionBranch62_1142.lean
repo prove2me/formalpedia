@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_degreeUnionBranch62_1142
 -- name    : OAI.UniversalTensorSquare.degreeUnionBranch62_1142
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-19T05:59:56.597509+00:00
 -- url     : https://prove2.me/theorems/b84ee1f5-2f99-42bf-9c16-6df70248c943

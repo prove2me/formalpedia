@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualRXHits_card_le
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualRXHits_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T02:07:23.030075+00:00
 -- url     : https://prove2.me/theorems/793279d7-dc81-4eb4-8a71-95c204da9f47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_stationary_shift_release_budget
 -- name    : TightReleaseSchedules.Stationary.stationary_shift_release_budget
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:45:42.526858+00:00
 -- url     : https://prove2.me/theorems/b53628e0-9987-4718-8aaf-ed2522dfd9d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncApproxVC_Oblivious_lemma_7_1
 -- name    : IncApproxVC.Oblivious.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:41:56.459567+00:00
 -- url     : https://prove2.me/theorems/5770e02d-0173-4409-aca6-eb88604aba6a

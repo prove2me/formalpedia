@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_ae_isIntegerValued_restrict
 -- name    : LevyStochCalc.Poisson.ae_isIntegerValued_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:26:56.561405+00:00
 -- url     : https://prove2.me/theorems/84711406-69f9-4c80-a139-e1ca6622c5e3

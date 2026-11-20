@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_odd_cycles_rare
 -- name    : DeletionHash.MixedEdit.odd_cycles_rare
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:10.452327+00:00
 -- url     : https://prove2.me/theorems/fd1c0fb4-c334-4ff6-acfe-e0dbef5563a7

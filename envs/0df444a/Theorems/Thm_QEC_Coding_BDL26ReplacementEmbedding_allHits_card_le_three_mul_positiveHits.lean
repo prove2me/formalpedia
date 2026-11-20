@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_allHits_card_le_three_mul_positiveHits
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.allHits_card_le_three_mul_positiveHits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T13:47:47.732491+00:00
 -- url     : https://prove2.me/theorems/c52c0922-73f0-4705-9a08-eb054f1c62de

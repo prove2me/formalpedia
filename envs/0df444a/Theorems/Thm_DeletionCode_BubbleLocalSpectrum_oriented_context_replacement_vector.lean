@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubbleLocalSpectrum_oriented_context_replacement_vector
 -- name    : DeletionCode.BubbleLocalSpectrum.oriented_context_replacement_vector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:38:12.324562+00:00
 -- url     : https://prove2.me/theorems/0e627d7b-e550-4162-9fc9-c6c8ea187344

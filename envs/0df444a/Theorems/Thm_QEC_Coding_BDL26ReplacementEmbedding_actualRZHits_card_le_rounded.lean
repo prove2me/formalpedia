@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_actualRZHits_card_le_rounded
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.actualRZHits_card_le_rounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:41:46.073206+00:00
 -- url     : https://prove2.me/theorems/02b3239a-9d35-444f-ba0f-609f496cf499

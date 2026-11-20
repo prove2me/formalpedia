@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RandomHash_real_nonzero_test_probability
 -- name    : DeletionCode.RandomHash.real_nonzero_test_probability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:45:51.985227+00:00
 -- url     : https://prove2.me/theorems/87e902ad-d2af-492a-b1a5-9d2d9059c1f1

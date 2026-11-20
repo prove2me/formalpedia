@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EuclideanLineAvgDist_Embedding_optimal_line_average_distortion
 -- name    : EuclideanLineAvgDist.Embedding.optimal_line_average_distortion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:12:11.890199+00:00
 -- url     : https://prove2.me/theorems/b09eaa03-94a0-4715-a025-b8918d0a212a

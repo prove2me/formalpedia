@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_Alignment_from_empty
 -- name    : DeletionCode.EditAlignment.Alignment.from_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:14.711015+00:00
 -- url     : https://prove2.me/theorems/7de2f694-b7d3-4a1b-8e2a-8c9c27fc5b3d

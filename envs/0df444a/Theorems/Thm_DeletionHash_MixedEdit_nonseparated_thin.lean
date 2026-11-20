@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_nonseparated_thin
 -- name    : DeletionHash.MixedEdit.nonseparated_thin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:20.406121+00:00
 -- url     : https://prove2.me/theorems/75b41929-8a91-404a-acfc-02061a369456

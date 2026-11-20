@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_signed_graph_connected_iff
 -- name    : DeletionCode.SignedSupport.signed_graph_connected_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:11:55.372807+00:00
 -- url     : https://prove2.me/theorems/3c4fd565-1486-4d48-bf09-e9e3132d8048

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_ch02PoissonIntegralSecondMoment
 -- name    : Kyprianou.ch02PoissonIntegralSecondMoment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T21:44:07.022206+00:00
 -- url     : https://prove2.me/theorems/3c9c9486-7599-413b-a32d-aa4b8a9e60d5

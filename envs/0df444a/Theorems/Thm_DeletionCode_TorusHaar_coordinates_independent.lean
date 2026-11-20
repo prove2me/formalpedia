@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_TorusHaar_coordinates_independent
 -- name    : DeletionCode.TorusHaar.coordinates_independent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:42:50.363622+00:00
 -- url     : https://prove2.me/theorems/a89e2b7e-d03f-4ff2-b1c2-208ab1c993b3

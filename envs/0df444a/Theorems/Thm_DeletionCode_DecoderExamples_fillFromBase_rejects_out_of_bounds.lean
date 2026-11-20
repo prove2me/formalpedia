@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_fillFromBase_rejects_out_of_bounds
 -- name    : DeletionCode.DecoderExamples.fillFromBase_rejects_out_of_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:44.578946+00:00
 -- url     : https://prove2.me/theorems/8bf87625-20f4-417f-b53f-e0b49373ad91

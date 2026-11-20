@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeDaviesLocality_finiteDaviesSuccess_measure
 -- name    : QEC.Coding.BDL26NativeDaviesLocality.finiteDaviesSuccess_measure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:28:45.269573+00:00
 -- url     : https://prove2.me/theorems/be6fca63-2ca2-4a20-9173-533434ea2f0b

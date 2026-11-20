@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DurrettProbability_brownian_holder
 -- name    : DurrettProbability.brownian_holder
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-18T18:25:02.68762+00:00
 -- url     : https://prove2.me/theorems/529b4db9-0c6f-4af4-a844-b30c1b2f0e40

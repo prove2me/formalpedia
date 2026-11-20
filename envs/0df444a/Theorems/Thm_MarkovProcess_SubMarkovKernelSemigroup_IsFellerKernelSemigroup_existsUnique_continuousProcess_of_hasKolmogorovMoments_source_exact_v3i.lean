@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_existsUnique_continuousProcess_of_hasKolmogorovMoments_source_exact_v3i
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.existsUnique_continuousProcess_of_hasKolmogorovMoments_source_exact_v3i
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:26:04.859949+00:00
 -- url     : https://prove2.me/theorems/a49aa4d9-8d7e-4af7-8352-dd7917c0c14e

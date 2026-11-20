@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubbleContextGeometry_deletion_geometry
 -- name    : DeletionCode.BubbleContextGeometry.deletion_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:40:14.278196+00:00
 -- url     : https://prove2.me/theorems/fa6c4ef0-e090-4254-b35f-9df44582f853

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_universal_partition_exceptional
 -- name    : OAI.UniversalTensorSquare.universal_partition_exceptional
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-18T14:13:39.763228+00:00
 -- url     : https://prove2.me/theorems/7eaadced-ab6b-44ed-b385-f7d4a1b8c280

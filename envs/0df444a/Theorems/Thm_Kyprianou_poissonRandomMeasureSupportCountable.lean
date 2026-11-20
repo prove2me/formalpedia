@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_poissonRandomMeasureSupportCountable
 -- name    : Kyprianou.poissonRandomMeasureSupportCountable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T11:12:45.749204+00:00
 -- url     : https://prove2.me/theorems/35423cc2-4e9e-49d2-bda5-bc02e7451c36

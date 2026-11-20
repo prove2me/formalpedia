@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_ae_exists_nat_superposition
 -- name    : LevyStochCalc.Poisson.ae_exists_nat_superposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:22:00.796538+00:00
 -- url     : https://prove2.me/theorems/e47dc320-c874-4950-bd36-e70e6b2220ad

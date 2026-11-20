@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedRainbowCycle_Weighted_Supplement_proper_rainbow_cycle
 -- name    : WeightedRainbowCycle.Weighted.Supplement.proper_rainbow_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T19:37:19.608487+00:00
 -- url     : https://prove2.me/theorems/7b9aa57f-4d2e-4bd2-8e60-f4b1ac0e88f0

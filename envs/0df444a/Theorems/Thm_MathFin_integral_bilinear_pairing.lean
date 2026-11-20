@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MathFin_integral_bilinear_pairing
 -- name    : MathFin.integral_bilinear_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:35:50.39796+00:00
 -- url     : https://prove2.me/theorems/87715aba-ccf0-4242-afc9-600c4791c5d6

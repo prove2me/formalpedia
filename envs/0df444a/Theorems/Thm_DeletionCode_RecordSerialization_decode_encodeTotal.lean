@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordSerialization_decode_encodeTotal
 -- name    : DeletionCode.RecordSerialization.decode_encodeTotal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:17:28.170274+00:00
 -- url     : https://prove2.me/theorems/c0330baa-307e-475f-ae8c-789e98c87840

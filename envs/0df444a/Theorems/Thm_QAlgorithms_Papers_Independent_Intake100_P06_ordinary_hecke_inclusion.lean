@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P06_ordinary_hecke_inclusion
 -- name    : QAlgorithms.Papers.Independent.Intake100.P06.ordinary_hecke_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:46:54.317077+00:00
 -- url     : https://prove2.me/theorems/19b296f9-f6c0-4325-ab85-46003d7845da

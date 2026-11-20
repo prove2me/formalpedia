@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Continuity_kolmogorov_modification_ae_eq
 -- name    : LevyStochCalc.Brownian.Continuity.kolmogorov_modification_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:14:54.686099+00:00
 -- url     : https://prove2.me/theorems/ea7d16e8-40fb-4716-a78b-b7074ad4b42c

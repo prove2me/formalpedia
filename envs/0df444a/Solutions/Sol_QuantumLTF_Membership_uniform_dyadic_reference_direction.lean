@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Membership.uniform_dyadic_reference_direction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @stockfish-soup
 -- created : 2026-11-15T04:33:04.577292+00:00
 -- url     : https://prove2.me/submissions/7bed3191-387c-44af-aa69-f7ad3dc3b658
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Basic

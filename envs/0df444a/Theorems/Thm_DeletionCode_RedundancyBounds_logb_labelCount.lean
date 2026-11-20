@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RedundancyBounds_logb_labelCount
 -- name    : DeletionCode.RedundancyBounds.logb_labelCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:50:04.591494+00:00
 -- url     : https://prove2.me/theorems/8c2ccf10-93b9-4cea-be0b-7d6e16ce1748

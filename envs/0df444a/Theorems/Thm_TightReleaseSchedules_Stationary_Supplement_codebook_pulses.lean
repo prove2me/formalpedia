@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_Supplement_codebook_pulses
 -- name    : TightReleaseSchedules.Stationary.Supplement.codebook_pulses
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T04:22:52.784312+00:00
 -- url     : https://prove2.me/theorems/ca435728-90aa-45cc-b1d4-b13688c046e7

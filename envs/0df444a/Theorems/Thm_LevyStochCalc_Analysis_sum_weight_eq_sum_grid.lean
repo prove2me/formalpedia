@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Analysis_sum_weight_eq_sum_grid
 -- name    : LevyStochCalc.Analysis.sum_weight_eq_sum_grid
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:15:56.169269+00:00
 -- url     : https://prove2.me/theorems/7105f87a-9dab-4bbd-bc40-c5c2f68a5680

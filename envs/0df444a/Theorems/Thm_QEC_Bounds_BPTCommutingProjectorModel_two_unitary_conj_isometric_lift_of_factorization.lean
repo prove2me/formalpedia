@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_two_unitary_conj_isometric_lift_of_factorization
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.two_unitary_conj_isometric_lift_of_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-18T04:13:49.750405+00:00
 -- url     : https://prove2.me/theorems/388a0caa-19eb-4632-b023-432c976c5e02

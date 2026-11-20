@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_hub_stability_threshold
 -- name    : StableMSR.Recovery.Supplement.hub_stability_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:16:18.705201+00:00
 -- url     : https://prove2.me/theorems/90fe21d8-8919-47ad-b167-e09cb93b8c7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_indep_comap_of_tendsto_ae
 -- name    : LevyStochCalc.Probability.indep_comap_of_tendsto_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:35:17.501377+00:00
 -- url     : https://prove2.me/theorems/4247d076-674e-4567-9ddb-c08a6da96432

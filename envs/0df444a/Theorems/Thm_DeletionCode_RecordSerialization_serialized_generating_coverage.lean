@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordSerialization_serialized_generating_coverage
 -- name    : DeletionCode.RecordSerialization.serialized_generating_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:04.297482+00:00
 -- url     : https://prove2.me/theorems/c37b21e8-d2e5-4e02-8228-84c20cdf192b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubbleLocalSpectrum_shared_suffix
 -- name    : DeletionCode.BubbleLocalSpectrum.shared_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:35:49.508426+00:00
 -- url     : https://prove2.me/theorems/99ce0e3b-62be-47bd-80d0-305e47f60a12

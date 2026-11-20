@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditMulticoloring_Code_prime_multicoloring
 -- name    : EditMulticoloring.Code.prime_multicoloring
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T18:49:42.983729+00:00
 -- url     : https://prove2.me/theorems/5eff1f2e-3c7a-48b5-a92e-ab2aa75523f5

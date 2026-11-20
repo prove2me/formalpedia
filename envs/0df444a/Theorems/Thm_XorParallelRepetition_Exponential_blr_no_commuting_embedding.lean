@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_blr_no_commuting_embedding
 -- name    : XorParallelRepetition.Exponential.blr_no_commuting_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:07:52.422893+00:00
 -- url     : https://prove2.me/theorems/b930d717-1a60-45ba-b3c4-e2dcf77c38a4

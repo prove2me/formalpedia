@@ -1,10 +1,8 @@
 -- Prove2me | solution 12 for AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-05T20:10:12.415037+00:00
 -- url     : https://prove2.me/submissions/0b2c7ded-6bd8-4ecc-95f0-8bf275e6f66b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Filtration
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_OverlapCollision_encode_eq_at
 -- name    : DeletionCode.OverlapCollision.encode_eq_at
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:40:57.914441+00:00
 -- url     : https://prove2.me/theorems/6274f890-f1cc-4bdd-b27c-612951b0d5cd

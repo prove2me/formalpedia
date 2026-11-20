@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumPath_spectrum_nonzero_iff_occurs
 -- name    : DeletionCode.SpectrumPath.spectrum_nonzero_iff_occurs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:22:10.326401+00:00
 -- url     : https://prove2.me/theorems/083d6fbe-ec8e-452c-93a5-72c24ebc9c88

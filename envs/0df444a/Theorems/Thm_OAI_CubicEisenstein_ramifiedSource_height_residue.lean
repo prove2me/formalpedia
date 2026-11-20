@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_ramifiedSource_height_residue
 -- name    : OAI.CubicEisenstein.ramifiedSource_height_residue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T09:26:20.762787+00:00
 -- url     : https://prove2.me/theorems/6fa734e5-70aa-41fc-a269-63192a04a933

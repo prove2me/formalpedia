@@ -1,0 +1,161 @@
+-- Prove2me | Theorems.Thm_QuantumSixJ_sum_recurrence
+-- name    : QuantumSixJ.sum_recurrence
+-- status  : Proved
+-- author  : @igor.kh
+-- created : 2026-11-13T00:44:38.791442+00:00
+-- url     : https://prove2.me/theorems/40d016b0-920e-4e98-ad28-3792799ebbbd
+-- title:
+--   Eq. (24) — Appendix-sum recurrence
+-- statement:
+--   Prove `QuantumSixJ.SumRecurrence`. For every six integer labels $a,b,c,d,j,l$, the explicit Appendix sum, normalized as $U_{jl}=\operatorname{Tet}^{\mathrm{sum}}(a,b,c,d;j,l)/h_j$, satisfies equation (24):
+--   $$L_{j,j-2}U_{j-2,l}+(L_{jj}-\Lambda(a,b,l)h_j)U_{jl}+L_{j,j+2}U_{j+2,l}=0.$$
+--   All coefficients are the explicit rational functions over $\mathbb Q(q)$, with their zero extensions. There are no additional admissibility, bound, nonvanishing or categorical hypotheses. Division by zero has the specified total-field value zero; no complex specialization is asserted.
+--
+--   ### Independent mathematical read-back
+--
+--   # Explicit tetrahedral-sum recurrence
+--
+--   ## Statement
+--
+--   Work in the rational-function field \(F=\mathbb Q(q)\), where \(q\) is an indeterminate. For **every** six integers \(a,b,c,d,j,l\), the assertion is
+--   \[
+--   L_{j,j-2}U_{j-2,l}
+--   +\bigl(L_{j,j}-\Lambda(a,b,l)h_j\bigr)U_{j,l}
+--   +L_{j,j+2}U_{j+2,l}=0.
+--   \]
+--   Here the four external labels \(a,b,c,d\) are held fixed in
+--   \(L_{r,s}=L(a,b,c,d,r,s)\), \(h_r=h(a,b,c,d,r)\), and
+--   \(U_{r,l}=T(a,b,c,d,r,l)/h_r\). Everything in this equation is defined explicitly below. There are **no hypotheses** of admissibility, nonnegativity, nonzero norms, category axioms, vertex normalization, or seed values. In particular, the quantifiers include negative external labels and negative channels.
+--
+--   ## Quantum arithmetic and admissibility
+--
+--   For an integer \(n\), set
+--   \[
+--   [n]=\frac{q^n-q^{-n}}{q-q^{-1}},\qquad
+--   [n]!=\begin{cases}0&n<0,\\ \prod_{k=1}^{n}[k]&n\ge0.\end{cases}
+--   \]
+--   The empty product is one, so \([0]!=1\). Exponents on nonzero field elements are integer powers. Every quotient is field division, with \(0^{-1}=0\); in particular \(z/0=0\), including \(0/0=0\).
+--
+--   Write \(A(a,b,c)\) for the conjunction
+--   \[
+--   a,b,c\ge0,\quad a\le b+c,\quad b\le c+a,\quad c\le a+b,
+--   \quad a+b+c\equiv0\pmod2.
+--   \]
+--   Horizontal admissibility is \(A(a,d,j)\land A(b,c,j)\); vertical admissibility is \(A(a,b,l)\land A(c,d,l)\).
+--
+--   All integer divisions by \(2\) in what follows are Euclidean integer division (floor division for this positive divisor), not rational division. Under the relevant admissibility conditions, the half-sums are integers without rounding.
+--
+--   Define
+--   \[
+--   \Delta(r)=\begin{cases}(-1)^r[r+1]&r\ge0,\\0&r<0,\end{cases}
+--   \]
+--   and
+--   \[
+--   \theta(a,b,c)=
+--   \begin{cases}
+--   \displaystyle\frac{(-1)^s[s+1]![s-a]![s-b]![s-c]!}{[a]![b]![c]!},
+--   &A(a,b,c),\quad s=(a+b+c)\mathbin{\mathrm{div}}2,\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   The horizontal norm is
+--   \[
+--   h(a,b,c,d,r)=
+--   \begin{cases}
+--   \theta(a,d,r)\theta(b,c,r)/\Delta(r),&A(a,d,r)\land A(b,c,r),\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   For any integer triple, define
+--   \[
+--   \Lambda(a,b,l)=
+--   \begin{cases}
+--   \displaystyle\frac{
+--   [(a-b+l)\mathbin{\mathrm{div}}2]
+--   [(-a+b+l)\mathbin{\mathrm{div}}2]
+--   -[(a+b-l)\mathbin{\mathrm{div}}2]
+--   [(a+b+l)\mathbin{\mathrm{div}}2+2]}{[2]},&A(a,b,l),\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   In particular, the final \(+2\) is **outside** the division by two.
+--
+--   ## The coefficient matrix
+--
+--   The definition of \(L_{r,s}\) first tests whether \(r=s\):
+--   \[
+--   L_{r,r}=\begin{cases}
+--   \displaystyle-\frac{h_r[2]\Lambda(a,r,d)\Lambda(b,r,c)}{[r][r+2]},
+--   &A(a,d,r)\land A(b,c,r)\land r\ne0,\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   If \(r\ne s\) and \(s=r+2\) or \(r=s+2\), put \(m=\min(r,s)\), \(n=\max(r,s)\). Then
+--   \[
+--   L_{r,s}=\begin{cases}
+--   h_n[(a+d-m)\mathbin{\mathrm{div}}2]
+--   [(b+c-m)\mathbin{\mathrm{div}}2],
+--   &A(a,d,m)\land A(b,c,m)\land A(a,d,n)\land A(b,c,n),\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   All remaining entries are zero. This defines a symmetric matrix, with step-two off-diagonals; it is tridiagonal on each fixed-parity lattice. The larger channel supplies the norm in an adjacent entry. Explicitly,
+--   \[
+--   L_{j,j-2}=h_j[(a+d-j+2)\mathbin{\mathrm{div}}2]
+--   [(b+c-j+2)\mathbin{\mathrm{div}}2]
+--   \]
+--   when both channels \(j-2,j\) are horizontally admissible, and zero otherwise; and
+--   \[
+--   L_{j,j+2}=h_{j+2}[(a+d-j)\mathbin{\mathrm{div}}2]
+--   [(b+c-j)\mathbin{\mathrm{div}}2]
+--   \]
+--   when both channels \(j,j+2\) are horizontally admissible, and zero otherwise. The special value \(L_{0,0}=0\) is imposed by a branch, not by canceling a factor \([0]\).
+--
+--   ## The explicit finite tetrahedral sum
+--
+--   For any six integer labels define four integers \(A_i\) and three integers \(B_k\):
+--   \[
+--   (A_1,A_2,A_3,A_4)=
+--   \bigl((a+d+j)\mathbin{\mathrm{div}}2,
+--   (b+c+j)\mathbin{\mathrm{div}}2,
+--   (a+b+l)\mathbin{\mathrm{div}}2,
+--   (c+d+l)\mathbin{\mathrm{div}}2\bigr),
+--   \]
+--   \[
+--   (B_1,B_2,B_3)=
+--   \bigl((b+d+j+l)\mathbin{\mathrm{div}}2,
+--   (a+c+j+l)\mathbin{\mathrm{div}}2,
+--   (a+b+c+d)\mathbin{\mathrm{div}}2\bigr).
+--   \]
+--   For an integer \(S\), put
+--   \[
+--   R(S)=\frac{(-1)^S[S+1]!}
+--   {\left(\prod_{i=1}^4[S-A_i]!\right)
+--    \left(\prod_{k=1}^3[B_k-S]!\right)}.
+--   \]
+--   If both horizontal and vertical admissibility hold, set
+--   \[
+--   T(a,b,c,d,j,l)=
+--   \frac{\displaystyle\prod_{i=1}^4\prod_{k=1}^3[B_k-A_i]!}
+--   {[a]![b]![c]![d]![j]![l]!}
+--   \sum_{S=0}^{a+b+c+d+j+l}R(S).
+--   \]
+--   Otherwise set \(T=0\). The sum is over integers in the indicated inclusive finite interval; it is empty if its upper bound is negative. There is no additional summand-support guard and no replacement of the bounds by extrema of the \(A_i,B_k\). A negative factorial argument yields zero; a zero denominator therefore makes that summand zero by total field division.
+--
+--   Finally \(U_{j,l}=T(a,b,c,d,j,l)/h_j\), without a separate guard or nonvanishing witness. Thus a zero norm gives \(U_{j,l}=0\), even if one views its defining quotient as \(0/0\). Absent neighbors remain in the displayed equation with their zero-extended coefficients and normalized sums; there are no extra boundary-index assumptions.
+--
+--   ## Scope
+--
+--   This is a rational-function identity at an indeterminate \(q\), not a statement about evaluating at \(q=1\), roots of unity, or arbitrary complex numbers. Total division is the discrete zero-extension convention here; it is not an assertion that a meromorphic function has value zero at a pole. No universe-polymorphic category is quantified in this scalar assertion. The testimony above specifies the mathematical claim, not a certification of its proof.
+-- source:
+--   I. Khavkine, Recurrence relation for the 6j-symbol of su_q(2) as a symmetric eigenvalue problem, International Journal of Geometric Methods in Modern Physics (2015), https://doi.org/10.1142/S0219887815501170; https://arxiv.org/abs/1009.2261. Eq. (24), applied to the Appendix finite-sum Tet.
+
+import Definitions.Def_QuantumSixJRecurrences
+
+universe v u
+
+namespace QuantumSixJ
+
+theorem sum_recurrence : SumRecurrence := by sorry
+
+end QuantumSixJ

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Analysis_exists_isolating_radius
 -- name    : LevyStochCalc.Analysis.exists_isolating_radius
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:14:22.847676+00:00
 -- url     : https://prove2.me/theorems/796dd0c3-8c73-4eff-a0b0-dee559c0cca4

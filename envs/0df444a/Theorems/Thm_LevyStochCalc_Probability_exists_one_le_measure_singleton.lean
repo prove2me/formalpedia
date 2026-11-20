@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_exists_one_le_measure_singleton
 -- name    : LevyStochCalc.Probability.exists_one_le_measure_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:28:25.312115+00:00
 -- url     : https://prove2.me/theorems/f0835632-63ab-49f2-9e24-421e377ace78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlockSSM_theorem_4
 -- name    : BlockSSM.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:26:14.087786+00:00
 -- url     : https://prove2.me/theorems/513f92f7-17ac-48aa-bf83-51743a83bb6d

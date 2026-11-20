@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_smallSupport13_24
 -- name    : OAI.UniversalTensorSquare.smallSupport13_24
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T23:09:18.218428+00:00
 -- url     : https://prove2.me/theorems/9500dc74-91e5-4f5a-9f5e-baf42a325d88

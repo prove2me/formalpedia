@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchIndiff_PublicSM_lemma_D_17
 -- name    : MatchIndiff.PublicSM.lemma_D_17
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:26:51.504357+00:00
 -- url     : https://prove2.me/theorems/4cc55ca0-e623-46d7-895b-1626a0b94d38

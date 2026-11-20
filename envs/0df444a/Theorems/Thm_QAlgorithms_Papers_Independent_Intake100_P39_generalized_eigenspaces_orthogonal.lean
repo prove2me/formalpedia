@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P39_generalized_eigenspaces_orthogonal
 -- name    : QAlgorithms.Papers.Independent.Intake100.P39.generalized_eigenspaces_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:03:55.826136+00:00
 -- url     : https://prove2.me/theorems/bd5b1e69-0241-464d-b77b-c212215b2d6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_represented_global_success
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.represented_global_success
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:54:24.195529+00:00
 -- url     : https://prove2.me/theorems/4b45a9b8-f2f0-470f-9393-e7545ca4789d

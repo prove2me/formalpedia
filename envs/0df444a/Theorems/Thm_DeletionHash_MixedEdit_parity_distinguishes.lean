@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_parity_distinguishes
 -- name    : DeletionHash.MixedEdit.parity_distinguishes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:43:29.504225+00:00
 -- url     : https://prove2.me/theorems/8b2a09df-9fd1-4c78-a11f-c3d2d6bcaec3

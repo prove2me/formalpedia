@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RunBubbleConstruction_exists_insertion_bubble
 -- name    : DeletionCode.RunBubbleConstruction.exists_insertion_bubble
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:33:35.219202+00:00
 -- url     : https://prove2.me/theorems/bff1dcd0-3013-40ed-8de4-1c382477d0fa

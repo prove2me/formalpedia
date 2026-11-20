@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CanonicalIndex_flat_bubble_spectrum
 -- name    : DeletionCode.CanonicalIndex.flat_bubble_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:22:03.922086+00:00
 -- url     : https://prove2.me/theorems/05b3c458-74b5-484f-89c5-4300d6c4c7f3

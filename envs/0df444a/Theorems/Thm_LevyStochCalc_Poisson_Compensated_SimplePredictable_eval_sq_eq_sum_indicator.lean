@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_SimplePredictable_eval_sq_eq_sum_indicator
 -- name    : LevyStochCalc.Poisson.Compensated.SimplePredictable.eval_sq_eq_sum_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:24:27.060297+00:00
 -- url     : https://prove2.me/theorems/ac4acce7-f558-419f-90fe-405242ffc811

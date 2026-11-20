@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P43_square_full_rank_dimension
 -- name    : QAlgorithms.Papers.Independent.Intake100.P43.square_full_rank_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:25:53.408289+00:00
 -- url     : https://prove2.me/theorems/388ced6a-7dd9-4774-9c25-da0242855ff0

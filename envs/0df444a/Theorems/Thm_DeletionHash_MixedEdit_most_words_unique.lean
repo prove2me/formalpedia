@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_most_words_unique
 -- name    : DeletionHash.MixedEdit.most_words_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:41:57.416406+00:00
 -- url     : https://prove2.me/theorems/88104b73-f5bc-442d-9a8a-1e83636d0f44

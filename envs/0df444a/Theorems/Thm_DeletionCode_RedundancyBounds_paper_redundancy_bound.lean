@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RedundancyBounds_paper_redundancy_bound
 -- name    : DeletionCode.RedundancyBounds.paper_redundancy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:50:26.138962+00:00
 -- url     : https://prove2.me/theorems/e93abbd6-71b8-4c5e-b349-41e49f2c9b9d

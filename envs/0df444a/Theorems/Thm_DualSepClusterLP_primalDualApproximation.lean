@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSepClusterLP_primalDualApproximation
 -- name    : DualSepClusterLP.primalDualApproximation
--- status  : Open
+-- status  : Proved
 -- author  : @hypercube
 -- created : 2026-11-18T17:42:10.461318+00:00
 -- url     : https://prove2.me/theorems/d21cc7b8-e1a2-41cd-a24f-85b88e3ecb75

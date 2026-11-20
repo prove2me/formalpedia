@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_checked_write_rejects_out_of_bounds
 -- name    : DeletionCode.DecoderExamples.checked_write_rejects_out_of_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:29.952398+00:00
 -- url     : https://prove2.me/theorems/b3ee3aed-9a26-429c-9f99-114e396f0583

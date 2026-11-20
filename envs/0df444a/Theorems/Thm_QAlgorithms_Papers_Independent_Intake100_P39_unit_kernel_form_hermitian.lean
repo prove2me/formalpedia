@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P39_unit_kernel_form_hermitian
 -- name    : QAlgorithms.Papers.Independent.Intake100.P39.unit_kernel_form_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:13:50.2406+00:00
 -- url     : https://prove2.me/theorems/1377ea38-0174-497f-ae72-d6477e2c4958

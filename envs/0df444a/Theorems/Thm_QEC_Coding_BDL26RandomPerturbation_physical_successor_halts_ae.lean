@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_physical_successor_halts_ae
 -- name    : QEC.Coding.BDL26RandomPerturbation.physical_successor_halts_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T01:01:46.073201+00:00
 -- url     : https://prove2.me/theorems/f9ba2eab-36b3-44e6-9e8b-c14f055f054c

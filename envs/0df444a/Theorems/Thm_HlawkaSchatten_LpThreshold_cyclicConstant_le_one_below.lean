@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_LpThreshold_cyclicConstant_le_one_below
 -- name    : HlawkaSchatten.LpThreshold.cyclicConstant_le_one_below
--- status  : Open
+-- status  : Proved
 -- author  : @Nihal
 -- created : 2026-10-28T01:36:33.461039+00:00
 -- url     : https://prove2.me/theorems/3eb23cfd-ec81-44a6-97e8-72ad066274fe

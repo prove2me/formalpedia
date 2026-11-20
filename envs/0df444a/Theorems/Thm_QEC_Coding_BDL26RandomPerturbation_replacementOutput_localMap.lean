@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RandomPerturbation_replacementOutput_localMap
 -- name    : QEC.Coding.BDL26RandomPerturbation.replacementOutput_localMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T23:23:42.867197+00:00
 -- url     : https://prove2.me/theorems/9bae45a0-90db-4d96-9cc5-7c0839edb1f8

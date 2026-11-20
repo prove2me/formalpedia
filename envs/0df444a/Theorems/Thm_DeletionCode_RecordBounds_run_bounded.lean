@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordBounds_run_bounded
 -- name    : DeletionCode.RecordBounds.run_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:16:57.508197+00:00
 -- url     : https://prove2.me/theorems/9da394df-8c2a-47b5-aef6-ebfa1cf4433b

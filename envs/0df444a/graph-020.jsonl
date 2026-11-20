@@ -73075,8 +73075,8 @@
 {"parent": "OAI.ShortDraftMellin.mellin_of_exponential_smoothing", "child": "OAI_NumberTheory_DirichletL_Arithmetic_EisensteinCoordinates", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftMellin.mellin_of_exponential_smoothing", "child": "OAI_NumberTheory_DirichletL_Mellin_ExponentialSmoothing", "via": ["solution", "statement"]}
 {"parent": "trunc.nonneg", "child": "PrimeNumberTheoremAnd_Sobolev", "via": ["solution", "statement"]}
-{"parent": "QEC.Bounds.BPTCommutingProjectorModel.sequentialJointBCSectorCompression_secondCut_eq_firstCut", "child": "QEC_Bounds_BPTDisentangling_Joint_Sequential_Compression", "via": ["statement"]}
-{"parent": "QEC.Bounds.BPTCommutingProjectorModel.sequentialJointBCSectorCompression_secondCut_eq_firstCut", "child": "QEC_Bounds_BPTDisentangling_Joint_Sequential_Factors", "via": ["statement"]}
+{"parent": "QEC.Bounds.BPTCommutingProjectorModel.sequentialJointBCSectorCompression_secondCut_eq_firstCut", "child": "QEC_Bounds_BPTDisentangling_Joint_Sequential_Compression", "via": ["solution", "statement"]}
+{"parent": "QEC.Bounds.BPTCommutingProjectorModel.sequentialJointBCSectorCompression_secondCut_eq_firstCut", "child": "QEC_Bounds_BPTDisentangling_Joint_Sequential_Factors", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftMellin.inverse_mellin_analytic_of_flat", "child": "OAI_NumberTheory_DirichletL_Arithmetic_EisensteinCoordinates", "via": ["solution", "statement"]}
 {"parent": "OAI.ShortDraftMellin.inverse_mellin_analytic_of_flat", "child": "OAI_NumberTheory_DirichletL_Mellin_ExponentialSmoothing", "via": ["solution", "statement"]}
 {"parent": "FreeCode.sum_satAt_pos", "child": "FreeCode_Code", "via": ["solution", "statement"]}
@@ -74578,7 +74578,7 @@
 {"parent": "AvramDividend.Classical.avram_p4_h_gaussian_original_smallband_signed_integral_eq_finite_jump_sum", "child": "AvramDividend.Classical.avram_p4_h_gaussian_original_smallband_signed_integral_eq_intrinsic_tsum", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_h_gaussian_original_smallband_signed_integral_eq_finite_jump_sum", "child": "AvramDividend.Classical.avram_p4_h_gaussian_original_smalljump_cutoff_support_finite", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_h_gaussian_original_smallband_signed_integral_eq_finite_jump_sum", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "QuerySampleRev.kl_half_one_sub_delta", "child": "ExploreFirst_FundIneq_Setting", "via": ["statement"]}
+{"parent": "QuerySampleRev.kl_half_one_sub_delta", "child": "ExploreFirst_FundIneq_Setting", "via": ["solution", "statement"]}
 {"parent": "FromPrinted.Consequences.tm_of_colorings", "child": "FromPrinted_Circuits", "via": ["solution", "statement"]}
 {"parent": "FromPrinted.Consequences.tm_of_colorings", "child": "GraphProblems_Host", "via": ["solution", "statement"]}
 {"parent": "FromPrinted.Consequences.tm_of_colorings", "child": "GraphProblems_Sets", "via": ["solution", "statement"]}
@@ -90490,9 +90490,9 @@
 {"parent": "CountedRecursion_CountBase", "child": "CountedRecursion_LevelBound", "via": ["statement"]}
 {"parent": "CountedRecursion_CountBase", "child": "GeneralPieces_Rec_Rate", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.a5_2_contains_e", "child": "OAIQ098E031", "via": ["solution", "statement"]}
-{"parent": "OmniMix.theorem_1_2", "child": "OmniMix_IsProper", "via": ["statement"]}
-{"parent": "OmniMix.theorem_1_2", "child": "OmniMix_regret", "via": ["statement"]}
-{"parent": "OmniMix.theorem_1_2", "child": "OmniMix_IsMixable", "via": ["statement"]}
+{"parent": "OmniMix.theorem_1_2", "child": "OmniMix_IsProper", "via": ["solution", "statement"]}
+{"parent": "OmniMix.theorem_1_2", "child": "OmniMix_regret", "via": ["solution", "statement"]}
+{"parent": "OmniMix.theorem_1_2", "child": "OmniMix_IsMixable", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceBasicSourceLevelZero_rhs_order_dichotomy", "child": "QEC_Coding_AlgebraicGeometry_Towers_SourceRecursion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceBasicSourceLevelZero_rhs_order_dichotomy", "child": "QEC_Coding_AlgebraicGeometry_Towers_StepPlaceTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.sourceBasicSourceLevelZero_rhs_order_dichotomy", "child": "QEC_Coding_AlgebraicGeometry_Places_InverseAffinePlace", "via": ["solution", "statement"]}

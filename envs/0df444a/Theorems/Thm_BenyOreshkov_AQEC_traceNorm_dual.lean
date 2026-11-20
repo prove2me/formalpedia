@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenyOreshkov_AQEC_traceNorm_dual
 -- name    : BenyOreshkov.AQEC.traceNorm_dual
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:20:40.45632+00:00
 -- url     : https://prove2.me/theorems/c2a87828-ec7e-4a67-b2c4-19f6cdacf6da

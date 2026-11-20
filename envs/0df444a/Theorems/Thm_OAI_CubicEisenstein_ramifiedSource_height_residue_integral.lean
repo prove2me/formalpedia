@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_ramifiedSource_height_residue_integral
 -- name    : OAI.CubicEisenstein.ramifiedSource_height_residue_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T09:25:58.186535+00:00
 -- url     : https://prove2.me/theorems/139fef2c-462b-4fa1-9ffc-bf01089cfb59

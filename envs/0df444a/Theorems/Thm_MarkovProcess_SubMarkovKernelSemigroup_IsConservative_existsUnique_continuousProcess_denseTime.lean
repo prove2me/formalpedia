@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_existsUnique_continuousProcess_denseTime
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.existsUnique_continuousProcess_denseTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:25:00.52313+00:00
 -- url     : https://prove2.me/theorems/8ecb2e70-6386-4f49-847d-6120fdf1f854

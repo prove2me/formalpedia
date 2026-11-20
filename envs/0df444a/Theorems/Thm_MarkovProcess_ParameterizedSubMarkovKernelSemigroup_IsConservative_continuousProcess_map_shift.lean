@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ParameterizedSubMarkovKernelSemigroup_IsConservative_continuousProcess_map_shift
 -- name    : MarkovProcess.ParameterizedSubMarkovKernelSemigroup.IsConservative.continuousProcess_map_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:31:38.302775+00:00
 -- url     : https://prove2.me/theorems/998756d7-87e6-4a17-8fb1-9a34827cc3f6

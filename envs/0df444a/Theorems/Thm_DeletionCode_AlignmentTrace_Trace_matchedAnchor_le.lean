@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_AlignmentTrace_Trace_matchedAnchor_le
 -- name    : DeletionCode.AlignmentTrace.Trace.matchedAnchor_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:45:29.861168+00:00
 -- url     : https://prove2.me/theorems/f6ec4d3b-1ff3-4617-a14f-0e04f2549e23

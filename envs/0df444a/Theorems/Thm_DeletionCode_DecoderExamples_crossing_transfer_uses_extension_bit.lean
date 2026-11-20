@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_crossing_transfer_uses_extension_bit
 -- name    : DeletionCode.DecoderExamples.crossing_transfer_uses_extension_bit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:58.955081+00:00
 -- url     : https://prove2.me/theorems/d8c7aebf-0723-4644-87f0-3a0e06c9de72

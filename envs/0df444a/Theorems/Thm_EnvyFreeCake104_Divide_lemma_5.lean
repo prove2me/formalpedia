@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnvyFreeCake104_Divide_lemma_5
 -- name    : EnvyFreeCake104.Divide.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:10:27.184318+00:00
 -- url     : https://prove2.me/theorems/f555ffe7-4511-464d-9e4d-cbea41c884e1

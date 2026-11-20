@@ -21706,7 +21706,7 @@
 {"parent": "OAI.UniqueGamesTheorem.theorem11", "child": "UniqueGamesTheorem", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalCoverSplitting.main", "child": "KahlerSplitting", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalFInfinity.universal_group_of_type_FInfinity", "child": "UniversalFInfinity", "via": ["solution", "statement"]}
-{"parent": "OAI.UniversalTensorSquares.universal_tensor_square", "child": "UniversalTensorSquares", "via": ["statement"]}
+{"parent": "OAI.UniversalTensorSquares.universal_tensor_square", "child": "UniversalTensorSquares", "via": ["solution", "statement"]}
 {"parent": "OAI.VariableWL.main", "child": "VariableWL", "via": ["solution", "statement"]}
 {"parent": "OAI.VelocityDetection.TapeCodes.half_wellDefined", "child": "NavierStokesVelocity", "via": ["statement"]}
 {"parent": "OAI.VertexCover.every_fixed_factor_below_two", "child": "VertexCover", "via": ["solution", "statement"]}
@@ -56618,7 +56618,7 @@
 {"parent": "StabGen.Entropy.L1_displacement_bound", "child": "StabGen_Entropy_Model", "via": ["statement"]}
 {"parent": "StabGen.Entropy.avgLoss_lipschitz", "child": "StabGen_Entropy_Model", "via": ["solution", "statement"]}
 {"parent": "StabGen.Entropy.bregman_relEntropy", "child": "StabGen_Entropy_Model", "via": ["statement"]}
-{"parent": "StabGen.Entropy.pinsker_L1", "child": "StabGen_Entropy_Model", "via": ["statement"]}
+{"parent": "StabGen.Entropy.pinsker_L1", "child": "StabGen_Entropy_Model", "via": ["solution", "statement"]}
 {"parent": "StabGen.Hypothesis.hypothesis_stability_generalization_bound", "child": "FoundationsML_Stability_EmpiricalError", "via": ["solution", "statement"]}
 {"parent": "StabGen.Hypothesis.hypothesis_stability_generalization_bound", "child": "FoundationsML_Stability_GeneralizationError", "via": ["solution", "statement"]}
 {"parent": "StabGen.Hypothesis.hypothesis_stability_generalization_bound", "child": "FoundationsML_Stability_Loss", "via": ["statement"]}
@@ -67336,24 +67336,24 @@
 {"parent": "UniformDRO.Concentration.lemma_1", "child": "UniformDRO_Concentration_RobustRisk", "via": ["statement"]}
 {"parent": "UniformDRO.Concentration.lemma_3", "child": "PhiDivRobust_Counterpart_conj", "via": ["solution", "statement"]}
 {"parent": "UniformDRO.Concentration.lemma_3", "child": "UniformDRO_Concentration_RobustRisk", "via": ["solution", "statement"]}
-{"parent": "UniformDRO.Concentration.lemma_7", "child": "UniformDRO_Concentration_RobustRisk", "via": ["statement"]}
+{"parent": "UniformDRO.Concentration.lemma_7", "child": "UniformDRO_Concentration_RobustRisk", "via": ["solution", "statement"]}
 {"parent": "UniformDRO.Concentration.lemma_8", "child": "UniformDRO_Concentration_RobustRisk", "via": ["statement"]}
-{"parent": "UniformDRO.Concentration.lemma_9", "child": "UniformDRO_Concentration_RobustRisk", "via": ["statement"]}
+{"parent": "UniformDRO.Concentration.lemma_9", "child": "UniformDRO_Concentration_RobustRisk", "via": ["solution", "statement"]}
 {"parent": "UniformDRO.Concentration.theorem_2", "child": "UniformDRO_Concentration_RobustRisk", "via": ["statement"]}
 {"parent": "UniformDRO.Concentration.union_bound_display", "child": "UniformDRO_Concentration_RobustRisk", "via": ["statement"]}
 {"parent": "UniformDRO.LowerBound.kl_display", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
 {"parent": "UniformDRO.LowerBound.kl_display", "child": "bernoulliRelativeEntropy", "via": ["solution", "statement"]}
 {"parent": "UniformDRO.LowerBound.kl_second_branch", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
 {"parent": "UniformDRO.LowerBound.kl_second_branch", "child": "bernoulliRelativeEntropy", "via": ["solution", "statement"]}
-{"parent": "UniformDRO.LowerBound.le_cam_37", "child": "UniformDRO_LowerBound_Setting", "via": ["statement"]}
-{"parent": "UniformDRO.LowerBound.lemma_12_a", "child": "UniformDRO_LowerBound_Setting", "via": ["statement"]}
-{"parent": "UniformDRO.LowerBound.lemma_12_b", "child": "UniformDRO_LowerBound_Setting", "via": ["statement"]}
-{"parent": "UniformDRO.LowerBound.lemma_12_c", "child": "UniformDRO_LowerBound_Setting", "via": ["statement"]}
-{"parent": "UniformDRO.LowerBound.pinsker_display", "child": "UniformDRO_LowerBound_Setting", "via": ["statement"]}
-{"parent": "UniformDRO.LowerBound.pinsker_display", "child": "bernoulliRelativeEntropy", "via": ["statement"]}
-{"parent": "UniformDRO.LowerBound.primal_two_point", "child": "UniformDRO_LowerBound_Setting", "via": ["statement"]}
+{"parent": "UniformDRO.LowerBound.le_cam_37", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
+{"parent": "UniformDRO.LowerBound.lemma_12_a", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
+{"parent": "UniformDRO.LowerBound.lemma_12_b", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
+{"parent": "UniformDRO.LowerBound.lemma_12_c", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
+{"parent": "UniformDRO.LowerBound.pinsker_display", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
+{"parent": "UniformDRO.LowerBound.pinsker_display", "child": "bernoulliRelativeEntropy", "via": ["solution", "statement"]}
+{"parent": "UniformDRO.LowerBound.primal_two_point", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
 {"parent": "UniformDRO.LowerBound.taylor_display", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
-{"parent": "UniformDRO.LowerBound.theorem_3", "child": "UniformDRO_LowerBound_Setting", "via": ["statement"]}
+{"parent": "UniformDRO.LowerBound.theorem_3", "child": "UniformDRO_LowerBound_Setting", "via": ["solution", "statement"]}
 {"parent": "UniformDRO_LowerBound_Setting", "child": "UniformDRO_Concentration_RobustRisk", "via": ["statement"]}
 {"parent": "UniformPrecSched.Makespan.corollary_3_6", "child": "UniformPrecSched_Makespan_LP", "via": ["solution", "statement"]}
 {"parent": "UniformPrecSched.Makespan.corollary_3_6", "child": "UniformPrecSched_Makespan_Model", "via": ["solution", "statement"]}

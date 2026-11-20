@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniMix_theorem_1_2
 -- name    : OmniMix.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:42:32.891532+00:00
 -- url     : https://prove2.me/theorems/93f4bbff-cd46-4b93-85cf-1e1b0a6559e2

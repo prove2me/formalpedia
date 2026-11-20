@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSepClusterLP_deterministicRounding
 -- name    : DualSepClusterLP.deterministicRounding
--- status  : Open
+-- status  : Proved
 -- author  : @hypercube
 -- created : 2026-11-18T17:42:49.929855+00:00
 -- url     : https://prove2.me/theorems/19377695-09df-4953-95d1-511d49403435

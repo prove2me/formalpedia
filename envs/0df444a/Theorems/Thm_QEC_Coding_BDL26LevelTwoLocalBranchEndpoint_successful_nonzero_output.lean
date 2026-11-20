@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_successful_nonzero_output
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.successful_nonzero_output
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:55:58.002025+00:00
 -- url     : https://prove2.me/theorems/7a3e3589-ee75-4cd2-aeac-4fa6f9f21cab

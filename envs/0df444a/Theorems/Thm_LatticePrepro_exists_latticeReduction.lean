@@ -24,6 +24,8 @@
 --   Parts 2 and 3 give $\|t_x-v\|_p>(g/16)^{1/s}R$ for all $v\in\Lambda$ on NO instances, so for $g>16f^s$ the instances are $f$-gap CVPP instances; this is how the paper phrases Lemma 3.12. It is the lattice half of the conversions: composed with the moment reduction (Theorem 4.8) it gives Theorem 5.1 for lattices, and the residual weight is the quantity tested in Lemma 5.2.
 --
 --   **Formalization Note.** The conclusion is `Nonempty (LatticeReduction L g pn)`, i.e. such data exists; the structure `LatticeReduction` packages the lattice family $(\Lambda,(t_x))$, $R$, $N$ and $w$ with the properties above. The lattice is a $\mathbb Z$-submodule of $\mathbb Z^M$ (`Submodule ℤ (M → ℤ)`), and full rank is encoded by $N\cdot\mathbb Z^M\subseteq\Lambda$. The norm exponent is a `PNorm`, so every real $p\ge1$ and $p=\infty$ are covered, whereas the paper states the lemma for rational $p$ (needed only for computability). The hypotheses $g<Q$ (`L.blockSize`) and $D\ge1$ (`L.numBlocks`) correspond to $Q>\Gamma$ and $D\ge1$ in Definition 3.10; Lean's gap $g$ is the paper's $\Gamma$. The polynomial-time claims (integer basis, membership test, computing $w$) are not formalized, and $w$ is an arbitrary function.
+--
+--   **Note (existence form).** This statement asserts only that some lattice reduction exists. The statement for the object that the paper constructs is `LatticePrepro.LinearSystemFamily.exists_latticeReduction_eq`.
 -- source:
 --   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Lemma 3.12 (\label{lem:block-system-lattices}); Lean: LatticePrepro/Conversions/Lattices.lean, LatticePrepro.exists_latticeReduction
 

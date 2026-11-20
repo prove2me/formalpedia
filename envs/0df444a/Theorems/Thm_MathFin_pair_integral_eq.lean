@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MathFin_pair_integral_eq
 -- name    : MathFin.pair_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:37:10.148085+00:00
 -- url     : https://prove2.me/theorems/c4e53369-fedc-443a-91bf-7a2773dfc157

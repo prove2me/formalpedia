@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultitaskContracts_theorem_2
 -- name    : MultitaskContracts.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T22:34:00.647452+00:00
 -- url     : https://prove2.me/theorems/f01da088-7e4c-4e6a-baed-dd37281b1044

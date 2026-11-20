@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_PaperParameters_L_le_n
 -- name    : DeletionCode.PaperParameters.L_le_n
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:46:31.132572+00:00
 -- url     : https://prove2.me/theorems/95680f10-51ef-41c1-8ccb-9cdb1c56ee98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_crossing_start_records_transferred_seed
 -- name    : DeletionCode.DecoderExamples.crossing_start_records_transferred_seed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T06:00:01.480575+00:00
 -- url     : https://prove2.me/theorems/3e4c6ae4-4dbb-4efa-b60d-f6d6ae380148

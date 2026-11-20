@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_MaximalRuns_exists_head_run
 -- name    : DeletionCode.MaximalRuns.exists_head_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:31:02.439577+00:00
 -- url     : https://prove2.me/theorems/ab93ce35-1622-4f4e-bec4-f249c6a289dd

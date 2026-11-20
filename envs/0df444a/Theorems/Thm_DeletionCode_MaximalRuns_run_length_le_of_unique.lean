@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_MaximalRuns_run_length_le_of_unique
 -- name    : DeletionCode.MaximalRuns.run_length_le_of_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:31:11.805362+00:00
 -- url     : https://prove2.me/theorems/c259485c-f58e-4e22-9b56-d4cc87a62a50

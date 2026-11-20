@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CountExponent_field_power_bound
 -- name    : DeletionCode.CountExponent.field_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:21:04.87127+00:00
 -- url     : https://prove2.me/theorems/dd2a8fda-42fc-43a0-9ba0-09cd014384c7

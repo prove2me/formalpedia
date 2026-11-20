@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.stableGammaIntegralComplexExtensionV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T22:51:31.922552+00:00
 -- url     : https://prove2.me/submissions/3e900577-51a4-4d1e-a583-901d24fca895
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch01_McKeanRightContinuousFiltration
 import Mathlib

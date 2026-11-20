@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Continuity_dyadic_holder_chaining
 -- name    : LevyStochCalc.Brownian.Continuity.dyadic_holder_chaining
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:13:19.742696+00:00
 -- url     : https://prove2.me/theorems/21e25fbc-524b-4fc6-bab8-256fae421926

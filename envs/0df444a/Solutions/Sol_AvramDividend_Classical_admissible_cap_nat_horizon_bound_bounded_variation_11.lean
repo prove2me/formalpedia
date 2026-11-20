@@ -1,10 +1,8 @@
 -- Prove2me | solution 11 for AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-05T18:06:34.898545+00:00
 -- url     : https://prove2.me/submissions/67a7686a-9633-4180-b806-b0e2ce8f04f2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.MeasureTheory.MeasurableSpace.Defs

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SingleEditOrigins_Edit_word_of_origin
 -- name    : DeletionCode.SingleEditOrigins.Edit.word_of_origin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:59.704069+00:00
 -- url     : https://prove2.me/theorems/fdb7b67c-a145-49ee-a2b1-a5e00c0976ae

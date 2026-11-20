@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_eq_brownianMotion_of_map_finsetEvaluation
 -- name    : MarkovProcess.eq_brownianMotion_of_map_finsetEvaluation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:34.591594+00:00
 -- url     : https://prove2.me/theorems/66de846a-c9d0-40a2-b17a-e5ee7b208520

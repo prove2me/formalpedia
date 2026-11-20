@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp587h_r2j11_short
 -- name    : LL_Decomp587h.r2j11_short
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-18T01:12:12.439939+00:00
 -- url     : https://prove2.me/theorems/54ce77e1-a3de-4f11-b537-039aa32cbca6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EuclideanLineAvgDist_Embedding_matching_lipschitz_duality
 -- name    : EuclideanLineAvgDist.Embedding.matching_lipschitz_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:12:15.061858+00:00
 -- url     : https://prove2.me/theorems/de49ffe0-0e6f-45f3-a841-8a271872cced

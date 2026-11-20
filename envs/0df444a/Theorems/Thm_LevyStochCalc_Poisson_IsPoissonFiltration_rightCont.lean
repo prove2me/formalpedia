@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_IsPoissonFiltration_rightCont
 -- name    : LevyStochCalc.Poisson.IsPoissonFiltration.rightCont
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:26:05.063487+00:00
 -- url     : https://prove2.me/theorems/30f061e8-b8e5-4013-a00e-eccdf091ccf5

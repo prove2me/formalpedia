@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CatalogueWords_editedFamily_positive
 -- name    : DeletionCode.CatalogueWords.editedFamily_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:26:42.996495+00:00
 -- url     : https://prove2.me/theorems/f727030f-6924-4280-8f34-d50c2c559f5f

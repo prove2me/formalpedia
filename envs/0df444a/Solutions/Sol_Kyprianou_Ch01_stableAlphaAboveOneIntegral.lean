@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.stableAlphaAboveOneIntegral
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-19T00:16:03.764878+00:00
 -- url     : https://prove2.me/submissions/a8ddb258-6fd1-4148-86a3-d4c85fc64cdd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch01_stableAlphaAboveOneKernelIntegrable

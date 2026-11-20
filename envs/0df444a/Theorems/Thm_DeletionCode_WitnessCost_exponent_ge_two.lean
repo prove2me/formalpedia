@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_WitnessCost_exponent_ge_two
 -- name    : DeletionCode.WitnessCost.exponent_ge_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:49:36.850309+00:00
 -- url     : https://prove2.me/theorems/76a2a66a-2273-4ff6-980e-e5bbdfa128b5

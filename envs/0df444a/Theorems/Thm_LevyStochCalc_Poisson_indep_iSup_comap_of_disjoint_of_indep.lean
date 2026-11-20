@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_indep_iSup_comap_of_disjoint_of_indep
 -- name    : LevyStochCalc.Poisson.indep_iSup_comap_of_disjoint_of_indep
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:36:14.880356+00:00
 -- url     : https://prove2.me/theorems/a2b36e8e-522d-4c1e-9475-46d349fa3971

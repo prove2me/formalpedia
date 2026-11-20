@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_markedPredictable_of_measurable_window
 -- name    : LevyStochCalc.Probability.markedPredictable_of_measurable_window
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:32:16.362468+00:00
 -- url     : https://prove2.me/theorems/b6f7cd23-25fe-457f-a651-69f0ed3c0bba

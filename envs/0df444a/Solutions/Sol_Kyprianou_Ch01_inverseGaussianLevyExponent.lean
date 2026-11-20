@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.inverseGaussianLevyExponent
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-19T00:38:24.222683+00:00
 -- url     : https://prove2.me/submissions/806285e5-ae03-471f-b318-8e32f4562994
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch01_inverseGaussianLevyMeasureSourceExact

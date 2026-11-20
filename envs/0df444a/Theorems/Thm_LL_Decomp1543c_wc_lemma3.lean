@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543c_wc_lemma3
 -- name    : LL_Decomp1543c.wc_lemma3
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T17:31:25.177506+00:00
 -- url     : https://prove2.me/theorems/4d14178b-f61f-44c7-984d-efc77d7e0c38

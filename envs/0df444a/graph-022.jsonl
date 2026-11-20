@@ -61586,8 +61586,8 @@
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.sum_leftRegularMatrix_cyclicBoundaryElement", "child": "QEC_Coding_FiberBundle_CohomologyRepresentatives", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.sum_leftRegularMatrix_cyclicBoundaryElement", "child": "QEC_Coding_CodeReduction_Classical_Distance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BalancedProduct.PKDistance.sum_leftRegularMatrix_cyclicBoundaryElement", "child": "QEC_Coding_BalancedProduct_PKDistance", "via": ["solution", "statement"]}
-{"parent": "BlockSSM.theorem_4", "child": "BlockSSM_coverDim", "via": ["statement"]}
-{"parent": "BlockSSM.theorem_4", "child": "BlockSSM_trackerDim", "via": ["statement"]}
+{"parent": "BlockSSM.theorem_4", "child": "BlockSSM_coverDim", "via": ["solution", "statement"]}
+{"parent": "BlockSSM.theorem_4", "child": "BlockSSM_trackerDim", "via": ["solution", "statement"]}
 {"parent": "PrivBayesTest_privChernoff", "child": "PrivLearn_Generic_Privacy", "via": ["statement"]}
 {"parent": "PrivBayesTest_privChernoff", "child": "PrivBayesTest_chernoff", "via": ["statement"]}
 {"parent": "PrivBayesTest_privChernoff", "child": "PrivBayesTest_outLaw", "via": ["statement"]}
@@ -63889,8 +63889,8 @@
 {"parent": "QEC.Coding.Why24AppendixANF.sourceCoefficient_pair_4_9", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Quadratic_PartC", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis_Bridge_Positivity", "child": "AaronsonAmbainis_Bridge_Basic", "via": ["statement"]}
 {"parent": "AaronsonAmbainis_Bridge_Positivity", "child": "AaronsonAmbainis_TwoSided_Overlap", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.lemma_2_1", "child": "QuantumLTF_Membership_ltf", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.lemma_2_1", "child": "QuantumLTF_Membership_disagree", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.lemma_2_1", "child": "QuantumLTF_Membership_ltf", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.lemma_2_1", "child": "QuantumLTF_Membership_disagree", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.bundleCoboundary_constantFiberWord_eq_horizontalBaseLift", "child": "QEC_Coding_FiberBundle_CohomologyDistance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.bundleCoboundary_constantFiberWord_eq_horizontalBaseLift", "child": "QEC_Coding_FiberBundle_CohomologyRepresentatives", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.HighDimensionalExpander.CayleyClique.extensionVertices_subset_neighborVertices", "child": "QEC_Coding_HighDimensionalExpander_Combinatorics_CayleyClique", "via": ["solution", "statement"]}
@@ -78188,8 +78188,8 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalFilledDifferential_injective", "child": "QEC_Coding_ExpanderCodes_LPSOriginalFilledDifferential", "via": ["solution", "statement"]}
 {"parent": "EllipsoidFitting.lemma_4_14", "child": "EllipsoidFitting_scalarR", "via": ["statement"]}
 {"parent": "EllipsoidFitting.lemma_4_14", "child": "EllipsoidFitting_pointLaw", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_p4_f10_purejump_topcap_exact_clock_HJB_expected_upper", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_p4_f10_purejump_topcap_exact_clock_HJB_expected_upper", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_p4_f10_purejump_topcap_exact_clock_HJB_expected_upper", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_p4_f10_purejump_topcap_exact_clock_HJB_expected_upper", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "PrivLittlestone_sampleAgg", "child": "PrivLittlestone_pick", "via": ["statement"]}
 {"parent": "PrivLittlestone_sampleAgg", "child": "PrivLittlestone_Alg1Coins", "via": ["statement"]}
 {"parent": "FewInnerTSP.lemma_5_5", "child": "FewInnerTSP_MixedRepr", "via": ["statement"]}
@@ -85599,12 +85599,12 @@
 {"parent": "RobustFcstAgg_view", "child": "RobustFcstAgg_Signals", "via": ["statement"]}
 {"parent": "CutwidthCircuitLB_ROBP_Computes", "child": "CutwidthCircuitLB_ROBP_Accepts", "via": ["statement"]}
 {"parent": "CutwidthCircuitLB_ROBP_Computes", "child": "CutwidthCircuitLB_ROBP", "via": ["statement"]}
-{"parent": "SingleOrSample.theorem_4_1", "child": "LittleCharity_MMS_Setting", "via": ["statement"]}
-{"parent": "SingleOrSample.theorem_4_1", "child": "SubsamplingSM_Offline_IsSubmodular", "via": ["statement"]}
-{"parent": "SingleOrSample.theorem_4_1", "child": "SingleOrSample_runLaw", "via": ["statement"]}
-{"parent": "SingleOrSample.theorem_4_1", "child": "SingleOrSample_IsValuation", "via": ["statement"]}
-{"parent": "SingleOrSample.theorem_4_1", "child": "LittleCharity_EFX_Setting", "via": ["statement"]}
-{"parent": "SingleOrSample.theorem_4_1", "child": "SingleOrSample_IsSafe", "via": ["statement"]}
+{"parent": "SingleOrSample.theorem_4_1", "child": "LittleCharity_MMS_Setting", "via": ["solution", "statement"]}
+{"parent": "SingleOrSample.theorem_4_1", "child": "SubsamplingSM_Offline_IsSubmodular", "via": ["solution", "statement"]}
+{"parent": "SingleOrSample.theorem_4_1", "child": "SingleOrSample_runLaw", "via": ["solution", "statement"]}
+{"parent": "SingleOrSample.theorem_4_1", "child": "SingleOrSample_IsValuation", "via": ["solution", "statement"]}
+{"parent": "SingleOrSample.theorem_4_1", "child": "LittleCharity_EFX_Setting", "via": ["solution", "statement"]}
+{"parent": "SingleOrSample.theorem_4_1", "child": "SingleOrSample_IsSafe", "via": ["solution", "statement"]}
 {"parent": "MatSemiBurnside_IsStableSet", "child": "MatSemiBurnside_rowKer", "via": ["statement"]}
 {"parent": "PrivLittlestone_algStep", "child": "PrivLittlestone_AlgState", "via": ["statement"]}
 {"parent": "PrivLittlestone_algStep", "child": "PrivLittlestone_sampleAgg", "via": ["statement"]}
@@ -85726,11 +85726,11 @@
 {"parent": "ByzSigT.lemma_4_23", "child": "ByzSigT_ExistsIn", "via": ["statement"]}
 {"parent": "CutwidthCircuitLB_edgeMultiset", "child": "CombOpt_MatchingPolytope_Graph", "via": ["statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.isotypic_compression_overlap_product_eq_sector_block_product_QECertChecked", "child": "QEC_Import_Compact_622cd611c7503a95", "via": ["solution", "statement"]}
-{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_optND", "via": ["statement"]}
-{"parent": "FairTeamContracts.theorem_4_1", "child": "SubsamplingSM_Offline_IsSubmodular", "via": ["statement"]}
-{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_IsSuccessFn", "via": ["statement"]}
-{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_IsAdditive", "via": ["statement"]}
-{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_optFair", "via": ["statement"]}
+{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_optND", "via": ["solution", "statement"]}
+{"parent": "FairTeamContracts.theorem_4_1", "child": "SubsamplingSM_Offline_IsSubmodular", "via": ["solution", "statement"]}
+{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_IsSuccessFn", "via": ["solution", "statement"]}
+{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_IsAdditive", "via": ["solution", "statement"]}
+{"parent": "FairTeamContracts.theorem_4_1", "child": "FairTeamContracts_optFair", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.JacobiTripleProductCore.summable_eval_series", "child": "QEC_Coding_ExpanderCodes_JacobiTripleProductCore", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_BitTuring_UnaryFieldInverse", "child": "QEC_Coding_BitTuring_UnaryProductSearch", "via": ["statement"]}
 {"parent": "QEC_Coding_BitTuring_UnaryFieldInverse", "child": "QEC_Coding_BitTuring_UnaryInverseInput", "via": ["statement"]}

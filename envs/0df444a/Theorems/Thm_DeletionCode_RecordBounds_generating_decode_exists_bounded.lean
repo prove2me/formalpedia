@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordBounds_generating_decode_exists_bounded
 -- name    : DeletionCode.RecordBounds.generating_decode_exists_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:17:23.725034+00:00
 -- url     : https://prove2.me/theorems/da700a68-697c-4969-9fdc-09f6a9245d45

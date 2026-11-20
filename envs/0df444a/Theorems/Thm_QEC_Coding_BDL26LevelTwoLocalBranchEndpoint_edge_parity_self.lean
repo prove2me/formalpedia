@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_edge_parity_self
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.edge_parity_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:50:47.052426+00:00
 -- url     : https://prove2.me/theorems/37dffec9-7321-490f-9fba-d423af423808

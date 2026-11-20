@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_twin_prime_conjecture_of_target
 -- name    : twin_prime_conjecture_of_target
--- status  : Open
+-- status  : Proved
 -- author  : @tara_sooo
 -- created : 2026-11-18T12:23:08.08844+00:00
 -- url     : https://prove2.me/theorems/3be7d7f5-be6a-4f33-a60f-e5112d4e2de0

@@ -23,6 +23,8 @@
 --   This is the lattice case of Theorem 5.1. As in the paper's proof, the verifier is over $\mathbb{F}_2$. The result is stated for an arbitrary quadratic verifier, with dimension bounded by $(S+1)^C$. The paper fixes a 3SAT verifier and obtains $M=\mathrm{poly}(n)$; that instantiation is a separate Lean result. The paper allows rational $p$; here every real $p\ge1$ is allowed.
 --
 --   **Formalization Note** The conclusion is `Nonempty (LatticeGap pn ε V.Language (V.S + 1) C)`, where `pn : PNorm` encodes $p$. The lattice distance is a real infimum (`⨅` over lattice vectors), and $M^{1/s-\varepsilon}$ is a real power (`Real.rpow`). Polynomial-time computability and description lengths are not formalized; the search test of Lemma 5.2 is stated separately (`LatticeReduction.accepts_of_isApprox`, `LatticeReduction.not_accepts_of_isNo`).
+--
+--   **Note (existence form).** This statement asserts only that some lattice with targets has the gap. The Lean statement does not require the targets to be computable, so this form is also satisfied by a construction unrelated to the paper, in which the target records whether the instance is in the language. The statement for the object that the paper constructs is `LatticePrepro.QuadraticVerifier.Tables.latticeFamily_hasGap`.
 -- source:
 --   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), lattice case; Lean: LatticePrepro/Main.lean, LatticePrepro.lattice_gap
 

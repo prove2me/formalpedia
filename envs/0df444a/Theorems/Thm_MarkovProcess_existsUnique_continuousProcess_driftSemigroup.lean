@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_existsUnique_continuousProcess_driftSemigroup
 -- name    : MarkovProcess.existsUnique_continuousProcess_driftSemigroup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:30:58.193565+00:00
 -- url     : https://prove2.me/theorems/50337e8a-b875-456d-a98e-f4ea8a8e2bd8

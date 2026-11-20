@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Recurrence_bk15Run_successProbability_closed_form
 -- name    : QEC.Distillation.BK15.Recurrence.bk15Run_successProbability_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:16:41.794959+00:00
 -- url     : https://prove2.me/theorems/57ea23ef-0754-4585-bd68-ca39a9b7cd40

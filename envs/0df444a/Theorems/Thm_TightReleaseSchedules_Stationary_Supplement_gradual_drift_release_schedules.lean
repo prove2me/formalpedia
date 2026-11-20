@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_Supplement_gradual_drift_release_schedules
 -- name    : TightReleaseSchedules.Stationary.Supplement.gradual_drift_release_schedules
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T04:21:41.057331+00:00
 -- url     : https://prove2.me/theorems/8aa0088f-365c-4d82-a0ce-f9ba9d788594

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_indep_of_disjoint_region_families
 -- name    : LevyStochCalc.Poisson.indep_of_disjoint_region_families
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:37:07.948208+00:00
 -- url     : https://prove2.me/theorems/d1c73d40-f7b2-4da7-88f1-a4479c5fa4de

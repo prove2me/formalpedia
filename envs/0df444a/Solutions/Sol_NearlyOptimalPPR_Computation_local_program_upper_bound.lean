@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NearlyOptimalPPR.Computation.local_program_upper_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-18T02:37:40.718368+00:00
 -- url     : https://prove2.me/submissions/5f3619d3-5850-4328-8090-d3bfd197371c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NearlyOptimalPPR_Computation_uniform_local_algorithm
 import Definitions.Def_NearlyOptimalPPR_Computation_push

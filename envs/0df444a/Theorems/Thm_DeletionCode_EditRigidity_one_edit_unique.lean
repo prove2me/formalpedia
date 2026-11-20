@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditRigidity_one_edit_unique
 -- name    : DeletionCode.EditRigidity.one_edit_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:20:00.606946+00:00
 -- url     : https://prove2.me/theorems/f5632a09-f30e-4b8b-8a51-852940fe5138

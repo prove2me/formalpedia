@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllipticRootFinding_Online_lemma_4_1
 -- name    : EllipticRootFinding.Online.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T19:02:05.151169+00:00
 -- url     : https://prove2.me/theorems/c1c15ade-3fa4-40aa-bd7e-c32a7b7b5564

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedRainbowCycle_Weighted_rainbow_cycle
 -- name    : WeightedRainbowCycle.Weighted.rainbow_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:07:18.852144+00:00
 -- url     : https://prove2.me/theorems/3eef993a-c27c-4105-bcda-56f4e9f8d296

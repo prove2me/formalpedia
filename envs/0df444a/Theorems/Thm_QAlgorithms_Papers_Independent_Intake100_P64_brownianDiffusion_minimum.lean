@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_brownianDiffusion_minimum
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.brownianDiffusion_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:25:33.29608+00:00
 -- url     : https://prove2.me/theorems/e1d7f403-7897-414c-85bf-1675708a2500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordBounds_negativeLength_pos
 -- name    : DeletionCode.RecordBounds.negativeLength_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:16:15.634654+00:00
 -- url     : https://prove2.me/theorems/5bb03303-4be5-4036-96cb-3356d696b143

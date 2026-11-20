@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ConcreteFill_fillFromBase_extends
 -- name    : DeletionCode.ConcreteFill.fillFromBase_extends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:56:24.729104+00:00
 -- url     : https://prove2.me/theorems/079c31fc-a844-4772-acc1-effcdbe43e3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_bubble_positive_value
 -- name    : DeletionCode.SignedSupport.bubble_positive_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:13:34.519272+00:00
 -- url     : https://prove2.me/theorems/039a82b7-a7dd-4ac3-9341-710e6f12c237

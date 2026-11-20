@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_fixed_parameters_paid_materialization
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.fixed_parameters_paid_materialization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T06:51:27.033138+00:00
 -- url     : https://prove2.me/theorems/da7682cf-a6ad-4696-a582-30a783f471bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianLevyMeasureSourceExact
 -- name    : Kyprianou.Ch01.inverseGaussianLevyMeasureSourceExact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:37:45.357342+00:00
 -- url     : https://prove2.me/theorems/8ff88bce-69c2-4c1b-9406-a9b89c89563a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearHashingPoissonesque_ExpectedLoads_Supplement_divergence_increment
 -- name    : LinearHashingPoissonesque.ExpectedLoads.Supplement.divergence_increment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T05:05:01.107196+00:00
 -- url     : https://prove2.me/theorems/6e9a0a2f-9340-40ef-bd45-4c2baaac9477

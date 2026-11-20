@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntuitiveDPI_Smooth_lemma_B_2
 -- name    : IntuitiveDPI.Smooth.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:15:25.829109+00:00
 -- url     : https://prove2.me/theorems/55311c4c-c47a-41b6-b912-14c0b39c00c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumPath_spectrum_at_occurrence_one
 -- name    : DeletionCode.SpectrumPath.spectrum_at_occurrence_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:22:25.856526+00:00
 -- url     : https://prove2.me/theorems/e82119ee-0527-4561-9de7-63262b68a219

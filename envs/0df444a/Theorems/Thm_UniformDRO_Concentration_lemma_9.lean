@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_Concentration_lemma_9
 -- name    : UniformDRO.Concentration.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:28.749989+00:00
 -- url     : https://prove2.me/theorems/3068fb64-a7ba-4f0d-9567-9510894290e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RandomHash_real_coordinate_uniform
 -- name    : DeletionCode.RandomHash.real_coordinate_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:43:17.720224+00:00
 -- url     : https://prove2.me/theorems/ea5cd476-418a-429b-a13f-3981ef3485bd

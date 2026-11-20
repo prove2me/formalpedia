@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_strict_lex_descent
 -- name    : XorParallelRepetition.Exponential.strict_lex_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:07:27.590475+00:00
 -- url     : https://prove2.me/theorems/e3c58ff4-4eef-4466-816e-1def14945d42

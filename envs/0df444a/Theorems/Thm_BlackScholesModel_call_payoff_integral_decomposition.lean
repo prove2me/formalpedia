@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_call_payoff_integral_decomposition
 -- name    : BlackScholesModel.call_payoff_integral_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T12:26:52.641225+00:00
 -- url     : https://prove2.me/theorems/e74ec012-8d27-454a-be66-fc8ca9cbc031

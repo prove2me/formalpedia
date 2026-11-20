@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RuleReconstruction_rules_roundtrip
 -- name    : DeletionCode.RuleReconstruction.rules_roundtrip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:19:36.509901+00:00
 -- url     : https://prove2.me/theorems/276a1c28-d988-46f6-b918-99229c99bec2

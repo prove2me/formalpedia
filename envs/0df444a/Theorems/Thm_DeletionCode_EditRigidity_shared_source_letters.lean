@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditRigidity_shared_source_letters
 -- name    : DeletionCode.EditRigidity.shared_source_letters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:19:44.973903+00:00
 -- url     : https://prove2.me/theorems/6dbb264c-6388-4dac-a6a9-203105976ce6

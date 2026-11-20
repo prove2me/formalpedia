@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueWordParameters_two_mul_choose_le_square
 -- name    : DeletionCode.UniqueWordParameters.two_mul_choose_le_square
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:29.910722+00:00
 -- url     : https://prove2.me/theorems/590a4155-d763-484a-9b9b-f786e9d8ef04

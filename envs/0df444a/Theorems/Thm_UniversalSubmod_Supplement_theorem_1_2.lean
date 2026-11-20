@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_Supplement_theorem_1_2
 -- name    : UniversalSubmod.Supplement.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T17:41:12.437211+00:00
 -- url     : https://prove2.me/theorems/f5cf53e2-8244-4071-a971-a49b2dacfa59

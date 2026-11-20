@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditMulticoloring_Code_edit_ball_volume
 -- name    : EditMulticoloring.Code.edit_ball_volume
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T18:48:35.789988+00:00
 -- url     : https://prove2.me/theorems/bb792604-0f64-420c-9bbf-8c5f0e7cabf6

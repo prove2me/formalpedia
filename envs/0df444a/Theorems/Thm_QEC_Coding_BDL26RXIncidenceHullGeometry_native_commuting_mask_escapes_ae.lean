@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullGeometry_native_commuting_mask_escapes_ae
 -- name    : QEC.Coding.BDL26RXIncidenceHullGeometry.native_commuting_mask_escapes_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:44:33.979842+00:00
 -- url     : https://prove2.me/theorems/d17c652c-537f-4daa-abad-cc271b1ec3f5

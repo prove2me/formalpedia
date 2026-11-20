@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineCMC_Minimax_kl_perturbation_bound
 -- name    : OfflineCMC.Minimax.kl_perturbation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:38:54.706095+00:00
 -- url     : https://prove2.me/theorems/f6b47ea4-e115-4c7c-a21f-52d1d6290e93

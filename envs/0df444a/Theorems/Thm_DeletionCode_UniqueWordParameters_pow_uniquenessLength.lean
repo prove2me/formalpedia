@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueWordParameters_pow_uniquenessLength
 -- name    : DeletionCode.UniqueWordParameters.pow_uniquenessLength
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:33.945208+00:00
 -- url     : https://prove2.me/theorems/5f42be9e-7da5-46cb-a38f-fc513982f61e

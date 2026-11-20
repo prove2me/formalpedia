@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_existsUnique_continuousProcess_heatSemigroup
 -- name    : MarkovProcess.existsUnique_continuousProcess_heatSemigroup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:30.660981+00:00
 -- url     : https://prove2.me/theorems/e804704b-590b-4931-a34d-56e083a1fb98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_isTightMeasureSet_of_totallyBounded
 -- name    : LevyStochCalc.Probability.isTightMeasureSet_of_totallyBounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:28:50.113286+00:00
 -- url     : https://prove2.me/theorems/b21d53e3-e57f-4895-bb65-93a9ac6b098e

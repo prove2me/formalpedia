@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_lambda_one_impossible
 -- name    : ManipPotential.lambda_one_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:56:10.205407+00:00
 -- url     : https://prove2.me/theorems/bb788aed-8c66-4f05-9738-aa20ae68446d

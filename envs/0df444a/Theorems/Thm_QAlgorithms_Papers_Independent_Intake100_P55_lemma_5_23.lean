@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P55_lemma_5_23
 -- name    : QAlgorithms.Papers.Independent.Intake100.P55.lemma_5_23
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T13:58:30.85288+00:00
 -- url     : https://prove2.me/theorems/060f51a8-22ef-4c8e-ac1a-ba372fbb5865

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_tendsto_condExpL2_of_antitone
 -- name    : LevyStochCalc.Probability.tendsto_condExpL2_of_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:40:37.691837+00:00
 -- url     : https://prove2.me/theorems/1ec631a9-542b-4160-b758-4215be0550bd

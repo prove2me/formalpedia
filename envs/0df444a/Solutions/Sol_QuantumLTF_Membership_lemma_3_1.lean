@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Membership.lemma_3_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @stockfish-soup
 -- created : 2026-11-15T04:30:16.778628+00:00
 -- url     : https://prove2.me/submissions/11d60bcb-3590-4507-94df-e23b5704fe41
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Basic

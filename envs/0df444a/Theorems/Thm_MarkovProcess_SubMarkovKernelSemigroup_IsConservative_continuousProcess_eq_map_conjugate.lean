@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_continuousProcess_eq_map_conjugate
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.continuousProcess_eq_map_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:43.62797+00:00
 -- url     : https://prove2.me/theorems/c907a860-c581-42c3-b866-438b1ef42566

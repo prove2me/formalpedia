@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_FinitePairUnion_ordered_pair_card
 -- name    : DeletionCode.FinitePairUnion.ordered_pair_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:13.065763+00:00
 -- url     : https://prove2.me/theorems/28cd0241-f798-407d-bc57-8ed4b7ab915a

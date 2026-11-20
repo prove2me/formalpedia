@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_ae_eq_zero_of_integral_char_mul_eq_zero
 -- name    : LevyStochCalc.Probability.ae_eq_zero_of_integral_char_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:32:11.108962+00:00
 -- url     : https://prove2.me/theorems/033102b1-dc06-4c02-b478-b83c0bb09a17

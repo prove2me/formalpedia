@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RedundancyBounds_code_nonempty
 -- name    : DeletionCode.RedundancyBounds.code_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:50:10.57648+00:00
 -- url     : https://prove2.me/theorems/a66e01fe-fa34-4f5b-adc1-daec4e96d748

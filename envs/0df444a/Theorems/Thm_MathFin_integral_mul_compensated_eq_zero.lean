@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MathFin_integral_mul_compensated_eq_zero
 -- name    : MathFin.integral_mul_compensated_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:31:57.524546+00:00
 -- url     : https://prove2.me/theorems/fd254251-4d4f-4d68-88b7-de528299ebfc

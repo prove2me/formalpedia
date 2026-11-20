@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.poissonRandomMeasureIntegralLaws
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T21:45:30.85996+00:00
 -- url     : https://prove2.me/submissions/98c461b0-6542-4df1-b1e8-281baaf3d679
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_ch02PoissonIntegralIntegrabilityCriterion

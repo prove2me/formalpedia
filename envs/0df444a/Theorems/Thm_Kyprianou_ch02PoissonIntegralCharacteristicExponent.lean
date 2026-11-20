@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_ch02PoissonIntegralCharacteristicExponent
 -- name    : Kyprianou.ch02PoissonIntegralCharacteristicExponent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T21:44:06.500308+00:00
 -- url     : https://prove2.me/theorems/3102ab48-a9b8-46f0-b556-637f92adf0b0

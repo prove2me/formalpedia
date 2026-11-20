@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp530a_leaf_rademacher_gamma_ratio
 -- name    : LL_Decomp530a.leaf_rademacher_gamma_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-17T15:38:22.220225+00:00
 -- url     : https://prove2.me/theorems/6f893b38-f3e8-4bf5-84b2-04849daf4940

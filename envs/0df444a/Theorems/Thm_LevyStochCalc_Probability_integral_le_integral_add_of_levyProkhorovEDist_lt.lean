@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_integral_le_integral_add_of_levyProkhorovEDist_lt
 -- name    : LevyStochCalc.Probability.integral_le_integral_add_of_levyProkhorovEDist_lt
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:37:54.897104+00:00
 -- url     : https://prove2.me/theorems/b787fa7f-f8fd-4864-9906-27d46b5ee679

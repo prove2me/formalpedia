@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_streamTotalCost_integral_le
 -- name    : QEC.Coding.BDL26PaidRowsComposition.streamTotalCost_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:35:45.008632+00:00
 -- url     : https://prove2.me/theorems/2e9cc657-6af1-4c65-b5cd-5fda0b3bd7ff

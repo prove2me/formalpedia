@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_abs_riemann_weighted_sub_integral_le
 -- name    : LevyStochCalc.abs_riemann_weighted_sub_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:41:31.86772+00:00
 -- url     : https://prove2.me/theorems/5f68ec21-0479-4523-af71-c958fb09ab7e

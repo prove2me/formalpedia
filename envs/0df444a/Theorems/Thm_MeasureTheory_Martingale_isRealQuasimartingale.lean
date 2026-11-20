@@ -1,0 +1,103 @@
+-- Prove2me | Theorems.Thm_MeasureTheory_Martingale_isRealQuasimartingale
+-- name    : MeasureTheory.Martingale.isRealQuasimartingale
+-- status  : Open
+-- author  : @WillR
+-- created : 2026-11-19T15:11:11.502518+00:00
+-- url     : https://prove2.me/theorems/2a9ea137-1369-495a-a189-43209866165f
+-- title:
+--   isRealQuasimartingale
+-- statement:
+--   The source theorem `MeasureTheory.Martingale.isRealQuasimartingale` is extracted from `BrownianMotion.StochasticIntegral.Quasimartingale.CadlagModification`. The original Lean proposition is retained verbatim, and its proof is tracked separately for remote certification.
+-- source:
+--   https://github.com/cgarryZA/LevyStochCalc
+
+import Definitions.Def_BrownianMotion_StochasticIntegral_Quasimartingale_CadlagModification_F004
+
+/-
+Copyright (c) 2026 Kexing Ying. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Kexing Ying, Rohit Manokaran, Rémy Degenne
+-/
+
+/-! # Cadlag modification of quasimartingales -/
+
+@[expose] public section
+
+open MeasureTheory Finset Filter
+open scoped ENNReal Topology MeasureTheory ProbabilityTheory.SimpleProcess
+
+namespace ProbabilityTheory
+
+variable {ι Ω : Type*} [LinearOrder ι]
+  {mΩ : MeasurableSpace Ω} {𝓕 : Filtration ι mΩ} {μ : Measure Ω}
+  {X : ι → Ω → ℝ} {τ σ : Ω → WithTop ι} {i : ι}
+
+section CountableEvents
+
+variable [OrderBot ι] {T : Set ι} {t : ι}
+
+end CountableEvents
+
+section RegularitySet
+
+variable [OrderBot ι]
+
+variable [TopologicalSpace ι] [OrderTopology ι]
+
+end RegularitySet
+
+variable [TopologicalSpace ι] [OrderBot ι] [OrderTopology ι]
+  --[FirstCountableTopology ι] -- required for ∀ t : ι, (𝓝[>] t).IsCountablyGenerated
+  [DenselyOrdered ι] [NoMaxOrder ι] -- required for ∀ t : ι, (𝓝[>] t).NeBot)
+
+/-! ### Pathwise regularization
+
+For a fixed path `h : ι → ℝ` admitting one-sided limits along a dense set `T`, the right-limit
+regularization `r` is right-continuous and inherits the left limits of `h`. -/
+
+section PathRegularization
+
+variable {T : Set ι} {h r : ι → ℝ} {x : ι}
+
+end PathRegularization
+
+/-! ### Uncountable sets accumulate from the right -/
+
+section Accumulation
+
+end Accumulation
+
+open Function
+
+/-! ## Right-continuous modification of a quasimartingale
+
+For a real quasimartingale `X` we define a process `rightContModif X` with the following properties:
+* `rightContModif X` is right-continuous
+* `rightContModif X` has left limits almost everywhere
+* for all `t` outside a countable set, `rightContModif X t =ᵐ[μ] X t`
+* if `X` is right-continuous in probability, then `rightContModif X` is a modification of `X`.
+* if the filtration is right-continuous, then `rightContModif X` is adapted.
+
+Note that if `X` is not right-continuous in probability, we can still obtain a modification by
+changing the value of `rightContModif X` on a countable set of times, with the drawback that the
+right-continuity then holds only outside that countable set.
+
+-/
+
+/-! ## Càdlàg modification of a quasimartingale
+
+For a real quasimartingale `X` we define a process `cadlagModif X` with the following properties:
+* `cadlagModif X` is càdlàg
+* for all `t` outside a countable set, `cadlagModif X t =ᵐ[μ] X t`
+* if `X` is right-continuous in probability, then `cadlagModif X` is a modification of `X`.
+* if the filtration is right-continuous and complete, then `cadlagModif X` is adapted.
+
+TODO: if `t ↦ μ[X t]` is right-continuous (in particular if `X` is a martingale),
+then `cadlagModif X` is a modification of `X` without the assumption that `X`
+is right-continuous in probability.
+
+-/
+
+theorem _root_.MeasureTheory.Martingale.isRealQuasimartingale [SigmaFiniteFiltration μ 𝓕]
+    (hX : Martingale X 𝓕 μ) :
+    IsRealQuasimartingale 𝓕 X μ := by sorry

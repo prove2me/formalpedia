@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeHamiltonianLocality_finiteHamiltonianSuccess_measure
 -- name    : QEC.Coding.BDL26NativeHamiltonianLocality.finiteHamiltonianSuccess_measure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:45:20.863811+00:00
 -- url     : https://prove2.me/theorems/0f5a0ca3-d7b8-4298-86d9-2501d4acec05

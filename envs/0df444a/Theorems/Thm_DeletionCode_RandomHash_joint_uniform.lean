@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RandomHash_joint_uniform
 -- name    : DeletionCode.RandomHash.joint_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:37:18.917205+00:00
 -- url     : https://prove2.me/theorems/8f41c2a9-7368-4252-afc8-2438bb330e9a

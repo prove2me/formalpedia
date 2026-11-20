@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumPath_gram_position_unique
 -- name    : DeletionCode.SpectrumPath.gram_position_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:22:22.334543+00:00
 -- url     : https://prove2.me/theorems/e4e9f860-dcce-420e-9fee-db4144032e67

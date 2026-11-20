@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rz_constructed_localMap_rounded
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rz_constructed_localMap_rounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:43:57.208145+00:00
 -- url     : https://prove2.me/theorems/a0e9d23b-25f1-4af8-8f4e-47346753f197

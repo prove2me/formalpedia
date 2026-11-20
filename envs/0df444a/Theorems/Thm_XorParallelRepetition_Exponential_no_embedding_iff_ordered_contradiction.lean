@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_no_embedding_iff_ordered_contradiction
 -- name    : XorParallelRepetition.Exponential.no_embedding_iff_ordered_contradiction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:07:16.379342+00:00
 -- url     : https://prove2.me/theorems/f4182e0c-bd74-43fe-8209-1e0befd3f209

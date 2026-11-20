@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_rowTotalCost_integral_le
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.rowTotalCost_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:53:53.688383+00:00
 -- url     : https://prove2.me/theorems/0fc62e92-2388-4ffc-a99e-1cde70b39dcd

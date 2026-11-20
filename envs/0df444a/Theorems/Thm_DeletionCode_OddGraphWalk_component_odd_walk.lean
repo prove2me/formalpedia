@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_OddGraphWalk_component_odd_walk
 -- name    : DeletionCode.OddGraphWalk.component_odd_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:27:51.943455+00:00
 -- url     : https://prove2.me/theorems/2e7d3c27-6b45-4766-aa02-36ec4c99e4a1

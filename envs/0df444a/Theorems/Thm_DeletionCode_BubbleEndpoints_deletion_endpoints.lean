@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubbleEndpoints_deletion_endpoints
 -- name    : DeletionCode.BubbleEndpoints.deletion_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:35:28.598318+00:00
 -- url     : https://prove2.me/theorems/d1482b38-54b7-450d-a52d-fbcfdbabd54b

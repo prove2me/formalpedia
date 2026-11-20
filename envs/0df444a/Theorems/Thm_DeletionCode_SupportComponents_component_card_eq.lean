@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SupportComponents_component_card_eq
 -- name    : DeletionCode.SupportComponents.component_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:59:43.306961+00:00
 -- url     : https://prove2.me/theorems/e8d552a3-f1ca-4664-9514-99e34d7cd460

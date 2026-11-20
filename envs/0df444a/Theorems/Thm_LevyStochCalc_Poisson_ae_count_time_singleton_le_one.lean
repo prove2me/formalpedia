@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_ae_count_time_singleton_le_one
 -- name    : LevyStochCalc.Poisson.ae_count_time_singleton_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:29:18.258198+00:00
 -- url     : https://prove2.me/theorems/cd9d436d-6413-4b77-853c-7a49178639b8

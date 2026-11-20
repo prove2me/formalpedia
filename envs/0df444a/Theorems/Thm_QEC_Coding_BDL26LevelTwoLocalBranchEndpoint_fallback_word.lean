@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_fallback_word
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.fallback_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:55:47.582328+00:00
 -- url     : https://prove2.me/theorems/f8bfa221-ef5f-4e6c-b3ec-ab2a1fe0bb73

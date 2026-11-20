@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P58_normalized_hecke_quotient
 -- name    : QAlgorithms.Papers.Independent.Intake100.P58.normalized_hecke_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:04:15.095364+00:00
 -- url     : https://prove2.me/theorems/42f05870-f03b-43cd-a786-a3c88d64830d

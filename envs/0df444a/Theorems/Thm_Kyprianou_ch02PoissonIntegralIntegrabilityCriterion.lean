@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_ch02PoissonIntegralIntegrabilityCriterion
 -- name    : Kyprianou.ch02PoissonIntegralIntegrabilityCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T21:44:11.665305+00:00
 -- url     : https://prove2.me/theorems/5343dd9d-494e-457c-bbc9-46787fc6a356

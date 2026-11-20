@@ -1,10 +1,8 @@
 -- Prove2me | solution 31 for AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-05T20:07:16.307168+00:00
 -- url     : https://prove2.me/submissions/ae383419-a9f0-41d3-89f8-8eb9a33a4e36
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Probability.Process.Filtration
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

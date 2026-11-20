@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BottomLocalFirstMinWeightComparison_ownerFirstMinWeightFallback_contract
 -- name    : QEC.Coding.BDL26BottomLocalFirstMinWeightComparison.ownerFirstMinWeightFallback_contract
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T11:37:00.906708+00:00
 -- url     : https://prove2.me/theorems/61653093-1e57-44e8-b403-95c8b0f8c077

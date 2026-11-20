@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_jump6_B_original_topcap_zero_or_strict_payment_residual_cash_epsilon
 -- name    : AvramDividend.Classical.avram_jump6_B_original_topcap_zero_or_strict_payment_residual_cash_epsilon
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:46:45.628207+00:00
 -- url     : https://prove2.me/theorems/6989672f-9a66-414d-93d8-fc963af9a462

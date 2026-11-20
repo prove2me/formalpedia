@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_source_even_geometry_cost
 -- name    : QEC.Coding.BDL26NativeFiniteComposition.source_even_geometry_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:32:51.641719+00:00
 -- url     : https://prove2.me/theorems/5e3aaa1a-9777-46da-99aa-9bfb6e04b0ee

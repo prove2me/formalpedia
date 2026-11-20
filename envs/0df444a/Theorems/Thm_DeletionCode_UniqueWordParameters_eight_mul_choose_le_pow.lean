@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueWordParameters_eight_mul_choose_le_pow
 -- name    : DeletionCode.UniqueWordParameters.eight_mul_choose_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:16.383797+00:00
 -- url     : https://prove2.me/theorems/bf7bef8f-c03d-49d4-8808-a545995996ae

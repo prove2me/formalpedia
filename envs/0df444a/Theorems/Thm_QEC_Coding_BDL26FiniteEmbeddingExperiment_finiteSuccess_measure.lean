@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_finiteSuccess_measure
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.finiteSuccess_measure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:24:15.40299+00:00
 -- url     : https://prove2.me/theorems/0556d595-7c1c-400d-be92-626d8b28b03a

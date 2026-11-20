@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_Script_classify_of_le_one
 -- name    : DeletionCode.EditAlignment.Script.classify_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:29:34.266216+00:00
 -- url     : https://prove2.me/theorems/ce163d90-e6b6-4aa5-9202-2a638cb2c593

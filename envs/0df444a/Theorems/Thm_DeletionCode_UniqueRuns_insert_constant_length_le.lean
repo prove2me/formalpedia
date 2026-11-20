@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueRuns_insert_constant_length_le
 -- name    : DeletionCode.UniqueRuns.insert_constant_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:30:49.133821+00:00
 -- url     : https://prove2.me/theorems/16af65c6-dad5-4f8a-bd86-2b751030db5e

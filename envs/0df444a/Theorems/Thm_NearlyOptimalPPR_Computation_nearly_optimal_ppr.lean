@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_nearly_optimal_ppr
 -- name    : NearlyOptimalPPR.Computation.nearly_optimal_ppr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T06:38:50.806606+00:00
 -- url     : https://prove2.me/theorems/20e97e63-e97e-4f33-a72a-91e0c83e43da

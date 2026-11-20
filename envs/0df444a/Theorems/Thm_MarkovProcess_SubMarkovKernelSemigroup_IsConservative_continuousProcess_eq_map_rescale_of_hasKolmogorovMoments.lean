@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_continuousProcess_eq_map_rescale_of_hasKolmogorovMoments
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.continuousProcess_eq_map_rescale_of_hasKolmogorovMoments
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:17.486451+00:00
 -- url     : https://prove2.me/theorems/e59588fd-6528-4252-bcda-141b4e9fb110

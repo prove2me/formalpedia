@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_seed_lookup_finds_position
 -- name    : DeletionCode.DecoderExamples.seed_lookup_finds_position
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:58:42.514187+00:00
 -- url     : https://prove2.me/theorems/e6408b1f-7b13-49fa-8b57-09d1b32f31e1

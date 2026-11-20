@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ScriptRigidity_within_one_unique
 -- name    : DeletionCode.ScriptRigidity.within_one_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:20:17.440199+00:00
 -- url     : https://prove2.me/theorems/60e65ac3-35c9-48c3-96ac-5b40156daf5c

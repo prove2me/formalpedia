@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_repeated_value_le_blr
 -- name    : XorParallelRepetition.Exponential.repeated_value_le_blr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:07:43.28346+00:00
 -- url     : https://prove2.me/theorems/37c16224-750e-48c1-b743-cc8a3636c99b

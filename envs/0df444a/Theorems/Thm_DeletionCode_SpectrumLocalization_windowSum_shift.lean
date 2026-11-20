@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumLocalization_windowSum_shift
 -- name    : DeletionCode.SpectrumLocalization.windowSum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:34:36.031242+00:00
 -- url     : https://prove2.me/theorems/111ca680-24f8-41e2-b128-0e7063f100f3

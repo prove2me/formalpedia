@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableAlphaAboveOneIntegral
 -- name    : Kyprianou.Ch01.stableAlphaAboveOneIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:19:59.102898+00:00
 -- url     : https://prove2.me/theorems/28dfcdeb-77ad-4f9f-9507-f13124373206

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_gluing_cauchy_schwarz
 -- name    : XorParallelRepetition.Exponential.gluing_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:06:10.503907+00:00
 -- url     : https://prove2.me/theorems/0b56e2f4-0b68-4d7c-9044-b219eef19103

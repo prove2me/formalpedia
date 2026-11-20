@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_etaleFrame_presentation_of_torsor
 -- name    : AlgebraicGeometry.Scheme.exists_etaleFrame_presentation_of_torsor
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-19T00:05:59.744643+00:00
 -- url     : https://prove2.me/theorems/ddcdbc17-c73f-4cbf-be3e-fb45e796b584

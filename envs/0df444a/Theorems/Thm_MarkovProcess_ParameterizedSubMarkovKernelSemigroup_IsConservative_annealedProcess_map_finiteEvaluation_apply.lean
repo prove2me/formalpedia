@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_ParameterizedSubMarkovKernelSemigroup_IsConservative_annealedProcess_map_finiteEvaluation_apply
 -- name    : MarkovProcess.ParameterizedSubMarkovKernelSemigroup.IsConservative.annealedProcess_map_finiteEvaluation_apply
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T08:34:01.22778+00:00
 -- url     : https://prove2.me/theorems/95983780-6f26-49ba-9f8b-4e9b5d0cd764

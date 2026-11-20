@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg27291
 -- name    : OAI.UniversalTensorSquare.sg27291
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T06:20:39.655749+00:00
 -- url     : https://prove2.me/theorems/badcabb4-72b0-485b-8364-cbb50074077e

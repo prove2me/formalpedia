@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EuclideanLineAvgDist_Embedding_reversible_squared_displacement
 -- name    : EuclideanLineAvgDist.Embedding.reversible_squared_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:12:51.456058+00:00
 -- url     : https://prove2.me/theorems/ce85c860-52a2-4b76-8e0a-4b4d6d858757

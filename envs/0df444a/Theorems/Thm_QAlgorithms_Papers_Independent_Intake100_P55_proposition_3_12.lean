@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P55_proposition_3_12
 -- name    : QAlgorithms.Papers.Independent.Intake100.P55.proposition_3_12
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T13:53:40.174945+00:00
 -- url     : https://prove2.me/theorems/fff9db1b-11a6-4f1d-8d5e-7814ca916e2d

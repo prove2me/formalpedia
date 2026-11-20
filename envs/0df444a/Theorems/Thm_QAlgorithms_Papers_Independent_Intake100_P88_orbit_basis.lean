@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_orbit_basis
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.orbit_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:35:17.279282+00:00
 -- url     : https://prove2.me/theorems/90e90dd4-95e2-447c-8a0e-87a32a66dc68

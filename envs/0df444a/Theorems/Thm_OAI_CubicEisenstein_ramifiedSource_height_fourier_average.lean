@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_ramifiedSource_height_fourier_average
 -- name    : OAI.CubicEisenstein.ramifiedSource_height_fourier_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T09:22:49.318146+00:00
 -- url     : https://prove2.me/theorems/7bdd185a-59e7-49c6-96ad-4006ed076337

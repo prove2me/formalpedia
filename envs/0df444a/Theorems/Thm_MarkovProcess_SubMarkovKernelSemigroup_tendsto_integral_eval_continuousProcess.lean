@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_tendsto_integral_eval_continuousProcess
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.tendsto_integral_eval_continuousProcess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:33:51.99679+00:00
 -- url     : https://prove2.me/theorems/a047c191-61da-442d-b280-f2652f3abbee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_indep_iSup_comap_of_disjoint_families
 -- name    : LevyStochCalc.Poisson.indep_iSup_comap_of_disjoint_families
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:36:53.213301+00:00
 -- url     : https://prove2.me/theorems/0ab9a924-2b70-4632-bcee-a3ed9d5d2da8

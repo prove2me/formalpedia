@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSDensity1246_Main_Supplement_small_outdegree_orientation
 -- name    : DSDensity1246.Main.Supplement.small_outdegree_orientation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T06:24:47.024205+00:00
 -- url     : https://prove2.me/theorems/faf817ee-8824-4b21-a594-dc90f952013a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_FinitePairUnion_ordered_pair_union_bound
 -- name    : DeletionCode.FinitePairUnion.ordered_pair_union_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:20.078742+00:00
 -- url     : https://prove2.me/theorems/f17c15d9-fb18-4eac-b131-b7c7cd927144

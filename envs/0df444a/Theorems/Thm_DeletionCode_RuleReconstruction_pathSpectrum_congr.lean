@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RuleReconstruction_pathSpectrum_congr
 -- name    : DeletionCode.RuleReconstruction.pathSpectrum_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:56.653403+00:00
 -- url     : https://prove2.me/theorems/ced337f4-03b0-45ab-9f7c-ed145dd30f2d

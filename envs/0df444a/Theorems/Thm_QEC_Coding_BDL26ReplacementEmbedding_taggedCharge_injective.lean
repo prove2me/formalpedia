@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_taggedCharge_injective
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.taggedCharge_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T13:38:21.438534+00:00
 -- url     : https://prove2.me/theorems/2a2550f4-5a4b-4891-9067-0edf239ef83f

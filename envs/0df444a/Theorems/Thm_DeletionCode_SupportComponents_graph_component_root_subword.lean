@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SupportComponents_graph_component_root_subword
 -- name    : DeletionCode.SupportComponents.graph_component_root_subword
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:59:40.675968+00:00
 -- url     : https://prove2.me/theorems/bfe64d5f-cc26-4419-8a24-e5d967cb5d5a

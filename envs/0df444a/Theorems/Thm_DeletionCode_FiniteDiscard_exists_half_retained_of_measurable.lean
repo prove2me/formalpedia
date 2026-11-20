@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_FiniteDiscard_exists_half_retained_of_measurable
 -- name    : DeletionCode.FiniteDiscard.exists_half_retained_of_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:48:44.887983+00:00
 -- url     : https://prove2.me/theorems/dfba6e22-0be5-41b8-94c9-d0af7e2848fd

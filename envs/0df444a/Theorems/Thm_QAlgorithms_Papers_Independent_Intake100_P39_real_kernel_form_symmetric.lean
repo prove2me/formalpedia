@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P39_real_kernel_form_symmetric
 -- name    : QAlgorithms.Papers.Independent.Intake100.P39.real_kernel_form_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:09:54.259987+00:00
 -- url     : https://prove2.me/theorems/83b134ab-539f-4ef6-88a4-c605bee14e1e

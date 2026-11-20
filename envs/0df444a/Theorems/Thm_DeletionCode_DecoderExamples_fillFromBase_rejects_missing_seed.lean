@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_fillFromBase_rejects_missing_seed
 -- name    : DeletionCode.DecoderExamples.fillFromBase_rejects_missing_seed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:44.651855+00:00
 -- url     : https://prove2.me/theorems/a6406b7d-2cfe-4448-85d3-bfb47fa58bf5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_common_lower_error_event
 -- name    : TightReleaseSchedules.Stationary.common_lower_error_event
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:46:41.011484+00:00
 -- url     : https://prove2.me/theorems/dae1304a-a9bb-4b1e-9cef-5cf8f3698587

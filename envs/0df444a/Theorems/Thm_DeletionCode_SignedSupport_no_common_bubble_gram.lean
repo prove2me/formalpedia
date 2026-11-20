@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_no_common_bubble_gram
 -- name    : DeletionCode.SignedSupport.no_common_bubble_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:09:57.060004+00:00
 -- url     : https://prove2.me/theorems/289c3cfb-54ae-4cc1-b2fe-a47ffaeb011f

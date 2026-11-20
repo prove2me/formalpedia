@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperRamanujan227_Main_lemma_2_5
 -- name    : SuperRamanujan227.Main.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:35:53.599367+00:00
 -- url     : https://prove2.me/theorems/4b2aca61-e042-44d1-969a-6e3f87809f39

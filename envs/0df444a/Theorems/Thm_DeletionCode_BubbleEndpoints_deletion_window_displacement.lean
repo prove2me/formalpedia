@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubbleEndpoints_deletion_window_displacement
 -- name    : DeletionCode.BubbleEndpoints.deletion_window_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:35:17.324786+00:00
 -- url     : https://prove2.me/theorems/32ff6dcc-0563-434a-aecb-54b6adcc1b63

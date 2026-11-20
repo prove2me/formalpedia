@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_eLpNorm_tendsto_of_eLpNorm_sub_tendsto_zero
 -- name    : LevyStochCalc.eLpNorm_tendsto_of_eLpNorm_sub_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:46:37.374589+00:00
 -- url     : https://prove2.me/theorems/9e62d870-d3bc-47dc-8045-74e5ea084fa5

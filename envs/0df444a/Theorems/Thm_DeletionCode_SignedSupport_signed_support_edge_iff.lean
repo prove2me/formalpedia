@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_signed_support_edge_iff
 -- name    : DeletionCode.SignedSupport.signed_support_edge_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:10:29.297452+00:00
 -- url     : https://prove2.me/theorems/5e9cf6cf-6f8a-4572-85c5-f540b08e1020

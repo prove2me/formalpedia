@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_unnormalized_objective_expansion
 -- name    : LinearChoresCLS.unnormalized_objective_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Weiqiang
 -- created : 2026-11-13T20:44:01.254744+00:00
 -- url     : https://prove2.me/theorems/806ab69e-ed36-42c1-a89c-eac4a7e39afb

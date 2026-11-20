@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_suffix_gram
 -- name    : DeletionCode.SignedSupport.suffix_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:19.82218+00:00
 -- url     : https://prove2.me/theorems/a18e51f4-6691-4b73-b34f-0a02940da512

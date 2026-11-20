@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_Windows_delete_insert
 -- name    : DeletionCode.Windows.delete_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:57:58.203362+00:00
 -- url     : https://prove2.me/theorems/7b7f3814-faab-43bf-a8a0-b225b86bf697

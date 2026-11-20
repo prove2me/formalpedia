@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_measurableSet_univ_prod_window
 -- name    : LevyStochCalc.Probability.measurableSet_univ_prod_window
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:31:51.776857+00:00
 -- url     : https://prove2.me/theorems/4948672e-5000-4302-8271-b002443fbb11

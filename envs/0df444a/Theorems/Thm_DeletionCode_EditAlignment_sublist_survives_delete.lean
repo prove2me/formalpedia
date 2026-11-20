@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_sublist_survives_delete
 -- name    : DeletionCode.EditAlignment.sublist_survives_delete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:07.703394+00:00
 -- url     : https://prove2.me/theorems/8e6f3975-cde2-4f67-b6d5-0f6558f6c1ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_etale_units_frame_torsors
 -- name    : AlgebraicGeometry.Scheme.exists_etale_units_frame_torsors
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-18T21:40:59.865202+00:00
 -- url     : https://prove2.me/theorems/24d109d6-4c9a-4953-8821-2cd37979e6d3

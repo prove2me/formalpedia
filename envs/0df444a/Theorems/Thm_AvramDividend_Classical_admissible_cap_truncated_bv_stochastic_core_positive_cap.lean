@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_admissible_cap_truncated_bv_stochastic_core_positive_cap
 -- name    : AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core_positive_cap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T23:19:43.061993+00:00
 -- url     : https://prove2.me/theorems/ef7e6c20-a118-46f0-ac94-5b02204bba49

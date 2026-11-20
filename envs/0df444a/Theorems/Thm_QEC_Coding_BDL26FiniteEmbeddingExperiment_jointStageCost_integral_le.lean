@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_jointStageCost_integral_le
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.jointStageCost_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:22:34.339194+00:00
 -- url     : https://prove2.me/theorems/dd87d516-b44a-42b3-926c-f0bf110503e9

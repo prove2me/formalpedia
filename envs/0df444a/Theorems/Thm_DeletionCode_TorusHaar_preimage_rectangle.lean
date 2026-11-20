@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_TorusHaar_preimage_rectangle
 -- name    : DeletionCode.TorusHaar.preimage_rectangle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:42:49.82652+00:00
 -- url     : https://prove2.me/theorems/7cf7c9af-7cbf-4820-8b6e-72f61dc70f07

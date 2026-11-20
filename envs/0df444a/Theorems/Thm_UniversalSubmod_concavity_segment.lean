@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_concavity_segment
 -- name    : UniversalSubmod.concavity_segment
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:51:39.501118+00:00
 -- url     : https://prove2.me/theorems/446d0ed2-50eb-459b-9dac-ec651b873026

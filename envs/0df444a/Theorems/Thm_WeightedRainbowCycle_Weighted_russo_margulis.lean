@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedRainbowCycle_Weighted_russo_margulis
 -- name    : WeightedRainbowCycle.Weighted.russo_margulis
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:05:37.125805+00:00
 -- url     : https://prove2.me/theorems/4de21af9-1f99-40f0-8c10-8b3d0924def6

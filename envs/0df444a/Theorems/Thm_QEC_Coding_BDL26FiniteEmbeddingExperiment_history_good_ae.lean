@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_history_good_ae
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.history_good_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:24:03.331047+00:00
 -- url     : https://prove2.me/theorems/2e9ec09b-5044-4686-bfa9-de4de96ca319

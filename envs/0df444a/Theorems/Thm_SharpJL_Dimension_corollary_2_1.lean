@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpJL_Dimension_corollary_2_1
 -- name    : SharpJL.Dimension.corollary_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T07:08:57.932348+00:00
 -- url     : https://prove2.me/theorems/853bf332-2d0b-4e6f-95b0-2c8d91535192

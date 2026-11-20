@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P24_mueller_jones_semigroup
 -- name    : QAlgorithms.Papers.Independent.Intake100.P24.mueller_jones_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:17:37.456954+00:00
 -- url     : https://prove2.me/theorems/63109455-292a-41be-b37e-9b118cdbf435

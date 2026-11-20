@@ -1,0 +1,58 @@
+-- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_aemeasurable_and_lintegral_slice_eq
+-- name    : LevyStochCalc.Poisson.aemeasurable_and_lintegral_slice_eq
+-- status  : Open
+-- author  : @WillR
+-- created : 2026-11-19T15:17:27.455369+00:00
+-- url     : https://prove2.me/theorems/c5277d70-6ab1-4de9-bb90-aae45a0709da
+-- title:
+--   aemeasurable and lintegral slice eq
+-- statement:
+--   The source theorem `LevyStochCalc.Poisson.aemeasurable_and_lintegral_slice_eq` is extracted from `LevyStochCalc.Poisson.Compensator`. The original Lean proposition is retained verbatim, and its proof is tracked separately for remote certification.
+-- source:
+--   https://github.com/cgarryZA/LevyStochCalc
+
+import Definitions.Def_LevyStochCalc_Poisson_Compensator_F000
+
+/-
+Copyright (c) 2026 Christian Garry. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Christian Garry
+-/
+
+/-!
+# The reference intensity as compensator on a finite-activity window
+
+On a predictable rectangle the count of the Poisson random measure is independent of the past
+event carried by the rectangle, so its mean factorises as the probability of that event times
+the intensity of the time–mark part. The sets on which the two mean occupations agree form a
+Dynkin system — complements by subtracting from the finite occupation of the window, countable
+disjoint unions by monotone convergence — so they agree on every predictable set.
+-/
+
+open MeasureTheory ProbabilityTheory
+open scoped ENNReal
+
+namespace LevyStochCalc.Poisson
+
+universe u v
+
+variable {Ω : Type u} [MeasurableSpace Ω] {E : Type v} [MeasurableSpace E]
+  {P : Measure Ω} [IsProbabilityMeasure P] {ν : Measure E} [SigmaFinite ν]
+
+section Rectangle
+
+variable (N : PoissonRandomMeasure P ν) {ℱ : Filtration ℝ ‹MeasurableSpace Ω›}
+
+end Rectangle
+
+section Window
+
+variable (N : PoissonRandomMeasure P ν) {ℱ : Filtration ℝ ‹MeasurableSpace Ω›}
+
+theorem _root_.LevyStochCalc.Poisson.aemeasurable_and_lintegral_slice_eq (hℱ : IsPoissonFiltration N ℱ)
+    {A : Set E} (hA : MeasurableSet A) (hAν : ν A ≠ ⊤) (T : ℝ)
+    {S : Set (Ω × ℝ × E)} (hS : MeasurableSet[Probability.markedPredictableSigma ℱ ν] S) :
+    AEMeasurable (sliceCount N (Set.Ioc (0 : ℝ) T ×ˢ A) S) P
+      ∧ Measurable (sliceIntensity ν (Set.Ioc (0 : ℝ) T ×ˢ A) S)
+      ∧ ∫⁻ ω, sliceCount N (Set.Ioc (0 : ℝ) T ×ˢ A) S ω ∂P
+          = ∫⁻ ω, sliceIntensity ν (Set.Ioc (0 : ℝ) T ×ˢ A) S ω ∂P := by sorry

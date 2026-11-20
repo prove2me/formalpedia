@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RandomHash_real_simultaneous_test_probability
 -- name    : DeletionCode.RandomHash.real_simultaneous_test_probability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:37:39.422971+00:00
 -- url     : https://prove2.me/theorems/a26bcc02-fff9-475c-a8ce-2eb29f52573f

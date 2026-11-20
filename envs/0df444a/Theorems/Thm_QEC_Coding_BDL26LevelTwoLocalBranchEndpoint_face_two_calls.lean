@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_face_two_calls
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.face_two_calls
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:56:10.569316+00:00
 -- url     : https://prove2.me/theorems/e7ffe49a-aa5b-455c-b36f-3ff58fca6875

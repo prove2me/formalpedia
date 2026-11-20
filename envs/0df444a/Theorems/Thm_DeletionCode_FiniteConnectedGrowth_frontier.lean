@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_FiniteConnectedGrowth_frontier
 -- name    : DeletionCode.FiniteConnectedGrowth.frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:27.05292+00:00
 -- url     : https://prove2.me/theorems/409cf13c-8172-41f1-92e3-ce6901b1a606

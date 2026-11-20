@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_count_generating_sets
 -- name    : DeletionHash.MixedEdit.count_generating_sets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:10.590376+00:00
 -- url     : https://prove2.me/theorems/19746cc0-10b8-43b3-a98f-84b01bd97b52

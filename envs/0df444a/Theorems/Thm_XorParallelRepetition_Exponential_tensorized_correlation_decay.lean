@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_tensorized_correlation_decay
 -- name    : XorParallelRepetition.Exponential.tensorized_correlation_decay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:09:12.610342+00:00
 -- url     : https://prove2.me/theorems/3a0a1a08-ba8a-4268-af37-3ed1f0fa4287

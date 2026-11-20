@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumPrefixChange_common_suffix_change
 -- name    : DeletionCode.SpectrumPrefixChange.common_suffix_change
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:40:46.702449+00:00
 -- url     : https://prove2.me/theorems/3c9922a2-dd92-4ae4-a02c-575ada528bbb

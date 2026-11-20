@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoOldXStarEndpoint_oldX_background_endpoint
 -- name    : QEC.Coding.BDL26LevelTwoOldXStarEndpoint.oldX_background_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T20:40:35.456431+00:00
 -- url     : https://prove2.me/theorems/fb9e3984-3645-4394-84fb-95e9f00f72a6

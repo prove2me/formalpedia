@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_FullInhomogeneous_theorem_3_6_full
 -- name    : StrictCompatLB.FullInhomogeneous.theorem_3_6_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T14:39:07.638578+00:00
 -- url     : https://prove2.me/theorems/9a4ecffb-ad8d-4fa1-87f4-ed0a80eab452

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_oldX_parity_support
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.oldX_parity_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:54:59.659805+00:00
 -- url     : https://prove2.me/theorems/2917d4e9-0b4d-4ce8-8131-2fa85c5af489

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpreadMatchCircuit_Matching_Supplement_lemma_4
 -- name    : SpreadMatchCircuit.Matching.Supplement.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:33:49.953865+00:00
 -- url     : https://prove2.me/theorems/7e1f45e4-bde5-4db6-9d97-5cc87148296e

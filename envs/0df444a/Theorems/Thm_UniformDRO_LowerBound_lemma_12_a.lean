@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_LowerBound_lemma_12_a
 -- name    : UniformDRO.LowerBound.lemma_12_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:06:51.992376+00:00
 -- url     : https://prove2.me/theorems/43509409-4093-40b1-b289-61aaae8a4410

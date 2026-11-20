@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_crossing_transfer_agrees_with_negative_word
 -- name    : DeletionCode.DecoderExamples.crossing_transfer_agrees_with_negative_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:58.597933+00:00
 -- url     : https://prove2.me/theorems/631fe208-3c39-41b1-bf3d-025a77a055cc

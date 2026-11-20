@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P01_trace_norm_hilbert_schmidt
 -- name    : QAlgorithms.Papers.Independent.Intake100.P01.trace_norm_hilbert_schmidt
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:57:05.569482+00:00
 -- url     : https://prove2.me/theorems/76619624-97fc-4b30-bf19-1af41562a62b

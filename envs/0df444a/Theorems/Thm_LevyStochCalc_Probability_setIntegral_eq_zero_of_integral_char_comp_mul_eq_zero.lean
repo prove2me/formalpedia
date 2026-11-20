@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_setIntegral_eq_zero_of_integral_char_comp_mul_eq_zero
 -- name    : LevyStochCalc.Probability.setIntegral_eq_zero_of_integral_char_comp_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:38:07.460198+00:00
 -- url     : https://prove2.me/theorems/8c19a69f-5ab3-437c-962d-205f54cb26fb

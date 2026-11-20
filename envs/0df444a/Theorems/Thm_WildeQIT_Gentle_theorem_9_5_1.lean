@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Gentle_theorem_9_5_1
 -- name    : WildeQIT.Gentle.theorem_9_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:41.751982+00:00
 -- url     : https://prove2.me/theorems/520ce93e-6c4d-4111-82bc-73ced6cf227b

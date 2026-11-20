@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_LowerBound_pinsker_display
 -- name    : UniformDRO.LowerBound.pinsker_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:06:53.572221+00:00
 -- url     : https://prove2.me/theorems/543b68fd-a17f-4e55-b3a7-5d2782ea4afc

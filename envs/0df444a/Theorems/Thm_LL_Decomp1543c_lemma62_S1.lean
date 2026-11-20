@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1543c_lemma62_S1
 -- name    : LL_Decomp1543c.lemma62_S1
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T17:33:32.862755+00:00
 -- url     : https://prove2.me/theorems/37d979a7-467b-4adb-8ede-442842eb4de9

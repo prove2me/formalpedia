@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_Script_zero_eq
 -- name    : DeletionCode.EditAlignment.Script.zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:29:32.69837+00:00
 -- url     : https://prove2.me/theorems/a603faf3-95f4-49f1-9ce6-73ca5c7e40dc

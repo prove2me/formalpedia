@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordSerialization_description_roundtrip
 -- name    : DeletionCode.RecordSerialization.description_roundtrip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:17:59.523937+00:00
 -- url     : https://prove2.me/theorems/da29de8c-54f9-4c2d-bcd5-7322add0d338

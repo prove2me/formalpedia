@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_GeneratingModel_EditedFamily_negative_extra
 -- name    : DeletionCode.GeneratingModel.EditedFamily.negative_extra
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:58:29.070294+00:00
 -- url     : https://prove2.me/theorems/1617fb3c-bc96-4224-aa10-3a3cb66211d7

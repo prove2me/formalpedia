@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetSupportRank_DeterminantSupport_theorem_1_1
 -- name    : DetSupportRank.DeterminantSupport.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:16:39.722686+00:00
 -- url     : https://prove2.me/theorems/b365e9e3-08dd-4f05-b626-2cb2f4f32ade

@@ -77731,7 +77731,7 @@
 {"parent": "BlackScholesModel.call_delta", "child": "BlackScholesModel.pdf_dPlus_dMinus_balance", "via": ["solution"]}
 {"parent": "BlackScholesModel.call_delta", "child": "BlackScholesModel.stdNormalCDF_hasDerivAt", "via": ["solution"]}
 {"parent": "BlackScholesModel.call_delta", "child": "BlackScholesModel_Core", "via": ["solution", "statement"]}
-{"parent": "BlackScholesModel.call_payoff_integral_decomposition", "child": "BlackScholesModel_Core", "via": ["statement"]}
+{"parent": "BlackScholesModel.call_payoff_integral_decomposition", "child": "BlackScholesModel_Core", "via": ["solution", "statement"]}
 {"parent": "BlackScholesModel.call_rho", "child": "BlackScholesModel.pdf_dPlus_dMinus_balance", "via": ["solution"]}
 {"parent": "BlackScholesModel.call_rho", "child": "BlackScholesModel.stdNormalCDF_hasDerivAt", "via": ["solution"]}
 {"parent": "BlackScholesModel.call_rho", "child": "BlackScholesModel_Core", "via": ["solution", "statement"]}

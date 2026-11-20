@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditMulticoloring_Code_decoder_correctness
 -- name    : EditMulticoloring.Code.decoder_correctness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T18:50:27.527296+00:00
 -- url     : https://prove2.me/theorems/779d69c6-b16e-4997-9517-65a169acbf44

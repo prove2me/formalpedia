@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_checked_write_rejects_conflict
 -- name    : DeletionCode.DecoderExamples.checked_write_rejects_conflict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:27.782526+00:00
 -- url     : https://prove2.me/theorems/2deb38f9-42b9-4e26-8fd8-c348f25b62ac

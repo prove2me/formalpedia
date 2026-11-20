@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RedundancyBounds_redundancy_le_log_labels
 -- name    : DeletionCode.RedundancyBounds.redundancy_le_log_labels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:49:22.587301+00:00
 -- url     : https://prove2.me/theorems/6e33692d-e001-4273-a737-03965e76a76f

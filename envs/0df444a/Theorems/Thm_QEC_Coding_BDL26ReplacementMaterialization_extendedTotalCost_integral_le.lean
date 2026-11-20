@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementMaterialization_extendedTotalCost_integral_le
 -- name    : QEC.Coding.BDL26ReplacementMaterialization.extendedTotalCost_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:13:50.452281+00:00
 -- url     : https://prove2.me/theorems/6a178b72-8d11-49cb-bbc4-823cccc5a5e8

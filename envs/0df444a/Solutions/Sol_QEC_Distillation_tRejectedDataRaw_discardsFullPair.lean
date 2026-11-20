@@ -1,0 +1,295 @@
+-- Prove2me | solution 1 for QEC.Distillation.tRejectedDataRaw_discardsFullPair
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-19T21:46:24.79358+00:00
+-- url     : https://prove2.me/submissions/d464ea56-adf0-4fed-9d21-82279db57b0f
+
+import Definitions.Def_QEC_Distillation_FiveQubitT_Recurrence
+import Definitions.Def_QEC_Distillation_FifteenQubitH_Threshold
+import Definitions.Def_QEC_Distillation_Universality_FiniteRegisterUniversality
+import Definitions.Def_QEC_Distillation_Universality_GeneratedUniversality
+import Definitions.Def_QEC_Distillation_Universality_IdealResourceUniversality
+import Definitions.Def_QEC_Semantics_Core_OperatorTraceNorm
+import Definitions.Def_QEC_Semantics_Entropy_MatrixRelative
+import Definitions.Def_QEC_Semantics_Channels_TraceNorm
+import Definitions.Def_QEC_Semantics_Channels_ChoiKraus
+import Definitions.Def_QEC_Semantics_Dynamics_ThermalEncoding
+import Definitions.Def_QEC_Distillation_MagicStateThreshold_Universality
+import Theorems.Thm_QEC_Coding_ChainComplexData_pureZLogicalQuotientEquivMiddleHomology_mk
+import Theorems.Thm_QEC_Coding_PauliSymplectic_jointStabilizerConditionalDensity_toOperator
+import Theorems.Thm_QEC_Coding_PauliSymplectic_jointStabilizerInstrument_kraus
+import Theorems.Thm_QEC_Coding_PauliSymplectic_jointStabilizerInstrument_observe
+import Theorems.Thm_QEC_Coding_PauliSymplectic_stabilizerConditionalDensity_toOperator
+import Theorems.Thm_QEC_Coding_PauliSymplectic_stabilizerInstrument_kraus
+import Theorems.Thm_QEC_Coding_PauliSymplectic_stabilizerInstrument_observe
+import Theorems.Thm_QEC_Coding_PauliSymplectic_toHermitianQubitOperator_apply
+import Theorems.Thm_QEC_Coding_PauliSymplectic_toHermitianQubitOperator_binaryOne
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_TerminalBranch_bind_history
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_TerminalBranch_bind_ledger
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_TerminalBranch_bind_weight
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_TerminalBranch_postprocess_history
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_TerminalBranch_postprocess_ledger
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_TerminalBranch_postprocess_weight
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_coin
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_coin_totalWeight
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_deterministic
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_deterministic_totalWeight
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_measure
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_terminal
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_eval_terminal_totalWeight
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_totalWeight_map_prependCoin
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_totalWeight_map_prependDeterministic
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_AdaptiveProgram_totalWeight_map_prependSyndrome
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_DeterministicStep_ledger_resource
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_DeterministicStep_run_clifford
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_DeterministicStep_run_discard
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_DeterministicStep_run_resource
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_DeterministicStep_run_zeroPreparation
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_JointMeasurement_branch_operator
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_JointMeasurement_branch_weight
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_JointMeasurement_conditionalDensity_toOperator
+import Theorems.Thm_QEC_Distillation_AdaptiveIdealClifford_ZeroPreparationAdapter_run_toOperator
+import Theorems.Thm_QEC_Distillation_BK05T_bk05TIteration_zero
+import Theorems.Thm_QEC_Distillation_BK15_Protocol_bk15Run_acceptedOutput
+import Theorems.Thm_QEC_Distillation_BK15_Protocol_bk15Run_operation
+import Theorems.Thm_QEC_Distillation_BK15_Protocol_bk15Run_rejectedOutput
+import Theorems.Thm_QEC_Distillation_BK15_Protocol_bk15Run_resourceCount
+import Theorems.Thm_QEC_Distillation_BK15_Protocol_bk15Run_successProbability
+import Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15IterationEpsilon_error
+import Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15Iteration_zero
+import Theorems.Thm_QEC_Distillation_DistillationRun_postprocess_conditionalOutput
+import Theorems.Thm_QEC_Distillation_DistillationRun_postprocess_successProbability
+import Theorems.Thm_QEC_Distillation_EncodedCode_ImplementsLogicalGate_symm
+import Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_FiniteRegisterCircuit_unitary_compose
+import Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_FiniteRegisterCircuit_unitary_identity
+import Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_FiniteRegisterCircuit_unitary_oneQubit
+import Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_FiniteRegisterCircuit_unitary_xor
+import Theorems.Thm_QEC_Distillation_FiniteRegisterUniversality_registerXorGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hAngle_cos
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hResourceTransport_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamardGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_hadamard_conj_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseInverseGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_apply_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_matrix
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_mem_cliffordPhaseGenerators
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftGate_zero
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftLinearEquiv_symm_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phaseShiftTransport_apply
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_phase_conj_one
+import Theorems.Thm_QEC_Distillation_OneQubitMagic_sourceHDensity_toOperator
+import Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_encodedCode_code
+import Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_encodedCode_encoding
+import Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_logicalComputationalState_apply
+import Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_logicalMagicState_apply
+import Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_logicalPlusState_apply
+import Theorems.Thm_QEC_Distillation_Triorthogonal_BinaryRowFamily_oddWordLinearEquivLogicalQuotient_apply
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_apply_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_involutive
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_symm_apply
+import Theorems.Thm_QEC_Distillation_TwoQubit_xorTransport_tensor_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzEvenBranchDensity_toOperator
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzEvenProjector_apply_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzEvenProjector_branchState
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOddBranchDensity_toOperator
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOddProjector_apply_basis
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOddProjector_branchState
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOperator_apply
+import Theorems.Thm_QEC_Distillation_TwoQubit_zzOperator_apply_basis
+import Theorems.Thm_QEC_Distillation_phaseNormalize_matrix
+import Theorems.Thm_QEC_Semantics_DensityOperator_convexCombination_toOperator
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_apply
+import Theorems.Thm_QEC_Semantics_DensityOperator_pureOfNonzero_toOperator
+import Theorems.Thm_QEC_Semantics_DensityOperator_tensorDensity_toOperator
+import Theorems.Thm_QEC_Semantics_FiniteInstrument_conditionalDensity_toOperator
+import Theorems.Thm_QEC_Semantics_FiniteMatrixEntropy_log2Matrix_apply
+import Theorems.Thm_QEC_Semantics_FiniteMatrixEntropy_logMatrix_apply
+import Theorems.Thm_QEC_Semantics_FiniteMatrixEntropy_partialTraceRightRaw_trace_pairing
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_card_complementCoordinates
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_card_selectedCoordinates
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_extendLocal_apply_localEmbedding
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_localEmbedding_apply
+import Theorems.Thm_QEC_Semantics_FiniteSubsystem_selectedPartialTrace_toLinearMap
+import Theorems.Thm_QEC_Semantics_OperatorMatrix_matrixUnit_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_comp_apply
+import Theorems.Thm_QEC_Semantics_QuantumChannel_id_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localXSupport_apply
+import Theorems.Thm_QEC_Semantics_Qubit_localZSupport_apply
+import Theorems.Thm_QEC_Semantics_QuditSubsystem_additionalRetainedFactorSwap_apply_tmul
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_apply
+import Theorems.Thm_QEC_Semantics_UnitaryTransport_conjDensity_toOperator
+import Theorems.Thm_QEC_Semantics_operator_ext_of_trace_comp_right_eq
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_cptp_toLinearMap
+import Theorems.Thm_QEC_Semantics_partialTraceRightRaw_mapDensity_toOperator
+import Theorems.Thm_QEC_Semantics_traceNorm_neg
+attribute [local simp] QEC.Coding.ChainComplexData.pureZLogicalQuotientEquivMiddleHomology_mk
+attribute [local simp] QEC.Coding.PauliSymplectic.jointStabilizerConditionalDensity_toOperator
+attribute [local simp] QEC.Coding.PauliSymplectic.jointStabilizerInstrument_kraus
+attribute [local simp] QEC.Coding.PauliSymplectic.jointStabilizerInstrument_observe
+attribute [local simp] QEC.Coding.PauliSymplectic.stabilizerConditionalDensity_toOperator
+attribute [local simp] QEC.Coding.PauliSymplectic.stabilizerInstrument_kraus
+attribute [local simp] QEC.Coding.PauliSymplectic.stabilizerInstrument_observe
+attribute [local simp] QEC.Coding.PauliSymplectic.toHermitianQubitOperator_apply
+attribute [local simp] QEC.Coding.PauliSymplectic.toHermitianQubitOperator_binaryOne
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.TerminalBranch.bind_history
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.TerminalBranch.bind_ledger
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.TerminalBranch.bind_weight
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.TerminalBranch.postprocess_history
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.TerminalBranch.postprocess_ledger
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.TerminalBranch.postprocess_weight
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_coin
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_coin_totalWeight
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_deterministic
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_deterministic_totalWeight
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_measure
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_terminal
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.eval_terminal_totalWeight
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.totalWeight_map_prependCoin
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.totalWeight_map_prependDeterministic
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.AdaptiveProgram.totalWeight_map_prependSyndrome
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.DeterministicStep.ledger_resource
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.DeterministicStep.run_clifford
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.DeterministicStep.run_discard
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.DeterministicStep.run_resource
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.DeterministicStep.run_zeroPreparation
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.JointMeasurement.branch_operator
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.JointMeasurement.branch_weight
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.JointMeasurement.conditionalDensity_toOperator
+attribute [local simp] QEC.Distillation.AdaptiveIdealClifford.ZeroPreparationAdapter.run_toOperator
+private theorem qecert_bk05tIteration_zero_simp_compat (epsilon : Real) :
+    QEC.Distillation.BK05T.bk05TIteration epsilon 0 = epsilon :=
+  QEC.Distillation.BK05T.bk05TIteration_zero epsilon
+attribute [local simp] qecert_bk05tIteration_zero_simp_compat
+attribute [local simp] QEC.Distillation.BK15.Protocol.bk15Run_acceptedOutput
+attribute [local simp] QEC.Distillation.BK15.Protocol.bk15Run_operation
+attribute [local simp] QEC.Distillation.BK15.Protocol.bk15Run_rejectedOutput
+attribute [local simp] QEC.Distillation.BK15.Protocol.bk15Run_resourceCount
+attribute [local simp] QEC.Distillation.BK15.Protocol.bk15Run_successProbability
+attribute [local simp] QEC.Distillation.BK15.Threshold.bk15IterationEpsilon_error
+attribute [local simp] QEC.Distillation.BK15.Threshold.bk15Iteration_zero
+attribute [local simp] QEC.Distillation.DistillationRun.postprocess_conditionalOutput
+attribute [local simp] QEC.Distillation.DistillationRun.postprocess_successProbability
+attribute [local simp] QEC.Distillation.FiniteRegisterUniversality.FiniteRegisterCircuit.unitary_compose
+attribute [local simp] QEC.Distillation.FiniteRegisterUniversality.FiniteRegisterCircuit.unitary_identity
+attribute [local simp] QEC.Distillation.FiniteRegisterUniversality.FiniteRegisterCircuit.unitary_oneQubit
+attribute [local simp] QEC.Distillation.FiniteRegisterUniversality.FiniteRegisterCircuit.unitary_xor
+attribute [local simp] QEC.Distillation.FiniteRegisterUniversality.registerXorGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.hAngle_cos
+attribute [local simp] QEC.Distillation.OneQubitMagic.hResourceTransport_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamardGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.hadamard_conj_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseInverseGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_apply_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_matrix
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_mem_cliffordPhaseGenerators
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftGate_zero
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftLinearEquiv_symm_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phaseShiftTransport_apply
+attribute [local simp] QEC.Distillation.OneQubitMagic.phase_conj_one
+attribute [local simp] QEC.Distillation.OneQubitMagic.sourceHDensity_toOperator
+attribute [local simp] QEC.Distillation.Triorthogonal.BinaryRowFamily.encodedCode_code
+attribute [local simp] QEC.Distillation.Triorthogonal.BinaryRowFamily.encodedCode_encoding
+attribute [local simp] QEC.Distillation.Triorthogonal.BinaryRowFamily.logicalComputationalState_apply
+attribute [local simp] QEC.Distillation.Triorthogonal.BinaryRowFamily.logicalMagicState_apply
+attribute [local simp] QEC.Distillation.Triorthogonal.BinaryRowFamily.logicalPlusState_apply
+attribute [local simp] QEC.Distillation.Triorthogonal.BinaryRowFamily.oddWordLinearEquivLogicalQuotient_apply
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_apply_basis
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_involutive
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_symm_apply
+attribute [local simp] QEC.Distillation.TwoQubit.xorTransport_tensor_basis
+attribute [local simp] QEC.Distillation.TwoQubit.zzEvenBranchDensity_toOperator
+attribute [local simp] QEC.Distillation.TwoQubit.zzEvenProjector_apply_basis
+attribute [local simp] QEC.Distillation.TwoQubit.zzEvenProjector_branchState
+attribute [local simp] QEC.Distillation.TwoQubit.zzOddBranchDensity_toOperator
+attribute [local simp] QEC.Distillation.TwoQubit.zzOddProjector_apply_basis
+attribute [local simp] QEC.Distillation.TwoQubit.zzOddProjector_branchState
+attribute [local simp] QEC.Distillation.TwoQubit.zzOperator_apply
+attribute [local simp] QEC.Distillation.TwoQubit.zzOperator_apply_basis
+attribute [local simp] QEC.Distillation.phaseNormalize_matrix
+attribute [local simp] QEC.Semantics.DensityOperator.convexCombination_toOperator
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_apply
+attribute [local simp] QEC.Semantics.DensityOperator.pureOfNonzero_toOperator
+attribute [local simp] QEC.Semantics.DensityOperator.tensorDensity_toOperator
+attribute [local simp] QEC.Semantics.FiniteInstrument.conditionalDensity_toOperator
+attribute [local simp] QEC.Semantics.FiniteMatrixEntropy.log2Matrix_apply
+attribute [local simp] QEC.Semantics.FiniteMatrixEntropy.logMatrix_apply
+attribute [local simp] QEC.Semantics.FiniteSubsystem.card_complementCoordinates
+attribute [local simp] QEC.Semantics.FiniteSubsystem.card_selectedCoordinates
+attribute [local simp] QEC.Semantics.FiniteSubsystem.extendLocal_apply_localEmbedding
+attribute [local simp] QEC.Semantics.FiniteSubsystem.localEmbedding_apply
+attribute [local simp] QEC.Semantics.FiniteSubsystem.selectedPartialTrace_toLinearMap
+attribute [local simp] QEC.Semantics.OperatorMatrix.matrixUnit_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.comp_apply
+attribute [local simp] QEC.Semantics.QuantumChannel.id_apply
+attribute [local simp] QEC.Semantics.Qubit.localXSupport_apply
+attribute [local simp] QEC.Semantics.Qubit.localZSupport_apply
+attribute [local simp] QEC.Semantics.QuditSubsystem.additionalRetainedFactorSwap_apply_tmul
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_apply
+attribute [local simp] QEC.Semantics.UnitaryTransport.conjDensity_toOperator
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_cptp_toLinearMap
+attribute [local simp] QEC.Semantics.partialTraceRightRaw_mapDensity_toOperator
+attribute [local simp] QEC.Semantics.traceNorm_neg
+
+
+
+set_option autoImplicit false
+noncomputable section
+universe u v
+open QEC
+open QEC.Distillation
+open Semantics Semantics.Qubit
+open Coding.PauliSymplectic
+open OneQubitMagic
+open GeneratedUniversality
+open FiniteRegisterUniversality
+open FiniteRegisterUniversality.FiniteRegisterCircuit
+open scoped BigOperators Matrix.Norms.Elementwise
+open AdaptiveIdealClifford PhaseInjection
+namespace QEC.Distillation
+theorem _root_.solution (data : Operator QubitSpace)
+    (t : DensityOperator QubitSpace) :
+    tRejectedDataRaw data t =
+      (LinearMap.trace Complex TwoQubit.TwoQubitSpace (tPairBranchRaw t false)) • data := by
+  apply Semantics.operator_ext_of_trace_comp_right_eq
+  intro X
+  let basis : OrthonormalBasis
+      (ULift (Fin (Module.finrank Complex TwoQubit.TwoQubitSpace))) Complex
+        TwoQubit.TwoQubitSpace :=
+    (stdOrthonormalBasis Complex TwoQubit.TwoQubitSpace).reindex Equiv.ulift.symm
+  calc
+    LinearMap.trace Complex QubitSpace (X.comp (tRejectedDataRaw data t)) =
+        LinearMap.trace Complex QubitSpace ((tRejectedDataRaw data t).comp X) :=
+      (LinearMap.trace_comp_comm' X (tRejectedDataRaw data t)).symm
+    _ = LinearMap.trace Complex (CompositeSystem QubitSpace TwoQubit.TwoQubitSpace)
+        ((TensorProduct.map data (tPairBranchRaw t false)).comp
+          (TensorProduct.map X (LinearMap.id : TwoQubit.TwoQubitSpace →ₗ[Complex]
+            TwoQubit.TwoQubitSpace))) := by
+          exact Semantics.FiniteMatrixEntropy.partialTraceRightRaw_trace_pairing basis
+            (TensorProduct.map data (tPairBranchRaw t false)) X
+    _ = LinearMap.trace Complex QubitSpace
+        (((LinearMap.trace Complex TwoQubit.TwoQubitSpace (tPairBranchRaw t false)) • data).comp X) := by
+          rw [← TensorProduct.map_comp, LinearMap.trace_tensorProduct']
+          simp [LinearMap.smul_comp]
+          ring
+    _ = LinearMap.trace Complex QubitSpace
+        (X.comp ((LinearMap.trace Complex TwoQubit.TwoQubitSpace (tPairBranchRaw t false)) • data)) :=
+      LinearMap.trace_comp_comm' X _
+end QEC.Distillation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_DensitySlope517_leaf_two_variation_quadrature
 -- name    : LL_DensitySlope517.leaf_two_variation_quadrature
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-17T15:37:03.421051+00:00
 -- url     : https://prove2.me/theorems/7552905e-4de5-4c6b-9ab6-a5841932cc66

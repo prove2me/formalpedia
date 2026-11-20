@@ -25261,13 +25261,13 @@
 {"parent": "AnalyticCombinatorics.Ch5.Meromorphic.CompositionsGeneral.Close.compS_isEquivalent", "child": "AnalyticCombinatorics_Ch5_Meromorphic_SupercriticalSeqGenuine", "via": ["solution"]}
 {"parent": "AnalyticCombinatorics.Ch5.Meromorphic.CompositionsGeneral.Close.compS_isEquivalent", "child": "AnalyticCombinatorics_Ch5_Meromorphic_CompositionsGeneralClose", "via": ["solution"]}
 {"parent": "a166944_B", "child": "a166944_record_core", "via": ["statement"]}
-{"parent": "A166944Research.a166944_quiet_tail_no_small_factors", "child": "a166944_moving_horizon", "via": ["statement"]}
-{"parent": "A166944Research.a166944_quiet_tail_no_small_factors", "child": "a166944_factor_layer", "via": ["statement"]}
+{"parent": "A166944Research.a166944_quiet_tail_no_small_factors", "child": "a166944_moving_horizon", "via": ["solution", "statement"]}
+{"parent": "A166944Research.a166944_quiet_tail_no_small_factors", "child": "a166944_factor_layer", "via": ["solution", "statement"]}
 {"parent": "twin_prime_conjecture_of_target", "child": "A166944Research.unbounded_greater_twin_primes_of_target", "via": ["solution", "statement"]}
 {"parent": "twin_prime_conjecture_of_target", "child": "a166944_record_core", "via": ["solution", "statement"]}
-{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "a166944_record_core", "via": ["statement"]}
+{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "a166944_record_core", "via": ["solution", "statement"]}
 {"parent": "A166944Research.a166944_record_index_law", "child": "a166944_record_core", "via": ["statement"]}
-{"parent": "A166944Research.a166944_quiet_tail_next_record", "child": "a166944_moving_horizon", "via": ["statement"]}
+{"parent": "A166944Research.a166944_quiet_tail_next_record", "child": "a166944_moving_horizon", "via": ["solution", "statement"]}
 {"parent": "A166944Research.a166944_quiet_window_of_caps", "child": "a166944_window_core", "via": ["solution", "statement"]}
 {"parent": "A166944Research.a166944_relaxed_index_cap", "child": "a166944_moving_horizon", "via": ["statement"]}
 {"parent": "A166944Research.a166944_travel_bound_from_45895573", "child": "a166944_moving_horizon", "via": ["statement"]}
@@ -25288,3 +25288,15 @@
 {"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "A166944Research.a166944_target_of_travel", "via": ["solution"]}
 {"parent": "A166944Research.a166944_target_of_two_caps", "child": "a166944_record_core", "via": ["solution"]}
 {"parent": "A166944Research.a166944_target_of_travel", "child": "a166944_record_core", "via": ["solution"]}
+{"parent": "A166944Research.a166944_record_step", "child": "a166944_moving_horizon", "via": ["statement"]}
+{"parent": "A166944Research.a166944_record_step", "child": "a166944_factor_layer", "via": ["statement"]}
+{"parent": "A166944Research.a166944_record_step", "child": "a166944_B", "via": ["statement"]}
+{"parent": "A166944Research.a166944_record_step", "child": "a166944_record_core", "via": ["statement"]}
+{"parent": "A166944Research.a166944_terminal_dichotomy", "child": "a166944_moving_horizon", "via": ["solution", "statement"]}
+{"parent": "A166944Research.a166944_terminal_dichotomy", "child": "a166944_B", "via": ["solution", "statement"]}
+{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "A166944Research.a166944_terminal_dichotomy", "via": ["solution"]}
+{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "A166944Research.a166944_quiet_tail_no_small_factors", "via": ["solution"]}
+{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "a166944_B", "via": ["solution"]}
+{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "a166944_factors_abbrev", "via": ["solution"]}
+{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "A166944Research.a166944_quiet_tail_next_record", "via": ["solution"]}
+{"parent": "A166944Research.a166944_record_is_greater_twin_prime", "child": "A166944Research.a166944_quiet_window_of_caps", "via": ["solution"]}

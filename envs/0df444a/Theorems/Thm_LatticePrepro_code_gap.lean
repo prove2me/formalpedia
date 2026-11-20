@@ -22,6 +22,8 @@
 --   This is the code case ($s=1$) of Theorem 5.1. It is stated for an arbitrary quadratic verifier, with block length bounded by $(S+1)^C$. The paper instead fixes a 3SAT verifier and obtains $M=\mathrm{poly}(n)$; that instantiation is a separate Lean result.
 --
 --   **Formalization Note** The conclusion is `Nonempty (CodeGap F ε V.Language (V.S + 1) C)`. The characteristic of $F$ is expressed by an `Algebra (ZMod p) F` instance. The code distance is a natural number defined via `sInf`, and $M^{1-\varepsilon}$ is a real power (`Real.rpow`). Polynomial-time computability of the code and targets is not formalized; the search test of Lemma 5.2 is stated separately (`CodeFamily.accepts_of_isApprox`, `CodeFamily.not_accepts_of_lt`).
+--
+--   **Note (existence form).** This statement asserts only that some code with targets has the gap. The Lean statement does not require the targets to be computable, so this form is also satisfied by a construction unrelated to the paper, in which the target records whether the instance is in the language. The statement for the object that the paper constructs is `LatticePrepro.QuadraticVerifier.Tables.codeFamily_hasGap`.
 -- source:
 --   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 5.1 (\label{thm:approximation-hardness}), code case; Lean: LatticePrepro/Main.lean, LatticePrepro.code_gap
 

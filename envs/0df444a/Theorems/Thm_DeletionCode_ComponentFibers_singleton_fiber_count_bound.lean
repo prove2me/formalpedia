@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ComponentFibers_singleton_fiber_count_bound
 -- name    : DeletionCode.ComponentFibers.singleton_fiber_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:24:32.052922+00:00
 -- url     : https://prove2.me/theorems/1ad22885-1959-4ecc-affe-80747df5c8c1

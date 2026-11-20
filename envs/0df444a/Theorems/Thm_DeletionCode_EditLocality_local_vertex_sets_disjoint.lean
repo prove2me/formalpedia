@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditLocality_local_vertex_sets_disjoint
 -- name    : DeletionCode.EditLocality.local_vertex_sets_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:39:44.040591+00:00
 -- url     : https://prove2.me/theorems/680db827-35bb-4876-9cc6-e28ae31b967d

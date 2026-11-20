@@ -18,6 +18,8 @@
 --   This is Theorem 4.8 of the paper without its running-time claims. Items 1 and 2 say that $x\mapsto b_x$ reduces $L(V)$ to $(D,b,g)$-BSLSP (Definition 3.10). Item 4 is the bound (22), $N_{\mathrm{col}}\le(8p^4m(S+1))^{m+7}g^{1+1/m}$, raised to the $m$-th power. In the paper's notation, $S,g,m,b,N_{\mathrm{col}}$ are $N,\Gamma,\mathsf{a},Q,n_{\mathrm{sys}}$. The theorem feeds the code and lattice conversions in the proof of Theorem 5.1 (`code_gap`, `lattice_gap`).
 --
 --   **Formalization Note** The conclusion is `Nonempty (GapReduction p V g m)`, a structure bundling the system with the properties above. The verifier is an abstract `QuadraticVerifier`: a system of quadratic gate equations over $\mathbb{F}_p$ with a designated input prefix and output coordinate. Claim 3.15 produces one from a Boolean circuit. The size bound is kept in integer form. The paper's statement also includes the time bounds and the uniform size bound (24) for a choice of $m$ depending on $S$ and $g$; these are not part of the Lean statement. The facts that $b$ is a power of $p$ and $D\ge1$ are extra conclusions that the paper's statement does not list explicitly.
+--
+--   **Note (existence form).** This statement asserts only that some linear system family has these properties. The statement for the object that the paper constructs is `LatticePrepro.QuadraticVerifier.Tables.system_spec`.
 -- source:
 --   G. Fenzi, G. Weissenberg, Nearly Optimal Hardness for CVP and NCP with Preprocessing (STOC 2027 submission #847; IACR ePrint 2026/2634, https://eprint.iacr.org/2026/2634), Theorem 4.8 (\label{thm:quantitative-affine-gap}); Lean: LatticePrepro/Main.lean, LatticePrepro.exists_gapReduction
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumPath_spectrum_boolean
 -- name    : DeletionCode.SpectrumPath.spectrum_boolean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:19:18.234849+00:00
 -- url     : https://prove2.me/theorems/b165cd3f-b8ac-4617-a613-2125c0e36980

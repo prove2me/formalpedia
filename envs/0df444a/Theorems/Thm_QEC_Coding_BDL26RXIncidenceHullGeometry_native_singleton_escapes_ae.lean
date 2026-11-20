@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26RXIncidenceHullGeometry_native_singleton_escapes_ae
 -- name    : QEC.Coding.BDL26RXIncidenceHullGeometry.native_singleton_escapes_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:44:56.62425+00:00
 -- url     : https://prove2.me/theorems/89c98473-a028-4913-819d-0820d8b866d2

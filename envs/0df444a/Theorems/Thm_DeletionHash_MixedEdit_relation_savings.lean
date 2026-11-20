@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_relation_savings
 -- name    : DeletionHash.MixedEdit.relation_savings
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:26.448272+00:00
 -- url     : https://prove2.me/theorems/6c22af30-8f12-4738-9551-bc49f683a11d

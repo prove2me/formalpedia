@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoGen_Gibbs_klDiv_dirac_eq
 -- name    : InfoGen.Gibbs.klDiv_dirac_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:27:40.115534+00:00
 -- url     : https://prove2.me/theorems/6f96f4fe-d1fc-464f-a861-f699e2ea433e

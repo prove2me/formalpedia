@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PartialHomog_Threshold_lemma_E_13_power_sums
 -- name    : PartialHomog.Threshold.lemma_E_13_power_sums
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:26:30.563281+00:00
 -- url     : https://prove2.me/theorems/7de2f97a-0c88-4b42-8712-521becd1840d

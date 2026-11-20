@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_fixed_parameters_common_paid
 -- name    : QEC.Coding.BDL26PaidRowsComposition.fixed_parameters_common_paid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T07:41:05.205465+00:00
 -- url     : https://prove2.me/theorems/21d03472-f473-40c5-9e96-a4fe2dac8234

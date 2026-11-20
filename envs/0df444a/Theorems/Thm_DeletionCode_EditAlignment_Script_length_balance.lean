@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_Script_length_balance
 -- name    : DeletionCode.EditAlignment.Script.length_balance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:03.894471+00:00
 -- url     : https://prove2.me/theorems/97103d84-237e-4634-a0cf-bc02e71cf39e

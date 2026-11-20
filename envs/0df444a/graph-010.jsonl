@@ -22791,7 +22791,7 @@
 {"parent": "ExpBias.OwnBias.posteriors", "child": "ExpBias_OwnBias_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P24.erasureTimeSharing", "child": "QAlgorithms_Papers_Independent_Claimed50_P24", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P49.gaussianWeakComplement", "child": "QAlgorithms_Papers_Independent_Claimed50_P49", "via": ["statement"]}
-{"parent": "IncInfoDebt.FallenAngel.d24_integral", "child": "IncInfoDebt_FallenAngel_Model", "via": ["statement"]}
+{"parent": "IncInfoDebt.FallenAngel.d24_integral", "child": "IncInfoDebt_FallenAngel_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P15.proposition_3_1", "child": "QAlgorithms_Papers_Independent_Claimed50_P15", "via": ["solution", "statement"]}
 {"parent": "ReputationLies.Matching.eq_9_lying_condition", "child": "ReputationLies_Matching_Model", "via": ["solution", "statement"]}
 {"parent": "JointMixND.QuadOT.proof_theorem_4_symmetrize", "child": "JointMixND_QuadOT_Problems", "via": ["solution", "statement"]}
@@ -67307,7 +67307,7 @@
 {"parent": "FloatPointSynth.Gearbox.corollary_1", "child": "FloatPointSynth_Gearbox_Circuit", "via": ["statement"]}
 {"parent": "StochOptForest.ApxRisk.region_avg_derivatives", "child": "StochOptForest_ApxRisk_Model", "via": ["solution", "statement"]}
 {"parent": "RamanujanLostNotebook_PartIII_ch04_ch04DiffTerm", "child": "RamanujanLostNotebook_PartIII_ch04_ch04Sym", "via": ["statement"]}
-{"parent": "IntuitiveDPI.Smooth.lemma_B_2", "child": "IntuitiveDPI_Smooth_Basic", "via": ["statement"]}
+{"parent": "IntuitiveDPI.Smooth.lemma_B_2", "child": "IntuitiveDPI_Smooth_Basic", "via": ["solution", "statement"]}
 {"parent": "SurelyBetter.CLB.theorem_2", "child": "SurelyBetter_CLB_Model", "via": ["solution", "statement"]}
 {"parent": "SurelyBetter.CLB.theorem_2", "child": "Supermodularity_Lattices_InducedSetOrder", "via": ["solution", "statement"]}
 {"parent": "MoreauChance.Consistency.proposition_2_1_c", "child": "MoreauChance_Consistency_Basic", "via": ["solution", "statement"]}

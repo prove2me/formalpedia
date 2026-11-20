@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_mixed_edit_codes
 -- name    : DeletionHash.MixedEdit.mixed_edit_codes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:41:49.816736+00:00
 -- url     : https://prove2.me/theorems/18e1bad8-9616-4c93-beec-5ad2af17d8ce

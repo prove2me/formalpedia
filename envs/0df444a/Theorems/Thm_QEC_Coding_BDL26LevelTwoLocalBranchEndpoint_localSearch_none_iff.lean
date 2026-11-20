@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_localSearch_none_iff
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.localSearch_none_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:50:42.906639+00:00
 -- url     : https://prove2.me/theorems/a969f9da-7a57-49ef-a52f-64ff6a78dd67

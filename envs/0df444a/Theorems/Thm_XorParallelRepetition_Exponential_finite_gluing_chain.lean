@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_finite_gluing_chain
 -- name    : XorParallelRepetition.Exponential.finite_gluing_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:07:49.465321+00:00
 -- url     : https://prove2.me/theorems/4648ed71-77a5-441d-817f-1aac59d8f85c

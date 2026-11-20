@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_local_program_upper_bound
 -- name    : NearlyOptimalPPR.Computation.local_program_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T02:15:33.443347+00:00
 -- url     : https://prove2.me/theorems/20bb4884-6ba9-4267-a79b-27c7c34a436f

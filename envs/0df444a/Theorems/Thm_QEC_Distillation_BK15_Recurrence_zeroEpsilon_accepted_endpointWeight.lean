@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Recurrence_zeroEpsilon_accepted_endpointWeight
 -- name    : QEC.Distillation.BK15.Recurrence.zeroEpsilon_accepted_endpointWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:16:29.190454+00:00
 -- url     : https://prove2.me/theorems/938df86f-2a5e-4915-a92e-82fc3701196c

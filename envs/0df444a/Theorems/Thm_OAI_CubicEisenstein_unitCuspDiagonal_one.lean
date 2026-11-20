@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_unitCuspDiagonal_one
 -- name    : OAI.CubicEisenstein.unitCuspDiagonal_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T08:52:36.955568+00:00
 -- url     : https://prove2.me/theorems/67be56ac-c935-444b-82bd-cbee196ba5a2

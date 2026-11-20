@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_increment_mean
 -- name    : PhysReaudit.increment_mean
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:44:17.006032+00:00
 -- url     : https://prove2.me/theorems/d5e3abc9-3692-44ec-8df2-a0079bef43da

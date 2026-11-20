@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_confusable_record
 -- name    : DeletionHash.MixedEdit.confusable_record
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:41:46.77413+00:00
 -- url     : https://prove2.me/theorems/f017f64b-0ad7-4347-8307-2af43a528bd7

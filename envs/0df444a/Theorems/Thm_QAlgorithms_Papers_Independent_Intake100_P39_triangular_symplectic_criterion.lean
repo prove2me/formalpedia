@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P39_triangular_symplectic_criterion
 -- name    : QAlgorithms.Papers.Independent.Intake100.P39.triangular_symplectic_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:06:27.616371+00:00
 -- url     : https://prove2.me/theorems/cd27b827-2be3-416c-a256-39dca3bc4424

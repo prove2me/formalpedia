@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditMulticoloring_Code_short_edit_code
 -- name    : EditMulticoloring.Code.short_edit_code
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T18:49:51.009309+00:00
 -- url     : https://prove2.me/theorems/ebf6fd7d-c01a-405c-baed-743d765be317

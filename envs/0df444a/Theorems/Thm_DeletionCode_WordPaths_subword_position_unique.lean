@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_WordPaths_subword_position_unique
 -- name    : DeletionCode.WordPaths.subword_position_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:58:44.236705+00:00
 -- url     : https://prove2.me/theorems/c902ab3c-db3a-4d37-ad20-c67b9dce9b4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueWordParameters_half_words_le_seven_eighths_real
 -- name    : DeletionCode.UniqueWordParameters.half_words_le_seven_eighths_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:42:15.065197+00:00
 -- url     : https://prove2.me/theorems/be7a919d-7535-4ae2-8604-5aab70eb88fb

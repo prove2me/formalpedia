@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_TorusHaar_forall_mem_measure
 -- name    : DeletionCode.TorusHaar.forall_mem_measure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:36:48.4389+00:00
 -- url     : https://prove2.me/theorems/f4a13e07-0ecb-45cd-b327-51f1c572f888

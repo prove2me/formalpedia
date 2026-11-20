@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_supported_iff_signed_incident
 -- name    : DeletionCode.SignedSupport.supported_iff_signed_incident
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:36.25419+00:00
 -- url     : https://prove2.me/theorems/0f4a0aca-141a-432b-9190-aed03f2ba5cf

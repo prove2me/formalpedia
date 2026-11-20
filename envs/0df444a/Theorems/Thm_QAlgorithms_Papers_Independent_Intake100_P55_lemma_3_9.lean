@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P55_lemma_3_9
 -- name    : QAlgorithms.Papers.Independent.Intake100.P55.lemma_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T13:51:50.099714+00:00
 -- url     : https://prove2.me/theorems/c354dd7f-bd74-425e-9590-792df428e1e9

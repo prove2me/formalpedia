@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RandomHash_real_independent
 -- name    : DeletionCode.RandomHash.real_independent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:43:24.24117+00:00
 -- url     : https://prove2.me/theorems/8553950e-7415-4a29-a1aa-bb247042915c

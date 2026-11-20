@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TetrisHard_Rows_three_partition_strong_np_complete
 -- name    : TetrisHard.Rows.three_partition_strong_np_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T22:50:53.243801+00:00
 -- url     : https://prove2.me/theorems/bbcdd9ba-47e8-4feb-a0f5-a83e2f2b01b8

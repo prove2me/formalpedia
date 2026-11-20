@@ -1,0 +1,51 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_pj_workerC_original_finitecap_both_spatial_boundary_occupations_arbitrarily_small
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-19T16:23:21.185788+00:00
+-- url     : https://prove2.me/submissions/10389eab-38aa-4094-868a-e379ff4d5bf3
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_avram_pj_workerC_original_true_reserve_positive_lowerstrip_finite_product_measure_zero
+import Theorems.Thm_AvramDividend_Classical_avram_pj_workerC_original_purejump_finitecap_upperband_expected_spatial_error_arbitrarily_small
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open MeasureTheory Set Filter Topology AvramDividend.Classical
+open scoped NNReal ENNReal
+noncomputable section
+
+theorem solution
+    {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω}
+    {𝓕 : Filtration ℝ≥0 mΩ}
+    (X : SpectrallyNegativeLevy P 𝓕)
+    (hBV : ¬ X.BoundedVariation)
+    (x : ℝ) (C : ℝ≥0∞) (hC : 0 < C) (hFinite : C ≠ ⊤)
+    (hxc : ENNReal.ofReal x ≤ C)
+    (D : ℝ≥0 → Ω → ℝ) (hD : IsAdmissibleLe X x C D)
+    (n : ℕ) (hn : 0 < n)
+    (μ : Measure (ℝ≥0 × Ω)) [IsFiniteMeasure μ] :
+    ∀ ε : ℝ, 0 < ε → ∃ k j : ℕ,
+      μ {p : ℝ≥0 × Ω |
+        0 < riskProcess X x D p.1 p.2 ∧
+        riskProcess X x D p.1 p.2 ≤
+          (1 : ℝ) / ((k : ℝ) + 1)} ≤ ENNReal.ofReal ε ∧
+      (∫ ω, ∫ t in Ioo (0 : ℝ) (n : ℝ),
+        if C.toReal * (((j + 1 : ℕ) : ℝ) / ((j + 2 : ℕ) : ℝ)) <
+            riskProcess X x D (Real.toNNReal t) ω
+        then (1 : ℝ) else 0 ∂volume ∂P) ≤ ε := by
+  intro ε hε
+  have hLower :=
+    avram_pj_workerC_original_true_reserve_positive_lowerstrip_finite_product_measure_zero
+      X x C D hD μ
+  have hεENN : (0 : ℝ≥0∞) < ENNReal.ofReal ε :=
+    ENNReal.ofReal_pos.mpr hε
+  have hSmall :=
+    (tendsto_order.1 hLower).2 (ENNReal.ofReal ε) hεENN
+  obtain ⟨k, hk⟩ := hSmall.exists
+  obtain ⟨j, hj⟩ :=
+    avram_pj_workerC_original_purejump_finitecap_upperband_expected_spatial_error_arbitrarily_small
+      X hBV x C hC hFinite hxc D hD n hn ε hε
+  exact ⟨k, j, le_of_lt hk, hj⟩

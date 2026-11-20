@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_DiamondDist_lemma_9_1_2
 -- name    : WildeQIT.DiamondDist.lemma_9_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:06.703988+00:00
 -- url     : https://prove2.me/theorems/adb37251-52cf-4ab7-b50f-a7f0983397ee

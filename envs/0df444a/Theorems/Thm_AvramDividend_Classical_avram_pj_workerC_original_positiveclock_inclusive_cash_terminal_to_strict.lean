@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_pj_workerC_original_positiveclock_inclusive_cash_terminal_to_strict
 -- name    : AvramDividend.Classical.avram_pj_workerC_original_positiveclock_inclusive_cash_terminal_to_strict
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:46:08.006193+00:00
 -- url     : https://prove2.me/theorems/23904f78-ca64-4fe9-8183-ae77eb3d17ac

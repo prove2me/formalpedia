@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_fillFromBase_rejects_conflict
 -- name    : DeletionCode.DecoderExamples.fillFromBase_rejects_conflict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:24.406976+00:00
 -- url     : https://prove2.me/theorems/c42b4284-ea81-48d2-be67-f07cac6caddd

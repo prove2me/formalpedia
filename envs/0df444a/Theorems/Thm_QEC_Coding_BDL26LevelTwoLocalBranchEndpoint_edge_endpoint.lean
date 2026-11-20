@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_edge_endpoint
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.edge_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:51:37.094065+00:00
 -- url     : https://prove2.me/theorems/c5d4e2bc-8f30-46bb-aad6-d6d832e14d01

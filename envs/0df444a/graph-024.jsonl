@@ -13366,9 +13366,9 @@
 {"parent": "PureDPQR.proposition_22", "child": "PureDPQR_alg2Law", "via": ["statement"]}
 {"parent": "OAIQ098G489", "child": "OAIQ098G118", "via": ["statement"]}
 {"parent": "OAIQ098G489", "child": "OAIQ098G455", "via": ["statement"]}
-{"parent": "UniversalSubmod.eq_2_second_partials", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["statement"]}
-{"parent": "UniversalSubmod.eq_2_second_partials", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "UniversalSubmod.eq_2_second_partials", "child": "NonmonotoneSubmod_Shared_F", "via": ["statement"]}
+{"parent": "UniversalSubmod.eq_2_second_partials", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.eq_2_second_partials", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.eq_2_second_partials", "child": "NonmonotoneSubmod_Shared_F", "via": ["solution", "statement"]}
 {"parent": "MaxCompForest_encOptIn", "child": "MaxCompForest_graphWords", "via": ["statement"]}
 {"parent": "MaxCompForest_encOptIn", "child": "MaxCompForest_encWords", "via": ["statement"]}
 {"parent": "MaxCompForest_encOptIn", "child": "OnlineCRS_Combine_encNat", "via": ["statement"]}
@@ -15761,8 +15761,8 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.mem_vertexBlockSupport_iff_localVertexMatrix_ne_zero", "child": "QEC_Coding_ExpanderCodes_TannerLiftedProduct", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.mem_vertexBlockSupport_iff_localVertexMatrix_ne_zero", "child": "QEC_Coding_ExpanderCodes_LocalStarExpansion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.mem_vertexBlockSupport_iff_localVertexMatrix_ne_zero", "child": "QEC_Coding_ExpanderCodes_LocallyMinimalDistance", "via": ["solution", "statement"]}
-{"parent": "UniversalSubmod.concavity_segment", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "UniversalSubmod.concavity_segment", "child": "NonmonotoneSubmod_Shared_F", "via": ["statement"]}
+{"parent": "UniversalSubmod.concavity_segment", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.concavity_segment", "child": "NonmonotoneSubmod_Shared_F", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Q_7_g", "child": "OAIQ098G001", "via": ["statement"]}
 {"parent": "OAI.CubicEisenstein.positiveHeightPower_hasDerivAt_deriv", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SmoothCuspCutoffs", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.positiveHeightPower_hasDerivAt_deriv", "child": "OAI_NumberTheory_DirichletL_CubicSieve_LogarithmicTargets", "via": ["solution", "statement"]}
@@ -18223,9 +18223,9 @@
 {"parent": "OAI.SharpPlanar.Bernstein0.N1_right.t11_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein0.N1_right.t11_contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "MaxCompForest_PairMult", "child": "EffResSparsify_ResistanceSketch_Graph", "via": ["statement"]}
-{"parent": "UniversalSubmod.lemma_2_6", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["statement"]}
-{"parent": "UniversalSubmod.lemma_2_6", "child": "UniversalSubmod_threshSet", "via": ["statement"]}
-{"parent": "UniversalSubmod.lemma_2_6", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
+{"parent": "UniversalSubmod.lemma_2_6", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.lemma_2_6", "child": "UniversalSubmod_threshSet", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.lemma_2_6", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G1015", "child": "OAIQ098G580", "via": ["statement"]}
 {"parent": "OAIQ098G1015", "child": "OAIQ098G018", "via": ["statement"]}
 {"parent": "OAIQ098G1015", "child": "OAIQ098G395", "via": ["statement"]}
@@ -18258,9 +18258,9 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.chunkSound75_e", "child": "OAIQ106E077", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.chunkSound75_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.chunkSound75_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
-{"parent": "UniversalSubmod.theorem_2_3", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "UniversalSubmod.theorem_2_3", "child": "UniversalSubmod_CorrMatrix", "via": ["statement"]}
-{"parent": "UniversalSubmod.theorem_2_3", "child": "UniversalSubmod_semidefExt", "via": ["statement"]}
+{"parent": "UniversalSubmod.theorem_2_3", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.theorem_2_3", "child": "UniversalSubmod_CorrMatrix", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.theorem_2_3", "child": "UniversalSubmod_semidefExt", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSSparseEmitterFamily.mem_originalFamily_carrier_iff_decodedOutput", "child": "QEC_Coding_ExpanderCodes_LPSPrimeMachine", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSSparseEmitterFamily.mem_originalFamily_carrier_iff_decodedOutput", "child": "QEC_Coding_ExpanderCodes_LPSSparseEmitterFamilyMachine", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.LPSSparseEmitterFamily.mem_originalFamily_carrier_iff_decodedOutput", "child": "QEC_Coding_ExpanderCodes_LPSSparseEmitterSourceMachine", "via": ["solution", "statement"]}
@@ -19193,8 +19193,8 @@
 {"parent": "OAI.SharpPlanar.Bernstein3.N1_left.t8_contains_g", "child": "OAIQ098G382", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein3.N1_left.t8_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Bernstein3.N1_left.t8_contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
-{"parent": "UniversalSubmod.theorem_1_1_universal_family", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["statement"]}
-{"parent": "UniversalSubmod.theorem_1_1_universal_family", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
+{"parent": "UniversalSubmod.theorem_1_1_universal_family", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.theorem_1_1_universal_family", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.atomPoint2_contains_g", "child": "OAIQ098G091", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.atomPoint2_contains_g", "child": "OAIQ098G383", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_residual10_original_ruin_clock_uniform_mesh_small_ae", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -28740,9 +28740,9 @@
 {"parent": "OAI.SharpPlanar.Bernstein33.N1_left.t4_contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.a9_3_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.a9_3_contains_g", "child": "OAIQ098G072", "via": ["statement"]}
-{"parent": "UniversalSubmod.lemma_2_1", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["statement"]}
-{"parent": "UniversalSubmod.lemma_2_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "UniversalSubmod.lemma_2_1", "child": "NonmonotoneSubmod_Shared_F", "via": ["statement"]}
+{"parent": "UniversalSubmod.lemma_2_1", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.lemma_2_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.lemma_2_1", "child": "NonmonotoneSubmod_Shared_F", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm0_0_1_2.realContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm0_0_1_2.realContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm0_0_1_2.realContains_g", "child": "OAIQ098G656", "via": ["solution", "statement"]}
@@ -35867,8 +35867,8 @@
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound391_e", "child": "OAIQ106E070", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound391_e", "child": "OAIQ106E086", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedSourceBridge.rowSound391_e", "child": "MUBSix", "via": ["solution", "statement"]}
-{"parent": "QEC.Coding.BDL26ReplacementEmbedding.familyHits_card_le_three_mul_positive", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbedding", "via": ["statement"]}
-{"parent": "QEC.Coding.BDL26ReplacementEmbedding.familyHits_card_le_three_mul_positive", "child": "QEC_Coding_FiniteAlternatingConstruction_TannerSquare", "via": ["statement"]}
+{"parent": "QEC.Coding.BDL26ReplacementEmbedding.familyHits_card_le_three_mul_positive", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbedding", "via": ["solution", "statement"]}
+{"parent": "QEC.Coding.BDL26ReplacementEmbedding.familyHits_card_le_three_mul_positive", "child": "QEC_Coding_FiniteAlternatingConstruction_TannerSquare", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_1_4.realContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_1_4.realContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_1_4.realContains_g", "child": "OAIQ098G828", "via": ["solution", "statement"]}
@@ -37452,8 +37452,8 @@
 {"parent": "OAIQ098G1127", "child": "OAIQ098G625", "via": ["statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.sieveNorm_reverse_le", "child": "OAI_NumberTheory_DirichletL_CubicSieve_FrequencyCutoffs", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.sieveNorm_reverse_le", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ConstantDirichletSeries", "via": ["solution", "statement"]}
-{"parent": "QEC.Coding.BDL26ReplacementEmbedding.allHits_card_le_three_mul_positiveHits", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbedding", "via": ["statement"]}
-{"parent": "QEC.Coding.BDL26ReplacementEmbedding.allHits_card_le_three_mul_positiveHits", "child": "QEC_Coding_FiniteAlternatingConstruction_TannerSquare", "via": ["statement"]}
+{"parent": "QEC.Coding.BDL26ReplacementEmbedding.allHits_card_le_three_mul_positiveHits", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbedding", "via": ["solution", "statement"]}
+{"parent": "QEC.Coding.BDL26ReplacementEmbedding.allHits_card_le_three_mul_positiveHits", "child": "QEC_Coding_FiniteAlternatingConstruction_TannerSquare", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.cubeCoreCoefficient_ray_family", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ChildTransfer", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.cubeCoreCoefficient_ray_family", "child": "OAI_NumberTheory_DirichletL_Fourier_FrequencyTwists", "via": ["solution", "statement"]}
 {"parent": "KelnerLinSolve.test_eq_13", "child": "KelnerLinSolve_kappa2", "via": ["statement"]}
@@ -38563,9 +38563,9 @@
 {"parent": "OAIQ098G1068", "child": "OAIQ098G597", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.hexNat_residue_g", "child": "OAIQ098G000", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.hexNat_residue_g", "child": "OAIQ098G013", "via": ["solution", "statement"]}
-{"parent": "UniversalSubmod.theorem_2_4", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["statement"]}
-{"parent": "UniversalSubmod.theorem_2_4", "child": "UniversalSubmod_threshSet", "via": ["statement"]}
-{"parent": "UniversalSubmod.theorem_2_4", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
+{"parent": "UniversalSubmod.theorem_2_4", "child": "NonmonotoneSubmod_Shared_OPT", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.theorem_2_4", "child": "UniversalSubmod_threshSet", "via": ["solution", "statement"]}
+{"parent": "UniversalSubmod.theorem_2_4", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G140", "child": "OAIQ098G139", "via": ["statement"]}
 {"parent": "OAIQ098G140", "child": "OAIQ098G136", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_strict12_original_finite_cap_two_scale_cell_contact", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

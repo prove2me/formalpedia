@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_lattice_count
 -- name    : UniversalSubmod.lattice_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:51:34.859209+00:00
 -- url     : https://prove2.me/theorems/5105583a-3300-4b70-9923-44a0280e3075

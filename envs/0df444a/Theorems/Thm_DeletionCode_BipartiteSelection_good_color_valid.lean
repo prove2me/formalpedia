@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BipartiteSelection_good_color_valid
 -- name    : DeletionCode.BipartiteSelection.good_color_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:29:26.486851+00:00
 -- url     : https://prove2.me/theorems/36af6477-0755-4790-81f1-7f63bfcc8908

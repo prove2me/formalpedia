@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateUniformGen_Characterization_theorem_1_1
 -- name    : PrivateUniformGen.Characterization.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:00:44.835344+00:00
 -- url     : https://prove2.me/theorems/e387ab95-61b7-444c-813a-fc9f166e53f3

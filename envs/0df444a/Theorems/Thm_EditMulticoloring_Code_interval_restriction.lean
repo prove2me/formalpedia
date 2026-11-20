@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditMulticoloring_Code_interval_restriction
 -- name    : EditMulticoloring.Code.interval_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T18:49:01.530201+00:00
 -- url     : https://prove2.me/theorems/cb84f285-7ffd-4f7b-b2a1-4358040b77de

@@ -1,0 +1,229 @@
+-- Prove2me | Theorems.Thm_QuantumSixJ_network_recurrence
+-- name    : QuantumSixJ.network_recurrence
+-- status  : Proved
+-- author  : @igor.kh
+-- created : 2026-11-13T00:44:29.075636+00:00
+-- url     : https://prove2.me/theorems/bec0cce9-0390-41cc-a429-3917322eb36b
+-- title:
+--   Eqs. (23), (24) — graphical-network recurrence
+-- statement:
+--   Let $\mathcal C$ be a $K$-linear preadditive monoidal category, $K=\mathbb C(q)$, with additive and $K$-linear tensor product. The chosen objects $V_n$ for natural labels satisfy $V_0\cong\mathbb1$ and have exact self-pairings. Assume `SuQ2Axioms`: unique scalar endomorphisms of each $V_n$, zero morphisms between different labels, the admissible $\mathrm{SL}(2)$ fusion decompositions, and the loop values $\Delta_n$. Choose trivalent vertices $W$, and assume `VertexNormalized W`: theta normalization and cyclicity. Scalars act through $\iota:\mathbb Q(q)\hookrightarrow K$, fixing $q$. Composition $f;g$ means first $f$, then $g$.
+--
+--   Also assume the separate initial data `TetSeed W`: for every natural $a,b,c,d,j$, $T(a,b,c,d;j,2)=\iota(\operatorname{Tet}^{\mathrm{sum}}(a,b,c,d;j,2))\,\mathrm{id}_{\mathbb1}$. These are seed values, not an all-channel network-to-sum identity.
+--
+--   Prove `QuantumSixJ.NetworkRecurrence`. For every $a,b,c,d\in\mathbb N$ and every signed channels $j,l\in\mathbb Z$, the graphical Tet of equation (6), extended by zero when a channel is negative, satisfies
+--   $$\frac{\iota(L_{j,j-2})}{\iota(h_{j-2})}T_{j-2,l}+\frac{\iota(L_{jj}-\Lambda(a,b,l)h_j)}{\iota(h_j)}T_{jl}+\frac{\iota(L_{j,j+2})}{\iota(h_{j+2})}T_{j+2,l}=0.$$
+--   The graphical network is $T(a,b,c,d;j,l)=X(a,d,c,b;j);H^R(a,d,c,b;l)$ on nonnegative channels. Scalar coefficients act on endomorphisms of the tensor unit. No eigenvector equation, matrix-entry evaluation, general tetrahedral symmetry, or all-channel network-to-sum equality is assumed beyond the stated category, normalization and seed data. Total field division includes the boundary and inadmissible cases. The pure scalar recurrence is not an assumption of this statement.
+--
+--   ### Independent mathematical read-back
+--
+--   # Graphical tetrahedral recurrence
+--
+--   ## Statement and universe scope
+--
+--   Let \(u,v\) be arbitrary universe levels. The assertion quantifies over every category \(\mathcal C\) whose objects have size \(u\) and whose morphisms have size \(v\), equipped with a preadditive structure, a \(K\)-linear structure, a monoidal structure, and compatible monoidal-preadditive and monoidal-linear structures, where \(K=\mathbb C(q)\). Thus morphism sets are additive groups and \(K\)-modules; composition and tensoring satisfy the indicated additivity and linearity requirements. No ordering between \(u\) and \(v\) is imposed by the assertion.
+--
+--   For every choice of labelled self-duality data \(S\) and trivalent vertices \(W\) described below, assume **all** the category axioms, the two vertex-normalization conditions, and the separate tetrahedral seed condition below. Then for **every** \(a,b,c,d\in\mathbb N\) and \(j,l\in\mathbb Z\),
+--   \[
+--   \frac{\iota(L_{j,j-2})}{\iota(h_{j-2})}\,\mathcal T_{j-2,l}
+--   +\frac{\iota(L_{j,j}-\Lambda(a,b,l)h_j)}{\iota(h_j)}\,\mathcal T_{j,l}
+--   +\frac{\iota(L_{j,j+2})}{\iota(h_{j+2})}\,\mathcal T_{j+2,l}=0
+--   \quad\text{in }\operatorname{End}_{\mathcal C}(\mathbf1).
+--   \]
+--   Products of a field coefficient and a morphism here mean the \(K\)-scalar action, and zero is the zero morphism. Set \(h_r=h(a,b,c,d,r)\), \(L_{r,s}=L(a,b,c,d,r,s)\), and \(\mathcal T_{r,l}=W.\operatorname{tet}(a,b,c,d,r,l)\). Natural labels in scalar expressions are coerced to integers. The map \(\iota:\mathbb Q(q)\to\mathbb C(q)\) is the coefficient embedding induced by \(\mathbb Q\hookrightarrow\mathbb C\), fixing the indeterminate \(q\).
+--
+--   The three denominators are respectively the norms at \(j-2,j,j+2\), not a common denominator \(h_j\). There are no admissibility or nonzero-denominator hypotheses on the displayed indices. This assertion does not assume the scalar recurrence or an all-channel equality between the graphical tetrahedron and the explicit sum.
+--
+--   ## Scalar definitions used in the assertion and seed
+--
+--   In \(F=\mathbb Q(q)\), define for integers \(n\)
+--   \[
+--   [n]=\frac{q^n-q^{-n}}{q-q^{-1}},\qquad
+--   [n]!=\begin{cases}0&n<0,\\\prod_{k=1}^n[k]&n\ge0.\end{cases}
+--   \]
+--   The empty product is one. All divisions in \(F\) and \(K\) are total field division, so \(z/0=0\), including \(0/0=0\). All divisions of integer indices by two mean Euclidean integer division, i.e. floor division for divisor two. Integer powers are used in expressions such as \((-1)^S\).
+--
+--   Write \(A(a,b,c)\) for
+--   \[
+--   a,b,c\ge0,\quad a\le b+c,\quad b\le c+a,\quad c\le a+b,
+--   \quad a+b+c\equiv0\pmod2.
+--   \]
+--   Write \(H_r\) for \(A(a,d,r)\land A(b,c,r)\), and \(V_l\) for \(A(a,b,l)\land A(c,d,l)\). These predicates do not denote objects of \(\mathcal C\). Define
+--   \[
+--   \Delta(r)=\begin{cases}(-1)^r[r+1]&r\ge0,\\0&r<0,\end{cases}
+--   \]
+--   \[
+--   \theta(a,b,c)=\begin{cases}
+--   \displaystyle\frac{(-1)^s[s+1]![s-a]![s-b]![s-c]!}{[a]![b]![c]!},
+--   &A(a,b,c),\quad s=(a+b+c)\mathbin{\mathrm{div}}2,\\
+--   0,&\text{otherwise},
+--   \end{cases}
+--   \qquad
+--   h_r=\begin{cases}\theta(a,d,r)\theta(b,c,r)/\Delta(r)&H_r,\\0&\text{otherwise}.\end{cases}
+--   \]
+--   For every integer triple,
+--   \[
+--   \Lambda(a,b,l)=\begin{cases}
+--   \displaystyle\frac{
+--   [(a-b+l)\mathbin{\mathrm{div}}2][(-a+b+l)\mathbin{\mathrm{div}}2]
+--   -[(a+b-l)\mathbin{\mathrm{div}}2][(a+b+l)\mathbin{\mathrm{div}}2+2]}{[2]},&A(a,b,l),\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   The \(+2\) in the last bracket is outside the integer division.
+--
+--   The matrix is defined first on its diagonal by
+--   \[
+--   L_{r,r}=\begin{cases}
+--   \displaystyle-\frac{h_r[2]\Lambda(a,r,d)\Lambda(b,r,c)}{[r][r+2]},&H_r\land r\ne0,\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   For \(r\ne s\) with \(s=r+2\) or \(r=s+2\), set \(m=\min(r,s)\), \(n=\max(r,s)\), and define
+--   \[
+--   L_{r,s}=\begin{cases}
+--   h_n[(a+d-m)\mathbin{\mathrm{div}}2][(b+c-m)\mathbin{\mathrm{div}}2],&H_m\land H_n,\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   All other entries vanish. Thus \(L_{r,s}=L_{s,r}\), with only the diagonal and step-two neighboring diagonals possibly nonzero. In particular \(L_{0,0}=0\) by an explicit branch. The lower neighbor uses
+--   \(h_j[(a+d-j+2)\mathbin{\mathrm{div}}2][(b+c-j+2)\mathbin{\mathrm{div}}2]\) when \(H_{j-2}\land H_j\); the upper neighbor uses
+--   \(h_{j+2}[(a+d-j)\mathbin{\mathrm{div}}2][(b+c-j)\mathbin{\mathrm{div}}2]\) when \(H_j\land H_{j+2}\). Otherwise those entries are zero.
+--
+--   The seed uses an independently defined explicit sum \(T(a,b,c,d,j,l)\). Define
+--   \[
+--   (A_1,A_2,A_3,A_4)=\bigl((a+d+j)\mathbin{\mathrm{div}}2,
+--   (b+c+j)\mathbin{\mathrm{div}}2,(a+b+l)\mathbin{\mathrm{div}}2,
+--   (c+d+l)\mathbin{\mathrm{div}}2\bigr),
+--   \]
+--   \[
+--   (B_1,B_2,B_3)=\bigl((b+d+j+l)\mathbin{\mathrm{div}}2,
+--   (a+c+j+l)\mathbin{\mathrm{div}}2,(a+b+c+d)\mathbin{\mathrm{div}}2\bigr).
+--   \]
+--   When \(H_j\land V_l\), let
+--   \[
+--   T(a,b,c,d,j,l)=
+--   \frac{\prod_{i=1}^4\prod_{k=1}^3[B_k-A_i]!}{[a]![b]![c]![d]![j]![l]!}
+--   \sum_{S=0}^{a+b+c+d+j+l}
+--   \frac{(-1)^S[S+1]!}{\left(\prod_{i=1}^4[S-A_i]!\right)
+--   \left(\prod_{k=1}^3[B_k-S]!\right)};
+--   \]
+--   otherwise \(T=0\). This is an inclusive sum over integer indices, empty when the upper bound is negative. No separate support guard is present. Negative factorial arguments yield zero, and a zero factorial denominator makes the corresponding quotient zero by total division. Admissibility makes the relevant half-sums integral without rounding.
+--
+--   ## Labelled self-duality data
+--
+--   For every \(a\in\mathbb N\), choose an object \(V_a\), with an isomorphism \(V_0\cong\mathbf1\), and an exact self-pairing. Write its coevaluation and evaluation as
+--   \[
+--   u_a:\mathbf1\longrightarrow V_a\otimes V_a,
+--   \qquad e_a:V_a\otimes V_a\longrightarrow\mathbf1.
+--   \]
+--   Both snake identities hold: the composites
+--   \((u_a\otimes1_a);(1_a\otimes e_a)\) and
+--   \((1_a\otimes u_a);(e_a\otimes1_a)\), with their canonical unitors and associators, are each \(1_a\). Here and below \(f;g\) means first \(f\), then \(g\). These are chosen pairings, not Hermitian inner products.
+--
+--   ### All category axioms
+--
+--   1. **Scalar endomorphisms, uniquely:** for every \(a\in\mathbb N\) and \(f:V_a\to V_a\), there exists exactly one \(s\in K\) with \(f=s\,1_a\).
+--   2. **Disjoint labels:** for all \(a,b\in\mathbb N\) with \(a\ne b\), every morphism \(V_a\to V_b\) is zero.
+--   3. **Fusion:** for every \(a,b\in\mathbb N\), let
+--      \(R(a,b)=\{c\in\mathbb N:0\le c\le a+b,\ A(a,b,c)\}\).
+--      There exist families of morphisms, defined for **all** natural \(c\),
+--      \(i_c:V_c\to V_a\otimes V_b\) and \(p_c:V_a\otimes V_b\to V_c\), such that
+--      \[
+--      i_c;p_c=1_c\quad(c\in R(a,b)),\qquad
+--      \sum_{c\in R(a,b)}p_c;i_c=1_{V_a\otimes V_b}.
+--      \]
+--      No condition on these families outside \(R(a,b)\) is included, nor is a chosen identification with the vertex maps assumed.
+--   4. **Loops:** for every natural \(a\),
+--      \(u_a;e_a=\iota(\Delta(a))\,1_{\mathbf1}\).
+--
+--   No braiding, symmetry, dagger, positivity, specified concrete representation category, or general pivotal-compatibility law is an additional hypothesis.
+--
+--   ## Vertices, their bends, and the precise tetrahedron
+--
+--   Choose for every natural triple a morphism
+--   \(w_{abc}:V_a\otimes V_b\otimes V_c\to\mathbf1\).
+--   To specify all bends without suppressing their order, write \(1_a\) for \(1_{V_a}\), \(1\) for an identity on the object determined by the surrounding expression, and \(f\star g\) for successive composition with only canonical monoidal associators and unitors inserted between the displayed morphisms. Multiple tensor factors retain their displayed order; no permutation or crossing is inserted.
+--
+--   For \(f:V_a\otimes V_b\otimes V_c\to\mathbf1\), its cyclic bend is
+--   \[
+--   \operatorname{rot}(f)=
+--   1\star(u_a\otimes1_{V_b\otimes V_c\otimes V_a})
+--   \star\bigl(1_a\otimes(f\otimes1_a)\bigr)\star e_a.
+--   \]
+--   It is a morphism \(V_b\otimes V_c\otimes V_a\to\mathbf1\).
+--
+--   The all-up vertex, splitting map, and fusing map are defined, not independently chosen, by
+--   \[
+--   w^{abc}=
+--   u_c\star\bigl(1_c\otimes(u_b\otimes1_c)\bigr)
+--   \star\bigl(1_c\otimes((1_b\otimes(u_a\otimes1_b))\otimes1_c)\bigr)
+--   \star\bigl(w_{cba}\otimes1_{V_a\otimes V_b\otimes V_c}\bigr)\star1,
+--   \]
+--   \[
+--   s_l^{ab}=
+--   1\star(u_a\otimes1_l)
+--   \star\bigl(1_a\otimes((u_b\otimes1_a)\otimes1_l)\bigr)
+--   \star(1_a\otimes1_b\otimes w_{bal})\star1,
+--   \]
+--   \[
+--   f_{ab}^{l}=
+--   1\star(1_{V_a\otimes V_b}\otimes u_l)
+--   \star(w_{abl}\otimes1_l)\star1.
+--   \]
+--   Their respective types are \(\mathbf1\to V_a\otimes V_b\otimes V_c\), \(V_l\to V_a\otimes V_b\), and \(V_a\otimes V_b\to V_l\). These formulas specify nested cups and the reversed vertex order in \(w^{abc}\) and \(s_l^{ab}\); they are linear categorical constructions, not complex conjugations.
+--
+--   For natural channels, define
+--   \[
+--   X(a,b,c,d,r)=u_r\star(s_r^{ab}\otimes s_r^{cd})\star1,
+--   \]
+--   \[
+--   H^{\mathrm{cov}}(a,b,c,d,t)=
+--   1\star\bigl(1_a\otimes(f_{bc}^{t}\otimes1_d)\bigr)\star w_{atd}.
+--   \]
+--   Their types are respectively \(\mathbf1\to V_a\otimes V_b\otimes V_c\otimes V_d\) and the reverse. For signed channels the graphical tetrahedron is **exactly**
+--   \[
+--   \mathcal T(a,b,c,d,j,l)=
+--   \begin{cases}
+--   X(a,d,c,b,j);H^{\mathrm{cov}}(a,d,c,b,l),&j\ge0\text{ and }l\ge0,\\
+--   0,&\text{otherwise}.
+--   \end{cases}
+--   \]
+--   Only in the first branch are the nonnegative integers converted to natural channels. The boundary order is \(a,d,c,b\), the channel in \(X\) is \(j\), and the inner rung in the covector is \(l\). This is not a definition using \(H_j;X_l^{\mathrm{cov}}\), nor a definition of a tetrahedron by the recurrence. The definition has no separate admissibility guard for nonnegative channels.
+--
+--   ### Exactly two vertex-normalization conditions
+--
+--   For all natural \(a,b,c\), assume
+--   \[
+--   w^{abc};w_{abc}=\iota(\theta(a,b,c))\,1_{\mathbf1},
+--   \qquad
+--   \operatorname{rot}(w_{abc})=w_{bca}.
+--   \]
+--   These are theta normalization and cyclicity, including inadmissible triples. There is no tetrahedral evaluation in this normalization package.
+--
+--   ### Separate tetrahedral seed data
+--
+--   Independently assume, for **every** natural \(a,b,c,d,r\),
+--   \[
+--   \mathcal T(a,b,c,d,r,2)
+--   =\iota\bigl(T(a,b,c,d,r,2)\bigr)\,1_{\mathbf1}.
+--   \]
+--   The scalar arguments are \(a,b,c,d,r,2\), while the network's boundary presentation is \(a,d,c,b\). This is an assumed last-slot-two evaluation, including zero values of the explicit sum on inadmissible labels. It is seed data used as an input to the assertion, not a conclusion or a consequence declared as part of vertex normalization. It does not separately assume penultimate-slot-two values or equality to the explicit sum at every inner channel.
+--
+--   ## Degenerate cases and meaning
+--
+--   All signed channels are included, with no boundary-index restrictions. A negative channel makes its graphical tetrahedron zero by definition. An inadmissible horizontal channel has zero scalar norm; every coefficient with that norm as denominator is zero by total field division. Adjacent entries require both horizontal channels to be admissible, and the diagonal at zero is separately set to zero. Thus no cancellation or division by a nonzero norm is tacitly required to interpret the equation.
+--
+--   The conclusion is a morphism-valued recurrence with independently specified scalar coefficients. No scalar-to-network bridge beyond the stated last-slot-two seed, no eigenvector equation, and no numerical matrix-entry evaluation is an extra assumption. Neither the scalar formulas nor the category assertion specialize \(q\) to a complex number; total division here is not a prescription for values at meromorphic poles. This testimony specifies the mathematical claim and its hypotheses, not a certification of a proof.
+-- source:
+--   I. Khavkine, Recurrence relation for the 6j-symbol of su_q(2) as a symmetric eigenvalue problem, International Journal of Geometric Methods in Modern Physics (2015), https://doi.org/10.1142/S0219887815501170; https://arxiv.org/abs/1009.2261. Eqs. (23), (24), graphical-network recurrence.
+
+import Definitions.Def_QuantumSixJRecurrences
+
+universe v u
+
+namespace QuantumSixJ
+
+theorem network_recurrence : NetworkRecurrence.{v, u} := by sorry
+
+end QuantumSixJ

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_pj_workerC_original_jump_measure_negative_mark_ae
 -- name    : AvramDividend.Classical.avram_pj_workerC_original_jump_measure_negative_mark_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:49:35.656113+00:00
 -- url     : https://prove2.me/theorems/f77aa32a-23cf-414b-98a6-84021501989e

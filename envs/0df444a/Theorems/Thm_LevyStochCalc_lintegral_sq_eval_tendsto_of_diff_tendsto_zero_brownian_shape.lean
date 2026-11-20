@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_lintegral_sq_eval_tendsto_of_diff_tendsto_zero_brownian_shape
 -- name    : LevyStochCalc.lintegral_sq_eval_tendsto_of_diff_tendsto_zero_brownian_shape
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:47:42.727391+00:00
 -- url     : https://prove2.me/theorems/c7eb71f9-beae-48c4-90ec-3951038c5519

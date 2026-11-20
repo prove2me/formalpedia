@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_MaximalRuns_bit_at_run_index
 -- name    : DeletionCode.MaximalRuns.bit_at_run_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:31:04.789168+00:00
 -- url     : https://prove2.me/theorems/827b7230-044f-4716-a9b6-9d8bc9e000bc

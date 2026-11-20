@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SqrtQueries_pure_traceDist_le
 -- name    : SqrtQueries.pure_traceDist_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T13:28:55.617941+00:00
 -- url     : https://prove2.me/theorems/9030a37d-ac50-4782-b3a8-98e1d702459f

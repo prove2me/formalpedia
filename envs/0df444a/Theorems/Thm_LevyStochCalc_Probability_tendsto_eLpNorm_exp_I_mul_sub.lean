@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_tendsto_eLpNorm_exp_I_mul_sub
 -- name    : LevyStochCalc.Probability.tendsto_eLpNorm_exp_I_mul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:39:31.102245+00:00
 -- url     : https://prove2.me/theorems/5dcdb202-734d-490d-bb31-d853274d1308

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_measurableSet_stoppedSet
 -- name    : LevyStochCalc.Probability.measurableSet_stoppedSet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:30:37.567314+00:00
 -- url     : https://prove2.me/theorems/8fc8e67c-fd68-476c-86f6-2497e899b8c0

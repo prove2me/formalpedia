@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpreadMatchCircuit_Matching_lemma_11
 -- name    : SpreadMatchCircuit.Matching.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:27:12.782476+00:00
 -- url     : https://prove2.me/theorems/bd4e9347-3b82-4c51-8153-0e5d37429edd

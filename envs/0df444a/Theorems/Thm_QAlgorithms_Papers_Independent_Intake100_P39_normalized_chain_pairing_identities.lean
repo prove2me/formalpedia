@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P39_normalized_chain_pairing_identities
 -- name    : QAlgorithms.Papers.Independent.Intake100.P39.normalized_chain_pairing_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:06:06.649982+00:00
 -- url     : https://prove2.me/theorems/1391b342-8576-4ebf-bdc5-cd01cd8f3ad3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubblePathSimplicity_local_word_unique
 -- name    : DeletionCode.BubblePathSimplicity.local_word_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:24:15.384459+00:00
 -- url     : https://prove2.me/theorems/8a844697-97da-48aa-96e2-564fb82d37cc

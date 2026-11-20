@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp530a_leaf_regularPart_finite_order_growth
 -- name    : LL_Decomp530a.leaf_regularPart_finite_order_growth
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-17T15:38:08.212999+00:00
 -- url     : https://prove2.me/theorems/5a6ae6c1-6e89-4d08-86d9-524776dcc22c

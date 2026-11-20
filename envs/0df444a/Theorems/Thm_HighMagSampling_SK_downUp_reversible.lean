@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighMagSampling_SK_downUp_reversible
 -- name    : HighMagSampling.SK.downUp_reversible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:27:47.666317+00:00
 -- url     : https://prove2.me/theorems/99ac73d5-2568-48b2-91c6-43514bf2846b

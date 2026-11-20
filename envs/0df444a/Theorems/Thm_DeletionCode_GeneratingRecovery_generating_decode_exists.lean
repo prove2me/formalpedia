@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_GeneratingRecovery_generating_decode_exists
 -- name    : DeletionCode.GeneratingRecovery.generating_decode_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:15:52.840215+00:00
 -- url     : https://prove2.me/theorems/f459cfaa-e72f-4558-8cdc-924b41f5d5d1

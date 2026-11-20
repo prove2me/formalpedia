@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CircleHash_label_lt
 -- name    : DeletionCode.CircleHash.label_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:23.985495+00:00
 -- url     : https://prove2.me/theorems/b90609d4-1231-4c82-9529-85620c05ece1

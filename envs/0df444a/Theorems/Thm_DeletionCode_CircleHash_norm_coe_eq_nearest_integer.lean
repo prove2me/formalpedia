@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CircleHash_norm_coe_eq_nearest_integer
 -- name    : DeletionCode.CircleHash.norm_coe_eq_nearest_integer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:37.3444+00:00
 -- url     : https://prove2.me/theorems/6980e0d9-648b-4f30-9855-1ebc07dd4ae0

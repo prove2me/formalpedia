@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BirthdayEntropy_Soundness_Supplement_lemma_A_4
 -- name    : BirthdayEntropy.Soundness.Supplement.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T21:21:54.660032+00:00
 -- url     : https://prove2.me/theorems/06603869-6edf-48aa-9a75-23cfd64bad7b

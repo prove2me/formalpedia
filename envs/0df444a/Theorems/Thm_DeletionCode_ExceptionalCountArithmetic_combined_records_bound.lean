@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ExceptionalCountArithmetic_combined_records_bound
 -- name    : DeletionCode.ExceptionalCountArithmetic.combined_records_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:45:59.687202+00:00
 -- url     : https://prove2.me/theorems/a5c8dccd-5cf0-4bac-8c9e-ced93a5df2a3

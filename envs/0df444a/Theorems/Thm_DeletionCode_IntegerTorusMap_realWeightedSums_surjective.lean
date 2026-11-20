@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_IntegerTorusMap_realWeightedSums_surjective
 -- name    : DeletionCode.IntegerTorusMap.realWeightedSums_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:42:22.794707+00:00
 -- url     : https://prove2.me/theorems/e5062717-d5a2-4987-b122-68deef2e4993

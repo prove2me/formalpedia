@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsFellerKernelSemigroup_continuous_integral_eval_continuousProcess
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.continuous_integral_eval_continuousProcess
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:32:11.391892+00:00
 -- url     : https://prove2.me/theorems/8511c7a5-b191-44e0-84aa-de1672180f6e

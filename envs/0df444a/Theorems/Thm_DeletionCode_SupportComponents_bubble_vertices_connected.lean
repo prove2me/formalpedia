@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SupportComponents_bubble_vertices_connected
 -- name    : DeletionCode.SupportComponents.bubble_vertices_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:59:29.956002+00:00
 -- url     : https://prove2.me/theorems/0104a111-388f-44d2-82fd-f7e4522a9e20

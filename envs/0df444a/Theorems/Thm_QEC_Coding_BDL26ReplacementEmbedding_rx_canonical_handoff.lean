@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_rx_canonical_handoff
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.rx_canonical_handoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T03:44:15.408249+00:00
 -- url     : https://prove2.me/theorems/5b5fabe1-8663-412b-be47-dcce9203aa7e

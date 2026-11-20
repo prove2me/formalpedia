@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_tendsto_integral_mul_of_tendsto_eLpNorm
 -- name    : LevyStochCalc.Probability.tendsto_integral_mul_of_tendsto_eLpNorm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:39:07.347392+00:00
 -- url     : https://prove2.me/theorems/27d27ae9-3f49-437d-9749-99476ee8e305

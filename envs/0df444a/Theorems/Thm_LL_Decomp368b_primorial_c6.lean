@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp368b_primorial_c6
 -- name    : LL_Decomp368b.primorial_c6
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-18T00:55:54.980376+00:00
 -- url     : https://prove2.me/theorems/a0f4179e-aba1-4440-a678-cf5f4c829b20

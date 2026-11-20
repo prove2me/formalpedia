@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctionField_cupPairing_compactH1_geomH1_isPerfect_of_picDivisible
 -- name    : FunctionField.cupPairing_compactH1_geomH1_isPerfect_of_picDivisible
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-18T05:54:55.686245+00:00
 -- url     : https://prove2.me/theorems/e0d5e456-241c-4963-85f9-658cf918115a

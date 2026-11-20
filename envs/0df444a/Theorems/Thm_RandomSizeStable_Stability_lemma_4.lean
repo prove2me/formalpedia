@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomSizeStable_Stability_lemma_4
 -- name    : RandomSizeStable.Stability.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:44.916551+00:00
 -- url     : https://prove2.me/theorems/64e7cb6a-894f-4217-827a-f719d679d953

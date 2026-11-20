@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledTestingAdaptivity_Gap_theorem_3_2
 -- name    : PooledTestingAdaptivity.Gap.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T20:27:31.867319+00:00
 -- url     : https://prove2.me/theorems/e07c2c87-8af0-46df-a7d0-97ebb83aca15

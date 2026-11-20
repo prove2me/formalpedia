@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_PaperParameters_eventually_three_le_n
 -- name    : DeletionCode.PaperParameters.eventually_three_le_n
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:46:41.592224+00:00
 -- url     : https://prove2.me/theorems/280be295-bc6f-48ca-babf-57f8b12b9f18

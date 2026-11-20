@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_exists_fixed_parameters_all_finite
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.exists_fixed_parameters_all_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:48:22.423017+00:00
 -- url     : https://prove2.me/theorems/353b7cbc-e308-48aa-a450-c261ea91de11

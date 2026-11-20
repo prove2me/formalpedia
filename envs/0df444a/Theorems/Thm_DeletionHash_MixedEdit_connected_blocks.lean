@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_connected_blocks
 -- name    : DeletionHash.MixedEdit.connected_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:59.949449+00:00
 -- url     : https://prove2.me/theorems/a4a22a81-1846-4ad6-af36-d04146d0e1a4

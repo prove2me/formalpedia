@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_Supplement_block_structured_stationary_shift
 -- name    : TightReleaseSchedules.Stationary.Supplement.block_structured_stationary_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T04:20:56.239916+00:00
 -- url     : https://prove2.me/theorems/f526f59a-18c5-4cb6-939d-63ac473680fb

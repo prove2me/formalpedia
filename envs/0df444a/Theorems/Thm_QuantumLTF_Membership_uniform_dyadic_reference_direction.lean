@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_uniform_dyadic_reference_direction
 -- name    : QuantumLTF.Membership.uniform_dyadic_reference_direction
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-15T04:29:40.109659+00:00
 -- url     : https://prove2.me/theorems/467b04b8-cf4f-4483-a251-ab12e74ebe3d

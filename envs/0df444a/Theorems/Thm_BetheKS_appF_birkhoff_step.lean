@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BetheKS_appF_birkhoff_step
 -- name    : BetheKS.appF_birkhoff_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:34:13.929907+00:00
 -- url     : https://prove2.me/theorems/8ede71b7-5130-4add-8ffc-79a9476c291d

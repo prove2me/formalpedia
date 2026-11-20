@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Continuity_exists_tendsto_of_local_holder
 -- name    : LevyStochCalc.Brownian.Continuity.exists_tendsto_of_local_holder
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:14:30.886179+00:00
 -- url     : https://prove2.me/theorems/ea83dd1b-2891-47a4-b0d2-a66affd89454

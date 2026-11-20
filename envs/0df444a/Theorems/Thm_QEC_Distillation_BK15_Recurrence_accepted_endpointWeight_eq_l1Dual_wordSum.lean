@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Recurrence_accepted_endpointWeight_eq_l1Dual_wordSum
 -- name    : QEC.Distillation.BK15.Recurrence.accepted_endpointWeight_eq_l1Dual_wordSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:16:28.190573+00:00
 -- url     : https://prove2.me/theorems/1cb6b6ad-b1a7-4ad1-942d-341d8dfb8449

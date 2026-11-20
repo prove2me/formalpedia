@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumPath_spectrum_support_path
 -- name    : DeletionCode.SpectrumPath.spectrum_support_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:22:44.22358+00:00
 -- url     : https://prove2.me/theorems/39e117e2-ccb5-4684-aba5-a49fc67ed619

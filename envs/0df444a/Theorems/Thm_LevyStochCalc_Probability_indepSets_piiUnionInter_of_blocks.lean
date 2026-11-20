@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_indepSets_piiUnionInter_of_blocks
 -- name    : LevyStochCalc.Probability.indepSets_piiUnionInter_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:34:44.483037+00:00
 -- url     : https://prove2.me/theorems/870488a4-ab38-4f03-b290-cdb04439a3a3

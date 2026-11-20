@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_OverlapCollision_encode_injective_of_agree
 -- name    : DeletionCode.OverlapCollision.encode_injective_of_agree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:40:57.75364+00:00
 -- url     : https://prove2.me/theorems/9ed1a93b-36d4-4501-979d-2dff542616d2

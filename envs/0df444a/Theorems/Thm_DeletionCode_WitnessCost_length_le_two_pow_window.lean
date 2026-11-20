@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_WitnessCost_length_le_two_pow_window
 -- name    : DeletionCode.WitnessCost.length_le_two_pow_window
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:46:26.579879+00:00
 -- url     : https://prove2.me/theorems/1413f48e-40b1-4469-829a-af10fc9bfa5e

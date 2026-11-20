@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CloseAnchorCount_near_card_le
 -- name    : DeletionCode.CloseAnchorCount.near_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:47:45.329191+00:00
 -- url     : https://prove2.me/theorems/8047fbb1-8443-46de-a459-2640de7b26fc

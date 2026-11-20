@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.poissonRandomMeasureIntegralLaws
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-17T08:05:49.087377+00:00
 -- url     : https://prove2.me/submissions/e07251d9-13c0-4610-815c-f91664af4bf4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Measure.CharacteristicFunction.Basic
 import Definitions.Def_LeanLevy_RandomMeasure_PoissonRandomMeasure

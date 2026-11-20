@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_etaleFrame_tensor_restrict
 -- name    : AlgebraicGeometry.Scheme.etaleFrame_tensor_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-19T00:05:33.663067+00:00
 -- url     : https://prove2.me/theorems/62c727d4-9c1a-4076-874b-d8c9d624a265

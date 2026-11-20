@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearSetReconciliation327_Main_proposition_2_1
 -- name    : LinearSetReconciliation327.Main.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:31:49.555839+00:00
 -- url     : https://prove2.me/theorems/761716b6-07ff-4b65-9de0-47c9b7bcb8dc

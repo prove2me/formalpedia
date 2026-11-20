@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_Script_surviving_subsequence
 -- name    : DeletionCode.EditAlignment.Script.surviving_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:17.9012+00:00
 -- url     : https://prove2.me/theorems/2437ab63-f0ee-464d-b783-c5f23d127d54

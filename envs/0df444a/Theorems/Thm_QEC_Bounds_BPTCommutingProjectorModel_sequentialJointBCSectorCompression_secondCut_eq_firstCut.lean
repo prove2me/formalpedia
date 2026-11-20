@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_sequentialJointBCSectorCompression_secondCut_eq_firstCut
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.sequentialJointBCSectorCompression_secondCut_eq_firstCut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-05T17:08:00.052453+00:00
 -- url     : https://prove2.me/theorems/13b2074b-4a65-4952-b412-bfa2aef293b0

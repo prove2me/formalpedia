@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegAggregation_Posterior_inverse_gamma_integral
 -- name    : RegAggregation.Posterior.inverse_gamma_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:48.625648+00:00
 -- url     : https://prove2.me/theorems/10b1d391-65db-49ee-ad4f-9c3e37cd2b6f

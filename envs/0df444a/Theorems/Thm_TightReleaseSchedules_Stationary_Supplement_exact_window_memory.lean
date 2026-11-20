@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_Supplement_exact_window_memory
 -- name    : TightReleaseSchedules.Stationary.Supplement.exact_window_memory
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T04:23:29.056536+00:00
 -- url     : https://prove2.me/theorems/9895e99a-e668-4d81-be92-f0bce21300b0

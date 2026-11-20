@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_DecoderExamples_fillFromBase_recovers_window
 -- name    : DeletionCode.DecoderExamples.fillFromBase_recovers_window
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:59:13.823358+00:00
 -- url     : https://prove2.me/theorems/9e45aaf1-3ad2-4ff7-97ea-a0e0a65dc5b0

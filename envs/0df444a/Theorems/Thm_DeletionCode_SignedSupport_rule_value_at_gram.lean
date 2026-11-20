@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_rule_value_at_gram
 -- name    : DeletionCode.SignedSupport.rule_value_at_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:10:30.528538+00:00
 -- url     : https://prove2.me/theorems/cbe36936-b2de-43f2-af49-018586ab364b

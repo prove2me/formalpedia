@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CanonicalIndex_flat_rule_spectrum
 -- name    : DeletionCode.CanonicalIndex.flat_rule_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:00.009445+00:00
 -- url     : https://prove2.me/theorems/7fc55201-5248-4194-8616-fa81e0ad8bde

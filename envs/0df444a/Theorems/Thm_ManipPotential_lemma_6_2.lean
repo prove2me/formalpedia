@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManipPotential_lemma_6_2
 -- name    : ManipPotential.lemma_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T21:53:19.514127+00:00
 -- url     : https://prove2.me/theorems/abc44fc5-9163-475d-a479-48372aa10635

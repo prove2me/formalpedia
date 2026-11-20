@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianLevyMeasureTruncatedMomentFinite
 -- name    : Kyprianou.Ch01.inverseGaussianLevyMeasureTruncatedMomentFinite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:39:20.991986+00:00
 -- url     : https://prove2.me/theorems/eacdefa2-3278-4b20-a924-5194533addeb

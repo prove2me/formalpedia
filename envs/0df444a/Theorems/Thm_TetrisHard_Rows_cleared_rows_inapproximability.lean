@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TetrisHard_Rows_cleared_rows_inapproximability
 -- name    : TetrisHard.Rows.cleared_rows_inapproximability
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T22:56:40.319998+00:00
 -- url     : https://prove2.me/theorems/17540620-b0b6-4a21-9bae-3139939df54d

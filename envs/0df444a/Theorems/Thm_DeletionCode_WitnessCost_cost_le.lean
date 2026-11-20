@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_WitnessCost_cost_le
 -- name    : DeletionCode.WitnessCost.cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:48:36.882074+00:00
 -- url     : https://prove2.me/theorems/8b0dd8a0-47a0-4b85-b92d-938b4af59d9c

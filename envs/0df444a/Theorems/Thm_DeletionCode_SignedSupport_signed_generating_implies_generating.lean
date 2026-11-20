@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_signed_generating_implies_generating
 -- name    : DeletionCode.SignedSupport.signed_generating_implies_generating
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:12:25.424365+00:00
 -- url     : https://prove2.me/theorems/c8a398e8-c8d6-4837-a0c9-c514bb103772

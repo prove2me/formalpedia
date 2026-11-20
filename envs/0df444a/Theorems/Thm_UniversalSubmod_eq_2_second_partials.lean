@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_eq_2_second_partials
 -- name    : UniversalSubmod.eq_2_second_partials
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:51:42.405394+00:00
 -- url     : https://prove2.me/theorems/12532feb-fe9a-408e-97be-3b2a8955a7f9

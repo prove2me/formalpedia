@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ExceptionalCountArithmetic_exceptionalConstant_pos
 -- name    : DeletionCode.ExceptionalCountArithmetic.exceptionalConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:46:08.810722+00:00
 -- url     : https://prove2.me/theorems/2ec7d957-cb1b-4a66-bc5d-0f637d6cc982

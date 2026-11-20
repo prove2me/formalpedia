@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeHamiltonianLocality_finite_history_hamiltonian_ae
 -- name    : QEC.Coding.BDL26NativeHamiltonianLocality.finite_history_hamiltonian_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:06:36.438449+00:00
 -- url     : https://prove2.me/theorems/d5e537e4-09ec-4a5b-a209-9b4afcaa0ba5

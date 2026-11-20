@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubblePathSimplicity_insertion_vertices_injective
 -- name    : DeletionCode.BubblePathSimplicity.insertion_vertices_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:39:18.91485+00:00
 -- url     : https://prove2.me/theorems/5cb3a1f7-7044-4a17-981d-d794b24646f6

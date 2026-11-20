@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableGammaIntegralComplexExtensionV2
 -- name    : Kyprianou.Ch01.stableGammaIntegralComplexExtensionV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T14:23:11.164802+00:00
 -- url     : https://prove2.me/theorems/4110e78b-2666-4a42-b3fb-b3d52fbf705f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_SubMarkovKernelSemigroup_IsConservative_continuousProcess_eq_map_rescale
 -- name    : MarkovProcess.SubMarkovKernelSemigroup.IsConservative.continuousProcess_eq_map_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:31:57.981553+00:00
 -- url     : https://prove2.me/theorems/9c1768f3-b4c1-4a48-86db-7cd6c3fc8f58

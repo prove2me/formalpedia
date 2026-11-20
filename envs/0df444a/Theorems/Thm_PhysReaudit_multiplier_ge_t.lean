@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_multiplier_ge_t
 -- name    : PhysReaudit.multiplier_ge_t
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:29.680635+00:00
 -- url     : https://prove2.me/theorems/0037a686-cf0d-4e65-bf3a-3cdee4dd6727

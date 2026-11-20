@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumLocalization_spectrum_split
 -- name    : DeletionCode.SpectrumLocalization.spectrum_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:25:52.707816+00:00
 -- url     : https://prove2.me/theorems/03e503c4-7d8f-4c65-a7dc-78967714acbd

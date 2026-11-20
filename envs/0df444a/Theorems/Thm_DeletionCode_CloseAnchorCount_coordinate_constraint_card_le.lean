@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CloseAnchorCount_coordinate_constraint_card_le
 -- name    : DeletionCode.CloseAnchorCount.coordinate_constraint_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:47:44.484668+00:00
 -- url     : https://prove2.me/theorems/cc464b2c-7a83-4d87-b439-1d0ffc99b17b

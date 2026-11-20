@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedRainbowCycle_Weighted_boundary_derivative
 -- name    : WeightedRainbowCycle.Weighted.boundary_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:07:14.224189+00:00
 -- url     : https://prove2.me/theorems/bef4d440-fee9-4791-9273-49c74844d02a

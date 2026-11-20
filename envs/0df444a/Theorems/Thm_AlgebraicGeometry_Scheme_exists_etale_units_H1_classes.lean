@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_etale_units_H1_classes
 -- name    : AlgebraicGeometry.Scheme.exists_etale_units_H1_classes
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-18T19:13:46.316634+00:00
 -- url     : https://prove2.me/theorems/7ac31989-3a94-4275-aa7f-61ce684dc109

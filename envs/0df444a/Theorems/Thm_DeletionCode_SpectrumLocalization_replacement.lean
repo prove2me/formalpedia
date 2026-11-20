@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumLocalization_replacement
 -- name    : DeletionCode.SpectrumLocalization.replacement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:34:46.464233+00:00
 -- url     : https://prove2.me/theorems/fa4d960c-f6e8-4c9b-a398-ff0676700703

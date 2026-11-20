@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_hub_runner_up
 -- name    : StableMSR.Recovery.Supplement.hub_runner_up
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:15:48.544302+00:00
 -- url     : https://prove2.me/theorems/4a164af0-82a9-4764-943a-332da16d0aae

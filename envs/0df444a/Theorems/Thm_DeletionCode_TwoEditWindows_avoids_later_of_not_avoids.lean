@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_TwoEditWindows_avoids_later_of_not_avoids
 -- name    : DeletionCode.TwoEditWindows.avoids_later_of_not_avoids
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:52.371841+00:00
 -- url     : https://prove2.me/theorems/ad21a9ff-f3d6-48b2-b017-55b3814e30bb

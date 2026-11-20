@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Martingale_martingale_rightCont_of_tendsto_eLpNorm_one
 -- name    : LevyStochCalc.Martingale.martingale_rightCont_of_tendsto_eLpNorm_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:17:55.151976+00:00
 -- url     : https://prove2.me/theorems/745c20a0-9934-4213-9511-f026f17a1169

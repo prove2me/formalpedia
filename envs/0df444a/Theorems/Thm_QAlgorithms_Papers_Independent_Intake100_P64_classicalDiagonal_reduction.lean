@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_classicalDiagonal_reduction
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.classicalDiagonal_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:17:00.053514+00:00
 -- url     : https://prove2.me/theorems/9aa0f6d9-6805-4b45-841b-2c3d6237f7fa

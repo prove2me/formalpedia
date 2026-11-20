@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BipartiteSelection_color_eq_component
 -- name    : DeletionCode.BipartiteSelection.color_eq_component
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:48:11.197295+00:00
 -- url     : https://prove2.me/theorems/11b622ea-cc32-4720-b1e9-95bb676604cc

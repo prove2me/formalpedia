@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_poissonRandomMeasureIntegralLaws
 -- name    : Kyprianou.poissonRandomMeasureIntegralLaws
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T11:13:04.350646+00:00
 -- url     : https://prove2.me/theorems/5526d997-4b94-4c36-ac49-b5a1e561fd2e

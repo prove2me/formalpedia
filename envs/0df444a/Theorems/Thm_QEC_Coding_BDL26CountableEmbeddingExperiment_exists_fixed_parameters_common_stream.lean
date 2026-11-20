@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_exists_fixed_parameters_common_stream
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.exists_fixed_parameters_common_stream
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T06:45:25.924085+00:00
 -- url     : https://prove2.me/theorems/4f528e71-836e-43f4-b189-b73126fb79f6

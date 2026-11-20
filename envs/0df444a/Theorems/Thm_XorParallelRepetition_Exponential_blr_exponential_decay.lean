@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_blr_exponential_decay
 -- name    : XorParallelRepetition.Exponential.blr_exponential_decay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:07:47.790204+00:00
 -- url     : https://prove2.me/theorems/703a8dbe-b01c-4d37-adb9-5001d7eb0141

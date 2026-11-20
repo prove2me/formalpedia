@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_common_geometry_ae
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.common_geometry_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:11:09.415656+00:00
 -- url     : https://prove2.me/theorems/a52b98bc-d996-4dd4-9a7c-57eae9da102d

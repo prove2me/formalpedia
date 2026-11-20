@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordBounds_startPositive_bounds
 -- name    : DeletionCode.RecordBounds.startPositive_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:16:40.300713+00:00
 -- url     : https://prove2.me/theorems/6332473f-ae37-41e1-8104-0d64e0bf5961

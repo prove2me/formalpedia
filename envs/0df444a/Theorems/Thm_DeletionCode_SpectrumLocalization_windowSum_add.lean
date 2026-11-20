@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumLocalization_windowSum_add
 -- name    : DeletionCode.SpectrumLocalization.windowSum_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:34:38.897202+00:00
 -- url     : https://prove2.me/theorems/e1ffaa3b-b318-4e25-bd3f-7fe9e033f695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsCadlag_not_accPt_largeLeftJumpSet
 -- name    : IsCadlag.not_accPt_largeLeftJumpSet
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:13:53.679662+00:00
 -- url     : https://prove2.me/theorems/8cb11423-b920-41b9-b692-f5919e0cd517

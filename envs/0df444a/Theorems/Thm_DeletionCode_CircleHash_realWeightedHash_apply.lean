@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CircleHash_realWeightedHash_apply
 -- name    : DeletionCode.CircleHash.realWeightedHash_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:42.61136+00:00
 -- url     : https://prove2.me/theorems/289eb1c7-efe5-45b6-a57d-58c42719ccbd

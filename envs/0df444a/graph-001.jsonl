@@ -95986,9 +95986,9 @@
 {"parent": "DurmusULA_StrongLC_Model", "child": "EthierKurtz_SDEState", "via": ["statement"]}
 {"parent": "DurmusULA_StrongLC_Model", "child": "EthierKurtz_SolvesBrownianSDE", "via": ["statement"]}
 {"parent": "DurrettProbability.blumenthal_zero_one", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
-{"parent": "DurrettProbability.brownian_holder", "child": "DurrettProbability_Brownian", "via": ["statement"]}
+{"parent": "DurrettProbability.brownian_holder", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.brownian_limsup_sqrt", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
-{"parent": "DurrettProbability.brownian_nowhere_lipschitz", "child": "DurrettProbability_Brownian", "via": ["statement"]}
+{"parent": "DurrettProbability.brownian_nowhere_lipschitz", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.brownian_positive_immediately", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.brownian_zeros_accumulate", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
 {"parent": "DurrettProbability.donsker", "child": "DurrettProbability_Brownian", "via": ["solution", "statement"]}
@@ -99540,7 +99540,7 @@
 {"parent": "ExplicitPNT.dusart_refined_psi_error_of_zero_free_region", "child": "ExplicitPNT.dusart_psi_error_with_smoothing_parameter", "via": ["solution"]}
 {"parent": "ExplicitPNT.dusart_refined_psi_error_of_zero_free_region", "child": "ExplicitPNT.dusart_smoothing_factor_comparison", "via": ["solution"]}
 {"parent": "ExploreFirst.Absolute.fundamental_instance", "child": "ExploreFirst_Absolute_Setting", "via": ["statement"]}
-{"parent": "ExploreFirst.Absolute.kl_monotone_right", "child": "ExploreFirst_Absolute_Setting", "via": ["statement"]}
+{"parent": "ExploreFirst.Absolute.kl_monotone_right", "child": "ExploreFirst_Absolute_Setting", "via": ["solution", "statement"]}
 {"parent": "ExploreFirst.Absolute.lemma_6", "child": "ExploreFirst_Absolute_Setting", "via": ["statement"]}
 {"parent": "ExploreFirst.Absolute.one_alternative", "child": "ExploreFirst_Absolute_Setting", "via": ["statement"]}
 {"parent": "ExploreFirst.Absolute.theorem_2", "child": "ExploreFirst_Absolute_Setting", "via": ["solution", "statement"]}

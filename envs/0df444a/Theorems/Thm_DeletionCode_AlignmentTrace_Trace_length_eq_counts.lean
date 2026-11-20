@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_AlignmentTrace_Trace_length_eq_counts
 -- name    : DeletionCode.AlignmentTrace.Trace.length_eq_counts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:34:05.625968+00:00
 -- url     : https://prove2.me/theorems/9703ffee-9fea-43e2-b070-bd8265b9e8f2

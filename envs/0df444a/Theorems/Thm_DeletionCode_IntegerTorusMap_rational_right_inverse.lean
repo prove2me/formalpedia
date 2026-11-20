@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_IntegerTorusMap_rational_right_inverse
 -- name    : DeletionCode.IntegerTorusMap.rational_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:42:23.359278+00:00
 -- url     : https://prove2.me/theorems/432a2a4f-cc10-44eb-a311-e201ba5b650c

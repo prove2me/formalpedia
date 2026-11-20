@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_totalCost_integrable
 -- name    : QEC.Coding.BDL26NativeFiniteComposition.totalCost_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T11:55:17.620333+00:00
 -- url     : https://prove2.me/theorems/c19aaa3a-2897-427c-b41d-250dfb45c5fe

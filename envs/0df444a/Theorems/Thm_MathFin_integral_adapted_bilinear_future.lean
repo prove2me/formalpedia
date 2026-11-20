@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MathFin_integral_adapted_bilinear_future
 -- name    : MathFin.integral_adapted_bilinear_future
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:35:14.168732+00:00
 -- url     : https://prove2.me/theorems/b5ddae3a-14ae-4787-b305-897b0f04e613

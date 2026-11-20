@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighMagSampling_SK_chiSq_ge_four_tv_sq
 -- name    : HighMagSampling.SK.chiSq_ge_four_tv_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T18:27:02.807604+00:00
 -- url     : https://prove2.me/theorems/57d847cc-284e-4ac6-a80d-55a72e00ee93

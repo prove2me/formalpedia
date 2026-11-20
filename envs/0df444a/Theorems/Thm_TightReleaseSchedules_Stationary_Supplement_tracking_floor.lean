@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_Supplement_tracking_floor
 -- name    : TightReleaseSchedules.Stationary.Supplement.tracking_floor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T04:22:08.948253+00:00
 -- url     : https://prove2.me/theorems/fa58f383-e36a-429c-be78-553de541e04e

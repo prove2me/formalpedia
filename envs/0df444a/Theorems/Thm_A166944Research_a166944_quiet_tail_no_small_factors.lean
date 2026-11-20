@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_A166944Research_a166944_quiet_tail_no_small_factors
 -- name    : A166944Research.a166944_quiet_tail_no_small_factors
--- status  : Open
+-- status  : Proved
 -- author  : @tara_sooo
 -- created : 2026-11-19T04:53:40.946004+00:00
 -- url     : https://prove2.me/theorems/ae9a5485-adda-49f9-813e-3bcf454e4196

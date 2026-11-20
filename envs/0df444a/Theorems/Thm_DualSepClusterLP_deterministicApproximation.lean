@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSepClusterLP_deterministicApproximation
 -- name    : DualSepClusterLP.deterministicApproximation
--- status  : Open
+-- status  : Proved
 -- author  : @hypercube
 -- created : 2026-11-18T17:43:31.214101+00:00
 -- url     : https://prove2.me/theorems/9c42c91f-2460-4542-bd14-329daf86b437

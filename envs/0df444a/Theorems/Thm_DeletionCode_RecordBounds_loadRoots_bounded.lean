@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordBounds_loadRoots_bounded
 -- name    : DeletionCode.RecordBounds.loadRoots_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:17:00.83172+00:00
 -- url     : https://prove2.me/theorems/fff58427-c549-4082-bea0-cabd4b814c5b

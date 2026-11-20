@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P58_reversal_anti_involution
 -- name    : QAlgorithms.Papers.Independent.Intake100.P58.reversal_anti_involution
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:03:43.408764+00:00
 -- url     : https://prove2.me/theorems/c9b25687-e8bf-4612-b3b7-fc98164a7a68

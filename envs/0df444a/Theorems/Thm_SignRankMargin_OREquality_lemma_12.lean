@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SignRankMargin_OREquality_lemma_12
 -- name    : SignRankMargin.OREquality.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:42:34.933573+00:00
 -- url     : https://prove2.me/theorems/362dc39d-e22d-4cac-999b-ba4546cf70a3

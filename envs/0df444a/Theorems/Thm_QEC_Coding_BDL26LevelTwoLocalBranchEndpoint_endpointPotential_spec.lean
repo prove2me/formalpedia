@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_endpointPotential_spec
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.endpointPotential_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:55:54.716088+00:00
 -- url     : https://prove2.me/theorems/d255a669-6cd6-44e9-9bf2-f93206680bf0

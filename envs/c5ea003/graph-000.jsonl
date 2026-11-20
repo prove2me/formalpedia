@@ -85693,3 +85693,4 @@
 {"parent": "Wikipedia.SzemeredisTheorem.bundleRankwiseEnvelopeError_isEnvelope", "child": "Wikipedia.SzemeredisTheorem.bundleRankwiseEnvelopeError_monotone_card", "via": ["solution"]}
 {"parent": "Wikipedia.SzemeredisTheorem.bundleRankwiseEnvelopeError_isEnvelope", "child": "Wikipedia.SzemeredisTheorem.bundleRankwiseDensityFloor_le", "via": ["solution"]}
 {"parent": "Wikipedia.SzemeredisTheorem.SourceFullMixedGoodAtFace.localized_defect", "child": "Wikipedia.SzemeredisTheorem.mean_mul_partitionAtomIndicator", "via": ["solution"]}
+{"parent": "Couret.Palomar.classification", "child": "Couret_Strobo2TorsCore_3589e2e5b464", "via": ["statement"]}

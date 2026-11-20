@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_ae_eq_zero_of_integral_char_smul_eq_zero
 -- name    : LevyStochCalc.Probability.ae_eq_zero_of_integral_char_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:31:23.024243+00:00
 -- url     : https://prove2.me/theorems/364c5782-3113-4970-a953-08710d847de3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TusnadyPlane_RandomPoints_lemma_2_1
 -- name    : TusnadyPlane.RandomPoints.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:27:53.768793+00:00
 -- url     : https://prove2.me/theorems/b60ec604-d7c1-4ba2-94e5-654d711b012d

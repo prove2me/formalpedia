@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_bubble_support_iff
 -- name    : DeletionCode.SignedSupport.bubble_support_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:10:25.211088+00:00
 -- url     : https://prove2.me/theorems/1cd17a98-7d0c-43b2-9452-cecdfecc0ff9

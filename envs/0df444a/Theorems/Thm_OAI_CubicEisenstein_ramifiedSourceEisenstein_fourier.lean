@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubicEisenstein_ramifiedSourceEisenstein_fourier
 -- name    : OAI.CubicEisenstein.ramifiedSourceEisenstein_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T09:21:13.319312+00:00
 -- url     : https://prove2.me/theorems/1b340f7c-7f87-4aa3-ab18-c405931f4408

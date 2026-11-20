@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_avram_17372d7a_voidslope_identity_48426407
 -- name    : avram_17372d7a_voidslope_identity_48426407
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-05T22:40:43.662769+00:00
 -- url     : https://prove2.me/theorems/af51c29a-b883-4647-9d4c-491cfb49ad0c

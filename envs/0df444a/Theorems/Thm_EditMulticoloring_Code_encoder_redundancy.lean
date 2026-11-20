@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditMulticoloring_Code_encoder_redundancy
 -- name    : EditMulticoloring.Code.encoder_redundancy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T18:50:14.029629+00:00
 -- url     : https://prove2.me/theorems/73cb63a3-8769-415d-a9f7-3ab7d3149ed6

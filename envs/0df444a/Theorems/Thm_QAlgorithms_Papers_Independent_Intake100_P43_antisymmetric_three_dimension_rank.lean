@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P43_antisymmetric_three_dimension_rank
 -- name    : QAlgorithms.Papers.Independent.Intake100.P43.antisymmetric_three_dimension_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:32:17.434395+00:00
 -- url     : https://prove2.me/theorems/f1580a95-9f8e-46cb-a38f-08620ac73ac3

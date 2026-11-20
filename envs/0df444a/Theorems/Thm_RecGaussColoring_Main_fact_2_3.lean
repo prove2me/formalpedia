@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RecGaussColoring_Main_fact_2_3
 -- name    : RecGaussColoring.Main.fact_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:24:54.884928+00:00
 -- url     : https://prove2.me/theorems/1b451cce-a6e9-45f7-94e1-c10a38d024fb

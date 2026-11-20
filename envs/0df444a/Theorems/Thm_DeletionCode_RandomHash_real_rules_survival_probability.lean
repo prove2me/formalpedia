@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RandomHash_real_rules_survival_probability
 -- name    : DeletionCode.RandomHash.real_rules_survival_probability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:37:42.752656+00:00
 -- url     : https://prove2.me/theorems/04d254a8-5cd0-451d-9658-5ee46996a393

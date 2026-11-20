@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_OverlapCollision_collisionEncode_injective
 -- name    : DeletionCode.OverlapCollision.collisionEncode_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:02.337254+00:00
 -- url     : https://prove2.me/theorems/6cf75f84-55e4-452f-bfe0-20618abfb922

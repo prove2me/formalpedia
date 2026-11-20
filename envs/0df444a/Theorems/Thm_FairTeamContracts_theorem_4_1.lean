@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairTeamContracts_theorem_4_1
 -- name    : FairTeamContracts.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:33:53.819126+00:00
 -- url     : https://prove2.me/theorems/b0f7fa92-3c82-4718-8637-82dd53162b88

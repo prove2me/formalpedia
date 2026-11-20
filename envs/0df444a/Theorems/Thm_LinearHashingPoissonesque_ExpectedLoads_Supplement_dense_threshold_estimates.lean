@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearHashingPoissonesque_ExpectedLoads_Supplement_dense_threshold_estimates
 -- name    : LinearHashingPoissonesque.ExpectedLoads.Supplement.dense_threshold_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T05:08:23.19475+00:00
 -- url     : https://prove2.me/theorems/c87ead77-ae85-4936-b9fa-4932d9cee45a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_failed_branch_has_no_local_error
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.failed_branch_has_no_local_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:56:51.167425+00:00
 -- url     : https://prove2.me/theorems/435d81c1-fc46-4e15-bb9c-7baa4681958c

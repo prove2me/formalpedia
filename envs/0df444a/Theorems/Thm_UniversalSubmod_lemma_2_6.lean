@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_lemma_2_6
 -- name    : UniversalSubmod.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:52:22.448192+00:00
 -- url     : https://prove2.me/theorems/17f1f1f7-e3d5-4ce8-aadf-abce1dde3c87

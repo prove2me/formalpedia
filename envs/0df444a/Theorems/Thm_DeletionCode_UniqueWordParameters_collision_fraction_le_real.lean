@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueWordParameters_collision_fraction_le_real
 -- name    : DeletionCode.UniqueWordParameters.collision_fraction_le_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:46.406263+00:00
 -- url     : https://prove2.me/theorems/899ceeff-a874-40de-a33e-b8033d42fc90

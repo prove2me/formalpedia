@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_bound_positive_cap_from_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-02T07:29:21.990775+00:00
 -- url     : https://prove2.me/submissions/281561f7-3ddb-49e3-969e-b4cb8dbc1107
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

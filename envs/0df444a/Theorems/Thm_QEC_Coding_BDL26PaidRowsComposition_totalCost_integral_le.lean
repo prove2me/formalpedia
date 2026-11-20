@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26PaidRowsComposition_totalCost_integral_le
 -- name    : QEC.Coding.BDL26PaidRowsComposition.totalCost_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T03:24:48.163191+00:00
 -- url     : https://prove2.me/theorems/cfe5d007-5dfa-45e6-931e-b5d0d28ae458

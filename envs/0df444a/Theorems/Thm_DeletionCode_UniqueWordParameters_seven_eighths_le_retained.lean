@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueWordParameters_seven_eighths_le_retained
 -- name    : DeletionCode.UniqueWordParameters.seven_eighths_le_retained
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:08.139269+00:00
 -- url     : https://prove2.me/theorems/01c02c1a-1c0f-4c8e-80b1-0f8184cc4337

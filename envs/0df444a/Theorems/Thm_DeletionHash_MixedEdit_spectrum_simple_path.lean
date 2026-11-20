@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_spectrum_simple_path
 -- name    : DeletionHash.MixedEdit.spectrum_simple_path
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:43:34.822225+00:00
 -- url     : https://prove2.me/theorems/a5291981-7539-422d-a367-d681f913306b

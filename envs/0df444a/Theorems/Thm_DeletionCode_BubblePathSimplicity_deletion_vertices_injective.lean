@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubblePathSimplicity_deletion_vertices_injective
 -- name    : DeletionCode.BubblePathSimplicity.deletion_vertices_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:38:54.254061+00:00
 -- url     : https://prove2.me/theorems/a77634c1-274d-4109-b8c4-5adb74c8640f

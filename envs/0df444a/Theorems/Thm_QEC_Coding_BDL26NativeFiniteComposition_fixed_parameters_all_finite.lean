@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeFiniteComposition_fixed_parameters_all_finite
 -- name    : QEC.Coding.BDL26NativeFiniteComposition.fixed_parameters_all_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:03:10.686678+00:00
 -- url     : https://prove2.me/theorems/4a6c1633-7ddf-4e8a-89c7-197d6f26d24e

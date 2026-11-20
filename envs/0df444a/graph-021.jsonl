@@ -3799,11 +3799,11 @@
 {"parent": "ImpatientQPTAS.theorem_2_8", "child": "CapacitatedAssort_General_Work", "via": ["statement"]}
 {"parent": "ImpatientQPTAS.theorem_2_8", "child": "ImpatientQPTAS_Model", "via": ["statement"]}
 {"parent": "ImpatientQPTAS.theorem_2_8", "child": "ImpatientQPTAS_Program", "via": ["statement"]}
-{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_wave7_06_original_negative_band_occupied_cell_probability", "via": ["statement"]}
-{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_wave7_06_original_negative_band_count_eq_finite_marked_time_card", "via": ["statement"]}
-{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_p4_f2_bonferroni_void_rate_squeeze_atTop", "via": ["statement"]}
-{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_p4_f2_original_negative_band_nonvoid_second_order_bound", "via": ["statement"]}
+{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_wave7_06_original_negative_band_occupied_cell_probability", "via": ["solution", "statement"]}
+{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_wave7_06_original_negative_band_count_eq_finite_marked_time_card", "via": ["solution", "statement"]}
+{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_p4_f2_bonferroni_void_rate_squeeze_atTop", "via": ["solution", "statement"]}
+{"parent": "avram_17372d7a_voidslope_identity_48426407", "child": "AvramDividend.Classical.avram_p4_f2_original_negative_band_nonvoid_second_order_bound", "via": ["solution", "statement"]}
 {"parent": "UninformedMG.divergence_uniform_start", "child": "UninformedMG_grid", "via": ["statement"]}
 {"parent": "UninformedMG.divergence_uniform_start", "child": "UninformedMG_divRes", "via": ["statement"]}
 {"parent": "P2M_CS_deriv_scale__14a24bbc31eb", "child": "PrimeNumberTheoremAnd_Sobolev", "via": ["solution", "statement"]}
@@ -11777,8 +11777,8 @@
 {"parent": "QEC.Semantics.CompletelyPositive.sum", "child": "QEC_Semantics_Dynamics_Lindblad", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.CompletelyPositive.sum", "child": "QEC_Semantics_Dynamics_LieTrotter", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.CompletelyPositive.sum", "child": "QEC_Semantics_Channels_TraceNorm", "via": ["solution", "statement"]}
-{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_dichotomy", "child": "QEC_Bounds_BPTDisentangling_InteractionAlgebra", "via": ["statement"]}
-{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_dichotomy", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["statement"]}
+{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_dichotomy", "child": "QEC_Bounds_BPTDisentangling_InteractionAlgebra", "via": ["solution", "statement"]}
+{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_dichotomy", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.CenteredMomentCorrelation.primePower_localCorrelation_units", "child": "OAI_NumberTheory_DirichletL_Moments_Correlation", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.CenteredMomentCorrelation.primePower_localCorrelation_units", "child": "OAI_NumberTheory_DirichletL_Moments_PrimePower", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.eventually_referenceCore_entry_unique", "child": "BianchiIX_Algebra_Projective", "via": ["solution", "statement"]}
@@ -16563,8 +16563,8 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3348_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3348_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.b11_1_contains_e", "child": "OAIQ098E031", "via": ["solution", "statement"]}
-{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_eq_zero_implies_codeLift_sector_eq_zero", "child": "QEC_Bounds_BPTDisentangling_InteractionAlgebra", "via": ["statement"]}
-{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_eq_zero_implies_codeLift_sector_eq_zero", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["statement"]}
+{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_eq_zero_implies_codeLift_sector_eq_zero", "child": "QEC_Bounds_BPTDisentangling_InteractionAlgebra", "via": ["solution", "statement"]}
+{"parent": "QEC.Bounds.BPTCommutingProjectorModel.firstCut_doubleInteractionCoefficient_sector_eq_zero_implies_codeLift_sector_eq_zero", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["solution", "statement"]}
 {"parent": "MemQueryFeas_RandMemAlg", "child": "MemQueryFeas_Vec", "via": ["statement"]}
 {"parent": "HOTrap_LineRule_estimate", "child": "HOTrap_LineRule", "via": ["statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.AffinePlace.affinePrincipalCoefficient_eq_order", "child": "QEC_Coding_AlgebraicGeometry_Divisors_AffinePrincipalDivisor", "via": ["solution", "statement"]}

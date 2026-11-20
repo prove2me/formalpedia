@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P39_kernel_image_orthogonals
 -- name    : QAlgorithms.Papers.Independent.Intake100.P39.kernel_image_orthogonals
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:03:21.112993+00:00
 -- url     : https://prove2.me/theorems/723bbea7-6ec6-4cb1-aca1-0ff649ff5f4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CatalogueWords_BubbleWord_positiveWord_length
 -- name    : DeletionCode.CatalogueWords.BubbleWord.positiveWord_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:26:14.965732+00:00
 -- url     : https://prove2.me/theorems/712a60cb-2ecd-45ef-9382-4cefb7b421ce

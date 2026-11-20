@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_smallCert13_39
 -- name    : OAI.UniversalTensorSquare.smallCert13_39
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-18T17:39:07.780431+00:00
 -- url     : https://prove2.me/theorems/e8397892-65d1-4fc1-8880-b289df7ecb73

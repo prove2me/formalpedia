@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomSizeStable_Stability_Supplement_theorem_2
 -- name    : RandomSizeStable.Stability.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T07:44:20.631684+00:00
 -- url     : https://prove2.me/theorems/36853a52-6b32-4a25-92c0-ffc2a1419e94

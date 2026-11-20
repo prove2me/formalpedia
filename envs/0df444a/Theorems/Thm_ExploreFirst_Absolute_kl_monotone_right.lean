@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Absolute_kl_monotone_right
 -- name    : ExploreFirst.Absolute.kl_monotone_right
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:15.547976+00:00
 -- url     : https://prove2.me/theorems/82d199c3-55fb-41e3-aa5f-09c9d5d5f29d

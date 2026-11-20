@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P70_lemma9_1_one_eigenline
 -- name    : QAlgorithms.Papers.Independent.Intake100.P70.lemma9_1_one_eigenline
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:48:22.22926+00:00
 -- url     : https://prove2.me/theorems/eaaa825e-d8f2-49f3-bcad-62d92dc41f8c

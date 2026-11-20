@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_LowerBound_theorem_3
 -- name    : UniformDRO.LowerBound.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:07:34.388231+00:00
 -- url     : https://prove2.me/theorems/36994e8d-fdb7-4c69-8ae6-e614561a7295

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_progressivelyMeasurable_of_rightContinuous
 -- name    : LevyStochCalc.Probability.progressivelyMeasurable_of_rightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:35:38.832714+00:00
 -- url     : https://prove2.me/theorems/b86fe40e-f205-414c-b4e5-3a5fd3cede70

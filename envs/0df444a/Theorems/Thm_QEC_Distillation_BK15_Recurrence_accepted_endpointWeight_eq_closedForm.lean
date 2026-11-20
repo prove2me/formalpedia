@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Recurrence_accepted_endpointWeight_eq_closedForm
 -- name    : QEC.Distillation.BK15.Recurrence.accepted_endpointWeight_eq_closedForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:16:00.450767+00:00
 -- url     : https://prove2.me/theorems/92145730-d975-44e0-9417-395de003a241

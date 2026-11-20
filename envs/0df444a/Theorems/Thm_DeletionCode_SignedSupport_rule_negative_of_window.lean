@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_rule_negative_of_window
 -- name    : DeletionCode.SignedSupport.rule_negative_of_window
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:15:11.317205+00:00
 -- url     : https://prove2.me/theorems/379d3c4f-203b-4cd7-8f2c-7aa7dc2f1cad

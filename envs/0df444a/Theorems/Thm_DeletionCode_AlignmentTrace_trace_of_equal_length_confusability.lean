@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_AlignmentTrace_trace_of_equal_length_confusability
 -- name    : DeletionCode.AlignmentTrace.trace_of_equal_length_confusability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:27:28.926193+00:00
 -- url     : https://prove2.me/theorems/c9dd5d58-0083-41bf-9ab0-b7b2a7caed84

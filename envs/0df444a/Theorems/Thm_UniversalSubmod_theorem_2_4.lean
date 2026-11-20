@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_theorem_2_4
 -- name    : UniversalSubmod.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:52:36.314238+00:00
 -- url     : https://prove2.me/theorems/d59928e2-9066-4345-996e-7dbbb1baf57a

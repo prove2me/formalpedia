@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_bounded_witness
 -- name    : DeletionHash.MixedEdit.bounded_witness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:23.096813+00:00
 -- url     : https://prove2.me/theorems/e8f48648-30ab-47cd-bb7d-647c989349c2

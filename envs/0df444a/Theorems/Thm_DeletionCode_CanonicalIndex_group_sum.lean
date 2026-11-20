@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CanonicalIndex_group_sum
 -- name    : DeletionCode.CanonicalIndex.group_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:21:16.173755+00:00
 -- url     : https://prove2.me/theorems/c0ced703-c0a2-4d6e-b55a-e6e3cf799fb2

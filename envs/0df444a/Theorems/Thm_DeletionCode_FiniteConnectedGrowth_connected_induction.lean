@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_FiniteConnectedGrowth_connected_induction
 -- name    : DeletionCode.FiniteConnectedGrowth.connected_induction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:31.472554+00:00
 -- url     : https://prove2.me/theorems/ac0416e7-3ad6-45fa-aae8-9d34e7bf0b9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_tendsto_condExpL2_nhdsGT
 -- name    : LevyStochCalc.Probability.tendsto_condExpL2_nhdsGT
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:41:22.388818+00:00
 -- url     : https://prove2.me/theorems/8b2f62f0-4e86-4811-8bab-a67e6ef55206

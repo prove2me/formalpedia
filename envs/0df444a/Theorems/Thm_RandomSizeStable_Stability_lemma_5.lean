@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomSizeStable_Stability_lemma_5
 -- name    : RandomSizeStable.Stability.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:53:53.568672+00:00
 -- url     : https://prove2.me/theorems/0a0a1416-355c-4dfd-b070-6a741e9cf60e

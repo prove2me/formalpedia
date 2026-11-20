@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_LowerBound_le_cam_37
 -- name    : UniformDRO.LowerBound.le_cam_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:07:23.918864+00:00
 -- url     : https://prove2.me/theorems/664a47b1-b975-44aa-9d3d-d41895d8ccae

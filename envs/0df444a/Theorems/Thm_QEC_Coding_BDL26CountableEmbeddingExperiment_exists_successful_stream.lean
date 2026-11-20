@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_exists_successful_stream
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.exists_successful_stream
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T04:12:10.449101+00:00
 -- url     : https://prove2.me/theorems/f63a77d9-f205-4c50-a809-0c61569e03df

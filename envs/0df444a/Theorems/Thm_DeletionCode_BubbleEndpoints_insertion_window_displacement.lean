@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubbleEndpoints_insertion_window_displacement
 -- name    : DeletionCode.BubbleEndpoints.insertion_window_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:35:15.536477+00:00
 -- url     : https://prove2.me/theorems/046a7790-4dc6-44f0-91a1-7c327a9c41fd

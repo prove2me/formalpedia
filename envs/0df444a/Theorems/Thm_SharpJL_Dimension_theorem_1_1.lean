@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharpJL_Dimension_theorem_1_1
 -- name    : SharpJL.Dimension.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T07:09:10.3872+00:00
 -- url     : https://prove2.me/theorems/b3bd223a-8164-4eca-839f-6a323c000ec0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianJumpCompensatorIntegrable
 -- name    : Kyprianou.Ch01.inverseGaussianJumpCompensatorIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:37:43.914968+00:00
 -- url     : https://prove2.me/theorems/2f41f0bf-033b-47ce-8a07-7475a77f9921

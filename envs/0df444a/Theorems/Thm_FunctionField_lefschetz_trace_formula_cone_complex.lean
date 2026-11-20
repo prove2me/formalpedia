@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctionField_lefschetz_trace_formula_cone_complex
 -- name    : FunctionField.lefschetz_trace_formula_cone_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-18T15:36:08.54714+00:00
 -- url     : https://prove2.me/theorems/0c2164e8-a741-43e3-8561-6d803dff7727

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_localSuccess_isSome
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.localSuccess_isSome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:55:01.785034+00:00
 -- url     : https://prove2.me/theorems/9933a26e-70be-4c66-8ed3-82054ed216d9

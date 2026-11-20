@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeDaviesLocality_source_even_davies
 -- name    : QEC.Coding.BDL26NativeDaviesLocality.source_even_davies
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:54:45.94333+00:00
 -- url     : https://prove2.me/theorems/2ec630bb-9de6-409a-ab17-7ce377dcd49b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P43_rectangular_full_rank_subspace
 -- name    : QAlgorithms.Papers.Independent.Intake100.P43.rectangular_full_rank_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:31:26.712424+00:00
 -- url     : https://prove2.me/theorems/72a1f893-f42a-448c-826d-894f70833edc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumPath_spectrum_is_simple_path_and_determines_word
 -- name    : DeletionCode.SpectrumPath.spectrum_is_simple_path_and_determines_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:23:14.557336+00:00
 -- url     : https://prove2.me/theorems/c4f169e9-c451-4013-98f3-a6d6afdfe626

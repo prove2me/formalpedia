@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditLocality_local_output_bound
 -- name    : DeletionCode.EditLocality.local_output_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:39:14.390649+00:00
 -- url     : https://prove2.me/theorems/70323a6e-ed06-4b90-b46e-38cd662f6dca

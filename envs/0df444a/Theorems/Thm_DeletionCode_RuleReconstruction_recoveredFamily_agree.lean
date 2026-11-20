@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RuleReconstruction_recoveredFamily_agree
 -- name    : DeletionCode.RuleReconstruction.recoveredFamily_agree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:52.076112+00:00
 -- url     : https://prove2.me/theorems/8d6f4283-01de-4846-a0bf-e100ac8b7e80

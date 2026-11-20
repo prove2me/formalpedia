@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_classical_structureRepresentation
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.classical_structureRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:31:48.208121+00:00
 -- url     : https://prove2.me/theorems/1c189919-741c-4cb9-9eca-8099e0713c7c

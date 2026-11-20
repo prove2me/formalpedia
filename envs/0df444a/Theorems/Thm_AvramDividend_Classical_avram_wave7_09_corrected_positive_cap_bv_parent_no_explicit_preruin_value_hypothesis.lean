@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_wave7_09_corrected_positive_cap_bv_parent_no_explicit_preruin_value_hypothesis
 -- name    : AvramDividend.Classical.avram_wave7_09_corrected_positive_cap_bv_parent_no_explicit_preruin_value_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-02T18:31:25.888701+00:00
 -- url     : https://prove2.me/theorems/7ec2ce81-ae92-463a-9ade-45c2abd2007d

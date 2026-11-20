@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_MaximalRuns_exists_insertion_run_at_gap_unique
 -- name    : DeletionCode.MaximalRuns.exists_insertion_run_at_gap_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:34:16.379923+00:00
 -- url     : https://prove2.me/theorems/1611c548-d20f-4da7-b7e9-d59e8762e32d

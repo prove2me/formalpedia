@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ConcreteTransitions_ready_base_fill
 -- name    : DeletionCode.ConcreteTransitions.ready_base_fill
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:57:35.597149+00:00
 -- url     : https://prove2.me/theorems/6d2bb4e7-c38c-4bab-a676-13827f259e4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_separated_coverage
 -- name    : DeletionHash.MixedEdit.separated_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:35.786977+00:00
 -- url     : https://prove2.me/theorems/79f1955f-14c9-4530-a5df-bcd6e38c9327

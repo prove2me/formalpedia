@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CircleHash_equal_labels_representatives_close
 -- name    : DeletionCode.CircleHash.equal_labels_representatives_close
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:03:26.743253+00:00
 -- url     : https://prove2.me/theorems/3ab35e0d-68c8-4c8c-8dc0-1ee1ce07f1e4

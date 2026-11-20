@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_alignment_of_common_subsequence
 -- name    : DeletionCode.EditAlignment.alignment_of_common_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:17.032802+00:00
 -- url     : https://prove2.me/theorems/318ad6da-d347-432b-bd45-073a897d02da

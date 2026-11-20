@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RecordBounds_fillFromBase_seed_bound
 -- name    : DeletionCode.RecordBounds.fillFromBase_seed_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:17:01.708539+00:00
 -- url     : https://prove2.me/theorems/3952f3ee-6553-4bb6-ac9f-14600c882726

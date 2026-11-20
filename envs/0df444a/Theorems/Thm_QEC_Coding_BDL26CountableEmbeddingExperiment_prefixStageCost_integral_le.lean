@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26CountableEmbeddingExperiment_prefixStageCost_integral_le
 -- name    : QEC.Coding.BDL26CountableEmbeddingExperiment.prefixStageCost_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T05:30:58.329195+00:00
 -- url     : https://prove2.me/theorems/3ae84679-0ea8-4e5a-8b66-b2417b9b46aa

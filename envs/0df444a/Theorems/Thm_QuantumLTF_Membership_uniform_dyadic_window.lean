@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_uniform_dyadic_window
 -- name    : QuantumLTF.Membership.uniform_dyadic_window
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-15T04:32:29.067304+00:00
 -- url     : https://prove2.me/theorems/39c19e0c-86a8-4e62-a33d-c9c7ad9be07f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_independent_differences
 -- name    : DeletionHash.MixedEdit.independent_differences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:13.952555+00:00
 -- url     : https://prove2.me/theorems/61acab59-4ff1-47ef-9efc-189571423dc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSDensity1246_Main_Supplement_optimal_realizable_list_learning
 -- name    : DSDensity1246.Main.Supplement.optimal_realizable_list_learning
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-11-15T06:25:43.117255+00:00
 -- url     : https://prove2.me/theorems/867549fc-d522-402a-9b24-fdf3988b6a1e

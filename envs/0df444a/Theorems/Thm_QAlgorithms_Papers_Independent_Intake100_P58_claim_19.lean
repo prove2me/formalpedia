@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P58_claim_19
 -- name    : QAlgorithms.Papers.Independent.Intake100.P58.claim_19
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:06:15.579448+00:00
 -- url     : https://prove2.me/theorems/917b81fc-fd22-4295-81eb-2087db8eb9a1

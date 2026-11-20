@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableGammaComplexDeficitValueNonReal
 -- name    : Kyprianou.Ch01.stableGammaComplexDeficitValueNonReal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:58:52.857378+00:00
 -- url     : https://prove2.me/theorems/e9e3a19c-5362-4e91-966e-7caad49d76d3

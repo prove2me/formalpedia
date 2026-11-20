@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_OddGraphWalk_exists_odd_loop_at
 -- name    : DeletionCode.OddGraphWalk.exists_odd_loop_at
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:02:12.760289+00:00
 -- url     : https://prove2.me/theorems/5ba0b4e6-4376-4c94-a473-933bf906d559

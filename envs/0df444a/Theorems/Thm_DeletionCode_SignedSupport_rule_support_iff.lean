@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_rule_support_iff
 -- name    : DeletionCode.SignedSupport.rule_support_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:08:04.657678+00:00
 -- url     : https://prove2.me/theorems/7354b2fc-05df-4cac-9903-d72fe6fa1bad

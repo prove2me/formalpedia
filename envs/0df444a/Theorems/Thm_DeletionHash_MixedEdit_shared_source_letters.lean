@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_shared_source_letters
 -- name    : DeletionHash.MixedEdit.shared_source_letters
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:43:13.091589+00:00
 -- url     : https://prove2.me/theorems/e7136390-9b97-4a7c-8d21-63d483e92122

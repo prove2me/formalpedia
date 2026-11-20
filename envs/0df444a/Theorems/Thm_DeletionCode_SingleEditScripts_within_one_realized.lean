@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SingleEditScripts_within_one_realized
 -- name    : DeletionCode.SingleEditScripts.within_one_realized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:20:08.750594+00:00
 -- url     : https://prove2.me/theorems/1e84cf96-6151-4a1f-b415-d19ffa1a18b0

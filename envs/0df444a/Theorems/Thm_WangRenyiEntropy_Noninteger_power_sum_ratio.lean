@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangRenyiEntropy_Noninteger_power_sum_ratio
 -- name    : WangRenyiEntropy.Noninteger.power_sum_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:31.528054+00:00
 -- url     : https://prove2.me/theorems/12ac01ea-1a9f-499f-9e79-6b7f47ab3d4e

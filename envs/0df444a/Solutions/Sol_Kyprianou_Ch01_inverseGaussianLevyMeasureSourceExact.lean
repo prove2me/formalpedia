@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.inverseGaussianLevyMeasureSourceExact
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-19T00:42:11.82008+00:00
 -- url     : https://prove2.me/submissions/a5267460-479b-4aec-ac91-1eb9d9d1823b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ProbabilityTheory_IsLevyMeasure_isLevyMeasure_iff

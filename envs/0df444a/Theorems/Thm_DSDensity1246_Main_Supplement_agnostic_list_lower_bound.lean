@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSDensity1246_Main_Supplement_agnostic_list_lower_bound
 -- name    : DSDensity1246.Main.Supplement.agnostic_list_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T06:26:53.511206+00:00
 -- url     : https://prove2.me/theorems/a2ca52f2-318f-41cc-bd86-873bf9bcfc0a

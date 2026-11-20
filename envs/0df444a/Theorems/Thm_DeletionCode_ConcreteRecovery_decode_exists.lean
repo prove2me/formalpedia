@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ConcreteRecovery_decode_exists
 -- name    : DeletionCode.ConcreteRecovery.decode_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:14:57.198735+00:00
 -- url     : https://prove2.me/theorems/ee8e5faf-f840-49ba-ab28-e0fa82e634e3

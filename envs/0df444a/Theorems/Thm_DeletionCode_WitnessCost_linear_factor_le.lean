@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_WitnessCost_linear_factor_le
 -- name    : DeletionCode.WitnessCost.linear_factor_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:46:13.163043+00:00
 -- url     : https://prove2.me/theorems/2b68288f-cb15-4ed7-bf74-c3b7ba3df4ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleOrSample_theorem_4_1
 -- name    : SingleOrSample.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:45.129204+00:00
 -- url     : https://prove2.me/theorems/75edc49a-2241-4233-aeb9-159d8feb2c24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EgorovsTheorem_egorov_closed_refinement
 -- name    : EgorovsTheorem.egorov_closed_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T19:07:29.48401+00:00
 -- url     : https://prove2.me/theorems/15f0a9e6-7643-4375-a390-416b1530533d

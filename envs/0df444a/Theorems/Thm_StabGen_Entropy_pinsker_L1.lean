@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Entropy_pinsker_L1
 -- name    : StabGen.Entropy.pinsker_L1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:12:05.161983+00:00
 -- url     : https://prove2.me/theorems/02a4f271-306c-44b0-a480-c2bd2b974be9

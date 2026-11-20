@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SpectrumLocalization_listLetters_suffix
 -- name    : DeletionCode.SpectrumLocalization.listLetters_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:34:52.067792+00:00
 -- url     : https://prove2.me/theorems/da338a66-4697-40d1-b4d2-1bf95dc29bdc

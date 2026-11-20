@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SignRankMargin_OREquality_theorem_1
 -- name    : SignRankMargin.OREquality.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:42:03.119798+00:00
 -- url     : https://prove2.me/theorems/6834221c-99a2-44ff-9811-01cca3a3b563

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhysReaudit_reciprocal_supermartingale
 -- name    : PhysReaudit.reciprocal_supermartingale
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:47:12.101946+00:00
 -- url     : https://prove2.me/theorems/03280286-3dd5-41a0-a7a0-8094ea577f82

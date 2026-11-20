@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EuclideanLineAvgDist_Embedding_gaussian_transition_bound
 -- name    : EuclideanLineAvgDist.Embedding.gaussian_transition_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:12:48.23894+00:00
 -- url     : https://prove2.me/theorems/ad7bd638-6103-4605-8e73-9cbcfd392dc6

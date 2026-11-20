@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK05T_fiveQubitMagicStateProtocol_reportedOutput
 -- name    : QEC.Distillation.BK05T.fiveQubitMagicStateProtocol_reportedOutput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-17T19:08:29.457931+00:00
 -- url     : https://prove2.me/theorems/8e5e2e1d-dd3f-4ba8-9b82-52e21421acb1

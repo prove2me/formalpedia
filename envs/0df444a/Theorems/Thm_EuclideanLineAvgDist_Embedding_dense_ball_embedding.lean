@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EuclideanLineAvgDist_Embedding_dense_ball_embedding
 -- name    : EuclideanLineAvgDist.Embedding.dense_ball_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:12:10.770384+00:00
 -- url     : https://prove2.me/theorems/01300eb0-b63d-47da-a513-5f508040af78

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.admissible_cap_dividendValue_le_bounded_variation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T23:08:45.453028+00:00
 -- url     : https://prove2.me/submissions/1ee8140a-150e-4a94-920e-34fcc26f2807
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_AvramDividend_Classical_dividendValue_le_of_uniform_truncated_bounds

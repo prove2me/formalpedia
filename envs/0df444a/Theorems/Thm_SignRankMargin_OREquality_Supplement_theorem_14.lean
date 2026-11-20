@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SignRankMargin_OREquality_Supplement_theorem_14
 -- name    : SignRankMargin.OREquality.Supplement.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:24:24.045197+00:00
 -- url     : https://prove2.me/theorems/ed6763fb-6760-43d1-9ffa-b3d6d36e9a9b

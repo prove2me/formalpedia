@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubblePathSimplicity_substring_unique
 -- name    : DeletionCode.BubblePathSimplicity.substring_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:39:30.563197+00:00
 -- url     : https://prove2.me/theorems/e5ccdade-f8c0-4d4a-a175-4f4a8457c870

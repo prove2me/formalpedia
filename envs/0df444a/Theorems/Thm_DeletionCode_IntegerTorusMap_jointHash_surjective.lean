@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_IntegerTorusMap_jointHash_surjective
 -- name    : DeletionCode.IntegerTorusMap.jointHash_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:36:07.645437+00:00
 -- url     : https://prove2.me/theorems/7f501eb3-881e-4f65-a1ce-fe0e36b8cd4d

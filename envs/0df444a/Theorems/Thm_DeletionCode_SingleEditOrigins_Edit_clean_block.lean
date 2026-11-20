@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SingleEditOrigins_Edit_clean_block
 -- name    : DeletionCode.SingleEditOrigins.Edit.clean_block
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:29:19.393361+00:00
 -- url     : https://prove2.me/theorems/403d86af-85f2-4c35-b909-0757c9fd2e4f

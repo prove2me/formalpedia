@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BlackScholesModel.callPrice_eq_risk_neutral_expectation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-10T12:37:10.126931+00:00
 -- url     : https://prove2.me/submissions/5ce2f0a5-7a31-45e9-9118-117c0f35b81b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BlackScholesModel_Core

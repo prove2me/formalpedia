@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Gentle_lemma_9_4_3
 -- name    : WildeQIT.Gentle.lemma_9_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:56:46.919211+00:00
 -- url     : https://prove2.me/theorems/0ce1ebdb-ee05-4d2e-90fd-aad6ac6bbe32

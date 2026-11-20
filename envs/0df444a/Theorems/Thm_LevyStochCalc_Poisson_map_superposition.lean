@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_map_superposition
 -- name    : LevyStochCalc.Poisson.map_superposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:21:41.099353+00:00
 -- url     : https://prove2.me/theorems/29f486b7-202b-4d3d-bff8-2c934cc72a75

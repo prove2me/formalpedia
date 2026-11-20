@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_markedPredictable_rectIndicator
 -- name    : LevyStochCalc.Probability.markedPredictable_rectIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:32:40.253559+00:00
 -- url     : https://prove2.me/theorems/a7f01c31-7f61-477a-aa29-d94a154024cd

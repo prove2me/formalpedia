@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_A166944Research_a166944_quiet_tail_next_record
 -- name    : A166944Research.a166944_quiet_tail_next_record
--- status  : Open
+-- status  : Proved
 -- author  : @tara_sooo
 -- created : 2026-11-19T04:53:38.789389+00:00
 -- url     : https://prove2.me/theorems/ef7c1768-0694-45bd-b19c-f75a7d575900

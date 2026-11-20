@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyOptimalPPR_Computation_uniform_local_algorithm
 -- name    : NearlyOptimalPPR.Computation.uniform_local_algorithm
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-18T02:36:44.554075+00:00
 -- url     : https://prove2.me/theorems/90d14f00-4a95-40b5-82d3-e542631c35c8

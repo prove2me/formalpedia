@@ -1,0 +1,68 @@
+-- Prove2me | solution 1 for QEC.Distillation.Why24OneRoundProtocol.why24OneRound_registerPairing_binaryLabelEquiv
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-19T09:42:40.193853+00:00
+-- url     : https://prove2.me/submissions/3b5636b7-de80-4f2c-a982-500a7ebf0597
+
+import Definitions.Def_QEC_Coding_QuditQubitConversion_ResourceCircuit
+import Definitions.Def_QEC_Distillation_Core_FiniteDecodedTrace
+import Definitions.Def_QEC_Distillation_Core_FiniteInstrumentBinaryRun
+import Definitions.Def_QEC_Distillation_PrimeQuditProtocol_MagicResource
+import Definitions.Def_QEC_Distillation_Core_MagicStateProtocol
+import Definitions.Def_QEC_Distillation_Universality_OneQubitClifford
+import Definitions.Def_QEC_Distillation_Core_Overhead
+import Definitions.Def_QEC_Distillation_ConstantOverheadProtocol_AlgebraicGeometryFamily
+import Definitions.Def_QEC_Semantics_Entropy_Convexity
+import Definitions.Def_QEC_Semantics_Instruments_Sequential_Composition
+import Definitions.Def_QEC_Semantics_Instruments_Registers_ProductDensity
+import Definitions.Def_QEC_Semantics_Instruments_Registers_Marginal
+import Definitions.Def_QEC_Semantics_ErrorCorrection_QuditSubsystem
+import Definitions.Def_QEC_Semantics_Channels_Instrument
+import Definitions.Def_QEC_Distillation_ConstantOverheadProtocol_OneRound
+import Theorems.Thm_QEC_Coding_f1024SelectedCoordinates_trace_pairing
+import Theorems.Thm_QEC_Distillation_EncodedCode_ImplementsLogicalGate_symm
+
+
+set_option autoImplicit false
+noncomputable section
+open QEC QEC.Distillation QEC.Distillation.Why24OneRoundProtocol
+open QEC.Coding
+open QEC.Coding.AlgebraicGeometry
+open QEC.Coding.AlgebraicGeometry.GarciaStichtenothParameters
+open QEC.Distillation
+open QEC.Distillation.Why24AGFamily
+open QEC.Distillation.KT19PrimeQuditCSS
+open QEC.Distillation.KT19MagicResource.KT19PrimeQuditCSS
+open QEC.Distillation.Why24WeightedTriorthogonalCSS
+open QEC.Distillation.Why24WeightedTriorthogonalCSS.WeightedTriorthogonalMatrix
+open QEC.Semantics
+open scoped BigOperators ComplexOrder
+attribute [local instance]
+  QEC.Distillation.KT19PrimeQuditCSS.primeQuditRegisterLabelFintype
+attribute [local instance] QEC.Distillation.Why24OneRoundProtocol.instWhy24OneRoundClassicalDecidable
+attribute [local instance] QEC.Distillation.KT19PrimeQuditCSS.primeQuditRegisterLabelFintype QEC.Distillation.Why24OneRoundProtocol.instWhy24OneRoundClassicalDecidable
+open QEC.Distillation.OneQubitMagic
+attribute [local instance 2000] QEC.Distillation.Why24OneRoundProtocol.why24DecoderDirectConstantAlgebra
+attribute [local instance 2000] QEC.Distillation.Why24OneRoundProtocol.why24DecoderDirectConstantScalarTower
+attribute [local instance 2000] QEC.Distillation.Why24OneRoundProtocol.why24DecoderDirectConstantAlgebra QEC.Distillation.Why24OneRoundProtocol.why24DecoderDirectConstantScalarTower
+namespace QEC.Distillation.Why24OneRoundProtocol
+theorem _root_.solution {Site : Type}
+    [Fintype Site] (left right : Why24Word Site) :
+    registerPairing 2
+        (why24OneRoundBinaryLabelEquiv left)
+        (why24OneRoundBinaryLabelEquiv right) =
+      Algebra.trace (ZMod 2) F1024 (wordPairing left right) := by
+  unfold registerPairing
+  rw [Fintype.sum_prod_type, wordPairing_apply]
+  simp_rw [why24OneRoundBinaryLabelEquiv_apply]
+  change (∑ site : Site, ∑ bit : Fin 10,
+      f1024SelectedCoordinates (left site) bit *
+        f1024SelectedCoordinates (right site) bit) =
+    Algebra.trace (ZMod 2) F1024
+      (∑ site : Site, left site * right site)
+  rw [map_sum]
+  apply Finset.sum_congr rfl
+  intro site _
+  exact (f1024SelectedCoordinates_trace_pairing
+    (left site) (right site)).symm
+end QEC.Distillation.Why24OneRoundProtocol

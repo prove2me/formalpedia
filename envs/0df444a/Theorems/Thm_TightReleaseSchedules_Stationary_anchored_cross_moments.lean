@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TightReleaseSchedules_Stationary_anchored_cross_moments
 -- name    : TightReleaseSchedules.Stationary.anchored_cross_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:43:55.149256+00:00
 -- url     : https://prove2.me/theorems/9b9fd965-a9a8-4195-a9ea-19603eb45490

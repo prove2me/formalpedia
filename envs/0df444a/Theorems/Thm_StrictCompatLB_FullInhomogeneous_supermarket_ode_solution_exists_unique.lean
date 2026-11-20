@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_FullInhomogeneous_supermarket_ode_solution_exists_unique
 -- name    : StrictCompatLB.FullInhomogeneous.supermarket_ode_solution_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-18T21:14:15.767361+00:00
 -- url     : https://prove2.me/theorems/7e8366de-db6b-4eb1-98a5-2e5d3b97a30f

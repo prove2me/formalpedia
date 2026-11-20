@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_integral_prod_range_markPhase
 -- name    : LevyStochCalc.Poisson.integral_prod_range_markPhase
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:19:08.693055+00:00
 -- url     : https://prove2.me/theorems/7ab01776-0f90-46af-b698-f912036278c4

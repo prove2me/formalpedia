@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_lintegral_sq_eq_eLpNorm_sq_on_triple_prod
 -- name    : LevyStochCalc.lintegral_sq_eq_eLpNorm_sq_on_triple_prod
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:47:32.825025+00:00
 -- url     : https://prove2.me/theorems/6891b9b0-4f18-4d83-b7de-133b527f5422

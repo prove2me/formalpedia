@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_equal_length_confusability
 -- name    : DeletionCode.EditAlignment.equal_length_confusability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:20.435686+00:00
 -- url     : https://prove2.me/theorems/358591d5-6da8-4151-96db-8ec3b0c02b06

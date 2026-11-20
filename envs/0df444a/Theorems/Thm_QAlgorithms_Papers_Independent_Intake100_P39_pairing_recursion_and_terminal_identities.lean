@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P39_pairing_recursion_and_terminal_identities
 -- name    : QAlgorithms.Papers.Independent.Intake100.P39.pairing_recursion_and_terminal_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:05:45.934569+00:00
 -- url     : https://prove2.me/theorems/a32f788d-d58a-4d79-9a5f-4042ad7da0b3

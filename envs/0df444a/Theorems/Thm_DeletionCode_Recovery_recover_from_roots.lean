@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_Recovery_recover_from_roots
 -- name    : DeletionCode.Recovery.recover_from_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:51:57.987486+00:00
 -- url     : https://prove2.me/theorems/d816cf58-877d-4a44-9845-e4c66d170a49

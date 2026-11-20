@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SuperRamanujan227.Main.theorem_1_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T03:56:27.775838+00:00
 -- url     : https://prove2.me/submissions/fd840eed-b38d-41b9-9fc9-139539bd407c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SuperRamanujan227_Main_Spectra

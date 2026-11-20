@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_iIndepFun_superposition
 -- name    : LevyStochCalc.Poisson.iIndepFun_superposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:23:04.472323+00:00
 -- url     : https://prove2.me/theorems/dcb7dfe3-fd1b-4bf2-95e9-9b0079ae79f6

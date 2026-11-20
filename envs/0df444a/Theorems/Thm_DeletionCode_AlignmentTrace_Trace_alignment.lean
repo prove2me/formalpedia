@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_AlignmentTrace_Trace_alignment
 -- name    : DeletionCode.AlignmentTrace.Trace.alignment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:27:12.776033+00:00
 -- url     : https://prove2.me/theorems/b2336f47-f76f-46cf-98fc-53436fff280c

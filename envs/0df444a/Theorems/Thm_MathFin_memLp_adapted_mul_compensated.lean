@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MathFin_memLp_adapted_mul_compensated
 -- name    : MathFin.memLp_adapted_mul_compensated
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:33:33.641539+00:00
 -- url     : https://prove2.me/theorems/2d1762f6-7c8f-4e92-8b19-62886717188b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsThetaCuspGaussProduct_all_factors
 -- name    : QEC.Coding.TannerLiftedProduct.lpsThetaCuspGaussProduct_all_factors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:39:29.283264+00:00
 -- url     : https://prove2.me/theorems/9a566837-c034-42c1-b207-d0e284b8fd69

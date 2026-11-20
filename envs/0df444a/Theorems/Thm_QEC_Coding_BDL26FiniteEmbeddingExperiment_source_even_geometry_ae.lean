@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_source_even_geometry_ae
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.source_even_geometry_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:49:13.076201+00:00
 -- url     : https://prove2.me/theorems/10e1fb32-29e4-4c70-b5d7-f68011acb3a7

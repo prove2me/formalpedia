@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedRainbowCycle_Weighted_density_expansion
 -- name    : WeightedRainbowCycle.Weighted.density_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:07:25.111066+00:00
 -- url     : https://prove2.me/theorems/7e1c0db8-10db-412a-8de4-d8ab327c0f3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_TannerLiftedProduct_lpsSL2Z_firstColumn_unit_modulus
 -- name    : QEC.Coding.TannerLiftedProduct.lpsSL2Z_firstColumn_unit_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:39:02.15184+00:00
 -- url     : https://prove2.me/theorems/326dbe46-636b-414d-8cb6-380f5d5c4259

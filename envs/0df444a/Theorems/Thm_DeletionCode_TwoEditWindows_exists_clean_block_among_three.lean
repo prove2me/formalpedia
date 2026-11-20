@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_TwoEditWindows_exists_clean_block_among_three
 -- name    : DeletionCode.TwoEditWindows.exists_clean_block_among_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:55.175956+00:00
 -- url     : https://prove2.me/theorems/a5760d4b-40cb-452a-8c88-1758c90ac026

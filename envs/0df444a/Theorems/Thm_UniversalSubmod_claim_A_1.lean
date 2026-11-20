@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_claim_A_1
 -- name    : UniversalSubmod.claim_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:51:32.453705+00:00
 -- url     : https://prove2.me/theorems/8d9c5268-6c2a-45b6-b7fb-32ab32dd5e05

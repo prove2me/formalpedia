@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ConcreteDecoder_run_append
 -- name    : DeletionCode.ConcreteDecoder.run_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:57:30.31581+00:00
 -- url     : https://prove2.me/theorems/7b3b4642-dee5-4e4c-be89-f42e8c305466

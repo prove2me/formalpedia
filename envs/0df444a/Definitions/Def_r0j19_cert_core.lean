@@ -1,0 +1,1092 @@
+-- Prove2me | Definitions.Def_r0j19_cert_core
+-- name    : r0j19_cert_core
+-- status  : Definition
+-- author  : @kmehltretter82
+-- created : 2026-11-19T10:47:57.801179+00:00
+-- url     : https://prove2.me/theorems/89cb0621-c148-43d8-9080-4964c22635ed
+-- title:
+--   Integer certificate checkers and packed quadrature data for the 4D Buchstab integral $r_{0,19}$
+-- statement:
+--   This definition module provides exact integer arithmetic constants, decidable verification checkers, and hex-packed certificate tables for bounding the 4-dimensional Buchstab integral $I(\varphi)$ associated with `LL_Decomp587l.r0j19_short` over $[100/353, 10/29] \times [25/61, 5/11]^3$ for $\varphi \in [2, 2.28]$.
+--
+--   Using the common denominator $D = 353 \cdot 29 \cdot 61 \cdot 11 \cdot 288 = 1{,}978{,}279{,}776$ and scaling factor $S = 10^9$, the module defines rational upper bounds for $\log(1 + p/q)$, the analytically integrated $x_3$-kernel $g(t, x_2)$ and its interval envelope $g_m(t_{\mathrm{lo}}, t_{\mathrm{hi}}, x_2)$, trapezoidal quadrature with explicit second-derivative error terms, linear-interpolation weights for the globally convex tail integral $H_m(x_1) = \int_{x_1}^{5/11} g_m(t_{\mathrm{lo}}, t_{\mathrm{hi}}, x_2)\,dx_2$, the fused backward 8-column checker `checkSJ8Go`, and the 5-band certificate data covering $[2, 2.28813]$.
+--
+--   **Formalization Note** All declarations live in namespace `R0J19Cert` using only core Lean 4 `Nat`, `List`, and `Bool` types (zero Mathlib imports), enabling fast standalone kernel verification of the integer certificates.
+-- source:
+--   Wu (2004), Chen-type 4D Buchstab integral decomposition (Prove2Me mission LL_Decomp587l.r0j19_short, theorem_id deade48a-1e4e-40c1-8ddb-1d897d5e2e34)
+
+namespace R0J19Cert
+
+/-! ### Part 1: Constants and Decidable Certificate Checkers -/
+
+def D_den : Nat := 1978279776
+def A0_num : Nat := 560419200
+def A1_num : Nat := 682165440
+def B_num : Nat := 810770400
+def C_num : Nat := 899218080
+def X_span_num : Nat := C_num - B_num
+def S_sc : Nat := 1000000000
+def JG_DIV : Nat := 1000000
+def JG_MUL : Nat := 1000
+def TARGET_S2 : Nat := 70737000000000
+def D2 : Nat := D_den * D_den
+def TwoD : Nat := 2 * D_den
+def TwelveD3 : Nat := 12 * D_den * D_den * D_den
+
+def ceilDiv (a b : Nat) : Nat := (a + b - 1) / b
+
+def log1pNat (p q : Nat) : Nat :=
+  if p == 0 then 0 else ceilDiv (S_sc * p * (6 * q + p)) (q * (6 * q + 4 * p))
+
+def gNat (t_n x_n : Nat) : Nat :=
+  if t_n <= 3 * x_n then 0
+  else
+    let R_n := t_n - x_n
+    let U_n := min C_num (R_n - x_n)
+    if U_n <= x_n then 0
+    else
+      let p := U_n - x_n
+      ceilDiv (D2 * (log1pNat p x_n + log1pNat p (R_n - U_n))) (x_n * R_n)
+
+def gmNat (t_lo t_hi x_n : Nat) : Nat :=
+  let tp := 2 * x_n + C_num
+  if t_hi <= tp then gNat t_hi x_n
+  else if tp <= t_lo then gNat t_lo x_n
+  else gNat tp x_n
+
+def trapK (t_lo t_hi K xl xr : Nat) : Nat :=
+  if xr <= xl then 0
+  else
+    let dx := xr - xl
+    let trap := ceilDiv ((gmNat t_lo t_hi xl + gmNat t_lo t_hi xr) * dx) TwoD
+    let err := if K == 0 then 0 else ceilDiv (S_sc * K * dx * dx * dx) TwelveD3
+    trap + err
+
+def evalInterval (t_lo t_hi xa xb xc xl xr : Nat) : Nat :=
+  trapK t_lo t_hi 55 xl (min xr xa) +
+  trapK t_lo t_hi 0 (max xl xa) (min xr xb) +
+  trapK t_lo t_hi 110 (max xl xb) (min xr xc)
+
+def evalBinFast (t_lo t_hi xa xb xc hy err55 err110 xl gl gr : Nat) : Nat :=
+  let xr := xl + hy
+  if xc <= xl then 0
+  else if xr <= xa then ceilDiv ((gl + gr) * hy) TwoD + err55
+  else if xa <= xl && xr <= xb then ceilDiv ((gl + gr) * hy) TwoD
+  else if xb <= xl && xr <= xc then ceilDiv ((gl + gr) * hy) TwoD + err110
+  else evalInterval t_lo t_hi xa xb xc xl xr
+
+def dropN : Nat → List Nat → List Nat
+  | 0, l => l
+  | _ + 1, [] => []
+  | n + 1, _ :: t => dropN n t
+
+def dotSmall : List Nat → List Nat → Nat → Nat
+  | [], _, acc => acc
+  | _, [], acc => acc
+  | w :: ws, c :: cs, acc => dotSmall ws cs (acc + w * c)
+
+def evalRow8 (t_lo x0 h hy err55 err110 v8 : Nat)
+    : Nat × Nat × Nat × Nat × Nat × Nat × Nat × Nat :=
+  let t_hi := t_lo + 2 * h
+  if t_hi <= 3 * x0 then (0, 0, 0, 0, 0, 0, 0, 0)
+  else
+    let xa := (t_lo - C_num) / 2
+    let xb := (t_hi - C_num) / 2
+    let xc := t_hi / 3
+    let g0 := gmNat t_lo t_hi (x0 + 0 * hy)
+    let x1 := x0 + 1 * hy; let g1 := if xc <= x0 + 0 * hy then 0 else gmNat t_lo t_hi x1
+    let x2 := x0 + 2 * hy; let g2 := if xc <= x1 then 0 else gmNat t_lo t_hi x2
+    let x3 := x0 + 3 * hy; let g3 := if xc <= x2 then 0 else gmNat t_lo t_hi x3
+    let x4 := x0 + 4 * hy; let g4 := if xc <= x3 then 0 else gmNat t_lo t_hi x4
+    let x5 := x0 + 5 * hy; let g5 := if xc <= x4 then 0 else gmNat t_lo t_hi x5
+    let x6 := x0 + 6 * hy; let g6 := if xc <= x5 then 0 else gmNat t_lo t_hi x6
+    let x7 := x0 + 7 * hy; let g7 := if xc <= x6 then 0 else gmNat t_lo t_hi x7
+    let x8 := x0 + 8 * hy; let g8 := if xc <= x7 then 0 else gmNat t_lo t_hi x8
+    let s7 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 x7 g7 g8 + v8
+    let s6 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 x6 g6 g7 + s7
+    let s5 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 x5 g5 g6 + s6
+    let s4 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 x4 g4 g5 + s5
+    let s3 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 x3 g3 g4 + s4
+    let s2 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 x2 g2 g3 + s3
+    let s1 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 x1 g1 g2 + s2
+    let s0 := evalBinFast t_lo t_hi xa xb xc hy err55 err110 (x0 + 0 * hy) g0 g1 + s1
+    (s0, s1, s2, s3, s4, s5, s6, s7)
+
+def checkSJ8Go (t0 x0 h hy err55 err110 s_sub off7 Nu : Nat) (useOut : Bool)
+    (k0 k1 k2 k3 k4 k5 k6 k7 : List Nat)
+    : Nat → List Nat → List Nat → List Nat →
+      List Nat → List Nat → List Nat → List Nat → List Nat → List Nat → List Nat → List Nat → Bool
+  | 0, _, outRev, jgRev, _, _, _, _, _, _, _, _ => outRev.isEmpty && jgRev.isEmpty
+  | rem + 1, nextRev, outRev, jgRev, q0, q1, q2, q3, q4, q5, q6, q7 =>
+    let (v8, nextRev') := match nextRev with | a :: b => (a, b) | [] => (0, [])
+    let (s0, s1, s2, s3, s4, s5, s6, s7) := evalRow8 (t0 + rem * h) x0 h hy err55 err110 v8
+    let (ok_out, outRev') :=
+      if useOut then
+        match outRev with
+        | [] => (false, [])
+        | v0 :: os => (decide (s0 ≤ v0), os)
+      else (true, outRev)
+    let q0' := s0 :: q0; let q1' := s1 :: q1; let q2' := s2 :: q2; let q3' := s3 :: q3
+    let q4' := s4 :: q4; let q5' := s5 :: q5; let q6' := s6 :: q6; let q7' := s7 :: q7
+    let (ok_j, jgRev') :=
+      if off7 <= rem && rem < off7 + Nu then
+        match jgRev with
+        | [] => (false, [])
+        | j :: js =>
+          let tot :=
+            dotSmall k0 (dropN (7 * s_sub) q0')
+            (dotSmall k1 (dropN (6 * s_sub) q1')
+            (dotSmall k2 (dropN (5 * s_sub) q2')
+            (dotSmall k3 (dropN (4 * s_sub) q3')
+            (dotSmall k4 (dropN (3 * s_sub) q4')
+            (dotSmall k5 (dropN (2 * s_sub) q5')
+            (dotSmall k6 (dropN (1 * s_sub) q6')
+            (dotSmall k7 q7' 0)))))))
+          (decide (tot ≤ j * JG_DIV), js)
+      else (true, jgRev)
+    ok_out && ok_j &&
+      checkSJ8Go t0 x0 h hy err55 err110 s_sub off7 Nu useOut k0 k1 k2 k3 k4 k5 k6 k7
+        rem nextRev' outRev' jgRev' q0' q1' q2' q3' q4' q5' q6' q7'
+
+def wLNat (s_sub hy h r d : Nat) : Nat :=
+  let yr := B_num + r * hy
+  let yr1 := yr + hy
+  let xi := yr + d * h
+  let xi1 := xi + h
+  ceilDiv (S_sc * ((yr1 - xi) * xi1 + (yr1 - xi1) * xi)) (2 * s_sub * xi * xi1)
+
+def wRNat (s_sub hy h r d : Nat) : Nat :=
+  let yr := B_num + r * hy
+  let xi := yr + d * h
+  let xmid := xi + h / 2
+  ceilDiv (S_sc * (xmid - yr)) (s_sub * xmid)
+
+def mkKerL (s_sub hy h r : Nat) : Nat → List Nat
+  | 0 => []
+  | d + 1 => wLNat s_sub hy h r d :: mkKerL s_sub hy h r d
+
+def mkKerR (s_sub hy h r : Nat) : Nat → List Nat
+  | 0 => []
+  | d + 1 => wRNat s_sub hy h r d :: mkKerR s_sub hy h r d
+
+def checkListLe : List Nat → List Nat → Bool
+  | [], [] => true
+  | a :: as, b :: bs => decide (a ≤ b) && checkListLe as bs
+  | _, _ => false
+
+def checkKer (s_sub hy h r : Nat) (ker : List Nat) : Bool :=
+  let req :=
+    if r == 0 then mkKerL s_sub hy h 0 s_sub
+    else mkKerL s_sub hy h r s_sub ++ mkKerR s_sub hy h (r - 1) s_sub
+  checkListLe req ker
+
+def checkKersAll (s_sub hy h : Nat) : Nat → List (List Nat) → Bool
+  | _, [] => true
+  | r, k :: ks => checkKer s_sub hy h r k && checkKersAll s_sub hy h (r + 1) ks
+
+def checkJ1Sum : List Nat → List Nat → Bool
+  | [], [] => true
+  | a :: as, j :: js => decide (a ≤ j * JG_MUL) && checkJ1Sum as js
+  | _, _ => false
+
+def checkJ2Sum : List Nat → List Nat → List Nat → Bool
+  | [], [], [] => true
+  | a :: as, b :: bs, j :: js => decide (a + b ≤ j * JG_MUL) && checkJ2Sum as bs js
+  | _, _, _ => false
+
+def checkJ6Sum : List Nat → List Nat → List Nat → List Nat → List Nat → List Nat → List Nat → Bool
+  | [], [], [], [], [], [], [] => true
+  | a :: as, b :: bs, c :: cs, d :: ds, e :: es, f :: fs, j :: js =>
+    decide (a + b + c + d + e + f ≤ j * JG_MUL) && checkJ6Sum as bs cs ds es fs js
+  | _, _, _, _, _, _, _ => false
+
+def checkJWin1 : List Nat → List Nat → Bool
+  | a :: b :: rest, w :: ws => decide (a ≤ w && b ≤ w) && checkJWin1 (b :: rest) ws
+  | [_], [] => true
+  | _, _ => false
+
+def checkJWin4 : List Nat → List Nat → Bool
+  | a :: b :: c :: d :: e :: rest, w :: ws =>
+    decide (a ≤ w && b ≤ w && c ≤ w && d ≤ w && e ≤ w) && checkJWin4 (b :: c :: d :: e :: rest) ws
+  | [_, _, _, _], [] => true
+  | _, _ => false
+
+def checkW0Go (h : Nat) : Nat → Nat → List Nat → Bool
+  | 0, _, [] => true
+  | k + 1, xhi, w :: ws =>
+    let xlo := max A0_num (xhi - h)
+    decide (log1pNat (xhi - xlo) xlo ≤ w) && checkW0Go h k (xhi - h) ws
+  | _, _, _ => false
+
+def dotNat : List Nat → List Nat → Nat → Nat
+  | [], _, acc => acc
+  | _, [], acc => acc
+  | a :: as, b :: bs, acc => dotNat as bs (acc + a * b)
+
+def checkSlices : Nat → Nat → List Nat → List Nat → Bool
+  | 0, _, _, _ => true
+  | k + 1, mult, w0, jw =>
+    decide (dotNat w0 jw 0 ≤ TARGET_S2) && checkSlices k mult w0 (dropN mult jw)
+
+def unpackHexSmall (bits mask : Nat) : Nat → Nat → List Nat
+  | 0, _ => []
+  | n + 1, w => (w &&& mask) :: unpackHexSmall bits mask n (w >>> bits)
+
+def unpackHex16 (bits : Nat) : Nat → List Nat → List Nat
+  | _, [] => []
+  | rem, [w] => unpackHexSmall bits ((1 <<< bits) - 1) rem w
+  | rem, w :: ws =>
+    let mask := (1 <<< bits) - 1
+    let a0 := w &&& mask; let w := w >>> bits
+    let a1 := w &&& mask; let w := w >>> bits
+    let a2 := w &&& mask; let w := w >>> bits
+    let a3 := w &&& mask; let w := w >>> bits
+    let a4 := w &&& mask; let w := w >>> bits
+    let a5 := w &&& mask; let w := w >>> bits
+    let a6 := w &&& mask; let w := w >>> bits
+    let a7 := w &&& mask; let w := w >>> bits
+    let a8 := w &&& mask; let w := w >>> bits
+    let a9 := w &&& mask; let w := w >>> bits
+    let a10 := w &&& mask; let w := w >>> bits
+    let a11 := w &&& mask; let w := w >>> bits
+    let a12 := w &&& mask; let w := w >>> bits
+    let a13 := w &&& mask; let w := w >>> bits
+    let a14 := w &&& mask; let w := w >>> bits
+    let a15 := w &&& mask
+    a0 :: a1 :: a2 :: a3 :: a4 :: a5 :: a6 :: a7 ::
+    a8 :: a9 :: a10 :: a11 :: a12 :: a13 :: a14 :: a15 :: unpackHex16 bits (rem - 16) ws
+
+/-! ### Part 6: Verified Tier Data and Band Certificates -/
+
+def h_16 : Nat := 5527980
+def hy_8 : Nat := 11055960
+def err55_8 : Nat := 801
+def err110_8 : Nat := 1601
+noncomputable def W0_cert_16 : List Nat := unpackHex16 24 23 [
+  0x8d69fe8c1d908ad72e8996af885beb8726ba85f6f784cc7e83a72b8286dd816b728054cd7f42cd7e35557d2c497c278e,
+  0x38ec495bd9994491192dbb59175509015b18ebca5
+]
+
+noncomputable def Ker_16_0 : List Nat := [1693003,5102094]
+noncomputable def Ker_16_1 : List Nat := [1670379,5033608,5061868,1698755]
+noncomputable def Ker_16_2 : List Nat := [1648352,4966936,4994451,1675978]
+noncomputable def Ker_16_3 : List Nat := [1626899,4902008,4928807,1653804]
+noncomputable def Ker_16_4 : List Nat := [1605996,4838755,4864865,1632209]
+noncomputable def Ker_16_5 : List Nat := [1585624,4777114,4802562,1611171]
+noncomputable def Ker_16_6 : List Nat := [1565763,4717023,4741834,1590669]
+noncomputable def Ker_16_7 : List Nat := [1546392,4658425,4682623,1570681]
+noncomputable def Kers_16 : List (List Nat) := [
+  Ker_16_0, Ker_16_1, Ker_16_2, Ker_16_3, Ker_16_4, Ker_16_5, Ker_16_6, Ker_16_7
+]
+
+def h_48 : Nat := 1842660
+def hy_16 : Nat := 5527980
+def err55_16 : Nat := 101
+def err110_16 : Nat := 201
+noncomputable def W0_cert_48 : List Nat := unpackHex16 24 67 [
+  0x2b049f2ae5aa2ac6e02aa8432a89d22a6b8c2a4d702a2f802a11b929f41d29d6aa29b960299c40297f482962782945d0,
+  0x2d0cd82ceae52cc9252ca7972c863c2c65122c441a2c23522c02bb2be2542bc21c2ba2142b823a2b628f2b43122b23c2,
+  0x2f48a62f23412efe172ed9282eb4722e8ff62e6bb32e47a82e23d42e00382ddcd32db9a42d96ab2d73e82d51592d2efe,
+  0x31c01d3196b9316d9a3144bf311c2730f3d130cbbe30a3ec307c5b30550a302df93007262fe0922fba3c2f94232f6e47,
+  0x38ec43213b631e9c7
+]
+
+noncomputable def Ker_48_0 : List Nat := [377074,1132932,1892222]
+noncomputable def Ker_48_1 : List Nat := [374532,1125283,1879419,1883240,1132503,378358]
+noncomputable def Ker_48_2 : List Nat := [372024,1117736,1866789,1870558,1124860,375799]
+noncomputable def Ker_48_3 : List Nat := [369550,1110290,1854327,1858046,1117319,373274]
+noncomputable def Ker_48_4 : List Nat := [367108,1102943,1842030,1845700,1109878,370783]
+noncomputable def Ker_48_5 : List Nat := [364698,1095692,1829896,1833517,1102536,368325]
+noncomputable def Ker_48_6 : List Nat := [362319,1088536,1817920,1821494,1095291,365899]
+noncomputable def Ker_48_7 : List Nat := [359972,1081472,1806100,1809628,1088140,363505]
+noncomputable def Ker_48_8 : List Nat := [357654,1074500,1794433,1797915,1081082,361142]
+noncomputable def Ker_48_9 : List Nat := [355367,1067617,1782915,1786353,1074114,358809]
+noncomputable def Ker_48_10 : List Nat := [353108,1060822,1771544,1774938,1067236,356507]
+noncomputable def Ker_48_11 : List Nat := [350878,1054113,1760318,1763669,1060446,354234]
+noncomputable def Ker_48_12 : List Nat := [348676,1047488,1749233,1752542,1053741,351989]
+noncomputable def Ker_48_13 : List Nat := [346501,1040945,1738286,1741554,1047121,349773]
+noncomputable def Ker_48_14 : List Nat := [344353,1034484,1727476,1730703,1040583,347585]
+noncomputable def Ker_48_15 : List Nat := [342232,1028103,1716799,1719987,1034127,345424]
+noncomputable def Kers_48 : List (List Nat) := [
+  Ker_48_0, Ker_48_1, Ker_48_2, Ker_48_3, Ker_48_4, Ker_48_5, Ker_48_6, Ker_48_7,
+  Ker_48_8, Ker_48_9, Ker_48_10, Ker_48_11, Ker_48_12, Ker_48_13, Ker_48_14, Ker_48_15
+]
+
+def h_288 : Nat := 307110
+def hy_48 : Nat := 1842660
+def err55_48 : Nat := 4
+def err110_48 : Nat := 8
+noncomputable def W0_cert_288 : List Nat := unpackHex16 20 397 [
+  0x6eaf36ea256e9586e88b6e7be6e6f16e6256e5596e48c6e3c06e2f56e2296e15e6e0926dfc76defd,
+  0x6f7e36f7136f6436f5736f4a36f3d36f3046f2346f1656f0966efc76eef96ee2a6ed5c6ec8e6ebc0,
+  0x70505704317035e7028b701b8700e5700136ff406fe6e6fd9c6fcca6fbf96fb276fa566f9856f8b4,
+  0x7125871181710ab70fd570eff70e2970d5370c7d70ba870ad3709fe709297085570781706ac705d9,
+  0x71fde71f0471e2b71d5171c7871b9f71ac6719ed719157183c717647168c715b5714dd714067132f,
+  0x72d9972cbb72bde72b0272a25729497286d72791726b5725d9724fe72423723487226d72193720b8,
+  0x73b8873aa8739c7738e7738077372873648735697348a733ab732cc731ee7310f7303172f5472e76,
+  0x749ae748ca747e774703746207453d7445a7437774294741b2740d073fee73f0d73e2b73d4a73c69,
+  0x7580c757257563e755567547075389752a3751bc750d674ff174f0b74e2674d4174c5c74b7774a93,
+  0x766a3765b8764cd763e3762f87620e761247603a75f5175e6775d7e75c9575bad75ac4759dc758f4,
+  0x775757748677397772a9771bb770cd76fdf76ef276e0576d1876c2b76b3f76a52769667687a7678f,
+  0x78482783907829d781ab780b977fc777ed677de577cf477c0377b1377a2377933778437775377664,
+  0x793cd792d6791e0790ea78ff478eff78e0978d1478c2078b2b78a37789437884f7875b7866878575,
+  0x7a3567a25b7a1617a06779f6e79e7479d7b79c8279b8979a9179999798a1797a9796b2795ba794c3,
+  0x7b31f7b2217b1227b0247af277ae297ad2c7ac2f7ab327aa367a93a7a83e7a7427a6477a54b7a450,
+  0x7c32a7c2287c1257c0237bf217be207bd1e7bc1d7bb1d7ba1c7b91c7b81c7b71c7b61c7b51d7b41e,
+  0x7d3797d2727d16b7d0657cf5f7ce597cd547cc4e7cb497ca447c9407c83c7c7387c6347c5317c42d,
+  0x7e40d7e3017e1f67e0ec7dfe17ded77ddcd7dcc47dbba7dab17d9a87d8a07d7977d68f7d5887d480,
+  0x7f4e77f3d77f2c87f1b97f0aa7ef9b7ee8d7ed7f7ec717eb647ea567e9497e83d7e7307e6247e518,
+  0x8060a804f6803e2802ce801bb800a77ff957fe827fd707fc5e7fb4c7fa3a7f9297f8187f7087f5f7,
+  0x817788165f815468142e81315811fe810e680fcf80eb880da180c8b80b7580a5f80949808348071f,
+  0x8293282814826f6825d9824bc8239f82283821678204b81f3081e1581cfa81bdf81ac5819ab81891,
+  0x83b3a83a17838f5837d2836b18358f8346e8334d8322c8310c82fec82ecc82dac82c8d82b6f82a50,
+  0x84d9384c6b84b4384a1c848f5847ce846a8845828445c8433784212840ed83fc983ea583d8183c5d,
+  0x38ec485b8b85a5f8593485809856de855b3854898535f852368510c84fe484ebb
+]
+
+noncomputable def Ker_288_0 : List Nat := [31506,94542,157626,220757,283936,347163]
+noncomputable def Ker_288_1 : List Nat := [31435,94328,157269,220257,283293,346376,346501,283608,220668,157679,94644,31560]
+noncomputable def Ker_288_2 : List Nat := [31364,94115,156913,219759,282652,345592,345717,282966,220168,157322,94429,31489]
+noncomputable def Ker_288_3 : List Nat := [31294,93903,156560,219263,282014,344812,344936,282327,219670,156967,94216,31417]
+noncomputable def Ker_288_4 : List Nat := [31223,93692,156208,218770,281379,344036,344159,281691,219175,156613,94003,31346]
+noncomputable def Ker_288_5 : List Nat := [31153,93482,155857,218279,280748,343263,343386,281057,218682,156260,93792,31276]
+noncomputable def Ker_288_6 : List Nat := [31083,93272,155508,217790,280118,342493,342616,280427,218191,155909,93581,31206]
+noncomputable def Ker_288_7 : List Nat := [31014,93064,155161,217303,279492,341727,341849,279799,217703,155560,93371,31136]
+noncomputable def Ker_288_8 : List Nat := [30945,92857,154815,216819,278869,340965,341086,279174,217216,155213,93162,31066]
+noncomputable def Ker_288_9 : List Nat := [30876,92650,154470,216336,278248,340205,340326,278552,216732,154866,92955,30997]
+noncomputable def Ker_288_10 : List Nat := [30808,92445,154127,215856,277630,339450,339570,277933,216250,154522,92748,30928]
+noncomputable def Ker_288_11 : List Nat := [30739,92240,153786,215378,277015,338697,338816,277316,215770,154179,92542,30859]
+noncomputable def Ker_288_12 : List Nat := [30672,92036,153446,214901,276402,337948,338067,276702,215292,153837,92337,30791]
+noncomputable def Ker_288_13 : List Nat := [30604,91833,153108,214428,275792,337202,337320,276091,214817,153497,92132,30722]
+noncomputable def Ker_288_14 : List Nat := [30537,91632,152771,213956,275185,336459,336577,275483,214343,153159,91929,30655]
+noncomputable def Ker_288_15 : List Nat := [30470,91430,152436,213486,274581,335720,335837,274877,213872,152822,91727,30587]
+noncomputable def Ker_288_16 : List Nat := [30403,91230,152102,213018,273979,334984,335101,274274,213402,152486,91525,30520]
+noncomputable def Ker_288_17 : List Nat := [30337,91031,151770,212552,273379,334251,334367,273673,212935,152152,91325,30453]
+noncomputable def Ker_288_18 : List Nat := [30271,90833,151439,212089,272783,333521,333637,273075,212469,151819,91125,30386]
+noncomputable def Ker_288_19 : List Nat := [30205,90635,151109,211627,272189,332795,332910,272480,212006,151488,90926,30320]
+noncomputable def Ker_288_20 : List Nat := [30139,90438,150781,211167,271597,332071,332186,271887,211545,151158,90728,30254]
+noncomputable def Ker_288_21 : List Nat := [30074,90242,150454,210710,271009,331351,331466,271297,211085,150830,90531,30188]
+noncomputable def Ker_288_22 : List Nat := [30009,90047,150129,210254,270422,330634,330748,270710,210628,150503,90335,30123]
+noncomputable def Ker_288_23 : List Nat := [29944,89853,149805,209800,269839,329920,330034,270125,210173,150178,90139,30058]
+noncomputable def Ker_288_24 : List Nat := [29880,89660,149483,209349,269257,329209,329322,269542,209719,149854,89945,29993]
+noncomputable def Ker_288_25 : List Nat := [29816,89467,149162,208899,268679,328501,328614,268962,209268,149531,89751,29928]
+noncomputable def Ker_288_26 : List Nat := [29752,89276,148842,208451,268102,327797,327908,268385,208819,149210,89558,29864]
+noncomputable def Ker_288_27 : List Nat := [29688,89085,148524,208005,267529,327095,327206,267810,208371,148890,89366,29800]
+noncomputable def Ker_288_28 : List Nat := [29625,88895,148207,207561,266957,326396,326507,267237,207925,148571,89175,29736]
+noncomputable def Ker_288_29 : List Nat := [29562,88705,147891,207119,266388,325700,325811,266667,207482,148254,88984,29672]
+noncomputable def Ker_288_30 : List Nat := [29499,88517,147577,206678,265822,325007,325117,266099,207040,147938,88795,29609]
+noncomputable def Ker_288_31 : List Nat := [29437,88329,147264,206240,265258,324317,324427,265534,206600,147624,88606,29546]
+noncomputable def Ker_288_32 : List Nat := [29374,88142,146952,205803,264696,323630,323739,264971,206162,147311,88418,29483]
+noncomputable def Ker_288_33 : List Nat := [29312,87956,146642,205369,264137,322946,323055,264411,205726,146999,88231,29421]
+noncomputable def Ker_288_34 : List Nat := [29251,87771,146333,204936,263580,322265,322373,263853,205291,146688,88044,29359]
+noncomputable def Ker_288_35 : List Nat := [29189,87587,146025,204505,263025,321587,321694,263297,204859,146379,87859,29297]
+noncomputable def Ker_288_36 : List Nat := [29128,87403,145719,204075,262473,320911,321018,262744,204428,146071,87674,29235]
+noncomputable def Ker_288_37 : List Nat := [29067,87220,145414,203648,261923,320238,320345,262192,203999,145765,87490,29174]
+noncomputable def Ker_288_38 : List Nat := [29006,87038,145110,203222,261375,319569,319675,261644,203572,145459,87306,29113]
+noncomputable def Ker_288_39 : List Nat := [28946,86856,144807,202798,260830,318902,319008,261097,203146,145155,87124,29052]
+noncomputable def Ker_288_40 : List Nat := [28886,86676,144506,202376,260287,318237,318343,260553,202723,144852,86942,28991]
+noncomputable def Ker_288_41 : List Nat := [28826,86496,144206,201956,259746,317576,317681,260011,202301,144551,86761,28931]
+noncomputable def Ker_288_42 : List Nat := [28766,86317,143907,201537,259207,316917,317022,259471,201881,144251,86581,28871]
+noncomputable def Ker_288_43 : List Nat := [28706,86138,143609,201120,258671,316261,316365,258934,201463,143952,86401,28811]
+noncomputable def Ker_288_44 : List Nat := [28647,85960,143313,200705,258137,315608,315711,258398,201046,143654,86222,28751]
+noncomputable def Ker_288_45 : List Nat := [28588,85783,143018,200292,257605,314957,315060,257865,200631,143357,86044,28692]
+noncomputable def Ker_288_46 : List Nat := [28530,85607,142724,199880,257075,314309,314412,257335,200218,143062,85867,28632]
+noncomputable def Ker_288_47 : List Nat := [28471,85432,142431,199470,256547,313664,313766,256806,199806,142768,85690,28574]
+noncomputable def Kers_288 : List (List Nat) := [
+  Ker_288_0, Ker_288_1, Ker_288_2, Ker_288_3, Ker_288_4, Ker_288_5, Ker_288_6, Ker_288_7,
+  Ker_288_8, Ker_288_9, Ker_288_10, Ker_288_11, Ker_288_12, Ker_288_13, Ker_288_14, Ker_288_15,
+  Ker_288_16, Ker_288_17, Ker_288_18, Ker_288_19, Ker_288_20, Ker_288_21, Ker_288_22, Ker_288_23,
+  Ker_288_24, Ker_288_25, Ker_288_26, Ker_288_27, Ker_288_28, Ker_288_29, Ker_288_30, Ker_288_31,
+  Ker_288_32, Ker_288_33, Ker_288_34, Ker_288_35, Ker_288_36, Ker_288_37, Ker_288_38, Ker_288_39,
+  Ker_288_40, Ker_288_41, Ker_288_42, Ker_288_43, Ker_288_44, Ker_288_45, Ker_288_46, Ker_288_47
+]
+
+/-! #### Band b1: [2.00000, 2.08942] (M2=8, s=2, mult=4, Nphi=8) -/
+def phi0_b1 : Nat := 3956559552
+def t0_b1 : Nat := 2375176032
+noncomputable def Jg_b1_0 : List Nat := unpackHex16 32 55 [
+  0x15208f24156ee1a215ae812215e10e7e1609ca9a162aa7191643ca6c1653ccfa1659a23416561095164b7baa163d1c15162cb76416196a7c16021a4415e74877,
+  0xbb505180c6fb0010d278ad30dde853b0e9527a00f48fc300ff73cec109eb722113f445a11d8e11f126b3c9612f588511377121f13ef89f3145ee58d14c4ffa7,
+  0x1ce37e3022c6ba50295678a030aacdc038b7b28041737b804ad460a054cf52205f47d6b06a09064074f349e0801527408b89aeb0975550d0a35d7f30af6b75b,
+  0x4df42e0068ef83008b6be800b7a19700ee3337012efcc60179bda5
+]
+noncomputable def Jc_b1 : List Nat := unpackHex16 20 55 [
+  0x1864515b621328110c170e8510c7580a95208e7207654060b404d9103cfb02f03023b201ade013f5,
+  0x46a4f44136416563e9ba3bbb138cef35e1832f072ff3d2ce8529d2526bdd23b8d20ca11df081b253,
+  0x5b8bd5b73f5b3265acb75a44d599df58cee57ca556898551275370451a824fbab4da824b71a491a3,
+  0x59b775a2555a84d5ad3e5b1705b51e5b7d4
+]
+noncomputable def Jw_b1 : List Nat := unpackHex16 20 51 [
+  0x23b8d20ca11df081b2531864515b621328110c170e8510c7580a95208e7207654060b404d9103cfb,
+  0x4fbab4da824b71a491a346a4f44136416563e9ba3bbb138cef35e1832f072ff3d2ce8529d2526bdd,
+  0x5b8bd5b8bd5b8bd5b8bd5b8bd5b73f5b3265acb75a44d599df58cee57ca556898551275370451a82,
+  0x5b1705b51e5b7d4
+]
+
+/-! #### Band b2: [2.08942, 2.10153] (M2=16, s=3, mult=1, Nphi=13) -/
+def phi0_b2 : Nat := 4133454912
+def t0_b2 : Nat := 2552071392
+noncomputable def Bdry_b2_8 : List Nat := unpackHex16 24 127 [
+  0x264e8e263c91262aa72618cd26070125f54825e39e25d20525c07d25af05259d9d258c44257afe2569c625589c254782,
+  0x27779c276487275182273e8f272bae2718df27062426f37826e0e026ce5926bbe326a97f26972d2684e92672bc26609c,
+  0x28b341289ef3288ab8287695286281284e85283a992826c528130227ff5327ebb627d82e27c4b927b154279e05278ac8,
+  0x279e8e27de4428179b284a642876e1289cdc28bc7d28d5ed28e93028f64028fd3f28fdf428f89528ed3128dbd528c77a,
+  0x2012af20bf5b2165272203cd229b40232bbe23b55a2437bd24b37a25285025967525fdf5265ede26b88e270bd327586b,
+  0x115561127ac113981914adac15bb8a16c15b17bfb818b66119a58a1a8d471b6da11c45f81d171d1de0cd1ea3411f5e89,
+  0x2acb8033ab103d5b5047db305329405f44606c2b5079dd008858009796d0a79b90b86530c9f2b0dc42c0ef5461028b4,
+  0x6e4001bb0003e50006eae00acb700f85401517101b7fc022bdc
+]
+noncomputable def Jg_b2_0 : List Nat := unpackHex16 32 80 [
+  0x1291ed3d12894cec1280b49e1278244f126f9be812671b67125ea2bc125631de124dc8bc12456752123d0d911234bb70122c70ed12242df2121bf27a1213be79,
+  0x131fb0b81316e290130df5201304f5b812fbf07312f2ee0712e9f2d412e0fffd12d8158e12cf338a12c659e212bd888f12b4bf8812abfeb412a3461b129a959f,
+  0x136fc81313705e8f136ff0d4136e8e47136c462e136927961365412d1360a18d135b572513557064134efba5134807431340a16a1338d8171330b91a1328521e,
+  0x12c0b2e512d5489112e88baa12fa7e07130b21da131a78b813288481133547701340c3af134afb411353f065135ba4be13621a5b1367534c136b51a5136e1e10,
+  0x10bc4c8210e73b1f1110b40a1138b90d115f4c0811846f6c11a825ae11ca706511eb5256120acda01228e4d012459a631260f0da127ae9161293858f12aac80f
+]
+noncomputable def Jg_b2_1 : List Nat := unpackHex16 28 80 [
+  0x32da71732df17132df0d732dc44032d7ce132d170332c825f32bb2c632aa87b3296d0a3280d25326956f3251170323897b32201c03207b5d,
+  0x2e421532ed46b52f5db672fdc697304ec8f30b41c6310d43b315c2c631a2c1c31e265e321be0f324f3f8327bc4232a04cd32bc1bc32cf3c3,
+  0x212d56d222b1a02325929241b151250ac4125f463226d7f2827b5785288ced7295e1ab2a288692aeb9452ba6c432c59d582d04b9d2da776c,
+  0x10d891011d4fad12d286513d259714d58e915dcb1f16e7ac917f5a221904e2a1a1352f1b1f3d41c27bbf1d2cb001e2ea4d1f2ebd6202e328,
+  0x41da5704a87d0053d8ec05dcc9306860a5073900907f518c08b99990985df70a598100b344800c161880cfee000dee5b80ee3a920fdd10f
+]
+noncomputable def Jc_b2 : List Nat := unpackHex16 20 80 [
+  0x508594fe674f42d4e9b24def94d4034c8cf4bd5d4b1ad4a5c14999a48d3b480a6473db466da459a4,
+  0x57d30578625734356dcd567f8561c455b305543e54cf75456153d835355f52cf75244751b4a511fb,
+  0x5a2825a20e5a1665a08759f6d59e1659c8059aaa598925963659391590a158d61589ce585e8581b2,
+  0x59357595425970c598b459a3d59bad59d0559e4759f6e5a0755a1545a2045a27f5a2c55a2dc5a2c6,
+  0x56da15701e5729e57520577a357a2457ca157f1758183583e1586325887a58abb58cf858f2b5914d
+]
+noncomputable def Jw_b2 : List Nat := unpackHex16 20 79 [
+  0x511fb508594fe674f42d4e9b24def94d4034c8cf4bd5d4b1ad4a5c14999a48d3b480a6473db466da,
+  0x581b257d30578625734356dcd567f8561c455b305543e54cf75456153d835355f52cf75244751b4a,
+  0x5a2c65a2825a20e5a1665a08759f6d59e1659c8059aaa598925963659391590a158d61589ce585e8,
+  0x59357595425970c598b459a3d59bad59d0559e4759f6e5a0755a1545a2045a27f5a2c55a2dc5a2dc,
+  0x5701e5729e57520577a357a2457ca157f1758183583e1586325887a58abb58cf858f2b5914d
+]
+
+/-! #### Band b3: [2.10153, 2.12140] (M2=48, s=6, mult=1, Nphi=128) -/
+def phi0_b3 : Nat := 4157409492
+def t0_b3 : Nat := 2576025972
+noncomputable def Bdry_b3_8 : List Nat := unpackHex16 24 812 [
+  0x64ba5864b31d64abe164a4ab649d7364963c648f086487d46480a064796c64723d646b096463da645cae645580644e53,
+  0x652e93652742651ff76518b1651168650a206502da64fb9864f45264ed1164e5ca64de8a64d74a64d00c64c8d064c18f,
+  0x65a3d0659c7765951e658dc3658669657f126577bb65706465690d6561b9655a69655318654bc3654477653d266535d9,
+  0x661a296612ba660b4e6603e165fc7965f51065edaa65e64365dedd65d77765d01165c8b065c15065b9ef65b28f65ab34,
+  0x669192668a1666829d667b1c66739e666c266664a9665d316655bb664e466646cd663f5b6637e9663079662908662197,
+  0x670a1767028a66faf866f36a66ebdc66e44f66dcc766d53b66cdb666c62c66bea466b71d66af9b66a81766a093669915,
+  0x6783b7677c18677476676cd867653a675d956755f9674e616746c4673f2c673791672ffb6728646720d467193b6711ac,
+  0x67fe7767f6c567ef0f67e76167dfab67d80067d05067c89f67c0f767b94b67b1a267a9f667a24e679aa7679301678b5c,
+  0x687a6168729a686ad368630e685b4a68538b684bc8684406683c48683489682cd0682514681d5a68159f680de7680632,
+  0x68f77168ef9768e7bd68dfe768d81368d03b68c86968c09768b8c668b0f368a92468a1546899876891bb6889f3688226,
+  0x6975ab696dbe6965d4695dea6955ff694e19694632693e4e69366c692e836926a1691ec26916e7690f0369072868ff4a,
+  0x69f51969ed1869e51969dd1b69d52369cd2769c52e69bd3569b53d69ad4669a552699d5d69956a698d7c69858c697d99,
+  0x6a75bb6a6da96a65976a5d856a55766a4d686a455b6a3d4f6a35436a2d386a252f6a1d2b6a15236a0d1c6a051c69fd1b,
+  0x6af7996aef736ae74c6adf266ad7066acee16ac6c16abea06ab6816aae646aa64a6a9e2e6a96196a8dff6a85e66a7dd4,
+  0x6b7ab66b72796b6a406b62096b59d06b519b6b49646b41316b38fb6b30cb6b289f6b20726b18436b10166b07e86affc3,
+  0x6bff146bf6c16bee726be62a6bdde06bd5916bcd496bc5006bbcbd6bb4726bac326ba3f16b9bae6b93706b8b2f6b82f3,
+  0x6c84bb6c7c546c73f46c6b956c63336c5ad26c52726c4a176c41c06c39636c310d6c28b46c205f6c180b6c0fb76c0765,
+  0x6d0baf6d03346cfabd6cf2466ce9d26ce1606cd8ec6cd07a6cc80a6cbf9c6cb72f6caec36ca6586c9df06c95876c8d22,
+  0x6d93f26d8b696d82d66d7a4f6d71c36d693a6d60b36d582f6d4faa6d47236d3ea36d361e6d2d9f6d25216d1ca36d1428,
+  0x6e1d936e14ec6e0c4b6e03a96dfb096df2696de9d06de1326dd8996dcffe6dc76a6dbecd6db63e6dada56da5146d9c84,
+  0x6ea8886e9fcb6e97166e8e606e85ac6e7cf66e74416e6b8e6e62e06e5a326e51866e48d86e402d6e37856e2eda6e2635,
+  0x6f34e06f2c106f233f6f1a786f11a46f08e06f00196ef74d6eee856ee5c36edd016ed43b6ecb7a6ec2be6eba026eb142,
+  0x6fc29f6fb9b66fb0d46fa7f06f9f116f962c6f8d4e6f84716f7b926f72b76f69dc6f61056f582c6f4f576f46816f3db2,
+  0x7051cb7048ce703fcc7036d3702ddc7024e5701beb7012f8700a057001166ff8236fef346fe6456fdd586fd4726fcb86,
+  0x70e26770d95070d03b70c72d70be1970b50a70abfa70a2f37099e87090de7087d9707ed37075ce706cc87063c6705ac9,
+  0x717476716b4a7162217158f6714fcf7146a7713d8171345f712b3c71221d7118fc710fe17106c870fda970f49570eb7a,
+  0x71f76c71f07171e94971e1fd71da8671d2e171cb1471c31f71baff71b2b271aa3e71a1a57198db718fe97186d3717da0,
+  0x7250ca724c757247ef724342723e6a72396a72343e722ee27229637223b9721de57217e77211ba720b657204e871fe40,
+  0x727f8d727de3727c0f727a0b7277e272758f72730d72705f726d8d726a8a72675e726405726083725cd57258fc7254f9,
+  0x7282fc7284097284ef7285a87286367286977286cf7286da7286b772866f7285f572854d72848072838472825f728105,
+  0x725a57725e327261dd72655b7268ad726bd2726ecf72719c72743a7276aa7278ee727b0c727cf9727eb972804e7281b9,
+  0x7204f2720b9c721216721868721e88722482722a46722fdd72354f723a8c723f9f72447f724939724dc672521d725652,
+  0x71820c718b8f7194ed719e1571a71771afe271b88571c0f371c93571d15171d93871e0f571e88571efe571f71871fe1b,
+  0x70d0d570dd4e70e98b70f5a1710186710d3e7118c0712419712f45713a41714509714fab715a15716457716e6c717852,
+  0x6ff09e700007700f41701e48702d1f703bc6704a3f7058887066a6707497708253708fdb709d3770aa6a70b76570c438,
+  0x6ee0916ef2fc6f05366f17406f29186f3ac66f4c3b6f5d816f6e9b6f7f846f903f6fa0c46fb11f6fc1486fd1426fe106,
+  0x6d9fe26db5626dcaaa6ddfc56df4ab6e09616e1de76e32376e46596e5a516e6e126e819e6e94fd6ea82c6ebb286ecdf3,
+  0x6c2dd06c46696c5ed16c77026c8f046ca6d36cbe6c6cd5dd6ced186d04216d1af96d319b6d480e6d5e4e6d745e6d8a3b,
+  0x6a89836aa5416ac0d46adc2c6af7526b124e6b2d0f6b479e6b61fd6b7c2d6b96236bafeb6bc97e6be2df6bfc0e6c1508,
+  0x68b21a68d11468efdc690e6d692cca694af76968f16986b469a44369c19c69dec669fbb86a18786a35086a51616a6d88,
+  0x66a6ce66c90e66eb16670cec672e8b674ffc67712d67923167b30167d39a67f40368143268342d6853f868738d6892ed,
+  0x6466b4648c4964b1aa64d6c964fbbd6520766544ff65694c658d6765b14c65d4ff65f87b661bc4663ed56661b4668457,
+  0x61f0f46219e66242a3626b2962937b62bb9462e37a630b226332956359d96380e063a7b163ce5263f4bc641aee6440ed,
+  0x5f44a65f71085f9d315fc9245ff4e0602066604bb16076ca60a1aa60cc5460f6c76120ff614b046174d2619e6b61c7c7,
+  0x5c60e05c90c35cc06d5cefdb5d1f135d4e135d7cd75dab685dd9bf5e07dc5e35c45e63745e90f15ebe365eeb3c5f180e,
+  0x5944ba59782659ab5c59de565a11195a43a35a75f75aa8075ad9e75b0b8d5b3cfd5b6e2e5b9f295bcfeb5c00775c30c7,
+  0x55ef42562649565d1b5693ad56ca0b57002a573614576bc157a13857d673580b7558403a5874c958a91958dd37591111,
+  0x525f83529a3852d4b4530ef05348f75382be53bc4f53f5a2542eb954679a54a03b54d8a55510d35548c755808055b7ff,
+  0x4e94814ed2f24f11284f4f204f8ce24fca645007a95044b250817d50be0f50fa6151367a51725a51adfe51e96352248f,
+  0x4a8d484acf834b11834b53464b94ca4bd6154c17224c57ec4c98804cd8d34d18ef4d58c74d98654dd7c64e16ed4e55d4,
+  0x475fbd47a4db47e9be482e5f4872c348b6ed48fad4493e844981f349c5224a081a4a4acf
+]
+noncomputable def Bdry_b3_16 : List Nat := unpackHex16 24 812 [
+  0x403801403356402ea84029ff4025574020ae401c0640175e4012b6400e1040096b4004c340001f3ffb7e3ff6db3ff236,
+  0x40831d407e614079ab4074f8407043406b8e4066db40622c405d784058c9405413404f63404ab540460640415a403caa,
+  0x40cede40ca2040c56040c09e40bbde40b72140b26240ada240a8e640a428409f70409ab54095f8409141408c854087ce,
+  0x411b5b41168f4111c3410cf541082b41036240fe9b40f9d240f50940f04240eb7840e6b540e1ef40dd2b40d86640d3a7,
+  0x41688b4163b4415ee1415a0841552f41505b414b834146b04141de413d0b413836413368412e964129c94124fa41202b,
+  0x41b67641b19541acae41a7cd41a2e9419e0841992b419449418f6c418a8d4185ae4180d1417bf541771941723e416d67,
+  0x42051842002a41fb3b41f64e41f16241ec7141e78441e29b41ddaf41d8c741d3dc41cef541ca0c41c52941c03e41bb5b,
+  0x425478424f7f424a8242458b42408c423b974236a04231a6422cb44227bc4222ca421dd34218e04213ec420efa420a0a,
+  0x42a49b429f94429a8b429586429080428b7e428678428174427c7342776e427271426d71426871426370425e74425978,
+  0x42f57e42f06b42eb5642e64442e13542dc2342d71342d20542ccf742c7e642c2db42bdcb42b8c142b3b442aeae42a9a1,
+  0x434727434206433ce74337c94332a9432d8c432870432356431e3d43191d431405430eee4309db4304bd42ffa942fa92,
+  0x439997439469438f3c438a104384e9437fbf437a9743756e437047436b204365fb4360d5435bb043568f43516c434c47,
+  0x43ecd343e79a43e26043dd2943d7f143d2ba43cd8443c85243c31b43bde643b8b443b38443ae5243a91f43a3f3439ec6,
+  0x4440dd443b9744364f443109442bc9442683442141441bfe4416bc44117c440c3f4406ff4401c443fc8743f74943f210,
+  0x4495b9449062448b124485c144806e447b1d4475cd44707f446b2d4465e1446097445b4d4456014450b7444b6a444626,
+  0x44eb6744e60344e0a344db4644d5ea44d08844cb2b44c5ce44c07644bb1744b5c044b06944ab0f44a5ba44a061449b0f,
+  0x4541f0453c7d4537124531a6452c394526cb452160451bf7451692451127450bc145065a4500f544fb9244f62c44f0ca,
+  0x45994f4593d1458e564588db458363457dea4578704572f8456d8145680e456297455d254557b1455240454ccd45475e,
+  0x45f18c45ec0645e67745e0f345db6945d5e345d05c45cada45c55545bfcf45ba4d45b4ca45af4945a9c945a44a459ecb,
+  0x464aaf464514463f7f4639e7463451462ebb46292a462393461e044618704612e2460d4d4607c346023145fca545f71a,
+  0x46a4b2469f094699654693c1468e1e4688784682d4467d324677934671f4466c554666b6466118465b7d4655e0465047,
+  0x46ff9e46f9e946f43146ee8346e8c946e31e46dd6d46d7ba46d20946cc5d46c6b046c10046bb5546b5ad46b00446aa5a,
+  0x475b764755af474fed474a2b47446c473ea84738e847332c472d6c4727af4721f1471c3847167b4710c5470b09470555,
+  0x47b83c47b26947ac9447a6c247a0f3479b23479552478f864789ba4783ef477e2347785947728e476cc5476703476138,
+  0x4815f6481013480a3048045147fe7047f88f47f2af47ecd847e6f947e11d47db4647d56e47cf9547c9bb47c3e447be12,
+  0x4874a6486eb34868c24862d1485ce14856f3485105484b1848452c483f43483957483371482d8c4827a14821c1481bd8,
+  0x48c3b748bffe48bc1748b80c48b3d648af7048aae348a62d48a14b489c3c4897064891a9488c1d48866848808d487a95,
+  0x48e8ac48e7a148e66648e50248e37448e1ba48dfd648ddc448db8a48d92748d69748d3de48d0f748cde648caad48c747,
+  0x48e27f48e42848e5a748e6f548e81d48e91a48e9ea48ea8b48eb0848eb5448eb7548eb6b48eb3648ead548ea4948e990,
+  0x48b07848b4e248b92148bd3548c11c48c4d848c86848cbcc48cf0048d20e48d4ed48d79b48da2248dc7b48deab48e0a5,
+  0x4851d3485912486020486702486db648743e487a9b4880c94886c7488c9848923c4897b7489d0248a21f48a71348abda,
+  0x47c5e247cff947d9df47e39d47ed2847f68b47ffbc4808bc481196481a3a4822b7482aff48331f483b124842d1484a6a,
+  0x470bdf4718da4725ad47324a473ec0474afe4757134762f6476eaa477a3647858e4790ba479bbb47a68947b12c47bb9d,
+  0x4622fd4632f54642b14652464661a64670dc467fdb468eaf469d5446abcb46ba0e46c82946d60c46e3c546f15346feb1,
+  0x450a88451d7945303a4542c9455525456754457952458b20459cc245ae3645bf7445d08045e15e45f21146028e4612e0,
+  0x43c1a843d7a443ed6e440309441872442dac4442b2445785446c2d4480a34494e944a8fd44bce344d09544e41944f767,
+  0x42478e4260a942798b42924042aabe42c30e42db2c42f313430acc43225b4339b14350d24367c5437e8943951a43ab77,
+  0x409b7740b7b440d3bf40ef93410b394126ab4141e7415cf74177d441927d41acf441c73541e14641fb254214d0422e48,
+  0x3ebc873edbf43efb353f1a3b3f390f3f57b73f76243f945d3fb2663fd03e3feddf400b4f40288a404593406267407f09,
+  0x3ca9de3ccc913cef113d115a3d336e3d55503d77003d98773db9bb3ddac83dfba53e1c4a3e3cbb3e5cfd3e7d063e9cde,
+  0x3a62b13a88b33aae7e3ad4163af9773b1ea63b43993b685b3b8ce83bb1413bd5673bf9533c1d0a3c408f3c63df3c86f8,
+  0x37e613380f763838a238618d388a4c38b2d038db2339033a392b1c3952cb397a4339a18739c89539ef6b3a160f3a3c77,
+  0x353327355ff2358c8535b8e135e5073610f6363cb136682e36937436be8836e962371405373e753768af3792b137bc7d,
+  0x32490632794b32a95332d9293308c533382933675433964b33c50833f38f3421e1344ff2347dd334ab7a34d8ed350623,
+  0x2f26bf2f5a8d2f8e242fc17e2ff4a130278b305a3a308cb230bef330f0f83122c731545e3185c131b6e831e7d532188a,
+  0x2bcb682c02cc2c39fb2c70eb2ca7a42cde252d146b2d4a712d80432db5dd2deb3e2e205f2e554c2e89fe2ebe792ef2b9,
+  0x28361128711c28abef28e6842920e3295b022994ec29ce982a080d2a41452a7a452ab3062aeb902b23dc2b5bf42b93c7,
+  0x2465bb24a48024e30a252153255f66259d3a25dad526183226555426923d26cee7270b5827478c27838827bf4727faca,
+  0x20596e209bf920de4721205821623221a3cb21e52822264522672722a7cd22e83423286023685023a80723e77c2426b8,
+  0x1c102d1c568e1c9cb31ce29b1d28431d6db01db2e01df7cc1e3c801e80f31ec52f1f09251f4ce11f90601fd3a12016a6,
+  0x18ce8919124219564f199ab319df6c1a247c1a69de1aaf9a1af5a81b3c0a1b82c51bc992
+]
+noncomputable def Bdry_b3_24 : List Nat := unpackHex16 24 812 [
+  0x23ffee23fd4723fa9e23f7f923f55223f2ac23f00823ed6223eabd23e81923e57423e2d123e02c23dd8d23daea23d846,
+  0x242a9d2427eb24253d242293241fe6241d39241a8d2417e424153824128f240fe1240d38240a8f2407e524053c240293,
+  0x2455aa2452f8245046244d91244ade24482d24457a2442c7244015243d63243ab72438062435532432a6242ff5242d47,
+  0x248123247e6a247bb12478f524763c2473832470ce246e15246b5c2468a52465ec24633724607f245dcb245b16245863,
+  0x24ad0524aa4524a78824a4c524a204249f46249c852499c624970824944a24918c248ed0248c1324895824869d2483e1,
+  0x24d95224d68c24d3c324d0fe24ce3524cb6e24c8ab24c5e424c32224c05b24bd9724bad124b80f24b54b24b28a24afca,
+  0x25060725033b25006d24fda024fad424f80424f53624f26c24efa024ecd524ea0924e74124e47724e1ae24dee324dc1a,
+  0x25332d253057252d82252aaf2527d7252504252234251f5e251c902519bb2516ed251419251149250e76250ba82508d9,
+  0x2560c0255de5255b0825582d255552255279254f9c254cc32549ea25470e254438254160253e8a253bb12538da253606,
+  0x258ec5258be12588fe25861a258339258058257d77257a972577b82574d42571f5256f14256c3725695725667c25639c,
+  0x25bd3925ba4e25b76425b47b25b19125aea825abc025a8d925a5f325a30725a022259d3c259a5b25977025948d2591a9,
+  0x25ec2125e92f25e63c25e34b25e05d25dd6d25da7d25d78e25d4a025d1b125cec425cbd525c8e925c5fd25c31225c023,
+  0x261b7e26188726158c261295260f9d260ca52609ae2606b92603c12600cc25fdd525fae225f7ed25f4f725f20625ef15,
+  0x264b55264854264552264252263f55263c5426395626365826335a26305c262d62262a6426276b262470262173261e7b,
+  0x267ba226789726759226728b266f84266c7d26697726667226636a266066265d62265a6026575d26545a265154264e56,
+  0x26ac6926a95726a64826a33a26a02e269d1c269a0f2697012693f72690e7268dde268ad32687c82684bf2681b3267eaa,
+  0x26ddaf26da9526d77f26d46a26d15226ce3a26cb2526c80f26c4fd26c1e726bed626bbc226b8af26b59f26b28a26af7b,
+  0x270f6f270c4f2709322706112702f426ffd626fcb826f99a26f67e26f36426f04626ed2d26ea1126e6f926e3df26e0c6,
+  0x2741b3273e8d273b6227383e2735162731f0272eca272ba827288427255e27223a271f17271bf42718d22715b1271290,
+  0x277479277147276e19276ae92767ba27648d276161275e30275b072757d92754af275181274e5a274b2d2748032744dc,
+  0x27a7c127a48627a150279e19279ae42797ac27947427913f278e0d278ad82787a427847127813c277e0b277ad82777aa,
+  0x27db8f27d84e27d50d27d1d127ce8c27cb5127c81427c4d427c19627be5b27bb1f27b7e127b4a627b16d27ae3427aafa,
+  0x280fe6280c9c28095528060a2802c627ff7c27fc3527f8f127f5aa27f26427ef1e27ebdc27e89527e55727e21127ded2,
+  0x2844c8284176283e22283ad12837812834312830e1282d93282a442826f82823a928205f281d0f2819c328167b28132e,
+  0x287a352876da28737f287026286ccc2869712866192862c6285f6c285c162858c028556c285216284ec1284b6c28481c,
+  0x28b03328acce28a96b28a60828a2a4289f42289be02898802895202891c1288e61288b042887a72884482880ef287d90,
+  0x28d62828d50328d3b028d23a28d09628cec328ccca28caa728c85628c5da28c33528c06728bd6c28ba4728b6fb28b392,
+  0x28d19528d32428d48528d5bc28d6c828d7a928d85f28d8e628d94428d97a28d98228d95f28d91028d89528d7f128d722,
+  0x28a17328a5bf28a9e028add028b19928b53528b8a628bbe828bf0428c1f028c4af28c74328c9ac28cbe728cdf928cfdc,
+  0x284508284c1d2853052859c12860512866b4286cec2872f62878d1287e8428840828895c288e88289385289857289cf8,
+  0x27bb9127c57f27cf3f27d8d127e23327eb6b27f47527fd502805fd280e7b2816cc281ef22826e9282eb1283650283dc1,
+  0x27045c27112b271dca272a3c27367e274297274e7d275a332765c127711a277c4a278744279218279cbd27a72e27b178,
+  0x261ea0262e5b263dec264d47265c7a266b77267a472688e626975726a59e26b3b126c19726cf5326dcd926ea3626f760,
+  0x250992251c50252ed425412c25535225654b25770f2588a6259a0e25ab4725bc4d25cd2825ddcf25ee4825fe96260eb4,
+  0x23c47923da3723efc5240521241a4a242f462444102458a8246d1424815124955824a92e24bcd724d04f24e39624f6ad,
+  0x224e7b22674d227fec22985b22b09822c8a522e07f22f825230f9e2326e4233dfe2354e1236b9723821a23986c23ae88,
+  0x20a6c920c2c020de7f20fa1021156a213096214b8d21664f2180e3219b4921b57921cf7321e93d2202d9221c40223574,
+  0x1ecc9b1eebbe1f0aae1f29661f47ef1f66451f84631fa2551fc0131fdd9e1ffaf52018172035072051c5206e4f208aa5,
+  0x1cbf161ce1721d039f1d25921d47511d68e21d8a3b1dab5e1dcc511ded121e0d9a1e2df21e4e171e6e051e8dc21ead49,
+  0x1a7d581aa3001ac8751aedb41b12bb1b37901b5c321b809a1ba4d01bc8cf1bec9b1c10311c33921c56c21c79bb1c9c80,
+  0x180692182f921858591880ed18a94b18d17418f9631921201948a8196ff919971719bdfa19e4ac1a0b271a316d1a577e,
+  0x1559d615863e15b26e15de61160a221635ab1660ff168c1b16b6ff16e1ae170c2917366c17607b178a5017b3f417dd5b,
+  0x12764412a61e12d5bf13052813345c13635513921b13c0a313eef5141d13144af81478a414a61c14d35d150067152d39,
+  0xf5af20f8e4f0fc16f0ff45b10270b105984108bc410bdcf10efa011213911529d1183c011b4b111e5691215ec124632,
+  0xc3eb80c6e070c9dac0ccda80cfdf90d2ea20d5f9f0d90f30dc29e0df49d0e26f20e599e0e8c9f0ebff50ef3a10f2764,
+  0x977fd09a1d609cc0b09f6960a21780a4cb30a78460aa4300ad0710afd090b29fb0b57400b84df0bb2d40be11f0c0fc1,
+  0x70941072d9007523b07773d079c9a07c24e07e85e080ec5083586085c9f08841208abdc08d40008fc7a09254f094e78,
+  0x4f4110512bd0531c50551240570e30590fa05b16c05d23905f3620614e40636bd0658f3067b82069e6b06c1ae06e54b,
+  0x339fb0352ea036c340385dc039fe103ba4103d4ff03f018040b8c04275d04438804600f047cf3049a3204b7cb04d5bf,
+  0x1dc9401efac0203220216f7022b29023fba0254a80269f1027f9a02959f02ac0302c2c402d9e102f15c030934032168,
+  0x114550122fa0131fe0141610151240161460171c70182a70193e601a58301b78001c9da
+]
+noncomputable def Bdry_b3_32 : List Nat := unpackHex16 24 812 [
+  0xff3bd0ff28b0ff1580ff0280feef60fedc70fec970feb660fea350fe9070fe7d70fe6a70fe5770fe44b0fe31c0fe1eb,
+  0x1006ea1005b210047d10034c1002191000e50fffb20ffe800ffd4d0ffc1b0ffae50ff9b50ff8820ff74f0ff61d0ff4ec,
+  0x101a4210190c1017d510169e1015681014331012fc1011c510108e100f58100e26100cf0100bb9100a8610094f10081c,
+  0x102dc9102c92102b57102a1e1028e41027ac10267510253b1024011022c910218f102058101f1f101de9101cb1101b7c,
+  0x104184104047103f0d103dd0103c91103b56103a181038de1037a210366610352a1033ef1032b510317b103041102f06,
+  0x10556f10542f1052ee1051b010506f104f2e104df2104cb3104b75104a351048f61047b810467b10453c1043fe1042c3,
+  0x1069871068451067031065c010647e10633b1061f71060b7105f73105e34105cf1105bb1105a711059301057ee1056ad,
+  0x107dd4107c8d107b48107a021078bb1077761076331074eb1073aa107264107121106fdc106e97106d52106c0f106acc,
+  0x10925310910a108fc0108e77108d2f108be8108a9d10895510880e1086c410857e1084371082f01081a9108062107f1b,
+  0x10a70610a5b910a46c10a31f10a1d510a088109f3c109df2109ca8109b5a109a101098c510977a1096301094e710939c,
+  0x10bbea10ba9b10b94a10b7fd10b6ad10b55e10b40f10b2c110b17410b02210aed610ad8710ac3c10aaeb10a99f10a852,
+  0x10d10410cfb210ce5e10cd0b10cbbb10ca6910c91610c7c410c67210c52010c3d010c27d10c12d10bfdc10be8d10bd3a,
+  0x10e65410e4ff10e3a710e25110e0fc10dfa510de5110dcfd10dba610da5210d8fb10d7a810d65310d4fe10d3ac10d259,
+  0x10fbdc10fa8210f92710f7cd10f67610f51b10f3c210f26a10f11110efb810ee6210ed0910ebb210ea5c10e90310e7ae,
+  0x11119811103a110ede110d82110c26110ac811096c1108101106b31105561103fb1102a111014510ffeb10fe8e10fd36,
+  0x11278e11262b1124cb11236b11220d1120aa111f4c111dea111c8d111b2c1119ce1118711117101115b31114531112f6,
+  0x113dbd113c56113af411399111382d1136c611356311340011329e11313b112fda112e76112d14112bb4112a501128f0,
+  0x1154231152bc115155114feb114e85114d1e114bb7114a4e1148e811478411461a1144b711434e1141eb114086113f20,
+  0x116ac711695c1167ee1166851165181163ad1162421160d9115f6f115e04115c9a115b2f1159c611585e1156f511558b,
+  0x1181a5118034117ec6117d56117be7117a7a11790b11779a1176301174c01173551171e4117079116f0b116d9e116c33,
+  0x1198c011974a1195d81194651192f311918011900c118e9a118d2b118bb9118a471188d71187651185f5118483118315,
+  0x11b01611ae9f11ad2811abb311aa3911a8c511a75011a5d811a46311a2ef11a17811a002119e8d119d1b119ba5119a32,
+  0x11c7ad11c62f11c4b611c33811c1c211c04611becb11bd5411bbd911ba5f11b8e411b76e11b5f411b47e11b30411b18f,
+  0x11df8111de0111dc8111db0311d98411d80711d68811d50c11d38c11d21211d09411cf1811cd9911cc1c11caa311c926,
+  0x11f79611f61211f48f11f30e11f18b11f00711ee8511ed0611eb8311ea0211e88111e70111e58111e40011e27f11e101,
+  0x120fed120e66120cdf120b581209d012084a1206c312053e1203b91202341200ae11ff2a11fda611fc1f11fa9f11f919,
+  0x1217f01218ac12193c1219a51219e21219f01219d61219911219201218851217be1216cf1215b112146b1212fc121171,
+  0x11f51911f88e11fbd611fef21201e21204ac1207451209b1120bf4120e0e120ffa1211b912134c1214b61215f3121709,
+  0x11a66211ac9911b2a611b88211be3511c3ba11c91611ce4211d34711d81e11dcc611e14011e59211e9b511edae11f178,
+  0x112b10113416113cef11459a114e1a11566d115e9411668d116e561175f6117d691184ac118bc41192af11996f119ffb,
+  0x10825d108e421099f810a57f10b0d810bc0410c70310d1d210dc7210e6e410f12910fb41110529110ee51118751121d7,
+  0xfab990fba640fc8fe0fd76b0fe5a80ff3bb100199100f4b101cd0102a2210374b10443e105109105da4106a0f10764e,
+  0xea5f80eb7b50ec9440edaa10eebd20efcd10f0d9e0f1e3d0f2eae0f3ef10f4f020f5ee60f6e9e0f7e220f8d7b0f9ca1,
+  0xd70ae0d85700d99fb0dae590dc2840dd6820dea4d0dfde70e11530e24900e37990e4a760e5d210e6f9c0e81ea0e940a,
+  0xc0afe0c22c70c3a600c51c70c68fb0c80010c96d60cad790cc3ee0cda340cf0450d06230d1bd40d31540d46a30d5bc0,
+  0xa740e0a8ef20aa9a40ac4220ade6f0af88d0b12770b2c2d0b45b50b5f090b78310b91230ba9e60bc2770bdad70bf301,
+  0x8ab0f08c91c08e6f309049b09220c093f4d095c5c0979320995dd09b25409ce9909eaa80a06870a22350a3dae0a58f5,
+  0x6af3706d07706f1830712580732fe07536e0773ab0793b707b38f07d33407f2a60811e10830eb084fc2086e65088cd3,
+  0x4b54704d26e04efef050dc5052bf1054a7505694e05887d05a80305c7e105e810060896062972064aa3066c29068dc9,
+  0x311020328b40340c10359240371df038af303a45e03be2103d83b03f2aa040d72042891044406045fd5047bf8049874,
+  0x1c4e501d70b01e98a01fc63020f96022322023705024b42025fd70274c7028a0f029faf02b5a802cbf902e2a402f9a7,
+  0xd27300def300ebce00f90401069401147f0122c501316501405f014fb4015f63016f6d017fd201908f01a1a801b319,
+  0x3b350041f700491300508c00586200609400692300720d007b530084f6008ef500994f00a40600af1800ba8600c64f,
+  0xb700019f0002e500048a00068c0008ed000bab000ec7001242001619001a4f001ee10023d100291e002ec90034d0,
+  0x2d,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0
+]
+noncomputable def Bdry_b3_40 : List Nat := unpackHex16 20 812 [
+  0x3fa5d3fa103f9c23f9743f9273f8da3f88d3f8413f7f33f7a73f75a3f70e3f6c03f6753f6283f5db,
+  0x3ff363fee73fe983fe4c3fdff3fdb13fd633fd153fcc83fc7b3fc2b3fbde3fb923fb433faf63faa9,
+  0x4041b403cd4037e40330402e04029240244401f5401a5401584010a400bc4006d4001f3ffd03ff83,
+  0x4090b408bd4086d4081e407ce4077f40731406e24069040643405f3405a54055440506404b84046b,
+  0x40e0940db740d6a40d1a40cc840c7940c2740bda40b8940b3940ae840a9a40a49409fa409ab4095c,
+  0x41313412c24127041221411cf4117d4112e410dd4108d4103c40feb40f9b40f4a40efa40ea940e5a,
+  0x41828417d74178641734416e2416904163f415ee4159b4154b414f9414a74145741406413b541363,
+  0x41d4c41cf941ca741c5441c0141baf41b5e41b0a41aba41a6741a15419c4419704191e418cc4187b,
+  0x4227c42229421d54218142130420dd420874203541fe241f8e41f3d41ee941e9741e4541df241d9d,
+  0x427ba4276542712426bc4266942614425c14256e4251a424c4424714241f423cb4237742324422cf,
+  0x42d0342caf42c5a42c0542bb042b5b42b0642ab242a5e42a07429b34295f4290b428b5428624280e,
+  0x4325b43206431b04315a43105430b04305a4300542fae42f5942f0442ead42e5842e0342daf42d59,
+  0x437c14376b43714436bc4366643610435ba435654350d434b74345f43409433b34335d43309432b2,
+  0x43d3643cdd43c8643c2e43bd743b7f43b2843ad143a7843a22439cc439734391d438c7438704381a,
+  0x442b64425f44206441ae44156440fe440a54404d43ff443f9c43f4443eed43e9443e3d43de443d8d,
+  0x44848447ee447954473a446e2446884462f445d64457e44524444ca444734441a443c14436744310,
+  0x44de744d8b44d3244cd844c7e44c2344bc944b6f44b1544abb44a6144a07449af44955448fb448a2,
+  0x4539445339452de4528245227451cd4517245116450bb450614500544fab44f5044ef644e9b44e40,
+  0x45952458f6458974583d457e04578545729456cd4567145615455b94555d45501454a64544c453ef,
+  0x45f1d45ec045e6445e0745da945d4c45cef45c9145c3645bd945b7d45b1e45ac345a6645a09459ae,
+  0x464f94649b4643e463e04638146323462c54626746209461ac4614e460f1460934603645fd745f7b,
+  0x46ae546a8546a25469c9469674690a468ab4684c467ed4678f4672f466d04667146614465b546557,
+  0x470e14707f4702146fbf46f6046eff46e9f46e4146ddf46d8146d2146cc246c6146c0446ba246b45,
+  0x476ed4768a47629475c84756747505474a647445473e34738447322472c347261471ff471a14713f,
+  0x47d0847ca647c4447be247b8047b1d47aba47a5a479f84799647934478d34787247810477ad4774d,
+  0x48336482d2482704820c481a748145480e14807f4801d47fbb47f5747ef547e9247e2e47dcd47d6b,
+  0x478de47ac147c7a47e0847f6b480a1481ad4828d48342483cc4842a484604846848447483fd48397,
+  0x4437b4481a44c8d450d2454ed458df45ca346037463a3466e5469fa46ce246f9d4722e47494476d0,
+  0x3e2053e9693f0a33f7ae3fe8e4053f40bc74121f4185141e5342427429cd42f4a43497439ba43eb0,
+  0x353bf35df636801371dc37b8c3850f38e653978e3a0873a9563b1f73ba693c2af3cac83d2b73da71,
+  0x297e62a4fe2b1e82bea22cb2f2d78e2e3bf2efc12fb9530739312b031dfa329143340233ec434956,
+  0x1adc51bdc71cd991dd3c1ecb11fbf920b0e219f6228b12373a24597253c0261bf26f9027d2f28aa4,
+  0xc8260d4090e0430ecd40f9bb106f81148a12273130b213f4814e3315d7416d0c17cf818d3c19d96,
+  0x384d03ebb0457e04c990540c05bd8063fb06c760754807e72087f4091cd09bfd0a6840b1630bc99,
+  0xae0018b002c1004510063a0087d00b1800e0d0115c015030190401d5d0220f0271a02c7d03239,
+  0x2b,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0
+]
+noncomputable def Jg_b3_0 : List Nat := unpackHex16 28 525 [
+  0x83c36ed83b9fdd83b08e283a71fd839db2d8394473838adcf838174083780c8836ea648365416835bddc83527b883491aa833fbb183365ce,
+  0x845b3808451b1284482ba843ea7a843524f842ba39842223a8418a51840f27d8405ac083fc31783f2b8483e940783dfc9f83d654e83cce12,
+  0x84f461184eac4284e128a84d78e784cdf5b84c45e484bac8584b133b84a7a06849e0e784947e0848aef084816138477d4d846e49c8464c02,
+  0x858eeed85853b6857b8968571d8c8568299855e7bd8554cf8854b24a85417b28537d2f852e2c3852486d851ae2e851140585079f384fdff8,
+  0x862ae5f86211be8617536860d8c28603c6485fa01e85f03ed85e67d385dcbd085d2fe585c940f85bf85085b5ca985ac11885a259e8598a3a,
+  0x86c84b386be6a186b48a586aaac286a0cf48696f3e868d19f868341786796a8866f94f8665c0c865bedf86521cb86484ce863e7e78634b18,
+  0x876723f875d2b6875334487493eb873f4aa873557f872b66b872176f871788b870d9be8703b0986f9c6b86efde486e5f7686dc11c86d22dc,
+  0x880775a87fd65687f356987e949587df3d787d533387cb2a687c123087b71d487ad18f87a3163879914d878f14e8785167877b19887711e0,
+  0x88a9450889f1cc8894f60888ad0c8880ad088768ad886c6a288624ae88582d3884e10f8843f658839dd2882fc578825af4881b9a98811876,
+  0x894c96c89425638938172892dd9a89239dc8919635890f2a78904f3288fabd688f089188e656488dc24f88d1f5288c7c6d88bd9a188b36ec,
+  0x89f171389e717f89dcc0389d26a189c815889bdc2789b370f89a9211899ed2b899485d898a3a6897ff098975a86896b61a89611c88956d8d,
+  0x8a97d9f8a8d67a8a82f6d8a788798a6e1a08a63ae18a5943a8a4edad8a447378a3a0db8a2fa988a2546e8a1ae5c8a108668a0628889fbcc2,
+  0x8b3fd6e8b354b38b2ac118b203898b15b1a8b0b2c58b00a898af62678aeba5d8ae126c8ad6a948acc2d78ac1b338ab73a68aacc358aa24de,
+  0x8be96d08bdec798bd423b8bc98168bbee0d8bb441c8ba9a458b9f0888b946e48b89d5a8b7f3ea8b74a958b6a15a8b5f8398b54f318b4a643,
+  0x8c94a328c89e378c7f2568c746918c69ae58c5ef558c543de8c498808c3ed3c8c342128c297048c1ec108c141368c096768bfebce8bf4142,
+  0x8d417f18d36a4d8d2bcc28d20f548d162008d0b4c68d007a88cf5aa48ceadbc8ce00ec8cd54388cca7a08cbfb218cb4ebe8caa2748c9f646,
+  0x8df00678de51148dda1dd8dcf2c28dc43c28db94db8dae60f8da375f8d988cb8d8da518d82bf48d77db08d6cf878d6217a8d573878d4c5af,
+  0x8ea03fd8e952f58e8a20a8e7f13a8e740868e68fee8e5df708e52f0e8e47ec78e3ce9b8e31e8b8e26e968e1bebc8e10eff8e05f5c8dfafd4,
+  0x8f523158f470548f3bdad8f30b248f258b58f1a6638f0f42c8f042138ef90158eede318ee2c6a8ed7abe8ecc92d8ec17b88eb665d8eab51f,
+  0x9005e188ffa9948fef52d8fe40e18fd8cb28fcd8a08fc24aa8fb70cf8fabd128fa09718f955ec8f8a2828f7ef358f73c038f688ed8f5d5f4,
+  0x90bb56690aff1a90a48ec90992da908dce7908270e9077152906bbb2906062f90550c89049b7e903e65190331409027c4b901c77290112b6,
+  0x917297f9167163915b964915018691449c1913921b912da9391223269116bd4910b4a290ffd8c90f469290e8fb690dd8f690d225590c6bcf,
+  0x922bac692200d392147019208d4a91fd3b491f1a3991e60dc91da79c91cee7a91c357491b7c8b91ac3c091a0b1291952819189a0d917e1b7,
+  0x92e5c7a92da3ee92ceae492c316f92b77a192abd8792a033192948b19288e16927d37292718cf9265e38925a3b6924e94d9242f0392374d6,
+  0x939700b938c7d69381e2093772fb936c67693618a2935698e934b94e93407f09335584932a21c931edc79313897930829992fcbdf92f147a,
+  0x942f2649426b07941e11f94154bd940c5f194034cb93fa15e93f0bba93e73ee93dda0e93d3e2893ca04f93c009393b5f0393abbb393a16af,
+  0x949f2a1949978e94939ac948d8fe94875839480f3b947a6279473a48946cba09465a2e945e5f29456eef944f5249447891943f93b9437725,
+  0x94e23ab94df5e794dc54894d91d094d5b7e94d225494ce65394ca77a94c65cc94c214994bd9f394b8fc894b42cb94af2fa94aa05894a4ae5,
+  0x94f795094f799e94f770594f718494f691e94f5dd494f4fa794f3e9794f2aa694f13d494efa2294edd8f94ebe1e94e9bce94e769f94e4e93,
+  0x94de76794e168994e42b894e6bf494e923f94eb59a94ed60594ef38194f0e0e94f25af94f3a6394f4c2994f5b0594f66f694f6ffe94f761a,
+  0x949619f949c05c94a1c1a94a74d994aca9b94b1d5e94b6d2894bb9f694c03c994c4aa294c8e7f94ccf6594d0d5394d484894d804794db551,
+  0x941db7d9426aa0942f6b69437fc194405c194488b994508a6945858b945ff69946763f946ea129475adc947c8a394833679489b26948ffe3,
+  0x9397fef93a36fe93aeaf493b9bd593c499f93cf45393d9bf493e408293ee1fe93f80699401bc5940b411941494e
+]
+noncomputable def Jg_b3_1 : List Nat := unpackHex16 28 525 [
+  0x5ef3d5b5eecda15ee5df85edee5f5ed7ed75ed0f5f5ec9ff85ec30a15ebc15a5eb52245eae2fe5ea73e85ea04e35e995ee5e9270a5e8b836,
+  0x5f641bb5f5d0f95f560485f4efa75f47f165f40e965f39e265f32dc75f2bd795f24d3b5f1dd0e5f16cf25f0fce65f08ceb5f01d005efad25,
+  0x5fd56c45fce4f55fc73375fc018a5fb8fee5fb1e635faace85fa3b7e5f9ca265f958dd5f8e7a55f8767e5f805695f794645f723705f6b28d,
+  0x6047cbf60409df60397106032453602b1a66023f0a601cc7f6015a06600e79e600754760003015ff90cc5ff1ea95feac975fe3a955fdc8a4,
+  0x60bb3e260b3fee60acc0b60a5839609e47960970cb608fd2d60889a16081626607a2bd6072f65606bc1d60648e8605d5c460562b1604efaf,
+  0x612fc6d612876161212666119d7c61128a5610b3df6103f2a60fca8860f55f760ee17760e6d0960df8ad60d846160d102760c9bff60c27e8,
+  0x61a5691619e0696196a53618f4506187e5e618087e61792af6171cf3616a74861631af615bc2761546b1614d14d6145bfb613e6ba613718a,
+  0x621c29b6214b53620d41d6205cfa61fe5e861f6ee961ef7fc61e812161e0a5761d939f61d1cf961ca66561c2fe461bb97461b431661accca,
+  0x62940cc628c85f6285005627d7bd6275f88626e7666266f55625f7576257f6b62507916248fc96241814623a07162328e1622b16262239f6,
+  0x630d16d63057d862fde5562f64e662eeb8862e723e62df90662d7fe062d06cc62c8dcb62c14dd62b9c0162b233862aaa8162a31dd629b94b,
+  0x63874bb637f9f96377f4963704ad6368a236360fac63595476351af6634a0b8634268c633ac74633326e632b87c6323e9c631c4cf6314b14,
+  0x6402b0163faf0d63f332c63eb75f63e3ba563dbffe63d446a63cc8e963c4d7b63bd22163b56da63adba563a6084639e5756396a79638ef91,
+  0x647f4836477759646fa426467d3f646004f645837264506a964489f46440d5264390c5643144a64297e36421b906419f4f6412322640a708,
+  0x64fd18c64f532764ed4d664e569964dd87064d5a5a64cdc5864c5e6b64be09164b62ca64ae51864a6779649e9ee6496c76648ef1164871c0,
+  0x657c26065742bc656c32d65643b2655c44b65544f8654c5b9654468e653c7776534874652c9856524aaa651cbe36514d2f650ce906505004,
+  0x65fc74b65f466465ec59265e44d465dc42b65d439665cc31565c42a965bc25065b420b65ac1db65a41bf659c1b765941c3658c1e36584217,
+  0x667e0986675e69666dc4e6665a48665d857665567a664d4b36645300663d1616634fd7662ce626624d00661cbb36614a7b660c9566604847,
+  0x6700e9666f8b1a66f07b366e846066e012266d7df966cfae566c77e666bf4fc66b722766aef6666a6cbb669ea2466967a2668e53566862dc,
+  0x678519e677cccf6774815676c3706763ee1675ba676753601674b1b06742d75673a94f673253e672a1426721d5c671998a67115ce6709228,
+  0x680a9fd68023d667f9dc567f17ca67e91e467e0c1367d865867d00b267c7b2167bf5a667b704067aeaef67a65b4679e08e6795b7e678d683,
+  0x6890b0468886b368801e16877c9e686f6fa6867105685eacf6856467684ddde6845742683d0a06834a03682c3736823cf5681b68d681303a,
+  0x690d8e1690651768fefcc68f791068f00f468e878668e0cd968d90fb68d13fd68c95ee68c16e068b96e168b160368a945468a11e46898ec5,
+  0x69714ef696c1e56966c53696144a695b9db6955d16694fe0b6949ccc6943968693d3f06936c75693030869297b76922a95691bbb06914b19,
+  0x69ac5d469aa0dc69a78e969a4dfe69a2019699ef3d699bb69699849f6994adf6990e2b698ce866988bf66984685697fe3c697b32b6976562,
+  0x69b7e0e69b892169b912d69b963369b983369b972f69b932869b8c1f69b821469b750869b64fc69b51f069b3be469b22db69b06d569ae7d2,
+  0x6992eaa6996a97699a36f699d93669a0bea69a3b8d69a682069a91a469ab81a69adb8169afbdc69b192a69b336c69b4aa369b5ed069b6ff4,
+  0x693cac5694385b694a2d06950a266956e5d695cf776962d736968853696e01769734c0697864e697d4c3698201f6986864698ad91698efa8,
+  0x68b454f68be56268c824868d1c0068db28d68e45ee68ed62468f633168fed1469073cf690f76269177cf691f5166926f37692e6346935a0e,
+  0x67f910c6806470681349a6820189682cb3f68391bb68454ff685150c685d1e26868b8268741ee687f525688a52a68951fc689fb9d68aa20d,
+  0x670a07c671a80d672ac54673ad53674ab0b675a57b6769ca5677908b678812c6796e8a67a58a667b3f8067c231a67d037467de08e67eba6c,
+  0x65e65dc65fa275660dbb766211a36634439664737a6659f68666c802667ed4b6690f4266a2dea66b494266c614d66d760a66e877b66f95a1,
+  0x648d33d64a45c064bb4dd64d209664e88eb64feddd6514f6e652ad9d654086d6555fdd656b3f065804a565951ff65a9bfd65be2a165d25eb,
+  0x634cc016366afa63806816399e9863b334063cc47a63e524763fdca8641639d642e728644674a645e4036475d53
+]
+noncomputable def Jg_b3_2 : List Nat := unpackHex16 28 525 [
+  0x39a3f73399f9bc399b4103996e6e39928d7398e34a3989dc8398585039812e4397cd81397882a39742dd396fd9a396b86239673343962e10,
+  0x39ea08039e5a1f39e13c939dcd7e39d873d39d410739cfadc39cb4bc39c6ea639c289a39be29939b9ca339b56b739b10d639acb0039a8534,
+  0x3a30c3e3a2c5313a27e2f3a237383a1f04c3a1a96a3a162933a11bc73a0d5063a08e4f3a047a43a0010339fba6d39f73e139f2d6139ee6eb,
+  0x3a782cf3a73b143a6f3633a6abbe3a664243a61c953a5d5113a58d983a546293a4fec63a4b76d3a4701f3a428dc3a3e1a43a39a773a35355,
+  0x3ac04673abbbfa3ab73993ab2b423aae2f73aa9ab73aa52823aa0a583a9c2393a97a253a9321d3a8ea1f3a8a22c3a85a443a812673a7ca96,
+  0x3b091273b048063affef03afb5e63af6ce83af23f53aedb0d3ae92303ae495f3ae00993adb7de3ad6f2e3ad26893acddf03ac95623ac4cdf,
+  0x3b529453b4df6e3b495a23b44be13b4022d3b3b8833b36ee53b325523b2dbca3b2924e3b248dd3b1ff783b1b61e3b16ccf3b1238c3b0da54,
+  0x3b9cce23b982503b937cb3b8ed513b8a2e23b858803b80e283b7c3dd3b7799d3b72f693b6e5413b69b253b651143b6070f3b5bd163b57327,
+  0x3be7c2b3be30de3bde59d3bd9a683bd4f3f3bd04213bcb90f3bc6e093bc230f3bbd8213bb8d3e3bb42673baf79c3baacdc3ba62273ba177f,
+  0x3c3374e3c2eb413c29f413c2534d3c207643c1bb873c16fb73c123f33c0d83b3c08c8f3c040ef3bff55b3bfa9d33bf5e573bf12e73bec783,
+  0x3c7fe783c7b1aa3c764e83c718333c6cb893c67eec3c6325b3c5e5d73c5995f3c54cf33c500933c4b43f3c467f73c41bba3c3cf8a3c38366,
+  0x3ccd1da3cc84473cc36c13cbe9473cb9bd93cb4e783cb01233cab3da3ca669e3ca196e3c9cc4b3c97f343c932293c8e52a3c898383c84b52,
+  0x3d1b19a3d163403d114f33d0c6b23d0787e3d02a573cfdc3c3cf8e2e3cf402c3cef2363cea44d3ce56703ce089f3cdbadb3cd6d243cd1f78,
+  0x3d69de93d64ec43d5ffad3d5b0a23d561a43d512b33d4c3cf3d474f83d4262d3d3d76f3d388bd3d33a183d2eb7f3d29cf33d24e743d20001,
+  0x3db96fc3db470a3daf7253daa74e3da57833da07c53d9b8133d9686f3d918d73d8c94d3d879cf3d82a5d3d7daf93d78ba23d73c573d6ed1a,
+  0x3e09d063e04c433dffb8e3dfaae63df5a4b3df09bd3deb93b3de68c73de185f3ddc8053dd77b83dd27773dcd7443dc871f3dc37063dbe6fa,
+  0x3e5b03b3e55ea43e50d1b3e4bb9f3e46a303e418cf3e3c77a3e376333e324f93e2d3cc3e282ad3e2319a3e1e0953e18f9d3e13eb33e0edd6,
+  0x3eac4093ea74c03ea24ef3e9d4a83e983fa3e932f43e8e1a63e890203e83e703e7eca63e79ace3e748f33e6f71d3e6a5513e653923e601e0,
+  0x3ef3f313ef00a73eec09b3ee7f1c3ee3c3a3edf8053edb28d3ed6be23ed24143ecdb323ec914c3ec46723ebfab43ebae223eb60ca3eb12bc,
+  0x3f227583f2097f3f1e9233f1c6523f1a11c3f179933f14fc63f123c73f0f5a43f0c56e3f093363f05f0b3f028fe3eff11e3efb77c3ef7c28,
+  0x3f287623f297543f2a4503f2ae583f2b56c3f2b98c3f2baba3f2b8f73f2b4433f2ac9f3f2a2103f2949b3f284493f271243f25b3a3f2429b,
+  0x3eff3913f033403f06fec3f0a9973f0e0423f113ee3f1449c3f1724c3f19cff3f1c4b63f1e9723f20b333f229fa3f245c73f25e9d3f2747b,
+  0x3ea5d1c3eacd543eb3a7d3eba4983ec0ba73ec6faa3ecd0a13ed2e8e3ed89723ede14d3ee36203ee87ec3eed6b13ef22703ef6b2a3efb0df,
+  0x3e1b73d3e258cd3e2f7403e3929a3e42ada3e4c0013e552113e5e1083e66cea3e6f5b53e77b6a3e7fe0b3e87d993e8fa143e9737c3e9e9d4,
+  0x3d5f4f83d6c8b03d799413d866aa3d930ec3d9f8083dabbfe3db7cd03dc3a7e3dcf5083ddac703de60b73df11dd3dfbfe33e06ac93e11292,
+  0x3c709233c80fd93c913593ca13a43cb10bb3cc0a9e3cd014e3cdf4cc3cee5183cfd2343d0bc213d1a2df3d2866f3d366d23d444093d51e16,
+  0x3b4e6583b620e43b7582c3b88c313b9bcf43baea763bc14b73bd3bb83be5f7a3bf7ffe3c09d453c1b7503c2ce203c3e1b63c4f2123c5ff36,
+  0x39f7ef23a0ee2e3a25a193a3c2b33a527fd3a689f73a7e8a43a944023aa9c143abf0db3ad42573ae908a3afdb743b123163b267723b3a888,
+  0x386c51838869e538a0b5138ba95f38d440e38edb613906f57391fff13938d3239517193969da839820e0399a0c039b1d4b39c968139e0c63,
+  0x36aaaad36c85ed36e5dbe3703223372031b373d0a83759aca377618337924d437ae4be37ca14137e5a5e3801016381c26b383715c3851ceb,
+  0x34b216134d33fc34f43193514ebb35356e23555b903575cc43595a8135b54c835d4b9935f3ef43612edc3631b503650451366e9e0368cbff,
+  0x3281aa132a658032cacd432ef09e33130df3336d97335a6c8337dc7333a0e9833c3d3933e68553408fef342b406344d49d346f1b33490b49,
+  0x309090830b825130df8033106a1e312d8a43154396317aaf331a0ebe31c6ef631ecb9d32124b43237a3c325cc35
+]
+noncomputable def Jg_b3_3 : List Nat := unpackHex16 28 525 [
+  0x1dd639f1dd3e821dd196c1dcf45b1dccf501dcaa4b1dc854c1dc60521dc3b5d1dc166e1dbf1851dbcca21dba7c41db82ec1db5e1a1db394e,
+  0x1dfb8801df93061df6d921df48241df22bc1defd591ded7fd1deb2a61de8d551de680a1de42c41de1d851ddf84b1ddd3171ddade91dd88c1,
+  0x1e2133e1e1ed651e1c7921e1a1c61e17c001e1563f1e130851e10ad11e0e5221e0bf7a1e099d71e0743a1e04ea31e029111e003861dfde00,
+  0x1e473f31e44dbb1e427891e4015d1e3db371e3b5171e38efc1e368e81e342d91e31cd11e2f6ce1e2d0d21e2aadb1e284eb1e25f011e2391c,
+  0x1e6daad1e6b4141e68d801e666f31e6406c1e619eb1e5f3701e5ccfb1e5a68c1e580241e559c11e533651e50d0f1e4e6bf1e4c0751e49a31,
+  0x1e947891e9208d1e8f9971e8d2a71e8abbd1e884da1e85dfd1e837261e810551e7e98b1e7c2c61e79c081e775501e74e9e1e727f21e7014d,
+  0x1ebba9e1eb933d1eb6be21eb448e1eb1d411eaf5f91eaceb81eaa77e1ea80491ea591c1ea31f41ea0ad31e9e3b81e9bca31e995941e96e8b,
+  0x1ee34061ee0c401ede4801edbcc61ed95131ed6d661ed45bf1ed1e201ecf6861eccef31eca7671ec7fe01ec58601ec30e61ec09721ebe205,
+  0x1f0b3d61f08ba81f063811f03b601f013461efeb331efc3261ef9b1f1ef731e1ef4b251ef23321eefb451eed35f1eeab7f1ee83a61ee5bd3,
+  0x1f33a291f311921f2e9021f2c0791f297f61f26f7a1f247041f21e961f1f62d1f1cdcb1f1a5701f17d1c1f154cd1f12c861f104451f0dc0a,
+  0x1f5c7121f59e111f575171f54c241f523381f4fa531f4d1741f4a89c1f47fca1f456ff1f42e3b1f4057d1f3dcc51f3b4141f38b6a1f362c6,
+  0x1f85aad1f831401f807db1f7de7c1f7b5241f78bd31f762881f739441f710071f6e6d11f6bda21f694791f66b571f6423c1f619271f5f019,
+  0x1faf51d1facb421faa16f1fa77a21fa4ddc1fa241e1f9fa651f9d0b41f9a7091f97d661f953c91f92a331f900a41f8d71c1f8ad9b1f88420,
+  0x1fd96791fd6c2f1fd41ed1fd17b11fced7c1fcc34e1fc99261fc6f061fc44ec1fc1ada1fbf0ce1fbc6ca1fb9ccc1fb72d61fb48e71fb1efe,
+  0x200324e2000aaa1ffe27b1ffb9d11ff90bc1ff674b1ff3d8c1ff138f1fee9641febf181fe94b91fe6a511fe3fe81fe15821fdeb231fdc0cb,
+  0x20231e32021b1920202cd201e90f201cded201b17820193bf20174d220154c0201339a201116d200ee4b200ca42200a5622007fb92005958,
+  0x2029f10202a8ce202b00d202b4db202b749202b767202b544202b0f2202aa80202a1fe202977d2028b0b2027cb82026c952025ab0202471b,
+  0x20088cf200bff5200f42d201257620153d32017f42201a7c6201cd5f201f00d2020fd22022cb220246b22025ddb202723720283d420292c2,
+  0x1fb851f1fbeb9a1fc4f1a1fcaf9f1fd0d2b1fd67be1fdbf591fe13fd1fe65ab1feb4641ff00271ff48f71ff8ed21ffd1bb20011b32004eb9,
+  0x1f385641f41bff1f4af911f5401c1f5cda11f658211f6df9d1f764141f7e5891f863fc1f8df6e1f957de1f9cd4f1fa3fc01faaf331fb1ba8,
+  0x1e87cf61e9447b1ea08eb1eaca491eb88931ec43cc1ecfbf31edb10a1ee63101ef12081efbdf11f066cc1f10c9b1f1af5d1f24f141f2ebc1,
+  0x1da5ef71db58371dc4e561dd41541de31331df1df21e007921e0ee151e1d17b1e2b1c51e38ef31e469061e540001e613e11e6e4aa1e7b25b,
+  0x1c91e561ca4a251cb72c41cc98361cdba7a1ced9911cff57d1d10e3d1d223d31d336401d445831d551a01d65a951d760641d8630e1d96294,
+  0x1b4add21b60d041b768f91b8c1b21ba17301bb69741bcb87f1be04511bf4ceb1c0924f1c1d47d1c313751c44f3a1c587cb1c6bd2b1c7ef59,
+  0x19cffe619e93541a023781a1b0521a339e41a4c02d1a643301a7c2ec1a93f631aab8961ac2e861ada1331af109f1b07cca1b1e5b61b34b63,
+  0x18206d2183cf5b185948c187566518914e718ad01418c87eb18e3c6e18fed9f1919b7d193460a194ed47196913519831d4199cf2719b692c,
+  0x163b4a0165b321167ae3e169a5f516b9a4816d8b3716f78c417162ee17349b81752d221770d2d178e9da17ac32917c991c17e6bb41803af0,
+  0x1424bfd144749c1469aee148bef414ae0ae14d001d14f1d411513819153509f15566c31577a6e1598b8215b99d815da54415fad9d161b2c4,
+  0x11ec01d12103551234560125863e127c5ef12a047212c41bf12e7dc7130b874132f1a413529311375eee13992b313bc45f13df3d91402110,
+  0xfa10ae0fc5ea40feac91100fa74103484610595f7107e36f10a308f10c7d2e10ec920111143b1135e5e115a770117ef5f11a362211c7bb6,
+  0xd543330d78baa0d9d53b0dc1fd60de6b640e0b7c30e304cc0e552500e7a0260e9ee2d0ec3c490ee8a6a0f0d8870f3269d0f574aa0f7c2b0,
+  0xb163200b3955c0b5c9be0b800240ba38640bc72520beadc30c0ea940c328aa0c567f40c7a8680c9ea020cc2cc20ce70a70d0b5b10d2fbe0,
+  0x95aaaf097be0d099d40209bec7409e07500a0248d0a244260a4661a0a68a690a8b1120aada150ad05700af3321
+]
+noncomputable def Jg_b3_4 : List Nat := unpackHex16 24 525 [
+  0xb47485b46616b457aab44941b43ad9b42c74b41e11b40fb0b40152b3f2f5b3e49bb3d644b3c7eeb3b99cb3ab4bb39cfc,
+  0xb55ca4b54e11b53f80b530f1b52265b513dbb50553b4f6ceb4e84ab4d9cab4cb4bb4bccfb4ae55b49fddb49168b482f5,
+  0xb6471db63864b629adb61af8b60c46b5fd96b5eee9b5e03eb5d195b5c2eeb5b44ab5a5a8b59709b5886cb579d2b56b3a,
+  0xb733f9b72519b7163bb70760b6f887b6e9b1b6daddb6cc0cb6bd3eb6ae71b69fa7b690e0b6821ab67357b66497b655d9,
+  0xb82340b8143ab80535b7f634b7e734b7d837b7c93cb7ba44b7ab4fb79c5cb78d6bb77e7db76f91b760a7b751c0b742db,
+  0xb914feb905d0b8f6a4b8e77ab8d854b8c92fb8ba0db8aaedb89bd0b88cb5b87d9db86e87b85f74b85064b84155b8324a,
+  0xba0939b9f9e3b9ea8fb9db3db9cbeeb9bca1b9ad57b99e10b98ecbb97f88b97049b9610bb951d0b94298b93362b9242f,
+  0xbafff7baf078bae0fcbad182bac20bbab297baa324ba93b5ba8448ba74ddba6575ba560fba46acba374cba27eeba1893,
+  0xbbf948bbe9a0bbd9fabbca56bbbab6bbab17bb9b7cbb8be3bb7c4dbb6cb9bb5d28bb4d99bb3e0dbb2e84bb1efdbb0f79,
+  0xbcf535bce563bcd593bcc5c6bcb5fbbca634bc966ebc86acbc76ebbc672ebc5773bc47bbbc3805bc2852bc18a1bc08f4,
+  0xbdf3cabde3cdbdd3d2bdc3dabdb3e5bda3f2bd9402bd8414bd7429bd6441bd545cbd4479bd3499bd24bcbd14e2bd050a,
+  0xbee8b8bedb99becdeebebfc6beb12fbea23abe92f4be836dbe73b4be63d7be53e3be43e1be33dabe23d3be13cdbe03ca,
+  0xbf3fc0bf4378bf45b0bf4678bf45ddbf43f1bf40c2bf3c60bf36dabf303fbf289ebf2007bf1689bf0c33bf0114bef53b,
+  0xbe06c5be2abfbe4c40be6b57be8813bea285bebabdbed0c9bee4babef6a0bf0689bf1487bf20a8bf2afbbf3391bf3a78,
+  0xba50c3baa1a9baefa9bb3ac3bb82f7bbc847bc0ab4bc4a3dbc86e4bcc0aabcf793bd2ba3bd5ce5bd8b61bdb726bde042,
+  0xb3b56fb43527b4b1ebb52bbeb5a29fb6168fb68790b6f5a2b760c7b7c8fdb82e48b890a6b8f018b94ca1b9a63fb9fcf5,
+  0xaa265daad5adab81feac2b51acd1a6ad74feae155aaeb2bbaf4d22afe48eb07901b10a7cb19900b2248cb2ad22b332c3,
+  0x9d970b9e76bc9f5363a02d00a10392a1d71ba2a79ba37513a43f84a506eea5cb53a68cb2a74b0da80664a8beb9a9740b,
+  0x8e472e8f4bf8904ec3914f8f924e5c934b2a9445fb953ecc963597972a4d981cd8990d1c99faf29ae6319bceb39cb459,
+  0x7d1eb17e39c77f53f0806d2a818578829cd783b33f84c8a185dce986eff68801a48911c88a203b8b2cdf8c379d8d4064,
+  0x6b115e6c33a16d560c6e78a06f9b5370be1871e0d77303727425c275479e7668dd77896078a91079c7dc7ae5bb7c02ad,
+  0x590aec5a289b5b46d05c65875d84b85ea45a5fc45e60e4b862055963263764474a65688c6689fa67ab9368cd5769ef46,
+  0x47841e48959e49a8864abcc34bd2334ce8ac4e00064f18205030e2514a3a526421537e9354999055b51756d12957edc5,
+  0x370d37380bc5390bed3a0d843b10603c14613d196e3e1f773f2671402e5d41373d42411c434c0a44581b45656946740e,
+  0x28287629096f29ec1d2ad0692bb6492c9dc22d86e52e71cc2f5e91304d49313e033230ca3325a3341c8c35157f36106a,
+  0x1b51b01c0c6f1cc9bc1d89911e4be91f10c41fd82020a1fb216e57223d30230e8723e25924b89e259145266c37274955,
+  0x11218311aeb7123edc12d1f11367f51400e7149cc7153b9315dd4a1681ec17297417d3de18812119313319e4051a9989,
+  0x9d2860a34220a97fd0afe220b66a00bd18c0c3f000caf190d21f20d97a00e10320e8bb40f0a290f8b92100ff0109740,
+  0x4e8ff0526d00566d205a90f05ed8c06344a067d4806c8860716030765bf07b7b8080bf008626308bb130915ff097325,
+  0x1fa05021d5502422a02688402906202b9c402e4a9031111033efb036e68039f5e03d1e7040612043bf40473a904ad4f,
+  0x86dc00958e00a50a00b55b00c69200d8c400ec0c010088011654012d8501462d016055017c0401993a01b7f701d83b,
+  0x49b000706000a26000e060012ac001819001e4c002546002d0700358e003edb0048ee0053c7005f65006bc80078f0,
+  0x200000a00002400005f0000d300019a0002d4
+]
+noncomputable def Jg_b3_5 : List Nat := unpackHex16 24 525 [
+  0x1c6bca1c69741c671f1c64cb1c62761c60221c5dcf1c5b7c1c59291c56d71c54851c52331c4fe21c4d921c4b411c48f1,
+  0x1c91511c8ef61c8c9b1c8a401c87e61c858c1c83321c80d91c7e811c7c281c79d11c777a1c75231c72cc1c70761c6e20,
+  0x1cb73e1cb4dd1cb27b1cb01a1cadba1cab5a1ca8fa1ca69a1ca43b1ca1dc1c9f7e1c9d201c9ac31c98661c96091c93ad,
+  0x1cdd911cdb291cd8c11cd65a1cd3f31cd18d1ccf261cccc01cca5b1cc7f61cc5911cc32d1cc0c91cbe661cbc031cb9a1,
+  0x1d044a1d01dc1cff6e1cfd001cfa921cf8261cf5b91cf34d1cf0e21cee761cec0b1ce9a11ce7371ce4cd1ce2631cdffa,
+  0x1d2b6a1d28f51d26811d240d1d21991d1f251d1cb21d1a401d17cd1d155c1d12ea1d10791d0e081d0b981d09281d06b9,
+  0x1d52f51d50791d4dfe1d4b831d49081d468e1d44151d419b1d3f221d3ca91d3a311d37b91d35421d32cb1d30551d2de0,
+  0x1d7aea1d78671d75e51d73631d70e21d6e611d6be11d69611d66e11d64621d61e41d5f661d5ce81d5a6b1d57ee1d5571,
+  0x1d972b1d979c1d97841d96ee1d95ea1d94851d92d01d90d91d8eae1d8c5d1d89f31d877a1d84f91d82751d7ff11d7d6d,
+  0x1d51781d5aa21d62b01d69bb1d6fdf1d75401d7a051d7e551d82521d860f1d89951d8cdf1d8fdc1d92751d94931d9627,
+  0x1c27191c41181c59fc1c71e11c88d91c9ef31cb4381cc8a81cdc3c1ceee51d00901d11211d20831d2ea61d3b851d471d,
+  0x19b6cb19e80c1a18381a474c1a75431aa20d1acd961af7c01b20671b47631b6c981b8ff61bb17d1bd13d1bef511c0be3,
+  0x16151916560b16963a16d5a117143b1751fd178edb17cac71805b7183f9f18787818b03d18e6ec191c85195108198474,
+  0x11a94511f303123cd012869712d03b13199113627613aaca13f27714396c147fa314c5181509cd154dc11590f415d367,
+  0xcf6f40d43690d90160ddcd00e29720e75dc0ec1f80f0db60f590e0fa4000fee8e1038c41082b110cc69111604115f9d,
+  0x8745308b9bd08ff7109455a098b7109d1b80a18420a5f270aa6810aee640b36df0b7ffd0bc9c30c14300c5f3d0caadb,
+  0x4915804c7da04ff710538150571c405ac7d05e83f06250a0662de06a1b906e19b07228407646a07a73f07eaed082f56,
+  0x1d93b01fa41021cb40240930265dc028c9002b4ae02de3703092903358303634303926403c2de03f4a70427b3045bf2,
+  0x7e1c008bd9009a5400a99700b9b000cab400dcbc00efe40104470119f701310601497d016361017eb3019b7301b9a0,
+  0x44f00069200097e000d1d001175001688001c540022da002a1a003213003ac6004432004e560059340064c9007116,
+  0x20000090000210000590000c60001800002a5,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0,
+  0x0
+]
+noncomputable def Jc_b3 : List Nat := unpackHex16 20 525 [
+  0x4fa294f8804f6d64f52a4f37c4f1cc4f01a4ee674ecb14eafa4e9404e7854e5c74e4084e2474e083,
+  0x513a45121b5109150f0450d7550be550a52508be507275058e503f350256500b84ff174fd744fbcf,
+  0x52b12529ab52841526d652569523f9522875211451f9e51e2651cac51b2f519b151831516ae5152a,
+  0x5405b53f1853dd253c8953b3f539f2538a353752535fe534a953350531f65309952f3b52dda52c77,
+  0x5536a5524b551295500554ede54db554c8a54b5c54a2c548fa547c55468e545555441a542dd5419d,
+  0x56422563285622c5612d5602c55f2955e2355d1b55c1055b04559f5558e3557d0556ba555a255487,
+  0x5726d5719a570c656fef56f1556e3956d5b56c7a56b9656ab0569c8568dd567f0567005660e56519,
+  0x57e4c57da057cf157c4057b8c57ad657a1e57964578a7577e857727576635759d574d45740a5733c,
+  0x587e45875a586ce58641585b15851f5848b583f55835d582c25822658187580e75804457f9e57ef6,
+  0x58f5f58ef658e8c58e1f58db158d4058cce58c5a58be358b6b58af058a74589f558974588f15886b,
+  0x594ea5949f5945259404593b4593625930e592b95926159207591ac5914f590ef5908e5902b58fc6,
+  0x598a8598795984859815597e1597ab597745973a59700596c3596855964459603595bf5957a59532,
+  0x59ac359aad59a9659a7d59a6359a4759a2959a0a599e9599c7599a35997d599555992c59902598d6,
+  0x59b6459b6559b6459b6259b5f59b5959b5359b4b59b4159b3659b2a59b1c59b0d59afd59aeb59ad8,
+  0x59aad59ac259ad559ae859af959b0859b1759b2459b3059b3b59b4459b4d59b5459b5a59b5f59b62,
+  0x598c4598eb5991159936599595997c5999d599bd599dd599fb59a1859a3459a4e59a6859a8059a97,
+  0x595d0596065963c59670596a4596d759708597395976959798597c6597f25981e59849598735989c,
+  0x591f05923459277592b9592fb5933b5937b593bb593f95943759474594b1594ec595265956059598,
+  0x58d4958d9858de758e3658e8358ed158f1d58f6958fb458ffe5904859091590d95912059166591ab,
+  0x587ff58858588b0589085895f589b658a0c58a6258ab758b0b58b5f58bb258c0558c5758ca858cf9,
+  0x5822f58290582ef5834f583ae5840c5846a584c85852558582585df5863a58696586f15874b587a5,
+  0x57bfd57c6357cc857d2d57d9257df757e5b57ebf57f2257f8557fe85804a580ac5810d5816e581cf,
+  0x5758a575f35765b576c45772c57794577fc57863578ca5793157998579ff57a6557acb57b3157b97,
+  0x56ef156f5b56fc45702e57098571025716b571d55723e572a8573115737b573e55744e574b757521,
+  0x56852568bb569255698e569f856a6256acc56b3656ba056c0a56c7456cde56d4856db256e1d56e87,
+  0x561c15622956292562fb56364563cc564355649e5650756570565d956643566ac567155677f567e8,
+  0x55b4055ba855c0f55c7755cdf55d4755daf55e1755e7f55ee755f4f55fb75601f56088560f056158,
+  0x554cf555365559c556035566a556d1557385579f558065586d558d45593b559a255a0a55a7155ad9,
+  0x54e6d54ed354f3954f9f550045506a550d0551365519c5520255269552cf553355539c5540255469,
+  0x5481b54880548e554949549ae54a1354a7854add54b4254ba854c0d54c7254cd754d3d54da254e08,
+  0x541d85423b5429f5430354367543cb5442f54493544f75455c545c05462454689546ed54752547b6,
+  0x53ba353c0653c6953ccc53d2f53d9253df553e5853ebc53f1f53f8253fe654049540ad5411054174,
+  0x536a35370553767537ca5382c5388e538f153953539b653a1853a7b53ade53b40
+]
+noncomputable def Jw_b3 : List Nat := unpackHex16 20 524 [
+  0x4fbcf4fa294f8804f6d64f52a4f37c4f1cc4f01a4ee674ecb14eafa4e9404e7854e5c74e4084e247,
+  0x5152a513a45121b5109150f0450d7550be550a52508be507275058e503f350256500b84ff174fd74,
+  0x52c7752b12529ab52841526d652569523f9522875211451f9e51e2651cac51b2f519b151831516ae,
+  0x5419d5405b53f1853dd253c8953b3f539f2538a353752535fe534a953350531f65309952f3b52dda,
+  0x554875536a5524b551295500554ede54db554c8a54b5c54a2c548fa547c55468e545555441a542dd,
+  0x5651956422563285622c5612d5602c55f2955e2355d1b55c1055b04559f5558e3557d0556ba555a2,
+  0x5733c5726d5719a570c656fef56f1556e3956d5b56c7a56b9656ab0569c8568dd567f0567005660e,
+  0x57ef657e4c57da057cf157c4057b8c57ad657a1e57964578a7577e857727576635759d574d45740a,
+  0x5886b587e45875a586ce58641585b15851f5848b583f55835d582c25822658187580e75804457f9e,
+  0x58fc658f5f58ef658e8c58e1f58db158d4058cce58c5a58be358b6b58af058a74589f558974588f1,
+  0x59532594ea5949f5945259404593b4593625930e592b95926159207591ac5914f590ef5908e5902b,
+  0x598d6598a8598795984859815597e1597ab597745973a59700596c3596855964459603595bf5957a,
+  0x59ad859ac359aad59a9659a7d59a6359a4759a2959a0a599e9599c7599a35997d599555992c59902,
+  0x59b6459b6559b6559b6459b6259b5f59b5959b5359b4b59b4159b3659b2a59b1c59b0d59afd59aeb,
+  0x59aad59ac259ad559ae859af959b0859b1759b2459b3059b3b59b4459b4d59b5459b5a59b5f59b62,
+  0x598c4598eb5991159936599595997c5999d599bd599dd599fb59a1859a3459a4e59a6859a8059a97,
+  0x595d0596065963c59670596a4596d759708597395976959798597c6597f25981e59849598735989c,
+  0x591f05923459277592b9592fb5933b5937b593bb593f95943759474594b1594ec595265956059598,
+  0x58d4958d9858de758e3658e8358ed158f1d58f6958fb458ffe5904859091590d95912059166591ab,
+  0x587ff58858588b0589085895f589b658a0c58a6258ab758b0b58b5f58bb258c0558c5758ca858cf9,
+  0x5822f58290582ef5834f583ae5840c5846a584c85852558582585df5863a58696586f15874b587a5,
+  0x57bfd57c6357cc857d2d57d9257df757e5b57ebf57f2257f8557fe85804a580ac5810d5816e581cf,
+  0x5758a575f35765b576c45772c57794577fc57863578ca5793157998579ff57a6557acb57b3157b97,
+  0x56ef156f5b56fc45702e57098571025716b571d55723e572a8573115737b573e55744e574b757521,
+  0x56852568bb569255698e569f856a6256acc56b3656ba056c0a56c7456cde56d4856db256e1d56e87,
+  0x561c15622956292562fb56364563cc564355649e5650756570565d956643566ac567155677f567e8,
+  0x55b4055ba855c0f55c7755cdf55d4755daf55e1755e7f55ee755f4f55fb75601f56088560f056158,
+  0x554cf555365559c556035566a556d1557385579f558065586d558d45593b559a255a0a55a7155ad9,
+  0x54e6d54ed354f3954f9f550045506a550d0551365519c5520255269552cf553355539c5540255469,
+  0x5481b54880548e554949549ae54a1354a7854add54b4254ba854c0d54c7254cd754d3d54da254e08,
+  0x541d85423b5429f5430354367543cb5442f54493544f75455c545c05462454689546ed54752547b6,
+  0x53ba353c0653c6953ccc53d2f53d9253df553e5853ebc53f1f53f8253fe654049540ad5411054174,
+  0x5370553767537ca5382c5388e538f153953539b653a1853a7b53ade53b40
+]
+
+/-! #### Band b4: [2.12140, 2.14282] (M2=16, s=3, mult=1, Nphi=23) -/
+def phi0_b4 : Nat := 4196719572
+def t0_b4 : Nat := 2615336052
+noncomputable def Bdry_b4_8 : List Nat := unpackHex16 24 137 [
+  0x236be1235c81234d2e233de6232eae231f8123106323014f22f24b22e35122d46722c58622b6b622a7f0229937228a89,
+  0x2469462459032448d52438b124289a24189424089b23f8b223e8d623d90623c94723b99323a9ee239a56238acc237b52,
+  0x25753c25640b2552e62541d52530d0251fdc250ef724fe2124ed5b24dca424cbfc24bb6424aad9249a5d2489f3247994,
+  0x269115267ed8266caf265a9726488f2636972624b12612dc26011725ef6225ddc125cc2b25baa825a9362597d325867f,
+  0x27be4127aae327979b27846327713f275e2d274b2e27384127256627129f26ffe826ed4326dab026c82e26b5bf26a362,
+  0x28f57328e81228d50728c0b628ac7a289831288400286fe2285bd62847df2833fc28202c280c6f27f8c527e53027d1af,
+  0x267d7b26d50627261427708327b48027f21828293d2859ea28844128a81828c5a628dd0728ee3628f93f28fe2928fcd6,
+  0x1d5b261e226b1ee27a1f9b62204d0220f761219acf22371122cc2e235a6223e18e2461b624db2a254dc325b9b1261eff,
+  0x15087c1613a31716f71812c81906ed19f39c1ad8e21bb68e1c8c79
+]
+noncomputable def Jg_b4_0 : List Nat := unpackHex16 32 90 [
+  0x112f69ed112806de1120aa2b111953c7111203af110ab9d31103763510fc38c510f5017c10edd05710e6a54a10df804a10d8615810d1486210ca356710c3285d,
+  0x11a9153411a14802119981c01191c254118a09b6118257e2117aaccf1173087c116b6ad51163d3cd115c43681154b990114d36471145b982113e43351136d35d,
+  0x1229af0e12216e961219359d1211041e1208da031200b74b11f89be811f087ce11e87afa11e0756011d876f311d07faf11c88f8111c0a66711b8c45d11b0e94d,
+  0x12b1d39a12a9158812a05fa41297b1e5128f0c4112866ea4127dd90012754b50126cc58c1264479f125bd19012536343124afcb512429ddf123a46ad1231f714,
+  0x133e12f813362b9a132df32513257738131cc5731313eb5e130af6761301f3e312f8eeda12efee9d12e6f63812de063112d51e9012cc3f5312c3687312ba99e5,
+  0x136f948e136de3e1136b52ad1367efe01363ca1e135eeff613596fd613535824134cb74213459b7f
+]
+noncomputable def Jg_b4_1 : List Nat := unpackHex16 28 90 [
+  0x2f6306b2f4d3782f377c42f21d502f0c41a2ef6c202ee15602ecbfd82eb6b872ea186b2e8c6842e775cd2e626472e4d7f12e38ac82e23ecb,
+  0x30cafd730b3ddd309cd423085e04306f02230583973041862302ae8330145f82ffdebd2fe78d22fd14352fbb0e32fa4edb2f8ee1b2f78ea0,
+  0x3248ed532306ba3217f7331ff98931e750e31cf20e31b7084319f06e31871ca316f49631578d3313fe7c31285903110e0d30f97ee30e2331,
+  0x3288e1932aa8be32c369b32d3c7232dc9e532df77732de52532daeeb32d5f0032ceb9f32c440332b602332a440b328fb0932791cc32614d5,
+  0x2be35822c93af32d3bda92ddbe152e73c732f033ac2f8935a3003f8f3071fd730d312d3128915317484531b8a9831f6335322daf0325ee59,
+  0x237801d246b9f925594952640e2927226dd27fdf0c28d357e29a25642a6a5f72b2ad94
+]
+noncomputable def Jc_b4 : List Nat := unpackHex16 20 90 [
+  0x5a2d95a2d25a29e5a23a5a1a45a0d859fd259e8f59d0e59b4e5994c597075947b591a458e7f58b08,
+  0x58e715909a592ac594a2596775982a599bd59b3559c9559dde59f0e5a0215a10f5a1cf5a25b5a2b3,
+  0x567da56a5256ccd56f49571c95744a576cc5794e57bce57e46580b6583185856e587b8589fb58c39,
+  0x54180543d65462e5488754ae354d4154fa15520455468556cf5593755ba255e0f5607f562f056564,
+  0x51d3951f6f521a7523e05261c5285952a9952cda52f1d53163533aa535f35383f53a8c53cdb53f2d,
+  0x50787509ab50bcf50df65101f5124951475516a4518d451b06
+]
+noncomputable def Jw_b4 : List Nat := unpackHex16 20 89 [
+  0x5a2d95a2d95a2d25a29e5a23a5a1a45a0d859fd259e8f59d0e59b4e5994c597075947b591a458e7f,
+  0x58e715909a592ac594a2596775982a599bd59b3559c9559dde59f0e5a0215a10f5a1cf5a25b5a2b3,
+  0x567da56a5256ccd56f49571c95744a576cc5794e57bce57e46580b6583185856e587b8589fb58c39,
+  0x54180543d65462e5488754ae354d4154fa15520455468556cf5593755ba255e0f5607f562f056564,
+  0x51d3951f6f521a7523e05261c5285952a9952cda52f1d53163533aa535f35383f53a8c53cdb53f2d,
+  0x509ab50bcf50df65101f5124951475516a4518d451b06
+]
+
+/-! #### Band b5: [2.14282, 2.28813] (M2=8, s=2, mult=4, Nphi=13) -/
+def phi0_b5 : Nat := 4239100752
+def t0_b5 : Nat := 2657717232
+noncomputable def Jg_b5_0 : List Nat := unpackHex16 32 75 [
+  0x10bffcd410ae125f109c4e24108aafad107936921067e24b1056b26b1045a6771034bdf91023f89e101355dd1002d5620ff276c20fe2397f0fd21d3f0fc221a6,
+  0x11f49e1211e0077511cb9ff611b766f411a35bc6118f7dd9117bcc9c1168476e1154edc21141bf12112ebaca111be04911092f1910f6a6b010e4467b10d20e03,
+  0x135941aa134159441329abd21312388412fafe7412e3fcde12cd32ec12b69fe212a042ec128a1b4812742827125e68ee1248dcd81233832e121e5b4912096477,
+  0x14fa12c714ddf8df14c22a1014a6a524148b6904147074931455c6ab143b5e3b14213a3e140759a913edbb7513d45ea213bb423913a265391389c6c2137165e2,
+  0x162abe571617069415ff474515e425d015c6fa9b15a9087c158b202c156d810f15502f4315332cbe151678f8
+]
+noncomputable def Jc_b5 : List Nat := unpackHex16 20 75 [
+  0x54269549625506e5578c55ebe5660356d5c574c957c4a583e058b885933259aaa5a19c5a7b05acbc,
+  0x4dbe84e1da4e7db4edea4f4094fa3750075506c250d205138d51a0c5209b5273a52dec534ae53b83,
+  0x483ef4891148e3e49377498bc49e0e4a36c4a8d64ae4e4b3d24b9634bf014c4ad4ca674d02e4d604,
+  0x4379c43c154409844524449ba44e5a45304457b845c77461404661446af246fdb474cf479ce47ed9,
+  0x408bd40cd5410f54151d4194e41d87421c94261442a6942ec64332c
+]
+noncomputable def Jw_b5 : List Nat := unpackHex16 20 71 [
+  0x54269549625506e5578c55ebe5660356d5c574c957c4a583e058b885933259aaa5a19c5a7b05acbc,
+  0x4dbe84e1da4e7db4edea4f4094fa3750075506c250d205138d51a0c5209b5273a52dec534ae53b83,
+  0x483ef4891148e3e49377498bc49e0e4a36c4a8d64ae4e4b3d24b9634bf014c4ad4ca674d02e4d604,
+  0x4379c43c154409844524449ba44e5a45304457b845c77461404661446af246fdb474cf479ce47ed9,
+  0x4194e41d87421c94261442a6942ec64332c
+]
+
+
+end R0J19Cert
+
+

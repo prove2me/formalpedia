@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_UniqueWordParameters_four_mul_square_le_pow
 -- name    : DeletionCode.UniqueWordParameters.four_mul_square_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:35.223194+00:00
 -- url     : https://prove2.me/theorems/de8e91c3-dfcb-4f66-80fa-fc730a232741

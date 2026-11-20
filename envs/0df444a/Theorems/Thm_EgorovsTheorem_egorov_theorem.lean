@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EgorovsTheorem_egorov_theorem
 -- name    : EgorovsTheorem.egorov_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T19:07:17.767645+00:00
 -- url     : https://prove2.me/theorems/50e25481-272e-4d02-9397-9b13f535b1c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_WitnessCost_size_le_cube
 -- name    : DeletionCode.WitnessCost.size_le_cube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:45:28.160095+00:00
 -- url     : https://prove2.me/theorems/33109148-efea-4a1e-916b-2d1e0a70d1d3

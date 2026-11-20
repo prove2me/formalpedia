@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CanonicalIndex_group_fiber_card
 -- name    : DeletionCode.CanonicalIndex.group_fiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:21:15.4282+00:00
 -- url     : https://prove2.me/theorems/bbfb44a1-c824-48b8-b3f9-039cfdc0fa60

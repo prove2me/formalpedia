@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianLevyExponent
 -- name    : Kyprianou.Ch01.inverseGaussianLevyExponent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:21:01.175253+00:00
 -- url     : https://prove2.me/theorems/d7051c2e-e8a2-47ca-aed4-3b5b7c1c5917

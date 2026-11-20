@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpreadMatchCircuit_Matching_Supplement_theorem_9
 -- name    : SpreadMatchCircuit.Matching.Supplement.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:34:54.800004+00:00
 -- url     : https://prove2.me/theorems/477057be-99a3-49b8-8fe9-2b9e5eecdb1d

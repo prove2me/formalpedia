@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSDensity1246_Main_spanning_lemma
 -- name    : DSDensity1246.Main.spanning_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T16:11:08.801893+00:00
 -- url     : https://prove2.me/theorems/7d949649-0ea8-4c7c-bac6-1aed3d7d04be

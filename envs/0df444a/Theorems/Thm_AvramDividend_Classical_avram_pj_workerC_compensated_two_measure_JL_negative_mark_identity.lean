@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_pj_workerC_compensated_two_measure_JL_negative_mark_identity
 -- name    : AvramDividend.Classical.avram_pj_workerC_compensated_two_measure_JL_negative_mark_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:47:04.7817+00:00
 -- url     : https://prove2.me/theorems/464d0c7d-4dfc-452d-a258-17bd7186b87e

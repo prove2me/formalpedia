@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianJumpExponentValue
 -- name    : Kyprianou.Ch01.inverseGaussianJumpExponentValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:37:45.717018+00:00
 -- url     : https://prove2.me/theorems/ddaa0f7b-76c6-4317-ae20-dea01034b612

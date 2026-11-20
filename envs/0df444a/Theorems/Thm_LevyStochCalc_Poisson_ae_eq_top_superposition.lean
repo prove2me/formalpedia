@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_ae_eq_top_superposition
 -- name    : LevyStochCalc.Poisson.ae_eq_top_superposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:22:30.680692+00:00
 -- url     : https://prove2.me/theorems/6f01bead-30ea-4573-807c-8b0d0eb16e70

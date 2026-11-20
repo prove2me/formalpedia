@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeHamiltonianLocality_source_even_hamiltonian
 -- name    : QEC.Coding.BDL26NativeHamiltonianLocality.source_even_hamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:45:47.341907+00:00
 -- url     : https://prove2.me/theorems/ae86b769-3f8c-4e77-ba12-a7056af3202d

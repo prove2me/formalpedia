@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_ComponentFibers_component_count_bound
 -- name    : DeletionCode.ComponentFibers.component_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:24:50.848303+00:00
 -- url     : https://prove2.me/theorems/9b75946b-4bfc-43e8-8cb0-5fdae0b4515b

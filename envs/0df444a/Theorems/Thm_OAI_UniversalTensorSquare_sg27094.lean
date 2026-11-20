@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg27094
 -- name    : OAI.UniversalTensorSquare.sg27094
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T05:56:18.326314+00:00
 -- url     : https://prove2.me/theorems/2b6b6808-69af-4af3-a276-05fa26302b2f

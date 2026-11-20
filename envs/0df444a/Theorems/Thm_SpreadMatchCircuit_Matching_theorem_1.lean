@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpreadMatchCircuit_Matching_theorem_1
 -- name    : SpreadMatchCircuit.Matching.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:26:29.205303+00:00
 -- url     : https://prove2.me/theorems/dd1f7a72-aea8-4760-b7a8-41bb9da1f6db

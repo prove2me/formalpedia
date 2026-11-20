@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_substring_edit_codes
 -- name    : DeletionHash.MixedEdit.substring_edit_codes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:41:59.06709+00:00
 -- url     : https://prove2.me/theorems/b1af5f0c-6ae3-4314-8674-37659876463d

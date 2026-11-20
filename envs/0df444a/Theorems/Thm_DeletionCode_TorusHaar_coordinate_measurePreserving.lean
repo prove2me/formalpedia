@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_TorusHaar_coordinate_measurePreserving
 -- name    : DeletionCode.TorusHaar.coordinate_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:42:46.442084+00:00
 -- url     : https://prove2.me/theorems/9add7e90-1746-47aa-a387-b9fe0e6c07d9

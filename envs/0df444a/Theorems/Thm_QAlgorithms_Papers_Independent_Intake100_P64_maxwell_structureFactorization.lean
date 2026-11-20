@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_maxwell_structureFactorization
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.maxwell_structureFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:31:09.031087+00:00
 -- url     : https://prove2.me/theorems/1f2eb2e5-0cee-43ae-959a-d166e27d3f70

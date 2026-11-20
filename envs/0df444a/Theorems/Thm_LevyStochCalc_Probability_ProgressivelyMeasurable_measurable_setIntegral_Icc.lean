@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_ProgressivelyMeasurable_measurable_setIntegral_Icc
 -- name    : LevyStochCalc.Probability.ProgressivelyMeasurable.measurable_setIntegral_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:36:37.68583+00:00
 -- url     : https://prove2.me/theorems/e3378254-798e-48ff-a1f7-2eceefd2d6d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PulseSyncLowerBound_Pulse_theorem_2
 -- name    : PulseSyncLowerBound.Pulse.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:00:42.004292+00:00
 -- url     : https://prove2.me/theorems/4b0f362c-a63c-4d1e-8f90-7ef8ffdf93b1

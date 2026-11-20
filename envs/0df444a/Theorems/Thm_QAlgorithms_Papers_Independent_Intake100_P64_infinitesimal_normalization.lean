@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_infinitesimal_normalization
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.infinitesimal_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:17:44.369238+00:00
 -- url     : https://prove2.me/theorems/f6ecef50-8866-4bba-ad21-233d4bda3e6b

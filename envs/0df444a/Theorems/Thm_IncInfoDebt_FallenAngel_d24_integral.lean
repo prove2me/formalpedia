@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncInfoDebt_FallenAngel_d24_integral
 -- name    : IncInfoDebt.FallenAngel.d24_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:18:18.045837+00:00
 -- url     : https://prove2.me/theorems/3fdf8eae-464d-4142-a342-9a7769fadd4d

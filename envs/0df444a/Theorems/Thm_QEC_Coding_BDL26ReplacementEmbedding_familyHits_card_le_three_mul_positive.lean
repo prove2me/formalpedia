@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26ReplacementEmbedding_familyHits_card_le_three_mul_positive
 -- name    : QEC.Coding.BDL26ReplacementEmbedding.familyHits_card_le_three_mul_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-07T13:48:33.70441+00:00
 -- url     : https://prove2.me/theorems/af55ae3e-0922-4a05-b45c-e30f931d895a

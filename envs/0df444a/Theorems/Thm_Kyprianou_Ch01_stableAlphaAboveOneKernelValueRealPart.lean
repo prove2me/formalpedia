@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableAlphaAboveOneKernelValueRealPart
 -- name    : Kyprianou.Ch01.stableAlphaAboveOneKernelValueRealPart
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:54:17.486353+00:00
 -- url     : https://prove2.me/theorems/2f2fc2b0-0806-4405-96f1-90d60e033f4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_quantum_structureRepresentation
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.quantum_structureRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:32:31.55132+00:00
 -- url     : https://prove2.me/theorems/317232be-5ff5-48c7-a478-b98d81f1d1e6

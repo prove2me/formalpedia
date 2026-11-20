@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AugLagLLC_Feas_caratheodory_cones
 -- name    : AugLagLLC.Feas.caratheodory_cones
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:36:24.701573+00:00
 -- url     : https://prove2.me/theorems/b7ad25d5-af32-4b02-9936-31225b8d6c8c

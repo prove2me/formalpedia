@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelatedSchedFPTAS796_Main_lemma_6_10
 -- name    : RelatedSchedFPTAS796.Main.lemma_6_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:11:21.376205+00:00
 -- url     : https://prove2.me/theorems/3b40b7fa-498f-42cf-b824-bff62a2adb29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_TaggedAnchorCount_bad_record_card_le
 -- name    : DeletionCode.TaggedAnchorCount.bad_record_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:45:46.268787+00:00
 -- url     : https://prove2.me/theorems/b43748d8-159a-4e26-be3f-a56bb04327ae

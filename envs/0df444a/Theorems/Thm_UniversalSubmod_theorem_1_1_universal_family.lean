@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalSubmod_theorem_1_1_universal_family
 -- name    : UniversalSubmod.theorem_1_1_universal_family
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:51:41.743222+00:00
 -- url     : https://prove2.me/theorems/49b4145a-33b1-4614-a6d0-8a9fbdaee9be

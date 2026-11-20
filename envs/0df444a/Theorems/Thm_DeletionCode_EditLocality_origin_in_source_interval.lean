@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditLocality_origin_in_source_interval
 -- name    : DeletionCode.EditLocality.origin_in_source_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:39:17.558814+00:00
 -- url     : https://prove2.me/theorems/668b612e-a7f9-44e4-a4c7-e258c00fd6f6

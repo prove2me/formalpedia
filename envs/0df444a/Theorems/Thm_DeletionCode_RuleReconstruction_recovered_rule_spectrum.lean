@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RuleReconstruction_recovered_rule_spectrum
 -- name    : DeletionCode.RuleReconstruction.recovered_rule_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:19:15.661878+00:00
 -- url     : https://prove2.me/theorems/bd67789d-d9b7-4e87-90e3-1b48d544aa51

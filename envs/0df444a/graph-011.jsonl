@@ -3719,8 +3719,8 @@
 {"parent": "PricingWithTips3DM_10e78846fac3b5dcfc571733", "child": "PricingWithTips3DM_1371cc6b08001103f6e87047", "via": ["statement"]}
 {"parent": "PricingWithTips3DM_10e78846fac3b5dcfc571733", "child": "PricingWithTips3DM_a6f12e82e39df26683946dd8", "via": ["statement"]}
 {"parent": "OAI.PiExponent.DeterminantContradiction.translation_scalar_local_bounds_v2_choice", "child": "OAI_PiExponent_MinorTranslationData", "via": ["solution", "statement"]}
-{"parent": "OfflineCMC.Minimax.kl_perturbation_bound", "child": "OfflineCMC_Minimax_CMC", "via": ["statement"]}
-{"parent": "OfflineCMC.Minimax.kl_perturbation_bound", "child": "OfflineCMC_Minimax_HardFamily", "via": ["statement"]}
+{"parent": "OfflineCMC.Minimax.kl_perturbation_bound", "child": "OfflineCMC_Minimax_CMC", "via": ["solution", "statement"]}
+{"parent": "OfflineCMC.Minimax.kl_perturbation_bound", "child": "OfflineCMC_Minimax_HardFamily", "via": ["solution", "statement"]}
 {"parent": "ProviderGuarantee.Bound.strong_duality", "child": "ProviderGuarantee_Bound_Model", "via": ["solution", "statement"]}
 {"parent": "Erdos261.no_polynomial_ranking", "child": "Erdos261_defs", "via": ["solution", "statement"]}
 {"parent": "DecompGames.Duplication.proposition_A_8", "child": "DecompGames_Duplication_Operators", "via": ["solution", "statement"]}
@@ -94334,7 +94334,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff6.normalized_frame_failure", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.exists_max_cardinality_planar_supergraph", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_graph_triangulation_count_3624186a_b460_4cf9_8afd_86ec1a2d5ee8", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
-{"parent": "HarlowTASI.factorizedCode_entropy", "child": "HarlowTASI_OperatorAlgebras", "via": ["statement"]}
+{"parent": "HarlowTASI.factorizedCode_entropy", "child": "HarlowTASI_OperatorAlgebras", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.distinct_sign_s58", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22AnnotatedData022", "child": "Sensitivity213981Formal_NamespacesComplete", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22AnnotatedData022", "child": "Sensitivity213981Formal_Endpoint22StaticData", "via": ["statement"]}

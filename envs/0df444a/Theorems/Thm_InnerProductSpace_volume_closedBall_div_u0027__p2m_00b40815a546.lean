@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnerProductSpace_volume_closedBall_div_u0027__p2m_00b40815a546
 -- name    : InnerProductSpace.volume_closedBall_div_u0027__p2m_00b40815a546
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:11:46.77229+00:00
 -- url     : https://prove2.me/theorems/8df154b9-b4fb-45ee-9cb8-0419a2ccc8a0

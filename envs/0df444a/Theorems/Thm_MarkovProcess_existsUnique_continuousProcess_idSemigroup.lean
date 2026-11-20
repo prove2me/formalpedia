@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovProcess_existsUnique_continuousProcess_idSemigroup
 -- name    : MarkovProcess.existsUnique_continuousProcess_idSemigroup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-30T09:30:58.217874+00:00
 -- url     : https://prove2.me/theorems/8df303b1-9526-41a6-9d33-e26695721191

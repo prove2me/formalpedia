@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_DiamondDist_corollary_9_1_2
 -- name    : WildeQIT.DiamondDist.corollary_9_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:02.864104+00:00
 -- url     : https://prove2.me/theorems/c667df22-3a91-45ca-aa5f-36b2b9fcc159

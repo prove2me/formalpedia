@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinarySketchTruncation_Opposite_Supplement_proposition_3
 -- name    : BinarySketchTruncation.Opposite.Supplement.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:06:16.416936+00:00
 -- url     : https://prove2.me/theorems/186aa44b-d0e8-4960-9488-82fa8577675e

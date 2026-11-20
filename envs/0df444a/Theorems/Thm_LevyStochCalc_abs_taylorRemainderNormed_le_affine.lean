@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_abs_taylorRemainderNormed_le_affine
 -- name    : LevyStochCalc.abs_taylorRemainderNormed_le_affine
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:46:22.456781+00:00
 -- url     : https://prove2.me/theorems/8b7f25f7-09ef-473b-ab21-885df9f148a0

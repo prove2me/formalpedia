@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_genericMedium_stationaryProfile
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.genericMedium_stationaryProfile
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:33:06.86735+00:00
 -- url     : https://prove2.me/theorems/c3a3de55-a376-4820-8496-8683afdec766

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_FiniteConnectedGrowth_connected_count_bound
 -- name    : DeletionCode.FiniteConnectedGrowth.connected_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:23:46.69884+00:00
 -- url     : https://prove2.me/theorems/80bdaffe-8336-46c6-947e-ce393ac92b39

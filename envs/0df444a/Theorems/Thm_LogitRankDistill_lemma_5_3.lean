@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogitRankDistill_lemma_5_3
 -- name    : LogitRankDistill.lemma_5_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T05:58:50.035602+00:00
 -- url     : https://prove2.me/theorems/6e584d6b-fa17-42e6-a847-c00c26bc853a

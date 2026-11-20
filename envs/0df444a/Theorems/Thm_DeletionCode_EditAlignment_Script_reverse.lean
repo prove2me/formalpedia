@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_EditAlignment_Script_reverse
 -- name    : DeletionCode.EditAlignment.Script.reverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:04:00.410721+00:00
 -- url     : https://prove2.me/theorems/18c65e4a-b680-446d-9455-170c0228af92

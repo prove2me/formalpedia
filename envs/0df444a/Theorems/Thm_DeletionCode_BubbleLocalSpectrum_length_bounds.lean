@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_BubbleLocalSpectrum_length_bounds
 -- name    : DeletionCode.BubbleLocalSpectrum.length_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:38:03.566419+00:00
 -- url     : https://prove2.me/theorems/97f419cd-19ec-432a-a58c-443ef0e59f87

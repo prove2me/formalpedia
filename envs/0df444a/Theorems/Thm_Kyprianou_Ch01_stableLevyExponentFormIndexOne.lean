@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableLevyExponentFormIndexOne
 -- name    : Kyprianou.Ch01.stableLevyExponentFormIndexOne
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:07:55.187537+00:00
 -- url     : https://prove2.me/theorems/802ca6d6-48be-4ce7-bad9-dffd367b9cff

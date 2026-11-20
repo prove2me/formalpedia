@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_tendsto_starProjection_of_antitone
 -- name    : LevyStochCalc.Probability.tendsto_starProjection_of_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:39:55.821238+00:00
 -- url     : https://prove2.me/theorems/be37549b-14f6-4409-abd6-74aca847de46

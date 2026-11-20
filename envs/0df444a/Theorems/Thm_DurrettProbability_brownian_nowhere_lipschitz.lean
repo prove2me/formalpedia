@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DurrettProbability_brownian_nowhere_lipschitz
 -- name    : DurrettProbability.brownian_nowhere_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-18T18:25:52.442973+00:00
 -- url     : https://prove2.me/theorems/ac250682-c43d-421a-9641-d06582c7d6b0

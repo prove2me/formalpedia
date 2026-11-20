@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicKServer_Competitive_harmonic_competitive
 -- name    : HarmonicKServer.Competitive.harmonic_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:01:12.780279+00:00
 -- url     : https://prove2.me/theorems/2dd7bacb-5e48-478c-8397-1683786e1e0e

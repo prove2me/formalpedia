@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuerySampleRev_kl_half_one_sub_delta
 -- name    : QuerySampleRev.kl_half_one_sub_delta
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:35:07.506032+00:00
 -- url     : https://prove2.me/theorems/15917030-9450-4501-9cdf-7b9d3baf08a4

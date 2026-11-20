@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_admissible_cap_nat_horizon_bound_bounded_variation
 -- name    : AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:26:38.23998+00:00
 -- url     : https://prove2.me/theorems/e4317583-dccb-4865-ad8c-d75b3cb154ec

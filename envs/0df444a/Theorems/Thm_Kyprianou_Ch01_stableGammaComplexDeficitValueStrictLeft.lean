@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableGammaComplexDeficitValueStrictLeft
 -- name    : Kyprianou.Ch01.stableGammaComplexDeficitValueStrictLeft
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:12:24.309184+00:00
 -- url     : https://prove2.me/theorems/16d4bd13-c01e-4ba4-ad7e-f8db907af77a

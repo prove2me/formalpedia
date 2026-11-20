@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26FiniteEmbeddingExperiment_outputLaw_good_ae
 -- name    : QEC.Coding.BDL26FiniteEmbeddingExperiment.outputLaw_good_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T02:20:17.687247+00:00
 -- url     : https://prove2.me/theorems/e0b180bf-021f-4d07-bb75-0da26fb0fa05

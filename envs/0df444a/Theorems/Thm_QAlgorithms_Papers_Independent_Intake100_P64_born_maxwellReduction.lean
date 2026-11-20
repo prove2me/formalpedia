@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_born_maxwellReduction
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.born_maxwellReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:19:20.147257+00:00
 -- url     : https://prove2.me/theorems/965fdf7d-141c-42c5-a050-9f85828606d2

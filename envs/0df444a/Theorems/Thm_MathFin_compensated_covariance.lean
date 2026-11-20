@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MathFin_compensated_covariance
 -- name    : MathFin.compensated_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:34:26.917183+00:00
 -- url     : https://prove2.me/theorems/5f45a63c-98d9-4a49-a9e9-bc05105ae4e4

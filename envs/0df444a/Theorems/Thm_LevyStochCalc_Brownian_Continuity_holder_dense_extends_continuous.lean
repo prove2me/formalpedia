@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Continuity_holder_dense_extends_continuous
 -- name    : LevyStochCalc.Brownian.Continuity.holder_dense_extends_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:10:57.52621+00:00
 -- url     : https://prove2.me/theorems/1ea7eeaf-4cab-4f31-82f9-afe2756cbb8d

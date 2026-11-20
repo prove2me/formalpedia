@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableGammaComplexDeficitValueImaginary
 -- name    : Kyprianou.Ch01.stableGammaComplexDeficitValueImaginary
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:12:26.497208+00:00
 -- url     : https://prove2.me/theorems/7afd5413-cc88-4a84-80f5-3fd6c6fd2717

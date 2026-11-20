@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoDecoder_baseAdapter_correctsLocalErrors
 -- name    : QEC.Coding.BDL26LevelTwoDecoder.baseAdapter_correctsLocalErrors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T04:30:32.500961+00:00
 -- url     : https://prove2.me/theorems/7dfd2ecd-cfeb-40b3-bbd2-bfa838ff60fa

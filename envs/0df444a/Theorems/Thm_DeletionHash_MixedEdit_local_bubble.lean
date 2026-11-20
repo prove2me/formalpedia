@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionHash_MixedEdit_local_bubble
 -- name    : DeletionHash.MixedEdit.local_bubble
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:44:05.634073+00:00
 -- url     : https://prove2.me/theorems/f9ff2cf0-9847-49d8-b36c-eef837fd5cbb

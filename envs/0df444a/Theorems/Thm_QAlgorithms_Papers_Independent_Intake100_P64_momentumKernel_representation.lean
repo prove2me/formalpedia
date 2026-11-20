@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P64_momentumKernel_representation
 -- name    : QAlgorithms.Papers.Independent.Intake100.P64.momentumKernel_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T11:16:04.344202+00:00
 -- url     : https://prove2.me/theorems/db2692df-7cca-4cc0-aca8-32673ed06ae7

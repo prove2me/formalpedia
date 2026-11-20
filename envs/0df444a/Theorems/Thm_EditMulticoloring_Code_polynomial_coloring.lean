@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EditMulticoloring_Code_polynomial_coloring
 -- name    : EditMulticoloring.Code.polynomial_coloring
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T18:49:15.737131+00:00
 -- url     : https://prove2.me/theorems/419541ad-6b40-4bbc-b826-c7193b7a3de1

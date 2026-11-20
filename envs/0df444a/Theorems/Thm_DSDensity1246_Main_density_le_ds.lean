@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSDensity1246_Main_density_le_ds
 -- name    : DSDensity1246.Main.density_le_ds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T16:12:35.625691+00:00
 -- url     : https://prove2.me/theorems/e8224665-9823-4de0-b69b-2291811b8f41

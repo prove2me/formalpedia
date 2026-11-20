@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Martingale_martingale_sq_sub_of_setIntegral
 -- name    : LevyStochCalc.Martingale.martingale_sq_sub_of_setIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:18:11.780609+00:00
 -- url     : https://prove2.me/theorems/322f8150-fc97-4382-b52d-c6c5b3c874ca

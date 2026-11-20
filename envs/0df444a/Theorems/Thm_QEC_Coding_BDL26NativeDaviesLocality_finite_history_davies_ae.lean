@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26NativeDaviesLocality_finite_history_davies_ae
 -- name    : QEC.Coding.BDL26NativeDaviesLocality.finite_history_davies_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T12:29:09.833587+00:00
 -- url     : https://prove2.me/theorems/733b8e25-83dd-42d5-8e81-9e5808d157de

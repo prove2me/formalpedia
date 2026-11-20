@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26BottomLocalFirstMinWeightComparison_comparison_corrects_local
 -- name    : QEC.Coding.BDL26BottomLocalFirstMinWeightComparison.comparison_corrects_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T07:17:04.301548+00:00
 -- url     : https://prove2.me/theorems/4c8b28cd-d1d1-4992-b488-097579cba984

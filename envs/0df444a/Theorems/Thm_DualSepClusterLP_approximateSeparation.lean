@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSepClusterLP_approximateSeparation
 -- name    : DualSepClusterLP.approximateSeparation
--- status  : Open
+-- status  : Proved
 -- author  : @hypercube
 -- created : 2026-11-18T17:41:29.449226+00:00
 -- url     : https://prove2.me/theorems/782708a0-6dcc-4a05-ab2c-7dd0e9dd0956

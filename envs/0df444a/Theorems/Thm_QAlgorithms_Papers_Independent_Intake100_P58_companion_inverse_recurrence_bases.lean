@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P58_companion_inverse_recurrence_bases
 -- name    : QAlgorithms.Papers.Independent.Intake100.P58.companion_inverse_recurrence_bases
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:05:46.023374+00:00
 -- url     : https://prove2.me/theorems/ca9379de-d559-490e-852a-8154a1e790ec

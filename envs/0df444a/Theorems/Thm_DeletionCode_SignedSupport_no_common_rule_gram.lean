@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_no_common_rule_gram
 -- name    : DeletionCode.SignedSupport.no_common_rule_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:17.367888+00:00
 -- url     : https://prove2.me/theorems/0d1b0ca5-fa26-43fd-b8e8-8040aa99ad94

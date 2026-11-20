@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XorParallelRepetition_Exponential_parallel_repetition_exponential
 -- name    : XorParallelRepetition.Exponential.parallel_repetition_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:03:42.605694+00:00
 -- url     : https://prove2.me/theorems/710deaa8-bf82-49cc-8eea-2a9d0faf4c93

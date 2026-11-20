@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoLocalBranchEndpoint_elementary_branch
 -- name    : QEC.Coding.BDL26LevelTwoLocalBranchEndpoint.elementary_branch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:50:14.948955+00:00
 -- url     : https://prove2.me/theorems/24a0ebde-b919-44ab-8de7-2a87bcd7bc06

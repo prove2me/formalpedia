@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26IncomingRowsExecution_fixed_parameters_row_execution
 -- name    : QEC.Coding.BDL26IncomingRowsExecution.fixed_parameters_row_execution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-11T07:15:03.25358+00:00
 -- url     : https://prove2.me/theorems/daa62069-1876-4ac0-857f-0ea59a276e14

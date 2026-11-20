@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_OverlapCollision_collision_card_le
 -- name    : DeletionCode.OverlapCollision.collision_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:41:09.606774+00:00
 -- url     : https://prove2.me/theorems/73b70d47-8569-4672-832e-727988a56724

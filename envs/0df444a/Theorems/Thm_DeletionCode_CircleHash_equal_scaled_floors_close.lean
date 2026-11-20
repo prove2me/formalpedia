@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_CircleHash_equal_scaled_floors_close
 -- name    : DeletionCode.CircleHash.equal_scaled_floors_close
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:28:25.92886+00:00
 -- url     : https://prove2.me/theorems/fcb4b491-50f0-4608-921a-bf51abbbbf12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EuclideanLineAvgDist_Embedding_well_spread_matching
 -- name    : EuclideanLineAvgDist.Embedding.well_spread_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:12:57.862614+00:00
 -- url     : https://prove2.me/theorems/efba6937-aa04-437d-93c7-7cc0b457ecca

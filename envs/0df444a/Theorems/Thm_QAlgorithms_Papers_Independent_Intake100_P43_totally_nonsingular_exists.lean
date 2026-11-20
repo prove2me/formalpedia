@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P43_totally_nonsingular_exists
 -- name    : QAlgorithms.Papers.Independent.Intake100.P43.totally_nonsingular_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:28:00.778981+00:00
 -- url     : https://prove2.me/theorems/2e5d9172-d22b-4d21-a856-784458166061

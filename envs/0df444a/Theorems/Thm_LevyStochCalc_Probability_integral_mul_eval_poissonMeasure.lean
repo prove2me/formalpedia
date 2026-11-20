@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_integral_mul_eval_poissonMeasure
 -- name    : LevyStochCalc.Probability.integral_mul_eval_poissonMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T22:38:32.185961+00:00
 -- url     : https://prove2.me/theorems/76eb957f-7ff0-4604-bfda-f515daf440cc

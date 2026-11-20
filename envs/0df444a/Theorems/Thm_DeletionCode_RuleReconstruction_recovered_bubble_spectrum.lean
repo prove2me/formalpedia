@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_RuleReconstruction_recovered_bubble_spectrum
 -- name    : DeletionCode.RuleReconstruction.recovered_bubble_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:19:02.585205+00:00
 -- url     : https://prove2.me/theorems/43c816cb-477d-449f-bec8-c77324658225

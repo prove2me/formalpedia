@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BipHamCount_Deterministic_binomial_entropy
 -- name    : BipHamCount.Deterministic.binomial_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:47:45.130004+00:00
 -- url     : https://prove2.me/theorems/71eec4d0-feb2-4cb1-9543-077b2341e017

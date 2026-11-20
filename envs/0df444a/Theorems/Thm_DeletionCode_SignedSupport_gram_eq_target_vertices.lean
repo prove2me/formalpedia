@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_SignedSupport_gram_eq_target_vertices
 -- name    : DeletionCode.SignedSupport.gram_eq_target_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:18:02.298799+00:00
 -- url     : https://prove2.me/theorems/5c3cde0b-aaeb-4e76-bbda-70442603ef21

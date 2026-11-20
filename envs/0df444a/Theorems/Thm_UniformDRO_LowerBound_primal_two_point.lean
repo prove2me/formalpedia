@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformDRO_LowerBound_primal_two_point
 -- name    : UniformDRO.LowerBound.primal_two_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:06:59.187469+00:00
 -- url     : https://prove2.me/theorems/db3900a2-a185-4034-8141-e73a6a93f008

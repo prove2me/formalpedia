@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeletionCode_WitnessCost_linear_le_power
 -- name    : DeletionCode.WitnessCost.linear_le_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T05:45:14.622181+00:00
 -- url     : https://prove2.me/theorems/8c63a643-0287-47cb-811b-1e441cc32f48

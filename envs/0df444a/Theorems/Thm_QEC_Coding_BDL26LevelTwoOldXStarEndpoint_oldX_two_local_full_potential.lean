@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Coding_BDL26LevelTwoOldXStarEndpoint_oldX_two_local_full_potential
 -- name    : QEC.Coding.BDL26LevelTwoOldXStarEndpoint.oldX_two_local_full_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-10T16:33:07.057182+00:00
 -- url     : https://prove2.me/theorems/b2449e99-de1d-4a44-9e73-efb885e5b1fe

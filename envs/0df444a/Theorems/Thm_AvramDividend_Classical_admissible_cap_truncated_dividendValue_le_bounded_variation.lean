@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_admissible_cap_truncated_dividendValue_le_bounded_variation
 -- name    : AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T15:18:03.528358+00:00
 -- url     : https://prove2.me/theorems/e068df0b-1a13-4858-a96e-dd12c65f0983
