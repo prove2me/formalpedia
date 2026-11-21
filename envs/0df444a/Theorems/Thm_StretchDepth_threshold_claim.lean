@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StretchDepth_threshold_claim
 -- name    : StretchDepth.threshold_claim
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:06:37.966363+00:00
 -- url     : https://prove2.me/theorems/66d3eb84-b1eb-455a-aa67-cce0fb6325a2

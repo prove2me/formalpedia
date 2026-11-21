@@ -1,0 +1,55 @@
+-- Prove2me | Definitions.Def_NewtonianLipschitz
+-- name    : NewtonianLipschitz
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-21T03:54:11.00897+00:00
+-- url     : https://prove2.me/theorems/07c24503-cb40-4e48-ae0f-e82932fc6d89
+-- title:
+--   Newtonian Lipschitz
+-- statement:
+--   Definitions and structural lemmas for Newtonian Lipschitz, from alexodas and contributors's pinned Sharp Newtonian field Lipschitz bounds development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/alexodas/NewtonianLipschitzOptimality/blob/74f12a8510a4b0087b56f2b309e6ad99fbd26420/NewtonianLipschitz.lean
+
+module
+public import Definitions.Def_NewtonianLipschitz_Derivative
+public import Definitions.Def_NewtonianLipschitz_Clearance
+public import Definitions.Def_NewtonianLipschitz_FiniteSources
+public import Definitions.Def_NewtonianLipschitz_CubicCandidate
+public import Definitions.Def_NewtonianLipschitz_ScalarMaximum
+public import Definitions.Def_NewtonianLipschitz_NormalizedSharpBound
+public import Definitions.Def_NewtonianLipschitz_JacobianSymmetries
+public import Definitions.Def_NewtonianLipschitz_JacobianPermutations
+public import Definitions.Def_NewtonianLipschitz_JacobianNormalization
+public import Definitions.Def_NewtonianLipschitz_JacobianAxisBounds
+public import Definitions.Def_NewtonianLipschitz_JacobianSignedBounds
+public import Definitions.Def_NewtonianLipschitz_JacobianCartesianBound
+public import Definitions.Def_NewtonianLipschitz_JacobianOperatorAction
+public import Definitions.Def_NewtonianLipschitz_JacobianOperatorNorm
+public import Definitions.Def_NewtonianLipschitz_JacobianSharpWitness
+public import Definitions.Def_NewtonianLipschitz_JacobianOperatorWitness
+public import Definitions.Def_NewtonianLipschitz_ConvexSharp
+public import Definitions.Def_NewtonianLipschitz_CartesianBoxSharp
+public import Definitions.Def_NewtonianLipschitz_DerivativeCoefficientMinimality
+public import Definitions.Def_NewtonianLipschitz_DerivativeAttainingDirection
+public import Definitions.Def_NewtonianLipschitz_AdmissibleCriticalDirection
+public import Definitions.Def_NewtonianLipschitz_AdmissibleSecantPairs
+public import Definitions.Def_NewtonianLipschitz_LongSeparation
+public import Definitions.Def_NewtonianLipschitz_CommonSafeFace
+public import Definitions.Def_NewtonianLipschitz_CrossFaceTwoHop
+public import Definitions.Def_NewtonianLipschitz_TangentialAlgebra
+public import Definitions.Def_NewtonianLipschitz_ConditionalFiniteSource
+public import Definitions.Def_NewtonianLipschitz_SafePlaneReduction
+public import Definitions.Def_NewtonianLipschitz_PhysicalTangentialNormalized
+public import Definitions.Def_NewtonianLipschitz_PhysicalTangentialFirstAxis
+public import Definitions.Def_NewtonianLipschitz_PhysicalTangentialAllAxes
+public import Definitions.Def_NewtonianLipschitz_SafePlaneFiniteDifference
+public import Definitions.Def_NewtonianLipschitz_UnconditionalFiniteSource
+public import Definitions.Def_NewtonianLipschitz_ConvexBaseline
+public import Definitions.Def_NewtonianLipschitz_ConvexImproved
+public import Definitions.Def_NewtonianLipschitz_JacobianRows
+public import Definitions.Def_NewtonianLipschitz_JacobianMatrix
+set_option autoImplicit true
+@[expose] public section
+
+

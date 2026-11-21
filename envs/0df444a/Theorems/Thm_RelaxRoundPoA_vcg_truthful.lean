@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_vcg_truthful
 -- name    : RelaxRoundPoA.vcg_truthful
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:47.090806+00:00
 -- url     : https://prove2.me/theorems/ffe22def-19f9-4d8a-b43d-883873b9bf34

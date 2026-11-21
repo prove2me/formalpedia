@@ -72935,12 +72935,12 @@
 {"parent": "AvramDividend.Classical.avram_p4_s3_interval_i_original_inclusive_stopped_discounted_truncated_compensation_taylor_joint_predictable_mark_measurable", "child": "AvramDividend.Classical.avram_wave3_04_inclusiveSurvival_stronglyPredictable", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.exists_isPoissonPointFamily", "child": "LeanLevy_RandomMeasure_PoissonPointFamily", "via": ["solution", "statement"]}
 {"parent": "ProbabilityTheory.exists_isPoissonPointFamily", "child": "LeanLevy_Probability_Poisson", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsEligible", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsGraphInput", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsTruthfulOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_disutility", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsFeasibleOn", "via": ["statement"]}
+{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsEligible", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsGraphInput", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsTruthfulOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_disutility", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_4", "child": "FracTruthSched_IsFeasibleOn", "via": ["solution", "statement"]}
 {"parent": "SpatialSorting_contourSet", "child": "SpatialSorting_Contour", "via": ["statement"]}
 {"parent": "SpatialSorting_contourSet", "child": "SpatialSorting_contoursOn", "via": ["statement"]}
 {"parent": "SpatialSorting_contourSet", "child": "SpatialSorting_I", "via": ["statement"]}
@@ -73962,15 +73962,15 @@
 {"parent": "SpinGirth5.corollary_30_psi_bounds", "child": "SpinGirth5_starModel", "via": ["statement"]}
 {"parent": "QEC.Semantics.Davies.gain_traceNorm_le_positive", "child": "QEC_Semantics_Dynamics_Davies_TraceBound", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Davies.gain_traceNorm_le_positive", "child": "QEC_Semantics_Dynamics_FourBlockGenerator", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsEligible", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsGraphInput", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsTruthfulOn", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_HasUniqueZeros", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsClassSymmetric", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsFeasibleOn", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_makespan", "via": ["statement"]}
-{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_C", "via": ["statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsEligible", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsGraphInput", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsTruthfulOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_HasUniqueZeros", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsClassSymmetric", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_IsFeasibleOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_makespan", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.star_bound", "child": "FracTruthSched_C", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.TwistGraph.hammingWeight_eq_sum_layerWord", "child": "QEC_Coding_FiberBundle_TwistGraph", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.TwistGraph.hammingWeight_eq_sum_layerWord", "child": "QEC_Coding_FiberBundle_RandomTwist", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.constraint_of_inverse_projective", "child": "BianchiIX_Algebra_Coordinates", "via": ["solution", "statement"]}
@@ -88979,12 +88979,12 @@
 {"parent": "BianchiIX.coreRadiusReturn_large_regular", "child": "BianchiIX_Dynamics_CoreEntry", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.coreRadiusReturn_large_regular", "child": "BianchiIX_Dynamics_MaximalFlow", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.coreRadiusReturn_large_regular", "child": "BianchiIX_Dynamics_ProjectiveRegularity", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsEligible", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsGraphInput", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_pairSliceDisutility", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsTruthfulOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsFeasibleOn", "via": ["statement"]}
+{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsEligible", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsGraphInput", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_pairSliceDisutility", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsTruthfulOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_2b", "child": "FracTruthSched_IsFeasibleOn", "via": ["solution", "statement"]}
 {"parent": "TransvectionMixing.proposition_5_8_mixing_from_four_shears", "child": "TransvectionMixing_Tshears", "via": ["statement"]}
 {"parent": "TransvectionMixing.proposition_5_8_mixing_from_four_shears", "child": "TransvectionMixing_dS", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.a10_4_contains_e", "child": "OAIQ098E031", "via": ["solution", "statement"]}

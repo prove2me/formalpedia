@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProdMomentConc_expect_Lk_le
 -- name    : ProdMomentConc.expect_Lk_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:13:58.144831+00:00
 -- url     : https://prove2.me/theorems/078d524f-e5ce-4719-b489-2f5c2ede2fb3

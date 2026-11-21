@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for mme_degenerates_asymptoticRank_le
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Shuze Chen
 -- created : 2026-05-28T20:40:28.68964+00:00
 -- url     : https://prove2.me/submissions/36099bc9-cced-41ea-a18a-73f1a71182bd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_mme_asymptoticRank_le_of_pow_rank_bound
 import Theorems.Thm_mme_degenerate_pow_rank_bound

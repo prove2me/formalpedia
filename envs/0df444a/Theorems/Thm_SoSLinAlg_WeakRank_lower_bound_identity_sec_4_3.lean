@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoSLinAlg_WeakRank_lower_bound_identity_sec_4_3
 -- name    : SoSLinAlg.WeakRank.lower_bound_identity_sec_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T22:30:49.566697+00:00
 -- url     : https://prove2.me/theorems/842e1ecc-aaa7-432d-9455-3875b5868625

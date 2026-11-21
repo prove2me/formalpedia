@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_corner_endomorphisms
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.corner_endomorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:36:49.855876+00:00
 -- url     : https://prove2.me/theorems/1f3aa44a-f34a-456d-984e-fc83203d31fe

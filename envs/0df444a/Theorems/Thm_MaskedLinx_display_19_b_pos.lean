@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaskedLinx_display_19_b_pos
 -- name    : MaskedLinx.display_19_b_pos
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:39:20.522978+00:00
 -- url     : https://prove2.me/theorems/6a9e535c-3c30-4f2e-bb23-a409cfda06cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgCoverage_OddOrder_three_bit_rank_gain
 -- name    : AlgCoverage.OddOrder.three_bit_rank_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:45:31.7052+00:00
 -- url     : https://prove2.me/theorems/0e7b3d5f-bab0-4d45-a915-3706fd9b301a

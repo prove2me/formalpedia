@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QEC.Coding.TannerLiftedProduct.lpsSL2Z_firstColumn_unit_modulus
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-19T05:42:31.821189+00:00
 -- url     : https://prove2.me/submissions/ce7bd9a3-c250-47ec-9034-69ad363f824c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QEC_Coding_ExpanderCodes_LPSThetaEisensteinCusps
 import Definitions.Def_QEC_Coding_ExpanderCodes_LPSThetaCuspFactorization

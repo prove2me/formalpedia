@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CardinalMatching_lemma_17
 -- name    : CardinalMatching.lemma_17
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:29:52.263507+00:00
 -- url     : https://prove2.me/theorems/0248db22-415b-4a90-824c-574db2bfdf80

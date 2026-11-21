@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_majorities_preserve_avoidance
 -- name    : MoranYanPAC.Main.majorities_preserve_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:07:15.946831+00:00
 -- url     : https://prove2.me/theorems/ae06bc26-d05e-4262-9b7d-5281a101bbe7

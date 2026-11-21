@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VHmGA_Convergence_theorem_8_1
 -- name    : VHmGA.Convergence.theorem_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:40:25.707219+00:00
 -- url     : https://prove2.me/theorems/a7d74b0d-2324-4b80-95ec-e3eba7285a93

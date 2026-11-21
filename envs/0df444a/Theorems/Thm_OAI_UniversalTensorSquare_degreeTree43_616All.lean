@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_degreeTree43_616All
 -- name    : OAI.UniversalTensorSquare.degreeTree43_616All
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T19:32:22.681712+00:00
 -- url     : https://prove2.me/theorems/b71d920e-9d2b-4b7a-9795-49074ca1829e

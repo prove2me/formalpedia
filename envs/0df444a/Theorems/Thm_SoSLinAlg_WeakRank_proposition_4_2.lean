@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoSLinAlg_WeakRank_proposition_4_2
 -- name    : SoSLinAlg.WeakRank.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T22:31:47.702871+00:00
 -- url     : https://prove2.me/theorems/eacbd0fb-c8c3-4964-ac2a-2576a4813c10

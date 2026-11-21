@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_vc_generalization
 -- name    : MoranYanPAC.Main.vc_generalization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:07:41.381206+00:00
 -- url     : https://prove2.me/theorems/55daeb8b-8fb2-45cc-9778-5e8db5a15485

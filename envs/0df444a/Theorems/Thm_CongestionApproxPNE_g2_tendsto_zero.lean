@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionApproxPNE_g2_tendsto_zero
 -- name    : CongestionApproxPNE.g2_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:17:13.405001+00:00
 -- url     : https://prove2.me/theorems/b8ab920f-40f2-4468-9142-a27875b40d28

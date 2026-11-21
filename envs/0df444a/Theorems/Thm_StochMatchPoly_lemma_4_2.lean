@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochMatchPoly_lemma_4_2
 -- name    : StochMatchPoly.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T07:14:15.0522+00:00
 -- url     : https://prove2.me/theorems/8b896880-357e-42eb-a4b9-11f15e0cbd29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BadLocalMin_Smooth_lemma_1
 -- name    : BadLocalMin.Smooth.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:24.094204+00:00
 -- url     : https://prove2.me/theorems/9b2942bb-493d-4da5-a933-e0f2a2faf355

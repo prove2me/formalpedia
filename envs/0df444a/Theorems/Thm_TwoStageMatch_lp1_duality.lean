@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_lp1_duality
 -- name    : TwoStageMatch.lp1_duality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:30:35.929421+00:00
 -- url     : https://prove2.me/theorems/922d7f6a-3127-464d-b9bc-17325aace6ef

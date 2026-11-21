@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadExt_Main_lemma_8_7
 -- name    : QuadExt.Main.lemma_8_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T07:02:54.662099+00:00
 -- url     : https://prove2.me/theorems/d8f2e81a-1a5a-45a3-8203-333ef5485f54

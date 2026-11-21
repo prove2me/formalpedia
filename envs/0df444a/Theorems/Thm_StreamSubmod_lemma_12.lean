@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StreamSubmod_lemma_12
 -- name    : StreamSubmod.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:16.15328+00:00
 -- url     : https://prove2.me/theorems/c1a71ad3-b9d2-4a6b-839d-ba866b929b1a

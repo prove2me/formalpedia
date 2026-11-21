@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_kraft_average_depth
 -- name    : MomentSearch.kraft_average_depth
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:09:26.969958+00:00
 -- url     : https://prove2.me/theorems/a2987e1d-b7de-48c9-b9fb-adbe91b3c66c

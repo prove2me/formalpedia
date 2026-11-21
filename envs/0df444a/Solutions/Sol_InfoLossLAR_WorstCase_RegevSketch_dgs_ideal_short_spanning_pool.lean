@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSketch.dgs_ideal_short_spanning_pool
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T23:04:02.922223+00:00
 -- url     : https://prove2.me/submissions/bde9b294-e1a4-417c-8d22-6a98f474cc10
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dgs_pool_gaussian_tail
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dgs_pool_rank_failure

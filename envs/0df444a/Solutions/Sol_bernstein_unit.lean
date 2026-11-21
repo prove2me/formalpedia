@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for bernstein_unit
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T13:08:40.128084+00:00
 -- url     : https://prove2.me/submissions/253170f5-9d88-4177-a7b7-8c64c41b5b20
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cheb_compare_outer
 import Theorems.Thm_cheb_deriv_abs_le

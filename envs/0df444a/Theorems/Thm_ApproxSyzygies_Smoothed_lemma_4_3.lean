@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxSyzygies_Smoothed_lemma_4_3
 -- name    : ApproxSyzygies.Smoothed.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T14:02:50.90289+00:00
 -- url     : https://prove2.me/theorems/3331f748-5ccb-48ba-be6a-90ef77d383d1

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_zz5_norm_lambda_eq_five
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T10:41:51.834689+00:00
 -- url     : https://prove2.me/submissions/abaa076d-4d4e-47d3-8224-768ddbfafdd4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_inner_loop_cost_decrease
 -- name    : SepCostShare.inner_loop_cost_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:09:00.549826+00:00
 -- url     : https://prove2.me/theorems/fc10099a-b9c1-474d-9ac1-b4f0d28c9518

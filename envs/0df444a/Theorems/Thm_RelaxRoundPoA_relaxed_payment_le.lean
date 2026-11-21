@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_relaxed_payment_le
 -- name    : RelaxRoundPoA.relaxed_payment_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:30.510784+00:00
 -- url     : https://prove2.me/theorems/019d714b-6d77-4ec7-8b7c-9d600e5b5375

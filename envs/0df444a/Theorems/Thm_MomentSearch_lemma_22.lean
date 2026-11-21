@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_lemma_22
 -- name    : MomentSearch.lemma_22
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:09:07.365093+00:00
 -- url     : https://prove2.me/theorems/3c232d8f-0509-4474-ac5e-98eda13f950d

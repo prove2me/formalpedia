@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomRescale_greedy_min
 -- name    : GeomRescale.greedy_min
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:15:05.642245+00:00
 -- url     : https://prove2.me/theorems/b7f4df73-af23-4101-8971-a4e83d1e23c1

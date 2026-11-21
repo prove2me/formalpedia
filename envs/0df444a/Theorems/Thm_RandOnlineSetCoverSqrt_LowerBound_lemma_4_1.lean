@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandOnlineSetCoverSqrt_LowerBound_lemma_4_1
 -- name    : RandOnlineSetCoverSqrt.LowerBound.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T19:35:59.900711+00:00
 -- url     : https://prove2.me/theorems/fc0f8000-3879-4e86-b0c5-1861668c7c97

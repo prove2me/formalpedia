@@ -1,0 +1,361 @@
+-- Prove2me | solution 1 for DQI.Semicircle.eq_114
+-- status  : ACCEPTED   (prove)
+-- author  : @shivm
+-- created : 2026-11-20T22:59:49.873079+00:00
+-- url     : https://prove2.me/submissions/9b347433-81d0-4928-8a96-0cbff4709074
+
+import Mathlib
+import Definitions.Def_DQI_Semicircle_Setting
+
+namespace Aux_DQI_Semicircle_eq_114
+
+open DQI.Semicircle Matrix Filter Topology
+
+lemma rayleigh {N : ℕ} (A : Matrix (Fin N) (Fin N) ℝ) (hA : A.IsHermitian) (v : Fin N → ℝ) :
+    v ⬝ᵥ (A *ᵥ v) ≤ sSup (spectrum ℝ A) * (v ⬝ᵥ v) := by
+  obtain ⟨U, hU⟩ : ∃ U : Matrix (Fin N) (Fin N) ℝ,
+      U = (hA.eigenvectorUnitary : Matrix (Fin N) (Fin N) ℝ) := ⟨_, rfl⟩
+  have hspec : A = U * diagonal (RCLike.ofReal ∘ hA.eigenvalues) * star U := by
+    have := hA.spectral_theorem
+    rw [Unitary.conjStarAlgAut_apply] at this
+    rw [hU]
+    exact this
+  have hUU : U * star U = 1 := by
+    rw [hU]
+    exact Matrix.mem_unitaryGroup_iff.mp hA.eigenvectorUnitary.2
+  have hstar : star U = Uᵀ := by
+    rw [Matrix.star_eq_conjTranspose, Matrix.conjTranspose_eq_transpose_of_trivial]
+  obtain ⟨w, hw⟩ : ∃ w : Fin N → ℝ, w = Uᵀ *ᵥ v := ⟨_, rfl⟩
+  have hL : ∀ j, hA.eigenvalues j ≤ sSup (spectrum ℝ A) := fun j =>
+    le_csSup (Matrix.finite_spectrum A).bddAbove (hA.eigenvalues_mem_spectrum_real j)
+  have h1 : v ⬝ᵥ (A *ᵥ v) = ∑ j, hA.eigenvalues j * (w j) ^ 2 := by
+    have hAv : A *ᵥ v =
+        U *ᵥ (diagonal (RCLike.ofReal ∘ hA.eigenvalues) *ᵥ (Uᵀ *ᵥ v)) := by
+      rw [Matrix.mulVec_mulVec, Matrix.mulVec_mulVec, ← hstar, ← hspec]
+    rw [hAv, Matrix.dotProduct_mulVec, ← Matrix.mulVec_transpose, ← hw]
+    simp only [dotProduct, Matrix.mulVec_diagonal, Function.comp_apply, RCLike.ofReal_real_eq_id,
+      id_eq]
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  have h2 : v ⬝ᵥ v = ∑ j, (w j) ^ 2 := by
+    have : w ⬝ᵥ w = v ⬝ᵥ v := by
+      rw [hw, Matrix.dotProduct_mulVec, ← Matrix.mulVec_transpose, Matrix.transpose_transpose,
+        Matrix.mulVec_mulVec, ← hstar, hUU, Matrix.one_mulVec]
+    rw [← this, dotProduct]
+    apply Finset.sum_congr rfl
+    intro j _
+    ring
+  rw [h1, h2, Finset.mul_sum]
+  apply Finset.sum_le_sum
+  intro j _
+  exact mul_le_mul_of_nonneg_right (hL j) (sq_nonneg _)
+
+lemma atri_herm (m ℓ : ℕ) (d : ℝ) : (Atri m ℓ d).IsHermitian := by
+  show (Atri m ℓ d)ᴴ = Atri m ℓ d
+  rw [Matrix.conjTranspose_eq_transpose_of_trivial]
+  ext i j
+  simp only [Matrix.transpose_apply, Atri]
+  split_ifs <;> first
+    | rfl
+    | (exfalso; omega)
+    | (have h : i = j := Fin.ext (by omega); subst h; rfl)
+
+/-- Lower bound for the quadratic form on the indicator of the last `K+1` coordinates. -/
+lemma quad_lb (m ℓ K : ℕ) (d : ℝ) (hK : K ≤ ℓ) (hℓm : 2 * ℓ ≤ m) :
+    ((K : ℝ) + 1) * (ℓ * d - K * |d|) +
+        2 * K * Real.sqrt (((ℓ : ℝ) - K) * ((m : ℝ) - ℓ)) ≤
+      (fun i : Fin (ℓ + 1) => if ℓ - K ≤ (i : ℕ) then (1 : ℝ) else 0) ⬝ᵥ
+        (Atri m ℓ d *ᵥ (fun i : Fin (ℓ + 1) => if ℓ - K ≤ (i : ℕ) then (1 : ℝ) else 0)) := by
+  obtain ⟨β, hβ⟩ : ∃ β, β = Real.sqrt (((ℓ : ℝ) - K) * ((m : ℝ) - ℓ)) := ⟨_, rfl⟩
+  rw [← hβ]
+  have hβ0 : 0 ≤ β := by rw [hβ]; exact Real.sqrt_nonneg _
+  have hKR : (K : ℝ) ≤ ℓ := by exact_mod_cast hK
+  have hℓmR : 2 * (ℓ : ℝ) ≤ m := by exact_mod_cast hℓm
+  -- the row bound
+  obtain ⟨c, hc⟩ : ∃ c : ℕ → ℝ, ∀ n, c n = if ℓ - K ≤ n then
+      (ℓ * d - K * |d|) + (if n + 1 ≤ ℓ then β else 0) + (if ℓ - K + 1 ≤ n then β else 0)
+      else 0 := ⟨fun n => if ℓ - K ≤ n then
+      (ℓ * d - K * |d|) + (if n + 1 ≤ ℓ then β else 0) + (if ℓ - K + 1 ≤ n then β else 0)
+      else 0, fun _ => rfl⟩
+  have hℓ0 : (0 : ℝ) ≤ ℓ := Nat.cast_nonneg _
+  have hrow : ∀ i : Fin (ℓ + 1), c i ≤
+      (if ℓ - K ≤ (i : ℕ) then (1 : ℝ) else 0) *
+        ∑ j : Fin (ℓ + 1), Atri m ℓ d i j * (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0) := by
+    intro i
+    have hi := i.isLt
+    have hi0 : (0 : ℝ) ≤ ((i : ℕ) : ℝ) := Nat.cast_nonneg _
+    rw [hc]
+    by_cases hW : ℓ - K ≤ (i : ℕ)
+    · simp only [if_pos hW, one_mul]
+      -- split the row sum
+      have hsplit : ∀ j : Fin (ℓ + 1), Atri m ℓ d i j * (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0) =
+          (if j = i then ((i : ℕ) : ℝ) * d else 0) +
+          ((if (j : ℕ) = (i : ℕ) + 1 then
+              Real.sqrt (((i : ℕ) + 1 : ℝ) * ((m : ℝ) - (i : ℕ))) else 0) *
+            (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0) +
+          (if (i : ℕ) = (j : ℕ) + 1 then
+              Real.sqrt (((j : ℕ) + 1 : ℝ) * ((m : ℝ) - (j : ℕ))) else 0) *
+            (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0)) := by
+        intro j
+        simp only [Atri]
+        by_cases h1 : j = i
+        · subst h1
+          simp [hW]
+        · have h1' : (i : ℕ) ≠ (j : ℕ) := fun h => h1 (Fin.ext h.symm)
+          rw [if_neg h1', if_neg h1, zero_add]
+          by_cases h2 : (j : ℕ) = (i : ℕ) + 1
+          · rw [if_pos h2, if_pos h2, if_neg (show ¬ ((i : ℕ) = (j : ℕ) + 1) by omega), zero_mul,
+              add_zero]
+          · rw [if_neg h2, if_neg h2, zero_mul, zero_add]
+      rw [Finset.sum_congr rfl (fun j _ => hsplit j), Finset.sum_add_distrib,
+        Finset.sum_add_distrib, Finset.sum_ite_eq' Finset.univ i, if_pos (Finset.mem_univ _)]
+      -- diagonal part
+      have hdiag : (ℓ : ℝ) * d - K * |d| ≤ ((i : ℕ) : ℝ) * d := by
+        have hi1 : ((i : ℕ) : ℝ) ≤ ℓ := by exact_mod_cast (show (i : ℕ) ≤ ℓ by omega)
+        have hi2 : (ℓ : ℝ) - K ≤ ((i : ℕ) : ℝ) := by
+          have : ℓ - K ≤ (i : ℕ) := hW
+          have h' : ((ℓ - K : ℕ) : ℝ) = (ℓ : ℝ) - K := Nat.cast_sub hK
+          rw [← h']
+          exact_mod_cast this
+        have := abs_nonneg d
+        rcases le_or_gt 0 d with hd | hd
+        · rw [abs_of_nonneg hd]; nlinarith
+        · rw [abs_of_neg hd]; nlinarith
+      -- the off-diagonal parts
+      have hP : (if (i : ℕ) + 1 ≤ ℓ then β else 0) ≤ ∑ j : Fin (ℓ + 1),
+          (if (j : ℕ) = (i : ℕ) + 1 then
+              Real.sqrt (((i : ℕ) + 1 : ℝ) * ((m : ℝ) - (i : ℕ))) else 0) *
+            (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0) := by
+        by_cases h : (i : ℕ) + 1 ≤ ℓ
+        · rw [if_pos h]
+          have hle : (⟨(i : ℕ) + 1, by omega⟩ : Fin (ℓ + 1)) ∈ Finset.univ := Finset.mem_univ _
+          have hnn : ∀ j ∈ (Finset.univ : Finset (Fin (ℓ + 1))), 0 ≤
+              (if (j : ℕ) = (i : ℕ) + 1 then
+                Real.sqrt (((i : ℕ) + 1 : ℝ) * ((m : ℝ) - (i : ℕ))) else 0) *
+              (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0) := by
+            intro j _
+            apply mul_nonneg
+            · split_ifs
+              · exact Real.sqrt_nonneg _
+              · exact le_rfl
+            · split_ifs <;> norm_num
+          refine le_trans ?_ (Finset.single_le_sum hnn hle)
+          show β ≤ (if (i : ℕ) + 1 = (i : ℕ) + 1 then
+                Real.sqrt (((i : ℕ) + 1 : ℝ) * ((m : ℝ) - (i : ℕ))) else 0) *
+              (if ℓ - K ≤ (i : ℕ) + 1 then (1 : ℝ) else 0)
+          rw [if_pos rfl, if_pos (show ℓ - K ≤ (i : ℕ) + 1 by omega), mul_one, hβ]
+          apply Real.sqrt_le_sqrt
+          have hi1 : ((i : ℕ) : ℝ) + 1 ≤ ℓ := by exact_mod_cast h
+          have hi2 : (ℓ : ℝ) - K ≤ ((i : ℕ) : ℝ) := by
+            have h' : ((ℓ - K : ℕ) : ℝ) = (ℓ : ℝ) - K := Nat.cast_sub hK
+            rw [← h']
+            exact_mod_cast hW
+          apply mul_le_mul <;> nlinarith
+        · rw [if_neg h]
+          apply Finset.sum_nonneg
+          intro j _
+          apply mul_nonneg
+          · split_ifs
+            · exact Real.sqrt_nonneg _
+            · exact le_rfl
+          · split_ifs <;> norm_num
+      have hQ : (if ℓ - K + 1 ≤ (i : ℕ) then β else 0) ≤ ∑ j : Fin (ℓ + 1),
+          (if (i : ℕ) = (j : ℕ) + 1 then
+              Real.sqrt (((j : ℕ) + 1 : ℝ) * ((m : ℝ) - (j : ℕ))) else 0) *
+            (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0) := by
+        by_cases h : ℓ - K + 1 ≤ (i : ℕ)
+        · rw [if_pos h]
+          have hle : (⟨(i : ℕ) - 1, by omega⟩ : Fin (ℓ + 1)) ∈ Finset.univ := Finset.mem_univ _
+          have hnn : ∀ j ∈ (Finset.univ : Finset (Fin (ℓ + 1))), 0 ≤
+              (if (i : ℕ) = (j : ℕ) + 1 then
+                Real.sqrt (((j : ℕ) + 1 : ℝ) * ((m : ℝ) - (j : ℕ))) else 0) *
+              (if ℓ - K ≤ (j : ℕ) then (1 : ℝ) else 0) := by
+            intro j _
+            apply mul_nonneg
+            · split_ifs
+              · exact Real.sqrt_nonneg _
+              · exact le_rfl
+            · split_ifs <;> norm_num
+          refine le_trans ?_ (Finset.single_le_sum hnn hle)
+          show β ≤ (if (i : ℕ) = (i : ℕ) - 1 + 1 then
+                Real.sqrt ((((i : ℕ) - 1 : ℕ) + 1 : ℝ) * ((m : ℝ) - ((i : ℕ) - 1 : ℕ))) else 0) *
+              (if ℓ - K ≤ (i : ℕ) - 1 then (1 : ℝ) else 0)
+          rw [if_pos (show (i : ℕ) = (i : ℕ) - 1 + 1 by omega),
+            if_pos (show ℓ - K ≤ (i : ℕ) - 1 by omega), mul_one, hβ]
+          apply Real.sqrt_le_sqrt
+          have hcast : (((i : ℕ) - 1 : ℕ) : ℝ) = ((i : ℕ) : ℝ) - 1 := by
+            have : 1 ≤ (i : ℕ) := by omega
+            rw [Nat.cast_sub this, Nat.cast_one]
+          rw [hcast]
+          have hi1 : ((i : ℕ) : ℝ) ≤ ℓ := by exact_mod_cast (show (i : ℕ) ≤ ℓ by omega)
+          have hi2 : (ℓ : ℝ) - K + 1 ≤ ((i : ℕ) : ℝ) := by
+            have h' : ((ℓ - K + 1 : ℕ) : ℝ) = (ℓ : ℝ) - K + 1 := by
+              rw [Nat.cast_add, Nat.cast_sub hK, Nat.cast_one]
+            rw [← h']
+            exact_mod_cast h
+          apply mul_le_mul <;> nlinarith
+        · rw [if_neg h]
+          apply Finset.sum_nonneg
+          intro j _
+          apply mul_nonneg
+          · split_ifs
+            · exact Real.sqrt_nonneg _
+            · exact le_rfl
+          · split_ifs <;> norm_num
+      linarith
+    · simp only [if_neg hW, zero_mul, le_refl]
+  -- sum of the row bounds
+  have hsum : ∑ i : Fin (ℓ + 1), c i =
+      ((K : ℝ) + 1) * (ℓ * d - K * |d|) + 2 * K * β := by
+    rw [Fin.sum_univ_eq_sum_range c (ℓ + 1)]
+    simp only [hc]
+    have e1 : ∀ n ∈ Finset.range (ℓ + 1), (if ℓ - K ≤ n then
+        (ℓ * d - K * |d|) + (if n + 1 ≤ ℓ then β else 0) + (if ℓ - K + 1 ≤ n then β else 0)
+        else 0) =
+        (if ℓ - K ≤ n then (ℓ * d - K * |d|) else 0) +
+        (if ℓ - K ≤ n ∧ n + 1 ≤ ℓ then β else 0) + (if ℓ - K + 1 ≤ n then β else 0) := by
+      intro n _
+      by_cases h1 : ℓ - K ≤ n
+      · by_cases h2 : n + 1 ≤ ℓ
+        · simp [h1, h2]
+        · simp [h1, h2]
+      · have h3 : ¬ (ℓ - K + 1 ≤ n) := by omega
+        simp [h1, h3]
+    rw [Finset.sum_congr rfl e1, Finset.sum_add_distrib, Finset.sum_add_distrib]
+    simp only [Finset.sum_ite, Finset.sum_const_zero, add_zero, Finset.sum_const, nsmul_eq_mul]
+    have c1 : ((Finset.range (ℓ + 1)).filter (fun n => ℓ - K ≤ n)).card = K + 1 := by
+      have : (Finset.range (ℓ + 1)).filter (fun n => ℓ - K ≤ n) = Finset.Ico (ℓ - K) (ℓ + 1) := by
+        ext n; simp only [Finset.mem_filter, Finset.mem_range, Finset.mem_Ico]; omega
+      rw [this, Nat.card_Ico]; omega
+    have c2 : ((Finset.range (ℓ + 1)).filter (fun n => ℓ - K ≤ n ∧ n + 1 ≤ ℓ)).card = K := by
+      have : (Finset.range (ℓ + 1)).filter (fun n => ℓ - K ≤ n ∧ n + 1 ≤ ℓ) =
+          Finset.Ico (ℓ - K) ℓ := by
+        ext n; simp only [Finset.mem_filter, Finset.mem_range, Finset.mem_Ico]; omega
+      rw [this, Nat.card_Ico]; omega
+    have c3 : ((Finset.range (ℓ + 1)).filter (fun n => ℓ - K + 1 ≤ n)).card = K := by
+      have : (Finset.range (ℓ + 1)).filter (fun n => ℓ - K + 1 ≤ n) =
+          Finset.Ico (ℓ - K + 1) (ℓ + 1) := by
+        ext n; simp only [Finset.mem_filter, Finset.mem_range, Finset.mem_Ico]; omega
+      rw [this, Nat.card_Ico]; omega
+    rw [c1, c2, c3]
+    push_cast
+    ring
+  rw [← hsum, dotProduct]
+  apply Finset.sum_le_sum
+  intro i _
+  have := hrow i
+  simp only [Matrix.mulVec, dotProduct] at this ⊢
+  linarith
+
+end Aux_DQI_Semicircle_eq_114
+
+open Aux_DQI_Semicircle_eq_114 in
+open DQI.Semicircle Filter Topology in
+theorem solution (μ dpar : ℝ) (hμ : 0 < μ) (m ℓ : ℕ → ℕ)
+    (hratio : Filter.Tendsto (fun j => (ℓ j : ℝ) / (m j : ℝ)) Filter.atTop (nhds μ))
+    (hm : Filter.Tendsto m Filter.atTop Filter.atTop) (hℓm : ∀ j, 2 * ℓ j ≤ m j) :
+    ∀ ε > 0, ∀ᶠ j in Filter.atTop,
+      μ * dpar + 2 * Real.sqrt (μ * (1 - μ)) - ε ≤ lamMax (Atri (m j) (ℓ j) dpar) / m j := by
+  intro ε hε
+  -- choose the window length
+  obtain ⟨K, hK⟩ : ∃ K : ℕ, 1 / ε < K := exists_nat_gt (1 / ε)
+  have hKpos : (0 : ℝ) < K := lt_trans (one_div_pos.mpr hε) hK
+  have hsq : Real.sqrt (μ * (1 - μ)) ≤ 1 / 2 := by
+    rw [Real.sqrt_le_iff]
+    constructor
+    · norm_num
+    · nlinarith [sq_nonneg (μ - 1 / 2)]
+  have hgap : 2 * Real.sqrt (μ * (1 - μ)) - 2 * ((K : ℝ) / (K + 1)) * Real.sqrt (μ * (1 - μ)) < ε := by
+    have h1 : 2 * Real.sqrt (μ * (1 - μ)) - 2 * ((K : ℝ) / (K + 1)) * Real.sqrt (μ * (1 - μ)) =
+        2 * Real.sqrt (μ * (1 - μ)) / (K + 1) := by
+      have : (K : ℝ) + 1 ≠ 0 := by positivity
+      field_simp <;> ring
+    rw [h1, div_lt_iff₀ (by positivity)]
+    have h2 : 1 < ε * K := by rwa [div_lt_iff₀ hε, mul_comm] at hK
+    nlinarith [Real.sqrt_nonneg (μ * (1 - μ))]
+  -- the limit of the lower bound
+  have hmR : Tendsto (fun j => (m j : ℝ)) atTop atTop := tendsto_natCast_atTop_iff.mpr hm
+  have hK0 : Tendsto (fun j => (K : ℝ) / (m j : ℝ)) atTop (𝓝 0) :=
+    (tendsto_const_div_atTop_nhds_zero_nat (K : ℝ)).comp hm
+  have hKd : Tendsto (fun j => (K : ℝ) * |dpar| / (m j : ℝ)) atTop (𝓝 0) :=
+    (tendsto_const_div_atTop_nhds_zero_nat ((K : ℝ) * |dpar|)).comp hm
+  have hA1 : Tendsto (fun j => ((ℓ j : ℝ) - K) / (m j : ℝ)) atTop (𝓝 μ) := by
+    have := hratio.sub hK0
+    rw [sub_zero] at this
+    exact this.congr (fun j => (sub_div _ _ _).symm)
+  have hA2 : Tendsto (fun j => ((m j : ℝ) - ℓ j) / (m j : ℝ)) atTop (𝓝 (1 - μ)) := by
+    have := (tendsto_const_nhds (x := (1 : ℝ))).sub hratio
+    refine this.congr' ?_
+    filter_upwards [hm.eventually_gt_atTop 0] with j hj
+    have : (m j : ℝ) ≠ 0 := by exact_mod_cast hj.ne'
+    rw [sub_div, div_self this]
+  have hG : Tendsto (fun j => (ℓ j : ℝ) / (m j : ℝ) * dpar - (K : ℝ) * |dpar| / (m j : ℝ) +
+      2 * ((K : ℝ) / (K + 1)) *
+        Real.sqrt (((ℓ j : ℝ) - K) / (m j : ℝ) * (((m j : ℝ) - ℓ j) / (m j : ℝ)))) atTop
+      (𝓝 (μ * dpar - 0 + 2 * ((K : ℝ) / (K + 1)) * Real.sqrt (μ * (1 - μ)))) :=
+    ((hratio.mul_const dpar).sub hKd).add ((hA1.mul hA2).sqrt.const_mul _)
+  have hev := hG.eventually (lt_mem_nhds (show μ * dpar + 2 * Real.sqrt (μ * (1 - μ)) - ε <
+      μ * dpar - 0 + 2 * ((K : ℝ) / (K + 1)) * Real.sqrt (μ * (1 - μ)) by linarith))
+  -- ℓ j ≥ K eventually
+  have hℓK : ∀ᶠ j in atTop, K ≤ ℓ j := by
+    have h1 := hratio.eventually (lt_mem_nhds (show μ / 2 < μ by linarith))
+    have h2 := hmR.eventually_gt_atTop (2 * K / μ)
+    filter_upwards [h1, h2] with j hj1 hj2
+    have hmpos : (0 : ℝ) < m j :=
+      lt_of_le_of_lt (div_nonneg (by positivity) hμ.le) hj2
+    rw [lt_div_iff₀ hmpos] at hj1
+    have : (K : ℝ) ≤ ℓ j := by
+      rw [div_lt_iff₀ hμ] at hj2
+      linarith
+    exact_mod_cast this
+  filter_upwards [hev, hℓK, hm.eventually_gt_atTop 0] with j hj hjK hjm
+  have hmpos : (0 : ℝ) < m j := by exact_mod_cast hjm
+  -- Rayleigh lower bound
+  have hq := quad_lb (m j) (ℓ j) K dpar hjK (hℓm j)
+  have hr := rayleigh (Atri (m j) (ℓ j) dpar) (atri_herm _ _ _)
+    (fun i : Fin (ℓ j + 1) => if ℓ j - K ≤ (i : ℕ) then (1 : ℝ) else 0)
+  have hvv : (fun i : Fin (ℓ j + 1) => if ℓ j - K ≤ (i : ℕ) then (1 : ℝ) else 0) ⬝ᵥ
+      (fun i : Fin (ℓ j + 1) => if ℓ j - K ≤ (i : ℕ) then (1 : ℝ) else 0) = (K : ℝ) + 1 := by
+    calc _ = ∑ i : Fin (ℓ j + 1), (fun n : ℕ => if ℓ j - K ≤ n then (1 : ℝ) else 0) (i : ℕ) := by
+          simp only [dotProduct]
+          apply Finset.sum_congr rfl
+          intro i _
+          split_ifs <;> norm_num
+      _ = ∑ n ∈ Finset.range (ℓ j + 1), (fun n : ℕ => if ℓ j - K ≤ n then (1 : ℝ) else 0) n :=
+          Fin.sum_univ_eq_sum_range (fun n : ℕ => if ℓ j - K ≤ n then (1 : ℝ) else 0) (ℓ j + 1)
+      _ = (K : ℝ) + 1 := by
+          simp only []
+          rw [Finset.sum_boole]
+          have : (Finset.range (ℓ j + 1)).filter (fun n => ℓ j - K ≤ n) =
+              Finset.Ico (ℓ j - K) (ℓ j + 1) := by
+            ext n; simp only [Finset.mem_filter, Finset.mem_range, Finset.mem_Ico]; omega
+          rw [this, Nat.card_Ico, show ℓ j + 1 - (ℓ j - K) = K + 1 by omega]
+          push_cast
+          ring
+  rw [hvv] at hr
+  have hlam : ((K : ℝ) + 1) * (ℓ j * dpar - K * |dpar|) +
+      2 * K * Real.sqrt (((ℓ j : ℝ) - K) * ((m j : ℝ) - ℓ j)) ≤
+      lamMax (Atri (m j) (ℓ j) dpar) * ((K : ℝ) + 1) := by
+    unfold lamMax
+    linarith
+  -- divide by (K+1) m
+  have hsqrt : Real.sqrt (((ℓ j : ℝ) - K) / (m j : ℝ) * (((m j : ℝ) - ℓ j) / (m j : ℝ))) =
+      Real.sqrt (((ℓ j : ℝ) - K) * ((m j : ℝ) - ℓ j)) / m j := by
+    rw [div_mul_div_comm, Real.sqrt_div' _ (by positivity), Real.sqrt_mul_self hmpos.le]
+  rw [hsqrt] at hj
+  have hK1 : (0 : ℝ) < K + 1 := by positivity
+  have e : (ℓ j : ℝ) / (m j) * dpar - K * |dpar| / m j +
+      2 * ((K : ℝ) / (K + 1)) * (Real.sqrt (((ℓ j : ℝ) - K) * ((m j : ℝ) - ℓ j)) / m j) =
+      (((K : ℝ) + 1) * (ℓ j * dpar - K * |dpar|) +
+        2 * K * Real.sqrt (((ℓ j : ℝ) - K) * ((m j : ℝ) - ℓ j))) / ((K + 1) * m j) := by
+    have h1 : (K : ℝ) + 1 ≠ 0 := hK1.ne'
+    have h2 : (m j : ℝ) ≠ 0 := hmpos.ne'
+    field_simp <;> ring
+  have hfin : (((K : ℝ) + 1) * (ℓ j * dpar - K * |dpar|) +
+        2 * K * Real.sqrt (((ℓ j : ℝ) - K) * ((m j : ℝ) - ℓ j))) / ((K + 1) * m j) ≤
+      lamMax (Atri (m j) (ℓ j) dpar) / m j := by
+    rw [div_le_div_iff₀ (mul_pos hK1 hmpos) hmpos]
+    have := mul_le_mul_of_nonneg_right hlam hmpos.le
+    nlinarith
+  linarith

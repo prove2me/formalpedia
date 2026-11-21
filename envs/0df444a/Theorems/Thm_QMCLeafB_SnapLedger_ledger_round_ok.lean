@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCLeafB_SnapLedger_ledger_round_ok
 -- name    : QMCLeafB.SnapLedger.ledger_round_ok
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-04T10:10:24.4165+00:00
 -- url     : https://prove2.me/theorems/6ed316b4-d90c-4613-b461-5cc6020545f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P24_polarization_entropy_formula
 -- name    : QAlgorithms.Papers.Independent.Intake100.P24.polarization_entropy_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:18:33.365725+00:00
 -- url     : https://prove2.me/theorems/a3d810c2-ad51-47b1-9e0c-eaba8b7ceea1

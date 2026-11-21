@@ -1,0 +1,66 @@
+-- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_integrable_abs_sum_pow_three
+-- name    : LevyStochCalc.Brownian.Ito.integrable_abs_sum_pow_three
+-- status  : Open
+-- author  : @WillR
+-- created : 2026-11-20T19:21:15.375845+00:00
+-- url     : https://prove2.me/theorems/d646f3d0-ec64-4ccc-8598-c6bdc06b5574
+-- title:
+--   integrable abs sum pow three
+-- statement:
+--   The source theorem `LevyStochCalc.Brownian.Ito.integrable_abs_sum_pow_three` is extracted from `LevyStochCalc.Brownian.VectorItoProcess`. The original Lean proposition is retained verbatim, and its proof is tracked separately for remote certification.
+-- source:
+--   https://github.com/cgarryZA/LevyStochCalc
+
+import Definitions.Def_LevyStochCalc_Brownian_VectorItoProcess_F000
+
+/-
+Copyright (c) 2026 Christian Garry. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Christian Garry
+-/
+
+/-!
+# Vector Itô processes and the moments of their increments
+
+A vector Itô process is `X_t = X₀ + ∫_{[0,t]} b_s ds + ∑ₖ ∫_0^t H^{·,k}_s dWᵏ_s` with values in
+`Fin n → ℝ`, driven by a `d`-dimensional Brownian motion. Each coordinate's increment across a
+window is a drift increment plus a finite sum of Itô-integral increments, so its moments follow
+from the drift bound, the increment moments of the scalar Itô integral and Jensen's inequality
+for sums; the supremum norm on `Fin n → ℝ` is then controlled coordinatewise.
+
+## Main statements
+
+* `LevyStochCalc.Brownian.Ito.vectorItoProcess` — the process itself.
+* `LevyStochCalc.Brownian.Ito.vectorItoProcess_sub` — the coordinate increment splits into a
+  drift part and a sum of Itô-integral increments.
+* `LevyStochCalc.Brownian.Ito.integral_sq_vectorItoProcess_sub_le` — the coordinate second
+  moment `𝔼|ΔXᵐ|² ≤ 2(BΔt)² + 2d²C²Δt`.
+* `LevyStochCalc.Brownian.Ito.integral_abs_vectorItoProcess_sub_le` — the coordinate first
+  absolute moment `𝔼|ΔXᵐ| ≤ BΔt + dC√(Δt)`.
+* `LevyStochCalc.Brownian.Ito.integral_norm_vectorItoProcess_sub_le` and
+  `LevyStochCalc.Brownian.Ito.integral_sq_norm_vectorItoProcess_sub_le` — the same two moments
+  for the supremum norm of the vector increment.
+* `LevyStochCalc.Brownian.Ito.integrable_norm_vectorItoProcess_sub_pow_three` — the cube of the
+  norm of the increment is integrable.
+-/
+
+namespace LevyStochCalc.Brownian.Ito
+
+open MeasureTheory ProbabilityTheory
+open scoped NNReal ENNReal
+
+universe u
+
+section PiNorm
+
+variable {n : ℕ}
+
+end PiNorm
+
+section FiniteSums
+
+variable {Ω : Type u} [MeasurableSpace Ω] {P : Measure Ω} {ι : Type*} [Fintype ι]
+
+theorem _root_.LevyStochCalc.Brownian.Ito.integrable_abs_sum_pow_three {f : ι → Ω → ℝ} (hfm : ∀ i, Measurable (f i))
+    (hfi : ∀ i, Integrable (fun ω => |f i ω| ^ 3) P) :
+    Integrable (fun ω => |∑ i, f i ω| ^ 3) P := by sorry

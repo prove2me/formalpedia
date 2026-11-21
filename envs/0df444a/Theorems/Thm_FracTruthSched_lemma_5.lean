@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracTruthSched_lemma_5
 -- name    : FracTruthSched.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:34:17.655423+00:00
 -- url     : https://prove2.me/theorems/e652f497-554c-479a-97fc-7b389e9fc315

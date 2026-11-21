@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_dimension_decreases_with_rank
 -- name    : MoranYanPAC.Main.dimension_decreases_with_rank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:05:16.687717+00:00
 -- url     : https://prove2.me/theorems/a42007c8-f8e6-4066-a6cf-451412d408f9

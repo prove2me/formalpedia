@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_count_singleton_ne_zero_of_restrict_ne_zero
 -- name    : LevyStochCalc.Poisson.count_singleton_ne_zero_of_restrict_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T16:24:18.851012+00:00
 -- url     : https://prove2.me/theorems/ebe6e7f0-86e6-4704-8f25-63bc97de3071

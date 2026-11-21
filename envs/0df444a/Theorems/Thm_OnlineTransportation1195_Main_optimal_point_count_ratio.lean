@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_optimal_point_count_ratio
 -- name    : OnlineTransportation1195.Main.optimal_point_count_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:36:01.295514+00:00
 -- url     : https://prove2.me/theorems/a9ba777c-6a81-4d18-a76c-451d4be9e9ef

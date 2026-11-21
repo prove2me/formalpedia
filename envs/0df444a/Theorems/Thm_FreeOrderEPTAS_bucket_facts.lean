@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_bucket_facts
 -- name    : FreeOrderEPTAS.bucket_facts
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:27:10.199215+00:00
 -- url     : https://prove2.me/theorems/aba2441c-5e29-4d5a-b3d7-90c7d63027b3

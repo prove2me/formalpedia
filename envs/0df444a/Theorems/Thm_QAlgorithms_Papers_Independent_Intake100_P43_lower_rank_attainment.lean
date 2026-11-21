@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P43_lower_rank_attainment
 -- name    : QAlgorithms.Papers.Independent.Intake100.P43.lower_rank_attainment
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:29:35.112872+00:00
 -- url     : https://prove2.me/theorems/31020499-e525-463a-a71d-1f46001d1c2f

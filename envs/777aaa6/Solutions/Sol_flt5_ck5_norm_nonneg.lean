@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_ck5_norm_nonneg
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T17:06:41.551256+00:00
 -- url     : https://prove2.me/submissions/e9fb7df8-299f-4c75-b296-c57807379257
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

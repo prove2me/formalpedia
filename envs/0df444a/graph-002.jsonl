@@ -37565,7 +37565,7 @@
 {"parent": "GrothendieckConstant.krivine_scheme_affine_constraint_of_f_eq_g", "child": "KrivineSchemeDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.opt_le_sdp", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.pi_div_two_le_grothendieckConst", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
-{"parent": "GrothendieckConstant.six_pi_div_eleven_le_grothendieckConst", "child": "GrothendieckConstantDefs", "via": ["statement"]}
+{"parent": "GrothendieckConstant.six_pi_div_eleven_le_grothendieckConst", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckTeichmuller.brown_free_lie_subalgebra", "child": "GT_grt1", "via": ["solution", "statement"]}
 {"parent": "GrothendieckTeichmuller.brown_free_lie_subalgebra", "child": "GrothendieckTeichmuller.deligne_drinfeld_ihara", "via": ["solution"]}
 {"parent": "GrothendieckTeichmuller.deligne_drinfeld_ihara", "child": "DeligneDrinfeld", "via": ["solution"]}
@@ -45692,12 +45692,12 @@
 {"parent": "InnerProductGeometry.angle_triangle", "child": "metric_alexandrov_angle", "via": ["solution", "statement"]}
 {"parent": "InnerProductSpace.exists_mem_norm_sub_lt_of_exists_mem_span_orbit_of_average", "child": "P2M_Util", "via": ["solution"]}
 {"parent": "InputSparsity.Embed.coordinate_bound", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["solution", "statement"]}
-{"parent": "InputSparsity.Embed.lemma_2", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["statement"]}
+{"parent": "InputSparsity.Embed.lemma_2", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["solution", "statement"]}
 {"parent": "InputSparsity.Embed.lemma_3", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["statement"]}
-{"parent": "InputSparsity.Embed.lemma_5", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["statement"]}
-{"parent": "InputSparsity.Embed.lemma_6", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["statement"]}
+{"parent": "InputSparsity.Embed.lemma_5", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["solution", "statement"]}
+{"parent": "InputSparsity.Embed.lemma_6", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["solution", "statement"]}
 {"parent": "InputSparsity.Embed.lemma_7", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["statement"]}
-{"parent": "InputSparsity.Embed.lemma_8", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["statement"]}
+{"parent": "InputSparsity.Embed.lemma_8", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["solution", "statement"]}
 {"parent": "InputSparsity.Embed.theorem_11", "child": "InputSparsity_Embed_SparseEmbedding", "via": ["statement"]}
 {"parent": "InputSparsity.Regress.fact_34", "child": "InputSparsity_Regress_Basic", "via": ["solution", "statement"]}
 {"parent": "InputSparsity.Regress.fact_35", "child": "InputSparsity_Regress_Basic", "via": ["solution", "statement"]}
@@ -51695,8 +51695,8 @@
 {"parent": "LandauFunction.landau_log_eq_sqrt_logIntegralInv", "child": "LandauFunction_landau", "via": ["solution", "statement"]}
 {"parent": "LandauFunction.landau_log_eq_sqrt_logIntegralInv", "child": "LandauFunction_logIntegral", "via": ["solution", "statement"]}
 {"parent": "LandauFunction.landau_log_tendsto", "child": "LandauFunction_landau", "via": ["solution", "statement"]}
-{"parent": "LandauFunction.landau_riemann_hypothesis_iff", "child": "LandauFunction_landau", "via": ["statement"]}
-{"parent": "LandauFunction.landau_riemann_hypothesis_iff", "child": "LandauFunction_logIntegral", "via": ["statement"]}
+{"parent": "LandauFunction.landau_riemann_hypothesis_iff", "child": "LandauFunction_landau", "via": ["solution", "statement"]}
+{"parent": "LandauFunction.landau_riemann_hypothesis_iff", "child": "LandauFunction_logIntegral", "via": ["solution", "statement"]}
 {"parent": "Landreman3DEquilibria.H_at_toroidal_zero", "child": "landreman_integer_iota_family", "via": ["solution", "statement"]}
 {"parent": "Landreman3DEquilibria.H_at_toroidal_zero", "child": "landreman_vector_calculus", "via": ["solution", "statement"]}
 {"parent": "Landreman3DEquilibria.H_field_line_constant", "child": "landreman_integer_iota_family", "via": ["solution", "statement"]}

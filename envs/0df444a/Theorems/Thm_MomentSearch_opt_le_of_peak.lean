@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_opt_le_of_peak
 -- name    : MomentSearch.opt_le_of_peak
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:11:22.4371+00:00
 -- url     : https://prove2.me/theorems/812d8730-18ab-48ef-afce-ebaec7fc342b

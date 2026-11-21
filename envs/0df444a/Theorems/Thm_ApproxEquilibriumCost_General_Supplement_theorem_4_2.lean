@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_Supplement_theorem_4_2
 -- name    : ApproxEquilibriumCost.General.Supplement.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:48:00.699655+00:00
 -- url     : https://prove2.me/theorems/5756f9e1-39c2-46bb-9b9f-b492a5df69c1

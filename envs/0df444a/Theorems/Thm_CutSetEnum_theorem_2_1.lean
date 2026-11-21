@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CutSetEnum_theorem_2_1
 -- name    : CutSetEnum.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:18.760388+00:00
 -- url     : https://prove2.me/theorems/29aa81a0-2f43-4b8f-af0b-80c1fbd02766

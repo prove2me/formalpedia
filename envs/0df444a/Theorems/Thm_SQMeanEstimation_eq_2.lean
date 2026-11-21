@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SQMeanEstimation_eq_2
 -- name    : SQMeanEstimation.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:17:02.424779+00:00
 -- url     : https://prove2.me/theorems/8fa7d9da-a85a-4022-ab65-e1bfda64d0d5

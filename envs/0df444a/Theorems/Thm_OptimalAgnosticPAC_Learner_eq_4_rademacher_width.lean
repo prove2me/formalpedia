@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalAgnosticPAC_Learner_eq_4_rademacher_width
 -- name    : OptimalAgnosticPAC.Learner.eq_4_rademacher_width
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:56:32.220008+00:00
 -- url     : https://prove2.me/theorems/a85ff607-8a50-44b9-8a80-f1ae4a2d42e6

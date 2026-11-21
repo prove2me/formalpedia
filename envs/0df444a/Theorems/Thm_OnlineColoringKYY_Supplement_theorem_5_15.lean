@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineColoringKYY_Supplement_theorem_5_15
 -- name    : OnlineColoringKYY.Supplement.theorem_5_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T07:10:54.089351+00:00
 -- url     : https://prove2.me/theorems/68239085-f454-49ba-a1ea-f7456d79d444

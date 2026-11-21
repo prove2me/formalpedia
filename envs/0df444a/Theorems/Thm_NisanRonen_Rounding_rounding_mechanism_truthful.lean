@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_rounding_mechanism_truthful
 -- name    : NisanRonen.Rounding.rounding_mechanism_truthful
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:28:07.953803+00:00
 -- url     : https://prove2.me/theorems/024d9e2a-a7b4-405d-b202-c7f4d557a424

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracTruthSched_lemma_4
 -- name    : FracTruthSched.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:33:00.430947+00:00
 -- url     : https://prove2.me/theorems/047642b2-e82e-481d-b331-bb257d6e25aa

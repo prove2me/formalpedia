@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FasterPrimeEnum_lemma_2_11
 -- name    : FasterPrimeEnum.lemma_2_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T10:37:54.362448+00:00
 -- url     : https://prove2.me/theorems/1b96ed90-c9f9-48d0-a832-550b1264897a

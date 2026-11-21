@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProdMomentConc_lemma_2_3
 -- name    : ProdMomentConc.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:13:09.455877+00:00
 -- url     : https://prove2.me/theorems/ff30e69a-6931-4489-bdff-c135cc511cd5

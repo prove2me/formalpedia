@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isProperEmbedding_proj_of_isFastPlane
 -- name    : FiniteEnergyPlane.isProperEmbedding_proj_of_isFastPlane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:09:33.009328+00:00
 -- url     : https://prove2.me/theorems/18bda440-d759-4dbc-a024-96ca65f0f640

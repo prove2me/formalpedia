@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_constraints_I_III
 -- name    : FreeOrderEPTAS.constraints_I_III
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:26:36.789307+00:00
 -- url     : https://prove2.me/theorems/0af07121-d8b8-4bce-ab7c-6b65dffa772a

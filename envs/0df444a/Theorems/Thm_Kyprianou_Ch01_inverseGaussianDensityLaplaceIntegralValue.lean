@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianDensityLaplaceIntegralValue
 -- name    : Kyprianou.Ch01.inverseGaussianDensityLaplaceIntegralValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T11:06:48.906475+00:00
 -- url     : https://prove2.me/theorems/ffb3fe38-f740-41bf-9d66-902bdf632cba

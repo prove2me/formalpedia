@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Decomp1528c_theta_ge_half_mid
 -- name    : LL_Decomp1528c.theta_ge_half_mid
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-10-29T15:29:53.52456+00:00
 -- url     : https://prove2.me/theorems/827eac42-d6ba-48fb-9e92-13cb0776e11d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StreamSubmod_corollary_7
 -- name    : StreamSubmod.corollary_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:48.046789+00:00
 -- url     : https://prove2.me/theorems/4aab0930-9945-471d-8b4b-ccfa1c70e969

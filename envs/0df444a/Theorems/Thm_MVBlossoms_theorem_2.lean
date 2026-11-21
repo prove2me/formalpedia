@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MVBlossoms_theorem_2
 -- name    : MVBlossoms.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:41:16.360405+00:00
 -- url     : https://prove2.me/theorems/7ba716ca-a69e-4bcc-91db-ab492144752b

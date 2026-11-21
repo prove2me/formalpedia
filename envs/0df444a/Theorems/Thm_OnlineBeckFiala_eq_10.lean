@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineBeckFiala_eq_10
 -- name    : OnlineBeckFiala.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:33:50.060707+00:00
 -- url     : https://prove2.me/theorems/b5b21779-33e3-4e93-bb4e-85c6db443e88

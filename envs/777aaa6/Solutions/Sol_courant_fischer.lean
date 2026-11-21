@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for courant_fischer
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-03T01:06:02.353477+00:00
 -- url     : https://prove2.me/submissions/53dd116b-ff41-428a-a100-8cbcbaacd143
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_courant_fischer
 import Theorems.Thm_hermitian_kth_eigenvalue_witness

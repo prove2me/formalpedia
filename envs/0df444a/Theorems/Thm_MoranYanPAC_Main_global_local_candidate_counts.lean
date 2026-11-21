@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_global_local_candidate_counts
 -- name    : MoranYanPAC.Main.global_local_candidate_counts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:07:17.64033+00:00
 -- url     : https://prove2.me/theorems/23c409f2-235c-4f0c-bbe0-9958ee2780f6

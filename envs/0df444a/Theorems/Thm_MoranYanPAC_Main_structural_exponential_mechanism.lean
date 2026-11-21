@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_structural_exponential_mechanism
 -- name    : MoranYanPAC.Main.structural_exponential_mechanism
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:06:45.580872+00:00
 -- url     : https://prove2.me/theorems/1e4d7bd0-550e-4b7f-8a67-924f2005a746

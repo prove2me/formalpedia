@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStageAlloc_inequality_1
 -- name    : MultiStageAlloc.inequality_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:34:08.98334+00:00
 -- url     : https://prove2.me/theorems/51d8566d-a174-46fa-bb5a-97d05702bfcd

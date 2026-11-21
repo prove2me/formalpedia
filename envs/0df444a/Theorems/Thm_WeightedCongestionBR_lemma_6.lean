@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedCongestionBR_lemma_6
 -- name    : WeightedCongestionBR.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:19:08.145617+00:00
 -- url     : https://prove2.me/theorems/264a0505-550e-4fd4-b41a-69845194dadf

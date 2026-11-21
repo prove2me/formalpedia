@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_corollary_3_3
 -- name    : ApproxEquilibriumCost.General.corollary_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:13.187781+00:00
 -- url     : https://prove2.me/theorems/0a1bceb6-91dc-4995-a51c-e2b9aee5ff98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_trace_averaging
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.trace_averaging
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:42:12.098864+00:00
 -- url     : https://prove2.me/theorems/f44c1fe6-c6f6-41fe-bf4c-9eac275505ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dgs_pool_rank_failure
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dgs_pool_rank_failure
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T23:01:53.377437+00:00
 -- url     : https://prove2.me/theorems/df0bd4b7-038d-4a90-8b4f-1612ace2c24d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMaxCutSDP_Rounding_lemma_2
 -- name    : QMaxCutSDP.Rounding.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:48:15.445983+00:00
 -- url     : https://prove2.me/theorems/660c48bf-62c0-4536-965f-a4057476025b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayCut_karger_reduction
 -- name    : MultiwayCut.karger_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:41.059591+00:00
 -- url     : https://prove2.me/theorems/51889ea1-77d3-4eb6-97a9-55257c979f14

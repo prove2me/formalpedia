@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalAgnosticPAC_Learner_lemma_2_1
 -- name    : OptimalAgnosticPAC.Learner.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:56:33.288023+00:00
 -- url     : https://prove2.me/theorems/b1141ad2-dad5-4523-8d0a-457329c1ecc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_sum_price_eq_sum_margin
 -- name    : WindowedMatching.sum_price_eq_sum_margin
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:37.993013+00:00
 -- url     : https://prove2.me/theorems/c748398a-d67a-4cd6-a21c-b6d124989990

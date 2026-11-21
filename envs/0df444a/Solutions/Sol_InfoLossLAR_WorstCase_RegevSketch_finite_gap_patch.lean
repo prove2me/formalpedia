@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSketch.finite_gap_patch
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T08:54:00.559207+00:00
 -- url     : https://prove2.me/submissions/7971ec59-4b0b-4bb4-98c3-43f9bfb90ae4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_finite_exact_gap
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_gap_dimension_dispatch

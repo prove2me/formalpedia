@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusableMatching_lemma_2
 -- name    : ReusableMatching.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:47.250115+00:00
 -- url     : https://prove2.me/theorems/32d09303-e707-4253-ad4a-ffd6ff7548d1

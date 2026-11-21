@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NarrowDNF_Approx_hatami_step_two_small_low_degree_mass
 -- name    : NarrowDNF.Approx.hatami_step_two_small_low_degree_mass
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T10:13:33.082911+00:00
 -- url     : https://prove2.me/theorems/46d29971-eeab-4c4b-8f1b-f481053dda1e

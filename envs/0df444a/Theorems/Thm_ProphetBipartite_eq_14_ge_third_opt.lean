@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_eq_14_ge_third_opt
 -- name    : ProphetBipartite.eq_14_ge_third_opt
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:50:10.369565+00:00
 -- url     : https://prove2.me/theorems/7baa025c-7478-4f67-a734-a5d784eadfed

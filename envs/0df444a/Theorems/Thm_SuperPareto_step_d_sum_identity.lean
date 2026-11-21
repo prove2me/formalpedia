@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperPareto_step_d_sum_identity
 -- name    : SuperPareto.step_d_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:47.246899+00:00
 -- url     : https://prove2.me/theorems/25225415-2879-4055-95ba-7e82d686775a

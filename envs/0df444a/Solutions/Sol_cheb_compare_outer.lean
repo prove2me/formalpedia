@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for cheb_compare_outer
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T11:59:36.250501+00:00
 -- url     : https://prove2.me/submissions/f06fdc22-68d3-4d1a-a8fb-8cbb7681a2a3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cheb_alt_compare
 import Theorems.Thm_jordan_cos_sq_le

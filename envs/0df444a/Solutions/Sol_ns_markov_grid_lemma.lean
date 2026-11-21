@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ns_markov_grid_lemma
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T03:57:05.351786+00:00
 -- url     : https://prove2.me/submissions/eb8e04fd-9e23-456a-a835-d4d941d07c76
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_classical_markov_range
 import Mathlib.Analysis.Calculus.Deriv.MeanValue

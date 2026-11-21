@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LDPSelect_graph_structure
 -- name    : LDPSelect.graph_structure
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T15:54:21.197202+00:00
 -- url     : https://prove2.me/theorems/a9d36c44-72c1-4747-8547-3c53b6eb13d4

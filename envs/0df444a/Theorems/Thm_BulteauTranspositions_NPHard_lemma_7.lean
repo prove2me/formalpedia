@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BulteauTranspositions_NPHard_lemma_7
 -- name    : BulteauTranspositions.NPHard.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T21:52:55.493982+00:00
 -- url     : https://prove2.me/theorems/3cf94465-1d09-4fa7-857f-85009aa77681

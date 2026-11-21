@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomRescale_lemma_3_4
 -- name    : GeomRescale.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:15:34.235982+00:00
 -- url     : https://prove2.me/theorems/3ab04a9f-9dfc-4af9-a90f-c42c1aebff0e

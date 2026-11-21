@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnbiasedTimeAvg_eq_H_3
 -- name    : UnbiasedTimeAvg.eq_H_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:18:51.180209+00:00
 -- url     : https://prove2.me/theorems/25aaca7b-8ed7-46a1-ad06-376b6711c3a4

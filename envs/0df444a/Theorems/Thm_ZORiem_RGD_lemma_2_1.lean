@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZORiem_RGD_lemma_2_1
 -- name    : ZORiem.RGD.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:38.887785+00:00
 -- url     : https://prove2.me/theorems/51f1f2de-77b7-4d30-9643-31fe6f514f12

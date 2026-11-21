@@ -63100,7 +63100,7 @@
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB2_4_2I1R16Raw_sound", "child": "OAIQ254M010", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Order_SplitCoordinates", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Norm_IntrinsicNorm", "via": ["statement"]}
 {"parent": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Order_SplitCoordinates", "child": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.exists_arithmetic_coordinate_of_cartwrightStegerOrder", "via": ["statement"]}
-{"parent": "DecrNearAddAPSP.W2.section_6_1_rounding", "child": "DecrNearAddAPSP_W2_Graphs", "via": ["statement"]}
+{"parent": "DecrNearAddAPSP.W2.section_6_1_rounding", "child": "DecrNearAddAPSP_W2_Graphs", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25245", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB3_4_1I1R1MassTerm_sound", "child": "OAIQ254M005", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg26293", "child": "OAIQ259US007", "via": ["solution", "statement"]}
@@ -77693,8 +77693,8 @@
 {"parent": "QEC.Distillation.Triorthogonal.BH12Concatenation.bh12PathTypedSuccessfulOutputCost_le_two", "child": "QEC_Distillation_Triorthogonal_Concatenation", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.BH12Concatenation.bh12PathTypedSuccessfulOutputCost_le_two", "child": "QEC_Distillation_Core_Overhead", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.BH12Concatenation.bh12PathTypedSuccessfulOutputCost_le_two", "child": "QEC_Distillation_Triorthogonal_Protocol", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_phys89_original_zero_marks_survival_drift_stieltjes_cash_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_bvb_phys89_original_zero_marks_survival_drift_stieltjes_cash_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_phys89_original_zero_marks_survival_drift_stieltjes_cash_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_bvb_phys89_original_zero_marks_survival_drift_stieltjes_cash_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_351All", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_351All", "child": "OAIQ259US012", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg21359", "child": "OAIQ259US007", "via": ["solution", "statement"]}
@@ -84459,9 +84459,6 @@
 {"parent": "OAI.UniversalTensorSquare.degreeTree26_60All", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree26_60All", "child": "OAIQ259US008", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25115", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ja21_original_compensated_smallband_exact_variance", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ja21_original_compensated_smallband_exact_variance", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ja21_original_compensated_smallband_exact_variance", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRetryPoolPhysicalProtocolSuccessMass_eq_aux", "child": "QEC_Distillation_LowOverheadProtocol_Parameterized_RetryPool_Physical_SuccessMassRecurrence", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRetryPoolPhysicalProtocolSuccessMass_eq_aux", "child": "QEC_Semantics_Instruments_Tensor_MarginalBornMass", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.HH18Parameterized.decodedRetryPoolPhysicalProtocolSuccessMass_eq_aux", "child": "QEC_Distillation_LowOverheadProtocol_Parameterized_RetryPool_Successor_BranchProduct", "via": ["solution", "statement"]}
@@ -86943,9 +86940,9 @@
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA4_5_7I2Singleton_sound", "child": "OAIQ254M004", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg13184", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg22755", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jb27_original_positive_clock_ito_certificate", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_jb27_original_positive_clock_ito_certificate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_jb27_original_positive_clock_ito_certificate", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jb27_original_positive_clock_ito_certificate", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_jb27_original_positive_clock_ito_certificate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_jb27_original_positive_clock_ito_certificate", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg22287", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree35_18All", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree35_18All", "child": "OAIQ259US008", "via": ["statement"]}
@@ -89285,7 +89282,6 @@
 {"parent": "HolonomicPositivity.Robust.lemma_5_4", "child": "HolonomicPositivity.Robust.lemma_5_3", "via": ["solution"]}
 {"parent": "HolonomicPositivity.Robust.lemma_5_4", "child": "HolonomicPositivity.Robust.lemma_5_4_scaling_case_II_2", "via": ["solution"]}
 {"parent": "EntropyLocalCoord.Leader.ileader_le_cut_fraction", "child": "EntropyLocalCoord_Leader_Information", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.avram_ubv_mixed12_finite_activity_source_martingale_majorant", "child": "AvramDividend.Classical.avram_a07_finite_source_initial_condexp_upper", "via": ["solution"]}
 {"parent": "StabilityDichotomies.Solvability.sparse_large_diameter_obstruction", "child": "StabilityDichotomies_Solvability_LinksSquares", "via": ["solution"]}
 {"parent": "StabilityDichotomies.Solvability.sparse_large_diameter_obstruction", "child": "StabilityDichotomies_Solvability_Model", "via": ["solution"]}
 {"parent": "StabilityDichotomies.Solvability.sparse_large_diameter_obstruction", "child": "StabilityDichotomies.Solvability.links_squares_properties", "via": ["solution"]}
@@ -89307,7 +89303,6 @@
 {"parent": "SuperRamanujan227.Main.theorem_1_1", "child": "SuperRamanujan227_Main_FiniteFreeConvolution", "via": ["solution"]}
 {"parent": "SuperRamanujan227.Main.theorem_1_1", "child": "SuperRamanujan227.Main.lemma_2_5", "via": ["solution"]}
 {"parent": "RamseyDisambig.Spherical.lemma_10", "child": "RamseyDisambig_Spherical_GapColoring", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.avram_ubv_mixed12_ruinclipped_finite_source_martingale_majorant", "child": "AvramDividend.Classical.avram_ubv_mixed12_finite_activity_source_martingale_majorant", "via": ["solution"]}
 {"parent": "LinMaxLoad.lemma_7_conditional_bound", "child": "LinMaxLoad.lemma_7_load_identity", "via": ["solution"]}
 {"parent": "LinMaxLoad.lemma_7_conditional_bound", "child": "LinMaxLoad_avgLin", "via": ["solution"]}
 {"parent": "OuterplanarL1Tan.Linear.lemma_2", "child": "OuterplanarL1Tan.Linear.claim_3", "via": ["solution"]}
@@ -89566,7 +89561,6 @@
 {"parent": "QEC.Coding.BDL26CSSHamiltonian.check_swap", "child": "QEC.Coding.StabilizerCode.LocalStabilizerHamiltonian.generatorOperator_adjoint_eq_self", "via": ["solution"]}
 {"parent": "QEC.Coding.BDL26CSSHamiltonian.check_swap", "child": "QEC.Locality.NoEdgeBetween.symm", "via": ["solution"]}
 {"parent": "QEC.Coding.BDL26LevelTwoCode.levelTwoZ_card", "child": "QEC.Coding.BDL26LevelTwoCode.rzPresentationZ_card", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.avram_mix_fin17_original_ito_cash_ledger_bounded_jump_gaussian_public", "child": "AvramDividend.Classical.avram_ubv_mixed12_finite_activity_source_martingale_majorant", "via": ["solution"]}
 {"parent": "TensorRankN2M.ThreeTwoM.theorem_1", "child": "TensorRankN2M.ThreeTwoM.lemma_12", "via": ["solution"]}
 {"parent": "TensorRankN2M.ThreeTwoM.theorem_1", "child": "TensorRankN2M_ThreeTwoM_SkewAugmentation", "via": ["solution"]}
 {"parent": "TensorRankN2M.ThreeTwoM.theorem_1", "child": "TensorRankN2M_ThreeTwoM_CaseN3", "via": ["solution"]}

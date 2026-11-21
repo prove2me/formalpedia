@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_theorem_24
 -- name    : MomentSearch.theorem_24
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:08:12.186786+00:00
 -- url     : https://prove2.me/theorems/268bbde8-9e39-493f-b5df-4c313258dceb

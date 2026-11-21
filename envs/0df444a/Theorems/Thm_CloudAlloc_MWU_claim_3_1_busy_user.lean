@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_claim_3_1_busy_user
 -- name    : CloudAlloc.MWU.claim_3_1_busy_user
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:41:18.489159+00:00
 -- url     : https://prove2.me/theorems/2070964b-b11b-4065-b1ff-c8203790b3a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GibbsCongestion_projection_adjacent_transition
 -- name    : GibbsCongestion.projection_adjacent_transition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:04:15.793528+00:00
 -- url     : https://prove2.me/theorems/09c8a401-7ff2-41b7-bc80-a6e649992346

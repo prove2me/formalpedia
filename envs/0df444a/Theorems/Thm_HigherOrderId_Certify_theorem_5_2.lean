@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherOrderId_Certify_theorem_5_2
 -- name    : HigherOrderId.Certify.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:17:55.869454+00:00
 -- url     : https://prove2.me/theorems/6a683ced-e6b7-458b-8441-b503e6b8d42f

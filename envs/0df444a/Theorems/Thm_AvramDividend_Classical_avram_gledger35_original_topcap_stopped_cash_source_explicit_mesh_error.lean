@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gledger35_original_topcap_stopped_cash_source_explicit_mesh_error
 -- name    : AvramDividend.Classical.avram_gledger35_original_topcap_stopped_cash_source_explicit_mesh_error
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-10T19:06:56.012198+00:00
 -- url     : https://prove2.me/theorems/856a3841-16ac-4d95-ba99-0b7709829417

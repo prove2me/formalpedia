@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketInterference_FluidLimit_lemma_2
 -- name    : MarketInterference.FluidLimit.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:06:52.449956+00:00
 -- url     : https://prove2.me/theorems/e0f09d54-a6db-4d03-ac87-af868203d3b1

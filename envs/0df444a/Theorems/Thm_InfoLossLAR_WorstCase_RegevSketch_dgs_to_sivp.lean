@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dgs_to_sivp
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dgs_to_sivp
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T01:13:43.641337+00:00
 -- url     : https://prove2.me/theorems/7452f95c-25d4-4b6f-be9c-03c47887237e

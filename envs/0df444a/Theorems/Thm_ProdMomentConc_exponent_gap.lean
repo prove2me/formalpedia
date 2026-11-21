@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProdMomentConc_exponent_gap
 -- name    : ProdMomentConc.exponent_gap
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:12:29.87154+00:00
 -- url     : https://prove2.me/theorems/23c3b3c3-0cb0-4ef9-a8f8-1060a0c1dfd4

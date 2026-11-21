@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_eventwiseLaw_integral_test_identity
 -- name    : MeasureTheory.eventwiseLaw_integral_test_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:34:39.027908+00:00
 -- url     : https://prove2.me/theorems/2db7e82f-b49f-42b3-a43c-e8f61df8dce2

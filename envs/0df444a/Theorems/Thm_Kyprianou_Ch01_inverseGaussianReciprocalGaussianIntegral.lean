@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianReciprocalGaussianIntegral
 -- name    : Kyprianou.Ch01.inverseGaussianReciprocalGaussianIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T19:06:04.435687+00:00
 -- url     : https://prove2.me/theorems/689fa3ec-6592-46f4-91eb-f557340bb093

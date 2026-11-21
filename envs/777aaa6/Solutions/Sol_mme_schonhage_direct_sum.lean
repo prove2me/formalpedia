@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for mme_schonhage_direct_sum
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Shuze Chen
 -- created : 2026-05-28T20:38:33.255431+00:00
 -- url     : https://prove2.me/submissions/d80e0dec-69aa-4e79-a8eb-a01737d3b76e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Fin.VecNotation
 import Theorems.Thm_mme_schonhage_direct_sum

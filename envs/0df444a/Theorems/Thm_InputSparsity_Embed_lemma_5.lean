@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InputSparsity_Embed_lemma_5
 -- name    : InputSparsity.Embed.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:18:02.322369+00:00
 -- url     : https://prove2.me/theorems/5f1d935d-f86a-42b4-ab67-af9e57af2f10

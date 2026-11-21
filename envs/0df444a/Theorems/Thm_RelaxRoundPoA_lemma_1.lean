@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_lemma_1
 -- name    : RelaxRoundPoA.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:57.981479+00:00
 -- url     : https://prove2.me/theorems/8184b3ea-0160-4bbd-9958-08a58f0e1b0c

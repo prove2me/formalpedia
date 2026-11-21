@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_Supplement_theorem_18
 -- name    : MomentSearch.Supplement.theorem_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T09:35:26.319199+00:00
 -- url     : https://prove2.me/theorems/a2ee75d9-c5ef-4ffa-8e99-86bdc30f6f3b

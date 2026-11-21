@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_expected_reward_eq
 -- name    : WindowedMatching.expected_reward_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:48.257884+00:00
 -- url     : https://prove2.me/theorems/96b5abff-17af-4644-839b-5579e05e1d41

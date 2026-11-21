@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_Supplement_permutation_family
 -- name    : StableMSR.Recovery.Supplement.permutation_family
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:18:54.884648+00:00
 -- url     : https://prove2.me/theorems/f4026d15-8a83-4a0f-b92c-023ddb7bbdad

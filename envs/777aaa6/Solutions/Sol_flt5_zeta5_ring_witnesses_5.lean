@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for flt5_zeta5_ring_witnesses
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-14T17:33:20.737638+00:00
 -- url     : https://prove2.me/submissions/1a40c267-b0e0-4fd7-8480-81de13da5481
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

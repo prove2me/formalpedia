@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassOmni_Lipschitz_theorem_4_1
 -- name    : MulticlassOmni.Lipschitz.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T22:10:30.810421+00:00
 -- url     : https://prove2.me/theorems/bd798db4-81f6-4cb6-a164-293d06d6fa8d

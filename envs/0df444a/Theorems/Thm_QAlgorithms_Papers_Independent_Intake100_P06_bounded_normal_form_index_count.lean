@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P06_bounded_normal_form_index_count
 -- name    : QAlgorithms.Papers.Independent.Intake100.P06.bounded_normal_form_index_count
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T12:46:23.032533+00:00
 -- url     : https://prove2.me/theorems/3e26ecef-1ab8-4907-9b38-273693518f05

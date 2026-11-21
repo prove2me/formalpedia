@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineBeckFiala_proposition_2_7
 -- name    : OnlineBeckFiala.proposition_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:34:48.424091+00:00
 -- url     : https://prove2.me/theorems/19a0ecf8-ae4b-4dad-8fab-bf4ba3fda874

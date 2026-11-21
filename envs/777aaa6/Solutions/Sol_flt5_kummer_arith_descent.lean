@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_kummer_arith_descent
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T09:55:46.619099+00:00
 -- url     : https://prove2.me/submissions/a231199b-076c-431b-8566-86fa199eaae4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracTruthSched_star_bound
 -- name    : FracTruthSched.star_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:34:00.232412+00:00
 -- url     : https://prove2.me/theorems/259616a1-fd27-47c8-b777-e1505edd1121

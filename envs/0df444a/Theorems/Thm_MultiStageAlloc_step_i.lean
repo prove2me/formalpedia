@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStageAlloc_step_i
 -- name    : MultiStageAlloc.step_i
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:43.832862+00:00
 -- url     : https://prove2.me/theorems/2829e198-8c2f-46f2-94a4-24a5c1aeb287

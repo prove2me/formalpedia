@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcycTesting_NearLinear_lemma_A_3
 -- name    : AcycTesting.NearLinear.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:34:16.599242+00:00
 -- url     : https://prove2.me/theorems/de335009-92cf-49b7-a161-7be9b260ebbb

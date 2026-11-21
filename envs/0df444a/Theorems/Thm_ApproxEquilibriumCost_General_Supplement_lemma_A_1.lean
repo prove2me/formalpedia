@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_Supplement_lemma_A_1
 -- name    : ApproxEquilibriumCost.General.Supplement.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:47:29.993007+00:00
 -- url     : https://prove2.me/theorems/90f94379-f1e6-4f8d-9ae7-8f3e620a3f49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg18654
 -- name    : OAI.UniversalTensorSquare.sg18654
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T21:43:00.682346+00:00
 -- url     : https://prove2.me/theorems/31e5f1f1-b166-414f-90c6-da75907f58c2

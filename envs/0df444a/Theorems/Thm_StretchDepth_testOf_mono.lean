@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StretchDepth_testOf_mono
 -- name    : StretchDepth.testOf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:08:49.953205+00:00
 -- url     : https://prove2.me/theorems/5dd41229-4d3f-4bd8-a979-fcbd88f1183a

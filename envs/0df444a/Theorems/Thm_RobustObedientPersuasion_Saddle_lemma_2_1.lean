@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustObedientPersuasion_Saddle_lemma_2_1
 -- name    : RobustObedientPersuasion.Saddle.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:54:01.086195+00:00
 -- url     : https://prove2.me/theorems/41f2720d-2957-4b54-bdea-339649d001a7

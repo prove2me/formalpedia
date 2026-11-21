@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoPrinciplesMulticlass_NoEnvelope_condition1_ds_ge
 -- name    : AlgoPrinciplesMulticlass.NoEnvelope.condition1_ds_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:29:05.453305+00:00
 -- url     : https://prove2.me/theorems/78496df4-f5ee-483d-ae7e-d977682f22ac

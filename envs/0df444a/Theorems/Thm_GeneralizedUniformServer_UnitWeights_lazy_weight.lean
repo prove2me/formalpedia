@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedUniformServer_UnitWeights_lazy_weight
 -- name    : GeneralizedUniformServer.UnitWeights.lazy_weight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:45:28.531802+00:00
 -- url     : https://prove2.me/theorems/ab7f425e-f874-4e27-9481-65be98f80ae3

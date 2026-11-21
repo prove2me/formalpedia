@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SQMeanEstimation_ring_decomposition
 -- name    : SQMeanEstimation.ring_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:16:58.405988+00:00
 -- url     : https://prove2.me/theorems/fc9b5fc5-4a3b-42d4-b224-766261e17819

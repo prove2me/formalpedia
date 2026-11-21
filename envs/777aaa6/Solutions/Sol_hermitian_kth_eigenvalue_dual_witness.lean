@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for hermitian_kth_eigenvalue_dual_witness
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-06T01:09:52.986535+00:00
 -- url     : https://prove2.me/submissions/6ce5ad6c-d194-4807-bb0f-28c9fdcb851e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_hermitian_kth_eigenvalue_dual_witness
 import Theorems.Thm_hermitian_eigenspan_decomp

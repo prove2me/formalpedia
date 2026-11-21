@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for fundamental_theorem_of_algebra
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-22T14:35:08.689431+00:00
 -- url     : https://prove2.me/submissions/49fceca7-c6e8-42e6-aa65-8746ea92dc91
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_fundamental_theorem_of_algebra
 import Theorems.Thm_polynomial_eval_norm_tendsto_cobounded

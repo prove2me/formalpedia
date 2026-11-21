@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_pid_fifth_root_of_norm
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T18:52:34.902547+00:00
 -- url     : https://prove2.me/submissions/a4100a04-5a21-4cec-ad12-4f044b7ae921
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

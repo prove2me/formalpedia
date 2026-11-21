@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetMatchingEFGT_eq_12
 -- name    : ProphetMatchingEFGT.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:52:30.166787+00:00
 -- url     : https://prove2.me/theorems/2e45d067-63ea-4323-bc7e-c6ca29c9b59f

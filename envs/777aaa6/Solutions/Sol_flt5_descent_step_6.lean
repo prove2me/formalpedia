@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for flt5_descent_step
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-14T08:32:09.059044+00:00
 -- url     : https://prove2.me/submissions/463f4cb4-be88-4d3d-9f29-4d7cf1b62da9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_flt5_pow4_dvd_sum
 import Theorems.Thm_flt5_descent_from_pow4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableGammaStrictLeftMellinRHSHolomorphic
 -- name    : Kyprianou.Ch01.stableGammaStrictLeftMellinRHSHolomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T11:39:45.353262+00:00
 -- url     : https://prove2.me/theorems/91f18d49-a7ea-4908-b8f2-96d6c60494b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongruencyTU_theorem_19
 -- name    : CongruencyTU.theorem_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:44:03.797104+00:00
 -- url     : https://prove2.me/theorems/1a043d11-c7b0-4687-b7ce-ecea27273702

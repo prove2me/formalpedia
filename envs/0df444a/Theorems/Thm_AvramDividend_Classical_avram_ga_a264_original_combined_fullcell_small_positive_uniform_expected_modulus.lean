@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_a264_original_combined_fullcell_small_positive_uniform_expected_modulus
 -- name    : AvramDividend.Classical.avram_ga_a264_original_combined_fullcell_small_positive_uniform_expected_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T11:44:03.481822+00:00
 -- url     : https://prove2.me/theorems/1934d375-3356-4885-bf53-e88c56f61332

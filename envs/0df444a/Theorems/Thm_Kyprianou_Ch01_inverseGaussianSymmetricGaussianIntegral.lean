@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianSymmetricGaussianIntegral
 -- name    : Kyprianou.Ch01.inverseGaussianSymmetricGaussianIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T19:15:14.062934+00:00
 -- url     : https://prove2.me/theorems/8ae4de27-cd6e-4993-84e3-0f27070b644f

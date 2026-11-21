@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxSyzygies_Smoothed_theorem_4_1
 -- name    : ApproxSyzygies.Smoothed.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T14:03:07.839869+00:00
 -- url     : https://prove2.me/theorems/7a0cf8d7-500c-43bb-991e-9869e8e8deaf

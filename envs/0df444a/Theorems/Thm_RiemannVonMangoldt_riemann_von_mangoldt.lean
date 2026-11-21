@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiemannVonMangoldt_riemann_von_mangoldt
 -- name    : RiemannVonMangoldt.riemann_von_mangoldt
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-10-12T02:10:34.80099+00:00
 -- url     : https://prove2.me/theorems/a365b15d-8cc3-467c-bb49-2d3705c8b1b2

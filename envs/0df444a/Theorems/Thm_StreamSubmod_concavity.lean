@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StreamSubmod_concavity
 -- name    : StreamSubmod.concavity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:25.819982+00:00
 -- url     : https://prove2.me/theorems/5d3e3aff-c22c-4635-85d7-b09650ad7cf8

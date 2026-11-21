@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_partition_intervals_disjoint
 -- name    : LevyStochCalc.Brownian.Ito.partition_intervals_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T20:43:21.714184+00:00
 -- url     : https://prove2.me/theorems/5e920766-c197-4e91-a9d2-342a3fee7303

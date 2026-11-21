@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleRoutingSurvey_Routing_A06_lower
 -- name    : VehicleRoutingSurvey.Routing.A06_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T00:09:45.976882+00:00
 -- url     : https://prove2.me/theorems/cda4d4c9-842d-4f81-98a4-733cbdc8967b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_forall_eq_or_forall_ne_of_tubeGraphs
 -- name    : FiniteEnergyPlane.forall_eq_or_forall_ne_of_tubeGraphs
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-16T20:14:12.561589+00:00
 -- url     : https://prove2.me/theorems/95e9b5b2-0140-4c38-a7fb-7930bbbdce33

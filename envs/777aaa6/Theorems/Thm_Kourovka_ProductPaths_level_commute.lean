@@ -1,0 +1,26 @@
+-- Prove2me | Theorems.Thm_Kourovka_ProductPaths_level_commute
+-- name    : Kourovka.ProductPaths.level_commute
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-21T03:32:36.274533+00:00
+-- url     : https://prove2.me/theorems/2934f70c-d158-431a-8baf-dae3fcbfb7ca
+-- title:
+--   Product Paths: level commute
+-- statement:
+--   Distinct paths at one level have commuting images.
+--
+--   Source: https://github.com/Achxy/k-5-38/blob/4330f0513173258259f0585d1c1b8a624fda59d2/Kourovka/Paths.lean#L49-L70
+-- source:
+--   https://github.com/Achxy/k-5-38/blob/4330f0513173258259f0585d1c1b8a624fda59d2/Kourovka/Paths.lean#L49-L70
+
+import Definitions.Def_Kourovka_Components
+import Mathlib.Data.List.Basic
+import Definitions.Def_Kourovka_Paths
+set_option autoImplicit true
+open Kourovka
+open Kourovka.ProductPaths
+variable {A B : Type*} [Group A] [Group B]
+
+theorem Kourovka.ProductPaths.level_commute (f : A × B →* A × B) :
+    ∀ (u v : List Bool), u.length = v.length → u ≠ v →
+      ∀ x y : A × B, Commute (path f u x) (path f v y) := by sorry

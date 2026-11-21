@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P66_lindenWinter_independent
 -- name    : QAlgorithms.Papers.Independent.Intake100.P66.lindenWinter_independent
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:17:45.224056+00:00
 -- url     : https://prove2.me/theorems/791ec1c9-e234-4cf8-bbe4-fd42c4705bfc

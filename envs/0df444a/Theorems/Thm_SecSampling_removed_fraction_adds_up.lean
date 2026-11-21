@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecSampling_removed_fraction_adds_up
 -- name    : SecSampling.removed_fraction_adds_up
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:32:40.885248+00:00
 -- url     : https://prove2.me/theorems/8c330b10-2669-47c7-b650-562278988ae9

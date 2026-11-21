@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditAdapt_stateLaw_mem_simplex
 -- name    : AuditAdapt.stateLaw_mem_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:00:36.146364+00:00
 -- url     : https://prove2.me/theorems/b0c90524-381e-4983-8bbd-28f6bd5dd000

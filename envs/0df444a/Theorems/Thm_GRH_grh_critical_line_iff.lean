@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GRH_grh_critical_line_iff
 -- name    : GRH.grh_critical_line_iff
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T17:50:36.512885+00:00
 -- url     : https://prove2.me/theorems/6079bb22-1b0f-4fd6-b467-4b227db03fca

@@ -1,10 +1,8 @@
 -- Prove2me | solution 6 for flt_five
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T18:04:04.467911+00:00
 -- url     : https://prove2.me/submissions/f9aec37e-ae9d-4863-a7e0-9494df7a0d8c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

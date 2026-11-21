@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P52_qubit_teleportation_unbounded_outcomes
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P52.qubit_teleportation_unbounded_outcomes
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T23:36:51.012503+00:00
 -- url     : https://prove2.me/theorems/14814845-96f1-4d6d-bfd9-1524e8a8e223

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_f6_original_generator_true_negative_integral_exact_large_small_unit_split
 -- name    : AvramDividend.Classical.avram_f6_original_generator_true_negative_integral_exact_large_small_unit_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:28:42.276457+00:00
 -- url     : https://prove2.me/theorems/cd2a81f8-f3f5-4fe4-8b73-a0a2add095c1

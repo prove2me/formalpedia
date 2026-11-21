@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineColoringKYY_theorem_1_1_witness_bound
 -- name    : OnlineColoringKYY.theorem_1_1_witness_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:30:33.306948+00:00
 -- url     : https://prove2.me/theorems/fafcb2eb-774a-4351-99d4-357e77cc1592

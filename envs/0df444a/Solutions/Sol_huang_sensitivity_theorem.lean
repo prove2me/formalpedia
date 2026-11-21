@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for huang_sensitivity_theorem
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-04-23T04:03:10.37097+00:00
 -- url     : https://prove2.me/submissions/cfce71a5-4aa3-4613-89ee-2550116bc79f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cauchy_interlacing_sorted
 import Theorems.Thm_huang_matrix_spectrum_sorted

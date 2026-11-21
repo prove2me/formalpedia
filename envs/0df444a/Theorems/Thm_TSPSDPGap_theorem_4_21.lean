@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPSDPGap_theorem_4_21
 -- name    : TSPSDPGap.theorem_4_21
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:42:02.492897+00:00
 -- url     : https://prove2.me/theorems/0c089aab-fef9-4f9b-aece-01dafe286a73

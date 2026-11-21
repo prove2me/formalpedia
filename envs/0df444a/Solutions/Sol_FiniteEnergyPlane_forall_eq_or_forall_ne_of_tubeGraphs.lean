@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.forall_eq_or_forall_ne_of_tubeGraphs
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-16T22:27:39.000025+00:00
 -- url     : https://prove2.me/submissions/c2a6d95c-60d7-47b6-96bb-ba6d72b95d16
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Tube
 import Theorems.Thm_FiniteEnergyPlane_expDecayCInfty_symm_div_sub

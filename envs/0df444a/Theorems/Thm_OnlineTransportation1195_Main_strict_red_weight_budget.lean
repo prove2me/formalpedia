@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_strict_red_weight_budget
 -- name    : OnlineTransportation1195.Main.strict_red_weight_budget
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:36:21.651687+00:00
 -- url     : https://prove2.me/theorems/38e478ab-1974-47a1-ad63-3636424344d0

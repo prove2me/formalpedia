@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyReusableNet_rew_GRD_R_eq_integral
 -- name    : GreedyReusableNet.rew_GRD_R_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:38:22.79261+00:00
 -- url     : https://prove2.me/theorems/0fc02665-3530-4643-a467-1e0054bf0466

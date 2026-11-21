@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Semicircle_lemma_9_2
 -- name    : DQI.Semicircle.lemma_9_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:19.882669+00:00
 -- url     : https://prove2.me/theorems/161a6ed3-f26c-4ad2-9ce8-7db4e83b3c1b

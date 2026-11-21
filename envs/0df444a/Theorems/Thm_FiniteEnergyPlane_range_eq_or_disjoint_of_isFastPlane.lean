@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_range_eq_or_disjoint_of_isFastPlane
 -- name    : FiniteEnergyPlane.range_eq_or_disjoint_of_isFastPlane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:09:56.817179+00:00
 -- url     : https://prove2.me/theorems/f4dbb4c7-1b06-4098-b08d-d7eb6ce017e6

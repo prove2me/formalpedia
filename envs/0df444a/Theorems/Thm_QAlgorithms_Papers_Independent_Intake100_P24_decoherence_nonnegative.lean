@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P24_decoherence_nonnegative
 -- name    : QAlgorithms.Papers.Independent.Intake100.P24.decoherence_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:13:31.125978+00:00
 -- url     : https://prove2.me/theorems/e3d22664-f7ff-404e-94d6-8fc433f18e8e

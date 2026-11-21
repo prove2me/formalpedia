@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for flt5_ck5_prod_emb_nonneg
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T17:53:17.005007+00:00
 -- url     : https://prove2.me/submissions/ff6406fb-81d8-4a3f-a654-a1627bd64ac4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

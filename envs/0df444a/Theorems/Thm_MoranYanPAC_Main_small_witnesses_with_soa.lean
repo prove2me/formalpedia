@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_small_witnesses_with_soa
 -- name    : MoranYanPAC.Main.small_witnesses_with_soa
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:05:33.674329+00:00
 -- url     : https://prove2.me/theorems/7ab599dc-4b77-4540-b7ad-68d83ae0e0d5

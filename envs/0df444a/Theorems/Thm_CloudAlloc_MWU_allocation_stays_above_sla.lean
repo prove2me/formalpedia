@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_allocation_stays_above_sla
 -- name    : CloudAlloc.MWU.allocation_stays_above_sla
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:45:20.184877+00:00
 -- url     : https://prove2.me/theorems/3ab2c359-a8ba-4446-abc3-088efa46f9e7

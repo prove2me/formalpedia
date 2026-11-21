@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxSyzygies_Smoothed_lemma_4_7
 -- name    : ApproxSyzygies.Smoothed.lemma_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T14:02:48.063405+00:00
 -- url     : https://prove2.me/theorems/ef2959f5-be6b-4869-adb0-1eebb82929fc

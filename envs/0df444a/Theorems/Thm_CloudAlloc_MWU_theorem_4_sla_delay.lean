@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_theorem_4_sla_delay
 -- name    : CloudAlloc.MWU.theorem_4_sla_delay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:46:11.173527+00:00
 -- url     : https://prove2.me/theorems/0d34632a-0fd0-4f65-bf8d-b6c57a1ec0f3

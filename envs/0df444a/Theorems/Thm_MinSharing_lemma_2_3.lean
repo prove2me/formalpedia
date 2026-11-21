@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinSharing_lemma_2_3
 -- name    : MinSharing.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T08:25:07.021076+00:00
 -- url     : https://prove2.me/theorems/a02c03de-605f-4ac9-9a2c-6fec7127aa37

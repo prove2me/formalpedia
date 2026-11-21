@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSDPolyApprox_reduction_to_identity
 -- name    : PSDPolyApprox.reduction_to_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:50:53.789724+00:00
 -- url     : https://prove2.me/theorems/85f98ee4-e6ab-42d8-bb1b-80ac4b922d7b

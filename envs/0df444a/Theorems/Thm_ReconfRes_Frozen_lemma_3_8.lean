@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReconfRes_Frozen_lemma_3_8
 -- name    : ReconfRes.Frozen.lemma_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T19:21:40.956895+00:00
 -- url     : https://prove2.me/theorems/f014250c-5ac9-444d-8f97-d0081fcd083a

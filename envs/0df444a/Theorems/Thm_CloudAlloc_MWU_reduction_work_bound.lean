@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_reduction_work_bound
 -- name    : CloudAlloc.MWU.reduction_work_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:44:10.816415+00:00
 -- url     : https://prove2.me/theorems/17fb5567-33b7-47f0-9e69-6337c4cbf34a

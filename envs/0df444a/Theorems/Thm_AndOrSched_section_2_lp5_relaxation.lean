@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AndOrSched_section_2_lp5_relaxation
 -- name    : AndOrSched.section_2_lp5_relaxation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:33:05.238555+00:00
 -- url     : https://prove2.me/theorems/770bd701-f3bd-4cab-9722-7514a89a32ba

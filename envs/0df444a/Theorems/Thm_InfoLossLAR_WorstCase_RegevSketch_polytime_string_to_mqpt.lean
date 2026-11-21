@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_polytime_string_to_mqpt
 -- name    : InfoLossLAR.WorstCase.RegevSketch.polytime_string_to_mqpt
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T08:57:49.929507+00:00
 -- url     : https://prove2.me/theorems/53c9239b-e917-4706-9b70-91aeae6d7c6f

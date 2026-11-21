@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOrderCRS_proposition_7
 -- name    : RandomOrderCRS.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:22:46.029066+00:00
 -- url     : https://prove2.me/theorems/c619fa86-c810-4ab7-b335-efc8d6e4b931

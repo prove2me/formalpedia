@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dual_parity_pool_far_mass
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dual_parity_pool_far_mass
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T23:48:51.674318+00:00
 -- url     : https://prove2.me/theorems/07718c54-0685-487a-a885-606b38b15ca2

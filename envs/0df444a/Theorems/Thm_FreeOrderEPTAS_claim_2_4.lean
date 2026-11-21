@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_claim_2_4
 -- name    : FreeOrderEPTAS.claim_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:26:21.770816+00:00
 -- url     : https://prove2.me/theorems/21b4d7b0-7f58-4da5-a351-dbd449215924

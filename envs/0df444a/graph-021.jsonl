@@ -1064,8 +1064,8 @@
 {"parent": "OAI.ActualEisensteinCubic.quadraticCharO_sq", "child": "OAI_NumberTheory_DirichletL_Arithmetic_EisensteinIdeals", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.quadraticCharO_sq", "child": "OAI_NumberTheory_DirichletL_GaussSum_FiniteFourier", "via": ["solution", "statement"]}
 {"parent": "OAI.ActualEisensteinCubic.quadraticCharO_sq", "child": "OAI_NumberTheory_DirichletL_Mellin_LogProfiles", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.lemma_3", "child": "FracTruthSched_IsSymmetricOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_3", "child": "FracTruthSched_IsAdditiveOn", "via": ["statement"]}
+{"parent": "FracTruthSched.lemma_3", "child": "FracTruthSched_IsSymmetricOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_3", "child": "FracTruthSched_IsAdditiveOn", "via": ["solution", "statement"]}
 {"parent": "LawLocalComp_clauseE", "child": "LawLocalComp_expNorm", "via": ["statement"]}
 {"parent": "LawLocalComp_clauseE", "child": "LawLocalComp_dirac", "via": ["statement"]}
 {"parent": "LawLocalComp_clauseE", "child": "LawLocalComp_IsMonotoneNorm", "via": ["statement"]}
@@ -3895,7 +3895,7 @@
 {"parent": "QEC.Semantics.hasDerivAt_lindbladNoJumpTrajectoryContinuous", "child": "QEC_Semantics_Dynamics_LieTrotter", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.hasDerivAt_lindbladNoJumpTrajectoryContinuous", "child": "QEC_Semantics_Channels_TraceNorm", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.atomPoint3_contains_e", "child": "OAIQ098E130", "via": ["solution", "statement"]}
-{"parent": "TIESharp.theorem_1_1", "child": "TIESharp_rho", "via": ["statement"]}
+{"parent": "TIESharp.theorem_1_1", "child": "TIESharp_rho", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PauliSymplectic.toQubitOperator_mul_binaryMul", "child": "QEC_Coding_Core_Definitions", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PauliSymplectic.toQubitOperator_mul_binaryMul", "child": "QEC_Semantics_Core_Qubit", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PauliSymplectic.toQubitOperator_mul_binaryMul", "child": "QEC_Semantics_ErrorCorrection_CodeSupport", "via": ["solution", "statement"]}
@@ -9125,16 +9125,16 @@
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2403_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2403_e", "child": "OAIQ106E119", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound2403_e", "child": "OAIQ106E071", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsEligible", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsGraphInput", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_classSet", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_rootStarInput", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsTruthfulOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsSymmetricOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsClassSymmetric", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsAdditiveOn", "via": ["statement"]}
-{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsFeasibleOn", "via": ["statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsEligible", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsGraphInput", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_classSet", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_rootStarInput", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsTruthfulOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsSymmetricOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsClassSymmetric", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_HasZeroTypeIrrelevance", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsAdditiveOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.lemma_5", "child": "FracTruthSched_IsFeasibleOn", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.unitaryLTensor_conj_tensorMap_left", "child": "QEC_Semantics_ErrorCorrection_ReferenceDecoupling", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.unitaryLTensor_conj_tensorMap_left", "child": "QEC_Semantics_ErrorCorrection_QuditNoInformation", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.unitaryLTensor_conj_tensorMap_left", "child": "QEC_Bounds_GeometricLocalityTradeoff_Model", "via": ["solution", "statement"]}
@@ -12835,11 +12835,11 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.quadraticCompositumCell_normalized_weakDifferent", "child": "QEC_Coding_AlgebraicGeometry_Towers_QuadraticCompositumCell", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.quadraticCompositumCell_normalized_weakDifferent", "child": "QEC_Coding_AlgebraicGeometry_Towers_QuadraticGlobalNormalization", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.F256GarciaStichtenoth.quadraticCompositumCell_normalized_weakDifferent", "child": "QEC_Coding_AlgebraicGeometry_Differents_TrivialFieldExtension", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_Nonneg", "via": ["statement"]}
-{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_IsTruthfulOn", "via": ["statement"]}
-{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_opt", "via": ["statement"]}
-{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_IsFeasibleOn", "via": ["statement"]}
-{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_makespan", "via": ["statement"]}
+{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_Nonneg", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_IsTruthfulOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_opt", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_IsFeasibleOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.theorem_2", "child": "FracTruthSched_makespan", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.isSymmetric_of_overlapLiftLeft", "child": "QEC_Bounds_BPTDisentangling_InteractionAlgebra", "via": ["solution", "statement"]}
 {"parent": "QEC.Bounds.BPTCommutingProjectorModel.isSymmetric_of_overlapLiftLeft", "child": "QEC_Bounds_BPTDisentangling_FourFactor", "via": ["solution", "statement"]}
 {"parent": "NearLinIsing_PortGraph", "child": "NearLinIsing_Polymer", "via": ["statement"]}
@@ -13702,10 +13702,10 @@
 {"parent": "SplitCount.cntN_le", "child": "SplitCount_Defs", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Qubit.pauliY_pauliZ", "child": "QEC_Semantics_Core_Qubit", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Qubit.pauliY_pauliZ", "child": "QEC_Semantics_Core_Definitions", "via": ["solution", "statement"]}
-{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_symmetrize", "via": ["statement"]}
-{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_Nonneg", "via": ["statement"]}
-{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_IsFeasibleOn", "via": ["statement"]}
-{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_IsTruthfulOn", "via": ["statement"]}
+{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_symmetrize", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_Nonneg", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_IsFeasibleOn", "via": ["solution", "statement"]}
+{"parent": "FracTruthSched.claim_1", "child": "FracTruthSched_IsTruthfulOn", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerAlpha.b5_3_contains_e", "child": "OAIQ098E031", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.totalEdgeRegion_incident_card_le_two_of_singleEdge", "child": "QEC_Locality_SeparatorProfile_EdgeDivision", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.totalEdgeRegion_incident_card_le_two_of_singleEdge", "child": "QEC_Locality_CorrectablePartition_EdgeDivision", "via": ["solution", "statement"]}

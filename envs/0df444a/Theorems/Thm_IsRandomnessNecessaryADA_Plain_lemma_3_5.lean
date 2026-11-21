@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsRandomnessNecessaryADA_Plain_lemma_3_5
 -- name    : IsRandomnessNecessaryADA.Plain.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:19:29.700776+00:00
 -- url     : https://prove2.me/theorems/bdf0ed0e-881a-4763-9133-b94a0b906889

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for markov_from_bernstein
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T09:46:00.842197+00:00
 -- url     : https://prove2.me/submissions/613a8ef2-e928-4d79-97fb-7c8e2e4165ef
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cheb_pythag
 import Theorems.Thm_cheb_deriv_abs_le

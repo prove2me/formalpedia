@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BulteauTranspositions_NPHard_theorem_9
 -- name    : BulteauTranspositions.NPHard.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T21:53:13.215858+00:00
 -- url     : https://prove2.me/theorems/2096ece0-9f11-4387-82b0-4cfc9df2117b

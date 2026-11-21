@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_detour_budget_inequality
 -- name    : OnlineTransportation1195.Main.detour_budget_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:36:16.716203+00:00
 -- url     : https://prove2.me/theorems/baa33300-3101-4e3e-9c00-f5a18bec8af4

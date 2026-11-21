@@ -27581,11 +27581,11 @@
 {"parent": "PalmQueueing.Formulas.palm_workload_gap", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
 {"parent": "PalmQueueing.Formulas.pasta", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
 {"parent": "PalmQueueing.Formulas.pasta", "child": "PalmQueueing_Palm_StochasticIntensity", "via": ["statement"]}
-{"parent": "PalmQueueing.Formulas.pollaczek_khinchin", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["statement"]}
-{"parent": "PalmQueueing.Formulas.pollaczek_khinchin", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
-{"parent": "PalmQueueing.Formulas.pollaczek_khinchin", "child": "PalmQueueing_Palm_StochasticIntensity", "via": ["statement"]}
-{"parent": "PalmQueueing.Formulas.takacs_formula", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["statement"]}
-{"parent": "PalmQueueing.Formulas.takacs_formula", "child": "PalmQueueing_Palm_PointProcess", "via": ["statement"]}
+{"parent": "PalmQueueing.Formulas.pollaczek_khinchin", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Formulas.pollaczek_khinchin", "child": "PalmQueueing_Palm_PointProcess", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Formulas.pollaczek_khinchin", "child": "PalmQueueing_Palm_StochasticIntensity", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Formulas.takacs_formula", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["solution", "statement"]}
+{"parent": "PalmQueueing.Formulas.takacs_formula", "child": "PalmQueueing_Palm_PointProcess", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Loynes.coupling_convergence", "child": "PalmQueueing_Loynes_Coupling", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_FluidQueue", "via": ["solution", "statement"]}
 {"parent": "PalmQueueing.Loynes.fluid_loynes", "child": "PalmQueueing_Loynes_SingleServerQueue", "via": ["solution", "statement"]}
@@ -38765,26 +38765,26 @@
 {"parent": "QuantumParallelRepetition.unconditionalWeightedClippedMatchedVerifierAndMassLoss", "child": "quantum_parallel_repetition_game", "via": ["solution", "statement"]}
 {"parent": "QuantumParallelRepetition.winProbabilities_bddAbove", "child": "QuantumParallelRepetition.Strategy.winProbability_le_one", "via": ["solution"]}
 {"parent": "QuantumParallelRepetition.winProbabilities_bddAbove", "child": "quantum_parallel_repetition_game", "via": ["solution", "statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.amplitude_step", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.amplitude_step", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_first", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_first", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_first", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_second", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_second", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_second", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.amplitude_step", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.amplitude_step", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_first", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_first", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_first", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_second", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_second", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_second", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.drift_third", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.drift_third", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.drift_third", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["solution", "statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_total", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_total", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.drift_total", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_total", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_total", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.drift_total", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.etilde_le", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.etilde_le", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.fact_1", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.fact_1", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.lemma_1", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["statement"]}
-{"parent": "QuantumWalkSearch.ApproxRAA.lemma_1", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.fact_1", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.fact_1", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.lemma_1", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumWalkSearch.ApproxRAA.lemma_1", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["solution", "statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.lemma_2", "child": "QuantumWalkSearch_ApproxRAA_Circuit", "via": ["statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.lemma_2", "child": "QuantumWalkSearch_ApproxRAA_Setting", "via": ["statement"]}
 {"parent": "QuantumWalkSearch.ApproxRAA.lemma_2", "child": "QuantumWalkSearch_ApproxRAA_Tolerant", "via": ["statement"]}
@@ -47034,16 +47034,16 @@
 {"parent": "ResourceScheduling.Graph.word_program_emitter", "child": "ResourceScheduling.Graph.word_non_edges", "via": ["solution"]}
 {"parent": "ResourceScheduling.Graph.word_program_emitter", "child": "ResourceScheduling_Graph_WordProgram", "via": ["statement"]}
 {"parent": "ResourceScheduling.Graph.word_program_validation", "child": "ResourceScheduling_Graph_WordProgram", "via": ["solution", "statement"]}
-{"parent": "ResourceScheduling.Poly.p2_min_makespan_matching", "child": "ResourceScheduling_Poly_CompatibilityGraph", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.p2_min_makespan_matching", "child": "ResourceScheduling_Poly_Model", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Model", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Q2Algorithm", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["statement"]}
+{"parent": "ResourceScheduling.Poly.p2_min_makespan_matching", "child": "ResourceScheduling_Poly_CompatibilityGraph", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.p2_min_makespan_matching", "child": "ResourceScheduling_Poly_Model", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Model", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Q2Algorithm", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["solution", "statement"]}
 {"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Model", "via": ["statement"]}
 {"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Q2Algorithm", "via": ["statement"]}
 {"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q2_exists_abc_le", "child": "ResourceScheduling_Poly_Model", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q2_exists_abc_le", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["statement"]}
+{"parent": "ResourceScheduling.Poly.q2_exists_abc_le", "child": "ResourceScheduling_Poly_Model", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.q2_exists_abc_le", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["solution", "statement"]}
 {"parent": "ResourceScheduling.Poly.q_res1dot1_bottleneck", "child": "ResourceScheduling_Poly_Model", "via": ["statement"]}
 {"parent": "ResourceScheduling.Poly.q_res1dot1_bottleneck", "child": "ResourceScheduling_Poly_SlotAssignment", "via": ["statement"]}
 {"parent": "ResourceScheduling_Chain_Complexity", "child": "CookPvsNP_defs", "via": ["statement"]}
@@ -53988,7 +53988,7 @@
 {"parent": "SennottDP.BOR.bor_theorem", "child": "SennottDP_BOR_Assumptions", "via": ["statement"]}
 {"parent": "SennottDP.BOR.cav_of_irreducible_standard", "child": "SennottDP_BOR_Assumptions", "via": ["solution", "statement"]}
 {"parent": "SennottDP.BOR.limitFunction_le_passage", "child": "SennottDP_BOR_Assumptions", "via": ["statement"]}
-{"parent": "SennottDP.BOR.posRecurrent_in_lowCost", "child": "SennottDP_BOR_Assumptions", "via": ["statement"]}
+{"parent": "SennottDP.BOR.posRecurrent_in_lowCost", "child": "SennottDP_BOR_Assumptions", "via": ["solution", "statement"]}
 {"parent": "SennottDP.BOR.relValue_le_passageCost", "child": "SennottDP_BOR_Assumptions", "via": ["solution", "statement"]}
 {"parent": "SennottDP.BOR.sen12_of_standard", "child": "SennottDP_BOR_Assumptions", "via": ["solution", "statement"]}
 {"parent": "SennottDP.BOR.sen_of_monotone_value", "child": "SennottDP_BOR_Assumptions", "via": ["solution", "statement"]}
@@ -66525,18 +66525,18 @@
 {"parent": "TwinWidthI.GridThm.theorem_5_4_first", "child": "TwinWidthI_GridThm_Setting", "via": ["solution", "statement"]}
 {"parent": "TwinWidthI.MinorFree.indep_mul_clique_ge", "child": "GavrilSubtree_Chordal_Setting", "via": ["solution", "statement"]}
 {"parent": "TwinWidthI.MinorFree.indep_mul_clique_ge", "child": "TwinWidthI_MinorFree_Setting", "via": ["solution", "statement"]}
-{"parent": "TwinWidthI.MinorFree.lemma_6_4", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["statement"]}
-{"parent": "TwinWidthI.MinorFree.lemma_6_5", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["statement"]}
-{"parent": "TwinWidthI.MinorFree.lemma_6_6", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["statement"]}
-{"parent": "TwinWidthI.MinorFree.lexDFS_exists", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["statement"]}
+{"parent": "TwinWidthI.MinorFree.lemma_6_4", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["solution", "statement"]}
+{"parent": "TwinWidthI.MinorFree.lemma_6_5", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["solution", "statement"]}
+{"parent": "TwinWidthI.MinorFree.lemma_6_6", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["solution", "statement"]}
+{"parent": "TwinWidthI.MinorFree.lexDFS_exists", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["solution", "statement"]}
 {"parent": "TwinWidthI.MinorFree.lexDFS_grid_free", "child": "RobertsonSeymour1986_GM5_IsMinor", "via": ["statement"]}
 {"parent": "TwinWidthI.MinorFree.lexDFS_grid_free", "child": "TwinWidthI_MinorFree_LexDFS", "via": ["statement"]}
 {"parent": "TwinWidthI.MinorFree.lexDFS_grid_free", "child": "TwinWidthI_MinorFree_Setting", "via": ["statement"]}
-{"parent": "TwinWidthI.MinorFree.mixedFree_of_gridFree", "child": "TwinWidthI_MinorFree_Setting", "via": ["statement"]}
+{"parent": "TwinWidthI.MinorFree.mixedFree_of_gridFree", "child": "TwinWidthI_MinorFree_Setting", "via": ["solution", "statement"]}
 {"parent": "TwinWidthI.MinorFree.theorem_5_8", "child": "TwinWidthI_MinorFree_Setting", "via": ["statement"]}
 {"parent": "TwinWidthI.MinorFree.theorem_6_3", "child": "RobertsonSeymour1986_GM5_IsMinor", "via": ["statement"]}
 {"parent": "TwinWidthI.MinorFree.theorem_6_3", "child": "TwinWidthI_MinorFree_Setting", "via": ["statement"]}
-{"parent": "TwinWidthI.MinorFree.twinWidth_components", "child": "TwinWidthI_MinorFree_Setting", "via": ["statement"]}
+{"parent": "TwinWidthI.MinorFree.twinWidth_components", "child": "TwinWidthI_MinorFree_Setting", "via": ["solution", "statement"]}
 {"parent": "TwinWidthI_BallGraph_Setting", "child": "TwinWidthI_BoolWidth_Setting", "via": ["statement"]}
 {"parent": "TwinWidthI_FOInterp_MorphismTree", "child": "TwinWidthI_FOInterp_Setting", "via": ["statement"]}
 {"parent": "TwinWidthI_FOInterp_Setting", "child": "TwinWidthI_BoolWidth_Setting", "via": ["statement"]}

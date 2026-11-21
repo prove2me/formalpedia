@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_kummer_descent_step
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T09:38:27.594686+00:00
 -- url     : https://prove2.me/submissions/17c7902d-ae7c-4e3a-a1c2-bb9479b8cc26
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

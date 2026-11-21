@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPSDPGap_claim_4_12
 -- name    : TSPSDPGap.claim_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:41:10.268307+00:00
 -- url     : https://prove2.me/theorems/500f908c-5abc-450c-936b-949c12f728fa

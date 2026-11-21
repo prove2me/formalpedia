@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_f6_original_large_negative_jump_generator_integral_lower_floor
 -- name    : AvramDividend.Classical.avram_f6_original_large_negative_jump_generator_integral_lower_floor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:29:16.003183+00:00
 -- url     : https://prove2.me/theorems/406fa4cc-ff2a-4be5-b16f-114ea09e5435

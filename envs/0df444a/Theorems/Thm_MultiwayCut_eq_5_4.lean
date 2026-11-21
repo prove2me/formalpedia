@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayCut_eq_5_4
 -- name    : MultiwayCut.eq_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:14:49.272499+00:00
 -- url     : https://prove2.me/theorems/e00b4049-d696-4c8c-b1e5-c992ec1ffa1a

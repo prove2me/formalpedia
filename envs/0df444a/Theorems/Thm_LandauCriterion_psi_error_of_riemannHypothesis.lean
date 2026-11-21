@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauCriterion_psi_error_of_riemannHypothesis
 -- name    : LandauCriterion.psi_error_of_riemannHypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @pitimespi
 -- created : 2026-11-01T18:53:26.513892+00:00
 -- url     : https://prove2.me/theorems/8cd00085-996d-4be2-af04-f32cf7d00bf0

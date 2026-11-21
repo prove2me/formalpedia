@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiationFisherNSW_theorem_4_1
 -- name    : SatiationFisherNSW.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:25:25.81722+00:00
 -- url     : https://prove2.me/theorems/7a8760cb-0740-43a6-b4cf-876c008af650

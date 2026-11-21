@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyReusableNet_corollary_1
 -- name    : GreedyReusableNet.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:37:41.296631+00:00
 -- url     : https://prove2.me/theorems/3129f2bf-459b-4ae3-8bd9-ffb842f27a6f

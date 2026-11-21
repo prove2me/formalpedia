@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_proposition_1b_kl_proj_form
 -- name    : CloudAlloc.MWU.proposition_1b_kl_proj_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:39:20.315026+00:00
 -- url     : https://prove2.me/theorems/91201f82-a0e5-42a6-b54d-9631b8e0369e

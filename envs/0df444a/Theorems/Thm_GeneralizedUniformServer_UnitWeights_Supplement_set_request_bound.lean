@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedUniformServer_UnitWeights_Supplement_set_request_bound
 -- name    : GeneralizedUniformServer.UnitWeights.Supplement.set_request_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:41:47.990602+00:00
 -- url     : https://prove2.me/theorems/4484a60e-bd93-4add-a6c7-8625581823f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dgs_to_gapsvp
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dgs_to_gapsvp
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T01:14:32.987351+00:00
 -- url     : https://prove2.me/theorems/befd1eb1-eff7-48ab-a6ae-417d25d7870d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandOnlineSetCoverSqrt_LowerBound_Supplement_theorem_1_4
 -- name    : RandOnlineSetCoverSqrt.LowerBound.Supplement.theorem_1_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T05:13:37.11037+00:00
 -- url     : https://prove2.me/theorems/1b832b68-4eff-4773-b9c6-c9630761f499

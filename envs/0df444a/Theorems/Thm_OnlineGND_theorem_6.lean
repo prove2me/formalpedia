@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineGND_theorem_6
 -- name    : OnlineGND.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:23:43.820449+00:00
 -- url     : https://prove2.me/theorems/f62a97ae-50dd-4e83-9a33-901b223e7dd1

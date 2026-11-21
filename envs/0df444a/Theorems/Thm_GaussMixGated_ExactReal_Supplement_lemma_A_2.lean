@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMixGated_ExactReal_Supplement_lemma_A_2
 -- name    : GaussMixGated.ExactReal.Supplement.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:08:39.959167+00:00
 -- url     : https://prove2.me/theorems/3cb4d814-d94f-45ef-a1b3-1257235c8009

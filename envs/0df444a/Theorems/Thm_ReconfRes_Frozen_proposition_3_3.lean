@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReconfRes_Frozen_proposition_3_3
 -- name    : ReconfRes.Frozen.proposition_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T19:23:13.446795+00:00
 -- url     : https://prove2.me/theorems/daf7122c-b82f-400b-b562-c16fb36d42b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSDPolyApprox_theorem_4
 -- name    : PSDPolyApprox.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:50:45.341546+00:00
 -- url     : https://prove2.me/theorems/68fc09e9-fdd6-43ea-8c0d-f15db69b5c8b

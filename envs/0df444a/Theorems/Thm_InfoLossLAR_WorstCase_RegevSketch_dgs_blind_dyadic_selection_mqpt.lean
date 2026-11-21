@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dgs_blind_dyadic_selection_mqpt
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dgs_blind_dyadic_selection_mqpt
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T22:50:52.11238+00:00
 -- url     : https://prove2.me/theorems/68fca3d6-1f6c-44c1-b5b1-ef4383a55f3b

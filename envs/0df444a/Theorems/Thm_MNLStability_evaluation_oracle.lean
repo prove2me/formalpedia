@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLStability_evaluation_oracle
 -- name    : MNLStability.evaluation_oracle
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:31:12.739184+00:00
 -- url     : https://prove2.me/theorems/3823a967-b36e-425b-a6e6-ec73be5b89ae

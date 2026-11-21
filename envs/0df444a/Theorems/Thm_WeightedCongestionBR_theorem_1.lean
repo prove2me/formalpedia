@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedCongestionBR_theorem_1
 -- name    : WeightedCongestionBR.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:18:22.876762+00:00
 -- url     : https://prove2.me/theorems/3516aad2-7889-4bc5-b41c-1f1e69a95e85

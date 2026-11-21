@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for cheb_alt_compare
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T12:35:31.392683+00:00
 -- url     : https://prove2.me/submissions/66a07571-276d-4838-a23a-06b3323064b6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cheb_alt_compare
 import Theorems.Thm_cheb_pythag

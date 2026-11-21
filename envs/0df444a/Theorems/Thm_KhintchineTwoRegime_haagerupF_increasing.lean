@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhintchineTwoRegime_haagerupF_increasing
 -- name    : KhintchineTwoRegime.haagerupF_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:35:07.058329+00:00
 -- url     : https://prove2.me/theorems/f0785978-daaf-45ef-9a32-36d028316b71

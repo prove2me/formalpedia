@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyReusableNet_eq_12_part_1
 -- name    : GreedyReusableNet.eq_12_part_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:38:26.302102+00:00
 -- url     : https://prove2.me/theorems/a59a6a40-d9da-42cc-a242-4479103836bd

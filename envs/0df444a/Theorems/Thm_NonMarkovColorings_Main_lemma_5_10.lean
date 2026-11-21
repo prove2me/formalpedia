@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonMarkovColorings_Main_lemma_5_10
 -- name    : NonMarkovColorings.Main.lemma_5_10
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T03:08:42.652094+00:00
 -- url     : https://prove2.me/theorems/671aa3a7-0aa1-4439-87fd-e69bab6092db

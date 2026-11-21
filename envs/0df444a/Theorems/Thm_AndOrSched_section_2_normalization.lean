@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AndOrSched_section_2_normalization
 -- name    : AndOrSched.section_2_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:33:28.2042+00:00
 -- url     : https://prove2.me/theorems/106a5001-a6a9-48aa-954f-c9e1c4f2ec0f

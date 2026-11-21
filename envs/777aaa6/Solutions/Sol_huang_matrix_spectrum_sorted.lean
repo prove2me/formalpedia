@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for huang_matrix_spectrum_sorted
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-04-23T05:10:25.53418+00:00
 -- url     : https://prove2.me/submissions/80aeaae8-82e3-47d9-8120-d5a3d01d0800
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_huang_matrix_spectrum_sorted
 import Theorems.Thm_eigenvalue_sq_of_matrix_sq

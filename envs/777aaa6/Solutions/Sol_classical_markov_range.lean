@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for classical_markov_range
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T07:32:00.004353+00:00
 -- url     : https://prove2.me/submissions/86d27c14-0271-4a30-b2c3-d132d9b8dbd6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_classical_markov_range
 import Theorems.Thm_markov_unit

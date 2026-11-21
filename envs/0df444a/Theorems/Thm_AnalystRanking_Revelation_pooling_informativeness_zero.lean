@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnalystRanking_Revelation_pooling_informativeness_zero
 -- name    : AnalystRanking.Revelation.pooling_informativeness_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:53:03.418774+00:00
 -- url     : https://prove2.me/theorems/c0a3ccb2-3a62-4982-ad60-e293c9f28574

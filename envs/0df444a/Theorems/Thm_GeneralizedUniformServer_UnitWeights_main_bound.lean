@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedUniformServer_UnitWeights_main_bound
 -- name    : GeneralizedUniformServer.UnitWeights.main_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:45:30.440126+00:00
 -- url     : https://prove2.me/theorems/1e4b6f7f-ffea-4b2a-9141-9ba0326d573c

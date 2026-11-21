@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_conditional_mean_of_eventwise_probability_law
 -- name    : MeasureTheory.conditional_mean_of_eventwise_probability_law
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:13:12.010802+00:00
 -- url     : https://prove2.me/theorems/c3052137-e025-41a3-8e3e-d73cc39cef02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReLUBinaryDepth_ProductTradeoff_Supplement_theorem_1_2
 -- name    : ReLUBinaryDepth.ProductTradeoff.Supplement.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T12:45:36.476323+00:00
 -- url     : https://prove2.me/theorems/59223862-bf33-4c14-91ac-a6dd54b1219c

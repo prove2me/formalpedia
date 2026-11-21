@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_step_contraction
 -- name    : ProphetBipartite.step_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:49:57.384227+00:00
 -- url     : https://prove2.me/theorems/3872ce25-1116-4d5e-a27b-3d154d31f32e

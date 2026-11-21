@@ -1,0 +1,117 @@
+-- Prove2me | solution 1 for AvramDividend.Classical.avram_agentB_gaussian_prepost_cellwise_absolute_energy_L1_vanish
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-11-20T12:16:58.294807+00:00
+-- url     : https://prove2.me/submissions/21f561df-8186-4257-baf1-de4870bdf152
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
+import Definitions.Def_AvramDividend_Classical_DividendStrategy
+import Theorems.Thm_AvramDividend_Classical_avram_agentB_original_gaussian_prepost_linear_jump_energy_L1
+import Theorems.Thm_AvramDividend_Classical_avram_agentB_original_gaussian_prepost_quadratic_jump_energy_L1
+open MeasureTheory Set Filter Topology AvramDividend.Classical
+open scoped NNReal ENNReal
+noncomputable section
+set_option autoImplicit false
+/-- True stopped Gaussian pre/post coefficient absolute energy is a sum
+of independently vanishing gradient and Hessian terms. -/
+theorem solution {Ω : Type*} [mΩ : MeasurableSpace Ω] {P : Measure Ω} {𝓕 : Filtration ℝ≥0 mΩ} (X : SpectrallyNegativeLevy P 𝓕) (hX : X.Standing)
+    (hBV : ¬ X.BoundedVariation) (hSigmaNonzero : X.σ ≠ 0) (hNuZero : X.ν = 0) (q : ℝ) (hq : 0 < q) (w : ℝ → ℝ) (C : ℝ≥0∞) (hC : 0 < C) (hTopCap : C = ⊤)
+    (hw0 : 0 ≤ w 0) (hw_cont : ContinuousOn w (Ici 0)) (hw_neg : ∀ y < 0, w y = 0) (hw_smooth : ContDiffOn ℝ 2 w {y : ℝ | 0 < y ∧ ENNReal.ofReal y < C})
+    (hw_gen : ∀ y : ℝ, 0 < y → ENNReal.ofReal y < C → X.GeneratorIntegrable w y ∧ X.generator w y - q * w y ≤ 0)
+    (hw_grad : ∀ y : ℝ, 0 < y → ENNReal.ofReal y < C → 1 ≤ deriv w y) (x : ℝ) (hx : 0 < x) (hxc : ENNReal.ofReal x ≤ C)
+    (D : ℝ≥0 → Ω → ℝ) (hD : IsAdmissibleLe X x C D) (hw_nonneg : ∀ ω (t : ℝ≥0), 0 < t → (t : ℝ≥0∞) < ruinTime X x D ω → 0 ≤ w (riskProcess X x D t ω))
+    (hjump : ∀ ω (t : ℝ≥0), (t = 0 ∨ (t : ℝ≥0∞) < ruinTime X x D ω) → rightLimit D t ω - D t ω ≤ w (riskProcess X x D t ω) -
+          w (riskProcess X x D t ω - (rightLimit D t ω - D t ω))) (n : ℕ) (hn : 0 < n) (τ : Ω → ℝ≥0)
+    (hτeq : ∀ ω, τ ω = (min (ruinTime X x D ω) (n : ℝ≥0∞)).toNNReal) (hτstop : IsStoppingTime 𝓕.rightCont (fun ω => (τ ω : WithTop ℝ≥0))) (ρ : Ω → ℝ≥0)
+    (hρstop : IsStoppingTime 𝓕.rightCont (fun ω => (ρ ω : WithTop ℝ≥0))) (hρle : ∀ ω, ρ ω ≤ τ ω) (j : ℕ) (hprefix : ∀ᵐ ω ∂P, ∀ t : ℝ≥0, 0 < t → t < ρ ω →
+      (1 : ℝ) / ((j : ℝ) + 1) ≤ riskProcess X x D t ω ∧ riskProcess X x D t ω ≤ x + ((j : ℝ) + 1)) :
+    let H : Ω → ℝ := fun ω =>
+      if ρ ω = 0 then w x else
+        Real.exp (-(q * (ρ ω : ℝ))) * w (riskProcess X x D (ρ ω) ω) + (∫⁻ s in paymentTimes (ruinTime X x D ω) ∩ Iio (ρ ω : ℝ),
+          ENNReal.ofReal (Real.exp (-(q * s))) ∂(dividendMeasure D ω)).toReal
+    let S : ℕ → Ω → ℝ := fun m ω =>
+      let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+      let v : ℕ → ℝ≥0 := fun i => min ((i : ℝ≥0) * Δ) (ρ ω)
+      let E : ℝ≥0 → ℝ := fun t => Real.exp (-(q * (t : ℝ)))
+      let Y : ℝ≥0 → ℝ := fun t => x + X.X t ω - rightLimit D t ω
+      let Z : ℕ → ℝ := fun i =>
+        x + X.X (v (i + 1)) ω - rightLimit D (v i) ω
+      Finset.sum (Finset.range (m + 1)) (fun i =>
+        (E (v (i + 1)) - E (v i)) * w (Y (v i)) + E (v (i + 1)) * (w (Z i) - w (Y (v i))))
+    let M : ℕ → Ω → ℝ := fun m ω =>
+      let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+      ∑ i ∈ Finset.range m,
+          let s : ℝ≥0 := (i : ℝ≥0) * Δ
+          if s < ρ ω then
+            let y := riskProcess X x D s ω
+            let Z := X.X (s + Δ) ω - X.X s ω - (Δ : ℝ) * X.c
+            Real.exp (-(q * (s : ℝ))) * (deriv w y * Z + (iteratedDeriv 2 w y / 2) * (Z ^ 2 - (Δ : ℝ) * X.σ ^ 2))
+          else 0
+    let N : ℕ → Ω → ℝ := fun m ω =>
+      let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+      ∑ i ∈ Finset.range m,
+        let s : ℝ≥0 := (i : ℝ≥0) * Δ
+        if s < ρ ω then
+          let y := x + X.X s ω - rightLimit D s ω
+          let Z := X.X (s + Δ) ω - X.X s ω - (Δ : ℝ) * X.c
+          Real.exp (-(q * (s : ℝ))) * (deriv w y * Z + (iteratedDeriv 2 w y / 2) * (Z ^ 2 - (Δ : ℝ) * X.σ ^ 2))
+        else 0
+    let E : ℕ → Ω → ℝ := fun m ω =>
+      let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+      ∑ i ∈ Finset.range m,
+        let s : ℝ≥0 := (i : ℝ≥0) * Δ
+        let Z := X.X (s + Δ) ω - X.X s ω - (Δ : ℝ) * X.c
+        let U := Z ^ 2 - (Δ : ℝ) * X.σ ^ 2
+        let ypost := x + X.X s ω - rightLimit D s ω
+        let ypre := riskProcess X x D s ω
+        let e : ℝ := if s < ρ ω then Real.exp (-(q * (s : ℝ))) else 0
+        |e| * (|deriv w ypost - deriv w ypre| * |Z| + |iteratedDeriv 2 w ypost / 2 - iteratedDeriv 2 w ypre / 2| * |U|)
+    (∀ m, Integrable (fun ω => max (H ω - w x - M m ω) (0 : ℝ)) P) ∧
+    (∀ m, Integrable (fun ω => max (S m ω - M m ω) (0 : ℝ)) P) ∧
+    (∀ m, Integrable (fun ω => max (N m ω - M m ω) (0 : ℝ)) P) ∧
+    (∀ m, Integrable (fun ω => |N m ω - M m ω|) P) ∧
+    (∀ m, Integrable (E m) P) ∧
+    Tendsto (fun m => ∫ ω, E m ω ∂P) atTop (𝓝 (0 : ℝ)) := by
+  intro H S M N E
+  let Elinear : ℕ → Ω → ℝ := fun m ω =>
+      let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+      ∑ i ∈ Finset.range m,
+        let s : ℝ≥0 := (i : ℝ≥0) * Δ
+        let Z := X.X (s + Δ) ω - X.X s ω - (Δ : ℝ) * X.c
+        let U := Z ^ 2 - (Δ : ℝ) * X.σ ^ 2
+        let ypost := x + X.X s ω - rightLimit D s ω
+        let ypre := riskProcess X x D s ω
+        let e : ℝ := if s < ρ ω then Real.exp (-(q * (s : ℝ))) else 0
+        |e| * |deriv w ypost - deriv w ypre| * |Z|
+  let Equad : ℕ → Ω → ℝ := fun m ω =>
+      let Δ : ℝ≥0 := (n : ℝ≥0) / ((m : ℝ≥0) + 1)
+      ∑ i ∈ Finset.range m,
+        let s : ℝ≥0 := (i : ℝ≥0) * Δ
+        let Z := X.X (s + Δ) ω - X.X s ω - (Δ : ℝ) * X.c
+        let U := Z ^ 2 - (Δ : ℝ) * X.σ ^ 2
+        let ypost := x + X.X s ω - rightLimit D s ω
+        let ypre := riskProcess X x D s ω
+        let e : ℝ := if s < ρ ω then Real.exp (-(q * (s : ℝ))) else 0
+        |e| * |iteratedDeriv 2 w ypost / 2 - iteratedDeriv 2 w ypre / 2| * |U|
+  obtain ⟨hH,hS,hN,hA,hI1,hT1⟩ := avram_agentB_original_gaussian_prepost_linear_jump_energy_L1 X hX hBV hSigmaNonzero hNuZero q hq w C hC hTopCap hw0 hw_cont hw_neg hw_smooth hw_gen hw_grad x hx hxc D hD hw_nonneg hjump n hn τ hτeq hτstop ρ hρstop hρle j hprefix
+  obtain ⟨hI2,hT2⟩ := avram_agentB_original_gaussian_prepost_quadratic_jump_energy_L1 X hX hBV hSigmaNonzero hNuZero q hq w C hC hTopCap hw0 hw_cont hw_neg hw_smooth hw_gen hw_grad x hx hxc D hD hw_nonneg hjump n hn τ hτeq hτstop ρ hρstop hρle j hprefix
+  have hSplit (m : ℕ) (ω : Ω) : E m ω = Elinear m ω + Equad m ω := by
+    dsimp only [E,Elinear,Equad]; rw [← Finset.sum_add_distrib]
+    apply Finset.sum_congr rfl
+    intro i hi; dsimp; ring
+  have hI (m : ℕ) : Integrable (E m) P := by
+    have hEqF : E m = Elinear m + Equad m := funext (hSplit m)
+    rw [hEqF]
+    exact (hI1 m).add (hI2 m)
+  have hMean (m : ℕ) : (∫ ω, E m ω ∂P) = (∫ ω, Elinear m ω ∂P) + (∫ ω, Equad m ω ∂P) := by
+    calc
+      _ = (∫ ω, Elinear m ω + Equad m ω ∂P) := integral_congr_ae (Filter.Eventually.of_forall (hSplit m))
+      _ = _ := integral_add (hI1 m) (hI2 m)
+  have hT : Tendsto (fun m => (∫ ω, Elinear m ω ∂P) + (∫ ω, Equad m ω ∂P)) atTop (𝓝 (0 : ℝ)) := by simpa only [zero_add] using hT1.add hT2
+  have hEq : (fun m => ∫ ω, E m ω ∂P) = (fun m => (∫ ω, Elinear m ω ∂P) + (∫ ω, Equad m ω ∂P)) := funext hMean
+  refine ⟨hH,hS,hN,hA,hI,?_⟩
+  rw [hEq]
+  exact hT

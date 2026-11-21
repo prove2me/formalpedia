@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditAdapt_value_eq_inner_Q
 -- name    : AuditAdapt.value_eq_inner_Q
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T05:58:18.347325+00:00
 -- url     : https://prove2.me/theorems/b4132bcf-2a18-4ed1-82c8-473856e1b270

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoPrinciplesMulticlass_NoEnvelope_condition2_impossible
 -- name    : AlgoPrinciplesMulticlass.NoEnvelope.condition2_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:28:59.72602+00:00
 -- url     : https://prove2.me/theorems/10d19c69-ad88-4f36-a8b5-4d571261d68c

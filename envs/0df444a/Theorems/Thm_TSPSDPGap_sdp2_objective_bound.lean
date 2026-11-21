@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPSDPGap_sdp2_objective_bound
 -- name    : TSPSDPGap.sdp2_objective_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:41:35.364629+00:00
 -- url     : https://prove2.me/theorems/446ad184-b47c-4cb2-8a52-5d375e98bbbb

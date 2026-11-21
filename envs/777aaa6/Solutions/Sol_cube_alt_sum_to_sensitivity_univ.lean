@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for cube_alt_sum_to_sensitivity_univ
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-06T22:09:28.259732+00:00
 -- url     : https://prove2.me/submissions/949b1369-5bb9-4564-b967-bd1e893faca8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cube_alt_sum_to_sensitivity_univ
 import Theorems.Thm_cube_even_weight_count

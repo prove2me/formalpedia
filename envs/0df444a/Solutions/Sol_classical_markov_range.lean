@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for classical_markov_range
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T07:32:00.004353+00:00
 -- url     : https://prove2.me/submissions/b0875906-c30b-44d6-9d22-a6db13c06b58
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_markov_unit
 import Mathlib.Algebra.Polynomial.Roots

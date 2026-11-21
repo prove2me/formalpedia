@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_value_eq_recursion
 -- name    : FreeOrderEPTAS.value_eq_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:28:37.12141+00:00
 -- url     : https://prove2.me/theorems/f5d69a58-565e-47cc-a0a4-f1ee5d41cdf2

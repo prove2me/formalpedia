@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_disjoint_paths
 -- name    : WindowedMatching.disjoint_paths
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:38.098085+00:00
 -- url     : https://prove2.me/theorems/f4981a44-19f6-45fa-9cc3-c19f1f540cc2

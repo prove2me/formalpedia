@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GibbsCongestion_proposition_4_1
 -- name    : GibbsCongestion.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:01:24.490109+00:00
 -- url     : https://prove2.me/theorems/4d0508e4-35cd-486f-865a-d45c84c78c61

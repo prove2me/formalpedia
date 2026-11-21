@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_type1_cost_decrease
 -- name    : SepCostShare.type1_cost_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:54.889551+00:00
 -- url     : https://prove2.me/theorems/fd02546a-d7a9-4090-8f47-970170b62ad6

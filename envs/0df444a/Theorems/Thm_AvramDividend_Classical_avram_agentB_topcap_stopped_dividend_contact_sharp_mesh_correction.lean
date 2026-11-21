@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_agentB_topcap_stopped_dividend_contact_sharp_mesh_correction
 -- name    : AvramDividend.Classical.avram_agentB_topcap_stopped_dividend_contact_sharp_mesh_correction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T23:48:18.154421+00:00
 -- url     : https://prove2.me/theorems/a9612b10-c045-4cf9-a63f-3cd2d9a3ed4f

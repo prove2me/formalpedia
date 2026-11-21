@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcurementPoA_DeterministicCap_Supplement_lemma_3_1
 -- name    : ProcurementPoA.DeterministicCap.Supplement.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:35:30.142627+00:00
 -- url     : https://prove2.me/theorems/f4640570-9816-4273-bfeb-a28ae238254e

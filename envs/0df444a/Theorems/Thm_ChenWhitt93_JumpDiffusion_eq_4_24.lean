@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_JumpDiffusion_eq_4_24
 -- name    : ChenWhitt93.JumpDiffusion.eq_4_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:52:41.798364+00:00
 -- url     : https://prove2.me/theorems/43512750-192e-4875-bb34-85a352c3c560

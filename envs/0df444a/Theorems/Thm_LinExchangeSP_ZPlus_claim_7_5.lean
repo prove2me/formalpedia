@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinExchangeSP_ZPlus_claim_7_5
 -- name    : LinExchangeSP.ZPlus.claim_7_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:28.564783+00:00
 -- url     : https://prove2.me/theorems/556a5e3b-363d-4655-ad9c-9a136bc63d8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_dimension_inside_witness
 -- name    : MoranYanPAC.Main.dimension_inside_witness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:07:09.201576+00:00
 -- url     : https://prove2.me/theorems/275485ac-273f-4652-a62e-2ccd34e34b04

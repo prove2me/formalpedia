@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSDPolyApprox_lemma_1
 -- name    : PSDPolyApprox.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:52:44.421044+00:00
 -- url     : https://prove2.me/theorems/efe76455-3a27-4ed4-9b15-ea5f4f393b18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLStability_lemma_7
 -- name    : MNLStability.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:59.616828+00:00
 -- url     : https://prove2.me/theorems/a71278d9-b1de-460b-845c-6c5fe643efb5

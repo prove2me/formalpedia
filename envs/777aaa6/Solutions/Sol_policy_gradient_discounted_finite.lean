@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for policy_gradient_discounted_finite
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-10T05:07:45.986658+00:00
 -- url     : https://prove2.me/submissions/bd532a5f-6fdf-4c79-ae99-50f2589d93de
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_policy_gradient_discounted_finite
 import Theorems.Thm_policy_gradient_finite_horizon

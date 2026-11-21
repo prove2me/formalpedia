@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BinPacking.Decreasing.ffd_bfd_le_eleven_ninths
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T03:55:58.545315+00:00
 -- url     : https://prove2.me/submissions/a862f436-3e2b-4203-ba43-686e456c31d8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BinPacking_Decreasing_Model

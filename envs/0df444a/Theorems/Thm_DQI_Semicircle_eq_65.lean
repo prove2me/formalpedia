@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Semicircle_eq_65
 -- name    : DQI.Semicircle.eq_65
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:20.853667+00:00
 -- url     : https://prove2.me/theorems/2577f406-326a-44b4-92ff-0bf29a126276

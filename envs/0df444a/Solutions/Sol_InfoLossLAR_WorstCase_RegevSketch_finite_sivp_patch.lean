@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSketch.finite_sivp_patch
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T08:54:19.497479+00:00
 -- url     : https://prove2.me/submissions/8e48fd53-c25b-4b86-8ea8-fd3e674f06ba
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_finite_exact_sivp
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_sivp_dimension_dispatch

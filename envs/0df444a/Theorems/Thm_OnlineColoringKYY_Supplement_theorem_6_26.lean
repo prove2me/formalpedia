@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineColoringKYY_Supplement_theorem_6_26
 -- name    : OnlineColoringKYY.Supplement.theorem_6_26
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T07:11:39.936083+00:00
 -- url     : https://prove2.me/theorems/366f972d-56cb-45e5-9f28-4e38cd046d87

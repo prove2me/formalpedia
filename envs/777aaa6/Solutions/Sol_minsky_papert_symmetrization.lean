@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for minsky_papert_symmetrization
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-09T02:12:24.058184+00:00
 -- url     : https://prove2.me/submissions/cce3dc2c-4b15-4d89-9ac8-abf4631bdb15
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_minsky_papert_symmetrization
 import Theorems.Thm_weight_count_with_subset

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLStability_scale_no_purchase
 -- name    : MNLStability.scale_no_purchase
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:29:55.802062+00:00
 -- url     : https://prove2.me/theorems/605cf3d9-f581-42db-b4cd-ae18698d0706

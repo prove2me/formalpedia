@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Bounds_BPTCommutingProjectorModel_finalAssemblyInputEmbedding_eq_outputEmbedding_QECertTyped
 -- name    : QEC.Bounds.BPTCommutingProjectorModel.finalAssemblyInputEmbedding_eq_outputEmbedding_QECertTyped
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-20T05:06:21.478583+00:00
 -- url     : https://prove2.me/theorems/b610054a-7d5d-4877-8c58-ed53241d7a8c

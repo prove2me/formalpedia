@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_scale_power_laplace_transform
 -- name    : Kyprianou.Ch08.StageB.source_scale_power_laplace_transform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T00:12:02.549148+00:00
 -- url     : https://prove2.me/theorems/6cea786f-1242-4a1c-8807-85c0268fad4d

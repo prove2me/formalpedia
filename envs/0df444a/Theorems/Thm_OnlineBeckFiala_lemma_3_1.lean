@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineBeckFiala_lemma_3_1
 -- name    : OnlineBeckFiala.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:34:46.330576+00:00
 -- url     : https://prove2.me/theorems/5db65471-04fd-430d-8732-f7082efa4db7

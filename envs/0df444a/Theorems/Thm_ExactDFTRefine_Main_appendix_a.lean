@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactDFTRefine_Main_appendix_a
 -- name    : ExactDFTRefine.Main.appendix_a
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:01:54.053184+00:00
 -- url     : https://prove2.me/theorems/003a608e-4bea-4695-bde4-2e9152673e9e

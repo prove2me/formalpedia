@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomRescale_theorem_2_3
 -- name    : GeomRescale.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:15:37.032035+00:00
 -- url     : https://prove2.me/theorems/73ae16a6-07ee-417a-a8b3-37c7f01a4d57

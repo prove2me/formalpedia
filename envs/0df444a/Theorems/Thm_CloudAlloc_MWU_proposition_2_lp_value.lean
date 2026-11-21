@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_proposition_2_lp_value
 -- name    : CloudAlloc.MWU.proposition_2_lp_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:40:25.86077+00:00
 -- url     : https://prove2.me/theorems/f81d7813-c257-414d-baa0-5458f98b522e

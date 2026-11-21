@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P66_separatingF_submodular
 -- name    : QAlgorithms.Papers.Independent.Intake100.P66.separatingF_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:12:48.952648+00:00
 -- url     : https://prove2.me/theorems/3e23e4e7-1f7b-49dc-9b7c-cc3aaf4af63f

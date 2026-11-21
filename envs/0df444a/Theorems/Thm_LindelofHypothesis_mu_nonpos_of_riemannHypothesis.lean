@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_nonpos_of_riemannHypothesis
 -- name    : LindelofHypothesis.mu_nonpos_of_riemannHypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @martelus trismortuus
 -- created : 2026-11-18T04:19:47.538128+00:00
 -- url     : https://prove2.me/theorems/b94a9049-7baa-43a4-844f-3a4a8b26cca7

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for sensitivity_sq_ge_polyDegree
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-06T20:46:56.721202+00:00
 -- url     : https://prove2.me/submissions/ddacc71c-6096-40ff-ba09-b2fdf6eb0f25
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_gotsman_linial_with_zero
 import Theorems.Thm_huang_sensitivity_theorem

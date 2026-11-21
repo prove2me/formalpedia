@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRSP_eq_6_8
 -- name    : ObliviousRSP.eq_6_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:22:40.062989+00:00
 -- url     : https://prove2.me/theorems/3cebe047-fec2-43e3-8ce4-68191d305945

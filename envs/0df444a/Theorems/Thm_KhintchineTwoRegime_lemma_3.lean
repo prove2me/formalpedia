@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhintchineTwoRegime_lemma_3
 -- name    : KhintchineTwoRegime.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T06:35:39.188785+00:00
 -- url     : https://prove2.me/theorems/18bdd29f-a35b-4ab8-b017-fd9027f1eabf

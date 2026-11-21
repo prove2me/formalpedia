@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_maschke_regular_trace
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.maschke_regular_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:44:22.146211+00:00
 -- url     : https://prove2.me/theorems/4361b0d6-2d0c-4c31-99da-7b2d383ef36a

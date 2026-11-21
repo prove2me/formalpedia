@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for flt5_zeta5_pure_descent
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-14T17:26:24.880523+00:00
 -- url     : https://prove2.me/submissions/ca01a13e-eba8-442f-895e-50864d9059ae
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

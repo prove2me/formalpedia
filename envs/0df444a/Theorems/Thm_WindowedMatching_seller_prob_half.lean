@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_seller_prob_half
 -- name    : WindowedMatching.seller_prob_half
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:51.511097+00:00
 -- url     : https://prove2.me/theorems/5ac0d1f2-e8f5-451c-8082-ce39d1dbe858

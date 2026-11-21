@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intakenext100_P07_schur_complement
 -- name    : QAlgorithms.Papers.Independent.Intakenext100.P07.schur_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-31T04:34:17.437996+00:00
 -- url     : https://prove2.me/theorems/43deb751-7540-4966-a891-3e78a814d329

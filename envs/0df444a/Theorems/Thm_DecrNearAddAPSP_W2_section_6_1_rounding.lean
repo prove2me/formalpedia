@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecrNearAddAPSP_W2_section_6_1_rounding
 -- name    : DecrNearAddAPSP.W2.section_6_1_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T06:05:35.521085+00:00
 -- url     : https://prove2.me/theorems/3a17bb47-9bd3-468a-b6da-13d794068688

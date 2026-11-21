@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_delta_calibration
 -- name    : FreeOrderEPTAS.delta_calibration
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:24:58.246592+00:00
 -- url     : https://prove2.me/theorems/b387e067-87a5-4baf-a7fd-a9de5aab824f

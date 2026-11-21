@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for NewtonianLipschitz.newtonianJacobianMatrix_normalized_one_one
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-21T03:32:41.791644+00:00
+-- url     : https://prove2.me/submissions/eaf18854-dd02-4344-8f15-5e5951f770ab
+
+module
+public import Definitions.Def_NewtonianLipschitz_JacobianMatrix
+public import Definitions.Def_NewtonianLipschitz_ScalarMaximum
+public import Definitions.Def_NewtonianLipschitz_NormalizedSharpBound
+public import Theorems.Thm_NewtonianLipschitz_newtonianJacobianMatrix_entry
+public import Theorems.Thm_NewtonianLipschitz_normalizedVector_one
+public import Theorems.Thm_NewtonianLipschitz_normalizedVector_radius_sq
+public import Theorems.Thm_NewtonianLipschitz_normalizedVector_two
+public import Theorems.Thm_NewtonianLipschitz_normalizedVector_zero
+public import Theorems.Thm_NewtonianLipschitz_ofLp_toPhysicalVec3
+public import Theorems.Thm_NewtonianLipschitz_toPhysicalVec3_apply
+public import Theorems.Thm_NewtonianLipschitz_toPhysicalVec3_zero
+attribute [local simp] NewtonianLipschitz.normalizedVector_one
+attribute [local simp] NewtonianLipschitz.normalizedVector_two
+attribute [local simp] NewtonianLipschitz.normalizedVector_zero
+attribute [local simp] NewtonianLipschitz.ofLp_toPhysicalVec3
+attribute [local simp] NewtonianLipschitz.toPhysicalVec3_apply
+attribute [local simp] NewtonianLipschitz.toPhysicalVec3_zero
+
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open NewtonianLipschitz
+namespace NewtonianLipschitz
+theorem _root_.solution
+    (μ u v : ℝ) :
+    newtonianJacobianMatrix μ (normalizedVector u v) 1 1 =
+      (μ / euclideanRadius (normalizedVector u v) ^ 5) *
+        (2 * u ^ 2 - 1 - v ^ 2) := by
+  rw [newtonianJacobianMatrix_entry, normalizedVector_radius_sq]
+  simp only [normalizedVector_one, ite_true]
+  ring
+end NewtonianLipschitz

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_theorem_3_2
 -- name    : ApproxEquilibriumCost.General.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:14.715547+00:00
 -- url     : https://prove2.me/theorems/40a009f1-c205-45b8-a83a-21637cc3dad6

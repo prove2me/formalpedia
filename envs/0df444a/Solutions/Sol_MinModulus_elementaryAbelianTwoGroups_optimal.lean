@@ -1,0 +1,206 @@
+-- Prove2me | solution 1 for MinModulus.elementaryAbelianTwoGroups_optimal
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-20T22:40:09.136286+00:00
+-- url     : https://prove2.me/submissions/267dbb5b-5993-4286-a682-a751aae834a1
+
+module
+public import Mathlib.Algebra.Field.ZMod
+public import Mathlib.Algebra.Group.Action.Pi
+public import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+public import Mathlib.GroupTheory.GroupAction.Ring
+public import Definitions.Def_LeanPool_MinModulusUniqueMultisetSum_ElemAbelian2
+section
+@[expose] public section
+namespace MinModulus
+open scoped BigOperators
+open Module
+private lemma eq_zero_of_sum_eq_zero {n k : ℕ} (g : Fin n → (Fin k → ZMod 2))
+    (huniq : UniqueMultisetSums g) (u : Fin n → ZMod 2)
+    (h_sum : ∑ i, u i = 0) (hu : ∑ i, u i • g i = 0) : u = 0 := by
+  have h_ZMod2 : ∀ x : ZMod 2, x = 0 ∨ x = 1 := by
+    intro x
+    fin_cases x
+    · exact Or.inl rfl
+    · exact Or.inr rfl
+  ext i
+  by_contra h_nz
+  -- Contradiction assumption: u ≠ 0
+  let S := Finset.univ.filter (fun j => u j ≠ 0)
+  have h_u_one : ∀ j ∈ S, u j = 1 := by
+    intro j hj
+    have hj_ne : u j ≠ 0 := (Finset.mem_filter.mp hj).2
+    rcases h_ZMod2 (u j) with h0 | h1
+    · contradiction
+    · exact h1
+  have h_sum_S : ∑ j, u j = S.card := by
+    have eq1 : ∑ j, u j = ∑ j ∈ S, u j + ∑ j ∈ Finset.univ \ S, u j :=
+      (Finset.sum_add_sum_compl S _).symm
+    rw [eq1]
+    have hz : ∑ j ∈ Finset.univ \ S, u j = 0 := by
+      apply Finset.sum_eq_zero
+      intro j hj
+      by_contra h_nz_j
+      have : j ∈ S := by
+        rw [Finset.mem_filter]
+        exact ⟨Finset.mem_univ j, h_nz_j⟩
+      have h1 : j ∉ S := (Finset.mem_sdiff.mp hj).2
+      exact h1 this
+    have ho : ∑ j ∈ S, u j = S.card := by
+      have : ∑ j ∈ S, u j = ∑ j ∈ S, (1 : ZMod 2) := Finset.sum_congr rfl h_u_one
+      rw [this, Finset.sum_const, nsmul_eq_mul, mul_one]
+    rw [hz, ho, add_zero]
+  have h_even : Even S.card := by
+    rw [even_iff_two_dvd]
+    have h_cast : (S.card : ZMod 2) = 0 := by rw [← h_sum_S, h_sum]
+    exact (CharP.cast_eq_zero_iff (ZMod 2) 2 S.card).mp h_cast
+  have h_S_pos : 0 < S.card := by
+    apply Finset.card_pos.mpr
+    use i
+    rw [Finset.mem_filter]
+    exact ⟨Finset.mem_univ i, h_nz⟩
+  obtain ⟨w, hw_eq⟩ := h_even
+  have hw_le : w ≤ S.card := by omega
+  obtain ⟨S₁, hS₁_sub, hS₁_card⟩ := Finset.exists_subset_card_eq hw_le
+  let m : Fin n → ℕ := fun j => if j ∈ S₁ then 2 else if j ∈ S \ S₁ then 0 else 1
+  have h_sum_m : ∑ j, m j = n := by
+    have eq1 : ∑ j, m j = ∑ j ∈ S, m j + ∑ j ∈ Finset.univ \ S, m j :=
+      (Finset.sum_add_sum_compl S m).symm
+    have eq2 : ∑ j ∈ S, m j = ∑ j ∈ S₁, m j + ∑ j ∈ S \ S₁, m j := by
+      rw [← Finset.sum_sdiff hS₁_sub, add_comm]
+    rw [eq1, eq2]
+    have hs1 : ∑ j ∈ S₁, m j = S₁.card * 2 := by
+      have : ∑ j ∈ S₁, m j = ∑ j ∈ S₁, 2 := by
+        apply Finset.sum_congr rfl
+        intro j hj
+        dsimp [m]
+        rw [if_pos hj]
+      rw [this, Finset.sum_const]
+      simp
+    have hs2 : ∑ j ∈ S \ S₁, m j = 0 := by
+      apply Finset.sum_eq_zero
+      intro j hj
+      dsimp [m]
+      have h1 : j ∉ S₁ := (Finset.mem_sdiff.mp hj).2
+      rw [if_neg h1, if_pos hj]
+    have hs3 : ∑ j ∈ Finset.univ \ S, m j = (Finset.univ \ S).card := by
+      have : ∑ j ∈ Finset.univ \ S, m j = ∑ j ∈ Finset.univ \ S, 1 := by
+        apply Finset.sum_congr rfl
+        intro j hj
+        dsimp [m]
+        have h1 : j ∉ S := (Finset.mem_sdiff.mp hj).2
+        have h2 : j ∉ S₁ := fun h => h1 (hS₁_sub h)
+        have h3 : j ∉ S \ S₁ := fun h => h1 (Finset.mem_sdiff.mp h).1
+        rw [if_neg h2, if_neg h3]
+      rw [this, Finset.sum_const]
+      simp
+    rw [hs1, hs2, hs3, hS₁_card]
+    have h_card_compl : (Finset.univ \ S).card = n - S.card := by
+      rw [Finset.card_sdiff, Finset.inter_univ, Finset.card_univ, Fintype.card_fin]
+    rw [h_card_compl, hw_eq]
+    have hS_le_n : S.card ≤ n := by
+      have h_le := Finset.card_le_univ S
+      rw [Fintype.card_fin] at h_le
+      exact h_le
+    omega
+  have h_sum_g : ∑ j, ((m j : ℕ) : ZMod 2) • g j = ∑ j, g j := by
+    -- The new multiset removes precisely the kernel vector, pointwise.
+    have h_coeff : ∀ j, ((m j : ℕ) : ZMod 2) = 1 - u j := by
+      intro j
+      by_cases hj₁ : j ∈ S₁
+      · rw [h_u_one j (hS₁_sub hj₁), sub_self]
+        change ((if j ∈ S₁ then 2 else if j ∈ S \ S₁ then 0 else 1 : ℕ) : ZMod 2) = 0
+        rw [if_pos hj₁]
+        exact CharP.cast_eq_zero (ZMod 2) 2
+      · by_cases hj : j ∈ S
+        · have hj₂ : j ∈ S \ S₁ := Finset.mem_sdiff.mpr ⟨hj, hj₁⟩
+          simp only [m, if_neg hj₁, if_pos hj₂, Nat.cast_zero, h_u_one j hj, sub_self]
+        · have hj₂ : j ∉ S \ S₁ := fun h => hj (Finset.mem_sdiff.mp h).1
+          have hu_zero : u j = 0 := by
+            simpa only [S, Finset.mem_filter, Finset.mem_univ, true_and, not_not] using hj
+          simp only [m, if_neg hj₁, if_neg hj₂, Nat.cast_one, hu_zero, sub_zero]
+    simp_rw [h_coeff, sub_smul, one_smul]
+    rw [Finset.sum_sub_distrib, hu, sub_zero]
+  have m_ne_ones : m i ≠ 1 := by
+    have hi_mem : i ∈ S := by
+      rw [Finset.mem_filter]
+      exact ⟨Finset.mem_univ i, h_nz⟩
+    by_cases hi1 : i ∈ S₁
+    · dsimp [m]
+      rw [if_pos hi1]
+      decide
+    · have hi2 : i ∈ S \ S₁ := Finset.mem_sdiff.mpr ⟨hi_mem, hi1⟩
+      dsimp [m]
+      rw [if_neg hi1, if_pos hi2]
+      decide
+  have h_all_ones := huniq m h_sum_m h_sum_g i
+  exact m_ne_ones h_all_ones
+end MinModulus
+end
+end
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open MinModulus
+open scoped BigOperators
+open Module
+namespace MinModulus
+theorem _root_.solution
+    {n k : ℕ} (g : Fin n → (Fin k → ZMod 2))
+    (huniq : UniqueMultisetSums g) : n - 1 ≤ k := by
+  -- 1. Define Λ_mod directly as a linear map to avoid all Finsupp overhead
+  let Λ_mod : (Fin n → ZMod 2) →ₗ[ZMod 2] (Fin k → ZMod 2) := {
+    toFun := fun f => ∑ i, f i • g i,
+    map_add' := fun x y => by
+      dsimp
+      have : ∑ i, (x i + y i) • g i = ∑ i, (x i • g i + y i • g i) := by
+        apply Finset.sum_congr rfl
+        intro i _
+        rw [add_smul]
+      rw [this, Finset.sum_add_distrib]
+    map_smul' := fun r x => by
+      dsimp
+      have : ∑ i, (r * x i) • g i = ∑ i, r • (x i • g i) := by
+        apply Finset.sum_congr rfl
+        intro i _
+        exact mul_smul r (x i) (g i)
+      rw [this, ← Finset.smul_sum]
+  }
+  -- 2. Define sum_map natively
+  let sum_map : (Fin n → ZMod 2) →ₗ[ZMod 2] ZMod 2 := {
+    toFun := fun f => ∑ i, f i,
+    map_add' := fun x y => by
+      dsimp
+      exact Finset.sum_add_distrib
+    map_smul' := fun r x => by
+      dsimp
+      rw [← Finset.mul_sum]
+  }
+  -- 3. Restrict sum_map to the kernel of Λ_mod
+  let sum_map_ker := sum_map.comp (LinearMap.ker Λ_mod).subtype
+  have h_ker_triv : LinearMap.ker sum_map_ker = ⊥ := by
+    rw [Submodule.eq_bot_iff]
+    rintro ⟨u, hu_ker⟩ h_sum_map
+    have h_sum : ∑ i, u i = 0 := h_sum_map
+    have hu : ∑ i, u i • g i = 0 := hu_ker
+    exact Subtype.ext (eq_zero_of_sum_eq_zero g huniq u h_sum hu)
+  -- Rank-nullity wrap up
+  have h_rn := LinearMap.finrank_range_add_finrank_ker sum_map_ker
+  rw [h_ker_triv, finrank_bot, add_zero] at h_rn
+  have h_top_dim : finrank (ZMod 2) (ZMod 2) = 1 := finrank_self (ZMod 2)
+  have h_range_le : finrank (ZMod 2) (LinearMap.range sum_map_ker) ≤ 1 := by
+    have h1 := Submodule.finrank_le (LinearMap.range sum_map_ker)
+    rw [finrank_self (ZMod 2)] at h1
+    exact h1
+  have h_ker_le_1 : finrank (ZMod 2) (LinearMap.ker Λ_mod) ≤ 1 := by
+    omega
+  have h_rank_nullity := LinearMap.finrank_range_add_finrank_ker Λ_mod
+  rw [finrank_fintype_fun_eq_card, Fintype.card_fin] at h_rank_nullity
+  have h_target_dim : finrank (ZMod 2) (Fin k → ZMod 2) = k := by
+    rw [finrank_fintype_fun_eq_card, Fintype.card_fin]
+  have h_range_le_k : finrank (ZMod 2) (LinearMap.range Λ_mod) ≤ k := by
+    have h1 := Submodule.finrank_le (LinearMap.range Λ_mod)
+    omega
+  omega
+end MinModulus

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongruencyTU_lemma_8
 -- name    : CongruencyTU.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:46:51.652987+00:00
 -- url     : https://prove2.me/theorems/f47157ec-b993-44f4-b8b9-91ae165352a4

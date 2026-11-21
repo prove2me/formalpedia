@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_forall_eq_or_forall_ne_of_complexGraph
 -- name    : FiniteEnergyPlane.forall_eq_or_forall_ne_of_complexGraph
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-16T22:23:01.386743+00:00
 -- url     : https://prove2.me/theorems/3d23a20f-9391-4299-95c2-94ea391a08c5

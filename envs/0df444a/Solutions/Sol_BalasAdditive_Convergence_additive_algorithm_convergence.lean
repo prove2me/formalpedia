@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BalasAdditive.Convergence.additive_algorithm_convergence
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T19:33:25.439934+00:00
 -- url     : https://prove2.me/submissions/5d15dbf1-b7cc-4ac9-9e23-f0dc092e817a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BalasAdditive_Convergence_Algorithm

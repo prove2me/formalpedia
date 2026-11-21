@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_saxl_kronecker_pos
 -- name    : OAI.Saxl.saxl_kronecker_pos
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:16:57.616681+00:00
 -- url     : https://prove2.me/theorems/c4009b98-2826-4894-9112-d1900c11ecfa

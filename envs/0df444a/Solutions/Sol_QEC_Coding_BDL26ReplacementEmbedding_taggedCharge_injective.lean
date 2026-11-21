@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QEC.Coding.BDL26ReplacementEmbedding.taggedCharge_injective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-11-07T13:38:28.36906+00:00
 -- url     : https://prove2.me/submissions/8c8e4b26-ebc1-490c-9328-7a1de45681b1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QEC_Coding_FiniteAlternatingConstruction_TannerSquare
 import Mathlib.Analysis.Convex.Hull

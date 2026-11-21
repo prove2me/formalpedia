@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPSDPGap_simplicial_tsp_opt
 -- name    : TSPSDPGap.simplicial_tsp_opt
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:39:11.814732+00:00
 -- url     : https://prove2.me/theorems/c62dca83-48b7-4530-9a2d-dfaf09812890

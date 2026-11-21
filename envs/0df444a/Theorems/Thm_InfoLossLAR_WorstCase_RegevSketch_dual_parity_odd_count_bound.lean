@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dual_parity_odd_count_bound
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dual_parity_odd_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-19T06:23:20.680898+00:00
 -- url     : https://prove2.me/theorems/d8fb39e8-0e21-48d6-b528-9533a1d8be00

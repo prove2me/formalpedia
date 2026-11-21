@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiationFisherNSW_lemma_B_2
 -- name    : SatiationFisherNSW.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:25:46.089275+00:00
 -- url     : https://prove2.me/theorems/442f47c4-5894-488e-a3ea-2e882e4231d9

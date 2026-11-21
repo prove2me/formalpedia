@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_value_guarantee
 -- name    : FreeOrderEPTAS.value_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:29:42.898403+00:00
 -- url     : https://prove2.me/theorems/f81cfcce-b21c-41e4-bc49-d09a78eddcbb

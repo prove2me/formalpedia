@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomSizeStable_Stability_rank_cut_certificate_dStar
 -- name    : RandomSizeStable.Stability.rank_cut_certificate_dStar
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-19T17:00:03.164685+00:00
 -- url     : https://prove2.me/theorems/0b312552-c973-4b33-a400-9e4386087c66

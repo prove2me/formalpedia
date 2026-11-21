@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_claim_3_2_low_utilization
 -- name    : CloudAlloc.MWU.claim_3_2_low_utilization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:42:07.289847+00:00
 -- url     : https://prove2.me/theorems/7702ab52-6219-4485-8e93-de21b905a735

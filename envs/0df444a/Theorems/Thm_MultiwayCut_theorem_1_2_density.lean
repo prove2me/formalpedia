@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayCut_theorem_1_2_density
 -- name    : MultiwayCut.theorem_1_2_density
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:16:22.754735+00:00
 -- url     : https://prove2.me/theorems/954c525b-49b1-4412-87df-8e614e037a85

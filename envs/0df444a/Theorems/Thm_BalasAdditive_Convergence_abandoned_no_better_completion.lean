@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalasAdditive_Convergence_abandoned_no_better_completion
 -- name    : BalasAdditive.Convergence.abandoned_no_better_completion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:35:08.521047+00:00
 -- url     : https://prove2.me/theorems/4faa62ed-1510-4bb8-9f56-518f5f5ff21a

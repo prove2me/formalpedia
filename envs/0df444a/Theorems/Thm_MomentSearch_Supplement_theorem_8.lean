@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_Supplement_theorem_8
 -- name    : MomentSearch.Supplement.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T09:33:46.452204+00:00
 -- url     : https://prove2.me/theorems/88c0434b-ebb1-4467-8601-0167e9098b93

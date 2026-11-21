@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EDPMBandit_lemma_7
 -- name    : EDPMBandit.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:00:16.677713+00:00
 -- url     : https://prove2.me/theorems/5e315279-99c1-47d3-ab86-08173a413a89

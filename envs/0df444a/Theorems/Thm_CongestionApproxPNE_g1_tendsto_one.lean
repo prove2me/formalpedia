@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionApproxPNE_g1_tendsto_one
 -- name    : CongestionApproxPNE.g1_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:16:58.273784+00:00
 -- url     : https://prove2.me/theorems/93d8ef0b-94c4-48fd-860d-038464b73c8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_proj_not_mem_range_of_isFastPlane
 -- name    : FiniteEnergyPlane.proj_not_mem_range_of_isFastPlane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:10:21.683016+00:00
 -- url     : https://prove2.me/theorems/70c253bd-8253-4907-a639-968088768d38

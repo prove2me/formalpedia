@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for policy_gradient_baseline
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-10T04:45:45.119062+00:00
 -- url     : https://prove2.me/submissions/2eca5cf7-3494-43e8-8ab4-b15b710d25d2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_policy_gradient_baseline
 import Theorems.Thm_policy_gradient_log_form

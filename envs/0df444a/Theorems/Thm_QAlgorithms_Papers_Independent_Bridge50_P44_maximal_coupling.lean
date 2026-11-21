@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Bridge50_P44_maximal_coupling
 -- name    : QAlgorithms.Papers.Independent.Bridge50.P44.maximal_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-29T19:13:09.574039+00:00
 -- url     : https://prove2.me/theorems/7a742451-728f-4f03-b9e0-9eb7eaf8dcc3

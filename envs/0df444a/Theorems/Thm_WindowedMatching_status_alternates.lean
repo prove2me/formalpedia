@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_status_alternates
 -- name    : WindowedMatching.status_alternates
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:26:48.32178+00:00
 -- url     : https://prove2.me/theorems/54ec2d42-76b6-4edd-bc9d-f76db10a62d4

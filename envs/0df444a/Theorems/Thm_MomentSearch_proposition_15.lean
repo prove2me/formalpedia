@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_proposition_15
 -- name    : MomentSearch.proposition_15
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:09:00.352793+00:00
 -- url     : https://prove2.me/theorems/e256b116-820f-4e1c-ac3b-e207bdb12147

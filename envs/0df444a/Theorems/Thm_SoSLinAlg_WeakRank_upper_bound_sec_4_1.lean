@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoSLinAlg_WeakRank_upper_bound_sec_4_1
 -- name    : SoSLinAlg.WeakRank.upper_bound_sec_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T22:30:48.235951+00:00
 -- url     : https://prove2.me/theorems/a3aa7a07-37da-43dd-b22e-3191357e0b60

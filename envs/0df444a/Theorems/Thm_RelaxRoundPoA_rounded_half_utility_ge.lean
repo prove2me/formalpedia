@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_rounded_half_utility_ge
 -- name    : RelaxRoundPoA.rounded_half_utility_ge
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:21.795668+00:00
 -- url     : https://prove2.me/theorems/d85b5cee-0de5-44fc-97b9-1c89fb72799f

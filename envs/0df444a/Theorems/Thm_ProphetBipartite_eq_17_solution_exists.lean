@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_eq_17_solution_exists
 -- name    : ProphetBipartite.eq_17_solution_exists
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:50:13.851426+00:00
 -- url     : https://prove2.me/theorems/74177751-f1cf-42ae-8f1c-763c589fa6e6

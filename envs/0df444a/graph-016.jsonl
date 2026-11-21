@@ -10509,7 +10509,7 @@
 {"parent": "ThreeSum.WeightedGlobalCoverCapParameters.rawThreshold_pos", "child": "Submission_Weighted_Global_TernaryCoverCapParameters", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCoverCapParameters.rawThreshold_pos", "child": "Submission_Weighted_GlobalBank", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedGlobalCoverCapParameters.rawThreshold_pos", "child": "Submission_Weighted_Global_TernaryCoverFrequency", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.range_eq_or_disjoint_of_isFastPlane", "child": "FiniteEnergyPlane_Fredholm", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.range_eq_or_disjoint_of_isFastPlane", "child": "FiniteEnergyPlane_Fredholm", "via": ["solution", "statement"]}
 {"parent": "LostSalesConstantOrder.LargeLeadTime.lemma_5", "child": "LostSalesConstantOrder_LargeLeadTime_Model", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryArenaFixedParameters", "child": "Submission_Weighted_Global_LightTernaryDimensions", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryArenaFixedParameters", "child": "Submission_Weighted_Global_TernaryPairedCollisionRate", "via": ["statement"]}

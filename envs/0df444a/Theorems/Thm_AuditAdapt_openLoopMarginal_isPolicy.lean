@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditAdapt_openLoopMarginal_isPolicy
 -- name    : AuditAdapt.openLoopMarginal_isPolicy
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:03:46.23751+00:00
 -- url     : https://prove2.me/theorems/64843a9b-dd13-4e6f-8bf9-4fd395866370

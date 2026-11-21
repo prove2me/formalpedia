@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_seqMeasProb_eq_prob
 -- name    : QAlgorithms.Nannicini.seqMeasProb_eq_prob
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:11.545435+00:00
 -- url     : https://prove2.me/theorems/cc42db0c-9397-4ff5-8ae7-1527ed5db6e9

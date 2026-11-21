@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_f6_original_gaussian_infinite_activity_expgrowth_of_smallcomp_nonnegative
 -- name    : AvramDividend.Classical.avram_f6_original_gaussian_infinite_activity_expgrowth_of_smallcomp_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:33:01.185487+00:00
 -- url     : https://prove2.me/theorems/8a7ab495-917a-4346-b4cb-f7b534f19397

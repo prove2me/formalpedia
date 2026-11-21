@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for policy_gradient_finite_horizon
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-10T04:21:56.669879+00:00
 -- url     : https://prove2.me/submissions/32b0dea4-273e-4a70-a9f4-cb11eaea9e01
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_policy_gradient_finite_horizon
 import Theorems.Thm_pg_bellman_step

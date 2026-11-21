@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AndOrSched_lemma_1_feasibility
 -- name    : AndOrSched.lemma_1_feasibility
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:31:23.481929+00:00
 -- url     : https://prove2.me/theorems/40c34590-25f6-4275-a3e3-94bea4d48f30

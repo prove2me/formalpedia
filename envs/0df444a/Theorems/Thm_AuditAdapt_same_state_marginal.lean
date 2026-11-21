@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditAdapt_same_state_marginal
 -- name    : AuditAdapt.same_state_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:03:40.046027+00:00
 -- url     : https://prove2.me/theorems/404f279f-363a-4556-86a8-bf9cef67e8c4

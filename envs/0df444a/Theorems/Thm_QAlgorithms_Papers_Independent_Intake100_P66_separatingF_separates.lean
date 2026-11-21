@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P66_separatingF_separates
 -- name    : QAlgorithms.Papers.Independent.Intake100.P66.separatingF_separates
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:13:30.772183+00:00
 -- url     : https://prove2.me/theorems/b73c96b3-cb76-4eac-8634-97d29d84a58d

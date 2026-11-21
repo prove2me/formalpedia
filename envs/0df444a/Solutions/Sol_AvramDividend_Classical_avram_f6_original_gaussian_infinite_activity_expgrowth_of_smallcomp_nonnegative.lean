@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_f6_original_gaussian_infinite_activity_expgrowth_of_smallcomp_nonnegative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-19T22:33:44.035256+00:00
 -- url     : https://prove2.me/submissions/839a9ae9-1d77-458a-ad28-440ad0f345d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

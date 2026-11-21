@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Poly_p2_min_makespan_matching
 -- name    : ResourceScheduling.Poly.p2_min_makespan_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:33:15.828491+00:00
 -- url     : https://prove2.me/theorems/a8fcfa3f-dbba-4ff4-8683-f171b7cd93b8

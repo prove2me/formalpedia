@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditAdapt_lemma_3_3
 -- name    : AuditAdapt.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:04:01.873206+00:00
 -- url     : https://prove2.me/theorems/3b4c591a-211c-43fe-8a05-a780dda76524

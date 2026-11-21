@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedUniformServer_UnitWeights_Supplement_lower_bound
 -- name    : GeneralizedUniformServer.UnitWeights.Supplement.lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:40:44.049745+00:00
 -- url     : https://prove2.me/theorems/83cf5502-c7f3-47e4-bbaf-28439b9e4dac

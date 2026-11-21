@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecSampling_proposition_4
 -- name    : SecSampling.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:31:13.821336+00:00
 -- url     : https://prove2.me/theorems/d20822ab-b6c6-48f9-b256-fc51125d0235

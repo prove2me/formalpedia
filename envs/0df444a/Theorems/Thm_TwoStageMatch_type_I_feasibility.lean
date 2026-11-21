@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_type_I_feasibility
 -- name    : TwoStageMatch.type_I_feasibility
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:05.650191+00:00
 -- url     : https://prove2.me/theorems/f58cb725-344e-4f58-8acc-596e24c86113

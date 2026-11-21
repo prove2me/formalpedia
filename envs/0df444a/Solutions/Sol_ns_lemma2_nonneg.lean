@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ns_lemma2_nonneg
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T03:14:38.878834+00:00
 -- url     : https://prove2.me/submissions/a74a903f-773e-41b5-9d17-83af91fb3d65
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ns_markov_grid_lemma
 import Mathlib.Analysis.Calculus.Deriv.MeanValue

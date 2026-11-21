@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSketch.dgs_to_gapsvp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T23:49:06.492106+00:00
 -- url     : https://prove2.me/submissions/dde2f381-1846-4696-a8a0-06bcb20303e9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_InfoLossLAR_RegevSketch_DGS
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dual_parity_pool_far_mass

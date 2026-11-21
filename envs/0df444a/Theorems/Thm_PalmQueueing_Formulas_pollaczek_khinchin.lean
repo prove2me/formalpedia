@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Formulas_pollaczek_khinchin
 -- name    : PalmQueueing.Formulas.pollaczek_khinchin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T01:19:50.071928+00:00
 -- url     : https://prove2.me/theorems/0f129e7e-c351-4c78-839c-cbd81c871863

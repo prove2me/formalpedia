@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCTriFree_Circuit_display_p18
 -- name    : QMCTriFree.Circuit.display_p18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:58.33709+00:00
 -- url     : https://prove2.me/theorems/5a1dca63-438f-4415-9db4-9fdd17f1499a

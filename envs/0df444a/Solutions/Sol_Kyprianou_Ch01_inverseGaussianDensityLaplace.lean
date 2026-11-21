@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.inverseGaussianDensityLaplace
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-19T11:07:37.330802+00:00
 -- url     : https://prove2.me/submissions/e2c36a2a-8c29-49dc-88e3-fea183d166a7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch01_inverseGaussianDensityMassOne

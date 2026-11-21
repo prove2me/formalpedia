@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOrderCRS_minimum_after_7
 -- name    : RandomOrderCRS.minimum_after_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:21:15.515207+00:00
 -- url     : https://prove2.me/theorems/55b24d44-f5a6-4b2d-bddc-8a48e648437f

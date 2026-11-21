@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Multidim_MultidimBrownianMotion_isBrownianFiltration_natural
 -- name    : LevyStochCalc.Brownian.Multidim.MultidimBrownianMotion.isBrownianFiltration_natural
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:26:27.928703+00:00
 -- url     : https://prove2.me/theorems/dd0ba053-73f1-4d7f-b744-48b5319fc12c

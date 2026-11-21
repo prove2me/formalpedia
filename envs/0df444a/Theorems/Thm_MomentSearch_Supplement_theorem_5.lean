@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_Supplement_theorem_5
 -- name    : MomentSearch.Supplement.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T09:31:47.937263+00:00
 -- url     : https://prove2.me/theorems/6cd27888-81dc-431c-8fdc-98746a7f26fa

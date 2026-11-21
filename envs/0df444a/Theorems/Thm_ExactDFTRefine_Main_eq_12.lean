@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactDFTRefine_Main_eq_12
 -- name    : ExactDFTRefine.Main.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:02:02.617814+00:00
 -- url     : https://prove2.me/theorems/1f0df8a5-1584-4bba-90c8-6f0ac84c61fd

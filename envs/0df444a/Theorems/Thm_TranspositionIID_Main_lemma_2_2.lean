@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TranspositionIID_Main_lemma_2_2
 -- name    : TranspositionIID.Main.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:24:15.990213+00:00
 -- url     : https://prove2.me/theorems/1d9bdaed-af55-4605-a053-c11bd6b57ab5

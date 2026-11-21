@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CuttingStock63_Fractional_column_choice_knapsack
 -- name    : CuttingStock63.Fractional.column_choice_knapsack
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:06:59.688933+00:00
 -- url     : https://prove2.me/theorems/5eb9732c-a9d9-4c32-9b49-9a378405b521

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoPrinciplesMulticlass_NoEnvelope_theorem_3_1
 -- name    : AlgoPrinciplesMulticlass.NoEnvelope.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:28:12.320744+00:00
 -- url     : https://prove2.me/theorems/924a162f-3740-45ef-8d4b-17cd73b40482

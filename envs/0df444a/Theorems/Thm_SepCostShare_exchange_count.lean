@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_exchange_count
 -- name    : SepCostShare.exchange_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:53.041999+00:00
 -- url     : https://prove2.me/theorems/4089afe8-035e-4d61-9fac-9d653d2ee215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P15_sittingPath_concatenate
 -- name    : QAlgorithms.Papers.Independent.Intake100.P15.sittingPath_concatenate
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T13:16:46.342469+00:00
 -- url     : https://prove2.me/theorems/a8cab5ac-3a8b-4e88-bd40-a33deacc513a

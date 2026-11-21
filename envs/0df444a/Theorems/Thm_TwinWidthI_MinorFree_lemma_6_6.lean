@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_MinorFree_lemma_6_6
 -- name    : TwinWidthI.MinorFree.lemma_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:38:44.424935+00:00
 -- url     : https://prove2.me/theorems/8c7b07a0-45af-46ee-9bdf-7696573b253a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_good_subset
 -- name    : MoranYanPAC.Main.good_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:05:35.651394+00:00
 -- url     : https://prove2.me/theorems/b1f60dfb-39d3-4187-98d4-7eb09e00fbfd

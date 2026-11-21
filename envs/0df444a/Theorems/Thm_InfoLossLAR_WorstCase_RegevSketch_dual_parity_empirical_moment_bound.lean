@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dual_parity_empirical_moment_bound
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dual_parity_empirical_moment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-19T06:23:13.212243+00:00
 -- url     : https://prove2.me/theorems/58dcea64-44fd-417e-b2b2-dd78cc1cab9d

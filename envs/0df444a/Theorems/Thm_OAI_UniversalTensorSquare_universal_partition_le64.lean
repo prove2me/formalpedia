@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_universal_partition_le64
 -- name    : OAI.UniversalTensorSquare.universal_partition_le64
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:06:58.821174+00:00
 -- url     : https://prove2.me/theorems/303cd791-2511-41c9-bf89-2d480fec260b

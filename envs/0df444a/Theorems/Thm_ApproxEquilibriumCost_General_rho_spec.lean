@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_rho_spec
 -- name    : ApproxEquilibriumCost.General.rho_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:47:23.79582+00:00
 -- url     : https://prove2.me/theorems/cab007ac-6103-4e73-9344-b369f20abf6f

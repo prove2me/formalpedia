@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_descent_arith_core_v2
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T14:07:04.817204+00:00
 -- url     : https://prove2.me/submissions/46c5217c-557e-4965-96c4-d2460369c841
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

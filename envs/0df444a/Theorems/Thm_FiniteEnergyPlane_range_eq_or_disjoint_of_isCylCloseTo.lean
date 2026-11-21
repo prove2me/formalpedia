@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_range_eq_or_disjoint_of_isCylCloseTo
 -- name    : FiniteEnergyPlane.range_eq_or_disjoint_of_isCylCloseTo
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-06T11:24:56.618051+00:00
 -- url     : https://prove2.me/theorems/a0ea0079-621c-4191-8a1e-57f82664a8e7

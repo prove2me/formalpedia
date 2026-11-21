@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOrderCRS_proposition_8
 -- name    : RandomOrderCRS.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:21:07.482401+00:00
 -- url     : https://prove2.me/theorems/41528000-9993-41f9-8b69-ce175f50ed7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReconfRes_Frozen_lemma_3_62
 -- name    : ReconfRes.Frozen.lemma_3_62
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T19:24:38.209181+00:00
 -- url     : https://prove2.me/theorems/e40639cf-6c2e-4f9b-918b-d40d4b712989

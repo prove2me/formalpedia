@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for blockSensitivity_le_sensitivity_pow4
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-04-24T03:48:27.649949+00:00
 -- url     : https://prove2.me/submissions/c113cfd6-f8ac-435e-b6be-89f55275a215
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_blockSensitivity_le_sensitivity_pow4
 import Theorems.Thm_sensitivity_sq_ge_polyDegree

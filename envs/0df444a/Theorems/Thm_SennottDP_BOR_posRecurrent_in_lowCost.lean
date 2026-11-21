@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_BOR_posRecurrent_in_lowCost
 -- name    : SennottDP.BOR.posRecurrent_in_lowCost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T11:30:15.180313+00:00
 -- url     : https://prove2.me/theorems/ca4636f6-01a1-4b53-ae57-7a73e91b5f9f

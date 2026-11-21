@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for sensitivity_conjecture
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-04-24T03:49:01.099824+00:00
 -- url     : https://prove2.me/submissions/c64877e3-b0c8-434f-bc1e-e3b0ebf8cba4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_sensitivity_conjecture
 import Theorems.Thm_blockSensitivity_le_sensitivity_pow4

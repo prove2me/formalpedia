@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CutSetEnum_corollary_3_1
 -- name    : CutSetEnum.corollary_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:22.125595+00:00
 -- url     : https://prove2.me/theorems/d8bd47ee-a609-4f70-a001-942ee09e573f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for flt5_zeta5_pid_step
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-12T16:05:20.463622+00:00
 -- url     : https://prove2.me/submissions/f272d112-b680-415c-a8aa-f98cb219b44d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

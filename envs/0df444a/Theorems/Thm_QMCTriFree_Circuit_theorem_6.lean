@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCTriFree_Circuit_theorem_6
 -- name    : QMCTriFree.Circuit.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:30:24.210062+00:00
 -- url     : https://prove2.me/theorems/a31875f4-16e0-49c9-b353-2c6348cd5e6a

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_case1_phi_is_fifth_power
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-12T09:11:35.366825+00:00
 -- url     : https://prove2.me/submissions/6a521489-ac40-4421-842b-5c85e92403af
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_flt5_case1_phi_is_fifth_power
 import Theorems.Thm_coprime_fifth_power_factor

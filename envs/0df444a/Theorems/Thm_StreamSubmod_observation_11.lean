@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StreamSubmod_observation_11
 -- name    : StreamSubmod.observation_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:15.247363+00:00
 -- url     : https://prove2.me/theorems/efc97546-8bb9-4b69-830d-33d6eec0b1f9

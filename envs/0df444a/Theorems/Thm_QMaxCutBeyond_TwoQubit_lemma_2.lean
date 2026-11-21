@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMaxCutBeyond_TwoQubit_lemma_2
 -- name    : QMaxCutBeyond.TwoQubit.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:22.397625+00:00
 -- url     : https://prove2.me/theorems/658661f6-963d-4855-8562-0c0231bc9e70

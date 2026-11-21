@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisanRonen_Rounding_dominant_iff_rounded_optimal
 -- name    : NisanRonen.Rounding.dominant_iff_rounded_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T18:29:07.347222+00:00
 -- url     : https://prove2.me/theorems/c015dd5f-60ef-4528-900a-ab2f2287b43a

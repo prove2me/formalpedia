@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_normalized_downward_deadlines
 -- name    : OnlineTransportation1195.Main.normalized_downward_deadlines
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:35:25.14707+00:00
 -- url     : https://prove2.me/theorems/502d09fc-46ea-4524-8d83-b8f11b22a4da

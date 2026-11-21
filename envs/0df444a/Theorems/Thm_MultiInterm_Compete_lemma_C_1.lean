@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiInterm_Compete_lemma_C_1
 -- name    : MultiInterm.Compete.lemma_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:40:46.532381+00:00
 -- url     : https://prove2.me/theorems/3ca7c7bb-7daf-4844-930c-3c15a8538b94

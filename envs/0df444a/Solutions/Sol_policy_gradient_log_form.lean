@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for policy_gradient_log_form
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-10T04:34:29.852595+00:00
 -- url     : https://prove2.me/submissions/daa15a8c-a874-44a8-af89-e9e7d7a906b8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_policy_gradient_finite_horizon
 import Definitions.Def_pg_mdp_core

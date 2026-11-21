@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditAdapt_totalCost_eq_initial_value
 -- name    : AuditAdapt.totalCost_eq_initial_value
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:03:50.591523+00:00
 -- url     : https://prove2.me/theorems/692da2d7-8b87-4566-90a9-f3a9fabbccf8

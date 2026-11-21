@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianDensityLaplace
 -- name    : Kyprianou.Ch01.inverseGaussianDensityLaplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:20:42.187195+00:00
 -- url     : https://prove2.me/theorems/f8b1d234-4b0c-4b77-8159-db9841b783a6

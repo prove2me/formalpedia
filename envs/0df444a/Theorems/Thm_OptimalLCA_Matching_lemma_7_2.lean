@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalLCA_Matching_lemma_7_2
 -- name    : OptimalLCA.Matching.lemma_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:45:29.882368+00:00
 -- url     : https://prove2.me/theorems/35bee7d1-9d1a-46fd-8a35-7c8e673d54f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoPrinciplesMulticlass_NoEnvelope_learnable_ds_finite
 -- name    : AlgoPrinciplesMulticlass.NoEnvelope.learnable_ds_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:28:22.50146+00:00
 -- url     : https://prove2.me/theorems/a9d58eb9-8406-4f9f-9148-83a625b6f76d

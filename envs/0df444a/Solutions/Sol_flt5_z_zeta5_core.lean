@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_z_zeta5_core
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-12T14:46:37.408953+00:00
 -- url     : https://prove2.me/submissions/ef57e2b3-b490-47c7-a41e-1cb88041e4d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

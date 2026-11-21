@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSDPolyApprox_xc_minkowski_sum
 -- name    : PSDPolyApprox.xc_minkowski_sum
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:49:23.993795+00:00
 -- url     : https://prove2.me/theorems/3e58b322-0326-4e0e-bf80-7e13f9e6e0a0

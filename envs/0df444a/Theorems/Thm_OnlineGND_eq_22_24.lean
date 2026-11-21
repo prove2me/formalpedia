@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineGND_eq_22_24
 -- name    : OnlineGND.eq_22_24
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:24:06.373919+00:00
 -- url     : https://prove2.me/theorems/aa67554d-4c41-4833-954a-c3aaee371c1e

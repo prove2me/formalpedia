@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxRoundPoA_theorem_3_prime
 -- name    : RelaxRoundPoA.theorem_3_prime
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:52.687572+00:00
 -- url     : https://prove2.me/theorems/0394e17f-8961-4672-bc95-c512d851dd17

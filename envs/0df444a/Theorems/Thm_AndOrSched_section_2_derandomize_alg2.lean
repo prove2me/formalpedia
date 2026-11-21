@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AndOrSched_section_2_derandomize_alg2
 -- name    : AndOrSched.section_2_derandomize_alg2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:31:11.52633+00:00
 -- url     : https://prove2.me/theorems/43962457-534b-4a07-97e6-69414f6c15d1

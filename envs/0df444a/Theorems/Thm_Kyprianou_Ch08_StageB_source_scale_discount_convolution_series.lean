@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_scale_discount_convolution_series
 -- name    : Kyprianou.Ch08.StageB.source_scale_discount_convolution_series
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T00:07:48.733409+00:00
 -- url     : https://prove2.me/theorems/6479a6ef-fd6f-4907-86c8-c42912d5a339

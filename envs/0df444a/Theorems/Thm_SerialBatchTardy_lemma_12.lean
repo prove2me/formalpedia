@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SerialBatchTardy_lemma_12
 -- name    : SerialBatchTardy.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:53:53.763161+00:00
 -- url     : https://prove2.me/theorems/a7c384f0-16dd-4c9e-a59e-5846bdd4b3f7

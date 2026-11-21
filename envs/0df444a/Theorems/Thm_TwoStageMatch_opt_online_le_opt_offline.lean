@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_opt_online_le_opt_offline
 -- name    : TwoStageMatch.opt_online_le_opt_offline
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:31:24.289792+00:00
 -- url     : https://prove2.me/theorems/7ffdc271-8559-4340-b2d3-cee8673a73fe

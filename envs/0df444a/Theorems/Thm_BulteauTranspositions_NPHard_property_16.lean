@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BulteauTranspositions_NPHard_property_16
 -- name    : BulteauTranspositions.NPHard.property_16
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T21:53:58.354987+00:00
 -- url     : https://prove2.me/theorems/d7a4f8cd-2eb7-4e4d-8940-e2c61fe11247

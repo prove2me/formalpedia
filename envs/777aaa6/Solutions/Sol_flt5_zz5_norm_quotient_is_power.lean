@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_zz5_norm_quotient_is_power
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T09:33:25.917672+00:00
 -- url     : https://prove2.me/submissions/f840d821-28b4-4d45-bbd5-2ca705182bfa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

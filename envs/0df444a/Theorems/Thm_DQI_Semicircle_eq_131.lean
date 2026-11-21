@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Semicircle_eq_131
 -- name    : DQI.Semicircle.eq_131
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:27.675732+00:00
 -- url     : https://prove2.me/theorems/be568cca-c570-4420-852e-28863d984900

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_pj_workerC_original_randomclock_HJB_three_component_signed_expected_budget
 -- name    : AvramDividend.Classical.avram_pj_workerC_original_randomclock_HJB_three_component_signed_expected_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:36:07.830684+00:00
 -- url     : https://prove2.me/theorems/c8256af7-0180-4231-bf8f-bffc199be111

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecSampling_lemma_19
 -- name    : SecSampling.lemma_19
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:33.393188+00:00
 -- url     : https://prove2.me/theorems/56c8697f-5c70-48c0-a4b2-64cb16ea0aaf

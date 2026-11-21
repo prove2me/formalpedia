@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneSimplex_claim_4
 -- name    : ZeroOneSimplex.claim_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:50:44.563832+00:00
 -- url     : https://prove2.me/theorems/e2215b0d-be3a-4b66-ac7b-ab77c316ccc0

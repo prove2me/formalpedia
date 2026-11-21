@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_descent_from_pow4
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-12T12:27:59.976703+00:00
 -- url     : https://prove2.me/submissions/aeab13b9-5aa2-4a75-a934-93c21ce55f85
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_flt5_coprime_wv
 import Theorems.Thm_flt5_descent_construction

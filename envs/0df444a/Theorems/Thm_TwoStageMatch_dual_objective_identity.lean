@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_dual_objective_identity
 -- name    : TwoStageMatch.dual_objective_identity
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:18.833945+00:00
 -- url     : https://prove2.me/theorems/772e810a-2a9e-4d19-a4d4-75fc15979b76

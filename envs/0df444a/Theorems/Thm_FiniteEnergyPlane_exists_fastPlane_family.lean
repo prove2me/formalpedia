@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_fastPlane_family
 -- name    : FiniteEnergyPlane.exists_fastPlane_family
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:09:08.78829+00:00
 -- url     : https://prove2.me/theorems/7d272bc2-e7fe-4515-9485-c72551bcb028

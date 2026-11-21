@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LindelofHypothesis.lindelof_of_riemannHypothesis
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @martelus trismortuus
 -- created : 2026-11-18T04:20:20.263451+00:00
 -- url     : https://prove2.me/submissions/74b73e50-01b3-4c32-95b2-65e647a0faf1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LindelofHypothesis_GrowthAndZeroCounts

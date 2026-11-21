@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupermodDRO_max_mad
 -- name    : SupermodDRO.max_mad
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:31:07.741467+00:00
 -- url     : https://prove2.me/theorems/d22ace84-7f01-4095-baa6-c5bfc1777fe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LatentMixDRO_lemma_D_1
 -- name    : LatentMixDRO.lemma_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:23:44.273528+00:00
 -- url     : https://prove2.me/theorems/5c0fcd4e-cdab-4d8e-95d1-ec31189edd50

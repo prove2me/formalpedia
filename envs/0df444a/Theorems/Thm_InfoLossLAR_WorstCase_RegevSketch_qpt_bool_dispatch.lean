@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_qpt_bool_dispatch
 -- name    : InfoLossLAR.WorstCase.RegevSketch.qpt_bool_dispatch
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T09:01:15.105739+00:00
 -- url     : https://prove2.me/theorems/de080210-2247-40be-a5bb-0287f13a9df5

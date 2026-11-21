@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CutSetEnum_theorem_1_5_strict
 -- name    : CutSetEnum.theorem_1_5_strict
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:14:31.453238+00:00
 -- url     : https://prove2.me/theorems/60693b64-fd69-4f56-a106-deb4809e1f9e

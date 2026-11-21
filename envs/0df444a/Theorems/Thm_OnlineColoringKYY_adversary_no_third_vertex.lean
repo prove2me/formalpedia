@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineColoringKYY_adversary_no_third_vertex
 -- name    : OnlineColoringKYY.adversary_no_third_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:32:40.630633+00:00
 -- url     : https://prove2.me/theorems/aa55bd51-2991-4fa7-928f-a76572a22970

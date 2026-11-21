@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_nearest_garage_reduction
 -- name    : OnlineTransportation1195.Main.nearest_garage_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:35:59.467403+00:00
 -- url     : https://prove2.me/theorems/c025fc34-df9f-4660-b148-0b7bdc05fd10

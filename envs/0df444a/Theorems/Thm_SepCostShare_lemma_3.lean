@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_lemma_3
 -- name    : SepCostShare.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:46.083985+00:00
 -- url     : https://prove2.me/theorems/5e9b8b31-3208-4710-93e5-7ebd1d10ee60

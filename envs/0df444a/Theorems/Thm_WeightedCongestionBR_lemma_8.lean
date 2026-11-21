@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedCongestionBR_lemma_8
 -- name    : WeightedCongestionBR.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:19:19.011227+00:00
 -- url     : https://prove2.me/theorems/43645a7d-be05-4207-b6d2-4165d9658512

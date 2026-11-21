@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for RH1E6S06.part_050_3
+-- status  : ACCEPTED   (prove)
+-- author  : @@bwdaugherty
+-- created : 2026-11-20T19:24:51.167385+00:00
+-- url     : https://prove2.me/submissions/8df59764-b566-449f-87d8-98fdf6f6b4ec
+
+import Definitions.Def_RH1E6S06_D050_3
+import Definitions.Def_ArdaRS_BandSharp
+import Theorems.Thm_RS5_BandZeros_glue
+import Theorems.Thm_RS5_bandZeros_of_ok_prime
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+namespace RH1E6S06
+
+theorem band_0406 : RS5.BandZeros ((28127709527 : ℝ) / 65536) ((28132401654 : ℝ) / 65536) 127 := by
+  have h := RS5.bandZeros_of_ok_prime RH1E6S06_0406.s0 RH1E6S06_0406.rest (by decide +kernel)
+  have hl : RS5.lastOf RH1E6S06_0406.s0 RH1E6S06_0406.rest = RH1E6S06_0406.sL := rfl
+  have hc : RS5.chgBy RS5.Sample.pos (RH1E6S06_0406.s0 :: RH1E6S06_0406.rest) = 127 := by decide +kernel
+  rw [hl, hc] at h
+  have e0 : RH1E6S06_0406.s0.t = ((28127709527 : ℝ) / 65536) := by norm_num [RS5.Sample.t, RH1E6S06_0406.s0]
+  have e1 : RH1E6S06_0406.sL.t = ((28132401654 : ℝ) / 65536) := by norm_num [RS5.Sample.t, RH1E6S06_0406.sL]
+  rw [e0, e1] at h
+  exact h
+
+theorem band_0407 : RS5.BandZeros ((28132401654 : ℝ) / 65536) ((28137108640 : ℝ) / 65536) 127 := by
+  have h := RS5.bandZeros_of_ok_prime RH1E6S06_0407.s0 RH1E6S06_0407.rest (by decide +kernel)
+  have hl : RS5.lastOf RH1E6S06_0407.s0 RH1E6S06_0407.rest = RH1E6S06_0407.sL := rfl
+  have hc : RS5.chgBy RS5.Sample.pos (RH1E6S06_0407.s0 :: RH1E6S06_0407.rest) = 127 := by decide +kernel
+  rw [hl, hc] at h
+  have e0 : RH1E6S06_0407.s0.t = ((28132401654 : ℝ) / 65536) := by norm_num [RS5.Sample.t, RH1E6S06_0407.s0]
+  have e1 : RH1E6S06_0407.sL.t = ((28137108640 : ℝ) / 65536) := by norm_num [RS5.Sample.t, RH1E6S06_0407.sL]
+  rw [e0, e1] at h
+  exact h
+
+theorem part_050_3 : RS5.BandZeros ((28127709527 : ℝ) / 65536) ((28137108640 : ℝ) / 65536) 254 := by
+  have g0 := band_0406
+  have g1 := RS5.BandZeros.glue (by norm_num) (by norm_num) g0 band_0407
+  exact g1
+
+end RH1E6S06
+open RH1E6S06 in
+theorem solution : RS5.BandZeros ((28127709527 : ℝ) / 65536) ((28137108640 : ℝ) / 65536) 254 := by
+  apply RH1E6S06.part_050_3 <;> assumption

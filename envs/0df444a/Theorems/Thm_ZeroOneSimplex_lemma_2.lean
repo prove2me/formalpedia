@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneSimplex_lemma_2
 -- name    : ZeroOneSimplex.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:50:39.88175+00:00
 -- url     : https://prove2.me/theorems/ddae5200-adf4-4b52-933b-f20afdc40203

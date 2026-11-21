@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg38773
 -- name    : OAI.UniversalTensorSquare.sg38773
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T17:52:14.253705+00:00
 -- url     : https://prove2.me/theorems/97156fcf-213d-4006-a7b3-0222e19a8461

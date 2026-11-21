@@ -5154,7 +5154,6 @@
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.capped_admissible_hjb_right_dividend_atom_control", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.hjb_component_inequalities", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.capped_admissible_hjb_right_dividend_atom_control", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrier_strategy_value", "child": "AvramDividend.Classical.barrierStrategy_value_eq_killed_exit_integral_mul_boundaryValue", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrier_strategy_value", "child": "AvramDividend.Classical.two_sided_exit_before_ruin_identity", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrier_strategy_value", "child": "AvramDividend.Classical.barrierValue_self_eq_barrierSupValue", "via": ["solution"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_gaussianB_positive_event_full_original_stopped_GH_mesh_all_clippings_uniform
 -- name    : AvramDividend.Classical.avram_gaussianB_positive_event_full_original_stopped_GH_mesh_all_clippings_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T01:22:16.213121+00:00
 -- url     : https://prove2.me/theorems/72db4300-7763-4c6c-8ed8-4c77eff9f4a5

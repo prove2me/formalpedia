@@ -3556,16 +3556,16 @@
 {"parent": "QEC.Distillation.Ngu24MultiplicativeCSS.SourceInput.wordPairing_partition", "child": "QEC_Coding_Core_Definitions", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_strict6_original_uniform_generator_sum_aemeas", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_strict6_original_uniform_generator_sum_aemeas", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_IsProper", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_advEdge", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_admits", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_OnlineColoringAlg", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_run", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_stepGraph", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_advGraph", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_prefixGraph", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_advColors", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_baseColor", "via": ["statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_IsProper", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_advEdge", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_admits", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_OnlineColoringAlg", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_run", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_stepGraph", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_advGraph", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_prefixGraph", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_advColors", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.adversary_correctness", "child": "OnlineColoringKYY_baseColor", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.coeff_jacobiGeometricSeries", "child": "QEC_Coding_ExpanderCodes_JacobiLambertSeries", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.coeff_jacobiGeometricSeries", "child": "QEC_Coding_ExpanderCodes_JacobiThetaProduct", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.GeneratedUniversality.finitePrecisionRegisterUniversal_of_dense", "child": "QEC_Semantics_Core_Definitions", "via": ["solution", "statement"]}
@@ -6557,11 +6557,11 @@
 {"parent": "PathCount2k.lemma_2_3", "child": "PathCount2k_Exterior", "via": ["statement"]}
 {"parent": "PathCount2k.lemma_2_3", "child": "PathCount2k_Graph", "via": ["statement"]}
 {"parent": "PathCount2k.lemma_2_3", "child": "PathCount2k_Gaussian", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_numColors", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_IsProper", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_OnlineColoringAlg", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_run", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_prefixGraph", "via": ["statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_numColors", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_IsProper", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_OnlineColoringAlg", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_run", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1", "child": "OnlineColoringKYY_prefixGraph", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.JacobiTripleProductCore.multipliable_shifted", "child": "QEC_Coding_ExpanderCodes_JacobiTripleProductCore", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomPartition.exists_sample_hasGroupedHHO20LightChecks", "child": "QEC_Coding_FiberBundle_PartitionedChecksProbability", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.FiberBundle.RandomPartition.exists_sample_hasGroupedHHO20LightChecks", "child": "QEC_Coding_FiberBundle_RandomBase_ExpansionProbability", "via": ["solution", "statement"]}
@@ -8576,11 +8576,11 @@
 {"parent": "QEC_Coding_ExpanderCodes_QuaternionMatrix", "child": "QEC.Coding.ExpanderCodes.QuaternionGenerators.val_baseUnit", "via": ["statement"]}
 {"parent": "QEC_Coding_ExpanderCodes_QuaternionMatrix", "child": "QEC.Coding.ExpanderCodes.ProjectiveDeterminant.toPGL_liftToPSL", "via": ["statement"]}
 {"parent": "QEC_Coding_ExpanderCodes_QuaternionMatrix", "child": "QEC.Coding.ExpanderCodes.QuaternionGenerators.val_primeUnit", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_numColors", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_IsProper", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_OnlineColoringAlg", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_run", "via": ["statement"]}
-{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_prefixGraph", "via": ["statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_numColors", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_IsProper", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_OnlineColoringAlg", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_run", "via": ["solution", "statement"]}
+{"parent": "OnlineColoringKYY.theorem_1_1_witness_bound", "child": "OnlineColoringKYY_prefixGraph", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancing.HammingWeight_eq_sum_indicator", "child": "QEC_Coding_ChainComplex_Duality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancing.HammingWeight_eq_sum_indicator", "child": "QEC_Coding_CodeReduction_Classical_Distance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancing.HammingWeight_eq_sum_indicator", "child": "QEC_Coding_CodeReduction_DistanceBalancing_Core", "via": ["solution", "statement"]}
@@ -10202,7 +10202,7 @@
 {"parent": "SubsetConvFPRAS.corollary_5_6", "child": "SubsetConvFPRAS_PairLaws", "via": ["statement"]}
 {"parent": "SubsetConvFPRAS.corollary_5_6", "child": "SubsetConvFPRAS_Machine", "via": ["statement"]}
 {"parent": "ClusterDecomp.lemma_3_2", "child": "ClusterDecomp_Alg1Run", "via": ["statement"]}
-{"parent": "OnlineBeckFiala.lemma_4_1", "child": "OnlineBeckFiala_W", "via": ["statement"]}
+{"parent": "OnlineBeckFiala.lemma_4_1", "child": "OnlineBeckFiala_W", "via": ["solution", "statement"]}
 {"parent": "FourColorLinear.main_types_count", "child": "FourColorLinear_IsRegion", "via": ["statement"]}
 {"parent": "FourColorLinear.main_types_count", "child": "FourColorLinear_contr", "via": ["statement"]}
 {"parent": "FourColorLinear.main_types_count", "child": "FourColorLinear_mainTypes", "via": ["statement"]}
@@ -33344,7 +33344,6 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.JacobiTripleProductCore.T_finite_support", "child": "QEC.Coding.TannerLiftedProduct.JacobiTripleProductCore.coeff_monomial_mul_V", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_a19_nonint_original_compensated_error_without_meas", "child": "AvramDividend.Classical.avram_bv_strict6_two_scale_centered_positive_error_diagonal", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_a19_nonint_original_compensated_error_without_meas", "child": "AvramDividend.Classical.avram_route_runner_original_two_scale_compensated_source_approximation", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.avram_a19_nonint_original_compensated_error_without_meas", "child": "AvramDividend.Classical.avram_a19_original_physical_stopped_residual_for_grid", "via": ["solution"]}
 {"parent": "OAI.ShortDraftHeckeBridge.normFiberExpSum_continuousOn_pos", "child": "OAI.IdealGaussCRT.traceProdChar_mk", "via": ["solution"]}
 {"parent": "OAI.ShortDraftHeckeBridge.normFiberExpSum_continuousOn_pos", "child": "OAI.ShortDraftHeckeBridge.normFiberCoeff_norm_le", "via": ["solution"]}
 {"parent": "FiniteEnergyPlane.exists_fastPlane_close_family", "child": "FiniteEnergyPlane.exists_jHolomorphic_family_of_fastPlane", "via": ["solution"]}
@@ -47660,7 +47659,6 @@
 {"parent": "AvramDividend.Classical.avram_p3_grid4_original_physical_stopped_cell_error_witness", "child": "AvramDividend.Classical.avram_p3_grid4_centered_gap_positive_error_aggregation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_p3_grid4_original_physical_stopped_cell_error_witness", "child": "AvramDividend.Classical.avram_p3_grid4_turn8b_original_uniform_full_B_aestronglyMeasurable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_p3_grid4_original_physical_stopped_cell_error_witness", "child": "AvramDividend.Classical.avram_p3_grid4_original_cash_prefix_positive_F_and_fatou", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.avram_p3_grid4_original_physical_stopped_cell_error_witness", "child": "AvramDividend.Classical.avram_a19_original_physical_stopped_residual_for_grid", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_p3_grid4_original_physical_stopped_cell_error_witness", "child": "AvramDividend.Classical.avram_p3_comp8_original_uniform_signed_mean_gap_vanishes", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_p3_grid4_original_physical_stopped_cell_error_witness", "child": "AvramDividend.Classical.avram_redux9_original_uniform_grid_generator_residual_L1", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_p3_grid4_original_physical_stopped_cell_error_witness", "child": "AvramDividend.Classical.avram_a19_original_physical_stopped_residual_for_uniform_grid", "via": ["solution"]}

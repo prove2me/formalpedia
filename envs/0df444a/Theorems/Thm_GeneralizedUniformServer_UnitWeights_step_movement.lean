@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedUniformServer_UnitWeights_step_movement
 -- name    : GeneralizedUniformServer.UnitWeights.step_movement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:29.463724+00:00
 -- url     : https://prove2.me/theorems/cb35d3dc-9f02-4712-96b9-ad3e7deb4f4b

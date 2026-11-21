@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_Decreasing_ffd_le_eleven_ninths_large_items
 -- name    : BinPacking.Decreasing.ffd_le_eleven_ninths_large_items
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:17:26.109866+00:00
 -- url     : https://prove2.me/theorems/f24d57b7-efa8-43d6-8dcb-615350c0c419

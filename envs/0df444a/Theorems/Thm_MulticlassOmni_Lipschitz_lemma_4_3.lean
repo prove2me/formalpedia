@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassOmni_Lipschitz_lemma_4_3
 -- name    : MulticlassOmni.Lipschitz.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T22:12:12.89117+00:00
 -- url     : https://prove2.me/theorems/556fe353-ec38-4932-8b52-5652391d90bf

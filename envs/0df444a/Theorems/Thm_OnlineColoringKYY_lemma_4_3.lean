@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineColoringKYY_lemma_4_3
 -- name    : OnlineColoringKYY.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:30:17.999201+00:00
 -- url     : https://prove2.me/theorems/23e9a87b-ce7c-40d8-b7a2-0f3cd10eb58a

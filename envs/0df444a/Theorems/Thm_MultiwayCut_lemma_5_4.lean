@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiwayCut_lemma_5_4
 -- name    : MultiwayCut.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:46.478393+00:00
 -- url     : https://prove2.me/theorems/b836dbcc-7242-4287-bd91-52e0749c6255

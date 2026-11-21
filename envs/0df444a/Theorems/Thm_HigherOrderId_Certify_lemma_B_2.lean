@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherOrderId_Certify_lemma_B_2
 -- name    : HigherOrderId.Certify.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:17:24.642984+00:00
 -- url     : https://prove2.me/theorems/6a00d659-432b-4a3b-8bc0-6ea52c83f4dc

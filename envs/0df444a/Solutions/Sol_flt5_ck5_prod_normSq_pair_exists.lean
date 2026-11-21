@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_ck5_prod_normSq_pair_exists
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T18:59:44.230729+00:00
 -- url     : https://prove2.me/submissions/823b6a83-0ca2-4116-847c-7edd41190666
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

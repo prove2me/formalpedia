@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolevoCQ_sqrt_gram_ineq
 -- name    : HolevoCQ.sqrt_gram_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T03:14:56.89191+00:00
 -- url     : https://prove2.me/theorems/c5542725-a98c-4bb0-b0be-6d78fb669afe

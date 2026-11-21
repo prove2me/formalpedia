@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MVBlossoms_corollary_3
 -- name    : MVBlossoms.corollary_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:45:42.745079+00:00
 -- url     : https://prove2.me/theorems/05ea0ae2-6251-4fc4-9959-4a532349ee28

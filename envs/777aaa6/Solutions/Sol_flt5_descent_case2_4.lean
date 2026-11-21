@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for flt5_descent_case2
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-12T18:14:17.705557+00:00
 -- url     : https://prove2.me/submissions/557a275d-8281-400f-ac6b-f19fa1634680
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_flt5_descent_step
 import Mathlib.Data.Int.Basic

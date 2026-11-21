@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_weighted_tree_walk_deadlines
 -- name    : OnlineTransportation1195.Main.weighted_tree_walk_deadlines
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:37:01.628877+00:00
 -- url     : https://prove2.me/theorems/e1730335-25dd-446e-a990-95230a960196

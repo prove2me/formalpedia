@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Saxl_cyclic_saxl_conjecture
 -- name    : OAI.Saxl.cyclic_saxl_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:17:45.849097+00:00
 -- url     : https://prove2.me/theorems/ac180de1-1544-43e7-888b-f7c13aad6b79

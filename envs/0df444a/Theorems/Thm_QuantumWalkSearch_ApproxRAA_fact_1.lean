@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_ApproxRAA_fact_1
 -- name    : QuantumWalkSearch.ApproxRAA.fact_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:42:49.153992+00:00
 -- url     : https://prove2.me/theorems/e4ed85a6-3341-405a-9a98-fc8fb77d01dd

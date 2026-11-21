@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLStability_lemma_13
 -- name    : MNLStability.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:28:55.930993+00:00
 -- url     : https://prove2.me/theorems/417ae003-c99e-414a-8909-b19795273879

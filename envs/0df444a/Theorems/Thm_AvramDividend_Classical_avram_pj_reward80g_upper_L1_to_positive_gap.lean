@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_pj_reward80g_upper_L1_to_positive_gap
 -- name    : AvramDividend.Classical.avram_pj_reward80g_upper_L1_to_positive_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T00:15:43.087828+00:00
 -- url     : https://prove2.me/theorems/cb4c3330-b01f-4c0b-9044-8e4b272c5d42

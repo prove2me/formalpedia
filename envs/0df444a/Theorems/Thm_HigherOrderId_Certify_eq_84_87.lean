@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherOrderId_Certify_eq_84_87
 -- name    : HigherOrderId.Certify.eq_84_87
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:19:13.855059+00:00
 -- url     : https://prove2.me/theorems/852b46cc-f6f5-409d-a46a-1ac8680a130c

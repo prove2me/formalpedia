@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for tal_block_sensitivity_bound
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-08T21:28:08.382986+00:00
 -- url     : https://prove2.me/submissions/4d2fc5e6-e62d-4cb5-99b7-9009b00cc4ef
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_polyDegree_distinguishing_units_bound
 import Theorems.Thm_block_restrict_polyDegree_le

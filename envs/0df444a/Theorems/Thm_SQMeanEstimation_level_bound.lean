@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SQMeanEstimation_level_bound
 -- name    : SQMeanEstimation.level_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:17:25.939128+00:00
 -- url     : https://prove2.me/theorems/28a0fe09-64a5-4ed6-8dbd-eb821b54daf7

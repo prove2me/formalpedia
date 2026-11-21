@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StreamSubmod_rounding
 -- name    : StreamSubmod.rounding
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:26.907521+00:00
 -- url     : https://prove2.me/theorems/24fae12d-2230-4d50-b969-d8d0c4fb53b4

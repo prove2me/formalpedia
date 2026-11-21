@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianDensityMassOne
 -- name    : Kyprianou.Ch01.inverseGaussianDensityMassOne
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T11:06:49.221209+00:00
 -- url     : https://prove2.me/theorems/646787a9-d70f-4fd7-ab91-87ad2a7783c7

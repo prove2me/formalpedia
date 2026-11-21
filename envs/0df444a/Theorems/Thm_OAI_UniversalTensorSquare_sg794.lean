@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg794
 -- name    : OAI.UniversalTensorSquare.sg794
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T22:43:14.382727+00:00
 -- url     : https://prove2.me/theorems/9f745b86-cd93-4dab-ab54-67423076cc44

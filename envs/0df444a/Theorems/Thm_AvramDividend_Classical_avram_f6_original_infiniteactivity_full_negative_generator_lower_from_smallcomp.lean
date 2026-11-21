@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_f6_original_infiniteactivity_full_negative_generator_lower_from_smallcomp
 -- name    : AvramDividend.Classical.avram_f6_original_infiniteactivity_full_negative_generator_lower_from_smallcomp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:30:31.089187+00:00
 -- url     : https://prove2.me/theorems/dd598d3b-bd31-4004-84f8-30eaa71c4e92

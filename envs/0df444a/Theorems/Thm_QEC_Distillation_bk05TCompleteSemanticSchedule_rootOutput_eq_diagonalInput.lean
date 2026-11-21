@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_bk05TCompleteSemanticSchedule_rootOutput_eq_diagonalInput
 -- name    : QEC.Distillation.bk05TCompleteSemanticSchedule_rootOutput_eq_diagonalInput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T21:56:04.034183+00:00
 -- url     : https://prove2.me/theorems/c6e15736-769e-40a0-9700-ee53a0c75ce2

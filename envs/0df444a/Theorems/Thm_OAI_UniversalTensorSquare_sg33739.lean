@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg33739
 -- name    : OAI.UniversalTensorSquare.sg33739
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T14:26:18.608339+00:00
 -- url     : https://prove2.me/theorems/57c5722e-9443-4fbe-a69f-c14885ef8f30

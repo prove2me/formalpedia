@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeOrderEPTAS_rounding_exists
 -- name    : FreeOrderEPTAS.rounding_exists
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:25:56.713096+00:00
 -- url     : https://prove2.me/theorems/23187f77-c458-4877-a9a5-949ead775a2c

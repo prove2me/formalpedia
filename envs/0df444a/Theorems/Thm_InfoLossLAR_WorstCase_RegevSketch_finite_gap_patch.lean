@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_finite_gap_patch
 -- name    : InfoLossLAR.WorstCase.RegevSketch.finite_gap_patch
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T01:15:18.0822+00:00
 -- url     : https://prove2.me/theorems/d1bfdc46-e1c2-4fe2-8bb4-b595a89e5e70

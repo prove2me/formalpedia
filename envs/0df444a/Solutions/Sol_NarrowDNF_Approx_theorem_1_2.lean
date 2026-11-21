@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NarrowDNF.Approx.theorem_1_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-12T01:54:27.503112+00:00
 -- url     : https://prove2.me/submissions/68e8f7bb-41b4-492d-9e76-345d50267cfb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NarrowDNF_Approx_Certificates

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for gotsman_linial_with_zero
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-06T20:45:34.812594+00:00
 -- url     : https://prove2.me/submissions/6863ae57-3220-4472-9cee-667219ec90ea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_gotsman_linial_with_zero
 import Theorems.Thm_polyDegree_alternating_sum_witness

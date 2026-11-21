@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyReusableNet_lemma_2
 -- name    : GreedyReusableNet.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:38:33.817114+00:00
 -- url     : https://prove2.me/theorems/2deabc2b-c65a-4306-8295-c8ba68272bfd

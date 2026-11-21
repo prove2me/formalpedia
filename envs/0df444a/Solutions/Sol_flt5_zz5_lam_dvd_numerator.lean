@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_zz5_lam_dvd_numerator
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T09:38:27.203299+00:00
 -- url     : https://prove2.me/submissions/2306bf19-d1d8-48b0-a8df-0fe191529a1f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

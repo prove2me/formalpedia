@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK05T_bk05TFidelityError_lt_threshold_iff
 -- name    : QEC.Distillation.BK05T.bk05TFidelityError_lt_threshold_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T07:49:59.571832+00:00
 -- url     : https://prove2.me/theorems/5a3d9e41-3de4-499b-9670-45b86114ee21

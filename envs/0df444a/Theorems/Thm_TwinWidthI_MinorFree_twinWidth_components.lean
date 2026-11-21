@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_MinorFree_twinWidth_components
 -- name    : TwinWidthI.MinorFree.twinWidth_components
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:39.06581+00:00
 -- url     : https://prove2.me/theorems/7e556b94-e40e-4227-a117-50dbaaaf8331

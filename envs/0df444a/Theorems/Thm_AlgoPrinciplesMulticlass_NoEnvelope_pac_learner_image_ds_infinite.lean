@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgoPrinciplesMulticlass_NoEnvelope_pac_learner_image_ds_infinite
 -- name    : AlgoPrinciplesMulticlass.NoEnvelope.pac_learner_image_ds_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:29:06.361795+00:00
 -- url     : https://prove2.me/theorems/fe08e07b-21b3-4370-9261-804103643ec4

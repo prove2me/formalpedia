@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradeAgentNV_lemma_2
 -- name    : TradeAgentNV.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T10:29:38.161214+00:00
 -- url     : https://prove2.me/theorems/6e593d5c-e6a4-481c-a81c-efc561e48d2f

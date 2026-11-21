@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SQMeanEstimation_ringInf_estimate
 -- name    : SQMeanEstimation.ringInf_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:17:55.772325+00:00
 -- url     : https://prove2.me/theorems/e2046b2e-f7be-49e6-a202-fb5e63c496bc

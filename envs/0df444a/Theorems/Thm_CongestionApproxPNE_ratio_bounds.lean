@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionApproxPNE_ratio_bounds
 -- name    : CongestionApproxPNE.ratio_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:18:48.508145+00:00
 -- url     : https://prove2.me/theorems/f57aa946-7bfa-4974-9511-c1457cd2fa63

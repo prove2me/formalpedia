@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for flt5_ck5_prod_eq_normSq
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T18:57:10.236957+00:00
 -- url     : https://prove2.me/submissions/1bb5af3e-3fd0-41d0-9173-ec4b27df3007
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

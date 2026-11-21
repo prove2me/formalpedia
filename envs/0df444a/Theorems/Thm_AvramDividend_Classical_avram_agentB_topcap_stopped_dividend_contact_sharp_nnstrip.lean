@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_agentB_topcap_stopped_dividend_contact_sharp_nnstrip
 -- name    : AvramDividend.Classical.avram_agentB_topcap_stopped_dividend_contact_sharp_nnstrip
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T00:16:59.161224+00:00
 -- url     : https://prove2.me/theorems/c139ed17-e1a2-4387-a45b-df655be4e66e

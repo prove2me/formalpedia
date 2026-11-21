@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_finite_sivp_patch
 -- name    : InfoLossLAR.WorstCase.RegevSketch.finite_sivp_patch
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T01:15:53.128338+00:00
 -- url     : https://prove2.me/theorems/317f1c32-bdd0-4f09-a6bb-8fe05a0e7d76

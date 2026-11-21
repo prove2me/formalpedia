@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FulfillFlex_lemma_7
 -- name    : FulfillFlex.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:24:29.956207+00:00
 -- url     : https://prove2.me/theorems/2464addc-2214-4298-854b-53d127044877

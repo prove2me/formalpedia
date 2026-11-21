@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_dual_feasible
 -- name    : WindowedMatching.dual_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:41.037164+00:00
 -- url     : https://prove2.me/theorems/689c223c-51d0-4981-804e-08b742f86135

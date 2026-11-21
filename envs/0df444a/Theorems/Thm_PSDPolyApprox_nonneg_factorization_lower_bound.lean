@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSDPolyApprox_nonneg_factorization_lower_bound
 -- name    : PSDPolyApprox.nonneg_factorization_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:51:55.117275+00:00
 -- url     : https://prove2.me/theorems/0ca57f26-5f02-4664-9551-b56d62c581ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_MinorFree_mixedFree_of_gridFree
 -- name    : TwinWidthI.MinorFree.mixedFree_of_gridFree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:29.736507+00:00
 -- url     : https://prove2.me/theorems/13400490-b0fd-45d2-9676-e0bdaac629d1

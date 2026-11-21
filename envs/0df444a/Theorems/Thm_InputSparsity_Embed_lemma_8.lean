@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InputSparsity_Embed_lemma_8
 -- name    : InputSparsity.Embed.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:18:03.763881+00:00
 -- url     : https://prove2.me/theorems/ac92e3c0-f515-4b7c-92bd-57b475d290d3

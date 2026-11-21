@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSDPolyApprox_slack_submatrix_factorization
 -- name    : PSDPolyApprox.slack_submatrix_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:52:02.229496+00:00
 -- url     : https://prove2.me/theorems/b936fe8f-c844-44d2-a0b1-11650e3d34dc

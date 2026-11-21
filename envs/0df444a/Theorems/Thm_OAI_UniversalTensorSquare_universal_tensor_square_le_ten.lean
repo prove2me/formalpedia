@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_universal_tensor_square_le_ten
 -- name    : OAI.UniversalTensorSquare.universal_tensor_square_le_ten
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-11T18:07:15.645001+00:00
 -- url     : https://prove2.me/theorems/3558ac82-61f8-4eec-b887-6e3b1cc5540a

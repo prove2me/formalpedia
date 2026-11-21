@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_constructible_root_patch_budgets
 -- name    : OnlineTransportation1195.Main.constructible_root_patch_budgets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:37:17.0914+00:00
 -- url     : https://prove2.me/theorems/3bf90d37-aa93-42a2-869f-cd2efbc4d35f

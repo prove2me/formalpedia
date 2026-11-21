@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_proposition_10
 -- name    : MomentSearch.proposition_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:09:05.695386+00:00
 -- url     : https://prove2.me/theorems/4d10554a-138c-45cd-ade1-7edfe54de1d8

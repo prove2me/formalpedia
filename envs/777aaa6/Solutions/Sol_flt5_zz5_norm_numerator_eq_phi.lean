@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_zz5_norm_numerator_eq_phi
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T14:56:31.297071+00:00
 -- url     : https://prove2.me/submissions/e82b9e89-8ae2-4d51-943f-643cdda8b7bf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

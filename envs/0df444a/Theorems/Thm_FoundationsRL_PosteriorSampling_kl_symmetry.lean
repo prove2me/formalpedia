@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_PosteriorSampling_kl_symmetry
 -- name    : FoundationsRL.PosteriorSampling.kl_symmetry
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:18:41.612401+00:00
 -- url     : https://prove2.me/theorems/6f86dd3a-1b49-49de-9fd9-77cf50b0f978

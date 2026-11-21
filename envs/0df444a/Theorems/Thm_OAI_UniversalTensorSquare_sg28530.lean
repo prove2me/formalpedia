@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg28530
 -- name    : OAI.UniversalTensorSquare.sg28530
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T07:50:12.517067+00:00
 -- url     : https://prove2.me/theorems/bbb2d381-a8ce-4495-a424-2b5318fbb214

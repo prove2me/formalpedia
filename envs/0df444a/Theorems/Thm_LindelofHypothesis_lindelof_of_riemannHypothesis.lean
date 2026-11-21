@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_lindelof_of_riemannHypothesis
 -- name    : LindelofHypothesis.lindelof_of_riemannHypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-10-12T16:45:49.637929+00:00
 -- url     : https://prove2.me/theorems/c2d77b5d-db8a-4044-bf47-ab7ab73b5836

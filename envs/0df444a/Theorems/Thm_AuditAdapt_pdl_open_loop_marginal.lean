@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditAdapt_pdl_open_loop_marginal
 -- name    : AuditAdapt.pdl_open_loop_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:03:46.711074+00:00
 -- url     : https://prove2.me/theorems/8da7fc0e-7854-4d67-a968-af7d2cd43a36

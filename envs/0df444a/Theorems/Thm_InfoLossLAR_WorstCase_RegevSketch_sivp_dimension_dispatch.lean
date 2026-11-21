@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_sivp_dimension_dispatch
 -- name    : InfoLossLAR.WorstCase.RegevSketch.sivp_dimension_dispatch
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T08:53:38.891536+00:00
 -- url     : https://prove2.me/theorems/818aeb82-8199-45dd-baa1-8f467f11d84b

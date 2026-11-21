@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SublinearChoresMMS_Disposal_theorem_1_1
 -- name    : SublinearChoresMMS.Disposal.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:30:46.632719+00:00
 -- url     : https://prove2.me/theorems/e5ebe349-c0fc-4955-acf9-8d87eeb8bfaf

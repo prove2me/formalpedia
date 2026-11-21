@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.forall_eq_or_forall_ne_of_complexGraph
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-16T22:31:02.398252+00:00
 -- url     : https://prove2.me/submissions/55607ca2-4042-41dd-a143-e8a496ff1b17
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Tube
 import Theorems.Thm_FiniteEnergyPlane_hasLoopEigenWind_of_comp_add

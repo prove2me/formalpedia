@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineGND_opt_J_le_two_opt_I
 -- name    : OnlineGND.opt_J_le_two_opt_I
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:23:39.405131+00:00
 -- url     : https://prove2.me/theorems/5567d792-b89f-4ce1-8eff-fccb41362e30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_stopped_enforceable
 -- name    : SepCostShare.stopped_enforceable
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:54.14999+00:00
 -- url     : https://prove2.me/theorems/f7746578-fd0a-4cd7-9ba0-35a7fb5db1a9

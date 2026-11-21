@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageMatch_rounding_exists
 -- name    : TwoStageMatch.rounding_exists
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T05:33:10.987844+00:00
 -- url     : https://prove2.me/theorems/ec7d9862-dcc1-46bc-8d10-ae3ecd6de813

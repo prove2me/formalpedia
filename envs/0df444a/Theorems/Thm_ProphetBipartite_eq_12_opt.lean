@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_eq_12_opt
 -- name    : ProphetBipartite.eq_12_opt
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:51:43.393027+00:00
 -- url     : https://prove2.me/theorems/adf6f579-a864-4fc2-9f72-dbe595898ea9

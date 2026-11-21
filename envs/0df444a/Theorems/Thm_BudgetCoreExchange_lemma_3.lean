@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetCoreExchange_lemma_3
 -- name    : BudgetCoreExchange.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:27:03.06758+00:00
 -- url     : https://prove2.me/theorems/48adde18-a0f8-42e1-95af-1ff2215e860b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CutSetEnum_claim_3_1
 -- name    : CutSetEnum.claim_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:15:24.269709+00:00
 -- url     : https://prove2.me/theorems/58157eb7-7dda-463a-ad77-adbb038ec98d

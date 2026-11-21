@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for mme_omega_eq_strassen
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-28T14:36:59.316888+00:00
 -- url     : https://prove2.me/submissions/ccf01100-b2a6-4926-94f9-43853a98027c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_mme_tensorRank_le_strassenRank
 import Theorems.Thm_mme_strassenRank_le_tensorRank

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTransportation1195_Main_root_patch_normalization_iff
 -- name    : OnlineTransportation1195.Main.root_patch_normalization_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T23:36:19.909388+00:00
 -- url     : https://prove2.me/theorems/2e18b675-ea8f-44ef-905d-b2e88340be24

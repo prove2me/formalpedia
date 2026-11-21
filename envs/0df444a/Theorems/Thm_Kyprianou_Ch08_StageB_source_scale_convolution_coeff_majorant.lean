@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_scale_convolution_coeff_majorant
 -- name    : Kyprianou.Ch08.StageB.source_scale_convolution_coeff_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T00:15:45.239749+00:00
 -- url     : https://prove2.me/theorems/8a92fb29-cac7-4768-93e9-84f9bf559b33

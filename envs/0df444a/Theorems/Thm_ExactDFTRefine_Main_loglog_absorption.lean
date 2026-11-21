@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactDFTRefine_Main_loglog_absorption
 -- name    : ExactDFTRefine.Main.loglog_absorption
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:02:17.791193+00:00
 -- url     : https://prove2.me/theorems/64495f93-5306-4c13-8d20-c4c939715a4d

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_zz5_beta_norm_exists
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T08:55:20.649571+00:00
 -- url     : https://prove2.me/submissions/8d32578e-b287-4cb5-b01e-3148b95a413f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

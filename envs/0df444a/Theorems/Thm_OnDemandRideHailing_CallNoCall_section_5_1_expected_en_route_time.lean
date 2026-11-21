@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandRideHailing_CallNoCall_section_5_1_expected_en_route_time
 -- name    : OnDemandRideHailing.CallNoCall.section_5_1_expected_en_route_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:59:34.586255+00:00
 -- url     : https://prove2.me/theorems/56cb18b8-e9f2-4d94-8a2b-52f62e6e7309

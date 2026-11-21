@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustObedientPersuasion_Saddle_Supplement_theorem_4_3
 -- name    : RobustObedientPersuasion.Saddle.Supplement.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T19:26:57.433075+00:00
 -- url     : https://prove2.me/theorems/5979ae6b-5012-4bfa-80f1-de1e2746e2b1

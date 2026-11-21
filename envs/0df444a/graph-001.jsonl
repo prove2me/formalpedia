@@ -74997,10 +74997,10 @@
 {"parent": "ChenTeboullePMD.Rate.theorem_3_4", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenTeboullePMD.Rate.theorem_3_4", "child": "ChenTeboullePMD_Rate_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenTeboullePMD_Rate_Setting", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}
-{"parent": "ChenWhitt93.JumpDiffusion.eq_4_24", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["statement"]}
+{"parent": "ChenWhitt93.JumpDiffusion.eq_4_24", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["solution", "statement"]}
 {"parent": "ChenWhitt93.JumpDiffusion.eq_4_29", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["statement"]}
 {"parent": "ChenWhitt93.JumpDiffusion.lemma_4_1", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["statement"]}
-{"parent": "ChenWhitt93.JumpDiffusion.lemma_4_2", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["statement"]}
+{"parent": "ChenWhitt93.JumpDiffusion.lemma_4_2", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["solution", "statement"]}
 {"parent": "ChenWhitt93.JumpDiffusion.theorem_4_1_J1", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["statement"]}
 {"parent": "ChenWhitt93.JumpDiffusion.theorem_4_1_pathwise_J1", "child": "ChenWhitt93_JumpDiffusion_HeavyTraffic", "via": ["statement"]}
 {"parent": "ChenWhitt93.Reflection.eq_2_4_fixed_point", "child": "ChenWhitt93_Reflection_Basic", "via": ["statement"]}

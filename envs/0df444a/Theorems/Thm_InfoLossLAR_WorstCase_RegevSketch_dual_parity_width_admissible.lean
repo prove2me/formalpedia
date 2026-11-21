@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dual_parity_width_admissible
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dual_parity_width_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-19T06:23:04.882396+00:00
 -- url     : https://prove2.me/theorems/38c80da7-64c9-41dc-96bd-3bbb0bd23251

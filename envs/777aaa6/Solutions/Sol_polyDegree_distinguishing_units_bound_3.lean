@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for polyDegree_distinguishing_units_bound
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-09T02:59:59.892311+00:00
 -- url     : https://prove2.me/submissions/96435f18-d5ce-4ad1-a8cc-d9ad8bab2f63
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_polyDegree_distinguishing_units_bound
 import Theorems.Thm_minsky_papert_symmetrization

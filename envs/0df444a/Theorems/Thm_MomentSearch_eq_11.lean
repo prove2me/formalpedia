@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_eq_11
 -- name    : MomentSearch.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:08:00.303095+00:00
 -- url     : https://prove2.me/theorems/30a283fd-2904-4c17-bcba-9b372a119e34

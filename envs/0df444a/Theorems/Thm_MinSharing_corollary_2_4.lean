@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinSharing_corollary_2_4
 -- name    : MinSharing.corollary_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T08:25:05.550562+00:00
 -- url     : https://prove2.me/theorems/568c8a7e-5035-4f60-89b8-19a58f6618e3

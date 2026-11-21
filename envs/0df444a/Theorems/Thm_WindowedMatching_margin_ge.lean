@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_margin_ge
 -- name    : WindowedMatching.margin_ge
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:02.172407+00:00
 -- url     : https://prove2.me/theorems/fc11fec6-203d-4a21-9a4c-e4fd2d95539a

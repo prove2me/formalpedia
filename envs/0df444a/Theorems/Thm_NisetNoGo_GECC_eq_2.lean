@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisetNoGo_GECC_eq_2
 -- name    : NisetNoGo.GECC.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:32:05.839993+00:00
 -- url     : https://prove2.me/theorems/7c35315c-073b-4003-ac35-c4348adafd77

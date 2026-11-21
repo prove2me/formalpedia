@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomRescale_operation_count
 -- name    : GeomRescale.operation_count
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:20:48.352773+00:00
 -- url     : https://prove2.me/theorems/86a13518-db91-4a48-acea-86f1ee969b2a

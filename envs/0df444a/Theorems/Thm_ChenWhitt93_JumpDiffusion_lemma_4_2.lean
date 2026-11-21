@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_JumpDiffusion_lemma_4_2
 -- name    : ChenWhitt93.JumpDiffusion.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:51:22.546427+00:00
 -- url     : https://prove2.me/theorems/5cce5052-849f-4ea4-9254-cf3b4fc741cb

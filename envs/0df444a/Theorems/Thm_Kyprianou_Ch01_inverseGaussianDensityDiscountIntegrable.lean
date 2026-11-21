@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianDensityDiscountIntegrable
 -- name    : Kyprianou.Ch01.inverseGaussianDensityDiscountIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T11:06:49.445173+00:00
 -- url     : https://prove2.me/theorems/f3f7a3da-fbad-4b59-9ddc-04e10e474d02

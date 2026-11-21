@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiuHelsenDesigns_OneD_lemma_20
 -- name    : LiuHelsenDesigns.OneD.lemma_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T11:05:57.539564+00:00
 -- url     : https://prove2.me/theorems/f55ad5d3-0c62-46df-899f-ca8bf2a55558

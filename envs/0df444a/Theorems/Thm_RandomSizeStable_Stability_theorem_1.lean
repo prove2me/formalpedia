@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomSizeStable_Stability_theorem_1
 -- name    : RandomSizeStable.Stability.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:52:24.863308+00:00
 -- url     : https://prove2.me/theorems/66d06b4d-2f46-4221-8fe4-d7e3856f22f2

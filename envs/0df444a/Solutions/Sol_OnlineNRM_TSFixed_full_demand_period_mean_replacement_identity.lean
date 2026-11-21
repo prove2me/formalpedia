@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OnlineNRM.TSFixed.full_demand_period_mean_replacement_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T18:29:18.193347+00:00
 -- url     : https://prove2.me/submissions/ed540520-6dfb-44fe-a7f0-11b85c5e0c0e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.Bochner.Basic
 import Mathlib.MeasureTheory.Function.ConditionalExpectation.PullOut

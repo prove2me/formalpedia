@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalasAdditive_Convergence_lemma_2
 -- name    : BalasAdditive.Convergence.lemma_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:34:30.615159+00:00
 -- url     : https://prove2.me/theorems/bf848a81-303c-46e1-8e60-56c9b30b28b0

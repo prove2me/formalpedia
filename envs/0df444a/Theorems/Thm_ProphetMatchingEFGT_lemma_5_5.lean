@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetMatchingEFGT_lemma_5_5
 -- name    : ProphetMatchingEFGT.lemma_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:53:01.63107+00:00
 -- url     : https://prove2.me/theorems/5a405a9a-f4e0-4c07-a8f2-48232d6ea0c3

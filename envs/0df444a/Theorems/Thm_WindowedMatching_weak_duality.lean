@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_weak_duality
 -- name    : WindowedMatching.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:25:23.292275+00:00
 -- url     : https://prove2.me/theorems/edfad9cf-179b-4177-a199-8d1ca4e7cea9

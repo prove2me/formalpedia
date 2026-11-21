@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_Supplement_theorem_27
 -- name    : MomentSearch.Supplement.theorem_27
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T09:36:44.661557+00:00
 -- url     : https://prove2.me/theorems/9727232d-59ab-40a8-b77b-bd99885c821a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_p4_f4_gaussian_uncapped_original_expected_reward_budget
 -- name    : AvramDividend.Classical.avram_p4_f4_gaussian_uncapped_original_expected_reward_budget
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-06T07:38:08.566619+00:00
 -- url     : https://prove2.me/theorems/38c3a5a9-7e0e-4e2f-b6e3-03c2456db3ab

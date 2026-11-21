@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracTruthSched_Supplement_theorem_3
 -- name    : FracTruthSched.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-15T21:17:30.190799+00:00
 -- url     : https://prove2.me/theorems/8fc56fab-fb24-4dc1-a90b-db5f093d865f

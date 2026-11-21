@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Semicircle_eq_114
 -- name    : DQI.Semicircle.eq_114
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:20.678637+00:00
 -- url     : https://prove2.me/theorems/8048d9ff-b434-466a-a34f-0f17e9071786

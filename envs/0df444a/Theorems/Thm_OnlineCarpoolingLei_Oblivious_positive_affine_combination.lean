@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCarpoolingLei_Oblivious_positive_affine_combination
 -- name    : OnlineCarpoolingLei.Oblivious.positive_affine_combination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:41:18.872314+00:00
 -- url     : https://prove2.me/theorems/aa3d5915-d783-46c9-a39c-c606d80a2e41

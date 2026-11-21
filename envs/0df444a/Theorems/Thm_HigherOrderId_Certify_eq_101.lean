@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HigherOrderId_Certify_eq_101
 -- name    : HigherOrderId.Certify.eq_101
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:18:56.20114+00:00
 -- url     : https://prove2.me/theorems/dfb9f438-670f-46ae-88ef-966c6a255a17

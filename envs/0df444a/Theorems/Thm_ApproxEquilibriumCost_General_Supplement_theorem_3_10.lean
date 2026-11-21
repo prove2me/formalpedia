@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_Supplement_theorem_3_10
 -- name    : ApproxEquilibriumCost.General.Supplement.theorem_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:46:53.977492+00:00
 -- url     : https://prove2.me/theorems/c6100b80-6353-443e-a5f8-fc10668a3172

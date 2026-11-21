@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MVBlossoms_lemma_5
 -- name    : MVBlossoms.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:45:07.388579+00:00
 -- url     : https://prove2.me/theorems/ff101886-5705-479b-b6f0-744b9cfe1ea2

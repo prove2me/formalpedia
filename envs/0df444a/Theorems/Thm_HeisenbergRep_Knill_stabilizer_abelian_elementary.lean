@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeisenbergRep_Knill_stabilizer_abelian_elementary
 -- name    : HeisenbergRep.Knill.stabilizer_abelian_elementary
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T16:00:49.019303+00:00
 -- url     : https://prove2.me/theorems/e8a07d20-77d8-4696-9cfb-a3932424d286

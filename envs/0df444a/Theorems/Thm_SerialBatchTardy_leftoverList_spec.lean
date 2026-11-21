@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SerialBatchTardy_leftoverList_spec
 -- name    : SerialBatchTardy.leftoverList_spec
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:53:49.864768+00:00
 -- url     : https://prove2.me/theorems/e3190666-09f3-49bf-8743-30c835e9f922

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedUniformServer_UnitWeights_configuration_law
 -- name    : GeneralizedUniformServer.UnitWeights.configuration_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:46:33.580091+00:00
 -- url     : https://prove2.me/theorems/646721d0-6cf5-4b6d-8fa2-1ed92191a53e

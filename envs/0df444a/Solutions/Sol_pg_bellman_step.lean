@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for pg_bellman_step
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-10T04:00:20.554551+00:00
 -- url     : https://prove2.me/submissions/ceb0060e-b478-4735-88f0-c38d377c011e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_pg_value_differentiable
 import Definitions.Def_pg_mdp_core

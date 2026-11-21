@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSketch.dgs_to_sivp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T22:51:04.752811+00:00
 -- url     : https://prove2.me/submissions/e9ed27ee-20e7-404c-a4c8-a1661a107ab0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_InfoLossLAR_RegevSketch_DGS
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dyadic_sivp_scale_bound

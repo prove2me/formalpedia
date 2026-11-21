@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_riemann_hypothesis_iff
 -- name    : LandauFunction.landau_riemann_hypothesis_iff
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-10-09T21:32:18.603767+00:00
 -- url     : https://prove2.me/theorems/b7d58dda-135d-49e4-9dbf-b6852eed199d

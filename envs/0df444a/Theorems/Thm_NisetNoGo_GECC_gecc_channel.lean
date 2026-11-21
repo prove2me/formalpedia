@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NisetNoGo_GECC_gecc_channel
 -- name    : NisetNoGo.GECC.gecc_channel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:32:09.93107+00:00
 -- url     : https://prove2.me/theorems/0658c172-6a6a-4f82-bea1-d0910dff92c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dual_parity_pool_circuit_union
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dual_parity_pool_circuit_union
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T23:48:49.82857+00:00
 -- url     : https://prove2.me/theorems/4fa11364-4184-412e-83a8-fa8693ba4b3e

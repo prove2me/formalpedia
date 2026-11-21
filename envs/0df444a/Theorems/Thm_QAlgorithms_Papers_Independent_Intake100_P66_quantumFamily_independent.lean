@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P66_quantumFamily_independent
 -- name    : QAlgorithms.Papers.Independent.Intake100.P66.quantumFamily_independent
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:14:21.92961+00:00
 -- url     : https://prove2.me/theorems/33f8800d-e57c-4ac1-89d2-388812891aba

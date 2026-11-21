@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalAgnosticPAC_Learner_eq_13_symmetrized_loo
 -- name    : OptimalAgnosticPAC.Learner.eq_13_symmetrized_loo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:58:37.370903+00:00
 -- url     : https://prove2.me/theorems/8356ba7c-d990-4a50-bdf2-af9ab489097f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_hadamard_all_zero_uniform
 -- name    : QAlgorithms.Nannicini.hadamard_all_zero_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:41.00815+00:00
 -- url     : https://prove2.me/theorems/82b92ddf-f4ff-4da8-b99d-27a3b9e83128

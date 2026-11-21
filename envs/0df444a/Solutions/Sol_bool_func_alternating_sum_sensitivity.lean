@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for bool_func_alternating_sum_sensitivity
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-06T22:10:36.651172+00:00
 -- url     : https://prove2.me/submissions/c3aace5f-1a2f-4f30-aa37-44d0182fe3ac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cube_alt_sum_to_sensitivity_univ
 import Definitions.Def_BoolFunc

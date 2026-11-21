@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauCriterion_psi_oscillation_of_not_riemannHypothesis
 -- name    : LandauCriterion.psi_oscillation_of_not_riemannHypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @pitimespi
 -- created : 2026-11-01T18:53:39.746854+00:00
 -- url     : https://prove2.me/theorems/2590ad57-b67a-4135-acd1-607969eacd66

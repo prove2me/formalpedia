@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for flt5_descent_from_pow4
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-14T08:40:09.918715+00:00
 -- url     : https://prove2.me/submissions/bc154fea-6b4e-4934-be4f-cc37666136ab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Int.Basic
 import Mathlib.Data.Int.GCD

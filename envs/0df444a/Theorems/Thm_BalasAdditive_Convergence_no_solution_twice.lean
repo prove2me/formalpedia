@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalasAdditive_Convergence_no_solution_twice
 -- name    : BalasAdditive.Convergence.no_solution_twice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:34:57.461003+00:00
 -- url     : https://prove2.me/theorems/4e9877c1-88a6-4f89-9b8c-d7ec507bf059

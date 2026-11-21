@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_gap_dimension_dispatch
 -- name    : InfoLossLAR.WorstCase.RegevSketch.gap_dimension_dispatch
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T08:53:19.185592+00:00
 -- url     : https://prove2.me/theorems/b8dd6f35-0248-47ae-a053-db1089fbbacf

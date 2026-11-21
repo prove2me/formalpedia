@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.Saxl.cyclic_saxl_conjecture
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-11-19T00:58:25.206192+00:00
 -- url     : https://prove2.me/submissions/b881e0a1-fd6d-44c7-b572-b30c30d3d284
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_UniversalTensorSquares

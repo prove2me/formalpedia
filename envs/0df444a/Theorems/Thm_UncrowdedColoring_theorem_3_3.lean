@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UncrowdedColoring_theorem_3_3
 -- name    : UncrowdedColoring.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:13:55.360477+00:00
 -- url     : https://prove2.me/theorems/5d2d979b-a0d1-470c-a3ef-8ad7130ec379

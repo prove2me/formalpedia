@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiThinkCoT_lemma_A_5
 -- name    : MultiThinkCoT.lemma_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:40:27.407288+00:00
 -- url     : https://prove2.me/theorems/99a3c17a-f550-4919-97a8-1db87e5c4b21

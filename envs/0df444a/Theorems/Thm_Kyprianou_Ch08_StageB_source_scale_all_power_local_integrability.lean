@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_scale_all_power_local_integrability
 -- name    : Kyprianou.Ch08.StageB.source_scale_all_power_local_integrability
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T00:15:43.538072+00:00
 -- url     : https://prove2.me/theorems/163509ac-91a2-431c-b85e-87f332dd3389

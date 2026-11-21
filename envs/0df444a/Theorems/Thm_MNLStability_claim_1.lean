@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLStability_claim_1
 -- name    : MNLStability.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:31:24.795129+00:00
 -- url     : https://prove2.me/theorems/e2f2f238-9f8c-446b-98b4-126a721b0132

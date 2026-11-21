@@ -44009,7 +44009,7 @@
 {"parent": "BookProof.BddBelowWallEsa.hasCompactSupport_zeta_prime_sq", "child": "ChapterWeakSecondDerivative", "via": ["solution", "statement"]}
 {"parent": "BookProof.BddBelowWallEsa.hasCompactSupport_zeta_prime_sq", "child": "ChapterScalaronWallEsa", "via": ["solution", "statement"]}
 {"parent": "HardyCapsetCertificate21720261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
-{"parent": "NisetNoGo.GECC.gecc_channel", "child": "NisetNoGo_GECC_Setup", "via": ["statement"]}
+{"parent": "NisetNoGo.GECC.gecc_channel", "child": "NisetNoGo_GECC_Setup", "via": ["solution", "statement"]}
 {"parent": "ConcreteSheaves.Quasitopos.theorem_52", "child": "ConcreteSheaves_Quasitopos_Setting", "via": ["statement"]}
 {"parent": "HardyCapsetFastBaselineLookup20261021", "child": "HardyCapsetCertificateModel20261020", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate19520261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
@@ -46142,7 +46142,7 @@
 {"parent": "HardyCapsetEvaluationData063V420261021", "child": "HardyCapsetEvaluationData063rows02V420261021", "via": ["statement"]}
 {"parent": "HardyCapsetEvaluationData063V420261021", "child": "HardyCapsetEvaluationData063rows01V420261021", "via": ["statement"]}
 {"parent": "HardyCapsetEvaluationData063V420261021", "child": "HardyCapsetEvaluationData063coverRows01V420261021", "via": ["statement"]}
-{"parent": "QMCTriFree.Circuit.display_p18", "child": "QMCTriFree_Circuit_Algorithm", "via": ["statement"]}
+{"parent": "QMCTriFree.Circuit.display_p18", "child": "QMCTriFree_Circuit_Algorithm", "via": ["solution", "statement"]}
 {"parent": "CoherenceTracking.Dephasing.eq_37_38", "child": "CoherenceTracking_Dephasing_Model", "via": ["solution", "statement"]}
 {"parent": "NCLpModules.Principal.lemma_1_2", "child": "NCLpModules_Principal_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap20.P05.formationAsymptotic", "child": "QAlgorithms_Papers_Independent_Gap20_P05", "via": ["statement"]}
@@ -49103,7 +49103,7 @@
 {"parent": "HardyCapset20261020.Cert.case069_finite32_0", "child": "HardyCapsetCertificate06920261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case023_finite16_1", "child": "HardyCapsetCertificate02320261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case023_finite16_1", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
-{"parent": "QMCTriFree.Circuit.theorem_6", "child": "QMCTriFree_Circuit_Lasserre", "via": ["statement"]}
+{"parent": "QMCTriFree.Circuit.theorem_6", "child": "QMCTriFree_Circuit_Lasserre", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.SignFlip.negOne_pow_eq_inc", "child": "ChapterNavierStokesSignFlip", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.SignFlip.negOne_pow_eq_inc", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case016_blockers1", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
@@ -49488,7 +49488,7 @@
 {"parent": "LPCA_Solutions_LPCA_HochsterPersistence_Defs", "child": "LPCA_Solutions_LPCA_FaceRestrictionCoordinates_Defs", "via": ["statement"]}
 {"parent": "InfoDisturbance.Uniform.theorem_7", "child": "InfoDisturbance_Uniform_Model", "via": ["statement"]}
 {"parent": "EastinKnill.Transversal.corollary_1", "child": "EastinKnill_Transversal_Setting", "via": ["statement"]}
-{"parent": "QMaxCutBeyond.TwoQubit.lemma_2", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["statement"]}
+{"parent": "QMaxCutBeyond.TwoQubit.lemma_2", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P36.purity_extrema", "child": "QAlgorithms_Papers_Independent_Gap48_P36", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.certificate_checker_sound", "child": "HardyCapsetCertificateModel20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case149_finite32_6", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
@@ -50102,7 +50102,7 @@
 {"parent": "BirkhoffGlobalSection.positive_elliptic_rational_disks_contact_equivalent", "child": "BirkhoffGlobalSection_EllipticRationalDisk", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate05120261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
 {"parent": "QMCTriFree.Circuit.lemma_7", "child": "QMCTriFree_Circuit_Lasserre", "via": ["solution", "statement"]}
-{"parent": "QMaxCutSDP.Rounding.lemma_2", "child": "QMaxCutSDP_Rounding_Model", "via": ["statement"]}
+{"parent": "QMaxCutSDP.Rounding.lemma_2", "child": "QMaxCutSDP_Rounding_Model", "via": ["solution", "statement"]}
 {"parent": "JHolomorphic.exists_norm_le_of_eLpNorm_fderiv_le", "child": "JHolomorphic_Setting", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case049_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case049_blockers0", "child": "HardyCapsetCertificate04920261021", "via": ["solution", "statement"]}
@@ -51289,7 +51289,7 @@
 {"parent": "FullFormalization.huberE_succ", "child": "FunctionClass", "via": ["solution", "statement"]}
 {"parent": "HardyCapsetEvaluationData010rows08V420261021", "child": "HardyCapsetBooleanVerifier20261020", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate19120261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
-{"parent": "QMaxCutSDP.Rounding.lemma_1", "child": "QMaxCutSDP_Rounding_Model", "via": ["statement"]}
+{"parent": "QMaxCutSDP.Rounding.lemma_1", "child": "QMaxCutSDP_Rounding_Model", "via": ["solution", "statement"]}
 {"parent": "GenKraus.StdForm.proposition_7", "child": "GenKraus_StdForm_Setting", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.orbit_coverage28", "child": "HardyCapsetOrbitVerifier20261021", "via": ["statement"]}
 {"parent": "HardyCapsetCertificate22720261021", "child": "HardyCapsetBinaryStorage20261020", "via": ["statement"]}
@@ -52568,7 +52568,7 @@
 {"parent": "HardyCapset20261020.Cert.case031_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case209_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case209_blockers0", "child": "HardyCapsetCertificate20920261021", "via": ["solution", "statement"]}
-{"parent": "NisetNoGo.GECC.eq_2", "child": "NisetNoGo_GECC_Setup", "via": ["statement"]}
+{"parent": "NisetNoGo.GECC.eq_2", "child": "NisetNoGo_GECC_Setup", "via": ["solution", "statement"]}
 {"parent": "GeomDL.Blueprint.average_comp_invariant", "child": "GeomDL_Blueprint_Defs", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.orbit_coverage51", "child": "HardyCapsetOrbitVerifier20261021", "via": ["statement"]}
 {"parent": "HardyCapsetEvaluationData173coverRows02V420261021", "child": "HardyCapsetBooleanVerifier20261020", "via": ["statement"]}
@@ -60050,17 +60050,6 @@
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.local_verification_smooth_differentiable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.verification_strategy_lump_sum_drop", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend.Classical.paymentTimes_membership_to_nNReal_active", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend.Classical.local_verification_separated_countable_dividend_budget", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend.Classical.dividendMeasure_countable_rightJump_concentration", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend.Classical.dividendStrategy_rightJump_support_countable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend.Classical.paymentTimes_measurable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend.Classical.paymentTimes_membership_to_nNReal_active", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend.Classical.local_verification_separated_countable_dividend_budget", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend.Classical.dividendStrategy_rightJump_support_countable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend.Classical.dividendMeasure_Ioc_rightLimit", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend.Classical.dividendMeasure_countable_rightJump_concentration_of_purely_atomic_nonneg", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend.Classical.paymentTimes_measurable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.compensated_jump_integrable", "child": "AvramDividend.Classical.levy_compensated_jump_integrable_nonneg", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.dividendMeasure_Ioc_rightLimit", "child": "AvramDividend.Classical.dividendPath_real_rightLim_eq_rightLimit", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.dividendValue_le_of_hjb", "child": "AvramDividend.Classical.dividendValue_eq_iSup_truncated", "via": ["solution"]}

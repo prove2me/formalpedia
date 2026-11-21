@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for MiLAC.HybridCouplersPhaseShifters.parallel_permutationNetwork
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-20T22:41:01.552909+00:00
+-- url     : https://prove2.me/submissions/2540424a-0956-4cff-9b92-6055d761a7e9
+
+module
+public import Definitions.Def_LeanPool_MicrowaveNetworks_Basic
+public import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+public import Mathlib.LinearAlgebra.Matrix.Notation
+public import Definitions.Def_LeanPool_MicrowaveNetworks_HybridCouplersPhaseShifters
+public import Theorems.Thm_MiLAC_castAdd_ne_natAdd
+public import Theorems.Thm_MiLAC_natAdd_ne_castAdd
+public import Theorems.Thm_MiLAC_parallel_castAdd_castAdd
+public import Theorems.Thm_MiLAC_parallel_castAdd_natAdd
+public import Theorems.Thm_MiLAC_parallel_natAdd_castAdd
+public import Theorems.Thm_MiLAC_parallel_natAdd_natAdd
+attribute [local simp] MiLAC.castAdd_ne_natAdd
+attribute [local simp] MiLAC.natAdd_ne_castAdd
+attribute [local simp] MiLAC.parallel_castAdd_castAdd
+attribute [local simp] MiLAC.parallel_castAdd_natAdd
+attribute [local simp] MiLAC.parallel_natAdd_castAdd
+attribute [local simp] MiLAC.parallel_natAdd_natAdd
+
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open MiLAC MiLAC.HybridCouplersPhaseShifters
+namespace MiLAC.HybridCouplersPhaseShifters
+theorem _root_.solution {n m : ℕ}
+    (σ : Equiv.Perm (Fin n)) (τ : Equiv.Perm (Fin m)) :
+    parallel (permutationNetwork σ) (permutationNetwork τ) =
+      permutationNetwork (finSumFinEquiv.permCongr (Equiv.sumCongr σ τ)) := by
+  ext i j
+  induction i using Fin.addCases <;> induction j using Fin.addCases <;>
+    simp [permutationNetwork, PEquiv.toMatrix_apply, Equiv.permCongr_apply]
+end MiLAC.HybridCouplersPhaseShifters

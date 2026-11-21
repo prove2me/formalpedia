@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcurementPoA_DeterministicCap_Supplement_lemma_5_5
 -- name    : ProcurementPoA.DeterministicCap.Supplement.lemma_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:37:50.375214+00:00
 -- url     : https://prove2.me/theorems/6834a775-52b0-459d-a738-03a14bc1b0ff

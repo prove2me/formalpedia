@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalTensorSquare_sg9320
 -- name    : OAI.UniversalTensorSquare.sg9320
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-12T22:53:43.532671+00:00
 -- url     : https://prove2.me/theorems/1cbddcc0-e010-43b9-94f0-63ff881a997a

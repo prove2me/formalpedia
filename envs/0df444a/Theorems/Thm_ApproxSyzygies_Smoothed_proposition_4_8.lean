@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxSyzygies_Smoothed_proposition_4_8
 -- name    : ApproxSyzygies.Smoothed.proposition_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T14:02:50.918238+00:00
 -- url     : https://prove2.me/theorems/d90b3cf8-b3a7-4d10-859c-7b34d9361fca

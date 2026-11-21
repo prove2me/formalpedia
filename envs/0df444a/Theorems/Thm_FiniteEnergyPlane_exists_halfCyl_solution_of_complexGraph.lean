@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_halfCyl_solution_of_complexGraph
 -- name    : FiniteEnergyPlane.exists_halfCyl_solution_of_complexGraph
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-16T22:23:05.044038+00:00
 -- url     : https://prove2.me/theorems/44321807-62bc-42d0-b469-68ce304b2f82

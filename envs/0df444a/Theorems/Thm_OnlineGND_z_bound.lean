@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineGND_z_bound
 -- name    : OnlineGND.z_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T03:24:10.79322+00:00
 -- url     : https://prove2.me/theorems/858bb554-f7f3-4354-b220-22ee534f8abc

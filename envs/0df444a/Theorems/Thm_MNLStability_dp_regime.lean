@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLStability_dp_regime
 -- name    : MNLStability.dp_regime
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T13:30:58.581785+00:00
 -- url     : https://prove2.me/theorems/507d47a8-7117-42d1-9ecc-e9dac248d2a0

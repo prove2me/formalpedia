@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalAgnosticPAC_Learner_hall_orientation
 -- name    : OptimalAgnosticPAC.Learner.hall_orientation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:56:32.883828+00:00
 -- url     : https://prove2.me/theorems/c4288704-7e4f-49ec-a718-a8399db07e5e

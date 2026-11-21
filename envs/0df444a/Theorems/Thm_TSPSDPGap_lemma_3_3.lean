@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPSDPGap_lemma_3_3
 -- name    : TSPSDPGap.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:37:28.50373+00:00
 -- url     : https://prove2.me/theorems/60850c3a-3b37-47d0-9d02-ba488f20b318

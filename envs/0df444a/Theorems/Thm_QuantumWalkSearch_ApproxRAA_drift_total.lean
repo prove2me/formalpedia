@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_ApproxRAA_drift_total
 -- name    : QuantumWalkSearch.ApproxRAA.drift_total
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:44:18.427957+00:00
 -- url     : https://prove2.me/theorems/180ad43d-41bb-44b4-9fe4-2d8da5f572f8

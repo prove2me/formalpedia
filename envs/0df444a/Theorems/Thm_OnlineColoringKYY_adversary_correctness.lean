@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineColoringKYY_adversary_correctness
 -- name    : OnlineColoringKYY.adversary_correctness
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:33:03.220012+00:00
 -- url     : https://prove2.me/theorems/c697704b-5e6d-40d3-93d6-811c45e0a9b3

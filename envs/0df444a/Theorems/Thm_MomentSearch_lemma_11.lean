@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentSearch_lemma_11
 -- name    : MomentSearch.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:09:50.208509+00:00
 -- url     : https://prove2.me/theorems/74d52243-514e-4032-993c-b8dd99fa8a6b

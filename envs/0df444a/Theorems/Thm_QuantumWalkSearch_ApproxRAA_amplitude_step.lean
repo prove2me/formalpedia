@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_ApproxRAA_amplitude_step
 -- name    : QuantumWalkSearch.ApproxRAA.amplitude_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:43:00.346531+00:00
 -- url     : https://prove2.me/theorems/7d313364-5ef5-457e-b583-7da348365ede

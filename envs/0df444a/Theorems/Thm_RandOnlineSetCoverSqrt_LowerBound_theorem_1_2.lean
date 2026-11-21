@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandOnlineSetCoverSqrt_LowerBound_theorem_1_2
 -- name    : RandOnlineSetCoverSqrt.LowerBound.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T19:34:35.971404+00:00
 -- url     : https://prove2.me/theorems/48091ad1-525e-4456-ad7a-78a6e8f71fa0

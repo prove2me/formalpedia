@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_Supplement_theorem_B_2
 -- name    : ApproxEquilibriumCost.General.Supplement.theorem_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:49:25.667426+00:00
 -- url     : https://prove2.me/theorems/cb68c25a-986c-4d9c-aadc-61c9bc98a638

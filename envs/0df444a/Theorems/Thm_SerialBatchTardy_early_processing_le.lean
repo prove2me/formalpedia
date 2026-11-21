@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SerialBatchTardy_early_processing_le
 -- name    : SerialBatchTardy.early_processing_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T07:53:52.756196+00:00
 -- url     : https://prove2.me/theorems/1a073d56-4d9a-4f03-a42f-41a3e8b48b19

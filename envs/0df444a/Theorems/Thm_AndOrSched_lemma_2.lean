@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AndOrSched_lemma_2
 -- name    : AndOrSched.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:31:07.161566+00:00
 -- url     : https://prove2.me/theorems/71aca048-9392-4155-ae35-639d72eef7bb

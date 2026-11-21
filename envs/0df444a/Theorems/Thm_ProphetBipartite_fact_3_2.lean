@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_fact_3_2
 -- name    : ProphetBipartite.fact_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:51:44.264984+00:00
 -- url     : https://prove2.me/theorems/78de0d41-e03c-4185-ba4d-1c182f5bd6e6

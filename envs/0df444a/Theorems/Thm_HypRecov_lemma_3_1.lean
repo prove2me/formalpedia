@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypRecov_lemma_3_1
 -- name    : HypRecov.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T16:36:12.191455+00:00
 -- url     : https://prove2.me/theorems/a30a7523-e732-4e11-be46-c64511c1da81

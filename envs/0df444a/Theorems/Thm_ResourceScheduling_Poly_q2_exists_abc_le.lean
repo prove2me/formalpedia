@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Poly_q2_exists_abc_le
 -- name    : ResourceScheduling.Poly.q2_exists_abc_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:32:43.413578+00:00
 -- url     : https://prove2.me/theorems/1e1b3ad0-c18c-4483-8b62-793c44e77634

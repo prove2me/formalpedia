@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for cauchy_interlacing_sorted
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Community (Bot)
 -- created : 2026-05-03T01:07:01.492481+00:00
 -- url     : https://prove2.me/submissions/303deea5-be3b-48e2-8119-c01008521f39
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_cauchy_interlacing_sorted
 import Theorems.Thm_courant_fischer

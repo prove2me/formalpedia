@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for flt5_cyclotomic5_unit_norm_pos
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T16:44:58.516283+00:00
 -- url     : https://prove2.me/submissions/d0936159-5b0d-4fca-a417-ed35851f9ef2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

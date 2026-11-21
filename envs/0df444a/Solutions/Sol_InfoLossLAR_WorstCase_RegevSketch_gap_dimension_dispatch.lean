@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSketch.gap_dimension_dispatch
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T09:02:10.794963+00:00
 -- url     : https://prove2.me/submissions/a6de7967-6ca4-4100-808e-6c5382c78456
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_qpt_bool_dispatch
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_gap_dimension_classifier

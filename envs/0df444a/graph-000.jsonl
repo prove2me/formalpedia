@@ -73289,8 +73289,8 @@
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -73301,17 +73301,14 @@
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.verification_strategy_lump_sum_drop", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.hjb_pointwise_inequalities", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.verification_strategy_lump_sum_drop", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_bound", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.admissible_exponential_dividend_jump_bound", "child": "AvramDividend.Classical.dividendStrategy_le_rightLimit", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_exponential_dividend_jump_bound", "child": "AvramDividend.Classical.exponential_dividend_jump_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_exponential_dividend_jump_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -74343,9 +74340,6 @@
 {"parent": "AvramDividend.Classical.sampled_hittingBtwn_supermartingale_expected_le", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend.Classical.continuousOn_measureReal_Ici_of_finite_pos_noAtoms", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend.Classical.continuous_deriv_of_const_add_atomless_pos_tail_factor", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend.Classical.scaleDeriv_continuous_of_ac_levy", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend.Classical.scaleDeriv_continuous_of_gaussian", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend.Classical.scaleDeriv_continuous_of_unbounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend.Classical.scaleFunction_contDiff_one", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -74434,7 +74428,6 @@
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_absolutely_continuous_levy", "child": "AvramDividend.Classical.unbounded_variation_gaussian_or_infinite_small_jump_moment", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_absolutely_continuous_levy", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_absolutely_continuous_levy", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_bv_absolutely_continuous_levy", "child": "AvramDividend.Classical.scaleFunction_contDiff_one_bv_ac_without_standing", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_bv_absolutely_continuous_levy", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_bv_absolutely_continuous_levy", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_condition33", "child": "AvramDividend.Classical.scaleFunction_contDiff_one_bv_ac_without_standing", "via": ["solution"]}
@@ -74448,7 +74441,6 @@
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_infinite_variation", "child": "AvramDividend.Classical.scaleFunction_contDiff_one_infinite_variation_without_standing", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_infinite_variation", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_infinite_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_standing", "child": "AvramDividend.Classical.scaleFunction_contDiff_one_of_condition33", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_of_unbounded_variation", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -75420,13 +75412,13 @@
 {"parent": "BalancedPrices_ClosureMax_Composition", "child": "BalancedPrices_WeakExtension_Model", "via": ["statement"]}
 {"parent": "BalancedPrices_Extension_Mechanism", "child": "BalancedPrices_Extension_Model", "via": ["statement"]}
 {"parent": "BalancedPrices_WeakExtension_Model", "child": "BalancedPrices_Extension_Model", "via": ["statement"]}
-{"parent": "BalasAdditive.Convergence.abandoned_no_better_completion", "child": "BalasAdditive_Convergence_Algorithm", "via": ["statement"]}
+{"parent": "BalasAdditive.Convergence.abandoned_no_better_completion", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BalasAdditive.Convergence.additive_algorithm_convergence", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BalasAdditive.Convergence.feasible_solution_no_improving", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BalasAdditive.Convergence.finite_steps_per_iteration", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
-{"parent": "BalasAdditive.Convergence.lemma_1", "child": "BalasAdditive_Convergence_Algorithm", "via": ["statement"]}
-{"parent": "BalasAdditive.Convergence.lemma_2", "child": "BalasAdditive_Convergence_Algorithm", "via": ["statement"]}
-{"parent": "BalasAdditive.Convergence.no_solution_twice", "child": "BalasAdditive_Convergence_Algorithm", "via": ["statement"]}
+{"parent": "BalasAdditive.Convergence.lemma_1", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
+{"parent": "BalasAdditive.Convergence.lemma_2", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
+{"parent": "BalasAdditive.Convergence.no_solution_twice", "child": "BalasAdditive_Convergence_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BalasAdditive_Convergence_Algorithm", "child": "BalasAdditive_Convergence_Problem", "via": ["statement"]}
 {"parent": "BalasAdditive_Convergence_Problem", "child": "BalasAdditive_Convergence_BinaryLP", "via": ["statement"]}
 {"parent": "BalcanDDA.NAM.claim_b_one", "child": "BalcanDDA_NAM_Construction", "via": ["solution", "statement"]}
@@ -77608,7 +77600,7 @@
 {"parent": "BinPacking.Decreasing.ffd_bfd_le_eleven_ninths", "child": "BinPacking.Decreasing.ffd_le_eleven_ninths_large_items", "via": ["solution"]}
 {"parent": "BinPacking.Decreasing.ffd_bfd_le_eleven_ninths", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
 {"parent": "BinPacking.Decreasing.ffd_eq_bfd_gt_eleven_ninths_sub_two", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
-{"parent": "BinPacking.Decreasing.ffd_le_eleven_ninths_large_items", "child": "BinPacking_Decreasing_Model", "via": ["statement"]}
+{"parent": "BinPacking.Decreasing.ffd_le_eleven_ninths_large_items", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
 {"parent": "BinPacking.Decreasing.ffd_position_order", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
 {"parent": "BinPacking.Decreasing.weight_ge_ffd_sub", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
 {"parent": "BinPacking.Decreasing.weight_ge_ffd_sub", "child": "BinPacking_Decreasing_Weight", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPQPoly_coercive_nonneg_iff_critical
 -- name    : SPQPoly.coercive_nonneg_iff_critical
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:36:14.911989+00:00
 -- url     : https://prove2.me/theorems/27c1f2e3-12e7-4295-87a2-08542ae4410e

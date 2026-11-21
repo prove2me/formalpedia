@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FiniteEnergyPlane.exists_fastPlane_family
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-11-06T10:51:28.126507+00:00
 -- url     : https://prove2.me/submissions/e2de6a2c-44f7-41f8-b915-13075da1bd22
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_FiniteEnergyPlane_Fredholm
 import Theorems.Thm_FiniteEnergyPlane_isNondegenerateEnd_shiftA

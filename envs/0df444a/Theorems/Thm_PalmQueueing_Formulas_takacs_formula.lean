@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Formulas_takacs_formula
 -- name    : PalmQueueing.Formulas.takacs_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T01:14:11.931712+00:00
 -- url     : https://prove2.me/theorems/bc399527-443c-4bdc-8e5c-5603e16c6dc0

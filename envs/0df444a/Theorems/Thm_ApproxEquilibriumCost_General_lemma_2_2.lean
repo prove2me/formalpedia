@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_lemma_2_2
 -- name    : ApproxEquilibriumCost.General.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:48:02.103366+00:00
 -- url     : https://prove2.me/theorems/60b66b28-fa37-412e-9cb7-9acbaa1a7b0d

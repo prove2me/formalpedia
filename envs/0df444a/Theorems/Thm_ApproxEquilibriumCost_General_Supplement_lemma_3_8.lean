@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxEquilibriumCost_General_Supplement_lemma_3_8
 -- name    : ApproxEquilibriumCost.General.Supplement.lemma_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T18:46:30.615852+00:00
 -- url     : https://prove2.me/theorems/5e3af4ce-171d-4721-a54f-8166a338e5a8

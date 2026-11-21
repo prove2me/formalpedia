@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoranYanPAC_Main_majorities_increase_rank
 -- name    : MoranYanPAC.Main.majorities_increase_rank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:05:56.357705+00:00
 -- url     : https://prove2.me/theorems/e50aa758-adbb-4bd9-9d30-b88be9c1fbcb

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for mme_degenerate_pow_rank_bound
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @Shuze Chen
 -- created : 2026-05-28T20:42:11.862325+00:00
 -- url     : https://prove2.me/submissions/1d22576f-8033-46b3-aa36-ce3409f97dee
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_mme_degenerate_pow_rank_bound
 import Theorems.Thm_mme_kronPow_degenerate

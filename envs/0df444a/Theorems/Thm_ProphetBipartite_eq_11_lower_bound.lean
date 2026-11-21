@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_eq_11_lower_bound
 -- name    : ProphetBipartite.eq_11_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:51:54.723295+00:00
 -- url     : https://prove2.me/theorems/9cb53d4c-800d-480a-9ec0-38cca0c8d1fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinExchangeSP_ZPlus_theorem_6_4_square
 -- name    : LinExchangeSP.ZPlus.theorem_6_4_square
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:32.957459+00:00
 -- url     : https://prove2.me/theorems/00b6220b-cc58-4d52-ac61-8d8ab208adbf

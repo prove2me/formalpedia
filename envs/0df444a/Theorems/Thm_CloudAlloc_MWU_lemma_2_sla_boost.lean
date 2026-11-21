@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudAlloc_MWU_lemma_2_sla_boost
 -- name    : CloudAlloc.MWU.lemma_2_sla_boost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-29T23:44:33.276831+00:00
 -- url     : https://prove2.me/theorems/b7386cc8-b8dd-4f50-9f8e-b5adabd451e1

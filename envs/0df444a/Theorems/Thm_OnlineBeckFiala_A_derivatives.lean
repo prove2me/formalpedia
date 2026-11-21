@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineBeckFiala_A_derivatives
 -- name    : OnlineBeckFiala.A_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:34:42.525268+00:00
 -- url     : https://prove2.me/theorems/a93d0cdd-4d8c-4bed-a62a-dd6937e9dec8

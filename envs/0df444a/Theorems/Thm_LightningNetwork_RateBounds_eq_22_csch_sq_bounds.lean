@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LightningNetwork_RateBounds_eq_22_csch_sq_bounds
 -- name    : LightningNetwork.RateBounds.eq_22_csch_sq_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T00:54:24.38418+00:00
 -- url     : https://prove2.me/theorems/7eaef895-6a8b-4936-b1d3-ec1d3cecc6c5

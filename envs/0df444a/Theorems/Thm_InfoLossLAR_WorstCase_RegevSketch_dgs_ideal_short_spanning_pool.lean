@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_dgs_ideal_short_spanning_pool
 -- name    : InfoLossLAR.WorstCase.RegevSketch.dgs_ideal_short_spanning_pool
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-18T22:50:55.340672+00:00
 -- url     : https://prove2.me/theorems/d7fb7f0f-5bc7-4309-9ca6-08a48a84c6f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P24_jones_propagation_contracting
 -- name    : QAlgorithms.Papers.Independent.Intake100.P24.jones_propagation_contracting
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T17:15:55.314824+00:00
 -- url     : https://prove2.me/theorems/9dcb39ae-d69c-4119-92d5-840232e1f622

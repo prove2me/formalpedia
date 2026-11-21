@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalasAdditive_Convergence_additive_algorithm_convergence
 -- name    : BalasAdditive.Convergence.additive_algorithm_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:35:29.742973+00:00
 -- url     : https://prove2.me/theorems/9fb93290-c6be-4514-ad87-3a9a544c58e1

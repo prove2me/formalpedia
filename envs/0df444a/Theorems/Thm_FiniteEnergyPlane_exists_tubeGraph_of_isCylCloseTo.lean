@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_tubeGraph_of_isCylCloseTo
 -- name    : FiniteEnergyPlane.exists_tubeGraph_of_isCylCloseTo
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-16T20:14:15.285347+00:00
 -- url     : https://prove2.me/theorems/9fff83ec-1e51-4881-964c-a1fd678e7da2
