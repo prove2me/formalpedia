@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_subset_withBound_boundAfterNext
 -- name    : Mpfx.FiniteFormat.subset_withBound_boundAfterNext
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:32.765011+00:00
 -- url     : https://prove2.me/theorems/35429db8-732d-4f2e-ad65-6cf1646a7fdf

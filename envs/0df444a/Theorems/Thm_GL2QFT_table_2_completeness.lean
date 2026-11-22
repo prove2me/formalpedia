@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_table_2_completeness
 -- name    : GL2QFT.table_2_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:19:01.256801+00:00
 -- url     : https://prove2.me/theorems/82ed535a-3e54-41f4-9d5c-737a30e01358

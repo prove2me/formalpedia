@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyFLocal_clumping_respects_f_locality
 -- name    : HardyFLocal.clumping_respects_f_locality
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:41:04.394836+00:00
 -- url     : https://prove2.me/theorems/90d75cd3-41c9-42cf-a43c-dd857c57ad78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_adelic_theta_estimates
 -- name    : MasulloGRH.adelic_theta_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:34:34.943984+00:00
 -- url     : https://prove2.me/theorems/78892f7b-5c45-49e5-b63d-8a0136d9aab9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_timeIndicator_sq_integral
 -- name    : LevyStochCalc.Poisson.Compensated.timeIndicator_sq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T07:39:31.706382+00:00
 -- url     : https://prove2.me/theorems/ab1c1ea5-2c1b-4250-b78c-140998e853ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_nearest_error_le_half_ulp
 -- name    : Mpfx.nearest_error_le_half_ulp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:51.377294+00:00
 -- url     : https://prove2.me/theorems/64b53644-7f70-46e9-baa0-db83d0aee477

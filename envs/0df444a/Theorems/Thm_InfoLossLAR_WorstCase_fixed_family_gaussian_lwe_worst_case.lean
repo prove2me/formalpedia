@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_fixed_family_gaussian_lwe_worst_case
 -- name    : InfoLossLAR.WorstCase.fixed_family_gaussian_lwe_worst_case
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-13T16:10:06.6598+00:00
 -- url     : https://prove2.me/theorems/e07e3b3b-5a03-440e-a86e-79bca30a61af

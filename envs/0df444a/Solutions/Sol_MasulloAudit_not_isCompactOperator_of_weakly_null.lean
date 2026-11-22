@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.not_isCompactOperator_of_weakly_null
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:30:09.871183+00:00
 -- url     : https://prove2.me/submissions/f2cafce3-9f37-4cff-8ca7-e94c7ecfed5e
 

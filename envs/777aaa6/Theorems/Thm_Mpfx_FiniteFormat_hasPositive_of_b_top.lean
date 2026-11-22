@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_hasPositive_of_b_top
 -- name    : Mpfx.FiniteFormat.hasPositive_of_b_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:31:40.724677+00:00
 -- url     : https://prove2.me/theorems/da3f32a6-64f2-493d-bf4c-c3cd19acaa94

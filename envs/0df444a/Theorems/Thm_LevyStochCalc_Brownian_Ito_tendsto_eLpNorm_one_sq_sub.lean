@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_tendsto_eLpNorm_one_sq_sub
 -- name    : LevyStochCalc.Brownian.Ito.tendsto_eLpNorm_one_sq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T17:36:29.199946+00:00
 -- url     : https://prove2.me/theorems/1d6e768f-e8ae-4a62-a5b4-568f9fdaac77

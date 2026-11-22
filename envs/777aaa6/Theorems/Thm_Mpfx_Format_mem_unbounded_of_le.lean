@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_mem_unbounded_of_le
 -- name    : Mpfx.Format.mem_unbounded_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:38:54.489046+00:00
 -- url     : https://prove2.me/theorems/9e36d276-fbf2-4cda-8d5e-c5db5b3d4a4e

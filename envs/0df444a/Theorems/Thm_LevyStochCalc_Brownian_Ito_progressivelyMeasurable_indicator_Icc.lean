@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_progressivelyMeasurable_indicator_Icc
 -- name    : LevyStochCalc.Brownian.Ito.progressivelyMeasurable_indicator_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:13:37.202794+00:00
 -- url     : https://prove2.me/theorems/0a89a669-a072-4474-8a42-c2e1cf3bca11

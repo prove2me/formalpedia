@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StationaryBwK_ratio_minimization
 -- name    : StationaryBwK.ratio_minimization
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:50:35.742824+00:00
 -- url     : https://prove2.me/theorems/71691f9c-1761-4003-9e4e-dd230f0cae23

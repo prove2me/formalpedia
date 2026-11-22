@@ -1,6 +1,6 @@
 -- Prove2me | solution 4 for MasulloRH.spectral_trace_hasSum
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:37:04.757574+00:00
 -- url     : https://prove2.me/submissions/d051a8e5-184e-416d-b794-8941f044d5e5
 -- note    : a sketch -- it imports a theorem that is still Open,

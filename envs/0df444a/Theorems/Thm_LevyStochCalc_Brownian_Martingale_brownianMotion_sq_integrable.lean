@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Martingale_brownianMotion_sq_integrable
 -- name    : LevyStochCalc.Brownian.Martingale.brownianMotion_sq_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T14:53:50.207808+00:00
 -- url     : https://prove2.me/theorems/e010d4a4-a0e3-4252-ab39-6fb6e3a302fc

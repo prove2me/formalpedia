@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeEquivalenceHORS_Equivalence_lemma_5_6
 -- name    : TreeEquivalenceHORS.Equivalence.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:44:01.776542+00:00
 -- url     : https://prove2.me/theorems/9c14a099-3a79-47b7-a2c4-e09ad2167177

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BFAlmostLinear_corollary_2_8
 -- name    : BFAlmostLinear.corollary_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:40:27.852479+00:00
 -- url     : https://prove2.me/theorems/a6c0b5be-aec6-40ad-b129-05720bc1e166

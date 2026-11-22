@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleRoutingSurvey_Routing_rpp_tree_matching_sharp
 -- name    : VehicleRoutingSurvey.Routing.rpp_tree_matching_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-30T00:13:39.29829+00:00
 -- url     : https://prove2.me/theorems/308b95e7-2cc4-4fd3-98b4-3b1ae6cb9c6a

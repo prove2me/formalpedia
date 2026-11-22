@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.source_result81_stopped_downward_split
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-20T13:17:39.838181+00:00
 -- url     : https://prove2.me/submissions/f55e288a-c3e3-42a6-8a82-a6074bb2c99f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_no_positive_jumps

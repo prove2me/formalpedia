@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HellingerSubadd_lemmaA5_hellingerSq_le_klDiv
 -- name    : HellingerSubadd.lemmaA5_hellingerSq_le_klDiv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:49:33.785981+00:00
 -- url     : https://prove2.me/theorems/b4af96b0-bd98-4f92-96b0-fc96ce406799

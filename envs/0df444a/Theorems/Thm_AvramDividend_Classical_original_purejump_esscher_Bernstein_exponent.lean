@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_original_purejump_esscher_Bernstein_exponent
 -- name    : AvramDividend.Classical.original_purejump_esscher_Bernstein_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T22:56:56.8041+00:00
 -- url     : https://prove2.me/theorems/1e2e9af0-0c07-4690-92f4-b51969e9dd33

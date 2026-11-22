@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_twisted_orbital_trace_two_sided_error
 -- name    : MasulloAudit.twisted_orbital_trace_two_sided_error
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:47:12.70688+00:00
 -- url     : https://prove2.me/theorems/15758781-f880-475e-bf9e-814b705a4af9
 -- title:

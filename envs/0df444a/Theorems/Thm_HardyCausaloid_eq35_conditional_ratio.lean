@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyCausaloid_eq35_conditional_ratio
 -- name    : HardyCausaloid.eq35_conditional_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:51.789984+00:00
 -- url     : https://prove2.me/theorems/5ffc3368-7370-462f-b7bb-2e8c985e6472

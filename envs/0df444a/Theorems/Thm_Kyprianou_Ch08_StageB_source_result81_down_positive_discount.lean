@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_down_positive_discount
 -- name    : Kyprianou.Ch08.StageB.source_result81_down_positive_discount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T13:20:08.81071+00:00
 -- url     : https://prove2.me/theorems/d5833b96-248c-4b9d-87b8-3cb8b121acb0

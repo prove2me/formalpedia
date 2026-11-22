@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_exp_eq_canonicalExp_of_p_one
 -- name    : Mpfx.FiniteFormat.exp_eq_canonicalExp_of_p_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:43.451956+00:00
 -- url     : https://prove2.me/theorems/c0f43112-a383-43a5-9df6-8c695034184c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_predictableDyadicSimple_brownian_eval_jointly_measurable
 -- name    : LevyStochCalc.Brownian.Ito.predictableDyadicSimple_brownian_eval_jointly_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T15:43:26.218351+00:00
 -- url     : https://prove2.me/theorems/385c7a93-ff2f-420b-86c4-e0d8e23f42fb

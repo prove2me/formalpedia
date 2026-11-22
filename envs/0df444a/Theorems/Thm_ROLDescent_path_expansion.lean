@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ROLDescent_path_expansion
 -- name    : ROLDescent.path_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T21:49:49.950407+00:00
 -- url     : https://prove2.me/theorems/0d6a3987-7e87-40bc-b8a9-40a426cb8e95

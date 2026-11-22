@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_theorem_37
 -- name    : BuchiRabinIndex.LowerBound.theorem_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:31:57.351257+00:00
 -- url     : https://prove2.me/theorems/8bd8d960-4ee3-4865-9e85-ced23deb690d

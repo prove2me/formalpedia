@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_root_evaluation
 -- name    : CoDecompFO.root_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:17.284209+00:00
 -- url     : https://prove2.me/theorems/8fcfc125-b913-41b7-bddd-8c5bfcdec4da

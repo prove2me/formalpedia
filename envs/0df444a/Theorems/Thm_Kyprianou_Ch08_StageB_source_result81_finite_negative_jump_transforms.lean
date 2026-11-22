@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_finite_negative_jump_transforms
 -- name    : Kyprianou.Ch08.StageB.source_result81_finite_negative_jump_transforms
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:51:07.356669+00:00
 -- url     : https://prove2.me/theorems/41ddaf77-2525-482a-8643-db0a0bb961c5

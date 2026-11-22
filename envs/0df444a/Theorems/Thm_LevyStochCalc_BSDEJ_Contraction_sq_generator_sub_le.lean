@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_BSDEJ_Contraction_sq_generator_sub_le
 -- name    : LevyStochCalc.BSDEJ.Contraction.sq_generator_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:28:51.761273+00:00
 -- url     : https://prove2.me/theorems/c794fa8a-ad38-4d55-a8ca-7e384d24b043

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_markedProgressivelyMeasurable_add
 -- name    : LevyStochCalc.Poisson.Compensated.markedProgressivelyMeasurable_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:23:12.394841+00:00
 -- url     : https://prove2.me/theorems/7eb301ff-c3a7-4d30-b4ce-200550fa599f

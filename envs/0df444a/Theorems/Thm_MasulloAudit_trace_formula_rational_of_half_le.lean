@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_rational_of_half_le
 -- name    : MasulloAudit.trace_formula_rational_of_half_le
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:25:47.106452+00:00
 -- url     : https://prove2.me/theorems/aed6a888-6459-453b-a766-d090bf66aa44
 -- title:

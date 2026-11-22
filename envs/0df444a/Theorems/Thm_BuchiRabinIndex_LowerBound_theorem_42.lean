@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_theorem_42
 -- name    : BuchiRabinIndex.LowerBound.theorem_42
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:33:42.637878+00:00
 -- url     : https://prove2.me/theorems/c13c55eb-f61b-455b-acc3-4ceb2d867ac1

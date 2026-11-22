@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_lintegral_sq_sub_le_of_bound
 -- name    : LevyStochCalc.Brownian.Ito.lintegral_sq_sub_le_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:32:16.786237+00:00
 -- url     : https://prove2.me/theorems/1ceecb4e-9055-44e6-b25d-49fb5442afe5

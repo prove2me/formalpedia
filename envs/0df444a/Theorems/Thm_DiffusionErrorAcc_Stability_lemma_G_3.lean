@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiffusionErrorAcc_Stability_lemma_G_3
 -- name    : DiffusionErrorAcc.Stability.lemma_G_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T14:57:43.540755+00:00
 -- url     : https://prove2.me/theorems/c20e304b-519e-47ae-aa44-2a6429428095

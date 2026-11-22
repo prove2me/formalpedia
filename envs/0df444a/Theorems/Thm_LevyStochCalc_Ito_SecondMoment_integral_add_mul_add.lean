@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Ito_SecondMoment_integral_add_mul_add
 -- name    : LevyStochCalc.Ito.SecondMoment.integral_add_mul_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:22:06.926414+00:00
 -- url     : https://prove2.me/theorems/cd8a99d3-d89e-4dc4-98b7-eeeb31301f0d

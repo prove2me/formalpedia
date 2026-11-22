@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_exists_bound_fderiv_cutoffFun
 -- name    : LevyStochCalc.exists_bound_fderiv_cutoffFun
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:47:57.824768+00:00
 -- url     : https://prove2.me/theorems/853f92d9-a0b8-4870-8ed3-5974864f0975

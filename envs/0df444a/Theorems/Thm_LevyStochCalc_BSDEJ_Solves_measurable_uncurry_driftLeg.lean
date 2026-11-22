@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_BSDEJ_Solves_measurable_uncurry_driftLeg
 -- name    : LevyStochCalc.BSDEJ.Solves.measurable_uncurry_driftLeg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T09:10:52.451785+00:00
 -- url     : https://prove2.me/theorems/48b926b0-2eda-4bc5-acda-9cb21f519bfc

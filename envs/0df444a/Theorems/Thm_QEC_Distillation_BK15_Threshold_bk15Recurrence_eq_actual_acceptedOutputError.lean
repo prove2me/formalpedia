@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15Recurrence_eq_actual_acceptedOutputError
 -- name    : QEC.Distillation.BK15.Threshold.bk15Recurrence_eq_actual_acceptedOutputError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:24:58.152762+00:00
 -- url     : https://prove2.me/theorems/8553fe2a-79a7-4d36-a9af-2df0427f5888

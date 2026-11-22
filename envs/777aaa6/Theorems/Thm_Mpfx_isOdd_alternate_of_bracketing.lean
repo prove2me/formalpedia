@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_isOdd_alternate_of_bracketing
 -- name    : Mpfx.isOdd_alternate_of_bracketing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:46.296869+00:00
 -- url     : https://prove2.me/theorems/f7f76125-f355-4c24-b1e4-94cf98a74fec

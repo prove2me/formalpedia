@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.exp_family_weighted_dist_tendsto_zero
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:32:27.35992+00:00
 -- url     : https://prove2.me/submissions/026c771c-6da6-4f11-bdd5-342b02b7a9b1
 

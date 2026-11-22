@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P65_admissibleSeries
 -- name    : QAlgorithms.Papers.Independent.Intake100.P65.admissibleSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:14:58.671233+00:00
 -- url     : https://prove2.me/theorems/0ef00288-fe72-405a-8a11-2ce26772f3d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Cex_le_of_roundsDown_of_isolated
 -- name    : Mpfx.Cex.le_of_roundsDown_of_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:55.147448+00:00
 -- url     : https://prove2.me/theorems/95b5746b-6a1c-44d4-949d-c04523408e13

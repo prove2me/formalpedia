@@ -19520,8 +19520,8 @@
 {"parent": "IntMul_Kappa_R6_Data_CxNetDataM5_3", "child": "IntMul_Kappa_R6_Defs24", "via": ["statement"]}
 {"parent": "PipelineInterv.Welfare.lemma_1", "child": "PipelineInterv_Welfare_Model", "via": ["solution", "statement"]}
 {"parent": "MatrixAnalytic.PH.nondefective_absorbing_representation", "child": "MatrixAnalytic_PH_Continuous", "via": ["solution", "statement"]}
-{"parent": "FiniteFields.zeta_functional_equation", "child": "WeilConjectures_projectiveSpace", "via": ["statement"]}
-{"parent": "FiniteFields.zeta_functional_equation", "child": "WeilConjectures_zetaFunction", "via": ["statement"]}
+{"parent": "FiniteFields.zeta_functional_equation", "child": "WeilConjectures_projectiveSpace", "via": ["solution", "statement"]}
+{"parent": "FiniteFields.zeta_functional_equation", "child": "WeilConjectures_zetaFunction", "via": ["solution", "statement"]}
 {"parent": "LiquidPoA.Kelly.lemma_4_2", "child": "LiquidPoA_Kelly_Setting", "via": ["solution", "statement"]}
 {"parent": "IllinoisBrick.Cartel.proposition_2", "child": "IllinoisBrick_Cartel_Model", "via": ["solution", "statement"]}
 {"parent": "RobustFPA.VarBid.equalizerSet_eq", "child": "RobustFPA_VarBid_ClosedForms", "via": ["solution", "statement"]}
@@ -47881,8 +47881,8 @@
 {"parent": "QMaxCutBeyond.TwoQubit.eq_24", "child": "QMaxCutBeyond_TwoQubit_Setting", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.case180_blockers1", "child": "HardyCapsetCertificate18020261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case180_blockers1", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
-{"parent": "GelfandVNA.Duality.theorem_5_19", "child": "GelfandVNA_Duality_Locales", "via": ["statement"]}
-{"parent": "GelfandVNA.Duality.theorem_5_19", "child": "GelfandVNA_Duality_EMS", "via": ["statement"]}
+{"parent": "GelfandVNA.Duality.theorem_5_19", "child": "GelfandVNA_Duality_Locales", "via": ["solution", "statement"]}
+{"parent": "GelfandVNA.Duality.theorem_5_19", "child": "GelfandVNA_Duality_EMS", "via": ["solution", "statement"]}
 {"parent": "DirS.sidorenko_equiv", "child": "DirS_gw", "via": ["solution", "statement"]}
 {"parent": "DirS.sidorenko_equiv", "child": "DirS_gr", "via": ["solution", "statement"]}
 {"parent": "BUP.world_transport", "child": "BUP_alg", "via": ["solution", "statement"]}
@@ -56414,7 +56414,7 @@
 {"parent": "HardyCapset20261020.Cert.case028_blockers1", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HarksKlimm_Consistency_load", "child": "HarksKlimm_Consistency_Game", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.case045_bound", "child": "HardyCapsetCertificateModel20261020", "via": ["statement"]}
-{"parent": "GelfandVNA.Duality.lemma_5_11", "child": "GelfandVNA_Duality_EMS", "via": ["statement"]}
+{"parent": "GelfandVNA.Duality.lemma_5_11", "child": "GelfandVNA_Duality_EMS", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case110_blockers0", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case110_blockers0", "child": "HardyCapsetCertificate11020261021", "via": ["solution", "statement"]}
 {"parent": "SpecActionsProb_Latency_Model", "child": "SpecActions_model", "via": ["statement"]}

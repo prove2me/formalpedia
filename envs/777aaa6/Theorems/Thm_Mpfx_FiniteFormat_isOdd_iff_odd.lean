@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isOdd_iff_odd
 -- name    : Mpfx.FiniteFormat.isOdd_iff_odd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:47.734494+00:00
 -- url     : https://prove2.me/theorems/a401efec-fd98-49ed-ac82-f75b99b9fbb5

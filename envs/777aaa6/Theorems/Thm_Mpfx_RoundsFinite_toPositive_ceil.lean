@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_toPositive_ceil
 -- name    : Mpfx.RoundsFinite.toPositive_ceil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:43:49.609685+00:00
 -- url     : https://prove2.me/theorems/540cd27e-5cc5-4c99-b193-86e07db09de8

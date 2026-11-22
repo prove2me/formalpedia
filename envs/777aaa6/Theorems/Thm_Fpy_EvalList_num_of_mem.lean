@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fpy_EvalList_num_of_mem
 -- name    : Fpy.EvalList.num_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:35.227578+00:00
 -- url     : https://prove2.me/theorems/e9bbd398-eced-4cb0-8af7-c8f5ee279a06

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_bounded_biorthogonal_system_unbounded_functionals
 -- name    : MasulloAudit.bounded_biorthogonal_system_unbounded_functionals
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:02:06.342317+00:00
 -- url     : https://prove2.me/theorems/fece7c79-3a17-4cb3-9bcd-3f1334406333
 -- title:

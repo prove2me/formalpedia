@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_BSDEJ_Contraction_two_mul_mul_generator_sub_le
 -- name    : LevyStochCalc.BSDEJ.Contraction.two_mul_mul_generator_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:24:35.494446+00:00
 -- url     : https://prove2.me/theorems/be481b1a-1c57-4a5a-bfb0-e97292d7b127

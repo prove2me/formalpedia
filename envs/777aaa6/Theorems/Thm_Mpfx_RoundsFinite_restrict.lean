@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_restrict
 -- name    : Mpfx.RoundsFinite.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:45.502073+00:00
 -- url     : https://prove2.me/theorems/5af2f9a6-2ad9-4488-8e88-eb0c56ea2155

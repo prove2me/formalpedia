@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_dusart_row23_conditional_67156_20261114
 -- name    : TaoFivePrimes.dusart_row23_conditional_67156_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-11-13T22:01:23.446971+00:00
 -- url     : https://prove2.me/theorems/d49ac214-f62c-49e7-9be4-c1b71550c196

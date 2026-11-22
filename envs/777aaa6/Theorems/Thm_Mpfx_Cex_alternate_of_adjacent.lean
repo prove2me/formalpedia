@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Cex_alternate_of_adjacent
 -- name    : Mpfx.Cex.alternate_of_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:38.316606+00:00
 -- url     : https://prove2.me/theorems/dfa541ea-4857-4bd4-bdd8-8b93096aa5db

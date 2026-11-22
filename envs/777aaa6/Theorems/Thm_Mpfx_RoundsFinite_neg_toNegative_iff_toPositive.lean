@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_neg_toNegative_iff_toPositive
 -- name    : Mpfx.RoundsFinite.neg_toNegative_iff_toPositive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:24.060183+00:00
 -- url     : https://prove2.me/theorems/802bdcd9-c44c-4edc-ba8d-b27ab87cc2e8

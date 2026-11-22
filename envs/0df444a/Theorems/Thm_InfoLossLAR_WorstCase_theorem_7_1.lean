@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_theorem_7_1
 -- name    : InfoLossLAR.WorstCase.theorem_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:02:07.263172+00:00
 -- url     : https://prove2.me/theorems/41061813-842d-4e14-b57e-490dfc17fcd0

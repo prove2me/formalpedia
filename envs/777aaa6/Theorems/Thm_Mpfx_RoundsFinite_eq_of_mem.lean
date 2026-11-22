@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_eq_of_mem
 -- name    : Mpfx.RoundsFinite.eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:44:08.774575+00:00
 -- url     : https://prove2.me/theorems/108c0f1d-5d00-4b99-ae4f-6b46feca3522

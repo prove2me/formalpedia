@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultimodularDocks_fact_2
 -- name    : MultimodularDocks.fact_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:34:45.707991+00:00
 -- url     : https://prove2.me/theorems/f714caa9-50f4-4d79-a0ae-88ccf8e1c02b

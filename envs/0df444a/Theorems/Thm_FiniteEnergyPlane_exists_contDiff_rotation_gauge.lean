@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_contDiff_rotation_gauge
 -- name    : FiniteEnergyPlane.exists_contDiff_rotation_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-04T15:47:59.753024+00:00
 -- url     : https://prove2.me/theorems/ad35f0be-53bd-4cf4-a4de-2623dc6faa8f

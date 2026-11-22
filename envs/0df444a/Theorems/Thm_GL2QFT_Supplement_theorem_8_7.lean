@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Supplement_theorem_8_7
 -- name    : GL2QFT.Supplement.theorem_8_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T01:47:09.343192+00:00
 -- url     : https://prove2.me/theorems/d0252d28-382d-4225-afc9-24ec56a8f605

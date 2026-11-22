@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_rational_fixed_window_iff
 -- name    : MasulloAudit.trace_formula_rational_fixed_window_iff
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:24:17.145609+00:00
 -- url     : https://prove2.me/theorems/c7d3b4b4-1565-49fc-a645-3ee43eea9031
 -- title:

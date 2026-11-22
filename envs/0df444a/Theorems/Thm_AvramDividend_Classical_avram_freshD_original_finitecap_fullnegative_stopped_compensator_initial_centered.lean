@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_freshD_original_finitecap_fullnegative_stopped_compensator_initial_centered
 -- name    : AvramDividend.Classical.avram_freshD_original_finitecap_fullnegative_stopped_compensator_initial_centered
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:43:19.880431+00:00
 -- url     : https://prove2.me/theorems/04e002c9-dbbf-4c55-9fb9-dc0b7f638e70

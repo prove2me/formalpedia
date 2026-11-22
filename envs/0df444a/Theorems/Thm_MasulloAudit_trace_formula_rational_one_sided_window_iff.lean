@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_rational_one_sided_window_iff
 -- name    : MasulloAudit.trace_formula_rational_one_sided_window_iff
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:56:00.011025+00:00
 -- url     : https://prove2.me/theorems/92029645-ff06-4d45-9970-699cd8f7886e
 -- title:

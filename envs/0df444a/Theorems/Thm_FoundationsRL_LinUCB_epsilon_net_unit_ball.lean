@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_LinUCB_epsilon_net_unit_ball
 -- name    : FoundationsRL.LinUCB.epsilon_net_unit_ball
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:19:17.28165+00:00
 -- url     : https://prove2.me/theorems/593fab38-3ebf-4625-ac58-c2b6e363206b

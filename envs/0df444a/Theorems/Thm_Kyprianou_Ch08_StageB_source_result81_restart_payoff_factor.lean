@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_restart_payoff_factor
 -- name    : Kyprianou.Ch08.StageB.source_result81_restart_payoff_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T13:13:43.716048+00:00
 -- url     : https://prove2.me/theorems/78574f78-b2c0-43ff-a7df-919c061143b7

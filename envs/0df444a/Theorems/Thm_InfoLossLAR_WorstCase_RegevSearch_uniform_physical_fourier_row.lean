@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_uniform_physical_fourier_row
 -- name    : InfoLossLAR.WorstCase.RegevSearch.uniform_physical_fourier_row
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-21T05:32:09.850035+00:00
 -- url     : https://prove2.me/theorems/d106aba4-0ad7-4239-9c6b-4a9dc8c9ebc4

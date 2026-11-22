@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isOdd_iff_canonical
 -- name    : Mpfx.FiniteFormat.isOdd_iff_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:16.489514+00:00
 -- url     : https://prove2.me/theorems/25b19726-4242-40a0-a2cc-ce37b6f9624f

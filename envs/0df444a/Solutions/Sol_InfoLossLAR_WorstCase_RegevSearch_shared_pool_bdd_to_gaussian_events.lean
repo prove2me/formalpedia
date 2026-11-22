@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSearch.shared_pool_bdd_to_gaussian_events
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-21T02:34:49.046183+00:00
 -- url     : https://prove2.me/submissions/a91426fb-b488-4448-aa29-9b4596fee059
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_reduced_basis_admissible_width_schedule
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_finite_grid_fourier_gaussian_event_bound

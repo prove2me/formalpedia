@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Supplement_theorem_4_3
 -- name    : GL2QFT.Supplement.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T01:41:38.094435+00:00
 -- url     : https://prove2.me/theorems/383ac1ec-be6a-47db-b702-0ada8628dc1b

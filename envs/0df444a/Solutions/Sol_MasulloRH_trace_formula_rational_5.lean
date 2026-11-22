@@ -1,6 +1,6 @@
 -- Prove2me | solution 5 for MasulloRH.trace_formula_rational
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:48:42.074569+00:00
 -- url     : https://prove2.me/submissions/38549aad-4757-4bf3-b80f-092ab546cda9
 -- note    : a sketch -- it imports a theorem that is still Open,

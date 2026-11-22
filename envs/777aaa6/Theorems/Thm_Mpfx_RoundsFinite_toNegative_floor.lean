@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_toNegative_floor
 -- name    : Mpfx.RoundsFinite.toNegative_floor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:43:53.085511+00:00
 -- url     : https://prove2.me/theorems/6ac22555-99ea-45e8-9233-ccb4065d4599

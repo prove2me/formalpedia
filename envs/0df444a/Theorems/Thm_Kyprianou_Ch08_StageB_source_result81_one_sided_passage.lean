@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_one_sided_passage
 -- name    : Kyprianou.Ch08.StageB.source_result81_one_sided_passage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T12:59:32.106189+00:00
 -- url     : https://prove2.me/theorems/8f95e53d-1cfe-4e26-a9c2-0fa1c54631b2

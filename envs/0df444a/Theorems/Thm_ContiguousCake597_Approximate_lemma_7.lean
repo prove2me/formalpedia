@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContiguousCake597_Approximate_lemma_7
 -- name    : ContiguousCake597.Approximate.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:16:41.636962+00:00
 -- url     : https://prove2.me/theorems/6de9d367-220f-4214-8cea-605bb70e8fcf

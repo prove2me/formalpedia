@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_zeroBoundaryPassageClockMeasurableV1
 -- name    : Kyprianou.Ch01.zeroBoundaryPassageClockMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T00:38:17.392199+00:00
 -- url     : https://prove2.me/theorems/0cc4e421-5f0a-44de-a11b-c5c869d713fd

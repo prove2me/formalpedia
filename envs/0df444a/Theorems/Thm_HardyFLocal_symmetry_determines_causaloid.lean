@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyFLocal_symmetry_determines_causaloid
 -- name    : HardyFLocal.symmetry_determines_causaloid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:41:36.274619+00:00
 -- url     : https://prove2.me/theorems/f1a5ae01-6472-4fab-a60e-0bc3c98a4402

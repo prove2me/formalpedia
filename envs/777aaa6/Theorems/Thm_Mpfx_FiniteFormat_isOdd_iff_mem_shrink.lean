@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isOdd_iff_mem_shrink
 -- name    : Mpfx.FiniteFormat.isOdd_iff_mem_shrink
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:52.329851+00:00
 -- url     : https://prove2.me/theorems/a5f4186d-9586-4d77-ab6a-f2b018c5abc8

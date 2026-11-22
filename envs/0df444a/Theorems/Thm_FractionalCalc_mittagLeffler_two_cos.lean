@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_mittagLeffler_two_cos
 -- name    : FractionalCalc.mittagLeffler_two_cos
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T16:44:55.828899+00:00
 -- url     : https://prove2.me/theorems/135a4f70-95e0-45f4-b757-9868c6773c96

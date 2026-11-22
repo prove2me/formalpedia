@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_abs_ne_of_toOdd
 -- name    : Mpfx.abs_ne_of_toOdd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:54:08.942869+00:00
 -- url     : https://prove2.me/theorems/86ee117b-26b0-4b1c-a7d0-eef903e32830

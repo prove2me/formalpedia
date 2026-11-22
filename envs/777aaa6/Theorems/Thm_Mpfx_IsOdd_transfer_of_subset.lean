@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_IsOdd_transfer_of_subset
 -- name    : Mpfx.IsOdd.transfer_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:47.081626+00:00
 -- url     : https://prove2.me/theorems/ff851afe-f98e-49e1-8cf9-7eaf274e8e3d

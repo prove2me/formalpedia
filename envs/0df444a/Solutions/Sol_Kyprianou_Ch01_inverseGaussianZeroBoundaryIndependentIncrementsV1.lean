@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.inverseGaussianZeroBoundaryIndependentIncrementsV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-21T00:57:18.93245+00:00
 -- url     : https://prove2.me/submissions/453dcc2f-d8d1-4110-9141-f118106ab8c4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanBrownianStopping

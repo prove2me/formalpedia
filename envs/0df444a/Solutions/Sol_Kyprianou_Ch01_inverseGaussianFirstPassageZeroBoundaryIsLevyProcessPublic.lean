@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.inverseGaussianFirstPassageZeroBoundaryIsLevyProcessPublic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-20T23:07:47.192957+00:00
 -- url     : https://prove2.me/submissions/b1368a73-d21c-4293-a973-90174ed1b484
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanBrownianStopping

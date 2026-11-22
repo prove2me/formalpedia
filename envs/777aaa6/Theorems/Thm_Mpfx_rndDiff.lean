@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndDiff
 -- name    : Mpfx.rndDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:59:08.87317+00:00
 -- url     : https://prove2.me/theorems/70e76b81-1178-4af9-9d3c-0d0d3b2f72d4

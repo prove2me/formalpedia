@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_stableLevyExponentFormAwayFromOne
 -- name    : Kyprianou.Ch01.stableLevyExponentFormAwayFromOne
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:07:52.521045+00:00
 -- url     : https://prove2.me/theorems/14129268-8e81-434d-ac80-084d68b6b631

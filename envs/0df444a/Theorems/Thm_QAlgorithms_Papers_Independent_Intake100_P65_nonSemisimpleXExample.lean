@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P65_nonSemisimpleXExample
 -- name    : QAlgorithms.Papers.Independent.Intake100.P65.nonSemisimpleXExample
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:17:03.400728+00:00
 -- url     : https://prove2.me/theorems/da6a20be-1e44-4c94-9e87-92411998b790

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Mpfx_Cex_exists_isolated__0de9343c9367
 -- name    : P2M_Mpfx_Cex_exists_isolated__0de9343c9367
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:23.183177+00:00
 -- url     : https://prove2.me/theorems/f13e704a-ab1d-4360-948c-7e8f006722b3

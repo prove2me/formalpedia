@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.truncated_convolution_not_compact
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:30:10.808968+00:00
 -- url     : https://prove2.me/submissions/8e12c5de-4771-472f-bf1f-d36739ca1557
 

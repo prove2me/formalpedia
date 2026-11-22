@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_heckeLFunction_convexity_bound
 -- name    : MasulloGRH.heckeLFunction_convexity_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:40:45.90055+00:00
 -- url     : https://prove2.me/theorems/f4928c3e-efd3-4380-ae48-d586261a6025

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_euler_product_order_at_zero_eq_card
 -- name    : MasulloAudit.euler_product_order_at_zero_eq_card
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:05:25.206153+00:00
 -- url     : https://prove2.me/theorems/2ade4db2-fbfc-47ef-a008-3f3e6cb4a1c6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1StationaryWorkload
 -- name    : Kyprianou.Ch01.mg1StationaryWorkload
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:14:58.848343+00:00
 -- url     : https://prove2.me/theorems/c5f7df1b-21e9-4a87-8861-7c9760903f33

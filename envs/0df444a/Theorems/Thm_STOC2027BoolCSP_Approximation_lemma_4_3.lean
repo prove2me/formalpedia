@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STOC2027BoolCSP_Approximation_lemma_4_3
 -- name    : STOC2027BoolCSP.Approximation.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:52:55.692039+00:00
 -- url     : https://prove2.me/theorems/da8dfdb6-5926-4718-a38a-e4213114939d

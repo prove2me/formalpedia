@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_elemSchwartz_frechet_nuclear_montel
 -- name    : MasulloGRH.elemSchwartz_frechet_nuclear_montel
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:19:33.671897+00:00
 -- url     : https://prove2.me/theorems/390e8a3c-af9f-4c1b-bc6c-179d248c94ca

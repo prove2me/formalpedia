@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyCausaloid_fiducial_spanning_states
 -- name    : HardyCausaloid.fiducial_spanning_states
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:17:44.261053+00:00
 -- url     : https://prove2.me/theorems/3b54c688-1ca9-421f-a776-9e80955bf67a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ROLDescent_eq_74_consequences
 -- name    : ROLDescent.eq_74_consequences
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T21:45:10.166087+00:00
 -- url     : https://prove2.me/theorems/1a69aa04-0920-4d50-8d77-44937f995f41

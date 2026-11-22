@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_expDecaySchwartz_structure
 -- name    : MasulloGRH.expDecaySchwartz_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:34:30.566003+00:00
 -- url     : https://prove2.me/theorems/9b8d72ae-c1dc-4fed-8aae-ce6cecc0b12e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloRH_log_band_weight_convolution_finite_difference_L2
 -- name    : MasulloRH.log_band_weight_convolution_finite_difference_L2
--- status  : Open
+-- status  : Proved
 -- author  : @Yi
 -- created : 2026-11-21T05:26:36.842021+00:00
 -- url     : https://prove2.me/theorems/5c1e04ce-8159-4a34-ad98-7662a9f4802b

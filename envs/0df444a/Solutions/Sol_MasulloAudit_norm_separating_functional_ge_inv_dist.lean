@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.norm_separating_functional_ge_inv_dist
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:02:23.675155+00:00
 -- url     : https://prove2.me/submissions/c1dd8915-900a-470b-9515-d9ba630c1499
 

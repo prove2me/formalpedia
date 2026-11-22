@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_not_isCompactOperator_of_weakly_null
 -- name    : MasulloAudit.not_isCompactOperator_of_weakly_null
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:29:33.52628+00:00
 -- url     : https://prove2.me/theorems/91b69d8e-9d25-4612-ad49-d80b4fbc6304
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rnd_of_mem_values
 -- name    : Mpfx.rnd_of_mem_values
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:02.054513+00:00
 -- url     : https://prove2.me/theorems/17e01531-57ff-4017-b083-711c11f169a2

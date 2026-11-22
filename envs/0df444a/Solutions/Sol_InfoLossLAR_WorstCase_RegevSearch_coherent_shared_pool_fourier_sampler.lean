@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSearch.coherent_shared_pool_fourier_sampler
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-21T05:32:20.349908+00:00
 -- url     : https://prove2.me/submissions/68c6cc01-99bf-4eec-b807-33d377995644
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_uniform_physical_fourier_row
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_iterate_uniform_fourier_row

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_sLocalTheta_estimates
 -- name    : MasulloGRH.sLocalTheta_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:36:06.789205+00:00
 -- url     : https://prove2.me/theorems/67c2953e-e9bf-4742-ad63-0424c80d13ad

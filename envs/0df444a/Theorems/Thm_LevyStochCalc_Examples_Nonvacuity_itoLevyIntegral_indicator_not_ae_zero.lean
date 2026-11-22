@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Examples_Nonvacuity_itoLevyIntegral_indicator_not_ae_zero
 -- name    : LevyStochCalc.Examples.Nonvacuity.itoLevyIntegral_indicator_not_ae_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T21:47:03.728773+00:00
 -- url     : https://prove2.me/theorems/e322683d-6e4d-4d37-9198-4e329e57dc54

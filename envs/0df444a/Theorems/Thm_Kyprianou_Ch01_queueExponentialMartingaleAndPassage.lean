@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_queueExponentialMartingaleAndPassage
 -- name    : Kyprianou.Ch01.queueExponentialMartingaleAndPassage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:23:46.164528+00:00
 -- url     : https://prove2.me/theorems/840dd61c-3966-4335-8f05-458232077c16

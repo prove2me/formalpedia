@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_timeRect_sdiff_eq_box
 -- name    : LevyStochCalc.Poisson.Compensated.timeRect_sdiff_eq_box
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T17:04:33.644711+00:00
 -- url     : https://prove2.me/theorems/42da6827-30de-443d-be57-ea0ab60e82a1

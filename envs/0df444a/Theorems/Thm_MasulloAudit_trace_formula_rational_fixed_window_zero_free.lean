@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_rational_fixed_window_zero_free
 -- name    : MasulloAudit.trace_formula_rational_fixed_window_zero_free
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:24:18.428033+00:00
 -- url     : https://prove2.me/theorems/c034b4ab-aa45-42d2-a119-65235eb0633c
 -- title:

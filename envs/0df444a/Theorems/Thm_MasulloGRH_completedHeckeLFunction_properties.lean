@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_completedHeckeLFunction_properties
 -- name    : MasulloGRH.completedHeckeLFunction_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:38:35.590615+00:00
 -- url     : https://prove2.me/theorems/ab89b85e-6514-4a26-8514-9d8c1c840548

@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Kourovka.MetabelianEnumeration.EpimorphismEnumeration.check_primrec
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-21T08:30:25.926146+00:00
+-- url     : https://prove2.me/submissions/2d6ff3ac-c18e-48c0-bf61-c2d5c44bf42b
+
+import Definitions.Def_Kourovka_Certificates_EpimorphismSemantics
+import Definitions.Def_Kourovka_Enumeration_EnumerationCofinality
+import Definitions.Def_Kourovka_Covers_ComputableCoverSemantics
+import Definitions.Def_Kourovka_Covers_ComputableCoverBounds
+import Definitions.Def_Kourovka_Enumeration_EpimorphismEnumeration
+import Theorems.Thm_Kourovka_MetabelianEnumeration_EpimorphismEnumeration_checkData_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_EpimorphismEnumeration_decodeCertificate_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableEnumeration_checkData_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableEnumeration_decodeCertificate_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableEpimorphism_checkData_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableIsomorphism_checkData_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputablePresentations_decodePresentation_primrec
+
+
+set_option autoImplicit true
+set_option autoImplicit false
+open Kourovka Kourovka.MetabelianEnumeration Kourovka.MetabelianEnumeration.EpimorphismEnumeration
+namespace Kourovka.MetabelianEnumeration.EpimorphismEnumeration
+theorem _root_.solution : Primrec₂ check :=
+  checkData_primrec.comp (ComputablePresentations.decodePresentation_primrec.comp Primrec.fst)
+    (decodeCertificate_primrec.comp Primrec.snd)
+end Kourovka.MetabelianEnumeration.EpimorphismEnumeration

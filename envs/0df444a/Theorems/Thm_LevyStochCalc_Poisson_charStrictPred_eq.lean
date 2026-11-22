@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_charStrictPred_eq
 -- name    : LevyStochCalc.Poisson.charStrictPred_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:00:47.797718+00:00
 -- url     : https://prove2.me/theorems/05dc4a4b-8437-4b4f-8bbe-6e0271eebd5c

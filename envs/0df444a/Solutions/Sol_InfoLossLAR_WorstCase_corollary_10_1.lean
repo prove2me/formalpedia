@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.corollary_10_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-13T16:13:03.728888+00:00
 -- url     : https://prove2.me/submissions/0c711e04-2ebb-4d0c-917f-30238433004d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_theorem_9_9
 import Theorems.Thm_InfoLossLAR_WorstCase_fixed_family_gaussian_advantage_transfer

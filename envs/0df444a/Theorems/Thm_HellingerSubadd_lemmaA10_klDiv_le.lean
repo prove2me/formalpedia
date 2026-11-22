@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HellingerSubadd_lemmaA10_klDiv_le
 -- name    : HellingerSubadd.lemmaA10_klDiv_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:50:44.153621+00:00
 -- url     : https://prove2.me/theorems/c58c6ce0-3cab-434b-9960-7ed85c4c495b

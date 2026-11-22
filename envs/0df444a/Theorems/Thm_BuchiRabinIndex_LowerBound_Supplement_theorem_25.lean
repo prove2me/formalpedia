@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_Supplement_theorem_25
 -- name    : BuchiRabinIndex.LowerBound.Supplement.theorem_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T13:53:35.20199+00:00
 -- url     : https://prove2.me/theorems/2153c158-5dbb-4a89-ba42-b3ef6b3c0eae

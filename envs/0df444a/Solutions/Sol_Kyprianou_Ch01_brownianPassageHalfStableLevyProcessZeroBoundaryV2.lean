@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.brownianPassageHalfStableLevyProcessZeroBoundaryV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-19T07:22:03.487158+00:00
 -- url     : https://prove2.me/submissions/242fa31d-d21f-4743-a6d9-8b08572848d8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch01_brownianFirstPassageZeroBoundaryIsLevyProcessPublic
 import Theorems.Thm_Kyprianou_Ch01_brownianFirstUpperPassageAlmostSureFinitePublic

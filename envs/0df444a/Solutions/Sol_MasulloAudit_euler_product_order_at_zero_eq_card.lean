@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.euler_product_order_at_zero_eq_card
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:05:50.33606+00:00
 -- url     : https://prove2.me/submissions/aea2b326-57dd-4dba-a7c7-0659950c17e4
 

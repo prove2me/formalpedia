@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_unique_toZero
 -- name    : Mpfx.RoundsFinite.unique_toZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:52.334566+00:00
 -- url     : https://prove2.me/theorems/e2771e9a-c163-4f0d-bae2-a2a5bae02525

@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for RH1E6S10.group_000
+-- status  : ACCEPTED   (prove)
+-- author  : @@bwdaugherty
+-- created : 2026-11-21T17:00:07.37617+00:00
+-- url     : https://prove2.me/submissions/e69e4ae6-8da4-48cf-9c1f-55a529277b03
+
+import Definitions.Def_ArdaRS_BandSharp
+import Theorems.Thm_RH1E6S10_part_000_0
+import Theorems.Thm_RH1E6S10_part_000_1
+import Theorems.Thm_RH1E6S10_part_000_2
+import Theorems.Thm_RH1E6S10_part_000_3
+import Theorems.Thm_RS5_BandZeros_glue
+import Theorems.Thm_RS5_bandZeros_of_ok_prime
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+
+namespace RH1E6S10
+
+theorem group_000 : RS5.BandZeros ((39321600000 : ℝ) / 65536) ((39358122691 : ℝ) / 65536) 1016 := by
+  have g0 := part_000_0
+  have g1 := RS5.BandZeros.glue (by norm_num) (by norm_num) g0 part_000_1
+  have g2 := RS5.BandZeros.glue (by norm_num) (by norm_num) g1 part_000_2
+  have g3 := RS5.BandZeros.glue (by norm_num) (by norm_num) g2 part_000_3
+  exact g3
+end RH1E6S10
+open RH1E6S10 in
+theorem solution : RS5.BandZeros ((39321600000 : ℝ) / 65536) ((39358122691 : ℝ) / 65536) 1016 := by
+  apply RH1E6S10.group_000 <;> assumption

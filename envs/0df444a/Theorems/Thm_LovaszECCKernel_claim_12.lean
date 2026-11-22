@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszECCKernel_claim_12
 -- name    : LovaszECCKernel.claim_12
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:56:59.896306+00:00
 -- url     : https://prove2.me/theorems/407c0692-3df9-441a-83e4-aaa6653d8c58

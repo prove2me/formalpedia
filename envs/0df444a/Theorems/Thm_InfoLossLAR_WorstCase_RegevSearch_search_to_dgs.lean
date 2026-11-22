@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_search_to_dgs
 -- name    : InfoLossLAR.WorstCase.RegevSearch.search_to_dgs
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T09:12:01.859192+00:00
 -- url     : https://prove2.me/theorems/7b4400cb-1d0c-4066-9f5f-a61d09f19b20

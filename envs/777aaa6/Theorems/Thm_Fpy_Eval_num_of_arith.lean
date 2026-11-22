@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fpy_Eval_num_of_arith
 -- name    : Fpy.Eval.num_of_arith
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:15.539105+00:00
 -- url     : https://prove2.me/theorems/ed190ef9-f2cd-47ef-b990-da908b7b888a

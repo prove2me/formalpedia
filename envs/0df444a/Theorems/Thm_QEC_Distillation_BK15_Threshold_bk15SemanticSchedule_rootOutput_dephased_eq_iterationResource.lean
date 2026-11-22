@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15SemanticSchedule_rootOutput_dephased_eq_iterationResource
 -- name    : QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_rootOutput_dephased_eq_iterationResource
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:27:23.777909+00:00
 -- url     : https://prove2.me/theorems/d49a3725-fd69-49fc-afe5-c63856188d27

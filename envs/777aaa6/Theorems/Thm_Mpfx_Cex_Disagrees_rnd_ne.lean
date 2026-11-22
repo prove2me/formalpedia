@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Cex_Disagrees_rnd_ne
 -- name    : Mpfx.Cex.Disagrees.rnd_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:51.699056+00:00
 -- url     : https://prove2.me/theorems/c0153124-9bd0-4b0e-80e4-c4aacc57dc11

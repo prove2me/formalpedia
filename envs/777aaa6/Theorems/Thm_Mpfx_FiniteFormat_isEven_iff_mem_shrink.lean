@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isEven_iff_mem_shrink
 -- name    : Mpfx.FiniteFormat.isEven_iff_mem_shrink
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:21.701541+00:00
 -- url     : https://prove2.me/theorems/50db8d71-adaa-49fc-ba30-d18a98619da2

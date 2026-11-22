@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_not_isUndefined_awayZero
 -- name    : Mpfx.not_isUndefined_awayZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:42:20.32637+00:00
 -- url     : https://prove2.me/theorems/9972d7d2-dc28-4b8a-8313-490d12e9a072

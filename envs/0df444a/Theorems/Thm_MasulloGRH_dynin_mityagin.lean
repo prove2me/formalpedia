@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_dynin_mityagin
 -- name    : MasulloGRH.dynin_mityagin
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:40:13.416777+00:00
 -- url     : https://prove2.me/theorems/42e36e24-3944-4259-bb89-5a117ca54295

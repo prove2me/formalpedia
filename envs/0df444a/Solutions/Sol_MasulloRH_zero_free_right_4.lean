@@ -1,6 +1,6 @@
 -- Prove2me | solution 4 for MasulloRH.zero_free_right
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:31:53.442944+00:00
 -- url     : https://prove2.me/submissions/1cb479bf-ae47-441b-8023-7ea59a868323
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_neg_nearest_awayZero
 -- name    : Mpfx.RoundsFinite.neg_nearest_awayZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:47.719151+00:00
 -- url     : https://prove2.me/theorems/08d526ba-0e6b-4090-9ea7-89d34e3b7f7a

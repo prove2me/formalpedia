@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_corollary_10_1
 -- name    : InfoLossLAR.WorstCase.corollary_10_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:06:53.709823+00:00
 -- url     : https://prove2.me/theorems/d3ccd963-6ab4-4a7e-9490-45b905a7246a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.trace_formula_window_with_remainder
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:16:36.476177+00:00
 -- url     : https://prove2.me/submissions/fefbecd8-d380-4c8b-a8a3-b25ec5a43afd
 

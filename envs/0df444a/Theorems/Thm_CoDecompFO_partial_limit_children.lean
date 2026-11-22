@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_partial_limit_children
 -- name    : CoDecompFO.partial_limit_children
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:41.694208+00:00
 -- url     : https://prove2.me/theorems/eb0664ac-7e0a-40a1-879d-59fabfed4a1e

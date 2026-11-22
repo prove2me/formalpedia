@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_isFaithfulRound
 -- name    : Mpfx.RoundsFinite.isFaithfulRound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:43:15.309488+00:00
 -- url     : https://prove2.me/theorems/fa221be5-bb50-4550-941c-ecfd53af2a1d

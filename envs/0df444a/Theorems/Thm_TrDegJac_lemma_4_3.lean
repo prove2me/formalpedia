@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrDegJac_lemma_4_3
 -- name    : TrDegJac.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:35:56.765149+00:00
 -- url     : https://prove2.me/theorems/79ad2f66-200f-4af5-b9b4-99b34812d842

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_progressivelyMeasurable_mul_indIoc
 -- name    : LevyStochCalc.Brownian.Ito.progressivelyMeasurable_mul_indIoc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:57:53.990437+00:00
 -- url     : https://prove2.me/theorems/74ce991f-9573-4fea-af59-46191d6afdf8

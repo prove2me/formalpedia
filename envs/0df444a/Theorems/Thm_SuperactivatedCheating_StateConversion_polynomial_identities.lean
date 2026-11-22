@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperactivatedCheating_StateConversion_polynomial_identities
 -- name    : SuperactivatedCheating.StateConversion.polynomial_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:40:20.631195+00:00
 -- url     : https://prove2.me/theorems/77198f42-f797-4204-83bc-027e7068245b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloRH_weighted_log_line_convolution_riesz_vector_detected_by_theta_translates
 -- name    : MasulloRH.weighted_log_line_convolution_riesz_vector_detected_by_theta_translates
--- status  : Open
+-- status  : Proved
 -- author  : @Yi
 -- created : 2026-11-21T05:26:19.968685+00:00
 -- url     : https://prove2.me/theorems/c41ecb7a-f625-45ce-899f-5ddd57671c4a

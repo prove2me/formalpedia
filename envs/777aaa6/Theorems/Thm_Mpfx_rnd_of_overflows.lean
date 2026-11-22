@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rnd_of_overflows
 -- name    : Mpfx.rnd_of_overflows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:56:45.750367+00:00
 -- url     : https://prove2.me/theorems/b80bd9fb-90ee-4e3a-aea8-8c472e168aab

@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Kourovka.MetabelianEnumeration.EpimorphismEnumeration.kourovka_17_124_via_epimorphisms
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-21T08:41:23.38226+00:00
+-- url     : https://prove2.me/submissions/0ea7aaf5-6b2d-4437-b02b-18d6741d61ca
+
+import Definitions.Def_Kourovka_Certificates_EpimorphismSemantics
+import Definitions.Def_Kourovka_Enumeration_EnumerationCofinality
+import Definitions.Def_Kourovka_Covers_ComputableCoverSemantics
+import Definitions.Def_Kourovka_Covers_ComputableCoverBounds
+import Definitions.Def_Kourovka_Enumeration_EpimorphismEnumeration
+import Theorems.Thm_Kourovka_MetabelianEnumeration_EpimorphismEnumeration_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_EpimorphismEnumeration_check_correct
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableClosure_check_correct
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableClosure_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableCoverData_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableEnumeration_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableFourierMotzkin_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FourierMotzkin_check_correct
+import Theorems.Thm_Kourovka_MetabelianEnumeration_completion_of_certificates
+
+
+set_option autoImplicit true
+set_option autoImplicit false
+open Kourovka Kourovka.MetabelianEnumeration Kourovka.MetabelianEnumeration.EpimorphismEnumeration
+namespace Kourovka.MetabelianEnumeration.EpimorphismEnumeration
+theorem _root_.solution : MainClaim :=
+  completion_of_certificates check check_primrec.to_comp check_correct
+end Kourovka.MetabelianEnumeration.EpimorphismEnumeration

@@ -68275,7 +68275,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P13.shadow_operator_inequality", "child": "QAlgorithms_Papers_Independent_Extend50_P13", "via": ["statement"]}
 {"parent": "OAIQ081S021", "child": "SubexponentialSAT", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P20.exactFockAction", "child": "QAlgorithms_Papers_Independent_Advance50_P20", "via": ["statement"]}
-{"parent": "HellingerSubadd.lemmaA5_hellingerSq_le_klDiv", "child": "HellingerSubadd_hellingerSq", "via": ["statement"]}
+{"parent": "HellingerSubadd.lemmaA5_hellingerSq_le_klDiv", "child": "HellingerSubadd_hellingerSq", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P09.unconstrained_haar", "child": "QAlgorithms_Papers_Independent_Extend50_P09", "via": ["statement"]}
 {"parent": "WinterExtrinsic_povmPow", "child": "QAlgorithms_Papers_Independent_Renew46_P43", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P41.definition4_attainment", "child": "QAlgorithms_Papers_Independent_Advance50_P41", "via": ["statement"]}
@@ -73604,7 +73604,7 @@
 {"parent": "AvramDividend.Classical.avram_root29_05_actual_stieltjes_le_killed_record_grid_sup", "child": "AvramDividend.Classical.avram_root29_05_killed_mesh_fatou_lower_integral", "via": ["solution", "statement"]}
 {"parent": "finite_graph_family_has_edgeSet_maximal__p2m_589dfbf2_6752_446d_86dd_1ad54b42e363_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P46.lemmaD_8", "child": "QAlgorithms_Papers_Independent_Extend50_P46", "via": ["statement"]}
-{"parent": "HellingerSubadd.lemmaA10_klDiv_le", "child": "HellingerSubadd_hellingerSq", "via": ["statement"]}
+{"parent": "HellingerSubadd.lemmaA10_klDiv_le", "child": "HellingerSubadd_hellingerSq", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P28.conditional_iid_constructive", "child": "QAlgorithms_Papers_Independent_Advance50_P28", "via": ["statement"]}
 {"parent": "StochLinOpt_ConfBall2_width", "child": "StochLinOpt_ConfBall2_gram", "via": ["statement"]}
 {"parent": "BitcoinSelfishMining.balance_one", "child": "BitcoinSelfishMining", "via": ["solution", "statement"]}
@@ -91976,7 +91976,7 @@
 {"parent": "UnbiasedTimeAvg.theorem_3_2_unbiased_work_normalized_variance", "child": "UnbiasedTimeAvg_levelProb", "via": ["statement"]}
 {"parent": "UnbiasedTimeAvg.theorem_3_2_unbiased_work_normalized_variance", "child": "UnbiasedTimeAvg_coinProb", "via": ["statement"]}
 {"parent": "UnbiasedTimeAvg.theorem_3_2_unbiased_work_normalized_variance", "child": "UnbiasedTimeAvg_singleTermEstimator", "via": ["statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.admissibleSeries", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.admissibleSeries", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["solution", "statement"]}
 {"parent": "MFCLiquidation.eq_3_1_eq_3_2", "child": "MFCLiquidation_Params", "via": ["statement"]}
 {"parent": "MFCLiquidation.eq_3_1_eq_3_2", "child": "MFCLiquidation_Riccati", "via": ["statement"]}
 {"parent": "PCLAssort.lemma_7_zero_on_Nz", "child": "PCLAssort_IsLPzOptimal", "via": ["statement"]}
@@ -94047,7 +94047,7 @@
 {"parent": "OAIQ29C0002", "child": "SharpCAT0Filling", "via": ["statement"]}
 {"parent": "OAIQ29C0002", "child": "OAIQ29C0001", "via": ["statement"]}
 {"parent": "OAIQ29C0002", "child": "OAIQ29C0000", "via": ["statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.oddCompression", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.oddCompression", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["solution", "statement"]}
 {"parent": "OAI.CycleClique.finite_patterns_7_3", "child": "OAIQ107D007", "via": ["statement"]}
 {"parent": "OAI.CycleClique.finite_patterns_7_3", "child": "OAIQ107D000", "via": ["statement"]}
 {"parent": "MultiServerAppt_overtime", "child": "MultiServerAppt_M", "via": ["statement"]}
@@ -96889,7 +96889,7 @@
 {"parent": "TestScoreSubmod.marginal_bound", "child": "TestScoreSubmod_IsSymmetricValue", "via": ["statement"]}
 {"parent": "TestScoreSubmod.marginal_bound", "child": "TestScoreSubmod_repScore", "via": ["statement"]}
 {"parent": "ParallelServerStab_StableNI", "child": "ProcessingNetworks_Stability_StabilityConditions", "via": ["statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.affineStar", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.affineStar", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P11.variablePhaseTeleportation_universal", "child": "QAlgorithms_Papers_Independent_Intake100_P11", "via": ["statement"]}
 {"parent": "OAIQ023F007", "child": "OAIQ023F000", "via": ["statement"]}
 {"parent": "OAIQ023F007", "child": "OAIQ023F001", "via": ["statement"]}
@@ -99856,7 +99856,7 @@
 {"parent": "CongruencyTU.theorem_52", "child": "CongruencyTU_Machine", "via": ["statement"]}
 {"parent": "CombOpt_MatroidIntersection_auxArc", "child": "CombOpt_MatroidIntersection_Matroid", "via": ["statement"]}
 {"parent": "CombOpt_MatroidIntersection_auxArc", "child": "CombOpt_MatroidIntersection_AuxNode", "via": ["statement"]}
-{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.evenCompression", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["statement"]}
+{"parent": "QAlgorithms.Papers.Independent.Intake100.P65.evenCompression", "child": "QAlgorithms_Papers_Independent_Intake100_P65", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P07.conditional_ordering_and_endpoints", "child": "QAlgorithms_Papers_Independent_Intakenext100_P07", "via": ["statement"]}
 {"parent": "SeqExpDiffusion.eq_16", "child": "SeqExpDiffusion_contValue", "via": ["statement"]}
 {"parent": "SeqExpDiffusion.eq_16", "child": "SeqExpDiffusion_gammaOf", "via": ["statement"]}

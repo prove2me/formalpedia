@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_abs_le_of_nearest_of_abs_lt_mid
 -- name    : Mpfx.abs_le_of_nearest_of_abs_lt_mid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:53:25.797971+00:00
 -- url     : https://prove2.me/theorems/5d333271-f2cf-4fbc-8bc4-c7fe571291b1

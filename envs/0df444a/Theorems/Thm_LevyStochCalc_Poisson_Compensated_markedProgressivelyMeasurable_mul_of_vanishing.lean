@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_markedProgressivelyMeasurable_mul_of_vanishing
 -- name    : LevyStochCalc.Poisson.Compensated.markedProgressivelyMeasurable_mul_of_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:41:37.795546+00:00
 -- url     : https://prove2.me/theorems/05fd4dfa-0ae2-4908-ae26-6cd3d2e6547f

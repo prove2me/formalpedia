@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_stopped_eq_sub_sum
 -- name    : LevyStochCalc.Brownian.Ito.stopped_eq_sub_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:03:48.774647+00:00
 -- url     : https://prove2.me/theorems/75083494-584d-4de2-884b-8717bddafc23

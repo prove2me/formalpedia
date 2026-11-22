@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicSurface27_blowup_intersection_form
 -- name    : CubicSurface27.blowup_intersection_form
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T13:50:55.225984+00:00
 -- url     : https://prove2.me/theorems/9a87e735-7053-4a7c-9732-a7ba5b896ead

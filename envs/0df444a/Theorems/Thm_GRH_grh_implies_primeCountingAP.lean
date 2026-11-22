@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GRH_grh_implies_primeCountingAP
 -- name    : GRH.grh_implies_primeCountingAP
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T17:51:10.494383+00:00
 -- url     : https://prove2.me/theorems/45677104-5a7e-42c5-a05c-0b8ca6f135ac

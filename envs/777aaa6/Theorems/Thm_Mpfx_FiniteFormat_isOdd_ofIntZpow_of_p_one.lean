@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isOdd_ofIntZpow_of_p_one
 -- name    : Mpfx.FiniteFormat.isOdd_ofIntZpow_of_p_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:22.924113+00:00
 -- url     : https://prove2.me/theorems/1affb0c5-5135-4397-996e-465ad394fa70

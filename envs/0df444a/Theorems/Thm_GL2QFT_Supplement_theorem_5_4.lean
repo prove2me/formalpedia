@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Supplement_theorem_5_4
 -- name    : GL2QFT.Supplement.theorem_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T01:42:41.924349+00:00
 -- url     : https://prove2.me/theorems/df3bc207-0459-4eed-a8f6-54091bd20ea2

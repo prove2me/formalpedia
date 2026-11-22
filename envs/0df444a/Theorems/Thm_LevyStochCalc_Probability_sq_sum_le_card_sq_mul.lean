@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_sq_sum_le_card_sq_mul
 -- name    : LevyStochCalc.Probability.sq_sum_le_card_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T14:57:53.949184+00:00
 -- url     : https://prove2.me/theorems/98335f39-feb4-45c7-b26d-677a93c992bc

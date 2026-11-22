@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_split_orbital_traces_eq_weil_local_term
 -- name    : MasulloAudit.split_orbital_traces_eq_weil_local_term
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:32:19.444174+00:00
 -- url     : https://prove2.me/theorems/12d45dae-ecd0-474f-9165-0a7641ddd81c
 -- title:

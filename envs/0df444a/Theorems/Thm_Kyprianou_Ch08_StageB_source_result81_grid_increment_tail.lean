@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_grid_increment_tail
 -- name    : Kyprianou.Ch08.StageB.source_result81_grid_increment_tail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:58:54.62512+00:00
 -- url     : https://prove2.me/theorems/fd810259-f45c-40a9-888d-281dee17979f

@@ -19247,7 +19247,7 @@
 {"parent": "QueryMachines.stBindRuns", "child": "QueryMachines_CombRunsStatement", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.stBindRuns", "child": "QueryMachines_Runs", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.stBindRuns", "child": "QueryMachines_CombRuns", "via": ["solution", "statement"]}
-{"parent": "HardyFLocal.eq20_two_qubit_expansion", "child": "HardyFLocal_FiducialFamily", "via": ["statement"]}
+{"parent": "HardyFLocal.eq20_two_qubit_expansion", "child": "HardyFLocal_FiducialFamily", "via": ["solution", "statement"]}
 {"parent": "HardyFLocal.eq20_two_qubit_expansion", "child": "HardyFLocal_Superoperator", "via": ["statement"]}
 {"parent": "FiniteEnergyPlane.loopAction_cwLoop_eq_neg_ccwLoop", "child": "FiniteEnergyPlane_Setting", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.stMapInRuns", "child": "QueryMachines_CombRunsStatement", "via": ["solution", "statement"]}
@@ -35167,7 +35167,7 @@
 {"parent": "PaddedDescent.F.Mark.Size.adm_iff", "child": "Groundwork.PolyT.map", "via": ["solution", "statement"]}
 {"parent": "PaddedDescent.F.Mark.Size.adm_iff", "child": "PaddedDescent_F_Interfaces", "via": ["solution", "statement"]}
 {"parent": "HardyFLocal.clumping_respects_f_locality", "child": "HardyFLocal_Instrument", "via": ["statement"]}
-{"parent": "HardyFLocal.clumping_respects_f_locality", "child": "HardyFLocal_ClumpCausaloid", "via": ["statement"]}
+{"parent": "HardyFLocal.clumping_respects_f_locality", "child": "HardyFLocal_ClumpCausaloid", "via": ["solution", "statement"]}
 {"parent": "HardyFLocal.clumping_respects_f_locality", "child": "HardyCausaloid_Conditional", "via": ["statement"]}
 {"parent": "HardyFLocal.clumping_respects_f_locality", "child": "HardyCausaloid_Causaloid", "via": ["statement"]}
 {"parent": "HardyFLocal.clumping_respects_f_locality", "child": "HardyCausaloid_Model", "via": ["statement"]}
@@ -53855,7 +53855,7 @@
 {"parent": "GeneralPieces.GenF.JmU_C_mul_X", "child": "GeneralPieces_GenF_Products", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.JmU_C_mul_X", "child": "GeneralPieces_GenF_Commute", "via": ["solution", "statement"]}
 {"parent": "GeneralPieces.GenF.JmU_C_mul_X", "child": "GeneralPieces_GenF_Bra", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_hit_of_tendsto_orbit", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_hit_of_tendsto_orbit", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_negative_band_factorial_pair_identity", "child": "AvramDividend.Classical.avram_wave7_06_original_negative_band_count_eq_finite_marked_time_card", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_negative_band_factorial_pair_identity", "child": "AvramDividend.Classical.avram_wave7_06_original_negative_band_marked_times_finite", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_f_assembly_original_negative_band_factorial_pair_identity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -54611,7 +54611,7 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.Geodesic.principalField_differentiableAt", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_ScalarCertificate", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.Geodesic.principalField_differentiableAt", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_CompactifiedResiduals", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.Geodesic.principalField_differentiableAt", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_MaxwellFrame", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_contDiff_rotation_gauge", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_contDiff_rotation_gauge", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalEntropyRates.actual_prime_rate", "child": "Submission_ThreeSum_TernaryTypeCardinality", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalEntropyRates.actual_prime_rate", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryCoverScale", "via": ["solution", "statement"]}
 {"parent": "WeightedCache3SUMRefinement_e1ae71d.ThreeSum.WeightedGlobalEntropyRates.actual_prime_rate", "child": "WeightedCache3SUMRefinement_e1ae71d_Submission_Weighted_Global_TernaryEntropyRates", "via": ["solution", "statement"]}
@@ -59724,7 +59724,7 @@
 {"parent": "ThmVariables.numberBetween_cut", "child": "ThmVariables_Bound", "via": ["solution", "statement"]}
 {"parent": "ThmVariables.numberBetween_cut", "child": "ToTuring_Lib_Nat1", "via": ["solution", "statement"]}
 {"parent": "HardyFLocal.symmetry_determines_causaloid", "child": "HardyFLocal_Instrument", "via": ["statement"]}
-{"parent": "HardyFLocal.symmetry_determines_causaloid", "child": "HardyFLocal_ClumpCausaloid", "via": ["statement"]}
+{"parent": "HardyFLocal.symmetry_determines_causaloid", "child": "HardyFLocal_ClumpCausaloid", "via": ["solution", "statement"]}
 {"parent": "HardyFLocal.symmetry_determines_causaloid", "child": "HardyCausaloid_Conditional", "via": ["statement"]}
 {"parent": "HardyFLocal.symmetry_determines_causaloid", "child": "HardyCausaloid_Causaloid", "via": ["statement"]}
 {"parent": "HardyFLocal.symmetry_determines_causaloid", "child": "HardyCausaloid_Model", "via": ["statement"]}
@@ -68027,7 +68027,7 @@
 {"parent": "Wrap.Arith.rate_nonneg", "child": "Wrap_ArithRate", "via": ["solution", "statement"]}
 {"parent": "Wrap.Arith.rate_nonneg", "child": "VariableBound_Paper_Arith", "via": ["solution", "statement"]}
 {"parent": "Wrap.Arith.rate_nonneg", "child": "MainTheoremFormsStatement", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.eq_comp_rotation_of_mem_embeddedFastPlaneSet", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.eq_comp_rotation_of_mem_embeddedFastPlaneSet", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.stCertWalkS", "child": "CountKSat_Poly", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.stCertWalkS", "child": "PaddedDescent_F_CertNet", "via": ["solution", "statement"]}
 {"parent": "CountKSatRate.stCertWalkS", "child": "CountKSat_InOut", "via": ["solution", "statement"]}
@@ -69794,8 +69794,8 @@
 {"parent": "TenChallenges_Challenge_03", "child": "TenChallenges_CaccettaHaggkvist", "via": ["statement"]}
 {"parent": "StrongConv.norm_expTr_sub_trTau_le", "child": "StrongConv", "via": ["solution", "statement"]}
 {"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyFLocal_Instrument", "via": ["statement"]}
-{"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyFLocal_ClumpCausaloid", "via": ["statement"]}
-{"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyCausaloid_Conditional", "via": ["statement"]}
+{"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyFLocal_ClumpCausaloid", "via": ["solution", "statement"]}
+{"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyCausaloid_Conditional", "via": ["solution", "statement"]}
 {"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyCausaloid_Causaloid", "via": ["statement"]}
 {"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyCausaloid_Model", "via": ["statement"]}
 {"parent": "HardyFLocal.clumped_causaloid_specifies_qubits", "child": "HardyFLocal_Superoperator", "via": ["statement"]}

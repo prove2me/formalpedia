@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.bounded_biorthogonal_system_unbounded_functionals
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:02:58.456444+00:00
 -- url     : https://prove2.me/submissions/3ce65a7c-0962-47c3-9a02-fe11ce2af3b8
 

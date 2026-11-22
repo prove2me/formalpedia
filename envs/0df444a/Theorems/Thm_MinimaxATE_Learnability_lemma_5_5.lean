@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxATE_Learnability_lemma_5_5
 -- name    : MinimaxATE.Learnability.lemma_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T05:00:18.58507+00:00
 -- url     : https://prove2.me/theorems/e08544c1-f393-4c97-9602-56e7322ad7c9

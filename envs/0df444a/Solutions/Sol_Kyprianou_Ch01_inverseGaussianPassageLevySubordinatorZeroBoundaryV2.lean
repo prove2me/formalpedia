@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.inverseGaussianPassageLevySubordinatorZeroBoundaryV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-19T07:29:57.500109+00:00
 -- url     : https://prove2.me/submissions/49ca702a-4e9d-455d-8547-2c6e2de63883
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch01_inverseGaussianFirstUpperPassageAlmostSureFinitePublic
 import Theorems.Thm_Kyprianou_Ch01_inverseGaussianFirstPassageZeroBoundaryIsLevyProcessPublic

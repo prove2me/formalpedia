@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodSparsify_lemma_3_3
 -- name    : SubmodSparsify.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:22:21.528773+00:00
 -- url     : https://prove2.me/theorems/ffbb3cd4-d2a2-4d83-b1b9-e3ced06f32ba

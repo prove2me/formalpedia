@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_MaxFun_dirac_average_bound
 -- name    : OTSensitivity.MaxFun.dirac_average_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:30.43009+00:00
 -- url     : https://prove2.me/theorems/beb758a1-b104-4cd9-adae-e7e3acd04505

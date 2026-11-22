@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_tendsto_lintegral_nnnorm_sq_of_eLpNorm
 -- name    : LevyStochCalc.Brownian.Ito.tendsto_lintegral_nnnorm_sq_of_eLpNorm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:37:36.636191+00:00
 -- url     : https://prove2.me/theorems/26f3b8af-4292-46a5-8497-eb4b6651d0dc

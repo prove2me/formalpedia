@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_eq_zero_of_zero
 -- name    : Mpfx.RoundsFinite.eq_zero_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:43:54.419268+00:00
 -- url     : https://prove2.me/theorems/80742541-95ea-4217-951f-ff289482ccbf

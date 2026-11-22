@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_one_sided_regular_windows_iff_RH
 -- name    : MasulloAudit.one_sided_regular_windows_iff_RH
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T01:00:33.631689+00:00
 -- url     : https://prove2.me/theorems/8d3fc109-c15a-4c22-af08-1ee5c8587c68
 -- title:

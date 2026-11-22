@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.trace_formula_rational_fixed_window_iff
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:24:31.044779+00:00
 -- url     : https://prove2.me/submissions/3ac31a14-56db-4d3d-877a-255dcded643f
 

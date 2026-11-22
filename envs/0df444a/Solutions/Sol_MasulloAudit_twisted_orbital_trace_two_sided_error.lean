@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.twisted_orbital_trace_two_sided_error
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:48:42.852161+00:00
 -- url     : https://prove2.me/submissions/e90369b0-a554-4382-b90f-b35484af8601
 

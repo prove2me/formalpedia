@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_isOdd_neighbor_iff
 -- name    : Mpfx.isOdd_neighbor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:44:58.669748+00:00
 -- url     : https://prove2.me/theorems/e1b6a583-a846-428d-b77f-28e7eb9ac4ba

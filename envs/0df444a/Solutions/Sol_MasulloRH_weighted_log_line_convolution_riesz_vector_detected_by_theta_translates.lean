@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MasulloRH.weighted_log_line_convolution_riesz_vector_detected_by_theta_translates
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Yi
 -- created : 2026-11-21T05:26:57.489349+00:00
 -- url     : https://prove2.me/submissions/30e1d950-bfa6-4666-90f2-e7bc91ea7b0f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_MasulloRH_log_band_weight_convolution_finite_difference_L2
 import Theorems.Thm_MasulloRH_rapid_packet_translate_orthogonality_with_L2_differences

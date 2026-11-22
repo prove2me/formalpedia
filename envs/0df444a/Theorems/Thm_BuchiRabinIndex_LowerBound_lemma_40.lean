@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_lemma_40
 -- name    : BuchiRabinIndex.LowerBound.lemma_40
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T06:34:43.1392+00:00
 -- url     : https://prove2.me/theorems/43eed60e-46e1-4f54-9598-4a65d1a79412

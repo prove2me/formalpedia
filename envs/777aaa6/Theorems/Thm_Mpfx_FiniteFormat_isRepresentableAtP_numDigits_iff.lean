@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isRepresentableAtP_numDigits_iff
 -- name    : Mpfx.FiniteFormat.isRepresentableAtP_numDigits_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:16.36521+00:00
 -- url     : https://prove2.me/theorems/fb8e094f-3440-4a1e-9af5-af829dab2179

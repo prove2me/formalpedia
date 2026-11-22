@@ -2412,7 +2412,7 @@
 {"parent": "RobustKellyTV_kl", "child": "RobustKellyTV_Setting", "via": ["statement"]}
 {"parent": "BalancedKneser.lemma_3_3", "child": "BalancedKneser_KG", "via": ["statement"]}
 {"parent": "BalancedKneser.lemma_3_3", "child": "BalancedKneser_pentagonLabelSets", "via": ["statement"]}
-{"parent": "CoDecompFO.lemma_5_81", "child": "CoDecompFO_HTh", "via": ["statement"]}
+{"parent": "CoDecompFO.lemma_5_81", "child": "CoDecompFO_HTh", "via": ["solution", "statement"]}
 {"parent": "EulerianLE.lemma_4", "child": "EulerianLE_SameCircuit", "via": ["statement"]}
 {"parent": "QEC.Coding.DistanceBalancing.transpose_sourceBoundary1_projectedSourceCochainFilling", "child": "QEC_Coding_ChainComplex_Duality", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancing.transpose_sourceBoundary1_projectedSourceCochainFilling", "child": "QEC_Coding_CodeReduction_Classical_Distance", "via": ["solution", "statement"]}
@@ -3665,7 +3665,7 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalDilatedAtScaledCuspRational", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerQExpansion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalDilatedAtScaledCuspRational", "child": "QEC_Coding_ExpanderCodes_LPSOriginalExactFunctionFieldDegree", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalDilatedAtScaledCuspRational", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerModularEquation", "via": ["solution", "statement"]}
-{"parent": "BFAlmostLinear.lemma_4_16", "child": "BFAlmostLinear_WGraph_I1", "via": ["statement"]}
+{"parent": "BFAlmostLinear.lemma_4_16", "child": "BFAlmostLinear_WGraph_I1", "via": ["solution", "statement"]}
 {"parent": "OnlineBudgetAlloc.lemma_8", "child": "OnlineBudgetAlloc_inputD", "via": ["statement"]}
 {"parent": "OnlineBudgetAlloc.lemma_8", "child": "OnlineBudgetAlloc_Fpot", "via": ["statement"]}
 {"parent": "OnlineBudgetAlloc.lemma_8", "child": "OnlineBudgetAlloc_deltaMid", "via": ["statement"]}
@@ -5416,7 +5416,7 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalGeneratedFunctionFieldQ_relfinrank_filledFibre", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerModularEquation", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteSieveOperator.operator_sum", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_FiniteOperator", "via": ["solution", "statement"]}
 {"parent": "OAI.FiniteSieveOperator.operator_sum", "child": "OAI_NumberTheory_DirichletL_Arithmetic_SquarefreeDivisors", "via": ["solution", "statement"]}
-{"parent": "QubitFreqSensing.fact_5_5", "child": "QubitFreqSensing_Mobius", "via": ["statement"]}
+{"parent": "QubitFreqSensing.fact_5_5", "child": "QubitFreqSensing_Mobius", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.restrict_primalMembrane_vector_eq_prefix", "child": "QEC_Coding_Stabilizer_TwoDimensional_StripLogicalPath", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.restrict_primalMembrane_vector_eq_prefix", "child": "QEC_Coding_FourDimensionalToricCode_MembraneSweep", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.restrict_primalMembrane_vector_eq_prefix", "child": "QEC_Coding_FourDimensionalToricCode_MembraneSyndrome", "via": ["solution", "statement"]}
@@ -7725,7 +7725,7 @@
 {"parent": "PunctSketch.theorem_6", "child": "PunctSketch_coinProb", "via": ["statement"]}
 {"parent": "LinSysAmp.lemma_4_5_spectral", "child": "LinSysAmp_MarkovNotions", "via": ["statement"]}
 {"parent": "LinSysAmp.lemma_4_5_spectral", "child": "LinSysAmp_rankUpdate", "via": ["statement"]}
-{"parent": "CoDecompFO.partial_limit_children", "child": "CoDecompFO_Lim", "via": ["statement"]}
+{"parent": "CoDecompFO.partial_limit_children", "child": "CoDecompFO_Lim", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis_Bridge_Fourier", "child": "AaronsonAmbainis_Bridge_Basic", "via": ["statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.prefix_formula", "child": "QEC_Locality_Graph_WeightedConnectedSetMass", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.WeightedConnectedSetMass.prefix_formula", "child": "QEC_Locality_Graph_ConnectedSetCounting", "via": ["solution", "statement"]}
@@ -12155,8 +12155,8 @@
 {"parent": "OWFLocalDesc.lemma_3_3", "child": "OWFLocalDesc_IsCodingHeader", "via": ["statement"]}
 {"parent": "OWFLocalDesc.lemma_3_3", "child": "OWFLocalDesc_pSC", "via": ["statement"]}
 {"parent": "OWFLocalDesc.lemma_3_3", "child": "OWFLocalDesc_datasetMass", "via": ["statement"]}
-{"parent": "SubmodSparsify.lemma_3_3", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "SubmodSparsify.lemma_3_3", "child": "SubmodSparsify_blockMinCut", "via": ["statement"]}
+{"parent": "SubmodSparsify.lemma_3_3", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
+{"parent": "SubmodSparsify.lemma_3_3", "child": "SubmodSparsify_blockMinCut", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Part11", "child": "QEC_Coding_QuditQubitConversion_AppendixANF_Cubic_Data", "via": ["statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.framePath_stateAt", "child": "QEC_Coding_FourDimensionalToricCode_EnergyBarrierLowerBound", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.PeriodicCubical4.framePath_stateAt", "child": "QEC_Coding_FourDimensionalToricCode_CoordinateSymmetry", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rnd_lt_mid
 -- name    : Mpfx.rnd_lt_mid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:53:26.831287+00:00
 -- url     : https://prove2.me/theorems/45026e1a-29f9-40ad-9f53-5b2068bf03b5

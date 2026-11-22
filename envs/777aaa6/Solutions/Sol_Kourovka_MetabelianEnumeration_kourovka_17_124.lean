@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Kourovka.MetabelianEnumeration.kourovka_17_124
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-21T08:40:00.575638+00:00
+-- url     : https://prove2.me/submissions/1d4d806b-56e4-49f4-974f-8c999be97486
+
+import Definitions.Def_Kourovka_Enumeration_EnumerationCofinality
+import Definitions.Def_Kourovka_Covers_ComputableCoverSemantics
+import Definitions.Def_Kourovka_Covers_ComputableCoverBounds
+import Definitions.Def_Kourovka_Enumeration_EnumerationCorrectness
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableEnumeration_check_correct
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableClosure_check_correct
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableClosure_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableCoverData_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableEnumeration_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableFourierMotzkin_check_primrec
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FourierMotzkin_check_correct
+import Theorems.Thm_Kourovka_MetabelianEnumeration_completion_of_certificates
+
+
+set_option autoImplicit true
+set_option autoImplicit false
+open Kourovka Kourovka.MetabelianEnumeration
+namespace Kourovka.MetabelianEnumeration
+theorem _root_.solution : MainClaim :=
+  completion_of_certificates ComputableEnumeration.check
+    ComputableEnumeration.check_primrec.to_comp ComputableEnumeration.check_correct
+end Kourovka.MetabelianEnumeration

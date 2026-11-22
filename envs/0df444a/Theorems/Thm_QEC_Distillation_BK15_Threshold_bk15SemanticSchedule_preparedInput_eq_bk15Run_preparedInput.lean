@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15SemanticSchedule_preparedInput_eq_bk15Run_preparedInput
 -- name    : QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_preparedInput_eq_bk15Run_preparedInput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:27:46.12623+00:00
 -- url     : https://prove2.me/theorems/65463361-c23d-4df5-a383-50a54dfaab0f

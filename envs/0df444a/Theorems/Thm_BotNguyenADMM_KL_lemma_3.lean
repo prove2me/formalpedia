@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BotNguyenADMM_KL_lemma_3
 -- name    : BotNguyenADMM.KL.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:06:05.747623+00:00
 -- url     : https://prove2.me/theorems/9bf29ca5-cbab-4891-97fc-470c38b441ef

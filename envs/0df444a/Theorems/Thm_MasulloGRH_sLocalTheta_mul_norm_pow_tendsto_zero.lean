@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_sLocalTheta_mul_norm_pow_tendsto_zero
 -- name    : MasulloGRH.sLocalTheta_mul_norm_pow_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:37:18.299185+00:00
 -- url     : https://prove2.me/theorems/99ae27be-8b98-425d-90dc-0bb32f69900a

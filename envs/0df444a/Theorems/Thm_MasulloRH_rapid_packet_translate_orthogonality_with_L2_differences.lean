@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloRH_rapid_packet_translate_orthogonality_with_L2_differences
 -- name    : MasulloRH.rapid_packet_translate_orthogonality_with_L2_differences
--- status  : Open
+-- status  : Proved
 -- author  : @Yi
 -- created : 2026-11-21T05:25:50.865179+00:00
 -- url     : https://prove2.me/theorems/3064777b-6aa8-4d2e-a191-e3685f5f985e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndUnbounded_satisfies_toOdd
 -- name    : Mpfx.rndUnbounded_satisfies_toOdd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:56:28.890535+00:00
 -- url     : https://prove2.me/theorems/da4aa30f-8f7b-461c-a571-afa7284e1985

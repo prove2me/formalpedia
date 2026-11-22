@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_avram_restart_payoff_factor
 -- name    : Kyprianou.Ch08.StageB.source_result81_avram_restart_payoff_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:47:59.143365+00:00
 -- url     : https://prove2.me/theorems/ec8b0c1f-b094-427a-8298-04f0c7b4a7d5

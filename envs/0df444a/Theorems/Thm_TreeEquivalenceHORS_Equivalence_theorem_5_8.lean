@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeEquivalenceHORS_Equivalence_theorem_5_8
 -- name    : TreeEquivalenceHORS.Equivalence.theorem_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:44:10.32197+00:00
 -- url     : https://prove2.me/theorems/977fa8be-9740-421a-988c-303020826d48

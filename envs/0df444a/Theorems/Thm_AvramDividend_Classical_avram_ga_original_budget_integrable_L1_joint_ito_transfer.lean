@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_original_budget_integrable_L1_joint_ito_transfer
 -- name    : AvramDividend.Classical.avram_ga_original_budget_integrable_L1_joint_ito_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:43:01.602212+00:00
 -- url     : https://prove2.me/theorems/bf3a79b8-7d05-4884-874c-4b39092beaf3

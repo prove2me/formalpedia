@@ -1,6 +1,6 @@
 -- Prove2me | solution 4 for MasulloRH.narrow_window_omitted_zero_sum
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:37:03.765694+00:00
 -- url     : https://prove2.me/submissions/3b385c19-453d-45f4-b41d-f9003a6428c6
 -- note    : a sketch -- it imports a theorem that is still Open,

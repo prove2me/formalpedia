@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P65_affineStar
 -- name    : QAlgorithms.Papers.Independent.Intake100.P65.affineStar
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:12:52.709065+00:00
 -- url     : https://prove2.me/theorems/a506d4e8-7ac0-4ffc-ad9d-cc66c7321fa4

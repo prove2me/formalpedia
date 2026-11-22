@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_unique_nearest
 -- name    : Mpfx.RoundsFinite.unique_nearest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:56:12.504033+00:00
 -- url     : https://prove2.me/theorems/6cb465ee-6077-4c8b-8675-a3623e72c794

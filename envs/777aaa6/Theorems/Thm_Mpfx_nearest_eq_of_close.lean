@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_nearest_eq_of_close
 -- name    : Mpfx.nearest_eq_of_close
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:34.953833+00:00
 -- url     : https://prove2.me/theorems/738b38f3-7d86-4f7c-8dce-5cbe4d3e6862

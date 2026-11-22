@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_uniform_raw_repetitions
 -- name    : InfoLossLAR.WorstCase.RegevSearch.uniform_raw_repetitions
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-20T14:06:32.884798+00:00
 -- url     : https://prove2.me/theorems/6e621048-2508-4d8e-b525-8549c3901fc0

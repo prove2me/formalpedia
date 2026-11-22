@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRAZ_RAZ_agree
 -- name    : Mpfx.roundsRAZ_RAZ_agree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:43.004402+00:00
 -- url     : https://prove2.me/theorems/38192abf-1e69-4a7c-a6d1-85dca1685769

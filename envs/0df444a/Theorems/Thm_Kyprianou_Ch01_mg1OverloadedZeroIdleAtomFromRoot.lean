@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1OverloadedZeroIdleAtomFromRoot
 -- name    : Kyprianou.Ch01.mg1OverloadedZeroIdleAtomFromRoot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:34:00.42689+00:00
 -- url     : https://prove2.me/theorems/d3e4da4f-8cce-4d25-8739-c132ef6f690e

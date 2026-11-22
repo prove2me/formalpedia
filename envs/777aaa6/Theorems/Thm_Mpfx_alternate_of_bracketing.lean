@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_alternate_of_bracketing
 -- name    : Mpfx.alternate_of_bracketing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:51:43.585762+00:00
 -- url     : https://prove2.me/theorems/f178707d-c1c0-415c-920c-34d55228b747

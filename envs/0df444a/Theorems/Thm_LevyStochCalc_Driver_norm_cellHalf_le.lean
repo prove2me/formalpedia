@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Driver_norm_cellHalf_le
 -- name    : LevyStochCalc.Driver.norm_cellHalf_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:20:39.509619+00:00
 -- url     : https://prove2.me/theorems/02b42599-0781-4c74-ae52-7151c6378e6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_toNegative_iff_awayZero_of_nonpos
 -- name    : Mpfx.RoundsFinite.toNegative_iff_awayZero_of_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:43:57.349168+00:00
 -- url     : https://prove2.me/theorems/c6570e8b-c5de-4f39-9907-ed7d6cab91d7

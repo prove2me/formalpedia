@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.mg1IdleOverloaded
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T23:21:58.537751+00:00
 -- url     : https://prove2.me/submissions/b1f563b1-ec8a-4889-948b-598d8ce96e10
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LeanLevy_Processes_CompoundPoisson
 import Mathlib

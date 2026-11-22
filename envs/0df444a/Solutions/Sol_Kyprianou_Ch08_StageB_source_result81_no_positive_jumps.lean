@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.source_result81_no_positive_jumps
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-20T20:37:52.313773+00:00
 -- url     : https://prove2.me/submissions/03e102ad-8ce8-4688-aa31-39407cfe69b3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_law_positive_mgf

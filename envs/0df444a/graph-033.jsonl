@@ -88602,8 +88602,8 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_442", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_201", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_201", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_dephased_eq_nextResource", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_dephased_eq_nextResource", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_dephased_eq_nextResource", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_dephased_eq_nextResource", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_E_topcap_original_physical_gaussian_small_large_signed_ito_source_infinite_activity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_E_topcap_original_physical_gaussian_small_large_signed_ito_source_infinite_activity", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0364", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
@@ -89931,8 +89931,8 @@
 {"parent": "DeletionCode.HeaderRecovery.lengthen_seed_correct", "child": "DeletionCode_Windows", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0051", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0051", "child": "RealPinwheel_FiveSixths_CodeFunctionD8", "via": ["statement"]}
-{"parent": "GRH.grh_implies_primeCountingAP", "child": "LandauFunction_logIntegral", "via": ["statement"]}
-{"parent": "GRH.grh_implies_primeCountingAP", "child": "GRH_Defs", "via": ["statement"]}
+{"parent": "GRH.grh_implies_primeCountingAP", "child": "LandauFunction_logIntegral", "via": ["solution", "statement"]}
+{"parent": "GRH.grh_implies_primeCountingAP", "child": "GRH_Defs", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0704", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0704", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0089", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
@@ -91180,8 +91180,8 @@
 {"parent": "AvramDividend.Classical.avram_ja18_original_finite_range_positive_clock_fullmark_signed_ito_cash_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18_original_finite_range_positive_clock_fullmark_signed_ito_cash_budget", "child": "AvramDividend.Classical.avram_ja18_original_finite_range_fullmark_signed_ito_initial_event_budget", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18_original_finite_range_positive_clock_fullmark_signed_ito_cash_budget", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15HInput_actualAccepted_error", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15HInput_actualAccepted_error", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15HInput_actualAccepted_error", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15HInput_actualAccepted_error", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1247", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1247", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_198", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
@@ -91698,8 +91698,8 @@
 {"parent": "QEC.Distillation.BK15.Threshold.epsilonStar_rational_bracket", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.balance_kronecker_pos_or_transpose", "child": "UniversalTensorSquares", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.balance_kronecker_pos_or_transpose", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_error_eq_iteration_succ", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_error_eq_iteration_succ", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_error_eq_iteration_succ", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_error_eq_iteration_succ", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1130", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1130", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0423", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
@@ -92598,8 +92598,8 @@
 {"parent": "APSCounting893.Main.stack_function_polynomial_simulation", "child": "APSCounting893_Main_OracleProofPrimitives", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D8_221", "child": "RealPinwheel_FiveSixths_WitnessD8_221", "via": ["solution", "statement"]}
 {"parent": "RPLib_S4_CDPack34", "child": "RPLib_S4_CDPack26", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Recurrence.bk15_acceptedOutputError_closed_form", "child": "QEC_Distillation_FifteenQubitH_Protocol", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Recurrence.bk15_acceptedOutputError_closed_form", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Recurrence.bk15_acceptedOutputError_closed_form", "child": "QEC_Distillation_FifteenQubitH_Protocol", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Recurrence.bk15_acceptedOutputError_closed_form", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.DescriptionCount.description_card", "child": "DeletionCode_DescriptionCount", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubblePathSimplicity.insertion_vertices_injective", "child": "DeletionCode_BubblePathSimplicity", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubblePathSimplicity.insertion_vertices_injective", "child": "DeletionCode_EditRigidity", "via": ["solution", "statement"]}
@@ -93472,8 +93472,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0944", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0279", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0279", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_rootInput_eq_bk15Run_noisyInput", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_rootInput_eq_bk15Run_noisyInput", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_rootInput_eq_bk15Run_noisyInput", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_rootInput_eq_bk15Run_noisyInput", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1079", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1079", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.NoisyInput.aBasisProjector_positive_eq_aZeroDensity_toOperator", "child": "QEC_Distillation_Core_MagicStateProtocol", "via": ["solution", "statement"]}
@@ -93783,8 +93783,8 @@
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_120", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_120", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "LevyStochCalc_Poisson_FiniteActivity_F000", "child": "LevyStochCalc_Poisson_RandomMeasure_F000", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_realizesRun", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_realizesRun", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_realizesRun", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_realizesRun", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "DecrAlmostLinearSSSP_CoreRAMFoundation", "child": "DecrAlmostLinearSSSP_Decremental_Machine", "via": ["statement"]}
 {"parent": "DecrAlmostLinearSSSP_CoreRAMFoundation", "child": "DecrAlmostLinearSSSP_Decremental_Potential", "via": ["statement"]}
 {"parent": "DecrAlmostLinearSSSP_CoreRAMFoundation", "child": "DecrAlmostLinearSSSP.Decremental.cache_accuracy", "via": ["statement"]}
@@ -94318,8 +94318,8 @@
 {"parent": "Kyprianou.Ch03.esscherTripletWitness_constructed", "child": "Kyprianou_Ch03_EsscherDensity", "via": ["solution", "statement"]}
 {"parent": "NLabCohomology.cohomology_homotopy_category", "child": "NLabCohomology_Cohomology", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.Windows.three_windows_cover", "child": "DeletionCode_Windows", "via": ["solution", "statement"]}
-{"parent": "QEC.Distillation.BK15.Recurrence.accepted_negativeA_weight_eq_closedForm", "child": "QEC_Distillation_FifteenQubitH_Protocol", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Recurrence.accepted_negativeA_weight_eq_closedForm", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Recurrence.accepted_negativeA_weight_eq_closedForm", "child": "QEC_Distillation_FifteenQubitH_Protocol", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Recurrence.accepted_negativeA_weight_eq_closedForm", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_438", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_438", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_1344", "child": "OAIQ259US022", "via": ["solution", "statement"]}
@@ -94828,9 +94828,9 @@
 {"parent": "DecrAlmostLinearSSSP_RAMFoundation", "child": "DecrAlmostLinearSSSP_Decremental_Graph", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0309", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0309", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15HfidelityDistillation", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15HfidelityDistillation", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15HfidelityDistillation", "child": "QEC.Distillation.EncodedCode.ImplementsLogicalGate.symm", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15HfidelityDistillation", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15HfidelityDistillation", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15HfidelityDistillation", "child": "QEC.Distillation.EncodedCode.ImplementsLogicalGate.symm", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.candidate_cone", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "DeletionCode.HeaderRecovery.negativeExtra_lt", "child": "DeletionCode_HeaderRecovery", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.HeaderRecovery.negativeExtra_lt", "child": "DeletionCode_Windows", "via": ["solution", "statement"]}
@@ -95402,8 +95402,8 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1099", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_339", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_339", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_preparedInput_eq_bk15Run_preparedInput", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_preparedInput_eq_bk15Run_preparedInput", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_preparedInput_eq_bk15Run_preparedInput", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_preparedInput_eq_bk15Run_preparedInput", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1162", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1162", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch08.StageB.part_result8_11_ii_v2", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
@@ -95609,8 +95609,8 @@
 {"parent": "DeletionCode.RandomHash.real_independent", "child": "DeletionCode_TorusHaar", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.RandomHash.real_independent", "child": "DeletionCode_CircleUniform", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.RandomHash.real_independent", "child": "DeletionCode_RandomHash", "via": ["solution", "statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15Recurrence_eq_actual_acceptedOutputError", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["statement"]}
-{"parent": "QEC.Distillation.BK15.Threshold.bk15Recurrence_eq_actual_acceptedOutputError", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15Recurrence_eq_actual_acceptedOutputError", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
+{"parent": "QEC.Distillation.BK15.Threshold.bk15Recurrence_eq_actual_acceptedOutputError", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_562", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_562", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_394", "child": "OAIQ259US022", "via": ["solution", "statement"]}

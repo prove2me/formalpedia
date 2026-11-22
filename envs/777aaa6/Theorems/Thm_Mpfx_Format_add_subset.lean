@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_add_subset
 -- name    : Mpfx.Format.add_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:31:17.151374+00:00
 -- url     : https://prove2.me/theorems/f1735bc5-d826-4fbb-9e0f-fa331cbe1830

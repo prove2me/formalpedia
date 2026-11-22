@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_tendsto_setLIntegral_Ioc_prod_zero
 -- name    : LevyStochCalc.Brownian.Ito.tendsto_setLIntegral_Ioc_prod_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T17:36:16.412338+00:00
 -- url     : https://prove2.me/theorems/6f2238c1-d82c-45d5-b8ab-7b33a968f3bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Driver_LevyDriver_lintegral_sq_cellMarkIndicator_lt_top
 -- name    : LevyStochCalc.Driver.LevyDriver.lintegral_sq_cellMarkIndicator_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T21:59:10.790736+00:00
 -- url     : https://prove2.me/theorems/fdedc36f-8152-4f3a-ada9-4ca89ce829d9

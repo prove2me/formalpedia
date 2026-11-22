@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GelfandVNA_Duality_theorem_1_1
 -- name    : GelfandVNA.Duality.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:50:26.137646+00:00
 -- url     : https://prove2.me/theorems/e8111648-92b8-40b9-86f3-b013fd428926

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_integrable_abs_sum_pow_three
 -- name    : LevyStochCalc.Brownian.Ito.integrable_abs_sum_pow_three
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:21:15.375845+00:00
 -- url     : https://prove2.me/theorems/d646f3d0-ec64-4ccc-8598-c6bdc06b5574

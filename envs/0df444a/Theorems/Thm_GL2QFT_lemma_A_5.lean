@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_lemma_A_5
 -- name    : GL2QFT.lemma_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:17:11.637877+00:00
 -- url     : https://prove2.me/theorems/c91512ff-ee8d-4410-9ca1-81daf00db955

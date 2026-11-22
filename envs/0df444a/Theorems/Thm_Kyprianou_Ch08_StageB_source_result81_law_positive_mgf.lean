@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_law_positive_mgf
 -- name    : Kyprianou.Ch08.StageB.source_result81_law_positive_mgf
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T13:59:03.538201+00:00
 -- url     : https://prove2.me/theorems/99139220-c85a-4a27-bbce-f437a4e7240e

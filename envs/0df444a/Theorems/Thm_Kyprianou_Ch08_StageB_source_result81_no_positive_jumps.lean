@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_no_positive_jumps
 -- name    : Kyprianou.Ch08.StageB.source_result81_no_positive_jumps
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T13:13:49.659752+00:00
 -- url     : https://prove2.me/theorems/92200ffc-acdc-4836-b709-dd420298cdde

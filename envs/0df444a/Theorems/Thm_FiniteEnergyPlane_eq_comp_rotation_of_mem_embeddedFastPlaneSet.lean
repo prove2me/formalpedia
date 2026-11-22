@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_eq_comp_rotation_of_mem_embeddedFastPlaneSet
 -- name    : FiniteEnergyPlane.eq_comp_rotation_of_mem_embeddedFastPlaneSet
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-04T15:47:16.421738+00:00
 -- url     : https://prove2.me/theorems/db984267-b2ba-4b76-9b23-ea65cdd20f18

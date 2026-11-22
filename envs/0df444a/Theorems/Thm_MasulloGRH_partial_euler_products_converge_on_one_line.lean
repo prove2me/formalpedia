@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_partial_euler_products_converge_on_one_line
 -- name    : MasulloGRH.partial_euler_products_converge_on_one_line
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:45:55.455694+00:00
 -- url     : https://prove2.me/theorems/809877ba-dbee-4b97-a5c3-34ff45a801ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_restrictions_modular
 -- name    : BarelyTestable.LowerBound.restrictions_modular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:25.383509+00:00
 -- url     : https://prove2.me/theorems/5f6d4d42-bc36-4be9-a4b8-c72b906c00c6

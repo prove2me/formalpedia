@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_abs_subset
 -- name    : Mpfx.Format.abs_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:31:21.815062+00:00
 -- url     : https://prove2.me/theorems/ff6b7cad-7e64-4234-906b-f8712bd9ba8b

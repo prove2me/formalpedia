@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRTO_RTP_finite_of_extend
 -- name    : Mpfx.roundsRTO_RTP_finite_of_extend
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:52:47.150228+00:00
 -- url     : https://prove2.me/theorems/38d47cea-c178-4f85-8f30-5225f41f22d9

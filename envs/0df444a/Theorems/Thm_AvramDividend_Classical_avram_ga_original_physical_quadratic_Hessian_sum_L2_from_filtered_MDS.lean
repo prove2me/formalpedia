@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_original_physical_quadratic_Hessian_sum_L2_from_filtered_MDS
 -- name    : AvramDividend.Classical.avram_ga_original_physical_quadratic_Hessian_sum_L2_from_filtered_MDS
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T00:44:36.916176+00:00
 -- url     : https://prove2.me/theorems/80c7ba60-7359-4f2b-89f2-52143826c1b2

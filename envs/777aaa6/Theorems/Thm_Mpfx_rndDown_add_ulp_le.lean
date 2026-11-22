@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndDown_add_ulp_le
 -- name    : Mpfx.rndDown_add_ulp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:49:06.616086+00:00
 -- url     : https://prove2.me/theorems/33c0c65d-76ac-4cfe-8bed-def6315f1db9

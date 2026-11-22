@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1OverloadedIdleLawFromRoot
 -- name    : Kyprianou.Ch01.mg1OverloadedIdleLawFromRoot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T23:20:51.364559+00:00
 -- url     : https://prove2.me/theorems/356146a1-b67f-4973-8d2c-a8bf3d4bacea

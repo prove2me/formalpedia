@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_exists_mul_zpow
 -- name    : Mpfx.RoundsFinite.exists_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:52:33.314735+00:00
 -- url     : https://prove2.me/theorems/6012bd1b-bf82-41fd-9336-8d647a745367

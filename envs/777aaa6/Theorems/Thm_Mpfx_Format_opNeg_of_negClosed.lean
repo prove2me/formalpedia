@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_opNeg_of_negClosed
 -- name    : Mpfx.Format.opNeg_of_negClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:32:18.745008+00:00
 -- url     : https://prove2.me/theorems/96fc8a1a-1b46-436e-823e-31ffba1559a7

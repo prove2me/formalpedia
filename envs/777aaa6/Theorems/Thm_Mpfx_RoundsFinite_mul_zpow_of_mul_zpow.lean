@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_mul_zpow_of_mul_zpow
 -- name    : Mpfx.RoundsFinite.mul_zpow_of_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:17.253722+00:00
 -- url     : https://prove2.me/theorems/067642db-82ab-4d49-aae1-cbbfb5325cbe

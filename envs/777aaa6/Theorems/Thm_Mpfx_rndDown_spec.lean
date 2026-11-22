@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndDown_spec
 -- name    : Mpfx.rndDown_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:45:47.584752+00:00
 -- url     : https://prove2.me/theorems/0d90b36a-f4b5-46cd-85fa-cc678f55bc6b

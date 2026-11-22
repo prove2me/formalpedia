@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Ito_Picard_continuous_setIntegral_Icc_of_integrableOn
 -- name    : LevyStochCalc.Ito.Picard.continuous_setIntegral_Icc_of_integrableOn
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T21:31:27.606732+00:00
 -- url     : https://prove2.me/theorems/6734cfc8-a9fa-416d-b7a4-035fe719eafb

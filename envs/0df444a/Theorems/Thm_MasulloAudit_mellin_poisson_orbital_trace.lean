@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_mellin_poisson_orbital_trace
 -- name    : MasulloAudit.mellin_poisson_orbital_trace
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:24:13.438567+00:00
 -- url     : https://prove2.me/theorems/10b9dcec-36e9-4ca9-a935-c02bd8872d27
 -- title:

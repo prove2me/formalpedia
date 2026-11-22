@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ROLDescent_definition_2_1_gap_iff
 -- name    : ROLDescent.definition_2_1_gap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T21:45:10.798864+00:00
 -- url     : https://prove2.me/theorems/32e22b30-492a-460e-a751-7a1e25de7df8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P65_oddCompression
 -- name    : QAlgorithms.Papers.Independent.Intake100.P65.oddCompression
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T14:13:56.061986+00:00
 -- url     : https://prove2.me/theorems/63a0d70d-dcf5-40c0-b5be-c593df04c799

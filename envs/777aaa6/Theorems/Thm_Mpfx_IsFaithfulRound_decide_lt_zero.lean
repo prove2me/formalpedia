@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_IsFaithfulRound_decide_lt_zero
 -- name    : Mpfx.IsFaithfulRound.decide_lt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:45:22.508238+00:00
 -- url     : https://prove2.me/theorems/d338c199-05f4-42b4-a9e7-f8ed99ff5fb2

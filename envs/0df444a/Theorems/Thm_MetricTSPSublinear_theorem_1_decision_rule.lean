@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSPSublinear_theorem_1_decision_rule
 -- name    : MetricTSPSublinear.theorem_1_decision_rule
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:23:57.679266+00:00
 -- url     : https://prove2.me/theorems/032469fd-151a-4215-8269-f3e6f899a42b

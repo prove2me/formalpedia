@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_uniformizer_multiples_not_S_units
 -- name    : MasulloAudit.uniformizer_multiples_not_S_units
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:51:08.963988+00:00
 -- url     : https://prove2.me/theorems/b528242a-7845-4380-b400-50879c819eb8
 -- title:

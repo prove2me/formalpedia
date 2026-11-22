@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynLZ77_Main_fact_4_6
 -- name    : DynLZ77.Main.fact_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:21:36.386301+00:00
 -- url     : https://prove2.me/theorems/91e30f8c-eec1-4aad-8788-8dc733e8313a

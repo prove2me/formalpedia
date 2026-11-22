@@ -69446,9 +69446,6 @@
 {"parent": "SepQPTardos.Main.sec_4_4_recovery", "child": "SepQPTardos_Main_Circuits", "via": ["statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.jetTable1_14_mem_x", "child": "AtomicGaussian", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.jetTable1_14_mem_x", "child": "OAIQ257X008", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_ja21_original_fixed_gaussian_core_second_moment", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ja21_original_fixed_gaussian_core_second_moment", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ja21_original_fixed_gaussian_core_second_moment", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["statement"]}
 {"parent": "OAI.InvariantIsing.cavity_full_depth_test_evaluation", "child": "InvariantIsing", "via": ["solution", "statement"]}
 {"parent": "OAI.InvariantIsing.cavity_full_depth_test_evaluation", "child": "OAIQ258003", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg26323", "child": "OAIQ259US007", "via": ["solution", "statement"]}
@@ -71324,7 +71321,7 @@
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_309All", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_309All", "child": "OAIQ259US012", "via": ["statement"]}
 {"parent": "OAI.Erdos970.ErdosContinuousOmission.actual_loss_summable_jb247", "child": "OAIQ247J007", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_gb49_predictable_real_condExp_cross_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_gb49_predictable_real_condExp_cross_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA1_4_11I1R4H_sound", "child": "OAIQ254M007", "via": ["solution", "statement"]}
 {"parent": "OddOrder.BG.AppC.FieldNormalizerData.step4_relation_5076", "child": "OddOrder_BG_AppC_LemmaC3_Step4Capstone", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree43_266All", "child": "OAIQ259US007", "via": ["statement"]}

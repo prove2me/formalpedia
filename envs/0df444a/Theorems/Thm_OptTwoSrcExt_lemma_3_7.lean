@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptTwoSrcExt_lemma_3_7
 -- name    : OptTwoSrcExt.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:25:05.562909+00:00
 -- url     : https://prove2.me/theorems/1b70ca76-9d2f-46e2-b269-eb03eea3219d

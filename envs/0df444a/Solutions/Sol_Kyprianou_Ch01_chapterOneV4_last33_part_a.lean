@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.chapterOneV4_last33_part_a
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-17T05:27:10.490676+00:00
 -- url     : https://prove2.me/submissions/4786b24f-ad74-4ee6-8d0b-d27dfcaf63ee
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch01_All67CertificatesZeroBoundaryV4
 import Theorems.Thm_Kyprianou_Ch01_generalFrullaniImproper

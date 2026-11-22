@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_shiftA_comp_affine_of_range_eq
 -- name    : FiniteEnergyPlane.exists_shiftA_comp_affine_of_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:10:40.005149+00:00
 -- url     : https://prove2.me/theorems/019c1fdb-a6c0-42c0-8bd1-e02ce1513cbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1IdleCriticalAndLight
 -- name    : Kyprianou.Ch01.mg1IdleCriticalAndLight
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:14:39.307287+00:00
 -- url     : https://prove2.me/theorems/a496e411-0ea8-46f0-aa7a-bcc3747a5c1d

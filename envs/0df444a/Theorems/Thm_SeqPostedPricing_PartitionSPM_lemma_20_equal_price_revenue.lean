@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqPostedPricing_PartitionSPM_lemma_20_equal_price_revenue
 -- name    : SeqPostedPricing.PartitionSPM.lemma_20_equal_price_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T01:14:20.564117+00:00
 -- url     : https://prove2.me/theorems/bd2967d1-93b2-4474-bcd9-5ef7f601efcf

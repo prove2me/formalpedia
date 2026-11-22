@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSearch.independent_coefficient_batch_mqpt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-20T14:07:03.543725+00:00
 -- url     : https://prove2.me/submissions/993630be-d03b-4625-8f74-2239bb556c12
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_uniform_raw_repetitions
 import Definitions.Def_InfoLossLAR_FirstBridgeBundle_02

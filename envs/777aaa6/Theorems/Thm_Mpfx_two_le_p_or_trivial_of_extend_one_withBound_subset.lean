@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_two_le_p_or_trivial_of_extend_one_withBound_subset
 -- name    : Mpfx.two_le_p_or_trivial_of_extend_one_withBound_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:45:00.59796+00:00
 -- url     : https://prove2.me/theorems/8367e150-d9a8-42b1-b344-75f96253a5f5

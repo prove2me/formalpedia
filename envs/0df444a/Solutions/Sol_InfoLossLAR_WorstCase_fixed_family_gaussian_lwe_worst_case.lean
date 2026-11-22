@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.fixed_family_gaussian_lwe_worst_case
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T01:16:01.039573+00:00
 -- url     : https://prove2.me/submissions/62d7a329-e51b-455b-81f2-febf0d70d0ef
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_InfoLossLAR_RegevSketch_DGS
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_gaussian_decision_to_dgs

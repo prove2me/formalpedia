@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_bernoulli_nonzero
 -- name    : BarelyTestable.LowerBound.bernoulli_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:12.117527+00:00
 -- url     : https://prove2.me/theorems/1a059299-b4c9-41b5-a748-3dc090afac39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_exponent_quadratic_upper
 -- name    : Kyprianou.Ch08.StageB.source_result81_exponent_quadratic_upper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T14:20:25.797006+00:00
 -- url     : https://prove2.me/theorems/ca3f7cac-acf6-4a05-8eae-e40f37fe426f

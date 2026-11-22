@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QubitFreqSensing_fact_5_5
 -- name    : QubitFreqSensing.fact_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:23:40.810729+00:00
 -- url     : https://prove2.me/theorems/d84588f3-7542-4106-b18c-709214988caf

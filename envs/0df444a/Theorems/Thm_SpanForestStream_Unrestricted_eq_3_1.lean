@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpanForestStream_Unrestricted_eq_3_1
 -- name    : SpanForestStream.Unrestricted.eq_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:30:54.289248+00:00
 -- url     : https://prove2.me/theorems/dfefed14-c072-49f0-b90d-97b3d3ca2708

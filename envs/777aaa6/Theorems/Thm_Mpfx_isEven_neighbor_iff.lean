@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_isEven_neighbor_iff
 -- name    : Mpfx.isEven_neighbor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:59.317882+00:00
 -- url     : https://prove2.me/theorems/04bd8be4-7c2b-4afe-90bc-00d0672cdc11

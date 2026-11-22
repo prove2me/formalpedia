@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isEven_iff_even
 -- name    : Mpfx.FiniteFormat.isEven_iff_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:51.280189+00:00
 -- url     : https://prove2.me/theorems/ebf4a8aa-92a0-491a-8397-bf094239e04b

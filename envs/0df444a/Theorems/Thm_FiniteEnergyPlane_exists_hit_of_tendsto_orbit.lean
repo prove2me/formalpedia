@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_hit_of_tendsto_orbit
 -- name    : FiniteEnergyPlane.exists_hit_of_tendsto_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-04T15:48:39.54604+00:00
 -- url     : https://prove2.me/theorems/7cec9d32-680a-49bf-9297-26b798e8e476

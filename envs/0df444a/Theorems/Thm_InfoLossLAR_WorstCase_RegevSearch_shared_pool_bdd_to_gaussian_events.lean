@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_shared_pool_bdd_to_gaussian_events
 -- name    : InfoLossLAR.WorstCase.RegevSearch.shared_pool_bdd_to_gaussian_events
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-20T23:27:04.148981+00:00
 -- url     : https://prove2.me/theorems/9fdfd0c1-342f-4e71-9410-562b6727463a

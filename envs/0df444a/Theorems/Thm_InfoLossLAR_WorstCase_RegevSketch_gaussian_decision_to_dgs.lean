@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSketch_gaussian_decision_to_dgs
 -- name    : InfoLossLAR.WorstCase.RegevSketch.gaussian_decision_to_dgs
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-15T01:12:54.563742+00:00
 -- url     : https://prove2.me/theorems/f4be78a2-8439-4d72-9621-5f6b7a9f0248

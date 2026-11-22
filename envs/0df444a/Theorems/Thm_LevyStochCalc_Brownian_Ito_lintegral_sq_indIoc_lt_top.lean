@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_lintegral_sq_indIoc_lt_top
 -- name    : LevyStochCalc.Brownian.Ito.lintegral_sq_indIoc_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:52:25.822459+00:00
 -- url     : https://prove2.me/theorems/eeab95c7-d93e-4e78-b1f9-eb8c8bcb7ed1

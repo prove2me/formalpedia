@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_timeRect_subset
 -- name    : LevyStochCalc.Poisson.Compensated.timeRect_subset
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T17:02:11.013474+00:00
 -- url     : https://prove2.me/theorems/7e9f7ea1-f3e1-471d-9d8b-3bd688aa8578

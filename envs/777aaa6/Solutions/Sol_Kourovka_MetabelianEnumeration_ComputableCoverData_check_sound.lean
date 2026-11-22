@@ -1,0 +1,60 @@
+-- Prove2me | solution 1 for Kourovka.MetabelianEnumeration.ComputableCoverData.check_sound
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-21T08:20:14.879173+00:00
+-- url     : https://prove2.me/submissions/d03d6b8d-abfe-4d1f-bbc5-e8eeda1408f1
+
+import Definitions.Def_Kourovka_Polyhedral_ComputableCone
+import Definitions.Def_Kourovka_Covers_CertifiedCover
+import Definitions.Def_Kourovka_Covers_ComputableCoverData
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableCoverData_decode_supports
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableCoverData_radius_eq
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableCone_checkMargin_eq
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_abs_unitSign
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_blockWord_finRange
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_conjugate_one
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_euclidean_add
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_euclidean_neg
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_euclidean_norm_abs
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_lower_shift
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_neg_mem_ball
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_not_precedes_self
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_orderedWord_zero
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_lower
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_shift
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_snoc_castSucc
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_snoc_last
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_shiftList_finRange
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_shiftList_nil
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_shift_zero
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_checked_cover_metabelian
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.abs_unitSign
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.blockWord_finRange
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.conjugate_one
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.euclidean_add
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.euclidean_neg
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.euclidean_norm_abs
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.lower_shift
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.neg_mem_ball
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.not_precedes_self
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.orderedWord_zero
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_lower
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_shift
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_snoc_castSucc
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_snoc_last
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.shiftList_finRange
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.shiftList_nil
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.shift_zero
+
+
+
+set_option autoImplicit true
+open Kourovka Kourovka.MetabelianEnumeration Kourovka.MetabelianEnumeration.ComputableCoverData
+open ComputableIntegers FiniteCover
+namespace Kourovka.MetabelianEnumeration.ComputableCoverData
+theorem _root_.solution (data : DatumCode) (r : ℕ) (h : check data r = true) :
+    Metabelian (FiniteCover.GroupOf (decode data) (radius data r)) := by
+  rw [radius_eq]
+  apply checked_cover_metabelian (decode data) (by simp [dimension]) r
+  simpa only [check, ComputableCone.checkMargin_eq, decode_supports] using h
+end Kourovka.MetabelianEnumeration.ComputableCoverData

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_s_unit_theorem
 -- name    : MasulloGRH.s_unit_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:37:50.644852+00:00
 -- url     : https://prove2.me/theorems/3a6b4d10-c01c-4664-aeca-7c1478e46b66

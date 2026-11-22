@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyFLocal_eq24_general_chain
 -- name    : HardyFLocal.eq24_general_chain
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:39:28.608881+00:00
 -- url     : https://prove2.me/theorems/fed5fde7-c627-4492-8a04-24c1ac5320ba

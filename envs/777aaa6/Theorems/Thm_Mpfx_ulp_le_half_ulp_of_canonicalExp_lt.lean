@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_ulp_le_half_ulp_of_canonicalExp_lt
 -- name    : Mpfx.ulp_le_half_ulp_of_canonicalExp_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:51:34.855562+00:00
 -- url     : https://prove2.me/theorems/a17ac2d0-e6bc-4d2d-9a3e-6da5345c77d8

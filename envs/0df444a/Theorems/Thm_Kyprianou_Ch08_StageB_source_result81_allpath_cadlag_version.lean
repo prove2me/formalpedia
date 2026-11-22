@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_allpath_cadlag_version
 -- name    : Kyprianou.Ch08.StageB.source_result81_allpath_cadlag_version
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:40:09.520633+00:00
 -- url     : https://prove2.me/theorems/3d233f99-4182-42a0-bed9-5cb0f5d7df64

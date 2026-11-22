@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_real_place_term_eq_realTraceIntegral
 -- name    : MasulloAudit.real_place_term_eq_realTraceIntegral
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:27:57.177548+00:00
 -- url     : https://prove2.me/theorems/dd33eb37-9441-4d33-b0aa-239f29ce6398
 -- title:

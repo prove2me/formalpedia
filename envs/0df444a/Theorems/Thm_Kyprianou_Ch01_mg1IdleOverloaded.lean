@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1IdleOverloaded
 -- name    : Kyprianou.Ch01.mg1IdleOverloaded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:14:19.942668+00:00
 -- url     : https://prove2.me/theorems/20e81a72-7a0e-46c0-8945-d3a20c302db8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_measurable_ruin_path_reward
 -- name    : Kyprianou.Ch08.StageB.source_result81_measurable_ruin_path_reward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:44:14.463885+00:00
 -- url     : https://prove2.me/theorems/dc6b99ef-9dde-4418-8812-e17bdc341495

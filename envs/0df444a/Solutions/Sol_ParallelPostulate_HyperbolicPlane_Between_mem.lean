@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for ParallelPostulate.HyperbolicPlane.Between.mem
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-21T18:07:01.409353+00:00
+-- url     : https://prove2.me/submissions/4d2ee435-3411-415e-87d2-91009b404989
+
+module
+public import Mathlib.Algebra.Ring.Prod
+public import Mathlib.Data.Real.Basic
+public import Mathlib.Order.Interval.Set.Infinite
+public import Mathlib.Tactic.FieldSimp
+public import Mathlib.Tactic.Linarith
+public import Mathlib.Tactic.LinearCombination
+public import Mathlib.Tactic.Positivity
+public import Mathlib.Tactic.Ring
+public import Definitions.Def_LeanPool_ParallelPostulate_Geometry
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open ParallelPostulate
+open ParallelPostulate.HyperbolicPlane
+open Pairs
+variable {K : Type*} [Field K] [LinearOrder K] [IsStrictOrderedRing K]
+omit [IsStrictOrderedRing K]
+namespace ParallelPostulate.HyperbolicPlane
+namespace Between
+theorem _root_.solution {A B C : K × K} (h : Between A B C) : B ∈ (Dim.mk A C).points := by
+  obtain ⟨-, u, -, -, rfl⟩ := h
+  exact ⟨u, rfl⟩
+end Between
+end ParallelPostulate.HyperbolicPlane

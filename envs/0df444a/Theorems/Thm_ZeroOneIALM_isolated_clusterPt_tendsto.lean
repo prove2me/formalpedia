@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZeroOneIALM_isolated_clusterPt_tendsto
 -- name    : ZeroOneIALM.isolated_clusterPt_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:27:54.021509+00:00
 -- url     : https://prove2.me/theorems/4f7ec550-589d-4e84-8063-9e248a9c3b8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_adelicThetaHomogeneous_estimates
 -- name    : MasulloGRH.adelicThetaHomogeneous_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:35:35.90048+00:00
 -- url     : https://prove2.me/theorems/74b2596a-6685-4012-8e92-4160d3e55047

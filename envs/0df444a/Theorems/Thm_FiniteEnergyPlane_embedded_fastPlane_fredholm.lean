@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_embedded_fastPlane_fredholm
 -- name    : FiniteEnergyPlane.embedded_fastPlane_fredholm
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:11:51.547984+00:00
 -- url     : https://prove2.me/theorems/d101e2f0-d0a2-4aca-b55f-cdea77d2960b

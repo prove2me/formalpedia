@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_technicalFullMomentExponentExistence_v2
 -- name    : Kyprianou.Ch08.StageB.source_technicalFullMomentExponentExistence_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T11:24:45.1812+00:00
 -- url     : https://prove2.me/theorems/4aec3a48-841c-4d25-a6e1-3aeee066bb70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_BSDEJ_Generator_measurable_uncurry_leftAverageLimit
 -- name    : LevyStochCalc.BSDEJ.Generator.measurable_uncurry_leftAverageLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T09:49:03.619321+00:00
 -- url     : https://prove2.me/theorems/05f9a423-a991-4be0-a463-2e3655dddd79

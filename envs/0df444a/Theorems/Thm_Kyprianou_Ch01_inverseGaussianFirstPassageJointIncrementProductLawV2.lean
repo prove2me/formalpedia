@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianFirstPassageJointIncrementProductLawV2
 -- name    : Kyprianou.Ch01.inverseGaussianFirstPassageJointIncrementProductLawV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T00:49:32.413014+00:00
 -- url     : https://prove2.me/theorems/f7c45831-711b-4485-aa31-5113c269afcb

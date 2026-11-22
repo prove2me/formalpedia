@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_negative_levy_cutoffs
 -- name    : Kyprianou.Ch08.StageB.source_result81_negative_levy_cutoffs
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:23:36.583038+00:00
 -- url     : https://prove2.me/theorems/95ed2134-a014-40d7-9f45-81d53605e260

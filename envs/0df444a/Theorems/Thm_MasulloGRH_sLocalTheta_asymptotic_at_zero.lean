@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_sLocalTheta_asymptotic_at_zero
 -- name    : MasulloGRH.sLocalTheta_asymptotic_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:36:33.319859+00:00
 -- url     : https://prove2.me/theorems/d312e628-f4f6-4cf0-834f-9b84aa3c0cb0

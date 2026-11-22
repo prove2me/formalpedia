@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianZeroBoundaryIndependentIncrementsV1
 -- name    : Kyprianou.Ch01.inverseGaussianZeroBoundaryIndependentIncrementsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T23:03:32.88259+00:00
 -- url     : https://prove2.me/theorems/d9094b94-0d60-4da7-8aad-8dd0be7c894f

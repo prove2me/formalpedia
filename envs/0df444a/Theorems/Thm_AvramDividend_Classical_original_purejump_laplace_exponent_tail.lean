@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_original_purejump_laplace_exponent_tail
 -- name    : AvramDividend.Classical.original_purejump_laplace_exponent_tail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:51:43.053326+00:00
 -- url     : https://prove2.me/theorems/0fded7ba-04d9-4ecf-8fe6-044f9c8c72cb

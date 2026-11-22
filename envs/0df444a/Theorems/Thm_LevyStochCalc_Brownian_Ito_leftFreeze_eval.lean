@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_leftFreeze_eval
 -- name    : LevyStochCalc.Brownian.Ito.leftFreeze_eval
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:52:10.10796+00:00
 -- url     : https://prove2.me/theorems/67acf95a-63b4-4eed-979a-9430dccd6e6e

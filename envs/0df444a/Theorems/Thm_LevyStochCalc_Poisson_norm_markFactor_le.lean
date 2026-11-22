@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_norm_markFactor_le
 -- name    : LevyStochCalc.Poisson.norm_markFactor_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:06:04.776691+00:00
 -- url     : https://prove2.me/theorems/441c9411-a460-4032-8759-bc3ca7ba9abc

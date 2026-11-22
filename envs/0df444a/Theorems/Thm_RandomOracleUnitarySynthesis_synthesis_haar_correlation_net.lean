@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_haar_correlation_net
 -- name    : RandomOracleUnitarySynthesis.synthesis_haar_correlation_net
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:57:16.819644+00:00
 -- url     : https://prove2.me/theorems/efa91915-4d93-4d34-9941-28e8da92a88d

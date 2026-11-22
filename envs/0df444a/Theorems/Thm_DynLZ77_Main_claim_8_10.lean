@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynLZ77_Main_claim_8_10
 -- name    : DynLZ77.Main.claim_8_10
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:21:40.074364+00:00
 -- url     : https://prove2.me/theorems/af5e7bdf-b414-4594-a1e7-9afd03408cf5

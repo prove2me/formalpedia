@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQPForrelation832_SingleQuery_proposition_4
 -- name    : IQPForrelation832.SingleQuery.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T03:07:40.242578+00:00
 -- url     : https://prove2.me/theorems/9ddd1b90-46da-4586-9404-08d4fb8edeba

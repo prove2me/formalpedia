@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_norm_charIntegrand_le
 -- name    : LevyStochCalc.Poisson.norm_charIntegrand_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:33:44.90261+00:00
 -- url     : https://prove2.me/theorems/935d7bc8-1275-44ab-a1b6-1ad122d08a50

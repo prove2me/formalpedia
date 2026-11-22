@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_exp_family_weighted_dist_tendsto_zero
 -- name    : MasulloAudit.exp_family_weighted_dist_tendsto_zero
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:32:17.924029+00:00
 -- url     : https://prove2.me/theorems/c979640a-586d-43ae-94c4-2d870d08fd96
 -- title:

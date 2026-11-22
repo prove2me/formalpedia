@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fpy_Rw_sim
 -- name    : Fpy.Rw.sim
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:31.008938+00:00
 -- url     : https://prove2.me/theorems/c052b4e7-ef55-4d6c-9161-c38b39ef4923

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_euler_product_pole_order_unbounded
 -- name    : MasulloAudit.euler_product_pole_order_unbounded
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:05:20.803143+00:00
 -- url     : https://prove2.me/theorems/04bd9bdf-89f6-497c-9323-50cd8156155d
 -- title:

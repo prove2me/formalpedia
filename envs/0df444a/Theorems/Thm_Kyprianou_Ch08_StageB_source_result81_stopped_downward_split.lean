@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_stopped_downward_split
 -- name    : Kyprianou.Ch08.StageB.source_result81_stopped_downward_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T12:59:37.653106+00:00
 -- url     : https://prove2.me/theorems/3c242566-b9e1-49b0-bbd8-ab10f9c26428

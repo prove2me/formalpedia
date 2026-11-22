@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Titchmarsh_inv_riemannZeta_le_rpow_of_riemannHypothesis
 -- name    : Titchmarsh.inv_riemannZeta_le_rpow_of_riemannHypothesis
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-20T23:12:58.167183+00:00
 -- url     : https://prove2.me/theorems/242af0ad-5520-48fe-b514-c52cefbcd1c2
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_mellin_iso_expDecay_rpos
 -- name    : MasulloGRH.mellin_iso_expDecay_rpos
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:34:02.958185+00:00
 -- url     : https://prove2.me/theorems/aedd4da1-89d6-4185-9c8d-8a3d67869b2a

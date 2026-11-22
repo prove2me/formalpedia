@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_progressivelyMeasurable_finsetSum
 -- name    : LevyStochCalc.Brownian.Ito.progressivelyMeasurable_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T23:39:15.345312+00:00
 -- url     : https://prove2.me/theorems/1e6ff0e6-f540-4662-85a9-9487c846e2ad

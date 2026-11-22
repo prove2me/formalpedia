@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_schwartz_space_euclidean_nuclear
 -- name    : MasulloGRH.schwartz_space_euclidean_nuclear
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:46:21.182872+00:00
 -- url     : https://prove2.me/theorems/2cf827c4-35bd-4680-b7bb-73ac2c986c94

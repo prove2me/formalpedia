@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_bounded_locallyIntegrable
 -- name    : LevyStochCalc.Brownian.Ito.bounded_locallyIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T09:44:55.515619+00:00
 -- url     : https://prove2.me/theorems/15df0857-afff-47dc-91ac-46f89d609609

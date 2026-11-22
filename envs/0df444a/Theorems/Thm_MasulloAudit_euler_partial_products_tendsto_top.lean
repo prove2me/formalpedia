@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_euler_partial_products_tendsto_top
 -- name    : MasulloAudit.euler_partial_products_tendsto_top
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:51:10.263224+00:00
 -- url     : https://prove2.me/theorems/b7fad257-2408-46d0-a2c5-327067d573d6
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_strictMono_partition_tiles
 -- name    : LevyStochCalc.Brownian.Ito.strictMono_partition_tiles
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T07:54:06.56653+00:00
 -- url     : https://prove2.me/theorems/787a3954-fd81-4bbf-a17f-97969a8f6625

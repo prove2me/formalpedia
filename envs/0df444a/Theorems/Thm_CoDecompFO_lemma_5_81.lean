@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_lemma_5_81
 -- name    : CoDecompFO.lemma_5_81
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:12.136042+00:00
 -- url     : https://prove2.me/theorems/c4dd96a1-14c1-43ca-9ff5-c3e5486636fc

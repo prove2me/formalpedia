@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_prime_place_term_eq_primePowerTraceSum
 -- name    : MasulloAudit.prime_place_term_eq_primePowerTraceSum
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:35:13.983636+00:00
 -- url     : https://prove2.me/theorems/14e52cb1-68be-4692-8e9d-f2d461a61d79
 -- title:

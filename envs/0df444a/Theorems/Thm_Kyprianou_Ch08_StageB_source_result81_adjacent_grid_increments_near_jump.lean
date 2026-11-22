@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_adjacent_grid_increments_near_jump
 -- name    : Kyprianou.Ch08.StageB.source_result81_adjacent_grid_increments_near_jump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:58:51.477742+00:00
 -- url     : https://prove2.me/theorems/5766e10b-5ac4-4ca0-8552-cf2d47b9680c

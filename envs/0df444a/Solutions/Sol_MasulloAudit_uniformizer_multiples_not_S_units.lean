@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.uniformizer_multiples_not_S_units
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:51:32.701561+00:00
 -- url     : https://prove2.me/submissions/f94bc2fc-1cae-4d28-9c94-376b6d2b0f33
 

@@ -41120,7 +41120,6 @@
 {"parent": "AvramDividend.Classical.avram_ja18_original_cutoff_gaussian_square_L1", "child": "AvramDividend.Classical.avram_ja21_original_finite_activity_smallband_cutoff_square_integrable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_ja18_original_cutoff_gaussian_square_L1", "child": "AvramDividend.Classical.avram_mix_gauss14_original_intrinsic_truncated_residual_adapted", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_ja18_original_cutoff_gaussian_square_L1", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.avram_ja18_original_cutoff_gaussian_square_L1", "child": "AvramDividend.Classical.avram_ja21_original_fixed_gaussian_core_second_moment", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.avram_ja18_original_cutoff_gaussian_square_L1", "child": "AvramDividend.Classical.avram_anoise19_original_gaussian_residual_cutoff_count_bound", "via": ["solution"]}
 {"parent": "QEC.Coding.BDL26HistoryLogicalResidual.intervalCocycle_comp", "child": "QEC.Coding.BDL26HistoryErrorTelescoping.linearUp_comp", "via": ["solution"]}
 {"parent": "ConantTerry.Orders.extraction_recurrence", "child": "ConantTerry.Orders.tree_embedding_properties", "via": ["solution"]}

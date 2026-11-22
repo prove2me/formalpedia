@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_ae_eq_of_tendsto_lintegral_enorm
 -- name    : LevyStochCalc.Poisson.ae_eq_of_tendsto_lintegral_enorm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T16:15:40.668464+00:00
 -- url     : https://prove2.me/theorems/38b38663-e4ef-46bb-9755-8959cbcdea25

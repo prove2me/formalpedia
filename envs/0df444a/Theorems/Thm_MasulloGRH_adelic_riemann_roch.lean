@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_adelic_riemann_roch
 -- name    : MasulloGRH.adelic_riemann_roch
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:32:36.499532+00:00
 -- url     : https://prove2.me/theorems/acd22834-7b5b-43fc-aaf9-8f14412ca215

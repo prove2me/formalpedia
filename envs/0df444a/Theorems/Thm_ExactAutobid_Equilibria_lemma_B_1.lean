@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactAutobid_Equilibria_lemma_B_1
 -- name    : ExactAutobid.Equilibria.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:55:54.207194+00:00
 -- url     : https://prove2.me/theorems/e69cf4ee-5838-4c6c-97fa-346b76534a16

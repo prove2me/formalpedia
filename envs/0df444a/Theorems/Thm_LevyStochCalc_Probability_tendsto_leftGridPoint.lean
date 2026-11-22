@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Probability_tendsto_leftGridPoint
 -- name    : LevyStochCalc.Probability.tendsto_leftGridPoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:52:24.671977+00:00
 -- url     : https://prove2.me/theorems/3d0f782c-08f6-4924-bf06-87a1e73400c2

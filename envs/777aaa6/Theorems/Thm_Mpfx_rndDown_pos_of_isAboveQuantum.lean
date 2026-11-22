@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndDown_pos_of_isAboveQuantum
 -- name    : Mpfx.rndDown_pos_of_isAboveQuantum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:59:57.756466+00:00
 -- url     : https://prove2.me/theorems/622ad922-aae9-404e-897c-fdf1bdcf0e8f

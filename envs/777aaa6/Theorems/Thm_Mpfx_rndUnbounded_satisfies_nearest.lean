@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndUnbounded_satisfies_nearest
 -- name    : Mpfx.rndUnbounded_satisfies_nearest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:51:27.417179+00:00
 -- url     : https://prove2.me/theorems/6c16ff03-ba2a-4114-8e94-1f342d384dab

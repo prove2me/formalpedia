@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianFirstPassageZeroBoundaryIsLevyProcessPublic
 -- name    : Kyprianou.Ch01.brownianFirstPassageZeroBoundaryIsLevyProcessPublic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T07:14:54.463785+00:00
 -- url     : https://prove2.me/theorems/4302bffa-5fe7-4121-b4d2-a87d32687a24

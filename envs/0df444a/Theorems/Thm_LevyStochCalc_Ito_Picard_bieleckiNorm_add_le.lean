@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Ito_Picard_bieleckiNorm_add_le
 -- name    : LevyStochCalc.Ito.Picard.bieleckiNorm_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:22:22.253152+00:00
 -- url     : https://prove2.me/theorems/b3547480-5d60-4427-afde-58a90d2debea

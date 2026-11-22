@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_positive_121_to_67156_20261114
 -- name    : TaoFivePrimes.rh_positive_121_to_67156_20261114
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-11-13T22:05:50.627215+00:00
 -- url     : https://prove2.me/theorems/5a4900a6-b0f9-4d25-983b-76e9c0bd1a6d

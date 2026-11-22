@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_le_clipTime_iff
 -- name    : LevyStochCalc.Brownian.Ito.le_clipTime_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:42:00.893194+00:00
 -- url     : https://prove2.me/theorems/994d4951-8f4f-4a38-880d-528cbe91c89e

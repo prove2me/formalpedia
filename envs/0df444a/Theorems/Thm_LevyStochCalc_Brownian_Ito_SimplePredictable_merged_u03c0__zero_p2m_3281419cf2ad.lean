@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_SimplePredictable_merged_u03c0__zero_p2m_3281419cf2ad
 -- name    : LevyStochCalc.Brownian.Ito.SimplePredictable.merged_u03c0__zero_p2m_3281419cf2ad
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T08:14:19.806182+00:00
 -- url     : https://prove2.me/theorems/007d1820-e157-43aa-b155-7c0e0f3307db

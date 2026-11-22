@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Cex_exists_isolated
 -- name    : Mpfx.Cex.exists_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:53.414701+00:00
 -- url     : https://prove2.me/theorems/52909b20-3c94-4f54-b3fd-5e6d8144d3e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_exists_mem_above
 -- name    : Mpfx.exists_mem_above
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:38.47568+00:00
 -- url     : https://prove2.me/theorems/1a497888-b0fa-43a1-9db0-eb4929037112

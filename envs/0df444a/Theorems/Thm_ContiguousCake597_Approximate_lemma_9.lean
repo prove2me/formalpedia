@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContiguousCake597_Approximate_lemma_9
 -- name    : ContiguousCake597.Approximate.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:15:35.198566+00:00
 -- url     : https://prove2.me/theorems/b3f24351-f6d6-4ef0-83fa-9f38c0833a14

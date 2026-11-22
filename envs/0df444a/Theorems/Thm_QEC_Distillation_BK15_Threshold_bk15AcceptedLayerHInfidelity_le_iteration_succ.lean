@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15AcceptedLayerHInfidelity_le_iteration_succ
 -- name    : QEC.Distillation.BK15.Threshold.bk15AcceptedLayerHInfidelity_le_iteration_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:28:22.915052+00:00
 -- url     : https://prove2.me/theorems/e8ad244f-471f-4804-bbaa-933d38526aee

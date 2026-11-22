@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_energy_lt_top_of_bounded
 -- name    : LevyStochCalc.Brownian.Ito.energy_lt_top_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:51:46.607225+00:00
 -- url     : https://prove2.me/theorems/f102a2d5-9094-448d-afa4-8b8be8429e7f

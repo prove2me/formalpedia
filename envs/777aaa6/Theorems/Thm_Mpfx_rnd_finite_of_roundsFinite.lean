@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rnd_finite_of_roundsFinite
 -- name    : Mpfx.rnd_finite_of_roundsFinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:45:15.442189+00:00
 -- url     : https://prove2.me/theorems/f7f34505-60ea-454a-8b3e-8c661e2efe39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_piAntidiag_univ_one
 -- name    : LevyStochCalc.Poisson.piAntidiag_univ_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T19:17:25.650179+00:00
 -- url     : https://prove2.me/theorems/c5d4d1f1-c08f-4fb6-965e-f190c117d81d

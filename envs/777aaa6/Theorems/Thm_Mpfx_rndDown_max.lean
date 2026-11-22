@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndDown_max
 -- name    : Mpfx.rndDown_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:47.704505+00:00
 -- url     : https://prove2.me/theorems/c8fabc28-7610-44f1-ac0c-4905ee04d3fb

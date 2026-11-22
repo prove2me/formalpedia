@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_IsFaithfulRound_mul_nonneg
 -- name    : Mpfx.IsFaithfulRound.mul_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:44:03.237212+00:00
 -- url     : https://prove2.me/theorems/0bd015a9-ec2c-4ee6-86d9-0fbd86cb99df

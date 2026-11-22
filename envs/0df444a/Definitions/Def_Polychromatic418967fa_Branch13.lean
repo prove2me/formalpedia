@@ -1,0 +1,22 @@
+-- Prove2me | Definitions.Def_Polychromatic418967fa_Branch13
+-- name    : Polychromatic418967fa_Branch13
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-21T11:07:37.487557+00:00
+-- url     : https://prove2.me/theorems/f53cee44-d2da-4ee8-8031-25a3c03ca025
+-- title:
+--   Compute
+-- statement:
+--   Definitions and structural lemmas for Compute, from Bhavik Mehta's pinned Polychromatic colourings of integers development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/b-mehta/Polychromatic/blob/418967fa27405f92343e1e1c98c268793d90f914/Polychromatic/FourThree/Compute.lean
+
+import Definitions.Def_Polychromatic418967fa_Helpers016
+set_option maxRecDepth 100000
+set_option maxHeartbeats 0
+set_option linter.defProp false
+
+def Polychromatic418967fa.branch_13 : allB 13 13 :=
+allB_succ' 2 12 13 (Eq.refl Bool.true) (allA_succ_of_accept 1 12 13 (Polychromatic418967fa.accept_7_1_5_6_1_59 1 12 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_one 12 13)) (allB_succ' 3 11 13 (Eq.refl Bool.true) (allA_of_3_1 3 11 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allB_succ' 4 10 13 (Eq.refl Bool.true) (allA_succ_of_accept 3 10 13 (Polychromatic418967fa.accept_4_3_2_1_1_50 3 10 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 2 10 13 (accept_3_3 2 10 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 1 10 13 (Polychromatic418967fa.accept_11_1_10_2_1_58 1 10 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_one 10 13)))) (allB_succ' 5 9 13 (Eq.refl Bool.true) (allA_succ_of_accept 4 9 13 (Polychromatic418967fa.accept_6_4_3_1_1_57 4 9 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 3 9 13 (Polychromatic418967fa.accept_7_3_2_6_1_56 3 9 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 2 9 13 (accept_3_3 2 9 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 1 9 13 (Polychromatic418967fa.accept_7_1_2_6_1_55 1 9 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_one 9 13))))) (allB_succ' 6 8 13 (Eq.refl Bool.true) (allA_of_3_1 6 8 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allB_succ 7 13 (allA_succ_of_accept 6 7 13 (Polychromatic418967fa.accept_4_2_3_1_1_2 6 7 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 5 7 13 (accept_3_3 5 7 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 4 7 13 (Polychromatic418967fa.accept_10_4_7_3_1_54 4 7 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 3 7 13 (Polychromatic418967fa.accept_9_3_7_4_1_53 3 7 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 2 7 13 (accept_3_3 2 7 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 1 7 13 (Polychromatic418967fa.accept_9_1_7_4_1_52 1 7 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_one 7 13))))))) (allB_succ 6 13 (allA_succ_of_accept 5 6 13 (accept_3_3 5 6 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 4 6 13 (Polychromatic418967fa.accept_11_4_6_2_1_51 4 6 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 3 6 13 (Polychromatic418967fa.accept_4_3_2_1_1_50 3 6 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 2 6 13 (accept_3_3 2 6 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 1 6 13 (Polychromatic418967fa.accept_9_1_6_4_1_49 1 6 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_one 6 13)))))) (allB_succ 5 13 (allA_of_3_1 5 5 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allB_succ 4 13 (allA_succ_of_accept 3 4 13 (Polychromatic418967fa.accept_6_3_4_1_1_8 3 4 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 2 4 13 (accept_3_3 2 4 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 1 4 13 (Polychromatic418967fa.accept_8_1_4_5_1_48 1 4 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_one 4 13)))) (allB_succ 3 13 (allA_succ_of_accept 2 3 13 (accept_3_3 2 3 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_succ_of_accept 1 3 13 (Polychromatic418967fa.accept_9_1_3_4_1_47 1 3 13 (Eq.refl Bool.true) (Eq.refl Bool.true) (Eq.refl Bool.true)) (allA_one 3 13))) (allB_succ 2 13 (allA_of_3_1 2 2 13 (Eq.refl Bool.true) (Eq.refl Bool.true)) (allB_two 13)))))))))))
+
+

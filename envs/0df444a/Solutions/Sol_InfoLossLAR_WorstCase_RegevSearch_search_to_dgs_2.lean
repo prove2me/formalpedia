@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for InfoLossLAR.WorstCase.RegevSearch.search_to_dgs
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-20T14:00:54.407873+00:00
 -- url     : https://prove2.me/submissions/4935ec23-8859-4497-8100-a838a6f285a5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_search_to_single_coefficient_gaussian
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_independent_coefficient_batch_mqpt

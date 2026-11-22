@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_heckeLFunction_logDeriv_bound_of_zero_free_region
 -- name    : MasulloGRH.heckeLFunction_logDeriv_bound_of_zero_free_region
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:43:57.158699+00:00
 -- url     : https://prove2.me/theorems/e30d9b71-59ac-4549-8733-4d8881d0df88

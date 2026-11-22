@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_sq_enorm_finsetSum_le
 -- name    : LevyStochCalc.Brownian.Ito.sq_enorm_finsetSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:44:07.906152+00:00
 -- url     : https://prove2.me/theorems/0c93fd35-f584-4c85-93f3-c9a673fb7597

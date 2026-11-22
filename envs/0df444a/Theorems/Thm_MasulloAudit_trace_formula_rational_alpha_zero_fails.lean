@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_rational_alpha_zero_fails
 -- name    : MasulloAudit.trace_formula_rational_alpha_zero_fails
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:11:00.687203+00:00
 -- url     : https://prove2.me/theorems/d78fabd6-a1f0-4b13-94bb-619eb85a2081
 -- title:

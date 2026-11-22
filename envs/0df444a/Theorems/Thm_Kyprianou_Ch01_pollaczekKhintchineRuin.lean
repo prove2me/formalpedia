@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_pollaczekKhintchineRuin
 -- name    : Kyprianou.Ch01.pollaczekKhintchineRuin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:12:34.544551+00:00
 -- url     : https://prove2.me/theorems/0a5ff3b4-2dcc-4e36-b1fd-0fba07a74bd9

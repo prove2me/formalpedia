@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_window_remainder_ne_zero_of_omitted_zero
 -- name    : MasulloAudit.window_remainder_ne_zero_of_omitted_zero
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:47:14.600958+00:00
 -- url     : https://prove2.me/theorems/f1f37959-9158-488b-b151-c5663f9d85e7
 -- title:

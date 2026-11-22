@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.source_result81_triplet_finite_jump_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-20T20:41:59.285054+00:00
 -- url     : https://prove2.me/submissions/39d1fa3d-55d3-48c0-8856-9c76bae60437
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_negative_levy_cutoffs

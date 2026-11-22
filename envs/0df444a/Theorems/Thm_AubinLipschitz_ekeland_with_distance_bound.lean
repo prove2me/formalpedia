@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AubinLipschitz_ekeland_with_distance_bound
 -- name    : AubinLipschitz.ekeland_with_distance_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:50:25.367288+00:00
 -- url     : https://prove2.me/theorems/69631481-57b1-4760-93b9-1753d957d965

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_eval_lintegral_sq_finite
 -- name    : LevyStochCalc.Brownian.Ito.eval_lintegral_sq_finite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:04:43.128912+00:00
 -- url     : https://prove2.me/theorems/1885774b-66de-49b7-a29c-6534bb5a1abe

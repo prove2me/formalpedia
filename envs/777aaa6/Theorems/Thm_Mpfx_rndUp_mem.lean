@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndUp_mem
 -- name    : Mpfx.rndUp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:05.532283+00:00
 -- url     : https://prove2.me/theorems/c1bfce72-0df7-4c80-8f8e-fcfee2768f8b

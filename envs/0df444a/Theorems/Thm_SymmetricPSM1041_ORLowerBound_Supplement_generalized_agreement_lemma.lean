@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricPSM1041_ORLowerBound_Supplement_generalized_agreement_lemma
 -- name    : SymmetricPSM1041.ORLowerBound.Supplement.generalized_agreement_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T03:46:10.576109+00:00
 -- url     : https://prove2.me/theorems/857bb4ca-b8bb-4c53-b167-d9674eb4a4b2

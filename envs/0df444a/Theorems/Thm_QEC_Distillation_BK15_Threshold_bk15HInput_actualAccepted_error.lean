@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15HInput_actualAccepted_error
 -- name    : QEC.Distillation.BK15.Threshold.bk15HInput_actualAccepted_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:28:37.137542+00:00
 -- url     : https://prove2.me/theorems/09478deb-64ea-44b4-a7d0-124ddff598c5

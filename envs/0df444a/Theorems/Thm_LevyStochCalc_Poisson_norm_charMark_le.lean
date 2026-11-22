@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_norm_charMark_le
 -- name    : LevyStochCalc.Poisson.norm_charMark_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:58:41.571687+00:00
 -- url     : https://prove2.me/theorems/708415d8-26d6-46b5-b8fe-f64ccd510827

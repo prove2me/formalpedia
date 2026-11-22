@@ -5662,7 +5662,7 @@
 {"parent": "WeightedCache3SUM_Alias_8c840be79f696836", "child": "ThreeSum.TrimScales.replicatedHalf_log_rate_w3sum_ac885d1", "via": ["statement"]}
 {"parent": "ThreeSum.OutputDecodeOccurrenceCode.source_code_coordinate", "child": "Submission_ThreeSum_OutputDecodeRecords", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.OutputDecodeOccurrenceCode.source_code_coordinate", "child": "Submission_ThreeSum_OutputDecodeOccurrenceCode", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.embedded_fastPlane_fredholm", "child": "FiniteEnergyPlane_Fredholm", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.embedded_fastPlane_fredholm", "child": "FiniteEnergyPlane_Fredholm", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryOriginalJoin.program_meets", "child": "ThreeSum.LightBooleanDot.program_meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryOriginalJoin.program_meets", "child": "ThreeSum.LightMaskHashes.program_meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightTernaryOriginalJoin.program_meets", "child": "ThreeSum.LightCapacity.program_meets", "via": ["solution", "statement"]}

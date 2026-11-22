@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndUnbounded_unique
 -- name    : Mpfx.rndUnbounded_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:51:48.162184+00:00
 -- url     : https://prove2.me/theorems/d0de3714-ff17-44d9-9458-62b9309bc118

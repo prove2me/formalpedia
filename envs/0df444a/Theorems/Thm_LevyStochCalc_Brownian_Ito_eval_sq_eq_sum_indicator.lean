@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_eval_sq_eq_sum_indicator
 -- name    : LevyStochCalc.Brownian.Ito.eval_sq_eq_sum_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T20:44:23.142829+00:00
 -- url     : https://prove2.me/theorems/7338ea49-3418-442b-b6c1-5cfe19b18759

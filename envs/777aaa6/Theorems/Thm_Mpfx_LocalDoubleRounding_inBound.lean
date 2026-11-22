@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_LocalDoubleRounding_inBound
 -- name    : Mpfx.LocalDoubleRounding.inBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:47:39.208493+00:00
 -- url     : https://prove2.me/theorems/38a6f591-2edb-4547-8b89-20013aa0ae95

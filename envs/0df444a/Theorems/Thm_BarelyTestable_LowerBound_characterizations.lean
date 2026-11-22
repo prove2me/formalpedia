@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_characterizations
 -- name    : BarelyTestable.LowerBound.characterizations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:16.373246+00:00
 -- url     : https://prove2.me/theorems/ee9d3187-1bce-46b8-ac58-5fff50ec63f2

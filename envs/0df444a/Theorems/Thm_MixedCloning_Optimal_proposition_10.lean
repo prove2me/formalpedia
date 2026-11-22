@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedCloning_Optimal_proposition_10
 -- name    : MixedCloning.Optimal.proposition_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:05:27.933355+00:00
 -- url     : https://prove2.me/theorems/b4a34556-8696-4351-8b98-a5ad6311e6aa

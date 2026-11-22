@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Cex_no_roundsRAZ_RTO
 -- name    : Mpfx.Cex.no_roundsRAZ_RTO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:59:32.408641+00:00
 -- url     : https://prove2.me/theorems/33288f4b-c29a-408e-aa2a-c849d45b427a

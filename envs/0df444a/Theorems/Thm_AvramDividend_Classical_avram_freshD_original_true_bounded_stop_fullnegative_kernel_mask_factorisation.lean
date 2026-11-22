@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_freshD_original_true_bounded_stop_fullnegative_kernel_mask_factorisation
 -- name    : AvramDividend.Classical.avram_freshD_original_true_bounded_stop_fullnegative_kernel_mask_factorisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:32:35.36795+00:00
 -- url     : https://prove2.me/theorems/bfd44fdb-270b-4d5c-abe3-205bd4028e7a

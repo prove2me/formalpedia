@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_query_bound
 -- name    : RandomOracleUnitarySynthesis.synthesis_query_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:57:15.016099+00:00
 -- url     : https://prove2.me/theorems/837ed6d6-9569-4a4f-9c58-09c763e1c513

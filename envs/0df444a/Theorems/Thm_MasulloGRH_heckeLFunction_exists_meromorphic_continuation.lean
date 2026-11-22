@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_heckeLFunction_exists_meromorphic_continuation
 -- name    : MasulloGRH.heckeLFunction_exists_meromorphic_continuation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:37:41.958014+00:00
 -- url     : https://prove2.me/theorems/2774cd53-e069-4d1f-b7a7-cfe01826d439

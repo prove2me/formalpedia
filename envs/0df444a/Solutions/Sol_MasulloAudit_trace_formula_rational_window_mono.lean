@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.trace_formula_rational_window_mono
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:51:34.271902+00:00
 -- url     : https://prove2.me/submissions/72c5dc5d-f725-4504-b43d-4b4ac70a8a02
 

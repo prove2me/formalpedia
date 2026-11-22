@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResetInventory_proposition_4_sS_closed_interval
 -- name    : ResetInventory.proposition_4_sS_closed_interval
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:19:44.608004+00:00
 -- url     : https://prove2.me/theorems/2496df23-d2d4-484e-8cb5-2807944ab8df

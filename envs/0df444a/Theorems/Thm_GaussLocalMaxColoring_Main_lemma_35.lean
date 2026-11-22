@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussLocalMaxColoring_Main_lemma_35
 -- name    : GaussLocalMaxColoring.Main.lemma_35
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T15:23:27.971306+00:00
 -- url     : https://prove2.me/theorems/21b7d4a3-495c-4a96-ad66-4bcb0b185691

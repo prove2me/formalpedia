@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_mono_toNegative
 -- name    : Mpfx.RoundsFinite.mono_toNegative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:48.652455+00:00
 -- url     : https://prove2.me/theorems/3b084c8d-e9a8-4b99-8659-076f1d81ca3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_two_le_p_of_nontrivial_extend_two
 -- name    : Mpfx.two_le_p_of_nontrivial_extend_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:04.874036+00:00
 -- url     : https://prove2.me/theorems/14f72287-53d2-4050-a6d7-2be7b80f1ff4

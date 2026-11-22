@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_schwartz_local_nonarchimedean_structure
 -- name    : MasulloGRH.schwartz_local_nonarchimedean_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:46:48.395329+00:00
 -- url     : https://prove2.me/theorems/8475d204-6a58-4880-9ce8-6fe931f6e0e2

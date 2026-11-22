@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_extend_one_subset_of_withBound_subset
 -- name    : Mpfx.extend_one_subset_of_withBound_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:41:19.450326+00:00
 -- url     : https://prove2.me/theorems/5408e4d7-236a-429a-886e-6790654dbaab

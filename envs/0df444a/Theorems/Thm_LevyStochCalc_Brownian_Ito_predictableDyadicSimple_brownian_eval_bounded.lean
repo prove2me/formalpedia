@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_predictableDyadicSimple_brownian_eval_bounded
 -- name    : LevyStochCalc.Brownian.Ito.predictableDyadicSimple_brownian_eval_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T09:27:56.612466+00:00
 -- url     : https://prove2.me/theorems/b189f453-d26e-4bee-b5f8-df408e797f89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_global_zeta_integral
 -- name    : MasulloGRH.global_zeta_integral
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:39:04.660045+00:00
 -- url     : https://prove2.me/theorems/65d9b3ff-6c34-4f26-b112-bcd8a09403d6

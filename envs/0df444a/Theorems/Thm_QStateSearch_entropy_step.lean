@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QStateSearch_entropy_step
 -- name    : QStateSearch.entropy_step
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T17:15:30.448303+00:00
 -- url     : https://prove2.me/theorems/4b1ff21d-fdc8-4cf1-8288-b1502327e3d8

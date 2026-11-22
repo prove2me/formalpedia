@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Ito_Picard_markedProgressivelyMeasurable_comp_state
 -- name    : LevyStochCalc.Ito.Picard.markedProgressivelyMeasurable_comp_state
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:35:56.376178+00:00
 -- url     : https://prove2.me/theorems/c65758ef-01b5-47d6-8def-9f58953fb410

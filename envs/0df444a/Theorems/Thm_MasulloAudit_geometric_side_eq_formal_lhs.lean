@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_geometric_side_eq_formal_lhs
 -- name    : MasulloAudit.geometric_side_eq_formal_lhs
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:38:02.734804+00:00
 -- url     : https://prove2.me/theorems/4e64a65d-13c9-45ae-8f9c-8fe1fa614146
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.real_place_term_eq_realTraceIntegral
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:31:05.723575+00:00
 -- url     : https://prove2.me/submissions/1575d2df-1fd8-4187-98f5-f7dd5c368d0a
 

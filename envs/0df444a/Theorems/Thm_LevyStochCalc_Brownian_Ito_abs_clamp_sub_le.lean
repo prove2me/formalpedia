@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_abs_clamp_sub_le
 -- name    : LevyStochCalc.Brownian.Ito.abs_clamp_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:08:36.069579+00:00
 -- url     : https://prove2.me/theorems/931eb759-d2c7-410d-a946-fec9cd1a792e

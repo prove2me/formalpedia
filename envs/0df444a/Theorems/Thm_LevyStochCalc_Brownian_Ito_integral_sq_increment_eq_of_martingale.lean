@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_integral_sq_increment_eq_of_martingale
 -- name    : LevyStochCalc.Brownian.Ito.integral_sq_increment_eq_of_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T17:36:19.241862+00:00
 -- url     : https://prove2.me/theorems/8a9dc378-76f9-4498-9818-2d7b5cefecc4

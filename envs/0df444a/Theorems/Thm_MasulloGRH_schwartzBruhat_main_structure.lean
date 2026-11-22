@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_schwartzBruhat_main_structure
 -- name    : MasulloGRH.schwartzBruhat_main_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:20:06.002184+00:00
 -- url     : https://prove2.me/theorems/e3fa2914-8f53-4e5e-86af-ab87e2eeccc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_lift
 -- name    : Mpfx.RoundsFinite.lift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:37.431079+00:00
 -- url     : https://prove2.me/theorems/7a89d8c3-c278-4b08-a403-da74fd8a765d

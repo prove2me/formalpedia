@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloRH.digamma_real_place
 -- status  : ACCEPTED   (prove)
--- author  : @Calvin Yost-Wolff
+-- author  : @cyw
 -- created : 2026-11-21T00:28:58.46881+00:00
 -- url     : https://prove2.me/submissions/95d0c830-10dd-4e4b-a8f0-e901205f7903
 

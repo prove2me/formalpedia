@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistLTLSynth_Char_section_6_2_two_counter_reduction
 -- name    : DistLTLSynth.Char.section_6_2_two_counter_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:17:17.852954+00:00
 -- url     : https://prove2.me/theorems/5b783f2e-f8bb-4572-a8b2-3739f3716272

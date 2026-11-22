@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_printed_archimedean_gamma_integral_diverges
 -- name    : MasulloAudit.printed_archimedean_gamma_integral_diverges
--- status  : Open
+-- status  : Proved
 -- author  : @marozols
 -- created : 2026-11-21T04:11:21.919262+00:00
 -- url     : https://prove2.me/theorems/2f5f2b93-f3f2-4784-9a51-028cce7a5b16

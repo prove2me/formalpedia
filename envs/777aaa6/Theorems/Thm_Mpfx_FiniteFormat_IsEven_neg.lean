@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_IsEven_neg
 -- name    : Mpfx.FiniteFormat.IsEven.neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:41:12.087952+00:00
 -- url     : https://prove2.me/theorems/6c6c84c2-3668-4705-a4a7-782cd8bbb054

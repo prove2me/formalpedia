@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_freshD_original_stopped_closedcap_fullnegative_kernel_predictable
 -- name    : AvramDividend.Classical.avram_freshD_original_stopped_closedcap_fullnegative_kernel_predictable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:54:04.844922+00:00
 -- url     : https://prove2.me/theorems/b7420f09-9e92-40e0-9569-7c2dc05097ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_toPositive_iff_awayZero_of_nonneg
 -- name    : Mpfx.RoundsFinite.toPositive_iff_awayZero_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:43:33.836146+00:00
 -- url     : https://prove2.me/theorems/bf81ee73-6cf5-4d09-9059-c603db107261

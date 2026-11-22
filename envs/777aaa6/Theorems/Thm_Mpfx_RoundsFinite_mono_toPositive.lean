@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_mono_toPositive
 -- name    : Mpfx.RoundsFinite.mono_toPositive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:48.138092+00:00
 -- url     : https://prove2.me/theorems/217b7409-1fd3-42c1-8d83-e7c686c68396

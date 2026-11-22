@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Recurrence_bk15_acceptedOutputError_closed_form
 -- name    : QEC.Distillation.BK15.Recurrence.bk15_acceptedOutputError_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:16:44.664851+00:00
 -- url     : https://prove2.me/theorems/5ca22652-8274-4fb6-bae7-3905bfff7cd6

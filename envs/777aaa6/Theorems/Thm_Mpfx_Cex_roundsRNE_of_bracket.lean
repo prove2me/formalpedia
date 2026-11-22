@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Cex_roundsRNE_of_bracket
 -- name    : Mpfx.Cex.roundsRNE_of_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:49:57.630273+00:00
 -- url     : https://prove2.me/theorems/a41f5ff3-d2f2-4a90-a22b-6ecd9b199732

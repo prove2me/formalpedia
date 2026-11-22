@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianFirstPassageCharacteristicComplexSqrtPublic
 -- name    : Kyprianou.Ch01.brownianFirstPassageCharacteristicComplexSqrtPublic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T07:38:11.81876+00:00
 -- url     : https://prove2.me/theorems/f69d91d1-8fdd-4cc2-ba3f-a474b817d2f9

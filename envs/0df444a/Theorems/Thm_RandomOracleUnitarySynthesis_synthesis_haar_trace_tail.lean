@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomOracleUnitarySynthesis_synthesis_haar_trace_tail
 -- name    : RandomOracleUnitarySynthesis.synthesis_haar_trace_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:56:23.092225+00:00
 -- url     : https://prove2.me/theorems/7a665de8-fafd-480e-946a-522439c4c941

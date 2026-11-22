@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh133p8to134p4_polynomial_negative
 -- name    : TaoFivePrimes.rh133p8to134p4_polynomial_negative
--- status  : Open
+-- status  : Proved
 -- author  : @Johan Mercedes
 -- created : 2026-10-27T23:53:06.701188+00:00
 -- url     : https://prove2.me/theorems/108c5c71-8c60-47ab-980e-d5430bc037da

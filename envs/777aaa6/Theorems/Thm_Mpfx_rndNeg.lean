@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndNeg
 -- name    : Mpfx.rndNeg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:44.960943+00:00
 -- url     : https://prove2.me/theorems/f3c9a34f-9781-40d0-b8dd-9ed7aa1dbb61

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.chapterOneCertificatesLast17SourceExact
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-16T20:10:57.135046+00:00
 -- url     : https://prove2.me/submissions/56203d43-55d4-4dc1-a19d-6563bc8ea6f8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch01_All67CertificatesTargetedV3
 import Theorems.Thm_Kyprianou_Ch01_branchingOneAncestorGeneratorFromRates

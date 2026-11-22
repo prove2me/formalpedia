@@ -50285,8 +50285,8 @@
 {"parent": "KannanLattice.Core.exists_short_vector_sqrt_n", "child": "KannanLattice_Core_Lattice", "via": ["solution", "statement"]}
 {"parent": "KannanLattice.Core.lattice_free_body_few_integral_translates", "child": "KannanLattice_Core_Lattice", "via": ["statement"]}
 {"parent": "KannanLattice_Core_IsReduced", "child": "KannanLattice_Core_Lattice", "via": ["statement"]}
-{"parent": "KarimiPL.Prox.descent_Dg", "child": "KarimiPL_Prox_Setting", "via": ["statement"]}
-{"parent": "KarimiPL.Prox.one_step_15", "child": "KarimiPL_Prox_Setting", "via": ["statement"]}
+{"parent": "KarimiPL.Prox.descent_Dg", "child": "KarimiPL_Prox_Setting", "via": ["solution", "statement"]}
+{"parent": "KarimiPL.Prox.one_step_15", "child": "KarimiPL_Prox_Setting", "via": ["solution", "statement"]}
 {"parent": "KarimiPL.SGD.sg_step_bound", "child": "KarimiPL_SGD_Model", "via": ["statement"]}
 {"parent": "KarlinDP.Deterministic.exists_optimal_strategy", "child": "KarlinDP_Deterministic_Model", "via": ["solution", "statement"]}
 {"parent": "KarlinDP.Deterministic.principle_of_optimality", "child": "KarlinDP_Deterministic_Model", "via": ["solution", "statement"]}
@@ -51650,10 +51650,10 @@
 {"parent": "LT.TwistedNorm.sigmaConjClasses_mk_eq_of_normClassMap_eq_mk_of_mem_ellipticCell", "child": "P2M_Util", "via": ["solution"]}
 {"parent": "LT.TwistedNorm.sigmaConjClasses_mk_eq_of_normClassMap_eq_mk_of_mem_ellipticCell", "child": "TwistedNormClasses", "via": ["solution", "statement"]}
 {"parent": "LamLitt.eisenstein", "child": "LamLitt_Defs", "via": ["solution", "statement"]}
-{"parent": "LamLitt.integrality_implies_algebraicity", "child": "LamLitt_Defs", "via": ["statement"]}
+{"parent": "LamLitt.integrality_implies_algebraicity", "child": "LamLitt_Defs", "via": ["solution", "statement"]}
 {"parent": "LamLitt.integrality_implies_omega_integrality", "child": "LamLitt_Defs", "via": ["solution", "statement"]}
-{"parent": "LamLitt.lam_litt_conjecture", "child": "LamLitt_Defs", "via": ["statement"]}
-{"parent": "LamLitt.omega_integrality_implies_integrality", "child": "LamLitt_Defs", "via": ["statement"]}
+{"parent": "LamLitt.lam_litt_conjecture", "child": "LamLitt_Defs", "via": ["solution", "statement"]}
+{"parent": "LamLitt.omega_integrality_implies_integrality", "child": "LamLitt_Defs", "via": ["solution", "statement"]}
 {"parent": "LambdaCDM.accel_pos_iff", "child": "FRWUniverse", "via": ["solution"]}
 {"parent": "LambdaCDM.accel_pos_iff", "child": "FlatLambdaCDM", "via": ["solution", "statement"]}
 {"parent": "LambdaCDM.accel_zero_iff", "child": "FRWUniverse", "via": ["solution"]}

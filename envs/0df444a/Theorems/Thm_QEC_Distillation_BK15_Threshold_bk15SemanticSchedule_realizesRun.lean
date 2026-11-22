@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15SemanticSchedule_realizesRun
 -- name    : QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_realizesRun
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:28:27.859496+00:00
 -- url     : https://prove2.me/theorems/8063a0dc-0acf-458f-ab68-096af47804d3

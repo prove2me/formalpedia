@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MajorityDepthThree_Exact_lift_cost
 -- name    : MajorityDepthThree.Exact.lift_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:24:31.90684+00:00
 -- url     : https://prove2.me/theorems/12fff61a-4788-4d6b-b007-567aed55a124

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuchiRabinIndex_LowerBound_Supplement_theorem_44
 -- name    : BuchiRabinIndex.LowerBound.Supplement.theorem_44
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T13:55:13.747087+00:00
 -- url     : https://prove2.me/theorems/a639f40e-b0f3-4494-9ae4-c6d4b00e4375

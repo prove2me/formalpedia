@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_sum_tail_mul_sub
 -- name    : LevyStochCalc.Brownian.Ito.sum_tail_mul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:09:03.868423+00:00
 -- url     : https://prove2.me/theorems/f136b265-5929-4b08-ba37-fa8f3ffda1e0

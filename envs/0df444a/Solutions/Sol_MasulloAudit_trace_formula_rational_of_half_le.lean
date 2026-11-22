@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.trace_formula_rational_of_half_le
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:25:58.396553+00:00
 -- url     : https://prove2.me/submissions/d166483b-47dd-4180-b15c-7cd66d26aa94
 

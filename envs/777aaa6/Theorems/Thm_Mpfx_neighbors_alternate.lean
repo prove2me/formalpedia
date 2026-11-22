@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_neighbors_alternate
 -- name    : Mpfx.neighbors_alternate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:22.237675+00:00
 -- url     : https://prove2.me/theorems/36c23b26-67fc-46dc-ab47-004b5b455458

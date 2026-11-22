@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_neg_toZero
 -- name    : Mpfx.RoundsFinite.neg_toZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:44.357781+00:00
 -- url     : https://prove2.me/theorems/69d6f61a-814b-4bde-90b7-af8d5d6d7eaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_ofIntZpow_mem_shrink_iff
 -- name    : Mpfx.FiniteFormat.ofIntZpow_mem_shrink_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:14.726377+00:00
 -- url     : https://prove2.me/theorems/bf9955b4-cb96-4a38-a9fa-b4781d55e272

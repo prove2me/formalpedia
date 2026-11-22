@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_IsFaithfulRound_cross
 -- name    : Mpfx.IsFaithfulRound.cross
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:59:00.488247+00:00
 -- url     : https://prove2.me/theorems/91f905da-f9ba-4718-8ada-4dbaee75d787

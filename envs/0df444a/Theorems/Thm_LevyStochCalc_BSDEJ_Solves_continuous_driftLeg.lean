@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_BSDEJ_Solves_continuous_driftLeg
 -- name    : LevyStochCalc.BSDEJ.Solves.continuous_driftLeg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:21:04.347904+00:00
 -- url     : https://prove2.me/theorems/1d2822a4-78a6-488b-8f58-c896853d8ce5

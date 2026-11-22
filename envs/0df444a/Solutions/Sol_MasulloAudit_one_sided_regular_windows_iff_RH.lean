@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.one_sided_regular_windows_iff_RH
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T01:00:39.716702+00:00
 -- url     : https://prove2.me/submissions/d368b38f-2e55-4372-9f55-0bc994e844fd
 

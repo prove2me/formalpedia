@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_localDoubleRounding_of_below
 -- name    : Mpfx.localDoubleRounding_of_below
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:53:12.524979+00:00
 -- url     : https://prove2.me/theorems/3bb0bd61-650f-41c7-9a03-df22eaaca195

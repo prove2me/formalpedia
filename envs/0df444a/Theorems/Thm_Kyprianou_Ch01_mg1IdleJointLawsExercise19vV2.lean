@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1IdleJointLawsExercise19vV2
 -- name    : Kyprianou.Ch01.mg1IdleJointLawsExercise19vV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T14:24:39.756083+00:00
 -- url     : https://prove2.me/theorems/983fa722-e7ff-4519-8de7-2928937ecfca

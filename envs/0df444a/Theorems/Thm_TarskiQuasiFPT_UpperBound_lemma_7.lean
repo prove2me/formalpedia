@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarskiQuasiFPT_UpperBound_lemma_7
 -- name    : TarskiQuasiFPT.UpperBound.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:41:55.529994+00:00
 -- url     : https://prove2.me/theorems/6117771e-b170-4455-8773-a8acb33f2358

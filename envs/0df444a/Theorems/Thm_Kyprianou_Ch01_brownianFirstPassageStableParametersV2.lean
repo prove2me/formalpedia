@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianFirstPassageStableParametersV2
 -- name    : Kyprianou.Ch01.brownianFirstPassageStableParametersV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T14:24:14.448992+00:00
 -- url     : https://prove2.me/theorems/27afa139-625a-4ef9-b9d0-caaf089cce9d

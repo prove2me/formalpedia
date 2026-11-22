@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_IsFaithfulRound_nonpos
 -- name    : Mpfx.IsFaithfulRound.nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:43:53.592731+00:00
 -- url     : https://prove2.me/theorems/e9c4da3d-18fb-4170-b064-5b8ca6106a11

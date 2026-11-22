@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MajorityDepthThree_Exact_combine_restrictions
 -- name    : MajorityDepthThree.Exact.combine_restrictions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:23:38.760669+00:00
 -- url     : https://prove2.me/theorems/b8fca241-06bf-4378-ad4d-2ac4b1f1a131

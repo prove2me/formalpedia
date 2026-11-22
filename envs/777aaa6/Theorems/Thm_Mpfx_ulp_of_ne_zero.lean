@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_ulp_of_ne_zero
 -- name    : Mpfx.ulp_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:45:45.477327+00:00
 -- url     : https://prove2.me/theorems/3253b999-f2ac-4c2d-ab71-1cfadcd4dd34

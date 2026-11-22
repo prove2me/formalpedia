@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_truncated_convolution_not_compact
 -- name    : MasulloAudit.truncated_convolution_not_compact
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:29:56.812032+00:00
 -- url     : https://prove2.me/theorems/e7158823-4312-4d73-b4de-ae59151258d3
 -- title:

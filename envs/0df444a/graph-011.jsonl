@@ -11863,8 +11863,8 @@
 {"parent": "Sensitivity213981Formal_Endpoint22ReachChecks109", "child": "SensitivityCampaign", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22ReachChecks109", "child": "Sensitivity213981Formal_Namespaces", "via": ["statement"]}
 {"parent": "Sensitivity213981Formal_Endpoint22ReachChecks109", "child": "Sensitivity213981Formal_Endpoint22PackedRecordTree", "via": ["statement"]}
-{"parent": "TaoFivePrimes.rh133p8to134p4_polynomial_negative", "child": "TaoFivePrimes_RHLocalRationalPolynomial", "via": ["statement"]}
-{"parent": "TaoFivePrimes.rh133p8to134p4_polynomial_negative", "child": "TaoFivePrimes_RH132RoundedCoefficients14", "via": ["statement"]}
+{"parent": "TaoFivePrimes.rh133p8to134p4_polynomial_negative", "child": "TaoFivePrimes_RHLocalRationalPolynomial", "via": ["solution", "statement"]}
+{"parent": "TaoFivePrimes.rh133p8to134p4_polynomial_negative", "child": "TaoFivePrimes_RH132RoundedCoefficients14", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared28.left_parallel_003_part06_checked", "child": "D1Bound5_SmallPairLightData28LeftRows_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared28.left_parallel_003_part06_checked", "child": "D1Bound5_SmallPairLightData28LeftCached_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared28.left_parallel_003_part06_checked", "child": "D1Bound5_PairLightArithmeticChunks_Definitions", "via": ["solution", "statement"]}

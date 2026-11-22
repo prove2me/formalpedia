@@ -75476,12 +75476,12 @@
 {"parent": "CirclePackingConstants.r_n_six_upper", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.r_n_six_upper", "child": "CirclePackingConstants.six_unit_square_close_pair", "via": ["solution"]}
 {"parent": "CirclePackingConstants.r_n_sixteen_lower", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
-{"parent": "CirclePackingConstants.r_n_sixteen_upper", "child": "CirclePackingConstants", "via": ["statement"]}
+{"parent": "CirclePackingConstants.r_n_sixteen_upper", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.r_n_thirty_six_lower", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.r_n_thirty_six_upper", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.r_n_thirty_six_upper", "child": "CirclePackingConstants.thirty_six_unit_square_close_pair", "via": ["solution"]}
 {"parent": "CirclePackingConstants.r_n_twenty_five_lower", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
-{"parent": "CirclePackingConstants.r_n_twenty_five_upper", "child": "CirclePackingConstants", "via": ["statement"]}
+{"parent": "CirclePackingConstants.r_n_twenty_five_upper", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.seven_unit_square_close_pair", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.seven_unit_square_close_pair", "child": "CirclePackingConstants.N7Rep01.n7_pattern_01_infeasible", "via": ["solution"]}
 {"parent": "CirclePackingConstants.seven_unit_square_close_pair", "child": "CirclePackingConstants.N7Rep02.n7_pattern_02_infeasible", "via": ["solution"]}
@@ -75628,7 +75628,7 @@
 {"parent": "CirclePackingConstants.sixteen_quarter_cells_struct", "child": "CirclePackingConstants_BoxChecker", "via": ["solution"]}
 {"parent": "CirclePackingConstants.sixteen_quarter_cells_struct", "child": "CirclePackingConstants_SixteenGlue", "via": ["solution"]}
 {"parent": "CirclePackingConstants.sixteen_quarter_cells_struct", "child": "CirclePackingConstants_SixteenOcc", "via": ["solution"]}
-{"parent": "CirclePackingConstants.thirty_six_left_bottom_close_pair", "child": "CirclePackingConstants", "via": ["statement"]}
+{"parent": "CirclePackingConstants.thirty_six_left_bottom_close_pair", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.thirty_six_left_bottom_expand_to_three_sides", "child": "CirclePackingConstants", "via": ["solution", "statement"]}
 {"parent": "CirclePackingConstants.thirty_six_three_sides_close_pair", "child": "CirclePackingConstants", "via": ["statement"]}
 {"parent": "CirclePackingConstants.thirty_six_translate_to_left_bottom", "child": "CirclePackingConstants", "via": ["solution", "statement"]}

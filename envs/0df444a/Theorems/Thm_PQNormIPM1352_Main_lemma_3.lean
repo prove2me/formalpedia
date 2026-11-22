@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PQNormIPM1352_Main_lemma_3
 -- name    : PQNormIPM1352.Main.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T07:06:04.919931+00:00
 -- url     : https://prove2.me/theorems/da5ab808-168e-4c97-8869-d9e85e0e6c9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_freshD_original_fullnegative_physical_finite_horizon_count_L1
 -- name    : AvramDividend.Classical.avram_freshD_original_fullnegative_physical_finite_horizon_count_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:50:56.239204+00:00
 -- url     : https://prove2.me/theorems/e19df3d9-f75c-4567-8369-b45f30985076

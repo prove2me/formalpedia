@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_exists_unifGrid_cell
 -- name    : LevyStochCalc.Brownian.Ito.exists_unifGrid_cell
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:21:36.416441+00:00
 -- url     : https://prove2.me/theorems/5543ef95-6d6c-45c2-b6ad-3e9d914bbd20

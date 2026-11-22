@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRAZ_RAZ_finite
 -- name    : Mpfx.roundsRAZ_RAZ_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:54:15.245225+00:00
 -- url     : https://prove2.me/theorems/41dd77e1-cb59-4933-9d0f-dde90c8e3eac

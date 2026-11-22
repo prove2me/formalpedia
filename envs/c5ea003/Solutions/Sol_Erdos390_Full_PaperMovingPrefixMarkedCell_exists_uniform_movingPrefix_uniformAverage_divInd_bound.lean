@@ -1,0 +1,732 @@
+-- Prove2me | solution 1 for Erdos390.Full.PaperMovingPrefixMarkedCell.exists_uniform_movingPrefix_uniformAverage_divInd_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @doctosil
+-- created : 2026-09-17T16:19:57.401297+00:00
+-- url     : https://prove2.me/submissions/e810de4c-28de-402a-84fa-1f007578a41e
+
+import Mathlib
+import Definitions.Def_erdos390_source_bank_interface
+import Definitions.Def_erdos390_dickman_step_function
+import Theorems.Thm_MediumPNT
+import Definitions.Def_erdos390_analytic_foundations_001
+import Theorems.Thm_Erdos390_Full_DickmanBasic_kernel_product_bound
+import Theorems.Thm_Erdos390_Full_DickmanBasic_rho_pos_on_zero_five
+import Theorems.Thm_Erdos390_Full_DickmanBasic_kernel_secondDerivative_first_bound
+import Definitions.Def_erdos390_analytic_foundations_005
+import Theorems.Thm_Erdos390_Full_PaperMovingPrefixMarkedCell_exists_uniform_movingUpper_markedCell_paper_main_bound
+import Theorems.Thm_Erdos390_Full_PaperScaleMarkedCell_exists_uniform_markedCell_paper_main_bound
+
+/- Source module: Erdos390.Full.HeadPattern -/
+section
+
+
+/-!
+# Exact finite head patterns
+
+The marked smooth cells impose exact valuations at finitely many fixed head
+primes.  This file records their integral factor and modulus and proves the
+factorization/divisibility part of the inclusion--exclusion reduction.  No
+smooth-number asymptotic is used here.
+-/
+
+open scoped BigOperators
+open scoped ArithmeticFunction.Moebius
+
+namespace Erdos390.Full.HeadPattern
+
+
+
+namespace Pattern
+
+variable (P : Pattern)
+
+
+
+
+
+
+
+
+
+theorem factor_ne_zero : P.factor ≠ 0 := by
+  rw [factor]
+  apply Finset.prod_ne_zero_iff.mpr
+  intro p hp
+  exact pow_ne_zero _ (P.prime_mem p hp).ne_zero
+
+theorem modulus_ne_zero : P.modulus ≠ 0 := by
+  rw [modulus]
+  apply Finset.prod_ne_zero_iff.mpr
+  intro p hp
+  exact (P.prime_mem p hp).ne_zero
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Pattern
+
+end Erdos390.Full.HeadPattern
+
+end
+
+/- Source module: Erdos390.Full.DivisibilityMomentBounds -/
+section
+
+
+/-!
+# Exact multiple-counting moment bounds
+
+The omitted-local-score step in Lemma 7.5 expands a valuation score into
+divisor indicators and then counts common multiples.  This file proves that
+finite combinatorial step for an arbitrary set of positive integers bounded
+by one physical endpoint.  No smooth-number estimate or probability-model
+assumption enters here.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.DivisibilityMomentBounds
+
+open ArithmeticModel
+
+noncomputable section
+
+
+
+/-- A finite sum of an actual divisor indicator is the cardinality of the
+corresponding filtered set. -/
+theorem sum_divInd_eq_card_filter (S : Finset ℕ) (D : ℕ) :
+    (∑ m ∈ S, divInd D m) = ((S.filter (D ∣ ·)).card : ℝ) := by
+  rw [Finset.card_filter]
+  simp only [Nat.cast_sum, Nat.cast_ite, Nat.cast_one, Nat.cast_zero]
+  apply Finset.sum_congr rfl
+  intro m hm
+  simp only [divInd]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.DivisibilityMomentBounds
+
+end
+
+/- Source module: Erdos390.Full.PaperScaleMarkedCell -/
+section
+
+
+/-!
+# Paper-scale common main term for marked structured cells
+
+The raw structured-cell asymptotic is a finite sum of endpoint Dickman
+terms.  This module performs the algebraic closure required in the paper:
+the head Möbius coefficient is evaluated exactly, and the endpoint terms
+are compared with one common Dickman translate before normalization.
+-/
+
+open scoped BigOperators ArithmeticFunction.Moebius
+
+namespace Erdos390.Full.PaperScaleMarkedCell
+
+open ArithmeticModel DickmanBasic Scale
+open StructuredCells HeadPattern MarkedFriableAsymptotic
+open StructuredCellAsymptotic
+open DivisibilityMomentBounds
+
+noncomputable section
+
+/-! ## Exact closure of the head Möbius coefficient -/
+
+
+
+
+
+
+
+
+
+
+
+theorem headDensity_pos (P : Pattern) : 0 < headDensity P := by
+  have hfactor : (0 : ℝ) < (P.factor : ℝ) := by
+    exact_mod_cast Nat.pos_of_ne_zero P.factor_ne_zero
+  have hmod : (0 : ℝ) < (P.modulus : ℝ) := by
+    exact_mod_cast Nat.pos_of_ne_zero P.modulus_ne_zero
+  have htot : (0 : ℝ) < (P.modulus.totient : ℝ) := by
+    exact_mod_cast Nat.totient_pos.mpr (Nat.pos_of_ne_zero P.modulus_ne_zero)
+  exact mul_pos (one_div_pos.mpr hfactor) (div_pos htot hmod)
+
+
+
+/-! ## The common paper-scale main term -/
+
+
+
+
+
+theorem paperCellDensity_pos (P : Pattern) {A B : ℝ} (hAB : A < B) :
+    0 < paperCellDensity P A B := by
+  exact mul_pos (mul_pos (headDensity_pos P) (sub_pos.mpr hAB)) rho_U_pos
+
+
+
+
+
+
+
+
+
+
+
+/-- Four marks keep the paper coordinate inside the range on which the
+constructed Dickman function is positive. -/
+theorem paperDivisorCoordinate_mem_zero_five {n d : ℕ}
+    (hn : 1 < n) (hd : 0 < d) (hd4 : d ≤ yNat n ^ 4) :
+    0 ≤ paperDivisorCoordinate n d ∧ paperDivisorCoordinate n d ≤ 5 := by
+  have hnpos : 0 < n := by omega
+  have hypos : 0 < y n := y_pos hnpos
+  have hylog : 0 < Real.log (y n) := by
+    rw [log_y hnpos]
+    exact mul_pos (by norm_num) (L_pos hn)
+  have hdR : (0 : ℝ) < (d : ℝ) := by exact_mod_cast hd
+  have hlogd0 : 0 ≤ Real.log (d : ℝ) :=
+    Real.log_nonneg (by exact_mod_cast hd)
+  have hyNatPos : 0 < yNat n := by
+    by_contra hnot
+    have hyNat0 : yNat n = 0 := Nat.eq_zero_of_not_pos hnot
+    simp [hyNat0] at hd4
+    omega
+  have hyNatRpos : (0 : ℝ) < (yNat n : ℝ) := by exact_mod_cast hyNatPos
+  have hdCast : (d : ℝ) ≤ (yNat n : ℝ) ^ 4 := by exact_mod_cast hd4
+  have hlogdNat : Real.log (d : ℝ) ≤
+      4 * Real.log (yNat n : ℝ) := by
+    have h := Real.log_le_log hdR hdCast
+    rw [Real.log_pow] at h
+    norm_num at h
+    exact h
+  have hyNatUpper : (yNat n : ℝ) ≤ y n :=
+    Nat.floor_le hypos.le
+  have hlogNatY : Real.log (yNat n : ℝ) ≤ Real.log (y n) :=
+    Real.log_le_log hyNatRpos hyNatUpper
+  have hlogdY : Real.log (d : ℝ) ≤ 4 * Real.log (y n) := by
+    calc
+      Real.log (d : ℝ) ≤ 4 * Real.log (yNat n : ℝ) := hlogdNat
+      _ ≤ 4 * Real.log (y n) := by linarith
+  have hquot0 : 0 ≤ Real.log (d : ℝ) / Real.log (y n) :=
+    div_nonneg hlogd0 hylog.le
+  have hquot4 : Real.log (d : ℝ) / Real.log (y n) ≤ 4 :=
+    (div_le_iff₀ hylog).2 (by simpa using hlogdY)
+  unfold paperDivisorCoordinate DickmanBasic.U
+  constructor <;> linarith
+
+theorem paperDivisibilityMain_nonneg_le {n d : ℕ}
+    (hn : 1 < n) (hd : 0 < d) (hd4 : d ≤ yNat n ^ 4) :
+    0 ≤ paperDivisibilityMain n d ∧
+      paperDivisibilityMain n d ≤
+        1 / (rho DickmanBasic.U * (d : ℝ)) := by
+  have hv := paperDivisorCoordinate_mem_zero_five hn hd hd4
+  have hrv : 0 < rho (paperDivisorCoordinate n d) :=
+    rho_pos_on_zero_five hv.1 hv.2
+  have hrv1 : rho (paperDivisorCoordinate n d) ≤ 1 :=
+    FriableAsymptotic.rho_le_one_of_le_five hv.2
+  have hrU : 0 < rho DickmanBasic.U := rho_U_pos
+  have hdR : (0 : ℝ) < (d : ℝ) := by exact_mod_cast hd
+  unfold paperDivisibilityMain
+  constructor
+  · positivity
+  · rw [div_div]
+    exact div_le_div_of_nonneg_right hrv1 (mul_pos hrU hdR).le
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Normalization algebra -/
+
+
+
+
+
+
+
+/-- The unmarked structured cell has a fixed positive linear density.  This
+is the normalization lower bound used by all subsequent compact tilts. -/
+theorem exists_structuredCell_density_lower_bound
+    (P : Pattern) {A B : ℝ} (hA : 0 < A) (hAB : A < B) :
+    ∃ N₀ : ℕ, ∀ {n : ℕ}, N₀ ≤ n →
+      paperCellDensity P A B * (n : ℝ) / 2 ≤
+        ((structuredCell P (physicalBound A n) (physicalBound B n)
+          (yNat n)).card : ℝ) := by
+  obtain ⟨K, hK, Ncount, hcount⟩ :=
+    exists_uniform_markedCell_paper_main_bound P hA hAB
+  let c : ℝ := paperCellDensity P A B
+  have hc : 0 < c := paperCellDensity_pos P hAB
+  have hLTop : Filter.Tendsto L Filter.atTop Filter.atTop := by
+    simpa [L] using
+      Real.tendsto_log_atTop.comp tendsto_natCast_atTop_atTop
+  have hyTop : Filter.Tendsto (fun n : ℕ => y n)
+      Filter.atTop Filter.atTop := by
+    simpa [y] using
+      ((tendsto_rpow_atTop (by norm_num : (0 : ℝ) < 2 / 9)).comp
+        tendsto_natCast_atTop_atTop)
+  have hlarge : ∀ᶠ n : ℕ in Filter.atTop,
+      1 < n ∧ (2 : ℝ) ≤ y n ∧ 2 * K / c ≤ L n := by
+    filter_upwards [Filter.eventually_gt_atTop 1,
+      hyTop.eventually (Filter.eventually_ge_atTop (2 : ℝ)),
+      hLTop.eventually (Filter.eventually_ge_atTop (2 * K / c))] with
+      n hn hy hden
+    exact ⟨hn, hy, hden⟩
+  obtain ⟨Nlarge, hNlarge⟩ := Filter.eventually_atTop.mp hlarge
+  refine ⟨max Ncount Nlarge, ?_⟩
+  intro n hN
+  have hNc : Ncount ≤ n := by omega
+  have hNl : Nlarge ≤ n := by omega
+  obtain ⟨hn, hy, hden⟩ := hNlarge n hNl
+  have hnpos : 0 < n := by omega
+  have hnR : (0 : ℝ) < (n : ℝ) := by exact_mod_cast hnpos
+  have hL : 0 < L n := L_pos hn
+  have hyNat2 : 2 ≤ yNat n := Nat.le_floor hy
+  have h1d4 : 1 ≤ yNat n ^ 4 := by
+    exact pow_pos (by omega : 0 < yNat n) 4
+  have hbase₀ := hcount (n := n) (d := 1) hNc (by omega) h1d4
+    (by simp [Nat.mem_smoothNumbers]) (by simp)
+  have hbase :
+      |((structuredCell P (physicalBound A n) (physicalBound B n)
+          (yNat n)).card : ℝ) - c * (n : ℝ)| ≤
+        K * (n : ℝ) / L n := by
+    simpa [c, markedCell] using hbase₀
+  have hscale : 2 * K ≤ c * L n := by
+    have := (div_le_iff₀ hc).1 hden
+    simpa [mul_comm] using this
+  have hKdiv : K / L n ≤ c / 2 := by
+    apply (div_le_iff₀ hL).2
+    nlinarith [hscale]
+  have herr : K * (n : ℝ) / L n ≤ c * (n : ℝ) / 2 := by
+    calc
+      K * (n : ℝ) / L n = (K / L n) * (n : ℝ) := by ring
+      _ ≤ (c / 2) * (n : ℝ) :=
+        mul_le_mul_of_nonneg_right hKdiv hnR.le
+      _ = c * (n : ℝ) / 2 := by ring
+  have hlower := (abs_le.mp (hbase.trans herr)).1
+  dsimp only [c] at hlower ⊢
+  linarith
+
+
+
+end
+
+end Erdos390.Full.PaperScaleMarkedCell
+
+end
+
+/- Source module: Erdos390.Full.PaperMovingPrefixMarkedCell -/
+section
+
+
+/-!
+# Uniform moving-prefix endpoint bookkeeping
+
+For a prefix endpoint `k` inside a fixed physical interval, put
+`D = k / n`.  Then `physicalBound D n = k` exactly.  Moreover `D` stays
+in the original fixed compact physical interval.  These elementary facts
+allow the marked-cell endpoint theorem to be applied without pretending
+that the moving endpoint is fixed as `n` varies.
+-/
+
+namespace Erdos390.Full.PaperMovingPrefixMarkedCell
+
+open ArithmeticModel PaperScaleMarkedCell
+open HeadPattern StructuredCells MarkedFriableAsymptotic
+open StructuredCellAsymptotic
+open scoped BigOperators
+
+noncomputable section
+
+
+
+
+
+
+
+/-- A prefix strictly above `floor(A n)` has scale strictly above `A`. -/
+theorem lt_prefixScale_of_physicalBound_lt
+    {A : ℝ} {n k : ℕ} (hn : 0 < n)
+    (hk : physicalBound A n < k) :
+    A < prefixScale n k := by
+  have hnR : (0 : ℝ) < (n : ℝ) := by exact_mod_cast hn
+  have hfloor : A * (n : ℝ) < (physicalBound A n : ℝ) + 1 := by
+    exact Nat.lt_floor_add_one (A * (n : ℝ))
+  have hkCast : (physicalBound A n : ℝ) + 1 ≤ (k : ℝ) := by
+    exact_mod_cast hk
+  apply (lt_div_iff₀ hnR).2
+  exact hfloor.trans_le hkCast
+
+/-- A prefix below `floor(C n)` has scale at most `C`. -/
+theorem prefixScale_le_of_le_physicalBound
+    {C : ℝ} {n k : ℕ} (hC : 0 ≤ C) (hn : 0 < n)
+    (hk : k ≤ physicalBound C n) :
+    prefixScale n k ≤ C := by
+  have hnR : (0 : ℝ) < (n : ℝ) := by exact_mod_cast hn
+  have hkFloor : (k : ℝ) ≤ (physicalBound C n : ℝ) := by
+    exact_mod_cast hk
+  have hfloor : (physicalBound C n : ℝ) ≤ C * (n : ℝ) := by
+    exact Nat.floor_le (mul_nonneg hC hnR.le)
+  apply (div_le_iff₀ hnR).2
+  exact hkFloor.trans hfloor
+
+/-- Combined compact containment for every moving prefix used by Abel
+summation. -/
+theorem prefixScale_mem_compact
+    {A C : ℝ} {n k : ℕ} (hC : 0 ≤ C) (hn : 0 < n)
+    (hlow : physicalBound A n < k)
+    (hhigh : k ≤ physicalBound C n) :
+    A < prefixScale n k ∧ prefixScale n k ≤ C :=
+  ⟨lt_prefixScale_of_physicalBound_lt hn hlow,
+    prefixScale_le_of_le_physicalBound hC hn hhigh⟩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Exact prefix normalization identities -/
+
+theorem structuredCell_filter_le_eq
+    (P : Pattern) {lo hi y k : ℕ} (hk : k ≤ hi) :
+    (structuredCell P lo hi y).filter (fun m ↦ m ≤ k) =
+      structuredCell P lo k y := by
+  ext m
+  simp only [Finset.mem_filter, mem_structuredCell, mem_smoothInterval]
+  constructor
+  · rintro ⟨⟨⟨hlom, hmhi, hsmooth⟩, hmatch⟩, hmk⟩
+    exact ⟨⟨hlom, hmk, hsmooth⟩, hmatch⟩
+  · rintro ⟨⟨hlom, hmk, hsmooth⟩, hmatch⟩
+    exact ⟨⟨⟨hlom, hmk.trans hk, hsmooth⟩, hmatch⟩, hmk⟩
+
+/-- The joint divisor/prefix counting average is literally the normalized
+moving marked-cell cardinality. -/
+theorem uniformAverage_divInd_mul_prefix_eq_markedCell_ratio
+    (P : Pattern) {lo hi y k d : ℕ} (hk : k ≤ hi) :
+    DivisibilityMomentBounds.uniformAverage
+        (structuredCell P lo hi y)
+        (fun m ↦ divInd d m * if m ≤ k then 1 else 0) =
+      ((markedCell P lo k y d).card : ℝ) /
+        ((structuredCell P lo hi y).card : ℝ) := by
+  unfold DivisibilityMomentBounds.uniformAverage
+  have hsum :
+      (∑ m ∈ structuredCell P lo hi y,
+          (divInd d m * if m ≤ k then 1 else 0)) =
+        ∑ m ∈ (structuredCell P lo hi y).filter (fun m ↦ m ≤ k),
+          divInd d m := by
+    rw [Finset.sum_filter]
+    apply Finset.sum_congr rfl
+    intro m hm
+    by_cases hmk : m ≤ k <;> simp [hmk]
+  rw [hsum, structuredCell_filter_le_eq P hk,
+    DivisibilityMomentBounds.sum_divInd_eq_card_filter]
+  rfl
+
+
+
+/-- Quantitative normalization with an arbitrary nonnegative target. -/
+theorem abs_normalized_ratio_sub_le
+    {x y q z E F : ℝ} (hq : 0 < q) (hyhalf : q / 2 ≤ y)
+    (hx : |x - q * z| ≤ E) (hy : |y - q| ≤ F) (hz : 0 ≤ z) :
+    |x / y - z| ≤ 2 * (E + z * F) / q := by
+  have hypos : 0 < y := (half_pos hq).trans_le hyhalf
+  have hE : 0 ≤ E := (abs_nonneg (x - q * z)).trans hx
+  have hF : 0 ≤ F := (abs_nonneg (y - q)).trans hy
+  have hnum : 0 ≤ E + z * F := add_nonneg hE (mul_nonneg hz hF)
+  have hinv : 1 / y ≤ 2 / q := by
+    apply (div_le_div_iff₀ hypos hq).2
+    linarith
+  have hid : x / y - z = (x - q * z + z * (q - y)) / y := by
+    field_simp [hypos.ne']
+    ring
+  rw [hid, abs_div, abs_of_pos hypos]
+  calc
+    |x - q * z + z * (q - y)| / y ≤
+        (|x - q * z| + |z * (q - y)|) / y := by
+      exact div_le_div_of_nonneg_right (abs_add_le _ _) hypos.le
+    _ = (|x - q * z| + z * |y - q|) / y := by
+      rw [abs_mul, abs_of_nonneg hz, abs_sub_comm q y]
+    _ ≤ (E + z * F) / y := by
+      apply div_le_div_of_nonneg_right _ hypos.le
+      exact add_le_add hx (mul_le_mul_of_nonneg_left hy hz)
+    _ = (E + z * F) * (1 / y) := by ring
+    _ ≤ (E + z * F) * (2 / q) :=
+      mul_le_mul_of_nonneg_left hinv hnum
+    _ = 2 * (E + z * F) / q := by ring
+
+
+
+theorem prefixFraction_nonneg_le_one
+    {A C : ℝ} {n k : ℕ} (hAC : A < C)
+    (hAD : A ≤ prefixScale n k) (hDC : prefixScale n k ≤ C) :
+    0 ≤ prefixFraction A C n k ∧ prefixFraction A C n k ≤ 1 := by
+  have hden : 0 < C - A := sub_pos.mpr hAC
+  constructor
+  · exact div_nonneg (sub_nonneg.mpr hAD) hden.le
+  · apply (div_le_one hden).2
+    linarith
+
+theorem paperMarkedMain_moving_eq_fullDensity_mul_prefix
+    (P : Pattern) {A C : ℝ} (hAC : A < C)
+    {n k d : ℕ} (hd : 0 < d) :
+    paperMarkedMain P A (prefixScale n k) n d =
+      (paperCellDensity P A C * (n : ℝ)) *
+        prefixFraction A C n k * paperDivisibilityMain n d := by
+  rw [paperMarkedMain_eq_density_mul_divisibility P A
+    (prefixScale n k) hd]
+  unfold paperCellDensity prefixFraction
+  have hden : C - A ≠ 0 := ne_of_gt (sub_pos.mpr hAC)
+  field_simp [hden]
+
+/-- Uniform joint divisor/prefix probability for the genuine counting law
+on the full fixed physical cell.  The estimate is simultaneous in every
+integer prefix and every admissible four-mark modulus. -/
+theorem exists_uniform_movingPrefix_uniformAverage_divInd_bound
+    (P : Pattern) {A C : ℝ} (hA : 0 < A) (hAC : A < C) :
+    ∃ K : ℝ, 0 < K ∧ ∃ N₀ : ℕ, ∀ {n k d : ℕ},
+      N₀ ≤ n → physicalBound A n < k → k ≤ physicalBound C n →
+      0 < d → d ≤ yNat n ^ 4 →
+      d ∈ Nat.smoothNumbers (yNat n + 1) →
+      Nat.Coprime d P.modulus →
+      let S := structuredCell P (physicalBound A n)
+        (physicalBound C n) (yNat n)
+      S.Nonempty ∧
+        |DivisibilityMomentBounds.uniformAverage S
+            (fun m ↦ divInd d m * if m ≤ k then 1 else 0) -
+          prefixFraction A C n k * paperDivisibilityMain n d| ≤
+            K / ((d : ℝ) * Scale.L n) := by
+  obtain ⟨Kmove, hKmove, Nmove, hmove⟩ :=
+    exists_uniform_movingUpper_markedCell_paper_main_bound P hA hAC
+  obtain ⟨Kfull, hKfull, Nfull, hfull⟩ :=
+    exists_uniform_markedCell_paper_main_bound P hA hAC
+  obtain ⟨Ndensity, hdensity⟩ :=
+    exists_structuredCell_density_lower_bound P hA hAC
+  let c : ℝ := paperCellDensity P A C
+  have hc : 0 < c := paperCellDensity_pos P hAC
+  have hrho : 0 < DickmanBasic.rho DickmanBasic.U :=
+    DickmanBasic.rho_U_pos
+  let K : ℝ :=
+    2 * (Kmove + Kfull / DickmanBasic.rho DickmanBasic.U) / c
+  have hK : 0 < K := by
+    dsimp only [K]
+    exact div_pos
+      (mul_pos (by norm_num) (add_pos_of_pos_of_nonneg hKmove
+        (div_nonneg hKfull.le hrho.le))) hc
+  let N₀ := max 2 (max Nmove (max Nfull Ndensity))
+  refine ⟨K, hK, N₀, ?_⟩
+  intro n k d hN hlow hhigh hd hd4 hdsmooth hcop
+  dsimp only
+  have hNmove : Nmove ≤ n := by
+    dsimp only [N₀] at hN
+    omega
+  have hNfull : Nfull ≤ n := by
+    dsimp only [N₀] at hN
+    omega
+  have hNdensity : Ndensity ≤ n := by
+    dsimp only [N₀] at hN
+    omega
+  have hn : 1 < n := by
+    dsimp only [N₀] at hN
+    omega
+  have hnpos : 0 < n := by omega
+  have hL : 0 < Scale.L n := Scale.L_pos hn
+  let S : Finset ℕ := structuredCell P (physicalBound A n)
+    (physicalBound C n) (yNat n)
+  let q : ℝ := c * (n : ℝ)
+  let r : ℝ := prefixFraction A C n k
+  let t : ℝ := paperDivisibilityMain n d
+  let x : ℝ := ((markedCell P (physicalBound A n) k (yNat n) d).card : ℝ)
+  let ycard : ℝ := (S.card : ℝ)
+  have hq : 0 < q := by
+    dsimp only [q]
+    exact mul_pos hc (by exact_mod_cast hnpos)
+  have hhalf : q / 2 ≤ ycard := by
+    dsimp only [q, ycard, c, S]
+    exact hdensity hNdensity
+  have hSposR : 0 < (S.card : ℝ) := (half_pos hq).trans_le hhalf
+  have hS : S.Nonempty := by
+    exact Finset.card_pos.mp (by exact_mod_cast hSposR)
+  have hfracCompact := prefixScale_mem_compact
+    (hA.trans hAC).le hnpos hlow hhigh
+  have hrange : 0 ≤ r ∧ r ≤ 1 := by
+    dsimp only [r]
+    exact prefixFraction_nonneg_le_one hAC hfracCompact.1.le
+      hfracCompact.2
+  have htRange := paperDivisibilityMain_nonneg_le hn hd hd4
+  have ht0 : 0 ≤ t := by simpa only [t] using htRange.1
+  have hz0 : 0 ≤ r * t := mul_nonneg hrange.1 ht0
+  have hzUpper : r * t ≤
+      1 / (DickmanBasic.rho DickmanBasic.U * (d : ℝ)) := by
+    calc
+      r * t ≤ 1 * t := mul_le_mul_of_nonneg_right hrange.2 ht0
+      _ = t := one_mul t
+      _ ≤ 1 / (DickmanBasic.rho DickmanBasic.U * (d : ℝ)) := by
+        simpa only [t] using htRange.2
+  have hx : |x - q * (r * t)| ≤
+      Kmove * (n : ℝ) / ((d : ℝ) * Scale.L n) := by
+    have hm := hmove hNmove hlow hhigh hd hd4 hdsmooth hcop
+    have hmain := paperMarkedMain_moving_eq_fullDensity_mul_prefix
+      P hAC (n := n) (k := k) (d := d) hd
+    dsimp only [x, q, r, t, c]
+    rw [show
+      paperCellDensity P A C * (n : ℝ) *
+          (prefixFraction A C n k * paperDivisibilityMain n d) =
+        (paperCellDensity P A C * (n : ℝ)) *
+          prefixFraction A C n k * paperDivisibilityMain n d by ring]
+    rw [← hmain]
+    exact hm
+  have hOneLe : 1 ≤ yNat n ^ 4 := (show 1 ≤ d by omega).trans hd4
+  have hy : |ycard - q| ≤ Kfull * (n : ℝ) / Scale.L n := by
+    have hf := hfull (n := n) (d := 1) hNfull (by omega) hOneLe
+      (by simp [Nat.mem_smoothNumbers]) (by simp)
+    dsimp only [ycard, q, S, c]
+    simpa [markedCell, paperMarkedMain_one] using hf
+  have hratio := abs_normalized_ratio_sub_le hq hhalf hx hy hz0
+  have hE0 : 0 ≤ Kmove * (n : ℝ) /
+      ((d : ℝ) * Scale.L n) := by positivity
+  have hF0 : 0 ≤ Kfull * (n : ℝ) / Scale.L n := by positivity
+  have hzF : (r * t) * (Kfull * (n : ℝ) / Scale.L n) ≤
+      (1 / (DickmanBasic.rho DickmanBasic.U * (d : ℝ))) *
+        (Kfull * (n : ℝ) / Scale.L n) :=
+    mul_le_mul_of_nonneg_right hzUpper hF0
+  have hbound : 2 *
+      (Kmove * (n : ℝ) / ((d : ℝ) * Scale.L n) +
+        (r * t) * (Kfull * (n : ℝ) / Scale.L n)) / q ≤
+      K / ((d : ℝ) * Scale.L n) := by
+    calc
+      _ ≤ 2 *
+          (Kmove * (n : ℝ) / ((d : ℝ) * Scale.L n) +
+            (1 / (DickmanBasic.rho DickmanBasic.U * (d : ℝ))) *
+              (Kfull * (n : ℝ) / Scale.L n)) / q := by
+        exact div_le_div_of_nonneg_right
+          (mul_le_mul_of_nonneg_left
+            (add_le_add (le_refl _) hzF) (by norm_num))
+          hq.le
+      _ = K / ((d : ℝ) * Scale.L n) := by
+        dsimp only [K, q, c]
+        have hnR : (n : ℝ) ≠ 0 := by exact_mod_cast hnpos.ne'
+        have hdR : (d : ℝ) ≠ 0 := by exact_mod_cast hd.ne'
+        field_simp [hc.ne', hrho.ne', hnR, hdR, hL.ne']
+  refine ⟨by simpa only [S] using hS, ?_⟩
+  rw [uniformAverage_divInd_mul_prefix_eq_markedCell_ratio P hhigh]
+  change |x / ycard - r * t| ≤ _
+  exact hratio.trans hbound
+
+
+
+
+
+end
+
+end Erdos390.Full.PaperMovingPrefixMarkedCell
+
+end
+
+theorem solution :
+∀ (P : Erdos390.Full.HeadPattern.Pattern) {A C : Real},
+  LT.lt.{0} (0 : Real) A →
+    LT.lt.{0} A C →
+      ∃ K,
+        And (LT.lt.{0} (0 : Real) K)
+          (∃ N₀,
+            ∀ {n k d : Nat},
+              LE.le.{0} N₀ n →
+                LT.lt.{0} (Erdos390.Full.ArithmeticModel.physicalBound A n) k →
+                  LE.le.{0} k (Erdos390.Full.ArithmeticModel.physicalBound C n) →
+                    LT.lt.{0} (0 : Nat) d →
+                      LE.le.{0} d (HPow.hPow.{0, 0, 0} (Erdos390.Full.ArithmeticModel.yNat n) (4 : Nat)) →
+                        Membership.mem.{0, 0}
+                            (Nat.smoothNumbers (HAdd.hAdd.{0, 0, 0} (Erdos390.Full.ArithmeticModel.yNat n) (1 : Nat)))
+                            d →
+                          Nat.Coprime d (Erdos390.Full.HeadPattern.Pattern.modulus P) →
+                            have S :=
+                              Erdos390.Full.StructuredCells.structuredCell P
+                                (Erdos390.Full.ArithmeticModel.physicalBound A n)
+                                (Erdos390.Full.ArithmeticModel.physicalBound C n)
+                                (Erdos390.Full.ArithmeticModel.yNat n);
+                            And (Finset.Nonempty.{0} S)
+                              (LE.le.{0}
+                                (abs.{0}
+                                  (HSub.hSub.{0, 0, 0}
+                                    (Erdos390.Full.DivisibilityMomentBounds.uniformAverage S fun m =>
+                                      HMul.hMul.{0, 0, 0} (Erdos390.Full.ArithmeticModel.divInd d m)
+                                        (ite.{1} (LE.le.{0} m k) (1 : Real) (0 : Real)))
+                                    (HMul.hMul.{0, 0, 0}
+                                      (Erdos390.Full.PaperMovingPrefixMarkedCell.prefixFraction A C n k)
+                                      (Erdos390.Full.PaperScaleMarkedCell.paperDivisibilityMain n d))))
+                                (HDiv.hDiv.{0, 0, 0} K (HMul.hMul.{0, 0, 0} (↑d) (Erdos390.Full.Scale.L n))))) := by
+  exact @Erdos390.Full.PaperMovingPrefixMarkedCell.exists_uniform_movingPrefix_uniformAverage_divInd_bound

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_heckeLFunction_inv_polynomial_growth_on_one_line
 -- name    : MasulloGRH.heckeLFunction_inv_polynomial_growth_on_one_line
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:44:43.565325+00:00
 -- url     : https://prove2.me/theorems/61f0e98a-f5c2-4105-9d11-7e2c748d9253

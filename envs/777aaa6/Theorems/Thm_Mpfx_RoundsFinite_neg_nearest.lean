@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_neg_nearest
 -- name    : Mpfx.RoundsFinite.neg_nearest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:27.953896+00:00
 -- url     : https://prove2.me/theorems/a696f2cb-2d55-43c7-bae8-7a8c2c411eae

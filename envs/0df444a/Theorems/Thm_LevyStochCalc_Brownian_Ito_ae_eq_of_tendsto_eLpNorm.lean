@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_ae_eq_of_tendsto_eLpNorm
 -- name    : LevyStochCalc.Brownian.Ito.ae_eq_of_tendsto_eLpNorm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:30:38.057174+00:00
 -- url     : https://prove2.me/theorems/32bb5760-f7df-4730-a310-bac9bc9a0db1

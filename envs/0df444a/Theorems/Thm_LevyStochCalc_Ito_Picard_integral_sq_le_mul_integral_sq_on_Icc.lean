@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Ito_Picard_integral_sq_le_mul_integral_sq_on_Icc
 -- name    : LevyStochCalc.Ito.Picard.integral_sq_le_mul_integral_sq_on_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:22:23.335254+00:00
 -- url     : https://prove2.me/theorems/b3c5999b-91ff-4777-91be-3bdfd27a297a

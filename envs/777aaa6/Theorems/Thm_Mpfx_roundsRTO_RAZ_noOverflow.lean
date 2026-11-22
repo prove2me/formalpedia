@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRTO_RAZ_noOverflow
 -- name    : Mpfx.roundsRTO_RAZ_noOverflow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:15.00249+00:00
 -- url     : https://prove2.me/theorems/ee66b6c2-898f-492a-9e32-9b3626946c04

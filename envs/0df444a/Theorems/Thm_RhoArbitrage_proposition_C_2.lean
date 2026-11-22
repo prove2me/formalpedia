@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RhoArbitrage_proposition_C_2
 -- name    : RhoArbitrage.proposition_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T04:24:49.846282+00:00
 -- url     : https://prove2.me/theorems/9c42eef5-698f-4ff0-a53f-a573c725ed5f

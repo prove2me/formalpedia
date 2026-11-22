@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_lintegral_sq_lt_top_of_bounded
 -- name    : LevyStochCalc.Brownian.Ito.lintegral_sq_lt_top_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:43:13.497225+00:00
 -- url     : https://prove2.me/theorems/e462ae02-705b-4f68-bf28-958f85374b39

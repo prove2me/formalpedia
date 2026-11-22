@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_lundbergAsymptotic
 -- name    : Kyprianou.Ch01.lundbergAsymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:13:58.202722+00:00
 -- url     : https://prove2.me/theorems/41747eee-3d1b-40c3-8389-59e9ff2104f2

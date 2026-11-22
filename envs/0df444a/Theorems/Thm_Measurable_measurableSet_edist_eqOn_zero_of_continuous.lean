@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Measurable_measurableSet_edist_eqOn_zero_of_continuous
 -- name    : Measurable.measurableSet_edist_eqOn_zero_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T15:42:43.20261+00:00
 -- url     : https://prove2.me/theorems/0202f7ed-011b-4c3f-9529-375af0550fbc

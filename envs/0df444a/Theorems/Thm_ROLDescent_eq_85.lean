@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ROLDescent_eq_85
 -- name    : ROLDescent.eq_85
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T21:47:27.563197+00:00
 -- url     : https://prove2.me/theorems/dbff0496-fa7b-44fb-877d-abea2f3b3be2

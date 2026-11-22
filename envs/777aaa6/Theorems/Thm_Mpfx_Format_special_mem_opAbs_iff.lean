@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_special_mem_opAbs_iff
 -- name    : Mpfx.Format.special_mem_opAbs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:31:20.460701+00:00
 -- url     : https://prove2.me/theorems/10145ea6-0fdd-45fc-b6f0-7c2721ff38f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TriFreeEst247_Main_lemma_2_1
 -- name    : TriFreeEst247.Main.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:06:35.308031+00:00
 -- url     : https://prove2.me/theorems/80d772b3-c952-4b23-bfdc-e96c7bbd4f39

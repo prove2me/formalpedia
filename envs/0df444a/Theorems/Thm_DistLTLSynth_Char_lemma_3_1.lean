@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistLTLSynth_Char_lemma_3_1
 -- name    : DistLTLSynth.Char.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:16:50.459346+00:00
 -- url     : https://prove2.me/theorems/27e17ff4-7a29-4dfd-8456-3bece275f140

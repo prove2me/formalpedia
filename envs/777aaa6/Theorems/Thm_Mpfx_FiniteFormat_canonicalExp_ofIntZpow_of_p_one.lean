@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_canonicalExp_ofIntZpow_of_p_one
 -- name    : Mpfx.FiniteFormat.canonicalExp_ofIntZpow_of_p_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:55:17.371877+00:00
 -- url     : https://prove2.me/theorems/7a9263cf-41ad-4314-b902-3fa6af09c5f6

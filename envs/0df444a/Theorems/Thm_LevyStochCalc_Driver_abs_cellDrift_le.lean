@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Driver_abs_cellDrift_le
 -- name    : LevyStochCalc.Driver.abs_cellDrift_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:27:41.93676+00:00
 -- url     : https://prove2.me/theorems/40bc339e-8948-4090-bf83-8e20399e7163

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_schwartz_S_adeles_structure
 -- name    : MasulloGRH.schwartz_S_adeles_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:48:24.586944+00:00
 -- url     : https://prove2.me/theorems/f109f86e-22f1-4a0c-85a0-010f50af871d

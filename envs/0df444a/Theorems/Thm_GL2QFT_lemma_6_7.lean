@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_lemma_6_7
 -- name    : GL2QFT.lemma_6_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:18:55.218208+00:00
 -- url     : https://prove2.me/theorems/8bb4b8c5-2ad9-4070-a1e5-f4c750c12928

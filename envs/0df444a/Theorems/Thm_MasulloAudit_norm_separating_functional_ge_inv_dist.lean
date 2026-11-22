@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_norm_separating_functional_ge_inv_dist
 -- name    : MasulloAudit.norm_separating_functional_ge_inv_dist
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:02:04.665694+00:00
 -- url     : https://prove2.me/theorems/541c0033-12a4-4936-8988-874462a922aa
 -- title:

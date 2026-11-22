@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_ga_positive_clock_restricted_mesh_global_indicator_transfer
 -- name    : AvramDividend.Classical.avram_ga_positive_clock_restricted_mesh_global_indicator_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:38:06.309569+00:00
 -- url     : https://prove2.me/theorems/4809968d-2f5e-4e12-9be0-8c6d15825a5d

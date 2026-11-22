@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for moebius_summatory_rpow_bound_of_riemannHypothesis
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-20T23:13:26.788694+00:00
 -- url     : https://prove2.me/submissions/3b9e9d65-002e-4a44-bce6-60d1dffde293
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianPassageLevySubordinatorZeroBoundaryV2
 -- name    : Kyprianou.Ch01.inverseGaussianPassageLevySubordinatorZeroBoundaryV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T23:29:36.226568+00:00
 -- url     : https://prove2.me/theorems/92b9e56a-85df-42d5-bb1a-c3c4bac5bb85

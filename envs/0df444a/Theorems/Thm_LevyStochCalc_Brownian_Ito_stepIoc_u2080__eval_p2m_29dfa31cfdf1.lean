@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_stepIoc_u2080__eval_p2m_29dfa31cfdf1
 -- name    : LevyStochCalc.Brownian.Ito.stepIoc_u2080__eval_p2m_29dfa31cfdf1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:47:20.934178+00:00
 -- url     : https://prove2.me/theorems/17249317-dd49-4453-a240-09e819a31d5c

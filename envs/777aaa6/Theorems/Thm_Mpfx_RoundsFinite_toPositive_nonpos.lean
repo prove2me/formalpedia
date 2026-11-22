@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_toPositive_nonpos
 -- name    : Mpfx.RoundsFinite.toPositive_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:51:25.095595+00:00
 -- url     : https://prove2.me/theorems/2a1d170e-2485-41aa-8309-cbe5bcbb2fc7

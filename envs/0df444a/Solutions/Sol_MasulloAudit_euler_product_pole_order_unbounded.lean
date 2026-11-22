@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.euler_product_pole_order_unbounded
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:06:55.040391+00:00
 -- url     : https://prove2.me/submissions/5e482ad8-bc3b-4414-8e10-4851eccf15dd
 

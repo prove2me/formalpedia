@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_window_mellin_evaluation_bounded
 -- name    : MasulloAudit.window_mellin_evaluation_bounded
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:27:50.032124+00:00
 -- url     : https://prove2.me/theorems/e2170362-8fa5-4c24-b4ab-c9ae6809338e
 -- title:

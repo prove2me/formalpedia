@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_uniform_rectangular_gaussian_preparation
 -- name    : InfoLossLAR.WorstCase.RegevSearch.uniform_rectangular_gaussian_preparation
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-21T05:54:51.80854+00:00
 -- url     : https://prove2.me/theorems/912efb88-48a6-4e10-b841-1070dd0ad365

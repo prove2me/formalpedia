@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_martingale_of_tendsto_eLpNorm_one
 -- name    : LevyStochCalc.Brownian.Ito.martingale_of_tendsto_eLpNorm_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T17:34:45.135509+00:00
 -- url     : https://prove2.me/theorems/5c251e08-3cb3-4f75-84f4-744f9207fe38

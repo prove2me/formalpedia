@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FermiGaussMix_eq_A_7_A_8
 -- name    : FermiGaussMix.eq_A_7_A_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:59:39.702035+00:00
 -- url     : https://prove2.me/theorems/7b44f72d-4cee-41e8-b308-26b7826d03ea

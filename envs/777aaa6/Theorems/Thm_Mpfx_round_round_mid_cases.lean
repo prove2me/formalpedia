@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_round_round_mid_cases
 -- name    : Mpfx.round_round_mid_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:58.70543+00:00
 -- url     : https://prove2.me/theorems/45dd4f8c-9c6e-4d70-af21-a590fef9005f

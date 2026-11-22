@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_special_mem_opMul_iff
 -- name    : Mpfx.Format.special_mem_opMul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:31:03.479189+00:00
 -- url     : https://prove2.me/theorems/538b3c85-df05-4070-aa27-77836dec844a

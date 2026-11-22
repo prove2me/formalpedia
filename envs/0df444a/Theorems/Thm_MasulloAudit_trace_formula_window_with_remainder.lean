@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_window_with_remainder
 -- name    : MasulloAudit.trace_formula_window_with_remainder
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:16:24.315261+00:00
 -- url     : https://prove2.me/theorems/44b878a5-cce3-4960-bb2f-a81125207f2c
 -- title:

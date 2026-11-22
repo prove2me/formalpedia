@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_compound_poisson_marked_transforms
 -- name    : Kyprianou.Ch08.StageB.source_result81_compound_poisson_marked_transforms
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:51:02.442886+00:00
 -- url     : https://prove2.me/theorems/43c431f7-1957-425e-8c07-65589f39d757

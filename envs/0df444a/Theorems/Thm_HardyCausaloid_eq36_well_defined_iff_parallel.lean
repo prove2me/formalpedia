@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyCausaloid_eq36_well_defined_iff_parallel
 -- name    : HardyCausaloid.eq36_well_defined_iff_parallel
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:42.289243+00:00
 -- url     : https://prove2.me/theorems/1074b309-d6a5-4a6e-9174-b5be575cc383

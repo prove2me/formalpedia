@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_theorem_4_2
 -- name    : InfoLossLAR.WorstCase.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:06:29.200338+00:00
 -- url     : https://prove2.me/theorems/bda9fef1-8ac2-4713-a431-37eb06cb3c8e

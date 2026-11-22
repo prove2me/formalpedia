@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_independent_coefficient_batch_mqpt
 -- name    : InfoLossLAR.WorstCase.RegevSearch.independent_coefficient_batch_mqpt
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-20T13:40:34.241839+00:00
 -- url     : https://prove2.me/theorems/1817c57c-2cbe-4815-9665-53e3775d3d76

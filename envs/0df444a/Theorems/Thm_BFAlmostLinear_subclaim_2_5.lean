@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BFAlmostLinear_subclaim_2_5
 -- name    : BFAlmostLinear.subclaim_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:37:56.725365+00:00
 -- url     : https://prove2.me/theorems/4c941284-15f6-4f31-8756-cb7fd44a7ef6

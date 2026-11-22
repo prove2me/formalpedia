@@ -1,0 +1,56 @@
+-- Prove2me | solution 1 for Kourovka.MetabelianEnumeration.ComputableCoverData.radius_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-21T08:10:10.230185+00:00
+-- url     : https://prove2.me/submissions/94d6d798-e1be-4d80-b590-c6ee7288c9e1
+
+import Definitions.Def_Kourovka_Polyhedral_ComputableCone
+import Definitions.Def_Kourovka_Covers_CertifiedCover
+import Definitions.Def_Kourovka_Covers_ComputableCoverData
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableCoverData_lengthBound_eq
+import Theorems.Thm_Kourovka_MetabelianEnumeration_ComputableCoverData_coneRadius_formula
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_abs_unitSign
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_blockWord_finRange
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_conjugate_one
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_euclidean_add
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_euclidean_neg
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_euclidean_norm_abs
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_lower_shift
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_neg_mem_ball
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_not_precedes_self
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_orderedWord_zero
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_lower
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_shift
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_snoc_castSucc
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_raise_snoc_last
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_shiftList_finRange
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_shiftList_nil
+import Theorems.Thm_Kourovka_MetabelianEnumeration_FiniteCover_Collection_shift_zero
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.abs_unitSign
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.blockWord_finRange
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.conjugate_one
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.euclidean_add
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.euclidean_neg
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.euclidean_norm_abs
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.lower_shift
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.neg_mem_ball
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.not_precedes_self
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.orderedWord_zero
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_lower
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_shift
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_snoc_castSucc
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.raise_snoc_last
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.shiftList_finRange
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.shiftList_nil
+attribute [local simp] Kourovka.MetabelianEnumeration.FiniteCover.Collection.shift_zero
+
+
+
+set_option autoImplicit true
+open Kourovka Kourovka.MetabelianEnumeration Kourovka.MetabelianEnumeration.ComputableCoverData
+open ComputableIntegers FiniteCover
+namespace Kourovka.MetabelianEnumeration.ComputableCoverData
+theorem _root_.solution (data : DatumCode) (r : ℕ) : radius data r = coneRadius (decode data) r := by
+  rw [coneRadius_formula (decode data) (by simp [dimension]) r (lengthBound data) (lengthBound_eq data).symm]
+  rfl
+end Kourovka.MetabelianEnumeration.ComputableCoverData

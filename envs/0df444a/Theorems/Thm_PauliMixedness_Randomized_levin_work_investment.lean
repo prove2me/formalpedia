@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PauliMixedness_Randomized_levin_work_investment
 -- name    : PauliMixedness.Randomized.levin_work_investment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:40:24.658915+00:00
 -- url     : https://prove2.me/theorems/a4e1e1bd-5ee2-4d62-8163-6474afcd2ad4

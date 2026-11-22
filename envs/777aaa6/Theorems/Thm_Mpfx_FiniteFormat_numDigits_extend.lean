@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_numDigits_extend
 -- name    : Mpfx.FiniteFormat.numDigits_extend
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:59:40.054567+00:00
 -- url     : https://prove2.me/theorems/1bcd0a66-217d-4779-9686-8b091922cace

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_twisted_orbital_trace_eq_weil_local_term
 -- name    : MasulloAudit.twisted_orbital_trace_eq_weil_local_term
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:28:43.312169+00:00
 -- url     : https://prove2.me/theorems/7a3ddce5-168d-4a1a-bb7c-60732b37a05f
 -- title:

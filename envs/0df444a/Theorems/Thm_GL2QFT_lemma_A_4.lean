@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_lemma_A_4
 -- name    : GL2QFT.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:16:34.235407+00:00
 -- url     : https://prove2.me/theorems/01d41e84-1d74-4c6c-9674-f8175021c33b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_localDoubleRounding_of_above
 -- name    : Mpfx.localDoubleRounding_of_above
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:47:41.677121+00:00
 -- url     : https://prove2.me/theorems/6463d0db-fb35-4500-943d-2cbba992145d

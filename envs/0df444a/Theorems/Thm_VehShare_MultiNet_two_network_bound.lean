@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehShare_MultiNet_two_network_bound
 -- name    : VehShare.MultiNet.two_network_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T04:06:25.565193+00:00
 -- url     : https://prove2.me/theorems/368060d2-7d50-4fd8-bacf-7e40e8b45423

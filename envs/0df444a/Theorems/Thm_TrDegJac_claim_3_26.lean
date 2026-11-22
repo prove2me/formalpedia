@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TrDegJac_claim_3_26
 -- name    : TrDegJac.claim_3_26
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:35:45.484524+00:00
 -- url     : https://prove2.me/theorems/3351a733-7e20-4ebd-8947-e32cb9c4a61e

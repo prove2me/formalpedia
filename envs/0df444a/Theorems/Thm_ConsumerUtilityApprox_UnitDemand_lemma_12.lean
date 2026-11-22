@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsumerUtilityApprox_UnitDemand_lemma_12
 -- name    : ConsumerUtilityApprox.UnitDemand.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T05:55:37.25093+00:00
 -- url     : https://prove2.me/theorems/1b4e519f-c181-463d-b4e6-f78e8d5cc8cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_lintegral_markedEnergy_parallelogram
 -- name    : LevyStochCalc.Poisson.Compensated.lintegral_markedEnergy_parallelogram
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:12:58.177535+00:00
 -- url     : https://prove2.me/theorems/0c6a2033-3d6d-4efd-b294-fbe2dc23a66a

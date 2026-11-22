@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for InfoLossLAR.WorstCase.RegevSearch.search_to_single_coefficient_gaussian
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-20T23:27:33.1776+00:00
 -- url     : https://prove2.me/submissions/3c121a93-f383-47df-a41e-d4eebbb2b859
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_search_to_shared_pool_bdd
 import Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_shared_pool_bdd_to_gaussian_events

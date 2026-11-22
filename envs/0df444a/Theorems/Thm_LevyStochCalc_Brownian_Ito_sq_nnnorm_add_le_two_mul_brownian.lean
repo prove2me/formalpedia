@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_sq_nnnorm_add_le_two_mul_brownian
 -- name    : LevyStochCalc.Brownian.Ito.sq_nnnorm_add_le_two_mul_brownian
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T08:04:24.50037+00:00
 -- url     : https://prove2.me/theorems/9557a8a3-8853-4f58-8c17-b2f4fc80099a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isEmbeddedPlane_of_tendstoCInftyLocOn
 -- name    : FiniteEnergyPlane.isEmbeddedPlane_of_tendstoCInftyLocOn
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-03T21:11:02.256819+00:00
 -- url     : https://prove2.me/theorems/345d19ee-a81e-4df8-8816-5ea6443c9690

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rndExact
 -- name    : Mpfx.rndExact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:24.357061+00:00
 -- url     : https://prove2.me/theorems/cdc3a623-9b01-4149-a090-b2749047fa62

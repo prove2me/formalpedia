@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.euler_partial_products_tendsto_top
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:51:33.510025+00:00
 -- url     : https://prove2.me/submissions/577772fd-6595-4aae-b40e-dba86f6f65e2
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BFAlmostLinear_theorem_2_1
 -- name    : BFAlmostLinear.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:40:26.582377+00:00
 -- url     : https://prove2.me/theorems/8ad0e3d4-1774-4d95-8b35-a09c02c8ec35

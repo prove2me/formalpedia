@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_lintegral_energy_const_mul
 -- name    : LevyStochCalc.Brownian.Ito.lintegral_energy_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:00:55.560711+00:00
 -- url     : https://prove2.me/theorems/ab9b6a22-6531-4b49-b1af-87032c9f5321

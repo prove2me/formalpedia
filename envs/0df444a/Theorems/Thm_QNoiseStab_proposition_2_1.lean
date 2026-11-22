@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QNoiseStab_proposition_2_1
 -- name    : QNoiseStab.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:20:55.152201+00:00
 -- url     : https://prove2.me/theorems/6406af3e-a4c9-4b8d-b18e-e44d196dd403

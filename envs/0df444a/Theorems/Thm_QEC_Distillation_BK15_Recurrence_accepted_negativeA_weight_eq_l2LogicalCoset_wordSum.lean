@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Recurrence_accepted_negativeA_weight_eq_l2LogicalCoset_wordSum
 -- name    : QEC.Distillation.BK15.Recurrence.accepted_negativeA_weight_eq_l2LogicalCoset_wordSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:16:21.855336+00:00
 -- url     : https://prove2.me/theorems/25148262-ba9d-46bb-a7bc-c3017f903038

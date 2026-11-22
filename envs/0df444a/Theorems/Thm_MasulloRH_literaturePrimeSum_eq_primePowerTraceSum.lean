@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloRH_literaturePrimeSum_eq_primePowerTraceSum
 -- name    : MasulloRH.literaturePrimeSum_eq_primePowerTraceSum
 -- status  : Proved
--- author  : @Calvin Yost-Wolff
+-- author  : @cyw
 -- created : 2026-11-20T23:01:09.56009+00:00
 -- url     : https://prove2.me/theorems/3e24de82-0780-49bd-8c22-d9e04f9b8bb3
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Mpfx_nearest_eq_of_close__390f66b23c83
 -- name    : P2M_Mpfx_nearest_eq_of_close__390f66b23c83
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:54:08.318044+00:00
 -- url     : https://prove2.me/theorems/0f346bf8-3be9-48aa-92d9-33ebd48e0ea0

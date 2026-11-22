@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_unique_toOdd
 -- name    : Mpfx.RoundsFinite.unique_toOdd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:56:38.627087+00:00
 -- url     : https://prove2.me/theorems/c00120ca-5a23-49e9-bad5-dc42ab28af51

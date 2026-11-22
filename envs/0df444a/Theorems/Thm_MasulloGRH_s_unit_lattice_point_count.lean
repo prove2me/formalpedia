@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_s_unit_lattice_point_count
 -- name    : MasulloGRH.s_unit_lattice_point_count
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:38:26.971198+00:00
 -- url     : https://prove2.me/theorems/07b33db6-d7d5-4c22-9b21-615ee3c49e64

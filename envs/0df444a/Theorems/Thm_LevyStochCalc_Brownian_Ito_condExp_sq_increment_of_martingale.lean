@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_condExp_sq_increment_of_martingale
 -- name    : LevyStochCalc.Brownian.Ito.condExp_sq_increment_of_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:02:28.431158+00:00
 -- url     : https://prove2.me/theorems/73928662-5fb2-4115-a16c-16403c08c000

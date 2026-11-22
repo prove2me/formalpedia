@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_prime_sums_converge_on_one_line
 -- name    : MasulloGRH.prime_sums_converge_on_one_line
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:45:32.856111+00:00
 -- url     : https://prove2.me/theorems/e94cf619-63fe-4a8b-ad37-e528f84cee0c

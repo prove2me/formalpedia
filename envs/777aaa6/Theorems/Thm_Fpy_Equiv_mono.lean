@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fpy_Equiv_mono
 -- name    : Fpy.Equiv.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:25.180804+00:00
 -- url     : https://prove2.me/theorems/96e2d42b-89c9-4a0a-ad5b-ee18d4673fdb

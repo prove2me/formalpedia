@@ -35366,12 +35366,12 @@
 {"parent": "SeededShannon_EvObf", "child": "NoisyOWMPC_wprob", "via": ["statement"]}
 {"parent": "OAI.CompletedDyadic.kernel_sum_bound", "child": "OAI_NumberTheory_DirichletL_CubicSieve_QuantitativePassage", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedDyadic.kernel_sum_bound", "child": "OAI_NumberTheory_DirichletL_MeanSquare_InputEnergy", "via": ["solution", "statement"]}
-{"parent": "ROLDescent.eq_70", "child": "ROLDescent_outProb", "via": ["statement"]}
-{"parent": "ROLDescent.eq_70", "child": "ROLDescent_facetMass", "via": ["statement"]}
-{"parent": "ROLDescent.eq_70", "child": "ROLDescent_linkWalk", "via": ["statement"]}
-{"parent": "ROLDescent.eq_70", "child": "ROLDescent_WeightedComplex", "via": ["statement"]}
-{"parent": "ROLDescent.eq_70", "child": "ROLDescent_remRank", "via": ["statement"]}
-{"parent": "ROLDescent.eq_70", "child": "HDXConc_linkWeight", "via": ["statement"]}
+{"parent": "ROLDescent.eq_70", "child": "ROLDescent_outProb", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_70", "child": "ROLDescent_facetMass", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_70", "child": "ROLDescent_linkWalk", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_70", "child": "ROLDescent_WeightedComplex", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_70", "child": "ROLDescent_remRank", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_70", "child": "HDXConc_linkWeight", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U96.entry0_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.full_uniform_secondSourceTail_bound", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_UniformTailBounds", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.full_uniform_secondSourceTail_bound", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_ProductColumns", "via": ["solution", "statement"]}
@@ -35598,7 +35598,7 @@
 {"parent": "OAI.FiniteOverlapDecomposition.sum_pair_split_cube", "child": "OAI_NumberTheory_DirichletL_MeanSquare_PoissonSource", "via": ["solution", "statement"]}
 {"parent": "CoarseMatching_LowerBound_HiddenCore", "child": "CoarseMatching_LowerBound_ProtocolResources", "via": ["statement"]}
 {"parent": "CoarseMatching_LowerBound_HiddenCore", "child": "CoarseMatching_LowerBound_SubsetLaws", "via": ["statement"]}
-{"parent": "ROLDescent.definition_2_1_gap_iff", "child": "ROLDescent_specGap", "via": ["statement"]}
+{"parent": "ROLDescent.definition_2_1_gap_iff", "child": "ROLDescent_specGap", "via": ["solution", "statement"]}
 {"parent": "NearOptOWF_mkMCircuit", "child": "LaconicBarrier_MCircuit", "via": ["statement"]}
 {"parent": "EdgeSublinearMWIS_Main_WeightedReduction", "child": "EdgeSublinearMWIS_Main_Graphs", "via": ["statement"]}
 {"parent": "EdgeSublinearMWIS_Main_WeightedReduction", "child": "EdgeSublinearMWIS_Main_Encoding", "via": ["statement"]}
@@ -36089,10 +36089,10 @@
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.fineQuadrantImage_hit_anchor", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementEmbeddingCoordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.fineQuadrantImage_hit_anchor", "child": "QEC_Coding_FiniteAlternatingConstruction_QuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.fineQuadrantImage_hit_anchor", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
-{"parent": "ROLDescent.eq_71", "child": "ROLDescent_linkWalk", "via": ["statement"]}
-{"parent": "ROLDescent.eq_71", "child": "ROLDescent_outProb", "via": ["statement"]}
-{"parent": "ROLDescent.eq_71", "child": "ROLDescent_WeightedComplex", "via": ["statement"]}
-{"parent": "ROLDescent.eq_71", "child": "HDXConc_linkWeight", "via": ["statement"]}
+{"parent": "ROLDescent.eq_71", "child": "ROLDescent_linkWalk", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_71", "child": "ROLDescent_outProb", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_71", "child": "ROLDescent_WeightedComplex", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_71", "child": "HDXConc_linkWeight", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.widthFactor_le_three_quarters", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_SupportGeometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.widthFactor_le_three_quarters", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Geometry", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.chosen_large_gcd_main", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_AnnularLifting", "via": ["solution", "statement"]}
@@ -40137,7 +40137,7 @@
 {"parent": "OptStochMatch.Tight.theorem_1_1", "child": "OptStochMatch_Tight_Basic", "via": ["statement"]}
 {"parent": "OptStochMatch.Tight.theorem_1_1", "child": "OptStochMatch_Tight_Matching", "via": ["statement"]}
 {"parent": "OptStochMatch.Tight.theorem_1_1", "child": "OptStochMatch_Tight_Machine", "via": ["statement"]}
-{"parent": "ROLDescent.eq_74_consequences", "child": "ROLDescent_IsSubspaceHierarchy", "via": ["statement"]}
+{"parent": "ROLDescent.eq_74_consequences", "child": "ROLDescent_IsSubspaceHierarchy", "via": ["solution", "statement"]}
 {"parent": "ROLDescent.eq_74_consequences", "child": "HDXConc_linkWeight", "via": ["statement"]}
 {"parent": "ChaChaTree_DynOpt_RefTrees", "child": "SplayDynOpt_IsBSTOn", "via": ["statement"]}
 {"parent": "QEC.Coding.ProbabilisticConstruction.Resampling.measurable_parameterized_output", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_Termination", "via": ["solution", "statement"]}
@@ -41391,10 +41391,10 @@
 {"parent": "OAI.SecondPassArithmetic.GlobalSecondData.source_append", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CompactProfiles", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.sourceLabel_norm", "child": "OAI_NumberTheory_DirichletL_MeanSquare_SourceTransfer", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.sourceLabel_norm", "child": "OAI_NumberTheory_DirichletL_MeanSquare_LogarithmicBins", "via": ["solution", "statement"]}
-{"parent": "ROLDescent.path_expansion", "child": "ROLDescent_prefixFace", "via": ["statement"]}
-{"parent": "ROLDescent.path_expansion", "child": "ROLDescent_rootPaths", "via": ["statement"]}
-{"parent": "ROLDescent.path_expansion", "child": "ROLDescent_WeightedComplex", "via": ["statement"]}
-{"parent": "ROLDescent.path_expansion", "child": "HDXConc_linkWeight", "via": ["statement"]}
+{"parent": "ROLDescent.path_expansion", "child": "ROLDescent_prefixFace", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.path_expansion", "child": "ROLDescent_rootPaths", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.path_expansion", "child": "ROLDescent_WeightedComplex", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.path_expansion", "child": "HDXConc_linkWeight", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.coordinateAxis_orthogonal", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Incidence", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.coordinateAxis_orthogonal", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Parameters", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.coordinateAxis_orthogonal", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Geometry", "via": ["solution", "statement"]}
@@ -48077,7 +48077,7 @@
 {"parent": "LoadBalMatch.Main.lemma_8_5", "child": "LoadBalMatch_Main_Matching", "via": ["statement"]}
 {"parent": "LoadBalMatch.Main.lemma_8_5", "child": "LoadBalMatch_Main_Algorithm4", "via": ["statement"]}
 {"parent": "LoadBalMatch.Main.lemma_8_5", "child": "LoadBalMatch_Main_FracMatching", "via": ["statement"]}
-{"parent": "ROLDescent.lemma_2_3", "child": "ROLDescent_sumMap", "via": ["statement"]}
+{"parent": "ROLDescent.lemma_2_3", "child": "ROLDescent_sumMap", "via": ["solution", "statement"]}
 {"parent": "PPSLattice_garbRun", "child": "PPSLattice_Garb", "via": ["statement"]}
 {"parent": "PPSLattice_garbRun", "child": "RestrictedDec_Adversary", "via": ["statement"]}
 {"parent": "PPSLattice_garbRun", "child": "PPSLattice_circSize", "via": ["statement"]}
@@ -54712,11 +54712,11 @@
 {"parent": "OAI.SharpPlanar.coarse_31_29_g", "child": "OAIQ098G1690", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalLogRep_le_upper", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_SelectedExponents", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalLogRep_le_upper", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_LogarithmicLoss", "via": ["solution", "statement"]}
-{"parent": "ROLDescent.eq_85", "child": "ROLDescent_outProb", "via": ["statement"]}
-{"parent": "ROLDescent.eq_85", "child": "ROLDescent_IsSubspaceHierarchy", "via": ["statement"]}
-{"parent": "ROLDescent.eq_85", "child": "ROLDescent_WeightedComplex", "via": ["statement"]}
-{"parent": "ROLDescent.eq_85", "child": "ROLDescent_gramNorm", "via": ["statement"]}
-{"parent": "ROLDescent.eq_85", "child": "HDXConc_linkWeight", "via": ["statement"]}
+{"parent": "ROLDescent.eq_85", "child": "ROLDescent_outProb", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_85", "child": "ROLDescent_IsSubspaceHierarchy", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_85", "child": "ROLDescent_WeightedComplex", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_85", "child": "ROLDescent_gramNorm", "via": ["solution", "statement"]}
+{"parent": "ROLDescent.eq_85", "child": "HDXConc_linkWeight", "via": ["solution", "statement"]}
 {"parent": "SunMinCut.Cactus.lemma_2_4", "child": "SunMinCut_Cactus_Graph", "via": ["statement"]}
 {"parent": "OAI.InitialMeanSquare.outside_factors_mem_pool", "child": "OAI_NumberTheory_DirichletL_MeanSquare_DiagonalDensity", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.outside_factors_mem_pool", "child": "OAI_NumberTheory_DirichletL_MeanSquare_HighRadialBounds", "via": ["solution", "statement"]}

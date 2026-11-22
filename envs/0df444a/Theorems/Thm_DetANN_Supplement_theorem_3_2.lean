@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetANN_Supplement_theorem_3_2
 -- name    : DetANN.Supplement.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T04:18:18.214797+00:00
 -- url     : https://prove2.me/theorems/7cef0c6f-fed1-40f1-8185-3f91b93b8058

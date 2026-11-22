@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianFullLevyTripletV2
 -- name    : Kyprianou.Ch01.inverseGaussianFullLevyTripletV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T14:23:40.344828+00:00
 -- url     : https://prove2.me/theorems/17f9c492-b146-449f-b81c-f7ccee23f889

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedCloning_Optimal_lemma_6
 -- name    : MixedCloning.Optimal.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:05:20.557596+00:00
 -- url     : https://prove2.me/theorems/441d6f32-1b71-4596-b7fe-64b53f0b4fb1

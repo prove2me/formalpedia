@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_mem_shrink_of_subset
 -- name    : Mpfx.Format.mem_shrink_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:54:52.062055+00:00
 -- url     : https://prove2.me/theorems/a0495f3f-ef5f-4c71-bb3a-03e7e3f543a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Multidim_MultidimBrownianMotion_isClosed_iSup_of_orthogonalFamily
 -- name    : LevyStochCalc.Brownian.Multidim.MultidimBrownianMotion.isClosed_iSup_of_orthogonalFamily
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:22:26.051964+00:00
 -- url     : https://prove2.me/theorems/a9220902-6bc5-4f27-8263-621a5d04b623

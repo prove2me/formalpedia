@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_zpow_log_le_rndDown
 -- name    : Mpfx.zpow_log_le_rndDown
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:40.240227+00:00
 -- url     : https://prove2.me/theorems/c39675bc-d55f-4f73-9c5d-76b9960252ef

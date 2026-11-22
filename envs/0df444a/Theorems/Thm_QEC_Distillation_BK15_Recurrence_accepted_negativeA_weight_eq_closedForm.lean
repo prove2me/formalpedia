@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Recurrence_accepted_negativeA_weight_eq_closedForm
 -- name    : QEC.Distillation.BK15.Recurrence.accepted_negativeA_weight_eq_closedForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:16:40.132608+00:00
 -- url     : https://prove2.me/theorems/621abbab-68da-4782-9dca-208898820e1c

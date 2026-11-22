@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_biorthogonal_norm_tendsto_top_of_continuous
 -- name    : MasulloAudit.biorthogonal_norm_tendsto_top_of_continuous
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:32:17.704571+00:00
 -- url     : https://prove2.me/theorems/3d8cc206-c831-41b4-84d9-2eb41b26c273
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IllCondRegMem_lemma_29
 -- name    : IllCondRegMem.lemma_29
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T09:54:48.299901+00:00
 -- url     : https://prove2.me/theorems/6e5d347d-4c31-49b9-9e3a-d872113ec1cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Supplement_theorem_C_2
 -- name    : GL2QFT.Supplement.theorem_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T01:47:41.770647+00:00
 -- url     : https://prove2.me/theorems/09bedf76-247a-4871-99ac-0127f0057560

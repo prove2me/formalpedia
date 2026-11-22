@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_partialHeckeLFunction_lower_bound_on_short_intervals
 -- name    : MasulloGRH.partialHeckeLFunction_lower_bound_on_short_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:45:05.097729+00:00
 -- url     : https://prove2.me/theorems/6ef66fe4-1e61-4802-9361-2f58905fac06

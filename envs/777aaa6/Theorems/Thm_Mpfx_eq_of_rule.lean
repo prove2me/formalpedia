@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_eq_of_rule
 -- name    : Mpfx.eq_of_rule
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:48:14.732583+00:00
 -- url     : https://prove2.me/theorems/117b6ea7-0045-47ab-8fcd-cea807d214b8

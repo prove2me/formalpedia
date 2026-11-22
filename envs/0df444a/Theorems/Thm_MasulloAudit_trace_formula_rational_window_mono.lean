@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_rational_window_mono
 -- name    : MasulloAudit.trace_formula_rational_window_mono
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:51:13.860289+00:00
 -- url     : https://prove2.me/theorems/796a89ec-4977-4ecd-8e39-bf26896c43c6
 -- title:

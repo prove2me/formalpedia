@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Ito_Picard_bieleckiNorm_picardLimit_lt_top
 -- name    : LevyStochCalc.Ito.Picard.bieleckiNorm_picardLimit_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T22:54:50.597355+00:00
 -- url     : https://prove2.me/theorems/5334205a-bc45-4efa-bf9b-cf0daa428347

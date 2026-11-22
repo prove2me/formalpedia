@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRTZ_RTZ_inBound
 -- name    : Mpfx.roundsRTZ_RTZ_inBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:06.814036+00:00
 -- url     : https://prove2.me/theorems/86a4c20f-20a1-4ea3-8092-2af621b77537

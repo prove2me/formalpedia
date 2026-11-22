@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1OverloadedPositiveIdleCDFfromRoot
 -- name    : Kyprianou.Ch01.mg1OverloadedPositiveIdleCDFfromRoot
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T00:33:57.633711+00:00
 -- url     : https://prove2.me/theorems/fb5d093b-6e43-4a37-b284-467e945dbf5f

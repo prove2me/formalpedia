@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyFLocal_eq20_two_qubit_expansion
 -- name    : HardyFLocal.eq20_two_qubit_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-04T06:39:10.718729+00:00
 -- url     : https://prove2.me/theorems/37369875-0a28-415d-a646-c21518c9996b

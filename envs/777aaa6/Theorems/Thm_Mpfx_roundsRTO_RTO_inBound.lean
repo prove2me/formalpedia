@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRTO_RTO_inBound
 -- name    : Mpfx.roundsRTO_RTO_inBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:58:09.308558+00:00
 -- url     : https://prove2.me/theorems/53cd0fb5-20a9-4d18-811b-489f6d8b0752

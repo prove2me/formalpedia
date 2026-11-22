@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloRH.literaturePrimeSum_eq_primePowerTraceSum
 -- status  : ACCEPTED   (prove)
--- author  : @Calvin Yost-Wolff
+-- author  : @cyw
 -- created : 2026-11-20T23:01:10.90323+00:00
 -- url     : https://prove2.me/submissions/123d7acf-d4c4-406d-ba03-11d402c8b235
 

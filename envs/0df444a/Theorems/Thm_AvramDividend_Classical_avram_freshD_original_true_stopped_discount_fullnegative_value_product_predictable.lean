@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_freshD_original_true_stopped_discount_fullnegative_value_product_predictable
 -- name    : AvramDividend.Classical.avram_freshD_original_true_stopped_discount_fullnegative_value_product_predictable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:34:41.429461+00:00
 -- url     : https://prove2.me/theorems/81b48a83-f3f6-4841-84c4-4eccf636e919

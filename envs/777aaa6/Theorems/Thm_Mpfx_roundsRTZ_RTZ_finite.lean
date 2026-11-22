@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRTZ_RTZ_finite
 -- name    : Mpfx.roundsRTZ_RTZ_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:49:02.97572+00:00
 -- url     : https://prove2.me/theorems/ffe415cd-9b8f-4a29-a43c-425e34c0b527

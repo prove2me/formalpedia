@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SigRoute_lemma_1
 -- name    : SigRoute.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:38:51.585205+00:00
 -- url     : https://prove2.me/theorems/8a06d4ec-bb47-40b5-bc4c-13fa7bc8f3ae

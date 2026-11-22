@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_search_to_single_coefficient_gaussian
 -- name    : InfoLossLAR.WorstCase.RegevSearch.search_to_single_coefficient_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-20T13:41:01.672997+00:00
 -- url     : https://prove2.me/theorems/8c7e18f0-5ede-48c1-862d-8bbb16d6033d

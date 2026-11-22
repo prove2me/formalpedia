@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_BSDEJ_Solves_driftLeg_sub_ae
 -- name    : LevyStochCalc.BSDEJ.Solves.driftLeg_sub_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:24:49.337748+00:00
 -- url     : https://prove2.me/theorems/bc3271a2-1ea4-4159-8e09-f40e4647e0e8

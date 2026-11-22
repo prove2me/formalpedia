@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_finite_grid_rare_events
 -- name    : Kyprianou.Ch08.StageB.source_result81_finite_grid_rare_events
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:07:58.608527+00:00
 -- url     : https://prove2.me/theorems/fa77a732-cd9f-4f0e-b7e8-088bf3242645

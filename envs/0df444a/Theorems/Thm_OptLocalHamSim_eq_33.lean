@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptLocalHamSim_eq_33
 -- name    : OptLocalHamSim.eq_33
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:32:47.873307+00:00
 -- url     : https://prove2.me/theorems/b504460e-9c4d-4856-a6fb-a6f9ca4ec442

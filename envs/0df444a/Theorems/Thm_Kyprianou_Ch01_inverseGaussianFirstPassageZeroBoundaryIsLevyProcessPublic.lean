@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianFirstPassageZeroBoundaryIsLevyProcessPublic
 -- name    : Kyprianou.Ch01.inverseGaussianFirstPassageZeroBoundaryIsLevyProcessPublic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T07:21:50.074523+00:00
 -- url     : https://prove2.me/theorems/050477d8-0592-4d0e-875b-5e988f46c26c

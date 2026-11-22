@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_toPositive_iff_toZero_of_nonpos
 -- name    : Mpfx.RoundsFinite.toPositive_iff_toZero_of_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:44:07.128639+00:00
 -- url     : https://prove2.me/theorems/e005ba4b-f378-4850-a1f3-b4f979e4cdbd

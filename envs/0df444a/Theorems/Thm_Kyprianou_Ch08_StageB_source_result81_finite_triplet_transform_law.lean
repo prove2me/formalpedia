@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_finite_triplet_transform_law
 -- name    : Kyprianou.Ch08.StageB.source_result81_finite_triplet_transform_law
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:23:24.156288+00:00
 -- url     : https://prove2.me/theorems/d6b08b21-0232-4da0-9092-8b64ae06523d

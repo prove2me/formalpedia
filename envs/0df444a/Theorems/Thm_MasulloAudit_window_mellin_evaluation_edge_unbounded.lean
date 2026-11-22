@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_window_mellin_evaluation_edge_unbounded
 -- name    : MasulloAudit.window_mellin_evaluation_edge_unbounded
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:27:50.460178+00:00
 -- url     : https://prove2.me/theorems/61f5a90e-910c-4c8d-9c4a-d7ab8702ab78
 -- title:

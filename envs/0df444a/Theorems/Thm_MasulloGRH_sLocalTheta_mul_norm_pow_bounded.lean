@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_sLocalTheta_mul_norm_pow_bounded
 -- name    : MasulloGRH.sLocalTheta_mul_norm_pow_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T04:36:56.425117+00:00
 -- url     : https://prove2.me/theorems/3f062949-9713-48c6-a1bd-7e0d5aaa5ae1

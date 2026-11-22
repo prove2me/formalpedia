@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Mpfx_rnd_lt_mid__f8e65c434f46
 -- name    : P2M_Mpfx_rnd_lt_mid__f8e65c434f46
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:53:26.845647+00:00
 -- url     : https://prove2.me/theorems/d33d0a66-d243-4d69-862b-9d0a33438ab2

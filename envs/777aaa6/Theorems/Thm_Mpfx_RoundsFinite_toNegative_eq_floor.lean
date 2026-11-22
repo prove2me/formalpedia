@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_RoundsFinite_toNegative_eq_floor
 -- name    : Mpfx.RoundsFinite.toNegative_eq_floor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:56:14.326538+00:00
 -- url     : https://prove2.me/theorems/3542db41-3509-4d70-abea-7cc79f6d8062

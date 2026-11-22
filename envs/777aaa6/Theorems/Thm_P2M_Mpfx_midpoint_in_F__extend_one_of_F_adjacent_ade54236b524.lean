@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Mpfx_midpoint_in_F__extend_one_of_F_adjacent_ade54236b524
 -- name    : P2M_Mpfx_midpoint_in_F__extend_one_of_F_adjacent_ade54236b524
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:43.536181+00:00
 -- url     : https://prove2.me/theorems/53604240-cb02-49a5-94e8-301a11648b0d

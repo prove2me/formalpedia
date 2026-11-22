@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GelfandVNA.Duality.theorem_1_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-01T22:48:28.631659+00:00
 -- url     : https://prove2.me/submissions/3214b748-d2f0-4c62-a9d8-e236260e4154
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_GelfandVNA_Duality_proposition_2_72
 import Theorems.Thm_GelfandVNA_Duality_proposition_2_73

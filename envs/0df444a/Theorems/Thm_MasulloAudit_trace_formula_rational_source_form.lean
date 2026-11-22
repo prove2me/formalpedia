@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloAudit_trace_formula_rational_source_form
 -- name    : MasulloAudit.trace_formula_rational_source_form
 -- status  : Open
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:47:17.129035+00:00
 -- url     : https://prove2.me/theorems/349e4bbd-c20f-49b2-8bde-edec03c051a8
 -- title:

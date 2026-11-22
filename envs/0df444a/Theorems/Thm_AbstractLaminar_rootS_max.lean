@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_AbstractLaminar_rootS_max
+-- name    : AbstractLaminar.rootS_max
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-21T17:27:23.356866+00:00
+-- url     : https://prove2.me/theorems/c73e1374-3c1f-43f1-9e1d-51bdf9c96728
+-- title:
+--   Abstract Laminar: root S max
+-- statement:
+--   The Abstract Laminar construction uses the root S max property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/CriticalPortraits/Forward.lean#L157-L162
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/CriticalPortraits/Forward.lean#L157-L162
+
+module
+public import Definitions.Def_LeanPool_CriticalPortraits_Core
+public import Definitions.Def_LeanPool_CriticalPortraits_Portraits
+public import Mathlib.Algebra.Order.Field.Basic
+public import Mathlib.Data.Rat.Cast.Order
+public import Mathlib.Tactic.NormNum.Abs
+public import Mathlib.Tactic.NormNum.DivMod
+public import Mathlib.Tactic.NormNum.OfScientific
+public import Mathlib.Tactic.NormNum.Pow
+public import Mathlib.Tactic.Positivity.Finset
+public import Definitions.Def_LeanPool_CriticalPortraits_Forward
+set_option autoImplicit true
+@[expose] public section
+public section
+open AbstractLaminar
+open Finset
+variable {ι : Type*} [DecidableEq ι]
+variable (fam : Family ι)
+
+theorem AbstractLaminar.rootS_max {a b : ℕ} {f : ι} (hf : f ∈ Sstrict fam a b) :
+    ∀ g ∈ containersS fam a b f,
+      fam.hi g - fam.lo g ≤ fam.hi (rootS fam a b f) - fam.lo (rootS fam a b f) := by sorry

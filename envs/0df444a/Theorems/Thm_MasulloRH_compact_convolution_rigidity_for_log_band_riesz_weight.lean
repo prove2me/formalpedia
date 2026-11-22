@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloRH_compact_convolution_rigidity_for_log_band_riesz_weight
 -- name    : MasulloRH.compact_convolution_rigidity_for_log_band_riesz_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Yi
 -- created : 2026-11-21T05:26:33.104057+00:00
 -- url     : https://prove2.me/theorems/3968f5f3-522d-41f1-9f45-b5a21568a46f

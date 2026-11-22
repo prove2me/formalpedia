@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Format_abs_subset_finite
 -- name    : Mpfx.Format.abs_subset_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:32:15.915237+00:00
 -- url     : https://prove2.me/theorems/157a1086-df5e-440c-b33f-53c2ed2dbd8a

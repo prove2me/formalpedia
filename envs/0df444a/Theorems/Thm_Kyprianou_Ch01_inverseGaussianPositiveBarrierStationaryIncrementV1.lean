@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianPositiveBarrierStationaryIncrementV1
 -- name    : Kyprianou.Ch01.inverseGaussianPositiveBarrierStationaryIncrementV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T00:38:55.1887+00:00
 -- url     : https://prove2.me/theorems/255cb1dd-eb45-4b86-b317-6d7c66ac9059

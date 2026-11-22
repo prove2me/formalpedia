@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_triplet_finite_jump_approximation
 -- name    : Kyprianou.Ch08.StageB.source_result81_triplet_finite_jump_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:42:45.188109+00:00
 -- url     : https://prove2.me/theorems/987aeaac-dbe6-4ff6-aca6-d87cd87bffde

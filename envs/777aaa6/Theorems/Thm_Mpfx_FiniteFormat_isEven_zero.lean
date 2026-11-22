@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isEven_zero
 -- name    : Mpfx.FiniteFormat.isEven_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:40:52.812193+00:00
 -- url     : https://prove2.me/theorems/2e62decc-c23c-478c-a992-ab64349ccfc2

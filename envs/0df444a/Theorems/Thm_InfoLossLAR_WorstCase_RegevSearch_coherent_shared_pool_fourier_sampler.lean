@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoLossLAR_WorstCase_RegevSearch_coherent_shared_pool_fourier_sampler
 -- name    : InfoLossLAR.WorstCase.RegevSearch.coherent_shared_pool_fourier_sampler
--- status  : Open
+-- status  : Proved
 -- author  : @BoomShaKaLaaaKa
 -- created : 2026-11-21T02:33:20.150157+00:00
 -- url     : https://prove2.me/theorems/23174e03-6b1d-4113-b6b9-4dab17fa850a

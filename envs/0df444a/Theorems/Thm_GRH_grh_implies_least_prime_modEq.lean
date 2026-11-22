@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GRH_grh_implies_least_prime_modEq
 -- name    : GRH.grh_implies_least_prime_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T17:51:24.532616+00:00
 -- url     : https://prove2.me/theorems/3107933d-58fe-48a4-9c0e-3e06fc099455

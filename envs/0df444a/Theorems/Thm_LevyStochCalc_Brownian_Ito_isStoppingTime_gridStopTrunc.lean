@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_isStoppingTime_gridStopTrunc
 -- name    : LevyStochCalc.Brownian.Ito.isStoppingTime_gridStopTrunc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T23:31:16.578697+00:00
 -- url     : https://prove2.me/theorems/172e7ad9-c1a4-42fc-837f-9cb222e98b96

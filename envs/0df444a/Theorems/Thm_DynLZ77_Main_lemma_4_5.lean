@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynLZ77_Main_lemma_4_5
 -- name    : DynLZ77.Main.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T21:21:39.16935+00:00
 -- url     : https://prove2.me/theorems/a3f7c33a-8aa9-420f-84ea-ddcc2ea45d97

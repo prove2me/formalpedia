@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastRatesSVM_GeomNoise_tau_estimate
 -- name    : FastRatesSVM.GeomNoise.tau_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:26.784361+00:00
 -- url     : https://prove2.me/theorems/360bbb21-9211-47d3-84c1-c37e92ab1327

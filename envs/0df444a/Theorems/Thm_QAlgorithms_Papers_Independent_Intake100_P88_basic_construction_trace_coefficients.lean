@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Intake100_P88_basic_construction_trace_coefficients
 -- name    : QAlgorithms.Papers.Independent.Intake100.P88.basic_construction_trace_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Gohan
 -- created : 2026-10-30T15:40:57.022077+00:00
 -- url     : https://prove2.me/theorems/e16c0855-0776-4e96-a786-59e841cde469

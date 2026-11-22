@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Titchmarsh_partialSum_isBigO_of_holomorphic_growth
 -- name    : Titchmarsh.partialSum_isBigO_of_holomorphic_growth
 -- status  : Proved
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-20T23:12:57.5187+00:00
 -- url     : https://prove2.me/theorems/0cfc5f9d-8e47-4920-b235-f80b5f4f55a7
 -- title:

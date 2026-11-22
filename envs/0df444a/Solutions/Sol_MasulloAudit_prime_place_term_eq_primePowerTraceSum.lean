@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.prime_place_term_eq_primePowerTraceSum
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:35:27.076462+00:00
 -- url     : https://prove2.me/submissions/41fd4c8f-fb18-4544-94b6-3abef11cea1b
 

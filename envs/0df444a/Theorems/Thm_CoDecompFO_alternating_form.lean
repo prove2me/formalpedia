@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_alternating_form
 -- name    : CoDecompFO.alternating_form
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:16.053894+00:00
 -- url     : https://prove2.me/theorems/754d5528-fb8b-4cef-a89a-8b2401a27cc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_rnd_iff_rounds
 -- name    : Mpfx.rnd_iff_rounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:59:59.537186+00:00
 -- url     : https://prove2.me/theorems/b13283d9-96fe-4347-a952-e8d7e357e9e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FernauIntersection_Bounded_theorem_9_1
 -- name    : FernauIntersection.Bounded.theorem_9_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T18:33:17.837201+00:00
 -- url     : https://prove2.me/theorems/f22ed108-7d0c-4b18-8fad-c354eac3b8ff

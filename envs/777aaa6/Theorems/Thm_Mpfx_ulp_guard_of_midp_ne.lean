@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_ulp_guard_of_midp_ne
 -- name    : Mpfx.ulp_guard_of_midp_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:36.375413+00:00
 -- url     : https://prove2.me/theorems/c8485cda-c31b-4c37-ada4-5f8e21fc8c76

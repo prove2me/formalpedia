@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_SimplePredictable_varClock_mono
 -- name    : LevyStochCalc.Brownian.Ito.SimplePredictable.varClock_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T18:51:23.91254+00:00
 -- url     : https://prove2.me/theorems/ede44de6-7f72-497f-b439-03c86db80a6d

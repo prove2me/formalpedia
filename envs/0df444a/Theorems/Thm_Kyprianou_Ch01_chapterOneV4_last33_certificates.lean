@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_chapterOneV4_last33_certificates
 -- name    : Kyprianou.Ch01.chapterOneV4_last33_certificates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T05:12:21.05788+00:00
 -- url     : https://prove2.me/theorems/2ae1c474-ba15-43cf-80ea-95a4bedf6a60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QIndInf_target_marginal_eq
 -- name    : QIndInf.target_marginal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T08:28:48.016212+00:00
 -- url     : https://prove2.me/theorems/eb1d86cf-f6d5-47a7-93a0-a48e67403b45

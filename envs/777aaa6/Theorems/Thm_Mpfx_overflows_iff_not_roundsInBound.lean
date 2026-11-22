@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_overflows_iff_not_roundsInBound
 -- name    : Mpfx.overflows_iff_not_roundsInBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:56:34.724185+00:00
 -- url     : https://prove2.me/theorems/c1c90d4c-3d68-4efd-8ac3-7979c3fb2127

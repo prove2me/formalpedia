@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_toOdd_notMem_of_extend_subset
 -- name    : Mpfx.toOdd_notMem_of_extend_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:29.165452+00:00
 -- url     : https://prove2.me/theorems/6e902870-286e-43f5-adf4-0ca78124e941

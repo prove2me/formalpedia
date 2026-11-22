@@ -78312,7 +78312,7 @@
 {"parent": "BlockCycleRotation.finalSeg_eq_gcd", "child": "BlockCycleRotation_Euclid", "via": ["solution"]}
 {"parent": "BlockCycleRotation.four_mul_min_div_le_norm", "child": "BlockCycleRotation.two_mul_min_div_le_sin", "via": ["solution"]}
 {"parent": "BlockCycleRotation.four_mul_min_div_le_norm", "child": "BlockCycleRotation_ExpSum", "via": ["solution", "statement"]}
-{"parent": "BlockCycleRotation.gTerm_eq", "child": "BlockCycleRotation_Remark21", "via": ["statement"]}
+{"parent": "BlockCycleRotation.gTerm_eq", "child": "BlockCycleRotation_Remark21", "via": ["solution", "statement"]}
 {"parent": "BlockCycleRotation.gTerm_row_ge", "child": "BlockCycleRotation.sum_inv_sq_shift_ge", "via": ["solution"]}
 {"parent": "BlockCycleRotation.gTerm_row_ge", "child": "BlockCycleRotation_Continuant", "via": ["solution"]}
 {"parent": "BlockCycleRotation.gTerm_row_ge", "child": "BlockCycleRotation_Euclid", "via": ["solution"]}
@@ -78359,7 +78359,7 @@
 {"parent": "BlockCycleRotation.gtTriples_sq_lt", "child": "BlockCycleRotation_Euclid", "via": ["solution"]}
 {"parent": "BlockCycleRotation.gtTriples_sq_lt", "child": "BlockCycleRotation_ExpSum", "via": ["solution"]}
 {"parent": "BlockCycleRotation.gtTriples_sq_lt", "child": "BlockCycleRotation_TripleSum", "via": ["solution", "statement"]}
-{"parent": "BlockCycleRotation.harm_nonneg", "child": "BlockCycleRotation_Remark21", "via": ["statement"]}
+{"parent": "BlockCycleRotation.harm_nonneg", "child": "BlockCycleRotation_Remark21", "via": ["solution", "statement"]}
 {"parent": "BlockCycleRotation.heilbron", "child": "BlockCycleRotation.cf_spec", "via": ["solution"]}
 {"parent": "BlockCycleRotation.heilbron", "child": "BlockCycleRotation.remSum_eq_sum_K", "via": ["solution"]}
 {"parent": "BlockCycleRotation.heilbron", "child": "BlockCycleRotation.sum_allShifts_eq", "via": ["solution"]}

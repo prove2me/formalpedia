@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1UnboundedLimsup
 -- name    : Kyprianou.Ch01.mg1UnboundedLimsup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:15:38.170728+00:00
 -- url     : https://prove2.me/theorems/cb77a4d8-8d6d-4812-b2a1-3ba54edd7400

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Supplement_theorem_6_27
 -- name    : GL2QFT.Supplement.theorem_6_27
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T01:44:15.627562+00:00
 -- url     : https://prove2.me/theorems/3990511f-52cf-412c-9b3d-dfdb7937bcd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOptQC_Synth_lemma_2
 -- name    : DepthOptQC.Synth.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-11T04:13:53.635358+00:00
 -- url     : https://prove2.me/theorems/2f2a0ae6-b92a-4188-b4ed-cf28971828fc

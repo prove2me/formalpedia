@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_gridStopAux_eq
 -- name    : LevyStochCalc.Brownian.Ito.gridStopAux_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:06:41.722175+00:00
 -- url     : https://prove2.me/theorems/6176b57e-88bc-4d5d-a747-ec1f38160ddf

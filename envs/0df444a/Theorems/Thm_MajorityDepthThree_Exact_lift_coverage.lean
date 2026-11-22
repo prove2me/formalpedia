@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MajorityDepthThree_Exact_lift_coverage
 -- name    : MajorityDepthThree.Exact.lift_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:23:07.063054+00:00
 -- url     : https://prove2.me/theorems/22cfb381-7961-434f-8bd4-93f6b4f1b12c

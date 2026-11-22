@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_Cex_exists_pred
 -- name    : Mpfx.Cex.exists_pred
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:46:24.702089+00:00
 -- url     : https://prove2.me/theorems/0345fb12-4774-4c21-8a4f-10d580915651

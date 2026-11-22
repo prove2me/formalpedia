@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyCausaloid_causaloid_calculates_correlations
 -- name    : HardyCausaloid.causaloid_calculates_correlations
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:51.618126+00:00
 -- url     : https://prove2.me/theorems/537ceacf-d8a3-48e3-95ed-47b77e84cb14

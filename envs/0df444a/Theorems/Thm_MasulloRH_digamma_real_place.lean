@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_MasulloRH_digamma_real_place
 -- name    : MasulloRH.digamma_real_place
 -- status  : Proved
--- author  : @Calvin Yost-Wolff
+-- author  : @cyw
 -- created : 2026-11-21T00:28:55.893176+00:00
 -- url     : https://prove2.me/theorems/0f82fc90-5a06-4114-9a31-b82a1b80e123
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Ito_brownian_increment_sq_integrable
 -- name    : LevyStochCalc.Brownian.Ito.brownian_increment_sq_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T22:08:16.616247+00:00
 -- url     : https://prove2.me/theorems/d2614e25-e6c9-4b31-a1bf-7a6998bac734

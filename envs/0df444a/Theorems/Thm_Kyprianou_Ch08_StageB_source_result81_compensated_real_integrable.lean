@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_compensated_real_integrable
 -- name    : Kyprianou.Ch08.StageB.source_result81_compensated_real_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:23:26.383942+00:00
 -- url     : https://prove2.me/theorems/9dbbb8c5-7f65-479c-b93e-5247aa69963b

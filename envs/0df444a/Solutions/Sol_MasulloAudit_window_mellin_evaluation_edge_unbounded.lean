@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.window_mellin_evaluation_edge_unbounded
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:31:07.429471+00:00
 -- url     : https://prove2.me/submissions/c7ae95e0-5c27-4628-b623-f4a439bb1b21
 

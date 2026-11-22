@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mg1IdleRegulatorIdentity
 -- name    : Kyprianou.Ch01.mg1IdleRegulatorIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:24:12.659623+00:00
 -- url     : https://prove2.me/theorems/0e75bb84-12d4-4489-89d6-7feaacd3c402

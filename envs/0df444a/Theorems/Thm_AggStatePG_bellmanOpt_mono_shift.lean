@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggStatePG_bellmanOpt_mono_shift
 -- name    : AggStatePG.bellmanOpt_mono_shift
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T12:43:50.026384+00:00
 -- url     : https://prove2.me/theorems/40e47772-79f9-42f2-b336-edfdf5bf6327

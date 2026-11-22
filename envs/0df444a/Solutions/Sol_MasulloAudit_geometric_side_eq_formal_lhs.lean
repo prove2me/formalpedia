@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.geometric_side_eq_formal_lhs
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:38:15.202406+00:00
 -- url     : https://prove2.me/submissions/c8ba0683-beb8-4c6f-8faa-3289ec8f8fcc
 

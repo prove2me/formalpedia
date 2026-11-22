@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_MasulloAudit_TruncConv
 -- name    : MasulloAudit_TruncConv
 -- status  : Definition
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:27:13.586271+00:00
 -- url     : https://prove2.me/theorems/f6ab8202-ca50-4c0c-a03c-33c3a530bdaa
 -- title:

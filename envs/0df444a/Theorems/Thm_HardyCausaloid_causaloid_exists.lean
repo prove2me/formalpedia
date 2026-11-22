@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyCausaloid_causaloid_exists
 -- name    : HardyCausaloid.causaloid_exists
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:19:28.05057+00:00
 -- url     : https://prove2.me/theorems/b65e1eef-1ebb-4b2b-b52e-fe6915443105

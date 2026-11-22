@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15AcceptedLayer_dephased_eq_nextResource
 -- name    : QEC.Distillation.BK15.Threshold.bk15AcceptedLayer_dephased_eq_nextResource
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:28:00.736683+00:00
 -- url     : https://prove2.me/theorems/31f894d7-8738-42e0-9677-21aa1af82409

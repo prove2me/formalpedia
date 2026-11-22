@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.split_orbital_traces_eq_weil_local_term
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:32:28.023452+00:00
 -- url     : https://prove2.me/submissions/02e89742-948a-4ad7-bd31-4a540f8437a0
 

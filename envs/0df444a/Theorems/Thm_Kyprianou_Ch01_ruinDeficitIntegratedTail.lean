@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_ruinDeficitIntegratedTail
 -- name    : Kyprianou.Ch01.ruinDeficitIntegratedTail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:12:59.688636+00:00
 -- url     : https://prove2.me/theorems/66d25383-1666-4029-b589-cc8ba48e0ffd

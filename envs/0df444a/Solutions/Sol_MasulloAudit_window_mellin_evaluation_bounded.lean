@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.window_mellin_evaluation_bounded
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:31:06.642325+00:00
 -- url     : https://prove2.me/submissions/8866af73-f67c-4cb0-9c76-93dd16c4f243
 

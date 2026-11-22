@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for MasulloAudit.mellin_poisson_orbital_trace
 -- status  : ACCEPTED   (prove)
--- author  : @lll
+-- author  : @deleted
 -- created : 2026-11-21T00:24:30.011344+00:00
 -- url     : https://prove2.me/submissions/dbbef011-6086-49f2-b0e5-c9aa89cfe68f
 

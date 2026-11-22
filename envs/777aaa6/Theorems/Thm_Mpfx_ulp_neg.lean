@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_ulp_neg
 -- name    : Mpfx.ulp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:45:55.98439+00:00
 -- url     : https://prove2.me/theorems/c2c5244c-a12e-419a-9746-6c5bda8aca00

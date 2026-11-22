@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_heckeLFunction_polynomial_growth_on_vertical_strips
 -- name    : MasulloGRH.heckeLFunction_polynomial_growth_on_vertical_strips
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:40:10.343882+00:00
 -- url     : https://prove2.me/theorems/cc9b0a6f-7f4a-4448-be63-cab74440d701

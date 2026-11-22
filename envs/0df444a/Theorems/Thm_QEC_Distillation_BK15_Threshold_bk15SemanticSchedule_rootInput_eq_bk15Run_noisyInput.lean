@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QEC_Distillation_BK15_Threshold_bk15SemanticSchedule_rootInput_eq_bk15Run_noisyInput
 -- name    : QEC.Distillation.BK15.Threshold.bk15SemanticSchedule_rootInput_eq_bk15Run_noisyInput
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-19T04:25:11.520935+00:00
 -- url     : https://prove2.me/theorems/5eb5518c-6e63-4b02-861f-7fbdbc3b342b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_roundsRAZ_RAZ_inBound
 -- name    : Mpfx.roundsRAZ_RAZ_inBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:53.922762+00:00
 -- url     : https://prove2.me/theorems/ffb9270f-1c9f-4be8-8837-b1c36f77b6fb

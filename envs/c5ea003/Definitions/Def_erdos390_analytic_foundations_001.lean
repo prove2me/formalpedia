@@ -1,0 +1,6575 @@
+-- Prove2me | Definitions.Def_erdos390_analytic_foundations_001
+-- name    : erdos390_analytic_foundations_001
+-- status  : Definition
+-- author  : @doctosil
+-- created : 2026-09-17T14:41:36.631193+00:00
+-- url     : https://prove2.me/theorems/75e8fe99-3737-409e-a840-e2c5e6e54628
+-- title:
+--   Finite exponential families, arithmetic scores and relative meshes
+-- statement:
+--   This bundle supplies the initial analytic objects for the Erdős 390 construction: finite probability distributions and exponential tilts, geometric relative meshes, smooth structured cells, prime and valuation scores, divisor-counting averages, head patterns, guard ledgers, local fugacity corrections, and covariance-driven vector fields.
+--
+--   For a finite sample space $\Omega$, nonnegative baseline weights $b_\omega$ of positive total mass and the scaled parameter-dependent score $f_\xi(\omega)$, the exponential-family weights and normalized probabilities are
+--   $$Z(\xi)=\sum_{\omega\in\Omega}b_\omega e^{f_\xi(\omega)},\qquad P_\xi(\omega)=\frac{b_\omega e^{f_\xi(\omega)}}{Z(\xi)}.$$
+--   The finite expectation and covariance operations are formed from these probabilities. Arithmetic scores include $I_p(m)=\mathbf1_{p\mid m}$, $V_p(m)=v_p(m)$ and $J_p(m)=V_p(m)-I_p(m)$. A relative mesh records endpoints $t_k=\delta(1+r)^k$, a positive cell count and $r>0$, with its last endpoint equal to $1$ and $r\le\eta$.
+--
+--   These definitions provide the common arithmetic and finite-probability language for later covariance, quadrature and nonlinear fitting estimates. The bundle also defines target-path and covariance-gap predicates; such predicates specify hypotheses and do not by themselves assert that the corresponding estimates hold.
+-- source:
+--   https://github.com/ShouqiaoW/erdos/blob/61325b10bbdc29f4fb5e0618b414b9f2189333ad/390/lean/Erdos390/Full/FiniteExponentialFamily.lean; grouped definitions extracted from multiple source modules at this commit, including Erdos390.Full.RegularRelativeMesh, Erdos390.Full.SelectedDyadicRegularMesh, Erdos390.Full.FiniteExponentialFamily, with the remaining originating modules identified by source-module comments in the definition body.
+
+import Mathlib
+import Definitions.Def_erdos390_source_bank_interface
+import Definitions.Def_erdos390_dickman_step_function
+import Theorems.Thm_MediumPNT
+import Theorems.Thm_Erdos390_Full_DickmanBasic_kernel_product_bound
+import Theorems.Thm_Erdos390_Full_DickmanBasic_rho_pos_on_zero_five
+import Theorems.Thm_Erdos390_Full_DickmanBasic_kernel_secondDerivative_first_bound
+
+namespace Erdos390.Full.AffineCertificate
+end Erdos390.Full.AffineCertificate
+namespace Erdos390.Full.ArithmeticBandGeometry
+end Erdos390.Full.ArithmeticBandGeometry
+namespace Erdos390.Full.ArithmeticGaugeStableInverse
+end Erdos390.Full.ArithmeticGaugeStableInverse
+namespace Erdos390.Full.ArithmeticModel
+end Erdos390.Full.ArithmeticModel
+namespace Erdos390.Full.CanonicalEndpointAnchorCoverage
+end Erdos390.Full.CanonicalEndpointAnchorCoverage
+namespace Erdos390.Full.CanonicalEndpointCenterEnvelopeEventually
+end Erdos390.Full.CanonicalEndpointCenterEnvelopeEventually
+namespace Erdos390.Full.CanonicalEndpointDiagonalEventually
+end Erdos390.Full.CanonicalEndpointDiagonalEventually
+namespace Erdos390.Full.CanonicalEndpointDoubleKernelOrdinaryRowEventually
+end Erdos390.Full.CanonicalEndpointDoubleKernelOrdinaryRowEventually
+namespace Erdos390.Full.CanonicalEndpointDoubleKernelRowEventually
+end Erdos390.Full.CanonicalEndpointDoubleKernelRowEventually
+namespace Erdos390.Full.CanonicalEndpointIntervalMesh
+end Erdos390.Full.CanonicalEndpointIntervalMesh
+namespace Erdos390.Full.CanonicalEndpointMeshGeometryEventually
+end Erdos390.Full.CanonicalEndpointMeshGeometryEventually
+namespace Erdos390.Full.CanonicalEndpointMultiAnchorCoverage
+end Erdos390.Full.CanonicalEndpointMultiAnchorCoverage
+namespace Erdos390.Full.CanonicalEndpointMultiAnchorIntervalMesh
+end Erdos390.Full.CanonicalEndpointMultiAnchorIntervalMesh
+namespace Erdos390.Full.CanonicalEndpointMultiAnchorWeightedInverse
+end Erdos390.Full.CanonicalEndpointMultiAnchorWeightedInverse
+namespace Erdos390.Full.CanonicalEndpointMultiAnchorWeightedInverseEventually
+end Erdos390.Full.CanonicalEndpointMultiAnchorWeightedInverseEventually
+namespace Erdos390.Full.CanonicalEndpointOrdinaryProjectedRawInverseEventually
+end Erdos390.Full.CanonicalEndpointOrdinaryProjectedRawInverseEventually
+namespace Erdos390.Full.CanonicalEndpointOrdinaryRawRowEventually
+end Erdos390.Full.CanonicalEndpointOrdinaryRawRowEventually
+namespace Erdos390.Full.CanonicalEndpointPrefixGeometry
+end Erdos390.Full.CanonicalEndpointPrefixGeometry
+namespace Erdos390.Full.CanonicalEndpointRawWeightDefectEventually
+end Erdos390.Full.CanonicalEndpointRawWeightDefectEventually
+namespace Erdos390.Full.CanonicalEndpointRelativeCenterEventually
+end Erdos390.Full.CanonicalEndpointRelativeCenterEventually
+namespace Erdos390.Full.CanonicalEndpointTwoTailCertificate
+end Erdos390.Full.CanonicalEndpointTwoTailCertificate
+namespace Erdos390.Full.CanonicalEndpointWeightedInverseAttachment
+end Erdos390.Full.CanonicalEndpointWeightedInverseAttachment
+namespace Erdos390.Full.CanonicalEndpointWeightedInverseEventually
+end Erdos390.Full.CanonicalEndpointWeightedInverseEventually
+namespace Erdos390.Full.CanonicalRegularMeshEndpointFamily
+end Erdos390.Full.CanonicalRegularMeshEndpointFamily
+namespace Erdos390.Full.CoarseMixture
+end Erdos390.Full.CoarseMixture
+namespace Erdos390.Full.CompressedArithmeticOperator
+end Erdos390.Full.CompressedArithmeticOperator
+namespace Erdos390.Full.ConditionedPoisson
+end Erdos390.Full.ConditionedPoisson
+namespace Erdos390.Full.ConditionedPoissonLimit
+end Erdos390.Full.ConditionedPoissonLimit
+namespace Erdos390.Full.ContinuumCellGraph
+end Erdos390.Full.ContinuumCellGraph
+namespace Erdos390.Full.ContinuumCellGraph.ArithmeticGaugeOrdinary
+end Erdos390.Full.ContinuumCellGraph.ArithmeticGaugeOrdinary
+namespace Erdos390.Full.ContinuumCellGraphReversible
+end Erdos390.Full.ContinuumCellGraphReversible
+namespace Erdos390.Full.ContinuumIntervalCenterBounds
+end Erdos390.Full.ContinuumIntervalCenterBounds
+namespace Erdos390.Full.ContinuumManyLowArithmeticGaugeOrdinary
+end Erdos390.Full.ContinuumManyLowArithmeticGaugeOrdinary
+namespace Erdos390.Full.ContinuumManyLowHighGeometry
+end Erdos390.Full.ContinuumManyLowHighGeometry
+namespace Erdos390.Full.ContinuumManyLowProjectedRawInverse
+end Erdos390.Full.ContinuumManyLowProjectedRawInverse
+namespace Erdos390.Full.ContinuumManyLowRawGraphInverse
+end Erdos390.Full.ContinuumManyLowRawGraphInverse
+namespace Erdos390.Full.ContinuumProjectedRawOrdinary
+end Erdos390.Full.ContinuumProjectedRawOrdinary
+namespace Erdos390.Full.ContinuumRawLowRow
+end Erdos390.Full.ContinuumRawLowRow
+namespace Erdos390.Full.ContinuumRowResidualBound
+end Erdos390.Full.ContinuumRowResidualBound
+namespace Erdos390.Full.ContinuumSharpArithmeticTransfer
+end Erdos390.Full.ContinuumSharpArithmeticTransfer
+namespace Erdos390.Full.ContinuumTwoTailResidualBound
+end Erdos390.Full.ContinuumTwoTailResidualBound
+namespace Erdos390.Full.DiagonalPrimeQuadrature
+end Erdos390.Full.DiagonalPrimeQuadrature
+namespace Erdos390.Full.DickmanBasic
+end Erdos390.Full.DickmanBasic
+namespace Erdos390.Full.DickmanFourMarkProductKernel
+end Erdos390.Full.DickmanFourMarkProductKernel
+namespace Erdos390.Full.DivisibilityMomentBounds
+end Erdos390.Full.DivisibilityMomentBounds
+namespace Erdos390.Full.DoubleKernelPrimeQuadrature
+end Erdos390.Full.DoubleKernelPrimeQuadrature
+namespace Erdos390.Full.EndpointArithmeticGaugeIdentification
+end Erdos390.Full.EndpointArithmeticGaugeIdentification
+namespace Erdos390.Full.EndpointContinuumMeshIdentification
+end Erdos390.Full.EndpointContinuumMeshIdentification
+namespace Erdos390.Full.EquivalentNormODE
+end Erdos390.Full.EquivalentNormODE
+namespace Erdos390.Full.FiniteAnchoredDirichletQuadratic
+end Erdos390.Full.FiniteAnchoredDirichletQuadratic
+namespace Erdos390.Full.FiniteExponentialFamily
+end Erdos390.Full.FiniteExponentialFamily
+namespace Erdos390.Full.FiniteGraphQuotientInverse
+end Erdos390.Full.FiniteGraphQuotientInverse
+namespace Erdos390.Full.FiniteGraphStableInverse
+end Erdos390.Full.FiniteGraphStableInverse
+namespace Erdos390.Full.FiniteLogStieltjes
+end Erdos390.Full.FiniteLogStieltjes
+namespace Erdos390.Full.FiniteManyLowRawGraphInverse
+end Erdos390.Full.FiniteManyLowRawGraphInverse
+namespace Erdos390.Full.FiniteProbabilityCellConstantCovariance
+end Erdos390.Full.FiniteProbabilityCellConstantCovariance
+namespace Erdos390.Full.FiniteProbabilityCovarianceCauchySchwarz
+end Erdos390.Full.FiniteProbabilityCovarianceCauchySchwarz
+namespace Erdos390.Full.FiniteProbabilityMixture
+end Erdos390.Full.FiniteProbabilityMixture
+namespace Erdos390.Full.FiniteProbabilityMixtureGuardReindexing
+end Erdos390.Full.FiniteProbabilityMixtureGuardReindexing
+namespace Erdos390.Full.FiniteProbabilityMixturePerturbation
+end Erdos390.Full.FiniteProbabilityMixturePerturbation
+namespace Erdos390.Full.FiniteProbabilityMixtureTilt
+end Erdos390.Full.FiniteProbabilityMixtureTilt
+namespace Erdos390.Full.FiniteProbabilityPowerCorrectionMixturePerturbation
+end Erdos390.Full.FiniteProbabilityPowerCorrectionMixturePerturbation
+namespace Erdos390.Full.FiniteRawLowDiagonal
+end Erdos390.Full.FiniteRawLowDiagonal
+namespace Erdos390.Full.FiniteReversibleGraph
+end Erdos390.Full.FiniteReversibleGraph
+namespace Erdos390.Full.FiniteSignedQuadraticEntryTransfer
+end Erdos390.Full.FiniteSignedQuadraticEntryTransfer
+namespace Erdos390.Full.FiniteTiltCovarianceDomination
+end Erdos390.Full.FiniteTiltCovarianceDomination
+namespace Erdos390.Full.FiniteTiltTV
+end Erdos390.Full.FiniteTiltTV
+namespace Erdos390.Full.FirstFailure
+end Erdos390.Full.FirstFailure
+namespace Erdos390.Full.FixedFiniteMixtureFullUniform
+end Erdos390.Full.FixedFiniteMixtureFullUniform
+namespace Erdos390.Full.FixedFiniteMixtureGlobalTiltLemma75
+end Erdos390.Full.FixedFiniteMixtureGlobalTiltLemma75
+namespace Erdos390.Full.FixedFiniteMixtureLemma75
+end Erdos390.Full.FixedFiniteMixtureLemma75
+namespace Erdos390.Full.FixedFiniteMixturePrimePower
+end Erdos390.Full.FixedFiniteMixturePrimePower
+namespace Erdos390.Full.FixedFiniteMixtureSignedSquarefree
+end Erdos390.Full.FixedFiniteMixtureSignedSquarefree
+namespace Erdos390.Full.FriableAsymptotic
+end Erdos390.Full.FriableAsymptotic
+namespace Erdos390.Full.FullTiltPairChamber
+end Erdos390.Full.FullTiltPairChamber
+namespace Erdos390.Full.FullTiltPairHarmonicRate
+end Erdos390.Full.FullTiltPairHarmonicRate
+namespace Erdos390.Full.FullTiltPrimePowerActualChamber
+end Erdos390.Full.FullTiltPrimePowerActualChamber
+namespace Erdos390.Full.FullTiltPrimePowerCovariance
+end Erdos390.Full.FullTiltPrimePowerCovariance
+namespace Erdos390.Full.FullTiltPrimePowerFallback
+end Erdos390.Full.FullTiltPrimePowerFallback
+namespace Erdos390.Full.GuardDeletionFamilyRows
+end Erdos390.Full.GuardDeletionFamilyRows
+namespace Erdos390.Full.GuardDeletionProbability
+end Erdos390.Full.GuardDeletionProbability
+namespace Erdos390.Full.GuardDeletionReindexing
+end Erdos390.Full.GuardDeletionReindexing
+namespace Erdos390.Full.GuardDeletionSquarefreeProfiles
+end Erdos390.Full.GuardDeletionSquarefreeProfiles
+namespace Erdos390.Full.GuardSquarefreeErrorRate
+end Erdos390.Full.GuardSquarefreeErrorRate
+namespace Erdos390.Full.GuardedUniformCell
+end Erdos390.Full.GuardedUniformCell
+namespace Erdos390.Full.HeadPattern
+end Erdos390.Full.HeadPattern
+namespace Erdos390.Full.KernelPrimeQuadrature
+end Erdos390.Full.KernelPrimeQuadrature
+namespace Erdos390.Full.LocalFugacity
+end Erdos390.Full.LocalFugacity
+namespace Erdos390.Full.LocalFugacityBounds
+end Erdos390.Full.LocalFugacityBounds
+namespace Erdos390.Full.LocalFugacityRestoration
+end Erdos390.Full.LocalFugacityRestoration
+namespace Erdos390.Full.LocalizedMarkedTiltCovariance
+end Erdos390.Full.LocalizedMarkedTiltCovariance
+namespace Erdos390.Full.MarkedFriableAsymptotic
+end Erdos390.Full.MarkedFriableAsymptotic
+namespace Erdos390.Full.MovingLowGaugeTransfer
+end Erdos390.Full.MovingLowGaugeTransfer
+namespace Erdos390.Full.MovingLowMomentQuadrature
+end Erdos390.Full.MovingLowMomentQuadrature
+namespace Erdos390.Full.MovingLowSharpRowAggregation
+end Erdos390.Full.MovingLowSharpRowAggregation
+namespace Erdos390.Full.NonlinearFitODE
+end Erdos390.Full.NonlinearFitODE
+namespace Erdos390.Full.NuisanceCovariance
+end Erdos390.Full.NuisanceCovariance
+namespace Erdos390.Full.OmittedScoreCell
+end Erdos390.Full.OmittedScoreCell
+namespace Erdos390.Full.OmittedScoreTilt
+end Erdos390.Full.OmittedScoreTilt
+namespace Erdos390.Full.OmittedTiltFallback
+end Erdos390.Full.OmittedTiltFallback
+namespace Erdos390.Full.OmittedTiltHarmonicRate
+end Erdos390.Full.OmittedTiltHarmonicRate
+namespace Erdos390.Full.OmittedTiltMarkedProbability
+end Erdos390.Full.OmittedTiltMarkedProbability
+namespace Erdos390.Full.OmittedTiltPairChamber
+end Erdos390.Full.OmittedTiltPairChamber
+namespace Erdos390.Full.OrdinaryRawInverseTransfer
+end Erdos390.Full.OrdinaryRawInverseTransfer
+namespace Erdos390.Full.OrdinaryRawOperatorRowTransfer
+end Erdos390.Full.OrdinaryRawOperatorRowTransfer
+namespace Erdos390.Full.PaperActualCenterNuisanceRow
+end Erdos390.Full.PaperActualCenterNuisanceRow
+namespace Erdos390.Full.PaperActualCompensatedMarkedRowProfiles
+end Erdos390.Full.PaperActualCompensatedMarkedRowProfiles
+namespace Erdos390.Full.PaperActualCompensatedRegression
+end Erdos390.Full.PaperActualCompensatedRegression
+namespace Erdos390.Full.PaperActualFastMarkedRowProfiles
+end Erdos390.Full.PaperActualFastMarkedRowProfiles
+namespace Erdos390.Full.PaperActualFullBandIdentification
+end Erdos390.Full.PaperActualFullBandIdentification
+namespace Erdos390.Full.PaperActualFullEffectiveBall
+end Erdos390.Full.PaperActualFullEffectiveBall
+namespace Erdos390.Full.PaperActualFullOrdinaryProjectionConnector
+end Erdos390.Full.PaperActualFullOrdinaryProjectionConnector
+namespace Erdos390.Full.PaperActualFullOrdinaryRowTransfer
+end Erdos390.Full.PaperActualFullOrdinaryRowTransfer
+namespace Erdos390.Full.PaperActualFullProjectedInverseAssembly
+end Erdos390.Full.PaperActualFullProjectedInverseAssembly
+namespace Erdos390.Full.PaperActualFullProjectedInverseEventually
+end Erdos390.Full.PaperActualFullProjectedInverseEventually
+namespace Erdos390.Full.PaperActualLemma86Assembly
+end Erdos390.Full.PaperActualLemma86Assembly
+namespace Erdos390.Full.PaperActualLemma86PaperScale
+end Erdos390.Full.PaperActualLemma86PaperScale
+namespace Erdos390.Full.PaperActualLemma86WeightedRow
+end Erdos390.Full.PaperActualLemma86WeightedRow
+namespace Erdos390.Full.PaperActualPrimePowerRelative
+end Erdos390.Full.PaperActualPrimePowerRelative
+namespace Erdos390.Full.PaperActualPrimePowerRowTransfer
+end Erdos390.Full.PaperActualPrimePowerRowTransfer
+namespace Erdos390.Full.PaperActualSchurEndpointReferenceTransport
+end Erdos390.Full.PaperActualSchurEndpointReferenceTransport
+namespace Erdos390.Full.PaperActualSchurMarkedRow
+end Erdos390.Full.PaperActualSchurMarkedRow
+namespace Erdos390.Full.PaperActualSchurOrdinaryEndpointConnector
+end Erdos390.Full.PaperActualSchurOrdinaryEndpointConnector
+namespace Erdos390.Full.PaperActualSchurOrdinaryRow
+end Erdos390.Full.PaperActualSchurOrdinaryRow
+namespace Erdos390.Full.PaperActualSlowRightRowFinite
+end Erdos390.Full.PaperActualSlowRightRowFinite
+namespace Erdos390.Full.PaperActualSquarefreeMarkedRow
+end Erdos390.Full.PaperActualSquarefreeMarkedRow
+namespace Erdos390.Full.PaperActualSquarefreeReference
+end Erdos390.Full.PaperActualSquarefreeReference
+namespace Erdos390.Full.PaperActualSquarefreeSlowLower
+end Erdos390.Full.PaperActualSquarefreeSlowLower
+namespace Erdos390.Full.PaperActualTwoStageRegression
+end Erdos390.Full.PaperActualTwoStageRegression
+namespace Erdos390.Full.PaperBandBestDistance
+end Erdos390.Full.PaperBandBestDistance
+namespace Erdos390.Full.PaperBandQuadraticGeometry
+end Erdos390.Full.PaperBandQuadraticGeometry
+namespace Erdos390.Full.PaperBaselineSlack
+end Erdos390.Full.PaperBaselineSlack
+namespace Erdos390.Full.PaperBoundedScorePrefixCovariance
+end Erdos390.Full.PaperBoundedScorePrefixCovariance
+namespace Erdos390.Full.PaperBridgeBaselineL1
+end Erdos390.Full.PaperBridgeBaselineL1
+namespace Erdos390.Full.PaperBridgeCanonicalGuardPowerCorrection
+end Erdos390.Full.PaperBridgeCanonicalGuardPowerCorrection
+namespace Erdos390.Full.PaperBridgeCanonicalPhysicalPowerCorrectionEventually
+end Erdos390.Full.PaperBridgeCanonicalPhysicalPowerCorrectionEventually
+namespace Erdos390.Full.PaperBridgeCanonicalPowerCorrectionTriangle
+end Erdos390.Full.PaperBridgeCanonicalPowerCorrectionTriangle
+namespace Erdos390.Full.PaperBridgeCanonicalRawLemma75
+end Erdos390.Full.PaperBridgeCanonicalRawLemma75
+namespace Erdos390.Full.PaperBridgeCellTiltDecomposition
+end Erdos390.Full.PaperBridgeCellTiltDecomposition
+namespace Erdos390.Full.PaperBridgeFit
+end Erdos390.Full.PaperBridgeFit
+namespace Erdos390.Full.PaperBridgeFit.PaperActualSlowRightRowFinite
+end Erdos390.Full.PaperBridgeFit.PaperActualSlowRightRowFinite
+namespace Erdos390.Full.PaperBridgeFitFeasibility
+end Erdos390.Full.PaperBridgeFitFeasibility
+namespace Erdos390.Full.PaperBridgeMediumValuationMixture
+end Erdos390.Full.PaperBridgeMediumValuationMixture
+namespace Erdos390.Full.PaperBridgeNuisanceTiltFallback
+end Erdos390.Full.PaperBridgeNuisanceTiltFallback
+namespace Erdos390.Full.PaperBridgePhysicalDivisorCovariance
+end Erdos390.Full.PaperBridgePhysicalDivisorCovariance
+namespace Erdos390.Full.PaperBridgePhysicalPowerCorrectionRow
+end Erdos390.Full.PaperBridgePhysicalPowerCorrectionRow
+namespace Erdos390.Full.PaperBridgePhysicalValuationRow
+end Erdos390.Full.PaperBridgePhysicalValuationRow
+namespace Erdos390.Full.PaperBridgePrimewiseRate
+end Erdos390.Full.PaperBridgePrimewiseRate
+namespace Erdos390.Full.PaperBridgeQuadrature
+end Erdos390.Full.PaperBridgeQuadrature
+namespace Erdos390.Full.PaperCanonicalActiveMassBaseline
+end Erdos390.Full.PaperCanonicalActiveMassBaseline
+namespace Erdos390.Full.PaperCanonicalActualBandQuadraticTransfer
+end Erdos390.Full.PaperCanonicalActualBandQuadraticTransfer
+namespace Erdos390.Full.PaperCanonicalActualFullQuotientNullIdentification
+end Erdos390.Full.PaperCanonicalActualFullQuotientNullIdentification
+namespace Erdos390.Full.PaperCanonicalActualMomentBoundsEventually
+end Erdos390.Full.PaperCanonicalActualMomentBoundsEventually
+namespace Erdos390.Full.PaperCanonicalActualPrimePowerWeightedRowEventually
+end Erdos390.Full.PaperCanonicalActualPrimePowerWeightedRowEventually
+namespace Erdos390.Full.PaperCanonicalActualSchurOrdinaryEndpointEventually
+end Erdos390.Full.PaperCanonicalActualSchurOrdinaryEndpointEventually
+namespace Erdos390.Full.PaperCanonicalActualSchurOrdinaryRowsEventually
+end Erdos390.Full.PaperCanonicalActualSchurOrdinaryRowsEventually
+namespace Erdos390.Full.PaperCanonicalActualSchurSharpOrdinaryEventually
+end Erdos390.Full.PaperCanonicalActualSchurSharpOrdinaryEventually
+namespace Erdos390.Full.PaperCanonicalBandFirstMomentEventually
+end Erdos390.Full.PaperCanonicalBandFirstMomentEventually
+namespace Erdos390.Full.PaperCanonicalBandSchurInverseFromFull
+end Erdos390.Full.PaperCanonicalBandSchurInverseFromFull
+namespace Erdos390.Full.PaperCanonicalBaseline
+end Erdos390.Full.PaperCanonicalBaseline
+namespace Erdos390.Full.PaperCanonicalBaselineBridge
+end Erdos390.Full.PaperCanonicalBaselineBridge
+namespace Erdos390.Full.PaperCanonicalFullQuotientEventually
+end Erdos390.Full.PaperCanonicalFullQuotientEventually
+namespace Erdos390.Full.PaperCanonicalFullQuotientFineMeshEventually
+end Erdos390.Full.PaperCanonicalFullQuotientFineMeshEventually
+namespace Erdos390.Full.PaperCanonicalFullQuotientPaperDistanceEventually
+end Erdos390.Full.PaperCanonicalFullQuotientPaperDistanceEventually
+namespace Erdos390.Full.PaperCanonicalFullQuotientQScaledEventually
+end Erdos390.Full.PaperCanonicalFullQuotientQScaledEventually
+namespace Erdos390.Full.PaperCanonicalGeometricMomentFineMeshEventually
+end Erdos390.Full.PaperCanonicalGeometricMomentFineMeshEventually
+namespace Erdos390.Full.PaperCanonicalHeadPhysicalTarget
+end Erdos390.Full.PaperCanonicalHeadPhysicalTarget
+namespace Erdos390.Full.PaperCanonicalLemma84Eventually
+end Erdos390.Full.PaperCanonicalLemma84Eventually
+namespace Erdos390.Full.PaperCanonicalLemma84GapNuisanceEventually
+end Erdos390.Full.PaperCanonicalLemma84GapNuisanceEventually
+namespace Erdos390.Full.PaperCanonicalLemma86AnchorEventually
+end Erdos390.Full.PaperCanonicalLemma86AnchorEventually
+namespace Erdos390.Full.PaperCanonicalLemma86CoefficientPackageEventually
+end Erdos390.Full.PaperCanonicalLemma86CoefficientPackageEventually
+namespace Erdos390.Full.PaperCanonicalLemma86CompensatedMarkedRowEventually
+end Erdos390.Full.PaperCanonicalLemma86CompensatedMarkedRowEventually
+namespace Erdos390.Full.PaperCanonicalLemma86Eventually
+end Erdos390.Full.PaperCanonicalLemma86Eventually
+namespace Erdos390.Full.PaperCanonicalLemma86GeometryCoefficientsEventually
+end Erdos390.Full.PaperCanonicalLemma86GeometryCoefficientsEventually
+namespace Erdos390.Full.PaperCanonicalLemma86RelativePrimePowerEventually
+end Erdos390.Full.PaperCanonicalLemma86RelativePrimePowerEventually
+namespace Erdos390.Full.PaperCanonicalLemma86RemainingOutputsEventually
+end Erdos390.Full.PaperCanonicalLemma86RemainingOutputsEventually
+namespace Erdos390.Full.PaperCanonicalMarkedNuisanceRows
+end Erdos390.Full.PaperCanonicalMarkedNuisanceRows
+namespace Erdos390.Full.PaperCanonicalMediumNuisanceRows
+end Erdos390.Full.PaperCanonicalMediumNuisanceRows
+namespace Erdos390.Full.PaperCanonicalMomentRatioEventually
+end Erdos390.Full.PaperCanonicalMomentRatioEventually
+namespace Erdos390.Full.PaperCanonicalNonstepFullSlowEventually
+end Erdos390.Full.PaperCanonicalNonstepFullSlowEventually
+namespace Erdos390.Full.PaperCanonicalNonstepLocalDiagonalEventually
+end Erdos390.Full.PaperCanonicalNonstepLocalDiagonalEventually
+namespace Erdos390.Full.PaperCanonicalNonstepPowerInputsEventually
+end Erdos390.Full.PaperCanonicalNonstepPowerInputsEventually
+namespace Erdos390.Full.PaperCanonicalNonstepSlowResidualEventually
+end Erdos390.Full.PaperCanonicalNonstepSlowResidualEventually
+namespace Erdos390.Full.PaperCanonicalNonstepSlowRightColumnEventually
+end Erdos390.Full.PaperCanonicalNonstepSlowRightColumnEventually
+namespace Erdos390.Full.PaperCanonicalNonstepSquarefreeSlowEventually
+end Erdos390.Full.PaperCanonicalNonstepSquarefreeSlowEventually
+namespace Erdos390.Full.PaperCanonicalNuisanceEffectiveBall
+end Erdos390.Full.PaperCanonicalNuisanceEffectiveBall
+namespace Erdos390.Full.PaperCanonicalNuisanceEffectiveGap
+end Erdos390.Full.PaperCanonicalNuisanceEffectiveGap
+namespace Erdos390.Full.PaperCanonicalNuisanceUniformFloor
+end Erdos390.Full.PaperCanonicalNuisanceUniformFloor
+namespace Erdos390.Full.PaperCanonicalPositiveCellVarianceEventually
+end Erdos390.Full.PaperCanonicalPositiveCellVarianceEventually
+namespace Erdos390.Full.PaperCanonicalPrimeAnchorEventually
+end Erdos390.Full.PaperCanonicalPrimeAnchorEventually
+namespace Erdos390.Full.PaperCanonicalPrimeGraphActualSchurEventually
+end Erdos390.Full.PaperCanonicalPrimeGraphActualSchurEventually
+namespace Erdos390.Full.PaperCanonicalPrimeGraphReferenceEventually
+end Erdos390.Full.PaperCanonicalPrimeGraphReferenceEventually
+namespace Erdos390.Full.PaperCanonicalPrimeRowResidualEventually
+end Erdos390.Full.PaperCanonicalPrimeRowResidualEventually
+namespace Erdos390.Full.PaperCanonicalReferenceSlowEventually
+end Erdos390.Full.PaperCanonicalReferenceSlowEventually
+namespace Erdos390.Full.PaperCanonicalSlowKappa
+end Erdos390.Full.PaperCanonicalSlowKappa
+namespace Erdos390.Full.PaperCanonicalTiltedPrefixRows
+end Erdos390.Full.PaperCanonicalTiltedPrefixRows
+namespace Erdos390.Full.PaperCanonicalTiltedValuationMeanRows
+end Erdos390.Full.PaperCanonicalTiltedValuationMeanRows
+namespace Erdos390.Full.PaperCompensatedCoefficientBounds
+end Erdos390.Full.PaperCompensatedCoefficientBounds
+namespace Erdos390.Full.PaperEffectiveBallCovarianceGap
+end Erdos390.Full.PaperEffectiveBallCovarianceGap
+namespace Erdos390.Full.PaperEffectiveNorm
+end Erdos390.Full.PaperEffectiveNorm
+namespace Erdos390.Full.PaperEffectiveScoreBound
+end Erdos390.Full.PaperEffectiveScoreBound
+namespace Erdos390.Full.PaperExactSchurFastSlowCoercivity
+end Erdos390.Full.PaperExactSchurFastSlowCoercivity
+namespace Erdos390.Full.PaperExactSchurRawSlow
+end Erdos390.Full.PaperExactSchurRawSlow
+namespace Erdos390.Full.PaperExactSchurTwoStageQuadratic
+end Erdos390.Full.PaperExactSchurTwoStageQuadratic
+namespace Erdos390.Full.PaperExactTwoStageOrdinaryFast
+end Erdos390.Full.PaperExactTwoStageOrdinaryFast
+namespace Erdos390.Full.PaperExactTwoStageTargetSolve
+end Erdos390.Full.PaperExactTwoStageTargetSolve
+namespace Erdos390.Full.PaperFixedFiniteRawTiltedPrefixRows
+end Erdos390.Full.PaperFixedFiniteRawTiltedPrefixRows
+namespace Erdos390.Full.PaperGuardCensus
+end Erdos390.Full.PaperGuardCensus
+namespace Erdos390.Full.PaperGuardDeletionRows
+end Erdos390.Full.PaperGuardDeletionRows
+namespace Erdos390.Full.PaperGuardPowerCorrectionMixture
+end Erdos390.Full.PaperGuardPowerCorrectionMixture
+namespace Erdos390.Full.PaperGuardedStructuredSample
+end Erdos390.Full.PaperGuardedStructuredSample
+namespace Erdos390.Full.PaperHeadPrimeMarkedExact
+end Erdos390.Full.PaperHeadPrimeMarkedExact
+namespace Erdos390.Full.PaperHeadSimplex
+end Erdos390.Full.PaperHeadSimplex
+namespace Erdos390.Full.PaperLemma84StructuralCutoff
+end Erdos390.Full.PaperLemma84StructuralCutoff
+namespace Erdos390.Full.PaperLemma86CommonConstants
+end Erdos390.Full.PaperLemma86CommonConstants
+namespace Erdos390.Full.PaperMainFastSlowCoordinates
+end Erdos390.Full.PaperMainFastSlowCoordinates
+namespace Erdos390.Full.PaperMainRawGaugeCoordinates
+end Erdos390.Full.PaperMainRawGaugeCoordinates
+namespace Erdos390.Full.PaperMediumNuisanceInputReduction
+end Erdos390.Full.PaperMediumNuisanceInputReduction
+namespace Erdos390.Full.PaperMovingPrefixMarkedCell
+end Erdos390.Full.PaperMovingPrefixMarkedCell
+namespace Erdos390.Full.PaperNonstepLocalDiagonal
+end Erdos390.Full.PaperNonstepLocalDiagonal
+namespace Erdos390.Full.PaperNonstepPowerCorrectionLedger
+end Erdos390.Full.PaperNonstepPowerCorrectionLedger
+namespace Erdos390.Full.PaperNonstepPrimeMomentRate
+end Erdos390.Full.PaperNonstepPrimeMomentRate
+namespace Erdos390.Full.PaperNonstepReferenceSlowDirect
+end Erdos390.Full.PaperNonstepReferenceSlowDirect
+namespace Erdos390.Full.PaperNonstepSlowNuisanceCorrection
+end Erdos390.Full.PaperNonstepSlowNuisanceCorrection
+namespace Erdos390.Full.PaperNonstepSlowRightLedger
+end Erdos390.Full.PaperNonstepSlowRightLedger
+namespace Erdos390.Full.PaperNonstepSquarefreeSlowLedger
+end Erdos390.Full.PaperNonstepSquarefreeSlowLedger
+namespace Erdos390.Full.PaperNuisancePrimeLogRows
+end Erdos390.Full.PaperNuisancePrimeLogRows
+namespace Erdos390.Full.PaperPermittedRegularMesh
+end Erdos390.Full.PaperPermittedRegularMesh
+namespace Erdos390.Full.PaperPhysicalIntervalNuisanceGap
+end Erdos390.Full.PaperPhysicalIntervalNuisanceGap
+namespace Erdos390.Full.PaperPrimeDeviationGeometry
+end Erdos390.Full.PaperPrimeDeviationGeometry
+namespace Erdos390.Full.PaperPrimeDeviationMoments
+end Erdos390.Full.PaperPrimeDeviationMoments
+namespace Erdos390.Full.PaperPrimePowerActualSplice
+end Erdos390.Full.PaperPrimePowerActualSplice
+namespace Erdos390.Full.PaperPrimePowerAuxiliaryPrime
+end Erdos390.Full.PaperPrimePowerAuxiliaryPrime
+namespace Erdos390.Full.PaperPrimePowerChamberError
+end Erdos390.Full.PaperPrimePowerChamberError
+namespace Erdos390.Full.PaperPrimePowerFourDisplays
+end Erdos390.Full.PaperPrimePowerFourDisplays
+namespace Erdos390.Full.PaperPrimePowerGenericAggregation
+end Erdos390.Full.PaperPrimePowerGenericAggregation
+namespace Erdos390.Full.PaperPrimePowerLemma75
+end Erdos390.Full.PaperPrimePowerLemma75
+namespace Erdos390.Full.PaperPrimePowerPairAggregation
+end Erdos390.Full.PaperPrimePowerPairAggregation
+namespace Erdos390.Full.PaperPrimePowerPointwise
+end Erdos390.Full.PaperPrimePowerPointwise
+namespace Erdos390.Full.PaperPrimePowerRelativeQuadratic
+end Erdos390.Full.PaperPrimePowerRelativeQuadratic
+namespace Erdos390.Full.PaperPrimePowerRemainderRate
+end Erdos390.Full.PaperPrimePowerRemainderRate
+namespace Erdos390.Full.PaperPrimePowerRow
+end Erdos390.Full.PaperPrimePowerRow
+namespace Erdos390.Full.PaperPrimePowerSumAbsAggregation
+end Erdos390.Full.PaperPrimePowerSumAbsAggregation
+namespace Erdos390.Full.PaperPrimePowerTailLedger
+end Erdos390.Full.PaperPrimePowerTailLedger
+namespace Erdos390.Full.PaperPrimePowerTailRate
+end Erdos390.Full.PaperPrimePowerTailRate
+namespace Erdos390.Full.PaperPrimePowerTailRow
+end Erdos390.Full.PaperPrimePowerTailRow
+namespace Erdos390.Full.PaperProposition87ActiveMassTransport
+end Erdos390.Full.PaperProposition87ActiveMassTransport
+namespace Erdos390.Full.PaperProposition87AllPrimeMarkedSplit
+end Erdos390.Full.PaperProposition87AllPrimeMarkedSplit
+namespace Erdos390.Full.PaperProposition87Assembly
+end Erdos390.Full.PaperProposition87Assembly
+namespace Erdos390.Full.PaperProposition87CanonicalConclusion
+end Erdos390.Full.PaperProposition87CanonicalConclusion
+namespace Erdos390.Full.PaperProposition87CanonicalEventually
+end Erdos390.Full.PaperProposition87CanonicalEventually
+namespace Erdos390.Full.PaperProposition87CanonicalFeasibilitySlackEventually
+end Erdos390.Full.PaperProposition87CanonicalFeasibilitySlackEventually
+namespace Erdos390.Full.PaperProposition87CanonicalFullGap
+end Erdos390.Full.PaperProposition87CanonicalFullGap
+namespace Erdos390.Full.PaperProposition87CanonicalMarkedProfilesEventually
+end Erdos390.Full.PaperProposition87CanonicalMarkedProfilesEventually
+namespace Erdos390.Full.PaperProposition87CanonicalNuisanceReservesEventually
+end Erdos390.Full.PaperProposition87CanonicalNuisanceReservesEventually
+namespace Erdos390.Full.PaperProposition87CanonicalSpeedPackage
+end Erdos390.Full.PaperProposition87CanonicalSpeedPackage
+namespace Erdos390.Full.PaperProposition87CanonicalStatement
+end Erdos390.Full.PaperProposition87CanonicalStatement
+namespace Erdos390.Full.PaperProposition87CanonicalTargetPackage
+end Erdos390.Full.PaperProposition87CanonicalTargetPackage
+namespace Erdos390.Full.PaperProposition87CanonicalTwoStageAssembly
+end Erdos390.Full.PaperProposition87CanonicalTwoStageAssembly
+namespace Erdos390.Full.PaperProposition87LiteralBandBalance
+end Erdos390.Full.PaperProposition87LiteralBandBalance
+namespace Erdos390.Full.PaperProposition87MarkedProfilesAssembly
+end Erdos390.Full.PaperProposition87MarkedProfilesAssembly
+namespace Erdos390.Full.PaperProposition87MarkedProfilesMajorant
+end Erdos390.Full.PaperProposition87MarkedProfilesMajorant
+namespace Erdos390.Full.PaperProposition87MarkedRowRate
+end Erdos390.Full.PaperProposition87MarkedRowRate
+namespace Erdos390.Full.PaperProposition87MarkedTwoStage
+end Erdos390.Full.PaperProposition87MarkedTwoStage
+namespace Erdos390.Full.PaperProposition87SpeedRadius
+end Erdos390.Full.PaperProposition87SpeedRadius
+namespace Erdos390.Full.PaperProposition87UniformMarkedProfiles
+end Erdos390.Full.PaperProposition87UniformMarkedProfiles
+namespace Erdos390.Full.PaperRawPrefixThirdCumulantFallback
+end Erdos390.Full.PaperRawPrefixThirdCumulantFallback
+namespace Erdos390.Full.PaperRawPrefixThirdCumulantRow
+end Erdos390.Full.PaperRawPrefixThirdCumulantRow
+namespace Erdos390.Full.PaperRawPrefixValuationRow
+end Erdos390.Full.PaperRawPrefixValuationRow
+namespace Erdos390.Full.PaperRawTiltTaylorRate
+end Erdos390.Full.PaperRawTiltTaylorRate
+namespace Erdos390.Full.PaperRawTiltedPrefixRow
+end Erdos390.Full.PaperRawTiltedPrefixRow
+namespace Erdos390.Full.PaperRawTiltedPrefixRowUnrestricted
+end Erdos390.Full.PaperRawTiltedPrefixRowUnrestricted
+namespace Erdos390.Full.PaperRawTiltedValuationMeanRows
+end Erdos390.Full.PaperRawTiltedValuationMeanRows
+namespace Erdos390.Full.PaperReferenceSharpPrimeGraph
+end Erdos390.Full.PaperReferenceSharpPrimeGraph
+namespace Erdos390.Full.PaperScaleEndpoint
+end Erdos390.Full.PaperScaleEndpoint
+namespace Erdos390.Full.PaperScaleMarkedCell
+end Erdos390.Full.PaperScaleMarkedCell
+namespace Erdos390.Full.PaperSelectedMeshActualFullProjectedInverseEventually
+end Erdos390.Full.PaperSelectedMeshActualFullProjectedInverseEventually
+namespace Erdos390.Full.PaperSelectedMeshProjectedInverseEventually
+end Erdos390.Full.PaperSelectedMeshProjectedInverseEventually
+namespace Erdos390.Full.PaperSelectedMeshSchurEventually
+end Erdos390.Full.PaperSelectedMeshSchurEventually
+namespace Erdos390.Full.PaperSelectedMeshSchurRateEventually
+end Erdos390.Full.PaperSelectedMeshSchurRateEventually
+namespace Erdos390.Full.PaperSquarefreeSlowQuadraticLower
+end Erdos390.Full.PaperSquarefreeSlowQuadraticLower
+namespace Erdos390.Full.PaperStatisticNorm
+end Erdos390.Full.PaperStatisticNorm
+namespace Erdos390.Full.PaperTiltSmallness
+end Erdos390.Full.PaperTiltSmallness
+namespace Erdos390.Full.PaperTwoLocalRestorationBound
+end Erdos390.Full.PaperTwoLocalRestorationBound
+namespace Erdos390.Full.PaperUniformNuisanceGap
+end Erdos390.Full.PaperUniformNuisanceGap
+namespace Erdos390.Full.PaperValuationCutoff
+end Erdos390.Full.PaperValuationCutoff
+namespace Erdos390.Full.PaperVectorFieldEffectiveBound
+end Erdos390.Full.PaperVectorFieldEffectiveBound
+namespace Erdos390.Full.PaperVectorFieldSchur
+end Erdos390.Full.PaperVectorFieldSchur
+namespace Erdos390.Full.PaperWeightedGaugeDGeometry
+end Erdos390.Full.PaperWeightedGaugeDGeometry
+namespace Erdos390.Full.PaperWeightedInverseExport
+end Erdos390.Full.PaperWeightedInverseExport
+namespace Erdos390.Full.PartitionPrimeDeviationGeometry
+end Erdos390.Full.PartitionPrimeDeviationGeometry
+namespace Erdos390.Full.PoissonDickmanDirichlet
+end Erdos390.Full.PoissonDickmanDirichlet
+namespace Erdos390.Full.PoissonDickmanKernelBounds
+end Erdos390.Full.PoissonDickmanKernelBounds
+namespace Erdos390.Full.PoissonDickmanWeightedInverse
+end Erdos390.Full.PoissonDickmanWeightedInverse
+namespace Erdos390.Full.PositiveCellTransfer
+end Erdos390.Full.PositiveCellTransfer
+namespace Erdos390.Full.PowerLedger
+end Erdos390.Full.PowerLedger
+namespace Erdos390.Full.PrimeBandQuadrature
+end Erdos390.Full.PrimeBandQuadrature
+namespace Erdos390.Full.PrimeCoordinateSecondMoment
+end Erdos390.Full.PrimeCoordinateSecondMoment
+namespace Erdos390.Full.PrimeIntervalPartitionConstructor
+end Erdos390.Full.PrimeIntervalPartitionConstructor
+namespace Erdos390.Full.PrimePowerCovariance
+end Erdos390.Full.PrimePowerCovariance
+namespace Erdos390.Full.PrimePowerCutoffCovariance
+end Erdos390.Full.PrimePowerCutoffCovariance
+namespace Erdos390.Full.PrimePowerLcmGeometry
+end Erdos390.Full.PrimePowerLcmGeometry
+namespace Erdos390.Full.PrimePowerRowTransfer
+end Erdos390.Full.PrimePowerRowTransfer
+namespace Erdos390.Full.PrimePowerSharpBandTransfer
+end Erdos390.Full.PrimePowerSharpBandTransfer
+namespace Erdos390.Full.PrimeSquarefreeDirichletGeometry
+end Erdos390.Full.PrimeSquarefreeDirichletGeometry
+namespace Erdos390.Full.PrimeSums
+end Erdos390.Full.PrimeSums
+namespace Erdos390.Full.RegularMeshActualMomentBounds
+end Erdos390.Full.RegularMeshActualMomentBounds
+namespace Erdos390.Full.RegularMeshActualMomentBoundsEventually
+end Erdos390.Full.RegularMeshActualMomentBoundsEventually
+namespace Erdos390.Full.RegularMeshMomentBounds
+end Erdos390.Full.RegularMeshMomentBounds
+namespace Erdos390.Full.RegularMeshPrimeCutoffs
+end Erdos390.Full.RegularMeshPrimeCutoffs
+namespace Erdos390.Full.RegularMeshPrimeCutoffsEventually
+end Erdos390.Full.RegularMeshPrimeCutoffsEventually
+namespace Erdos390.Full.RegularRelativeMesh
+end Erdos390.Full.RegularRelativeMesh
+namespace Erdos390.Full.RegularRelativeMeshInteriorAnchors
+end Erdos390.Full.RegularRelativeMeshInteriorAnchors
+namespace Erdos390.Full.RegularRelativeMeshPrefixSplit
+end Erdos390.Full.RegularRelativeMeshPrefixSplit
+namespace Erdos390.Full.Scale
+end Erdos390.Full.Scale
+namespace Erdos390.Full.SelectedDyadicRegularMesh
+end Erdos390.Full.SelectedDyadicRegularMesh
+namespace Erdos390.Full.SquarefreeCovarianceReference
+end Erdos390.Full.SquarefreeCovarianceReference
+namespace Erdos390.Full.SquarefreeReferenceOperatorIdentification
+end Erdos390.Full.SquarefreeReferenceOperatorIdentification
+namespace Erdos390.Full.SquarefreeSharpBandTransfer
+end Erdos390.Full.SquarefreeSharpBandTransfer
+namespace Erdos390.Full.StableInverse
+end Erdos390.Full.StableInverse
+namespace Erdos390.Full.StructuredCellAsymptotic
+end Erdos390.Full.StructuredCellAsymptotic
+namespace Erdos390.Full.StructuredCellValuationLaw
+end Erdos390.Full.StructuredCellValuationLaw
+namespace Erdos390.Full.StructuredCells
+end Erdos390.Full.StructuredCells
+namespace Erdos390.Full.TwoLocalPairRestoration
+end Erdos390.Full.TwoLocalPairRestoration
+namespace Erdos390.Full.TwoLocalRestoration
+end Erdos390.Full.TwoLocalRestoration
+namespace Erdos390.Full.TwoLocalRestorationBound
+end Erdos390.Full.TwoLocalRestorationBound
+namespace Erdos390.Full.UniformFiniteProbability
+end Erdos390.Full.UniformFiniteProbability
+namespace Erdos390.Full.UniformMeshArithmeticInverse
+end Erdos390.Full.UniformMeshArithmeticInverse
+namespace Erdos390.Full.ValuationCutoff
+end Erdos390.Full.ValuationCutoff
+namespace Erdos390.Full.ValuationScoreDomination
+end Erdos390.Full.ValuationScoreDomination
+namespace Erdos390.Full.ValuationTiltCell
+end Erdos390.Full.ValuationTiltCell
+namespace Erdos390.Lemma75
+end Erdos390.Lemma75
+namespace Erdos390.Lemma84
+end Erdos390.Lemma84
+namespace Erdos390.Proposition87
+end Erdos390.Proposition87
+namespace Erdos390.WholePaper.AllocationCertificate
+end Erdos390.WholePaper.AllocationCertificate
+namespace Erdos390.WholePaper.AllocationCertificateArithmeticChecks
+end Erdos390.WholePaper.AllocationCertificateArithmeticChecks
+namespace Erdos390.WholePaper.AllocationCertificateCapacityChecks1
+end Erdos390.WholePaper.AllocationCertificateCapacityChecks1
+namespace Erdos390.WholePaper.AllocationCertificateCapacityChecks2
+end Erdos390.WholePaper.AllocationCertificateCapacityChecks2
+namespace Erdos390.WholePaper.AllocationCertificateCapacityChecks3
+end Erdos390.WholePaper.AllocationCertificateCapacityChecks3
+namespace Erdos390.WholePaper.AllocationCertificateCapacityChecks4
+end Erdos390.WholePaper.AllocationCertificateCapacityChecks4
+namespace Erdos390.WholePaper.AllocationCertificateChecker
+end Erdos390.WholePaper.AllocationCertificateChecker
+namespace Erdos390.WholePaper.AllocationCertificateData
+end Erdos390.WholePaper.AllocationCertificateData
+namespace Erdos390.WholePaper.AllocationCertificateOverlapChecks1
+end Erdos390.WholePaper.AllocationCertificateOverlapChecks1
+namespace Erdos390.WholePaper.AllocationCertificateOverlapChecks2
+end Erdos390.WholePaper.AllocationCertificateOverlapChecks2
+namespace Erdos390.WholePaper.AllocationCertificateOverlapChecks3
+end Erdos390.WholePaper.AllocationCertificateOverlapChecks3
+namespace Erdos390.WholePaper.AllocationCertificateOverlapChecks4
+end Erdos390.WholePaper.AllocationCertificateOverlapChecks4
+namespace Erdos390.WholePaper.AllocationCertificateRowChecks1
+end Erdos390.WholePaper.AllocationCertificateRowChecks1
+namespace Erdos390.WholePaper.AllocationCertificateRowChecks2
+end Erdos390.WholePaper.AllocationCertificateRowChecks2
+namespace Erdos390.WholePaper.AllocationCertificateRowChecks3
+end Erdos390.WholePaper.AllocationCertificateRowChecks3
+namespace Erdos390.WholePaper.AllocationCertificateRowChecks4
+end Erdos390.WholePaper.AllocationCertificateRowChecks4
+namespace Erdos390.WholePaper.AllocationCertificateStructuralChecks
+end Erdos390.WholePaper.AllocationCertificateStructuralChecks
+namespace Erdos390.WholePaper.AllocationTailCapacity
+end Erdos390.WholePaper.AllocationTailCapacity
+namespace Erdos390.WholePaper.BankAnchorCollisionFree
+end Erdos390.WholePaper.BankAnchorCollisionFree
+namespace Erdos390.WholePaper.BankAnchorGuardsFinite
+end Erdos390.WholePaper.BankAnchorGuardsFinite
+namespace Erdos390.WholePaper.BankBottomConcreteDemand
+end Erdos390.WholePaper.BankBottomConcreteDemand
+namespace Erdos390.WholePaper.BankBottomMarkerPoolScale
+end Erdos390.WholePaper.BankBottomMarkerPoolScale
+namespace Erdos390.WholePaper.BankBottomMarkerPools
+end Erdos390.WholePaper.BankBottomMarkerPools
+namespace Erdos390.WholePaper.BankBottomPaperComponents
+end Erdos390.WholePaper.BankBottomPaperComponents
+namespace Erdos390.WholePaper.BankBottomPoolMatching
+end Erdos390.WholePaper.BankBottomPoolMatching
+namespace Erdos390.WholePaper.BankGeometricDescentCore
+end Erdos390.WholePaper.BankGeometricDescentCore
+namespace Erdos390.WholePaper.BankGuardedCentralAnchorExistence
+end Erdos390.WholePaper.BankGuardedCentralAnchorExistence
+namespace Erdos390.WholePaper.BankMarkerDonorCombinatorics
+end Erdos390.WholePaper.BankMarkerDonorCombinatorics
+namespace Erdos390.WholePaper.BankOrdinaryConcreteDemand
+end Erdos390.WholePaper.BankOrdinaryConcreteDemand
+namespace Erdos390.WholePaper.BankOrdinaryCorePaths
+end Erdos390.WholePaper.BankOrdinaryCorePaths
+namespace Erdos390.WholePaper.BankOrdinaryDonorRelation
+end Erdos390.WholePaper.BankOrdinaryDonorRelation
+namespace Erdos390.WholePaper.BankOrdinaryDonorSupply
+end Erdos390.WholePaper.BankOrdinaryDonorSupply
+namespace Erdos390.WholePaper.BankOrdinaryPaperComponents
+end Erdos390.WholePaper.BankOrdinaryPaperComponents
+namespace Erdos390.WholePaper.BankOrdinaryPoolMatching
+end Erdos390.WholePaper.BankOrdinaryPoolMatching
+namespace Erdos390.WholePaper.BankPaperAnchorChangeBudget
+end Erdos390.WholePaper.BankPaperAnchorChangeBudget
+namespace Erdos390.WholePaper.BankPaperAnchorExactificationGuards
+end Erdos390.WholePaper.BankPaperAnchorExactificationGuards
+namespace Erdos390.WholePaper.BankPaperAnchorGuards
+end Erdos390.WholePaper.BankPaperAnchorGuards
+namespace Erdos390.WholePaper.BankPaperCanonicalActualActiveMeasureAdditiveRefinement
+end Erdos390.WholePaper.BankPaperCanonicalActualActiveMeasureAdditiveRefinement
+namespace Erdos390.WholePaper.BankPaperCanonicalActualActiveMeasureConstruction
+end Erdos390.WholePaper.BankPaperCanonicalActualActiveMeasureConstruction
+namespace Erdos390.WholePaper.BankPaperCanonicalActualEndpointSlackConnector
+end Erdos390.WholePaper.BankPaperCanonicalActualEndpointSlackConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalActualMomentReadyEventually
+end Erdos390.WholePaper.BankPaperCanonicalActualMomentReadyEventually
+namespace Erdos390.WholePaper.BankPaperCanonicalActualP87RatioCellTrafficConnector
+end Erdos390.WholePaper.BankPaperCanonicalActualP87RatioCellTrafficConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalArbitrarySourcePostHfitConnector
+end Erdos390.WholePaper.BankPaperCanonicalArbitrarySourcePostHfitConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalArbitrarySourceSelectorDeficitPaperRateClosureConnector
+end Erdos390.WholePaper.BankPaperCanonicalArbitrarySourceSelectorDeficitPaperRateClosureConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalBalancedRawSignedValuationResidualBoundConnector
+end Erdos390.WholePaper.BankPaperCanonicalBalancedRawSignedValuationResidualBoundConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalBridgeRelevantGuardLedger
+end Erdos390.WholePaper.BankPaperCanonicalBridgeRelevantGuardLedger
+namespace Erdos390.WholePaper.BankPaperCanonicalDirectOrdinaryLogRateConnector
+end Erdos390.WholePaper.BankPaperCanonicalDirectOrdinaryLogRateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalDistributedCandidateSet
+end Erdos390.WholePaper.BankPaperCanonicalDistributedCandidateSet
+namespace Erdos390.WholePaper.BankPaperCanonicalDistributedCleanListAdapter
+end Erdos390.WholePaper.BankPaperCanonicalDistributedCleanListAdapter
+namespace Erdos390.WholePaper.BankPaperCanonicalDistributedPostChoice
+end Erdos390.WholePaper.BankPaperCanonicalDistributedPostChoice
+namespace Erdos390.WholePaper.BankPaperCanonicalDistributedSectionNineAssembly
+end Erdos390.WholePaper.BankPaperCanonicalDistributedSectionNineAssembly
+namespace Erdos390.WholePaper.BankPaperCanonicalDistributedSectionNineTerminal
+end Erdos390.WholePaper.BankPaperCanonicalDistributedSectionNineTerminal
+namespace Erdos390.WholePaper.BankPaperCanonicalDistributedTangentBridge
+end Erdos390.WholePaper.BankPaperCanonicalDistributedTangentBridge
+namespace Erdos390.WholePaper.BankPaperCanonicalFixedDepthCapacityBridge
+end Erdos390.WholePaper.BankPaperCanonicalFixedDepthCapacityBridge
+namespace Erdos390.WholePaper.BankPaperCanonicalFourFiveKernelVariation
+end Erdos390.WholePaper.BankPaperCanonicalFourFiveKernelVariation
+namespace Erdos390.WholePaper.BankPaperCanonicalGlobalCorrectedSourceSelector
+end Erdos390.WholePaper.BankPaperCanonicalGlobalCorrectedSourceSelector
+namespace Erdos390.WholePaper.BankPaperCanonicalGuardCapacityReduction
+end Erdos390.WholePaper.BankPaperCanonicalGuardCapacityReduction
+namespace Erdos390.WholePaper.BankPaperCanonicalGuardLocalRowLedger
+end Erdos390.WholePaper.BankPaperCanonicalGuardLocalRowLedger
+namespace Erdos390.WholePaper.BankPaperCanonicalGuardedBridgeConnector
+end Erdos390.WholePaper.BankPaperCanonicalGuardedBridgeConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalGuardedPostchargeCorrectionRateClosure
+end Erdos390.WholePaper.BankPaperCanonicalGuardedPostchargeCorrectionRateClosure
+namespace Erdos390.WholePaper.BankPaperCanonicalGuardedRawCorrectionMomentDefectConnector
+end Erdos390.WholePaper.BankPaperCanonicalGuardedRawCorrectionMomentDefectConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalGuardedSectionNineContinuation
+end Erdos390.WholePaper.BankPaperCanonicalGuardedSectionNineContinuation
+namespace Erdos390.WholePaper.BankPaperCanonicalHeadActiveMassEventually
+end Erdos390.WholePaper.BankPaperCanonicalHeadActiveMassEventually
+namespace Erdos390.WholePaper.BankPaperCanonicalImplementationDefectRateReductionConnector
+end Erdos390.WholePaper.BankPaperCanonicalImplementationDefectRateReductionConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalMediumPrimeStructuredPlacementMomentRateConnector
+end Erdos390.WholePaper.BankPaperCanonicalMediumPrimeStructuredPlacementMomentRateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalNonsmoothSlackClosure
+end Erdos390.WholePaper.BankPaperCanonicalNonsmoothSlackClosure
+namespace Erdos390.WholePaper.BankPaperCanonicalP87ApproximateOrdinaryLogTargetEnvelopeConnector
+end Erdos390.WholePaper.BankPaperCanonicalP87ApproximateOrdinaryLogTargetEnvelopeConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalP87OrdinaryLogCompatibilityConnector
+end Erdos390.WholePaper.BankPaperCanonicalP87OrdinaryLogCompatibilityConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalP87TargetEnvelopeConnector
+end Erdos390.WholePaper.BankPaperCanonicalP87TargetEnvelopeConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalP87VaryingMassUniformOrderConnector
+end Erdos390.WholePaper.BankPaperCanonicalP87VaryingMassUniformOrderConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalPostHfitBalancedAlphaEventually
+end Erdos390.WholePaper.BankPaperCanonicalPostHfitBalancedAlphaEventually
+namespace Erdos390.WholePaper.BankPaperCanonicalPostHfitSlackConnector
+end Erdos390.WholePaper.BankPaperCanonicalPostHfitSlackConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalPreTangentSelector
+end Erdos390.WholePaper.BankPaperCanonicalPreTangentSelector
+namespace Erdos390.WholePaper.BankPaperCanonicalPrefixAdapter
+end Erdos390.WholePaper.BankPaperCanonicalPrefixAdapter
+namespace Erdos390.WholePaper.BankPaperCanonicalPrefixQuadrature
+end Erdos390.WholePaper.BankPaperCanonicalPrefixQuadrature
+namespace Erdos390.WholePaper.BankPaperCanonicalProposition87EndpointSlack
+end Erdos390.WholePaper.BankPaperCanonicalProposition87EndpointSlack
+namespace Erdos390.WholePaper.BankPaperCanonicalRatioCellGeometry
+end Erdos390.WholePaper.BankPaperCanonicalRatioCellGeometry
+namespace Erdos390.WholePaper.BankPaperCanonicalRatioCellGeometryTrafficConnector
+end Erdos390.WholePaper.BankPaperCanonicalRatioCellGeometryTrafficConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalRatioCellMomentTraffic
+end Erdos390.WholePaper.BankPaperCanonicalRatioCellMomentTraffic
+namespace Erdos390.WholePaper.BankPaperCanonicalRatioCellOccupancy
+end Erdos390.WholePaper.BankPaperCanonicalRatioCellOccupancy
+namespace Erdos390.WholePaper.BankPaperCanonicalRatioCellTraffic
+end Erdos390.WholePaper.BankPaperCanonicalRatioCellTraffic
+namespace Erdos390.WholePaper.BankPaperCanonicalRawBroadSurplusAsymptotic
+end Erdos390.WholePaper.BankPaperCanonicalRawBroadSurplusAsymptotic
+namespace Erdos390.WholePaper.BankPaperCanonicalRawRowCorrectionRateClosure
+end Erdos390.WholePaper.BankPaperCanonicalRawRowCorrectionRateClosure
+namespace Erdos390.WholePaper.BankPaperCanonicalRoughRowCorrection
+end Erdos390.WholePaper.BankPaperCanonicalRoughRowCorrection
+namespace Erdos390.WholePaper.BankPaperCanonicalSaiasUpperReduction
+end Erdos390.WholePaper.BankPaperCanonicalSaiasUpperReduction
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionEightActiveMassScaleLowerConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionEightActiveMassScaleLowerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionEightActualDataConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionEightActualDataConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionEightAnalyticLedgerReduction
+end Erdos390.WholePaper.BankPaperCanonicalSectionEightAnalyticLedgerReduction
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionEightPrechargedLogConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionEightPrechargedLogConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionEightTopFrozenInitialMassConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionEightTopFrozenInitialMassConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionEightTopFrozenSourceConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionEightTopFrozenSourceConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionEightTwoZeroOneShotConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionEightTwoZeroOneShotConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineActiveLedgerConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineActiveLedgerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineAssembly
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineAssembly
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineBudgetClosure
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineBudgetClosure
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineFinalGeometry
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineFinalGeometry
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineFixedComponentCollision
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineFixedComponentCollision
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineMainAsymptoticConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineMainAsymptoticConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineParameterSynchronization
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineParameterSynchronization
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightBaselineTargetConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightBaselineTargetConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightCoherentTargetConstructor
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightCoherentTargetConstructor
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightEventualSupplierConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightEventualSupplierConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightFrozenLogInvarianceConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightFrozenLogInvarianceConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightHeadMarginAlgebra
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightHeadMarginAlgebra
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightLocalInputConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightLocalInputConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightOrdinaryLogLedgerConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightOrdinaryLogLedgerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPhysicalMarginAlgebra
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPhysicalMarginAlgebra
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPlacedMeasureConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPlacedMeasureConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPlacedSelectorDeficitRateConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPlacedSelectorDeficitRateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPlacementValuationRateConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightPlacementValuationRateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstActualData
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstActualData
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCommonLedgerBeforeMesh
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCommonLedgerBeforeMesh
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCrossMeshScalarTransport
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCrossMeshScalarTransport
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCutoffAwareAnalyticCompletion
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCutoffAwareAnalyticCompletion
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCutoffAwareDistributedTerminalConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstCutoffAwareDistributedTerminalConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstEventualCoherentBridgeSourceObligation
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstEventualCoherentBridgeSourceObligation
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstEventualPostHfitConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstEventualPostHfitConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstFiniteAssembly
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstFiniteAssembly
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstFiniteExportedFields
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstFiniteExportedFields
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstLedgerConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstLedgerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstLedgerFamilies
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstLedgerFamilies
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstLedgerPostBridgeAssembly
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstLedgerPostBridgeAssembly
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstMassAlgebra
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstMassAlgebra
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPostLedgerConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPostLedgerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshEventualCoherentBridgeSourceObligation
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshEventualCoherentBridgeSourceObligation
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshLedgerPostMarginAssembly
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshLedgerPostMarginAssembly
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshNumericalData
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshNumericalData
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshPostMarginData
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshPostMarginData
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshSelectorProvider
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshSelectorProvider
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshSourceConstantsConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshSourceConstantsConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshUniformP87Connector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreMeshUniformP87Connector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreselectedPostHfitConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreselectedPostHfitConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreselectedPostLedgerConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstPreselectedPostLedgerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstRichSourceProducer
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstRichSourceProducer
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstRichSourceWithFixedNumericalData
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceFirstRichSourceWithFixedNumericalData
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceInputAssemblyConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceInputAssemblyConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceObligationPublicSyncConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceObligationPublicSyncConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourcePrebridgeConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourcePrebridgeConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceResidualConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNinePostHeightSourceResidualConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineTopFrozenEventStepConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineTopFrozenEventStepConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineTopFrozenFinalGeometryConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineTopFrozenFinalGeometryConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSectionNineTopFrozenSynchronizedAnalyticCompletionConnector
+end Erdos390.WholePaper.BankPaperCanonicalSectionNineTopFrozenSynchronizedAnalyticCompletionConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSelectorDeficitPaperRateClosureConnector
+end Erdos390.WholePaper.BankPaperCanonicalSelectorDeficitPaperRateClosureConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSelectorRoundingCandidateHandoff
+end Erdos390.WholePaper.BankPaperCanonicalSelectorRoundingCandidateHandoff
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalClippedIntervalGeometry
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalClippedIntervalGeometry
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalCoreFirst
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalCoreFirst
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveChamberConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveChamberConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveCutoffIntervalPrecursorConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveCutoffIntervalPrecursorConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveDeepDisplacementConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveDeepDisplacementConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveDeepEndpointErrorConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveDeepEndpointErrorConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveDeepIntervalEstimateConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveDeepIntervalEstimateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveGeometryPrecursorConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveGeometryPrecursorConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveRemainingInputsConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveRemainingInputsConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveResidualBoundConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalFourFiveResidualBoundConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalOrderedMixtureConnector
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalOrderedMixtureConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalPhysicalReindex
+end Erdos390.WholePaper.BankPaperCanonicalSignedExceptionalPhysicalReindex
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedGuardResidual
+end Erdos390.WholePaper.BankPaperCanonicalSignedGuardResidual
+namespace Erdos390.WholePaper.BankPaperCanonicalSignedResidualSelectorIdentification
+end Erdos390.WholePaper.BankPaperCanonicalSignedResidualSelectorIdentification
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothAdditivePlacement
+end Erdos390.WholePaper.BankPaperCanonicalSmoothAdditivePlacement
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothAdditiveRefinementTangentTransport
+end Erdos390.WholePaper.BankPaperCanonicalSmoothAdditiveRefinementTangentTransport
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothProtectedAdditiveRefinement
+end Erdos390.WholePaper.BankPaperCanonicalSmoothProtectedAdditiveRefinement
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothQuotaHeightAsymptotic
+end Erdos390.WholePaper.BankPaperCanonicalSmoothQuotaHeightAsymptotic
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothQuotaHeightLedger
+end Erdos390.WholePaper.BankPaperCanonicalSmoothQuotaHeightLedger
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedRateClosure
+end Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedRateClosure
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpRoundedValuationRateConnector
+end Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpRoundedValuationRateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosure
+end Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosure
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureBroad
+end Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureBroad
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureFinal
+end Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureFinal
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureMixture
+end Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureMixture
+namespace Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureMoving
+end Erdos390.WholePaper.BankPaperCanonicalSmoothSourceGuardedSharpValuationRateClosureMoving
+namespace Erdos390.WholePaper.BankPaperCanonicalStructuredPrebridgeLedgerConnector
+end Erdos390.WholePaper.BankPaperCanonicalStructuredPrebridgeLedgerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTangentResidualBridge
+end Erdos390.WholePaper.BankPaperCanonicalTangentResidualBridge
+namespace Erdos390.WholePaper.BankPaperCanonicalTangentSlackIntegration
+end Erdos390.WholePaper.BankPaperCanonicalTangentSlackIntegration
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenChargedRowsConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenChargedRowsConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenEventualOrdinaryLogRateConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenEventualOrdinaryLogRateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenImplementationRateReductionConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenImplementationRateReductionConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenOrdinaryLogHeightReductionConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenOrdinaryLogHeightReductionConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenRoundedSourceStateConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenRoundedSourceStateConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenRoundedSourceStateEventualConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenRoundedSourceStateEventualConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenSelectorTailSupportReductionConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenSelectorTailSupportReductionConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenSmoothFeasibilityConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenSmoothFeasibilityConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTopFrozenSourceFeasibilityReductionConnector
+end Erdos390.WholePaper.BankPaperCanonicalTopFrozenSourceFeasibilityReductionConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellHfitConnector
+end Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellHfitConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellMeasureConnector
+end Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellMeasureConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellOuterCapacityConnector
+end Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellOuterCapacityConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellPostHfitConnector
+end Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellPostHfitConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellProducerConnector
+end Erdos390.WholePaper.BankPaperCanonicalTwoZeroHeadCellProducerConnector
+namespace Erdos390.WholePaper.BankPaperCanonicalUpperConstructionEventually
+end Erdos390.WholePaper.BankPaperCanonicalUpperConstructionEventually
+namespace Erdos390.WholePaper.BankPaperCanonicalUpperConstructionReduction
+end Erdos390.WholePaper.BankPaperCanonicalUpperConstructionReduction
+namespace Erdos390.WholePaper.BankPaperCombinedChargeDepthFirstTerminal
+end Erdos390.WholePaper.BankPaperCombinedChargeDepthFirstTerminal
+namespace Erdos390.WholePaper.BankPaperCombinedChargeTerminal
+end Erdos390.WholePaper.BankPaperCombinedChargeTerminal
+namespace Erdos390.WholePaper.BankPaperComponents
+end Erdos390.WholePaper.BankPaperComponents
+namespace Erdos390.WholePaper.BankPaperExactificationApplication
+end Erdos390.WholePaper.BankPaperExactificationApplication
+namespace Erdos390.WholePaper.BankPaperExactificationState
+end Erdos390.WholePaper.BankPaperExactificationState
+namespace Erdos390.WholePaper.BankPaperFinalFactorSetInterval
+end Erdos390.WholePaper.BankPaperFinalFactorSetInterval
+namespace Erdos390.WholePaper.BankPaperFixedExceptionalBacking
+end Erdos390.WholePaper.BankPaperFixedExceptionalBacking
+namespace Erdos390.WholePaper.BankPaperFixedExceptionalChargeAsymptotic
+end Erdos390.WholePaper.BankPaperFixedExceptionalChargeAsymptotic
+namespace Erdos390.WholePaper.BankPaperFixedExceptionalValuationFibers
+end Erdos390.WholePaper.BankPaperFixedExceptionalValuationFibers
+namespace Erdos390.WholePaper.BankPaperFourFiveActiveLogCoordinate
+end Erdos390.WholePaper.BankPaperFourFiveActiveLogCoordinate
+namespace Erdos390.WholePaper.BankPaperFourFiveCellLebesgueIdentification
+end Erdos390.WholePaper.BankPaperFourFiveCellLebesgueIdentification
+namespace Erdos390.WholePaper.BankPaperFourFiveFixedSimplexKernel
+end Erdos390.WholePaper.BankPaperFourFiveFixedSimplexKernel
+namespace Erdos390.WholePaper.BankPaperFourFiveLastPrimeContinuumDecomposition
+end Erdos390.WholePaper.BankPaperFourFiveLastPrimeContinuumDecomposition
+namespace Erdos390.WholePaper.BankPaperFourFiveLebesgueCellAggregationBound
+end Erdos390.WholePaper.BankPaperFourFiveLebesgueCellAggregationBound
+namespace Erdos390.WholePaper.BankPaperFourFiveMovingFaceBV
+end Erdos390.WholePaper.BankPaperFourFiveMovingFaceBV
+namespace Erdos390.WholePaper.BankPaperFourFiveMovingFaceCellOscillation
+end Erdos390.WholePaper.BankPaperFourFiveMovingFaceCellOscillation
+namespace Erdos390.WholePaper.BankPaperFourFiveMovingFixedSimplexIdentification
+end Erdos390.WholePaper.BankPaperFourFiveMovingFixedSimplexIdentification
+namespace Erdos390.WholePaper.BankPaperFourFiveMovingSimplexCellIdentification
+end Erdos390.WholePaper.BankPaperFourFiveMovingSimplexCellIdentification
+namespace Erdos390.WholePaper.BankPaperFourFiveMovingSimplexCellTelescope
+end Erdos390.WholePaper.BankPaperFourFiveMovingSimplexCellTelescope
+namespace Erdos390.WholePaper.BankPaperFourFiveOrderedLastPrimeExpansion
+end Erdos390.WholePaper.BankPaperFourFiveOrderedLastPrimeExpansion
+namespace Erdos390.WholePaper.BankPaperFourFiveOrderedMixtureAssembly
+end Erdos390.WholePaper.BankPaperFourFiveOrderedMixtureAssembly
+namespace Erdos390.WholePaper.BankPaperFourFivePrimeEndpoint
+end Erdos390.WholePaper.BankPaperFourFivePrimeEndpoint
+namespace Erdos390.WholePaper.BankPaperFourFiveProductMeasureTelescope
+end Erdos390.WholePaper.BankPaperFourFiveProductMeasureTelescope
+namespace Erdos390.WholePaper.BankPaperFourFiveRealCommonDomainIdentification
+end Erdos390.WholePaper.BankPaperFourFiveRealCommonDomainIdentification
+namespace Erdos390.WholePaper.BankPaperFourFiveRealLastPrimeEndpoint
+end Erdos390.WholePaper.BankPaperFourFiveRealLastPrimeEndpoint
+namespace Erdos390.WholePaper.BankPaperFourFiveReciprocalPrimeBV
+end Erdos390.WholePaper.BankPaperFourFiveReciprocalPrimeBV
+namespace Erdos390.WholePaper.BankPaperFourFiveRoughChamberReduction
+end Erdos390.WholePaper.BankPaperFourFiveRoughChamberReduction
+namespace Erdos390.WholePaper.BankPaperFourFiveSignedCoreErrorAdapter
+end Erdos390.WholePaper.BankPaperFourFiveSignedCoreErrorAdapter
+namespace Erdos390.WholePaper.BankPaperGuardedUpperProductAssembly
+end Erdos390.WholePaper.BankPaperGuardedUpperProductAssembly
+namespace Erdos390.WholePaper.BankPaperMainAsymptoticReduction
+end Erdos390.WholePaper.BankPaperMainAsymptoticReduction
+namespace Erdos390.WholePaper.BankPaperPaths
+end Erdos390.WholePaper.BankPaperPaths
+namespace Erdos390.WholePaper.BankPaperPrecharge
+end Erdos390.WholePaper.BankPaperPrecharge
+namespace Erdos390.WholePaper.BankPaperPrechargeAsymptotic
+end Erdos390.WholePaper.BankPaperPrechargeAsymptotic
+namespace Erdos390.WholePaper.BankPaperPrechargeCapacityAlgebra
+end Erdos390.WholePaper.BankPaperPrechargeCapacityAlgebra
+namespace Erdos390.WholePaper.BankPaperPrechargeCapacityEventually
+end Erdos390.WholePaper.BankPaperPrechargeCapacityEventually
+namespace Erdos390.WholePaper.BankPaperPrechargeDivisibilityAlgebra
+end Erdos390.WholePaper.BankPaperPrechargeDivisibilityAlgebra
+namespace Erdos390.WholePaper.BankPaperPrechargeExactificationBridge
+end Erdos390.WholePaper.BankPaperPrechargeExactificationBridge
+namespace Erdos390.WholePaper.BankPaperPrechargeUniformCapacityAsymptotic
+end Erdos390.WholePaper.BankPaperPrechargeUniformCapacityAsymptotic
+namespace Erdos390.WholePaper.BankPaperPrechargedTailTarget
+end Erdos390.WholePaper.BankPaperPrechargedTailTarget
+namespace Erdos390.WholePaper.BankPaperProposition87ActualDataConnector
+end Erdos390.WholePaper.BankPaperProposition87ActualDataConnector
+namespace Erdos390.WholePaper.BankPaperProposition87EndpointSelector
+end Erdos390.WholePaper.BankPaperProposition87EndpointSelector
+namespace Erdos390.WholePaper.BankPaperSelectorTailTarget
+end Erdos390.WholePaper.BankPaperSelectorTailTarget
+namespace Erdos390.WholePaper.BankPaperSharpCensus
+end Erdos390.WholePaper.BankPaperSharpCensus
+namespace Erdos390.WholePaper.BankPaperUpperConstructionReduction
+end Erdos390.WholePaper.BankPaperUpperConstructionReduction
+namespace Erdos390.WholePaper.BankPathAlgebra
+end Erdos390.WholePaper.BankPathAlgebra
+namespace Erdos390.WholePaper.BankRoughSignatures
+end Erdos390.WholePaper.BankRoughSignatures
+namespace Erdos390.WholePaper.BankSmallDescentTable
+end Erdos390.WholePaper.BankSmallDescentTable
+namespace Erdos390.WholePaper.CanonicalCompleteRoughRows
+end Erdos390.WholePaper.CanonicalCompleteRoughRows
+namespace Erdos390.WholePaper.CentralAnchorCollision
+end Erdos390.WholePaper.CentralAnchorCollision
+namespace Erdos390.WholePaper.CentralAnchorCutoff
+end Erdos390.WholePaper.CentralAnchorCutoff
+namespace Erdos390.WholePaper.CentralAnchorDivisorSupport
+end Erdos390.WholePaper.CentralAnchorDivisorSupport
+namespace Erdos390.WholePaper.CentralAnchorExistence
+end Erdos390.WholePaper.CentralAnchorExistence
+namespace Erdos390.WholePaper.CentralAnchorGuardedCertificate
+end Erdos390.WholePaper.CentralAnchorGuardedCertificate
+namespace Erdos390.WholePaper.CentralAnchorGuardedChoice
+end Erdos390.WholePaper.CentralAnchorGuardedChoice
+namespace Erdos390.WholePaper.CentralAnchorModificationAlgebra
+end Erdos390.WholePaper.CentralAnchorModificationAlgebra
+namespace Erdos390.WholePaper.CentralAnchorProduct
+end Erdos390.WholePaper.CentralAnchorProduct
+namespace Erdos390.WholePaper.CentralAnchorReserveAlgebra
+end Erdos390.WholePaper.CentralAnchorReserveAlgebra
+namespace Erdos390.WholePaper.CentralAnchorTailDivisibility
+end Erdos390.WholePaper.CentralAnchorTailDivisibility
+namespace Erdos390.WholePaper.CentralCarryAnchors
+end Erdos390.WholePaper.CentralCarryAnchors
+namespace Erdos390.WholePaper.CentralExtension
+end Erdos390.WholePaper.CentralExtension
+namespace Erdos390.WholePaper.CentralPrimeBlockDecomposition
+end Erdos390.WholePaper.CentralPrimeBlockDecomposition
+namespace Erdos390.WholePaper.CentralPromotion
+end Erdos390.WholePaper.CentralPromotion
+namespace Erdos390.WholePaper.CentralPromotionCostAsymptotic
+end Erdos390.WholePaper.CentralPromotionCostAsymptotic
+namespace Erdos390.WholePaper.Complement
+end Erdos390.WholePaper.Complement
+namespace Erdos390.WholePaper.CompleteRoughDecomposition
+end Erdos390.WholePaper.CompleteRoughDecomposition
+namespace Erdos390.WholePaper.CompleteRoughRowPartition
+end Erdos390.WholePaper.CompleteRoughRowPartition
+namespace Erdos390.WholePaper.Constants
+end Erdos390.WholePaper.Constants
+namespace Erdos390.WholePaper.Definitions
+end Erdos390.WholePaper.Definitions
+namespace Erdos390.WholePaper.ExactFinitePartition
+end Erdos390.WholePaper.ExactFinitePartition
+namespace Erdos390.WholePaper.ExceptionalValuationSums
+end Erdos390.WholePaper.ExceptionalValuationSums
+namespace Erdos390.WholePaper.FactorizationIncidence
+end Erdos390.WholePaper.FactorizationIncidence
+namespace Erdos390.WholePaper.FiniteAsymmetricLocalLemma
+end Erdos390.WholePaper.FiniteAsymmetricLocalLemma
+namespace Erdos390.WholePaper.FinitePrefixAllocationCapacity
+end Erdos390.WholePaper.FinitePrefixAllocationCapacity
+namespace Erdos390.WholePaper.FixedModulusReducedResidueCount
+end Erdos390.WholePaper.FixedModulusReducedResidueCount
+namespace Erdos390.WholePaper.FloatingRounding
+end Erdos390.WholePaper.FloatingRounding
+namespace Erdos390.WholePaper.FloatingRoundingCounts
+end Erdos390.WholePaper.FloatingRoundingCounts
+namespace Erdos390.WholePaper.FloatingRoundingDiscrepancy
+end Erdos390.WholePaper.FloatingRoundingDiscrepancy
+namespace Erdos390.WholePaper.FloatingRoundingRows
+end Erdos390.WholePaper.FloatingRoundingRows
+namespace Erdos390.WholePaper.FloatingRoundingStep
+end Erdos390.WholePaper.FloatingRoundingStep
+namespace Erdos390.WholePaper.GuardedBankSelection
+end Erdos390.WholePaper.GuardedBankSelection
+namespace Erdos390.WholePaper.GuardedExactificationAlgebra
+end Erdos390.WholePaper.GuardedExactificationAlgebra
+namespace Erdos390.WholePaper.GuardedExactificationProduct
+end Erdos390.WholePaper.GuardedExactificationProduct
+namespace Erdos390.WholePaper.GuardedIntegralExactification
+end Erdos390.WholePaper.GuardedIntegralExactification
+namespace Erdos390.WholePaper.GuardedUpperProductAssembly
+end Erdos390.WholePaper.GuardedUpperProductAssembly
+namespace Erdos390.WholePaper.IncidenceBound
+end Erdos390.WholePaper.IncidenceBound
+namespace Erdos390.WholePaper.InfiniteAllocation
+end Erdos390.WholePaper.InfiniteAllocation
+namespace Erdos390.WholePaper.InfiniteAllocationCore
+end Erdos390.WholePaper.InfiniteAllocationCore
+namespace Erdos390.WholePaper.InfiniteAllocationTailCore
+end Erdos390.WholePaper.InfiniteAllocationTailCore
+namespace Erdos390.WholePaper.LargeCentralPrimeRouting
+end Erdos390.WholePaper.LargeCentralPrimeRouting
+namespace Erdos390.WholePaper.LargePrimeCollision
+end Erdos390.WholePaper.LargePrimeCollision
+namespace Erdos390.WholePaper.LeastPrimeTail
+end Erdos390.WholePaper.LeastPrimeTail
+namespace Erdos390.WholePaper.MainTargetEquivalence
+end Erdos390.WholePaper.MainTargetEquivalence
+namespace Erdos390.WholePaper.MovingLayerLowerBound
+end Erdos390.WholePaper.MovingLayerLowerBound
+namespace Erdos390.WholePaper.Nagura
+end Erdos390.WholePaper.Nagura
+namespace Erdos390.WholePaper.NaguraAnalyticTail
+end Erdos390.WholePaper.NaguraAnalyticTail
+namespace Erdos390.WholePaper.NaguraChebyshevIdentity
+end Erdos390.WholePaper.NaguraChebyshevIdentity
+namespace Erdos390.WholePaper.NaguraCombinatorial
+end Erdos390.WholePaper.NaguraCombinatorial
+namespace Erdos390.WholePaper.NaguraExplicitPsiBounds
+end Erdos390.WholePaper.NaguraExplicitPsiBounds
+namespace Erdos390.WholePaper.NaguraFactorialBounds
+end Erdos390.WholePaper.NaguraFactorialBounds
+namespace Erdos390.WholePaper.NaguraGeneralLowerBound
+end Erdos390.WholePaper.NaguraGeneralLowerBound
+namespace Erdos390.WholePaper.NaguraGeneralUpperBound
+end Erdos390.WholePaper.NaguraGeneralUpperBound
+namespace Erdos390.WholePaper.NaguraGeneralUpperModel
+end Erdos390.WholePaper.NaguraGeneralUpperModel
+namespace Erdos390.WholePaper.NaguraLeastPrimeCorollary
+end Erdos390.WholePaper.NaguraLeastPrimeCorollary
+namespace Erdos390.WholePaper.NaguraLogBounds
+end Erdos390.WholePaper.NaguraLogBounds
+namespace Erdos390.WholePaper.NaguraLowerCombination
+end Erdos390.WholePaper.NaguraLowerCombination
+namespace Erdos390.WholePaper.NaguraPrimeChain1046959To1482617
+end Erdos390.WholePaper.NaguraPrimeChain1046959To1482617
+namespace Erdos390.WholePaper.NaguraPrimeChain1482617To3538187
+end Erdos390.WholePaper.NaguraPrimeChain1482617To3538187
+namespace Erdos390.WholePaper.NaguraPrimeChain218737To522059
+end Erdos390.WholePaper.NaguraPrimeChain218737To522059
+namespace Erdos390.WholePaper.NaguraPrimeChain3538187To8443433
+end Erdos390.WholePaper.NaguraPrimeChain3538187To8443433
+namespace Erdos390.WholePaper.NaguraPrimeChain522059To1046959
+end Erdos390.WholePaper.NaguraPrimeChain522059To1046959
+namespace Erdos390.WholePaper.NaguraPrimeChain8443433To16000000
+end Erdos390.WholePaper.NaguraPrimeChain8443433To16000000
+namespace Erdos390.WholePaper.NaguraPrimeChain91639To218737
+end Erdos390.WholePaper.NaguraPrimeChain91639To218737
+namespace Erdos390.WholePaper.NaguraPrimeChainTo1482617
+end Erdos390.WholePaper.NaguraPrimeChainTo1482617
+namespace Erdos390.WholePaper.NaguraPrimeChainTo16000000
+end Erdos390.WholePaper.NaguraPrimeChainTo16000000
+namespace Erdos390.WholePaper.NaguraPsiBridge
+end Erdos390.WholePaper.NaguraPsiBridge
+namespace Erdos390.WholePaper.NaguraStirlingCombination
+end Erdos390.WholePaper.NaguraStirlingCombination
+namespace Erdos390.WholePaper.NaguraUniversal
+end Erdos390.WholePaper.NaguraUniversal
+namespace Erdos390.WholePaper.NoAdmissibleBelowTwoN
+end Erdos390.WholePaper.NoAdmissibleBelowTwoN
+namespace Erdos390.WholePaper.PrimeLayerCounts
+end Erdos390.WholePaper.PrimeLayerCounts
+namespace Erdos390.WholePaper.PrimeLayers
+end Erdos390.WholePaper.PrimeLayers
+namespace Erdos390.WholePaper.PrimePowerColumns
+end Erdos390.WholePaper.PrimePowerColumns
+namespace Erdos390.WholePaper.PrimePowerRounding
+end Erdos390.WholePaper.PrimePowerRounding
+namespace Erdos390.WholePaper.ResidualCentralFactors
+end Erdos390.WholePaper.ResidualCentralFactors
+namespace Erdos390.WholePaper.RoughBalancedFriableResidualReduction
+end Erdos390.WholePaper.RoughBalancedFriableResidualReduction
+namespace Erdos390.WholePaper.RoughCompactBVTranslation
+end Erdos390.WholePaper.RoughCompactBVTranslation
+namespace Erdos390.WholePaper.RoughFixedHeadFriableShift
+end Erdos390.WholePaper.RoughFixedHeadFriableShift
+namespace Erdos390.WholePaper.RoughFriableFaceInduction
+end Erdos390.WholePaper.RoughFriableFaceInduction
+namespace Erdos390.WholePaper.RoughHeadCompatibleFinitePoint
+end Erdos390.WholePaper.RoughHeadCompatibleFinitePoint
+namespace Erdos390.WholePaper.RoughSaiasBaseChange
+end Erdos390.WholePaper.RoughSaiasBaseChange
+namespace Erdos390.WholePaper.RoughSaiasCanonicalRowBridge
+end Erdos390.WholePaper.RoughSaiasCanonicalRowBridge
+namespace Erdos390.WholePaper.RoughSaiasCellTransitionSplit
+end Erdos390.WholePaper.RoughSaiasCellTransitionSplit
+namespace Erdos390.WholePaper.RoughSaiasContinuousBuchstab
+end Erdos390.WholePaper.RoughSaiasContinuousBuchstab
+namespace Erdos390.WholePaper.RoughSaiasCorrectionObstruction
+end Erdos390.WholePaper.RoughSaiasCorrectionObstruction
+namespace Erdos390.WholePaper.RoughSaiasDickmanThetaFourth
+end Erdos390.WholePaper.RoughSaiasDickmanThetaFourth
+namespace Erdos390.WholePaper.RoughSaiasEndpointApproximation
+end Erdos390.WholePaper.RoughSaiasEndpointApproximation
+namespace Erdos390.WholePaper.RoughSaiasFullyRealBuchstabCells
+end Erdos390.WholePaper.RoughSaiasFullyRealBuchstabCells
+namespace Erdos390.WholePaper.RoughSaiasFullyRealNaturalCells
+end Erdos390.WholePaper.RoughSaiasFullyRealNaturalCells
+namespace Erdos390.WholePaper.RoughSaiasFullyRealNormalForm
+end Erdos390.WholePaper.RoughSaiasFullyRealNormalForm
+namespace Erdos390.WholePaper.RoughSaiasFunctionalBuchstab
+end Erdos390.WholePaper.RoughSaiasFunctionalBuchstab
+namespace Erdos390.WholePaper.RoughSaiasNaturalThetaLedgerBound
+end Erdos390.WholePaper.RoughSaiasNaturalThetaLedgerBound
+namespace Erdos390.WholePaper.RoughSaiasNormalization
+end Erdos390.WholePaper.RoughSaiasNormalization
+namespace Erdos390.WholePaper.RoughSaiasQuotientBlocks
+end Erdos390.WholePaper.RoughSaiasQuotientBlocks
+namespace Erdos390.WholePaper.RoughSaiasRealBaseChange
+end Erdos390.WholePaper.RoughSaiasRealBaseChange
+namespace Erdos390.WholePaper.RoughSaiasRealStieltjesNormalForm
+end Erdos390.WholePaper.RoughSaiasRealStieltjesNormalForm
+namespace Erdos390.WholePaper.RoughSaiasRiemannAbsorption
+end Erdos390.WholePaper.RoughSaiasRiemannAbsorption
+namespace Erdos390.WholePaper.RoughSaiasRightAbel
+end Erdos390.WholePaper.RoughSaiasRightAbel
+namespace Erdos390.WholePaper.RoughSaiasSelectorLedgerBound
+end Erdos390.WholePaper.RoughSaiasSelectorLedgerBound
+namespace Erdos390.WholePaper.RoughSaiasSharpCanonicalRowPaperScale
+end Erdos390.WholePaper.RoughSaiasSharpCanonicalRowPaperScale
+namespace Erdos390.WholePaper.RoughSaiasSharpCorrectionTarget
+end Erdos390.WholePaper.RoughSaiasSharpCorrectionTarget
+namespace Erdos390.WholePaper.RoughSaiasSharpFixedHeadIntervalShift
+end Erdos390.WholePaper.RoughSaiasSharpFixedHeadIntervalShift
+namespace Erdos390.WholePaper.RoughSaiasSharpVariation
+end Erdos390.WholePaper.RoughSaiasSharpVariation
+namespace Erdos390.WholePaper.RoughSaiasSignedFractionalAbel
+end Erdos390.WholePaper.RoughSaiasSignedFractionalAbel
+namespace Erdos390.WholePaper.RoughSaiasStieltjesKernel
+end Erdos390.WholePaper.RoughSaiasStieltjesKernel
+namespace Erdos390.WholePaper.RoughSaiasStieltjesNormalForm
+end Erdos390.WholePaper.RoughSaiasStieltjesNormalForm
+namespace Erdos390.WholePaper.RoughSaiasUnconditionalDownstream
+end Erdos390.WholePaper.RoughSaiasUnconditionalDownstream
+namespace Erdos390.WholePaper.RoughSaiasWeightedTransition
+end Erdos390.WholePaper.RoughSaiasWeightedTransition
+namespace Erdos390.WholePaper.RoughTransitionBalancedBlock
+end Erdos390.WholePaper.RoughTransitionBalancedBlock
+namespace Erdos390.WholePaper.SafePrimeCounting
+end Erdos390.WholePaper.SafePrimeCounting
+namespace Erdos390.WholePaper.SafeShortIntervalPrimeCounting
+end Erdos390.WholePaper.SafeShortIntervalPrimeCounting
+namespace Erdos390.WholePaper.ScaledPrimeCounting
+end Erdos390.WholePaper.ScaledPrimeCounting
+namespace Erdos390.WholePaper.StationaryLayers
+end Erdos390.WholePaper.StationaryLayers
+namespace Erdos390.WholePaper.StationaryPrefixAnchors
+end Erdos390.WholePaper.StationaryPrefixAnchors
+namespace Erdos390.WholePaper.StationaryPrefixCentralCofactorChoice
+end Erdos390.WholePaper.StationaryPrefixCentralCofactorChoice
+namespace Erdos390.WholePaper.StationaryPrefixRealization
+end Erdos390.WholePaper.StationaryPrefixRealization
+namespace Erdos390.WholePaper.StationaryPrefixValuationAsymptotic
+end Erdos390.WholePaper.StationaryPrefixValuationAsymptotic
+namespace Erdos390.WholePaper.StrongSafePrimeCounting
+end Erdos390.WholePaper.StrongSafePrimeCounting
+namespace Erdos390.WholePaper.TailValuationCapacity
+end Erdos390.WholePaper.TailValuationCapacity
+namespace Erdos390.WholePaper.TailValuationCore
+end Erdos390.WholePaper.TailValuationCore
+namespace Erdos390.WholePaper.TailValuationTwoSided
+end Erdos390.WholePaper.TailValuationTwoSided
+namespace Erdos390.WholePaper.TangentBalancedProductFlow
+end Erdos390.WholePaper.TangentBalancedProductFlow
+namespace Erdos390.WholePaper.TangentCanonicalCleanListLower
+end Erdos390.WholePaper.TangentCanonicalCleanListLower
+namespace Erdos390.WholePaper.TangentCleanListCardinalityBridge
+end Erdos390.WholePaper.TangentCleanListCardinalityBridge
+namespace Erdos390.WholePaper.TangentCollisionCounting
+end Erdos390.WholePaper.TangentCollisionCounting
+namespace Erdos390.WholePaper.TangentCollisionFreeFeasibility
+end Erdos390.WholePaper.TangentCollisionFreeFeasibility
+namespace Erdos390.WholePaper.TangentCollisionLocalLemma
+end Erdos390.WholePaper.TangentCollisionLocalLemma
+namespace Erdos390.WholePaper.TangentCommonMultiplierLists
+end Erdos390.WholePaper.TangentCommonMultiplierLists
+namespace Erdos390.WholePaper.TangentDistributedFlowCensus
+end Erdos390.WholePaper.TangentDistributedFlowCensus
+namespace Erdos390.WholePaper.TangentExceptionalCanonicalBounds
+end Erdos390.WholePaper.TangentExceptionalCanonicalBounds
+namespace Erdos390.WholePaper.TangentExceptionalLambdaSquareSieve
+end Erdos390.WholePaper.TangentExceptionalLambdaSquareSieve
+namespace Erdos390.WholePaper.TangentExceptionalSelbergReduction
+end Erdos390.WholePaper.TangentExceptionalSelbergReduction
+namespace Erdos390.WholePaper.TangentFlowAlgebra
+end Erdos390.WholePaper.TangentFlowAlgebra
+namespace Erdos390.WholePaper.TangentLLLNumerics
+end Erdos390.WholePaper.TangentLLLNumerics
+namespace Erdos390.WholePaper.TangentPairArithmetic
+end Erdos390.WholePaper.TangentPairArithmetic
+namespace Erdos390.WholePaper.TangentPaperCleanListAbsorption
+end Erdos390.WholePaper.TangentPaperCleanListAbsorption
+namespace Erdos390.WholePaper.TangentPaperNumericalGuards
+end Erdos390.WholePaper.TangentPaperNumericalGuards
+namespace Erdos390.WholePaper.TangentRatioCellEarthmover
+end Erdos390.WholePaper.TangentRatioCellEarthmover
+namespace Erdos390.WholePaper.TangentRequestSplitting
+end Erdos390.WholePaper.TangentRequestSplitting
+namespace Erdos390.WholePaper.TangentSplitRequestLoads
+end Erdos390.WholePaper.TangentSplitRequestLoads
+namespace Erdos390.WholePaper.TangentStarSplitRequestBridge
+end Erdos390.WholePaper.TangentStarSplitRequestBridge
+namespace Erdos390.WholePaper.TangentStarTransport
+end Erdos390.WholePaper.TangentStarTransport
+namespace Erdos390.WholePaper.ThirteenLayerLowerBound
+end Erdos390.WholePaper.ThirteenLayerLowerBound
+namespace Erdos390.WholePaper.UpperProductAssembly
+end Erdos390.WholePaper.UpperProductAssembly
+namespace Erdos390.WholePaper.UpperScale
+end Erdos390.WholePaper.UpperScale
+namespace Erdos390.WholePaper.UpperTailValuationAsymptotic
+end Erdos390.WholePaper.UpperTailValuationAsymptotic
+namespace Erdos390.WholePaper.ValuationError
+end Erdos390.WholePaper.ValuationError
+namespace Erdos390.WholePaper.VariablePrimeCounting
+end Erdos390.WholePaper.VariablePrimeCounting
+
+/- Source module: Erdos390.Full.RegularRelativeMesh -/
+section
+
+
+/-!
+# Existence of a finite regular relative mesh
+
+Section 8.4 partitions the positive logarithmic interval `[delta,1]` into
+geometric cells.  This file constructs such a mesh rather than leaving its
+existence as a certificate.  Given `0 < delta < 1` and a requested upper
+relative width `eta > 0`, the number of cells is the ceiling of the relevant
+logarithmic ratio and the common relative width is adjusted so that the last
+endpoint is exactly `1`.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.RegularRelativeMesh
+
+noncomputable section
+
+/-- Finite geometric mesh data.  The positive cells are indexed by
+`Fin cellCount`; the separate moving-low cell `[t₀,delta]` is not part of
+this structure. -/
+structure Mesh (delta eta : ℝ) where
+  cellCount : ℕ
+  cellCount_pos : 0 < cellCount
+  ratio : ℝ
+  ratio_pos : 0 < ratio
+  ratio_le_eta : ratio ≤ eta
+  lastEndpoint : delta * (1 + ratio) ^ cellCount = 1
+
+namespace Mesh
+
+variable {delta eta : ℝ} (M : Mesh delta eta)
+
+/-- Endpoint number `k`, extended to all natural `k`. -/
+def endpoint (k : ℕ) : ℝ := delta * (1 + M.ratio) ^ k
+
+/-- Lower endpoint of a positive cell. -/
+def lower (k : Fin M.cellCount) : ℝ := M.endpoint k.1
+
+/-- Upper endpoint of a positive cell. -/
+def upper (k : Fin M.cellCount) : ℝ := M.endpoint (k.1 + 1)
+
+/-- Cell width. -/
+def width (k : Fin M.cellCount) : ℝ := M.upper k - M.lower k
+
+theorem endpoint_zero : M.endpoint 0 = delta := by
+  simp [endpoint]
+
+theorem endpoint_cellCount : M.endpoint M.cellCount = 1 := by
+  exact M.lastEndpoint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Mesh
+
+
+
+end
+
+end Erdos390.Full.RegularRelativeMesh
+
+end
+
+/- Source module: Erdos390.Full.SelectedDyadicRegularMesh -/
+section
+
+
+/-!
+# An explicit arbitrarily fine regular mesh with a fixed anchor block
+
+For integers `K ≥ 3`, `N ≥ 1`, adjacent endpoints have ratio
+`exp(log 2 / N)`.  The mesh runs from `2^{-K}` to `1`, and the consecutive
+block of cells between `1/4` and `1/2` has total width exactly `1/4`.
+Increasing `K` shrinks the moving-low cutoff; increasing `N` refines every
+positive cell, without shrinking that total interior anchor mass.
+-/
+
+open scoped BigOperators
+open Filter Topology
+
+noncomputable section
+
+namespace Erdos390.Full.SelectedDyadicRegularMesh
+
+open RegularRelativeMesh
+
+def delta (K : ℕ) : ℝ := (1 / 2 : ℝ) ^ K
+
+def ratio (N : ℕ) : ℝ := Real.exp (Real.log 2 / (N : ℝ)) - 1
+
+theorem one_add_ratio (N : ℕ) :
+    1 + ratio N = Real.exp (Real.log 2 / (N : ℝ)) := by
+  unfold ratio
+  ring
+
+theorem ratio_pos {N : ℕ} (hN : 0 < N) : 0 < ratio N := by
+  rw [ratio, sub_pos, Real.one_lt_exp_iff]
+  exact div_pos (Real.log_pos (by norm_num)) (by exact_mod_cast hN)
+
+theorem ratio_pow_N {N : ℕ} (hN : 0 < N) :
+    (1 + ratio N) ^ N = 2 := by
+  rw [one_add_ratio, ← Real.exp_nat_mul]
+  have hNreal : (N : ℝ) ≠ 0 := by exact_mod_cast (Nat.ne_of_gt hN)
+  rw [show (N : ℝ) * (Real.log 2 / (N : ℝ)) = Real.log 2 by
+    field_simp [hNreal]]
+  exact Real.exp_log (by norm_num)
+
+/-- The explicit dyadic regular mesh. -/
+def mesh (K N : ℕ) (hK : 0 < K) (hN : 0 < N) :
+    Mesh (delta K) (ratio N) where
+  cellCount := K * N
+  cellCount_pos := Nat.mul_pos hK hN
+  ratio := ratio N
+  ratio_pos := ratio_pos hN
+  ratio_le_eta := le_rfl
+  lastEndpoint := by
+    rw [delta, one_add_ratio, Nat.mul_comm K N, pow_mul]
+    have hpow : Real.exp (Real.log 2 / (N : ℝ)) ^ N = 2 := by
+      simpa only [← one_add_ratio] using ratio_pow_N hN
+    rw [hpow]
+    rw [← mul_pow]
+    norm_num
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Erdos390.Full.SelectedDyadicRegularMesh
+
+end
+
+/- Source module: Erdos390.Full.FiniteExponentialFamily -/
+section
+
+
+/-!
+# Finite exponential families
+
+This file develops the exact finite exponential family used by the smooth-row
+bridge.  The sample space is finite, the base weights are nonnegative with
+positive total mass, and every score is a continuous linear functional on a
+finite-dimensional real parameter space.  All normalization, positivity,
+smoothness, and covariance-Jacobian statements are proved from these data.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+
+noncomputable section
+
+/-- A probability mass function on a finite sample type. -/
+structure FiniteProbability (Ω : Type*) [Fintype Ω] where
+  mass : Ω → ℝ
+  mass_nonneg : ∀ ω, 0 ≤ mass ω
+  mass_sum : ∑ ω, mass ω = 1
+
+namespace FiniteProbability
+
+variable {Ω : Type*} [Fintype Ω]
+
+/-- Expectation with respect to a finite probability mass function. -/
+def expect (μ : FiniteProbability Ω) (F : Ω → ℝ) : ℝ :=
+  ∑ ω, μ.mass ω * F ω
+
+/-- Covariance with respect to a finite probability mass function. -/
+def covariance (μ : FiniteProbability Ω) (F G : Ω → ℝ) : ℝ :=
+  μ.expect (fun ω => F ω * G ω) - μ.expect F * μ.expect G
+
+end FiniteProbability
+
+/-- Raw data for a finite exponential family.  `scale` is the paper's `L`,
+and `baseMass` below is the paper's active mass `q_n`. -/
+structure FiniteExponentialFamily
+    (Ω Param : Type*) [Fintype Ω]
+    [NormedAddCommGroup Param] [NormedSpace ℝ Param]
+    [FiniteDimensional ℝ Param] where
+  baseWeight : Ω → ℝ
+  baseWeight_nonneg : ∀ ω, 0 ≤ baseWeight ω
+  baseMass_pos : 0 < ∑ ω, baseWeight ω
+  scale : ℝ
+  scale_pos : 0 < scale
+  score : Ω → Param →L[ℝ] ℝ
+
+namespace FiniteExponentialFamily
+
+variable {Ω Param : Type*} [Fintype Ω]
+  [NormedAddCommGroup Param] [NormedSpace ℝ Param]
+  [FiniteDimensional ℝ Param]
+
+/-- Total active mass of the baseline family. -/
+def baseMass (fam : FiniteExponentialFamily Ω Param) : ℝ :=
+  ∑ ω, fam.baseWeight ω
+
+theorem baseMass_positive (fam : FiniteExponentialFamily Ω Param) : 0 < fam.baseMass := by
+  exact fam.baseMass_pos
+
+
+
+theorem scale_ne_zero (fam : FiniteExponentialFamily Ω Param) : fam.scale ≠ 0 :=
+  ne_of_gt fam.scale_pos
+
+/-- The unnormalized tilted mass at a sample point. -/
+def unnormalizedWeight (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) (ω : Ω) : ℝ :=
+  fam.baseWeight ω * Real.exp (fam.score ω ξ / fam.scale)
+
+theorem unnormalizedWeight_nonneg (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) (ω : Ω) : 0 ≤ fam.unnormalizedWeight ξ ω :=
+  mul_nonneg (fam.baseWeight_nonneg ω) (le_of_lt (Real.exp_pos _))
+
+/-- The exact finite partition function. -/
+def partition (fam : FiniteExponentialFamily Ω Param) (ξ : Param) : ℝ :=
+  ∑ ω, fam.unnormalizedWeight ξ ω
+
+theorem partition_pos (fam : FiniteExponentialFamily Ω Param) (ξ : Param) :
+    0 < fam.partition ξ := by
+  have hex : ∃ ω : Ω, 0 < fam.baseWeight ω := by
+    have hsum : 0 < ∑ ω, fam.baseWeight ω := fam.baseMass_pos
+    rw [Finset.sum_pos_iff_of_nonneg
+      (fun ω (_ : ω ∈ (Finset.univ : Finset Ω)) => fam.baseWeight_nonneg ω)] at hsum
+    exact hsum.imp fun _ hω => hω.2
+  obtain ⟨ω, hω⟩ := hex
+  rw [partition, Finset.sum_pos_iff_of_nonneg
+    (fun η (_ : η ∈ (Finset.univ : Finset Ω)) => fam.unnormalizedWeight_nonneg ξ η)]
+  exact ⟨ω, Finset.mem_univ ω, mul_pos hω (Real.exp_pos _)⟩
+
+theorem partition_ne_zero (fam : FiniteExponentialFamily Ω Param) (ξ : Param) :
+    fam.partition ξ ≠ 0 :=
+  ne_of_gt (fam.partition_pos ξ)
+
+/-- The normalized tilted probability mass. -/
+def probabilityMass (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) (ω : Ω) : ℝ :=
+  fam.unnormalizedWeight ξ ω / fam.partition ξ
+
+theorem probabilityMass_nonneg (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) (ω : Ω) : 0 ≤ fam.probabilityMass ξ ω :=
+  div_nonneg (fam.unnormalizedWeight_nonneg ξ ω) (le_of_lt (fam.partition_pos ξ))
+
+theorem probabilityMass_sum (fam : FiniteExponentialFamily Ω Param) (ξ : Param) :
+    ∑ ω, fam.probabilityMass ξ ω = 1 := by
+  simp only [FiniteExponentialFamily.probabilityMass]
+  rw [← Finset.sum_div, partition]
+  exact div_self (fam.partition_ne_zero ξ)
+
+/-- The tilted probability as an actual finite probability object. -/
+def tiltedProbability (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) : FiniteProbability Ω where
+  mass := fam.probabilityMass ξ
+  mass_nonneg := fam.probabilityMass_nonneg ξ
+  mass_sum := fam.probabilityMass_sum ξ
+
+/-- Active coordinate weights.  Their total mass remains `baseMass`. -/
+def activeWeight (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) (ω : Ω) : ℝ :=
+  fam.baseMass * fam.probabilityMass ξ ω
+
+
+
+
+
+/-- Expectation under the normalized tilted law. -/
+def expectation (fam : FiniteExponentialFamily Ω Param)
+    (F : Ω → ℝ) (ξ : Param) : ℝ :=
+  (fam.tiltedProbability ξ).expect F
+
+/-- An active (unnormalized) moment. -/
+def moment (fam : FiniteExponentialFamily Ω Param)
+    (F : Ω → ℝ) (ξ : Param) : ℝ :=
+  ∑ ω, fam.activeWeight ξ ω * F ω
+
+/-- The unnormalized numerator of a tilted moment. -/
+def rawMoment (fam : FiniteExponentialFamily Ω Param)
+    (F : Ω → ℝ) (ξ : Param) : ℝ :=
+  ∑ ω, fam.unnormalizedWeight ξ ω * F ω
+
+theorem moment_eq_normalizedRawMoment
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ) (ξ : Param) :
+    fam.moment F ξ = fam.baseMass * fam.rawMoment F ξ / fam.partition ξ := by
+  simp only [moment, activeWeight, probabilityMass, rawMoment]
+  calc
+    (∑ ω, fam.baseMass * (fam.unnormalizedWeight ξ ω / fam.partition ξ) * F ω)
+        = ∑ ω, (fam.baseMass / fam.partition ξ) *
+            (fam.unnormalizedWeight ξ ω * F ω) := by
+              apply Finset.sum_congr rfl
+              intro ω _
+              ring
+    _ = (fam.baseMass / fam.partition ξ) *
+          ∑ ω, fam.unnormalizedWeight ξ ω * F ω := by rw [Finset.mul_sum]
+    _ = fam.baseMass * (∑ ω, fam.unnormalizedWeight ξ ω * F ω) /
+          fam.partition ξ := by ring
+
+
+
+theorem expectation_eq_rawMoment_div_partition
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ) (ξ : Param) :
+    fam.expectation F ξ = fam.rawMoment F ξ / fam.partition ξ := by
+  simp only [expectation, tiltedProbability, FiniteProbability.expect,
+    probabilityMass, rawMoment]
+  calc
+    (∑ ω, fam.unnormalizedWeight ξ ω / fam.partition ξ * F ω)
+        = ∑ ω, (fam.unnormalizedWeight ξ ω * F ω) / fam.partition ξ := by
+            apply Finset.sum_congr rfl
+            intro ω _
+            ring
+    _ = (∑ ω, fam.unnormalizedWeight ξ ω * F ω) / fam.partition ξ := by
+          rw [Finset.sum_div]
+
+/-- Fréchet derivative of one unnormalized exponential weight. -/
+def unnormalizedWeightFDeriv (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) (ω : Ω) : Param →L[ℝ] ℝ :=
+  fam.baseWeight ω •
+    (Real.exp (fam.score ω ξ / fam.scale) •
+      ((fam.scale)⁻¹ • fam.score ω))
+
+theorem hasFDerivAt_unnormalizedWeight
+    (fam : FiniteExponentialFamily Ω Param) (ξ : Param) (ω : Ω) :
+    HasFDerivAt (fun η => fam.unnormalizedWeight η ω)
+      (fam.unnormalizedWeightFDeriv ξ ω) ξ := by
+  have hs : HasFDerivAt (fun η => fam.score ω η / fam.scale)
+      ((fam.scale)⁻¹ • fam.score ω) ξ := by
+    simpa only [div_eq_mul_inv, mul_comm] using
+      ((fam.score ω).hasFDerivAt.const_mul (fam.scale)⁻¹)
+  simpa only [unnormalizedWeight, unnormalizedWeightFDeriv] using
+    hs.exp.const_mul (fam.baseWeight ω)
+
+theorem unnormalizedWeightFDeriv_apply
+    (fam : FiniteExponentialFamily Ω Param) (ξ direction : Param) (ω : Ω) :
+    fam.unnormalizedWeightFDeriv ξ ω direction =
+      fam.unnormalizedWeight ξ ω / fam.scale * fam.score ω direction := by
+  simp only [unnormalizedWeightFDeriv, ContinuousLinearMap.smul_apply,
+    smul_eq_mul, unnormalizedWeight]
+  field_simp
+
+/-- Fréchet derivative of the partition function. -/
+def partitionFDeriv (fam : FiniteExponentialFamily Ω Param)
+    (ξ : Param) : Param →L[ℝ] ℝ :=
+  ∑ ω, fam.unnormalizedWeightFDeriv ξ ω
+
+theorem hasFDerivAt_partition
+    (fam : FiniteExponentialFamily Ω Param) (ξ : Param) :
+    HasFDerivAt fam.partition (fam.partitionFDeriv ξ) ξ := by
+  have h := HasFDerivAt.sum (u := (Finset.univ : Finset Ω))
+    (fun ω (_ : ω ∈ (Finset.univ : Finset Ω)) =>
+      fam.hasFDerivAt_unnormalizedWeight ξ ω)
+  have hfun : fam.partition =
+      ∑ ω, fun η => fam.unnormalizedWeight η ω := by
+    funext η
+    simp only [partition, Finset.sum_apply]
+  rw [hfun]
+  simpa only [partitionFDeriv] using h
+
+theorem partitionFDeriv_apply
+    (fam : FiniteExponentialFamily Ω Param) (ξ direction : Param) :
+    fam.partitionFDeriv ξ direction =
+      (1 / fam.scale) *
+        ∑ ω, fam.unnormalizedWeight ξ ω * fam.score ω direction := by
+  simp only [partitionFDeriv, ContinuousLinearMap.sum_apply,
+    fam.unnormalizedWeightFDeriv_apply]
+  rw [Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro ω _
+  ring
+
+/-- Fréchet derivative of an unnormalized moment numerator. -/
+def rawMomentFDeriv (fam : FiniteExponentialFamily Ω Param)
+    (F : Ω → ℝ) (ξ : Param) : Param →L[ℝ] ℝ :=
+  ∑ ω, F ω • fam.unnormalizedWeightFDeriv ξ ω
+
+theorem hasFDerivAt_rawMoment
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ) (ξ : Param) :
+    HasFDerivAt (fam.rawMoment F) (fam.rawMomentFDeriv F ξ) ξ := by
+  have h := HasFDerivAt.sum (u := (Finset.univ : Finset Ω))
+    (fun ω (_ : ω ∈ (Finset.univ : Finset Ω)) =>
+      (fam.hasFDerivAt_unnormalizedWeight ξ ω).mul_const (F ω))
+  have hfun : fam.rawMoment F =
+      ∑ ω, fun η => fam.unnormalizedWeight η ω * F ω := by
+    funext η
+    simp only [rawMoment, Finset.sum_apply]
+  rw [hfun]
+  simpa only [rawMomentFDeriv] using h
+
+theorem rawMomentFDeriv_apply
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ)
+    (ξ direction : Param) :
+    fam.rawMomentFDeriv F ξ direction =
+      (1 / fam.scale) *
+        ∑ ω, fam.unnormalizedWeight ξ ω * F ω * fam.score ω direction := by
+  simp only [rawMomentFDeriv, ContinuousLinearMap.sum_apply,
+    ContinuousLinearMap.smul_apply, smul_eq_mul,
+    fam.unnormalizedWeightFDeriv_apply]
+  rw [Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro ω _
+  ring
+
+/-- The derivative furnished directly by the quotient rule. -/
+def quotientMomentFDeriv (fam : FiniteExponentialFamily Ω Param)
+    (F : Ω → ℝ) (ξ : Param) : Param →L[ℝ] ℝ :=
+  fam.baseMass •
+    (fam.rawMoment F ξ •
+        (-((fam.partition ξ) ^ 2)⁻¹ • fam.partitionFDeriv ξ) +
+      (fam.partition ξ)⁻¹ • fam.rawMomentFDeriv F ξ)
+
+theorem hasFDerivAt_moment_quotient
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ) (ξ : Param) :
+    HasFDerivAt (fam.moment F) (fam.quotientMomentFDeriv F ξ) ξ := by
+  have hpart := fam.hasFDerivAt_partition ξ
+  have hinv : HasFDerivAt (fun η => (fam.partition η)⁻¹)
+      (-((fam.partition ξ) ^ 2)⁻¹ • fam.partitionFDeriv ξ) ξ := by
+    exact (hasDerivAt_inv (fam.partition_ne_zero ξ)).comp_hasFDerivAt ξ hpart
+  have hproduct := (fam.hasFDerivAt_rawMoment F ξ).mul hinv
+  have hscaled := hproduct.const_mul fam.baseMass
+  have heq : fam.moment F = fun η =>
+      fam.baseMass * (fam.rawMoment F η * (fam.partition η)⁻¹) := by
+    funext η
+    rw [fam.moment_eq_normalizedRawMoment F η]
+    simp only [div_eq_mul_inv]
+    ring
+  rw [heq]
+  simpa only [quotientMomentFDeriv, div_eq_mul_inv, Pi.mul_apply] using hscaled
+
+/-- Covariance under the normalized tilted law. -/
+def covariance (fam : FiniteExponentialFamily Ω Param)
+    (F G : Ω → ℝ) (ξ : Param) : ℝ :=
+  (fam.tiltedProbability ξ).covariance F G
+
+
+
+
+
+
+
+
+
+/-- The covariance with the score, as a continuous linear functional of
+the parameter direction. -/
+def covarianceScore (fam : FiniteExponentialFamily Ω Param)
+    (F : Ω → ℝ) (ξ : Param) : Param →L[ℝ] ℝ :=
+  ∑ ω, (fam.probabilityMass ξ ω *
+      (F ω - fam.expectation F ξ)) • fam.score ω
+
+theorem covarianceScore_apply (fam : FiniteExponentialFamily Ω Param)
+    (F : Ω → ℝ) (ξ direction : Param) :
+    fam.covarianceScore F ξ direction =
+      fam.covariance F (fun ω => fam.score ω direction) ξ := by
+  simp only [covarianceScore, ContinuousLinearMap.sum_apply,
+    ContinuousLinearMap.smul_apply, smul_eq_mul]
+  rw [covariance, FiniteProbability.covariance, expectation,
+    FiniteProbability.expect, FiniteProbability.expect]
+  simp only [FiniteProbability.expect]
+  calc
+    (∑ ω, fam.probabilityMass ξ ω * (F ω -
+        ∑ η, fam.probabilityMass ξ η * F η) * fam.score ω direction)
+        = (∑ ω, fam.probabilityMass ξ ω * (F ω * fam.score ω direction)) -
+          (∑ η, fam.probabilityMass ξ η * F η) *
+            (∑ ω, fam.probabilityMass ξ ω * fam.score ω direction) := by
+              rw [Finset.mul_sum]
+              rw [← Finset.sum_sub_distrib]
+              apply Finset.sum_congr rfl
+              intro ω _
+              ring
+    _ = (∑ ω, fam.probabilityMass ξ ω * (F ω * fam.score ω direction)) -
+          (∑ η, fam.probabilityMass ξ η * F η) *
+            (∑ ω, fam.probabilityMass ξ ω * fam.score ω direction) := rfl
+
+theorem covariance_eq_rawMoments
+    (fam : FiniteExponentialFamily Ω Param) (F G : Ω → ℝ) (ξ : Param) :
+    fam.covariance F G ξ =
+      fam.rawMoment (fun ω => F ω * G ω) ξ / fam.partition ξ -
+        (fam.rawMoment F ξ / fam.partition ξ) *
+          (fam.rawMoment G ξ / fam.partition ξ) := by
+  rw [covariance, FiniteProbability.covariance]
+  change fam.expectation (fun ω => F ω * G ω) ξ -
+      fam.expectation F ξ * fam.expectation G ξ = _
+  rw [fam.expectation_eq_rawMoment_div_partition,
+    fam.expectation_eq_rawMoment_div_partition,
+    fam.expectation_eq_rawMoment_div_partition]
+
+theorem quotientMomentFDeriv_apply
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ)
+    (ξ direction : Param) :
+    fam.quotientMomentFDeriv F ξ direction =
+      (fam.baseMass / fam.scale) *
+        fam.covariance F (fun ω => fam.score ω direction) ξ := by
+  simp only [quotientMomentFDeriv, ContinuousLinearMap.smul_apply,
+    ContinuousLinearMap.add_apply, smul_eq_mul]
+  rw [fam.partitionFDeriv_apply ξ direction,
+    fam.rawMomentFDeriv_apply F ξ direction,
+    fam.covariance_eq_rawMoments F (fun ω => fam.score ω direction) ξ]
+  simp only [rawMoment]
+  field_simp [fam.partition_ne_zero ξ, fam.scale_ne_zero]
+  ring
+
+theorem quotientMomentFDeriv_eq_covarianceScore
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ) (ξ : Param) :
+    fam.quotientMomentFDeriv F ξ =
+      (fam.baseMass / fam.scale) • fam.covarianceScore F ξ := by
+  ext direction
+  rw [fam.quotientMomentFDeriv_apply F ξ direction,
+    ContinuousLinearMap.smul_apply, smul_eq_mul,
+    fam.covarianceScore_apply F ξ direction]
+
+/-- Exact covariance-Jacobian identity for a finite active moment. -/
+theorem hasFDerivAt_moment_covariance
+    (fam : FiniteExponentialFamily Ω Param) (F : Ω → ℝ) (ξ : Param) :
+    HasFDerivAt (fam.moment F)
+      ((fam.baseMass / fam.scale) • fam.covarianceScore F ξ) ξ := by
+  rw [← fam.quotientMomentFDeriv_eq_covarianceScore F ξ]
+  exact fam.hasFDerivAt_moment_quotient F ξ
+
+
+
+end FiniteExponentialFamily
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.FiniteTiltTV -/
+section
+
+
+/-!
+# Total-variation control for finite exponential tilts
+
+This supplies the normalization estimate used to compare each finite-`n`
+tilted nuisance covariance with its own finite-`n` baseline.  The bound is
+proved directly from the exponential density ratio.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+
+noncomputable section
+
+namespace FiniteProbability
+
+variable {Omega : Type*} [Fintype Omega]
+
+def expPartition (mu : FiniteProbability Omega) (S : Omega → ℝ) : ℝ :=
+  mu.expect (fun omega ↦ Real.exp (S omega))
+
+theorem expPartition_pos (mu : FiniteProbability Omega) (S : Omega → ℝ) :
+    0 < mu.expPartition S := by
+  have hex : ∃ omega, 0 < mu.mass omega := by
+    have hsum : 0 < ∑ omega, mu.mass omega := by
+      rw [mu.mass_sum]
+      exact zero_lt_one
+    rw [Finset.sum_pos_iff_of_nonneg
+      (fun omega (_ : omega ∈ (Finset.univ : Finset Omega)) ↦
+        mu.mass_nonneg omega)] at hsum
+    exact hsum.imp fun omega h ↦ h.2
+  obtain ⟨omega, homega⟩ := hex
+  rw [expPartition, expect, Finset.sum_pos_iff_of_nonneg]
+  · exact ⟨omega, Finset.mem_univ omega,
+      mul_pos homega (Real.exp_pos _)⟩
+  · intro eta _
+    exact mul_nonneg (mu.mass_nonneg eta) (Real.exp_pos _).le
+
+def exponentialTilt (mu : FiniteProbability Omega) (S : Omega → ℝ) :
+    FiniteProbability Omega where
+  mass := fun omega ↦ mu.mass omega * Real.exp (S omega) / mu.expPartition S
+  mass_nonneg := by
+    intro omega
+    exact div_nonneg
+      (mul_nonneg (mu.mass_nonneg omega) (Real.exp_pos _).le)
+      (mu.expPartition_pos S).le
+  mass_sum := by
+    rw [← Finset.sum_div, expPartition, expect]
+    exact div_self (ne_of_gt (mu.expPartition_pos S))
+
+def exponentialDeviation (mu : FiniteProbability Omega) (S : Omega → ℝ) : ℝ :=
+  mu.expect (fun omega ↦ |Real.exp (S omega) - 1|)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end FiniteProbability
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.DickmanBasic -/
+section
+
+
+/-!
+# The Dickman function on the finite range needed for Erdős 390
+
+This file constructs the Dickman function by the method of steps.  No
+existence, regularity, positivity, or kernel estimate is assumed as an input.
+Only the range up to `5` is needed for the Poisson--Dickman operator at
+`U = 9 / 2`.
+-/
+
+open Filter Set
+open scoped Interval
+
+noncomputable section
+
+namespace Erdos390.Full.DickmanBasic
+
+
+
+lemma safeDenom_pos (x : ℝ) : 0 < safeDenom x := by
+  unfold safeDenom
+  exact lt_of_lt_of_le zero_lt_one (le_max_right _ _)
+
+lemma safeDenom_ne_zero (x : ℝ) : safeDenom x ≠ 0 :=
+  ne_of_gt (safeDenom_pos x)
+
+lemma safeDenom_eq_self {x : ℝ} (hx : 1 ≤ x) : safeDenom x = x := by
+  simp [safeDenom, hx]
+
+
+
+@[simp] lemma rhoApprox_zero (x : ℝ) : rhoApprox 0 x = 1 := rfl
+
+@[simp] lemma rhoApprox_succ_of_le_one (n : ℕ) {x : ℝ} (hx : x ≤ 1) :
+    rhoApprox (n + 1) x = 1 := by
+  simp [rhoApprox, hx]
+
+lemma rhoApprox_succ_of_one_lt (n : ℕ) {x : ℝ} (hx : 1 < x) :
+    rhoApprox (n + 1) x =
+      1 - ∫ t in (1 : ℝ)..x, rhoApprox n (t - 1) / safeDenom t := by
+  simp [rhoApprox, not_le.mpr hx]
+
+lemma continuous_safeDenom : Continuous safeDenom := by
+  exact continuous_id.max continuous_const
+
+lemma continuous_stepIntegrand (n : ℕ) :
+    Continuous (fun t : ℝ => rhoApprox n (t - 1) / safeDenom t) := by
+  induction n with
+  | zero =>
+      exact continuous_const.div continuous_safeDenom safeDenom_ne_zero
+  | succ n ih =>
+      have hRho : Continuous (rhoApprox (n + 1)) := by
+        let g : ℝ → ℝ := fun t => rhoApprox n (t - 1) / safeDenom t
+        have hg : Continuous g := by
+          simpa [g] using ih
+        have hprimitive : Continuous (fun x : ℝ => ∫ t in (1 : ℝ)..x, g t) :=
+          (intervalIntegral.differentiable_integral_of_continuous hg).continuous
+        have hbranch : Continuous (fun x : ℝ => 1 - ∫ t in (1 : ℝ)..x, g t) :=
+          continuous_const.sub hprimitive
+        have hpiece : Continuous (fun x : ℝ =>
+            if x ≤ 1 then (1 : ℝ)
+            else 1 - ∫ t in (1 : ℝ)..x, g t) := by
+          apply continuous_if_le continuous_id continuous_const
+            continuous_const.continuousOn hbranch.continuousOn
+          intro x hx
+          change x = 1 at hx
+          rw [hx]
+          simp
+        simpa [rhoApprox, g] using hpiece
+      exact (hRho.comp (continuous_id.sub continuous_const)).div
+        continuous_safeDenom safeDenom_ne_zero
+
+lemma continuous_rhoApprox (n : ℕ) : Continuous (rhoApprox n) := by
+  cases n with
+  | zero => exact continuous_const
+  | succ n =>
+      let g : ℝ → ℝ := fun t => rhoApprox n (t - 1) / safeDenom t
+      have hg : Continuous g := continuous_stepIntegrand n
+      have hprimitive : Continuous (fun x : ℝ => ∫ t in (1 : ℝ)..x, g t) :=
+        (intervalIntegral.differentiable_integral_of_continuous hg).continuous
+      have hbranch : Continuous (fun x : ℝ => 1 - ∫ t in (1 : ℝ)..x, g t) :=
+        continuous_const.sub hprimitive
+      have hpiece : Continuous (fun x : ℝ =>
+          if x ≤ 1 then (1 : ℝ)
+          else 1 - ∫ t in (1 : ℝ)..x, g t) := by
+        apply continuous_if_le continuous_id continuous_const
+          continuous_const.continuousOn hbranch.continuousOn
+        intro x hx
+        change x = 1 at hx
+        rw [hx]
+        simp
+      simpa [rhoApprox, g] using hpiece
+
+/-- Successive method-of-steps approximants agree on the interval which
+has already been constructed. -/
+lemma rhoApprox_succ_eq_prev : ∀ (n : ℕ) (x : ℝ),
+    x ≤ (n : ℝ) + 1 → rhoApprox (n + 1) x = rhoApprox n x := by
+  intro n
+  induction n with
+  | zero =>
+      intro x hx
+      have hx1 : x ≤ 1 := by simpa using hx
+      simp [rhoApprox, hx1]
+  | succ n ih =>
+      intro x hx
+      by_cases hx1 : x ≤ 1
+      · simp [rhoApprox, hx1]
+      · have h1x : 1 < x := lt_of_not_ge hx1
+        rw [rhoApprox_succ_of_one_lt (n + 1) h1x,
+          rhoApprox_succ_of_one_lt n h1x]
+        congr 1
+        apply intervalIntegral.integral_congr
+        intro t ht
+        have htmem : t ∈ Icc (1 : ℝ) x := by
+          simpa [uIcc_of_le h1x.le] using ht
+        have htbound : t - 1 ≤ (n : ℝ) + 1 := by
+          have hcast : x ≤ (n : ℝ) + 2 := by
+            norm_num [Nat.cast_add, Nat.cast_one, add_assoc] at hx ⊢
+            exact hx
+          linarith [htmem.2]
+        change rhoApprox (n + 1) (t - 1) / safeDenom t =
+          rhoApprox n (t - 1) / safeDenom t
+        rw [ih (t - 1) htbound]
+
+lemma hasDerivAt_rhoApprox_succ (n : ℕ) {x : ℝ} (hx : 1 < x) :
+    HasDerivAt (rhoApprox (n + 1))
+      (-rhoApprox n (x - 1) / x) x := by
+  let g : ℝ → ℝ := fun t => rhoApprox n (t - 1) / safeDenom t
+  have hg : Continuous g := by
+    simpa [g] using continuous_stepIntegrand n
+  have hprimitive : HasDerivAt (fun z : ℝ => ∫ t in (1 : ℝ)..z, g t) (g x) x :=
+    (hg.integral_hasStrictDerivAt 1 x).hasDerivAt
+  have hbranch : HasDerivAt
+      (fun z : ℝ => 1 - ∫ t in (1 : ℝ)..z, g t) (-g x) x := by
+    convert (hasDerivAt_const x (1 : ℝ)).sub hprimitive using 1
+    ring
+  have heq : rhoApprox (n + 1) =ᶠ[nhds x]
+      (fun z : ℝ => 1 - ∫ t in (1 : ℝ)..z, g t) := by
+    filter_upwards [Ioi_mem_nhds hx] with z hz
+    simpa [g] using rhoApprox_succ_of_one_lt n hz
+  have h := hbranch.congr_of_eventuallyEq heq
+  have hgx : g x = rhoApprox n (x - 1) / x := by
+    simp [g, safeDenom_eq_self hx.le]
+  rw [hgx] at h
+  convert h using 1
+  ring
+
+
+
+lemma continuous_rho : Continuous rho := by
+  exact continuous_rhoApprox 5
+
+lemma rho_eq_one_of_le_one {x : ℝ} (hx : x ≤ 1) : rho x = 1 := by
+  simp [rho, rhoApprox, hx]
+
+@[simp] lemma rho_zero : rho 0 = 1 := rho_eq_one_of_le_one (by norm_num)
+
+@[simp] lemma rho_one : rho 1 = 1 := rho_eq_one_of_le_one le_rfl
+
+/-- The delay differential equation on the entire range needed later. -/
+lemma hasDerivAt_rho {x : ℝ} (hx1 : 1 < x) (hx6 : x ≤ 6) :
+    HasDerivAt rho (-rho (x - 1) / x) x := by
+  have hprev : rhoApprox 5 (x - 1) = rhoApprox 4 (x - 1) := by
+    apply rhoApprox_succ_eq_prev 4
+    norm_num
+    linarith
+  have h := hasDerivAt_rhoApprox_succ 4 hx1
+  simpa [rho, hprev] using h
+
+lemma deriv_rho {x : ℝ} (hx1 : 1 < x) (hx6 : x ≤ 6) :
+    deriv rho x = -rho (x - 1) / x :=
+  (hasDerivAt_rho hx1 hx6).deriv
+
+
+
+lemma rho_integral_eq {x : ℝ} (hx1 : 1 ≤ x) (hx5 : x ≤ 5) :
+    rho x = 1 - ∫ t in (1 : ℝ)..x, rho (t - 1) / t := by
+  rcases hx1.eq_or_lt with rfl | hx1
+  · simp [rho_one]
+  · rw [rho, rhoApprox_succ_of_one_lt 4 hx1]
+    congr 1
+    apply intervalIntegral.integral_congr
+    intro t ht
+    have htmem : t ∈ Icc (1 : ℝ) x := by
+      simpa [uIcc_of_le hx1.le] using ht
+    have ht5 : t - 1 ≤ (4 : ℝ) + 1 := by linarith [htmem.2, hx5]
+    have hstable := rhoApprox_succ_eq_prev 4 (t - 1) ht5
+    change rhoApprox 4 (t - 1) / safeDenom t = rhoApprox 5 (t - 1) / t
+    rw [safeDenom_eq_self htmem.1]
+    rw [hstable]
+
+/-- The integral of `rho` over its initial unit interval. -/
+lemma integral_rho_zero_one :
+    (∫ t in (0 : ℝ)..1, rho t) = 1 := by
+  calc
+    (∫ t in (0 : ℝ)..1, rho t) = ∫ _t in (0 : ℝ)..1, (1 : ℝ) := by
+      apply intervalIntegral.integral_congr
+      intro t ht
+      apply rho_eq_one_of_le_one
+      have ht' : t ∈ Icc (0 : ℝ) 1 := by
+        simpa [uIcc_of_le zero_le_one] using ht
+      exact ht'.2
+    _ = 1 := by simp
+
+/-- The delay equation has the equivalent positive averaging form
+`x * rho x = ∫_[x-1,x] rho`.  This identity is the key to positivity. -/
+lemma rho_average_eq {x : ℝ} (hx1 : 1 ≤ x) (hx5 : x ≤ 5) :
+    x * rho x = ∫ t in (x - 1)..x, rho t := by
+  rcases hx1.eq_or_lt with rfl | hx1
+  · simp [rho_one, integral_rho_zero_one]
+  · have hderiv : ∀ t ∈ Ioo (1 : ℝ) x,
+        HasDerivWithinAt (fun u : ℝ => u * rho u)
+          (rho t - rho (t - 1)) (Ioi t) t := by
+      intro t ht
+      have ht6 : t ≤ 6 := by linarith [ht.2, hx5]
+      have h := (hasDerivAt_id t).mul (hasDerivAt_rho ht.1 ht6)
+      have ht0 : t ≠ 0 := ne_of_gt (zero_lt_one.trans ht.1)
+      have heq : 1 * rho t + t * (-rho (t - 1) / t) =
+          rho t - rho (t - 1) := by
+        field_simp
+        ring
+      exact (h.congr_deriv heq).hasDerivWithinAt
+    have hFTC := intervalIntegral.integral_eq_sub_of_hasDeriv_right_of_le
+      hx1.le
+      ((continuous_id.mul continuous_rho).continuousOn)
+      hderiv
+      ((continuous_rho.sub
+        (continuous_rho.comp (continuous_id.sub continuous_const))).intervalIntegrable 1 x)
+    have hshift : (∫ t in (1 : ℝ)..x, rho (t - 1)) =
+        ∫ t in (0 : ℝ)..(x - 1), rho t := by
+      convert intervalIntegral.integral_comp_sub_right
+        (a := (1 : ℝ)) (b := x) rho 1 using 1
+      norm_num
+    have hsub : (∫ t in (1 : ℝ)..x, rho t - rho (t - 1)) =
+        (∫ t in (1 : ℝ)..x, rho t) - ∫ t in (1 : ℝ)..x, rho (t - 1) := by
+      apply intervalIntegral.integral_sub
+      · exact continuous_rho.intervalIntegrable 1 x
+      · exact (continuous_rho.comp
+          (continuous_id.sub continuous_const)).intervalIntegrable 1 x
+    have hadd₁ := intervalIntegral.integral_add_adjacent_intervals
+      (μ := MeasureTheory.volume)
+      (continuous_rho.intervalIntegrable (0 : ℝ) 1)
+      (continuous_rho.intervalIntegrable (1 : ℝ) x)
+    have hadd₂ := intervalIntegral.integral_add_adjacent_intervals
+      (μ := MeasureTheory.volume)
+      (continuous_rho.intervalIntegrable (0 : ℝ) (x - 1))
+      (continuous_rho.intervalIntegrable (x - 1) x)
+    rw [hsub, hshift] at hFTC
+    rw [integral_rho_zero_one] at hadd₁
+    have hrho1 : rho (1 : ℝ) = 1 := rho_one
+    change _ = x * rho x - 1 * rho 1 at hFTC
+    rw [hrho1] at hFTC
+    norm_num at hFTC
+    linarith
+
+
+
+
+
+/-- The constructed solution is decreasing on `[1,5]`. -/
+lemma antitoneOn_rho_one_five : AntitoneOn rho (Icc (1 : ℝ) 5) := by
+  apply antitoneOn_of_deriv_nonpos (convex_Icc (1 : ℝ) 5) continuous_rho.continuousOn
+  · intro x hx
+    rw [interior_Icc] at hx
+    exact (hasDerivAt_rho hx.1 (by linarith [hx.2])).differentiableAt.differentiableWithinAt
+  · intro x hx
+    rw [interior_Icc] at hx
+    have hpos : 0 < rho (x - 1) :=
+      rho_pos_on_zero_five (by linarith [hx.1]) (by linarith [hx.2])
+    rw [deriv_rho hx.1 (by linarith [hx.2])]
+    exact div_nonpos_of_nonpos_of_nonneg (neg_nonpos.mpr hpos.le) (by linarith [hx.1])
+
+
+
+ lemma continuousOn_delayDeriv :
+    ContinuousOn delayDeriv (Ioo (1 : ℝ) 6) := by
+  apply ContinuousOn.div
+  · exact (continuous_rho.comp (continuous_id.sub continuous_const)).neg.continuousOn
+  · exact continuous_id.continuousOn
+  · intro x hx
+    exact ne_of_gt (zero_lt_one.trans hx.1)
+
+/-- The method-of-steps solution is continuously differentiable away from
+the initial corner at `1`. -/
+lemma contDiffOn_one_rho : ContDiffOn ℝ 1 rho (Ioo (1 : ℝ) 6) := by
+  rw [show (1 : WithTop ℕ∞) = 0 + 1 by rfl,
+    contDiffOn_succ_iff_deriv_of_isOpen isOpen_Ioo]
+  refine ⟨?_, ?_, ?_⟩
+  · intro x hx
+    exact (hasDerivAt_rho hx.1 hx.2.le).differentiableAt.differentiableWithinAt
+  · intro h
+    simp at h
+  · rw [contDiffOn_zero]
+    exact continuousOn_delayDeriv.congr fun x hx => by
+      exact deriv_rho hx.1 hx.2.le
+
+ lemma contDiffOn_one_delayDeriv :
+    ContDiffOn ℝ 1 delayDeriv (Ioo (2 : ℝ) 5) := by
+  have hshift : ContDiffOn ℝ 1 (fun x : ℝ => x - 1) (Ioo (2 : ℝ) 5) := by
+    fun_prop
+  have hmaps : MapsTo (fun x : ℝ => x - 1) (Ioo (2 : ℝ) 5) (Ioo (1 : ℝ) 6) := by
+    intro x hx
+    constructor <;> linarith [hx.1, hx.2]
+  have hcomp : ContDiffOn ℝ 1 (rho ∘ fun x : ℝ => x - 1) (Ioo (2 : ℝ) 5) :=
+    contDiffOn_one_rho.comp hshift hmaps
+  have hnum : ContDiffOn ℝ 1 (fun x : ℝ => -rho (x - 1)) (Ioo (2 : ℝ) 5) := by
+    simpa [Function.comp_def] using hcomp.neg
+  exact hnum.div contDiffOn_id fun x hx => ne_of_gt (by linarith [hx.1])
+
+/-- On the compact interval needed for `U = 9/2`, the Dickman function is
+`C²`.  We prove the slightly stronger open-interval statement first, so
+ordinary derivatives can be used without endpoint conventions. -/
+lemma contDiffOn_two_rho_open : ContDiffOn ℝ 2 rho (Ioo (2 : ℝ) 5) := by
+  rw [show (2 : WithTop ℕ∞) = 1 + 1 by rfl,
+    contDiffOn_succ_iff_deriv_of_isOpen isOpen_Ioo]
+  refine ⟨?_, ?_, ?_⟩
+  · exact (contDiffOn_one_rho.mono fun x hx => by
+      constructor <;> linarith [hx.1, hx.2]).differentiableOn (by norm_num)
+  · intro h
+    simp at h
+  · exact contDiffOn_one_delayDeriv.congr fun x hx =>
+      deriv_rho (by linarith [hx.1]) (by linarith [hx.2])
+
+
+
+
+
+lemma rho_U_pos : 0 < rho U := by
+  apply rho_pos_on_zero_five
+  · norm_num [U]
+  · norm_num [U]
+
+lemma rho_U_ne_zero : rho U ≠ 0 := ne_of_gt rho_U_pos
+
+
+
+/-- The one-point weight; it is separated from zero uniformly on `[0,2]`. -/
+def h (x : ℝ) : ℝ := F x
+
+@[simp] lemma F_zero : F 0 = 1 := by
+  simp [F, rho_U_ne_zero]
+
+@[simp] lemma h_zero : h 0 = 1 := by
+  simp [h]
+
+lemma F_pos {x : ℝ} (hx : x ∈ Icc (0 : ℝ) 2) : 0 < F x := by
+  apply div_pos
+  · apply rho_pos_on_zero_five
+    · norm_num [U] at hx ⊢
+      linarith [hx.2]
+    · norm_num [U] at hx ⊢
+      linarith [hx.1]
+  · exact rho_U_pos
+
+
+
+
+
+
+
+/-- `F` is `C²` on an open neighborhood of `[0,2]`; retaining the open
+neighborhood makes all later uses of ordinary derivatives unambiguous. -/
+ lemma contDiffOn_two_F_open :
+    ContDiffOn ℝ 2 F (Ioo (-(1 : ℝ) / 4) ((9 : ℝ) / 4)) := by
+  have haff : ContDiffOn ℝ 2 (fun x : ℝ => U - x)
+      (Ioo (-(1 : ℝ) / 4) ((9 : ℝ) / 4)) := by
+    fun_prop
+  have hmaps : MapsTo (fun x : ℝ => U - x)
+      (Ioo (-(1 : ℝ) / 4) ((9 : ℝ) / 4)) (Ioo (2 : ℝ) 5) := by
+    intro x hx
+    norm_num [U] at hx ⊢
+    constructor <;> linarith [hx.1, hx.2]
+  have hcomp : ContDiffOn ℝ 2 (rho ∘ fun x : ℝ => U - x)
+      (Ioo (-(1 : ℝ) / 4) ((9 : ℝ) / 4)) :=
+    contDiffOn_two_rho_open.comp haff hmaps
+  simpa [F, Function.comp_def] using hcomp.div_const (rho U)
+
+
+
+ lemma Icc_zero_two_subset_F_open :
+    Icc (0 : ℝ) 2 ⊆ Ioo (-(1 : ℝ) / 4) ((9 : ℝ) / 4) := by
+  intro x hx
+  constructor <;> norm_num <;> linarith [hx.1, hx.2]
+
+ lemma differentiableAt_F_of_mem {x : ℝ} (hx : x ∈ Icc (0 : ℝ) 2) :
+    DifferentiableAt ℝ F x := by
+  have hxopen := Icc_zero_two_subset_F_open hx
+  exact (contDiffOn_two_F_open.contDiffAt (isOpen_Ioo.mem_nhds hxopen)).differentiableAt
+    (by norm_num)
+
+lemma differentiableAt_F {x : ℝ} (hx : x ∈ Icc (0 : ℝ) 2) :
+    DifferentiableAt ℝ F x := differentiableAt_F_of_mem hx
+
+
+
+/-- The ordinary derivative of `F` varies continuously on the whole compact
+range used by the product kernel. -/
+lemma continuousOn_deriv_F : ContinuousOn (deriv F) (Icc (0 : ℝ) 2) := by
+  exact (contDiffOn_two_F_open.continuousOn_deriv_of_isOpen isOpen_Ioo
+    (by norm_num)).mono Icc_zero_two_subset_F_open
+
+
+
+
+
+
+
+end Erdos390.Full.DickmanBasic
+
+end
+
+/- Source module: Erdos390.Full.ArithmeticModel -/
+section
+
+
+/-!
+# Arithmetic model for the full Erdős 390 formalization
+
+This file connects the abstract covariance columns used by the earlier audit
+companion to the actual arithmetic objects in the paper.  All definitions are
+total, including at `n = 0`, `m = 0`, and at non-prime bases.  The valuation
+identities themselves are stated with the mathematically necessary hypotheses
+that the base is prime and the sampled integer is positive.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.ArithmeticModel
+
+
+
+
+
+/-- The actual prime band `W < p ≤ y`. -/
+noncomputable def primeBand (n W : ℕ) : Finset ℕ :=
+  ((yNat n + 1).primesBelow).filter (W < ·)
+
+/-- The logarithmic prime coordinate `log p / log y`.  The definition is
+total; at the irrelevant boundary `n ≤ 1`, Lean's field conventions give a
+well-defined value even though the analytic argument never uses it there. -/
+noncomputable def tPrime (n p : ℕ) : ℝ :=
+  Real.log (p : ℝ) / Real.log (y n)
+
+/-- The divisibility indicator, as a real-valued random variable.  In
+particular `divInd d 0 = 1`, since every natural number divides zero. -/
+def divInd (d m : ℕ) : ℝ :=
+  if d ∣ m then 1 else 0
+
+/-- The actual `p`-adic valuation column.  Mathlib's factorization is zero at
+`m = 0` and at non-prime bases; both conventions are recorded below. -/
+def valuation (p m : ℕ) : ℝ :=
+  (m.factorization p : ℝ)
+
+/-- The higher-prime-power part `J_p = V_p - I_p`. -/
+def higherValuation (p m : ℕ) : ℝ :=
+  valuation p m - divInd p m
+
+/-- A natural upper bound for the fixed physical interval `m ≤ C⋅n`. -/
+noncomputable def physicalBound (C : ℝ) (n : ℕ) : ℕ :=
+  ⌊C * (n : ℝ)⌋₊
+
+/-- All positive exponents up to a common physical bound. -/
+def positiveExponents (M : ℕ) : Finset ℕ :=
+  Finset.Icc 1 M
+
+/-- All exponents at least two up to a common physical bound. -/
+def highExponents (M : ℕ) : Finset ℕ :=
+  Finset.Icc 2 M
+
+@[simp] theorem y_zero : y 0 = 0 := by
+  simp [y]
+
+@[simp] theorem y_one : y 1 = 1 := by
+  norm_num [y]
+
+@[simp] theorem yNat_zero : yNat 0 = 0 := by
+  simp [yNat]
+
+theorem mem_primeBand {n W p : ℕ} :
+    p ∈ primeBand n W ↔ p.Prime ∧ W < p ∧ p ≤ yNat n := by
+  simp only [primeBand, Finset.mem_filter, Nat.mem_primesBelow,
+    Nat.lt_succ_iff]
+  tauto
+
+theorem prime_of_mem_primeBand {n W p : ℕ} (hp : p ∈ primeBand n W) :
+    p.Prime :=
+  (mem_primeBand.mp hp).1
+
+theorem cutoff_lt_of_mem_primeBand {n W p : ℕ} (hp : p ∈ primeBand n W) :
+    W < p :=
+  (mem_primeBand.mp hp).2.1
+
+theorem le_yNat_of_mem_primeBand {n W p : ℕ} (hp : p ∈ primeBand n W) :
+    p ≤ yNat n :=
+  (mem_primeBand.mp hp).2.2
+
+@[simp] theorem zero_not_mem_primeBand (n W : ℕ) : 0 ∉ primeBand n W := by
+  intro h
+  exact (prime_of_mem_primeBand h).ne_zero rfl
+
+@[simp] theorem one_not_mem_primeBand (n W : ℕ) : 1 ∉ primeBand n W := by
+  intro h
+  exact (prime_of_mem_primeBand h).ne_one rfl
+
+@[simp] theorem primeBand_zero (W : ℕ) : primeBand 0 W = ∅ := by
+  apply Finset.eq_empty_iff_forall_notMem.mpr
+  intro p hp
+  have hle : p ≤ 0 := by
+    simpa using le_yNat_of_mem_primeBand hp
+  have hpos : 0 < p := (prime_of_mem_primeBand hp).pos
+  omega
+
+@[simp] theorem divInd_zero_right (d : ℕ) : divInd d 0 = 1 := by
+  simp [divInd]
+
+@[simp] theorem divInd_zero_left {m : ℕ} (hm : m ≠ 0) : divInd 0 m = 0 := by
+  simp [divInd, zero_dvd_iff, hm]
+
+theorem divInd_eq_zero_or_one (d m : ℕ) :
+    divInd d m = 0 ∨ divInd d m = 1 := by
+  by_cases h : d ∣ m
+  · exact Or.inr (by simp [divInd, h])
+  · exact Or.inl (by simp [divInd, h])
+
+
+
+
+
+@[simp] theorem divInd_sq (d m : ℕ) : divInd d m ^ 2 = divInd d m := by
+  rcases divInd_eq_zero_or_one d m with h | h <;> simp [h]
+
+@[simp] theorem valuation_zero_right (p : ℕ) : valuation p 0 = 0 := by
+  simp [valuation]
+
+theorem valuation_eq_zero_of_not_prime {p m : ℕ} (hp : ¬p.Prime) :
+    valuation p m = 0 := by
+  simp [valuation, Nat.factorization_eq_zero_of_not_prime m hp]
+
+@[simp] theorem valuation_zero_left (m : ℕ) : valuation 0 m = 0 := by
+  exact valuation_eq_zero_of_not_prime Nat.not_prime_zero
+
+@[simp] theorem valuation_one_left (m : ℕ) : valuation 1 m = 0 := by
+  exact valuation_eq_zero_of_not_prime Nat.not_prime_one
+
+theorem valuation_nonneg (p m : ℕ) : 0 ≤ valuation p m := by
+  simp [valuation]
+
+/-- At the excluded sample point `m = 0`, actual divisibility and Mathlib's
+total factorization convention make `J_p = -1`.  All probabilistic cells in
+the paper contain positive integers, and every positivity theorem below
+therefore states that hypothesis explicitly. -/
+@[simp] theorem higherValuation_zero_right (p : ℕ) :
+    higherValuation p 0 = -1 := by
+  simp [higherValuation]
+
+
+
+@[simp] theorem mem_positiveExponents {M k : ℕ} :
+    k ∈ positiveExponents M ↔ 1 ≤ k ∧ k ≤ M := by
+  simp [positiveExponents]
+
+@[simp] theorem mem_highExponents {M k : ℕ} :
+    k ∈ highExponents M ↔ 2 ≤ k ∧ k ≤ M := by
+  simp [highExponents]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- The pointwise identity `I_p J_p = J_p`.  It remains true at all total
+boundary values; primality is not needed for this algebraic identity. -/
+@[simp] theorem divInd_mul_higherValuation (p m : ℕ) :
+    divInd p m * higherValuation p m = higherValuation p m := by
+  by_cases hdvd : p ∣ m
+  · simp [divInd, higherValuation, hdvd]
+  · have hfac : m.factorization p = 0 :=
+      Nat.factorization_eq_zero_of_not_dvd hdvd
+    simp [divInd, higherValuation, valuation, hdvd, hfac]
+
+end Erdos390.Full.ArithmeticModel
+
+end
+
+/- Source module: Erdos390.Full.HeadPattern -/
+section
+
+
+/-!
+# Exact finite head patterns
+
+The marked smooth cells impose exact valuations at finitely many fixed head
+primes.  This file records their integral factor and modulus and proves the
+factorization/divisibility part of the inclusion--exclusion reduction.  No
+smooth-number asymptotic is used here.
+-/
+
+open scoped BigOperators
+open scoped ArithmeticFunction.Moebius
+
+namespace Erdos390.Full.HeadPattern
+
+
+
+namespace Pattern
+
+variable (P : Pattern)
+
+/-- The forced prime-power part `h_e`. -/
+def factor : ℕ :=
+  ∏ p ∈ P.primes, p ^ P.exponent p
+
+/-- The squarefree head modulus `M_H`. -/
+def modulus : ℕ :=
+  ∏ p ∈ P.primes, p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- The exact Möbius weight detecting that an integer is coprime to the head
+modulus.  Writing it through the gcd avoids any asymptotic or probabilistic
+input. -/
+def coprimeWeight (k : ℕ) : ℤ :=
+  ∑ d ∈ (Nat.gcd k P.modulus).divisors, ArithmeticFunction.moebius d
+
+theorem sum_moebius_divisors {a : ℕ} :
+    (∑ d ∈ a.divisors, ArithmeticFunction.moebius d) =
+      if a = 1 then 1 else 0 := by
+  calc
+    (∑ d ∈ a.divisors, ArithmeticFunction.moebius d) =
+        (ArithmeticFunction.moebius * ArithmeticFunction.zeta :
+          ArithmeticFunction ℤ) a := by
+            symm
+            simp only [ArithmeticFunction.coe_mul_zeta_apply]
+    _ = (1 : ArithmeticFunction ℤ) a := by
+      rw [ArithmeticFunction.moebius_mul_coe_zeta]
+    _ = if a = 1 then 1 else 0 := by
+      rw [ArithmeticFunction.one_apply]
+
+
+
+@[simp]
+theorem coprimeWeight_eq_indicator (k : ℕ) :
+    P.coprimeWeight k = if Nat.Coprime k P.modulus then 1 else 0 := by
+  rw [coprimeWeight, sum_moebius_divisors]
+
+
+
+
+
+
+
+end Pattern
+
+end Erdos390.Full.HeadPattern
+
+end
+
+/- Source module: Erdos390.Full.StructuredCells -/
+section
+
+
+/-!
+# Exact structured-cell reductions
+
+This file defines the actual finite smooth intervals and exact head cells.
+It proves the finite inclusion--exclusion identity before any use of a
+friable-number asymptotic.
+-/
+
+open scoped BigOperators ArithmeticFunction.Moebius
+
+namespace Erdos390.Full.StructuredCells
+
+open HeadPattern
+
+/-- Positive `y`-smooth integers in `(lo, hi]`.  Mathlib's
+`smoothNumbers (y+1)` means that all prime factors are at most `y`. -/
+def smoothInterval (lo hi y : ℕ) : Finset ℕ :=
+  (Nat.smoothNumbersUpTo hi (y + 1)).filter (lo < ·)
+
+/-- The exact finite friable counting function used in this development;
+`psi X y` counts positive integers at most `X` whose prime factors are at
+most `y`. -/
+def psi (X y : ℕ) : ℕ :=
+  (Nat.smoothNumbersUpTo X (y + 1)).card
+
+/-- A finite structured cell with exact head valuations. -/
+def structuredCell (P : Pattern) (lo hi y : ℕ) : Finset ℕ :=
+  (smoothInterval lo hi y).filter P.Matches
+
+/-- The part of a structured cell divisible by a marked integer `d`. -/
+def markedCell (P : Pattern) (lo hi y d : ℕ) : Finset ℕ :=
+  (structuredCell P lo hi y).filter (d ∣ ·)
+
+@[simp] theorem mem_smoothInterval {lo hi y m : ℕ} :
+    m ∈ smoothInterval lo hi y ↔
+      lo < m ∧ m ≤ hi ∧ m ∈ Nat.smoothNumbers (y + 1) := by
+  simp only [smoothInterval, Finset.mem_filter, Nat.mem_smoothNumbersUpTo]
+  tauto
+
+theorem pos_of_mem_smoothInterval {lo hi y m : ℕ}
+    (hm : m ∈ smoothInterval lo hi y) : 0 < m := by
+  exact (Nat.mem_smoothNumbers.mp (mem_smoothInterval.mp hm).2.2).1.bot_lt
+
+
+
+
+
+@[simp] theorem mem_structuredCell {P : Pattern} {lo hi y m : ℕ} :
+    m ∈ structuredCell P lo hi y ↔
+      m ∈ smoothInterval lo hi y ∧ P.Matches m := by
+  simp [structuredCell]
+
+@[simp] theorem mem_markedCell {P : Pattern} {lo hi y d m : ℕ} :
+    m ∈ markedCell P lo hi y d ↔
+      m ∈ smoothInterval lo hi y ∧ P.Matches m ∧ d ∣ m := by
+  simp [markedCell, structuredCell, and_assoc, and_left_comm]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Erdos390.Full.StructuredCells
+
+end
+
+/- Source module: Erdos390.Full.Scale -/
+section
+
+
+/-!
+# Exact scale identities
+
+This file records the elementary identities behind the fixed choice
+`y = n^(2/9)` used throughout the marked and smooth bridge.  Keeping them as
+equalities avoids repeatedly treating `U = 9/2` and the four-mark cofactor
+margin as informal arithmetic simplifications.
+-/
+
+open Filter Topology
+
+namespace Erdos390.Full.Scale
+
+open ArithmeticModel
+
+/-- The logarithmic scale `L = log n`. -/
+noncomputable def L (n : ℕ) : ℝ :=
+  Real.log (n : ℝ)
+
+
+
+
+
+theorem L_pos {n : ℕ} (hn : 1 < n) : 0 < L n := by
+  exact Real.log_pos (by exact_mod_cast hn)
+
+theorem y_pos {n : ℕ} (hn : 0 < n) : 0 < y n := by
+  exact Real.rpow_pos_of_pos (by exact_mod_cast hn) _
+
+/-- `log y = (2/9) log n`, with no asymptotic error. -/
+theorem log_y {n : ℕ} (hn : 0 < n) :
+    Real.log (y n) = (2 / 9 : ℝ) * L n := by
+  simpa [y, L] using
+    (Real.log_rpow (by exact_mod_cast hn : (0 : ℝ) < n) (2 / 9 : ℝ))
+
+
+
+
+
+theorem y_pow_two (n : ℕ) :
+    y n ^ 2 = (n : ℝ) ^ (4 / 9 : ℝ) := by
+  calc
+    y n ^ 2 = ((n : ℝ) ^ (2 / 9 : ℝ)) ^ 2 := rfl
+    _ = (n : ℝ) ^ ((2 / 9 : ℝ) * (2 : ℕ)) :=
+      (Real.rpow_mul_natCast (Nat.cast_nonneg n) (2 / 9 : ℝ) 2).symm
+    _ = (n : ℝ) ^ (4 / 9 : ℝ) := by norm_num
+
+
+
+
+
+/-- The accumulated two-mark endpoint scale used in the row estimates. -/
+noncomputable def endpointRatio (n : ℕ) : ℝ :=
+  y n ^ 2 * L n ^ 2 / (n : ℝ)
+
+
+
+
+
+end Erdos390.Full.Scale
+
+end
+
+/- Source module: Erdos390.Full.FriableAsymptotic -/
+section
+
+
+/-!
+# Friable counts on the Erdős 390 scale
+
+This file develops the arithmetic side of the uniform Dickman estimate from
+Mathlib's actual finite set `Nat.smoothNumbersUpTo`.  In particular, the
+statements below are exact finite identities: no asymptotic count is exposed
+as a hypothesis or a contract.
+
+Our second parameter `y` is inclusive: `friableCount X y` counts positive
+integers at most `X` all of whose prime factors are at most `y`.  Thus the
+underlying Mathlib smoothness threshold is `y + 1`.
+-/
+
+open scoped BigOperators
+open Filter Topology Asymptotics
+
+namespace Erdos390.Full.FriableAsymptotic
+
+open ArithmeticModel DickmanBasic Scale
+
+/-! ## Quantitative prime-number input
+
+The finite de Bruijn induction below needs a power-saving prime Stieltjes
+estimate.  We derive it here from the audited medium-strength PNT, rather than
+postulating a prime-distribution contract.  The exponential PNT remainder is
+stronger than every fixed power of `1 / log x`.
+-/
+
+/-- The medium PNT error for `ψ` is `O(x / log(x)^A)` for every fixed real
+power `A`. -/
+theorem psi_error_isBigO_log_power (A : ℝ) :
+    (Chebyshev.psi - id) =O[atTop]
+      (fun x : ℝ => x / (Real.log x) ^ A) := by
+  obtain ⟨c, hc, hPNT⟩ := MediumPNT
+  apply hPNT.trans
+  have hpow : Tendsto (fun x : ℝ => (Real.log x) ^ ((1 : ℝ) / 10))
+      atTop atTop := by
+    exact tendsto_rpow_atTop (by norm_num : (0 : ℝ) < 1 / 10) |>.comp
+      Real.tendsto_log_atTop
+  have hdecay :=
+    (isLittleO_exp_neg_mul_rpow_atTop hc (-10 * A)).comp_tendsto hpow
+  have hdecay' :
+      (fun x : ℝ => Real.exp (-c * (Real.log x) ^ ((1 : ℝ) / 10)))
+        =O[atTop] (fun x : ℝ => (Real.log x) ^ (-A)) := by
+    apply hdecay.isBigO.congr' (Eventually.of_forall fun x => rfl)
+    filter_upwards [Real.tendsto_log_atTop.eventually (eventually_ge_atTop (0 : ℝ))]
+      with x hx
+    simp only [Function.comp_apply]
+    rw [← Real.rpow_mul hx]
+    congr 2
+    ring
+  have hmul := (isBigO_refl (fun x : ℝ => x) atTop).mul hdecay'
+  apply hmul.congr' (Eventually.of_forall fun x => rfl)
+  filter_upwards [Real.tendsto_log_atTop.eventually (eventually_gt_atTop (0 : ℝ))]
+    with x hx
+  rw [Real.rpow_neg hx.le, div_eq_mul_inv]
+
+/-- The prime-power correction `√x log x` is smaller than the same arbitrary
+fixed logarithmic PNT scale. -/
+theorem sqrt_mul_log_isBigO_log_power (A : ℝ) :
+    (fun x : ℝ => Real.sqrt x * Real.log x) =O[atTop]
+      (fun x : ℝ => x / (Real.log x) ^ A) := by
+  have hlog :=
+    (isLittleO_log_rpow_rpow_atTop (A + 1) (by norm_num : (0 : ℝ) < 1 / 2)).isBigO
+  let common : ℝ → ℝ := fun x => x ^ ((1 : ℝ) / 2) / (Real.log x) ^ A
+  have hmul := hlog.mul (isBigO_refl common atTop)
+  apply hmul.congr'
+  · filter_upwards [Real.tendsto_log_atTop.eventually (eventually_gt_atTop (0 : ℝ)),
+      eventually_gt_atTop (0 : ℝ)] with x hlogx hx
+    dsimp [common]
+    rw [Real.sqrt_eq_rpow, Real.rpow_add hlogx]
+    field_simp
+    simp [Real.rpow_one]
+  · filter_upwards [Real.tendsto_log_atTop.eventually (eventually_gt_atTop (0 : ℝ)),
+      eventually_gt_atTop (0 : ℝ)] with x hlogx hx
+    dsimp [common]
+    calc
+      x ^ ((1 : ℝ) / 2) * (x ^ ((1 : ℝ) / 2) / Real.log x ^ A) =
+          (x ^ ((1 : ℝ) / 2) * x ^ ((1 : ℝ) / 2)) / Real.log x ^ A := by ring
+      _ = x ^ ((1 : ℝ) / 2 + (1 : ℝ) / 2) / Real.log x ^ A := by
+        rw [Real.rpow_add hx]
+      _ = x / Real.log x ^ A := by norm_num [Real.rpow_one]
+
+/-- Quantitative PNT for Chebyshev's `θ`, at every fixed logarithmic power.
+This is the form used by partial summation over primes. -/
+theorem theta_error_isBigO_log_power (A : ℝ) :
+    (Chebyshev.theta - id) =O[atTop]
+      (fun x : ℝ => x / (Real.log x) ^ A) := by
+  have hraw :
+      (Chebyshev.theta - Chebyshev.psi) =O[atTop]
+        (fun x : ℝ => Real.sqrt x * Real.log x) := by
+    apply IsBigO.of_bound 2
+    filter_upwards [eventually_ge_atTop (1 : ℝ)] with x hx
+    have hnonneg : 0 ≤ Real.sqrt x * Real.log x :=
+      mul_nonneg (Real.sqrt_nonneg x) (Real.log_nonneg hx)
+    simpa only [Pi.sub_apply, Real.norm_eq_abs, abs_sub_comm,
+      Real.norm_of_nonneg hnonneg, mul_assoc] using
+      Chebyshev.abs_psi_sub_theta_le_sqrt_mul_log hx
+  have hdiff := hraw.trans (sqrt_mul_log_isBigO_log_power A)
+  have hadd := hdiff.add (psi_error_isBigO_log_power A)
+  apply hadd.congr' (Eventually.of_forall fun x => ?_)
+    (Eventually.of_forall fun x => rfl)
+  simp only [Pi.sub_apply, id_eq]
+  ring
+
+/-- The actual finite Chebyshev prime sum, written with the same
+`Nat.primesBelow` finset used by the friable recurrence. -/
+noncomputable def primeLogSumUpTo (X : ℕ) : ℝ :=
+  ∑ p ∈ (X + 1).primesBelow, Real.log (p : ℝ)
+
+theorem primeLogSumUpTo_eq_theta (X : ℕ) :
+    primeLogSumUpTo X = Chebyshev.theta (X : ℝ) := by
+  have hfin : (X + 1).primesBelow = (Finset.Ioc 0 X).filter Nat.Prime := by
+    ext p
+    simp only [Nat.mem_primesBelow, Finset.mem_filter, Finset.mem_Ioc]
+    constructor
+    · rintro ⟨hpX, hp⟩
+      exact ⟨⟨hp.pos, by omega⟩, hp⟩
+    · rintro ⟨⟨_, hpX⟩, hp⟩
+      exact ⟨by omega, hp⟩
+  rw [primeLogSumUpTo, hfin, Chebyshev.theta]
+  simp only [Nat.floor_natCast]
+
+/-- Quantitative PNT for the precise natural-number prime finset used below.
+-/
+theorem primeLogSumUpTo_error_isBigO_log_power (A : ℝ) :
+    (fun X : ℕ => primeLogSumUpTo X - (X : ℝ)) =O[atTop]
+      (fun X : ℕ => (X : ℝ) / (Real.log (X : ℝ)) ^ A) := by
+  have h := (theta_error_isBigO_log_power A).comp_tendsto
+    tendsto_natCast_atTop_atTop
+  apply h.congr' (Eventually.of_forall fun X => ?_)
+    (Eventually.of_forall fun X => rfl)
+  simp only [Function.comp_apply, Pi.sub_apply, id_eq, primeLogSumUpTo_eq_theta]
+
+/-- An explicit eventual inequality extracted from the quantitative PNT.  In
+particular, later uses may choose the constant and threshold before starting
+the finite de Bruijn induction. -/
+theorem exists_primeLogSumUpTo_error_bound (A : ℝ) :
+    ∃ C : ℝ, 0 < C ∧ ∃ X₀ : ℕ, ∀ X, X₀ ≤ X →
+      |primeLogSumUpTo X - (X : ℝ)| ≤
+        C * ((X : ℝ) / (Real.log (X : ℝ)) ^ A) := by
+  obtain ⟨C, hC, hbound⟩ :=
+    (primeLogSumUpTo_error_isBigO_log_power A).exists_pos
+  rw [IsBigOWith, eventually_atTop] at hbound
+  obtain ⟨X₀, hX₀⟩ := hbound
+  refine ⟨C, hC, max X₀ 2, fun X hX => ?_⟩
+  have hXX₀ : X₀ ≤ X := (le_max_left X₀ 2).trans hX
+  have hX2 : 2 ≤ X := (le_max_right X₀ 2).trans hX
+  have htarget : 0 ≤ (X : ℝ) / (Real.log (X : ℝ)) ^ A := by
+    positivity
+  simpa only [Real.norm_eq_abs, Real.norm_of_nonneg htarget] using
+    hX₀ X hXX₀
+
+/-- The logarithmically weighted prime sum on the half-open natural interval
+`z < p ≤ y`. -/
+noncomputable def primeLogSumInterval (z y : ℕ) : ℝ :=
+  ∑ p ∈ (y + 1).primesBelow \ (z + 1).primesBelow,
+    Real.log (p : ℝ)
+
+
+
+
+
+/-- The point mass of the Chebyshev `θ` measure at an integer. -/
+noncomputable def primeLogIncrement (m : ℕ) : ℝ :=
+  if m.Prime then Real.log (m : ℝ) else 0
+
+theorem sum_range_primeLogIncrement (n : ℕ) :
+    ∑ m ∈ Finset.range (n + 1), primeLogIncrement m =
+      primeLogSumUpTo n := by
+  rw [primeLogSumUpTo]
+  simp only [primeLogIncrement]
+  rw [← Finset.sum_filter]
+  apply Finset.sum_congr
+  · ext p
+    simp only [Finset.mem_filter, Finset.mem_range, Nat.mem_primesBelow]
+  · intro p hp
+    rfl
+
+/-- A prime Stieltjes sum, still written as a finite sum. -/
+noncomputable def primeThetaWeightedInterval (f : ℕ → ℝ) (z y : ℕ) : ℝ :=
+  ∑ p ∈ (y + 1).primesBelow \ (z + 1).primesBelow,
+    f p * Real.log (p : ℝ)
+
+theorem primeThetaWeightedInterval_eq_Ioc (f : ℕ → ℝ) {z y : ℕ} :
+    primeThetaWeightedInterval f z y =
+      ∑ m ∈ Finset.Ioc z y, f m * primeLogIncrement m := by
+  rw [primeThetaWeightedInterval]
+  simp only [primeLogIncrement, mul_ite, mul_zero]
+  rw [← Finset.sum_filter]
+  apply Finset.sum_congr
+  · ext p
+    simp only [Finset.mem_sdiff, Nat.mem_primesBelow,
+      Finset.mem_filter, Finset.mem_Ioc]
+    constructor
+    · rintro ⟨⟨hpy, hp⟩, hpz⟩
+      refine ⟨⟨?_, by omega⟩, hp⟩
+      by_contra hnot
+      apply hpz
+      exact ⟨by omega, hp⟩
+    · rintro ⟨⟨hzp, hpy⟩, hp⟩
+      exact ⟨⟨by omega, hp⟩, by omega⟩
+  · intro p hp
+    rfl
+
+/-- Exact Abel summation for a prime Stieltjes sum.  No asymptotic statement
+is hidden here: the cumulative mass is the actual finite `primeLogSumUpTo`.
+This is the arithmetic identity to which the quantitative PNT error is
+applied. -/
+theorem primeThetaWeightedInterval_by_parts (f : ℕ → ℝ) {z y : ℕ}
+    (hzy : z < y) :
+    primeThetaWeightedInterval f z y =
+      f y * primeLogSumUpTo y - f (z + 1) * primeLogSumUpTo z -
+        ∑ m ∈ Finset.Ioc z (y - 1),
+          (f (m + 1) - f m) * primeLogSumUpTo m := by
+  rw [primeThetaWeightedInterval_eq_Ioc f]
+  have hparts := Finset.sum_Ioc_by_parts f primeLogIncrement hzy
+  simpa only [smul_eq_mul, sum_range_primeLogIncrement,
+    Nat.add_sub_cancel] using hparts
+
+/-- Abel's main term after replacing the cumulative prime mass `θ(m)` by its
+PNT main term `m`.  This is deliberately kept discrete; the subsequent
+comparison with a Dickman integral is a separate Riemann-sum step. -/
+noncomputable def integerAbelMain (f : ℕ → ℝ) (z y : ℕ) : ℝ :=
+  f y * (y : ℝ) - f (z + 1) * (z : ℝ) -
+    ∑ m ∈ Finset.Ioc z (y - 1),
+      (f (m + 1) - f m) * (m : ℝ)
+
+/-- Unit mass on the positive integers.  Its cumulative mass through `n` is
+exactly `n`, matching the main term of `θ(n)`. -/
+def positiveIncrement (m : ℕ) : ℝ := if m = 0 then 0 else 1
+
+theorem sum_range_positiveIncrement (n : ℕ) :
+    ∑ m ∈ Finset.range (n + 1), positiveIncrement m = (n : ℝ) := by
+  induction n with
+  | zero => simp [positiveIncrement]
+  | succ n ih =>
+      rw [Finset.sum_range_succ, ih]
+      simp [positiveIncrement]
+
+/-- Consequently the discrete Abel main term is just the ordinary integer
+Riemann sum of the test weight. -/
+theorem integerAbelMain_eq_sum_Ioc (f : ℕ → ℝ) {z y : ℕ}
+    (hzy : z < y) :
+    integerAbelMain f z y = ∑ m ∈ Finset.Ioc z y, f m := by
+  have hparts := Finset.sum_Ioc_by_parts f positiveIncrement hzy
+  have hlhs : (∑ m ∈ Finset.Ioc z y, f m * positiveIncrement m) =
+      ∑ m ∈ Finset.Ioc z y, f m := by
+    apply Finset.sum_congr rfl
+    intro m hm
+    have hm0 : m ≠ 0 := by
+      rw [Finset.mem_Ioc] at hm
+      omega
+    simp [positiveIncrement, hm0]
+  simp only [smul_eq_mul] at hparts
+  rw [hlhs] at hparts
+  simpa only [sum_range_positiveIncrement,
+    Nat.add_sub_cancel, integerAbelMain, mul_one] using hparts.symm
+
+/-- Shift a sum over `z < m ≤ y` to the adjacent unit cells
+`z ≤ k < y`. -/
+theorem sum_Ioc_shift (f : ℕ → ℝ) {z y : ℕ} :
+    ∑ m ∈ Finset.Ioc z y, f m =
+      ∑ k ∈ Finset.Ico z y, f (k + 1) := by
+  have hfin : (Finset.Ico z y).image (fun k => k + 1) =
+      Finset.Ioc z y := by
+    ext m
+    simp only [Finset.mem_image, Finset.mem_Ico, Finset.mem_Ioc]
+    constructor
+    · rintro ⟨k, ⟨hzk, hky⟩, rfl⟩
+      omega
+    · rintro ⟨hzm, hmy⟩
+      refine ⟨m - 1, ?_, by omega⟩
+      omega
+  have hinj : Set.InjOn (fun k : ℕ => k + 1)
+      (Finset.Ico z y : Set ℕ) := by
+    intro a ha b hb hab
+    exact Nat.add_right_cancel hab
+  rw [← hfin, Finset.sum_image hinj]
+
+/-- Exact decomposition of an integer Riemann-sum error into its unit-cell
+errors. -/
+theorem sum_sub_integral_identity (f : ℝ → ℝ) {z y : ℕ}
+    (hzy : z ≤ y)
+    (hint : ∀ k ∈ Set.Ico z y,
+      IntervalIntegrable f MeasureTheory.volume (k : ℝ) (k + 1 : ℕ)) :
+    (∑ m ∈ Finset.Ioc z y, f m) -
+        ∫ t in (z : ℝ)..(y : ℝ), f t =
+      ∑ k ∈ Finset.Ico z y,
+        (f (k + 1) - ∫ t in (k : ℝ)..(k + 1 : ℕ), f t) := by
+  rw [sum_Ioc_shift (fun m => f m)]
+  have hintsum := intervalIntegral.sum_integral_adjacent_intervals_Ico
+    (f := f) (μ := MeasureTheory.volume)
+    (a := fun k : ℕ => (k : ℝ)) hzy hint
+  simp only [Nat.cast_add, Nat.cast_one] at hintsum
+  simp only [Nat.cast_add, Nat.cast_one]
+  rw [← hintsum, Finset.sum_sub_distrib]
+
+/-- A quantitative Riemann-sum estimate from a supplied oscillation on each
+unit cell.  Later the one-Lipschitz Dickman bound supplies `hosc` for the
+specific de Bruijn kernel. -/
+theorem sum_integral_error_bound (f : ℝ → ℝ) (e : ℕ → ℝ)
+    {z y : ℕ} (hzy : z ≤ y)
+    (hint : ∀ k ∈ Set.Ico z y,
+      IntervalIntegrable f MeasureTheory.volume (k : ℝ) (k + 1 : ℕ))
+    (hosc : ∀ k ∈ Finset.Ico z y,
+      ∀ t ∈ Set.Icc (k : ℝ) (k + 1 : ℕ),
+        |f (k + 1) - f t| ≤ e k) :
+    |(∑ m ∈ Finset.Ioc z y, f m) -
+        ∫ t in (z : ℝ)..(y : ℝ), f t| ≤
+      ∑ k ∈ Finset.Ico z y, e k := by
+  rw [sum_sub_integral_identity f hzy hint]
+  calc
+    |∑ k ∈ Finset.Ico z y,
+        (f (k + 1) - ∫ t in (k : ℝ)..(k + 1 : ℕ), f t)| ≤
+        ∑ k ∈ Finset.Ico z y,
+          |f (k + 1) - ∫ t in (k : ℝ)..(k + 1 : ℕ), f t| :=
+      Finset.abs_sum_le_sum_abs _ _
+    _ ≤ ∑ k ∈ Finset.Ico z y, e k := by
+      apply Finset.sum_le_sum
+      intro k hk
+      have hconst :
+          (∫ _t in (k : ℝ)..(k + 1 : ℕ), f (k + 1)) =
+            f (k + 1) := by
+        simp
+      rw [← hconst, ← intervalIntegral.integral_sub
+        (continuous_const.intervalIntegrable _ _)
+        (hint k (by simpa using hk))]
+      have hnorm := intervalIntegral.norm_integral_le_of_norm_le_const
+        (f := fun t => f (k + 1) - f t) (C := e k)
+        (a := (k : ℝ)) (b := (k + 1 : ℕ)) (fun t ht => ?_)
+      · simpa only [Real.norm_eq_abs, Nat.cast_add, Nat.cast_one,
+          add_sub_cancel_left, abs_one, mul_one] using hnorm
+      · apply hosc k hk t
+        have ht' := Set.uIoc_subset_uIcc ht
+        rw [Set.uIcc_of_le
+          (by norm_num : (k : ℝ) ≤ (k + 1 : ℕ))] at ht'
+        exact ht'
+
+/-- Exact decomposition of the prime Stieltjes error into endpoint errors and
+the discrete variation of the test weight. -/
+theorem primeThetaWeightedInterval_error_identity (f : ℕ → ℝ) {z y : ℕ}
+    (hzy : z < y) :
+    primeThetaWeightedInterval f z y - integerAbelMain f z y =
+      f y * (primeLogSumUpTo y - (y : ℝ)) -
+      f (z + 1) * (primeLogSumUpTo z - (z : ℝ)) -
+      ∑ m ∈ Finset.Ioc z (y - 1),
+        (f (m + 1) - f m) *
+          (primeLogSumUpTo m - (m : ℝ)) := by
+  rw [primeThetaWeightedInterval_by_parts f hzy]
+  simp only [integerAbelMain]
+  simp_rw [mul_sub]
+  rw [Finset.sum_sub_distrib]
+  ring
+
+/-- Total-variation estimate for the prime Stieltjes error.  Together with
+`exists_primeLogSumUpTo_error_bound`, this is a quantitative and fully finite
+partial-summation interface; no prime asymptotic is assumed by callers. -/
+theorem primeThetaWeightedInterval_error_bound (f : ℕ → ℝ) {z y : ℕ}
+    (hzy : z < y) :
+    |primeThetaWeightedInterval f z y - integerAbelMain f z y| ≤
+      |f y| * |primeLogSumUpTo y - (y : ℝ)| +
+      |f (z + 1)| * |primeLogSumUpTo z - (z : ℝ)| +
+      ∑ m ∈ Finset.Ioc z (y - 1),
+        |f (m + 1) - f m| *
+          |primeLogSumUpTo m - (m : ℝ)| := by
+  rw [primeThetaWeightedInterval_error_identity f hzy]
+  calc
+    |f y * (primeLogSumUpTo y - (y : ℝ)) -
+        f (z + 1) * (primeLogSumUpTo z - (z : ℝ)) -
+        ∑ m ∈ Finset.Ioc z (y - 1),
+          (f (m + 1) - f m) *
+            (primeLogSumUpTo m - (m : ℝ))| ≤
+      |f y * (primeLogSumUpTo y - (y : ℝ)) -
+        f (z + 1) * (primeLogSumUpTo z - (z : ℝ))| +
+        |∑ m ∈ Finset.Ioc z (y - 1),
+          (f (m + 1) - f m) *
+            (primeLogSumUpTo m - (m : ℝ))| := abs_sub _ _
+    _ ≤ (|f y * (primeLogSumUpTo y - (y : ℝ))| +
+        |f (z + 1) * (primeLogSumUpTo z - (z : ℝ))|) +
+        ∑ m ∈ Finset.Ioc z (y - 1),
+          |(f (m + 1) - f m) *
+            (primeLogSumUpTo m - (m : ℝ))| := by
+      apply add_le_add
+      · exact abs_sub _ _
+      · exact Finset.abs_sum_le_sum_abs _ _
+    _ = _ := by simp only [abs_mul]
+
+/-- The preceding variation estimate with the quantitative PNT substituted at
+every endpoint.  The single threshold `X₀` is uniform over the whole finite
+prime interval. -/
+theorem primeThetaWeightedInterval_pnt_bound (f : ℕ → ℝ)
+    {A C : ℝ} {X₀ z y : ℕ}
+    (hbound : ∀ X, X₀ ≤ X →
+      |primeLogSumUpTo X - (X : ℝ)| ≤
+        C * ((X : ℝ) / (Real.log (X : ℝ)) ^ A))
+    (hz : X₀ ≤ z) (hzy : z < y) :
+    |primeThetaWeightedInterval f z y - integerAbelMain f z y| ≤
+      |f y| * (C * ((y : ℝ) / (Real.log (y : ℝ)) ^ A)) +
+      |f (z + 1)| * (C * ((z : ℝ) / (Real.log (z : ℝ)) ^ A)) +
+      ∑ m ∈ Finset.Ioc z (y - 1),
+        |f (m + 1) - f m| *
+          (C * ((m : ℝ) / (Real.log (m : ℝ)) ^ A)) := by
+  calc
+    |primeThetaWeightedInterval f z y - integerAbelMain f z y| ≤
+        |f y| * |primeLogSumUpTo y - (y : ℝ)| +
+        |f (z + 1)| * |primeLogSumUpTo z - (z : ℝ)| +
+        ∑ m ∈ Finset.Ioc z (y - 1),
+          |f (m + 1) - f m| *
+            |primeLogSumUpTo m - (m : ℝ)| :=
+      primeThetaWeightedInterval_error_bound f hzy
+    _ ≤ _ := by
+      apply add_le_add
+      · apply add_le_add
+        · exact mul_le_mul_of_nonneg_left
+            (hbound y (hz.trans hzy.le)) (abs_nonneg (f y))
+        · exact mul_le_mul_of_nonneg_left
+            (hbound z hz) (abs_nonneg (f (z + 1)))
+      · apply Finset.sum_le_sum
+        intro m hm
+        apply mul_le_mul_of_nonneg_left
+        · apply hbound m
+          exact hz.trans (Nat.le_of_lt (Finset.mem_Ioc.mp hm).1)
+        · exact abs_nonneg (f (m + 1) - f m)
+
+/-! ## Explicit regularity of the finite Dickman kernel -/
+
+/-- The method-of-steps Dickman solution is at most one on the full compact
+range used by the friable induction. -/
+theorem rho_le_one_of_le_five {x : ℝ} (hx5 : x ≤ 5) :
+    rho x ≤ 1 := by
+  by_cases hx1 : x ≤ 1
+  · rw [rho_eq_one_of_le_one hx1]
+  · have hxmem : x ∈ Set.Icc (1 : ℝ) 5 :=
+      ⟨le_of_not_ge hx1, hx5⟩
+    have hone : (1 : ℝ) ∈ Set.Icc (1 : ℝ) 5 := by norm_num
+    simpa [rho_one] using
+      antitoneOn_rho_one_five hone hxmem hxmem.1
+
+/-- On `[1,5]` the delay-equation integrand lies in `[0,1]`. -/
+theorem rho_delay_integrand_bounds {t : ℝ} (ht1 : 1 ≤ t) (ht5 : t ≤ 5) :
+    0 ≤ rho (t - 1) / t ∧ rho (t - 1) / t ≤ 1 := by
+  have hrpos : 0 < rho (t - 1) :=
+    rho_pos_on_zero_five (by linarith) (by linarith)
+  have hrle : rho (t - 1) ≤ 1 :=
+    rho_le_one_of_le_five (by linarith)
+  constructor
+  · exact div_nonneg hrpos.le (by linarith)
+  · apply (div_le_one (by linarith : 0 < t)).mpr
+    exact hrle.trans ht1
+
+/-- Explicit one-Lipschitz estimate for `rho` to the right of its initial
+corner.  The proof integrates the actual delay equation, so no smoothness at
+the corner `1` is assumed. -/
+theorem rho_lipschitz_one_five {a b : ℝ}
+    (ha : 1 ≤ a) (hab : a ≤ b) (hb : b ≤ 5) :
+    |rho b - rho a| ≤ b - a := by
+  let g : ℝ → ℝ := fun t => rho (t - 1) / t
+  have hgcont : ContinuousOn g (Set.Icc a b) := by
+    apply ContinuousOn.div
+    · exact (continuous_rho.comp
+        (continuous_id.sub continuous_const)).continuousOn
+    · exact continuous_id.continuousOn
+    · intro t ht
+      exact ne_of_gt (by linarith [ha, ht.1])
+  have hgint_ab : IntervalIntegrable g MeasureTheory.volume a b :=
+    by
+      rw [← Set.uIcc_of_le hab] at hgcont
+      exact hgcont.intervalIntegrable
+  have hgint_1a : IntervalIntegrable g MeasureTheory.volume 1 a := by
+    have hgcont_1a : ContinuousOn g (Set.Icc (1 : ℝ) a) := by
+      apply ContinuousOn.div
+      · exact (continuous_rho.comp
+          (continuous_id.sub continuous_const)).continuousOn
+      · exact continuous_id.continuousOn
+      · intro t ht
+        exact ne_of_gt (by linarith [ht.1])
+    rw [← Set.uIcc_of_le ha] at hgcont_1a
+    exact hgcont_1a.intervalIntegrable
+  have hadd := intervalIntegral.integral_add_adjacent_intervals
+    hgint_1a hgint_ab
+  have hrhoa := rho_integral_eq ha (hab.trans hb)
+  have hrhob := rho_integral_eq (ha.trans hab) hb
+  have hdiff : rho b - rho a = -(∫ t in a..b, g t) := by
+    dsimp [g] at hadd ⊢
+    linarith
+  rw [hdiff, abs_neg]
+  have hnonneg : 0 ≤ ∫ t in a..b, g t := by
+    apply intervalIntegral.integral_nonneg hab
+    intro t ht
+    exact (rho_delay_integrand_bounds
+      (ha.trans ht.1) (ht.2.trans hb)).1
+  rw [abs_of_nonneg hnonneg]
+  have hmono := intervalIntegral.integral_mono_on hab hgint_ab
+    (continuous_const.intervalIntegrable a b)
+    (fun t ht => (rho_delay_integrand_bounds
+      (ha.trans ht.1) (ht.2.trans hb)).2)
+  simpa using hmono
+
+/-- Global ordered one-Lipschitz estimate on `[0,5]`, including intervals
+that cross the corner at `1`. -/
+theorem rho_lipschitz_of_le_five {a b : ℝ}
+    (hab : a ≤ b) (hb : b ≤ 5) :
+    |rho b - rho a| ≤ b - a := by
+  by_cases hb1 : b ≤ 1
+  · rw [rho_eq_one_of_le_one hb1,
+      rho_eq_one_of_le_one (hab.trans hb1)]
+    simp only [sub_self, abs_zero]
+    linarith
+  by_cases ha1 : 1 ≤ a
+  · exact rho_lipschitz_one_five ha1 hab hb
+  · have hcross := rho_lipschitz_one_five
+      (a := (1 : ℝ)) (b := b) le_rfl (le_of_not_ge hb1) hb
+    rw [rho_eq_one_of_le_one (le_of_not_ge ha1)]
+    simpa only [rho_one] using hcross.trans (by linarith)
+
+/-! ## The Dickman test weight in the prime recurrence -/
+
+/-- The real main term contributed by a prime `p` in the largest-prime
+recurrence. -/
+noncomputable def dickmanPrimeSummand (X m : ℕ) : ℝ :=
+  (X : ℝ) / (m : ℝ) *
+    rho (Real.log (X : ℝ) / Real.log (m : ℝ) - 1)
+
+/-- The corresponding test function against Chebyshev's `θ` measure. -/
+noncomputable def dickmanThetaWeight (X m : ℕ) : ℝ :=
+  dickmanPrimeSummand X m / Real.log (m : ℝ)
+
+/-- Continuous extension of the Dickman test weight used for the ordinary
+Riemann integral. -/
+noncomputable def dickmanContinuousWeight (X t : ℝ) : ℝ :=
+  (X / t * rho (Real.log X / Real.log t - 1)) / Real.log t
+
+/-- An antiderivative of the Dickman test weight on every compact region
+where the Dickman delay equation applies. -/
+noncomputable def dickmanAntiderivative (X t : ℝ) : ℝ :=
+  X * rho (Real.log X / Real.log t)
+
+
+
+
+
+
+
+
+
+
+
+/-- The genuine finite friable counting function `Ψ(X,y)`. -/
+def friableCount (X y : ℕ) : ℕ :=
+  (Nat.smoothNumbersUpTo X (y + 1)).card
+
+/-- The Dickman coordinate attached to integral endpoints.  It is total at
+the irrelevant boundary `y = 0,1`; analytic statements impose `1 < y`. -/
+noncomputable def dickmanU (X y : ℕ) : ℝ :=
+  Real.log (X : ℝ) / Real.log (y : ℝ)
+
+@[simp] theorem friableCount_zero (y : ℕ) : friableCount 0 y = 0 := by
+  rw [friableCount]
+  have hempty : Nat.smoothNumbersUpTo 0 (y + 1) = ∅ := by
+    apply Finset.eq_empty_iff_forall_notMem.mpr
+    intro m hm
+    rw [Nat.mem_smoothNumbersUpTo] at hm
+    have hm0 : m = 0 := by omega
+    exact Nat.ne_zero_of_mem_smoothNumbers hm.2 hm0
+  rw [hempty]
+  simp
+
+
+
+
+
+/-- Below the smoothness threshold every positive integer is smooth.  This is
+the exact (not asymptotic) initial condition for the de Bruijn induction. -/
+theorem friableCount_eq_self {X y : ℕ} (hXy : X ≤ y) :
+    friableCount X y = X := by
+  have hrough : Nat.roughNumbersUpTo X (y + 1) = ∅ := by
+    apply Finset.eq_empty_iff_forall_notMem.mpr
+    intro m hm
+    rw [Nat.roughNumbersUpTo, Finset.mem_filter, Finset.mem_range] at hm
+    exact hm.2.2 (Nat.mem_smoothNumbers_of_lt
+      (Nat.pos_of_ne_zero hm.2.1) (by omega))
+  have hcard := Nat.smoothNumbersUpTo_card_add_roughNumbersUpTo_card X (y + 1)
+  rw [hrough] at hcard
+  simpa [friableCount] using hcard
+
+theorem dickmanU_le_one {X y : ℕ} (hX : 0 < X) (hy : 1 < y)
+    (hXy : X ≤ y) : dickmanU X y ≤ 1 := by
+  have hlogy : 0 < Real.log (y : ℝ) := Real.log_pos (by exact_mod_cast hy)
+  have hlogxy : Real.log (X : ℝ) ≤ Real.log (y : ℝ) := by
+    apply Real.log_le_log
+    · exact_mod_cast hX
+    · exact_mod_cast hXy
+  rw [dickmanU, div_le_one hlogy]
+  exact hlogxy
+
+
+
+/-- The part of the `p`-smooth count divisible by the newly admitted prime
+`p`. -/
+def primeMultipleCell (X p : ℕ) : Finset ℕ :=
+  (Nat.smoothNumbersUpTo X (p + 1)).filter (p ∣ ·)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Explicit oscillation and Riemann error for the Dickman weight -/
+
+
+open DickmanBasic
+
+noncomputable def invMulLog (t : ℝ) : ℝ := 1 / (t * Real.log t)
+
+noncomputable def logRatio (X t : ℝ) : ℝ := Real.log X / Real.log t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem sum_Ico_inv_sq_le {z y : ℕ} (hz : 1 ≤ z) :
+    (∑ k ∈ Finset.Ico z y, 1 / (k : ℝ) ^ 2) ≤ 2 / (z : ℝ) := by
+  have hfin : Finset.Ico z y = Finset.Ioo (z - 1) y := by
+    ext k
+    simp only [Finset.mem_Ico, Finset.mem_Ioo]
+    omega
+  rw [hfin]
+  have h := sum_Ioo_inv_sq_le (α := ℝ) (z - 1) y
+  have hcast : (((z - 1 : ℕ) : ℝ) + 1) = (z : ℝ) := by
+    rw [Nat.cast_sub hz]
+    norm_num
+  rw [hcast] at h
+  simpa [one_div] using h
+
+
+
+
+/-! ## Quantitative PNT transfer for the Dickman prime weight
+
+The following estimates combine the preceding Chebyshev--Stieltjes identity,
+the audited medium PNT, and the explicit Dickman-weight oscillation bound.
+They are the one-prime analytic input for the finite de Bruijn induction.
+-/
+
+
+
+
+
+theorem harmonic_Ioc_le {z y : ℕ} :
+    (∑ m ∈ Finset.Ioc z y, 1 / (m : ℝ)) ≤ 1 + Real.log (y : ℝ) := by
+  calc
+    (∑ m ∈ Finset.Ioc z y, 1 / (m : ℝ)) ≤
+        ∑ m ∈ Finset.Icc 1 y, 1 / (m : ℝ) := by
+      apply Finset.sum_le_sum_of_subset_of_nonneg
+      · intro m hm
+        rw [Finset.mem_Ioc] at hm
+        rw [Finset.mem_Icc]
+        exact ⟨by omega, hm.2⟩
+      · intro m hm hmn
+        positivity
+    _ = (harmonic y : ℝ) := by
+      rw [harmonic_eq_sum_Icc]
+      simp only [Rat.cast_sum, Rat.cast_inv, Rat.cast_natCast, one_div]
+    _ ≤ 1 + Real.log (y : ℝ) := by exact_mod_cast harmonic_le_one_add_log y
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Uniform floor stability for the recursive Dickman kernel -/
+
+
+
+
+
+
+/-- Chebyshev test weight whose prime mass is `1 / (p log p)`. -/
+noncomputable def invLogThetaWeight (m : ℕ) : ℝ :=
+  1 / ((m : ℝ) * Real.log (m : ℝ) ^ 2)
+
+noncomputable def invLogContinuousWeight (t : ℝ) : ℝ :=
+  1 / (t * Real.log t ^ 2)
+
+noncomputable def invLogAntiderivative (t : ℝ) : ℝ :=
+  -(1 / Real.log t)
+
+theorem invLogContinuousWeight_nat (m : ℕ) :
+    invLogContinuousWeight (m : ℝ) = invLogThetaWeight m := rfl
+
+theorem hasDerivAt_invLogContinuousWeight {t : ℝ} (ht : t ≠ 0)
+    (hlog : Real.log t ≠ 0) :
+    HasDerivAt invLogContinuousWeight
+      (-(Real.log t + 2) / (t ^ 2 * Real.log t ^ 3)) t := by
+  unfold invLogContinuousWeight
+  have hlogsq : HasDerivAt (fun s : ℝ => Real.log s ^ 2)
+      (2 * Real.log t / t) t := by
+    convert (Real.hasDerivAt_log ht).pow 2 using 1
+    field_simp [ht]
+    ring
+  have hden : HasDerivAt (fun s : ℝ => s * Real.log s ^ 2)
+      (Real.log t ^ 2 + 2 * Real.log t) t := by
+    convert (hasDerivAt_id t).mul hlogsq using 1
+    simp only [id_eq]
+    field_simp [ht]
+  have hden0 : t * Real.log t ^ 2 ≠ 0 :=
+    mul_ne_zero ht (pow_ne_zero 2 hlog)
+  have hraw := (hasDerivAt_const t (1 : ℝ)).div hden hden0
+  convert hraw using 1
+  field_simp [ht, hlog]
+  ring
+
+theorem invLog_deriv_bound {k : ℕ} (hk : 2 ≤ k) {t : ℝ}
+    (ht : (k : ℝ) ≤ t) :
+    |-(Real.log t + 2) / (t ^ 2 * Real.log t ^ 3)| ≤
+      20 / (k : ℝ) ^ 2 := by
+  have hkR : (2 : ℝ) ≤ (k : ℝ) := by exact_mod_cast hk
+  have ht2 : (2 : ℝ) ≤ t := hkR.trans ht
+  have htpos : 0 < t := by linarith
+  have hkpos : (0 : ℝ) < (k : ℝ) := by positivity
+  have hloghalf : (1 / 2 : ℝ) ≤ Real.log t := by
+    have hmono : Real.log 2 ≤ Real.log t :=
+      Real.log_le_log (by norm_num) ht2
+    nlinarith [Real.log_two_gt_d9]
+  have hlogpos : 0 < Real.log t := by linarith
+  have hpoly : (Real.log t + 2) / Real.log t ^ 3 ≤ 20 := by
+    apply (div_le_iff₀ (pow_pos hlogpos 3)).2
+    have hfac : 0 ≤ (2 * Real.log t - 1) *
+        (10 * Real.log t ^ 2 + 5 * Real.log t + 2) := by
+      apply mul_nonneg
+      · linarith
+      · nlinarith [sq_nonneg (Real.log t)]
+    nlinarith
+  rw [abs_div, abs_neg, abs_mul,
+    abs_of_nonneg (sq_nonneg t), abs_of_pos (pow_pos hlogpos 3),
+    abs_of_nonneg (by linarith : 0 ≤ Real.log t + 2)]
+  calc
+    (Real.log t + 2) / (t ^ 2 * Real.log t ^ 3) =
+        ((Real.log t + 2) / Real.log t ^ 3) / t ^ 2 := by field_simp
+    _ ≤ 20 / t ^ 2 := div_le_div_of_nonneg_right hpoly (sq_nonneg t)
+    _ ≤ 20 / (k : ℝ) ^ 2 := by gcongr
+
+theorem invLogWeight_cell_oscillation {k : ℕ} (hk : 2 ≤ k)
+    {s t : ℝ} (hs : s ∈ Set.Icc (k : ℝ) (k + 1 : ℕ))
+    (ht : t ∈ Set.Icc (k : ℝ) (k + 1 : ℕ)) :
+    |invLogContinuousWeight s - invLogContinuousWeight t| ≤
+      (20 / (k : ℝ) ^ 2) * |s - t| := by
+  have hdiff (u : ℝ) (hu : u ∈ Set.Icc (k : ℝ) (k + 1 : ℕ)) :
+      DifferentiableAt ℝ invLogContinuousWeight u := by
+    have hu2 : (2 : ℝ) ≤ u := (by exact_mod_cast hk : (2 : ℝ) ≤ k).trans hu.1
+    have hu0 : u ≠ 0 := by linarith
+    have hlogu : Real.log u ≠ 0 :=
+      Real.log_ne_zero_of_pos_of_ne_one (by linarith) (by linarith)
+    exact (hasDerivAt_invLogContinuousWeight hu0 hlogu).differentiableAt
+  have hbound (u : ℝ) (hu : u ∈ Set.Icc (k : ℝ) (k + 1 : ℕ)) :
+      ‖deriv invLogContinuousWeight u‖ ≤ 20 / (k : ℝ) ^ 2 := by
+    have hu2 : (2 : ℝ) ≤ u := (by exact_mod_cast hk : (2 : ℝ) ≤ k).trans hu.1
+    have hu0 : u ≠ 0 := by linarith
+    have hlogu : Real.log u ≠ 0 :=
+      Real.log_ne_zero_of_pos_of_ne_one (by linarith) (by linarith)
+    rw [(hasDerivAt_invLogContinuousWeight hu0 hlogu).deriv,
+      Real.norm_eq_abs]
+    exact invLog_deriv_bound hk hu.1
+  simpa only [Real.norm_eq_abs] using
+    Convex.norm_image_sub_le_of_norm_deriv_le hdiff hbound
+      (convex_Icc (k : ℝ) (k + 1 : ℕ)) ht hs
+
+theorem invLogThetaWeight_abs_le {m : ℕ} (hm : 2 ≤ m) :
+    |invLogThetaWeight m| ≤ 4 / (m : ℝ) := by
+  have hloghalf : (1 / 2 : ℝ) ≤ Real.log (m : ℝ) := by
+    have hmono : Real.log 2 ≤ Real.log (m : ℝ) := by
+      apply Real.log_le_log
+      · norm_num
+      · exact_mod_cast hm
+    nlinarith [Real.log_two_gt_d9]
+  have hmpos : (0 : ℝ) < m := by positivity
+  have hlogpos : 0 < Real.log (m : ℝ) := by linarith
+  rw [invLogThetaWeight, abs_div, abs_one, abs_mul,
+    abs_of_pos hmpos, abs_pow, abs_of_pos hlogpos]
+  apply (div_le_div_iff₀ (mul_pos hmpos (sq_pos_of_pos hlogpos)) hmpos).2
+  nlinarith [sq_nonneg (Real.log (m : ℝ) - 1 / 2)]
+
+theorem invLogWeight_pnt_bound {C : ℝ} (hC : 0 ≤ C)
+    {X₀ z Y : ℕ}
+    (hbound : ∀ T, X₀ ≤ T →
+      |primeLogSumUpTo T - (T : ℝ)| ≤
+        C * ((T : ℝ) / Real.log (T : ℝ) ^ (3 : ℝ)))
+    (hX₀z : X₀ ≤ z) (hz : 2 ≤ z) (hzY : z < Y)
+    (hlogz : 1 ≤ Real.log (z : ℝ))
+    (hlogY : Real.log (Y : ℝ) ≤ 5 * Real.log (z : ℝ)) :
+    |primeThetaWeightedInterval invLogThetaWeight z Y -
+        integerAbelMain invLogThetaWeight z Y| ≤
+      128 * C / Real.log (z : ℝ) ^ 2 := by
+  have hlogzpos : 0 < Real.log (z : ℝ) := lt_of_lt_of_le (by norm_num) hlogz
+  have hlogzY : Real.log (z : ℝ) ≤ Real.log (Y : ℝ) := by
+    apply Real.log_le_log
+    · positivity
+    · exact_mod_cast hzY.le
+  have hgeneric := primeThetaWeightedInterval_pnt_bound
+    invLogThetaWeight (A := (3 : ℝ)) hbound hX₀z hzY
+  simp only [Real.rpow_ofNat] at hgeneric
+  have htermY : |invLogThetaWeight Y| *
+      (C * ((Y : ℝ) / Real.log (Y : ℝ) ^ (3 : ℕ))) ≤
+      4 * C / Real.log (z : ℝ) ^ 2 := by
+    have hY0 : (Y : ℝ) ≠ 0 := by
+      exact_mod_cast (show Y ≠ 0 by omega)
+    calc
+      _ ≤ (4 / (Y : ℝ)) *
+          (C * ((Y : ℝ) / Real.log (Y : ℝ) ^ 3)) := by
+        gcongr
+        exact invLogThetaWeight_abs_le (hz.trans hzY.le)
+      _ = 4 * C / Real.log (Y : ℝ) ^ 3 := by field_simp [hY0]
+      _ ≤ 4 * C / Real.log (z : ℝ) ^ 3 := by gcongr
+      _ ≤ 4 * C / Real.log (z : ℝ) ^ 2 := by
+        have hfac : 0 ≤ 4 * C := by positivity
+        apply div_le_div_of_nonneg_left hfac (pow_pos hlogzpos 2)
+        nlinarith [mul_le_mul_of_nonneg_left hlogz hlogzpos.le]
+  have htermZ : |invLogThetaWeight (z + 1)| *
+      (C * ((z : ℝ) / Real.log (z : ℝ) ^ (3 : ℕ))) ≤
+      4 * C / Real.log (z : ℝ) ^ 2 := by
+    have hf := invLogThetaWeight_abs_le (m := z + 1) (by omega)
+    have hf' : |invLogThetaWeight (z + 1)| ≤ 4 / (z : ℝ) :=
+      hf.trans (by gcongr; omega)
+    calc
+      _ ≤ (4 / (z : ℝ)) *
+          (C * ((z : ℝ) / Real.log (z : ℝ) ^ 3)) := by gcongr
+      _ = 4 * C / Real.log (z : ℝ) ^ 3 := by field_simp
+      _ ≤ 4 * C / Real.log (z : ℝ) ^ 2 := by
+        have hfac : 0 ≤ 4 * C := by positivity
+        apply div_le_div_of_nonneg_left hfac (pow_pos hlogzpos 2)
+        nlinarith [mul_le_mul_of_nonneg_left hlogz hlogzpos.le]
+  have hvar : (∑ m ∈ Finset.Ioc z (Y - 1),
+      |invLogThetaWeight (m + 1) - invLogThetaWeight m| *
+        (C * ((m : ℝ) / Real.log (m : ℝ) ^ (3 : ℕ)))) ≤
+      120 * C / Real.log (z : ℝ) ^ 2 := by
+    have hpoint : ∀ m ∈ Finset.Ioc z (Y - 1),
+        |invLogThetaWeight (m + 1) - invLogThetaWeight m| *
+            (C * ((m : ℝ) / Real.log (m : ℝ) ^ 3)) ≤
+          (20 * C / Real.log (z : ℝ) ^ 3) * (1 / (m : ℝ)) := by
+      intro m hm
+      rw [Finset.mem_Ioc] at hm
+      have hm2 : 2 ≤ m := hz.trans hm.1.le
+      have hdiff : |invLogThetaWeight (m + 1) -
+          invLogThetaWeight m| ≤ 20 / (m : ℝ) ^ 2 := by
+        rw [← invLogContinuousWeight_nat,
+          ← invLogContinuousWeight_nat]
+        have hs : ((m + 1 : ℕ) : ℝ) ∈ Set.Icc (m : ℝ) (m + 1 : ℕ) := by
+          constructor <;> norm_num
+        have ht : (m : ℝ) ∈ Set.Icc (m : ℝ) (m + 1 : ℕ) := by
+          constructor <;> norm_num
+        simpa using invLogWeight_cell_oscillation hm2 hs ht
+      have hlogzm : Real.log (z : ℝ) ≤ Real.log (m : ℝ) := by
+        apply Real.log_le_log
+        · positivity
+        · exact_mod_cast hm.1.le
+      have hlogmpos : 0 < Real.log (m : ℝ) := hlogzpos.trans_le hlogzm
+      calc
+        _ ≤ (20 / (m : ℝ) ^ 2) *
+            (C * ((m : ℝ) / Real.log (m : ℝ) ^ 3)) := by gcongr
+        _ = (20 * C / Real.log (m : ℝ) ^ 3) * (1 / (m : ℝ)) := by
+          field_simp
+        _ ≤ (20 * C / Real.log (z : ℝ) ^ 3) * (1 / (m : ℝ)) := by
+          gcongr
+    have hsum : (∑ m ∈ Finset.Ioc z (Y - 1),
+        |invLogThetaWeight (m + 1) - invLogThetaWeight m| *
+          (C * ((m : ℝ) / Real.log (m : ℝ) ^ 3))) ≤
+        (20 * C / Real.log (z : ℝ) ^ 3) *
+          (∑ m ∈ Finset.Ioc z (Y - 1), 1 / (m : ℝ)) := by
+      rw [Finset.mul_sum]
+      exact Finset.sum_le_sum fun m hm => hpoint m hm
+    have hhar : (∑ m ∈ Finset.Ioc z (Y - 1), 1 / (m : ℝ)) ≤
+        6 * Real.log (z : ℝ) := by
+      calc
+        _ ≤ 1 + Real.log (Y : ℝ) := by
+          exact (harmonic_Ioc_le (z := z) (y := Y - 1)).trans (by
+            have hlogsub : Real.log ((Y - 1 : ℕ) : ℝ) ≤
+                Real.log (Y : ℝ) := by
+              apply Real.log_le_log
+              · exact_mod_cast (show 0 < Y - 1 by omega)
+              · exact_mod_cast (Nat.sub_le Y 1)
+            linarith)
+        _ ≤ 6 * Real.log (z : ℝ) := by linarith
+    calc
+      _ ≤ (20 * C / Real.log (z : ℝ) ^ 3) *
+          (∑ m ∈ Finset.Ioc z (Y - 1), 1 / (m : ℝ)) := hsum
+      _ ≤ (20 * C / Real.log (z : ℝ) ^ 3) *
+          (6 * Real.log (z : ℝ)) := by gcongr
+      _ = 120 * C / Real.log (z : ℝ) ^ 2 := by field_simp; ring
+  calc
+    _ ≤ |invLogThetaWeight Y| *
+          (C * ((Y : ℝ) / Real.log (Y : ℝ) ^ (3 : ℕ))) +
+        |invLogThetaWeight (z + 1)| *
+          (C * ((z : ℝ) / Real.log (z : ℝ) ^ (3 : ℕ))) +
+        ∑ m ∈ Finset.Ioc z (Y - 1),
+          |invLogThetaWeight (m + 1) - invLogThetaWeight m| *
+            (C * ((m : ℝ) / Real.log (m : ℝ) ^ (3 : ℕ))) := hgeneric
+    _ ≤ 4 * C / Real.log (z : ℝ) ^ 2 +
+        4 * C / Real.log (z : ℝ) ^ 2 +
+        120 * C / Real.log (z : ℝ) ^ 2 := by
+      exact add_le_add (add_le_add htermY htermZ) hvar
+    _ = 128 * C / Real.log (z : ℝ) ^ 2 := by ring
+
+theorem hasDerivAt_invLogAntiderivative {t : ℝ} (ht : t ≠ 0)
+    (hlog : Real.log t ≠ 0) :
+    HasDerivAt invLogAntiderivative
+      (invLogContinuousWeight t) t := by
+  unfold invLogAntiderivative invLogContinuousWeight
+  have hraw := (hasDerivAt_const t (1 : ℝ)).div
+    (Real.hasDerivAt_log ht) hlog
+  convert hraw.neg using 1
+  field_simp [ht, hlog]
+  ring
+
+theorem integral_invLogContinuousWeight {z Y : ℕ}
+    (hz : 2 ≤ z) (hzY : z ≤ Y) :
+    (∫ t in (z : ℝ)..(Y : ℝ), invLogContinuousWeight t) =
+      1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ) := by
+  have hcont : ContinuousOn invLogAntiderivative
+      (Set.Icc (z : ℝ) (Y : ℝ)) := by
+    intro t htI
+    have ht2 : (2 : ℝ) ≤ t := (by exact_mod_cast hz : (2 : ℝ) ≤ z).trans htI.1
+    have ht0 : t ≠ 0 := by linarith
+    have hlogt : Real.log t ≠ 0 :=
+      Real.log_ne_zero_of_pos_of_ne_one (by linarith) (by linarith)
+    exact (hasDerivAt_invLogAntiderivative ht0 hlogt).continuousAt.continuousWithinAt
+  have hint : IntervalIntegrable invLogContinuousWeight
+      MeasureTheory.volume (z : ℝ) (Y : ℝ) := by
+    have hcontW : ContinuousOn invLogContinuousWeight
+        (Set.Icc (z : ℝ) (Y : ℝ)) := by
+      intro t htI
+      have ht2 : (2 : ℝ) ≤ t := (by exact_mod_cast hz : (2 : ℝ) ≤ z).trans htI.1
+      have ht0 : t ≠ 0 := by linarith
+      have hlogt : Real.log t ≠ 0 :=
+        Real.log_ne_zero_of_pos_of_ne_one (by linarith) (by linarith)
+      exact (hasDerivAt_invLogContinuousWeight ht0 hlogt).continuousAt.continuousWithinAt
+    rw [← Set.uIcc_of_le (by exact_mod_cast hzY)] at hcontW
+    exact hcontW.intervalIntegrable
+  have hfund := intervalIntegral.integral_eq_sub_of_hasDerivAt_of_le
+    (f := invLogAntiderivative) (f' := invLogContinuousWeight)
+    (by exact_mod_cast hzY) hcont
+    (fun t htI => by
+      have ht2 : (2 : ℝ) < t := (by exact_mod_cast hz : (2 : ℝ) ≤ z).trans_lt htI.1
+      exact hasDerivAt_invLogAntiderivative (by linarith)
+        (Real.log_ne_zero_of_pos_of_ne_one (by linarith) (by linarith)))
+    hint
+  rw [hfund]
+  simp only [invLogAntiderivative]
+  ring
+
+theorem invLogWeight_sum_integral_bound {z Y : ℕ}
+    (hz : 2 ≤ z) (hzY : z ≤ Y) :
+    |(∑ m ∈ Finset.Ioc z Y, invLogThetaWeight m) -
+        ∫ t in (z : ℝ)..(Y : ℝ), invLogContinuousWeight t| ≤
+      40 / (z : ℝ) := by
+  have hint : ∀ k ∈ Set.Ico z Y,
+      IntervalIntegrable invLogContinuousWeight MeasureTheory.volume
+        (k : ℝ) (k + 1 : ℕ) := by
+    intro k hk
+    rw [Set.mem_Ico] at hk
+    have hk2 : 2 ≤ k := hz.trans hk.1
+    have hcont : ContinuousOn invLogContinuousWeight
+        (Set.Icc (k : ℝ) (k + 1 : ℕ)) := by
+      intro t htI
+      have ht2 : (2 : ℝ) ≤ t := (by exact_mod_cast hk2 : (2 : ℝ) ≤ k).trans htI.1
+      have ht0 : t ≠ 0 := by linarith
+      have hlogt : Real.log t ≠ 0 :=
+        Real.log_ne_zero_of_pos_of_ne_one (by linarith) (by linarith)
+      exact (hasDerivAt_invLogContinuousWeight ht0 hlogt).continuousAt.continuousWithinAt
+    rw [← Set.uIcc_of_le (by norm_num : (k : ℝ) ≤ (k + 1 : ℕ))] at hcont
+    exact hcont.intervalIntegrable
+  have hosc : ∀ k ∈ Finset.Ico z Y,
+      ∀ t ∈ Set.Icc (k : ℝ) (k + 1 : ℕ),
+        |invLogContinuousWeight ((k : ℝ) + 1) -
+          invLogContinuousWeight t| ≤ 20 / (k : ℝ) ^ 2 := by
+    intro k hk t htI
+    rw [Finset.mem_Ico] at hk
+    have hk2 : 2 ≤ k := hz.trans hk.1
+    have hs : ((k + 1 : ℕ) : ℝ) ∈ Set.Icc (k : ℝ) (k + 1 : ℕ) := by
+      constructor <;> norm_num
+    have h := invLogWeight_cell_oscillation hk2 hs htI
+    simp only [Nat.cast_add, Nat.cast_one] at h
+    apply h.trans
+    have htI' : (k : ℝ) ≤ t ∧ t ≤ (k : ℝ) + 1 := by
+      simpa only [Nat.cast_add, Nat.cast_one] using htI
+    have hdist0 : 0 ≤ (k : ℝ) + 1 - t := by linarith [htI'.2]
+    rw [abs_of_nonneg hdist0]
+    have hdist1 : (k : ℝ) + 1 - t ≤ 1 := by linarith [htI'.1]
+    calc
+      _ ≤ (20 / (k : ℝ) ^ 2) * 1 :=
+        mul_le_mul_of_nonneg_left hdist1
+          (div_nonneg (by norm_num) (sq_nonneg (k : ℝ)))
+      _ = 20 / (k : ℝ) ^ 2 := by ring
+  have hR := sum_integral_error_bound invLogContinuousWeight
+    (fun k => 20 / (k : ℝ) ^ 2) hzY hint hosc
+  simp only [invLogContinuousWeight_nat] at hR
+  calc
+    _ ≤ ∑ k ∈ Finset.Ico z Y, 20 / (k : ℝ) ^ 2 := hR
+    _ = 20 * ∑ k ∈ Finset.Ico z Y, 1 / (k : ℝ) ^ 2 := by
+      rw [Finset.mul_sum]
+      apply Finset.sum_congr rfl
+      intro k hk
+      ring
+    _ ≤ 20 * (2 / (z : ℝ)) := by
+      exact mul_le_mul_of_nonneg_left
+        (sum_Ico_inv_sq_le (show 1 ≤ z by omega)) (by norm_num)
+    _ = 40 / (z : ℝ) := by ring
+
+noncomputable def primeInvLogSum (z Y : ℕ) : ℝ :=
+  ∑ p ∈ (Y + 1).primesBelow \ (z + 1).primesBelow,
+    1 / ((p : ℝ) * Real.log (p : ℝ))
+
+theorem primeThetaWeightedInterval_invLog (z Y : ℕ) :
+    primeThetaWeightedInterval invLogThetaWeight z Y =
+      primeInvLogSum z Y := by
+  rw [primeThetaWeightedInterval, primeInvLogSum]
+  apply Finset.sum_congr rfl
+  intro p hp
+  have hpprime : p.Prime :=
+    Nat.prime_of_mem_primesBelow (Finset.mem_sdiff.mp hp).1
+  have hlog : Real.log (p : ℝ) ≠ 0 :=
+    Real.log_ne_zero_of_pos_of_ne_one
+      (by exact_mod_cast hpprime.pos) (by exact_mod_cast hpprime.ne_one)
+  rw [invLogThetaWeight]
+  field_simp [hlog]
+
+theorem primeInvLogSum_contraction_of_bound {C : ℝ} (hC : 0 ≤ C)
+    {X₀ z Y : ℕ}
+    (hbound : ∀ T, X₀ ≤ T →
+      |primeLogSumUpTo T - (T : ℝ)| ≤
+        C * ((T : ℝ) / Real.log (T : ℝ) ^ (3 : ℝ)))
+    (hX₀z : X₀ ≤ z) (hz : 2 ≤ z) (hzY : z < Y)
+    (hlogz : 1 ≤ Real.log (z : ℝ))
+    (hlogY : Real.log (Y : ℝ) ≤ 5 * Real.log (z : ℝ))
+    (hsmall : 128 * C / Real.log (z : ℝ) ^ 2 + 40 / (z : ℝ) ≤
+      1 / (10 * Real.log (z : ℝ))) :
+    primeInvLogSum z Y ≤ 9 / (10 * Real.log (z : ℝ)) := by
+  have hlogzpos : 0 < Real.log (z : ℝ) := lt_of_lt_of_le (by norm_num) hlogz
+  have hlogzY : Real.log (z : ℝ) ≤ Real.log (Y : ℝ) := by
+    apply Real.log_le_log
+    · positivity
+    · exact_mod_cast hzY.le
+  have hlogYpos : 0 < Real.log (Y : ℝ) := hlogzpos.trans_le hlogzY
+  have hpnt := invLogWeight_pnt_bound hC hbound hX₀z hz hzY hlogz hlogY
+  rw [primeThetaWeightedInterval_invLog,
+    integerAbelMain_eq_sum_Ioc invLogThetaWeight hzY] at hpnt
+  have hriemann := invLogWeight_sum_integral_bound hz hzY.le
+  rw [integral_invLogContinuousWeight hz hzY.le] at hriemann
+  have htotal : |primeInvLogSum z Y -
+      (1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ))| ≤
+      128 * C / Real.log (z : ℝ) ^ 2 + 40 / (z : ℝ) := by
+    calc
+      _ = |(primeInvLogSum z Y -
+            ∑ m ∈ Finset.Ioc z Y, invLogThetaWeight m) +
+          ((∑ m ∈ Finset.Ioc z Y, invLogThetaWeight m) -
+            (1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ)))| := by ring_nf
+      _ ≤ |primeInvLogSum z Y -
+            ∑ m ∈ Finset.Ioc z Y, invLogThetaWeight m| +
+          |(∑ m ∈ Finset.Ioc z Y, invLogThetaWeight m) -
+            (1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ))| :=
+        abs_add_le _ _
+      _ ≤ _ := add_le_add hpnt hriemann
+  have hmain : 1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ) ≤
+      4 / (5 * Real.log (z : ℝ)) := by
+    have hfrac : (1 / 5 : ℝ) ≤
+        Real.log (z : ℝ) / Real.log (Y : ℝ) := by
+      apply (le_div_iff₀ hlogYpos).2
+      linarith
+    calc
+      1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ) =
+          (1 - Real.log (z : ℝ) / Real.log (Y : ℝ)) /
+            Real.log (z : ℝ) := by field_simp
+      _ ≤ (4 / 5 : ℝ) / Real.log (z : ℝ) := by
+        exact div_le_div_of_nonneg_right (by linarith) hlogzpos.le
+      _ = 4 / (5 * Real.log (z : ℝ)) := by ring
+  have hupper : primeInvLogSum z Y ≤
+      (1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ)) +
+        (128 * C / Real.log (z : ℝ) ^ 2 + 40 / (z : ℝ)) := by
+    have hsigned := (le_abs_self (primeInvLogSum z Y -
+      (1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ)))).trans htotal
+    linarith
+  calc
+    primeInvLogSum z Y ≤
+        (1 / Real.log (z : ℝ) - 1 / Real.log (Y : ℝ)) +
+          (128 * C / Real.log (z : ℝ) ^ 2 + 40 / (z : ℝ)) := hupper
+    _ ≤ 4 / (5 * Real.log (z : ℝ)) +
+          1 / (10 * Real.log (z : ℝ)) := add_le_add hmain hsmall
+    _ = 9 / (10 * Real.log (z : ℝ)) := by ring
+
+/-- The contraction estimate has an absolute lower threshold; all analytic
+hypotheses are discharged from the medium-strength prime number theorem. -/
+theorem exists_primeInvLogSum_contraction_threshold :
+    ∃ Z₀ : ℕ, ∀ {z Y : ℕ}, Z₀ ≤ z → z < Y →
+      Real.log (Y : ℝ) ≤ 5 * Real.log (z : ℝ) →
+      primeInvLogSum z Y ≤ 9 / (10 * Real.log (z : ℝ)) := by
+  obtain ⟨C, hCpos, X₀, hbound⟩ :=
+    exists_primeLogSumUpTo_error_bound (3 : ℝ)
+  have hlogTop : Filter.Tendsto (fun z : ℕ => Real.log (z : ℝ))
+      Filter.atTop Filter.atTop :=
+    Real.tendsto_log_atTop.comp tendsto_natCast_atTop_atTop
+  have hinvlog : Filter.Tendsto
+      (fun z : ℕ => (Real.log (z : ℝ))⁻¹)
+      Filter.atTop (nhds 0) := hlogTop.inv_tendsto_atTop
+  have hlogdiv : Filter.Tendsto
+      (fun z : ℕ => Real.log (z : ℝ) / (z : ℝ))
+      Filter.atTop (nhds 0) := by
+    simpa only [Function.comp_apply, id_eq] using
+      Real.isLittleO_log_id_atTop.tendsto_div_nhds_zero.comp
+        (tendsto_natCast_atTop_atTop (R := ℝ))
+  have hsmallT : Filter.Tendsto
+      (fun z : ℕ =>
+        128 * C * (Real.log (z : ℝ))⁻¹ +
+          40 * (Real.log (z : ℝ) / (z : ℝ)))
+      Filter.atTop (nhds 0) := by
+    convert (tendsto_const_nhds.mul hinvlog).add
+      (tendsto_const_nhds.mul hlogdiv) using 1
+    norm_num
+  have hsmallEvent : ∀ᶠ z : ℕ in Filter.atTop,
+      128 * C * (Real.log (z : ℝ))⁻¹ +
+          40 * (Real.log (z : ℝ) / (z : ℝ)) ≤ 1 / 10 := by
+    have hlt := hsmallT.eventually
+      (Iio_mem_nhds (show (0 : ℝ) < 1 / 10 by norm_num))
+    filter_upwards [hlt] with z hz
+    exact hz.le
+  have hlogEvent : ∀ᶠ z : ℕ in Filter.atTop,
+      1 ≤ Real.log (z : ℝ) :=
+    hlogTop.eventually (Filter.eventually_ge_atTop 1)
+  have hall : ∀ᶠ z : ℕ in Filter.atTop,
+      X₀ ≤ z ∧ 2 ≤ z ∧ 1 ≤ Real.log (z : ℝ) ∧
+        128 * C / Real.log (z : ℝ) ^ 2 + 40 / (z : ℝ) ≤
+          1 / (10 * Real.log (z : ℝ)) := by
+    filter_upwards [Filter.eventually_ge_atTop (max X₀ 2),
+      hlogEvent, hsmallEvent] with z hzbase hlogz hscaled
+    have hX₀z : X₀ ≤ z := (le_max_left X₀ 2).trans hzbase
+    have hz2 : 2 ≤ z := (le_max_right X₀ 2).trans hzbase
+    have hlogpos : 0 < Real.log (z : ℝ) :=
+      lt_of_lt_of_le (by norm_num) hlogz
+    have hmul :
+        (128 * C / Real.log (z : ℝ) ^ 2 + 40 / (z : ℝ)) *
+            Real.log (z : ℝ) ≤ 1 / 10 := by
+      calc
+        _ = 128 * C * (Real.log (z : ℝ))⁻¹ +
+            40 * (Real.log (z : ℝ) / (z : ℝ)) := by
+              field_simp [hlogpos.ne']
+        _ ≤ 1 / 10 := hscaled
+    have hsmall :
+        128 * C / Real.log (z : ℝ) ^ 2 + 40 / (z : ℝ) ≤
+          (1 / 10) / Real.log (z : ℝ) :=
+      (le_div_iff₀ hlogpos).2 hmul
+    refine ⟨hX₀z, hz2, hlogz, ?_⟩
+    convert hsmall using 1
+    ring
+  obtain ⟨Z₀, hZ₀⟩ := Filter.eventually_atTop.mp hall
+  refine ⟨Z₀, ?_⟩
+  intro z Y hz hzY hlogY
+  obtain ⟨hX₀z, hz2, hlogz, hsmall⟩ := hZ₀ z hz
+  exact primeInvLogSum_contraction_of_bound hCpos.le hbound
+    hX₀z hz2 hzY hlogz hlogY hsmall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Erdos390.Full.FriableAsymptotic
+
+end
+
+/- Source module: Erdos390.Full.StructuredCellAsymptotic -/
+section
+
+
+/-!
+# Unconditional Dickman estimate for the actual structured cells
+
+This file composes the exact head-pattern inclusion--exclusion identity with
+the proved uniform friable-number estimate.  In particular, the theorem below
+does not assume a marked-cell asymptotic: its only analytic hypotheses are the
+explicit logarithmic-range inequalities at the finitely many endpoints.
+-/
+
+open scoped BigOperators ArithmeticFunction.Moebius
+
+namespace Erdos390.Full.StructuredCellAsymptotic
+
+open ArithmeticModel DickmanBasic Scale
+open StructuredCells HeadPattern MarkedFriableAsymptotic
+
+/-- The Dickman main term at one integral endpoint. -/
+noncomputable def endpointMain (X y : ℕ) : ℝ :=
+  (X : ℝ) * rho (FriableAsymptotic.dickmanU X y)
+
+/-- The signed main term contributed by one head inclusion--exclusion
+divisor. -/
+noncomputable def headDivisorMain (P : Pattern) (lo hi y d a : ℕ) : ℝ :=
+  (ArithmeticFunction.moebius a : ℝ) *
+    (endpointMain (hi / (P.factor * a * d)) y -
+      endpointMain (lo / (P.factor * a * d)) y)
+
+
+
+
+
+end Erdos390.Full.StructuredCellAsymptotic
+
+end
+
+/- Source module: Erdos390.Full.PaperScaleEndpoint -/
+section
+
+
+/-! Quantitative endpoint specialization at the paper scale. -/
+
+namespace Erdos390.Full.PaperScaleMarkedCell
+
+
+
+
+
+
+
+
+
+
+
+noncomputable def paperDivisorCoordinate (n d : ℕ) : ℝ :=
+  DickmanBasic.U -
+    Real.log (d : ℝ) / Real.log (ArithmeticModel.y n)
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Erdos390.Full.PaperScaleMarkedCell
+
+end
+
+/- Source module: Erdos390.Full.DivisibilityMomentBounds -/
+section
+
+
+/-!
+# Exact multiple-counting moment bounds
+
+The omitted-local-score step in Lemma 7.5 expands a valuation score into
+divisor indicators and then counts common multiples.  This file proves that
+finite combinatorial step for an arbitrary set of positive integers bounded
+by one physical endpoint.  No smooth-number estimate or probability-model
+assumption enters here.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.DivisibilityMomentBounds
+
+open ArithmeticModel
+
+noncomputable section
+
+
+
+
+
+
+
+
+
+/-- The finite divisor-indicator score attached to a family of moduli. -/
+def divisorScore (R : Finset ℕ) (m : ℕ) : ℝ :=
+  ∑ a ∈ R, divInd a m
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- Uniform average over a nonempty finite cell. -/
+def uniformAverage (S : Finset ℕ) (F : ℕ → ℝ) : ℝ :=
+  (∑ m ∈ S, F m) / (S.card : ℝ)
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.DivisibilityMomentBounds
+
+end
+
+/- Source module: Erdos390.Full.PaperScaleMarkedCell -/
+section
+
+
+/-!
+# Paper-scale common main term for marked structured cells
+
+The raw structured-cell asymptotic is a finite sum of endpoint Dickman
+terms.  This module performs the algebraic closure required in the paper:
+the head Möbius coefficient is evaluated exactly, and the endpoint terms
+are compared with one common Dickman translate before normalization.
+-/
+
+open scoped BigOperators ArithmeticFunction.Moebius
+
+namespace Erdos390.Full.PaperScaleMarkedCell
+
+open ArithmeticModel DickmanBasic Scale
+open StructuredCells HeadPattern MarkedFriableAsymptotic
+open StructuredCellAsymptotic
+open DivisibilityMomentBounds
+
+noncomputable section
+
+/-! ## Exact closure of the head Möbius coefficient -/
+
+ def reciprocalAF : ArithmeticFunction ℝ :=
+  ⟨fun n => if n = 0 then 0 else 1 / (n : ℝ), by simp⟩
+
+
+
+
+
+
+
+/-- The fixed positive density of a prescribed head valuation pattern. -/
+def headDensity (P : Pattern) : ℝ :=
+  (1 / (P.factor : ℝ)) *
+    ((P.modulus.totient : ℝ) / (P.modulus : ℝ))
+
+
+
+
+
+/-! ## The common paper-scale main term -/
+
+/-- The single main term remaining after both endpoint specialization and
+head Möbius closure. -/
+def paperMarkedMain (P : Pattern) (A B : ℝ) (n d : ℕ) : ℝ :=
+  headDensity P * ((B - A) * (n : ℝ) / (d : ℝ)) *
+    rho (paperDivisorCoordinate n d)
+
+/-- The positive unmarked density of one fixed physical/head cell. -/
+def paperCellDensity (P : Pattern) (A B : ℝ) : ℝ :=
+  headDensity P * (B - A) * rho DickmanBasic.U
+
+
+
+/-- The paper's normalized marked-divisor main term. -/
+def paperDivisibilityMain (n d : ℕ) : ℝ :=
+  (rho (paperDivisorCoordinate n d) / rho DickmanBasic.U) / (d : ℝ)
+
+@[simp] theorem paperDivisorCoordinate_one (n : ℕ) :
+    paperDivisorCoordinate n 1 = DickmanBasic.U := by
+  simp [paperDivisorCoordinate]
+
+@[simp] theorem paperDivisibilityMain_one (n : ℕ) :
+    paperDivisibilityMain n 1 = 1 := by
+  simp [paperDivisibilityMain, rho_U_ne_zero]
+
+theorem paperMarkedMain_eq_density_mul_divisibility
+    (P : Pattern) (A B : ℝ) {n d : ℕ} (hd : 0 < d) :
+    paperMarkedMain P A B n d =
+      paperCellDensity P A B * (n : ℝ) * paperDivisibilityMain n d := by
+  have hdR : (d : ℝ) ≠ 0 := by exact_mod_cast hd.ne'
+  have hrho : rho DickmanBasic.U ≠ 0 := rho_U_ne_zero
+  unfold paperMarkedMain paperCellDensity paperDivisibilityMain
+  field_simp [hdR, hrho]
+
+@[simp] theorem paperMarkedMain_one (P : Pattern) (A B : ℝ) (n : ℕ) :
+    paperMarkedMain P A B n 1 = paperCellDensity P A B * (n : ℝ) := by
+  rw [paperMarkedMain_eq_density_mul_divisibility P A B (n := n)
+    (d := 1) (by omega), paperDivisibilityMain_one]
+  ring
+
+
+
+
+
+
+
+/-- Fixed coefficient in the error of one physical endpoint. -/
+def endpointCoefficient (C : ℝ) (g : ℕ) : ℝ :=
+  2 + 5 * (Real.log 2 + |Real.log C - Real.log (g : ℝ)|) +
+    (45 / 2 : ℝ) * Real.log 2
+
+
+
+/-- Total fixed endpoint-error coefficient after head inclusion--exclusion. -/
+def endpointFamilyCoefficient (P : Pattern) (C : ℝ) : ℝ :=
+  ∑ a ∈ P.modulus.divisors,
+    |(ArithmeticFunction.moebius a : ℝ)| *
+      (endpointCoefficient C (P.factor * a) *
+        C / ((P.factor * a : ℕ) : ℝ))
+
+
+
+
+
+/-- Fixed total variation of the finite head Möbius ledger. -/
+def headMoebiusMass (P : Pattern) : ℝ :=
+  ∑ a ∈ P.modulus.divisors, |(ArithmeticFunction.moebius a : ℝ)|
+
+
+
+
+
+/-! ## Normalization algebra -/
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.PaperScaleMarkedCell
+
+end
+
+/- Source module: Erdos390.Full.NuisanceCovariance -/
+section
+
+
+/-!
+# Uniform finite nuisance-covariance gaps
+
+This file isolates the finite-dimensional argument used for the actual
+finite-`n` nuisance covariance `Γ_{0,n}`.  There is no limiting mixture.
+The hypotheses are explicit pattern vectors, explicit probability weights,
+a positive lower bound for those weights, and a checkable affine-spanning
+certificate (a continuous linear reconstruction from pair differences).
+
+The second part controls a perturbation of the mixture weights in `ℓ¹` and
+shows that a sufficiently small bounded tilt preserves half of the baseline
+gap.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+
+noncomputable section
+
+/-- A finite probability mixture of explicit nuisance-pattern vectors. -/
+structure PatternMixture
+    (Cell Nuisance : Type*) [Fintype Cell]
+    [NormedAddCommGroup Nuisance] [InnerProductSpace ℝ Nuisance] where
+  weight : Cell → ℝ
+  weight_nonneg : ∀ c, 0 ≤ weight c
+  weight_sum : ∑ c, weight c = 1
+  pattern : Cell → Nuisance
+
+namespace PatternMixture
+
+variable {Cell Nuisance : Type*} [Fintype Cell]
+  [NormedAddCommGroup Nuisance] [InnerProductSpace ℝ Nuisance]
+
+/-- The mixture weights as an actual finite probability law. -/
+def probability (mix : PatternMixture Cell Nuisance) : FiniteProbability Cell where
+  mass := mix.weight
+  mass_nonneg := mix.weight_nonneg
+  mass_sum := mix.weight_sum
+
+/-- The scalar quadratic form of the nuisance covariance matrix in direction
+`x`. -/
+def covarianceForm (mix : PatternMixture Cell Nuisance) (x : Nuisance) : ℝ :=
+  mix.probability.covariance
+    (fun c => inner ℝ x (mix.pattern c))
+    (fun c => inner ℝ x (mix.pattern c))
+
+/-- All ordered pair differences, equipped with the Euclidean norm. -/
+def pairDifferenceAnalysis (mix : PatternMixture Cell Nuisance) :
+    Nuisance →L[ℝ] EuclideanSpace ℝ (Cell × Cell) :=
+  (EuclideanSpace.equiv (Cell × Cell) ℝ).symm.toContinuousLinearMap.comp
+    (ContinuousLinearMap.pi fun ij : Cell × Cell =>
+      (innerSL ℝ) (mix.pattern ij.1 - mix.pattern ij.2))
+
+
+
+
+
+/-- A directly checkable affine-spanning certificate.  It asks for explicit
+linear reconstruction from the complete list of pairwise pattern
+differences; it does not assume a covariance inequality. -/
+structure AffineSpanningCertificate (mix : PatternMixture Cell Nuisance) where
+  reconstruct : EuclideanSpace ℝ (Cell × Cell) →L[ℝ] Nuisance
+  left_inverse : reconstruct.comp mix.pairDifferenceAnalysis =
+    ContinuousLinearMap.id ℝ Nuisance
+
+namespace AffineSpanningCertificate
+
+variable {mix : PatternMixture Cell Nuisance}
+
+
+
+
+
+
+
+
+
+
+
+end AffineSpanningCertificate
+
+theorem weightedVariance_pairDifference
+    (w X : Cell → ℝ) (hsum : ∑ c, w c = 1) :
+    (∑ c, w c * X c ^ 2) - (∑ c, w c * X c) ^ 2 =
+      (1 / 2 : ℝ) *
+        ∑ i, ∑ j, w i * w j * (X i - X j) ^ 2 := by
+  have hA : (∑ i, ∑ j, w i * w j * X i ^ 2) = ∑ i, w i * X i ^ 2 := by
+    calc
+      (∑ i, ∑ j, w i * w j * X i ^ 2)
+          = ∑ i, (w i * X i ^ 2) * ∑ j, w j := by
+              apply Finset.sum_congr rfl
+              intro i _
+              rw [Finset.mul_sum]
+              apply Finset.sum_congr rfl
+              intro j _
+              ring
+      _ = ∑ i, w i * X i ^ 2 := by rw [hsum]; simp
+  have hB : (∑ i, ∑ j, w i * w j * X j ^ 2) = ∑ j, w j * X j ^ 2 := by
+    rw [Finset.sum_comm]
+    calc
+      (∑ j, ∑ i, w i * w j * X j ^ 2)
+          = ∑ j, (w j * X j ^ 2) * ∑ i, w i := by
+              apply Finset.sum_congr rfl
+              intro j _
+              rw [Finset.mul_sum]
+              apply Finset.sum_congr rfl
+              intro i _
+              ring
+      _ = ∑ j, w j * X j ^ 2 := by rw [hsum]; simp
+  have hC : (∑ i, ∑ j, w i * w j * (X i * X j)) =
+      (∑ i, w i * X i) ^ 2 := by
+    calc
+      (∑ i, ∑ j, w i * w j * (X i * X j))
+          = (∑ i, w i * X i) * ∑ j, w j * X j := by
+              rw [Finset.mul_sum]
+              apply Finset.sum_congr rfl
+              intro i _
+              rw [Finset.sum_mul]
+              apply Finset.sum_congr rfl
+              intro j _
+              ring
+      _ = (∑ i, w i * X i) ^ 2 := by ring
+  calc
+    (∑ i, w i * X i ^ 2) - (∑ i, w i * X i) ^ 2
+        = (1 / 2 : ℝ) * ((∑ i, w i * X i ^ 2) +
+            (∑ j, w j * X j ^ 2) - 2 * (∑ i, w i * X i) ^ 2) := by ring
+    _ = (1 / 2 : ℝ) * ((∑ i, ∑ j, w i * w j * X i ^ 2) +
+          (∑ i, ∑ j, w i * w j * X j ^ 2) -
+          2 * (∑ i, ∑ j, w i * w j * (X i * X j))) := by rw [hA, hB, hC]
+    _ = (1 / 2 : ℝ) * ∑ i, ∑ j, w i * w j * (X i - X j) ^ 2 := by
+      congr 1
+      simp_rw [Finset.mul_sum]
+      rw [← Finset.sum_add_distrib, ← Finset.sum_sub_distrib]
+      apply Finset.sum_congr rfl
+      intro i _
+      rw [← Finset.sum_add_distrib, ← Finset.sum_sub_distrib]
+      apply Finset.sum_congr rfl
+      intro j _
+      ring
+
+theorem covarianceForm_pairDifference
+    (mix : PatternMixture Cell Nuisance) (x : Nuisance) :
+    mix.covarianceForm x =
+      (1 / 2 : ℝ) * ∑ i, ∑ j, mix.weight i * mix.weight j *
+        (inner ℝ x (mix.pattern i - mix.pattern j)) ^ 2 := by
+  simp only [covarianceForm, probability, FiniteProbability.covariance,
+    FiniteProbability.expect]
+  simpa only [pow_two, inner_sub_right] using
+    (weightedVariance_pairDifference
+      mix.weight (fun c => inner ℝ x (mix.pattern c)) mix.weight_sum)
+
+
+
+
+
+
+
+/-- Concrete certificate that a coarse pattern vector is the conditional
+mean of an actual finer finite distribution on each cell. -/
+structure CoarseMeanCertificate
+    {Fine : Type*} [Fintype Fine]
+    [DecidableEq Cell]
+    (fine : PatternMixture Fine Nuisance)
+    (coarse : PatternMixture Cell Nuisance) where
+  cell : Fine → Cell
+  cell_mass : ∀ c,
+    ∑ f ∈ (Finset.univ : Finset Fine) with cell f = c, fine.weight f =
+      coarse.weight c
+  cell_firstMoment : ∀ c x,
+    ∑ f ∈ (Finset.univ : Finset Fine) with cell f = c,
+      fine.weight f * inner ℝ x (fine.pattern f) =
+        coarse.weight c * inner ℝ x (coarse.pattern c)
+
+namespace CoarseMeanCertificate
+
+variable {Fine : Type*} [Fintype Fine]
+  [DecidableEq Cell]
+  {fine : PatternMixture Fine Nuisance}
+  {coarse : PatternMixture Cell Nuisance}
+
+theorem global_firstMoment (cert : CoarseMeanCertificate fine coarse)
+    (x : Nuisance) :
+    ∑ f, fine.weight f * inner ℝ x (fine.pattern f) =
+      ∑ c, coarse.weight c * inner ℝ x (coarse.pattern c) := by
+  classical
+  rw [← Finset.sum_fiberwise (Finset.univ : Finset Fine) cert.cell
+    (fun f => fine.weight f * inner ℝ x (fine.pattern f))]
+  apply Finset.sum_congr rfl
+  intro c _
+  exact cert.cell_firstMoment c x
+
+theorem global_cellPatternSq (cert : CoarseMeanCertificate fine coarse)
+    (x : Nuisance) :
+    ∑ f, fine.weight f *
+        (inner ℝ x (coarse.pattern (cert.cell f))) ^ 2 =
+      ∑ c, coarse.weight c * (inner ℝ x (coarse.pattern c)) ^ 2 := by
+  classical
+  rw [← Finset.sum_fiberwise (Finset.univ : Finset Fine) cert.cell
+    (fun f => fine.weight f *
+      (inner ℝ x (coarse.pattern (cert.cell f))) ^ 2)]
+  apply Finset.sum_congr rfl
+  intro c _
+  calc
+    (∑ f ∈ (Finset.univ : Finset Fine) with cert.cell f = c,
+        fine.weight f * (inner ℝ x (coarse.pattern (cert.cell f))) ^ 2)
+        = (∑ f ∈ (Finset.univ : Finset Fine) with cert.cell f = c,
+            fine.weight f) * (inner ℝ x (coarse.pattern c)) ^ 2 := by
+              rw [Finset.sum_mul]
+              apply Finset.sum_congr rfl
+              intro f hf
+              rw [(Finset.mem_filter.mp hf).2]
+    _ = coarse.weight c * (inner ℝ x (coarse.pattern c)) ^ 2 := by
+          rw [cert.cell_mass c]
+
+theorem global_crossMoment (cert : CoarseMeanCertificate fine coarse)
+    (x : Nuisance) :
+    ∑ f, fine.weight f * inner ℝ x (fine.pattern f) *
+        inner ℝ x (coarse.pattern (cert.cell f)) =
+      ∑ c, coarse.weight c * (inner ℝ x (coarse.pattern c)) ^ 2 := by
+  classical
+  rw [← Finset.sum_fiberwise (Finset.univ : Finset Fine) cert.cell
+    (fun f => fine.weight f * inner ℝ x (fine.pattern f) *
+      inner ℝ x (coarse.pattern (cert.cell f)))]
+  apply Finset.sum_congr rfl
+  intro c _
+  calc
+    (∑ f ∈ (Finset.univ : Finset Fine) with cert.cell f = c,
+      fine.weight f * inner ℝ x (fine.pattern f) *
+        inner ℝ x (coarse.pattern (cert.cell f)))
+        = (∑ f ∈ (Finset.univ : Finset Fine) with cert.cell f = c,
+            fine.weight f * inner ℝ x (fine.pattern f)) *
+              inner ℝ x (coarse.pattern c) := by
+                rw [Finset.sum_mul]
+                apply Finset.sum_congr rfl
+                intro f hf
+                rw [(Finset.mem_filter.mp hf).2]
+    _ = coarse.weight c * (inner ℝ x (coarse.pattern c)) ^ 2 := by
+          rw [cert.cell_firstMoment c x]
+          ring
+
+/-- Exact finite law-of-total-variance identity. -/
+theorem covarianceForm_decomposition
+    (cert : CoarseMeanCertificate fine coarse) (x : Nuisance) :
+    fine.covarianceForm x = coarse.covarianceForm x +
+      ∑ f, fine.weight f *
+        (inner ℝ x (fine.pattern f) -
+          inner ℝ x (coarse.pattern (cert.cell f))) ^ 2 := by
+  have hfirst := cert.global_firstMoment x
+  have hcellSq := cert.global_cellPatternSq x
+  have hcross := cert.global_crossMoment x
+  simp only [covarianceForm, probability, FiniteProbability.covariance,
+    FiniteProbability.expect]
+  rw [show (∑ f, fine.weight f *
+      (inner ℝ x (fine.pattern f) * inner ℝ x (fine.pattern f))) =
+      ∑ f, fine.weight f * (inner ℝ x (fine.pattern f)) ^ 2 by
+        apply Finset.sum_congr rfl
+        intro f _
+        ring]
+  rw [show (∑ c, coarse.weight c *
+      (inner ℝ x (coarse.pattern c) * inner ℝ x (coarse.pattern c))) =
+      ∑ c, coarse.weight c * (inner ℝ x (coarse.pattern c)) ^ 2 by
+        apply Finset.sum_congr rfl
+        intro c _
+        ring]
+  have hwithin : (∑ f, fine.weight f *
+      (inner ℝ x (fine.pattern f) -
+        inner ℝ x (coarse.pattern (cert.cell f))) ^ 2) =
+      (∑ f, fine.weight f * (inner ℝ x (fine.pattern f)) ^ 2) -
+        2 * (∑ f, fine.weight f * inner ℝ x (fine.pattern f) *
+          inner ℝ x (coarse.pattern (cert.cell f))) +
+        (∑ f, fine.weight f *
+          (inner ℝ x (coarse.pattern (cert.cell f))) ^ 2) := by
+    calc
+      (∑ f, fine.weight f *
+          (inner ℝ x (fine.pattern f) -
+            inner ℝ x (coarse.pattern (cert.cell f))) ^ 2)
+          = ∑ f, (fine.weight f * (inner ℝ x (fine.pattern f)) ^ 2 -
+              2 * (fine.weight f * inner ℝ x (fine.pattern f) *
+                inner ℝ x (coarse.pattern (cert.cell f))) +
+              fine.weight f *
+                (inner ℝ x (coarse.pattern (cert.cell f))) ^ 2) := by
+                  apply Finset.sum_congr rfl
+                  intro f _
+                  ring
+      _ = (∑ f, fine.weight f * (inner ℝ x (fine.pattern f)) ^ 2) -
+          (∑ f, 2 * (fine.weight f * inner ℝ x (fine.pattern f) *
+            inner ℝ x (coarse.pattern (cert.cell f)))) +
+          (∑ f, fine.weight f *
+            (inner ℝ x (coarse.pattern (cert.cell f))) ^ 2) := by
+              rw [Finset.sum_add_distrib, Finset.sum_sub_distrib]
+      _ = (∑ f, fine.weight f * (inner ℝ x (fine.pattern f)) ^ 2) -
+          2 * (∑ f, fine.weight f * inner ℝ x (fine.pattern f) *
+            inner ℝ x (coarse.pattern (cert.cell f))) +
+          (∑ f, fine.weight f *
+            (inner ℝ x (coarse.pattern (cert.cell f))) ^ 2) := by
+              rw [Finset.mul_sum]
+  rw [hwithin, hfirst, hcellSq, hcross]
+  ring
+
+theorem coarse_covarianceForm_le_fine
+    (cert : CoarseMeanCertificate fine coarse) (x : Nuisance) :
+    coarse.covarianceForm x ≤ fine.covarianceForm x := by
+  rw [cert.covarianceForm_decomposition x]
+  exact le_add_of_nonneg_right (Finset.sum_nonneg fun f _ =>
+    mul_nonneg (fine.weight_nonneg f) (sq_nonneg _))
+
+end CoarseMeanCertificate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end PatternMixture
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.PrimePowerCovariance -/
+section
+
+
+/-!
+# Exact prime-power covariance expansion
+
+This file replaces the algebraic part of the prime-power transfer by proofs
+for the actual valuation and divisor indicators under an actual finite
+probability law.  In particular, `V = I + J` and all `JI`, `IJ`, and `JJ`
+covariances are finite sums of genuine prime-power indicator covariances.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+
+noncomputable section
+
+namespace FiniteProbability
+
+variable {Omega Iota : Type*} [Fintype Omega]
+
+
+
+theorem expect_add (mu : FiniteProbability Omega) (F G : Omega → ℝ) :
+    mu.expect (fun omega ↦ F omega + G omega) = mu.expect F + mu.expect G := by
+  unfold expect
+  simp_rw [mul_add]
+  exact Finset.sum_add_distrib
+
+theorem expect_smul (mu : FiniteProbability Omega) (a : ℝ) (F : Omega → ℝ) :
+    mu.expect (fun omega ↦ a * F omega) = a * mu.expect F := by
+  unfold expect
+  rw [Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro omega _
+  ring
+
+theorem expect_nonneg (mu : FiniteProbability Omega) (F : Omega → ℝ)
+    (hF : ∀ omega, 0 ≤ F omega) : 0 ≤ mu.expect F := by
+  unfold expect
+  exact Finset.sum_nonneg fun omega _ ↦
+    mul_nonneg (mu.mass_nonneg omega) (hF omega)
+
+
+
+
+
+
+
+
+
+
+
+theorem covariance_add_right (mu : FiniteProbability Omega)
+    (F G H : Omega → ℝ) :
+    mu.covariance F (fun omega ↦ G omega + H omega) =
+      mu.covariance F G + mu.covariance F H := by
+  unfold covariance
+  rw [mu.expect_add G H]
+  rw [show (fun omega ↦ F omega * (G omega + H omega)) =
+      fun omega ↦ F omega * G omega + F omega * H omega by
+    funext omega
+    ring]
+  rw [mu.expect_add]
+  ring
+
+
+
+theorem covariance_smul_right (mu : FiniteProbability Omega)
+    (a : ℝ) (F G : Omega → ℝ) :
+    mu.covariance F (fun omega ↦ a * G omega) =
+      a * mu.covariance F G := by
+  unfold covariance
+  rw [mu.expect_smul a G]
+  rw [show (fun omega ↦ F omega * (a * G omega)) =
+      fun omega ↦ a * (F omega * G omega) by
+    funext omega
+    ring]
+  rw [mu.expect_smul]
+  ring
+
+
+
+
+
+
+
+end FiniteProbability
+
+namespace PrimePowerCovariance
+
+open ArithmeticModel
+
+/-- An actual finite law of positive integers with one common endpoint. -/
+structure BoundedValuationLaw (Omega : Type*) [Fintype Omega] (M : ℕ) where
+  probability : FiniteProbability Omega
+  value : Omega → ℕ
+  value_pos : ∀ omega, 0 < value omega
+  value_le : ∀ omega, value omega ≤ M
+
+namespace BoundedValuationLaw
+
+variable {Omega : Type*} [Fintype Omega] {M : ℕ}
+
+def I (law : BoundedValuationLaw Omega M) (p : ℕ) : Omega → ℝ :=
+  fun omega ↦ divInd p (law.value omega)
+
+def V (law : BoundedValuationLaw Omega M) (p : ℕ) : Omega → ℝ :=
+  fun omega ↦ valuation p (law.value omega)
+
+def J (law : BoundedValuationLaw Omega M) (p : ℕ) : Omega → ℝ :=
+  fun omega ↦ higherValuation p (law.value omega)
+
+def Ip (law : BoundedValuationLaw Omega M) (p : ℕ) (k : ℕ) : Omega → ℝ :=
+  fun omega ↦ divInd (p ^ k) (law.value omega)
+
+def covII (law : BoundedValuationLaw Omega M) (p q : ℕ) : ℝ :=
+  law.probability.covariance (law.I p) (law.I q)
+
+def covJI (law : BoundedValuationLaw Omega M) (p q : ℕ) : ℝ :=
+  law.probability.covariance (law.J p) (law.I q)
+
+def covIJ (law : BoundedValuationLaw Omega M) (p q : ℕ) : ℝ :=
+  law.probability.covariance (law.I p) (law.J q)
+
+def covJJ (law : BoundedValuationLaw Omega M) (p q : ℕ) : ℝ :=
+  law.probability.covariance (law.J p) (law.J q)
+
+def covVV (law : BoundedValuationLaw Omega M) (p q : ℕ) : ℝ :=
+  law.probability.covariance (law.V p) (law.V q)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end BoundedValuationLaw
+
+end PrimePowerCovariance
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.OmittedScoreTilt -/
+section
+
+
+/-!
+# Normalized marked-event bounds under an omitted-score tilt
+
+The four-mark step in Lemma 7.5 first omits the forced local primes from
+the score, estimates a marked numerator, and then divides by the tilted
+partition function.  This file proves that normalization step for an actual
+finite probability law.  The result keeps the marked and unmarked
+exponential deviations separate, so a `1 / D` marked moment is not replaced
+by an unscaled total-variation error.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+
+noncomputable section
+
+namespace FiniteProbability
+
+variable {Omega : Type*} [Fintype Omega]
+
+/-- Exponential deviation carrying an additional nonnegative mark. -/
+def markedExponentialDeviation (mu : FiniteProbability Omega)
+    (A S : Omega → ℝ) : ℝ :=
+  mu.expect (fun omega ↦ A omega * |Real.exp (S omega) - 1|)
+
+
+
+
+
+
+
+
+
+
+
+/-- Exact expectation formula under the normalized exponential tilt. -/
+theorem exponentialTilt_expect_eq
+    (mu : FiniteProbability Omega) (A S : Omega → ℝ) :
+    (mu.exponentialTilt S).expect A =
+      mu.expect (fun omega ↦ A omega * Real.exp (S omega)) /
+        mu.expPartition S := by
+  unfold expect
+  change (∑ omega, (mu.mass omega * Real.exp (S omega) /
+      mu.expPartition S) * A omega) = _
+  calc
+    (∑ omega, (mu.mass omega * Real.exp (S omega) /
+        mu.expPartition S) * A omega) =
+        ∑ omega, (mu.mass omega * (A omega * Real.exp (S omega))) /
+          mu.expPartition S := by
+      apply Finset.sum_congr rfl
+      intro omega _
+      ring
+    _ = (∑ omega, mu.mass omega *
+        (A omega * Real.exp (S omega))) / mu.expPartition S := by
+      rw [Finset.sum_div]
+
+
+
+
+
+
+
+
+
+end FiniteProbability
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.UniformFiniteProbability -/
+section
+
+
+/-!
+# Uniform probability on an actual finite cell
+
+This is the exact bridge between counting averages on a finite arithmetic
+cell and the `FiniteProbability` objects used by the tilt and covariance
+modules.  Nonemptiness is explicit, so normalization never divides by a
+silently vanishing cell cardinality.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+
+noncomputable section
+
+namespace FiniteProbability
+
+variable {Alpha : Type*}
+
+/-- Uniform probability on the subtype represented by a nonempty finset. -/
+def uniformOnFinset (S : Finset Alpha) (hS : S.Nonempty) :
+    FiniteProbability S where
+  mass := fun _ ↦ 1 / (S.card : ℝ)
+  mass_nonneg := fun _ ↦ by positivity
+  mass_sum := by
+    rw [Finset.sum_const, nsmul_eq_mul]
+    have huniv : (Finset.univ : Finset S).card = S.card := by
+      rw [Finset.card_univ, Fintype.card_coe]
+    rw [huniv]
+    have hcard : (S.card : ℝ) ≠ 0 := by
+      exact_mod_cast (Finset.card_ne_zero.mpr hS)
+    field_simp
+
+@[simp] theorem uniformOnFinset_mass (S : Finset Alpha) (hS : S.Nonempty)
+    (x : S) :
+    (uniformOnFinset S hS).mass x = 1 / (S.card : ℝ) := rfl
+
+
+
+
+
+
+
+end FiniteProbability
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.ValuationScoreDomination -/
+section
+
+
+open scoped BigOperators
+
+namespace Erdos390.Full.ValuationScoreDomination
+
+open ArithmeticModel DivisibilityMomentBounds
+
+noncomputable section
+
+/-- All prime-power moduli which can occur below the common endpoint `M`. -/
+def primePowerModuli (P : Finset ℕ) (M : ℕ) : Finset ℕ :=
+  (P ×ˢ positiveExponents M).image (fun pk ↦ pk.1 ^ pk.2)
+
+
+
+
+
+/-- The actual valuation score appearing in a compact tilt. -/
+def valuationScore (P : Finset ℕ) (eta : ℕ → ℝ)
+    (L : ℝ) (m : ℕ) : ℝ :=
+  ∑ p ∈ P, (eta p / L) * valuation p m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.ValuationScoreDomination
+
+end
+
+/- Source module: Erdos390.Full.ValuationTiltCell -/
+section
+
+
+/-!
+# Actual compact valuation tilts on a finite cell
+
+This file substitutes the genuine valuation score into the omitted-score
+comparison.  Both divisor-score moments are discharged by exact
+common-multiple counting; no probabilistic independence is assumed.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.ValuationTiltCell
+
+open ArithmeticModel DivisibilityMomentBounds FiniteProbability
+open OmittedScoreCell ValuationScoreDomination
+
+noncomputable section
+
+
+
+/-- The total number of prime factors drawn from primes at least `W` is
+bounded by the physical logarithm.  This is the useful compact-score bound;
+it is independent of the number of primes in the band. -/
+theorem sum_valuation_le_log_ratio
+    (P : Finset ℕ) {m M W : ℕ}
+    (hm : 0 < m) (hmM : m ≤ M)
+    (hW : 1 < W) (hpW : ∀ p ∈ P, W ≤ p) :
+    (∑ p ∈ P, valuation p m) ≤
+      Real.log (M : ℝ) / Real.log (W : ℝ) := by
+  let support : Finset ℕ := m.factorization.support
+  let f : ℕ → ℝ := fun p ↦ valuation p m * Real.log (p : ℝ)
+  have hsumP : (∑ p ∈ P, f p) = ∑ p ∈ P ∩ support, f p := by
+    symm
+    apply Finset.sum_subset Finset.inter_subset_left
+    intro p hpP hpNotInter
+    have hpNotSupport : p ∉ support := by
+      intro hpSupport
+      exact hpNotInter (Finset.mem_inter.mpr ⟨hpP, hpSupport⟩)
+    have hzero : m.factorization p = 0 :=
+      Finsupp.notMem_support_iff.mp (by simpa [support] using hpNotSupport)
+    simp [f, valuation, hzero]
+  have hsubset : P ∩ support ⊆ support := Finset.inter_subset_right
+  have hsumSupport : (∑ p ∈ P ∩ support, f p) ≤
+      ∑ p ∈ support, f p := by
+    apply Finset.sum_le_sum_of_subset_of_nonneg hsubset
+    intro p hpSupport hpNotInter
+    have hpPrime : p.Prime := by
+      exact Nat.prime_of_mem_primeFactors (by simpa [support] using hpSupport)
+    exact mul_nonneg (valuation_nonneg p m)
+      (Real.log_nonneg (by exact_mod_cast hpPrime.one_lt.le))
+  have hfactorization : (∑ p ∈ support, f p) = Real.log (m : ℝ) := by
+    rw [Real.log_nat_eq_sum_factorization]
+    rfl
+  have hweighted : Real.log (W : ℝ) * (∑ p ∈ P, valuation p m) ≤
+      ∑ p ∈ P, f p := by
+    rw [Finset.mul_sum]
+    apply Finset.sum_le_sum
+    intro p hp
+    have hlog : Real.log (W : ℝ) ≤ Real.log (p : ℝ) := by
+      apply Real.log_le_log (by exact_mod_cast hW.le)
+      exact_mod_cast hpW p hp
+    simpa only [f, mul_comm] using
+      mul_le_mul_of_nonneg_left hlog (valuation_nonneg p m)
+  have hlogmM : Real.log (m : ℝ) ≤ Real.log (M : ℝ) := by
+    apply Real.log_le_log (by exact_mod_cast hm)
+    exact_mod_cast hmM
+  have hlogW : 0 < Real.log (W : ℝ) :=
+    Real.log_pos (by exact_mod_cast hW)
+  apply (le_div_iff₀ hlogW).2
+  calc
+    (∑ p ∈ P, valuation p m) * Real.log (W : ℝ) =
+        Real.log (W : ℝ) * (∑ p ∈ P, valuation p m) := by ring
+    _ ≤ ∑ p ∈ P, f p := hweighted
+    _ = ∑ p ∈ P ∩ support, f p := hsumP
+    _ ≤ ∑ p ∈ support, f p := hsumSupport
+    _ = Real.log (m : ℝ) := hfactorization
+    _ ≤ Real.log (M : ℝ) := hlogmM
+
+
+
+
+
+end
+
+end Erdos390.Full.ValuationTiltCell
+
+end
+
+/- Source module: Erdos390.Full.PrimeSums -/
+section
+
+
+/-!
+# Prime sums on the actual moving band
+
+This file derives the finite prime-sum estimates needed in Lemma 7.5 from
+Mathlib's Chebyshev bound.  No prime-sum estimate is introduced as a contract.
+-/
+
+open scoped BigOperators Nat.Prime
+open Filter Topology
+
+namespace Erdos390.Full.PrimeSums
+
+open ArithmeticModel Scale
+
+/-- The full set of primes at most `Y`, written in the same interval form as
+`Chebyshev.theta`. -/
+def primesUpTo (Y : ℕ) : Finset ℕ :=
+  (Finset.Icc 0 Y).filter Nat.Prime
+
+noncomputable def fullLogReciprocalSum (Y : ℕ) : ℝ :=
+  ∑ p ∈ primesUpTo Y, Real.log (p : ℝ) / (p : ℝ)
+
+noncomputable def fullReciprocalSum (Y : ℕ) : ℝ :=
+  ∑ p ∈ primesUpTo Y, 1 / (p : ℝ)
+
+noncomputable def bandLogReciprocalSum (n W : ℕ) : ℝ :=
+  ∑ p ∈ primeBand n W, Real.log (p : ℝ) / (p : ℝ)
+
+noncomputable def bandReciprocalSum (n W : ℕ) : ℝ :=
+  ∑ p ∈ primeBand n W, 1 / (p : ℝ)
+
+noncomputable def bandReciprocalSquareSum (n W : ℕ) : ℝ :=
+  ∑ p ∈ primeBand n W, 1 / (p : ℝ) ^ 2
+
+/-- The weighted first moment of the actual logarithmic prime coordinates. -/
+noncomputable def bandTReciprocalSum (n W : ℕ) : ℝ :=
+  ∑ p ∈ primeBand n W, tPrime n p / (p : ℝ)
+
+ noncomputable def primeLogCoeff (k : ℕ) : ℝ :=
+  if k.Prime then Real.log (k : ℝ) else 0
+
+ theorem sum_primeLogCoeff_Icc (x : ℝ) :
+    (∑ k ∈ Finset.Icc 0 ⌊x⌋₊, primeLogCoeff k) = Chebyshev.theta x := by
+  rw [Chebyshev.theta_eq_sum_Icc]
+  rw [Finset.sum_filter]
+  rfl
+
+
+
+
+
+
+
+
+
+/-- Abel summation for the logarithmically weighted prime harmonic sum.
+This is exported so the moving-cell transfer can subtract two endpoints
+without introducing an unproved Mertens-type input. -/
+theorem fullLogReciprocalSum_eq (Y : ℕ) (hY : 2 ≤ Y) :
+    fullLogReciprocalSum Y =
+      Chebyshev.theta (Y : ℝ) / (Y : ℝ) +
+        ∫ t in (2 : ℝ)..Y, Chebyshev.theta t / t ^ 2 := by
+  let c : ℕ → ℝ := primeLogCoeff
+  have hc0 : c 0 = 0 := by simp [c, primeLogCoeff]
+  have hc1 : c 1 = 0 := by simp [c, primeLogCoeff]
+  have hdiff : ∀ t ∈ Set.Icc (2 : ℝ) Y,
+      DifferentiableAt ℝ (fun x : ℝ => x⁻¹) t := by
+    intro t ht
+    exact differentiableAt_inv (by linarith [ht.1])
+  have hint : MeasureTheory.IntegrableOn
+      (deriv (fun x : ℝ => x⁻¹)) (Set.Icc (2 : ℝ) Y) := by
+    rw [show deriv (fun x : ℝ => x⁻¹) = fun x => -(x ^ 2)⁻¹ by
+      funext x
+      exact deriv_inv]
+    apply ContinuousOn.integrableOn_Icc
+    intro t ht
+    have ht0 : t ≠ 0 := by linarith [ht.1]
+    have ht20 : t ^ 2 ≠ 0 := pow_ne_zero 2 ht0
+    exact ContinuousAt.continuousWithinAt (((continuousAt_id.pow 2).inv₀ ht20).neg)
+  have habel := sum_mul_eq_sub_integral_mul₁ (f := fun x : ℝ => x⁻¹)
+    c hc0 hc1 (Y : ℝ) hdiff hint
+  rw [← intervalIntegral.integral_of_le (by exact_mod_cast hY)] at habel
+  rw [show (⌊(Y : ℝ)⌋₊ : ℕ) = Y by simp] at habel
+  have hcumY : (∑ k ∈ Finset.Icc 0 Y, c k) = Chebyshev.theta (Y : ℝ) := by
+    simpa [c] using sum_primeLogCoeff_Icc (Y : ℝ)
+  have hcum : ∀ t : ℝ,
+      (∑ k ∈ Finset.Icc 0 ⌊t⌋₊, c k) = Chebyshev.theta t := by
+    intro t
+    simpa [c] using sum_primeLogCoeff_Icc t
+  rw [hcumY] at habel
+  simp_rw [hcum] at habel
+  simp_rw [deriv_inv] at habel
+  have hlhs :
+      (∑ k ∈ Finset.Icc 0 Y, (k : ℝ)⁻¹ * c k) =
+        fullLogReciprocalSum Y := by
+    simp [fullLogReciprocalSum, primesUpTo, c, primeLogCoeff,
+      Finset.sum_filter, div_eq_mul_inv, mul_comm]
+  rw [hlhs] at habel
+  have hInt :
+      (∫ x in (2 : ℝ)..Y, -(x ^ 2)⁻¹ * Chebyshev.theta x) =
+        -(∫ x in (2 : ℝ)..Y, Chebyshev.theta x / x ^ 2) := by
+    calc
+      (∫ x in (2 : ℝ)..Y, -(x ^ 2)⁻¹ * Chebyshev.theta x) =
+          ∫ x in (2 : ℝ)..Y, -(Chebyshev.theta x / x ^ 2) := by
+            apply intervalIntegral.integral_congr
+            intro x hx
+            simp only [div_eq_mul_inv]
+            ring
+      _ = -(∫ x in (2 : ℝ)..Y, Chebyshev.theta x / x ^ 2) :=
+        intervalIntegral.integral_neg
+  rw [hInt] at habel
+  calc
+    fullLogReciprocalSum Y =
+        (Y : ℝ)⁻¹ * Chebyshev.theta (Y : ℝ) +
+          ∫ x in (2 : ℝ)..Y, Chebyshev.theta x / x ^ 2 := by
+      linarith
+    _ = Chebyshev.theta (Y : ℝ) / (Y : ℝ) +
+        ∫ t in (2 : ℝ)..Y, Chebyshev.theta t / t ^ 2 := by
+      rw [div_eq_mul_inv]
+      ring
+
+ theorem deriv_inv_mul_log {x : ℝ} (hx : x ≠ 0)
+    (hlog : Real.log x ≠ 0) :
+    deriv (fun z : ℝ => (z * Real.log z)⁻¹) x =
+      -(Real.log x + 1) / (x ^ 2 * Real.log x ^ 2) := by
+  have hmul : HasDerivAt (fun z : ℝ => z * Real.log z)
+      (Real.log x + x * x⁻¹) x := by
+    simpa only [one_mul, id_eq] using
+      (hasDerivAt_id x).mul (Real.hasDerivAt_log hx)
+  have hinv : HasDerivAt (fun z : ℝ => (z * Real.log z)⁻¹)
+      (-(Real.log x + x * x⁻¹) / (x * Real.log x) ^ 2) x :=
+    hmul.inv (mul_ne_zero hx hlog)
+  rw [hinv.deriv]
+  field_simp
+
+/-- Abel summation formula for the prime harmonic sum.  This is exported for
+the moving-band quadrature: subtracting the formula at two endpoints makes
+the Mertens constant disappear. -/
+theorem fullReciprocalSum_eq (Y : ℕ) (hY : 2 ≤ Y) :
+    fullReciprocalSum Y =
+      Chebyshev.theta (Y : ℝ) /
+          ((Y : ℝ) * Real.log (Y : ℝ)) +
+        ∫ t in (2 : ℝ)..Y,
+          Chebyshev.theta t * (Real.log t + 1) /
+            (t ^ 2 * Real.log t ^ 2) := by
+  let c : ℕ → ℝ := primeLogCoeff
+  have hc0 : c 0 = 0 := by simp [c, primeLogCoeff]
+  have hc1 : c 1 = 0 := by simp [c, primeLogCoeff]
+  have hdiff : ∀ t ∈ Set.Icc (2 : ℝ) Y,
+      DifferentiableAt ℝ (fun x : ℝ => (x * Real.log x)⁻¹) t := by
+    intro t ht
+    have ht0 : t ≠ 0 := by linarith [ht.1]
+    have hlog0 : Real.log t ≠ 0 :=
+      Real.log_ne_zero_of_pos_of_ne_one (by linarith [ht.1]) (by linarith [ht.1])
+    exact (((differentiableAt_id.mul (Real.differentiableAt_log ht0))).inv
+      (mul_ne_zero ht0 hlog0))
+  have hint : MeasureTheory.IntegrableOn
+      (deriv (fun x : ℝ => (x * Real.log x)⁻¹)) (Set.Icc (2 : ℝ) Y) := by
+    apply ContinuousOn.integrableOn_Icc
+    intro t ht
+    have ht0 : t ≠ 0 := by linarith [ht.1]
+    have hlog0 : Real.log t ≠ 0 :=
+      Real.log_ne_zero_of_pos_of_ne_one (by linarith [ht.1]) (by linarith [ht.1])
+    have hcont : ContinuousWithinAt
+        (fun u : ℝ => -(Real.log u + 1) / (u ^ 2 * Real.log u ^ 2))
+        (Set.Icc (2 : ℝ) Y) t :=
+      ContinuousAt.continuousWithinAt
+        (((Real.continuousAt_log ht0).add continuousAt_const).neg.div
+          ((continuousAt_id.pow 2).mul ((Real.continuousAt_log ht0).pow 2))
+          (mul_ne_zero (pow_ne_zero 2 ht0) (pow_ne_zero 2 hlog0)))
+    refine hcont.congr (fun (u : ℝ) hu => ?_) ?_
+    · exact deriv_inv_mul_log
+        (by linarith [hu.1])
+        (Real.log_ne_zero_of_pos_of_ne_one
+          (by linarith [hu.1]) (by linarith [hu.1]))
+    · exact deriv_inv_mul_log ht0 hlog0
+  have habel := sum_mul_eq_sub_integral_mul₁
+    (f := fun x : ℝ => (x * Real.log x)⁻¹)
+    c hc0 hc1 (Y : ℝ) hdiff hint
+  rw [← intervalIntegral.integral_of_le (by exact_mod_cast hY)] at habel
+  rw [show (⌊(Y : ℝ)⌋₊ : ℕ) = Y by simp] at habel
+  have hcumY : (∑ k ∈ Finset.Icc 0 Y, c k) = Chebyshev.theta (Y : ℝ) := by
+    simpa [c] using sum_primeLogCoeff_Icc (Y : ℝ)
+  have hcum : ∀ t : ℝ,
+      (∑ k ∈ Finset.Icc 0 ⌊t⌋₊, c k) = Chebyshev.theta t := by
+    intro t
+    simpa [c] using sum_primeLogCoeff_Icc t
+  rw [hcumY] at habel
+  simp_rw [hcum] at habel
+  have hlhs :
+      (∑ k ∈ Finset.Icc 0 Y, ((k : ℝ) * Real.log (k : ℝ))⁻¹ * c k) =
+        fullReciprocalSum Y := by
+    rw [fullReciprocalSum, primesUpTo, Finset.sum_filter]
+    apply Finset.sum_congr rfl
+    intro k hk
+    by_cases hprime : k.Prime
+    · have hk0 : (k : ℝ) ≠ 0 := by exact_mod_cast hprime.ne_zero
+      have hlog0 : Real.log (k : ℝ) ≠ 0 :=
+        Real.log_ne_zero_of_pos_of_ne_one
+          (by exact_mod_cast hprime.pos) (by exact_mod_cast hprime.ne_one)
+      simp only [c, primeLogCoeff, hprime, if_true]
+      field_simp
+    · simp [c, primeLogCoeff, hprime]
+  rw [hlhs] at habel
+  have hInt :
+      (∫ x in (2 : ℝ)..Y,
+        deriv (fun z : ℝ => (z * Real.log z)⁻¹) x * Chebyshev.theta x) =
+        -(∫ x in (2 : ℝ)..Y,
+          Chebyshev.theta x * (Real.log x + 1) /
+            (x ^ 2 * Real.log x ^ 2)) := by
+    calc
+      (∫ x in (2 : ℝ)..Y,
+        deriv (fun z : ℝ => (z * Real.log z)⁻¹) x * Chebyshev.theta x) =
+          ∫ x in (2 : ℝ)..Y,
+            -(Chebyshev.theta x * (Real.log x + 1) /
+              (x ^ 2 * Real.log x ^ 2)) := by
+        apply intervalIntegral.integral_congr
+        intro x hx
+        rw [Set.uIcc_of_le (by exact_mod_cast hY)] at hx
+        have hx0 : x ≠ 0 := by linarith [hx.1]
+        have hlog0 : Real.log x ≠ 0 :=
+          Real.log_ne_zero_of_pos_of_ne_one
+            (by linarith [hx.1]) (by linarith [hx.1])
+        change deriv (fun z : ℝ => (z * Real.log z)⁻¹) x * Chebyshev.theta x = _
+        rw [deriv_inv_mul_log hx0 hlog0]
+        ring
+      _ = -(∫ x in (2 : ℝ)..Y,
+          Chebyshev.theta x * (Real.log x + 1) /
+            (x ^ 2 * Real.log x ^ 2)) := intervalIntegral.integral_neg
+  rw [hInt] at habel
+  have hY0 : (Y : ℝ) ≠ 0 := by positivity
+  have hlogY0 : Real.log (Y : ℝ) ≠ 0 :=
+    Real.log_ne_zero_of_pos_of_ne_one (by positivity) (by exact_mod_cast (show Y ≠ 1 by omega))
+  calc
+    fullReciprocalSum Y =
+        (((Y : ℝ) * Real.log (Y : ℝ))⁻¹ * Chebyshev.theta (Y : ℝ)) +
+          ∫ x in (2 : ℝ)..Y,
+            Chebyshev.theta x * (Real.log x + 1) /
+              (x ^ 2 * Real.log x ^ 2) := by
+      linarith
+    _ = Chebyshev.theta (Y : ℝ) /
+          ((Y : ℝ) * Real.log (Y : ℝ)) +
+        ∫ t in (2 : ℝ)..Y,
+          Chebyshev.theta t * (Real.log t + 1) /
+            (t ^ 2 * Real.log t ^ 2) := by
+      field_simp
+
+/-- Local integrability of the first Abel kernel. -/
+theorem intervalIntegrable_theta_div_sq {Y : ℝ} (hY : 2 ≤ Y) :
+    IntervalIntegrable (fun t : ℝ => Chebyshev.theta t / t ^ 2)
+      MeasureTheory.volume 2 Y := by
+  rw [intervalIntegrable_iff_integrableOn_Icc_of_le hY]
+  conv =>
+    arg 1
+    ext t
+    rw [Chebyshev.theta, div_eq_mul_inv, mul_comm, Finset.sum_filter]
+  refine integrableOn_mul_sum_Icc _ (by norm_num) ?_
+  apply ContinuousOn.integrableOn_Icc
+  intro t ht
+  have ht0 : t ≠ 0 := by linarith [ht.1]
+  exact ContinuousAt.continuousWithinAt ((continuousAt_id.pow 2).inv₀ (pow_ne_zero 2 ht0))
+
+/-- Local integrability of the Abel-summation integrand. -/
+theorem intervalIntegrable_mertensIntegrand {Y : ℝ} (hY : 2 ≤ Y) :
+    IntervalIntegrable
+      (fun t : ℝ => Chebyshev.theta t * (Real.log t + 1) /
+        (t ^ 2 * Real.log t ^ 2)) MeasureTheory.volume 2 Y := by
+  rw [intervalIntegrable_iff_integrableOn_Icc_of_le hY]
+  have hg : MeasureTheory.IntegrableOn
+      (fun t : ℝ =>
+        ((Real.log t + 1) / (t ^ 2 * Real.log t ^ 2)) * Chebyshev.theta t)
+      (Set.Icc (2 : ℝ) Y) := by
+    conv =>
+      arg 1
+      ext t
+      rw [Chebyshev.theta, Finset.sum_filter]
+    refine integrableOn_mul_sum_Icc _ (by norm_num) ?_
+    apply ContinuousOn.integrableOn_Icc
+    intro t ht
+    have ht0 : t ≠ 0 := by linarith [ht.1]
+    have hlog0 : Real.log t ≠ 0 :=
+      Real.log_ne_zero_of_pos_of_ne_one (by linarith [ht.1]) (by linarith [ht.1])
+    exact (((Real.continuousAt_log ht0).add continuousAt_const).div
+        ((continuousAt_id.pow 2).mul ((Real.continuousAt_log ht0).pow 2))
+        (mul_ne_zero (pow_ne_zero 2 ht0) (pow_ne_zero 2 hlog0))).continuousWithinAt
+  exact hg.congr_fun (by
+    intro t ht
+    ring) measurableSet_Icc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Erdos390.Full.PrimeSums
+
+end
+
+/- Source module: Erdos390.Full.OmittedTiltMarkedProbability -/
+section
+
+
+/-!
+# Actual omitted-score marked probabilities
+
+This module joins the paper-scale structured-cell count to the genuine
+finite valuation tilt.  The local forced primes are omitted from the score,
+so their marked modulus is coprime to every score prime.  No marked-number
+asymptotic or normalization estimate remains as an input.
+-/
+
+open Filter Topology
+open scoped BigOperators
+
+namespace Erdos390.Full.OmittedTiltMarkedProbability
+
+open ArithmeticModel Scale PrimeSums
+open StructuredCells HeadPattern
+open DivisibilityMomentBounds FiniteProbability
+open PaperScaleMarkedCell PaperTiltSmallness ValuationScoreDomination
+open DickmanBasic
+
+noncomputable section
+
+/-- The explicit common majorant for every omitted-score subset of the
+moving prime band. -/
+def omittedTiltMajorant (B C c : ℝ) (W n : ℕ) : ℝ :=
+  Real.exp
+      ((B / L n) *
+        (Real.log (physicalBound C n : ℝ) / Real.log (W : ℝ))) *
+    (B / L n) * ((2 / c) * bandReciprocalSum n W)
+
+
+
+
+
+/-- A single nonnegative remainder combining the untilted marked-count
+error and the omitted-score normalization error. -/
+def omittedTiltRemainder (K B C c : ℝ) (W n : ℕ) : ℝ :=
+  |K / L n| +
+    2 * |omittedTiltMajorant B C c W n| *
+      (1 + 1 / rho DickmanBasic.U + |K / L n|)
+
+
+
+
+
+/-! ## The actual omitted-score marked law -/
+
+
+
+end
+
+end Erdos390.Full.OmittedTiltMarkedProbability
+
+end
+
+/- Source module: Erdos390.Full.LocalFugacity -/
+section
+
+
+/-!
+# Exact restoration of one local fugacity
+
+This proves the finite telescoping identity used when an omitted prime is
+restored in the tilted measure.  The coefficients are the actual
+`λ^a-λ^(a-1)` coefficients and the indicators are actual divisibility
+indicators.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.LocalFugacity
+
+open ArithmeticModel
+
+def coefficient (lam : ℝ) (a : ℕ) : ℝ :=
+  if a = 0 then 1 else lam ^ a - lam ^ (a - 1)
+
+@[simp] theorem coefficient_zero (lam : ℝ) : coefficient lam 0 = 1 := by
+  simp [coefficient]
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Erdos390.Full.LocalFugacity
+
+end
+
+/- Source module: Erdos390.Full.LocalFugacityRestoration -/
+section
+
+
+/-!
+# Exact restoration of omitted local fugacities
+
+The paper omits one or two forced primes from the global score and then
+restores their local fugacity by a finite divisor-indicator expansion.  This
+file proves that restoration identity for the actual valuation and for an
+actual finite probability law.  No approximation or independence assumption
+is used here.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.LocalFugacityRestoration
+
+open ArithmeticModel LocalFugacity
+
+noncomputable section
+
+/-- The local divisor expansion, including the exponent-zero coefficient. -/
+def localFactor (p A : ℕ) (lam : ℝ) (m : ℕ) : ℝ :=
+  ∑ a ∈ Finset.Icc 0 A, coefficient lam a * divInd (p ^ a) m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section Probability
+
+variable {Omega : Type*} [Fintype Omega]
+
+
+
+
+
+end Probability
+
+end
+
+end Erdos390.Full.LocalFugacityRestoration
+
+end
+
+/- Source module: Erdos390.Full.LocalFugacityBounds -/
+section
+
+
+/-!
+# Uniform bounds for restored local fugacity coefficients
+
+The local restoration in Lemma 7.5 must retain both the factor `1 / L`
+and the geometric factor `p^{-r}`.  Cardinality bounds on the exponent set
+are too crude for that purpose.  This module proves the required shifted
+geometric estimates directly for the actual coefficients
+`exp (eta/L)^a - exp (eta/L)^(a-1)`.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full.LocalFugacityBounds
+
+open LocalFugacity
+
+noncomputable section
+
+
+
+
+
+ def linearHalfTerm (i : ℕ) : ℝ :=
+  ((i : ℝ) + 3) * (1 / (2 : ℝ)) ^ i
+
+
+
+
+
+
+
+
+
+
+
+ def quadraticHalfTerm (i : ℕ) : ℝ :=
+  (((2 * i + 1) * (i + 3) : ℕ) : ℝ) *
+    (1 / (2 : ℝ)) ^ i
+
+
+
+/-- A fixed absolute constant for the diagonal coefficient ledger.  Its
+precise numerical value is irrelevant; what matters is that it is defined
+before every tilt box and is proved finite by an arithmetic--geometric
+series. -/
+def quadraticHalfMass : ℝ := ∑' i : ℕ, quadraticHalfTerm i
+
+
+
+
+
+
+
+/-- The weighted coefficient mass used when restoring one omitted local
+prime.  The exponent cutoff is finite and literal. -/
+def coefficientTail (p A r : ℕ) (eta L : ℝ) : ℝ :=
+  ∑ a ∈ Finset.Icc 1 A,
+    |coefficient (Real.exp (eta / L)) a| /
+      ((p ^ max r a : ℕ) : ℝ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.LocalFugacityBounds
+
+end
+
+/- Source module: Erdos390.Full.ValuationCutoff -/
+section
+
+
+/-!
+# The actual logarithmic valuation cutoff
+
+The local fugacity expansion must be truncated at
+`floor(log M / log p)`, not at the much larger physical endpoint `M`.
+This module identifies Mathlib's `Nat.log p M` as a valid common cutoff for
+all positive integers `m ≤ M`, proves the exact restored factor at that
+cutoff, and compares it with the real logarithmic ratio used in the paper.
+-/
+
+namespace Erdos390.Full.ValuationCutoff
+
+open ArithmeticModel LocalFugacityRestoration
+
+noncomputable section
+
+/-- The largest possible exponent of `p` below the physical endpoint `M`. -/
+def valuationCutoff (p M : ℕ) : ℕ := Nat.log p M
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.ValuationCutoff
+
+end
+
+/- Source module: Erdos390.Full.TwoLocalRestoration -/
+section
+
+
+/-!
+# Exact restoration of two omitted local primes
+
+The omitted-score marked law is reweighted by the two literal local
+valuation fugacities.  This file proves the exact finite identity connecting
+that sequential reweighting to the full valuation tilt and then expands both
+the marked numerator and the normalizer into prime-power indicators.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+
+open ArithmeticModel FiniteProbability ValuationScoreDomination
+open LocalFugacity LocalFugacityRestoration ValuationCutoff
+
+noncomputable section
+
+namespace FiniteProbability
+
+variable {Omega : Type*} [Fintype Omega]
+
+
+
+
+
+
+
+end FiniteProbability
+
+namespace TwoLocalRestoration
+
+/-- Remove two distinct local primes from a finite score set. -/
+def erasePair (P : Finset ℕ) (p q : ℕ) : Finset ℕ :=
+  (P.erase p).erase q
+
+
+
+
+
+
+
+section Cell
+
+variable {S : Finset ℕ}
+
+
+
+
+
+end Cell
+
+end TwoLocalRestoration
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.OmittedTiltPairChamber -/
+section
+
+
+/-!
+# The actual omitted-tilt two-prime four-mark chamber
+
+This file specializes the uniform marked-divisibility theorem to the literal
+moduli `p^a q^b` occurring in the two-local restoration of Lemma 7.5.  All
+side conditions are discharged from membership of `p,q` in the paper prime
+band, the four-mark inequality `a+b <= 4`, and coprimality with the fixed
+head.  In particular, the theorem below is about the genuine structured
+cell and the genuine omitted valuation score, not an abstract probability
+law or a conditional analytic contract.
+-/
+
+open Filter Topology
+
+namespace Erdos390.Full.OmittedTiltPairChamber
+
+open ArithmeticModel Scale StructuredCells HeadPattern
+open FiniteProbability ValuationScoreDomination
+open PaperScaleMarkedCell OmittedTiltMarkedProbability
+open TwoLocalRestoration
+
+noncomputable section
+
+/-- The literal two-prime-power modulus used in the four-mark chamber. -/
+def pairPower (p q a b : ℕ) : ℕ := p ^ a * q ^ b
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.OmittedTiltPairChamber
+
+end
+
+/- Source module: Erdos390.Full.GuardDeletionProbability -/
+section
+
+
+/-!
+# Exact perturbation bounds for deleting a finite guard set
+
+This module contains the finite-probability algebra used by the guarded-cell
+corollary after the arithmetic guard census supplies a cardinality bound.
+Deletion is defined on the original finite sample type (guarded points receive
+mass zero) and is normalized exactly.  The expectation and covariance losses
+are proved from the deleted mass; they are not stored in a certificate.
+-/
+
+open scoped BigOperators
+
+namespace Erdos390.Full
+namespace FiniteProbability
+
+noncomputable section
+
+variable {Omega : Type*} [Fintype Omega] [DecidableEq Omega]
+
+/-- Probability mass carried by the declared guard set. -/
+def guardMass (mu : FiniteProbability Omega) (G : Finset Omega) : ℝ :=
+  ∑ x ∈ G, mu.mass x
+
+
+
+
+
+/- A guard census and a point-mass bound give the deleted-mass bound used in
+the marked-cell application.  This is an inequality for the actual deleted
+set, rather than a total-variation hypothesis stored in a certificate. -/
+
+
+
+
+
+
+
+
+theorem sum_mass_complement_guard
+    (mu : FiniteProbability Omega) (G : Finset Omega) :
+    (∑ x ∈ (Finset.univ \ G), mu.mass x) = 1 - mu.guardMass G := by
+  have h := Finset.sum_sdiff (Finset.subset_univ G) (f := mu.mass)
+  rw [mu.mass_sum] at h
+  unfold guardMass
+  linarith
+
+/-- The probability law obtained after deleting `G` and renormalizing. -/
+def deleteGuards (mu : FiniteProbability Omega) (G : Finset Omega)
+    (hsmall : mu.guardMass G < 1) : FiniteProbability Omega where
+  mass x := if x ∈ G then 0 else mu.mass x / (1 - mu.guardMass G)
+  mass_nonneg x := by
+    split_ifs
+    · exact le_rfl
+    · exact div_nonneg (mu.mass_nonneg x) (sub_nonneg.mpr hsmall.le)
+  mass_sum := by
+    have hden : 1 - mu.guardMass G ≠ 0 := ne_of_gt (sub_pos.mpr hsmall)
+    calc
+      (∑ x, if x ∈ G then 0 else
+          mu.mass x / (1 - mu.guardMass G)) =
+          ∑ x ∈ (Finset.univ \ G),
+            mu.mass x / (1 - mu.guardMass G) := by
+        rw [Finset.sdiff_eq_filter, Finset.sum_filter]
+        apply Finset.sum_congr rfl
+        intro x hx
+        by_cases hxG : x ∈ G <;> simp [hxG]
+      _ = (∑ x ∈ (Finset.univ \ G), mu.mass x) /
+          (1 - mu.guardMass G) := by rw [Finset.sum_div]
+      _ = 1 := by
+        rw [mu.sum_mass_complement_guard G]
+        exact div_self hden
+
+@[simp] theorem deleteGuards_mass_of_mem
+    (mu : FiniteProbability Omega) (G : Finset Omega)
+    (hsmall : mu.guardMass G < 1) {x : Omega} (hx : x ∈ G) :
+    (mu.deleteGuards G hsmall).mass x = 0 := by
+  simp [deleteGuards, hx]
+
+@[simp] theorem deleteGuards_mass_of_not_mem
+    (mu : FiniteProbability Omega) (G : Finset Omega)
+    (hsmall : mu.guardMass G < 1) {x : Omega} (hx : x ∉ G) :
+    (mu.deleteGuards G hsmall).mass x =
+      mu.mass x / (1 - mu.guardMass G) := by
+  simp [deleteGuards, hx]
+
+/-- Guard contribution to an unnormalized moment. -/
+def guardMoment (mu : FiniteProbability Omega) (G : Finset Omega)
+    (F : Omega → ℝ) : ℝ :=
+  ∑ x ∈ G, mu.mass x * F x
+
+
+
+/-- A normalized scalar measuring the effect of deleting the guard mass. -/
+def guardPerturbation (mu : FiniteProbability Omega) (G : Finset Omega) : ℝ :=
+  2 * mu.guardMass G / (1 - mu.guardMass G)
+
+
+
+/- On the paper's small-deletion regime, the exact renormalization loss is
+at most four times the deleted probability mass. -/
+
+
+
+
+
+
+
+
+
+
+end
+
+end FiniteProbability
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.GuardedUniformCell -/
+section
+
+
+/-!
+# Guard deletion on an actual uniform arithmetic cell
+
+The paper deletes an ambient finite guard set from each structured cell.
+This module constructs the literal guard subset of the cell, proves that its
+cardinality is no larger than the ambient guard census, and combines that fact
+with the bounded-tilt density ratio.  No total-variation or covariance error is
+assumed.
+-/
+
+namespace Erdos390.Full
+
+open FiniteProbability
+
+noncomputable section
+
+namespace GuardedUniformCell
+
+variable {Alpha : Type*} [DecidableEq Alpha]
+
+/-- Members of `S` whose ambient value lies in the guard set `G`. -/
+def guardSubtype (S G : Finset Alpha) : Finset S :=
+  Finset.univ.filter fun x : S => (x : Alpha) ∈ G
+
+@[simp] theorem mem_guardSubtype {S G : Finset Alpha} {x : S} :
+    x ∈ guardSubtype S G ↔ (x : Alpha) ∈ G := by
+  simp [guardSubtype]
+
+
+
+
+
+
+
+
+
+end GuardedUniformCell
+
+end
+
+end Erdos390.Full
+
+end
+
+/- Source module: Erdos390.Full.PaperGuardCensus -/
+section
+
+
+/-!
+# The concrete numerical-guard census used by the smooth bridge
+
+The rough construction has only two kinds of numerical occurrences which can
+meet one of the active smooth cells:
+
+* promoted smooth anchors, in `O(y)` slots;
+* endpoints (and the possible donor occurrence) of an `O(y)` family of bank
+  paths, with at most one component at each geometric scale.
+
+This file represents those occurrences by a literal finite slot type and
+defines the numerical guard set as the image of its value map.  Consequently
+the guard-cardinality estimate is a theorem about `Finset.image`; it is not a
+field of a contract and it is not assumed about an arbitrary finset.
+
+The number of geometric slots is fixed here to `ceil(log n)+1`.  This is a
+harmless enlargement of the paper's geometric-scale list and makes the
+`O(y log n)` census completely explicit.  Multiple slots are allowed to map to
+the same integer; this only makes the proved image-cardinality bound stronger.
+-/
+
+open scoped BigOperators
+open Filter Topology
+
+namespace Erdos390.Full.PaperGuardCensus
+
+open ArithmeticModel Scale StructuredCells HeadPattern
+open FiniteProbability GuardedUniformCell ValuationTiltCell
+
+noncomputable section
+
+/-- A concrete upper bound for the number of geometric bank scales. -/
+def scaleSlots (n : ℕ) : ℕ := ⌈L n⌉₊ + 1
+
+/-- The three bank occurrences which are guarded at one component: its two
+states and its designated backing donor.  A donor lying above the physical
+cells simply has empty intersection with those cells. -/
+inductive BankGuardRole
+  | stateZero
+  | stateOne
+  | donor
+  deriving DecidableEq, Fintype
+
+/-- Literal occurrence slots in the bridge-relevant guard census.  The fixed
+natural constants `Cprom` and `Cbank` are the construction's absolute path
+multiplicities. -/
+abbrev GuardSlot (n Cprom Cbank : ℕ) :=
+  Fin (Cprom * yNat n) ⊕
+    (Fin (Cbank * yNat n) × Fin (scaleSlots n) × BankGuardRole)
+
+/-- The data retained from the bank/anchor construction: the actual integer
+owned by every concrete occurrence slot.  There is deliberately no
+cardinality field. -/
+structure Ledger (n Cprom Cbank : ℕ) where
+  value : GuardSlot n Cprom Cbank → ℕ
+
+/-- The exhaustive numerical guards which can meet an active smooth cell. -/
+def Ledger.guards {n Cprom Cbank : ℕ} (G : Ledger n Cprom Cbank) : Finset ℕ :=
+  Finset.univ.image G.value
+
+/-- Exact number of occurrence slots before possible collisions of their
+integer values. -/
+theorem card_guardSlot (n Cprom Cbank : ℕ) :
+    Fintype.card (GuardSlot n Cprom Cbank) =
+      Cprom * yNat n + Cbank * yNat n * scaleSlots n * 3 := by
+  simp only [GuardSlot, Fintype.card_sum, Fintype.card_fin,
+    Fintype.card_prod]
+  have hrole : Fintype.card BankGuardRole = 3 := by decide
+  rw [hrole]
+  ring
+
+
+
+
+
+
+
+
+
+/-- Explicit real majorant for the ratio `#guards / n`. -/
+def censusRatioMajorant (Cprom Cbank : ℕ) (n : ℕ) : ℝ :=
+  ((Cprom : ℝ) + 3 * (Cbank : ℝ) * (L n + 2)) * y n / (n : ℝ)
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Erdos390.Full.PaperGuardCensus
+
+end
+
+/- Source module: Erdos390.Proposition87 -/
+section
+
+
+/-!
+# The finite and ODE algebra behind Proposition 8.7
+
+The analytic inputs to the nonlinear fit (uniform covariance gaps, relative row
+errors, and existence of an integral curve inside the preselected box) are kept as
+explicit hypotheses.  This file proves the block solve, the slow-coordinate and
+effective-velocity ledgers, compatibility recovery, and the straight-target chain
+rule with no hidden limiting assertion.
+-/
+
+open Metric Set
+
+namespace Erdos390
+
+section BlockInverse
+
+variable {Q : Type*} [AddCommGroup Q] [Module ℝ Q]
+
+
+
+
+
+
+
+
+
+end BlockInverse
+
+section SlowCoordinateBounds
+
+
+
+
+
+
+
+end SlowCoordinateBounds
+
+section GaugeAnnihilator
+
+variable {E : Type*} [AddCommGroup E] [Module ℝ E]
+
+
+
+
+
+end GaugeAnnihilator
+
+section PrechosenBox
+
+variable {E : Type*} [PseudoMetricSpace E]
+
+
+
+end PrechosenBox
+
+section StraightTarget
+
+variable {E Y : Type*}
+  [NormedAddCommGroup E] [NormedSpace ℝ E]
+  [NormedAddCommGroup Y] [NormedSpace ℝ Y]
+
+/-- Explicit path-existence hypothesis for the nonlinear continuation step.
+
+In the paper this proposition is discharged by Picard--Lindelöf together with the
+preselected-box continuation estimate.  Keeping it as a named predicate prevents
+the chain-rule algebra below from silently assuming that the path remains in the
+box. -/
+def HasStraightTargetPath (Ω : Set E) (v : E → E) (x₀ : E) : Prop :=
+  ∃ ξ : ℝ → E, ξ 0 = x₀ ∧
+    (∀ t ∈ Icc (0 : ℝ) 1, ξ t ∈ Ω) ∧
+    ∀ t ∈ Icc (0 : ℝ) 1,
+      HasDerivWithinAt ξ (v (ξ t)) (Icc (0 : ℝ) 1) t
+
+
+
+
+
+
+
+
+
+end StraightTarget
+
+end Erdos390
+
+end
+
+/- Source module: Erdos390.Full.NonlinearFitODE -/
+section
+
+
+/-!
+# The finite nonlinear moment lift
+
+This file turns the scalar covariance--Jacobian identity for a finite
+exponential family into the vector Jacobian used by the nonlinear fitting
+argument.  A quantitative covariance gap is then used to construct the
+inverse Jacobian (rather than assuming a right inverse), define the actual
+ODE vector field, and prove its exact solve and velocity estimates.
+
+The final section records a non-circular continuation theorem.  Its input is
+an explicit covariance gap on a ball chosen before solving the ODE; local
+Lipschitz continuity is derived from the finite exponential formulas and
+operator inversion.
+-/
+
+open scoped BigOperators
+open Metric Set
+
+namespace Erdos390.Full
+
+noncomputable section
+
+/-- A self-dual finite exponential family.  The tilt score of a sample is the
+inner product with its statistic. -/
+structure VectorExponentialFamily
+    (Omega E : Type*) [Fintype Omega]
+    [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+    [FiniteDimensional ℝ E] where
+  baseWeight : Omega → ℝ
+  baseWeight_nonneg : ∀ omega, 0 ≤ baseWeight omega
+  baseMass_pos : 0 < ∑ omega, baseWeight omega
+  scale : ℝ
+  scale_pos : 0 < scale
+  statistic : Omega → E
+
+namespace VectorExponentialFamily
+
+variable {Omega E : Type*} [Fintype Omega]
+  [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+  [FiniteDimensional ℝ E]
+
+/-- The scalar family underlying a vector exponential family. -/
+def scalarFamily (vf : VectorExponentialFamily Omega E) :
+    FiniteExponentialFamily Omega E where
+  baseWeight := vf.baseWeight
+  baseWeight_nonneg := vf.baseWeight_nonneg
+  baseMass_pos := vf.baseMass_pos
+  scale := vf.scale
+  scale_pos := vf.scale_pos
+  score := fun omega => (innerSL ℝ) (vf.statistic omega)
+
+/-- Total active mass. -/
+def baseMass (vf : VectorExponentialFamily Omega E) : ℝ :=
+  vf.scalarFamily.baseMass
+
+theorem baseMass_positive (vf : VectorExponentialFamily Omega E) :
+    0 < vf.baseMass :=
+  vf.scalarFamily.baseMass_positive
+
+/-- The exact normalized tilted probability mass. -/
+def probabilityMass (vf : VectorExponentialFamily Omega E)
+    (xi : E) (omega : Omega) : ℝ :=
+  vf.scalarFamily.probabilityMass xi omega
+
+/-- The active vector moment map. -/
+def vectorMoment (vf : VectorExponentialFamily Omega E) (xi : E) : E :=
+  ∑ omega, vf.scalarFamily.activeWeight xi omega • vf.statistic omega
+
+/-- Kronecker test function used to differentiate one active weight. -/
+def delta (omega : Omega) (eta : Omega) : ℝ := by
+  classical
+  exact if eta = omega then 1 else 0
+
+@[simp]
+theorem moment_delta (vf : VectorExponentialFamily Omega E)
+    (xi : E) (omega : Omega) :
+    vf.scalarFamily.moment (delta omega) xi =
+      vf.scalarFamily.activeWeight xi omega := by
+  classical
+  simp [FiniteExponentialFamily.moment, delta]
+
+/-- Derivative of one active coordinate, obtained from the already proved
+finite covariance identity. -/
+def activeWeightFDeriv (vf : VectorExponentialFamily Omega E)
+    (xi : E) (omega : Omega) : E →L[ℝ] ℝ :=
+  (vf.baseMass / vf.scale) •
+    vf.scalarFamily.covarianceScore (delta omega) xi
+
+theorem hasFDerivAt_activeWeight (vf : VectorExponentialFamily Omega E)
+    (xi : E) (omega : Omega) :
+    HasFDerivAt (fun eta => vf.scalarFamily.activeWeight eta omega)
+      (vf.activeWeightFDeriv xi omega) xi := by
+  have h := vf.scalarFamily.hasFDerivAt_moment_covariance
+    (delta omega) xi
+  have hfun : vf.scalarFamily.moment (delta omega) =
+      fun eta => vf.scalarFamily.activeWeight eta omega := by
+    funext eta
+    exact vf.moment_delta eta omega
+  rw [hfun] at h
+  simpa only [activeWeightFDeriv, baseMass] using h
+
+/-- The concrete vector Jacobian.  It is a finite sum of the derivatives of
+the active weights, each multiplied by its statistic vector. -/
+def jacobian (vf : VectorExponentialFamily Omega E) (xi : E) : E →L[ℝ] E :=
+  ∑ omega, (vf.activeWeightFDeriv xi omega).smulRight (vf.statistic omega)
+
+/-- Exact Fréchet derivative of the vector moment map. -/
+theorem hasFDerivAt_vectorMoment (vf : VectorExponentialFamily Omega E)
+    (xi : E) :
+    HasFDerivAt vf.vectorMoment (vf.jacobian xi) xi := by
+  have h := HasFDerivAt.sum (u := (Finset.univ : Finset Omega))
+    (fun omega (_ : omega ∈ (Finset.univ : Finset Omega)) =>
+      (vf.hasFDerivAt_activeWeight xi omega).smul_const
+        (vf.statistic omega))
+  have hfun : vf.vectorMoment =
+      ∑ omega, fun eta =>
+        vf.scalarFamily.activeWeight eta omega • vf.statistic omega := by
+    funext eta
+    simp only [vectorMoment, Finset.sum_apply]
+  rw [hfun]
+  simpa only [jacobian] using h
+
+/-- Pairing the vector moment with a direction gives the corresponding
+scalar active moment. -/
+theorem inner_vectorMoment (vf : VectorExponentialFamily Omega E)
+    (x xi : E) :
+    inner ℝ x (vf.vectorMoment xi) =
+      vf.scalarFamily.moment (fun omega => inner ℝ x (vf.statistic omega)) xi := by
+  simp only [vectorMoment, FiniteExponentialFamily.moment, inner_sum,
+    real_inner_smul_right]
+
+/-- The tilted statistics as an actual finite pattern mixture. -/
+def tiltedMixture (vf : VectorExponentialFamily Omega E) (xi : E) :
+    PatternMixture Omega E where
+  weight := vf.probabilityMass xi
+  weight_nonneg := vf.scalarFamily.probabilityMass_nonneg xi
+  weight_sum := vf.scalarFamily.probabilityMass_sum xi
+  pattern := vf.statistic
+
+/-- Exact quadratic covariance identity for the vector Jacobian. -/
+theorem inner_jacobian_self (vf : VectorExponentialFamily Omega E)
+    (xi x : E) :
+    inner ℝ x (vf.jacobian xi x) =
+      (vf.baseMass / vf.scale) * (vf.tiltedMixture xi).covarianceForm x := by
+  let F : Omega → ℝ := fun omega => inner ℝ x (vf.statistic omega)
+  have hleft : HasFDerivAt
+      (fun eta => inner ℝ x (vf.vectorMoment eta))
+      (((innerSL ℝ) x).comp (vf.jacobian xi)) xi := by
+    exact ((innerSL ℝ) x).hasFDerivAt.comp xi
+      (vf.hasFDerivAt_vectorMoment xi)
+  have hright : HasFDerivAt
+      (vf.scalarFamily.moment F)
+      ((vf.baseMass / vf.scale) •
+        vf.scalarFamily.covarianceScore F xi) xi :=
+    vf.scalarFamily.hasFDerivAt_moment_covariance F xi
+  have hfun : (fun eta => inner ℝ x (vf.vectorMoment eta)) =
+      vf.scalarFamily.moment F := by
+    funext eta
+    exact vf.inner_vectorMoment x eta
+  have hmaps : ((innerSL ℝ) x).comp (vf.jacobian xi) =
+      (vf.baseMass / vf.scale) •
+        vf.scalarFamily.covarianceScore F xi := by
+    exact hleft.unique (hfun ▸ hright)
+  have happ := congrArg (fun T : E →L[ℝ] ℝ => T x) hmaps
+  change inner ℝ x (vf.jacobian xi x) =
+    (vf.baseMass / vf.scale) *
+      vf.scalarFamily.covarianceScore F xi x at happ
+  rw [vf.scalarFamily.covarianceScore_apply F xi x] at happ
+  have hscore : (fun omega => vf.scalarFamily.score omega x) = F := by
+    funext omega
+    simp only [scalarFamily, innerSL_apply_apply, F]
+    exact real_inner_comm _ _
+  rw [hscore] at happ
+  simpa only [tiltedMixture, PatternMixture.covarianceForm,
+    PatternMixture.probability, FiniteExponentialFamily.covariance,
+    FiniteExponentialFamily.tiltedProbability, probabilityMass, smul_eq_mul]
+    using happ
+
+/-- A pointwise spectral-gap hypothesis for the actual tilted finite law. -/
+def HasCovarianceGap (vf : VectorExponentialFamily Omega E)
+    (gamma : ℝ) (xi : E) : Prop :=
+  ∀ x, gamma * ‖x‖ ^ 2 ≤ (vf.tiltedMixture xi).covarianceForm x
+
+theorem jacobian_coercive (vf : VectorExponentialFamily Omega E)
+    {gamma : ℝ} {xi : E}
+    (hgap : vf.HasCovarianceGap gamma xi) (x : E) :
+    ((vf.baseMass / vf.scale) * gamma) * ‖x‖ ^ 2 ≤
+      inner ℝ x (vf.jacobian xi x) := by
+  rw [vf.inner_jacobian_self xi x]
+  simpa only [mul_assoc] using
+    (mul_le_mul_of_nonneg_left (hgap x)
+      (div_nonneg (le_of_lt vf.baseMass_positive)
+        (le_of_lt vf.scale_pos)))
+
+theorem jacobian_injective (vf : VectorExponentialFamily Omega E)
+    {gamma : ℝ} (hgamma : 0 < gamma) {xi : E}
+    (hgap : vf.HasCovarianceGap gamma xi) :
+    Function.Injective (vf.jacobian xi) := by
+  intro x y hxy
+  have hzero : vf.jacobian xi (x - y) = 0 := by
+    rw [map_sub, hxy, sub_self]
+  have hcoer := vf.jacobian_coercive hgap (x - y)
+  rw [hzero, inner_zero_right] at hcoer
+  have hcpos : 0 < (vf.baseMass / vf.scale) * gamma :=
+    mul_pos (div_pos vf.baseMass_positive vf.scale_pos) hgamma
+  have hnorm : ‖x - y‖ = 0 := by
+    by_contra hn
+    have hnormpos : 0 < ‖x - y‖ :=
+      lt_of_le_of_ne (norm_nonneg (x - y)) (Ne.symm hn)
+    have hprodpos : 0 <
+        ((vf.baseMass / vf.scale) * gamma) * ‖x - y‖ ^ 2 :=
+      mul_pos hcpos (sq_pos_of_pos hnormpos)
+    linarith
+  exact sub_eq_zero.mp (norm_eq_zero.mp hnorm)
+
+/-- The Jacobian as a continuous linear equivalence, constructed from the
+proved covariance gap. -/
+def jacobianEquiv [CompleteSpace E]
+    (vf : VectorExponentialFamily Omega E)
+    {gamma : ℝ} (hgamma : 0 < gamma) {xi : E}
+    (hgap : vf.HasCovarianceGap gamma xi) : E ≃L[ℝ] E := by
+  let J := vf.jacobian xi
+  have hinj : Function.Injective J := vf.jacobian_injective hgamma hgap
+  have hsurj : Function.Surjective J :=
+    LinearMap.surjective_of_injective hinj
+  exact ContinuousLinearEquiv.ofBijective J
+    (LinearMap.ker_eq_bot.mpr hinj)
+    (LinearMap.range_eq_top.mpr hsurj)
+
+
+
+/-- The actual globally defined vector field.  At a point with a covariance
+gap this is the genuine inverse-Jacobian lift of `target`. -/
+def vectorField (vf : VectorExponentialFamily Omega E) (target : E)
+    (xi : E) : E :=
+  (vf.jacobian xi).inverse target
+
+
+
+
+
+/-! ## Smoothness and non-circular continuation -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end VectorExponentialFamily
+
+end
+
+end Erdos390.Full
+
+end
+
+

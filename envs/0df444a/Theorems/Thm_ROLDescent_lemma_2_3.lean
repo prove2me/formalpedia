@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ROLDescent_lemma_2_3
 -- name    : ROLDescent.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T21:45:08.934001+00:00
 -- url     : https://prove2.me/theorems/69918e62-324c-4fad-8fe4-325640eee74a

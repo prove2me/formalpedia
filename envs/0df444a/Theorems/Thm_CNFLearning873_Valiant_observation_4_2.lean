@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CNFLearning873_Valiant_observation_4_2
 -- name    : CNFLearning873.Valiant.observation_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T05:08:01.240391+00:00
 -- url     : https://prove2.me/theorems/97e1bcde-8f5b-46d6-b3ce-515b7cce5a4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_progressivelyMeasurable_charStrictPred_im
 -- name    : LevyStochCalc.Poisson.progressivelyMeasurable_charStrictPred_im
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:00:31.479965+00:00
 -- url     : https://prove2.me/theorems/e8c88b28-846c-44d1-a23c-b524d8e1b576

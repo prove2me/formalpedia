@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_observation_5_79
 -- name    : CoDecompFO.observation_5_79
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:49:28.026206+00:00
 -- url     : https://prove2.me/theorems/ba42a224-fa5c-4a70-bdf3-3333122eea51

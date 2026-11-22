@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_brownianPassageHalfStableLevyProcessZeroBoundaryV2
 -- name    : Kyprianou.Ch01.brownianPassageHalfStableLevyProcessZeroBoundaryV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-16T23:29:39.770048+00:00
 -- url     : https://prove2.me/theorems/c00d1109-b567-498d-abaa-d7e6077b53ed

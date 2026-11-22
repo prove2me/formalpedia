@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_lundbergBound
 -- name    : Kyprianou.Ch01.lundbergBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T08:13:23.274219+00:00
 -- url     : https://prove2.me/theorems/0fe00e81-e0b2-4188-a389-c2aae3b12348

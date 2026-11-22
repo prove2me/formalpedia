@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.source_result81_law_positive_mgf
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-20T20:02:55.35219+00:00
 -- url     : https://prove2.me/submissions/c3a52ff5-88a1-48e8-9bfa-e1aa1ea75d3f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_weak_moment_transfer

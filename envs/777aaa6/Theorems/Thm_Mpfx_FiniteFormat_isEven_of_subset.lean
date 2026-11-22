@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_FiniteFormat_isEven_of_subset
 -- name    : Mpfx.FiniteFormat.isEven_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:50:56.501491+00:00
 -- url     : https://prove2.me/theorems/06578df3-73fc-4e71-a207-70742abe6320

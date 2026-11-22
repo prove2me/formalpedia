@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Mpfx_nearest_eq_rndDown_of_lt_midp
 -- name    : Mpfx.nearest_eq_rndDown_of_lt_midp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-21T05:57:02.57893+00:00
 -- url     : https://prove2.me/theorems/7ab304cb-c196-4a64-bca8-d060c9b0758c

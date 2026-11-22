@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseGaussianZeroBoundaryStationaryIncrementsV1
 -- name    : Kyprianou.Ch01.inverseGaussianZeroBoundaryStationaryIncrementsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T23:03:34.022189+00:00
 -- url     : https://prove2.me/theorems/083a0f74-e0b1-43ae-b3ac-704bfe8cc85e

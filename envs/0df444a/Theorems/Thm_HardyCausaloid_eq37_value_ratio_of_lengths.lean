@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyCausaloid_eq37_value_ratio_of_lengths
 -- name    : HardyCausaloid.eq37_value_ratio_of_lengths
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T17:20:39.82031+00:00
 -- url     : https://prove2.me/theorems/1da8421b-53f4-44e3-b13e-1b1b3aba21f1

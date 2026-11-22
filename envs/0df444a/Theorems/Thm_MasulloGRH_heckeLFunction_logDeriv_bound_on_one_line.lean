@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_heckeLFunction_logDeriv_bound_on_one_line
 -- name    : MasulloGRH.heckeLFunction_logDeriv_bound_on_one_line
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T03:44:22.454072+00:00
 -- url     : https://prove2.me/theorems/593d9608-ecd0-4d3f-9174-0673b710f30b

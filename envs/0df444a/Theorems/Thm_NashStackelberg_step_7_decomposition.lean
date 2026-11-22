@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashStackelberg_step_7_decomposition
 -- name    : NashStackelberg.step_7_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:14:12.879793+00:00
 -- url     : https://prove2.me/theorems/2b2b70ca-4432-4707-a806-de741ccb0da7
