@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_nodup_append_right__a582c6ad4e63
 -- name    : P2M_GridHam_nodup_append_right__a582c6ad4e63
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:47:07.49771+00:00
 -- url     : https://prove2.me/theorems/2570c2bf-411e-4e05-8bed-d90d46965d3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HadamardInequality_P_hadamard_inequality_holds
 -- name    : Formalism.HadamardInequality.P.hadamard_inequality_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:02:50.873986+00:00
 -- url     : https://prove2.me/theorems/5b5dcef5-fcd8-4408-995e-511fb00ec906

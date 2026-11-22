@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_no_prev_of_head
 -- name    : GridHam.no_prev_of_head
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:44:53.388689+00:00
 -- url     : https://prove2.me/theorems/ada105c0-ea8b-46be-8eb0-23ee44b4fdb4

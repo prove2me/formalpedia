@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_zmod_two_one_add_one
 -- name    : Formalism.D5.zmod_two_one_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:30.95814+00:00
 -- url     : https://prove2.me/theorems/f21b5b6e-afca-49c3-899a-4232b9b6d637

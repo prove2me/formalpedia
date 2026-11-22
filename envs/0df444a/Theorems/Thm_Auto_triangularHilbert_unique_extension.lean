@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_triangularHilbert_unique_extension
 -- name    : Auto.triangularHilbert_unique_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T19:44:25.128377+00:00
 -- url     : https://prove2.me/theorems/0d95dae4-b6c0-4eb6-82d1-5ef0920f50eb

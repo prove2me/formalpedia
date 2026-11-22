@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_pnext_pos
 -- name    : GridHam.pnext_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:46:43.116197+00:00
 -- url     : https://prove2.me/theorems/090c7549-aecd-4465-9c82-78536bc79516

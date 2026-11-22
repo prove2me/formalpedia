@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_glAct_pol
 -- name    : Formalism.CountingSumsFrames.glAct_pol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:23:33.607975+00:00
 -- url     : https://prove2.me/theorems/6a62b003-3a6c-4973-b2fa-5d9ab16021f1

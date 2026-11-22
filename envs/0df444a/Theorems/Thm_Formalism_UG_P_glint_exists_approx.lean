@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_glint_exists_approx
 -- name    : Formalism.UG.P.glint_exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:25:36.803338+00:00
 -- url     : https://prove2.me/theorems/63401afe-9339-4a6d-9fcf-6ed48000696d

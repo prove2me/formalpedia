@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_prod_split
 -- name    : PI.WeylForKWork.prod_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:15.492489+00:00
 -- url     : https://prove2.me/theorems/48080e4b-de57-4b3a-8072-ca87a683aa50

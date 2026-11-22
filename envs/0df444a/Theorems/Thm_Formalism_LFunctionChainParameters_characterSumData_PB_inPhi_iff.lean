@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_inPhi_iff
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.inPhi_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:30.841896+00:00
 -- url     : https://prove2.me/theorems/6c7d87e4-774e-4911-b251-15d325841190

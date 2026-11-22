@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_colSeg_head
 -- name    : GridHam.colSeg_head
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:42:46.822797+00:00
 -- url     : https://prove2.me/theorems/81ed2187-ea91-422d-8f8b-70982e6e7d99

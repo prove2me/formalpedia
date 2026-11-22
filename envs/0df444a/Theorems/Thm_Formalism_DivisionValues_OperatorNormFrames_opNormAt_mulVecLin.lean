@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_OperatorNormFrames_opNormAt_mulVecLin
 -- name    : Formalism.DivisionValues.OperatorNormFrames.opNormAt_mulVecLin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:41.803804+00:00
 -- url     : https://prove2.me/theorems/5e28ba30-34d7-419b-82b3-b3fb9abe9ee8

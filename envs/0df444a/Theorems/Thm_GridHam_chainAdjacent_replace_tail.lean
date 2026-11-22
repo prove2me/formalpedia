@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chainAdjacent_replace_tail
 -- name    : GridHam.chainAdjacent_replace_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:43:10.504054+00:00
 -- url     : https://prove2.me/theorems/e4524882-5397-48d2-8dcd-f3ad6a57e166

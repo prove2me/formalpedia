@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_accA_w1
 -- name    : GridHam.accA_w1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:43:58.845101+00:00
 -- url     : https://prove2.me/theorems/ed6ad50a-3620-4cb4-9c01-0014a768b91c

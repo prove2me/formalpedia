@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_sourceGaussian_bound
 -- name    : Auto.sourceGaussian_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:55:59.990251+00:00
 -- url     : https://prove2.me/theorems/ea9475a0-9675-4610-913c-cca28eb675af

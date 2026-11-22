@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_signZModTwo_one
 -- name    : Formalism.D5.signZModTwo_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:37.951357+00:00
 -- url     : https://prove2.me/theorems/69f35d90-f690-43d9-aae6-f741979ba601

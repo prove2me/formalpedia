@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_Fnl_zero
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.Fnl.zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:08.888799+00:00
 -- url     : https://prove2.me/theorems/9f9baaf8-8663-4226-b788-80ca0a9aeeea

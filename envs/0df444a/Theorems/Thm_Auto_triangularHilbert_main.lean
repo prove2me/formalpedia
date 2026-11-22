@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_triangularHilbert_main
 -- name    : Auto.triangularHilbert_main
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:58:41.658989+00:00
 -- url     : https://prove2.me/theorems/0200e134-a86d-4fb7-aa7f-7643edd86798

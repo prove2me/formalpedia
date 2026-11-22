@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ConjugateWeightGram_isHermAt_of_ratHerm
 -- name    : Formalism.DivisionValues.ConjugateWeightGram.isHermAt_of_ratHerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:46:28.379176+00:00
 -- url     : https://prove2.me/theorems/4743ae7c-24f0-44fa-b6e5-a75c34ed47ee

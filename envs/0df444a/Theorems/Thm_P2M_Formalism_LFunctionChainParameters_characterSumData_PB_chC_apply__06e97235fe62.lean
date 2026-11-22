@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_characterSumData_PB_chC_apply__06e97235fe62
 -- name    : P2M_Formalism_LFunctionChainParameters_characterSumData_PB_chC_apply__06e97235fe62
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:05.524799+00:00
 -- url     : https://prove2.me/theorems/a2f61d08-88e6-4f5d-9440-150e51c1d618

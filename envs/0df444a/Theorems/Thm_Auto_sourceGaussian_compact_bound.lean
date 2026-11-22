@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_sourceGaussian_compact_bound
 -- name    : Auto.sourceGaussian_compact_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:55:40.515099+00:00
 -- url     : https://prove2.me/theorems/bd951b36-d656-4a1f-8262-f5ae65e4f3f9

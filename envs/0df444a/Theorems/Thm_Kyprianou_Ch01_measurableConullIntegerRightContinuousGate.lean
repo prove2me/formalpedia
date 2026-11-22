@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_measurableConullIntegerRightContinuousGate
 -- name    : Kyprianou.Ch01.measurableConullIntegerRightContinuousGate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:49:41.353556+00:00
 -- url     : https://prove2.me/theorems/27431bea-3491-463b-9a16-2149c994f8b7

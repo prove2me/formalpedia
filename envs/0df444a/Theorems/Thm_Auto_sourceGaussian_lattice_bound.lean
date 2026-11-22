@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_sourceGaussian_lattice_bound
 -- name    : Auto.sourceGaussian_lattice_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:55:05.143816+00:00
 -- url     : https://prove2.me/theorems/092f0419-bb93-4b93-9832-7146ecd05d59

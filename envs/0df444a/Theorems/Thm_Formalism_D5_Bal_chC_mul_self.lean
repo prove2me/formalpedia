@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_Bal_chC_mul_self
 -- name    : Formalism.D5.Bal.chC_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:07.894699+00:00
 -- url     : https://prove2.me/theorems/2b65a969-2560-4ffe-aabf-26fcdb18d9b8

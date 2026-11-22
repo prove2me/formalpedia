@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_triangular_ht_bound
 -- name    : Auto.triangular_ht_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:38:28.784723+00:00
 -- url     : https://prove2.me/theorems/d6cd8c34-ec6f-4a2f-a1af-516bbd63d445

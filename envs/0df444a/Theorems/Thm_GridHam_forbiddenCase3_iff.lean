@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_forbiddenCase3_iff
 -- name    : GridHam.forbiddenCase3_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:41:28.954584+00:00
 -- url     : https://prove2.me/theorems/26e70097-9a8e-4983-b6b4-be85626498f2

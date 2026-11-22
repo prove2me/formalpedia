@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_hasHamPath_reverse
 -- name    : GridHam.hasHamPath_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:28:29.099013+00:00
 -- url     : https://prove2.me/theorems/2e0793b2-0c0a-4162-b7e7-2b76cff13a19

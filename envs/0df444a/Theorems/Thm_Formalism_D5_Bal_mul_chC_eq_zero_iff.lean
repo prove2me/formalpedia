@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_Bal_mul_chC_eq_zero_iff
 -- name    : Formalism.D5.Bal.mul_chC_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:24.660947+00:00
 -- url     : https://prove2.me/theorems/ab12f742-5fea-4d8a-85da-506ae736a47a

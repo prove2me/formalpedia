@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveJointIntegerProcessVersion
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveJointIntegerProcessVersion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:40:01.830993+00:00
 -- url     : https://prove2.me/theorems/16c022df-d006-4521-8a26-2c3b085468b6

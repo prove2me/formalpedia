@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ConjugateWeightGram_comb_eq
 -- name    : Formalism.DivisionValues.ConjugateWeightGram.comb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:10.402103+00:00
 -- url     : https://prove2.me/theorems/b6073faa-7609-455f-80ed-f55d0f0fc0d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_glAct_keep
 -- name    : Formalism.CountingSumsFrames.glAct_keep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:23:42.363699+00:00
 -- url     : https://prove2.me/theorems/bc7bd3ed-6b72-4b1f-8537-74bbddbad780

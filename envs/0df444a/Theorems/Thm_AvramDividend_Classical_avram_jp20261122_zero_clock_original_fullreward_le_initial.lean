@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_jp20261122_zero_clock_original_fullreward_le_initial
 -- name    : AvramDividend.Classical.avram_jp20261122_zero_clock_original_fullreward_le_initial
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:48:12.91566+00:00
 -- url     : https://prove2.me/theorems/fdb588d3-c454-4aee-9266-e5872dae6ec1

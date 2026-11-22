@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_index_mul_card
+-- name    : Formalism.FourierDecayAlt.P.S3x3.index_mul_card
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-22T22:06:44.491515+00:00
+-- url     : https://prove2.me/theorems/1fe0084d-1aef-4295-b907-78e50225d5cf
+-- title:
+--   S3x3: index mul card
+-- statement:
+--   The S3x3 construction uses the index mul card property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/MemIntegralGlOfMiddleBlock.lean#L428-L447
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/MemIntegralGlOfMiddleBlock.lean#L428-L447
+
+import Definitions.Def_Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_MemIntegralGlOfMiddleBlock
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.S3x3
+open Matrix Formalism.FourierDecayAlt.S3
+open Formalism.DoubleCosetMeasures (IsUpUni upUniG)
+
+theorem Formalism.FourierDecayAlt.P.S3x3.index_mul_card {G H : Type} [Group G] [Group H] (f : G →* H)
+    (hf : Function.Surjective f) (K : Subgroup G) (P : H → Prop) (hK : ∀ x, x ∈ K ↔ P (f x)) :
+    K.index * Nat.card {h : H // P h} = Nat.card H := by sorry

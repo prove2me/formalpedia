@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chainAdjacent_reverse
 -- name    : GridHam.chainAdjacent_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:37:38.840851+00:00
 -- url     : https://prove2.me/theorems/30281ac7-3266-4c76-95a9-7d9e402331f0

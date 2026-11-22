@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_adjacent_symm
 -- name    : GridHam.adjacent_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:42:30.641387+00:00
 -- url     : https://prove2.me/theorems/6c7e5f5a-8a75-48fc-b3f3-8372bbd302da

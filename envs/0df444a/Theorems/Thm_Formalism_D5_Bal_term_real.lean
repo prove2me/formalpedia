@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_Bal_term_real
 -- name    : Formalism.D5.Bal.term_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:22.049773+00:00
 -- url     : https://prove2.me/theorems/5ed6c3b7-b6bb-4014-ae91-65d3a9f06209

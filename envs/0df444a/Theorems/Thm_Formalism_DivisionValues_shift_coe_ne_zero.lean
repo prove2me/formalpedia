@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_coe_ne_zero
 -- name    : Formalism.DivisionValues.shift_coe_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:46:18.294235+00:00
 -- url     : https://prove2.me/theorems/68ee38e9-7694-4f1c-8dd6-3dab957ce366

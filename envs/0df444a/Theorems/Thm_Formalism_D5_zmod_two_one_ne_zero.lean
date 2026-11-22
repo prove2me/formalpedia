@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_zmod_two_one_ne_zero
 -- name    : Formalism.D5.zmod_two_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:02.998985+00:00
 -- url     : https://prove2.me/theorems/3d8e406f-5933-48a4-aeac-6bff0c613ee0

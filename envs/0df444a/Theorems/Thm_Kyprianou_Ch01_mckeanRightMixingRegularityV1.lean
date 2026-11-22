@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanRightMixingRegularityV1
 -- name    : Kyprianou.Ch01.mckeanRightMixingRegularityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:49:19.959496+00:00
 -- url     : https://prove2.me/theorems/14598df3-62d9-4f75-b8a5-6afdb777a741

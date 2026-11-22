@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_supp_conj
 -- name    : Formalism.DivisionValues.StepBAux.supp_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:46.333799+00:00
 -- url     : https://prove2.me/theorems/033ba945-730e-4e8d-ba9c-30f37c728231

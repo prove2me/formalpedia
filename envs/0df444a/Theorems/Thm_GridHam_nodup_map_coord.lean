@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_nodup_map_coord
 -- name    : GridHam.nodup_map_coord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:42:15.998348+00:00
 -- url     : https://prove2.me/theorems/92e09d9f-5f6a-48e2-90b5-0b008504c3bf

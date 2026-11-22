@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_eMi_inj
 -- name    : PI.WeylForKWork.eMi_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:35.042826+00:00
 -- url     : https://prove2.me/theorems/64b6d6ac-5db8-4d46-b0e4-b0e399e9c36f

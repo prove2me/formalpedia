@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_OperatorNormFrames_opNormAt_nonneg
 -- name    : Formalism.DivisionValues.OperatorNormFrames.opNormAt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:39.59259+00:00
 -- url     : https://prove2.me/theorems/196975b4-a6cd-4567-ab74-728e094d3fe9

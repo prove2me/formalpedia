@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_nodup_append_disjoint
 -- name    : GridHam.nodup_append_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:47:18.683486+00:00
 -- url     : https://prove2.me/theorems/a63c9b0b-8014-4965-89bc-08156c64835a

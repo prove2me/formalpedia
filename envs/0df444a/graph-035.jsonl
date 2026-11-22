@@ -96749,8 +96749,8 @@
 {"parent": "MasulloGRH.asymptotic_cauchy_value_formula_with_channel_bound", "child": "MasulloGRH_MellinRpos", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.nuclear_of_separated_quotient", "child": "MasulloGRH_LocallyConvex", "via": ["statement"]}
 {"parent": "HodgeComputer.SymmetricSexticResidual.relative_primitive_exists", "child": "HodgeComputerSymmetricChart", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_agentB_original_gaussian_prepost_pure_linear_atom_rootmesh_rate", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_agentB_original_gaussian_prepost_pure_linear_atom_rootmesh_rate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_agentB_original_gaussian_prepost_pure_linear_atom_rootmesh_rate", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_agentB_original_gaussian_prepost_pure_linear_atom_rootmesh_rate", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_original_true_finitecap_Hessian_start_mask_uniform_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_original_true_finitecap_Hessian_start_mask_uniform_bound", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04_D070_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}

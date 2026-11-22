@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_Bal_chC_sq
 -- name    : Formalism.D5.Bal.chC_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:42.722168+00:00
 -- url     : https://prove2.me/theorems/a2cfe9e9-af1d-4f89-b016-17a72af89205

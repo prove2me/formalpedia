@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_exterior_causalTransitivity
 -- name    : NoHair.kerrNewman_exterior_causalTransitivity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:53:58.176056+00:00
 -- url     : https://prove2.me/theorems/fa4b8f00-b2ef-4577-97d8-59abfad7ce57

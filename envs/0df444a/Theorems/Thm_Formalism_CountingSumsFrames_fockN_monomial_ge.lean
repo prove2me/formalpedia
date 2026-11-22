@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_fockN_monomial_ge
 -- name    : Formalism.CountingSumsFrames.fockN_monomial_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:44:21.705819+00:00
 -- url     : https://prove2.me/theorems/e73ac9d8-c1bb-45f9-baf7-5e1b086e72ec

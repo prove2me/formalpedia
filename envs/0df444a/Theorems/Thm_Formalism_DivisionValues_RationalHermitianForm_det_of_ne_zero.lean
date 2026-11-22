@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_RationalHermitianForm_det_of_ne_zero
 -- name    : Formalism.DivisionValues.RationalHermitianForm.det_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:47:24.524829+00:00
 -- url     : https://prove2.me/theorems/bd7a73ad-7655-40a7-9c73-7276ff3b1726

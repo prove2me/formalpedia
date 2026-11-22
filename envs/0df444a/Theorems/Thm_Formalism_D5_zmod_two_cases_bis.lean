@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_zmod_two_cases_bis
 -- name    : Formalism.D5.zmod_two_cases_bis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:47.076621+00:00
 -- url     : https://prove2.me/theorems/0435c91a-e68d-47c9-8d16-8d7a6fea371d
