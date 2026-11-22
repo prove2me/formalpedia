@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.boundedIndependentIncrementConditionalMixingFiltration
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T21:50:06.289476+00:00
 -- url     : https://prove2.me/submissions/71f6cefa-628e-4a96-9cc1-aca05b862e5a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch01_mckeanRightMixingRegularityV1

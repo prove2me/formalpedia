@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_classical_carleson
 -- name    : Auto.classical_carleson
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:39:22.591129+00:00
 -- url     : https://prove2.me/theorems/f32ddce9-50a6-419f-bc31-2f36592495c6

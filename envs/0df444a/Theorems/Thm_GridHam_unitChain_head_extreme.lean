@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_unitChain_head_extreme
 -- name    : GridHam.unitChain_head_extreme
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:49:46.227316+00:00
 -- url     : https://prove2.me/theorems/f94927ce-5294-4ebc-97dc-65881bed4ec7

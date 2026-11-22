@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.mckeanDiscountedValueRightStoppedExpectedUpper
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T18:51:57.761334+00:00
 -- url     : https://prove2.me/submissions/b11f9670-7000-4d1d-84f1-16fe5e417efe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanRightContinuousFiltration

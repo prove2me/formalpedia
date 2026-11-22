@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_exterior_globallyHyperbolic
 -- name    : NoHair.kerrNewman_exterior_globallyHyperbolic
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T19:45:02.074987+00:00
 -- url     : https://prove2.me/theorems/5a3350c3-9209-4a9e-8edc-18d3a769496d

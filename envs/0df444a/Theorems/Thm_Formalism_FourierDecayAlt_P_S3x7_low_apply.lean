@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x7_low_apply
 -- name    : Formalism.FourierDecayAlt.P.S3x7.low_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:38.5698+00:00
 -- url     : https://prove2.me/theorems/2db4413f-10fb-46ed-acda-2e5097a97cd8

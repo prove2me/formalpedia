@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_carleson_smooth_bound
 -- name    : Auto.carleson_smooth_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T19:01:46.871469+00:00
 -- url     : https://prove2.me/theorems/b38b7bb2-ea09-4816-8c1d-7faf90367c4a

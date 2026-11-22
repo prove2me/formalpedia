@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_forced_after_head
 -- name    : GridHam.forced_after_head
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:46:13.680176+00:00
 -- url     : https://prove2.me/theorems/4cb10ae7-a5a2-4adf-ba92-052784709d87

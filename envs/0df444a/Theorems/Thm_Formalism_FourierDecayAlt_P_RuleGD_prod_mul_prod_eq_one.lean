@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RuleGD_prod_mul_prod_eq_one
 -- name    : Formalism.FourierDecayAlt.P.RuleGD.prod_mul_prod_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:53:29.749954+00:00
 -- url     : https://prove2.me/theorems/d89638a6-5183-44b4-b94a-e79a2b6e4728

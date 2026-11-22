@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_cnt1_chain
 -- name    : GridHam.cnt1_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:24:09.897134+00:00
 -- url     : https://prove2.me/theorems/18172670-ba1b-4e6e-bce7-191b101555c6

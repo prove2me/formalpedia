@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_local_profiles_certify_exact_count_search
 -- name    : StableMSR.Recovery.WindowProfiles.local_profiles_certify_exact_count_search
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T21:56:56.003912+00:00
 -- url     : https://prove2.me/theorems/aed6f316-590a-405d-afb1-d1f418774fe2

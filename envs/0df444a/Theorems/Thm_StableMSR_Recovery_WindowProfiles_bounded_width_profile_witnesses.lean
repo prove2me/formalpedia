@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_bounded_width_profile_witnesses
 -- name    : StableMSR.Recovery.WindowProfiles.bounded_width_profile_witnesses
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:02:20.681434+00:00
 -- url     : https://prove2.me/theorems/c3086c89-6383-4c62-96f5-856d3f9b3629

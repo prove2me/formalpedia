@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_jointExpect_run_feint
 -- name    : Csg.jointExpect_run_feint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:00:31.852802+00:00
 -- url     : https://prove2.me/theorems/0d47b51e-a889-4c29-9355-9e06eab8eac1

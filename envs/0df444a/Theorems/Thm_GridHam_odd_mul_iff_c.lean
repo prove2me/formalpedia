@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_odd_mul_iff_c
 -- name    : GridHam.odd_mul_iff_c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:23:59.156795+00:00
 -- url     : https://prove2.me/theorems/46c92ab5-f51d-48ad-b7e4-cb0ffd4fd176

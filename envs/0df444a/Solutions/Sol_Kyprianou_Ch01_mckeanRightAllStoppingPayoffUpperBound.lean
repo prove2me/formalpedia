@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.mckeanRightAllStoppingPayoffUpperBound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T15:38:49.578603+00:00
 -- url     : https://prove2.me/submissions/da72c604-1927-4702-ada3-a8e691cfdd14
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanRightContinuousFiltration

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chainAdjacent_map_shiftX
 -- name    : GridHam.chainAdjacent_map_shiftX
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:54:05.91935+00:00
 -- url     : https://prove2.me/theorems/2006c064-e133-4289-9f5a-2070a6e9fbe8

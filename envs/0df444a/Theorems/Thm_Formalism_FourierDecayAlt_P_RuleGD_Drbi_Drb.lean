@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RuleGD_Drbi_Drb
 -- name    : Formalism.FourierDecayAlt.P.RuleGD.Drbi_Drb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:05:51.713595+00:00
 -- url     : https://prove2.me/theorems/b30ce265-0ca0-4de6-b848-074f3a9bc4d9

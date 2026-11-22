@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_unitStepChain_map
 -- name    : GridHam.unitStepChain_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:50:51.505716+00:00
 -- url     : https://prove2.me/theorems/9090f0f2-e820-43c2-b846-23ee07df3570

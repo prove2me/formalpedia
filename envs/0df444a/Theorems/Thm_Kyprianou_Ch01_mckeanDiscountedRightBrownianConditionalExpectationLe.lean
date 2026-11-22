@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanDiscountedRightBrownianConditionalExpectationLe
 -- name    : Kyprianou.Ch01.mckeanDiscountedRightBrownianConditionalExpectationLe
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T19:11:04.828121+00:00
 -- url     : https://prove2.me/theorems/160969ae-8b9d-4d8e-8e27-b603df24d99a

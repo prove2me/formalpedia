@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chainAdjacent_prefix
 -- name    : GridHam.chainAdjacent_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:48:09.591804+00:00
 -- url     : https://prove2.me/theorems/2ee03a80-28fa-4097-a037-a374f546c4f9

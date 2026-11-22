@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanRightConditionalTransitionValue
 -- name    : Kyprianou.Ch01.mckeanRightConditionalTransitionValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:32:22.829317+00:00
 -- url     : https://prove2.me/theorems/c304c8fb-9ec5-455a-b903-b3cb0804f962

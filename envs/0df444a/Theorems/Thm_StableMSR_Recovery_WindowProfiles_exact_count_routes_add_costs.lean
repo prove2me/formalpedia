@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_exact_count_routes_add_costs
 -- name    : StableMSR.Recovery.WindowProfiles.exact_count_routes_add_costs
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T21:56:51.772816+00:00
 -- url     : https://prove2.me/theorems/639eb22d-2fa3-4155-8b96-330df28b5527

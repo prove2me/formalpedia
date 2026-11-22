@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IsIntP_sum
 -- name    : Formalism.GM.gammaIntegralityLemmas.IsIntP.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:27.859813+00:00
 -- url     : https://prove2.me/theorems/9c6c3efa-e287-47e0-bd66-307c0e464537

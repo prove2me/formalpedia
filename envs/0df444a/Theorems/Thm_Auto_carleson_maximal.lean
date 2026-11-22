@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_carleson_maximal
 -- name    : Auto.carleson_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T19:03:32.068519+00:00
 -- url     : https://prove2.me/theorems/1acb3d33-67a2-44e5-aa4b-353b2b8bda51

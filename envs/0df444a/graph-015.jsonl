@@ -4038,11 +4038,11 @@
 {"parent": "GhostPenalty.proposition_3", "child": "GhostPenalty_theta", "via": ["statement"]}
 {"parent": "MFCLiquidation.eq_2_16_wellposed", "child": "MFCLiquidation_Params", "via": ["statement"]}
 {"parent": "MFCLiquidation.eq_2_16_wellposed", "child": "MFCLiquidation_Riccati", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_optVal", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_IsApproxOffline", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_Algorithm1", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_9", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_IsStream", "via": ["statement"]}
+{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_optVal", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_IsApproxOffline", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_Algorithm1", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_9", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_9", "child": "StreamSubmod_IsStream", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P83.theorem3", "child": "QAlgorithms_Papers_Independent_Intake100_P83", "via": ["statement"]}
 {"parent": "Viterbo.isSymplecticCapacity_gromovWidth_and_cylindricalCapacity", "child": "SymmetricPolar", "via": ["solution", "statement"]}
 {"parent": "Viterbo.isSymplecticCapacity_gromovWidth_and_cylindricalCapacity", "child": "Viterbo", "via": ["solution", "statement"]}
@@ -4562,11 +4562,11 @@
 {"parent": "ReviewProvision.proposition_4", "child": "ReviewProvision_truncatedMoments", "via": ["statement"]}
 {"parent": "ReviewProvision.proposition_4", "child": "ReviewProvision_IsOptimal", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P42.mixed_restriction_reasonable", "child": "QAlgorithms_Papers_Independent_Intake100_P42", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_optVal", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_IsApproxOffline", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_Algorithm2", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
-{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_IsStream", "via": ["statement"]}
+{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_optVal", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_IsApproxOffline", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_Algorithm2", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
+{"parent": "StreamSubmod.theorem_1", "child": "StreamSubmod_IsStream", "via": ["solution", "statement"]}
 {"parent": "ParriloTheta_InK", "child": "ParriloTheta_parriloForm", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SL3Certificate.gram_row_67", "child": "OAIQ019N041", "via": ["solution", "statement"]}
 {"parent": "DiffCtrlRobust_IsDiscOptimal", "child": "DiffCtrlRobust_markovCost", "via": ["statement"]}

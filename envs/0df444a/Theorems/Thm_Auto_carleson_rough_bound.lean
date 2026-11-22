@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_carleson_rough_bound
 -- name    : Auto.carleson_rough_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T19:02:16.986631+00:00
 -- url     : https://prove2.me/theorems/6fab7a67-714c-4d9f-b5dc-f1a757912384

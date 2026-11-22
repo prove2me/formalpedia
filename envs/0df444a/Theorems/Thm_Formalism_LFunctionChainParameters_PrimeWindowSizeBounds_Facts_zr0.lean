@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_Facts_zr0
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.Facts.zr0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:02:28.201339+00:00
 -- url     : https://prove2.me/theorems/8944cd37-3c08-4fa4-bfb6-a6e435723910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_hamPath_odd_parity
 -- name    : GridHam.hamPath_odd_parity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:25:53.040582+00:00
 -- url     : https://prove2.me/theorems/7fc8d99b-c02d-43a2-91e7-03241f0b605f

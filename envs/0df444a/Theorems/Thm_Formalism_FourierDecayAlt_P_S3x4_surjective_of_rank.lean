@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x4_surjective_of_rank
 -- name    : Formalism.FourierDecayAlt.P.S3x4.surjective_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:15.23619+00:00
 -- url     : https://prove2.me/theorems/bb68b356-69c0-434f-83a5-a44336420754

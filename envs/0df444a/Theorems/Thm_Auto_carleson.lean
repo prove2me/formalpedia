@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_carleson
 -- name    : Auto.carleson
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T19:03:38.447681+00:00
 -- url     : https://prove2.me/theorems/0033d939-07a3-4532-bcc1-322ad433dbfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_outcome_row_sum
 -- name    : Csg.outcome_row_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:55:31.700723+00:00
 -- url     : https://prove2.me/theorems/bac1e373-e730-440e-8eb3-c629488585f4

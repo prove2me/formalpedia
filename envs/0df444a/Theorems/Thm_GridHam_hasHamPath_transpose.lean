@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_hasHamPath_transpose
 -- name    : GridHam.hasHamPath_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:27:38.746309+00:00
 -- url     : https://prove2.me/theorems/f4bb0303-2651-4a48-af30-a13df934e88b

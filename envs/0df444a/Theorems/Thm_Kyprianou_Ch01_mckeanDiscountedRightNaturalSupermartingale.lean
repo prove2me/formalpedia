@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanDiscountedRightNaturalSupermartingale
 -- name    : Kyprianou.Ch01.mckeanDiscountedRightNaturalSupermartingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T17:14:46.641819+00:00
 -- url     : https://prove2.me/theorems/701ed4a9-5f98-4acb-b062-e3129b0e0ee5

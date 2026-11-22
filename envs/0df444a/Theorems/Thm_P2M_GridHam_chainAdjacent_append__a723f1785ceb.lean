@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_chainAdjacent_append__a723f1785ceb
 -- name    : P2M_GridHam_chainAdjacent_append__a723f1785ceb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:57:08.323393+00:00
 -- url     : https://prove2.me/theorems/7c1d6e3d-10c2-4f2e-8b7f-27250767789f

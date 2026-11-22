@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x6_form_sum_left_alt
 -- name    : Formalism.FourierDecayAlt.P.S3x6.form_sum_left_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:35.56733+00:00
 -- url     : https://prove2.me/theorems/7dad1aef-e3e3-473e-aebd-9470e08e7473

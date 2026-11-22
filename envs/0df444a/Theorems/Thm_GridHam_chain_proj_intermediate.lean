@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chain_proj_intermediate
 -- name    : GridHam.chain_proj_intermediate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:47:50.84432+00:00
 -- url     : https://prove2.me/theorems/720d95de-5470-4527-a412-e3aace4c6352

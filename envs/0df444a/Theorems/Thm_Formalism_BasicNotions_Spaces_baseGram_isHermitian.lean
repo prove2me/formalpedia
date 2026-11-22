@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Spaces_baseGram_isHermitian
 -- name    : Formalism.BasicNotions.Spaces.baseGram_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:27.634868+00:00
 -- url     : https://prove2.me/theorems/a94d6b3b-3bae-4cd8-a422-171dd7ac8aca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_adjacent_swapXY
 -- name    : GridHam.adjacent_swapXY
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:55:00.42562+00:00
 -- url     : https://prove2.me/theorems/1a0031be-6a1e-4d14-acce-f27dcef89efa

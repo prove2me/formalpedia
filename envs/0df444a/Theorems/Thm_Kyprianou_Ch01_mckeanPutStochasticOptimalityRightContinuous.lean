@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanPutStochasticOptimalityRightContinuous
 -- name    : Kyprianou.Ch01.mckeanPutStochasticOptimalityRightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T08:26:14.512996+00:00
 -- url     : https://prove2.me/theorems/9a56cd50-3536-495a-8e23-68ab4beb476d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_jointExpect_hide_wait
 -- name    : Csg.jointExpect_hide_wait
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:59:24.848132+00:00
 -- url     : https://prove2.me/theorems/c3dca23a-e2aa-4f1d-ab2b-3491f4bad15f

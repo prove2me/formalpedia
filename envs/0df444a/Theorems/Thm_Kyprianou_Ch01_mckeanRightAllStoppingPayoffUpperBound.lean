@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanRightAllStoppingPayoffUpperBound
 -- name    : Kyprianou.Ch01.mckeanRightAllStoppingPayoffUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T14:29:06.530571+00:00
 -- url     : https://prove2.me/theorems/d840d862-c4c8-48c6-b2ef-462bf0e3d2ba

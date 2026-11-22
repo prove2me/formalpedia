@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerrNewman_exterior_globallyHyperbolic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:23:25.155548+00:00
 -- url     : https://prove2.me/submissions/c3b10f05-0f9b-44dc-b192-9ab2457637e7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_kerrNewman_exterior_causalDiamonds_closed
 

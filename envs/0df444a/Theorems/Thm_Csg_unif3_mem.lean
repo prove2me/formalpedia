@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_unif3_mem
 -- name    : Csg.unif3_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:56:27.430303+00:00
 -- url     : https://prove2.me/theorems/8552ef45-c3fe-400e-acc9-60b6bf4b64d0

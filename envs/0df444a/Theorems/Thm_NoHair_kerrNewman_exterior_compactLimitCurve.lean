@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_exterior_compactLimitCurve
 -- name    : NoHair.kerrNewman_exterior_compactLimitCurve
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:43:24.676445+00:00
 -- url     : https://prove2.me/theorems/46e8d6cc-84d5-4d89-a5cb-f8bb00226bd7

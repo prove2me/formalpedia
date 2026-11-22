@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_jointExpect_hide_throw
 -- name    : Csg.jointExpect_hide_throw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:59:34.808011+00:00
 -- url     : https://prove2.me/theorems/e9c5a6da-fa2c-4208-a13d-80bbad5b387d

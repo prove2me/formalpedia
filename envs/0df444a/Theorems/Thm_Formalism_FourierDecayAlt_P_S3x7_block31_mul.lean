@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x7_block31_mul
 -- name    : Formalism.FourierDecayAlt.P.S3x7.block31_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:46.733215+00:00
 -- url     : https://prove2.me/theorems/2c79b43d-ae76-409f-9dd7-8487881dfec2

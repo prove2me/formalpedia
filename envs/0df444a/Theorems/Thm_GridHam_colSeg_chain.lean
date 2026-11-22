@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_colSeg_chain
 -- name    : GridHam.colSeg_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:56:47.186939+00:00
 -- url     : https://prove2.me/theorems/d9683533-80c5-4bad-8f30-cd177ce2ee27

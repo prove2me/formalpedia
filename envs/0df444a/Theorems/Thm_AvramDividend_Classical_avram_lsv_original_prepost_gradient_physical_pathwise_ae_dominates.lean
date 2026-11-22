@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_lsv_original_prepost_gradient_physical_pathwise_ae_dominates
 -- name    : AvramDividend.Classical.avram_lsv_original_prepost_gradient_physical_pathwise_ae_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:04:09.868735+00:00
 -- url     : https://prove2.me/theorems/8e0fc639-2758-40a5-8b8e-a0e4e5a1b5a0

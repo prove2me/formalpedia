@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_exterior_causalDiamonds_closed
 -- name    : NoHair.kerrNewman_exterior_causalDiamonds_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:19:12.155499+00:00
 -- url     : https://prove2.me/theorems/2720bdae-3ef1-4f27-9646-1dce48001a77

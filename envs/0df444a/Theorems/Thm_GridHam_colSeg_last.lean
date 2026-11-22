@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_colSeg_last
 -- name    : GridHam.colSeg_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:55:41.541272+00:00
 -- url     : https://prove2.me/theorems/dfda6bae-635e-4ad8-a8d8-9f714816daa5

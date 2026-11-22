@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_nodup_not_mem_last
 -- name    : GridHam.nodup_not_mem_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:48:08.818125+00:00
 -- url     : https://prove2.me/theorems/ad261c94-c02f-4beb-978b-3e2097624668

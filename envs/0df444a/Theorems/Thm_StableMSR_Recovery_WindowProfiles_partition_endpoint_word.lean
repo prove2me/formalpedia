@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_partition_endpoint_word
 -- name    : StableMSR.Recovery.WindowProfiles.partition_endpoint_word
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:02:27.635829+00:00
 -- url     : https://prove2.me/theorems/a6ea9c12-18b5-442d-ad4e-f8f2b3ac51a4

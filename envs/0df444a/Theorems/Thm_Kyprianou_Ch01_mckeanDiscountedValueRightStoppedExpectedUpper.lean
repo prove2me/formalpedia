@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanDiscountedValueRightStoppedExpectedUpper
 -- name    : Kyprianou.Ch01.mckeanDiscountedValueRightStoppedExpectedUpper
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T17:01:31.499623+00:00
 -- url     : https://prove2.me/theorems/9b534b85-b802-4fc7-803d-98817cac2b0c

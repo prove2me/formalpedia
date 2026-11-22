@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_exterior_localCausalClosure
 -- name    : NoHair.kerrNewman_exterior_localCausalClosure
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:53:53.908051+00:00
 -- url     : https://prove2.me/theorems/dc92604d-4d3c-4446-b44c-506448dc15ff

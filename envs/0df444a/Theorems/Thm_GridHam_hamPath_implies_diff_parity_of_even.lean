@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_hamPath_implies_diff_parity_of_even
 -- name    : GridHam.hamPath_implies_diff_parity_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:23:53.884514+00:00
 -- url     : https://prove2.me/theorems/77a733ad-9be2-4f83-9793-6347bbcbc0fe

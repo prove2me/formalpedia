@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_nodup_map_of_injOn
 -- name    : GridHam.nodup_map_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:50:47.016801+00:00
 -- url     : https://prove2.me/theorems/ae5c5071-31dc-42a0-b546-201b80919988

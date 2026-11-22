@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch01.mckeanBrownianPutOptimalRightContinuous
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-15T19:22:58.932264+00:00
 -- url     : https://prove2.me/submissions/28dd61fa-bf9a-4958-9898-d4601333221f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanRightContinuousFiltration

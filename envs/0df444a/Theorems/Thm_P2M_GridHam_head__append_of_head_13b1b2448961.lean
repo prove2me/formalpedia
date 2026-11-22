@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_head__append_of_head_13b1b2448961
 -- name    : P2M_GridHam_head__append_of_head_13b1b2448961
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:57:13.480277+00:00
 -- url     : https://prove2.me/theorems/ed032dc1-b63e-4653-8733-88e276691afe

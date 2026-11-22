@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_coeff_Dop_pow
 -- name    : Formalism.GM.gammaIntegralityLemmas.coeff_Dop_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:35:49.618795+00:00
 -- url     : https://prove2.me/theorems/b4d0acea-4ed6-4375-803d-b40b60a75f9a

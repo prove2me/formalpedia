@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_boundedIndependentIncrementConditionalMixingFiltration
 -- name    : Kyprianou.Ch01.boundedIndependentIncrementConditionalMixingFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:11:51.158655+00:00
 -- url     : https://prove2.me/theorems/556a2d3b-17c0-4015-8c53-f7de31977aae

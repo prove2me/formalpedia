@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_jointExpect_run_wait
 -- name    : Csg.jointExpect_run_wait
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:59:46.8878+00:00
 -- url     : https://prove2.me/theorems/b51af45e-467f-404f-919b-328eecfd4b90

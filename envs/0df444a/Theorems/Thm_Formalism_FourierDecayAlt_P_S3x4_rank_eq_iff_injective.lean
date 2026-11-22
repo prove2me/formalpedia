@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x4_rank_eq_iff_injective
 -- name    : Formalism.FourierDecayAlt.P.S3x4.rank_eq_iff_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:08:23.194012+00:00
 -- url     : https://prove2.me/theorems/52d187e2-0266-45d8-a50d-bb6b9a8d369b

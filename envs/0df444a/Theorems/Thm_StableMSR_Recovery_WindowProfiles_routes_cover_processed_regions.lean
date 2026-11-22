@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_routes_cover_processed_regions
 -- name    : StableMSR.Recovery.WindowProfiles.routes_cover_processed_regions
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T21:56:42.707939+00:00
 -- url     : https://prove2.me/theorems/7b320592-30bb-4757-8395-3a045cc85b61

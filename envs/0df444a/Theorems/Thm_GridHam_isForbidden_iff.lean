@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_isForbidden_iff
 -- name    : GridHam.isForbidden_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:53:25.727957+00:00
 -- url     : https://prove2.me/theorems/474181ce-730f-43ea-b455-cdbf2b4cc41a

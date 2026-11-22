@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_mem_invOn
 -- name    : Formalism.DworkPowerSeriesWeights.mem_invOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:58.754005+00:00
 -- url     : https://prove2.me/theorems/e237775d-dbd0-4ee8-ba2b-a547e0f5823e

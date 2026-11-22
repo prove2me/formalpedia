@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.mckeanPutStochasticOptimalityRightContinuous
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T14:29:58.60601+00:00
 -- url     : https://prove2.me/submissions/fff8c7d1-c8a9-4384-a937-9a0d57dcec38
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanRightContinuousFiltration

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanRightMixingSetIntegralV1
 -- name    : Kyprianou.Ch01.mckeanRightMixingSetIntegralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:49:17.285411+00:00
 -- url     : https://prove2.me/theorems/88c9a136-2265-418f-83c6-a9d5b5365874

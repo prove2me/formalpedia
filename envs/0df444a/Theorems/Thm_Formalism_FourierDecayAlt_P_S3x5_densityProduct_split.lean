@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x5_densityProduct_split
 -- name    : Formalism.FourierDecayAlt.P.S3x5.densityProduct_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:23.332854+00:00
 -- url     : https://prove2.me/theorems/b5f60784-965a-4c9c-8d2b-9388b27494af

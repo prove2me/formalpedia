@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_colSeg_length
 -- name    : GridHam.colSeg_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:55:54.324814+00:00
 -- url     : https://prove2.me/theorems/620e1a13-b070-4a78-b9f5-6332b4646679

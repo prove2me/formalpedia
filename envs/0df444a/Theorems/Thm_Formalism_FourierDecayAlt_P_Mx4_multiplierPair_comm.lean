@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx4_multiplierPair_comm
 -- name    : Formalism.FourierDecayAlt.P.Mx4.multiplierPair_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:05:42.94047+00:00
 -- url     : https://prove2.me/theorems/9643e1ee-05a6-4b73-9d3e-0d81dcf49f7a

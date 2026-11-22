@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_mem_rightDetour
 -- name    : GridHam.mem_rightDetour
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:58:07.980091+00:00
 -- url     : https://prove2.me/theorems/e5bd2c8e-cb0e-4d25-af7b-61233570c3b2

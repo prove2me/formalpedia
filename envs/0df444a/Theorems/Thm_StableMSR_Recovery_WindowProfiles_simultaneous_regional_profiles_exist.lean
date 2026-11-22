@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_simultaneous_regional_profiles_exist
 -- name    : StableMSR.Recovery.WindowProfiles.simultaneous_regional_profiles_exist
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:03:02.568996+00:00
 -- url     : https://prove2.me/theorems/706deb82-6bec-400e-9e8a-63a480f6609b

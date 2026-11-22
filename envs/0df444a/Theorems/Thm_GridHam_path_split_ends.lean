@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_path_split_ends
 -- name    : GridHam.path_split_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:48:23.228826+00:00
 -- url     : https://prove2.me/theorems/6523dbc2-fccb-44df-877e-c10947179710

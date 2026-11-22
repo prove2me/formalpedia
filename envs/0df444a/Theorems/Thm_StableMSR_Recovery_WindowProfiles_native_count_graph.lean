@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_native_count_graph
 -- name    : StableMSR.Recovery.WindowProfiles.native_count_graph
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:00:02.009869+00:00
 -- url     : https://prove2.me/theorems/b25137b5-ee83-45c0-9a8e-3eaa9ce14cd4

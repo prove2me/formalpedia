@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_constantCoeff_linSub
 -- name    : Formalism.DworkPowerSeriesWeights.constantCoeff_linSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:32.636964+00:00
 -- url     : https://prove2.me/theorems/5362139d-f8f7-41d4-a403-f0cda5133761

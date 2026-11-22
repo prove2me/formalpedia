@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_unitChain_endpoints
 -- name    : GridHam.unitChain_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:50:42.810951+00:00
 -- url     : https://prove2.me/theorems/51cb8c6e-c905-4652-9053-fccd2ff974e1

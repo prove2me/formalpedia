@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_hiderAction_sum
 -- name    : Csg.hiderAction_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:57:22.158568+00:00
 -- url     : https://prove2.me/theorems/ac90120c-a61d-4a15-9604-ef2420e4edf2

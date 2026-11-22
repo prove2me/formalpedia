@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_allCoords_succ
 -- name    : GridHam.allCoords_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:25:26.770347+00:00
 -- url     : https://prove2.me/theorems/50243647-6c57-4a65-94d5-2a9e1ed10088

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerrNewman_isStationaryBlackHole
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T19:46:15.06871+00:00
 -- url     : https://prove2.me/submissions/9bf1a724-ee99-4f9a-bcf2-4396a9fb9c45
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_kerrNewman_regularTensors
 import Theorems.Thm_NoHair_isElectrovac_of_coordinate_equations

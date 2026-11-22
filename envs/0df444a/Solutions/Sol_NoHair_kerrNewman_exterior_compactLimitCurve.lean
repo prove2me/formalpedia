@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerrNewman_exterior_compactLimitCurve
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:58:22.729792+00:00
 -- url     : https://prove2.me/submissions/851c3d90-d0e0-45dd-b303-5ca74ec35df7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_kerrNewman_exterior_localCausalClosure
 import Theorems.Thm_NoHair_kerrNewman_exterior_causalTransitivity

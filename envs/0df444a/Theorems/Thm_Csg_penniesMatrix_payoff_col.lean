@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_penniesMatrix_payoff_col
 -- name    : Csg.penniesMatrix_payoff_col
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:55:09.106883+00:00
 -- url     : https://prove2.me/theorems/23474f40-04bc-457f-9027-96924c147b38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_exists_col_edge
 -- name    : GridHam.exists_col_edge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:57:00.473655+00:00
 -- url     : https://prove2.me/theorems/63f67d59-3a24-40c4-956e-4829b5e0753e

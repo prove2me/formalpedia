@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_Model_fPl_eq
 -- name    : Formalism.LFunctionChainParameters.LChain.Model.fPl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:07:57.400808+00:00
 -- url     : https://prove2.me/theorems/d85e7d82-793f-419b-9b39-4666503d9dce

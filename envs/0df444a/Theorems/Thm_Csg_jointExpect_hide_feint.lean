@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_jointExpect_hide_feint
 -- name    : Csg.jointExpect_hide_feint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:59:39.428861+00:00
 -- url     : https://prove2.me/theorems/da01dbef-0dba-4347-bede-b79f9706b73f

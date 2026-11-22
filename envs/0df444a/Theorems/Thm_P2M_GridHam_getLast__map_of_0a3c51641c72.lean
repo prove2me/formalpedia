@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_getLast__map_of_0a3c51641c72
 -- name    : P2M_GridHam_getLast__map_of_0a3c51641c72
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:51:33.315611+00:00
 -- url     : https://prove2.me/theorems/4cd69a81-ef2f-42c2-9afc-b314a6a1fd77

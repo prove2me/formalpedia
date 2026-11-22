@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_isCorner_iff
 -- name    : GridHam.isCorner_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:53:06.036367+00:00
 -- url     : https://prove2.me/theorems/c383d454-4f13-4609-8fe0-7af23cbc6f0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_dirD_apply
 -- name    : Formalism.DworkPowerSeriesWeights.dirD_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:09:36.582012+00:00
 -- url     : https://prove2.me/theorems/db42b3f6-a97b-49a4-a656-98eb08e4e5df

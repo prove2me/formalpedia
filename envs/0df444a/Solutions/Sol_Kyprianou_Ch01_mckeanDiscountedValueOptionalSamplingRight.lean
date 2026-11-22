@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.mckeanDiscountedValueOptionalSamplingRight
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T17:02:00.028635+00:00
 -- url     : https://prove2.me/submissions/abde7ba3-147e-42cd-a229-f1c0773f4efb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_McKeanRightContinuousFiltration

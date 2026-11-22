@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_subst_linSub
 -- name    : Formalism.DworkPowerSeriesWeights.subst_linSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:05:32.335928+00:00
 -- url     : https://prove2.me/theorems/b2050a55-5587-435f-863a-44bd99295061

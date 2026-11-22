@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_hamPath_implies_colorCompatible
 -- name    : GridHam.hamPath_implies_colorCompatible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:49:14.771081+00:00
 -- url     : https://prove2.me/theorems/52587f3a-387d-407c-9254-1e96f8c34ada

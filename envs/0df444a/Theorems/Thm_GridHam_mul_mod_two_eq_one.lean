@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_mul_mod_two_eq_one
 -- name    : GridHam.mul_mod_two_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:52:27.449833+00:00
 -- url     : https://prove2.me/theorems/190c60f7-67a4-43cd-a565-4732db370d16

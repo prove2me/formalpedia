@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerrNewman_exterior_causalDiamonds_closed
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:43:37.149044+00:00
 -- url     : https://prove2.me/submissions/2618ae7d-832b-4777-ad42-1e787b60755e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_kerrNewman_exterior_diamondCurveConfinement
 import Theorems.Thm_NoHair_kerrNewman_exterior_compactLimitCurve

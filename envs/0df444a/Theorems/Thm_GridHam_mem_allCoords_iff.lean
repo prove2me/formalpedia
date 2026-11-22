@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_mem_allCoords_iff
 -- name    : GridHam.mem_allCoords_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:23:55.560096+00:00
 -- url     : https://prove2.me/theorems/516e2f0c-47a1-4bfe-9912-b55e1e979efc

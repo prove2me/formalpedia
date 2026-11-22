@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_mckeanBrownianPutOptimalRightContinuous
 -- name    : Kyprianou.Ch01.mckeanBrownianPutOptimalRightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T08:26:14.263472+00:00
 -- url     : https://prove2.me/theorems/b5270cde-00e6-4bae-9e9f-22b1467b136a

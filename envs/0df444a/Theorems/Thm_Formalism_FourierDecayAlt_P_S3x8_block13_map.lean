@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_block13_map
 -- name    : Formalism.FourierDecayAlt.P.S3x8.block13_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:10:04.358588+00:00
 -- url     : https://prove2.me/theorems/b447afb6-f92c-47e6-97fe-dff69ee8fa03

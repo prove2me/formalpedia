@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_unitStepChain_intermediate
 -- name    : GridHam.unitStepChain_intermediate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:49:39.16028+00:00
 -- url     : https://prove2.me/theorems/084a487c-6066-4db5-a38d-3e797e2ca2be

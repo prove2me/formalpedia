@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_combine_hiderC_thrower
 -- name    : Csg.combine_hiderC_thrower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:02:38.918781+00:00
 -- url     : https://prove2.me/theorems/b116e7e8-9b93-4f8a-8b34-801fa20a105a

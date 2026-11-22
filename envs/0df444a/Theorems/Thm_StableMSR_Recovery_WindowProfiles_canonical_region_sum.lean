@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_canonical_region_sum
 -- name    : StableMSR.Recovery.WindowProfiles.canonical_region_sum
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T21:56:40.073502+00:00
 -- url     : https://prove2.me/theorems/b42c8aab-d33c-456f-badc-f51022e083f5

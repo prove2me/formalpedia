@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_unitChain_last_of_head_min
 -- name    : GridHam.unitChain_last_of_head_min
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:50:12.772548+00:00
 -- url     : https://prove2.me/theorems/148e9354-6516-4808-a846-d4fb0cf35fb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_rectangular_count_graph
 -- name    : StableMSR.Recovery.WindowProfiles.rectangular_count_graph
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:00:17.362595+00:00
 -- url     : https://prove2.me/theorems/b8b75a90-a94d-4086-9f2b-da27dd6fefd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_colorCompatible_iff
 -- name    : GridHam.colorCompatible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:52:46.482565+00:00
 -- url     : https://prove2.me/theorems/f7da6734-d160-49ce-9fc5-5b5b6e0705cc

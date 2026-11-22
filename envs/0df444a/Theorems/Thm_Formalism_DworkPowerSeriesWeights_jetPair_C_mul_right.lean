@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jetPair_C_mul_right
 -- name    : Formalism.DworkPowerSeriesWeights.jetPair_C_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:06:29.101484+00:00
 -- url     : https://prove2.me/theorems/276a2756-1597-4416-bf4e-fa445e44fe42

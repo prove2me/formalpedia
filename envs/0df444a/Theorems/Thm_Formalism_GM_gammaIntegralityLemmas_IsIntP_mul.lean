@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IsIntP_mul
 -- name    : Formalism.GM.gammaIntegralityLemmas.IsIntP.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:30:39.638021+00:00
 -- url     : https://prove2.me/theorems/18a4105a-1870-4ff8-9df6-5b0b0925fb72

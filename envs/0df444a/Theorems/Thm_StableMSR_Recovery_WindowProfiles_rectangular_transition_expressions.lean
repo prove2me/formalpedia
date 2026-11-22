@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowProfiles_rectangular_transition_expressions
 -- name    : StableMSR.Recovery.WindowProfiles.rectangular_transition_expressions
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T21:59:54.456661+00:00
 -- url     : https://prove2.me/theorems/629912a2-b494-46d3-8fbd-76055ee1f3ef

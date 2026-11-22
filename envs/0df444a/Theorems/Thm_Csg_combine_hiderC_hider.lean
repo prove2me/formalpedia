@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_combine_hiderC_hider
 -- name    : Csg.combine_hiderC_hider
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:01:43.709817+00:00
 -- url     : https://prove2.me/theorems/99915043-0475-45c3-9341-b3f98f4f7e63

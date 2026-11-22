@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_payoff_le_of_forall_le
 -- name    : Csg.MatrixGame.payoff_le_of_forall_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:03:05.204494+00:00
 -- url     : https://prove2.me/theorems/bbc947bc-db03-45be-8905-d9ae0b4ac8a4

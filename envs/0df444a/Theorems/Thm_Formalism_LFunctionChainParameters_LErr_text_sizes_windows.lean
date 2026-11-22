@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_text_sizes_windows
 -- name    : Formalism.LFunctionChainParameters.LErr.text_sizes_windows
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:07:50.732751+00:00
 -- url     : https://prove2.me/theorems/0eb91cec-e5b1-4664-939e-8026fa0cf329
