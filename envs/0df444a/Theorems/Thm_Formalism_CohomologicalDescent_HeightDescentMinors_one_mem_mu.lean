@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_one_mem_mu
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.one_mem_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:04.752236+00:00
 -- url     : https://prove2.me/theorems/9f0a7cf6-8b7c-4755-ad14-9348fe6816f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_dvrOfStd_sq
 -- name    : Formalism.MainNotions.G.dvrOfStd_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:00.516525+00:00
 -- url     : https://prove2.me/theorems/92f5f9d5-4025-40e2-be86-a0de09b92b9f

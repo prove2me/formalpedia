@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_map_q0_padicInt
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.map_q0_padicInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:14.973301+00:00
 -- url     : https://prove2.me/theorems/992ae6ef-a25a-4863-a785-9d8ff6dce6d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_existsUnique_teichmuller_lift
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.existsUnique_teichmuller_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:03:38.81308+00:00
 -- url     : https://prove2.me/theorems/8bf79f61-166a-440f-9d10-e78e8738e10c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormLifting_linPart_apply
 -- name    : Formalism.HermitianLattices.Ext.L3.NormLifting.linPart_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:27:46.598515+00:00
 -- url     : https://prove2.me/theorems/9e4c1309-3c12-4d4d-a687-9cf803f4dfca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplierLearning_period_two_double
 -- name    : SupplierLearning.period_two_double
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T19:49:53.256496+00:00
 -- url     : https://prove2.me/theorems/2c96e49b-8d04-48a1-af41-275e36932270

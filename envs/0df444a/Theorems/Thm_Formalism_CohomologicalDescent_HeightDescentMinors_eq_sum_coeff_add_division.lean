@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_eq_sum_coeff_add_division
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.eq_sum_coeff_add_division
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:44.458061+00:00
 -- url     : https://prove2.me/theorems/6daa8e60-5e72-4edc-8fde-c03f00116195

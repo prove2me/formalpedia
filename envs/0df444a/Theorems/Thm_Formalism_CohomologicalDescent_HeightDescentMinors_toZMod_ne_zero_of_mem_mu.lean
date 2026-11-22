@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_toZMod_ne_zero_of_mem_mu
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.toZMod_ne_zero_of_mem_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:04:17.034218+00:00
 -- url     : https://prove2.me/theorems/091d7faf-547f-42ad-abb4-23a296c5ab42

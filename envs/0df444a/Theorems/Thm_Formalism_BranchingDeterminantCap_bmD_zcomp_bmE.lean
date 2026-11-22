@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmD_zcomp_bmE
 -- name    : Formalism.BranchingDeterminantCap.bmD_zcomp_bmE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:04:16.83945+00:00
 -- url     : https://prove2.me/theorems/d7713984-b2d1-4e3c-b41b-27f24d18f8eb

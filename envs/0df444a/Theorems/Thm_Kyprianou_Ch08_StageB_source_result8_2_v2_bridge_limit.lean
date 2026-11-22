@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_2_v2_bridge_limit
 -- name    : Kyprianou.Ch08.StageB.source_result8_2_v2_bridge_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T18:22:09.821929+00:00
 -- url     : https://prove2.me/theorems/6fa92b45-9807-41dc-aa37-69614f7e319e

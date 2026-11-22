@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_dimPol_succ_eq_real
 -- name    : Formalism.CountingSumsFrames.dimPol_succ_eq_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:04:29.186444+00:00
 -- url     : https://prove2.me/theorems/9077b053-4579-4f9b-8cb1-416b11e13d93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_le_lfInner_of_step
 -- name    : Comp.CsgQ.le_lfInner_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:01:50.993458+00:00
 -- url     : https://prove2.me/theorems/ddbd22d3-d483-4bbf-b6e4-89cec267f2d4

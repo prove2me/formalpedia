@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_hasSubst_X_pow_of_ne_zero
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.hasSubst_X_pow_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:04.551807+00:00
 -- url     : https://prove2.me/theorems/ed0703d6-9d0f-4a44-bca5-65ff402d1d13

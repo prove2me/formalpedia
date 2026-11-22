@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_coe_gStepF
 -- name    : Comp.CsgQ.coe_gStepF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:53:07.988041+00:00
 -- url     : https://prove2.me/theorems/47fd2d49-1500-4d04-8d86-719cc3d431cd

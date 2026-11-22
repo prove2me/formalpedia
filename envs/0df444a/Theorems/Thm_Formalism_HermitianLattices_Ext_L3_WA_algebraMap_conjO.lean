@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_algebraMap_conjO
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.algebraMap_conjO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:15.631943+00:00
 -- url     : https://prove2.me/theorems/4c398b1a-4f7c-410d-bc62-73a8237cfcd6

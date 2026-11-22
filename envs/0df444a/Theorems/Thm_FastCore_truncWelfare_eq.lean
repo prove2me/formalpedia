@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCore_truncWelfare_eq
 -- name    : FastCore.truncWelfare_eq
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:31:50.33129+00:00
 -- url     : https://prove2.me/theorems/a03d6b51-9976-4c6f-a9b9-0d1be13776e1

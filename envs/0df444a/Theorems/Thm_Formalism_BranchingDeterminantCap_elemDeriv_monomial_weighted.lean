@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_elemDeriv_monomial_weighted
 -- name    : Formalism.BranchingDeterminantCap.elemDeriv_monomial_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:03:04.633513+00:00
 -- url     : https://prove2.me/theorems/a04221d4-0aba-4395-8165-ccfbaff98909

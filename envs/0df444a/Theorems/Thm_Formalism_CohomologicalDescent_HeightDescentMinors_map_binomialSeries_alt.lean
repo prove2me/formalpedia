@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_map_binomialSeries_alt
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.map_binomialSeries_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:06.949955+00:00
 -- url     : https://prove2.me/theorems/6fc42f48-2132-4077-bbdd-fc99e525894d

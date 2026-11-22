@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowMasks_native_block_literal_compiler
 -- name    : StableMSR.Recovery.WindowMasks.native_block_literal_compiler
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T23:25:35.197931+00:00
 -- url     : https://prove2.me/theorems/297e107e-56d6-422c-ba05-ff0bb36b659f

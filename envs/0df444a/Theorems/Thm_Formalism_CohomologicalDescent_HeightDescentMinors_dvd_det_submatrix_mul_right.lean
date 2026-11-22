@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_dvd_det_submatrix_mul_right
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.dvd_det_submatrix_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:36.750192+00:00
 -- url     : https://prove2.me/theorems/db68c184-bca5-47bf-a08e-26208545680b

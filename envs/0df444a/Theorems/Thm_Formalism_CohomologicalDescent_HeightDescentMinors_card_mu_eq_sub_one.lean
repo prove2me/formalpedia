@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_card_mu_eq_sub_one
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.card_mu_eq_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:40.664587+00:00
 -- url     : https://prove2.me/theorems/f2e88851-fdd1-4dcc-a5dc-14aa3814ab1c

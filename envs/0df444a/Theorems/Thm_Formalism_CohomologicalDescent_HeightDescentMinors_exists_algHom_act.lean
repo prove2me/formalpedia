@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_exists_algHom_act
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.exists_algHom_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:53.433363+00:00
 -- url     : https://prove2.me/theorems/21eaddb8-5130-4570-a158-db69e891810c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerr_inner_horizon_counterexample
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:58:54.609989+00:00
 -- url     : https://prove2.me/submissions/63785fd8-3a0a-4a9d-8eee-d84e18e05364
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_kerrNewman_isStationaryBlackHole
 import Theorems.Thm_NoHair_kerrNewman_stationaryFlatEnd

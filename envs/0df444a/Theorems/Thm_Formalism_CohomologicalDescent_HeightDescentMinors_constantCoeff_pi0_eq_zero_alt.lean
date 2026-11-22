@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_constantCoeff_pi0_eq_zero_alt
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.constantCoeff_pi0_eq_zero_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:54.318403+00:00
 -- url     : https://prove2.me/theorems/49e77b3b-2bff-45ae-935e-3573c0f5ec0d

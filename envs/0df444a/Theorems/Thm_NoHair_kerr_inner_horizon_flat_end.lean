@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_inner_horizon_flat_end
 -- name    : NoHair.kerr_inner_horizon_flat_end
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:54:25.512805+00:00
 -- url     : https://prove2.me/theorems/0d8ea1f1-b738-4c4d-9088-ccfe1a122b01

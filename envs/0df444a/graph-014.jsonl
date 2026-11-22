@@ -88065,15 +88065,15 @@
 {"parent": "ParriloTheta.corollary_5_3", "child": "ParriloTheta_thetaRank", "via": ["statement"]}
 {"parent": "ParriloTheta.corollary_5_3", "child": "ChvatalPolytopes_Separation_AlphaCritical", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P35.cayley_logarithmic", "child": "QAlgorithms_Papers_Independent_Intakenext100_P35", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_Standing", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_supplierPayoff", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_Feasible", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_U", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Contract", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_deltaR", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_deltaC", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_rentBound", "via": ["statement"]}
-{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params", "via": ["statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_Standing", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_supplierPayoff", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_Feasible", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_U", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Contract", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_deltaR", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_deltaC", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params_rentBound", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.claim_4", "child": "SupplierLearning_Params", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K8.check_15", "child": "OAIQ024S016", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K8.check_15", "child": "OAIQ024S013", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K8.check_15", "child": "OAIQ024S014", "via": ["solution", "statement"]}
@@ -91434,12 +91434,12 @@
 {"parent": "Ironclad.relPerf_strictMonoOn", "child": "Ironclad_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "ScalarMultiRisk_Qe", "child": "ScalarMultiRisk_dualKK", "via": ["statement"]}
 {"parent": "CombOpt_MatroidIntersectionPolytope_IsTDI", "child": "CombOpt_MatroidIntersectionPolytope_polyhedron", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_Standing", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_separatingLow", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_IsPeriodTwoMax", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_poolingQuantity", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_separatingHigh", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params", "via": ["statement"]}
+{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_Standing", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_separatingLow", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_IsPeriodTwoMax", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_poolingQuantity", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_separatingHigh", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params", "via": ["solution", "statement"]}
 {"parent": "NetServicePricing_fixedPriceTraj", "child": "NetServicePricing_adjusted", "via": ["statement"]}
 {"parent": "Tatamibari.NPC.clause_profile_complete", "child": "Tatamibari_NPC_ClauseSemantics", "via": ["statement"]}
 {"parent": "PrideGuilt_InOmega4", "child": "PrideGuilt_dc", "via": ["statement"]}
@@ -94233,10 +94233,10 @@
 {"parent": "CongruencyTU.theorem_1", "child": "CongruencyTU_Machine", "via": ["statement"]}
 {"parent": "LL_Decomp1535a.norm_S_le", "child": "LL_Decomp1535a_theta", "via": ["solution", "statement"]}
 {"parent": "LL_Decomp1535a.norm_S_le", "child": "LL_Decomp1535a_S", "via": ["solution", "statement"]}
-{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_IsBidProfile", "via": ["statement"]}
-{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_IsZeroFreeWinnerSet", "via": ["statement"]}
-{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_w", "via": ["statement"]}
-{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_trunc", "via": ["statement"]}
+{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_IsBidProfile", "via": ["solution", "statement"]}
+{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_IsZeroFreeWinnerSet", "via": ["solution", "statement"]}
+{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_w", "via": ["solution", "statement"]}
+{"parent": "FastCore.truncWelfare_eq", "child": "FastCore_trunc", "via": ["solution", "statement"]}
 {"parent": "KallMayerSLP_RecourseBounds_genEMMeasure", "child": "KallMayerSLP_RecourseBounds_genEMWeight", "via": ["statement"]}
 {"parent": "MarkovProcess.Kernel.fromLifetimePathKernel_toLifetimePathKernel", "child": "MarkovProcess_V3H_Lifetime_NonexplosiveTransport_b1c8e8b2", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.Kernel.fromLifetimePathKernel_toLifetimePathKernel", "child": "MarkovProcess_V3H_Lifetime_Law_b2011c24", "via": ["solution", "statement"]}

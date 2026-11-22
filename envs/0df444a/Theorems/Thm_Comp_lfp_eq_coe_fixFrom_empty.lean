@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_lfp_eq_coe_fixFrom_empty
 -- name    : Comp.lfp_eq_coe_fixFrom_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:49:36.62499+00:00
 -- url     : https://prove2.me/theorems/654df92b-5177-4ad9-ae9e-5aea2226b43a

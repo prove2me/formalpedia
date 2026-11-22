@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_map_algebraMap_binomialSeriesSubOne
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.map_algebraMap_binomialSeriesSubOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:03:43.465796+00:00
 -- url     : https://prove2.me/theorems/d343dcff-709c-4c08-98d2-a16a74d33d1d

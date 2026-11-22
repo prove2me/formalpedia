@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_coe_iter_le_LW
 -- name    : Comp.CsgQ.coe_iter_le_LW
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:07:39.085796+00:00
 -- url     : https://prove2.me/theorems/9d42a91f-d59f-4d44-8a67-4ef70a9712ba

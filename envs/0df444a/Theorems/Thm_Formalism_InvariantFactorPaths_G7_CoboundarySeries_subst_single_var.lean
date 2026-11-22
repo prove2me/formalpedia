@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_subst_single_var
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.subst_single_var
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:25:53.215449+00:00
 -- url     : https://prove2.me/theorems/4a76cc72-4554-4b19-8574-20a2524d957a

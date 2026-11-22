@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_fixFrom_empty_fixed
 -- name    : Comp.fixFrom_empty_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:14:08.356126+00:00
 -- url     : https://prove2.me/theorems/e1bea76a-0b6a-418f-b259-f9a0fe352761

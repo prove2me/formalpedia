@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_fixFrom_univ_fixed
 -- name    : Comp.fixFrom_univ_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:14:01.279427+00:00
 -- url     : https://prove2.me/theorems/8802b058-bd14-4484-9539-aa1c1800d264

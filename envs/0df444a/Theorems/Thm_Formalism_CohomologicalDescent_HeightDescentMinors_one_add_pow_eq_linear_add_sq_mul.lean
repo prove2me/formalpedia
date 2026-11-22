@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_one_add_pow_eq_linear_add_sq_mul
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.one_add_pow_eq_linear_add_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:05.782839+00:00
 -- url     : https://prove2.me/theorems/8d157dba-d963-4434-a495-b7b7599a512b

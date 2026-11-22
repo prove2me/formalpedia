@@ -5075,12 +5075,12 @@
 {"parent": "MarkovProcess.isFellerKernelSemigroup_idSemigroup", "child": "MarkovProcess_V3H_Main_4d46965d", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.isFellerKernelSemigroup_idSemigroup", "child": "MarkovProcess_V3H_Examples_Identity_d8db12c8", "via": ["solution", "statement"]}
 {"parent": "MultiServerAppt_pVec", "child": "MultiServerAppt_alphaSys", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_Standing", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_separatingLow", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_IsPeriodTwoMax", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_poolingQuantity", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_separatingHigh", "via": ["statement"]}
-{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params", "via": ["statement"]}
+{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_Standing", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_separatingLow", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_IsPeriodTwoMax", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_poolingQuantity", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params_separatingHigh", "via": ["solution", "statement"]}
+{"parent": "SupplierLearning.period_two_single", "child": "SupplierLearning_Params", "via": ["solution", "statement"]}
 {"parent": "QKPSDP_con29", "child": "QKPSDP_sigmaV", "via": ["statement"]}
 {"parent": "QKPSDP_con29", "child": "QKPSDP_dvec", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P29.jantzen_implies_residue", "child": "QAlgorithms_Papers_Independent_Intake100_P29", "via": ["statement"]}

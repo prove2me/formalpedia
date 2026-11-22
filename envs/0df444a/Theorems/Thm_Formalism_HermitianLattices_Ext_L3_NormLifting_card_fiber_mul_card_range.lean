@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormLifting_card_fiber_mul_card_range
 -- name    : Formalism.HermitianLattices.Ext.L3.NormLifting.card_fiber_mul_card_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:27:58.333912+00:00
 -- url     : https://prove2.me/theorems/31d40178-09b9-4537-aa7a-42655a602a77

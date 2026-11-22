@@ -1,0 +1,30 @@
+-- Prove2me | Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_BoxCountOfZeroDensity
+-- name    : Formalism_GL3MeanSquares_HookFormulaTorsion_BoxCountOfZeroDensity
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T23:48:10.042808+00:00
+-- url     : https://prove2.me/theorems/26faf4be-74a5-4c57-8a9a-c6f3cf54411e
+-- title:
+--   Box Count Of Zero Density
+-- statement:
+--   Definitions and structural lemmas for Box Count Of Zero Density, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GL3MeanSquares/HookFormulaTorsion/BoxCountOfZeroDensity.lean
+
+import Mathlib
+import Definitions.Def_Formalism_GL3MeanSquares_ZeroDensityBox
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TailFinal
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountFinal
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+namespace Formalism.HermitianLattices.ZeroDensityInBoxes
+end Formalism.HermitianLattices.ZeroDensityInBoxes
+
+

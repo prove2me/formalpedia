@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_IsTri_hasSubst
 -- name    : PI.OrbShared.Tri.IsTri.hasSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:20.592079+00:00
 -- url     : https://prove2.me/theorems/cf458dd7-e6da-417b-bd06-96de009a2d9b

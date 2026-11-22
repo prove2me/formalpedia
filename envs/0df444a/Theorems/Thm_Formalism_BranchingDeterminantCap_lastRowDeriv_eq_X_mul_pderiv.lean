@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_lastRowDeriv_eq_X_mul_pderiv
 -- name    : Formalism.BranchingDeterminantCap.lastRowDeriv_eq_X_mul_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:24:59.6138+00:00
 -- url     : https://prove2.me/theorems/99855129-d4c5-4734-8e60-53c0068a9a66

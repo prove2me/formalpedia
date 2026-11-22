@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_jp23_topcap_physical_fullnegative_mark_fibre_L1
 -- name    : AvramDividend.Classical.avram_jp23_topcap_physical_fullnegative_mark_fibre_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T23:28:06.868085+00:00
 -- url     : https://prove2.me/theorems/50e9bf07-8b7c-4a17-a05f-03d209176585

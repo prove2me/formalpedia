@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_orderedProd_smul_of_scalar_actions
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.orderedProd_smul_of_scalar_actions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:11.194834+00:00
 -- url     : https://prove2.me/theorems/775035ce-9baa-4cc3-a935-c15b43340cb7

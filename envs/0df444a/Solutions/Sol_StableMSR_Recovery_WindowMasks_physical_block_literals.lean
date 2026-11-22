@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for StableMSR.Recovery.WindowMasks.physical_block_literals
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @lreyzin
 -- created : 2026-11-22T23:26:25.235488+00:00
 -- url     : https://prove2.me/submissions/908575ca-9689-43db-8276-b6fc0a9556c9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_StableMSR_WindowBlockMasks
 import Theorems.Thm_StableMSR_Recovery_WindowMasks_canonical_block_endpoints

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bm_ndEul_eq
 -- name    : Formalism.BranchingDeterminantCap.bm_ndEul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:23:52.943936+00:00
 -- url     : https://prove2.me/theorems/457ba98f-0af6-406f-b2b9-68e2065e3176

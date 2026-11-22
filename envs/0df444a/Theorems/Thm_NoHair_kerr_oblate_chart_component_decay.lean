@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_oblate_chart_component_decay
 -- name    : NoHair.kerr_oblate_chart_component_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T23:24:05.051584+00:00
 -- url     : https://prove2.me/theorems/5aa5a4ce-2fca-47e8-94a8-d9705d3db435

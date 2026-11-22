@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_HeightDescentMinors_dvd_subst_self
 -- name    : Formalism.CohomologicalDescent.HeightDescentMinors.dvd_subst_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:32.831814+00:00
 -- url     : https://prove2.me/theorems/e00c0255-3a86-41a8-b44b-f55b7ecd4b8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Har4_coeff_cases
 -- name    : Formalism.CountingSumsFrames.Har4.coeff_cases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:29:55.283993+00:00
 -- url     : https://prove2.me/theorems/1621135f-1c84-457f-a685-38b3b1a19fa8
