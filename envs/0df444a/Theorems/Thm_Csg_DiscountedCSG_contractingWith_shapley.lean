@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_contractingWith_shapley
 -- name    : Csg.DiscountedCSG.contractingWith_shapley
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:43:00.869435+00:00
 -- url     : https://prove2.me/theorems/80e17315-7aab-49c3-9b00-75c17f273179

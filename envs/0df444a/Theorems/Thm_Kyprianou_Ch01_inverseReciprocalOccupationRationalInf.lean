@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_inverseReciprocalOccupationRationalInf
 -- name    : Kyprianou.Ch01.inverseReciprocalOccupationRationalInf
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T23:07:45.535256+00:00
 -- url     : https://prove2.me/theorems/c2721aeb-d844-4530-b9c1-9e113185dfe4

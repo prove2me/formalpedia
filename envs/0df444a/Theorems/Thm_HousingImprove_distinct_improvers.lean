@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HousingImprove_distinct_improvers
 -- name    : HousingImprove.distinct_improvers
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:27:47.166364+00:00
 -- url     : https://prove2.me/theorems/af0959a8-0ac6-4efa-b8ab-af0fc80c2030

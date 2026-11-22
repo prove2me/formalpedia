@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilateralRegret_lemma_1_eq1
 -- name    : BilateralRegret.lemma_1_eq1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:12:26.267364+00:00
 -- url     : https://prove2.me/theorems/f628fdd5-38e7-48c6-8e17-63d325fd7d26

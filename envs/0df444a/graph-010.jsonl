@@ -28327,7 +28327,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Next46.P05.lemma_2_39", "child": "QAlgorithms_Papers_Independent_Next46_P05", "via": ["statement"]}
 {"parent": "DouyinDQ.Bias.corollary_1", "child": "DouyinDQ_Bias_Model", "via": ["solution", "statement"]}
 {"parent": "ModernConvex.Truss.variational_compliance", "child": "ModernConvex_Truss_Compliance", "via": ["solution", "statement"]}
-{"parent": "ProConChoice.Rational.lemma_3", "child": "ProConChoice_Rational_RandomChoice", "via": ["statement"]}
+{"parent": "ProConChoice.Rational.lemma_3", "child": "ProConChoice_Rational_RandomChoice", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support21.P11.generic_field_characterization", "child": "QAlgorithms_Papers_Independent_Support21_P11", "via": ["solution", "statement"]}
 {"parent": "InfoRegimes.MarketEq.footnote_15", "child": "InfoRegimes_MarketEq_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.bounded_quotient_representatives_imply_strict_power_generators", "child": "OAI_PiExponent_TruncatedPolynomialJets", "via": ["solution", "statement"]}

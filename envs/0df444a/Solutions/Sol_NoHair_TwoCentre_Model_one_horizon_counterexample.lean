@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.TwoCentre.Model.one_horizon_counterexample
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:52:00.676057+00:00
 -- url     : https://prove2.me/submissions/2e922220-e0f5-4ecb-b80b-e404f4bea0ab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_TwoCentre_Model_stationary_geometry
 import Theorems.Thm_NoHair_TwoCentre_Model_electrovac_in_advanced_atlas

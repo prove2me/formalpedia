@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_reachGameQ_stageValue
 -- name    : Comp.CsgQ.reachGameQ_stageValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:54:00.610984+00:00
 -- url     : https://prove2.me/theorems/77590578-7511-4c42-8ef8-61cb71dfd86d

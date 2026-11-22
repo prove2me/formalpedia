@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CSym_sum_comp
 -- name    : Formalism.InvariantFactorPaths.G7.CSym.sum_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:28.379145+00:00
 -- url     : https://prove2.me/theorems/a6376c3b-0a23-46e6-996b-2b342b121ad4

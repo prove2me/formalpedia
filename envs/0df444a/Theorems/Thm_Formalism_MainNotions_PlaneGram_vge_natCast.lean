@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vge_natCast
 -- name    : Formalism.MainNotions.PlaneGram.vge_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:06:35.139464+00:00
 -- url     : https://prove2.me/theorems/f2b13a49-285f-41a6-81a4-0790f6706403

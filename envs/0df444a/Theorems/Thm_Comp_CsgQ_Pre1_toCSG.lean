@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_Pre1_toCSG
 -- name    : Comp.CsgQ.Pre1_toCSG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:06:21.249662+00:00
 -- url     : https://prove2.me/theorems/87c45cc2-5f05-4724-bad7-e83886beb07f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_inner_horizon_global_hyperbolicity
 -- name    : NoHair.kerr_inner_horizon_global_hyperbolicity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:58:47.43535+00:00
 -- url     : https://prove2.me/theorems/34fb3c8d-0647-427f-9176-cd18adb0b610

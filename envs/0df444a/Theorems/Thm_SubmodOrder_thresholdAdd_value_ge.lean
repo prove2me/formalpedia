@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubmodOrder_thresholdAdd_value_ge
 -- name    : SubmodOrder.thresholdAdd_value_ge
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T11:38:06.28848+00:00
 -- url     : https://prove2.me/theorems/69af865c-84f9-470d-bb4f-4d94e9478f9d

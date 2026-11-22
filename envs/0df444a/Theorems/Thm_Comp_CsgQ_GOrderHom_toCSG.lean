@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_GOrderHom_toCSG
 -- name    : Comp.CsgQ.GOrderHom_toCSG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:52:36.005947+00:00
 -- url     : https://prove2.me/theorems/36931d28-5bd4-4194-bf55-9c192255beb8

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerr_inner_horizon_geometry
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T23:07:55.979854+00:00
 -- url     : https://prove2.me/submissions/20d56dab-a3c0-4395-a354-af42c03550c4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NoHair_KerrNewmanEinstein_Base
 import Theorems.Thm_NoHair_ksRadius_superlevel_frontier

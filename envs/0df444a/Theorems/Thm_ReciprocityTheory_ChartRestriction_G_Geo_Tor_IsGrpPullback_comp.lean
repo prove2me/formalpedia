@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_IsGrpPullback_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsGrpPullback.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:14:31.792081+00:00
 -- url     : https://prove2.me/theorems/0f0a7c17-5c7a-4e99-9815-7cc9870f14bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrderHom_gfp_mem_Icc_of_certificate
 -- name    : OrderHom.gfp_mem_Icc_of_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:53:38.919802+00:00
 -- url     : https://prove2.me/theorems/a5553cdd-4a38-489d-922e-4418f4aa6215

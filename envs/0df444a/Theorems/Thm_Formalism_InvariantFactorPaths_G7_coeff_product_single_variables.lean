@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_coeff_product_single_variables
 -- name    : Formalism.InvariantFactorPaths.G7.coeff_product_single_variables
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:55:17.42682+00:00
 -- url     : https://prove2.me/theorems/f8526b80-ca5e-4d8f-aa6e-28f9e59b7b32

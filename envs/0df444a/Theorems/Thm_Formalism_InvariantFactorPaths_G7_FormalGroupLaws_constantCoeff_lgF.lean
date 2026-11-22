@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_constantCoeff_lgF
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.constantCoeff_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:13.947221+00:00
 -- url     : https://prove2.me/theorems/422ffb87-03eb-431c-8f25-ef14accd4575

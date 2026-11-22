@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_colSums
 -- name    : Formalism.GradedWeylDivisibility.colSums
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:40:39.076034+00:00
 -- url     : https://prove2.me/theorems/f020aff8-fc2f-44a8-bfeb-27f4954fd258

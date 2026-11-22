@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_WModel_norm_def
 -- name    : Formalism.InvariantFactorPaths.G7.WModel.norm_def
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:07:43.475937+00:00
 -- url     : https://prove2.me/theorems/114a5b7d-e1d7-47f7-9cb2-cac2cb84e89b

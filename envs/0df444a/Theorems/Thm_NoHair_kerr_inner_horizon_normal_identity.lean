@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_inner_horizon_normal_identity
 -- name    : NoHair.kerr_inner_horizon_normal_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T23:07:02.094982+00:00
 -- url     : https://prove2.me/theorems/fb92e629-3134-4f4d-94fa-7b059ccc821a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_Lpre1_empty_x
 -- name    : Csg.CSG.Lpre1_empty_x
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:07:09.148404+00:00
 -- url     : https://prove2.me/theorems/e718a642-7547-46b9-beff-a41bdc0dd69e

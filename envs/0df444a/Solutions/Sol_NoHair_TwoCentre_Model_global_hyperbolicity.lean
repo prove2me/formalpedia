@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.TwoCentre.Model.global_hyperbolicity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:18:10.507814+00:00
 -- url     : https://prove2.me/submissions/e866c779-0ca4-47bf-b657-9d2af8b7a038
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_TwoCentre_Model_closed_causal_diamonds
 import Theorems.Thm_NoHair_TwoCentre_optical_confinement

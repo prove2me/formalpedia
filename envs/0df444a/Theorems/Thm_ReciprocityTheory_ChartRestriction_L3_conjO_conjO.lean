@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_conjO_conjO
 -- name    : ReciprocityTheory.ChartRestriction.L3.conjO_conjO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:44.900365+00:00
 -- url     : https://prove2.me/theorems/c98adb33-4a6b-4819-978f-fa756bcf19fa

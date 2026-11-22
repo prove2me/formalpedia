@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_coeff_lgF_pow
 -- name    : Formalism.InvariantFactorPaths.G7.coeff_lgF_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:55:38.028364+00:00
 -- url     : https://prove2.me/theorems/78e833ea-183e-49ea-860f-0d36720682b9

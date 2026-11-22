@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_exists_unique_fixedPoint
 -- name    : Csg.DiscountedCSG.exists_unique_fixedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:54:12.317866+00:00
 -- url     : https://prove2.me/theorems/5f3f7564-3de3-4042-af9f-6df7185ec309

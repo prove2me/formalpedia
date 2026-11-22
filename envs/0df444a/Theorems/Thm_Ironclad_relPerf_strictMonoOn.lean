@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ironclad_relPerf_strictMonoOn
 -- name    : Ironclad.relPerf_strictMonoOn
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:26:27.787202+00:00
 -- url     : https://prove2.me/theorems/2c8ddb5d-d7e8-4ee0-b9f0-3eb97e9f2ea3

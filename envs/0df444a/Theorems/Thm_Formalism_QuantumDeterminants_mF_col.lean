@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_mF_col
 -- name    : Formalism.QuantumDeterminants.mF_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:49.07159+00:00
 -- url     : https://prove2.me/theorems/1364e579-aa18-4391-9b27-09010177c348

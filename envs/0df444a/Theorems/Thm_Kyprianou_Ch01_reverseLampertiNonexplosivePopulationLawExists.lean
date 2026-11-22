@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosivePopulationLawExists
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosivePopulationLawExists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:40:11.516796+00:00
 -- url     : https://prove2.me/theorems/eedf99b6-d4d0-428c-bd29-d18cc4800986

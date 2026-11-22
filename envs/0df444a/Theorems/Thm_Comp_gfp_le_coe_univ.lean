@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_gfp_le_coe_univ
 -- name    : Comp.gfp_le_coe_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:11:49.17489+00:00
 -- url     : https://prove2.me/theorems/6364e7a6-0f47-45b0-bf6a-1daa267fc842

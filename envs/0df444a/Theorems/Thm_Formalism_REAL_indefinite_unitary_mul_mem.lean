@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_indefinite_unitary_mul_mem
 -- name    : Formalism.REAL.indefinite_unitary_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:18.901001+00:00
 -- url     : https://prove2.me/theorems/e2dc13a3-fdec-4e6c-a1c3-16d896127ca1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_eq_zero_of_eq_neg_self_of_algebra_complex
 -- name    : Formalism.REAL.eq_zero_of_eq_neg_self_of_algebra_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:19.238492+00:00
 -- url     : https://prove2.me/theorems/28119076-f982-40d4-99e4-47afc05bc9ec

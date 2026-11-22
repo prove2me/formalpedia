@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_measurableInverseReciprocalOccupationFromSections
 -- name    : Kyprianou.Ch01.measurableInverseReciprocalOccupationFromSections
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:10:33.518947+00:00
 -- url     : https://prove2.me/theorems/2dc7607e-9030-4adc-a4f2-df34dd1edc17

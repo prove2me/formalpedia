@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_TwoCentre_Model_one_horizon_counterexample
 -- name    : NoHair.TwoCentre.Model.one_horizon_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:51:00.645623+00:00
 -- url     : https://prove2.me/theorems/84975594-a830-42db-a289-c13d23e1c01b

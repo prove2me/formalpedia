@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_gfp_eq_coe_fixFrom
 -- name    : Comp.gfp_eq_coe_fixFrom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:12:05.35775+00:00
 -- url     : https://prove2.me/theorems/e8add230-5b46-4d33-b18e-62a92c9bd635

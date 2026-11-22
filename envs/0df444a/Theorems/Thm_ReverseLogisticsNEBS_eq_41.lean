@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReverseLogisticsNEBS_eq_41
 -- name    : ReverseLogisticsNEBS.eq_41
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:52:49.175736+00:00
 -- url     : https://prove2.me/theorems/61000bc8-6586-4e0d-b1b6-e616490fdb7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ironclad_stationary_distribution
 -- name    : Ironclad.stationary_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:26:26.064996+00:00
 -- url     : https://prove2.me/theorems/353c757c-4dea-4188-a257-6f5c372d2c1c

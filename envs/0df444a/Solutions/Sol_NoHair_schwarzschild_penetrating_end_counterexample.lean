@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.schwarzschild_penetrating_end_counterexample
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:45:50.18782+00:00
 -- url     : https://prove2.me/submissions/f01f10b7-9769-4ba0-849e-a0332409c1d4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_schwarzschild_unit_cutoff_end
 import Theorems.Thm_NoHair_schwarzschild_unit_cutoff_causality

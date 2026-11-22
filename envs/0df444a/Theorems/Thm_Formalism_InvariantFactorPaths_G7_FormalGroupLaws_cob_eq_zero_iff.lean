@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_cob_eq_zero_iff
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.cob_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:11.024825+00:00
 -- url     : https://prove2.me/theorems/73a943b5-0012-4cc3-98e6-cb663cd7debb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_cbCoin_apply_left
 -- name    : Csg.cbCoin_apply_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T23:03:29.368957+00:00
 -- url     : https://prove2.me/theorems/c2aa1b25-fbac-4448-891e-c48e38e86ed4

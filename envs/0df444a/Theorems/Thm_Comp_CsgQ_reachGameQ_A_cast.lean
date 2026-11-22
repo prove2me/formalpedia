@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_reachGameQ_A_cast
 -- name    : Comp.CsgQ.reachGameQ_A_cast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:53:40.816949+00:00
 -- url     : https://prove2.me/theorems/7a77be6b-d4cf-4a81-b348-eeaed42720ac

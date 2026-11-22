@@ -1567,7 +1567,7 @@
 {"parent": "ContPatrol.lemma_1", "child": "ContPatrol_MetricGraph_IsNetwork", "via": ["statement"]}
 {"parent": "ContPatrol.lemma_1", "child": "ContPatrol_MetricGraph_uniformAttack", "via": ["statement"]}
 {"parent": "ContPatrol.lemma_1", "child": "ContPatrol_MetricGraph_lowerValue", "via": ["statement"]}
-{"parent": "DecDepSO.lemma_7_1", "child": "DecDepSO_Assumption7ab", "via": ["statement"]}
+{"parent": "DecDepSO.lemma_7_1", "child": "DecDepSO_Assumption7ab", "via": ["solution", "statement"]}
 {"parent": "ScalableMARL_Assumptions", "child": "ScalableMARL_NetworkedMDP", "via": ["statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J2K7.checks", "child": "OAIQ024S016", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane.tendstoZeroCInfty_comp_periodic", "child": "FiniteEnergyPlane_Asymptotics", "via": ["solution", "statement"]}
@@ -25761,7 +25761,7 @@
 {"parent": "StatefulPricing.thm_3_6_proof_I", "child": "StatefulPricing_Instance", "via": ["solution", "statement"]}
 {"parent": "StatefulPricing.thm_3_6_proof_I", "child": "StatefulPricing_Chase", "via": ["solution", "statement"]}
 {"parent": "SubmodOrder.thresholdAdd_value_ge", "child": "SubmodOrder_OracleProg", "via": ["statement"]}
-{"parent": "SubmodOrder.thresholdAdd_value_ge", "child": "SubmodOrder_thresholdAdd", "via": ["statement"]}
+{"parent": "SubmodOrder.thresholdAdd_value_ge", "child": "SubmodOrder_thresholdAdd", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_connected_extension__p2m_f1a10c6f_98ea_4f43_9f3f_2fa486717043_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "LocalDOvS_SUS_initState", "child": "LocalDOvS_SUS_SUSState", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P78.symmetric_qft", "child": "QAlgorithms_Papers_Independent_Intakenext100_P78", "via": ["statement"]}
@@ -28956,7 +28956,7 @@
 {"parent": "SelfGuidedALP_IsAlgorithm2Run", "child": "SelfGuidedALP_IsFALPSGOptimal", "via": ["statement"]}
 {"parent": "ActiveCtxSearch_MarginAL", "child": "ActiveCtxSearch_WhileLoop", "via": ["statement"]}
 {"parent": "ActiveCtxSearch_MarginAL", "child": "ActiveCtxSearch_Errors", "via": ["statement"]}
-{"parent": "HousingImprove.distinct_improvers", "child": "HousingImprove_IsPImprovement", "via": ["statement"]}
+{"parent": "HousingImprove.distinct_improvers", "child": "HousingImprove_IsPImprovement", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedian.PCP.PortCSP.powered_amplification_s53", "child": "OAIQ053K036", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedian.PCP.PortCSP.powered_amplification_s53", "child": "OAIQ053K035", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P13.diamond_dominatesTrace", "child": "QAlgorithms_Papers_Independent_Intakethird100_P13", "via": ["statement"]}
@@ -32175,7 +32175,7 @@
 {"parent": "RecoveringBandits.lemma_2", "child": "RecoveringBandits_OPT", "via": ["statement"]}
 {"parent": "RecoveringBandits.lemma_2", "child": "RecoveringBandits_UB", "via": ["statement"]}
 {"parent": "RecoveringBandits.lemma_2", "child": "RecoveringBandits_Lemma2Prop", "via": ["statement"]}
-{"parent": "BilateralRegret.lemma_1_eq1", "child": "BilateralRegret_GFT", "via": ["statement"]}
+{"parent": "BilateralRegret.lemma_1_eq1", "child": "BilateralRegret_GFT", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_04a_actual_intrinsic_jump_measure_rectangle_encard", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave4_04a_actual_intrinsic_jump_measure_rectangle_encard", "child": "AvramDividend.Classical.avram_wave4_04a_actual_levy_jumpmark_joint_measurable", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_23_4_11_s50", "child": "OAIQ050L005", "via": ["solution", "statement"]}
@@ -33276,8 +33276,8 @@
 {"parent": "WildeQIT.Recover.theorem_12_1_1", "child": "WildeQIT_Recover_qRelEntropy", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_11_5_1_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "QseriesFormalization.Pending.JTPFormalPSMod7.norm_coeff_partial_mod7TripleFactorPS_complex_le", "child": "QseriesFormalization_Pending_JTP_FormalPS_Mod7", "via": ["statement"]}
-{"parent": "HousingImprove.init_subAllocation", "child": "HousingImprove_Step", "via": ["statement"]}
-{"parent": "HousingImprove.init_subAllocation", "child": "HousingImprove_IsPImprovement", "via": ["statement"]}
+{"parent": "HousingImprove.init_subAllocation", "child": "HousingImprove_Step", "via": ["solution", "statement"]}
+{"parent": "HousingImprove.init_subAllocation", "child": "HousingImprove_IsPImprovement", "via": ["solution", "statement"]}
 {"parent": "MVBlossoms_baseSet", "child": "MVBlossoms_IsEvenLevelPath", "via": ["statement"]}
 {"parent": "MVBlossoms_baseSet", "child": "MVBlossoms_IsOddLevelPath", "via": ["statement"]}
 {"parent": "MVBlossoms_baseSet", "child": "MVBlossoms_IsBaseWrtPath", "via": ["statement"]}
@@ -86255,7 +86255,7 @@
 {"parent": "Light.Stmt.width_set_le_iff", "child": "Submission_ThreeSumApsp_Machine_Steps", "via": ["solution", "statement"]}
 {"parent": "Light.Stmt.width_set_le_iff", "child": "Submission_ThreeSumApsp_Lang_Compiler_StatementCode", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.BinarySearch.upperSearch_correct_w3sum_ac885d1", "child": "Submission_ThreeSum_BinarySearch", "via": ["solution", "statement"]}
-{"parent": "ReverseLogisticsNEBS.eq_41", "child": "ReverseLogisticsNEBS_nebsE", "via": ["statement"]}
+{"parent": "ReverseLogisticsNEBS.eq_41", "child": "ReverseLogisticsNEBS_nebsE", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedFrontendResources.polyNeed", "child": "Submission_ThreeSum_ArithmeticStageBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedFrontendResources.polyNeed", "child": "Submission_Weighted_FrontendResources", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.WeightedFrontendResources.polyNeed", "child": "Submission_ThreeSum_PolynomialResources", "via": ["solution", "statement"]}

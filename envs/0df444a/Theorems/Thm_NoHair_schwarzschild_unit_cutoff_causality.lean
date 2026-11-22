@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_schwarzschild_unit_cutoff_causality
 -- name    : NoHair.schwarzschild_unit_cutoff_causality
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:44:36.688531+00:00
 -- url     : https://prove2.me/theorems/ddc642bf-c57b-4b4d-b191-d17c8ed3de9c

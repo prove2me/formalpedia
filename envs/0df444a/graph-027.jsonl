@@ -61572,7 +61572,7 @@
 {"parent": "QEC.Coding.BDL26RXInfluenceBounds.readRegion_iff_distance", "child": "QEC_Coding_FiniteAlternatingConstruction_RXCoarseInfluence", "via": ["solution", "statement"]}
 {"parent": "OAI.SmoothMobiusCorrection.ordinaryPrimeValue_summable", "child": "OAI_NumberTheory_DirichletL_Hecke_MobiusEulerCorrection", "via": ["solution", "statement"]}
 {"parent": "OAI.SmoothMobiusCorrection.ordinaryPrimeValue_summable", "child": "OAI_NumberTheory_DirichletL_Mellin_SixthPowerAverage", "via": ["solution", "statement"]}
-{"parent": "ExactDFTRefine.Main.eq_15", "child": "ExactDFTRefine_Main_Moments", "via": ["statement"]}
+{"parent": "ExactDFTRefine.Main.eq_15", "child": "ExactDFTRefine_Main_Moments", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicKubota.actualCubeCuspPhaseSum_normalized", "child": "OAI_NumberTheory_DirichletL_Eisenstein_AffineCuspFourier", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicKubota.actualCubeCuspPhaseSum_normalized", "child": "OAI_NumberTheory_DirichletL_Eisenstein_IntegralCover", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18p1a1a_original_levy_exponent_integral_split", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -66736,7 +66736,7 @@
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowCenterQuery_cost_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperimentGeometry", "via": ["solution", "statement"]}
 {"parent": "OAIQ098G1645", "child": "OAIQ098G010", "via": ["statement"]}
 {"parent": "OAIQ098G1645", "child": "OAI.SharpPlanar.Numerical.interpolation_exists_unique_g", "via": ["statement"]}
-{"parent": "ExactDFTRefine.Main.eq_11", "child": "ExactDFTRefine_Main_Moments", "via": ["statement"]}
+{"parent": "ExactDFTRefine.Main.eq_11", "child": "ExactDFTRefine_Main_Moments", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_13_13_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_13_13_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "QVolTransducer.lemma_9_8", "child": "QVolTransducer_partitionFn", "via": ["statement"]}

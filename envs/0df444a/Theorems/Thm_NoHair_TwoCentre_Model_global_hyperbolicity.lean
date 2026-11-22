@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_TwoCentre_Model_global_hyperbolicity
 -- name    : NoHair.TwoCentre.Model.global_hyperbolicity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:51:10.507901+00:00
 -- url     : https://prove2.me/theorems/63a22406-6705-472b-98c3-83a0a5cf879c

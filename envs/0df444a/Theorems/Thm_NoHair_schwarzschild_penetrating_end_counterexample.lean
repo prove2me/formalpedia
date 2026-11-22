@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_schwarzschild_penetrating_end_counterexample
 -- name    : NoHair.schwarzschild_penetrating_end_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:44:48.423341+00:00
 -- url     : https://prove2.me/theorems/e587644f-21bf-493a-92aa-2b05169be291

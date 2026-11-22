@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_inner_helical_symmetry
 -- name    : NoHair.kerr_inner_helical_symmetry
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T23:06:58.667519+00:00
 -- url     : https://prove2.me/theorems/096cbc57-7721-4c99-9600-e638c77d8082

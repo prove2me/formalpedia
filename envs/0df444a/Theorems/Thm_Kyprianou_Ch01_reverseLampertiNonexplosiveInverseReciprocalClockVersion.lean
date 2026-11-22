@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveInverseReciprocalClockVersion
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveInverseReciprocalClockVersion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:53:57.704816+00:00
 -- url     : https://prove2.me/theorems/f852e790-8678-45eb-9775-7f5af1318dd3

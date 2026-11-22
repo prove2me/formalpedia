@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_prod_ofFn_split_pair
 -- name    : Formalism.REAL.prod_ofFn_split_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:40.405445+00:00
 -- url     : https://prove2.me/theorems/ab6f9f4e-a0c4-4370-abde-c0e8065baf15

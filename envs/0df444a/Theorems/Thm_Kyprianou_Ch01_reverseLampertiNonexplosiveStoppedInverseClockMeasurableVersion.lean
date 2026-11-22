@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveStoppedInverseClockMeasurableVersion
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveStoppedInverseClockMeasurableVersion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:40:03.196882+00:00
 -- url     : https://prove2.me/theorems/efffa70f-388d-47f5-aaf1-bd6b06171153

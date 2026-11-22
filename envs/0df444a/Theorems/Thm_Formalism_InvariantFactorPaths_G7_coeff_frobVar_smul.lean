@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_coeff_frobVar_smul
 -- name    : Formalism.InvariantFactorPaths.G7.coeff_frobVar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:15.198452+00:00
 -- url     : https://prove2.me/theorems/96913f8e-682e-42c0-800a-758fba5f1e94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_inner_horizon_relative_causality
 -- name    : NoHair.kerr_inner_horizon_relative_causality
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:54:22.073098+00:00
 -- url     : https://prove2.me/theorems/4ae59cb3-c773-413f-a5e8-a2bcdf1d08bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedManna_claim_1
 -- name    : MixedManna.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T04:16:02.002017+00:00
 -- url     : https://prove2.me/theorems/2487b8a6-c2fe-4807-8583-7ed7d012f95d

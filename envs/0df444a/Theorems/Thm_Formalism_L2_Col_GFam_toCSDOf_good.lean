@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_toCSDOf_good
 -- name    : Formalism.L2.Col.GFam.toCSDOf_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:07:51.610318+00:00
 -- url     : https://prove2.me/theorems/ba11fef7-8002-4712-ac06-1798fe81f232

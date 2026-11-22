@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_GBasic_Hpk_sq
 -- name    : Formalism.QuantumDeterminants.GBasic.Hpk_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:44:46.154388+00:00
 -- url     : https://prove2.me/theorems/5c992746-9bb5-405b-852e-4e2aa6375222

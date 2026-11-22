@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_fixAux_fixed_of_compl_card_le
 -- name    : Comp.fixAux_fixed_of_compl_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:13:57.982032+00:00
 -- url     : https://prove2.me/theorems/cd89572f-d47d-4d6f-9ed9-557c4908d7e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_ldeg_phE
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.ldeg_phE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:03:37.756862+00:00
 -- url     : https://prove2.me/theorems/a86baf74-6414-41b0-b333-744f3e386dcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_inner_horizon_geometry
 -- name    : NoHair.kerr_inner_horizon_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:54:23.153696+00:00
 -- url     : https://prove2.me/theorems/4bca7092-c447-45ab-b05f-ca2172a6d056

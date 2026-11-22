@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveStateAEMeasurable
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveStateAEMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:52:30.981199+00:00
 -- url     : https://prove2.me/theorems/5b4cef8f-ef05-4bcd-9c85-4c110d728c6e

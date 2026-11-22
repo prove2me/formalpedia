@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexMargin_claim_B
 -- name    : FlexMargin.claim_B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T03:41:02.146436+00:00
 -- url     : https://prove2.me/theorems/77123a72-c5ca-48ca-8d16-9f501f63ab28

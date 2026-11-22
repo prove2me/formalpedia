@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sum_sum_sub_sum_sum_swap
 -- name    : Formalism.REAL.sum_sum_sub_sum_sum_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:04.803321+00:00
 -- url     : https://prove2.me/theorems/8be09442-dd3c-49a1-b81b-0782ddb1a639

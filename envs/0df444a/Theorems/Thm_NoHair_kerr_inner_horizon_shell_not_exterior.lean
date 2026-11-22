@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerr_inner_horizon_shell_not_exterior
 -- name    : NoHair.kerr_inner_horizon_shell_not_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:54:21.060259+00:00
 -- url     : https://prove2.me/theorems/3a0b5180-4b38-4b4d-84d1-77ebcb383e48

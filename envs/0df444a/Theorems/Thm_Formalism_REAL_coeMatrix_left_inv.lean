@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_coeMatrix_left_inv
 -- name    : Formalism.REAL.coeMatrix_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:29.835914+00:00
 -- url     : https://prove2.me/theorems/8ebdf5b1-bfb5-4fd3-b601-a533dcf684be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HousingImprove_init_subAllocation
 -- name    : HousingImprove.init_subAllocation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T15:28:26.040103+00:00
 -- url     : https://prove2.me/theorems/ec99e822-d3b4-4df6-baaf-5c55078218b5

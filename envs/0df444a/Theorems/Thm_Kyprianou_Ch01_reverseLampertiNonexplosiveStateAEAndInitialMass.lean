@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveStateAEAndInitialMass
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveStateAEAndInitialMass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:47:42.451634+00:00
 -- url     : https://prove2.me/theorems/274da951-c8a4-49c3-a325-3820978f88fd

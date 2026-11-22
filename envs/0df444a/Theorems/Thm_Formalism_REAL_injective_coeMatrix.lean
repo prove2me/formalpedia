@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_injective_coeMatrix
 -- name    : Formalism.REAL.injective_coeMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:44.741388+00:00
 -- url     : https://prove2.me/theorems/f48668f2-5372-4f95-bda3-27d71a1a011e

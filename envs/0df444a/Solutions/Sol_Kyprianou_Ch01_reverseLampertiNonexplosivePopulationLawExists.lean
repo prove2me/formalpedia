@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.reverseLampertiNonexplosivePopulationLawExists
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T20:48:56.022177+00:00
 -- url     : https://prove2.me/submissions/3a1c17ff-5568-47f1-90e3-00d7b3362133
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch01_BranchingClocks

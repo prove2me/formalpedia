@@ -67265,7 +67265,7 @@
 {"parent": "OAIQ081S149", "child": "OAIQ081S130", "via": ["statement"]}
 {"parent": "OAIQ081S149", "child": "OAIQ081S134", "via": ["statement"]}
 {"parent": "OAIQ081S149", "child": "SubexponentialSAT", "via": ["statement"]}
-{"parent": "FlexMargin.claim_A", "child": "FlexMargin_windowCount", "via": ["statement"]}
+{"parent": "FlexMargin.claim_A", "child": "FlexMargin_windowCount", "via": ["solution", "statement"]}
 {"parent": "CrossLayerControl_ECCA_virtD", "child": "CrossLayerControl_ECCA_queueLaw", "via": ["statement"]}
 {"parent": "CrossLayerControl_ECCA_virtD", "child": "CrossLayerControl_ECCA_Downlink", "via": ["statement"]}
 {"parent": "BoundConstrainedPatternSearch.FullConvergence.feasible_core_descent", "child": "LewisTorczon_BoundPS_GPS", "via": ["statement"]}
@@ -69792,7 +69792,7 @@
 {"parent": "CloudAlloc.MWU.claim_3_2_low_utilization", "child": "CloudAlloc_MWU_IsAlg1Run", "via": ["solution", "statement"]}
 {"parent": "BitcoinSelfishErgodic.dist_zero", "child": "BitcoinSelfishMining", "via": ["statement"]}
 {"parent": "BitcoinSelfishErgodic.dist_zero", "child": "BitcoinSelfishErgodic", "via": ["solution", "statement"]}
-{"parent": "FlexMargin.claim_B", "child": "FlexMargin_windowCount", "via": ["statement"]}
+{"parent": "FlexMargin.claim_B", "child": "FlexMargin_windowCount", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P47.trivial_input_se", "child": "QAlgorithms_Papers_Independent_Extend50_P47", "via": ["solution", "statement"]}
 {"parent": "BubeckCO.PSGD.psgd_one_step", "child": "BubeckCO_PSGD_IsSubgradient", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_05_gaussian_generator_cap_continuity", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -86959,9 +86959,9 @@
 {"parent": "MarkovProcess_V3H_Parameterized_Annealed_005d5fdd", "child": "MarkovProcess_V3H_Path_Basic_736b8012", "via": ["statement"]}
 {"parent": "MarkovProcess_V3H_Parameterized_Annealed_005d5fdd", "child": "MarkovProcess_V3H_Parameterized_ContinuousProcess_caf2584d", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P68.distillation_cost_sandwich", "child": "QAlgorithms_Papers_Independent_Intake100_P68", "via": ["statement"]}
-{"parent": "MixedManna.claim_1", "child": "MixedManna_StandingAssumptions", "via": ["statement"]}
-{"parent": "MixedManna.claim_1", "child": "MixedManna_lcpSolutions", "via": ["statement"]}
-{"parent": "MixedManna.claim_1", "child": "MixedManna_IsAdmissibleDelta", "via": ["statement"]}
+{"parent": "MixedManna.claim_1", "child": "MixedManna_StandingAssumptions", "via": ["solution", "statement"]}
+{"parent": "MixedManna.claim_1", "child": "MixedManna_lcpSolutions", "via": ["solution", "statement"]}
+{"parent": "MixedManna.claim_1", "child": "MixedManna_IsAdmissibleDelta", "via": ["solution", "statement"]}
 {"parent": "KallMayerSLP.CondExp.proposition_4_6", "child": "KallMayerSLP_CondExp_wC", "via": ["solution", "statement"]}
 {"parent": "PacketFlowConv_IsHypothetical", "child": "PacketFlowConv_ArcDynamics", "via": ["statement"]}
 {"parent": "PacketFlowConv_IsHypothetical", "child": "PacketFlowConv_Discretization", "via": ["statement"]}

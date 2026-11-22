@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_shiftedGenerator_eq_ite_smul_add
 -- name    : Formalism.REAL.shiftedGenerator_eq_ite_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:55.006048+00:00
 -- url     : https://prove2.me/theorems/29f8def4-2372-4c1e-8fb4-61a4a5862453
