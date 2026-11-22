@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakMFG_Approx_lemma_5_6
 -- name    : WeakMFG.Approx.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:22.845987+00:00
 -- url     : https://prove2.me/theorems/43cd31c4-321d-46ad-9d70-f27ec088778c

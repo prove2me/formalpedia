@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AdaptiveStepIPM.Probabilistic.theorem_5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T13:56:44.83337+00:00
 -- url     : https://prove2.me/submissions/fcb29b97-5a10-4a90-a97a-2bdf0a6afc3e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AdaptiveStepIPM_Probabilistic_lemma_6
 import Theorems.Thm_AdaptiveStepIPM_Probabilistic_lemma_7

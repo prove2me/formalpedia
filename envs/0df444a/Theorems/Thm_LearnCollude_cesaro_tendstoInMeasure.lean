@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnCollude_cesaro_tendstoInMeasure
 -- name    : LearnCollude.cesaro_tendstoInMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T14:02:38.88992+00:00
 -- url     : https://prove2.me/theorems/abbc6929-d2b3-40f9-88ea-cb5e2854ccd6

@@ -29982,7 +29982,7 @@
 {"parent": "WidthK.stBetaSum", "child": "StepMachines_Math_SparsifyCount", "via": ["solution", "statement"]}
 {"parent": "WidthK.stBetaSum", "child": "SparsifyWidthK_Thresholds", "via": ["solution", "statement"]}
 {"parent": "WidthK.stBetaSum", "child": "Groundwork.PolyT.all", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_local_page_family", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_local_page_family", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Tower.chain_facts", "child": "Tower_Defs", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Tower.chain_facts", "child": "Groundwork.PolyT.length", "via": ["solution", "statement"]}
 {"parent": "QueryMachines.Tower.chain_facts", "child": "Tower_Chain", "via": ["solution", "statement"]}
@@ -44007,7 +44007,7 @@
 {"parent": "ClauseBound.Both.rN_nonneg", "child": "ClauseBoundStatement", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Both.rN_nonneg", "child": "ClauseBound_TopN_Budget", "via": ["solution", "statement"]}
 {"parent": "ClauseBound.Both.rN_nonneg", "child": "ClauseBound_Both_TimeM", "via": ["solution", "statement"]}
-{"parent": "MartOT.Curtain.curtain_measure_exists", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.Curtain.curtain_measure_exists", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "UniformInK.Thresholds.mul_betaSU_le", "child": "UniformInK_Spars_Defs", "via": ["solution", "statement"]}
 {"parent": "UniformInK.Thresholds.mul_betaSU_le", "child": "UniformInK_Spars_Thresholds", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound1529_e", "child": "MUBSix", "via": ["solution", "statement"]}
@@ -48658,7 +48658,7 @@
 {"parent": "WidthK.Step.red_union", "child": "SparsifyWidthK_Step", "via": ["solution", "statement"]}
 {"parent": "WidthK.Step.red_union", "child": "Groundwork.PolyT.all", "via": ["solution", "statement"]}
 {"parent": "WidthK.Step.red_union", "child": "SparsifyWidthK_Interfaces", "via": ["solution", "statement"]}
-{"parent": "QualityEncroach.Differ.proposition_4_ii_differentiated", "child": "QualityEncroach_Differ_Game", "via": ["statement"]}
+{"parent": "QualityEncroach.Differ.proposition_4_ii_differentiated", "child": "QualityEncroach_Differ_Game", "via": ["solution", "statement"]}
 {"parent": "Coding.mu_pos_of_occ", "child": "StepMachines_Prog_CountNet", "via": ["solution", "statement"]}
 {"parent": "Coding.mu_pos_of_occ", "child": "Coding_OccLinks", "via": ["solution", "statement"]}
 {"parent": "Coding.mu_pos_of_occ", "child": "Coding_OccLists", "via": ["solution", "statement"]}

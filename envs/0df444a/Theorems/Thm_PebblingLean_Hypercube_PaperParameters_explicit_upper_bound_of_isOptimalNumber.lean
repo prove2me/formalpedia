@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_explicit_upper_bound_of_isOptimalNumber
 -- name    : PebblingLean.Hypercube.PaperParameters.explicit_upper_bound_of_isOptimalNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:16.243263+00:00
 -- url     : https://prove2.me/theorems/6019463a-433d-461b-a37f-8c2bb0deaa83

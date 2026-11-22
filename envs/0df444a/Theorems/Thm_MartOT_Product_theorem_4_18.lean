@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Product_theorem_4_18
 -- name    : MartOT.Product.theorem_4_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:49.036698+00:00
 -- url     : https://prove2.me/theorems/03f4a957-ead4-42ba-9258-3ccc32905793

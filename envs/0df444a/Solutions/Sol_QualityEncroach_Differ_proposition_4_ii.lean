@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QualityEncroach.Differ.proposition_4_ii
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T04:40:06.137683+00:00
 -- url     : https://prove2.me/submissions/68e1fcb6-bf50-4234-ab4a-f12ffde02c3f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QualityEncroach_Differ_Game

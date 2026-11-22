@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_lampertiForwardFiniteDimensionalLawWithoutMoment
 -- name    : Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T12:45:08.453263+00:00
 -- url     : https://prove2.me/theorems/45b13ab4-970c-4134-a679-c62b276b5f42

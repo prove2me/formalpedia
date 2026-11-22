@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterNegativeExponentialMoment_eq_of_targets
 -- name    : PebblingLean.Hypercube.oneCenterNegativeExponentialMoment_eq_of_targets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:28.439229+00:00
 -- url     : https://prove2.me/theorems/30070115-5618-4a83-a424-c6c5242cf999

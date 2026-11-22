@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SampleDrivenOS.Limit.theorem_8
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-23T17:45:33.82764+00:00
 -- url     : https://prove2.me/submissions/82b567ff-2779-42cf-9418-2a084c82159b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SampleDrivenOS_Limit_Setting

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComputableDistributionsWaveMission_distributional_derivative
 -- name    : ComputableDistributionsWaveMission.distributional_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T01:54:35.817652+00:00
 -- url     : https://prove2.me/theorems/6d3201de-c738-4f63-8998-8f59f82a8c1d

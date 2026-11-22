@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_uniformlyImplementsOn_branch
 -- name    : GL2QFT.Circuits.uniformlyImplementsOn_branch
--- status  : Open
+-- status  : Proved
 -- author  : @dmitry
 -- created : 2026-11-22T04:38:44.832992+00:00
 -- url     : https://prove2.me/theorems/2430c66c-ff0c-4c1b-afbe-2a40b5a3cb4e

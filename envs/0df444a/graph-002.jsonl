@@ -17341,7 +17341,7 @@
 {"parent": "FuzzyGames.NTUCore.proposition_3_1", "child": "FuzzyGames_NTUCore_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyGames.NTUCore.support_concave", "child": "FuzzyGames_NTUCore_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyGames.NTUCore.theorem_3_1", "child": "FuzzyGames_NTUCore_Basic", "via": ["solution", "statement"]}
-{"parent": "FuzzyGames.NTUCore.theorem_5_1", "child": "FuzzyGames_NTUCore_Basic", "via": ["statement"]}
+{"parent": "FuzzyGames.NTUCore.theorem_5_1", "child": "FuzzyGames_NTUCore_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyGames.NTUCore.theorem_7_1", "child": "FuzzyGames_NTUCore_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyGames.TUCore.balances_support", "child": "FuzzyGames_TUCore_Basic", "via": ["solution", "statement"]}
 {"parent": "FuzzyGames.TUCore.core_eq_superdiff", "child": "FuzzyGames_TUCore_Basic", "via": ["solution", "statement"]}
@@ -37555,7 +37555,7 @@
 {"parent": "GrothendieckConstant.affine_constraint_transfer", "child": "KrivineSchemeDefs", "via": ["statement"]}
 {"parent": "GrothendieckConstant.coeff_hermite_moments", "child": "KrivineSchemeDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.exists_grothendieck_bound", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
-{"parent": "GrothendieckConstant.grothendieckConst_bounds", "child": "GrothendieckConstantDefs", "via": ["statement"]}
+{"parent": "GrothendieckConstant.grothendieckConst_bounds", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.grothendieckConst_le_cubic_quintic", "child": "GrothendieckConstantDefs", "via": ["statement"]}
 {"parent": "GrothendieckConstant.grothendieckConst_le_krivine", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.krivine_cubic_kernel_bound", "child": "KrivineSchemeDefs", "via": ["statement"]}
@@ -50961,7 +50961,7 @@
 {"parent": "KieferWolfowitz.Convergence.negative_series_summable", "child": "KieferWolfowitz_Convergence_Model", "via": ["statement"]}
 {"parent": "KieferWolfowitz.Convergence.sq_diff_le", "child": "KieferWolfowitz_Convergence_Model", "via": ["statement"]}
 {"parent": "KieferWolfowitz.Convergence.sq_error_step", "child": "KieferWolfowitz_Convergence_Model", "via": ["statement"]}
-{"parent": "KieferWolfowitz.Convergence.subseq_tendstoInMeasure", "child": "KieferWolfowitz_Convergence_Model", "via": ["statement"]}
+{"parent": "KieferWolfowitz.Convergence.subseq_tendstoInMeasure", "child": "KieferWolfowitz_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "KieferWolfowitz.Convergence.uplus_lt", "child": "KieferWolfowitz_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "KingRockAsymp.Distribution.corollary_A2", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
 {"parent": "KingRockAsymp.Distribution.proposition_A1", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
@@ -72030,8 +72030,8 @@
 {"parent": "LegacyAlgebra.orbitAugmentation", "child": "legacyOrbitAugmentation", "via": ["solution", "statement"]}
 {"parent": "LeiBR.Async.eq_40", "child": "LeiBR_Async_Game", "via": ["solution", "statement"]}
 {"parent": "LeiBR.Async.eq_40", "child": "LeiBR_Async_Model", "via": ["solution", "statement"]}
-{"parent": "LeiBR.Async.eq_5", "child": "LeiBR_Async_Game", "via": ["statement"]}
-{"parent": "LeiBR.Async.eq_5", "child": "LeiBR_Async_Model", "via": ["statement"]}
+{"parent": "LeiBR.Async.eq_5", "child": "LeiBR_Async_Game", "via": ["solution", "statement"]}
+{"parent": "LeiBR.Async.eq_5", "child": "LeiBR_Async_Model", "via": ["solution", "statement"]}
 {"parent": "LeiBR.Async.eq_C2", "child": "LeiBR_Async_Algorithm", "via": ["solution", "statement"]}
 {"parent": "LeiBR.Async.eq_C2", "child": "LeiBR_Async_Game", "via": ["solution", "statement"]}
 {"parent": "LeiBR.Async.eq_C2", "child": "LeiBR_Async_Model", "via": ["solution", "statement"]}
@@ -84827,7 +84827,7 @@
 {"parent": "MarkovMixing.wilson_method_nonvanishing", "child": "mm_lower", "via": ["solution"]}
 {"parent": "MarkovMixing.wilson_method_nonvanishing", "child": "mm_spectral", "via": ["solution", "statement"]}
 {"parent": "MartOT.Abs.eq_24", "child": "MartOT_Var_Setting", "via": ["statement"]}
-{"parent": "MartOT.Abs.fibres_le_two", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.Abs.fibres_le_two", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Abs.lemma_1_11", "child": "MartOT_Var_Setting", "via": ["statement"]}
 {"parent": "MartOT.Abs.lemma_3_2", "child": "MartOT_Var_Setting", "via": ["statement"]}
 {"parent": "MartOT.Abs.lemma_5_5", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
@@ -84835,14 +84835,14 @@
 {"parent": "MartOT.Abs.lemma_7_5", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Abs.optimizer_exists", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Abs.reduced_optimal", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
-{"parent": "MartOT.Abs.stay_part_eq_inf", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.Abs.stay_part_eq_inf", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Abs.theorem_7_4", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Card.exceptional_countable", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
-{"parent": "MartOT.Card.lemma_1_11", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.Card.lemma_1_11", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Card.theorem_7_1", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Curtain.curtain_minimizes_cst", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Curtain.lemma_1_11", "child": "MartOT_Var_Setting", "via": ["statement"]}
-{"parent": "MartOT.Curtain.lemma_4_6", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.Curtain.lemma_4_6", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Curtain.lemma_5_1", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Curtain.lemma_5_2", "child": "MartOT_Curtain_gUV", "via": ["solution", "statement"]}
 {"parent": "MartOT.Curtain.shadow_mono", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
@@ -84881,15 +84881,15 @@
 {"parent": "MartOT.Product.theorem_6_3", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Shadow.example_4_7", "child": "MartOT_Shadow_Quantile", "via": ["statement"]}
 {"parent": "MartOT.Shadow.example_4_7", "child": "MartOT_Var_Setting", "via": ["statement"]}
-{"parent": "MartOT.Shadow.lemma_2_9", "child": "MartOT_Shadow_ConvergesInM", "via": ["statement"]}
-{"parent": "MartOT.Shadow.lemma_2_9", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.Shadow.lemma_2_9", "child": "MartOT_Shadow_ConvergesInM", "via": ["solution", "statement"]}
+{"parent": "MartOT.Shadow.lemma_2_9", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Shadow.lemma_4_11", "child": "MartOT_Var_Setting", "via": ["statement"]}
 {"parent": "MartOT.Shadow.lemma_4_12", "child": "MartOT_Var_Setting", "via": ["statement"]}
 {"parent": "MartOT.Shadow.lemma_4_13", "child": "MartOT_Var_Setting", "via": ["statement"]}
-{"parent": "MartOT.Shadow.lemma_4_16", "child": "MartOT_Var_Setting", "via": ["statement"]}
-{"parent": "MartOT.Shadow.lemma_4_6", "child": "MartOT_Var_Setting", "via": ["statement"]}
-{"parent": "MartOT.Shadow.proposition_4_15", "child": "MartOT_Shadow_ConvergesInM", "via": ["statement"]}
-{"parent": "MartOT.Shadow.proposition_4_15", "child": "MartOT_Var_Setting", "via": ["statement"]}
+{"parent": "MartOT.Shadow.lemma_4_16", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
+{"parent": "MartOT.Shadow.lemma_4_6", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
+{"parent": "MartOT.Shadow.proposition_4_15", "child": "MartOT_Shadow_ConvergesInM", "via": ["solution", "statement"]}
+{"parent": "MartOT.Shadow.proposition_4_15", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Shadow.proposition_4_2_a", "child": "MartOT_Var_Setting", "via": ["statement"]}
 {"parent": "MartOT.Shadow.proposition_4_2_b", "child": "MartOT_Var_Setting", "via": ["statement"]}
 {"parent": "MartOT.Shadow.proposition_4_2_c", "child": "MartOT_Shadow_ConvergesInM", "via": ["statement"]}
@@ -84898,7 +84898,7 @@
 {"parent": "MartOT.Shadow.theorem_4_8", "child": "MartOT_Var_Setting", "via": ["statement"]}
 {"parent": "MartOT.Var.badTuples_measurableSet", "child": "MartOT_Var_BadTuples", "via": ["solution", "statement"]}
 {"parent": "MartOT.Var.case_one_gives_Gamma_n", "child": "MartOT_Var_BadTuples", "via": ["solution", "statement"]}
-{"parent": "MartOT.Var.case_two_cannot_occur", "child": "MartOT_Var_BadTuples", "via": ["statement"]}
+{"parent": "MartOT.Var.case_two_cannot_occur", "child": "MartOT_Var_BadTuples", "via": ["solution", "statement"]}
 {"parent": "MartOT.Var.gamma_iInter", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Var.lemma_1_11", "child": "MartOT_Var_Setting", "via": ["solution", "statement"]}
 {"parent": "MartOT.Var.optimal_competitor_exists", "child": "MartOT_Var_Setting", "via": ["statement"]}
@@ -98137,13 +98137,13 @@
 {"parent": "McFadden1974_MLE_Axioms", "child": "McFadden1974_MLE_Model", "via": ["statement"]}
 {"parent": "McLeishCLT.MDA.eq_2_2", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
 {"parent": "McLeishCLT.MDA.eq_2_5", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
-{"parent": "McLeishCLT.MDA.exp_approx", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
+{"parent": "McLeishCLT.MDA.exp_approx", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McLeishCLT.MDA.theorem_2_1", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
 {"parent": "McLeishCLT.MDA.theorem_2_3", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
-{"parent": "McLeishCLT.MDA.trunc_integral_prodT_eq_one", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
+{"parent": "McLeishCLT.MDA.trunc_integral_prodT_eq_one", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McLeishCLT.MDA.trunc_isMDA", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
-{"parent": "McLeishCLT.MDA.trunc_lintegral_normSq_prodT_le", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
-{"parent": "McLeishCLT.MDA.trunc_prodT_uniformIntegrable", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
+{"parent": "McLeishCLT.MDA.trunc_lintegral_normSq_prodT_le", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
+{"parent": "McLeishCLT.MDA.trunc_prodT_uniformIntegrable", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McNaughtonSched.SingleProc.exists_optimal_noSplit", "child": "McNaughtonSched_SingleProc_Model", "via": ["solution", "statement"]}
 {"parent": "McNaughtonSched.SingleProc.loss_diff_ge_zero_deadline_diff", "child": "McNaughtonSched_SingleProc_Model", "via": ["solution", "statement"]}
 {"parent": "McNaughtonSched.SingleProc.pair_interchange", "child": "McNaughtonSched_SingleProc_Model", "via": ["solution", "statement"]}
@@ -98749,9 +98749,9 @@
 {"parent": "MellinParseval.integrableOn_and_setIntegral_Ioi_norm_sq_lineIntegral_eq_two_pi_mul_integral_of_memLp_two", "child": "P2M_Util", "via": ["solution"]}
 {"parent": "MellinParseval.setIntegral_Ioi_inv_mul_cpow_neg_mul_lineIntegral_eq_two_pi_mul", "child": "P2M_Util", "via": ["solution"]}
 {"parent": "Menger.menger_set", "child": "Menger_Linkage", "via": ["solution", "statement"]}
-{"parent": "Menger27.Curves.annulus_n_connected", "child": "Menger27_Curves_Basic", "via": ["statement"]}
-{"parent": "Menger27.Curves.annulus_n_connected", "child": "Menger27_Curves_Separation", "via": ["statement"]}
-{"parent": "Menger27.Curves.neighbourhood_sequence", "child": "Menger27_Curves_Basic", "via": ["statement"]}
+{"parent": "Menger27.Curves.annulus_n_connected", "child": "Menger27_Curves_Basic", "via": ["solution", "statement"]}
+{"parent": "Menger27.Curves.annulus_n_connected", "child": "Menger27_Curves_Separation", "via": ["solution", "statement"]}
+{"parent": "Menger27.Curves.neighbourhood_sequence", "child": "Menger27_Curves_Basic", "via": ["solution", "statement"]}
 {"parent": "Menger27.Curves.no_extra_leg", "child": "Menger27_Curves_Basic", "via": ["solution", "statement"]}
 {"parent": "Menger27.Curves.order_eq_max_nBein", "child": "Menger27_Curves_Basic", "via": ["statement"]}
 {"parent": "Menger27.Curves.satz_alpha", "child": "Menger27_Curves_Basic", "via": ["statement"]}
@@ -98760,7 +98760,7 @@
 {"parent": "Menger27.Curves.satz_delta", "child": "Menger27_Curves_Basic", "via": ["statement"]}
 {"parent": "Menger27.Curves.satz_delta", "child": "Menger27_Curves_Ordinary", "via": ["statement"]}
 {"parent": "Menger27.Curves.satz_delta", "child": "Menger27_Curves_Separation", "via": ["statement"]}
-{"parent": "Menger27.Curves.satz_gamma", "child": "Menger27_Curves_Separation", "via": ["statement"]}
+{"parent": "Menger27.Curves.satz_gamma", "child": "Menger27_Curves_Separation", "via": ["solution", "statement"]}
 {"parent": "Menger27.Graphs.exists_irreducible_part", "child": "Menger27_Graphs_Parts", "via": ["solution", "statement"]}
 {"parent": "Menger27.Graphs.exists_irreducible_part", "child": "Menger27_Graphs_Separation", "via": ["solution", "statement"]}
 {"parent": "Menger27.Graphs.exists_separator_through", "child": "Menger27_Graphs_Parts", "via": ["solution", "statement"]}

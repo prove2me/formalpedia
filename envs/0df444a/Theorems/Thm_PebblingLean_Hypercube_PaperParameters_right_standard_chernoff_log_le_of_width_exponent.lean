@@ -1,0 +1,41 @@
+-- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_right_standard_chernoff_log_le_of_width_exponent
+-- name    : PebblingLean.Hypercube.PaperParameters.right_standard_chernoff_log_le_of_width_exponent
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-22T06:02:35.245064+00:00
+-- url     : https://prove2.me/theorems/fa8bb006-b7e6-4e05-b5d8-f74527546d07
+-- title:
+--   Paper Parameters: right standard chernoff log le of width exponent
+-- statement:
+--   Right-tail standard-lambda log estimate for the annulus window.  The
+--   assumption `9≤w` absorbs the one-unit floor slack in `rOut`.
+--
+--   Source: https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/PebblingLean/UpperBoundParameters.lean#L3608-L3633
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/PebblingLean/UpperBoundParameters.lean#L3608-L3633
+
+module
+public import Definitions.Def_LeanPool_PebblingLean_UpperBoundLoss
+public import Definitions.Def_LeanPool_PebblingLean_LowerBound
+public import Mathlib.Analysis.Complex.ExponentialBounds
+public import Mathlib.Analysis.SpecialFunctions.Pow.NNReal
+public import Definitions.Def_LeanPool_PebblingLean_UpperBoundParameters
+set_option autoImplicit true
+@[expose] public section
+public section
+open PebblingLean
+open PebblingLean.Hypercube
+open PebblingLean.Hypercube.PaperParameters
+
+theorem PebblingLean.Hypercube.PaperParameters.right_standard_chernoff_log_le_of_width_exponent
+    {A K : ℝ} {n : ℕ} {E : ℝ}
+    (hwidth : 9 ≤ (annulusWidth A K n : ℝ))
+    (hlam_le_one : annulusChernoffLambda A K n ≤ 1)
+    (hE :
+      E ≤ (1 / 2) *
+        ((annulusWidth A K n : ℝ) ^ 2 / ((splitA K n : ℝ) + 1))) :
+    -(annulusChernoffLambda A K n * (rOut A K n : ℝ)) +
+        (splitA K n : ℝ) *
+          Real.log (((1 : ℝ) / 3) *
+              Real.exp (annulusChernoffLambda A K n) +
+            ((2 : ℝ) / 3)) ≤ -E := by sorry

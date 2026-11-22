@@ -1,0 +1,28 @@
+-- Prove2me | Theorems.Thm_Nock_Verb_vcostN_edit_eq
+-- name    : Nock.Verb.vcostN_edit_eq
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-22T12:06:06.70574+00:00
+-- url     : https://prove2.me/theorems/600fc831-e185-4b77-a670-1352a7c16522
+-- title:
+--   Verb: vcost N edit eq
+-- statement:
+--   The Verb construction uses the vcost N edit eq property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/PureNock/PureCompleteHint.lean#L360-L361
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/PureNock/PureCompleteHint.lean#L360-L361
+
+module
+public import Definitions.Def_LeanPool_PureNock_PureComplete
+public import Mathlib.Tactic.IntervalCases
+public import Definitions.Def_LeanPool_PureNock_PureCompleteHint
+set_option autoImplicit true
+@[expose] public section
+public section
+open Nock
+open Nock.Verb
+open Noun
+
+theorem Nock.Verb.vcostN_edit_eq {F : Nat} {l r : Verb} :
+    vcostN F (Verb.node .edit l r) = 1 + vcostN F l + vcostN F r := by sorry

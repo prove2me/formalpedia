@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Cubic_maxcut_ratio_p1
 -- name    : FarhiQAOA.Cubic.maxcut_ratio_p1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:42.464732+00:00
 -- url     : https://prove2.me/theorems/7983c059-1830-4395-9613-f73ea9c82b7f

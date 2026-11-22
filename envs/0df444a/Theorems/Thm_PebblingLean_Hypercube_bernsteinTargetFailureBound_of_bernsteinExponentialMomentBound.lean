@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_bernsteinTargetFailureBound_of_bernsteinExponentialMomentBound
 -- name    : PebblingLean.Hypercube.bernsteinTargetFailureBound_of_bernsteinExponentialMomentBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:18.005812+00:00
 -- url     : https://prove2.me/theorems/766e3bff-5c77-4b5b-8728-753d2ad352d0

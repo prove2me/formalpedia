@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_tail_kernel_laplace_tsub_public
 -- name    : Kyprianou.Ch08.StageB.p2m81_tail_kernel_laplace_tsub_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:18:21.916912+00:00
 -- url     : https://prove2.me/theorems/4de86d16-b27f-492d-a70d-da37b8ad7b50

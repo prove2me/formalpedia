@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:47.493087+00:00
 -- url     : https://prove2.me/theorems/48de8eba-b852-44e9-b5ed-9349673b6ef1

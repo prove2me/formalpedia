@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskAverseSDDP_Convergence_eq_4_28
 -- name    : RiskAverseSDDP.Convergence.eq_4_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:49:19.829765+00:00
 -- url     : https://prove2.me/theorems/44360e05-77af-4bbe-8b0e-d7c1e6a64f9b

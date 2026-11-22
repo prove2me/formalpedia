@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_binomialRightTailProbThird_le_chernoff
 -- name    : PebblingLean.Hypercube.binomialRightTailProbThird_le_chernoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:04.533164+00:00
 -- url     : https://prove2.me/theorems/cb4ed511-efb3-459a-a603-eb19e857068a

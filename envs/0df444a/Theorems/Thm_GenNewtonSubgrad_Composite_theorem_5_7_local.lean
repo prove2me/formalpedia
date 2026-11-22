@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenNewtonSubgrad_Composite_theorem_5_7_local
 -- name    : GenNewtonSubgrad.Composite.theorem_5_7_local
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-23T16:33:55.828082+00:00
 -- url     : https://prove2.me/theorems/586bfb45-4505-4576-9eb4-085953982e5c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m81_geometric_renewal_from_gap
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T04:47:41.970427+00:00
 -- url     : https://prove2.me/submissions/f1be06d9-bb0b-4d97-be3c-9616c7386516
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_exists_sfinite_convolution_power_sequence
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_renewal_conv_support_atomless_public

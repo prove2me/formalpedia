@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandSubstitution_Correlation_proposition2_profit_decreasing_in_correlation
 -- name    : DemandSubstitution.Correlation.proposition2_profit_decreasing_in_correlation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:14:34.297958+00:00
 -- url     : https://prove2.me/theorems/a180f08b-c191-425c-a41c-88b3e779e020

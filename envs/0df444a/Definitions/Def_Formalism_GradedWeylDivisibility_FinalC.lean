@@ -1,0 +1,43 @@
+-- Prove2me | Definitions.Def_Formalism_GradedWeylDivisibility_FinalC
+-- name    : Formalism_GradedWeylDivisibility_FinalC
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T17:30:06.511467+00:00
+-- url     : https://prove2.me/theorems/aa9fe7a2-3fec-41a7-91b6-5917f83e8784
+-- title:
+--   Final C
+-- statement:
+--   Definitions and structural lemmas for Final C, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GradedWeylDivisibility/FinalC.lean
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalB
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_MinorExpLt
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColLexInitMinor
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColumnLexBideterminant
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColSums
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTPeel
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSYTExists
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_CompDeg
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadComp
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDecomp
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelHomog
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelLead
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_EvalDeg
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_PeelDegBound
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_TwoColumn
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LeadInterlaced
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SMSAssembly
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_StandardMonomialSpanOf
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace Formalism.GradedWeylDivisibility
+end Formalism.GradedWeylDivisibility
+
+

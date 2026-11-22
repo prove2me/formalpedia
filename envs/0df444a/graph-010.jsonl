@@ -18985,7 +18985,7 @@
 {"parent": "CarbonFBSDE_MultiPeriod_Model", "child": "EthierKurtz_SDEDiffusion", "via": ["statement"]}
 {"parent": "CarbonFBSDE_MultiPeriod_Model", "child": "EthierKurtz_SDEState", "via": ["statement"]}
 {"parent": "BlottoLP.Flow.nash_iff_maxmin", "child": "BlottoLP_Flow_ZeroSum", "via": ["solution", "statement"]}
-{"parent": "ServTimeLimit.OptMech.theorem_1_mid", "child": "ServTimeLimit_OptMech_Model", "via": ["statement"]}
+{"parent": "ServTimeLimit.OptMech.theorem_1_mid", "child": "ServTimeLimit_OptMech_Model", "via": ["solution", "statement"]}
 {"parent": "IsodiamVar.Simplex.proposition_3_1_b", "child": "IsodiamVar_Simplex_Defs", "via": ["solution", "statement"]}
 {"parent": "ToneAtTop.Diversion.expected_loss_L2", "child": "ToneAtTop_Diversion_Model", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.paymentTimes_Ioc_subset_of_terminal_survival", "child": "AvramDividend.Classical.paymentTimes_eq_strict_of_pos", "via": ["solution", "statement"]}
@@ -23750,7 +23750,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P03.corollary11_localNorm", "child": "QAlgorithms_Papers_Independent_Claimed50_P03", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Renew46.P37.classicalTIdentities", "child": "QAlgorithms_Papers_Independent_Renew46_P37", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P16.schmidtWitness", "child": "QAlgorithms_Papers_Independent_Claimed50_P16", "via": ["statement"]}
-{"parent": "AllocationIndices.Precedence.eps_fi_star_near_optimal", "child": "AllocationIndices_Precedence_Model", "via": ["statement"]}
+{"parent": "AllocationIndices.Precedence.eps_fi_star_near_optimal", "child": "AllocationIndices_Precedence_Model", "via": ["solution", "statement"]}
 {"parent": "HedgeContract.OPE.lemma_6_3_bounds", "child": "HedgeContract_OPE_Model", "via": ["statement"]}
 {"parent": "BadLocalMin.Smooth.output_data_eq_28", "child": "BadLocalMin_Smooth_Model", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Next46.P12.finite_group_central_idempotent", "child": "QAlgorithms_Papers_Independent_Next46_P12", "via": ["solution", "statement"]}
@@ -24643,8 +24643,8 @@
 {"parent": "SingCtrlLevy.Barrier.lemma_11", "child": "SingCtrlLevy_Barrier_Levy", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P36.numberState_lossless", "child": "QAlgorithms_Papers_Independent_Claimed50_P36", "via": ["solution", "statement"]}
 {"parent": "HochbaumShmoys.Uniform.lemma_2", "child": "HochbaumShmoys_Uniform_LayeredGraph", "via": ["solution", "statement"]}
-{"parent": "NashPoly.Generic.theorem_A_1", "child": "NashPoly_Generic_Coef", "via": ["statement"]}
-{"parent": "NashPoly.Generic.theorem_A_1", "child": "NashPoly_Generic_ComplexKKT", "via": ["statement"]}
+{"parent": "NashPoly.Generic.theorem_A_1", "child": "NashPoly_Generic_Coef", "via": ["solution", "statement"]}
+{"parent": "NashPoly.Generic.theorem_A_1", "child": "NashPoly_Generic_ComplexKKT", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Renew46.P26.theorem_2_5", "child": "QAlgorithms_Papers_Independent_Renew46_P26", "via": ["statement"]}
 {"parent": "JSEQDelay_Diffusion_Assumptions", "child": "RankBasedSDI_LoadBalancing_CTight", "via": ["statement"]}
 {"parent": "JSEQDelay_Diffusion_Assumptions", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
@@ -25534,7 +25534,7 @@
 {"parent": "OAI.PiExponent.FormalInterpolation.function_divisor_le_weighted_poles", "child": "OAI_PiExponent_WeightedIdealCurveCriterion", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.function_divisor_le_weighted_poles", "child": "OAI_PiExponent_TruncatedPolynomialJets", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.function_divisor_le_weighted_poles", "child": "OAI_PiExponent_LogarithmicInterpolationNumerics", "via": ["solution", "statement"]}
-{"parent": "RawBlending.UB.theorem_1_production", "child": "RawBlending_UB_Policy", "via": ["statement"]}
+{"parent": "RawBlending.UB.theorem_1_production", "child": "RawBlending_UB_Policy", "via": ["solution", "statement"]}
 {"parent": "FiniteEnergyPlane_Setting", "child": "JHolomorphic_Setting", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Next46.P17.fisher_directional_beamSplitter", "child": "QAlgorithms_Papers_Independent_Next46_P17", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P45.quadratic_operator_convex", "child": "QAlgorithms_Papers_Independent_Claimed50_P45", "via": ["solution", "statement"]}
@@ -28711,7 +28711,7 @@
 {"parent": "RotationContagion.Rotation.symmetrization", "child": "RotationContagion_Rotation_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Claimed50.P05.calculus_domination_polynomial", "child": "QAlgorithms_Papers_Independent_Claimed50_P05", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support21.P05.e7_zorn_adjoint", "child": "QAlgorithms_Papers_Independent_Support21_P05", "via": ["statement"]}
-{"parent": "ServTimeLimit.OptMech.theorem_1_low", "child": "ServTimeLimit_OptMech_Model", "via": ["statement"]}
+{"parent": "ServTimeLimit.OptMech.theorem_1_low", "child": "ServTimeLimit_OptMech_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Renew46.P32.smoothCurves_detectTopology", "child": "QAlgorithms_Papers_Independent_Renew46_P32", "via": ["statement"]}
 {"parent": "MatrixAnalytic_BirthDeath_Passage", "child": "MatrixAnalytic_BirthDeath_Chain", "via": ["statement"]}
 {"parent": "BIInsurance.Screening.marginal_profit", "child": "BIInsurance_Screening_Model", "via": ["statement"]}
@@ -46194,7 +46194,7 @@
 {"parent": "FullFormalization.Hc_of_le_abs", "child": "Coefficients", "via": ["solution", "statement"]}
 {"parent": "FullFormalization.Hc_of_le_abs", "child": "Certificate", "via": ["solution", "statement"]}
 {"parent": "FullFormalization.Hc_of_le_abs", "child": "FunctionClass", "via": ["solution", "statement"]}
-{"parent": "QMCProduct.HalfApprox.lemma_4", "child": "QMCProduct_HalfApprox_Algorithm", "via": ["statement"]}
+{"parent": "QMCProduct.HalfApprox.lemma_4", "child": "QMCProduct_HalfApprox_Algorithm", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case043_blockers1", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case043_blockers1", "child": "HardyCapsetCertificate04320261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_145", "child": "HardyCapsetCertificate02820261021", "via": ["solution", "statement"]}
@@ -60045,11 +60045,6 @@
 {"parent": "AdaGrad.Diag.lemma_4", "child": "AdaGrad.Diag.eq_24", "via": ["solution"]}
 {"parent": "AdaGrad.Diag.primal_dual_gradient_term", "child": "AdaGrad.Diag.lemma_4", "via": ["solution"]}
 {"parent": "AdaGrad.Full.proposition_3", "child": "AdaGrad.Full.lemma_16", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.hjb_pointwise_inequalities", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.local_verification_smooth_differentiable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.verification_strategy_lump_sum_drop", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.compensated_jump_integrable", "child": "AvramDividend.Classical.levy_compensated_jump_integrable_nonneg", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.dividendMeasure_Ioc_rightLimit", "child": "AvramDividend.Classical.dividendPath_real_rightLim_eq_rightLimit", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.dividendValue_le_of_hjb", "child": "AvramDividend.Classical.dividendValue_eq_iSup_truncated", "via": ["solution"]}
@@ -71773,11 +71768,6 @@
 {"parent": "AvramDividend.Classical.admissible_cap_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.dividendValue_le_of_uniform_truncated_bounds", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.dividendValue_le_of_uniform_truncated_bounds", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.hjb_pointwise_inequalities", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.local_verification_smooth_differentiable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.verification_strategy_lump_sum_drop", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.local_verification_stochastic_core_side_conditions", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.local_verification_stochastic_core_side_conditions", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrierSupValue_eq_scale_ratio", "child": "AvramDividend.Classical.barrierSupValue_stopped_renewal_lower_bound", "via": ["solution"]}
@@ -73660,7 +73650,7 @@
 {"parent": "AvramDividend.Classical.causal_signed_L1_convolution_powers_continuous_positive", "child": "AvramDividend.Classical.continuousOn_positive_causal_convolution_of_locally_bounded_integrable", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support50.P02.measurement_stability", "child": "QAlgorithms_Papers_Independent_Support50_P02", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.DeterminantContradiction.weighted_region_volume_formula", "child": "OAI_PiExponent_TruncatedPolynomialJets", "via": ["solution", "statement"]}
-{"parent": "GenCostSched.GFCS.lemma_5", "child": "GenCostSched_GFCS_Model", "via": ["statement"]}
+{"parent": "GenCostSched.GFCS.lemma_5", "child": "GenCostSched_GFCS_Model", "via": ["solution", "statement"]}
 {"parent": "QseriesFormalization.Pending.JTPFormalPSPentagonal.analytic_pentagonal014_eq_mod5_product", "child": "QseriesFormalization_DefCoreQSeries", "via": ["statement"]}
 {"parent": "QseriesFormalization.PartIV.Ch19.eulerPentagonalInfiniteProduct_eq_tsum_pentagonalSign", "child": "QseriesFormalization_Chapter05_Franklin", "via": ["statement"]}
 {"parent": "QseriesFormalization.PartIV.Ch19.eulerPentagonalInfiniteProduct_eq_tsum_pentagonalSign", "child": "QseriesFormalization_DefCoreQSeries", "via": ["statement"]}
@@ -73679,7 +73669,7 @@
 {"parent": "QAlgorithms.Papers.Independent.Support50.P15.eq48to51", "child": "QAlgorithms_Papers_Independent_Support50_P15", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.paymentTimes_min_ofReal_subset_inter_horizon", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "PricingWithTips3DM_a79ce5303af3440f3d4b538fPart3", "child": "PricingWithTips3DM_a79ce5303af3440f3d4b538fPart2", "via": ["statement"]}
-{"parent": "GenCostSched.GFCS.eq_20", "child": "GenCostSched_GFCS_Model", "via": ["statement"]}
+{"parent": "GenCostSched.GFCS.eq_20", "child": "GenCostSched_GFCS_Model", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry.exists_normal_projective_projection_with_dense_smooth_open", "child": "AlgebraicGeometry_ProjSpace", "via": ["solution", "statement"]}
 {"parent": "Erdos195.zero_one_x_three_safe", "child": "Erdos195_tree", "via": ["solution", "statement"]}
 {"parent": "OutlierAssort.ActiveElim.lemma_1", "child": "OutlierAssort_ActiveElim_Algorithm", "via": ["statement"]}
@@ -75081,7 +75071,7 @@
 {"parent": "PricingWithTips3DM_f05fb95d1cc46de99ba768c3", "child": "PricingWithTips3DM_ba14293054b2afac60164995", "via": ["statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.adjoin_eq_aeval_range", "child": "OAI_PiExponent_WeightedIdealCurveCriterion", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support50.P07.pauli_privateCapacity_bound", "child": "QAlgorithms_Papers_Independent_Support50_P07", "via": ["statement"]}
-{"parent": "GenCostSched.GFCS.dual_attainment", "child": "GenCostSched_GFCS_Model", "via": ["statement"]}
+{"parent": "GenCostSched.GFCS.dual_attainment", "child": "GenCostSched_GFCS_Model", "via": ["solution", "statement"]}
 {"parent": "PricingWithTips3DM_d15dc1bc5c68c26e893b7ba8", "child": "PricingWithTips3DM_89548ba1d154810acde5067a", "via": ["statement"]}
 {"parent": "OAI.SplitTangent.RationalFamily.integrable_both_of_submersive", "child": "SplitTangentIntegrability", "via": ["solution", "statement"]}
 {"parent": "OAI.SplitTangent.RationalFamily.integrable_both_of_submersive", "child": "OAIQWST002", "via": ["solution", "statement"]}

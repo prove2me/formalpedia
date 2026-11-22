@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZlibCrc32_subroutineOk_crc32_combine_gen_and_crc32_combine_gen64
 -- name    : ZlibCrc32.subroutineOk_crc32_combine_gen_and_crc32_combine_gen64
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T01:33:45.260168+00:00
 -- url     : https://prove2.me/theorems/6ad766c4-4850-43c3-8dc1-3f1d39a6fc70

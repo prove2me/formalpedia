@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for DeciSigma1.Holes.Fresh.contextAnchors_anti
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T13:47:58.058424+00:00
+-- url     : https://prove2.me/submissions/0ab476e2-9271-42a6-a725-0fffc52def7b
+
+module
+public import Mathlib.Algebra.Order.BigOperators.Group.Finset
+public import Definitions.Def_LeanPool_DeciSigma1_Holes_Fresh_ChannelPreservation
+public import Mathlib.Data.Fintype.BigOperators
+public import Mathlib.Algebra.Group.Action.Defs
+public import Mathlib.Data.Finset.Powerset
+public import Mathlib.Data.Finset.Max
+public import Definitions.Def_LeanPool_DeciSigma1_Holes_Fresh_Bound
+public import Theorems.Thm_DeciSigma1_Holes_Fresh_contextAnchors_succ_subset
+public import Theorems.Thm_DeciSigma1_Readers_Dominates_refl
+public import Theorems.Thm_DeciSigma1_Readers_Dominates_trans
+public import Theorems.Thm_DeciSigma1_Readers_FreshDominates_refl
+public import Theorems.Thm_DeciSigma1_Readers_FreshDominates_trans
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Holes DeciSigma1.Holes.Fresh
+open DeciSigma1.Readers
+open Finset
+variable {α : Type} [DecidableEq α] {k : ℕ} {W : Fin k → List α}
+namespace DeciSigma1.Holes.Fresh
+theorem _root_.solution {r t : ℕ} (hrt : r ≤ t) (u : List α) :
+    contextAnchors W t u ⊆ contextAnchors W r u := by
+  induction t, hrt using Nat.le_induction with
+  | base => exact Subset.refl _
+  | succ t _ ih => exact (contextAnchors_succ_subset t u).trans ih
+end DeciSigma1.Holes.Fresh

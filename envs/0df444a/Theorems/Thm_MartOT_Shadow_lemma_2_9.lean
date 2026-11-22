@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Shadow_lemma_2_9
 -- name    : MartOT.Shadow.lemma_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:23.965255+00:00
 -- url     : https://prove2.me/theorems/86340ac2-6f69-4600-9a54-f5ede1da62fd

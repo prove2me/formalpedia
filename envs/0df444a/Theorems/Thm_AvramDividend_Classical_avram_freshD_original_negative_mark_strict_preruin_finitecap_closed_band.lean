@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_freshD_original_negative_mark_strict_preruin_finitecap_closed_band
 -- name    : AvramDividend.Classical.avram_freshD_original_negative_mark_strict_preruin_finitecap_closed_band
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T09:23:26.595894+00:00
 -- url     : https://prove2.me/theorems/cecbcbd6-0208-4b39-86b8-52a337b7f4c6

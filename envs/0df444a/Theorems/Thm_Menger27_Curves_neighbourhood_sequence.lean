@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Menger27_Curves_neighbourhood_sequence
 -- name    : Menger27.Curves.neighbourhood_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:14:37.606466+00:00
 -- url     : https://prove2.me/theorems/875d1215-2a8b-4a2d-8677-8fe7225e74f7

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FarhiQAOA.Cubic.maxcut_ratio_p1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-11-01T21:48:37.610507+00:00
 -- url     : https://prove2.me/submissions/631a5cc7-d50a-4f85-9e10-443648819ee8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Adiabatic

@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for BooleanIsoperimetry.nested_cascade_mass_conservation
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T07:30:49.408978+00:00
+-- url     : https://prove2.me/submissions/55f2c6a0-8646-4e22-821e-d06c4397b21b
+
+module
+public import Definitions.Def_LeanPool_BooleanIsoperimetry_Cascade
+public import Mathlib.Order.Interval.Finset.Nat
+public import Mathlib.Algebra.BigOperators.Intervals
+public import Mathlib.Algebra.Group.Action.Defs
+public import Mathlib.Algebra.Order.BigOperators.Group.Finset
+public import Mathlib.Data.Rat.Cast.Order
+public import Mathlib.Tactic.Linarith.Frontend
+public import Mathlib.Tactic.NormNum.Abs
+public import Mathlib.Tactic.NormNum.DivMod
+public import Mathlib.Tactic.NormNum.OfScientific
+public import Definitions.Def_LeanPool_BooleanIsoperimetry_Macaulay
+public import Theorems.Thm_BooleanIsoperimetry_cascade_split_add
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open scoped BigOperators
+open BooleanIsoperimetry
+namespace BooleanIsoperimetry
+theorem _root_.solution {n a b p q p0 p1 q0 q1 a0 a1 b0 b1 : ℕ}
+    (hcasc : CascadeSplit (n + 1) (a + b) p q)
+    (hp_split : CascadeSplit n p p0 p1)
+    (hq_split : CascadeSplit n q q0 q1)
+    (ha_split : CascadeSplit n a a0 a1)
+    (hb_split : CascadeSplit n b b0 b1) :
+    (p0 + p1) + (q0 + q1) = (a0 + a1) + (b0 + b1) := by
+  have hpadd : p0 + p1 = p := cascade_split_add hp_split
+  have hqadd : q0 + q1 = q := cascade_split_add hq_split
+  have haadd : a0 + a1 = a := cascade_split_add ha_split
+  have hbadd : b0 + b1 = b := cascade_split_add hb_split
+  have htop : p + q = a + b := cascade_split_add hcasc
+  omega
+end BooleanIsoperimetry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:44.976334+00:00
 -- url     : https://prove2.me/theorems/1b578d91-a670-4324-a7a5-41eaeec31e19

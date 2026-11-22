@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NConjecture_bb94_lemma_1
 -- name    : NConjecture.bb94_lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T00:44:08.632272+00:00
 -- url     : https://prove2.me/theorems/42331223-9037-4e31-b8d4-882e52775edf

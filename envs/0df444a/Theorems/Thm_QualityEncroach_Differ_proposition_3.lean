@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Differ_proposition_3
 -- name    : QualityEncroach.Differ.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:32.612793+00:00
 -- url     : https://prove2.me/theorems/a2a94955-ad8e-468a-ab43-863dc5f02dfa

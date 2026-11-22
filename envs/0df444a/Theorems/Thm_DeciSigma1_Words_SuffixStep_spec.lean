@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_DeciSigma1_Words_SuffixStep_spec
+-- name    : DeciSigma1.Words.SuffixStep.spec
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-22T13:07:45.84009+00:00
+-- url     : https://prove2.me/theorems/749c9ccc-c34a-4051-bf91-12b4deedc54b
+-- title:
+--   Suffix Step: spec
+-- statement:
+--   The Suffix Step construction uses the spec property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/DeciSigma1/Words/SuffixChains.lean#L168-L174
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/DeciSigma1/Words/SuffixChains.lean#L168-L174
+
+module
+public import Definitions.Def_LeanPool_DeciSigma1_Readers_Basic
+public import Mathlib.Order.Interval.Finset.Nat
+public import Definitions.Def_LeanPool_DeciSigma1_Words_SuffixChains
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Words
+open DeciSigma1.Readers
+variable {α : Type}
+variable [DecidableEq α]
+
+theorem DeciSigma1.Words.SuffixStep.spec {t : List α} {b b' : ℕ} (h : SuffixStep t b b') :
+    b < b' ∧ b' ≤ t.length ∧ suffixOfLength t b <+: suffixOfLength t b' := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LasserreFC_FinConv_epsilon_feasible
 -- name    : LasserreFC.FinConv.epsilon_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:33:36.115985+00:00
 -- url     : https://prove2.me/theorems/3397a905-93a5-4a01-99c6-293ded1fb3d1

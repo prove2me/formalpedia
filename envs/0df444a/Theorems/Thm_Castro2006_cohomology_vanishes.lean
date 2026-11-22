@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_cohomology_vanishes
 -- name    : Castro2006.cohomology_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:25:38.296687+00:00
 -- url     : https://prove2.me/theorems/429bed55-78b1-4515-b8f6-6fa5ff1c531b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_annulusWeightedTerm_eq_fullFactor_mul_binomialTerm
 -- name    : PebblingLean.Hypercube.annulusWeightedTerm_eq_fullFactor_mul_binomialTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:54.366386+00:00
 -- url     : https://prove2.me/theorems/ec392104-fd5b-45cf-a73a-95c5f025c745

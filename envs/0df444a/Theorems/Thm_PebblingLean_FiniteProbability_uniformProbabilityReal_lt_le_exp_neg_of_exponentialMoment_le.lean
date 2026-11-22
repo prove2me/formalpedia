@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_FiniteProbability_uniformProbabilityReal_lt_le_exp_neg_of_exponentialMoment_le
 -- name    : PebblingLean.FiniteProbability.uniformProbabilityReal_lt_le_exp_neg_of_exponentialMoment_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:49:05.135196+00:00
 -- url     : https://prove2.me/theorems/a3807617-a717-4c22-9b38-32fbbca7ece7

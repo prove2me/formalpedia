@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_annulusWidthCore_le_sqrt_three_n_log
 -- name    : PebblingLean.Hypercube.PaperParameters.annulusWidthCore_le_sqrt_three_n_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:55:57.653358+00:00
 -- url     : https://prove2.me/theorems/a6b866cc-9afb-4922-adbc-e9c664003fd6

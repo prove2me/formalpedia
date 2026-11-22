@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RudinSquares_square_positions_24_1_and_8_1
 -- name    : RudinSquares.square_positions_24_1_and_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T18:22:07.135379+00:00
 -- url     : https://prove2.me/theorems/4f8b7eab-f140-433f-a19b-d750426443b2

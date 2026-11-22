@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterContributionExpectation_eq_annulusMean
 -- name    : PebblingLean.Hypercube.oneCenterContributionExpectation_eq_annulusMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:12.840667+00:00
 -- url     : https://prove2.me/theorems/20ded5b3-d3fe-45c3-8069-7fb70e658bbc

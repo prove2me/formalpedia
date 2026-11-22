@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowCSP_dense_aligned_scenario_program
 -- name    : StableMSR.Recovery.WindowCSP.dense_aligned_scenario_program
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-21T16:03:58.671491+00:00
 -- url     : https://prove2.me/theorems/acd7b077-13e6-494d-84f6-670ec5f972ca

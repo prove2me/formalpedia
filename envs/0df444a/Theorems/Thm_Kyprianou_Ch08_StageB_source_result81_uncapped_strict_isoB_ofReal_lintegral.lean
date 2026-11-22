@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_uncapped_strict_isoB_ofReal_lintegral
 -- name    : Kyprianou.Ch08.StageB.source_result81_uncapped_strict_isoB_ofReal_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T03:29:32.545752+00:00
 -- url     : https://prove2.me/theorems/80f829b2-f58b-4ab5-9d2d-9c2a4b16250d

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Product.theorem_6_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T05:20:41.170547+00:00
 -- url     : https://prove2.me/submissions/75bfbc6f-2db0-4fe2-9ea1-f7429de940ee
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MartOT_Var_Setting

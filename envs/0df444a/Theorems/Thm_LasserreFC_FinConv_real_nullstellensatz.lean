@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LasserreFC_FinConv_real_nullstellensatz
 -- name    : LasserreFC.FinConv.real_nullstellensatz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:16.606989+00:00
 -- url     : https://prove2.me/theorems/bb3ec7cb-d651-4011-b2c4-ee2461755422

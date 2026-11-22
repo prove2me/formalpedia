@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_annulusWidth_real_ge_of_core_ge
 -- name    : PebblingLean.Hypercube.PaperParameters.annulusWidth_real_ge_of_core_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:48.507334+00:00
 -- url     : https://prove2.me/theorems/f61dca8a-3dd5-4093-a6aa-d5961ae47faa

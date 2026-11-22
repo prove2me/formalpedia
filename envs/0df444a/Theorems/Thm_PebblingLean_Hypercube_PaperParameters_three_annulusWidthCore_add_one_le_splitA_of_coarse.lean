@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_three_annulusWidthCore_add_one_le_splitA_of_coarse
 -- name    : PebblingLean.Hypercube.PaperParameters.three_annulusWidthCore_add_one_le_splitA_of_coarse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:41.304319+00:00
 -- url     : https://prove2.me/theorems/866a6c16-5c6c-42f4-8442-59d58e586382

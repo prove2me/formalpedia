@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HybridXorLift_lemma_3_1
 -- name    : HybridXorLift.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T12:13:59.125617+00:00
 -- url     : https://prove2.me/theorems/8cd8b23a-f2af-445e-984c-74183d688f48

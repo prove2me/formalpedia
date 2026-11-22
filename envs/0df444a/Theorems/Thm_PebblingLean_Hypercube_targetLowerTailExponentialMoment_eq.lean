@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_targetLowerTailExponentialMoment_eq
 -- name    : PebblingLean.Hypercube.targetLowerTailExponentialMoment_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:12.654536+00:00
 -- url     : https://prove2.me/theorems/f5790b69-419e-4a10-85ed-c95ab0958b06

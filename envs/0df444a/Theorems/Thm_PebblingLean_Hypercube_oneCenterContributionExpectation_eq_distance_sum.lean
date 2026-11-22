@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterContributionExpectation_eq_distance_sum
 -- name    : PebblingLean.Hypercube.oneCenterContributionExpectation_eq_distance_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:49.533854+00:00
 -- url     : https://prove2.me/theorems/34c43efe-7942-4fca-9316-7bc3d213ebdc

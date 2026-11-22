@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for Parikh.ParseTree.productionSize_subtree_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T09:49:22.379941+00:00
+-- url     : https://prove2.me/submissions/8c872c45-2edf-4cfd-8f6c-4b6a7a5e7bd5
+
+module
+public import Definitions.Def_LeanPool_Parikh_GrammarTrees
+public import Definitions.Def_LeanPool_Parikh_ParseTreePaths
+public import Mathlib.Algebra.Order.Group.Nat
+public import Definitions.Def_LeanPool_Parikh_BoundedCutSupport
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open Parikh
+variable {T N : Type*}
+open Parikh.ParseTree
+namespace Parikh.ParseTree
+theorem _root_.solution (t : ParseTree T N) (q : List ℕ)
+    (u : ParseTree T N) (hpos : t.subtree q = some u) :
+    u.productionSize ≤ t.productionSize ∧
+      (q ≠ [] → u.productionSize < t.productionSize) := by
+  induction q generalizing t with
+  | nil =>
+    simp only [subtree, Option.some.injEq] at hpos
+    subst u
+    exact ⟨le_rfl, by simp⟩
+  | cons i q ih =>
+    cases t with
+    | terminal a => simp [subtree] at hpos
+    | hole A => simp [subtree] at hpos
+    | node r cs =>
+      obtain ⟨c, hi, hpos⟩ := Option.bind_eq_some_iff.mp hpos
+      have huc := (ih c hpos).1
+      have hmem : c.productionSize ∈ cs.map productionSize :=
+        List.mem_map_of_mem (List.mem_of_getElem? hi)
+      have hsum := List.single_le_sum (fun n _ => Nat.zero_le n) _ hmem
+      simp only [productionSize]
+      constructor <;> omega
+end Parikh.ParseTree

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_history_killed_scale_real_ennreal_bridge_no_standing
 -- name    : AvramDividend.Classical.p2m81_bv_history_killed_scale_real_ennreal_bridge_no_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:10:35.149789+00:00
 -- url     : https://prove2.me/theorems/942c4b9b-c13b-4900-a204-1b41ce3aa585

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_upper_exit_ratio
 -- name    : Kyprianou.Ch08.StageB.source_result81_upper_exit_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T12:59:34.880764+00:00
 -- url     : https://prove2.me/theorems/16dfa1ec-a384-4d1d-b03b-2eebea920728

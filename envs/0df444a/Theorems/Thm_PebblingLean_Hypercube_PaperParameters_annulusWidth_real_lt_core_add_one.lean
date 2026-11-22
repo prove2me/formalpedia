@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_annulusWidth_real_lt_core_add_one
 -- name    : PebblingLean.Hypercube.PaperParameters.annulusWidth_real_lt_core_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:51.119334+00:00
 -- url     : https://prove2.me/theorems/0767beff-8356-42ca-b07b-3f636a6defa5

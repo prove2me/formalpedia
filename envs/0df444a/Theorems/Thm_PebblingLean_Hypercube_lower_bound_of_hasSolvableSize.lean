@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_lower_bound_of_hasSolvableSize
 -- name    : PebblingLean.Hypercube.lower_bound_of_hasSolvableSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:50:49.318727+00:00
 -- url     : https://prove2.me/theorems/8752f305-bab1-44e6-b66f-3c7e8475ffb3

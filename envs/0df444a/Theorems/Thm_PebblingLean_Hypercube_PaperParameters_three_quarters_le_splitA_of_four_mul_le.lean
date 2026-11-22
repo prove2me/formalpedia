@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_three_quarters_le_splitA_of_four_mul_le
 -- name    : PebblingLean.Hypercube.PaperParameters.three_quarters_le_splitA_of_four_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:55:59.291394+00:00
 -- url     : https://prove2.me/theorems/71a615ba-741f-4952-a23d-44bba592bf48

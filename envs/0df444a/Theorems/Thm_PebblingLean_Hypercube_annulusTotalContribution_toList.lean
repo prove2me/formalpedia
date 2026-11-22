@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_annulusTotalContribution_toList
 -- name    : PebblingLean.Hypercube.annulusTotalContribution_toList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:42.909038+00:00
 -- url     : https://prove2.me/theorems/80bb8f74-45b9-4290-bdde-f42659510181

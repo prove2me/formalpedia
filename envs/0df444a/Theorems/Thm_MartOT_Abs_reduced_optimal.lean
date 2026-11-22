@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Abs_reduced_optimal
 -- name    : MartOT.Abs.reduced_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:01.367416+00:00
 -- url     : https://prove2.me/theorems/3e67ce43-59a0-4d61-b5b5-c6859e104471

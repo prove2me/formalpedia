@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_hasSolvableAtMostSize_product_of_fiber_demands
 -- name    : PebblingLean.Pebbling.hasSolvableAtMostSize_product_of_fiber_demands
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:58.706437+00:00
 -- url     : https://prove2.me/theorems/97dad339-b93f-435b-ad00-c9054a231407

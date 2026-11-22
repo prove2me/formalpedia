@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAPPAL_Subreg_proposition_6_2
 -- name    : NAPPAL.Subreg.proposition_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:11:15.853044+00:00
 -- url     : https://prove2.me/theorems/79f4aed5-5b4d-42ae-a369-aea63e2662bc

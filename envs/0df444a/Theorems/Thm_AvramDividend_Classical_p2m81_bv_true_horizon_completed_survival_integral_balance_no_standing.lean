@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_true_horizon_completed_survival_integral_balance_no_standing
 -- name    : AvramDividend.Classical.p2m81_bv_true_horizon_completed_survival_integral_balance_no_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T23:44:52.059749+00:00
 -- url     : https://prove2.me/theorems/bf32e92b-fc45-4d62-91a3-784602809c72

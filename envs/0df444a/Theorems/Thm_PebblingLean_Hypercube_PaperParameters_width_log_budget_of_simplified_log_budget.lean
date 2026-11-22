@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_width_log_budget_of_simplified_log_budget
 -- name    : PebblingLean.Hypercube.PaperParameters.width_log_budget_of_simplified_log_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:56:53.693011+00:00
 -- url     : https://prove2.me/theorems/6eac399b-1a85-4665-adaf-40f3371dbc44

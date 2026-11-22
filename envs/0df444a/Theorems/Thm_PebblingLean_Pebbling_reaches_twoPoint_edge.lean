@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_reaches_twoPoint_edge
 -- name    : PebblingLean.Pebbling.reaches_twoPoint_edge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:32.82415+00:00
 -- url     : https://prove2.me/theorems/32309a5a-c0c6-494b-a325-fe763cc872e9

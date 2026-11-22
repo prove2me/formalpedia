@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_exists_goodCenterSample_of_optimized_chord_annulusMean_log
 -- name    : PebblingLean.Hypercube.exists_goodCenterSample_of_optimized_chord_annulusMean_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:45.127418+00:00
 -- url     : https://prove2.me/theorems/2a9fa846-a930-45b5-be28-89f981641204

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_n_div_two_le_splitA_of_four_mul_le
 -- name    : PebblingLean.Hypercube.PaperParameters.n_div_two_le_splitA_of_four_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:09.937613+00:00
 -- url     : https://prove2.me/theorems/57c55354-a07e-4a63-9245-73b85b9fe61a

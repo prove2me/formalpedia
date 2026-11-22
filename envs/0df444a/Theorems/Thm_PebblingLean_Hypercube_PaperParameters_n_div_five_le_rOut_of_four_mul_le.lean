@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_n_div_five_le_rOut_of_four_mul_le
 -- name    : PebblingLean.Hypercube.PaperParameters.n_div_five_le_rOut_of_four_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:57.530782+00:00
 -- url     : https://prove2.me/theorems/758ccc3a-52b7-468d-a5e9-81a208210a21

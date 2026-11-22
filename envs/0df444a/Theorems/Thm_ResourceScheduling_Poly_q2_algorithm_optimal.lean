@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Poly_q2_algorithm_optimal
 -- name    : ResourceScheduling.Poly.q2_algorithm_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:34:23.830502+00:00
 -- url     : https://prove2.me/theorems/2e2fda2b-052e-4504-8df2-e642a3deffec

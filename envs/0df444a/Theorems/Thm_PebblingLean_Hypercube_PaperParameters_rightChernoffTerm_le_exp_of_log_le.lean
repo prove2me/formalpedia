@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_rightChernoffTerm_le_exp_of_log_le
 -- name    : PebblingLean.Hypercube.PaperParameters.rightChernoffTerm_le_exp_of_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:20.118414+00:00
 -- url     : https://prove2.me/theorems/5c5cd129-4c88-4426-8cf4-d11fe2891913

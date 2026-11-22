@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LeiBR.Async.lemma_7
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T11:05:32.271529+00:00
 -- url     : https://prove2.me/submissions/46b88f97-1051-4c47-ac7f-3640c98e3b86
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeiBR_Async_Game

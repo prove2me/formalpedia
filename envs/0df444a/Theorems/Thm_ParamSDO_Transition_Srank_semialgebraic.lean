@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_Srank_semialgebraic
 -- name    : ParamSDO.Transition.Srank_semialgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:16.080758+00:00
 -- url     : https://prove2.me/theorems/257443ab-2026-4b00-ba80-2d153a55f448

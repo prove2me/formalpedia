@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_exists_goodCenterSample_of_globalFailureProbability_lt_one
 -- name    : PebblingLean.Hypercube.exists_goodCenterSample_of_globalFailureProbability_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:06.032727+00:00
 -- url     : https://prove2.me/theorems/2641dc4a-5a90-470d-bc45-b5f807ef20cb

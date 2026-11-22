@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Brownian_Multidim_MultidimBrownianMotion_integral_mul_eq_zero_of_tendsto_eLpNorm
 -- name    : LevyStochCalc.Brownian.Multidim.MultidimBrownianMotion.integral_mul_eq_zero_of_tendsto_eLpNorm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T19:13:10.156479+00:00
 -- url     : https://prove2.me/theorems/cadfb8c2-f19c-40a1-8acf-a8206269b931

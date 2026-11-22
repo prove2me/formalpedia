@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_bernsteinExponent_two_width_mul_T_ge
 -- name    : PebblingLean.Hypercube.bernsteinExponent_two_width_mul_T_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:53:53.74993+00:00
 -- url     : https://prove2.me/theorems/cbca77c6-ca20-416f-b5b1-a0c7adb4fea8

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Card.theorem_7_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T06:11:40.877613+00:00
 -- url     : https://prove2.me/submissions/1d1a9967-e4d2-4a98-a53a-01d374701a23
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MartOT_Var_Setting

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XMX_nonstationary_expected_bound
 -- name    : XMX.nonstationary_expected_bound
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T17:03:07.52395+00:00
 -- url     : https://prove2.me/theorems/ad1655c4-c79e-44f8-918f-162f7a5a4c96

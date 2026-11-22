@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.p2m81_bv_stopped_scale_continuity_ae_no_standing_public
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T05:42:04.627653+00:00
 -- url     : https://prove2.me/submissions/da2c45a4-8ab9-4965-a0af-cfaf62139396
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

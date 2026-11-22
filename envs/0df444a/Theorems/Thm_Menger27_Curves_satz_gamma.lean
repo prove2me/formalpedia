@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Menger27_Curves_satz_gamma
 -- name    : Menger27.Curves.satz_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:15:16.118682+00:00
 -- url     : https://prove2.me/theorems/42d40680-4059-460b-9854-ef3074e743c1

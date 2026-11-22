@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_minOccupiedPileSize_stackListDistribution
 -- name    : PebblingLean.Hypercube.minOccupiedPileSize_stackListDistribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:35.227893+00:00
 -- url     : https://prove2.me/theorems/21e20436-2cfa-4fa9-9bcf-fcaaf2d09274

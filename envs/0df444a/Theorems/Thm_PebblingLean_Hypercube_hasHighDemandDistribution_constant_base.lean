@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasHighDemandDistribution_constant_base
 -- name    : PebblingLean.Hypercube.hasHighDemandDistribution_constant_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:36.384637+00:00
 -- url     : https://prove2.me/theorems/e8381aa0-5fd8-4b42-8ca8-8bbe1e6685f2

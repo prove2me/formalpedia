@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_bernsteinExponentialMomentBound_of_oneCenterDistanceSum
 -- name    : PebblingLean.Hypercube.bernsteinExponentialMomentBound_of_oneCenterDistanceSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:15.711102+00:00
 -- url     : https://prove2.me/theorems/267bdb42-2aeb-4590-a8c9-183d8025275c

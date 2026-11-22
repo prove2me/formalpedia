@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiplierAssoc206_Resolution_observation_4_5
 -- name    : MultiplierAssoc206.Resolution.observation_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:14:14.040208+00:00
 -- url     : https://prove2.me/theorems/84af699e-ff22-4658-8eab-b162c6461436

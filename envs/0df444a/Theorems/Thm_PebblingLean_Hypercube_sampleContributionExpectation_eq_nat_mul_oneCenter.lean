@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sampleContributionExpectation_eq_nat_mul_oneCenter
 -- name    : PebblingLean.Hypercube.sampleContributionExpectation_eq_nat_mul_oneCenter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:15.404977+00:00
 -- url     : https://prove2.me/theorems/a1f33359-f6cd-4ab4-8ece-fb7f211476d8

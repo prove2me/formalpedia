@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_cohomology_annihilated
 -- name    : Castro2006.cohomology_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:25:24.859195+00:00
 -- url     : https://prove2.me/theorems/97c96a19-40ce-495c-a5cb-c74346f77a5b

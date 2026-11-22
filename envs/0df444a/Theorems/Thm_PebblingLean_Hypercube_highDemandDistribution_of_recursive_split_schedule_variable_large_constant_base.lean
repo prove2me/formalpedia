@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_highDemandDistribution_of_recursive_split_schedule_variable_large_constant_base
 -- name    : PebblingLean.Hypercube.highDemandDistribution_of_recursive_split_schedule_variable_large_constant_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:38.687681+00:00
 -- url     : https://prove2.me/theorems/7fa419cb-4e24-4a1d-a40b-c5d35e99eed5

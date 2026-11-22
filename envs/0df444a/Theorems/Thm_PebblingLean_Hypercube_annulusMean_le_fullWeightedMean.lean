@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_annulusMean_le_fullWeightedMean
 -- name    : PebblingLean.Hypercube.annulusMean_le_fullWeightedMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:02.449043+00:00
 -- url     : https://prove2.me/theorems/92efebfb-4d36-47c2-9cb4-3279341084ba

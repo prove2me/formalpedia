@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SelfScaledIPM.ShortStep.lemma_6_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T07:48:36.508587+00:00
 -- url     : https://prove2.me/submissions/af245ae3-daf1-42fe-8306-12a4b909c34a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_dualCone

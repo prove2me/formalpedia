@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_canReachAtLeast_add
 -- name    : PebblingLean.Pebbling.canReachAtLeast_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:41.381681+00:00
 -- url     : https://prove2.me/theorems/3c58540e-3b00-4bbf-a1e9-187ef65f6e53

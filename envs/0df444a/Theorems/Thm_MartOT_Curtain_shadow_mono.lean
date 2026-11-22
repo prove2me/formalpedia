@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Curtain_shadow_mono
 -- name    : MartOT.Curtain.shadow_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:17.258858+00:00
 -- url     : https://prove2.me/theorems/850bb466-cf92-4d19-b0fb-de8ca4d7e754

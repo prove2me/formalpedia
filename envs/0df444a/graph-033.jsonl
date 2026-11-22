@@ -30607,8 +30607,8 @@
 {"parent": "RealPinwheel_FiveSixths_WitnessD8_042", "child": "RealPinwheel_FiveSixths_CertificateD8", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessD8_059", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessD8_059", "child": "RealPinwheel_FiveSixths_CertificateD8", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_physical_positivepart_cash_L1_source", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_physical_positivepart_cash_L1_source", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_physical_positivepart_cash_L1_source", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_ga_original_finitecap_physical_positivepart_cash_L1_source", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0140", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0140", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "OAI.ElementaryPositivity.RawShuffle.finiteInput_zero_rootClosure", "child": "OAIQ368Chrom013", "via": ["solution", "statement"]}
@@ -33283,7 +33283,7 @@
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_032", "child": "RealPinwheel_FiveSixths_CertificateP9", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessP9_032", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D7_051", "child": "RealPinwheel_FiveSixths_WitnessD7_051", "via": ["solution", "statement"]}
-{"parent": "WeldedPath.crossing_probability_bound", "child": "WeldedPath_Supplement_pCross", "via": ["statement"]}
+{"parent": "WeldedPath.crossing_probability_bound", "child": "WeldedPath_Supplement_pCross", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg587", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg9536", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg38490", "child": "OAIQ259US007", "via": ["solution", "statement"]}
@@ -90069,10 +90069,10 @@
 {"parent": "Kyprianou.Ch01.branchingOneAncestorLaplaceAtZero", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeD8_0082", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeD8_0082", "child": "RealPinwheel_FiveSixths_CodeFunctionD8", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "Kyprianou_Ch01_ForwardLampertiPaths", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["statement"]}
+{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "Kyprianou_Ch01_ForwardLampertiPaths", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.lampertiForwardFiniteDimensionalLawWithoutMoment", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_887", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_887", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.smallCert13_19", "child": "OAIQ259US003", "via": ["solution", "statement"]}
@@ -92499,7 +92499,7 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_11", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_260", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_260", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result8_2_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_2_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0631", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0631", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionCheck62", "child": "OAIQ259US022", "via": ["solution", "statement"]}
@@ -93361,7 +93361,7 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_993", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_993", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "EnvyFreeCake104.Divide.ordered_piece_split__p2m_d4fd739d_9478_4576_b5e6_63846c7c8048_a1", "child": "EnvyFreeCake104_Divide_Model", "via": ["solution", "statement"]}
-{"parent": "RudinSquares.square_positions_24_1_and_8_1", "child": "RudinSquares_Defs", "via": ["statement"]}
+{"parent": "RudinSquares.square_positions_24_1_and_8_1", "child": "RudinSquares_Defs", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0931", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0931", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0432", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
@@ -99697,7 +99697,7 @@
 {"parent": "OAI.UniversalTensorSquare.smallCert13_42", "child": "OAIQ259US017", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.smallCert13_42", "child": "OAIQ259US006", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.smallCert13_42", "child": "OAIQ259US004", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.part_exercise8_2_i_v2", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.part_exercise8_2_i_v2", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "StudentTeacher976_Adaptivity_Selectors", "child": "StudentTeacher976_Adaptivity_Complexity", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1083", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1083", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}

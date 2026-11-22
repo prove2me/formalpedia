@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineCensoredPricing_Identifiability_theorem_2
 -- name    : OfflineCensoredPricing.Identifiability.theorem_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:33:33.823828+00:00
 -- url     : https://prove2.me/theorems/ba4bc870-0ac8-4edf-9fd8-dd55e0908192

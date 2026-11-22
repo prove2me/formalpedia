@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_shape_filter_polytime
 -- name    : MultiPurchase.Hardness.shape_filter_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-03T03:52:50.255222+00:00
 -- url     : https://prove2.me/theorems/df866023-a3dc-4b5a-b7ac-3ffbb0776a9d

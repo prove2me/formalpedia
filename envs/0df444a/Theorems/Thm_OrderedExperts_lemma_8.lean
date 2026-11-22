@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrderedExperts_lemma_8
 -- name    : OrderedExperts.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:32:59.780996+00:00
 -- url     : https://prove2.me/theorems/887d3d11-bb03-4138-be0c-a7de5f9ead2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QVolKLS_section_4_3_bridge_bounds
 -- name    : QVolKLS.section_4_3_bridge_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T21:36:45.637575+00:00
 -- url     : https://prove2.me/theorems/18192558-81c3-4201-ae27-81462f3da3ab

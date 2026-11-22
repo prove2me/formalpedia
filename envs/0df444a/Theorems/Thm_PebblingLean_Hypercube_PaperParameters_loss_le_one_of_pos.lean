@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_loss_le_one_of_pos
 -- name    : PebblingLean.Hypercube.PaperParameters.loss_le_one_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:07.144903+00:00
 -- url     : https://prove2.me/theorems/227a6fb8-3238-401e-b235-9d25ba9edb1f

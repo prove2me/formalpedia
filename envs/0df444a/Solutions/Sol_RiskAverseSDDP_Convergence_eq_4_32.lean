@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RiskAverseSDDP.Convergence.eq_4_32
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-04T00:20:41.797929+00:00
 -- url     : https://prove2.me/submissions/95ded810-7cfc-4cfb-8050-97073804e493
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RiskAverseSDDP_Convergence_Basic

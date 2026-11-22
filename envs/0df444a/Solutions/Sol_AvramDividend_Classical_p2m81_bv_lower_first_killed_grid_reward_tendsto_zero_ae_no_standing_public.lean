@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.p2m81_bv_lower_first_killed_grid_reward_tendsto_zero_ae_no_standing_public
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T03:25:46.216103+00:00
 -- url     : https://prove2.me/submissions/28919190-7229-4434-b48e-e8e51e71db1f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AvramDividend_Classical_p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public
 import Theorems.Thm_AvramDividend_Classical_p2m81_bv_ceiling_grid_scale_tendsto_ae_all_paths_no_standing_public

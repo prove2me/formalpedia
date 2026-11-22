@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_DeciSigma1_Full_Closure_sat_iff_isSolution
+-- name    : DeciSigma1.Full.Closure.sat_iff_isSolution
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-22T13:38:51.414472+00:00
+-- url     : https://prove2.me/theorems/806e67b0-6608-4883-a4d0-82366e8aa549
+-- title:
+--   Closure: sat iff is Solution
+-- statement:
+--   An assignment satisfies `Γ` exactly when its set of signed configurations is a solution.
+--
+--   Source: https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/DeciSigma1/Full/Closure/Basic.lean#L238-L309
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/DeciSigma1/Full/Closure/Basic.lean#L238-L309
+
+module
+public import Definitions.Def_LeanPool_DeciSigma1_Full_Models_Observations
+public import Definitions.Def_LeanPool_DeciSigma1_Full_Closure_Basic
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Full DeciSigma1.Full.Closure
+open DeciSigma1.Semantics
+open DeciSigma1.Constraints
+variable {n : ℕ}
+variable {V : Type*} {c : Fin n → Bool} {Γ : List (LitT n V)}
+
+theorem DeciSigma1.Full.Closure.sat_iff_isSolution (ρ : V → Semantics.Tree n) :
+    SatT c ρ Γ ↔ IsSolution c Γ (configSet c ρ) := by sorry

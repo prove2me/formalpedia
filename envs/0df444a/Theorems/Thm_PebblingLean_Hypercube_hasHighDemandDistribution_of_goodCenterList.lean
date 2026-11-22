@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasHighDemandDistribution_of_goodCenterList
 -- name    : PebblingLean.Hypercube.hasHighDemandDistribution_of_goodCenterList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:35.232917+00:00
 -- url     : https://prove2.me/theorems/eebf4d16-e33f-42eb-b114-617d0b88eb2b

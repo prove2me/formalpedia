@@ -1,0 +1,117 @@
+-- Prove2me | solution 1 for DeciSigma1.Constraints.Closure.mem_expand
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T13:31:58.459803+00:00
+-- url     : https://prove2.me/submissions/d7b6ea5e-2640-492f-9b33-1cce58fb45ce
+
+module
+public import Mathlib.Data.Fintype.Prod
+public import Definitions.Def_LeanPool_DeciSigma1_Constraints_Basic
+public import Mathlib.Tactic.IntervalCases
+public import Definitions.Def_LeanPool_DeciSigma1_Constraints_Closure
+public import Theorems.Thm_DeciSigma1_Constraints_Closure_decompStep_iff
+public import Theorems.Thm_DeciSigma1_Constraints_holdsT_map
+public import Theorems.Thm_DeciSigma1_Constraints_holds_false
+public import Theorems.Thm_DeciSigma1_Constraints_sat_false
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_bot
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_dual
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_node
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_normalize
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_bot_le
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_descend_bot
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_descend_node
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_descend_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_hasLabel_bot
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_hasLabel_nil
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_hasLabel_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_le_bot_iff
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_le_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_node_le_node_iff
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_top_le_iff
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_bot
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_cons
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_nil
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_top
+public import Theorems.Thm_DeciSigma1_Semantics_bot_treeLe
+public import Theorems.Thm_DeciSigma1_Semantics_dual_bot
+public import Theorems.Thm_DeciSigma1_Semantics_dual_fn
+public import Theorems.Thm_DeciSigma1_Semantics_dual_involutive
+public import Theorems.Thm_DeciSigma1_Semantics_dual_le_iff
+public import Theorems.Thm_DeciSigma1_Semantics_dual_node
+public import Theorems.Thm_DeciSigma1_Semantics_dual_top
+public import Theorems.Thm_DeciSigma1_Semantics_node_treeLe_node_iff
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_bot
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_false_variance
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_fn
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_involutive
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_node
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_top
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_true
+public import Theorems.Thm_DeciSigma1_Semantics_top_treeLe_iff
+public import Theorems.Thm_DeciSigma1_Semantics_treeLe_bot_iff
+public import Theorems.Thm_DeciSigma1_Semantics_treeLe_false_iff_le
+public import Theorems.Thm_DeciSigma1_Semantics_treeLe_top
+attribute [local simp] DeciSigma1.Constraints.holdsT_map
+attribute [local simp] DeciSigma1.Constraints.holds_false
+attribute [local simp] DeciSigma1.Constraints.sat_false
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_bot
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_dual
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_node
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_normalize
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_top
+attribute [local simp] DeciSigma1.Semantics.Tree.bot_le
+attribute [local simp] DeciSigma1.Semantics.Tree.descend_bot
+attribute [local simp] DeciSigma1.Semantics.Tree.descend_node
+attribute [local simp] DeciSigma1.Semantics.Tree.descend_top
+attribute [local simp] DeciSigma1.Semantics.Tree.hasLabel_bot
+attribute [local simp] DeciSigma1.Semantics.Tree.hasLabel_nil
+attribute [local simp] DeciSigma1.Semantics.Tree.hasLabel_top
+attribute [local simp] DeciSigma1.Semantics.Tree.le_bot_iff
+attribute [local simp] DeciSigma1.Semantics.Tree.le_top
+attribute [local simp] DeciSigma1.Semantics.Tree.node_le_node_iff
+attribute [local simp] DeciSigma1.Semantics.Tree.top_le_iff
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_bot
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_cons
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_nil
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_top
+attribute [local simp] DeciSigma1.Semantics.bot_treeLe
+attribute [local simp] DeciSigma1.Semantics.dual_bot
+attribute [local simp] DeciSigma1.Semantics.dual_fn
+attribute [local simp] DeciSigma1.Semantics.dual_involutive
+attribute [local simp] DeciSigma1.Semantics.dual_le_iff
+attribute [local simp] DeciSigma1.Semantics.dual_node
+attribute [local simp] DeciSigma1.Semantics.dual_top
+attribute [local simp] DeciSigma1.Semantics.node_treeLe_node_iff
+attribute [local simp] DeciSigma1.Semantics.normalize_bot
+attribute [local simp] DeciSigma1.Semantics.normalize_false_variance
+attribute [local simp] DeciSigma1.Semantics.normalize_fn
+attribute [local simp] DeciSigma1.Semantics.normalize_involutive
+attribute [local simp] DeciSigma1.Semantics.normalize_node
+attribute [local simp] DeciSigma1.Semantics.normalize_top
+attribute [local simp] DeciSigma1.Semantics.normalize_true
+attribute [local simp] DeciSigma1.Semantics.top_treeLe_iff
+attribute [local simp] DeciSigma1.Semantics.treeLe_bot_iff
+attribute [local simp] DeciSigma1.Semantics.treeLe_false_iff_le
+attribute [local simp] DeciSigma1.Semantics.treeLe_top
+
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Constraints
+open DeciSigma1.Constraints.Covariant DeciSigma1.Semantics
+variable {n : ℕ} {V : Type*}
+variable [Fintype V] [DecidableEq V]
+open DeciSigma1.Constraints.Closure
+namespace DeciSigma1.Constraints.Closure
+theorem _root_.solution (Γ : List (LitT n V)) (s : Finset (V × V)) (x y : V) :
+    (x, y) ∈ expand Γ s ↔
+      (x, y) ∈ s ∨ x = y ∨ LitT.le x y ∈ Γ ∨
+      (∃ z, (x, z) ∈ s ∧ (z, y) ∈ s) ∨
+      (∃ a u v b i, LitT.fLe a u ∈ Γ ∧ (u, v) ∈ s ∧ LitT.leF v b ∈ Γ ∧
+        a i = x ∧ b i = y) := by
+  simp only [expand, Finset.mem_union, Finset.mem_filter, Finset.mem_univ, true_and,
+    decompStep_iff]
+end DeciSigma1.Constraints.Closure

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_reaches_add_right
 -- name    : PebblingLean.Pebbling.reaches_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:39.40974+00:00
 -- url     : https://prove2.me/theorems/05fc87f2-fe9c-4ac8-9795-d12944d602ee

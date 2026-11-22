@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_targetFailureProbability_le_exp_optimized_chord
 -- name    : PebblingLean.Hypercube.targetFailureProbability_le_exp_optimized_chord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:33.890666+00:00
 -- url     : https://prove2.me/theorems/27610a07-59a1-4601-893d-09f4cc2f753a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NashPoly_Generic_kkt_points_finite
 -- name    : NashPoly.Generic.kkt_points_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:30:55.74396+00:00
 -- url     : https://prove2.me/theorems/89a25290-769e-42e9-bead-f28825569dc2

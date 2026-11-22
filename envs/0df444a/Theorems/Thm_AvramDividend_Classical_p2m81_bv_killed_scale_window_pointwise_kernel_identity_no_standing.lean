@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing
 -- name    : AvramDividend.Classical.p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:10:22.870019+00:00
 -- url     : https://prove2.me/theorems/2fd450f9-f94f-4a02-9764-4cdb19cc120c

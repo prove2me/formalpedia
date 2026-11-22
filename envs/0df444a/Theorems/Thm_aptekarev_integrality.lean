@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_aptekarev_integrality
 -- name    : aptekarev_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-09-11T00:10:34.445112+00:00
 -- url     : https://prove2.me/theorems/c1725be8-9c72-441d-bcf2-1a439957fcad

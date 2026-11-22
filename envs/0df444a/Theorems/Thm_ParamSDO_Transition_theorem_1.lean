@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_theorem_1
 -- name    : ParamSDO.Transition.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:21.061962+00:00
 -- url     : https://prove2.me/theorems/601a1dbd-ed4a-4a90-8f43-15c109fbbf6a

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QMCProduct.HalfApprox.theorem_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-31T10:15:28.546831+00:00
 -- url     : https://prove2.me/submissions/d4d873e7-9908-446d-9ad9-fe70f908a233
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QMCProduct_HalfApprox_Algorithm
 import Theorems.Thm_QMCProduct_HalfApprox_remark_3

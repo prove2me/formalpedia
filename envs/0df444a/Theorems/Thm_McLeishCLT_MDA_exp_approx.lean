@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McLeishCLT_MDA_exp_approx
 -- name    : McLeishCLT.MDA.exp_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:08:40.225468+00:00
 -- url     : https://prove2.me/theorems/0855c5d5-83f3-42b7-9c75-440e145b9195

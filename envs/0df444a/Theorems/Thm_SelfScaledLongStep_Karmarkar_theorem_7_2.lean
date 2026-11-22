@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_Karmarkar_theorem_7_2
 -- name    : SelfScaledLongStep.Karmarkar.theorem_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:32.002548+00:00
 -- url     : https://prove2.me/theorems/3c6470d5-75c1-4dcc-bcb3-29c259be0114

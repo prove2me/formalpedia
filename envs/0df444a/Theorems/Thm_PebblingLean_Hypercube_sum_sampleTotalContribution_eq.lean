@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sum_sampleTotalContribution_eq
 -- name    : PebblingLean.Hypercube.sum_sampleTotalContribution_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:11.163802+00:00
 -- url     : https://prove2.me/theorems/c7df8306-ef02-4bb5-a658-fca1c6c77df2

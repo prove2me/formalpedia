@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sampleContributionSecondMomentProxy_le_two_width_mul_T
 -- name    : PebblingLean.Hypercube.sampleContributionSecondMomentProxy_le_two_width_mul_T
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:53:40.872148+00:00
 -- url     : https://prove2.me/theorems/fe1471a6-229b-478f-89b2-c44828895f77

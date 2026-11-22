@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_of_bernstein_bound
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_of_bernstein_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:14.25546+00:00
 -- url     : https://prove2.me/theorems/7cb9bced-aab5-426d-9840-dadedc09d7b3

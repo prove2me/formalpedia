@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_annulusContribution_le_stackSize
 -- name    : PebblingLean.Hypercube.annulusContribution_le_stackSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:59.4378+00:00
 -- url     : https://prove2.me/theorems/04ca6651-4e56-4bdf-b269-24c5b8f2e280

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercliqueFalse_potential_recursion
 -- name    : HypercliqueFalse.potential_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:29:57.084864+00:00
 -- url     : https://prove2.me/theorems/775720d5-7f0d-4fa7-a0b9-97c515a46eb8

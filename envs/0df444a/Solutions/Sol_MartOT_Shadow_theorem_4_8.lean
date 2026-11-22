@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Shadow.theorem_4_8
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T04:50:00.22547+00:00
 -- url     : https://prove2.me/submissions/90b3639b-06da-475b-92b3-c468da2c59a5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_MartOT_Shadow_lemma_4_6
 import Theorems.Thm_MartOT_Shadow_lemma_4_16

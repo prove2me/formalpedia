@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_log_succ_le_log_two_add_log
 -- name    : PebblingLean.Hypercube.PaperParameters.log_succ_le_log_two_add_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T06:00:02.166158+00:00
 -- url     : https://prove2.me/theorems/943748c0-7598-46ae-9737-a03d8b6d9253

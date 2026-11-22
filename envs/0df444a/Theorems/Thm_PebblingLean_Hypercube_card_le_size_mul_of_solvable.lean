@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_card_le_size_mul_of_solvable
 -- name    : PebblingLean.Hypercube.card_le_size_mul_of_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:50:50.981059+00:00
 -- url     : https://prove2.me/theorems/273e550f-8d6b-477d-b96c-bf94ab571a7d

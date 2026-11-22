@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Limit_sdclpValue_le_alphaStar
 -- name    : SampleDrivenOS.Limit.sdclpValue_le_alphaStar
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-23T17:45:08.165609+00:00
 -- url     : https://prove2.me/theorems/94cbea99-b7ba-4510-8cb7-51047252c1f0

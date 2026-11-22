@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for P2M_DeciSigma1_Holes_Periodic_Piece_getElem__eq_of_mod_eddd45ef4561
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T12:51:11.250308+00:00
+-- url     : https://prove2.me/submissions/b38c57f5-7de9-4bdb-bc63-efcb8398c825
+
+module
+public import Definitions.Def_LeanPool_DeciSigma1_Readers_Basic
+public import Definitions.Def_LeanPool_DeciSigma1_Words_Periods
+public import Mathlib.Order.Nat
+public import Definitions.Def_LeanPool_DeciSigma1_Holes_Periodic_Basic
+public import Theorems.Thm_DeciSigma1_Holes_Periodic_Piece_periodicOn
+public import Theorems.Thm_DeciSigma1_Words_PeriodicOn_eq_of_mod
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Holes DeciSigma1.Holes.Periodic
+open DeciSigma1.Readers DeciSigma1.Words
+variable {α : Type} {k : ℕ}
+open DeciSigma1.Holes.Periodic.Piece
+variable {W : Fin k → List α} {d : ℕ}
+namespace DeciSigma1.Holes.Periodic.Piece
+theorem _root_.solution (P : Piece W d) {o₁ o₂ : ℕ} (h₁ : o₁ < P.len) (h₂ : o₂ < P.len)
+    (h : o₁ % d = o₂ % d) : (W P.coordinate)[P.start + o₁]? = (W P.coordinate)[P.start + o₂]? := by
+  unfold len at h₁ h₂
+  apply P.periodicOn.eq_of_mod (by omega) (by omega) (by omega) (by omega)
+  rw [Nat.add_mod, h, ← Nat.add_mod]
+end DeciSigma1.Holes.Periodic.Piece

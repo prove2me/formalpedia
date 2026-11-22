@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RudinSquares_recursion
 -- name    : RudinSquares.recursion
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T18:23:44.94561+00:00
 -- url     : https://prove2.me/theorems/c91519ba-b6a7-4c6e-b83f-3d55f212b975

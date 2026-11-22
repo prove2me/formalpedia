@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_stack_core_log_budget_of_linear_margin
 -- name    : PebblingLean.Hypercube.PaperParameters.stack_core_log_budget_of_linear_margin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:46.454657+00:00
 -- url     : https://prove2.me/theorems/46b69b57-8dfa-4f4e-ba88-3851f7ad28d1

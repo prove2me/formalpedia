@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_splitA_div_three_le_rOut
 -- name    : PebblingLean.Hypercube.PaperParameters.splitA_div_three_le_rOut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:45.267503+00:00
 -- url     : https://prove2.me/theorems/9ef6ceec-e250-4450-b5c7-5c8a3f456ef0

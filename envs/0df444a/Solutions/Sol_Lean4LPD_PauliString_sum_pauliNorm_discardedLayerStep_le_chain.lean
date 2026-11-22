@@ -1,0 +1,164 @@
+-- Prove2me | solution 1 for Lean4LPD.PauliString.sum_pauliNorm_discardedLayerStep_le_chain
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T08:14:08.04808+00:00
+-- url     : https://prove2.me/submissions/9a679d38-bd84-40b6-9564-6a43d16ac8b1
+
+module
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_LayerLadder
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_TruncationError
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_AssemblyBound
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_LayerError
+public import Theorems.Thm_Lean4LPD_PauliString_pauliNorm_discardedLayerStep
+public import Theorems.Thm_Lean4LPD_PauliString_layerStepMass_reset
+public import Theorems.Thm_Lean4LPD_PauliString_layerStepMass_inflow
+public import Theorems.Thm_Lean4LPD_MultiLadder_sum_block_inflow_le
+public import Theorems.Thm_Lean4LPD_PauliString_blockEnd_apply
+public import Theorems.Thm_Lean4LPD_PauliString_cls_fst
+public import Theorems.Thm_Lean4LPD_PauliString_cls_herm
+public import Theorems.Thm_Lean4LPD_PauliString_cls_snd
+public import Theorems.Thm_Lean4LPD_PauliString_coeffVec_apply
+public import Theorems.Thm_Lean4LPD_PauliString_cover_nil
+public import Theorems.Thm_Lean4LPD_PauliString_herm_x
+public import Theorems.Thm_Lean4LPD_PauliString_herm_z
+public import Theorems.Thm_Lean4LPD_PauliString_jumpAct_apply
+public import Theorems.Thm_Lean4LPD_PauliString_jumpAct_zero
+public import Theorems.Thm_Lean4LPD_PauliString_mem_antiLayer
+public import Theorems.Thm_Lean4LPD_PauliString_mem_antiSites
+public import Theorems.Thm_Lean4LPD_PauliString_mem_highSet
+public import Theorems.Thm_Lean4LPD_PauliString_mem_support
+public import Theorems.Thm_Lean4LPD_PauliString_oneLayer_cons
+public import Theorems.Thm_Lean4LPD_PauliString_oneLayer_nil
+public import Theorems.Thm_Lean4LPD_PauliString_pauliNorm_nonneg
+public import Theorems.Thm_Lean4LPD_PauliString_pauliNorm_sq
+public import Theorems.Thm_Lean4LPD_PauliString_phaseMul_eq_phaseMul_iff
+public import Theorems.Thm_Lean4LPD_PauliString_phaseMul_eq_self_iff
+public import Theorems.Thm_Lean4LPD_PauliString_phaseMul_phase
+public import Theorems.Thm_Lean4LPD_PauliString_phaseMul_x
+public import Theorems.Thm_Lean4LPD_PauliString_phaseMul_z
+public import Theorems.Thm_Lean4LPD_PauliString_phaseMul_zero
+public import Theorems.Thm_Lean4LPD_PauliString_reachable_cons
+public import Theorems.Thm_Lean4LPD_PauliString_reachable_nil
+public import Theorems.Thm_Lean4LPD_PauliString_restr_apply
+public import Theorems.Thm_Lean4LPD_PauliString_restr_univ
+public import Theorems.Thm_Lean4LPD_PauliString_self_mem_branch
+public import Theorems.Thm_Lean4LPD_PauliString_site_mul
+public import Theorems.Thm_Lean4LPD_PauliString_site_one
+public import Theorems.Thm_Lean4LPD_PauliString_site_phaseMul
+public import Theorems.Thm_Lean4LPD_PauliString_stayAct_apply
+public import Theorems.Thm_Lean4LPD_PauliString_stayAct_zero
+public import Theorems.Thm_Lean4LPD_PauliString_support_phaseMul
+public import Theorems.Thm_Lean4LPD_PauliString_sympForm_mul_self_right
+public import Theorems.Thm_Lean4LPD_PauliString_sympForm_phaseMul_left
+public import Theorems.Thm_Lean4LPD_PauliString_sympForm_phaseMul_right
+public import Theorems.Thm_Lean4LPD_PauliString_sympForm_self
+public import Theorems.Thm_Lean4LPD_PauliString_toMatrix_one
+public import Theorems.Thm_Lean4LPD_PauliString_toMatrix_phaseMul
+public import Theorems.Thm_Lean4LPD_PauliString_trotterStepTraj_zero
+public import Theorems.Thm_Lean4LPD_PauliString_trotterTraj_zero
+public import Theorems.Thm_Lean4LPD_PauliString_weight_one
+public import Theorems.Thm_Lean4LPD_PauliString_weight_phaseMul
+public import Theorems.Thm_Lean4LPD_PauliString_wt_cls
+public import Theorems.Thm_Lean4LPD_chainWeight_zero
+public import Theorems.Thm_Lean4LPD_conj_negOnePow
+public import Theorems.Thm_Lean4LPD_entryFactor_nonneg_all
+public import Theorems.Thm_Lean4LPD_epsJump_nonneg_all
+public import Theorems.Thm_Lean4LPD_iPow_signPhase
+public import Theorems.Thm_Lean4LPD_iPow_two
+public import Theorems.Thm_Lean4LPD_negOnePow_mul_self
+public import Theorems.Thm_Lean4LPD_negOnePow_one
+public import Theorems.Thm_Lean4LPD_negOnePow_zero
+public import Theorems.Thm_Lean4LPD_norm_iPow
+public import Theorems.Thm_Lean4LPD_rungWeight_one
+public import Theorems.Thm_Lean4LPD_star_negOnePow
+attribute [local simp] Lean4LPD.PauliString.blockEnd_apply
+attribute [local simp] Lean4LPD.PauliString.cls_fst
+attribute [local simp] Lean4LPD.PauliString.cls_herm
+attribute [local simp] Lean4LPD.PauliString.cls_snd
+attribute [local simp] Lean4LPD.PauliString.coeffVec_apply
+attribute [local simp] Lean4LPD.PauliString.cover_nil
+attribute [local simp] Lean4LPD.PauliString.herm_x
+attribute [local simp] Lean4LPD.PauliString.herm_z
+attribute [local simp] Lean4LPD.PauliString.jumpAct_apply
+attribute [local simp] Lean4LPD.PauliString.jumpAct_zero
+attribute [local simp] Lean4LPD.PauliString.mem_antiLayer
+attribute [local simp] Lean4LPD.PauliString.mem_antiSites
+attribute [local simp] Lean4LPD.PauliString.mem_highSet
+attribute [local simp] Lean4LPD.PauliString.mem_support
+attribute [local simp] Lean4LPD.PauliString.oneLayer_cons
+attribute [local simp] Lean4LPD.PauliString.oneLayer_nil
+attribute [local simp] Lean4LPD.PauliString.pauliNorm_sq
+attribute [local simp] Lean4LPD.PauliString.phaseMul_eq_phaseMul_iff
+attribute [local simp] Lean4LPD.PauliString.phaseMul_eq_self_iff
+attribute [local simp] Lean4LPD.PauliString.phaseMul_phase
+attribute [local simp] Lean4LPD.PauliString.phaseMul_x
+attribute [local simp] Lean4LPD.PauliString.phaseMul_z
+attribute [local simp] Lean4LPD.PauliString.phaseMul_zero
+attribute [local simp] Lean4LPD.PauliString.reachable_cons
+attribute [local simp] Lean4LPD.PauliString.reachable_nil
+attribute [local simp] Lean4LPD.PauliString.restr_apply
+attribute [local simp] Lean4LPD.PauliString.restr_univ
+attribute [local simp] Lean4LPD.PauliString.self_mem_branch
+attribute [local simp] Lean4LPD.PauliString.site_mul
+attribute [local simp] Lean4LPD.PauliString.site_one
+attribute [local simp] Lean4LPD.PauliString.site_phaseMul
+attribute [local simp] Lean4LPD.PauliString.stayAct_apply
+attribute [local simp] Lean4LPD.PauliString.stayAct_zero
+attribute [local simp] Lean4LPD.PauliString.support_phaseMul
+attribute [local simp] Lean4LPD.PauliString.sympForm_mul_self_right
+attribute [local simp] Lean4LPD.PauliString.sympForm_phaseMul_left
+attribute [local simp] Lean4LPD.PauliString.sympForm_phaseMul_right
+attribute [local simp] Lean4LPD.PauliString.sympForm_self
+attribute [local simp] Lean4LPD.PauliString.toMatrix_one
+attribute [local simp] Lean4LPD.PauliString.toMatrix_phaseMul
+attribute [local simp] Lean4LPD.PauliString.trotterStepTraj_zero
+attribute [local simp] Lean4LPD.PauliString.trotterTraj_zero
+attribute [local simp] Lean4LPD.PauliString.weight_one
+attribute [local simp] Lean4LPD.PauliString.weight_phaseMul
+attribute [local simp] Lean4LPD.PauliString.wt_cls
+attribute [local simp] Lean4LPD.chainWeight_zero
+attribute [local simp] Lean4LPD.conj_negOnePow
+attribute [local simp] Lean4LPD.iPow_signPhase
+attribute [local simp] Lean4LPD.iPow_two
+attribute [local simp] Lean4LPD.negOnePow_mul_self
+attribute [local simp] Lean4LPD.negOnePow_one
+attribute [local simp] Lean4LPD.negOnePow_zero
+attribute [local simp] Lean4LPD.norm_iPow
+attribute [local simp] Lean4LPD.rungWeight_one
+attribute [local simp] Lean4LPD.star_negOnePow
+
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open Lean4LPD Lean4LPD.PauliString
+open Finset
+variable {n : ℕ}
+namespace Lean4LPD.PauliString
+theorem _root_.solution
+    (layers : ℕ → List (PauliString n × ℝ)) (Γ : ℕ)
+    (O : Matrix (Bits n) (Bits n) ℂ) {ko kh m : ℕ}
+    (hΓ : 0 < Γ) (hkh : 2 ≤ kh) (hL : ∀ T, IsLayer kh ((layers T).map Prod.fst))
+    (hherm : ∀ T, ∀ g ∈ layers T, IsSelfAdjoint g.1) {a : ℝ} (ha : 0 ≤ a)
+    (hsin : ∀ T, ∀ g ∈ layers T, |Real.sin g.2| ≤ a) (hm : 1 ≤ m)
+    (hb : betaOf (kh - 1 : ℕ) ((ko : ℝ) / (kh - 1 : ℕ)) a < 1)
+    (hloc : ∀ p : PauliIndex n, ko < wt p → coeff O p = 0) (r : ℕ) :
+    (∑ d ∈ range r, pauliNorm (discardedLayerStep layers Γ (rungWeight ko kh m) O d)) ≤
+      pauliNorm O * ∑ k ∈ range m,
+        ((((r : ℝ) + 1) * Γ) ^ (k + 1) / (Nat.factorial (k + 1) : ℝ)) *
+          chain (epsJump (kh - 1 : ℕ) ((ko : ℝ) / (kh - 1 : ℕ)) a)
+            (entryFactor (kh - 1 : ℕ) ((ko : ℝ) / (kh - 1 : ℕ)) a) (k + 1) m := by
+  let ML := pauliMultiLadder (fun T => layers (T % Γ))
+    (trotterSchedule Γ (rungWeight ko kh m)) O hkh
+    (fun T => hL (T % Γ)) (fun T => hherm (T % Γ)) ha
+    (fun T => hsin (T % Γ)) hb hloc
+  have hkh1 : (0 : ℝ) < (kh - 1 : ℕ) := by exact_mod_cast (by omega : 0 < kh - 1)
+  have hc : 0 ≤ (ko : ℝ) / (kh - 1 : ℕ) := div_nonneg (Nat.cast_nonneg _) hkh1.le
+  have h := MultiLadder.sum_block_inflow_le ML (epsJump_nonneg_all hkh1 hc ha)
+    (entryFactor_nonneg_all hkh1 hc ha) (pauliNorm_nonneg O) hm hΓ r
+    (layerStepMass layers Γ (rungWeight ko kh m) O)
+    (fun d _ => layerStepMass_reset layers (Nat.le_add_right ko _) hloc d)
+    (fun d _ i hi => layerStepMass_inflow layers Γ O hkh hL hherm ha hsin hm hb d i hi)
+  simpa only [pauliNorm_discardedLayerStep, layerStepMass] using h
+end Lean4LPD.PauliString

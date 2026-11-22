@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_canReachAtLeast_single_of_walk
 -- name    : PebblingLean.Pebbling.canReachAtLeast_single_of_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:07.840955+00:00
 -- url     : https://prove2.me/theorems/b0871dd0-54c9-41af-8d0c-85967f732e5d

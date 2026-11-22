@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_stopped_scale_continuity_ae_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_stopped_scale_continuity_ae_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:47.588787+00:00
 -- url     : https://prove2.me/theorems/b54f4740-6673-4781-958d-ef95939f3a90

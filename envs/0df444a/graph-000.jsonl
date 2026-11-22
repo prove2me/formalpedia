@@ -5083,7 +5083,7 @@
 {"parent": "AdaptiveStepIPM.Probabilistic.equation_20", "child": "AdaptiveStepIPM_Probabilistic_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveStepIPM.Probabilistic.equations_18_19", "child": "AdaptiveStepIPM_Probabilistic_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveStepIPM.Probabilistic.gaussian_maximum", "child": "AdaptiveStepIPM_Probabilistic_Model", "via": ["solution", "statement"]}
-{"parent": "AdaptiveStepIPM.Probabilistic.lemma_6", "child": "AdaptiveStepIPM_Probabilistic_Model", "via": ["statement"]}
+{"parent": "AdaptiveStepIPM.Probabilistic.lemma_6", "child": "AdaptiveStepIPM_Probabilistic_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveStepIPM.Probabilistic.lemma_7", "child": "AdaptiveStepIPM_Probabilistic_Model", "via": ["solution", "statement"]}
 {"parent": "AdaptiveStepIPM.Probabilistic.theorem_5", "child": "AdaptiveStepIPM_Probabilistic_Model", "via": ["statement"]}
 {"parent": "AdaptiveStepIPM.WideNbhd.eq_15", "child": "AdaptiveStepIPM_WideNbhd_Algorithm2", "via": ["solution", "statement"]}
@@ -73289,26 +73289,14 @@
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.hjb_pointwise_inequalities", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.verification_strategy_lump_sum_drop", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.hjb_pointwise_inequalities", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.verification_strategy_lump_sum_drop", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.admissible_exponential_dividend_jump_bound", "child": "AvramDividend.Classical.dividendStrategy_le_rightLimit", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_exponential_dividend_jump_bound", "child": "AvramDividend.Classical.exponential_dividend_jump_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_exponential_dividend_jump_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

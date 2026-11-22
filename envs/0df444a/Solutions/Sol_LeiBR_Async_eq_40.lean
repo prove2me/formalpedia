@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LeiBR.Async.eq_40
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T11:09:44.269638+00:00
 -- url     : https://prove2.me/submissions/754aea30-5937-431d-85aa-de874f5ed1c5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeiBR_Async_Game

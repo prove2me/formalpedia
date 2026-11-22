@@ -1,0 +1,29 @@
+-- Prove2me | Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRowWeight
+-- name    : Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRowWeight
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T16:57:04.714979+00:00
+-- url     : https://prove2.me/theorems/d6dc2f8b-9497-4586-9da9-83f093c17765
+-- title:
+--   HWRow Weight
+-- statement:
+--   Definitions and structural lemmas for HWRow Weight, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GradedWeylDivisibility/FockSpaceTableaux/HWRowWeight.lean
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_StatementA
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwrowLemmas
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace Formalism.GradedWeylDivisibility
+open MvPolynomial
+def hwrowExtNu {n : ℕ} (ν : Fin n → ℕ) (i : ℕ) : ℕ := if h : i < n then ν ⟨i, h⟩ else 0
+end Formalism.GradedWeylDivisibility
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Menger27_Curves_annulus_n_connected
 -- name    : Menger27.Curves.annulus_n_connected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:15:11.384871+00:00
 -- url     : https://prove2.me/theorems/ab4bab04-3076-4de7-91b9-3313e8014d6d

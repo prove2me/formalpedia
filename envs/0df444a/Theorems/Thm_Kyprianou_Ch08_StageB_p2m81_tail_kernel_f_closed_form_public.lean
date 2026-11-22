@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_tail_kernel_f_closed_form_public
 -- name    : Kyprianou.Ch08.StageB.p2m81_tail_kernel_f_closed_form_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:20:45.712747+00:00
 -- url     : https://prove2.me/theorems/056c8127-8360-4417-b448-05abf5b814bf

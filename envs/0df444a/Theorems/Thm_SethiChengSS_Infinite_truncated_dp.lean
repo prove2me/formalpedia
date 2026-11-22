@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SethiChengSS_Infinite_truncated_dp
 -- name    : SethiChengSS.Infinite.truncated_dp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:37.589792+00:00
 -- url     : https://prove2.me/theorems/a0935274-4089-4d37-a521-5ef7b3a152b9

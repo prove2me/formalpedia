@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NestedSA.NASA.theorem_2_b
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-04T09:08:33.808294+00:00
 -- url     : https://prove2.me/submissions/3d1573f6-2c73-4c2e-8e2f-4423e3a096b2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SpectralProjGrad_Shared_IsProjOnto

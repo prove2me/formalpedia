@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_split_product_of_demand_cost
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_split_product_of_demand_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:05.882597+00:00
 -- url     : https://prove2.me/theorems/ec914ce2-551f-4245-bb58-d1f1b715facb

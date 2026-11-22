@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_uniformlyImplementsOn_sum
 -- name    : GL2QFT.Circuits.uniformlyImplementsOn_sum
--- status  : Open
+-- status  : Proved
 -- author  : @dmitry
 -- created : 2026-11-22T04:38:01.151801+00:00
 -- url     : https://prove2.me/theorems/bb31791b-088f-459f-a46c-833975900d9c

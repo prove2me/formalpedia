@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicSurface27_linesOf_finite_to_27
 -- name    : CubicSurface27.linesOf_finite_to_27
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T01:31:51.382627+00:00
 -- url     : https://prove2.me/theorems/48f6f03f-2e30-4430-8467-91cdd019e23a

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Curtain.theorem_4_18
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T05:28:15.208192+00:00
 -- url     : https://prove2.me/submissions/37a7919f-a2cd-4ce0-8162-4ab17d84b960
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MartOT_Var_Setting

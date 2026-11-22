@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaintPOMDP_Frontier_theorem_2_part2_PIR
 -- name    : MaintPOMDP.Frontier.theorem_2_part2_PIR
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-24T02:04:30.901974+00:00
 -- url     : https://prove2.me/theorems/e1c7e4dd-2c0f-4197-8c26-7e30965cc8c1

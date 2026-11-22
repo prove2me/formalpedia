@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_div_sub_one_le_nat_div_real
 -- name    : PebblingLean.Hypercube.PaperParameters.div_sub_one_le_nat_div_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:20.153653+00:00
 -- url     : https://prove2.me/theorems/ce4403c0-3731-4889-8bc7-cf2c4701e9a8

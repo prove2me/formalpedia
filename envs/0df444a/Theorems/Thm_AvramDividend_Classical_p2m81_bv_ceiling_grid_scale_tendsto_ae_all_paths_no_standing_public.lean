@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_ceiling_grid_scale_tendsto_ae_all_paths_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_ceiling_grid_scale_tendsto_ae_all_paths_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:46:00.994945+00:00
 -- url     : https://prove2.me/theorems/360c3d60-f7bc-4843-a553-e58de39a4468

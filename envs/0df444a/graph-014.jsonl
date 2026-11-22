@@ -63033,9 +63033,6 @@
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P26.indefinite_causal_advantage", "child": "QAlgorithms_Papers_Independent_Extend50_P26", "via": ["statement"]}
 {"parent": "VehicleRoutingSurvey.Routing.H_VSP", "child": "VehicleRoutingSurvey_Routing_SchedulingGeometry", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P32.phase_covariant_characterization", "child": "QAlgorithms_Papers_Independent_Advance50_P32", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq", "child": "AvramDividend.Classical.chat03_actual_ceiling_capped_grid_clipped_hitting_congr", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq", "child": "AvramDividend.Classical.chat03_clipped_grid_clock_bounded", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_ws01b_actual_clipped_ceiling_grid_killed_ost_eq", "child": "AvramDividend.Classical.avram_ws01b_bv_killed_scale_grid_optional_stopping", "via": ["statement"]}
 {"parent": "OAI.CubicFirstMoment.largePrimeTupleOrdinaryHighSum_isLittleO_actual", "child": "OAIQ096A019", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicFirstMoment.largePrimeTupleOrdinaryHighSum_isLittleO_actual", "child": "PattersonFirstMoment", "via": ["solution", "statement"]}
 {"parent": "VehicleRoutingSurvey.Routing.A14_upper", "child": "VehicleRoutingSurvey_Routing_MixedAlgorithms", "via": ["statement"]}

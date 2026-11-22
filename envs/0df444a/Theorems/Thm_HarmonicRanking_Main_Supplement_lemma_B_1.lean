@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicRanking_Main_Supplement_lemma_B_1
 -- name    : HarmonicRanking.Main.Supplement.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T14:50:24.144808+00:00
 -- url     : https://prove2.me/theorems/ffca6a8c-3503-4b6f-b387-52edea5942a5

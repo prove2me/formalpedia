@@ -1,0 +1,56 @@
+-- Prove2me | Definitions.Def_LeanPool_LowWeightPauliDynamics
+-- name    : LeanPool_LowWeightPauliDynamics
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-22T08:03:56.310827+00:00
+-- url     : https://prove2.me/theorems/4801ffff-f2c5-40cf-9438-bf9d392c422d
+-- title:
+--   Low Weight Pauli Dynamics
+-- statement:
+--   Definitions and structural lemmas for Low Weight Pauli Dynamics, from Jue Xu; LeanPool contributors's pinned Low-weight Pauli dynamics and truncation error development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/LowWeightPauliDynamics.lean
+
+module
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_BlockNorm
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_C0
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_AssemblyBound
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_ChainWeights
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_Threshold
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_Entry
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_PartFactor
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_StepSum
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Constants_Total
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Ladder_Defs
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Ladder_Assembly
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Ladder_ChainBound
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Ladder_HockeyStick
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Ladder_MultiJump
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Ladder_Recursion
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Ladder_Weighted
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Basic
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Branch
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Coeff
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Count
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Discard
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_DiscardWitness
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Flow
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_LayerWitness
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_LayerFlow
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_LayerLadder
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_LayerError
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_LayerCounterexample
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Matrix
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Trace
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Truncate
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_TrotterTruncate
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_TruncationError
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Tensor
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Pauli_Weight
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Rotation
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_RotationExp
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_Schur
+set_option autoImplicit true
+@[expose] public section
+
+

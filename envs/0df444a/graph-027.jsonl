@@ -54948,7 +54948,7 @@
 {"parent": "NecklacePPAD.Main.sec_4_2_construction", "child": "NecklacePPAD_Main_NSCounts", "via": ["statement"]}
 {"parent": "NecklacePPAD.Main.sec_4_2_construction", "child": "NecklacePPAD_Main_Construction", "via": ["statement"]}
 {"parent": "TwoItemMenu1393.Main.theorem_1_1", "child": "TwoItemMenu1393_Main_Model", "via": ["statement"]}
-{"parent": "RoundedPotentials.Main.theorem_1_1", "child": "RoundedPotentials_Main_Verifier", "via": ["statement"]}
+{"parent": "RoundedPotentials.Main.theorem_1_1", "child": "RoundedPotentials_Main_Verifier", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.A2_4_10Law_sound", "child": "OAIQ254M003", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.thetaApproach_tendsto_complex_punctured", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.thetaApproach_tendsto_complex_punctured", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CuspResidues", "via": ["solution", "statement"]}
@@ -62374,7 +62374,7 @@
 {"parent": "LindbladQueryOptimal_Simulation_Core", "child": "QAlgorithms_Defs_MatrixDistances", "via": ["statement"]}
 {"parent": "OAI.CubicEisenstein.eisensteinRemainder_coordinate_equation", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.eisensteinRemainder_coordinate_equation", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CutoffApproximation", "via": ["solution", "statement"]}
-{"parent": "GaussPolyReg.Approx.lemma_3_3", "child": "GaussPolyReg_Approx_Ultra", "via": ["statement"]}
+{"parent": "GaussPolyReg.Approx.lemma_3_3", "child": "GaussPolyReg_Approx_Ultra", "via": ["solution", "statement"]}
 {"parent": "GrothendieckPD_Digits_RoundingScheme", "child": "GrothendieckPD_Digits_GradedSpace", "via": ["statement"]}
 {"parent": "PermInvCC.theorem_4_1", "child": "PermInvCC_hE", "via": ["statement"]}
 {"parent": "PermInvCC.theorem_4_1", "child": "PermInvCC_jointType", "via": ["statement"]}
@@ -65755,8 +65755,8 @@
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeStateRows", "child": "QEC.Coding.ProbabilisticConstruction.SphericalCap.barycenterMap_apply", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeStateRows", "child": "QEC.Coding.BDL26TannerLocalRegularity.baseQ0DoubleCylinderEdge_card", "via": ["statement"]}
 {"parent": "RobustCorrClust.Main.lemma_6_2", "child": "RobustCorrClust_Main_SignedGraph", "via": ["statement"]}
-{"parent": "GL2QFT.theorem_6_34", "child": "GL2QFT_Uniform", "via": ["statement"]}
-{"parent": "GL2QFT.theorem_6_34", "child": "GL2QFT_AGamma", "via": ["statement"]}
+{"parent": "GL2QFT.theorem_6_34", "child": "GL2QFT_Uniform", "via": ["solution", "statement"]}
+{"parent": "GL2QFT.theorem_6_34", "child": "GL2QFT_AGamma", "via": ["solution", "statement"]}
 {"parent": "PSPACEOracleSynth.Main.lemma_2_7", "child": "KTUnitary_Synth_IsExtension", "via": ["statement"]}
 {"parent": "PSPACEOracleSynth.Main.lemma_2_7", "child": "KTUnitary_Synth_opNorm", "via": ["statement"]}
 {"parent": "PSPACEOracleSynth.Main.lemma_2_7", "child": "PSPACEOracleSynth_Main_Dilation", "via": ["statement"]}
@@ -79417,7 +79417,7 @@
 {"parent": "PermInvCC.theorem_3_1", "child": "PermInvCC_jointType", "via": ["statement"]}
 {"parent": "PermInvCC.theorem_3_1", "child": "PermInvCC_Rpub", "via": ["statement"]}
 {"parent": "PermInvCC.theorem_3_1", "child": "PermInvCC_IsPermInvariant", "via": ["statement"]}
-{"parent": "HDXNbhdPCP.Main.claim_2_4", "child": "HDXNbhdPCP_Main_Complex", "via": ["statement"]}
+{"parent": "HDXNbhdPCP.Main.claim_2_4", "child": "HDXNbhdPCP_Main_Complex", "via": ["solution", "statement"]}
 {"parent": "ParallelMatroidBasis_Main_QueryModel", "child": "ExactParallelSampling_QuasiUniform_Protocol", "via": ["statement"]}
 {"parent": "LiuHelsenDesigns.OneD.lemma_5", "child": "LiuHelsenDesigns_OneD_kazhdanBounds", "via": ["statement"]}
 {"parent": "CorrBoundsPoly.ExactDegree.lemma_2_2", "child": "CorrBoundsPoly_ExactDegree_Filtration", "via": ["statement"]}
@@ -80903,7 +80903,7 @@
 {"parent": "RSBeyondJohnson.FirstOrder.lemma_4_2", "child": "RSBeyondJohnson_FirstOrder_Agreement", "via": ["statement"]}
 {"parent": "RSBeyondJohnson.FirstOrder.lemma_4_2", "child": "RSCapacity_AffineGeometry", "via": ["statement"]}
 {"parent": "BeyondConvexity_APTAS_LevelPartition", "child": "BeyondConvexity_APTAS_PolynomialOn", "via": ["statement"]}
-{"parent": "GrothendieckPD.Digits.theorem_4_2", "child": "GrothendieckPD_Digits_RoundingScheme", "via": ["statement"]}
+{"parent": "GrothendieckPD.Digits.theorem_4_2", "child": "GrothendieckPD_Digits_RoundingScheme", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicKubota.levelTwo_cube_phase_balance", "child": "OAI_NumberTheory_DirichletL_Cusp_ResiduesModThree", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicKubota.levelTwo_cube_phase_balance", "child": "OAI_NumberTheory_DirichletL_Reciprocity_PrimaryCongruences", "via": ["solution", "statement"]}
 {"parent": "GraphSimOT.Gaps.lemma_47", "child": "GraphSimOT_Gaps_CutRounding", "via": ["statement"]}
@@ -84929,7 +84929,7 @@
 {"parent": "AvramDividend.Classical.avram_ja18d_original_smallband_limit_rightcont_adapted", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_small_band_compensated", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ja18d_original_smallband_limit_rightcont_adapted", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "CSPIdealMem_Polymorphism", "child": "CSPIdealMem_ConstraintLanguage", "via": ["statement"]}
-{"parent": "GL2QFT.lemma_6_8", "child": "GL2QFT_Uniform", "via": ["statement"]}
+{"parent": "GL2QFT.lemma_6_8", "child": "GL2QFT_Uniform", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeTriangleColors.colors_polynomial", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeTriangleKeys", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeTriangleColors.colors_polynomial", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeTriangleColors", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeTriangleColors.colors_polynomial", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeSupportMetadata", "via": ["solution", "statement"]}

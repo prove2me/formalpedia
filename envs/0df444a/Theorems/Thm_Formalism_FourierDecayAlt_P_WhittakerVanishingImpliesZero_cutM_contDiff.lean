@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WhittakerVanishingImpliesZero_cutM_contDiff
+-- name    : Formalism.FourierDecayAlt.P.WhittakerVanishingImpliesZero.cutM_contDiff
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-22T20:00:50.015801+00:00
+-- url     : https://prove2.me/theorems/2f97b69d-c089-4675-bbce-ac6de58a06b2
+-- title:
+--   Whittaker Vanishing Implies Zero: cut M cont Diff
+-- statement:
+--   The Whittaker Vanishing Implies Zero construction uses the cut M cont Diff property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/WhittakerVanishingImpliesZero.lean#L53-L56
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/WhittakerVanishingImpliesZero.lean#L53-L56
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementG
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RemainderNormLeStrictUpper
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WhittakerVanishingImpliesZero
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.WhittakerVanishingImpliesZero
+open Formalism.FourierDecayAlt.G
+
+theorem Formalism.FourierDecayAlt.P.WhittakerVanishingImpliesZero.cutM_contDiff {s : ℕ} (τ : ℝ) {n : ℕ∞} : ContDiff ℝ n (cutM (s := s) τ) := by sorry

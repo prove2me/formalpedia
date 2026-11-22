@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_lemma_6
 -- name    : GenCostSched.GFCS.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:34.351494+00:00
 -- url     : https://prove2.me/theorems/898978ba-8c89-4424-a662-0543bf5ed268

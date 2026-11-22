@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_theorem_3
 -- name    : LeiBR.Async.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:39.345113+00:00
 -- url     : https://prove2.me/theorems/27827330-0136-4362-a84a-6f96bb9730a2

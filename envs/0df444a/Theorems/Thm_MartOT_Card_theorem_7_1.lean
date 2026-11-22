@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Card_theorem_7_1
 -- name    : MartOT.Card.theorem_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:10.551727+00:00
 -- url     : https://prove2.me/theorems/c6f3b425-6978-410a-9f46-5177a1506d53

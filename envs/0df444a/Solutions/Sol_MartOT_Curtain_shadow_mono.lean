@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Curtain.shadow_mono
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T05:26:50.108979+00:00
 -- url     : https://prove2.me/submissions/1126b3f7-7bd5-491e-bc89-d3c2789651c9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MartOT_Var_Setting

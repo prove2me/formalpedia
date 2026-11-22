@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinSumClust_appendix_A1_bipoint
 -- name    : MinSumClust.appendix_A1_bipoint
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:46:40.205398+00:00
 -- url     : https://prove2.me/theorems/9b686d5f-1d0a-4ad6-b2dc-3c56711d7743

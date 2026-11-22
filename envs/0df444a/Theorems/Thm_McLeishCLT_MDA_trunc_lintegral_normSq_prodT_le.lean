@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McLeishCLT_MDA_trunc_lintegral_normSq_prodT_le
 -- name    : McLeishCLT.MDA.trunc_lintegral_normSq_prodT_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:32:43.086288+00:00
 -- url     : https://prove2.me/theorems/15d99d57-37b2-472d-9a9b-be2fdd10da8d

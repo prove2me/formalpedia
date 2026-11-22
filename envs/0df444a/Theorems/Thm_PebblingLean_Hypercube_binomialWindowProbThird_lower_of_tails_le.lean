@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_binomialWindowProbThird_lower_of_tails_le
 -- name    : PebblingLean.Hypercube.binomialWindowProbThird_lower_of_tails_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:12.903628+00:00
 -- url     : https://prove2.me/theorems/e72814cb-47e8-4b7d-90bc-4ce568d9a5c6

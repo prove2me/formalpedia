@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_annulusMean_eq_fullWeightedMean_mul_binomialWindowProbThird
 -- name    : PebblingLean.Hypercube.annulusMean_eq_fullWeightedMean_mul_binomialWindowProbThird
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:02.361634+00:00
 -- url     : https://prove2.me/theorems/78043661-ea6b-4bf8-bd90-77808d04cd9e

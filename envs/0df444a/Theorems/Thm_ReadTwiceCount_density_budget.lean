@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReadTwiceCount_density_budget
 -- name    : ReadTwiceCount.density_budget
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:38:51.485412+00:00
 -- url     : https://prove2.me/theorems/42561e94-e953-4954-b784-41421dd772c9

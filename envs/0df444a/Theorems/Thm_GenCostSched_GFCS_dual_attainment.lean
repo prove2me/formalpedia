@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_dual_attainment
 -- name    : GenCostSched.GFCS.dual_attainment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:45.51525+00:00
 -- url     : https://prove2.me/theorems/5e2073ed-0a37-48f0-932b-0733ed3aac1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Precedence_optimal_policy_is_fi_policy
 -- name    : AllocationIndices.Precedence.optimal_policy_is_fi_policy
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-01T14:51:30.197127+00:00
 -- url     : https://prove2.me/theorems/7d34490f-62d4-42b1-b294-e8ca296af532

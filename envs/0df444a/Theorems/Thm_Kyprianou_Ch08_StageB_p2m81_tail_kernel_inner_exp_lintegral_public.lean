@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_tail_kernel_inner_exp_lintegral_public
 -- name    : Kyprianou.Ch08.StageB.p2m81_tail_kernel_inner_exp_lintegral_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:18:22.354501+00:00
 -- url     : https://prove2.me/theorems/426bf966-1f53-4e67-9646-7a67f7373a2b

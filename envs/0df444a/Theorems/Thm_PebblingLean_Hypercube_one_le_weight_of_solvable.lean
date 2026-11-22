@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_one_le_weight_of_solvable
 -- name    : PebblingLean.Hypercube.one_le_weight_of_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:50:45.516241+00:00
 -- url     : https://prove2.me/theorems/cc4139ad-42b9-4bee-8666-32d01e46c7db

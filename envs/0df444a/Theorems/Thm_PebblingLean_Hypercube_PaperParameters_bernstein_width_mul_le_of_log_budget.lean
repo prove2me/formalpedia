@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_bernstein_width_mul_le_of_log_budget
 -- name    : PebblingLean.Hypercube.PaperParameters.bernstein_width_mul_le_of_log_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:06.969822+00:00
 -- url     : https://prove2.me/theorems/1e49d7cf-a82e-4aed-9253-e360d7884c04

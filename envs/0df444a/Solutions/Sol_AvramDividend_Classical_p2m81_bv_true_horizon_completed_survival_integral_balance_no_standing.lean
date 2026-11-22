@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.p2m81_bv_true_horizon_completed_survival_integral_balance_no_standing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T02:01:37.474801+00:00
 -- url     : https://prove2.me/submissions/7beb4580-99c5-49fc-b77c-4e6eb060588b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.Analysis.SpecificLimits.Basic

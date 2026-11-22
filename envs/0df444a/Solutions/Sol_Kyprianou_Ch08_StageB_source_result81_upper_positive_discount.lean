@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.source_result81_upper_positive_discount
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-21T19:20:47.185938+00:00
 -- url     : https://prove2.me/submissions/76a5930e-d166-491a-b71a-699665dcd99b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Definitions.Def_AvramDividend_Classical_TwoSidedExit

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoQuantumUnion_operator_bound
 -- name    : GaoQuantumUnion.operator_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-19T21:46:06.406041+00:00
 -- url     : https://prove2.me/theorems/0b9363fc-fcd5-48ac-b37e-5b485be75164

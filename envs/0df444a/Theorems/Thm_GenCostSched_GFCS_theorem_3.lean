@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_theorem_3
 -- name    : GenCostSched.GFCS.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:41.738406+00:00
 -- url     : https://prove2.me/theorems/682f957d-ad28-4d6d-87ad-204175b0e99a

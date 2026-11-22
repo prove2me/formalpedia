@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledIPM_FuncProx_proposition_3_5
 -- name    : SelfScaledIPM.FuncProx.proposition_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:20:18.391834+00:00
 -- url     : https://prove2.me/theorems/64416048-820c-4980-84d9-892df1e57556

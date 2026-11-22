@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZlibCrc32_subroutineOk_crc32_combine_op
 -- name    : ZlibCrc32.subroutineOk_crc32_combine_op
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T01:34:39.574889+00:00
 -- url     : https://prove2.me/theorems/6e4e5f14-005d-4492-b13e-e017b6d421f7

@@ -55988,7 +55988,7 @@
 {"parent": "OAI.ReflexiveFixedPoints.tree_finite_witnesses_contradiction", "child": "OAI_Analysis_Nonexpansive_TreeFrontier", "via": ["solution", "statement"]}
 {"parent": "OAI.ReflexiveFixedPoints.tree_finite_witnesses_contradiction", "child": "OAI_Analysis_Nonexpansive_PrefixPredictionReindex", "via": ["solution", "statement"]}
 {"parent": "OAI.ReflexiveFixedPoints.tree_finite_witnesses_contradiction", "child": "OAI_Analysis_Nonexpansive_AdaptiveConvexPrefix", "via": ["solution", "statement"]}
-{"parent": "ParamSDO.Transition.Srank_semialgebraic", "child": "ParamSDO_Transition_Setting", "via": ["statement"]}
+{"parent": "ParamSDO.Transition.Srank_semialgebraic", "child": "ParamSDO_Transition_Setting", "via": ["solution", "statement"]}
 {"parent": "FiniteTD.Markov.lemma_1", "child": "FiniteTD_Markov_Setting", "via": ["solution", "statement"]}
 {"parent": "FiniteTD.Markov.lemma_1", "child": "FiniteTD_Markov_Chain", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group642_part05", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}

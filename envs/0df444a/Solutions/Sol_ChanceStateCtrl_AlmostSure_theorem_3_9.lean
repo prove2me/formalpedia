@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ChanceStateCtrl.AlmostSure.theorem_3_9
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-24T21:41:40.985158+00:00
 -- url     : https://prove2.me/submissions/75e3d590-927c-4afb-9ecd-6b17344b1106
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ChanceStateCtrl_AlmostSure_Setting

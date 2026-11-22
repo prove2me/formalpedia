@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KadatchJenkins_X_pow_mod_eq_prod_pow2k
 -- name    : KadatchJenkins.X_pow_mod_eq_prod_pow2k
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-21T22:01:43.152471+00:00
 -- url     : https://prove2.me/theorems/1306fe31-374f-484e-b525-f555987366c1

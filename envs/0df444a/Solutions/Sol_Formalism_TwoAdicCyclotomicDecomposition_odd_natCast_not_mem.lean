@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.TwoAdicCyclotomicDecomposition.odd_natCast_not_mem
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-22T17:05:43.465809+00:00
+-- url     : https://prove2.me/submissions/d3ffcf5b-0682-4fc6-9e0c-3c37bad0d55a
+
+import Mathlib
+import Definitions.Def_Formalism_TameInertiaTowers_StatementField
+import Definitions.Def_Formalism_TameInertiaTowers_InvLength
+import Definitions.Def_Formalism_TameInertiaTowers_CentralOrderTwo_NormalOrderTwoCentral
+import Definitions.Def_Formalism_TameInertiaTowers_CentralOrderTwo_OddEqOneOfSubOneMem
+import Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_intCast_mem_iff
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField Ideal
+noncomputable section
+open Formalism Formalism.TwoAdicCyclotomicDecomposition
+namespace Formalism.TwoAdicCyclotomicDecomposition
+theorem _root_.solution {L : Type} [Field L] [NumberField L] (p : ℕ)
+    (P : Ideal (𝓞 L)) [P.LiesOver (span {(p : ℤ)})] (m : ℕ) (hpm : ¬ p ∣ m) :
+    (m : 𝓞 L) ∉ P := by
+  intro h
+  have h' : ((m : ℤ) : 𝓞 L) ∈ P := by exact_mod_cast h
+  rw [odd_intCast_mem_iff p P] at h'
+  exact hpm (by exact_mod_cast h')
+end Formalism.TwoAdicCyclotomicDecomposition

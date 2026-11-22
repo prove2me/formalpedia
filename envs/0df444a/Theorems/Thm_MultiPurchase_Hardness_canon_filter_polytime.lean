@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_canon_filter_polytime
 -- name    : MultiPurchase.Hardness.canon_filter_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-03T03:52:58.505773+00:00
 -- url     : https://prove2.me/theorems/328c29bb-ac27-4509-8686-1e4514b7afdf

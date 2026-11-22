@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_chernoff_width_sq_of_core_sq
 -- name    : PebblingLean.Hypercube.PaperParameters.chernoff_width_sq_of_core_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:56.811972+00:00
 -- url     : https://prove2.me/theorems/c779e87c-3ecf-423a-9087-9f194be24b74

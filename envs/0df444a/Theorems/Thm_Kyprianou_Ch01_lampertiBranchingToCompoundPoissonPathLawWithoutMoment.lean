@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_lampertiBranchingToCompoundPoissonPathLawWithoutMoment
 -- name    : Kyprianou.Ch01.lampertiBranchingToCompoundPoissonPathLawWithoutMoment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T10:02:18.938226+00:00
 -- url     : https://prove2.me/theorems/318afc19-2086-4e20-9846-225169aaa3c1

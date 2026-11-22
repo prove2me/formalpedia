@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_PathFollow_theorem_9_3
 -- name    : SelfScaledLongStep.PathFollow.theorem_9_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:55.760221+00:00
 -- url     : https://prove2.me/theorems/eb358563-aead-4c5a-9ff4-cb153a07f49f

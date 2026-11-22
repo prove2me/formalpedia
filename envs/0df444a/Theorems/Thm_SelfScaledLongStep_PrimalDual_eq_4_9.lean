@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_PrimalDual_eq_4_9
 -- name    : SelfScaledLongStep.PrimalDual.eq_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-05T12:56:39.591555+00:00
 -- url     : https://prove2.me/theorems/2d63bd77-28e5-465a-991e-d3fc8f078626

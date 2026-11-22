@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Curtain_curtain_measure_exists
 -- name    : MartOT.Curtain.curtain_measure_exists
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-05T05:26:39.872045+00:00
 -- url     : https://prove2.me/theorems/6861a988-9f7a-41ea-9156-154ee1e9ba36

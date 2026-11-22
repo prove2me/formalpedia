@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercliqueFalse_choice_of_q
 -- name    : HypercliqueFalse.choice_of_q
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T17:29:58.571737+00:00
 -- url     : https://prove2.me/theorems/4e61fa16-7025-41be-bddc-f017e8e6019a

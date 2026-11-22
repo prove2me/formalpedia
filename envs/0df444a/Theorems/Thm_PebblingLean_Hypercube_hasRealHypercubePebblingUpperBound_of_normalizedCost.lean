@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasRealHypercubePebblingUpperBound_of_normalizedCost
 -- name    : PebblingLean.Hypercube.hasRealHypercubePebblingUpperBound_of_normalizedCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:41.785076+00:00
 -- url     : https://prove2.me/theorems/cbd72860-6021-4a76-844d-5009c12a3bce

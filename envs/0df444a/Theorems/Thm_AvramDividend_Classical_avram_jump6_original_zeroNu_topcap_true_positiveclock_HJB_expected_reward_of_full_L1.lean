@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1
 -- name    : AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T23:20:49.249287+00:00
 -- url     : https://prove2.me/theorems/2421ca1b-61fb-49cf-abe5-b75feb073173

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterNegativeExponentialMoment_le_chord
 -- name    : PebblingLean.Hypercube.oneCenterNegativeExponentialMoment_le_chord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:21.7088+00:00
 -- url     : https://prove2.me/theorems/e79dcb21-4085-4132-9ea0-b15cbbfff671

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepQOperator_spectral_tail
 -- name    : DeepQOperator.spectral_tail
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:00:10.184306+00:00
 -- url     : https://prove2.me/theorems/d9a1884a-8416-408e-9b93-944d33d8aafa

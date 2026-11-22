@@ -6145,7 +6145,7 @@
 {"parent": "RH1E6S03.part_026_1", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S07_D011_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S05_D039_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "CollatzMission.syracuse_descent_large_three_mod_four", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "CollatzMission.syracuse_descent_large_three_mod_four", "child": "syracuseStep", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07.part_012_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S07.part_012_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S07.part_012_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -9754,7 +9754,7 @@
 {"parent": "RH1E6S05.part_033_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S05.part_033_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.part_033_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "MasulloRH.single_resolvent_test", "child": "MasulloRH_RegularizedTrace", "via": ["statement"]}
+{"parent": "MasulloRH.single_resolvent_test", "child": "MasulloRH_RegularizedTrace", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03_D024_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S08.group_008", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S08.group_008", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -24547,9 +24547,9 @@
 {"parent": "RH1E6S04.group_042", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.group_042", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S04_D082_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a24_original_gaussian_physical_positive_mesh_excess_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a24_original_gaussian_physical_positive_mesh_excess_L1", "child": "AvramDividend.Classical.isStoppingTime_withTop_of_le_events", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a24_original_gaussian_physical_positive_mesh_excess_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a24_original_gaussian_physical_positive_mesh_excess_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_a24_original_gaussian_physical_positive_mesh_excess_L1", "child": "AvramDividend.Classical.isStoppingTime_withTop_of_le_events", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_a24_original_gaussian_physical_positive_mesh_excess_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "SourceProof_146f4516246fb102b7d6e6c1", "child": "LevyStochCalc_Poisson_CharacterCompensator_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_JumpFormulaCutoffLocalise_F001", "child": "SourceProof_c9f8d91666f468ff1aabe966", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_JumpFormulaCutoffLocalise_F001", "child": "LevyStochCalc_Ito_JumpFormulaCutoffLocalise_F000", "via": ["statement"]}
@@ -25344,8 +25344,8 @@
 {"parent": "JardenShami.arrow_addLe_of_arrow_addEq", "child": "MyResearchesLLMLean_JardenShami_Section2", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07_D023_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "TorusEuler.paperLemma31_waveProfile", "child": "TorusEuler_Phase", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_pj_original_strict_positiveclock_ito_positive_excess_ae_and_domination_source", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_pj_original_strict_positiveclock_ito_positive_excess_ae_and_domination_source", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_pj_original_strict_positiveclock_ito_positive_excess_ae_and_domination_source", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_pj_original_strict_positiveclock_ito_positive_excess_ae_and_domination_source", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06_D058_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S04.part_069_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S04.part_069_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -64136,8 +64136,6 @@
 {"parent": "MasulloRH.critical_line_mass_of_verified_height_and_prime_tail", "child": "MasulloRH.regularized_reference_mass_prime_series", "via": ["solution"]}
 {"parent": "MasulloRH.critical_line_mass_of_verified_height_and_prime_tail", "child": "ZetaKernel.rect6_riemannZeta_ne_zero_of_abs_im_le_six", "via": ["solution"]}
 {"parent": "MasulloRH.critical_line_mass_of_verified_height_and_prime_tail", "child": "MasulloRH.regularized_initial_identity_full_strip", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.original_purejump_laplace_exponent_tail", "child": "AvramDividend.Classical.negative_levy_tail_real_integral_bridge", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.original_purejump_laplace_exponent_tail", "child": "AvramDividend.Classical.original_purejump_lk_mark_decomposition", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.original_purejump_laplace_exponent_tail", "child": "AvramDividend.Classical.avram_ja18g_original_large_negative_signed_mark_integrable", "via": ["solution"]}
 {"parent": "RH1E6S08.part_028_1", "child": "RS5.BandZeros.glue", "via": ["solution"]}
 {"parent": "RH1E6S08.part_028_1", "child": "RH1E6S08_D028_1", "via": ["solution"]}
@@ -64549,9 +64547,6 @@
 {"parent": "FiniteEnergyPlane.GraphEnd.isExpAsymptoticTo_Sf", "child": "FiniteEnergyPlane.expDecayCInfty_of_tendstoZeroCInfty", "via": ["solution"]}
 {"parent": "Kyprianou.Ch01.inverseGaussianPositiveLevelPassageEventuallyLtOfFiniteV2", "child": "Kyprianou.Ch01.firstUpperPassage_le_of_strict_crossingV1", "via": ["solution"]}
 {"parent": "Kyprianou.Ch01.inverseGaussianPositiveLevelPassageEventuallyLtOfFiniteV2", "child": "Kyprianou.Ch01.firstUpperPassage_crossingBefore_of_ltV1", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.negative_levy_tail_real_integral_bridge", "child": "AvramDividend.Classical.negative_levy_compensated_primitive_integrable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.negative_levy_tail_real_integral_bridge", "child": "AvramDividend.Classical.negative_levy_real_tail_tonelli_of_integrable", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.negative_levy_tail_real_integral_bridge", "child": "AvramDividend.Classical.negative_levy_tail_finite_of_quadratic", "via": ["solution"]}
 {"parent": "MasulloRH.finite_theta_approximation_excludes_rectangle_zeros", "child": "riemannHypothesis_iff_zeros_in_strip_on_line", "via": ["solution"]}
 {"parent": "MasulloRH.finite_theta_approximation_excludes_rectangle_zeros", "child": "MasulloAudit.window_mellin_evaluation_bounded", "via": ["solution"]}
 {"parent": "MasulloRH.finite_theta_approximation_excludes_rectangle_zeros", "child": "MasulloRH.dyadic_gaussian_theta_mellin", "via": ["solution"]}
@@ -71039,9 +71034,9 @@
 {"parent": "RH1E6S09_D037_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc.Ito.JumpFormula.tendsto_lintegral_sq_mixedCompensatedIntegral_sub", "child": "LevyStochCalc_Ito_ItoLevyBoundedDerivsStepsIntegrands_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc.Ito.JumpFormula.tendsto_lintegral_sq_mixedCompensatedIntegral_sub", "child": "LevyStochCalc_Ito_ItoLevyBoundedDerivsStepsIntegrands_F001", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_stopped_min_away_zero_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_stopped_min_away_zero_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_stopped_min_away_zero_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_stopped_min_away_zero_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_stopped_min_away_zero_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_stopped_min_away_zero_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D046_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S09.part_082_1", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S09.part_082_1", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
@@ -71346,7 +71341,7 @@
 {"parent": "RH1E6S10.part_009_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S10.part_009_3", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S10.part_009_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "AlpoGe.galoisLocalGlobalStrong_recParameter", "child": "AlpoGeB008", "via": ["statement"]}
+{"parent": "AlpoGe.galoisLocalGlobalStrong_recParameter", "child": "AlpoGeB008", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09.part_025_1", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S09.part_025_1", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S09.part_025_1", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
@@ -71566,7 +71561,7 @@
 {"parent": "RH1E6S09_D035_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_MarkedZeroExtension_F001", "child": "LevyStochCalc_Ito_MarkedZeroExtension_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Ito_MarkedZeroExtension_F001", "child": "SourceProof_5485fe6f4cdb15f21984b687", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.positive_infinite_kernel_exponential_deficit_tendsto_top", "child": "AvramDividend.Classical.negative_levy_exponential_deficit_tendsto_top", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.positive_infinite_kernel_exponential_deficit_tendsto_top", "child": "AvramDividend.Classical.negative_levy_exponential_deficit_tendsto_top", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_046_1", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S11.part_046_1", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S11.part_046_1", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
@@ -72053,7 +72048,7 @@
 {"parent": "Polychromatic418967fa_Branch198_Segment000", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "MasulloRepair.nuclear_finite_sieve_traceNorm_tendsto", "child": "MasulloRepair.nuclear_comp_left_sot_tendsto_traceNorm", "via": ["solution", "statement"]}
 {"parent": "MasulloRepair.nuclear_finite_sieve_traceNorm_tendsto", "child": "MasulloGRH_HilbertNuclear", "via": ["statement"]}
-{"parent": "GL2QFT.Circuits.uniformlyImplementsOn_adjoint", "child": "GL2QFT_Circuits_Combinators", "via": ["statement"]}
+{"parent": "GL2QFT.Circuits.uniformlyImplementsOn_adjoint", "child": "GL2QFT_Circuits_Combinators", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.heckeLFunction_no_zero_re_ge_one", "child": "MasulloGRH_HeckeLFunction", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast05Block03", "child": "row23_rh_supp_RH67156Slab16Fast05Data", "via": ["statement"]}
 {"parent": "RH1E6S08_D064_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -72124,9 +72119,9 @@
 {"parent": "RH1E6S09.part_031_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S09.part_031_3", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S09.part_031_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "ceil_nat_mul_le", "child": "Polychromatic_Colouring", "via": ["solution", "statement"]}
 {"parent": "ceil_nat_mul_le", "child": "Polychromatic_LocalLemma", "via": ["solution", "statement"]}
 {"parent": "ceil_nat_mul_le", "child": "Polychromatic_Compactness", "via": ["solution", "statement"]}
@@ -73415,7 +73410,7 @@
 {"parent": "RH1E6S11.part_061_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_0", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_0", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_061_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_061_0", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_061_0", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_0", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -74131,7 +74126,7 @@
 {"parent": "RH1E6S11.part_061_3", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_3", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_3", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_061_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_061_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_061_3", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_3", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -74396,7 +74391,7 @@
 {"parent": "RH1E6S11.group_061", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.group_061", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.group_061", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.group_061", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.group_061", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.group_061", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.group_061", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.group_061", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -75109,13 +75104,13 @@
 {"parent": "row23_rh_supp_RH67156Slab16Fast07Block12", "child": "row23_rh_supp_RH67156Slab16Fast07Data", "via": ["statement"]}
 {"parent": "LevyStochCalc_BSDEJ_SolvesAe_F000", "child": "LevyStochCalc_BSDEJ_UniquenessIndistinguishable_F000", "via": ["statement"]}
 {"parent": "RH1E6S10_D029_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "KadatchJenkins.X_pow_mod_eq_prod_pow2k", "child": "KadatchJenkinsCrc", "via": ["statement"]}
+{"parent": "KadatchJenkins.X_pow_mod_eq_prod_pow2k", "child": "KadatchJenkinsCrc", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_finite_exit_ceiling_grid_scale_tendsto_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_finite_exit_ceiling_grid_scale_tendsto_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_finite_exit_ceiling_grid_scale_tendsto_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "P2M_allB_succ__7fe096bf361f", "child": "Polychromatic_FourThree_Theory", "via": ["solution", "statement"]}
 {"parent": "P2M_allB_succ__7fe096bf361f", "child": "Polychromatic_PolychromNumber", "via": ["solution", "statement"]}
-{"parent": "BB5.upper_bound", "child": "FCP_BusyBeaver", "via": ["statement"]}
+{"parent": "BB5.upper_bound", "child": "FCP_BusyBeaver", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09.part_050_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S09.part_050_0", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S09.part_050_0", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
@@ -75149,13 +75144,13 @@
 {"parent": "RH1E6S09_D089_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "SpherePackingBeyond.kabatiansky_levenshtein", "child": "SpherePackingBeyond_D4", "via": ["statement"]}
 {"parent": "SpherePackingBeyond.kabatiansky_levenshtein", "child": "TenChallenges_SpherePacking", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_p4_f4_zero_levy_ubv_sigma_pos", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_ubv_loc6_gaussian_masked_expected_topcap", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_jump6_original_canonical_true_stopped_reward_measurable_Cash_integrable", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_ubv_finite12_positive_clock_initial_measurable", "via": ["statement"]}
-{"parent": "GL2QFT.Circuits.uniformlyImplementsOn_branch", "child": "GL2QFT_Circuits_Combinators", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_p4_f4_zero_levy_ubv_sigma_pos", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_ubv_loc6_gaussian_masked_expected_topcap", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_jump6_original_canonical_true_stopped_reward_measurable_Cash_integrable", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_original_zeroNu_topcap_true_positiveclock_HJB_expected_reward_of_full_L1", "child": "AvramDividend.Classical.avram_ubv_finite12_positive_clock_initial_measurable", "via": ["solution", "statement"]}
+{"parent": "GL2QFT.Circuits.uniformlyImplementsOn_branch", "child": "GL2QFT_Circuits_Combinators", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast11Block10", "child": "row23_rh_supp_RH67156Slab16Fast11Data", "via": ["statement"]}
 {"parent": "Monotonicity_Theorem.nonminimal_points_definable", "child": "Monotonicity_Theorem_Framework", "via": ["solution", "statement"]}
 {"parent": "VehicleRoutingSurvey.Routing.MatchingDispatchState.grow", "child": "VehicleRoutingSurvey_RuralPostman1979_MatchingInterface", "via": ["solution", "statement"]}
@@ -77448,8 +77443,8 @@
 {"parent": "RH1E6S09.part_080_1", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S09.part_080_1", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S08_D052_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_B_finite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_jump6_B_finite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_B_finite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_jump6_B_finite_activity_expected_positive_clock_reward_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "allA_succ_of_accept", "child": "Polychromatic_FourThree_Theory", "via": ["solution", "statement"]}
 {"parent": "allA_succ_of_accept", "child": "Polychromatic_PolychromNumber", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D000_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -78250,7 +78245,7 @@
 {"parent": "RH1E6S08.group_053", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S08.group_053", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S08.group_053", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_psi_above_of_gap_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_psi_above_of_gap_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D043_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch272_Segment001", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch272_Segment001", "child": "Polychromatic418967fa_Branch272_Segment000", "via": ["statement"]}
@@ -79733,8 +79728,8 @@
 {"parent": "RH1E6S08.group_050", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece09Data", "child": "row23_rh_supp_RH65000FirstTwenty", "via": ["statement"]}
 {"parent": "LevyStochCalc.BSDEJ.Solves.exists_progressive_energy_limit_of_window", "child": "LevyStochCalc_BSDEJ_PicardLimit_F000", "via": ["statement"]}
-{"parent": "CubicSurface27.transverse_implies_twenty_seven", "child": "cubic_surface_27_layer", "via": ["statement"]}
-{"parent": "CubicSurface27.transverse_implies_twenty_seven", "child": "cubic_surface_transverse", "via": ["statement"]}
+{"parent": "CubicSurface27.transverse_implies_twenty_seven", "child": "cubic_surface_27_layer", "via": ["solution", "statement"]}
+{"parent": "CubicSurface27.transverse_implies_twenty_seven", "child": "cubic_surface_transverse", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Ito.JumpFormula.itoLevyFormula_jumpResidual_of_sdeData", "child": "LevyStochCalc_Ito_ItoLevyBoundedDerivsSolutionIntegrands_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc.Ito.JumpFormula.itoLevyFormula_jumpResidual_of_sdeData", "child": "LevyStochCalc_Ito_ItoLevyBoundedDerivsSolutionRepresentative_F001", "via": ["statement"]}
 {"parent": "RH1E6S10.part_065_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
@@ -80761,7 +80756,7 @@
 {"parent": "RH1E6S11.part_062_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_1", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_1", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_062_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_062_1", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_062_1", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_1", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_1", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -80997,7 +80992,7 @@
 {"parent": "Polychromatic_FourThree_Combi_CaseTwo", "child": "Polychromatic_FourThree_Combi_BlockColour", "via": ["statement"]}
 {"parent": "LevyStochCalc.BSDEJ.Solves.markedEnergy_picardSeq_cauchy", "child": "LevyStochCalc_BSDEJ_PicardIteratesStep_F000", "via": ["statement"]}
 {"parent": "MasulloGRH.schwartzBruhat_average_mem", "child": "MasulloGRH_SchwartzBruhatAveraging", "via": ["statement"]}
-{"parent": "MasulloGRH.global_zeta_integral_corrected", "child": "MasulloGRH_ZetaIntegrals", "via": ["statement"]}
+{"parent": "MasulloGRH.global_zeta_integral_corrected", "child": "MasulloGRH_ZetaIntegrals", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_original_canonical_true_stopped_reward_measurable_Cash_integrable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_original_canonical_true_stopped_reward_measurable_Cash_integrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_original_canonical_true_stopped_reward_measurable_Cash_integrable", "child": "AvramDividend.Classical.avram_wave7_08_source_stopped_terminal_cash_meas_integrable_witnesses", "via": ["solution", "statement"]}
@@ -81218,7 +81213,7 @@
 {"parent": "RH1E6S11.part_063_3", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_3", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_3", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_063_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_063_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_063_3", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_3", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -81405,7 +81400,7 @@
 {"parent": "RH1E6S11.part_063_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_2", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_2", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_063_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_063_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_063_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_2", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -81478,12 +81473,12 @@
 {"parent": "RH1E6S11_D061_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch238_Segment000", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch93", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_lower_first_capped_terminal_scale_zero_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "case_two_odd_small", "child": "Polychromatic_FourThree_Combi_BlockColour", "via": ["solution", "statement"]}
 {"parent": "case_two_odd_small", "child": "Polychromatic_FourThree_Combi_CaseTwo", "via": ["solution", "statement"]}
-{"parent": "CubicSurface27.linesOf_finite_to_27", "child": "cubic_surface_27_layer", "via": ["statement"]}
+{"parent": "CubicSurface27.linesOf_finite_to_27", "child": "cubic_surface_27_layer", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.isRapidDecay_elemSchwartz_toFun", "child": "MasulloGRH_SchwartzBruhat", "via": ["solution", "statement"]}
 {"parent": "DecrNbhdCover.Supplement.theorem_10_7", "child": "DecrNbhdCover_Supplement_TreeCover", "via": ["statement"]}
 {"parent": "RH1E6S10.part_067_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
@@ -82152,7 +82147,7 @@
 {"parent": "RH1E6S09.part_047_1", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S09_D056_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.IX.physical_source_margin", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_IX_PhysicalSource", "via": ["solution", "statement"]}
-{"parent": "KadatchJenkins.crc_roll", "child": "KadatchJenkinsCrc", "via": ["statement"]}
+{"parent": "KadatchJenkins.crc_roll", "child": "KadatchJenkinsCrc", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast00Block04", "child": "row23_rh_supp_RH67156Slab16Fast00Data", "via": ["statement"]}
 {"parent": "RH1E6S10.group_040", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S10.group_040", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
@@ -84055,7 +84050,7 @@
 {"parent": "AvramDividend.Classical.avram_freshD_original_allactivity_postright_reserve_prejump_leftLimit_tendsto", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_freshD_original_allactivity_postright_reserve_prejump_leftLimit_tendsto", "child": "AvramDividend.Classical.avram_p2_a_zero_rate_original_cadlag_regular_all_times", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_freshD_original_allactivity_postright_reserve_prejump_leftLimit_tendsto", "child": "AvramDividend.Classical.avram_wave3_04_rightLimit_leftLimit_eq_dividend", "via": ["solution", "statement"]}
-{"parent": "MasulloRH.compensated_resolvent_defect_low_high_split", "child": "MasulloRH_RegularizedTrace", "via": ["statement"]}
+{"parent": "MasulloRH.compensated_resolvent_defect_low_high_split", "child": "MasulloRH_RegularizedTrace", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09.part_031_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S09.part_031_0", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S09.part_031_0", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
@@ -84459,9 +84454,9 @@
 {"parent": "RH1E6S10.part_071_0", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S10.part_071_0", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "VehicleRoutingSurvey.Routing.matchingAugmentationHandlerBlock_selectedLift", "child": "VehicleRoutingSurvey_RuralPostman1979_MatcherProofInterfaces", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_of_cap_slopes_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "PreservePast.Supplement.theorem_19", "child": "PreservePast_Supplement_HidesRecords", "via": ["statement"]}
 {"parent": "BeyondDS_Supplement_Sortition", "child": "BeyondDS_Fail", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece25Block05", "child": "row23_rh_supp_RH67156FastPiece25Data", "via": ["statement"]}
@@ -84531,7 +84526,7 @@
 {"parent": "MagicSquares.interior_reciprocity_pos", "child": "MagicSquares", "via": ["statement"]}
 {"parent": "MagicSquares.interior_reciprocity_pos", "child": "MagicSquares_positiveInteriorCount", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch94", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
-{"parent": "ZlibCrc32.subroutineOk_get_crc_table", "child": "ZlibCrc32_Spec", "via": ["statement"]}
+{"parent": "ZlibCrc32.subroutineOk_get_crc_table", "child": "ZlibCrc32_Spec", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D061_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "BellSampling.Learn.span_failure_le", "child": "StabilizerRank", "via": ["solution", "statement"]}
 {"parent": "BellSampling.Learn.span_failure_le", "child": "BellSampling_Learn_Setting", "via": ["solution", "statement"]}
@@ -84978,14 +84973,14 @@
 {"parent": "AvramDividend.Classical.avram_ga_original_physical_quadratic_Hessian_L2_second_moment_vanish", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10_D087_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast02Block06", "child": "row23_rh_supp_RH67156Slab16Fast02Data", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.chat04_countable_shifted_future_reserve_survival_measurable", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.levy_wholePath_measurable", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.chat04_history_killed_scale_real_ennreal_integral_bridge", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.scaleFunction_monotone", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.avram_root29_01_deterministic_killed_qscale", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.levy_psi_root_shifted_increment_lower", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.chat04_random_reserve_shifted_closed_survival_schedule_iff", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.chat04_countable_shifted_future_reserve_survival_measurable", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.levy_wholePath_measurable", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.chat04_history_killed_scale_real_ennreal_integral_bridge", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.scaleFunction_monotone", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.avram_root29_01_deterministic_killed_qscale", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.levy_psi_root_shifted_increment_lower", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public", "child": "AvramDividend.Classical.chat04_random_reserve_shifted_closed_survival_schedule_iff", "via": ["solution", "statement"]}
 {"parent": "RH1E6S10_D063_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "AvgPHETH.Supplement.theorem_1_5", "child": "AvgPHETH_DistSubAvgP", "via": ["statement"]}
 {"parent": "AvgPHETH.Supplement.theorem_1_5", "child": "AvgPHETH_Supplement_PiPO", "via": ["statement"]}
@@ -85788,7 +85783,7 @@
 {"parent": "RH1E6S11.part_061_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_2", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_2", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_061_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_061_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_061_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_2", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_061_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -85990,7 +85985,7 @@
 {"parent": "RH1E6S08.group_048", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S08.group_048", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S08.group_048", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "KadatchJenkins.mulByXpowD_eq_sum", "child": "KadatchJenkinsCrc", "via": ["statement"]}
+{"parent": "KadatchJenkins.mulByXpowD_eq_sum", "child": "KadatchJenkinsCrc", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTwentySecondFinal", "child": "Arb4.Q.cv_frac", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTwentySecondFinal", "child": "row23_rh_supp_RHLowSlabTwentySecondCell09", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTwentySecondFinal", "child": "row23_rh_supp_RHLowSlabTwentySecondCell14", "via": ["statement"]}
@@ -86120,7 +86115,7 @@
 {"parent": "RH1E6S11.part_064_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_064_0", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_064_0", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_064_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_064_0", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_064_0", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_064_0", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_064_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -86548,7 +86543,7 @@
 {"parent": "RH1E6S09_D065_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S08_D070_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch57", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
-{"parent": "NConjecture.abc_exponent_sharp", "child": "Brocard_Defs", "via": ["statement"]}
+{"parent": "NConjecture.abc_exponent_sharp", "child": "Brocard_Defs", "via": ["solution", "statement"]}
 {"parent": "add_one_inv_pow_le_exp", "child": "Polychromatic_ForMathlib_Misc", "via": ["solution", "statement"]}
 {"parent": "add_one_inv_pow_le_exp", "child": "Polychromatic_LocalLemma", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D005_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -86741,7 +86736,7 @@
 {"parent": "RH1E6S11_D039_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece35Block04", "child": "row23_rh_supp_RH67156FastPiece35Data", "via": ["statement"]}
 {"parent": "KarimiPL.ProxCD.expected_improvement_eq", "child": "KarimiPL_ProxCD_Setting", "via": ["solution", "statement"]}
-{"parent": "NConjecture.bb94_theorem_1", "child": "NConjecture_Defs", "via": ["statement"]}
+{"parent": "NConjecture.bb94_theorem_1", "child": "NConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D001_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "NonvacuityBSDEJExp_F002", "child": "SourceProof_cdebc989955e2f6003b4385b", "via": ["statement"]}
 {"parent": "NonvacuityBSDEJExp_F002", "child": "NonvacuityBSDEJExp_F000", "via": ["statement"]}
@@ -86844,8 +86839,8 @@
 {"parent": "row23_rh_supp_RHLowSlabTwentyThirdCell13", "child": "row23_rh_supp_RHLowSlabTwentyThirdPilot", "via": ["statement"]}
 {"parent": "RH1E6S10_D029_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S09_D030_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_pointwise_kernel_identity_no_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D037_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_CodeFold", "via": ["statement"]}
 {"parent": "CoDecompFO.fold_codes", "child": "CoDecompFO_Fold", "via": ["statement"]}
@@ -87809,7 +87804,7 @@
 {"parent": "RH1E6S11.part_062_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_2", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_2", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_062_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_062_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_062_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_2", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -87820,7 +87815,7 @@
 {"parent": "table1_0347", "child": "Polychromatic_FourThree_Combi_BlockColour", "via": ["solution", "statement"]}
 {"parent": "table1_0347", "child": "Polychromatic_PolychromNumber", "via": ["solution", "statement"]}
 {"parent": "Polychromatic418967fa_Branch146", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
-{"parent": "NConjecture.n_conjecture_implies_abc", "child": "NConjecture_Defs", "via": ["statement"]}
+{"parent": "NConjecture.n_conjecture_implies_abc", "child": "NConjecture_Defs", "via": ["solution", "statement"]}
 {"parent": "SourceProof_ea1aee2934b22cbbbf5bfc36", "child": "SourceProof_b3ddfc1eaec62caa18c35597", "via": ["statement"]}
 {"parent": "RH1E6S11_D028_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "P2M_polychromNumber_subgroup__43cbba40acee", "child": "Polychromatic_Colouring", "via": ["solution", "statement"]}
@@ -88590,7 +88585,7 @@
 {"parent": "RH1E6S11.part_062_3", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_3", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_3", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_062_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_062_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_062_3", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_3", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -88817,7 +88812,7 @@
 {"parent": "row23_rh_supp_RHRow23LowSlabEighth66388", "child": "row23_rh_supp_RHLowSlabEighthFinal", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHRow23LowSlabEighth66388", "child": "row23_rh_supp_RHRow23LowSlabSeventh66388", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece01Block04", "child": "row23_rh_supp_RH67156FastPiece01Data", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.source_result81_uncapped_strict_isoB_ofReal_lintegral", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result81_uncapped_strict_isoB_ofReal_lintegral", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_052_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S11.part_052_3", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S11.part_052_3", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
@@ -88868,7 +88863,7 @@
 {"parent": "RH1E6S11.part_062_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_0", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_0", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_062_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_062_0", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_062_0", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_0", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_062_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -88922,7 +88917,7 @@
 {"parent": "RH1E6S11.group_059", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.group_059", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.group_059", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.group_059", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.group_059", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.group_059", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.group_059", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.group_059", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -89596,7 +89591,7 @@
 {"parent": "RH1E6S11.group_058", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.group_058", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.group_058", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.group_058", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.group_058", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.group_058", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.group_058", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.group_058", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -90478,7 +90473,7 @@
 {"parent": "RH1E6S11.part_002_3", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S11.part_002_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_post_clock_positive_germ_of_dyadic_zero_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_post_clock_positive_germ_of_dyadic_zero_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_post_clock_positive_germ_of_dyadic_zero_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_post_clock_positive_germ_of_dyadic_zero_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
 {"parent": "LevyStochCalc.Ito.IntegralLimit.tendsto_lintegral_sq_sub_mark_of_dominated", "child": "LevyStochCalc_Ito_StochasticIntegralLimit_F001", "via": ["statement"]}
 {"parent": "LevyStochCalc_BSDEJ_Uniqueness_F000", "child": "LevyStochCalc_BSDEJ_PicardIteratesCauchy_F001", "via": ["statement"]}
@@ -90653,9 +90648,9 @@
 {"parent": "row23_rh_supp_RH67156Slab16Fast08Block12", "child": "row23_rh_supp_RH67156Slab16Fast08Data", "via": ["statement"]}
 {"parent": "MasulloRepair.geometricCellTrace_jump", "child": "MasulloRepair_geometricCellTrace", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D006_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count", "child": "AvramDividend.Classical.avram_a20_original_borel_physical_marked_times_finite_ae", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count", "child": "AvramDividend.Classical.avram_a27_original_physical_Borel_cell_count_equals_marked_support_filter_card_20261116", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count", "child": "AvramDividend.Classical.avram_a20_original_borel_physical_marked_times_finite_ae", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count", "child": "AvramDividend.Classical.avram_a27_original_physical_Borel_cell_count_equals_marked_support_filter_card_20261116", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D063_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "MasulloRH.Certificates.height_two_cell_energy_le_of_finite_model", "child": "MasulloRH_HeightTwoWitness", "via": ["solution", "statement"]}
 {"parent": "MasulloRH.Certificates.height_two_cell_energy_le_of_finite_model", "child": "MasulloRH_ThetaCertificate", "via": ["solution", "statement"]}
@@ -91160,9 +91155,9 @@
 {"parent": "RH1E6S09.part_079_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S09.part_079_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S09.part_079_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_ae_no_standing_public", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_ae_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_strict_lower_exit_no_creeping_ae_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "RH1E6S09_D068_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "APFPaper5.K1.atomTable_form_at_one_price", "child": "APFPaper5.K1.record_book_table_satisfies_K1", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K1.atomTable_form_at_one_price", "child": "APFPaper5.K1.atomTable_symm", "via": ["solution", "statement"]}
@@ -92370,8 +92365,8 @@
 {"parent": "RH1E6S10.part_071_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S10_D069_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156Slab16Fast03Data", "child": "row23_rh_supp_RH65000FirstTwenty", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_history_killed_scale_real_ennreal_bridge_no_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_history_killed_scale_real_ennreal_bridge_no_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_history_killed_scale_real_ennreal_bridge_no_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_history_killed_scale_real_ennreal_bridge_no_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "KarimiPL.GD.theorem_1", "child": "ShiOptrates_FunctionClass", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Probability.measurable_of_ae_eq_of_null_sets", "child": "LevyStochCalc_Ito_PicardFixedPoint_F001", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Probability.measurable_of_ae_eq_of_null_sets", "child": "LevyStochCalc_Ito_PicardFixedPoint_F000", "via": ["solution", "statement"]}
@@ -94438,7 +94433,7 @@
 {"parent": "RH1E6S11.group_011", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.group_011", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.group_011", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.group_011", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.group_011", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.group_011", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.group_011", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.group_011", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -95723,8 +95718,8 @@
 {"parent": "ShiOptRates.Stochastic.sgd_expectedDescent", "child": "ShiOptrates_FunctionClass", "via": ["solution", "statement"]}
 {"parent": "ShiOptRates.Stochastic.sgd_expectedDescent", "child": "ShiOptRates.Stochastic.integral_inner_condExp", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Ito.JumpFormula.solvesOn_cadlagRep", "child": "LevyStochCalc_Ito_ItoLevyBoundedDerivsSolutionRepresentative_F001", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_setIntegral_identity_no_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_setIntegral_identity_no_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_setIntegral_identity_no_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_killed_scale_window_setIntegral_identity_no_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "QuantumWork1289.Metering.eventual_acceptance_integral", "child": "QuantumWork1289_Metering_oracleExperiment", "via": ["solution", "statement"]}
 {"parent": "Polychromatic418967fa_Branch218", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch218", "child": "Polychromatic418967fa_Branch218_Segment000", "via": ["statement"]}
@@ -97460,7 +97455,7 @@
 {"parent": "RH1E6S10.part_070_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S10.part_070_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S10.part_070_2", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.p2m81_bv_compensated_J_tendsto_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.p2m81_bv_compensated_J_tendsto_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry_EtaleFiniteSectionLifts", "child": "AlgebraicGeometry_EtaleClosedImmersionSections", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_lsc_zerojump_realTime_increment_gaussian", "child": "AvramDividend.Classical.avram_gbB264_original_zerojump_normalised_increment_exact_gaussian_law", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_lsc_zerojump_realTime_increment_gaussian", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -99177,7 +99172,7 @@
 {"parent": "RH1E6S11.part_011_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_011_2", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_011_2", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_011_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_011_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_011_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_011_2", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_011_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -99262,7 +99257,7 @@
 {"parent": "RH1E6S11.part_063_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_1", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_1", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
-{"parent": "RH1E6S11.part_063_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
+{"parent": "RH1E6S11.part_063_1", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11.part_063_1", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_1", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S11.part_063_1", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
@@ -99664,7 +99659,7 @@
 {"parent": "LevyStochCalc_BSDEJ_PicardIteratesCauchy_F001", "child": "SourceProof_388a40baa407d0b0ae15b23c", "via": ["statement"]}
 {"parent": "Polychromatic418967fa_Branch179", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabTwentyFirstCell11", "child": "row23_rh_supp_RHLowSlabTwentyFirstPilot", "via": ["statement"]}
-{"parent": "ZlibCrc32.subroutineOk_crc32_combine_gen_and_crc32_combine_gen64", "child": "ZlibCrc32_Spec", "via": ["statement"]}
+{"parent": "ZlibCrc32.subroutineOk_crc32_combine_gen_and_crc32_combine_gen64", "child": "ZlibCrc32_Spec", "via": ["solution", "statement"]}
 {"parent": "Polychromatic418967fa_Branch150_Segment000", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "row23_rh_supp_RH67156FastPiece13Block06", "child": "row23_rh_supp_RH67156FastPiece13Data", "via": ["statement"]}
 {"parent": "RH1E6S11_D017_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterContributionSecondMoment_le_width_mul_expectation
 -- name    : PebblingLean.Hypercube.oneCenterContributionSecondMoment_le_width_mul_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:45.523978+00:00
 -- url     : https://prove2.me/theorems/badc29a0-3a1f-4658-aedf-cc02a706148b

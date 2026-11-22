@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_lower_bound_of_isOptimalNumber
 -- name    : PebblingLean.Hypercube.lower_bound_of_isOptimalNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:50:19.536639+00:00
 -- url     : https://prove2.me/theorems/80483987-12ad-4e39-a7cd-78a53ac8b25e

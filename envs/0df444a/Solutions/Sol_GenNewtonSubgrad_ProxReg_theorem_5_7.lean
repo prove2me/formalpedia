@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GenNewtonSubgrad.ProxReg.theorem_5_7
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-23T17:28:50.111748+00:00
 -- url     : https://prove2.me/submissions/6d4bc8c1-068c-4477-a9f7-241d3a969703
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NonconvexSplitting_Shared_LimitingSubdiff

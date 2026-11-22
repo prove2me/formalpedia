@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_positive_infinite_kernel_exponential_deficit_tendsto_top
 -- name    : AvramDividend.Classical.positive_infinite_kernel_exponential_deficit_tendsto_top
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T15:53:34.764918+00:00
 -- url     : https://prove2.me/theorems/105d3abb-1b8f-4a7a-ba22-c121f91a7d6a

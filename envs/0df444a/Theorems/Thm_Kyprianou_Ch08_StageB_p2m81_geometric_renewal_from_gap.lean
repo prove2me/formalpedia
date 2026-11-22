@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_geometric_renewal_from_gap
 -- name    : Kyprianou.Ch08.StageB.p2m81_geometric_renewal_from_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:39:00.605801+00:00
 -- url     : https://prove2.me/theorems/1683b347-a85a-4b0e-b47b-61a14cca75e1

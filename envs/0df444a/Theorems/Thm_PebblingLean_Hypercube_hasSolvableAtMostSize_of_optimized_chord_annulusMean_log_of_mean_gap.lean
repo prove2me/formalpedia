@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_of_optimized_chord_annulusMean_log_of_mean_gap
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_of_optimized_chord_annulusMean_log_of_mean_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:14.223807+00:00
 -- url     : https://prove2.me/theorems/e3dc9a04-8c16-4dd8-9b2f-ebc01f1eba94

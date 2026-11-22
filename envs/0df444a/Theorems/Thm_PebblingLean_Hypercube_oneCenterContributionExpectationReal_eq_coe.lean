@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterContributionExpectationReal_eq_coe
 -- name    : PebblingLean.Hypercube.oneCenterContributionExpectationReal_eq_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:12.7297+00:00
 -- url     : https://prove2.me/theorems/e04aa277-ccb3-4c87-a8df-d4b6e243f909

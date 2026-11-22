@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_LossRecurrence_first_loss_le_pow_mul_bound
 -- name    : PebblingLean.Hypercube.LossRecurrence.first_loss_le_pow_mul_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:33.608188+00:00
 -- url     : https://prove2.me/theorems/313a2458-5818-4842-ae6c-537d964f676d

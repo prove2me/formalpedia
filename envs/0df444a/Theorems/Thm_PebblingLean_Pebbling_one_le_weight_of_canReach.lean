@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_one_le_weight_of_canReach
 -- name    : PebblingLean.Pebbling.one_le_weight_of_canReach
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:46:40.896271+00:00
 -- url     : https://prove2.me/theorems/4ad78e41-1bca-4e90-bd25-49f3b1cdfdfb

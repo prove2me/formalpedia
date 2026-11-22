@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_betahat_dual_feasible
 -- name    : GenCostSched.GFCS.betahat_dual_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:43.677689+00:00
 -- url     : https://prove2.me/theorems/7e19960f-1055-4d0f-8af2-74c6f8543600

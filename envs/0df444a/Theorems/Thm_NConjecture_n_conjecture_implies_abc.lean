@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NConjecture_n_conjecture_implies_abc
 -- name    : NConjecture.n_conjecture_implies_abc
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T00:43:55.301767+00:00
 -- url     : https://prove2.me/theorems/6059b5c8-98fa-4707-9e86-b232326b2033

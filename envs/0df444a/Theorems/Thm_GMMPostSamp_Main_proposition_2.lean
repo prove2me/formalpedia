@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GMMPostSamp_Main_proposition_2
 -- name    : GMMPostSamp.Main.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T06:20:42.403641+00:00
 -- url     : https://prove2.me/theorems/85fd628f-a79a-42c6-9e81-55fad991d663

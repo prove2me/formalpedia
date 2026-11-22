@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_explicitCutoff_pos
 -- name    : PebblingLean.Hypercube.PaperParameters.explicitCutoff_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:16.407229+00:00
 -- url     : https://prove2.me/theorems/c0e7e650-2a6b-490a-8d67-5c3e5e6d2402

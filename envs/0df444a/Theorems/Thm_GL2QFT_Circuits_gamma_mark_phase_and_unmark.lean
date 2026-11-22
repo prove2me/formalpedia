@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_gamma_mark_phase_and_unmark
 -- name    : GL2QFT.Circuits.gamma_mark_phase_and_unmark
--- status  : Open
+-- status  : Proved
 -- author  : @dmitry
 -- created : 2026-11-22T04:38:43.778411+00:00
 -- url     : https://prove2.me/theorems/7efbbd8a-de53-4d19-bcc7-6fb9c02c6ff7

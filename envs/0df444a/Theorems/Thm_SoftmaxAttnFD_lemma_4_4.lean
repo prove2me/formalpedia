@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftmaxAttnFD_lemma_4_4
 -- name    : SoftmaxAttnFD.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T16:01:38.106164+00:00
 -- url     : https://prove2.me/theorems/365b98d7-8c2b-4c16-bc15-e4b8f2810116

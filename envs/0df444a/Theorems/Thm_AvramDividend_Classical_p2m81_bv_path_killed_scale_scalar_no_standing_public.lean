@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_path_killed_scale_scalar_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_path_killed_scale_scalar_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T22:33:10.619325+00:00
 -- url     : https://prove2.me/theorems/2db70736-a2ce-4019-9dfa-f44b6c0aea42

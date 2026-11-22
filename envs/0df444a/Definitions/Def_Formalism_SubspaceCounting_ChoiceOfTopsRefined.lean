@@ -1,0 +1,48 @@
+-- Prove2me | Definitions.Def_Formalism_SubspaceCounting_ChoiceOfTopsRefined
+-- name    : Formalism_SubspaceCounting_ChoiceOfTopsRefined
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T18:37:07.608559+00:00
+-- url     : https://prove2.me/theorems/d641ba9c-491e-455f-821e-160e43b1d1a0
+-- title:
+--   Choice Of Tops Refined
+-- statement:
+--   Definitions and structural lemmas for Choice Of Tops Refined, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SubspaceCounting/ChoiceOfTopsRefined.lean
+
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_AllButLESmith
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ChoiceOfTops
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_LengthLayers
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ManyOrbits
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_QVandermonde
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoicePartA
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoicePartB
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoicePartC
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TopsChoiceCount
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_SaturatedMember
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_SubspaceCount
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TailConcavity
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TailSums
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TypeIIDown
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_TypeIIUp
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_WalkSharp
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ManyOrbitsRefined
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_ChoiceOfTopsRefined
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_MarkedRun
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_DetDivides
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_DetVal
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_DetQuotVal
+import Definitions.Def_Formalism_SubspaceCounting_SubspaceCountingProofs_CramerCofactor
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace Formalism.G0.Top
+end Formalism.G0.Top
+
+

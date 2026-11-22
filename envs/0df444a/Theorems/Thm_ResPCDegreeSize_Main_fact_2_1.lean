@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResPCDegreeSize_Main_fact_2_1
 -- name    : ResPCDegreeSize.Main.fact_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:22:35.940195+00:00
 -- url     : https://prove2.me/theorems/c3c866ca-59bf-4cb3-b671-5c6d75680acb

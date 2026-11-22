@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_targetLowerTailExponentialMoment_le_exp_chord
 -- name    : PebblingLean.Hypercube.targetLowerTailExponentialMoment_le_exp_chord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:31.642696+00:00
 -- url     : https://prove2.me/theorems/3798f755-72cf-4692-b7f3-76d5c064b427

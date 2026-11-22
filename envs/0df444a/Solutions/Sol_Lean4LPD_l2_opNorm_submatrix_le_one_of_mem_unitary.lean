@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for Lean4LPD.l2_opNorm_submatrix_le_one_of_mem_unitary
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T07:00:25.13093+00:00
+-- url     : https://prove2.me/submissions/847496ef-d839-4f11-b5ee-19bd27d1e947
+
+module
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_SchurCore
+public import Definitions.Def_LeanPool_LowWeightPauliDynamics_BlockNorm
+
+set_option autoImplicit true
+@[expose] public section
+open scoped Matrix.Norms.L2Operator
+open Matrix Finset WithLp
+public section
+open Lean4LPD
+variable {𝕜 : Type*} [RCLike 𝕜]
+variable {m n p q : Type*} [Fintype m] [Fintype n] [Fintype p] [Fintype q]
+  [DecidableEq m] [DecidableEq n] [DecidableEq p] [DecidableEq q]
+omit [DecidableEq m] [DecidableEq p]
+namespace Lean4LPD
+theorem _root_.solution {U : Matrix n n 𝕜}
+    (hU : U ∈ unitary (Matrix n n 𝕜)) {f : p → n} {g : q → n}
+    (hf : Function.Injective f) (hg : Function.Injective g) :
+    ‖U.submatrix f g‖ ≤ 1 :=
+  (l2_opNorm_submatrix_le U hf hg).trans (l2_opNorm_le_one_of_mem_unitary hU)
+end Lean4LPD

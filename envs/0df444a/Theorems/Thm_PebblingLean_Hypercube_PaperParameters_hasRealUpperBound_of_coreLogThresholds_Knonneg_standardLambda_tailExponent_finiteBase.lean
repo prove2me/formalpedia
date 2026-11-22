@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_hasRealUpperBound_of_coreLogThresholds_Knonneg_standardLambda_tailExponent_finiteBase
 -- name    : PebblingLean.Hypercube.PaperParameters.hasRealUpperBound_of_coreLogThresholds_Knonneg_standardLambda_tailExponent_finiteBase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:11.17361+00:00
 -- url     : https://prove2.me/theorems/6a6c0d2e-c8a2-400e-a015-1563bbcb39fd

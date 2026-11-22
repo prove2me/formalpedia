@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_splitA_real_eq_sub_of_four_mul_le
 -- name    : PebblingLean.Hypercube.PaperParameters.splitA_real_eq_sub_of_four_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:09.621784+00:00
 -- url     : https://prove2.me/theorems/3048b0d7-07b7-4b2d-93d7-ccc4abf4f907

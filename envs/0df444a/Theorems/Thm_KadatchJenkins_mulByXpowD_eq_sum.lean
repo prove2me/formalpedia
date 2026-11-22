@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KadatchJenkins_mulByXpowD_eq_sum
 -- name    : KadatchJenkins.mulByXpowD_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-21T22:12:30.397012+00:00
 -- url     : https://prove2.me/theorems/4db3bf96-643b-4d2b-83a6-2748657b2116

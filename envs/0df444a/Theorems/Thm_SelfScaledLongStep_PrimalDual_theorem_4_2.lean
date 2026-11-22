@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_PrimalDual_theorem_4_2
 -- name    : SelfScaledLongStep.PrimalDual.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:21:59.844804+00:00
 -- url     : https://prove2.me/theorems/2d876a85-77b6-4cde-bc58-d68c0c21a3f8

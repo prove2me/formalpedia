@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sum_prod_oneCenterNegativeExponentialMoment
 -- name    : PebblingLean.Hypercube.sum_prod_oneCenterNegativeExponentialMoment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:25.431454+00:00
 -- url     : https://prove2.me/theorems/80e71215-b388-46af-bc49-509f7114bf55

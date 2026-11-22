@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Statics_dual_optimizer_unique
 -- name    : OTDRO.Statics.dual_optimizer_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:15:13.69477+00:00
 -- url     : https://prove2.me/theorems/2655c09d-a785-4a3e-a8b3-2b4383370b6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_full_killed_ceiling_grid_reward_tendsto_ae_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_full_killed_ceiling_grid_reward_tendsto_ae_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:46:10.824461+00:00
 -- url     : https://prove2.me/theorems/05ef7242-313e-471d-b871-88bc3b864b1c

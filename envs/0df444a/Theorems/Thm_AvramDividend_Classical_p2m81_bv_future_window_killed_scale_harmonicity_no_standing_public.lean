@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_future_window_killed_scale_harmonicity_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_future_window_killed_scale_harmonicity_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T04:40:47.973617+00:00
 -- url     : https://prove2.me/theorems/ee75bf61-b7dc-4cba-a982-8d049a303348

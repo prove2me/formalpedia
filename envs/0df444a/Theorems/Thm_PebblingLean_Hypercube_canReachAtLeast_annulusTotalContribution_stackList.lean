@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_canReachAtLeast_annulusTotalContribution_stackList
 -- name    : PebblingLean.Hypercube.canReachAtLeast_annulusTotalContribution_stackList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:34.916089+00:00
 -- url     : https://prove2.me/theorems/e8afc672-eb3f-40be-b23e-d20be610ed6f

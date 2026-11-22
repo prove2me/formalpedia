@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_weight_reaches_le_of_dist
 -- name    : PebblingLean.Pebbling.weight_reaches_le_of_dist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:11.155648+00:00
 -- url     : https://prove2.me/theorems/f92bf0da-e2e6-47b7-a0c9-ad5efe8309f5

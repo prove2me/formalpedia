@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.p2m81_bv_finite_exit_ceiling_grid_scale_tendsto_ae_no_standing_public
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T05:32:55.139196+00:00
 -- url     : https://prove2.me/submissions/18d1aa96-cc6a-4d6d-8521-70dc4254544c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

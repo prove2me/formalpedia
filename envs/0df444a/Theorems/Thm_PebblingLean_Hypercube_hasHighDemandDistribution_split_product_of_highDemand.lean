@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasHighDemandDistribution_split_product_of_highDemand
 -- name    : PebblingLean.Hypercube.hasHighDemandDistribution_split_product_of_highDemand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:07.528731+00:00
 -- url     : https://prove2.me/theorems/40959d81-83c2-4c55-833f-a24a121d3d09

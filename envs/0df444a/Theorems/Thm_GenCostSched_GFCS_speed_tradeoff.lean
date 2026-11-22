@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_speed_tradeoff
 -- name    : GenCostSched.GFCS.speed_tradeoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:50.27502+00:00
 -- url     : https://prove2.me/theorems/625731c9-3eb8-4940-bdad-10776db90ee0

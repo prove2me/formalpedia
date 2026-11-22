@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_Triage_proposition_C_2_muS
 -- name    : OutpatientWalkIn.Triage.proposition_C_2_muS
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:02.076989+00:00
 -- url     : https://prove2.me/theorems/4d3cbbd7-2c13-4c7c-bc18-8708f089bcb8

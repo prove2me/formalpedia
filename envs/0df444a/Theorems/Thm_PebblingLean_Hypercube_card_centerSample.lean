@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_card_centerSample
 -- name    : PebblingLean.Hypercube.card_centerSample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:53:13.103748+00:00
 -- url     : https://prove2.me/theorems/bc014034-40f8-469a-ad36-e51b7efa634e

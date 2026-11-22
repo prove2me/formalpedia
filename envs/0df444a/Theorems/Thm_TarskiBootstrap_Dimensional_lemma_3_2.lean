@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarskiBootstrap_Dimensional_lemma_3_2
 -- name    : TarskiBootstrap.Dimensional.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T07:13:41.080173+00:00
 -- url     : https://prove2.me/theorems/8979a000-8f73-4160-a73b-57f819f7506f

@@ -1,0 +1,52 @@
+-- Prove2me | Theorems.Thm_BooleanIsoperimetry_harper_extremal_step_nested
+-- name    : BooleanIsoperimetry.harper_extremal_step_nested
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-22T07:26:30.890713+00:00
+-- url     : https://prove2.me/theorems/bd1f52ca-7698-4995-81c3-5ca8399644f8
+-- title:
+--   Boolean Isoperimetry: harper extremal step nested
+-- statement:
+--   The four-block Macaulay/cascade interleaving comparison with explicit witnesses.
+--   This exposes the nested canonical splits at level `n` for all components, reducing
+--   the `H (n+1)` expressions to purely `n`-level `max` combinations.
+--
+--   Source: https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/BooleanIsoperimetry/Harper.lean#L1516-L1545
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/BooleanIsoperimetry/Harper.lean#L1516-L1545
+
+module
+public import Definitions.Def_LeanPool_BooleanIsoperimetry_Macaulay
+public import Definitions.Def_LeanPool_BooleanIsoperimetry_Shadow
+public import Mathlib.Algebra.BigOperators.Intervals
+public import Mathlib.Data.Rat.Cast.Order
+public import Mathlib.Tactic.FinCases
+public import Mathlib.Tactic.NormNum.Abs
+public import Mathlib.Tactic.NormNum.DivMod
+public import Mathlib.Tactic.NormNum.OfScientific
+public import Mathlib.Tactic.Ring.RingNF
+public import Definitions.Def_LeanPool_BooleanIsoperimetry_Harper
+set_option autoImplicit true
+@[expose] public section
+public section
+open scoped BigOperators
+open BooleanIsoperimetry
+
+theorem BooleanIsoperimetry.harper_extremal_step_nested (n : ℕ)
+    (ih : ∀ m, m < n + 1 → ∀ x y, x ≤ 2 ^ m → y ≤ 2 ^ m →
+            H (m + 1) (x + y) ≤ max (H m x) y + max (H m y) x)
+    {a b p q p0 p1 q0 q1 a0 a1 b0 b1 : ℕ}
+    (ha : a ≤ 2 ^ (n + 1)) (hb : b ≤ 2 ^ (n + 1))
+    (hcasc : CascadeSplit (n + 1) (a + b) p q)
+    (hp0 : p0 ≤ 2 ^ n) (hp1 : p1 ≤ 2 ^ n)
+    (hq0 : q0 ≤ 2 ^ n) (hq1 : q1 ≤ 2 ^ n)
+    (ha0 : a0 ≤ 2 ^ n) (ha1 : a1 ≤ 2 ^ n)
+    (hb0 : b0 ≤ 2 ^ n) (hb1 : b1 ≤ 2 ^ n)
+    (hp_split : CascadeSplit n p p0 p1)
+    (hq_split : CascadeSplit n q q0 q1)
+    (ha_split : CascadeSplit n a a0 a1)
+    (hb_split : CascadeSplit n b b0 b1) :
+    max (max (H n p0) p1 + max (H n p1) p0) q +
+    max (max (H n q0) q1 + max (H n q1) q0) p ≤
+    max (max (H n a0) a1 + max (H n a1) a0) b +
+    max (max (H n b0) b1 + max (H n b1) b0) a := by sorry

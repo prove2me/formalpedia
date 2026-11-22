@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_MixedInt_growth_bound
 -- name    : ProbMetricStab.MixedInt.growth_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:13:07.292741+00:00
 -- url     : https://prove2.me/theorems/d016cb19-ffcd-4ae2-83c5-f5696d5ab3e8

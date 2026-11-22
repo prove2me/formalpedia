@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_AffinePot_theorem_7_4_b
 -- name    : SelfScaledLongStep.AffinePot.theorem_7_4_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:24:10.40486+00:00
 -- url     : https://prove2.me/theorems/7f072a6e-5cea-44be-8674-df00626926db

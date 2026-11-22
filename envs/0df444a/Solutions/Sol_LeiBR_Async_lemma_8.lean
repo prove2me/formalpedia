@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LeiBR.Async.lemma_8
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T10:53:40.716623+00:00
 -- url     : https://prove2.me/submissions/71a2a8c8-d058-48ff-9b50-06613f934b13
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SpectralProjGrad_Shared_IsProjOnto

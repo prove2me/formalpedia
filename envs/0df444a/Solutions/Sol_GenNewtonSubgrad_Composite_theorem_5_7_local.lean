@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GenNewtonSubgrad.Composite.theorem_5_7_local
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-23T17:25:41.688447+00:00
 -- url     : https://prove2.me/submissions/c0b5ccab-d57a-4d66-8328-904b014b8b90
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NonconvexSplitting_Shared_LimitingSubdiff

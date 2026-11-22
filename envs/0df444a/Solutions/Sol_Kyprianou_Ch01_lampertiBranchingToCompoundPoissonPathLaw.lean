@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch01.lampertiBranchingToCompoundPoissonPathLaw
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T12:15:33.744275+00:00
 -- url     : https://prove2.me/submissions/8bb1d9c7-b436-4404-839d-7ac938bd4a8a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch01_lampertiBranchingToCompoundPoissonPathLawWithoutMoment
 import Definitions.Def_Kyprianou_Ch01_ForwardLampertiPaths

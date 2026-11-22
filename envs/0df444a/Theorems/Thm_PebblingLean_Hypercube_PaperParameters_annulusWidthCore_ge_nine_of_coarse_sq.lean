@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_annulusWidthCore_ge_nine_of_coarse_sq
 -- name    : PebblingLean.Hypercube.PaperParameters.annulusWidthCore_ge_nine_of_coarse_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:32.428806+00:00
 -- url     : https://prove2.me/theorems/dccb8299-7084-4e13-b095-c6ae199d4730

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NConjecture_abc_false_implies_n_false
 -- name    : NConjecture.abc_false_implies_n_false
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T00:45:10.359457+00:00
 -- url     : https://prove2.me/theorems/7e35edd6-ff71-4a56-b74e-53530d0f5d1c

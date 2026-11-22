@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_bv_stopped_scale_balance_no_standing_public
 -- name    : Kyprianou.Ch08.StageB.p2m81_bv_stopped_scale_balance_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T22:03:53.095889+00:00
 -- url     : https://prove2.me/theorems/3c45c728-d58f-45f0-8e2b-03db248a5056

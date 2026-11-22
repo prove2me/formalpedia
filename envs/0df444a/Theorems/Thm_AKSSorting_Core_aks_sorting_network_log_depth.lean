@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKSSorting_Core_aks_sorting_network_log_depth
 -- name    : AKSSorting.Core.aks_sorting_network_log_depth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:19:50.34942+00:00
 -- url     : https://prove2.me/theorems/d5ec2944-08d9-4af5-94e8-404a7bb3a0c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sum_filter_dist_eq_annulusContribution
 -- name    : PebblingLean.Hypercube.sum_filter_dist_eq_annulusContribution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:47.859683+00:00
 -- url     : https://prove2.me/theorems/599fbe87-655f-44f1-b169-13fa0dff2893

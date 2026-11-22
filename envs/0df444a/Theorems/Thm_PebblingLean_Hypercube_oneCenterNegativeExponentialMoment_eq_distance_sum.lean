@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterNegativeExponentialMoment_eq_distance_sum
 -- name    : PebblingLean.Hypercube.oneCenterNegativeExponentialMoment_eq_distance_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:11.736522+00:00
 -- url     : https://prove2.me/theorems/38680d9f-90bd-4476-8074-20704a303eeb

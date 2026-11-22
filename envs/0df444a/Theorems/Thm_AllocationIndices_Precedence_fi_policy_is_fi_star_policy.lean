@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Precedence_fi_policy_is_fi_star_policy
 -- name    : AllocationIndices.Precedence.fi_policy_is_fi_star_policy
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-01T14:51:21.739074+00:00
 -- url     : https://prove2.me/theorems/521b631d-5482-40ee-a408-6f6a02d633ad

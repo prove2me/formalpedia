@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Card_lemma_1_11
 -- name    : MartOT.Card.lemma_1_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:02.947852+00:00
 -- url     : https://prove2.me/theorems/0d8e121d-e253-49d4-b735-acc34b9a9b65

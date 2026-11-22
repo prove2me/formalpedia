@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Precedence_nonpreemptive_jobs_index_theorem
 -- name    : AllocationIndices.Precedence.nonpreemptive_jobs_index_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:18.268407+00:00
 -- url     : https://prove2.me/theorems/a8ec8da3-e4c5-4049-8885-9f134fc6e46f

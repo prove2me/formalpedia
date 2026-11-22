@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SelfScaledLongStep.PrimalDual.theorem_4_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T12:43:19.550211+00:00
 -- url     : https://prove2.me/submissions/18aa2709-a5bb-490f-9429-ac60d60dd681
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_dualCone

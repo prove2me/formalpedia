@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Abs_stay_part_eq_inf
 -- name    : MartOT.Abs.stay_part_eq_inf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:38.186696+00:00
 -- url     : https://prove2.me/theorems/03476dc2-4549-4f78-ae7a-dce9e9f7692a

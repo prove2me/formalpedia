@@ -19157,7 +19157,7 @@
 {"parent": "OAI.Erdos3.ordinaryMesh_marginals_of_lengths_s2", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.ordinaryMesh_marginals_of_lengths_s2", "child": "OAIE3v2B193", "via": ["solution", "statement"]}
 {"parent": "HyperKCut.Structure.theorem_1_2", "child": "HyperKCut_Structure_Model", "via": ["solution", "statement"]}
-{"parent": "RawBlending.UB.lemma_3_d", "child": "RawBlending_UB_Model", "via": ["statement"]}
+{"parent": "RawBlending.UB.lemma_3_d", "child": "RawBlending_UB_Model", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.algebra_product_congruence", "child": "TypeDensity_Basic", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.algebra_product_congruence", "child": "TypeDensity_Measure_AdicCylinders", "via": ["solution", "statement"]}
 {"parent": "OAI_Combinatorics_EuclideanRamsey_DifferentialSplitting", "child": "OAI_Combinatorics_EuclideanRamsey_SmoothingKernel", "via": ["statement"]}

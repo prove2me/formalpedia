@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZlibCrc32_crc_tables_eq
 -- name    : ZlibCrc32.crc_tables_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-22T01:35:55.364201+00:00
 -- url     : https://prove2.me/theorems/d649906b-f220-4006-ba31-7026dc63f346

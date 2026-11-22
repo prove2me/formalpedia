@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LasserreFC.FinConv.epsilon_feasible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-04T12:27:29.089794+00:00
 -- url     : https://prove2.me/submissions/700c450e-c10c-42f5-b4d5-090b51e90e90
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LasserreFC_FinConv_Setting

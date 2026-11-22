@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LawlerCompress_TardyJobs_lemma_3_1
 -- name    : LawlerCompress.TardyJobs.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T16:25:12.968901+00:00
 -- url     : https://prove2.me/theorems/56a9d70b-5068-4fb0-b440-fb53a9307cbf

@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for DeciSigma1.Logic.ConjunctiveClause.holds_constraints_extend
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T14:53:11.910703+00:00
+-- url     : https://prove2.me/submissions/5982debe-27b6-4353-ad23-5eaaaa1e1300
+
+module
+public import Definitions.Def_LeanPool_DeciSigma1_Logic_Syntax
+public import Mathlib.Data.List.Basic
+public import Mathlib.Tactic.Attr.Core
+public import Mathlib.Tactic.Basic
+public import Definitions.Def_LeanPool_DeciSigma1_Logic_Flatten
+public import Theorems.Thm_DeciSigma1_Logic_ConjunctiveClause_mem_terms
+public import Theorems.Thm_DeciSigma1_Logic_ConjunctiveClause_mem_terms_of_mem_subterms
+public import Theorems.Thm_DeciSigma1_Logic_ConjunctiveClause_extend_name
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Logic
+variable {T : Type → Type} {D V : Type} {I : Interpretation T D}
+open DeciSigma1.Logic.ConjunctiveClause
+variable (F : Flattening I) {m : ℕ} (c : ConjunctiveClause T (Fin m))
+variable [DecidableEq (T (Fin m))]
+namespace DeciSigma1.Logic.ConjunctiveClause
+theorem _root_.solution {ρ : Fin m → D} (hρ : c.Holds I ρ) :
+    ∀ l ∈ c.constraints F, F.Holds (c.extend F ρ) l := by
+  intro l hl
+  rcases List.mem_append.mp hl with hl | hl
+  · obtain ⟨t, ht, hl⟩ := List.mem_flatMap.mp hl
+    exact F.holds_defs _ _ _ t
+      (fun s hs => c.extend_name F ρ (c.mem_terms_of_mem_subterms F ht hs)) l hl
+  · obtain ⟨p, hp, rfl⟩ := List.mem_map.mp hl
+    have h := c.mem_terms F (Or.inl hp)
+    rw [F.holds_leLit, c.extend_name F ρ h.1, c.extend_name F ρ h.2]
+    exact hρ.1 p hp
+end DeciSigma1.Logic.ConjunctiveClause

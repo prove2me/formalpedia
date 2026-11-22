@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SelfScaledLongStep.PathFollow.theorem_9_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T13:13:58.638213+00:00
 -- url     : https://prove2.me/submissions/e1ff9c97-bf70-4f20-96a8-ed3c99ad7573
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_dualCone

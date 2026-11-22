@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarhiQAOA_Cubic_eq_35_min
 -- name    : FarhiQAOA.Cubic.eq_35_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:52.111728+00:00
 -- url     : https://prove2.me/theorems/e4f94b43-635d-418f-a8ba-b6bf2fa3a881

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenCostSched_GFCS_eq_20
 -- name    : GenCostSched.GFCS.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T04:40:33.747822+00:00
 -- url     : https://prove2.me/theorems/155e5fbc-2e4b-4871-a4d2-04f10052e2c7

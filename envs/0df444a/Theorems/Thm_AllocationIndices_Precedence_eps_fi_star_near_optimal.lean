@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Precedence_eps_fi_star_near_optimal
 -- name    : AllocationIndices.Precedence.eps_fi_star_near_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:18.164005+00:00
 -- url     : https://prove2.me/theorems/86ba6782-cb7c-4533-b11a-307a7e8b546c

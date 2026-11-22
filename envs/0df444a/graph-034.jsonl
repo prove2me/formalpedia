@@ -1506,7 +1506,7 @@
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeD7_0038", "child": "RealPinwheel_FiveSixths_CodeFunctionD7", "via": ["statement"]}
 {"parent": "DeletionCode.WordPaths.subword_position_unique", "child": "DeletionCode_WordPaths", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.WordPaths.subword_position_unique", "child": "DeletionCode_Windows", "via": ["solution", "statement"]}
-{"parent": "RudinSquares.recursion", "child": "RudinSquares_Defs", "via": ["statement"]}
+{"parent": "RudinSquares.recursion", "child": "RudinSquares_Defs", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.Threshold.bk15Iteration_antitone", "child": "QEC_Distillation_FifteenQubitH_Recurrence", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.BK15.Threshold.bk15Iteration_antitone", "child": "QEC_Distillation_FifteenQubitH_Threshold", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleContextGeometry.insertion_geometry", "child": "DeletionCode_BubbleContextGeometry", "via": ["solution", "statement"]}
@@ -1586,7 +1586,7 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1402", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_519", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_519", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "RudinSquares.cor4_Q6_Q7_Q8", "child": "RudinSquares_Defs", "via": ["statement"]}
+{"parent": "RudinSquares.cor4_Q6_Q7_Q8", "child": "RudinSquares_Defs", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0824", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0824", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.Recovery.recover_from_roots", "child": "DeletionCode_Recovery", "via": ["solution", "statement"]}
@@ -84090,7 +84090,7 @@
 {"parent": "RH1E6S03_D006_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalPrimeFrickeLevelPullback_finrank", "child": "QEC_Coding_ExpanderCodes_LPSOriginalSecondIntegerHecke", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalPrimeFrickeLevelPullback_finrank", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegralFricke", "via": ["solution", "statement"]}
-{"parent": "GaoQuantumUnion.operator_bound", "child": "GaoQuantumUnion_Model", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.operator_bound", "child": "GaoQuantumUnion_Model", "via": ["solution", "statement"]}
 {"parent": "DeletionCode_NonseparatedFamily", "child": "DeletionCode_ExceptionalPartnerCount", "via": ["statement"]}
 {"parent": "RH1E6S01_D002_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_770", "child": "OAIQ259US022", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_split_product_of_uniform_fiber_bound
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_split_product_of_uniform_fiber_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:53:59.075818+00:00
 -- url     : https://prove2.me/theorems/05d88a42-d1d1-44a6-8666-bf7965a666cf

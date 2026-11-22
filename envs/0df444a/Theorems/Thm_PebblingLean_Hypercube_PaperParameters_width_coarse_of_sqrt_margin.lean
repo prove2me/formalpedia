@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_width_coarse_of_sqrt_margin
 -- name    : PebblingLean.Hypercube.PaperParameters.width_coarse_of_sqrt_margin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:49.781054+00:00
 -- url     : https://prove2.me/theorems/4eef49b4-9274-43a5-a7e4-fb5dd1097d0e

@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for DeciSigma1.Holes.Fresh.active_eq_empty_of_totalLength_lt
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T13:44:53.895306+00:00
+-- url     : https://prove2.me/submissions/f36d86a4-8a62-42df-9ce4-80fdf66f5b28
+
+module
+public import Mathlib.Algebra.Order.BigOperators.Group.Finset
+public import Definitions.Def_LeanPool_DeciSigma1_Readers_Basic
+public import Mathlib.Order.Nat
+public import Mathlib.Algebra.Group.Action.Defs
+public import Mathlib.Order.Interval.Finset.Nat
+public import Definitions.Def_LeanPool_DeciSigma1_Holes_Fresh_Hierarchy
+public import Theorems.Thm_DeciSigma1_Holes_Fresh_marker_suffix
+public import Theorems.Thm_DeciSigma1_Holes_Fresh_le_length_marker
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Holes DeciSigma1.Holes.Fresh
+open DeciSigma1.Readers
+open Finset
+variable {α : Type} {k : ℕ}
+variable [DecidableEq α]
+variable {W : Fin k → List α}
+namespace DeciSigma1.Holes.Fresh
+theorem _root_.solution {t : ℕ} (h : totalLength W < t) :
+    active W t = ∅ := by
+  rw [eq_empty_iff_forall_notMem]
+  intro l hl
+  have h1 := le_length_marker hl
+  have h2 := (marker_suffix W t l).length_le
+  have h3 := length_le_totalLength W l
+  omega
+end DeciSigma1.Holes.Fresh

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Limit_theorem_8
 -- name    : SampleDrivenOS.Limit.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:25.385559+00:00
 -- url     : https://prove2.me/theorems/3b5e764b-45bc-4469-9c9d-5f6ba2068ff4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_fibers_prepare_slice_right
 -- name    : PebblingLean.Pebbling.fibers_prepare_slice_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:50.934811+00:00
 -- url     : https://prove2.me/theorems/2f56b817-defe-4e4f-8c64-25cdf34241b9

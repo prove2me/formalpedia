@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_Paper_isOptimalNumber_optimalPebblingNumber
 -- name    : PebblingLean.Hypercube.Paper.isOptimalNumber_optimalPebblingNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:27.264697+00:00
 -- url     : https://prove2.me/theorems/3270d342-932b-4264-b4f5-12d6a601be7c

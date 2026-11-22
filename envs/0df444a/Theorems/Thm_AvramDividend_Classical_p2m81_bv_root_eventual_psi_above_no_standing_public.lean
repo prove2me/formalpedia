@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_root_eventual_psi_above_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_root_eventual_psi_above_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T04:12:17.406276+00:00
 -- url     : https://prove2.me/theorems/7ef18652-de35-41c4-8004-fdea4436737a

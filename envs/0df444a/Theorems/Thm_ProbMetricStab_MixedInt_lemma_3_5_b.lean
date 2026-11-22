@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_MixedInt_lemma_3_5_b
 -- name    : ProbMetricStab.MixedInt.lemma_3_5_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:13:25.30575+00:00
 -- url     : https://prove2.me/theorems/2ab5c452-bb12-49c9-b54a-68e699f2cb33

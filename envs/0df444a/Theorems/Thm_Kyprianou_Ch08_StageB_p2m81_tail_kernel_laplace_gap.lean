@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_tail_kernel_laplace_gap
 -- name    : Kyprianou.Ch08.StageB.p2m81_tail_kernel_laplace_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:39:00.00107+00:00
 -- url     : https://prove2.me/theorems/15634117-9988-4944-84fd-3d20bc3df5d3

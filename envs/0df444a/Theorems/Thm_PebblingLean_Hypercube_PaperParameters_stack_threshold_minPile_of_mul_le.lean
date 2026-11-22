@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_stack_threshold_minPile_of_mul_le
 -- name    : PebblingLean.Hypercube.PaperParameters.stack_threshold_minPile_of_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:55.335881+00:00
 -- url     : https://prove2.me/theorems/d6fde235-0dc4-47a0-882e-4feaeec72c2c

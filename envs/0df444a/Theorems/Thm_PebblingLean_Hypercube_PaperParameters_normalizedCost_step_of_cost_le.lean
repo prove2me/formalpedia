@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_normalizedCost_step_of_cost_le
 -- name    : PebblingLean.Hypercube.PaperParameters.normalizedCost_step_of_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:15.815799+00:00
 -- url     : https://prove2.me/theorems/b6f714ad-1537-474b-9efb-b4efd1f6b3d7

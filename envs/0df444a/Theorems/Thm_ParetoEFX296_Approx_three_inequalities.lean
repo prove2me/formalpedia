@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParetoEFX296_Approx_three_inequalities
 -- name    : ParetoEFX296.Approx.three_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:24:42.064362+00:00
 -- url     : https://prove2.me/theorems/5e188258-51fa-41a7-bed1-80779e5be7f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_stopped_min_away_zero_ae_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_stopped_min_away_zero_ae_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:52.526198+00:00
 -- url     : https://prove2.me/theorems/40254e6a-2e4b-46f5-975f-20fdc7a69b68

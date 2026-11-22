@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_perm_FB_out_uniform
 -- name    : GL2QFT.Circuits.perm_FB_out_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @dmitry
 -- created : 2026-11-22T04:39:29.58404+00:00
 -- url     : https://prove2.me/theorems/da05c32d-5ef5-47b6-a453-0af8b8de5ee5

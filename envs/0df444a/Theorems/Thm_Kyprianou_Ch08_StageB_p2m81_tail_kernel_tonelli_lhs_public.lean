@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_tail_kernel_tonelli_lhs_public
 -- name    : Kyprianou.Ch08.StageB.p2m81_tail_kernel_tonelli_lhs_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:23:47.825774+00:00
 -- url     : https://prove2.me/theorems/b872c03c-d8a1-4e2f-ae3a-cb05fdb9aa22

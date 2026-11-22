@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_stack_margin_of_sqrt_margin
 -- name    : PebblingLean.Hypercube.PaperParameters.stack_margin_of_sqrt_margin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:53.862813+00:00
 -- url     : https://prove2.me/theorems/e33f383c-6148-4b52-a58b-2612773b96c4

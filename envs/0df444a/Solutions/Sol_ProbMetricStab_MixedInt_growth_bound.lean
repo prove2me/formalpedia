@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProbMetricStab.MixedInt.growth_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T00:53:02.571845+00:00
 -- url     : https://prove2.me/submissions/40c6cc2c-b561-498a-8dcf-c2822b5c6ebd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ProbMetricStab_MixedInt_Setting

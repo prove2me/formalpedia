@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_three_width_le_splitA_of_core_bound
 -- name    : PebblingLean.Hypercube.PaperParameters.three_width_le_splitA_of_core_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:57.283666+00:00
 -- url     : https://prove2.me/theorems/9581b991-cab0-4955-89ee-e16ffea42da3

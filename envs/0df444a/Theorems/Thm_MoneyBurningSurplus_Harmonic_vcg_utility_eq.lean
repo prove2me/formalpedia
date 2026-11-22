@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoneyBurningSurplus_Harmonic_vcg_utility_eq
 -- name    : MoneyBurningSurplus.Harmonic.vcg_utility_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:11:46.774198+00:00
 -- url     : https://prove2.me/theorems/a29d87a7-481c-4f50-b4e1-50943662206f

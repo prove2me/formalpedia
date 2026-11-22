@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMCProduct_HalfApprox_fact_1
 -- name    : QMCProduct.HalfApprox.fact_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:50:12.458279+00:00
 -- url     : https://prove2.me/theorems/61dd9630-0db3-4b86-8fa3-aeb40e839b2a

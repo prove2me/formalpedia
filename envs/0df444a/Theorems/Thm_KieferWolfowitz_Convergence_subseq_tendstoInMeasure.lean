@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KieferWolfowitz_Convergence_subseq_tendstoInMeasure
 -- name    : KieferWolfowitz.Convergence.subseq_tendstoInMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:49:00.537268+00:00
 -- url     : https://prove2.me/theorems/200deb6a-67ad-4a70-b2c4-7e971df0ad5f

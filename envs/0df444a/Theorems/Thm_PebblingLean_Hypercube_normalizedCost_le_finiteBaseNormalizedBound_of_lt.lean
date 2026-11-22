@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_normalizedCost_le_finiteBaseNormalizedBound_of_lt
 -- name    : PebblingLean.Hypercube.normalizedCost_le_finiteBaseNormalizedBound_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:39.305255+00:00
 -- url     : https://prove2.me/theorems/05993e48-da91-4a00-9b10-3690208d7290

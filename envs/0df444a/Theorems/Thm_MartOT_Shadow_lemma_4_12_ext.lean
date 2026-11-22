@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Shadow_lemma_4_12_ext
 -- name    : MartOT.Shadow.lemma_4_12_ext
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-05T05:00:03.508286+00:00
 -- url     : https://prove2.me/theorems/fa2b7568-de68-490e-b966-fccf53548b69

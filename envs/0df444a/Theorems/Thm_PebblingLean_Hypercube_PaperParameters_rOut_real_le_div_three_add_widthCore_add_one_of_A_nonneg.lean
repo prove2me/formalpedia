@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_rOut_real_le_div_three_add_widthCore_add_one_of_A_nonneg
 -- name    : PebblingLean.Hypercube.PaperParameters.rOut_real_le_div_three_add_widthCore_add_one_of_A_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:54.174161+00:00
 -- url     : https://prove2.me/theorems/20cfdfe5-61f0-42b7-b32f-b20157246b17

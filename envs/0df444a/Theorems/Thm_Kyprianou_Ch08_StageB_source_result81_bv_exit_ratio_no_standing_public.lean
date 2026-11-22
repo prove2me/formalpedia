@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_bv_exit_ratio_no_standing_public
 -- name    : Kyprianou.Ch08.StageB.source_result81_bv_exit_ratio_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T19:09:27.446835+00:00
 -- url     : https://prove2.me/theorems/1721541d-480a-4b40-ad9b-b45bbfc3789f

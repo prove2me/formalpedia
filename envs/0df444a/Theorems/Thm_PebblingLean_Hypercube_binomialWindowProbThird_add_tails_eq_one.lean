@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_binomialWindowProbThird_add_tails_eq_one
 -- name    : PebblingLean.Hypercube.binomialWindowProbThird_add_tails_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:07.847846+00:00
 -- url     : https://prove2.me/theorems/e8b3d4cd-4f30-44a9-866a-7b8b85bacefb

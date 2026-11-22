@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_highDemandDistribution_of_recursive_split_schedule
 -- name    : PebblingLean.Hypercube.highDemandDistribution_of_recursive_split_schedule
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:33.743864+00:00
 -- url     : https://prove2.me/theorems/2aae8c0a-f198-4ebf-b23d-4a25680aba82

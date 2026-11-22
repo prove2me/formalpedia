@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HDXNbhdPCP_Main_claim_2_4
 -- name    : HDXNbhdPCP.Main.claim_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:58:52.056204+00:00
 -- url     : https://prove2.me/theorems/f596fb2b-bc75-4901-ae26-2b7ea56391b6

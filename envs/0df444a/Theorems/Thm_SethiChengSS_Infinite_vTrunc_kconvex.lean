@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SethiChengSS_Infinite_vTrunc_kconvex
 -- name    : SethiChengSS.Infinite.vTrunc_kconvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:31.772118+00:00
 -- url     : https://prove2.me/theorems/6710b056-7ab6-47b6-a7cd-74e7bfc80a45

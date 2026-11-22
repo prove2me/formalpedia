@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_uniformlyImplementsOn_adjoint
 -- name    : GL2QFT.Circuits.uniformlyImplementsOn_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @dmitry
 -- created : 2026-11-22T04:38:34.837711+00:00
 -- url     : https://prove2.me/theorems/408fe7d0-3431-415d-80f9-887ece03ea4b

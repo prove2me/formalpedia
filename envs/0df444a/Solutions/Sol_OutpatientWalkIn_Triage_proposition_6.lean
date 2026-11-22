@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OutpatientWalkIn.Triage.proposition_6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-23T12:45:23.491053+00:00
 -- url     : https://prove2.me/submissions/b214422d-7dc8-49bd-a0d3-3ceaf0c0a957
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OutpatientWalkIn_Triage_Queue

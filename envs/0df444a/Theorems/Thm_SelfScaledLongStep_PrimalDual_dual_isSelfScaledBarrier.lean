@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_PrimalDual_dual_isSelfScaledBarrier
 -- name    : SelfScaledLongStep.PrimalDual.dual_isSelfScaledBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-05T13:58:18.785232+00:00
 -- url     : https://prove2.me/theorems/5be411eb-8dfa-4254-a36e-a7cb26fe51fd

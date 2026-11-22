@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_lemma_8_upto
 -- name    : LeiBR.Async.lemma_8_upto
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-05T10:53:12.045032+00:00
 -- url     : https://prove2.me/theorems/435fd57a-2022-4de8-919d-4b9ede814db9

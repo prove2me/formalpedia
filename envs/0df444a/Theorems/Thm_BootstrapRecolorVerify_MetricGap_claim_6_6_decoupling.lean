@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootstrapRecolorVerify_MetricGap_claim_6_6_decoupling
 -- name    : BootstrapRecolorVerify.MetricGap.claim_6_6_decoupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:36:07.521679+00:00
 -- url     : https://prove2.me/theorems/bcb99ace-858d-439e-b724-d3e3b50190e6

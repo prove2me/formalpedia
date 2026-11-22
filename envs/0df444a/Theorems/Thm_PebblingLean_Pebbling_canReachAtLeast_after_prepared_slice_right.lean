@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_canReachAtLeast_after_prepared_slice_right
 -- name    : PebblingLean.Pebbling.canReachAtLeast_after_prepared_slice_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:50.713928+00:00
 -- url     : https://prove2.me/theorems/70088ec8-442a-4933-82d3-46f19493ea7f

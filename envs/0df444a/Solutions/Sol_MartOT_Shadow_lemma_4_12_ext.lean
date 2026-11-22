@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Shadow.lemma_4_12_ext
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @nonlocally
 -- created : 2026-11-05T23:17:50.653972+00:00
 -- url     : https://prove2.me/submissions/b40992b4-9a6e-4790-b295-17850f76b4c7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MartOT_Var_Setting

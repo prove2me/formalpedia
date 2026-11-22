@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Probabilistic_theorem_5
 -- name    : AdaptiveStepIPM.Probabilistic.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:25.996763+00:00
 -- url     : https://prove2.me/theorems/6279eb75-3c49-4301-bb2b-881069f2e1d3

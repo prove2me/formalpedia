@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_solvableAtLeast_stackListDistribution_of_good
 -- name    : PebblingLean.Hypercube.solvableAtLeast_stackListDistribution_of_good
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:50:48.436125+00:00
 -- url     : https://prove2.me/theorems/2d78ed9a-fe6a-4f85-9510-7ec28108491c

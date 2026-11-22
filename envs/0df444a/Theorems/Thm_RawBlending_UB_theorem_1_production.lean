@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RawBlending_UB_theorem_1_production
 -- name    : RawBlending.UB.theorem_1_production
--- status  : Open
+-- status  : Disproved
 -- author  : @tianyipeng
 -- created : 2026-10-20T14:59:26.630991+00:00
 -- url     : https://prove2.me/theorems/8d2326d4-a899-4640-9acc-1c35f1bbad4a

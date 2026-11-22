@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NashPoly.Generic.theorem_3_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-01T02:21:47.653773+00:00
 -- url     : https://prove2.me/submissions/49a41881-15eb-4533-8aee-6b56d290ad90
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NashPoly_Generic_Algorithm

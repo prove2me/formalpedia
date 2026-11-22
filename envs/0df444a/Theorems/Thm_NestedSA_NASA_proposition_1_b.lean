@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSA_NASA_proposition_1_b
 -- name    : NestedSA.NASA.proposition_1_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:40:00.704306+00:00
 -- url     : https://prove2.me/theorems/7b5d3c27-b0aa-495f-ab11-149b4acddc83

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ParamSDO.Transition.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-20T14:20:48.569997+00:00
 -- url     : https://prove2.me/submissions/c48fa6e8-1836-4361-be2f-729544146494
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ParamSDO_Transition_Setting

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EulerSparsify_lemma_5_6
 -- name    : EulerSparsify.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T12:31:26.733702+00:00
 -- url     : https://prove2.me/theorems/75a0cec1-3baa-4170-90bf-a4f2b8f6f003

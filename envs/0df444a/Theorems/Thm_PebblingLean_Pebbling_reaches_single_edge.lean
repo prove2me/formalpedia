@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_reaches_single_edge
 -- name    : PebblingLean.Pebbling.reaches_single_edge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:35.822583+00:00
 -- url     : https://prove2.me/theorems/b788c8c9-3551-4eb4-8edf-3ed88a6c1d66

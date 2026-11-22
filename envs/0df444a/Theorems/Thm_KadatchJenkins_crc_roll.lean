@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KadatchJenkins_crc_roll
 -- name    : KadatchJenkins.crc_roll
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-21T22:09:43.68986+00:00
 -- url     : https://prove2.me/theorems/5a8d10ea-68e3-4632-b48c-ed5e0117ba2d

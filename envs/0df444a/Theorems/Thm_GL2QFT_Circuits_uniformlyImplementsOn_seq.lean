@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_uniformlyImplementsOn_seq
 -- name    : GL2QFT.Circuits.uniformlyImplementsOn_seq
--- status  : Open
+-- status  : Proved
 -- author  : @dmitry
 -- created : 2026-11-22T04:38:03.348037+00:00
 -- url     : https://prove2.me/theorems/db0ebbb9-7c03-4b41-ba3f-c6cee06204cf

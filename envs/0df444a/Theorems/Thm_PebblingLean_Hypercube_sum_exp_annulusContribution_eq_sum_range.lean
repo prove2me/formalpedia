@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sum_exp_annulusContribution_eq_sum_range
 -- name    : PebblingLean.Hypercube.sum_exp_annulusContribution_eq_sum_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:24.638922+00:00
 -- url     : https://prove2.me/theorems/1ddd18c7-2be2-4aeb-be14-fbebbbd3c3e3

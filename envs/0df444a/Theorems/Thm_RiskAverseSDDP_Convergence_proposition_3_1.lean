@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskAverseSDDP_Convergence_proposition_3_1
 -- name    : RiskAverseSDDP.Convergence.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:48:25.870452+00:00
 -- url     : https://prove2.me/theorems/4fbf7ff4-237b-479b-8a2b-d63e8476bbeb

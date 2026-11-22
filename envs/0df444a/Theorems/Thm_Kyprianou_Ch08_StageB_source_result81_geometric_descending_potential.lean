@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_geometric_descending_potential
 -- name    : Kyprianou.Ch08.StageB.source_result81_geometric_descending_potential
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T08:07:40.714126+00:00
 -- url     : https://prove2.me/theorems/c216ff5a-6fa0-4e23-b97d-d34cc3dd9b6c

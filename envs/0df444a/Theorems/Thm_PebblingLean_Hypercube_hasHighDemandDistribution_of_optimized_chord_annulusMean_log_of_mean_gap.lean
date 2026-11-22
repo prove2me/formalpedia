@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasHighDemandDistribution_of_optimized_chord_annulusMean_log_of_mean_gap
 -- name    : PebblingLean.Hypercube.hasHighDemandDistribution_of_optimized_chord_annulusMean_log_of_mean_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:10.302333+00:00
 -- url     : https://prove2.me/theorems/1178fd97-a1ca-4743-9580-7e2c08d1bc35

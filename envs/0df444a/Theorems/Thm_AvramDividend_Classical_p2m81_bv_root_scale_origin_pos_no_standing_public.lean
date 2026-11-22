@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_root_scale_origin_pos_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_root_scale_origin_pos_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T04:16:54.587821+00:00
 -- url     : https://prove2.me/theorems/fc6b315a-4abb-4cb5-b39f-837f2962c6f0

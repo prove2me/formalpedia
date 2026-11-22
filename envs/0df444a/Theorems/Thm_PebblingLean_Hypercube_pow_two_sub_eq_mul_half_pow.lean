@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_pow_two_sub_eq_mul_half_pow
 -- name    : PebblingLean.Hypercube.pow_two_sub_eq_mul_half_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:51.90515+00:00
 -- url     : https://prove2.me/theorems/3f641d8b-5cd0-41d9-ad97-47fae60500cf

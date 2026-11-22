@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_canReachAtLeast_of_walk_of_single_dominated
 -- name    : PebblingLean.Pebbling.canReachAtLeast_of_walk_of_single_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:49:08.332001+00:00
 -- url     : https://prove2.me/theorems/ac4ac6d0-99c7-440b-b28f-384cfb3e4435

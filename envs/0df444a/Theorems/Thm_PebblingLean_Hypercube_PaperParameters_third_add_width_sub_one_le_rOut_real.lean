@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_third_add_width_sub_one_le_rOut_real
 -- name    : PebblingLean.Hypercube.PaperParameters.third_add_width_sub_one_le_rOut_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:31.074089+00:00
 -- url     : https://prove2.me/theorems/7ae8c8ae-7546-4928-86e3-733963bec9c6

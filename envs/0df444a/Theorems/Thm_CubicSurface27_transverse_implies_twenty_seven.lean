@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicSurface27_transverse_implies_twenty_seven
 -- name    : CubicSurface27.transverse_implies_twenty_seven
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T01:53:36.872387+00:00
 -- url     : https://prove2.me/theorems/3815f646-bd10-4f4f-aac9-bb1b58b5bc4d

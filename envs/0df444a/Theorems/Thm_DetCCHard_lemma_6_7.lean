@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetCCHard_lemma_6_7
 -- name    : DetCCHard.lemma_6_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:35:10.545877+00:00
 -- url     : https://prove2.me/theorems/8db476e0-882b-4c15-ac49-1acd6142a655

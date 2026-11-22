@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m81_bv_stopped_scale_balance_no_standing_public
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T01:31:46.631803+00:00
 -- url     : https://prove2.me/submissions/f224eb77-fee4-4380-a1ea-cb6d6f06ea6f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.MeasureTheory.MeasurableSpace.Defs

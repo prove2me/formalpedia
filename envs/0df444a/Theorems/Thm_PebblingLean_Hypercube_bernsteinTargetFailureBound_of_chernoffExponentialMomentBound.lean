@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_bernsteinTargetFailureBound_of_chernoffExponentialMomentBound
 -- name    : PebblingLean.Hypercube.bernsteinTargetFailureBound_of_chernoffExponentialMomentBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:37.715894+00:00
 -- url     : https://prove2.me/theorems/2ea46432-e628-4de9-80ac-0a5744f32e9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Shadow_theorem_4_8
 -- name    : MartOT.Shadow.theorem_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:24.361591+00:00
 -- url     : https://prove2.me/theorems/a556b1f5-341c-4d5d-9893-a3b2a41f9983

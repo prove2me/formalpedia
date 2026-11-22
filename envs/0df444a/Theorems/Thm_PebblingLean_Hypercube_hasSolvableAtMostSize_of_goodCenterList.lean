@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_of_goodCenterList
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_of_goodCenterList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:50:42.104877+00:00
 -- url     : https://prove2.me/theorems/daf27eeb-eca3-4ece-9348-2e314855c397

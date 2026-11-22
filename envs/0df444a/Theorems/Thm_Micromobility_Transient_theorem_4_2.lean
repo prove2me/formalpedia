@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Micromobility_Transient_theorem_4_2
 -- name    : Micromobility.Transient.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:13.310001+00:00
 -- url     : https://prove2.me/theorems/a4dfd506-8cf5-4d75-a3d1-6afbb51fbafb

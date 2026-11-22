@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_smallTimeDriftLimit
 -- name    : Kyprianou.Ch04.smallTimeDriftLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:26:27.68172+00:00
 -- url     : https://prove2.me/theorems/d10db7e8-3f1e-481c-9d98-851e5be5c7ce

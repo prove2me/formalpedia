@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SethiChengSS_Infinite_theorem_6_1_eq_6_9
 -- name    : SethiChengSS.Infinite.theorem_6_1_eq_6_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:43.370506+00:00
 -- url     : https://prove2.me/theorems/d2db2f4e-df58-42ab-b567-5ee8495a1a47

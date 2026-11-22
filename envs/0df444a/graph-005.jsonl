@@ -8277,7 +8277,7 @@
 {"parent": "BookProof.NavierStokesFlow.FockOfFock.intervalTwoLevel_not_bounded", "child": "ChapterNavierStokesFockEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.FockOfFock.intervalTwoLevel_not_bounded", "child": "ChapterFockSecondQuantization", "via": ["solution", "statement"]}
 {"parent": "AcquihiringMonopsony.Baseline.lemma_2", "child": "AcquihiringMonopsony_Baseline_Model", "via": ["solution", "statement"]}
-{"parent": "Micromobility.Transient.proposition_H_3", "child": "Micromobility_Transient_Setting", "via": ["statement"]}
+{"parent": "Micromobility.Transient.proposition_H_3", "child": "Micromobility_Transient_Setting", "via": ["solution", "statement"]}
 {"parent": "TelehealthParity.Access.theorem_4", "child": "TelehealthParity_Access_Setting", "via": ["statement"]}
 {"parent": "IntMul.HvdH.fermConv_eq", "child": "IntMul_HvdH_FermConv", "via": ["solution", "statement"]}
 {"parent": "Apery.table2_block_235_241", "child": "Zeta5_SourceConstants", "via": ["solution", "statement"]}
@@ -13451,8 +13451,8 @@
 {"parent": "ActuarialAnnuities.entitlement_required_age", "child": "actuarial_bAlive", "via": ["solution", "statement"]}
 {"parent": "ActuarialAnnuities.entitlement_required_age", "child": "actuarial_bEntitlement", "via": ["solution", "statement"]}
 {"parent": "ActuarialAnnuities.entitlement_required_age", "child": "actuarial_bRequiredAge", "via": ["solution", "statement"]}
-{"parent": "WeilConjectures.riemann_hypothesis", "child": "WeilConjectures_zetaFunction", "via": ["statement"]}
-{"parent": "WeilConjectures.riemann_hypothesis", "child": "WeilConjectures_projectiveSpace", "via": ["statement"]}
+{"parent": "WeilConjectures.riemann_hypothesis", "child": "WeilConjectures_zetaFunction", "via": ["solution", "statement"]}
+{"parent": "WeilConjectures.riemann_hypothesis", "child": "WeilConjectures_projectiveSpace", "via": ["solution", "statement"]}
 {"parent": "ActuarialAnnuities.micro_survival_udd", "child": "actuarial_bUDD", "via": ["solution", "statement"]}
 {"parent": "ActuarialAnnuities.micro_survival_udd", "child": "actuarial_bSurvival", "via": ["solution", "statement"]}
 {"parent": "ActuarialAnnuities.micro_survival_udd", "child": "actuarial_bUDDMicroSurvival", "via": ["solution", "statement"]}
@@ -45778,8 +45778,8 @@
 {"parent": "OAI.MatchingEntropy.normalized_face_mem", "child": "OAI_Combinatorics_PerfectMatching_SecondVariation", "via": ["solution", "statement"]}
 {"parent": "OAI.MatchingEntropy.normalized_face_mem", "child": "OAI_Combinatorics_PerfectMatching_OddCuts", "via": ["solution", "statement"]}
 {"parent": "OAI.MatchingEntropy.normalized_face_mem", "child": "OAI_Combinatorics_PerfectMatching_Basic", "via": ["solution", "statement"]}
-{"parent": "GenNewtonSubgrad.ProxReg.lemma_5_5", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "GenNewtonSubgrad.ProxReg.lemma_5_5", "child": "GenNewtonSubgrad_ProxReg_VarAnalysis", "via": ["statement"]}
+{"parent": "GenNewtonSubgrad.ProxReg.lemma_5_5", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "GenNewtonSubgrad.ProxReg.lemma_5_5", "child": "GenNewtonSubgrad_ProxReg_VarAnalysis", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ColorClassLists.reduction_correct", "child": "APSPSource_ThreeSumApsp_Lang_Regions", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ColorClassLists.reduction_correct", "child": "ThreeSum1962Source_Bundle02", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.ColorClassLists.reduction_correct", "child": "ThreeSum1962Source_Bundle06", "via": ["solution", "statement"]}
@@ -49508,8 +49508,8 @@
 {"parent": "ThreeSum.LightPrimeChain.sum_scores_le_log", "child": "ThreeSum.PrimeChain.prime_divisors_card_le_log", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPrimeChain.sum_scores_le_log", "child": "ThreeSum1962Source_Bundle01", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPrimeChain.sum_scores_le_log", "child": "ThreeSum1962Source_Bundle03", "via": ["solution", "statement"]}
-{"parent": "OutpatientWalkIn.Triage.proposition_C_2_muS", "child": "OutpatientWalkIn_Triage_Queue", "via": ["statement"]}
-{"parent": "OutpatientWalkIn.Triage.proposition_C_2_muS", "child": "OutpatientWalkIn_Triage_Setting", "via": ["statement"]}
+{"parent": "OutpatientWalkIn.Triage.proposition_C_2_muS", "child": "OutpatientWalkIn_Triage_Queue", "via": ["solution", "statement"]}
+{"parent": "OutpatientWalkIn.Triage.proposition_C_2_muS", "child": "OutpatientWalkIn_Triage_Setting", "via": ["solution", "statement"]}
 {"parent": "GenNewtonSubgrad.ProxReg.theorem_5_7", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
 {"parent": "GenNewtonSubgrad.ProxReg.theorem_5_7", "child": "GenNewtonSubgrad_ProxReg_VarAnalysis", "via": ["solution", "statement"]}
 {"parent": "GenNewtonSubgrad.ProxReg.theorem_5_7", "child": "GenNewtonSubgrad_ProxReg_Alg53", "via": ["solution", "statement"]}
@@ -71520,8 +71520,8 @@
 {"parent": "ThreeSum1960614_Machine_Bundle008", "child": "APSPSource_ThreeSumApsp_Lang_Compiler_Cells", "via": ["statement"]}
 {"parent": "dusart_psi_433_20261014_FinalPsi", "child": "dusart_psi_433_20261014_FinalExponent", "via": ["statement"]}
 {"parent": "dusart_psi_433_20261014_FinalPsi", "child": "dusart_psi_433_20261014_PsiResampling", "via": ["statement"]}
-{"parent": "FarhiQAOA.Cubic.eq_35_min", "child": "QAlgorithms_Defs_Adiabatic", "via": ["statement"]}
-{"parent": "FarhiQAOA.Cubic.eq_35_min", "child": "FarhiQAOA_Cubic_Types", "via": ["statement"]}
+{"parent": "FarhiQAOA.Cubic.eq_35_min", "child": "QAlgorithms_Defs_Adiabatic", "via": ["solution", "statement"]}
+{"parent": "FarhiQAOA.Cubic.eq_35_min", "child": "FarhiQAOA_Cubic_Types", "via": ["solution", "statement"]}
 {"parent": "OAI.RuledApproximation.singularDomain_isCompact", "child": "OAI_Geometry_RuledCovering_LocalApproximation", "via": ["solution", "statement"]}
 {"parent": "OAI.RuledApproximation.singularDomain_isCompact", "child": "OAI_Geometry_RuledCovering_Frames", "via": ["solution", "statement"]}
 {"parent": "OAI.RuledApproximation.singularDomain_isCompact", "child": "OAI_Geometry_RuledCovering_Projection", "via": ["solution", "statement"]}
@@ -98970,7 +98970,7 @@
 {"parent": "ZORiem.RSGD.theorem_3_2", "child": "ProjLikeRetr_Retractor_IsSubmanifold", "via": ["statement"]}
 {"parent": "ZORiem.RSGD.theorem_3_2", "child": "ZORiem_RGD_rgrad", "via": ["statement"]}
 {"parent": "ZORiem.RSGD.theorem_3_2", "child": "ZORiem_RGD_IsRetraction", "via": ["statement"]}
-{"parent": "NAPPAL.Rate.theorem_4_1", "child": "NAPPAL_Rate_Setting", "via": ["statement"]}
+{"parent": "NAPPAL.Rate.theorem_4_1", "child": "NAPPAL_Rate_Setting", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.Schwarzschild.PG.ricci_2_0", "child": "Atlas_Schwarzschild_Domain", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.Schwarzschild.PG.ricci_2_0", "child": "Atlas_Schwarzschild_PGDefs", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.Schwarzschild.PG.ricci_2_0", "child": "Atlas_Core_Lift", "via": ["solution", "statement"]}

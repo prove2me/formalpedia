@@ -1,0 +1,279 @@
+-- Prove2me | Definitions.Def_LeanPool_CircuitComplexity_Internal_AON
+-- name    : LeanPool_CircuitComplexity_Internal_AON
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-22T10:10:27.165119+00:00
+-- url     : https://prove2.me/theorems/29496dc6-00c5-4b2e-bc69-9214623f0919
+-- title:
+--   AON
+-- statement:
+--   Definitions and structural lemmas for AON, from Samuel Schlesinger; LeanPool contributors's pinned Circuit Complexity in Lean 4 development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/CircuitComplexity/Internal/AON.lean
+
+module
+public import Definitions.Def_LeanPool_CircuitComplexity_AON_Defs
+public import Theorems.Thm_CircuitComplexity_Circuit_inputWireDepth
+public import Theorems.Thm_CircuitComplexity_Circuit_wireValue_ge
+public import Theorems.Thm_CircuitComplexity_Circuit_wireValue_lt
+attribute [local simp] CircuitComplexity.Circuit.inputWireDepth
+
+
+set_option autoImplicit true
+@[expose] public section
+@[expose] public section
+namespace CircuitComplexity
+def AONIndicator {N : Nat} [NeZero N] (s : BitString N) :
+    Circuit Basis.unboundedAON N 1 0 where
+  gates i := i.elim0
+  outputs _ :=
+    { op := .and, fanIn := N, arityOk := trivial,
+      inputs := fun j => ⟨j.val, by omega⟩,
+      negated := fun j => !(s j) }
+  acyclic i := i.elim0
+def AONFor.mkGate {N : Nat} (f : BitString N → Bool) (i : Fin (2 ^ N)) :
+    Gate Basis.unboundedAON (N + 2 ^ N) :=
+  if f (fun j => i.val.testBit j.val) then
+    { op := .and, fanIn := N, arityOk := trivial,
+      inputs := fun j => (j.castAdd (2 ^ N)),
+      negated := fun j => !(i.val.testBit j.val) }
+  else
+    { op := .or, fanIn := 0, arityOk := trivial,
+      inputs := Fin.elim0,
+      negated := Fin.elim0 }
+lemma AONFor.mkGate_acyclic {N : Nat} (f : BitString N → Bool)
+    (i : Fin (2 ^ N)) (k : Fin (AONFor.mkGate f i).fanIn) :
+    ((AONFor.mkGate f i).inputs k).val < N + i.val := by
+  revert k; unfold mkGate
+  cases f (fun j => i.val.testBit j.val)
+  · intro k; exact Fin.elim0 k
+  · intro k; exact Nat.lt_of_lt_of_le k.isLt (Nat.le_add_right N _)
+def AONFor {N : Nat} [NeZero N] (f : BitString N → Bool) :
+    Circuit Basis.unboundedAON N 1 (2 ^ N) where
+  gates := AONFor.mkGate f
+  outputs _ :=
+    { op := .or, fanIn := 2 ^ N, arityOk := trivial,
+      inputs := fun j => (j.natAdd N),
+      negated := fun _ => false }
+  acyclic := private AONFor.mkGate_acyclic f
+@[simp] lemma AONFor_outputs {N : Nat} [NeZero N] (f : BitString N → Bool) (j : Fin 1) :
+    (AONFor f).outputs j =
+      { op := .or, fanIn := 2 ^ N, arityOk := trivial,
+        inputs := Fin.natAdd N, negated := fun _ => false } := rfl
+@[simp] lemma AONFor_gates {N : Nat} [NeZero N] (f : BitString N → Bool) :
+    (AONFor f).gates = AONFor.mkGate f := rfl
+lemma foldl_bor_eq_true (n : Nat) (g : Fin n → Bool) :
+    (Fin.foldl n (fun acc i => acc || g i) false = true) ↔ (∃ i : Fin n, g i = true) := by
+  induction n with
+  | zero => simp [Fin.foldl_zero]
+  | succ n ih =>
+    rw [Fin.foldl_succ_last]
+    constructor
+    · intro h
+      rw [Bool.or_eq_true] at h
+      cases h with
+      | inl h => rw [ih] at h; obtain ⟨j, hj⟩ := h; exact ⟨j.castSucc, hj⟩
+      | inr h => exact ⟨Fin.last n, h⟩
+    · intro ⟨i, hi⟩
+      rw [Bool.or_eq_true]
+      rcases Fin.lastCases (motive := fun i => (∃ j : Fin n, i = j.castSucc) ∨ i = Fin.last n)
+        (Or.inr rfl) (fun j => Or.inl ⟨j, rfl⟩) i with ⟨j, rfl⟩ | rfl
+      · left; rw [ih]; exact ⟨j, hi⟩
+      · right; exact hi
+lemma foldl_band_eq_true (n : Nat) (g : Fin n → Bool) :
+    (Fin.foldl n (fun acc i => acc && g i) true = true) ↔ (∀ i : Fin n, g i = true) := by
+  induction n with
+  | zero => simp [Fin.foldl_zero]
+  | succ n ih =>
+    rw [Fin.foldl_succ_last]; constructor
+    · intro h; rw [Bool.and_eq_true] at h; obtain ⟨h1, h2⟩ := h
+      rw [ih] at h1; intro i; exact Fin.lastCases h2 (fun j => h1 j) i
+    · intro h; rw [Bool.and_eq_true]
+      exact ⟨(ih _).mpr (fun j => h j.castSucc), h (Fin.last n)⟩
+lemma xor_not_eq_true_iff (a b : Bool) : ((!b).xor a = true) ↔ (a = b) := by
+  cases a <;> cases b <;> simp
+lemma exists_testBit_encode (N : Nat) (x : BitString N) :
+    ∃ m : Fin (2 ^ N), ∀ j : Fin N, m.val.testBit j.val = x j := by
+  induction N with
+  | zero => exact ⟨⟨0, Nat.one_pos⟩, fun j => j.elim0⟩
+  | succ n ih =>
+    obtain ⟨m', hm'⟩ := ih (fun j => x j.castSucc)
+    have hm'_bound : m'.val < 2 ^ n := m'.isLt
+    refine ⟨⟨m'.val ||| (if x (Fin.last n) then 2 ^ n else 0),
+            Nat.or_lt_two_pow (by omega) (by split <;> omega)⟩, ?_⟩
+    intro j; simp only
+    rw [Nat.testBit_or]
+    exact Fin.lastCases
+      (by
+        simp only [Fin.val_last]
+        rw [Nat.testBit_lt_two_pow hm'_bound]
+        simp only [Bool.false_or]
+        split <;> rename_i h
+        · simp [Nat.testBit_two_pow_self, h]
+        · cases hx : x (Fin.last n) <;> simp_all [Nat.zero_testBit])
+      (fun k => by
+        simp only [Fin.val_castSucc]
+        rw [hm' k]
+        split
+        · rw [Nat.testBit_two_pow]; simp [Nat.ne_of_gt k.isLt]
+        · simp [Nat.zero_testBit])
+      j
+def aonOutputIndex {N M : Nat} (idx : Fin (M * 2 ^ N)) : Fin M :=
+  ⟨idx.val / 2 ^ N, Nat.div_lt_of_lt_mul (Nat.mul_comm M (2^N) ▸ idx.isLt)⟩
+def aonInputIndex {N : Nat} {M : Nat} (idx : Fin (M * 2 ^ N)) : Fin (2 ^ N) :=
+  ⟨idx.val % 2 ^ N, Nat.mod_lt _ (Nat.two_pow_pos N)⟩
+def aonGate {N M : Nat} (f : BitString N → BitString M) (idx : Fin (M * 2 ^ N)) :
+    Gate Basis.unboundedAON (N + M * 2 ^ N) :=
+  if f (fun k => (aonInputIndex idx).val.testBit k.val) (aonOutputIndex idx) then
+    { op := .and, fanIn := N, arityOk := trivial,
+      inputs := fun k => ⟨k.val, by omega⟩,
+      negated := fun k => !((aonInputIndex idx).val.testBit k.val) }
+  else
+    { op := .or, fanIn := 0, arityOk := trivial,
+      inputs := Fin.elim0,
+      negated := Fin.elim0 }
+lemma AONForM_mkGate_acyclic {N M : Nat} (f : BitString N → BitString M)
+    (idx : Fin (M * 2 ^ N)) (k : Fin (aonGate f idx).fanIn) :
+    ((aonGate f idx).inputs k).val < N + idx.val := by
+  revert k; unfold aonGate
+  cases f (fun k => (aonInputIndex idx).val.testBit k.val) (aonOutputIndex idx)
+  · intro k; exact Fin.elim0 k
+  · intro k; simp; omega
+lemma AONForM_output_bound {N M : Nat} (j : Fin M) (k : Fin (2 ^ N)) :
+    N + j.val * 2 ^ N + k.val < N + M * 2 ^ N := by
+  have hk := k.isLt
+  suffices h : j.val * 2 ^ N + k.val < M * 2 ^ N by omega
+  calc j.val * 2 ^ N + k.val
+      < j.val * 2 ^ N + 2 ^ N := by omega
+    _ = (j.val + 1) * 2 ^ N := by rw [Nat.add_mul]; simp
+    _ ≤ M * 2 ^ N := Nat.mul_le_mul_right _ (by omega)
+def AONForM {N M : Nat} [NeZero N] [NeZero M] (f : BitString N → BitString M) :
+    Circuit Basis.unboundedAON N M (M * 2 ^ N) where
+  gates := aonGate f
+  outputs j :=
+    { op := .or, fanIn := 2 ^ N, arityOk := trivial,
+      inputs := fun k => ⟨N + j.val * 2 ^ N + k.val, by exact AONForM_output_bound j k⟩,
+      negated := fun _ => false }
+  acyclic := private AONForM_mkGate_acyclic f
+lemma AONForM_wireValue_input {N M : Nat} [NeZero N] [NeZero M]
+    (f : BitString N → BitString M) (x : BitString N) (k : Fin N) :
+    (AONForM f).wireValue x ⟨k.val, by omega⟩ = x k := by
+  have h : (⟨k.val, by omega⟩ : Fin (N + M * 2 ^ N)).val < N := k.isLt
+  rw [Circuit.wireValue_lt _ _ _ h]
+lemma AONForM_wireValue_gate {N M : Nat} [NeZero N] [NeZero M]
+    (f : BitString N → BitString M) (x : BitString N) (idx : Fin (M * 2 ^ N)) :
+    (AONForM f).wireValue x ⟨N + idx.val, by omega⟩ =
+      (aonGate f idx).eval ((AONForM f).wireValue x) := by
+  have hge : ¬ ((⟨N + idx.val, by omega⟩ : Fin (N + M * 2 ^ N)).val < N) := by simp
+  rw [Circuit.wireValue_ge _ _ _ hge]
+  congr 1; simp only [AONForM]; congr 1; exact Fin.ext (by simp)
+lemma AONForM_mkGate_eval_false {N M : Nat}
+    (f : BitString N → BitString M) (idx : Fin (M * 2 ^ N))
+    (wv : BitString (N + M * 2 ^ N))
+    (hfi : f (fun k => (aonInputIndex idx).val.testBit k.val) (aonOutputIndex idx) = false) :
+    (aonGate f idx).eval wv = false := by
+  unfold aonGate Gate.eval
+  simp [hfi, Basis.unboundedAON, AONOp.eval, Fin.foldl_zero]
+lemma AONForM_mkGate_eval_true_iff {N M : Nat}
+    (f : BitString N → BitString M) (idx : Fin (M * 2 ^ N))
+    (wv : BitString (N + M * 2 ^ N))
+    (hfi : f (fun k => (aonInputIndex idx).val.testBit k.val) (aonOutputIndex idx) = true) :
+    (aonGate f idx).eval wv = true ↔
+      ∀ k : Fin N, wv ⟨k.val, by omega⟩ = ((aonInputIndex idx).val.testBit k.val) := by
+  have hmk : aonGate f idx =
+    { op := .and, fanIn := N, arityOk := trivial,
+      inputs := fun k => ⟨k.val, by omega⟩,
+      negated := fun k => !((aonInputIndex idx).val.testBit k.val) } := by
+    unfold aonGate; simp [hfi]
+  rw [hmk]; simp only [Gate.eval, Basis.unboundedAON, AONOp.eval]
+  rw [foldl_band_eq_true]
+  exact ⟨fun h k => (xor_not_eq_true_iff _ _).mp (h k),
+         fun h k => (xor_not_eq_true_iff _ _).mpr (h k)⟩
+lemma AONForM_i_of_add {N M : Nat} (j : Fin M) (k : Fin (2 ^ N))
+    (h : j.val * 2 ^ N + k.val < M * 2 ^ N) :
+    aonInputIndex (⟨j.val * 2 ^ N + k.val, h⟩ : Fin (M * 2 ^ N)) = k := by
+  ext; simp [aonInputIndex, Nat.mod_eq_of_lt k.isLt]
+lemma AONForM_j_of_add {N M : Nat} (j : Fin M) (k : Fin (2 ^ N))
+    (h : j.val * 2 ^ N + k.val < M * 2 ^ N) :
+    aonOutputIndex (⟨j.val * 2 ^ N + k.val, h⟩ : Fin (M * 2 ^ N)) = j := by
+  ext; simp only [aonOutputIndex, Fin.val_mk]
+  rw [show j.val * 2^N + k.val = k.val + 2^N * j.val from by rw [Nat.mul_comm j.val]; omega]
+  rw [Nat.add_mul_div_left _ _ (Nat.two_pow_pos N), Nat.div_eq_of_lt k.isLt]; simp
+def AONForM_idx {N M : Nat} (j : Fin M) (k : Fin (2 ^ N)) :
+    Fin (M * 2 ^ N) :=
+  ⟨j.val * 2 ^ N + k.val, by
+    have := AONForM_output_bound (N := N) j k; omega⟩
+lemma AONForM_idx_i {N M : Nat} (j : Fin M) (k : Fin (2 ^ N)) :
+    aonInputIndex (AONForM_idx j k) = k :=
+  AONForM_i_of_add j k _
+lemma AONForM_idx_j {N M : Nat} (j : Fin M) (k : Fin (2 ^ N)) :
+    aonOutputIndex (AONForM_idx j k) = j :=
+  AONForM_j_of_add j k _
+theorem AONForM_is_Correct {N M : Nat} [NeZero N] [NeZero M]
+    (f : BitString N → BitString M) :
+    (AONForM f).eval = f := by
+  funext x j
+  -- Unfold eval to get the output gate evaluation
+  change ((AONForM f).outputs j).eval ((AONForM f).wireValue x) = f x j
+  simp only [AONForM, Gate.eval, Basis.unboundedAON, Bool.false_xor, AONOp.eval]
+  -- Now the goal involves Fin.foldl over wireValues at output wires
+  -- We need to connect wireValue to mkGate eval
+  have key : ∀ k : Fin (2^N),
+    (AONForM f).wireValue x ⟨N + j.val * 2 ^ N + k.val, by exact AONForM_output_bound j k⟩ =
+    (aonGate f (AONForM_idx j k)).eval ((AONForM f).wireValue x) := by
+    intro k
+    have h := AONForM_wireValue_gate f x (AONForM_idx j k)
+    simp only [AONForM_idx] at h
+    simp only [Nat.add_assoc] at h ⊢
+    exact h
+  -- Rewrite the foldl body
+  suffices hsuff : Fin.foldl (2 ^ N) (fun acc k =>
+    acc || (aonGate f (AONForM_idx j k)).eval ((AONForM f).wireValue x)) false = f x j by
+    convert hsuff using 2
+    ext acc k
+    congr 1; exact key k
+  -- Now prove the suffices
+  have h_iff : (Fin.foldl (2 ^ N) (fun acc k =>
+    acc || (aonGate f (AONForM_idx j k)).eval ((AONForM f).wireValue x)) false = true) ↔
+    (f x j = true) := by
+    rw [foldl_bor_eq_true]
+    constructor
+    · -- Some gate fires → f x j = true
+      rintro ⟨k, hk⟩
+      -- Use AONForM_idx_i and AONForM_idx_j to simplify
+      have hi : aonInputIndex (AONForM_idx j k) = k := AONForM_idx_i j k
+      have hj' : aonOutputIndex (AONForM_idx j k) = j := AONForM_idx_j j k
+      by_cases hfk : f (fun p => (aonInputIndex (AONForM_idx j k)).val.testBit p.val)
+        (aonOutputIndex (AONForM_idx j k)) = true
+      · rw [AONForM_mkGate_eval_true_iff f _ _ hfk] at hk
+        rw [hi, hj'] at hfk
+        have hxeq : ∀ p : Fin N, x p = k.val.testBit p.val := by
+          intro p; rw [← AONForM_wireValue_input f x p]
+          rw [hi] at hk; exact hk p
+        have : f x j = f (fun p => k.val.testBit p.val) j := congr_arg (· j)
+          (congr_arg f (funext hxeq))
+        rw [this]; exact hfk
+      · have hfk' : f (fun p => (aonInputIndex (AONForM_idx j k)).val.testBit p.val)
+            (aonOutputIndex (AONForM_idx j k)) = false := Bool.not_eq_true _ |>.mp hfk
+        exact absurd (AONForM_mkGate_eval_false f _ _ hfk' ▸ hk) Bool.false_ne_true
+    · -- f x j = true → some gate fires
+      intro hfx
+      obtain ⟨m, hm⟩ := exists_testBit_encode N x
+      refine ⟨m, ?_⟩
+      have hfm : f (fun p => (aonInputIndex (AONForM_idx j m)).val.testBit p.val)
+        (aonOutputIndex (AONForM_idx j m)) = true := by
+        rw [AONForM_idx_i, AONForM_idx_j]
+        convert hfx using 1; congr 1; funext p; exact hm p
+      rw [AONForM_mkGate_eval_true_iff f _ _ hfm]
+      intro p; rw [AONForM_wireValue_input f x p]
+      rw [AONForM_idx_i]; exact (hm p).symm
+  -- Close by Bool case analysis
+  cases hfx : f x j <;>
+    cases hfold : Fin.foldl (2 ^ N) (fun acc k =>
+      acc || (aonGate f (AONForM_idx j k)).eval ((AONForM f).wireValue x)) false <;>
+    simp_all
+instance : CompleteBasis Basis.unboundedAON where
+  complete f := ⟨_, AONForM f, AONForM_is_Correct f⟩
+end CircuitComplexity
+
+

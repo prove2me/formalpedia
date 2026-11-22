@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_targetFailureProbabilityReal_eq_coe
 -- name    : PebblingLean.Hypercube.targetFailureProbabilityReal_eq_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:19.393326+00:00
 -- url     : https://prove2.me/theorems/5c0244b0-273d-4d5c-92e8-d7f5090f9d47

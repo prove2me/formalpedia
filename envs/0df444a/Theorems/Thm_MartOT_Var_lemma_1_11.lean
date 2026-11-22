@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Var_lemma_1_11
 -- name    : MartOT.Var.lemma_1_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:11:33.292979+00:00
 -- url     : https://prove2.me/theorems/5c84a1fc-3e23-481a-8140-79f402b28241

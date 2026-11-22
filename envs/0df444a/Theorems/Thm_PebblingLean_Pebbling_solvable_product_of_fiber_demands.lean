@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_solvable_product_of_fiber_demands
 -- name    : PebblingLean.Pebbling.solvable_product_of_fiber_demands
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:46:42.478798+00:00
 -- url     : https://prove2.me/theorems/8f20e913-677e-46dd-8f00-81145721d6cd

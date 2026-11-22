@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Statics_maximizer_sign
 -- name    : OTDRO.Statics.maximizer_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:29.196979+00:00
 -- url     : https://prove2.me/theorems/9fdf5a4d-57bf-4cd2-89e5-680a3211c82f

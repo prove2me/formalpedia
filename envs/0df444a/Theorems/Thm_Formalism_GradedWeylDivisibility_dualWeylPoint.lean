@@ -1,0 +1,53 @@
+-- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylPoint
+-- name    : Formalism.GradedWeylDivisibility.dualWeylPoint
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-22T17:22:47.108337+00:00
+-- url     : https://prove2.me/theorems/aacb6d0d-ce1b-4e51-9052-2a82f2f38a94
+-- title:
+--   Graded Weyl Divisibility: dual Weyl Point
+-- statement:
+--   The Graded Weyl Divisibility construction uses the dual Weyl Point property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GradedWeylDivisibility/DualWeylDominanceOf.lean#L35-L35
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GradedWeylDivisibility/DualWeylDominanceOf.lean#L35-L35
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantMem
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SumIcoTsubTelescope
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HighestWeightVectorNeZero
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRowWeight
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylSat
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylPoint
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowStable
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivStable
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylRowGraded
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMap
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylIntRat
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylLeDual
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylNonDom
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_BideterminantDominance
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylMul
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWRaise
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylRowDivStable
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowNuSum
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockHerm
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockPos
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockWeightOrth
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockSubAdj
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockRowAdj
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DomPow
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockDiagBound
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_DualWeylDominanceOf
+import Definitions.Def_Formalism_GradedWeylDivisibility_DualWeylDominanceOf
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.GradedWeylDivisibility
+
+theorem Formalism.GradedWeylDivisibility.dualWeylPoint : DualWeylPoint := by sorry

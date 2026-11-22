@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Pebbling_solvableAtLeast_of_dominates
 -- name    : PebblingLean.Pebbling.solvableAtLeast_of_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:48:51.138657+00:00
 -- url     : https://prove2.me/theorems/f9f6cb73-cfc0-4f9d-9977-87fe6827f6fb

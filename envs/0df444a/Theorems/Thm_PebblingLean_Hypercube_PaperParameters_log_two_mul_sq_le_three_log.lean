@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_log_two_mul_sq_le_three_log
 -- name    : PebblingLean.Hypercube.PaperParameters.log_two_mul_sq_le_three_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:41.294614+00:00
 -- url     : https://prove2.me/theorems/bbeff639-7034-404c-9270-8bb926243459

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SublinearPauli_Fidelity_inclusion_exclusion
 -- name    : SublinearPauli.Fidelity.inclusion_exclusion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:41:50.877644+00:00
 -- url     : https://prove2.me/theorems/ee86ea5e-0329-4dfd-ae17-37fa4818a688

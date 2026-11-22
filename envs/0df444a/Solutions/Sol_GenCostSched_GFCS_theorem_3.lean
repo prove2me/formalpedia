@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GenCostSched.GFCS.theorem_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-29T13:28:06.716246+00:00
 -- url     : https://prove2.me/submissions/1bd7d3e0-ddd9-4f7f-b9e0-84fdb8b474e5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GenCostSched_GFCS_Model

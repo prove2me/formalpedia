@@ -3233,14 +3233,14 @@
 {"parent": "BurkholderDFI.NonnegPhi.theorem_18_3", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.SquareFnLp.doob_1_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.SquareFnLp.doob_stopped_L1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
-{"parent": "BurkholderDFI.SquareFnLp.duality_bound", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
+{"parent": "BurkholderDFI.SquareFnLp.duality_bound", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.SquareFnLp.eq_1_3", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
-{"parent": "BurkholderDFI.SquareFnLp.eq_3_7", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
+{"parent": "BurkholderDFI.SquareFnLp.eq_3_7", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.SquareFnLp.lemma_2_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.SquareFnLp.lemma_3_1_a", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
-{"parent": "BurkholderDFI.SquareFnLp.lemma_3_1_b", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
+{"parent": "BurkholderDFI.SquareFnLp.lemma_3_1_b", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI.SquareFnLp.theorem_3_1", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
-{"parent": "BurkholderDFI.SquareFnLp.theorem_3_2", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
+{"parent": "BurkholderDFI.SquareFnLp.theorem_3_2", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["solution", "statement"]}
 {"parent": "BurkholderDFI_BMO_Condition", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
 {"parent": "BurkholderDFI_Brownian_Process", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
 {"parent": "BurkholderDFI_ConvexPhi_Davis", "child": "BurkholderDFI_SquareFnLp_Martingale", "via": ["statement"]}
@@ -96725,9 +96725,9 @@
 {"parent": "EllipsoidGLS.Rounded.eq_32", "child": "EllipsoidGLS_Rounded_Basic", "via": ["statement"]}
 {"parent": "EllipsoidGLS.Rounded.eq_32", "child": "EllipsoidGLS_Rounded_Run", "via": ["statement"]}
 {"parent": "EllipsoidGLS.Rounded.eq_32", "child": "LinearOptimization_Ellipsoid", "via": ["statement"]}
-{"parent": "EllipsoidGLS.Rounded.eq_34", "child": "EllipsoidGLS_Rounded_Basic", "via": ["statement"]}
-{"parent": "EllipsoidGLS.Rounded.eq_34", "child": "EllipsoidGLS_Rounded_Run", "via": ["statement"]}
-{"parent": "EllipsoidGLS.Rounded.eq_34", "child": "LinearOptimization_Ellipsoid", "via": ["statement"]}
+{"parent": "EllipsoidGLS.Rounded.eq_34", "child": "EllipsoidGLS_Rounded_Basic", "via": ["solution", "statement"]}
+{"parent": "EllipsoidGLS.Rounded.eq_34", "child": "EllipsoidGLS_Rounded_Run", "via": ["solution", "statement"]}
+{"parent": "EllipsoidGLS.Rounded.eq_34", "child": "LinearOptimization_Ellipsoid", "via": ["solution", "statement"]}
 {"parent": "EllipsoidGLS.Rounded.inv_Astar", "child": "EllipsoidGLS_Rounded_Basic", "via": ["solution", "statement"]}
 {"parent": "EllipsoidGLS.Rounded.inv_Astar", "child": "EllipsoidGLS_Rounded_Run", "via": ["solution", "statement"]}
 {"parent": "EllipsoidGLS.Rounded.inv_Astar", "child": "LinearOptimization_Ellipsoid", "via": ["solution", "statement"]}

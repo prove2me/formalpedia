@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_chernoff_core_sq_of_A_sq_ge
 -- name    : PebblingLean.Hypercube.PaperParameters.chernoff_core_sq_of_A_sq_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:52.445168+00:00
 -- url     : https://prove2.me/theorems/d6e9c40a-e96c-469b-a579-5ce32764076f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_demandGapForDemand_pos
 -- name    : PebblingLean.Hypercube.PaperParameters.demandGapForDemand_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:55:59.57408+00:00
 -- url     : https://prove2.me/theorems/f3247d17-22c2-435a-86a6-b7163bea2ed2

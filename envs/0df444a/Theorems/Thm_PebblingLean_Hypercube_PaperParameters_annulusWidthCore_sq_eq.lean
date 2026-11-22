@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_annulusWidthCore_sq_eq
 -- name    : PebblingLean.Hypercube.PaperParameters.annulusWidthCore_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:49.033444+00:00
 -- url     : https://prove2.me/theorems/f0a51a63-f3d6-4cc0-bc0d-ab20cd545983

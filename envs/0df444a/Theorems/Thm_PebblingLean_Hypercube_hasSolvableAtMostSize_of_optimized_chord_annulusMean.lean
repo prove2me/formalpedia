@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_of_optimized_chord_annulusMean
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_of_optimized_chord_annulusMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:44.721837+00:00
 -- url     : https://prove2.me/theorems/2c3ca4d2-f2fd-4a56-b727-4ccdfabd0822

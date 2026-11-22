@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_LossRecurrence_cost_le_exp_lossSum_mul_base
 -- name    : PebblingLean.Hypercube.LossRecurrence.cost_le_exp_lossSum_mul_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:32.311854+00:00
 -- url     : https://prove2.me/theorems/3ff5f6bf-0dd2-4a43-b87b-2d56148a2af0

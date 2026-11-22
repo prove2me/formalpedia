@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_chernoffMeanLowerBound_iff_annulusMean
 -- name    : PebblingLean.Hypercube.chernoffMeanLowerBound_iff_annulusMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:38.891666+00:00
 -- url     : https://prove2.me/theorems/db1d65c8-ee88-4b43-972f-757a9b048f9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicSurface27_twenty_seven_lines
 -- name    : CubicSurface27.twenty_seven_lines
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T13:53:21.55661+00:00
 -- url     : https://prove2.me/theorems/39636e19-f7ae-4969-9b7c-1ed62b461814

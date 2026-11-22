@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sampleContributionExpectation_eq_nat_mul_annulusMean
 -- name    : PebblingLean.Hypercube.sampleContributionExpectation_eq_nat_mul_annulusMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:16.055431+00:00
 -- url     : https://prove2.me/theorems/d0a1cfe7-61d2-41cc-8e5b-b8222caa2997

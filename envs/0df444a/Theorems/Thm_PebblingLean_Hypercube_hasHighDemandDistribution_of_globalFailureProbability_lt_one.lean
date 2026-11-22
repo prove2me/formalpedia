@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasHighDemandDistribution_of_globalFailureProbability_lt_one
 -- name    : PebblingLean.Hypercube.hasHighDemandDistribution_of_globalFailureProbability_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:36.049252+00:00
 -- url     : https://prove2.me/theorems/e41f5451-6a4d-4683-a76c-aa907a563ad3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McLeishCLT_MDA_trunc_prodT_uniformIntegrable
 -- name    : McLeishCLT.MDA.trunc_prodT_uniformIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:32:53.754203+00:00
 -- url     : https://prove2.me/theorems/41b31028-7d9d-425e-ae95-fcc7b938954a

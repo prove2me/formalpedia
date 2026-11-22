@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_driftpos_eventual_psi_above_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_driftpos_eventual_psi_above_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:10:47.009732+00:00
 -- url     : https://prove2.me/theorems/f9712bc7-cdb7-4d86-9769-f8f81b5ff37d

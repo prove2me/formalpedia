@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemialgebraicSDP_Psatz_theorem_4_6_positivstellensatz
 -- name    : SemialgebraicSDP.Psatz.theorem_4_6_positivstellensatz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:14:43.13699+00:00
 -- url     : https://prove2.me/theorems/1abbd3a1-af9c-4850-bee6-6acfe75329a9

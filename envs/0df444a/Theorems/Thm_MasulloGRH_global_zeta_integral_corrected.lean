@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_global_zeta_integral_corrected
 -- name    : MasulloGRH.global_zeta_integral_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @emmgaml
 -- created : 2026-11-22T00:00:07.845158+00:00
 -- url     : https://prove2.me/theorems/486fc11d-f468-4f78-a256-e5dbff7626a0

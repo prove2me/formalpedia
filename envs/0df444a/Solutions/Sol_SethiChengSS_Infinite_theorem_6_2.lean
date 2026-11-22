@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SethiChengSS.Infinite.theorem_6_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T15:09:49.467993+00:00
 -- url     : https://prove2.me/submissions/93430a6d-2836-4d55-b0da-2790b80f7a51
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BertsekasKConvex

@@ -1,0 +1,72 @@
+-- Prove2me | Definitions.Def_LeanPool_MatchingLogic_Imports
+-- name    : LeanPool_MatchingLogic_Imports
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-22T07:46:49.72473+00:00
+-- url     : https://prove2.me/theorems/3bd7dbd2-2a40-4e86-9aef-9968c107166f
+-- title:
+--   Imports
+-- statement:
+--   Definitions and structural lemmas for Imports, from Aurélien Eveil; Anthropic; OpenAI; LeanPool contributors's pinned Global completeness of one-sorted definedness-free matching logic development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/LeanPool/lean-pool/blob/e110decb9d02249d99fa85a144e6a659dea91440/LeanPool/MatchingLogic/Imports.lean
+
+module
+public import Definitions.Def_LeanPool_MatchingLogic
+public import Definitions.Def_LeanPool_MatchingLogic_Applicative
+public import Definitions.Def_LeanPool_MatchingLogic_Boxes
+public import Definitions.Def_LeanPool_MatchingLogic_BoxesControl
+public import Definitions.Def_LeanPool_MatchingLogic_Completeness
+public import Definitions.Def_LeanPool_MatchingLogic_Composite
+public import Definitions.Def_LeanPool_MatchingLogic_Core
+public import Definitions.Def_LeanPool_MatchingLogic_Definedness
+public import Definitions.Def_LeanPool_MatchingLogic_DoubleCover
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_All
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Alpha
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_AlphaFreshWitnessed
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_CanonicalChoice
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_CanonicalConstruction
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_CanonicalCore
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_CanonicalExistence
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_CaptureAvoiding
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Compactness
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Completion
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Conclusion
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Countertheory
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_EmbeddingSemantics
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_FiniteReduction
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Fresh
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_FreshWitnessElim
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Generated
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Injection
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Lindenbaum
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_LocalTheory
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_MCSAlpha
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_ModelExistence
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Regression
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Renaming
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_SignatureReduction
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_SignatureRestriction
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_SymbolSupport
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Truth
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_WitnessElim
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_WitnessPush
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_WitnessSupply
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_Witnessed
+public import Definitions.Def_LeanPool_MatchingLogic_EntryIII_WitnessedCollapse
+public import Definitions.Def_LeanPool_MatchingLogic_EntryPoints
+public import Definitions.Def_LeanPool_MatchingLogic_Independence
+public import Definitions.Def_LeanPool_MatchingLogic_Locality
+public import Definitions.Def_LeanPool_MatchingLogic_Localization
+public import Definitions.Def_LeanPool_MatchingLogic_Necessity
+public import Definitions.Def_LeanPool_MatchingLogic_ProofSystem
+public import Definitions.Def_LeanPool_MatchingLogic_Sanity
+public import Definitions.Def_LeanPool_MatchingLogic_Semantics
+public import Definitions.Def_LeanPool_MatchingLogic_SetVariables
+public import Definitions.Def_LeanPool_MatchingLogic_Sorted
+public import Definitions.Def_LeanPool_MatchingLogic_SortedProof
+public import Definitions.Def_LeanPool_MatchingLogic_Soundness
+set_option autoImplicit true
+@[expose] public section
+
+

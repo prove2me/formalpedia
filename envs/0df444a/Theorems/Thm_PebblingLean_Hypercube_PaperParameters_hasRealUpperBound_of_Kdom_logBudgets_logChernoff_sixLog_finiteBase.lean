@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_hasRealUpperBound_of_Kdom_logBudgets_logChernoff_sixLog_finiteBase
 -- name    : PebblingLean.Hypercube.PaperParameters.hasRealUpperBound_of_Kdom_logBudgets_logChernoff_sixLog_finiteBase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:13.996415+00:00
 -- url     : https://prove2.me/theorems/eb9e920b-f534-41c1-971a-fc229fc6eb10

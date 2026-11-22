@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_tilted_descending_potential
 -- name    : Kyprianou.Ch08.StageB.source_result81_tilted_descending_potential
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T20:40:00.650818+00:00
 -- url     : https://prove2.me/theorems/4c63d0ad-20de-450a-9ecd-09b666951d4c

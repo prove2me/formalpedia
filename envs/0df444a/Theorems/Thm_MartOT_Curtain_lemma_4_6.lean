@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Curtain_lemma_4_6
 -- name    : MartOT.Curtain.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:17.034866+00:00
 -- url     : https://prove2.me/theorems/10502042-8ea7-4b76-90de-a0892ba5a12c

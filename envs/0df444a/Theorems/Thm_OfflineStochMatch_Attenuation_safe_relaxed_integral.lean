@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_Attenuation_safe_relaxed_integral
 -- name    : OfflineStochMatch.Attenuation.safe_relaxed_integral
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-16T08:22:50.776373+00:00
 -- url     : https://prove2.me/theorems/c87dd9ec-5739-426e-9642-e361f405ae2e

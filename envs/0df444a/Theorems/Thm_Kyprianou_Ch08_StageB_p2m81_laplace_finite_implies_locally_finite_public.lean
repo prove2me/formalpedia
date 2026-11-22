@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m81_laplace_finite_implies_locally_finite_public
 -- name    : Kyprianou.Ch08.StageB.p2m81_laplace_finite_implies_locally_finite_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T04:11:27.393838+00:00
 -- url     : https://prove2.me/theorems/6eda0554-eefb-44f2-983e-9499c089d896

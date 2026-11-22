@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EllipsoidGLS_Rounded_eq_34
 -- name    : EllipsoidGLS.Rounded.eq_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:23:48.651738+00:00
 -- url     : https://prove2.me/theorems/c3cdd5a8-c52d-4d6e-bab0-faf254373900

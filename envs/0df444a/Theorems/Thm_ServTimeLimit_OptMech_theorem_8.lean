@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServTimeLimit_OptMech_theorem_8
 -- name    : ServTimeLimit.OptMech.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:52.681379+00:00
 -- url     : https://prove2.me/theorems/81dfb500-f827-4b55-a6d2-6baf14f22d37

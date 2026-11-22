@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Abs_theorem_7_4
 -- name    : MartOT.Abs.theorem_7_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:44.566982+00:00
 -- url     : https://prove2.me/theorems/8d989808-d08f-403f-806a-c0010f494a2e

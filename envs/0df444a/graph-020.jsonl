@@ -72732,10 +72732,10 @@
 {"parent": "Consequences_Defs", "child": "Sat3Graph_Defs", "via": ["statement"]}
 {"parent": "QEC.Coding.BalancedProduct.GVPlus.card_lowWord", "child": "QEC_Coding_CSS_ParityChecks", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BalancedProduct.GVPlus.card_lowWord", "child": "QEC_Coding_BalancedProduct_GVPlus", "via": ["solution", "statement"]}
-{"parent": "LeiBR.Async.lemma_8_upto", "child": "LeiBR_Async_Model", "via": ["statement"]}
-{"parent": "LeiBR.Async.lemma_8_upto", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["statement"]}
-{"parent": "LeiBR.Async.lemma_8_upto", "child": "LeiBR_Async_Algorithm", "via": ["statement"]}
-{"parent": "LeiBR.Async.lemma_8_upto", "child": "LeiBR_Async_Game", "via": ["statement"]}
+{"parent": "LeiBR.Async.lemma_8_upto", "child": "LeiBR_Async_Model", "via": ["solution", "statement"]}
+{"parent": "LeiBR.Async.lemma_8_upto", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["solution", "statement"]}
+{"parent": "LeiBR.Async.lemma_8_upto", "child": "LeiBR_Async_Algorithm", "via": ["solution", "statement"]}
+{"parent": "LeiBR.Async.lemma_8_upto", "child": "LeiBR_Async_Game", "via": ["solution", "statement"]}
 {"parent": "BianchiIX.referenceHalfTime_pos", "child": "BianchiIX_Dynamics_ReferenceReturn", "via": ["solution", "statement"]}
 {"parent": "AutoQMem.Lindblad.lemma_4_10", "child": "AutoQMem_Lindblad_LogicalQubit_PhiX", "via": ["statement"]}
 {"parent": "AutoQMem.Lindblad.lemma_4_10", "child": "AutoQMem_Lindblad_decodedValue", "via": ["statement"]}
@@ -84061,8 +84061,8 @@
 {"parent": "ExplicitCost.size_value_le", "child": "GeneralPieces_Main", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.LocalRelNormCount.relNorm_prime_count_boundary", "child": "QEC_Coding_AlgebraicGeometry_Divisors_LocalRelNormCount", "via": ["solution", "statement"]}
 {"parent": "OAI_NumberTheory_DirichletL_Poisson_GaussianMoments", "child": "OAI_NumberTheory_DirichletL_GaussSum_GaussianFiberMass", "via": ["statement"]}
-{"parent": "SelfScaledLongStep.PrimalDual.dual_isSelfScaledBarrier", "child": "dualCone", "via": ["statement"]}
-{"parent": "SelfScaledLongStep.PrimalDual.dual_isSelfScaledBarrier", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["statement"]}
+{"parent": "SelfScaledLongStep.PrimalDual.dual_isSelfScaledBarrier", "child": "dualCone", "via": ["solution", "statement"]}
+{"parent": "SelfScaledLongStep.PrimalDual.dual_isSelfScaledBarrier", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Correctable.unitaryTransport", "child": "QEC_Semantics_Core_Definitions", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.Correctable.unitaryTransport", "child": "QEC_Semantics_Channels_Core", "via": ["solution", "statement"]}
 {"parent": "QEC.Locality.BKQLDPCFamily.one_lt_validScale", "child": "QEC_Locality_ConnectivityTradeoff_MaxFamily", "via": ["solution", "statement"]}

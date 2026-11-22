@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sum_exp_neg_sampleTotalContribution_eq_pow
 -- name    : PebblingLean.Hypercube.sum_exp_neg_sampleTotalContribution_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:29.218142+00:00
 -- url     : https://prove2.me/theorems/f6772778-4a35-412d-968c-35091d022e04

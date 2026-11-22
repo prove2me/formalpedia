@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_chernoffExponentialMomentBound_of_oneCenterExponentialMomentBound
 -- name    : PebblingLean.Hypercube.chernoffExponentialMomentBound_of_oneCenterExponentialMomentBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:39.567806+00:00
 -- url     : https://prove2.me/theorems/620c7355-0632-4486-b99a-2378c5091e5a

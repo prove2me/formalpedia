@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_sum_centerSample_eval
 -- name    : PebblingLean.Hypercube.sum_centerSample_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:11.862235+00:00
 -- url     : https://prove2.me/theorems/f7e93c5a-4d0a-4649-ac77-d0189157a74c

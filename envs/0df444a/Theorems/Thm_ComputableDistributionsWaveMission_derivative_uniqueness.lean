@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComputableDistributionsWaveMission_derivative_uniqueness
 -- name    : ComputableDistributionsWaveMission.derivative_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T01:52:52.086907+00:00
 -- url     : https://prove2.me/theorems/bb37338d-0832-4f91-8298-76dd8f9166ae

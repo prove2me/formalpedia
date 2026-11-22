@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch08.StageB.source_result81_tilted_descending_potential
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-21T21:42:42.10339+00:00
 -- url     : https://prove2.me/submissions/344e34a8-de4d-479c-8a57-4edf9dde7c79
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_levy_root_domain

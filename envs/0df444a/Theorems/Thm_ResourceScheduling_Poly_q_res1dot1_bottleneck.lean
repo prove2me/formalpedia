@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Poly_q_res1dot1_bottleneck
 -- name    : ResourceScheduling.Poly.q_res1dot1_bottleneck
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:33:46.298266+00:00
 -- url     : https://prove2.me/theorems/c5212013-de59-49c8-9495-7b86e781ff80

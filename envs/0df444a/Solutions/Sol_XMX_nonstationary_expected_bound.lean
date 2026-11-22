@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for XMX.nonstationary_expected_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-18T11:38:27.80266+00:00
 -- url     : https://prove2.me/submissions/b1d8f779-9843-4327-b4fc-0eaa52779adf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_XMX_nonstationary_period_expected_ge_bound
 import Mathlib.MeasureTheory.Integral.Pi

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Var.lemma_1_11
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T06:39:29.1335+00:00
 -- url     : https://prove2.me/submissions/cdfd8058-079e-4c4d-9ac0-e17daf3f57d2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MartOT_Var_Setting

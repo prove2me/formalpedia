@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeldedPath_observation_3_3
 -- name    : WeldedPath.observation_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T06:04:14.659105+00:00
 -- url     : https://prove2.me/theorems/7da2f7cc-ab8e-4639-a894-786068e25219

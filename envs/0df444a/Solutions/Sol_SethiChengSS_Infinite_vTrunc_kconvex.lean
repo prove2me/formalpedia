@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SethiChengSS.Infinite.vTrunc_kconvex
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T15:12:56.152714+00:00
 -- url     : https://prove2.me/submissions/de6d3e52-4044-46d5-94ba-0df7c9d7761e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BertsekasKConvex

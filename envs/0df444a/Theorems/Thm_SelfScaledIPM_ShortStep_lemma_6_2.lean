@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledIPM_ShortStep_lemma_6_2
 -- name    : SelfScaledIPM.ShortStep.lemma_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:34:53.780252+00:00
 -- url     : https://prove2.me/theorems/5a246c00-c119-4a22-b709-04e3dee3c4fb

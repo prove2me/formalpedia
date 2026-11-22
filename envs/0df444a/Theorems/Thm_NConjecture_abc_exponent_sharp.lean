@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NConjecture_abc_exponent_sharp
 -- name    : NConjecture.abc_exponent_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-22T00:43:26.860312+00:00
 -- url     : https://prove2.me/theorems/3e665518-08c4-43ca-943a-41d33b795a7f

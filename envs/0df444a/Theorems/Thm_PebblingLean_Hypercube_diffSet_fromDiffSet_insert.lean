@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_diffSet_fromDiffSet_insert
 -- name    : PebblingLean.Hypercube.diffSet_fromDiffSet_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:20.336786+00:00
 -- url     : https://prove2.me/theorems/28ed582d-399e-42fa-85b4-f19203fe009d

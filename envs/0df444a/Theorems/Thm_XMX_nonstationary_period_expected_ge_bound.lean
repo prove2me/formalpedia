@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XMX_nonstationary_period_expected_ge_bound
 -- name    : XMX.nonstationary_period_expected_ge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @fizzyinc3
 -- created : 2026-10-18T11:37:42.715713+00:00
 -- url     : https://prove2.me/theorems/74f0e510-504e-4ffc-b028-657d9c9d3af0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McLeishCLT_MDA_trunc_integral_prodT_eq_one
 -- name    : McLeishCLT.MDA.trunc_integral_prodT_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:32:18.060984+00:00
 -- url     : https://prove2.me/theorems/c3448186-facb-4d59-b8e6-294936eef244

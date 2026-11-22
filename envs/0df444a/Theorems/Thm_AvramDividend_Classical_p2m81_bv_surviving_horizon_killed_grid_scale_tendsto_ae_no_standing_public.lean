@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_surviving_horizon_killed_grid_scale_tendsto_ae_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_surviving_horizon_killed_grid_scale_tendsto_ae_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:45.481361+00:00
 -- url     : https://prove2.me/theorems/a35e3e13-aacc-48fc-8248-e402022ad614

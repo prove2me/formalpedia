@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceStateCtrl_AlmostSure_theorem_3_9_existence
 -- name    : ChanceStateCtrl.AlmostSure.theorem_3_9_existence
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-24T21:41:12.655068+00:00
 -- url     : https://prove2.me/theorems/d349a76c-dbc8-497d-b8aa-4174baef3fd2

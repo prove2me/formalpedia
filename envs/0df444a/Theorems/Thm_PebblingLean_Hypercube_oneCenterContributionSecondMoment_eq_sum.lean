@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_oneCenterContributionSecondMoment_eq_sum
 -- name    : PebblingLean.Hypercube.oneCenterContributionSecondMoment_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:46.655016+00:00
 -- url     : https://prove2.me/theorems/e916bb37-7194-4ebd-996b-99509199ab94

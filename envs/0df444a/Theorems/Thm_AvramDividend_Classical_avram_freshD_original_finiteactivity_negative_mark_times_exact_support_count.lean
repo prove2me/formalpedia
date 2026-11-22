@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count
 -- name    : AvramDividend.Classical.avram_freshD_original_finiteactivity_negative_mark_times_exact_support_count
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-21T14:41:41.177852+00:00
 -- url     : https://prove2.me/theorems/b1e5728b-dd2b-4b1f-8e7c-3a5b9bedec1b

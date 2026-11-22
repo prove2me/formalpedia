@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_stack_log_budget_of_core_budget
 -- name    : PebblingLean.Hypercube.PaperParameters.stack_log_budget_of_core_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:36.574029+00:00
 -- url     : https://prove2.me/theorems/1d7b0d51-b4f9-43a0-aa92-c9dcdfae2da7

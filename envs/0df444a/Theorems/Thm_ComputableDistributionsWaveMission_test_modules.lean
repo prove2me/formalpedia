@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComputableDistributionsWaveMission_test_modules
 -- name    : ComputableDistributionsWaveMission.test_modules
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T01:52:10.459213+00:00
 -- url     : https://prove2.me/theorems/5dcab083-8ea6-4d49-aca4-87fd1a0fd52a

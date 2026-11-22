@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MixedCloning_Optimal_Supplement_proposition_25
 -- name    : MixedCloning.Optimal.Supplement.proposition_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T17:16:13.711079+00:00
 -- url     : https://prove2.me/theorems/dcb27bf6-2765-4648-9482-c902ac1765c4

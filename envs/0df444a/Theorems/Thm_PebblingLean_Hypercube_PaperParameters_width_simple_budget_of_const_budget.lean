@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_width_simple_budget_of_const_budget
 -- name    : PebblingLean.Hypercube.PaperParameters.width_simple_budget_of_const_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:59.321683+00:00
 -- url     : https://prove2.me/theorems/19418434-f748-4cd9-9ddb-513f188d0153

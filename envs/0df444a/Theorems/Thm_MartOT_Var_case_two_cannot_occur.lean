@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Var_case_two_cannot_occur
 -- name    : MartOT.Var.case_two_cannot_occur
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:36.905638+00:00
 -- url     : https://prove2.me/theorems/f1ec1cb9-c38f-40f3-a8dc-5d855b01662b

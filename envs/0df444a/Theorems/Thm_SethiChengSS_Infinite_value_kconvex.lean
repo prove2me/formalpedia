@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SethiChengSS_Infinite_value_kconvex
 -- name    : SethiChengSS.Infinite.value_kconvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:00.920982+00:00
 -- url     : https://prove2.me/theorems/e51397d6-1082-4509-84d7-46b3b1130810

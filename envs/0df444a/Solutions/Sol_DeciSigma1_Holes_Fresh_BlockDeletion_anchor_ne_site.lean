@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for DeciSigma1.Holes.Fresh.BlockDeletion.anchor_ne_site
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T14:29:32.947683+00:00
+-- url     : https://prove2.me/submissions/a5d602c6-92f1-412c-967e-6d43fd5c42d9
+
+module
+public import Definitions.Def_LeanPool_DeciSigma1_Holes_Fresh_DeletionCoordinates
+public import Mathlib.Order.Nat
+public import Mathlib.Data.Finset.Max
+public import Definitions.Def_LeanPool_DeciSigma1_Holes_Fresh_ChannelTransport
+public import Theorems.Thm_DeciSigma1_Holes_Fresh_BlockDeletion_site_occ
+public import Theorems.Thm_DeciSigma1_Holes_Fresh_BlockDeletion_site_spec
+public import Theorems.Thm_DeciSigma1_Holes_Fresh_upperOcc_spec
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Holes DeciSigma1.Holes.Fresh
+open DeciSigma1.Readers DeciSigma1.Words
+open Finset
+variable {α : Type} [DecidableEq α] {k : ℕ} {S : Type} [Fintype S]
+open DeciSigma1.Holes.Fresh.BlockDeletion
+variable {T : Table α S k} {W : Fin k → List α} {t : ℕ} (m : BlockDeletion T W t)
+namespace DeciSigma1.Holes.Fresh.BlockDeletion
+theorem _root_.solution {l : Fin k} {p c : ℕ}
+    (hp : p ∈ anchors W (t + 1) l) (hc : c ∈ m.sites l) : p ≠ c ∧ p ≠ c + m.deletionLength := by
+  obtain ⟨o, ho, rfl, hth, rfl⟩ := m.site_occ hc
+  have hsp := m.site_spec ho hth
+  have hno := (upperOcc_spec ho).2.2.2.2 p hp
+  constructor <;> rintro rfl <;> exact hno ⟨by omega, by omega⟩
+end DeciSigma1.Holes.Fresh.BlockDeletion

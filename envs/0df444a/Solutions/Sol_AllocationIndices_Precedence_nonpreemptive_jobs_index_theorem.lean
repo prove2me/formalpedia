@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AllocationIndices.Precedence.nonpreemptive_jobs_index_theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-01T14:51:53.76268+00:00
 -- url     : https://prove2.me/submissions/4213078b-a3c8-4957-80a3-49513932a3d3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AllocationIndices_Precedence_eps_fi_star_near_optimal
 import Theorems.Thm_AllocationIndices_Precedence_optimal_policy_is_fi_policy

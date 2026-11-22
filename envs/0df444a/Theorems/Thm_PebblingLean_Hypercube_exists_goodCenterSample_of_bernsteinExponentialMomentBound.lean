@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_exists_goodCenterSample_of_bernsteinExponentialMomentBound
 -- name    : PebblingLean.Hypercube.exists_goodCenterSample_of_bernsteinExponentialMomentBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:51.229189+00:00
 -- url     : https://prove2.me/theorems/e981a45b-4d3e-4478-91c0-1d16b47a26dd

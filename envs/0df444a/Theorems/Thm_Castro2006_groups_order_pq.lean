@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_groups_order_pq
 -- name    : Castro2006.groups_order_pq
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:26:23.666776+00:00
 -- url     : https://prove2.me/theorems/1dbb6686-4817-411a-b514-10071096e6fc

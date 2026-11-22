@@ -1,0 +1,213 @@
+-- Prove2me | solution 1 for DeciSigma1.Semantics.SignSelection.select_sat_of_coherent
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-22T13:33:58.37036+00:00
+-- url     : https://prove2.me/submissions/99a24e51-6f6c-4db5-a0db-202410275e94
+
+module
+public import Definitions.Def_LeanPool_DeciSigma1_Constraints_Signed
+public import Definitions.Def_LeanPool_DeciSigma1_Satisfiability_Shape
+public import Definitions.Def_LeanPool_DeciSigma1_Semantics_Selector
+public import Theorems.Thm_DeciSigma1_Semantics_SignSelection_mix_fn
+public import Theorems.Thm_DeciSigma1_Semantics_SignSelection_select_fn
+public import Theorems.Thm_DeciSigma1_Constraints_base_signedVar
+public import Theorems.Thm_DeciSigma1_Constraints_dual_eq_bot
+public import Theorems.Thm_DeciSigma1_Constraints_dual_eq_top
+public import Theorems.Thm_DeciSigma1_Constraints_holdsT_map
+public import Theorems.Thm_DeciSigma1_Constraints_holds_false
+public import Theorems.Thm_DeciSigma1_Constraints_lowerAt_nil_iff
+public import Theorems.Thm_DeciSigma1_Constraints_normalize_false_eq_bot
+public import Theorems.Thm_DeciSigma1_Constraints_normalize_false_eq_top
+public import Theorems.Thm_DeciSigma1_Constraints_normalize_not
+public import Theorems.Thm_DeciSigma1_Constraints_normalized_signedVar
+public import Theorems.Thm_DeciSigma1_Constraints_sat_false
+public import Theorems.Thm_DeciSigma1_Constraints_sat_signed_iff
+public import Theorems.Thm_DeciSigma1_Constraints_sign_signedVar
+public import Theorems.Thm_DeciSigma1_Constraints_signedDual_signedVar
+public import Theorems.Thm_DeciSigma1_Constraints_signedVar_base_sign
+public import Theorems.Thm_DeciSigma1_Constraints_upperAt_nil_iff
+public import Theorems.Thm_DeciSigma1_Satisfiability_leastShape_fn_nil
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_bot
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_dual
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_node
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_normalize
+public import Theorems.Thm_DeciSigma1_Semantics_FTree_toTree_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_bot_le
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_descend_bot
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_descend_node
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_descend_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_hasLabel_bot
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_hasLabel_nil
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_hasLabel_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_le_bot_iff
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_le_top
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_node_le_node_iff
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_top_le_iff
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_bot
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_cons
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_nil
+public import Theorems.Thm_DeciSigma1_Semantics_Tree_trace_top
+public import Theorems.Thm_DeciSigma1_Semantics_bot_treeLe
+public import Theorems.Thm_DeciSigma1_Semantics_dual_bot
+public import Theorems.Thm_DeciSigma1_Semantics_dual_fn
+public import Theorems.Thm_DeciSigma1_Semantics_dual_involutive
+public import Theorems.Thm_DeciSigma1_Semantics_dual_le_iff
+public import Theorems.Thm_DeciSigma1_Semantics_dual_node
+public import Theorems.Thm_DeciSigma1_Semantics_dual_top
+public import Theorems.Thm_DeciSigma1_Semantics_node_treeLe_node_iff
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_bot
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_false_variance
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_fn
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_involutive
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_node
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_top
+public import Theorems.Thm_DeciSigma1_Semantics_normalize_true
+public import Theorems.Thm_DeciSigma1_Semantics_top_treeLe_iff
+public import Theorems.Thm_DeciSigma1_Semantics_treeLe_bot_iff
+public import Theorems.Thm_DeciSigma1_Semantics_treeLe_false_iff_le
+public import Theorems.Thm_DeciSigma1_Semantics_treeLe_top
+attribute [local simp] DeciSigma1.Constraints.base_signedVar
+attribute [local simp] DeciSigma1.Constraints.dual_eq_bot
+attribute [local simp] DeciSigma1.Constraints.dual_eq_top
+attribute [local simp] DeciSigma1.Constraints.holdsT_map
+attribute [local simp] DeciSigma1.Constraints.holds_false
+attribute [local simp] DeciSigma1.Constraints.lowerAt_nil_iff
+attribute [local simp] DeciSigma1.Constraints.normalize_false_eq_bot
+attribute [local simp] DeciSigma1.Constraints.normalize_false_eq_top
+attribute [local simp] DeciSigma1.Constraints.normalize_not
+attribute [local simp] DeciSigma1.Constraints.normalized_signedVar
+attribute [local simp] DeciSigma1.Constraints.sat_false
+attribute [local simp] DeciSigma1.Constraints.sat_signed_iff
+attribute [local simp] DeciSigma1.Constraints.sign_signedVar
+attribute [local simp] DeciSigma1.Constraints.signedDual_signedVar
+attribute [local simp] DeciSigma1.Constraints.signedVar_base_sign
+attribute [local simp] DeciSigma1.Constraints.upperAt_nil_iff
+attribute [local simp] DeciSigma1.Satisfiability.leastShape_fn_nil
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_bot
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_dual
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_node
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_normalize
+attribute [local simp] DeciSigma1.Semantics.FTree.toTree_top
+attribute [local simp] DeciSigma1.Semantics.Tree.bot_le
+attribute [local simp] DeciSigma1.Semantics.Tree.descend_bot
+attribute [local simp] DeciSigma1.Semantics.Tree.descend_node
+attribute [local simp] DeciSigma1.Semantics.Tree.descend_top
+attribute [local simp] DeciSigma1.Semantics.Tree.hasLabel_bot
+attribute [local simp] DeciSigma1.Semantics.Tree.hasLabel_nil
+attribute [local simp] DeciSigma1.Semantics.Tree.hasLabel_top
+attribute [local simp] DeciSigma1.Semantics.Tree.le_bot_iff
+attribute [local simp] DeciSigma1.Semantics.Tree.le_top
+attribute [local simp] DeciSigma1.Semantics.Tree.node_le_node_iff
+attribute [local simp] DeciSigma1.Semantics.Tree.top_le_iff
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_bot
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_cons
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_nil
+attribute [local simp] DeciSigma1.Semantics.Tree.trace_top
+attribute [local simp] DeciSigma1.Semantics.bot_treeLe
+attribute [local simp] DeciSigma1.Semantics.dual_bot
+attribute [local simp] DeciSigma1.Semantics.dual_fn
+attribute [local simp] DeciSigma1.Semantics.dual_involutive
+attribute [local simp] DeciSigma1.Semantics.dual_le_iff
+attribute [local simp] DeciSigma1.Semantics.dual_node
+attribute [local simp] DeciSigma1.Semantics.dual_top
+attribute [local simp] DeciSigma1.Semantics.node_treeLe_node_iff
+attribute [local simp] DeciSigma1.Semantics.normalize_bot
+attribute [local simp] DeciSigma1.Semantics.normalize_false_variance
+attribute [local simp] DeciSigma1.Semantics.normalize_fn
+attribute [local simp] DeciSigma1.Semantics.normalize_involutive
+attribute [local simp] DeciSigma1.Semantics.normalize_node
+attribute [local simp] DeciSigma1.Semantics.normalize_top
+attribute [local simp] DeciSigma1.Semantics.normalize_true
+attribute [local simp] DeciSigma1.Semantics.top_treeLe_iff
+attribute [local simp] DeciSigma1.Semantics.treeLe_bot_iff
+attribute [local simp] DeciSigma1.Semantics.treeLe_false_iff_le
+attribute [local simp] DeciSigma1.Semantics.treeLe_top
+
+
+attribute [local simp] DeciSigma1.Semantics.SignSelection.mix_fn
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open DeciSigma1 DeciSigma1.Semantics DeciSigma1.Semantics.SignSelection
+open DeciSigma1.Constraints DeciSigma1.Constraints.Covariant DeciSigma1.Constraints.Signed
+open DeciSigma1.Satisfiability
+variable {n : ℕ} {V : Type*}
+namespace DeciSigma1.Semantics.SignSelection
+theorem _root_.solution {c : Fin n → Bool} {ψ : List (LitT n (V × Bool))}
+    (hψ : SignCoherent c ψ) {B : (V × Bool) → Tree n} (hs : Covariant.Sat B ψ)
+        (hS : Covariant.Sat (dual B) ψ)
+    (h : ∀ z, SameShape (B z) (dual B z)) : Covariant.Sat (select c B h) ψ := by
+  intro l hl
+  have hb := hs l hl
+  have hc := hS l hl
+  cases l with
+  | le u v =>
+    change B u ≤ B v at hb
+    change dual B u ≤ dual B v at hc
+    change select c B h u ≤ select c B h v
+    intro π r s hr hs'
+    rw [select_fn, hψ.1 u v hl] at hr
+    rw [select_fn] at hs'
+    split at hr <;> rename_i he
+    · rw [if_pos he] at hs'
+      exact hc π r s hr hs'
+    · rw [if_neg he] at hs'
+      exact hb π r s hr hs'
+  | eqBot u =>
+    change B u = Tree.bot at hb
+    change dual B u = Tree.bot at hc
+    change select c B h u = Tree.bot
+    apply Tree.ext; funext π
+    simp only [select_fn, hb, hc, ite_self]
+  | eqTop u =>
+    change B u = Tree.top at hb
+    change dual B u = Tree.top at hc
+    change select c B h u = Tree.top
+    apply Tree.ext; funext π
+    simp only [select_fn, hb, hc, ite_self]
+  | leF u a =>
+    change B u ≤ Tree.node (B ∘ a) at hb
+    change dual B u ≤ Tree.node (dual B ∘ a) at hc
+    change select c B h u ≤ Tree.node (select c B h ∘ a)
+    intro π r s hr hs'
+    cases π with
+    | nil =>
+      have he : s = .f := (Option.some.inj hs').symm
+      subst he
+      rw [select_fn] at hr
+      split at hr
+      · exact hc [] _ _ hr rfl
+      · exact hb [] _ _ hr rfl
+    | cons i π =>
+      have hs'' : (select c B h (a i)).fn π = some s := hs'
+      rw [select_fn, pol_cons, ← Bool.xor_assoc] at hr
+      rw [select_fn, hψ.2.1 u a hl i] at hs''
+      split at hr <;> rename_i he
+      · rw [if_pos he] at hs''
+        exact hc (i :: π) _ _ hr hs''
+      · rw [if_neg he] at hs''
+        exact hb (i :: π) _ _ hr hs''
+  | fLe a u =>
+    change Tree.node (B ∘ a) ≤ B u at hb
+    change Tree.node (dual B ∘ a) ≤ dual B u at hc
+    change Tree.node (select c B h ∘ a) ≤ select c B h u
+    intro π r s hr hs'
+    cases π with
+    | nil =>
+      have he : r = .f := (Option.some.inj hr).symm
+      subst he
+      rw [select_fn] at hs'
+      split at hs'
+      · exact hc [] _ _ rfl hs'
+      · exact hb [] _ _ rfl hs'
+    | cons i π =>
+      have hr' : (select c B h (a i)).fn π = some r := hr
+      rw [select_fn, pol_cons, ← Bool.xor_assoc] at hs'
+      rw [select_fn, hψ.2.2 a u hl i] at hr'
+      split at hs' <;> rename_i he
+      · rw [if_pos he] at hr'
+        exact hc (i :: π) _ _ hr' hs'
+      · rw [if_neg he] at hr'
+        exact hb (i :: π) _ _ hr' hs'
+end DeciSigma1.Semantics.SignSelection

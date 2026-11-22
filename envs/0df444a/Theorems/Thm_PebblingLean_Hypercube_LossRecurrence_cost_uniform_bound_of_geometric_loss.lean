@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_LossRecurrence_cost_uniform_bound_of_geometric_loss
 -- name    : PebblingLean.Hypercube.LossRecurrence.cost_uniform_bound_of_geometric_loss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:35.630428+00:00
 -- url     : https://prove2.me/theorems/377d5ea2-4e0f-43c6-a984-b87e0745bd8d

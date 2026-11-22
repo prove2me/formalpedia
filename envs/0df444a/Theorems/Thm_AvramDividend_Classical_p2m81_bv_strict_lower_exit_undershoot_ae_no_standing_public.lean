@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_strict_lower_exit_undershoot_ae_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:53.687797+00:00
 -- url     : https://prove2.me/theorems/512aa2e0-1c93-4cb4-94ae-368541d85a64

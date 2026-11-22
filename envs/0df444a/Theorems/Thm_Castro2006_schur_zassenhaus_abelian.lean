@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_schur_zassenhaus_abelian
 -- name    : Castro2006.schur_zassenhaus_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:25:56.431585+00:00
 -- url     : https://prove2.me/theorems/8d3c9404-a273-4a79-baa7-ef81f8caa93b

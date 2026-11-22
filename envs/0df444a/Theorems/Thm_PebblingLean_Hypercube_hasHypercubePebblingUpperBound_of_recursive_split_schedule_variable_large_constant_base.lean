@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasHypercubePebblingUpperBound_of_recursive_split_schedule_variable_large_constant_base
 -- name    : PebblingLean.Hypercube.hasHypercubePebblingUpperBound_of_recursive_split_schedule_variable_large_constant_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:41.238265+00:00
 -- url     : https://prove2.me/theorems/327abb85-563a-4c1a-9c0b-48bb8e54a437

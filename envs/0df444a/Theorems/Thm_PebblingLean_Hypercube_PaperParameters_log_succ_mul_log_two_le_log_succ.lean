@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_log_succ_mul_log_two_le_log_succ
 -- name    : PebblingLean.Hypercube.PaperParameters.log_succ_mul_log_two_le_log_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:56.549316+00:00
 -- url     : https://prove2.me/theorems/d7872024-b2db-4e8d-bfe3-4a94bdc4c572

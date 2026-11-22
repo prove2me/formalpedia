@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContractionLemma_lemma_A_10_hermite_interpolation
 -- name    : ContractionLemma.lemma_A_10_hermite_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T20:56:29.07319+00:00
 -- url     : https://prove2.me/theorems/a849f250-107c-4e04-8932-e57c77db89c6

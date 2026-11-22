@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_targetFailureProbability_le_of_exponentialMoment_le
 -- name    : PebblingLean.Hypercube.targetFailureProbability_le_of_exponentialMoment_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:03.321353+00:00
 -- url     : https://prove2.me/theorems/57acf46d-94d2-44fb-bce5-210c4f5e5dbc

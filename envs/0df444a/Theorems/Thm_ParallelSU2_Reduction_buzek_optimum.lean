@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParallelSU2_Reduction_buzek_optimum
 -- name    : ParallelSU2.Reduction.buzek_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:19.785012+00:00
 -- url     : https://prove2.me/theorems/d6b67dae-015b-47c8-902e-5798892930e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_actual_raw_clock_positive_germ_of_cap_slopes_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_actual_raw_clock_positive_germ_of_cap_slopes_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:45.455971+00:00
 -- url     : https://prove2.me/theorems/c6ded12a-8976-44a2-8494-84762ce4e194

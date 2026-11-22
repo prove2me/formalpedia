@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_lower_first_killed_grid_reward_tendsto_zero_ae_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_lower_first_killed_grid_reward_tendsto_zero_ae_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:45:53.133368+00:00
 -- url     : https://prove2.me/theorems/cbada697-047d-4a11-ac0f-a315b8d35af0

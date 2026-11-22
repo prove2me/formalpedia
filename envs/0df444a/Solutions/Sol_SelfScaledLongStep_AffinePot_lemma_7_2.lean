@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SelfScaledLongStep.AffinePot.lemma_7_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T13:05:31.27875+00:00
 -- url     : https://prove2.me/submissions/0df8246b-7673-4a44-9ceb-6a05a39634cb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_dualCone

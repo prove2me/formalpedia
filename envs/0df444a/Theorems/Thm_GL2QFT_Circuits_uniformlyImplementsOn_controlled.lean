@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GL2QFT_Circuits_uniformlyImplementsOn_controlled
 -- name    : GL2QFT.Circuits.uniformlyImplementsOn_controlled
--- status  : Open
+-- status  : Proved
 -- author  : @dmitry
 -- created : 2026-11-22T04:38:21.469801+00:00
 -- url     : https://prove2.me/theorems/c4e00899-114d-4adb-ba0c-d1dee9860858

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RawBlending_UB_induction_H
 -- name    : RawBlending.UB.induction_H
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:32.156528+00:00
 -- url     : https://prove2.me/theorems/760aad75-68ab-4667-a730-801cb2b23735

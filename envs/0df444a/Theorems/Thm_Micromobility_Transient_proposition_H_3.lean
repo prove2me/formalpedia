@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Micromobility_Transient_proposition_H_3
 -- name    : Micromobility.Transient.proposition_H_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:27.804215+00:00
 -- url     : https://prove2.me/theorems/1baf4c29-bd91-429f-9708-83193d659f6b

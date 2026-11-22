@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_splitM_core_le_real
 -- name    : PebblingLean.Hypercube.PaperParameters.splitM_core_le_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:58:12.550891+00:00
 -- url     : https://prove2.me/theorems/e87b2989-3d25-4c3c-ad1b-1e5e23c8f75a

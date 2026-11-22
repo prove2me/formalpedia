@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CodeSW_lemma_30
 -- name    : CodeSW.lemma_30
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T02:23:43.930354+00:00
 -- url     : https://prove2.me/theorems/5c075a36-fa32-4d73-aaa6-f513978ecc55

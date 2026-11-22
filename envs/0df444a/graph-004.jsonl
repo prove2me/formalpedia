@@ -10026,12 +10026,12 @@
 {"parent": "NestedSA.NASA.proposition_1_a", "child": "NestedSA_NASA_Basic", "via": ["statement"]}
 {"parent": "NestedSA.NASA.proposition_1_a", "child": "NestedSA_NASA_Model", "via": ["statement"]}
 {"parent": "NestedSA.NASA.proposition_1_a", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["statement"]}
-{"parent": "NestedSA.NASA.proposition_1_b", "child": "NestedSA_NASA_Basic", "via": ["statement"]}
-{"parent": "NestedSA.NASA.proposition_1_b", "child": "NestedSA_NASA_Model", "via": ["statement"]}
-{"parent": "NestedSA.NASA.proposition_1_b", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["statement"]}
-{"parent": "NestedSA.NASA.theorem_2_a", "child": "NestedSA_NASA_Basic", "via": ["statement"]}
-{"parent": "NestedSA.NASA.theorem_2_a", "child": "NestedSA_NASA_Model", "via": ["statement"]}
-{"parent": "NestedSA.NASA.theorem_2_a", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["statement"]}
+{"parent": "NestedSA.NASA.proposition_1_b", "child": "NestedSA_NASA_Basic", "via": ["solution", "statement"]}
+{"parent": "NestedSA.NASA.proposition_1_b", "child": "NestedSA_NASA_Model", "via": ["solution", "statement"]}
+{"parent": "NestedSA.NASA.proposition_1_b", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["solution", "statement"]}
+{"parent": "NestedSA.NASA.theorem_2_a", "child": "NestedSA_NASA_Basic", "via": ["solution", "statement"]}
+{"parent": "NestedSA.NASA.theorem_2_a", "child": "NestedSA_NASA_Model", "via": ["solution", "statement"]}
+{"parent": "NestedSA.NASA.theorem_2_a", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["solution", "statement"]}
 {"parent": "NestedSA.NASA.theorem_2_b", "child": "NestedSA_NASA_Basic", "via": ["solution", "statement"]}
 {"parent": "NestedSA.NASA.theorem_2_b", "child": "NestedSA_NASA_Model", "via": ["solution", "statement"]}
 {"parent": "NestedSA.NASA.theorem_2_b", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["solution", "statement"]}
@@ -21969,9 +21969,9 @@
 {"parent": "OTDRO.Dual.dual_reformulation", "child": "OTDRO_Dual_Setting", "via": ["solution", "statement"]}
 {"parent": "OTDRO.Dual.inf_quad_hyperplane", "child": "OTDRO_Dual_Setting", "via": ["solution", "statement"]}
 {"parent": "OTDRO.Dual.sup_transport_eq_ellRob", "child": "OTDRO_Dual_Setting", "via": ["solution", "statement"]}
-{"parent": "OTDRO.Statics.dual_optimizer_unique", "child": "OTDRO_Statics_Regions", "via": ["statement"]}
-{"parent": "OTDRO.Statics.maximizer_sign", "child": "OTDRO_Statics_Regions", "via": ["statement"]}
-{"parent": "OTDRO.Statics.maximizer_sign", "child": "OTDRO_Statics_Transport", "via": ["statement"]}
+{"parent": "OTDRO.Statics.dual_optimizer_unique", "child": "OTDRO_Statics_Regions", "via": ["solution", "statement"]}
+{"parent": "OTDRO.Statics.maximizer_sign", "child": "OTDRO_Statics_Regions", "via": ["solution", "statement"]}
+{"parent": "OTDRO.Statics.maximizer_sign", "child": "OTDRO_Statics_Transport", "via": ["solution", "statement"]}
 {"parent": "OTDRO.Statics.prop9_a", "child": "OTDRO_Statics_Regions", "via": ["statement"]}
 {"parent": "OTDRO.Statics.prop9_b", "child": "OTDRO_Statics_Regions", "via": ["statement"]}
 {"parent": "OTDRO.Statics.worst_case_comparative_statics", "child": "OTDRO_Statics_Regions", "via": ["solution", "statement"]}
@@ -31252,7 +31252,7 @@
 {"parent": "ProbMetricStab.MixedInt.estimate_12", "child": "ProbMetricStab_MixedInt_Setting", "via": ["statement"]}
 {"parent": "ProbMetricStab.MixedInt.growth_bound", "child": "ProbMetricStab_MixedInt_Setting", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.MixedInt.lemma_3_5_a", "child": "ProbMetricStab_MixedInt_Setting", "via": ["statement"]}
-{"parent": "ProbMetricStab.MixedInt.lemma_3_5_b", "child": "ProbMetricStab_MixedInt_Setting", "via": ["statement"]}
+{"parent": "ProbMetricStab.MixedInt.lemma_3_5_b", "child": "ProbMetricStab_MixedInt_Setting", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.MixedInt.theorem_2_2_d0", "child": "ProbMetricStab_MixedInt_ObjectiveStability", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.MixedInt.theorem_2_3_d0", "child": "ProbMetricStab_MixedInt_ObjectiveStability", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.MixedInt.theorem_3_6", "child": "ProbMetricStab_MixedInt_Setting", "via": ["solution", "statement"]}
@@ -37653,7 +37653,7 @@
 {"parent": "QualityEncroach.Differ.lemma_1_ii", "child": "QualityEncroach_Differ_Reduced", "via": ["statement"]}
 {"parent": "QualityEncroach.Differ.lemma_1_iii", "child": "QualityEncroach_Differ_Reduced", "via": ["statement"]}
 {"parent": "QualityEncroach.Differ.proposition_1_iii", "child": "QualityEncroach_Differ_Game", "via": ["solution", "statement"]}
-{"parent": "QualityEncroach.Differ.proposition_3", "child": "QualityEncroach_Differ_Game", "via": ["statement"]}
+{"parent": "QualityEncroach.Differ.proposition_3", "child": "QualityEncroach_Differ_Game", "via": ["solution", "statement"]}
 {"parent": "QualityEncroach.Differ.proposition_4_i", "child": "QualityEncroach_Differ_Game", "via": ["statement"]}
 {"parent": "QualityEncroach.Differ.proposition_4_ii", "child": "QualityEncroach_Differ_Game", "via": ["solution", "statement"]}
 {"parent": "QualityEncroach.Differ.quantity_subgame", "child": "QualityEncroach_Differ_Game", "via": ["solution", "statement"]}
@@ -47039,13 +47039,13 @@
 {"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Model", "via": ["solution", "statement"]}
 {"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Q2Algorithm", "via": ["solution", "statement"]}
 {"parent": "ResourceScheduling.Poly.q2_algorithm_best_abc", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["solution", "statement"]}
-{"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Model", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Q2Algorithm", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["statement"]}
+{"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Model", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Q2Algorithm", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.q2_algorithm_optimal", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["solution", "statement"]}
 {"parent": "ResourceScheduling.Poly.q2_exists_abc_le", "child": "ResourceScheduling_Poly_Model", "via": ["solution", "statement"]}
 {"parent": "ResourceScheduling.Poly.q2_exists_abc_le", "child": "ResourceScheduling_Poly_Q2Properties", "via": ["solution", "statement"]}
-{"parent": "ResourceScheduling.Poly.q_res1dot1_bottleneck", "child": "ResourceScheduling_Poly_Model", "via": ["statement"]}
-{"parent": "ResourceScheduling.Poly.q_res1dot1_bottleneck", "child": "ResourceScheduling_Poly_SlotAssignment", "via": ["statement"]}
+{"parent": "ResourceScheduling.Poly.q_res1dot1_bottleneck", "child": "ResourceScheduling_Poly_Model", "via": ["solution", "statement"]}
+{"parent": "ResourceScheduling.Poly.q_res1dot1_bottleneck", "child": "ResourceScheduling_Poly_SlotAssignment", "via": ["solution", "statement"]}
 {"parent": "ResourceScheduling_Chain_Complexity", "child": "CookPvsNP_defs", "via": ["statement"]}
 {"parent": "ResourceScheduling_Chain_Constructions", "child": "ResourceScheduling_Chain_Model", "via": ["statement"]}
 {"parent": "ResourceScheduling_Chain_Constructions", "child": "ResourceScheduling_Chain_ThreePartition", "via": ["statement"]}
@@ -50086,8 +50086,8 @@
 {"parent": "RiskAverseSDDP.Convergence.lemma_3_5", "child": "RiskAverseSDDP_Convergence_Run", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.proposition_2_2", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["statement"]}
 {"parent": "RiskAverseSDDP.Convergence.proposition_2_2", "child": "RiskAverseSDDP_Convergence_ValueFunction", "via": ["statement"]}
-{"parent": "RiskAverseSDDP.Convergence.proposition_3_1", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["statement"]}
-{"parent": "RiskAverseSDDP.Convergence.proposition_3_1", "child": "RiskAverseSDDP_Convergence_Model", "via": ["statement"]}
+{"parent": "RiskAverseSDDP.Convergence.proposition_3_1", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["solution", "statement"]}
+{"parent": "RiskAverseSDDP.Convergence.proposition_3_1", "child": "RiskAverseSDDP_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.theorem_4_1", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.theorem_4_1", "child": "RiskAverseSDDP_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.theorem_4_1", "child": "RiskAverseSDDP_Convergence_Run", "via": ["solution", "statement"]}
@@ -53595,9 +53595,9 @@
 {"parent": "SelfScaledIPM.FuncProx.lemma_5_6", "child": "SelfScaledIPM_FuncProx_Measures", "via": ["statement"]}
 {"parent": "SelfScaledIPM.FuncProx.lemma_5_6", "child": "SelfScaledIPM_FuncProx_Setting", "via": ["statement"]}
 {"parent": "SelfScaledIPM.FuncProx.lemma_5_6", "child": "dualCone", "via": ["statement"]}
-{"parent": "SelfScaledIPM.FuncProx.proposition_3_5", "child": "SelfScaledIPM_FuncProx_Measures", "via": ["statement"]}
-{"parent": "SelfScaledIPM.FuncProx.proposition_3_5", "child": "SelfScaledIPM_FuncProx_Setting", "via": ["statement"]}
-{"parent": "SelfScaledIPM.FuncProx.proposition_3_5", "child": "dualCone", "via": ["statement"]}
+{"parent": "SelfScaledIPM.FuncProx.proposition_3_5", "child": "SelfScaledIPM_FuncProx_Measures", "via": ["solution", "statement"]}
+{"parent": "SelfScaledIPM.FuncProx.proposition_3_5", "child": "SelfScaledIPM_FuncProx_Setting", "via": ["solution", "statement"]}
+{"parent": "SelfScaledIPM.FuncProx.proposition_3_5", "child": "dualCone", "via": ["solution", "statement"]}
 {"parent": "SelfScaledIPM.FuncProx.theorem_3_11", "child": "SelfScaledIPM_FuncProx_Setting", "via": ["statement"]}
 {"parent": "SelfScaledIPM.FuncProx.theorem_3_11", "child": "dualCone", "via": ["statement"]}
 {"parent": "SelfScaledIPM.FuncProx.theorem_3_8", "child": "SelfScaledIPM_FuncProx_Measures", "via": ["statement"]}
@@ -53693,9 +53693,9 @@
 {"parent": "SelfScaledLongStep.PathFollow.proposition_6_3", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PathFollow.proposition_6_3", "child": "SelfScaledLongStep_PathFollow_Defs", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PathFollow.proposition_6_3", "child": "dualCone", "via": ["solution", "statement"]}
-{"parent": "SelfScaledLongStep.PathFollow.theorem_4_3", "child": "SelfScaledIPM_ShortStep_Measures", "via": ["statement"]}
-{"parent": "SelfScaledLongStep.PathFollow.theorem_4_3", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["statement"]}
-{"parent": "SelfScaledLongStep.PathFollow.theorem_4_3", "child": "dualCone", "via": ["statement"]}
+{"parent": "SelfScaledLongStep.PathFollow.theorem_4_3", "child": "SelfScaledIPM_ShortStep_Measures", "via": ["solution", "statement"]}
+{"parent": "SelfScaledLongStep.PathFollow.theorem_4_3", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["solution", "statement"]}
+{"parent": "SelfScaledLongStep.PathFollow.theorem_4_3", "child": "dualCone", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PathFollow.theorem_9_2", "child": "SelfScaledIPM_ShortStep_Measures", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PathFollow.theorem_9_2", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PathFollow.theorem_9_2", "child": "SelfScaledLongStep_PathFollow_Defs", "via": ["solution", "statement"]}
@@ -53726,9 +53726,9 @@
 {"parent": "SelfScaledLongStep.PrimalDual.theorem_3_2", "child": "SelfScaledIPM_ShortStep_Measures", "via": ["statement"]}
 {"parent": "SelfScaledLongStep.PrimalDual.theorem_3_2", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["statement"]}
 {"parent": "SelfScaledLongStep.PrimalDual.theorem_3_2", "child": "dualCone", "via": ["statement"]}
-{"parent": "SelfScaledLongStep.PrimalDual.theorem_4_1", "child": "SelfScaledIPM_ShortStep_Measures", "via": ["statement"]}
-{"parent": "SelfScaledLongStep.PrimalDual.theorem_4_1", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["statement"]}
-{"parent": "SelfScaledLongStep.PrimalDual.theorem_4_1", "child": "dualCone", "via": ["statement"]}
+{"parent": "SelfScaledLongStep.PrimalDual.theorem_4_1", "child": "SelfScaledIPM_ShortStep_Measures", "via": ["solution", "statement"]}
+{"parent": "SelfScaledLongStep.PrimalDual.theorem_4_1", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["solution", "statement"]}
+{"parent": "SelfScaledLongStep.PrimalDual.theorem_4_1", "child": "dualCone", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PrimalDual.theorem_4_2", "child": "SelfScaledIPM_ShortStep_Measures", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PrimalDual.theorem_4_2", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["solution", "statement"]}
 {"parent": "SelfScaledLongStep.PrimalDual.theorem_4_2", "child": "dualCone", "via": ["solution", "statement"]}
@@ -53864,7 +53864,7 @@
 {"parent": "SemialgebraicSDP.Psatz.isSumSq_exists_gram", "child": "SemialgebraicSDP_Psatz_Gram", "via": ["solution", "statement"]}
 {"parent": "SemialgebraicSDP.Psatz.monomial_vector_card", "child": "SemialgebraicSDP_Psatz_Gram", "via": ["solution", "statement"]}
 {"parent": "SemialgebraicSDP.Psatz.theorem_3_3", "child": "SemialgebraicSDP_Psatz_Gram", "via": ["solution", "statement"]}
-{"parent": "SemialgebraicSDP.Psatz.theorem_4_6_positivstellensatz", "child": "SemialgebraicSDP_Psatz_Cone", "via": ["statement"]}
+{"parent": "SemialgebraicSDP.Psatz.theorem_4_6_positivstellensatz", "child": "SemialgebraicSDP_Psatz_Cone", "via": ["solution", "statement"]}
 {"parent": "SemialgebraicSDP.Psatz.theorem_4_6_sufficiency", "child": "SemialgebraicSDP_Psatz_Cone", "via": ["solution", "statement"]}
 {"parent": "SemialgebraicSDP.Psatz.theorem_5_1", "child": "SemialgebraicSDP_Psatz_Cone", "via": ["statement"]}
 {"parent": "SemialgebraicSDP.Psatz.theorem_5_1", "child": "SemialgebraicSDP_Psatz_SDP", "via": ["statement"]}
@@ -54399,16 +54399,16 @@
 {"parent": "SethiChengSS.Finite.theorem_4_1", "child": "SethiChengSS_Finite_Model", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.appendix_lipschitz", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.appendix_lipschitz", "child": "SethiChengSS_Infinite_Model", "via": ["solution", "statement"]}
-{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_10", "child": "BertsekasKConvex", "via": ["statement"]}
-{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_10", "child": "SethiChengSS_Infinite_Model", "via": ["statement"]}
+{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_10", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
+{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_10", "child": "SethiChengSS_Infinite_Model", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_8", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_8", "child": "SethiChengSS_Infinite_Model", "via": ["solution", "statement"]}
-{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_9", "child": "BertsekasKConvex", "via": ["statement"]}
-{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_9", "child": "SethiChengSS_Infinite_Model", "via": ["statement"]}
+{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_9", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
+{"parent": "SethiChengSS.Infinite.theorem_6_1_eq_6_9", "child": "SethiChengSS_Infinite_Model", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.theorem_6_2", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.theorem_6_2", "child": "SethiChengSS_Infinite_Model", "via": ["solution", "statement"]}
-{"parent": "SethiChengSS.Infinite.truncated_dp", "child": "BertsekasKConvex", "via": ["statement"]}
-{"parent": "SethiChengSS.Infinite.truncated_dp", "child": "SethiChengSS_Infinite_Model", "via": ["statement"]}
+{"parent": "SethiChengSS.Infinite.truncated_dp", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
+{"parent": "SethiChengSS.Infinite.truncated_dp", "child": "SethiChengSS_Infinite_Model", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.vTrunc_kconvex", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.vTrunc_kconvex", "child": "SethiChengSS_Infinite_Model", "via": ["solution", "statement"]}
 {"parent": "SethiChengSS.Infinite.value_kconvex", "child": "BertsekasKConvex", "via": ["solution", "statement"]}

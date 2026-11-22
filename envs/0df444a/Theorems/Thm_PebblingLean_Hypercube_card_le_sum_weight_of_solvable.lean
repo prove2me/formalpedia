@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_card_le_sum_weight_of_solvable
 -- name    : PebblingLean.Hypercube.card_le_sum_weight_of_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:50:47.554819+00:00
 -- url     : https://prove2.me/theorems/3006f053-c2f9-4c38-be95-bc936464b258

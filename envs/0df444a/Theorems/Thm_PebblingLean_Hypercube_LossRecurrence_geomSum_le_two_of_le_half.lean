@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_LossRecurrence_geomSum_le_two_of_le_half
 -- name    : PebblingLean.Hypercube.LossRecurrence.geomSum_le_two_of_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:30.725838+00:00
 -- url     : https://prove2.me/theorems/ab32e476-5fc4-4f58-874b-e93a96d994ff

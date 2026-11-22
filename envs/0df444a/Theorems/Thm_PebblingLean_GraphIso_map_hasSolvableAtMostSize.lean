@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_GraphIso_map_hasSolvableAtMostSize
 -- name    : PebblingLean.GraphIso.map_hasSolvableAtMostSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:17.937647+00:00
 -- url     : https://prove2.me/theorems/77278ea2-f448-4f75-a66c-5a350c904149

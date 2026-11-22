@@ -923,7 +923,7 @@
 {"parent": "PersuadeFly.lemma_1", "child": "PersuadeFly_iidEventProb", "via": ["statement"]}
 {"parent": "PersuadeFly.lemma_1", "child": "PersuadeFly_l1Dist", "via": ["statement"]}
 {"parent": "OAI.SLEExactGauge.sourceActualSquareTail_proved_allKappa", "child": "OAIQ27Sle000", "via": ["solution", "statement"]}
-{"parent": "NahmiasPerishable.Inventory.m04", "child": "NahmiasPerishable_Inventory_Cycles", "via": ["statement"]}
+{"parent": "NahmiasPerishable.Inventory.m04", "child": "NahmiasPerishable_Inventory_Cycles", "via": ["solution", "statement"]}
 {"parent": "GenSwitchHT.theorem_1", "child": "GenSwitchHT_Model", "via": ["statement"]}
 {"parent": "OAI.Release061.cocompact_bounded_affine_smooth", "child": "SymmetricDomains", "via": ["solution", "statement"]}
 {"parent": "SupplierLearning.implementability", "child": "SupplierLearning_Params_Standing", "via": ["statement"]}
@@ -40437,7 +40437,7 @@
 {"parent": "AvramDividend.Classical.avram_wave5_03_original_all_caps_chronological_stopped_terminal_nonnegative", "child": "AvramDividend.Classical.avram_wave5_03_original_chronological_stopped_terminal_nonnegative", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_03_original_all_caps_chronological_stopped_terminal_nonnegative", "child": "AvramDividend.Classical.avram_wave5_03_original_zero_cap_chronological_stopped_terminal_nonnegative", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P20.sector_quasipoints_are_boolean_quasipoints", "child": "QAlgorithms_Papers_Independent_Intakethird100_P20", "via": ["statement"]}
-{"parent": "AllocationIndices.Precedence.fi_policy_is_fi_star_policy", "child": "AllocationIndices_Precedence_Model", "via": ["statement"]}
+{"parent": "AllocationIndices.Precedence.fi_policy_is_fi_star_policy", "child": "AllocationIndices_Precedence_Model", "via": ["solution", "statement"]}
 {"parent": "OAIQ098D153", "child": "OAIQ098D003", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P22.security_criteria", "child": "QAlgorithms_Papers_Independent_Intakethird100_P22", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_ubv_original_cofinal_budget_rightcont_stopping_fatou_no_extra_nonneg", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -44626,7 +44626,7 @@
 {"parent": "WilliamsonShmoys.maximal_planar_supergraph__p2m_c8fc71ba_c41f_4610_9114_f9df2f968aaf_a3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_triangulation_extension__p2m_aa8c3543_6a70_4578_ab0d_df04a85e5168_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.subgraph_of_drawable_graph_has_one_edge_drawable_extension__p2m_9940682f_4c7e_48c3_97b4_7cba95f9fa9e_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
-{"parent": "AllocationIndices.Precedence.optimal_policy_is_fi_policy", "child": "AllocationIndices_Precedence_Model", "via": ["statement"]}
+{"parent": "AllocationIndices.Precedence.optimal_policy_is_fi_policy", "child": "AllocationIndices_Precedence_Model", "via": ["solution", "statement"]}
 {"parent": "OAIQ098D180", "child": "OAIQ098D005", "via": ["statement"]}
 {"parent": "OAIQ098D180", "child": "OAIQ098D003", "via": ["statement"]}
 {"parent": "OAIQ098D180", "child": "OAIQ098D004", "via": ["statement"]}
@@ -52098,10 +52098,10 @@
 {"parent": "levy_foundations_partialNextVecIndependent", "child": "levy_foundations_thinnedCountMeasurable", "via": ["statement"]}
 {"parent": "levy_foundations_partialNextVecIndependent", "child": "levy_foundations_prmPartialCountMeasurable", "via": ["statement"]}
 {"parent": "levy_foundations_partialNextVecIndependent", "child": "levy_foundations_prmPartialCount", "via": ["solution", "statement"]}
-{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "MultiPurchase_Hardness_Model", "via": ["statement"]}
-{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "MultiPurchase_Hardness_Checker", "via": ["statement"]}
-{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
+{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "MultiPurchase_Hardness_Model", "via": ["solution", "statement"]}
+{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "MultiPurchase_Hardness_Checker", "via": ["solution", "statement"]}
+{"parent": "MultiPurchase.Hardness.canon_filter_polytime", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
 {"parent": "SalesEffort.inequality_OA_1", "child": "SalesEffort_Model", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_03_original_perpetual_pathwise_signed_stieltjes_integrable_eq_cash_of_finite", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave7_03_original_perpetual_pathwise_signed_stieltjes_integrable_eq_cash_of_finite", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -60889,10 +60889,10 @@
 {"parent": "LX.AnchoredPhases.three_fixed_matching_unique_cyclic_gap_two", "child": "LX_AffineLift", "via": ["solution", "statement"]}
 {"parent": "levy_foundations_prmEvalSigma", "child": "levy_foundations_prmEvalIndex", "via": ["statement"]}
 {"parent": "levy_foundations_prmEvalSigma", "child": "levy_foundations_poissonRandomMeasure", "via": ["statement"]}
-{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "MultiPurchase_Hardness_Model", "via": ["statement"]}
-{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "CookPvsNP_defs", "via": ["statement"]}
-{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "MultiPurchase_Hardness_Checker", "via": ["statement"]}
-{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "ProjSchedTW_Complexity_Encoding", "via": ["statement"]}
+{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "MultiPurchase_Hardness_Model", "via": ["solution", "statement"]}
+{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "CookPvsNP_defs", "via": ["solution", "statement"]}
+{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "MultiPurchase_Hardness_Checker", "via": ["solution", "statement"]}
+{"parent": "MultiPurchase.Hardness.shape_filter_polytime", "child": "ProjSchedTW_Complexity_Encoding", "via": ["solution", "statement"]}
 {"parent": "HighVarianceRM_PolicyRun", "child": "HighVarianceRM_Instance", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_01_original_source_laplace_exponent_second_difference_levy_square", "child": "AvramDividend.Classical.levyWeight_integrable", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave6_01_original_source_laplace_exponent_second_difference_levy_square", "child": "AvramDividend.Classical.levy_exponential_generatorIntegrable_of_moment", "via": ["solution", "statement"]}

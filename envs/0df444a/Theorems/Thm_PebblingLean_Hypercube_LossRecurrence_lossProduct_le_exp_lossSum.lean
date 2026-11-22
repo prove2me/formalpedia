@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_LossRecurrence_lossProduct_le_exp_lossSum
 -- name    : PebblingLean.Hypercube.LossRecurrence.lossProduct_le_exp_lossSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:24.411699+00:00
 -- url     : https://prove2.me/theorems/dd122aa8-435f-4eee-876b-6610e028efbd

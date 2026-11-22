@@ -401,7 +401,7 @@
 {"parent": "AvramDividend.Classical.causal_full_kernel_continuousOn_positive", "child": "AvramDividend.Classical.causal_continuous_input_primitive_continuousOn_nonnegative", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.causal_full_kernel_continuousOn_positive", "child": "AvramDividend.Classical.causal_l1_convolution_continuousOn_positive_of_Ici_input", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.causal_full_kernel_continuousOn_positive", "child": "AvramDividend.Classical.causal_l1_kernel_continuous_input_integrable", "via": ["solution", "statement"]}
-{"parent": "SampleDrivenOS.Limit.sdclpValue_le_alphaStar", "child": "SampleDrivenOS_Limit_Setting", "via": ["statement"]}
+{"parent": "SampleDrivenOS.Limit.sdclpValue_le_alphaStar", "child": "SampleDrivenOS_Limit_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.eventualTransverseJetSurjectiveForSpatialVolume_360483bd_spatial_volume_bound", "child": "eventualTransverseJetSurjectiveForSpatialVolume_360483bd", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_survived_strip_scale_lintegral_tendsto_zero", "child": "AvramDividend.Classical.chat04_bounded_strip_scale_terminal_vanish", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.chat04_survived_strip_scale_lintegral_tendsto_zero", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -3050,7 +3050,7 @@
 {"parent": "PricingWithTips3DM_fdcbe473ab7b29cb74fe5583", "child": "PricingWithTips3DM_9e8bb918fff7ccf9cedba389", "via": ["statement"]}
 {"parent": "PricingWithTips3DM_fdcbe473ab7b29cb74fe5583", "child": "PricingWithTips3DM_9b2c6d0f4f5bbf5f86ea9e34", "via": ["statement"]}
 {"parent": "QseriesFormalization.Ch10TwoVar.qPochAPNegPS_zero_eq_two_mul", "child": "QseriesFormalization_Pending_Chapter10_TwoVar", "via": ["statement"]}
-{"parent": "MaintPOMDP.Frontier.theorem_2_part2_PIR", "child": "MaintPOMDP_Frontier_Setting", "via": ["statement"]}
+{"parent": "MaintPOMDP.Frontier.theorem_2_part2_PIR", "child": "MaintPOMDP_Frontier_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support50.P23.alphaAdditivity", "child": "QAlgorithms_Papers_Independent_Support50_P23", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.NP.covL_eq", "child": "Atlas_EinsteinMaxwell_NP_Riemann", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.NP.covL_eq", "child": "Atlas_EinsteinMaxwell_NP_NPMaxwell", "via": ["solution", "statement"]}
@@ -5150,10 +5150,7 @@
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_bounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.paymentTimes_min_ofReal_subset_inter_horizon", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_nat_horizon_bound_unbounded_variation", "child": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.hjb_component_inequalities", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_bounded_variation", "child": "AvramDividend.Classical.capped_admissible_hjb_right_dividend_atom_control", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.hjb_component_inequalities", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.admissible_cap_truncated_dividendValue_le_unbounded_variation", "child": "AvramDividend.Classical.capped_admissible_hjb_right_dividend_atom_control", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrier_strategy_value", "child": "AvramDividend.Classical.barrierStrategy_value_eq_killed_exit_integral_mul_boundaryValue", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrier_strategy_value", "child": "AvramDividend.Classical.two_sided_exit_before_ruin_identity", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrier_strategy_value", "child": "AvramDividend.Classical.barrierValue_self_eq_barrierSupValue", "via": ["solution"]}

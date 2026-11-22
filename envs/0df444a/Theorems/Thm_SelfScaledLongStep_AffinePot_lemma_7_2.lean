@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfScaledLongStep_AffinePot_lemma_7_2
 -- name    : SelfScaledLongStep.AffinePot.lemma_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:52.413106+00:00
 -- url     : https://prove2.me/theorems/d1061e77-5bdb-4875-bece-e5ba694e5616

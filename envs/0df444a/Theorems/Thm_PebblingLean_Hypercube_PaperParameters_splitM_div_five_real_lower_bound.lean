@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_splitM_div_five_real_lower_bound
 -- name    : PebblingLean.Hypercube.PaperParameters.splitM_div_five_real_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:55:59.791148+00:00
 -- url     : https://prove2.me/theorems/dfbfee31-1f2a-4a26-928f-c3fe47c23a84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Product_theorem_6_3
 -- name    : MartOT.Product.theorem_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:28.004846+00:00
 -- url     : https://prove2.me/theorems/debf2835-ad01-4a58-95b1-961d709da483

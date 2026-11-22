@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_annulusWidthCore_sq_le_width_sq_of_A_nonneg
 -- name    : PebblingLean.Hypercube.PaperParameters.annulusWidthCore_sq_le_width_sq_of_A_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:51.293089+00:00
 -- url     : https://prove2.me/theorems/caf498e7-2ffc-41a8-a11b-a42c49ef08b9

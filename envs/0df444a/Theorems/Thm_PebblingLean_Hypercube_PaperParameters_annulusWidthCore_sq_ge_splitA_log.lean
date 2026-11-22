@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_annulusWidthCore_sq_ge_splitA_log
 -- name    : PebblingLean.Hypercube.PaperParameters.annulusWidthCore_sq_ge_splitA_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:56:37.4702+00:00
 -- url     : https://prove2.me/theorems/e86b61c5-f484-4600-bcf8-7d9753532739

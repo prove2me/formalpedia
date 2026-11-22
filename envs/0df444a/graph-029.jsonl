@@ -61351,7 +61351,7 @@
 {"parent": "MultStretchAPASP.Weighted.theorem_5_11", "child": "DynConnWC_Program", "via": ["statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.Z1_7_0Half_sound", "child": "OAIQ254M007", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB2_1_5I1R12Raw_sound", "child": "OAIQ254M010", "via": ["solution", "statement"]}
-{"parent": "LawlerCompress.TardyJobs.lemma_3_1", "child": "LawlerCompress_TardyJobs_Canonical", "via": ["statement"]}
+{"parent": "LawlerCompress.TardyJobs.lemma_3_1", "child": "LawlerCompress_TardyJobs_Canonical", "via": ["solution", "statement"]}
 {"parent": "BookProof.SmFockEsa.smSecMomIdx_injective", "child": "ChapterSmFockEsa", "via": ["statement"]}
 {"parent": "FasterWCTFPTAS.Main.theorem_1_1", "child": "FasterWCTFPTAS_Main_Scheduling", "via": ["statement"]}
 {"parent": "FasterWCTFPTAS.Main.theorem_1_1", "child": "FasterWCTFPTAS_Main_Encoding", "via": ["statement"]}

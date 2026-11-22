@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeepQOperator_lemma_23
 -- name    : DeepQOperator.lemma_23
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-12T06:00:08.649196+00:00
 -- url     : https://prove2.me/theorems/ef33705e-c438-42ca-ae85-a938dc77597f

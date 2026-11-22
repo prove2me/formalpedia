@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_rIn_le_rOut
 -- name    : PebblingLean.Hypercube.PaperParameters.rIn_le_rOut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:48.084669+00:00
 -- url     : https://prove2.me/theorems/fe8d8e54-badd-4676-9e88-8eae8ea3f36d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_exists_goodCenterSample_of_oneCenterDistanceSum
 -- name    : PebblingLean.Hypercube.exists_goodCenterSample_of_oneCenterDistanceSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:20.078679+00:00
 -- url     : https://prove2.me/theorems/051bbd40-7786-49ff-b4a7-6af366d1622e

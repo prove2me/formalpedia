@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_bernsteinTargetFailureBound_of_optimized_chord_annulusMean
 -- name    : PebblingLean.Hypercube.bernsteinTargetFailureBound_of_optimized_chord_annulusMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:13.2466+00:00
 -- url     : https://prove2.me/theorems/78f42658-feee-48b6-a334-bf5696f174d8

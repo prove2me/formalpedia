@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_exists_walk_fromDiffSet_to_base
 -- name    : PebblingLean.Hypercube.exists_walk_fromDiffSet_to_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:51:27.423552+00:00
 -- url     : https://prove2.me/theorems/9c0ba57f-2687-4ca6-b976-223c28492f6e

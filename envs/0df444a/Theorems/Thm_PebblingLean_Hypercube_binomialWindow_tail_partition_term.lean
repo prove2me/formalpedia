@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_binomialWindow_tail_partition_term
 -- name    : PebblingLean.Hypercube.binomialWindow_tail_partition_term
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:52:10.283777+00:00
 -- url     : https://prove2.me/theorems/7e18f8cd-d4ee-42f2-94d7-4fcb70db0152

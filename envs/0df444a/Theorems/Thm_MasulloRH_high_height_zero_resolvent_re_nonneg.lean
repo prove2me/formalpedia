@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloRH_high_height_zero_resolvent_re_nonneg
 -- name    : MasulloRH.high_height_zero_resolvent_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @ibecca
 -- created : 2026-11-22T03:57:28.364785+00:00
 -- url     : https://prove2.me/theorems/bcf79275-fd94-4a17-993c-c0772b88293a

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MartOT.Abs.reduced_optimal
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T05:07:07.710188+00:00
 -- url     : https://prove2.me/submissions/d7cb384a-002f-46fe-a536-12c565efde3c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MartOT_Var_Setting

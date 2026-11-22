@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_uncapped_strict_isoA_integrable_bounds
 -- name    : Kyprianou.Ch08.StageB.source_result81_uncapped_strict_isoA_integrable_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T03:29:35.008482+00:00
 -- url     : https://prove2.me/theorems/7c4f4aa8-9c03-45aa-a142-0281b489a8a1

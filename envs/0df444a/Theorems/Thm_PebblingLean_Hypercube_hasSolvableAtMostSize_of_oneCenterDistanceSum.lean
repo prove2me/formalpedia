@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_of_oneCenterDistanceSum
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_of_oneCenterDistanceSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:23.220803+00:00
 -- url     : https://prove2.me/theorems/6a7fb571-6f38-40ff-9a57-cb500be2792a

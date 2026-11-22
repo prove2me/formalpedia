@@ -47929,7 +47929,7 @@
 {"parent": "MIPStarRE.LDT.SubMeas.outcome_le_total", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.eventual_bounded_packet_representatives", "child": "OAI_PiExponent_TruncatedPolynomialJets", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.deriv_deriv_eq_zero_of_mem_cstarSet", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
-{"parent": "AddictivePlatforms.Compete.proposition_2", "child": "AddictivePlatforms_Compete_Model", "via": ["statement"]}
+{"parent": "AddictivePlatforms.Compete.proposition_2", "child": "AddictivePlatforms_Compete_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LogarithmicJetIdeals.plain_jet_shifted_monomial_sum_coeff", "child": "OAI_PiExponent_LogarithmicJetIdeals_PlainJet", "via": ["solution", "statement"]}
 {"parent": "HTInsensBW.PhaseType.eq_80", "child": "HTInsensBW_PhaseType_Model", "via": ["statement"]}
 {"parent": "HTInsensBW.PhaseType.eq_80", "child": "HTInsensBW_PhaseType_InnerProduct", "via": ["solution", "statement"]}
@@ -81363,7 +81363,7 @@
 {"parent": "OAI.AsymptoticallyMinimalLittlewood.Sampling.mode_maximum", "child": "OAI_Analysis_Littlewood_SamplingEnergy", "via": ["solution", "statement"]}
 {"parent": "OAI.AsymptoticallyMinimalLittlewood.Sampling.mode_maximum", "child": "OAI_Analysis_Littlewood_Spreading", "via": ["solution", "statement"]}
 {"parent": "OAI.AsymptoticallyMinimalLittlewood.Sampling.mode_maximum", "child": "OAI_Analysis_Littlewood_ProductProbability", "via": ["solution", "statement"]}
-{"parent": "XMX.nonstationary_period_expected_ge_bound", "child": "XMX_NonstationaryInventory", "via": ["statement"]}
+{"parent": "XMX.nonstationary_period_expected_ge_bound", "child": "XMX_NonstationaryInventory", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group547_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "ExplicitPNT.DusartTable1.Modules.PowerQuarterCount", "child": "DusartThetaTable1Intervals", "via": ["solution", "statement"]}
 {"parent": "ExplicitPNT.DusartTable1.Modules.PowerQuarterCount", "child": "DusartTable1ZeroRanges_433_20261018", "via": ["solution", "statement"]}

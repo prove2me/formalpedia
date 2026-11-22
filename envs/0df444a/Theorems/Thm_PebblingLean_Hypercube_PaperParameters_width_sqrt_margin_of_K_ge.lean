@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_PaperParameters_width_sqrt_margin_of_K_ge
 -- name    : PebblingLean.Hypercube.PaperParameters.width_sqrt_margin_of_K_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:59:59.314732+00:00
 -- url     : https://prove2.me/theorems/5381b3da-8826-4e41-ad9a-4b0aa49010ab

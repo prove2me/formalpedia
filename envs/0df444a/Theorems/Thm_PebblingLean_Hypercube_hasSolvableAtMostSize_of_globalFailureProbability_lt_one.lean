@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasSolvableAtMostSize_of_globalFailureProbability_lt_one
 -- name    : PebblingLean.Hypercube.hasSolvableAtMostSize_of_globalFailureProbability_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:53:53.574987+00:00
 -- url     : https://prove2.me/theorems/9dd75b45-8662-4861-9fac-517098744c5b

@@ -35291,7 +35291,7 @@
 {"parent": "FeynmanKac.augmented_coefficients_eq_time_dependent_ae", "child": "FeynmanKac_BoundedDiffusionModel", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_supergraph_edge_count_lower_v2_maximal_edge_bound", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.MetricKMedian.CountStatistic.variance_bound_s35", "child": "OAIQ035K004", "via": ["solution", "statement"]}
-{"parent": "ChanceStateCtrl.AlmostSure.theorem_3_9_existence", "child": "ChanceStateCtrl_AlmostSure_Setting", "via": ["statement"]}
+{"parent": "ChanceStateCtrl.AlmostSure.theorem_3_9_existence", "child": "ChanceStateCtrl_AlmostSure_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.TuringRigidity.RealGeneratedModel.projected_extension_eq_hull", "child": "OAIQ064A008", "via": ["solution", "statement"]}
 {"parent": "ZeroFreeBridge.norm_logDeriv_g_le_wired", "child": "ZeroFreeBridge.continuousAt_blaschke_smul_g_zero", "via": ["solution", "statement"]}
 {"parent": "ZeroFreeBridge.norm_logDeriv_g_le_wired", "child": "ZeroFreeBridge.norm_blaschke_center_le_one", "via": ["solution", "statement"]}
@@ -65859,12 +65859,8 @@
 {"parent": "AvramDividend.Classical.generator_vcstar_eq_zero", "child": "AvramDividend.Classical.generator_vcstar_eq_zero_of_scaledW_harmonic", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.generator_vcstar_eq_zero", "child": "AvramDividend.Classical.scaleFunction_tilted_positive_monotone", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core_positive_cap", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.local_verification_capped_admissible_jump_bound", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.admissible_cap_truncated_ubv_stochastic_core", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.verification_candidate_nonneg_before_ruin", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.local_verification_stochastic_core_side_conditions", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.local_verification_from_uniform_strategy_bound", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.admissible_cap_truncated_bv_stochastic_core", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous_of_standing", "child": "AvramDividend.Classical.scaleFunction_contDiff_one", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous_tendsto_atTop", "child": "AvramDividend.Classical.scaleFunction_contDiff_one_of_standing", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleDeriv_continuous_tendsto_atTop", "child": "AvramDividend.Classical.scale_deriv_tendsto_atTop_of_normalized_monotone", "via": ["solution"]}

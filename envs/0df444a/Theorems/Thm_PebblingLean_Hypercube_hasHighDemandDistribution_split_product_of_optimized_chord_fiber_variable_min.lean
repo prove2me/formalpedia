@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_hasHighDemandDistribution_split_product_of_optimized_chord_fiber_variable_min
 -- name    : PebblingLean.Hypercube.hasHighDemandDistribution_split_product_of_optimized_chord_fiber_variable_min
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:54:32.965037+00:00
 -- url     : https://prove2.me/theorems/0009b025-9ad5-4082-a1fd-4f15cc4f3fb0

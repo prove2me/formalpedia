@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_J_mono_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_J_mono_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:44:54.667952+00:00
 -- url     : https://prove2.me/theorems/c58c0c04-fe43-4bc5-8fce-3a21f3f9f0ee

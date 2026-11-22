@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComputableDistributionsWaveMission_derivative_support
 -- name    : ComputableDistributionsWaveMission.derivative_support
--- status  : Open
+-- status  : Proved
 -- author  : @liuyao
 -- created : 2026-11-16T01:53:30.4094+00:00
 -- url     : https://prove2.me/theorems/3a0b55fb-06f2-4f72-8857-523d2535a9bb

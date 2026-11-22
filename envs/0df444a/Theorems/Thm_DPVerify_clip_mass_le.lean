@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DPVerify_clip_mass_le
 -- name    : DPVerify.clip_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-07T07:52:29.187194+00:00
 -- url     : https://prove2.me/theorems/b86846a6-a085-499d-8450-1a0d17e10c24

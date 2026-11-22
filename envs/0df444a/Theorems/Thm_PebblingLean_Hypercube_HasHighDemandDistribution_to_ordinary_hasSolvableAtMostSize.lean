@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_HasHighDemandDistribution_to_ordinary_hasSolvableAtMostSize
 -- name    : PebblingLean.Hypercube.HasHighDemandDistribution.to_ordinary_hasSolvableAtMostSize
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:53:05.885623+00:00
 -- url     : https://prove2.me/theorems/4ff7a6f8-2242-40ec-bfd5-23bec8bf4468

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_genuine_finite_horizon_killed_expectation_no_standing
 -- name    : AvramDividend.Classical.p2m81_bv_genuine_finite_horizon_killed_expectation_no_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T00:13:36.54077+00:00
 -- url     : https://prove2.me/theorems/f3582777-9357-4e66-a07d-7cb0a45dadf9

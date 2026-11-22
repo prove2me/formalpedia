@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_p2m81_bv_eventual_gap_exists_of_driftpos_no_standing_public
 -- name    : AvramDividend.Classical.p2m81_bv_eventual_gap_exists_of_driftpos_no_standing_public
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T05:44:53.411451+00:00
 -- url     : https://prove2.me/theorems/e1e871f2-4962-41b8-82ce-468fc3a1e113

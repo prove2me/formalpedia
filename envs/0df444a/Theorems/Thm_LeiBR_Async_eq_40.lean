@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_eq_40
 -- name    : LeiBR.Async.eq_40
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:39.983964+00:00
 -- url     : https://prove2.me/theorems/794aa625-1487-4a5e-86f0-dd0b236229c4

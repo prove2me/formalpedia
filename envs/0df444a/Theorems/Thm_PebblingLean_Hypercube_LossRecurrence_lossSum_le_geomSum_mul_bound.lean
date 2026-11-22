@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PebblingLean_Hypercube_LossRecurrence_lossSum_le_geomSum_mul_bound
 -- name    : PebblingLean.Hypercube.LossRecurrence.lossSum_le_geomSum_mul_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T05:57:32.941796+00:00
 -- url     : https://prove2.me/theorems/6b9afa62-9586-42b5-836f-a9399181eea9
