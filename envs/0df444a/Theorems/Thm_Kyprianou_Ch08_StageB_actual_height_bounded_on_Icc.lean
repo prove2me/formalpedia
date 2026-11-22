@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_actual_height_bounded_on_Icc
 -- name    : Kyprianou.Ch08.StageB.actual_height_bounded_on_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:54:30.273507+00:00
 -- url     : https://prove2.me/theorems/7909cd53-cf18-4a21-b20f-33b6f9e7d3b1

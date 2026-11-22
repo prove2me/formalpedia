@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_radial_quadrature_values
 -- name    : NoHair.Weyl.kerr_radial_quadrature_values
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:14:50.650366+00:00
 -- url     : https://prove2.me/theorems/5392f137-5913-4546-ae61-ce42db75707f

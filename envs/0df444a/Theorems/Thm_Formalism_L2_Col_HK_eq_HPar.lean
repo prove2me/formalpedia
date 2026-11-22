@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_HK_eq_HPar
 -- name    : Formalism.L2.Col.HK_eq_HPar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:33.753428+00:00
 -- url     : https://prove2.me/theorems/8887d6e4-5eef-4e93-8c15-6b6a8992b791

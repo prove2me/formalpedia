@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB5_skelet35_nonhalting
 -- name    : BB5.skelet35_nonhalting
--- status  : Open
+-- status  : Proved
 -- author  : @loader3229
 -- created : 2026-11-22T13:56:10.779968+00:00
 -- url     : https://prove2.me/theorems/24bd845f-de88-41a2-be3c-59d8ec827f7c

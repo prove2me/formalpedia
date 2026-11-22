@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_step_wide
 -- name    : GridHam.step_wide
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:16:04.234551+00:00
 -- url     : https://prove2.me/theorems/f995d164-42cf-4f79-86e9-43cde11aaef3

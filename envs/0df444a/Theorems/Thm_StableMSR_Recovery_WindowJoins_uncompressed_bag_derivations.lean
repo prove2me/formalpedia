@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_uncompressed_bag_derivations
 -- name    : StableMSR.Recovery.WindowJoins.uncompressed_bag_derivations
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:41:24.637905+00:00
 -- url     : https://prove2.me/theorems/647b5e5c-2d09-474f-a558-8416b9676ad0

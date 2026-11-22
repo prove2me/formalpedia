@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ironclad_alphaPiMu_eq_alphaClosed
 -- name    : Ironclad.alphaPiMu_eq_alphaClosed
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T21:26:33.450137+00:00
 -- url     : https://prove2.me/theorems/53f36ccb-9fcd-4b2b-9321-80e91ab4560c

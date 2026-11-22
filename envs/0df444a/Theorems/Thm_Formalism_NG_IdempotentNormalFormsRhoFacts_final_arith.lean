@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsRhoFacts_final_arith
+-- name    : Formalism.NG.IdempotentNormalFormsRhoFacts.final_arith
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-22T23:06:34.76609+00:00
+-- url     : https://prove2.me/theorems/34074763-ba38-4dfd-bcd6-c415571077ff
+-- title:
+--   Idempotent Normal Forms Rho Facts: final arith
+-- statement:
+--   The Idempotent Normal Forms Rho Facts construction uses the final arith property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/CharacterColumnKernels/IdempotentNormalForms/LengthEqKerAddRange.lean#L199-L204
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/CharacterColumnKernels/IdempotentNormalForms/LengthEqKerAddRange.lean#L199-L204
+
+import Definitions.Def_Formalism_CharacterColumnKernels_StatementRho
+import Definitions.Def_Formalism_CharacterColumnKernels_IdempotentNormalForms_LengthKerOfDetEqZero
+import Definitions.Def_Formalism_CharacterColumnKernels_IdempotentNormalForms_RightMulEpsAlgebraMap
+import Definitions.Def_Formalism_CharacterColumnKernels_IdempotentNormalForms_LengthEqKerAddRange
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset
+noncomputable section
+open Formalism Formalism.NG
+open Formalism.NG.IdempotentNormalFormsRhoFacts
+
+theorem Formalism.NG.IdempotentNormalFormsRhoFacts.final_arith (R X Y Z s k : ℕ∞) (c N vδ : ℕ∞) (hk : k ≤ X + c * N * vδ)
+    (hm : Y ≤ N * (2 * vδ)) (hs : Z ≤ s + R) :
+    k + Y + Z ≤ R + X + s + 4 * N * (c + 1) * vδ := by sorry

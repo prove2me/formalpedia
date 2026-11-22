@@ -86318,7 +86318,7 @@
 {"parent": "MarkovProcess.StoppingTime.pairwise_disjoint_stoppingTimeSlice", "child": "MarkovProcess_V3H_Main_4d46965d", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.StoppingTime.pairwise_disjoint_stoppingTimeSlice", "child": "MarkovProcess_V3H_Trajectory_StoppingLtTop_f2bd051e", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P64.frozenVelocity_positionGenerator", "child": "QAlgorithms_Papers_Independent_Intake100_P64", "via": ["solution", "statement"]}
-{"parent": "Ironclad.stationary_distribution", "child": "Ironclad_ClosedForms", "via": ["statement"]}
+{"parent": "Ironclad.stationary_distribution", "child": "Ironclad_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "CommitFrontRun.lemma_1", "child": "CommitFrontRun_Model_IsEquilibrium", "via": ["statement"]}
 {"parent": "FoundationsRL_E2DStructured_confidenceSet", "child": "FoundationsRL_E2DStructured_cumSqError", "via": ["statement"]}
 {"parent": "OAIQ023F037", "child": "OAIQ023F034", "via": ["statement"]}
@@ -86996,7 +86996,7 @@
 {"parent": "OAIQ053K023", "child": "OAIQ053K001", "via": ["statement"]}
 {"parent": "OAIQ053K023", "child": "OAIQ053K005", "via": ["statement"]}
 {"parent": "OAIQ053K023", "child": "OAIQ053K008", "via": ["statement"]}
-{"parent": "Ironclad.alphaPiMu_eq_alphaClosed", "child": "Ironclad_ClosedForms", "via": ["statement"]}
+{"parent": "Ironclad.alphaPiMu_eq_alphaClosed", "child": "Ironclad_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "Viterbo.viterbo_cEHZ_prod_polar_iff_mahler", "child": "SymmetricPolar", "via": ["solution", "statement"]}
 {"parent": "Viterbo.viterbo_cEHZ_prod_polar_iff_mahler", "child": "Viterbo", "via": ["solution", "statement"]}
 {"parent": "CombOpt_HeldKarp_Graph_SubtourFeasible", "child": "CombOpt_HeldKarp_Graph_cut", "via": ["statement"]}
@@ -91431,7 +91431,7 @@
 {"parent": "WainwrightHDS.NucNorm.exists_top_r_singular_subspaces", "child": "WainwrightHDS_NucNorm_MbarPerp", "via": ["solution", "statement"]}
 {"parent": "WainwrightHDS.NucNorm.exists_top_r_singular_subspaces", "child": "WainwrightHDS_NucNorm_projMbarPerp", "via": ["solution", "statement"]}
 {"parent": "WainwrightHDS.NucNorm.exists_top_r_singular_subspaces", "child": "WainwrightHDS_NucNorm_nucNorm", "via": ["solution", "statement"]}
-{"parent": "Ironclad.relPerf_strictMonoOn", "child": "Ironclad_ClosedForms", "via": ["statement"]}
+{"parent": "Ironclad.relPerf_strictMonoOn", "child": "Ironclad_ClosedForms", "via": ["solution", "statement"]}
 {"parent": "ScalarMultiRisk_Qe", "child": "ScalarMultiRisk_dualKK", "via": ["statement"]}
 {"parent": "CombOpt_MatroidIntersectionPolytope_IsTDI", "child": "CombOpt_MatroidIntersectionPolytope_polyhedron", "via": ["statement"]}
 {"parent": "SupplierLearning.period_two_double", "child": "SupplierLearning_Params_Standing", "via": ["statement"]}

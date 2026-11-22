@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_independent_window_literals
 -- name    : StableMSR.Recovery.WindowJoins.independent_window_literals
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:41:25.707802+00:00
 -- url     : https://prove2.me/theorems/e8199a8e-a21e-4184-8ecc-ca05198791c1

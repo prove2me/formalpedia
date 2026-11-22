@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_monicOf_injective
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.monicOf_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:59:45.64656+00:00
 -- url     : https://prove2.me/theorems/d0c09b0b-cc4d-40fa-b72c-e9d3535cf5f3

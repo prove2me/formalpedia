@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_hamPath_implies_acceptable
 -- name    : GridHam.hamPath_implies_acceptable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:15:15.22628+00:00
 -- url     : https://prove2.me/theorems/674ea877-d255-4f22-89c1-5f3b8f7fc931

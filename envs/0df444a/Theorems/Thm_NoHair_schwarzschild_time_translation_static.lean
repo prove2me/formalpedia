@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_schwarzschild_time_translation_static
 -- name    : NoHair.schwarzschild_time_translation_static
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:44:40.50525+00:00
 -- url     : https://prove2.me/theorems/acc1324e-134a-4fe8-ac1c-06151b2e87aa

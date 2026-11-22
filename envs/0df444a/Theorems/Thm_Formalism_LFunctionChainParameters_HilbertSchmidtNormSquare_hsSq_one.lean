@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_hsSq_one
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.hsSq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:26.901803+00:00
 -- url     : https://prove2.me/theorems/2f387ac1-d1ef-4b1d-b53e-1ef59d3f61af

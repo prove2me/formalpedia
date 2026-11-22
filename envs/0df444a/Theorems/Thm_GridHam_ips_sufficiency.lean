@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_ips_sufficiency
 -- name    : GridHam.ips_sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:17:32.920053+00:00
 -- url     : https://prove2.me/theorems/eb110bea-5f03-4a19-ac9e-e04b65af5263

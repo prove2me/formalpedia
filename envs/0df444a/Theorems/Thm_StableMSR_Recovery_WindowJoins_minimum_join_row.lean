@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_minimum_join_row
 -- name    : StableMSR.Recovery.WindowJoins.minimum_join_row
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:38:08.46621+00:00
 -- url     : https://prove2.me/theorems/d37c4d24-6a3a-414d-bde0-14ea01644170

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Sec_exists_smul
 -- name    : Formalism.L2.Col.GSD.Sec.exists_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:13.453133+00:00
 -- url     : https://prove2.me/theorems/c35ed391-026d-4471-8168-40d7a670f20f

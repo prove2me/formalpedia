@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_suff_all
 -- name    : GridHam.suff_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:16:22.999731+00:00
 -- url     : https://prove2.me/theorems/7396e237-77fe-4247-ace8-fd3e63eff5ec

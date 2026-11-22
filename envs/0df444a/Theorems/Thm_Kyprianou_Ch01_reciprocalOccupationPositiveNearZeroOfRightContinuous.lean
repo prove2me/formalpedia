@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reciprocalOccupationPositiveNearZeroOfRightContinuous
 -- name    : Kyprianou.Ch01.reciprocalOccupationPositiveNearZeroOfRightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:40:59.289461+00:00
 -- url     : https://prove2.me/theorems/ffc9bdd3-79f7-4cf3-8288-13eaa081d5d7

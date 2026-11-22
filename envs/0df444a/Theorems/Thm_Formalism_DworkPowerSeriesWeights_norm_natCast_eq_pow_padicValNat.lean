@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_norm_natCast_eq_pow_padicValNat
 -- name    : Formalism.DworkPowerSeriesWeights.norm_natCast_eq_pow_padicValNat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:09:31.926638+00:00
 -- url     : https://prove2.me/theorems/11da2f77-2984-49d0-8fe0-f2bdb0beaa93

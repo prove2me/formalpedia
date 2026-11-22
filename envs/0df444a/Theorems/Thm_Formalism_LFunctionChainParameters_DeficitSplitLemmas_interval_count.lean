@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_interval_count
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.interval_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:18.033737+00:00
 -- url     : https://prove2.me/theorems/6eade38c-be6b-4915-9c6a-4fbc385956a8

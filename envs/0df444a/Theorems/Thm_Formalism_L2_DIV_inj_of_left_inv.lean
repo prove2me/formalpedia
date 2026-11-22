@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_inj_of_left_inv
 -- name    : Formalism.L2.DIV.inj_of_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:44.191723+00:00
 -- url     : https://prove2.me/theorems/2834dce0-e55f-4e7a-978e-55ad9115ab2a

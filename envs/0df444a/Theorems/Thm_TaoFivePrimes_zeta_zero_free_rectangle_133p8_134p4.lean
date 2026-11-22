@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_zeta_zero_free_rectangle_133p8_134p4
 -- name    : TaoFivePrimes.zeta_zero_free_rectangle_133p8_134p4
--- status  : Open
+-- status  : Proved
 -- author  : @Johan Mercedes
 -- created : 2026-10-28T01:02:51.591843+00:00
 -- url     : https://prove2.me/theorems/a7966a13-8880-443f-8099-565aa123ecc0

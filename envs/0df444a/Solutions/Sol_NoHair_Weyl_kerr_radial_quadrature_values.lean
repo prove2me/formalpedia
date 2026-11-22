@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.Weyl.kerr_radial_quadrature_values
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:29:05.750269+00:00
 -- url     : https://prove2.me/submissions/ca77d4cb-4167-451e-81d2-b4bb482f144d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_Weyl_kerr_radial_primitive_derivatives
 import Mathlib.Analysis.SpecialFunctions.ImproperIntegrals

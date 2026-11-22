@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefCols_log_eigenvalue_sum_le_min
 -- name    : Formalism.L2.Indef.IndefCols.log_eigenvalue_sum_le_min
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:02.120982+00:00
 -- url     : https://prove2.me/theorems/047f829f-1936-4f4e-bafd-7f0d4d7db79d

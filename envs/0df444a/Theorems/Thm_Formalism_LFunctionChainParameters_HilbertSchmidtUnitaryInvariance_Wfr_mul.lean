@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_Wfr_mul
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.Wfr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:50:02.46766+00:00
 -- url     : https://prove2.me/theorems/f1513b46-1e4d-45f9-9bf7-e1401c523ae5

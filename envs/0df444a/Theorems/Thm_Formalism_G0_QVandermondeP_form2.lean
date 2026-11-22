@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_QVandermondeP_form2
 -- name    : Formalism.G0.QVandermondeP.form2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:20:24.08247+00:00
 -- url     : https://prove2.me/theorems/5de3ace2-dbe4-4066-a1fb-56a343e9cc61

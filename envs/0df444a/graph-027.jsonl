@@ -60914,7 +60914,7 @@
 {"parent": "PrivInfoHier.Main.eq_B_6_B_7", "child": "PrivInfoHier_Main_Filter", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26CountableEmbeddingExperiment.measurable_truncate", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperiment", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CountableEmbeddingExperiment.measurable_truncate", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperiment_Core", "via": ["solution", "statement"]}
-{"parent": "ExactDFTRefine.Main.proposition_4_2", "child": "ExactDFTRefine_Main_Moments", "via": ["statement"]}
+{"parent": "ExactDFTRefine.Main.proposition_4_2", "child": "ExactDFTRefine_Main_Moments", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalHistoryMarks.mem_aboveMarks", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalHistoryMarks_PhysicalMarks", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CanonicalHistoryMarks.mem_aboveMarks", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_CanonicalHistoryMarks_Snapshots", "via": ["solution", "statement"]}
 {"parent": "ImprovedSteinerForest.Main.lemma_A_1", "child": "ImprovedSteinerForest_Main_Encoding", "via": ["statement"]}
@@ -74197,7 +74197,7 @@
 {"parent": "QuantumSymmetryBreaking.CycleColoring.lemma_5_11", "child": "FourierRankQLB_haarO", "via": ["statement"]}
 {"parent": "QuantumSymmetryBreaking.CycleColoring.lemma_5_11", "child": "FourierRankQLB_Od", "via": ["statement"]}
 {"parent": "RoundedPotentials.Main.lemma_3_2", "child": "RoundedPotentials_Main_Certificate", "via": ["statement"]}
-{"parent": "ExactDFTRefine.Main.lemma_4_1", "child": "ExactDFTRefine_Main_Moments", "via": ["statement"]}
+{"parent": "ExactDFTRefine.Main.lemma_4_1", "child": "ExactDFTRefine_Main_Moments", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.actual_emitted_embedding_rows", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_RandomizedEmbeddingStep", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.actual_emitted_embedding_rows", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ExpectedOperationCost", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_22_7_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}

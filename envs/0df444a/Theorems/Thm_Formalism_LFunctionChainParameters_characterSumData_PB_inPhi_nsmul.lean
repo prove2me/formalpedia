@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_inPhi_nsmul
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.inPhi_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:48:47.316626+00:00
 -- url     : https://prove2.me/theorems/80247edc-0514-47ec-8eed-c5d91a80c03b

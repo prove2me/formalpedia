@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_regional_template_volume
 -- name    : StableMSR.Recovery.WindowJoins.regional_template_volume
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:41:13.582252+00:00
 -- url     : https://prove2.me/theorems/1617ad2c-d0ff-4355-897a-d8c7b62f283f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_D_pos
 -- name    : Formalism.L2.Indef.IndefRows.D_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:23.102193+00:00
 -- url     : https://prove2.me/theorems/f72720ab-c3c6-4714-b355-8eb70dd43c32

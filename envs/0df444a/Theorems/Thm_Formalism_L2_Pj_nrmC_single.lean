@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_nrmC_single
 -- name    : Formalism.L2.Pj.nrmC_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:52.881826+00:00
 -- url     : https://prove2.me/theorems/cd7a6037-7aa2-48eb-b255-efad655d4435

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_clocked_row_iteration
 -- name    : StableMSR.Recovery.WindowJoins.clocked_row_iteration
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:37:52.397284+00:00
 -- url     : https://prove2.me/theorems/34e95c8c-579f-489d-9843-ed13f75d541c

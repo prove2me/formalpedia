@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_TwoCentre_Model_stationary_geometry
 -- name    : NoHair.TwoCentre.Model.stationary_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:51:13.735844+00:00
 -- url     : https://prove2.me/theorems/88e17b35-990e-49b3-afed-000cfea2f033

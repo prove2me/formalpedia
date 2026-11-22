@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_TwoCentre_Model_chronological_access
 -- name    : NoHair.TwoCentre.Model.chronological_access
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:51:25.549157+00:00
 -- url     : https://prove2.me/theorems/9d8c742c-cca2-40b7-9494-d28eb92aa057

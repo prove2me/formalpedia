@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_TwoCentre_Model_advanced_exterior_equations
 -- name    : NoHair.TwoCentre.Model.advanced_exterior_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:13:50.684278+00:00
 -- url     : https://prove2.me/theorems/6a21cfbc-d526-4b53-80c8-a7399ba9d3d6

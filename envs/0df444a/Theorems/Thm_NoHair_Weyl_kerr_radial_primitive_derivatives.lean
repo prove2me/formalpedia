@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_radial_primitive_derivatives
 -- name    : NoHair.Weyl.kerr_radial_primitive_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:24:02.150303+00:00
 -- url     : https://prove2.me/theorems/bd3adc34-f397-4a2b-993f-dcdcb9f9a914

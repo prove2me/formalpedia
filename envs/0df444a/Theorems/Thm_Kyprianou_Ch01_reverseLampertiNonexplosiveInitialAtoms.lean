@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiNonexplosiveInitialAtoms
 -- name    : Kyprianou.Ch01.reverseLampertiNonexplosiveInitialAtoms
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:52:20.852912+00:00
 -- url     : https://prove2.me/theorems/6600b9f2-8246-40a4-8b22-81afa12bd113

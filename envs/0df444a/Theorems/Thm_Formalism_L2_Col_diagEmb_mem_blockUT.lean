@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_diagEmb_mem_blockUT
 -- name    : Formalism.L2.Col.diagEmb_mem_blockUT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:39:23.916781+00:00
 -- url     : https://prove2.me/theorems/3997f73e-9aaf-4925-8392-f91eb179e36a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_append_disjoint_owned_covers
 -- name    : StableMSR.Recovery.WindowJoins.append_disjoint_owned_covers
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:41:13.689808+00:00
 -- url     : https://prove2.me/theorems/2b6348db-e880-40c9-bcfc-8aab32e4a11d

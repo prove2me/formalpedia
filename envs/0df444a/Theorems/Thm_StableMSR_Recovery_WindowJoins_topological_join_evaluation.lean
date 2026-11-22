@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_topological_join_evaluation
 -- name    : StableMSR.Recovery.WindowJoins.topological_join_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:37:54.45868+00:00
 -- url     : https://prove2.me/theorems/2779cbfd-083f-4877-9cdb-dbf3abf86524

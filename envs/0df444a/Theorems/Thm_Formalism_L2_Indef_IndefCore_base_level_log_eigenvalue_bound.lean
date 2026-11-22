@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefCore_base_level_log_eigenvalue_bound
 -- name    : Formalism.L2.Indef.IndefCore.base_level_log_eigenvalue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:09.608788+00:00
 -- url     : https://prove2.me/theorems/db770c20-dd05-4b65-ad43-10d762281951

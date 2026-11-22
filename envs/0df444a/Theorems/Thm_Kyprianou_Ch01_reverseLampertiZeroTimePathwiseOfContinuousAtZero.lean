@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiZeroTimePathwiseOfContinuousAtZero
 -- name    : Kyprianou.Ch01.reverseLampertiZeroTimePathwiseOfContinuousAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:38:37.376105+00:00
 -- url     : https://prove2.me/theorems/87b14b80-3020-4438-9015-747d7444a3c7

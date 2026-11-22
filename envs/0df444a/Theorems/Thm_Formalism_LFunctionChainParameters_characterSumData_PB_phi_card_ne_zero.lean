@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_phi_card_ne_zero
+-- name    : Formalism.LFunctionChainParameters.characterSumData.PB.phi_card_ne_zero
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-22T22:57:00.487645+00:00
+-- url     : https://prove2.me/theorems/f959cf63-516f-4e3a-af9a-3d84922907bc
+-- title:
+--   PB: phi card ne zero
+-- statement:
+--   The PB construction uses the phi card ne zero property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SizeWindowBrackets/ChainSlopeWindows/StronglyIrreducible.lean#L131-L134
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SizeWindowBrackets/ChainSlopeWindows/StronglyIrreducible.lean#L131-L134
+
+import Definitions.Def_Formalism_SizeWindowBrackets_FirstPrimeNeSecondPrime
+import Definitions.Def_Formalism_ThickAverageLoss_ThickAverageProofs_Balance
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_StronglyIrreducible
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset ArithmeticFunction
+noncomputable section
+open Formalism Formalism.LFunctionChainParameters Formalism.LFunctionChainParameters.characterSumData
+open Formalism Formalism.D5
+open Formalism.LFunctionChainParameters.characterSumData.PB
+variable {H : Type} [AddCommGroup H] [Fintype H] [DecidableEq H]
+
+theorem Formalism.LFunctionChainParameters.characterSumData.PB.phi_card_ne_zero : ((PhiSet (H := H)).card : ℂ) ≠ 0 := by sorry

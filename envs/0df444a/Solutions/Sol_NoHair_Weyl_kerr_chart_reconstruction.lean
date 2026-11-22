@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.Weyl.kerr_chart_reconstruction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:19:05.117802+00:00
 -- url     : https://prove2.me/submissions/973d47b4-7240-410b-87a2-7670b436a22a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NoHair_KerrNewmanEinstein_Atoms
 import Theorems.Thm_NoHair_Weyl_kerr_radial_quadrature_values

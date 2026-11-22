@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_twisted_finite
 -- name    : Formalism.L2.Indef.twisted_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:18.286976+00:00
 -- url     : https://prove2.me/theorems/ed359dca-e485-43d0-9389-76bd5cfa66e4

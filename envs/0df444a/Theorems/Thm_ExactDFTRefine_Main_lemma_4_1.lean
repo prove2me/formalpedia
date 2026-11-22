@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactDFTRefine_Main_lemma_4_1
 -- name    : ExactDFTRefine.Main.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:01:49.794038+00:00
 -- url     : https://prove2.me/theorems/9ed92e5c-ff5b-4248-b39e-5f6bc60bb8be

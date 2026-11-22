@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_uniUT_eq_HPar
 -- name    : Formalism.L2.Col.uniUT_eq_HPar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:47:12.9302+00:00
 -- url     : https://prove2.me/theorems/aa146edf-81b2-4023-b443-04e9caab912e

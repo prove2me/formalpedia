@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_ycondC_keep
 -- name    : Formalism.InvariantFactorPaths.L4.ycondC_keep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:44:20.961838+00:00
 -- url     : https://prove2.me/theorems/e92c339a-e872-44d6-b4c5-2af582410569

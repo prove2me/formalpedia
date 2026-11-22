@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefCore_fun1
 -- name    : Formalism.L2.Indef.IndefCore.fun1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:22.669468+00:00
 -- url     : https://prove2.me/theorems/fd666a23-4f88-417a-a386-58103e148a4e

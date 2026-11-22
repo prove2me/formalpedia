@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_ipOf_indep
 -- name    : Formalism.L2.Col.GSD.ipOf_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:05:35.604809+00:00
 -- url     : https://prove2.me/theorems/c08f5c88-b246-4fba-a044-4d73d2af61bc

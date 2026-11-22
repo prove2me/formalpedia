@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_map_iSup_top
 -- name    : Formalism.L2.Indef.map_iSup_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:14.216796+00:00
 -- url     : https://prove2.me/theorems/82072364-8da7-499d-9fdd-62d24dffbc8e

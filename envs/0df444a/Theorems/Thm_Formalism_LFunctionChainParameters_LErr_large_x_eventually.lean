@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_large_x_eventually
 -- name    : Formalism.LFunctionChainParameters.LErr.large_x_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:38.225112+00:00
 -- url     : https://prove2.me/theorems/9412dadc-8a97-4391-98f2-2b0b8f7cf3aa

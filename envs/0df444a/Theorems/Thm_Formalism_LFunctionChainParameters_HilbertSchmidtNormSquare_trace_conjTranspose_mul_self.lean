@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_trace_conjTranspose_mul_self
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.trace_conjTranspose_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:30.671823+00:00
 -- url     : https://prove2.me/theorems/47f44d6c-9489-437b-ad25-8ea19e71b754

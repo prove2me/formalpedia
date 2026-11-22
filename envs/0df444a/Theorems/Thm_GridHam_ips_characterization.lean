@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_ips_characterization
 -- name    : GridHam.ips_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:44:49.044258+00:00
 -- url     : https://prove2.me/theorems/21f1eab5-9055-4aa0-9518-c630a1dc9912

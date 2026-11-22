@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_TwoCentre_Model_electrovac_in_advanced_atlas
 -- name    : NoHair.TwoCentre.Model.electrovac_in_advanced_atlas
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:51:54.564048+00:00
 -- url     : https://prove2.me/theorems/9c6e4313-c4c5-4c07-9904-f98092a7e763

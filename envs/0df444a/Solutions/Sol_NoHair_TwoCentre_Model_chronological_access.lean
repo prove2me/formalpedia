@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.TwoCentre.Model.chronological_access
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:08:02.910811+00:00
 -- url     : https://prove2.me/submissions/f56c4b3f-83cd-40f6-b63b-794c91c91924
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_TwoCentre_Cartesian_exterior_and_frontier
 import Theorems.Thm_NoHair_TwoCentre_isotropic_electrovac_and_decay

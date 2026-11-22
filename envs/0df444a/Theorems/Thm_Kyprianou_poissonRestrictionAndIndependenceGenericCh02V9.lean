@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_poissonRestrictionAndIndependenceGenericCh02V9
 -- name    : Kyprianou.poissonRestrictionAndIndependenceGenericCh02V9
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-17T12:48:01.469876+00:00
 -- url     : https://prove2.me/theorems/eeb93d23-7cff-49d0-951c-1e4bebff0a68

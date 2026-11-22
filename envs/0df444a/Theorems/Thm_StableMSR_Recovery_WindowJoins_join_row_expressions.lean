@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_join_row_expressions
 -- name    : StableMSR.Recovery.WindowJoins.join_row_expressions
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:37:50.074407+00:00
 -- url     : https://prove2.me/theorems/9ed50c28-94ec-4091-8afd-b1c437a071dd

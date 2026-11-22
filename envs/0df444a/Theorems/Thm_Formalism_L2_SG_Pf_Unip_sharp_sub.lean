@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_sharp_sub
 -- name    : Formalism.L2.SG.Pf.Unip.sharp_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:11.786174+00:00
 -- url     : https://prove2.me/theorems/44256e39-6920-4314-b1ec-5dc0a462c2fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_Model_fM_pos
 -- name    : Formalism.LFunctionChainParameters.LChain.Model.fM_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:49:49.498768+00:00
 -- url     : https://prove2.me/theorems/8fa6fef5-bfd5-4378-9bf7-caeac19bc9c9

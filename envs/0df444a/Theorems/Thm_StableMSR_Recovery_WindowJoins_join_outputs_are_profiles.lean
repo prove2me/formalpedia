@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_join_outputs_are_profiles
 -- name    : StableMSR.Recovery.WindowJoins.join_outputs_are_profiles
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:38:03.164064+00:00
 -- url     : https://prove2.me/theorems/c4704786-3f05-4afc-95cf-c15ecba763d7

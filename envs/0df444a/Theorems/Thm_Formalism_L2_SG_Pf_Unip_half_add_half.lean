@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_half_add_half
 -- name    : Formalism.L2.SG.Pf.Unip.half_add_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:51.503477+00:00
 -- url     : https://prove2.me/theorems/cea9fd76-37e5-47ab-a092-b5916ce437c9

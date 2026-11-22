@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_schwarzschild_trapped_shell_not_exterior
 -- name    : NoHair.schwarzschild_trapped_shell_not_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:44:41.405807+00:00
 -- url     : https://prove2.me/theorems/bdb530c8-38ea-4529-9bda-e87f9f495f18

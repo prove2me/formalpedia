@@ -67642,8 +67642,8 @@
 {"parent": "OAI.UniversalTensorSquare.sg42920", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33712", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg33191", "child": "OAIQ259US007", "via": ["statement"]}
-{"parent": "RestrictedAP.Counting.lemma_5_27_uniform", "child": "RestrictedAP_Counting_Resilience", "via": ["statement"]}
-{"parent": "RestrictedAP.Counting.lemma_5_27_uniform", "child": "RestrictedAP_Counting_Distributions", "via": ["statement"]}
+{"parent": "RestrictedAP.Counting.lemma_5_27_uniform", "child": "RestrictedAP_Counting_Resilience", "via": ["solution", "statement"]}
+{"parent": "RestrictedAP.Counting.lemma_5_27_uniform", "child": "RestrictedAP_Counting_Distributions", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg37484", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.AtomicTriangular.FiniteCertificate.tw1_0_3_11_calc_x", "child": "OAIQ257X025", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg28053", "child": "OAIQ259US007", "via": ["solution", "statement"]}

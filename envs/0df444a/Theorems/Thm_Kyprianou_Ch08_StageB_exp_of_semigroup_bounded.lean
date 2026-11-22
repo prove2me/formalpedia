@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_exp_of_semigroup_bounded
 -- name    : Kyprianou.Ch08.StageB.exp_of_semigroup_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T20:35:56.800778+00:00
 -- url     : https://prove2.me/theorems/2a006b93-0e73-4775-9e2e-d831183699ec

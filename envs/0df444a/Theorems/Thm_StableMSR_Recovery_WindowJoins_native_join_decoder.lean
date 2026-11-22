@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_WindowJoins_native_join_decoder
 -- name    : StableMSR.Recovery.WindowJoins.native_join_decoder
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-22T22:37:54.608801+00:00
 -- url     : https://prove2.me/theorems/dff4ad22-83e0-44e3-bd3c-17b8dd3a8894

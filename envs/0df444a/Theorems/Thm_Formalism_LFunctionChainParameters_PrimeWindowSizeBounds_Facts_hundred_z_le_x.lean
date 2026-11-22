@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_Facts_hundred_z_le_x
+-- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.Facts.hundred_z_le_x
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-22T22:51:22.018812+00:00
+-- url     : https://prove2.me/theorems/e0c74c32-0b54-49be-9d1d-679480ed9521
+-- title:
+--   Facts: hundred z le x
+-- statement:
+--   The Facts construction uses the hundred z le x property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SizeWindowBrackets/ChainSlopeWindows/OneLeThresholdMulPowers.lean#L246-L253
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SizeWindowBrackets/ChainSlopeWindows/OneLeThresholdMulPowers.lean#L246-L253
+
+import Definitions.Def_Formalism_SizeWindowBrackets_WindowSettingSatisfiable
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_AdmissibleSchurLemma
+import Definitions.Def_Formalism_SizeWindowBrackets_ChainSlopeWindows_OneLeThresholdMulPowers
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LFunctionChainParameters Formalism.LFunctionChainParameters.PrimeWindowSizeBounds
+open Finset Classical
+open Formalism.LFunctionChainParameters.DeficitSplitLemmas Formalism.LFunctionChainParameters.LErr
+open Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.Facts
+variable {P : Par} {e K z u E X S sb v w8 : ℝ} (F : Facts P e K z u E X S sb v w8)
+include F
+
+theorem Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.Facts.hundred_z_le_x : 100 * z ≤ P.x := by sorry

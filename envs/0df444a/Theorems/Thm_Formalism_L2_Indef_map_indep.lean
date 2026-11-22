@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_map_indep
 -- name    : Formalism.L2.Indef.map_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:48:57.709608+00:00
 -- url     : https://prove2.me/theorems/4a94149f-5d14-48f0-8123-2ba93e622d63
