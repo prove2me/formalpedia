@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_gramSchmidt_le
 -- name    : Formalism.HermitianLatticeCounting.P.norm_gramSchmidt_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:28.251858+00:00
 -- url     : https://prove2.me/theorems/29a639fe-47b6-4374-852f-37e7ddb9d083

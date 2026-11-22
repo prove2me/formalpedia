@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_mem_primeShapes_of
 -- name    : GridHam.mem_primeShapes_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:04:13.569288+00:00
 -- url     : https://prove2.me/theorems/51d2f646-65e5-40ae-bf7d-a98c53ef8711

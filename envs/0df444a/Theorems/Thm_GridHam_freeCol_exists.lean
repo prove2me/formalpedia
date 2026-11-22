@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_freeCol_exists
 -- name    : GridHam.freeCol_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:15:53.208928+00:00
 -- url     : https://prove2.me/theorems/3621e585-b160-4dee-a703-61e30cfad558

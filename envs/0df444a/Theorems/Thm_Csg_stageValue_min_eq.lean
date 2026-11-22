@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_stageValue_min_eq
 -- name    : Csg.stageValue_min_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:00:33.642794+00:00
 -- url     : https://prove2.me/theorems/c4b77a4a-8313-4567-9240-8777eebd6719

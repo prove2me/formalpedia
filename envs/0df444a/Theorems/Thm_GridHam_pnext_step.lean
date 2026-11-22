@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_pnext_step
 -- name    : GridHam.pnext_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:04.219212+00:00
 -- url     : https://prove2.me/theorems/72bf4b6b-76b8-457c-88c2-9346e8fb421f

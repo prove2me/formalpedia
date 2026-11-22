@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_norm_l_pos
 -- name    : Formalism.DworkPowerSeriesWeights.norm_l_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:44.226927+00:00
 -- url     : https://prove2.me/theorems/ba3073da-962b-42a0-b9c4-0386440227a5

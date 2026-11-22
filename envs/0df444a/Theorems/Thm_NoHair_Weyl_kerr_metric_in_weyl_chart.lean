@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_metric_in_weyl_chart
 -- name    : NoHair.Weyl.kerr_metric_in_weyl_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:20:43.230574+00:00
 -- url     : https://prove2.me/theorems/37aec783-48b2-49ba-b610-a5a57d59fb11

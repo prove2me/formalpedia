@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_f2_width2_no_path
 -- name    : GridHam.f2_width2_no_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:12:53.679414+00:00
 -- url     : https://prove2.me/theorems/3825bab2-2565-495a-a208-c67002d27c66

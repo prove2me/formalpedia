@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_mem_stdSimplex_of_isStratQ
 -- name    : Comp.mem_stdSimplex_of_isStratQ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:32.689834+00:00
 -- url     : https://prove2.me/theorems/1b1ae72d-bd3a-43c9-a177-3f545e3664fa

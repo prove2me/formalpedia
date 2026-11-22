@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_abs_value_sub_le
 -- name    : Csg.MatrixGame.abs_value_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:45:55.622143+00:00
 -- url     : https://prove2.me/theorems/2e06c912-a359-4389-9391-236b4070b644

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_step_normalized
 -- name    : GridHam.step_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:16:10.388436+00:00
 -- url     : https://prove2.me/theorems/a2cb03c3-6ae5-4b7b-9271-4d0d3ea39452

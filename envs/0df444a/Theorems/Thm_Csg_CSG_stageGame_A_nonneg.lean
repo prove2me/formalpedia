@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageGame_A_nonneg
 -- name    : Csg.CSG.stageGame_A_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:46.752582+00:00
 -- url     : https://prove2.me/theorems/2c6c4a25-4a44-44f9-8d89-12a11f2ddc4e

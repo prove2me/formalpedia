@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_b1_no_path__4d6679970d5b
 -- name    : P2M_GridHam_b1_no_path__4d6679970d5b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:00.307709+00:00
 -- url     : https://prove2.me/theorems/84cd92e4-7391-4add-85d5-9fec644be5db

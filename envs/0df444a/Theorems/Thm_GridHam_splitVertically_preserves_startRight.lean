@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_splitVertically_preserves_startRight
 -- name    : GridHam.splitVertically_preserves_startRight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:24:37.401931+00:00
 -- url     : https://prove2.me/theorems/c37a63da-10b2-4b0b-abe7-837f3dc4ec55

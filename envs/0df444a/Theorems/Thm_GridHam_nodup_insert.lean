@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_nodup_insert
 -- name    : GridHam.nodup_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:57:50.326827+00:00
 -- url     : https://prove2.me/theorems/877eeb75-5817-40b7-911b-8202a13f39fe

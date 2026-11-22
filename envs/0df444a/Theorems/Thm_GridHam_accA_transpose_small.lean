@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_accA_transpose_small
 -- name    : GridHam.accA_transpose_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:04:39.750832+00:00
 -- url     : https://prove2.me/theorems/358fed7e-f6f6-4317-a2e9-0be9fa6ccc2a

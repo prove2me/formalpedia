@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_f2_height2_no_path
 -- name    : GridHam.f2_height2_no_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:13:21.232806+00:00
 -- url     : https://prove2.me/theorems/8545b45b-42a1-4fc7-a664-a9b2e667a262

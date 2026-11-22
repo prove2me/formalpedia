@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodMaxInvLeSq
 -- name    : Formalism.HermitianLatticeCounting.P.prodMaxInvLeSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:39.852497+00:00
 -- url     : https://prove2.me/theorems/3420e257-2af2-4338-9af6-fb8e4d71cf0b

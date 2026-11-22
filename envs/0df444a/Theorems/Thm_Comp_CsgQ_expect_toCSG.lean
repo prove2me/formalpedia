@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_expect_toCSG
 -- name    : Comp.CsgQ.expect_toCSG
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:54:24.456969+00:00
 -- url     : https://prove2.me/theorems/eba3eb27-26a7-419c-a8cd-b61f87bc8b65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_weyl_coefficient_identity
 -- name    : NoHair.Weyl.kerr_weyl_coefficient_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:14:43.263622+00:00
 -- url     : https://prove2.me/theorems/f71dd223-45ec-4af4-a6b2-a8f3dd09f5a5

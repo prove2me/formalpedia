@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_expect_le_add_of_forall_le
 -- name    : Csg.CSG.expect_le_add_of_forall_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:49.378689+00:00
 -- url     : https://prove2.me/theorems/5357637a-88f3-4207-af59-9e0520f02d11

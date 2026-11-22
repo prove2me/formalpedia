@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_lsv_original_prepost_gradient_domination_given_rightpost_band
 -- name    : AvramDividend.Classical.avram_lsv_original_prepost_gradient_domination_given_rightpost_band
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:57:21.443912+00:00
 -- url     : https://prove2.me/theorems/c970e207-2997-4463-b217-ff1138809ede

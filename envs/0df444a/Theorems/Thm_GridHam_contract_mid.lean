@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_contract_mid
 -- name    : GridHam.contract_mid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:10:51.515799+00:00
 -- url     : https://prove2.me/theorems/a13eb2ee-a1d9-4530-aa63-a3cfe5631b21

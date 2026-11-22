@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chain_detour
 -- name    : GridHam.chain_detour
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:59:19.810934+00:00
 -- url     : https://prove2.me/theorems/41911c5c-a3a2-4269-be63-dc517c83cb61

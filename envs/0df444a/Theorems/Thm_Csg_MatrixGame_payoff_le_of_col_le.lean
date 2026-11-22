@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_payoff_le_of_col_le
 -- name    : Csg.MatrixGame.payoff_le_of_col_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:04.316346+00:00
 -- url     : https://prove2.me/theorems/e0ca286b-442f-4fee-b820-ed9849cee263

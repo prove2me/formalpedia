@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelafC_mem
 -- name    : Formalism.UG.P.levelafC_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:31:49.608084+00:00
 -- url     : https://prove2.me/theorems/c8e60513-2ae0-445d-a0d8-a82617c0569b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_log_l_value_field_bound
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.log_l_value_field_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:41.606721+00:00
 -- url     : https://prove2.me/theorems/47d66a9c-6df7-41d9-9f33-071299055a2b

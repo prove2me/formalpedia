@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PolygonExample_discrete_of_le
 -- name    : Formalism.HN.PolygonExample.discrete_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:07:42.147833+00:00
 -- url     : https://prove2.me/theorems/d6e474dd-f5e5-41dc-b56e-8efb803e2cfb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_hasHamPath_flipY
 -- name    : GridHam.hasHamPath_flipY
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:07:54.651278+00:00
 -- url     : https://prove2.me/theorems/d0a25fb9-7cad-4b6b-aefd-26b1156ce373

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_trace_eq
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:44.985512+00:00
 -- url     : https://prove2.me/theorems/2e31a5f2-f194-4976-b0db-9b8587f6b420

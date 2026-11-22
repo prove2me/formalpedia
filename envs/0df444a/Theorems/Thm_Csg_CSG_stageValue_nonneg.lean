@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageValue_nonneg
 -- name    : Csg.CSG.stageValue_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:43:53.259055+00:00
 -- url     : https://prove2.me/theorems/43934d40-bb5e-4b66-bf35-36b667f830d7

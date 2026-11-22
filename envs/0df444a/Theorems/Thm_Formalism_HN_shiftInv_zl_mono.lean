@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_shiftInv_zl_mono
 -- name    : Formalism.HN.shiftInv_zl_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:49.520809+00:00
 -- url     : https://prove2.me/theorems/888365f8-e138-494d-8d74-6e57b3185247

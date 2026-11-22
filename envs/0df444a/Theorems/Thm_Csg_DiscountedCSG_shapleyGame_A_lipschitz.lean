@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_shapleyGame_A_lipschitz
 -- name    : Csg.DiscountedCSG.shapleyGame_A_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:08:48.425389+00:00
 -- url     : https://prove2.me/theorems/02522f5b-6c40-4a7e-9b8f-d8ef663ff7df

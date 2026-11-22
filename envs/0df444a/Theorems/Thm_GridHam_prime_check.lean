@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_prime_check
 -- name    : GridHam.prime_check
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:00:54.983701+00:00
 -- url     : https://prove2.me/theorems/c5171951-f1d4-4788-8e1d-6d9c3ae87f0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_coe_fixAux_le_lfp
 -- name    : Comp.coe_fixAux_le_lfp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:11:38.882433+00:00
 -- url     : https://prove2.me/theorems/fc1c709c-f8f9-4d9a-8426-b31c33d0b1b6

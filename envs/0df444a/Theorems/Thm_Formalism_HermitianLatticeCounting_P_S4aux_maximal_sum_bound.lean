@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_maximal_sum_bound
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.maximal_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:10.643824+00:00
 -- url     : https://prove2.me/theorems/c058ebcf-36c0-4d19-8060-cbedfbd015b2

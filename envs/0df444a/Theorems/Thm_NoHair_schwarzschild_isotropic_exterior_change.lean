@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_schwarzschild_isotropic_exterior_change
 -- name    : NoHair.schwarzschild_isotropic_exterior_change
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:27:47.284051+00:00
 -- url     : https://prove2.me/theorems/71beb92f-222b-4364-9976-00b341bbbbd2

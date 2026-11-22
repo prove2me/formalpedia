@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_fockK_smul_right
 -- name    : Formalism.GM.ProjS.fockK_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:33:44.442807+00:00
 -- url     : https://prove2.me/theorems/12a76f0e-4e58-4a8a-9c3f-433db3dc6105

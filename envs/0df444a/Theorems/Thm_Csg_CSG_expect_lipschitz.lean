@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_expect_lipschitz
 -- name    : Csg.CSG.expect_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:53:56.437345+00:00
 -- url     : https://prove2.me/theorems/e61f9bee-2ad9-4dd5-98f4-1a928580e730

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_value_mono
 -- name    : Csg.MatrixGame.value_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:53:06.976796+00:00
 -- url     : https://prove2.me/theorems/e609b09d-5bfa-4f43-a1c7-9689ca6370fb

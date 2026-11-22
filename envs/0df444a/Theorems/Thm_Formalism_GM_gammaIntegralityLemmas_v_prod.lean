@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_v_prod
 -- name    : Formalism.GM.gammaIntegralityLemmas.v_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:36:09.740599+00:00
 -- url     : https://prove2.me/theorems/f9c96f1b-68d9-4a05-97f0-a530bcedf1af

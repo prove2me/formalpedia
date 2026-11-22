@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_MatrixGameQ_toBimatrixQ_rowPayoff
 -- name    : Comp.MatrixGameQ.toBimatrixQ_rowPayoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:54.012968+00:00
 -- url     : https://prove2.me/theorems/0a5ce600-1fe2-4a77-8283-4515b03c97d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_normalized_charts_cover
 -- name    : NoHair.Weyl.kerr_normalized_charts_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:16:07.070934+00:00
 -- url     : https://prove2.me/theorems/14557211-8ec0-40a5-b693-4b2d16f2e700

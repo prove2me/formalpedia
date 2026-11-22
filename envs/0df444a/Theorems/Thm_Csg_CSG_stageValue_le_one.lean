@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageValue_le_one
 -- name    : Csg.CSG.stageValue_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:42:56.698184+00:00
 -- url     : https://prove2.me/theorems/c7c652a6-102c-4459-8f07-976deaa0363b

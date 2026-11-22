@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_stripLeft_preserves
 -- name    : GridHam.stripLeft_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:43:46.356288+00:00
 -- url     : https://prove2.me/theorems/8984cada-57d2-4d33-8914-f50716f7c3d7

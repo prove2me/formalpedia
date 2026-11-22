@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_rightDetour_length
 -- name    : GridHam.rightDetour_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:58:17.902491+00:00
 -- url     : https://prove2.me/theorems/94561303-0d2d-4b18-98c5-d6f984237e6d

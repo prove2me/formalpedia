@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_exists_basis_in
 -- name    : Formalism.HN.DualPolygon.exists_basis_in
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:25.65589+00:00
 -- url     : https://prove2.me/theorems/cc4a0672-89b6-44b8-b2a3-adfb220ebf20

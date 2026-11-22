@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_LeadAt_prod
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.LeadAt.prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:07:32.937959+00:00
 -- url     : https://prove2.me/theorems/5db5f45b-948e-45fb-b5ff-9ba559de11e2

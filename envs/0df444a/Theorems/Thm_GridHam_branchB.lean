@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_branchB
 -- name    : GridHam.branchB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:12.146801+00:00
 -- url     : https://prove2.me/theorems/f879b4cd-5b2c-4768-9c49-db8784b70801

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_expect_le_one
 -- name    : Csg.CSG.expect_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:36.348952+00:00
 -- url     : https://prove2.me/theorems/687735a3-a7c3-4f68-9668-40c6a3cbf24c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for NoHair.Weyl.kerr_chart_reconstruction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:26:24.398587+00:00
 -- url     : https://prove2.me/submissions/8448ea1f-2b28-48c6-9ddd-85251079575c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NoHair_kerrNewman
 import Theorems.Thm_NoHair_Weyl_kerr_radial_quadratures

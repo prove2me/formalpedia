@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_MatrixGameQ_value_eq_of_valueCert
 -- name    : Comp.MatrixGameQ.value_eq_of_valueCert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:44:13.230082+00:00
 -- url     : https://prove2.me/theorems/e0be48d4-8434-4801-9fa1-45df20449f34

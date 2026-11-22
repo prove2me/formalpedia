@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chain_parity_alternates
 -- name    : GridHam.chain_parity_alternates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:16:55.917237+00:00
 -- url     : https://prove2.me/theorems/8f7c1b81-0898-4781-adf8-4050ccd71ad6

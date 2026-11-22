@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_local_weyl_coordinates
 -- name    : NoHair.Weyl.kerr_local_weyl_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T22:14:42.278326+00:00
 -- url     : https://prove2.me/theorems/c44b2edd-b176-429b-9e42-5b571002be21

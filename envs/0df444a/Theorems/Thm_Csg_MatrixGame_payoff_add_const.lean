@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_payoff_add_const
 -- name    : Csg.MatrixGame.payoff_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:03:14.660097+00:00
 -- url     : https://prove2.me/theorems/c279fae4-285f-4386-b2b5-fbbec9ab7201

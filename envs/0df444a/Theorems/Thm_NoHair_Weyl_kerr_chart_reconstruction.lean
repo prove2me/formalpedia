@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_chart_reconstruction
 -- name    : NoHair.Weyl.kerr_chart_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:28:09.031786+00:00
 -- url     : https://prove2.me/theorems/1c5aac89-08f7-48c5-bdf9-3f38f9602c25

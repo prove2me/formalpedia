@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageGame_A_lipschitz
 -- name    : Csg.CSG.stageGame_A_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:55.722331+00:00
 -- url     : https://prove2.me/theorems/08f9549c-c30e-4d47-817a-b4a56f88fb2d

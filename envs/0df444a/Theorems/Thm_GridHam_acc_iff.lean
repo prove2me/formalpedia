@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_acc_iff
 -- name    : GridHam.acc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:33:04.938829+00:00
 -- url     : https://prove2.me/theorems/81d24a83-4570-48ca-ab49-3a09cd6db267

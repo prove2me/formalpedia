@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_value_add_const
 -- name    : Csg.MatrixGame.value_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:53:34.105971+00:00
 -- url     : https://prove2.me/theorems/5eecaeb8-81c5-4099-8d6c-ab01b645363f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_DiscountedCsgQ_shapleyGameQ_value
 -- name    : Comp.DiscountedCsgQ.shapleyGameQ_value
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:54:36.688815+00:00
 -- url     : https://prove2.me/theorems/727f09d5-b0d4-4641-b0b0-13bf656fbf26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_y_facts
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.y_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:06.08528+00:00
 -- url     : https://prove2.me/theorems/0e3f97e6-daba-4184-b817-c8a0d6cc6f82

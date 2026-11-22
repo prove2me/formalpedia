@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gg_index_eq
 -- name    : Formalism.HermitianLatticeCounting.P.gg_index_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:33.666716+00:00
 -- url     : https://prove2.me/theorems/64dd420d-626f-468e-832b-41a15978b21c

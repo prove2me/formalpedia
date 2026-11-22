@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_extend_right_up
 -- name    : GridHam.extend_right_up
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:00:22.563324+00:00
 -- url     : https://prove2.me/theorems/41dd1e05-ec24-4246-a4ca-825df1194b1f

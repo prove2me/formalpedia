@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageGame_A_mono
 -- name    : Csg.CSG.stageGame_A_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:34.846486+00:00
 -- url     : https://prove2.me/theorems/9d203d5f-e907-4b8c-b0cf-4e8d8661123d

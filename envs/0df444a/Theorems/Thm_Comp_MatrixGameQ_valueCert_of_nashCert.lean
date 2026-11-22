@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_MatrixGameQ_valueCert_of_nashCert
 -- name    : Comp.MatrixGameQ.valueCert_of_nashCert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:55.652975+00:00
 -- url     : https://prove2.me/theorems/d2b9487d-0e41-49a6-8f1b-a3e3ad573f45

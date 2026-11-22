@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Csg_MatrixGame_mem_stdSimplex_comp__eaf65fcbba18
 -- name    : P2M_Csg_MatrixGame_mem_stdSimplex_comp__eaf65fcbba18
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:04:45.362798+00:00
 -- url     : https://prove2.me/theorems/32a691c4-5018-47ee-9539-aedf48d7d46a

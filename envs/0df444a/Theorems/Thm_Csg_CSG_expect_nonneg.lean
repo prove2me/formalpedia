@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_expect_nonneg
 -- name    : Csg.CSG.expect_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:32.957498+00:00
 -- url     : https://prove2.me/theorems/f31cbc14-8f75-40ad-ba38-5235b50fae0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_mem_stripsUp
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.mem_stripsUp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:30:49.969524+00:00
 -- url     : https://prove2.me/theorems/f54377d5-62b3-40da-b361-afde92c1a628

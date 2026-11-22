@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_stripRight_preserves
 -- name    : GridHam.stripRight_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:39:11.658516+00:00
 -- url     : https://prove2.me/theorems/e8667dc3-ac9b-4313-a88c-9abcac906d3e

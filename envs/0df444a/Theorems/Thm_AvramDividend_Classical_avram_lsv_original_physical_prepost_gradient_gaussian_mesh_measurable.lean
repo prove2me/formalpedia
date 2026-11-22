@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_lsv_original_physical_prepost_gradient_gaussian_mesh_measurable
 -- name    : AvramDividend.Classical.avram_lsv_original_physical_prepost_gradient_gaussian_mesh_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:10:15.19501+00:00
 -- url     : https://prove2.me/theorems/8c785e40-0339-4e1f-aa44-13b4de960b45

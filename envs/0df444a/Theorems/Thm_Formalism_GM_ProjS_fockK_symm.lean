@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_fockK_symm
 -- name    : Formalism.GM.ProjS.fockK_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:33:07.829807+00:00
 -- url     : https://prove2.me/theorems/3e68a4df-4550-4eac-89df-72a300039dcb

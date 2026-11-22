@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gb_norm_theta
 -- name    : Formalism.HermitianLatticeCounting.P.gb_norm_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:22.659585+00:00
 -- url     : https://prove2.me/theorems/477ef532-1bb3-46e9-b654-43e4f0c84214

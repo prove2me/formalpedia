@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_prime_solvable
 -- name    : GridHam.prime_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:01:52.504784+00:00
 -- url     : https://prove2.me/theorems/d8ff76e7-219a-4cb0-9596-c0b32941721b

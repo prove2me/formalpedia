@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageValue_mono
 -- name    : Csg.CSG.stageValue_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:42:55.203823+00:00
 -- url     : https://prove2.me/theorems/d5387db4-2b21-46bc-93bc-211e0358f99a

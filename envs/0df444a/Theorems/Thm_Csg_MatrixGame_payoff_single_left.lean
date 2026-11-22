@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_payoff_single_left
 -- name    : Csg.MatrixGame.payoff_single_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:05:11.80431+00:00
 -- url     : https://prove2.me/theorems/99d575fe-c6fc-4b34-8d26-c30e86b1711b

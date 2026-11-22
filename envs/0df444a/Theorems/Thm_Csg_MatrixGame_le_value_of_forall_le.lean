@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_le_value_of_forall_le
 -- name    : Csg.MatrixGame.le_value_of_forall_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:48:29.112156+00:00
 -- url     : https://prove2.me/theorems/0d95c37e-5759-4682-bfb4-429868e308f3

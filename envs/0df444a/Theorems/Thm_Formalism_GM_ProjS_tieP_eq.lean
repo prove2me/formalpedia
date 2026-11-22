@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_tieP_eq
 -- name    : Formalism.GM.ProjS.tieP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:33:31.473783+00:00
 -- url     : https://prove2.me/theorems/05780338-087b-48cd-86a7-4b1b31ae454d

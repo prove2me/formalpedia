@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_polydisc_eq_pi_ball
 -- name    : Formalism.HermitianLatticeCounting.P.polydisc_eq_pi_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:49.371134+00:00
 -- url     : https://prove2.me/theorems/29f6b8bc-47cc-4523-9fc2-0181e6b6e881

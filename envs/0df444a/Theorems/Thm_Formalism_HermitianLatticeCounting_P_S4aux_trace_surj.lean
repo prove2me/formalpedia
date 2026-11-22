@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_trace_surj
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.trace_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:56.206797+00:00
 -- url     : https://prove2.me/theorems/a7a4e6a6-47fc-48e2-9de0-420bc4a6eb64

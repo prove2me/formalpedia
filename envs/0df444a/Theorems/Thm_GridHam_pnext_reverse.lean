@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_pnext_reverse
 -- name    : GridHam.pnext_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:10:09.743146+00:00
 -- url     : https://prove2.me/theorems/17f03942-888e-4de5-8369-8e2c3705372e

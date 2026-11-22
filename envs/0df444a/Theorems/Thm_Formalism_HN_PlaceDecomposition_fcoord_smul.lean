@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_fcoord_smul
 -- name    : Formalism.HN.PlaceDecomposition.fcoord_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:26:37.436494+00:00
 -- url     : https://prove2.me/theorems/e3a52fa8-ce28-4a5e-bffc-bf9762fe3e9f

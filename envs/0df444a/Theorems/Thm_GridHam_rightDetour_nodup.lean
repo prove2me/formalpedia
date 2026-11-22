@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_rightDetour_nodup
 -- name    : GridHam.rightDetour_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:58:17.293802+00:00
 -- url     : https://prove2.me/theorems/5a4d0d5c-e8b5-4ecf-8d70-25331d705da5

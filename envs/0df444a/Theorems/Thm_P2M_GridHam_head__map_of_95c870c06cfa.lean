@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_head__map_of_95c870c06cfa
 -- name    : P2M_GridHam_head__map_of_95c870c06cfa
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:10:30.916058+00:00
 -- url     : https://prove2.me/theorems/5ce90cc5-738f-4569-a1bd-c2aaf8eb1996

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_nodup_remove_mid
 -- name    : GridHam.nodup_remove_mid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:10:05.33714+00:00
 -- url     : https://prove2.me/theorems/6c32c740-6347-46ae-a131-2414a4544341

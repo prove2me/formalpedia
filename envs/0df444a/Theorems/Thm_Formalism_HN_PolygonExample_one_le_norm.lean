@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PolygonExample_one_le_norm
 -- name    : Formalism.HN.PolygonExample.one_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:26:51.92415+00:00
 -- url     : https://prove2.me/theorems/9185e736-be1b-42c0-ae89-1b0391c39c67

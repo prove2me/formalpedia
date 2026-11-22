@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageValue_lipschitz
 -- name    : Csg.CSG.stageValue_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:07:35.351508+00:00
 -- url     : https://prove2.me/theorems/a08a8c09-3cab-407a-9bd6-ca7883833829

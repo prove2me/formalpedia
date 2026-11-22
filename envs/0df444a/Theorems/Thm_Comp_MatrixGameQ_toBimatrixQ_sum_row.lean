@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_MatrixGameQ_toBimatrixQ_sum_row
 -- name    : Comp.MatrixGameQ.toBimatrixQ_sum_row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:42.877565+00:00
 -- url     : https://prove2.me/theorems/deb9658c-2fae-4281-a278-0b4b7ffec239

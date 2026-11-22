@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_value_isGreatest_colLPFeasible
 -- name    : Csg.MatrixGame.value_isGreatest_colLPFeasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:49:25.859045+00:00
 -- url     : https://prove2.me/theorems/d9f637fb-5296-455c-bac5-7de1635a74b4

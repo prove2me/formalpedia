@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_value_relabelRow
 -- name    : Csg.MatrixGame.value_relabelRow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:49:04.189173+00:00
 -- url     : https://prove2.me/theorems/14358780-a47a-4ecd-b032-c0a3b1ea552f

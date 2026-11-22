@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusBasic_gmap_inv
 -- name    : Formalism.HermitianLatticesTheory.genusBasic_gmap_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:17:38.494709+00:00
 -- url     : https://prove2.me/theorems/4ad1378a-a783-48f0-bbaf-1ba22478fb6b

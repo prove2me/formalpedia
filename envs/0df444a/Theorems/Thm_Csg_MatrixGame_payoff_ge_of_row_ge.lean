@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_payoff_ge_of_row_ge
 -- name    : Csg.MatrixGame.payoff_ge_of_row_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:05:36.817328+00:00
 -- url     : https://prove2.me/theorems/182e1d8b-f43c-4322-bde7-bf7935387809

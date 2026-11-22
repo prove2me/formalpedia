@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_tuple_jacobian_alt
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.tuple_jacobian_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:55.138979+00:00
 -- url     : https://prove2.me/theorems/4c34ab7a-9aaa-4b14-91ff-f1924c13c15b

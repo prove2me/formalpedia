@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__placesOf_ram_eq_3d0cf30d488e
 -- name    : P2M_Formalism_BasicNotions_Examples__placesOf_ram_eq_3d0cf30d488e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:25:29.316303+00:00
 -- url     : https://prove2.me/theorems/587819d4-0f8c-4075-8e6d-516e37458317

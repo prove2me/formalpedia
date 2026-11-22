@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_unram_trace
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.unram_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:37:03.083633+00:00
 -- url     : https://prove2.me/theorems/9802ce66-a510-4cd1-bbdd-f02840d2dba0

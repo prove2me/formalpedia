@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_stageValue_max_eq
 -- name    : Csg.stageValue_max_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:01:14.222673+00:00
 -- url     : https://prove2.me/theorems/9fab3c78-b851-4c6d-a913-5d0addfcd9eb

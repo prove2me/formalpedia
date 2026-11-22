@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_volU_pos_minkowski_factorial_bounds
 -- name    : Formalism.HermitianLatticeCounting.P.volU_pos_minkowski_factorial_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:49.384042+00:00
 -- url     : https://prove2.me/theorems/e22f7cd8-e171-4d5e-abfb-a7738891a3b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_DiscountedCSG_shapley_lipschitz
 -- name    : Csg.DiscountedCSG.shapley_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:08:59.866109+00:00
 -- url     : https://prove2.me/theorems/31dcdf79-1176-4aa2-8a8b-6869a7740bd6

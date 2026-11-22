@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_forbiddenCase2_implies_no_path
 -- name    : GridHam.forbiddenCase2_implies_no_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:13:27.991321+00:00
 -- url     : https://prove2.me/theorems/7bfa89fd-298d-43cf-8698-0f7f33be6c64

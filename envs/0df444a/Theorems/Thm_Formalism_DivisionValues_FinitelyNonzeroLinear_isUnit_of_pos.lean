@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_isUnit_of_pos
+-- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.isUnit_of_pos
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-22T22:36:28.443121+00:00
+-- url     : https://prove2.me/theorems/6043b5eb-b7a7-4502-b075-2c13e4b9c4d4
+-- title:
+--   Finitely Nonzero Linear: is Unit of pos
+-- statement:
+--   The Finitely Nonzero Linear construction uses the is Unit of pos property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/QuotientMetricDivisors/HermitianTwistDivisors/CommutingTwist.lean#L276-L283
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/QuotientMetricDivisors/HermitianTwistDivisors/CommutingTwist.lean#L276-L283
+
+import Mathlib
+import Definitions.Def_Formalism_QuotientMetricDivisors_EigenRatHermLcv
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjugateWeightLatticeOfGeneral
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_CommutingTwist
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField IsDedekindDomain
+open scoped Matrix ComplexOrder
+noncomputable section
+open Formalism Formalism.DivisionValues
+open Formalism.DivisionValues.FinitelyNonzeroLinear
+variable {K : Type} [Field K] [NumberField K] [StarRing K]
+
+theorem Formalism.DivisionValues.FinitelyNonzeroLinear.isUnit_of_pos {σ : K →+* ℂ} {n : ℕ}
+    {H : Matrix (Fin n) (Fin n) K} (hpos : (H.map σ).PosDef) : IsUnit H := by sorry

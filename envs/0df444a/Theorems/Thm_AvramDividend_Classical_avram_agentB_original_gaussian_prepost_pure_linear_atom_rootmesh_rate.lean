@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_agentB_original_gaussian_prepost_pure_linear_atom_rootmesh_rate
 -- name    : AvramDividend.Classical.avram_agentB_original_gaussian_prepost_pure_linear_atom_rootmesh_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T16:27:38.05151+00:00
 -- url     : https://prove2.me/theorems/0326fd9f-f3cf-4b47-bee3-36a266d74411

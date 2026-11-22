@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_agentB_original_gaussian_prepost_pure_linear_atom_energy_L1
 -- name    : AvramDividend.Classical.avram_agentB_original_gaussian_prepost_pure_linear_atom_energy_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-20T12:36:01.210188+00:00
 -- url     : https://prove2.me/theorems/ac3c9924-a5b1-47fb-8355-72ca673487bb

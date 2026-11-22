@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s5bCons_zero
 -- name    : Formalism.HermitianLatticeCounting.P.s5bCons_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:38.37305+00:00
 -- url     : https://prove2.me/theorems/12e34e17-b3c4-492b-8f14-be4c88754feb

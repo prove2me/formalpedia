@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_value_isLeast_rowLPFeasible
 -- name    : Csg.MatrixGame.value_isLeast_rowLPFeasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:49:07.903794+00:00
 -- url     : https://prove2.me/theorems/32f3eca6-2e4a-40f9-a394-0d38b0c1c627

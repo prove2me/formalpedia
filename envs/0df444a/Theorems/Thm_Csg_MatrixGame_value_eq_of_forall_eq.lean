@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_value_eq_of_forall_eq
 -- name    : Csg.MatrixGame.value_eq_of_forall_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:50:31.736339+00:00
 -- url     : https://prove2.me/theorems/6929323b-5eeb-4f46-b5e3-bcbcb3cd2697

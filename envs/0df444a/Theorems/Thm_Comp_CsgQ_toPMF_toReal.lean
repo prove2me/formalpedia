@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_CsgQ_toPMF_toReal
 -- name    : Comp.CsgQ.toPMF_toReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:29.246933+00:00
 -- url     : https://prove2.me/theorems/38eeff49-63ab-400a-8237-000187754be8

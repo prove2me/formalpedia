@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_branchC_small
 -- name    : GridHam.branchC_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:04:47.147977+00:00
 -- url     : https://prove2.me/theorems/8f7abb33-4836-4edf-81c8-eafcca413a69

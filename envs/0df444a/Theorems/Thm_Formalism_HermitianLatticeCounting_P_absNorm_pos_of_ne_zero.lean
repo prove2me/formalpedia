@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_absNorm_pos_of_ne_zero
 -- name    : Formalism.HermitianLatticeCounting.P.absNorm_pos_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:45.93351+00:00
 -- url     : https://prove2.me/theorems/21598a8b-d291-486b-b901-fca4e7565329

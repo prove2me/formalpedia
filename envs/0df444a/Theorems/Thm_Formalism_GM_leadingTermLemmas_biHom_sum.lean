@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_biHom_sum
 -- name    : Formalism.GM.leadingTermLemmas.biHom_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:49:56.26551+00:00
 -- url     : https://prove2.me/theorems/ae146466-95b4-4412-84fe-f619f7542d3d

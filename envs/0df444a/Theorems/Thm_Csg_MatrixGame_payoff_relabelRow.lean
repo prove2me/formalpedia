@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_MatrixGame_payoff_relabelRow
 -- name    : Csg.MatrixGame.payoff_relabelRow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:04:36.547714+00:00
 -- url     : https://prove2.me/theorems/4b10fe0c-c6e5-4645-bc85-87e84bd81f16

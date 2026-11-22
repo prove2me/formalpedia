@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Comp_MatrixGameQ_valueCert_of_find
 -- name    : Comp.MatrixGameQ.valueCert_of_find
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:09:59.847802+00:00
 -- url     : https://prove2.me/theorems/155083cb-a68e-450e-a4bb-d7c3211ba920

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_Rerealization_inner_eq
 -- name    : Formalism.HN.Rerealization.inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:26:56.640798+00:00
 -- url     : https://prove2.me/theorems/0db4df87-7434-4951-ac86-67b1129ebd08

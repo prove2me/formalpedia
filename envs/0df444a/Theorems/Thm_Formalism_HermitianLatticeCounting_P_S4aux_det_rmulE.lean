@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_det_rmulE
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.det_rmulE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:42.536519+00:00
 -- url     : https://prove2.me/theorems/ea4aa503-058f-4d67-9494-45c7d6ba0bdc

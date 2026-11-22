@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_splitHorizontally_preserves_startAbove
 -- name    : GridHam.splitHorizontally_preserves_startAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:25:40.151726+00:00
 -- url     : https://prove2.me/theorems/f0e8c0f9-d7c7-4e9e-849f-f4f378a10eed

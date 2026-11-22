@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_expect_mono
 -- name    : Csg.CSG.expect_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:15.943705+00:00
 -- url     : https://prove2.me/theorems/f0f1d454-4449-4dc1-8f21-81409203a65d

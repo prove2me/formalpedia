@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_card_separated_set_le_prod
 -- name    : Formalism.HermitianLatticeCounting.P.card_separated_set_le_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:58.380072+00:00
 -- url     : https://prove2.me/theorems/290fd06e-7f5e-4bcd-9d42-d84c58fe5813

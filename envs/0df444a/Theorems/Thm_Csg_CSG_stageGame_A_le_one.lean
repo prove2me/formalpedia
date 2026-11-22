@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Csg_CSG_stageGame_A_le_one
 -- name    : Csg.CSG.stageGame_A_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:06:48.678785+00:00
 -- url     : https://prove2.me/theorems/7766ca78-dfce-46c4-b4ac-d2f2df6f1987

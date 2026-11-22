@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_lsv_original_prepost_gradient_discounted_atom_grid_domination
 -- name    : AvramDividend.Classical.avram_lsv_original_prepost_gradient_discounted_atom_grid_domination
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:41:43.300389+00:00
 -- url     : https://prove2.me/theorems/6470cf62-f3a3-4806-ac32-bff3e9a33723

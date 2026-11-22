@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_weyl_model
 -- name    : NoHair.Weyl.kerr_weyl_model
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:22:49.833704+00:00
 -- url     : https://prove2.me/theorems/617fecf3-f895-4ec5-8602-32f5868c5558

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_massTelescope_symm
 -- name    : Formalism.HermitianLatticesTheory.massTelescope_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:02:12.286098+00:00
 -- url     : https://prove2.me/theorems/81f22e57-5289-48ef-aab8-ae0b39b50a9d

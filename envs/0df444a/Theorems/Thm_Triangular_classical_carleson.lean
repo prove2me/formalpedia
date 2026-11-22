@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Triangular_classical_carleson
 -- name    : Triangular.classical_carleson
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:29:23.375911+00:00
 -- url     : https://prove2.me/theorems/6e6ea7cf-b68b-46e4-a547-14ca823ea3db

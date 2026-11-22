@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_c1_run
 -- name    : GridHam.c1_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T22:10:46.036463+00:00
 -- url     : https://prove2.me/theorems/32a17c0c-42fd-43da-830b-444eca50315c

@@ -55130,7 +55130,7 @@
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.hasDerivAt_T", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII04_BVP", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.ES5.KerrSchild.VIII08.hasDerivAt_T", "child": "Atlas_EinsteinMaxwell_ES5_KerrSchild_VIII08_Ops", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg15748", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "CatalyticTreeEval.Main.theorem_3_10", "child": "CatalyticTreeEval_Main_Polynomials", "via": ["statement"]}
+{"parent": "CatalyticTreeEval.Main.theorem_3_10", "child": "CatalyticTreeEval_Main_Polynomials", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA1_3_12I1R4H_sound", "child": "OAIQ254M007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg22399", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.InvariantIsing.ground_state_limit", "child": "InvariantIsing", "via": ["solution", "statement"]}
@@ -76809,7 +76809,7 @@
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CB3_4_1I1R15Raw_sound", "child": "OAIQ254M010", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degree_pos33", "child": "UniversalTensorSquares", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degree_pos33", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "CatalyticTreeEval.Main.lemma_3_19", "child": "CatalyticTreeEval_Main_Decoder", "via": ["statement"]}
+{"parent": "CatalyticTreeEval.Main.lemma_3_19", "child": "CatalyticTreeEval_Main_Decoder", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25003", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.lawCoef_globalLaw_false_zero", "child": "TypeDensity_Formula_LawAlgebra", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.lawCoef_globalLaw_false_zero", "child": "TypeDensity_Recursion_RootCellLaw", "via": ["solution", "statement"]}

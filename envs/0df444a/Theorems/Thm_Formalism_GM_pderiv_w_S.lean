@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_pderiv_w_S
 -- name    : Formalism.GM.pderiv_w_S
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:02:19.304863+00:00
 -- url     : https://prove2.me/theorems/a1e2751b-69e0-46db-846e-5c82b81cf3e0

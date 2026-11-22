@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_cE_apply
 -- name    : Formalism.HN.DualPolygon.cE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:29:06.873803+00:00
 -- url     : https://prove2.me/theorems/7b3de2bb-8d39-4716-8e34-acf38bfd0276
