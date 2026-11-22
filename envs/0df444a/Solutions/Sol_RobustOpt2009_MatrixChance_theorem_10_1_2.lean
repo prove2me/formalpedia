@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RobustOpt2009.MatrixChance.theorem_10_1_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-31T05:58:02.896636+00:00
 -- url     : https://prove2.me/submissions/f5203dea-cee2-42c4-b237-500ead7e4ca3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RobustOpt2009_MatrixChance_theorem_B_5_1
 

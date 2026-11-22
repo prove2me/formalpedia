@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stable_val_subset_flatten
 -- name    : Stable.val_subset_flatten
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:45:40.376264+00:00
 -- url     : https://prove2.me/theorems/a4746dba-bcdf-4ce5-9d2e-12ac46cfcc6c

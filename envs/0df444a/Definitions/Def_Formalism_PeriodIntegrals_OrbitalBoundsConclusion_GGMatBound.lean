@@ -1,0 +1,36 @@
+-- Prove2me | Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_GGMatBound
+-- name    : Formalism_PeriodIntegrals_OrbitalBoundsConclusion_GGMatBound
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T21:04:06.881803+00:00
+-- url     : https://prove2.me/theorems/1b8e82f1-7c09-497e-b35d-f208aa2d86f5
+-- title:
+--   GGMat Bound
+-- statement:
+--   Definitions and structural lemmas for GGMat Bound, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/OrbitalBoundsConclusion/GGMatBound.lean
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_SiegelLatticeTheory_ClosedLocalOrbits_GGMirabolic
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_GgMatrixBoundOfLitOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_GamOneReal
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_ProdFormula
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_IrreducibleOfMinimal
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_JointEigenvectorExists
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_GammaMatrixInverse
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_MatrixCoefficientEquation
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MatrixCoefficientBound_SpectrumPositiveSemidefinite
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_GGConvScalar
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_GGGenRatio
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_GGCardUni
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+

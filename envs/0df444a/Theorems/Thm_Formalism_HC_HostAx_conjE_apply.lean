@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_conjE_apply
 -- name    : Formalism.HC.HostAx.conjE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:26.712911+00:00
 -- url     : https://prove2.me/theorems/d1090765-b22d-4241-93ae-968f348db73a

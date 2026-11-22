@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Rollback_rollback_unique
 -- name    : Rollback.rollback_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:23.032944+00:00
 -- url     : https://prove2.me/theorems/adb36674-4214-44ad-ab3c-06c9726975ff

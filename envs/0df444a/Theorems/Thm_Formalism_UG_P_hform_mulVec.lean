@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hform_mulVec
 -- name    : Formalism.UG.P.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:26.297347+00:00
 -- url     : https://prove2.me/theorems/4328d68b-ce9f-462f-9b1d-a8b0fd93ffc6

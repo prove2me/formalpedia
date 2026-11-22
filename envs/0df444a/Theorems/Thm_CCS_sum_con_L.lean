@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_sum_con_L
 -- name    : CCS.sum_con_L
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:57:19.49089+00:00
 -- url     : https://prove2.me/theorems/de391c74-ffd3-4927-b112-456ebb624c04

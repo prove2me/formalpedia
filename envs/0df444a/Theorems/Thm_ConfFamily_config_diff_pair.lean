@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfFamily_config_diff_pair
 -- name    : ConfFamily.config_diff_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:41:36.082701+00:00
 -- url     : https://prove2.me/theorems/dfcc3768-901c-4b77-b58c-84b6a7b0adbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PES_minimalConflict_minimal
 -- name    : PES.minimalConflict_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:46:47.783947+00:00
 -- url     : https://prove2.me/theorems/ad8c92ea-587d-4699-b0f3-322df3ab1cdc

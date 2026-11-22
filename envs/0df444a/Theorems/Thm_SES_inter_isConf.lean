@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SES_inter_isConf
 -- name    : SES.inter_isConf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:49:08.197866+00:00
 -- url     : https://prove2.me/theorems/7ff65a29-4126-4a1c-990c-42b61ee59b6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stable_flatten_primesOf
 -- name    : Stable.flatten_primesOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:51:47.193604+00:00
 -- url     : https://prove2.me/theorems/cee9f73d-73aa-4c52-b112-7f59ec6d3e4c

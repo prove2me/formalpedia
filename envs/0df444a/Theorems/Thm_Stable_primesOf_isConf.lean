@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stable_primesOf_isConf
 -- name    : Stable.primesOf_isConf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:51:09.591893+00:00
 -- url     : https://prove2.me/theorems/31ec33e8-cc78-48e2-99cb-54a45bce5998

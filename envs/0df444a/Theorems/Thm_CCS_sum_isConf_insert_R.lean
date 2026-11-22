@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_sum_isConf_insert_R
 -- name    : CCS.sum_isConf_insert_R
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:58:28.451676+00:00
 -- url     : https://prove2.me/theorems/4c0cd2fc-6904-4ca4-89c1-6f50e0c2d795

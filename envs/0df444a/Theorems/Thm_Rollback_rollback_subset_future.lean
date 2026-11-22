@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Rollback_rollback_subset_future
 -- name    : Rollback.rollback_subset_future
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:55:57.515812+00:00
 -- url     : https://prove2.me/theorems/ef5a969a-d0e5-47d9-86b4-cd1048a3bc63

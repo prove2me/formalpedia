@@ -51156,7 +51156,7 @@
 {"parent": "Komlos.beck_fiala", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.beck_fiala_banaszczyk", "child": "Komlos.banaszczyk_bound", "via": ["solution"]}
 {"parent": "Komlos.beck_fiala_banaszczyk", "child": "Komlos_model", "via": ["solution", "statement"]}
-{"parent": "Komlos.komlos_conjecture", "child": "Komlos_model", "via": ["statement"]}
+{"parent": "Komlos.komlos_conjecture", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.komlos_implies_beck_fiala", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.komlos_lower_bound", "child": "Komlos_model", "via": ["solution", "statement"]}
 {"parent": "Komlos.spencer_recursion", "child": "Komlos_model", "via": ["solution", "statement"]}

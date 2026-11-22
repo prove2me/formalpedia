@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirLabel_rev_rev
 -- name    : DirLabel.rev_rev
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:48:44.968403+00:00
 -- url     : https://prove2.me/theorems/e754ddc0-eed3-41be-a4c2-b7443485f337

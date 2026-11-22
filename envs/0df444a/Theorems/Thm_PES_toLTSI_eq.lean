@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PES_toLTSI_eq
 -- name    : PES.toLTSI_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:45:56.164982+00:00
 -- url     : https://prove2.me/theorems/f7837c5d-c87c-4750-a849-69c1ae362afd

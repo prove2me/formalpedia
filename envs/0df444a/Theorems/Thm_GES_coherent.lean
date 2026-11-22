@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GES_coherent
 -- name    : GES.coherent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:49:51.117149+00:00
 -- url     : https://prove2.me/theorems/89e20072-c468-4599-ba6c-b9bd4e96bce9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfFamily_toRLTSI_LPV
 -- name    : ConfFamily.toRLTSI_LPV
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:40:31.753805+00:00
 -- url     : https://prove2.me/theorems/0afa6339-5d87-417d-bbbb-b5a86c98df08

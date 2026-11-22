@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_downset_compatible_with_log
 -- name    : Replay.downset_compatible_with_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:49.588823+00:00
 -- url     : https://prove2.me/theorems/5322fd06-9ed2-435d-823a-ceee127c62f0

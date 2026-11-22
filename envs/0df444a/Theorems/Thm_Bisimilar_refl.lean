@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bisimilar_refl
 -- name    : Bisimilar.refl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:48:43.929883+00:00
 -- url     : https://prove2.me/theorems/83a97f57-f430-4fd5-aa99-022e8994524b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_saturation_properties
 -- name    : Formalism.F.saturation_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:43:12.03378+00:00
 -- url     : https://prove2.me/theorems/a9aa9973-7a21-4312-87c3-b369c5a55dda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_downset_isConf
 -- name    : Replay.downset_isConf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:47.919813+00:00
 -- url     : https://prove2.me/theorems/03b598e6-2a1f-461f-aa16-4ffa449d5d04

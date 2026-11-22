@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_pfx_isConf
 -- name    : CCS.pfx_isConf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:54:48.344902+00:00
 -- url     : https://prove2.me/theorems/d742996b-8d81-49e8-9e8a-ff5fa7195162

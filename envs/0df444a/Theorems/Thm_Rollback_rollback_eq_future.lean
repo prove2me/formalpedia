@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Rollback_rollback_eq_future
 -- name    : Rollback.rollback_eq_future
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:25.595937+00:00
 -- url     : https://prove2.me/theorems/035ecad3-6011-4227-8df5-91a5c6092dee

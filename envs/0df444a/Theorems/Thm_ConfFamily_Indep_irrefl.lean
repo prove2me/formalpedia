@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfFamily_Indep_irrefl
 -- name    : ConfFamily.Indep.irrefl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:46:27.573045+00:00
 -- url     : https://prove2.me/theorems/1ea7f877-a825-4559-a186-656ad1b11789

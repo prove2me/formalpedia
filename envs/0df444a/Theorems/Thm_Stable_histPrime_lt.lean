@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stable_histPrime_lt
 -- name    : Stable.histPrime_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:45:25.064255+00:00
 -- url     : https://prove2.me/theorems/e0287546-97ee-4d85-b8c6-b45dd3117f97

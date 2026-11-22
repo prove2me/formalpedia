@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Emb_enables_restrict
 -- name    : Emb.enables_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:47:37.368803+00:00
 -- url     : https://prove2.me/theorems/ef60c8c6-536a-4d39-8884-44ab9045555a

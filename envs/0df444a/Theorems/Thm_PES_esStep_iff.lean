@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PES_esStep_iff
 -- name    : PES.esStep_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:42:24.720814+00:00
 -- url     : https://prove2.me/theorems/999f5a5a-0112-4e71-ae48-022b069c7842

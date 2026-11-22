@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_vacuum_ernst_boundary_uniqueness
 -- name    : NoHair.Weyl.vacuum_ernst_boundary_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:52:21.777602+00:00
 -- url     : https://prove2.me/theorems/413151a7-9b58-4e52-8d8e-1ff8992a3556

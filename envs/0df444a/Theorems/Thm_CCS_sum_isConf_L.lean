@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_sum_isConf_L
 -- name    : CCS.sum_isConf_L
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:53:52.901652+00:00
 -- url     : https://prove2.me/theorems/79ca4a43-ca22-456a-96a3-4cc2f0c2ae45

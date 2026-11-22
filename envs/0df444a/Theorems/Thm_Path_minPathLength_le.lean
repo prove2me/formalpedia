@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Path_minPathLength_le
 -- name    : Path.minPathLength_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:59:23.888798+00:00
 -- url     : https://prove2.me/theorems/945752fd-168d-4306-b628-4ed3b93cc230

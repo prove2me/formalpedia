@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_maxReplay_unique_config
 -- name    : Replay.maxReplay_unique_config
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:33.366633+00:00
 -- url     : https://prove2.me/theorems/80d206d0-c382-4b81-bb1f-e770a43baf44

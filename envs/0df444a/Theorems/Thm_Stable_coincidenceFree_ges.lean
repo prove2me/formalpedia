@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stable_coincidenceFree_ges
 -- name    : Stable.coincidenceFree_ges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:50:19.227568+00:00
 -- url     : https://prove2.me/theorems/75b3253c-a81e-4471-bab5-bb0e07407bec

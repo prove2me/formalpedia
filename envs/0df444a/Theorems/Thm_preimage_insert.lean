@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_preimage_insert
 -- name    : preimage_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:47:40.956424+00:00
 -- url     : https://prove2.me/theorems/40b9b55d-5531-4ff9-ab9f-89f3afbda1e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Emb_finite
 -- name    : Emb.finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:47:28.271405+00:00
 -- url     : https://prove2.me/theorems/c9f2ed39-e16e-4c84-80de-ede31b9cafd3

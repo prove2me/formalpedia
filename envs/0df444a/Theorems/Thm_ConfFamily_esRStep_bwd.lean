@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfFamily_esRStep_bwd
 -- name    : ConfFamily.esRStep_bwd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:41:35.837234+00:00
 -- url     : https://prove2.me/theorems/1e1a2370-903d-436a-9205-3a0131de4924

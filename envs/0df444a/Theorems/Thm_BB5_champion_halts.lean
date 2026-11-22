@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB5_champion_halts
 -- name    : BB5.champion_halts
--- status  : Open
+-- status  : Proved
 -- author  : @loader3229
 -- created : 2026-11-21T16:06:11.903342+00:00
 -- url     : https://prove2.me/theorems/ccef2f77-e365-42fb-b6a0-3ce4da7b682e

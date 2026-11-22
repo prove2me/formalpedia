@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Stable_prime_val_finite
 -- name    : Stable.prime_val_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:45:21.301079+00:00
 -- url     : https://prove2.me/theorems/eaa735a9-8a5b-4a18-949d-4a039a01fc21

@@ -14821,7 +14821,7 @@
 {"parent": "OfflineToOnline_IsApproachable", "child": "OfflineToOnline_fullHistoryPlay", "via": ["statement"]}
 {"parent": "QseriesFormalization.PartI.Ch04Franklin.finiteZ_eq_fermionicProductPartial", "child": "QseriesFormalization_Chapter05_BosonFermion", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P14.channel_tree_martingales", "child": "QAlgorithms_Papers_Independent_Intakethird100_P14", "via": ["statement"]}
-{"parent": "RobustOpt2009.MatrixChance.borell_enlargement_B_5", "child": "RobustOpt2009_MatrixChance_Setting", "via": ["statement"]}
+{"parent": "RobustOpt2009.MatrixChance.borell_enlargement_B_5", "child": "RobustOpt2009_MatrixChance_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_21_11_15_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_20_19_7_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "GibbsCongestion_relaxedLogit", "child": "GibbsCongestion_swapStep", "via": ["statement"]}

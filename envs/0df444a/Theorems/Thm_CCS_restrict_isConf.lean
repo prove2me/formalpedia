@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_restrict_isConf
 -- name    : CCS.restrict_isConf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:55:14.939802+00:00
 -- url     : https://prove2.me/theorems/d9d1ac94-c311-4e74-a6c6-9905f0ff7b21

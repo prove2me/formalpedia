@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_leadingTermLemmas_e__inj_b83b9739b71a
 -- name    : P2M_Formalism_GM_leadingTermLemmas_e__inj_b83b9739b71a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:59:49.777366+00:00
 -- url     : https://prove2.me/theorems/e43ad0e4-af0e-4038-85fb-97c5c840f1f8

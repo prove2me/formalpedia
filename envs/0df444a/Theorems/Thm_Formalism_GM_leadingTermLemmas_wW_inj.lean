@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_wW_inj
 -- name    : Formalism.GM.leadingTermLemmas.wW_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:26.369828+00:00
 -- url     : https://prove2.me/theorems/56eb78d5-4606-46da-9081-eb1d7673ffe2

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RobustOpt2009.MatrixChance.theorem_B_5_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-31T06:15:02.146216+00:00
 -- url     : https://prove2.me/submissions/314c10e9-045e-4f35-a85e-a4db7597b33d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RobustOpt2009_MatrixChance_borell_enlargement_B_5
 

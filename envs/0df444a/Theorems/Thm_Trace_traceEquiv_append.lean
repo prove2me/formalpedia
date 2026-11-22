@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Trace_traceEquiv_append
 -- name    : Trace.traceEquiv_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:48:08.005304+00:00
 -- url     : https://prove2.me/theorems/e1185ad1-250b-49cc-a35b-90a37586c65b

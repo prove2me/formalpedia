@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_isInt_inv
 -- name    : Formalism.DoubleCosetMeasures.P.isInt_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:28:15.766769+00:00
 -- url     : https://prove2.me/theorems/b3f55bd9-ef7e-4f93-9862-a9ed76898e11

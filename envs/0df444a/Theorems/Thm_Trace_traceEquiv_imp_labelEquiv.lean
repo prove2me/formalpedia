@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Trace_traceEquiv_imp_labelEquiv
 -- name    : Trace.traceEquiv_imp_labelEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:47:47.532271+00:00
 -- url     : https://prove2.me/theorems/31aa0e69-e129-4aa2-af72-24b6e69dcca9

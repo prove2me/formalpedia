@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PES_coherent
 -- name    : PES.coherent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:49:59.262961+00:00
 -- url     : https://prove2.me/theorems/21bcdbd9-e2dd-431c-b254-7e1ddcdac7e8

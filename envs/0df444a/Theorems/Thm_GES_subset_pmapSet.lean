@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GES_subset_pmapSet
 -- name    : GES.subset_pmapSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:48:50.3012+00:00
 -- url     : https://prove2.me/theorems/7ba2131e-55d7-4a19-81a4-7cf67c615fa2

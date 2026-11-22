@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_op_to_den
 -- name    : CCS.op_to_den
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:59:36.301944+00:00
 -- url     : https://prove2.me/theorems/b735a227-4347-402e-9085-b9ce619ce9ed

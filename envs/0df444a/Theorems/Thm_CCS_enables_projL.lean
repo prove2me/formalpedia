@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_enables_projL
 -- name    : CCS.enables_projL
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:52:50.269942+00:00
 -- url     : https://prove2.me/theorems/c4a3cb34-1bad-4100-a6a9-e363095b192a

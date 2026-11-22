@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PES_past_conflict_free
 -- name    : PES.past_conflict_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:47:03.948817+00:00
 -- url     : https://prove2.me/theorems/ffba76d4-c9d1-4a92-8902-93e30ce7a6c7

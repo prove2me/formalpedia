@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PES_esIndep_iff
 -- name    : PES.esIndep_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:42:26.754147+00:00
 -- url     : https://prove2.me/theorems/fc479f7c-7c5f-4eb8-bdf3-6451aec76593

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB5_lower_bound
 -- name    : BB5.lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @loader3229
 -- created : 2026-11-21T16:06:39.875908+00:00
 -- url     : https://prove2.me/theorems/efc99544-65be-4cc0-85c7-3d909c5ab1b1

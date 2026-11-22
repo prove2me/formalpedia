@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_maxReplaySet_is_maximal_replay
 -- name    : Replay.maxReplaySet_is_maximal_replay
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:55.0635+00:00
 -- url     : https://prove2.me/theorems/fcf8fd70-e922-4e38-b473-48829e6c14c2

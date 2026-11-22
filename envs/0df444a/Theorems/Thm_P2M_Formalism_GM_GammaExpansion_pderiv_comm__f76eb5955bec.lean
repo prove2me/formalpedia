@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_GammaExpansion_pderiv_comm__f76eb5955bec
 -- name    : P2M_Formalism_GM_GammaExpansion_pderiv_comm__f76eb5955bec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:43:51.790818+00:00
 -- url     : https://prove2.me/theorems/9b379cf1-1c11-41b5-ac67-a448a58a952f

@@ -1,0 +1,237 @@
+-- Prove2me | Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_LocalEstimateIVOfTypeSetWeight
+-- name    : Formalism_PadicSubsetSums_StableGradedCounts_LocalEstimateIVOfTypeSetWeight
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T21:00:59.029643+00:00
+-- url     : https://prove2.me/theorems/e8f4ccd9-a2d1-4247-b07f-b01c9852685f
+-- title:
+--   Local Estimate IVOf Type Set Weight
+-- statement:
+--   Definitions and structural lemmas for Local Estimate IVOf Type Set Weight, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PadicSubsetSums/StableGradedCounts/LocalEstimateIVOfTypeSetWeight.lean
+
+import Definitions.Def_Formalism_PadicSubsetSums_CentralIdempotents_EigenbasisOfDistinctRoots
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_PropositionOneCentralCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRDivisorDegreeSubSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleProbSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeRecipSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaLWeight
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartEqIff
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartSpec
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaP
+import Definitions.Def_Formalism_GaloisIrreducibility_NoSolvableTransitive
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCentralIdemSelfAdjoint
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRIrredCountUpper
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRSquarefreeCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRTypeCountExact
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleTypeProb
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+open scoped ComplexOrder
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+open Polynomial Formalism.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+open Polynomial
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset Polynomial
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+open Finset
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+open Polynomial
+noncomputable def wtOf {α : Type} [Fintype α] (μ : α → ℝ) (S : Set α) : ℝ := ∑ x, S.indicator μ x
+section aux
+variable {α β : Type} [Fintype α]
+end aux
+section prod
+variable {ι Ω : Type} [Fintype ι] [Fintype Ω] [DecidableEq ι]
+end prod
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+section
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+open Polynomial
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+
+

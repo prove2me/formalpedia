@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfFamily_TraceEquivFrom_reach_eq
 -- name    : ConfFamily.TraceEquivFrom.reach_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:48:34.664363+00:00
 -- url     : https://prove2.me/theorems/516cd8ae-abfc-4512-9086-bf2ef26f5299

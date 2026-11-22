@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Komlos_komlos_conjecture
 -- name    : Komlos.komlos_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-03T20:50:28.939907+00:00
 -- url     : https://prove2.me/theorems/22be6be2-94e7-47b4-86c2-d6c868541e6c

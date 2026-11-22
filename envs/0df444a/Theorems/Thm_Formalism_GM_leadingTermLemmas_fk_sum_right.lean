@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fk_sum_right
 -- name    : Formalism.GM.leadingTermLemmas.fk_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:18.817592+00:00
 -- url     : https://prove2.me/theorems/71f98d8f-c1cf-42ee-8e70-a85f23ecd0ef

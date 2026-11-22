@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_minReplaySet_contains_log
 -- name    : Replay.minReplaySet_contains_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:43.758152+00:00
 -- url     : https://prove2.me/theorems/615f445c-76b5-4c7a-8136-91db4edbb038

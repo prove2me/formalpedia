@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_minReplay_unique_config
 -- name    : Replay.minReplay_unique_config
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:30.213616+00:00
 -- url     : https://prove2.me/theorems/7f964bc1-88e8-40ca-8298-fbc341348f77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ConfFamily_inter_diff_union__310b7debc330
 -- name    : P2M_ConfFamily_inter_diff_union__310b7debc330
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:42:08.163818+00:00
 -- url     : https://prove2.me/theorems/88d98ac3-391f-4ef9-bf79-a5164bab83aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedPCTSP_Rooted_optimal_le_potential_bound
 -- name    : BudgetedPCTSP.Rooted.optimal_le_potential_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T14:32:38.508227+00:00
 -- url     : https://prove2.me/theorems/9259dd3a-a316-4651-9622-9dc1a5b17a89

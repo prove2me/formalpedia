@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Path_execList_to_path_trace
 -- name    : Path.execList_to_path_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:59:36.825237+00:00
 -- url     : https://prove2.me/theorems/6f541406-0fcb-4e4a-8dfb-8b5d39d6a1d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GES_pmapSet_mono
 -- name    : GES.pmapSet_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:48:57.773316+00:00
 -- url     : https://prove2.me/theorems/9f4349e2-41c1-4f44-b078-dd45ebec3e21

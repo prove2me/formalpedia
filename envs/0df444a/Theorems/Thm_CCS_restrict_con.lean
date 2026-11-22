@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_restrict_con
 -- name    : CCS.restrict_con
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:57:46.807328+00:00
 -- url     : https://prove2.me/theorems/fce48416-e49e-4bdc-b73a-fb2b107f48ab

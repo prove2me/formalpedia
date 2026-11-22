@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfFamily_union_diff_singleton
 -- name    : ConfFamily.union_diff_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:41:27.962182+00:00
 -- url     : https://prove2.me/theorems/37fc93d6-408c-428b-8892-5839c2e4e88c

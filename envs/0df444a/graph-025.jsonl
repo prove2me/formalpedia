@@ -27974,7 +27974,7 @@
 {"parent": "ProportionalTSP.Exact.lemma_2_4", "child": "ProportionalTSP_Exact_Symbolic", "via": ["statement"]}
 {"parent": "ParityBarrier563.Trilinear.lemma_2_1", "child": "ParityBarrier563_Trilinear_CNF", "via": ["statement"]}
 {"parent": "ParityBarrier563.Trilinear.lemma_2_1", "child": "ParityBarrier563_Trilinear_Restriction", "via": ["statement"]}
-{"parent": "CNFLearning873.Valiant.theorem_4_1", "child": "CNFLearning873_Valiant_Execution", "via": ["statement"]}
+{"parent": "CNFLearning873.Valiant.theorem_4_1", "child": "CNFLearning873_Valiant_Execution", "via": ["solution", "statement"]}
 {"parent": "RelativisticZK205_ThreeCol_PRBox", "child": "RelativisticZK205_ThreeCol_Channel", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooledRow_radial_bound", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FundamentalDomain", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalPooledRow_radial_bound", "child": "OAI_NumberTheory_DirichletL_GaussSum_GlobalScales", "via": ["solution", "statement"]}
@@ -28144,7 +28144,7 @@
 {"parent": "SSNonExt.theorem_1_1", "child": "SSNonExt_bitScheme", "via": ["statement"]}
 {"parent": "SSNonExt.theorem_1_1", "child": "SSNonExt_IsPrivate", "via": ["statement"]}
 {"parent": "EnumeratingComplexity224.Dichotomy.not_all_eventually_free", "child": "EnumeratingComplexity224_Dichotomy_Process", "via": ["statement"]}
-{"parent": "NOFSeparation750.CodedGIP.theorem_4_1", "child": "NOFSeparation750_CodedGIP_Model", "via": ["statement"]}
+{"parent": "NOFSeparation750.CodedGIP.theorem_4_1", "child": "NOFSeparation750_CodedGIP_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_1_12.sums_eq_g", "child": "OAIQ098G989", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_1_12.sums_eq_g", "child": "OAIQ098G984", "via": ["solution", "statement"]}
 {"parent": "QuantumOnePCA369.PauliPCA.projected_pauli_correct", "child": "QuantumOnePCA369_PauliPCA_Basic", "via": ["statement"]}
@@ -31968,7 +31968,7 @@
 {"parent": "PfaffianRecognition_Recognition_computation_model", "child": "PfaffianRecognition_Recognition_graph_model", "via": ["statement"]}
 {"parent": "PfaffianRecognition_Recognition_computation_model", "child": "HypergraphUnreliability_FPRAS_Machine", "via": ["statement"]}
 {"parent": "PfaffianRecognition_Recognition_computation_model", "child": "CatalyticMatching_General_Encoding", "via": ["statement"]}
-{"parent": "NOFSeparation750.CodedGIP.lemma_5_3", "child": "NOFSeparation750_CodedGIP_Cylinders", "via": ["statement"]}
+{"parent": "NOFSeparation750.CodedGIP.lemma_5_3", "child": "NOFSeparation750_CodedGIP_Cylinders", "via": ["solution", "statement"]}
 {"parent": "HypClass1.proposition_8_3", "child": "HypClass1_K3", "via": ["statement"]}
 {"parent": "HypClass1.proposition_8_3", "child": "HypClass1_IsPseudorandom3", "via": ["statement"]}
 {"parent": "HypClass1.proposition_8_3", "child": "HypClass1_deg", "via": ["statement"]}
@@ -42248,7 +42248,7 @@
 {"parent": "OAI.SharpPlanar.IntegerGrid.row1_7_contains_g", "child": "OAIQ098G091", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_0_4.s4_eq_g", "child": "OAIQ098G810", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_0_4.s4_eq_g", "child": "OAIQ098G828", "via": ["solution", "statement"]}
-{"parent": "OptimalTraceDistance.Estimation.lemma_2_5", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["statement"]}
+{"parent": "OptimalTraceDistance.Estimation.lemma_2_5", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["solution", "statement"]}
 {"parent": "ThreshRankBIS_thresholdRank", "child": "ThreshRankBIS_IsRegular", "via": ["statement"]}
 {"parent": "MajorityDepthThree.Exact.monotone_permutation_cover", "child": "MajorityDepthThree_Exact_Circuits", "via": ["statement"]}
 {"parent": "MajorityDepthThree.Exact.monotone_permutation_cover", "child": "MajorityDepthThree_Exact_Restrictions", "via": ["statement"]}
@@ -44351,8 +44351,8 @@
 {"parent": "ProportionalTSP.Exact.proposition_3_3", "child": "ProportionalTSP_Exact_Symbolic", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_1_0_2.s1_eq_g", "child": "OAIQ098G1049", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_1_0_2.s1_eq_g", "child": "OAIQ098G1033", "via": ["solution", "statement"]}
-{"parent": "NOFSeparation750.CodedGIP.lemma_5_4", "child": "NOFSeparation750_CodedGIP_Model", "via": ["statement"]}
-{"parent": "NOFSeparation750.CodedGIP.lemma_5_4", "child": "NOFSeparation750_CodedGIP_Cylinders", "via": ["statement"]}
+{"parent": "NOFSeparation750.CodedGIP.lemma_5_4", "child": "NOFSeparation750_CodedGIP_Model", "via": ["solution", "statement"]}
+{"parent": "NOFSeparation750.CodedGIP.lemma_5_4", "child": "NOFSeparation750_CodedGIP_Cylinders", "via": ["solution", "statement"]}
 {"parent": "SqrtQueries.proposition_3_6", "child": "SqrtQueries_oracle", "via": ["statement"]}
 {"parent": "ResPCDegreeSize.Main.section_6_degree_le_n", "child": "ResPCDegreeSize_Main_PolynomialCalculus", "via": ["statement"]}
 {"parent": "IQPForrelation832.SingleQuery.proposition_1", "child": "IQPForrelation832_SingleQuery_Programs", "via": ["statement"]}

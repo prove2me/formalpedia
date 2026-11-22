@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_hist_eq_downset
 -- name    : Replay.hist_eq_downset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:56:56.983386+00:00
 -- url     : https://prove2.me/theorems/d3d71d0a-7fd5-468a-aace-35f090ec2022

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_asmR_monoWtGe_rad
 -- name    : Formalism.DworkPowerSeriesWeights.asmR_monoWtGe_rad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:44:38.252936+00:00
 -- url     : https://prove2.me/theorems/9bef48cf-224e-4cb0-a402-d1c08bc7bd9e

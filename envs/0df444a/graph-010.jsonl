@@ -48936,9 +48936,9 @@
 {"parent": "ChapterQgOuterFockEllipticFL", "child": "BookProof.HermiteRelative.coreOp_smul", "via": ["statement"]}
 {"parent": "ChapterQgOuterFockEllipticFL", "child": "ChapterDirectSumEsa", "via": ["statement"]}
 {"parent": "ChapterQgOuterFockEllipticFL", "child": "BookProof.QuantumGravity3DGauge.qgKappaElliptic_nonneg", "via": ["statement"]}
-{"parent": "BudgetedPCTSP.Rooted.optimal_le_potential_bound", "child": "BudgetedPCTSP_Rooted_potential", "via": ["statement"]}
-{"parent": "BudgetedPCTSP.Rooted.optimal_le_potential_bound", "child": "BudgetedPCTSP_Rooted_PDStep", "via": ["statement"]}
-{"parent": "BudgetedPCTSP.Rooted.optimal_le_potential_bound", "child": "BudgetedPCTSP_Rooted_Instance", "via": ["statement"]}
+{"parent": "BudgetedPCTSP.Rooted.optimal_le_potential_bound", "child": "BudgetedPCTSP_Rooted_potential", "via": ["solution", "statement"]}
+{"parent": "BudgetedPCTSP.Rooted.optimal_le_potential_bound", "child": "BudgetedPCTSP_Rooted_PDStep", "via": ["solution", "statement"]}
+{"parent": "BudgetedPCTSP.Rooted.optimal_le_potential_bound", "child": "BudgetedPCTSP_Rooted_Instance", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap48.P30.fock_entropy_monotonicity", "child": "QAlgorithms_Papers_Independent_Gap48_P30", "via": ["statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_94", "child": "HardyCapsetCertificate02820261021", "via": ["solution", "statement"]}
 {"parent": "HardyCapset20261020.Cert.case028_finite4_94", "child": "HardyCapsetBooleanVerifier20261020", "via": ["solution", "statement"]}

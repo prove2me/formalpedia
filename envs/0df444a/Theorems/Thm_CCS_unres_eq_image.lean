@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_unres_eq_image
 -- name    : CCS.unres_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:58:49.66212+00:00
 -- url     : https://prove2.me/theorems/7875a7e2-c654-4ebd-9dc1-52aab027444b

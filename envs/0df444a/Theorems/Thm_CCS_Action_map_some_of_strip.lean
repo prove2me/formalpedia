@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_Action_map_some_of_strip
 -- name    : CCS.Action.map_some_of_strip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:46:18.510785+00:00
 -- url     : https://prove2.me/theorems/8c1bc6ad-d8b2-419b-901c-e0ee80930e76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfFamily_enables_conf
 -- name    : ConfFamily.enables_conf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:46:19.878197+00:00
 -- url     : https://prove2.me/theorems/98bf3234-6295-4b6b-9e08-34f2c15a838a

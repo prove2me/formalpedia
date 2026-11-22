@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_FB_weight_wL
 -- name    : Formalism.GM.M.FB.weight_wL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:32:53.543662+00:00
 -- url     : https://prove2.me/theorems/a05e9061-c874-49a7-a6ef-5d657135f502

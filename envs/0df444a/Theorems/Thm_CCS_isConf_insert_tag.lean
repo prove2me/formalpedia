@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_isConf_insert_tag
 -- name    : CCS.isConf_insert_tag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:53:34.147471+00:00
 -- url     : https://prove2.me/theorems/d35485c2-e33a-406f-8932-3a1e211e0297
