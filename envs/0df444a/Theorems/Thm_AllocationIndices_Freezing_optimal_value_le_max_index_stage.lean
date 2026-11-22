@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Freezing_optimal_value_le_max_index_stage
 -- name    : AllocationIndices.Freezing.optimal_value_le_max_index_stage
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-01T15:07:07.094859+00:00
 -- url     : https://prove2.me/theorems/440a03b1-ecd7-48f9-bbb6-a4574e8497af

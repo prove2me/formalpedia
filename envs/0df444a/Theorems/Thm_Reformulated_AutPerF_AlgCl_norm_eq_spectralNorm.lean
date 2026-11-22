@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_AlgCl_norm_eq_spectralNorm
 -- name    : Reformulated.AutPerF.AlgCl.norm_eq_spectralNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:44.117917+00:00
 -- url     : https://prove2.me/theorems/81731e3f-0928-475f-b590-17cfc456f60c

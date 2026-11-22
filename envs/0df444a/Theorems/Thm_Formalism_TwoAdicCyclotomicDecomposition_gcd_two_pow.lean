@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_gcd_two_pow
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.gcd_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:16.252407+00:00
 -- url     : https://prove2.me/theorems/d079cfe1-3a44-4de1-8405-920c2b454751

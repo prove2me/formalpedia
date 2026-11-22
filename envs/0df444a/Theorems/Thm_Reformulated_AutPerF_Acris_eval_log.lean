@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_eval_log
 -- name    : Reformulated.AutPerF.Acris.eval_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:33:41.092019+00:00
 -- url     : https://prove2.me/theorems/7feb37de-40b3-4e75-bc2f-8cfc10b79497

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerrNewman_stationaryFlatEnd
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:12:46.916515+00:00
 -- url     : https://prove2.me/submissions/495f029b-fc1a-4e14-9883-d9211aa398ac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_NoHair_kerrNewman_asymptoticComponentBounds
 import Definitions.Def_NoHair_KerrNewmanEinstein_Base

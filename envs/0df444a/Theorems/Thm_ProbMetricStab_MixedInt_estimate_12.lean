@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProbMetricStab_MixedInt_estimate_12
 -- name    : ProbMetricStab.MixedInt.estimate_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:13:21.451962+00:00
 -- url     : https://prove2.me/theorems/96f79a64-95bd-4d3c-950b-825534a40ce0

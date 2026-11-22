@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IterationSequence
 -- name    : IterationSequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:13:32.833044+00:00
 -- url     : https://prove2.me/theorems/23ffbbee-deea-450b-9575-8c5ec8e3914e

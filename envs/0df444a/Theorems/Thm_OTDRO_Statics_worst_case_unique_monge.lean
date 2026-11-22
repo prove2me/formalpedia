@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Statics_worst_case_unique_monge
 -- name    : OTDRO.Statics.worst_case_unique_monge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:18.247221+00:00
 -- url     : https://prove2.me/theorems/4bb2e2fe-9763-43c9-9573-e769c2e87956

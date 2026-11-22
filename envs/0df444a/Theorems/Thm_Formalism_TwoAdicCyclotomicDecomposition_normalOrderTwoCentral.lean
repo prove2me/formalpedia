@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_normalOrderTwoCentral
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.normalOrderTwoCentral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:50.362405+00:00
 -- url     : https://prove2.me/theorems/d439574f-aa55-4b4b-971e-727dcab0b9d7

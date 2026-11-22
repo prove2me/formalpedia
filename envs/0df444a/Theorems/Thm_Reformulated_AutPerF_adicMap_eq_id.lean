@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_adicMap_eq_id
 -- name    : Reformulated.AutPerF.adicMap_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:19.751093+00:00
 -- url     : https://prove2.me/theorems/16d48aae-1751-4249-86af-f6186b16b374

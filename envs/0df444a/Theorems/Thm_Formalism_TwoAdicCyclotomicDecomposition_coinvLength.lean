@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_coinvLength
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.coinvLength
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:07.005031+00:00
 -- url     : https://prove2.me/theorems/a8e0d038-7c4e-4bed-8f66-64c53f07441d

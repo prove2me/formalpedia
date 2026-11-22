@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IterationDichotomy
 -- name    : IterationDichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:13:29.52808+00:00
 -- url     : https://prove2.me/theorems/7b4611d7-2fae-4903-9c46-ce7bf5ccfd0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardyHalfPlane_exists_bound_circle_eLpNorm_comp_cayley
 -- name    : HardyHalfPlane.exists_bound_circle_eLpNorm_comp_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @emmgaml
 -- created : 2026-11-22T19:26:03.261236+00:00
 -- url     : https://prove2.me/theorems/46b35d8a-f7c3-4eee-872b-9f141d50bdcf

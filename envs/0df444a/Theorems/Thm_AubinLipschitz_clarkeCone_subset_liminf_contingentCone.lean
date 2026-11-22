@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AubinLipschitz_clarkeCone_subset_liminf_contingentCone
 -- name    : AubinLipschitz.clarkeCone_subset_liminf_contingentCone
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:51:12.354602+00:00
 -- url     : https://prove2.me/theorems/7271b910-c565-49c8-aefc-7e8ba20b6c64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_coboundaries_le_cocycles
 -- name    : ReciprocityTheory.Gal.coboundaries_le_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:26.875804+00:00
 -- url     : https://prove2.me/theorems/f34dc4c3-ad5d-4b2a-9fb7-fbe9f79b2a0a

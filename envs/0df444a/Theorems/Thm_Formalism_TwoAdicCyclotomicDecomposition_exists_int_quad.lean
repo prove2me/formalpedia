@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_exists_int_quad
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.exists_int_quad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:26.951945+00:00
 -- url     : https://prove2.me/theorems/08df9165-e988-4655-9fb8-19b74a29a922

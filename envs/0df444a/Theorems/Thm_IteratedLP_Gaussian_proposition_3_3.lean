@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IteratedLP_Gaussian_proposition_3_3
 -- name    : IteratedLP.Gaussian.proposition_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T04:20:52.698223+00:00
 -- url     : https://prove2.me/theorems/64167ba9-617c-46e0-bc07-71b23e125249

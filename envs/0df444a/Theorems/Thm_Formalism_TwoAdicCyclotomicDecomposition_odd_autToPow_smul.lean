@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_autToPow_smul
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_autToPow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:07.796427+00:00
 -- url     : https://prove2.me/theorems/c5807132-926a-462b-ac8e-a99f63884859

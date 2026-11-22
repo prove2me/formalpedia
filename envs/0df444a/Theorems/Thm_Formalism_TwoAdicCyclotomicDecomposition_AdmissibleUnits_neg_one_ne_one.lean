@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_neg_one_ne_one
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.neg_one_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:58:31.637654+00:00
 -- url     : https://prove2.me/theorems/fae2d9f3-8e5b-4bb4-8993-d7c26cf38c3b

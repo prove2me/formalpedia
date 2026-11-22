@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_Zhat_eq
 -- name    : Formalism.QuantumDeterminants.Zhat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:12:44.14635+00:00
 -- url     : https://prove2.me/theorems/d85dfdd4-b918-406e-a481-4507eb2909f0

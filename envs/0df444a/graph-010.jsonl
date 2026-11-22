@@ -20432,7 +20432,7 @@
 {"parent": "Richstein2001.segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper_grp11", "child": "GoldbachSieve", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Next46.P17.heat_entropy_asymptotics", "child": "QAlgorithms_Papers_Independent_Next46_P17", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Support21.P10.observable_characterization", "child": "QAlgorithms_Papers_Independent_Support21_P10", "via": ["statement"]}
-{"parent": "CostlySeeding.EdgeQuery.theorem_5", "child": "CostlySeeding_EdgeQuery_Algorithm", "via": ["statement"]}
+{"parent": "CostlySeeding.EdgeQuery.theorem_5", "child": "CostlySeeding_EdgeQuery_Algorithm", "via": ["solution", "statement"]}
 {"parent": "MatrixAnalytic.Tree.U_N_equations", "child": "MatrixAnalytic_Tree_Process", "via": ["solution", "statement"]}
 {"parent": "MatrixAnalytic.Tree.U_N_equations", "child": "MatrixAnalytic_Tree_Model", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.EinsteinMaxwell.KN.up_0_1", "child": "Atlas_EinsteinMaxwell_KN_Domain", "via": ["solution", "statement"]}

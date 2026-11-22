@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_isClosed_setOf_apply
 -- name    : ReciprocityTheory.Gal.isClosed_setOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:21.471649+00:00
 -- url     : https://prove2.me/theorems/69b67809-d6c4-4212-b620-5fc30c0f7f91

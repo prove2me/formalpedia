@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishBaseStock_Penalty_lemma_6
 -- name    : PerishBaseStock.Penalty.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:30.715798+00:00
 -- url     : https://prove2.me/theorems/604544ad-0f24-4283-97f6-bf8a9d766f60

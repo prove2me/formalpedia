@@ -1,0 +1,31 @@
+-- Prove2me | Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_ConvScalarOfLitOf
+-- name    : Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_ConvScalarOfLitOf
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T20:58:10.511829+00:00
+-- url     : https://prove2.me/theorems/54425efe-6d03-4caf-a3f5-307eeee4d0a1
+-- title:
+--   Conv Scalar Of Lit Of
+-- statement:
+--   Definitions and structural lemmas for Conv Scalar Of Lit Of, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/ScalarConvolutionTrace/ConvScalarOfLitOf.lean
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_CardUNeZero
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset
+noncomputable section
+open Classical
+namespace PI.GGConvScalarW
+open Formalism.L2.SG.GGMirabolic
+end PI.GGConvScalarW
+
+

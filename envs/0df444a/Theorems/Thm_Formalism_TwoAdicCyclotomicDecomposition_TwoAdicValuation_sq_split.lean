@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_TwoAdicValuation_sq_split
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.TwoAdicValuation.sq_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:58:39.790664+00:00
 -- url     : https://prove2.me/theorems/5411ef2f-6d90-4f58-a837-242d2b235f5f

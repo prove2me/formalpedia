@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_stationaryFlatEnd
 -- name    : NoHair.kerrNewman_stationaryFlatEnd
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T19:45:16.530873+00:00
 -- url     : https://prove2.me/theorems/478ab9ca-43c9-4348-9e9f-67d6d2445b81

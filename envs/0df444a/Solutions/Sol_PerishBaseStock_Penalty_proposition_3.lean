@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PerishBaseStock.Penalty.proposition_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-22T23:28:44.612274+00:00
 -- url     : https://prove2.me/submissions/636e8bf7-724d-4888-b7a2-401e7171873c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PerishBaseStock_Penalty_lemma_6
 import Theorems.Thm_PerishBaseStock_Penalty_eq_20

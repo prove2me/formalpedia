@@ -4250,7 +4250,7 @@
 {"parent": "MarkovProcess_V3H_Parameterized_Semigroup_5f8b28ce", "child": "MarkovProcess_V3H_Kernel_KernelSemigroup_26332261", "via": ["statement"]}
 {"parent": "FiniteStateContract.Equivalence.lemma_3_3", "child": "FiniteStateContract_Equivalence_Model", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P46.emptyConstraints_iff_dimension", "child": "QAlgorithms_Papers_Independent_Intake100_P46", "via": ["statement"]}
-{"parent": "NahmiasPerishable.Inventory.m01", "child": "NahmiasPerishable_Inventory_Cycles", "via": ["statement"]}
+{"parent": "NahmiasPerishable.Inventory.m01", "child": "NahmiasPerishable_Inventory_Cycles", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.Semigroup.tendsto_apply_of_opNorm_le_one", "child": "MarkovProcess_V3H_Semigroup_StrongOperatorLimit_428329b4", "via": ["solution", "statement"]}
 {"parent": "ContactTopology.explicit_two_arc_convex_disk_in_standard_contact_space", "child": "ContactTopology_TwoArcJetDisk", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.ae_lt_exitTime_iff_mem_of_compl_eq_singleton", "child": "MarkovProcess_V3H_Killed_Resolvent_b61459c1", "via": ["solution", "statement"]}
@@ -6714,8 +6714,8 @@
 {"parent": "MarkovProcess.LifetimePath.measurable_killedCoordinate", "child": "MarkovProcess_V3H_Killed_Process_a15f3c27", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.LifetimePath.measurable_killedCoordinate", "child": "MarkovProcess_V3H_Killed_Nested_fac741d0", "via": ["solution", "statement"]}
 {"parent": "CombOpt_TutteBerge_Multigraph_edgesWithin", "child": "CombOpt_TutteBerge_Multigraph", "via": ["statement"]}
-{"parent": "AubinLipschitz.clarkeDeriv_isClosedConvexProcess", "child": "AubinLipschitz_clarkeDeriv", "via": ["statement"]}
-{"parent": "AubinLipschitz.clarkeDeriv_isClosedConvexProcess", "child": "AubinLipschitz_IsClosedConvexProcess", "via": ["statement"]}
+{"parent": "AubinLipschitz.clarkeDeriv_isClosedConvexProcess", "child": "AubinLipschitz_clarkeDeriv", "via": ["solution", "statement"]}
+{"parent": "AubinLipschitz.clarkeDeriv_isClosedConvexProcess", "child": "AubinLipschitz_IsClosedConvexProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_101", "child": "OAIQ019N049", "via": ["solution", "statement"]}
 {"parent": "LevyExtrema_SBA_supTime", "child": "LevyExtrema_SBA_runSup", "via": ["statement"]}
 {"parent": "CombOpt_ShortestPath_Digraph_SatisfiesPotentialIneq", "child": "CombOpt_ShortestPath_Digraph", "via": ["statement"]}
@@ -40827,7 +40827,7 @@
 {"parent": "AvramDividend.Classical.avram_wave5_04b_original_preruin_global_discounted_signed_cell_upper_sum", "child": "AvramDividend.Classical.avram_wave5_04b_closed_horizon_stieltjes_grid_partition_exact", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakethird100.P83.projectorLowerBound", "child": "QAlgorithms_Papers_Independent_Intakethird100_P83", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_edge_count__p2m_94636b31_2f9e_4256_93d0_7a9950cdcd71_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "AllocationIndices.Freezing.optimal_value_le_max_index_stage", "child": "AllocationIndices_Freezing_Model", "via": ["statement"]}
+{"parent": "AllocationIndices.Freezing.optimal_value_le_max_index_stage", "child": "AllocationIndices_Freezing_Model", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_04b_original_real_clock_countable_right_signed_sum_nonpos", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_04b_original_real_clock_countable_right_signed_sum_nonpos", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave5_02a_full_original_kernel_measurable", "child": "AvramDividend.Classical.avram_wave5_02a_original_predictable_kernel_measurable_of_source_sfinite_kernel", "via": ["solution", "statement"]}
@@ -85731,7 +85731,7 @@
 {"parent": "Submission_Weighted_Global_TernaryNativeCoverWitness", "child": "Submission_Weighted_Global_TernaryOversizePrime", "via": ["statement"]}
 {"parent": "Submission_Weighted_Global_TernaryNativeCoverWitness", "child": "ThreeSum.LocalGraph.right_mem_vertices", "via": ["statement"]}
 {"parent": "Submission_ThreeSum_SourceControlCosts", "child": "Submission_ThreeSum_LightSourceControlsHostProgram", "via": ["statement"]}
-{"parent": "PerishBaseStock.Penalty.lemma_6", "child": "PerishBaseStock_Penalty_Model", "via": ["statement"]}
+{"parent": "PerishBaseStock.Penalty.lemma_6", "child": "PerishBaseStock_Penalty_Model", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SharedReportingCosts.overhead_powerBound_w3sum_ac885d1", "child": "Submission_ThreeSum_SharedReportingCostBounds", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SharedReportingCosts.overhead_powerBound_w3sum_ac885d1", "child": "Submission_ThreeSum_SharedReportingCosts", "via": ["solution", "statement"]}
 {"parent": "Light.safe_fourAddresses", "child": "Submission_ThreeSumApsp_Lang_ToMachine", "via": ["solution", "statement"]}

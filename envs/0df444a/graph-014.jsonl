@@ -94387,8 +94387,8 @@
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.continuousPathTrajectory_map_denseRestriction_map_restrict", "child": "MarkovProcess_V3H_Trajectory_DenseRestrictionMarginals_931e4c17", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P15.choi_schatten_identity", "child": "QAlgorithms_Papers_Independent_Intakenext100_P15", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P54.skewConfiguration_iff_skewRegion", "child": "QAlgorithms_Papers_Independent_Intake100_P54", "via": ["statement"]}
-{"parent": "AubinLipschitz.clarkeCone_subset_liminf_contingentCone", "child": "AubinLipschitz_clarkeCone", "via": ["statement"]}
-{"parent": "AubinLipschitz.clarkeCone_subset_liminf_contingentCone", "child": "AubinLipschitz_contingentCone", "via": ["statement"]}
+{"parent": "AubinLipschitz.clarkeCone_subset_liminf_contingentCone", "child": "AubinLipschitz_clarkeCone", "via": ["solution", "statement"]}
+{"parent": "AubinLipschitz.clarkeCone_subset_liminf_contingentCone", "child": "AubinLipschitz_contingentCone", "via": ["solution", "statement"]}
 {"parent": "SuperPolyak.proposition_4_1", "child": "SuperPolyak_bundleMatrix", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P12.haar_basis_sampling", "child": "QAlgorithms_Papers_Independent_Intake100_P12", "via": ["statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.bucket_l1_122", "child": "OAIQ019N049", "via": ["solution", "statement"]}

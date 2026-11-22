@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_under_primeBelow
 -- name    : ReciprocityTheory.Gal.under_primeBelow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:26:00.663997+00:00
 -- url     : https://prove2.me/theorems/9d725a90-5270-4bfa-b6ec-71c15dd0caae

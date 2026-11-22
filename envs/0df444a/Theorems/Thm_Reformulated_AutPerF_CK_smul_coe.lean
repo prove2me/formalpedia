@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_CK_smul_coe
 -- name    : Reformulated.AutPerF.CK.smul_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:22.86149+00:00
 -- url     : https://prove2.me/theorems/3fd0de7c-c053-4d4a-b65e-2e292e5fe9f8

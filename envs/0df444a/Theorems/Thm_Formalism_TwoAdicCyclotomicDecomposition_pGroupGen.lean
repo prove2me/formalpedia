@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_pGroupGen
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.pGroupGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:41.197662+00:00
 -- url     : https://prove2.me/theorems/dafe3ea0-cc46-477f-833a-b22fe83e25ff

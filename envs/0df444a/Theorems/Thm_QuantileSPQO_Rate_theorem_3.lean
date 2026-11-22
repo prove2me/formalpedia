@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantileSPQO_Rate_theorem_3
 -- name    : QuantileSPQO.Rate.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:58.310367+00:00
 -- url     : https://prove2.me/theorems/3c5f7b4a-182a-4a45-a8ec-0f1a5972dabc

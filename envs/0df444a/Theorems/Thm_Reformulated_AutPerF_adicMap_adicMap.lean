@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_adicMap_adicMap
 -- name    : Reformulated.AutPerF.adicMap_adicMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:09.924939+00:00
 -- url     : https://prove2.me/theorems/a050bdf9-93b6-4924-b80a-9165a8eca5db

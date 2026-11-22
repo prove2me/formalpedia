@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BotNguyenADMM_Rates_theorem_18
 -- name    : BotNguyenADMM.Rates.theorem_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:10:49.490278+00:00
 -- url     : https://prove2.me/theorems/45ccb40a-16e1-4326-a5d9-c8a2382ab0e3

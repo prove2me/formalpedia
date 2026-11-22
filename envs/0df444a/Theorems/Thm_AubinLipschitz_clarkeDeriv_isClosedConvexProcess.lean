@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AubinLipschitz_clarkeDeriv_isClosedConvexProcess
 -- name    : AubinLipschitz.clarkeDeriv_isClosedConvexProcess
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T18:52:36.112289+00:00
 -- url     : https://prove2.me/theorems/ddde4f77-c53d-4f79-b843-c6b7134c9914

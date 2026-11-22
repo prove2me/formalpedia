@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_lord_zero
 -- name    : Formalism.MainNotions.PlaneGram.lord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:14:36.901783+00:00
 -- url     : https://prove2.me/theorems/ae4b2001-5084-45fc-a35b-f25841b01dd9

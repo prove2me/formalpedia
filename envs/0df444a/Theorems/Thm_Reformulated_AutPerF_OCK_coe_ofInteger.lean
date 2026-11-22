@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_OCK_coe_ofInteger
 -- name    : Reformulated.AutPerF.OCK.coe_ofInteger
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:18.255698+00:00
 -- url     : https://prove2.me/theorems/2e0c4b10-b53e-4609-8b1c-124d9d159f94

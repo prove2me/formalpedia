@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_UnitConjugation_phi_conj
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.UnitConjugation.phi_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:14.064703+00:00
 -- url     : https://prove2.me/theorems/620c97f5-9375-4d7d-9da8-34896cad8838

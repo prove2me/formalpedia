@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for KingRockAsymp.Distribution.theorem_2_7
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T15:58:24.42346+00:00
 -- url     : https://prove2.me/submissions/84055174-0829-4c67-a376-7905e6c7cfcc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KingRockAsymp_Distribution_Basic

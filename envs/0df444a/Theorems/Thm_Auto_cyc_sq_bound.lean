@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_cyc_sq_bound
 -- name    : Auto.cyc_sq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:43:56.360098+00:00
 -- url     : https://prove2.me/theorems/17b56b9d-9591-4acc-a19b-5a2953041af7

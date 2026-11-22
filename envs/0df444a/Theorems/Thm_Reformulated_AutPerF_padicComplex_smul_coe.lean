@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_padicComplex_smul_coe
 -- name    : Reformulated.AutPerF.padicComplex_smul_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:30.499956+00:00
 -- url     : https://prove2.me/theorems/68cfce1a-2cb0-4e75-8e05-d1a58b7afd3f

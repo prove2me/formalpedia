@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantileSPQO.Rate.theorem_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-10-24T20:13:02.778593+00:00
 -- url     : https://prove2.me/submissions/bda0cbe8-ab10-46c8-b1e8-7e7fe04443d4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SpectralProjGrad_Shared_IsProjOnto

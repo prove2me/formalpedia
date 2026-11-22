@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_mem_contMaps
 -- name    : ReciprocityTheory.Gal.mem_contMaps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:28.309196+00:00
 -- url     : https://prove2.me/theorems/93dc1c47-6fe8-4984-8bf8-782f24794380

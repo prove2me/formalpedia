@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_mem_Id
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_mem_Id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:11:48.448976+00:00
 -- url     : https://prove2.me/theorems/4aad5478-7729-4330-9380-3764c24da144

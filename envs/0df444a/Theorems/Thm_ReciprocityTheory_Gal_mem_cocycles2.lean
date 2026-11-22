@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_mem_cocycles2
 -- name    : ReciprocityTheory.Gal.mem_cocycles2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:34.275721+00:00
 -- url     : https://prove2.me/theorems/b2362b56-fec0-4576-b7a8-f7a5a4478d84

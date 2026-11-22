@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_rankBound
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.rankBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:56.656622+00:00
 -- url     : https://prove2.me/theorems/cd216b97-a3a2-42aa-af08-673ffc7a9574

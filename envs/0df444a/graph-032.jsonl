@@ -55519,10 +55519,10 @@
 {"parent": "SubexpPrimes.Supplement.theorem_7_2_constrained_irreducibles", "child": "SubexpPrimes_Supplement_irrCount", "via": ["statement"]}
 {"parent": "SubexpPrimes.Supplement.theorem_7_2_constrained_irreducibles", "child": "SubexponentialSAT", "via": ["statement"]}
 {"parent": "SubexpPrimes.Supplement.theorem_7_2_constrained_irreducibles", "child": "SubexpPrimes_prefixSearch", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "Kyprianou_Ch01_LampertiInverse", "via": ["statement"]}
-{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["statement"]}
+{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "Kyprianou_Ch01_BranchingGenerator", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "Kyprianou_Ch01_BranchingClocks", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "Kyprianou_Ch01_LampertiInverse", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch01.lampertiCompoundPoissonToBranchingLawNonexplosive", "child": "LeanLevy_Processes_CompoundPoisson", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.ch02LaplaceFiniteImpliesTrunc", "child": "Kyprianou.Ch02.oneSubExpLowerBound", "via": ["solution", "statement"]}
 {"parent": "QnAudit.oldQ_pos", "child": "QnAudit.moment_pos", "via": ["solution", "statement"]}
 {"parent": "QnAudit.oldQ_pos", "child": "RHPF28_QnAudit_e1481adb3874", "via": ["solution", "statement"]}

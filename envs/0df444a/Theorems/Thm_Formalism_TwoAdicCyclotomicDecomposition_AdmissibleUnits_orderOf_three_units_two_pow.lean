@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_orderOf_three_units_two_pow
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.orderOf_three_units_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:03:38.755803+00:00
 -- url     : https://prove2.me/theorems/d7dcc9c2-f325-40b3-a635-faf1ebb9b605

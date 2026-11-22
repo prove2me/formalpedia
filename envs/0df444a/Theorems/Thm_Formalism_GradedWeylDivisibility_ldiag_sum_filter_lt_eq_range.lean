@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldiag_sum_filter_lt_eq_range
 -- name    : Formalism.GradedWeylDivisibility.ldiag_sum_filter_lt_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:22:38.024319+00:00
 -- url     : https://prove2.me/theorems/d4510db1-0ff6-4b3b-9210-db21444a242d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EqualSubsetSum_Faster_lemma_C_1
 -- name    : EqualSubsetSum.Faster.lemma_C_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T23:22:12.3292+00:00
 -- url     : https://prove2.me/theorems/7a20f379-9f71-4938-a346-2eeec3fdc44e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_p_dvd_frob_sub_pow
 -- name    : Reformulated.AutPerF.Ainf.p_dvd_frob_sub_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:15.650794+00:00
 -- url     : https://prove2.me/theorems/7ca18724-6821-407e-b7d6-904f6f046d37

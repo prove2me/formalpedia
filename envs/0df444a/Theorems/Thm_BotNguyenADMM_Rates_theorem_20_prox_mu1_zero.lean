@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BotNguyenADMM_Rates_theorem_20_prox_mu1_zero
 -- name    : BotNguyenADMM.Rates.theorem_20_prox_mu1_zero
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-05T09:06:41.200981+00:00
 -- url     : https://prove2.me/theorems/16ccf70e-fe30-4077-9e3f-93b47686f058

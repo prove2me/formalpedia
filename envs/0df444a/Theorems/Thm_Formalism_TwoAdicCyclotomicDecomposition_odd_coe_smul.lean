@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_coe_smul
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_coe_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:07:01.868521+00:00
 -- url     : https://prove2.me/theorems/0dd8e3ea-9f5b-4a1c-b6d0-3fb292055d7e

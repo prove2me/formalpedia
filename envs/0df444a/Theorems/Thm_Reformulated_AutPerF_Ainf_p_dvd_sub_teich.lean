@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_p_dvd_sub_teich
 -- name    : Reformulated.AutPerF.Ainf.p_dvd_sub_teich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:34:55.550778+00:00
 -- url     : https://prove2.me/theorems/528baf7d-d819-48a6-9187-83e3fa184267

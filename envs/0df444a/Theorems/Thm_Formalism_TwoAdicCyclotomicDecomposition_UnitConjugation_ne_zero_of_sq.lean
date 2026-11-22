@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_UnitConjugation_ne_zero_of_sq
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.UnitConjugation.ne_zero_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:06.559393+00:00
 -- url     : https://prove2.me/theorems/320a5498-3505-484d-a842-1588dd771d65

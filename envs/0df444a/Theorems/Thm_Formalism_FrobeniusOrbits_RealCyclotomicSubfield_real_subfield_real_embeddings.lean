@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_RealCyclotomicSubfield_real_subfield_real_embeddings
 -- name    : Formalism.FrobeniusOrbits.RealCyclotomicSubfield.real_subfield_real_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:38.573202+00:00
 -- url     : https://prove2.me/theorems/3f80cc2e-6d6f-47b2-bacb-05fc9ab9aff9

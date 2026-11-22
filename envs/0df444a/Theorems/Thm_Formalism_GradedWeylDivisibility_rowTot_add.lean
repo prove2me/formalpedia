@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowTot_add
 -- name    : Formalism.GradedWeylDivisibility.rowTot_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:15:39.70074+00:00
 -- url     : https://prove2.me/theorems/7f3144ea-38c6-4279-a1c9-602a43496bc2

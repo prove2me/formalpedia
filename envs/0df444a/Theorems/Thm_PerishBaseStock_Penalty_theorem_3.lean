@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishBaseStock_Penalty_theorem_3
 -- name    : PerishBaseStock.Penalty.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:44.0553+00:00
 -- url     : https://prove2.me/theorems/1af40417-33c4-4d3d-8adf-9b9429012d31

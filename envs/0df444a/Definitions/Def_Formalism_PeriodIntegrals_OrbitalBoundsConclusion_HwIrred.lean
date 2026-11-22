@@ -1,0 +1,26 @@
+-- Prove2me | Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_HwIrred
+-- name    : Formalism_PeriodIntegrals_OrbitalBoundsConclusion_HwIrred
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T20:51:21.778419+00:00
+-- url     : https://prove2.me/theorems/5eb2e838-f172-48ee-b589-fa53025f73b8
+-- title:
+--   Hw Irred
+-- statement:
+--   Definitions and structural lemmas for Hw Irred, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/OrbitalBoundsConclusion/HwIrred.lean
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_Assembly
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_ConstructionA
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightIrreducible_ConstructionB
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+

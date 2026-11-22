@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_HN_saturation_basic_properties
+-- name    : Formalism.HN.saturation_basic_properties
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-22T20:32:57.522468+00:00
+-- url     : https://prove2.me/theorems/5ccff08a-49c1-47be-9955-ad9d52ea5dff
+-- title:
+--   HN: saturation basic properties
+-- statement:
+--   The HN construction uses the saturation basic properties property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HarderNarasimhan/HarderNarasimhanProofs/SatBasic.lean#L36-L109
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HarderNarasimhan/HarderNarasimhanProofs/SatBasic.lean#L36-L109
+
+import Definitions.Def_Formalism_HarderNarasimhan_DegSupermodZ
+import Definitions.Def_Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_DiscreteTopologyOfLe
+import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_MuMaxAttained
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module Submodule
+noncomputable section
+open Formalism Formalism.HN
+
+theorem Formalism.HN.saturation_basic_properties : SatBasic := by sorry

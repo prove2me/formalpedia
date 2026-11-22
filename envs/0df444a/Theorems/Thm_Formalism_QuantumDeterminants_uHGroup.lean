@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_uHGroup
 -- name    : Formalism.QuantumDeterminants.uHGroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:01:39.503564+00:00
 -- url     : https://prove2.me/theorems/6ae9f1fe-9ebe-4d11-b4b8-1366be5c652d

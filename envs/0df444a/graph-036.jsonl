@@ -49808,8 +49808,8 @@
 {"parent": "RH1E6S05_D062_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S07_D087_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc.BSDEJ.Solves.PicardOutput.toSolvesBSDEJ", "child": "LevyStochCalc_BSDEJ_PicardStep_F000", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_pj_workerF_original_rightmesh_cofinal_localiser_stopped_reward_budgets", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_pj_workerF_original_rightmesh_cofinal_localiser_stopped_reward_budgets", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_pj_workerF_original_rightmesh_cofinal_localiser_stopped_reward_budgets", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_pj_workerF_original_rightmesh_cofinal_localiser_stopped_reward_budgets", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04_D052_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "JardenShami.colorMaxOf_spec", "child": "MyResearchesLLMLean_JardenShami_Section3", "via": ["solution", "statement"]}
 {"parent": "JardenShami.colorMaxOf_spec", "child": "MyResearchesLLMLean_JardenShami_Section4", "via": ["solution", "statement"]}

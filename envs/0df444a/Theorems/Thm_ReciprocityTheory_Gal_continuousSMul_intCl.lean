@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_continuousSMul_intCl
 -- name    : ReciprocityTheory.Gal.continuousSMul_intCl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:28:23.382801+00:00
 -- url     : https://prove2.me/theorems/321795ed-3cc6-45cc-8d0a-63b847c019eb

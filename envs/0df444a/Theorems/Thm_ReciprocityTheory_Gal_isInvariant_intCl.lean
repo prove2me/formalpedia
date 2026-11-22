@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_isInvariant_intCl
 -- name    : ReciprocityTheory.Gal.isInvariant_intCl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:28:20.504812+00:00
 -- url     : https://prove2.me/theorems/108f5639-0fe9-49ee-9d4a-8b30e58bc1c4

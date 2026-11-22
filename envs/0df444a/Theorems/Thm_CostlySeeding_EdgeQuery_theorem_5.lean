@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlySeeding_EdgeQuery_theorem_5
 -- name    : CostlySeeding.EdgeQuery.theorem_5
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:59.945097+00:00
 -- url     : https://prove2.me/theorems/0a28068a-e3f5-4f2b-a8bc-d723e17b2514

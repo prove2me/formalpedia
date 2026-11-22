@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qk27_isInducing_coeMatrix
 -- name    : UpperTheory.Reformulated.B.Qk27.isInducing_coeMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:48:54.500489+00:00
 -- url     : https://prove2.me/theorems/e253824e-1548-40ca-82a0-d28d713766e2

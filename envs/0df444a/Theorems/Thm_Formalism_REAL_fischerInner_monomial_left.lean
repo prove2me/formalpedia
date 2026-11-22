@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_monomial_left
 -- name    : Formalism.REAL.fischerInner_monomial_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:22:22.543565+00:00
 -- url     : https://prove2.me/theorems/0df060dd-41e2-4f43-86e8-6576904e7534

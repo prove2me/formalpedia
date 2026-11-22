@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_frob_bijective
 -- name    : Reformulated.AutPerF.Ainf.frob_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:50:51.786995+00:00
 -- url     : https://prove2.me/theorems/74a97847-21d4-4e4c-abdb-302d7ae1e7d8

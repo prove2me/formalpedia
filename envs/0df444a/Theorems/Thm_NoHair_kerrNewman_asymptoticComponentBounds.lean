@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_asymptoticComponentBounds
 -- name    : NoHair.kerrNewman_asymptoticComponentBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T20:08:27.011298+00:00
 -- url     : https://prove2.me/theorems/be9fb68c-e6d9-469c-9a0a-1a3092dd3963

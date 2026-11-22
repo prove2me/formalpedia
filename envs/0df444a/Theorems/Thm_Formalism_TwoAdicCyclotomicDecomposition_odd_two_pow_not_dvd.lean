@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_two_pow_not_dvd
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_two_pow_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:14.533849+00:00
 -- url     : https://prove2.me/theorems/a2ab504c-5397-4dc2-915c-f246f9e16f2d

@@ -1,0 +1,29 @@
+-- Prove2me | Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryDensity_VanishInvertible
+-- name    : Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryDensity_VanishInvertible
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T20:35:22.748212+00:00
+-- url     : https://prove2.me/theorems/1ba70236-c7ce-4bd0-a928-3b0791807fde
+-- title:
+--   Vanish Invertible
+-- statement:
+--   Definitions and structural lemmas for Vanish Invertible, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnitaryDensity/VanishInvertible.lean
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryDensity_EvalBindTorusSubst
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MvPolynomial
+open scoped ComplexOrder
+namespace PI.UD
+end PI.UD
+
+

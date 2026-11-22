@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_mem_Iq
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_mem_Iq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:11:54.892948+00:00
 -- url     : https://prove2.me/theorems/128c7c3d-5b27-4da3-b122-eae6e03dcf72

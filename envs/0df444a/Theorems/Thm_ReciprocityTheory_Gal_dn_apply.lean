@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_dn_apply
 -- name    : ReciprocityTheory.Gal.dn_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:37.282466+00:00
 -- url     : https://prove2.me/theorems/7a912525-c4de-4bf9-abf0-108848533c61

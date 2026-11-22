@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_exists_valuationSubring_over
 -- name    : ReciprocityTheory.Gal.exists_valuationSubring_over
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:20.987936+00:00
 -- url     : https://prove2.me/theorems/fa3d7901-de1d-4568-9b22-bea575ff21a3

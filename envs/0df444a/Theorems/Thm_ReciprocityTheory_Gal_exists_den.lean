@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_exists_den
 -- name    : ReciprocityTheory.Gal.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:25:49.639537+00:00
 -- url     : https://prove2.me/theorems/24a284ef-183b-44d1-b529-658648193e0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TruncNewton_Global_wolfe_step_exists
 -- name    : TruncNewton.Global.wolfe_step_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:09:08.802604+00:00
 -- url     : https://prove2.me/theorems/ba9ed0ea-4d2c-409a-ab44-088d84fd87b4

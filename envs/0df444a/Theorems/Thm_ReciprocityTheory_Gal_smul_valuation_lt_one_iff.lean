@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_smul_valuation_lt_one_iff
 -- name    : ReciprocityTheory.Gal.smul_valuation_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:25:35.018177+00:00
 -- url     : https://prove2.me/theorems/639cb916-b9c7-49ee-93b8-f2307fe7ba2f

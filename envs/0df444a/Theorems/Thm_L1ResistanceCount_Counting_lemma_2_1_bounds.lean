@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L1ResistanceCount_Counting_lemma_2_1_bounds
 -- name    : L1ResistanceCount.Counting.lemma_2_1_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:11:00.882249+00:00
 -- url     : https://prove2.me/theorems/837f9980-8832-4a5d-9ba2-426f744962fd

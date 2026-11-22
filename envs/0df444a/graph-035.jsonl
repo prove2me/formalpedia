@@ -99591,9 +99591,9 @@
 {"parent": "latticeG2", "child": "eisensteinSum", "via": ["statement"]}
 {"parent": "LevyStochCalc_Driver_GaussianInitial_F000", "child": "LevyStochCalc_Driver_Existence_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Brownian_ItoRange_F002", "child": "LevyStochCalc_Brownian_ItoRange_F000", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_freshD_original_mixed_finitecap_fullmark_gaussian_physical_positive_excess", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_freshD_original_mixed_finitecap_fullmark_gaussian_physical_positive_excess", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_freshD_original_mixed_finitecap_fullmark_gaussian_physical_positive_excess", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_freshD_original_mixed_finitecap_fullmark_gaussian_physical_positive_excess", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_freshD_original_mixed_finitecap_fullmark_gaussian_physical_positive_excess", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.avram_freshD_original_mixed_finitecap_fullmark_gaussian_physical_positive_excess", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AlgebraicGeometry.Scheme.nonempty_etale_cohomology_iso_strict_local_resolution", "child": "AlgebraicGeometry_EtaleStrictLocalSites", "via": ["statement"]}
 {"parent": "MasulloAudit.rational_tate_one_line_nonintegrable", "child": "NumberField_TateGlobalZeta", "via": ["statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.martingale_rightCont_stochasticIntegralBrownian", "child": "LevyStochCalc_Brownian_ItoL2CompletionMaster_F003", "via": ["statement"]}

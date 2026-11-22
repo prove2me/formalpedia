@@ -76068,8 +76068,8 @@
 {"parent": "PottsRapidMixing.lemma_3_5", "child": "PottsRapidMixing_Threshold", "via": ["statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerInputMarginal_productInput", "child": "QEC_Semantics_Instruments_Tensor_MarginalChannel", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteInstrument.tensorPowerInputMarginal_productInput", "child": "QEC_Semantics_Instruments_Registers_Marginal", "via": ["solution", "statement"]}
-{"parent": "BotNguyenADMM.Rates.theorem_20_prox_mu1_zero", "child": "BotNguyenADMM_Rates_Setting", "via": ["statement"]}
-{"parent": "BotNguyenADMM.Rates.theorem_20_prox_mu1_zero", "child": "BotNguyenADMM_Rates_Lojasiewicz", "via": ["statement"]}
+{"parent": "BotNguyenADMM.Rates.theorem_20_prox_mu1_zero", "child": "BotNguyenADMM_Rates_Setting", "via": ["solution", "statement"]}
+{"parent": "BotNguyenADMM.Rates.theorem_20_prox_mu1_zero", "child": "BotNguyenADMM_Rates_Lojasiewicz", "via": ["solution", "statement"]}
 {"parent": "FeedbackSwitching.lemma_9", "child": "FeedbackSwitching_blockRun", "via": ["statement"]}
 {"parent": "FeedbackSwitching.lemma_9", "child": "FeedbackSwitching_tScore", "via": ["statement"]}
 {"parent": "FeedbackSwitching.lemma_9", "child": "FeedbackSwitching_steeringGain", "via": ["statement"]}

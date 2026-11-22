@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_card_units
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.card_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:02:14.340576+00:00
 -- url     : https://prove2.me/theorems/5dd711a8-76e0-4ceb-9009-7e8fc5b3fbd9

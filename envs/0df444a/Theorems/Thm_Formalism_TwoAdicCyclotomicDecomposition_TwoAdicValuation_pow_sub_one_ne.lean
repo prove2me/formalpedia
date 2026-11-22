@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_TwoAdicValuation_pow_sub_one_ne
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.TwoAdicValuation.pow_sub_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:58:28.906163+00:00
 -- url     : https://prove2.me/theorems/deca5991-d54d-4805-8a6b-cffd65a21a76

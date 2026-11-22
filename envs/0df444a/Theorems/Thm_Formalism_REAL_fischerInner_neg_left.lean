@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_neg_left
 -- name    : Formalism.REAL.fischerInner_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:20:00.245896+00:00
 -- url     : https://prove2.me/theorems/2cb2051f-d27a-4a92-97b9-0cfddb45f69a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_IsUnitBall_exists_pow_eq
 -- name    : Reformulated.AutPerF.IsUnitBall.exists_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:14.291434+00:00
 -- url     : https://prove2.me/theorems/daad9a34-a87f-4ca3-8ec2-acdd2242884f

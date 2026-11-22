@@ -2399,8 +2399,8 @@
 {"parent": "BotNguyenADMM.Rates.lemma_19", "child": "BotNguyenADMM_Rates_Setting", "via": ["statement"]}
 {"parent": "BotNguyenADMM.Rates.subgradient_estimate", "child": "BotNguyenADMM_Rates_Lojasiewicz", "via": ["statement"]}
 {"parent": "BotNguyenADMM.Rates.subgradient_estimate", "child": "BotNguyenADMM_Rates_Setting", "via": ["statement"]}
-{"parent": "BotNguyenADMM.Rates.theorem_18", "child": "BotNguyenADMM_Rates_Lojasiewicz", "via": ["statement"]}
-{"parent": "BotNguyenADMM.Rates.theorem_18", "child": "BotNguyenADMM_Rates_Setting", "via": ["statement"]}
+{"parent": "BotNguyenADMM.Rates.theorem_18", "child": "BotNguyenADMM_Rates_Lojasiewicz", "via": ["solution", "statement"]}
+{"parent": "BotNguyenADMM.Rates.theorem_18", "child": "BotNguyenADMM_Rates_Setting", "via": ["solution", "statement"]}
 {"parent": "BotNguyenADMM.Rates.theorem_20", "child": "BotNguyenADMM_Rates_Lojasiewicz", "via": ["solution", "statement"]}
 {"parent": "BotNguyenADMM.Rates.theorem_20", "child": "BotNguyenADMM_Rates_Setting", "via": ["solution", "statement"]}
 {"parent": "BotNguyenADMM_KL_Setting", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}

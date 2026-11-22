@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_isOpen_setOf_apply
 -- name    : ReciprocityTheory.Gal.isOpen_setOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:48:54.586407+00:00
 -- url     : https://prove2.me/theorems/2f315fd5-31ec-4acf-8fce-8e24c819cdd2

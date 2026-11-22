@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_mem_riemannRochSpace_iff_regularAt_everywhere
 -- name    : ReciprocityTheory.Gal.mem_riemannRochSpace_iff_regularAt_everywhere
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:32.462374+00:00
 -- url     : https://prove2.me/theorems/0d8835d8-7374-4dc2-baaf-f4ddf4f08205

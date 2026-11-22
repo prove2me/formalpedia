@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_eq_star
 -- name    : Formalism.REAL.fischerInner_eq_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:19:59.628863+00:00
 -- url     : https://prove2.me/theorems/a311522b-2330-4c37-b58d-b729f1eec74b

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ProbMetricStab.MixedInt.theorem_3_6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-06T00:49:56.829217+00:00
 -- url     : https://prove2.me/submissions/5ff18d60-a137-4b2c-942a-ace98d192a54
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ProbMetricStab_MixedInt_Setting

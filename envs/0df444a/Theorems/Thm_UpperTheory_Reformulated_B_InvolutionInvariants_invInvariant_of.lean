@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_InvolutionInvariants_invInvariant_of
 -- name    : UpperTheory.Reformulated.B.InvolutionInvariants.invInvariant_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:04.373732+00:00
 -- url     : https://prove2.me/theorems/ce8b9a51-d9b0-4b16-b10b-528520697faf

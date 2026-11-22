@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantileSPQO_Rate_lemma_5
 -- name    : QuantileSPQO.Rate.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:57.607637+00:00
 -- url     : https://prove2.me/theorems/5eb05044-dec0-4688-8c87-9cfc5dcffeb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_card_unitsTwoPow
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.card_unitsTwoPow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:53.914269+00:00
 -- url     : https://prove2.me/theorems/d62490d7-2555-4a52-b9a6-932cb968151e

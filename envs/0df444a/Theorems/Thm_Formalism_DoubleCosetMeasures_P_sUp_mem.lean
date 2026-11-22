@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_P_sUp_mem
 -- name    : Formalism.DoubleCosetMeasures.P.sUp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:13:23.374986+00:00
 -- url     : https://prove2.me/theorems/e73d7163-9464-4d0f-ac8b-ab28972ed5ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_of_le
 -- name    : Formalism.MainNotions.PlaneGram.vala_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:14:42.315202+00:00
 -- url     : https://prove2.me/theorems/d65f54f3-8c67-4d22-a5c8-61b34d056c25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_isUnit_iff_isUnit_coeff
 -- name    : Reformulated.AutPerF.Ainf.isUnit_iff_isUnit_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:33:42.698447+00:00
 -- url     : https://prove2.me/theorems/c465980b-00e3-4788-9b42-a5ac9574c422

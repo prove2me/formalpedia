@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB5_no_halt_RA
 -- name    : BB5.no_halt_RA
--- status  : Open
+-- status  : Proved
 -- author  : @loader3229
 -- created : 2026-11-22T15:42:57.912803+00:00
 -- url     : https://prove2.me/theorems/4783a3a6-6431-49d9-9068-c9f350887eeb

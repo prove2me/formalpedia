@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PHarmUnionExhaustion
 -- name    : PHarmUnionExhaustion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T20:13:31.307804+00:00
 -- url     : https://prove2.me/theorems/1bcbdebc-a9e3-4e26-8ec0-971d8e871183

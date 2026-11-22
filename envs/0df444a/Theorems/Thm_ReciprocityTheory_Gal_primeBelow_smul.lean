@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_primeBelow_smul
 -- name    : ReciprocityTheory.Gal.primeBelow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:25:55.348496+00:00
 -- url     : https://prove2.me/theorems/83e88c43-245a-4774-b619-fb1a5be8e4f7

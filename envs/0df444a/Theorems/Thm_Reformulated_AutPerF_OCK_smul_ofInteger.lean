@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_OCK_smul_ofInteger
 -- name    : Reformulated.AutPerF.OCK.smul_ofInteger
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:23.107802+00:00
 -- url     : https://prove2.me/theorems/e853a345-6b9d-4ffa-ac54-37a27152aa86

@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_different_power_conj_stable
+-- name    : Formalism.FourierDecayAlt.P.different_power_conj_stable
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-22T20:38:57.186162+00:00
+-- url     : https://prove2.me/theorems/34d8b7b0-3fe0-415d-b1c8-b0bd87eb781f
+-- title:
+--   P: different power conj stable
+-- statement:
+--   The P construction uses the different power conj stable property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LocalisationScaledIdealMemIff.lean#L587-L587
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LocalisationScaledIdealMemIff.lean#L587-L587
+
+import Definitions.Def_Formalism_HermitianCurvature_PrimeToDifferent
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DualIdealInclusion
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstEmbeddingOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DualVolumePowerIdentity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalisationScaledIdealMemIff
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.FourierDecayAlt.S6 Formalism.FourierDecayAlt.P.S6x2
+
+theorem Formalism.FourierDecayAlt.P.different_power_conj_stable : Formalism.FourierDecayAlt.S6.PowConjStable := by sorry

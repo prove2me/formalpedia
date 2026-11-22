@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_coeff_zero_xi
 -- name    : Reformulated.AutPerF.Ainf.coeff_zero_xi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:34:14.952067+00:00
 -- url     : https://prove2.me/theorems/20758597-a702-4dc3-abd6-8d884aff4147

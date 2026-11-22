@@ -21976,8 +21976,8 @@
 {"parent": "OTDRO.Statics.prop9_b", "child": "OTDRO_Statics_Regions", "via": ["statement"]}
 {"parent": "OTDRO.Statics.worst_case_comparative_statics", "child": "OTDRO_Statics_Regions", "via": ["solution", "statement"]}
 {"parent": "OTDRO.Statics.worst_case_comparative_statics", "child": "OTDRO_Statics_Transport", "via": ["solution", "statement"]}
-{"parent": "OTDRO.Statics.worst_case_unique_monge", "child": "OTDRO_Statics_Assumptions", "via": ["statement"]}
-{"parent": "OTDRO.Statics.worst_case_unique_monge", "child": "OTDRO_Statics_Transport", "via": ["statement"]}
+{"parent": "OTDRO.Statics.worst_case_unique_monge", "child": "OTDRO_Statics_Assumptions", "via": ["solution", "statement"]}
+{"parent": "OTDRO.Statics.worst_case_unique_monge", "child": "OTDRO_Statics_Transport", "via": ["solution", "statement"]}
 {"parent": "OTDRO.StrongCvx.F_strongly_concave", "child": "OTDRO_StrongCvx_Kernel", "via": ["solution", "statement"]}
 {"parent": "OTDRO.StrongCvx.dual_joint_strong_convexity", "child": "OTDRO_StrongCvx_RealDual", "via": ["statement"]}
 {"parent": "OTDRO.StrongCvx.dual_optimizer_bounds", "child": "OTDRO_StrongCvx_Assumptions", "via": ["solution", "statement"]}
@@ -31249,7 +31249,7 @@
 {"parent": "ProbMetricStab.General.theorem_2_2_d_zero", "child": "ProbMetricStab_General_Setting", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.General.theorem_2_3", "child": "ProbMetricStab_General_Setting", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.General.theorem_2_3_d_zero", "child": "ProbMetricStab_General_Setting", "via": ["solution", "statement"]}
-{"parent": "ProbMetricStab.MixedInt.estimate_12", "child": "ProbMetricStab_MixedInt_Setting", "via": ["statement"]}
+{"parent": "ProbMetricStab.MixedInt.estimate_12", "child": "ProbMetricStab_MixedInt_Setting", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.MixedInt.growth_bound", "child": "ProbMetricStab_MixedInt_Setting", "via": ["solution", "statement"]}
 {"parent": "ProbMetricStab.MixedInt.lemma_3_5_a", "child": "ProbMetricStab_MixedInt_Setting", "via": ["statement"]}
 {"parent": "ProbMetricStab.MixedInt.lemma_3_5_b", "child": "ProbMetricStab_MixedInt_Setting", "via": ["solution", "statement"]}
@@ -50068,10 +50068,10 @@
 {"parent": "RiskAverseSDDP.Convergence.eq_4_28", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.eq_4_28", "child": "RiskAverseSDDP_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.eq_4_28", "child": "RiskAverseSDDP_Convergence_Run", "via": ["solution", "statement"]}
-{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["statement"]}
-{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Model", "via": ["statement"]}
-{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Run", "via": ["statement"]}
-{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Sampling", "via": ["statement"]}
+{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["solution", "statement"]}
+{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Model", "via": ["solution", "statement"]}
+{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Run", "via": ["solution", "statement"]}
+{"parent": "RiskAverseSDDP.Convergence.eq_4_29", "child": "RiskAverseSDDP_Convergence_Sampling", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.eq_4_31", "child": "RiskAverseSDDP_Convergence_Basic", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.eq_4_31", "child": "RiskAverseSDDP_Convergence_Model", "via": ["solution", "statement"]}
 {"parent": "RiskAverseSDDP.Convergence.eq_4_31", "child": "RiskAverseSDDP_Convergence_Run", "via": ["solution", "statement"]}
@@ -66345,7 +66345,7 @@
 {"parent": "TruncNewton.Global.theorem_A_1", "child": "TruncNewton_Global_Setting", "via": ["statement"]}
 {"parent": "TruncNewton.Global.theorem_A_3", "child": "TruncNewton_Global_Setting", "via": ["statement"]}
 {"parent": "TruncNewton.Global.theorem_A_4", "child": "TruncNewton_Global_Setting", "via": ["statement"]}
-{"parent": "TruncNewton.Global.wolfe_step_exists", "child": "TruncNewton_Global_Setting", "via": ["statement"]}
+{"parent": "TruncNewton.Global.wolfe_step_exists", "child": "TruncNewton_Global_Setting", "via": ["solution", "statement"]}
 {"parent": "TruncNewton.NegCurv.pd_of_cg_residual_zero", "child": "TruncNewton_NegCurv_Setting", "via": ["solution", "statement"]}
 {"parent": "TruncNewton.NegCurv.theorem_2_4", "child": "TruncNewton_NegCurv_Setting", "via": ["solution", "statement"]}
 {"parent": "TruncNewton.NegCurv.theorem_A_1_eps_zero", "child": "TruncNewton_NegCurv_Setting", "via": ["solution", "statement"]}

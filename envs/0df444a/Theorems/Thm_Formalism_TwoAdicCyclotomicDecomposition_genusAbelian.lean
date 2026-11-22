@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_genusAbelian
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.genusAbelian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:07.994821+00:00
 -- url     : https://prove2.me/theorems/8673bdc5-e9e7-40f9-8ad0-b160689a3de6

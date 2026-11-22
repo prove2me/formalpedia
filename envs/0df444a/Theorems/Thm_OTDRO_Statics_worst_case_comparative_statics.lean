@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTDRO_Statics_worst_case_comparative_statics
 -- name    : OTDRO.Statics.worst_case_comparative_statics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:15:22.307906+00:00
 -- url     : https://prove2.me/theorems/31f46e28-7e64-44a6-a37a-91d297637bb4

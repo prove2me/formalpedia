@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_sum_left
 -- name    : Formalism.REAL.fischerInner_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:14:30.250553+00:00
 -- url     : https://prove2.me/theorems/74b42e06-67dc-404f-8cee-4fe89de6044c

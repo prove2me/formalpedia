@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_IsUnitBall_frobenius_surjective
 -- name    : Reformulated.AutPerF.IsUnitBall.frobenius_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:33.71082+00:00
 -- url     : https://prove2.me/theorems/76882686-3e71-429a-86d1-2b7d8a137dd8

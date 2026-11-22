@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_valuation_eq_one_of_pow_eq_one
 -- name    : ReciprocityTheory.Gal.valuation_eq_one_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:07.539825+00:00
 -- url     : https://prove2.me/theorems/86ea37ad-e46e-4c8c-a590-9c2e5b198909

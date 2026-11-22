@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MasulloGRH_normOneIdeles_isClosed_and_isEmbedding_adeles
 -- name    : MasulloGRH.normOneIdeles_isClosed_and_isEmbedding_adeles
--- status  : Open
+-- status  : Proved
 -- author  : @emmgaml
 -- created : 2026-11-22T19:43:19.473634+00:00
 -- url     : https://prove2.me/theorems/990348bc-7bab-4d68-b189-6c2771e4a14c

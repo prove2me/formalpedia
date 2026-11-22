@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_CK_smul_algebraMap
 -- name    : Reformulated.AutPerF.CK.smul_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:49:33.691191+00:00
 -- url     : https://prove2.me/theorems/3449e20b-34c3-4d08-ad62-2a952cf0751b

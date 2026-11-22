@@ -61487,7 +61487,7 @@
 {"parent": "CircTrichotomy_OccComputable", "child": "CircTrichotomy_BigO", "via": ["statement"]}
 {"parent": "CircTrichotomy_OccComputable", "child": "CircTrichotomy_Circuit", "via": ["statement"]}
 {"parent": "RandomOracleUnitarySynthesis.synthesis_query_bound", "child": "RandomOracleUnitarySynthesis_synthesis_family", "via": ["solution", "statement"]}
-{"parent": "L1ResistanceCount.Counting.lemma_2_1_bounds", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["statement"]}
+{"parent": "L1ResistanceCount.Counting.lemma_2_1_bounds", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LogicalDefectProtection.good_iff_atom_protected", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_BoundedRateDavies", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LogicalDefectProtection.good_iff_atom_protected", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_PairedDecoderChannel", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26LogicalDefectProtection.good_iff_atom_protected", "child": "QEC_Coding_Core_Duality", "via": ["solution", "statement"]}

@@ -9134,8 +9134,8 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff.real_bound50", "child": "HlawkaSchatten_GapComparison", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff.real_bound50", "child": "HlawkaSchatten_DiagonalConstruction_Cyclic", "via": ["statement"]}
 {"parent": "MLLangevin.General.theorem_2_1_ii", "child": "MLLangevin_General_Setting", "via": ["statement"]}
-{"parent": "QuantileSPQO.Rate.lemma_5", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["statement"]}
-{"parent": "QuantileSPQO.Rate.lemma_5", "child": "QuantileSPQO_Rate_Setting", "via": ["statement"]}
+{"parent": "QuantileSPQO.Rate.lemma_5", "child": "SpectralProjGrad_Shared_IsProjOnto", "via": ["solution", "statement"]}
+{"parent": "QuantileSPQO.Rate.lemma_5", "child": "QuantileSPQO_Rate_Setting", "via": ["solution", "statement"]}
 {"parent": "actuarial_c_death_binary", "child": "actuarial_c_death", "via": ["solution", "statement"]}
 {"parent": "Apery.outer_table_4_6", "child": "Zeta5_SourceGrowthTables", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Nannicini.densityMatrix_blockEncoding", "child": "QAlgorithms_Nannicini_Ch07b_Model", "via": ["solution", "statement"]}

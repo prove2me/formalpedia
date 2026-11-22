@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_centralExtAbelian
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.centralExtAbelian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:00.560848+00:00
 -- url     : https://prove2.me/theorems/5efa959b-3003-4ff7-91f8-2d5239f4ecd3

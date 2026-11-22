@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowTot_zero
 -- name    : Formalism.GradedWeylDivisibility.rowTot_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:11:48.361235+00:00
 -- url     : https://prove2.me/theorems/7141f701-a75d-459c-af97-064dcf21ae26

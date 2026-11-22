@@ -1,0 +1,34 @@
+-- Prove2me | Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_IntertwinerRankLeOne
+-- name    : Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_IntertwinerRankLeOne
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-22T20:59:17.24734+00:00
+-- url     : https://prove2.me/theorems/1d7f876f-42e8-4b3a-849c-add46d1a56c5
+-- title:
+--   Intertwiner Rank Le One
+-- statement:
+--   Definitions and structural lemmas for Intertwiner Rank Le One, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/ScalarConvolutionTrace/IntertwinerRankLeOne.lean
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_CardUNeZero
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_SuperdiagSgnConj
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ScalarConvolutionTrace_AveragingOperatorIdempotent
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset
+noncomputable section
+open Classical
+namespace PI.GGConvScalarW
+open Formalism.L2.SG.GGMirabolic
+variable {F : Type} [Field F] [Fintype F] {k : ℕ} {V : Type} [AddCommGroup V] [Module ℂ V]
+end PI.GGConvScalarW
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundedPotentials_Main_theorem_1_1
 -- name    : RoundedPotentials.Main.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T08:35:24.866964+00:00
 -- url     : https://prove2.me/theorems/1bfd6db6-1421-4f4d-b4ad-be8a80c5af45

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OTDRO.Statics.worst_case_comparative_statics
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tianyipeng
 -- created : 2026-11-05T06:30:29.255481+00:00
 -- url     : https://prove2.me/submissions/21ec8f12-bcc2-4b75-969c-38921e4e2e94
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OTDRO_Statics_Regions

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiddenCorr_ERM_lemma_12
 -- name    : HiddenCorr.ERM.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T02:34:30.555478+00:00
 -- url     : https://prove2.me/theorems/0a8a9d4c-6a1e-4245-8e5e-fc488be90db6

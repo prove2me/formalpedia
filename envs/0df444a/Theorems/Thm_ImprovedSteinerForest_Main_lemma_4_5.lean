@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedSteinerForest_Main_lemma_4_5
 -- name    : ImprovedSteinerForest.Main.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T01:26:43.87546+00:00
 -- url     : https://prove2.me/theorems/4b0c37ae-041a-4062-9817-26d63ed82f3d

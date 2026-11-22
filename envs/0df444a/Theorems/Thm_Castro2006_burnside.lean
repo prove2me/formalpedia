@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Castro2006_burnside
 -- name    : Castro2006.burnside
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-18T20:42:43.201373+00:00
 -- url     : https://prove2.me/theorems/83440b49-b0f9-41a7-8f53-e2ad3555a0c1

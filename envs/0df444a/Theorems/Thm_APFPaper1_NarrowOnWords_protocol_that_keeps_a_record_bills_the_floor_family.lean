@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_APFPaper1_NarrowOnWords_protocol_that_keeps_a_record_bills_the_floor_family
 -- name    : APFPaper1.NarrowOnWords.protocol_that_keeps_a_record_bills_the_floor_family
--- status  : Open
+-- status  : Proved
 -- author  : @FiniteUniverse
 -- created : 2026-11-22T19:55:24.923482+00:00
 -- url     : https://prove2.me/theorems/daf44d57-70ad-4d3d-9790-a4eb01b1e022

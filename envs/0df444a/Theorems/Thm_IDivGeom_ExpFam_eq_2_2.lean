@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IDivGeom_ExpFam_eq_2_2
 -- name    : IDivGeom.ExpFam.eq_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:58:21.584651+00:00
 -- url     : https://prove2.me/theorems/360443bb-7197-47d1-8715-4bc468031b45

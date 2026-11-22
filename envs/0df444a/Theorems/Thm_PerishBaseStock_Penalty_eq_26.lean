@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishBaseStock_Penalty_eq_26
 -- name    : PerishBaseStock.Penalty.eq_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:30.926901+00:00
 -- url     : https://prove2.me/theorems/cbb8500d-2ca5-4792-87cc-cc8827478522

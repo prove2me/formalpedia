@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_mod_four_reduction_five
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.mod_four_reduction_five
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:58:39.872803+00:00
 -- url     : https://prove2.me/theorems/3916c8b3-2e31-45ac-ba19-e3bf2b4bd3e4

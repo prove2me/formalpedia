@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_GBasic_herm_bvec
 -- name    : Formalism.QuantumDeterminants.GBasic.herm_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:12:38.034414+00:00
 -- url     : https://prove2.me/theorems/be8786e0-d999-49f8-9c99-6c6fdc51102b

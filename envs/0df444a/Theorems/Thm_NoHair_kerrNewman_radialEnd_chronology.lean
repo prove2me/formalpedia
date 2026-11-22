@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_radialEnd_chronology
 -- name    : NoHair.kerrNewman_radialEnd_chronology
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T19:45:09.990071+00:00
 -- url     : https://prove2.me/theorems/2f1eb1cc-08a2-43d4-bdd9-126d3d367c89

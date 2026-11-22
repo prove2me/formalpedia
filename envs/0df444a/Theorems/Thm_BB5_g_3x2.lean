@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB5_g_3x2
 -- name    : BB5.g_3x2
--- status  : Open
+-- status  : Proved
 -- author  : @loader3229
 -- created : 2026-11-22T14:39:37.081603+00:00
 -- url     : https://prove2.me/theorems/1ca0ae12-a4c5-4ffe-88b6-a98fa5e696b7

@@ -44748,7 +44748,7 @@
 {"parent": "I5Bound", "child": "Rectangle_defs", "via": ["solution", "statement"]}
 {"parent": "I5Bound", "child": "ResidueCalcOnRectangles_defs", "via": ["solution", "statement"]}
 {"parent": "I5Bound", "child": "ZetaBounds_defs", "via": ["solution", "statement"]}
-{"parent": "IDivGeom.ExpFam.eq_2_2", "child": "IDivGeom_ExpFam_Setting", "via": ["statement"]}
+{"parent": "IDivGeom.ExpFam.eq_2_2", "child": "IDivGeom_ExpFam_Setting", "via": ["solution", "statement"]}
 {"parent": "IDivGeom.ExpFam.eq_2_4", "child": "IDivGeom_ExpFam_Setting", "via": ["statement"]}
 {"parent": "IDivGeom.ExpFam.eq_3_18", "child": "IDivGeom_ExpFam_Setting", "via": ["statement"]}
 {"parent": "IDivGeom.ExpFam.eq_3_19", "child": "IDivGeom_ExpFam_Setting", "via": ["statement"]}
@@ -50968,7 +50968,7 @@
 {"parent": "KingRockAsymp.Distribution.theorem_2_4", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
 {"parent": "KingRockAsymp.Distribution.theorem_2_6", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
 {"parent": "KingRockAsymp.Distribution.theorem_2_7", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
-{"parent": "KingRockAsymp.Distribution.theorem_A3", "child": "KingRockAsymp_Distribution_Basic", "via": ["statement"]}
+{"parent": "KingRockAsymp.Distribution.theorem_A3", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
 {"parent": "KingRockAsymp.Distribution.thm_2_4_display_upper_lipschitz", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
 {"parent": "KingRockAsymp.Distribution.thm_2_6_display_lipschitz_bound", "child": "KingRockAsymp_Distribution_Basic", "via": ["solution", "statement"]}
 {"parent": "KingRockAsymp.Distribution.thm_2_6_display_semidifferentiable", "child": "KingRockAsymp_Distribution_Basic", "via": ["statement"]}
@@ -98135,11 +98135,11 @@
 {"parent": "McFadden1974.RandomUtility.lemma2_funeq", "child": "McFadden1974_RandomUtility_Model", "via": ["statement"]}
 {"parent": "McFadden1974.RandomUtility.lemma2_rational", "child": "McFadden1974_RandomUtility_Model", "via": ["statement"]}
 {"parent": "McFadden1974_MLE_Axioms", "child": "McFadden1974_MLE_Model", "via": ["statement"]}
-{"parent": "McLeishCLT.MDA.eq_2_2", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
+{"parent": "McLeishCLT.MDA.eq_2_2", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McLeishCLT.MDA.eq_2_5", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McLeishCLT.MDA.exp_approx", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
-{"parent": "McLeishCLT.MDA.theorem_2_1", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
-{"parent": "McLeishCLT.MDA.theorem_2_3", "child": "McLeishCLT_MDA_Setting", "via": ["statement"]}
+{"parent": "McLeishCLT.MDA.theorem_2_1", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
+{"parent": "McLeishCLT.MDA.theorem_2_3", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McLeishCLT.MDA.trunc_integral_prodT_eq_one", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McLeishCLT.MDA.trunc_isMDA", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
 {"parent": "McLeishCLT.MDA.trunc_lintegral_normSq_prodT_le", "child": "McLeishCLT_MDA_Setting", "via": ["solution", "statement"]}
