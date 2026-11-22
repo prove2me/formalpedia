@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CNFLearning873.Valiant.theorem_4_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-22T21:01:50.407794+00:00
 -- url     : https://prove2.me/submissions/4d869e98-4a25-492b-9b3a-58e641aff31a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CNFLearning873_Valiant_Execution
 import Theorems.Thm_CNFLearning873_Valiant_lemma_4_3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_gridGaussianForm_cubic_bound
 -- name    : Auto.gridGaussianForm_cubic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:54:41.643137+00:00
 -- url     : https://prove2.me/theorems/f2909973-baf7-4ef9-b662-fa46c8ca3b7c

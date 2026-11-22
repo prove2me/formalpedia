@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_stage_add
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.stage_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:28:44.671125+00:00
 -- url     : https://prove2.me/theorems/505d510b-4dd5-449f-8e09-7afa317f5018

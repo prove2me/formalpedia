@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_reduced_field_equations
 -- name    : NoHair.Weyl.kerr_reduced_field_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:27:49.152802+00:00
 -- url     : https://prove2.me/theorems/4ff30341-4b46-43c8-9f13-bf9b3114a071

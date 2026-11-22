@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_indexBasic_lidx_via
 -- name    : Formalism.HermitianLatticesTheory.indexBasic_lidx_via
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:47:40.10619+00:00
 -- url     : https://prove2.me/theorems/5266e090-79ab-4f90-89dd-7cbf5bafc278

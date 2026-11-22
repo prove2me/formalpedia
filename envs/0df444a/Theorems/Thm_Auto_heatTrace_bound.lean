@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_heatTrace_bound
 -- name    : Auto.heatTrace_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:54:35.621969+00:00
 -- url     : https://prove2.me/theorems/67c44504-b86f-4371-8278-592824606f9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_getLast__map_coord_39a438577d66
 -- name    : P2M_GridHam_getLast__map_coord_39a438577d66
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:28:01.61761+00:00
 -- url     : https://prove2.me/theorems/8eddcedb-fbc0-4023-a0c1-0240775418d7

@@ -27781,7 +27781,7 @@
 {"parent": "RecruitSmaller.lemma_3_8", "child": "RecruitSmaller_I", "via": ["statement"]}
 {"parent": "RecruitSmaller.lemma_3_8", "child": "RecruitSmaller_psi", "via": ["statement"]}
 {"parent": "DenseProdQSAT.Testing.simultaneous_hitting", "child": "DenseProdQSAT_Testing_Approximation", "via": ["statement"]}
-{"parent": "PfaffianRecognition.Recognition.wrong_sign_minor_identity", "child": "PfaffianRecognition_Recognition_polynomial_model", "via": ["statement"]}
+{"parent": "PfaffianRecognition.Recognition.wrong_sign_minor_identity", "child": "PfaffianRecognition_Recognition_polynomial_model", "via": ["solution", "statement"]}
 {"parent": "MomentAmbiguitySecretary.Secretary.robust_secretary_value", "child": "MomentAmbiguitySecretary_Secretary_Values", "via": ["solution", "statement"]}
 {"parent": "AutobidSPPE_residual", "child": "AutobidSPPE_response", "via": ["statement"]}
 {"parent": "DetSupportRank.DeterminantSupport.lemma_5_19", "child": "DetSupportRank_DeterminantSupport_Cokernels", "via": ["statement"]}
@@ -32380,7 +32380,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm37_0_0_4.s2_eq_g", "child": "OAIQ098G1168", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm7_0_1_11.s4_eq_g", "child": "OAIQ098G1319", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm7_0_1_11.s4_eq_g", "child": "OAIQ098G1324", "via": ["solution", "statement"]}
-{"parent": "PfaffianRecognition.Recognition.wrong_sign_zero_iff", "child": "PfaffianRecognition_Recognition_polynomial_model", "via": ["statement"]}
+{"parent": "PfaffianRecognition.Recognition.wrong_sign_zero_iff", "child": "PfaffianRecognition_Recognition_polynomial_model", "via": ["solution", "statement"]}
 {"parent": "EuclideanCRHardness_Covering_Parity", "child": "EuclideanCRHardness_Covering_Signed", "via": ["statement"]}
 {"parent": "EuclideanCRHardness_Covering_Parity", "child": "EuclideanCRHardness_Covering_Quadratic", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_1_0_2.s1_eq_g", "child": "OAIQ098G1238", "via": ["solution", "statement"]}
@@ -43562,7 +43562,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.power10_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.power10_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.power10_contains_g", "child": "OAIQ098G308", "via": ["solution", "statement"]}
-{"parent": "IQPForrelation832.SingleQuery.theorem_1", "child": "IQPForrelation832_SingleQuery_Programs", "via": ["statement"]}
+{"parent": "IQPForrelation832.SingleQuery.theorem_1", "child": "IQPForrelation832_SingleQuery_Programs", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_1_1_13.s4_eq_g", "child": "OAIQ098G1241", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm3_1_1_13.s4_eq_g", "child": "OAIQ098G1247", "via": ["solution", "statement"]}
 {"parent": "BookProof.ModeQuadratic.lop_lop_hermiteMv", "child": "ChapterNavierStokesDifferentialL2", "via": ["solution", "statement"]}
@@ -45140,7 +45140,7 @@
 {"parent": "QuadraticProbe717.Insertion.probe_covariance", "child": "QuadraticProbe717_Insertion_arithmetic", "via": ["statement"]}
 {"parent": "ResultantVNP_SupportedOnGrid", "child": "ResultantVNP_gridSum", "via": ["statement"]}
 {"parent": "OnlineSteinitz.Reduction.conditional_composition", "child": "OnlineSteinitz_Reduction_Randomness", "via": ["statement"]}
-{"parent": "PfaffianRecognition.Recognition.matching_sign_parity", "child": "PfaffianRecognition_Recognition_graph_model", "via": ["statement"]}
+{"parent": "PfaffianRecognition.Recognition.matching_sign_parity", "child": "PfaffianRecognition_Recognition_graph_model", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm4_1_0_6.sums_eq_g", "child": "OAIQ098G1295", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm4_1_0_6.sums_eq_g", "child": "OAIQ098G1240", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.power64_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}

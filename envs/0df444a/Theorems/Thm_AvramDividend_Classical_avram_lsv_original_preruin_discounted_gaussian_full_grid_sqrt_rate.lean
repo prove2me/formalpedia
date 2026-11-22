@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_lsv_original_preruin_discounted_gaussian_full_grid_sqrt_rate
 -- name    : AvramDividend.Classical.avram_lsv_original_preruin_discounted_gaussian_full_grid_sqrt_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T17:30:59.745223+00:00
 -- url     : https://prove2.me/theorems/2fa934ef-46c8-4ddc-9fa3-a3754405d0c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_actV_true
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.actV_true
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:28:10.637442+00:00
 -- url     : https://prove2.me/theorems/a2d76de2-220f-4f73-bb12-1dc056b1f61b

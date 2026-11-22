@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_mn_eq
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_mn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:27:39.188965+00:00
 -- url     : https://prove2.me/theorems/b1c1d8d8-a4e1-49af-821a-7964d18ba7f6

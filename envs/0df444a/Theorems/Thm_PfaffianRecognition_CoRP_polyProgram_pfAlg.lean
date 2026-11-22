@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_CoRP_polyProgram_pfAlg
 -- name    : PfaffianRecognition.CoRP.polyProgram_pfAlg
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-22T21:25:06.746915+00:00
 -- url     : https://prove2.me/theorems/0135ca86-36a0-4bee-b765-6f86875c5919

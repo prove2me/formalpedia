@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_OrthogonalSumAlt_rkK_bot
 -- name    : Formalism.BranchingDeterminantCap.OrthogonalSumAlt.rkK_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:28:11.445382+00:00
 -- url     : https://prove2.me/theorems/d5d0d9ff-69df-438e-b8ce-e2df82054d9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CNFLearning873_Valiant_lemma_4_3
 -- name    : CNFLearning873.Valiant.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T05:08:18.685278+00:00
 -- url     : https://prove2.me/theorems/3f5eb91d-470f-4a84-a8ca-30b3e1afdddc

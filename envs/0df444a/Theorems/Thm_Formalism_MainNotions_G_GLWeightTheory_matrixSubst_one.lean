@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_matrixSubst_one
 -- name    : Formalism.MainNotions.G.GLWeightTheory.matrixSubst_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:29:31.795894+00:00
 -- url     : https://prove2.me/theorems/179fffe0-9114-49c5-876d-bbfcd47a818b

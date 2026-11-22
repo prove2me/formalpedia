@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_CoRP_pfAlg_complete
 -- name    : PfaffianRecognition.CoRP.pfAlg_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-22T21:24:59.432217+00:00
 -- url     : https://prove2.me/theorems/0fbac4d2-8e16-4069-a749-f97ba8137ca5

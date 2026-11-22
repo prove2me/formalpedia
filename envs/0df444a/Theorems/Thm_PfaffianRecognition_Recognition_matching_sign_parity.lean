@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_Recognition_matching_sign_parity
 -- name    : PfaffianRecognition.Recognition.matching_sign_parity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T04:39:19.89313+00:00
 -- url     : https://prove2.me/theorems/cd0c4fa2-1d30-4f0b-8244-7562709ab0ce

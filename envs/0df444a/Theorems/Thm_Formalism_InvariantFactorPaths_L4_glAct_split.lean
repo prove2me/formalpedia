@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_glAct_split
 -- name    : Formalism.InvariantFactorPaths.L4.glAct_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:29:57.121131+00:00
 -- url     : https://prove2.me/theorems/c5f8fbd0-2d1a-45ef-9822-80d3152bec61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chainAdjacent_cons
 -- name    : GridHam.chainAdjacent_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:29:17.307299+00:00
 -- url     : https://prove2.me/theorems/07cc8bb7-5da2-436f-bcb1-ff623a51b35e

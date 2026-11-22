@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_evGLR_mapCoord
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_evGLR_mapCoord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:29:48.656847+00:00
 -- url     : https://prove2.me/theorems/cc5728cb-2d7b-4bf6-ae1f-a9977602f2b1

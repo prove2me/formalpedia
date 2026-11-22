@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_w_mem
 -- name    : Formalism.GM.FockB.w_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:27:01.988096+00:00
 -- url     : https://prove2.me/theorems/b9ef7510-e7af-452e-97e1-c6d5b5915be7

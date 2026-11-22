@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_cyclic_trace_control
 -- name    : Auto.cyclic_trace_control
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:44:37.212038+00:00
 -- url     : https://prove2.me/theorems/973d166d-c30e-4fe6-b7a6-de9da4755f39

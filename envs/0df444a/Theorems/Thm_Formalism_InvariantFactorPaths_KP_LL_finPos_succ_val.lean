@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_finPos_succ_val
 -- name    : Formalism.InvariantFactorPaths.KP.LL.finPos_succ_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:25:34.181491+00:00
 -- url     : https://prove2.me/theorems/fe68f16c-0278-4a9e-886f-924c27ed534d

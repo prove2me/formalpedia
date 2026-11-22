@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_CoRP_inCoRP_of_polyProgram
 -- name    : PfaffianRecognition.CoRP.inCoRP_of_polyProgram
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-22T21:25:03.792819+00:00
 -- url     : https://prove2.me/theorems/348d4c04-9c69-4550-8cac-c22b17c342e0

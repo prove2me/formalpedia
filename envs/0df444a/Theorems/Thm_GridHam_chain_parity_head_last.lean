@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_chain_parity_head_last
 -- name    : GridHam.chain_parity_head_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:23:53.802923+00:00
 -- url     : https://prove2.me/theorems/6abfaefe-84b9-43eb-a5ee-f51a162b0e7d

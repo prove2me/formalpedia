@@ -69529,8 +69529,8 @@
 {"parent": "AdaptSubCover.Rounds.lemma_3_3", "child": "AdaptSubCover_Rounds_Analysis", "via": ["solution", "statement"]}
 {"parent": "BSPConvex.CMM.lifted_set_convex", "child": "BSPConvex_CMM_Model", "via": ["solution", "statement"]}
 {"parent": "RamanujanLostNotebook_PartI_ch01_ch1P", "child": "RamanujanLostNotebook_PartI_shared_ramanujanTheta", "via": ["statement"]}
-{"parent": "SEF.zero_free_region_classical", "child": "SEF_theta", "via": ["statement"]}
-{"parent": "SEF.zero_free_region_classical", "child": "SEF_hecke", "via": ["statement"]}
+{"parent": "SEF.zero_free_region_classical", "child": "SEF_theta", "via": ["solution", "statement"]}
+{"parent": "SEF.zero_free_region_classical", "child": "SEF_hecke", "via": ["solution", "statement"]}
 {"parent": "PermInvConvex.Sparsity.lemma_3_1", "child": "PermInvConvex_Sparsity_Setting", "via": ["solution", "statement"]}
 {"parent": "PermInvConvex.Sparsity.lemma_3_1", "child": "PermInvConvex_Sparsity_Majorization", "via": ["solution", "statement"]}
 {"parent": "PermInvConvex.Sparsity.lemma_3_1", "child": "ModernConvex_Spectral_SDR", "via": ["solution", "statement"]}
@@ -69664,8 +69664,8 @@
 {"parent": "SEF.hecke_seven_eighths", "child": "SEF_theta", "via": ["statement"]}
 {"parent": "SEF.hecke_seven_eighths", "child": "SEF_hecke", "via": ["statement"]}
 {"parent": "SwitchCostGames.Stationary.stationary_response_affine", "child": "SwitchCostGames_Stationary_Model", "via": ["solution", "statement"]}
-{"parent": "SEF.zero_free_region_vinogradov_korobov", "child": "SEF_theta", "via": ["statement"]}
-{"parent": "SEF.zero_free_region_vinogradov_korobov", "child": "SEF_hecke", "via": ["statement"]}
+{"parent": "SEF.zero_free_region_vinogradov_korobov", "child": "SEF_theta", "via": ["solution", "statement"]}
+{"parent": "SEF.zero_free_region_vinogradov_korobov", "child": "SEF_hecke", "via": ["solution", "statement"]}
 {"parent": "SLPEPricing.Regret.lemma_3", "child": "SLPEPricing_Regret_Model", "via": ["solution", "statement"]}
 {"parent": "RelaxedEqMDP.Discrete.lemma_2_1_eq_2_17", "child": "RelaxedEqMDP_Discrete_Setting", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Gap20.P15.additive_gap_bound", "child": "QAlgorithms_Papers_Independent_Gap20_P15", "via": ["statement"]}

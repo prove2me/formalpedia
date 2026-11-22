@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GridHam_getLast__append_cons_527000d4767a
 -- name    : P2M_GridHam_getLast__append_cons_527000d4767a
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:28:09.823777+00:00
 -- url     : https://prove2.me/theorems/045cf8c3-d6e8-4792-9d39-6aa3c31c0d41

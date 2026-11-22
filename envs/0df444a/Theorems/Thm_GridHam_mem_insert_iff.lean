@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GridHam_mem_insert_iff
 -- name    : GridHam.mem_insert_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:29:58.27823+00:00
 -- url     : https://prove2.me/theorems/685cd300-9462-4d1b-b117-cd7f9a53385f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Auto_cyc_cube_le
 -- name    : Auto.cyc_cube_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T18:44:23.356953+00:00
 -- url     : https://prove2.me/theorems/0c674cf3-4e40-4b12-b631-777d85eb2405

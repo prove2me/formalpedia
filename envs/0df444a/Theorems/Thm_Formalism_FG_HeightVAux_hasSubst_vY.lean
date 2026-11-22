@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_HeightVAux_hasSubst_vY
 -- name    : Formalism.FG.HeightVAux.hasSubst_vY
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:21:56.448798+00:00
 -- url     : https://prove2.me/theorems/5b8d3f5f-01f2-49f6-83cc-a8e39e0c6c1c

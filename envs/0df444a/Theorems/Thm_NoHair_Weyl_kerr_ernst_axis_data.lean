@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_ernst_axis_data
 -- name    : NoHair.Weyl.kerr_ernst_axis_data
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:22:42.601807+00:00
 -- url     : https://prove2.me/theorems/99560a05-e03a-4124-9675-8e80c5f19ae2

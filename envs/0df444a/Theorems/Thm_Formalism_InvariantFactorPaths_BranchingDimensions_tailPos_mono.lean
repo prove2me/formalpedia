@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_tailPos_mono
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.tailPos_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:29:48.346278+00:00
 -- url     : https://prove2.me/theorems/1e19e738-375a-423e-ae90-f61ebb081dd5

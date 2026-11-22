@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_Recognition_wrong_sign_zero_iff
 -- name    : PfaffianRecognition.Recognition.wrong_sign_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T04:41:53.095928+00:00
 -- url     : https://prove2.me/theorems/1e205351-5e90-4abe-9278-398ded08c4c9

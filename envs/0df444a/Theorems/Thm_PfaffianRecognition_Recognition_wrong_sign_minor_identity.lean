@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PfaffianRecognition_Recognition_wrong_sign_minor_identity
 -- name    : PfaffianRecognition.Recognition.wrong_sign_minor_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T04:41:47.356669+00:00
 -- url     : https://prove2.me/theorems/13ae8b00-0b30-4847-9f1f-7f86558bf3f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_last_X
 -- name    : Formalism.InvariantFactorPaths.L4.last_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:26:51.700848+00:00
 -- url     : https://prove2.me/theorems/1bf7fa6c-f483-418f-b663-2fd440b1a726

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_TwoCentre_Advanced_regular_horizon
 -- name    : NoHair.TwoCentre.Advanced.regular_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:29:49.579877+00:00
 -- url     : https://prove2.me/theorems/5112e9cb-e66c-4ba3-ba7a-01031f4af387

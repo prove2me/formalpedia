@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_jump6_A_original_finiteactivity_zero_sigma_cutoff_physical_square_L1
 -- name    : AvramDividend.Classical.avram_jump6_A_original_finiteactivity_zero_sigma_cutoff_physical_square_L1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:16:25.702832+00:00
 -- url     : https://prove2.me/theorems/117c124c-22d1-474c-bbd3-3c2a1475d00a
