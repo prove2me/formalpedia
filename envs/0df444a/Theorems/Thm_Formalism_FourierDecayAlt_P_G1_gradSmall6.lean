@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G1_gradSmall6
 -- name    : Formalism.FourierDecayAlt.P.G1.gradSmall6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:19:33.827901+00:00
 -- url     : https://prove2.me/theorems/aa80573f-5041-44e2-976d-762d761028d4

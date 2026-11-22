@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NOFSeparation750_CodedGIP_theorem_5_1
 -- name    : NOFSeparation750.CodedGIP.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T02:43:39.925347+00:00
 -- url     : https://prove2.me/theorems/737d9706-895e-485e-9832-781ae5989647

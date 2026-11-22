@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_MatrixChance_borell_enlargement_B_5
 -- name    : RobustOpt2009.MatrixChance.borell_enlargement_B_5
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-31T06:14:28.748007+00:00
 -- url     : https://prove2.me/theorems/1135abd6-83d7-460b-88a7-afb497f900ad

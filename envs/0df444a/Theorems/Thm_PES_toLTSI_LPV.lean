@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PES_toLTSI_LPV
 -- name    : PES.toLTSI_LPV
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:09:35.04234+00:00
 -- url     : https://prove2.me/theorems/ebbcf823-5228-4e8c-9571-48035b6b28b0

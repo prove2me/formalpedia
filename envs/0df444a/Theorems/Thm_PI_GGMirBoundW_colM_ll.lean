@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMirBoundW_colM_ll
 -- name    : PI.GGMirBoundW.colM_ll
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:01:01.563859+00:00
 -- url     : https://prove2.me/theorems/564e17e2-de47-463c-92ee-db952c81b89f

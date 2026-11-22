@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_IntegralSubstitution_integral_pow
 -- name    : Formalism.FG.IntegralSubstitution.integral_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:17:19.693809+00:00
 -- url     : https://prove2.me/theorems/a6eb2a2c-f573-4b64-ace7-fc5311f26efe

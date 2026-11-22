@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_ingoing_areal_angular_ricci
 -- name    : NoHair.ingoing_areal_angular_ricci
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:08:00.279484+00:00
 -- url     : https://prove2.me/theorems/85165353-5225-4fd9-be75-4d4a4264d220

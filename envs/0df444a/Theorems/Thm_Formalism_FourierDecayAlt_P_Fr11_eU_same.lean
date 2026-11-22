@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr11_eU_same
 -- name    : Formalism.FourierDecayAlt.P.Fr11.eU_same
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:18:59.110209+00:00
 -- url     : https://prove2.me/theorems/8727f270-4d60-4a0b-b102-0f4dff9e696e

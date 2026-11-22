@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_Weyl_kerr_parameters_from_rod_and_spin
 -- name    : NoHair.Weyl.kerr_parameters_from_rod_and_spin
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-22T21:19:25.223793+00:00
 -- url     : https://prove2.me/theorems/a34b3d37-03ee-44db-9e73-73a91095a625

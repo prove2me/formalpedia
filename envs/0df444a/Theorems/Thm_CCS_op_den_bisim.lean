@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_op_den_bisim
 -- name    : CCS.op_den_bisim
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:11:33.778922+00:00
 -- url     : https://prove2.me/theorems/27e508b8-93db-4e14-8285-afc578fdd24f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr11_ofWord_cons_plus
 -- name    : Formalism.FourierDecayAlt.P.Fr11.ofWord_cons_plus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:19:04.373931+00:00
 -- url     : https://prove2.me/theorems/c0103ca7-7193-4cb2-bc0a-612d5b4d52cb

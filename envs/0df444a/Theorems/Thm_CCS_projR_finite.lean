@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_projR_finite
 -- name    : CCS.projR_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:10:29.657147+00:00
 -- url     : https://prove2.me/theorems/3c8e53f7-1b71-497c-b43d-171013b6f5e0

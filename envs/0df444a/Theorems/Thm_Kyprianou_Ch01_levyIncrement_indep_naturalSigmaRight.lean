@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_levyIncrement_indep_naturalSigmaRight
 -- name    : Kyprianou.Ch01.levyIncrement_indep_naturalSigmaRight
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:01:37.49846+00:00
 -- url     : https://prove2.me/theorems/905b504d-7107-4c93-97df-7b2e72cf6b4c

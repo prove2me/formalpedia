@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_projR_union
 -- name    : CCS.projR_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:09:44.731334+00:00
 -- url     : https://prove2.me/theorems/35f1278e-03a0-4656-b999-17b62466ed3c

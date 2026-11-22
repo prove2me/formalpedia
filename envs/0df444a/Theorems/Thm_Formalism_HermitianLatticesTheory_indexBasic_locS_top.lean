@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_indexBasic_locS_top
 -- name    : Formalism.HermitianLatticesTheory.indexBasic_locS_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:18:52.984807+00:00
 -- url     : https://prove2.me/theorems/8c246541-bbca-47c3-a54a-25c8ea8c4cae

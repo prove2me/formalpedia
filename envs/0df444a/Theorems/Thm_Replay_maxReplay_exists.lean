@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_maxReplay_exists
 -- name    : Replay.maxReplay_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:08:33.554807+00:00
 -- url     : https://prove2.me/theorems/ffd43433-174b-41e3-a82d-84400896c3ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_dQ_eq
 -- name    : Formalism.L2.Indef.IndefRows.dQ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:15:53.662311+00:00
 -- url     : https://prove2.me/theorems/878053b1-785b-4700-8135-22d8257e31a4

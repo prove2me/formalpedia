@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_MatrixChance_theorem_10_1_2
 -- name    : RobustOpt2009.MatrixChance.theorem_10_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:46.3548+00:00
 -- url     : https://prove2.me/theorems/4428ed9f-e092-452c-8fb2-cbef3c9adf7b

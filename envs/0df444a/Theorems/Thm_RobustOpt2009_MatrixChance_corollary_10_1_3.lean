@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_MatrixChance_corollary_10_1_3
 -- name    : RobustOpt2009.MatrixChance.corollary_10_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:44.289914+00:00
 -- url     : https://prove2.me/theorems/64c06bb7-8f67-420d-b7cb-ede6ba4c9b98

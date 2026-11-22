@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_saturProps
 -- name    : Formalism.F.saturProps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:09:30.098701+00:00
 -- url     : https://prove2.me/theorems/81ec961d-ca83-424b-8938-a9a12031e86a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_ColData_invZ___f21f866b969d
 -- name    : P2M_Formalism_L2_Indef_ColData_invZ___f21f866b969d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:19:00.450052+00:00
 -- url     : https://prove2.me/theorems/f9853caf-3d1e-4caa-a5c8-cb12e7906b86

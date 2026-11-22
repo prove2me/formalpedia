@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Replay_replaySet_eq_minReplaySet
 -- name    : Replay.replaySet_eq_minReplaySet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:08:43.889429+00:00
 -- url     : https://prove2.me/theorems/0a9cf07a-dc2f-49af-8b98-f6483f31d2a3

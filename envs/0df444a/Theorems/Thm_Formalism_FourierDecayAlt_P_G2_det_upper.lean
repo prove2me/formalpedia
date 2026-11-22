@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_G2_det_upper
 -- name    : Formalism.FourierDecayAlt.P.G2.det_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:19:57.261952+00:00
 -- url     : https://prove2.me/theorems/87e95490-7dd8-4b64-bff1-928cf271ce57

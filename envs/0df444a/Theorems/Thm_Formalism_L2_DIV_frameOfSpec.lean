@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_frameOfSpec
 -- name    : Formalism.L2.DIV.frameOfSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:18:57.735578+00:00
 -- url     : https://prove2.me/theorems/0b342f12-7e97-499d-9915-32fca0a0f86c

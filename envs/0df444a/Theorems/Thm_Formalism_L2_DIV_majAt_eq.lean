@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_majAt_eq
 -- name    : Formalism.L2.DIV.majAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:18:50.742574+00:00
 -- url     : https://prove2.me/theorems/7c80d6f9-011e-41f5-9e65-fe567ed1bb4a

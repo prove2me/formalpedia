@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_projL_eq_pmap
 -- name    : CCS.projL_eq_pmap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:10:34.018168+00:00
 -- url     : https://prove2.me/theorems/03985d29-0f90-4ffd-8b0f-0b19a80a0889

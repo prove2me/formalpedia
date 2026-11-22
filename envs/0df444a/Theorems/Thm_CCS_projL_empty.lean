@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCS_projL_empty
 -- name    : CCS.projL_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-22T21:10:05.146193+00:00
 -- url     : https://prove2.me/theorems/bc4ca9aa-2935-4f48-abb0-5504aa67a150

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_SolveVAux_low_P
 -- name    : Formalism.FG.SolveVAux.low_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:15:20.594846+00:00
 -- url     : https://prove2.me/theorems/9989a679-6cc1-4d19-b037-f817b84ea7bc
