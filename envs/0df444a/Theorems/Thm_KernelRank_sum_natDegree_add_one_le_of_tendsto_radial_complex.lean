@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_sum_natDegree_add_one_le_of_tendsto_radial_complex
 -- name    : KernelRank.sum_natDegree_add_one_le_of_tendsto_radial_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:43:35.715809+00:00
 -- url     : https://prove2.me/theorems/30b56f9c-4b23-4151-a1f9-1a900161e520

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_rank_le_five_tendstoUniformlyOn_radial_sq_mul_cos
 -- name    : KernelRank.exists_rank_le_five_tendstoUniformlyOn_radial_sq_mul_cos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:44:55.370214+00:00
 -- url     : https://prove2.me/theorems/ee8ce96e-f473-42df-a0b0-f2ffc9dec534

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GammaExpansion_sum_range_eq_of_zero
 -- name    : Formalism.GM.GammaExpansion.sum_range_eq_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:35.511719+00:00
 -- url     : https://prove2.me/theorems/d25f19d5-3d42-48b0-8f89-d99612aa072e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_linear_mass_bound
 -- name    : GrothendieckLB.linear_mass_bound
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T06:51:43.554828+00:00
 -- url     : https://prove2.me/theorems/36483b25-be9a-4ad5-baa8-d01fe440ae89

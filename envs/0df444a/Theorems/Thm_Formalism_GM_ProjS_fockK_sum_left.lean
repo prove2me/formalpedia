@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_fockK_sum_left
 -- name    : Formalism.GM.ProjS.fockK_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:22:37.33594+00:00
 -- url     : https://prove2.me/theorems/8e0c91b2-432d-423d-b285-1771dc3d96c2

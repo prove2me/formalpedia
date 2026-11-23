@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_Top_nextEvenTop
 -- name    : Formalism.GrowthSums.Top.nextEvenTop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:03.675019+00:00
 -- url     : https://prove2.me/theorems/7501cd28-9f30-48db-8e23-8b3072c23954

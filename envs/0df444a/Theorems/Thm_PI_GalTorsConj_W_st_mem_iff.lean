@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_st_mem_iff
 -- name    : PI.GalTorsConj.W.st_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:07.009851+00:00
 -- url     : https://prove2.me/theorems/573ae4ea-269c-4578-bd33-b923e22712dd

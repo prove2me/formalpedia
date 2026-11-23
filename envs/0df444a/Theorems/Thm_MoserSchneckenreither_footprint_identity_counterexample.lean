@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoserSchneckenreither_footprint_identity_counterexample
 -- name    : MoserSchneckenreither.footprint_identity_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-21T08:57:06.617311+00:00
 -- url     : https://prove2.me/theorems/bdbbf29a-e612-4478-bd79-83d06042087f

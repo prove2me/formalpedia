@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_eulL_pderiv_mem
 -- name    : Formalism.GM.ProjS.eulL_pderiv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:57.345282+00:00
 -- url     : https://prove2.me/theorems/e80c29ae-50be-49fe-b897-83ae170d7800

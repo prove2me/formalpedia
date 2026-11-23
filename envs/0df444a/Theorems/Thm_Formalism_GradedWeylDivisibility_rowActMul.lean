@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowActMul
 -- name    : Formalism.GradedWeylDivisibility.rowActMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:07:40.679942+00:00
 -- url     : https://prove2.me/theorems/c91a5591-a6a7-4232-bc23-f341c3e64fa2

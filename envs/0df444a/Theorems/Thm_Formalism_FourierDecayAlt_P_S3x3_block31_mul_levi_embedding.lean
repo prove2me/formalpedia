@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x3_block31_mul_levi_embedding
 -- name    : Formalism.FourierDecayAlt.P.S3x3.block31_mul_levi_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:35:07.175481+00:00
 -- url     : https://prove2.me/theorems/f7127dc8-f5df-47c2-9da5-7f59ef3a7651

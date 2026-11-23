@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowActDiagWeight
 -- name    : Formalism.GradedWeylDivisibility.rowActDiagWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:54:08.604736+00:00
 -- url     : https://prove2.me/theorems/e64876da-28f9-4c3c-8063-a60ae6ed5dfd

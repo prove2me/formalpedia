@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_radial_two_eq_iff
 -- name    : KernelRank.separableRank_radial_two_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:40:15.041179+00:00
 -- url     : https://prove2.me/theorems/1f5c5579-766d-45f1-bc81-d40a620dac7a

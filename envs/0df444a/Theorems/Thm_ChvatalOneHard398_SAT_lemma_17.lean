@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalOneHard398_SAT_lemma_17
 -- name    : ChvatalOneHard398.SAT.lemma_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:38:48.426783+00:00
 -- url     : https://prove2.me/theorems/b762f7ed-400c-4fed-92f3-e90e570dbc25

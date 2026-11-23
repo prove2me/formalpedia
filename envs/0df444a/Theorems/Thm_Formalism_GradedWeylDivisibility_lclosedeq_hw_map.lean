@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lclosedeq_hw_map
 -- name    : Formalism.GradedWeylDivisibility.lclosedeq_hw_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:02:51.275344+00:00
 -- url     : https://prove2.me/theorems/f8a4bd95-07c9-40f8-b1c4-07e0b189fdaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhDualGram_ren_psubst
 -- name    : PI.UnitaryGroupMassFormula.PhDualGram.ren_psubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:45:00.300901+00:00
 -- url     : https://prove2.me/theorems/aaeb899f-2d1d-4175-a362-1cd140175264

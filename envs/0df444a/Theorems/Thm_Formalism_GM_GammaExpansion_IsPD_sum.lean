@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GammaExpansion_IsPD_sum
 -- name    : Formalism.GM.GammaExpansion.IsPD.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:49:49.014812+00:00
 -- url     : https://prove2.me/theorems/84563a28-428e-4c8a-ae22-fec0d2375553

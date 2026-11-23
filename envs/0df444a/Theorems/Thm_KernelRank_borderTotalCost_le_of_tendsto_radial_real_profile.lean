@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_borderTotalCost_le_of_tendsto_radial_real_profile
 -- name    : KernelRank.borderTotalCost_le_of_tendsto_radial_real_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:43:28.282811+00:00
 -- url     : https://prove2.me/theorems/e9452d4c-52e3-4cf7-a8df-59a628730dcc

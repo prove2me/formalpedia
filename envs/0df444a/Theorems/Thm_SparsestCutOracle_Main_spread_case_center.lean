@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparsestCutOracle_Main_spread_case_center
 -- name    : SparsestCutOracle.Main.spread_case_center
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:44:00.069614+00:00
 -- url     : https://prove2.me/theorems/2f22884d-d05c-431d-a911-1d4123d80447

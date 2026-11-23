@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_SSD_Good_pow
 -- name    : Formalism.GM.M.SSD.Good.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:45:05.724468+00:00
 -- url     : https://prove2.me/theorems/cc029810-dc3f-40a4-b259-cfaf9c5867a2

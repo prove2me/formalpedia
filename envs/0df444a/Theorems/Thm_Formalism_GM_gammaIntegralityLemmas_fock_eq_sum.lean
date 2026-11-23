@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_fock_eq_sum
 -- name    : Formalism.GM.gammaIntegralityLemmas.fock_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:36:00.638196+00:00
 -- url     : https://prove2.me/theorems/ec7dcbb3-d64f-461e-842d-f4644161387f

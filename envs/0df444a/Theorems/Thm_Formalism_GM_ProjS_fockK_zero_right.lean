@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_fockK_zero_right
 -- name    : Formalism.GM.ProjS.fockK_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:37.086821+00:00
 -- url     : https://prove2.me/theorems/4542f0e8-4a61-4ff5-b3f2-b4dca8215fe3

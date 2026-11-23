@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_Inv_opU_const_mul
 -- name    : Formalism.L2.Th1.H.Inv.opU_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:51.258675+00:00
 -- url     : https://prove2.me/theorems/b620ad7f-8ed9-468c-82ae-33f57485f926

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IsIntP_neg
 -- name    : Formalism.GM.gammaIntegralityLemmas.IsIntP.neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:47.449508+00:00
 -- url     : https://prove2.me/theorems/b297fde9-d9f4-462a-abdd-9512f79c2740

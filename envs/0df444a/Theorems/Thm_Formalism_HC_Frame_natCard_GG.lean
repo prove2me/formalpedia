@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_natCard_GG
 -- name    : Formalism.HC.Frame.natCard_GG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:39:56.418615+00:00
 -- url     : https://prove2.me/theorems/fe9697a8-56ac-4385-b578-f462e570f8e6

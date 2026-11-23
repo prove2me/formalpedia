@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_chainE_mem
 -- name    : Formalism.GM.FockB.chainE_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:20:54.183731+00:00
 -- url     : https://prove2.me/theorems/c0a94e6f-4a5a-42e9-b6c6-cac3ff11f9dc

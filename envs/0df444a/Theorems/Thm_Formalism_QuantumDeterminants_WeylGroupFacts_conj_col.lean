@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WeylGroupFacts_conj_col
 -- name    : Formalism.QuantumDeterminants.WeylGroupFacts.conj_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:02.762714+00:00
 -- url     : https://prove2.me/theorems/4e30d9e3-8c5f-42c3-a44a-0de5e0ca83ff

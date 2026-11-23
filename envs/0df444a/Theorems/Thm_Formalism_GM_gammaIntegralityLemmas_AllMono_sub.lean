@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_AllMono_sub
 -- name    : Formalism.GM.gammaIntegralityLemmas.AllMono.sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:13.594472+00:00
 -- url     : https://prove2.me/theorems/02bcae3b-7073-4e19-a3dd-2834f2166b59

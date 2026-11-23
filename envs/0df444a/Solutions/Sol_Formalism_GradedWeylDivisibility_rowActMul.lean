@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.GradedWeylDivisibility.rowActMul
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-23T03:00:30.158998+00:00
+-- url     : https://prove2.me/submissions/3664e051-2c4e-4ae7-9889-2c4187d242d5
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalC
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSIdxFinite
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_SSBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowActDiagWeight
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowActMul
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLLe
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLKBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLDiag
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLTwist
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaLTwMem
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_TensorBasis
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_BlockActTensor
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalD
+import Theorems.Thm_Formalism_GradedWeylDivisibility_row_action_mul
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.GradedWeylDivisibility
+namespace Formalism.GradedWeylDivisibility
+theorem _root_.solution : RowActMul := row_action_mul
+end Formalism.GradedWeylDivisibility

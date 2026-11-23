@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_MeanGammaLemmas_split_det
 -- name    : Formalism.GM.MeanGammaLemmas.split_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:54.076806+00:00
 -- url     : https://prove2.me/theorems/af71f8a8-3bf4-4ec2-93f1-aec2c0b678ed

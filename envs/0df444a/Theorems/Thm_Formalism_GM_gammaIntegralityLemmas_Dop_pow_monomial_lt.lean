@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_Dop_pow_monomial_lt
 -- name    : Formalism.GM.gammaIntegralityLemmas.Dop_pow_monomial_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:09.910805+00:00
 -- url     : https://prove2.me/theorems/49cb1c8c-4462-4a27-8d67-8fb3536c1158

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ITPIRPreproc_MatchVec_private_of_stepPrivate
 -- name    : ITPIRPreproc.MatchVec.private_of_stepPrivate
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:49:59.795107+00:00
 -- url     : https://prove2.me/theorems/e27e7085-9ffc-485b-80d7-4d24d0907d45

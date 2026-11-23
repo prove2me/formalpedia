@@ -37259,10 +37259,10 @@
 {"parent": "OAIQ098G1520", "child": "OAIQ098G1423", "via": ["statement"]}
 {"parent": "OAIQ098G1520", "child": "OAIQ098G018", "via": ["statement"]}
 {"parent": "OAIQ098G1520", "child": "OAIQ098G395", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_pad", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_Cn", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_K", "via": ["statement"]}
-{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_Phi", "via": ["statement"]}
+{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_pad", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_Cn", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_K", "via": ["solution", "statement"]}
+{"parent": "KhintchineTwoRegime.lemma_5", "child": "KhintchineTwoRegime_Phi", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_coord9_turn7_original_singular_geometric_generator_profile", "child": "AvramDividend.Classical.avram_a19_affine_singular_subunit_original_generator_eq", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_coord9_turn7_original_singular_geometric_generator_profile", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_coord9_turn7_original_singular_geometric_generator_profile", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

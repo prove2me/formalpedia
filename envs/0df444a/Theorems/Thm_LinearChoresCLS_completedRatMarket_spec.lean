@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearChoresCLS_completedRatMarket_spec
 -- name    : LinearChoresCLS.completedRatMarket_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:47:28.412728+00:00
 -- url     : https://prove2.me/theorems/fa36d6e2-e5ad-4386-8650-5bf4349cbeca

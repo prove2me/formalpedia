@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_badCrit_be_smul_left
 -- name    : Formalism.GM.badCrit_be_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:55.227697+00:00
 -- url     : https://prove2.me/theorems/0dcea5e0-a3d6-4816-844f-9a20e5710144

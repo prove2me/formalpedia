@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QMA2ClassicalSep_Main_proposition_5_1
 -- name    : QMA2ClassicalSep.Main.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T21:02:52.832112+00:00
 -- url     : https://prove2.me/theorems/65006590-3137-4548-b1f0-caf404e077c7

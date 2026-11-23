@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldlat_rowAct_inv_left
 -- name    : Formalism.GradedWeylDivisibility.ldlat_rowAct_inv_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:21.129738+00:00
 -- url     : https://prove2.me/theorems/61b697cf-5935-4934-b7c6-237c472a334b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_FT_apply
 -- name    : Formalism.GM.gammaIntegralityLemmas.FT_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:22.988036+00:00
 -- url     : https://prove2.me/theorems/f13337fe-d138-49cf-9aca-bf4329c83985

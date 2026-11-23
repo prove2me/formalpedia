@@ -28278,7 +28278,7 @@
 {"parent": "TestingEstimation.Dense.penalized_minimum", "child": "TestingEstimation_Dense_Objective", "via": ["statement"]}
 {"parent": "QStateSearch_bitsBefore", "child": "QStateSearch_Step", "via": ["statement"]}
 {"parent": "AlmostKing.Query.lemma_14", "child": "AlmostKing_Query_Regularity", "via": ["statement"]}
-{"parent": "CorrelatedAuctionComplexity.Main.singleton_payoff_difference", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
+{"parent": "CorrelatedAuctionComplexity.Main.singleton_payoff_difference", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_3_r4_eq_g", "child": "OAIQ098G1464", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.mpower0_3_r4_eq_g", "child": "OAIQ098G431", "via": ["solution", "statement"]}
 {"parent": "CSPSubsample.lemma_3_1", "child": "CSPSubsample_Instance", "via": ["statement"]}
@@ -37501,7 +37501,7 @@
 {"parent": "QMAvsQCIP_pcAccept", "child": "QMAvsQCIP_CTree_run", "via": ["statement"]}
 {"parent": "Pr6453.shifted_moments", "child": "Pr6453_Strictification", "via": ["statement"]}
 {"parent": "Pr6453.shifted_moments", "child": "Pr6453_RankMoments", "via": ["statement"]}
-{"parent": "ChvatalOneHard398.SAT.lemma_17", "child": "ChvatalOneHard398_SAT_Geometry", "via": ["statement"]}
+{"parent": "ChvatalOneHard398.SAT.lemma_17", "child": "ChvatalOneHard398_SAT_Geometry", "via": ["solution", "statement"]}
 {"parent": "CompDesign.thm_4_1_potential_increases", "child": "CompDesignBFM_IsSubmodularSF", "via": ["solution", "statement"]}
 {"parent": "CompDesign.thm_4_1_potential_increases", "child": "CompDesign_PhiLex", "via": ["solution", "statement"]}
 {"parent": "CompDesign.thm_4_1_potential_increases", "child": "CompDesignBFM_IsMonotoneSF", "via": ["solution", "statement"]}

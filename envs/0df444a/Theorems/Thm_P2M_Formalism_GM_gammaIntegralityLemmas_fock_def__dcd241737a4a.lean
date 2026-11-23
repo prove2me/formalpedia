@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_gammaIntegralityLemmas_fock_def__dcd241737a4a
 -- name    : P2M_Formalism_GM_gammaIntegralityLemmas_fock_def__dcd241737a4a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:20.887452+00:00
 -- url     : https://prove2.me/theorems/ee783e7d-f230-403b-96b7-d7fede813b47

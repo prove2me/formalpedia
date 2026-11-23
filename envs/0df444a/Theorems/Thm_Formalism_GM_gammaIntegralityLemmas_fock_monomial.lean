@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_fock_monomial
 -- name    : Formalism.GM.gammaIntegralityLemmas.fock_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:23:49.975862+00:00
 -- url     : https://prove2.me/theorems/16094fbb-0c4d-42e1-9049-f38f0d190297

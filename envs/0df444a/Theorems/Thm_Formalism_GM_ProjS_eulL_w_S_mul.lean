@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_eulL_w_S_mul
 -- name    : Formalism.GM.ProjS.eulL_w_S_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:37.181938+00:00
 -- url     : https://prove2.me/theorems/148a2a4e-aa42-45a1-b4b0-97282a1da6b3

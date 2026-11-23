@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DetBound_gaussR_sum_le
 -- name    : Formalism.GM.DetBound.gaussR_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:28.1678+00:00
 -- url     : https://prove2.me/theorems/4714275b-aff7-4fe3-b253-7b9688f04787

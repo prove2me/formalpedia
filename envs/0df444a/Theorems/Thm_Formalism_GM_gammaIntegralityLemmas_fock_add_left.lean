@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_fock_add_left
 -- name    : Formalism.GM.gammaIntegralityLemmas.fock_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:23:43.006273+00:00
 -- url     : https://prove2.me/theorems/4043b890-b57e-4a92-8e03-736dd4ac27c4

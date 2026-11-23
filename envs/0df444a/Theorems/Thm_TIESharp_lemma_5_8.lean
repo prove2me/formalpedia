@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TIESharp_lemma_5_8
 -- name    : TIESharp.lemma_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T01:36:13.994197+00:00
 -- url     : https://prove2.me/theorems/dd921394-b49a-4348-9a54-8aa3958ad682

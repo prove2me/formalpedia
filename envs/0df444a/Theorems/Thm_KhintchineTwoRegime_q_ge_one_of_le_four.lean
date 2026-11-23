@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhintchineTwoRegime_q_ge_one_of_le_four
 -- name    : KhintchineTwoRegime.q_ge_one_of_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:46:57.782898+00:00
 -- url     : https://prove2.me/theorems/9a2d3b09-42ca-4a57-95f7-a9880c083376

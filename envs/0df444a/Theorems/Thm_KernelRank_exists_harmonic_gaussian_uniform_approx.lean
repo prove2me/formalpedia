@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_exists_harmonic_gaussian_uniform_approx
 -- name    : KernelRank.exists_harmonic_gaussian_uniform_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:44:54.166302+00:00
 -- url     : https://prove2.me/theorems/30d5aef1-0330-4ec4-b585-be0d4d09737a

@@ -67073,9 +67073,9 @@
 {"parent": "OAI.MUB6.Certificate.GramEntries.Block3.entryEval9_2_e", "child": "OAIQ106E018", "via": ["statement"]}
 {"parent": "SubmodSparsify_SFMTime", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
 {"parent": "SubmodSparsify_SFMTime", "child": "FasterSFM_Machine", "via": ["statement"]}
-{"parent": "GrothendieckLB.linear_mass_bound", "child": "GrothendieckLB_IsSignFn", "via": ["statement"]}
-{"parent": "GrothendieckLB.linear_mass_bound", "child": "GrothendieckLB_p1Norm", "via": ["statement"]}
-{"parent": "GrothendieckLB.linear_mass_bound", "child": "ABPOnline_cG", "via": ["statement"]}
+{"parent": "GrothendieckLB.linear_mass_bound", "child": "GrothendieckLB_IsSignFn", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.linear_mass_bound", "child": "GrothendieckLB_p1Norm", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.linear_mass_bound", "child": "ABPOnline_cG", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalHeckePullback_fieldRange", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRationalLevelInclusion", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalRationalHeckePullback_fieldRange", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRationalHeckePullback", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.embeddedRow_ne_zero", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RayCoefficients", "via": ["solution", "statement"]}

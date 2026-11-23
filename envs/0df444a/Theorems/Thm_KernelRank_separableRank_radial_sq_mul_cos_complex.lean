@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_radial_sq_mul_cos_complex
 -- name    : KernelRank.separableRank_radial_sq_mul_cos_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:42:07.548391+00:00
 -- url     : https://prove2.me/theorems/d88ab212-1f37-4888-8e47-93a6685b539f

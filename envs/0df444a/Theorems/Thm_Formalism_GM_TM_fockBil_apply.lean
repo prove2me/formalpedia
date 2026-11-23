@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_TM_fockBil_apply
 -- name    : Formalism.GM.TM.fockBil_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:47:37.491804+00:00
 -- url     : https://prove2.me/theorems/556b5c12-0df1-4942-82ed-b026c353178b

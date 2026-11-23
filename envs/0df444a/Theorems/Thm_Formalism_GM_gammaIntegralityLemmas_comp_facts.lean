@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_comp_facts
 -- name    : Formalism.GM.gammaIntegralityLemmas.comp_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:56.731006+00:00
 -- url     : https://prove2.me/theorems/f10d2cca-8ee4-417e-90a3-467c3764aee6

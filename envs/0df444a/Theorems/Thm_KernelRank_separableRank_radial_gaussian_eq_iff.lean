@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelRank_separableRank_radial_gaussian_eq_iff
 -- name    : KernelRank.separableRank_radial_gaussian_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T02:41:50.325601+00:00
 -- url     : https://prove2.me/theorems/768f978d-be09-41c6-9760-4399a52ede4f

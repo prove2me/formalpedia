@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IVP_choose_add
 -- name    : Formalism.GM.gammaIntegralityLemmas.IVP.choose_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:35.5478+00:00
 -- url     : https://prove2.me/theorems/f5cd5fff-4d8a-43b0-9c7e-60bd91a86121

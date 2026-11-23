@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IsIntP_prod
 -- name    : Formalism.GM.gammaIntegralityLemmas.IsIntP.prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:31:02.056913+00:00
 -- url     : https://prove2.me/theorems/b97f9162-de4a-44a6-a76f-d64c52bfbeb1

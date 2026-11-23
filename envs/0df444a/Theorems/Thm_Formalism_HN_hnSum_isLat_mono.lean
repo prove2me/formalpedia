@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hnSum_isLat_mono
 -- name    : Formalism.HN.hnSum_isLat_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:04.272268+00:00
 -- url     : https://prove2.me/theorems/f8af0aaa-7aa6-4b70-9e9b-ceb5515febaf

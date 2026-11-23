@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceOperatorNorms_norm_sq_realize
 -- name    : Formalism.HN.PlaceOperatorNorms.norm_sq_realize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:27:03.132461+00:00
 -- url     : https://prove2.me/theorems/301b66c7-97ea-49d7-9766-847ba8591a2a

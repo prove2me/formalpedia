@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_fock_symm
 -- name    : Formalism.GM.gammaIntegralityLemmas.fock_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:33:49.946795+00:00
 -- url     : https://prove2.me/theorems/386fc4dc-5f1b-47b5-b157-56043c91dcc1

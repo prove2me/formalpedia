@@ -92219,8 +92219,8 @@
 {"parent": "AvramDividend.Classical.avram_b102_original_all_spatial_stop_rows_exact_physical_jump_finsets_ae", "child": "AvramDividend.Classical.avram_ubv_mixed12_original_finite_activity_jump_time_support_finite_ae", "via": ["solution", "statement"]}
 {"parent": "OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any", "child": "ExactInfiniteness", "via": ["solution", "statement"]}
 {"parent": "OAI.WeakPureInfiniteness.exists_binary_splitting_over_norm_slice_any", "child": "OAIQ246W000", "via": ["statement"]}
-{"parent": "LinearChoresCLS.completed_market_word", "child": "LinearChoresCLS_PriceFamily", "via": ["statement"]}
-{"parent": "LinearChoresCLS.completed_market_word", "child": "LinearChoresCLS_ChoresSearch", "via": ["statement"]}
+{"parent": "LinearChoresCLS.completed_market_word", "child": "LinearChoresCLS_PriceFamily", "via": ["solution", "statement"]}
+{"parent": "LinearChoresCLS.completed_market_word", "child": "LinearChoresCLS_ChoresSearch", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg1498", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg2274", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeCheck60_4_1", "child": "OAIQ259US010", "via": ["solution", "statement"]}

@@ -58374,15 +58374,15 @@
 {"parent": "ConstructiveArboricity.Exact.Supplement.rooted_construction", "child": "ConstructiveArboricity_Exact_Supplement_Interface", "via": ["statement"]}
 {"parent": "ReplicableDecisions_Supplement_robustValidSampleSizes", "child": "ReplicableDecisions_Supplement_strongValidSampleSizes", "via": ["statement"]}
 {"parent": "ReplicableDecisions_Supplement_robustValidSampleSizes", "child": "ReplicableDecisions_hellinger", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_FullyCompact", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_PkUniform", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_OWFExists", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_Correct", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_PayloadHiding", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_LWERegime", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_Efficient", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_ModeInd", "via": ["statement"]}
-{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_LWEHard", "via": ["statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_FullyCompact", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_PkUniform", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_OWFExists", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_Correct", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_PayloadHiding", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_LWERegime", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_Efficient", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_PPS_ModeInd", "via": ["solution", "statement"]}
+{"parent": "PPSLattice.lwe_regime_implies_owf", "child": "PPSLattice_LWEHard", "via": ["solution", "statement"]}
 {"parent": "AvgWorstGap_Supplement_GapMINKT", "child": "AvgWorstGap_InSigmaPO", "via": ["statement"]}
 {"parent": "AvgWorstGap_Supplement_GapMINKT", "child": "AvgWorstGap_Supplement_InPrP", "via": ["statement"]}
 {"parent": "AvgWorstGap_Supplement_GapMINKT", "child": "AvgWorstGap_Kt", "via": ["statement"]}

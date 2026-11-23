@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoInvMetricW_vnuMap_eq
 -- name    : PI.IsoInvMetricW.vnuMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:04.605949+00:00
 -- url     : https://prove2.me/theorems/4a80f3b7-6f26-43f6-8b1e-e343558f2820

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhintchineTwoRegime_proper_unit_distance_sq
 -- name    : KhintchineTwoRegime.proper_unit_distance_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:45:03.41858+00:00
 -- url     : https://prove2.me/theorems/a97d09d3-e069-401f-a7ab-bc7b8614af8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IVP_mono
 -- name    : Formalism.GM.gammaIntegralityLemmas.IVP.mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:40.920397+00:00
 -- url     : https://prove2.me/theorems/ba18ef9a-8404-4125-aab1-c88f8db7b11f

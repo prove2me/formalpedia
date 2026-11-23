@@ -57967,7 +57967,7 @@
 {"parent": "QEC.Coding.BDL26TwoSectorBadProjector.trace_Z", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_TwoSectorBadProjector", "via": ["solution", "statement"]}
 {"parent": "RandProdExp_TwoSided_Codes", "child": "GoodQLTC_dualCode", "via": ["statement"]}
 {"parent": "RandProdExp_TwoSided_Codes", "child": "RandProdExp_TwoSided_Grid", "via": ["statement"]}
-{"parent": "SparsestCutOracle.Main.spread_case_center", "child": "SparsestCutOracle_Main_Geometry", "via": ["statement"]}
+{"parent": "SparsestCutOracle.Main.spread_case_center", "child": "SparsestCutOracle_Main_Geometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXQBlockTransport.updated_supported", "child": "QEC_Coding_FiniteAlternatingConstruction_RXQBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXQBlockTransport.updated_supported", "child": "QEC_Coding_FiniteAlternatingConstruction_RXErrorPullback", "via": ["solution", "statement"]}
 {"parent": "PostedPriceLimits.FullRevelation.lemma_A_1", "child": "PostedPriceLimits_FullRevelation_Construction", "via": ["statement"]}
@@ -64115,7 +64115,7 @@
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_4_1_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.hammingWeight_wordListXor_mod8", "child": "QEC_Distillation_Triorthogonal_Transversal", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.hammingWeight_wordListXor_mod8", "child": "QEC_Distillation_Triorthogonal_CSS", "via": ["solution", "statement"]}
-{"parent": "QMA2ClassicalSep.Main.proposition_5_1", "child": "QMA2ClassicalSep_Main_HardDist", "via": ["statement"]}
+{"parent": "QMA2ClassicalSep.Main.proposition_5_1", "child": "QMA2ClassicalSep_Main_HardDist", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cuspPeriodStrip_image_subset", "child": "OAI_NumberTheory_DirichletL_Eisenstein_WhittakerContinuation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cuspPeriodStrip_image_subset", "child": "OAI_NumberTheory_DirichletL_Reciprocity_KubotaCharacter", "via": ["solution", "statement"]}
 {"parent": "LowDiameterNashWilliams_Main_Reserves", "child": "LowDiameterNashWilliams_Main_Geometry", "via": ["statement"]}
@@ -69263,7 +69263,7 @@
 {"parent": "QEC.Coding.BDL26NativePresentationGenerator.retained_space", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_InputSize", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativePresentationGenerator.retained_space", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
 {"parent": "PosIndexNash.PPADS.theorem_3_2", "child": "PosIndexNash_PPADS_PositiveIndexNash", "via": ["statement"]}
-{"parent": "PosIndexNash.PPADS.theorem_3_2", "child": "PosIndexNash_PPADS_PPADSClass", "via": ["statement"]}
+{"parent": "PosIndexNash.PPADS.theorem_3_2", "child": "PosIndexNash_PPADS_PPADSClass", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.ramifiedFrequencyChar_rep", "child": "OAI_NumberTheory_DirichletL_Eisenstein_RamifiedGaussSeries", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.ramifiedFrequencyChar_rep", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceProjection", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.ramifiedFrequencyChar_rep", "child": "OAI_NumberTheory_DirichletL_Reciprocity_KubotaCharacter", "via": ["solution", "statement"]}
@@ -82960,7 +82960,7 @@
 {"parent": "QEC.Coding.BDL26FiniteEmbeddingExperiment.stageSelected_original", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperiment", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FiniteEmbeddingExperiment.stageSelected_original", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperiment_Laws", "via": ["solution", "statement"]}
 {"parent": "NarrowDNF.Approx.theorem_1_2", "child": "NarrowDNF_Approx_DNF", "via": ["solution", "statement"]}
-{"parent": "IntegerRootsFN.Main.lemma_2_3", "child": "IntegerRootsFN_Main_PolynomialData", "via": ["statement"]}
+{"parent": "IntegerRootsFN.Main.lemma_2_3", "child": "IntegerRootsFN_Main_PolynomialData", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.physical_successor_random_input_ae", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PhysicalSuccessor", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.physical_successor_random_input_ae", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_GoodMapMeasurability", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.physical_successor_random_input_ae", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_EmbeddingKernel", "via": ["solution", "statement"]}

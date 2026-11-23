@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GammaExpansion_fock_sum_right
 -- name    : Formalism.GM.GammaExpansion.fock_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:18.262125+00:00
 -- url     : https://prove2.me/theorems/68e2e3a4-1f45-423e-ba40-4355cfffe8c6

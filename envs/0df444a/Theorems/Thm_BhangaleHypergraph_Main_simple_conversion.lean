@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BhangaleHypergraph_Main_simple_conversion
 -- name    : BhangaleHypergraph.Main.simple_conversion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:08:05.020203+00:00
 -- url     : https://prove2.me/theorems/ad87d469-b58f-4c45-9bef-a78425a49d71

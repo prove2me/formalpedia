@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_FT_insert
 -- name    : Formalism.GM.gammaIntegralityLemmas.FT_insert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:19.946834+00:00
 -- url     : https://prove2.me/theorems/e927067c-10f0-420d-b8af-65860ec46d5d

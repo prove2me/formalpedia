@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GaussNormRoots_gaussR_C
 -- name    : Formalism.GM.GaussNormRoots.gaussR_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:42.118796+00:00
 -- url     : https://prove2.me/theorems/d37d903b-b72f-4120-8332-560852b14960

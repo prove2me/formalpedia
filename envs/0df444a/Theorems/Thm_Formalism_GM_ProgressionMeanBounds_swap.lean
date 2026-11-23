@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProgressionMeanBounds_swap
 -- name    : Formalism.GM.ProgressionMeanBounds.swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:56.828632+00:00
 -- url     : https://prove2.me/theorems/b0cbb505-4ab1-49dc-9bbb-8f086151203f

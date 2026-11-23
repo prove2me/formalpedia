@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_GammaExpansion_q_isWH
 -- name    : Formalism.GM.GammaExpansion.q_isWH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:44:49.7749+00:00
 -- url     : https://prove2.me/theorems/a2827063-81a8-40bb-9517-47e9d21ebb82

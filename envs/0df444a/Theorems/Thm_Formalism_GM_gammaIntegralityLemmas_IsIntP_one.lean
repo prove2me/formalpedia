@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IsIntP_one
 -- name    : Formalism.GM.gammaIntegralityLemmas.IsIntP.one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:46.189817+00:00
 -- url     : https://prove2.me/theorems/523543d6-6bec-46f3-999a-e40699f59501

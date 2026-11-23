@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_galE_mem_Psi_iff
 -- name    : Formalism.HC.HostAx.galE_mem_Psi_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:18:10.861357+00:00
 -- url     : https://prove2.me/theorems/a1ce9a9a-041d-405c-b2e3-e68e175d2d0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_singleton_payoff_difference
 -- name    : CorrelatedAuctionComplexity.Main.singleton_payoff_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:05.602102+00:00
 -- url     : https://prove2.me/theorems/44991073-80ba-44d9-85ec-56fcf54822f3

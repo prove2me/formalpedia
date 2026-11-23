@@ -38906,7 +38906,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm36_0_0_11.s5_eq_g", "child": "OAIQ098G1164", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U91.wuminus_column_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "PRUMicrocrypt_QueryAlg", "child": "PRUMicrocrypt_phaseHadamardU", "via": ["statement"]}
-{"parent": "HGASUndecidable.Main.theorem_1_1", "child": "HGASUndecidable_Main_Codes", "via": ["statement"]}
+{"parent": "HGASUndecidable.Main.theorem_1_1", "child": "HGASUndecidable_Main_Codes", "via": ["solution", "statement"]}
 {"parent": "SFLOracleLowerBound.Hardness.agreement_balanced", "child": "SFLOracleLowerBound_Hardness_Replication", "via": ["statement"]}
 {"parent": "MovementSorting.Exponent.lemma_3_3", "child": "MovementSorting_Exponent_Geometry", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.lentry0_4_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
@@ -43221,7 +43221,7 @@
 {"parent": "OptRobustCD.lemma_5_9", "child": "OptRobustCD_DirEdges", "via": ["statement"]}
 {"parent": "ThinShellSampling.lemma_5_2", "child": "ThinShellSampling_renyi", "via": ["statement"]}
 {"parent": "ThinShellSampling.lemma_5_2", "child": "ThinShellSampling_expTilt", "via": ["statement"]}
-{"parent": "HGASUndecidable.Main.theorem_2_3", "child": "HGASUndecidable_Main_Codes", "via": ["statement"]}
+{"parent": "HGASUndecidable.Main.theorem_2_3", "child": "HGASUndecidable_Main_Codes", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Density", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Incidence", "via": ["statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Density", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_GridCover", "via": ["statement"]}
 {"parent": "QEC.Distillation.Ngu24MultiplicativeCCZ.taggedCubicPhaseAmplitude_coset", "child": "QEC_Distillation_PrimeQuditProtocol_CubicCSS", "via": ["solution", "statement"]}
@@ -50141,7 +50141,7 @@
 {"parent": "CoRSuccGap.theorem_1_1", "child": "CoRSuccGap_Gk", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_gledger18_original_topcap_physical_grid_centered", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gledger18_original_topcap_physical_grid_centered", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "BhangaleHypergraph.Main.simple_conversion", "child": "BhangaleHypergraph_Main_Relational", "via": ["statement"]}
+{"parent": "BhangaleHypergraph.Main.simple_conversion", "child": "BhangaleHypergraph_Main_Relational", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXCoarseInfluence.aggregate_agreement", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXCoarseInfluence.aggregate_agreement", "child": "QEC_Coding_FiniteAlternatingConstruction_RXCoarseInfluence", "via": ["solution", "statement"]}
 {"parent": "TurnstileRank.TightBounds.lemma_4_14", "child": "TurnstileRank_TightBounds_HardInstance", "via": ["statement"]}

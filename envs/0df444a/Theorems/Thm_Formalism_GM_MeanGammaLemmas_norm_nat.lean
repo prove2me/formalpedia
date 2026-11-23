@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_MeanGammaLemmas_norm_nat
 -- name    : Formalism.GM.MeanGammaLemmas.norm_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:57.913829+00:00
 -- url     : https://prove2.me/theorems/f79bada0-940d-4329-9998-f0117027f16e
