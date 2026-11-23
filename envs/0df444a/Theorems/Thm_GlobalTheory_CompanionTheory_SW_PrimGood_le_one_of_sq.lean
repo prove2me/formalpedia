@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_le_one_of_sq
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.le_one_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:52.374808+00:00
 -- url     : https://prove2.me/theorems/da23bc34-bea6-4d89-9593-953b027dbc59

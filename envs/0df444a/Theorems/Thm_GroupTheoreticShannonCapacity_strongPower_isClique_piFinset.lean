@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_strongPower_isClique_piFinset
 -- name    : GroupTheoreticShannonCapacity.strongPower_isClique_piFinset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:25:56.011352+00:00
 -- url     : https://prove2.me/theorems/ee012db1-8d6a-4b83-92b5-c214998603db

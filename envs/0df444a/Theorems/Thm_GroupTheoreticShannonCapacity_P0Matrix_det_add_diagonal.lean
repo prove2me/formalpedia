@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_det_add_diagonal
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.det_add_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:29:54.684306+00:00
 -- url     : https://prove2.me/theorems/859728c4-78fb-4bcc-b034-60fd26390d23

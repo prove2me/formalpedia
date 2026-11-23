@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_nonneg_of_isLUB_image
 -- name    : GlobalTheory.FiniteCovolume.nonneg_of_isLUB_image
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:51.418259+00:00
 -- url     : https://prove2.me/theorems/dbc6b87c-e5a4-4c60-a6bf-de73e691606f

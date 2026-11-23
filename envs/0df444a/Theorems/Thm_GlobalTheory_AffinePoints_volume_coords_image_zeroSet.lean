@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_volume_coords_image_zeroSet
 -- name    : GlobalTheory.AffinePoints.volume_coords_image_zeroSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:50:38.581271+00:00
 -- url     : https://prove2.me/theorems/0edd98d7-c54d-4cac-8aaf-3e4ac8215e07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletTail_hasSum_telescope
 -- name    : GlobalTheory.DirichletTail.hasSum_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:56:00.551284+00:00
 -- url     : https://prove2.me/theorems/2cf14248-638c-43be-8b95-74a905309ff0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroupTheoreticShannonCapacity_MAlpha_D__M__conjugation_a31a9f8e69a8
 -- name    : P2M_GroupTheoreticShannonCapacity_MAlpha_D__M__conjugation_a31a9f8e69a8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:43.264268+00:00
 -- url     : https://prove2.me/theorems/a0168568-da02-44af-a2a8-af47bf37a344

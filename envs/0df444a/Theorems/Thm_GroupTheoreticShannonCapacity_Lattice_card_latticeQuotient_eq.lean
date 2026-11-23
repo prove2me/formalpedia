@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_card_latticeQuotient_eq
 -- name    : GroupTheoreticShannonCapacity.Lattice.card_latticeQuotient_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:46.859998+00:00
 -- url     : https://prove2.me/theorems/41fe04e0-ff62-4d8d-8d00-25c93150887b

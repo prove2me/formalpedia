@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceCapacities_LowerBound_lemma_10_7
 -- name    : PriceCapacities.LowerBound.lemma_10_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-11T00:21:35.445726+00:00
 -- url     : https://prove2.me/theorems/231d417d-2d8e-40d0-a391-0a8a93c6fe02

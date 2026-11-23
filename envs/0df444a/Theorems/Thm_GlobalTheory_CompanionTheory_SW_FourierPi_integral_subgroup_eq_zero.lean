@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_integral_subgroup_eq_zero
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.integral_subgroup_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:33.81087+00:00
 -- url     : https://prove2.me/theorems/0cd8b264-c56d-4269-a835-acf149e16aed

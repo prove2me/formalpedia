@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measure_fixed_eq_zero_of_isFundamentalDomain
 -- name    : GlobalTheory.measure_fixed_eq_zero_of_isFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:16:19.90216+00:00
 -- url     : https://prove2.me/theorems/e339df8f-2548-488f-bb33-f617d62438d7

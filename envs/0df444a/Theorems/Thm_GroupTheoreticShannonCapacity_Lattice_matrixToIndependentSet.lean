@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_matrixToIndependentSet
 -- name    : GroupTheoreticShannonCapacity.Lattice.matrixToIndependentSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:25:41.411735+00:00
 -- url     : https://prove2.me/theorems/7507c8ed-54e6-43be-87c6-72979f40eff8

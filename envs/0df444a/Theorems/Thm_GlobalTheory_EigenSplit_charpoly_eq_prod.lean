@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_charpoly_eq_prod
 -- name    : GlobalTheory.EigenSplit.charpoly_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:52:50.855802+00:00
 -- url     : https://prove2.me/theorems/a26f4dc2-e01b-44f6-b55c-2d58864939d9

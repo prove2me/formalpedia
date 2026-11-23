@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_sum_fixing_eq_det
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.sum_fixing_eq_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:29:47.190798+00:00
 -- url     : https://prove2.me/theorems/be8e6647-eaf4-4857-9962-8af93471e638

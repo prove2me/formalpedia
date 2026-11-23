@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_independenceNumber_le_of_clique_cover
 -- name    : GroupTheoreticShannonCapacity.independenceNumber_le_of_clique_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:48.56143+00:00
 -- url     : https://prove2.me/theorems/19bd7926-8493-4300-97a3-eebde1aa982b

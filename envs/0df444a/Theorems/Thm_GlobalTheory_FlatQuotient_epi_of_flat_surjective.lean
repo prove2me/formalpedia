@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatQuotient_epi_of_flat_surjective
 -- name    : GlobalTheory.FlatQuotient.epi_of_flat_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:42.374511+00:00
 -- url     : https://prove2.me/theorems/95ff8510-c109-4dee-a32c-ba4d1bce7243

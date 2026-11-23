@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_summableRealSequenceBounded
 -- name    : Kyprianou.Ch01.summableRealSequenceBounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:29:11.084433+00:00
 -- url     : https://prove2.me/theorems/bbb747f1-d4cc-4242-8e86-24d670e41f85

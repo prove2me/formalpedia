@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_shannonCapacity_bddAbove
 -- name    : GroupTheoreticShannonCapacity.shannonCapacity_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:25:35.914045+00:00
 -- url     : https://prove2.me/theorems/6a551a2d-bbb8-47ee-a102-416eba518ecc

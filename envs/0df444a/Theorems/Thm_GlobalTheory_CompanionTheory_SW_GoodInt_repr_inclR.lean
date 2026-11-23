@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodInt_repr_inclR
 -- name    : GlobalTheory.CompanionTheory.SW.GoodInt.repr_inclR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:38.747489+00:00
 -- url     : https://prove2.me/theorems/a745dd0f-3552-49f4-971f-111ab0e0a7de

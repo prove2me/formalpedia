@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_isClique_arc
 -- name    : GroupTheoreticShannonCapacity.isClique_arc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:56.096339+00:00
 -- url     : https://prove2.me/theorems/4626d836-e7ac-4a67-a18a-8dfbd24c0cc8

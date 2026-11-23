@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsEquivResidueProd_fst
 -- name    : GroundTheory.LocalField.unitsEquivResidueProd_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:37.848801+00:00
 -- url     : https://prove2.me/theorems/180b4ddd-7eaf-4561-8937-77847ead6cc0

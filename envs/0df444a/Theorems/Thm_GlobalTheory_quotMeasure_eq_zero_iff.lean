@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotMeasure_eq_zero_iff
 -- name    : GlobalTheory.quotMeasure_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:17:58.05917+00:00
 -- url     : https://prove2.me/theorems/3cb6e81f-9485-4178-9471-439d2c7a83f4

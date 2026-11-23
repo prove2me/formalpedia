@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAdicFamily_comp
 -- name    : GlobalTheory.IsAdicFamily.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:36.996355+00:00
 -- url     : https://prove2.me/theorems/253e0d9d-9817-4ed0-82d0-8ff326e8b3bb

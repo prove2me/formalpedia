@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_index_intLatticeOfMatrix
 -- name    : GroupTheoreticShannonCapacity.Lattice.index_intLatticeOfMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:33.63514+00:00
 -- url     : https://prove2.me/theorems/7d656adb-5594-4e4d-8c6a-31eaccf9751c

@@ -31482,7 +31482,7 @@
 {"parent": "EntropyLocalCoord.Leader.ileader_le_cut_fraction", "child": "EntropyLocalCoord_Leader_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedGauss.completed_cube_inverse_split", "child": "OAI_NumberTheory_DirichletL_Eisenstein_FundamentalDomain", "via": ["solution", "statement"]}
 {"parent": "OAI.CompletedGauss.completed_cube_inverse_split", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_GlobalBinLoss", "via": ["solution", "statement"]}
-{"parent": "OptimalTraceDistance.Estimation.proposition_4_3", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["statement"]}
+{"parent": "OptimalTraceDistance.Estimation.proposition_4_3", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm15_1_0_4.sums_eq_g", "child": "OAIQ098G846", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm15_1_0_4.sums_eq_g", "child": "OAIQ098G855", "via": ["solution", "statement"]}
 {"parent": "BrickworkPorterThomas.Convergence.density_derivative", "child": "BrickworkPorterThomas_Convergence_Circuit", "via": ["statement"]}
@@ -36958,7 +36958,7 @@
 {"parent": "BookProof.FiniteSectionSingleTime.inner_basisVec_prime", "child": "ChapterFarisLavine", "via": ["statement"]}
 {"parent": "BookProof.FiniteSectionSingleTime.inner_basisVec_prime", "child": "ChapterEsaClosureCore", "via": ["statement"]}
 {"parent": "GaussProcSparsify_Optimal_Curves", "child": "GaussProcSparsify_Optimal_Gaussian", "via": ["statement"]}
-{"parent": "CorrelatedAuctionComplexity.Main.copy_gadget_correct", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["statement"]}
+{"parent": "CorrelatedAuctionComplexity.Main.copy_gadget_correct", "child": "CorrelatedAuctionComplexity_Main_MembershipTools", "via": ["solution", "statement"]}
 {"parent": "MWCSherali_muT", "child": "MWCSherali_planeMeasure", "via": ["statement"]}
 {"parent": "MWCSherali_muT", "child": "MWCSherali_Treg", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm19_1_1_8.sums_eq_g", "child": "OAIQ098G930", "via": ["solution", "statement"]}

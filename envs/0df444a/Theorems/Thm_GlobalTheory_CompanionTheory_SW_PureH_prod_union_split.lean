@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PureH_prod_union_split
 -- name    : GlobalTheory.CompanionTheory.SW.PureH.prod_union_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:30:01.444147+00:00
 -- url     : https://prove2.me/theorems/7270e16d-370e-457c-ae73-1644a229d3c7

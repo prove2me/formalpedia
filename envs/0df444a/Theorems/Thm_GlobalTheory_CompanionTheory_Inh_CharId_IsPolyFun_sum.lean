@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CharId_IsPolyFun_sum
 -- name    : GlobalTheory.CompanionTheory.Inh.CharId.IsPolyFun.sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:23:23.720912+00:00
 -- url     : https://prove2.me/theorems/f785d749-bf18-4a5b-acfa-504b6e21c52a

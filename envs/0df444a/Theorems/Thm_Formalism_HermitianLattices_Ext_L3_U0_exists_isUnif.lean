@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_isUnif
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_isUnif
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:21.013792+00:00
 -- url     : https://prove2.me/theorems/f4390d3a-3fec-494f-ab1b-7c90167f3a2b

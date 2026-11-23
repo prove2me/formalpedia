@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_continuous_sndA
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.continuous_sndA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:22.281061+00:00
 -- url     : https://prove2.me/theorems/486943cc-e4c4-436d-a7b1-80bc29954d10

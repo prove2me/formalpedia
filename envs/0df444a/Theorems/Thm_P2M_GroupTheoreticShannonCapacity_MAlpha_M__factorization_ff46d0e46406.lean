@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroupTheoreticShannonCapacity_MAlpha_M__factorization_ff46d0e46406
 -- name    : P2M_GroupTheoreticShannonCapacity_MAlpha_M__factorization_ff46d0e46406
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:37.190799+00:00
 -- url     : https://prove2.me/theorems/4dbeaa74-90c1-4b40-a51f-224fc3dbdac6

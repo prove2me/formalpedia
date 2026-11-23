@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_isSplitting_of_isUnit_discr
 -- name    : GlobalTheory.EigenSplit.isSplitting_of_isUnit_discr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:52:40.162692+00:00
 -- url     : https://prove2.me/theorems/aaf798de-9b60-49a6-97de-b5a0ba617a67

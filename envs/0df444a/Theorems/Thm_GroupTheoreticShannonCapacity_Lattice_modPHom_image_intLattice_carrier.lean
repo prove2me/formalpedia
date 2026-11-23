@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_modPHom_image_intLattice_carrier
 -- name    : GroupTheoreticShannonCapacity.Lattice.modPHom_image_intLattice_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:45.260848+00:00
 -- url     : https://prove2.me/theorems/b59b3419-be8c-4687-9165-b1e4698a5243

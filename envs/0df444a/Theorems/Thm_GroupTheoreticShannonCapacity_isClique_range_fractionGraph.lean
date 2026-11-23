@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_isClique_range_fractionGraph
 -- name    : GroupTheoreticShannonCapacity.isClique_range_fractionGraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:51.302663+00:00
 -- url     : https://prove2.me/theorems/2c937648-1b4c-497f-96ab-63db7ab45089

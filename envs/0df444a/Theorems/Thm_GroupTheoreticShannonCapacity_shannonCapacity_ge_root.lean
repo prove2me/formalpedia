@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_shannonCapacity_ge_root
 -- name    : GroupTheoreticShannonCapacity.shannonCapacity_ge_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:15.605698+00:00
 -- url     : https://prove2.me/theorems/dc86174c-bee9-40c4-a2ba-8be00bd3ba19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarCoord_half_add_self
 -- name    : GlobalTheory.CompanionTheory.SW.HaarCoord.half_add_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:46.300836+00:00
 -- url     : https://prove2.me/theorems/4eaf6c2c-3ffe-4296-902c-333f1dd5b944

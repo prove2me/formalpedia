@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_R_sub_bI_isUnit
 -- name    : GroupTheoreticShannonCapacity.Construction.R_sub_bI_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:06.15733+00:00
 -- url     : https://prove2.me/theorems/708b5f72-ca6e-4551-94f8-cb8394ce1096

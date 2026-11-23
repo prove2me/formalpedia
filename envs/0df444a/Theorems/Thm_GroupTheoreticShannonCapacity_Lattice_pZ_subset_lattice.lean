@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_pZ_subset_lattice
 -- name    : GroupTheoreticShannonCapacity.Lattice.pZ_subset_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:05.243387+00:00
 -- url     : https://prove2.me/theorems/91e698fe-c6ea-486d-b96f-d232d059692d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_card_latticeQuotient_eq_relIndex
 -- name    : GroupTheoreticShannonCapacity.Lattice.card_latticeQuotient_eq_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:46.888968+00:00
 -- url     : https://prove2.me/theorems/ca886703-f5a7-46fb-8b35-833239712bd3

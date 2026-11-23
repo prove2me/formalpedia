@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_vF_of_notMem
 -- name    : Formalism.L2.SG.Pf.G1.vF_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:33.328967+00:00
 -- url     : https://prove2.me/theorems/3420203b-f3ab-47d1-883c-1aca52464fd8

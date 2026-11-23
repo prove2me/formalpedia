@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreDensity_im_facts
 -- name    : GlobalTheory.CompanionTheory.SW.FibreDensity.im_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:38.058311+00:00
 -- url     : https://prove2.me/theorems/f25565c7-2c58-47cd-adad-41f8659cda22

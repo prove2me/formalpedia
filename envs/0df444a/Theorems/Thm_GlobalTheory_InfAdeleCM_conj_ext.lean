@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleCM_conj_ext
 -- name    : GlobalTheory.InfAdeleCM.conj_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:35.247252+00:00
 -- url     : https://prove2.me/theorems/ba5e427d-3987-4b4a-a632-30f4b7109035

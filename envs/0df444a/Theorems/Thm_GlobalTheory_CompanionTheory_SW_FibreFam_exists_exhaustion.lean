@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreFam_exists_exhaustion
 -- name    : GlobalTheory.CompanionTheory.SW.FibreFam.exists_exhaustion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:20.982647+00:00
 -- url     : https://prove2.me/theorems/db272db0-2d02-4e4e-8f98-610a9da0626e

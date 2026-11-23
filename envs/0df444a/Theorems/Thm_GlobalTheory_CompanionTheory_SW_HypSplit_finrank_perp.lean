@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_finrank_perp
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.finrank_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:16.226477+00:00
 -- url     : https://prove2.me/theorems/a2db5473-5270-492f-be64-4a77e3fedb17

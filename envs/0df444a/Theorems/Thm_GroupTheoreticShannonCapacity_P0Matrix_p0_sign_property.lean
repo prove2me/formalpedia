@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_p0_sign_property
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.p0_sign_property
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:05.980854+00:00
 -- url     : https://prove2.me/theorems/be4fcf8f-4a4d-4a2a-a488-b9006520f56c

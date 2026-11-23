@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypRot_rot_mul_neg
 -- name    : GlobalTheory.HypRot.rot_mul_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:32:40.954453+00:00
 -- url     : https://prove2.me/theorems/3aa6511e-b4c2-4013-bc2a-d06fd48a2388

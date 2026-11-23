@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_continuous_phi
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.continuous_phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:02.420249+00:00
 -- url     : https://prove2.me/theorems/380f3b47-a77d-4147-893a-b080c64da849

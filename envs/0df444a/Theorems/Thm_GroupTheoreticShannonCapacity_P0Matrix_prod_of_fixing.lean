@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_prod_of_fixing
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.prod_of_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:29:32.591798+00:00
 -- url     : https://prove2.me/theorems/077b4cf3-d30c-40d3-986c-2c25e842038b

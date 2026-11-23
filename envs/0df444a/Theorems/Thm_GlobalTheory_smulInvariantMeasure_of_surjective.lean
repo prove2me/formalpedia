@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smulInvariantMeasure_of_surjective
 -- name    : GlobalTheory.smulInvariantMeasure_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:50:00.614826+00:00
 -- url     : https://prove2.me/theorems/a22c0075-9d25-411e-b389-0ffccf41a0ff

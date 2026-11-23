@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_isP0_diagonal_right
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.isP0_diagonal_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:08.309969+00:00
 -- url     : https://prove2.me/theorems/93f61db0-f6d9-43d4-9fca-fa50f13394e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_fractionGraph_cohomomorphism
 -- name    : GroupTheoreticShannonCapacity.fractionGraph_cohomomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:41.839206+00:00
 -- url     : https://prove2.me/theorems/8026b1fa-dad5-4ef0-8bc9-1bd69e0cb168

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_intLatticeOfMatrix_toSubmodule
 -- name    : GroupTheoreticShannonCapacity.Lattice.intLatticeOfMatrix_toSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:33.000865+00:00
 -- url     : https://prove2.me/theorems/59f18381-2af2-4c31-8a03-5f46b2b1402b

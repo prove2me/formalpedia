@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_addSubgroupIndependenceNumber_le_independenceNumber
 -- name    : GroupTheoreticShannonCapacity.addSubgroupIndependenceNumber_le_independenceNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:32.46204+00:00
 -- url     : https://prove2.me/theorems/173937de-9922-4009-9a72-87f2036b3e68

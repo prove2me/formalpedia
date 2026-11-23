@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreGlue_piece
 -- name    : GlobalTheory.CompanionTheory.SW.FibreGlue.piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:25:29.784867+00:00
 -- url     : https://prove2.me/theorems/5bd4e05d-7fc3-45c6-9cfe-475197752935

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_shannonCapacity_le_of_cohomomorphism
 -- name    : GroupTheoreticShannonCapacity.shannonCapacity_le_of_cohomomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:23.437093+00:00
 -- url     : https://prove2.me/theorems/d8f88c69-183a-454a-a2dd-951c55916e6c

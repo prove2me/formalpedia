@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_almost_all_places
 -- name    : GlobalTheory.T.integral_almost_all_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:44:53.026167+00:00
 -- url     : https://prove2.me/theorems/2c61bcb1-8717-421c-8e90-fa23b85be12b

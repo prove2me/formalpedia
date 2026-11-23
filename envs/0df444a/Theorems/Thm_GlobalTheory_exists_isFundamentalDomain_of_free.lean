@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_of_free
 -- name    : GlobalTheory.exists_isFundamentalDomain_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:16:38.265203+00:00
 -- url     : https://prove2.me/theorems/9e0bd470-6907-48d7-92c9-ae575fafea80

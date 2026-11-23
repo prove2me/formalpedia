@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_prod_ite_sigma_eq
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.prod_ite_sigma_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:53.458835+00:00
 -- url     : https://prove2.me/theorems/7d7a6197-31e3-4908-95f0-26591f627bf4

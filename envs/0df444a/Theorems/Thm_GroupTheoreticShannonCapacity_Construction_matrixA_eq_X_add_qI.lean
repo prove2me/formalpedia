@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_matrixA_eq_X_add_qI
 -- name    : GroupTheoreticShannonCapacity.Construction.matrixA_eq_X_add_qI
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:03.034841+00:00
 -- url     : https://prove2.me/theorems/9d150772-8313-43fb-8c69-8431c6b08922

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_eventually_integral
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.eventually_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:19.110811+00:00
 -- url     : https://prove2.me/theorems/41849afe-07f9-4761-8f2d-95dd7961d80c

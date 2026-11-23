@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_addSubgroupShannonCapacity_lift
 -- name    : GroupTheoreticShannonCapacity.addSubgroupShannonCapacity_lift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:00.956806+00:00
 -- url     : https://prove2.me/theorems/fea18289-ba24-4684-9940-8dc2f5119829

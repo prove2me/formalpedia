@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_kHighest_sE_iff
 -- name    : GlobalTheory.CompanionTheory.DSUniq.kHighest_sE_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:33.806805+00:00
 -- url     : https://prove2.me/theorems/c728f01f-47df-4790-be42-390ae64c25da

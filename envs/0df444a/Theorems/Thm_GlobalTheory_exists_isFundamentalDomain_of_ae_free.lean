@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_of_ae_free
 -- name    : GlobalTheory.exists_isFundamentalDomain_of_ae_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:16:39.597044+00:00
 -- url     : https://prove2.me/theorems/7bd02497-9645-4698-a489-891b857eda8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_mem_latV
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.mem_latV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:04.2375+00:00
 -- url     : https://prove2.me/theorems/c4a22f01-f49d-4210-b5fe-cadbcd792afb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_strongPower_cohomomorphism_of_cohomomorphism
 -- name    : GroupTheoreticShannonCapacity.strongPower_cohomomorphism_of_cohomomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:56.826857+00:00
 -- url     : https://prove2.me/theorems/43064f6e-808d-4f85-8aa5-63e97a4d344c

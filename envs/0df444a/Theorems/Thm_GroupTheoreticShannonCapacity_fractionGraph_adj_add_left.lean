@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_fractionGraph_adj_add_left
 -- name    : GroupTheoreticShannonCapacity.fractionGraph_adj_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:41.882194+00:00
 -- url     : https://prove2.me/theorems/3d5ab1da-399a-4f3f-b4df-efd1ca002e2a

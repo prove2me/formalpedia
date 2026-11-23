@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_addSubgroupShannonCapacity_mono_of_addHom_cohom
 -- name    : GroupTheoreticShannonCapacity.addSubgroupShannonCapacity_mono_of_addHom_cohom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:45.745397+00:00
 -- url     : https://prove2.me/theorems/28c964a9-1918-4c91-b1b3-9b617635024d

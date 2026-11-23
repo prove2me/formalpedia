@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HIsom_isTopologicalRing_tens
 -- name    : GlobalTheory.CompanionTheory.SW.HIsom.isTopologicalRing_tens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:57.636612+00:00
 -- url     : https://prove2.me/theorems/2313ebcd-0a76-413d-bee1-ed6830ee04fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FD_card_places
 -- name    : GlobalTheory.CompanionTheory.SW.FD.card_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:46.527649+00:00
 -- url     : https://prove2.me/theorems/04f6a584-0e31-443b-86a9-36f60d578bec

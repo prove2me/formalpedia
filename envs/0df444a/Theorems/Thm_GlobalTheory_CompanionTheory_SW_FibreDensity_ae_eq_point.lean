@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreDensity_ae_eq_point
 -- name    : GlobalTheory.CompanionTheory.SW.FibreDensity.ae_eq_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:21.645899+00:00
 -- url     : https://prove2.me/theorems/98863cd5-def7-4709-bdec-f3363b44a063

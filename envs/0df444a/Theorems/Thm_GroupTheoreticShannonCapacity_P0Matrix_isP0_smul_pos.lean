@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_isP0_smul_pos
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.isP0_smul_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:09.480254+00:00
 -- url     : https://prove2.me/theorems/60bc603c-3ca9-45ff-8c9c-b8d9ade87b3d

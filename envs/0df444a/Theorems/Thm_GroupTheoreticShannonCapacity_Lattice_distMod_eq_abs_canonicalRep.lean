@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_distMod_eq_abs_canonicalRep
 -- name    : GroupTheoreticShannonCapacity.Lattice.distMod_eq_abs_canonicalRep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:10.839917+00:00
 -- url     : https://prove2.me/theorems/e6299d52-c30a-47ed-9ec5-0ff05d166434

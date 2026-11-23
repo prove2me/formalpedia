@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_distMod_add_left
 -- name    : GroupTheoreticShannonCapacity.distMod_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:41.281219+00:00
 -- url     : https://prove2.me/theorems/d715c420-35ea-4c19-b1aa-e6541c2234e6

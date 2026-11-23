@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_pmfNatLaplaceEq
 -- name    : Kyprianou.Ch01.pmfNatLaplaceEq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:15:01.452804+00:00
 -- url     : https://prove2.me/theorems/5c013752-0e7f-44e4-9234-cbc27da22dfe

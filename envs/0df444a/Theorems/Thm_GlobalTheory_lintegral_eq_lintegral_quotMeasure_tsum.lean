@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lintegral_eq_lintegral_quotMeasure_tsum
 -- name    : GlobalTheory.lintegral_eq_lintegral_quotMeasure_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:16:35.27418+00:00
 -- url     : https://prove2.me/theorems/6b196168-0a1c-451c-9d2e-b42b643dfe67

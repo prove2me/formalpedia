@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_isUnit_det_gram0
 -- name    : Formalism.L2.G.isUnit_det_gram0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:00.023186+00:00
 -- url     : https://prove2.me/theorems/a06c564a-4ed4-4508-8935-a4f3fa0ae5aa

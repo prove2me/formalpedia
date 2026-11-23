@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_independenceNumber_strongPower_fractionGraph_le
 -- name    : GroupTheoreticShannonCapacity.independenceNumber_strongPower_fractionGraph_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:59.632808+00:00
 -- url     : https://prove2.me/theorems/657f7cac-155f-4d32-b872-dd415d47bb64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_map_smul_tensor
 -- name    : GlobalTheory.ClassParam.map_smul_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:54.693529+00:00
 -- url     : https://prove2.me/theorems/d8376310-25e9-4921-8594-db3fb14cc120

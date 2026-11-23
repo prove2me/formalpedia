@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_shannonCapacity_fractionGraph_le
 -- name    : GroupTheoreticShannonCapacity.shannonCapacity_fractionGraph_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:25:52.398041+00:00
 -- url     : https://prove2.me/theorems/73c5e127-38e0-4ac6-956b-4231f309468d

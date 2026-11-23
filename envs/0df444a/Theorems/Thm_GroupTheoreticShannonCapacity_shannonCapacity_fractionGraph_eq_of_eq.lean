@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_shannonCapacity_fractionGraph_eq_of_eq
 -- name    : GroupTheoreticShannonCapacity.shannonCapacity_fractionGraph_eq_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:00.786429+00:00
 -- url     : https://prove2.me/theorems/8f46eede-ceb3-4c10-9b62-af249f858e38

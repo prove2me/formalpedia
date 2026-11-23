@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockForm_blockOne_zero_succ
 -- name    : GlobalTheory.CompanionTheory.SW.BlockForm.blockOne_zero_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:04.050671+00:00
 -- url     : https://prove2.me/theorems/ecedb240-4c56-41ec-807d-a2c2a26f8852

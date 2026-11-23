@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_exists_canonical_lattice_rep
 -- name    : GroupTheoreticShannonCapacity.Lattice.exists_canonical_lattice_rep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:21.105064+00:00
 -- url     : https://prove2.me/theorems/a3599722-3203-45b9-8848-e9ca27eed1bb

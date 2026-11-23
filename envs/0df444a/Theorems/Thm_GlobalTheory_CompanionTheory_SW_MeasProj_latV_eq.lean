@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_latV_eq
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.latV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:54.06003+00:00
 -- url     : https://prove2.me/theorems/07017825-57e9-456c-b237-78360e31ea20

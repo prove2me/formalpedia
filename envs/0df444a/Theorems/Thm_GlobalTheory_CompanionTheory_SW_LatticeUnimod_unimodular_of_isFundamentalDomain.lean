@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatticeUnimod_unimodular_of_isFundamentalDomain
 -- name    : GlobalTheory.CompanionTheory.SW.LatticeUnimod.unimodular_of_isFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:35.306414+00:00
 -- url     : https://prove2.me/theorems/f77c1a75-86f6-4c36-8016-ba05dac724dd

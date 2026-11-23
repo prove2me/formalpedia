@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_repr_one_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.repr_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:04.972804+00:00
 -- url     : https://prove2.me/theorems/b45c277f-48b2-4d73-b9e8-256f29fdbd26

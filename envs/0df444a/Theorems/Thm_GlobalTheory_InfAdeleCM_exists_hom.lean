@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleCM_exists_hom
 -- name    : GlobalTheory.InfAdeleCM.exists_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:44.201282+00:00
 -- url     : https://prove2.me/theorems/3201352e-384e-4215-b251-c38f165c9c17

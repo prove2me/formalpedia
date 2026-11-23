@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_isWH_algHom
 -- name    : Formalism.GradedWeylDivisibility.isWH_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:47.086694+00:00
 -- url     : https://prove2.me/theorems/5067dbd6-c5b5-441f-87d4-e9784e3fc98d

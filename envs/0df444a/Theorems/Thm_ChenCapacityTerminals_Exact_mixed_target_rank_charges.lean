@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenCapacityTerminals_Exact_mixed_target_rank_charges
 -- name    : ChenCapacityTerminals.Exact.mixed_target_rank_charges
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T02:37:23.0238+00:00
 -- url     : https://prove2.me/theorems/6cbf703d-8708-4b5f-8ef5-bfd3ff1d6986

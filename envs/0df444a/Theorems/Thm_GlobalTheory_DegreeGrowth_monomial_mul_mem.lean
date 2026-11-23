@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeGrowth_monomial_mul_mem
 -- name    : GlobalTheory.DegreeGrowth.monomial_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:04.459177+00:00
 -- url     : https://prove2.me/theorems/84d7398c-e694-4310-8cb6-a82ae2c741e4

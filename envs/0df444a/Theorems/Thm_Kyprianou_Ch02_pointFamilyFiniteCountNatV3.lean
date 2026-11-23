@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_pointFamilyFiniteCountNatV3
 -- name    : Kyprianou.Ch02.pointFamilyFiniteCountNatV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:27:49.51895+00:00
 -- url     : https://prove2.me/theorems/5bfd802b-cecd-4504-9bb5-f74bbbbb6922

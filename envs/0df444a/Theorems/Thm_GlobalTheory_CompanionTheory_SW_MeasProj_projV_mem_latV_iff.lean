@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_projV_mem_latV_iff
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.projV_mem_latV_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:44.372811+00:00
 -- url     : https://prove2.me/theorems/dd196fba-7c81-4812-82db-d5569323eaba

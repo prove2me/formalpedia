@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliBlocks_Tm_mem
 -- name    : GlobalTheory.CompanionTheory.CapelliBlocks.Tm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:22:12.635315+00:00
 -- url     : https://prove2.me/theorems/140782a4-82ac-4625-ac08-0e7aeb5845d7

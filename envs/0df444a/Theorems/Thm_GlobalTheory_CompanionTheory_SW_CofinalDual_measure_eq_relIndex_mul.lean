@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CofinalDual_measure_eq_relIndex_mul
 -- name    : GlobalTheory.CompanionTheory.SW.CofinalDual.measure_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:16.274209+00:00
 -- url     : https://prove2.me/theorems/6d08ed34-df30-4d09-842d-34c9c3695fd2

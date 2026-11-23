@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_eq_index_map_mul
 -- name    : GlobalTheory.setLIntegral_eq_index_map_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:01:42.005195+00:00
 -- url     : https://prove2.me/theorems/d9f53bc4-8169-4772-8010-03c16474fc87

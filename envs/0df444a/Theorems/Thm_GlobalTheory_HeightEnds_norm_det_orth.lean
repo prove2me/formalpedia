@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightEnds_norm_det_orth
 -- name    : GlobalTheory.HeightEnds.norm_det_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:17:43.044735+00:00
 -- url     : https://prove2.me/theorems/c27c5b00-59f4-4688-8f09-879c318ee004

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarCoord_half_trace_tmul
 -- name    : GlobalTheory.CompanionTheory.SW.HaarCoord.half_trace_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:47.925802+00:00
 -- url     : https://prove2.me/theorems/3d7ed79c-acf7-4709-9ddf-394f38577941

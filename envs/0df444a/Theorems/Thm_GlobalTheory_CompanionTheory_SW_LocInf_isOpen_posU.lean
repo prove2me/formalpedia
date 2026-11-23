@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocInf_isOpen_posU
 -- name    : GlobalTheory.CompanionTheory.SW.LocInf.isOpen_posU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:21.074986+00:00
 -- url     : https://prove2.me/theorems/344dd0a3-0d56-4786-bb5e-6d06f8e4d895

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_copy_gadget_correct
 -- name    : CorrelatedAuctionComplexity.Main.copy_gadget_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:34:26.527795+00:00
 -- url     : https://prove2.me/theorems/878c9605-920d-4a19-acfb-a187f2a44e41

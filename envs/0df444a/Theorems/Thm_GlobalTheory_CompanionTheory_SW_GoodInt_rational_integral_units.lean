@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodInt_rational_integral_units
 -- name    : GlobalTheory.CompanionTheory.SW.GoodInt.rational_integral_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:44:34.206475+00:00
 -- url     : https://prove2.me/theorems/1c76a4da-5779-48ea-b134-0564bca57739

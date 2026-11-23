@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_latticeQuotient_addSubgroup
 -- name    : GroupTheoreticShannonCapacity.Lattice.latticeQuotient_addSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:04.85831+00:00
 -- url     : https://prove2.me/theorems/3ab22631-c3b9-4390-93aa-d7ffd6b24b36

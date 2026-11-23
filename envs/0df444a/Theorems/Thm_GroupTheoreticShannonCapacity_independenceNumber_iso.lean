@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_independenceNumber_iso
 -- name    : GroupTheoreticShannonCapacity.independenceNumber_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:25:39.174387+00:00
 -- url     : https://prove2.me/theorems/7c1c14ed-a9fc-4251-b7ef-69cbf43c78ec

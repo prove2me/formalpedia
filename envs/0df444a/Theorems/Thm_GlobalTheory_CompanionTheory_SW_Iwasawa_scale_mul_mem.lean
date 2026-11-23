@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Iwasawa_scale_mul_mem
 -- name    : GlobalTheory.CompanionTheory.SW.Iwasawa.scale_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:17.282135+00:00
 -- url     : https://prove2.me/theorems/ec7d6169-5357-403b-adec-0a0199e39a99

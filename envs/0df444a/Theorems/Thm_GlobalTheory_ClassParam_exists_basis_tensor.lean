@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_exists_basis_tensor
 -- name    : GlobalTheory.ClassParam.exists_basis_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:28:05.769329+00:00
 -- url     : https://prove2.me/theorems/82c61e3d-4d69-48c3-8af6-da1d2b27fe5c

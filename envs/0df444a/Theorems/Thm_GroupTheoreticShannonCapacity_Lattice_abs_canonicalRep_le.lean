@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_abs_canonicalRep_le
 -- name    : GroupTheoreticShannonCapacity.Lattice.abs_canonicalRep_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:11.952695+00:00
 -- url     : https://prove2.me/theorems/49c2730a-eaae-4bf8-84df-40fc59b695cc

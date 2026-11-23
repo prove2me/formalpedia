@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_shannonCapacity_iso
 -- name    : GroupTheoreticShannonCapacity.shannonCapacity_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:06.690965+00:00
 -- url     : https://prove2.me/theorems/fb8772b8-52ca-428f-88be-949623f0cae0

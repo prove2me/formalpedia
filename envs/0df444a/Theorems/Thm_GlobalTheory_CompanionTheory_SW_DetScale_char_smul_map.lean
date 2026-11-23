@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DetScale_char_smul_map
 -- name    : GlobalTheory.CompanionTheory.SW.DetScale.char_smul_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:14.005813+00:00
 -- url     : https://prove2.me/theorems/10fef24c-691f-4f35-932d-b744033c420b

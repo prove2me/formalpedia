@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_index_pZn
 -- name    : GroupTheoreticShannonCapacity.Lattice.index_pZn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:25.91295+00:00
 -- url     : https://prove2.me/theorems/ea2300f1-0b69-455b-9578-0fc8d089960a

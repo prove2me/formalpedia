@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_independenceNumber_le_card
 -- name    : GroupTheoreticShannonCapacity.independenceNumber_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:26:18.058858+00:00
 -- url     : https://prove2.me/theorems/2885ddbf-88f5-4911-8540-d4d5227e93dc

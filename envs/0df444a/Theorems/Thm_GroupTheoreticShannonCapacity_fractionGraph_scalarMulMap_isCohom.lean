@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_fractionGraph_scalarMulMap_isCohom
 -- name    : GroupTheoreticShannonCapacity.fractionGraph_scalarMulMap_isCohom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:04.498872+00:00
 -- url     : https://prove2.me/theorems/7ca54b24-91ea-4cf7-908b-8890f9a5f5aa

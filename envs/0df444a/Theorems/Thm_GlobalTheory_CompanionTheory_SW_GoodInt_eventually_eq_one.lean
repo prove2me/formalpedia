@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodInt_eventually_eq_one
 -- name    : GlobalTheory.CompanionTheory.SW.GoodInt.eventually_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:43.373932+00:00
 -- url     : https://prove2.me/theorems/5d31ebf0-8427-495c-b78d-243cd8467cad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroupTheoreticShannonCapacity_Construction_diagPow_eq_D__e8c67f70ebf7
 -- name    : P2M_GroupTheoreticShannonCapacity_Construction_diagPow_eq_D__e8c67f70ebf7
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:09.592073+00:00
 -- url     : https://prove2.me/theorems/29916025-5577-49a8-97dc-62edaffc4548

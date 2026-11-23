@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_whisker_translT
 -- name    : GlobalTheory.CommPairing.whisker_translT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:49.813889+00:00
 -- url     : https://prove2.me/theorems/053a9555-1f11-4739-959b-0cda74376f06

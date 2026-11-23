@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockAlg_hE_blockOne_cons
 -- name    : GlobalTheory.CompanionTheory.SW.BlockAlg.hE_blockOne_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:23:57.872031+00:00
 -- url     : https://prove2.me/theorems/3ba2d777-1af6-4d79-8331-31f7f87a23fd

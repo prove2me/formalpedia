@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussOne_beta_one
 -- name    : GlobalTheory.CompanionTheory.SW.GaussOne.beta_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:36.421644+00:00
 -- url     : https://prove2.me/theorems/28a76574-11ae-45f7-9b50-34d14e3526b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_sign_of_fixing
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.sign_of_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:29:11.121901+00:00
 -- url     : https://prove2.me/theorems/ecd92672-82ae-40e9-97aa-28daba14d9e4

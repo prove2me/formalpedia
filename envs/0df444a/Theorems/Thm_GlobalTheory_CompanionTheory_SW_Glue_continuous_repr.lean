@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Glue_continuous_repr
 -- name    : GlobalTheory.CompanionTheory.SW.Glue.continuous_repr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:42.631432+00:00
 -- url     : https://prove2.me/theorems/2c4063e3-47d0-49b3-929e-fb4eb8927bc7

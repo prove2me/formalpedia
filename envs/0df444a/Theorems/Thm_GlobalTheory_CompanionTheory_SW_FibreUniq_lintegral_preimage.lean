@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreUniq_lintegral_preimage
 -- name    : GlobalTheory.CompanionTheory.SW.FibreUniq.lintegral_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:37.955222+00:00
 -- url     : https://prove2.me/theorems/80fe2d8b-135d-4a83-9c81-2df069491a85

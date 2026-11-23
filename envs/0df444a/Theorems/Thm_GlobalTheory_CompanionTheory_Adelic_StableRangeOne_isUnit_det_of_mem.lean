@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_StableRangeOne_isUnit_det_of_mem
 -- name    : GlobalTheory.CompanionTheory.Adelic.StableRangeOne.isUnit_det_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:45.266271+00:00
 -- url     : https://prove2.me/theorems/85bd1537-2df2-4edd-9049-09f5749f4ed0

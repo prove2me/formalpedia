@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_and_quotMeasure_eq
 -- name    : GlobalTheory.exists_isFundamentalDomain_and_quotMeasure_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:17:39.504797+00:00
 -- url     : https://prove2.me/theorems/a70f4a40-ede0-45f0-9513-469aa430d4d9

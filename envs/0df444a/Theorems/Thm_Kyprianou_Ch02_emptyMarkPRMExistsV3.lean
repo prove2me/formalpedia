@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_emptyMarkPRMExistsV3
 -- name    : Kyprianou.Ch02.emptyMarkPRMExistsV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:14:10.89334+00:00
 -- url     : https://prove2.me/theorems/f41d412a-016d-46e1-bf95-aef36c0955d3

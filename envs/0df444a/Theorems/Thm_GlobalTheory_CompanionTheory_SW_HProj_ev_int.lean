@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_ev_int
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.ev_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:05.670701+00:00
 -- url     : https://prove2.me/theorems/657aedc8-2551-4cf9-aa63-fb8b36f4c350

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ramificationIndex_mul_residueDegree
 -- name    : GroundTheory.LocalField.ramificationIndex_mul_residueDegree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:19:33.348372+00:00
 -- url     : https://prove2.me/theorems/d1a98660-f9a3-48f3-8dea-cfd4af2e3bf8

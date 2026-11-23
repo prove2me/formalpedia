@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_integral_subgroup_eq_real
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.integral_subgroup_eq_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:32.278466+00:00
 -- url     : https://prove2.me/theorems/12fc54d2-4746-41eb-ae51-b40fd23f68dd

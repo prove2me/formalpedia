@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_smallPositivePowerSeriesCoefficientBound
 -- name    : Kyprianou.Ch01.smallPositivePowerSeriesCoefficientBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T07:29:15.033474+00:00
 -- url     : https://prove2.me/theorems/3f8b1b05-b75c-4f83-bc7c-5d56d9cdc984

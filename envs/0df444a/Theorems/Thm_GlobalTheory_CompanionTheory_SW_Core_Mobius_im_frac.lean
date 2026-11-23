@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Mobius_im_frac
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Mobius.im_frac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:18.682384+00:00
 -- url     : https://prove2.me/theorems/634a8f9f-605e-454b-80b6-c6286f51957e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleCM_ext_eq_ofReal
 -- name    : GlobalTheory.InfAdeleCM.ext_eq_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:13.882505+00:00
 -- url     : https://prove2.me/theorems/bf056b86-e3a9-4165-909b-909cf064a657

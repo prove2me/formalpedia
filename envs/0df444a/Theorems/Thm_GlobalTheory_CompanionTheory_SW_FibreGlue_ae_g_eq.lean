@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreGlue_ae_g_eq
 -- name    : GlobalTheory.CompanionTheory.SW.FibreGlue.ae_g_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:24.207659+00:00
 -- url     : https://prove2.me/theorems/0d3af5da-1c15-447d-a5e1-6c9fc6d0b118

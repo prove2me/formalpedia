@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Construction_X_factorization
 -- name    : GroupTheoreticShannonCapacity.Construction.X_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:27:15.8728+00:00
 -- url     : https://prove2.me/theorems/2bcc1370-9223-469c-a26d-87e03bd106cb

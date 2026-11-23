@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_continuous_psi_dot
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.continuous_psi_dot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:27.517043+00:00
 -- url     : https://prove2.me/theorems/7fb531e7-b869-4afc-a616-dc9c1293e807

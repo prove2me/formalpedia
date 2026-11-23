@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeGrowth_boxSpan_mono
 -- name    : GlobalTheory.DegreeGrowth.boxSpan_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:03.070491+00:00
 -- url     : https://prove2.me/theorems/c01c3c7e-0f63-4ad7-b290-ea7c1c4999c3

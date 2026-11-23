@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_Lattice_latticeOfMatrix_add_pZ
 -- name    : GroupTheoreticShannonCapacity.Lattice.latticeOfMatrix_add_pZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:28:14.76694+00:00
 -- url     : https://prove2.me/theorems/7d46f199-10df-4030-b153-d3c6a32ed355

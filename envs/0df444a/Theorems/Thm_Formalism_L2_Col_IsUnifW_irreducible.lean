@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_IsUnifW_irreducible
 -- name    : Formalism.L2.Col.IsUnifW.irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:36.963428+00:00
 -- url     : https://prove2.me/theorems/b766ea32-cfc1-4257-a58e-364334869049

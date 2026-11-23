@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_P0Matrix_orderEmbOfFin_fixingPermEquiv
 -- name    : GroupTheoreticShannonCapacity.P0Matrix.orderEmbOfFin_fixingPermEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:29:13.105135+00:00
 -- url     : https://prove2.me/theorems/644be8a8-59f2-44f0-9039-fa7b0dbd3e61

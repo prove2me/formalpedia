@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsEquivResidueProd_symm_apply
 -- name    : GroundTheory.LocalField.unitsEquivResidueProd_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:34.866094+00:00
 -- url     : https://prove2.me/theorems/3567575b-d7a3-4992-8db9-e268b16a4617

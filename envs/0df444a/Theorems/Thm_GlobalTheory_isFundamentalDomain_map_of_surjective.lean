@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFundamentalDomain_map_of_surjective
 -- name    : GlobalTheory.isFundamentalDomain_map_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:50:36.623377+00:00
 -- url     : https://prove2.me/theorems/e2b72a1b-85ce-4f28-ae24-37874bbeb29f

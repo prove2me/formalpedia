@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupTheoreticShannonCapacity_addSubgroupShannonCapacity_le_shannonCapacity
 -- name    : GroupTheoreticShannonCapacity.addSubgroupShannonCapacity_le_shannonCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-23T07:25:36.070627+00:00
 -- url     : https://prove2.me/theorems/c7698ec7-4f12-49ae-baf9-9344c7865b3f
