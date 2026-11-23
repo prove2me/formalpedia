@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_errGood_nonneg
 -- name    : Formalism.EigenvalueLevelCeiling.errGood_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:44.69369+00:00
 -- url     : https://prove2.me/theorems/79af4a77-6768-498d-9a17-15b38264939f

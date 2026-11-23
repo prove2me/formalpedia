@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassSeriesLimit_seq_step
 -- name    : Formalism.ELL.WeierstrassSeriesLimit.seq_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:22:30.972625+00:00
 -- url     : https://prove2.me/theorems/c8a5f53b-c04f-4442-a71a-a9e0ace79122

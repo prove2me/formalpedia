@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_finiteRegionPoissonIntegralCharFunV1
 -- name    : Kyprianou.Ch02.finiteRegionPoissonIntegralCharFunV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:00:04.778131+00:00
 -- url     : https://prove2.me/theorems/03f6583b-3120-45f8-a040-998ea2e2336c

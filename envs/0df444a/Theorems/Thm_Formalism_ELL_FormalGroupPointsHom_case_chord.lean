@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_case_chord
 -- name    : Formalism.ELL.FormalGroupPointsHom.case_chord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:10:17.711432+00:00
 -- url     : https://prove2.me/theorems/df41913d-f406-4093-97c2-e479f264b6eb

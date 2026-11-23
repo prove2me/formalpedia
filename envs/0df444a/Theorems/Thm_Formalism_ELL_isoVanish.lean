@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_isoVanish
 -- name    : Formalism.ELL.isoVanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:25.082688+00:00
 -- url     : https://prove2.me/theorems/f3f83f91-e121-4647-8a3d-49926bf73b62

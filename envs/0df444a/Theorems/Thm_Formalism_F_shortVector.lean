@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_shortVector
 -- name    : Formalism.F.shortVector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:09:56.687588+00:00
 -- url     : https://prove2.me/theorems/4697015f-043d-4f37-a810-59b97a0e07bd

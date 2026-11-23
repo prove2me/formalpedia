@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_op_minorProd_shape
 -- name    : Formalism.DworkPowerSeriesWeights.op_minorProd_shape
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:39.250939+00:00
 -- url     : https://prove2.me/theorems/0777777b-49a3-4a89-a257-3e73998a67e3

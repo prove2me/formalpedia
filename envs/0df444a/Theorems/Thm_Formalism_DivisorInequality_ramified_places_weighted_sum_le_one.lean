@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisorInequality_ramified_places_weighted_sum_le_one
 -- name    : Formalism.DivisorInequality.ramified_places_weighted_sum_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:51:44.204505+00:00
 -- url     : https://prove2.me/theorems/91120d3f-7380-42b8-8968-090b7b3174d6

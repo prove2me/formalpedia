@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_nPderiv
 -- name    : Formalism.ELL.nPderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:02:24.400503+00:00
 -- url     : https://prove2.me/theorems/2336df3d-33aa-4f44-a52c-ed24cb1ad222

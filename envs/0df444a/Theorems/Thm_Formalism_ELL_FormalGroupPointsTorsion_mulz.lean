@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsTorsion_mulz
 -- name    : Formalism.ELL.FormalGroupPointsTorsion.mulz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:17:35.296097+00:00
 -- url     : https://prove2.me/theorems/c98f6cc6-003c-4598-aafb-1f43c7de87f9

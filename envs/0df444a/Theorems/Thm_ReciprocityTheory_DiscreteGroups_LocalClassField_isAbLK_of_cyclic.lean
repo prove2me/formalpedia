@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_isAbLK_of_cyclic
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.isAbLK_of_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:25.045111+00:00
 -- url     : https://prove2.me/theorems/c9c83e0d-3739-401b-8e95-0f34754e161d

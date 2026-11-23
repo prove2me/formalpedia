@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DeterminantJetScaling_descend
 -- name    : Formalism.InvariantFactorPaths.G7.DeterminantJetScaling.descend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:47.136125+00:00
 -- url     : https://prove2.me/theorems/2ea0b504-b109-4d3b-8afc-0a6a325351d1

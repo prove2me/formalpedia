@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherSpectralWitness_constructed
 -- name    : Kyprianou.Ch03.esscherSpectralWitness_constructed
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:07:53.415024+00:00
 -- url     : https://prove2.me/theorems/9f58ebc2-2f3d-434c-8014-a796ac63ecb3

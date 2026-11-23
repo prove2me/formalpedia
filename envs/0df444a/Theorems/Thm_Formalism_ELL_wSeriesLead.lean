@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wSeriesLead
 -- name    : Formalism.ELL.wSeriesLead
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:58.382317+00:00
 -- url     : https://prove2.me/theorems/03fd1726-50e6-4916-b31b-71268e1d2c67

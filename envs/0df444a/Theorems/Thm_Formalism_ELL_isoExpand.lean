@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_isoExpand
 -- name    : Formalism.ELL.isoExpand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:17.284432+00:00
 -- url     : https://prove2.me/theorems/b77caf77-e5b0-4d70-9f9b-e3de1a21bedb

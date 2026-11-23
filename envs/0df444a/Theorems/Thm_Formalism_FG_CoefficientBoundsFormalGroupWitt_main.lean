@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_CoefficientBoundsFormalGroupWitt_main
 -- name    : Formalism.FG.CoefficientBoundsFormalGroupWitt.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:15:29.623667+00:00
 -- url     : https://prove2.me/theorems/2f4d209a-cc05-44d7-ab1b-30d1e547b393

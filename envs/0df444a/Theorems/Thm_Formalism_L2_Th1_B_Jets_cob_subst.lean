@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_cob_subst
 -- name    : Formalism.L2.Th1.B.Jets.cob_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:16.955821+00:00
 -- url     : https://prove2.me/theorems/22da8110-3ff0-4d47-8726-454c6193643b

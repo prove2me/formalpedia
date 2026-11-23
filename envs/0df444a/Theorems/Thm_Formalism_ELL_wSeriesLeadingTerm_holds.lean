@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wSeriesLeadingTerm_holds
 -- name    : Formalism.ELL.wSeriesLeadingTerm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:02.764949+00:00
 -- url     : https://prove2.me/theorems/3365eccc-04cc-40e4-bbfe-8576c4e4d663

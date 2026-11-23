@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_torsionIntegral_of
 -- name    : Formalism.ELL.torsionIntegral_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:34.943981+00:00
 -- url     : https://prove2.me/theorems/b364cddb-ab87-4d96-8c9d-c7c26f70a424

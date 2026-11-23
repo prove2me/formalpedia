@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_sc_sc_inv
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.sc_sc_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:36.373201+00:00
 -- url     : https://prove2.me/theorems/f55dba4f-ba42-4811-ae4f-178cb6972388

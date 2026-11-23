@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_modelLegendre
 -- name    : Formalism.ELL.modelLegendre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:16.29253+00:00
 -- url     : https://prove2.me/theorems/8709f083-9156-4c24-8d63-0bbf25b1246d

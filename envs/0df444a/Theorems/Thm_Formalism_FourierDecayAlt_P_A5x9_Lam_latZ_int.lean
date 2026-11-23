@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_Lam_latZ_int
+-- name    : Formalism.FourierDecayAlt.P.A5x9.Lam_latZ_int
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T18:45:37.979804+00:00
+-- url     : https://prove2.me/theorems/7342f658-530c-4cca-ab7f-cfe9f378806c
+-- title:
+--   A5x9: Lam lat Z int
+-- statement:
+--   The A5x9 construction uses the Lam lat Z int property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LatticeAverageIdentity.lean#L540-L548
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LatticeAverageIdentity.lean#L540-L548
+
+import Definitions.Def_Formalism_HermitianCurvature_BlockKernelPropertiesOfSteps
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ColumnOperationTripleForm
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CharacterOrthogonalityDual
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelQuotientFinite
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LatticeAverageIdentity
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Matrix
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.A5x9
+open Formalism.DoubleCosetMeasures.P Formalism.DoubleCosetMeasures.P.Phase
+variable {K : Type} [CommRing K] (R : Subring K) {n : ℕ} (k : ℕ)
+
+theorem Formalism.FourierDecayAlt.P.A5x9.Lam_latZ_int (Z₀ p : Matrix (Fin n) (Fin n) K) (hd : IsUnit Z₀.det) (hp : IsPP R k p)
+    (x : Fin n → R) (hx : x ∈ latZ R (Z₀ * p)) : ∀ j, abelian₂ R k Z₀ x j ∈ R := by sorry

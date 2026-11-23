@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_split_core
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.split_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:34.241364+00:00
 -- url     : https://prove2.me/theorems/f82893a4-f0e6-4413-a0a5-003a5c0d1811

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_chord_subst_inverse_mem
 -- name    : Formalism.ELL.CubeTwoAlt.chord_subst_inverse_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:10:02.601316+00:00
 -- url     : https://prove2.me/theorems/809c73ee-6719-43c4-abd1-923c5689d839

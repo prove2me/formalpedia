@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupCubeJets_integral_chain
 -- name    : Formalism.ELL.FormalGroupCubeJets.integral_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:37.79215+00:00
 -- url     : https://prove2.me/theorems/0b8be2ea-3235-41dc-8bf6-3fa8e0ff89f8

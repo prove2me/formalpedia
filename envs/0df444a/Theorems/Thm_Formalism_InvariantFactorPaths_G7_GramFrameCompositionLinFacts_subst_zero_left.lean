@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GramFrameCompositionLinFacts_subst_zero_left
 -- name    : Formalism.InvariantFactorPaths.G7.GramFrameCompositionLinFacts.subst_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:00.722339+00:00
 -- url     : https://prove2.me/theorems/32fd964d-6744-4b52-88fd-bd55238ff275

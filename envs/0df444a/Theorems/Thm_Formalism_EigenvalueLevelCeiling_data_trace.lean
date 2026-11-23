@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_data_trace
 -- name    : Formalism.EigenvalueLevelCeiling.data_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:32.465798+00:00
 -- url     : https://prove2.me/theorems/342de14f-6351-4d54-9f91-4fb47d843cec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMult_bordered_lc
 -- name    : GlobalTheory.CompanionTheory.HeckeMult.bordered_lc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:24.316019+00:00
 -- url     : https://prove2.me/theorems/9a1695de-1303-4bd9-9094-82ec45b063ed

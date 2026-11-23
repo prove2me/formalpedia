@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_scalar_level
 -- name    : Formalism.EigenvalueLevelCeiling.scalar_level
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:38:11.796513+00:00
 -- url     : https://prove2.me/theorems/c73f0e57-7e6b-422d-86be-a8bb9cad312a

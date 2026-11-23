@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_isClosedEmbedding_resGK
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.isClosedEmbedding_resGK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:19.385841+00:00
 -- url     : https://prove2.me/theorems/8cb49c12-b9a6-4fbb-b88b-5c0b848a2548

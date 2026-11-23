@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_local_conditions_global_form
 -- name    : Formalism.EigenvalueLevelCeiling.local_conditions_global_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:11:10.421738+00:00
 -- url     : https://prove2.me/theorems/3ca58300-d519-4e83-b703-873b136a5c07

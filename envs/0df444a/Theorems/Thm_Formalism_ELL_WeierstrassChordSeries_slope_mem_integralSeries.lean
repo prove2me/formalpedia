@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_slope_mem_integralSeries
 -- name    : Formalism.ELL.WeierstrassChordSeries.slope_mem_integralSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:11:33.05081+00:00
 -- url     : https://prove2.me/theorems/5c222f6e-2f10-447f-a65a-8a803a68d5e2

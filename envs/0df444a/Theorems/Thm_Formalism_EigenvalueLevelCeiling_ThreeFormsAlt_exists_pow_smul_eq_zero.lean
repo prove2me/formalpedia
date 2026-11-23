@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_exists_pow_smul_eq_zero
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.exists_pow_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:26.331559+00:00
 -- url     : https://prove2.me/theorems/842b04ff-fcce-4a04-9c35-c5d866ec39f1

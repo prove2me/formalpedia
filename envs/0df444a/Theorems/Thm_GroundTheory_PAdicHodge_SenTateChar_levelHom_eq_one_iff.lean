@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_levelHom_eq_one_iff
 -- name    : GroundTheory.PAdicHodge.SenTateChar.levelHom_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:54.534544+00:00
 -- url     : https://prove2.me/theorems/f734de64-a516-493a-8b29-47b6209761ea

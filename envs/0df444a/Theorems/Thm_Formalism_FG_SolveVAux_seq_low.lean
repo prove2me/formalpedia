@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_SolveVAux_seq_low
 -- name    : Formalism.FG.SolveVAux.seq_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:18:22.772028+00:00
 -- url     : https://prove2.me/theorems/e498906c-80b1-4d04-b41c-d6a62f0f016f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_qlen_map
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.qlen_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:22.008734+00:00
 -- url     : https://prove2.me/theorems/0c576207-ceaa-4482-80f8-6629f59ad82d

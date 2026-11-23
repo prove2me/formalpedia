@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeThreeAlt_wU_coeff_mem
 -- name    : Formalism.ELL.CubeThreeAlt.wU_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:40.165867+00:00
 -- url     : https://prove2.me/theorems/25c47797-c988-4ddf-84c1-7d1c0a083f71

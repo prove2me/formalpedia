@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_theorem_5_1
 -- name    : GrothendieckLB.Supplement.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T14:44:00.93707+00:00
 -- url     : https://prove2.me/theorems/c7185baf-60a8-469a-b326-23f2af45941d

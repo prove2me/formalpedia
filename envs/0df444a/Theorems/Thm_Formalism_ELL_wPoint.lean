@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wPoint
 -- name    : Formalism.ELL.wPoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:04:00.455456+00:00
 -- url     : https://prove2.me/theorems/088f5628-59aa-4681-9cf8-49e5b46079fc

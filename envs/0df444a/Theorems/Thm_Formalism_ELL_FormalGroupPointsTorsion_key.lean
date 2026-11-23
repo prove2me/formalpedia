@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsTorsion_key
 -- name    : Formalism.ELL.FormalGroupPointsTorsion.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:24:05.478822+00:00
 -- url     : https://prove2.me/theorems/da918aa0-b9fc-4795-9368-5246f10454c8

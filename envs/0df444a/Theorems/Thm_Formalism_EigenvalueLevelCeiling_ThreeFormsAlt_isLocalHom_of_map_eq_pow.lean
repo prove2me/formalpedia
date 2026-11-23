@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_isLocalHom_of_map_eq_pow
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.isLocalHom_of_map_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:12.072287+00:00
 -- url     : https://prove2.me/theorems/fc31c0be-ac73-4bce-b7cc-28db1fb4f496

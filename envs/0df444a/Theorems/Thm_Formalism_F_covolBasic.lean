@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_covolBasic
 -- name    : Formalism.F.covolBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:05:34.603806+00:00
 -- url     : https://prove2.me/theorems/fbf87dc9-6c58-4897-a744-2e7ecad8cbed

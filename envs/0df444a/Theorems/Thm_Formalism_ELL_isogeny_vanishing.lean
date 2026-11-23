@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_isogeny_vanishing
 -- name    : Formalism.ELL.isogeny_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:43.876249+00:00
 -- url     : https://prove2.me/theorems/e50d46e4-4c35-4292-9f0d-467a1a5765a6

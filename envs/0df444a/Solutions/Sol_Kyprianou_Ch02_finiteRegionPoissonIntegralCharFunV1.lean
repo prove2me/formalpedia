@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.finiteRegionPoissonIntegralCharFunV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T09:34:00.28103+00:00
 -- url     : https://prove2.me/submissions/04103d07-57b3-4c1e-b979-c5f1124e3c58
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_intValuedZp
 -- name    : Formalism.ELL.intValuedZp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:31.297896+00:00
 -- url     : https://prove2.me/theorems/a15d0ebb-18e6-4a80-a290-208f2f65dfc5

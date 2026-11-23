@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_modelUnit
 -- name    : Formalism.ELL.modelUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:02:22.457361+00:00
 -- url     : https://prove2.me/theorems/06fea0d6-95ec-468a-b7e8-3080ed31e02e

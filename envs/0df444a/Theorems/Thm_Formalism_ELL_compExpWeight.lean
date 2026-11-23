@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_compExpWeight
 -- name    : Formalism.ELL.compExpWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:22:51.038554+00:00
 -- url     : https://prove2.me/theorems/55502721-fa91-41d8-ade9-a3fb8a3db22b

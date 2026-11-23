@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassSeriesLimit_lim_approx
 -- name    : Formalism.ELL.WeierstrassSeriesLimit.lim_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:22:13.904854+00:00
 -- url     : https://prove2.me/theorems/221347a8-b44e-4d53-9c54-07163d2d7794

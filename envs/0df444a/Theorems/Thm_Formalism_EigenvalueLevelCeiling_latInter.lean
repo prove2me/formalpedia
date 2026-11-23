@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_latInter
 -- name    : Formalism.EigenvalueLevelCeiling.latInter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:18:45.959114+00:00
 -- url     : https://prove2.me/theorems/b9c10672-52ff-420c-8b9a-dadb139228d5

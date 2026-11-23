@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_place_sum
 -- name    : Formalism.EigenvalueLevelCeiling.place_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:18:40.300486+00:00
 -- url     : https://prove2.me/theorems/b123896c-0491-48bd-a2be-2e3823243991

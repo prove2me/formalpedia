@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_LabelUniq_gen_primitive
 -- name    : GlobalTheory.CompanionTheory.TyFin.LabelUniq.gen_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:27.066254+00:00
 -- url     : https://prove2.me/theorems/b464e0d7-93b1-4c79-b555-10e2a3bb2ed0

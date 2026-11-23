@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherOfSpectrallyNegativeLevy
 -- name    : Kyprianou.Ch03.esscherOfSpectrallyNegativeLevy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:41:18.514396+00:00
 -- url     : https://prove2.me/theorems/6621799c-a836-4388-bebf-94157483b2b9

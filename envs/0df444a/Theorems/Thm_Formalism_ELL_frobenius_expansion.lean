@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_frobenius_expansion
 -- name    : Formalism.ELL.frobenius_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:26.765629+00:00
 -- url     : https://prove2.me/theorems/cd22d936-61ec-4de4-8ef7-fca2d23820c5

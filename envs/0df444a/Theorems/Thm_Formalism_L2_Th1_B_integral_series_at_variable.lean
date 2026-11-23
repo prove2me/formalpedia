@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_integral_series_at_variable
 -- name    : Formalism.L2.Th1.B.integral_series_at_variable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:03.085127+00:00
 -- url     : https://prove2.me/theorems/7fb734a2-ecb0-48aa-9129-1b6cd22c0efd

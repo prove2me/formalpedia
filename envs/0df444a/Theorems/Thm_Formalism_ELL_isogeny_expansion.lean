@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_isogeny_expansion
 -- name    : Formalism.ELL.isogeny_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:22:31.175614+00:00
 -- url     : https://prove2.me/theorems/e4602959-15c6-4855-acdd-f1d900e5af4d

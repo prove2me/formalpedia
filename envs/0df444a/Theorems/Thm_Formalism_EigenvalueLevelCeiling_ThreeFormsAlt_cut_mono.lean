@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_cut_mono
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.cut_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:14.383094+00:00
 -- url     : https://prove2.me/theorems/d603f54e-72ac-41eb-96ac-aa27b6ea56b1

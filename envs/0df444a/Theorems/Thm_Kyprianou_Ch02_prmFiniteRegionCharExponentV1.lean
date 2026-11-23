@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_prmFiniteRegionCharExponentV1
 -- name    : Kyprianou.Ch02.prmFiniteRegionCharExponentV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T08:55:58.800047+00:00
 -- url     : https://prove2.me/theorems/349fad56-7134-48e1-8908-23c88fd1b279

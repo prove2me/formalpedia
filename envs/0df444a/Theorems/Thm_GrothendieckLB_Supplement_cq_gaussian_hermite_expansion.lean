@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_gaussian_hermite_expansion
 -- name    : GrothendieckLB.Supplement.cq_gaussian_hermite_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T18:29:40.381554+00:00
 -- url     : https://prove2.me/theorems/7e310387-2b85-47d7-bc77-7d4200278522

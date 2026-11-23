@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_finiteRegionMarkedCharFromCountCharV2
 -- name    : Kyprianou.Ch02.finiteRegionMarkedCharFromCountCharV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T09:32:16.725323+00:00
 -- url     : https://prove2.me/theorems/42cb0a36-72e3-46e3-b7dd-3b5317bb554b

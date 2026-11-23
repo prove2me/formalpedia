@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_changeIntegral
 -- name    : Formalism.ELL.changeIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:58:43.526253+00:00
 -- url     : https://prove2.me/theorems/dc0ec718-c5c9-4a84-9185-9feeda8fae97

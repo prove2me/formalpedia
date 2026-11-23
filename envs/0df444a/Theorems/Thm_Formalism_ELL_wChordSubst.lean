@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wChordSubst
 -- name    : Formalism.ELL.wChordSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:03.040137+00:00
 -- url     : https://prove2.me/theorems/6c328c5f-1895-40a9-9fb2-8f12210d3e00

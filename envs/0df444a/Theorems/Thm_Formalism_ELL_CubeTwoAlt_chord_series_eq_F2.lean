@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_chord_series_eq_F2
 -- name    : Formalism.ELL.CubeTwoAlt.chord_series_eq_F2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:01.136257+00:00
 -- url     : https://prove2.me/theorems/007dd3c4-ab4a-4cf4-b89a-4ca9198328e5

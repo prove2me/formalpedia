@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_subG_sup_eq_inf
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.subG_sup_eq_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:00.456409+00:00
 -- url     : https://prove2.me/theorems/62c3fc58-393c-487e-ba1a-8b47b818aaff

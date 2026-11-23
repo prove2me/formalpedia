@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_drawing_has_triangulated_counts__p2m_36795df0_a9ab_414e_b2f3_447339417680_a3
 -- name    : WilliamsonShmoys.maximal_drawing_has_triangulated_counts__p2m_36795df0_a9ab_414e_b2f3_447339417680_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:00:06.044035+00:00
 -- url     : https://prove2.me/theorems/7e50d4d0-4707-47ef-8dc4-efddfbe56298

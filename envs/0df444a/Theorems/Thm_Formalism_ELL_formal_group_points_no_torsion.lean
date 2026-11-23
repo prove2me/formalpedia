@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_formal_group_points_no_torsion
 -- name    : Formalism.ELL.formal_group_points_no_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:58.053972+00:00
 -- url     : https://prove2.me/theorems/ef7e2dae-169d-473c-97b2-a5521506cd28

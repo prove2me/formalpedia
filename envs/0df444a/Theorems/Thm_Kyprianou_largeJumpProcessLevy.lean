@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_largeJumpProcessLevy
 -- name    : Kyprianou.largeJumpProcessLevy
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T11:13:36.385668+00:00
 -- url     : https://prove2.me/theorems/5c06d985-05f1-4c04-aa68-fc6de328bbfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_gram_det_le
 -- name    : Formalism.F.gram_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:51:52.225796+00:00
 -- url     : https://prove2.me/theorems/57b4d8ce-ceec-4c62-9522-d20d10289f28

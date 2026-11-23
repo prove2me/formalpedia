@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_frobExpand
 -- name    : Formalism.ELL.frobExpand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:14.233097+00:00
 -- url     : https://prove2.me/theorems/72a2ac66-c6ee-44f8-9c58-fdb3377439f6

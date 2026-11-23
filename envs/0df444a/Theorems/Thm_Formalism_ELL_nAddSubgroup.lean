@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_nAddSubgroup
 -- name    : Formalism.ELL.nAddSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:27.976368+00:00
 -- url     : https://prove2.me/theorems/bb788a10-0ff2-4b3b-8655-ec0e1f32e924

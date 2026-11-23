@@ -50581,7 +50581,7 @@
 {"parent": "SubquadCutReach.Faster.Supplement.corollary_4_2", "child": "SubquadCutReach_Faster_Supplement_FTRL", "via": ["solution", "statement"]}
 {"parent": "AggregatedCodeTesting.Testing.Supplement.theorem_12", "child": "AggregatedCodeTesting_Testing_Supplement_Computation", "via": ["statement"]}
 {"parent": "APFPaper1.RecordLedger.needsFin_subset_of_sufficient", "child": "APFPaper1_RecordLedger", "via": ["solution", "statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_6_3", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_6_3", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["solution", "statement"]}
 {"parent": "GoldProxGap.Supplement.theorem_6_10", "child": "GoldProxGap_domainFinset", "via": ["statement"]}
 {"parent": "GoldProxGap.Supplement.theorem_6_10", "child": "GoldProxGap_reedSolomon", "via": ["statement"]}
 {"parent": "GoldProxGap.Supplement.theorem_6_10", "child": "GoldProxGap_Supplement_treeM", "via": ["statement"]}
@@ -86771,7 +86771,7 @@
 {"parent": "APFPaper5.K1.PaidPair.counted_pair_meets_K1", "child": "APFPaper5.K1.ledger_counted_family_party_score_satisfies_K1_explicit", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB.Supplement.theorem_5_1", "child": "GrothendieckLB_Supplement_cqA", "via": ["statement"]}
 {"parent": "GrothendieckLB.Supplement.theorem_5_1", "child": "GrothendieckLB_Supplement_cqCorr", "via": ["statement"]}
-{"parent": "GrothendieckLB.Supplement.theorem_5_1", "child": "GrothendieckLB_taylorCoeff", "via": ["statement"]}
+{"parent": "GrothendieckLB.Supplement.theorem_5_1", "child": "GrothendieckLB_taylorCoeff", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_8__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_knodel", "via": ["solution", "statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_8__p2m_be27a6d0_01d1_46f0_b9ba_0d15398f9cfb_a1", "child": "KnodelPrimeCordial_PrimeCordial", "via": ["solution", "statement"]}
 {"parent": "AggCG.Supplement.theorem_5_9", "child": "AggCG_Supplement_lassoPath", "via": ["statement"]}

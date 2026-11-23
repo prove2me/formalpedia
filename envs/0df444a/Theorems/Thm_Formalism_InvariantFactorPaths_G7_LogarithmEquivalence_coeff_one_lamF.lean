@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_coeff_one_lamF
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.coeff_one_lamF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:49.030012+00:00
 -- url     : https://prove2.me/theorems/ce6b9152-1d96-48c4-a1a3-31957878a0b5

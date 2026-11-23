@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.largeJumpProcessLevy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-17T07:32:46.660069+00:00
 -- url     : https://prove2.me/submissions/12c704b0-f4b7-4b57-8800-de47e85642eb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch02_LargeJumpProcess

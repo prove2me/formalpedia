@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_qlen_anti_right
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.qlen_anti_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:24.47372+00:00
 -- url     : https://prove2.me/theorems/3506f3f5-303e-4ce3-a06b-dfdfbf0da4f3

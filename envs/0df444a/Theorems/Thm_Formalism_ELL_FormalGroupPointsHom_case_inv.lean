@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_case_inv
 -- name    : Formalism.ELL.FormalGroupPointsHom.case_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:53.938718+00:00
 -- url     : https://prove2.me/theorems/b7241431-53e8-4e0f-9a69-d09b6bd48908

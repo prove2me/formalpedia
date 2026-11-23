@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GramFrameCompositionLinFacts_subst_single_variable
 -- name    : Formalism.InvariantFactorPaths.G7.GramFrameCompositionLinFacts.subst_single_variable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:16.950912+00:00
 -- url     : https://prove2.me/theorems/5f39606d-c16b-4e6f-814f-7679880db026

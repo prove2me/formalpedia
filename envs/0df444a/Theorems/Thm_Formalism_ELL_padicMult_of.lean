@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_padicMult_of
 -- name    : Formalism.ELL.padicMult_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:48.226023+00:00
 -- url     : https://prove2.me/theorems/64344cfa-c12e-4136-8d5a-dbe267be210d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_isCompact_box
 -- name    : GlobalTheory.LocMod.Inhab.isCompact_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:48.209811+00:00
 -- url     : https://prove2.me/theorems/3f3fe3ae-fd8c-4ffe-916d-068aa6ad3d00

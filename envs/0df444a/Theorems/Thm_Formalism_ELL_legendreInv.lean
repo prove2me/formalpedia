@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_legendreInv
 -- name    : Formalism.ELL.legendreInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:47.274422+00:00
 -- url     : https://prove2.me/theorems/e8952487-b9de-489b-b996-ec2ebbdf9d60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_covolAntiSameRank
 -- name    : Formalism.F.covolAntiSameRank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:06:00.714717+00:00
 -- url     : https://prove2.me/theorems/f1f0b7e1-eb1f-471e-92f3-49f838f13e3b

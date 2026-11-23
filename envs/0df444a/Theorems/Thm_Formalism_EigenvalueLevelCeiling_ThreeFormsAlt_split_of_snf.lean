@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_split_of_snf
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.split_of_snf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:56.977665+00:00
 -- url     : https://prove2.me/theorems/f5cc7d43-0f30-4985-b7d5-2783149cebe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_LabelUniq_regular_iff_degree
 -- name    : GlobalTheory.CompanionTheory.TyFin.LabelUniq.regular_iff_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:30.7353+00:00
 -- url     : https://prove2.me/theorems/9cf01bbf-f91a-4df2-a596-565e1ae0b676

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_cq_mehler_expansion
 -- name    : GrothendieckLB.Supplement.cq_mehler_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T18:16:56.283054+00:00
 -- url     : https://prove2.me/theorems/6afb307c-b5d0-4996-a861-3dbaab166b72

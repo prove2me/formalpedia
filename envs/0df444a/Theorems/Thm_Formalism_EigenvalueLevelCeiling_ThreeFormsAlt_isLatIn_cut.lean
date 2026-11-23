@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_isLatIn_cut
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.isLatIn_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:28.976001+00:00
 -- url     : https://prove2.me/theorems/78e6ea6c-0836-40c1-bf95-6670e5cc9a82

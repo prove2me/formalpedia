@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wFormalGroup_of
 -- name    : Formalism.ELL.wFormalGroup_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:00.783131+00:00
 -- url     : https://prove2.me/theorems/abba7d6d-70e7-45c5-ace7-878d34bf34c9

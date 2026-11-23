@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_law_subst
 -- name    : Formalism.L2.Th1.B.Jets.law_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:57.849079+00:00
 -- url     : https://prove2.me/theorems/6362a880-bc99-4e70-b151-562babe14864

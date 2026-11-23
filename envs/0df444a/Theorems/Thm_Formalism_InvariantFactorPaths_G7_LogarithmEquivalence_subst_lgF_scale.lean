@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_subst_lgF_scale
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.subst_lgF_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:20.396174+00:00
 -- url     : https://prove2.me/theorems/f0b1d8a9-e6d7-4a79-b3a0-12ae8f33e148

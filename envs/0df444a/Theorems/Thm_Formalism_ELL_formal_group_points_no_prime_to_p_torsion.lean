@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_formal_group_points_no_prime_to_p_torsion
 -- name    : Formalism.ELL.formal_group_points_no_prime_to_p_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:23:03.261171+00:00
 -- url     : https://prove2.me/theorems/8fd06b24-abce-4cec-b52e-e8a89b2a2d97

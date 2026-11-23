@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_dbl_formal
 -- name    : Formalism.ELL.FormalGroupPointsHom.dbl_formal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:10:23.598237+00:00
 -- url     : https://prove2.me/theorems/fd859086-11d0-47f9-a3f5-0019e1c93398

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_unit_cancellation
 -- name    : Formalism.ELL.unit_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:49.101527+00:00
 -- url     : https://prove2.me/theorems/d06c6319-e524-4960-bf79-a217b3e0a2f1

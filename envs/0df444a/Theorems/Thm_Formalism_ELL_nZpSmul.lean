@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_nZpSmul
 -- name    : Formalism.ELL.nZpSmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:18.24292+00:00
 -- url     : https://prove2.me/theorems/8144b3e9-69e9-4c53-ad72-3022903870a7

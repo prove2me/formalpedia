@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_dd_mem_T_of_wFixed
 -- name    : Formalism.ELL.CubeTwoAlt.dd_mem_T_of_wFixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:02.420812+00:00
 -- url     : https://prove2.me/theorems/8bdb56c8-9720-429e-bc49-126a8ce048a3

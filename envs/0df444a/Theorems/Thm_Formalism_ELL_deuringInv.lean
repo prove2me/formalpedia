@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_deuringInv
 -- name    : Formalism.ELL.deuringInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:23:10.304266+00:00
 -- url     : https://prove2.me/theorems/08d00c47-af4b-4f10-9ead-9558419e0c74

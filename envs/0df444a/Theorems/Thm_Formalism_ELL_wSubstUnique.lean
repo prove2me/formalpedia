@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wSubstUnique
 -- name    : Formalism.ELL.wSubstUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:47.708125+00:00
 -- url     : https://prove2.me/theorems/c7620ff7-df40-4c3b-80df-fc56ddf483c9

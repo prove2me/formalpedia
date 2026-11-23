@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassSeriesLimit_lim_fixed
 -- name    : Formalism.ELL.WeierstrassSeriesLimit.lim_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:22:12.904802+00:00
 -- url     : https://prove2.me/theorems/443bee62-698d-4587-864a-28ca70e01838

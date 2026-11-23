@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaloisCoh_selmer_sha_eq_comap_ker
 -- name    : GlobalTheory.CompanionTheory.GaloisCoh.selmer_sha_eq_comap_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:48.176636+00:00
 -- url     : https://prove2.me/theorems/1e7c5e5e-9872-42dd-9d3e-5c2944fb10d8

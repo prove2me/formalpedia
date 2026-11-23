@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_inv_formal
 -- name    : Formalism.ELL.FormalGroupPointsHom.inv_formal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:28.322421+00:00
 -- url     : https://prove2.me/theorems/85dc1aed-7a42-4fea-a34a-8e2697f899ea

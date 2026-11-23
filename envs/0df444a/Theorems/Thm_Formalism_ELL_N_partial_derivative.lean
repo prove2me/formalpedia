@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_N_partial_derivative
 -- name    : Formalism.ELL.N_partial_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:21:54.800648+00:00
 -- url     : https://prove2.me/theorems/2ee44da4-083f-4a9b-9702-773689b837d9

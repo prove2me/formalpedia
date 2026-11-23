@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_finiteRegionPoissonIntegralCh02V3
 -- name    : Kyprianou.finiteRegionPoissonIntegralCh02V3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T19:21:31.907692+00:00
 -- url     : https://prove2.me/theorems/38df877c-0872-40d5-8b33-bbad3487ba47

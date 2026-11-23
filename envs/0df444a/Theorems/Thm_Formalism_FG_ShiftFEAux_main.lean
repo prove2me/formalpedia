@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_ShiftFEAux_main
 -- name    : Formalism.FG.ShiftFEAux.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:22:17.931839+00:00
 -- url     : https://prove2.me/theorems/9511c8b0-2def-477e-82a9-878062a3657d

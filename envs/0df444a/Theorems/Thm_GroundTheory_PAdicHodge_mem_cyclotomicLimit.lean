@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mem_cyclotomicLimit
+-- name    : GroundTheory.PAdicHodge.mem_cyclotomicLimit
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-23T18:43:19.329136+00:00
+-- url     : https://prove2.me/theorems/45389a8b-b920-4551-af18-d8087c901b66
+-- title:
+--   PAdic Hodge: mem cyclotomic Limit
+-- statement:
+--   The PAdic Hodge construction uses the mem cyclotomic Limit property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/PAdicHodge/NormalizedTraceTower.lean#L28-L32
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/PAdicHodge/NormalizedTraceTower.lean#L28-L32
+
+import Mathlib
+import Definitions.Def_GroundTheory_PAdicHodge_NormalizedTrace
+import Definitions.Def_GroundTheory_PAdicHodge_CyclotomicField
+import Definitions.Def_GroundTheory_PAdicHodge_NormalizedTraceTower
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.PAdicHodge
+open IntermediateField Polynomial Module
+noncomputable section
+variable {p : ℕ} [Fact p.Prime] (K : IntermediateField ℚ_[p] (PadicAlgCl p))
+
+theorem GroundTheory.PAdicHodge.mem_cyclotomicLimit {x : PadicAlgCl p} :
+    x ∈ cyclotomicLimit K ↔ ∃ n, x ∈ cyclotomicLayer K n := by sorry

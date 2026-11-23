@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_chebyshev_theta_log_four
 -- name    : Formalism.EigenvalueLevelCeiling.chebyshev_theta_log_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:29:07.700942+00:00
 -- url     : https://prove2.me/theorems/e7985446-41fe-4af0-a794-48d2aebfdd19

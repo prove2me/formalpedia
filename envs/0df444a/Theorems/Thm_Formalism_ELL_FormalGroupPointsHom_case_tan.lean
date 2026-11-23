@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_case_tan
 -- name    : Formalism.ELL.FormalGroupPointsHom.case_tan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:55.263894+00:00
 -- url     : https://prove2.me/theorems/ccd17133-97e7-4ed8-ae26-4bf0303f686f

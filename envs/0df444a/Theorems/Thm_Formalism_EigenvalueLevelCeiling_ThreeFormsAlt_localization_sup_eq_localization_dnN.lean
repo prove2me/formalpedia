@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_localization_sup_eq_localization_dnN
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.localization_sup_eq_localization_dnN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:07.174441+00:00
 -- url     : https://prove2.me/theorems/97441f81-855a-4a87-a45c-f1053c8e5126

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_w_coeff_mem
 -- name    : Formalism.ELL.WeierstrassChordSeries.w_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:11:07.816343+00:00
 -- url     : https://prove2.me/theorems/bb446c56-461b-402d-a878-83d97a3e2b13

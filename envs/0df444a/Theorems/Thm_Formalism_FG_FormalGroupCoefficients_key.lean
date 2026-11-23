@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_FormalGroupCoefficients_key
 -- name    : Formalism.FG.FormalGroupCoefficients.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:20:42.702532+00:00
 -- url     : https://prove2.me/theorems/ed1e366c-8f8a-4939-833a-e76e681a4ace

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_law_coeff_axis0
 -- name    : Formalism.L2.Th1.B.law_coeff_axis0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:17.659805+00:00
 -- url     : https://prove2.me/theorems/454e2f2a-aad8-4b30-9238-9d15b8b323c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_frobenius_lift_padic_square
 -- name    : Formalism.FG.frobenius_lift_padic_square
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:04.101385+00:00
 -- url     : https://prove2.me/theorems/fb763333-6c97-461a-a3b7-4d14644d69e8

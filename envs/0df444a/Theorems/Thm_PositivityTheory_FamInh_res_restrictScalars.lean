@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_res_restrictScalars
 -- name    : PositivityTheory.FamInh.res_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:06.635333+00:00
 -- url     : https://prove2.me/theorems/96e8144f-2def-4b4b-b96f-f3f491cd5af4

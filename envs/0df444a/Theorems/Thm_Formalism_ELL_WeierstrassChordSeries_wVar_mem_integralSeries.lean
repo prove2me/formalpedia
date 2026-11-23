@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_wVar_mem_integralSeries
 -- name    : Formalism.ELL.WeierstrassChordSeries.wVar_mem_integralSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:10.927607+00:00
 -- url     : https://prove2.me/theorems/a8239d0b-efae-4270-b670-2d8f368a30e5

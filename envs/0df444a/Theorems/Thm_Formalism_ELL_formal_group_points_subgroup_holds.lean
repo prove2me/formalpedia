@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_formal_group_points_subgroup_holds
 -- name    : Formalism.ELL.formal_group_points_subgroup_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:30.422218+00:00
 -- url     : https://prove2.me/theorems/dbdb5454-c54b-4146-afe7-0fedc69942e3

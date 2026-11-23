@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_change_of_variables_integral
 -- name    : Formalism.ELL.change_of_variables_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:22:12.679913+00:00
 -- url     : https://prove2.me/theorems/40131ff5-d5bf-4657-b21f-8122738eab6b

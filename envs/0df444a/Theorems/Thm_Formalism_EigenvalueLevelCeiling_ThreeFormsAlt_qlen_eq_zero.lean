@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ThreeFormsAlt_qlen_eq_zero
 -- name    : Formalism.EigenvalueLevelCeiling.ThreeFormsAlt.qlen_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:11.682805+00:00
 -- url     : https://prove2.me/theorems/e3a1a17c-26da-4d5e-ae78-88f0e1e5f874

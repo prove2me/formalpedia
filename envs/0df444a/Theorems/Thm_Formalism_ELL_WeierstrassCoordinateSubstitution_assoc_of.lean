@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassCoordinateSubstitution_assoc_of
 -- name    : Formalism.ELL.WeierstrassCoordinateSubstitution.assoc_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:46.704004+00:00
 -- url     : https://prove2.me/theorems/bdaac9c3-a1c5-40f3-8031-ca2d5a515b97

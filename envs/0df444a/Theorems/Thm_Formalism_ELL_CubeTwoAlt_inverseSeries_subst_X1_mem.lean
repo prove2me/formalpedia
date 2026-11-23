@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeTwoAlt_inverseSeries_subst_X1_mem
 -- name    : Formalism.ELL.CubeTwoAlt.inverseSeries_subst_X1_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:01.984982+00:00
 -- url     : https://prove2.me/theorems/05421a32-6a95-4b5a-8a9e-26a7431e8392

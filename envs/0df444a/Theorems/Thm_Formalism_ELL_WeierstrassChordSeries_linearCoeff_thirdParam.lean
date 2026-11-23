@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_WeierstrassChordSeries_linearCoeff_thirdParam
 -- name    : Formalism.ELL.WeierstrassChordSeries.linearCoeff_thirdParam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:15:00.336584+00:00
 -- url     : https://prove2.me/theorems/6bb1a68a-32c4-4cd7-a57c-98279f920018

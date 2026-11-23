@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wSeriesExistsUnique_holds
 -- name    : Formalism.ELL.wSeriesExistsUnique_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:22:50.495397+00:00
 -- url     : https://prove2.me/theorems/4905eeea-a574-4778-bf8e-e7e74e76a2c5

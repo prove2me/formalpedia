@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_integer_valued_padic_integers
 -- name    : Formalism.ELL.integer_valued_padic_integers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:30.807182+00:00
 -- url     : https://prove2.me/theorems/79c704c9-36a3-4239-af4c-c8502ba59181

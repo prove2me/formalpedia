@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_InjVAux_good_one
 -- name    : Formalism.FG.InjVAux.good_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:22:01.566287+00:00
 -- url     : https://prove2.me/theorems/fae63dbc-44a3-4a3f-80be-e7b27f1f4a26

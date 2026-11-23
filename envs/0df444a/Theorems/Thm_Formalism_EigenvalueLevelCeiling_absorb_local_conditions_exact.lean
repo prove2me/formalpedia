@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_absorb_local_conditions_exact
 -- name    : Formalism.EigenvalueLevelCeiling.absorb_local_conditions_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:29:33.048798+00:00
 -- url     : https://prove2.me/theorems/a4fe47ed-13a3-49a6-9a3e-2bfa456fc6e2

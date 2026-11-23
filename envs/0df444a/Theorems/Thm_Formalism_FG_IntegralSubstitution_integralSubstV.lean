@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_IntegralSubstitution_integralSubstV
 -- name    : Formalism.FG.IntegralSubstitution.integralSubstV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:03.994957+00:00
 -- url     : https://prove2.me/theorems/7eb00e4e-9e6b-48f0-9c25-5b889c479c2d

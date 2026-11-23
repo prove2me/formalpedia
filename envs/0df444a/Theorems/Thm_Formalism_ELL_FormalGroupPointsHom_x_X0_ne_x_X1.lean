@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_x_X0_ne_x_X1
 -- name    : Formalism.ELL.FormalGroupPointsHom.x_X0_ne_x_X1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:53.146502+00:00
 -- url     : https://prove2.me/theorems/750071f7-19fe-4054-8a7d-a4b0509165f2

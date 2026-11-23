@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_outM_clsM
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.outM_clsM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:25:18.087574+00:00
 -- url     : https://prove2.me/theorems/c88f1700-177e-49d3-94a7-5b97fe4f9854

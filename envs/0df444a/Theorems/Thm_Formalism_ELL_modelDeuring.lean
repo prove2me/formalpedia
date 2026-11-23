@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_modelDeuring
 -- name    : Formalism.ELL.modelDeuring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:39.437137+00:00
 -- url     : https://prove2.me/theorems/15b7403f-c6ad-4ef6-b5a1-b8ed311b4e40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_N_padic_integer_smul
 -- name    : Formalism.ELL.N_padic_integer_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:22:20.876626+00:00
 -- url     : https://prove2.me/theorems/b518afac-89dc-4d7e-97e3-0fadb8340169

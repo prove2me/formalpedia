@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Galois_PlacesOfS_localFinite_at_places
 -- name    : GlobalTheory.CompanionTheory.Galois.PlacesOfS.localFinite_at_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:43.290702+00:00
 -- url     : https://prove2.me/theorems/223f9e61-a3a5-4e73-a2da-cad9c4e36daf

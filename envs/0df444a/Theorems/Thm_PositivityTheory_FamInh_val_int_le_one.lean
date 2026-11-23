@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_val_int_le_one
 -- name    : PositivityTheory.FamInh.val_int_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:45.9368+00:00
 -- url     : https://prove2.me/theorems/8eb2cf2a-145b-4fbf-b705-cf28c61abf7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_low_PhiH
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.low_PhiH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:25:29.728816+00:00
 -- url     : https://prove2.me/theorems/153b603b-4e72-4c94-9589-ea76b02d6655

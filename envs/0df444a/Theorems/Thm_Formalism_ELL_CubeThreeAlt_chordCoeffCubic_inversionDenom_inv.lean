@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_CubeThreeAlt_chordCoeffCubic_inversionDenom_inv
 -- name    : Formalism.ELL.CubeThreeAlt.chordCoeffCubic_inversionDenom_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:10.435923+00:00
 -- url     : https://prove2.me/theorems/3bcd03b2-024f-4988-86ca-243c7ab55281

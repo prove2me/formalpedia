@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_integral_of_mul_eq_one
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.integral_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:23:53.742794+00:00
 -- url     : https://prove2.me/theorems/7e8c73a9-fab2-4ee6-918b-e278172f7aa7

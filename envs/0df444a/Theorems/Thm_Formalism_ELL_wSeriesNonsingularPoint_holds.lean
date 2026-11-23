@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_wSeriesNonsingularPoint_holds
 -- name    : Formalism.ELL.wSeriesNonsingularPoint_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:39.633858+00:00
 -- url     : https://prove2.me/theorems/eaccc281-1c76-4302-844a-85b958b76854

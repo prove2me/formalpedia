@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_LabelUniq_card_pow_sub_one_pos
 -- name    : GlobalTheory.CompanionTheory.TyFin.LabelUniq.card_pow_sub_one_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:26.518115+00:00
 -- url     : https://prove2.me/theorems/d9954447-eeb6-4f8a-b0cc-5a4de2ff01ab

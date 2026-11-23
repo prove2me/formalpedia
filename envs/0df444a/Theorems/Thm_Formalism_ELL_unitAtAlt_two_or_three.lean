@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_unitAtAlt_two_or_three
 -- name    : Formalism.ELL.unitAtAlt.two_or_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:39.427351+00:00
 -- url     : https://prove2.me/theorems/d3784bf4-030e-4f32-b580-9809e248935f

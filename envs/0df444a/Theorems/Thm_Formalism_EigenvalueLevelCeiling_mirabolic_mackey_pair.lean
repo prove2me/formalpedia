@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_mirabolic_mackey_pair
 -- name    : Formalism.EigenvalueLevelCeiling.mirabolic_mackey_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:17:31.705726+00:00
 -- url     : https://prove2.me/theorems/bd889c79-3320-47fd-9d4c-450179155139

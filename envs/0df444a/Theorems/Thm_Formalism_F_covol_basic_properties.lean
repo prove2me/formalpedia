@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_covol_basic_properties
 -- name    : Formalism.F.covol_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:55:23.172495+00:00
 -- url     : https://prove2.me/theorems/dd4916cb-544b-444f-b94f-38dfb2e06040
