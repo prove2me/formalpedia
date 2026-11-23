@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_cf_mapC_mul
 -- name    : ReciprocityTheory.AnForm.P.cf_mapC_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:17.061076+00:00
 -- url     : https://prove2.me/theorems/07f5663f-1d41-46d8-9dbd-21afb82ab23a

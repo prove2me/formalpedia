@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_hval_eq
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.hval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:50.819799+00:00
 -- url     : https://prove2.me/theorems/c8643ceb-c2f5-46a5-bdde-bd33bc375891

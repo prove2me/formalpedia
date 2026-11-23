@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NearPrim_exists_reduce
 -- name    : GlobalTheory.SW.NearPrim.exists_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:39.107613+00:00
 -- url     : https://prove2.me/theorems/d2b31b79-7b0b-46c0-b015-26278be5ec83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_single_mem_std
 -- name    : GlobalTheory.SW.TwistAdm.single_mem_std
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:54.667692+00:00
 -- url     : https://prove2.me/theorems/4a15ee3c-fd06-487f-bb5d-5661cbff6745

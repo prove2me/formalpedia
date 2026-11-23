@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_ne_bot_of_norm
 -- name    : GlobalTheory.SW.Nbr.ne_bot_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:23.891845+00:00
 -- url     : https://prove2.me/theorems/19f75387-335d-4fad-a13a-3a6b7af11f2e

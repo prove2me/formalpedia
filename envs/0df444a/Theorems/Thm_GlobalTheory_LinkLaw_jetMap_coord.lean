@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkLaw_jetMap_coord
 -- name    : GlobalTheory.LinkLaw.jetMap_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:29.153873+00:00
 -- url     : https://prove2.me/theorems/d952a0e6-433c-414c-adfa-e2570ce9f5aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_subst_eq_linear_add
 -- name    : GlobalTheory.FormalSeries.subst_eq_linear_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:15.736933+00:00
 -- url     : https://prove2.me/theorems/433c98f7-057e-498f-ae66-c739044b32b5

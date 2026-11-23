@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_HAct_den__act_d7a6623b371e
 -- name    : P2M_GlobalTheory_SW_HAct_den__act_d7a6623b371e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:31.871806+00:00
 -- url     : https://prove2.me/theorems/1515d4d2-31f6-4609-9d19-9cb054f6fc67

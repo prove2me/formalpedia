@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_relIndex_eq
 -- name    : GlobalTheory.SW.Nbr.relIndex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:46.239523+00:00
 -- url     : https://prove2.me/theorems/196b75b8-2a74-4111-8b55-ba6cbc4817c5

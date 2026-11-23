@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_norm_det_le
 -- name    : GlobalTheory.FrameNet.norm_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:35.281437+00:00
 -- url     : https://prove2.me/theorems/0b69dd50-1bf0-4c8b-91c1-f590692be8f4

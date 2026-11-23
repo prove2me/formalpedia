@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_perProj_apply
 -- name    : GlobalTheory.LagSplit.perProj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:41.10132+00:00
 -- url     : https://prove2.me/theorems/77efe67f-9d8e-4b21-adf3-7ea43c64048e

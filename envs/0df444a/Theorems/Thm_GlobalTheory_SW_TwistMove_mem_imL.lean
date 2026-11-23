@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistMove_mem_imL
 -- name    : GlobalTheory.SW.TwistMove.mem_imL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:49:02.362466+00:00
 -- url     : https://prove2.me/theorems/1d639e1a-c97f-491a-9112-366e6af0b650

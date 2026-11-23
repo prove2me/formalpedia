@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigA_coeff_lin_ev
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigA.coeff_lin_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:21.058204+00:00
 -- url     : https://prove2.me/theorems/6e76ac49-b832-495d-9271-fa110a7f1036

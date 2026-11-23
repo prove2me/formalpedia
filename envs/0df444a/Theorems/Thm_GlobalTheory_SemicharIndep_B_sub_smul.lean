@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_B_sub_smul
 -- name    : GlobalTheory.SemicharIndep.B_sub_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:25.046734+00:00
 -- url     : https://prove2.me/theorems/b9791d75-f83d-409d-828e-703bd06eaaea

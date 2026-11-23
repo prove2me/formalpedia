@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_mem_of_coprime
 -- name    : GlobalTheory.SW.TwistAdm.mem_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:38.417543+00:00
 -- url     : https://prove2.me/theorems/b6327819-a9eb-4295-b275-2edcd65581f6

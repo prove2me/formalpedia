@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_diffAt_det
 -- name    : GlobalTheory.SW.HeatTerm.diffAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:16.399704+00:00
 -- url     : https://prove2.me/theorems/fa8eb941-292f-408c-91f0-605f8323e006

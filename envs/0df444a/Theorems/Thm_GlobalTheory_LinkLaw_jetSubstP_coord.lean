@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkLaw_jetSubstP_coord
 -- name    : GlobalTheory.LinkLaw.jetSubstP_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:49:56.362543+00:00
 -- url     : https://prove2.me/theorems/3f97503b-d7a0-4ebe-9278-027e8cec40fc

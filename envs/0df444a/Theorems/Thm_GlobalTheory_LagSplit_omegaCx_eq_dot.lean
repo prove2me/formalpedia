@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_omegaCx_eq_dot
 -- name    : GlobalTheory.LagSplit.omegaCx_eq_dot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:27.449918+00:00
 -- url     : https://prove2.me/theorems/5cbb2326-43c2-482f-9e30-1e8424f88dcf

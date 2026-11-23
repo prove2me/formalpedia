@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_nat_smul_mem
 -- name    : GlobalTheory.SW.TwistAdm.nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:49.048803+00:00
 -- url     : https://prove2.me/theorems/5c522c71-425c-4321-b4d3-c28d4530dad6

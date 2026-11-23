@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_jacobian_X
 -- name    : GlobalTheory.FormalSeries.jacobian_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:27.175345+00:00
 -- url     : https://prove2.me/theorems/3ea0901f-d819-47ca-a7b8-08ca616f9c75

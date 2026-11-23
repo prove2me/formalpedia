@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Dict_zetaOf_surj
 -- name    : GlobalTheory.SW.Dict.zetaOf_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:43:39.415609+00:00
 -- url     : https://prove2.me/theorems/2ecf63ba-3f1d-4ec8-a828-055a6064009d

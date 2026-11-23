@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_colsIn_mulVec
 -- name    : GlobalTheory.SW.TwistAdm.colsIn_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:40.575967+00:00
 -- url     : https://prove2.me/theorems/dd38efd9-2bb6-4c94-b723-dcb2bcc330a3

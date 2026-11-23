@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_mul_blocks
 -- name    : GlobalTheory.SW.HAct.mul_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:39.881323+00:00
 -- url     : https://prove2.me/theorems/a2d223cd-acb0-4ded-97f7-a64dad1e6ec8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_nat_smul_mem
 -- name    : GlobalTheory.SW.Model.nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:40.229392+00:00
 -- url     : https://prove2.me/theorems/9dc71a05-2707-4603-916e-544bb6334fe9

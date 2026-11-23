@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_I_mem_Hn
 -- name    : GlobalTheory.SW.Base.I_mem_Hn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:03.48023+00:00
 -- url     : https://prove2.me/theorems/94a72c73-730c-4606-8994-f2bfabfe71ef

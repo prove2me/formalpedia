@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagHook_Degree_eval_detE_rho
 -- name    : GlobalTheory.FlagHook.Degree.eval_detE_rho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:37.38399+00:00
 -- url     : https://prove2.me/theorems/2cfad2d0-ff4b-40c4-ae98-0c9778c6bb7b

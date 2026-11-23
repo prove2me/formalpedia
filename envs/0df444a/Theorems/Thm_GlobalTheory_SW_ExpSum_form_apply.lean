@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_form_apply
 -- name    : GlobalTheory.SW.ExpSum.form_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:29.684809+00:00
 -- url     : https://prove2.me/theorems/ed67403e-b04d-45ee-9931-6da9e186480d

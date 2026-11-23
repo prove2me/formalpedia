@@ -73624,7 +73624,7 @@
 {"parent": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_StatementAB", "child": "Formalism_GrowthSums_StatementA", "via": ["statement"]}
 {"parent": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_StatementAB", "child": "Formalism_GaussJetBounds_StatementI", "via": ["statement"]}
 {"parent": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_StatementAB", "child": "Formalism_GaussJetBounds_StatementH", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.avram_a77_original_simpleFunc_physical_mark_count_reconstruction", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a77_original_simpleFunc_physical_mark_count_reconstruction", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticesTheory.neighbourConstruct_key", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocBasic", "via": ["statement"]}
 {"parent": "Formalism.HermitianLatticesTheory.neighbourConstruct_key", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_NeighbourConstruct", "via": ["statement"]}
 {"parent": "Formalism.HermitianLatticesTheory.neighbourConstruct_key", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_NeighbourBasic", "via": ["statement"]}

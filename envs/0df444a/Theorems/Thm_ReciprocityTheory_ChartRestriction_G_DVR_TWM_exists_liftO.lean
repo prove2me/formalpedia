@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TWM_exists_liftO
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TWM.exists_liftO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:37:22.604042+00:00
 -- url     : https://prove2.me/theorems/3a9e46c9-432a-4d40-9ceb-98aab2b51f18

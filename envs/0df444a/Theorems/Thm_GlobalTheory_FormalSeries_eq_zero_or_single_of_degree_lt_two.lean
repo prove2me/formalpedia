@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_eq_zero_or_single_of_degree_lt_two
 -- name    : GlobalTheory.FormalSeries.eq_zero_or_single_of_degree_lt_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:10.901798+00:00
 -- url     : https://prove2.me/theorems/f20139b6-5890-4b64-b6e5-330a899c1b5b

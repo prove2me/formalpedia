@@ -1,0 +1,27 @@
+-- Prove2me | Definitions.Def_Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SmoothSpreadsOutStatement
+-- name    : Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SmoothSpreadsOutStatement
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-23T15:55:42.853575+00:00
+-- url     : https://prove2.me/theorems/bd793096-f4f6-4e4c-a2f3-88704ce0ec09
+-- title:
+--   Smooth Spreads Out Statement
+-- statement:
+--   Definitions and structural lemmas for Smooth Spreads Out Statement, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/SmoothSpreadsOutStatement.lean
+
+import Mathlib
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SmoothSpreadsOut
+import Definitions.Def_Development_WeilBound_CoreStatements_TemperedRepresentationTheory_CubeTheorem_SchemeModels
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry GlobalTheory.SpreadingModels
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Hyper_cyc_of_prime
 -- name    : GlobalTheory.SW.Hyper.cyc_of_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:40.636437+00:00
 -- url     : https://prove2.me/theorems/ddb15983-c773-48db-b2f7-36478bcc360a

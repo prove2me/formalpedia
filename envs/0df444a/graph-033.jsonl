@@ -31798,7 +31798,7 @@
 {"parent": "OAIQ361V3Ea001", "child": "EditApproxScheme_10", "via": ["statement"]}
 {"parent": "OAIQ361V3Ea001", "child": "EditApproxScheme_14", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D8_108", "child": "RealPinwheel_FiveSixths_WitnessD8_108", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.avram_a27_original_iid_negative_mark_stream_source_20261117", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.avram_a27_original_iid_negative_mark_stream_source_20261117", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessD8_125", "child": "RealPinwheel_FiveSixths_Witness", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_WitnessD8_125", "child": "RealPinwheel_FiveSixths_CertificateD8", "via": ["statement"]}
 {"parent": "OAI.EditApproximation.computedQueryMemoResult_storage", "child": "EditApproxScheme_03", "via": ["solution", "statement"]}

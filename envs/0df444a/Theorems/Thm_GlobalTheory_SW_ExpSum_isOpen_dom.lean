@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_isOpen_dom
 -- name    : GlobalTheory.SW.ExpSum.isOpen_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:26.57515+00:00
 -- url     : https://prove2.me/theorems/fab57616-4160-405c-bb4a-fe2e3a83031f

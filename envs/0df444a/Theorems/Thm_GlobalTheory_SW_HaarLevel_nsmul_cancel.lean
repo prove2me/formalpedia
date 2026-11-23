@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarLevel_nsmul_cancel
 -- name    : GlobalTheory.SW.HaarLevel.nsmul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:45.417348+00:00
 -- url     : https://prove2.me/theorems/281a00d7-1cee-4737-a738-0f200b55287f

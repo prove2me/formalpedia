@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_dI_target_of_weights
 -- name    : ReciprocityTheory.AnForm.M.dI_target_of_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:42:57.580058+00:00
 -- url     : https://prove2.me/theorems/3eabe0cb-a719-4675-9309-45ae24e3d589

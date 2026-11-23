@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_fiber_dual_tail
 -- name    : GrothendieckLB.fiber_dual_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-23T15:24:33.449809+00:00
 -- url     : https://prove2.me/theorems/dcdfaf03-08dc-45ef-bd6c-1f8a2c668a2b

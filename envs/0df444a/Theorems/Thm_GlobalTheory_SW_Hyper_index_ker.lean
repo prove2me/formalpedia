@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Hyper_index_ker
 -- name    : GlobalTheory.SW.Hyper.index_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:36.112655+00:00
 -- url     : https://prove2.me/theorems/86932328-3794-42fc-9b71-5c124323bb9f

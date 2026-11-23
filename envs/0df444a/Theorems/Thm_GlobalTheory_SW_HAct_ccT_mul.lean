@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_ccT_mul
 -- name    : GlobalTheory.SW.HAct.ccT_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:40.160107+00:00
 -- url     : https://prove2.me/theorems/58bbb0d2-99db-4331-80e2-e477d8f26e7f

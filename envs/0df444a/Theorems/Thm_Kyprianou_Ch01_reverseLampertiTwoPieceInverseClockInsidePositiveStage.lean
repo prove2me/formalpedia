@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiTwoPieceInverseClockInsidePositiveStage
 -- name    : Kyprianou.Ch01.reverseLampertiTwoPieceInverseClockInsidePositiveStage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:26:16.123425+00:00
 -- url     : https://prove2.me/theorems/7f6d887f-9ea4-497e-aae7-13488aa058b4

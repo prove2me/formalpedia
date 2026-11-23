@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_conjI_eq
 -- name    : GlobalTheory.SW.Nbr.conjI_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:29.042104+00:00
 -- url     : https://prove2.me/theorems/320e2e7b-0d6e-44af-9a2c-a4ac7b3df50c

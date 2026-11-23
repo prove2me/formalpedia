@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeff_X_mul_C
 -- name    : ReciprocityTheory.AnForm.P.coeff_X_mul_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:44.761367+00:00
 -- url     : https://prove2.me/theorems/43b3694f-149f-40de-a4c9-da675952649f

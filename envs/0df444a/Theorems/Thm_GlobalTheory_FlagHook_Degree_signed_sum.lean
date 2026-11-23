@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagHook_Degree_signed_sum
 -- name    : GlobalTheory.FlagHook.Degree.signed_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:53.609968+00:00
 -- url     : https://prove2.me/theorems/d1d97694-d463-4ec2-b7a7-0e8eaa59c67e

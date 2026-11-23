@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkLaw_constantCoeff_ev
 -- name    : GlobalTheory.LinkLaw.constantCoeff_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:49:41.30367+00:00
 -- url     : https://prove2.me/theorems/74fc474c-5fe4-4a52-ab05-b5381c7d9f34

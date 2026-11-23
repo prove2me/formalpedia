@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_SD_eq_of_le
 -- name    : GlobalTheory.SW.Nbr.SD.eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:10.514683+00:00
 -- url     : https://prove2.me/theorems/295dee52-4284-4c94-9734-d3804e8756f8

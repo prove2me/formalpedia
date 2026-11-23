@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagHook_Degree_prod_rho_factorial
 -- name    : GlobalTheory.FlagHook.Degree.prod_rho_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:33.606034+00:00
 -- url     : https://prove2.me/theorems/ff3c4a8d-dcf7-4956-a11a-303988179b22

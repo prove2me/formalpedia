@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkLaw_read_match
 -- name    : GlobalTheory.LinkLaw.read_match
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:55.145805+00:00
 -- url     : https://prove2.me/theorems/815c3d2d-8506-41b7-a43d-04bca3c9a78c

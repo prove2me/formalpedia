@@ -50630,11 +50630,11 @@
 {"parent": "Formalism.FourierDecayAlt.P.third_polynomial_prime_combine", "child": "Formalism_HermitianCurvature_LowerBlockNormalisedBoundFromComponents", "via": ["statement"]}
 {"parent": "Evaluate.evaluate_node", "child": "Bdd_Evaluate", "via": ["solution", "statement"]}
 {"parent": "Evaluate.evaluate_node", "child": "Bdd_Basic", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_ConstPullback", "via": ["statement"]}
-{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
-{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_FirstCohomologyVanishesSpecOfIsLocalRing", "via": ["statement"]}
-{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_TrivBasicOpenOfTrivFibre", "via": ["statement"]}
-{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_AbelianSchemeGerms", "via": ["statement"]}
+{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_ConstPullback", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_FirstCohomologyVanishesSpecOfIsLocalRing", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_TrivBasicOpenOfTrivFibre", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_AbelianSchemeGerms", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.gram_det_orth", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsOrthTuple", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.gram_det_orth", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsASDOfTuple", "via": ["solution", "statement"]}
 {"parent": "Size.size_spec", "child": "Bdd_Size", "via": ["solution", "statement"]}
@@ -54662,10 +54662,10 @@
 {"parent": "GlobalTheory.TorsionFixedAut.secM_ext", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TorsionFixedAut.secM_ext", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_EqIdOfFixesTorsion", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.MonoDeg.sum_eq_sum_finsuppAntidiag", "child": "Development_AbelianVarietyTheory_Definitions_QuasicoherentCohomology_IsQuasiRegularSeqSelfIffLocalizationMaximal", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_FirstCoordinateAdmissible", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel", "via": ["statement"]}
-{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "ReciprocityTheory_GeometryOfNumbers_LatticeCovolumes_InhabSt", "via": ["statement"]}
+{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_FirstCoordinateAdmissible", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SW.Base.ccT_mem_DH", "child": "ReciprocityTheory_GeometryOfNumbers_LatticeCovolumes_InhabSt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.extZero_of_not_isUnit", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_InvariantSubspaceMobiusInverseRecEqOfFinrankLt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.extZero_of_not_isUnit", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_AbByPOfComm", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.extZero_of_not_isUnit", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_GeneralLinearFunctionExtendZeroEndProperties", "via": ["solution", "statement"]}

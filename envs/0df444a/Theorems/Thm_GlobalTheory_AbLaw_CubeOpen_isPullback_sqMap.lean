@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeOpen_isPullback_sqMap
 -- name    : GlobalTheory.AbLaw.CubeOpen.isPullback_sqMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:27.993339+00:00
 -- url     : https://prove2.me/theorems/fedcfdcf-ec69-473d-8f52-910e28681521

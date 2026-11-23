@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Dict_exists_den_symm
 -- name    : GlobalTheory.SW.Dict.exists_den_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:32.544244+00:00
 -- url     : https://prove2.me/theorems/0fcfa7db-e49b-40b8-95c3-249a2c123e69

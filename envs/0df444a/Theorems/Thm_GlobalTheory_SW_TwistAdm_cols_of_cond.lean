@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_cols_of_cond
 -- name    : GlobalTheory.SW.TwistAdm.cols_of_cond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:53.299464+00:00
 -- url     : https://prove2.me/theorems/2a3d9d1c-9df9-4d76-8a4f-765564bc5ee0

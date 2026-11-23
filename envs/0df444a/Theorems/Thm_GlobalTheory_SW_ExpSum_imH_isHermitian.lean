@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_imH_isHermitian
 -- name    : GlobalTheory.SW.ExpSum.imH_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:22.640805+00:00
 -- url     : https://prove2.me/theorems/8dcc29c5-2259-4f7c-8da5-e4c77d756dbc

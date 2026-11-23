@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_cc_cc
 -- name    : GlobalTheory.SW.Nbr.cc_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:13.29958+00:00
 -- url     : https://prove2.me/theorems/20ae8352-e2aa-4133-aa5d-3c7dcb1adcd7

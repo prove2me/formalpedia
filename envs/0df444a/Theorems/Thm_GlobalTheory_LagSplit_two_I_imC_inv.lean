@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_two_I_imC_inv
 -- name    : GlobalTheory.LagSplit.two_I_imC_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:50.997256+00:00
 -- url     : https://prove2.me/theorems/393b751c-f2d1-483e-9bb4-1aa10f798610

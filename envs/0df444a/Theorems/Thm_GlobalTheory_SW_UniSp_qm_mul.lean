@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_qm_mul
 -- name    : GlobalTheory.SW.UniSp.qm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:23.258982+00:00
 -- url     : https://prove2.me/theorems/42ca6450-582e-448b-91a3-c9cd83522abd

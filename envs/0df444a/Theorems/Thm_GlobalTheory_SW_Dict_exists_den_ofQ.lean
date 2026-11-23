@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Dict_exists_den_ofQ
 -- name    : GlobalTheory.SW.Dict.exists_den_ofQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:47.994423+00:00
 -- url     : https://prove2.me/theorems/767a5944-b3a4-457a-a5ee-d4b65e223171

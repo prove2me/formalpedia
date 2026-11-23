@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemicharIndep_cc_sub
 -- name    : GlobalTheory.SemicharIndep.cc_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:40.529997+00:00
 -- url     : https://prove2.me/theorems/8b1856d4-4fb3-42fa-a121-48a16cdf8f51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_reverseLampertiTwoPiecePositiveClockCrossingWitness
 -- name    : Kyprianou.Ch01.reverseLampertiTwoPiecePositiveClockCrossingWitness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:34:17.368029+00:00
 -- url     : https://prove2.me/theorems/3426a8c3-0353-4400-9fc2-8f66f67d36c0

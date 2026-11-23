@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_cls_eq_iff
 -- name    : GlobalTheory.SW.Base.cls_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:48.235748+00:00
 -- url     : https://prove2.me/theorems/838cb3bc-4a2c-4026-9a9a-4ead5c7b82d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarLevel_finsum_quotient_of_le
 -- name    : GlobalTheory.SW.HaarLevel.finsum_quotient_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:59.920652+00:00
 -- url     : https://prove2.me/theorems/0843c884-c32e-4115-b2ba-16a708a2a245

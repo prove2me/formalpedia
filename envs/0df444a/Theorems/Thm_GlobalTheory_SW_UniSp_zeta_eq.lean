@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_zeta_eq
 -- name    : GlobalTheory.SW.UniSp.zeta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:11.862168+00:00
 -- url     : https://prove2.me/theorems/3e1cd508-750b-4a40-b13e-5b5a34a90d24

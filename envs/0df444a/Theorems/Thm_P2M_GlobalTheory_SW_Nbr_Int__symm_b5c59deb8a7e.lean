@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_Nbr_Int__symm_b5c59deb8a7e
 -- name    : P2M_GlobalTheory_SW_Nbr_Int__symm_b5c59deb8a7e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:11.373851+00:00
 -- url     : https://prove2.me/theorems/0ab8e7c0-eee3-4fef-a7ec-829b0138c4e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_ccT_mem_DH
 -- name    : GlobalTheory.SW.Base.ccT_mem_DH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:58.253611+00:00
 -- url     : https://prove2.me/theorems/3827f0a0-671d-403c-a948-062f3215465b

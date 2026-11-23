@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_omegaCx_apply
 -- name    : GlobalTheory.LagSplit.omegaCx_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:34.66368+00:00
 -- url     : https://prove2.me/theorems/545f573d-9038-450a-a613-9c10361828de

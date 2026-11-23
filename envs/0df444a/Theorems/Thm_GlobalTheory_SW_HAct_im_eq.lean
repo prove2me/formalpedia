@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_im_eq
 -- name    : GlobalTheory.SW.HAct.im_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:57.070621+00:00
 -- url     : https://prove2.me/theorems/803476df-949c-4d08-92dc-9808a2a3e90a

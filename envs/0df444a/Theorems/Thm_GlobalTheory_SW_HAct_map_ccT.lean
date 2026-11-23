@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_map_ccT
 -- name    : GlobalTheory.SW.HAct.map_ccT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:49.616095+00:00
 -- url     : https://prove2.me/theorems/17726d4c-724a-42e7-804b-410306796694

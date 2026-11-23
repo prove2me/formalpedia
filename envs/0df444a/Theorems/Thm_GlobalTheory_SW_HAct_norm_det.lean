@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_norm_det
 -- name    : GlobalTheory.SW.HAct.norm_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:35.868077+00:00
 -- url     : https://prove2.me/theorems/14b229c6-a562-432f-a411-bf6d226b6cd5

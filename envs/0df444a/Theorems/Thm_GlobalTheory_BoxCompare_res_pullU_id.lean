@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_res_pullU_id
 -- name    : GlobalTheory.BoxCompare.res_pullU_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:47.087891+00:00
 -- url     : https://prove2.me/theorems/1318cbeb-082a-43d0-924f-1cff23ccf4d1

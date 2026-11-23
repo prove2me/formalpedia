@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_skew
 -- name    : GlobalTheory.SW.HAct.skew
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:02.259949+00:00
 -- url     : https://prove2.me/theorems/051ab9ee-9ece-4ff1-ae99-c583888efcff

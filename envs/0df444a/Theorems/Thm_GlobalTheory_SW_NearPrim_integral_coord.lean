@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NearPrim_integral_coord
 -- name    : GlobalTheory.SW.NearPrim.integral_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:41.647277+00:00
 -- url     : https://prove2.me/theorems/40b90e53-48c8-4966-8aab-bad91761308d

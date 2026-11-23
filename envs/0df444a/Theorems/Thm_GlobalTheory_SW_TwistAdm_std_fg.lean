@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_std_fg
 -- name    : GlobalTheory.SW.TwistAdm.std_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:41.673691+00:00
 -- url     : https://prove2.me/theorems/b0bea71a-7dfc-4d3d-89d1-442ed27cf704

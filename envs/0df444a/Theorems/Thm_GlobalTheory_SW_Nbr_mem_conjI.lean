@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_mem_conjI
 -- name    : GlobalTheory.SW.Nbr.mem_conjI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:25.479061+00:00
 -- url     : https://prove2.me/theorems/669c2a7b-8f91-4198-bb87-15a5086f9846

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_li_of_mul
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.li_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:33.077083+00:00
 -- url     : https://prove2.me/theorems/a801504c-acdf-48b5-af43-a9fe0a7c742a

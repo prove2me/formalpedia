@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_hFac_inv
 -- name    : GlobalTheory.SW.HeatTerm.hFac_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:09.604923+00:00
 -- url     : https://prove2.me/theorems/8a8ca704-68cc-4e01-993f-877493646359

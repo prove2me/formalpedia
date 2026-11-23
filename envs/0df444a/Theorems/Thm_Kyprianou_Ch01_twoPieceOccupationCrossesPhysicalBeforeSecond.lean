@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_twoPieceOccupationCrossesPhysicalBeforeSecond
 -- name    : Kyprianou.Ch01.twoPieceOccupationCrossesPhysicalBeforeSecond
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T15:38:23.345421+00:00
 -- url     : https://prove2.me/theorems/cd945fed-ca8f-46d5-afe9-ebed9aad0e35

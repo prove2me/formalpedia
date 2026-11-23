@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Hyper_exists_fun
 -- name    : GlobalTheory.SW.Hyper.exists_fun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:20.222955+00:00
 -- url     : https://prove2.me/theorems/961e65e1-42d6-4d26-a360-c5f6fe714422

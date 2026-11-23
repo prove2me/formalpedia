@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_isLoc
 -- name    : GlobalTheory.SW.Nbr.isLoc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:59.604663+00:00
 -- url     : https://prove2.me/theorems/329c712c-0eea-4258-aaa4-e970e7ab48e1

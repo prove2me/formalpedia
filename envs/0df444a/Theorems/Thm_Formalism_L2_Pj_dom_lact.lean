@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_dom_lact
 -- name    : Formalism.L2.Pj.dom_lact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:34.1548+00:00
 -- url     : https://prove2.me/theorems/920523d1-d088-4b32-bb3f-52c2b81bade8
