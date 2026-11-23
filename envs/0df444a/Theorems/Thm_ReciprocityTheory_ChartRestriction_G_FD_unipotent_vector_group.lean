@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_unipotent_vector_group
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.unipotent_vector_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:31.201063+00:00
 -- url     : https://prove2.me/theorems/3c6059d5-01f7-497f-a55c-573f32a428ca

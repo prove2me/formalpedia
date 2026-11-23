@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_lemS_periodic
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.lemS_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:37.935489+00:00
 -- url     : https://prove2.me/theorems/e8d1f62c-8492-49ab-836a-75dbd97ca18a

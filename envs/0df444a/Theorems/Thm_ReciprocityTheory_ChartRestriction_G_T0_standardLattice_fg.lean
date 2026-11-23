@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_standardLattice_fg
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.standardLattice_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:52:05.683038+00:00
 -- url     : https://prove2.me/theorems/05253a14-6bcc-4faf-b82a-ba617abae9fc

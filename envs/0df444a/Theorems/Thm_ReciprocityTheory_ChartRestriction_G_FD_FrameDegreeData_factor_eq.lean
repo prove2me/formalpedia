@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_factor_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.factor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:25.356574+00:00
 -- url     : https://prove2.me/theorems/b0376a89-e536-4541-92e3-c417d17e4d31

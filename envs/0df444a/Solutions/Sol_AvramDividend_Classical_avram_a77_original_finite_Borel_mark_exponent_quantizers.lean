@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a77_original_finite_Borel_mark_exponent_quantizers
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T22:48:12.972952+00:00
 -- url     : https://prove2.me/submissions/1771f59a-024a-419c-a973-8f7e314c0ae2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- Original physical Avram negative Borel mark quantiser: reduce
    to directly provable nonpositive SimpleFunc approximation and genuine

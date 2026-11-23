@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckLB_Supplement_theorem_2_4
 -- name    : GrothendieckLB.Supplement.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T14:41:24.010196+00:00
 -- url     : https://prove2.me/theorems/3c10cedf-cc70-43e6-9f88-40efaf0e5c8e

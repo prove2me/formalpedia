@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_sum_split
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.sum_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:19.229082+00:00
 -- url     : https://prove2.me/theorems/8530b08c-0cbf-4cda-8fed-028774519386

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_pnorm_rmul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.pnorm_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:22:37.675823+00:00
 -- url     : https://prove2.me/theorems/f6ead560-da2c-408a-8d89-79e2049018cb

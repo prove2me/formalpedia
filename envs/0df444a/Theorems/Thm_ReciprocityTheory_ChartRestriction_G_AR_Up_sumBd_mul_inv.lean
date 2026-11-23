@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_mul_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:52.430311+00:00
 -- url     : https://prove2.me/theorems/db2e4dfe-c2ae-4438-ae85-ac9a447d4b04

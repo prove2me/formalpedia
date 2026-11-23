@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_Model_hasArcData_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.Model.hasArcData_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:25.190805+00:00
 -- url     : https://prove2.me/theorems/6988b5cf-a937-4004-8e28-bdc64a67d374

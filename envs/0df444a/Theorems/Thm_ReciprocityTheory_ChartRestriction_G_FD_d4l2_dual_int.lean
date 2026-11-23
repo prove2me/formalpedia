@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_d4l2_dual_int
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.d4l2_dual_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:58.504615+00:00
 -- url     : https://prove2.me/theorems/f81648f3-10d0-45cb-9e61-473351c291af

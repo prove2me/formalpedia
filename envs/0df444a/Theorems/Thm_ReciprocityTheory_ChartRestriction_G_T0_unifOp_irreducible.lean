@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_unifOp_irreducible
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.unifOp_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:16.636252+00:00
 -- url     : https://prove2.me/theorems/1b9275ec-2214-499f-a56d-677a8905dcfd

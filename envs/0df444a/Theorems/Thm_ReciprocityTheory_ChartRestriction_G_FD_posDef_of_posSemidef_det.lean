@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_posDef_of_posSemidef_det
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.posDef_of_posSemidef_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:00.68519+00:00
 -- url     : https://prove2.me/theorems/7f9d7a70-88f3-4c4e-8d74-ad6e45d5f03a

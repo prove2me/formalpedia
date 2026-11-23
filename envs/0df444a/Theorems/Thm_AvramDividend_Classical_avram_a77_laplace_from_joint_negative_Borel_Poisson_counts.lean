@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a77_laplace_from_joint_negative_Borel_Poisson_counts
 -- name    : AvramDividend.Classical.avram_a77_laplace_from_joint_negative_Borel_Poisson_counts
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:17:59.913076+00:00
 -- url     : https://prove2.me/theorems/8bbaf3a8-1597-478f-92d3-dbd8ccf6290e

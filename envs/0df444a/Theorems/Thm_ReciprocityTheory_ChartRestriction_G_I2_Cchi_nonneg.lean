@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Cchi_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Cchi_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:50:01.864283+00:00
 -- url     : https://prove2.me/theorems/d1425c33-dddb-454c-ab4d-f292553c2080

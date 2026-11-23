@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a77_original_full_laplace_from_finite_simple_mark_formula
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T22:21:02.151852+00:00
 -- url     : https://prove2.me/submissions/6060bdc3-09b3-4806-90ec-0d58cdc4ac16
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- Original a77 full physical negative-jump Laplace: substantive
    reduction to original-source simultaneous Borel marked-step convergence.

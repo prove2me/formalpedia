@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_UnipotentCoefficientShift_Hf_sub_left
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.UnipotentCoefficientShift.Hf_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:37.297703+00:00
 -- url     : https://prove2.me/theorems/e801b9e4-789c-4c73-99ff-1da9b82ac6e4

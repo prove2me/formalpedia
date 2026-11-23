@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeMinorExistence_pairR_rank1
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeMinorExistence.pairR_rank1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:06.74229+00:00
 -- url     : https://prove2.me/theorems/4b78ac36-c22f-43b8-a001-31f888601993

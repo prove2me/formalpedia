@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a77_original_full_laplace_from_finite_simple_mark_formula
 -- name    : AvramDividend.Classical.avram_a77_original_full_laplace_from_finite_simple_mark_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T21:33:19.605954+00:00
 -- url     : https://prove2.me/theorems/5b48325d-9d74-41dc-8e51-336a50450a68

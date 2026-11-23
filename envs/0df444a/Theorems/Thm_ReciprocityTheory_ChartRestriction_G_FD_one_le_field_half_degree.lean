@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_one_le_field_half_degree
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.one_le_field_half_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:07.3198+00:00
 -- url     : https://prove2.me/theorems/551963f9-1fe3-4b70-bcde-32241c2d5102

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RgB_exists_factor
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RgB.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:42.348828+00:00
 -- url     : https://prove2.me/theorems/7432a880-4cc3-4bda-acbb-f82aa29a5013

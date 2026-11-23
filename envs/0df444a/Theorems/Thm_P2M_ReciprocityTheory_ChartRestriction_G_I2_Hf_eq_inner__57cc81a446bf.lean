@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_I2_Hf_eq_inner__57cc81a446bf
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_I2_Hf_eq_inner__57cc81a446bf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:35.407033+00:00
 -- url     : https://prove2.me/theorems/4c19b5aa-0cff-4780-a170-3c382dbd05ce

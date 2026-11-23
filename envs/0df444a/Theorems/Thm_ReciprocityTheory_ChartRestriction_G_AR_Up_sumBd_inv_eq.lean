@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_inv_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:45.883467+00:00
 -- url     : https://prove2.me/theorems/6b463a31-8856-4cf0-9750-ed2fe037f0b7

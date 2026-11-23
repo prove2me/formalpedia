@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantOperators_zero_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantOperators.zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:50.007544+00:00
 -- url     : https://prove2.me/theorems/68eb4788-6ea4-47f2-8ef7-e352e00b55b9

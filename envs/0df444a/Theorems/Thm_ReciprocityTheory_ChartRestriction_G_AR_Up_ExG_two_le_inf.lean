@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExG_two_le_inf
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExG.two_le_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:53.432721+00:00
 -- url     : https://prove2.me/theorems/505658bf-fe83-4ba0-8815-39dac1a0aaa6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bridge20261123_A77_original_physical_single_mark_count_exact
 -- name    : AvramDividend.Classical.avram_bridge20261123_A77_original_physical_single_mark_count_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T16:44:13.724628+00:00
 -- url     : https://prove2.me/theorems/8b9b4431-7300-46af-acc0-25cfac1031d0

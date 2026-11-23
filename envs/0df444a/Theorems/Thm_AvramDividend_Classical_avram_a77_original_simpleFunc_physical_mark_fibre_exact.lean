@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a77_original_simpleFunc_physical_mark_fibre_exact
 -- name    : AvramDividend.Classical.avram_a77_original_simpleFunc_physical_mark_fibre_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:52:25.720934+00:00
 -- url     : https://prove2.me/theorems/5aaebfc3-dee5-4b3c-a749-c26088127033

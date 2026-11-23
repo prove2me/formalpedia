@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoS_dom_rmul
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoS.dom_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:51.894185+00:00
 -- url     : https://prove2.me/theorems/b337de04-1f16-4d51-8595-1cc607fdc926

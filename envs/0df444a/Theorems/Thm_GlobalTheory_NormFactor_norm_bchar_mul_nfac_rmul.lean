@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFactor_norm_bchar_mul_nfac_rmul
 -- name    : GlobalTheory.NormFactor.norm_bchar_mul_nfac_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:17.728794+00:00
 -- url     : https://prove2.me/theorems/412bb534-cf74-4e82-b5e1-40aa8e9c90ba

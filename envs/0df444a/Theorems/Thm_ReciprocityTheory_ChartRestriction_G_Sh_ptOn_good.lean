@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_ptOn_good
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.ptOn_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:56.670798+00:00
 -- url     : https://prove2.me/theorems/d2a4c425-137c-49e9-9d03-c4c782c22c0d

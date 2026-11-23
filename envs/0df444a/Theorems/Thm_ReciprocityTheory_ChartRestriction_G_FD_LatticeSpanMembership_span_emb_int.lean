@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeSpanMembership_span_emb_int
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeSpanMembership.span_emb_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:02.060858+00:00
 -- url     : https://prove2.me/theorems/876f0e72-c240-4e35-a2ee-a8139839c17c

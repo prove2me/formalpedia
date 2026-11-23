@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_UnipotentCoefficientShift_eq_zero_of_conj_lt_one
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.UnipotentCoefficientShift.eq_zero_of_conj_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:49.995234+00:00
 -- url     : https://prove2.me/theorems/c6dbd377-f443-4755-8bca-c555d41911a2

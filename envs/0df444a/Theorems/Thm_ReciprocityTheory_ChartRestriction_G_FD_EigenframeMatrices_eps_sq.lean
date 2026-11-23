@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_EigenframeMatrices_eps_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.EigenframeMatrices.eps_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:03.707751+00:00
 -- url     : https://prove2.me/theorems/dd7c2960-691f-4ccf-8b4e-f67571c578e3

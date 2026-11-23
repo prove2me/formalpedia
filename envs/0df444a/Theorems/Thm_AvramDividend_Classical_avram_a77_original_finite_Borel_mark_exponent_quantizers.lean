@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a77_original_finite_Borel_mark_exponent_quantizers
 -- name    : AvramDividend.Classical.avram_a77_original_finite_Borel_mark_exponent_quantizers
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:31:54.010202+00:00
 -- url     : https://prove2.me/theorems/4c557e90-307d-4db4-b457-7915a2047972

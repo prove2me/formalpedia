@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_IsChart_effectiveEpi
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.IsChart.effectiveEpi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:39.746484+00:00
 -- url     : https://prove2.me/theorems/01aa7352-c09e-4fbf-aca6-db506ba42939

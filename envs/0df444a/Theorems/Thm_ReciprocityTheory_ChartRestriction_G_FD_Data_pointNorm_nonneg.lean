@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_pointNorm_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.pointNorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:47:38.182093+00:00
 -- url     : https://prove2.me/theorems/86185b0a-efe0-44e0-91cc-24b1f7680d1f

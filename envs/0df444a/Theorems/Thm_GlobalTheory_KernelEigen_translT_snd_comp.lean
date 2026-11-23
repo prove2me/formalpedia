@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelEigen_translT_snd_comp
 -- name    : GlobalTheory.KernelEigen.translT_snd_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:27.148404+00:00
 -- url     : https://prove2.me/theorems/762f08dc-08bd-42e0-881c-e4a861b75fbc

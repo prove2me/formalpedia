@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_QuadraticCoefficientForms_card_Psi
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.QuadraticCoefficientForms.card_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:36:34.732657+00:00
 -- url     : https://prove2.me/theorems/21382916-08ca-478e-a77a-0eef2499e496

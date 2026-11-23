@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_fin_cases_split
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.fin_cases_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:46.758688+00:00
 -- url     : https://prove2.me/theorems/b8ce2a38-0f32-4652-9ae8-07c4769e4d71

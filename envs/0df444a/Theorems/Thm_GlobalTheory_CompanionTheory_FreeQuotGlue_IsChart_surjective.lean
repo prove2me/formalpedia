@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_IsChart_surjective
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.IsChart.surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:47:41.01114+00:00
 -- url     : https://prove2.me/theorems/14ea5b09-b691-4e3f-97e0-543ed76d1407

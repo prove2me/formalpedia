@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_discr_smul_mem
 -- name    : GlobalTheory.CMTransference.discr_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:39.729393+00:00
 -- url     : https://prove2.me/theorems/fd1ff07f-d31f-4e6f-8783-935bd90cd2ce

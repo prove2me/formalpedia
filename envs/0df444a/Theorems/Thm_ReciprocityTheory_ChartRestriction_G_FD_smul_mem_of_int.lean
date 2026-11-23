@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_smul_mem_of_int
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.smul_mem_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:23.877973+00:00
 -- url     : https://prove2.me/theorems/df7e79f6-b865-40b2-ab9a-567c7de45f91

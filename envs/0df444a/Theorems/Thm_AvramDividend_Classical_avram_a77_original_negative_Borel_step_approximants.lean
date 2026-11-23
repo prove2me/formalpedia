@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a77_original_negative_Borel_step_approximants
 -- name    : AvramDividend.Classical.avram_a77_original_negative_Borel_step_approximants
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:18:50.859134+00:00
 -- url     : https://prove2.me/theorems/cc5c4242-c242-4a71-bac2-623c4399147e

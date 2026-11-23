@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a77_laplace_from_joint_negative_Borel_Poisson_counts
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T21:35:39.669925+00:00
 -- url     : https://prove2.me/submissions/277fc37e-6da4-4487-96b5-4c3d391531e5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- Original 8bb source-specific Poisson marked jump Laplace.
    Accepted a77 parent imports 8bb; this sketch separates genuine finite

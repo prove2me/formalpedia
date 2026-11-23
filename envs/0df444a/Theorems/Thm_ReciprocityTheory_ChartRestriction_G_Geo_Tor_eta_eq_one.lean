@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_eta_eq_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.eta_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:50.397265+00:00
 -- url     : https://prove2.me/theorems/0e257d7c-ca36-4a91-a7e7-e15c2b431350

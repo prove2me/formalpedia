@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_a77_original_simpleFunc_physical_mark_count_reconstruction
 -- name    : AvramDividend.Classical.avram_a77_original_simpleFunc_physical_mark_count_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-22T22:38:33.233807+00:00
 -- url     : https://prove2.me/theorems/db0a17f3-92f2-4e30-bad7-2657b90157e6

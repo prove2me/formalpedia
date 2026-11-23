@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TransvectionPeriodicity_cR_add
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TransvectionPeriodicity.cR_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:40.44466+00:00
 -- url     : https://prove2.me/theorems/43c8b207-1003-42b3-939d-ad910ee96e93

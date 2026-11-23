@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenPull_inv_hom_fst
 -- name    : GlobalTheory.EvenPull.inv_hom_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:00:29.814426+00:00
 -- url     : https://prove2.me/theorems/d8dbc9ce-ef64-40d2-8821-41eef7a36559

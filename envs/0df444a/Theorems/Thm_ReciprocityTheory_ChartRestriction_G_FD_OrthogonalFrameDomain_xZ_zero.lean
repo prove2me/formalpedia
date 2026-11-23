@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthogonalFrameDomain_xZ_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthogonalFrameDomain.xZ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:23.955818+00:00
 -- url     : https://prove2.me/theorems/312c6648-922f-4e7f-b1fa-08e1f007d7c8

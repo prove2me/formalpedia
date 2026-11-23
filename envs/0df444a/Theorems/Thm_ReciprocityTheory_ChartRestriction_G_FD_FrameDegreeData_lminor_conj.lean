@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_lminor_conj
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.lminor_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:16:04.787418+00:00
 -- url     : https://prove2.me/theorems/a6269ae0-b122-4fee-b797-f5557e32e3be

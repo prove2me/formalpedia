@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_map_det_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.map_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:49:01.094617+00:00
 -- url     : https://prove2.me/theorems/5201baa6-a7b3-411a-8458-b0dea6d6e6f2

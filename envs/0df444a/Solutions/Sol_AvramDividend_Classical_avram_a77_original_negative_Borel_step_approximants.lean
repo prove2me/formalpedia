@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.avram_a77_original_negative_Borel_step_approximants
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-22T22:33:14.988456+00:00
 -- url     : https://prove2.me/submissions/1215af9e-d72a-466b-849c-59dccecc8685
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- The actual original physical marked finite Borel quantisation
    is a source-specific Open obligation; the negative Levy intensity

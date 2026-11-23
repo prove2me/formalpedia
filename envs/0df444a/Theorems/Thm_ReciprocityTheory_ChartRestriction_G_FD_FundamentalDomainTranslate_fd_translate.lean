@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FundamentalDomainTranslate_fd_translate
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FundamentalDomainTranslate.fd_translate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:14.624799+00:00
 -- url     : https://prove2.me/theorems/7f11f415-601d-429a-a0cb-a64f695a3306

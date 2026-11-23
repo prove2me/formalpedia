@@ -22131,7 +22131,7 @@
 {"parent": "RH1E6S07.part_022_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07.part_022_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S06_D072_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "FractionalCalc.scottBlair_relaxation", "child": "FractionalCalc_scottBlair", "via": ["statement"]}
+{"parent": "FractionalCalc.scottBlair_relaxation", "child": "FractionalCalc_scottBlair", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.part_084_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_084_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S06.part_084_0", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}

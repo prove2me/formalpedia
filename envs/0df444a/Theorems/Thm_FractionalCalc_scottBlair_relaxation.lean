@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_scottBlair_relaxation
 -- name    : FractionalCalc.scottBlair_relaxation
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T16:43:45.060578+00:00
 -- url     : https://prove2.me/theorems/a2e6c14c-0ec2-4404-a9b2-699c92562909

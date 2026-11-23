@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_avram_bridge20261123_A77_original_single_simple_fibre_from_partition
 -- name    : AvramDividend.Classical.avram_bridge20261123_A77_original_single_simple_fibre_from_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T16:27:51.941584+00:00
 -- url     : https://prove2.me/theorems/6c3848ee-68e5-43f0-97d4-fbba852d1ccb

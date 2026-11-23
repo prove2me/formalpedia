@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_PTb_isCurve_rescale
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.PTb.isCurve_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:36:45.403911+00:00
 -- url     : https://prove2.me/theorems/8cb036cb-074c-467b-acf3-f554ef218004

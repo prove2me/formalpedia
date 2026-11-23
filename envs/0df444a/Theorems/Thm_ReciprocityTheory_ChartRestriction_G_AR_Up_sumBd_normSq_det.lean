@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_normSq_det
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_normSq_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:46:50.229884+00:00
 -- url     : https://prove2.me/theorems/6f36bc21-55d5-40df-b430-65b9e521ab4d

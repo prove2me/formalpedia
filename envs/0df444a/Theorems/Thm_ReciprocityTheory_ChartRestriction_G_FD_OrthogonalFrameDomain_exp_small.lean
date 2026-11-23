@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthogonalFrameDomain_exp_small
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthogonalFrameDomain.exp_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:19.6316+00:00
 -- url     : https://prove2.me/theorems/9ac40909-f474-42e9-8aba-a92c80045934

@@ -76340,8 +76340,8 @@
 {"parent": "N25.Endgame.qExpand_pow_intRatio25", "child": "N25_Endgame", "via": ["solution", "statement"]}
 {"parent": "MonoTestDAG.Supplement.theorem_4_7", "child": "MonoTestDAG_IsPMRSWitness", "via": ["statement"]}
 {"parent": "MonoTestDAG.Supplement.theorem_4_7", "child": "MonoTestDAG_Tester", "via": ["statement"]}
-{"parent": "GrothendieckLB.Supplement.theorem_2_4", "child": "GrothendieckLB_taylorCoeff", "via": ["statement"]}
-{"parent": "GrothendieckLB.Supplement.theorem_2_4", "child": "GrothendieckLB_IsLocalInverseBranch", "via": ["statement"]}
+{"parent": "GrothendieckLB.Supplement.theorem_2_4", "child": "GrothendieckLB_taylorCoeff", "via": ["solution", "statement"]}
+{"parent": "GrothendieckLB.Supplement.theorem_2_4", "child": "GrothendieckLB_IsLocalInverseBranch", "via": ["solution", "statement"]}
 {"parent": "PolygonPack_Supplement_TOut", "child": "PolygonPack_Supplement_TPacks", "via": ["statement"]}
 {"parent": "PolygonPack_Supplement_TOut", "child": "PolygonPack_Instance", "via": ["statement"]}
 {"parent": "PolygonPack_Supplement_TOut", "child": "PolygonPack_Pose", "via": ["statement"]}

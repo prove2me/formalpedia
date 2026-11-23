@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_ZUnit_of_pow
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.ZUnit.of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:40.172863+00:00
 -- url     : https://prove2.me/theorems/9544864c-27f9-495d-8a1a-f5fc9d0da961
