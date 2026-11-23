@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_one_div_nonneg
 -- name    : Formalism.ZeroFreeDirichlet.re_one_div_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:40.76666+00:00
 -- url     : https://prove2.me/theorems/e28407f4-93cd-4715-a958-1a9231f640e9

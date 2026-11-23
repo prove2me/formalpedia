@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_le_of_second_difference_bound
 -- name    : Formalism.ZeroFreeDirichlet.le_of_second_difference_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:58.035864+00:00
 -- url     : https://prove2.me/theorems/877d4cdd-f89b-40d9-b2bc-0bab2ba2191b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoQuantumUnion_subnormalized
 -- name    : GaoQuantumUnion.subnormalized
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-19T21:46:20.87292+00:00
 -- url     : https://prove2.me/theorems/c01f5b28-765d-42be-8b14-392b8c11dffd

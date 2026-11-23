@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_hypJ_eq
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.hypJ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:36.5628+00:00
 -- url     : https://prove2.me/theorems/76522db3-5e01-494a-af7e-d346299e4e39

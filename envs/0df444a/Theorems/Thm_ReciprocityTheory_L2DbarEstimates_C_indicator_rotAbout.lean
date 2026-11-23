@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_indicator_rotAbout
 -- name    : ReciprocityTheory.L2DbarEstimates.C.indicator_rotAbout
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:33:44.786907+00:00
 -- url     : https://prove2.me/theorems/ec7331c8-232c-46f5-bfd8-be9b4e5cae7e

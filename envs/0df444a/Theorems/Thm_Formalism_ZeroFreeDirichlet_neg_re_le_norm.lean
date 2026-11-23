@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_neg_re_le_norm
 -- name    : Formalism.ZeroFreeDirichlet.neg_re_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:34.939842+00:00
 -- url     : https://prove2.me/theorems/900611c1-ad8b-4403-863f-a74a666cbd0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_log_two_le_log_mul_abs_add_two
 -- name    : Formalism.ZeroFreeDirichlet.log_two_le_log_mul_abs_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:07.552408+00:00
 -- url     : https://prove2.me/theorems/4b031260-319a-4029-ad39-8824c60d7106

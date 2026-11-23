@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_indicator_smul_eq_encard
 -- name    : GlobalTheory.tsum_indicator_smul_eq_encard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:10.085664+00:00
 -- url     : https://prove2.me/theorems/4cfea7c0-7bb1-46a2-a0b3-b5c045b6a4f3

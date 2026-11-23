@@ -30887,7 +30887,7 @@
 {"parent": "TarskiQuasiFPT.UpperBound.theorem_2", "child": "TarskiQuasiFPT_UpperBound_QueryComplexity", "via": ["statement"]}
 {"parent": "OAI.SecondPassIntegration.full_uniform_integrated_fixed_second_mode_transfer", "child": "OAI_NumberTheory_DirichletL_CubicSieve_UniformTransfer", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassIntegration.full_uniform_integrated_fixed_second_mode_transfer", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}
-{"parent": "OptimalTraceDistance.Estimation.proposition_2_7", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["statement"]}
+{"parent": "OptimalTraceDistance.Estimation.proposition_2_7", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval343_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval343_e", "child": "OAIQ106E122", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval343_e", "child": "OAIQ106E130", "via": ["solution", "statement"]}
@@ -37068,7 +37068,7 @@
 {"parent": "BookProof.FullQuadratic.lop_lop_hermiteMv_gen", "child": "ChapterHermiteRelativeBound", "via": ["solution", "statement"]}
 {"parent": "BookProof.FullQuadratic.lop_lop_hermiteMv_gen", "child": "ChapterHermiteProductCore", "via": ["solution", "statement"]}
 {"parent": "BookProof.FullQuadratic.lop_lop_hermiteMv_gen", "child": "ChapterCarlemanTwoStepPromoted", "via": ["solution", "statement"]}
-{"parent": "OptimalTraceDistance.Estimation.lemma_4_2", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["statement"]}
+{"parent": "OptimalTraceDistance.Estimation.lemma_4_2", "child": "OptimalTraceDistance_Estimation_Algorithm2", "via": ["solution", "statement"]}
 {"parent": "CaiZhuInfo.Matrix.layer_scale_entropy", "child": "CaiZhuInfo_Matrix_LayerData", "via": ["statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.annularRayGcdBlock_eq_active_difference", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_PoissonComparison", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.annularRayGcdBlock_eq_active_difference", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}

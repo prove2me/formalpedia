@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_error_terms_sum_bound
 -- name    : Formalism.ZeroFreeDirichlet.perron_error_terms_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:33.418975+00:00
 -- url     : https://prove2.me/theorems/f15d986a-522c-4038-b80a-5fb1014f3086

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoQuantumUnion_decoder_bound
 -- name    : GaoQuantumUnion.decoder_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-19T21:46:57.091374+00:00
 -- url     : https://prove2.me/theorems/09907df0-4d27-4325-9042-02f6a2f72e90

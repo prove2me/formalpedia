@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoDecompFO_fold_codes
 -- name    : CoDecompFO.fold_codes
--- status  : Open
+-- status  : Proved
 -- author  : @emmgaml
 -- created : 2026-11-21T23:44:12.694271+00:00
 -- url     : https://prove2.me/theorems/0e0415f3-b1a8-4c45-ac39-c0514c11cab9

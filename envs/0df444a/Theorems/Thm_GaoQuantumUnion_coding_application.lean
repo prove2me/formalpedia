@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoQuantumUnion_coding_application
 -- name    : GaoQuantumUnion.coding_application
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-19T21:47:16.308866+00:00
 -- url     : https://prove2.me/theorems/95c74e2d-8357-4226-9500-64336553ece7

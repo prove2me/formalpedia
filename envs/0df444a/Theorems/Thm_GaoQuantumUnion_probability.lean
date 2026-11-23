@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaoQuantumUnion_probability
 -- name    : GaoQuantumUnion.probability
--- status  : Open
+-- status  : Proved
 -- author  : @Mrnaiq
 -- created : 2026-11-19T21:45:47.967865+00:00
 -- url     : https://prove2.me/theorems/f5044c68-2fc2-470f-bfcd-277416b9b1d9

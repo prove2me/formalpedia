@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteIndex_map_of_surjective
 -- name    : GlobalTheory.finiteIndex_map_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:50.938497+00:00
 -- url     : https://prove2.me/theorems/05d7b45f-dabe-49c6-9c63-ff228f9dc9ac

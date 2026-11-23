@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_one_div_sub_zero_pos_bis
 -- name    : Formalism.ZeroFreeDirichlet.re_one_div_sub_zero_pos_bis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:24.731801+00:00
 -- url     : https://prove2.me/theorems/858b1c25-d2f9-442a-b795-5b10757fd853

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_diagonal_entry_eq_of_modular_relation
 -- name    : Formalism.YangianSpanCharacter.P.diagonal_entry_eq_of_modular_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:35:00.561454+00:00
 -- url     : https://prove2.me/theorems/5038eaa1-26e6-47ef-a3be-7711c0622333

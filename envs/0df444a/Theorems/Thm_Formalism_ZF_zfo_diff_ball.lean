@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zfo_diff_ball
 -- name    : Formalism.ZF.zfo_diff_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:25.578611+00:00
 -- url     : https://prove2.me/theorems/4cdb263a-ae38-4e4c-861e-19adab046c4c

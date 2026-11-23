@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zfo_ball_ne_one
 -- name    : Formalism.ZF.zfo_ball_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:29.22169+00:00
 -- url     : https://prove2.me/theorems/bdf99af8-7838-4954-8b00-13431eaad3e6

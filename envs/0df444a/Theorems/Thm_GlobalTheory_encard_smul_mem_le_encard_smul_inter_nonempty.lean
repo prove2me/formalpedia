@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_encard_smul_mem_le_encard_smul_inter_nonempty
 -- name    : GlobalTheory.encard_smul_mem_le_encard_smul_inter_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:48:54.269428+00:00
 -- url     : https://prove2.me/theorems/d04813fa-a684-45a8-ac3c-b24916a2f75c

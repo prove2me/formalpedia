@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_ExpP_norm_natCast_eq
 -- name    : Formalism.LT.ExpP.norm_natCast_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:06.110735+00:00
 -- url     : https://prove2.me/theorems/db27e6ec-69fd-4f90-8c20-e73ce7702d1c

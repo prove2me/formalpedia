@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalTraceDistance_Estimation_lemma_4_2
 -- name    : OptimalTraceDistance.Estimation.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T05:45:14.06082+00:00
 -- url     : https://prove2.me/theorems/764cf557-33cc-466f-9389-21c9709b015b

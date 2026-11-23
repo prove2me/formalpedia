@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplit_eps_idem
 -- name    : Formalism.UG.P.afsplit_eps_idem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:34:29.934065+00:00
 -- url     : https://prove2.me/theorems/61c5553e-a107-4209-957f-44288fe70e45

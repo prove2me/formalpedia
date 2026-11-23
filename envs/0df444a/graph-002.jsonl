@@ -726,7 +726,7 @@
 {"parent": "Farey.one_one_mem_pairs", "child": "Farey.mem_pairs", "via": ["solution"]}
 {"parent": "Farey.pairs_inj", "child": "Farey", "via": ["solution", "statement"]}
 {"parent": "Farey.pairs_inj", "child": "Farey.mem_pairs", "via": ["solution"]}
-{"parent": "FastBestSubset.CDSS.lemma_1", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}
+{"parent": "FastBestSubset.CDSS.lemma_1", "child": "FastBestSubset_CDSS_Setting", "via": ["solution", "statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_10", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_11", "child": "FastBestSubset_CDSS_Setting", "via": ["statement"]}
 {"parent": "FastBestSubset.CDSS.lemma_12", "child": "FastBestSubset_CDSS_Setting", "via": ["solution", "statement"]}

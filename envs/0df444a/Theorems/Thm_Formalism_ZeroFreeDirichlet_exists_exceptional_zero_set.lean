@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exists_exceptional_zero_set
 -- name    : Formalism.ZeroFreeDirichlet.exists_exceptional_zero_set
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:46.092644+00:00
 -- url     : https://prove2.me/theorems/e68f375e-bb02-42aa-ab0a-79b822f3eae6

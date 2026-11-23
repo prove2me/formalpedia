@@ -78581,7 +78581,7 @@
 {"parent": "RH1E6S00.part_033_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_497", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_497", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "GaoQuantumUnion.one_step_disturbance", "child": "GaoQuantumUnion_Model", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.one_step_disturbance", "child": "GaoQuantumUnion_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_646", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_646", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "EditMulticoloring.Dev.Ram.powW_spec", "child": "EMRamB000", "via": ["solution", "statement"]}
@@ -81660,7 +81660,7 @@
 {"parent": "RH1E6S02.part_023_2", "child": "ArdaRH65K_RS_Fold", "via": ["statement"]}
 {"parent": "RH1E6S02.part_023_2", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S02.part_023_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
-{"parent": "GaoQuantumUnion.decoder_bound", "child": "GaoQuantumUnion_Decoding", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.decoder_bound", "child": "GaoQuantumUnion_Decoding", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleCatalogue.long_short_lengths", "child": "DeletionCode_ConnectedBlocks", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleCatalogue.long_short_lengths", "child": "DeletionCode_BubbleContextGeometry", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.BubbleCatalogue.long_short_lengths", "child": "DeletionCode_BubbleCatalogue", "via": ["solution", "statement"]}
@@ -99118,7 +99118,7 @@
 {"parent": "LatticePrepro.ThreeSAT.explicit_lattice_gap", "child": "LatticePrepro_Conversions_Hadamard", "via": ["solution", "statement"]}
 {"parent": "LatticePrepro.ThreeSAT.explicit_lattice_gap", "child": "LatticePrepro_Tables_Explicit", "via": ["solution", "statement"]}
 {"parent": "LatticePrepro.ThreeSAT.explicit_lattice_gap", "child": "LatticePrepro_Conversions_Lattices", "via": ["solution", "statement"]}
-{"parent": "GaoQuantumUnion.coding_application", "child": "GaoQuantumUnion_Decoding", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.coding_application", "child": "GaoQuantumUnion_Decoding", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc_Poisson_CompensatorL1_F001", "child": "LevyStochCalc_Poisson_Compensator_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Poisson_CompensatorL1_F001", "child": "LevyStochCalc_Poisson_Compensator_F001", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch62_201", "child": "OAIQ259US022", "via": ["solution", "statement"]}

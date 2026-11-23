@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rowAct_comp_apply
 -- name    : PI.WGB.rowAct_comp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:29.170863+00:00
 -- url     : https://prove2.me/theorems/50308ba0-3bff-479c-84b0-199c650042ad

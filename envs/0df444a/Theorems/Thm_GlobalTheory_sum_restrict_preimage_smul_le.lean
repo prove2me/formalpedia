@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_restrict_preimage_smul_le
 -- name    : GlobalTheory.sum_restrict_preimage_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:15.577145+00:00
 -- url     : https://prove2.me/theorems/113f6f4f-589b-4f10-a372-56be5a31205b

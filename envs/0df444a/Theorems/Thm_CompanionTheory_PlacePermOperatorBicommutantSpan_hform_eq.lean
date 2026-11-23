@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_hform_eq
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.hform_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:42.114798+00:00
 -- url     : https://prove2.me/theorems/8dceb5a7-b7b8-473f-a0a7-5f688519368e

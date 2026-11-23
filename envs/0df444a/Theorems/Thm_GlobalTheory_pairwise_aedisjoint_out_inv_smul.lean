@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pairwise_aedisjoint_out_inv_smul
 -- name    : GlobalTheory.pairwise_aedisjoint_out_inv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:19.124497+00:00
 -- url     : https://prove2.me/theorems/6f72acd0-c9ee-4b47-acf1-390e4136b5d8

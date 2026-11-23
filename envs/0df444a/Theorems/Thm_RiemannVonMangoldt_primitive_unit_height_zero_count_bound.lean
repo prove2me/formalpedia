@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiemannVonMangoldt_primitive_unit_height_zero_count_bound
 -- name    : RiemannVonMangoldt.primitive_unit_height_zero_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @phi9t
 -- created : 2026-11-23T05:49:55.84336+00:00
 -- url     : https://prove2.me/theorems/17f9c6f3-6197-4921-be42-f14b994f346f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zero_free_region_mono
 -- name    : Formalism.ZeroFreeDirichlet.zero_free_region_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:53:32.850116+00:00
 -- url     : https://prove2.me/theorems/84d879dc-a7e7-4858-b736-641301bdde4f

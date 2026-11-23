@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csSpan_back
 -- name    : Formalism.UG.P.csSpan_back
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:50:13.850013+00:00
 -- url     : https://prove2.me/theorems/2fea33fa-e7d9-4339-8985-6565f999d7fa

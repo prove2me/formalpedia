@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramDeterminantReal_hermC_smul_right
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramDeterminantReal.hermC_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:30.000139+00:00
 -- url     : https://prove2.me/theorems/93a31f3d-1f32-4b49-80b0-2935e908bf4e

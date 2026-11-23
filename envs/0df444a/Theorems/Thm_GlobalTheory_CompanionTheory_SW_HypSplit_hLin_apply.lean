@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_hLin_apply
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.hLin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:56.357975+00:00
 -- url     : https://prove2.me/theorems/b0e22cae-9cfc-4736-b424-ff29117d46b5

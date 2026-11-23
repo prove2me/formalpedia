@@ -9342,7 +9342,7 @@
 {"parent": "RH1E6S00_D006_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_B_actual_canonical_first_positive_stop_crossing_cell", "child": "AvramDividend.Classical.avram_jump6_B_actual_canonical_grid_monotone_zero_and_reaches_stop_v2", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_jump6_B_actual_canonical_first_positive_stop_crossing_cell", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "GaoQuantumUnion.subnormalized", "child": "GaoQuantumUnion_Model", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.subnormalized", "child": "GaoQuantumUnion_Model", "via": ["solution", "statement"]}
 {"parent": "RH1E6S02_D032_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "DualSepClusterLP.twoPositiveTriangleEndpoints", "child": "DualSepClusterLP_RoundingAnalysis", "via": ["statement"]}
 {"parent": "QEC.Distillation.Why24AGFamily.f1024Why24OddCSSXDistance_lower_bound", "child": "QEC_Coding_AlgebraicGeometry_Places_FullConstantField", "via": ["solution", "statement"]}
@@ -16536,7 +16536,7 @@
 {"parent": "P2M_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerPolynomial_eval__hom_5c9005d9bf86", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRelativeGaussSecondUnits", "via": ["solution", "statement"]}
 {"parent": "P2M_QEC_Coding_TannerLiftedProduct_lpsOriginalIntegerPolynomial_eval__hom_5c9005d9bf86", "child": "QEC_Coding_ExpanderCodes_LPSOriginalRelativeGaussFrobeniusDescent", "via": ["solution", "statement"]}
 {"parent": "RPLib_F2_055", "child": "RPLib_F2_053", "via": ["statement"]}
-{"parent": "GaoQuantumUnion.probability", "child": "GaoQuantumUnion_Model", "via": ["statement"]}
+{"parent": "GaoQuantumUnion.probability", "child": "GaoQuantumUnion_Model", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc_Poisson_CompensatedDensityDyadic_F001", "child": "LevyStochCalc_Poisson_CompensatedDensityTruncation_F000", "via": ["statement"]}
 {"parent": "Sensitivity_HuangBridge", "child": "Sensitivity_Defs", "via": ["statement"]}
 {"parent": "BrownianMotion_Continuity_KolmogorovChentsov_F005", "child": "BrownianMotion_Continuity_KolmogorovChentsov_F001", "via": ["statement"]}

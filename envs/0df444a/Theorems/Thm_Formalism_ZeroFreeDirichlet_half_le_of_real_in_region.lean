@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_half_le_of_real_in_region
 -- name    : Formalism.ZeroFreeDirichlet.half_le_of_real_in_region
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:01.236815+00:00
 -- url     : https://prove2.me/theorems/13fd34f3-f1a9-4c5f-8eb6-6e33b2798747
